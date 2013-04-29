@@ -1,33 +1,23 @@
-![](http://www.comlaw.gov.au/Details/C2010C00055/Html/c3ef5a9c-434f-4f10-a626-a46f3774bf80_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00794/Html/85a7ff6a-4c10-429a-825b-474fcc5c2863_files/image001.gif)
 
 # Fair Work (State Referral and Consequential and Other Amendments) Act 2009
 
-**Act No. 54 of 2009 as amended**
+**Act No. 54 of 2009 as amended**
 
-This compilation was prepared on 4 February 2010
+This compilation was prepared on 7 November 2012
+ taking into account amendments up to Act No. 136 of 2012
 
-**\[This Act was amended by SLI 2009 No. 165 (as amended by SLI 2009 No. 364)]**
+The text of any of those amendments not in force
+ on that date is appended in the Notes section
 
-**Amendments from SLI 2009 No. 165 (as amended by SLI 2009 No. 364)**
+The operation of amendments that have been incorporated may be 
+ affected by application provisions that are set out in the Notes section
 
-\[Schedule 2 (item 1) added item 87A to Schedule 5
- Schedule 2 (item 2) added Part 1 heading to Schedule 7
- Schedule 2 (item 3) added Part 2 to Schedule 7
- Schedule 2 (item 4) amended item 63 of Schedule 8
- Schedule 2 (item 5) added Division 1A to Part 2 of Schedule 8
- Schedule 2 (item 6) added Division 2A to Part 2 of Schedule 8
- Schedule 2 (item 7) added Divisions 4 and 5 to Part 2 of Schedule 8
- Schedule 2 (item 8) added Part 1 heading to Schedule 19
- Schedule 2 (item 9) added Part 2 to Schedule 19
-
-Schedule 2 commenced on 1 July 2009]
-
-Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Prepared by the Office of Parliamentary Counsel, Canberra
 
 # Contents
 
-[1](#1).            Short title
+[1](#1).            Short title [_see_ Note 1]
 
 [2](#2).            Commencement
 
@@ -59,7 +49,7 @@ Fair Work Act 2009                    �
 
 **Schedule 4—Agriculture, Fisheries and Forestry** 
 
-Australian Meat and Live-stock Industry (Repeals and Consequential Provisions) Act 1997         48
+Australian Meat and Live‑stock Industry (Repeals and Consequential Provisions) Act 1997         48
 
 Dairy Industry Service Reform Act 2003                                                               48
 
@@ -67,13 +57,13 @@ Horticulture Marketing and Research and Development Services (Repeals and Conseq
 
 Pig Industry Act 2001                                                                                               48
 
-**Schedule 5—Attorney-General** 
+**Schedule 5—Attorney‑General** 
 
 Part 1—General consequential amendments                                                   49
 
 Age Discrimination Act 2004                                                                                  49
 
-Australian Capital Territory (Self-Government) Act 1988                                49
+Australian Capital Territory (Self‑Government) Act 1988                                49
 
 Australian Crime Commission Act 2002                                                               49
 
@@ -91,37 +81,37 @@ Human Rights and Equal Opportunity Commission Act 1986        �
 
 Judges’ Pensions Act 1968                                                                                      54
 
-Judiciary Act 1903                                                                                                    54
+Judiciary Act 1903                                                                                                    55
 
-Jurisdiction of Courts (Cross-vesting) Act 1987                                                 55
+Jurisdiction of Courts (Cross‑vesting) Act 1987                                                 55
 
 Jury Exemption Act 1965                                                                                         55
 
 Legislative Instruments Act 2003                                                                           55
 
-Northern Territory (Self-Government) Act 1978                                                 56
+Northern Territory (Self‑Government) Act 1978                                                 56
 
 Seat of Government (Administration) Act 1910                                                   56
 
 Sex Discrimination Act 1984                                                                                   57
 
-Part 2—Amendments relating to discrimination in compliance with industrial instruments and laws    58
+Part 2—Amendments relating to discrimination in compliance with industrial instruments and laws    59
 
-Division 1—General                                                                                                  58
+Division 1—General                                                                                                  59
 
-Age Discrimination Act 2004                                                                                  58
+Age Discrimination Act 2004                                                                                  59
 
-Disability Discrimination Act 1992                                                                       59
+Disability Discrimination Act 1992                                                                       60
 
-Fair Work Act 2009                                                                                                   59
+Fair Work Act 2009                                                                                                   60
 
-Human Rights and Equal Opportunity Commission Act 1986                         61
+Human Rights and Equal Opportunity Commission Act 1986                         62
 
 Sex Discrimination Act 1984                                                                                   62
 
-Division 2—Amendments relating to HREOC name change                            62
+Division 2—Amendments relating to HREOC name change                            63
 
-Fair Work Act 2009                                                                                                   62
+Fair Work Act 2009                                                                                                   63
 
 Part 3—Application provisions                                                                              64
 
@@ -131,11 +121,11 @@ Telstra Corporation Act 1991                 �
 
 **Schedule 7—Defence** 
 
-Part 1—Consequential amendments                                                                    67
+Part 1—Consequential amendments                                                                    67
 
 Naval Defence Act 1910                                                                                           67
 
-Part 2—Application provisions                                                                              68
+Part 2—Application provisions                                                                              68
 
 **Schedule 8—Education, Employment and Workplace Relations** 
 
@@ -149,21 +139,21 @@ Coal Mining Industry (Long Service Leave Funding) Act 1992       �
 
 Defence Act 1903                                                                                                       82
 
-Long Service Leave (Commonwealth Employees) Act 1976                              83
+Long Service Leave (Commonwealth Employees) Act 1976                              84
 
 Maternity Leave (Commonwealth Employees) Act 1973                                   84
 
 Occupational Health and Safety Act 1991                                                           84
 
-Occupational Health and Safety (Maritime Industry) Act 1993                      84
+Occupational Health and Safety (Maritime Industry) Act 1993                      85
 
-Remuneration Tribunal Act 1973                                                                           84
+Remuneration Tribunal Act 1973                                                                           85
 
 Safety, Rehabilitation and Compensation Act 1988                                          85
 
-Seafarers Rehabilitation and Compensation Act 1992                                     85
+Seafarers Rehabilitation and Compensation Act 1992                                     86
 
-Social Security Act 1991                                                                                          87
+Social Security Act 1991                                                                                          88
 
 Tradesmen’s Rights Regulation Act 1946                                                             91
 
@@ -173,17 +163,17 @@ Part 2—Transitional provisions               �
 
 Division 1—Provisions relating to the Building and Construction Industry Improvement Act 2005              92
 
-Division 1A—Provision relating to the Coal Mining Industry (Long Service Leave Funding) Act 1992         93
+Division 1A—Provision relating to the Coal Mining Industry (Long Service Leave Funding) Act 1992         93
 
-Division 2—Provision relating to the Defence Act 1903                                    93
+Division 2—Provision relating to the Defence Act 1903                                    94
 
-Division 2A—Provision relating to the Maternity Leave (Commonwealth Employees) Act 1973  94
+Division 2A—Provision relating to the Maternity Leave (Commonwealth Employees) Act 1973  94
 
 Division 3—Provisions relating to the Remuneration Tribunal Act 1973       94
 
-Division 4—Provisions relating to the Seafarers Rehabilitation and Compensation Act 1992         95
+Division 4—Provisions relating to the Seafarers Rehabilitation and Compensation Act 1992         96
 
-Division 5—Provisions relating to the Social Security Act 1991                       96
+Division 5—Provisions relating to the Social Security Act 1991                       96
 
 **Schedule 9—Families, Housing, Community Services and Indigenous Affairs** 
 
@@ -247,7 +237,7 @@ Part 2—Saving provision                 �
 
 **Schedule 17—Resources, Energy and Tourism** 
 
-Moomba-Sydney Pipeline System Sale Act 1994                                              125
+Moomba‑Sydney Pipeline System Sale Act 1994                                              125
 
 Offshore Petroleum and Greenhouse Gas Storage Act 2006                          125
 
@@ -283,21 +273,19 @@ Part 2—Application provision                
 
 **Schedule 19—Veterans’ Affairs** 
 
-Part 1—Consequential amendments                                                                  134
+Part 1—Consequential amendments                                                                  134
 
 Military Rehabilitation and Compensation Act 2004                                     134
 
-Part 2—Application provision                                                                              136
+Part 2—Application provision                                                                              136
 
 **Schedule 20—Regulations** 
 
+**Notes** 
+
 ## An Act to amend the _Fair Work Act 2009_, to make amendments consequential on the enactment of that Act, and for other purposes
 
-[_Assented to 25 June 2009_]
-
-The Parliament of Australia enacts:
-
-##### <a id="1"></a>1  Short title
+##### <a id="1"></a>1  Short title [_see_ Note 1]
 
                    This Act may be cited as the _Fair Work (State Referral and Consequential and Other Amendments) Act 2009_.
 
@@ -411,7 +399,7 @@ The Parliament of Australia enacts:
       <i>Fair Work (Transitional Provisions and Consequential Amendments) Act 2009</i>.</div>
   </td>
   <td>
-    <div>1 July 2009</div>
+    <div>1 July 2009</div>
   </td>
 </tr>
 <tr>
@@ -435,7 +423,7 @@ The Parliament of Australia enacts:
       <i>Fair Work (Transitional Provisions and Consequential Amendments) Act 2009</i>.</div>
   </td>
   <td>
-    <div>1 July 2009</div>
+    <div>1 July 2009</div>
   </td>
 </tr>
 <tr>
@@ -447,7 +435,7 @@ The Parliament of Australia enacts:
       <i>Fair Work (Transitional Provisions and Consequential Amendments) Act 2009</i>.</div>
   </td>
   <td>
-    <div>1 January 2010</div>
+    <div>1 January 2010</div>
   </td>
 </tr>
 <tr>
@@ -467,11 +455,11 @@ The Parliament of Australia enacts:
     <div>10\. Schedule 4</div>
   </td>
   <td>
-    <div>Immediately after the commencement of Part 2-4 of the
+    <div>Immediately after the commencement of Part 2‑4 of the
       <i>Fair Work Act 2009</i>.</div>
   </td>
   <td>
-    <div>1 July 2009</div>
+    <div>1 July 2009</div>
   </td>
 </tr>
 <tr>
@@ -479,11 +467,11 @@ The Parliament of Australia enacts:
     <div>11\. Schedule 5, items 1 to 30</div>
   </td>
   <td>
-    <div>Immediately after the commencement of Part 2-4 of the
+    <div>Immediately after the commencement of Part 2‑4 of the
       <i>Fair Work Act 2009</i>.</div>
   </td>
   <td>
-    <div>1 July 2009</div>
+    <div>1 July 2009</div>
   </td>
 </tr>
 <tr>
@@ -492,7 +480,7 @@ The Parliament of Australia enacts:
   </td>
   <td>
     <div>The later of:</div>
-    <div>(a) immediately after the commencement of Part 2-4 of the
+    <div>(a) immediately after the commencement of Part 2‑4 of the
       <i>Fair Work Act 2009</i>; and</div>
     <div>(b) immediately after the commencement of item 41 of Schedule 2 to the
       <i>Disability Discrimination and Other Human Rights Legislation Amendment
@@ -501,8 +489,8 @@ The Parliament of Australia enacts:
       in paragraph (b) does not occur.</div>
   </td>
   <td>
-    <div>5 August 2009</div>
-    <div>(paragraph (b) applies)</div>
+    <div>5 August 2009</div>
+    <div>(paragraph (b) applies)</div>
   </td>
 </tr>
 <tr>
@@ -510,11 +498,11 @@ The Parliament of Australia enacts:
     <div>13\. Schedule 5, items 32 to 64</div>
   </td>
   <td>
-    <div>Immediately after the commencement of Part 2-4 of the
+    <div>Immediately after the commencement of Part 2‑4 of the
       <i>Fair Work Act 2009</i>.</div>
   </td>
   <td>
-    <div>1 July 2009</div>
+    <div>1 July 2009</div>
   </td>
 </tr>
 <tr>
@@ -523,7 +511,7 @@ The Parliament of Australia enacts:
   </td>
   <td>
     <div>The later of:</div>
-    <div>(a) immediately after the commencement of Part 2-4 of the
+    <div>(a) immediately after the commencement of Part 2‑4 of the
       <i>Fair Work Act 2009</i>; and</div>
     <div>(b) immediately after the commencement of item 101 of Schedule 2 to the
       <i>Disability Discrimination and Other Human Rights Legislation Amendment
@@ -532,8 +520,8 @@ The Parliament of Australia enacts:
       in paragraph (b) does not occur.</div>
   </td>
   <td>
-    <div>1 July 2009</div>
-    <div>(paragraph (a) applies)</div>
+    <div>1 July 2009</div>
+    <div>(paragraph (a) applies)</div>
   </td>
 </tr>
 <tr>
@@ -541,11 +529,11 @@ The Parliament of Australia enacts:
     <div>15\. Schedule 5, item 67</div>
   </td>
   <td>
-    <div>Immediately after the commencement of Part 2-4 of the
+    <div>Immediately after the commencement of Part 2‑4 of the
       <i>Fair Work Act 2009</i>.</div>
   </td>
   <td>
-    <div>1 July 2009</div>
+    <div>1 July 2009</div>
   </td>
 </tr>
 <tr>
@@ -553,11 +541,11 @@ The Parliament of Australia enacts:
     <div>16\. Schedule 5, items 68 and 69</div>
   </td>
   <td>
-    <div>Immediately after the commencement of Part 2-3 of the
+    <div>Immediately after the commencement of Part 2‑3 of the
       <i>Fair Work Act 2009</i>.</div>
   </td>
   <td>
-    <div>1 January 2010</div>
+    <div>1 January 2010</div>
   </td>
 </tr>
 <tr>
@@ -565,11 +553,11 @@ The Parliament of Australia enacts:
     <div>17\. Schedule 5, items 70 to 79</div>
   </td>
   <td>
-    <div>Immediately after the commencement of Part 2-4 of the
+    <div>Immediately after the commencement of Part 2‑4 of the
       <i>Fair Work Act 2009</i>.</div>
   </td>
   <td>
-    <div>1 July 2009</div>
+    <div>1 July 2009</div>
   </td>
 </tr>
 <tr>
@@ -586,8 +574,8 @@ The Parliament of Australia enacts:
       in paragraph (b) does not occur.</div>
   </td>
   <td>
-    <div>1 January 2010</div>
-    <div>(paragraph (a) applies)</div>
+    <div>1 January 2010</div>
+    <div>(paragraph (a) applies)</div>
   </td>
 </tr>
 <tr>
@@ -604,8 +592,8 @@ The Parliament of Australia enacts:
       in paragraph (b) does not occur.</div>
   </td>
   <td>
-    <div>5 August 2009</div>
-    <div>(paragraph (b) applies)</div>
+    <div>5 August 2009</div>
+    <div>(paragraph (b) applies)</div>
   </td>
 </tr>
 <tr>
@@ -622,8 +610,8 @@ The Parliament of Australia enacts:
       in paragraph (b) does not occur.</div>
   </td>
   <td>
-    <div>5 August 2009</div>
-    <div>(paragraph (b) applies)</div>
+    <div>5 August 2009</div>
+    <div>(paragraph (b) applies)</div>
   </td>
 </tr>
 <tr>
@@ -631,11 +619,11 @@ The Parliament of Australia enacts:
     <div>21\. Schedule 5, Part 3</div>
   </td>
   <td>
-    <div>Immediately after the commencement of Part 2-4 of the
+    <div>Immediately after the commencement of Part 2‑4 of the
       <i>Fair Work Act 2009</i>.</div>
   </td>
   <td>
-    <div>1 July 2009</div>
+    <div>1 July 2009</div>
   </td>
 </tr>
 <tr>
@@ -643,11 +631,11 @@ The Parliament of Australia enacts:
     <div>22\. Schedule 6</div>
   </td>
   <td>
-    <div>Immediately after the commencement of Part 2-4 of the
+    <div>Immediately after the commencement of Part 2‑4 of the
       <i>Fair Work Act 2009</i>.</div>
   </td>
   <td>
-    <div>1 July 2009</div>
+    <div>1 July 2009</div>
   </td>
 </tr>
 <tr>
@@ -655,11 +643,11 @@ The Parliament of Australia enacts:
     <div>23\. Schedule 7</div>
   </td>
   <td>
-    <div>Immediately after the commencement of Part 2-4 of the
+    <div>Immediately after the commencement of Part 2‑4 of the
       <i>Fair Work Act 2009</i>.</div>
   </td>
   <td>
-    <div>1 July 2009</div>
+    <div>1 July 2009</div>
   </td>
 </tr>
 <tr>
@@ -667,11 +655,11 @@ The Parliament of Australia enacts:
     <div>24\. Schedule 8, items 1 to 130</div>
   </td>
   <td>
-    <div>Immediately after the commencement of Part 2-4 of the
+    <div>Immediately after the commencement of Part 2‑4 of the
       <i>Fair Work Act 2009</i>.</div>
   </td>
   <td>
-    <div>1 July 2009</div>
+    <div>1 July 2009</div>
   </td>
 </tr>
 <tr>
@@ -680,14 +668,14 @@ The Parliament of Australia enacts:
   </td>
   <td>
     <div>The later of:</div>
-    <div>(a) immediately after the commencement of Part 2-4 of the
+    <div>(a) immediately after the commencement of Part 2‑4 of the
       <i>Fair Work Act 2009</i>; and</div>
     <div>(b) immediately after the commencement of item 33 of Schedule 2 to the
       <i>Social Security Legislation Amendment (Employment Services Reform) Act
         2009</i>.</div>
   </td>
   <td>
-    <div>1 July 2009</div>
+    <div>1 July 2009</div>
   </td>
 </tr>
 <tr>
@@ -695,11 +683,11 @@ The Parliament of Australia enacts:
     <div>26\. Schedule 8, items 133 to 135</div>
   </td>
   <td>
-    <div>Immediately after the commencement of Part 2-4 of the
+    <div>Immediately after the commencement of Part 2‑4 of the
       <i>Fair Work Act 2009</i>.</div>
   </td>
   <td>
-    <div>1 July 2009</div>
+    <div>1 July 2009</div>
   </td>
 </tr>
 <tr>
@@ -708,14 +696,14 @@ The Parliament of Australia enacts:
   </td>
   <td>
     <div>The later of:</div>
-    <div>(a) immediately after the commencement of Part 2-4 of the
+    <div>(a) immediately after the commencement of Part 2‑4 of the
       <i>Fair Work Act 2009</i>; and</div>
     <div>(b) immediately after the commencement of item 147 of Schedule 2 to the
       <i>Social Security Legislation Amendment (Employment Services Reform) Act
         2009</i>.</div>
   </td>
   <td>
-    <div>1 July 2009</div>
+    <div>1 July 2009</div>
   </td>
 </tr>
 <tr>
@@ -723,11 +711,11 @@ The Parliament of Australia enacts:
     <div>28\. Schedule 8, items 137 and 138</div>
   </td>
   <td>
-    <div>Immediately after the commencement of Part 2-4 of the
+    <div>Immediately after the commencement of Part 2‑4 of the
       <i>Fair Work Act 2009</i>.</div>
   </td>
   <td>
-    <div>1 July 2009</div>
+    <div>1 July 2009</div>
   </td>
 </tr>
 <tr>
@@ -736,14 +724,14 @@ The Parliament of Australia enacts:
   </td>
   <td>
     <div>The later of:</div>
-    <div>(a) immediately after the commencement of Part 2-4 of the
+    <div>(a) immediately after the commencement of Part 2‑4 of the
       <i>Fair Work Act 2009</i>; and</div>
     <div>(b) immediately after the commencement of item 195 of Schedule 2 to the
       <i>Social Security Legislation Amendment (Employment Services Reform) Act
         2009</i>.</div>
   </td>
   <td>
-    <div>1 July 2009</div>
+    <div>1 July 2009</div>
   </td>
 </tr>
 <tr>
@@ -751,11 +739,11 @@ The Parliament of Australia enacts:
     <div>30\. Schedule 8, items 140 to 161</div>
   </td>
   <td>
-    <div>Immediately after the commencement of Part 2-4 of the
+    <div>Immediately after the commencement of Part 2‑4 of the
       <i>Fair Work Act 2009</i>.</div>
   </td>
   <td>
-    <div>1 July 2009</div>
+    <div>1 July 2009</div>
   </td>
 </tr>
 <tr>
@@ -763,11 +751,11 @@ The Parliament of Australia enacts:
     <div>31\. Schedule 9</div>
   </td>
   <td>
-    <div>Immediately after the commencement of Part 2-4 of the
+    <div>Immediately after the commencement of Part 2‑4 of the
       <i>Fair Work Act 2009</i>.</div>
   </td>
   <td>
-    <div>1 July 2009</div>
+    <div>1 July 2009</div>
   </td>
 </tr>
 <tr>
@@ -775,11 +763,11 @@ The Parliament of Australia enacts:
     <div>32\. Schedule 10</div>
   </td>
   <td>
-    <div>Immediately after the commencement of Part 2-4 of the
+    <div>Immediately after the commencement of Part 2‑4 of the
       <i>Fair Work Act 2009</i>.</div>
   </td>
   <td>
-    <div>1 July 2009</div>
+    <div>1 July 2009</div>
   </td>
 </tr>
 <tr>
@@ -787,11 +775,11 @@ The Parliament of Australia enacts:
     <div>33\. Schedule 11</div>
   </td>
   <td>
-    <div>Immediately after the commencement of Part 2-4 of the
+    <div>Immediately after the commencement of Part 2‑4 of the
       <i>Fair Work Act 2009</i>.</div>
   </td>
   <td>
-    <div>1 July 2009</div>
+    <div>1 July 2009</div>
   </td>
 </tr>
 <tr>
@@ -799,11 +787,11 @@ The Parliament of Australia enacts:
     <div>34\. Schedule 12, items 1 to 3</div>
   </td>
   <td>
-    <div>Immediately after the commencement of Part 2-4 of the
+    <div>Immediately after the commencement of Part 2‑4 of the
       <i>Fair Work Act 2009</i>.</div>
   </td>
   <td>
-    <div>1 July 2009</div>
+    <div>1 July 2009</div>
   </td>
 </tr>
 <tr>
@@ -812,13 +800,13 @@ The Parliament of Australia enacts:
   </td>
   <td>
     <div>The later of:</div>
-    <div>(a) immediately after the commencement of Part 2-4 of the
+    <div>(a) immediately after the commencement of Part 2‑4 of the
       <i>Fair Work Act 2009</i>; and</div>
     <div>(b) immediately after the commencement of Schedule 1 to the
       <i>Migration Legislation Amendment (Worker Protection) Act 2008</i>.</div>
   </td>
   <td>
-    <div>14 September 2009</div>
+    <div>14 September 2009</div>
   </td>
 </tr>
 <tr>
@@ -826,11 +814,11 @@ The Parliament of Australia enacts:
     <div>36\. Schedule 13</div>
   </td>
   <td>
-    <div>Immediately after the commencement of Part 2-4 of the
+    <div>Immediately after the commencement of Part 2‑4 of the
       <i>Fair Work Act 2009</i>.</div>
   </td>
   <td>
-    <div>1 July 2009</div>
+    <div>1 July 2009</div>
   </td>
 </tr>
 <tr>
@@ -838,11 +826,11 @@ The Parliament of Australia enacts:
     <div>37\. Schedule 14</div>
   </td>
   <td>
-    <div>Immediately after the commencement of Part 2-4 of the
+    <div>Immediately after the commencement of Part 2‑4 of the
       <i>Fair Work Act 2009</i>.</div>
   </td>
   <td>
-    <div>1 July 2009</div>
+    <div>1 July 2009</div>
   </td>
 </tr>
 <tr>
@@ -850,11 +838,11 @@ The Parliament of Australia enacts:
     <div>38\. Schedule 15</div>
   </td>
   <td>
-    <div>Immediately after the commencement of Part 2-4 of the
+    <div>Immediately after the commencement of Part 2‑4 of the
       <i>Fair Work Act 2009</i>.</div>
   </td>
   <td>
-    <div>1 July 2009</div>
+    <div>1 July 2009</div>
   </td>
 </tr>
 <tr>
@@ -862,11 +850,11 @@ The Parliament of Australia enacts:
     <div>39\. Schedule 16</div>
   </td>
   <td>
-    <div>Immediately after the commencement of Part 2-4 of the
+    <div>Immediately after the commencement of Part 2‑4 of the
       <i>Fair Work Act 2009</i>.</div>
   </td>
   <td>
-    <div>1 July 2009</div>
+    <div>1 July 2009</div>
   </td>
 </tr>
 <tr>
@@ -874,11 +862,11 @@ The Parliament of Australia enacts:
     <div>40\. Schedule 17</div>
   </td>
   <td>
-    <div>Immediately after the commencement of Part 2-4 of the
+    <div>Immediately after the commencement of Part 2‑4 of the
       <i>Fair Work Act 2009</i>.</div>
   </td>
   <td>
-    <div>1 July 2009</div>
+    <div>1 July 2009</div>
   </td>
 </tr>
 <tr>
@@ -886,11 +874,11 @@ The Parliament of Australia enacts:
     <div>41\. Schedule 18</div>
   </td>
   <td>
-    <div>Immediately after the commencement of Part 2-4 of the
+    <div>Immediately after the commencement of Part 2‑4 of the
       <i>Fair Work Act 2009</i>.</div>
   </td>
   <td>
-    <div>1 July 2009</div>
+    <div>1 July 2009</div>
   </td>
 </tr>
 <tr>
@@ -898,11 +886,11 @@ The Parliament of Australia enacts:
     <div>42\. Schedule 19</div>
   </td>
   <td>
-    <div>Immediately after the commencement of Part 2-4 of the
+    <div>Immediately after the commencement of Part 2‑4 of the
       <i>Fair Work Act 2009</i>.</div>
   </td>
   <td>
-    <div>1 July 2009</div>
+    <div>1 July 2009</div>
   </td>
 </tr>
 <tr>
@@ -1007,7 +995,7 @@ Division 4 deals with other matters relating to the application of this Act.
 
 * * *
 
-## 11  After Division 2 of Part 1-3
+## 11  After Division 2 of Part 1‑3
 
 Insert:
 
@@ -1023,7 +1011,7 @@ Insert:
 
                      (a)  a matter dealt with in a law referred to in subsection 27(1A) of this Act as originally enacted; or
 
-                     (b)  a non-excluded matter within the meaning of subsection 27(2) of this Act as so enacted (other than paragraph 27(2)(p) of this Act as so enacted); or
+                     (b)  a non‑excluded matter within the meaning of subsection 27(2) of this Act as so enacted (other than paragraph 27(2)(p) of this Act as so enacted); or
 
                      (c)  rights or remedies incidental to a matter referred to in paragraph (a) or (b) of this definition;
 
@@ -1043,7 +1031,7 @@ except to the extent that this Act as so enacted deals with the matter (directly
 
                               (i)  minimum terms and conditions of employment, (including employment standards and minimum wages);
 
-                             (ii)  terms and conditions of employment contained in instruments (including instruments such as awards, determinations and enterprise-level agreements);
+                             (ii)  terms and conditions of employment contained in instruments (including instruments such as awards, determinations and enterprise‑level agreements);
 
                             (iii)  bargaining in relation to terms and conditions of employment;
 
@@ -1205,11 +1193,11 @@ Note:          Section 30H may limit the extent to which thi
 
 ##### <a id="30G"></a>30G  General protections
 
-             (1)  Part 3-1 (which deals with general protections) applies to action taken in a referring State.
+             (1)  Part 3‑1 (which deals with general protections) applies to action taken in a referring State.
 
-             (2)  This section applies despite section 337 (which limits the application of Part 3-1), and does not limit the operation of sections 338 and 339 (which set out the application of that Part).
+             (2)  This section applies despite section 337 (which limits the application of Part 3‑1), and does not limit the operation of sections 338 and 339 (which set out the application of that Part).
 
-Note:          Section 30H may limit the extent to which this section extends the application of Part 3-1.
+Note:          Section 30H may limit the extent to which this section extends the application of Part 3‑1.
 
 ##### <a id="30H"></a>30H  Division only has effect if supported by reference
 
@@ -1409,7 +1397,7 @@ Special provisions about variation or revocation after the end of the bridging p
 
 (5)       In an annual wage review, FWA may make a determination varying terms of a State reference transitional award relating to wages.
 
-(6)       For the purpose of subitem (5), Division 3 of Part 2-6 of the FW Act (other than section 292) applies to terms of a State reference transitional award relating to wages in the same way as it applies to a modern award.
+(6)       For the purpose of subitem (5), Division 3 of Part 2‑6 of the FW Act (other than section 292) applies to terms of a State reference transitional award relating to wages in the same way as it applies to a modern award.
 
 ## 16  At the end of Schedule 3
 
@@ -1445,7 +1433,7 @@ Add:
 
 State reference transitional awards or common rules: transitional APCSs not relevant
 
-(5)       If the relevant award-based transitional instrument in relation to an employee is a State reference transitional award or common rule, the references in this item to a transitional APCS are to be disregarded.
+(5)       If the relevant award‑based transitional instrument in relation to an employee is a State reference transitional award or common rule, the references in this item to a transitional APCS are to be disregarded.
 
 _Note:       State reference transitional awards or common rules contain terms dealing with wages._
 
@@ -1455,7 +1443,7 @@ Add:
 
 State reference transitional awards or common rules: transitional APCSs not relevant
 
-(6)       If the relevant award-based transitional instrument in relation to an employee is a State reference transitional award or common rule, the references in this item to a transitional APCS are to be disregarded.
+(6)       If the relevant award‑based transitional instrument in relation to an employee is a State reference transitional award or common rule, the references in this item to a transitional APCS are to be disregarded.
 
 _Note:       State reference transitional awards or common rules contain terms dealing with wages._
 
@@ -1483,7 +1471,7 @@ Add:
 
                      (b)  section 865.
 
-_Note:       Paragraph (a) has a flow-through effect to the reference in subparagraph 885(1)(j) of the WR Act to section 861._
+_Note:       Paragraph (a) has a flow‑through effect to the reference in subparagraph 885(1)(j) of the WR Act to section 861._
 
 ## 26  At the end of paragraph 5(2)(d) of Schedule 10
 
@@ -1531,7 +1519,7 @@ _Note:       State reference transitional awards or common rules are
 
 (3)       Without limiting subitem (1) (but subject to subitem (2)), transitional awards that were in operation under Schedule 6 to the WR Act immediately before the WR Act repeal day continue in operation as **_continuing Schedule 6 instruments_** on and after the repeal day in accordance with continued Schedule 6.
 
-_Note 1:    In addition to provisions of this Schedule, Part 3 of Schedule 2 may also affect continuing Schedule 6 instruments._
+_Note 1:    In addition to provisions of this Schedule, Part 3 of Schedule 2 may also affect continuing Schedule 6 instruments._
 
 _Note 2:    Compliance with continuing Schedule 6 instruments is dealt with in Schedule 16._
 
@@ -1564,7 +1552,7 @@ Insert:
   </td>
 </tr></table>
 
-## 34  Item 2 of Schedule 2 (at the end of the definition of _modernisation-related reduction in take-home pay_)
+## 34  Item 2 of Schedule 2 (at the end of the definition of _modernisation‑related reduction in take‑home pay_)
 
 Add:
 
@@ -1606,11 +1594,11 @@ Insert:
 
 **_State reference public sector transitional award modernisation process_**: see subitem 3(1) of Schedule 6A.
 
-## 41  Item 2 of Schedule 2 (definition of _take-home pay_)
+## 41  Item 2 of Schedule 2 (definition of _take‑home pay_)
 
 Omit “and subitem 11(2) of Schedule 6”, substitute “, subitem 11(2) of Schedule 6 and subitem 13(2) of Schedule 6A”.
 
-## 42  Item 2 of Schedule 2 (definition of _take-home pay order_)
+## 42  Item 2 of Schedule 2 (definition of _take‑home pay order_)
 
 Omit “and subitem 12(1) of Schedule 6”, substitute “, subitem 12(1) of Schedule 6 and subitem 14(1) of Schedule 6A”.
 
@@ -1650,7 +1638,7 @@ After “modern enterprise awards”, insert “and State reference public secto
 
 ## 50  Subitem 2(2) of Schedule 6
 
-After “award-based transitional instrument”, insert “, other than a State reference public sector transitional award,”.
+After “award‑based transitional instrument”, insert “, other than a State reference public sector transitional award,”.
 
 ## 51  After Schedule 6
 
@@ -1778,13 +1766,13 @@ _Note:       The employers and employees will cease to be covered by
 
 This is the **_State reference public sector modern awards objective_**.
 
-_Note 1:    See also item 13 (State reference public sector transitional award modernisation process is not intended to result in reduction in take-home pay)._
+_Note 1:    See also item 13 (State reference public sector transitional award modernisation process is not intended to result in reduction in take‑home pay)._
 
 _Note 2:    See also item 19 (how the FW Act applies in relation to the State reference public sector transitional award modernisation process before the FW (safety net provisions) commencement day)._
 
 8  Terms of State reference public sector modern awards
 
-(1)       Division 3 (other than sections 143 and 154) of Part 2-3 of the FW Act (which deals with terms of modern awards) applies in relation to a State reference public sector modern award made under this Division.
+(1)       Division 3 (other than sections 143 and 154) of Part 2‑3 of the FW Act (which deals with terms of modern awards) applies in relation to a State reference public sector modern award made under this Division.
 
 _Note:       See also item 19 (how the FW Act applies in relation to the State reference public sector transitional award modernisation process before the FW (safety net provisions) commencement day)._
 
@@ -1840,7 +1828,7 @@ How coverage etc. is expressed
 
 _Note:       This item does not limit the effect of any other provision of this Act under which a transitional instrument (a State reference public sector transitional award is a transitional instrument) ceases to cover a person from a time earlier than when the instrument is terminated or varied under this item._
 
-11  Notification of the cut-off for the State reference public sector transitional award modernisation process
+11  Notification of the cut‑off for the State reference public sector transitional award modernisation process
 
 (1)       FWA must, at least 6 months before the end of the period specified in subitem 4(2), advise any persons still covered by a State reference public sector transitional award:
 
@@ -1856,75 +1844,75 @@ _Note:       This item does not limit the effect of any other provis
 
 The regulations may deal with other matters relating to the State reference public sector transitional award modernisation process.
 
-Division 3—Avoiding reductions in take-home pay
+Division 3—Avoiding reductions in take‑home pay
 
-13  State reference public sector transitional award modernisation process is not intended to result in reduction in take-home pay
+13  State reference public sector transitional award modernisation process is not intended to result in reduction in take‑home pay
 
-(1)       The State reference public sector transitional award modernisation process is not intended to result in a reduction in the take-home pay of employees.
+(1)       The State reference public sector transitional award modernisation process is not intended to result in a reduction in the take‑home pay of employees.
 
-(2)       An employee’s **_take-home pay_** is the pay an employee actually receives:
+(2)       An employee’s **_take‑home pay_** is the pay an employee actually receives:
 
-                     (a)  including wages and incentive-based payments, and additional amounts such as allowances and overtime; but
+                     (a)  including wages and incentive‑based payments, and additional amounts such as allowances and overtime; but
 
                      (b)  disregarding the effect of any deductions that are made as permitted by section 324 of the FW Act.
 
 _Note:       Deductions permitted by section 324 of the FW Act may (for example) include deductions under salary sacrificing arrangements._
 
-(3)       An employee suffers a **_modernisation-related reduction in take-home pay_** if, and only if:
+(3)       An employee suffers a **_modernisation‑related reduction in take‑home pay_** if, and only if:
 
                      (a)  a State reference public sector modern award made in the State reference public sector transitional award modernisation process starts to apply to the employee when the modern award comes into operation; and
 
                      (b)  the employee is employed in the same position as (or a position that is comparable to) the position he or she was employed in immediately before the State reference public sector modern award came into operation; and
 
-                     (c)  the amount of the employee’s take-home pay for working particular hours or for a particular quantity of work after the State reference public sector modern award comes into operation is less than what would have been the employee’s take-home pay for those hours or that quantity of work immediately before the modern award came into operation; and
+                     (c)  the amount of the employee’s take‑home pay for working particular hours or for a particular quantity of work after the State reference public sector modern award comes into operation is less than what would have been the employee’s take‑home pay for those hours or that quantity of work immediately before the modern award came into operation; and
 
-                     (d)  that reduction in the employee’s take-home pay is attributable to the State reference public sector transitional award modernisation process.
+                     (d)  that reduction in the employee’s take‑home pay is attributable to the State reference public sector transitional award modernisation process.
 
-14  Orders remedying reductions in take-home pay
+14  Orders remedying reductions in take‑home pay
 
-(1)       If FWA is satisfied that an employee, or a class of employees, to whom a State reference public sector modern award applies has suffered a modernisation-related reduction in take-home pay, FWA may make any order (a **_take-home pay order_**) requiring, or relating to, the payment of an amount or amounts to the employee or employees that FWA considers appropriate to remedy the situation.
+(1)       If FWA is satisfied that an employee, or a class of employees, to whom a State reference public sector modern award applies has suffered a modernisation‑related reduction in take‑home pay, FWA may make any order (a **_take‑home pay order_**) requiring, or relating to, the payment of an amount or amounts to the employee or employees that FWA considers appropriate to remedy the situation.
 
-(2)       FWA may make a take-home pay order only on application by:
+(2)       FWA may make a take‑home pay order only on application by:
 
-                     (a)  an employee who has suffered a modernisation-related reduction in take-home pay; or
+                     (a)  an employee who has suffered a modernisation‑related reduction in take‑home pay; or
 
                      (b)  an organisation that is entitled to represent the industrial interests of such an employee; or
 
                      (c)  a person acting on behalf of a class of such employees.
 
-(3)       If FWA is satisfied that an application for a take-home pay order has already been made in relation to an employee or a class of employees, FWA may dismiss any later application that is made under these provisions in relation to the same employee or employees.
+(3)       If FWA is satisfied that an application for a take‑home pay order has already been made in relation to an employee or a class of employees, FWA may dismiss any later application that is made under these provisions in relation to the same employee or employees.
 
-15  Ensuring that take-home pay orders are confined to the circumstances for which they are needed
+15  Ensuring that take‑home pay orders are confined to the circumstances for which they are needed
 
-(1)       FWA must not make a take-home pay order in relation to an employee or class of employees if:
+(1)       FWA must not make a take‑home pay order in relation to an employee or class of employees if:
 
-                     (a)  FWA considers that the modernisation-related reduction in take-home pay is minor or insignificant; or
+                     (a)  FWA considers that the modernisation‑related reduction in take‑home pay is minor or insignificant; or
 
                      (b)  FWA is satisfied that the employee or employees have been adequately compensated in other ways for the reduction.
 
-(2)       FWA must ensure that a take-home pay order is expressed so that:
+(2)       FWA must ensure that a take‑home pay order is expressed so that:
 
-                     (a)  it does not apply to an employee unless the employee has actually suffered a modernisation-related reduction in take-home pay; and
+                     (a)  it does not apply to an employee unless the employee has actually suffered a modernisation‑related reduction in take‑home pay; and
 
-                     (b)  if the take-home pay payable to the employee under the State reference public sector modern award increases after the order is made, there is a corresponding reduction in any amount payable to the employee under the order.
+                     (b)  if the take‑home pay payable to the employee under the State reference public sector modern award increases after the order is made, there is a corresponding reduction in any amount payable to the employee under the order.
 
-16  Take-home pay order continues to have effect so long as State reference public sector modern award continues to cover the employee or employees
+16  Take‑home pay order continues to have effect so long as State reference public sector modern award continues to cover the employee or employees
 
-A take-home pay order made in relation to an employee or class of employees to whom a particular State reference public sector modern award applies continues to have effect in relation to those employees (subject to the terms of the order) for so long as the State reference public sector modern award continues to cover the employee or employees, even if it stops applying to the employee or employees because an enterprise agreement starts to apply.
+A take‑home pay order made in relation to an employee or class of employees to whom a particular State reference public sector modern award applies continues to have effect in relation to those employees (subject to the terms of the order) for so long as the State reference public sector modern award continues to cover the employee or employees, even if it stops applying to the employee or employees because an enterprise agreement starts to apply.
 
 17  Inconsistency with State reference public sector modern awards and enterprise agreements
 
-A term of a State reference public sector modern award or an enterprise agreement has no effect in relation to an employee to the extent that it is less beneficial to the employee than a term of a take-home pay order that applies to the employee.
+A term of a State reference public sector modern award or an enterprise agreement has no effect in relation to an employee to the extent that it is less beneficial to the employee than a term of a take‑home pay order that applies to the employee.
 
-18  Application of provisions of FW Act to take-home pay orders
+18  Application of provisions of FW Act to take‑home pay orders
 
-The FW Act applies as if the following provisions of that Act included a reference to a take-home pay order:
+The FW Act applies as if the following provisions of that Act included a reference to a take‑home pay order:
 
                      (a)  subsection 675(2);
 
                      (b)  subsection 706(2).
 
-_Note:       For compliance with take-home pay orders, see item 7 of Schedule 16._
+_Note:       For compliance with take‑home pay orders, see item 7 of Schedule 16._
 
 Division 4—Application of the FW Act
 
@@ -1932,11 +1920,11 @@ Division 4—Application of the FW Act
 
 For the purposes of making a State reference public sector modern award before the FW (safety net provisions) commencement day, the following provisions of the FW Act apply as if they had already commenced:
 
-                     (a)  Part 2-2 (which deals with the National Employment Standards);
+                     (a)  Part 2‑2 (which deals with the National Employment Standards);
 
                      (b)  section 134 (which deals with the modern awards objective);
 
-                     (c)  Division 3 of Part 2-3 (which deals with terms of modern awards);
+                     (c)  Division 3 of Part 2‑3 (which deals with terms of modern awards);
 
                      (d)  section 284 (which deals with the minimum wages objective);
 
@@ -2058,7 +2046,7 @@ How coverage etc. is expressed
 
                      (c)  organisations must be specified by name.
 
-## 62  At the end of Part 2-3
+## 62  At the end of Part 2‑3
 
 Add:
 
@@ -2128,9 +2116,9 @@ References to the modern awards objective
 
              (4)  FWA must not make a State reference public sector modern award otherwise than in accordance with this Division or in accordance with Part 2 of Schedule 6A to the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_.
 
-##### <a id="168H"></a>168H  State reference public sector modern awards may contain State-based differences
+##### <a id="168H"></a>168H  State reference public sector modern awards may contain State‑based differences
 
-                   Section 154 (which deals with terms that contain State-based differences) does not apply in relation to State reference public sector modern awards.
+                   Section 154 (which deals with terms that contain State‑based differences) does not apply in relation to State reference public sector modern awards.
 
 ##### <a id="168J"></a>168J  When State reference public sector modern awards come into operation
 
@@ -2228,7 +2216,7 @@ Repeal the subparagraph, substitute:
 
 ###### Schedule 4—Agriculture, Fisheries and Forestry
 
-<h9 class="ActHead9">Australian Meat and Live-stock Industry (Repeals and Consequential Provisions) Act 1997</h9>
+<h9 class="ActHead9">Australian Meat and Live‑stock Industry (Repeals and Consequential Provisions) Act 1997</h9>
 
 ## 1  Item 23 of Schedule 5 (definition of _award_)
 
@@ -2256,7 +2244,7 @@ Repeal the definition.
 
 Repeal the definition.
 
-###### Schedule 5—Attorney-General
+###### Schedule 5—Attorney‑General
 
 <h7 class="ActHead7">Part 1—General consequential amendments</h7>
 
@@ -2276,7 +2264,7 @@ _Note:       The heading to section 23 is altered by omitting “S
 
 Omit “within the meaning of Schedule 1B to the _Workplace Relations Act 1996_”, substitute “registered, or an association recognised, under the _Fair Work (Registered Organisations) Act 2009_”.
 
-<h9 class="ActHead9">Australian Capital Territory (Self-Government) Act 1988</h9>
+<h9 class="ActHead9">Australian Capital Territory (Self‑Government) Act 1988</h9>
 
 ## 4  Section 28 (note)
 
@@ -2290,7 +2278,7 @@ Omit “the Australian Industrial Relations Commission”, substitute “Fair Wo
 
 ## 6  Schedule 1
 
-Insert the following entry in its appropriate alphabetical position (determined on a letter-by-letter basis):
+Insert the following entry in its appropriate alphabetical position (determined on a letter‑by‑letter basis):
 
 _Fair Work (Registered Organisations) Act 2009_, section 356
 
@@ -2322,7 +2310,7 @@ Omit “certified agreement or collective agreement”, substitute “industrial
 
 ## 13  Subsection 69B(1)
 
-Omit “_Workplace Relations Act 1996_ (other than Division 9 of Part 9 or Part 16)”, substitute “_Fair Work Act 2009_ (other than Part 3-1 or Division 9 of Part 3-3)”.
+Omit “_Workplace Relations Act 1996_ (other than Division 9 of Part 9 or Part 16)”, substitute “_Fair Work Act 2009_ (other than Part 3‑1 or Division 9 of Part 3‑3)”.
 
 _Note:       The heading to section 69B is altered by omitting “Workplace Relations Act” and substituting “Fair Work Act”._
 
@@ -2332,7 +2320,7 @@ Omit “_Workplace Relations Act 1996_”, substitute “_Fair Work Act 2009_”
 
 ## 15  Subsection 69B(2)
 
-Omit “_Workplace Relations Act 1996_ (other than Division 4 of Part 12)”, substitute “_Fair Work Act 2009_ (other than Parts 3-1, 3-2, 6-1 and 6-4, and Division 2 of Part 3-6)”.
+Omit “_Workplace Relations Act 1996_ (other than Division 4 of Part 12)”, substitute “_Fair Work Act 2009_ (other than Parts 3‑1, 3‑2, 6‑1 and 6‑4, and Division 2 of Part 3‑6)”.
 
 ## 16  Subsection 69B(3)
 
@@ -2362,7 +2350,7 @@ Repeal the subparagraph, substitute:
 
 <h9 class="ActHead9">Crimes Act 1914</h9>
 
-## 20  Section 85ZL (subparagraphs (c)(ii) and (iii) of the definition of _Commonwealth authority_)
+## 20  Section 85ZL (subparagraphs (c)(ii) and (iii) of the definition of _Commonwealth authority_)
 
 Repeal the subparagraphs, substitute:
 
@@ -2456,13 +2444,13 @@ Add:
 
 Omit “presidential members of the Australian Industrial Relations Commission—to the Industrial Registrar”, substitute “persons who were Presidential Members of the Australian Industrial Relations Commission or the President of Fair Work Australia—to the General Manager of Fair Work Australia”.
 
-<h9 class="ActHead9">Judiciary Act 1903</h9>
+<h9 class="ActHead9" style="page-break-after:avoid">Judiciary Act 1903</h9>
 
 ## 38  Subsection 39B(2)
 
 Omit all the words from and including “reference to” to and including “Australia.”, substitute “reference to a Judge or Judges of the Family Court of Australia.”.
 
-<h9 class="ActHead9" style="page-break-after:avoid">Jurisdiction of Courts (Cross-vesting) Act 1987</h9>
+<h9 class="ActHead9" style="page-break-after:avoid">Jurisdiction of Courts (Cross‑vesting) Act 1987</h9>
 
 ## 39  After paragraph 4(4)(aa)
 
@@ -2543,7 +2531,7 @@ Repeal the items, substitute:
   </td>
 </tr></table>
 
-<h9 class="ActHead9" style="page-break-after:avoid">Northern Territory (Self-Government) Act 1978</h9>
+<h9 class="ActHead9" style="page-break-after:avoid">Northern Territory (Self‑Government) Act 1978</h9>
 
 ## 43  Subsections 53(3) and (4)
 
@@ -2864,13 +2852,13 @@ Despite the amendments made by items 40 and 41 of this Schedule, the _Jury Exe
 
 Despite the amendment made by item 54 of this Schedule, the _Sex Discrimination Act 1984_, as in force immediately before the WR Act repeal day, continues to apply, in relation to a decision of the Australian Fair Pay Commission (whether made before or after that day), as if that amendment had not been made.
 
-## 87A  Application of Sex Discrimination Act 1984—item 54
+## 87A  Application of Sex Discrimination Act 1984—item 54
 
-The _Sex Discrimination Act 1984_ is prescribed for the purposes of section 116 of the _Workplace Relations Act 1996_, to the extent that that section continues to operate in accordance with the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_, until the later of:
+The _Sex Discrimination Act 1984_ is prescribed for the purposes of section 116 of the _Workplace Relations Act 1996_, to the extent that that section continues to operate in accordance with the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_, until the later of:
 
-                     (a)  31 December 2009; or
+                     (a)  31 December 2009; or
 
-                     (b)  the date (if any) on which the Australian Industrial Relations Commission ceases to exist in accordance with a determination by the Minister under subitem 7(3) of Schedule 18 to the T&amp;C Act.
+                     (b)  the date (if any) on which the Australian Industrial Relations Commission ceases to exist in accordance with a determination by the Minister under subitem 7(3) of Schedule 18 to the T&amp;C Act.
 
 ## 88  Application of item 77
 
@@ -2888,13 +2876,13 @@ Repeal the definition.
 
 Omit “or industrial instrument”, substitute “, award or industrial agreement”.
 
-## 3  Subsection 9A(2) (definition of _post-sale long service leave rights_)
+## 3  Subsection 9A(2) (definition of _post‑sale long service leave rights_)
 
 Omit “or industrial instrument”, substitute “, award, industrial agreement”.
 
 ###### Schedule 7—Defence
 
-<h7 class="ActHead7" style="page-break-after:auto">Part 1—Consequential amendments</h7>
+<h7 class="ActHead7" style="page-break-after:auto">Part 1—Consequential amendments</h7>
 
 <h9 class="ActHead9">Naval Defence Act 1910</h9>
 
@@ -2920,13 +2908,13 @@ Omit “_Workplace Relations Act 1996_”, substitute “_Fair Work Act 2009_”
 
 Omit “(other than the Australian Fair Pay and Conditions Standard or an industrial award)”, substitute “, but subject to the National Employment Standards and any relevant national minimum wage order or industrial award”.
 
-<h7 class="ActHead7">Part 2—Application provisions</h7>
+<h7 class="ActHead7">Part 2—Application provisions</h7>
 
-## 6  Application of Naval Defence Act 1910—item 4
+## 6  Application of Naval Defence Act 1910—item 4
 
 Subsection 42A(7) of the _Naval Defence Act 1910_ applies as if a reference in that subsection to the _Fair Work Act 2009_ includes a reference to the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_.
 
-## 7  Application of Naval Defence Act 1910—item 5
+## 7  Application of Naval Defence Act 1910—item 5
 
 Subsection 42D(3) of the _Naval Defence Act 1910_ applies as if a reference in that subsection to the National Employment Standards includes a reference to the Australian Fair Pay and Conditions Standard, to the extent that the Australian Fair Pay and Conditions Standard continues to operate in accordance with the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_.
 
@@ -3080,11 +3068,11 @@ Omit “meaning given by the Workplace Relations Act”, substitute “same mean
 
 Omit “meaning given by section 4 of the Workplace Relations Act”, substitute “same meaning as in the FW Act”.
 
-## 27  Subsection 4(1) (definition of _pre-reform_ _AWA_)
+## 27  Subsection 4(1) (definition of _pre‑reform_ _AWA_)
 
 Omit all the words after “has”, substitute “the same meaning as in the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_.”.
 
-## 28  Subsection 4(1) (definition of _pre-reform_ _certified agreement_)
+## 28  Subsection 4(1) (definition of _pre‑reform_ _certified agreement_)
 
 Omit all the words after “has”, substitute “the same meaning as in the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_.”.
 
@@ -3122,11 +3110,11 @@ Omit “or the Workplace Relations Act” (wherever occurring), substitute “, 
 
 Omit “the Workplace Relations Act”, substitute “the FW Act, the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_”.
 
-## 37  Subsection 36(1) (paragraph (c) of the definition of _constitutionally-connected action_)
+## 37  Subsection 36(1) (paragraph (c) of the definition of _constitutionally‑connected action_)
 
 Repeal the paragraph.
 
-## 38  Subsection 36(1) (paragraph (e) of the definition of _constitutionally-connected action_)
+## 38  Subsection 36(1) (paragraph (e) of the definition of _constitutionally‑connected action_)
 
 Omit all the words after “relates to”, substitute “the bargaining or proposed bargaining for, or the making or proposed making of, an enterprise agreement”.
 
@@ -3164,9 +3152,9 @@ Omit “negotiating party to”, substitute “bargaining representative for”.
 
 Repeal the section.
 
-## 47  Subsection 42(1)
+## 47  Subsection 42(1)
 
-Omit “Division 9 of Part 9 of the Workplace Relations Act”, substitute “Division 9 of Part 3-3 of the FW Act (which deals with payments for periods of industrial action)”.
+Omit “Division 9 of Part 9 of the Workplace Relations Act”, substitute “Division 9 of Part 3‑3 of the FW Act (which deals with payments for periods of industrial action)”.
 
 ## 48  Paragraph 42(1)(b)
 
@@ -3176,7 +3164,7 @@ Repeal the paragraph, substitute:
 
 ## 49  Subsection 42(2)
 
-Omit “Division 9 of Part 9 of the Workplace Relations Act”, substitute “Division 9 of Part 3-3 of the FW Act (which deals with payments for periods of industrial action)”.
+Omit “Division 9 of Part 9 of the Workplace Relations Act”, substitute “Division 9 of Part 3‑3 of the FW Act (which deals with payments for periods of industrial action)”.
 
 ## 50  Paragraph 44(1)(c)
 
@@ -3230,7 +3218,7 @@ Omit “protected action for the purposes of the Workplace Relations Act”, sub
 
 ## 59  Paragraph 45(4)(a)
 
-Omit “or pre-reform AWA”, substitute “, pre-reform AWA or fair work instrument”.
+Omit “or pre‑reform AWA”, substitute “, pre‑reform AWA or fair work instrument”.
 
 ## 60  Subsection 46(2)
 
@@ -3464,7 +3452,7 @@ Omit all the words from and including “to any decision” to the end, substitu
 
 Omit “presidential member of the Commission”, substitute “Deputy President of FWA”.
 
-<h9 class="ActHead9">Long Service Leave (Commonwealth Employees) Act 1976</h9>
+<h9 class="ActHead9" style="page-break-after:avoid">Long Service Leave (Commonwealth Employees) Act 1976</h9>
 
 ## 98  Paragraph 12(11)(a)
 
@@ -3494,7 +3482,7 @@ Repeal the paragraph, substitute:
 
                      (a)  an association that is registered or recognised under the _Fair Work (Registered Organisations) Act 2009_; or
 
-<h9 class="ActHead9">Occupational Health and Safety (Maritime Industry) Act 1993</h9>
+<h9 class="ActHead9" style="page-break-after:avoid">Occupational Health and Safety (Maritime Industry) Act 1993</h9>
 
 ## 103  Section 4 (paragraph (a) of the definition of _registered union_)
 
@@ -3516,7 +3504,7 @@ Repeal the paragraphs, substitute:
 
                      (a)  national minimum wage orders made by Fair Work Australia; or
 
-                     (b)  if Fair Work Australia has not yet made its first national minimum wage order—the last wage-setting decision of the Australian Fair Pay Commission.
+                     (b)  if Fair Work Australia has not yet made its first national minimum wage order—the last wage‑setting decision of the Australian Fair Pay Commission.
 
 ## 106  Subsection 7(4B)
 
@@ -3572,13 +3560,13 @@ Insert:
 
                     <a name="nation-employ-standard"></a>**_National Employment Standards_** has the same meaning as in the _Fair Work Act 2009_.
 
-## 116  Section 3 (definition of _pre-reform certified agreement_)
+## 116  Section 3 (definition of _pre‑reform certified agreement_)
 
 Repeal the definition.
 
 ## 117  Subsection 13(2)
 
-Omit “award, determination, collective agreement, pre-reform certified agreement or the Australian Fair Pay and Conditions Standard”, substitute “industrial instrument or National Employment Standards”.
+Omit “award, determination, collective agreement, pre‑reform certified agreement or the Australian Fair Pay and Conditions Standard”, substitute “industrial instrument or National Employment Standards”.
 
 ## 118  Subsection 13(3)
 
@@ -3586,15 +3574,15 @@ Omit “a certified agreement”, substitute “an industrial instrument”.
 
 ## 119  Subsection 13(5)
 
-Omit “award, determination, collective agreement, pre-reform certified agreement or the Australian Fair Pay and Conditions Standard or”, substitute “industrial instrument, the National Employment Standards or a”.
+Omit “award, determination, collective agreement, pre‑reform certified agreement or the Australian Fair Pay and Conditions Standard or”, substitute “industrial instrument, the National Employment Standards or a”.
 
 ## 120  Paragraph 13(6)(b)
 
-Omit “award, determination, collective agreement, pre-reform certified agreement or the Australian Fair Pay and Conditions Standard”, substitute “industrial instrument or the National Employment Standards”.
+Omit “award, determination, collective agreement, pre‑reform certified agreement or the Australian Fair Pay and Conditions Standard”, substitute “industrial instrument or the National Employment Standards”.
 
 ## 121  Paragraph 31(14)(a)
 
-Omit “award, determination, collective agreement, pre-reform certified agreement or the Australian Fair Pay and Conditions Standard that applies”, substitute “industrial instrument or National Employment Standards that apply”.
+Omit “award, determination, collective agreement, pre‑reform certified agreement or the Australian Fair Pay and Conditions Standard that applies”, substitute “industrial instrument or National Employment Standards that apply”.
 
 ## 122  Subsection 61(6) (definition of _award_)
 
@@ -3606,13 +3594,13 @@ Omit “award or order made”, substitute “award, determination or order made
 
 ## 124  Subsection 78(7) (definition of _industry panel_)
 
-Omit “a collective agreement or a pre-reform certified agreement”, substitute “an industrial agreement”.
+Omit “a collective agreement or a pre‑reform certified agreement”, substitute “an industrial agreement”.
 
 ## 125  Section 137
 
-Omit “award, determination, collective agreement or pre-reform certified agreement”, substitute “industrial instrument or National Employment Standards”.
+Omit “award, determination, collective agreement or pre‑reform certified agreement”, substitute “industrial instrument or National Employment Standards”.
 
-<h9 class="ActHead9">Social Security Act 1991</h9>
+<h9 class="ActHead9" style="page-break-after:avoid">Social Security Act 1991</h9>
 
 ## 126  Section 16C
 
@@ -3802,9 +3790,9 @@ Despite the repeal of paragraph 64(1)(d) of the _Building and Construction Indus
 
 (3)       Subsection 77(2) of the _Building and Construction Industry Improvement Act 2005_ applies, on and after the WR Act repeal day, in relation to the Industrial Registrar as if the Industrial Registrar were a protected person.
 
-<h8 class="ActHead8">Division 1A—Provision relating to the Coal Mining Industry (Long Service Leave Funding) Act 1992</h8>
+<h8 class="ActHead8">Division 1A—Provision relating to the Coal Mining Industry (Long Service Leave Funding) Act 1992</h8>
 
-## 158A  Application of Coal Mining Industry (Long Service Leave Funding) Act 1992—items 86 and 87
+## 158A  Application of Coal Mining Industry (Long Service Leave Funding) Act 1992—items 86 and 87
 
 (1)       The definition of **_eligible employee_** in subsection 4(1) of the _Coal Mining Industry (Long Service Leave Funding) Act 1992_ applies as if a reference in that definition to the National Employment Standards includes a reference to the Australian Fair Pay and Conditions Standard, to the extent that the Australian Fair Pay and Conditions Standard continues to operate in accordance with the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_.
 
@@ -3830,11 +3818,11 @@ Despite the repeal of paragraph 64(1)(d) of the _Building and Construction Indus
 
 (2)       However, for the purposes of an appointment continued in effect by subitem (1), the requirement in paragraph 58L(2)(c) of the _Defence Act 1903_ (as amended by this Act) that the President of the Defence Force Remuneration Tribunal be a Deputy President of FWA may be met instead by the President being a presidential member of the Commission (within the meaning of section 58F of the _Defence Act 1903_ as in force immediately before the commencement of item 93).
 
-<h8 class="ActHead8">Division 2A—Provision relating to the Maternity Leave (Commonwealth Employees) Act 1973</h8>
+<h8 class="ActHead8">Division 2A—Provision relating to the Maternity Leave (Commonwealth Employees) Act 1973</h8>
 
-## 159A  Application of Maternity Leave (Commonwealth Employees) Act 1973—item 101
+## 159A  Application of Maternity Leave (Commonwealth Employees) Act 1973—item 101
 
-Section 8 of the _Maternity Leave (Commonwealth Employees) Act 1973_ applies as if a reference in that section to section 84 of the _Fair Work Act 2009_ includes a reference to sections 280 and 281 of the _Workplace Relations Act 1996_, to the extent that those sections continue to operate in accordance with the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_.
+Section 8 of the _Maternity Leave (Commonwealth Employees) Act 1973_ applies as if a reference in that section to section 84 of the _Fair Work Act 2009_ includes a reference to sections 280 and 281 of the _Workplace Relations Act 1996_, to the extent that those sections continue to operate in accordance with the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_.
 
 <h8 class="ActHead8">Division 3—Provisions relating to the Remuneration Tribunal Act 1973</h8>
 
@@ -3852,9 +3840,9 @@ Section 8 of the _Maternity Leave (Commonwealth Employees) Act 1973_ applies as 
 
 (3)       Despite the repeal of subsection 7(4C) of the _Remuneration Tribunal Act 1973_ by item 107, that subsection, as in force immediately before that repeal, continues to apply in relation to members of the Australian Fair Pay Commission until that Commission ceases to exist.
 
-<h8 class="ActHead8">Division 4—Provisions relating to the Seafarers Rehabilitation and Compensation Act 1992</h8>
+<h8 class="ActHead8">Division 4—Provisions relating to the Seafarers Rehabilitation and Compensation Act 1992</h8>
 
-## 162  Application of Seafarers Rehabilitation and Compensation Act 1992—items 117, 119, 120 and 121
+## 162  Application of Seafarers Rehabilitation and Compensation Act 1992—items 117, 119, 120 and 121
 
 The following provisions of the _Seafarers Rehabilitation and Compensation Act 1992_ apply as if a reference in those provisions to the National Employment Standards includes a reference to the Australian Fair Pay and Conditions Standard, to the extent that the Australian Fair Pay and Conditions Standard continues to operate in accordance with the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009:_
 
@@ -3866,9 +3854,9 @@ The following provisions of the _Seafarers Rehabilitation and Compensation Act 1
 
                      (d)  paragraph 31(14)(a).
 
-<h8 class="ActHead8">Division 5—Provisions relating to the Social Security Act 1991</h8>
+<h8 class="ActHead8">Division 5—Provisions relating to the Social Security Act 1991</h8>
 
-## 163  Application of Social Security Act 1991—item 143
+## 163  Application of Social Security Act 1991—item 143
 
 Paragraph 1061PB(2)(a) of the _Social Security Act 1991_ applies as if a reference in that paragraph to the National Employment Standards includes a reference to the Australian Fair Pay and Conditions Standard, to the extent that the Australian Fair Pay and Conditions Standard continues to operate in accordance with the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_.
 
@@ -3914,7 +3902,7 @@ Repeal the paragraphs, substitute:
 
                               (i)  an award;
 
-                             (ii)  a pre-reform certified agreement;
+                             (ii)  a pre‑reform certified agreement;
 
                             (iii)  an individual transitional employment agreement;
 
@@ -4010,7 +3998,7 @@ Repeal the paragraphs, substitute:
 
                      (a)  national minimum wage orders of Fair Work Australia, and, in particular, any statements by Fair Work Australia about the effect of wage increases on productivity, inflation and levels of employment; or
 
-                     (b)  if no such order has been made—the last wage-setting decision of the Australian Fair Pay Commission.
+                     (b)  if no such order has been made—the last wage‑setting decision of the Australian Fair Pay Commission.
 
 ## 7  Subsection 99A(2)
 
@@ -4032,7 +4020,7 @@ Omit “Senior Deputy President or a Deputy President of the Australian Industri
 
 After “713”, insert “, 713A”.
 
-## 2  Paragraphs 713(d) and (e)
+## 2  Paragraphs 713(2)(d) and (e)
 
 Repeal the paragraphs.
 
@@ -4094,7 +4082,7 @@ Repeal the sections, substitute:
 
                              (ii)  is accessible from a computer that is kept on the premises or at the place.
 
-Note:          See also sections 140XG, 140XH and 140XI (which deal with self-incrimination and produced documents etc.).
+Note:          See also sections 140XG, 140XH and 140XI (which deal with self‑incrimination and produced documents etc.).
 
 ##### <a id="140XD"></a>140XD  Persons assisting inspectors
 
@@ -4164,7 +4152,7 @@ The notice may be served by sending the notice to the person’s fax number.
 
              (4)  Subsection (3) does not apply if the person has a reasonable excuse.
 
-##### <a id="140XG"></a>140XG  Self-incrimination
+##### <a id="140XG"></a>140XG  Self‑incrimination
 
              (1)  A person is not excused from producing a record or document under paragraph 140XC(d), or subsection 140XF(1), on the ground that the production of the record or document might tend to incriminate the person or expose the person to a penalty.
 
@@ -4302,7 +4290,7 @@ Repeal the paragraph, substitute:
 
 ## 10  Subsection 34(7)
 
-Omit “Division 3 of Part 14 of the _Workplace Relations Act 1996_”, substitute “Division 4 of Part 4-1 of the _Fair Work Act 2009_”.
+Omit “Division 3 of Part 14 of the _Workplace Relations Act 1996_”, substitute “Division 4 of Part 4‑1 of the _Fair Work Act 2009_”.
 
 <h7 class="ActHead7">Part 2—Transitional provision</h7>
 
@@ -4364,11 +4352,11 @@ Insert:
 
                     <a name="nation-employ-standard"></a>**_National Employment Standards_** has the same meaning as in the _Fair Work Act 2009_.
 
-## 10  Section 7 (definition of _pre-reform AWA_)
+## 10  Section 7 (definition of _pre‑reform AWA_)
 
 Repeal the definition.
 
-## 11  Section 7 (definition of _pre-reform certified agreement_)
+## 11  Section 7 (definition of _pre‑reform certified agreement_)
 
 Repeal the definition.
 
@@ -4380,13 +4368,13 @@ Repeal the definition.
 
 Insert:
 
-                    <a name="wr-act-collect-transition-instrum"></a>**_WR Act collective transitional instrument_** means an award, a collective agreement or a pre-reform certified agreement (within the meaning of those terms in the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_).
+                    <a name="wr-act-collect-transition-instrum"></a>**_WR Act collective transitional instrument_** means an award, a collective agreement or a pre‑reform certified agreement (within the meaning of those terms in the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_).
 
 ## 14  Section 7
 
 Insert:
 
-                    <a name="wr-act-transition-instrum"></a>**_WR Act transitional instrument_** means an award, a workplace agreement, a pre-reform certified agreement, an AWA or a pre-reform AWA (within the meaning of those terms in the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_).
+                    <a name="wr-act-transition-instrum"></a>**_WR Act transitional instrument_** means an award, a workplace agreement, a pre‑reform certified agreement, an AWA or a pre‑reform AWA (within the meaning of those terms in the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_).
 
 ## 15  Subsection 8(1)
 
@@ -4502,7 +4490,7 @@ Insert:
 
 Small business operator that is a protected action ballot agent under the Fair Work Act 2009
 
-          (1B)  If a small business operator is the protected action ballot agent for a protected action ballot conducted under Part 3-3 of the _Fair Work Act 2009_, this Act applies, with the prescribed modifications (if any), in relation to the activities carried on by the small business operator for the purpose of, or in connection with, the conduct of the protected action ballot, as if the small business operator were an organisation.
+          (1B)  If a small business operator is the protected action ballot agent for a protected action ballot conducted under Part 3‑3 of the _Fair Work Act 2009_, this Act applies, with the prescribed modifications (if any), in relation to the activities carried on by the small business operator for the purpose of, or in connection with, the conduct of the protected action ballot, as if the small business operator were an organisation.
 
 Note:          The regulations may prescribe different modifications of the Act for different small business operators. See subsection 33(3A) of the _Acts Interpretation Act 1901_.
 
@@ -4516,7 +4504,7 @@ Note:          The regulations may prescribe different modific
 
 Insert:
 
-                    <a name="protect-action-ballot-agent"></a>**_protected action ballot agent_** means a person (other than the Australian Electoral Commission) that conducts a protected action ballot under Part 3-3 of the _Fair Work Act 2009_.
+                    <a name="protect-action-ballot-agent"></a>**_protected action ballot agent_** means a person (other than the Australian Electoral Commission) that conducts a protected action ballot under Part 3‑3 of the _Fair Work Act 2009_.
 
 _Note:       The heading to subsection 6E(3) is replaced by the heading “Definitions”._
 
@@ -4570,11 +4558,11 @@ Insert:
 
                     <a name="nation-employ-standard"></a>**_National Employment Standards_** has the same meaning as in the _Fair Work Act 2009_.
 
-## 13  Section 7 (definition of _pre-reform AWA_)
+## 13  Section 7 (definition of _pre‑reform AWA_)
 
 Repeal the definition.
 
-## 14  Section 7 (definition of _pre-reform certified agreement_)
+## 14  Section 7 (definition of _pre‑reform certified agreement_)
 
 Repeal the definition.
 
@@ -4586,13 +4574,13 @@ Repeal the definition.
 
 Insert:
 
-                    <a name="wr-act-collect-transition-instrum"></a>**_WR Act collective transitional instrument_** means an award, a collective agreement or a pre-reform certified agreement (within the meaning of those terms in the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_).
+                    <a name="wr-act-collect-transition-instrum"></a>**_WR Act collective transitional instrument_** means an award, a collective agreement or a pre‑reform certified agreement (within the meaning of those terms in the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_).
 
 ## 17  Section 7
 
 Insert:
 
-                    <a name="wr-act-transition-instrum"></a>**_WR Act transitional instrument_** means an award, a workplace agreement, a pre-reform certified agreement, an AWA or a pre-reform AWA (within the meaning of those terms in the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_).
+                    <a name="wr-act-transition-instrum"></a>**_WR Act transitional instrument_** means an award, a workplace agreement, a pre‑reform certified agreement, an AWA or a pre‑reform AWA (within the meaning of those terms in the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_).
 
 ## 18  Subsection 8(1)
 
@@ -4718,7 +4706,7 @@ If a determination made by an Agency Head under subsection 24(1) of the _Public 
 
 ###### Schedule 17—Resources, Energy and Tourism
 
-<h9 class="ActHead9">Moomba-Sydney Pipeline System Sale Act 1994</h9>
+<h9 class="ActHead9">Moomba‑Sydney Pipeline System Sale Act 1994</h9>
 
 ## 1  Subsection 3(1) (definition of _award_)
 
@@ -4788,19 +4776,19 @@ Omit “under the _Workplace Relations Act 1996_”, substitute “or recognised
 
 <h9 class="ActHead9">Income Tax Assessment Act 1997</h9>
 
-## 6  Section 50-15 (table item 3.1)
+## 6  Section 50‑15 (table item 3.1)
 
 Omit “under the _Workplace Relations Act 1996_”, substitute “or recognised under the _Fair Work (Registered Organisations) Act 2009_”.
 
-## 7  Paragraph 290-80(1)(b)
+## 7  Paragraph 290‑80(1)(b)
 
 Omit “given by Schedule 8 to the _Workplace Relations Act 1996_”, substitute “of the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_”.
 
-## 8  Subsection 290-80(2) (note)
+## 8  Subsection 290‑80(2) (note)
 
 Omit all the words from and including “individual” to and including “_1996_”, substitute “enterprise agreement within the meaning of the _Fair Work Act 2009_”.
 
-## 9  At the end of section 290-80
+## 9  At the end of section 290‑80
 
 Add:
 
@@ -4808,7 +4796,7 @@ Add:
 
 <h9 class="ActHead9">Income Tax (Transitional Provisions) Act 1997</h9>
 
-## 10  Paragraph 82-10(1)(a)
+## 10  Paragraph 82‑10(1)(a)
 
 Omit all the words from and including “_Workplace_” to and including “7A to”, substitute “_Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_ or an AWA within the meaning of”.
 
@@ -4862,9 +4850,9 @@ Repeal the section, substitute:
 
                      (e)  **_old IR agreement_**;
 
-                      (f)  **_pre-reform AWA_**;
+                      (f)  **_pre‑reform AWA_**;
 
-                     (g)  **_pre-reform certified agreement_**;
+                     (g)  **_pre‑reform certified agreement_**;
 
                      (h)  **_preserved State agreement_**.
 
@@ -4902,13 +4890,13 @@ Repeal the subsection.
 
 <h9 class="ActHead9">Superannuation Industry (Supervision) Act 1993</h9>
 
-## 23  Subsection 10(1) (paragraph (c) of the definition of _registered organisation_)
+## 23  Subsection 10(1) (paragraph (c) of the definition of _registered organisation_)
 
 Omit “under Schedule 1B to the _Workplace Relations Act 1996_”, substitute “, or recognised, under the _Fair Work (Registered Organisations) Act 2009_”.
 
 <h9 class="ActHead9">Trade Practices Act 1974</h9>
 
-## 24  Subsection 45DD(4)
+## 24  Subsection 45DD(4)
 
 Omit “an industrial instrument” (wherever occurring), substitute “a workplace instrument”.
 
@@ -4970,7 +4958,7 @@ Despite the amendments of section 5B of the _Superannuation Guarantee (Adminis
 
 ###### Schedule 19—Veterans’ Affairs
 
-<h7 class="ActHead7" style="page-break-after:auto">Part 1—Consequential amendments</h7>
+<h7 class="ActHead7" style="page-break-after:auto">Part 1—Consequential amendments</h7>
 
 <h9 class="ActHead9">Military Rehabilitation and Compensation Act 2004</h9>
 
@@ -4992,7 +4980,7 @@ Omit “federal minimum wage”, substitute “relevant minimum wage set by a na
 
 ## 4  Section 179
 
-Omit “Federal Minimum Wage (as it applies under section 194 of the _Workplace Relations Act 1996_)”, substitute “relevant minimum wage set by a national minimum wage order (under section 294 of the _Fair Work Act 2009_)”.
+Omit “Federal Minimum Wage (as it applies under section 194 of the _Workplace Relations Act 1996_)” (wherever occurring), substitute “relevant minimum wage set by a national minimum wage order (under section 294 of the _Fair Work Act 2009_)”.
 
 _Note:       The heading to section 179 is altered by omitting “federal”._
 
@@ -5012,9 +5000,9 @@ Omit “an Australian Pay and Classification Scale”, substitute “a national 
 
 Omit “_Workplace Relations Act 1996_”, substitute “_Fair Work Act 2009_”.
 
-<h7 class="ActHead7">Part 2—Application provision</h7>
+<h7 class="ActHead7">Part 2—Application provision</h7>
 
-## 9  Application of items 1 to 4
+## 9  Application of items 1 to 4
 
 The following provisions of the _Military Rehabilitation and Compensation Act 2004_:
 
@@ -5024,7 +5012,7 @@ The following provisions of the _Military Rehabilitation and Compensation Act 20
 
                      (c)  paragraph 178(a);
 
-                     (d)  section 179; 
+                     (d)  section 179; 
 
 apply as if a reference in those provisions to the national minimum wage order includes a reference to:
 
@@ -5038,7 +5026,7 @@ apply as if a reference in those provisions to the national minimum wage order i
 
 ## 1  Regulations may deal with transitional etc. matters
 
-(1)       The Governor-General may make regulations dealing with matters of a transitional, saving or application nature relating to amendments made by this Act.
+(1)       The Governor‑General may make regulations dealing with matters of a transitional, saving or application nature relating to amendments made by this Act.
 
 (2)       In this item:
 
@@ -5046,7 +5034,7 @@ apply as if a reference in those provisions to the national minimum wage order i
 
 ## 2  Regulations may make consequential amendments of Acts
 
-(1)       The Governor-General may make regulations amending Acts (other than the _Fair Work Act 2009_) being amendments that are consequential on, or that otherwise relate to, the enactment of the _Fair Work Act 2009_, the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_ or this Act.
+(1)       The Governor‑General may make regulations amending Acts (other than the _Fair Work Act 2009_) being amendments that are consequential on, or that otherwise relate to, the enactment of the _Fair Work Act 2009_, the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_ or this Act.
 
 (2)       For the purposes of the _Amendments Incorporation Act 1905_, amendments made by regulations for the purposes of this item are to be treated as if they had been made by an Act.
 
@@ -5054,7 +5042,7 @@ _Note:       This subitem ensures that the amendments can be incorpo
 
 ## 3  Regulations may take effect from date before registration
 
-(1)       Despite subsection 12(2) of the _Legislative Instruments Act 2003_ and subject to subitem (2), regulations made under item 1 or 2 may be expressed to take effect from a date before the regulations are registered under that Act.
+(1)       Despite subsection 12(2) of the _Legislative Instruments Act 2003_ and subject to subitem (2), regulations made under item 1 or 2 may be expressed to take effect from a date before the regulations are registered under that Act.
 
 (2)       If:
 
@@ -5065,5 +5053,537 @@ _Note:       This subitem ensures that the amendments can be incorpo
                      (c)  but for the retrospective effect of the regulations, the conduct would not have contravened a provision of an Act;
 
 then a court must not convict the person of an offence, or order the person to pay a pecuniary penalty, in relation to the conduct on the grounds that it contravened a provision of that Act.
+
+# Notes to the _Fair Work (State Referral and Consequential and Other Amendments) Act 2009_
+
+### Note 1
+
+The _Fair Work (State Referral and Consequential and Other Amendments) Act 2009_ as shown in this compilation comprises Act No. 54, 2009 amended as indicated in the Tables below.
+
+The _Fair Work (State Referral and Consequential and Other Amendments) Act 2009_ was amended by the _Fair Work (State Referral and Consequential and Other Amendments) Regulations 2009_ (SLI 2009 No. 165 as amended by SLI 2009 No. 364). The amendments are incorporated in this compilation.
+
+### Table of Acts
+
+<table>
+<colgroup>
+  <col width="30%">
+  <col width="15%">
+  <col width="19%">
+  <col width="21%">
+  <col width="15%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>Act</div>
+    </td>
+    <td>
+      <div>Number 
+and year</div>
+    </td>
+    <td>
+      <div>Date 
+of Assent</div>
+    </td>
+    <td>
+      <div>Date of commencement</div>
+    </td>
+    <td>
+      <div>Application, saving or transitional provisions</div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>Fair Work (State Referral and Consequential and Other Amendments) Act 2009</div>
+  </td>
+  <td>
+    <div>54, 2009</div>
+  </td>
+  <td>
+    <div>25 June 2009</div>
+  </td>
+  <td>
+    <div><i>See</i>s. 2(1)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Statute Law Revision Act 2011</div>
+  </td>
+  <td>
+    <div>5, 2011</div>
+  </td>
+  <td>
+    <div>22 Mar 2011</div>
+  </td>
+  <td>
+    <div>Schedule 2 (item 9): <i>(a)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Statute Law Revision Act 2012</div>
+  </td>
+  <td>
+    <div>136, 2012</div>
+  </td>
+  <td>
+    <div>22 Sept 2012</div>
+  </td>
+  <td>
+    <div>Schedule 2 (item 14): <i>(b)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr></table>
+
+_(a)_ Subsection 2(1) (item 8) of the _Statute Law Revision Act 2011_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="3">
+      <div>
+        <b>
+          Commencement information
+        </b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Column 1
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Column 2
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Column 3
+        </b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      8\. Schedule 2, item 9
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the time specified in the
+        <i>Fair Work (State Referral and Consequential and Other Amendments) Act
+          2009</i>for the commencement of item 4 of Schedule 19 to that Act.
+    </div>
+  </td>
+  <td>
+    <div>
+      1 July 2009
+    </div>
+  </td>
+</tr></table>
+
+_(b)_ Subsection 2(1) (item 14) of the _Statute Law Revision Act 2012_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      14\. Schedule 2, item 14
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the time specified in the
+        <i>Fair Work (State Referral and Consequential and Other Amendments) Act
+          2009</i>for the commencement of item 2 of Schedule 12 to that Act.
+    </div>
+  </td>
+  <td>
+    <div>
+      1 July 2009
+    </div>
+  </td>
+</tr></table>
+
+## Table of Amendments
+
+<table>
+<colgroup>
+  <col width="32%">
+  <col width="68%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="2">
+      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Provision affected</div>
+    </td>
+    <td>
+      <div>How affected</div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div><b>Schedule 5</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Item 87A</div>
+  </td>
+  <td>
+    <div>ad. SLI 2009 No. 165 (as am. by SLI 2009 No. 364)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Schedule 7</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Part 1</div>
+  </td>
+  <td>
+    <div>ad. SLI 2009 No. 165 (as am. by SLI 2009 No. 364)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Part 2</div>
+  </td>
+  <td>
+    <div>ad. SLI 2009 No. 165 (as am. by SLI 2009 No. 364)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Items 6, 7</div>
+  </td>
+  <td>
+    <div>ad. SLI 2009 No. 165 (as am. by SLI 2009 No. 364)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Schedule 8</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Item 63</div>
+  </td>
+  <td>
+    <div>am. SLI 2009 No. 165 (as am. by SLI 2009 No. 364)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 1A of Part 2</div>
+  </td>
+  <td>
+    <div>ad. SLI 2009 No. 165 (as am. by SLI 2009 No. 364)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Item 158A</div>
+  </td>
+  <td>
+    <div>ad. SLI 2009 No. 165 (as am. by SLI 2009 No. 364)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 2A of Part 2</div>
+  </td>
+  <td>
+    <div>ad. SLI 2009 No. 165 (as am. by SLI 2009 No. 364)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Item 159A</div>
+  </td>
+  <td>
+    <div>ad. SLI 2009 No. 165 (as am. by SLI 2009 No. 364)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 4</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 4 of Part 2</div>
+  </td>
+  <td>
+    <div>ad. SLI 2009 No. 165 (as am. by SLI 2009 No. 364)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Item 162</div>
+  </td>
+  <td>
+    <div>ad. SLI 2009 No. 165 (as am. by SLI 2009 No. 364)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 5</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 5 of Part 2</div>
+  </td>
+  <td>
+    <div>ad. SLI 2009 No. 165 (as am. by SLI 2009 No. 364)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Item 163</div>
+  </td>
+  <td>
+    <div>ad. SLI 2009 No. 165 (as am. by SLI 2009 No. 364)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Schedule 12</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to item 2</div>
+  </td>
+  <td>
+    <div>am. No. 136, 2012</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Schedule 19</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Part 1</div>
+  </td>
+  <td>
+    <div>ad. SLI 2009 No. 165 (as am. by SLI 2009 No. 364)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Item 4</div>
+  </td>
+  <td>
+    <div>am. No. 5, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Part 2</div>
+  </td>
+  <td>
+    <div>ad. SLI 2009 No. 165 (as am. by SLI 2009 No. 364)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Item 9</div>
+  </td>
+  <td>
+    <div>ad. SLI 2009 No. 165 (as am. by SLI 2009 No. 364)</div>
+  </td>
+</tr></table>
 
  
