@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2007C00613/Html/Archives1983_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00002/Html/Archives1983_WD02_image001.gif)
 
 # Archives Act 1983
 
 **Act No. 79 of 1983 as amended**
 
-This compilation was prepared on 4 October 2007
- taking into account amendments up to Act No. 158 of 2007
+This compilation was prepared on 30 December 2006
+ taking into account amendments up to Act No. 86 of 2006
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -78,7 +78,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [21](#21).          Archives may be given custody of certain records
 
-[22](#22).          Records of Royal Commissions etc 
+[22](#22).          Records of Royal Commissions
 
 [22A](#22A).       Cabinet notebooks
 
@@ -257,8 +257,6 @@ but does not include:
                     <a name="censu-inform"></a>**_Census information_** means information transferred to the custody of the Archives under section 8A of the _Census and Statistics Act 1905_.
 
                     <a name="chairman"></a>**_Chairman_** means the Chairman of the Council.
-
-                    <a name="commiss-inquiri"></a>**_Commission of inquiry_** has the same meaning as it has in the _Quarantine Act 1908_.
 
                     <a name="commonwealth-control-associ"></a>**_Commonwealth–controlled association_** means an association over which the Commonwealth is in a position to exercise control, but does not include an association that is declared by the regulations not to be a Commonwealth–controlled association.
 
@@ -674,25 +672,17 @@ concerning the application of those provisions to those records.
 
              (2)  Arrangements referred to in subsection (1) relating to the custody of records may provide for the extent (if any) to which the Archives or other persons are to have access to those records.
 
-##### <a id="22"></a>22  Records of Royal Commissions etc.
+##### <a id="22"></a>22  Records of Royal Commissions
 
-             (1)  This section applies to:
+             (1)  This section applies to the records kept by a Royal Commission, whether the inquiry was commenced or was completed before or after the commencement of this Part.
 
-                     (a)  the records kept by a Royal Commission, whether the inquiry commenced or was completed before or after the commencement of this Part; and
-
-                     (b)  the records kept by the Commission of inquiry.
-
-             (2)  The Commonwealth is entitled to the possession of records kept by a Royal Commission, or by the Commission of inquiry, that are no longer required for the purposes of the Commission, and all such records shall be deemed to be Commonwealth records for the purposes of this Act.
+             (2)  The Commonwealth is entitled to the possession of records kept by a Royal Commission that are no longer required for the purposes of the Commission, and all such records shall be deemed to be Commonwealth records for the purposes of this Act.
 
              (3)  Records referred to in subsection (2) shall be kept in such custody as the responsible Minister directs and the Archives is not entitled to the custody of any such records except in accordance with such a direction.
 
-             (4)  A direction given by a Royal Commission, or by the Commission of inquiry, prohibiting the publication of any document or matter does not apply to the provision of public access under this Act to any records that are in the open access period or to the publication by any person of any records that are available for public access in accordance with this Act.
+             (4)  A direction given by a Royal Commission prohibiting the publication of any document or matter does not apply to the provision of public access under this Act to any records that are in the open access period or to the publication by any person of any records that are available for public access in accordance with this Act.
 
-             (5)  For the purposes of this Act:
-
-                     (a)  the Minister administering the _Royal Commissions Act 1902_ is taken to be the responsible Minister in relation to the records of a Royal Commission; and
-
-                     (b)  the Minister administering the _Quarantine Act 1908_ is taken to be the responsible Minister in relation to the records of the Commission of inquiry.
+             (5)  For the purposes of this Act, the Minister administering the _Royal Commissions Act 1902_ shall be deemed to be the responsible Minister in relation to the records of a Royal Commission.
 
              (6)  Where a Royal Commission has conducted an inquiry by virtue of a commission issued by the Governor of a State in conjunction with its inquiry under a commission issued by the Governor–General, subsections (2) and (3) apply only to such of the records of the Royal Commission as are determined by agreement between the Commonwealth and the State.
 
@@ -1590,7 +1580,7 @@ Note:          A defendant bears an evidential burden in relat
 
 ## Part IX—Miscellaneous
 
-##### <a id="68"></a>68  Annual Report
+##### <a id="68"></a>68  Annual Report
 
              (1)  The Archives shall, as soon as practicable after 30 June in each year, prepare and furnish to the Minister a report of its operations during the 12 months ending on that date.
 
@@ -2232,23 +2222,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Quarantine Amendment (Commission of Inquiry) Act 2007</div>
-  </td>
-  <td>
-    <div>158, 2007</div>
-  </td>
-  <td>
-    <div>24 Sept 2007</div>
-  </td>
-  <td>
-    <div>24 Sept 2007</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Archives Act 1983_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1984_, subsections 2(1) and (5) of which provide as follows:
@@ -2381,7 +2354,7 @@ _(q)_     The _Archives Act 1983_ was amended by Schedule 1 (items 1
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 109, 1988; No. 80, 1990; No. 196, 1992; No. 33, 1994; No. 10, 1995; No. 189, 1997 (as am. by No. 145, 1999); No. 146, 1999; No. 30, 2000; No. 5, 2001; No. 135, 2003; No. 10, 2006; No. 158, 2007</div>
+    <div>am. No. 109, 1988; No. 80, 1990; No. 196, 1992; No. 33, 1994; No. 10, 1995; No. 189, 1997 (as am. by No. 145, 1999); No. 146, 1999; No. 30, 2000; No. 5, 2001; No. 135, 2003; No. 10, 2006</div>
   </td>
 </tr>
 <tr>
@@ -2534,22 +2507,6 @@ _(q)_     The _Archives Act 1983_ was amended by Schedule 1 (items 1
   </td>
   <td>
     <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 22</div>
-  </td>
-  <td>
-    <div>am. No. 158, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22</div>
-  </td>
-  <td>
-    <div>am. No. 158, 2007</div>
   </td>
 </tr>
 <tr>
