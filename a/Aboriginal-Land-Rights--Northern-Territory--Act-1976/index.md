@@ -1,14 +1,14 @@
-![](http://www.comlaw.gov.au/Details/C2012C00612/Html/1ea009e1-ed41-4aba-bb38-da4029007d12_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00123/Html/08c10a6d-91bd-4a7f-8faa-777f85133515_files/image001.gif)
 
 # Aboriginal Land Rights (Northern Territory) Act 1976
 
 **Act No. 191 of 1976 as amended**
 
-This compilation was prepared on 18 August 2012
- taking into account amendments up to Act No. 101 of 2012
+This compilation was prepared on 27 December 2011
+ taking into account amendments up to Act No. 188 of 2011
 
-[**Note**: Subsections 70(2BA), (2BB), (2BC) ceased to have effect on 
-  18 August 2012, _see_ subsection 70(2BD)]
+[**Note**: Subsections 70(2BA), (2BB), (2BC) cease to have effect on 
+  18 August 2012, _see_ section 70]
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -170,6 +170,76 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [20SA](#20SA).     Modification of certain NT laws in relation to the entry into leases or subleases by Executive Director
 
 [20SB](#20SB).     Modification of certain NT laws in relation to land the subject of leases or subleases entered into by Executive Director
+
+**Part IIB—Statutory rights over buildings or infrastructure** 
+
+    **Division 1—Preliminary**
+
+[20T](#20T).        Definitions
+
+    **Division 2—Commonwealth rights** 
+
+        **Subdivision A—Application of Division**
+
+[20U](#20U).       Application of Division
+
+[20V](#20V).       Funding body
+
+        **Subdivision B—Statutory rights**
+
+[20W](#20W).      Funding body has the statutory rights
+
+[20X](#20X).       Transfer of statutory rights
+
+[20Y](#20Y).       Rights holder may permit others to exercise the statutory rights
+
+[20Z](#20Z).        Ownership of buildings or infrastructure
+
+[20ZA](#20ZA).     Variation of initial area
+
+[20ZB](#20ZB).     Operation of Lands Acquisition Act
+
+        **Subdivision C—Leases**
+
+[20ZC](#20ZC).     Section 19 leases
+
+[20ZD](#20ZD).     Effect of leases on statutory rights
+
+        **Subdivision D—When this Division ceases to apply**
+
+[20ZE](#20ZE).     When this Division ceases to apply
+
+    **Division 3—Northern Territory rights** 
+
+        **Subdivision A—Application of Division**
+
+[20ZF](#20ZF).     Application of Division
+
+[20ZG](#20ZG).     Funding body
+
+        **Subdivision B—Statutory rights**
+
+[20ZH](#20ZH).     Funding body has the statutory rights
+
+[20ZI](#20ZI).      Transfer of statutory rights
+
+[20ZJ](#20ZJ).      Rights holder may permit others to exercise the statutory rights
+
+[20ZK](#20ZK).     Ownership of buildings or infrastructure
+
+[20ZL](#20ZL).     Variation of initial area
+
+[20ZM](#20ZM).    Operation of Lands Acquisition Act
+
+        **Subdivision C—Leases**
+
+[20ZN](#20ZN).     Section 19 leases
+
+[20ZO](#20ZO).     Effect of leases on statutory rights
+
+        **Subdivision D—When this Division ceases to apply**
+
+[20ZP](#20ZP).     When this Division ceases to apply
 
 **Part III—Aboriginal Land Councils**
 
@@ -379,7 +449,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [70D](#70D).       Entering or remaining on Aboriginal land—landing places for vessels
 
-[70E](#70E).        Entering or remaining on Aboriginal land—roads within communities [_see_ Note 2]
+[70E](#70E).        Entering or remaining on Aboriginal land—roads within communities
 
 [70F](#70F).        Entering or remaining on Aboriginal land—common areas
 
@@ -595,8 +665,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="commonwealth-entiti"></a>**_Commonwealth entity_** means a person approved by the Minister under section 3AAA.
 
-                    <a name="commun-live-area"></a>**_community living area_** has the same meaning as in the _Stronger Futures in the Northern Territory Act 2012_.
-
                     <a name="commun-purpos"></a>**_community purpose_** means a purpose that is calculated to benefit primarily the members of a particular community or group.
 
                     <a name="conserv-zone"></a>**_conservation zone_** has the meaning given by the _Environment Protection and Biodiversity Conservation Act 1999_.
@@ -679,7 +747,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="land-trust"></a>**_Land Trust_** means an Aboriginal Land Trust established under this Act.
 
-                    <a name="law-northern-territori"></a>**_law of the Northern Territory_** means a law made under, or having effect in the Northern Territory by virtue of, the _Northern   Territory__(Self‑Government) Act 1978_.
+                    <a name="law-northern-territori"></a>**_law of the Northern Territory_** means a law made under, or having effect in the Northern Territory by virtue of, the _Northern Territory__(Self‑Government) Act 1978_.
 
                     <a name="miner-royalti"></a>**_mineral royalties_** means royalties payable to the Commonwealth or the Northern Territory in respect of the mining of minerals.
 
@@ -2171,6 +2239,10 @@ Note:          Division 3 deals with the appointment and ter
 
              (5)  In this section:
 
+                    <a name=""></a><a name="commun-live-area"></a>**_community living area_** means  land granted under subsection 46(1A) of the _Lands Acquisition Act_ of the   Northern Territory.
+
+Note:          The reference to the _Lands Acquisition Act_ of the Northern Territory is to be construed as a reference to that Act as originally enacted and as amended from time to time: see section 10A of the _Acts Interpretation Act 1901_ of the Commonwealth.
+
                     <a name="town-camp"></a>**_town camp_** means land leased primarily for residential, community or cultural purposes for Aboriginal people under:
 
                      (a)  the _Special Purposes Leases Act_ of the Northern Territory; or
@@ -2355,6 +2427,430 @@ to the extent that the law applies to land the subject of the lease or sublease.
 
              (4)  The regulations cease to have effect if the lease or sublease ceases to be held by the Commonwealth.
 
+## Part IIB—Statutory rights over buildings or infrastructure
+
+### Division 1—Preliminary
+
+##### <a id="20T"></a>20T  Definitions
+
+                   In this Part:
+
+                    <a name="build"></a>**_building_** includes a structure or facility.
+
+                    <a name="commonwealth-author"></a>**_Commonwealth authority_** has the same meaning as in the _Lands Acquisition Act 1989_.
+
+                    <a name="construct-area"></a>**_construction area_**:
+
+                     (a)  in Division 2—means the initial area, as varied in accordance with any agreement under section 20ZA; and
+
+                     (b)  in Division 3—means the initial area, as varied in accordance with any agreement under section 20ZL.
+
+                    <a name="estimated-cost"></a>**_estimated cost_**, in relation to works, means an estimate of cost made when all particulars of the works substantially affecting the cost have been determined.
+
+                    <a name="fund-bodi"></a>**_funding body_**:
+
+                     (a)  in Division 2—has the meaning given by section 20V; and
+
+                     (b)  in Division 3—has the meaning given by section 20ZG.
+
+                    <a name="infrastructur"></a>**_infrastructure_** includes services.
+
+                    <a name="initi-area"></a>**_initial area_**:
+
+                     (a)  in Division 2—means an area identified in a determination under subparagraph 20U(1)(a)(ii); and
+
+                     (b)  in Division 3—means an area identified in a determination under subparagraph 20ZF(1)(a)(ii).
+
+                    <a name="author"></a><a name="northern-territori"></a>**_Northern Territory_****_authority_** means an authority established by or under a law of the Northern Territory and that is a body corporate.
+
+                    <a name="servic"></a>**_services_** includes water, electricity, gas, sewerage, drainage and telecommunications services.
+
+                    <a name="statutori-right"></a>**_statutory rights_**:
+
+                     (a)  in Division 2—has the meaning given by subsection 20W(2); and
+
+                     (b)  in Division 3—has the meaning given by subsection 20ZH(2).
+
+                    <a name="threshold-amount"></a>**_threshold amount_** means:
+
+                     (a)  $50,000; or
+
+                     (b)  if a higher amount is specified in the regulations for the purposes of this definition—that other amount.
+
+                    <a name="work"></a>**_works_** means:
+
+                     (a)  the construction of one or more buildings or infrastructure; or
+
+                     (b)  the major alteration, extension, restoration, refurbishment or fitting out of one or more buildings or infrastructure, the total estimated cost of which exceeds the threshold amount.
+
+### Division 2—Commonwealth rights
+
+#### Subdivision A—Application of Division
+
+##### <a id="20U"></a>20U  Application of Division
+
+             (1)  This Division applies if:
+
+                     (a)  works are proposed to be carried out on an area of Aboriginal land:
+
+                              (i)  within the meaning of paragraph (a) of the definition of **_Aboriginal land_** in subsection 3(1); and
+
+                             (ii)  identified in a written determination of the Minister that is expressed to be made for the purposes of this subparagraph; and
+
+                     (b)  the Land Council for the area in which the land is situated consents, in writing, to the works and gives the Minister a copy of the consent; and
+
+Note:       See also subsection 23(3) (which deals with Land Council consultation with traditional Aboriginal owners and Aboriginal communities or groups).
+
+                     (c)  immediately before the Land Council so consents, the initial area is not covered by a lease under section 19 or 19A; and
+
+                     (d)  either of the following applies:
+
+                              (i)  the works are to be wholly funded by the Commonwealth or a Commonwealth authority;
+
+                             (ii)  the works are to be partly funded by the Commonwealth or a Commonwealth authority or both (whether or not there is to be funding from other sources) and the Minister determines, in writing, that this Division applies.
+
+             (2)  A determination made under subparagraph (1)(a)(ii) or (d)(ii) is not a legislative instrument.
+
+##### <a id="20V"></a>20V  Funding body
+
+             (1)  If the works are to be wholly funded by the Commonwealth, the **_funding body_** is the Commonwealth.
+
+             (2)  If the works are to be wholly funded by a Commonwealth authority, the **_funding body_** is the authority.
+
+             (3)  If the works are to be partly funded by the Commonwealth or a Commonwealth authority or both (whether or not there is to be funding from other sources), the Minister must determine, in writing, whether the **_funding body_** is the Commonwealth or the authority.
+
+             (4)  An instrument made under subsection (3) is not a legislative instrument.
+
+#### Subdivision B—Statutory rights
+
+##### <a id="20W"></a>20W  Funding body has the statutory rights
+
+             (1)  Subject to this Division, the funding body has the statutory rights in relation to the construction area.
+
+             (2)  The **_statutory rights_** are the following rights:
+
+                     (a)  the right to carry out the works on a part of the construction area in the same, or substantially the same, form that was proposed;
+
+                     (b)  the right to occupy, use, maintain, repair or replace the buildings or infrastructure covered by the works;
+
+                     (c)  the right to occupy or use any other part of the construction area;
+
+                     (d)  the right to construct, maintain, repair or replace minor improvements on any part of the construction area;
+
+                     (e)  the right to provide services to any part of the construction area.
+
+             (3)  To avoid doubt, the statutory rights are exclusive rights.
+
+##### <a id="20X"></a>20X  Transfer of statutory rights
+
+Transfer by Commonwealth
+
+             (1)  If the funding body is the Commonwealth, the Minister may, on behalf of the Commonwealth, transfer all of the statutory rights to the Northern Territory, a Commonwealth authority or a Northern Territory authority by written agreement.
+
+Transfer by Commonwealth authority
+
+             (2)  If the funding body is a Commonwealth authority, the authority may transfer all of the statutory rights to the Commonwealth, the Northern Territory, another Commonwealth authority or a Northern Territory authority by written agreement.
+
+##### <a id="20Y"></a>20Y  Rights holder may permit others to exercise the statutory rights
+
+             (1)  If a person has the statutory rights under section 20W or 20X:
+
+                     (a)  if the person is the Commonwealth—the Minister may, on behalf of the Commonwealth, permit, in writing, a person or persons to exercise some or all of the statutory rights in relation to the whole or a part of the construction area; or
+
+                     (b)  in any other case—the person may permit, in writing, a person or persons to exercise some or all of the statutory rights in relation to the whole or a part of the construction area.
+
+             (2)  To avoid doubt, a person who is permitted to exercise some or all of the statutory rights does not have the statutory rights under section 20W or 20X.
+
+             (3)  An instrument made under subsection (1) is not a legislative instrument.
+
+##### <a id="20Z"></a>20Z  Ownership of buildings or infrastructure
+
+                   During any period when a person has the statutory rights under section 20W or 20X, the buildings or infrastructure is taken to be the property of the person.
+
+##### <a id="20ZA"></a>20ZA  Variation of initial area
+
+                   If a person has the statutory rights under section 20W or 20X:
+
+                     (a)  if the person is the Commonwealth—the Minister, on behalf of the Commonwealth, and the Land Council concerned may agree in writing to vary the initial area in a specified way; or
+
+                     (b)  in any other case—the person and the Land Council concerned may agree in writing to vary the initial area in a specified way.
+
+##### <a id="20ZB"></a>20ZB  Operation of Lands Acquisition Act
+
+                   The Commonwealth or a Commonwealth authority is authorised to acquire a permit under section 20Y.
+
+#### Subdivision C—Leases
+
+##### <a id="20ZC"></a>20ZC  Section 19 leases
+
+Negotiation of lease—statutory rights apply
+
+             (1)  If a person has the statutory rights under section 20W or 20X (other than because of Subdivision B applying after its operation has been suspended under section 20ZD), the person and the Land Council concerned must negotiate in good faith for the grant of a lease under section 19 to the person of the construction area.
+
+             (2)  Subsection (1) does not apply if a lease is granted under section 19A covering the construction area.
+
+Negotiation of lease—statutory rights do not apply
+
+             (3)  If the operation of Subdivision B is suspended in relation to a construction area under subsection 20ZD(2), the funding body and the Land Council concerned must negotiate in good faith for the grant of a lease under section 19 to the funding body of the construction area.
+
+Operation of Lands Acquisition Act
+
+             (4)  The Commonwealth or a Commonwealth authority is authorised to dispose of an interest in land covered by a lease of the kind referred to in subsection (1) or (3) in accordance with the terms and conditions of the lease.
+
+             (5)  In subsection (4):
+
+                    <a name="interest"></a><a name="dispos"></a>**_dispose_** and **_interest_** have the same meanings as in the _Lands Acquisition Act 1989_.
+
+No other section 19 leases to be granted
+
+             (6)  During the period:
+
+                     (a)  beginning at the time the Land Council concerned gives its consent as mentioned in paragraph 20U(1)(b); and
+
+                     (b)  ending at the time a determination under subsection 20ZE(1) is made;
+
+the Land Trust concerned must not grant a lease under section 19 of the construction area unless the lease is of the kind referred to in subsection (1) or (3) of this section.
+
+##### <a id="20ZD"></a>20ZD  Effect of leases on statutory rights
+
+Section 19 leases
+
+             (1)  While there is a lease in force under section 19 of the kind referred to in subsection 20ZC(1) or (3), the operation of Subdivision B is suspended in relation to the construction area concerned.
+
+5 year leases
+
+             (2)  If:
+
+                     (a)  a lease is in force under section 31 of the _Northern Territory__National Emergency Response Act 2007_ covering a particular area of land; and
+
+                     (b)  section 20U of this Act did not apply in relation to the whole or a part of the area immediately before the lease took effect; and
+
+                     (c)  section 20U of this Act applies in relation to the whole or a part of the area at a time while the lease is in force;
+
+then, from that time until the lease ends, the operation of Subdivision B of this Division is suspended in relation to the construction area concerned.
+
+Note:          If a person has the statutory rights before a lease under section 31 of the _Northern Territory__National Emergency Response Act 2007_ takes effect, section 34 of that Act deals with preserving those rights.
+
+Section 19A leases
+
+             (3)  If:
+
+                     (a)  a lease is in force under section 19A covering the construction area; and
+
+                     (b)  a person had the statutory rights under section 20W or 20X in relation to the construction area immediately before the lease took effect; and
+
+                     (c)  a sublease of the construction area is granted to the person who has the statutory rights under section 20W or 20X in relation to the construction area immediately before the sublease is granted;
+
+this Division ceases to apply in relation to the construction area concerned.
+
+Note:          Subsection 19A(10) deals with preserving rights, titles or other interests existing before a lease under section 19A takes effect.
+
+#### Subdivision D—When this Division ceases to apply
+
+##### <a id="20ZE"></a>20ZE  When this Division ceases to apply
+
+             (1)  If a person has the statutory rights under section 20W or 20X:
+
+                     (a)  if the person is the Commonwealth—the Minister may, on behalf of the Commonwealth, by writing, determine that the buildings or infrastructure is no longer required by the Commonwealth; or
+
+                     (b)  in any other case—the person may, by writing, determine that the buildings or infrastructure is no longer required by the person.
+
+             (2)  Subject to subsections (5) and (6), at the time the determination is made, this Division ceases to apply in relation to the construction area concerned.
+
+             (3)  The determination cannot be varied or revoked.
+
+             (4)  The person must give the Land Council concerned a copy of the determination.
+
+             (5)  Within 30 days after receiving a copy of the determination, the Land Council may request, in writing, the person to remove some or all of the buildings.
+
+             (6)  The person must comply with the request as soon as practicable after receiving it.
+
+             (7)  A determination made under subsection (1) is not a legislative instrument.
+
+### Division 3—Northern Territory rights
+
+#### Subdivision A—Application of Division
+
+##### <a id="20ZF"></a>20ZF  Application of Division
+
+             (1)  This Division applies if:
+
+                     (a)  works are proposed to be carried out on an area of Aboriginal land:
+
+                              (i)  within the meaning of paragraph (a) of the definition of **_Aboriginal land_** in subsection 3(1); and
+
+                             (ii)  identified in a written determination of the Chief Minister of the Northern Territory, or a delegate of the Chief Minister of the Northern Territory, that is expressed to be made for the purposes of this subparagraph; and
+
+                     (b)  the Land Council for the area in which the land is situated consents, in writing, to the works and gives the Chief Minister of the Northern Territory a copy of the consent; and
+
+Note:       See also subsection 23(3) (which deals with Land Council consultation with traditional Aboriginal owners and Aboriginal communities or groups).
+
+                     (c)  immediately before the Land Council so consents, the initial area is not covered by a lease under section 19 or 19A; and
+
+                     (d)  either of the following applies:
+
+                              (i)  the works are to be wholly funded by the Northern Territory or a Northern Territory authority;
+
+                             (ii)  the works are to be partly funded by the Northern Territory or a Northern Territory authority or both (whether or not there is to be funding from other sources) and the Minister administering this Act determines, in writing, that this Division applies.
+
+             (2)  A determination made under subparagraph (1)(a)(ii) or (d)(ii) is not a legislative instrument.
+
+##### <a id="20ZG"></a>20ZG  Funding body
+
+             (1)  If the works are to be wholly funded by the Northern Territory, the **_funding body_** is the Northern   Territory.
+
+             (2)  If the works are to be wholly funded by a   Northern Territory authority, the **_funding body_** is the authority.
+
+             (3)  If the works are to be partly funded by the Northern Territory or a Northern Territory authority or both (whether or not there is to be funding from other sources), the Chief Minister of the Northern Territory must determine, in writing, whether the **_funding body_** is the Northern Territory or the authority.
+
+             (4)  An instrument made under subsection (3) is not a legislative instrument.
+
+#### Subdivision B—Statutory rights
+
+##### <a id="20ZH"></a>20ZH  Funding body has the statutory rights
+
+             (1)  Subject to this Division, the funding body has the statutory rights in relation to the construction area.
+
+             (2)  The **_statutory rights_** are the following rights:
+
+                     (a)  the right to carry out the works on a part of the construction area in the same, or substantially the same, form that was proposed;
+
+                     (b)  the right to occupy, use, maintain, repair or replace the buildings or infrastructure covered by the works;
+
+                     (c)  the right to occupy or use any other part of the construction area;
+
+                     (d)  the right to construct, maintain, repair or replace minor improvements on any part of the construction area;
+
+                     (e)  the right to provide services to any part of the construction area.
+
+             (3)  To avoid doubt, the statutory rights are exclusive rights.
+
+##### <a id="20ZI"></a>20ZI  Transfer of statutory rights
+
+Transfer by Northern Territory
+
+             (1)  If the funding body is the Northern Territory, the Chief Minister of the Northern Territory may, on behalf of the Northern Territory, transfer all of the statutory rights to the Commonwealth, a Commonwealth authority or a Northern Territory authority by written agreement.
+
+Transfer by Northern Territory authority
+
+             (2)  If the funding body is a Northern Territory authority, the authority may transfer in writing all of the statutory rights to the Commonwealth, the Northern Territory, a Commonwealth authority or another Northern Territory authority by written agreement.
+
+##### <a id="20ZJ"></a>20ZJ  Rights holder may permit others to exercise the statutory rights
+
+             (1)  If a person has the statutory rights under section 20ZH or 20ZI:
+
+                     (a)  if the person is the Commonwealth—the Minister may, on behalf of the Commonwealth, permit, in writing, a person or persons to exercise some or all of the statutory rights in relation to the whole or a part of the construction area; or
+
+                     (b)  in any other case—the person may permit, in writing, a person or persons to exercise some or all of the statutory rights in relation to the whole or a part of the construction area.
+
+             (2)  To avoid doubt, a person who is permitted to exercise some or all of the statutory rights does not have the statutory rights under section 20ZH or 20ZI.
+
+             (3)  An instrument made under subsection (1) is not a legislative instrument.
+
+##### <a id="20ZK"></a>20ZK  Ownership of buildings or infrastructure
+
+                   During any period when a person has the statutory rights under section 20ZH or 20ZI, the buildings or infrastructure is taken to be the property of the person.
+
+##### <a id="20ZL"></a>20ZL  Variation of initial area
+
+                   If a person has the statutory rights under section 20ZH or 20ZI:
+
+                     (a)  if the person is the Commonwealth—the Minister, on behalf of the Commonwealth, and the Land Council concerned may agree in writing to vary the initial area in a specified way; or
+
+                     (b)  in any other case—the person and the Land Council concerned may agree in writing to vary the initial area in a specified way.
+
+##### <a id="20ZM"></a>20ZM  Operation of Lands Acquisition Act
+
+                   The Commonwealth or a Commonwealth authority is authorised to acquire a permit under section 20ZJ.
+
+#### Subdivision C—Leases
+
+##### <a id="20ZN"></a>20ZN  Section 19 leases
+
+Negotiation of lease—statutory rights apply
+
+             (1)  If a person has the statutory rights under section 20ZH or 20ZI (other than because of Subdivision B applying after its operation has been suspended under section 20ZO), the person and the Land Council concerned must negotiate in good faith for the grant of a lease under section 19 to the person of the construction area.
+
+             (2)  Subsection (1) does not apply if a lease is granted under section 19A covering the construction area.
+
+Negotiation of lease—statutory rights do not apply
+
+             (3)  If the operation of Subdivision B is suspended in relation to a construction area under subsection 20ZO(2), the funding body and the Land Council concerned must negotiate in good faith for the grant of a lease under section 19 to the funding body of the construction area.
+
+Operation of Lands Acquisition Act
+
+             (4)  The Commonwealth or a Commonwealth authority is authorised to dispose of an interest in land covered by a lease of the kind referred to in subsection (1) in accordance with the terms and conditions of the lease.
+
+             (5)  In subsection (4):
+
+                    <a name="interest"></a><a name="dispos"></a>**_dispose_** and **_interest_** have the same meanings as in the _Lands Acquisition Act 1989_.
+
+No other section 19 leases to be granted
+
+             (6)  During the period:
+
+                     (a)  beginning at the time the Land Council concerned gives its consent as mentioned in paragraph 20ZF(1)(b); and
+
+                     (b)  ending at the time a determination under subsection 20ZP(1) is made;
+
+the Land Trust concerned must not grant a lease under section 19 of the construction area unless the lease is of the kind referred to in subsection (1) or (3) of this section.
+
+##### <a id="20ZO"></a>20ZO  Effect of leases on statutory rights
+
+Section 19 leases
+
+             (1)  While there is a lease in force under section 19 of the kind referred to in subsection 20ZN(1) or (3), the operation of Subdivision B is suspended in relation to the construction area concerned.
+
+5 year leases
+
+             (2)  If:
+
+                     (a)  a lease is in force under section 31 of the _Northern Territory__National Emergency Response Act 2007_ covering a particular area of land; and
+
+                     (b)  section 20ZF of this Act did not apply in relation to the whole or a part of the area immediately before the lease took effect; and
+
+                     (c)  section 20ZF of this Act applies in relation to the whole or a part of the area at a time while the lease is in force;
+
+then, from that time until the lease ends, the operation of Subdivision B of this Division is suspended in relation to the construction area concerned.
+
+Note:          If a person has the statutory rights before a lease under section 31 of the _Northern Territory__National Emergency Response Act 2007_ takes effect, section 34 of that Act deals with preserving those rights.
+
+Section 19A leases
+
+             (3)  If:
+
+                     (a)  a lease is in force under section 19A covering the construction area; and
+
+                     (b)  a person had the statutory rights under section 20ZH or 20ZI in relation to the construction area immediately before the lease took effect; and
+
+                     (c)  a sublease of the construction area is granted to the person who has the statutory rights under section 20ZH or 20ZI in relation to the construction area immediately before the sublease is granted;
+
+this Division ceases to apply in relation to the construction area concerned.
+
+Note:          Subsection 19A(10) deals with preserving rights, titles or other interests existing before a lease under section 19A takes effect.
+
+#### Subdivision D—When this Division ceases to apply
+
+##### <a id="20ZP"></a>20ZP  When this Division ceases to apply
+
+             (1)  If a person has the statutory rights under section 20ZH or 20ZI:
+
+                     (a)  if the person is the Commonwealth—the Minister may, on behalf of the Commonwealth, by writing, determine that the buildings or infrastructure is no longer required by the Commonwealth; or
+
+                     (b)  in any other case—the person may, by writing, determine that the buildings or infrastructure is no longer required by the person.
+
+             (2)  Subject to subsections (5) and (6), at the time the determination is made, this Division ceases to apply in relation to the construction area concerned.
+
+             (3)  The determination cannot be varied or revoked.
+
+             (4)  The person must give the Land Council concerned a copy of the determination.
+
+             (5)  Within 30 days after receiving a copy of the determination, the Land Council may request, in writing, the person to remove some or all of the buildings.
+
+             (6)  The person must comply with the request as soon as practicable after receiving it.
+
+             (7)  A determination made under subsection (1) is not a legislative instrument.
+
 ## Part III—Aboriginal Land Councils
 
 ##### <a id="21"></a>21  Establishment of Land Councils
@@ -2537,11 +3033,15 @@ Note 2:       The activities or operations of a Land Council may be 
 
                     (ea)  to assist Aboriginals in the area of the Land Council to carry out commercial activities (including resource development, the provision of tourist facilities and agricultural activities), in any manner that will not cause the Land Council to incur financial liability or enable it to receive financial benefit; and
 
-                   (eb)  for land that is a community living area and in the area of the Land Council—to assist the owner of the land, if requested to do so, in relation to any dealings in the land (including assistance in negotiating leases of, or other grants of interests in, the land); and
-
                       (f)  to assist Aboriginals claiming to have a traditional land claim to an area of land within the area of the Land Council in pursuing the claim, in particular, by arranging for legal assistance for them at the expense of the Land Council; and
 
                     (fa)  to negotiate, and enter into agreements, as necessary, for the purposes of subsection 70(4); and
+
+                    (fb)  if a lease of land in the area of the Land Council is or has been granted under section 31 of the _Northern Territory National Emergency Response Act 2007_ by a Land Trust—to represent the Land Trust in relation to negotiations to agree on an amount to be paid to the Land Trust under subsection 62(1G) of that Act in relation to that grant; and
+
+                    (fc)  if a lease of land in the area of the Land Council is or has been granted under section 31 of the _Northern Territory National Emergency Response Act 2007_ by the relevant owner of the land (within the meaning of paragraph (b) or (f) of the definition of **_relevant owner_** in section 3 of that Act)—to represent that relevant owner, if requested to do so, in relation to negotiations to agree on an amount to be paid to that relevant owner under subsection 62(1G) of that Act in relation to that grant; and
+
+                    (fd)  if a lease of land in the area of the Land Council is or has been suspended under section 40 of the _Northern Territory National Emergency Response Act 2007_—to represent the holder of the lease, if requested to do so, in relation to negotiations to agree on an amount to be paid to that holder under subsection 62(1G) of that Act in relation to that suspension; and
 
                      (g)  to compile and keep:
 
@@ -3167,9 +3667,11 @@ Minutes
 
 ##### <a id="33B"></a>33B   Land Council may charge other fees
 
+             (1)  A Land Council may charge the Commonwealth a fee for the reasonable expenses incurred by the Council in performing functions referred to in paragraph 23(1)(fb), (fc) or (fd).
+
              (2)  A Land Council may charge the Commonwealth a fee for the reasonable expenses incurred by the Council in providing services prescribed by the regulations for the purposes of this subsection.
 
-             (3)  A fee under subsection (2) must not be such as to amount to taxation.
+             (3)  A fee under subsection (1) or (2) must not be such as to amount to taxation.
 
              (4)  Nothing in this section prevents a Land Council charging the Commonwealth a fee under section 33A.
 
@@ -3239,7 +3741,7 @@ Note:          The Minister must have regard to these amounts 
 
                      (b)  if the agreement makes no provision in relation to the application of the money—be paid to any Aboriginal and Torres Strait Islander corporations whose members are affected by the agreement, in such proportions as the Land Council determines.
 
-             (4)  Where a Land Council receives a payment in respect of Aboriginal land (including a payment under section 15 or 16 or a payment under a lease or licence under section 19 or 20, but not including a payment under section 33A, 33B or 64 of this Act), the Land Council shall, within 6 months after that payment is received, pay an amount equal to that payment to or for the benefit of the traditional Aboriginal owners of the land.
+             (4)  Where a Land Council receives a payment in respect of Aboriginal land, including a payment under section 15 or 16, under a lease or licence under section 19 or 20 or in accordance with section 60 or 62 of the _Northern Territory National Emergency Response Act 2007_ but not including a payment under section 33A, 33B or 64 of this Act, the Land Council shall, within 6 months after that payment is received, pay an amount equal to that payment to or for the benefit of the traditional Aboriginal owners of the land.
 
           (4A)  If:
 
@@ -3845,7 +4347,7 @@ is held by the applicant or by the heirs, successors or assigns of that person a
 
                      (c)  severance of the land from other land having the same traditional Aboriginal owners as the land concerned.
 
-##### <a id="45"></a>45  Mining interest not to be granted in certain circumstances
+##### <a id="45"></a>45  Mining interest not to be granted in certain circumstances
 
                    A mining interest shall not be granted to an intending miner in respect of Aboriginal land unless:
 
@@ -5099,7 +5601,11 @@ Note:          A defendant bears an evidential burden in relat
 
           (2C)  In proceedings against a person for an offence against subsection (1), it is a defence if:
 
-                     (a)  the land (the **_relevant land_**) the person entered or remained on is part of land (the **_leased land_**) that is leased under section 19A; and
+                     (a)  the land (the **_relevant land_**) the person entered or remained on is part of land (the **_leased land_**) that is leased under:
+
+                              (i)  section 19A; or
+
+                             (ii)  section 31 of the   _Northern Territory__National Emergency Response Act 2007_; and
 
                      (b)  the person entered or remained on the relevant land for any purpose that is related to the use or enjoyment, of an estate or interest in the whole or a part of the leased land, by the owner of the estate or interest.
 
@@ -5147,7 +5653,9 @@ a person is entitled, for the purpose of gaining that access so as to enable the
 
                      (c)  a licence granted by a sublessee of a sublease of a lease referred to in paragraph (b); and
 
-                     (d)  a licence of a kind prescribed by the regulations for the purposes of this paragraph.
+                     (d)  a licence of a kind prescribed by the regulations for the purposes of this paragraph; and
+
+                     (e)  the statutory rights a person has under section 20W, 20X, 20ZH or 20ZI or a person may exercise under section 20Y or 20ZJ.
 
              (9)  Subsection (8) does not limit section 66.
 
@@ -5343,7 +5851,7 @@ No limit on section 19 or 19A
 
            (10)  This section does not limit the application of section 19 or 19A in relation to a landing place to which subsection (1) or (3) applies.
 
-##### <a id="70E"></a>70E  Entering or remaining on Aboriginal land—roads within communities [_see_ Note 2]
+##### <a id="70E"></a>70E  Entering or remaining on Aboriginal land—roads within communities
 
              (1)  Subject to this section, a person may enter or remain on a road that is within community land if the entry or remaining is not for a purpose that is unlawful.
 
@@ -5402,6 +5910,8 @@ Temporary restrictions
 may, by written determination for the purposes of this section, impose temporary restrictions on the entry or remaining on the road for the purpose of protecting public health or safety.
 
            (16)  The Executive Director of Township Leasing referred to in section 20B may, by writing, delegate his or her power under subsection (15) of this section to an APS employee in the Department.
+
+           (17)  If a road to which subsection (1) applies is covered by a lease under section 31 of the _Northern   Territory__National Emergency Response Act 2007_, the Minister may, by written determination for the purposes of this section, impose temporary restrictions on the entry or remaining on the road for the purpose of protecting public health or safety.
 
            (18)  Subsections (13), (14), (15) and (17) apply subject to any limitation prescribed by the regulations for the purposes of this subsection.
 
@@ -5469,13 +5979,15 @@ may, by written determination for the purposes of this section, impose temporary
 
            (13)  The Executive Director of Township Leasing referred to in section 20B may, by writing, delegate his or her power under subsection (12) of this section to an APS employee in the Department.
 
-           (15)  Subsections (10), (11) and (12) apply subject to any limitation prescribed by the regulations for the purposes of this subsection.
+           (14)  If a common area to which subsection (1) applies is covered by a lease under section 31 of the _Northern Territory__National Emergency Response Act 2007_, the Minister may, by written determination for the purposes of this section, impose temporary restrictions on the entry or remaining on the common area for the purpose of protecting public health or safety.
 
-           (16)  A determination made under subsection (11) or (12) has effect accordingly.
+           (15)  Subsections (10), (11), (12) and (14) apply subject to any limitation prescribed by the regulations for the purposes of this subsection.
 
-           (17)  A determination made under subsection (11) or (12) is not a legislative instrument.
+           (16)  A determination made under subsection (11), (12) or (14) has effect accordingly.
 
-           (18)  The person making a determination under subsection (11) or (12) must ensure that notice of the determination is given in the manner the person thinks appropriate.
+           (17)  A determination made under subsection (11), (12) or (14) is not a legislative instrument.
+
+           (18)  The person making a determination under subsection (11), (12) or (14) must ensure that notice of the determination is given in the manner the person thinks appropriate.
 
            (19)  A failure to comply with subsection (18) does not invalidate the determination.
 
@@ -5523,7 +6035,9 @@ Note:          See section 70A for the definition of **_vest
 
                      (c)  a licence granted by a sublessee of a sublease of a lease referred to in paragraph (b); and
 
-                     (d)  a licence of a kind prescribed by the regulations for the purposes of this paragraph.
+                     (d)  a licence of a kind prescribed by the regulations for the purposes of this paragraph; and
+
+                     (e)  the statutory rights a person has under section 20W, 20X, 20ZH or 20ZI or a person may exercise under section 20Y or 20ZJ.
 
              (4)  Subsection (3) does not limit section 66.
 
@@ -5588,6 +6102,18 @@ that person or association may apply to the Attorney‑General for the provision
 Delegation—except mining
 
              (1)  The Minister may, in writing, delegate to the Secretary of the Department, or an SES employee or acting SES employee in the Department, any of the Minister’s functions or powers under Part II, III, V, VI or VII, except those under section 19A.
+
+          (1A)  The Minister may, in writing, delegate any of the Minister’s functions or powers under Part IIB to:
+
+                     (a)  the Secretary of the Department; or
+
+                     (b)  an SES employee or acting SES employee in the Department; or
+
+                     (c)  the Secretary of any other Department of the Commonwealth; or
+
+                     (d)  an SES employee or acting SES employee in any other Department of the Commonwealth; or
+
+                     (e)  the Chief Executive Officer of Indigenous Business Australia appointed under section 168 of the _Aboriginal and Torres Strait Islander Act 2005_.
 
 Delegation—mining
 
@@ -5869,7 +6395,7 @@ All that parcel of land containing an area of 965.6 hectares more or less, being
 
 FORSTER RANGE (STIRLING) LOCALITY
 
-All those parcels of land in the Northern Territory containing an area of 3,690 hectares more or less:
+All those parcels of land in the   Northern Territory containing an area of 3,690 hectares more or less:
 
 Firstly:
 
@@ -26038,7 +26564,7 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>S. 7 
-S. 8 (am. by 2, 1990, s. 18)</div>
+S. 8 (am. by 2, 1990, s. 18)</div>
   </td>
 </tr>
 <tr>
@@ -26446,7 +26972,7 @@ S. 8 (am. by 2, 1990, s. 18)</div>
     <div>S. 4, Schedule 1 (items 59–69, 496) and Schedule 2 (items 11, 12, 174): Royal Assent</div>
   </td>
   <td>
-    <div>S. 4, Sch. 1 (item 496) and Sch. 2 (item 174) \[ <i>see</i>Table A]</div>
+    <div>S. 4, Sch. 1 (item 496) and Sch. 2 (item 174) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -26487,9 +27013,7 @@ Schedule 1 (items 100, 219): 5 Sept 2007
 Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>Sch. 1 (items 206, 
-208–223, 224(1), (2), 
-(4)–(12), 225–234) Sch. 1 (item 224(3)) (am. by 121, 2007, Sch. 2 \[item 3]) \[ <i>see</i>Table A]</div>
+    <div>Sch. 1 (items 206, 208–223, 224(1), (2), (4)–(12), 225–234) Sch. 1 (item 224(3)) (am. by 121, 2007, Sch. 2 \[item 3]) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -26634,7 +27158,7 @@ Ss. 4 and 5 (rep. by 93, 2010, Sch. 1 \[item 1]) \[ <i>see</i>Table A]</div>
     <div>Schedule 1 (items 1, 4): 31 Dec 2010</div>
   </td>
   <td>
-    <div>Sch. 1 (item 4) \[ <i>see</i>Table A]</div>
+    <div>Sch. 1 (item 4) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -26719,7 +27243,7 @@ Ss. 4 and 5 (rep. by 93, 2010, Sch. 1 \[item 1]) \[ <i>see</i>Table A]</div>
     <div>Schedule 2 (items 26–31) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
   </td>
   <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
+    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -26771,23 +27295,6 @@ Ss. 4 and 5 (rep. by 93, 2010, Sch. 1 \[item 1]) \[ <i>see</i>Table A]</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Stronger Futures in the Northern Territory (Consequential and Transitional Provisions) Act 2012</div>
-  </td>
-  <td>
-    <div>101, 2012</div>
-  </td>
-  <td>
-    <div>29 June 2012</div>
-  </td>
-  <td>
-    <div>Schedule 2: 16 July 2012 ( <i>see</i>s. 2(1))</div>
-  </td>
-  <td>
-    <div>Sch. 2 (item 10) \[ <i>see</i>Table A]</div>
   </td>
 </tr></table>
 
@@ -27039,7 +27546,7 @@ _(e)_     Subsection 2(1) (items 3 and 9) of the _Families, Community 
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. Nos. 21 and 70, 1978; No. 72, 1984; Nos. 18, 40 and 75, 1987; No. 21, 1989; No. 2, 1990; No. 152, 1997; No. 92, 1999; No. 8, 2005; Nos. 93 and 125, 2006; No. 67, 2008; No. 8, 2010; No. 101, 2012</div>
+    <div>am. Nos. 21 and 70, 1978; No. 72, 1984; Nos. 18, 40 and 75, 1987; No. 21, 1989; No. 2, 1990; No. 152, 1997; No. 92, 1999; No. 8, 2005; Nos. 93 and 125, 2006; No. 67, 2008; No. 8, 2010</div>
   </td>
 </tr>
 <tr>
@@ -27532,14 +28039,6 @@ _(e)_     Subsection 2(1) (items 3 and 9) of the _Families, Community 
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 101, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Division 3</b></div>
   </td>
   <td>
@@ -27740,6 +28239,14 @@ _(e)_     Subsection 2(1) (items 3 and 9) of the _Families, Community 
 </tr>
 <tr>
   <td>
+    <div><b>Part IIB</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
     <div>Part IIB</div>
   </td>
   <td>
@@ -27748,10 +28255,10 @@ _(e)_     Subsection 2(1) (items 3 and 9) of the _Families, Community 
 </tr>
 <tr>
   <td>
-    <div></div>
+    <div><b>Division 1</b></div>
   </td>
   <td>
-    <div>rep. No. 101, 2012</div>
+    <div></div>
   </td>
 </tr>
 <tr>
@@ -27764,10 +28271,18 @@ _(e)_     Subsection 2(1) (items 3 and 9) of the _Families, Community 
 </tr>
 <tr>
   <td>
-    <div></div>
+    <div><b>Division 2</b></div>
   </td>
   <td>
-    <div>rep. No. 101, 2012</div>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision A</b></div>
+  </td>
+  <td>
+    <div></div>
   </td>
 </tr>
 <tr>
@@ -27780,10 +28295,10 @@ _(e)_     Subsection 2(1) (items 3 and 9) of the _Families, Community 
 </tr>
 <tr>
   <td>
-    <div></div>
+    <div><b>Subdivision B</b></div>
   </td>
   <td>
-    <div>rep. No. 101, 2012</div>
+    <div></div>
   </td>
 </tr>
 <tr>
@@ -27792,14 +28307,6 @@ _(e)_     Subsection 2(1) (items 3 and 9) of the _Families, Community 
   </td>
   <td>
     <div>ad. No. 128, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 2012</div>
   </td>
 </tr>
 <tr>
@@ -27820,26 +28327,10 @@ _(e)_     Subsection 2(1) (items 3 and 9) of the _Families, Community 
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 20Z</div>
   </td>
   <td>
     <div>ad. No. 128, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 2012</div>
   </td>
 </tr>
 <tr>
@@ -27860,14 +28351,6 @@ _(e)_     Subsection 2(1) (items 3 and 9) of the _Families, Community 
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 20ZB</div>
   </td>
   <td>
@@ -27876,10 +28359,10 @@ _(e)_     Subsection 2(1) (items 3 and 9) of the _Families, Community 
 </tr>
 <tr>
   <td>
-    <div></div>
+    <div><b>Subdivision C</b></div>
   </td>
   <td>
-    <div>rep. No. 101, 2012</div>
+    <div></div>
   </td>
 </tr>
 <tr>
@@ -27892,10 +28375,10 @@ _(e)_     Subsection 2(1) (items 3 and 9) of the _Families, Community 
 </tr>
 <tr>
   <td>
-    <div></div>
+    <div><b>Subdivision D</b></div>
   </td>
   <td>
-    <div>rep. No. 101, 2012</div>
+    <div></div>
   </td>
 </tr>
 <tr>
@@ -27916,10 +28399,18 @@ _(e)_     Subsection 2(1) (items 3 and 9) of the _Families, Community 
 </tr>
 <tr>
   <td>
-    <div></div>
+    <div><b>Division 3</b></div>
   </td>
   <td>
-    <div>rep. No. 101, 2012</div>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision A</b></div>
+  </td>
+  <td>
+    <div></div>
   </td>
 </tr>
 <tr>
@@ -27932,10 +28423,10 @@ _(e)_     Subsection 2(1) (items 3 and 9) of the _Families, Community 
 </tr>
 <tr>
   <td>
-    <div></div>
+    <div><b>Subdivision B</b></div>
   </td>
   <td>
-    <div>rep. No. 101, 2012</div>
+    <div></div>
   </td>
 </tr>
 <tr>
@@ -27944,14 +28435,6 @@ _(e)_     Subsection 2(1) (items 3 and 9) of the _Families, Community 
   </td>
   <td>
     <div>ad. No. 128, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 2012</div>
   </td>
 </tr>
 <tr>
@@ -27972,26 +28455,10 @@ _(e)_     Subsection 2(1) (items 3 and 9) of the _Families, Community 
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 20ZK</div>
   </td>
   <td>
     <div>ad. No. 128, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 2012</div>
   </td>
 </tr>
 <tr>
@@ -28012,14 +28479,6 @@ _(e)_     Subsection 2(1) (items 3 and 9) of the _Families, Community 
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 20ZM</div>
   </td>
   <td>
@@ -28028,10 +28487,10 @@ _(e)_     Subsection 2(1) (items 3 and 9) of the _Families, Community 
 </tr>
 <tr>
   <td>
-    <div></div>
+    <div><b>Subdivision C</b></div>
   </td>
   <td>
-    <div>rep. No. 101, 2012</div>
+    <div></div>
   </td>
 </tr>
 <tr>
@@ -28044,10 +28503,10 @@ _(e)_     Subsection 2(1) (items 3 and 9) of the _Families, Community 
 </tr>
 <tr>
   <td>
-    <div></div>
+    <div><b>Subdivision D</b></div>
   </td>
   <td>
-    <div>rep. No. 101, 2012</div>
+    <div></div>
   </td>
 </tr>
 <tr>
@@ -28064,14 +28523,6 @@ _(e)_     Subsection 2(1) (items 3 and 9) of the _Families, Community 
   </td>
   <td>
     <div>am. No. 67, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 2012</div>
   </td>
 </tr>
 <tr>
@@ -28161,7 +28612,7 @@ No. 93, 2006</div>
     <div>S. 23</div>
   </td>
   <td>
-    <div>am. No. 40, 1987; No. 2, 1990; No. 67, 2008; No. 101, 2012</div>
+    <div>am. No. 40, 1987; No. 2, 1990; No. 67, 2008</div>
   </td>
 </tr>
 <tr>
@@ -28550,14 +29001,6 @@ No. 93, 2006</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 101, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Heading to s. 34</div>
   </td>
   <td>
@@ -28593,7 +29036,7 @@ No. 93, 2006</div>
     <div>S. 35</div>
   </td>
   <td>
-    <div>am. No. 189, 1979; Nos. 40 and 75, 1987; No. 2, 1990; No. 152, 1997; No. 8, 2005; Nos. 93 and 125, 2006; No. 67, 2008; No. 101, 2012</div>
+    <div>am. No. 189, 1979; Nos. 40 and 75, 1987; No. 2, 1990; No. 152, 1997; No. 8, 2005; Nos. 93 and 125, 2006; No. 67, 2008</div>
   </td>
 </tr>
 <tr>
@@ -29649,84 +30092,12 @@ No. 93, 2006</div>
     <div>S. 70</div>
   </td>
   <td>
-    <div>am. No. 40, 1987; No. 112, 2001; No. 93, 2006; No. 128, 2007; No. 73, 2008; No. 101, 2012</div>
+    <div>am. No. 40, 1987; No. 112, 2001; No. 93, 2006; No. 128, 2007; No. 73, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 70A</div>
-  </td>
-  <td>
-    <div>ad. No. 128, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 70B</div>
-  </td>
-  <td>
-    <div>ad. No. 128, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 70C</div>
-  </td>
-  <td>
-    <div>ad. No. 128, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 70D</div>
-  </td>
-  <td>
-    <div>ad. No. 128, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 70E</div>
-  </td>
-  <td>
-    <div>ad. No. 128, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 101, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 70F</div>
-  </td>
-  <td>
-    <div>ad. No. 128, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 101, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 70G</div>
-  </td>
-  <td>
-    <div>ad. No. 128, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 70H</div>
+    <div>Ss. 70A–70H</div>
   </td>
   <td>
     <div>ad. No. 128, 2007</div>
@@ -29737,7 +30108,7 @@ No. 93, 2006</div>
     <div>S. 71</div>
   </td>
   <td>
-    <div>am. No. 125, 2006; No. 128, 2007; No. 101, 2012</div>
+    <div>am. No. 125, 2006; No. 128, 2007</div>
   </td>
 </tr>
 <tr>
@@ -29793,7 +30164,7 @@ No. 93, 2006</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 67, 2008; No. 188, 2011; No. 101, 2012</div>
+    <div>am. No. 67, 2008; No. 188, 2011</div>
   </td>
 </tr>
 <tr>
@@ -29973,22 +30344,6 @@ No. 93, 2006</div>
   </td>
 </tr></table>
 
-### Note 2
-
-Subsections 70E(18), (19), (20) and (21)—Schedule 2 (items 14 and 15) of the _Stronger Futures in the Northern Territory (Consequential and Transitional Provisions) Act 2012_ (No. 101, 2012) provide as follows:
-
-## Schedule 2
-
-## 14  Subsection 70E(18)
-
-Omit “(14), (15), and (17)”, substitute “(14) and (15)”.
-
-## 15  Subsections 70E(19), (20) and (21)
-
-Omit “(14), (15), or (17)”, substitute “(14) or (15)”.
-
-The proposed amendments were misdescribed and are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -29999,7 +30354,7 @@ _Environmental Reform (Consequential Provisions) Act 1999 (No. 92, 1999)_
 
 ## 31  Saving
 
-To avoid doubt, the amendments of section 12 of the _Aboriginal__Land__Rights (Northern Territory) Act 1976_ made by this Schedule does not affect an agreement mentioned in subsection 12(2B) or (2C) of that Act before the commencement of the _Environment Protection and Biodiversity Conservation Act 1999_.
+To avoid doubt, the amendments of section 12 of the _Aborigina  l__Land__Rights (Northern Territory) Act 1976_ made by this Schedule does not affect an agreement mentioned in subsection 12(2B) or (2C) of that Act before the commencement of the _Environment Protection and Biodiversity Conservation Act 1999_.
 
 ## 33  Application provision
 
@@ -30131,7 +30486,7 @@ Land Trust authorisations
 
 The amendment made by item 60 applies in relation to contracts entered into after the commencement of that item.
 
-## 211  Transitional—Land Council delegations
+## 211  Transitional—Land Council delegations
 
 (1)       For the purposes of subsection 28(1) of the _Aboriginal__Land__Rights (Northern Territory) Act 1976_, the power of a Land Council to give consent under section 40 of that Act (as in force immediately before the commencement of the _Aboriginal__Land__Rights (Northern Territory) Amendment Act (No. 3) 1987_) is not delegable under that subsection.
 
@@ -30539,25 +30894,5 @@ The amendments made by Schedule 2 do not affect the validity of an appointment
 ## 11  Transitional regulations
 
 The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
-
-* * *
-
-_Stronger Futures in the Northern Territory (Consequential and Transitional Provisions) Act 2012 (No. 101, 2012)_
-
-## Schedule 2
-
-## 10  Application of items 5, 8 and 9 of this Schedule
-
-(1)       This item applies if this Act commences before 17 August 2012.
-
-(2)       Despite the repeal of paragraphs 23(1)(fb), (fc) and (fd) of the _Aboriginal Land Rights (Northern Territory) Act 1976_ made by item 5 of this Schedule, those paragraphs continue in force in relation to:
-
-                     (a)  agreements made under section 62 of the old Act before the relevant time; and
-
-                     (b)  rent payable after the relevant time in relation to leases granted under section 31 of the old Act before the relevant time.
-
-(3)       Despite the amendment of subsection 35(4) of the _Aboriginal Land Rights (Northern Territory) Act 1976_ made by item 8 of this Schedule, that subsection, as in force immediately before commencement, continues in force in relation to payments made in accordance with section 60 or 62 of the old Act.
-
-(4)       Despite the amendment of paragraph 70(2C)(a) of the _Aboriginal Land Rights (Northern Territory) Act 1976_ made by item 9 of this Schedule, that amendment does not take effect until the relevant time.
 
  
