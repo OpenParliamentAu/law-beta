@@ -1,268 +1,218 @@
-![Commonwealth Coat of Arms](http://www.comlaw.gov.au/Details/C2013C00093/Html/8f5452f4-3d15-4d09-962f-b0ac2b724d1c_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00349/Html/9549fe34-cc77-498a-9a72-98a0b426336a_files/image001.gif)
 
 # Reserve Bank Act 1959
 
-No. 4, 1959 as amended
+**Act No. 4 of 1959 as amended**
 
-**Compilation start date:**3 January 2013
+This compilation was prepared on 28 March 2012
+ taking into account amendments up to Act No. 46 of 2011
 
-**Includes amendments up to:**Act No. 178, 2012
+The text of any of those amendments not in force 
+ on that date is appended in the Notes section
 
-**About this compilation**
+The operation of amendments that have been incorporated may be 
+ affected by application provisions that are set out in the Notes section
 
-**The compiled Act**
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
-This is a compilation of the _Reserve Bank Act 1959_ as amended and in force on 3 January 2013\. It includes any amendment affecting the compiled Act to that date.
-
-This compilation was prepared on 26 February 2013.
-
-The notes at the end of this compilation (the **_endnotes_**) include information about amending Acts and instruments and the amendment history of each amended provision.
-
-**Uncommenced provisions and amendments**
-
-If a provision of the compiled Act is affected by an uncommenced amendment, the text of the uncommenced amendment is set out in the endnotes.
-
-**Application, saving and transitional provisions for amendments**
-
-If the operation of an amendment is affected by an application, saving or transitional provision, the provision is set out in the endnotes.
-
-**Modifications**
-
-If a provision of the compiled Act is affected by a textual modification that is in force, the text of the modifying provision is set out in the endnotes. 
-
-**Provisions ceasing to have effect**
-
-If a provision of the compiled Act has expired or otherwise ceased to have effect in accordance with a provision of the Act, details of the provision are set out in the endnotes.
-
- 
-
-Contents
+# Contents
 
 **Part I—Preliminary**
 
-[1](#1).            Short title                                                                                              1
+[1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Commencement                                                                                    1
+[2](#2).            Commencement [_see_ Note 1]
 
-[4](#4).            Repeal and saving                                                                                1
+[4](#4).            Repeal and saving
 
-[5](#5).            Interpretation                                                                                        1
+[5](#5).            Interpretation
 
-[6](#6).            Application to Territories                                                                     3
+[6](#6).            Application to Territories
 
-[6A](#6A).         Cessation of application to Territory                                                    3
+[6A](#6A).         Cessation of application to Territory
 
-[6B](#6B).         Application of _Criminal Code_                                                              3
+[6B](#6B).         Application of _Criminal Code_
 
 **Part II—Constitution, policy and management of the Reserve Bank** 
 
     **Division 1—Constitution of the Reserve Bank**
 
-[7](#7).            The Reserve Bank of Australia                                                            4
+[7](#7).            The Reserve Bank of Australia
 
-[7A](#7A).         Special provisions relating to how the _Commonwealth Authorities and Companies Act 1997_ applies to the Bank  4
+[7A](#7A).         Special provisions relating to how the _Commonwealth Authorities and Companies Act 1997_ applies to the Bank
 
-[8](#8).            General powers                                                                                    5
+[8](#8).            General powers
 
     **Division 2—Policy and management of the Reserve Bank**
 
-[8A](#8A).         The Boards of the Bank                                                                       6
+[8A](#8A).         The Boards of the Bank
 
-[9](#9).            Establishment of Reserve Bank Board                                                 6
+[9](#9).            Establishment of Reserve Bank Board
 
-[10](#10).          Functions of Reserve Bank Board                                                       6
+[10](#10).          Functions of Reserve Bank Board
 
-[10A](#10A).       Establishment of Payments System Board                                           7
+[10A](#10A).       Establishment of Payments System Board
 
-[10B](#10B).       Functions of Payments System Board                                                 7
+[10B](#10B).       Functions of Payments System Board
 
-[10C](#10C).       Resolving differences between the Boards                                           8
+[10C](#10C).       Resolving differences between the Boards
 
-[11](#11).          Differences of opinion with Government on questions of policy         8
+[11](#11).          Differences of opinion with Government on questions of policy
 
-[12](#12).          Management of the Bank                                                                     9
+[12](#12).          Management of the Bank
 
-[13](#13).          Governor and Secretary to Treasury to establish liaison                    10
+[13](#13).          Governor and Secretary to Treasury to establish liaison
 
 **Part III—The Reserve Bank Board and the Governor and Deputy Governor of the Bank**
 
-[14](#14).          Membership of Reserve Bank Board                                                 11
+[14](#14).          Membership of Reserve Bank Board
 
-[15](#15).          Remuneration of members                                                                 11
+[15](#15).          Remuneration of members
 
-[16](#16).          Declaration by members                                                                     12
+[16](#16).          Declaration by members
 
-[17](#17).          Disqualifications from membership                                                   12
+[17](#17).          Disqualifications from membership
 
-[17A](#17A).       Resignation                                                                                        12
+[17A](#17A).       Resignation
 
-[18](#18).          Termination of appointment                                                               12
+[18](#18).          Termination of appointment
 
-[18A](#18A).       Leave of absence                                                                                13
+[18A](#18A).       Leave of absence
 
-[20](#20).          Chairperson and Deputy Chairperson                                                13
+[20](#20).          Chairperson and Deputy Chairperson
 
-[21](#21).          Meetings of Reserve Bank Board                                                      13
+[21](#21).          Meetings of Reserve Bank Board
 
-[21A](#21A).       Exclusion of Governor and Deputy Governor from certain deliberations                14
+[21A](#21A).       Exclusion of Governor and Deputy Governor from certain deliberations
 
-[22](#22).          Secretary may nominate alternate to attend meetings of Reserve Bank Board          14
+[22](#22).          Secretary may nominate alternate to attend meetings of Reserve Bank Board
 
-[22A](#22A).       Conduct of meetings                                                                          15
+[22A](#22A).       Conduct of meetings
 
-[22B](#22B).       Resolutions without meetings                                                            15
+[22B](#22B).       Resolutions without meetings
 
-[24](#24).          Governor and Deputy Governor                                                        15
+[24](#24).          Governor and Deputy Governor
 
-[24A](#24A).       Terms and conditions of employment not provided for by Act          16
+[24A](#24A).       Terms and conditions of employment not provided for by Act
 
-[24B](#24B).       Resignation                                                                                        16
+[24B](#24B).       Resignation
 
-[25](#25).          Vacation of Office                                                                              16
+[25](#25).          Vacation of Office
 
 **Part IIIA—The Payments System Board** 
 
     **Division 1—The members of the Payments System Board**
 
-[25A](#25A).       Membership of Payments System Board                                           17
+[25A](#25A).       Membership of Payments System Board
 
-[25B](#25B).       Appointment of members                                                                   17
+[25B](#25B).       Appointment of members
 
-[25C](#25C).       Chair of the Payments System Board                                                 17
+[25C](#25C).       Chair of the Payments System Board
 
-[25D](#25D).       Deputy Chair of the Payments System Board                                    18
+[25D](#25D).       Deputy Chair of the Payments System Board
 
-[25E](#25E).        Declaration by members                                                                     18
+[25E](#25E).        Declaration by members
 
     **Division 2—Meetings**
 
-[25F](#25F).        Meetings                                                                                            19
+[25F](#25F).        Meetings
 
-[25G](#25G).       Conduct of meetings                                                                          19
+[25G](#25G).       Conduct of meetings
 
-[25H](#25H).       Resolutions without meetings                                                            19
+[25H](#25H).       Resolutions without meetings
 
     **Division 3—Other administrative provisions**
 
-[25I](#25I).         Remuneration                                                                                     21
+[25I](#25I).         Remuneration
 
-[25J](#25J).        Leave of absence                                                                                21
+[25J](#25J).        Leave of absence
 
-[25K](#25K).       Resignation                                                                                        21
+[25K](#25K).       Resignation
 
-[25L](#25L).        Termination of appointment                                                               22
+[25L](#25L).        Termination of appointment
 
-[25M](#25M).      Payments System Board’s report to the Minister                               23
+[25M](#25M).      Payments System Board’s report to the Minister
 
 **Part IV—Central banking**
 
-[26](#26).          Reserve Bank to act as a central bank                                                 24
+[26](#26).          Reserve Bank to act as a central bank
 
-[27](#27).          Bank to be banker for Commonwealth                                               24
+[27](#27).          Bank to be banker for Commonwealth
 
-[28](#28).          Capital                                                                                                24
+[28](#28).          Capital
 
-[29](#29).          Reserve Fund                                                                                     24
+[29](#29).          Reserve Fund
 
-[30](#30).          Profits                                                                                                25
+[30](#30).          Profits
 
 **Part V—The note issue**
 
-[32](#32).          Interpretation                                                                                      26
+[32](#32).          Interpretation
 
-[34](#34).          Issue, re‑issue and cancellation of notes                                             26
+[34](#34).          Issue, re‑issue and cancellation of notes
 
-[35](#35).          Denominations of notes                                                                     26
+[35](#35).          Denominations of notes
 
-[36](#36).          Notes to be legal tender                                                                      26
+[36](#36).          Notes to be legal tender
 
-[37](#37).          Signature on notes                                                                              27
+[37](#37).          Signature on notes
 
-[43](#43).          Bank not to issue notes other than Australian notes                           27
+[43](#43).          Bank not to issue notes other than Australian notes
 
-[44](#44).          Other persons not to issue notes                                                        27
+[44](#44).          Other persons not to issue notes
 
 **Part VII—The Reserve Bank Service**
 
-[66](#66).          The Reserve Bank Service                                                                 29
+[66](#66).          The Reserve Bank Service
 
-[67](#67).          Appointment of staff                                                                          29
+[67](#67).          Appointment of staff
 
-[68](#68).          Consultants and other people engaged to perform services                29
+[68](#68).          Consultants and other people engaged to perform services
 
 **Part VIII—Miscellaneous**
 
-[74](#74).          Head office                                                                                         30
+[74](#74).          Head office
 
-[75](#75).          Agents etc                                                                                          30
+[75](#75).          Agents etc 
 
-[76](#76).          Attorney of Bank                                                                               30
+[76](#76).          Attorney of Bank
 
-[77](#77).          Guarantee by Commonwealth                                                            30
+[77](#77).          Guarantee by Commonwealth
 
-[79](#79).          Taxation                                                                                             30
+[79](#79).          Taxation
 
-[79A](#79A).       Secrecy                                                                                               31
+[79A](#79A).       Secrecy
 
-[79B](#79B).       Secrecy: documents or information to which section 79A does not apply                35
+[79B](#79B).       Secrecy: documents or information to which section 79A does not apply
 
-[82](#82).          Returns                                                                                               36
+[82](#82).          Returns
 
-[83](#83).          Power to improve property and carry on business                             36
+[83](#83).          Power to improve property and carry on business
 
-[84](#84).          Execution of contracts                                                                        36
+[84](#84).          Execution of contracts
 
-[85](#85).          The Reserve Bank’s seal                                                                    37
+[85](#85).          The Reserve Bank’s seal
 
-[85A](#85A).       Judicial notice of statistical information published by Bank               37
+[85A](#85A).       Judicial notice of statistical information published by Bank
 
-[86](#86).          Priority of debts due by other ADIs                                                   37
+[86](#86).          Priority of debts due by other ADIs
 
-[87](#87).          Validity of acts and transactions of Bank                                           37
+[87](#87).          Validity of acts and transactions of Bank
 
-[89](#89).          Regulations                                                                                        38
+[89](#89).          Regulations
 
-Endnotes    
-
-Endnote 1—Legislation history                                                                             39
-
-Endnote 2—Amendment history                                                                          48
-
-Endnote 3—Application, saving and transitional provisions                  55
-
-Commonwealth Bank Sale Act 1995 (No. 161, 1995)                                       55
-
-Audit (Transitional and Miscellaneous) Amendment Act 1997 (No. 152, 1997)                57
-
-Financial Sector Reform (Amendments and Transitional Provisions) Act 1998 (No. 54, 1998)      58
-
-Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999 (No. 44, 1999)         59
-
-Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 2000 (No. 24, 2000)         62
-
-Financial Sector Legislation Amendment Act (No. 1) 2000 (No. 160, 2000) 64
-
-Financial Sector Legislation Amendment Act (No. 1) 2002 (No. 37, 2002)   64
-
-Australian Prudential Regulation Authority Amendment Act 2003 (No. 42, 2003)            65
-
-Acts Interpretation Amendment Act 2011 (No. 46, 2011)                                67
-
-Endnote 4—Uncommenced amendments                                                        69
-
-Endnote 5—Misdescribed amendments                                                            70
-
- 
+**Notes** 
 
 ## An Act relating to the Reserve Bank of Australia, and for other purposes
 
 ## Part I—Preliminary
 
-##### <a id="1"></a>1  Short title
+##### <a id="1"></a>1  Short title [_see_ Note 1]
 
                          This Act may be cited as the _Reserve Bank Act 1959_.
 
-##### <a id="2"></a>2  Commencement
+##### <a id="2"></a>2  Commencement [_see_ Note 1]
 
                    This Act shall come into operation on a date to be fixed by Proclamation.
 
@@ -344,7 +294,7 @@ _Commonwealth Bank Act 1953_.
 
 ##### <a id="7"></a>7  The Reserve Bank of Australia
 
-             (1)  Notwithstanding the repeal effected by subsection 4(1), the body corporate established under the _Commonwealth Bank Act 1911_ and continued in existence under the _Commonwealth Bank Act 1945_, under the name Commonwealth Bank of Australia:
+             (1)  Notwithstanding the repeal effected by subsection 4(1), the body corporate established under the _Commonwealth Bank Act 1911_ and continued in existence under the _Commonwealth Bank Act 1945_, under the name Commonwealth Bank of Australia:
 
                      (a)  is preserved and continues in existence as a body corporate under and subject to the provisions of this Act, under the name Reserve Bank of Australia, but so that the corporate identity of the body corporate shall not be affected;
 
@@ -402,7 +352,7 @@ Note:          Subject to section 7A, the _Commonwealth Auth
 
              (4)  Disagreements between the Boards are to be resolved in accordance with section 10C.
 
-             (5)  For how the _Commonwealth Authorities and Companies Act 1997_ applies in relation to the 2 Boards, see subsections 7A(2) and (3).
+             (5)  For how the _Commonwealth Authorities and Companies Act 1997_ applies in relation to the 2 Boards, see subsections 7A(2) and (3).
 
 ##### <a id="9"></a>9  Establishment of Reserve Bank Board
 
@@ -554,11 +504,11 @@ the disagreement is to be resolved as determined by the Governor.
 
 ##### <a id="17A"></a>17A  Resignation
 
-                   A member of the Reserve Bank Board appointed under paragraph 14(1)(d) may resign his or her appointment by giving a written resignation to the Treasurer.
+                   A member of the Reserve Bank Board appointed under paragraph 14(1)(d) may resign his or her appointment by giving a written resignation to the Treasurer.
 
 ##### <a id="18"></a>18  Termination of appointment
 
-             (1)  If a member of the Reserve Bank Board appointed under paragraph 14(1)(d):
+             (1)  If a member of the Reserve Bank Board appointed under paragraph 14(1)(d):
 
                      (a)  becomes permanently incapable of performing his or her duties; or
 
@@ -566,7 +516,7 @@ the disagreement is to be resolved as determined by the Governor.
 
                      (d)  is absent, except on leave granted by the Reserve Bank Board in accordance with section 18A, from all meetings of the Reserve Bank Board held during 2 consecutive months or during any 3 months in any period of 12 months; or
 
-                     (e)  fails to comply with his or her obligations under subsection 18A(3) or section 27F or 27J of the _Commonwealth Authorities and Companies Act 1997_;
+                     (e)  fails to comply with his or her obligations under subsection 18A(3) or section 27F or 27J of the _Commonwealth Authorities and Companies Act 1997_;
 
 the Treasurer shall terminate his or her appointment.
 
@@ -574,7 +524,7 @@ the Treasurer shall terminate his or her appointment.
 
 ##### <a id="18A"></a>18A  Leave of absence
 
-             (1)  This section applies to a member appointed under paragraph 14(1)(d).
+             (1)  This section applies to a member appointed under paragraph 14(1)(d).
 
              (2)  The Reserve Bank Board may grant to a member leave of absence from a meeting of the Reserve Bank Board.
 
@@ -680,11 +630,11 @@ the Treasurer shall terminate his appointment.
 
 ##### <a id="25B"></a>25B  Appointment of members
 
-             (1)  The member who is the representative of the Bank referred to in paragraph 25A(b) is to be appointed by the Governor. The person appointed must be a member of the Reserve Bank Board or a staff member of the Reserve Bank Service.
+             (1)  The member who is the representative of the Bank referred to in paragraph 25A(b) is to be appointed by the Governor. The person appointed must be a member of the Reserve Bank Board or a staff member of the Reserve Bank Service.
 
-             (2)  The member who is the representative of APRA referred to in paragraph 25A(c) is to be appointed by APRA. The person appointed must be an APRA member or an APRA staff member.
+             (2)  The member who is the representative of APRA referred to in paragraph 25A(c) is to be appointed by APRA. The person appointed must be an APRA member or an APRA staff member.
 
-             (3)  Each other member referred to in paragraph 25A(d) is to be appointed by the Treasurer for a period specified in the instrument of appointment. The period specified must not exceed 5 years.
+             (3)  Each other member referred to in paragraph 25A(d) is to be appointed by the Treasurer for a period specified in the instrument of appointment. The period specified must not exceed 5 years.
 
              (4)  All appointments under this section are to be in writing.
 
@@ -700,7 +650,7 @@ Note 2:       The Governor is an ex officio member of the Payments S
 
 ##### <a id="25D"></a>25D  Deputy Chair of the Payments System Board
 
-             (1)  The member of the Payments System Board referred to in paragraph 25A(b) is the Deputy Chair of the Board.
+             (1)  The member of the Payments System Board referred to in paragraph 25A(b) is the Deputy Chair of the Board.
 
              (2)  The Deputy Chair is to act as the Chair during any period when:
 
@@ -790,29 +740,29 @@ Note:          Section 33B of the _Acts Interpretation Act 1
 
                    A member of the Payments System Board (other than the Governor) may resign his or her appointment by giving a written resignation to:
 
-                     (a)  if he or she is the member referred to in paragraph 25A(b)—the Governor; or
+                     (a)  if he or she is the member referred to in paragraph 25A(b)—the Governor; or
 
-                     (b)  if he or she is the member referred to in paragraph 25A(c)—APRA; or
+                     (b)  if he or she is the member referred to in paragraph 25A(c)—APRA; or
 
-                     (c)  if he or she is a member referred to in paragraph 25A(d)—the Treasurer.
+                     (c)  if he or she is a member referred to in paragraph 25A(d)—the Treasurer.
 
 ##### <a id="25L"></a>25L  Termination of appointment
 
-             (1)  The following provisions apply to the member of the Payments System Board referred to in paragraph 25A(b):
+             (1)  The following provisions apply to the member of the Payments System Board referred to in paragraph 25A(b):
 
                      (a)  the Governor may, at any time, terminate the member’s appointment;
 
                      (b)  the member’s appointment is terminated automatically if he or she ceases to be a member of the Reserve Bank Board or a staff member of the Reserve Bank Service.
 
-             (2)  The following provisions apply to the member of the Payments System Board referred to in paragraph 25A(c):
+             (2)  The following provisions apply to the member of the Payments System Board referred to in paragraph 25A(c):
 
                      (a)  APRA may, at any time, terminate the member’s appointment;
 
                      (b)  the member’s appointment is terminated automatically if he or she ceases to be an APRA member or an APRA staff member.
 
-             (3)  The Treasurer may terminate the appointment of a member of the Payments System Board referred to in paragraph 25A(d) for misbehaviour or physical or mental incapacity.
+             (3)  The Treasurer may terminate the appointment of a member of the Payments System Board referred to in paragraph 25A(d) for misbehaviour or physical or mental incapacity.
 
-             (4)  The Treasurer must terminate the appointment of a member of the Payments System Board referred to in paragraph 25A(d) if:
+             (4)  The Treasurer must terminate the appointment of a member of the Payments System Board referred to in paragraph 25A(d) if:
 
                      (a)  the member becomes permanently incapable of performing his or her duties; or
 
@@ -937,9 +887,7 @@ Note:          Section 33B of the _Acts Interpretation Act 1
 <thead>
   <tr>
     <td>
-      <div>
-        <b>Table</b>
-      </div>
+      <div><b>Table</b></div>
     </td>
     <td>
       <div> </div>
@@ -947,115 +895,75 @@ Note:          Section 33B of the _Acts Interpretation Act 1
   </tr>
   <tr>
     <td>
-      <div>
-        <b>
-          First Column
-        </b>
-      </div>
+      <div><b> First Column </b></div>
     </td>
     <td>
-      <div>
-        <b>
-          Second Column
-        </b>
-      </div>
+      <div><b> Second Column </b></div>
     </td>
   </tr>
 </thead>
 <tr>
   <td>
-    <div>
-      Ten shillings
-    </div>
+    <div>Ten shillings</div>
   </td>
   <td>
-    <div>
-      One dollar
-    </div>
+    <div>One dollar</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      One pound
-    </div>
+    <div>One pound</div>
   </td>
   <td>
-    <div>
-      Two dollars
-    </div>
+    <div>Two dollars</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Five pounds
-    </div>
+    <div>Five pounds</div>
   </td>
   <td>
-    <div>
-      Ten dollars
-    </div>
+    <div>Ten dollars</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Ten pounds
-    </div>
+    <div>Ten pounds</div>
   </td>
   <td>
-    <div>
-      Twenty dollars
-    </div>
+    <div>Twenty dollars</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Twenty pounds
-    </div>
+    <div>Twenty pounds</div>
   </td>
   <td>
-    <div>
-      Forty dollars
-    </div>
+    <div>Forty dollars</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Fifty pounds
-    </div>
+    <div>Fifty pounds</div>
   </td>
   <td>
-    <div>
-      One hundred dollars
-    </div>
+    <div>One hundred dollars</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      One hundred pounds
-    </div>
+    <div>One hundred pounds</div>
   </td>
   <td>
-    <div>
-      Two hundred dollars
-    </div>
+    <div>Two hundred dollars</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      One thousand pounds
-    </div>
+    <div>One thousand pounds</div>
   </td>
   <td>
-    <div>
-      Two thousand dollars
-    </div>
+    <div>Two thousand dollars</div>
   </td>
 </tr></table>
 
@@ -1133,10 +1041,6 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                     <a name="financi-institut"></a>**_financial institution_** means a body (other than the Reserve Bank) that has at any time carried on, is carrying on, or proposes to carry on, a business that consists of, or includes, the provision of financial products or financial services (including a body that has previously carried on such a business but has ceased to exist).
 
-                    <a name="financi-sector-supervisori-agenc"></a>**_financial sector supervisory agency_** means a person or body having the function, in Australia or in a foreign country, of supervising or regulating financial institutions.
-
-                    <a name="foreign-central-bank"></a>**_foreign central bank_** means the central bank or monetary authority of a foreign country.
-
                     <a name="offic"></a>**_officer_** means:
 
                      (a)  the Governor, the Deputy Governor, the Secretary to the Department or any other member of the Reserve Bank Board; or
@@ -1163,7 +1067,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (c)  a person who has been, is, or proposes to be, a customer of a financial institution;
 
-It also includes a document given or produced under, or for the purposes of, the performance or exercise of the functions or powers of the Reserve Bank under Part 7.3 or 7.5A of the _Corporations Act 2001_. It does not however include any document to the extent that it contains information that has already been lawfully made available to the public from other sources.
+It also includes a document given or produced under, or for the purposes of, the performance or exercise of the functions or powers of the Reserve Bank under Part 7.3 of the _Corporations Act 2001_. It does not however include any document to the extent that it contains information that has already been lawfully made available to the public from other sources.
 
                     <a name="protect-inform"></a>**_protected information_** means information disclosed or obtained (whether before or after the commencement of this section) under, or for the purposes of, this Act, the _Banking Act 1959_, the _Payment Systems (Regulation) Act 1998_, the _Payment Systems and Netting Act 1998_ or the repealed _Banks (Shareholdings) Act 1972_ and relating to the affairs of:
 
@@ -1173,11 +1077,11 @@ It also includes a document given or produced under, or for the purposes of, the
 
                      (c)  a person who has been, is, or proposes to be, a customer of a financial institution;
 
-It also includes information disclosed or obtained in the course of, or for the purposes of, the performance or exercise of the functions or powers of the Reserve Bank under Part 7.3 or 7.5A of the _Corporations Act 2001_. It does not however include any information that has already been lawfully made available to the public from other sources.
+It also includes information disclosed or obtained in the course of, or for the purposes of, the performance or exercise of the functions or powers of the Reserve Bank under Part 7.3 of the _Corporations Act 2001_. It does not however include any information that has already been lawfully made available to the public from other sources.
 
-                    <a name="statistician"></a>**_Statistician_** means the Australian Statistician referred to in subsection 5(2) of the _Australian Bureau of Statistics Act 1975_.
+                    <a name="statistician"></a>**_Statistician_** means the Australian Statistician referred to in subsection 5(2) of the _Australian Bureau of Statistics Act 1975_.
 
-             (2)  Subject to this section, a person who is or has been an officer must not, except for the purposes of this Act, the _Banking Act 1959_, Part 7.3 or 7.5A of the _Corporations Act 2001_, section 62ZZD of the _Insurance Act 1973_, the _Payment Systems (Regulation) Act 1998_, the _Payment Systems and Netting Act 1998_ or the repealed _Banks (Shareholdings) Act 1972_, directly or indirectly:
+             (2)  Subject to this section, a person who is or has been an officer must not, except for the purposes of this Act, the _Banking Act 1959_, Part 7.3 of the _Corporations Act 2001_, section 62ZZD of the _Insurance Act 1973_, the _Payment Systems (Regulation) Act 1998_, the _Payment Systems and Netting Act 1998_ or the repealed _Banks (Shareholdings) Act 1972_, directly or indirectly:
 
                      (a)  disclose to any person, or to a court, any protected information acquired by the first‑mentioned person in the course of his or her duties as an officer; or
 
@@ -1185,23 +1089,15 @@ It also includes information disclosed or obtained in the course of, or for the 
 
                     Penalty:  Imprisonment for 2 years.
 
-Note 1:       Subsection 4B(2) of the _Crimes Act 1914_ allows a court to impose an appropriate fine instead of, or in addition to, a form of imprisonment.
+Note 1:       Subsection 4B(2) of the _Crimes Act 1914_ allows a court to impose an appropriate fine instead of, or in addition to, a form of imprisonment.
 
 Note 2:       Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
 
-             (3)  Subsection (2) does not prohibit a person from disclosing protected information, or producing a protected document, if the person to whose affairs the information or document relates:
+             (3)  Subsection (2) does not prohibit a person from disclosing prohibited information, or producing a protected document, if the person to whose affairs the information or document relates:
 
                      (a)  is the employer of the first‑mentioned person; or
 
                      (b)  agrees in writing to the disclosure of the information or the production of the document, as the case may be.
-
-             (4)  Subsection (2) does not prohibit a person from disclosing protected information or producing a protected document to:
-
-                     (a)  a financial sector supervisory agency; or
-
-                     (b)  a foreign central bank;
-
-if the person is satisfied that the disclosure of the information, or the production of the document, will assist the financial sector supervisory agency, or the foreign central bank, to perform its functions or exercise its powers.
 
              (6)  Subsection (2) does not prohibit a person from disclosing protected information, or producing a protected document, to:
 
@@ -1213,13 +1109,13 @@ if the person is satisfied that the disclosure of the information, or the produc
 
 for the purposes of the performance of the functions, or the exercise of the powers, of the Bank under a law of the Commonwealth, of a State or of a Territory.
 
-          (6A)  Subsection (2) does not prohibit a person from disclosing protected information, or producing a protected document, to the Australian Securities and Investments Commission if the person is satisfied that the disclosure of the information, or the production of the document, to that body will assist it to perform its functions or exercise its powers under Part 7.3 or 7.5A of the _Corporations Act 2001_.
+          (6A)  Subsection (2) does not prohibit a person from disclosing protected information, or producing a protected document, to the Australian Securities and Investments Commission if the person is satisfied that the disclosure of the information, or the production of the document, to that body will assist it to perform its functions or exercise its powers under Part 7.3 of the _Corporations Act 2001_.
 
           (6B)  Subsection (2) does not prohibit a person from:
 
-                     (a)  disclosing protected information that is information disclosed or obtained in the course of, or for the purposes of, the performance or exercise of the functions or powers of the Reserve Bank under Part 7.3 or 7.5A of the _Corporations Act 2001_; or
+                     (a)  disclosing protected information that is information disclosed or obtained in the course of, or for the purposes of, the performance or exercise of the functions or powers of the Reserve Bank under Part 7.3 of the _Corporations Act 2001_; or
 
-                     (b)  producing a protected document that is a document given or produced under, or for the purposes of, the performance or exercise of the functions or powers of the Reserve Bank under Part 7.3 or 7.5A of the _Corporations Act 2001_;
+                     (b)  producing a protected document that is a document given or produced under, or for the purposes of, the performance or exercise of the functions or powers of the Reserve Bank under Part 7.3 of the _Corporations Act 2001_;
 
 if the disclosure or production is:
 
@@ -1229,7 +1125,7 @@ if the disclosure or production is:
 
              (7)  Subsection (2) does not prohibit a person from disclosing information, or producing a document, if the information, or the information contained in the document, as the case may be, is in the form of a summary or collection of information that is prepared so that information relating to any particular person cannot be found out from it.
 
-             (8)  A person who is or has been an officer cannot be required to disclose to a court any protected information, or to produce in a court a protected document, except when it is necessary to do so for the purposes of this Act, the _Banking Act 1959_, Part 7.3 or 7.5A of the _Corporations Act 2001_, the _Payment Systems (Regulation) Act 1998_, the _Payment Systems and Netting Act 1998_ or the repealed _Banks (Shareholdings) Act 1972_.
+             (8)  A person who is or has been an officer cannot be required to disclose to a court any protected information, or to produce in a court a protected document, except when it is necessary to do so for the purposes of this Act, the _Banking Act 1959_, Part 7.3 of the _Corporations Act 2001_, the _Payment Systems (Regulation) Act 1998_, the _Payment Systems and Netting Act 1998_ or the repealed _Banks (Shareholdings) Act 1972_.
 
              (9)  A document that:
 
@@ -1239,7 +1135,7 @@ if the disclosure or production is:
 
 is an exempt document for the purposes of section 38 of the _Freedom of Information Act 1982_.
 
-          (9A)  For the avoidance of doubt, information or a document that, as permitted by subsection 127(2A) of the _Australian Securities and Investments Commission Act 2001_, is disclosed to the Bank does not become, because of that disclosure, protected information or a protected document.
+          (9A)  For the avoidance of doubt, information or a document that, as permitted by subsection 127(2A) of the _Australian Securities and Investments Commission Act 2001_, is disclosed to the Bank does not become, because of that disclosure, protected information or a protected document.
 
 ##### <a id="79B"></a>79B  Secrecy: documents or information to which section 79A does not apply
 
@@ -1297,7 +1193,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 ##### <a id="86"></a>86  Priority of debts due by other ADIs
 
-                   Notwithstanding anything contained in any law relating to the winding‑up of companies, but subject to subsection 13A(3) of the _Banking Act 1959_, debts due to the Bank by an ADI shall, in the winding‑up, have priority over all other debts.
+                   Notwithstanding anything contained in any law relating to the winding‑up of companies, but subject to subsection 13A(3) of the _Banking Act 1959_, debts due to the Bank by an ADI shall, in the winding‑up, have priority over all other debts.
 
 ##### <a id="87"></a>87  Validity of acts and transactions of Bank
 
@@ -1307,320 +1203,242 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                    The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters which by this Act are required or permitted to be prescribed, or which are necessary or convenient to be prescribed for carrying out or giving effect to this Act or for the conduct of business by the Bank and, in particular, prescribing penalties not exceeding 10 penalty units for offences against the regulations.
 
-Endnotes
+# Notes to the _Reserve Bank Act 1959_
 
-Endnote 1—Legislation history
+### Note 1
 
-This endnote sets out details of the legislation history of the _Reserve Bank Act 1959._
+The _Reserve Bank Act 1959_ as shown in this compilation comprises Act No. 4, 1959 amended as indicated in the Tables below.
+
+The _Banking (Transitional Provisions) Act 1959_ enacts certain transitional provisions consequential upon the enactment of the Reserve Bank Act and other Acts relating to banking.
+
+For application, saving or transitional provisions made by the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, _see_ Act No. 55, 2001.
+
+All relevant information pertaining to application, saving or transitional provisions prior to 16 December 1995 is not included in this compilation. For subsequent information _see_ Table A.
+
+### Table of Acts
 
 <table>
 <colgroup>
-  <col width="26%">
-  <col width="14%">
-  <col width="14%">
-  <col width="26%">
-  <col width="20%">
+  <col width="30%">
+  <col width="16%">
+  <col width="17%">
+  <col width="21%">
+  <col width="16%">
+  <col width="0%">
 </colgroup>
 
 <thead>
   <tr>
     <td>
-      <div>
-        <b>
-          Act
-        </b>
-      </div>
+      <div>Act</div>
     </td>
     <td>
-      <div>
-        <b>
-          Number and year
-        </b>
-      </div>
+      <div>Number 
+and year</div>
     </td>
     <td>
-      <div>
-        <b>
-          Assent date
-        </b>
-      </div>
+      <div>Date 
+of Assent</div>
     </td>
     <td>
-      <div>
-        <b>
-          Commencement date
-        </b>
-      </div>
+      <div>Date of commencement</div>
     </td>
     <td>
-      <div>
-        <b>
-          Application, saving and transitional provisions
-        </b>
-      </div>
+      <div>Application, saving or transitional provisions</div>
+    </td>
+    <td>
+      <div></div>
     </td>
   </tr>
 </thead>
 <tr>
   <td>
-    <div>
-      Reserve Bank Act 1959
-    </div>
+    <div>Reserve Bank Act 1959</div>
   </td>
   <td>
-    <div>
-      4, 1959
-    </div>
+    <div>4, 1959</div>
   </td>
   <td>
-    <div>
-      23 Apr 1959
-    </div>
+    <div>23 Apr 1959</div>
   </td>
   <td>
-    <div>
-      14 Jan 1960 (
-        <i>see Gazette</i>1960, p. 47)
-    </div>
+    <div>14 Jan 1960 ( <i>see Gazette</i>1960, p. 47)</div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Reserve Bank Act 1965
-    </div>
+    <div>Reserve Bank Act 1965</div>
   </td>
   <td>
-    <div>
-      96, 1965
-    </div>
+    <div>96, 1965</div>
   </td>
   <td>
-    <div>
-      10 Dec 1965
-    </div>
+    <div>10 Dec 1965</div>
   </td>
   <td>
-    <div>
-      14 Feb 1966
-    </div>
+    <div>14 Feb 1966</div>
   </td>
   <td>
-    <div>
-      s. 7
-    </div>
+    <div>S. 7</div>
+  </td>
+  <td>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Statute Law Revision (Decimal Currency) Act 1966
-    </div>
+    <div>Statute Law Revision (Decimal Currency) Act 1966</div>
   </td>
   <td>
-    <div>
-      93, 1966
-    </div>
+    <div>93, 1966</div>
   </td>
   <td>
-    <div>
-      29 Oct 1966
-    </div>
+    <div>29 Oct 1966</div>
   </td>
   <td>
-    <div>
-      1 Dec 1966
-    </div>
+    <div>1 Dec 1966</div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Reserve Bank Act 1973
-    </div>
+    <div>Reserve Bank Act 1973</div>
   </td>
   <td>
-    <div>
-      118, 1973
-    </div>
+    <div>118, 1973</div>
   </td>
   <td>
-    <div>
-      26 Oct 1973
-    </div>
+    <div>26 Oct 1973</div>
   </td>
   <td>
-    <div>
-      s. 5: 22 Mar 1971
-    </div>
-    <div>
-      Remainder: Royal Assent
-    </div>
+    <div>S. 5: 22 Mar 1971 
+Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Statute Law Revision Act 1973
-    </div>
+    <div>Statute Law Revision Act 1973</div>
   </td>
   <td>
-    <div>
-      216, 1973
-    </div>
+    <div>216, 1973</div>
   </td>
   <td>
-    <div>
-      19 Dec 1973
-    </div>
+    <div>19 Dec 1973</div>
   </td>
   <td>
-    <div>
-      31 Dec 1973
-    </div>
+    <div>31 Dec 1973</div>
   </td>
   <td>
-    <div>
-      ss. 9(1) and 10
-    </div>
+    <div>Ss. 9(1) and 10</div>
+  </td>
+  <td>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Administrative Changes (Consequential Provisions) Act 1978
-    </div>
+    <div>Administrative Changes (Consequential Provisions) Act 1978</div>
   </td>
   <td>
-    <div>
-      36, 1978
-    </div>
+    <div>36, 1978</div>
   </td>
   <td>
-    <div>
-      12 June 1978
-    </div>
+    <div>12 June 1978</div>
   </td>
   <td>
-    <div>
-      12 June 1978
-    </div>
+    <div>12 June 1978</div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Australian Federal Police (Consequential Amendments) Act 1979
-    </div>
+    <div>Australian Federal Police (Consequential Amendments) Act 1979</div>
   </td>
   <td>
-    <div>
-      155, 1979
-    </div>
+    <div>155, 1979</div>
   </td>
   <td>
-    <div>
-      28 Nov 1979
-    </div>
+    <div>28 Nov 1979</div>
   </td>
   <td>
-    <div>
-      19 Oct 1979 (
-        <i>see</i>s. 2 and
-        <i>Gazette</i>1979, No. S206)
-    </div>
+    <div>19 Oct 1979 ( <i>see</i>s. 2 and <i>Gazette</i>1979, No. S206)</div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Australian Federal Police (Consequential Amendments) Act 1980
-    </div>
+    <div>Australian Federal Police (Consequential Amendments) Act 1980</div>
   </td>
   <td>
-    <div>
-      70, 1980
-    </div>
+    <div>70, 1980</div>
   </td>
   <td>
-    <div>
-      28 May 1980
-    </div>
+    <div>28 May 1980</div>
   </td>
   <td>
-    <div>
-      28 May 1980
-    </div>
+    <div>28 May 1980</div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Crimes (Currency) Act 1981
-    </div>
+    <div>Crimes (Currency) Act 1981</div>
   </td>
   <td>
-    <div>
-      122, 1981
-    </div>
+    <div>122, 1981</div>
   </td>
   <td>
-    <div>
-      17 Sept 1981
-    </div>
+    <div>17 Sept 1981</div>
   </td>
   <td>
-    <div>
-      ss. 1–3: Royal Assent
-    </div>
-    <div>
-      Remainder: 16 Dec 1985 (
-        <i>see</i>s. 2(2))
-    </div>
+    <div>Ss. 1–3: Royal Assent 
+Remainder: 16 Dec 1985 ( <i>see</i>s. 2(2))</div>
   </td>
   <td>
-    <div>
-      s. 40(2)
-    </div>
+    <div>S. 40(2)</div>
+  </td>
+  <td>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        as amended by
-      </b>
-    </div>
+    <div>as amended by</div>
+  </td>
+  <td>
+    <div></div>
   </td>
   <td>
     <div></div>
@@ -1637,298 +1455,200 @@ This endnote sets out details of the legislation history of the _Reserve Bank Ac
 </tr>
 <tr>
   <td>
-    <div>
-      Statute Law (Miscellaneous Provisions) Act (No. 2) 1985
-    </div>
+    <div>Statute Law (Miscellaneous Provisions) Act (No. 2) 1985</div>
   </td>
   <td>
-    <div>
-      193, 1985
-    </div>
+    <div>193, 1985</div>
   </td>
   <td>
-    <div>
-      16 Dec 1985
-    </div>
+    <div>16 Dec 1985</div>
   </td>
   <td>
-    <div>
-      s. 3: 16 Dec 1985 (a)
-    </div>
+    <div>S. 3: 16 Dec 1985 <i>(a)</i></div>
   </td>
   <td>
-    <div>
-      s. 16
-    </div>
+    <div>S. 16</div>
+  </td>
+  <td>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Public Service Reform Act 1984
-    </div>
+    <div>Public Service Reform Act 1984</div>
   </td>
   <td>
-    <div>
-      63, 1984
-    </div>
+    <div>63, 1984</div>
   </td>
   <td>
-    <div>
-      25 June 1984
-    </div>
+    <div>25 June 1984</div>
   </td>
   <td>
-    <div>
-      s. 153: 1 Nov 1984 (
-        <i>see Gazette</i>1984, No. S383)
-        <i>(b)</i>
-
-    </div>
+    <div>S. 153: 1 Nov 1984 ( <i>see Gazette</i>1984, No. S383) <i>(b)</i></div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Commonwealth Banks Amendment Act 1984
-    </div>
+    <div>Commonwealth Banks Amendment Act 1984</div>
   </td>
   <td>
-    <div>
-      76, 1984
-    </div>
+    <div>76, 1984</div>
   </td>
   <td>
-    <div>
-      25 June 1984
-    </div>
+    <div>25 June 1984</div>
   </td>
   <td>
-    <div>
-      29 June 1984 (
-        <i>see Gazette</i>1984, No. S241)
-    </div>
+    <div>29 June 1984 ( <i>see Gazette</i>1984, No. S241)</div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Statute Law (Miscellaneous Provisions) Act (No. 1) 1985
-    </div>
+    <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1985</div>
   </td>
   <td>
-    <div>
-      65, 1985
-    </div>
+    <div>65, 1985</div>
   </td>
   <td>
-    <div>
-      5 June 1985
-    </div>
+    <div>5 June 1985</div>
   </td>
   <td>
-    <div>
-      s. 3: 3 July 1985
-        <i>(c)</i>
-
-    </div>
+    <div>S. 3: 3 July 1985 <i>(c)</i></div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Banking Legislation Amendment Act 1986
-    </div>
+    <div>Banking Legislation Amendment Act 1986</div>
   </td>
   <td>
-    <div>
-      166, 1986
-    </div>
+    <div>166, 1986</div>
   </td>
   <td>
-    <div>
-      18 Dec 1986
-    </div>
+    <div>18 Dec 1986</div>
   </td>
   <td>
-    <div>
-      ss. 3–8 and 12: 18 Dec 1986
-    </div>
-    <div>
-      ss. 9–11 and Part III (ss.13–17): 30 Nov 1988 (
-        <i>see Gazette</i>1988, No. S362)
-    </div>
-    <div>
-      Remainder: 15 Jan 1987
-    </div>
+    <div>Ss. 3–8 and 12: 18 Dec 1986 
+Ss. 9–11 and Part III (ss.13–17): 30 Nov 1988 ( <i>see Gazette</i>1988, No. S362) 
+Remainder: 15 Jan 1987</div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Government Business Enterprises (Miscellaneous Reforms) Act 1988
-    </div>
+    <div>Government Business Enterprises (Miscellaneous Reforms) Act 1988</div>
   </td>
   <td>
-    <div>
-      123, 1988
-    </div>
+    <div>123, 1988</div>
   </td>
   <td>
-    <div>
-      14 Dec 1988
-    </div>
+    <div>14 Dec 1988</div>
   </td>
   <td>
-    <div>
-      Part II (ss. 3–12): 26 Jan 1989
-    </div>
-    <div>
-      Part VI (ss. 26–31): 1 Jan 1989 (
-        <i>see Gazette</i>1988, No. S399)
-    </div>
-    <div>
-      Part VII (ss. 32–37): 14 Nov 1988
-    </div>
-    <div>
-      Remainder: Royal Assent
-    </div>
+    <div>Part II (ss. 3–12): 26 Jan 1989 
+Part VI (ss. 26–31): 1 Jan 1989 ( <i>see Gazette</i>1988, No. S399) 
+Part VII (ss. 32–37): 14 Nov 1988 
+Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Banking Legislation Amendment Act 1989
-    </div>
+    <div>Banking Legislation Amendment Act 1989</div>
   </td>
   <td>
-    <div>
-      129, 1989
-    </div>
+    <div>129, 1989</div>
   </td>
   <td>
-    <div>
-      7 Nov 1989
-    </div>
+    <div>7 Nov 1989</div>
   </td>
   <td>
-    <div>
-      Part I (ss. 1, 2), ss. 3, 26, 29–33, 35, 38 and 40: Royal Assent
-    </div>
-    <div>
-      s. 23(1): 4 May 1989
-    </div>
-    <div>
-      s. 39: 23 Jan 1988
-    </div>
-    <div>
-      Remainder: 28 Dec 1989 (
-        <i>see Gazette</i>1989, No. S383)
-    </div>
+    <div>Part I (ss. 1, 2), ss. 3, 26, 29–33, 35, 38 and 40: Royal Assent 
+S. 23(1): 4 May 1989 
+S. 39: 23 Jan 1988 
+Remainder: 28 Dec 1989 ( <i>see Gazette</i>1989, No. S383)</div>
   </td>
   <td>
-    <div>
-      s. 51
-    </div>
+    <div>S. 51</div>
+  </td>
+  <td>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Commonwealth Banks Restructuring Act 1990
-    </div>
+    <div>Commonwealth Banks Restructuring Act 1990</div>
   </td>
   <td>
-    <div>
-      118, 1990
-    </div>
+    <div>118, 1990</div>
   </td>
   <td>
-    <div>
-      28 Dec 1990
-    </div>
+    <div>28 Dec 1990</div>
   </td>
   <td>
-    <div>
-      s. 62: 17 Apr 1991 (
-        <i>see Gazette</i>1991, No. S72)
-        <i>(d)</i>
-
-    </div>
+    <div>S. 62: 17 Apr 1991 ( <i>see Gazette</i>1991, No. S72) <i>(d)</i></div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Banking Legislation Amendment Act 1992
-    </div>
+    <div>Banking Legislation Amendment Act 1992</div>
   </td>
   <td>
-    <div>
-      193, 1992
-    </div>
+    <div>193, 1992</div>
   </td>
   <td>
-    <div>
-      21 Dec 1992
-    </div>
+    <div>21 Dec 1992</div>
   </td>
   <td>
-    <div>
-      ss. 2(6) and 22–34: Royal Assent
-        <i>(e)</i>
-
-    </div>
-    <div>
-      s. 35: 5 Feb 1993 (
-        <i>see Gazette</i>1993, No. GN4)
-        <i>(e)</i>
-
-    </div>
+    <div>Ss. 2(6) and 
+22–34: Royal Assent <i>(e)</i> 
+S. 35: 5 Feb 1993 ( <i>see Gazette</i>1993, No. GN4) <i>(e)</i></div>
   </td>
   <td>
-    <div>
-      ss. 2(6) and 35
-    </div>
+    <div>Ss. 2(6) and 35</div>
+  </td>
+  <td>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        as amended by
-      </b>
-    </div>
+    <div>as amended by</div>
+  </td>
+  <td>
+    <div></div>
   </td>
   <td>
     <div></div>
@@ -1945,838 +1665,553 @@ This endnote sets out details of the legislation history of the _Reserve Bank Ac
 </tr>
 <tr>
   <td>
-    <div>
-      Statute Law Revision Act 1996
-    </div>
+    <div>Statute Law Revision Act 1996</div>
   </td>
   <td>
-    <div>
-      43, 1996
-    </div>
+    <div>43, 1996</div>
   </td>
   <td>
-    <div>
-      25 Oct 1996
-    </div>
+    <div>25 Oct 1996</div>
   </td>
   <td>
-    <div>
-      Schedule 3 (item 7): 21 Dec 1992 (f)
-    </div>
+    <div>Schedule 3 (item 7): 21 Dec 1992 <i>(f)</i></div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Banking (State Bank of South Australia and Other Matters) Act 1994
-    </div>
+    <div>Banking (State Bank of South Australia and Other Matters) Act 1994</div>
   </td>
   <td>
-    <div>
-      69, 1994
-    </div>
+    <div>69, 1994</div>
   </td>
   <td>
-    <div>
-      9 June 1994
-    </div>
+    <div>9 June 1994</div>
   </td>
   <td>
-    <div>
-      ss. 69–74: Royal Assent
-        <i>(g)</i>
-
-    </div>
+    <div>Ss. 69–74: Royal Assent <i>(g)</i></div>
   </td>
   <td>
-    <div>
-      ss. 69, 73 and 74
-    </div>
+    <div>Ss. 69, 73 and 74</div>
+  </td>
+  <td>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Commonwealth Bank Sale Act 1995
-    </div>
+    <div>Commonwealth Bank Sale Act 1995</div>
   </td>
   <td>
-    <div>
-      161, 1995
-    </div>
+    <div>161, 1995</div>
   </td>
   <td>
-    <div>
-      16 Dec 1995
-    </div>
+    <div>16 Dec 1995</div>
   </td>
   <td>
-    <div>
-      ss. 3 and 20: Royal Assent
-        <i>(h)</i>
-
-    </div>
-    <div>
-      Schedule (items 57, 58):
-        <i>(h)</i>
-
-    </div>
+    <div>Ss. 3 and 20: Royal Assent <i>(h)</i> 
+Schedule (items 57, 58): <i>(h)</i></div>
   </td>
   <td>
-    <div>
-      ss. 3 and 20 \[
-        <i>see</i>Endnote 3]
-    </div>
+    <div>Ss. 3 and 20 \[ <i>see</i>Table A]</div>
+  </td>
+  <td>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Statute Law Revision Act 1996
-    </div>
+    <div>Statute Law Revision Act 1996</div>
   </td>
   <td>
-    <div>
-      43, 1996
-    </div>
+    <div>43, 1996</div>
   </td>
   <td>
-    <div>
-      25 Oct 1996
-    </div>
+    <div>25 Oct 1996</div>
   </td>
   <td>
-    <div>
-      Schedule 4 (items 1, 127): Royal Assent
-        <i>(i)</i>
-
-    </div>
+    <div>Schedule 4 (items 1, 127): Royal Assent <i>(i)</i></div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Financial Laws Amendment Act 1997
-    </div>
+    <div>Financial Laws Amendment Act 1997</div>
   </td>
   <td>
-    <div>
-      107, 1997
-    </div>
+    <div>107, 1997</div>
   </td>
   <td>
-    <div>
-      30 June 1997
-    </div>
+    <div>30 June 1997</div>
   </td>
   <td>
-    <div>
-      Schedule 13: Royal Assent
-        <i>(j)</i>
-
-    </div>
+    <div>Schedule 13: Royal Assent <i>(j)</i></div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Audit (Transitional and Miscellaneous) Amendment Act 1997
-    </div>
+    <div>Audit (Transitional and Miscellaneous) Amendment Act 1997</div>
   </td>
   <td>
-    <div>
-      152, 1997
-    </div>
+    <div>152, 1997</div>
   </td>
   <td>
-    <div>
-      24 Oct 1997
-    </div>
+    <div>24 Oct 1997</div>
   </td>
   <td>
-    <div>
-      Schedule 2 (items 1149–1159): 1 Jan 1998 (
-        <i>see Gazette</i>1997, No. GN49)
-        <i>(k)</i>
-
-    </div>
+    <div>Schedule 2 (items 1149–1159): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(k)</i></div>
   </td>
   <td>
-    <div>
-      Sch. 4 (item 4) \[
-        <i>see</i>Endnote 3]
-    </div>
+    <div>Sch. 4 (item 4) \[ <i>see</i>Table A]</div>
+  </td>
+  <td>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Financial Sector Reform (Consequential Amendments) Act 1998
-    </div>
+    <div>Financial Sector Reform (Consequential Amendments) Act 1998</div>
   </td>
   <td>
-    <div>
-      48, 1998
-    </div>
+    <div>48, 1998</div>
   </td>
   <td>
-    <div>
-      29 June 1998
-    </div>
+    <div>29 June 1998</div>
   </td>
   <td>
-    <div>
-      Schedule 1 (items 149–154): 1 July 1998
-        <i>(l)</i>
-
-    </div>
+    <div>Schedule 1 (items 149–154): 1 July 1998 <i>(l)</i></div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Financial Sector Reform (Amendments and Transitional Provisions) Act 1998
-    </div>
+    <div>Financial Sector Reform (Amendments and Transitional Provisions) Act 1998</div>
   </td>
   <td>
-    <div>
-      54, 1998
-    </div>
+    <div>54, 1998</div>
   </td>
   <td>
-    <div>
-      29 June 1998
-    </div>
+    <div>29 June 1998</div>
   </td>
   <td>
-    <div>
-      Schedule 14: 1 July 1998
-        <i>(m)</i>
-
-    </div>
-    <div>
-      Schedule 19: 29 June 1998
-    </div>
+    <div>Schedule 14: 1 July 1998 <i>(m) 
+ </i>Schedule 19: 29 June 1998</div>
   </td>
   <td>
-    <div>
-      Sch. 19 (items
-    </div>
-    <div>
-      40–43) \[
-        <i>see</i>Endnote 3]
-    </div>
+    <div>Sch. 19 (items 
+40–43) \[ <i>see</i>Table A]</div>
+  </td>
+  <td>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1)
-        1999
-    </div>
+    <div>Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999</div>
   </td>
   <td>
-    <div>
-      44, 1999
-    </div>
+    <div>44, 1999</div>
   </td>
   <td>
-    <div>
-      17 June 1999
-    </div>
+    <div>17 June 1999</div>
   </td>
   <td>
-    <div>
-      Schedule 5: Royal Assent
-        <i>(n)</i>
-
-    </div>
-    <div>
-      Schedule 8: Royal Assent
-        <i>(n)</i>
-
-    </div>
+    <div>Schedule 5: Royal Assent <i>(n)</i> 
+Schedule 8: Royal Assent <i>(n)</i></div>
   </td>
   <td>
-    <div>
-      Sch. 8 (items 22, 23) \[
-        <i>see</i>Endnote 3]
-    </div>
+    <div>Sch. 8 (items 22, 23) \[ <i>see</i>Table A]</div>
+  </td>
+  <td>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Public Employment (Consequential and Transitional) Amendment Act 1999
-    </div>
+    <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
   </td>
   <td>
-    <div>
-      146, 1999
-    </div>
+    <div>146, 1999</div>
   </td>
   <td>
-    <div>
-      11 Nov 1999
-    </div>
+    <div>11 Nov 1999</div>
   </td>
   <td>
-    <div>
-      Schedule 1 (items 789–793): 5 Dec 1999 (
-        <i>see Gazette</i>1999, No. S584)
-        <i>(o)</i>
-
-    </div>
+    <div>Schedule 1 (items 789–793): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(o)</i></div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Corporate Law Economic Reform Program Act 1999
-    </div>
+    <div>Corporate Law Economic Reform Program Act 1999</div>
   </td>
   <td>
-    <div>
-      156, 1999
-    </div>
+    <div>156, 1999</div>
   </td>
   <td>
-    <div>
-      24 Nov 1999
-    </div>
+    <div>24 Nov 1999</div>
   </td>
   <td>
-    <div>
-      Schedule 10 (item 114): 13 Mar 2000 (
-        <i>see Gazette</i>2000, No. S114)
-        <i>(p)</i>
-
-    </div>
+    <div>Schedule 10 (item 114): 13 Mar 2000 ( <i>see</i> <i>Gazette</i>2000,No. S114) <i>(p)</i></div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1)
-        2000
-    </div>
+    <div>Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 2000</div>
   </td>
   <td>
-    <div>
-      24, 2000
-    </div>
+    <div>24, 2000</div>
   </td>
   <td>
-    <div>
-      3 Apr 2000
-    </div>
+    <div>3 Apr 2000</div>
   </td>
   <td>
-    <div>
-      Schedule 7 and Schedule 12 (item 9): Royal Assent (
-        <i>q</i>)
-    </div>
-    <div>
-      Schedule 12 (items 1–3): 3 Apr 2000
-        <i>(q)</i>
-
-    </div>
+    <div>Schedule 7 and Schedule 12 (item 9): Royal Assent <i>(q)</i> 
+Schedule 12 (items 1–3): 3 Apr 2000 <i>(q)</i></div>
   </td>
   <td>
-    <div>
-      Sch. 12 (items 1–3, 9) \[
-        <i>see</i>Endnote 3]
-    </div>
+    <div>Sch. 12 (items 1–3, 9) \[ <i>see</i>Table A]</div>
+  </td>
+  <td>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Financial Sector Legislation Amendment Act (No. 1) 2000
-    </div>
+    <div>Financial Sector Legislation Amendment Act (No. 1) 2000</div>
   </td>
   <td>
-    <div>
-      160, 2000
-    </div>
+    <div>160, 2000</div>
   </td>
   <td>
-    <div>
-      21 Dec 2000
-    </div>
+    <div>21 Dec 2000</div>
   </td>
   <td>
-    <div>
-      Schedule 1 (item 21): Royal Assent
-    </div>
-    <div>
-      Remainder: 18 Jan 2001
-    </div>
+    <div>Schedule 1 (item 21): Royal Assent 
+Remainder: 18 Jan 2001</div>
   </td>
   <td>
-    <div>
-      Sch. 2 (item 9) \[
-        <i>see</i>Endnote 3]
-    </div>
+    <div>Sch. 2 (item 9) \[ <i>see</i>Table A]</div>
+  </td>
+  <td>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Corporations (Repeals, Consequentials and Transitionals) Act 2001
-    </div>
+    <div>Corporations (Repeals, Consequentials and Transitionals) Act 2001</div>
   </td>
   <td>
-    <div>
-      55, 2001
-    </div>
+    <div>55, 2001</div>
   </td>
   <td>
-    <div>
-      28 June 2001
-    </div>
+    <div>28 June 2001</div>
   </td>
   <td>
-    <div>
-      ss. 4–14 and Schedule 3 (item 458): 15 July 2001 (
-        <i>see Gazette</i>2001, No. S285
-        <i>(r)</i>
-
-    </div>
+    <div>Ss. 4–14 and Schedule 3 (item 458): 15 July 2001 ( <i>see</i> <i>Gazette</i>2001, No. S285 <i>(r)</i></div>
   </td>
   <td>
-    <div>
-      ss. 4–14 \[
-        <i>see</i>Endnote 3]
-    </div>
+    <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
+  </td>
+  <td>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Financial Sector (Collection of Data—Consequential and Transitional Provisions)
-        Act 2001
-    </div>
+    <div>Financial Sector (Collection of Data—Consequential and Transitional Provisions) Act 2001</div>
   </td>
   <td>
-    <div>
-      121, 2001
-    </div>
+    <div>121, 2001</div>
   </td>
   <td>
-    <div>
-      24 Sept 2001
-    </div>
+    <div>24 Sept 2001</div>
   </td>
   <td>
-    <div>
-      ss. 1–3: Royal Assent
-    </div>
-    <div>
-      Remainder: 1 July 2002 (
-        <i>see</i>s. 2(2) and
-        <i>Gazette</i>2002, No. GN24)
-    </div>
+    <div>Ss. 1–3: Royal Assent 
+Remainder: 1 July 2002 ( <i>see</i>s. 2(2) and Gazette 2002, No. GN24)</div>
   </td>
-  <td>
-    <div>
-      —
-    </div>
+  <td colspan="2">
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Financial Services Reform Act 2001
-    </div>
+    <div>Financial Services Reform Act 2001</div>
   </td>
   <td>
-    <div>
-      122, 2001
-    </div>
+    <div>122, 2001</div>
   </td>
   <td>
-    <div>
-      27 Sept 2001
-    </div>
+    <div>27 Sept 2001</div>
   </td>
   <td>
-    <div>
-      ss. 1, 2 and Schedule 3 (items 1–27): Royal Assent
-    </div>
-    <div>
-      Remainder: 11 Mar 2002 (
-        <i>see Gazette</i>2001, No. GN42)
-    </div>
+    <div>Ss. 1, 2 and Schedule 3 (items 1–27): Royal Assent 
+Remainder: 11 Mar 2002 ( <i>see Gazette</i>2001, No. GN42)</div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Financial Sector Legislation Amendment Act (No. 1) 2002
-    </div>
+    <div>Financial Sector Legislation Amendment Act (No. 1) 2002</div>
   </td>
   <td>
-    <div>
-      37, 2002
-    </div>
+    <div>37, 2002</div>
   </td>
   <td>
-    <div>
-      26 June 2002
-    </div>
+    <div>26 June 2002</div>
   </td>
   <td>
-    <div>
-      Schedule 7: 27 June 2002
-    </div>
+    <div>Schedule 7: 27 June 2002</div>
   </td>
-  <td>
-    <div>
-      Sch. 7 (item 21) \[
-        <i>see</i>Endnote 3]
-    </div>
+  <td colspan="2">
+    <div>Sch. 7 (item 21) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Australian Prudential Regulation Authority Amendment Act 2003
-    </div>
+    <div>Australian Prudential Regulation Authority Amendment Act 2003</div>
   </td>
   <td>
-    <div>
-      42, 2003
-    </div>
+    <div>42, 2003</div>
   </td>
   <td>
-    <div>
-      24 June 2003
-    </div>
+    <div>24 June 2003</div>
   </td>
   <td>
-    <div>
-      ss. 1–3: Royal Assent
-    </div>
-    <div>
-      Remainder: 1 July 2003 (
-        <i>see</i>s. 2(1) and
-        <i>Gazette</i>2003, No. S230)
-    </div>
+    <div>Ss. 1–3: Royal Assent 
+Remainder: 1 July 2003 ( <i>see</i>s. 2(1) and <i>Gazette</i>2003, No. S230)</div>
   </td>
-  <td>
-    <div>
-      Sch. 3 \[
-        <i>see</i>Endnote 3]
-    </div>
+  <td colspan="2">
+    <div>Sch. 3 \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Statute Law Revision Act 2008
-    </div>
+    <div>Statute Law Revision Act 2008</div>
   </td>
   <td>
-    <div>
-      73, 2008
-    </div>
+    <div>73, 2008</div>
   </td>
   <td>
-    <div>
-      3 July 2008
-    </div>
+    <div>3 July 2008</div>
   </td>
   <td>
-    <div>
-      Schedule 4 (items 450, 451): 4 July 2008
-    </div>
+    <div>Schedule 4 (items 450, 451): 4 July 2008</div>
   </td>
-  <td>
-    <div>
-      —
-    </div>
+  <td colspan="2">
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Financial Framework Legislation Amendment Act 2008
-    </div>
+    <div>Financial Framework Legislation Amendment Act 2008</div>
   </td>
   <td>
-    <div>
-      90, 2008
-    </div>
+    <div>90, 2008</div>
   </td>
   <td>
-    <div>
-      20 Sept 2008
-    </div>
+    <div>20 Sept 2008</div>
   </td>
   <td>
-    <div>
-      Schedule 1 (items 63–66): 20 Mar 2009
-    </div>
+    <div>Schedule 1 (items 63–66): 20 Mar 2009</div>
   </td>
-  <td>
-    <div>
-      —
-    </div>
+  <td colspan="2">
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Financial System Legislation Amendment (Financial Claims Scheme and Other
-        Measures) Act 2008
-    </div>
+    <div>Financial System Legislation Amendment (Financial Claims Scheme and Other Measures) Act 2008</div>
   </td>
   <td>
-    <div>
-      105, 2008
-    </div>
+    <div>105, 2008</div>
   </td>
   <td>
-    <div>
-      17 Oct 2008
-    </div>
+    <div>17 Oct 2008</div>
   </td>
   <td>
-    <div>
-      Schedule 1 (item 59):
-        <i>(s)</i>
-
-    </div>
+    <div>Schedule 1 (item 59): <i>(s)</i></div>
   </td>
-  <td>
-    <div>
-      —
-    </div>
+  <td colspan="2">
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Financial Sector Legislation Amendment (Prudential Refinements and Other
-        Measures) Act 2010
-    </div>
+    <div>Financial Sector Legislation Amendment (Prudential Refinements and Other Measures) Act 2010</div>
   </td>
   <td>
-    <div>
-      82, 2010
-    </div>
+    <div>82, 2010</div>
   </td>
   <td>
-    <div>
-      29 June 2010
-    </div>
+    <div>29 June 2010</div>
   </td>
   <td>
-    <div>
-      Schedule 4 (item 27): 27 July 2010
-    </div>
+    <div>Schedule 4 (item 27): 27 July 2010</div>
   </td>
-  <td>
-    <div>
-      —
-    </div>
+  <td colspan="2">
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Acts Interpretation Amendment Act 2011
-    </div>
+    <div>Acts Interpretation Amendment Act 2011</div>
   </td>
   <td>
-    <div>
-      46, 2011
-    </div>
+    <div>46, 2011</div>
   </td>
   <td>
-    <div>
-      27 June 2011
-    </div>
+    <div>27 June 2011</div>
   </td>
   <td>
-    <div>
-      Schedule 2 (items 991–993) and Schedule 3 (items 10, 11): 27 Dec 2011
-    </div>
+    <div>Schedule 2 (items 991–993) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
   </td>
-  <td>
-    <div>
-      Sch. 3 (items 10, 11) \[
-        <i>see</i>Endnote 3]
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Corporations Legislation Amendment (Derivative Transactions) Act 2012
-    </div>
-  </td>
-  <td>
-    <div>
-      178, 2012
-    </div>
-  </td>
-  <td>
-    <div>
-      6 Dec 2012
-    </div>
-  </td>
-  <td>
-    <div>
-      Schedule 1 (items 55–64): 3 Jan 2013
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+  <td colspan="2">
+    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
   </td>
 </tr></table>
 
-_(a)_             The _Crimes (Currency) Act 1981_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1985_, subsections 2(1) and (7) of which provide as follows:
+_(a)_     The _Crimes (Currency) Act 1981_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1985_, subsections 2(1) and (7) of which provide as follows:
 
-                   (1)  Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
 
-                   (7)  The amendments of the _Crimes (Currency) Act 1981_ made by this Act (other than the amendment of section 2 of that Act) shall come into operation immediately after the amendment of section 2 of that Act made by this Act comes into operation.
+                 (7)   The amendments of the _Crimes (Currency) Act 1981_ made by this Act (other than the amendment of section 2 of that Act) shall come into operation immediately after the amendment of section 2 of that Act made by this Act comes into operation.
 
-_(b)_             The _Reserve Bank Act 1959_ was amended by section 153 only of the _Public Service Reform Act 1984_, subsection 2(4) of which provides as follows:
+_(b)_     The _Reserve Bank Act 1959_ was amended by section 153 only of the _Public Service Reform Act 1984_, subsection 2(4) of which provides as follows:
 
-                   (4)  The remaining provisions of this Act shall come into operation on such day as is, or on such respective days as are, fixed by Proclamation.
+                 (4)   The remaining provisions of this Act shall come into operation on such day as is, or on such respective days as are, fixed by Proclamation.
 
-_(c)_              The _Reserve Bank Act 1959_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows:
+_(c)_     The _Reserve Bank Act 1959_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows:
 
-                   (1)  Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
 
-_(d)_             The _Reserve Bank Act 1959_ was amended by section 62 only of the _Commonwealth Banks Restructuring Act 1990_, subsection 2(3) of which provides as follows:
+_(d)_     The _Reserve Bank Act 1959_ was amended by section 62 only of the _Commonwealth Banks Restructuring Act 1990_, subsection 2(3) of which provides as follows:
 
-                   (3)  Each of the remaining provisions of this Act commences on a day, or at a time, fixed by Proclamation in relation to the provision concerned.
+                 (3)   Each of the remaining provisions of this Act commences on a day, or at a time, fixed by Proclamation in relation to the provision concerned.
 
-_(e)_              The _Reserve Bank Act 1959_ was amended by sections 22–35 only of the _Banking Legislation Amendment Act 1992_, subsections 2(1) and (2) of which provide as follows:
+_(e)_     The _Reserve Bank Act 1959_ was amended by sections 22–35 only of the _Banking Legislation Amendment Act 1992_, subsections 2(1) and (2) of which provide as follows:
 
-                   (1)  Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-                   (2)  Subsections 4(2) and 5(1) and sections 16, 17 and 35 commence on a day to be fixed by Proclamation, being a day not earlier than the day on which the State Act commences.
+                 (2)   Subsections 4(2) and 5(1) and sections 16, 17 and 35 commence on a day to be fixed by Proclamation, being a day not earlier than the day on which the State Act commences.
 
-_(f)_              The _Banking Legislation Amendment Act 1922_ was amended by Schedule 3 (item 7) only of the _Statute Law Revision Act 1996_, subsection 2(3) of which provides as follows:
+_(f)_      The _Banking Legislation Amendment Act 1922_ was amended by Schedule 3 (item 7) only of the _Statute Law Revision Act 1996_, subsection 2(3) of which provides as follows:
 
-                   (3)  Each item in Schedule 3 is taken to have commenced when the Act containing the provision amended by the item received the Royal Assent.
+                 (3)   Each item in Schedule 3 is taken to have commenced when the Act containing the provision amended by the item received the Royal Assent.
 
-_(g)_             The _Reserve Bank Act 1959_ was amended by sections 69–74 only of the _Banking (State Bank of South Australia and Other Matters) Act 1994_, subsection 2(1) of which provides as follows:
+_(g)_     The _Reserve Bank Act 1959_ was amended by sections 69–74 only of the _Banking (State Bank of South Australia and Other Matters) Act 1994_, subsection 2(1) of which provides as follows:
 
-                   (1)  Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-_(h)_             The _Reserve Bank Act 1959_ was amended by sections 3, 20 and the Schedule (items 57 and 58) only of the _Commonwealth Bank Sale Act 1995_, subsections 2(1) and (2) of which provide as follows:
+_(h)_     The _Reserve Bank Act 1959_ was amended by sections 3, 20 and the Schedule (items 57 and 58) only of the _Commonwealth Bank Sale Act 1995_, subsections 2(1) and (2) of which provide as follows:
 
-                   (1)  Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-                   (2)  Part 3, and all the items of the Schedule (except items 1, 12, 16, 17, 21, 22, 23, 26, 27, 31, 37 and 48), commence at the transfer time.
+                 (2)   Part 3, and all the items of the Schedule (except items 1, 12, 16, 17, 21, 22, 23, 26, 27, 31, 37 and 48), commence at the transfer time.
 
-                  The transfer time occurred on 19 July 1996.
+         The transfer time occurred on 19 July 1996.
 
-_(i)_              The _Reserve Bank Act 1959_ was amended by Schedule 4 (items 1 and 127) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows:
+_(i)_      The _Reserve Bank Act 1959_ was amended by Schedule 4 (items 1 and 127) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows:
 
-                   (1)  Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
+                 (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
 
-_(j)_              The _Reserve Bank Act 1959_ was amended by Schedule 13 only of the _Financial Laws Amendment Act 1997_, subsection 2(1) of which provides as follows:
+_(j)_      The _Reserve Bank Act 1959_ was amended by Schedule 13 only of the _Financial Laws Amendment Act 1997_, subsection 2(1) of which provides as follows:
 
-                   (1)  Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-_(k)_              The _Reserve Bank Act 1959_ was amended by Schedule 2 (items 1149–1159) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
+_(k)_     The _Reserve Bank Act 1959_ was amended by Schedule 2 (items 1149–1159) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
 
-                   (2)  Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
+                 (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
 
-_(l)_              The _Reserve Bank Act 1959_ was amended by Schedule 1 (items 149–154) only of the _Financial Sector Reform (Consequential Amendments) Act 1998_, subsection 2(2) of which provides as follows:
+_(l)_      The _Reserve Bank Act 1959_ was amended by Schedule 1 (items 149–154) only of the _Financial Sector Reform (Consequential Amendments) Act 1998_, subsection 2(2) of which provides as follows:
 
-                   (2)  Subject to subsections (3) to (14), Schedules 1, 2 and 3 commence on the commencement of the _Australian Prudential Regulation Authority Act 1998_.
+                 (2)   Subject to subsections (3) to (14), Schedules 1, 2 and 3 commence on the commencement of the _Australian Prudential Regulation Authority Act 1998_.
 
-_(m)_             The _Reserve Bank Act 1959_ was amended by Schedules 14 and 19 only of the _Financial Sector Reform (Amendments and Transitional Provisions) Act 1998_, subsections 2(2)(l) and (19) of which provide as follows:
+_(m)_    The _Reserve Bank Act 1959_ was amended by Schedules 14 and 19 only of the _Financial Sector Reform (Amendments and Transitional Provisions) Act 1998_, subsections 2(2)(l) and (19) of which provide as follows:
 
-                   (2)  The following provisions of this Act commence on the commencement of the _Australian Prudential Regulation Authority Act 1998_:
+                 (2)   The following provisions of this Act commence on the commencement of the _Australian Prudential Regulation Authority Act 1998_:
 
-                            (l)   Schedule 14;
+                               (l)   Schedule 14;
 
-                 (19)  Schedule 19 commences on the day on which this Act receives the Royal Assent.
+               (19)   Schedule 19 commences on the day on which this Act receives the Royal Assent.
 
-_(n)_ The _Reserve Bank Act 1959_ was amended by Schedule 5 only of the _Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999_, subsection 3(1) of which provides as follows:
+_(n)_ The _Reserve Bank Act 1959_ was amended by Schedule 5 only of the _Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999_, subsection 3(1) of which provides as follows:
 
-                   (1)  Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-_(o)_ The _Reserve Bank Act 1959_ was amended by Schedule 1 (items 789–793) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+_(o)_ The _Reserve Bank Act 1959_ was amended by Schedule 1 (items 789–793) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
 
-                   (1)  In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
+                 (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
 
-                   (2)  Subject to this section, this Act commences at the commencing time.
+                 (2)   Subject to this section, this Act commences at the commencing time.
 
-_(p)_ The _Reserve Bank Act 1959_ was amended by Schedule 10 (item 114) only of the _Corporate Law Economic Reform Program Act 1999_, subsection 2(2)(c) of which provides as follows:
+_(p)_ The _Reserve Bank Act 1959_ was amended by Schedule 10 (item 114) only of the _Corporate Law Economic Reform Program Act 1999_, subsection 2(2)(c) of which provides as follows:
 
-                   (2)  The following provisions commence on a day or days to be fixed by Proclamation:
+                 (2)   The following provisions commence on a day or days to be fixed by Proclamation:
 
-                           (c)   the items in Schedules 10, 11 and 12.
+                              (c)   the items in Schedules 10, 11 and 12.
 
-_(q)_ The _Reserve Bank Act 1959_ was amended by Schedule 7 only of the _Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 2000_, subsections 2(1), (12) and (13) of which provide as follows:
+_(q)_ The _Reserve Bank Act 1959_ was amended by Schedule 7 only of the _Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 2000_, subsections 2(1), (12) and (13) of which provide as follows:
 
-                   (1)  Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-                 (12)  Part 1 of Schedule 12 commences:
+               (12)   Part 1 of Schedule 12 commences:
 
-                          (a)   after all of the Acts listed in subsection (13) have received the Royal Assent; and
+                              (a)   after all of the Acts listed in subsection (13) have received the Royal Assent; and
 
-                          (b)   on the day that is the last day on which any of those Acts received the Royal Assent.
+                              (b)   on the day that is the last day on which any of those Acts received the Royal Assent.
 
-                 (13)  These are the relevant Acts for the purposes of paragraph (12)(a):
+               (13)   These are the relevant Acts for the purposes of paragraph (12)(a):
 
-                          (a)   this Act;
+                              (a)   this Act;
 
-                          (b)   each of the Acts referred to in the definition of **_Validation Act_** in item 1 of Schedule 12 to this Act.
+                              (b)   each of the Acts referred to in the definition of **_Validation Act_** in item 1 of Schedule 12 to this Act.
 
-_(r)_ The _Reserve Bank Act 1959_ was amended by Schedule 3 (item 458) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
+_(r)_ The _Reserve Bank Act 1959_ was amended by Schedule 3 (item 458) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
 
-                   (3)  Subject to subsections (4) to (10), Schedule 3 commences, or is taken to have commenced, at the same time as the _Corporations Act 2001_.
+                 (3)   Subject to subsections (4) to (10), Schedule 3 commences, or is taken to have commenced, at the same time as the _Corporations Act 2001_.
 
-_(s)_ Subsection 2(1) (items 2 and 3) of the _Financial System Legislation Amendment (Financial Claims Scheme and Other Measures) Act 2008_ provides as follows:
+_(s)_ Subsection 2(1) (items 2 and 3) of the _Financial System Legislation Amendment (Financial Claims Scheme and Other Measures) Act 2008_ provides as follows:
 
-                   (1)  Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
 <table>
 <colgroup>
@@ -2855,7 +2290,7 @@ _(s)_ Subsection 2(1) (items 2 and 3) of the _Financial System Legislation A
   </td>
   <td>
     <div>
-      18 October 2008
+      18 October 2008
     </div>
   </td>
 </tr>
@@ -2872,443 +2307,293 @@ _(s)_ Subsection 2(1) (items 2 and 3) of the _Financial System Legislation A
   </td>
   <td>
     <div>
-      18 October 2008
+      18 October 2008
     </div>
   </td>
 </tr></table>
 
-Endnote 2—Amendment history
-
-This endnote sets out the amendment history of the _Reserve Bank Act 1959__._
+## Table of Amendments
 
 <table>
 <colgroup>
-  <col width="30%">
-  <col width="70%">
+  <col width="34%">
+  <col width="66%">
 </colgroup>
 
 <thead>
   <tr>
     <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted exp. = expired or ceased to have effect</div>
+      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>
-        <b>
-          Provision affected
-        </b>
-      </div>
+      <div>Provision affected</div>
     </td>
     <td>
-      <div>
-        <b>
-          How affected
-        </b>
-      </div>
+      <div>How affected</div>
     </td>
   </tr>
 </thead>
 <tr>
   <td>
-    <div>
-      <b>
-        Part I
-      </b>
-    </div>
+    <div><b>Part I</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 3......................................
-    </div>
+    <div>S. 3</div>
   </td>
   <td>
-    <div>
-      rep. No. 118, 1973
-    </div>
+    <div>rep. No. 118, 1973</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 4......................................
-    </div>
+    <div>S. 4</div>
   </td>
   <td>
-    <div>
-      am. No. 166, 1986
-    </div>
+    <div>am. No. 166, 1986</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 5......................................
-    </div>
+    <div>S. 5</div>
   </td>
   <td>
-    <div>
-      am. No. 118, 1973; No. 76, 1984; No. 118, 1990; No. 193, 1992; No. 161,
-        1995; Nos. 48 and 54, 1998; No. 160, 2000; No. 122, 2001; No. 42, 2003
-    </div>
+    <div>am. No. 118, 1973; No. 76, 1984; No. 118, 1990; No. 193, 1992; No. 161, 1995; Nos. 48 and 54, 1998; No. 160, 2000; No. 122, 2001; No. 42, 2003</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 6......................................
-    </div>
+    <div>S. 6</div>
   </td>
   <td>
-    <div>
-      rs. No. 118, 1973
-    </div>
+    <div>rs. No. 118, 1973</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 6A...................................
-    </div>
+    <div>S. 6A</div>
   </td>
   <td>
-    <div>
-      ad. No. 118, 1973
-    </div>
+    <div>ad. No. 118, 1973</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 166, 1986; No. 46, 2011
-    </div>
+    <div>am. No. 166, 1986; No. 46, 2011</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 6B...................................
-    </div>
+    <div>S. 6B</div>
   </td>
   <td>
-    <div>
-      ad. No. 44, 1999
-    </div>
+    <div>ad. No. 44, 1999</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Part II
-      </b>
-    </div>
+    <div><b>Part II</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Division 1
-      </b>
-    </div>
+    <div><b>Division 1</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to Div. 1 of Part II.
-    </div>
+    <div>Heading to Div. 1 of Part II</div>
   </td>
   <td>
-    <div>
-      ad. No. 54, 1998
-    </div>
+    <div>ad. No. 54, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 7......................................
-    </div>
+    <div>S. 7</div>
   </td>
   <td>
-    <div>
-      am. No. 118, 1973; No. 76, 1984; No. 166, 1986
-    </div>
+    <div>am. No. 118, 1973; No. 76, 1984; No. 166, 1986</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Note to s. 7.........................
-    </div>
+    <div>Note to s. 7</div>
   </td>
   <td>
-    <div>
-      ad. No. 152, 1997
-    </div>
+    <div>ad. No. 152, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to s. 7A.................
-    </div>
+    <div>Heading to s. 7A</div>
   </td>
   <td>
-    <div>
-      rs. No. 54, 1998
-    </div>
+    <div>rs. No. 54, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 7A...................................
-    </div>
+    <div>S. 7A</div>
   </td>
   <td>
-    <div>
-      ad. No. 152, 1997
-    </div>
+    <div>ad. No. 152, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 54, 1998; No. 90, 2008
-    </div>
+    <div>am. No. 54, 1998; No. 90, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 8......................................
-    </div>
+    <div>S. 8</div>
   </td>
   <td>
-    <div>
-      am. No. 54, 1998
-    </div>
+    <div>am. No. 54, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Division 2
-      </b>
-    </div>
+    <div><b>Division 2</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to Div. 2 of Part II.
-    </div>
+    <div>Heading to Div. 2 of Part II</div>
   </td>
   <td>
-    <div>
-      ad. No. 54, 1998
-    </div>
+    <div>ad. No. 54, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 8A...................................
-    </div>
+    <div>S. 8A</div>
   </td>
   <td>
-    <div>
-      ad. No. 54, 1998
-    </div>
+    <div>ad. No. 54, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 10....................................
-    </div>
+    <div>S. 10</div>
   </td>
   <td>
-    <div>
-      am. No. 54, 1998; No. 122, 2001
-    </div>
+    <div>am. No. 54, 1998; No. 122, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 10A.................................
-    </div>
+    <div>S. 10A</div>
   </td>
   <td>
-    <div>
-      ad. No. 54, 1998
-    </div>
+    <div>ad. No. 54, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 10B.................................
-    </div>
+    <div>S. 10B</div>
   </td>
   <td>
-    <div>
-      ad. No. 54, 1998
-    </div>
+    <div>ad. No. 54, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 122, 2001; No. 37, 2002
-    </div>
+    <div>am. No. 122, 2001; No. 37, 2002</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 10C.................................
-    </div>
+    <div>S. 10C</div>
   </td>
   <td>
-    <div>
-      ad. No. 54, 1998
-    </div>
+    <div>ad. No. 54, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to s. 11..................
-    </div>
+    <div>Heading to s. 11</div>
   </td>
   <td>
-    <div>
-      am. No. 54, 1998
-    </div>
+    <div>am. No. 54, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 11....................................
-    </div>
+    <div>S. 11</div>
   </td>
   <td>
-    <div>
-      am. No. 118, 1973; No. 166, 1986; No. 54, 1998
-    </div>
+    <div>am. No. 118, 1973; No. 166, 1986; No. 54, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 12....................................
-    </div>
+    <div>S. 12</div>
   </td>
   <td>
-    <div>
-      am. No. 118, 1973; No. 166, 1986; No. 193, 1992; No. 54, 1998
-    </div>
+    <div>am. No. 118, 1973; No. 166, 1986; No. 193, 1992; No. 54, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Part III
-      </b>
-    </div>
+    <div><b>Part III</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to s. 14..................
-    </div>
+    <div>Heading to s. 14</div>
   </td>
   <td>
-    <div>
-      am. No. 54, 1998
-    </div>
+    <div>am. No. 54, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 14....................................
-    </div>
+    <div>S. 14</div>
   </td>
   <td>
-    <div>
-      am. No. 118, 1973; No. 166, 1986; No. 193, 1992; No. 54, 1998; No. 146,
-        1999; No. 160, 2000; No. 37, 2002
-    </div>
+    <div>am. No. 118, 1973; No. 166, 1986; No. 193, 1992; No. 54, 1998; No. 146, 1999; No. 160, 2000; No. 37, 2002</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 15....................................
-    </div>
+    <div>S. 15</div>
   </td>
   <td>
-    <div>
-      rs. No. 166, 1986
-    </div>
+    <div>rs. No. 166, 1986</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
     <div>am. No. 193, 1992; No. 43, 1996; No. 54, 1998</div>
@@ -3316,739 +2601,423 @@ This endnote sets out the amendment history of the _Reserve Bank Act 1959__._
 </tr>
 <tr>
   <td>
-    <div>
-      s. 16....................................
-    </div>
+    <div>S. 16</div>
   </td>
   <td>
-    <div>
-      am. No. 166, 1986; No. 54, 1998
-    </div>
+    <div>am. No. 166, 1986; No. 54, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 17....................................
-    </div>
+    <div>S. 17</div>
   </td>
   <td>
-    <div>
-      am. No. 118, 1973; No. 76, 1984; No. 166, 1986
-    </div>
+    <div>am. No. 118, 1973; No. 76, 1984; No. 166, 1986</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 118, 1990
-    </div>
+    <div>rs. No. 118, 1990</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 161, 1995; No. 54, 1998; No. 24, 2000
-    </div>
+    <div>am. No. 161, 1995; No. 54, 1998; No. 24, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 17A.................................
-    </div>
+    <div>S. 17A</div>
   </td>
   <td>
-    <div>
-      ad. No. 37, 2002
-    </div>
+    <div>ad. No. 37, 2002</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 18....................................
-    </div>
+    <div>S. 18</div>
   </td>
   <td>
-    <div>
-      am. No. 118, 1973; No. 166, 1986; No. 69, 1994; No. 152, 1997; No. 54,
-        1998; No. 156, 1999; No. 37, 2002; No. 73, 2008
-    </div>
+    <div>am. No. 118, 1973; No. 166, 1986; No. 69, 1994; No. 152, 1997; No. 54, 1998; No. 156, 1999; No. 37, 2002; No. 73, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 18A.................................
-    </div>
+    <div>S. 18A</div>
   </td>
   <td>
-    <div>
-      ad. No. 69, 1994
-    </div>
+    <div>ad. No. 69, 1994</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 54, 1998
-    </div>
+    <div>am. No. 54, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 19....................................
-    </div>
+    <div>S. 19</div>
   </td>
   <td>
-    <div>
-      rep. No. 54, 1998
-    </div>
+    <div>rep. No. 54, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 20....................................
-    </div>
+    <div>S. 20</div>
   </td>
   <td>
-    <div>
-      am. No. 166, 1986; No. 193, 1992; No. 152, 1997; No. 54, 1998
-    </div>
+    <div>am. No. 166, 1986; No. 193, 1992; No. 152, 1997; No. 54, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Note to s. 20.......................
-    </div>
+    <div>Note to s. 20</div>
   </td>
   <td>
-    <div>
-      ad. No. 152, 1997
-    </div>
+    <div>ad. No. 152, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to s. 21..................
-    </div>
+    <div>Heading to s. 21</div>
   </td>
   <td>
-    <div>
-      am. No. 54, 1998
-    </div>
+    <div>am. No. 54, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 21....................................
-    </div>
+    <div>S. 21</div>
   </td>
   <td>
-    <div>
-      am. No. 166, 1986; No. 123, 1988; No. 54, 1998
-    </div>
+    <div>am. No. 166, 1986; No. 123, 1988; No. 54, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 21A.................................
-    </div>
+    <div>S. 21A</div>
   </td>
   <td>
-    <div>
-      ad. No. 123, 1988
-    </div>
+    <div>ad. No. 123, 1988</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 193, 1992; No. 54, 1998
-    </div>
+    <div>am. No. 193, 1992; No. 54, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to s. 22..................
-    </div>
+    <div>Heading to s. 22</div>
   </td>
   <td>
-    <div>
-      am. No. 54, 1998
-    </div>
+    <div>am. No. 54, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 22....................................
-    </div>
+    <div>S. 22</div>
   </td>
   <td>
-    <div>
-      rs. No. 65, 1985
-    </div>
+    <div>rs. No. 65, 1985</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 54, 1998
-    </div>
+    <div>am. No. 54, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 37, 2002
-    </div>
+    <div>rs. No. 37, 2002</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      ss. 22A–22B.......................
-    </div>
+    <div>Ss. 22A–22B</div>
   </td>
   <td>
-    <div>
-      ad. No. 54, 1998
-    </div>
+    <div>ad. No. 54, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 23....................................
-    </div>
+    <div>S. 23</div>
   </td>
   <td>
-    <div>
-      am. No. 166, 1986
-    </div>
+    <div>am. No. 166, 1986</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rep. No. 152, 1997
-    </div>
+    <div>rep. No. 152, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 24....................................
-    </div>
+    <div>S. 24</div>
   </td>
   <td>
-    <div>
-      am. No. 166, 1986; No. 193, 1992; No. 54, 1998; No. 37, 2002
-    </div>
+    <div>am. No. 166, 1986; No. 193, 1992; No. 54, 1998; No. 37, 2002</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 24A.................................
-    </div>
+    <div>S. 24A</div>
   </td>
   <td>
-    <div>
-      ad. No. 166, 1986
-    </div>
+    <div>ad. No. 166, 1986</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 123, 1988
-    </div>
+    <div>rs. No. 123, 1988</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 193, 1992; No. 54, 1998
-    </div>
+    <div>am. No. 193, 1992; No. 54, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 24B.................................
-    </div>
+    <div>S. 24B</div>
   </td>
   <td>
-    <div>
-      ad. No. 37, 2002
-    </div>
+    <div>ad. No. 37, 2002</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 25....................................
-    </div>
+    <div>S. 25</div>
   </td>
   <td>
-    <div>
-      am. No. 166, 1986; No. 193, 1992; No. 54, 1998; No. 37, 2002
-    </div>
+    <div>am. No. 166, 1986; No. 193, 1992; No. 54, 1998; No. 37, 2002</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Part IIIA
-      </b>
-    </div>
+    <div><b>Part IIIA</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Part IIIA..............................
-    </div>
+    <div>Part IIIA</div>
   </td>
   <td>
-    <div>
-      ad. No. 54, 1998
-    </div>
+    <div>ad. No. 54, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Division 1
-      </b>
-    </div>
+    <div><b>Division 1</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 25A.................................
-    </div>
+    <div>S. 25A</div>
   </td>
   <td>
-    <div>
-      ad. No. 54, 1998
-    </div>
+    <div>ad. No. 54, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 25B.................................
-    </div>
+    <div>S. 25B</div>
   </td>
   <td>
-    <div>
-      ad. No. 54, 1998
-    </div>
+    <div>ad. No. 54, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 160, 2000; No. 37, 2002; No. 42, 2003
-    </div>
+    <div>am. No. 160, 2000; No. 37, 2002; No. 42, 2003</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      ss. 25C–25E.......................
-    </div>
+    <div>Ss. 25C–25E</div>
   </td>
   <td>
-    <div>
-      ad. No. 54, 1998
-    </div>
+    <div>ad. No. 54, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Division 2
-      </b>
-    </div>
+    <div><b>Division 2</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      ss. 25F–25H.......................
-    </div>
+    <div>Ss. 25F–25H</div>
   </td>
   <td>
-    <div>
-      ad. No. 54, 1998
-    </div>
+    <div>ad. No. 54, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Division 3
-      </b>
-    </div>
+    <div><b>Division 3</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      ss. 25I, 25J.........................
-    </div>
+    <div>Ss. 25I, 25J</div>
   </td>
   <td>
-    <div>
-      ad. No. 54, 1998
-    </div>
+    <div>ad. No. 54, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 25K.................................
-    </div>
+    <div>S. 25K</div>
   </td>
   <td>
-    <div>
-      ad. No. 54, 1998
-    </div>
+    <div>ad. No. 54, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 37, 2002; No. 42, 2003
-    </div>
+    <div>am. No. 37, 2002; No. 42, 2003</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 25L.................................
-    </div>
+    <div>S. 25L</div>
   </td>
   <td>
-    <div>
-      ad. No. 54, 1998
-    </div>
+    <div>ad. No. 54, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 160, 2000; No. 37, 2002; No. 42, 2003; No. 90, 2008
-    </div>
+    <div>am. No. 160, 2000; No. 37, 2002; No. 42, 2003; No. 90, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 25M................................
-    </div>
+    <div>S. 25M</div>
   </td>
   <td>
-    <div>
-      ad. No. 122, 2001
-    </div>
+    <div>ad. No. 122, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Part IV
-      </b>
-    </div>
+    <div><b>Part IV</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 28....................................
-    </div>
+    <div>S. 28</div>
   </td>
   <td>
-    <div>
-      am. No. 76, 1984; No. 166, 1986
-    </div>
+    <div>am. No. 76, 1984; No. 166, 1986</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 29....................................
-    </div>
+    <div>S. 29</div>
   </td>
   <td>
-    <div>
-      am. No. 166, 1986; No. 54, 1998
-    </div>
+    <div>am. No. 166, 1986; No. 54, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 30....................................
-    </div>
+    <div>S. 30</div>
   </td>
   <td>
-    <div>
-      am. No. 129, 1989; No. 152, 1997; No. 54, 1998
-    </div>
+    <div>am. No. 129, 1989; No. 152, 1997; No. 54, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 31....................................
-    </div>
+    <div>S. 31</div>
   </td>
   <td>
-    <div>
-      rep. No. 54, 1998
-    </div>
+    <div>rep. No. 54, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Part V
-      </b>
-    </div>
+    <div><b>Part V</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to Div. 1 of Part V.
-    </div>
+    <div>Heading to Div. 1 of Part V</div>
   </td>
   <td>
-    <div>
-      rep. No. 122, 1981
-    </div>
+    <div>rep. No. 122, 1981</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 32....................................
-    </div>
+    <div>S. 32</div>
   </td>
   <td>
-    <div>
-      am. No. 96, 1965; No. 118, 1973; No. 155, 1979; No. 70, 1980; No. 122,
-        1981; No. 166, 1986
-    </div>
+    <div>am. No. 96, 1965; No. 118, 1973; No. 155, 1979; No. 70, 1980; No. 122, 1981; No. 166, 1986</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 33....................................
-    </div>
-  </td>
-  <td>
-    <div>
-      rep. No. 129, 1989
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 34....................................
-    </div>
-  </td>
-  <td>
-    <div>
-      am. No. 129, 1989
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 35....................................
-    </div>
-  </td>
-  <td>
-    <div>
-      rs. No. 96, 1965
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-
-    </div>
-  </td>
-  <td>
-    <div>
-      am. No. 54, 1998
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 36....................................
-    </div>
-  </td>
-  <td>
-    <div>
-      am. No. 96, 1965; No. 166, 1986
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 37....................................
-    </div>
-  </td>
-  <td>
-    <div>
-      am. No. 193, 1992 (as am. by No. 43, 1996); No. 54, 1998; No. 160, 2000
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 38....................................
-    </div>
-  </td>
-  <td>
-    <div>
-      rep. No. 129, 1989
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 39....................................
-    </div>
-  </td>
-  <td>
-    <div>
-      am. No. 118, 1973; No. 166, 1986
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
+    <div>S. 33</div>
   </td>
   <td>
     <div>rep. No. 129, 1989</div>
@@ -4056,31 +3025,47 @@ This endnote sets out the amendment history of the _Reserve Bank Act 1959__._
 </tr>
 <tr>
   <td>
-    <div>
-      s. 40....................................
-    </div>
+    <div>S. 34</div>
   </td>
   <td>
-    <div>
-      rep. No. 129, 1989
-    </div>
+    <div>am. No. 129, 1989</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 41....................................
-    </div>
+    <div>S. 35</div>
   </td>
   <td>
-    <div>
-      am. No. 96, 1965; No. 166, 1986
-    </div>
+    <div>rs. No. 96, 1965</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 54, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 36</div>
+  </td>
+  <td>
+    <div>am. No. 96, 1965; No. 166, 1986</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 37</div>
+  </td>
+  <td>
+    <div>am. No. 193, 1992 (as am. by No. 43, 1996); No. 54, 1998; No. 160, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 38</div>
   </td>
   <td>
     <div>rep. No. 129, 1989</div>
@@ -4088,922 +3073,652 @@ This endnote sets out the amendment history of the _Reserve Bank Act 1959__._
 </tr>
 <tr>
   <td>
-    <div>
-      s. 42....................................
-    </div>
+    <div>S. 39</div>
   </td>
   <td>
-    <div>
-      am. No. 93, 1966; No. 166, 1986
-    </div>
+    <div>am. No. 118, 1973; No. 166, 1986</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rep. No. 129, 1989
-    </div>
+    <div>rep. No. 129, 1989</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to s. 43..................
-    </div>
+    <div>S. 40</div>
   </td>
   <td>
-    <div>
-      rs. No. 48, 1998
-    </div>
+    <div>rep. No. 129, 1989</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 44....................................
-    </div>
+    <div>S. 41</div>
   </td>
   <td>
-    <div>
-      am. No. 93, 1966; No. 166, 1986; No. 107, 1997; No. 54, 1998
-    </div>
+    <div>am. No. 96, 1965; No. 166, 1986</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Note to s. 44(1)...................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad, No. 44, 1999
-    </div>
+    <div>rep. No. 129, 1989</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 45....................................
-    </div>
+    <div>S. 42</div>
   </td>
   <td>
-    <div>
-      rep. No. 54, 1998
-    </div>
+    <div>am. No. 93, 1966; No. 166, 1986</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Div. 2 of Part V ..................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rep. No. 122, 1981
-    </div>
+    <div>rep. No. 129, 1989</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      ss. 46–50............................
-    </div>
+    <div>Heading to s. 43</div>
   </td>
   <td>
-    <div>
-      rep. No. 122, 1981
-    </div>
+    <div>rs. No. 48, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      ss. 51, 52............................
-    </div>
+    <div>S. 44</div>
   </td>
   <td>
-    <div>
-      am. No. 93, 1966
-    </div>
+    <div>am. No. 93, 1966; No. 166, 1986; No. 107, 1997; No. 54, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div>Note to s. 44(1)</div>
   </td>
   <td>
-    <div>
-      rep. No. 122, 1981
-    </div>
+    <div>ad, No. 44, 1999</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 53....................................
-    </div>
+    <div>S. 45</div>
   </td>
   <td>
-    <div>
-      rep. No. 122, 1981
-    </div>
+    <div>rep. No. 54, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 54....................................
-    </div>
+    <div>Div. 2 of Part V</div>
   </td>
   <td>
-    <div>
-      am. No. 118, 1973
-    </div>
+    <div>rep. No. 122, 1981</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div>Ss. 46–50</div>
   </td>
   <td>
-    <div>
-      rep. No. 122, 1981
-    </div>
+    <div>rep. No. 122, 1981</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 55....................................
-    </div>
+    <div>Ss. 51, 52</div>
   </td>
   <td>
-    <div>
-      rep. No. 122, 1981
-    </div>
+    <div>am. No. 93, 1966</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Part VI ...............................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rep. No. 166, 1986
-    </div>
+    <div>rep. No. 122, 1981</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 56....................................
-    </div>
+    <div>S. 53</div>
   </td>
   <td>
-    <div>
-      rep. No. 166, 1986
-    </div>
+    <div>rep. No. 122, 1981</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 57....................................
-    </div>
+    <div>S. 54</div>
   </td>
   <td>
-    <div>
-      am. No. 118, 1973; No. 166, 1986
-    </div>
+    <div>am. No. 118, 1973</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rep. No. 166, 1986
-    </div>
+    <div>rep. No. 122, 1981</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 58....................................
-    </div>
+    <div>S. 55</div>
   </td>
   <td>
-    <div>
-      am. No. 76, 1984
-    </div>
+    <div>rep. No. 122, 1981</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div>Part VI</div>
   </td>
   <td>
-    <div>
-      rep. No. 166, 1986
-    </div>
+    <div>rep. No. 166, 1986</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 59....................................
-    </div>
+    <div>S. 56</div>
   </td>
   <td>
-    <div>
-      am. No. 118, 1973; No. 166, 1986
-    </div>
+    <div>rep. No. 166, 1986</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div>S. 57</div>
   </td>
   <td>
-    <div>
-      rep. No. 166, 1986
-    </div>
+    <div>am. No. 118, 1973; No. 166, 1986</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 60....................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 93, 1966; No. 166, 1986
-    </div>
+    <div>rep. No. 166, 1986</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div>S. 58</div>
   </td>
   <td>
-    <div>
-      rep. No. 166, 1986
-    </div>
+    <div>am. No. 76, 1984</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 61....................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rep. No. 166, 1986
-    </div>
+    <div>rep. No. 166, 1986</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 62....................................
-    </div>
+    <div>S. 59</div>
   </td>
   <td>
-    <div>
-      am. No. 166, 1986
-    </div>
+    <div>am. No. 118, 1973; No. 166, 1986</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rep. No. 166, 1986
-    </div>
+    <div>rep. No. 166, 1986</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      ss. 63–65............................
-    </div>
+    <div>S. 60</div>
   </td>
   <td>
-    <div>
-      rep. No. 166, 1986
-    </div>
+    <div>am. No. 93, 1966; No. 166, 1986</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 65A.................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 166, 1986
-    </div>
+    <div>rep. No. 166, 1986</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div>S. 61</div>
   </td>
   <td>
-    <div>
-      rep. No. 166, 1986
-    </div>
+    <div>rep. No. 166, 1986</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Part VII
-      </b>
-    </div>
+    <div>S. 62</div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div>am. No. 166, 1986</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      ss. 66, 67............................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 160, 2000
-    </div>
+    <div>rep. No. 166, 1986</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 68....................................
-    </div>
+    <div>Ss. 63–65</div>
   </td>
   <td>
-    <div>
-      am. No. 63, 1984; No. 166, 1986
-    </div>
+    <div>rep. No. 166, 1986</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div>S. 65A</div>
   </td>
   <td>
-    <div>
-      rs. No. 160, 2000
-    </div>
+    <div>ad. No. 166, 1986</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 69....................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rep. No. 160, 2000
-    </div>
+    <div>rep. No. 166, 1986</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 70....................................
-    </div>
+    <div><b>Part VII</b></div>
   </td>
   <td>
-    <div>
-      am. No. 36, 1978
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div>Ss. 66, 67</div>
   </td>
   <td>
-    <div>
-      rep. No. 37, 2002
-    </div>
+    <div>rs. No. 160, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 71....................................
-    </div>
+    <div>S. 68</div>
   </td>
   <td>
-    <div>
-      am. No. 93, 1966; No. 166, 1986
-    </div>
+    <div>am. No. 63, 1984; No. 166, 1986</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rep. No. 160, 2000
-    </div>
+    <div>rs. No. 160, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 72....................................
-    </div>
+    <div>S. 69</div>
   </td>
   <td>
-    <div>
-      am. No. 76, 1984; No. 166, 1986
-    </div>
+    <div>rep. No. 160, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div>S. 70</div>
   </td>
   <td>
-    <div>
-      rep. No. 123, 1988
-    </div>
+    <div>am. No. 36, 1978</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 73....................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rep. No. 160, 2000
-    </div>
+    <div>rep. No. 37, 2002</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Part VIII
-      </b>
-    </div>
+    <div>S. 71</div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div>am. No. 93, 1966; No. 166, 1986</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 74....................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 118, 1990; No. 48, 1998; No. 37, 2002
-    </div>
+    <div>rep. No. 160, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 75....................................
-    </div>
+    <div>S. 72</div>
   </td>
   <td>
-    <div>
-      am. No. 48, 1998
-    </div>
+    <div>am. No. 76, 1984; No. 166, 1986</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      ss. 76, 77............................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 166, 1986
-    </div>
+    <div>rep. No. 123, 1988</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 78....................................
-    </div>
+    <div>S. 73</div>
   </td>
   <td>
-    <div>
-      am. No. 166, 1986; No. 129, 1989
-    </div>
+    <div>rep. No. 160, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div><b>Part VIII</b></div>
   </td>
   <td>
-    <div>
-      rep. No. 152, 1997
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 79....................................
-    </div>
+    <div>S. 74</div>
   </td>
   <td>
-    <div>
-      am. No. 118, 1973
-    </div>
+    <div>am. No. 118, 1990; No. 48, 1998; No. 37, 2002</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 79A.................................
-    </div>
+    <div>S. 75</div>
   </td>
   <td>
-    <div>
-      ad. No. 107, 1997
-    </div>
+    <div>am. No. 48, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div> </div>
+    <div>Ss. 76, 77</div>
   </td>
   <td>
-    <div>am. No. 107, 1997; No. 54, 1998; No. 160, 2000; Nos. 55, 121 and 122, 2001; No. 105, 2008; No 178, 2012</div>
+    <div>am. No. 166, 1986</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Note to s. 79A
-    </div>
-    <div>
-      Renumbered Note 1.........
-    </div>
+    <div>S. 78</div>
   </td>
   <td>
-    <div>
-
-    </div>
-    <div>
-      No. 44, 1999
-    </div>
+    <div>am. No. 166, 1986; No. 129, 1989</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Note 2 to s. 79A(2).............
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 44, 1999
-    </div>
+    <div>rep. No. 152, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 79B.................................
-    </div>
+    <div>S. 79</div>
   </td>
   <td>
-    <div>
-      ad. No. 107, 1997
-    </div>
+    <div>am. No. 118, 1973</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div>S. 79A</div>
   </td>
   <td>
-    <div>
-      am. No. 160, 2000
-    </div>
+    <div>ad. No. 107, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Note to s. 79B(1)................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 44, 1999
-    </div>
+    <div>am. No. 107, 1997; No. 54, 1998; No. 160, 2000; Nos. 55, 121 and 122, 2001; No. 105, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 80....................................
-    </div>
+    <div>Note to s. 79A 
+Renumbered Note 1</div>
   </td>
   <td>
     <div>
-      am. No. 166, 1986; No. 193, 1992
-    </div>
+No. 44, 1999</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div>Note 2 to s. 79A(2)</div>
   </td>
   <td>
-    <div>
-      rep. No. 152, 1997
-    </div>
+    <div>ad. No. 44, 1999</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 81....................................
-    </div>
+    <div>S. 79B</div>
   </td>
   <td>
-    <div>
-      am. No. 118, 1973; No. 166, 1986; No. 129, 1989
-    </div>
+    <div>ad. No. 107, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 152, 1997
-    </div>
+    <div>am. No. 160, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div>Note to s. 79B(1)</div>
   </td>
   <td>
-    <div>
-      rep. No. 54, 1998
-    </div>
+    <div>ad. No. 44, 1999</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 81A.................................
-    </div>
+    <div>S. 80</div>
   </td>
   <td>
-    <div>
-      ad. No. 123, 1988
-    </div>
+    <div>am. No. 166, 1986; No. 193, 1992</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 193, 1992; No. 107, 1997
-    </div>
+    <div>rep. No. 152, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div>S. 81</div>
   </td>
   <td>
-    <div>
-      rep. No. 152, 1997
-    </div>
+    <div>am. No. 118, 1973; No. 166, 1986; No. 129, 1989</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 84....................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 73, 2008
-    </div>
+    <div>rs. No. 152, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to s. 85..................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 54, 1998
-    </div>
+    <div>rep. No. 54, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 85....................................
-    </div>
+    <div>S. 81A</div>
   </td>
   <td>
-    <div>
-      am. No. 54, 1998
-    </div>
+    <div>ad. No. 123, 1988</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 85A.................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 107, 1997
-    </div>
+    <div>am. No. 193, 1992; No. 107, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to s. 86..................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 48, 1998
-    </div>
+    <div>rep. No. 152, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 86....................................
-    </div>
+    <div>S. 84</div>
   </td>
   <td>
-    <div>
-      am. No. 118, 1973; No. 48, 1998; No. 82, 2010
-    </div>
+    <div>am. No. 73, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 88....................................
-    </div>
+    <div>Heading to s. 85</div>
   </td>
   <td>
-    <div>
-      am. No. 216, 1973
-    </div>
+    <div>rs. No. 54, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div>S. 85</div>
   </td>
   <td>
-    <div>
-      rep. No. 65, 1985
-    </div>
+    <div>am. No. 54, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 89....................................
-    </div>
+    <div>S. 85A</div>
   </td>
   <td>
-    <div>
-      am. No. 93, 1966; No. 166, 1986; No. 54, 1998
-    </div>
+    <div>ad. No. 107, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      First Schedule.....................
-    </div>
+    <div>Heading to s. 86</div>
   </td>
   <td>
-    <div>
-      rep. No. 76, 1984
-    </div>
+    <div>am. No. 48, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Second Schedule.................
-    </div>
+    <div>S. 86</div>
   </td>
   <td>
-    <div>
-      rep. No. 166, 1986
-    </div>
+    <div>am. No. 118, 1973; No. 48, 1998; No. 82, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 88</div>
+  </td>
+  <td>
+    <div>am. No. 216, 1973</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 65, 1985</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 89</div>
+  </td>
+  <td>
+    <div>am. No. 93, 1966; No. 166, 1986; No. 54, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>First Schedule</div>
+  </td>
+  <td>
+    <div>rep. No. 76, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Second Schedule</div>
+  </td>
+  <td>
+    <div>rep. No. 166, 1986</div>
   </td>
 </tr></table>
 
-Endnote 3—Application, saving and transitional provisions
+## Table A
 
-This endnote sets out applications, saving and transitional provisions for amendments of the _Reserve Bank Act 1959__._
+### Application, saving or transitional provisions
 
-The _Banking (Transitional Provisions) Act 1959_ enacts certain transitional provisions consequential upon the enactment of the Reserve Bank Act and other Acts relating to banking.
-
-For application, saving and transitional provisions made by the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, _see_ Act No. 55, 2001.
-
-Application, saving and transitional provisions prior to 16 December 1995 are not included in this endnote.
-
-Commonwealth Bank Sale Act 1995 (No. 161, 1995)
+_Commonwealth Bank Sale Act 1995 (No. 161, 1995)_
 
 ## 3  Interpretation
 
@@ -5063,7 +3778,10 @@ In this Act, unless the contrary intention appears:
 
                      (b)  a tax, fee, duty, levy or charge specified in a notice signed by the Minister and published in the _Gazette_.
 
-Audit (Transitional and Miscellaneous) Amendment Act 1997 (No. 152, 1997)
+* * *
+
+_Audit (Transitional and Miscellaneous) Amendment Act 1997 
+ (No. 152, 1997)_
 
 ## Schedule 4  
 
@@ -5081,13 +3799,15 @@ the money must be transferred from that account to the component of the Reserved
 
 (3)       If an amendment made by Schedule 2 substitutes a component of the Reserved Money Fund for an account (however described), any reference in any Act or other instrument to that component is to be read as including a reference to the account for which it is substituted, unless the context otherwise requires.
 
-(4)       Money in the old Trust Fund immediately before the commencement of this Schedule (other than money covered by subitem (2)) must be transferred to components of the Reserved Money Fund and Commercial Activities Fund that are established by determinations under subsections 20(2) and 21(2) of the _Financial Management and Accountability Act 1997_.
+(4)       Money in the old Trust Fund immediately before the commencement of this Schedule (other than money covered by subitem (2)) must be transferred to components of the Reserved Money Fund and Commercial Activities Fund that are established by determinations under subsections 20(2) and 21(2) of the _Financial Management and Accountability Act 1997_.
 
 (5)       The disallowance rules in section 22 of the _Financial Management and Accountability Act 1997_ do not apply to an original determination made for the purposes of subitem (4) of this item. However, the disallowance rules do apply to any revocation or variation of an original determination.
 
 (6)       The old Loan Fund and the old Trust Fund are appropriated for the purposes of this item.
 
-Financial Sector Reform (Amendments and Transitional Provisions) Act 1998 (No. 54, 1998)
+* * *
+
+_Financial Sector Reform (Amendments and Transitional Provisions) Act 1998 (No. 54, 1998)_
 
 ## Schedule 19  
 
@@ -5105,21 +3825,23 @@ In this Part:
 
 If, on the APRA commencement, there are 2 people holding office as Deputy Governors of the Reserve Bank of Australia, the following provisions have effect during the period starting on the APRA commencement and ending at the first time at which one of those people ceases to hold office as a Deputy Governor:
 
-                     (a)  subsection 12(1) of the old Act continues to have effect as if it referred to there being 2 Deputy Governors of the Reserve Bank of Australia;
+                     (a)  subsection 12(1) of the old Act continues to have effect as if it referred to there being 2 Deputy Governors of the Reserve Bank of Australia;
 
-                     (b)  subsection 21(3) of the old Act continues to have effect as if it referred to the quorum for a meeting of the Reserve Bank Board being 6 members;
+                     (b)  subsection 21(3) of the old Act continues to have effect as if it referred to the quorum for a meeting of the Reserve Bank Board being 6 members;
 
                      (c)  a reference to the Deputy Governor of the Reserve Bank of Australia in the amended Act, or in any other law of the Commonwealth, has effect as if it were a reference to either of the 2 Deputy Governors.
 
-## 42  Continued effect of subsection 14(5)
+## 42  Continued effect of subsection 14(5)
 
-The period of appointment of a member of the Reserve Bank Board to whom subsection 14(5) of the old Act applied immediately before the APRA commencement remains the same, despite the repeal of that subsection.
+The period of appointment of a member of the Reserve Bank Board to whom subsection 14(5) of the old Act applied immediately before the APRA commencement remains the same, despite the repeal of that subsection.
 
 ## 43  Treatment of investigations under section 81
 
 Section 81 of the old Act continues to have effect (despite its repeal) after the APRA commencement in relation to investigations, to the extent they were completed or in progress before that commencement.
 
-Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999 (No. 44, 1999)
+* * *
+
+_Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999 (No. 44, 1999)_
 
 ## Schedule 8  
 
@@ -5157,7 +3879,7 @@ Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1
 
                      (c)  any modifications subject to which an instrument made, or a class of instruments made, is to continue to have effect.
 
-(5)       Despite subsection 48(2) of the _Acts Interpretation Act 1901_, regulations for the purposes of this item:
+(5)       Despite subsection 48(2) of the _Acts Interpretation Act 1901_, regulations for the purposes of this item:
 
                      (a)  may be expressed to take effect from a date before the regulations are notified in the _Gazette_; and
 
@@ -5189,7 +3911,9 @@ Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1
 
 The Governor‑General may make regulations, not inconsistent with this Act, prescribing matters required or permitted by this Act to be prescribed.
 
-Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 2000 (No. 24, 2000)
+* * *
+
+_Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 2000 (No. 24, 2000)_
 
 ## Schedule 12
 
@@ -5239,7 +3963,7 @@ In this Part:
 
 _Note:       This provision affects the calculation of late payment penalty (if any) under section 10 of the Collection Act._
 
-## 3  No retrospective criminal liability
+## 3  No retrospective criminal liability
 
 Nothing in this Part or the Validation Acts is taken to make a person criminally liable in respect of acts or omissions of the person before the day on which this Part commences, if the person would not have been so liable had this Part and the Validation Acts not been enacted.
 
@@ -5269,7 +3993,9 @@ Nothing in this Part or the Validation Acts is taken to make a person criminally
 
 **_Reserve Bank_** means the Reserve Bank of Australia.
 
-Financial Sector Legislation Amendment Act (No. 1) 2000 (No. 160, 2000)
+* * *
+
+_Financial Sector Legislation Amendment Act (No. 1) 2000 (No. 160, 2000)_
 
 ## Schedule 2
 
@@ -5279,7 +4005,9 @@ Financial Sector Legislation Amendment Act (No. 1) 2000 (No. 160, 2000)
 
 (2)       The rights and entitlements of a person covered by subitem (1) are not affected merely because they cease to be appointed under Part VII of the _Reserve Bank Act 1959_ as in force immediately before the commencement of this item and are taken to have been appointed under section 67 of that Act as in force immediately after the commencement of this item.
 
-Financial Sector Legislation Amendment Act (No. 1) 2002 (No. 37, 2002)
+* * *
+
+_Financial Sector Legislation Amendment Act (No. 1) 2002 (No. 37, 2002)_
 
 ## Schedule 7
 
@@ -5289,7 +4017,10 @@ Financial Sector Legislation Amendment Act (No. 1) 2002 (No. 37, 2002)
 
 (2)       The amendments made by items 6, 7, 14 and 15 do not apply to a person who resigned the relevant office before the commencement of this Schedule but whose appointment had not been terminated before that commencement.
 
-Australian Prudential Regulation Authority Amendment Act 2003 (No. 42, 2003)
+* * *
+
+_Australian Prudential Regulation Authority Amendment Act 2003 
+ (No. 42, 2003)_
 
 ## Schedule 3
 
@@ -5321,9 +4052,9 @@ _Note:       The reference to a member of APRA’s Board covers APRA
 
 ## 4  Continued effect of certain delegations
 
-(1)       A delegation in force, immediately before the commencement of the amendments, under subsection 15(1) or (2) of the old Act continues to have effect after that commencement as if it were a delegation under APRA’s seal under that subsection of the amended Act. If the delegation was to one or more members of APRA’s Board, it continues to have effect as if it were a delegation to any APRA member.
+(1)       A delegation in force, immediately before the commencement of the amendments, under subsection 15(1) or (2) of the old Act continues to have effect after that commencement as if it were a delegation under APRA’s seal under that subsection of the amended Act. If the delegation was to one or more members of APRA’s Board, it continues to have effect as if it were a delegation to any APRA member.
 
-(2)       A direction in force, immediately before the commencement of the amendments, under subsection 15(3) of the old Act continues to have effect after that commencement, in relation to a delegation to which subitem (1) applies, as if it were a direction given by APRA under that subsection of the amended Act.
+(2)       A direction in force, immediately before the commencement of the amendments, under subsection 15(3) of the old Act continues to have effect after that commencement, in relation to a delegation to which subitem (1) applies, as if it were a direction given by APRA under that subsection of the amended Act.
 
 (3)       A delegation to one or more members of APRA’s Board in force, immediately before the commencement of the amendments, under a provision amended by Schedule 2 continues to have effect after that commencement as if it were a delegation under the amended provision to any APRA member.
 
@@ -5331,25 +4062,27 @@ _Note:       Delegations in favour of APRA, or APRA staff members, a
 
 ## 5  Continued effect of determinations of terms and conditions for staff and consultants
 
-A determination of terms and conditions in force, immediately before the commencement of the amendments, under subsection 45(2) or 47(2) of the old Act continues to have effect after that commencement as if it were a determination by APRA under that subsection of the amended Act.
+A determination of terms and conditions in force, immediately before the commencement of the amendments, under subsection 45(2) or 47(2) of the old Act continues to have effect after that commencement as if it were a determination by APRA under that subsection of the amended Act.
 
-## 6  Continued effect of approvals under paragraph 56(5)(b)
+## 6  Continued effect of approvals under paragraph 56(5)(b)
 
-An approval in force, immediately before the commencement of the amendments, under paragraph 56(5)(b) of the old Act continues to have effect after that commencement as if it were an approval by APRA under that paragraph of the amended Act.
+An approval in force, immediately before the commencement of the amendments, under paragraph 56(5)(b) of the old Act continues to have effect after that commencement as if it were an approval by APRA under that paragraph of the amended Act.
 
 ## 7  Continued or extended effect of certain regulations
 
-(1)       Regulations in force, immediately before the commencement of the amendments, under paragraph (k) of the definition of **_Act covered by this section_** in subsection 56(1) of the old Act continue to have effect after that commencement as if they were made under paragraph (o) of the definition of **_prudential regulation framework law_** in subsection 3(1) of the amended Act, but only as that paragraph applies for the purposes of section 56 of the amended Act.
+(1)       Regulations in force, immediately before the commencement of the amendments, under paragraph (k) of the definition of **_Act covered by this section_** in subsection 56(1) of the old Act continue to have effect after that commencement as if they were made under paragraph (o) of the definition of **_prudential regulation framework law_** in subsection 3(1) of the amended Act, but only as that paragraph applies for the purposes of section 56 of the amended Act.
 
-(2)       Regulations in force, immediately before the commencement of the amendments, under paragraph 56(5)(a) of the old Act have effect after that commencement (in addition to the effect they continue to have for that paragraph of the amended Act) as if they were also made under subsection 10A(1) of the amended Act.
+(2)       Regulations in force, immediately before the commencement of the amendments, under paragraph 56(5)(a) of the old Act have effect after that commencement (in addition to the effect they continue to have for that paragraph of the amended Act) as if they were also made under subsection 10A(1) of the amended Act.
 
 ## 8  Delegations by ASIC to APRA staff members
 
-(1)       Subsection 102(2A) of the _Australian Securities and Investments Commission Act 2001_ has effect after the commencement of the amendments as if the reference in that subsection to the Chief Executive Officer of APRA were instead a reference to APRA.
+(1)       Subsection 102(2A) of the _Australian Securities and Investments Commission Act 2001_ has effect after the commencement of the amendments as if the reference in that subsection to the Chief Executive Officer of APRA were instead a reference to APRA.
 
 (2)       For the purposes of that subsection as it continues to have effect, an agreement to a delegation, in force under that subsection immediately before the commencement of the amendments, continues to have effect after that commencement as if it were given by APRA.
 
-Acts Interpretation Amendment Act 2011 (No. 46, 2011)
+* * *
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
 
 ## Schedule 3
 
@@ -5360,19 +4093,5 @@ The amendments made by Schedule 2 do not affect the validity of an appointment
 ## 11  Transitional regulations
 
 The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
-
-Endnote 4—Uncommenced amendments
-
-This endnote sets out amendments of the _Reserve Bank Act 1959_ that have not yet commenced. 
-
-There are no uncommenced amendments.
-
-Endnote 5—Misdescribed amendments
-
-This endnote sets out amendments of the _Reserve Bank Act 1959_ that have been misdescribed.
-
-There are no misdescribed amendments.
-
- 
 
  
