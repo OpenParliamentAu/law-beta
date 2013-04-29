@@ -1,17 +1,17 @@
-![](http://www.comlaw.gov.au/Details/C2004C03234/Html/CriminologyRes71_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C03233/Html/CriminologyRes71_image001.gif)
 
 # Criminology Research Act 1971
 
 **Act No. 15 of 1971 as amended**
 
-This compilation was prepared on 8 November 2001
- taking into account amendments up to Act No. 159 of 2001
+Consolidated as in force on 16 December 1999
 
-The text of any of those amendments not in force 
- on that date is appended in the Notes section
+(includes amendments up to No. 146 of 1999)
 
 Prepared by the Office of Legislative Drafting,
  Attorney-General’s Department, Canberra
+
+ 
 
 # Contents
 
@@ -53,75 +53,73 @@ Prepared by the Office of Legislative Drafting,
 
     **Division 3—Director, Acting Director and staff of Institute**
 
-[15](#15).          Director of Institute                                                                           10
+[15](#15).          Director of Institute                                                                             9
 
-[16](#16).          Functions of Director                                                                        10
+[16](#16).          Functions of Director                                                                          9
 
-[17](#17).          Tenure of office of Director                                                               10
+[17](#17).          Tenure of office of Director                                                                 9
 
-[18](#18).          Remuneration and allowances of Director                                         10
+[18](#18).          Remuneration and allowances of Director                                           9
 
 [19](#19).          Leave of absence of Director                                                             10
 
-[20](#20).          Termination of appointment of Director                                           11
+[20](#20).          Termination of appointment of Director                                           10
 
-[21](#21).          Vacation of office of Director                                                            11
+[21](#21).          Vacation of office of Director                                                            10
 
-[22](#22).          Acting Director                                                                                  11
+[22](#22).          Acting Director                                                                                  10
 
-[23](#23).          Appointment of staff of Institute                                                     12
+[23](#23).          Appointment of staff of Institute                                                     11
 
     **Division 4—Finances of Institute**
 
-[28](#28).          Moneys payable to Institute, and estimates of expenditure             13
+[28](#28).          Moneys payable to Institute, and estimates of expenditure             12
 
-[29](#29).          Limit on contracts                                                                              13
+[29](#29).          Limit on contracts                                                                              12
 
-[31](#31).          Application of moneys                                                                      13
+[31](#31).          Application of moneys                                                                      12
 
-[32A](#32A).       Trust moneys                                                                                    13
+[32A](#32A).       Trust moneys                                                                                    12
 
 **Part III—The Criminology Research Council** 
 
     **Division 1—Establishment and constitution of Council**
 
-[34](#34).          Establishment of Council                                                                   15
+[34](#34).          Establishment of Council                                                                   14
 
-[35](#35).          Constitution of Council                                                                     15
+[35](#35).          Constitution of Council                                                                     14
 
-[36](#36).          Deputies of members of Council                                                       16
+[36](#36).          Deputies of members of Council                                                       15
 
-[37](#37).          Chair of Council                                                                                 17
+[37](#37).          Chair of Council                                                                                 16
 
-[38](#38).          Resignation of members of Council and deputies of members          17
+[38](#38).          Resignation of members of Council and deputies of members          16
 
-[39](#39).          Meetings of Council                                                                          17
+[39](#39).          Meetings of Council                                                                          16
 
     **Division 2—Functions and powers of Council**
 
-[40](#40).          Functions of Council                                                                         19
+[40](#40).          Functions of Council                                                                         18
 
-[41](#41).          Powers of Council                                                                             19
+[41](#41).          Powers of Council                                                                             18
 
-[43](#43).          Copy of annual report also to be given to State and Northern Territory Ministers and Auditors-General   19
+[43](#43).          Copy of annual report also to be given to State and Northern Territory Ministers and Auditors-General   18
 
 **Part IV—The Criminology Research Fund**
 
-[44](#44).          Establishment of Fund                                                                       20
+[44](#44).          Establishment of Fund                                                                       19
 
-[46](#46).          Moneys payable to Fund                                                                  20
+[46](#46).          Moneys payable to Fund                                                                  19
 
-[47](#47).          Application of moneys in Fund                                                        20
+[47](#47).          Application of moneys in Fund                                                        19
 
 **Part V—Miscellaneous**
 
-[50](#50).          Exemption from taxation: Institute, Council and Fund                     22
+[50](#50).          Exemption from taxation: Institute, Council and Fund                     21
 
-[51](#51).          Regulations                                                                                        22
+[51](#51).          Regulations                                                                                        21
 
 **Notes** 
-
- 
 
 ## An Act to make provision for and in relation to the Promotion of Research in connexion with Criminology
 
@@ -338,6 +336,10 @@ appoint a person, other than a member, to be the deputy of the member.
 ##### <a id="17"></a>17  Tenure of office of Director
 
              (1)  Subject to this Act, the person appointed as the Director holds office for such period, not exceeding 7 years, as is specified in the instrument of the person’s appointment, but is eligible for re-appointment.
+
+             (2)  A person who has attained the age of 65 years shall not be appointed as the Director.
+
+             (3)  A person shall not be appointed as the Director for a period that extends beyond the date on which the person will attain the age of 65 years.
 
              (4)  The Director may resign from office by writing signed by the Director and addressed to the Governor-General.
 
@@ -609,9 +611,7 @@ appoint a person, other than a member, to be the deputy of the member.
 
 ### Note 1
 
-The _Criminology Research Act 1971_ as shown in this compilation comprises Act No. 15, 1971 amended as indicated in the Tables below.
-
-All relevant information pertaining to application, saving or transitional provisions prior to 1 October 2001 is not included in this compilation. For subsequent information _see_ Table A.
+The _Criminology Research Act 1971_ as shown in this consolidation comprises Act No. 15, 1971 amended as indicated in the Tables below.
 
 ### Table of Acts
 
@@ -816,23 +816,6 @@ Remainder: Royal Assent</div>
     <div>—</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001</div>
-  </td>
-  <td>
-    <div>159, 2001</div>
-  </td>
-  <td>
-    <div>1 Oct 2001</div>
-  </td>
-  <td colspan="2">
-    <div>29 Oct 2001</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 97) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -980,7 +963,7 @@ _(d)_     The _Criminology Research Act 1971_ was amended by Schedule 1 
     <div>S. 17</div>
   </td>
   <td>
-    <div>am. No. 123, 1986; No. 159, 2001</div>
+    <div>am. No. 123, 1986</div>
   </td>
 </tr>
 <tr>
@@ -1313,17 +1296,5 @@ _(d)_     The _Criminology Research Act 1971_ was amended by Schedule 1 
 </tr></table>
 
  
-
-Table A
-
-### Application, saving or transitional provisions
-
-_Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001 (No. 159, 2001)_
-
-## Schedule 1
-
-## 97  Application of amendments
-
-The amendments made by this Schedule do not apply to an appointment if the term of the appointment began before the commencement of this item.
 
  
