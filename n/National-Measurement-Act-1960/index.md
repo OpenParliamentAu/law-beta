@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2009C00273/Html/NatMeas60_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00050/Html/NatMeas60_WD02_image001.gif)
 
 # National Measurement Act 1960
 
 **Act No. 64 of 1960 as amended**
 
-This compilation was prepared on 1 July 2009
+This compilation was prepared on 6 January 2009
  taking into account amendments up to Act No. 137 of 2008
 
 The text of any of those amendments not in force
@@ -20,515 +20,203 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part I—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[3](#3).            Interpretation
+[3](#3).            Interpretation                                                                                       1
 
-[3A](#3A).         Meaning of _made available as a public weighbridge_
+[4](#4).            Objects and application of Act                                                            5
 
-[4](#4).            Objects and application of Act
+[4A](#4A).         Application of Act—utility meters used for trade                              6
 
-[4A](#4A).         Application of Act—utility meters used for trade
+[5](#5).            Act to bind the Crown                                                                         7
 
-[4B](#4B).         Application of trade measurement provisions
+[6](#6).            Extension of Act to Territories                                                            7
 
-[5](#5).            Act to bind the Crown
-
-[6](#6).            Extension of Act to Territories
-
-[6A](#6A).         Application of the _Criminal Code_
+[6A](#6A).         Application of the _Criminal Code_                                                       7
 
 **Part II—Units and standards of measurement**
 
-[7](#7).            Australian legal units of measurement
+[7](#7).            Australian legal units of measurement                                                 8
 
-[7A](#7A).         Regulations may prescribe Australian legal units of measurement etc 
+[7A](#7A).         Regulations may prescribe Australian legal units of measurement etc  8
 
-[7B](#7B).         Guidelines
+[7B](#7B).         Guidelines                                                                                            8
 
-[8](#8).            Australian standards of measurement
+[8](#8).            Australian standards of measurement                                                  9
 
-[8AA](#8AA).      Co-ordinated Universal Time
+[8AA](#8AA).      Co-ordinated Universal Time                                                              9
 
-[8A](#8A).         Recognized-value standards of measurement
+[8A](#8A).         Recognized-value standards of measurement                                      9
 
-[9](#9).            Verification of State primary standards of measurement
+[9](#9).            Verification of State primary standards of measurement                    9
 
-[10](#10).          Measurements to be ascertained in accordance with appropriate standards of measurement, certified reference materials or certified measuring instruments
+[10](#10).          Measurements to be ascertained in accordance with appropriate standards of measurement, certified reference materials or certified measuring instruments                                     10
 
-[11](#11).          Conversion factors
+[11](#11).          Conversion factors                                                                             11
 
-[12](#12).          Trade contracts etc  to be expressed in Australian legal units of measurement
+[12](#12).          Trade contracts etc  to be expressed in Australian legal units of measurement       12
 
-[12A](#12A).       Contracts etc  with respect to interests in land to be expressed in Australian legal units of measurement
+[12A](#12A).       Contracts etc  with respect to interests in land to be expressed in Australian legal units of measurement             13
 
-[13](#13).          Contracts etc  relating to exportation or importation of goods
+[13](#13).          Contracts etc  relating to exportation or importation of goods         14
 
-[13A](#13A).       Futures contracts and contracts etc  relating to futures contracts
+[13A](#13A).       Futures contracts and contracts etc  relating to futures contracts     14
 
-[14](#14).          References in laws to units of measurement
+[14](#14).          References in laws to units of measurement                                      14
 
 **Part III—National Measurement Institute and Chief Metrologist**
 
-[16](#16).          Overview of Part
+[16](#16).          Overview of Part                                                                               15
 
-[17](#17).          National Measurement Institute
+[17](#17).          National Measurement Institute                                                        15
 
-[18](#18).          Metrological functions
+[18](#18).          Metrological functions                                                                       15
 
-[18A](#18A).       Chief Metrologist
+[18A](#18A).       Chief Metrologist                                                                              16
 
-[18B](#18B).       Acting Chief Metrologist
+[18B](#18B).       Acting Chief Metrologist                                                                   16
 
-[18C](#18C).       Delegation by the Secretary
+[18C](#18C).       Delegation by the Secretary                                                               17
 
-[18D](#18D).       Delegation by the Chief Metrologist
+[18D](#18D).       Delegation by the Chief Metrologist                                                 17
 
-**Part IV—Using measuring instruments for trade** 
+**Part VA—Utility meters** 
 
-    **Division 1—Overview of Part**
+    **Division 1—Preliminary**
 
-[18G](#18G).       Overview
+[18G](#18G).       Overview of Part                                                                               19
 
-    **Division 2—Requirements for use of measuring instruments for trade**
+[18H](#18H).       Definitions                                                                                         19
 
-[18GA](#18GA).    Measuring instruments used for trade to be verified
+    **Division 2—Requirements for use of utility meters for trade**
 
-[18GB](#18GB).    Installing unverified measuring instruments
+[18K](#18K).       Overview of Division                                                                        21
 
-[18GC](#18GC).    Supplying unverified measuring instruments
+[18L](#18L).        Utility meters used for trade to be verified                                       21
 
-[18GD](#18GD).    Inaccurate use of measuring instruments
+[18M](#18M).      Installing unverified utility meters                                                     22
 
-[18GE](#18GE).     Using or supplying inaccurate measuring instruments
+[18N](#18N).       Supplying unverified utility meters                                                   22
 
-    **Division 3—Verification of measuring instruments**
+[18P](#18P).        Inaccurate use of utility meters                                                         22
 
-[18GF](#18GF).     Overview
+[18Q](#18Q).       Using or supplying inaccurate utility meter                                      23
 
-[18GG](#18GG).    Meaning of _verification_
+[18R](#18R).       Transactions by utility meters to be in prescribed units of measurement               23
 
-[18GH](#18GH).    Who is permitted to verify measuring instruments other than utility meters?
+    **Division 3—Verification of utility meters**
 
-[18GI](#18GI).      Who is permitted to verify utility meters?
+[18S](#18S).        Overview                                                                                           25
 
-[18GJ](#18GJ).     Register of verification marks
+[18T](#18T).       Meaning of _verification_                                                                      25
 
-[18GK](#18GK).    Requirements for verification
+[18U](#18U).       Who is permitted to verify utility meters?                                        25
 
-[18GL](#18GL).     Standards of measurements to be used for verification
+[18V](#18V).       Requirements for verification                                                            26
 
-[18GM](#18GM).   Using a verification mark when not permitted to do so
+[18W](#18W).      Standards of measurements to be used for verification                     26
 
-[18GN](#18GN).    Sale or supply of measuring instrument marked by someone not permitted to do so
+[18X](#18X).       Offences relating to verification                                                         26
 
-[18GO](#18GO).    Misleading marks
+[18Y](#18Y).       Repairer to obliterate verification mark                                             28
 
-[18GP](#18GP).     Wrongful possession of an instrument for making a verification mark
+    **Division 4—Verifiers of utility meters**
 
-[18GQ](#18GQ).    Obligation on repair of measuring instrument
+[18Z](#18Z).       Overview                                                                                           29
 
-**Part V—General provisions on using measurement in trade**
+[18ZA](#18ZA).    Secretary is a verifying authority                                                      29
 
-[18H](#18H).       Overview
+[18ZB](#18ZB).     Application for approval as a verifying authority of utility meters 30
 
-[18HA](#18HA).    When is an article packed in advance ready for sale?
+[18ZC](#18ZC).     Appointment of verifying authorities following application for appointment       30
 
-[18HB](#18HB).    Certain articles must be sold by measurement—articles packed in advance ready for sale
+[18ZD](#18ZD).    Conditions on appointment of verifying authorities                         30
 
-[18HC](#18HC).    Certain articles must be sold by measurement—other articles
+[18ZE](#18ZE).     Secretary must allocate verification marks                                        31
 
-[18HD](#18HD).    Transactions based on measurement to be in prescribed units of measurement
+[18ZF](#18ZF).     Secretary to keep register of verification marks                                31
 
-[18HE](#18HE).     Measuring instruments used in transactions to have prescribed scale intervals
+[18ZG](#18ZG).    Notice to verifying authority of intention to take disciplinary action 32
 
-[18HF](#18HF).     Unreliable methods of measurement
+[18ZH](#18ZH).    Secretary may seek further information                                            32
 
-[18HG](#18HG).    Limiting use of certain measuring instruments
+[18ZI](#18ZI).      Secretary must consider authority’s submission and information in making a decision under section 18ZJ          32
 
-[18HH](#18HH).    Measuring instruments and methods of measurement used in monitoring compliance with the Act
+[18ZJ](#18ZJ).      Taking of disciplinary action against a verifying authority               32
 
-[18HI](#18HI).      Articles sold by measurement to be sold by net measurement
+[18ZK](#18ZK).    Review of decisions                                                                           33
 
-**Part VI—Articles packed in advance ready for sale** 
+[18ZKA](#18ZKA). Appointment of Commonwealth or State officials etc  as verifying authorities     33
 
-    **Division 1—Overview of Part**
+[18ZKB](#18ZKB).  Secretary must allocate verification marks to verifying authorities appointed under section 18ZKA    34
 
-[18J](#18J).        Overview
+    **Division 5—Enforcement**
 
-    **Division 2—Marking packed articles** 
+[18ZL](#18ZL).     Overview of Division                                                                        35
 
-        **Subdivision 2-A—Required package information**
+        **Subdivision A—Appointment of authorised officers and identity cards**
 
-[18JA](#18JA).     Package must be marked with required package information—packer
+[18ZM](#18ZM).   Appointment of authorised officers                                                  35
 
-[18JB](#18JB).      Package must be marked with required package information—importer
+[18ZN](#18ZN).    Identity cards                                                                                     36
 
-[18JC](#18JC).      Package must be marked with required package information—seller
+        **Subdivision B—Powers of authorised officers**
 
-[18JD](#18JD).     Package must be marked with required package information—possession, offer or exposure for sale
+[18ZO](#18ZO).    Powers available to authorised officers for monitoring compliance  36
 
-[18JE](#18JE).      Package must be marked in prescribed manner
+[18ZP](#18ZP).     Offence powers                                                                                 37
 
-        **Subdivision 2-B—Prohibited expressions**
+[18ZQ](#18ZQ).    General powers of authorised officers under this Part                      38
 
-[18JF](#18JF).      Using prohibited expressions—packer
+[18ZR](#18ZR).     Authorised officer may request persons to answer questions          39
 
-[18JG](#18JG).     Using prohibited expressions—seller
+        **Subdivision C—Obligations of authorised officers**
 
-[18JH](#18JH).     Using prohibited expressions—possession, offer or exposure for sale
+[18ZS](#18ZS).     Authorised officer must produce identity card on request                40
 
-    **Division 3—Average Quantity System for packed articles** 
+[18ZT](#18ZT).     Details of warrant to be given to occupier etc                                   40
 
-        **Subdivision 3-A—Preliminary**
+[18ZU](#18ZU).    Consent                                                                                              40
 
-[18JI](#18JI).       Overview of Division
+[18ZV](#18ZV).     Announcement before entry                                                              41
 
-        **Subdivision 3-B—AQS marks**
+[18ZW](#18ZW).    Compensation for damage to electronic equipment                           41
 
-[18JJ](#18JJ).       What is an AQS mark?
+[18ZX](#18ZX).    Copies of seized things to be provided                                             42
 
-[18JK](#18JK).     AQS mark must be used in accordance with regulations
+[18ZY](#18ZY).     Receipts for things seized under warrant                                          42
 
-[18JL](#18JL).      Using misleading marks
+[18ZZ](#18ZZ).     Retention of seized things                                                                 42
 
-        **Subdivision 3-C—Shortfall**
+[18ZZA](#18ZZA).  Magistrate may permit a thing to be retained                                    43
 
-[18JM](#18JM).    Shortfall offence—packer
+        **Subdivision D—Occupier’s rights and responsibilities**
 
-[18JN](#18JN).     Shortfall offence—importer
+[18ZZB](#18ZZB).  Occupier entitled to be present during search                                   44
 
-[18JO](#18JO).     Shortfall offence—possession, offer or exposure for sale
+[18ZZC](#18ZZC).  Occupier to provide authorised officer with all facilities and assistance 44
 
-[18JP](#18JP).      Shortfall offence—sale
+        **Subdivision E—Warrants**
 
-    **Division 4—Packed articles not marked with AQS mark** 
+[18ZZD](#18ZZD).  Monitoring warrants                                                                          44
 
-        **Subdivision 4-A—Overview of Division**
+[18ZZE](#18ZZE).  Offence related warrants                                                                    45
 
-[18JQ](#18JQ).     Overview
+[18ZZF](#18ZZF).  Offence related warrants by telephone                                              46
 
-        **Subdivision 4-B—Shortfall offences**
+**Part VI—Miscellaneous**
 
-[18JR](#18JR).      When is there a shortfall in the measurement of a packed article?
+[19](#19).          Maintaining of standards of measurement etc  before regulations prescribing units take effect              48
 
-[18JS](#18JS).      Shortfall offence—packer
+[19A](#19A).       Patterns of instruments                                                                     48
 
-[18JT](#18JT).      Shortfall offence—importer
+[19AAA](#19AAA). Tolerances                                                                                          49
 
-[18JU](#18JU).     Shortfall offence—possession, offer or exposure for sale
+[19AAB](#19AAB). Measuring instrument—accordance with pattern                             50
 
-[18JV](#18JV).      Shortfall offence—seller
+[19B](#19B).       Offences                                                                                             51
 
-    **Division 5—Permits**
-
-[18JW](#18JW).     Overview
-
-[18JX](#18JX).     Permits for certain packed articles
-
-[18JY](#18JY).      Register of permits
-
-[18JZ](#18JZ).      Evidentiary certificate
-
-**Part VII—Other articles**
-
-[18K](#18K).       Overview
-
-[18KA](#18KA).    Measurement must be open to scrutiny if purchaser present
-
-[18KB](#18KB).    Purchaser must receive invoice stating measurement if not present at sale
-
-[18KC](#18KC).    Articles sold by measurement—price of packaging
-
-[18KD](#18KD).    Shortfall offence—sale
-
-**Part VIII—Enforcement of Parts IV to VII** 
-
-    **Division 1—Overview**
-
-[18L](#18L).        Overview
-
-    **Division 2—Evidentiary matters**
-
-[18LA](#18LA).     Evidentiary certificate—shortfall offences
-
-[18LB](#18LB).     Certificate not to be admitted unless copy given to defendant 14 days before certificate to be admitted in evidence
-
-[18LC](#18LC).     Person giving certificate may be called to give evidence
-
-[18LD](#18LD).     Evidence in support or rebuttal of matters in certificate to be considered on its merits
-
-[18LE](#18LE).     Evidence—matters relating to packing
-
-    **Division 3—Infringement notices**
-
-[18LF](#18LF).     When an infringement notice can be given
-
-[18LG](#18LG).     Matters to be included in an infringement notice
-
-[18LH](#18LH).     Amount of penalty
-
-[18LI](#18LI).      Withdrawal of an infringement notice
-
-[18LJ](#18LJ).      What happens if the penalty is paid
-
-[18LK](#18LK).     Effect of this Division on criminal proceedings
-
-    **Division 4—Additional enforcement options**
-
-[18LL](#18LL).     Overview
-
-[18LM](#18LM).    Accepting undertakings
-
-[18LN](#18LN).     Enforcing undertakings
-
-[18LO](#18LO).     Injunctions
-
-[18LP](#18LP).     Secretary may publicise offences
-
-[18LQ](#18LQ).     Affected contracts etc  voidable
-
-**Part IX—Trade measurement inspectors** 
-
-    **Division 1—Overview of Part**
-
-[18M](#18M).      Overview
-
-    **Division 2—Appointment of trade measurement inspectors and identity cards**
-
-[18MA](#18MA).   Appointment of trade measurement inspectors
-
-[18MB](#18MB).   Identity card
-
-[18MC](#18MC).   Evidentiary certificate—appointment and class of trade measurement inspector
-
-    **Division 3—Powers of trade measurement inspectors**
-
-[18MD](#18MD).   Overview
-
-[18ME](#18ME).    Monitoring powers
-
-[18MF](#18MF).    Collecting evidential material
-
-[18MG](#18MG).   General powers of trade measurement inspectors
-
-[18MH](#18MH).   Trade measurement inspector may request persons to answer questions or produce documents
-
-[18MI](#18MI).     English translation of book, record or document requested by a trade measurement inspector
-
-[18MJ](#18MJ).    Power to give directions in relation to re-verification
-
-[18MK](#18MK).   Power to verify measuring instruments on request
-
-[18ML](#18ML).    Evidentiary certificate—examination and calibration under section 18MK
-
-[18MM](#18MM).  Trade measurement inspector must obliterate verification mark
-
-    **Division 4—Obligations of trade measurement inspectors**
-
-[18MN](#18MN).   Trade measurement inspector must produce identity card on request
-
-[18MO](#18MO).   Details of warrant to be given to controller etc 
-
-[18MP](#18MP).    Consent to enter residential premises
-
-[18MQ](#18MQ).   Announcement on entry or inspection
-
-[18MR](#18MR).   Compensation for damage to electronic equipment
-
-[18MS](#18MS).    Copies of seized things to be provided
-
-[18MT](#18MT).   Receipts for things seized
-
-[18MU](#18MU).   Retention of seized things
-
-[18MV](#18MV).   Magistrate may permit a thing to be retained
-
-    **Division 5—Controller’s rights and responsibilities**
-
-[18MW](#18MW).  Controller entitled to be present during search
-
-[18MX](#18MX).   Controller must provide trade measurement inspector with facilities and assistance
-
-    **Division 6—Warrants**
-
-[18MY](#18MY).   Overview
-
-[18MZ](#18MZ).   Monitoring warrants
-
-18MZA Warrants relating to the collection of evidential material
-
-[18MZB](#18MZB). Urgent warrant for the collection of evidential material
-
-[18MZC](#18MZC). Powers conferred on magistrates in their personal capacity
-
-18MZD Immunity of magistrates
-
-**Part X—Servicing licensees**
-
-[18N](#18N).       Overview
-
-[18NA](#18NA).    Application for a servicing licence
-
-[18NB](#18NB).    Granting a servicing licence
-
-[18NC](#18NC).    Circumstances in which servicing licence must be refused
-
-[18ND](#18ND).    Where the applicant is a body corporate
-
-[18NE](#18NE).     Where the applicant is a partnership
-
-[18NF](#18NF).     Register of servicing licences
-
-[18NG](#18NG).    Conditions may be imposed on servicing licences
-
-[18NH](#18NH).    Conditions on all servicing licences
-
-[18NI](#18NI).      Application to amend a condition of a servicing licence
-
-[18NJ](#18NJ).     Application to change servicing licensee due to change of partnership
-
-[18NK](#18NK).    Application for renewal of servicing licence
-
-[18NL](#18NL).     Renewal of servicing licence
-
-[18NM](#18NM).   Surrender and transfer of servicing licence
-
-[18NN](#18NN).    Order preventing employment of certain persons
-
-[18NO](#18NO).    Offence—breaching a condition of a servicing licence
-
-**Part XI—Public weighbridges** 
-
-    **Division 1—Public weighbridge licences**
-
-[18P](#18P).        Overview
-
-[18PA](#18PA).     Application for a public weighbridge licence
-
-[18PB](#18PB).     Granting a public weighbridge licence
-
-[18PC](#18PC).     Circumstances in which public weighbridge licence must be refused
-
-[18PD](#18PD).     Where the applicant is a body corporate
-
-[18PE](#18PE).     Where the applicant is a partnership
-
-[18PF](#18PF).     Register of public weighbridge licences
-
-[18PG](#18PG).     Conditions may be imposed on public weighbridge licences
-
-[18PH](#18PH).     Conditions on all public weighbridge licences
-
-[18PI](#18PI).      Application to amend a condition of a public weighbridge licence
-
-[18PJ](#18PJ).      Application to change public weighbridge licensee due to change of partnership
-
-[18PK](#18PK).     Application to contract out the operation of the public weighbridge
-
-[18PL](#18PL).     Application for renewal of public weighbridge licence
-
-[18PM](#18PM).    Renewal of public weighbridge licence
-
-[18PN](#18PN).     Surrender and transfer of public weighbridge licence
-
-[18PO](#18PO).     Effect of relocation of licensed public weighbridge
-
-[18PP](#18PP).     If weighbridge no longer suitable for use as public weighbridge
-
-[18PQ](#18PQ).     Order preventing employment of certain persons
-
-[18PR](#18PR).     Order preventing contract with certain person to operate public weighbridge
-
-[18PS](#18PS).      Order preventing employee of a public weighbridge contractor from operating public weighbridge
-
-    **Division 2—Offences in relation to public weighbridges**
-
-[18PT](#18PT).     Offence—making a weighbridge available as a public weighbridge when not licensed etc 
-
-[18PU](#18PU).     Offence—breaching a condition of a public weighbridge licence
-
-**Part XII—Disciplinary action against servicing licensees and public weighbridge licensees**
-
-[18Q](#18Q).       Overview
-
-[18QA](#18QA).    Grounds for disciplinary action
-
-[18QB](#18QB).    Notice to licensee of grounds for disciplinary action
-
-[18QC](#18QC).    Taking disciplinary action
-
-[18QD](#18QD).    Accepting undertakings
-
-[18QE](#18QE).     Enforcing undertakings
-
-[18QF](#18QF).     Secretary may publicise grounds on which disciplinary action taken, etc 
-
-**Part XIII—Utility meter verifiers** 
-
-    **Division 1—Appointment of utility meter verifiers on application**
-
-[18R](#18R).       Applying to be a utility meter verifier
-
-[18RA](#18RA).    Appointment of utility meter verifiers
-
-[18RB](#18RB).     Conditions on appointment of utility meter verifiers
-
-[18RC](#18RC).     Secretary must allocate utility meter verifier’s mark
-
-    **Division 2—Disciplinary action against utility meter verifiers appointed on application**
-
-[18RD](#18RD).    Notice to utility meter verifier of intention to take disciplinary action
-
-[18RE](#18RE).     Secretary may seek further information
-
-[18RF](#18RF).     Secretary must consider utility meter verifier’s submission and information in making a decision under section 18RG
-
-[18RG](#18RG).    Taking of disciplinary action against a utility meter verifier
-
-    **Division 3—Appointing Commonwealth or State officials etc. as utility meter verifiers**
-
-[18RH](#18RH).    Appointment of Commonwealth or State officials etc  as utility meter verifiers
-
-[18RI](#18RI).      Secretary must allocate verification marks to utility meter verifiers appointed under section 18RH
-
-**Part XIV—Miscellaneous**
-
-[19](#19).          Maintaining of standards of measurement etc  before regulations prescribing units take effect
-
-[19A](#19A).       Patterns of instruments
-
-[19AAA](#19AAA). Tolerances
-
-[19AAB](#19AAB). Measuring instrument—accordance with pattern
-
-[19B](#19B).       Offences
-
-[19C](#19C).       Offences committed by employees—liability of employee
-
-[19D](#19D).       Offences committed by employees—liability of employer
-
-[19E](#19E).        Offences committed by agents—liability of agent
-
-[19F](#19F).        Offences committed by agents—liability of principal
-
-[19G](#19G).       Offence committed by a body corporate—liability of directors etc 
-
-[19H](#19H).       Protected information
-
-[19J](#19J).        Review by Administrative Appeals Tribunal of decisions under this Act
-
-[19K](#19K).       Jurisdiction of the Federal Court of Australia and the Federal Magistrates Court
-
-[19L](#19L).        Fees recoverable as a debt due to the Commonwealth
-
-[19M](#19M).      Rights may be amended, suspended or cancelled etc 
-
-[19N](#19N).       Compensation for acquisition of property
-
-[19P](#19P).        Evidentiary matters—signature of Secretary or trade measurement inspector
-
-[20](#20).          Regulations
+[20](#20).          Regulations                                                                                        51
 
 **Notes** 
 
@@ -544,55 +232,17 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (1)  In this Act, unless the contrary intention appears:
 
-                    <a name="approved-pattern"></a>**_approved pattern_**, in relation to a measuring instrument, means a pattern approved for the measuring instrument under section 19A that:
-
-                     (a)  is currently in force; or
-
-                     (b)  has expired or been cancelled (but not withdrawn) and was in force when the measuring instrument was first verified.
-
-                    <a name="aq-mark"></a>**_AQS mark_** has the meaning given by section 18JJ.
-
-                    <a name="aq-sampl-procur"></a>**_AQS sampling procedures_** are sampling procedures prescribed for the purposes of Subdivision 3-C of Division 3 of Part VI.
-
-                    <a name="aq-test-procur"></a>**_AQS test procedures_** are test procedures prescribed for the purposes of Subdivision 3-C of Division 3 of Part VI.
-
-                    <a name="aq-threshold"></a>**_AQS threshold_** is the threshold prescribed for the purposes of Subdivision 3-C of Division 3 of Part VI.
-
-                    <a name="articl"></a>**_article_** includes a substance.
-
                     <a name="australia"></a>**_Australia_** includes the external Territories.
 
                     <a name="australian-legal-unit-measur"></a>**_Australian legal unit of measurement_** means:
 
                      (a)  a unit of measurement prescribed for the purposes of subsection 7A(1); or
 
-                     (b)  a unit of measurement derived by the application of guidelines issued by the Chief Metrologist under section 7B, or 2 or more successive applications of those guidelines.
+                     (b)  a unit of measurement derived by the application of guidelines issued by the Chief Metrologist under subsection 7B(1), or 2 or more successive applications of those guidelines.
 
                     <a name="australian-primari-standard-measur"></a>**_Australian primary standard of measurement_** means a standard of measurement that is maintained, or caused to be maintained, by the Chief Metrologist as an Australian primary standard of measurement for the purposes of subsection 8(1).
 
                     <a name="australian-secondari-standard-measur"></a>**_Australian secondary standard of measurement_** means a standard of measurement that is maintained, or caused to be maintained, by the Chief Metrologist as an Australian secondary standard of measurement for the purposes of subsection 8(2) and that has been verified, in accordance with the regulations, by means of, by reference to, by comparison with or by derivation from an Australian primary standard of measurement.
-
-                    <a name="automated-pack-machin"></a>**_automated packing machine_** means a machine that follows a pre-determined program for automatically measuring articles in pre-determined quantities as part of the packing process.
-
-                    <a name="busi-premis"></a>**_business premises_** means premises or a part of premises:
-
-                     (a)  used for the importation, packing, storage or sale of articles or utilities sold, or to be sold, by measurement; or
-
-                     (b)  on which a measuring instrument is used for trade; or
-
-                     (c)  used for activities incidental to the uses mentioned in paragraph (a) or (b);
-
-but does not include premises or a part of premises occupied as a residence or for residential accommodation.
-
-                    <a name="busi-vehicl"></a>**_business vehicle_** means a vehicle:
-
-                     (a)  used for the transportation of articles or utilities sold, or to be sold, by measurement (whether packed in advance ready for sale or otherwise); or
-
-                     (b)  on which a measuring instrument is used for trade; or
-
-                     (c)  used for the measurement of articles or utilities sold, or to be sold, by measurement; or
-
-                     (d)  used for activities incidental to the uses mentioned in paragraph (a), (b) or (c).
 
                     <a name="certifi-measur-instrum"></a>**_certified measuring instrument_** means a measuring instrument that has been certified in accordance with the regulations.
 
@@ -624,69 +274,9 @@ but does not include premises or a part of premises occupied as a residence or f
 
                              (v)  controlling the measurement process carried out by the basic thing.
 
-                    <a name="control"></a>**_controller_**, in relation to premises, a part of premises or a vehicle, means the person apparently in control of the premises, the part of the premises or the vehicle.
-
-                    <a name="earlier-correspond-law"></a>**_earlier corresponding law_** means any of the following:
-
-                     (a)  the _Trade Measurement Act 1989_ of New South Wales;
-
-                     (b)  the _Trade Measurement Administration Act 1989_ of New South Wales;
-
-                     (c)  the _Trade Measurement Act 1995_ of Victoria;
-
-                     (d)  the _Trade Measurement (Administration) Act 1995_ of Victoria;
-
-                     (e)  the _Trade Measurement Act 1990_ of Queensland;
-
-                      (f)  the _Trade Measurement Administration Act 1990_ of Queensland;
-
-                     (g)  the _Trade Measurement Act 2006_ of Western Australia;
-
-                     (h)  the _Trade Measurement Administration Act 2006_ of Western Australia;
-
-                      (i)  the _Trade Measurement Act 1993_ of South Australia;
-
-                      (j)  the _Trade Measurement Administration Act 1993_ of South Australia;
-
-                     (k)  the _Trade Measurement Act 1999_ of Tasmania;
-
-                      (l)  the _Trade Measurement (__Tasmania__) Administration Act 1999_ of Tasmania;
-
-                    (m)  the _Trade Measurement Act 1991_ of the Australian Capital Territory;
-
-                     (n)  the _Trade Measurement (Administration) Act 1991_ of the Australian Capital Territory;
-
-                     (o)  the _Trade Measurement Act_ of the Northern Territory;
-
-                     (p)  the _Trade Measurement Administration Act_ of the Northern Territory;
-
-and includes the regulations made under those Acts.
-
-                    <a name="evidenti-materi"></a>**_evidential material_** means any of the following:
-
-                     (a)  any thing with respect to which an offence against this Act has been committed or is suspected, on reasonable grounds, to have been committed;
-
-                     (b)  any thing as to which there are reasonable grounds for suspecting that it will afford evidence as to the commission of any such offence;
-
-                     (c)  any thing as to which there are reasonable grounds for suspecting that it is intended to be used for the purpose of committing any such offence.
-
-                    <a name="inspector-mark"></a>**_inspector’s mark_** means the mark allotted to a trade measurement inspector by the Secretary under subsection 18MA(5).
-
                     <a name="interest-land"></a>**_interest in land_** includes an interest by way of stratum title (by whatever name known), an interest by way of strata title (by whatever name known) and a time-sharing interest in land (by whatever name known).
 
-                    <a name="made-avail-public-weighbridg"></a>**_made available as a public weighbridge_**has the meaning given by section 3A.
-
-                    <a name="mark"></a><a name="mark"></a>**_marked_**: something is **_marked_** on a package if:
-
-                     (a)  it is marked on the package itself; or
-
-                     (b)  it is marked on a label attached to or enclosed with, but visible within, the package.
-
-                    <a name="mark-measur-instrum-verif-mark"></a>**_marking a measuring instrument with a verification mark_** has the meaning given in subsection (5).
-
                     <a name="materi-measur"></a>**_material measure_** means a thing designed or intended to conserve or reproduce, in a permanent manner during the use of the thing, one or more known values of a physical quantity.
-
-                    <a name="measur"></a>**_measurement_** means a determination of number or physical quantity, other than for descriptive purposes only.
 
                     <a name="measur-instrum"></a>**_measuring instrument_** means:
 
@@ -694,51 +284,17 @@ and includes the regulations made under those Acts.
 
                      (b)  a component of such a thing.
 
-                    <a name="measur-instrum-give-inaccur-measur"></a>**_measuring instrument gives an inaccurate measurement_** has the meaning given in subsection (6).
-
                     <a name="measur-instrum-approved-pattern"></a>**_measuring instrument with an approved pattern_** means a measuring instrument a pattern of which has been approved under this Act.
 
                     <a name="metric-system-measur"></a>**_metric system of measurement_** means measurement in terms of:
 
                      (a)  the units comprised in the International System of Units for the time being approved by the General Conference on Weights and Measures;
 
-                     (b)  units decimally related to those units and for the time being so approved.
+                     (b)  units decimally related to those units and for the time being so approved; and
 
-                    <a name="nation-group-test-procur"></a>**_national group test procedures_** are test procedures with respect to groups of packages prescribed for the purposes of Subdivision 4-B of Division 4 of Part VI.
-
-                    <a name="nation-instrum-test-procur"></a>**_national instrument test procedures_** are procedures for testing measuring instruments determined by the Minister under subsection 18GG(2).
-
-                    <a name="nation-sampl-procur"></a>**_national sampling procedures_** are sampling procedures prescribed for the purposes of Subdivision 4-B of Division 4 of Part VI.
-
-                    <a name="nation-singl-articl-test-procur"></a>**_national single article test procedures_** are test procedures with respect to single packages prescribed for the purposes of Subdivision 4-B of Division 4 of Part VI.
-
-                    <a name="nation-test-threshold"></a>**_national test threshold_** is the threshold prescribed for the purposes of Subdivision 4-B of Division 4 of Part VI.
-
-                    <a name=""></a><a name="net-measur"></a>**_net measurement_**, in relation to an article, means the measurement of the article disregarding any packaging or other thing that is not part of the article.
-
-                    <a name="obliter"></a>**_obliterate_**, in respect of a verification mark, means destroy, or remove and destroy, a verification mark.
-
-                    <a name="packag"></a>**_package_** includes:
-
-                     (a)  a container, wrapper, confining band or other thing in which an article is packed, or 2 or more articles are packed, for sale as a single item; and
-
-                     (b)  anything around which an article is wound or wrapped, or 2 or more articles are wound or wrapped, for sale as a single item.
-
-                    <a name="pack-advanc-readi-sale"></a>**_packed in advance ready for sale_** has the meaning given by section 18HA.
+                     (c)  such other units as the Minister declares, from time to time, by notice published in the _Gazette_, to be within the metric system.
 
                     <a name="pattern"></a>**_pattern_**, in relation to a measuring instrument, includes a sample of the measuring instrument.
-
-                    <a name="premis"></a>**_premises_** means:
-
-                     (a)  an area of land or any other place, whether or not it is enclosed or built on; or
-
-                     (b)  a building or other structure.
-
-                    <a name="public-weighbridg"></a>**_public weighbridge_** means a weighbridge that is made available as a public weighbridge.
-
-                    <a name="public-weighbridg-licenc"></a>**_public weighbridge licence_** means a licence granted under section 18PB.
-
-                    <a name="public-weighbridg-license"></a>**_public weighbridge licensee_** means a person to whom a licence is granted under section 18PB.
 
                     <a name="recogn-valu-standard-measur"></a>**_recognized-value standard of measurement_** means a standard of measurement that the Chief Metrologist has, under section 8A, determined shall be a recognized-value standard of measurement.
 
@@ -746,21 +302,7 @@ and includes the regulations made under those Acts.
 
                     <a name="refer-standard-measur"></a>**_reference standard of measurement_** means a standard of measurement (other than an Australian primary standard of measurement, an Australian secondary standard of measurement, a recognized-value standard of measurement or a State primary standard of measurement) that has been verified in accordance with the regulations and for which the period for which a certificate of verification is given under the regulations has not expired.
 
-                    <a name="residenti-premis"></a>**_residential premises_** means premises, or a part of premises, that is occupied as a residence or for residential accommodation.
-
                     <a name="secretari"></a>**_Secretary_** means the Secretary of the Department.
-
-                    <a name="seiz"></a>**_seize_** includes secure against interference.
-
-                    <a name="sell"></a>**_sell_** includes barter or exchange.
-
-                    <a name="servic-licenc"></a>**_servicing licence_** means a licence granted under section 18NB.
-
-                    <a name="servic-license"></a>**_servicing licensee_** means a person to whom a licence is granted under section 18NB.
-
-                    <a name="servic-license-mark"></a>**_servicing licensee’s mark_**means the mark approved by the Secretary for use by or on behalf of a servicing licensee in verifying measuring instruments.
-
-                    <a name="shortfal"></a>**_shortfall_**, in relation to an article packed in advance ready for sale that is not marked with an AQS mark, has the meaning given by section 18JR.
 
                     <a name="standard-measur"></a>**_standard of measurement_** means:
 
@@ -782,27 +324,13 @@ and includes the regulations made under those Acts.
 
                     <a name="state-primari-standard-measur"></a>**_State primary standard of measurement_** means a standard of measurement that has been approved by the Chief Metrologist and that is maintained, or caused to be maintained, by a State or Territory and that has been verified under section 9 by means of, by reference to, by comparison with or by derivation from an Australian primary standard of measurement or an Australian secondary standard of measurement.
 
-                    <a name="act"></a>**_this Act_** includes the regulations and any other instrument made under a provision of this Act.
-
-                    <a name="trade-measur-inspector"></a>**_trade measurement inspector_** means:
-
-                     (a)  in relation to the exercise of a power or the performance of a function or duty in circumstances prescribed under paragraph 18MA(3)(b)—a person appointed to a class of trade measurement inspectors authorised to exercise that power or perform that function or duty in those circumstances; and
-
-                     (b)  in relation to the exercise of a power or the performance of a function or duty otherwise—a person appointed to a class of trade measurement inspectors authorised to exercise that power or perform that function or duty.
-
                     <a name="unit-measur"></a>**_unit of measurement_** includes any word or expression that is used in conjunction with numerical values in order to describe the magnitudes of physical quantities.
 
-                    <a name=""></a><a name=""></a><a name="us-trade"></a>**_use for trade_**: a person uses  a measuring instrument for trade if:
+                    <a name="us-trade"></a>**_use for trade_**, in relation to a measuring instrument, means use of the measuring instrument for either or both of the following purposes:
 
-                     (a)  the person is actually or apparently in control of the measuring instrument; and
+                     (a)  determining the consideration in respect of a transaction;
 
-                     (b)  the person uses it, or makes it available for another person to use, for either or both of the following purposes:
-
-                              (i)  determining the consideration in respect of a transaction;
-
-                             (ii)  determining the amount of a tax.
-
-                    <a name="util"></a>**_utility_** means gas, electricity or water.
+                     (b)  determining the amount of a tax.
 
                     <a name="util-meter"></a>**_utility meter_** means a measuring instrument that is:
 
@@ -812,35 +340,13 @@ and includes the regulations made under those Acts.
 
                      (c)  a water meter;
 
-but does not include a meter that is included in a class of meters exempted from the operation of Part IV by the regulations.
+but does not include a meter that is included in a class of meters exempted from the operation of Part VA by the regulations.
 
 Note:          Most of the definitions dealing with utility meters are in section 18H.
 
-                    <a name="util-meter-verifi"></a>**_utility meter verifier_** means a person appointed as a utility meter verifier under section 18RA or 18RH.
+                    <a name="verif"></a>**_verification_**, in respect of a utility meter, has the meaning given in section 18T.
 
-                    <a name="util-meter-verifi-mark"></a>**_utility meter verifier’s mark_** means a mark allocated to a person appointed as a verifier in relation to utility meters under section 18RA or 18RH for use by the verifier or its employees (if any), when verifying utility meters.
-
-                    <a name="vehicl"></a>**_vehicle_** includes vessel, aircraft and any other means of conveying persons or goods.
-
-                    <a name="verif"></a>**_verification_**, in relation to a measuring instrument, has the meaning given by section 18GG.
-
-                    <a name="verif-mark"></a>**_verification mark_** means:
-
-                     (a)  in relation to utility meters—a utility meter verifier’s mark; and
-
-                     (b)  in relation to any other measuring instrument:
-
-                              (i)  an inspector’s mark; or
-
-                             (ii)  a servicing licensee’s mark.
-
-                    <a name="verifi"></a>**_verifier_**:
-
-                     (a)  in relation to utility meters—means a person who is permitted to verify the utility meter under section 18GI; and
-
-                     (b)  in relation to any other measuring instrument—means a person who is permitted to verify the measuring instrument under section 18GH.
-
-                    <a name="weighbridg"></a>**_weighbridge_** means a measuring instrument that is of a capacity of 3 tonnes or more and has one or more platforms by the use of which the measuring instrument is capable of determining the mass of a vehicle or of livestock.
+                    <a name="verifi-author"></a>**_verifying authority_**, in respect of the verification of utility meters, means the Secretary or a person appointed under section 18ZC or 18ZKA.
 
              (2)  For the purposes of this Act, time interval not related to the calendar is a physical quantity and time interval so related is not a physical quantity.
 
@@ -849,28 +355,6 @@ Note:          Most of the definitions dealing with utility me
           (3A)  A reference in this Act to the verification of a utility meter used for trade does not include a reference to the reverification of a utility meter used for trade.
 
              (4)  A reference in this Act to an appropriate State authority shall be read as a reference to a Department of State or other authority in a State or Territory having responsibility for matters relating to weights and measures.
-
-             (5)  A reference in this Act to a person **_marking a measuring instrument with a verification mark_** includes the marking of the measuring instrument itself, the affixing of a label to the measuring instrument or the marking of a label affixed to the measuring instrument.
-
-             (6)  For the purposes of this Act, a **_measuring instrument gives an inaccurate measurement_** if the measuring instrument does not operate within the appropriate limits of error that are permitted under the regulations.
-
-             (7)  A reference in this Act to a particular provision or group of provisions includes a reference to regulations made under that provision or under any one or more of the provisions of that group of provisions.
-
-##### <a id="3A"></a>3A  Meaning of _made available as a public weighbridge_
-
-             (1)  A weighbridge is **_made available as a public weighbridge_** if:
-
-                     (a)  it is open for use by or on behalf of the public; or
-
-                     (b)  it is available for use for a charge.
-
-             (2)  A weighbridge is not **_made available as a public weighbridge_** if the weighbridge is used by a person who owns or who has contracted to operate the weighbridge:
-
-                     (a)  for the purpose of determining the consideration in an agreement between the person and another person; or
-
-                     (b)  for purposes that do not involve another person.
-
-             (3)  The regulations may prescribe other circumstances in which a weighbridge is taken not to be **_made available as a public weighbridge_** for the purposes of this Act.
 
 ##### <a id="4"></a>4  Objects and application of Act
 
@@ -884,7 +368,7 @@ Note:          Most of the definitions dealing with utility me
 
                      (d)  to bring about the use of the metric system of measurement in Australia as the sole system of measurement of physical quantities; and
 
-                     (e)  to provide for a national system of trade measurement;
+                     (e)  to provide for a system of verification of utility meters used for trade;
 
 and this Act shall be construed accordingly.
 
@@ -893,6 +377,18 @@ and this Act shall be construed accordingly.
 Note:          Section 4A deals with the application of the Act in respect of utility meters used for trade
 
              (2)  This Act and the regulations do not apply to the exclusion of any law of a State or Territory except in so far as that law is inconsistent with an express provision of this Act or of the regulations.
+
+             (3)  Without limiting the generality of subsection (2), this Act and the regulations shall not be taken to apply to the exclusion of any law of a State or Territory:
+
+                     (a)  relating to improper practices in connexion with weights and measures;
+
+                     (b)  providing for the verification of means of measurement, other than Australian primary standards of measurement, Australian secondary standards of measurement, recognized-value standards of measurement, reference standards of measurement or State primary standards of measurement;
+
+                     (d)  prohibiting or restricting the use of a unit of measurement of a physical quantity either generally or in respect of particular transactions or in respect of the transactions included in a particular class of transactions;
+
+                     (e)  providing that particular transactions, or the transactions included in a particular class of transactions, shall be made or entered into in terms of a particular unit of measurement of a physical quantity; or
+
+                      (f)  relating to the packaging of articles for sale.
 
 ##### <a id="4A"></a>4A  Application of Act—utility meters used for trade
 
@@ -907,30 +403,6 @@ Exception—certain State and Territory laws coexist with Commonwealth law
 Exception—this Act does not apply to reverification
 
              (3)  This Act and the regulations do not apply to the reverification of utility meters used for trade.
-
-##### <a id="4B"></a>4B  Application of trade measurement provisions
-
-             (1)  Parts IV to XIII of this Act do not apply to a measurement, or an instrument used for the purposes of a measurement, to determine any of the following:
-
-                     (a)  charges relating to telephone calls or the use of internet services;
-
-                     (b)  the fare payable for use of a taxi;
-
-                     (c)  the charge for the hire of a motor vehicle;
-
-                     (d)  tyre pressures;
-
-                     (e)  the expiration of time, or the calculation of time, for parking a vehicle.
-
-             (2)  Parts IV to XIII of this Act do not apply to a measuring instrument that is an automated packing machine.
-
-             (3)  Parts IV to XIII of this Act do not apply to a measurement for the purposes of:
-
-                     (a)  reporting and disseminating information relating to greenhouse gas emissions, greenhouse gas projects, energy production and energy consumption under the _National Greenhouse and Energy Reporting Act 2007_; or
-
-                     (b)  reporting and disseminating information relating to greenhouse gas emissions or greenhouse gas projects under any other law of the Commonwealth or of a State or Territory; or
-
-                     (c)  emissions trading under a law of the Commonwealth or of a State or Territory.
 
 ##### <a id="5"></a>5  Act to bind the Crown
 
@@ -962,11 +434,13 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 ##### <a id="7B"></a>7B  Guidelines
 
-                   The Chief Metrologist may, by legislative instrument, issue guidelines governing:
+             (1)  The Chief Metrologist may issue written guidelines governing:
 
                      (a)  the way in which an Australian legal unit of measurement may be combined with itself, or one or more other Australian legal units of measurement, to produce an Australian legal unit of measurement; and
 
                      (b)  the way in which an Australian legal unit of measurement may be combined with a prefix prescribed for the purposes of subsection 7A(3) to produce an Australian legal unit of measurement.
+
+             (2)  A set of guidelines issued by the Chief Metrologist under subsection (1) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
 ##### <a id="8"></a>8  Australian standards of measurement
 
@@ -980,7 +454,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 ##### <a id="8A"></a>8A  Recognized-value standards of measurement
 
-             (1)  The Chief Metrologist may, by legislative instrument, determine that:
+             (1)  The Chief Metrologist may determine that:
 
                      (a)  magnitudes of physical quantities specified in the determination; or
 
@@ -989,6 +463,8 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 shall be recognized-value standards of measurement.
 
              (2)  The Chief Metrologist may revoke or vary any such determination.
+
+             (3)  Notice of a determination under this section, or of the revocation or variation of such a determination, shall be published in the _Gazette_.
 
              (4)  A recognized-value standard of measurement is not subject to verification.
 
@@ -1213,6 +689,3925 @@ Note:          For more information about acting appointments,
              (2)  The delegation must be in writing.
 
              (3)  In exercising functions or powers under a delegation, the delegate must comply with any directions of the Chief Metrologist.
+
+## Part VA—Utility meters
+
+### Division 1—Preliminary
+
+##### <a id="18G"></a>18G  Overview of Part
+
+* * *
+
+**Overview of Part**
+
+<li class="BoxList" style="margin-left:21.25pt">(1)   This Part applies to utility
+
+meters used for trade.</li>
+
+<li class="BoxList" style="margin-left:21.25pt">(2)   Division 2 sets out the
+
+requirements that apply to utility meters used for trade.</li>
+
+<li class="BoxList" style="margin-left:21.25pt">(3)   Division 3 deals with
+
+the verification of utility meters.</li>
+
+<li class="BoxList" style="margin-left:21.25pt">(4)   Division 4 deals with
+
+verifying authorities (applications for appointment, appointment of verifying
+
+authorities, conditions on appointment, disciplinary action for breaches of
+
+conditions of appointment).</li>
+
+<li class="BoxList" style="margin-left:21.25pt">(5)   Division 5 deals with
+
+enforcement powers in respect of utility meters.</li>
+
+Note:          For **_use for trade_** see subsection 3(1).
+
+* * *
+
+##### <a id="18H"></a>18H  Definitions
+
+             (1)  In this Part, unless the contrary intention appears:
+
+                    <a name="approved-pattern"></a>**_approved pattern_**, in relation to a utility meter, means a pattern approved for the meter under section 19A that:
+
+                     (a)  is currently in force; or
+
+                     (b)  has expired or been cancelled (but not withdrawn) and was in force when the utility meter was first verified.
+
+                    <a name="authorised-offic"></a>**_authorised officer_** means a person appointed as an authorised officer under section 18ZM.
+
+                    <a name="evidenti-materi"></a>**_evidential material_** means any of the following:
+
+                     (a)  any thing with respect to which an offence against this Part has been committed or is suspected, on reasonable grounds, to have been committed;
+
+                     (b)  any thing as to which there are reasonable grounds for suspecting that it will afford evidence as to the commission of any such offence;
+
+                     (c)  any thing as to which there are reasonable grounds for suspecting that it is intended to be used for the purpose of committing any such offence.
+
+                    <a name="mark-util-meter-verif-mark"></a>**_marking a utility meter with a verification mark_** has the meaning given in subsection (3).
+
+                    <a name="meter-give-inaccur-measur"></a>**_meter gives an inaccurate measurement_** has the meaning given in subsection (2).
+
+                    <a name="obliter"></a>**_obliterate_**, in respect of a verification mark, means destroy or remove a verification mark.
+
+                    <a name="occupi"></a>**_occupier_**, in relation to premises, means the person apparently in charge of the premises.
+
+                    <a name="seiz"></a>**_seize_** includes secure against interference.
+
+                    <a name="verif-mark"></a>**_verification mark_** means a mark allocated for use by the Secretary under section 18ZE.
+
+                    <a name="verifi"></a>**_verifier_** means a person to whom the Secretary has allocated a verification mark under section 18ZE.
+
+             (2)  For the purposes of this Part, a **_meter gives an inaccurate measurement_** if the meter does not operate within the appropriate limits of error that are permitted under the regulations.
+
+             (3)  A reference in this Part to a person **_marking a utility meter with a verification mark_** includes the marking of the utility meter itself, the affixing of a label to the utility meter or the marking of a label affixed to the utility meter.
+
+### Division 2—Requirements for use of utility meters for trade
+
+##### <a id="18K"></a>18K  Overview of Division
+
+* * *
+
+**Overview of Division**
+
+<li class="BoxList" style="margin-left:21.25pt">(1)   This Division provides that
+
+a utility meter used for trade is required to be:</li>
+
+               (a)     verified (see section 18L); and
+
+               (b)     used in a way that gives an accurate measurement (see section 18P); and
+
+               (c)     accurate (see section 18Q).
+
+Note:          For **_verification_** see section 18T.
+
+<li class="BoxList" style="margin-left:21.25pt">(2)   This Division imposes the
+
+following requirements regarding utility meters used for trade:</li>
+
+               (a)     that a person must not install an unverified utility meter (see section 18M);
+
+               (b)     that a person must not supply an unverified utility meter (see section 18N).
+
+<li class="BoxList" style="margin-left:21.25pt">(3)   This Division also imposes a
+
+requirement that gas, electricity and water are to be sold by reference to a
+
+prescribed measurement (see section 18R).</li>
+
+* * *
+
+##### <a id="18L"></a>18L  Utility meters used for trade to be verified
+
+                   A person is guilty of an offence if:
+
+                     (a)  the person uses a utility meter for trade; and
+
+                     (b)  the utility meter is not verified.
+
+                    Penalty:  50 penalty units.
+
+Note 1:       Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
+
+Note 2:       For **_verification_** see section 18T.
+
+##### <a id="18M"></a>18M  Installing unverified utility meters
+
+                   A person is guilty of an offence if:
+
+                     (a)  the person installs in or on any premises a utility meter for use for trade; and
+
+                     (b)  the meter is not verified.
+
+                    Penalty:  200 penalty units.
+
+Note 1:       Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
+
+Note 2:       For **_verification_** see section 18T.
+
+##### <a id="18N"></a>18N  Supplying unverified utility meters
+
+                   A person is guilty of an offence if:
+
+                     (a)  the person sells or otherwise supplies a utility meter for use for trade; and
+
+                     (b)  the meter is not verified.
+
+                    Penalty:  200 penalty units.
+
+Note 1:       Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
+
+Note 2:       For **_verification_** see section 18T.
+
+##### <a id="18P"></a>18P  Inaccurate use of utility meters
+
+             (1)  A person is guilty of an offence if the person:
+
+                     (a)  uses a utility meter for trade; and
+
+                     (b)  does so in such a way that the meter gives an inaccurate measurement or gives other information inaccurately.
+
+                    Penalty:  200 penalty units.
+
+Note 1:       Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
+
+Note 2:       For **_meter gives an inaccurate measurement_** see section 18H.
+
+             (2)  A person is guilty of an offence if:
+
+                     (a)  the person does, or fails to do, something in relation to a utility meter; and
+
+                     (b)  the person’s act or omission causes, or is likely to cause, the meter to give an inaccurate measurement or to give other information inaccurately.
+
+                    Penalty:  200 penalty units.
+
+Note 1:       Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
+
+Note 2:       For **_meter gives an inaccurate measurement_** see section 18H.
+
+##### <a id="18Q"></a>18Q  Using or supplying inaccurate utility meter
+
+             (1)  A person is guilty of an offence if:
+
+                     (a)  the person uses a utility meter for trade; and
+
+                     (b)  the meter gives an inaccurate measurement or gives other information inaccurately.
+
+                    Penalty:  200 penalty units.
+
+Note 1:       Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
+
+Note 2:       For **_meter gives an inaccurate measurement_** see section 18H.
+
+             (2)  A person is guilty of an offence if:
+
+                     (a)  the person sells or otherwise supplies a utility meter for use for trade; and
+
+                     (b)  the meter gives an inaccurate measurement or gives other information inaccurately.
+
+                    Penalty:  200 penalty units.
+
+Note 1:       Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
+
+Note 2:       For **_meter gives an inaccurate measurement_** see section 18H.
+
+##### <a id="18R"></a>18R  Transactions by utility meters to be in prescribed units of measurement
+
+                   A person is guilty of an offence if:
+
+                     (a)  the person sells a quantity of gas, electricity or water for a price; and
+
+                     (b)  the price is not a price determined by reference to a measurement of a quantity in the unit of measurement required by the regulations.
+
+                    Penalty:  50 penalty units.
+
+Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
+
+### Division 3—Verification of utility meters
+
+##### <a id="18S"></a>18S  Overview
+
+* * *
+
+**Overview of Division**
+
+<li class="BoxList" style="margin-left:21.25pt">(1)   This Division deals with
+
+verification of utility meters.</li>
+
+<li class="BoxList" style="margin-left:21.25pt">(2)   Verification is defined in
+
+section 18T.</li>
+
+<li class="BoxList" style="margin-left:21.25pt">(3)   The matter of who is
+
+permitted to verify utility meters is dealt with in section 18U.</li>
+
+<li class="BoxList" style="margin-left:21.25pt">(4)   The requirements for
+
+verification are dealt with in section 18V.</li>
+
+<li class="BoxList" style="margin-left:21.25pt">(5)   The offences associated with
+
+verification are set out in sections 18X and 18Y.</li>
+
+* * *
+
+##### <a id="18T"></a>18T  Meaning of _verification_
+
+                   A utility meter is verified when it does not already bear a verification mark and a verifier permitted to verify the meter:
+
+                     (a)  is satisfied that the utility meter complies with the requirements for verification set out in section 18V; and
+
+                     (b)  marks the meter with the verifier’s verification mark.
+
+Note:          For **_verification mark_** see section 18H.
+
+##### <a id="18U"></a>18U  Who is permitted to verify utility meters?
+
+                   A person is permitted to verify utility meters if:
+
+                     (a)  the person is:
+
+                              (i)  a verifying authority; or
+
+                             (ii)  an employee of a verifying authority; and
+
+                     (b)  the verification is done in accordance with the conditions of the verifying authority’s appointment (if any); and
+
+                     (c)  the verification complies with the requirements in the regulations as to sampling plans and marking of utility meters.
+
+Note:          For **_verifying authority_** see subsection 3(1).
+
+##### <a id="18V"></a>18V  Requirements for verification
+
+                   The requirements for verification of a utility meter are:
+
+                     (a)  the utility meter must operate within the appropriate limits of error that are permitted under the regulations; and
+
+                     (b)  the meter must be of an approved pattern.
+
+Note:          For **_approved pattern_** see section 18H.
+
+##### <a id="18W"></a>18W  Standards of measurements to be used for verification
+
+                   The determination of whether the requirements of verification under section 18V have been complied with must be made as required by section 10.
+
+##### <a id="18X"></a>18X  Offences relating to verification
+
+             (1)  A person is guilty of an offence if:
+
+                     (a)  the person marks a utility meter with a verification mark; and
+
+                     (b)  the person is not permitted to do so.
+
+                    Penalty:  200 penalty units.
+
+Note 1:       Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
+
+Note 2:       See section 18U for when a person is permitted to mark a utility meter with a verification mark.
+
+Note 3:       For **_verification mark_** see section 18H.
+
+             (2)  Subsection (1) does not apply to the employee of a verifying authority who marks a utility meter with a verification mark if:
+
+                     (a)  the employee does so in breach of a condition of the verifying authority’s appointment; and
+
+                     (b)  the verifying authority failed to make the employee aware of the condition.
+
+Note 1:       A defendant bears an evidential burden in relation to the matter in subsection (2), see subsection 13.3(3) of the _Criminal Code_.
+
+Note 2:       For **_verifying authority_** see subsection 3(1).
+
+             (3)  A person is guilty of an offence if:
+
+                     (a)  the person marks a utility meter with a verification mark; and
+
+                     (b)  the mark is not a verification mark but is likely to give the impression that it is a verification mark.
+
+                    Penalty:  200 penalty units.
+
+Note 1:       Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
+
+Note 2:       For **_verification mark_** see section 18H.
+
+             (4)  A person is guilty of an offence if:
+
+                     (a)  the person has an instrument or other thing in his or her possession; and
+
+                     (b)  the instrument or thing is designed for marking a utility meter with a verification mark; and
+
+                     (c)  the person is not permitted to mark a utility meter with that verification mark.
+
+                    Penalty:  200 penalty units.
+
+Note 1:       Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
+
+Note 2:       For **_verification mark_** see section 18H.
+
+Note 3:       See section 18U for when a person is permitted to mark a utility meter with a verification mark.
+
+             (5)  A person is guilty of an offence if:
+
+                     (a)  the person has an instrument or other thing in his or her possession; and
+
+                     (b)  the instrument or thing is designed for making a mark on a utility meter that is not a verification mark but is likely to give the impression that it is such a mark.
+
+                    Penalty:  200 penalty units.
+
+Note 1:       Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
+
+Note 2:       For **_verification mark_** see section 18H.
+
+             (6)  A person is guilty of an offence if:
+
+                     (a)  the person sells or otherwise supplies a utility meter for use for trade, or uses a utility meter for trade; and
+
+                     (b)  the utility meter is marked in contravention of subsection (1) or (3).
+
+                    Penalty:  200 penalty units.
+
+Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
+
+##### <a id="18Y"></a>18Y  Repairer to obliterate verification mark 
+
+             (1)  A person is guilty of an offence if:
+
+                     (a)  the person, in repairing a utility meter, does anything to the utility meter that affects its metrological performance; and
+
+                     (b)  the person does not obliterate any verification mark that the meter bears.
+
+                    Penalty:  200 penalty units.
+
+Note 1:       Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
+
+Note 2:       For **_obliterate_** see section 18H.
+
+             (2)  Subsection (1) does not apply if the effect on the meter can be corrected by normal operational adjustment of the meter.
+
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (2), see subsection 13.3(3) of the _Criminal Code_.
+
+### Division 4—Verifiers of utility meters
+
+##### <a id="18Z"></a>18Z  Overview
+
+* * *
+
+**Overview of Division**
+
+<li class="BoxList" style="margin-left:21.25pt;border:none;padding:0cm">(1)   This
+
+Division deals with verifiers.</li>
+
+<li class="BoxList" style="margin-left:21.25pt;border:none;padding:0cm">(2)   The
+
+Secretary is a verifying authority (see section 18ZA).</li>
+
+<li class="BoxList" style="margin-left:21.25pt;border:none;padding:0cm">(3)   Other
+
+persons may apply for appointment as verifying authorities (see section 18ZB).</li>
+
+<li class="BoxList" style="margin-left:21.25pt;border:none;padding:0cm">(4)   The
+
+Secretary appoints those verifying authorities subject to conditions (see
+
+sections 18ZC and 18ZD).</li>
+
+<li class="BoxList" style="margin-left:21.25pt;border:none;padding:0cm">(5)   The
+
+Secretary may take disciplinary action against a verifying authority appointed
+
+under section 18ZC that breaches a condition of its appointment (see
+
+section 18ZJ).</li>
+
+<li class="BoxList" style="margin-left:21.25pt;border:none;padding:0cm">(6)   A verifying
+
+authority appointed under section 18ZC has a right to appeal to the
+
+Administrative Appeals Tribunal in certain circumstances (see section 18ZK).</li>
+
+<li class="BoxList" style="margin-left:21.25pt;border:none;padding:0cm">(7)   The
+
+Secretary may also appoint Government officials or bodies as verifying
+
+authorities (see section 18ZKA). These appointments may be subject to
+
+conditions.</li>
+
+<li class="BoxList" style="margin-left:21.25pt;border:none;padding:0cm">(8)   The
+
+Secretary allocates verification marks for use by verifiers (see sections 18ZE
+
+and 18ZKB) and there is a register of those marks (see section 18ZF).</li>
+
+* * *
+
+##### <a id="18ZA"></a>18ZA  Secretary is a verifying authority
+
+             (1)  The Secretary is a verifying authority.
+
+             (2)  The Secretary may verify any class of utility meters.
+
+##### <a id="18ZB"></a>18ZB  Application for approval as a verifying authority of utility meters
+
+             (1)  A person may apply for appointment as a verifying authority.
+
+             (2)  An application must be:
+
+                     (a)  made in the form approved by the Secretary; and
+
+                     (b)  given to the Secretary.
+
+##### <a id="18ZC"></a>18ZC  Appointment of verifying authorities following application for appointment
+
+             (1)  The Secretary may, in writing, appoint a person who has applied under section 18ZB to be a verifying authority to verify utility meters.
+
+             (2)  The appointment must specify the class or classes of utility meters that the verifying authority may verify under the appointment.
+
+             (3)  An appointment is subject to:
+
+                     (a)  the conditions set out in paragraphs 18ZD(a) to (g); and
+
+                     (b)  any other conditions that the Secretary imposes.
+
+             (4)  The Secretary may impose a condition referred to in paragraph (3)(b) at the time of making the appointment or after the appointment is made. The Secretary may vary or revoke a condition at any time.
+
+             (5)  Except when acting under subparagraph 18ZJ(1)(a)(ii) (following a breach of conditions), the Secretary must not impose, vary or revoke a condition unless the verifying authority has first been consulted.
+
+##### <a id="18ZD"></a>18ZD  Conditions on appointment of verifying authorities
+
+                   The appointment of a person as a verifying authority under section 18ZC is subject to the following conditions:
+
+                     (a)  that the authority is accredited by the National Association of Testing Authorities to test the class or classes of utility meters specified in the authority’s appointment;
+
+                     (b)  if the authority employs persons to verify utility meters—that the authority provide a list to the Secretary of the employees who will be verifying utility meters;
+
+                     (c)  that the authority, and its employees (if any), comply with the requirements of this Part;
+
+                     (d)  that the authority, and its employees (if any), comply with the requirements of authorised officers made under Division 5 (dealing with enforcement);
+
+                     (e)  that the authority maintain such reference standards of measurement as the Secretary specifies in writing;
+
+                      (f)  that the authority participate in such training in respect of the verification of utility meters as the Secretary requires in writing;
+
+                     (g)  that the authority report as required in writing by the Secretary concerning its role as a verifying authority.
+
+##### <a id="18ZE"></a>18ZE  Secretary must allocate verification marks
+
+             (1)  When the Secretary appoints a verifying authority under section 18ZC, the Secretary must allocate the following verification marks for use by the authority, or its employees (if any), when verifying utility meters:
+
+                     (a)  if the authority will be personally undertaking the verification—a mark for use by the authority _;_ and
+
+                     (b)  if the authority will be employing persons to undertake the verification—a separate mark for use by each employee.
+
+             (2)  The Secretary must allocate a separate mark for use by each delegate of the Secretary who verifies utility meters when the delegate undertakes the verification of utility meters.
+
+##### <a id="18ZF"></a>18ZF  Secretary to keep register of verification marks
+
+                   The Secretary must keep a register of verification marks allocated under sections 18ZE and 18ZKB.
+
+##### <a id="18ZG"></a>18ZG  Notice to verifying authority of intention to take disciplinary action
+
+                   If the Secretary is of the opinion that there may be grounds for taking disciplinary action under section 18ZJ against a verifying authority appointed under section 18ZC because it is in breach of a condition of its appointment, the Secretary must:
+
+                     (a)  give the authority written notice of the Secretary’s opinion specifying the reasons for the opinion; and
+
+                     (b)  invite the authority to make a written submission to the Secretary within 28 days.
+
+##### <a id="18ZH"></a>18ZH  Secretary may seek further information
+
+                   The Secretary may ask the verifying authority, in writing, to give to the Secretary, within the period specified in the request, information for the purpose of making a decision under section 18ZJ.
+
+##### <a id="18ZI"></a>18ZI  Secretary must consider authority’s submission and information in making a decision under section 18ZJ
+
+                   In making a decision under section 18ZJ in respect of a verifying authority, the Secretary must have regard to the matters raised in the authority’s submission (if any) and any information received by the Secretary under section 18ZH.
+
+##### <a id="18ZJ"></a>18ZJ  Taking of disciplinary action against a verifying authority
+
+             (1)  If the Secretary is satisfied that a verifying authority appointed under section 18ZC has breached a condition of its appointment, the Secretary may decide:
+
+                     (a)  to take any or all of the following actions in respect of the breach:
+
+                              (i)  to reprimand the authority; 
+
+                             (ii)  to vary or revoke a condition of the authority’s appointment imposed under paragraph 18ZC(3)(b) or to impose a further condition on the authority’s appointment;
+
+                            (iii)  to suspend the authority’s appointment for up to 12 months; or
+
+                     (b)  to revoke the authority’s appointment.
+
+(2)  The following actions take effect on a day specified in writing by the Secretary:
+
+                     (a)  a variation or revocation of a condition of an authority’s appointment;
+
+                     (b)  the imposition of a further condition on an authority’s appointment;
+
+                     (c)  the revocation of an authority’s appointment.
+
+             (3)  Written notice of a decision of the Secretary under this section must be given to the verifying authority concerned. The notice must also include reasons for the decision.
+
+             (4)  The day specified by the Secretary under subsection (2) must not be a day earlier than the seventh day after the day on which written notice of the Secretary’s decision under this section is given to the authority.
+
+##### <a id="18ZK"></a>18ZK  Review of decisions
+
+                   A person whose interests are affected may apply to the Administrative Appeals Tribunal for review of a decision of the Secretary:
+
+                     (a)  under section 18ZC to refuse to appoint the person as a verifying authority; and
+
+                     (b)  under paragraph 18ZC(3)(b) to impose a condition on a verifying authority’s appointment; and
+
+                     (c)  under subsection 18ZC(4) to vary or revoke a condition on a verifying authority’s appointment; and
+
+(d)  under section 18ZJ to take disciplinary action in respect of a verifying authority.
+
+##### <a id="18ZKA"></a>18ZKA  Appointment of Commonwealth or State officials etc. as verifying authorities
+
+             (1)  The Secretary may, in writing, appoint one or more of the following persons to be a verifying authority to verify utility meters:
+
+                     (a)  an APS employee (whether or not in the Department);
+
+                     (b)  a Commonwealth authority;
+
+                     (c)  an employee (whether or not an APS employee) of a Commonwealth authority;
+
+                     (d)  the holder of an office established by or under a law of the Commonwealth;
+
+                     (e)  a body corporate established for a public purpose by or under a law of a State or Territory;
+
+                      (f)  a State or Territory officer.
+
+             (2)  The Secretary may appoint a body or person mentioned in paragraph (1)(e) or (f) only if the State or Territory concerned agrees to the appointment.
+
+             (3)  The appointment must specify:
+
+                     (a)  the class or classes of utility meters that the verifying authority may verify under the appointment; and
+
+                     (b)  the period of the appointment.
+
+             (4)  An appointment is subject to conditions that the Secretary imposes.
+
+             (5)  The Secretary may impose a condition at the time of making the appointment or after the appointment is made.
+
+##### <a id="18ZKB"></a>18ZKB  Secretary must allocate verification marks to verifying authorities appointed under section 18ZKA
+
+                   When the Secretary appoints a verifying authority under section 18ZKA, the Secretary must allocate the following verification marks for use by the authority, or its employees (if any), when verifying utility meters:
+
+                     (a)  if the authority will be personally undertaking the verification—a mark for use by the authority; and
+
+                     (b)  if the authority will be employing persons to undertake the verification—a separate mark for use by each employee.
+
+### Division 5—Enforcement
+
+##### <a id="18ZL"></a>18ZL  Overview of Division
+
+* * *
+
+**Overview of Division**
+
+<li class="BoxList" style="margin-left:21.25pt">(1)   This Division deals with
+
+authorised officers and the enforcement and monitoring powers available to
+
+authorised officers in respect of utility meters.</li>
+
+<li class="BoxList" style="margin-left:21.25pt">(2)   Subdivision A deals with the
+
+appointment of authorised officers and identity cards.</li>
+
+<li class="BoxList" style="margin-left:21.25pt">(3)   Subdivision B sets out the
+
+general powers of authorised officers under this Part.</li>
+
+<li class="BoxList" style="margin-left:21.25pt">(4)   Subdivision C sets out the
+
+obligations of authorised officers.</li>
+
+<li class="BoxList" style="margin-left:21.25pt">(5)   Subdivision D sets out the
+
+rights and responsibilities of occupiers.</li>
+
+<li class="BoxList" style="margin-left:21.25pt">(6)   Subdivision E deals with
+
+warrants.</li>
+
+* * *
+
+#### Subdivision A—Appointment of authorised officers and identity cards
+
+##### <a id="18ZM"></a>18ZM  Appointment of authorised officers
+
+             (1)  The Secretary may, in writing, appoint one or more of the following persons to be an authorised officer for the purposes of exercising the powers of an authorised officer under this Part:
+
+                     (a)  an APS employee in the Department;
+
+                     (b)  an employee (whether or not an APS employee) of a Commonwealth authority;
+
+                     (c)  the holder of an office established by or under a law of the Commonwealth;
+
+                     (d)  a State or Territory officer.
+
+          (1A)  The Secretary may appoint a person mentioned in paragraph (1)(d) only if the State or Territory concerned agrees to the appointment.
+
+             (2)  In exercising powers or performing functions as an authorised officer, an authorised officer must comply with any directions of the Secretary.
+
+##### <a id="18ZN"></a>18ZN  Identity cards
+
+             (1)  The Secretary must issue an identity card to an authorised officer in the form prescribed by the regulations. The identity card must contain a recent photograph of the authorised officer.
+
+             (2)  A person is guilty of an offence if:
+
+                     (a)  the person has been issued with an identity card; and
+
+                     (b)  the person ceases to be an authorised officer; and
+
+                     (c)  the person does not, immediately after so ceasing, return the identity card to the Secretary.
+
+                    Penalty:  1 penalty unit.
+
+Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
+
+             (3)  An authorised officer must carry the identity card at all times when exercising powers or performing functions as an authorised officer.
+
+#### Subdivision B—Powers of authorised officers
+
+##### <a id="18ZO"></a>18ZO  Powers available to authorised officers for monitoring compliance 
+
+             (1)  For the purpose of finding out whether this Part or the regulations made under this Part have been complied with, an authorised officer may:
+
+                     (a)  enter any business premises at any reasonable time of the  day; and
+
+                     (b)  exercise the powers set out in section 18ZQ.
+
+             (2)  An authorised officer is not authorised to enter premises under subsection (1) unless:
+
+                     (a)  the occupier of the premises has consented to the entry and the officer has shown his or her identity card if required by the occupier; or
+
+                     (b)  the entry is made under a warrant issued under section 18ZZD.
+
+             (3)  If the authorised officer is on premises with the consent of the occupier, the authorised officer must leave the premises if the occupier asks the authorised officer to do so.
+
+##### <a id="18ZP"></a>18ZP  Offence powers
+
+             (1)  This section applies if an authorised officer has reasonable grounds for suspecting that there may be evidential material on any business premises.
+
+             (2)  The authorised officer may:
+
+                     (a)  enter the premises:
+
+                              (i)  with the consent of the occupier after producing his or her identity card for the inspection of the occupier; or
+
+                             (ii)  under a warrant issued under section 18ZZE; and
+
+                     (b)  exercise the powers set out in section 18ZQ in relation to looking for the evidential material; and
+
+                     (c)  seize the evidential material, if the authorised officer finds it on the premises.
+
+             (3)  If the evidential material referred to in subsection (1) is or includes information in a written or electronic form, an authorised officer may operate equipment on the premises to see whether:
+
+                     (a)  the equipment; or
+
+                     (b)  a disk, tape or other storage device that:
+
+                              (i)  is on the premises; and
+
+                             (ii)  can be used with or is associated with the equipment;
+
+contains the information.
+
+             (4)  If the authorised officer, after operating equipment at the premises, finds that the equipment, or that a disk, tape or other storage device at the premises contains the information, he or she may:
+
+                     (a)  seize the equipment or the disk, tape or other storage device; or
+
+                     (b)  if the information can, by using facilities at the premises, be put in documentary form—operate the facilities to put the information in that form and seize the documents so produced; or
+
+                     (c)  if the information can be transferred to disk, tape or other storage device that:
+
+                              (i)  is brought to the premises; or 
+
+                             (ii)  is at the premises and whose use for the purpose has been agreed to in writing by the occupier of the premises; 
+
+operate the equipment or other facilities to copy the information to the storage device and remove the storage device from the premises.
+
+             (5)  An authorised officer may seize equipment under paragraph (4)(a) only if:
+
+                     (a)  it is not practicable to put the relevant information in documentary form as mentioned in paragraph (4)(b) or to copy the records as mentioned in paragraph (4)(c); or
+
+                     (b)  possession by the occupier of the equipment could constitute an offence.
+
+             (6)  If:
+
+                     (a)  in the course of searching for a particular thing, an authorised officer finds another thing that the authorised officer believes on reasonable grounds to be evidential material; and
+
+                     (b)  the authorised officer believes, on reasonable grounds, that it is necessary to seize that other thing in order to prevent its concealment, loss or destruction, or its use in committing, continuing or repeating an offence against this Part or the regulations;
+
+the authorised officer may seize that other thing.
+
+             (7)  If the authorised officer is on premises with the consent of the occupier, the authorised officer must leave the premises if the occupier asks the authorised officer to do so.
+
+##### <a id="18ZQ"></a>18ZQ  General powers of authorised officers under this Part
+
+                   The powers that an authorised officer may exercise in relation to premises under section 18ZO and 18ZP are as follows:
+
+                     (a)  to search the premises and any thing on the premises;
+
+                     (b)  to take photographs or make video or audio recordings or sketches of the premises or any thing on the premises;
+
+                     (c)  to take samples of utility meters;
+
+                     (d)  to inspect any book, record or document on the premises;
+
+                     (e)  to take extracts from or make copies of any such book, record or document;
+
+                      (f)  to take onto the premises such equipment and materials as the authorised officer requires for the purpose of exercising powers in relation to the premises.
+
+##### <a id="18ZR"></a>18ZR  Authorised officer may request persons to answer questions
+
+             (1)  If the authorised officer was only authorised to enter business premises because the occupier of the premises consented to the entry—the authorised officer may ask the occupier to:
+
+                     (a)  answer any questions put by the authorised officer; and
+
+                     (b)  produce any book, record or document requested by the authorised officer.
+
+             (2)  If the authorised officer was authorised to enter the premises by a warrant under section 18ZZD or 18ZZE—the authorised officer has power to require any person in or on the premises to:
+
+                     (a)  answer any questions put by the authorised officer; and
+
+                     (b)  produce any book, record or document requested by the authorised officer.
+
+             (3)  A person is guilty of an offence if the person refuses or fails to comply with a requirement under subsection (2).
+
+                    Penalty:  200 penalty units.
+
+Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
+
+             (4)  A person is excused from complying with a requirement of subsection (2) if the answer to the question or the production of the document might tend to incriminate the person or expose the person to a penalty.
+
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (4), see subsection 13.3(3) of the _Criminal Code_.
+
+             (5)  A person is guilty of an offence if the person:
+
+                     (a)  gives information to an authorised officer, either orally or in writing; and
+
+                     (b)  gives the information knowing that it is false or misleading in a material particular.
+
+                    Penalty:  12 months imprisonment.
+
+Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
+
+#### Subdivision C—Obligations of authorised officers
+
+##### <a id="18ZS"></a>18ZS  Authorised officer must produce identity card on request
+
+                   An authorised officer is not entitled to exercise any powers under this Part in relation to premises if:
+
+                     (a)  the occupier of the premises requires the authorised officer to produce his or her identity card for inspection by the occupier; and
+
+                     (b)  the authorised officer fails to comply with the requirement.
+
+##### <a id="18ZT"></a>18ZT  Details of warrant to be given to occupier etc.
+
+             (1)  If a warrant in relation to business premises is being executed and the occupier of the premises or another person who apparently represents the occupier is present at the premises, the authorised officer must make available to that person a copy of the warrant.
+
+             (2)  The authorised officer must identify himself or herself to that person.
+
+             (3)  The copy of the warrant referred to in subsection (1) need not include the signature of the magistrate who issued the warrant.
+
+Note:          Warrants are issued under sections 18ZZD and 18ZZE.
+
+##### <a id="18ZU"></a>18ZU  Consent
+
+             (1)  Before obtaining the consent of a person for the purposes of paragraph 18ZO(2)(a) and subparagraph 18ZP(2)(a)(i), the authorised officer must inform the person that he or she may refuse consent.
+
+             (2)  An entry of an authorised officer by virtue of the consent of a person is not lawful unless the person voluntarily consented to the entry.
+
+##### <a id="18ZV"></a>18ZV  Announcement before entry
+
+                   An authorised officer must, before entering premises under a warrant:
+
+                     (a)  announce that he or she is authorised to enter the premises; and
+
+                     (b)  give any person at the premises an opportunity to allow entry to the premises.
+
+##### <a id="18ZW"></a>18ZW  Compensation for damage to electronic equipment
+
+             (1)  This section applies if:
+
+                     (a)  as a result of equipment being operated as mentioned in section 18ZP:
+
+                              (i)  damage is caused to the equipment; or
+
+                             (ii)  the data recorded on the equipment is damaged; or
+
+                            (iii)  programs associated with the use of the equipment, or with the use of the data, are damaged or corrupted; and
+
+                     (b)  the damage or corruption occurs because:
+
+                              (i)  insufficient care was exercised in selecting the person who was to operate the equipment; or
+
+                             (ii)  insufficient care was exercised by the person operating the equipment.
+
+             (2)  The Commonwealth must pay the owner of the equipment, or the user of the data or programs, such reasonable compensation for the damage or corruption as the Commonwealth and the owner or user agree on.
+
+             (3)  However, if the owner or user and the Commonwealth fail to agree, the owner or user may institute proceedings in the Federal Court of Australia for such reasonable amount of compensation as the Court determines.
+
+             (4)  In determining the amount of compensation payable, regard is to be had to whether the occupier of the premises, or the occupier’s employees or agents, if they were available at the time, provided any appropriate warning or guidance on the operation of the equipment.
+
+             (5)  For the purposes of subsection (1):
+
+                    <a name="damag"></a>**_damage_**, in relation to data, includes damage by erasure of data or addition of other data.
+
+##### <a id="18ZX"></a>18ZX  Copies of seized things to be provided
+
+             (1)  Subject to subsection (2), if an authorised officer seizes, under a warrant in relation to premises:
+
+                     (a)  a document, film, computer file or other thing that can be readily copied; or
+
+                     (b)  a storage device the information in which can be readily copied;
+
+the authorised officer must, if requested to do so by the occupier of the premises or another person who apparently represents the occupier and who is present when the warrant is executed, give a copy of the thing or the information to that person as soon as practicable after the seizure.
+
+             (2)  Subsection (1) does not apply if:
+
+                     (a)  the thing that has been seized was seized under paragraph 18ZP(4)(b) or (c); or
+
+                     (b)  possession by the occupier of the document, film, computer file, thing or information could constitute an offence.
+
+##### <a id="18ZY"></a>18ZY  Receipts for things seized under warrant
+
+             (1)  If a thing is seized under this Part, the authorised officer must provide a receipt for the thing.
+
+             (2)  If 2 or more things are seized or moved, they may be covered in the one receipt.
+
+##### <a id="18ZZ"></a>18ZZ  Retention of seized things
+
+             (1)  Subject to any contrary order of a court, if an authorised officer seizes a thing under this Part, an authorised officer must return it if:
+
+                     (a)  the reason for its seizure no longer exists or it is decided that it is not to be used in evidence; or
+
+                     (b)  the period of 60 days after its seizure ends;
+
+whichever first occurs, unless the thing is forfeited or forfeitable to the Commonwealth.
+
+             (2)  At the end of the 60 days specified in subsection (1), an authorised officer must take reasonable steps to return the thing to the person from whom it was seized, unless:
+
+                     (a)  proceedings in respect of which the thing may afford evidence were instituted before the end of the 60 days and have not been completed (including an appeal to a court in relation to those proceedings); or
+
+                     (b)  the authorised officer may retain the thing because of an order under section 18ZZA; or
+
+                     (c)  an authorised officer is otherwise authorised (by a law, or an order of a court, of the Commonwealth or of a State or Territory) to retain, destroy or dispose of the thing.
+
+             (3)  The thing may be returned under subsection (2) either unconditionally or on such terms and conditions as the Secretary sees fit.
+
+##### <a id="18ZZA"></a>18ZZA  Magistrate may permit a thing to be retained
+
+             (1)  An authorised officer may apply to a magistrate for an order that he or she may retain the thing for a further period if:
+
+                     (a)  before the end of 60 days after the seizure; or
+
+                     (b)  before the end of a period previously specified in an order of a magistrate under this section;
+
+proceedings in respect of which the thing may afford evidence have not commenced.
+
+             (2)  If the magistrate is satisfied that it is necessary for an authorised officer to continue to retain the thing:
+
+                     (a)  for the purposes of an investigation as to whether an offence against this Part has been committed; or
+
+                     (b)  to enable evidence of an offence against this Part to be secured for the purposes of a prosecution;
+
+the magistrate may order that an authorised officer may retain the thing for a period (not being a period exceeding 3 years) specified in the order.
+
+             (3)  Before making the application, the authorised officer must:
+
+                     (a)  take reasonable steps to discover who has an interest in the retention of the thing; and
+
+                     (b)  if it is practicable to do so, notify each person whom the authorised officer believes to have such an interest of the proposed application.
+
+#### Subdivision D—Occupier’s rights and responsibilities
+
+##### <a id="18ZZB"></a>18ZZB  Occupier entitled to be present during search
+
+             (1)  If a warrant in relation to business premises is being executed and the occupier of the premises, or another person who apparently represents the occupier is present at the premises, the person is entitled to observe the search being conducted.
+
+             (2)  The right to observe the search being conducted ceases if the person impedes the search.
+
+             (3)  This section does not prevent 2 or more areas of the premises being searched at the same time.
+
+##### <a id="18ZZC"></a>18ZZC  Occupier to provide authorised officer with all facilities and assistance
+
+                   The occupier, or another person who apparently represents the occupier, of business premises to which a monitoring warrant or an offence warrant relates must provide the executing officer in relation to the warrant and any person assisting that officer with all reasonable facilities and assistance for the effective exercise of their powers.
+
+#### Subdivision E—Warrants
+
+##### <a id="18ZZD"></a>18ZZD  Monitoring warrants
+
+             (1)  An authorised officer may apply to a magistrate for a warrant under this section in relation to business premises.
+
+             (2)  Subject to subsection (3), the magistrate may issue the warrant if the magistrate is satisfied, by information on oath, that it is reasonably necessary that one or more authorised officers should have access to the premises for the purposes of finding out whether this Part or the regulations under this Part have been complied with.
+
+             (3)  The magistrate must not issue the warrant unless the authorised officer or some other person has given to the magistrate, either orally or by affidavit, such further information (if any) as the magistrate requires concerning the grounds on which the issue of the warrant is being sought.
+
+             (4)  The warrant must:
+
+                     (a)  authorise one or more authorised officers (whether or not named in the warrant), with such assistance and by such force as is necessary and reasonable:
+
+                              (i)  to enter the premises; and
+
+                             (ii)  to exercise the powers set out in section 18ZQ in relation to the premises; and
+
+                     (b)  state whether the entry is authorised to be made at any time of the day or during specified hours of the day; and
+
+                     (c)  specify the day (not more than 6 months after the issue of the warrant) on which the warrant ceases to have effect; and
+
+                     (d)  state the purpose for which the warrant is issued.
+
+##### <a id="18ZZE"></a>18ZZE  Offence related warrants
+
+             (1)  An authorised officer may apply to a magistrate for a warrant under this section in relation to business premises.
+
+             (2)  Subject to subsection (3), the magistrate may issue the warrant if the magistrate is satisfied, by information on oath, that there are reasonable grounds for suspecting that there is, or there may be within the next 72 hours, in or on the premises evidential material.
+
+             (3)  The magistrate must not issue the warrant unless the authorised officer or some other person has given to the magistrate, either orally or by affidavit, such further information (if any) as the magistrate requires concerning the grounds on which the issue of the warrant is being sought.
+
+             (4)  The warrant must:
+
+                     (a)  name one or more authorised officers; and
+
+                     (b)  authorise the persons so named, with such assistance and by such force as is necessary and reasonable:
+
+                              (i)  to enter the premises; and
+
+                             (ii)  to exercise the powers set out in sections 18ZP and 18ZQ; and
+
+                            (iii)  to seize the evidential material; and
+
+                     (c)  state whether the entry is authorised to be made at any time of the day or during specified hours of the day; and
+
+                     (d)  specify the day (not more than one week after the issue of the warrant) on which the warrant ceases to have effect; and
+
+                     (e)  state the purpose for which the warrant is issued.
+
+##### <a id="18ZZF"></a>18ZZF  Offence related warrants by telephone
+
+             (1)  If, in an urgent case, an authorised officer considers it necessary to do so, the person may apply to a magistrate by telephone for a warrant under section 18ZZE in relation to business premises.
+
+             (2)  Before applying for the warrant, the person must prepare an information of the kind mentioned in subsection 18ZZE(2) in relation to the premises that sets out the grounds on which the warrant is sought.
+
+             (3)  If it is necessary to do so, the person may apply for the warrant before the information is sworn.
+
+             (4)  If the magistrate is satisfied:
+
+                     (a)  after having considered the terms of the information; and
+
+                     (b)  after having received such further information (if any) as the magistrate requires concerning the grounds on which the issue of the warrant is being sought;
+
+that there are reasonable grounds for issuing the warrant, the magistrate may complete and sign the same warrant that the magistrate would issue under section 18ZZE if the application had been made under that section.
+
+             (5)  If the magistrate completes and signs the warrant:
+
+                     (a)  the magistrate must:
+
+                              (i)  tell the authorised officer what the terms of the warrant are; and
+
+                             (ii)  tell the authorised officer the day on which and the time at which the warrant was signed; and
+
+                            (iii)  tell the authorised officer the day (not more than one week after the magistrate completes and signs the warrant) on which the warrant ceases to have effect; and
+
+                            (iv)  record on the warrant the reasons for granting the warrant; and
+
+                     (b)  the authorised officer must:
+
+                              (i)  complete a form of warrant in the same terms as the warrant completed and signed by the magistrate; and
+
+                             (ii)  write on the form the name of the magistrate and the day on which and the time at which the warrant was signed.
+
+             (6)  The authorised officer must also, not later than the day after the day of expiry or execution of the warrant, whichever is the earlier, send to the magistrate:
+
+                     (a)  the form of warrant completed by the person; and
+
+                     (b)  the information referred to in subsection (2), which must have been duly sworn.
+
+             (7)  When the magistrate receives those documents, the magistrate must:
+
+                     (a)  attach them to the warrant that the magistrate completed and signed; and
+
+                     (b)  deal with them in the way in which the magistrate would have dealt with the information if the application had been made under section 18ZZE.
+
+             (8)  A form of warrant duly completed under subsection (5) is authority for any entry, search, seizure or other exercise of a power that the warrant signed by the magistrate authorises.
+
+             (9)  If:
+
+                     (a)  it is material, in any proceedings, for a court to be satisfied that an exercise of a power was authorised by this section; and
+
+                     (b)  the warrant signed by the magistrate authorising the exercise of the power is not produced in evidence;
+
+the court must assume, unless the contrary is proved, that the exercise of the power was not authorised by such a warrant.
+
+           (10)  A reference in this Part to a warrant under section 18ZZE includes a reference to a warrant signed by a magistrate under this section.
+
+## Part VI—Miscellaneous
+
+##### <a id="19"></a>19  Maintaining of standards of measurement etc. before regulations prescribing units take effect
+
+                   Where regulations that prescribe units of measurement of physical quantities are made under section 7A, but the regulations are not, or part of the regulations is not, to take effect immediately upon the date of notification of the regulations in the _Gazette_:
+
+                     (a)  standards of measurement of those physical quantities may be maintained under section 8;
+
+                     (b)  the powers conferred by section 8A may be exercised; and
+
+                     (c)  State primary standards of measurement, and reference standards of measurement, of those physical quantities may be verified, and certificates issued in respect of the verification;
+
+at any time after the date of notification of the regulations in the _Gazette_, as if the whole of the regulations had taken effect on that date.
+
+##### <a id="19A"></a>19A  Patterns of instruments
+
+             (1)  The regulations may make provision for or in relation to:
+
+                     (a)  the examination of patterns of measuring instruments;
+
+                     (b)  the approval and verification of patterns of measuring instruments as patterns of measuring instruments suitable for:
+
+                              (i)  use for trade; and
+
+                             (ii)  any other legal purpose;
+
+                     (c)  the issuing of certificates in respect of the approval and verification of patterns of measuring instruments; and
+
+                     (d)  the reception in evidence of a document purporting to be such a certificate and the admissibility of the matters certified to as evidence.
+
+             (2)  The regulations made under subsection (1) may provide that:
+
+                     (a)  examinations may be carried out;
+
+                     (b)  approvals may be given; and
+
+                     (c)  certificates may be issued;
+
+by the Chief Metrologist, a delegate of the Chief Metrologist or another person on behalf of the Chief Metrologist.
+
+             (4)  Without limiting the matters that may be provided for in regulations made for the purposes of subsection (1), the regulations may provide that the granting of approval of a pattern of a measuring instrument as a pattern suitable for use for trade may be made subject to the retention of the measuring instrument or a part of the measuring instrument by the Chief Metrologist.
+
+             (6)  Before the Governor-General makes a regulation for the purposes of subsection (1), the Minister must consult appropriate State authorities.
+
+             (7)  Before the Governor-General makes a regulation for the purposes of subsection (1), the Minister must also either:
+
+                     (a)  be satisfied that the regulation is not inconsistent with a specification published by the International Organisation of Legal Metrology regarding the examination and approval of patterns of measuring instrument; or
+
+                     (b)  if the regulation is inconsistent with a specification—be satisfied that:
+
+                              (i)  the inconsistency is in the national interest; or
+
+                             (ii)  it is not practicable to comply with the specification because of particular circumstances applying in Australia.
+
+##### <a id="19AAA"></a>19AAA  Tolerances
+
+             (1)  The regulations may provide that a certificate issued under paragraph 19A(1)(c) in respect of a pattern of a measuring instrument (**_original instrument_**) must specify:
+
+                     (a)  the limits of error that may be tolerated in a measuring instrument of the same kind as the original instrument:
+
+                              (i)  when the instrument is tested for the purposes of this Act; and
+
+                             (ii)  if a law of a State or Territory requires that, at verification or re-verification of the instrument, it must operate within the limits of error that may be tolerated under this Act at verification or re-verification—when the instrument is verified or re-verified for the purposes of that law; and
+
+                     (b)  the procedures to be followed to ascertain whether the instrument operates within those limits of error.
+
+             (2)  If a certificate issued under paragraph 19A(1)(c) and in force immediately before the commencement of this section specifies an amount as the amount of error that may be tolerated when an instrument of the same kind as the original instrument is verified for the purposes of a law referred to in subparagraph (1)(a)(ii), the certificate has effect after the commencement of this section as if the amount were specified as being the limits of error that may be tolerated when the instrument is:
+
+                     (a)  verified for the purposes of that law; or
+
+                     (b)  tested for the purposes of this Act.
+
+##### <a id="19AAB"></a>19AAB  Measuring instrument—accordance with pattern
+
+             (1)  The regulations may provide for:
+
+                     (a)  the requirements that are to be satisfied before a measuring instrument with an approved pattern is taken, for the purposes of this Act, to be in accordance with the pattern; and
+
+                     (b)  the procedures to be followed to ascertain whether measuring instruments with an approved pattern are in accordance with the pattern.
+
+             (2)  The regulations may provide that the procedures referred to in paragraph (1)(b) may be carried out:
+
+                     (a)  by the Chief Metrologist; or
+
+                     (b)  by a delegate of the Chief Metrologist; or
+
+                     (c)  by another person on behalf of the Chief Metrologist.
+
+             (3)  Before the Governor-General makes a regulation for the purposes of subsection (1), the Minister must consult appropriate State authorities.
+
+             (5)  Any regulations made under this section must provide adequate safeguards for the rights of persons affected.
+
+##### <a id="19B"></a>19B  Offences
+
+                   A person shall not falsely represent:
+
+                     (a)  that a pattern of a measuring instrument is in accordance with a pattern approved under the regulations as a pattern of a measuring instrument suitable for use for trade; or
+
+                     (b)  that a measuring instrument is in accordance with a pattern so approved.
+
+                    Penalty:  $6,000.
+
+##### <a id="20"></a>20  Regulations
+
+             (1)  The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters which are required or permitted to be prescribed, or which are necessary or convenient to be prescribed for carrying out or giving effect to this Act, and in particular:
+
+                    (aa)  providing for the verification of standards of measurement; and
+
+                     (a)  providing for or in relation to the issuing of certificates in respect of the verification of standards of measurement, for the reception in evidence of a document purporting to be such a certificate and for such a certificate to be evidence of the matters stated in it; and
+
+                     (b)  providing that a reference standard of measurement of a particular denomination that was found, upon verification, not to be greater or less than that denomination by an amount exceeding an amount specified in the regulations is, unless otherwise stated in the certificate issued in respect of the verification of the standard, to be deemed to be of a value equal to its denomination; and
+
+                     (c)  providing for the certification of reference materials; and
+
+                     (d)  providing for the certification of measuring instruments; and
+
+                     (e)  providing for or in relation to the issuing of certificates in respect of the certification of reference materials or measuring instruments, for the reception in evidence of a document purporting to be such a certificate and for such a certificate to be evidence of the matters stated in it; and
+
+                      (f)  providing for the exemption from the operation of Part VA of classes of gas, electricity and water meters; and
+
+                     (g)  providing for sampling plans for utility meter verification and the verification marking of utility meters used for trade; and
+
+                     (h)  providing for the positioning of, and access to, utility meters in order to facilitate their use for trade and their verification; and
+
+                      (i)  providing for the Commonwealth to audit the verification of utility meters used for trade undertaken by verifying authorities and the provision of labour, facilities and equipment for those purposes; and
+
+                      (j)  providing for the verification of utility meters used for trade; and
+
+                     (k)  providing for a unit of measurement for the sale of a quantity of gas, electricity or water; and
+
+                      (l)  prescribing a fee for activities undertaken in respect of:
+
+                              (i)  the examination and certification of patterns of measuring instruments; and
+
+                             (ii)  the verification of utility meters used for trade.
+
+                    (m)  providing for the time for payment of a fee.
+
+             (2)  The regulations may set a fee mentioned in subsection (1) by setting the amount of the fee or a way of working out the fee.
+
+             (3)  A fee mentioned in subsection (1) must be reasonably related to the expenses incurred or to be incurred for the activities undertaken and must not be such as to amount to taxation.
+
+# Notes to the _National Measurement Act 1960_
+
+### Note 1
+
+The _National Measurement Act 1960_ as shown in this compilation comprises Act No. 64, 1960 amended as indicated in the Tables below. 
+
+For application, saving or transitional provisions made by the _National Measurement Amendment Act 2004_, _see_ Act No. 27, 2004.
+
+All relevant information pertaining to application, saving or transitional provisions prior to 31 March 1999 is not included in this compilation. For subsequent information _see_ Table A.
+
+### Table of Acts
+
+<table>
+<colgroup>
+  <col width="31%">
+  <col width="16%">
+  <col width="18%">
+  <col width="22%">
+  <col width="14%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>Act</div>
+    </td>
+    <td>
+      <div>Number 
+and year</div>
+    </td>
+    <td>
+      <div>Date 
+of Assent</div>
+    </td>
+    <td>
+      <div>Date of commencement</div>
+    </td>
+    <td>
+      <div>Application, saving or transitional provisions</div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>Weights and Measures (National Standards) Act 1960</div>
+  </td>
+  <td>
+    <div>64, 1960</div>
+  </td>
+  <td>
+    <div>30 Nov 1960</div>
+  </td>
+  <td>
+    <div>28 Dec 1960</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Weights and Measures (National Standards) Act 1964</div>
+  </td>
+  <td>
+    <div>6, 1964</div>
+  </td>
+  <td>
+    <div>4 May 1964</div>
+  </td>
+  <td>
+    <div>4 May 1964</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Statute Law Revision (Decimal Currency) Act 1966</div>
+  </td>
+  <td>
+    <div>93, 1966</div>
+  </td>
+  <td>
+    <div>29 Oct 1966</div>
+  </td>
+  <td>
+    <div>1 Dec 1966</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Statute Law Revision Act 1973</div>
+  </td>
+  <td>
+    <div>216, 1973</div>
+  </td>
+  <td>
+    <div>19 Dec 1973</div>
+  </td>
+  <td>
+    <div>31 Dec 1973</div>
+  </td>
+  <td>
+    <div>Ss. 9(1) and 10</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Weights and Measures (National Standards) Amendment Act 1978</div>
+  </td>
+  <td>
+    <div>158, 1978</div>
+  </td>
+  <td>
+    <div>28 Nov 1978</div>
+  </td>
+  <td>
+    <div>Ss. 1, 2, 10, 11 and 13: Royal Assent 
+Remainder: 23 Oct 1979 ( <i>see Gazette</i>1979, No. S212)</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Weights and Measures (National Standards) Amendment Act 1984</div>
+  </td>
+  <td>
+    <div>77, 1984</div>
+  </td>
+  <td>
+    <div>25 June 1984</div>
+  </td>
+  <td>
+    <div>7 Sept 1984 ( <i>see Gazette</i>1984, No. S353)</div>
+  </td>
+  <td>
+    <div>Ss. 8(2), 11(2) and 13(2)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1985</div>
+  </td>
+  <td>
+    <div>65, 1985</div>
+  </td>
+  <td>
+    <div>5 June 1985</div>
+  </td>
+  <td>
+    <div>S. 3: <i>(a)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1986</div>
+  </td>
+  <td>
+    <div>76, 1986</div>
+  </td>
+  <td>
+    <div>24 June 1986</div>
+  </td>
+  <td>
+    <div>S. 3: Royal Assent <i>(b)</i></div>
+  </td>
+  <td>
+    <div>S. 9</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Statute Law (Miscellaneous Provisions) Act 1987</div>
+  </td>
+  <td>
+    <div>141, 1987</div>
+  </td>
+  <td>
+    <div>18 Dec 1987</div>
+  </td>
+  <td>
+    <div>S. 3: <i>(c)</i></div>
+  </td>
+  <td>
+    <div>S. 5(1)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Industry, Technology and Commerce Legislation Amendment Act 1989</div>
+  </td>
+  <td>
+    <div>91, 1989</div>
+  </td>
+  <td>
+    <div>27 June 1989</div>
+  </td>
+  <td>
+    <div>S. 15: 14 Dec 1988 
+Part 4 (ss. 20–25): 30 Nov 1989 ( <i>see Gazette</i>1989, No. S371) 
+Part 5 (ss. 26, 27): 1 Aug 1989 ( <i>see Gazette</i>1989, No. S262) 
+Remainder: Royal Assent</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Industry, Technology and Commerce Legislation Amendment Act 1991</div>
+  </td>
+  <td>
+    <div>66, 1991</div>
+  </td>
+  <td>
+    <div>15 June 1991</div>
+  </td>
+  <td>
+    <div>15 June 1991</div>
+  </td>
+  <td>
+    <div>Ss. 
+2(2)–(4) and 23(2)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Prime Minister and Cabinet Legislation Amendment Act 1991</div>
+  </td>
+  <td>
+    <div>199, 1991</div>
+  </td>
+  <td>
+    <div>18 Dec 1991</div>
+  </td>
+  <td>
+    <div>18 Dec 1991</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Industry, Technology and Commerce Legislation Amendment Act 1992</div>
+  </td>
+  <td>
+    <div>168, 1992</div>
+  </td>
+  <td>
+    <div>11 Dec 1992</div>
+  </td>
+  <td>
+    <div>Part 5 (ss. 14, 15): 30 July 1975 
+Remainder: Royal Assent</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Industry, Science and Technology Legislation Amendment Act 1994</div>
+  </td>
+  <td>
+    <div>108, 1994</div>
+  </td>
+  <td>
+    <div>12 July 1994</div>
+  </td>
+  <td>
+    <div>Div. 2 of Part 2 
+(ss. 4–6): 9 Aug 1994 
+Div. 5 of Part 2 
+(ss. 13–15): 13 July 1994 
+Remainder: Royal Assent</div>
+  </td>
+  <td>
+    <div>Ss. 4, 7, 9 and 13</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Statute Law Revision Act 1996</div>
+  </td>
+  <td>
+    <div>43, 1996</div>
+  </td>
+  <td>
+    <div>25 Oct 1996</div>
+  </td>
+  <td>
+    <div>Schedule 4 (items 104, 105): Royal Assent <i>(d)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Industry, Science and Tourism Legislation Amendment Act 1997</div>
+  </td>
+  <td>
+    <div>91, 1997</div>
+  </td>
+  <td>
+    <div>30 June 1997</div>
+  </td>
+  <td>
+    <div>Schedule 1 (item 21): Royal Assent <i>(e)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Audit (Transitional and Miscellaneous) Amendment Act 1997</div>
+  </td>
+  <td>
+    <div>152, 1997</div>
+  </td>
+  <td>
+    <div>24 Oct 1997</div>
+  </td>
+  <td>
+    <div>Schedule 2 (items 995–1003): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(f)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>National Measurement Amendment Act 1998</div>
+  </td>
+  <td>
+    <div>90, 1998</div>
+  </td>
+  <td>
+    <div>14 July 1998</div>
+  </td>
+  <td>
+    <div>14 July 1998</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>National Measurement Amendment (Utility Meters) Act 1999</div>
+  </td>
+  <td>
+    <div>9, 1999</div>
+  </td>
+  <td>
+    <div>31 Mar 1999</div>
+  </td>
+  <td>
+    <div>Schedule 1: 1 Oct 1999 
+Remainder: Royal Assent</div>
+  </td>
+  <td>
+    <div>Sch. 1 (item 14) \[ <i>see</i>Table A]</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Corporate Law Economic Reform Program Act 1999</div>
+  </td>
+  <td>
+    <div>156, 1999</div>
+  </td>
+  <td>
+    <div>24 Nov 1999</div>
+  </td>
+  <td>
+    <div>Schedule 10 (item 101): 13 Mar 2000 ( <i>see Gazette</i>2000, No. S114) <i>(g)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Industry, Science and Resources Legislation Amendment (Application of Criminal Code) Act 2001</div>
+  </td>
+  <td>
+    <div>140, 2001</div>
+  </td>
+  <td>
+    <div>1 Oct 2001</div>
+  </td>
+  <td>
+    <div>2 Oct 2001</div>
+  </td>
+  <td>
+    <div>S. 4 \[ <i>see</i>Table A]</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001</div>
+  </td>
+  <td>
+    <div>159, 2001</div>
+  </td>
+  <td>
+    <div>1 Oct 2001</div>
+  </td>
+  <td>
+    <div>29 Oct 2001</div>
+  </td>
+  <td>
+    <div>Sch. 1 (item 97) \[ <i>see</i>Table A]</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>National Measurement Amendment Act 2004</div>
+  </td>
+  <td>
+    <div>27, 2004</div>
+  </td>
+  <td>
+    <div>25 Mar 2004</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 1–66): 1 July 2004 ( <i>see</i> <i>Gazette</i>2004, No. GN22) 
+Schedule 2 (items 1, 4): <i>(h)</i> 
+Remainder: Royal Assent</div>
+  </td>
+  <td>
+    <div>Sch. 1 (items 50, 54, 67–88) and Sch. 2 (item 3) \[ <i>see</i>Note 1]</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>National Measurement Amendment Act 2008</div>
+  </td>
+  <td>
+    <div>137, 2008</div>
+  </td>
+  <td>
+    <div>8 Dec 2008</div>
+  </td>
+  <td>
+    <div>Ss. 1–3, Schedules 1 and 2: \[ <i>see</i>Note 2 and Table A]</div>
+  </td>
+  <td>
+    <div>Sch. 2 (items 
+\[ <i>see</i>Table A]</div>
+  </td>
+</tr></table>
+
+_(a)_     The _National Measurement Act 1960_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsections 2(1) and (30) of which provide as follows:
+
+                 (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
+
+               (30)   The amendment of subsection 3(3) of the _National Measurement Act 1960_ made by this Act shall be deemed to have come into operation immediately after the commencement of the _Weights and Measures (National Standards) Amendment Act 1984_.
+
+ The _Weights and Measures (National Standards) Amendment Act 1984_ came into operation on 7 September 1984 (_see Gazette_ 1984, No. S353).
+
+_(b)_    The _National Measurement Act 1960_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1986_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
+
+_(c)_     The _National Measurement Act 1960_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act 1987_, subsections 2(1) and (25) of which provide as follows:
+
+                 (1)   Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
+
+               (25)   The following amendments of the _National Measurement Act 1960_ made by this Act shall come into operation on 1 January 1988:
+
+                              (a)   the insertion of the definition of **_interest in land_** in subsection 3(1);
+
+                              (b)   the amendment of section 12;
+
+                              (c)   the insertion of section 12A.
+
+_(d)_     The _National Measurement Act 1960_ was amended by Schedule 4 (items 104, 105) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent. 
+
+_(e)_     The _National Measurement Act 1960_ was amended by Schedule 1 (item 21) only of the _Industry, Science and Tourism Legislation Amendment Act 1997_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+
+_(f)_      The _National Measurement Act 1960_ was amended by Schedule 2 (items 995–1003) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
+
+                 (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
+
+_(g)_     The _National Measurement Act 1960_ was amended by Schedule 10 (item 101) only of the _Corporate Law Economic Reform Program Act 1999_, subsection 2(2)(c) of which provides as follows:
+
+                 (2)   The following provisions commence on a day or days to be fixed by Proclamation:
+
+                              (c)   the items in Schedules 10, 11 and 12\. 
+
+_(h)_     Subsection 2(1) (items 2, 4 and 6) of the _National Measurement Amendment Act 2004_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="3">
+      <div>
+        <b>
+          Commencement information
+        </b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Column 1
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Column 2
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Column 3
+        </b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      2\. Schedule 1, Parts 1, 2 and 3
+    </div>
+  </td>
+  <td>
+    <div>
+      A single day to be fixed by Proclamation.
+    </div>
+    <div>
+      However, if the provision(s) do not commence within the period of 6 months
+        beginning on the day on which this Act receives the Royal Assent, they
+        commence on the first day after the end of that period.
+    </div>
+  </td>
+  <td>
+    <div>
+      1 July 2004
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      4\. Schedule 2, item 1
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of the provision(s) covered by table
+        item 2.
+    </div>
+  </td>
+  <td>
+    <div>
+      1 July 2004
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      6\. Schedule 2, item 4
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of the provision(s) covered by table
+        item 2.
+    </div>
+  </td>
+  <td>
+    <div>
+      1 July 2004
+    </div>
+  </td>
+</tr></table>
+
+## Table of Amendments
+
+<table>
+<colgroup>
+  <col width="34%">
+  <col width="66%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="2">
+      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Provision affected</div>
+    </td>
+    <td>
+      <div>How affected</div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div><b>Part I</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Part I</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 1978</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 1</div>
+  </td>
+  <td>
+    <div>am. No. 77, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 2</div>
+  </td>
+  <td>
+    <div>rep. No. 216, 1973</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 3</div>
+  </td>
+  <td>
+    <div>am. No. 6, 1964; No. 216, 1973; No. 158, 1978; No. 77, 1984; No. 65, 1985; No. 141, 1987; No. 91, 1989; No. 66, 1991; No. 168, 1992; No. 90, 1998; No. 9, 1999; No. 27, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 4</div>
+  </td>
+  <td>
+    <div>am. No. 77, 1984; No. 9, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 4A</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 5</div>
+  </td>
+  <td>
+    <div>am. No. 77, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 6A</div>
+  </td>
+  <td>
+    <div>ad. No. 140, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part II</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Part II</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 1978</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 7</div>
+  </td>
+  <td>
+    <div>am. No. 77, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 66, 1991</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 7A</div>
+  </td>
+  <td>
+    <div>ad. No. 66, 1991</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 7B</div>
+  </td>
+  <td>
+    <div>ad. No. 66, 1991</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 27, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 8</div>
+  </td>
+  <td>
+    <div>am. No. 6, 1964; No. 158, 1978; No. 77, 1984; No. 141, 1987; No. 27, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 8AA</div>
+  </td>
+  <td>
+    <div>ad. No. 91, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 27, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 8A</div>
+  </td>
+  <td>
+    <div>ad. No. 6, 1964</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 77, 1984; No. 27, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 9</div>
+  </td>
+  <td>
+    <div>rs. No. 6, 1964</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 77, 1984; No. 141, 1987; No. 27, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 10</div>
+  </td>
+  <td>
+    <div>am. No. 158, 1978; No. 77, 1984; No. 168, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 11</div>
+  </td>
+  <td>
+    <div>rs. No. 77, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 12</div>
+  </td>
+  <td>
+    <div>am. No. 77, 1984; No. 141, 1987; No. 9, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 12A</div>
+  </td>
+  <td>
+    <div>ad. No. 141, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 9, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 13</div>
+  </td>
+  <td>
+    <div>am. No. 158, 1978; No. 77, 1984; No. 9, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 13A</div>
+  </td>
+  <td>
+    <div>ad. No. 141, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 9, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 14</div>
+  </td>
+  <td>
+    <div>am. No. 77, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 15</div>
+  </td>
+  <td>
+    <div>rep. No. 77, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part III</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Part III</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 1978 
+rs. No. 27, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Part III</div>
+  </td>
+  <td>
+    <div>rs. No. 27, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 16</div>
+  </td>
+  <td>
+    <div>am. No. 6, 1964; No. 158, 1978; No. 152, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 27, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 17</div>
+  </td>
+  <td>
+    <div>rs. No. 158, 1978</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 77, 1984; No. 141, 1987; No. 108, 1994; No. 152, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 27, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 18</div>
+  </td>
+  <td>
+    <div>rs. No. 77, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 91, 1989; No. 168, 1992; No. 108, 1994; No. 9, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 27, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 18AAA</div>
+  </td>
+  <td>
+    <div>ad. No. 77, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 9, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 27, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 18AA</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 1978</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 141, 1987; No. 43, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 27, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 18AB</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 1978</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 141, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 27, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 18AC</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 1978</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 77, 1984; No. 141, 1987; No. 152, 1997; No. 156, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 27, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 18AD</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 1978</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 77, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 152, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 18AE</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 1978</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 77, 1984; No. 141, 1987; No. 108, 1994; No. 152, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 27, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 18AF</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 1978</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 27, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Part IV</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 1978</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 141, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 27, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Part IV</div>
+  </td>
+  <td>
+    <div>rep. No. 27, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Div. 1 of Part IV.</div>
+  </td>
+  <td>
+    <div>ad. No. 141, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 27, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 18AG, 18AH</div>
+  </td>
+  <td>
+    <div>ad. No. 141, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 27, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 18AI</div>
+  </td>
+  <td>
+    <div>ad. No. 141, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 159, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 27, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 18AJ</div>
+  </td>
+  <td>
+    <div>ad. No. 141, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 90, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 27, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 18AK</div>
+  </td>
+  <td>
+    <div>ad. No. 141, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 27, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 18AL</div>
+  </td>
+  <td>
+    <div>ad. No. 141, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 43, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 27, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 18AM–18AP</div>
+  </td>
+  <td>
+    <div>ad. No. 141, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 152, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 27, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 18AQ, 18AR</div>
+  </td>
+  <td>
+    <div>ad. No. 141, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 27, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Div. 2 of Part IV.</div>
+  </td>
+  <td>
+    <div>ad. No. 141, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 27, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 18A</div>
+  </td>
+  <td>
+    <div>ad. No. 6, 1964</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 93, 1966; No. 216, 1973; No. 77, 1984; No. 65, 1985; No. 199, 1991</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 27, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Part V</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 1978</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 27, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Part V</div>
+  </td>
+  <td>
+    <div>rep. No. 27, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 18B</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 1978</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 27, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 18C</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 1978</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 152, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>ad. No. 27, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 18D</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 1978</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 108, 1994; No. 152, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 27, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 18DA</div>
+  </td>
+  <td>
+    <div>ad. No. 108, 1994</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 152, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 18E</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 1978</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 76, 1986</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 152, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 18F</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 1978</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 141, 1987; No. 108, 1994; No. 152, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 27, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part</b> <b>VA</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Part VA</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 18G</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 1978</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 152, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 18H</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 1978</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 91, 1989</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 152, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 27, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 18J</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 140, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 18K–18N</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 18P–18R</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 18S, 18T</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 18U</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 27, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 18V–18Y</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 4</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 18Z</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 27, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 18ZA</div>
+  </td>
+  <td>
+    <div>rs. No. 27, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 18ZA</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 27, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 18ZB</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 27, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 18ZC</div>
+  </td>
+  <td>
+    <div>am. No. 27, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 18ZC</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 27, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 18ZD</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 27, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 18ZE</div>
+  </td>
+  <td>
+    <div>rs. No. 27, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 18ZE</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 27, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 18ZF, 18ZG</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 27, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 18ZH</div>
+  </td>
+  <td>
+    <div>rs. No. 27, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 18ZH</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 27, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 18ZI</div>
+  </td>
+  <td>
+    <div>rs. No. 27, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 18ZI</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 27, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 18ZJ, 18ZK</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 27, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 18ZKA, 18ZKB</div>
+  </td>
+  <td>
+    <div>ad. No. 27, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 5</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 18ZL</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 18ZM, 18ZN</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 27, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision B</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 18ZO–18ZR</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision C</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 18ZS–18ZV</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 18ZW</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 27, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 18ZX, 18ZY</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 18ZZ</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 27, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 18ZZA</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision D</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 18ZZB, 18ZZC</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision E</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss 18ZZD–18ZZF</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part VI</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Part VI</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 1978</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 19</div>
+  </td>
+  <td>
+    <div>am. No. 6, 1964; No. 158, 1978; No. 77, 1984; No. 27, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 19A</div>
+  </td>
+  <td>
+    <div>ad. No. 6, 1964</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 77, 1984; No. 91, 1989; No. 168, 1992; No. 27, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 19AAA</div>
+  </td>
+  <td>
+    <div>ad. No. 168, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 19AAB</div>
+  </td>
+  <td>
+    <div>ad. No. 168, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 27, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 19AA</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 1978</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 27, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 19B</div>
+  </td>
+  <td>
+    <div>ad. No. 6, 1964</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 93, 1966; No. 158, 1978; No. 77, 1984; No. 91, 1989; No. 27, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 19C</div>
+  </td>
+  <td>
+    <div>ad. No. 158, 1978</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 152, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 20</div>
+  </td>
+  <td>
+    <div>am. No. 77, 1984; No. 168, 1992; No. 90, 1998; No. 9, 1999; No. 27, 2004</div>
+  </td>
+</tr></table>
+
+### Note 2
+
+_National Measurement Amendment Act 2008 (No. 137, 2008)_
+
+The following amendments commence on 1 July 2009:
+
+## Schedule 1
+
+## 1  Subsection 3(1)
+
+Insert:
+
+                    <a name="approved-pattern"></a>**_approved pattern_**, in relation to a measuring instrument, means a pattern approved for the measuring instrument under section 19A that:
+
+                     (a)  is currently in force; or
+
+                     (b)  has expired or been cancelled (but not withdrawn) and was in force when the measuring instrument was first verified.
+
+## 2  Subsection 3(1)
+
+Insert:
+
+                    <a name="aq-mark"></a>**_AQS mark_** has the meaning given by section 18JJ.
+
+## 3  Subsection 3(1)
+
+Insert:
+
+                    <a name="aq-sampl-procur"></a>**_AQS sampling procedures_** are sampling procedures prescribed for the purposes of Subdivision 3-C of Division 3 of Part VI.
+
+## 4  Subsection 3(1)
+
+Insert:
+
+                    <a name="aq-test-procur"></a>**_AQS test procedures_** are test procedures prescribed for the purposes of Subdivision 3-C of Division 3 of Part VI.
+
+## 5  Subsection 3(1)
+
+Insert:
+
+                    <a name="aq-threshold"></a>**_AQS threshold_** is the threshold prescribed for the purposes of Subdivision 3-C of Division 3 of Part VI.
+
+## 6  Subsection 3(1)
+
+Insert:
+
+                    <a name="articl"></a>**_article_** includes a substance.
+
+## 7  Subsection 3(1) (paragraph (b) of the definition of _Australian legal unit of measurement_)
+
+Omit “subsection 7B(1)”, substitute “section 7B”.
+
+## 8  Subsection 3(1)
+
+Insert:
+
+                    <a name="automated-pack-machin"></a>**_automated packing machine_** means a machine that follows a pre-determined program for automatically measuring articles in pre-determined quantities as part of the packing process.
+
+## 9  Subsection 3(1)
+
+Insert:
+
+                    <a name="busi-premis"></a>**_business premises_** means premises or a part of premises:
+
+                     (a)  used for the importation, packing, storage or sale of articles or utilities sold, or to be sold, by measurement; or
+
+                     (b)  on which a measuring instrument is used for trade; or
+
+                     (c)  used for activities incidental to the uses mentioned in paragraph (a) or (b);
+
+but does not include premises or a part of premises occupied as a residence or for residential accommodation.
+
+## 10  Subsection 3(1)
+
+Insert:
+
+                    <a name="busi-vehicl"></a>**_business vehicle_** means a vehicle:
+
+                     (a)  used for the transportation of articles or utilities sold, or to be sold, by measurement (whether packed in advance ready for sale or otherwise); or
+
+                     (b)  on which a measuring instrument is used for trade; or
+
+                     (c)  used for the measurement of articles or utilities sold, or to be sold, by measurement; or
+
+                     (d)  used for activities incidental to the uses mentioned in paragraph (a), (b) or (c).
+
+## 11  Subsection 3(1)
+
+Insert:
+
+                    <a name="control"></a>**_controller_**, in relation to premises, a part of premises or a vehicle, means the person apparently in control of the premises, the part of the premises or the vehicle.
+
+## 12  Subsection 3(1)
+
+Insert:
+
+                    <a name="earlier-correspond-law"></a>**_earlier corresponding law_** means any of the following:
+
+                     (a)  the _Trade Measurement Act 1989_ of New South Wales;
+
+                     (b)  the _Trade Measurement Administration Act 1989_ of New South Wales;
+
+                     (c)  the _Trade Measurement Act 1995_ of Victoria;
+
+                     (d)  the _Trade Measurement (Administration) Act 1995_ of Victoria;
+
+                     (e)  the _Trade Measurement Act 1990_ of Queensland;
+
+                      (f)  the _Trade Measurement Administration Act 1990_ of Queensland;
+
+                     (g)  the _Trade Measurement Act 2006_ of Western Australia;
+
+                     (h)  the _Trade Measurement Administration Act 2006_ of Western Australia;
+
+                      (i)  the _Trade Measurement Act 1993_ of South Australia;
+
+                      (j)  the _Trade Measurement Administration Act 1993_ of South Australia;
+
+                     (k)  the _Trade Measurement Act 1999_ of Tasmania;
+
+                      (l)  the _Trade Measurement (__Tasmania__) Administration Act 1999_ of Tasmania;
+
+                    (m)  the _Trade Measurement Act 1991_ of the Australian Capital Territory;
+
+                     (n)  the _Trade Measurement (Administration) Act 1991_ of the Australian Capital Territory;
+
+                     (o)  the _Trade Measurement Act_ of the Northern Territory;
+
+                     (p)  the _Trade Measurement Administration Act_ of the Northern Territory;
+
+and includes the regulations made under those Acts.
+
+## 13  Subsection 3(1)
+
+Insert:
+
+                    <a name="evidenti-materi"></a>**_evidential material_** means any of the following:
+
+                     (a)  any thing with respect to which an offence against this Act has been committed or is suspected, on reasonable grounds, to have been committed;
+
+                     (b)  any thing as to which there are reasonable grounds for suspecting that it will afford evidence as to the commission of any such offence;
+
+                     (c)  any thing as to which there are reasonable grounds for suspecting that it is intended to be used for the purpose of committing any such offence.
+
+## 14  Subsection 3(1)
+
+Insert:
+
+                    <a name="inspector-mark"></a>**_inspector’s mark_** means the mark allotted to a trade measurement inspector by the Secretary under subsection 18MA(5).
+
+## 15  Subsection 3(1)
+
+Insert:
+
+                    <a name="made-avail-public-weighbridg"></a>**_made available as a public weighbridge_**has the meaning given by section 3A.
+
+## 16  Subsection 3(1)
+
+Insert:
+
+                    <a name="mark"></a><a name="mark"></a>**_marked_**: something is **_marked_** on a package if:
+
+                     (a)  it is marked on the package itself; or
+
+                     (b)  it is marked on a label attached to or enclosed with, but visible within, the package.
+
+## 17  Subsection 3(1)
+
+Insert:
+
+                    <a name="mark-measur-instrum-verif-mark"></a>**_marking a measuring instrument with a verification mark_** has the meaning given in subsection (5).
+
+## 18  Subsection 3(1)
+
+Insert:
+
+                    <a name="measur"></a>**_measurement_** means a determination of number or physical quantity, other than for descriptive purposes only.
+
+## 19  Subsection 3(1)
+
+Insert:
+
+                    <a name="measur-instrum-give-inaccur-measur"></a>**_measuring instrument gives an inaccurate measurement_** has the meaning given in subsection (6).
+
+## 20  Subsection 3(1) (paragraph (b) of the definition of _metric system of measurement_)
+
+Omit “approved; and”, substitute “approved.”.
+
+## 21  Subsection 3(1) (paragraph (c) of the definition of _metric system of measurement_)
+
+Repeal the paragraph.
+
+## 22  Subsection 3(1)
+
+Insert:
+
+                    <a name="nation-group-test-procur"></a>**_national group test procedures_** are test procedures with respect to groups of packages prescribed for the purposes of Subdivision 4-B of Division 4 of Part VI.
+
+## 23  Subsection 3(1)
+
+Insert:
+
+                    <a name="nation-instrum-test-procur"></a>**_national instrument test procedures_** are procedures for testing measuring instruments determined by the Minister under subsection 18GG(2).
+
+## 24  Subsection 3(1)
+
+Insert:
+
+                    <a name="nation-sampl-procur"></a>**_national sampling procedures_** are sampling procedures prescribed for the purposes of Subdivision 4-B of Division 4 of Part VI.
+
+## 25  Subsection 3(1)
+
+Insert:
+
+                    <a name="nation-singl-articl-test-procur"></a>**_national single article test procedures_** are test procedures with respect to single packages prescribed for the purposes of Subdivision 4-B of Division 4 of Part VI.
+
+## 26  Subsection 3(1)
+
+Insert:
+
+                    <a name="nation-test-threshold"></a>**_national test threshold_** is the threshold prescribed for the purposes of Subdivision 4-B of Division 4 of Part VI.
+
+## 27  Subsection 3(1)
+
+Insert:
+
+                    <a name=""></a><a name="net-measur"></a>**_net measurement_**, in relation to an article, means the measurement of the article disregarding any packaging or other thing that is not part of the article.
+
+## 28  Subsection 3(1)
+
+Insert:
+
+                    <a name="obliter"></a>**_obliterate_**, in respect of a verification mark, means destroy, or remove and destroy, a verification mark.
+
+## 29  Subsection 3(1)
+
+Insert:
+
+                    <a name="packag"></a>**_package_** includes:
+
+                     (a)  a container, wrapper, confining band or other thing in which an article is packed, or 2 or more articles are packed, for sale as a single item; and
+
+                     (b)  anything around which an article is wound or wrapped, or 2 or more articles are wound or wrapped, for sale as a single item.
+
+## 30  Subsection 3(1)
+
+Insert:
+
+                    <a name="pack-advanc-readi-sale"></a>**_packed in advance ready for sale_** has the meaning given by section 18HA.
+
+## 31  Subsection 3(1)
+
+Insert:
+
+                    <a name="premis"></a>**_premises_** means:
+
+                     (a)  an area of land or any other place, whether or not it is enclosed or built on; or
+
+                     (b)  a building or other structure.
+
+## 32  Subsection 3(1)
+
+Insert:
+
+                    <a name="public-weighbridg"></a>**_public weighbridge_** means a weighbridge that is made available as a public weighbridge.
+
+## 33  Subsection 3(1)
+
+Insert:
+
+                    <a name="public-weighbridg-licenc"></a>**_public weighbridge licence_** means a licence granted under section 18PB.
+
+## 34  Subsection 3(1)
+
+Insert:
+
+                    <a name="public-weighbridg-license"></a>**_public weighbridge licensee_** means a person to whom a licence is granted under section 18PB.
+
+## 35  Subsection 3(1)
+
+Insert:
+
+                    <a name="residenti-premis"></a>**_residential premises_** means premises, or a part of premises, that is occupied as a residence or for residential accommodation.
+
+## 36  Subsection 3(1)
+
+Insert:
+
+                    <a name="seiz"></a>**_seize_** includes secure against interference.
+
+## 37  Subsection 3(1)
+
+Insert:
+
+                    <a name="sell"></a>**_sell_** includes barter or exchange.
+
+## 38  Subsection 3(1)
+
+Insert:
+
+                    <a name="servic-licenc"></a>**_servicing licence_** means a licence granted under section 18NB.
+
+## 39  Subsection 3(1)
+
+Insert:
+
+                    <a name="servic-license"></a>**_servicing licensee_** means a person to whom a licence is granted under section 18NB.
+
+## 40  Subsection 3(1)
+
+Insert:
+
+                    <a name="servic-license-mark"></a>**_servicing licensee’s mark_**means the mark approved by the Secretary for use by or on behalf of a servicing licensee in verifying measuring instruments.
+
+## 41  Subsection 3(1)
+
+Insert:
+
+                    <a name="shortfal"></a>**_shortfall_**, in relation to an article packed in advance ready for sale that is not marked with an AQS mark, has the meaning given by section 18JR.
+
+## 42  Subsection 3(1)
+
+Insert:
+
+                    <a name="act"></a>**_this Act_** includes the regulations and any other instrument made under a provision of this Act.
+
+## 43  Subsection 3(1)
+
+Insert:
+
+                    <a name="trade-measur-inspector"></a>**_trade measurement inspector_** means:
+
+                     (a)  in relation to the exercise of a power or the performance of a function or duty in circumstances prescribed under paragraph 18MA(3)(b)—a person appointed to a class of trade measurement inspectors authorised to exercise that power or perform that function or duty in those circumstances; and
+
+                     (b)  in relation to the exercise of a power or the performance of a function or duty otherwise—a person appointed to a class of trade measurement inspectors authorised to exercise that power or perform that function or duty.
+
+## 44  Subsection 3(1) (definition of _use for trade_)
+
+Repeal the definition, substitute:
+
+                    <a name=""></a><a name=""></a><a name="us-trade"></a>**_use for trade_**: a person uses  a measuring instrument for trade if:
+
+                     (a)  the person is actually or apparently in control of the measuring instrument; and
+
+                     (b)  the person uses it, or makes it available for another person to use, for either or both of the following purposes:
+
+                              (i)  determining the consideration in respect of a transaction;
+
+                             (ii)  determining the amount of a tax.
+
+## 45  Subsection 3(1)
+
+Insert:
+
+                    <a name="util"></a>**_utility_** means gas, electricity or water.
+
+## 46  Subsection 3(1) (definition of _utility meter_)
+
+Omit “Part VA”, substitute “Part IV”.
+
+## 47  Subsection 3(1)
+
+Insert:
+
+                    <a name="util-meter-verifi"></a>**_utility meter verifier_** means a person appointed as a utility meter verifier under section 18RA or 18RH.
+
+## 48  Subsection 3(1)
+
+Insert:
+
+                    <a name="util-meter-verifi-mark"></a>**_utility meter verifier’s mark_** means a mark allocated to a person appointed as a verifier in relation to utility meters under section 18RA or 18RH for use by the verifier or its employees (if any), when verifying utility meters.
+
+## 49  Subsection 3(1)
+
+Insert:
+
+                    <a name="vehicl"></a>**_vehicle_** includes vessel, aircraft and any other means of conveying persons or goods.
+
+## 50  Subsection 3(1) (definition of _verification_)
+
+Repeal the definition, substitute:
+
+                    <a name="verif"></a>**_verification_**, in relation to a measuring instrument, has the meaning given by section 18GG.
+
+## 51  Subsection 3(1)
+
+Insert:
+
+                    <a name="verif-mark"></a>**_verification mark_** means:
+
+                     (a)  in relation to utility meters—a utility meter verifier’s mark; and
+
+                     (b)  in relation to any other measuring instrument:
+
+                              (i)  an inspector’s mark; or
+
+                             (ii)  a servicing licensee’s mark.
+
+## 52  Subsection 3(1)
+
+Insert:
+
+                    <a name="verifi"></a>**_verifier_**:
+
+                     (a)  in relation to utility meters—means a person who is permitted to verify the utility meter under section 18GI; and
+
+                     (b)  in relation to any other measuring instrument—means a person who is permitted to verify the measuring instrument under section 18GH.
+
+## 53  Subsection 3(1) (definition of _verifying authority_)
+
+Repeal the definition.
+
+## 54  Subsection 3(1)
+
+Insert:
+
+                    <a name="weighbridg"></a>**_weighbridge_** means a measuring instrument that is of a capacity of 3 tonnes or more and has one or more platforms by the use of which the measuring instrument is capable of determining the mass of a vehicle or of livestock.
+
+## 55  At the end of section 3
+
+Add:
+
+             (5)  A reference in this Act to a person **_marking a measuring instrument with a verification mark_** includes the marking of the measuring instrument itself, the affixing of a label to the measuring instrument or the marking of a label affixed to the measuring instrument.
+
+             (6)  For the purposes of this Act, a **_measuring instrument gives an inaccurate measurement_** if the measuring instrument does not operate within the appropriate limits of error that are permitted under the regulations.
+
+             (7)  A reference in this Act to a particular provision or group of provisions includes a reference to regulations made under that provision or under any one or more of the provisions of that group of provisions.
+
+## 56  After section 3
+
+Insert:
+
+##### <a id="3A"></a>3A  Meaning of _made available as a public weighbridge_
+
+             (1)  A weighbridge is **_made available as a public weighbridge_** if:
+
+                     (a)  it is open for use by or on behalf of the public; or
+
+                     (b)  it is available for use for a charge.
+
+             (2)  A weighbridge is not **_made available as a public weighbridge_** if the weighbridge is used by a person who owns or who has contracted to operate the weighbridge:
+
+                     (a)  for the purpose of determining the consideration in an agreement between the person and another person; or
+
+                     (b)  for purposes that do not involve another person.
+
+             (3)  The regulations may prescribe other circumstances in which a weighbridge is taken not to be **_made available as a public weighbridge_** for the purposes of this Act.
+
+## 57  Paragraph 4(1)(e)
+
+Repeal the paragraph, substitute:
+
+                     (e)  to provide for a national system of trade measurement;
+
+## 58  Subsection 4(3)
+
+Repeal the subsection.
+
+## 59  After section 4A
+
+Insert:
+
+##### <a id="4B"></a>4B  Application of trade measurement provisions
+
+             (1)  Parts IV to XIII of this Act do not apply to a measurement, or an instrument used for the purposes of a measurement, to determine any of the following:
+
+                     (a)  charges relating to telephone calls or the use of internet services;
+
+                     (b)  the fare payable for use of a taxi;
+
+                     (c)  the charge for the hire of a motor vehicle;
+
+                     (d)  tyre pressures;
+
+                     (e)  the expiration of time, or the calculation of time, for parking a vehicle.
+
+             (2)  Parts IV to XIII of this Act do not apply to a measuring instrument that is an automated packing machine.
+
+             (3)  Parts IV to XIII of this Act do not apply to a measurement for the purposes of:
+
+                     (a)  reporting and disseminating information relating to greenhouse gas emissions, greenhouse gas projects, energy production and energy consumption under the _National Greenhouse and Energy Reporting Act 2007_; or
+
+                     (b)  reporting and disseminating information relating to greenhouse gas emissions or greenhouse gas projects under any other law of the Commonwealth or of a State or Territory; or
+
+                     (c)  emissions trading under a law of the Commonwealth or of a State or Territory.
+
+## 60  Subsection 7B(1)
+
+Omit “(1) The”, substitute “The”.
+
+## 61  Subsection 7B(1)
+
+Omit “issue written”, substitute “, by legislative instrument, issue”.
+
+## 62  Subsection 7B(2)
+
+Repeal the subsection.
+
+## 63  Subsection 8A(1)
+
+After “The Chief Metrologist may”, insert “, by legislative instrument,”.
+
+## 64  Subsection 8A(3)
+
+Repeal the subsection.
+
+## 65  Part VA
+
+Repeal the Part, substitute:
 
 ## Part IV—Using measuring instruments for trade
 
@@ -2522,7 +5917,7 @@ placed in the wrong place (see Subdivision 3-B).</li>
 
 ##### <a id="18JJ"></a>18JJ  What is an AQS mark?
 
-                   An **_AQS mark_** is a mark prescribed by the regulations as an AQS mark.
+                   An **_AQS mark_** is a mark prescribed by the regulations as an AQS mark.
 
 ##### <a id="18JK"></a>18JK  AQS mark must be used in accordance with regulations
 
@@ -3336,11 +6731,11 @@ the first-mentioned person must give a copy of the permit and any notices under 
 
 **Overview of Part**
 
-<li class="BoxList" style="margin-left:21.25pt">(1)   This Part contains requirements
+<li class="BoxList" style="margin-left:21.25pt">(1)   This Part contains
 
-in relation to articles that are sold for a price determined by reference to
+requirements in relation to articles that are sold for a price determined by
 
-the measurement of the article.</li>
+reference to the measurement of the article.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">(2)   If the purchaser is present
 
@@ -4476,9 +7871,9 @@ for the purposes of finding out whether Part IV, V, VI or VII has been
 
 complied with or for the collection of evidential material.</li>
 
-<li class="BoxList" style="margin-left:21.25pt">(2)   There is a special process available
+<li class="BoxList" style="margin-left:21.25pt">(2)   There is a special process
 
-for the issue of warrants in urgent cases (see section 18MZB).</li>
+available for the issue of warrants in urgent cases (see section 18MZB).</li>
 
 <li class="BoxList" style="margin-left:21.25pt">(3)   Warrants are issued by
 
@@ -5500,9 +8895,9 @@ provisions about the disciplinary action that may be taken against servicing
 
 licensees and public weighbridge licensees.</li>
 
-<li class="BoxList" style="margin-left:21.25pt">(2)   Section 18QA sets out the
+<li class="BoxList" style="margin-left:21.25pt">(2)   Section 18QA sets out
 
-grounds on which disciplinary action may be taken.</li>
+the grounds on which disciplinary action may be taken.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">(3)   The kinds of disciplinary
 
@@ -5764,57 +9159,23 @@ action that may be taken are:</li>
 
                      (b)  if the verifier will be employing persons to undertake the verification—a separate mark for use by each employee.
 
+## 66  Part VI (heading)
+
+Repeal the heading, substitute:
+
 ## Part XIV—Miscellaneous
 
-##### <a id="19"></a>19  Maintaining of standards of measurement etc. before regulations prescribing units take effect
+## 67  Paragraph 19A(1)(d)
 
-                   Where regulations that prescribe units of measurement of physical quantities are made under section 7A, but the regulations are not, or part of the regulations is not, to take effect immediately upon the date of notification of the regulations in the _Gazette_:
+Omit “the admissibility of the matters certified to as evidence”, substitute “the admission as prima facie evidence of the matters stated in the document”.
 
-                     (a)  standards of measurement of those physical quantities may be maintained under section 8;
+## 68  Subsection 19A(6)
 
-                     (b)  the powers conferred by section 8A may be exercised; and
+Repeal the subsection.
 
-                     (c)  State primary standards of measurement, and reference standards of measurement, of those physical quantities may be verified, and certificates issued in respect of the verification;
+## 69  At the end of section 19A
 
-at any time after the date of notification of the regulations in the _Gazette_, as if the whole of the regulations had taken effect on that date.
-
-##### <a id="19A"></a>19A  Patterns of instruments
-
-             (1)  The regulations may make provision for or in relation to:
-
-                     (a)  the examination of patterns of measuring instruments;
-
-                     (b)  the approval and verification of patterns of measuring instruments as patterns of measuring instruments suitable for:
-
-                              (i)  use for trade; and
-
-                             (ii)  any other legal purpose;
-
-                     (c)  the issuing of certificates in respect of the approval and verification of patterns of measuring instruments; and
-
-                     (d)  the reception in evidence of a document purporting to be such a certificate and the admission as prima facie evidence of the matters stated in the document.
-
-             (2)  The regulations made under subsection (1) may provide that:
-
-                     (a)  examinations may be carried out;
-
-                     (b)  approvals may be given; and
-
-                     (c)  certificates may be issued;
-
-by the Chief Metrologist, a delegate of the Chief Metrologist or another person on behalf of the Chief Metrologist.
-
-             (4)  Without limiting the matters that may be provided for in regulations made for the purposes of subsection (1), the regulations may provide that the granting of approval of a pattern of a measuring instrument as a pattern suitable for use for trade may be made subject to the retention of the measuring instrument or a part of the measuring instrument by the Chief Metrologist.
-
-             (7)  Before the Governor-General makes a regulation for the purposes of subsection (1), the Minister must also either:
-
-                     (a)  be satisfied that the regulation is not inconsistent with a specification published by the International Organisation of Legal Metrology regarding the examination and approval of patterns of measuring instrument; or
-
-                     (b)  if the regulation is inconsistent with a specification—be satisfied that:
-
-                              (i)  the inconsistency is in the national interest; or
-
-                             (ii)  it is not practicable to comply with the specification because of particular circumstances applying in Australia.
+Add:
 
              (8)  The Chief Metrologist may charge the prescribed fee for:
 
@@ -5824,47 +9185,19 @@ by the Chief Metrologist, a delegate of the Chief Metrologist or another person 
 
                      (c)  the issuing of certificates in respect of the approval and verification of patterns of measuring instruments under this section.
 
-##### <a id="19AAA"></a>19AAA  Tolerances
+## 70  Paragraph 19AAA(1)(a)
 
-             (1)  The regulations may provide that a certificate issued under paragraph 19A(1)(c) in respect of a pattern of a measuring instrument (**_original instrument_**) must specify:
+Repeal the paragraph, substitute:
 
                      (a)  the limits of error that may be tolerated in a measuring instrument of the same kind as the original instrument when the instrument is tested for the purposes of this Act; and
 
-                     (b)  the procedures to be followed to ascertain whether the instrument operates within those limits of error.
+## 71  Subsection 19AAB(3)
 
-             (2)  If a certificate issued under paragraph 19A(1)(c) and in force immediately before the commencement of this section specifies an amount as the amount of error that may be tolerated when an instrument of the same kind as the original instrument is verified for the purposes of a law referred to in subparagraph (1)(a)(ii), the certificate has effect after the commencement of this section as if the amount were specified as being the limits of error that may be tolerated when the instrument is:
+Repeal the subsection.
 
-                     (a)  verified for the purposes of that law; or
+## 72  After section 19B
 
-                     (b)  tested for the purposes of this Act.
-
-##### <a id="19AAB"></a>19AAB  Measuring instrument—accordance with pattern
-
-             (1)  The regulations may provide for:
-
-                     (a)  the requirements that are to be satisfied before a measuring instrument with an approved pattern is taken, for the purposes of this Act, to be in accordance with the pattern; and
-
-                     (b)  the procedures to be followed to ascertain whether measuring instruments with an approved pattern are in accordance with the pattern.
-
-             (2)  The regulations may provide that the procedures referred to in paragraph (1)(b) may be carried out:
-
-                     (a)  by the Chief Metrologist; or
-
-                     (b)  by a delegate of the Chief Metrologist; or
-
-                     (c)  by another person on behalf of the Chief Metrologist.
-
-             (5)  Any regulations made under this section must provide adequate safeguards for the rights of persons affected.
-
-##### <a id="19B"></a>19B  Offences
-
-                   A person shall not falsely represent:
-
-                     (a)  that a pattern of a measuring instrument is in accordance with a pattern approved under the regulations as a pattern of a measuring instrument suitable for use for trade; or
-
-                     (b)  that a measuring instrument is in accordance with a pattern so approved.
-
-                    Penalty:  $6,000.
+Insert:
 
 ##### <a id="19C"></a>19C  Offences committed by employees—liability of employee
 
@@ -6018,7 +9351,7 @@ Note 2:       The _Privacy Act 1988_ also imposes limitations on the
 
 ##### <a id="19K"></a>19K  Jurisdiction of the Federal Court of Australia and the Federal Magistrates Court
 
-                   Jurisdiction is conferred on the Federal Court of Australia and the Federal Magistrates Court in respect of matters arising under the following provisions:
+                   Jurisdiction is conferred on the Federal Court of Australia and the Federal Magistrates Court in respect of matters arising under the following provisions:
 
                      (a)  section 18LN;
 
@@ -6078,33 +9411,39 @@ Note 2:       The _Privacy Act 1988_ also imposes limitations on the
 
                    A document purporting to be signed by the Secretary or a trade measurement inspector is taken to be signed by that person unless the contrary is established.
 
-##### <a id="20"></a>20  Regulations
+## 73  Paragraph 20(1)(a)
 
-             (1)  The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters which are required or permitted to be prescribed, or which are necessary or convenient to be prescribed for carrying out or giving effect to this Act, and in particular:
+Omit “to be evidence”, substitute “to be prima facie evidence”.
 
-                    (aa)  providing for the verification of standards of measurement; and
+## 74  After paragraph 20(1)(a)
 
-                     (a)  providing for or in relation to the issuing of certificates in respect of the verification of standards of measurement, for the reception in evidence of a document purporting to be such a certificate and for such a certificate to be prima facie evidence of the matters stated in it; and
+Insert:
 
                   (aaa)  providing for the provision, maintenance, custody and care of standards of measurement; and
 
-                     (b)  providing that a reference standard of measurement of a particular denomination that was found, upon verification, not to be greater or less than that denomination by an amount exceeding an amount specified in the regulations is, unless otherwise stated in the certificate issued in respect of the verification of the standard, to be deemed to be of a value equal to its denomination; and
+## 75  Paragraph 20(1)(e)
 
-                     (c)  providing for the certification of reference materials; and
+Omit “to be evidence”, substitute “to be prima facie evidence”.
 
-                     (d)  providing for the certification of measuring instruments; and
+## 76  Paragraph 20(1)(f)
 
-                     (e)  providing for or in relation to the issuing of certificates in respect of the certification of reference materials or measuring instruments, for the reception in evidence of a document purporting to be such a certificate and for such a certificate to be prima facie evidence of the matters stated in it; and
+Omit “Part VA”, substitute “Part IV”.
 
-                      (f)  providing for the exemption from the operation of Part IV of classes of gas, electricity and water meters; and
+## 77  Paragraph 20(1)(g)
 
-                     (g)  providing for sampling plans for utility meter verification; and
+Omit “and the verification marking of utility meters used for trade”.
 
-                     (h)  providing for the positioning of, and access to, utility meters in order to facilitate their use for trade and their verification; and
+## 78  Paragraph 20(1)(i)
 
-                      (i)  providing for the Commonwealth to audit the verification of utility meters used for trade undertaken by utility meter verifiers and the provision of labour, facilities and equipment for those purposes; and
+Omit “verifying authorities”, substitute “utility meter verifiers”.
 
-                      (j)  providing for the verification of measuring instruments used for trade; and
+## 79  Paragraph 20(1)(j)
+
+Omit “utility meters”, substitute “measuring instruments”.
+
+## 80  After paragraph 20(1)(j)
+
+Insert:
 
                      (ja)  providing for the positioning of, and access to, measuring instruments in order to facilitate their use by a person for trade, their examination by a verifier and their verification; and
 
@@ -6120,21 +9459,31 @@ Note 2:       The _Privacy Act 1988_ also imposes limitations on the
 
                      (jg)  providing for the keeping of records relating to measuring instruments and articles or utilities sold, or to be sold, by measurement; and
 
+## 81  Paragraph 20(1)(k)
+
+Repeal the paragraph, substitute:
+
                      (k)  prescribing a fee for applications; and
 
-                      (l)  prescribing a fee for activities undertaken in respect of:
+## 82  Subparagraph 20(1)(l)(ii)
 
-                              (i)  the examination and certification of patterns of measuring instruments; and
+Repeal the subparagraph, substitute:
 
-                             (ii)  the verification of measuring instruments used for trade; and; and
+                             (ii)  the verification of measuring instruments used for trade; and
 
-                            (iii)  the issue of a certificate in relation to the verification of a measuring instrument used for trade; and
+## 83  At the end of paragraph 20(1)(l)
+
+Add:
+
+                    ; and (iii)  the issue of a certificate in relation to the verification of a measuring instrument used for trade; and
 
                             (iv)  the issue of a permit for a packed article under Division 5 of Part VI; and
 
-                    (m)  providing for the time for payment of a fee; and
+## 84  At the end of subsection 20(1)
 
-                     (n)  prescribing appropriate limits of error for a measuring instrument for the purposes of the definition of **_measuring instrument gives an inaccurate measurement_**; and
+Add:
+
+             ; and (n)  prescribing appropriate limits of error for a measuring instrument for the purposes of the definition of **_measuring instrument gives an inaccurate measurement_**; and
 
                      (o)  prescribing the re-verification period for a class of measuring instrument; and
 
@@ -6162,3170 +9511,13 @@ Note 2:       The _Privacy Act 1988_ also imposes limitations on the
 
                     (za)  provide for the issue of infringement notices that specify penalties of no more than 5 penalty units for specified offences against the regulations.
 
-             (2)  The regulations may set a fee mentioned in subsection (1) by setting the amount of the fee or a way of working out the fee.
+## 85  Subsection 20(3)
+
+Repeal the subsection, substitute:
 
              (3)  A fee mentioned in subsection (1) must not be such as to amount to taxation.
 
-# Notes to the _National Measurement Act 1960_
-
-### Note 1
-
-The _National Measurement Act 1960_ as shown in this compilation comprises Act No. 64, 1960 amended as indicated in the Tables below. 
-
-For application, saving or transitional provisions made by the _National Measurement Amendment Act 2004_, _see_ Act No. 27, 2004.
-
-All relevant information pertaining to application, saving or transitional provisions prior to 31 March 1999 is not included in this compilation. For subsequent information _see_ Table A.
-
-### Table of Acts
-
-<table>
-<colgroup>
-  <col width="31%">
-  <col width="16%">
-  <col width="18%">
-  <col width="22%">
-  <col width="14%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>Act</div>
-    </td>
-    <td>
-      <div>Number 
-and year</div>
-    </td>
-    <td>
-      <div>Date 
-of Assent</div>
-    </td>
-    <td>
-      <div>Date of commencement</div>
-    </td>
-    <td>
-      <div>Application, saving or transitional provisions</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>Weights and Measures (National Standards) Act 1960</div>
-  </td>
-  <td>
-    <div>64, 1960</div>
-  </td>
-  <td>
-    <div>30 Nov 1960</div>
-  </td>
-  <td>
-    <div>28 Dec 1960</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Weights and Measures (National Standards) Act 1964</div>
-  </td>
-  <td>
-    <div>6, 1964</div>
-  </td>
-  <td>
-    <div>4 May 1964</div>
-  </td>
-  <td>
-    <div>4 May 1964</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision (Decimal Currency) Act 1966</div>
-  </td>
-  <td>
-    <div>93, 1966</div>
-  </td>
-  <td>
-    <div>29 Oct 1966</div>
-  </td>
-  <td>
-    <div>1 Dec 1966</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1973</div>
-  </td>
-  <td>
-    <div>216, 1973</div>
-  </td>
-  <td>
-    <div>19 Dec 1973</div>
-  </td>
-  <td>
-    <div>31 Dec 1973</div>
-  </td>
-  <td>
-    <div>Ss. 9(1) and 10</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Weights and Measures (National Standards) Amendment Act 1978</div>
-  </td>
-  <td>
-    <div>158, 1978</div>
-  </td>
-  <td>
-    <div>28 Nov 1978</div>
-  </td>
-  <td>
-    <div>Ss. 1, 2, 10, 11 and 13: Royal Assent 
-Remainder: 23 Oct 1979 ( <i>see Gazette</i>1979, No. S212)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Weights and Measures (National Standards) Amendment Act 1984</div>
-  </td>
-  <td>
-    <div>77, 1984</div>
-  </td>
-  <td>
-    <div>25 June 1984</div>
-  </td>
-  <td>
-    <div>7 Sept 1984 ( <i>see Gazette</i>1984, No. S353)</div>
-  </td>
-  <td>
-    <div>Ss. 8(2), 11(2) and 13(2)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1985</div>
-  </td>
-  <td>
-    <div>65, 1985</div>
-  </td>
-  <td>
-    <div>5 June 1985</div>
-  </td>
-  <td>
-    <div>S. 3: <i>(a)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1986</div>
-  </td>
-  <td>
-    <div>76, 1986</div>
-  </td>
-  <td>
-    <div>24 June 1986</div>
-  </td>
-  <td>
-    <div>S. 3: Royal Assent <i>(b)</i></div>
-  </td>
-  <td>
-    <div>S. 9</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act 1987</div>
-  </td>
-  <td>
-    <div>141, 1987</div>
-  </td>
-  <td>
-    <div>18 Dec 1987</div>
-  </td>
-  <td>
-    <div>S. 3: <i>(c)</i></div>
-  </td>
-  <td>
-    <div>S. 5(1)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Industry, Technology and Commerce Legislation Amendment Act 1989</div>
-  </td>
-  <td>
-    <div>91, 1989</div>
-  </td>
-  <td>
-    <div>27 June 1989</div>
-  </td>
-  <td>
-    <div>S. 15: 14 Dec 1988 
-Part 4 (ss. 20–25): 30 Nov 1989 ( <i>see Gazette</i>1989, No. S371) 
-Part 5 (ss. 26, 27): 1 Aug 1989 ( <i>see Gazette</i>1989, No. S262) 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Industry, Technology and Commerce Legislation Amendment Act 1991</div>
-  </td>
-  <td>
-    <div>66, 1991</div>
-  </td>
-  <td>
-    <div>15 June 1991</div>
-  </td>
-  <td>
-    <div>15 June 1991</div>
-  </td>
-  <td>
-    <div>Ss. 
-2(2)–(4) and 23(2)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Prime Minister and Cabinet Legislation Amendment Act 1991</div>
-  </td>
-  <td>
-    <div>199, 1991</div>
-  </td>
-  <td>
-    <div>18 Dec 1991</div>
-  </td>
-  <td>
-    <div>18 Dec 1991</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Industry, Technology and Commerce Legislation Amendment Act 1992</div>
-  </td>
-  <td>
-    <div>168, 1992</div>
-  </td>
-  <td>
-    <div>11 Dec 1992</div>
-  </td>
-  <td>
-    <div>Part 5 (ss. 14, 15): 30 July 1975 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Industry, Science and Technology Legislation Amendment Act 1994</div>
-  </td>
-  <td>
-    <div>108, 1994</div>
-  </td>
-  <td>
-    <div>12 July 1994</div>
-  </td>
-  <td>
-    <div>Div. 2 of Part 2 
-(ss. 4–6): 9 Aug 1994 
-Div. 5 of Part 2 
-(ss. 13–15): 13 July 1994 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Ss. 4, 7, 9 and 13</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1996</div>
-  </td>
-  <td>
-    <div>43, 1996</div>
-  </td>
-  <td>
-    <div>25 Oct 1996</div>
-  </td>
-  <td>
-    <div>Schedule 4 (items 104, 105): Royal Assent <i>(d)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Industry, Science and Tourism Legislation Amendment Act 1997</div>
-  </td>
-  <td>
-    <div>91, 1997</div>
-  </td>
-  <td>
-    <div>30 June 1997</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 21): Royal Assent <i>(e)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Audit (Transitional and Miscellaneous) Amendment Act 1997</div>
-  </td>
-  <td>
-    <div>152, 1997</div>
-  </td>
-  <td>
-    <div>24 Oct 1997</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 995–1003): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(f)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>National Measurement Amendment Act 1998</div>
-  </td>
-  <td>
-    <div>90, 1998</div>
-  </td>
-  <td>
-    <div>14 July 1998</div>
-  </td>
-  <td>
-    <div>14 July 1998</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>National Measurement Amendment (Utility Meters) Act 1999</div>
-  </td>
-  <td>
-    <div>9, 1999</div>
-  </td>
-  <td>
-    <div>31 Mar 1999</div>
-  </td>
-  <td>
-    <div>Schedule 1: 1 Oct 1999 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 14) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Corporate Law Economic Reform Program Act 1999</div>
-  </td>
-  <td>
-    <div>156, 1999</div>
-  </td>
-  <td>
-    <div>24 Nov 1999</div>
-  </td>
-  <td>
-    <div>Schedule 10 (item 101): 13 Mar 2000 ( <i>see Gazette</i>2000, No. S114) <i>(g)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Industry, Science and Resources Legislation Amendment (Application of Criminal Code) Act 2001</div>
-  </td>
-  <td>
-    <div>140, 2001</div>
-  </td>
-  <td>
-    <div>1 Oct 2001</div>
-  </td>
-  <td>
-    <div>2 Oct 2001</div>
-  </td>
-  <td>
-    <div>S. 4 \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001</div>
-  </td>
-  <td>
-    <div>159, 2001</div>
-  </td>
-  <td>
-    <div>1 Oct 2001</div>
-  </td>
-  <td>
-    <div>29 Oct 2001</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 97) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>National Measurement Amendment Act 2004</div>
-  </td>
-  <td>
-    <div>27, 2004</div>
-  </td>
-  <td>
-    <div>25 Mar 2004</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 1–66): 1 July 2004 ( <i>see</i> <i>Gazette</i>2004, No. GN22) 
-Schedule 2 (items 1, 4): <i>(h)</i> 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 1 (items 50, 54, 67–88) and Sch. 2 (item 3) \[ <i>see</i>Note 1]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>National Measurement Amendment Act 2008</div>
-  </td>
-  <td>
-    <div>137, 2008</div>
-  </td>
-  <td>
-    <div>8 Dec 2008</div>
-  </td>
-  <td>
-    <div>1 July 2009</div>
-  </td>
-  <td>
-    <div>Sch. 2 \[ <i>see</i>Table A]</div>
-  </td>
-</tr></table>
-
-_(a)_     The _National Measurement Act 1960_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsections 2(1) and (30) of which provide as follows:
-
-                 (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
-
-               (30)   The amendment of subsection 3(3) of the _National Measurement Act 1960_ made by this Act shall be deemed to have come into operation immediately after the commencement of the _Weights and Measures (National Standards) Amendment Act 1984_.
-
- The _Weights and Measures (National Standards) Amendment Act 1984_ came into operation on 7 September 1984 (_see Gazette_ 1984, No. S353).
-
-_(b)_    The _National Measurement Act 1960_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1986_, subsection 2(1) of which provides as follows:
-
-                 (1)   Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
-
-_(c)_     The _National Measurement Act 1960_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act 1987_, subsections 2(1) and (25) of which provide as follows:
-
-                 (1)   Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
-
-               (25)   The following amendments of the _National Measurement Act 1960_ made by this Act shall come into operation on 1 January 1988:
-
-                              (a)   the insertion of the definition of **_interest in land_** in subsection 3(1);
-
-                              (b)   the amendment of section 12;
-
-                              (c)   the insertion of section 12A.
-
-_(d)_     The _National Measurement Act 1960_ was amended by Schedule 4 (items 104 and 105) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows:
-
-                 (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent. 
-
-_(e)_     The _National Measurement Act 1960_ was amended by Schedule 1 (item 21) only of the _Industry, Science and Tourism Legislation Amendment Act 1997_, subsection 2(1) of which provides as follows:
-
-                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
-
-_(f)_      The _National Measurement Act 1960_ was amended by Schedule 2 (items 995–1003) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
-
-                 (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
-
-_(g)_     The _National Measurement Act 1960_ was amended by Schedule 10 (item 101) only of the _Corporate Law Economic Reform Program Act 1999_, subsection 2(2)(c) of which provides as follows:
-
-                 (2)   The following provisions commence on a day or days to be fixed by Proclamation:
-
-                              (c)   the items in Schedules 10, 11 and 12\. 
-
-_(h)_     Subsection 2(1) (items 2, 4 and 6) of the _National Measurement Amendment Act 2004_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      2\. Schedule 1, Parts 1, 2 and 3
-    </div>
-  </td>
-  <td>
-    <div>
-      A single day to be fixed by Proclamation.
-    </div>
-    <div>
-      However, if the provision(s) do not commence within the period of 6 months
-        beginning on the day on which this Act receives the Royal Assent, they
-        commence on the first day after the end of that period.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2004
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      4\. Schedule 2, item 1
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of the provision(s) covered by table
-        item 2.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2004
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      6\. Schedule 2, item 4
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of the provision(s) covered by table
-        item 2.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2004
-    </div>
-  </td>
-</tr></table>
-
-## Table of Amendments
-
-<table>
-<colgroup>
-  <col width="34%">
-  <col width="66%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div><b>Part I</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part I</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 1978</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 1</div>
-  </td>
-  <td>
-    <div>am. No. 77, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 2</div>
-  </td>
-  <td>
-    <div>rep. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 6, 1964; No. 216, 1973; No. 158, 1978; No. 77, 1984; No. 65, 1985; No. 141, 1987; No. 91, 1989; No. 66, 1991; No. 168, 1992; No. 90, 1998; No. 9, 1999; No. 27, 2004; No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3A</div>
-  </td>
-  <td>
-    <div>ad. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>am. No. 77, 1984; No. 9, 1999; No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4A</div>
-  </td>
-  <td>
-    <div>ad. No. 9, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4B</div>
-  </td>
-  <td>
-    <div>ad. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5</div>
-  </td>
-  <td>
-    <div>am. No. 77, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6A</div>
-  </td>
-  <td>
-    <div>ad. No. 140, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part II</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part II</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 1978</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7</div>
-  </td>
-  <td>
-    <div>am. No. 77, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 66, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7A</div>
-  </td>
-  <td>
-    <div>ad. No. 66, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7B</div>
-  </td>
-  <td>
-    <div>ad. No. 66, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 27, 2004; No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8</div>
-  </td>
-  <td>
-    <div>am. No. 6, 1964; No. 158, 1978; No. 77, 1984; No. 141, 1987; No. 27, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8AA</div>
-  </td>
-  <td>
-    <div>ad. No. 91, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 27, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8A</div>
-  </td>
-  <td>
-    <div>ad. No. 6, 1964</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 77, 1984; No. 27, 2004; No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9</div>
-  </td>
-  <td>
-    <div>rs. No. 6, 1964</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 77, 1984; No. 141, 1987; No. 27, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10</div>
-  </td>
-  <td>
-    <div>am. No. 158, 1978; No. 77, 1984; No. 168, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 11</div>
-  </td>
-  <td>
-    <div>rs. No. 77, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 12</div>
-  </td>
-  <td>
-    <div>am. No. 77, 1984; No. 141, 1987; No. 9, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 12A</div>
-  </td>
-  <td>
-    <div>ad. No. 141, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 9, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13</div>
-  </td>
-  <td>
-    <div>am. No. 158, 1978; No. 77, 1984; No. 9, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13A</div>
-  </td>
-  <td>
-    <div>ad. No. 141, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 9, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 14</div>
-  </td>
-  <td>
-    <div>am. No. 77, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15</div>
-  </td>
-  <td>
-    <div>rep. No. 77, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part III</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part III</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 1978</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 27, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part III</div>
-  </td>
-  <td>
-    <div>rs. No. 27, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 16</div>
-  </td>
-  <td>
-    <div>am. No. 6, 1964; No. 158, 1978; No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 27, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 17</div>
-  </td>
-  <td>
-    <div>rs. No. 158, 1978</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 77, 1984; No. 141, 1987; No. 108, 1994; No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 27, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18</div>
-  </td>
-  <td>
-    <div>rs. No. 77, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 91, 1989; No. 168, 1992; No. 108, 1994; No. 9, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 27, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18AAA</div>
-  </td>
-  <td>
-    <div>ad. No. 77, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 9, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 27, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18AA</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 1978</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 141, 1987; No. 43, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 27, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18AB</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 1978</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 141, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 27, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18AC</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 1978</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 77, 1984; No. 141, 1987; No. 152, 1997; No. 156, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 27, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18AD</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 1978</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 77, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18AE</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 1978</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 77, 1984; No. 141, 1987; No. 108, 1994; No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 27, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18AF</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 1978</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 27, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 18AG, 18AH</div>
-  </td>
-  <td>
-    <div>ad. No. 141, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 27, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18AI</div>
-  </td>
-  <td>
-    <div>ad. No. 141, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 159, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 27, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18AJ</div>
-  </td>
-  <td>
-    <div>ad. No. 141, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 90, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 27, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18AK</div>
-  </td>
-  <td>
-    <div>ad. No. 141, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 27, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18AL</div>
-  </td>
-  <td>
-    <div>ad. No. 141, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 43, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 27, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 18AM–18AP</div>
-  </td>
-  <td>
-    <div>ad. No. 141, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 27, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 18AQ, 18AR</div>
-  </td>
-  <td>
-    <div>ad. No. 141, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 27, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18A</div>
-  </td>
-  <td>
-    <div>ad. No. 6, 1964</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 93, 1966; No. 216, 1973; No. 77, 1984; No. 65, 1985; No. 199, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 27, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18B</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 1978</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 27, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18C</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 1978</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 27, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18D</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 1978</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 108, 1994; No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 27, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18DA</div>
-  </td>
-  <td>
-    <div>ad. No. 108, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18E</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 1978</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 76, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18F</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 1978</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 141, 1987; No. 108, 1994; No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 27, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part IV</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part IV</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 1978</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 141, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 27, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part IV</div>
-  </td>
-  <td>
-    <div>rep. No. 27, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 1 of 
-Part IV</div>
-  </td>
-  <td>
-    <div>ad. No. 141, 1987 
-rep. No. 27, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18G</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 1978</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 9, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 2 of 
-Part IV</div>
-  </td>
-  <td>
-    <div>ad. No. 141, 1987 
-rep. No. 27, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 18GA–18GE</div>
-  </td>
-  <td>
-    <div>ad. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 18GF–18GQ</div>
-  </td>
-  <td>
-    <div>ad. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part V</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part V</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 1978</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 27, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part V</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 1978</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 27, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18H</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 1978</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 91, 1989</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 9, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 27, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 18HA–18HI</div>
-  </td>
-  <td>
-    <div>ad. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part VA</div>
-  </td>
-  <td>
-    <div>ad. No. 9, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part VI</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part VI</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 1978</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part VI</div>
-  </td>
-  <td>
-    <div>rs. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18J</div>
-  </td>
-  <td>
-    <div>ad. No. 9, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 140, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision 2-A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 18JA–18JE</div>
-  </td>
-  <td>
-    <div>ad. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision 2-B</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 18JF–18JH</div>
-  </td>
-  <td>
-    <div>ad. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision 3-A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18JI</div>
-  </td>
-  <td>
-    <div>ad. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision 3-B</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 18JJ–18JL</div>
-  </td>
-  <td>
-    <div>ad. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision 3-C</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 18JM–18JP</div>
-  </td>
-  <td>
-    <div>ad. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision 4-A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18JQ</div>
-  </td>
-  <td>
-    <div>ad. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision 4-B</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 18JR–18JV</div>
-  </td>
-  <td>
-    <div>ad. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 18JW–18JZ</div>
-  </td>
-  <td>
-    <div>ad. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part VII</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part VII</div>
-  </td>
-  <td>
-    <div>ad. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18K</div>
-  </td>
-  <td>
-    <div>ad. No. 9, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 18KA–18KD</div>
-  </td>
-  <td>
-    <div>ad. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part VIII</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part VIII</div>
-  </td>
-  <td>
-    <div>ad. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 1 of 
-Part VIII</div>
-  </td>
-  <td>
-    <div>ad. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18L</div>
-  </td>
-  <td>
-    <div>ad. No. 9, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 18LA–18LE</div>
-  </td>
-  <td>
-    <div>ad. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 18LF–18LK</div>
-  </td>
-  <td>
-    <div>ad. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 18LL–18LQ</div>
-  </td>
-  <td>
-    <div>ad. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part IX</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part IX</div>
-  </td>
-  <td>
-    <div>ad. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 1 of 
-Part IX</div>
-  </td>
-  <td>
-    <div>ad. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18M</div>
-  </td>
-  <td>
-    <div>ad. No. 9, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 18MA–18MC</div>
-  </td>
-  <td>
-    <div>ad. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 18MD–18MM</div>
-  </td>
-  <td>
-    <div>ad. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 18MN–18MV</div>
-  </td>
-  <td>
-    <div>ad. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 18MW, 18MX</div>
-  </td>
-  <td>
-    <div>ad. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 6</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 18MY, 18MZ</div>
-  </td>
-  <td>
-    <div>ad. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 18MZA–18MZD</div>
-  </td>
-  <td>
-    <div>ad. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part X</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part X</div>
-  </td>
-  <td>
-    <div>ad. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18N</div>
-  </td>
-  <td>
-    <div>ad. No. 9, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 18NA–18NO</div>
-  </td>
-  <td>
-    <div>ad. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part XI</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part XI</div>
-  </td>
-  <td>
-    <div>ad. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 1 of 
-Part XI</div>
-  </td>
-  <td>
-    <div>ad. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18P</div>
-  </td>
-  <td>
-    <div>ad. No. 9, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 18PA–18PS</div>
-  </td>
-  <td>
-    <div>ad. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 18PT, 18PU</div>
-  </td>
-  <td>
-    <div>ad. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part XII</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part XII</div>
-  </td>
-  <td>
-    <div>ad. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18Q</div>
-  </td>
-  <td>
-    <div>ad. No. 9, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 18QA–18QF</div>
-  </td>
-  <td>
-    <div>ad. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part XIII</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part XIII</div>
-  </td>
-  <td>
-    <div>ad. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 1 of 
-Part XIII</div>
-  </td>
-  <td>
-    <div>ad. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18R</div>
-  </td>
-  <td>
-    <div>ad. No. 9, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 18RA–18RC</div>
-  </td>
-  <td>
-    <div>ad. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 18RD–18RG</div>
-  </td>
-  <td>
-    <div>ad. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 18RH, 18RI</div>
-  </td>
-  <td>
-    <div>ad. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 18S, 18T</div>
-  </td>
-  <td>
-    <div>ad. No. 9, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18U</div>
-  </td>
-  <td>
-    <div>ad. No. 9, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 27, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 18V–18Y</div>
-  </td>
-  <td>
-    <div>ad. No. 9, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18Z</div>
-  </td>
-  <td>
-    <div>ad. No. 9, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 27, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 18ZA</div>
-  </td>
-  <td>
-    <div>rs. No. 27, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 18ZA, 18ZB</div>
-  </td>
-  <td>
-    <div>ad. No. 9, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 27, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 18ZC</div>
-  </td>
-  <td>
-    <div>am. No. 27, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 18ZC, 18ZD</div>
-  </td>
-  <td>
-    <div>ad. No. 9, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 27, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 18ZE</div>
-  </td>
-  <td>
-    <div>rs. No. 27, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18ZE</div>
-  </td>
-  <td>
-    <div>ad. No. 9, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 27, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 18ZF, 18ZG</div>
-  </td>
-  <td>
-    <div>ad. No. 9, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 27, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 18ZH</div>
-  </td>
-  <td>
-    <div>rs. No. 27, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18ZH</div>
-  </td>
-  <td>
-    <div>ad. No. 9, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 27, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 18ZI</div>
-  </td>
-  <td>
-    <div>rs. No. 27, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 18ZI–18ZK</div>
-  </td>
-  <td>
-    <div>ad. No. 9, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 27, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 18ZKA, 18ZKB</div>
-  </td>
-  <td>
-    <div>ad. No. 27, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18ZL</div>
-  </td>
-  <td>
-    <div>ad. No. 9, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 18ZM, 18ZN</div>
-  </td>
-  <td>
-    <div>ad. No. 9, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 27, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 18ZO–18ZV</div>
-  </td>
-  <td>
-    <div>ad. No. 9, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18ZW</div>
-  </td>
-  <td>
-    <div>ad. No. 9, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 27, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 18ZX, 18ZY</div>
-  </td>
-  <td>
-    <div>ad. No. 9, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18ZZ</div>
-  </td>
-  <td>
-    <div>ad. No. 9, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 27, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18ZZA</div>
-  </td>
-  <td>
-    <div>ad. No. 9, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 18ZZB–18ZZF</div>
-  </td>
-  <td>
-    <div>ad. No. 9, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part XIV</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part XIV</div>
-  </td>
-  <td>
-    <div>ad. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19</div>
-  </td>
-  <td>
-    <div>am. No. 6, 1964; No. 158, 1978; No. 77, 1984; No. 27, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19A</div>
-  </td>
-  <td>
-    <div>ad. No. 6, 1964</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 77, 1984; No. 91, 1989; No. 168, 1992; No. 27, 2004; No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19AAA</div>
-  </td>
-  <td>
-    <div>ad. No. 168, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19AAB</div>
-  </td>
-  <td>
-    <div>ad. No. 168, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 27, 2004; No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19AA</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 1978</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 27, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19B</div>
-  </td>
-  <td>
-    <div>ad. No. 6, 1964</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 93, 1966; No. 158, 1978; No. 77, 1984; No. 91, 1989; No. 27, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19C</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 1978</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 19D–19H</div>
-  </td>
-  <td>
-    <div>ad. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 19J–19N</div>
-  </td>
-  <td>
-    <div>ad. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19P</div>
-  </td>
-  <td>
-    <div>ad. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 20</div>
-  </td>
-  <td>
-    <div>am. No. 77, 1984; No. 168, 1992; No. 90, 1998; No. 9, 1999; No. 27, 2004; No. 137, 2008</div>
-  </td>
-</tr></table>
+As at 6 January 2009 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -9363,6 +9555,8 @@ The amendments made by this Schedule do not apply to an appointment if the term 
 * * *
 
 _National Measurement Amendment Act 2008 (No. 137, 2008)_
+
+_The following provisions commence on the 1 July  2009:_
 
 ## Schedule 2
 
