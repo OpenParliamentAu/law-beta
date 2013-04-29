@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00301/Html/Judiciary03_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00278/Html/Judiciary03_WD02_image001.gif)
 
 # Judiciary Act 1903
 
 **Act No. 6 of 1903 as amended**
 
-This compilation was prepared on 6 July 2009
- taking into account amendments up to Act No. 54 of 2009
+This compilation was prepared on 9 July 2008
+ taking into account amendments up to Act No. 71 of 2008
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -795,7 +795,11 @@ Jurisdictional rules to apply despite any other law
 
 References to officer or officers of the Commonwealth
 
-             (2)  The reference in subsection (1), (1B), (1C) or (1D) to an officer or officers of the Commonwealth does not include a reference to a Judge or Judges of the Family Court of Australia.
+             (2)  The reference in subsection (1), (1B), (1C) or (1D) to an officer or officers of the Commonwealth does not include a reference to:
+
+                     (a)  a person holding office under the _Workplace Relations Act 1996_ or the _Coal Industry Act 1946_; or
+
+                     (b)  a Judge or Judges of the Family Court of Australia.
 
 Definitions
 
@@ -1299,7 +1303,7 @@ Note:          For **_State_** see section 55I.
 
              (5)  In this section:
 
-                    <a name="territori"></a>**_Territory_** does not include the Australian Capital   Territory, the Northern Territory or Norfolk Island.
+                    <a name="territori"></a>**_Territory_** does not include the Australian   Capital Territory, the Northern Territory or Norfolk Island.
 
 ##### <a id="55P"></a>55P  AGS may charge for services
 
@@ -1685,7 +1689,7 @@ of persons charged with offences against the laws of the Commonwealth, being off
 
 ### Division 2—Indictable offences
 
-##### <a id="69"></a>69  Indictments
+##### <a id="69"></a>69  Indictments
 
              (1)  Indictable offences against the laws of the Commonwealth shall be prosecuted by indictment in the name of the Attorney-General of the Commonwealth or of such other person as the Governor-General appoints in that behalf.
 
@@ -1843,7 +1847,7 @@ that apply for the purposes of the trial of civil proceedings in the Supreme Cou
 
                      (b)  where the party is the defendant—give judgment against the defendant as by default.
 
-##### <a id="77F"></a>77F  Oaths and affirmations
+##### <a id="77F"></a>77F  Oaths and affirmations
 
              (1)  The High Court may require and administer all necessary oaths and affirmations.
 
@@ -3445,7 +3449,7 @@ Sch. 16 (item 65)</div>
     <div>13 Oct 1999</div>
   </td>
   <td>
-    <div>Schedule 14 (item 2): 25 May 1997 <i>(sa)</i></div>
+    <div>Schedule 14 (item 2): 25 May 1997 <i>( sa)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -3745,24 +3749,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Sch. 1 (item 3) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Fair Work (State Referral and Consequential and Other Amendments) Act 2009</div>
-  </td>
-  <td>
-    <div>54, 2009</div>
-  </td>
-  <td>
-    <div>25 June 2009</div>
-  </td>
-  <td>
-    <div>S. 4: Royal Assent 
-Schedule 5 (items 38, 85): <i>(za)</i></div>
-  </td>
-  <td>
-    <div>S. 4 and Sch. 5 (item 85) \[ <i>see</i>Table A]</div>
   </td>
 </tr></table>
 
@@ -4092,81 +4078,6 @@ _(z)_ Subsection 2(1) (item 2) of the _National Security Information (Criminal
   <td>
     <div>
       11 January 2005
-    </div>
-  </td>
-</tr></table>
-
-_(za)_ Subsection 2(1) (items 13 and 21) of the _Fair Work (State Referral and Consequential and Other Amendments) Act 2009_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      13\. Schedule 5, items 32 to 64
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of Part 2-4 of the
-        <i>Fair Work Act 2009</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2009 (
-        <i>see</i>F2009L02563)
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      21\. Schedule 5, Part 3
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of Part 2-4 of the
-        <i>Fair Work Act 2009</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2009 (
-        <i>see</i>F2009L02563)
     </div>
   </td>
 </tr></table>
@@ -4991,7 +4902,7 @@ _(za)_ Subsection 2(1) (items 13 and 21) of the _Fair Work (State Referral and
     <div></div>
   </td>
   <td>
-    <div>am. No. 72, 1984; No. 87, 1988; No. 98, 1993; No. 60, 1996; No. 34, 1997; No. 125, 1999; No. 57, 2000; No. 151, 2004; No. 89, 2005; No. 54, 2009</div>
+    <div>am. No. 72, 1984; No. 87, 1988; No. 98, 1993; No. 60, 1996; No. 34, 1997; No. 125, 1999; No. 57, 2000; No. 151, 2004; No. 89, 2005</div>
   </td>
 </tr>
 <tr>
@@ -7011,23 +6922,5 @@ _Judiciary Amendment Act 2008 (No. 71, 2008)_
 ## 3  Application
 
 The amendments of the _Judiciary Act 1903_ made by this Schedule apply in relation to the recovery of amounts paid after the commencement of this Schedule.
-
-* * *
-
-_Fair Work (State Referral and Consequential and Other Amendments) Act 2009 (No. 54, 2009)_
-
-##### <a id="4"></a>4  Definition
-
-                   In this Act:
-
-                    <a name="wr-act-repeal-dai"></a>**_WR Act repeal day_** has the meaning given by Schedule 2 to the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_.
-
-## Schedule 5
-
-## 85  Application of item 38
-
-(1)        The amendment made by item 38 of this Schedule applies in relation to any matter in which a writ of mandamus or prohibition or an injunction is sought, on or after the WR Act repeal day, against an officer or officers of the Commonwealth in relation to a decision made (whether before or after that day) by the officer or officers in the capacity of a person who holds office under the _Fair Work Act 2009_.
-
-(2)        Despite the amendment made by item 38 of this Schedule, subsection 39B(2) of the _Judiciary Act 1903_, as in force immediately before the WR Act repeal day, continues to apply in relation to any matter in which a writ of mandamus or prohibition or an injunction is sought, on or after that day, against an officer or officers of the Commonwealth in relation to a decision made (whether before or after that day) by the officer or officers in the capacity of a person who holds office under the _Workplace Relations Act 1996_.
 
  
