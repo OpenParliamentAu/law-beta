@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2011C00055/Html/043220be-0a8e-4e93-9e3c-650bc241bf39_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00485/Html/d7daf0fa-b530-4104-99f3-0dce6786f8bc_files/image001.gif)
 
 # Aboriginal Land Rights (Northern Territory) Act 1976
 
 **Act No. 191 of 1976 as amended**
 
-This compilation was prepared on 31 December 2010
+This compilation was prepared on 12 July 2010
  taking into account amendments up to Act No. 38 of 2010
 
 [**Note**: Subsections 70(2BA), (2BB), (2BC) cease to have effect on 18 August 2012, _see_ section 70]
@@ -492,13 +492,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part 5** 
 
-**Schedule 2** 
+**Schedule 2—Ranger Project Area** 
 
-**Schedule 3** 
+**Schedule 3—Eastern Areas on Groote Eylandt** 
 
-**Schedule 4** 
+**Schedule 4—Alligator Rivers Area (No. 3)** 
 
-**Schedule 5** 
+**Schedule 5—Nabarlek Project Area** 
 
 **Schedule 6—Anindilyakwa Land Trust** 
 
@@ -2312,7 +2312,7 @@ Part-time Executive Director
 
              (2)  If the Executive Director is appointed on a part-time basis, the Minister may grant leave of absence to the Executive Director on the terms and conditions that the Minister determines.
 
-##### <a id="20L"></a>20L  Resignation
+##### <a id="20L"></a>20L  Resignation
 
                    The Executive Director may resign his or her appointment by giving the Governor-General a written resignation.
 
@@ -3606,7 +3606,7 @@ to inspect, at any reasonable time without charge:
 
              (7)  A co-opted member of a Land Council is not eligible to be elected as the Chair or the Deputy Chair of the Land Council.
 
-##### <a id="31"></a>31  Meetings of Land Council
+##### <a id="31"></a>31  Meetings of Land Council
 
              (1)  The Chair shall convene such meetings of a Land Council as are, in his or her opinion, necessary for the efficient conduct of its affairs and, at such a meeting, the Chair shall preside if he or she is present and, if the Chair is not present, the Deputy Chair shall preside.
 
@@ -5570,7 +5570,7 @@ Note:          A defendant bears an evidential burden in relat
 
                      (d)  as a candidate for election as a member of the House of Representatives for a Northern Territory electorate, as a Senator for the Northern Territory or as a member of the Legislative Assembly of the Northern Territory; or
 
-                     (e)  in performing functions, or exercising powers, under this Act or another law of the Commonwealth or under a law of the Northern Territory; or
+                     (e)  in performing functions, or exercising powers, under this Act or another law of the Commonwealth or under a law of the   Northern Territory; or
 
                       (f)  in performing functions or exercising powers as a Commonwealth or Northern Territory officer; or
 
@@ -6020,7 +6020,7 @@ Note:          See section 70A for the definition of **_vest
 
              (3)  Subsection (1) applies subject to any limitation prescribed by the regulations for the purposes of this subsection.
 
-##### <a id="70H"></a>70H  No limit on section 71
+##### <a id="70H"></a>70H  No limit on section 71
 
                    Nothing in sections 70B to 70G limits the application of section 71.
 
@@ -6440,7 +6440,7 @@ All that parcel of land in the Northern Territory containing an area of 3,344 
 
 MT KATHLEEN (LOVES CREEK) LOCALITY
 
-All that parcel of land in the Northern Territory containing an area of 5,291 hectares more or less, being all of Northern Ter  ritory portion 3824 and being more particularly delineated on Survey Plans S.89/70A to S.89/70C lodged with the Surveyor-General, Darwin.
+All that parcel of land in the Northern Territory containing an area of 5,291 hectares more or less, being all of Northern Territory portion 3824 and being more particularly delineated on Survey Plans S.89/70A to S.89/70C lodged with the Surveyor-General, Darwin.
 
 NEWCASTLE WATERS LOCALITY
 
@@ -6610,7 +6610,7 @@ EMILY AND JESSIE GAPS   NATURE PARK AND HEAVITREE RANGE EXTENSION
 
 1)    Emily and Jessie Gaps   Nature Park
 
-All that parcel of land near  Alice Springs in the Northern Territory of Australia containing an area of 670.2 hectares more or less being the whole of Northern Territory Portion 6624 more particularly delineated on Survey Plan S2005/23B lodged with the Surveyor General, Darwin.
+All that parcel of land near Alice Springs in the Northern Territory of Australia containing an area of 670.2 hectares more or less being the whole of Northern Territory Portion 6624 more particularly delineated on Survey Plan S2005/23B lodged with the Surveyor General, Darwin.
 
 2)    Heavitree Range Extension
 
@@ -10443,7 +10443,7 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 19 94 (GDA94)</b>
+        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -11725,7 +11725,7 @@ _Note:       See paragraph 70A(2)(a)._
   </td>
 </tr></table>
 
-##### <a id="15"></a>15  Gunbalanya
+##### <a id="15"></a>15  Gunbalanya
 
                    All that area of land contained within the 4 separate areas of land outlined below having a total area of approximately 12.135 square kilometres, to the extent that it is Aboriginal land within the meaning of paragraph (a) of the definition of **_Aboriginal land_** in subsection 3(1), being:
 
@@ -21917,7 +21917,7 @@ _Note:       See paragraph 70A(2)(a)._
 
 ##### <a id="42"></a>42  Robinson River
 
-                   All that area of land contained within the 3 separate areas of land outlined below having a total area of approximately 4.211 square kilometres, to the extent that it is Aboriginal land within the meaning of paragraph (a) of the definition of **_Aboriginal land_** in subsection 3(1), being:
+                   All that area of land contained within the 3 separate areas of land outlined below having a total area of approximately 4.211 square kilometres, to the extent that it is Aboriginal land within the meaning of paragraph (a) of the definition of **_Aboriginal land_** in subsection 3(1), being:
 
                      (a)  Area 1 of 3, that is all of that area contained within and bounded by a line commencing at Point 1 listed immediately below, thence initially in an easterly direction successively along a straight line (loxodrome) between each of the following points in the sequence to Point 6, thence to the point of commencement;
 
@@ -27140,7 +27140,7 @@ Ss. 4 and 5 (rep. by 93, 2010, Sch. 1 \[item 1]) \[ <i>see</i>Table A]</div>
     <div>29 June 2010</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1, 4): 31 Dec 2010</div>
+    <div>Schedule 1 (items 1, 4): \[ <i>see</i>Table A]</div>
   </td>
   <td>
     <div>Sch. 1 (item 4) \[ <i>see</i>Table A]</div>
@@ -30681,6 +30681,42 @@ _Families, Community Services and Indigenous Affairs and Other Legislation Amend
 
                    Section 49 of the _Northern   Territory__(Self-Government) Act 1978_ does not apply in relation to the provisions of this Act.
 
+##### \[NOTE]  <a id="4"></a>4  Racial Discrimination Act
+
+             (1)  Subject to subsection (3), the provisions of this Act, and any acts done under or for the purposes of those provisions, are, for the purposes of the _Racial Discrimination Act 1975_, special measures.
+
+             (2)  Subject to subsection (3), the provisions of this Act, and any acts done under or for the purposes of those provisions, are excluded from the operation of Part II of the _Racial Discrimination Act 1975_.
+
+             (3)  Subsections (1) and (2) do not apply to amendments or repeals made by Division 2 or 3 of Part 1 of Schedule 2 (law enforcement) to this Act.
+
+             (4)  In this section, a reference to:
+
+                     (a)  any acts done includes a reference to any failure to do an act; and
+
+                     (b)  provisions of this Act includes a reference to provisions of other Acts that are inserted, amended or repealed by the provisions of this Act.
+
+##### \[NOTE]  <a id="5"></a>5  Some Northern Territory laws excluded
+
+             (1)  Subject to subsections (3) and (4), the provisions of this Act are intended to apply to the exclusion of a law of the Northern Territory that deals with discrimination so far as it would otherwise apply.
+
+             (2)  Subject to subsections (3) and (4), any acts done under or for the purposes of the provisions of this Act have effect despite any law of the Northern Territory that deals with discrimination.
+
+Northern Territory laws that are not excluded
+
+             (3)  Subsections (1) and (2) do not apply to a law of the Northern Territory so far as the Minister determines, by legislative instrument, that the law is a law to which subsections (1) and (2) do not apply.
+
+Provisions of this Act that are not excluded
+
+             (4)  Subsections (1) and (2) do not apply to amendments or repeals made by Division 2 or 3 of Part 1 of Schedule 2 (law enforcement) to this Act.
+
+Interpretation
+
+             (5)  In this section, a reference to:
+
+                     (a)  any acts done includes a reference to any failure to do an act; and
+
+                     (b)  provisions of this Act includes a reference to provisions of other Acts that are inserted, amended or repealed by the provisions of this Act.
+
 ## Schedule 4
 
 ## 16  Application—permits
@@ -30719,6 +30755,19 @@ would result in an acquisition of property to which paragraph 51(xxxi) of the Co
 
 **_just terms_** has the same meaning as in paragraph 51(xxxi) of the Constitution.
 
+_\[NOTE]:  Social Security and Other Legislation Amendment (Welfare Reform and Reinstatement of Racial Discrimination Act) Act 2010
+ (No. 93, 2010)_
+
+The following amendment commences at the end of 31 December 2010 and amends the _Families, Community Services and Indigenous Affairs and Other Legislation Amendment (Northern Territory National Emergency Response and Other Measures) Act 2007_ (No. 128, 2007) as follows:
+
+## Schedule 1
+
+## 1  Sections 4 and 5
+
+Repeal the sections.
+
+As at 12 July 2010 the amendment is not incorporated in this compilation.
+
 * * *
 
 _Indigenous Affairs Legislation Amendment Act 2008 (No. 67, 2008)_
@@ -30738,6 +30787,8 @@ The amendment made by item 3 applies in relation to leases granted after the c
 * * *
 
 _Social Security and Other Legislation Amendment (Welfare Reform and Reinstatement of Racial Discrimination Act) Act 2010 (No. 93, 2010)_
+
+The following provision commences at the end of 31 December 2010:
 
 ## Schedule 1
 
