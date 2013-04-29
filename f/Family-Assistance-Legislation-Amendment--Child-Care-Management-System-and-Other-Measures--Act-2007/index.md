@@ -1,20 +1,19 @@
-![](http://www.comlaw.gov.au/Details/C2011C00337/Html/81896a6d-34ea-4aca-9d14-9e4d2ccd7f75_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00341/Html/c7dc7a43-1df9-4905-bf12-51146a128c7b_files/image001.gif)
 
 # Family Assistance Legislation Amendment (Child Care Management System and Other Measures) Act 2007
 
 **Act No. 118 of 2007 as amended**
 
-This compilation was prepared on 3 May 2011
- taking into account amendments up to Act No. 25 of 2011
+This compilation was prepared on 5 May 2010
+ taking into account amendments up to Act No. 34 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
 
-The operation of amendments that have been incorporated may be
- affected by application provisions that are set out in the Notes section
+The operation of amendments that have been incorporated may be affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -205,9 +204,9 @@ Additional absence days permitted
 
                               (i)  the absence is due to the illness of the child, the individual in whose care the child is, that individual’s partner, or another individual with whom the child lives, and a medical certificate covering that illness is obtained from a medical practitioner and given to the service;
 
-                             (ii)  the absence is due to the child’s attendance at a pre‑school;
+                             (ii)  the absence is due to the child’s attendance at a pre-school;
 
-                            (iii)  the absence is due to alternative care arrangements being made for the child because the child does not have to be at school on a pupil‑free day;
+                            (iii)  the absence is due to alternative care arrangements being made for the child because the child does not have to be at school on a pupil-free day;
 
                             (iv)  the absence occurs in circumstances specified in a determination under section 11 as permitted circumstances for the purpose of this subparagraph; and
 
@@ -227,7 +226,7 @@ Omit “(1)”.
 
 Repeal the subsection.
 
-## 5  Subclause 2(2) of Schedule 2 (subparagraphs (a)(iii), (b)(iii), (c)(iii), (d)(iii) and (e)(iii) of the definition of _part‑time %_)
+## 5  Subclause 2(2) of Schedule 2 (subparagraphs (a)(iii), (b)(iii), (c)(iii), (d)(iii) and (e)(iii) of the definition of _part-time %_)
 
 Omit “one or more approved centre based long day care services”, substitute “the approved centre based long day care service”.
 
@@ -1533,7 +1532,7 @@ If a child is already enrolled for care by an approved child care service on the
 
 (3)       Subsection 82(2) of the Family Assistance Administration Act (as amended by this Schedule) applies in respect of the recovery of the debt (as if it were a debt as defined in subsection 82(3) of that Act).
 
-(4)       Division 4 (Non‑recovery of debts) of Part 4 of the Family Assistance Administration Act applies in relation to the debt as if it were a debt recoverable by the Commonwealth under Division 2 of that Part.
+(4)       Division 4 (Non-recovery of debts) of Part 4 of the Family Assistance Administration Act applies in relation to the debt as if it were a debt recoverable by the Commonwealth under Division 2 of that Part.
 
 (5)       The debt is discharged if:
 
@@ -1595,7 +1594,7 @@ has not passed on any amount in reduced fees during the period.
 
 **_item 97A_** means item 97A of this Schedule as modified by the _Family Assistance Legislation Amendment (Child Care Management System and Other Measures) Regulations 2009_.
 
-## 97C  Payments under items 97 and 97A subject to set off<span style="font-size:9.0pt;font-weight:normal"> [_see_ Note 4]</span>
+## 97C  Payments under items 97 and 97A subject to set off
 
 (1)       Subitem 97(5) and subitem 97A(5) are subject to section 219RE of the Family Assistance Administration Act (about setting off business continuity payments).
 
@@ -1681,7 +1680,7 @@ A determination in force immediately before the commencement of item 2  specif
 
 ## 101  Transitional regulations
 
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions, and prescribing any modification or adaptation of this Act, the Family Assistance Act or the Family Assistance Administration Act) relating to the amendments made by this Act.
+The Governor-General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions, and prescribing any modification or adaptation of this Act, the Family Assistance Act or the Family Assistance Administration Act) relating to the amendments made by this Act.
 
 ## 102  Appropriation
 
@@ -2145,7 +2144,7 @@ Insert:
 
                    An application for review under subsection 109A(1) of a decision of a kind mentioned in subsection 144(1) (decisions in relation to child care services and registered carers) must be made no later than 28 days after the applicant is notified of the decision.
 
-## 8  Subsection 111(2)
+## 8  Subsection 111(2)
 
 After “apply for review under subsection (1)”, insert “or (1A)”.
 
@@ -2271,7 +2270,7 @@ Insert:
 
              (3)  If the Secretary suspends the approval of an approved child care service, the Secretary may at any time, by notice to the service, revoke the suspension with effect from the day specified in the notice.
 
-## 25  After section 204
+## 25  After section 204
 
 Insert:
 
@@ -2409,7 +2408,7 @@ Appointments
 
              (4)  A committee consists of the members appointed in writing by the Minister.
 
-             (5)  A member of a committee holds office on a part‑time basis.
+             (5)  A member of a committee holds office on a part-time basis.
 
 Chair
 
@@ -2493,7 +2492,7 @@ The amendments made by items 23 and 31 of this Schedule apply in relation to n
 
 ## 43  Application of item 25
 
-(1)       Subsection 204A(1) of the _A New Tax System (Family Assistance) (Administration) Act 1999_, as inserted by item 25, applies in relation to non‑compliance with conditions that occurs before or after the commencement of that item.
+(1)       Subsection 204A(1) of the _A New Tax System (Family Assistance) (Administration) Act 1999_, as inserted by item 25, applies in relation to non-compliance with conditions that occurs before or after the commencement of that item.
 
 (2)       Subsection 204A(3) of the _A New Tax System (Family Assistance) (Administration) Act 1999_, as inserted by item 25, applies in relation to suspensions or cancellations that occur before or after the commencement of that item.
 
@@ -2519,9 +2518,9 @@ The amendments made by items 37 and 38 apply in relation to debts that become 
 
 The _Family Assistance Legislation Amendment (Child Care Management System and Other Measures) Act 2007_ as shown in this compilation comprises Act No. 118, 2007 amended as indicated in the Tables below.
 
-For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
-
 The _Family Assistance Legislation Amendment (Child Care Management System and Other Measures) Act 2007_(No. 118, 2007) was modified by the _Family Assistance Legislation Amendment (Child Care Management System and Other Measures) Regulations 2009_(SLI 2009 No. 82) _see_ Table B.
+
+For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
 
 ### Table of Acts
 
@@ -2590,130 +2589,6 @@ Schedule 6: 14 Apr 2010</div>
   </td>
   <td>
     <div>Sch. 5 (item 8) and Sch. 6 (item 2)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Family Assistance Legislation Amendment (Child Care Rebate) Act 2011</div>
-  </td>
-  <td>
-    <div>25, 2011</div>
-  </td>
-  <td>
-    <div>21 Apr 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 15): \[ <i>see (a)</i>and Note 3] 
-Schedule 3 (item 9): \[ <i>see</i>Note 4]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
-
-_(a)_     Subsection 2(1) (items 25 and 27) of the _Family Assistance Legislation Amendment (Child Care Rebate) Act 2011_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      25\. Schedule 2, Part 1
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of Part 1 of Schedule 1 to the
-        <i>Family Assistance and Other Legislation Amendment (Child Care and Other
-          Measures) Act 2011</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      27\. Schedule 2, Part 3
-    </div>
-  </td>
-  <td>
-    <div>
-      At the same time as the provision(s) covered by table item 25.
-    </div>
-  </td>
-  <td>
-    <div>
-      \[
-        <i>see</i>Note 3]
-    </div>
   </td>
 </tr></table>
 
@@ -2824,37 +2699,6 @@ Schedule 1 (item 97B)—Schedule 5 (item 5) of the _Family Assistance Legislatio
 Omit “or item 97”, substitute “, item 97 or item 97A”.
 
 The proposed amendment was misdescribed and is not incorporated in this compilation.
-
-### Note 3
-
-_Family Assistance Legislation Amendment (Child Care Rebate) Act 2011
- (No. 25, 2011)_
-
-The following amendment commences immediately after the commencement of Part 1 of Schedule 1 to the _Family Assistance and Other Legislation Amendment (Child Care and Other Measures) Act 2011_ (still a Bill):
-
-## Schedule 2
-
-## 15  After paragraph 97C(1)(b) of Schedule 1
-
-Insert:
-
-                   (ba)  subsection 219QD(3) of that Act (about set off where amount of weekly child care rebate reduced on recalculation); and
-
-As at 3 May 2011 the amendment is not incorporated in this compilation.
-
-### Note 4
-
-Paragraph 97C(1)(b) of Schedule 1—Schedule 3 (item 9) of the _Family Assistance Legislation Amendment (Child Care Rebate) Act 2011_ (No. 25, 2011) provides as follows:
-
-## Schedule 3
-
-## 9  After paragraph 97C(1)(b) of Schedule 1
-
-Insert:
-
-                   (ba)  subsection 219QD(3) of that Act (about set off where amount of weekly child care rebate reduced on recalculation); and
-
-There is an error in the commencement information in subsection 2(1) (item 28). The amendment of Schedule 3 (item 9) will not commence and therefore is not incorporated in this compilation.
 
 ## Table A
 
