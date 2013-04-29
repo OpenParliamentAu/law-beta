@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00279/Html/e9bdceeb-709d-40d4-87fa-bee5aa292eaa_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00734/Html/NatHeaMedResCou1992WD02_image001.gif)
 
 # National Health and Medical Research Council Act 1992
 
 **Act No. 225 of 1992 as amended**
 
-This compilation was prepared on 19 April 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 1 November 2010
+ taking into account amendments up to Act No. 51 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -174,7 +174,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [63](#63).          Procedure of Commissioner
 
-[64](#64).          Co‑operation with Commissioner
+[64](#64).          Co-operation with Commissioner
 
 [65](#65).          Immunity from penalty
 
@@ -270,7 +270,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="inform-provid"></a>**_information provider_** has the meaning given by subsection 80(1).
 
-                    <a name="interest"></a>**_interest_** means any direct or indirect, pecuniary or non‑pecuniary interest.
+                    <a name="interest"></a>**_interest_** means any direct or indirect, pecuniary or non-pecuniary interest.
 
                     <a name="interim-human-research-guidelin"></a>**_interim human research guidelines_** means human research guidelines issued by the CEO under paragraph 7(1)(a) in the circumstances referred to in subsection 14(1) or (5).
 
@@ -278,7 +278,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="interim-regulatori-recommend"></a>**_interim regulatory recommendation_** means a regulatory recommendation made in the circumstances referred to in subsection 14(1) or (3).
 
-                    <a name="mical-research"></a>**_medical research_** includes the laboratory‑based or clinical study, or group or community‑based study of the causes, treatment and prevention of human diseases and also includes dental research.
+                    <a name="mical-research"></a>**_medical research_** includes the laboratory-based or clinical study, or group or community-based study of the causes, treatment and prevention of human diseases and also includes dental research.
 
                     <a name="member"></a>**_member_**:
 
@@ -318,7 +318,7 @@ and includes any unreasonable delay by the CEO or Committee in relation to his, 
 
 ##### <a id="5"></a>5  Act to bind Crown
 
-                   This Act binds the Crown in right of the Commonwealth, of each of the States, of the Northern Territory and of the Australian Capital Territory, but nothing in this Act renders the Crown liable to be prosecuted for an offence.
+                   This Act binds the Crown in right of the Commonwealth, of each of the States, of the Northern Territory and of the Australian   Capital Territory, but nothing in this Act renders the Crown liable to be prosecuted for an offence.
 
 ##### <a id="5A"></a>5A  Application of the _Criminal Code_
 
@@ -776,7 +776,7 @@ Procedures are not legislative instruments
 
                              (ii)  professional medical standards;
 
-                            (iii)  the medical profession and post‑graduate medical training;
+                            (iii)  the medical profession and post-graduate medical training;
 
                             (iv)  the nursing profession;
 
@@ -786,7 +786,7 @@ Procedures are not legislative instruments
 
                            (vii)  ethics relating to research involving humans;
 
-                          (viii)  other appropriate expertise.
+                           (viii)  other appropriate expertise.
 
 Note:          For the appointment, terms and conditions of the Chair and other members of the Council, see Part 5.
 
@@ -964,7 +964,7 @@ Instruments are not legislative instruments
 
                              (v)  the voting rights of members; and
 
-                            (vi)  the arrangements for non‑members to attend meetings.
+                            (vi)  the arrangements for non-members to attend meetings.
 
 ## Part 5—Appointments, terms and conditions
 
@@ -986,11 +986,11 @@ Note:          For the appointment of the Chairperson and memb
 
              (2)  The CEO must, by writing, appoint the members of the working committees.
 
-Full‑time or part‑time
+Full-time or part-time
 
-             (3)  The CEO must be appointed on a full‑time basis.
+             (3)  The CEO must be appointed on a full-time basis.
 
-             (4)  Any other appointment under subsection (1) or (2) must be on a part‑time basis only.
+             (4)  Any other appointment under subsection (1) or (2) must be on a part-time basis only.
 
 Term of office
 
@@ -1128,9 +1128,9 @@ Note:          If the Chair of the Council is also a member of
 
              (3)  If a member of the Council or a member of a committee is also:
 
-                     (a)  in the service or employment of, or of an authority of, the Commonwealth, a State or a Territory on a full‑time basis; or
+                     (a)  in the service or employment of, or of an authority of, the Commonwealth, a State or a Territory on a full-time basis; or
 
-                     (b)  a person who holds or performs the duties of an office or position established by or under a law of the Commonwealth, a State or a Territory on a full‑time basis;
+                     (b)  a person who holds or performs the duties of an office or position established by or under a law of the Commonwealth, a State or a Territory on a full-time basis;
 
 the member is not, unless the member is the Chair of the Council and the Minister otherwise directs in writing, entitled to remuneration under this Act in respect of his or her duties as Chair of the Council, a member of the Council or a member of a committee.
 
@@ -1216,7 +1216,7 @@ leave of absence on such terms and conditions as the CEO determines.
 
                              (ii)  the CEO, the members of the Council, the members of a committee or the staff of the NHMRC;
 
-                            to co‑operate in the performance of their functions; or
+                            to co-operate in the performance of their functions; or
 
                      (c)  the resources of that Department or authority to be made available to be used by the CEO, the Council, a committee or the staff of the NHMRC.
 
@@ -1424,9 +1424,9 @@ the Commissioner must:
 
                      (b)  in such manner as the Commissioner thinks fit.
 
-##### <a id="64"></a>64  Co‑operation with Commissioner
+##### <a id="64"></a>64  Co-operation with Commissioner
 
-             (1)  A person to whom this section applies must, in relation to the investigation of a complaint, co‑operate with the Commissioner and provide the Commissioner with any assistance the Commissioner requests.
+             (1)  A person to whom this section applies must, in relation to the investigation of a complaint, co-operate with the Commissioner and provide the Commissioner with any assistance the Commissioner requests.
 
              (2)  In particular, a person to whom this section applies must:
 
@@ -1652,7 +1652,7 @@ is subject to the same obligations as a person referred to in subsection (2) w
 
              (9)  Despite subsection (2), the CEO may permit the information to be disclosed to:
 
-                     (a)  the Secretary of a Commonwealth Department; or
+                     (a)  the Secretary to a Commonwealth Department; or
 
                      (b)  the chief officer of a Commonwealth authority; or
 
@@ -1752,7 +1752,7 @@ in accordance with the obligations of the Minister as trustee of the trust or as
 
 ##### <a id="85"></a>85  Regulations
 
-                   The Governor‑General may make regulations prescribing matters:
+                   The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed by regulations; or
 
@@ -2004,30 +2004,13 @@ Remainder: Royal Assent</div>
   <td>
     <div>Sch. 7 \[ <i>see</i>Note 1]</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 7 (item 101): 19 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _National Health and Medical Research Council Act 1992_ was amended by sections 22 and 23 only of the _Health and Community Services Legislation Amendment Act (No. 2) 1993_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-_(b)_     The _National Health and Medical Research Council Act 1992_ was amended by Schedule 1 (items 79–81) only of the _Human Services and Health Legislation Amendment Act (No. 3) 1995_, subsection 2(1) of which provides as follows:
+_(b)_    The _National Health and Medical Research Council Act 1992_ was amended by Schedule 1 (items 79–81) only of the _Human Services and Health Legislation Amendment Act (No. 3) 1995_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
@@ -3273,7 +3256,7 @@ _(e)_Subsection 2(1) (item 7) of the _Freedom of Information Amendment (Reform
     <div>S. 80</div>
   </td>
   <td>
-    <div>am. No. 50, 2006; No. 5, 2011</div>
+    <div>am. No. 50, 2006</div>
   </td>
 </tr>
 <tr>
@@ -3419,7 +3402,7 @@ _National Health and Medical Research Council Amendment Act 2006
 
 ## 124  Definitions
 
-(1)       In this Part:
+(1)        In this Part:
 
 **_acquisition of property_** has the same meaning as in paragraph 51(xxxi) of the Constitution.
 
@@ -3465,23 +3448,23 @@ _National Health and Medical Research Council Amendment Act 2006
 
 **_old NHMRC_** means the National Health and Medical Research Council established by the old law.
 
-(2)       Subject to subitem (1), an expression used in this Part that is also used in the new law has the same meaning in this Part as it has in the new law.
+(2)        Subject to subitem (1), an expression used in this Part that is also used in the new law has the same meaning in this Part as it has in the new law.
 
 ## 125  Vesting of assets of old NHMRC
 
-(1)       This item applies to the assets of the old NHMRC immediately before the commencement time.
+(1)        This item applies to the assets of the old NHMRC immediately before the commencement time.
 
-(2)       At the commencement time, the assets to which this item applies cease to be assets of the old NHMRC and become assets of the Commonwealth without any conveyance, transfer or assignment. The Commonwealth becomes the successor in law in relation to these assets.
+(2)        At the commencement time, the assets to which this item applies cease to be assets of the old NHMRC and become assets of the Commonwealth without any conveyance, transfer or assignment. The Commonwealth becomes the successor in law in relation to these assets.
 
 ## 126  Vesting of liabilities of old NHMRC
 
-(1)       This item applies to the liabilities of the old NHMRC immediately before the commencement time.
+(1)        This item applies to the liabilities of the old NHMRC immediately before the commencement time.
 
-(2)       At the commencement time, the liabilities to which this item applies cease to be liabilities of the old NHMRC and become liabilities of the Commonwealth without any conveyance, transfer or assignment. The Commonwealth becomes the successor in law in relation to these liabilities.
+(2)        At the commencement time, the liabilities to which this item applies cease to be liabilities of the old NHMRC and become liabilities of the Commonwealth without any conveyance, transfer or assignment. The Commonwealth becomes the successor in law in relation to these liabilities.
 
 ## 127  Certificates relating to vesting of land
 
-(1)       This item applies if:
+(1)        This item applies if:
 
                      (a)  any land vests in the Commonwealth under this Division; and
 
@@ -3495,7 +3478,7 @@ _National Health and Medical Research Council Amendment Act 2006
 
 _Note:       Certificates under paragraph (1)(b) are presumed to be authentic: see item 141._
 
-(2)       The land registration official may:
+(2)        The land registration official may:
 
                      (a)  register the matter in a way that is the same as, or similar to, the way in which dealings in land of that kind are registered; and
 
@@ -3503,7 +3486,7 @@ _Note:       Certificates under paragraph (1)(b) are presumed to b
 
 ## 128  Certificates relating to vesting of assets other than land
 
-(1)       This item applies if:
+(1)        This item applies if:
 
                      (a)  any asset other than land vests in the Commonwealth under this Division; and
 
@@ -3517,7 +3500,7 @@ _Note:       Certificates under paragraph (1)(b) are presumed to b
 
 _Note:       Certificates under paragraph (1)(b) are presumed to be authentic: see item 141._
 
-(2)       The assets official may:
+(2)        The assets official may:
 
                      (a)  deal with, and give effect to, the certificate as if it were a proper and appropriate instrument for transactions in relation to assets of that kind; and
 
@@ -3529,19 +3512,19 @@ If any proceedings to which the old NHMRC was a party were pending in any court 
 
 ## 130  Transfer of custody of old NHMRC records
 
-(1)       This item applies to any records or documents that, immediately before the commencement time, were in the custody of:
+(1)        This item applies to any records or documents that, immediately before the commencement time, were in the custody of:
 
                      (a)  the old NHMRC; or
 
                      (b)  a committee.
 
-(2)       The records and documents are to be transferred into the custody of the CEO at or after the commencement time.
+(2)        The records and documents are to be transferred into the custody of the CEO at or after the commencement time.
 
 ## 131  References in instruments
 
 References to old NHMRC taken to be references to CEO or Commonwealth
 
-(1)       If:
+(1)        If:
 
                      (a)  an instrument is in force immediately before the commencement time; and
 
@@ -3549,7 +3532,7 @@ References to old NHMRC taken to be references to CEO or Commonwealth
 
 the instrument has effect from the commencement time as if the reference to the old NHMRC were a reference to the CEO.
 
-(2)       However, if:
+(2)        However, if:
 
                      (a)  an instrument is in force immediately before the commencement time; and
 
@@ -3561,7 +3544,7 @@ the reference is to be read as a reference to the Commonwealth as necessary to g
 
 References to staff of old NHMRC taken to be references to staff of NHMRC
 
-(3)       If:
+(3)        If:
 
                      (a)  an instrument is in force immediately before the commencement time; and
 
@@ -3571,7 +3554,7 @@ the instrument has effect from the commencement time as if the reference to the 
 
 Minister and regulations may provide otherwise
 
-(4)       The Minister may, by writing, determine that subitem (1), (2) or (3):
+(4)        The Minister may, by writing, determine that subitem (1), (2) or (3):
 
                      (a)  does not apply in relation to a specified reference; or
 
@@ -3585,7 +3568,7 @@ Minister and regulations may provide otherwise
 
 A determination under this subitem has effect accordingly.
 
-(5)       The regulations may provide that an instrument containing a reference specified in a determination under paragraph (4)(a) has effect from the commencement time as if:
+(5)        The regulations may provide that an instrument containing a reference specified in a determination under paragraph (4)(a) has effect from the commencement time as if:
 
                      (a)  in the case of an instrument covered by subitem (1)—the reference were a reference to a specified person or body other than the Commonwealth, the CEO or the Council; or
 
@@ -3595,7 +3578,7 @@ A determination under this subitem has effect accordingly.
 
 References to parts of Department in Account instruments
 
-(6)       If:
+(6)        If:
 
                      (a)  an instrument is in force immediately before the commencement time; and
 
@@ -3611,19 +3594,19 @@ _Note:       Certificates under paragraph (6)(d) are presumed to b
 
 Determinations and certificates are not legislative instruments
 
-(7)       A determination under subitem (4) or a certificate under subitem (6) is not a legislative instrument.
+(7)        A determination under subitem (4) or a certificate under subitem (6) is not a legislative instrument.
 
 ## 132  Operation of laws
 
 Things done by old NHMRC taken to be done by CEO
 
-(1)       If, before the commencement time, a thing was done by, or in relation to, the old NHMRC, then, for the purposes of the operation of any law of the Commonwealth after the commencement time, the thing is taken to have been done by, or in relation to, the CEO.
+(1)        If, before the commencement time, a thing was done by, or in relation to, the old NHMRC, then, for the purposes of the operation of any law of the Commonwealth after the commencement time, the thing is taken to have been done by, or in relation to, the CEO.
 
-(2)       For the purposes of subitem (1), a thing done before the commencement time under a provision that is amended by this Schedule has effect from that time as if it were done under that provision as amended. However, this is not taken to change the time at which the thing was actually done.
+(2)        For the purposes of subitem (1), a thing done before the commencement time under a provision that is amended by this Schedule has effect from that time as if it were done under that provision as amended. However, this is not taken to change the time at which the thing was actually done.
 
 Minister and regulations may provide otherwise
 
-(3)       The Minister may, by writing, determine that subitem (1):
+(3)        The Minister may, by writing, determine that subitem (1):
 
                      (a)  does not apply in relation to a specified thing done by, or in relation to, the old NHMRC; or
 
@@ -3631,19 +3614,19 @@ Minister and regulations may provide otherwise
 
 A determination under this subitem has effect accordingly.
 
-(4)       The regulations may provide for a thing specified in a determination under paragraph (3)(a) to be taken to have been done by, or in relation to, a specified person or body other than the Commonwealth, the CEO, the Council or a Principal Committee.
+(4)        The regulations may provide for a thing specified in a determination under paragraph (3)(a) to be taken to have been done by, or in relation to, a specified person or body other than the Commonwealth, the CEO, the Council or a Principal Committee.
 
 Things done by Australian Health Ethics Committee
 
-(5)       A thing done before the commencement time by the Australian Health Ethics Committee under a provision of Part 3 of the old law that is amended by this Schedule has the effect from that time as if it were done under Part 3 of the new law. However, this is not taken to change the time at which the thing was actually done.
+(5)        A thing done before the commencement time by the Australian Health Ethics Committee under a provision of Part 3 of the old law that is amended by this Schedule has the effect from that time as if it were done under Part 3 of the new law. However, this is not taken to change the time at which the thing was actually done.
 
 Meaning of **doing**
 
-(6)       To avoid doubt, for the purposes of this item, **_doing_** a thing includes making an instrument.
+(6)        To avoid doubt, for the purposes of this item, **_doing_** a thing includes making an instrument.
 
 Determinations are not legislative instruments
 
-(7)       A determination made under subitem (3) is not a legislative instrument.
+(7)        A determination made under subitem (3) is not a legislative instrument.
 
 ## 133  Continued effect of certain instruments made under the old law
 
@@ -3957,7 +3940,7 @@ continues to have effect from the commencement time as if it were made or given 
 
 ## 134  Principal Committees
 
-(1)       A Principal Committee that is:
+(1)        A Principal Committee that is:
 
                      (a)  established under section 35 of the old law; and
 
@@ -3965,7 +3948,7 @@ continues to have effect from the commencement time as if it were made or given 
 
 continues in existence, at the commencement time, as if it were established under section 35 of the new law.
 
-(2)       An instrument that is:
+(2)        An instrument that is:
 
                      (a)  either:
 
@@ -3979,7 +3962,7 @@ continues to have effect, at the commencement time, as if it had been made under
 
 ## 135  Working committees
 
-(1)       A working committee that is:
+(1)        A working committee that is:
 
                      (a)  established under section 39 of the old law; and
 
@@ -3987,13 +3970,13 @@ continues to have effect, at the commencement time, as if it had been made under
 
 continues in existence, at the commencement time, as if it were established under section 39 of the new law.
 
-(2)       A person who, immediately before the commencement time, was a member of a working committee:
+(2)        A person who, immediately before the commencement time, was a member of a working committee:
 
                      (a)  is taken to have been appointed, at the commencement time, under subsection 41(2) of the new law for the balance of the term of appointment under subsection 39(4) of the old law; and
 
                      (b)  is taken to have been so appointed on the same terms and conditions as applied to the person immediately before the commencement time.
 
-(3)       An instrument that is:
+(3)        An instrument that is:
 
                      (a)  a determination of the functions of a working committee under paragraph 39(5)(a) of the old law; and
 
@@ -4003,9 +3986,9 @@ continues to have effect, at the commencement time, as if it had been made under
 
 ## 136  Commissioner
 
-(1)       The person holding office as Commissioner under subsection 69(1) of the old law immediately before the commencement time continues, on and after that time, by force of this item, to hold office as the Commissioner.
+(1)        The person holding office as Commissioner under subsection 69(1) of the old law immediately before the commencement time continues, on and after that time, by force of this item, to hold office as the Commissioner.
 
-(2)       The person referred to in subitem (1):
+(2)        The person referred to in subitem (1):
 
                      (a)  is taken to have been duly appointed by the Minister under paragraph 41(1)(d) of the new law for the balance of the term of appointment under section 71 of the old law; and
 
@@ -4013,9 +3996,9 @@ continues to have effect, at the commencement time, as if it had been made under
 
 ## 137  First annual reports by CEO and Commissioner
 
-(1)       Sections 68 and 83 of the new law apply in relation to the financial year ending on 30 June 2007 and later financial years.
+(1)        Sections 68 and 83 of the new law apply in relation to the financial year ending on 30 June 2007 and later financial years.
 
-(2)       Those sections apply in relation to the financial year ending on 30 June 2007 as if that financial year also included the period:
+(2)        Those sections apply in relation to the financial year ending on 30 June 2007 as if that financial year also included the period:
 
                      (a)  starting on 1 January 2006; and
 
@@ -4035,9 +4018,9 @@ Consultation under subsection 41(1) of the new law may take place before or afte
 
 ## 140  Constitutional safety net—acquisition of property
 
-(1)       If the operation of this Part would result in an acquisition of property from a person otherwise than on just terms, the Commonwealth is liable to pay a reasonable amount of compensation to the person.
+(1)        If the operation of this Part would result in an acquisition of property from a person otherwise than on just terms, the Commonwealth is liable to pay a reasonable amount of compensation to the person.
 
-(2)       If the Commonwealth and the person do not agree on the amount of the compensation, the person may institute proceedings in a court of competent jurisdiction for the recovery from the Commonwealth of such reasonable amount of compensation as the court determines.
+(2)        If the Commonwealth and the person do not agree on the amount of the compensation, the person may institute proceedings in a court of competent jurisdiction for the recovery from the Commonwealth of such reasonable amount of compensation as the court determines.
 
 ## 141  Certificates taken to be authentic
 
@@ -4051,20 +4034,20 @@ unless the contrary is established.
 
 ## 142  Delegation by Minister
 
-(1)       The Minister may, by writing, delegate all or any of his or her powers and functions under this Part to the Secretary of the Department or to the CEO.
+(1)        The Minister may, by writing, delegate all or any of his or her powers and functions under this Part to the Secretary of the Department or to the CEO.
 
-(2)       In exercising or performing powers or functions under a delegation, the delegate must comply with any directions of the Minister.
+(2)        In exercising or performing powers or functions under a delegation, the delegate must comply with any directions of the Minister.
 
-(3)       A power or function delegated to the CEO under subitem (1) must not be sub‑delegated under subsection 82(1C) of the new law.
+(3)        A power or function delegated to the CEO under subitem (1) must not be sub-delegated under subsection 82(1C) of the new law.
 
 ## 143  Regulations
 
-(1)       The Governor‑General may make regulations prescribing matters:
+(1)        The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Part to be prescribed; or
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Part.
 
-(2)       In particular, regulations may be made prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments or repeals made by this Schedule.
+(2)        In particular, regulations may be made prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments or repeals made by this Schedule.
 
  
