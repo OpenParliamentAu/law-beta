@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00177/Html/57b6a913-a0ac-40d8-a7a0-a5b324a82c52_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00837/Html/64b365cc-b3e6-4e9b-979d-ecc18c5f6d9d_files/image001.gif)
 
 # International Air Services Commission Act 1992
 
 **Act No. 103 of 1992 as amended**
 
-This compilation was prepared on 1 February 2012
+This compilation was prepared on 19 October 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force 
@@ -946,15 +946,23 @@ then:
 
                      (b)  during any period, or during all periods, when the Chairperson is absent from duty or from Australia, or is for any other reason unable to perform the functions of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
              (2)  The Minister may appoint a person other than the Chairperson to act as a member:
 
                      (a)  during a vacancy in the office of that member, whether or not an appointment has previously been made to the office; or
 
                      (b)  during any period, or during all periods, when that member is absent from Australia or is, for any reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+             (3)  Anything done by or in relation to a person purporting to act under this section is not invalid on the ground that:
+
+                     (a)  the occasion for the person’s appointment had not arisen; or
+
+                     (b)  there is a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion for the person to act had not arisen or had ceased.
+
+Note:          See section 33A of the _Acts Interpretation Act 1901_ for acting appointments.
 
 ## Part 6—Miscellaneous
 
@@ -1260,7 +1268,7 @@ Remainder: Royal Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 740, 741) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 740, 741) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11)</div>
@@ -1669,22 +1677,6 @@ _(c)_ The _International Air Services Commission Act 1992_ was amended by Schedu
 </tr>
 <tr>
   <td>
-    <div>S. 48</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Notes to s. 48(1), (2)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part 6</b></div>
   </td>
   <td>
@@ -1732,6 +1724,26 @@ _(c)_ The _International Air Services Commission Act 1992_ was amended by Schedu
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 740  At the end of subsections 48(1) and (2)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 741  Subsection 48(3)
+
+Repeal the subsection.
+
+As at 19 October 2011 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -1761,6 +1773,8 @@ The amendment made by item 5 of this Schedule applies to the renewal of determ
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
