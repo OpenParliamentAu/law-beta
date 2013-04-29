@@ -1,516 +1,505 @@
-![](http://www.comlaw.gov.au/Details/C2005C00098/Html/2c0204d4-57a9-4aa3-b448-4f28baad2337_files/image001.gif)
+**
 
-# Sewerage Agreements Act 1974
+###  SEWERAGE AGREEMENTS ACT 1974 
+**
 
-**Act No. 73 of 1974 as amended**
 
-This compilation was prepared on 28 February 2005
- taking into account amendments up to Act No. 8 of 2005
+**
 
-The text of any of those amendments not in force 
- on that date is appended in the Notes section
+###  Compilation Information 
+**
 
-The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
 
-# Contents
 
-[1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Commencement [_see_ Note 1]
 
-[3](#3).            Interpretation
 
-[4](#4).            Approval of Supplemental Agreements
 
-[5](#5).            Certain provisions of _Sewerage Agreements Act 1973_ cease to have effect
 
-[6](#6).            Financial assistance
 
-[7](#7).            Authority to borrow
+**
 
-[8](#8).            Application of moneys borrowed
+###  Long Title 
+**
+**
 
-[10](#10).          Appropriation
+###  Preamble 
+**
+Sewerage Agreements Act 1973
 
-**Schedule** 
 
-**Notes** 
 
- 
 
-## An Act relating to Agreements between Australia and the States of Victoria, Queensland and Western Australia in respect of the Provision of further Financial Assistance for Sewerage Works in those States
 
-WHEREAS the execution, on behalf of the Government of Australia, of agreements between the Government of Australia and the Government of each of the States with respect to the provision of financial assistance for sewerage works, being agreements substantially in accordance with the form set out in the Schedule to the _Sewerage Agreements Act 1973_, was approved by that Act:
 
-AND WHEREAS the following agreements in accordance with the form set out in the Schedule to that Act have been made:
 
-(a)   an agreement between the Government of Australia and the Government of the State of Victoria dated 18 March 1974;
+###  SEWERAGE AGREEMENTS ACT 1974- SECT 1  Short title [_see_ Note 1] 
+This Act may be cited as the _Sewerage Agreements Act 1974_.
 
-(b)   an agreement between the Government of Australia and the Government of the State of Queensland dated 18 March 1974;
+ 
+###  SEWERAGE AGREEMENTS ACT 1974- SECT 2  Commencement [_see_ Note 1] 
+This Act shall come into operation on the day on which it receives the Royal
 
-(c)   an agreement between the Government of Australia and the Government of the State of Western Australia dated 18 January 1974;
+Assent.
 
-AND WHEREAS further agreements varying those agreements have been executed on behalf of the Government of Australia and the Government of each of those States:
+ 
+###  SEWERAGE AGREEMENTS ACT 1974- SECT 3  Interpretation 
+In this Act:
 
-AND WHEREAS it is provided in each of those further agreements that the agreement shall have no force or effect until it has been approved by the Parliament of Australia:
+ 
+<dl compact=""><dl compact="">
 
-BE IT THEREFORE ENACTED by the Queen, the Senate and the House of Representatives of Australia, as follows:
+_Principal Agreement,_ in relation to a State to which this Act
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
+applies, means the agreement executed on behalf of the Government of Australia
 
-                   This Act may be cited as the _Sewerage Agreements Act 1974_.
+and the Government of that State in pursuance of the _Sewerage Agreements Act 1973._ _State to which this Act applies_ means the State of Victoria, the State of Queensland or the State of Western Australia. _Supplemental Agreement_ means:  </dl></dl>
 
-##### <a id="2"></a>2  Commencement [_see_ Note 1]
+<dl compact=""><dl compact=""><dl compact="">
 
-                   This Act shall come into operation on the day on which it receives the Royal Assent.
+<dt>(a)</dt><dd>in relation to the State of Victoria&#151;the agreement a copy of which is set
 
-##### <a id="3"></a>3  Interpretation
+out in Part I of the Schedule;</dd>
 
-                   In this Act:
+<dt>(b)</dt><dd>in relation to the State of Queensland&#151;the agreement a copy of which is
 
-                    <a name="princip-agreem"></a>**_Principal Agreement,_** in relation to a State to which this Act applies, means the agreement executed on behalf of the Government of Australia and the Government of that State in pursuance of the _Sewerage Agreements Act 1973._
+set out in Part II of the Schedule; and</dd>
 
-                    <a name="state-act-appli"></a>**_State to which this Act applies_** means the State of Victoria, the State of Queensland or the State of Western Australia.
+<dt>(c)</dt><dd>in relation to the State of Western Australia&#151;the agreement a copy of
 
-                    <a name="supplement-agreem"></a>**_Supplemental Agreement_** means:
+which is set out in Part III of the Schedule.
 
-                     (a)  in relation to the State of Victoria—the agreement a copy of which is set out in Part I of the Schedule;
+</dd>
 
-                     (b)  in relation to the State of Queensland—the agreement a copy of which is set out in Part II of the Schedule; and
+</dl></dl></dl>
 
-                     (c)  in relation to the State of Western Australia—the agreement a copy of which is set out in Part III of the Schedule.
+<center>Back to Top</center>
 
-##### <a id="4"></a>4  Approval of Supplemental Agreements
+**
 
-                   The Supplemental Agreements in respect of the States to which this Act applies are approved.
+###  SEWERAGE AGREEMENTS ACT 1974- SECT 4  Approval of Supplemental Agreements 
+**
 
-##### <a id="5"></a>5  Certain provisions of _Sewerage Agreements Act 1973_ cease to have effect
+ <dl compact="">
 
-                   Upon the date of commencement of this Act:
+		The Supplemental Agreements in respect of the States to which this Act
 
-                     (a)  section 4 of the _Sewerage Agreements Act 1973_ ceases to apply in relation to States to which this Act applies; and
+applies are approved.
 
-                     (b)  section 6 of the _Sewerage Agreements Act 1973_ ceases to apply in relation to payments and advances to States to which this Act applies.
+ </dl>
 
-##### <a id="6"></a>6  Financial assistance
+**
 
-                   The payments and advances by the Government of Australia to the Government of a State to which this Act applies provided for in the Principal Agreement in respect of that State as varied by the Supplemental Agreement in respect of that State may be made, by way of financial assistance to that State, on the terms and conditions contained in that Principal Agreement as so varied, out of the Consolidated Revenue Fund.
+###  SEWERAGE AGREEMENTS ACT 1974- SECT 5  Certain provisions of _Sewerage Agreements Act 1973_ cease to have effect 
+**
 
-##### <a id="7"></a>7  Authority to borrow
+<dl compact="">
 
-                   The Treasurer may, in accordance with the provisions of the _Commonwealth Inscribed Stock Act 1911-1973_ or in accordance with the provisions of an Act authorizing the issue of Treasury Bills, borrow moneys not exceeding in the aggregate $7,950,000.
+		Upon the date of commencement of this Act:
 
-##### <a id="8"></a>8  Application of moneys borrowed
+ </dl>
 
-             (1)  Moneys borrowed under section 7 shall be issued and applied only for the expenses of borrowing and for the purpose of making payments and advances to a State to which this Act applies in accordance with this Act.
+<dl compact=""><dl compact=""><dl compact="">
 
-             (2)  Moneys borrowed under section 5 of the _Sewerage Agreements Act 1973_ may be issued and applied for the purpose of making payments and advances to a State to which this Act applies in accordance with this Act.
+<dt>(a)</dt><dd>section 4 of the _Sewerage Agreements Act 1973_ ceases to apply in
 
-##### <a id="10"></a>10  Appropriation
+relation to States to which this Act applies; and</dd>
 
-                   The Consolidated Revenue Fund is appropriated as necessary for the purposes of this Act.
+<dt>(b)</dt><dd>section 6 of the _Sewerage Agreements Act 1973_ ceases to apply in
 
-# Schedule  
+relation to payments and advances to States to which this Act applies.
 
-_Section 3_
+</dd>
 
-PART I
+</dl></dl></dl>
 
-AN AGREEMENT made the twenty-sixth day of June One thousand nine hundred and seventy-four between—
+**
 
-THE GOVERNMENT OF THE COMMONWEALTH OF AUSTRALIA (in this agreement called “the Australian Government”) of the one part, and
+###  SEWERAGE AGREEMENTS ACT 1974- SECT 6  Financial assistance 
+**
 
-THE GOVERNMENT OF THE STATE OF VICTORIA (in this agreement called “the State Government”) of the other part.
+ <dl compact="">
 
-WHEREAS—
+		The payments and advances by the Government of Australia to the Government of
 
-(a)   by the Sewerage Agreements Act 1973 the Parliament of the Commonwealth of Australia authorized the payment to the Government of a State of Australia of financial assistance for sewerage works on the terms and conditions contained in an agreement between the Australian Government and the Government of the State provided for by section 3 of that Act;
+a State to which this Act applies provided for in the Principal Agreement in
 
-(b)   on the eighteenth day of March 1974 the Australian Government and the State Government made an agreement (in this agreement called “the Principal Agreement”) under which financial assistance is provided to the State Government with the objective of eliminating within the shortest feasible time the backlog of sewerage works in the urban centre of Melbourne;
+respect of that State as varied by the Supplemental Agreement in respect of
 
-(c)   under the Principal Agreement an amount of 9,300,000 dollars was allocated to the State Government by way of financial assistance as aforesaid in respect of backlog sewerage works that are commenced before the first day of July 1974;
+that State may be made, by way of financial assistance to that State, on the
 
-(d)   the Australian Government and the State Government are desirous of increasing the amount of financial assistance made available to the State Government under the Principal Agreement by a further amount of up to 3,950,000 dollars;
+terms and conditions contained in that Principal Agreement as so varied, out of
 
-(e)   the Parliament of the Commonwealth of Australia will be requested to approve this agreement and to authorize the provision of financial assistance to the State Government to the extent and upon the terms and conditions provided for by this agreement:
+the Consolidated Revenue Fund or out of the Loan Fund.
 
-NOW IT IS HEREBY AGREED as follows:
+ </dl>
 
-1.    This agreement shall have no force or effect and shall not be binding upon either party unless and until it has been approved by the Parliament of the Commonwealth of Australia.
+**
 
-2.    As from the coming into force of this agreement but with operation deemed to have commenced on the first day of July 1973 as provided in sub-clause 1 (2) of the Principal Agreement, the amount of the financial assistance that may be provided in accordance with the Principal Agreement shall be increased by 3,950,000 dollars, that is, to a total amount of 13,250,000 dollars.
+###  SEWERAGE AGREEMENTS ACT 1974- SECT 7  Authority to borrow 
+**
 
-3.    As varied by this agreement the Principal Agreement is confirmed to the intent that its provisions shall have effect as terms and conditions of the additional financial assistance provided for by this agreement as well as to the financial assistance made available under the Principal Agreement itself.
+ <dl compact="">
 
-IN WITNESS WHEREOF this agreement has been executed as at the day and year first above written.
+		The Treasurer may, in accordance with the provisions of the _Commonwealth Inscribed Stock Act 1911-1973_ or in accordance with the provisions of an
 
-<table>
-<colgroup>
-  <col width="65%">
-  <col width="7%">
-  <col width="28%">
-</colgroup>
+Act authorizing the issue of Treasury Bills, borrow moneys not exceeding in the
 
-<tr>
-  <td>
-    <div>SIGNED for and on behalf of THE GOVERNMENT OF THE COMMONWEALTH OF AUSTRALIA by THE HONOURABLE EDWARD GOUGH WHITLAM, Prime Minister, in the presence of—</div>
-    <div>J. J. SPIGELMAN</div>
+aggregate $7,950,000.
+
+ </dl>
+
+**
+
+###  SEWERAGE AGREEMENTS ACT 1974- SECT 8  Application of moneys borrowed 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>Moneys borrowed under section 7 shall be issued and applied only for the
+
+expenses of borrowing, for the purpose of making payments and advances to a
+
+State to which this Act applies in accordance with this Act and for the purpose
+
+of making payments to the Consolidated Revenue Fund in accordance with section
+
+9.</dd> <dt>(2)</dt><dd>Moneys borrowed under section 5 of the _Sewerage Agreements Act 1973_ may be issued and applied for the purpose of making payments and advances to a State to which this Act applies in accordance with this Act and for the purpose of making payments to the Consolidated Revenue Fund in accordance with section 9\. </dd> </dl>
+
+**
+
+###  SEWERAGE AGREEMENTS ACT 1974- SECT 9  Reimbursement of Consolidated Revenue Fund from Loan Fund 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>Where an amount has been paid out of the Consolidated Revenue Fund under
+
+this Act, the Minister for Finance may authorize the payment to that Fund, out
+
+of the Loan Fund, of an amount not exceeding the amount so paid.</dd> <dt>(2)</dt><dd>In any statement of the receipts and expenditure, or of the expenditure, of the Consolidated Revenue Fund prepared by the Minister for Finance under section 49 or section 50 of the _Audit Act 1901-1973,_ amounts paid to the Consolidated Revenue Fund under sub-section (1) of this section shall not be shown as receipts of that Fund but shall be shown as having reduced the total of the amounts expended from that Fund under this Act. </dd> </dl>
+
+**
+
+###  SEWERAGE AGREEMENTS ACT 1974- SECT 10  Appropriation 
+**
+
+ <dl compact="">
+
+		The Consolidated Revenue Fund and the Loan Fund are appropriated as necessary
+
+for the purposes of this Act.
+
+ </dl>
+
+<center>**
+
+###  SEWERAGE AGREEMENTS ACT 1974Schedule   
+**</center>
+
+ Section 3
+
+<center>Back to Top</center>
+
+<center>PART I</center>
+ AN AGREEMENT made the twenty-sixth day of June One thousand nine hundred and seventy-four between&#151;
+ THE GOVERNMENT OF THE COMMONWEALTH OF AUSTRALIA (in this agreement called "the Australian Government") of the one part, and
+ THE GOVERNMENT OF THE STATE OF VICTORIA (in this agreement called "the State Government") of the other part.
+ WHEREAS&#151;
+ (a)	by the Sewerage Agreements Act 1973 the Parliament of the Commonwealth of Australia authorized the payment to the Government of a State of Australia of financial assistance for sewerage works on the terms and conditions contained in an agreement between the Australian Government and the Government of the State provided for by section 3 of that Act;
+ (b)	on the eighteenth day of March 1974 the Australian Government and the State Government made an agreement (in this agreement called "the Principal Agreement") under which financial assistance is provided to the State Government with the objective of eliminating within the shortest feasible time the backlog of sewerage works in the urban centre of Melbourne;
+ (c)	under the Principal Agreement an amount of 9,300,000 dollars was allocated to the State Government by way of financial assistance as aforesaid in respect of backlog sewerage works that are commenced before the first day of July 1974;
+ (d)	the Australian Government and the State Government are desirous of increasing the amount of financial assistance made available to the State Government under the Principal Agreement by a further amount of up to 3,950,000 dollars;
+ (e)	the Parliament of the Commonwealth of Australia will be requested to approve this agreement and to authorize the provision of financial assistance to the State Government to the extent and upon the terms and conditions provided for by this agreement:
+ NOW IT IS HEREBY AGREED as follows:
+ 1.	This agreement shall have no force or effect and shall not be binding upon either party unless and until it has been approved by the Parliament of the Commonwealth of Australia.
+ 2.	As from the coming into force of this agreement but with operation deemed to have commenced on the first day of July 1973 as provided in sub-clause 1 (2) of the Principal Agreement, the amount of the financial assistance that may be provided in accordance with the Principal Agreement shall be increased by 3,950,000 dollars, that is, to a total amount of 13,250,000 dollars.
+ 3.	As varied by this agreement the Principal Agreement is confirmed to the intent that its provisions shall have effect as terms and conditions of the additional financial assistance provided for by this agreement as well as to the financial assistance made available under the Principal Agreement itself.
+ IN WITNESS WHEREOF this agreement has been executed as at the day and year first above written.
+
+<table><tr align="left">
+  <td colspan="1" align="left">
+    <div>SIGNED for and on behalf of THE GOVERNMENT OF THE COMMONWEALTH OF AUSTRALIA by THE HONOURABLE EDWARD GOUGH WHITLAM, Prime Minister, in the presence of&#151; 
+J. J. SPIGELMAN</div>
+
   </td>
-  <td>
-    <div> <img width="12" height="108" src="http://www.comlaw.gov.au/Details/C2005C00098/Html/2c0204d4-57a9-4aa3-b448-4f28baad2337_files/image002.gif"> </div>
-  </td>
-  <td>
-    <div> 
+  <td colspan="1" align="center">
+    <div><sub> <img alt="A graphic exists here." src="http://www.comlaw.gov.au/Details/C2004C00612/Html/A916803AF3D8FC50CA256F71004FCA07/$FILE/1202.gif"> </sub></div>
 
- </div>
-    <div>E. G. WHITLAM</div>
+  </td>
+  <td colspan="1" align="center">
+    <div>
+
+E. G. WHITLAM</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div></div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>SIGNED for and on behalf of THE GOVERNMENT OF THE STATE OF VICTORIA by THE HONOURABLE LINDSAY HAMILTON THOMPSON, Acting Premier, in the presence of—</div>
-    <div>K. D. GREEN</div>
-  </td>
-  <td>
-    <div> <img width="12" height="97" src="http://www.comlaw.gov.au/Details/C2005C00098/Html/2c0204d4-57a9-4aa3-b448-4f28baad2337_files/image003.gif"> </div>
-  </td>
-  <td>
-    <div> 
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>SIGNED for and on behalf of THE GOVERNMENT OF THE STATE OF VICTORIA by THE HONOURABLE LINDSAY HAMILTON THOMPSON, Acting Premier, in the presence of&#151; 
+K. D. GREEN</div>
 
- </div>
-    <div>L. H. THOMPSON</div>
+  </td>
+  <td colspan="1" align="center">
+    <div><sub> <img alt="A graphic exists here." src="http://www.comlaw.gov.au/Details/C2004C00612/Html/A916803AF3D8FC50CA256F71004FCA07/$FILE/1203.gif"> </sub></div>
+
+  </td>
+  <td colspan="1" align="center">
+    <div>
+
+L. H. THOMPSON</div>
+
+  </td>
+</tr></table><center>PART II</center>
+ AN AGREEMENT made the twenty-seventh day of June One thousand nine hundred and seventy-four between&#151;
+ THE GOVERNMENT OF THE COMMONWEALTH OF AUSTRALIA (in this agreement called "the Australian Government") of the one part, and
+
+<center>Back to Top</center>
+ THE GOVERNMENT OF THE STATE OF QUEENSLAND (in this agreement called "the State Government") of the other part.
+ WHEREAS&#151;
+ (a)	by the Sewerage Agreements Act 1973 the Parliament of the Commonwealth of Australia authorized the payment to the Government of a State of Australia of financial assistance for sewerage works on the terms and conditions contained in an agreement between the Australian Government and the Government of the State provided for by section 3 of that Act;
+ (b)	on the eighteenth day of March 1974 the Australian Government and the State Government made an agreement (in this agreement called "the Principal Agreement") under which financial assistance is provided to the State Government with the objective of eliminating within the shortest feasible time the backlog of sewerage works in the urban centres of Brisbane and the Gold Coast;
+ (c)	under the Principal Agreement an amount of 3,100,000 dollars was allocated to the State Government by way of financial assistance as aforesaid in respect of backlog sewerage works that are commenced before the first day of July 1974;
+ (d)	the Australian Government and the State Government are desirous of increasing the amount of financial assistance made available to the State Government under the Principal Agreement by a further amount of up to 1,000,000 dollars;
+ (e)	the Parliament of the Commonwealth of Australia will be requested to approve this agreement to authorize the provision of financial assistance to the State Government to the extent and upon the terms and conditions provided for by this agreement:
+ NOW IT IS HEREBY AGREED as follows:
+ 1.	This agreement shall have no force or effect and shall not be binding upon either party unless and until it has been approved by the Parliament of the Commonwealth of Australia.
+ 2.	As from the coming into force of this agreement but with operation deemed to have commenced on the first day of July 1973 as provided in sub-clause 1 (2) of the Principal Agreement, the amount of the financial assistance that may be provided in accordance with the Principal Agreement shall be increased by 1,000,000 dollars, that is, to a total amount of 4,100,000 dollars.
+ 3.	As varied by this agreement the Principal Agreement is confirmed to the intent that its provisions shall have effect as terms and conditions of the additional financial assistance provided for by this agreement as well as to the financial assistance made available under the Principal Agreement itself.
+ IN WITNESS WHEREOF this agreement has been executed as at the day and year first above written.
+
+<table><tr align="left">
+  <td colspan="1" align="left">
+    <div>SIGNED for and on behalf of THE GOVERNMENT OF THE COMMONWEALTH OF AUSTRALIA by THE HONOURABLE EDWARD GOUGH WHITLAM, Prime Minister, in the presence of&#151; 
+JIM CAIRNS</div>
+
+  </td>
+  <td colspan="1" align="center">
+    <div><sub> <img alt="A graphic exists here." src="http://www.comlaw.gov.au/Details/C2004C00612/Html/A916803AF3D8FC50CA256F71004FCA07/$FILE/1204.gif"> </sub></div>
+
+  </td>
+  <td colspan="1" align="center">
+    <div>
+
+E. G. WHITLAM</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>SIGNED for and on behalf of THE GOVERNMENT OF THE STATE QUEENSLAND by THE HONOURABLE JOHANNES BJELKE-PETERSEN, Premier, in the presence of&#151; 
+KEITH SPANN</div>
+
+  </td>
+  <td colspan="1" align="center">
+    <div><sub> <img alt="A graphic exists here." src="http://www.comlaw.gov.au/Details/C2004C00612/Html/A916803AF3D8FC50CA256F71004FCA07/$FILE/1205.gif"> </sub></div>
+
+  </td>
+  <td colspan="1" align="center">
+    <div>
+
+JOH. BJELKE-PETERSEN</div>
+
+  </td>
+</tr></table><center>PART III</center>
+ AN AGREEMENT made the twenty-ninth day of May One thousand nine hundred and seventy-four between&#151;
+ THE GOVERNMENT OF THE COMMONWEALTH OF AUSTRALIA (in this agreement called "the Australian Government") of the one part, and 
+ THE GOVERNMENT OF THE STATE OF WESTERN AUSTRALIA (in this agreement called "the State Government") of the other part.
+ WHEREAS&#151;
+ (a)	by the Sewerage Agreements Act 1973 the Parliament of the Commonwealth of 
+<center>Back to Top</center>
+ Australia authorized the payment to the Government of a State of Australia of financial assistance for sewerage works on the terms and conditions contained in an agreement between the Australian Government and the Government of the State provided for by section 3 of that Act;
+ (b)	on the eighteenth day of January 1974 the Australian Government and the State Government made an agreement (in this agreement called "the Principal Agreement") under which financial assistance is provided to the State Government with the objective of eliminating within the shortest feasible time the backlog of sewerage works in the urban centre of Perth;
+ (c)	under the Principal Agreement an amount of 3,800,000 dollars was allocated to the State Government by way of financial assistance as aforesaid in respect of backlog sewerage works that are commenced before the first day of July 1974;
+ (d)	the Australian Government and the State Government are desirous of increasing the amount of financial assistance made available to the State Government under the Principal Agreement by a further amount of up to 3,000,000 dollars;
+ (e)	the Parliament of the Commonwealth of Australia will be requested to approve this agreement and to authorize the provision of financial assistance to the State Government to the extent and upon the terms and conditions provided for by this agreement:
+ NOW IT IS HEREBY AGREED as follows:
+ 1.	This agreement shall have no force or effect and shall not be binding upon either party unless and until it has been approved by the Parliament of the Commonwealth of Australia.
+ 2.	As from the coming into force of this agreement but with operation deemed to have commenced on the first day of July 1973 as provided in sub-clause 1 (2) of the Principal Agreement, the amount of the financial assistance that may be provided in accordance with the Principal Agreement shall be increased by 3,000,000 dollars, that is, to a total amount of 6,800,000 dollars.
+ 3.	As varied by this agreement the Principal Agreement is confirmed to the intent that its provisions shall have effect as terms and conditions of the additional financial assistance provided for by this agreement as well as to the financial assistance made available under the Principal Agreement itself.
+ IN WITNESS WHEREOF this agreement has been executed as at the day and year first above written.
+
+<table><tr align="left">
+  <td colspan="1" align="left">
+    <div>SIGNED for and on behalf of THE GOVERNMENT OF THE COMMONWEALTH OF AUSTRALIA by THE HONOURABLE EDWARD GOUGH WHITLAM, Prime Minister, in the presence of&#151; 
+R. F. MILLAR</div>
+
+  </td>
+  <td colspan="1" align="center">
+    <div><sub> <img alt="A graphic exists here." src="http://www.comlaw.gov.au/Details/C2004C00612/Html/A916803AF3D8FC50CA256F71004FCA07/$FILE/1206.gif"> </sub></div>
+
+  </td>
+  <td colspan="1" align="center">
+    <div>
+
+E. G. WHITLAM</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>SIGNED for and on behalf of THE GOVERNMENT OF THE STATE OF WESTERN AUSTRALIA by THE HONOURABLE SIR CHARLES WALTER MICHEAL COURT, Premier, in the presence of&#151; 
+W. S. LONNIE</div>
+
+  </td>
+  <td colspan="1" align="center">
+    <div><sub> <img alt="A graphic exists here." src="http://www.comlaw.gov.au/Details/C2004C00612/Html/A916803AF3D8FC50CA256F71004FCA07/$FILE/1207.gif"> </sub></div>
+
+  </td>
+  <td colspan="1" align="center">
+    <div>
+
+CHARLES COURT</div>
+
   </td>
 </tr></table>
 
-PART II
+<center>**
 
-AN AGREEMENT made the twenty-seventh day of June One thousand nine hundred and seventy-four between—
+###  SEWERAGE AGREEMENTS ACT 1974<centreit>Notes to the _Sewerage Agreements Act 1974_ </centreit>
+**</center>
 
-THE GOVERNMENT OF THE COMMONWEALTH OF AUSTRALIA (in this agreement called “the Australian Government”) of the one part, and
-
-THE GOVERNMENT OF THE STATE OF QUEENSLAND (in this agreement called “the State Government”) of the other part.
-
-WHEREAS—
-
-(a)   by the Sewerage Agreements Act 1973 the Parliament of the Commonwealth of Australia authorized the payment to the Government of a State of Australia of financial assistance for sewerage works on the terms and conditions contained in an agreement between the Australian Government and the Government of the State provided for by section 3 of that Act;
-
-(b)   on the eighteenth day of March 1974 the Australian Government and the State Government made an agreement (in this agreement called “the Principal Agreement”) under which financial assistance is provided to the State Government with the objective of eliminating within the shortest feasible time the backlog of sewerage works in the urban centres of Brisbane and the Gold Coast;
-
-(c)   under the Principal Agreement an amount of 3,100,000 dollars was allocated to the State Government by way of financial assistance as aforesaid in respect of backlog sewerage works that are commenced before the first day of July 1974;
-
-(d)   the Australian Government and the State Government are desirous of increasing the amount of financial assistance made available to the State Government under the Principal Agreement by a further amount of up to 1,000,000 dollars;
-
-(e)   the Parliament of the Commonwealth of Australia will be requested to approve this agreement to authorize the provision of financial assistance to the State Government to the extent and upon the terms and conditions provided for by this agreement:
-
-NOW IT IS HEREBY AGREED as follows:
-
-1.    This agreement shall have no force or effect and shall not be binding upon either party unless and until it has been approved by the Parliament of the Commonwealth of Australia.
-
-2.    As from the coming into force of this agreement but with operation deemed to have commenced on the first day of July 1973 as provided in sub-clause 1 (2) of the Principal Agreement, the amount of the financial assistance that may be provided in accordance with the Principal Agreement shall be increased by 1,000,000 dollars, that is, to a total amount of 4,100,000 dollars.
-
-3.    As varied by this agreement the Principal Agreement is confirmed to the intent that its provisions shall have effect as terms and conditions of the additional financial assistance provided for by this agreement as well as to the financial assistance made available under the Principal Agreement itself.
-
-IN WITNESS WHEREOF this agreement has been executed as at the day and year first above written.
-
-<table>
-<colgroup>
-  <col width="60%">
-  <col width="7%">
-  <col width="33%">
-</colgroup>
-
-<tr>
-  <td>
-    <div>SIGNED for and on behalf of THE GOVERNMENT OF THE COMMONWEALTH OF AUSTRALIA by THE HONOURABLE EDWARD GOUGH WHITLAM, Prime Minister, in the presence of—</div>
-    <div>JIM CAIRNS</div>
-  </td>
-  <td>
-    <div> <img width="12" height="108" src="http://www.comlaw.gov.au/Details/C2005C00098/Html/2c0204d4-57a9-4aa3-b448-4f28baad2337_files/image002.gif"> </div>
-  </td>
-  <td>
-    <div> 
-
- </div>
-    <div>E. G. WHITLAM</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>SIGNED for and on behalf of THE GOVERNMENT OF THE STATE QUEENSLAND by THE HONOURABLE JOHANNES BJELKE-PETERSEN, Premier, in the presence of—</div>
-    <div>KEITH SPANN</div>
-  </td>
-  <td>
-    <div> <img width="12" height="97" src="http://www.comlaw.gov.au/Details/C2005C00098/Html/2c0204d4-57a9-4aa3-b448-4f28baad2337_files/image003.gif"> </div>
-  </td>
-  <td>
-    <div> 
-
- </div>
-    <div>JOH. BJELKE-PETERSEN</div>
-  </td>
-</tr></table>
-
-PART III
-
-AN AGREEMENT made the twenty-ninth day of May One thousand nine hundred and seventy-four between—
-
-THE GOVERNMENT OF THE COMMONWEALTH OF AUSTRALIA (in this agreement called “the Australian Government”) of the one part, and 
-
-THE GOVERNMENT OF THE STATE OF WESTERN AUSTRALIA (in this agreement called “the State Government”) of the other part.
-
-WHEREAS—
-
-(a)   by the Sewerage Agreements Act 1973 the Parliament of the Commonwealth of Australia authorized the payment to the Government of a State of Australia of financial assistance for sewerage works on the terms and conditions contained in an agreement between the Australian Government and the Government of the State provided for by section 3 of that Act;
-
-(b)   on the eighteenth day of January 1974 the Australian Government and the State Government made an agreement (in this agreement called “the Principal Agreement”) under which financial assistance is provided to the State Government with the objective of eliminating within the shortest feasible time the backlog of sewerage works in the urban centre of Perth;
-
-(c)   under the Principal Agreement an amount of 3,800,000 dollars was allocated to the State Government by way of financial assistance as aforesaid in respect of backlog sewerage works that are commenced before the first day of July 1974;
-
-(d)   the Australian Government and the State Government are desirous of increasing the amount of financial assistance made available to the State Government under the Principal Agreement by a further amount of up to 3,000,000 dollars;
-
-(e)   the Parliament of the Commonwealth of Australia will be requested to approve this agreement and to authorize the provision of financial assistance to the State Government to the extent and upon the terms and conditions provided for by this agreement:
-
-NOW IT IS HEREBY AGREED as follows:
-
-1.    This agreement shall have no force or effect and shall not be binding upon either party unless and until it has been approved by the Parliament of the Commonwealth of Australia.
-
-2.    As from the coming into force of this agreement but with operation deemed to have commenced on the first day of July 1973 as provided in sub-clause 1 (2) of the Principal Agreement, the amount of the financial assistance that may be provided in accordance with the Principal Agreement shall be increased by 3,000,000 dollars, that is, to a total amount of 6,800,000 dollars.
-
-3.    As varied by this agreement the Principal Agreement is confirmed to the intent that its provisions shall have effect as terms and conditions of the additional financial assistance provided for by this agreement as well as to the financial assistance made available under the Principal Agreement itself.
-
-IN WITNESS WHEREOF this agreement has been executed as at the day and year first above written.
-
-<table>
-<colgroup>
-  <col width="64%">
-  <col width="7%">
-  <col width="29%">
-</colgroup>
-
-<tr>
-  <td>
-    <div>SIGNED for and on behalf of THE GOVERNMENT OF THE COMMONWEALTH OF AUSTRALIA by THE HONOURABLE EDWARD GOUGH WHITLAM, Prime Minister, in the presence of—</div>
-    <div>R. F. MILLAR</div>
-  </td>
-  <td>
-    <div> <img width="12" height="108" src="http://www.comlaw.gov.au/Details/C2005C00098/Html/2c0204d4-57a9-4aa3-b448-4f28baad2337_files/image002.gif"> </div>
-  </td>
-  <td>
-    <div> 
-
- </div>
-    <div>E. G. WHITLAM</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>SIGNED for and on behalf of THE GOVERNMENT OF THE STATE OF WESTERN AUSTRALIA by THE HONOURABLE SIR CHARLES WALTER MICHEAL COURT, Premier, in the presence of—</div>
-    <div>W. S. LONNIE</div>
-  </td>
-  <td>
-    <div> <img width="12" height="103" src="http://www.comlaw.gov.au/Details/C2005C00098/Html/2c0204d4-57a9-4aa3-b448-4f28baad2337_files/image004.gif"> </div>
-  </td>
-  <td>
-    <div> 
-
- </div>
-    <div>CHARLES COURT</div>
-  </td>
-</tr></table>
-
- 
-
-# Notes to the _Sewerage Agreements Act 1974_
-
-### Note 1
+**Note 1**
 
 The _Sewerage Agreements Act 1974_ as shown in this compilation comprises Act No. 73, 1974 amended as indicated in the Tables below.
 
-### Table of Acts
+**Table of Acts**
 
-<table>
-<colgroup>
-  <col width="30%">
-  <col width="16%">
-  <col width="18%">
-  <col width="22%">
-  <col width="14%">
-</colgroup>
+<table><tr align="left">
+  <th colspan="1" align="left">
+    <div>Act</div>
 
-<thead>
-  <tr>
-    <td>
-      <div>Act</div>
-    </td>
-    <td>
-      <div>Number 
+  </th>
+  <th colspan="1" align="left">
+    <div>Number 
 and year</div>
-    </td>
-    <td>
-      <div>Date 
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Date 
 of Assent</div>
-    </td>
-    <td>
-      <div>Date of commencement</div>
-    </td>
-    <td>
-      <div>Application, saving or transitional provisions</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Sewerage Agreements Act 1974</div>
-    </td>
-    <td>
-      <div>73, 1974</div>
-    </td>
-    <td>
-      <div>4 Oct 1974</div>
-    </td>
-    <td>
-      <div>4 Oct 1974</div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Administrative Changes (Consequential Provisions) Act 1978</div>
-    </td>
-    <td>
-      <div>36, 1978</div>
-    </td>
-    <td>
-      <div>12 June 1978</div>
-    </td>
-    <td>
-      <div>12 June 1978</div>
-    </td>
-    <td>
-      <div>S. 8</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Financial Framework Legislation Amendment Act 2005</div>
-    </td>
-    <td>
-      <div>8, 2005</div>
-    </td>
-    <td>
-      <div>22 Feb 2005</div>
-    </td>
-    <td>
-      <div>Schedule 1 (items 22–26): Royal Assent</div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-</thead></table>
 
-## Table of Amendments
+  </th>
+  <th colspan="1" align="left">
+    <div>Date of commencement</div>
 
-<table>
-<colgroup>
-  <col width="34%">
-  <col width="66%">
-</colgroup>
+  </th>
+  <th colspan="1" align="left">
+    <div>Application, saving or transitional provisions</div>
 
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>S. 6</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
+  </th>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <th colspan="1" align="left">
+    <div><i>Sewerage Agreements Act 1974</i></div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>73, 1974</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>4 Oct 1974</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>4 Oct 1974</div>
+
+  </th>
+  <th colspan="1" align="left">
+
+  </th>
+</tr>
+<tr align="left">
+  <th colspan="1" align="left">
+    <div><i>Administrative Changes (Consequential Provisions) Act 1978</i></div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>36, 1978</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>12 June 1978</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>12 June 1978</div>
+
+  </th>
+  <th colspan="1" align="left">
     <div>S. 8</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
+
+  </th>
+</tr></table>
+
+**Table of Amendments**  <table><tr align="left">
+  <th colspan="1" align="left">
+    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+
+  </th>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <th colspan="1" align="left">
+    <div>Provision affected</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>How affected</div>
+
+  </th>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 9</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>am. No. 36, 1978</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div></div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div>rep. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
+  <td colspan="1" align="left">
+
   </td>
 </tr></table>
 
- 
 
- 
