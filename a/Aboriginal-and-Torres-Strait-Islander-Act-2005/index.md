@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00766/Html/99abc444-c06c-4acd-bc41-566a7ab2a72e_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00510/Html/cf30d4dc-8946-4f70-b318-e5e0703aece1_files/image001.gif)
 
 # Aboriginal and Torres Strait Islander Act 2005
 
 **Act No. 150 of 1989 as amended**
 
-This compilation was prepared on 22 September 2011
- taking into account amendments up to Act No. 97 of 2011
+This compilation was prepared on 7 July 2011
+ taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -1126,7 +1126,7 @@ is a purpose for which the TSRA could, in the performance of its functions, make
 
              (3)  A guarantee is subject to such terms and conditions as the TSRA determines.
 
-##### <a id="142GA"></a>142GA  TSRA may make grants and loans to Queensland government etc.
+##### <a id="142GA"></a>142GA  TSRA may make grants and loans to Queensland government etc.
 
              (1)  The TSRA may make a grant of money to:
 
@@ -2332,7 +2332,7 @@ Note 2:       The TSRA may declare that a member of the TSRA has bec
 
              (4)  Subsection (3) does not prevent the investment of money under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
 
-##### <a id="144X"></a>144X  Borrowing on overdraft to meet temporary deficit
+##### <a id="144X"></a>144X  Borrowing on overdraft to meet temporary deficit
 
              (1)  The TSRA may borrow money on overdraft from a bank for the sole purpose of meeting a temporary deficit in the money of the TSRA.
 
@@ -4204,7 +4204,7 @@ Note:          The Account was established by subsection 5(3) 
 
              (1)  The **_indexation factor_** for a financial year is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00766/Html/99abc444-c06c-4acd-bc41-566a7ab2a72e_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00510/Html/cf30d4dc-8946-4f70-b318-e5e0703aece1_files/image002.gif)
 
 where:
 
@@ -4234,7 +4234,7 @@ Later financial years
 
              (2)  On the first business day in October in a financial year beginning on or after 1 July 2011, there is to be paid to the Indigenous Land Corporation, out of the Land Account, the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00766/Html/99abc444-c06c-4acd-bc41-566a7ab2a72e_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00510/Html/cf30d4dc-8946-4f70-b318-e5e0703aece1_files/image003.gif)
 
 where:
 
@@ -4368,7 +4368,7 @@ Borrowing limit
 
              (3)  For the purposes of this section, the **_borrowing limit_** for a financial year is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00766/Html/99abc444-c06c-4acd-bc41-566a7ab2a72e_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00510/Html/cf30d4dc-8946-4f70-b318-e5e0703aece1_files/image004.gif)
 
 where:
 
@@ -4418,7 +4418,7 @@ Guarantee limit
 
              (2)  For the purposes of this section, the **_guarantee limit_** for a financial year is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00766/Html/99abc444-c06c-4acd-bc41-566a7ab2a72e_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00510/Html/cf30d4dc-8946-4f70-b318-e5e0703aece1_files/image005.gif)
 
 where:
 
@@ -6208,23 +6208,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Indigenous Affairs Legislation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>97, 2011</div>
-  </td>
-  <td>
-    <div>15 Sept 2011</div>
-  </td>
-  <td>
-    <div>Schedule 3: \[ <i>see</i>Note 3]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     Subsection 2(2) of the _Aboriginal and Torres Strait Islander Commission Amendment Act 1994_ provides as follows:
@@ -6448,8 +6431,6 @@ _(l)_      Subsection 2(1) (item 11) of the _Financial Framework Leg
   <td>
     <div>
       24 March 2005
-    </div>
-    <div>
       (paragraph (b) applies)
     </div>
   </td>
@@ -13455,73 +13436,11 @@ Note:          For rules that apply to acting appointments, se
 
 Repeal the subsection.
 
-## 25  Subsection 200C(2) (note 1)
+## 25  Subsection 200C(2) (note 1)
 
 Omit “section 17AA”, substitute “section 2B”.
 
-As at 22 September 2011 the amendments are not incorporated in this compilation.
-
-### Note 3
-
-_Indigenous Affairs Legislation Amendment Act 2011 (No. 97, 2011)_
-
-The following amendments commence on 15 September 2012 unless proclaimed earlier:
-
-## Schedule 3
-
-## 1  Subsection 4(1) (definition of _Queensland Act_)
-
-Repeal the definition.
-
-## 2  Subsection 142R(1)
-
-Omit “notice”, substitute “instrument”.
-
-## 3  Section 142S
-
-Repeal the section, substitute:
-
-##### <a id="142S"></a>142S  Minister may determine manner of representation on TSRA
-
-             (1)  The Minister may, by legislative instrument, make provision for and in relation to how the TSRA is to be constituted.
-
-             (2)  Without limiting subsection (1), an instrument under that subsection may:
-
-                     (a)  provide for some or all of the members of the TSRA to be elected under this Act to be representatives of a specified kind; and
-
-                     (b)  provide for the method and timing of election of those members; and
-
-                     (c)  provide for the term of office of those members.
-
-             (3)  An instrument under subsection (1) may also make provision in relation to the operation of the TSRA.
-
-             (4)  If the eligible number has changed, the Minister may amend an instrument under subsection (1) in connection with the change.
-
-             (5)  Subsection (4) does not limit the Minister’s power to revoke, amend or vary an instrument under subsection (1).
-
-             (6)  An instrument under subsection (1) has effect according to its terms.
-
-## 4  Subsection 142TA(3)
-
-Omit “a notice”, substitute “an instrument”.
-
-## 5  Paragraph 142TA(5)(b)
-
-Omit “a notice”, substitute “an instrument”.
-
-## 6  Subsection 142Y(1)
-
-Omit “Subject to this section, TSRA elections must be held every 3 years”, substitute “TSRA elections must be held every 4 years”.
-
-## 7  Subsection 142Y(3)
-
-Repeal the subsection.
-
-## 8  Subsection 143R(1)
-
-Omit “a notice under paragraph 142S(2)(a) or (b)”, substitute “an instrument under section 142S”.
-
-As at 22 September 2011 the amendments are not incorporated in this compilation.
+As at 7 July 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -14833,7 +14752,7 @@ _Aboriginal and Torres Strait Islander Commission Amendment Act 2005
 
                      (b)  is not a legislative instrument for the purposes of the _Legislative Instruments Act 2003_.
 
-## 193  Commission instruments
+## 193  Commission instruments
 
 (1)       A Commission instrument (other than a class A or class B exempted instrument) in force immediately before ATSIC abolition day has effect on and after that day, in relation to everything occurring on or after that day, as if a reference in the instrument to the Commission or to a Commission predecessor were a reference to the Commonwealth.
 
