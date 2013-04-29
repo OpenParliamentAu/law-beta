@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00239/Html/56cfc0ed-439c-490c-8d17-cd1c1c1ed25b_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00674/Html/f223f18d-d91b-4dfa-a621-7e4d8b36e0ff_files/image001.gif)
 
 # Protection of Movable Cultural Heritage Act 1986
 
 **Act No. 11 of 1986 as amended**
 
-This compilation was prepared on 14 February 2012
+This compilation was prepared on 24 August 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
@@ -184,6 +184,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="condition"></a>**_condition_**, in relation to a permit, means a condition to which the permit is subject.
 
+                    <a name="continent-shelf"></a>**_continental shelf_** has the same meaning as in the _Seas and Submerged Lands Act 1973_.
+
                     <a name="control-list"></a>**_Control List_** means the National Cultural Heritage Control List in force under section 8.
 
                     <a name="expert-examin"></a>**_expert examiner_** means a person whose name is in the register kept under section 22.
@@ -219,6 +221,8 @@ established under a law of the Commonwealth, a State or a Territory.
                     <a name="protect-object-foreign-countri"></a>**_protected object of a foreign country_** means an object forming part of the movable cultural heritage of a foreign country.
 
                     <a name="structur"></a>**_structure_** includes a platform fixed to the seabed or otherwise operating in the sea.
+
+                    <a name="territori-sea"></a>**_territorial sea_**, in relation to Australia, has the same meaning as it has for the purposes of the _Seas and Submerged Lands Act 1973_.
 
                     <a name="vessel"></a>**_vessel_** means anything capable of carrying persons or goods through or on water, and includes an air‑cushion vehicle or similar craft.
 
@@ -1320,7 +1324,7 @@ Remainder: 24 May 2001</div>
     <div>27 June 2011</div>
   </td>
   <td colspan="2">
-    <div>Schedule 2 (items 937, 938) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 937, 938) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11)</div>
@@ -1394,7 +1398,7 @@ _(e)_     The _Protection of Movable Cultural Heritage Act 1986_ was ame
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 88, 1990; No. 101, 1999; No. 137, 2000; No. 5, 2001; No. 46, 2011</div>
+    <div>am. No. 88, 1990; No. 101, 1999; No. 137, 2000; No. 5, 2001</div>
   </td>
 </tr>
 <tr>
@@ -1678,6 +1682,24 @@ _(e)_     The _Protection of Movable Cultural Heritage Act 1986_ was ame
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 937  Subsection 3(1) (definition of _continental shelf_)
+
+Repeal the definition.
+
+## 938  Subsection 3(1) (definition of _territorial sea_)
+
+Repeal the definition.
+
+As at 24 August 2011 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -1760,6 +1782,8 @@ If a determination under subsection 20(1) of the _Financial Management and Accou
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
