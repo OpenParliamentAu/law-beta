@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2010C00056/Html/SexDiscrimination84_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00008/Html/SexDiscrimination84_WD02_image001.gif)
 
 # Sex Discrimination Act 1984
 
 **Act No. 4 of 1984 as amended**
 
-This compilation was prepared on 5 February 2010
+This compilation was prepared on 1 January 2010
  taking into account amendments up to Act No. 124 of 2009
 
 The text of any of those amendments not in force
@@ -460,7 +460,7 @@ but does not include:
 
                      (b)  someone who is a child of the person within the meaning of the _Family Law Act 1975_.
 
-                    <a name="de-facto-partner"></a>**_de facto partner_** has the meaning given by the _Acts Interpretation Act 1901_.
+                    <a name="de-facto-partner"></a>**_de facto partner_** has the meaning given by the _Acts Interpretation Act 1901_.
 
                     <a name="depend-child"></a>**_dependent child_** means a child who is wholly or substantially dependent on the employee.
 
@@ -472,7 +472,7 @@ but does not include:
 
                     <a name="child"></a><a name="parent"></a><a name="parent"></a>**_parent_**: without limiting who is a parent of a person for the purposes of this section, someone is the **_parent_** of a person if the person is his or her child because of paragraph (b) of the definition of **_child_** in this subsection.
 
-                    <a name="spous"></a>**_spouse_** includes a former spouse, a de facto partner and a former de facto partner.
+                    <a name="spous"></a>**_spouse_** includes a former spouse, a de facto partner and a former de facto partner.
 
                     <a name="stepchild"></a><a name="stepchild"></a>**_stepchild_**: without limiting who is a stepchild of a person for the purposes of this section, someone is the **_stepchild_** of the person if he or she would be the person’s stepchild except that the person is not legally married to the partner.
 
@@ -2230,9 +2230,7 @@ IN WITNESS WHEREOF the undersigned, duly authorised, have signed the present Con
 
 The _Sex Discrimination Act 1984_ as shown in this compilation comprises Act No. 4, 1984 amended as indicated in the Tables below.
 
-The _Sex Discrimination Act 1984_ was amended by the _Workplace Relations Amendment (Work Choices) (Consequential Amendments) Regulations 2006 (No. 1)_ (SLI 2006 No. 50). The amendments are incorporated in this compilation.
-
-The _Sex Discrimination Act 1984_ was amended by the _Fair Work (State Referral and Consequential and Other Amendments) Act 2009_ (No. 54, 2009) as amended by the _Fair Work (State Referral and Consequential and Other Amendments) Regulations 2009_ (SLI 2009 No. 165 as amended by SLI 2009 No. 364). The amendment is incorporated in this compilation.
+The _Sex Discrimination Act 1984_ was amended by the _Workplace Relations Amendment (Work Choices) (Consequential Amendments) Regulations 2006 (No. 1)_ (SLI 2006 No. 50). The amendments are incorporated in this compilation.
 
 All relevant information pertaining to application, saving or transitional provisions prior to 13 October 1999 is not included in this compilation. For subsequent information _see_ Table A.
 
@@ -2829,7 +2827,7 @@ Sch. 9 (item 2(9)) (am. by 133, 1999, Sch. 1 \[item 125])</div>
     <div>19 Dec 1996</div>
   </td>
   <td colspan="2">
-    <div>Schedule 3 (items 1, 2): <i>(m)</i></div>
+    <div>Schedule 3 (items 1, 2): <i>(m)</i> </div>
   </td>
   <td colspan="3">
     <div>—</div>
@@ -3073,7 +3071,7 @@ Remainder: Royal Assent</div>
     <div>9 Dec 2008</div>
   </td>
   <td colspan="3">
-    <div>Schedule 2 (items 76–84) 10 Dec 2008</div>
+    <div>Schedule 2 (items 76–84) 10 Dec 2008</div>
   </td>
   <td>
     <div>—</div>
@@ -3090,7 +3088,7 @@ Remainder: Royal Assent</div>
     <div>54, 2009</div>
   </td>
   <td>
-    <div>25 June 2009</div>
+    <div>25 June 2009</div>
   </td>
   <td colspan="3">
     <div>S. 4: Royal Assent 
@@ -3098,8 +3096,7 @@ Schedule 5 (items 52–59,
 76–79, 87, 88): <i>(s)</i></div>
   </td>
   <td>
-    <div>S. 4 and Sch. 5 (items 87, 88) 
-Sch. 5 (item 87A) (ad. by SLI 2009 No. 165, Sch. 2 \[item 1]) \[ <i>see</i>Note 1 and Table A]</div>
+    <div>S. 4 and Sch. 5 (items 87, 88) \[ <i>see</i>Table A]</div>
   </td>
   <td>
     <div></div>
@@ -3113,7 +3110,7 @@ Sch. 5 (item 87A) (ad. by SLI 2009 No. 165, Sch. 2 \[item 1]) \[ <i>see</i
     <div>70, 2009</div>
   </td>
   <td>
-    <div>8 July 2009</div>
+    <div>8 July 2009</div>
   </td>
   <td colspan="3">
     <div>Schedule 3 (items 74–92, 115, 116, 179, 180) and Schedule 4 (items 6–14): 5 Aug 2009</div>
@@ -3136,7 +3133,7 @@ Sch. 5 (item 87A) (ad. by SLI 2009 No. 165, Sch. 2 \[item 1]) \[ <i>see</i
     <div>9 Dec 2009</div>
   </td>
   <td colspan="3">
-    <div>Schedule 2 (item 134): 1 Jan 2010</div>
+    <div>Schedule 2 (item 134): 1 Jan 2010</div>
   </td>
   <td>
     <div>—</div>
@@ -3343,7 +3340,7 @@ _(r)_ Subsection 2(1) (item 7) of the _Age Discrimination (Consequential Provi
   </td>
 </tr></table>
 
-_The Australian Human Rights Commission Legislation Bill 2004_ was not enacted. Therefore the amendment made by Schedule 2 (item 28) did not commence.
+_The Australian Human Rights Commission Legislation Bill 2004_ was not enacted. Therefore the amendment made by Schedule 2 (item 28) did not commence.
 
 _(s)_ Subsection 2(1) (items 13, 17 and 21) of the _Fair Work (State Referral and Consequential and Other Amendments) Act 2009_ provides as follows:
 
@@ -3395,7 +3392,7 @@ _(s)_ Subsection 2(1) (items 13, 17 and 21) of the _Fair Work (State Referral 
   </td>
   <td>
     <div>
-      1 July 2009 (
+      1 July 2009 (
         <i>see</i>F2009L02563)
     </div>
   </td>
@@ -3414,7 +3411,7 @@ _(s)_ Subsection 2(1) (items 13, 17 and 21) of the _Fair Work (State Referral 
   </td>
   <td>
     <div>
-      1 July 2009 (
+      1 July 2009 (
         <i>see</i>F2009L02563)
     </div>
   </td>
@@ -3433,7 +3430,7 @@ _(s)_ Subsection 2(1) (items 13, 17 and 21) of the _Fair Work (State Referral 
   </td>
   <td>
     <div>
-      1 July 2009 (
+      1 July 2009 (
         <i>see</i>F2009L02563)
     </div>
   </td>
@@ -3491,7 +3488,7 @@ _(s)_ Subsection 2(1) (items 13, 17 and 21) of the _Fair Work (State Referral 
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 72, 1984; No. 126, 1986; Nos. 80 and 87, 1988; No. 115, 1990; No. 71, 1991; Nos. 179 and 180, 1992: No. 165, 1995; No. 60, 1996; Nos. 116, 133, 146 and 161, 1999; No. 105, 2002; SLI 2006 No. 50; No. 54, 2009; No. 70, 2009</div>
+    <div>am. No. 72, 1984; No. 126, 1986; Nos. 80 and 87, 1988; No. 115, 1990; No. 71, 1991; Nos. 179 and 180, 1992: No. 165, 1995; No. 60, 1996; Nos. 116, 133, 146 and 161, 1999; No. 105, 2002; SLI 2006 No. 50; No. 54, 2009; No. 70, 2009</div>
   </td>
 </tr>
 <tr>
@@ -3571,7 +3568,7 @@ _(s)_ Subsection 2(1) (items 13, 17 and 21) of the _Fair Work (State Referral 
     <div>S. 9</div>
   </td>
   <td>
-    <div>am. No. 179, 1992; No. 165, 1995; No. 144, 2008; No. 70, 2009</div>
+    <div>am. No. 179, 1992; No. 165, 1995; No. 144, 2008; No. 70, 2009</div>
   </td>
 </tr>
 <tr>
@@ -3579,7 +3576,7 @@ _(s)_ Subsection 2(1) (items 13, 17 and 21) of the _Fair Work (State Referral 
     <div>S. 10</div>
   </td>
   <td>
-    <div>am. No. 165, 1995; No. 133, 1999; No. 144, 2008; No. 70, 2009</div>
+    <div>am. No. 165, 1995; No. 133, 1999; No. 144, 2008; No. 70, 2009</div>
   </td>
 </tr>
 <tr>
@@ -3779,7 +3776,7 @@ _(s)_ Subsection 2(1) (items 13, 17 and 21) of the _Fair Work (State Referral 
     <div>S. 40</div>
   </td>
   <td>
-    <div>am. Nos. 38 and 75, 1988; Nos. 70 and 71, 1991; No. 164, 1994; Nos. 22 and 165, 1995; No. 60, 1996; No. 171, 1997; SLI 2006 No. 50; Nos. 54 and 124, 2009</div>
+    <div>am. Nos. 38 and 75, 1988; Nos. 70 and 71, 1991; No. 164, 1994; Nos. 22 and 165, 1995; No. 60, 1996; No. 171, 1997; SLI 2006 No. 50; Nos. 54 and 124, 2009</div>
   </td>
 </tr>
 <tr>
@@ -4691,7 +4688,7 @@ _(s)_ Subsection 2(1) (items 13, 17 and 21) of the _Fair Work (State Referral 
     <div>S. 109</div>
   </td>
   <td>
-    <div>am. No. 87, 1988; No. 60, 1996; SLI 2006 No. 50</div>
+    <div>am. No. 87, 1988; No. 60, 1996; SLI 2006 No. 50</div>
   </td>
 </tr>
 <tr>
@@ -5058,14 +5055,6 @@ _Fair Work (State Referral and Consequential and Other Amendments) Act 2009 (No.
 ## 87  Application of item 54
 
 Despite the amendment made by item 54 of this Schedule, the _Sex Discrimination Act 1984_, as in force immediately before the WR Act repeal day, continues to apply, in relation to a decision of the Australian Fair Pay Commission (whether made before or after that day), as if that amendment had not been made.
-
-## 87A  Application of Sex Discrimination Act 1984—item 54
-
-The _Sex Discrimination Act 1984_ is prescribed for the purposes of section 116 of the _Workplace Relations Act 1996_, to the extent that that section continues to operate in accordance with the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_, until the later of:
-
-                     (a)  31 December 2009; or
-
-                     (b)  the date (if any) on which the Australian Industrial Relations Commission ceases to exist in accordance with a determination by the Minister under subitem 7(3) of Schedule 18 to the T&amp;C Act.
 
 ## 88  Application of item 77
 
