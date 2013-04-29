@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00711/Html/c8202d27-5e3f-4ab4-9820-af6b13712bbd_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00702/Html/629122c7-0e0e-48b2-afa5-0df6844a0b06_files/image001.gif)
 
 # Family Law Act 1975
 
 **Act No. 53 of 1975 as amended**
 
-This compilation was prepared on 10 October 2012
+This compilation was prepared on 22 September 2012
  taking into account amendments up to Act No. 136 of 2012
 
 The text of any of those amendments not in force 
@@ -4786,7 +4786,7 @@ Note:          For rules that apply to acting appointments, se
 
              (3)  The Attorney‑General must cause a copy of the report to be tabled in each House of the Parliament as soon as practicable.
 
-##### <a id="38W"></a>38W  Delegation of administrative powers of Chief Judge
+##### <a id="38W"></a>38W  Delegation of administrative powers of Chief Judge
 
                    The Chief Judge may, in writing, delegate all or any of his or her powers under section 38A to any one or more of the Judges.
 
@@ -5086,7 +5086,7 @@ Note:          Subdivision D of Division 4 of Part XIIIAA 
 
              (2)  Paragraph (1)(a) does not apply in relation to the exercise of jurisdiction conferred or invested by Division 2.
 
-##### <a id="44"></a>44  Institution of proceedings
+##### <a id="44"></a>44  Institution of proceedings
 
              (1)  Except as otherwise prescribed by the regulations or by the applicable Rules of Court, proceedings under this Act shall be instituted by application.
 
@@ -7308,7 +7308,7 @@ Note:          This will mean that the person with whom the ch
 
                      (b)  the court is satisfied that there are circumstances that make it appropriate to make the proposed order even though the conditions in paragraph (a) are not satisfied.
 
-##### <a id="65H"></a>65H  Children who are 18 or over or who have married or entered de facto relationships
+##### <a id="65H"></a>65H  Children who are 18 or over or who have married or entered de facto relationships
 
              (1)  A parenting order must not be made in relation to a child who:
 
@@ -7526,7 +7526,7 @@ administered by or on behalf of the Commonwealth Government under which money ap
 
              (2)  The court must, without delay, proceed to hear and determine the application.
 
-##### <a id="65U"></a>65U  Obligation of court—where no application before it, but application before another court, to deal with contravention
+##### <a id="65U"></a>65U  Obligation of court—where no application before it, but application before another court, to deal with contravention
 
              (1)  This section applies if:
 
@@ -7550,7 +7550,7 @@ administered by or on behalf of the Commonwealth Government under which money ap
 
                      (c)  if the alleged offender is not brought before the other court as required by the order, he or she must be released without delay.
 
-##### <a id="65V"></a>65V  Obligation of court—where no application before any court to deal with contravention
+##### <a id="65V"></a>65V  Obligation of court—where no application before any court to deal with contravention
 
              (1)  This section applies if:
 
@@ -8440,7 +8440,7 @@ Note:          Sections 60CB to 60CG deal with how a court d
 
            (10)  The person to whom a Commonwealth information order applies must comply with the order in spite of anything in any other law.
 
-##### <a id="67P"></a>67P  Information provided under location order not to be disclosed except to limited persons
+##### <a id="67P"></a>67P  Information provided under location order not to be disclosed except to limited persons
 
              (1)  Information provided to the Registry Manager of a court under a location order (including a Commonwealth information order) must not be disclosed by the Registry Manager, or by any other person who obtains the information (whether directly or indirectly and whether under this section or otherwise) because of the provision of the information to the Registry Manager, except to:
 
@@ -9154,7 +9154,7 @@ Note:       Even though the best interests of the child are not para
 
 ##### <a id="69A"></a>69A  What this Division does
 
-                   This Division deals with:
+                   This Division deals with:
 
                      (a)  the institution of proceedings and procedure (Subdivision B); and
 
@@ -9246,7 +9246,7 @@ Note:          Division 4 of Part XIIIAA (International pr
 
              (4)  Jurisdiction is conferred on the Federal Magistrates Court in relation to matters arising under this Part (other than proceedings for leave under section 60G).
 
-##### <a id="69J"></a>69J  Jurisdiction of courts of summary jurisdiction
+##### <a id="69J"></a>69J  Jurisdiction of courts of summary jurisdiction
 
              (1)  Subject to subsection (5), each court of summary jurisdiction of each State is invested with federal jurisdiction in relation to matters arising under this Part (other than proceedings for leave under section 60G).
 
@@ -10720,7 +10720,7 @@ Note:          The court may also vary the primary order under
 
              (7)  When a court makes an order under this section, the court may make any other orders that the court considers necessary to ensure compliance with the order that was contravened.
 
-##### <a id="70NFC"></a>70NFC  When court is empowered to make a community service order
+##### <a id="70NFC"></a>70NFC  When court is empowered to make a community service order
 
              (1)  Subject to this section, if, under the law of a participating State or a participating Territory, a court is empowered (whether generally or in particular cases) to make a community service order in respect of a person convicted of an offence against the law of the State or Territory, a court exercising jurisdiction in the State or Territory may, under paragraph 70NFB(2)(a) make a community service order.
 
@@ -13182,7 +13182,7 @@ Note 3:       For **_child of a de facto relationship_**, see sect
 
                              (ii)  otherwise in relation to any of that last‑mentioned property;
 
-                            whether or not that last‑mentioned property has, since the making of the contribution, ceased to be the property of the parties to the de facto relationship or either of them; and
+                            whether or not that last‑mentioned property has, since the making of the contribution, ceased to be the property of the parties to the de facto relationship or either of them; and
 
                      (b)  the contribution (other than a financial contribution) made directly or indirectly by or on behalf of a party to the de facto relationship, or a child of the de facto relationship:
 
@@ -14261,7 +14261,7 @@ the person must:
 
              (3)  Giving the Registry Manager written notice of the proceeds of crime authority’s consent under this section is taken to be the giving of that consent, unless the court requires the authority to appear in the proceedings. The notice may be given by the authority or by a party to the proceedings.
 
-##### <a id="90VD"></a>90VD  Intervention by proceeds of crime authority
+##### <a id="90VD"></a>90VD  Intervention by proceeds of crime authority
 
              (1)  The proceeds of crime authority may intervene in any de facto property settlement or maintenance proceedings in relation to which a court is notified under section 90VA, or in any proceedings under section 90VB or 90VC in which the authority is not already a party.
 
@@ -18054,7 +18054,7 @@ a court having jurisdiction under this Act may, subject to subsection (2):
 
              (2)  Nothing in subsection (1) empowers a court to order a person to make reparation to the Commonwealth, to a Commonwealth instrumentality or to another person in respect of any loss suffered, or any expense incurred, where a court has, under section 21B of the _Crimes Act 1914_, ordered the first‑mentioned person to make reparation to the Commonwealth, to the Commonwealth instrumentality or to that other person, as the case may be, in respect of the same loss suffered or expense incurred.
 
-##### <a id="117B"></a>117B  Interest on moneys ordered to be paid
+##### <a id="117B"></a>117B  Interest on moneys ordered to be paid
 
              (1)  Subject to any order made by the court under subsection (2), where, in proceedings under this Act, a court makes an order for the payment of money (other than an order for the payment by way of maintenance of a periodic sum), interest is payable, at the rate prescribed by the applicable Rules of Court, from:
 
@@ -18214,7 +18214,7 @@ Note:          Powers to make Rules of Court are also containe
 
                    A person who is authorised or directed by a provision of this Act, or by a warrant issued under a provision of this Act, to arrest another person may use such reasonable force as is necessary to make the arrest or to prevent the escape of that person after the arrest.
 
-##### <a id="122A"></a>122A  Powers of entry and search for purposes of arresting persons
+##### <a id="122A"></a>122A  Powers of entry and search for purposes of arresting persons
 
              (1)  Where:
 
@@ -18384,7 +18384,7 @@ the authorised person may, without warrant, enter and search the searchable plac
 
                      (c)  subject to such further modifications or adaptations as are provided for in regulations made under paragraph 125(1)(baa) of this Act.
 
-          (2A)  Despite the fact that section 16 of the _Legislative Instruments Act 2003_ does not apply in relation to rules of court made under this Act, the Office of Parliamentary Counsel (established by subsection 2(1) of the _Parliamentary Counsel Act 1970_) may provide assistance in the drafting of any of those Rules if the Chief Judge so desires.
+          (2A)  Despite the fact that section 16 of the _Legislative Instruments Act 2003_ does not apply in relation to rules of court made under this Act, the Department may provide assistance in the drafting of any of those Rules if the Chief Judge so desires.
 
              (3)  In this section, **_Judge_** means:
 
@@ -20898,7 +20898,7 @@ Schedule 2 (item 30): 4 Jan 2012</div>
     <div>22 July 2012</div>
   </td>
   <td>
-    <div>Schedule 2 (item 8): 1 Oct 2012 ( <i>see</i>F2012L01963)</div>
+    <div>Schedule 2 (item 8): \[ <i>see</i>Note 3]</div>
   </td>
   <td>
     <div>—</div>
@@ -32216,3 +32216,3449 @@ rs. No. 167, 1995; No. 46, 2006</div>
   <td>
     <div>am. No. 194, 1999</div>
   </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 69</div>
+  </td>
+  <td>
+    <div>am. No. 72, 1984</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 167, 1995</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 12</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Div. 12 of 
+Part VII</div>
+  </td>
+  <td>
+    <div>ad. No. 181, 1987 
+rs. No. 182, 1989; No. 167, 1995</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 12 of Part VII</div>
+  </td>
+  <td>
+    <div>rs. No. 167, 1995</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 69A</div>
+  </td>
+  <td>
+    <div>ad. No. 167, 1995</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision B</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 69B</div>
+  </td>
+  <td>
+    <div>ad. No. 167, 1995</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 146, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 69C</div>
+  </td>
+  <td>
+    <div>ad. No. 167, 1995</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 136, 2012</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 69D</div>
+  </td>
+  <td>
+    <div>ad. No. 167, 1995</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 69E</div>
+  </td>
+  <td>
+    <div>ad. No. 167, 1995</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 69E</div>
+  </td>
+  <td>
+    <div>ad. No. 69, 2002</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 69F</div>
+  </td>
+  <td>
+    <div>ad. No. 167, 1995</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision C</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 69G</div>
+  </td>
+  <td>
+    <div>ad. No. 167, 1995</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 69H</div>
+  </td>
+  <td>
+    <div>am. No. 194, 1999</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 69H</div>
+  </td>
+  <td>
+    <div>ad. No. 167, 1995</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 194, 1999</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 69J</div>
+  </td>
+  <td>
+    <div>ad. No. 167, 1995</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 22, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 69J(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 69K</div>
+  </td>
+  <td>
+    <div>ad. No. 167, 1995</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 69L</div>
+  </td>
+  <td>
+    <div>ad. No. 167, 1995</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 69M</div>
+  </td>
+  <td>
+    <div>ad. No. 167, 1995</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 69MA</div>
+  </td>
+  <td>
+    <div>ad. No. 194, 1999</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 143, 2000</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 69N</div>
+  </td>
+  <td>
+    <div>ad. No. 167, 1995</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 34, 1997; No. 98, 2005; No. 22, 2006; No. 189, 2011</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision D</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 69P</div>
+  </td>
+  <td>
+    <div>ad. No. 167, 1995</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 98, 2005</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 69Q</div>
+  </td>
+  <td>
+    <div>ad. No. 167, 1995</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 69R</div>
+  </td>
+  <td>
+    <div>ad. No. 167, 1995</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 69S</div>
+  </td>
+  <td>
+    <div>ad. No. 167, 1995</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 82, 2007</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 69T</div>
+  </td>
+  <td>
+    <div>ad. No. 167, 1995</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 69U</div>
+  </td>
+  <td>
+    <div>ad. No. 167, 1995</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision E</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 69V</div>
+  </td>
+  <td>
+    <div>ad. No. 167, 1995</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 69VA</div>
+  </td>
+  <td>
+    <div>ad. No. 143, 2000</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 69W</div>
+  </td>
+  <td>
+    <div>ad. No. 167, 1995</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 69X</div>
+  </td>
+  <td>
+    <div>ad. No. 167, 1995</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 69XA</div>
+  </td>
+  <td>
+    <div>ad. No. 82, 2007</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 69Y</div>
+  </td>
+  <td>
+    <div>ad. No. 167, 1995</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 69Z</div>
+  </td>
+  <td>
+    <div>ad. No. 167, 1995</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 69ZA</div>
+  </td>
+  <td>
+    <div>ad. No. 167, 1995</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 69ZB</div>
+  </td>
+  <td>
+    <div>ad. No. 167, 1995</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 69ZC</div>
+  </td>
+  <td>
+    <div>ad. No. 167, 1995</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 69ZD</div>
+  </td>
+  <td>
+    <div>ad. No. 167, 1995</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 82, 2007; No. 5, 2011</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision F</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 69ZE</div>
+  </td>
+  <td>
+    <div>ad. No. 167, 1995</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 69ZF</div>
+  </td>
+  <td>
+    <div>ad. No. 167, 1995</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 69ZG</div>
+  </td>
+  <td>
+    <div>ad. No. 167, 1995</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 69ZH</div>
+  </td>
+  <td>
+    <div>ad. No. 167, 1995</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 98, 2005; No. 46, 2006; No. 189, 2011</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 69ZJ</div>
+  </td>
+  <td>
+    <div>ad. No. 167, 1995</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 69ZK</div>
+  </td>
+  <td>
+    <div>ad. No. 167, 1995</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 12A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 12A of Part VII</div>
+  </td>
+  <td>
+    <div>ad. No. 37, 1991</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 167, 1995</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>ad. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 69ZM</div>
+  </td>
+  <td>
+    <div>ad. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 115, 2008</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision B</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 69ZN</div>
+  </td>
+  <td>
+    <div>ad. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 189, 2011</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 69ZO</div>
+  </td>
+  <td>
+    <div>ad. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 69ZP</div>
+  </td>
+  <td>
+    <div>ad. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision C</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 69ZQ</div>
+  </td>
+  <td>
+    <div>ad. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 189, 2011</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 69ZR</div>
+  </td>
+  <td>
+    <div>ad. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 69ZS</div>
+  </td>
+  <td>
+    <div>ad. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note 2 to s. 69ZS</div>
+  </td>
+  <td>
+    <div>am. No. 189, 2011</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision D</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 69ZT</div>
+  </td>
+  <td>
+    <div>ad. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 69ZU</div>
+  </td>
+  <td>
+    <div>ad. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 189, 2011</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 69ZV</div>
+  </td>
+  <td>
+    <div>ad. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 69ZW</div>
+  </td>
+  <td>
+    <div>ad. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 69ZX</div>
+  </td>
+  <td>
+    <div>ad. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 116, 2007; No. 21, 2011</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70</div>
+  </td>
+  <td>
+    <div>am. No. 72, 1983; No. 181, 1987; No. 182, 1989</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 167, 1995</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70AA</div>
+  </td>
+  <td>
+    <div>ad. No. 182, 1989</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 37, 1991</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 167, 1995</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 13</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 13 of Part VII</div>
+  </td>
+  <td>
+    <div>ad. No. 181, 1987</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 167, 1995</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70A</div>
+  </td>
+  <td>
+    <div>ad. No. 72, 1983</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 181, 1987; No. 37, 1991</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 167, 1995</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision B</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70B</div>
+  </td>
+  <td>
+    <div>ad. No. 72, 1983</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 181, 1987; No. 37, 1991</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 167, 1995</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70BA</div>
+  </td>
+  <td>
+    <div>ad. No. 37, 1991</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 167, 1995</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70BB</div>
+  </td>
+  <td>
+    <div>ad. No. 37, 1991</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 167, 1995</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70BC</div>
+  </td>
+  <td>
+    <div>ad. No. 37, 1991</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 167, 1995</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70C</div>
+  </td>
+  <td>
+    <div>ad. No. 181, 1987</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 182, 1989</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 167, 1995</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 194, 1999</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70D</div>
+  </td>
+  <td>
+    <div>ad. No. 181, 1987</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 182, 1989; No. 167, 1995</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 194, 1999</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70E</div>
+  </td>
+  <td>
+    <div>ad. No. 181, 1987</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 167, 1995</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision C</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70F</div>
+  </td>
+  <td>
+    <div>ad. No. 37, 1991</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 167, 1995</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 143, 2000</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70G</div>
+  </td>
+  <td>
+    <div>ad. No. 167, 1995</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70H</div>
+  </td>
+  <td>
+    <div>ad. No. 167, 1995</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 70H</div>
+  </td>
+  <td>
+    <div>ad. No. 69, 2002</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70J</div>
+  </td>
+  <td>
+    <div>ad. No. 167, 1995</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 70K</div>
+  </td>
+  <td>
+    <div>am. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70K</div>
+  </td>
+  <td>
+    <div>ad. No. 167, 1995</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70L</div>
+  </td>
+  <td>
+    <div>ad. No. 167, 1995</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision D</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70M</div>
+  </td>
+  <td>
+    <div>ad. No. 167, 1995</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 143, 2000; No. 138, 2003; No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70N</div>
+  </td>
+  <td>
+    <div>ad. No. 167, 1995</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 143, 2000; No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 13A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 13A of Part VII</div>
+  </td>
+  <td>
+    <div>ad. No. 143, 2000</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70NAA</div>
+  </td>
+  <td>
+    <div>ad. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70NAB</div>
+  </td>
+  <td>
+    <div>ad. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70NAC</div>
+  </td>
+  <td>
+    <div>ad. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70NAD</div>
+  </td>
+  <td>
+    <div>ad. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70NAE</div>
+  </td>
+  <td>
+    <div>ad. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70NAF</div>
+  </td>
+  <td>
+    <div>ad. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 189, 2011</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subdiv. AA of Div. 13A of 
+Part VII</div>
+  </td>
+  <td>
+    <div>ad. No. 98, 2005 
+rep. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision B</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70NB</div>
+  </td>
+  <td>
+    <div>ad. No. 143, 2000</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 138, 2003</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70NBA</div>
+  </td>
+  <td>
+    <div>ad. No. 143, 2000</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70NBB</div>
+  </td>
+  <td>
+    <div>ad. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision C</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70NC</div>
+  </td>
+  <td>
+    <div>ad. No. 143, 2000</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70NCA</div>
+  </td>
+  <td>
+    <div>ad. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70NCB</div>
+  </td>
+  <td>
+    <div>ad. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision D</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70ND</div>
+  </td>
+  <td>
+    <div>ad. No. 143, 2000</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70NDA</div>
+  </td>
+  <td>
+    <div>ad. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70NDB</div>
+  </td>
+  <td>
+    <div>ad. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70NDC</div>
+  </td>
+  <td>
+    <div>ad. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision E</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70NE</div>
+  </td>
+  <td>
+    <div>ad. No. 143, 2000</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70NEA</div>
+  </td>
+  <td>
+    <div>ad. No. 143, 2000</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70NEB</div>
+  </td>
+  <td>
+    <div>ad. No. 98, 2005</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 189, 2011</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70NEC</div>
+  </td>
+  <td>
+    <div>ad. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70NECA</div>
+  </td>
+  <td>
+    <div>ad. No. 189, 2011</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70NED</div>
+  </td>
+  <td>
+    <div>ad. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70NEF</div>
+  </td>
+  <td>
+    <div>ad. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70NEG</div>
+  </td>
+  <td>
+    <div>ad. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision F</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70NF</div>
+  </td>
+  <td>
+    <div>ad. No. 143, 2000</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 138, 2003</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70NFA</div>
+  </td>
+  <td>
+    <div>ad. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70NFB</div>
+  </td>
+  <td>
+    <div>ad. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70NFC</div>
+  </td>
+  <td>
+    <div>ad. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70NFD</div>
+  </td>
+  <td>
+    <div>ad. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70NFE</div>
+  </td>
+  <td>
+    <div>ad. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70NFF</div>
+  </td>
+  <td>
+    <div>ad. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 189, 2011</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70NFG</div>
+  </td>
+  <td>
+    <div>ad. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70NFH</div>
+  </td>
+  <td>
+    <div>ad. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70NFI</div>
+  </td>
+  <td>
+    <div>ad. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70NFJ</div>
+  </td>
+  <td>
+    <div>ad. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70NG</div>
+  </td>
+  <td>
+    <div>ad. No. 143, 2000</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 138, 2003</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70NH</div>
+  </td>
+  <td>
+    <div>ad. No. 143, 2000</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70NI</div>
+  </td>
+  <td>
+    <div>ad. No. 143, 2000</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 138, 2003</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70NIA</div>
+  </td>
+  <td>
+    <div>ad. No. 143, 2000</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 138, 2003</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 70NIB</div>
+  </td>
+  <td>
+    <div>am. No. 138, 2003</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70NIB</div>
+  </td>
+  <td>
+    <div>ad. No. 143, 2000</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 138, 2003</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70NJ</div>
+  </td>
+  <td>
+    <div>ad. No. 143, 2000</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 138, 2003</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70NK</div>
+  </td>
+  <td>
+    <div>ad. No. 143, 2000</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 138, 2003</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70NL</div>
+  </td>
+  <td>
+    <div>ad. No. 143, 2000</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70NM</div>
+  </td>
+  <td>
+    <div>ad. No. 143, 2000</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70NN</div>
+  </td>
+  <td>
+    <div>ad. No. 143, 2000</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 98, 2005</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70NO</div>
+  </td>
+  <td>
+    <div>ad. No. 143, 2000</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 138, 2003; No. 98, 2005</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70NP</div>
+  </td>
+  <td>
+    <div>ad. No. 143, 2000</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70NQ</div>
+  </td>
+  <td>
+    <div>ad. No. 143, 2000</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 138, 2003</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70NR</div>
+  </td>
+  <td>
+    <div>ad. No. 143, 2000</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 14</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 14 of Part VII</div>
+  </td>
+  <td>
+    <div>ad. No. 181, 1987</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 167, 1995</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70P</div>
+  </td>
+  <td>
+    <div>ad. No. 167, 1995</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70Q</div>
+  </td>
+  <td>
+    <div>ad. No. 167, 1995</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 138, 2003</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part VIII</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Part VIII</div>
+  </td>
+  <td>
+    <div>rs. No. 181, 1987</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 71A</div>
+  </td>
+  <td>
+    <div>ad. No. 143, 2000</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 20, 2005</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 72</div>
+  </td>
+  <td>
+    <div>rs. No. 72, 1983</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 20, 2005</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 73</div>
+  </td>
+  <td>
+    <div>rep. No. 181, 1987</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 74</div>
+  </td>
+  <td>
+    <div>am. No. 181, 1987; No. 20, 2005</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 75</div>
+  </td>
+  <td>
+    <div>am. No. 63, 1976; No. 72, 1983; No. 181, 1987; No. 124, 1989; No. 84, 1997; No. 143, 2000; Nos. 20 and 98, 2005; No. 22, 2006; No. 115, 2008</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 76</div>
+  </td>
+  <td>
+    <div>rep. No. 181, 1987</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 77</div>
+  </td>
+  <td>
+    <div>am. No. 181, 1987</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 77A</div>
+  </td>
+  <td>
+    <div>ad. No. 181, 1987</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 78</div>
+  </td>
+  <td>
+    <div>am. No. 120, 1988</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 79</div>
+  </td>
+  <td>
+    <div>am. No. 63, 1976; No. 72, 1983; No. 181, 1987; No. 124, 1989; No. 84, 1997; No. 194, 1999; Nos. 20 and 98, 2005; No. 115, 2008</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 79A</div>
+  </td>
+  <td>
+    <div>ad. No. 63, 1976</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 23, 1979; No. 72, 1983; No. 181, 1987; No. 167, 1995; No. 194, 1999; No. 143, 2000; No. 86, 2002; No. 20, 2005; No. 46, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 79B</div>
+  </td>
+  <td>
+    <div>ad. No. 86, 2002</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 174, 2011</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 79C</div>
+  </td>
+  <td>
+    <div>ad. No. 86, 2002</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 174, 2011</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 79D</div>
+  </td>
+  <td>
+    <div>ad. No. 86, 2002</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 174, 2011</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 79E...........</div>
+  </td>
+  <td>
+    <div>am. No. 174, 2011</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 79E</div>
+  </td>
+  <td>
+    <div>ad. No. 86, 2002</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 174, 2011</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 79F</div>
+  </td>
+  <td>
+    <div>ad. No. 20, 2005</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 79F</div>
+  </td>
+  <td>
+    <div>ad. No. 115, 2008</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 79G</div>
+  </td>
+  <td>
+    <div>ad. No. 20, 2005</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 79H</div>
+  </td>
+  <td>
+    <div>ad. No. 20, 2005</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 79J</div>
+  </td>
+  <td>
+    <div>ad. No. 20, 2005</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 80</div>
+  </td>
+  <td>
+    <div>am. No. 181, 1987; No. 194, 1999; No. 20, 2005</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 82</div>
+  </td>
+  <td>
+    <div>am. No. 72, 1983; No. 181, 1987</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 83</div>
+  </td>
+  <td>
+    <div>am. No. 63, 1976; No. 23, 1979; No. 72, 1983; No. 181, 1987; No. 194, 1999; No. 20, 2005; No. 82, 2007; No. 115, 2008</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 84</div>
+  </td>
+  <td>
+    <div>am. No. 72, 1983; No. 181, 1987</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 143, 2000</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 85</div>
+  </td>
+  <td>
+    <div>am. No. 72, 1983</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 143, 2000</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 85A</div>
+  </td>
+  <td>
+    <div>ad. No. 72, 1983</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 143, 2000</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 86A</div>
+  </td>
+  <td>
+    <div>ad. No. 143, 2000</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 86</div>
+  </td>
+  <td>
+    <div>am. No. 72, 1983; No. 181, 1987; No. 124, 1989; No. 167, 1995; No. 194, 1999; No. 143, 2000; No. 146, 2006</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 87</div>
+  </td>
+  <td>
+    <div>am. No. 23, 1979</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 72, 1983</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 72, 1983; No. 72, 1984; No. 181, 1987; No. 124, 1989; No. 167, 1995; No. 194, 1999; No. 143, 2000; No. 146, 2006 (as am. by No. 8, 2010)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 87A</div>
+  </td>
+  <td>
+    <div>ad. No. 181, 1987</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 88</div>
+  </td>
+  <td>
+    <div>am. No. 72, 1983</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 89</div>
+  </td>
+  <td>
+    <div>am. No. 72, 1984</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 89A</div>
+  </td>
+  <td>
+    <div>ad. No. 63, 1976</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 181, 1987</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 90</div>
+  </td>
+  <td>
+    <div>am. No. 63, 1976</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 72, 1983</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 181, 1987; No. 37, 1991; No. 98, 2005</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part VIIIAA</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Part VIIIAA</div>
+  </td>
+  <td>
+    <div>ad. No. 138, 2003</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 90AA</div>
+  </td>
+  <td>
+    <div>ad. No. 138, 2003</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 90AB</div>
+  </td>
+  <td>
+    <div>ad. No. 138, 2003</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 90AC</div>
+  </td>
+  <td>
+    <div>ad. No. 138, 2003</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 90ACA</div>
+  </td>
+  <td>
+    <div>ad. No. 153, 2004</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 15, 2007</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 90AD</div>
+  </td>
+  <td>
+    <div>ad. No. 138, 2003</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 90ADA</div>
+  </td>
+  <td>
+    <div>ad. No. 138, 2003</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 90AE</div>
+  </td>
+  <td>
+    <div>ad. No. 138, 2003</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 3</b></div>
+  </td>
+  <td>
+    <div>
