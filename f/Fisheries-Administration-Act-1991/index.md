@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2007C00486/Html/FishAdmin1991_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00451/Html/FishAdmin1991_WD02_image001.gif)
 
 # Fisheries Administration Act 1991
 
 **Act No. 161 of 1991 as amended**
 
-This compilation was prepared on 26 July 2007
+This compilation was prepared on 9 July 2007
  taking into account amendments up to Act No. 104 of 2007
 
 The text of any of those amendments not in force
@@ -230,8 +230,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [93](#93).          Delegation by the Managing Director
 
-[93A](#93A).       Delegations under the _Torres Strait Fisheries Act 1984_
-
 [94](#94).          Limit—fees and charges
 
 **Part 3—The Fishing Industry Policy Council** 
@@ -294,7 +292,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ## Part 1—Preliminary
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]                
+##### <a id="1"></a>1  Short title [_see_ Note 1]                
 
                    This Act may be cited as the _Fisheries Administration Act 1991_.
 
@@ -452,8 +450,6 @@ Note:          Definitions relating only to Part 3 are in se
 
                             in relation to fishing activities by Australian-flagged boats on the high seas that are additional to the obligations referred to in paragraph (aa)—to devise and implement management regimes in relation to those activities that are consistent with those first-mentioned obligations; and
 
-                    (ac)  to advise and assist in relation to the exercise of powers and the performance of functions under the _Torres  Strait__Fisheries Act 1984_;
-
                      (b)  to devise fisheries adjustment programs and fisheries restructuring programs;
 
                      (c)  to consult, and co-operate, with the industry and members of the public generally in relation to the activities of the Authority;
@@ -468,7 +464,7 @@ Note:          Definitions relating only to Part 3 are in se
 
                      (e)  to establish priorities in respect of research relating to fisheries managed by the Authority and arrange for the undertaking of such research;
 
-                    (ea)  to make arrangements in relation to the placement of persons as observers on board boats used for commercial fishing, including foreign fishing boats operating, or intended to operate, outside the Australian fishing zone if such placements are consistent with Australia’s international obligations;
+                    (ea)  to make arrangements in relation to the placement of persons as observers on board foreign fishing boats operating, or intended to operate, outside the Australian fishing zone if such placements are consistent with Australia’s international obligations;
 
                       (f)  to consult, and negotiate, with foreign governments and foreign business interests in relation to access by foreign fishing vessels to Australian fisheries and Australian ports;
 
@@ -476,25 +472,7 @@ Note:          Definitions relating only to Part 3 are in se
 
                     (ga)  to liaise and co-operate with and, where obliged under this Act or any associated law or under international law or international agreements to do so, to give information to, overseas and international bodies on matters relating to global, regional or subregional fisheries management organisations or arrangements;
 
-                  (gaa)  in addition to the collection of information in the exercise or performance of its other powers and functions—to collect, as authorised (within the meaning of subsection (4)), information relating to the following:
-
-                              (i)  possible breaches of the laws of Australia or of a foreign country;
-
-                             (ii)  the control and protection of Australia’s borders;
-
-                            (iii)  the administration and management of fisheries or marine environments;
-
-                            (iv)  research or monitoring conducted, or proposed to be conducted, into fisheries or marine environments;
-
-                    (gb)  to disclose, as authorised (within the meaning of subsection (4)), information, including personal information, relating to the following:
-
-                              (i)  possible breaches of the laws of Australia or of a foreign country;
-
-                             (ii)  the control and protection of Australia’s borders;
-
-                            (iii)  the administration and management of fisheries or marine environments;
-
-                            (iv)  research or monitoring conducted, or proposed to be conducted, into fisheries or marine environments;
+                    (gb)  to disclose, or to authorise a prescribed agency within the meaning of subsection (4) to disclose on its behalf, information relating to fishing activities that may involve a breach of the laws of Australia or of a foreign country, including personal information relating to the fishing activities of individuals that may involve such a breach;
 
                      (h)  the functions specified in section 9 relating to consultation;
 
@@ -528,17 +506,17 @@ Note:          Section 9 of the _Commonwealth Authorities an
 
              (2)  The paragraphs of subsection (1) do not limit one another.
 
-             (3)  In disclosing information in the course of an activity referred to in paragraph (1)(g), (ga), (gb) or (ma), the Authority may require that the information:
+             (3)  In disclosing information in the course of an activity referred to in paragraph (1)(g), (ga), (gb) or (ma), or in authorising the disclosure of such information, the Authority may require that the information:
 
-                     (a)  not be disclosed by the person or body to which it is provided; or
+                     (a)  not be disclosed by the body to which it is provided; or
 
                      (b)  be disclosed only for such purposes, and on such conditions, as the Authority specifies.
 
-             (4)  Collection or disclosure of information is **_authorised_** for the purposes of paragraph (1)(gaa) or (gb) if it is done in accordance with:
+             (4)  An agency is a prescribed agency for the purposes of paragraph (1)(gb) if:
 
-                     (a)  this Act, the _Fisheries Management Act 1991_ or the _Torres Strait__Fisheries Act 1984_; or
+                     (a)  it is an agency within the meaning of section 7 of the _Public Service Act 1999_; and
 
-                     (b)  regulations made under an Act mentioned in paragraph (a).
+                     (b)  it is declared by the regulations to be a prescribed agency for the purposes of that paragraph.
 
 ##### <a id="8"></a>8  Powers
 
@@ -614,15 +592,9 @@ Note:          The _Commonwealth Authorities and Companies Act
 
              (4)  The nominated directors, other than the first 5 such directors, are to be appointed from persons nominated by a Selection Committee under section 31.
 
-          (4A)  However, the requirements of subsection (4) do not have to be met in relation to a director if the Minister appoints the director:
-
-                     (a)  in the period starting on 1 July 2008 and ending on 30 June 2009; and
-
-                     (b)  for a period not exceeding 9 months.
-
              (5)  The appointment of a person as a director is not invalid because of a defect or irregularity in connection with the persons nomination or appointment.
 
-             (6)  The Minister must try, so far as the first 5 nominated directors are concerned, to appoint, so far as practicable, such persons as will ensure that the directors of the Authority collectively possess expertise in all the fields of activity referred to in subsection 30(1).
+             (6)  The Minister must try, so far as the first 5 nominated directors are concerned, to appoint, so far as practicable, such persons as will ensure that the directors of the Authority collectively possess expertise in all the fields of activity referred to in subsection 30 (1).
 
 ##### <a id="13"></a>13  Deputy Chairperson
 
@@ -956,7 +928,7 @@ but a person appointed to act during the vacancy must not continue to act for mo
 
              (2)  The Presiding Member may grant to another member of a Committee leave of absence from a meeting of the Committee.
 
-##### <a id="36"></a>36  Resignation
+##### <a id="36"></a>36  Resignation
 
                    A member of a Selection Committee may resign by giving to the Minister a signed notice of resignation.
 
@@ -1694,10 +1666,6 @@ any of the Authority’s powers and functions, except the Authority’s powers u
 
                    The Managing Director may, by signed instrument, delegate to a person employed by the Authority any of the powers and functions of the Managing Director under this Act.
 
-##### <a id="93A"></a>93A  Delegations under the _Torres Strait__Fisheries Act 1984_
-
-                   The Managing Director may arrange for a person employed by the Authority to exercise powers and perform functions under a delegation under the _Torres Strait__Fisheries Act 1984_.
-
 ##### <a id="94"></a>94  Limit—fees and charges
 
                    The amount or rate of a charge or fee imposed or charged under this Act must not be such as to amount to taxation.
@@ -1920,7 +1888,7 @@ the Minister must:
 
              (4)  In this section:
 
-                    <a name="appointed-member"></a>**_appointed member_** means a member other than a member referred to in paragraph 102(1)(b) or (c).
+                    <a name="appointed-member"></a>**_appointed member_** means a member other than a member referred to in paragraph 102 (1)(b) or (c).
 
 ##### <a id="107"></a>107  Disclosure of interests
 
@@ -2134,7 +2102,7 @@ of Assent</div>
     <div>7 July 1997</div>
   </td>
   <td>
-    <div>Sch. 1 (item 12)</div>
+    <div>Sch. 3 (item 12)</div>
   </td>
 </tr>
 <tr>
@@ -2323,7 +2291,7 @@ Remainder: Royal Assent</div>
     <div>28 June 2007</div>
   </td>
   <td>
-    <div>Schedule 1: 26 July 2007</div>
+    <div>Schedule 1: \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -2416,7 +2384,7 @@ _(b)_    The _Fisheries Administration Act 1991_ was amended by Schedule�
     <div>S. 7</div>
   </td>
   <td>
-    <div>am. Nos. 120 and 152, 1997; No. 143, 1999; No. 50, 2000; No. 29, 2004; No. 99, 2005; No. 104, 2007</div>
+    <div>am. Nos. 120 and 152, 1997; No. 143, 1999; No. 50, 2000; No. 29, 2004; No. 99, 2005</div>
   </td>
 </tr>
 <tr>
@@ -2448,7 +2416,7 @@ _(b)_    The _Fisheries Administration Act 1991_ was amended by Schedule�
     <div>S. 12</div>
   </td>
   <td>
-    <div>am. No. 120, 1997; No. 104, 2007</div>
+    <div>am. No. 120, 1997</div>
   </td>
 </tr>
 <tr>
@@ -2536,7 +2504,7 @@ _(b)_    The _Fisheries Administration Act 1991_ was amended by Schedule�
     <div>S. 64A</div>
   </td>
   <td>
-    <div>ad. No. 152, 1997</div>
+    <div>ad No. 152, 1997</div>
   </td>
 </tr>
 <tr>
@@ -2642,15 +2610,87 @@ _(b)_    The _Fisheries Administration Act 1991_ was amended by Schedule�
   <td>
     <div>am. No. 102, 1998</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 93A</div>
-  </td>
-  <td>
-    <div>ad. No. 104, 2007</div>
-  </td>
 </tr></table>
+
+### Note 2
+
+_Fisheries Legislation Amendment Act 2007 (No. 104, 2007)_
+
+The following amendments commence on 26 July 2007:
+
+## Schedule 1
+
+## 1  After paragraph 7(1)(ab)
+
+Insert:
+
+                    (ac)  to advise and assist in relation to the exercise of powers and the performance of functions under the _Torres  Strait__Fisheries Act 1984_;
+
+## 2  Paragraph 7(1)(ea)
+
+After “on board”, insert “boats used for commercial fishing, including”.
+
+## 3  Paragraph 7(1)(gb)
+
+Repeal the paragraph, substitute:
+
+                  (gaa)  in addition to the collection of information in the exercise or performance of its other powers and functions—to collect, as authorised (within the meaning of subsection (4)), information relating to the following:
+
+                              (i)  possible breaches of the laws of Australia or of a foreign country;
+
+                             (ii)  the control and protection of Australia’s borders;
+
+                            (iii)  the administration and management of fisheries or marine environments;
+
+                            (iv)  research or monitoring conducted, or proposed to be conducted, into fisheries or marine environments;
+
+                    (gb)  to disclose, as authorised (within the meaning of subsection (4)), information, including personal information, relating to the following:
+
+                              (i)  possible breaches of the laws of Australia or of a foreign country;
+
+                             (ii)  the control and protection of Australia’s borders;
+
+                            (iii)  the administration and management of fisheries or marine environments;
+
+                            (iv)  research or monitoring conducted, or proposed to be conducted, into fisheries or marine environments;
+
+## 4  Subsection 7(3)
+
+Omit “or in authorising the disclosure of such information,”.
+
+## 5  Paragraph 7(3)(a)
+
+After “by the”, insert “person or”.
+
+## 6  Subsection 7(4)
+
+Repeal the subsection, substitute:
+
+             (4)  Collection or disclosure of information is **_authorised_** for the purposes of paragraph (1)(gaa) or (gb) if it is done in accordance with:
+
+                     (a)  this Act, the _Fisheries Management Act 1991_ or the _Torres Strait__Fisheries Act 1984_; or
+
+                     (b)  regulations made under an Act mentioned in paragraph (a).
+
+## 7  After subsection 12(4)
+
+Insert:
+
+          (4A)  However, the requirements of subsection (4) do not have to be met in relation to a director if the Minister appoints the director:
+
+                     (a)  in the period starting on 1 July 2008 and ending on 30 June 2009; and
+
+                     (b)  for a period not exceeding 9 months.
+
+## 8  After section 93
+
+Insert:
+
+##### <a id="93A"></a>93A  Delegations under the _Torres Strait__Fisheries Act 1984_
+
+                   The Managing Director may arrange for a person employed by the Authority to exercise powers and perform functions under a delegation under the _Torres Strait__Fisheries Act 1984_.
+
+As at 9 July 2007 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -2658,15 +2698,15 @@ _(b)_    The _Fisheries Administration Act 1991_ was amended by Schedule�
 
 _Fisheries Legislation Amendment Act 1997 (No. 120, 1997)_
 
-## Schedule 1
+## Schedule 3
 
 ## 12  Transitional
 
-(1)        A sub-committee that a management advisory committee purported to establish before the commencement of this item is taken to have at all times been validly established.
+(1)     A sub-committee that a management advisory committee purported to establish before the commencement of this item is taken to have at all times been validly established.
 
-(2)        Any meetings of such a sub-committee held before the commencement of this item are taken to have been validly held and any travelling allowances paid to members of such a sub-committee before that commencement are taken to have been validly paid.
+(2)     Any meetings of such a sub-committee held before the commencement of this item are taken to have been validly held and any travelling allowances paid to members of such a sub-committee before that commencement are taken to have been validly paid.
 
-(3)        If a management advisory committee had not, before the commencement of this item, purported to abolish a sub-committee that it had purported to establish before that commencement, the sub-committee continues in existence as if it had been duly established under subsection 58(1A) of the _Fisheries Administration Act 1991_.
+(3)     If a management advisory committee had not, before the commencement of this item, purported to abolish a sub-committee that it had purported to establish before that commencement, the sub-committee continues in existence as if it had been duly established under subsection 58(1A) of the _Fisheries Administration Act 1991_.
 
 * * *
 
@@ -2677,8 +2717,6 @@ _Fisheries Legislation Amendment (Compliance and Deterrence Measures and Other M
 ## 6  Saving provision
 
 Despite the amendment of the _Fisheries Administration Act 1991_ made by item 4 of this Schedule, any determination by the Remuneration Tribunal of the rate of travelling allowance payable to a member of a management advisory committee that is in force immediately before the day of commencement of that amendment continues in force on and after that day in relation to that member until a new rate is prescribed.
-
-* * *
 
 _Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)_
 
