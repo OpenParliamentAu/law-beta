@@ -1,8 +1,8 @@
 
 Termination Payments Tax (Assessment and Collection) Act 1997
 Act No. 73 of 1997 as amended 
-Consolidated as in force on 15 December 1999
-(includes amendments up to Act No. 146 of 1999)
+Consolidated as in force on 3 November 1999
+(includes amendments up to Act No. 131 of 1999)
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
   
   
@@ -283,7 +283,7 @@ Definitions
 court includes any tribunal, authority or person having power to require the production of documents or the answering of questions.
 person to whom this section applies means a person who is or has been:
 	(a)	the Commissioner, a Second Commissioner or a Deputy Commissioner; or
-	(b)	a person engaged under the Public Service Act 1999 in the Agency (within the meaning of that Act) of which the Commissioner is the Agency Head; or
+	(b)	an officer or employee of the branch of the Australian Public Service under the direct control of the Commissioner; or
 	(c)	otherwise appointed or employed by, or a provider of services for, the Commonwealth.
 produce includes permit access to.
 protected document means a document that:
@@ -324,7 +324,7 @@ Oath or declaration of secrecy
 Part 6—Miscellaneous
   
 24  Authorised officers
-		The Commissioner may, by writing, authorise a person who is engaged under the Public Service Act 1999 to be an authorised officer for the purposes of a provision or provisions of this Part.
+		The Commissioner may, by writing, authorise a person who is an officer or employee within the meaning of the Public Service Act 1922 to be an authorised officer for the purposes of a provision or provisions of this Part.
 25  Evidence 
 Assessment to be evidence of correctness of calculations
 	(1)	The mere production of:
@@ -423,7 +423,7 @@ Part 7—Interpretation
 		In this Act, unless the contrary intention applies:
 adjusted taxable income of a taxpayer has the same meaning as adjusted taxable income of a member has in the Superannuation Contributions Tax (Assessment and Collection) Act 1997.
 assessment means an assessment made under subsection 11(1).
-authorised officer means a person engaged under the Public Service Act 1999who has been authorised in writing by the Commissioner for the purposes of the provision in which the expression occurs.
+authorised officer means an officer or employee within the meaning of the Public Service Act 1922 who has been authorised in writing by the Commissioner for the purposes of the provision in which the expression occurs.
 Commissioner means the Commissioner of Taxation.
 Deputy Commissioner means a Deputy Commissioner of Taxation.
 general interest charge means the charge worked out under Division 1 of Part IIA of the Taxation Administration Act 1953.
@@ -487,11 +487,6 @@ Superannuation Contributions and Termination Payments Taxes Legislation Amendmen
 13 Oct 1999
 Schedule 3: Royal Assent (e)
 Sch. 3 (item 7) 
-Public Employment (Consequential and Transitional) Amendment Act 1999
-146, 1999
-11 Nov 1999
-Schedule 1 (items 932‑934): (see Gazette 1999, No. S584) (f)
-—
 (a)	The Termination Payments Tax (Assessment and Collection) Act 1997 was amended by Schedule 1 (Item 44) only of the Taxation Laws Amendment Act (No. 3) 1997, subsection 2(1) of which provides as follows:
 	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 (aa)	The Taxation Laws Amendment Act (No. 3) 1997 was amended by Schedule 6 only of the Superannuation Contributions and Termination Payments Taxes Legislation Amendment Act 1999, subsection 2(4) of which provides as follows:
@@ -506,9 +501,7 @@ Schedule 1 (items 932‑934): (see Gazette 1999, No. S584) (f)
 	(16)	The Governor‑General may, by Proclamation published in the Gazette, specify the date that is to be the transfer date for the purposes of this Act.
 (e)	The Termination Payments Tax (Assessment and Collection) Act 1997 was amended by Schedule 3 only of the Superannuation Contributions and Termination Payments Taxes Legislation Amendment Act 1999, subsection 2(1)of which provides as follows:
 	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
-(f)	The Termination Payments Tax (Assessment and Collection) Act 1997 was amended by Schedule 1 (items 932‑934) only of the Public Employment (Consequential and Transitional) Amendment Act 1999, subsections 2(1) and (2) of which provide as follows:
-	(1)	In this Act, commencing time means the time when the Public Service Act 1999 commences.
-	(2)	Subject to this section, this Act commences at the commencing time.Table of Amendments
+Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
 How affected
@@ -540,14 +533,12 @@ S. 19
 rep. No. 11, 1999
 S. 20	
 rep. No. 11, 1999
-S. 23	
-am. No.146, 1999
 Note 1 to s. 23(2)	
 rs. No. 191, 1997
 Note 2 to s. 23(2)	
 ad. No. 191, 1997
 S. 24	
-am. No. 191, 1997; No. 146, 1999
+am. No. 191, 1997
 S. 25	
 am. No. 11, 1999
 S. 28	
@@ -557,12 +548,13 @@ ad. No. 191, 1997
 
 am. Nos. 11 and 44, 1999
 S. 31	
-am. No. 191, 1997; Nos. 11, 131 and 146, 1999
+am. No. 191, 1997; Nos. 11 and 131, 1999
+
 Table A
-Application, saving or transitional provisions
-Superannuation Contributions and Termination Payments Taxes Legislation Amendment Act 1999 (No. 131, 1999)
+Application, saving or transitional provision
+Superannuation Contributions and Termination Payments Taxes Legislation Amendment Act 1999 (No. 131, 1999
 Schedule 3  
 7  Application of amendments
-The amendments made by items 2 to 6 apply to assessments of surcharge payable for the financial year beginning on 1 July 1999 and later financial years.
+		The amendments made by items 2 to 6 apply to assessments of surcharge payable for the financial year beginning on 1 July 1999 and later financial years.
       
 
