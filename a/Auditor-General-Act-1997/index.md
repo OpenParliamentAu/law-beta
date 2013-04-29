@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00112/Html/AuditGeneral997_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00217/Html/AuditGeneral997_image001.gif)
 
 # Auditor-General Act 1997
 
 **Act No. 151 of 1997 as amended**
 
-This compilation was prepared on 27 February 2009
- taking into account amendments up to Act No. 8 of 2009
+This compilation was prepared on 27 June 2008
+ taking into account amendments up to Act No. 26 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -30,7 +30,7 @@ Summary of this Act
 
         Part 1  **_Preliminary:_** This Part deals with the commencement of this Act, its application to things outside Australia and its application to the Crown.
 
-        Part 2  **_Interpretation:_** This Part contains definitions of terms that are frequently used throughout this Act.
+        Part 2  **_General provisions about definitions and offences:_** This Part contains definitions of terms that are frequently used throughout this Act and general provisions about offences.
 
         Part 3  **_The Auditor-General:_** This Part establishes the office of Auditor-General. Schedule 1 deals with administrative matters relating to the office of Auditor-General, such as the Auditor-General’s appointment, conditions, resignation and removal.
 
@@ -68,9 +68,11 @@ Related legislation
 
 [4](#4).            This Act extends to things outside Australia
 
-**Part 2—Interpretation**
+**Part 2—General provisions about definitions and offences**
 
 [5](#5).            Definitions
+
+[6](#6).            Offences
 
 **Part 3—The Auditor-General**
 
@@ -119,8 +121,6 @@ Related legislation
     **Division 5—Miscellaneous functions and powers**
 
 [23](#23).          Provision of advice or information
-
-[23A](#23A).       Provision of information for performance audits
 
 [24](#24).          Auditing standards
 
@@ -254,7 +254,7 @@ Related legislation
 
                    This Act extends to acts, omissions, matters and things outside Australia (unless the contrary intention appears).
 
-## Part 2—Interpretation
+## Part 2—General provisions about definitions and offences
 
 ##### <a id="5"></a>5  Definitions
 
@@ -274,8 +274,6 @@ Note:          Subsection (2) is also relevant to determinin
 
                     <a name="commonwealth-compani"></a>**_Commonwealth company_** has the same meaning as in the _Commonwealth Authorities and Companies Act 1997_.
 
-                    <a name="director"></a>**_director_**, in relation to a Commonwealth company or a subsidiary of a Commonwealth company, has the same meaning as in the _Commonwealth Authorities and Companies Act 1997_.
-
                     <a name="financ-minist"></a>**_Finance Minister_** means the Minister who is the Finance Minister within the meaning of the _Financial Management and Accountability Act 1997_.
 
                     <a name="fma-offici"></a>**_FMA official_** means a person who is an official within the meaning of the _Financial Management and Accountability Act 1997._
@@ -294,8 +292,6 @@ Note:          Subsection (2) is also relevant to determinin
 
                     <a name="minist"></a>**_Minister_** includes the President of the Senate and the Speaker of the House of Representatives.
 
-                    <a name="offic"></a>**_officer_**, in relation to a Commonwealth authority or a subsidiary of a Commonwealth authority, has the same meaning as in the _Commonwealth Authorities and Companies Act 1997_.
-
                     <a name="perform-audit"></a>**_performance audit_**, in relation to a person or body, means a review or examination of any aspect of the operations of the person or body.
 
                     <a name="respons-minist"></a>**_responsible Minister_** means:
@@ -310,11 +306,25 @@ Note:          Subsection (2) is also relevant to determinin
 
                              (ii)  if no Minister is prescribed—the Minister who is responsible for the Commonwealth company.
 
-                    <a name="senior-manag"></a>**_senior manager_**, in relation to a Commonwealth company or a subsidiary of a Commonwealth company, has the same meaning as in the _Commonwealth Authorities and Companies Act 1997_.
-
                     <a name="control"></a><a name="entiti"></a><a name="subsidiari"></a>**_subsidiary_**, in relation to a Commonwealth authority or Commonwealth company, means an entity that is controlled by the Commonwealth authority or Commonwealth company. For this purpose,**_entity_** and**_control_** have the same meanings as in the accounting standard that applies for the purpose of deciding whether a company has to prepare consolidated financial statements under the _Corporations Act 2001_.
 
              (2)  The issue of whether a body corporate is a Commonwealth authority for the purpose of this Act is to be determined by reference to the definition in section 7 of the _Commonwealth Authorities and Companies Act 1997_ and is not affected by any provision in a law that states that the body corporate is not a Commonwealth authority for the purposes of that Act.
+
+##### <a id="6"></a>6  Offences
+
+             (1)  Chapter 2 of the _Criminal Code_ applies to all offences against this Act.
+
+             (2)  A maximum penalty that is specified:
+
+                     (a)  at the foot of a section of this Act (other than a section that is divided into subsections); or
+
+                     (b)  at the foot of a subsection of this Act;
+
+indicates that a person who contravenes the section or subsection is guilty of an offence against the section or subsection that is punishable, on conviction, by a penalty up to that maximum.
+
+Note 1:       Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
+
+Note 2:       If the specified penalty is imprisonment only, section 4B of the _Crimes Act 1914_ allows the court to impose a fine instead of imprisonment or in addition to imprisonment.
 
 ## Part 3—The Auditor-General
 
@@ -355,7 +365,7 @@ There are no implied powers of the Parliament arising from the Auditor-General b
 ##### <a id="10"></a>10  Auditor-General to have regard to audit priorities of
  Parliament etc.
 
-                   In performing or exercising his or her functions or powers, the Auditor-General must have regard to:
+                   In performing or exercising his or her functions or powers, the Auditor-General must have regard to:
 
                      (a)  the audit priorities of the Parliament determined by the Joint Committee of Public Accounts and Audit under paragraph 8(1)(m) of the _Public Accounts and Audit Committee Act 1951_; and
 
@@ -395,13 +405,9 @@ There are no implied powers of the Parliament arising from the Auditor-General b
 
              (2)  As soon as practicable after completing the report on the audit, the Auditor-General must:
 
-                     (a)  cause a copy of the report to be tabled in each House of the Parliament; and
+                     (a)  cause a copy to be tabled in each House of the Parliament; and
 
-                     (b)  give a copy of the report to the responsible Minister; and
-
-                     (c)  give a copy of the report to the Chief Executive of the Agency.
-
-          (2A)  The Auditor-General may give a copy of, or an extract from, the report to any person (including a Minister) who, or any body that, in the Auditor-General’s opinion, has a special interest in the report or the content of the extract.
+                     (b)  give a copy to the responsible Minister.
 
              (3)  For the purposes of this section, an Agency is taken not to include any persons who are employed or engaged under the _Members of Parliament (Staff) Act 1984_ and who are allocated to the Agency by regulations for the purposes of the definition of **_Agency_** in section 5 of the _Financial Management and Accountability Act 1997_.
 
@@ -415,13 +421,9 @@ There are no implied powers of the Parliament arising from the Auditor-General b
 
              (4)  As soon as practicable after completing the report on an audit under this section, the Auditor-General must:
 
-                     (a)  cause a copy of the report to be tabled in each House of the Parliament; and
+                     (a)  cause a copy to be tabled in each House of the Parliament; and
 
-                     (b)  give a copy of the report to the responsible Minister; and
-
-                     (c)  give a copy of the report to an officer of the Commonwealth authority or the subsidiary of the Commonwealth authority in relation to which the audit was conducted.
-
-             (5)  The Auditor-General may give a copy of, or an extract from, the report to any person (including a Minister) who, or any body that, in the Auditor-General’s opinion, has a special interest in the report or the content of the extract.
+                     (b)  give a copy to the responsible Minister.
 
 ##### <a id="17"></a>17  Commonwealth companies and subsidiaries
 
@@ -433,13 +435,9 @@ There are no implied powers of the Parliament arising from the Auditor-General b
 
              (4)  As soon as practicable after completing the report on an audit under this section, the Auditor-General must:
 
-                     (a)  cause a copy of the report to be tabled in each House of the Parliament; and
+                     (a)  cause a copy to be tabled in each House of the Parliament; and
 
-                     (b)  give a copy of the report to the responsible Minister; and
-
-                     (c)  give a copy of the report to a director or senior manager of the Commonwealth company or the subsidiary of the Commonwealth company in relation to which the audit was conducted.
-
-          (4A)  The Auditor-General may give a copy of, or an extract from, the report to any person (including a Minister) who, or any body that, in the Auditor-General’s opinion, has a special interest in the report or the content of the extract.
+                     (b)  give a copy to the responsible Minister.
 
              (5)  In this section:
 
@@ -451,21 +449,11 @@ There are no implied powers of the Parliament arising from the Auditor-General b
 
              (2)  As soon as practicable after completing the report on an audit under this section, the Auditor-General must:
 
-                     (a)  cause a copy of the report to be tabled in each House of the Parliament; and
+                     (a)  cause a copy to be tabled in each House of the Parliament; and
 
-                     (b)  give a copy of the report to the Finance Minister; and
+                     (b)  give a copy to the Finance Minister.
 
-                     (c)  give a copy of the report to each responsible Minister; and
-
-                     (d)  to the extent that the report relates to the operations of an Agency—give a copy of the report to the Chief Executive of the Agency; and
-
-                     (e)  to the extent that the report relates to the operations of a body that is a Commonwealth authority or a subsidiary of a Commonwealth authority—give a copy of the report to an officer of the Commonwealth authority or the subsidiary of the Commonwealth authority; and
-
-                      (f)  to the extent that the report relates to the operations of a body that is a Commonwealth company or a subsidiary of a Commonwealth company—give a copy of the report to a director or senior manager of the Commonwealth company or the subsidiary of the Commonwealth company; and
-
-                     (g)  to the extent that the report relates to the operations of a person—give a copy of the report to the person.
-
-             (3)  The Auditor-General may give a copy of, or an extract from, the report to any other person (including a Minister) who, or any body that, in the Auditor-General’s opinion, has a special interest in the report or the content of the extract.
+             (3)  The Auditor-General may give a copy of the report to any other Minister who, in the Auditor-General’s opinion, has a special interest in the report.
 
              (4)  In this section:
 
@@ -475,17 +463,11 @@ There are no implied powers of the Parliament arising from the Auditor-General b
 
              (1)  After preparing a proposed report on an audit of an Agency under section 15, the Auditor-General must give a copy of the proposed report to the Chief Executive of the Agency.
 
-             (2)  After preparing a proposed report on an audit of a body under section 16 or 17, the Auditor-General must give a copy of the proposed report to:
+             (2)  After preparing a proposed report on an audit of a body under section 16 or 17, the Auditor-General must give a copy of the proposed report to an officer of the body.
 
-                     (a)  if the body is a Commonwealth authority or a subsidiary of a Commonwealth authority—an officer of the Commonwealth authority or the subsidiary of the Commonwealth authority; or
+             (3)  After preparing a proposed report on an audit under section 15, 16, 17 or 18, the Auditor-General may give a copy of the proposed report to any person who, in the Auditor-General’s opinion, has a special interest in the report.
 
-                     (b)  if the body is a Commonwealth company or a subsidiary of a Commonwealth company—a director or senior manager of the Commonwealth company or the subsidiary of the Commonwealth company.
-
-             (3)  After preparing a proposed report on an audit under section 15, 16, 17 or 18, the Auditor-General may give a copy of, or an extract from, the proposed report to any person (including a Minister) who, or any body that, in the Auditor-General’s opinion, has a special interest in the report or the content of the extract.
-
-             (4)  If the recipient of the proposed report, or the extract from the proposed report, gives written comments to the Auditor-General within 28 days after receiving the proposed report, or the extract from the proposed report, the Auditor-General must consider those comments before preparing a final report.
-
-             (5)  The Auditor-General must, in the final report, include all written comments received under subsection (4).
+             (4)  If the recipient of the proposed report gives written comments to the Auditor-General within 28 days after receiving the proposed report, the Auditor-General must consider those comments before preparing a final report.
 
 ### Division 3—Audits etc. by arrangement
 
@@ -534,14 +516,6 @@ There are no implied powers of the Parliament arising from the Auditor-General b
                      (a)  the Auditor-General’s functions and powers; and
 
                      (b)  any matter which the Auditor-General could consider when exercising those functions and powers.
-
-##### <a id="23A"></a>23A  Provision of information for performance audits
-
-                   A person (the **_information holder_**) may disclose information to another person (the **_recipient_**) if:
-
-                     (a)  the information was obtained or generated by the information holder in the course of performing an Auditor-General function; and
-
-                     (b)  the information is provided to the recipient to assist the information holder in conducting a performance audit under Division 2, or a performance audit under an arrangement entered into under Division 3.
 
 ##### <a id="24"></a>24  Auditing standards
 
@@ -639,7 +613,7 @@ The oath or affirmation is an oath or affirmation that the information or eviden
 
              (3)  A person must comply with a direction under this section.
 
-                    Penalty:  30 penalty units.
+                    Maximum penalty:    30 penalty units.
 
 Note 1:       Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
 
@@ -665,7 +639,7 @@ Note 2:       Section 4AA of the _Crimes Act 1914_ sets the curren
 
              (3)  If an authorised official enters, or proposes to enter, premises under this section, the occupier must provide the official with all reasonable facilities for the effective exercise of powers under this section.
 
-                    Penalty:  10 penalty units.
+                    Maximum penalty:    10 penalty units.
 
 Note 1:       Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
 
@@ -695,35 +669,15 @@ is admissible in evidence against the person in any criminal proceedings (other 
 
              (1)  If a person has obtained information in the course of performing an Auditor-General function, the person must not disclose the information except in the course of performing an Auditor-General function or for the purpose of any Act that gives functions to the Auditor-General.
 
-                    Penalty:  Imprisonment for 2 years.
+                    Maximum penalty:    Imprisonment for 2 years.
 
 Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
 
              (2)  Subsection (1) does not prevent the Auditor-General from disclosing particular information to the Commissioner of the Australian Federal Police if the Auditor-General is of the opinion that the disclosure is in the public interest.
 
-          (2A)  Subsection (1) does not prevent a person (the **_information holder_**) from disclosing information to another person under section 23A if the information holder does so in the circumstances permitted by that section.
+             (3)  A person who receives a proposed report under section 19 must not disclose any of the information in the report except with the consent of the Auditor-General.
 
-          (2B)  A person commits an offence if:
-
-                     (a)  information is disclosed to the person; and
-
-                     (b)  the information is disclosed in circumstances permitted by section 23A; and
-
-                     (c)  the information is not disclosed to the person because the person is performing an Auditor-General function; and
-
-                     (d)  the person uses or discloses the information.
-
-                    Penalty:  Imprisonment for 2 years.
-
-Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
-
-          (2C)  Subsection (2B) does not apply if the Auditor-General has consented to the use or disclosure.
-
-Note:          A defendant bears an evidential burden in relation to a matter in subsection (2C): see subsection 13.3(3) of the _Criminal Code_.
-
-             (3)  A person who receives a proposed report, or an extract from a proposed report, under section 19 must not disclose any of the information in the report, or the extract, except with the consent of the Auditor-General.
-
-                    Penalty for a contravention of this subsection:          Imprisonment for 2 years.
+                    Maximum penalty:    Imprisonment for 2 years.
 
 Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
 
@@ -759,23 +713,21 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 information that subsection (1) prohibits being included in a public report.
 
-             (4)  If the Auditor-General omits particular information from a public report because the Attorney-General has issued a certificate under paragraph (1)(b) in relation to the information, the Auditor-General must state in the report:
+             (4)  If the Auditor-General decides to omit particular information from a public report because the Attorney-General has issued a certificate under paragraph (1)(b) in relation to the information, the Auditor-General must state in the report:
 
                      (a)  that information (which does not have to be identified) has been omitted from the report; and
 
                      (b)  the reason or reasons (in terms of subsection (2)) why the Attorney-General issued the certificate.
 
-             (5)  If, because of subsection (1), the Auditor-General:
+             (5)  If, because of subsection (1), the Auditor-General decides:
 
-                     (a)  decides not to prepare a public report; or
+                     (a)  not to prepare a public report; or
 
-                     (b)  omits particular information from a public report;
+                     (b)  to omit particular information from a public report;
 
-the Auditor-General may prepare a report under this subsection that includes the information concerned. The Auditor-General must give a copy of each report under this subsection to the Prime Minister, the Finance Minister and any responsible Minister.
+the Auditor-General may prepare a report under this subsection that includes the information concerned. The Auditor-General must give a copy of each report under this subsection to the Prime Minister, the Finance Minister and the responsible Minister or Ministers (if any).
 
              (6)  In this section:
-
-                    <a name="inform"></a>**_information_** includes written comments on the proposed report or the extract that are received by the Auditor-General under subsection 19(4).
 
                     <a name="public-report"></a>**_public report_**means a report that is to be tabled in either House of the Parliament.
 
@@ -849,8 +801,6 @@ Note:          Under section 27, the Auditor-General may als
 
                      (b)  give a copy to the responsible Minister.
 
-             (4)  The Independent Auditor may give a copy of, or an extract from, the report to any other Minister who, in the Independent Auditor’s opinion, has a special interest in the report or the content of the extract.
-
 ##### <a id="46"></a>46  Sensitive information not to be included in public reports
 
                    Section 37 applies to the Independent Auditor as if references in that section to the Auditor-General were references to the Independent Auditor.
@@ -869,7 +819,7 @@ Note:          Under section 27, the Auditor-General may als
 
              (1)  If a person has obtained information in the course of performing a function under this Part, the person must not disclose the information except in the course of performing a function under this Part.
 
-                    Penalty:  Imprisonment for 2 years.
+                    Maximum penalty:    Imprisonment for 2 years.
 
 Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
 
@@ -1299,23 +1249,6 @@ Remainder: 24 May 2001</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Auditor-General Amendment Act 2009</div>
-  </td>
-  <td>
-    <div>8, 2009</div>
-  </td>
-  <td>
-    <div>25 Feb 2009</div>
-  </td>
-  <td>
-    <div>25 Feb 2009</div>
-  </td>
-  <td>
-    <div>Sch. 1 (items 29, 30)</div>
-  </td>
 </tr></table>
 
 _(a)_ The _Auditor-General Act 1997_ was amended by Schedule 1 (items 104–106) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
@@ -1353,15 +1286,7 @@ _(b)_ The _Auditor-General Act 1997_ was amended by Schedule 3 (items 36–4
 </thead>
 <tr>
   <td>
-    <div>Readers Guide</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 2</b></div>
+    <div><b>Part 2</b></div>
   </td>
   <td>
     <div></div>
@@ -1369,26 +1294,10 @@ _(b)_ The _Auditor-General Act 1997_ was amended by Schedule 3 (items 36–4
 </tr>
 <tr>
   <td>
-    <div>Heading to Part 2</div>
-  </td>
-  <td>
-    <div>rs. No. 8, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 5</div>
   </td>
   <td>
-    <div>am. No. 55, 2001; No. 8, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6</div>
-  </td>
-  <td>
-    <div>rep. No. 8, 2009</div>
+    <div>am. No. 55, 2001</div>
   </td>
 </tr>
 <tr>
@@ -1397,22 +1306,6 @@ _(b)_ The _Auditor-General Act 1997_ was amended by Schedule 3 (items 36–4
   </td>
   <td>
     <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 15–19</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2009</div>
   </td>
 </tr>
 <tr>
@@ -1449,14 +1342,6 @@ _(b)_ The _Auditor-General Act 1997_ was amended by Schedule 3 (items 36–4
 </tr>
 <tr>
   <td>
-    <div>S. 23A</div>
-  </td>
-  <td>
-    <div>ad. No. 8, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 26</div>
   </td>
   <td>
@@ -1477,14 +1362,6 @@ _(b)_ The _Auditor-General Act 1997_ was amended by Schedule 3 (items 36–4
   </td>
   <td>
     <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 32, 33</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2009</div>
   </td>
 </tr>
 <tr>
@@ -1513,22 +1390,6 @@ _(b)_ The _Auditor-General Act 1997_ was amended by Schedule 3 (items 36–4
 </tr>
 <tr>
   <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 36, 37</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part 6</b></div>
   </td>
   <td>
@@ -1541,46 +1402,6 @@ _(b)_ The _Auditor-General Act 1997_ was amended by Schedule 3 (items 36–4
   </td>
   <td>
     <div>am. No. 146, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 7</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 45</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 48</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2009</div>
   </td>
 </tr>
 <tr>
@@ -1654,7 +1475,7 @@ as if the amendment or repeal had not been made.
 
 (2)        Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
 
-## 419  Transitional—pre-commencement notices
+## 419  Transitional—pre-commencement notices
 
 If:
 
@@ -1676,18 +1497,6 @@ _Financial Framework Legislation Amendment Act (No. 1) 2007 (No. 166, 2007)_
 
 (1)        Despite the amendment made by item 1, section 52 of the _Auditor-General Act 1997_ (as in force immediately before the commencement of that item) continues to apply after that commencement in relation to agreements entered into before that commencement.
 
-* * *
-
-_Auditor-General Amendment Act 2009 (No. 8, 2009)_
-
-## Schedule 1
-
-## 29  Application—general
-
-The amendments made by this Schedule (other than items 21 and 22) apply to reports and proposed reports completed on or after the commencement of the Schedule, regardless of whether work on the report started before or after that commencement.
-
-## 30  Application—items 21 and 22
-
-The amendments made by items 21 and 22 of this Schedule apply to the use or disclosure of information on or after the commencement of those items.
+ 
 
  
