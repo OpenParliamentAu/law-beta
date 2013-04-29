@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00283/Html/b2f04893-0b90-410c-a608-c893f498bd58_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00226/Html/1bc4f6d1-8ecf-4152-8ba6-02305a67fc6d_files/image001.gif)
 
 # Remuneration Tribunal Act 1973
 
 **Act No. 215 of 1973 as amended**
 
-This compilation was prepared on 9 March 2012
- taking into account amendments up to Act No. 4 of 2012
+This compilation was prepared on 15 February 2012
+ taking into account amendments up to Act No. 170 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -117,12 +117,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
                      (a)  an office or appointment specified in any of paragraphs (fc) to (fh) of subsection 3(4), as modified by regulations in force under the _A.C.T. Self‑Government (Consequential Provisions) Act 1988_; or
 
                      (b)  an office or appointment specified in subsection 73(1) of the _Australian Capital Territory__(Self‑Government) Act 1988_.
-
-                    <a name="addition-parliamentari-offic-holder-salari"></a>**_additional Parliamentary office holder salary_** means so much of the allowances determined under subsection 7(1) as:
-
-                     (a)  is to be paid to members of Parliament by reason of their holding particular offices, or performing particular functions, in, or in relation to, the Parliament or either House of the Parliament; and
-
-                     (b)  is identified in the determination as additional salary.
 
                     <a name="allow"></a>**_allowance_** includes, but is not limited to, an annual allowance and a travelling allowance.
 
@@ -414,13 +408,7 @@ that should be used as a basis for making grants in relation to recurrent expend
 
           (1A)  The Tribunal may determine that a portion of parliamentary base salary is not **_parliamentary allowance_** for the purposes of the _Parliamentary Contributory Superannuation Act 1948_.
 
-          (1B)  The Tribunal may determine that a portion of additional Parliamentary office holder salary is not **_allowance by way of salary_** for the purposes of the _Parliamentary Contributory Superannuation Act 1948_.
-
-          (1C)  Without limiting subsection (1B), the Tribunal may determine under that subsection that, in the circumstances specified in the determination, a different portion (which may be a portion equal to 100%) of additional Parliamentary office holder salary is not **_allowance by way of salary_** for the purposes of that Act in those circumstances.
-
              (2)  The Tribunal shall, from time to time as provided by this Part, inquire into, and determine, the allowances to be paid to Ministers of State out of the public moneys of the Commonwealth.
-
-          (2A)  The Tribunal may determine that a portion of a salary referred to in subsection 6(1) is not **_salary_** for the purposes of the _Parliamentary Contributory Superannuation Act 1948_.
 
              (3)  The Tribunal shall, from time to time as provided by this Part, inquire into, and determine, the remuneration to be paid to the holders of public offices other than holders of those offices who are members of, or candidates for election to, either House of the Parliament.
 
@@ -486,8 +474,6 @@ that should be used as a basis for making grants in relation to recurrent expend
 
            (5F)  For the purposes of subsection (5E), the period of deferral is the period commencing on the date specified in the determination and ending on the day on which the determination comes into operation in relation to the holder of the particular office.
 
-          (5G)  The Tribunal may, in a determination under subsection (2A), specify under subsection (5) that the determination’s date of operation is the day on which an event specified in the determination occurs or occurred.
-
              (6)  The Tribunal must give the Minister a copy of every determination made by the Tribunal, other than a determination that relates to an ACT office.
 
           (6A)  The Tribunal must give the Chief Minister of the Australian Capital Territory a copy of every determination made by the Tribunal in relation to an ACT office.
@@ -502,7 +488,7 @@ that should be used as a basis for making grants in relation to recurrent expend
 
        (8AA)  Each of the following determinations is a legislative instrument, but neither subsection (8) of this section, nor section 42 (disallowance) of the _Legislative Instruments Act 2003_, applies to the determination:
 
-                     (a)  a determination under subsection (1), (1A), (1B), (2) or (2A) of this section;
+                     (a)  a determination under subsection (1), (1A) or (2) of this section;
 
                      (b)  a determination under subsection (4) of this section on a matter that is, or is considered by the Tribunal or the Minister to be, significantly related to a matter referred to in subsection (1) or (2) of this section.
 
@@ -568,7 +554,7 @@ that should be used as a basis for making grants in relation to recurrent expend
 
                    The Tribunal must ensure that its reasons for each of the following determinations are published on its website and notified to the Minister:
 
-                     (a)  a determination under subsection 7(1), (1A), (1B), (2) or (2A);
+                     (a)  a determination under subsection 7(1), (1A) or (2);
 
                      (b)  a determination under subsection 7(4) on a matter that is, or is considered by the Tribunal or the Minister to be, significantly related to a matter referred to in subsection 7(1) or (2).
 
@@ -2089,23 +2075,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Members of Parliament (Life Gold Pass) and Other Legislation Amendment Act 2012</div>
-  </td>
-  <td>
-    <div>4, 2012</div>
-  </td>
-  <td>
-    <div>6 Mar 2012</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 4–9): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Remuneration Tribunal Act 1973_ was amended by sections 182 and 183 only of the _Defence Force Re‑organization Act 1975_, section 2 of which provides as follows: 
@@ -2478,7 +2447,7 @@ _(y)_     Subsection 2(1) (items 24 and 30) of the _Fair Work (State R
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 80, 1974; No. 96, 1975; Nos. 60 and 178, 1978; Nos. 26, 108 and 155, 1979; No. 160, 1980; No. 176, 1981; No. 78, 1982; No. 39, 1983; No. 164, 1984; Nos. 65 and 187, 1985; No. 87, 1988; No. 109, 1988 (as am. by No. 92, 1994); No. 123, 1988; Nos. 152 and 179, 1989; No. 28, 1990; No. 122, 1991 (as am. by No. 52, 1992); Nos. 52 and 104, 1992; No. 109, 1993; No. 43, 1996; Nos. 1 and 66, 1997; Nos. 116 and 161, 1999; No. 1, 2000; No. 27, 2001; SLI 2006 Nos. 50 and 119; No. 125, 2006; No. 150, 2007; No. 54, 2009; No. 139, 2010; Nos. 32, 46 and 75, 2011; No. 4, 2012</div>
+    <div>am. No. 80, 1974; No. 96, 1975; Nos. 60 and 178, 1978; Nos. 26, 108 and 155, 1979; No. 160, 1980; No. 176, 1981; No. 78, 1982; No. 39, 1983; No. 164, 1984; Nos. 65 and 187, 1985; No. 87, 1988; No. 109, 1988 (as am. by No. 92, 1994); No. 123, 1988; Nos. 152 and 179, 1989; No. 28, 1990; No. 122, 1991 (as am. by No. 52, 1992); Nos. 52 and 104, 1992; No. 109, 1993; No. 43, 1996; Nos. 1 and 66, 1997; Nos. 116 and 161, 1999; No. 1, 2000; No. 27, 2001; SLI 2006 Nos. 50 and 119; No. 125, 2006; No. 150, 2007; No. 54, 2009; No. 139, 2010; Nos. 32, 46 and 75, 2011</div>
   </td>
 </tr>
 <tr>
@@ -2574,7 +2543,7 @@ _(y)_     Subsection 2(1) (items 24 and 30) of the _Fair Work (State R
     <div>S. 7</div>
   </td>
   <td>
-    <div>am. No. 80, 1974; No. 178, 1978; No. 160, 1980; No. 74, 1981; Nos. 78 and 111, 1982; Nos. 63 and 73, 1984; No. 87, 1988; Nos. 95, 149, 150 and 152, 1989; No. 122, 1991; No. 104, 1992; No. 109, 1993; Nos. 1 and 92, 1994; Nos. 20 and 168, 1995; No. 43, 1996; No. 120, 1997; No. 146, 1999; Nos. 1 and 22, 2000; No. 27, 2001; No. 127, 2002; No. 32, 2005; SLI 2006 No. 50; No. 32, 2007; Nos. 73 and 123, 2008; No. 54, 2009; No. 75, 2011; No. 4, 2012</div>
+    <div>am. No. 80, 1974; No. 178, 1978; No. 160, 1980; No. 74, 1981; Nos. 78 and 111, 1982; Nos. 63 and 73, 1984; No. 87, 1988; Nos. 95, 149, 150 and 152, 1989; No. 122, 1991; No. 104, 1992; No. 109, 1993; Nos. 1 and 92, 1994; Nos. 20 and 168, 1995; No. 43, 1996; No. 120, 1997; No. 146, 1999; Nos. 1 and 22, 2000; No. 27, 2001; No. 127, 2002; No. 32, 2005; SLI 2006 No. 50; No. 32, 2007; Nos. 73 and 123, 2008; No. 54, 2009; No. 75, 2011</div>
   </td>
 </tr>
 <tr>
@@ -2599,14 +2568,6 @@ _(y)_     Subsection 2(1) (items 24 and 30) of the _Fair Work (State R
   </td>
   <td>
     <div>ad. No. 75, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 4, 2012</div>
   </td>
 </tr>
 <tr>
@@ -2944,7 +2905,7 @@ The following amendment commences on the designated sale day declared under sect
 
 Repeal the paragraph.
 
-As at 9 March 2012 the amendment is not incorporated in this compilation.
+As at 15 February 2012 the amendment is not incorporated in this compilation.
 
 ## Table A
 
