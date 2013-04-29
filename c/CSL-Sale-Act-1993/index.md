@@ -1,1047 +1,1623 @@
-<?xml:namespace prefix = v ns = "urn:schemas-microsoft-com:vml" /><v:shapetype id="_x0000_t75" coordsize="21600,21600" o:preferrelative="t" o:spt="75" filled="f" stroked="f" path=" m@4@5 l@4@11@9@11@9@5 xe"><v:stroke joinstyle="miter"></v:stroke><v:formulas><v:f eqn="if lineDrawn pixelLineWidth 0 "></v:f><v:f eqn="sum @0 1 0 "></v:f><v:f eqn="sum 0 0 @1 "></v:f><v:f eqn="prod @2 1 2 "></v:f><v:f eqn="prod @3 21600 pixelWidth "></v:f><v:f eqn="prod @3 21600 pixelHeight "></v:f><v:f eqn="sum @0 0 1 "></v:f><v:f eqn="prod @6 1 2 "></v:f><v:f eqn="prod @7 21600 pixelWidth "></v:f><v:f eqn="sum @8 21600 0 "></v:f><v:f eqn="prod @7 21600 pixelHeight "></v:f><v:f eqn="sum @10 21600 0 "></v:f></v:formulas><v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"></v:path><o:lock aspectratio="t" v:ext="edit"></o:lock></v:shapetype><v:shape id="_x0000_i1025" style="WIDTH: 114pt; HEIGHT: 84pt" type="#_x0000_t75" coordsize="21600,21600" fillcolor="winColor(17)"><v:imagedata o:title="" src="678AFF3929DEDD8CCA256FB900307155/$FILE/image001.png"></v:imagedata></v:shape>
+**
 
-# CSL <?xml:namespace prefix = st1 ns = "urn:schemas-microsoft-com:office:smarttags" /><st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Sale</st1:place></st1:city> Act 1993<o:p></o:p>
+###  CSL SALE ACT 1993 
+**
 
-**Act No. 88 of 1993 as amended<o:p></o:p>**
 
-This compilation was prepared on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2005" day="2" month="3">2 March 2005</st1:date>
-taking into account amendments up to Act No. 8 of 2005<o:p></o:p>
 
-The text of any of those amendments not in force 
-on that date is appended in the Notes section<o:p></o:p>
 
-The operation of amendments that have been incorporated may be 
-affected by application provisions that are set out in the Notes section<o:p></o:p>
 
-Prepared by the Office of Legislative Drafting and Publishing,
-Attorney-General’s Department, 
-<st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Canberra</st1:place></st1:city><o:p></o:p>
 
 
-# Contents
 
-**Part 1—Preliminary<span style="mso-tab-count: 1">                                                                                                               </span>** 
 
-    **Division 1—Short title and commencement<span style="mso-tab-count: 1">                                                     </span>**
 
-[1](#1).            Short title [_see_ Note 1]<span style="mso-tab-count: 1 dotted">                                                                        </span>
+**
 
-[2](#2).            Commencement [_see_ Note 1]<span style="mso-tab-count: 1 dotted">                                                               </span>
+###  Long Title 
+**
+**
 
-    **Division 2—Interpretation<span style="mso-tab-count: 1">                                                                                         </span>**
+###  CSL SALE ACT 1993<part>Part 1&#151;Preliminary </part>
+**
+**
 
-[3](#3).            Interpretation<span style="mso-tab-count: 1 dotted">                                                                                       </span>
+###  CSL SALE ACT 1993<division>Division 1&#151;Short title and commencement </division> 
+**
+###  CSL SALE ACT 1993- SECT 1  Short title [_see_ Note 1] 
+This Act may be cited as the _CSL Sale Act 1993_.
 
-[4](#4).            The sale day<span style="mso-tab-count: 1 dotted">                                                                                         </span>
+ 
+###  CSL SALE ACT 1993- SECT 2  Commencement [_see_ Note 1] 
+<dt>(1)</dt><dd>Part 1 and sections 7 and 47 commence on the day on which this Act
 
-**Part 2—Amendment of the Commonwealth Serum Laboratories Act 1961<span style="mso-tab-count: 1">               </span>**
+receives the Royal Assent.</dd> <dt>(2)</dt><dd>Sections 8 to 46 (inclusive) and sections 48 to 53 (inclusive) commence on the sale day.</dd> <dt>(3)</dt><dd>Sections 5 and 6 are taken to have commenced on 22 February 1991.</dd> <dt>(4)</dt><dd>If a provision of this Act has not commenced before 31 December 1994, the provision is taken to have been repealed on that day. </dd> 
+**
 
-[Sections 5-7](#Sections 5-7).                                                                                                       
+###  CSL SALE ACT 1993<division>Division 2&#151;Interpretation </division> 
+**
+###  CSL SALE ACT 1993- SECT 3  Interpretation 
+<dt>(1)</dt><dd>In this Act, unless the contrary intention appears:
 
-[8](#8).            Other amendments<span style="mso-tab-count: 1 dotted">                                                                               </span>
+</dd> 
+<dl compact=""><dl compact="">
 
-**Part 3—Amendment of the Long Service Leave (Commonwealth Employees) Regulations<span style="mso-tab-count: 1">          </span>**
+_CSL_ means the body corporate known before the sale day as CSL
 
-[Sections 9, 10](#Sections 9, 10).                                                                                                     
+Limited by whatever name called, and in whatever form that body corporate
 
-**Part 4—Amendment of the Maternity Leave (Commonwealth Employees) Regulations<span style="mso-tab-count: 1"> </span>**
+takes, from time to time. _CSL body_ means CSL or a CSL subsidiary. _CSL subsidiary_ means a body corporate that is a subsidiary of CSL. _Corporations Law_ means the Corporations Law of a State or an internal Territory. _DFRDB Act_ means the _Defence Force Retirement and Death Benefits Act 1973_. _employee_ includes apprentice. _Long Service Leave Act_ means the _Long Service Leave (Commonwealth Employees) Act 1976_ as in force immediately before the sale day. _Maternity Leave Act_ means the _Maternity Leave (Commonwealth Employees) Act 1973_. _sale day_ is the day declared under section 4\. _share_, in relation to a body corporate, means a share in the body's share capital. _SRC Act_ means the _Safety, Rehabilitation and Compensation Act 1988_. _Supervisory Mechanisms Act_ means the _Superannuation Benefits (Supervisory Mechanisms) Act 1990_. _voting share_ has the same meaning as in the Corporations Law.  </dl></dl>
 
-[Sections 11, 12](#Sections 11, 12).                                                                                                   
+<dl compact="">
 
-**Part 5—Amendment of the Proceeds of Crime Regulations<span style="mso-tab-count: 1">                          </span>**
+<dt>(2)</dt><dd>For the purposes of this Act, the question whether a body corporate is a
 
-[Sections 13, 14](#Sections 13, 14).                                                                                                   
+subsidiary of another body corporate is to be determined in the same manner as
 
-**Part 6—Transitional and saving provisions<span style="mso-tab-count: 1">                                                             </span>** 
+that question is determined under the Corporations Law.
 
-    **Division 1—Transitional and saving provisions in relation to long service leave<span style="mso-tab-count: 1">           </span>**
+</dd> </dl>
 
-[15](#15).          Interpretation<span style="mso-tab-count: 1 dotted">                                                                                       </span>
+<center>Back to Top</center>
 
-[16](#16).          Long service leave for employees with less than 10 years service<span style="mso-tab-count: 1 dotted">      </span>
+**
 
-[17](#17).          Payments in lieu of long service leave for employees with less than 10 years service<span style="mso-tab-count: 1">            </span>
+###  CSL SALE ACT 1993- SECT 4  The sale day 
+**
 
-[18](#18).          Payments on the death of an employee<span style="mso-tab-count: 1 dotted">                                             </span>
+ <dl compact="">
 
-[19](#19).          Employee’s long service leave credit for the purposes of sections 16 and 17<span style="mso-tab-count: 1">         </span>
+<dt>(1)</dt><dd>The Minister for Finance must, by notice in the _Gazette_, declare
 
-[20](#20).          Division not to affect an employee’s post-sale long service leave rights<span style="mso-tab-count: 1">                </span>
+the day described in subsection (2) to be the sale day.</dd> <dt>(2)</dt><dd>The day to be specified in the notice is the day that, in the opinion of the Minister for Finance, is the first day after the commencement of this Part on which a majority of the voting shares in CSL are acquired by a person, or persons, other than the Commonwealth or a nominee of the Commonwealth.</dd> <dt>(3)</dt><dd>The notice must be published within 14 days after the specified day. </dd> </dl>
 
-[21](#21).          Saving—Long Service Leave Act<span style="mso-tab-count: 1 dotted">                                                       </span>
+<center>**
 
-    **Division 2—Transitional and saving provisions relating to the Safety, Rehabilitation and Compensation Act 1988<span style="mso-tab-count: 1">                                                                                                  </span>**
+###  CSL SALE ACT 1993<part>Part 2&#151;Amendment of the Commonwealth Serum Laboratories Act 1961 </part>
+**</center>
 
-[22](#22).          Interpretation<span style="mso-tab-count: 1 dotted">                                                                                     </span>
+**
 
-[23](#23).          Continued application of SRC Act<span style="mso-tab-count: 1 dotted">                                                    </span>
+###  CSL SALE ACT 1993- SECT  5-7 
+**
 
-[24](#24).          Transitional provisions relating to the SRC Act that relate to CSL body employees and former CSL body employees<span style="mso-tab-count: 1 dotted">                                                                                                           </span>
+ Note:
+ The amendments made by this Part are incorporated in SCALEplus _Commonwealth Serum Laboratories Act 1961_.
+ For access to the wording of the amendments made by this Part, click   here .
 
-[25](#25).          Transitional provisions relating to Division 4A of Part VII of the SRC Act<span style="mso-tab-count: 1">          </span>
+**
 
-[26](#26).          Transitional provision relating to Part VIIIA of the SRC Act<span style="mso-tab-count: 1 dotted">          </span>
+###  CSL SALE ACT 1993- SECT 8  Other amendments 
+**
 
-[27](#27).          Transitional provision relating to section 128A of the SRC Act<span style="mso-tab-count: 1 dotted">      </span>
+ <dl compact="">
 
-[28](#28).          Notification of amount of salary etc  paid to employees of a CSL body<span style="mso-tab-count: 1">                </span>
+		The Principal Act is further amended as set out in Schedule 1.
 
-[29](#29).          Refund of licence fee paid under the SRC Act<span style="mso-tab-count: 1 dotted">                                  </span>
+ </dl>
 
-[30](#30).          Amendment of declarations under the SRC Act<span style="mso-tab-count: 1 dotted">                                </span>
+<center>**
 
-    **Division 3—Transitional and saving provisions in relation to superannuation and other retirement benefits<span style="mso-tab-count: 1">                                                                                                     </span>**
+###  CSL SALE ACT 1993<part>Part 3&#151;Amendment of the Long Service Leave (Commonwealth Employees) Regulations </part>
+**</center>
 
-[31](#31).          Saving—deferred benefits under the _Superannuation Act 1922_<span style="mso-tab-count: 1 dotted">         </span>
+**
 
-[32](#32).          Saving—deferred benefits under the _Superannuation Act 1976_<span style="mso-tab-count: 1 dotted">         </span>
+###  CSL SALE ACT 1993- SECT  9, 10 
+**
 
-[33](#33).          Saving—period of eligible employment for the purposes of Division 3 of Part IX of the _Superannuation Act 1976_<span style="mso-tab-count: 1 dotted">                                                                                                           </span>
+ Note:
+ The amendments made by this Part are incorporated in SCALEplus. _Long Service Leave (Commonwealth Employees) Regulations 1957_.
+ For access to the wording of the amendments made by this Part, click here.  
 
-[34](#34).          Saving—deferred benefits under the DFRDB Act<span style="mso-tab-count: 1 dotted">                            </span>
+<center>**
 
-[35](#35).          Saving—period of eligible employment for the purposes of Division 3 of Part IX of the DFRDB Act<span style="mso-tab-count: 1">                </span>
+###  CSL SALE ACT 1993<part>Part 4&#151;Amendment of the Maternity Leave (Commonwealth Employees) Regulations </part>
+**</center>
 
-[36](#36).          Application—_Superannuation Act 1922_<span style="mso-tab-count: 1 dotted">                                           </span>
+**
 
-[37](#37).          Application—_Superannuation Act 1976_<span style="mso-tab-count: 1 dotted">                                           </span>
+###  CSL SALE ACT 1993- SECT 11, 12 
+**
 
-[38](#38).          Application—_Superannuation Act 1990_<span style="mso-tab-count: 1 dotted">                                           </span>
+ Note:
+ The amendments made by this Part are incorporated in SCALEplus Maternity Leave (Commonwealth Employees) Regulations.
+ For access to the wording of the amendments made by this Part, click here.  
 
-    **Division 4—Other transitional and saving provisions<span style="mso-tab-count: 1">                              </span>**
+<center>**
 
-[39](#39).          Transitional maternity leave provisions relating to employees of CSL who are not on maternity leave immediately before the sale day<span style="mso-tab-count: 1 dotted">                                                                             </span>
+###  CSL SALE ACT 1993<part>Part 5&#151;Amendment of the Proceeds of Crime Regulations </part>
+**</center>
 
-[40](#40).          Transitional maternity leave provisions relating to employees of CSL who are on maternity leave on or before the sale day<span style="mso-tab-count: 1 dotted">                                                                                                     </span>
+**
 
-[41](#41).          Saving—_Crimes (Superannuation Benefits) Act 1989_<span style="mso-tab-count: 1 dotted">                        </span>
+###  CSL SALE ACT 1993- SECT 13, 14 
+**
 
-[42](#42).          Saving—_Commonwealth Serum Laboratories Act 1961_<span style="mso-tab-count: 1 dotted">                   </span>
+ Note:
+ The amendments made by this Part are incorporated in SCALEplus _Proceeds of Crime Regulations 1987_.
+ For access to the wording of the amendments made by this Part, click here.  
 
-[43](#43).          Saving—DPP Act<span style="mso-tab-count: 1 dotted">                                                                              </span>
+<center>**
 
-[44](#44).          Saving—_Judiciary Act 1903_<span style="mso-tab-count: 1 dotted">                                                               </span>
+###  CSL SALE ACT 1993<part>Part 6&#151;Transitional and saving provisions </part>
+**</center>
 
-[45](#45).          Saving—_Proceeds of Crime Act 1987_<span style="mso-tab-count: 1 dotted">                                                </span>
+<center>**
 
-**Part 7—Other provisions relating to the sale of CSL<span style="mso-tab-count: 1">                                      </span>**
+###  CSL SALE ACT 1993<division>Division 1&#151;Transitional and saving provisions in relation to long service leave </division> 
+**</center>
 
-[46](#46).          CSL not to be established by or under an Act or established by the Commonwealth<span style="mso-tab-count: 1">            </span>
+**
 
-[47](#47).          Exemption from State and Territory taxes and fees<span style="mso-tab-count: 1 dotted">                          </span>
+###  CSL SALE ACT 1993- SECT 15  Interpretation 
+**
 
-[48](#48).          Regulations connected with the sale of CSL<span style="mso-tab-count: 1 dotted">                                      </span>
+ <dl compact="">
 
-[49](#49).          Cessation of mobility rights<span style="mso-tab-count: 1 dotted">                                                              </span>
+<dt>(1)</dt><dd>Unless the contrary intention appears, expressions used in this Division
 
-[50](#50).          Refund of contribution paid under the _Occupational Health and Safety (Commonwealth Employment) Act 1991_<span style="mso-tab-count: 1"> </span>
+that are also used in the Long Service Leave Act have the same respective
 
-[51](#51).          CSL body not to be eligible or relevant body for the purposes of the _Superannuation Benefits (Supervisory Mechanisms) Act 1990_<span style="mso-tab-count: 1 dotted">                                                                       </span>
+meanings as in that Act.</dd> <dt>(2)</dt><dd>In this Division: </dd> </dl>
 
-[52](#52).          Ending CSL’s liability under the _Commonwealth Borrowing Levy Act 1987_<span style="mso-tab-count: 1">          </span>
+<def><dl compact=""><dl compact="">
 
-[53](#53).          Amendments of other Acts<span style="mso-tab-count: 1 dotted">                                                               </span>
+_combined service period_, in relation to an employee, means the
 
-**Schedule 1—Other amendments of the Commonwealth Serum Laboratories Act 1961<span style="mso-tab-count: 1">    </span>** 
+total of:
 
-**Schedule 2—Amendments of other Acts<span style="mso-tab-count: 1">                                                                 </span>** 
+ </dl></dl>
 
-**Notes<span style="mso-tab-count: 1">                                                                                                                                            </span>** 
+<center>Back to Top</center>
 
+<dl compact=""><dl compact=""><dl compact="">
 
-## An Act relating to the sale of CSL Limited, and for related purposes
+<dt>(a)</dt><dd>the period that is, immediately before the sale day, the employee's period
 
-## Part 1—Preliminary
+of service for the purposes of the Long Service Leave Act; and</dd>
 
-### Division 1—Short title and commencement
+<dt>(b)</dt><dd>the period starting on the sale day during which the employee continues to
 
-##### <a id="1"></a>1  Short title <span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt; mso-bidi-font-size: 13.0pt">[_see_ Note 1]</span><o:p></o:p>
+be an employee of a CSL body.
 
-                   This Act may be cited as the _CSL_<st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">_Sale_</st1:place></st1:city>_Act 1993_.
+</dd>
 
-##### <a id="2"></a>2  Commencement <span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt; mso-bidi-font-size: 13.0pt">[_see_ Note 1]</span>
+</dl></dl></dl>
 
-             (1)  Part 1 and sections 7 and 47 commence on the day on which this Act receives the Royal Assent.
+<def><dl compact=""><dl compact="">
 
-             (2)  Sections 8 to 46 (inclusive) and sections 48 to 53 (inclusive) commence on the sale day.
+_employee_ includes a person employed in a full-time or a part-time
 
-             (3)  Sections 5 and 6 are taken to have commenced on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1991" day="22" month="2">22 February 1991</st1:date>.
+capacity. _law_ means:  </dl></dl>
 
-             (4)  If a provision of this Act has not commenced before <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1994" day="31" month="12">31 December 1994</st1:date>, the provision is taken to have been repealed on that day.
+<dl compact=""><dl compact=""><dl compact="">
 
-<o:p> </o:p>
+<dt>(a)</dt><dd>a law of the Commonwealth or of a State or Territory; or</dd>
 
-### Division 2—Interpretation
+<dt>(b)</dt><dd>regulations or any other instrument (other than an award, determination or
 
-##### <a id="3"></a>3  Interpretation
+industrial agreement) made under such a law.
 
-             (1)  In this Act, unless the contrary intention appears:
+</dd>
 
-                    <a name="csl"></a>**_CSL_** means the body corporate known before the sale day as CSL Limited by whatever name called, and in whatever form that body corporate takes, from time to time.
+</dl></dl></dl>
 
-                    <a name="csl-bodi"></a>**_CSL body_** means CSL or a CSL subsidiary.
+<def><dl compact=""><dl compact="">
 
-                    <a name="csl-subsidiari"></a>**_CSL subsidiary_** means a body corporate that is a subsidiary of CSL.
+_post-sale long service leave rights_, in relation to an employee,
 
-                    <a name="corpor-law"></a>**_Corporations Law_** means the Corporations Law of a State or an internal Territory.
+means any long service leave rights an employee acquires under an award,
 
-                    <a name="dfrdb-act"></a>**_DFRDB Act_** means the _Defence Force Retirement and Death Benefits Act 1973_.
+determination, industrial agreement or law (other than this Act) on or after
 
-                    <a name="employe"></a>**_employee_** includes apprentice.
+the sale day.
 
-                    <a name="long-servic-leav-act"></a>**_Long Service Leave Act_** means the _Long Service Leave (Commonwealth Employees) Act 1976_ as in force immediately before the sale day.
+ </dl></dl>
 
-                    <a name="matern-leav-act"></a>**_Maternity Leave Act_** means the _Maternity Leave (Commonwealth Employees) Act 1973_.
+**
 
-                    <a name="sale-dai"></a>**_sale day_** is the day declared under section 4.
+###  CSL SALE ACT 1993- SECT 16  Long service leave for employees with less than 10 years service 
+**
 
-                    <a name="share"></a>**_share_**, in relation to a body corporate, means a share in the body’s share capital.
+<dl compact="">
 
-                    <a name="src-act"></a>**_SRC Act_** means the _Safety, Rehabilitation and Compensation Act 1988_.
+<dt>(1)</dt><dd>This section provides that, in certain circumstances, a CSL body may grant
 
-                    <a name="supervisori-mechan-act"></a>**_Supervisory Mechanisms Act_** means the _Superannuation Benefits (Supervisory Mechanisms) Act 1990_.
+long service leave to an employee whose period of service for the purposes of
 
-                    <a name="vote-share"></a>**_voting share_** has the same meaning as in the Corporations Law.
+the Long Service Leave Act was less than 10 years.</dd> <dt>(2)</dt><dd>This section applies in relation to a person who was an employee of CSL immediately before the sale day if, at that time, the employee's period of service for the purposes of the Long Service Leave Act was less than 10 years.</dd> <dt>(3)</dt><dd>This section does not apply in relation to an employee who stops being an employee of a CSL body by dying. Section 18 covers those employees.</dd> <dt>(4)</dt><dd>If, from and after the sale day, the employee continues to be employed by a CSL body until his or her combined service period is at least 10 years, the CSL body may grant the employee long service leave on full salary for a period up to the employee's long service leave credit under subsection 19(1).</dd> <dt>(5)</dt><dd>If: </dd> </dl>
 
-             (2)  For the purposes of this Act, the question whether a body corporate is a subsidiary of another body corporate is to be determined in the same manner as that question is determined under the Corporations Law.
+<dl compact=""><dl compact=""><dl compact="">
 
-##### <a id="4"></a>4  The sale day
+<dt>(a)</dt><dd>the employee stops being an employee of a CSL body, on or after reaching
 
-             (1)  The Minister for Finance must, by notice in the _Gazette_, declare the day described in subsection (2) to be the sale day.
+the minimum retirement age, or because of retrenchment; and</dd>
 
-             (2)  The day to be specified in the notice is the day that, in the opinion of the Minister for Finance, is the first day after the commencement of this Part on which a majority of the voting shares in CSL are acquired by a person, or persons, other than the Commonwealth or a nominee of the Commonwealth.
+<dt>(b)</dt><dd>the employee's combined service period at the time when he or she stops
 
-             (3)  The notice must be published within 14 days after the specified day.
+being an employee of the CSL body is at least one year;
 
-<o:p> </o:p>
+</dd>
 
-## Part 2—Amendment of the Commonwealth Serum Laboratories Act 1961
+</dl></dl></dl>
 
-##### Sections <a id="5-7"></a>5-7
+the CSL body may grant the employee long service leave on full salary for a period up to the employee's long service leave credit under subsection 19(1).
 
-<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid; mso-border-alt: solid windowtext .5pt">
+<dl compact="">
 
-**Note:<o:p></o:p>**
+<dt>(6)</dt><dd>If a period of long service leave may be granted to an employee under
 
-The amendments made by this Part are incorporated in the compilation on SCALEplus.
+subsection (4) or (5), the CSL body may, if the employee asks in writing, grant
 
-For access to the wording of the amendments made by this Part, _see_ Act No. 88 of 1993.</div>
+the employee long service leave on half salary for a period not exceeding twice
 
-##### <a id="8"></a>8  Other amendments
+the first-mentioned period.</dd> <dt>(7)</dt><dd>Long service leave granted in the circumstances set out in subsection (5) is to be taken so as to end immediately before the employee stops being an employee.</dd> <dt>(8)</dt><dd>For the purposes of this section, the rate of salary to be used in working out the full salary of an employee is the rate that would be applicable to the employee under section 20 of the Long Service Leave Act as if: </dd> </dl>
 
-                   The Principal Act is further amended as set out in Schedule 1.
+<dl compact=""><dl compact=""><dl compact="">
 
-<o:p> </o:p>
+<dt>(a)</dt><dd>that section applied to the employee; and</dd>
 
-## Part 3—Amendment of the Long Service Leave (Commonwealth Employees) Regulations
+<dt>(b)</dt><dd>for the expression "section 16 or 17" in that section there were
 
-##### Sections<a id=" 9, 10"></a> 9, 10
+substituted the expression "section 16 of the _CSL Sale Act 1993_".
 
-<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid; mso-border-alt: solid windowtext .5pt">
+</dd>
 
-**Note:<o:p></o:p>**
+</dl></dl></dl>
 
-The amendments made by this Part are incorporated in the compilation on FRLI.
+**
 
-For access to the wording of the amendments made by this Part, _see_ Act No. 88 of 1993.</div>
+###  CSL SALE ACT 1993- SECT 17  Payments in lieu of long service leave for employees with less than 10 years service 
+**
 
-<o:p> </o:p>
+<dl compact="">
 
-## Part 4—Amendment of the Maternity Leave (Commonwealth Employees) Regulations
+<dt>(1)</dt><dd>This section provides that, in certain circumstances, a CSL body must pay
 
-##### Sections<a id=" 11, 12"></a> 11, 12
+an amount in respect of long service leave to an employee who has not used all
 
-<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid; mso-border-alt: solid windowtext .5pt">
+of his or her long service leave credit by taking long service leave under
 
-**Note:<o:p></o:p>**
+section 16.</dd> <dt>(2)</dt><dd>This section applies in relation to a person who was an employee of CSL immediately before the sale day, if, at that time, the employee's period of service for the purposes of the Long Service Leave Act was less than 10 years.</dd> <dt>(3)</dt><dd>This section does not apply in relation to an employee who stops being an employee of a CSL body by dying. Section 18 covers those employees.</dd> <dt>(4)</dt><dd>Subject to subsection (7), if the employee stops being an employee of a CSL body on or after the day on which his or her combined service period reaches 10 years, the CSL body must pay him or her an amount equal to full salary in respect of his or her long service leave credit under subsection 19(2).</dd> <dt>(5)</dt><dd>Subject to subsection (7), if: </dd> </dl>
 
-The amendments made by this Part are incorporated in the compilation on FRLI.
+<center>Back to Top</center>
 
-For access to the wording of the amendments made by this Part, _see_ Act No. 88 of 1993.</div>
+<dl compact=""><dl compact=""><dl compact="">
 
-<o:p> </o:p>
+<dt>(a)</dt><dd>the employee stops being an employee of a CSL body, on or after reaching
 
-## Part 5—Amendment of the Proceeds of Crime Regulations
+the minimum retiring age, or because of retrenchment; and</dd>
 
-##### Sections<a id=" 13, 14"></a> 13, 14
+<dt>(b)</dt><dd>at that time the employee's combined service period is at least one year;
 
-<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid; mso-border-alt: solid windowtext .5pt">
+</dd>
 
-**Note:<o:p></o:p>**
-
-The amendments made by this Part are incorporated in the compilation on FRLI.
-
-For access to the wording of the amendments made by this Part, _see_ Act No. 88 of 1993.</div>
-
-<o:p> </o:p>
-
-## Part 6—Transitional and saving provisions
-
-### Division 1—Transitional and saving provisions in relation to long service leave
-
-##### <a id="15"></a>15  Interpretation
-
-             (1)  Unless the contrary intention appears, expressions used in this Division that are also used in the Long Service Leave Act have the same respective meanings as in that Act.
-
-             (2)  In this Division:
-
-                    <a name="combin-servic-period"></a>**_combined service period_**, in relation to an employee, means the total of:
-
-                     (a)  the period that is, immediately before the sale day, the employee’s period of service for the purposes of the Long Service Leave Act; and
-
-                     (b)  the period starting on the sale day during which the employee continues to be an employee of a CSL body.
-
-                    <a name="employe"></a>**_employee_** includes a person employed in a full-time or a part-time capacity.
-
-                    <a name="law"></a>**_law_** means:
-
-                     (a)  a law of the Commonwealth or of a State or Territory; or
-
-                     (b)  regulations or any other instrument (other than an award, determination or industrial agreement) made under such a law.
-
-                    <a name="post-sale-long-servic-leav-right"></a>**_post-sale long service leave rights_**, in relation to an employee, means any long service leave rights an employee acquires under an award, determination, industrial agreement or law (other than this Act) on or after the sale day.
-
-##### <a id="16"></a>16  Long service leave for employees with less than 10 years service
-
-             (1)  This section provides that, in certain circumstances, a CSL body may grant long service leave to an employee whose period of service for the purposes of the Long Service Leave Act was less than 10 years.
-
-             (2)  This section applies in relation to a person who was an employee of CSL immediately before the sale day if, at that time, the employee’s period of service for the purposes of the Long Service Leave Act was less than 10 years.
-
-             (3)  This section does not apply in relation to an employee who stops being an employee of a CSL body by dying. Section 18 covers those employees.
-
-             (4)  If, from and after the sale day, the employee continues to be employed by a CSL body until his or her combined service period is at least 10 years, the CSL body may grant the employee long service leave on full salary for a period up to the employee’s long service leave credit under subsection 19(1).
-
-             (5)  If:
-
-                     (a)  the employee stops being an employee of a CSL body, on or after reaching the minimum retirement age, or because of retrenchment; and
-
-                     (b)  the employee’s combined service period at the time when he or she stops being an employee of the CSL body is at least one year;
-
-the CSL body may grant the employee long service leave on full salary for a period up to the employee’s long service leave credit under subsection 19(1).
-
-             (6)  If a period of long service leave may be granted to an employee under subsection (4) or (5), the CSL body may, if the employee asks in writing, grant the employee long service leave on half salary for a period not exceeding twice the first-mentioned period.
-
-             (7)  Long service leave granted in the circumstances set out in subsection (5) is to be taken so as to end immediately before the employee stops being an employee.
-
-             (8)  For the purposes of this section, the rate of salary to be used in working out the full salary of an employee is the rate that would be applicable to the employee under section 20 of the Long Service Leave Act as if:
-
-                     (a)  that section applied to the employee; and
-
-                     (b)  for the expression “section 16 or 17” in that section there were substituted the expression “section 16 of the _CSL_<st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">_Sale_</st1:place></st1:city>_Act 1993_”.
-
-##### <a id="17"></a>17  Payments in lieu of long service leave for employees with less than 10 years service
-
-             (1)  This section provides that, in certain circumstances, a CSL body must pay an amount in respect of long service leave to an employee who has not used all of his or her long service leave credit by taking long service leave under section 16.
-
-             (2)  This section applies in relation to a person who was an employee of CSL immediately before the sale day, if, at that time, the employee’s period of service for the purposes of the Long Service Leave Act was less than 10 years.
-
-             (3)  This section does not apply in relation to an employee who stops being an employee of a CSL body by dying. Section 18 covers those employees.
-
-             (4)  Subject to subsection (7), if the employee stops being an employee of a CSL body on or after the day on which his or her combined service period reaches 10 years, the CSL body must pay him or her an amount equal to full salary in respect of his or her long service leave credit under subsection 19(2).
-
-             (5)  Subject to subsection (7), if:
-
-                     (a)  the employee stops being an employee of a CSL body, on or after reaching the minimum retiring age, or because of retrenchment; and
-
-                     (b)  at that time the employee’s combined service period is at least one year;
+</dl></dl></dl>
 
 the CSL body must pay him or her an amount equal to full salary in respect of his or her long service leave credit under subsection 19(2).
 
-             (6)  Subject to subsection (7), if:
+<dl compact="">
 
-                     (a)  the employee stops being an employee of a CSL body; and
+<dt>(6)</dt><dd>Subject to subsection (7), if:
 
-                     (b)  the CSL body is satisfied that the employee left the CSL body because of ill-health that justified his or her so leaving; and
+</dd> </dl>
 
-                     (c)  when the employee left, his or her combined service period was at least one year;
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the employee stops being an employee of a CSL body; and</dd>
+
+<dt>(b)</dt><dd>the CSL body is satisfied that the employee left the CSL body because of
+
+ill-health that justified his or her so leaving; and</dd>
+
+<dt>(c)</dt><dd>when the employee left, his or her combined service period was at least
+
+one year;
+
+</dd>
+
+</dl></dl></dl>
 
 the CSL body must pay him or her an amount equal to full salary in respect of his or her long service leave credit under subsection 19(2).
 
-             (7)  An employee may, by written notice given to a CSL body before the employee stops being an employee of the CSL body:
+<dl compact="">
 
-                     (a)  ask the CSL body not to make a payment to the employee under this section; or
+<dt>(7)</dt><dd>An employee may, by written notice given to a CSL body before the employee
 
-                     (b)  ask the CSL body to make a payment under subsection (4), (5) or (6) of a specified amount that is less than the amount that would otherwise be payable under that subsection.
+stops being an employee of the CSL body:
 
-             (8)  The CSL body must comply with the request made under subsection (7).
+</dd> </dl>
 
-             (9)  For the purposes of this section, the rate of salary to be used in working out the full salary of an employee is the rate that would be applicable to the employee under section 21 of the Long Service Leave Act if:
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (a)  that section applied to the employee; and
+<dt>(a)</dt><dd>ask the CSL body not to make a payment to the employee under this section;
 
-                     (b)  for the expression “sections 16 and 17” in that section there were substituted the expression “section 17 of the _CSL_<st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">_Sale_</st1:place></st1:city>_Act 1993_”.
+or</dd>
 
-##### <a id="18"></a>18  Payments on the death of an employee
+<dt>(b)</dt><dd>ask the CSL body to make a payment under subsection (4), (5) or (6) of a
 
-             (1)  This section applies in relation to a person who was an employee of CSL immediately before the sale day if, at that time, the employee’s period of service for the purposes of the Long Service Leave Act was less than 10 years.
+specified amount that is less than the amount that would otherwise be payable
 
-             (2)  If, on or after the sale day, the employee died and immediately before his or her death:
+under that subsection.
 
-                     (a)  the employee was an employee of a CSL body; and
+</dd>
 
-                     (b)  the employee’s combined service period was at least one year; and 
+</dl></dl></dl>
 
-                     (c)  the employee had one or more dependants;
+<dl compact="">
+
+<dt>(8)</dt><dd>The CSL body must comply with the request made under subsection (7).</dd> <dt>(9)</dt><dd>For the purposes of this section, the rate of salary to be used in working out the full salary of an employee is the rate that would be applicable to the employee under section 21 of the Long Service Leave Act if: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>that section applied to the employee; and</dd>
+
+<dt>(b)</dt><dd>for the expression "sections 16 and 17" in that section there were
+
+substituted the expression "section 17 of the _CSL Sale Act 1993_".
+
+</dd>
+
+</dl></dl></dl>
+
+**
+
+###  CSL SALE ACT 1993- SECT 18  Payments on the death of an employee 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>This section applies in relation to a person who was an employee of CSL
+
+immediately before the sale day if, at that time, the employee's period of
+
+service for the purposes of the Long Service Leave Act was less than 10
+
+years.</dd> <dt>(2)</dt><dd>If, on or after the sale day, the employee died and immediately before his or her death: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the employee was an employee of a CSL body; and</dd>
+
+<dt>(b)</dt><dd>the employee's combined service period was at least one year; and </dd>
+
+<dt>(c)</dt><dd>the employee had one or more dependants;
+
+</dd>
+
+</dl></dl></dl>
 
 the CSL body must make a payment to a dependant or to 2 or more dependants of the employee.
 
-             (3)  The total amount of the payment or payments is the amount that would have been payable to the employee under section 17 if, on the day of his or her death, the employee had instead stopped being an employee of the CSL body on or after reaching the minimum retiring age.
+<dl compact="">
 
-             (4)  If subsection (2) applies, section 23 of the Long Service Leave Act has effect as if:
+<dt>(3)</dt><dd>The total amount of the payment or payments is the amount that would have
 
-                     (a)  that section applied to an employee of a CSL body; and
+been payable to the employee under section 17 if, on the day of his or her
 
-                     (b)  a reference in that section to the approving authority were a reference to the CSL body; and
+death, the employee had instead stopped being an employee of the CSL body on or
 
-                     (c)  the section were further modified as set out in the following table:
+after reaching the minimum retiring age.</dd> <dt>(4)</dt><dd>If subsection (2) applies, section 23 of the Long Service Leave Act has effect as if: </dd> </dl>
 
-TABLE
+<dl compact=""><dl compact=""><dl compact="">
 
-<table>
-<colgroup>
-  <col width="25%">
-  <col width="38%">
-  <col width="38%">
-</colgroup>
+<dt>(a)</dt><dd>that section applied to an employee of a CSL body; and</dd>
 
-<tbody>
-  <tr>
-    <td>
-      <div>Provision</div>
-    </td>
-    <td>
-      <div>Omit this expression</div>
-    </td>
-    <td>
-      <div>Insert this expression</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>section 23</div>
-    </td>
-    <td>
-      <div>this Act</div>
-    </td>
-    <td>
-      <div>section 18 of the <i style="mso-bidi-font-style: normal">CSL</i> <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"> <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"> <i style="mso-bidi-font-style: normal">Sale</i> </st1:place> </st1:city> <i style="mso-bidi-font-style: normal">Act 1993</i></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>subsections 23(2) and (3)</div>
-    </td>
-    <td>
-      <div>subsection 16(7) or 17(5)</div>
-    </td>
-    <td>
-      <div>section 18 of the <i style="mso-bidi-font-style: normal">CSL</i> <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"> <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"> <i style="mso-bidi-font-style: normal">Sale</i> </st1:place> </st1:city> <i style="mso-bidi-font-style: normal">Act 1993</i></div>
-    </td>
-  </tr>
-</tbody></table>
+<dt>(b)</dt><dd>a reference in that section to the approving authority were a reference to
 
-##### <a id="19"></a>19  Employee’s long service leave credit for the purposes of sections 16 and 17
+the CSL body; and</dd>
 
-             (1)  For the purposes of section 16, an employee’s long service leave credit is equal to the long service leave credit that the employee would have under the Long Service Leave Act for the period:
+<dt>(c)</dt><dd>the section were further modified as set out in the following table:
 
-                     (a)  starting when the employee started his or her period of service; and
+</dd>
 
-                     (b)  ending on the sale day;
+</dl></dl></dl>
+
+<center>Back to Top</center>
+
+<center>TABLE</center>
+
+<table><tr align="left">
+  <td colspan="1" align="left">
+    <div>Provision</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Omit this expression</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Insert this expression</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>section 23</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>this Act</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>section 18 of the <i>CSL Sale Act 1993</i></div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>subsections 23(2) and (3)</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>subsection 16(7) or 17(5)</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>section 18 of the <i>CSL Sale Act 1993</i></div>
+
+  </td>
+</tr></table>
+
+**
+
+###  CSL SALE ACT 1993- SECT 19  Employee's long service leave credit for the purposes of sections 16 and 17 
+**
+
+<dl compact="">
+
+<dt>(1)</dt><dd>For the purposes of section 16, an employee's long service leave credit is
+
+equal to the long service leave credit that the employee would have under the
+
+Long Service Leave Act for the period:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>starting when the employee started his or her period of service; and</dd>
+
+<dt>(b)</dt><dd>ending on the sale day;
+
+</dd>
+
+</dl></dl></dl>
 
 if the employee had been retrenched on the sale day.
 
-             (2)  For the purposes of section 17, an employee’s long service leave credit is the employee’s long service leave credit worked out under subsection (1) reduced by any long service leave credit used under section 16.
+<dl compact="">
 
-##### <a id="20"></a>20  Division not to affect an employee’s post-sale long service leave rights
+<dt>(2)</dt><dd>For the purposes of section 17, an employee's long service leave credit is
 
-To avoid doubt it is declared that this Division does not affect an employee’s post-sale long service leave rights.
+the employee's long service leave credit worked out under subsection (1)
 
-##### <a id="21"></a>21  Saving—Long Service Leave Act
+reduced by any long service leave credit used under section 16.
 
-                   If, immediately before the sale day, the period of service under the Long Service Leave Act of an employee of CSL was at least 10 years, then:
+</dd> </dl>
 
-                     (a)  despite the amendment of the Long Service Leave (Commonwealth Employees) Regulations by this Act the employee’s accrued rights under that Act continue; and
+**
 
-                     (b)  that Act has effect after the sale day in relation to the employee as if CSL were an approving authority for the purposes of that Act.
+###  CSL SALE ACT 1993- SECT 20  Division not to affect an employee's post-sale long service leave rights 
+**
 
-<o:p> </o:p>
+To avoid doubt it is declared that this Division does not affect an employee's post-sale long service leave rights. 
 
-<o:p> </o:p>
+**
 
-### Division 2—Transitional and saving provisions relating to the Safety, Rehabilitation and Compensation Act 1988
+###  CSL SALE ACT 1993- SECT 21  Saving&#151;Long Service Leave Act 
+**
 
-##### <a id="22"></a>22  Interpretation
+ <dl compact="">
 
-                   Unless the contrary intention appears, expressions used in this Division that are also used in the SRC Act have the same respective meanings as in that Act.
+		If, immediately before the sale day, the period of service under the Long
 
-##### <a id="23"></a>23  Continued application of SRC Act
+Service Leave Act of an employee of CSL was at least 10&#160;years, then:
 
-                   If a CSL body stops being a Commonwealth authority for the purposes of the SRC Act, the SRC Act continues to apply in relation to the CSL body to the extent and in the manner, set out in this Division.
+ </dl>
 
-##### <a id="24"></a>24  Transitional provisions relating to the SRC Act that relate to CSL body employees and former CSL body employees
+<dl compact=""><dl compact=""><dl compact="">
 
-             (1)  The SRC Act continues to apply on and after the sale day in relation to:
+<dt>(a)</dt><dd>despite the amendment of the Long Service Leave (Commonwealth Employees)
 
-                     (a)  injuries suffered by employees of a CSL body before the sale day; and
+Regulations by this Act the employee's accrued rights under that Act continue;
 
-                     (b)  loss of, or damage to, property incurred by employees of a CSL body before the sale day;
+and</dd>
+
+<dt>(b)</dt><dd>that Act has effect after the sale day in relation to the employee as if
+
+CSL were an approving authority for the purposes of that Act.
+
+</dd>
+
+</dl></dl></dl>
+
+<center>Back to Top</center>
+
+<center>**
+
+###  CSL SALE ACT 1993<division>Division 2&#151;Transitional and saving provisions relating to the Safety, Rehabilitation and Compensation Act 1988 </division> 
+**</center>
+
+**
+
+###  CSL SALE ACT 1993- SECT 22  Interpretation 
+**
+
+ <dl compact="">
+
+		Unless the contrary intention appears, expressions used in this Division that
+
+are also used in the SRC Act have the same respective meanings as in that Act.
+
+ </dl>
+
+**
+
+###  CSL SALE ACT 1993- SECT 23  Continued application of SRC Act 
+**
+
+ <dl compact="">
+
+		If a CSL body stops being a Commonwealth authority for the purposes of the
+
+SRC Act, the SRC Act continues to apply in relation to the CSL body to the
+
+extent and in the manner, set out in this Division.
+
+ </dl>
+
+**
+
+###  CSL SALE ACT 1993- SECT 24  Transitional provisions relating to the SRC Act that relate to CSL body employees and former CSL body employees 
+**
+
+<dl compact="">
+
+<dt>(1)</dt><dd>The SRC Act continues to apply on and after the sale day in relation to:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>injuries suffered by employees of a CSL body before the sale day; and</dd>
+
+<dt>(b)</dt><dd>loss of, or damage to, property incurred by employees of a CSL body before
+
+the sale day;
+
+</dd>
+
+</dl></dl></dl>
 
 including employees who have stopped being employees of a CSL body before the sale day.
 
-             (2)  For the purposes of subsection (1), the SRC Act continues to apply as if:
+<dl compact="">
 
-                     (a)  the CSL body continues to be a Commonwealth authority; and
+<dt>(2)</dt><dd>For the purposes of subsection (1), the SRC Act continues to apply as if:
 
-                     (b)  the chief executive officer of the CSL body (however described) continues to be the principal officer of a Commonwealth authority.
+</dd> </dl>
 
-##### <a id="25"></a>25  Transitional provisions relating to Division 4A of Part VII of the SRC Act
+<dl compact=""><dl compact=""><dl compact="">
 
-             (1)  On and after the sale day, Division 4A of Part VII of the SRC Act applies to a CSL body as if:
+<dt>(a)</dt><dd>the CSL body continues to be a Commonwealth authority; and</dd>
 
-                     (a)  the CSL body continues to be a Commonwealth authority; and
+<dt>(b)</dt><dd>the chief executive officer of the CSL body (however described) continues
 
-                     (b)  the CSL body is not required to pay a premium under that Division in respect of that part of a financial year which occurs after the sale day; and
+to be the principal officer of a Commonwealth authority.
 
-                     (c)  the following word and paragraph were added at the end of subsection 96H(1):
+</dd>
 
-                     “; or (f)   in the case of an authority—the authority is not required to pay a premium under this Division in respect of part of a financial year.”.
+</dl></dl></dl>
 
-             (2)  If, 60 days after the sale day, an amount of premium payable by a CSL body to Comcare in respect of the period before the sale day remains unpaid, the amount is a debt due to the Commonwealth and payable to Comcare.
+**
 
-##### <a id="26"></a>26  Transitional provision relating to Part VIIIA of the SRC Act
+###  CSL SALE ACT 1993- SECT 25  Transitional provisions relating to Division 4A of Part VII of the SRC Act 
+**
 
-                   On and after the sale day, Part VIIIA of the SRC Act continues to apply to a CSL body as if any licence granted to the CSL body under that Part was revoked on the sale day.
+<dl compact="">
 
-##### <a id="27"></a>27  Transitional provision relating to section 128A of the SRC Act
+<dt>(1)</dt><dd>On and after the sale day, Division 4A of Part VII of the SRC Act applies
 
-                   On and after the sale day, section 128A of the SRC Act continues to apply to a CSL body as if the CSL body continues to be a prescribed Commonwealth authority for the purposes of that section.
+to a CSL body as if:
 
-##### <a id="28"></a>28  Notification of amount of salary etc. paid to employees of a CSL body
+</dd> </dl>
 
-             (1)  This section applies to a CSL body that was a Commonwealth authority immediately before the sale day.
+<dl compact=""><dl compact=""><dl compact="">
 
-             (2)  The chief executive officer (however described) of the CSL body must notify the Commission, within 28 days after the sale day of the amount of salary, wages or pay paid to employees of the CSL body in the period starting on 1 July in the financial year in which the sale day occurs and ending on the day before the sale day.
+<dt>(a)</dt><dd>the CSL body continues to be a Commonwealth authority; and</dd>
 
-##### <a id="29"></a>29  Refund of licence fee paid under the SRC Act
+<dt>(b)</dt><dd>the CSL body is not required to pay a premium under that Division in
 
-             (1)  If a CSL body has paid a licence fee in respect of the licence fee year in which the sale day occurs under section 107R of the SRC Act, the CSL body is entitled to be paid an amount equal to the amount worked out using the following formula:
+respect of that part of a financial year which occurs after the sale day; and</dd>
 
-<v:shape id="_x0000_i1026" style="WIDTH: 143.25pt; HEIGHT: 42pt" o:ole="" type="#_x0000_t75" coordsize="21600,21600" fillcolor="winColor(17)"><v:imagedata o:title="" src="678AFF3929DEDD8CCA256FB900307155/$FILE/image003.wmz"></v:imagedata></v:shape>
+<dt>(c)</dt><dd>the following word and paragraph were added at the end of subsection
 
-where:
+96H(1):
 
-                    <a name="licenc-fee"></a>**_Licence fee_** means the fee paid under section 107R of the SRC Act in respect of the licence fee year in which the sale day occurs.
+</dd>
 
-                    <a name="no-refund-dai"></a>**_No. of refund days_** means the total number of days in the period beginning on the sale day and ending on the last day of the licence fee year in which the sale day occurs.
+</dl></dl></dl>
 
-             (2)  An amount to which a CSL body is entitled under subsection (1) must be paid out of the Consolidated Revenue Fund which is appropriated accordingly.
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-             (3)  In this section:
+	"; or (f)	in the case of an authority&#151;the authority is not required to pay a
 
-                    <a name="licenc-fee-year"></a>**_licence fee year_** means the year beginning on the starting date of a licence granted under section 107J of the SRC Act and ending on the day before the anniversary of that date.
+premium under this Division in respect of part of a financial year.".
 
-##### <a id="30"></a>30  Amendment of declarations under the SRC Act
+</dl></dl></dl></dl>
 
-             (1)  A notice published in the _Gazette_ before the sale day that declares a CSL body to be a body corporate to which the SRC Act applies for the purposes of the definition of **_Commonwealth authority_** in subsection 4(1) of the SRC Act is to have effect on and after the sale day as if it did not contain a reference to the CSL body.
+<dl compact="">
 
-             (2)  Subsection (1) does not prevent the declaration, as affected by that subsection, being amended or revoked by the Minister.
+<dt>(2)</dt><dd>If, 60 days after the sale day, an amount of premium payable by a CSL body
 
-<o:p> </o:p>
+to Comcare in respect of the period before the sale day remains unpaid, the
 
-### Division 3—Transitional and saving provisions in relation to superannuation and other retirement benefits
+amount is a debt due to the Commonwealth and payable to Comcare.
 
-##### <a id="31"></a>31  Saving—deferred benefits under the _Superannuation Act 1922_
+</dd> </dl>
 
-             (1)  This section applies if, immediately before the sale day, an employee of a CSL body was a person to whom deferred benefits were applicable under section 119W of the _Superannuation Act 1922_.
+**
 
-             (2)  For the purposes of Division 3 of Part XA of the _Superannuation Act 1922_, the employee is taken to continue in public employment on and after the sale day while the employee continues to be employed by a CSL body.
+###  CSL SALE ACT 1993- SECT 26  Transitional provision relating to Part VIIIA of the SRC Act 
+**
 
-             (3)  This section is subject to Division 3 of Part XA of the _Superannuation Act 1922_.
+<dl compact="">
 
-##### <a id="32"></a>32  Saving—deferred benefits under the _Superannuation Act 1976_
+		On and after the sale day, Part VIIIA of the SRC Act continues to apply to a
 
-             (1)  This section applies if, immediately before the sale day, an employee of a CSL body was a person to whom deferred benefits were applicable under section 139 of the _Superannuation Act 1976_.
+CSL body as if any licence granted to the CSL body under that Part was revoked
 
-             (2)  For the purposes of Division 3 of Part IX of the _Superannuation Act 1976_, the employee is taken to continue in public employment on and after the sale day while the employee continues to be employed by a CSL body.
+on the sale day.
 
-             (3)  This section is subject to Division 3 of Part IX of the _Superannuation Act 1976_.
+ </dl>
 
-##### <a id="33"></a>33  Saving—period of eligible employment for the purposes of Division 3 of Part IX of the _Superannuation Act 1976_
+<center>Back to Top</center>
 
-             (1)  This section applies if, immediately before the sale day, a period of employment of a person by a CSL body was a period of eligible employment for the purposes of Division 3 of Part IX of the _Superannuation Act 1976_.
+**
 
-             (2)  Despite employment by a CSL body having stopped being eligible employment for the purposes of Division 3 of Part IX of the _Superannuation Act 1976_, the period of eligible employment continues to be a period of eligible employment for the purposes of that Division.
+###  CSL SALE ACT 1993- SECT 27  Transitional provision relating to section 128A of the SRC Act 
+**
 
-##### <a id="34"></a>34  Saving—deferred benefits under the DFRDB Act
+<dl compact="">
 
-             (1)  This section applies if, immediately before the sale day, an employee of a CSL body was a person to whom deferred benefits were applicable under section 78 of the DFRDB Act.
+		On and after the sale day, section 128A of the SRC Act continues to apply to
 
-             (2)  For the purposes of Division 3 of Part IX of the DFRDB Act, the employee is taken to continue in public employment on and after the sale day while the employee continues to be employed by a CSL body.
+a CSL body as if the CSL body continues to be a prescribed Commonwealth
 
-             (3)  This section is subject to Division 3 of Part IX of the DFRDB Act.
+authority for the purposes of that section.
 
-##### <a id="35"></a>35  Saving—period of eligible employment for the purposes of Division 3 of Part IX of the DFRDB Act
+ </dl>
 
-             (1)  This section applies if, immediately before the sale day, a period of employment of a person by a CSL body was a period of eligible employment for the purposes of Division 3 of Part IX of the DFRDB Act.
+**
 
-             (2)  Despite employment by a CSL body having stopped being eligible employment for the purposes of Division 3 of Part IX of the DFRDB Act, the period of eligible employment continues to be a period of eligible employment for the purposes of that Division.
+###  CSL SALE ACT 1993- SECT 28  Notification of amount of salary etc. paid to employees of a CSL body 
+**
 
-##### <a id="36"></a>36  Application—_Superannuation Act 1922_
+<dl compact="">
 
-                   On and after the sale day, section 145 of the _Superannuation Act 1922_ does not apply in relation to a CSL body.
+<dt>(1)</dt><dd>This section applies to a CSL body that was a Commonwealth authority
 
-##### <a id="37"></a>37  Application—_Superannuation Act 1976_
+immediately before the sale day.</dd> <dt>(2)</dt><dd>The chief executive officer (however described) of the CSL body must notify the Commission, within 28 days after the sale day of the amount of salary, wages or pay paid to employees of the CSL body in the period starting on 1 July in the financial year in which the sale day occurs and ending on the day before the sale day. </dd> </dl>
 
-                   On and after the sale day, a CSL body is not an approved authority for the purposes of the _Superannuation Act 1976_.
+**
 
-##### <a id="38"></a>38  Application—_Superannuation Act 1990_
+###  CSL SALE ACT 1993- SECT 29  Refund of licence fee paid under the SRC Act 
+**
 
-                   On and after the sale day, a CSL body is not an approved authority for the purposes of the _Superannuation Act 1990_.
+ <dl compact="">
 
-<o:p> </o:p>
+<dt>(1)</dt><dd>If a CSL body has paid a licence fee in respect of the licence fee year in
 
-### Division 4—Other transitional and saving provisions
+which the sale day occurs under section 107R of the SRC Act, the CSL body is
 
-##### <a id="39"></a>39  Transitional maternity leave provisions relating to employees of CSL who are not on maternity leave immediately before the sale day
+entitled to be paid an amount equal to the amount worked out using the
 
-             (1)  This section applies if:
+following formula:
 
-                     (a)  immediately before the sale day, a person was a female employee of CSL; and
+</dd> </dl>
 
-                     (b)  within 12 months after the sale day, the person would have been entitled to begin leave granted under the Maternity Leave Act if CSL had continued to be a prescribed authority for the purposes of that Act.
+<sub> ![A graphic exists here.](http://www.comlaw.gov.au/Details/C2004C00800/Html/3281D95DBF282FD2CA256F710050DB6B/$FILE/1202.gif)</sub>
+ where:
 
-             (2)  On and after the sale day, the Maternity Leave Act continues to apply to the person in relation to the confinement in respect of which she would have been entitled to leave as if CSL continues to be a prescribed authority for the purposes of that Act.
+<def><dl compact=""><dl compact="">
 
-##### <a id="40"></a>40  Transitional maternity leave provisions relating to employees of CSL who are on maternity leave on or before the sale day
+_Licence fee_ means the fee paid under section 107R of the SRC Act
 
-             (1)  This section applies if:
+in respect of the licence fee year in which the sale day occurs. _No. of refund days_ means the total number of days in the period beginning on the sale day and ending on the last day of the licence fee year in which the sale day occurs.  </dl></dl>
 
-                     (a)  immediately before the sale day, a person was a female employee of CSL; and
+<dl compact="">
 
-                     (b)  on the sale day, the person is on leave granted under the Maternity Leave Act.
+<dt>(2)</dt><dd>An amount to which a CSL body is entitled under subsection (1) must be
 
-             (2)  On and after the sale day, the Maternity Leave Act continues to apply to the person in relation to the confinement in respect of which the leave was granted as if CSL continues to be a prescribed authority for the purposes of that Act.
+paid out of the Consolidated Revenue Fund which is appropriated accordingly.</dd> <dt>(3)</dt><dd>In this section: </dd> </dl>
 
-##### <a id="41"></a>41  Saving—_Crimes (Superannuation Benefits) Act 1989_
+<def><dl compact=""><dl compact="">
 
-             (1)  Subject to subsection (2), if a person who is an employee of a CSL body before the sale day committed a corruption offence while such an employee, then, on and after the sale day, the _Crimes (Superannuation Benefits) Act 1988_ continues to apply in relation to the person in respect of the offence as if the CSL body continues to be a Commonwealth authority.
+_licence fee year_ means the year beginning on the starting date of
 
-             (2)  A superannuation order may not be made under the _Crimes (Superannuation Benefits) Act 1989_ in relation to employer contributions or benefits paid or payable to a superannuation scheme by a CSL body after the sale day.
+a licence granted under section 107J of the SRC Act and ending on the day
 
-             (3)  A superannuation scheme in relation to which employer contributions or benefits are paid or payable by a CSL body is not a superannuation scheme for the purposes of the _Crimes (Superannuation Benefits) Act 1989_ in respect of a corruption offence committed by a person after the sale day.
+before the anniversary of that date.
 
-             (4)  Despite paragraph 19(3)(d) of the _Crimes (Superannuation Benefits) Act 1989_, an order under that paragraph may only specify that an amount paid to the Commonwealth before the sale day by or on behalf of CSL, belongs to the Commonwealth.
+ </dl></dl>
 
-             (5)  If:
+**
 
-                     (a)  a person who was an employee of CSL before the sale day committed a corruption offence while such an employee; and
+###  CSL SALE ACT 1993- SECT 30  Amendment of declarations under the SRC Act 
+**
 
-                     (b)  the person was paid benefits before, on or after the sale day out of the Consolidated Revenue Fund;
+ <dl compact="">
+
+<dt>(1)</dt><dd>A notice published in the _Gazette_ before the sale day that declares
+
+a CSL body to be a body corporate to which the SRC Act applies for the purposes
+
+of the definition of _Commonwealth authority_ in subsection 4(1) of
+
+the SRC Act is to have effect on and after the sale day as if it did not
+
+contain a reference to the CSL body.</dd> <dt>(2)</dt><dd>Subsection (1) does not prevent the declaration, as affected by that subsection, being amended or revoked by the Minister. </dd> </dl>
+
+<center>**
+
+###  CSL SALE ACT 1993<division>Division 3&#151;Transitional and saving provisions in relation to superannuation and other retirement benefits </division> 
+**</center>
+
+**
+
+###  CSL SALE ACT 1993- SECT 31  Saving&#151;deferred benefits under the _Superannuation Act 1922_ 
+**
+
+<dl compact="">
+
+<dt>(1)</dt><dd>This section applies if, immediately before the sale day, an employee of a
+
+CSL body was a person to whom deferred benefits were applicable under section
+
+119W of the _Superannuation Act 1922_.</dd> <dt>(2)</dt><dd>For the purposes of Division 3 of Part XA of the _Superannuation Act 1922_, the employee is taken to continue in public employment on and after the sale day while the employee continues to be employed by a CSL body.</dd> <dt>(3)</dt><dd>This section is subject to Division 3 of Part XA of the _Superannuation Act 1922_. </dd> </dl>
+
+<center>Back to Top</center>
+
+**
+
+###  CSL SALE ACT 1993- SECT 32  Saving&#151;deferred benefits under the _Superannuation Act 1976_ 
+**
+
+<dl compact="">
+
+<dt>(1)</dt><dd>This section applies if, immediately before the sale day, an employee of a
+
+CSL body was a person to whom deferred benefits were applicable under section
+
+139 of the _Superannuation Act 1976_.</dd> <dt>(2)</dt><dd>For the purposes of Division 3 of Part IX of the _Superannuation Act 1976_, the employee is taken to continue in public employment on and after the sale day while the employee continues to be employed by a CSL body.</dd> <dt>(3)</dt><dd>This section is subject to Division 3 of Part IX of the _Superannuation Act 1976_. </dd> </dl>
+
+**
+
+###  CSL SALE ACT 1993- SECT 33  Saving&#151;period of eligible employment for the purposes of Division 3 of Part IX of the _Superannuation Act 1976_ 
+**
+
+<dl compact="">
+
+<dt>(1)</dt><dd>This section applies if, immediately before the sale day, a period of
+
+employment of a person by a CSL body was a period of eligible employment for
+
+the purposes of Division 3 of Part IX of the _Superannuation Act 1976_.</dd> <dt>(2)</dt><dd>Despite employment by a CSL body having stopped being eligible employment for the purposes of Division 3 of Part IX of the _Superannuation Act 1976_, the period of eligible employment continues to be a period of eligible employment for the purposes of that Division. </dd> </dl>
+
+**
+
+###  CSL SALE ACT 1993- SECT 34  Saving&#151;deferred benefits under the DFRDB Act 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>This section applies if, immediately before the sale day, an employee of a
+
+CSL body was a person to whom deferred benefits were applicable under section
+
+78 of the DFRDB Act.</dd> <dt>(2)</dt><dd>For the purposes of Division 3 of Part IX of the DFRDB Act, the employee is taken to continue in public employment on and after the sale day while the employee continues to be employed by a CSL body.</dd> <dt>(3)</dt><dd>This section is subject to Division 3 of Part IX of the DFRDB Act. </dd> </dl>
+
+**
+
+###  CSL SALE ACT 1993- SECT 35  Saving&#151;period of eligible employment for the purposes of Division 3 of Part IX of the DFRDB Act 
+**
+
+<dl compact="">
+
+<dt>(1)</dt><dd>This section applies if, immediately before the sale day, a period of
+
+employment of a person by a CSL body was a period of eligible employment for
+
+the purposes of Division 3 of Part IX of the DFRDB Act.</dd> <dt>(2)</dt><dd>Despite employment by a CSL body having stopped being eligible employment for the purposes of Division 3 of Part IX of the DFRDB Act, the period of eligible employment continues to be a period of eligible employment for the purposes of that Division. </dd> </dl>
+
+**
+
+###  CSL SALE ACT 1993- SECT 36  Application&#151;_Superannuation Act 1922_ 
+**
+
+ <dl compact="">
+
+		On and after the sale day, section 145 of the _Superannuation Act 1922_
+
+does not apply in relation to a CSL body.
+
+ </dl>
+
+**
+
+###  CSL SALE ACT 1993- SECT 37  Application&#151;_Superannuation Act 1976_ 
+**
+
+ <dl compact="">
+
+		On and after the sale day, a CSL body is not an approved authority for the
+
+purposes of the _Superannuation Act 1976_.
+
+ </dl>
+
+**
+
+###  CSL SALE ACT 1993- SECT 38  Application&#151;_Superannuation Act 1990_ 
+**
+
+ <dl compact="">
+
+		On and after the sale day, a CSL body is not an approved authority for the
+
+purposes of the _Superannuation Act 1990_.
+
+ </dl>
+
+<center>**
+
+###  CSL SALE ACT 1993<division>Division 4&#151;Other transitional and saving provisions </division> 
+**</center>
+
+**
+
+###  CSL SALE ACT 1993- SECT 39  Transitional maternity leave provisions relating to employees of CSL who are not on maternity leave immediately before the sale day 
+**
+
+<center>Back to Top</center>
+
+<dl compact="">
+
+<dt>(1)</dt><dd>This section applies if:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>immediately before the sale day, a person was a female employee of CSL;
+
+and</dd>
+
+<dt>(b)</dt><dd>within 12 months after the sale day, the person would have been entitled
+
+to begin leave granted under the Maternity Leave Act if CSL had continued to be
+
+a prescribed authority for the purposes of that Act.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(2)</dt><dd>On and after the sale day, the Maternity Leave Act continues to apply to
+
+the person in relation to the confinement in respect of which she would have
+
+been entitled to leave as if CSL continues to be a prescribed authority for the
+
+purposes of that Act.
+
+</dd> </dl>
+
+**
+
+###  CSL SALE ACT 1993- SECT 40  Transitional maternity leave provisions relating to employees of CSL who are on maternity leave on or before the sale day 
+**
+
+<dl compact="">
+
+<dt>(1)</dt><dd>This section applies if:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>immediately before the sale day, a person was a female employee of CSL;
+
+and</dd>
+
+<dt>(b)</dt><dd>on the sale day, the person is on leave granted under the Maternity Leave
+
+Act.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(2)</dt><dd>On and after the sale day, the Maternity Leave Act continues to apply to
+
+the person in relation to the confinement in respect of which the leave was
+
+granted as if CSL continues to be a prescribed authority for the purposes of
+
+that Act.
+
+</dd> </dl>
+
+**
+
+###  CSL SALE ACT 1993- SECT 41  Saving&#151;_Crimes (Superannuation Benefits) Act 1989_ 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>Subject to subsection (2), if a person who is an employee of a CSL body
+
+before the sale day committed a corruption offence while such an employee,
+
+then, on and after the sale day, the _Crimes (Superannuation Benefits) Act 1988_ continues to apply in relation to the person in respect of the offence
+
+as if the CSL body continues to be a Commonwealth authority.</dd> <dt>(2)</dt><dd>A superannuation order may not be made under the _Crimes (Superannuation Benefits) Act 1989_ in relation to employer contributions or benefits paid or payable to a superannuation scheme by a CSL body after the sale day.</dd> <dt>(3)</dt><dd>A superannuation scheme in relation to which employer contributions or benefits are paid or payable by a CSL body is not a superannuation scheme for the purposes of the _Crimes (Superannuation Benefits) Act 1989_ in respect of a corruption offence committed by a person after the sale day.</dd> <dt>(4)</dt><dd>Despite paragraph 19(3)(d) of the _Crimes (Superannuation Benefits) Act 1989_, an order under that paragraph may only specify that an amount paid into the Consolidated Revenue Fund before the sale day by or on behalf of CSL, belongs to the Commonwealth.</dd> <dt>(5)</dt><dd>If: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>a person who was an employee of CSL before the sale day committed a
+
+corruption offence while such an employee; and</dd>
+
+<dt>(b)</dt><dd>the person was paid benefits before, on or after the sale day out of the
+
+Consolidated Revenue Fund;
+
+</dd>
+
+</dl></dl></dl>
 
 then, despite paragraph 19(4)(b) of the _Crimes (Superannuation Benefits) Act 1989_, an order under that paragraph may only specify that an amount equal to the total benefits paid out of the Consolidated Revenue Fund be paid to the Commonwealth.
 
-             (6)  Unless the contrary intention appears, expressions used in this section that are also used in the _Crimes (Superannuation Benefits) Act 1989_ have the same respective meanings as in that Act.
+<dl compact="">
 
-##### <a id="42"></a>42  Saving—_Commonwealth Serum Laboratories Act 1961_
+<dt>(6)</dt><dd>Unless the contrary intention appears, expressions used in this section
 
-                   Despite the repeal of section 40 of the _Commonwealth Serum Laboratories Act 1961_ by Schedule 1, that section continues to apply to CSL in relation to a financial year in which the Commonwealth owns a majority of the voting shares in CSL on a day during that financial year.
+that are also used in the _Crimes (Superannuation Benefits) Act 1989_ have
 
-##### <a id="43"></a>43  Saving—DPP Act
+the same respective meanings as in that Act.
 
-             (1)  Despite the DPP Act ceasing to apply to certain acts, omissions or proceedings in connection with a CSL body because the CSL body stops being an authority of the Commonwealth for the purposes of that Act, that Act continues on and after the sale day to apply in relation to:
+</dd> </dl>
 
-                     (a)  acts or omissions that occurred before the sale day; and
+<center>Back to Top</center>
 
-                     (b)  the taking of civil remedies connected with or arising out of a prosecution that relates to acts or omissions referred to in paragraph (a).
+**
 
-             (2)  In this section:
+###  CSL SALE ACT 1993- SECT 42  Saving&#151;_Commonwealth Serum Laboratories Act 1961_ 
+**
 
-                    <a name="dpp-act"></a>**_DPP Act_** means the _Director of Public Prosecutions Act 1983_.
+ <dl compact="">
 
-##### <a id="44"></a>44  Saving—_Judiciary Act 1903_
+		Despite the repeal of section 40 of the _Commonwealth Serum Laboratories Act 1961_ by Schedule 1, that section continues to apply to CSL in relation
 
-             (1)  Despite section 46 of this Act, section 55E of the _Judiciary Act 1903_ continues to apply in relation to:
+to a financial year in which the Commonwealth owns a majority of the voting
 
-                     (a)  any proceedings to which CSL is a party that were started before the commencement of this section; and
+shares in CSL on a day during that financial year.
 
-                     (b)  any matter that an authorised person, by signed writing, certifies is a matter in relation to which CSL gave written instructions before the commencement of this section to the Australian Government Solicitor; and
+ </dl>
 
-                     (c)  any matter that an authorised person, by signed writing, certifies is a matter involving a claim against CSL in respect of which the Commonwealth has agreed to indemnify CSL;
+**
+
+###  CSL SALE ACT 1993- SECT 43  Saving&#151;DPP Act 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>Despite the DPP Act ceasing to apply to certain acts, omissions or
+
+proceedings in connection with a CSL body because the CSL body stops being an
+
+authority of the Commonwealth for the purposes of that Act, that Act continues
+
+on and after the sale day to apply in relation to:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>acts or omissions that occurred before the sale day; and</dd>
+
+<dt>(b)</dt><dd>the taking of civil remedies connected with or arising out of a
+
+prosecution that relates to acts or omissions referred to in paragraph (a).
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(2)</dt><dd>In this section:
+
+</dd> </dl>
+
+<def><dl compact=""><dl compact="">
+
+_DPP Act_ means the _Director of Public Prosecutions Act 1983_.
+
+ </dl></dl>
+
+**
+
+###  CSL SALE ACT 1993- SECT 44  Saving&#151;_Judiciary Act 1903_ 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>Despite section 46 of this Act, section 55E of the _Judiciary Act 1903_ continues to apply in relation to:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>any proceedings to which CSL is a party that were started before the
+
+commencement of this section; and</dd>
+
+<dt>(b)</dt><dd>any matter that an authorised person, by signed writing, certifies is a
+
+matter in relation to which CSL gave written instructions before the
+
+commencement of this section to the Australian Government Solicitor; and</dd>
+
+<dt>(c)</dt><dd>any matter that an authorised person, by signed writing, certifies is a
+
+matter involving a claim against CSL in respect of which the Commonwealth has
+
+agreed to indemnify CSL;
+
+</dd>
+
+</dl></dl></dl>
 
 as if CSL were a body established by an Act.
 
-             (2)  A document purporting to be a certificate under subsection (1) is, unless the contrary is established, to be taken to be such a certificate.
+<dl compact="">
 
-             (3)  In this section:
+<dt>(2)</dt><dd>A document purporting to be a certificate under subsection (1) is, unless
 
-                    <a name="authorised-person"></a>**_authorised person_** means:
+the contrary is established, to be taken to be such a certificate.</dd> <dt>(3)</dt><dd>In this section: </dd> </dl>
 
-                     (a)  the Secretary to the Attorney-General’s Department; or
+<def><dl compact=""><dl compact="">
 
-                     (b)  an SES employee, or acting SES employee, in that Department.
+_authorised person_ means:
 
-##### <a id="45"></a>45  Saving—_Proceeds of Crime Act 1987_
+ </dl></dl>
 
-             (1)  Despite the amendment of the Proceeds of Crime Regulations by Part 5, section 34C of the _Proceeds of Crime Act 1987_ continues to apply in relation to relevant offences that caused financial loss to CSL that were committed before the sale day as if CSL continued to be a GBE.
+<dl compact=""><dl compact=""><dl compact="">
 
-             (2)  Unless the contrary intention appears, expressions used in this section that are also used in the _Proceeds of Crime Act 1987_ have the same respective meanings as in that Act.
+<dt>(a)</dt><dd>the Secretary to the Attorney-General's Department; or</dd>
 
-<o:p> </o:p>
+<dt>(b)</dt><dd>an SES employee, or acting SES employee, in that Department.
 
-## Part 7—Other provisions relating to the sale of CSL<o:p></o:p>
+</dd>
 
-##### <a id="46"></a>46  CSL not to be established by or under an Act or established by the Commonwealth
+</dl></dl></dl>
 
-             (1)  On and after the sale day, CSL is not taken for the purposes of a law to be:
+**
 
-                     (a)  established by or under an Act; or
+###  CSL SALE ACT 1993- SECT 45  Saving&#151;_Proceeds of Crime Act 1987_ 
+**
 
-                     (b)  established by the Commonwealth;
+ <dl compact="">
+
+<dt>(1)</dt><dd>Despite the amendment of the Proceeds of Crime Regulations by Part 5,
+
+section 34C of the _Proceeds of Crime Act 1987_ continues to apply in
+
+relation to relevant offences that caused financial loss to CSL that were
+
+committed before the sale day as if CSL continued to be a GBE.</dd> <dt>(2)</dt><dd>Unless the contrary intention appears, expressions used in this section that are also used in the _Proceeds of Crime Act 1987_ have the same respective meanings as in that Act. </dd> </dl>
+
+<center>Back to Top</center>
+
+<center>**
+
+###  CSL SALE ACT 1993<part>Part 7&#151;Other provisions relating to the sale of CSL </part>
+**</center>
+
+**
+
+###  CSL SALE ACT 1993- SECT 46  CSL not to be established by or under an Act or established by the Commonwealth 
+**
+
+<dl compact="">
+
+<dt>(1)</dt><dd>On and after the sale day, CSL is not taken for the purposes of a law to
+
+be:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>established by or under an Act; or</dd>
+
+<dt>(b)</dt><dd>established by the Commonwealth;
+
+</dd>
+
+</dl></dl></dl>
 
 unless a law expressly provides otherwise.
 
-             (2)  To avoid doubt, it is declared that subsection (1) does not affect the operation of the _Commonwealth Serum Laboratories Act 1961_ or any other law before the commencement of this section.
+<dl compact="">
 
-             (3)  In subsections (1) and (2):
+<dt>(2)</dt><dd>To avoid doubt, it is declared that subsection (1) does not affect the
 
-                    <a name="law"></a>**_law_** means:
+operation of the _Commonwealth Serum Laboratories Act 1961_ or any other
 
-                     (a)  an Act of the Commonwealth or of a State or Territory; and
+law before the commencement of this section.</dd> <dt>(3)</dt><dd>In subsections (1) and (2): </dd> </dl>
 
-                     (b)  regulations or other instrument made under such an Act.
+<def><dl compact=""><dl compact="">
 
-##### <a id="47"></a>47  Exemption from State and Territory taxes and fees
+_law_ means:
 
-             (1)  No tax is payable under a law of a State or a Territory in respect of:
+ </dl></dl>
 
-                     (a)  an exempt matter; or
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (b)  anything done (including a transaction entered into or an instrument or document made, executed, lodged or given) because of, or for a purpose connected with or arising out of, an exempt matter.
+<dt>(a)</dt><dd>an Act of the Commonwealth or of a State or Territory; and</dd>
 
-             (2)  An authorised person may in writing certify that:
+<dt>(b)</dt><dd>regulations or other instrument made under such an Act.
 
-                     (a)  a specified matter or thing is an exempt matter; or
+</dd>
 
-                     (b)  a specified thing was done (including a transaction entered into, or an instrument or document made, executed, lodged or given) because of, or for a purpose connected with or arising out of, a specified exempt matter.
+</dl></dl></dl>
 
-             (3)  A certificate under subsection (2) is, in all courts and for all purposes, evidence of the matter stated in the certificate.
+**
 
-             (4)  In this section:
+###  CSL SALE ACT 1993- SECT 47  Exemption from State and Territory taxes and fees 
+**
 
-                    <a name="authorised-person"></a>**_authorised person_** means:
+ <dl compact="">
 
-                     (a)  the Minister; or
+<dt>(1)</dt><dd>No tax is payable under a law of a State or a Territory in respect of:
 
-                     (b)  the Secretary to the Department; or
+</dd> </dl>
 
-                     (c)  an SES employee, or acting SES employee, in the Department, authorised by the Secretary, in writing, for the purposes of this section.
+<dl compact=""><dl compact=""><dl compact="">
 
-                    <a name="exempt-matter"></a>**_exempt matter_** means:
+<dt>(a)</dt><dd>an exempt matter; or</dd>
 
-                     (a)  the transfer of property (whether real or personal) by the Commonwealth to a CSL body on or before the sale day; or
+<dt>(b)</dt><dd>anything done (including a transaction entered into or an instrument or
 
-                     (b)  the issue or allotment of shares by a CSL body to the Commonwealth or another person on or before the sale day; or
+document made, executed, lodged or given) because of, or for a purpose
 
-                     (c)  an agreement between the Commonwealth and another person relating to the sale, issue or allotment of shares in a CSL body; or
+connected with or arising out of, an exempt matter.
 
-                     (d)  the transfer of shares in a CSL body by the Commonwealth or a nominee of the Commonwealth to another person; or
+</dd>
 
-                     (e)  the receipt of money (whether before, on or after the sale day) by the Commonwealth, a CSL body or another person acting on behalf of the Commonwealth or a CSL body from persons who are, on or before the sale day, buying or subscribing for shares in CSL; or
+</dl></dl></dl>
 
-                      (f)  the operation of this Act.
+<dl compact="">
 
-                    <a name="tax"></a>**_tax_** means:
+<dt>(2)</dt><dd>An authorised person may in writing certify that:
 
-                     (a)  stamp duty or any other tax; and
+</dd> </dl>
 
-                     (b)  a fee (other than a fee payable under the Corporations Law of a State or a Territory);
+<dl compact=""><dl compact=""><dl compact="">
 
-but does not include a tax or a fee (other than a fee payable under the Corporations Law) specified in a notice signed by the Minister and published in the _Gazette_.
+<dt>(a)</dt><dd>a specified matter or thing is an exempt matter; or</dd>
 
-##### <a id="48"></a>48  Regulations connected with the sale of CSL
+<dt>(b)</dt><dd>a specified thing was done (including a transaction entered into, or an
 
-             (1)  Subsection 48 (2) of the _Acts Interpretation Act 1901_ does not apply to regulations made under any Act that:
+instrument or document made, executed, lodged or given) because of, or for a
 
-                     (a)  are connected with the sale of CSL; and
+purpose connected with or arising out of, a specified exempt matter.
 
-                     (b)  include a declaration that the Governor-General is satisfied that they are connected with the sale of CSL; and
+</dd>
 
-                     (c)  are expressed to take effect on the sale day.
+</dl></dl></dl>
 
-             (2)  Regulations covered by subsection (1) take effect on the sale day.
+<dl compact="">
 
-##### <a id="49"></a>49  Cessation of mobility rights
+<dt>(3)</dt><dd>A certificate under subsection (2) is, in all courts and for all purposes,
 
-             (1)  If Division 2 or 3 of Part IV of the _Public Service Act 1922_ applied to an employee of a CSL body immediately before the sale day, then that Division stops applying to the employee on the sale day.
+evidence of the matter stated in the certificate.</dd> <dt>(4)</dt><dd>In this section: </dd> </dl>
 
-             (2)  If Division 4 of Part IV of the _Public Service Act 1922_ applied to an employee of a CSL body immediately before the sale day, then:
+<def><dl compact=""><dl compact="">
 
-                     (a)  the _Officers’ Rights Declaration Act 1928_; and
+_authorised person_ means:
 
-                     (b)  Division 4 of Part IV of the _Public Service Act 1922_;
+ </dl></dl>
 
-stop applying to the employee on the sale day.
+<dl compact=""><dl compact=""><dl compact="">
 
-##### <a id="50"></a>50  Refund of contribution paid under the _Occupational Health and Safety (Commonwealth Employment) Act 1991_
+<dt>(a)</dt><dd>the Minister; or</dd>
 
-             (1)  If a CSL body has paid a contribution to the cost of the administration of the _Occupational Health and Safety (Commonwealth Employment) Act 1991_ under section 67H of that Act in respect of the financial year in which the sale day occurs, then the CSL body is entitled to be paid the amount worked out using the following formula:
+<dt>(b)</dt><dd>the Secretary to the Department; or</dd>
 
-<v:shape id="_x0000_i1027" style="WIDTH: 147pt; HEIGHT: 42pt" o:ole="" type="#_x0000_t75" coordsize="21600,21600" fillcolor="winColor(17)"><v:imagedata o:title="" src="678AFF3929DEDD8CCA256FB900307155/$FILE/image005.wmz"></v:imagedata></v:shape>
+<dt>(c)</dt><dd>an SES employee, or acting SES employee, in the Department, authorised by
+
+the Secretary, in writing, for the purposes of this section.
+
+</dd>
+
+</dl></dl></dl>
+
+<def><dl compact=""><dl compact="">
+
+_exempt matter_ means:
+
+ </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the transfer of property (whether real or personal) by the Commonwealth to
+
+a CSL body on or before the sale day; or</dd>
+
+<dt>(b)</dt><dd>the issue or allotment of shares by a CSL body to the Commonwealth or
+
+another person on or before the sale day; or</dd>
+
+<dt>(c)</dt><dd>an agreement between the Commonwealth and another person relating to the
+
+sale, issue or allotment of shares in a CSL body; or</dd>
+
+<dt>(d)</dt><dd>the transfer of shares in a CSL body by the Commonwealth or a nominee of
+
+the Commonwealth to another person; or</dd>
+
+<dt>(e)</dt><dd>the receipt of money (whether before, on or after the sale day) by the
+
+Commonwealth, a CSL body or another person acting on behalf of the Commonwealth
+
+or a CSL body from persons who are, on or before the sale day, buying or
+
+subscribing for shares in CSL; or</dd>
+
+<dt>(f)</dt><dd>the operation of this Act.
+
+</dd>
+
+</dl></dl></dl>
+
+<center>Back to Top</center>
+
+<def><dl compact=""><dl compact="">
+
+_tax_ means:
+
+ </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>stamp duty or any other tax; and</dd>
+
+<dt>(b)</dt><dd>a fee (other than a fee payable under the Corporations Law of a State or a
+
+Territory);
+
+</dd>
+
+</dl></dl></dl>
+
+but does not include a tax or a fee (other than a fee payable under the Corporations Law) specified in a notice signed by the Minister and published in the _Gazette_. 
+
+**
+
+###  CSL SALE ACT 1993- SECT 48  Regulations connected with the sale of CSL 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>Subsection 48 (2) of the _Acts Interpretation Act 1901_ does not
+
+apply to regulations made under any Act that:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>are connected with the sale of CSL; and</dd>
+
+<dt>(b)</dt><dd>include a declaration that the Governor-General is satisfied that they are
+
+connected with the sale of CSL; and</dd>
+
+<dt>(c)</dt><dd>are expressed to take effect on the sale day.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(2)</dt><dd>Regulations covered by subsection (1) take effect on the sale day.
+
+</dd> </dl>
+
+**
+
+###  CSL SALE ACT 1993- SECT 49  Cessation of mobility rights 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>If Division 2 or 3 of Part IV of the _Public Service Act 1922_
+
+applied to an employee of a CSL body immediately before the sale day, then that
+
+Division stops applying to the employee on the sale day.</dd> <dt>(2)</dt><dd>If Division 4 of Part IV of the _Public Service Act 1922_ applied to an employee of a CSL body immediately before the sale day, then: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the _Officers&apos; Rights Declaration Act 1928_; and</dd>
+
+<dt>(b)</dt><dd>Division 4 of Part IV of the _Public Service Act 1922_;
+
+</dd>
+
+</dl></dl></dl>
+
+stop applying to the employee on the sale day. 
+
+**
+
+###  CSL SALE ACT 1993- SECT 50  Refund of contribution paid under the _Occupational Health and Safety (Commonwealth Employment) Act 1991_ 
+**
+
+<dl compact="">
+
+<dt>(1)</dt><dd>If a CSL body has paid a contribution to the cost of the administration of
+
+the _Occupational Health and Safety (Commonwealth Employment) Act 1991_
+
+under section 67H of that Act in respect of the financial year in which the
+
+sale day occurs, then the CSL body is entitled to be paid the amount worked out
+
+using the following formula:
+
+</dd> </dl>
+
+<sub> ![A graphic exists here.](http://www.comlaw.gov.au/Details/C2004C00800/Html/3281D95DBF282FD2CA256F710050DB6B/$FILE/1203.gif)</sub>
 
 where:
 
-                    <a name="contribut"></a>**_Contribution_** means the contribution paid by the CSL body in respect of that financial year.
+<def><dl compact=""><dl compact="">
 
-                    <a name="no-refund-dai"></a>**_No. of refund days_** means the total number of days in the period beginning on the sale day and ending on the last day of the financial year in which the sale day occurs.
+_Contribution_ means the contribution paid by the CSL body in
 
-             (2)  An amount to which a CSL body is entitled under subsection (1) must be paid out of the Consolidated Revenue Fund, which is appropriated accordingly.
+respect of that financial year. _No. of refund days_ means the total number of days in the period beginning on the sale day and ending on the last day of the financial year in which the sale day occurs.  </dl></dl>
 
-##### <a id="51"></a>51  CSL body not to be eligible or relevant body for the purposes of the _Superannuation Benefits (Supervisory Mechanisms) Act 1990_
+<dl compact="">
 
-             (1)  A notice published in the _Gazette_ before the sale day that declares a CSL body to be an eligible body for the purposes of the Supervisory Mechanisms Act is to have effect on and after the sale day as if it did not contain a reference to the CSL body.
+<dt>(2)</dt><dd>An amount to which a CSL body is entitled under subsection (1) must be
 
-             (2)  A notice published in the _Gazette_ before the sale day that declares a CSL body to be a relevant body for the purposes of the Supervisory Mechanisms Act is to have effect on and after the sale day as if it did not contain a reference to the CSL body.
+paid out of the Consolidated Revenue Fund, which is appropriated accordingly.
 
-             (3)  Neither subsection (1) nor (2) prevents the declaration as affected by that subsection being amended or revoked by the Minister.
+</dd> </dl>
 
-             (4)  In subsection (3):
+**
 
-                    <a name="minist"></a>**_Minister_** has the same meaning as in the Supervisory Mechanisms Act.
+###  CSL SALE ACT 1993- SECT 51  CSL body not to be eligible or relevant body for the purposes of the _Superannuation Benefits (Supervisory Mechanisms) Act 1990_ 
+**
 
-##### <a id="52"></a>52  Ending CSL’s liability under the _Commonwealth Borrowing Levy Act 1987_
+<dl compact="">
 
-             (1)  Subject to subsection (2), CSL is not liable on or after the sale day to pay an amount of levy imposed by the _Commonwealth Borrowing Levy Act 1987_ on a borrowing undertaken before the sale day.
+<dt>(1)</dt><dd>A notice published in the _Gazette_ before the sale day that declares
 
-             (2)  Subsection (1) does not apply in relation to an amount of levy that was paid or payable before the sale day.
+a CSL body to be an eligible body for the purposes of the Supervisory
 
-##### <a id="53"></a>53  Amendments of other Acts
+Mechanisms Act is to have effect on and after the sale day as if it did not
 
-                   The Acts specified in Schedule 2 are amended as set out in that Schedule.
+contain a reference to the CSL body.</dd> <dt>(2)</dt><dd>A notice published in the _Gazette_ before the sale day that declares a CSL body to be a relevant body for the purposes of the Supervisory Mechanisms Act is to have effect on and after the sale day as if it did not contain a reference to the CSL body.</dd> <dt>(3)</dt><dd>Neither subsection (1) nor (2) prevents the declaration as affected by that subsection being amended or revoked by the Minister.</dd> <dt>(4)</dt><dd>In subsection (3): </dd> </dl>
 
+<center>Back to Top</center>
 
-# <span style="mso-bookmark: CurrentFind"><span class="CharChapNo">Schedule 1</span>—<span class="CharChapText">Other amendments of the Commonwealth Serum Laboratories Act 1961</span></span><span style="mso-bookmark: CurrentFind"></span>
+<def><dl compact=""><dl compact="">
 
-_Section 8_
+_Minister_ has the same meaning as in the Supervisory Mechanisms Act.
 
-<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid; mso-border-alt: solid windowtext .5pt">
+ </dl></dl>
 
-**Note:<o:p></o:p>**
+**
 
-The amendments made by this Schedule are incorporated in the  compilation on SCALEplus.
+###  CSL SALE ACT 1993- SECT 52  Ending CSL's liability under the _Commonwealth Borrowing Levy Act 1987_ 
+**
 
-Commonwealth Serum Laboratories Act 1961
+<dl compact="">
 
-For access to the wording of the amendments made by this Schedule, _see_ Act No. 88, 1993.</div>
+<dt>(1)</dt><dd>Subject to subsection (2), CSL is not liable on or after the sale day to
 
-<o:p> </o:p>
+pay an amount of levy imposed by the _Commonwealth Borrowing Levy Act 1987_ on a borrowing undertaken before the sale day.</dd> <dt>(2)</dt><dd>Subsection (1) does not apply in relation to an amount of levy that was paid or payable before the sale day. </dd> </dl>
 
-# Schedule 2—Amendments of other Acts
+**
 
-_Section 53_
+###  CSL SALE ACT 1993- SECT 53  Amendments of other Acts 
+**
 
-<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid; mso-border-alt: solid windowtext .5pt">
+ <dl compact="">
 
-**Note:<o:p></o:p>**
+		The Acts specified in Schedule 2 are amended as set out in that Schedule.
 
-The amendments made by this Schedule are incorporated in the compilations on SCALEplus.
+ </dl>
 
-Administrative Decisions (Judicial Review) Act 1977
+<center>**
 
-Commonwealth Borrowing Levy Act 1987
+###  CSL SALE ACT 1993Schedule 1&#151;Other amendments of the Commonwealth Serum Laboratories Act 1961 
+**</center>
 
-Insurance Act 1973
+Section 8	
 
-National Crime Authority Act 1984<span style="FONT-SIZE: 9pt; FONT-STYLE: normal"> \[now cited as</span><span style="FONT-SIZE: 9pt"> </span>Australian Crime Commission Act 2002<span style="FONT-SIZE: 9pt; FONT-STYLE: normal">]</span>
+Note:
+ The amendments made by this Schedule are incorporated in SCALEplus.
 
-Occupational Health and Safety (Commonwealth Employment) Act 1991
+_Commonwealth Serum Laboratories Act 1961_
 
-For access to the wording of the amendments made by this Schedule, _see_ Act No. 88, 1993.</div>
+For access to the wording of the amendments made by this Schedule, click here.
 
+<center>**
 
-# Notes to the _<span style="mso-no-proof: yes">CSL Sale Act 1993</span>_
+###  CSL SALE ACT 1993Schedule 2&#151;Amendments of other Acts 
+**</center>
 
-### Note 1
+Section 53	
+
+Note:
+ The amendments made by this Schedule are incorporated in the current compilations on SCALEplus.
+
+_Administrative Decisions (Judicial Review) Act 1977_
+ _Commonwealth Borrowing Levy Act 1987_
+ _Insurance Act 1973_
+ _National Crime Authority Act 1984_<a></a>
+ [_Occupational Health and Safety (Commonwealth Employment) Act 1991_](../top.htm)
+
+For access to the wording of the amendments made by this Schedule, click here. 
+
+<center>**
+
+###  CSL SALE ACT 1993<centreit>Notes to the _CSL Sale Act 1993_ </centreit>
+**</center>
+
+**Note 1**
 
 The _CSL Sale Act 1993_ as shown in this compilation comprises Act No. 88, 1993 amended as indicated in the Tables below.
 
-For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
+**Table of Acts**
 
-### Table of Acts
+<table><tr align="left">
+  <th colspan="1" align="left">
+    <div>Act</div>
 
-<table>
-<colgroup>
-  <col width="30%">
-  <col width="16%">
-  <col width="18%">
-  <col width="22%">
-  <col width="14%">
-</colgroup>
+  </th>
+  <th colspan="1" align="left">
+    <div>Number 
+and year</div>
 
-<thead>
-  <tr>
-    <td>
-      <div>Act <o:p></o:p> </div>
-    </td>
-    <td>
-      <div>Number 
-and year <o:p></o:p> 
- </div>
-    </td>
-    <td>
-      <div>Date 
-of Assent <o:p></o:p> 
- </div>
-    </td>
-    <td>
-      <div>Date of commencement <o:p></o:p> </div>
-    </td>
-    <td>
-      <div>Application, saving or transitional provisions <o:p></o:p> </div>
-    </td>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>
-      <div>CSL <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"> <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Sale</st1:place> </st1:city>Act 1993</div>
-    </td>
-    <td>
-      <div>88, 1993</div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1993" day="30" month="11">30 Nov 1993</st1:date></div>
-    </td>
-    <td>
-      <div>Part 1, ss. 7 and 47: Royal Assent 
-Ss. 5 and 6: <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1991" day="22" month="2">22 Feb 1991</st1:date> 
-Remainder: <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1994" day="3" month="6">3 June 1994</st1:date>( <i style="mso-bidi-font-style: normal">see Gazette</i>1994, No. S209) 
+  </th>
+  <th colspan="1" align="left">
+    <div>Date 
+of Assent</div>
 
-</div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
-    </td>
-    <td>
-      <div>146, 1999</div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="11" month="11">11 Nov 1999</st1:date></div>
-    </td>
-    <td>
-      <div>Schedule 1 (items 353, 354): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="5" month="12">5 Dec 1999</st1:date>( <i style="mso-bidi-font-style: normal">see Gazette</i>1999, No. S584) <i style="mso-bidi-font-style: normal">(a) <o:p></o:p> </i></div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Financial Framework Legislation Amendment Act 2005</div>
-    </td>
-    <td>
-      <div>8, 2005</div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2005" day="22" month="2">22 Feb 2005</st1:date></div>
-    </td>
-    <td>
-      <div>S. 4 and Schedule 1 (items 126, 496): Royal Assent</div>
-    </td>
-    <td>
-      <div>S. 4 and Sch. 1 (item 496)</div>
-    </td>
-  </tr>
-</tbody></table>
+  </th>
+  <th colspan="1" align="left">
+    <div>Date of commencement</div>
 
+  </th>
+  <th colspan="1" align="left">
+    <div>Application, saving or transitional provisions</div>
 
-_(a)_     The _CSL_<st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">_Sale_</st1:place></st1:city>_Act 1993_ was amended by Schedule 1 (items 353 and 354) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+  </th>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>CSL Sale Act 1993</i></div>
 
-                 (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
+  </td>
+  <td colspan="1" align="left">
+    <div>88, 1993</div>
 
-                 (2)   Subject to this section, this Act commences at the commencing time.
+  </td>
+  <td colspan="1" align="left">
+    <div>30 Nov 1993</div>
 
+  </td>
+  <td colspan="1" align="left">
+    <div>Part 1, ss. 7 and 47: Royal Assent 
+Ss. 5 and 6: 22 Feb 1991 
+Remainder: 3 June 1994 ( <i>see Gazette</i>1994, No. S209)</div>
 
-## Table of Amendments
+  </td>
+  <td colspan="1" align="left">
 
-<table>
-<colgroup>
-  <col width="34%">
-  <col width="66%">
-</colgroup>
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Public Employment (Consequential and Transitional) Amendment Act 1999</i></div>
 
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted  am. = amended  rep. = repealed  rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected <o:p></o:p> </div>
-    </td>
-    <td>
-      <div>How affected <o:p></o:p> </div>
-    </td>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>
-      <div>S. 41 </div>
-    </td>
-    <td>
-      <div>am. No. 8, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 44 </div>
-    </td>
-    <td>
-      <div>am. No. 146, 1999</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 47 </div>
-    </td>
-    <td>
-      <div>am. No. 146, 1999</div>
-    </td>
-  </tr>
-</tbody></table>
+  </td>
+  <td colspan="1" align="left">
+    <div>146, 1999</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>11 Nov 1999</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Schedule 1 (items 353, 354): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(a)</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
+  </td>
+</tr></table>
+
+_(a)_	The _CSL Sale Act 1993_ was amended by Schedule 1 (items 353 and 354) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+
+	(1)	In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
+ 	(2)	Subject to this section, this Act commences at the commencing time.
+
+**Table of Amendments**
+
+ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted 
+
+<table><tr align="left">
+  <td colspan="1" align="left">
+    <div>Provision affected</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>How affected</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 44</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No. 146, 1999</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 47</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No. 146, 1999</div>
+
+  </td>
+</tr></table>
+
+</def>
+
+</def></def>
+
+</def></def></def>
+
+</def></def>
+
+</def></def>
+
+</def></def>
+
+</def>
 
 
-## Table A
-
-### Application, saving or transitional provisions
-
-_Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)<o:p></o:p>_
-
-##### <a id="4"></a>4  Saving of matters in Part 2 of Schedule 1
-
-             (1)  If:
-
-                     (a)  a decision or action is taken or another thing is made, given or done; and
-
-                     (b)  the thing is taken, made, given or done under a provision of a Part 2 Act that had effect immediately before the commencement of this Act;
-
-then the thing has the corresponding effect, for the purposes of the Part 2 Act as amended by this Act, as if it had been taken, made, given or done under the Part 2 Act as so amended.
-
-             (2)  In this section:
-
-                    <a name="part-act"></a>**_Part 2 Act_** means an Act that is amended by an item in Part 2 of Schedule 1.
-
-## Schedule 1<o:p></o:p>
-
-## 496  Saving provision—Finance Minister’s determinations
-
-If a determination under subsection 20(1) of the _Financial Management and Accountability Act 1997_ is in force immediately before the commencement of this item, the determination continues in force as if it were made under subsection 20(1) of that Act as amended by this Act.
-
-
-<o:p> </o:p>
