@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00303/Html/InteMoneAgmts1947WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00420/Html/InteMoneAgmts1947WD02_image001.gif)
 
 # International Monetary Agreements Act 1947
 
 **Act No. 5 of 1947 as amended**
 
-This compilation was prepared on 7 July 2009
- taking into account amendments up to Act No. 57 of 2009
+This compilation was prepared on 10 July 2008
+ taking into account amendments up to Act No. 73 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -46,8 +46,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [8C](#8C).         Financial assistance by Australia in support of Fund programs
 
-[8CA](#8CA).      Financial assistance by Australia in support of World Bank or Asian Development Bank programs
-
 [8D](#8D).         Public release and tabling of national interest statement
 
 [8E](#8E).          Contents of national interest statement
@@ -68,7 +66,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Notes** 
 
-## An Act to approve of Australia becoming a Member of the International Monetary Fund and of the International Bank for Reconstruction and Development and to make such provisions as are necessary or expedient in relation to Australia’s membership of the Fund and Bank, or in relation to Australia’s support of the Fund and its programs, or in relation to Australia’s support of the World Bank organisations and the Asian Development Bank and their programs
+## An Act to approve of Australia becoming a Member of the International Monetary Fund and of the International Bank for Reconstruction and Development and to make such provisions as are necessary or expedient in relation to Australia’s membership of the Fund and Bank, or in relation to Australia’s support of the Fund and its programs
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
 
@@ -81,8 +79,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 ##### <a id="3"></a>3  Interpretation
 
              (1)  In this Act, unless the contrary intention appears:
-
-                    <a name="asian-develop-bank"></a>**_Asian Development Bank_** means the Bank referred to in the _Asian Development Bank Act 1966_.
 
                     <a name="bank"></a>**_Bank_** means the International Bank for Reconstruction and Development referred to in the Bank Agreement.
 
@@ -101,18 +97,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
                     <a name="special-draw-right-depart"></a>**_Special Drawing Rights Department_** means the Special Drawing Rights Department maintained by the Fund under the Fund Agreement.
 
                     <a name="valu"></a>**_value_**, in relation to special drawing rights, means the amount that is the equivalent in the currency of Australia of the value of the rights as fixed under the Fund Agreement.
-
-                    <a name="world-bank-organis"></a>**_World Bank organisation_** means any of the following:
-
-                     (a)  the International Bank for Reconstruction and Development referred to in the Bank Agreement;
-
-                     (b)  the International Development Association (referred to in the _International Development Association Act 1960_);
-
-                     (c)  the International Finance Corporation (referred to in the _International Finance Corporation Act 1955_);
-
-                     (d)  the Multilateral Investment Guarantee Agency (referred to in the _Multilateral Investment Guarantee Agency Act 1997_);
-
-                     (e)  the International Centre for Settlement of Investment Disputes (referred to in the _International Centre for Settlement of Investment Disputes (Privileges and Immunities) Regulations 1991_).
 
 ##### <a id="4"></a>4  Membership of Australia of the Fund and of the Bank
 
@@ -226,29 +210,9 @@ then the Treasurer, on behalf of Australia, may enter into an agreement that pro
 
              (5)  Payments referred to in subsection (3), and transactions in relation to those payments, are not liable to taxation under any law of the Commonwealth or of a State or Territory.
 
-##### <a id="8CA"></a>8CA  Financial assistance by Australia in support of World Bank or Asian Development Bank programs
-
-             (1)  If, for a program of a World Bank organisation or of the Asian Development Bank:
-
-                     (a)  that organisation or Bank requests Australia to provide assistance to another country (the **_recipient country_**) in support of the program for the benefit of the recipient country; and
-
-                     (b)  the Minister is satisfied that at least one other government or organisation has provided, or intends to provide, financial assistance to the recipient country in response to the same or a similar program of that organisation or Bank;
-
-then the Minister, on behalf of Australia, may enter into an agreement that provides for Australia to lend money to the recipient country or to enter into a currency swap with the recipient country.
-
-Note:          The condition in paragraph (1)(b) would be satisfied if, for example, the Minister is satisfied that the Asian Development Bank intends to provide financial assistance to the recipient country in response to a program of a World Bank organisation.
-
-             (2)  For the purposes of paragraph (1)(b), disregard financial assistance provided, or to be provided, by a World Bank organisation in response to a program of another World Bank organisation.
-
-             (3)  An agreement under subsection (1) must provide for Australia to be able to require early repayment in the event of the suspension, or premature termination, of the program referred to in paragraph (1)(a).
-
-             (4)  The Consolidated Revenue Fund is appropriated for the purposes of payments by Australia under, or in connection with, an agreement made under subsection (1).
-
-             (5)  Payments referred to in subsection (4), and transactions in relation to those payments, are not liable to taxation under any law of the Commonwealth or of a State or Territory.
-
 ##### <a id="8D"></a>8D  Public release and tabling of national interest statement
 
-             (1)  The Treasurer is to publicly release and table in each House of the Parliament a national interest statement relating to an agreement entered into by Australia under section 8C or 8CA as soon as practicable after Australia has entered into the agreement.
+             (1)  The Treasurer is to publicly release and table in each House of the Parliament a national interest statement relating to an agreement entered into by Australia under section 8C as soon as practicable after Australia has entered into the agreement.
 
              (2)  If a House of the Parliament is not sitting when the Treasurer publicly releases a national interest statement, he or she is to table the statement in that House of the Parliament as soon as practicable after it next sits.
 
@@ -2483,7 +2447,7 @@ Section 12.  _Form of holdings of currency_
 
      The Bank shall accept from any member, in place of any part of the member’s currency, paid in to the Bank under Article II, Section 7 (i), or to meet amortization payments on loans made with such currency, and not needed by the Bank in its operations, notes or similar obligations issued by the Government of the member or the depository designated by such member, which shall be non-negotiable, non-interest-bearing and payable at their par value on demand by credit to the account of the Bank in the designated depository.
 
-Section 13.  _Publication of reports and provision of information_
+Section 13\.  _Publication of reports and provision of information_
 
      (_a_)  The Bank shall publish an annual report containing an audited statement of its accounts and shall circulate to members at intervals of three months or less a summary statement of its financial position and a profit and loss statement showing the results of its operation.
 
@@ -4031,7 +3995,7 @@ of Assent</div>
   </td>
   <td>
     <div>Ss. 1-5 and 10: Royal Assent 
-Remainder: 4 Sept 1969 ( <i>see Gazette</i>1969, p. 5199)</div>
+Remainder: 4 Sept 1969 ( <i>see Gazette</i>1969, p. 5199)</div>
   </td>
   <td>
     <div>Ss. 3(2), 4 and 5</div>
@@ -4082,7 +4046,7 @@ Remainder: 4 Sept 1969 ( <i>see Gazette</i>1969, p. 5199)</div>
     <div>6 Dec 1991</div>
   </td>
   <td>
-    <div>Part 3 (s. 8): 16 Dec 1992 ( <i>see Gazette</i>1993, No. GN50) 
+    <div>Part 3 (s. 8): 16 Dec 1992 ( <i>see Gazette</i>1993, No. GN50) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -4152,7 +4116,7 @@ Remainder: Royal Assent</div>
     <div>22 Feb 2005</div>
   </td>
   <td>
-    <div>S. 4 and Schedule 1 (items 160, 496): Royal Assent</div>
+    <div>S. 4 and Schedule 1 (items 160, 496): Royal Assent</div>
   </td>
   <td>
     <div>S. 4 and Sch. 1 (item 496) \[ <i>see</i>Table A]</div>
@@ -4170,23 +4134,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Schedule 4 (item 351): 4 July 2008</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>International Monetary Agreements Amendment (Financial Assistance) Act 2009</div>
-  </td>
-  <td>
-    <div>57, 2009</div>
-  </td>
-  <td>
-    <div>26 June 2009</div>
-  </td>
-  <td>
-    <div>26 June 2009</div>
   </td>
   <td>
     <div>—</div>
@@ -4231,7 +4178,7 @@ Note:          The Fourth Amendment of the Articles of Agreeme
     <div>Title</div>
   </td>
   <td>
-    <div>am. No. 28, 1998; No. 57, 2009</div>
+    <div>am. No. 28, 1998</div>
   </td>
 </tr>
 <tr>
@@ -4255,7 +4202,7 @@ Note:          The Fourth Amendment of the Articles of Agreeme
     <div></div>
   </td>
   <td>
-    <div>am. No. 97, 1978; No. 127, 1997; No. 57, 2009</div>
+    <div>am. No. 97, 1978; No. 127, 1997</div>
   </td>
 </tr>
 <tr>
@@ -4412,39 +4359,7 @@ Note:          The Fourth Amendment of the Articles of Agreeme
 </tr>
 <tr>
   <td>
-    <div>S. 8C</div>
-  </td>
-  <td>
-    <div>ad. No. 28, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8CA</div>
-  </td>
-  <td>
-    <div>ad. No. 57, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8D</div>
-  </td>
-  <td>
-    <div>ad. No. 28, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 57, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 8E, 8F</div>
+    <div>Ss. 8C-8F</div>
   </td>
   <td>
     <div>ad. No. 28, 1998</div>
@@ -4508,8 +4423,7 @@ Note:          The Fourth Amendment of the Articles of Agreeme
 </tr>
 <tr>
   <td>
-    <div>Heading to Second 
-Schedule</div>
+    <div>Heading to Second Schedule</div>
   </td>
   <td>
     <div>rep. No. 97, 1978</div>
@@ -4574,7 +4488,7 @@ Schedule</div>
 
 ### Note 2
 
-_International Monetary Agreements Amendment Act (No. 1) 2001 (No. 1, 2001)_
+_International Monetary Agreements Amendment Act (No. 1) 2001 (No. 1, 2001)_
 
 If the following amendments do not commence by proclamation within the period of 6 months beginning on the day on which the Fourth Amendment of the Articles of Agreement of the Fund enters into force, they commence on the first day after the end of that period:
 
@@ -4624,7 +4538,7 @@ Special One-Time Allocation of Special Drawing Rights
 
             (d)  Except for the provisions of this paragraph, the principle of separation between the General Department and the Special Drawing Rights Department and the unconditional character of special drawing rights as reserve assets shall be maintained.
 
-As at 7 July 2009 the amendments are not incorporated in this compilation.
+As at 2 March 2005 the amendments are not incorporated in this compilation.
 
 ## Table A
 
