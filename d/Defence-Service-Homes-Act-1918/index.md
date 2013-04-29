@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00069/Html/DefServiceHomes1918WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00259/Html/DefServiceHomes1918WD02_image001.gif)
 
 # Defence Service Homes Act 1918
 
 **Act No. 43 of 1918 as amended**
 
-This compilation was prepared on 9 January 2009
- taking into account amendments up to Act No. 144 of 2008
+This compilation was prepared on 2 July 2008
+ taking into account amendments up to Act No. 28 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -1962,15 +1962,15 @@ the following single rate of interest is instead taken to be payable on the bala
 
 _Method statement_
 
-Step 1.    For each different rate of interest payable, multiply the rate by that part of the limit of the advance, or of the limit of the amount, on which the rate is payable, and total the results.
+_Step 1._   For each different rate of interest payable, multiply the rate by that part of the limit of the advance, or of the limit of the amount, on which the rate is payable, and total the results.
 
                    Note:             However, if that limit is nil, see subsection (4).
 
-Step 2.    Divide the total by the limit of the advance or amount.
+_Step 2._   Divide the total by the limit of the advance or amount.
 
-Step 3.    Express the result as a percentage rate per year and round the rate up or down to 2 decimal places (rounding 0.005% up). This is the **_blended interest rate_** for the advance or amount (subject to Steps 4 and 5).
+_Step 3._   Express the result as a percentage rate per year and round the rate up or down to 2 decimal places (rounding 0.005% up). This is the **_blended interest rate_** for the advance or amount (subject to Steps 4 and 5).
 
-Step 4.    If:
+_Step 4._   If:
 
                (a)     the result from Step 3 is less than 6.85% per year but not less than 6.67% per year; and
 
@@ -1978,7 +1978,7 @@ Step 4.    If:
 
               the **_blended interest rate_** is instead 6.85% per year.
 
-Step 5.    If:
+_Step 5._   If:
 
                (a)     the result from Step 3 is less than 4.5% per year but not less than 4.45% per year; and
 
@@ -1996,7 +1996,7 @@ Example:    Assume that the limit of an advance is $4,000\. Interest is pa
 
                    The Step 1 calculations are:
 
-![](http://www.comlaw.gov.au/Details/C2009C00069/Html/DefServiceHomes1918WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00259/Html/DefServiceHomes1918WD02_image002.gif)
 
                    Under Step 2, the $310 is divided by the total limit of $4,000, giving a result of 0.0775.
 
@@ -2212,7 +2212,7 @@ Example:    Assume that the limit of an advance is $4,000\. Interest is pa
 
                              (ii)  in respect of which a person has applied for a certificate of entitlement;
 
-                            being materials used in the building of, or otherwise in relation to, the retirement village; or
+                            being materials used in the building of, or otherwise in relation to, the retirement village; or
 
                      (e)  any permanent domestic improvement of a structural kind that has been made to a retirement village referred to in paragraph (a), (b), (c) or (d) and any building materials on the site of, and used in the building of, or in relation to, such an improvement.
 
@@ -2376,7 +2376,7 @@ Note:          The Account was established by subsection 5(3) 
 
 ##### <a id="41"></a>41  Appropriation
 
-                   The following payments by the Commonwealth to a credit provider shall be made out of the Consolidated Revenue Fund, which is appropriated accordingly:
+                   The following payments by the Commonwealth to a credit provider shall be made out of the Consolidated Revenue Fund, which is appropriated accordingly:
 
                      (a)  payments of subsidy;
 
@@ -4039,7 +4039,7 @@ The amount of Subsidy payable by the Commonwealth shall be calculated as set out
 
 (b)   in the event that the total amount of Portfolio Arrears exceeds 0.035 per cent of the aggregate of the Limits on all Subsidised Advance Loan Accounts, the total Subsidy payable pursuant to this Clause shall be reduced by an amount calculated by application of the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00069/Html/DefServiceHomes1918WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00259/Html/DefServiceHomes1918WD02_image003.gif)
 
 where
 
@@ -4526,9 +4526,9 @@ The Commonwealth undertakes to procure the due and proper performance by the Cor
 
 IN WITNESS WHEREOF the parties have executed this Agreement as at the day and year first before written:
 
-![](http://www.comlaw.gov.au/Details/C2009C00069/Html/DefServiceHomes1918WD02_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00259/Html/DefServiceHomes1918WD02_image004.gif)
 
-![](http://www.comlaw.gov.au/Details/C2009C00069/Html/DefServiceHomes1918WD02_image005.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00259/Html/DefServiceHomes1918WD02_image005.gif)
 
 * * *
 
@@ -4689,7 +4689,7 @@ Account Name (full name(s) of borrowers)
 
 Account Number (includes Bank State Branch number)
 
-![](http://www.comlaw.gov.au/Details/C2009C00069/Html/DefServiceHomes1918WD02_image006.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00259/Html/DefServiceHomes1918WD02_image006.gif)
 
 B.    MONTHLY SUBSIDY REPORT—VARIATIONS IN INTEREST ON SPECIFIED PORTFOLIO ASSETS AND BANK ADVANCES (TO BE SUPPLIED ON COMPUTER TAPE)
 
@@ -4701,7 +4701,7 @@ Account Name (full name(s) of borrowers)
 
 Account Number
 
-![](http://www.comlaw.gov.au/Details/C2009C00069/Html/DefServiceHomes1918WD02_image007.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00259/Html/DefServiceHomes1918WD02_image007.gif)
 
 Open/Closed dates
 
@@ -5156,7 +5156,7 @@ This Supplementary Agreement may not be assigned in whole or in part by either p
 
 IN WITNESS WHEREOF the parties have executed this Agreement as at the day and year first before written:
 
-![](http://www.comlaw.gov.au/Details/C2009C00069/Html/DefServiceHomes1918WD02_image008.gif)![](http://www.comlaw.gov.au/Details/C2009C00069/Html/DefServiceHomes1918WD02_image009.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00259/Html/DefServiceHomes1918WD02_image008.gif)![](http://www.comlaw.gov.au/Details/C2008C00259/Html/DefServiceHomes1918WD02_image009.gif)
 
 **SCHEDULE OF AMENDMENTS TO AGREEMENT**
 
@@ -7608,23 +7608,6 @@ Schedule 1 (item 5): 1 Nov 1996 <i>(r)</i></div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008</div>
-  </td>
-  <td>
-    <div>144, 2008</div>
-  </td>
-  <td>
-    <div>9 Dec 2008</div>
-  </td>
-  <td>
-    <div>Schedule 15 (items 1–32): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 15 (items 9, 11) \[ <i>see</i>Table A]</div>
   </td>
 </tr></table>
 
@@ -11199,155 +11182,13 @@ The amendment history of the repealed provisions of the _Defence Service Homes A
   </td>
 </tr></table>
 
-### Note 2
-
-_Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008 (No. 144, 2008)_
-
-The following amendments commence on 1 July 2009:
-
-## Schedule 15
-
-## 1  Subsection 4(1)
-
-Insert:
-
-                    <a name=""></a><a name="de-facto-partner"></a>**_de facto partner_** of a person  has the meaning given by the _Acts Interpretation Act 1901_.
-
-## 2  Subsection 4(1) (subparagraph (a)(ii) of the definition of _dependent parent_)
-
-After “married”, insert “and did not have a de facto partner”.
-
-## 3  Subsection 4(1) (subparagraph (b)(ii) of the definition of _dependent parent_)
-
-Omit “husband or wife”, substitute “spouse or de facto partner”.
-
-## 4  Subsection 4(1) (subparagraph (a)(ii) of the definition of _further advance_)
-
-After “spouse” (wherever occurring), insert “or de facto partner”.
-
-## 5  Subsection 4(1) (paragraph (b) of the definition of _initial advance_)
-
-After “spouse” (wherever occurring), insert “or de facto partner”.
-
-## 6  Subsection 4(1)
-
-Insert:
-
-                    <a name="parent"></a><a name="parent"></a>**_parent_**: without limiting who is a parent of anyone for the purposes of this Act, a person is the **_parent_** of another person if the other person is a child of the person within the meaning of the _Family Law Act 1975_.
-
-## 7  Subsection 4(1) (definition of _Widow_)
-
-Repeal the definition.
-
-## 8  Subsection 4(1)
-
-Insert:
-
-                    <a name="widow"></a>**_widow_** of a person who has died includes a woman who was a de facto partner of the person immediately before the person died.
-
-## 10  Subsection 4(1) (definition of _widower_)
-
-Repeal the definition, substitute:
-
-                    <a name="widow"></a>**_widower_** of a person who has died includes a man who was a de facto partner of the person immediately before the person died.
-
-## 12  Paragraphs 4(2AB)(a) and (b)
-
-Omit “husband” (wherever occurring), substitute “spouse or de facto partner”.
-
-## 13  Paragraph 4(2AC)(d)
-
-Omit “wife”, substitute “spouse or de facto partner”.
-
-## 14  Paragraph 4(2AC)(d)
-
-Omit “he and she”, substitute “they”.
-
-## 15  Paragraph 4(2AC)(e)
-
-Omit “wife” (wherever occurring), substitute “spouse or de facto partner”.
-
-## 16  Subsections 4(3A), (3B) and (3C)
-
-Repeal the subsections.
-
-## 17  Subsection 4(8)
-
-After “spouse”, insert “or de facto partner”.
-
-## 18  Paragraph 4(13)(b)
-
-After “spouse” (wherever occurring), insert “or de facto partner”.
-
-## 19  Subsections 4A(1) and (3)
-
-Omit “wife or husband” (wherever occurring), substitute “spouse or de facto partner”.
-
-_Note:       The heading to section 4A is altered by inserting “or de facto partner” after “spouse”._
-
-## 20  Paragraphs 17A(1)(a) and (b)
-
-Omit “wife or husband”, substitute “spouse or de facto partner”.
-
-## 21  Paragraphs 18(1)(a) and (e)
-
-Omit “husband or wife” (wherever occurring), substitute “spouse or de facto partner”.
-
-## 22  Subparagraph 20(1)(a)(i)
-
-Omit “, widowed mother or widowed father”, substitute “ or a widowed parent”.
-
-## 23  Subparagraph 20(1)(a)(ii)
-
-Omit “the wife or husband”, substitute “a spouse or de facto partner”.
-
-## 24  Subparagraph 23(1)(a)(ii)
-
-Omit “the widowed mother or widowed father”, substitute “a widowed parent”.
-
-## 25  Subparagraph 23(1)(a)(iii)
-
-Omit “the wife or husband”, substitute “a spouse or de facto partner”.
-
-## 26  Subsection 26(4)
-
-Omit “the husband or wife”, substitute “a spouse or de facto partner”.
-
-## 27  Paragraphs 27A(1)(c) and (2)(c)
-
-Omit “wife or husband”, substitute “spouse or de facto partner”.
-
-## 28  Subsection 27A(3)
-
-Omit “a wife and husband”, substitute “2 persons who are spouses or de facto partners of each other”.
-
-## 29  Paragraph 27A(3)(a)
-
-Omit “the wife and husband”, substitute “spouses or de facto partners”.
-
-## 30  Paragraph 27A(3)(b)
-
-Omit “wife or the death of the husband, whichever is the later”, substitute “spouse or de facto partner who died last”.
-
-## 31  Paragraph 38C(1)(gb)
-
-Omit “wife or husband”, substitute “spouse or de facto partner”.
-
-## 32  Subsection 45A(2)
-
-Omit “a husband and wife”, substitute “2 persons who are spouses or de facto partners of each other”.
-
-As at 9 January 2009 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, Saving or Transitional Provisions
 
 _Veterans’ Affairs Legislation Amendment Act (No. 1) 1996 (No. 55, 1996)_
 
-## Schedule 1
-
-## 7  Commencement, transitional and saving provisions
+## 7  Commencement, transitional and saving provisions
 
              (1)  Item 5 commences, or is taken to have commenced, on:
 
@@ -11376,8 +11217,6 @@ _Veterans’ Affairs Legislation Amendment Act (No. 1) 1996 (No. 55, 1996)_
 * * *
 
 _Defence Service Homes Amendment Act 1997 (No. 183, 1997)_
-
-## Schedule 1
 
 ## 10  Application of amendments
 
@@ -11409,20 +11248,6 @@ then the thing has the corresponding effect, for the purposes of the Part 2 Ac
 
 If a determination under subsection 20(1) of the _Financial Management and Accountability Act 1997_ is in force immediately before the commencement of this item, the determination continues in force as if it were made under subsection 20(1) of that Act as amended by this Act.
 
-* * *
-
-_Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008 (No. 144, 2008)_
-
-The following provisions commence on 1 July 2009:
-
-## Schedule 15
-
-## 9  Application of amendment of definition of _widow_
-
-The amendment of the definition of **_widow_** in subsection 4(1) of the _Defence Service Homes Act 1918_ made by this Schedule  applies in relation to someone whose de facto partner dies on or after the commencement of the amendment.
-
-## 11  Application of amendment of definition of _widower_
-
-The amendment of the definition of **_widower_** in subsection 4(1) of the _Defence Service Homes Act 1918_ made by this Schedule  applies in relation to someone whose de facto partner dies on or after the commencement of the amendment.
+ 
 
  
