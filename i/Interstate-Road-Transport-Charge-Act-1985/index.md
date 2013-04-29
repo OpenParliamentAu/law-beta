@@ -1,17 +1,14 @@
-![](http://www.comlaw.gov.au/Details/C2009C00082/Html/IntstateRdTransptCh1985_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00049/Html/IntstateRdTransptCh1985_image001.gif)
 
 # Interstate Road Transport Charge Act 1985
 
 **Act No. 131 of 1985 as amended**
 
-This compilation was prepared on 12 February 2009
+This compilation was prepared on 6 January 2009
  taking into account amendments up to Act No. 147 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
-
-The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
  Attorney-General’s Department, Canberra
@@ -24,21 +21,31 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [3](#3).            Interstate Road Transport Act
 
-[3A](#3A).         Definitions
-
-[3B](#3B).         Close-spaced axles
-
-[3C](#3C).         Determination of number of trailers
-
 [4](#4).            Imposition of charge
 
 [5](#5).            Amount of charge
 
+[5A](#5A).         Automatic increase of amounts of charge
+
+[6](#6).            Regulations may decrease amounts of charge
+
 [7](#7).            Regulations
+
+**Schedule** 
+
+**Part 1—Interpretation** 
+
+**Part 2—Annual registration charges**
+
+[1](#1).            Load carrying vehicles
+
+[2](#2).            Load carrying trailer, converter dolly and low loader dolly
+
+[3](#3).            Buses
 
 **Notes** 
 
-## An Act to impose a charge by way of or in the nature of a tax in respect of the registration of a vehicle under the _Interstate Road__Transport Act 1985_
+## An Act to impose a charge by way of or in the nature of a tax in respect of the registration of a motor vehicle or trailer under the _Interstate Road Transport Act 1985_
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
 
@@ -57,6 +64,806 @@ Prepared by the Office of Legislative Drafting and Publishing,
              (1)  The _Interstate Road__Transport Act 1985_ is incorporated and shall be read as one with this Act.
 
              (2)  Section 5 of the _Interstate Road__Transport Act 1985_ applies in relation to this Act in like manner as it applies in relation to Parts II and III of that Act.
+
+##### <a id="4"></a>4  Imposition of charge
+
+             (1)  Subject to subsection (2), a charge is imposed on the registration of a motor vehicle or trailer mentioned in Part 2 of the Schedule.
+
+             (2)  Subsection (1) does not apply to motor vehicles or trailers, or motor vehicles or trailers included in a class of motor vehicles or trailers, that are exempt from charge under the regulations.
+
+##### <a id="5"></a>5  Amount of charge
+
+             (1)  The amount of charge in respect of the registration of a motor vehicle or trailer referred to in Part 2 of the Schedule in relation to a year commencing on 1 July 1995 and subsequent years is the amount applicable under subsection (1A) or (1B), as the case may be.
+
+          (1A)  If the registration is for 1 year, the amount of the charge is the amount applicable to motor vehicles or trailers of that kind under the Schedule.
+
+          (1B)  If the registration is for less than 1 year, the amount of the charge is the amount worked out using the formula:
+
+![](http://www.comlaw.gov.au/Details/C2009C00049/Html/IntstateRdTransptCh1985_image002.gif)
+
+where:
+
+                    <a name="charg-year"></a>**_charge for 1 year_** means the amount that would be the charge if the registration were for 1 year.
+
+                    <a name="period-registr"></a>**_period of registration_** means the number of days in the period of the registration.
+
+             (2)  If a motor vehicle or trailer falls within 2 or more categories specified in Part 2 of the Schedule, the registration charge for the vehicle is the higher or highest of the charges that could apply to the vehicle.
+
+##### <a id="5A"></a>5A  Automatic increase of amounts of charge
+
+             (1)  This section applies to the charges determined in accordance with the Schedule (including charges whose amounts have already been changed by a previous application or applications of this section or of regulations made for the purposes of section 6).
+
+             (2)  At the start of 1 July of each year, beginning with 1 July 2002, the amount of each of those charges is increased, from the amount that applied immediately before that 1 July, by the same percentage amount as is determined for the purposes of section 3A of the _Road Transport Charges (__Australian Capital Territory__) Act 1993_.
+
+Note:          In some circumstances, this rule can result in no increases occurring on a particular 1 July: see Part 4 of the Schedule to the _Road Transport Charges (__Australian Capital Territory__) Act 1993_.
+
+             (3)  As soon as practicable, the Secretary must publish in the _Gazette_ a statement setting out the new amounts of charge that apply under this section.
+
+##### <a id="6"></a>6  Regulations may decrease amounts of charge
+
+             (1)  The regulations may decrease the amounts of charge that apply under sections 5 and 5A in relation to a year.
+
+             (2)  Such regulations must not decrease any amount of charge by more than 5% of the amount of charge that would apply in relation to the year if no regulations were made for the purposes of this section in relation to that year.
+
+##### <a id="7"></a>7  Regulations
+
+                   The Governor-General may make regulations for the purposes of subsection 4(2) and section 6.
+
+# Schedule
+
+_Sections 5, 5A and 6_
+
+## Part 1—Interpretation
+
+              1.  In this Schedule:
+
+                    <a name="articulated-bu"></a>**_articulated bus_** means a bus consisting of more than one rigid section with passenger access between the sections and the sections connected to one another so as to allow rotary movement between the sections.
+
+                    <a name="axl"></a>**_axle_** means one or more shafts positioned in a line across a vehicle, on which one or more wheels intended to support the vehicle turn.
+
+                    <a name="axl-group"></a>**_axle group_** means a single axle group, tandem axle group, twinsteer axle group, tri-axle group or quad-axle group.
+
+                    <a name="bu"></a>**_bus_** means a motor vehicle, built mainly to carry people, that seats more than 9 adults (including the driver).
+
+                    <a name="bu-type"></a>**_bus (type 1)_** means a rigid bus that has 2 axles and an MRC not exceeding 12 tonnes.
+
+                    <a name="type"></a><a name="bu"></a>**_bus_** **_(type 2)_** means:
+
+                     (a)  a rigid bus that has 2 axles and an MRC exceeding 12 tonnes; or
+
+                     (b)  a rigid bus that has 3 axles or 4 axles.
+
+                    <a name="convert-dolli"></a>**_converter dolly_** means a trailer, with one axle group or single axle and a fifth wheel coupling, designed to convert a semi trailer into a dog trailer.
+
+                    <a name="dog-trailer"></a>**_dog trailer_** means a trailer (including a trailer consisting of a semi trailer and converter dolly) with:
+
+                     (a)  one axle group or single axle at the front that is steered by connection to the towing vehicle by a drawbar; and
+
+                     (b)  one axle group or single axle at the rear.
+
+                    <a name="drawbar"></a>**_drawbar_** means a part of a trailer (other than a semi trailer) that connects the trailer body to a coupling for towing purposes.
+
+                    <a name="driver"></a>**_driver_** means the person driving or in control of a motor vehicle.
+
+                    <a name="fifth-wheel-coupl"></a>**_fifth wheel coupling_** means a device, other than the upper rotating element and the kingpin (which are parts of a semi trailer), used with a prime mover, semi trailer or a converter dolly to permit quick coupling and uncoupling and to provide for articulation.
+
+                    <a name="load-carri-trailer"></a>**_load carrying trailer_** means a trailer that is carrying a load or that is built to carry a load.
+
+                    <a name="load-carri-vehicl"></a>**_load carrying vehicle_** means a motor vehicle or trailer designed and constructed to haul or carry goods and wares in addition to any fuel, water, lubricants, tools and any other equipment or accessories necessary for normal operation of the vehicle.
+
+                    <a name="long-combin-prime-mover"></a>**_long combination prime mover_** means a prime mover nominated to haul 2 or more trailers, but does not include a medium combination prime mover.
+
+                    <a name="long-combin-truck"></a>**_long combination truck_** means a truck nominated to haul 2 or more trailers.
+
+                    <a name="low-loader"></a>**_low loader_** means a gooseneck semi trailer with a loading deck no more than 1 metre above the ground.
+
+                    <a name="low-loader-dolli"></a>**_low loader dolly_** means a mass-distributing device that:
+
+                     (a)  is usually coupled between a prime mover and low loader; and
+
+                     (b)  consists of a gooseneck rigid frame; and
+
+                     (c)  does not directly carry any load on itself; and
+
+                     (d)  is equipped with one or more axles, a kingpin and a fifth wheel coupling.
+
+                    <a name="mium-combin-prime-mover"></a>**_medium combination prime mover_** means a prime mover nominated to haul 2 semi trailers where the second semi trailer is mounted on the rear of the semi trailer being hauled by the prime mover (a B-double prime mover).
+
+                    <a name="mium-combin-truck"></a>**_medium combination truck_** means a truck, other than a short combination truck, nominated to haul one trailer.
+
+                    <a name="nomin"></a>**_nominated_** means nominated by the person applying for registration.
+
+                    <a name="operating-mass"></a>**_operating mass_**, in relation to a vehicle, means the maximum mass of the vehicle, including any load, as determined by the Registration Authority having regard to the design and construction of the vehicle or of any of its components.
+
+                    <a name="pig-trailer"></a>**_pig trailer_** means a trailer with one axle group or single axle near the middle of its load-carrying surface, and connected to the towing vehicle by a drawbar.
+
+                    <a name="pole-type-trailer"></a>**_pole type trailer_** means a trailer that:
+
+                     (a)  is attached to a towing vehicle by means of a pole or an attachment fitted to a pole; and
+
+                     (b)  is ordinarily used for transporting loads, such as logs, pipes, structural members or other long objects, that are generally capable of supporting themselves like beams between supports.
+
+                    <a name="prime-mover"></a>**_prime mover_** means a motor vehicle designed to haul a semi trailer.
+
+                    <a name="quad-axl-group"></a>**_quad-axle group_** means a group of 4 axles, in which the horizontal distance between the centre-lines of the outermost axles is more than 3.2 metres but not more than 4.9 metres.
+
+                    <a name="semi-trailer"></a>**_semi trailer_** means a trailer (including a pole type trailer) that has:
+
+                     (a)  one axle group or single axle towards the rear; and
+
+                     (b)  a means of attachment to a prime mover that results in some of the load being imposed on the prime mover.
+
+                    <a name="short-combin-prime-mover"></a>**_short combination prime mover_** means a prime mover nominated to haul one semi trailer.
+
+                    <a name="short-combin-truck"></a>**_short combination truck_** means a truck nominated to haul one trailer where, according to the nomination:
+
+                     (a)  the combination has 6 axles or fewer; and
+
+                     (b)  the maximum total mass that is legally allowable for the combination is 42.5 tonnes or less.
+
+                    <a name="singl-axl"></a>**_single axle_** means an axle not forming part of an axle group.
+
+                    <a name="singl-axl-group"></a>**_single axle group_** means a group of 2 or more axles, in which the horizontal distance between the centre-lines of the outermost axles is less than 1 metre.
+
+                    <a name="tandem-axl-group"></a>**_tandem axle group_** means a group of at least 2 axles, in which the horizontal distance between the centre-lines of the outermost axles is at least 1 metre but not more than 2 metres.
+
+                    <a name="tri-axl-group"></a>**_tri-axle group_** means a group of at least 3 axles, in which the horizontal distance between the centre-lines of the outermost axles is more than 2 metres, but not more than 3.2 metres.
+
+                    <a name="truck"></a>**_truck_** means a rigid motor vehicle that is principally constructed as a load carrying vehicle.
+
+                    <a name="truck-type"></a>**_truck (type 1)_** means a truck that:
+
+                     (a)  has 2 axles and an MRC not exceeding 12 tonnes; or
+
+                     (b)  has 3 axles and an MRC not exceeding 16.5 tonnes; or
+
+                     (c)  has 4 or more axles and an MRC not exceeding 20 tonnes.
+
+                    <a name="truck-type"></a>**_truck (type 2)_** means:
+
+                     (a)  a truck that has 2 axles and an MRC exceeding 12 tonnes; or
+
+                     (b)  a truck that has 3 axles and an MRC exceeding 16.5 tonnes; or
+
+                     (c)  a truck that has 4 or more axles and an MRC exceeding 20 tonnes.
+
+                    <a name="twinsteer-axl-group"></a>**_twinsteer axle group_** means a group of 2 axles:
+
+                     (a)  with single tyres; and
+
+                     (b)  fitted to a motor vehicle; and
+
+                     (c)  connected to the same steering mechanism; and
+
+                     (d)  the horizontal distance between the centre-lines of which is at least 1 metre, but not more than 2 metres.
+
+              2\.  For the purposes of this Schedule (other than the definitions of **_single axle group_**, **_tandem axle group_**, **_twinsteer axle group_**, **_tri-axle group_** and **_quad-axle group_**):
+
+                     (a)  2 axles not more than one metre apart are to be regarded as one axle; and
+
+                     (b)  3 axles not more than 2 metres apart are to be regarded as 2 axles; and
+
+                     (c)  4 axles not more than 3.2 metres apart are to be regarded as 3 axles.
+
+              3.  For the purposes of determining the number of trailers that a prime mover or truck may tow:
+
+                     (a)  a converter dolly and a semi trailer when used together are to be regarded as one trailer; and
+
+                     (b)  a low loader dolly and a low loader when used together are to be regarded as one trailer.
+
+              4.  Nothing in this Schedule applies to a vehicle with an MRC less than or equal to 4.5 tonnes.
+
+## Part 2—Annual registration charges
+
+##### <a id="1"></a>1  <span style="font-family:" new="">Load carrying vehicles</span>
+
+<table>
+<colgroup>
+  <col width="11%">
+  <col width="35%">
+  <col width="13%">
+  <col width="13%">
+  <col width="13%">
+  <col width="15%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>Item</div>
+    </td>
+    <td>
+      <div>Vehicle type</div>
+    </td>
+    <td>
+      <div>2-axle</div>
+    </td>
+    <td>
+      <div>3-axle</div>
+    </td>
+    <td>
+      <div>4-axle</div>
+    </td>
+    <td>
+      <div>5-axle</div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>1</div>
+  </td>
+  <td>
+    <div>Truck (type 1)</div>
+  </td>
+  <td>
+    <div>$310</div>
+  </td>
+  <td>
+    <div>$620</div>
+  </td>
+  <td>
+    <div>$930</div>
+  </td>
+  <td>
+    <div>$930</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>2</div>
+  </td>
+  <td>
+    <div>Truck (type 2)</div>
+  </td>
+  <td>
+    <div>$516</div>
+  </td>
+  <td>
+    <div>$826</div>
+  </td>
+  <td>
+    <div>$2 066</div>
+  </td>
+  <td>
+    <div>$2 066</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>3</div>
+  </td>
+  <td>
+    <div>Short combination truck</div>
+  </td>
+  <td>
+    <div>$568</div>
+  </td>
+  <td>
+    <div>$2 066</div>
+  </td>
+  <td>
+    <div>$2 066</div>
+  </td>
+  <td>
+    <div>$2 066</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>4</div>
+  </td>
+  <td>
+    <div>Medium combination truck</div>
+  </td>
+  <td>
+    <div>$3 925</div>
+  </td>
+  <td>
+    <div>$3 925</div>
+  </td>
+  <td>
+    <div>$4 235</div>
+  </td>
+  <td>
+    <div>$4 235</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>5</div>
+  </td>
+  <td>
+    <div>Long combination truck</div>
+  </td>
+  <td>
+    <div>$5 423</div>
+  </td>
+  <td>
+    <div>$5 423</div>
+  </td>
+  <td>
+    <div>$5 423</div>
+  </td>
+  <td>
+    <div>$5 423</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>6</div>
+  </td>
+  <td>
+    <div>Short combination prime mover</div>
+  </td>
+  <td>
+    <div>$1 343</div>
+  </td>
+  <td>
+    <div>$3 512</div>
+  </td>
+  <td>
+    <div>$4 545</div>
+  </td>
+  <td>
+    <div>$4 545</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>7</div>
+  </td>
+  <td>
+    <div>Medium combination prime mover</div>
+  </td>
+  <td>
+    <div>$4 132</div>
+  </td>
+  <td>
+    <div>$5 165</div>
+  </td>
+  <td>
+    <div>$5 681</div>
+  </td>
+  <td>
+    <div>$5 681</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>8</div>
+  </td>
+  <td>
+    <div>Long combination prime mover</div>
+  </td>
+  <td>
+    <div>$5 165</div>
+  </td>
+  <td>
+    <div>$5 165</div>
+  </td>
+  <td>
+    <div>$5 681</div>
+  </td>
+  <td>
+    <div>$5 681</div>
+  </td>
+</tr></table>
+
+##### <a id="2"></a>2  <span style="font-family:" new="">Load carrying trailer, converter dolly and low loader dolly</span>
+
+                   The amount of the charge applicable to a load carrying trailer, a converter dolly or a low loader dolly is worked out using the formula:
+
+![](http://www.comlaw.gov.au/Details/C2009C00049/Html/IntstateRdTransptCh1985_image003.gif)
+
+##### <a id="3"></a>3  <span style="font-family:" new="">Buses</span>
+
+<table>
+<colgroup>
+  <col width="11%">
+  <col width="31%">
+  <col width="20%">
+  <col width="20%">
+  <col width="19%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>Item</div>
+    </td>
+    <td>
+      <div>Bus type</div>
+    </td>
+    <td>
+      <div>2-axle</div>
+    </td>
+    <td>
+      <div>3-axle</div>
+    </td>
+    <td>
+      <div>4-axle</div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>1</div>
+  </td>
+  <td>
+    <div>Bus (type 1)</div>
+  </td>
+  <td>
+    <div>$310</div>
+  </td>
+  <td>
+    <div> </div>
+  </td>
+  <td>
+    <div> </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>2</div>
+  </td>
+  <td>
+    <div>Bus (type 2)</div>
+  </td>
+  <td>
+    <div>$516</div>
+  </td>
+  <td>
+    <div>$1 291</div>
+  </td>
+  <td>
+    <div>$1 291</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>3</div>
+  </td>
+  <td>
+    <div>Articulated bus</div>
+  </td>
+  <td>
+    <div> </div>
+  </td>
+  <td>
+    <div>$516</div>
+  </td>
+  <td>
+    <div>$516</div>
+  </td>
+</tr></table>
+
+# Notes to the _Interstate Road Transport Charge Act 1985_
+
+### Note 1
+
+The _Interstate Road__Transport Charge Act 1985_ as shown in this compilation comprises Act No. 131, 1985 amended as indicated in the Tables below.
+
+The _Interstate Road__Transport Charge Act 1985_ was amended by the _Interstate Road__Transport Charge Regulations 2001_ (SR 2001 No. 212). The amendments are incorporated in this compilation.
+
+For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
+
+### Table of Acts
+
+<table>
+<colgroup>
+  <col width="30%">
+  <col width="16%">
+  <col width="18%">
+  <col width="22%">
+  <col width="0%">
+  <col width="14%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>Act</div>
+    </td>
+    <td>
+      <div>Number 
+and year</div>
+    </td>
+    <td>
+      <div>Date 
+of Assent</div>
+    </td>
+    <td>
+      <div>Date of commencement</div>
+    </td>
+    <td colspan="2">
+      <div>Application, saving or transitional provisions</div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>Interstate Road Transport Charge Act 1985</div>
+  </td>
+  <td>
+    <div>131, 1985</div>
+  </td>
+  <td>
+    <div>22 Nov 1985</div>
+  </td>
+  <td colspan="2">
+    <div>Ss. 1 and 2: Royal Assent 
+Remainder: 1 Jan 1987 ( <i>see</i>s. 3(2), (3) and <i>Gazette</i>1986, No. S661)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Interstate Road Transport Charge Amendment Act 1988</div>
+  </td>
+  <td>
+    <div>40, 1988</div>
+  </td>
+  <td>
+    <div>3 June 1988</div>
+  </td>
+  <td colspan="2">
+    <div>1 July 1988</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Interstate Road Transport Charge Amendment Act 1991</div>
+  </td>
+  <td>
+    <div>129, 1991</div>
+  </td>
+  <td>
+    <div>2 Sept 1991</div>
+  </td>
+  <td colspan="2">
+    <div>15 Nov 1991 ( <i>see Gazette</i>1991, No. S304)</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Interstate Road Transport Charge Amendment Act 1995</div>
+  </td>
+  <td>
+    <div>51, 1995</div>
+  </td>
+  <td>
+    <div>23 June 1995</div>
+  </td>
+  <td colspan="2">
+    <div>1 July 1995</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Interstate Road Transport Charge Amendment Act 1998</div>
+  </td>
+  <td>
+    <div>44, 1998</div>
+  </td>
+  <td>
+    <div>17 June 1998</div>
+  </td>
+  <td colspan="2">
+    <div>17 June 1998</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Interstate Road Transport Charge Amendment Act 2000</div>
+  </td>
+  <td>
+    <div>41, 2000</div>
+  </td>
+  <td>
+    <div>3 May 2000</div>
+  </td>
+  <td colspan="2">
+    <div>1 July 2000 ( <i>see Gazette</i>2000, No. S303)</div>
+  </td>
+  <td>
+    <div>Sch. 1 (item 34)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Interstate Road Transport Charge Amendment Act 2002</div>
+  </td>
+  <td>
+    <div>18, 2002</div>
+  </td>
+  <td>
+    <div>4 Apr 2002</div>
+  </td>
+  <td colspan="2">
+    <div>4 Apr 2002</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Interstate Road Transport Charge Amendment Act (No. 2) 2008</div>
+  </td>
+  <td>
+    <div>147, 2008</div>
+  </td>
+  <td>
+    <div>11 Dec 2008</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 1: \[ <i>see</i>Note 2 and Table A] 
+Remainder: Royal Assent</div>
+  </td>
+  <td>
+    <div>Sch. 1 (item 10)</div>
+  </td>
+</tr>
+<tr height="0">
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr></table>
+
+## Table of Amendments
+
+<table>
+<colgroup>
+  <col width="32%">
+  <col width="68%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="2">
+      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Provision affected</div>
+    </td>
+    <td>
+      <div>How affected</div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>S. 4</div>
+  </td>
+  <td>
+    <div>am. No. 41, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 5</div>
+  </td>
+  <td>
+    <div>am. No. 40, 1988; No. 129, 1991; No. 44, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 51, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 41, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 5A</div>
+  </td>
+  <td>
+    <div>ad. No. 18, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 6</div>
+  </td>
+  <td>
+    <div>rep. No. 129, 1991</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>ad. No. 51, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 18, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 7</div>
+  </td>
+  <td>
+    <div>am. No. 51, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to Schedule heading.</div>
+  </td>
+  <td>
+    <div>am. No. 18, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Schedule</div>
+  </td>
+  <td>
+    <div>ad. No. 51, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 41, 2000; Statutory Rules 2001, No. 212</div>
+  </td>
+</tr></table>
+
+### Note 2
+
+_Interstate Road Transport Charge Amendment Act (No. 2) 2008 
+ (No. 147, 2008)_
+
+The following amendments commence on 11 June 2009 unless proclaimed earlier:
+
+## Schedule 1
+
+## 1  Title
+
+Omit “**motor vehicle or trailer**”, substitute “**vehicle**”.
+
+## 2  After section 3
+
+Insert:
 
 ##### <a id="3A"></a>3A  Definitions
 
@@ -234,7 +1041,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (2)  To avoid doubt, nothing in this section affects a requirement that a separate annual registration charge be paid for each converter dolly or low loader dolly and for each semi trailer.
 
-##### <a id="4"></a>4  Imposition of charge
+## 3  Subsection 4(1)
+
+Repeal the subsection, substitute:
 
              (1)  Subject to subsections (2) and (3), a charge is imposed on the registration of a vehicle in a category mentioned in subsection (1A).
 
@@ -276,9 +1085,19 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                       (r)  an articulated bus.
 
-             (2)  Subsection (1) does not apply to vehicles, or vehicles included in a class of vehicles, that are exempt from charge under the regulations.
+## 4  Subsection 4(2)
+
+Omit “motor vehicles or trailers” (wherever occurring), substitute “vehicles”.
+
+## 5  At the end of section 4
+
+Add:
 
              (3)  Subsection (1) does not apply to vehicles that have an MRC of less than or equal to 4.5 tonnes.
+
+## 6  Subsection 5
+
+Repeal the section, substitute:
 
 ##### <a id="5"></a>5  Amount of charge
 
@@ -292,7 +1111,7 @@ Note:          For the definition of **_financial year_**, see
 
              (4)  If the registration is for less than a full year, the amount of the charge is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00082/Html/IntstateRdTransptCh1985_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00049/Html/IntstateRdTransptCh1985_image004.gif)
 
 where:
 
@@ -304,375 +1123,19 @@ where:
 
              (6)  Regulations made for the purposes of this section must not take effect earlier than the first day after the end of the period in which the regulations may be disallowed under Part 5 of the _Legislative Instruments Act 2003_.
 
-##### <a id="7"></a>7  Regulations
+## 7  Sections 5A and 6
 
-                   The Governor-General may make regulations for the purposes of subsection 4(2) and section 5.
+Repeal the sections.
 
-# Notes to the _Interstate Road Transport Charge Act 1985_
+## 8  Section 7
 
-### Note 1
+Omit “section 6”, substitute “section 5”.
 
-The _Interstate Road__Transport Charge Act 1985_ as shown in this compilation comprises Act No. 131, 1985 amended as indicated in the Tables below.
+## 9  Schedule
 
-The _Interstate Road__Transport Charge Act 1985_ was amended by the _Interstate Road__Transport Charge Regulations 2001_ (SR 2001 No. 212). The amendments are incorporated in this compilation.
+Repeal the Schedule.
 
-For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
-
-### Table of Acts
-
-<table>
-<colgroup>
-  <col width="30%">
-  <col width="16%">
-  <col width="18%">
-  <col width="22%">
-  <col width="0%">
-  <col width="14%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>Act</div>
-    </td>
-    <td>
-      <div>Number 
-and year</div>
-    </td>
-    <td>
-      <div>Date 
-of Assent</div>
-    </td>
-    <td>
-      <div>Date of commencement</div>
-    </td>
-    <td colspan="2">
-      <div>Application, saving or transitional provisions</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>Interstate Road Transport Charge Act 1985</div>
-  </td>
-  <td>
-    <div>131, 1985</div>
-  </td>
-  <td>
-    <div>22 Nov 1985</div>
-  </td>
-  <td colspan="2">
-    <div>Ss. 1 and 2: Royal Assent 
-Remainder: 1 Jan 1987 ( <i>see</i>s. 3(2), (3) and <i>Gazette</i>1986, No. S661)</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Interstate Road Transport Charge Amendment Act 1988</div>
-  </td>
-  <td>
-    <div>40, 1988</div>
-  </td>
-  <td>
-    <div>3 June 1988</div>
-  </td>
-  <td colspan="2">
-    <div>1 July 1988</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Interstate Road Transport Charge Amendment Act 1991</div>
-  </td>
-  <td>
-    <div>129, 1991</div>
-  </td>
-  <td>
-    <div>2 Sept 1991</div>
-  </td>
-  <td colspan="2">
-    <div>15 Nov 1991 ( <i>see Gazette</i>1991, No. S304)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Interstate Road Transport Charge Amendment Act 1995</div>
-  </td>
-  <td>
-    <div>51, 1995</div>
-  </td>
-  <td>
-    <div>23 June 1995</div>
-  </td>
-  <td colspan="2">
-    <div>1 July 1995</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Interstate Road Transport Charge Amendment Act 1998</div>
-  </td>
-  <td>
-    <div>44, 1998</div>
-  </td>
-  <td>
-    <div>17 June 1998</div>
-  </td>
-  <td colspan="2">
-    <div>17 June 1998</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Interstate Road Transport Charge Amendment Act 2000</div>
-  </td>
-  <td>
-    <div>41, 2000</div>
-  </td>
-  <td>
-    <div>3 May 2000</div>
-  </td>
-  <td colspan="2">
-    <div>1 July 2000 ( <i>see Gazette</i>2000, No. S303)</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 34)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Interstate Road Transport Charge Amendment Act 2002</div>
-  </td>
-  <td>
-    <div>18, 2002</div>
-  </td>
-  <td>
-    <div>4 Apr 2002</div>
-  </td>
-  <td colspan="2">
-    <div>4 Apr 2002</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Interstate Road Transport Charge Amendment Act (No. 2) 2008</div>
-  </td>
-  <td>
-    <div>147, 2008</div>
-  </td>
-  <td>
-    <div>11 Dec 2008</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 1: 12 Feb 2009 ( <i>see</i>F2009L00278) 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 10)</div>
-  </td>
-</tr>
-<tr height="0">
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-</tr></table>
-
-## Table of Amendments
-
-<table>
-<colgroup>
-  <col width="34%">
-  <col width="66%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>Title</div>
-  </td>
-  <td>
-    <div>am. No. 147, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 3A–3C</div>
-  </td>
-  <td>
-    <div>ad. No. 147, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>am. No. 41, 2000; No. 147, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5</div>
-  </td>
-  <td>
-    <div>am. No. 40, 1988; No. 129, 1991; No. 44, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 51, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 41, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 147, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5A</div>
-  </td>
-  <td>
-    <div>ad. No. 18, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 147, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6</div>
-  </td>
-  <td>
-    <div>rep. No. 129, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 51, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 18, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 147, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7</div>
-  </td>
-  <td>
-    <div>am. No. 51, 1995; No. 147, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to Schedule heading</div>
-  </td>
-  <td>
-    <div>am. No. 18, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 147, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule</div>
-  </td>
-  <td>
-    <div>ad. No. 51, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 41, 2000; Statutory Rules 2001, No. 212</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 147, 2008</div>
-  </td>
-</tr></table>
+As at 6 January 2009 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -680,7 +1143,7 @@ Remainder: Royal Assent</div>
 
 _Interstate Road Transport Charge Amendment Act 2000 (No. 41, 2000)_
 
-## Schedule 1
+### Schedule 1
 
 ## 34  Application of amendments
 
@@ -695,12 +1158,14 @@ The amendments made by this Act apply to:
 _Interstate Road Transport Charge Amendment Act (No. 2) 2008 
  (No. 147, 2008)_
 
-## Schedule 1
+_The following provision commences on the 11 June 2009 unless proclaimed earlier:_
+
+### Schedule 1
 
 ## 10  Application of amendments
 
 (1)        Despite the repeal of section 5 of the _Interstate Road Transport Charge Act 1985_ made by item 6 of this Schedule, the amount of the charge under that section, immediately before this Schedule commences, continues to apply in relation to registrations of vehicles that come into force after this Schedule commences until regulations made for the purposes of section 5 of that Act, as in force immediately after this Schedule commences, take effect.
 
-(2)        Once those regulations take effect, the amendments made by this Schedule apply in relation to registrations of vehicles in a category referred to in subsection 4(1A) of the _Interstate Road Transport Charge Act 1985_ (as inserted by item 3 of this Schedule) that come into force after this Schedule commences.
+(2)        Once those regulations take effect, the amendments made by this Schedule apply in relation to registrations of vehicles in a category referred to in subsection 4(1A) of the Interstate Road Transport Charge Act 1985 (as inserted by item 3 of this Schedule) that come into force after this Schedule commences.
 
  
