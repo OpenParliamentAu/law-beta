@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2011C00086/Html/a56a99c7-a442-4b57-83f2-c967e119cee1_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00630/Html/TradeMarks1995_WD02_image001.gif)
 
 # Trade Marks Act 1995
 
 **Act No. 119 of 1995 as amended**
 
-This compilation was prepared on 14 January 2011
+This compilation was prepared on 1 September 2010
  taking into account amendments up to Act No. 103 of 2010
 
 The text of any of those amendments not in force 
@@ -38,27 +38,27 @@ Part 2:                       Cont
 
 Part 3:                       Explains what is a trade mark and sets out the rights given by this Act to the registered owner and any authorised user of a registered trade mark. 
 
-Parts 4 and 5:            Deal with the steps that you have to take to have a trade mark registered. 
+Parts 4 and 5:             Deal with the steps that you have to take to have a trade mark registered. 
 
 Part 6:                       Sets out how and why an application for registration and other documents may be amended. 
 
-Parts 7, 8 and 9:        Deal with the registration of trade marks and how and why particulars of the registration of a trade mark may be amended, cancelled or removed from the Register. 
+Parts 7, 8 and 9:         Deal with the registration of trade marks and how and why particulars of the registration of a trade mark may be amended, cancelled or removed from the Register. 
 
-Parts 10 and 11:        Deal with the assignment of trade marks, the registration of assignments of registered trade marks and the recording of the rights and interests that persons (other than registered owners) may have in registered trade marks or trade marks whose registration is being sought. 
+Parts 10 and 11:         Deal with the assignment of trade marks, the registration of assignments of registered trade marks and the recording of the rights and interests that persons (other than registered owners) may have in registered trade marks or trade marks whose registration is being sought. 
 
-Parts 12, 13 and 14:  Deal with the protection of trade marks. Part 12 sets out what constitutes an infringement of a trade mark and how to obtain redress and relief in cases of infringement. Part 13 provides for a special regime to deal with any importation of goods that would infringe a registered trade mark. Part 14 makes certain types of conduct offences against this Act. 
+Parts 12, 13 and 14:    Deal with the protection of trade marks. Part 12 sets out what constitutes an infringement of a trade mark and how to obtain redress and relief in cases of infringement. Part 13 provides for a special regime to deal with any importation of goods that would infringe a registered trade mark. Part 14 makes certain types of conduct offences against this Act. 
 
-Parts 15, 16 and 17:  Explain what are collective trade marks, certification trade marks and defensive trade marks and apply to them, with necessary alterations, the provisions of this Act relating to trade marks. 
+Parts 15, 16 and 17:    Explain what are collective trade marks, certification trade marks and defensive trade marks and apply to them, with necessary alterations, the provisions of this Act relating to trade marks. 
 
-Part 17A:                  Enables the making of regulations to enable the performance of the obligations of Australia, or to obtain for Australia any advantage or benefit, under the Madrid Protocol. Those regulations prevail over this Act to the extent of any inconsistency.
+Part 17A:                   Enables the making of regulations to enable the performance of the obligations of Australia, or to obtain for Australia any advantage or benefit, under the Madrid Protocol. Those regulations prevail over this Act to the extent of any inconsistency.
 
-Part 18:                     Deals with the jurisdiction of the courts to hear and determine matters arising under this Act. 
+Part 18:                      Deals with the jurisdiction of the courts to hear and determine matters arising under this Act. 
 
-Parts 19 and 20:        Deal with the Trade Marks Office, the officials responsible for its administration and the keeping of the Register of Trade Marks. 
+Parts 19 and 20:         Deal with the Trade Marks Office, the officials responsible for its administration and the keeping of the Register of Trade Marks. 
 
-Part 21:                     Deals with miscellaneous matters such as the payment of fees, the service of documents and the making of regulations. 
+Part 21:                      Deals with miscellaneous matters such as the payment of fees, the service of documents and the making of regulations. 
 
-Part 22:                            Repeals the _Trade Marks Act 1955_ and explains how matters that were being dealt with under that Act at the time of its repeal are to be dealt with when this Act is in force.
+Part 22:                             Repeals the _Trade Marks Act 1955_ and explains how matters that were being dealt with under that Act at the time of its repeal are to be dealt with when this Act is in force.
 
 **How to use this Act**
 
@@ -92,7 +92,7 @@ That Act is repealed by this Act. It contained the legislation that previously a
 
 The list of Acts cited above is not exhaustive. Other Acts may also affect the operation or interpretation of this Act. 
 
-![](http://www.comlaw.gov.au/Details/C2011C00086/Html/a56a99c7-a442-4b57-83f2-c967e119cee1_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00630/Html/TradeMarks1995_WD02_image002.gif)
 
 # Contents
 
@@ -941,7 +941,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the g
 
                     <a name="collect-trade-mark"></a>**_collective trade mark_** has the meaning given by section 162.
 
-                    <a name="commiss"></a>**_Commission_** means the Australian Competition and Consumer Commission established under the _Competition and Consumer Act 2010_.
+                    <a name="commiss"></a>**_Commission_** means the Australian Competition and Consumer Commission established under the _Trade Practices Act 1974_.
 
                     <a name="convent-countri"></a>**_Convention country_** means a country declared (by regulations made under section 225) to be a Convention country for the purposes of this Act.
 
@@ -1005,7 +1005,7 @@ Note:          See section 213.
 
                      (a)  mode of use; or
 
-                     (b)  use within a territorial area within Australia; or
+                     (b)  use within a territorial area within   Australia; or
 
                      (c)  use in relation to goods or services to be exported.
 
@@ -1101,7 +1101,7 @@ Note:          Sections 201, 202, 203, 204 and 206 deal with
 
                      (b)  a Sunday; or
 
-                     (c)  a public holiday in the Australian Capital Territory.
+                     (c)  a public holiday in the Australian   Capital Territory.
 
                     <a name="world-trade-organ"></a>**_World Trade Organization_** means the body of that name established by the WTO Agreement, done at Marrakesh on 15 April 1994.
 
@@ -3283,7 +3283,7 @@ Note 1:       For **_registered trade mark_** see section 6.
 
 Note 2:       For **_deceptively similar_** see section 10.
 
-Note 3:       For **_well known in Australia_** see subsection (4).
+Note 3:       For **_well known in_****_Australia_** see subsection (4).
 
 Note 4:       In addition, the regulations may provide for the effect of a protected international trade mark: see Part 17A.
 
@@ -3859,7 +3859,7 @@ Note 1:       For **_registered trade mark_** and **_registered owne
 
 Note 2:       For **_authorised user_** see section 8.
 
-##### <a id="146"></a>146  Falsely applying a registered trade mark
+##### <a id="146"></a>146  Falsely applying a registered trade mark
 
              (1)  A person is guilty of an offence if the person:
 
@@ -4583,11 +4583,11 @@ Note:          Division 2 of Part 4 sets out the main grou
 
                      (b)  the Supreme Court of a State;
 
-                     (c)  the Supreme Court of the Australian Capital Territory;
+                     (c)  the Supreme Court of the Australian   Capital Territory;
 
-                     (d)  the Supreme Court of the Northern Territory;
+                     (d)  the Supreme Court of the Northern   Territory;
 
-                     (e)  the Supreme Court of Norfolk Island.
+                     (e)  the Supreme Court of Norfolk  Island.
 
 ##### <a id="191"></a>191  Jurisdiction of the Federal Court
 
@@ -5269,7 +5269,7 @@ Note:          For **_file_** see section 6.
 
                      (h)  provide for the destruction of documents relating to a trade mark at least 25 years after the registration of the trade mark has ceased; and
 
-                   (ha)  provide for the control of the professional conduct of registered trade marks attorneys and the practice of the profession and, for that purpose, make provision for and in relation to all or any of the following:
+                    (ha)  provide for the control of the professional conduct of registered trade marks attorneys and the practice of the profession and, for that purpose, make provision for and in relation to all or any of the following:
 
                               (i)  making complaints, and hearing charges, against registered trade marks attorneys about their professional conduct;
 
@@ -5347,7 +5347,7 @@ Note 1:       For **_date of registration_** see section 6.
 
 Note 2:       Section 28 of the repealed Act provided as follows:
 
-“28.   A mark: 
+“28.  A mark: 
 
 (a)     the use of which would be likely to deceive or cause confusion; 
 
@@ -5779,7 +5779,7 @@ Note:          For **_existing registered mark_** see section 
 
              (1)  If:
 
-                     (a)  an action or proceeding validly brought for the purposes of the repealed Act was still pending immediately before  1 January 1996; and
+                     (a)  an action or proceeding validly brought for the purposes of the repealed Act was still pending immediately before 1 January 1996; and
 
                      (b)  that action or proceeding could have been brought under this Act if this Act had been in force when the action or proceeding was started;
 
@@ -6187,7 +6187,7 @@ Remainder: Royal Assent</div>
     <div>13 July 2010</div>
   </td>
   <td>
-    <div>Schedule 6 (items 1, 141): 1 Jan 2011</div>
+    <div>Schedule 6 (items 1, 141): \[ <i>see</i>Note 4]</div>
   </td>
   <td>
     <div>—</div>
@@ -6198,7 +6198,7 @@ _(a)_     The _Trade Marks Act 1995_ was amended by Schedule 1 (items�
 
                  (4)   The amendments of the _Trade Marks Act 1995_ made by Schedule 1 are taken to have commenced on 1 January 1996.
 
-_(b)_     The _Trade Marks Act 1995_ was amended by Schedule 2 (items 33-46) only of the _Intellectual Property Laws Amendment Act 1998_, subsection 2(5) of which provides as follows:
+_(b)_    The _Trade Marks Act 1995_ was amended by Schedule 2 (items 33-46) only of the _Intellectual Property Laws Amendment Act 1998_, subsection 2(5) of which provides as follows:
 
                  (5)   If Schedule 2 does not commence under subsection (4) within the period of 6 months beginning on the day on which this Act receives the Royal Assent, Schedule 2 commences on the first day after the end of that period.
 
@@ -6429,7 +6429,7 @@ _(f)_      Subsection 2(1) (item 19) of the _Personal Property Securit
     <div>S. 6</div>
   </td>
   <td>
-    <div>am. No. 91, 1997; No. 100, 1998; Nos. 144 and 146, 1999; No. 117, 2000; No. 99, 2001; No. 48, 2003; Nos. 106 and 114, 2006; Nos. 98 and 103, 2010</div>
+    <div>am. No. 91, 1997; No. 100, 1998; Nos. 144 and 146, 1999; No. 117, 2000; No. 99, 2001; No. 48, 2003; Nos. 106 and 114, 2006; No. 98, 2010</div>
   </td>
 </tr>
 <tr>
@@ -8236,7 +8236,7 @@ Note 1:       For **_PPSA security interest_** see section 6.
 
 Note 2:       Certain particulars relating to registrations in respect of PPSA security interests under the _Personal Property Securities Act 2009_ are admissible in evidence: see section 174 of that Act.
 
-As at 14 January 2011 the amendments are not incorporated in this compilation.
+As at 1 September 2010 the amendments are not incorporated in this compilation.
 
 ### Note 3
 
@@ -8264,9 +8264,26 @@ Note 2:       For the meaning of **_transitional security interest_*
 
 _Note:       This amendment replaces the definition inserted by item 18 of Schedule 2 to the Personal Property Securities (Consequential Amendments) Act 2009._
 
-As at 14 January 2011 the amendment is not incorporated in this compilation.
+As at 1 September 2010 the amendment is not incorporated in this compilation.
 
- 
+### Note 4
+
+_Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010
+ (No. 103, 2010)_
+
+The following amendment commences on the start of 1 January 2011:
+
+## Schedule 6
+
+## 1  Amendment of Acts
+
+The specified provisions of the Acts listed in this Part are amended by omitting “_Trade Practices Act 1974_” and substituting “_Competition and Consumer Act 2010_”.
+
+<h9 class="ActHead9">Trade Marks Act 1995</h9>
+
+## 141  Section 6 (definition of _Commission_)
+
+As at 1 September 2010 the amendment is not incorporated in this compilation.
 
 ## Table A
 
@@ -8301,13 +8318,13 @@ The amendment of section 26 of the _Trade Marks Act 1995_ made by this Schedule 
 
 ## 5  Transitional—paragraph 26(1)(b) of the _Trade Marks Act 1995_
 
-(1)       This item applies to regulations if:
+(1)        This item applies to regulations if:
 
                      (a)  the regulations were made for the purposes of paragraph 26(1)(b) of the _Trade Marks Act 1995_; and
 
                      (b)  the regulations were in force immediately before the commencement of this item.
 
-(2)       The regulations have effect, after the commencement of this item, as if they were made for the purposes of the corresponding provision of that Act as amended by this Schedule.
+(2)        The regulations have effect, after the commencement of this item, as if they were made for the purposes of the corresponding provision of that Act as amended by this Schedule.
 
 ## 12  Application of amendments—section 52 of the _Trade Marks Act 1995_
 
@@ -8315,29 +8332,29 @@ The amendments of section 52 of the _Trade Marks Act 1995_ made by this Schedule
 
 ## 15  Transitional—subsection 68(1) of the _Trade Marks Act 1995_
 
-(1)       This item applies if, before the commencement of this item, the Registrar purported to register a trade mark under subsection 68(1) of the _Trade Marks Act 1995_ on the basis that there had been an opposition, but:
+(1)        This item applies if, before the commencement of this item, the Registrar purported to register a trade mark under subsection 68(1) of the _Trade Marks Act 1995_ on the basis that there had been an opposition, but:
 
                      (a)  the opposition had been withdrawn; or
 
                      (b)  the opposition had been dismissed under section 222 of that Act.
 
-(2)       The registration is as valid as it would have been if the amendment of subsection 68(1) of that Act made by this Schedule had been in force at the time of the registration.
+(2)        The registration is as valid as it would have been if the amendment of subsection 68(1) of that Act made by this Schedule had been in force at the time of the registration.
 
 ## 23  Transitional—Division 2 of Part 7 of the _Trade Marks Act 1995_
 
-(1)       This item applies if, before the commencement of this item:
+(1)        This item applies if, before the commencement of this item:
 
                      (a)  the Registrar purported to renew registration of a trade mark under section 77 or 79 of the _Trade Marks Act 1995_; and
 
                      (b)  particulars of registration were entered in the Register under section 69 of that Act after the end of the period of 10 years after the filing date of the application for registration.
 
-(2)       In the case of a purported renewal under section 77, the renewal is as valid as it would have been if, at the time of the request for renewal:
+(2)        In the case of a purported renewal under section 77, the renewal is as valid as it would have been if, at the time of the request for renewal:
 
                      (a)  the words “, within the prescribed period before the registration of a trade mark expires,” were omitted from subsection 75(1) of the _Trade Marks Act 1995_; and
 
                      (b)  the words “of a trade mark” had been added at the end of that subsection.
 
-(3)       In the case of a purported renewal under section 79, the renewal is as valid as it would have been if, at the time of the request for renewal, the words “, within 12 months after the registration of a trade mark has expired,” were omitted from that section.
+(3)        In the case of a purported renewal under section 79, the renewal is as valid as it would have been if, at the time of the request for renewal, the words “, within 12 months after the registration of a trade mark has expired,” were omitted from that section.
 
 ## 32  Application of amendment—section 132 of the _Trade Marks Act 1995_
 
@@ -8345,13 +8362,13 @@ The amendment of section 132 of the _Trade Marks Act 1995_ made by this Schedule
 
 ## 33  Transitional—subsection 132(3) of the _Trade Marks Act 1995_
 
-(1)       This item applies to regulations if:
+(1)        This item applies to regulations if:
 
                      (a)  the regulations were made for the purposes of subsection 132(3) of the _Trade Marks Act 1995_; and
 
                      (b)  the regulations were in force immediately before the commencement of this item.
 
-(2)       The regulations have effect, after the commencement of this item, as if they were made for the purposes of the corresponding provision of that Act as amended by this Schedule.
+(2)        The regulations have effect, after the commencement of this item, as if they were made for the purposes of the corresponding provision of that Act as amended by this Schedule.
 
 * * *
 
@@ -8395,9 +8412,9 @@ The amendments of section 175 of the _Trade Marks Act 1995_ made by this Part ap
 
 ## 9  Application of new section 174
 
-(1)       Section 174 (the **_new section 174_**) of the _Trade Marks Act 1995_ as amended by this Part applies to applications filed before, on or after the commencement of this Part.
+(1)        Section 174 (the **_new section 174_**) of the _Trade Marks Act 1995_ as amended by this Part applies to applications filed before, on or after the commencement of this Part.
 
-(2)       However, the new section 174 does not require the Registrar to send to the Commission documents relating to an application if:
+(2)        However, the new section 174 does not require the Registrar to send to the Commission documents relating to an application if:
 
                      (a)  the Registrar sent documents relating to the application to the Commission before the commencement of this Part under section 174 (the **_old section 174_**) of the _Trade Marks Act 1995_ as in force before that commencement; or
 
@@ -8405,9 +8422,9 @@ The amendments of section 175 of the _Trade Marks Act 1995_ made by this Part ap
 
 ## 11  Application of new subsection 176(1)
 
-(1)       Subsection 176(1) (the **_new subsection 176(1)_**) of the _Trade Marks Act 1995_ as amended by this Part applies to applications filed before, on or after the commencement of this Part.
+(1)        Subsection 176(1) (the **_new subsection 176(1)_**) of the _Trade Marks Act 1995_ as amended by this Part applies to applications filed before, on or after the commencement of this Part.
 
-(2)       However, the new subsection 176(1) does not apply to applications accepted or rejected under Part 16 of the _Trade Marks Act 1995_ before the commencement of this Part.
+(2)        However, the new subsection 176(1) does not apply to applications accepted or rejected under Part 16 of the _Trade Marks Act 1995_ before the commencement of this Part.
 
 ## 14  Application of amendments of section 178
 
@@ -8459,9 +8476,9 @@ The amendment made by item 7 does not apply to rights vested in another person
 
 ## 11  Application and saving
 
-(1)       The amendment made by item 10 applies to applications for registration of trade marks made after the day on which this Act receives the Royal Assent.
+(1)        The amendment made by item 10 applies to applications for registration of trade marks made after the day on which this Act receives the Royal Assent.
 
-(2)       That amendment does not affect the validity of the registration of a trade mark:
+(2)        That amendment does not affect the validity of the registration of a trade mark:
 
                      (a)  registered before the day on which this Act receives the Royal Assent; or
 
@@ -8537,7 +8554,7 @@ The amendment made by item 84 applies to trade marks whose registration expire
 
 ## 90  Transitional provision
 
-(1)       This item applies if:
+(1)        This item applies if:
 
                      (a)  before the commencement of this item, a notice under section 132 of the unamended Trade Marks Act was in force in relation to goods; and
 
@@ -8547,13 +8564,13 @@ The amendment made by item 84 applies to trade marks whose registration expire
 
                      (d)  the undertaking is in force.
 
-(2)       On application in writing to the Customs CEO by the objector or objectors concerned, the Customs CEO must:
+(2)        On application in writing to the Customs CEO by the objector or objectors concerned, the Customs CEO must:
 
                      (a)  if none of the security has been applied towards the expenses mentioned in paragraph (1)(b)—return the security to the person who gave it; or
 
                      (b)  otherwise—refund the amount of the balance of the security to the person who gave it.
 
-(3)       In this item:
+(3)        In this item:
 
 **_amended Trade Marks Act_** means the _Trade Marks Act 1995_ as in force immediately after the commencement of this item.
 
@@ -8570,13 +8587,13 @@ The following provision commences on 1 February 2012 or an earlier time determin
 
 ## 24  Application of amendments of the _Trade Marks Act 1995_
 
-(1)       The amendment of the _Trade Marks Act 1995_ made by item 19 of this Schedule does not apply in relation to a dealing that starts before the time the item commences.
+(1)        The amendment of the _Trade Marks Act 1995_ made by item 19 of this Schedule does not apply in relation to a dealing that starts before the time the item commences.
 
-(2)       The amendment of the _Trade Marks Act 1995_ made by item 20 of this Schedule does not apply in relation to the enforcement of an equity if the equity starts to be enforced before the time the item commences.
+(2)        The amendment of the _Trade Marks Act 1995_ made by item 20 of this Schedule does not apply in relation to the enforcement of an equity if the equity starts to be enforced before the time the item commences.
 
-(3)       The amendments of the _Trade Marks Act 1995_ made by items 21 and 22 of this Schedule do not apply in relation to applications to the Registrar made under section 113 or 117 of that Act before the time the items commence.
+(3)        The amendments of the _Trade Marks Act 1995_ made by items 21 and 22 of this Schedule do not apply in relation to applications to the Registrar made under section 113 or 117 of that Act before the time the items commence.
 
-(4)       The amendment of the _Trade Marks Act 1995_ made by item 23 of this Schedule does not apply in relation to any proceedings in a court or tribunal in relation to trade marks (or interests in trade marks) that are commenced before the time the item commences.
+(4)        The amendment of the _Trade Marks Act 1995_ made by item 23 of this Schedule does not apply in relation to any proceedings in a court or tribunal in relation to trade marks (or interests in trade marks) that are commenced before the time the item commences.
 
 _Note:       Items 19 to 23 commence at the registration commencement time within the meaning of section 306 of the Personal Property Securities Act 2009._
 
