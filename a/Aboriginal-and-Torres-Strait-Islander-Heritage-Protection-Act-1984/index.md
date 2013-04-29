@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00375/Html/AbTSIHerProte1984WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00330/Html/AbTSIHerProte1984WD02_image001.gif)
 
 # Aboriginal and Torres Strait Islander Heritage Protection Act 1984
 
 **Act No. 79 of 1984 as amended**
 
-This compilation was prepared on 7 July 2008
- taking into account amendments up to Act No. 73 of 2008
+This compilation was prepared on 28 May 2007
+ taking into account amendments up to Act No. 152 of 2006
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -410,7 +410,7 @@ the officer may make a declaration for the purposes of this section.
 
           (2A)  A declaration under subsection (1) cannot prevent the export of an object if there is a certificate in force under section 12 of the _Protection of Movable Cultural Heritage Act 1986_ authorising its export.
 
-          (2B)  A declaration under subsection (1) is not a legislative instrument.
+          (2A)  A declaration under subsection (1) is not a legislative instrument.
 
              (3)  A declaration under subsection (1) may be revoked or varied at any time, by instrument in writing, by the Minister or any authorized officer.
 
@@ -847,23 +847,6 @@ Remainder: Royal Assent</div>
     <div>—</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2008</div>
-  </td>
-  <td>
-    <div>73, 2008</div>
-  </td>
-  <td colspan="2">
-    <div>3 July 2008</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 1): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -1061,7 +1044,7 @@ _(c)_     The _Aboriginal and Torres Strait Islander Heritage Protection
     <div>S. 18</div>
   </td>
   <td>
-    <div>am. No. 152, 2006; No. 73, 2008</div>
+    <div>am. No. 152, 2006</div>
   </td>
 </tr>
 <tr>
