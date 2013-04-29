@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00907/Html/d51ce1ea-108c-43c3-bc82-5518e3ac421d_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00728/Html/6549d670-1951-4ad5-8e52-70bbce511344_files/image001.gif)
 
 # Age Discrimination Act 2004
 
 **Act No. 68 of 2004 as amended**
 
-This compilation was prepared on 13 December 2012
- taking into account amendments up to Act No. 169 of 2012
+This compilation was prepared on 2 October 2012
+ taking into account amendments up to Act No. 136 of 2012
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -370,8 +370,6 @@ Example:    The reference in subsection 26(3) to students above a particul
                      (b)  an authority or body, not being a body corporate, established, whether before or after the commencement of this Act, for a public purpose by, or in accordance with the provisions of, a law of the Commonwealth or a law of a Territory, being an authority or body employing staff on its own behalf; or
 
                      (c)  an incorporated company over which the Commonwealth, or a body or authority mentioned in paragraph (a) or (b), is in a position to exercise control.
-
-                    <a name="regist-chariti"></a>**_registered charity_** means an entity that is registered under the _Australian Charities and Not‑for‑profits Commission Act 2012_ as the type of entity mentioned in column 1 of item 1 of the table in subsection 25‑5(5) of that Act.
 
                     <a name="servic"></a>**_services_** includes:
 
@@ -1035,13 +1033,7 @@ Example: Older people are often more disadvantaged by retrenchment than are othe
 
              (1)  This Part does not:
 
-                     (a)  affect a provision of the governing rules (within the meaning of the _Australian Charities and Not‑for‑profits Commission Act 2012_) of a registered charity, if the provision:
-
-                              (i)  confers charitable benefits; or
-
-                             (ii)  enables charitable benefits to be conferred;
-
-                            wholly or in part on persons of a particular age; or
+                     (a)  affect a provision in a charitable instrument that confers charitable benefits, or enables charitable benefits to be conferred, wholly or in part on persons of a particular  age; or
 
                      (b)  make unlawful any act done to give effect to such a provision.
 
@@ -1050,6 +1042,8 @@ Example: Older people are often more disadvantaged by retrenchment than are othe
                     <a name="australia"></a>**_Australia_** includes the external Territories.
 
                     <a name="charit-benefit"></a>**_charitable benefits_** means benefits for purposes that are exclusively charitable according to the law in force in any part of Australia.
+
+                    <a name="charit-instrum"></a>**_charitable instrument_** means a deed, will or other document, whether made before or after the commencement of this Act, that confers charitable benefits or enables charitable benefits to be conferred on persons.
 
 ##### <a id="35"></a>35  Religious bodies
 
@@ -2772,7 +2766,7 @@ of Assent</div>
     <div>4 Nov 2006</div>
   </td>
   <td>
-    <div>Schedules 1–3: 1 July 2007 ( <i>see</i>s. 2(1)) 
+    <div>Schedules 1–3: 1 July 2007 ( <i>see</i>s. 2(1)) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -2790,7 +2784,7 @@ Remainder: Royal Assent</div>
     <div>15 Mar 2007</div>
   </td>
   <td>
-    <div>Schedules 1–3: 1 July 2007 ( <i>see</i>s. 2(1) and F2007L01653) 
+    <div>Schedules 1–3: 1 July 2007 ( <i>see</i>s. 2(1) and F2007L01653) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -3069,23 +3063,6 @@ Schedule 2 (item 2): 1 July 2008</div>
   <td>
     <div>Sch. 4 (item 50)</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Charities and Not‑for‑profits Commission (Consequential and Transitional) Act 2012</div>
-  </td>
-  <td>
-    <div>169, 2012</div>
-  </td>
-  <td>
-    <div>3 Dec 2012</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 143–145): 3 Dec 2012 ( <i>see</i>s. 2(1))</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_ Subsection 2(1) (item 5) of the _Age Discrimination (Consequential Provisions) Act 2004_ provides as follows:
@@ -3302,7 +3279,7 @@ _(b)_ Subsection 2(1) (items 11 and 13) of the _Fair Work (State Referral and 
     <div>S. 5</div>
   </td>
   <td>
-    <div>am. Nos. 54 and 70, 2009; Nos. 32 and 40, 2011; No. 169, 2012</div>
+    <div>am. Nos. 54 and 70, 2009; Nos. 32 and 40, 2011</div>
   </td>
 </tr>
 <tr>
@@ -3415,14 +3392,6 @@ _(b)_ Subsection 2(1) (items 11 and 13) of the _Fair Work (State Referral and 
   </td>
   <td>
     <div>am. No. 63, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 34</div>
-  </td>
-  <td>
-    <div>am. No. 169, 2012</div>
   </td>
 </tr>
 <tr>
@@ -3773,7 +3742,7 @@ Repeal the item, substitute:
   </td>
 </tr></table>
 
-As at 13 December 2012 the amendment is not incorporated in this compilation.
+As at 2 October 2012 the amendment is not incorporated in this compilation.
 
 ## Table A
 
