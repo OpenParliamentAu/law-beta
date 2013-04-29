@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00817/Html/NatMeas60_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00273/Html/NatMeas60_WD02_image001.gif)
 
 # National Measurement Act 1960
 
 **Act No. 64 of 1960 as amended**
 
-This compilation was prepared on 20 December 2010
- taking into account amendments up to Act No. 142 of 2010
+This compilation was prepared on 1 July 2009
+ taking into account amendments up to Act No. 137 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -54,7 +54,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [9](#9).            Verification of State primary standards of measurement
 
-[10](#10).          Measurements to be ascertained in accordance with appropriate standards of measurement, Australian certified reference materials or certified measuring instruments
+[10](#10).          Measurements to be ascertained in accordance with appropriate standards of measurement, certified reference materials or certified measuring instruments
 
 [11](#11).          Conversion factors
 
@@ -94,11 +94,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [18GA](#18GA).    Measuring instruments used for trade to be verified
 
-[18GB](#18GB).    Installing measuring instruments not of an approved pattern
+[18GB](#18GB).    Installing unverified measuring instruments
 
-[18GC](#18GC).    Supplying measuring instruments not of an approved pattern
-
-[18GCA](#18GCA). Letting for hire or loaning unverified measuring instruments
+[18GC](#18GC).    Supplying unverified measuring instruments
 
 [18GD](#18GD).    Inaccurate use of measuring instruments
 
@@ -478,8 +476,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [18RC](#18RC).     Secretary must allocate utility meter verifier’s mark
 
-[18RCA](#18RCA).  NATA accredited verifiers
-
     **Division 2—Disciplinary action against utility meter verifiers appointed on application**
 
 [18RD](#18RD).    Notice to utility meter verifier of intention to take disciplinary action
@@ -532,8 +528,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [19P](#19P).        Evidentiary matters—signature of Secretary or trade measurement inspector
 
-[19Q](#19Q).       Chief Metrologist may determine matters
-
 [20](#20).          Regulations
 
 **Notes** 
@@ -554,21 +548,19 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (a)  is currently in force; or
 
-                     (b)  has expired or been cancelled (but not withdrawn) and was in force when the measuring instrument was manufactured.
+                     (b)  has expired or been cancelled (but not withdrawn) and was in force when the measuring instrument was first verified.
 
                     <a name="aq-mark"></a>**_AQS mark_** has the meaning given by section 18JJ.
 
-                    <a name="aq-sampl-procur"></a>**_AQS sampling procedures_** are sampling procedures determined by the Chief Metrologist under section 19Q for the purposes of Subdivision 3-C of Division 3 of Part VI.
+                    <a name="aq-sampl-procur"></a>**_AQS sampling procedures_** are sampling procedures prescribed for the purposes of Subdivision 3-C of Division 3 of Part VI.
 
-                    <a name="aq-test-procur"></a>**_AQS test procedures_** are test procedures determined by the Chief Metrologist under section 19Q for the purposes of Subdivision 3-C of Division 3 of Part VI.
+                    <a name="aq-test-procur"></a>**_AQS test procedures_** are test procedures prescribed for the purposes of Subdivision 3-C of Division 3 of Part VI.
 
                     <a name="aq-threshold"></a>**_AQS threshold_** is the threshold prescribed for the purposes of Subdivision 3-C of Division 3 of Part VI.
 
                     <a name="articl"></a>**_article_** includes a substance.
 
                     <a name="australia"></a>**_Australia_** includes the external Territories.
-
-                    <a name="australian-certifi-refer-materi"></a>**_Australian certified reference material_** means a reference material that has been certified in accordance with the regulations.
 
                     <a name="australian-legal-unit-measur"></a>**_Australian legal unit of measurement_** means:
 
@@ -604,27 +596,33 @@ but does not include premises or a part of premises occupied as a residence or f
 
                     <a name="certifi-measur-instrum"></a>**_certified measuring instrument_** means a measuring instrument that has been certified in accordance with the regulations.
 
+                    <a name="certifi-refer-materi"></a>**_certified reference material_** means a reference material that has been certified in accordance with the regulations.
+
                     <a name="chief-metrologist"></a>**_Chief Metrologist_** means the Chief Metrologist mentioned in section 18A.
 
                     <a name="commonwealth-author"></a>**_Commonwealth authority_** means a body corporate established for a public purpose by or under a law of the Commonwealth.
 
-                    <a name="instrum"></a><a name="compon"></a>**_component_**: a thing is a component of another thing (the **_instrument_**) by means of which a measurement may be made where:
+                    <a name="basic-thing"></a><a name="compon"></a>**_component_**, in relation to a thing (in this definition called the **_basic thing_**) by means of which a measurement of a physical quantity may be made, includes another thing (whether or not forming part of the basic thing) where:
 
-                     (a)  the instrument is designed or constructed so as to include the thing, or have the thing associated with it, but the thing need not form part of the instrument; and
+                     (a)  the basic thing is so designed or constructed as to include, or have associated with it, the other thing; and
 
-                     (b)  the thing is designed or intended to do any or all of the following:
+                     (b)  the other thing is designed or intended to do any or all of the following:
 
-                              (i)  convert the result of a measurement by the instrument;
+                              (i)  carrying out a conversion of the result of a measurement made by the basic thing;
 
-                             (ii)  calculate number, tax or price by reference to the result of a measurement by the instrument;
+                             (ii)  calculating a number, tax or price by reference to the result of a measurement made by the basic thing;
 
-                            (iii)  correct the result of a measurement by the instrument;
+                            (iii)  correcting the result of a measurement made by the basic thing;
 
-                            (iv)  provide or repeat information relating to the result of a measurement by the instrument or a result of the conversion or calculation described in subparagraph (i) or (ii);
+                            (iv)  providing or repeating information consisting of or relating to any or all of the following:
 
-                             (v)  control the measurement process carried out by the instrument;
+                                        (A)  the result of a measurement made by the basic thing;
 
-                            (vi)  convert a physical quantity into another physical quantity.
+                                        (B)  a conversion of the result of a measurement made by the basic thing;
+
+                                        (C)  a calculation of a number, tax or price calculated by reference to the result of a measurement made by the basic thing;
+
+                             (v)  controlling the measurement process carried out by the basic thing.
 
                     <a name="control"></a>**_controller_**, in relation to premises, a part of premises or a vehicle, means the person apparently in control of the premises, the part of the premises or the vehicle.
 
@@ -692,7 +690,7 @@ and includes the regulations made under those Acts.
 
                     <a name="measur-instrum"></a>**_measuring instrument_** means:
 
-                     (a)  a thing by means of which a measurement may be made; or
+                     (a)  a thing by means of which a measurement of a physical quantity may be made; or
 
                      (b)  a component of such a thing.
 
@@ -706,13 +704,13 @@ and includes the regulations made under those Acts.
 
                      (b)  units decimally related to those units and for the time being so approved.
 
-                    <a name="nation-group-test-procur"></a>**_national group test procedures_** are test procedures with respect to groups of packages determined by the Chief Metrologist under section 19Q for the purposes of Subdivision 4-B of Division 4 of Part VI.
+                    <a name="nation-group-test-procur"></a>**_national group test procedures_** are test procedures with respect to groups of packages prescribed for the purposes of Subdivision 4-B of Division 4 of Part VI.
 
-                    <a name="nation-instrum-test-procur"></a>**_national instrument test procedures_** are procedures for testing measuring instruments determined by the Chief Metrologist under subsection 18GG(2).
+                    <a name="nation-instrum-test-procur"></a>**_national instrument test procedures_** are procedures for testing measuring instruments determined by the Minister under subsection 18GG(2).
 
-                    <a name="nation-sampl-procur"></a>**_national sampling procedures_** are sampling procedures determined by the Chief Metrologist under section 19Q for the purposes of Subdivision 4-B of Division 4 of Part VI.
+                    <a name="nation-sampl-procur"></a>**_national sampling procedures_** are sampling procedures prescribed for the purposes of Subdivision 4-B of Division 4 of Part VI.
 
-                    <a name="nation-singl-articl-test-procur"></a>**_national single article test procedures_** are test procedures with respect to single packages determined by the Chief Metrologist under section 19Q for the purposes of Subdivision 4-B of Division 4 of Part VI.
+                    <a name="nation-singl-articl-test-procur"></a>**_national single article test procedures_** are test procedures with respect to single packages prescribed for the purposes of Subdivision 4-B of Division 4 of Part VI.
 
                     <a name="nation-test-threshold"></a>**_national test threshold_** is the threshold prescribed for the purposes of Subdivision 4-B of Division 4 of Part VI.
 
@@ -890,7 +888,7 @@ Note:          Most of the definitions dealing with utility me
 
 and this Act shall be construed accordingly.
 
-          (1A)  Subsection (2) does not apply in respect of the application of this Act and regulations to utility meters used for trade.
+          (1A)  Subsections (2) and (3) do not apply in respect of the application of this Act and regulations to utility meters used for trade.
 
 Note:          Section 4A deals with the application of the Act in respect of utility meters used for trade
 
@@ -1008,7 +1006,7 @@ shall be recognized-value standards of measurement.
 
              (3)  Where a State primary standard of measurement is verified by the Chief Metrologist or by a person on behalf of the Chief Metrologist, the Chief Metrologist or the person, as the case may be, shall specify the period within which the standard is to be verified again, and the standard shall be verified again within that period.
 
-##### <a id="10"></a>10  Measurements to be ascertained in accordance with appropriate standards of measurement, Australian certified reference materials or certified measuring instruments
+##### <a id="10"></a>10  Measurements to be ascertained in accordance with appropriate standards of measurement, certified reference materials or certified measuring instruments
 
                    When, for any legal purpose, it is necessary to ascertain whether a measurement of a physical quantity for which there are Australian legal units of measurement has been made or is being made in terms of those units, that fact shall be ascertained by means of, by reference to, by comparison with or by derivation from:
 
@@ -1024,15 +1022,15 @@ shall be recognized-value standards of measurement.
 
                       (f)  2 or more standards of measurement, each of which is a standard of measurement referred to in paragraph (a), (b), (c), (d) or (e);
 
-                     (g)  an Australian certified reference material;
+                     (g)  a certified reference material;
 
                      (h)  a certified measuring instrument;
 
-                      (i)  one or more standards of measurement, each of which is a standard of measurement referred to in paragraph (a), (b), (c), (d) or (e) and an Australian certified reference material;
+                      (i)  one or more standards of measurement, each of which is a standard of measurement referred to in paragraph (a), (b), (c), (d) or (e) and a certified reference material;
 
                       (j)  one or more standards of measurement, each of which is a standard of measurement referred to in paragraph (a), (b), (c), (d) or (e) and a certified measuring instrument; or
 
-                     (k)  one or more standards of measurement, each of which is a standard of measurement referred to in paragraph (a), (b), (c), (d) or (e), an Australian certified reference material and a certified measuring instrument;
+                     (k)  one or more standards of measurement, each of which is a standard of measurement referred to in paragraph (a), (b), (c), (d) or (e), a certified reference material and a certified measuring instrument;
 
 and not in any other manner.
 
@@ -1086,9 +1084,7 @@ the reference shall, unless the contrary intention appears, be deemed to be a re
 
              (5)  Nothing in this section shall be taken to affect the validity of a contract, dealing or other transaction, or any interest derived under a contract, dealing or other transaction, merely because the contract, dealing or other transaction contravenes subsection (1).
 
-             (6)  A person who makes or enters into a contract, dealing or other transaction that contravenes subsection (1) commits an offence.
-
-                    Penalty:  5 penalty units.
+             (6)  A person who makes or enters into a contract, dealing or other transaction that contravenes subsection (1) is guilty of an offence punishable on conviction by a fine not exceeding $500.
 
 ##### <a id="13"></a>13  Contracts etc. relating to exportation or importation of goods
 
@@ -1286,7 +1282,7 @@ it is presumed for the purposes of this section that the measuring instrument ha
 
 it is presumed for the purposes of this section that the measuring instrument has been used for trade in or on the vehicle unless the contrary is established.
 
-##### <a id="18GB"></a>18GB  Installing measuring instruments not of an approved pattern
+##### <a id="18GB"></a>18GB  Installing unverified measuring instruments
 
 Offence requiring fault element
 
@@ -1295,66 +1291,6 @@ Offence requiring fault element
                      (a)  the person installs in or on any premises or vehicle a measuring instrument; and
 
                      (b)  the measuring instrument is installed for use for trade; and
-
-                     (c)  the measuring instrument is not of an approved pattern.
-
-                    Penalty:  200 penalty units.
-
-Strict liability offence
-
-             (2)  A person commits an offence if:
-
-                     (a)  the person installs in or on any premises or vehicle a measuring instrument; and
-
-                     (b)  the measuring instrument is installed for use for trade; and
-
-                     (c)  the measuring instrument is not of an approved pattern.
-
-                    Penalty:  40 penalty units.
-
-             (3)  Subsection (2) is an offence of strict liability.
-
-Note:          For strict liability, see section 6.1 of the _Criminal Code_.
-
-##### <a id="18GC"></a>18GC  Supplying measuring instruments not of an approved pattern
-
-Offence requiring fault element
-
-             (1)  A person commits an offence if:
-
-                     (a)  the person sells or otherwise supplies a measuring instrument; and
-
-                     (b)  the measuring instrument is sold or otherwise supplied for use for trade; and
-
-                     (c)  the measuring instrument is not of an approved pattern.
-
-                    Penalty:  200 penalty units.
-
-Strict liability offence
-
-             (2)  A person commits an offence if:
-
-                     (a)  the person sells or otherwise supplies a measuring instrument; and
-
-                     (b)  the measuring instrument is sold or otherwise supplied for use for trade; and
-
-                     (c)  the measuring instrument is not of an approved pattern.
-
-                    Penalty:  40 penalty units.
-
-             (3)  Subsection (2) is an offence of strict liability.
-
-Note:          For strict liability, see section 6.1 of the _Criminal Code_.
-
-##### <a id="18GCA"></a>18GCA  Letting for hire or loaning unverified measuring instruments
-
-Offence requiring fault element
-
-             (1)  A person commits an offence if:
-
-                     (a)  the person lets for hire, or loans, a measuring instrument; and
-
-                     (b)  the measuring instrument is let, or loaned, for use for trade; and
 
                      (c)  the measuring instrument is not verified.
 
@@ -1364,9 +1300,39 @@ Strict liability offence
 
              (2)  A person commits an offence if:
 
-                     (a)  the person lets for hire, or loans, a measuring instrument; and
+                     (a)  the person installs in or on any premises or vehicle a measuring instrument; and
 
-                     (b)  the measuring instrument is let, or loaned, for use for trade; and
+                     (b)  the measuring instrument is installed for use for trade; and
+
+                     (c)  the measuring instrument is not verified.
+
+                    Penalty:  40 penalty units.
+
+             (3)  Subsection (2) is an offence of strict liability.
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+##### <a id="18GC"></a>18GC  Supplying unverified measuring instruments
+
+Offence requiring fault element
+
+             (1)  A person commits an offence if:
+
+                     (a)  the person sells or otherwise supplies a measuring instrument; and
+
+                     (b)  the measuring instrument is sold or otherwise supplied for use for trade; and
+
+                     (c)  the measuring instrument is not verified.
+
+                    Penalty:  200 penalty units.
+
+Strict liability offence
+
+             (2)  A person commits an offence if:
+
+                     (a)  the person sells or otherwise supplies a measuring instrument; and
+
+                     (b)  the measuring instrument is sold or otherwise supplied for use for trade; and
 
                      (c)  the measuring instrument is not verified.
 
@@ -1464,9 +1430,7 @@ Offence requiring fault element
 
              (5)  A person commits an offence if:
 
-                     (a)  the person lets for hire, or loans, a measuring instrument; and
-
-                    (aa)  the measuring instrument is let, or loaned, for use for trade; and
+                     (a)  the person sells or otherwise supplies a measuring instrument for use for trade; and
 
                      (b)  the measuring instrument gives an inaccurate measurement or gives other information (including a statement as to price) inaccurately.
 
@@ -1476,9 +1440,7 @@ Strict liability offence
 
              (6)  A person commits an offence if:
 
-                     (a)  the person lets for hire, or loans, a measuring instrument; and
-
-                    (aa)  the measuring instrument is let, or loaned, for use for trade; and
+                     (a)  the person sells or otherwise supplies a measuring instrument for use for trade; and
 
                      (b)  the measuring instrument gives an inaccurate measurement or gives other information (including a statement as to price) inaccurately.
 
@@ -1550,7 +1512,7 @@ offences for persons who:</li>
 
                      (b)  if the instrument is of a class for which a re-verification period is prescribed—the period since it was last verified or re-verified does not exceed that re-verification period.
 
-             (2)  The Chief Metrologist may determine, in writing, the national instrument test procedures. The determination is not a legislative instrument.
+             (2)  The Minister may, by legislative instrument, determine the national instrument test procedures.
 
              (3)  A re-verification period must not be prescribed for utility meters.
 
@@ -3912,7 +3874,7 @@ evidential material.</li>
 
                      (c)  the holder of an office established by or under a law of the Commonwealth.
 
-             (2)  However, the Secretary must not appoint a person as a trade measurement inspector unless the person has the prescribed qualifications, knowledge or experience.
+             (2)  However, the Secretary must not appoint a person as a trade measurement inspector unless the person holds the prescribed qualifications.
 
              (3)  The regulations may prescribe classes of trade measurement inspectors by reference to either or both of the following:
 
@@ -4514,9 +4476,9 @@ for the purposes of finding out whether Part IV, V, VI or VII has been
 
 complied with or for the collection of evidential material.</li>
 
-<li class="BoxList" style="margin-left:21.25pt">(2)   There is a special process
+<li class="BoxList" style="margin-left:21.25pt">(2)   There is a special process available
 
-available for the issue of warrants in urgent cases (see section 18MZB).</li>
+for the issue of warrants in urgent cases (see section 18MZB).</li>
 
 <li class="BoxList" style="margin-left:21.25pt">(3)   Warrants are issued by
 
@@ -5538,9 +5500,9 @@ provisions about the disciplinary action that may be taken against servicing
 
 licensees and public weighbridge licensees.</li>
 
-<li class="BoxList" style="margin-left:21.25pt">(2)   Section 18QA sets out
+<li class="BoxList" style="margin-left:21.25pt">(2)   Section 18QA sets out the
 
-the grounds on which disciplinary action may be taken.</li>
+grounds on which disciplinary action may be taken.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">(3)   The kinds of disciplinary
 
@@ -5684,8 +5646,6 @@ action that may be taken are:</li>
 
              (2)  The appointment must specify the class or classes of utility meters that the utility meter verifier may verify under the appointment.
 
-          (2A)  The Secretary must not specify a class of utility meter that the utility meter verifier may verify unless the Secretary is satisfied that the verifier, or an employee of the verifier, is competent to test that class of utility meter.
-
              (3)  An appointment is subject to:
 
                      (a)  the conditions set out in paragraphs 18RB(a) to (g); and
@@ -5700,9 +5660,7 @@ action that may be taken are:</li>
 
                    The appointment of a person as a utility meter verifier under section 18RA is subject to the following conditions:
 
-                     (a)  if the verifier is an individual—that the verifier must not personally verify a utility meter unless he or she is competent to test that class of utility meter;
-
-                    (aa)  that the verifier must not employ a person to verify a utility meter unless that person is competent to test that class utility meter;
+                     (a)  that the verifier is accredited by the National Association of Testing Authorities to test the class or classes of utility meters specified in the verifier’s appointment;
 
                      (b)  if the verifier employs persons to verify utility meters—that the verifier provide a list to the Secretary of the employees who will verify utility meters;
 
@@ -5723,10 +5681,6 @@ action that may be taken are:</li>
                      (a)  if the verifier will be personally undertaking the verification—a mark for use by the verifier; and
 
                      (b)  if the verifier will be employing persons to undertake the verification—a separate mark for use by each employee.
-
-##### <a id="18RCA"></a>18RCA  NATA accredited verifiers
-
-                   For the purposes of subsection 18RA(2A), and for the purposes of the conditions set out in paragraphs 18RB(a) and (aa), a person who is accredited by the National Association of Testing Authorities to test a class of utility meter is taken to be competent to test that class of utility meter.
 
 ### Division 2—Disciplinary action against utility meter verifiers appointed on application
 
@@ -5906,11 +5860,11 @@ by the Chief Metrologist, a delegate of the Chief Metrologist or another person 
 
                    A person shall not falsely represent:
 
-                     (a)  that a pattern of a measuring instrument is in accordance with a pattern approved under the regulations; or
+                     (a)  that a pattern of a measuring instrument is in accordance with a pattern approved under the regulations as a pattern of a measuring instrument suitable for use for trade; or
 
                      (b)  that a measuring instrument is in accordance with a pattern so approved.
 
-                    Penalty:  60 penalty units.
+                    Penalty:  $6,000.
 
 ##### <a id="19C"></a>19C  Offences committed by employees—liability of employee
 
@@ -6064,7 +6018,7 @@ Note 2:       The _Privacy Act 1988_ also imposes limitations on the
 
 ##### <a id="19K"></a>19K  Jurisdiction of the Federal Court of Australia and the Federal Magistrates Court
 
-                   Jurisdiction is conferred on the Federal Court of Australia and the Federal Magistrates Court in respect of matters arising under the following provisions:
+                   Jurisdiction is conferred on the Federal Court of Australia and the Federal Magistrates Court in respect of matters arising under the following provisions:
 
                      (a)  section 18LN;
 
@@ -6124,22 +6078,6 @@ Note 2:       The _Privacy Act 1988_ also imposes limitations on the
 
                    A document purporting to be signed by the Secretary or a trade measurement inspector is taken to be signed by that person unless the contrary is established.
 
-##### <a id="19Q"></a>19Q  Chief Metrologist may determine matters
-
-             (1)  The Chief Metrologist may determine, in writing:
-
-                     (a)  AQS sampling procedures for the purposes of Subdivision 3-C of Division 3 of Part VI; and
-
-                     (b)  AQS test procedures for the purposes of Subdivision 3-C of Division 3 of Part VI; and
-
-                     (c)  national group test procedures for the purposes of Subdivision 4-B of Division 4 of Part VI; and
-
-                     (d)  national sampling procedures for the purposes of Subdivision 4-B of Division 4 of Part VI; and
-
-                     (e)  national single article test procedures for the purposes of Subdivision 4-B of Division 4 of Part VI.
-
-             (2)  A determination under subsection (1) is not a legislative instrument.
-
 ##### <a id="20"></a>20  Regulations
 
              (1)  The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters which are required or permitted to be prescribed, or which are necessary or convenient to be prescribed for carrying out or giving effect to this Act, and in particular:
@@ -6157,8 +6095,6 @@ Note 2:       The _Privacy Act 1988_ also imposes limitations on the
                      (d)  providing for the certification of measuring instruments; and
 
                      (e)  providing for or in relation to the issuing of certificates in respect of the certification of reference materials or measuring instruments, for the reception in evidence of a document purporting to be such a certificate and for such a certificate to be prima facie evidence of the matters stated in it; and
-
-                    (ea)  providing for or in relation to the issuing of certificates in respect of measurements of an article, for reception in evidence of a document purporting to be such a certificate and for such a certificate to be prima facie evidence of the matters stated in it; and
 
                       (f)  providing for the exemption from the operation of Part IV of classes of gas, electricity and water meters; and
 
@@ -6190,7 +6126,7 @@ Note 2:       The _Privacy Act 1988_ also imposes limitations on the
 
                               (i)  the examination and certification of patterns of measuring instruments; and
 
-                             (ii)  the verification of measuring instruments used for trade; and
+                             (ii)  the verification of measuring instruments used for trade; and; and
 
                             (iii)  the issue of a certificate in relation to the verification of a measuring instrument used for trade; and
 
@@ -6206,7 +6142,17 @@ Note 2:       The _Privacy Act 1988_ also imposes limitations on the
 
                      (q)  prescribing AQS thresholds for the purposes of Subdivision 3-C of Division 3 of Part VI; and
 
+                      (r)  prescribing AQS sampling procedures for the purposes of Subdivision 3-C of Division 3 of Part VI; and
+
+                      (s)  prescribing AQS test procedures for the purposes of Subdivision 3-C of Division 3 of Part VI; and
+
                       (t)  prescribing the circumstances in which a group of packages is taken to have failed testing in accordance with AQS test procedures; and
+
+                     (u)  prescribing national sampling procedures for the purposes of Subdivision 4-B of Division 4 of Part VI; and
+
+                     (v)  prescribing national group test procedures for the purposes of Subdivision 4-B of Division 4 of Part VI; and
+
+                    (w)  prescribing national single article test procedures for the purposes of Subdivision 4-B of Division 4 of Part VI; and
 
                      (x)  prescribing national test thresholds for the purposes of Subdivision 4-B of Division 4 of Part VI; and
 
@@ -6234,11 +6180,11 @@ All relevant information pertaining to application, saving or transitional provi
 
 <table>
 <colgroup>
-  <col width="30%">
+  <col width="31%">
   <col width="16%">
-  <col width="17%">
-  <col width="21%">
-  <col width="15%">
+  <col width="18%">
+  <col width="22%">
+  <col width="14%">
 </colgroup>
 
 <thead>
@@ -6682,24 +6628,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>Sch. 2 \[ <i>see</i>Table A]</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>National Measurement Amendment Act 2010</div>
-  </td>
-  <td>
-    <div>142, 2010</div>
-  </td>
-  <td>
-    <div>15 Dec 2010</div>
-  </td>
-  <td>
-    <div>Schedule 1: 16 Dec 2010 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 33) \[ <i>see</i>Table A]</div>
-  </td>
 </tr></table>
 
 _(a)_     The _National Measurement Act 1960_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsections 2(1) and (30) of which provide as follows:
@@ -6931,7 +6859,7 @@ _(h)_     Subsection 2(1) (items 2, 4 and 6) of the _National Measurem
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 6, 1964; No. 216, 1973; No. 158, 1978; No. 77, 1984; No. 65, 1985; No. 141, 1987; No. 91, 1989; No. 66, 1991; No. 168, 1992; No. 90, 1998; No. 9, 1999; No. 27, 2004; No. 137, 2008; No. 142, 2010</div>
+    <div>am. No. 6, 1964; No. 216, 1973; No. 158, 1978; No. 77, 1984; No. 65, 1985; No. 141, 1987; No. 91, 1989; No. 66, 1991; No. 168, 1992; No. 90, 1998; No. 9, 1999; No. 27, 2004; No. 137, 2008</div>
   </td>
 </tr>
 <tr>
@@ -6947,7 +6875,7 @@ _(h)_     Subsection 2(1) (items 2, 4 and 6) of the _National Measurem
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 77, 1984; No. 9, 1999; No. 137, 2008; No. 142, 2010</div>
+    <div>am. No. 77, 1984; No. 9, 1999; No. 137, 2008</div>
   </td>
 </tr>
 <tr>
@@ -7096,18 +7024,10 @@ _(h)_     Subsection 2(1) (items 2, 4 and 6) of the _National Measurem
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 10</div>
-  </td>
-  <td>
-    <div>am. No. 142, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 10</div>
   </td>
   <td>
-    <div>am. No. 158, 1978; No. 77, 1984; No. 168, 1992; No. 142, 2010</div>
+    <div>am. No. 158, 1978; No. 77, 1984; No. 168, 1992</div>
   </td>
 </tr>
 <tr>
@@ -7139,7 +7059,7 @@ _(h)_     Subsection 2(1) (items 2, 4 and 6) of the _National Measurem
     <div></div>
   </td>
   <td>
-    <div>am. No. 9, 1999; No. 142, 2010</div>
+    <div>am. No. 9, 1999</div>
   </td>
 </tr>
 <tr>
@@ -7892,90 +7812,10 @@ rep. No. 27, 2004</div>
 </tr>
 <tr>
   <td>
-    <div>S. 18GA</div>
+    <div>Ss. 18GA–18GE</div>
   </td>
   <td>
     <div>ad. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 18GB</div>
-  </td>
-  <td>
-    <div>am. No. 142, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18GB</div>
-  </td>
-  <td>
-    <div>ad. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 142, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 18GC</div>
-  </td>
-  <td>
-    <div>am. No. 142, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18GC</div>
-  </td>
-  <td>
-    <div>ad. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 142, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18GCA</div>
-  </td>
-  <td>
-    <div>ad. No. 142, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18GD</div>
-  </td>
-  <td>
-    <div>ad. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18GE</div>
-  </td>
-  <td>
-    <div>ad. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 142, 2010</div>
   </td>
 </tr>
 <tr>
@@ -7988,31 +7828,7 @@ rep. No. 27, 2004</div>
 </tr>
 <tr>
   <td>
-    <div>S 18GF</div>
-  </td>
-  <td>
-    <div>ad. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18GG</div>
-  </td>
-  <td>
-    <div>ad. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 142, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 18GH–18GQ</div>
+    <div>Ss. 18GF–18GQ</div>
   </td>
   <td>
     <div>ad. No. 137, 2008</div>
@@ -8558,23 +8374,7 @@ Part IX</div>
 </tr>
 <tr>
   <td>
-    <div>S. 18MA</div>
-  </td>
-  <td>
-    <div>ad. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 142, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 18MB, 18MC</div>
+    <div>Ss. 18MA–18MC</div>
   </td>
   <td>
     <div>ad. No. 137, 2008</div>
@@ -8856,34 +8656,10 @@ Part XIII</div>
 </tr>
 <tr>
   <td>
-    <div>Ss. 18RA, 18RB</div>
+    <div>Ss. 18RA–18RC</div>
   </td>
   <td>
     <div>ad. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 142, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18RC</div>
-  </td>
-  <td>
-    <div>ad. No. 137, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18RCA</div>
-  </td>
-  <td>
-    <div>ad. No. 142, 2010</div>
   </td>
 </tr>
 <tr>
@@ -9491,7 +9267,7 @@ Part XIII</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 93, 1966; No. 158, 1978; No. 77, 1984; No. 91, 1989; No. 27, 2004; No. 142, 2010</div>
+    <div>am. No. 93, 1966; No. 158, 1978; No. 77, 1984; No. 91, 1989; No. 27, 2004</div>
   </td>
 </tr>
 <tr>
@@ -9544,18 +9320,10 @@ Part XIII</div>
 </tr>
 <tr>
   <td>
-    <div>S. 19Q</div>
-  </td>
-  <td>
-    <div>ad. No. 142, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 20</div>
   </td>
   <td>
-    <div>am. No. 77, 1984; No. 168, 1992; No. 90, 1998; No. 9, 1999; No. 27, 2004; No. 137, 2008; No. 142, 2010</div>
+    <div>am. No. 77, 1984; No. 168, 1992; No. 90, 1998; No. 9, 1999; No. 27, 2004; No. 137, 2008</div>
   </td>
 </tr></table>
 
@@ -10076,28 +9844,6 @@ If:
 
 the pattern is taken to be an **_approved pattern_** in relation to the measuring instrument for the purposes of that Act.
 
-* * *
-
-_National Measurement Amendment Act 2010 (No. 142, 2010)_
-
-## Schedule 1
-
-## 33  Application provisions
-
-(1)        The amendment made by item 1 applies to measuring instruments manufactured on or after the commencement of that item.
-
-(2)        The amendment made by item 14 applies to contracts, dealings or other transactions made or entered into after the commencement of that item.
-
-(3)        The amendments made by items 15 and 16 apply in relation to the installation of measuring instruments on or after the commencement of those items.
-
-(4)        The amendments made by items 17 and 18 apply in relation to the sale or supply of measuring instruments on or after the commencement of those items.
-
-(5)        The amendment made by item 19 applies in relation to the letting for hire, or loaning, of measuring instruments on or after the commencement of that item.
-
-(6)        The amendments made by item 20 and 21 apply to measuring instruments that are let for hire, loaned, sold or otherwise supplied on or after the commencement of those items.
-
-(7)        The amendments made by items 24, 25 and 26 apply to appointments of utility meter verifiers made on or after the commencement of those items.
-
-(8)        The amendments made by items 27 and 28 apply to representations made on or after the commencement of those items.
+ 
 
  
