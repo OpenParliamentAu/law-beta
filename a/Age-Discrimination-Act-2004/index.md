@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00728/Html/6549d670-1951-4ad5-8e52-70bbce511344_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00596/Html/52447d24-f2ef-4b4c-b7c1-aeb56ee9f95c_files/image001.gif)
 
 # Age Discrimination Act 2004
 
 **Act No. 68 of 2004 as amended**
 
-This compilation was prepared on 2 October 2012
- taking into account amendments up to Act No. 136 of 2012
+This compilation was prepared on 31 July 2012
+ taking into account amendments up to Act No. 26 of 2012
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -243,11 +244,11 @@ to certain geographical and constitutional limitations (see Part 2).</li>
 
 ground of age can be direct or indirect (see Part 3).</li>
 
-<li class="BoxList" style="margin-left:21.25pt">•      It is unlawful to
+<li class="BoxList" style="margin-left:21.25pt">•      It is unlawful to discriminate
 
-discriminate on the ground of age in relation to work (see Division 2 of
+on the ground of age in relation to work (see Division 2 of Part 4)
 
-Part 4) and certain other areas (see Division 3 of Part 4).</li>
+and certain other areas (see Division 3 of Part 4).</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      It is not unlawful to
 
@@ -1645,7 +1646,7 @@ Note:          The Age Discrimination Commissioner is eligible
 
 ##### <a id="53H"></a>53H  Acting Commissioner
 
-                   The Minister may, by written instrument, appoint a person to act as Commissioner:
+             (1)  The Minister may, by written instrument, appoint a person to act as Commissioner:
 
                      (a)  during a vacancy in the office of Commissioner (whether or not an appointment has previously been made to the office); or
 
@@ -1655,7 +1656,17 @@ Note:          The Age Discrimination Commissioner is eligible
 
                              (ii)  is, for any reason, unable to perform the functions of the office.
 
-Note:          For rules that apply to acting appointments, see sections 33AB and 33A of the _Acts Interpretation Act 1901_.
+             (2)  Anything done by or in relation to a person purporting to act under an appointment is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
+
+Note:          See sections 20 and 33A of the _Acts Interpretation Act 1901_.
 
 ## Part 7—Miscellaneous
 
@@ -2766,7 +2777,7 @@ of Assent</div>
     <div>4 Nov 2006</div>
   </td>
   <td>
-    <div>Schedules 1–3: 1 July 2007 ( <i>see</i>s. 2(1)) 
+    <div>Schedules 1–3: 1 July 2007 ( <i>see</i>s. 2(1)) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -2784,7 +2795,7 @@ Remainder: Royal Assent</div>
     <div>15 Mar 2007</div>
   </td>
   <td>
-    <div>Schedules 1–3: 1 July 2007 ( <i>see</i>s. 2(1) and F2007L01653) 
+    <div>Schedules 1–3: 1 July 2007 ( <i>see</i>s. 2(1) and F2007L01653) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -3028,40 +3039,6 @@ Schedule 2 (item 2): 1 July 2008</div>
   </td>
   <td>
     <div>Sch. 1 (item 48(1))</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Navigation (Consequential Amendments) Act 2012</div>
-  </td>
-  <td>
-    <div>129, 2012</div>
-  </td>
-  <td>
-    <div>13 Sept 2012</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 6): \[ <i>see</i>s. 2(1) and Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2012</div>
-  </td>
-  <td>
-    <div>136, 2012</div>
-  </td>
-  <td>
-    <div>22 Sept 2012</div>
-  </td>
-  <td>
-    <div>Schedule 4 (items 1–3, 50): Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 4 (item 50)</div>
   </td>
 </tr></table>
 
@@ -3620,22 +3597,6 @@ _(b)_ Subsection 2(1) (items 11 and 13) of the _Fair Work (State Referral and 
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 53H</div>
-  </td>
-  <td>
-    <div>ad. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part 7</b></div>
   </td>
   <td>
@@ -3706,43 +3667,6 @@ _(b)_ Subsection 2(1) (items 11 and 13) of the _Fair Work (State Referral and 
     <div>am. No. 32, 2007; No. 42, 2008; No. 66, 2009</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Navigation (Consequential Amendments) Act 2012 (No. 129, 2012)_
-
-The following amendment commences at the same time as section 3 of the _Navigation Act 2012_:
-
-## Schedule 2
-
-## 6  Schedule 2 (table item 8)
-
-Repeal the item, substitute:
-
-<table>
-<colgroup>
-  <col width="10%">
-  <col width="45%">
-  <col width="45%">
-</colgroup>
-
-<tr>
-  <td>
-    <div>8</div>
-  </td>
-  <td>
-    <div>Regulations and Marine Orders made under the
-      <i>Navigation Act 2012</i>
-    </div>
-  </td>
-  <td>
-    <div>regulations made for the purposes of paragraph 29(2)(d) of the
-      <i>Navigation Act 2012</i>or a Marine Order made with respect to the matter
-      in that paragraph</div>
-  </td>
-</tr></table>
-
-As at 2 October 2012 the amendment is not incorporated in this compilation.
 
 ## Table A
 
@@ -3958,15 +3882,5 @@ _Fairer Private Health Insurance Incentives Act 2012 (No. 26, 2012)_
 ## 48  Application
 
 (1)       The amendments made by this Schedule apply in relation to premiums, and amounts in respect of premiums, paid on and after 1 July 2012.
-
-* * *
-
-_Statute Law Revision Act 2012 (No. 136, 2012)_
-
-## Schedule 4
-
-## 50  Saving—appointments
-
-The amendments made by this Part do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
 
  
