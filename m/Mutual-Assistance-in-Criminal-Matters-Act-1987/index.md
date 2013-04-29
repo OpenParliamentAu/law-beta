@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00760/Html/2fa2a639-2c58-4793-ae33-148c09bd06d9_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00675/Html/0dd19957-100e-48bb-a036-b15737d97681_files/image001.gif)
 
 # Mutual Assistance in Criminal Matters Act 1987
 
 **Act No. 85 of 1987 as amended**
 
-This compilation was prepared on 8 October 2012
- taking into account amendments up to Act No. 136 of 2012
+This compilation was prepared on 20 September 2012
+ taking into account amendments up to Act No. 7 of 2012
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -603,7 +604,7 @@ when the person knows that, or is reckless of whether or not, the money or other
 
                     <a name="premis"></a>**_premises_** includes:
 
-                     (a)  a structure, building or vehicle; and
+                     (a)  a structure, building or vehicle;
 
                      (b)  a place (whether enclosed or built upon or not); and
 
@@ -1815,7 +1816,7 @@ the Attorney‑General may authorise a proceeds of crime authority, in writing, 
 
              (1)  A foreign forfeiture order registered in a court under this Subdivision has effect, and may be enforced, as if it were a forfeiture order made by the court under the Proceeds of Crime Act at the time of registration.
 
-             (2)  In particular, section 68 of the Proceeds of Crime Act applies in relation to the forfeiture order as if:
+             (2)  In particular, section 68 of the _Proceeds of Crime Act 2002_ applies in relation to the forfeiture order as if:
 
                      (a)  the reference in subparagraph 68(1)(b)(i) of that Act to a proceeds of crime authority having applied for the order were a reference to the foreign forfeiture order having been made; and
 
@@ -3177,7 +3178,7 @@ to appear before the court and be heard on the merits of the application.
 
 ##### <a id="40"></a>40  Delegation
 
-                   The Attorney‑General may (including his or her powers under section 10) delegate to an officer of the Attorney‑General’s Department all or any of his or her powers under this Act.
+             (1)  The Attorney‑General may (including his or her powers under section 10) delegate to an officer of the Attorney‑General’s Department all or any of his or her powers under this Act.
 
 ##### <a id="41"></a>41  Jurisdiction of courts
 
@@ -3329,7 +3330,7 @@ of Assent</div>
   </td>
   <td>
     <div>Ss. 1 and 2: Royal Assent 
-Remainder: 1 Aug 1988 ( <i>see Gazette</i>1988, No. S225)</div>
+Remainder: 1 Aug 1988 ( <i>see Gazette</i>1988, No. S225)</div>
   </td>
   <td>
     <div></div>
@@ -3738,41 +3739,6 @@ Schedule 4 (item 3): \[ <i>see</i> <i>(c)</i>and Note 2]</div>
   <td>
     <div>Sch. 3 (items 15, 24, 33, 49, 69, 113, 135, 140, 144, 148, 152, 168) \[ <i>see</i>Table A]</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Cybercrime Legislation Amendment Act 2012</div>
-  </td>
-  <td>
-    <div>120, 2012</div>
-  </td>
-  <td>
-    <div>12 Sept 2012</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 1–4, 
-24–27, 51(1), 52): \[ <i>see</i>Note 3 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 2 (items 24, 51(1), 52) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2012</div>
-  </td>
-  <td>
-    <div>136, 2012</div>
-  </td>
-  <td>
-    <div>22 Sept 2012</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 86–88): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amended by section 31 only of the _Crimes and Other Legislation Amendment Act 1994_, subsection 2(3) of which provides as follows:
@@ -3938,7 +3904,7 @@ _(c)_     Subsection 2(1) (items 7 and 13) of the _Extradition and Mutua
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 66, 1988; No. 164, 1992; No. 40, 1996; No. 22, 2001; No. 86, 2002; No. 174, 2011; Nos. 7 and 136, 2012</div>
+    <div>am. No. 66, 1988; No. 164, 1992; No. 40, 1996; No. 22, 2001; No. 86, 2002; No. 174, 2011; No. 7, 2012</div>
   </td>
 </tr>
 <tr>
@@ -4530,7 +4496,7 @@ _(c)_     Subsection 2(1) (items 7 and 13) of the _Extradition and Mutua
     <div></div>
   </td>
   <td>
-    <div>am. No. 174, 2011; No. 136, 2012</div>
+    <div>am. No. 174, 2011</div>
   </td>
 </tr>
 <tr>
@@ -5579,7 +5545,7 @@ of Part VI</div>
     <div>S. 40</div>
   </td>
   <td>
-    <div>am. No. 40, 1996; No. 136, 2012</div>
+    <div>am. No. 40, 1996</div>
   </td>
 </tr>
 <tr>
@@ -5651,101 +5617,7 @@ The following amendment commences immediately after 10 October 2012:
 
 Repeal the definition.
 
-As at 8 October 2012 the amendment is not incorporated in this compilation.
-
-### Note 3
-
-_Cybercrime Legislation Amendment Act 2012 (No. 120, 2012)_
-
-The following amendments commence on 10 October 2012:
-
-## Schedule 2
-
-## 1  Subsection 3(1)
-
-Insert:
-
-                    <a name="carrier"></a>**_carrier_** has the same meaning as in the _Telecommunications (Interception and Access) Act 1979_.
-
-## 2  Subsection 3(1)
-
-Insert:
-
-                    <a name="proceing"></a><a name="investig-proceing"></a>**_investigative proceeding_** means a proceeding covered by paragraph (a) or (b) of the definition of **_proceeding_**.
-
-## 3  Subsection 3(1)
-
-Insert:
-
-                    <a name="store-commun"></a>**_stored communication_** has the same meaning as in the _Telecommunications (Interception and Access) Act 1979_.
-
-## 4  After Part III
-
-Insert:
-
-## Part IIIA—Assistance in relation to stored communications
-
-##### <a id="15B"></a>15B  Requests by foreign countries for stored communications
-
-                   The Attorney‑General may, in his or her discretion, authorise the Australian Federal Police or a police force or police service of a State, in writing, to apply for a stored communications warrant under section 110 of the _Telecommunications (Interception and Access) Act 1979_ if the Attorney‑General is satisfied that:
-
-                     (a)  an investigation, or investigative proceeding, relating to a criminal matter involving an offence against the law of a foreign country (the **_requesting country_**) has commenced in the requesting country; and
-
-                     (b)  the offence to which the investigation, or investigative proceeding, relates is punishable by a maximum penalty of:
-
-                              (i)  imprisonment for 3 years or more, imprisonment for life or the death penalty; or
-
-                             (ii)  a fine of an amount that is at least equivalent to 900 penalty units; and
-
-                     (c)  there are reasonable grounds to believe that stored communications relevant to the investigation, or investigative proceeding, are held by a carrier; and
-
-                     (d)  the requesting country has requested the Attorney‑General to arrange for access to the stored communications.
-
-Note:          Information obtained under the warrant may only be communicated to the requesting country on certain conditions: see subsection 142A(1) of the _Telecommunications (Interception and Access) Act 1979_.
-
-## 25  Subsection 3(1)
-
-Insert:
-
-                    <a name="commun"></a>**_communication_** has the same meaning as in the _Telecommunications (Interception and Access) Act 1979_.
-
-## 26  Subsection 3(1)
-
-Insert:
-
-                    <a name="telecommun-system"></a>**_telecommunications system_** has the same meaning as in the _Telecommunications (Interception and Access) Act 1979_.
-
-## 27  Before Part IV
-
-Insert:
-
-## Part IIIB—Assistance in relation to telecommunications data
-
-##### <a id="15D"></a>15D  Requests by foreign countries for telecommunications data
-
-             (1)  This section applies if:
-
-                     (a)   a foreign country requests the disclosure of specified information or specified documents that come into existence during a specified period; and
-
-                     (b)  the information or documents relate to the fact of a communication passing over a telecommunications system.
-
-             (2)  To avoid doubt, information or documents do not relate to the fact of a communication passing over a telecommunications system:
-
-                     (a)  if the information is the contents or substance of a communication; or
-
-                     (b)  to the extent that the documents contain the contents or substance of a communication.
-
-             (3)  The Attorney‑General may authorise the making of an authorisation under section 180B of the _Telecommunications (Interception and Access) Act 1979_, of a disclosure of information or documents to which this section applies, if he or she is satisfied that:
-
-                     (a)  an investigation relating to a criminal matter involving an offence against the law of the foreign country has commenced in that country; and
-
-                     (b)  the offence:
-
-                              (i)  is punishable by imprisonment for 3 years or more, imprisonment for life or the death penalty; or
-
-                             (ii)  involves an act or omission that, if it had occurred in Australia, would have constituted a serious offence within the meaning of section 5D of the _Telecommunications (Interception and Access) Act 1979_.
-
-As at 8 October 2012 the amendments are not incorporated in this compilation.
+As at 20 September 2012 the amendment is not incorporated in this compilation.
 
 ## Table A
 
@@ -5813,7 +5685,7 @@ _Extradition and Mutual Assistance in Criminal Matters Legislation Amendment Act
 
 The amendments made by this Part apply in relation to a request by a foreign country that is under consideration on or after the commencement of this item, whether the request was made before or after that commencement.
 
-## 24  Saving of existing authorisations
+## 24  Saving of existing authorisations
 
 Despite the amendment of subsection 13(1) of the _Mutual Assistance in Criminal Matters Act 1987_ made by item 23 of this Schedule, authorisations given by the Attorney‑General under that subsection that were in force immediately before the commencement of this item continue in force on and after that commencement as if they had been given by the Attorney‑General under subsection 13(1A) of that Act as inserted by item 23 of this Schedule.
 
@@ -5868,26 +5740,6 @@ Despite the repeal of section 34ZA of the _Mutual Assistance in Criminal Matte
 (1)       The amendment made by item 157 of this Schedule applies in relation to an authorisation given to a police officer by the Attorney‑General under section 15 of the _Mutual Assistance in Criminal Matters Act 1987_ on or after the commencement of this item.
 
 (2)       The amendment made by item 165 of this Schedule applies in relation to a proceeding of a kind mentioned in subsection 43(1) of the _Mutual Assistance in Criminal Matters Act 1987_ that begins on or after commencement of this item.
-
-* * *
-
-_Cybercrime Legislation Amendment Act 2012 (No. 120, 2012)_
-
-The following provisions commence on 10 October 2012:
-
-## Schedule 2
-
-## 24  Application of amendments made by this Part
-
-The amendments made by this Part apply in relation to a request by a foreign country that is under consideration on or after the commencement of this item, whether the request was made before or after that commencement.
-
-## 51  Application of amendments made by this Part—authorisations
-
-(1)       The amendments made by this Part apply in relation to an authorisation made on or after the commencement of this item.
-
-## 52  Application of amendments made by this Part—requests by foreign countries
-
-The amendments made by this Part apply in relation to a request by a foreign country that is under consideration on or after the commencement of this item, whether the request was made before or after that commencement.
 
 ## Table B
 
