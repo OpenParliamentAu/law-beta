@@ -1,33 +1,24 @@
-![](http://www.comlaw.gov.au/Details/C2010C00289/Html/Furth1998BudMeasLegAmendSocSec1999_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00038/Html/Furth1998BudMeasLegAmendSocSec1999_image001.gif)
 
 # Further 1998 Budget Measures Legislation Amendment (Social Security) Act 1999
 
-**Act No. 152 of 1999 as amended**
+**Act No. 152 of 1999 as amended**
 
-This compilation was prepared on 26 March 2010
+This compilation was prepared on 1 August 2000
 
-**\[This Act was amended by Act No. 94 of 2000; No. 8 of 2010]**
+**\[This Act was amended by Act No. 94 of 2000]**
 
-**Amendments from Act No. 94 of 2000**
+\[Schedule 10 (item 1) amended Schedule 2 (item 12)
+ Schedule 10 (item 2) amended Schedule 2 (item 15)
+ Schedule 10 (item 3) amended Schedule 2 (item 21)
+ Schedule 10 (item 4) amended Schedule 2 (item 22)
+ Schedule 10 (item 5) amended Schedule 2 (item 28)
+ Schedule 10 (item 6) amended Schedule 2 (item 29)
+ Schedule 10 (item 7) amended Schedule 2 (item 35)
+ Schedule 10 (item 8) amended Schedule 2 (item 40)
+ Schedule 10 (items 1–8) commenced on 20 March 2000]
 
-\[Schedule 10 (item 1) amended Schedule 2 (item 12)
- Schedule 10 (item 2) amended Schedule 2 (item 15)
- Schedule 10 (item 3) amended Schedule 2 (item 21)
- Schedule 10 (item 4) amended Schedule 2 (item 22)
- Schedule 10 (item 5) amended Schedule 2 (item 28)
- Schedule 10 (item 6) amended Schedule 2 (item 29)
- Schedule 10 (item 7) amended Schedule 2 (item 35)
- Schedule 10 (item 8) amended Schedule 2 (item 40)
-
-Schedule 10 (items 1–8) commenced on 20 March 2000]
-
-**Amendment from Act No. 8 of 2010**
-
-\[Schedule 2 (item 14) repealed items 42 and 45 of Schedule 2
-
-Schedule 2 (item 14) commenced on 1 March 2010]
-
-Prepared by the Office of Legislative Drafting and Publishing,
+Prepared by the Office of Legislative Drafting,
  Attorney-General’s Department, Canberra
 
 # Contents
@@ -38,89 +29,91 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [3](#3).            Schedule(s)
 
-**Schedule 1—Amendments relating to special maintenance income** 
+**Schedule 1—Amendments relating to special maintenance income** 
 
 Social Security Act 1991                                                                                            3
 
-**Schedule 2—Amendments relating to CDEP** 
+**Schedule 2—Amendments relating to CDEP** 
 
 Social Security Act 1991                                                                                            4
 
-**Schedule 3—Amendments relating to special employment advance** 
+**Schedule 3—Amendments relating to special employment advance** 
 
 Social Security Act 1991                                                                                          40
 
-**Schedule 4—Introduction of crisis payment** 
+**Schedule 4—Introduction of crisis payment** 
 
-Part 1—Amendment of Social Security Act                                                         66
+Part 1—Amendment of Social Security Act                                                         66
 
 Social Security Act 1991                                                                                          66
 
-Part 2—Consequential amendments                                                                        78
+Part 2—Consequential amendments                                                                        78
 
 Income Tax Assessment Act 1997                                                                            78
 
-Part 3—Application                                                                                                        79
+Part 3—Application                                                                                                        79
 
-**Schedule 5—Amendments relating to newly arrived residents’ waiting periods** 
+**Schedule 5—Amendments relating to newly arrived residents’ waiting periods** 
 
-Part 1—Amendments                                                                                                    80
+Part 1—Amendments                                                                                                    80
 
 Social Security Act 1991                                                                                          80
 
 Health Insurance Act 1973                                                                                      90
 
-Part 2—Saving                                                                                                                 91
+Part 2—Saving                                                                                                                 91
 
-**Schedule 6—Amendments relating to periods of overseas residence and travel** 
+**Schedule 6—Amendments relating to periods of overseas residence and travel** 
 
-Part 1—Amendments relating to portability of pensions                                  92
+Part 1—Amendments relating to portability of pensions                                  92
 
 Social Security Act 1991                                                                                          92
 
-Part 2—Amendments relating to rates of pensions payable under portability provisions          93
+Part 2—Amendments relating to rates of pensions payable under portability provisions          93
 
 Social Security Act 1991                                                                                          93
 
-Part 3—Amendments relating to the grant of pensions overseas                  94
+Part 3—Amendments relating to the grant of pensions overseas                  94
 
 Social Security Act 1991                                                                                          94
 
-Part 4—Amendments relating to the application of international agreements where persons transfer to another pension while overseas                                                                                95
+Part 4—Amendments relating to the application of international agreements where persons transfer to another pension while overseas                                                                                95
 
 Social Security Act 1991                                                                                          95
 
-Part 5—Amendments relating to the waiver of debts arising under international agreements  96
+Part 5—Amendments relating to the waiver of debts arising under international agreements  96
 
 Social Security Act 1991                                                                                          96
 
-Part 6—Amendments relating to the transfer to age pension of persons temporarily overseas              97
+Part 6—Amendments relating to the transfer to age pension of persons temporarily overseas              97
 
 Social Security Act 1991                                                                                          97
 
-**Schedule 7—Amendments relating to youth allowance and newstart allowance: unsuitable work** 
+**Schedule 7—Amendments relating to youth allowance and newstart allowance: unsuitable work** 
 
 Social Security Act 1991                                                                                          98
 
-**Schedule 8—Amendments relating to claim made for youth or newstart allowance after moving to area of lower employment prospects** 
+**Schedule 8—Amendments relating to claim made for youth or newstart allowance after moving to area of lower employment prospects** 
 
 Social Security Act 1991                                                                                        101
 
-**Schedule 9—Amendment relating to pensioner education supplement** 
+**Schedule 9—Amendment relating to pensioner education supplement** 
 
 Social Security Act 1991                                                                                        104
 
-**Schedule 10—Minor technical amendment** 
+**Schedule 10—Minor technical amendment** 
 
 Health Insurance Act 1973                                                                                    105
 
-**Schedule 11—Administrative provisions** 
+**Schedule 11—Administrative provisions** 
 
 Social Security Act 1991                                                                                        106
 
+ 
+
 ## An Act to amend the _Social Security Act 1991_, and for related purposes
 
-[_Assented to 11 November 1999_]
+[_Assented to 11 November 1999_]
 
 The Parliament of Australia enacts:
 
@@ -130,33 +123,33 @@ The Parliament of Australia enacts:
 
 ##### <a id="2"></a>2  Commencement
 
-             (1)  Subject to subsections (2) to (8) (inclusive), this Act commences on the day on which it receives the Royal Assent.
+             (1)  Subject to subsections (2) to (8) (inclusive), this Act commences on the day on which it receives the Royal Assent.
 
-             (2)  Schedule 1 commences on 1 April 2000.
+             (2)  Schedule 1 commences on 1 April 2000.
 
-             (3)  Item 2 and items 8 to 52 of Schedule 2 commence on 20 March 2000.
+             (3)  Item 2 and items 8 to 52 of Schedule 2 commence on 20 March 2000.
 
-             (4)  Schedules 4 and 12 commence on the day on which this Act receives the Royal Assent or 1 October 1999, whichever is the later.
+             (4)  Schedules 4 and 12 commence on the day on which this Act receives the Royal Assent or 1 October 1999, whichever is the later.
 
-             (5)  Subject to subsection (6), Schedule 5 commences on a day to be fixed by Proclamation.
+             (5)  Subject to subsection (6), Schedule 5 commences on a day to be fixed by Proclamation.
 
-             (6)  If Schedule 5 does not commence within the period of 6 months beginning on the day on which this Act receives the Royal Assent, that Schedule commences on the first day after the end of that period.
+             (6)  If Schedule 5 does not commence within the period of 6 months beginning on the day on which this Act receives the Royal Assent, that Schedule commences on the first day after the end of that period.
 
-             (7)  Schedule 9 commences on 1 March 2000.
+             (7)  Schedule 9 commences on 1 March 2000.
 
-             (8)  Part 6 of Schedule 6 commences on 1 August 2000.
+             (8)  Part 6 of Schedule 6 commences on 1 August 2000.
 
 ##### <a id="3"></a>3  Schedule(s)
 
-                   Subject to section 2, each Act that is specified in a Schedule to this Act is amended or repealed as set out in the applicable items in the Schedule concerned, and any other item in a Schedule to this Act has effect according to its terms.
+                   Subject to section 2, each Act that is specified in a Schedule to this Act is amended or repealed as set out in the applicable items in the Schedule concerned, and any other item in a Schedule to this Act has effect according to its terms.
 
  
 
-###### Schedule 1—Amendments relating to special maintenance income
+# Schedule 1—Amendments relating to special maintenance income
 
 <h9 class="ActHead9">Social Security Act 1991</h9>
 
-## 1  Section 3 (index)
+## 1  Section 3 (index)
 
 Repeal:
 
@@ -177,7 +170,7 @@ Repeal:
 
 ## 2  Subsection 10(1) (definition of _non-cash housing maintenance_) (note)
 
-Omit “and section 1117”.
+Omit “and section 1117”.
 
 ## 3  Subsection 10(1) (definition of _special maintenance income_)
 
@@ -191,7 +184,7 @@ Repeal the note.
 
 Repeal the note, substitute:
 
-Note:          The application for the maintenance income test is affected by section 1116 (apportionment of capitalised maintenance income).
+Note:          The application for the maintenance income test is affected by section 1116 (apportionment of capitalised maintenance income).
 
 ## 6  Point 1069-J3 
 
@@ -201,15 +194,15 @@ Repeal the point.
 
 Repeal the points.
 
-## 8  Section 1117
+## 8  Section 1117
 
 Repeal the section.
 
-###### Schedule 2—Amendments relating to CDEP
+# Schedule 2—Amendments relating to CDEP
 
 <h9 class="ActHead9">Social Security Act 1991</h9>
 
-## 1  Section 3 (index of definitions)
+## 1  Section 3 (index of definitions)
 
 Insert the following entries in their appropriate alphabetical positions, determined on a letter-by-letter basis:
 
@@ -252,7 +245,7 @@ Insert the following entries in their appropriate alphabetical positions, determ
   </td>
 </tr></table>
 
-## 2  Section 3 (index of definitions)
+## 2  Section 3 (index of definitions)
 
 Omit:
 
@@ -271,7 +264,7 @@ Omit:
   </td>
 </tr></table>
 
-## 3  After section 3
+## 3  After section 3
 
 Insert:
 
@@ -295,7 +288,7 @@ Insert:
 
 Insert:
 
-                    <a name="scheme-particip"></a><a name="cdep"></a>**_CDEP_** **_Scheme participant_** has the meaning given by section 1188B.
+                    <a name="scheme-particip"></a><a name="cdep"></a>**_CDEP_** **_Scheme participant_** has the meaning given by section 1188B.
 
 ## 6  Subsection 23(1)
 
@@ -311,7 +304,7 @@ Insert:
 
                      (a)  such period (if any) as the Secretary determines in respect of the provision in which the expression occurs; or
 
-                     (b)  in relation to a provision in respect of which there is no determination by the Secretary in force under paragraph (a)—a quarter within the meaning of the CDEP Scheme.
+                     (b)  in relation to a provision in respect of which there is no determination by the Secretary in force under paragraph (a)—a quarter within the meaning of the CDEP Scheme.
 
 ## 8  Subsection 23(1) (definition of _Commonwealth funded employment program_)
 
@@ -319,15 +312,15 @@ Repeal the definition.
 
 ## 9  Subsection 23(1) (at the end of the definition of _social security recipient status_)
 
-Add (but not as part of paragraph (b)):
+Add (but not as part of paragraph (b)):
 
-; and includes status held on or after 20 March 2000 as a CDEP Scheme participant receiving the CDEP Scheme Participant Supplement.
+; and includes status held on or after 20 March 2000 as a CDEP Scheme participant receiving the CDEP Scheme Participant Supplement.
 
 ## 10  Paragraph 408CA(1)(h)
 
 Repeal the paragraph.
 
-## 11  Section 408CG
+## 11  Section 408CG
 
 Repeal the section, substitute:
 
@@ -335,11 +328,11 @@ Repeal the section, substitute:
 
                    The maximum basic rate, and the remote area allowance, of widow allowance for a period are not payable to a woman who is a CDEP Scheme participant in respect of the whole or a part of the period.
 
-Note 1:       For **_remote area allowance_** see Module J of Benefit Rate Calculator B.
+Note 1:       For **_remote area allowance_** see Module J of Benefit Rate Calculator B.
 
 Note 2:       For **_CDEP Scheme participant_** see subsection 23(1).
 
-## 12  At the end of Division 5 of Part 2.8A
+## 12  At the end of Division 5 of Part 2.8A
 
 Add:
 
@@ -347,9 +340,9 @@ Add:
 
              (1)  A person who is a CDEP Scheme participant in respect of the whole or a part of a quarter may, by written notice given to the Secretary, choose to accumulate the amounts of any widow allowance that become payable to the person in respect of that quarter, or any later quarter in respect of the whole or a part of which the person is a CDEP Scheme participant, and have not already been paid.
 
-             (2)  If a person to whom subsection (1) applies makes a choice under that subsection, the sum of the accumulated amounts payable to the person in respect of a quarter is to be paid on, or as soon as practicable after, the first payday after:
+             (2)  If a person to whom subsection (1) applies makes a choice under that subsection, the sum of the accumulated amounts payable to the person in respect of a quarter is to be paid on, or as soon as practicable after, the first payday after:
 
-                     (a)  unless paragraph (b) applies, the last day of the quarter; or
+                     (a)  unless paragraph (b) applies, the last day of the quarter; or
 
                      (b)  if the person ceases to be a CDEP Scheme participant before the end of the quarter—the day on which the person so ceases.
 
@@ -357,7 +350,7 @@ Add:
 
                     <a name="quarter"></a>**_quarter_** means a CDEP Scheme quarter.
 
-Note 1:       For **_CDEP Scheme participant_** see section 1188B.
+Note 1:       For **_CDEP Scheme participant_** see section 1188B.
 
 Note 2:       For **_CDEP Scheme quarter_** see subsection 23(1).
 
@@ -365,7 +358,7 @@ Note 2:       For **_CDEP Scheme quarter_** see subsection 23(1).
 
 Repeal the paragraph.
 
-## 14  Section 500W
+## 14  Section 500W
 
 Repeal the section, substitute:
 
@@ -377,7 +370,7 @@ Note 1:       For **_CDEP Scheme participant_** see subsection 23(1)
 
 Note 2:       For **_remote area allowance_** see Module G of PP (partnered) Rate Calculator.
 
-## 15  At the end of Division 4 of Part 2.10
+## 15  At the end of Division 4 of Part 2.10
 
 Add:
 
@@ -385,9 +378,9 @@ Add:
 
              (1)  A person who is a member of a couple, and is a CDEP Scheme participant in respect of the whole or a part of a quarter, may, by written notice given to the Secretary, choose to accumulate the amounts of any parenting payment that become payable to the person in respect of that quarter, or any later quarter in respect of the whole or a part of which the person is a CDEP Scheme participant, and have not already been paid.
 
-             (2)  If a person to whom subsection (1) applies makes a choice under that subsection, the sum of the accumulated amounts payable to the person in respect of a quarter is to be paid on, or as soon as practicable after, the first payday after:
+             (2)  If a person to whom subsection (1) applies makes a choice under that subsection, the sum of the accumulated amounts payable to the person in respect of a quarter is to be paid on, or as soon as practicable after, the first payday after:
 
-                     (a)  unless paragraph (b) applies, the last day of the quarter; or
+                     (a)  unless paragraph (b) applies, the last day of the quarter; or
 
                      (b)  if the person ceases to be a CDEP Scheme participant before the end of the quarter—the day on which the person so ceases.
 
@@ -395,11 +388,11 @@ Add:
 
                     <a name="quarter"></a>**_quarter_** means a CDEP Scheme quarter.
 
-Note 1:       For **_CDEP Scheme participant_** see section 1188B.
+Note 1:       For **_CDEP Scheme participant_** see section 1188B.
 
 Note 2:       For **_CDEP Scheme quarter_** see subsection 23(1).
 
-## 16  At the end of Division 9 of Part 2.10
+## 16  At the end of Division 9 of Part 2.10
 
 Add:
 
@@ -407,13 +400,13 @@ Add:
 
 ##### <a id="514FA"></a>514FA  Calculation of bereavement payment in respect of former CDEP Scheme participant
 
-                   If a benefit becomes payable under this Division in respect of a person who was a CDEP Scheme participant in respect of the day on which the benefit becomes payable, the amount of the benefit is to be the amount that would have been the amount of the benefit if section 500W had not been enacted.
+                   If a benefit becomes payable under this Division in respect of a person who was a CDEP Scheme participant in respect of the day on which the benefit becomes payable, the amount of the benefit is to be the amount that would have been the amount of the benefit if section 500W had not been enacted.
 
-Note:          For **_CDEP Scheme participant_** see section 1188B.
+Note:          For **_CDEP Scheme participant_** see section 1188B.
 
-## 17  Section 540
+## 17  Section 540
 
-Omit all the words before paragraph (b), substitute:
+Omit all the words before paragraph (b), substitute:
 
                    Subject to this Subdivision, a person is qualified for a youth allowance in respect of a period if:
 
@@ -421,7 +414,7 @@ Omit all the words before paragraph (b), substitute:
 
                               (i)  throughout the period the person satisfies the activity test (see Subdivision B) or is not required to satisfy the activity test (see Subdivision C); 
 
-                             (ii)  the person is a CDEP Scheme participant (see section 1188B) in respect of the period;
+                             (ii)  the person is a CDEP Scheme participant (see section 1188B) in respect of the period;
 
 ## 18  Paragraphs 540(b), (c) and (d)
 
@@ -431,13 +424,13 @@ Before “the person” (first occurring), insert “throughout the period”.
 
 Insert “except where the person is a CDEP Scheme participant in respect of the period,”.
 
-## 20  Paragraphs 552(c) and (d)
+## 20  Paragraphs 552(c) and (d)
 
 Repeal the paragraphs, substitute:
 
-                     (c)  an assurance of support applies to the person (see section 552B).
+                     (c)  an assurance of support applies to the person (see section 552B).
 
-## 21  At the end of Subdivision F of Division 2 of Part 2.11
+## 21  At the end of Subdivision F of Division 2 of Part 2.11
 
 Add:
 
@@ -449,7 +442,7 @@ Note 1:       For **_remote area allowance_** see Module K of the Yo
 
 Note 2:       For **_CDEP Scheme participant_** see subsection 23(1).
 
-## 22  At the end of Division 5 of Part 2.11
+## 22  At the end of Division 5 of Part 2.11
 
 Add:
 
@@ -457,9 +450,9 @@ Add:
 
              (1)  A person who is a CDEP Scheme participant in respect of the whole or a part of a quarter may, by written notice given to the Secretary, choose to accumulate the amounts of any youth allowance that become payable to the person in respect of that quarter, or any later quarter in respect of the whole or a part of which the person is a CDEP Scheme participant, and have not already been paid.
 
-             (2)  If a person to whom subsection (1) applies makes a choice under that subsection, the sum of the accumulated amounts payable to the person in respect of a quarter is to be paid on, or as soon as practicable after, the first payday after:
+             (2)  If a person to whom subsection (1) applies makes a choice under that subsection, the sum of the accumulated amounts payable to the person in respect of a quarter is to be paid on, or as soon as practicable after, the first payday after:
 
-                     (a)  unless paragraph (b) applies, the last day of the quarter; or
+                     (a)  unless paragraph (b) applies, the last day of the quarter; or
 
                      (b)  if the person ceases to be a CDEP Scheme participant before the end of the quarter—the day on which the person so ceases.
 
@@ -467,19 +460,19 @@ Add:
 
                     <a name="quarter"></a>**_quarter_** means a CDEP Scheme quarter.
 
-Note 1:       For **_CDEP Scheme participant_** see section 1188B.
+Note 1:       For **_CDEP Scheme participant_** see section 1188B.
 
 Note 2:       For **_CDEP Scheme quarter_** see subsection 23(1).
 
-## 23  At the end of Division 10 of Part 2.11
+## 23  At the end of Division 10 of Part 2.11
 
 Add:
 
-##### <a id="567F"></a>567F  Calculation of bereavement payment in respect of former CDEP Scheme participant
+##### <a id="567F"></a>567F  Calculation of bereavement payment in respect of former CDEP Scheme participant
 
-                   If a benefit becomes payable under this Division in respect of a person who was a CDEP Scheme participant in respect of the day on which the benefit becomes payable, the amount of the benefit is to be the amount that would have been the amount of the benefit if section 552C had not been enacted.
+                   If a benefit becomes payable under this Division in respect of a person who was a CDEP Scheme participant in respect of the day on which the benefit becomes payable, the amount of the benefit is to be the amount that would have been the amount of the benefit if section 552C had not been enacted.
 
-Note:          For **_CDEP Scheme participant_** see section 1188B.
+Note:          For **_CDEP Scheme participant_** see section 1188B.
 
 ## 24  Paragraphs 593(1)(a) and (b)
 
@@ -491,9 +484,9 @@ Repeal the paragraphs, substitute:
 
                              (ii)  the person is a CDEP Scheme participant in respect of the period; and
 
-Note:       For **_CDEP Scheme participant_** see section 1188B.
+Note:       For **_CDEP Scheme participant_** see section 1188B.
 
-                     (b)  in the case of a person to whom subparagraph (a)(i) applies—throughout the period, or for each period within the period, the person:
+                     (b)  in the case of a person to whom subparagraph (a)(i) applies—throughout the period, or for each period within the period, the person:
 
                               (i)  satisfies the activity test; or
 
@@ -507,7 +500,7 @@ Insert “except where the person is a CDEP Scheme participant in respect of the
 
 Repeal the paragraph.
 
-## 27  Section 614A
+## 27  Section 614A
 
 Repeal the section, substitute:
 
@@ -515,11 +508,11 @@ Repeal the section, substitute:
 
                    The maximum basic rate, and the remote area allowance, of newstart allowance for a period are not payable to a person who is a CDEP Scheme participant in respect of the whole or a part of the period.
 
-Note 1:       For **_remote area allowance_** see Module J of Benefit Rate Calculator B.
+Note 1:       For **_remote area allowance_** see Module J of Benefit Rate Calculator B.
 
 Note 2:       For **_CDEP Scheme participant_** see subsection 23(1).
 
-## 28  At the end of Division 4 of Part 2.12
+## 28  At the end of Division 4 of Part 2.12
 
 Add:
 
@@ -527,9 +520,9 @@ Add:
 
              (1)  A person who is a CDEP Scheme participant in respect of the whole or a part of a quarter may, by written notice given to the Secretary, choose to accumulate the amounts of any newstart allowance that become payable to the person in respect of that quarter, or any later quarter in respect of the whole or a part of which the person is a CDEP Scheme participant, and have not already been paid.
 
-             (2)  If a person to whom subsection (1) applies makes a choice under that subsection, the sum of the accumulated amounts payable to the person in respect of a quarter is to be paid on, or as soon as practicable after, the first payday after:
+             (2)  If a person to whom subsection (1) applies makes a choice under that subsection, the sum of the accumulated amounts payable to the person in respect of a quarter is to be paid on, or as soon as practicable after, the first payday after:
 
-                     (a)  unless paragraph (b) applies, the last day of the quarter; or
+                     (a)  unless paragraph (b) applies, the last day of the quarter; or
 
                      (b)  if the person ceases to be a CDEP Scheme participant before the end of the quarter—the day on which the person so ceases.
 
@@ -537,25 +530,25 @@ Add:
 
                     <a name="quarter"></a>**_quarter_** means a CDEP Scheme quarter.
 
-Note 1:       For **_CDEP Scheme participant_** see section 1188B.
+Note 1:       For **_CDEP Scheme participant_** see section 1188B.
 
 Note 2:       For **_CDEP Scheme quarter_** see subsection 23(1).
 
-## 29  At the end of Division 4 of Part 2.12
+## 29  At the end of Division 4 of Part 2.12
 
 Add:
 
 ##### <a id="660LG"></a>660LG  Calculation of bereavement payment in respect of former CDEP Scheme participant
 
-                   If a benefit becomes payable under this Division in respect of a person who was a CDEP Scheme participant in respect of the day on which the benefit becomes payable, the amount of the benefit is to be the amount that would have been the amount of the benefit if section 614A had not been enacted.
+                   If a benefit becomes payable under this Division in respect of a person who was a CDEP Scheme participant in respect of the day on which the benefit becomes payable, the amount of the benefit is to be the amount that would have been the amount of the benefit if section 614A had not been enacted.
 
-Note:          For **_CDEP Scheme participant_** see section 1188B.
+Note:          For **_CDEP Scheme participant_** see section 1188B.
 
 ## 30  Paragraph 660XCA(1)(e)
 
 Repeal the paragraph.
 
-## 31  Section 660XCH
+## 31  Section 660XCH
 
 Repeal the section.
 
@@ -563,13 +556,13 @@ Repeal the section.
 
 Add:
 
-Note:          For **_CDEP Scheme participant_** see section 1188B.
+Note:          For **_CDEP Scheme participant_** see section 1188B.
 
 ## 33  Paragraph 660YCA(1)(e)
 
 Repeal the paragraph.
 
-## 34  Section 660YCH
+## 34  Section 660YCH
 
 Repeal the section, substitute:
 
@@ -577,11 +570,11 @@ Repeal the section, substitute:
 
                    The maximum basic rate, and the remote area allowance, of mature age allowance for a period are not payable to a person who is a CDEP Scheme participant in respect of the whole or a part of the period.
 
-Note 1:       For **_remote area allowance_** see Module J of Benefit Rate Calculator B.
+Note 1:       For **_remote area allowance_** see Module J of Benefit Rate Calculator B.
 
 Note 2:       For **_CDEP Scheme participant_** see subsection 23(1).
 
-## 35  At the end of Division 6 of Part 2.12B
+## 35  At the end of Division 6 of Part 2.12B
 
 Add:
 
@@ -589,9 +582,9 @@ Add:
 
              (1)  A person who is a CDEP Scheme participant in respect of the whole or a part of a quarter may, by written notice given to the Secretary, choose to accumulate the amounts of any mature age allowance that become payable to the person in respect of that quarter, or any later quarter in respect of the whole or a part of which the person is a CDEP Scheme participant, and have not already been paid.
 
-             (2)  If a person to whom subsection (1) applies makes a choice under that subsection, the sum of the accumulated amounts payable to the person in respect of a quarter is to be paid on, or as soon as practicable after, the first payday after:
+             (2)  If a person to whom subsection (1) applies makes a choice under that subsection, the sum of the accumulated amounts payable to the person in respect of a quarter is to be paid on, or as soon as practicable after, the first payday after:
 
-                     (a)  unless paragraph (b) applies, the last day of the quarter; or
+                     (a)  unless paragraph (b) applies, the last day of the quarter; or
 
                      (b)  if the person ceases to be a CDEP Scheme participant before the end of the quarter—the day on which the person so ceases.
 
@@ -599,11 +592,11 @@ Add:
 
                     <a name="quarter"></a>**_quarter_** means a CDEP Scheme quarter.
 
-Note 1:       For **_CDEP Scheme participant_** see section 1188B.
+Note 1:       For **_CDEP Scheme participant_** see section 1188B.
 
 Note 2:       For **_CDEP Scheme quarter_** see subsection 23(1).
 
-## 36  At the end of Division 11 of Part 2.12B
+## 36  At the end of Division 11 of Part 2.12B
 
 Add:
 
@@ -611,11 +604,11 @@ Add:
 
 ##### <a id="660YKH"></a>660YKH  Calculation of bereavement payment in respect of former CDEP Scheme participant
 
-                   If a benefit becomes payable under this Division in respect of a person who was a CDEP Scheme participant in respect of the day on which the benefit becomes payable, the amount of the benefit is to be the amount that would have been the amount of the benefit if section 660YCH had not been enacted.
+                   If a benefit becomes payable under this Division in respect of a person who was a CDEP Scheme participant in respect of the day on which the benefit becomes payable, the amount of the benefit is to be the amount that would have been the amount of the benefit if section 660YCH had not been enacted.
 
-Note:          For **_CDEP Scheme participant_** see section 1188B.
+Note:          For **_CDEP Scheme participant_** see section 1188B.
 
-## 37  At the end of section 686
+## 37  At the end of section 686
 
 Add:
 
@@ -625,7 +618,7 @@ Add:
 
 Repeal the paragraph.
 
-## 39  Section 771HK
+## 39  Section 771HK
 
 Repeal the section, substitute:
 
@@ -633,11 +626,11 @@ Repeal the section, substitute:
 
                    The maximum basic rate, and the remote area allowance, of partner allowance for a period are not payable to a person who is a CDEP Scheme participant in respect of the whole or a part of the period.
 
-Note 1:       For **_remote area allowance_** see Module J of Benefit Rate Calculator B.
+Note 1:       For **_remote area allowance_** see Module J of Benefit Rate Calculator B.
 
 Note 2:       For **_CDEP Scheme participant_** see subsection 23(1).
 
-## 40  At the end of Division 4 of Part 2.15A
+## 40  At the end of Division 4 of Part 2.15A
 
 Add:
 
@@ -645,9 +638,9 @@ Add:
 
              (1)  A person who is a CDEP Scheme participant in respect of the whole or a part of a quarter may, by written notice given to the Secretary, choose to accumulate the amounts of any partner allowance that become payable to the person in respect of that quarter, or any later quarter in respect of the whole or a part of which the person is a CDEP Scheme participant, and have not already been paid.
 
-             (2)  If a person to whom subsection (1) applies makes a choice under that subsection, the sum of the accumulated amounts payable to the person in respect of a quarter is to be paid on, or as soon as practicable after, the first payday after:
+             (2)  If a person to whom subsection (1) applies makes a choice under that subsection, the sum of the accumulated amounts payable to the person in respect of a quarter is to be paid on, or as soon as practicable after, the first payday after:
 
-                     (a)  unless paragraph (b) applies, the last day of the quarter; or
+                     (a)  unless paragraph (b) applies, the last day of the quarter; or
 
                      (b)  if the person ceases to be a CDEP Scheme participant before the end of the quarter—the day on which the person so ceases.
 
@@ -655,11 +648,11 @@ Add:
 
                     <a name="quarter"></a>**_quarter_** means a CDEP Scheme quarter.
 
-Note 1:       For **_CDEP Scheme participant_** see section 1188B.
+Note 1:       For **_CDEP Scheme participant_** see section 1188B.
 
 Note 2:       For **_CDEP Scheme quarter_** see subsection 23(1).
 
-## 41  At the end of Division 9 of Part 2.15A
+## 41  At the end of Division 9 of Part 2.15A
 
 Add:
 
@@ -667,9 +660,13 @@ Add:
 
 ##### <a id="771NZAA"></a>771NZAA  Calculation of bereavement payment in respect of former CDEP Scheme participant
 
-                   If a benefit becomes payable under this Division in respect of a person who was a CDEP Scheme participant in respect of the day on which the benefit becomes payable, the amount of the benefit is to be the amount that would have been the amount of the benefit if section 771HK had not been enacted.
+                   If a benefit becomes payable under this Division in respect of a person who was a CDEP Scheme participant in respect of the day on which the benefit becomes payable, the amount of the benefit is to be the amount that would have been the amount of the benefit if section 771HK had not been enacted.
 
-Note:          For **_CDEP Scheme participant_** see section 1188B.
+Note:          For **_CDEP Scheme participant_** see section 1188B.
+
+## 42  Point 1067G-A1 (method statement, step 14)
+
+After “plus”, insert “, except where the person is a CDEP Scheme participant in respect of the whole or a part of the period for which the rate of allowance is being worked out,”.
 
 ## 43  Point 1067G-B1
 
@@ -677,9 +674,13 @@ Omit “A person’s maximum basic rate”, substitute “The maximum basic rate
 
 ## 44  At the end of point 1067G-B1
 
-Add (but not as part of paragraph (c)):
+Add (but not as part of paragraph (c)):
 
-The maximum basic rate of a person who is a CDEP Scheme participant in respect of the whole or a part of the period for which the maximum basic rate is being worked out is nil (see section 552C).
+The maximum basic rate of a person who is a CDEP Scheme participant in respect of the whole or a part of the period for which the maximum basic rate is being worked out is nil (see section 552C).
+
+## 45  Point 1068-A1 (method statement, step 7)
+
+After “plus”, insert “, except where the person is a CDEP Scheme participant in respect of the whole or a part of the period for which the rate of benefit is being worked out,”.
 
 ## 46  Point 1068-B1
 
@@ -687,7 +688,7 @@ Omit “A person’s maximum basic rate”, substitute “The maximum basic rate
 
 ## 47  Point 1068-B1 (after the third sentence)
 
-Insert “The maximum basic rate of a person who is a CDEP Scheme participant in respect of the whole or a part of the period for which the maximum basic rate is being worked out is nil (see sections 408CG, 614A, 660YCH and 771HK).”.
+Insert “The maximum basic rate of a person who is a CDEP Scheme participant in respect of the whole or a part of the period for which the maximum basic rate is being worked out is nil (see sections 408CG, 614A, 660YCH and 771HK).”.
 
 ## 48  Point 1068B-A3 (method statement, step 8)
 
@@ -705,21 +706,21 @@ After “payable to a person”, insert “other than a person who is a CDEP Sch
 
 After “payable to a person”, insert “other than a person who is a CDEP Scheme participant in respect of the whole or a part of the period for which the maximum basic rate is being worked out”.
 
-## 52  Section 1068B (at the end of Module C in the PP (partnered) Rate Calculator)
+## 52  Section 1068B (at the end of Module C in the PP (partnered) Rate Calculator)
 
 Add:
 
 Maximum basic rate—CDEP Scheme participant
 
-  1068B-C3  The maximum basic rate of a person who is a CDEP Scheme participant in respect of the whole or a part of the period for which the maximum basic rate is being worked out is nil (see section 500W).
+  1068B-C3  The maximum basic rate of a person who is a CDEP Scheme participant in respect of the whole or a part of the period for which the maximum basic rate is being worked out is nil (see section 500W).
 
-## 53  After Part 3.15
+## 53  After Part 3.15
 
 Insert:
 
-## Part 3.15A—Community Development Employment Projects Scheme
+## Part 3.15A—Community Development Employment Projects Scheme
 
-### Division 1—Preliminary
+### Division 1—Preliminary
 
 ##### <a id="1188A"></a>1188A  General effect of Part
 
@@ -727,15 +728,15 @@ Insert:
 
              (2)  This Part also provides, in certain circumstances, a supplement for a person for a period in respect of which the person is a CDEP Scheme participant.
 
-##### <a id="1188B"></a>1188B  CDEP Scheme participants
+##### <a id="1188B"></a>1188B  CDEP Scheme participants
 
-             (1)  A person is, or is taken to have been, a **_CDEP Scheme participant_** in respect of a particular day (the **_relevant day_**) on or after 20 March 1999 if:
+             (1)  A person is, or is taken to have been, a **_CDEP Scheme participant_** in respect of a particular day (the **_relevant day_**) on or after 20 March 1999 if:
 
                      (a)  the person’s name appeared on the latest CDEP Scheme Participant Schedule, approved on or before the relevant day, and there is no certificate in force, given, after the approval of that Schedule, by an authorised officer stating that the person ceased on or before the relevant day to be a person participating in the CDEP Scheme; or
 
                      (b)  the person’s name did not appear on that Schedule but a certificate is in force, given, after the approval of that Schedule, by an authorised officer stating that the person began to participate in the CDEP Scheme on or before the relevant day and there is no certificate in force, given, after the issue of the first-mentioned certificate, by an authorised officer stating that the person ceased on or before the relevant day to participate in the CDEP Scheme.
 
-             (2)  Subsection (1) does not apply in relation to a person in respect of a particular day if the Secretary believes, on reasonable grounds, that, on that day:
+             (2)  Subsection (1) does not apply in relation to a person in respect of a particular day if the Secretary believes, on reasonable grounds, that, on that day:
 
                      (a)  the person was no longer participating in the program constituted by the CDEP Scheme; or
 
@@ -749,9 +750,9 @@ Insert:
 
                     <a name="cdep-scheme-particip-schule"></a>**_CDEP Scheme Participant Schedule_** means a schedule of the names of people participating in the CDEP Scheme that has been approved by ATSIC for the purposes of that Scheme.
 
-                    <a name="relev-dai"></a>**_relevant day_** has the meaning given by subsection (1).
+                    <a name="relev-dai"></a>**_relevant day_** has the meaning given by subsection (1).
 
-### Division 2—Reduction in rate of pension or allowance
+### Division 2—Reduction in rate of pension or allowance
 
 ##### <a id="1188C"></a>1188C  Reductions in rate of payments under this Act if recipient or partner also receiving payments under CDEP Scheme
 
@@ -777,7 +778,7 @@ Insert:
 
                             (ix)  special needs pension;
 
-                             (x)  mature age allowance under Part 2.12A;
+                             (x)  mature age allowance under Part 2.12A;
 
                             (xi)  mature age partner allowance;
 
@@ -787,27 +788,27 @@ Insert:
 
 the following provisions have effect:
 
-                     (c)  if a CDEP Scheme payment referred to in paragraph (b) that is payable to the person exceeds the person’s threshold:
+                     (c)  if a CDEP Scheme payment referred to in paragraph (b) that is payable to the person exceeds the person’s threshold:
 
                               (i)  the amount of the instalment is reduced by the part of the CDEP Scheme payment that does not exceed the person’s threshold; and
 
                              (ii)  the ordinary income of the person includes the part of the CDEP Scheme payment that exceeds the person’s threshold;
 
-                     (d)  if a CDEP Scheme payment referred to in paragraph (b) that is payable to the person does not exceed the person’s threshold:
+                     (d)  if a CDEP Scheme payment referred to in paragraph (b) that is payable to the person does not exceed the person’s threshold:
 
                               (i)  the amount of the instalment is reduced by the amount of the CDEP Scheme payment; and
 
                              (ii)  the CDEP Scheme payment is not ordinary income of the person;
 
-                     (e)  if a CDEP Scheme payment referred to in paragraph (b) that is payable to the person’s partner exceeds the partner’s threshold:
+                     (e)  if a CDEP Scheme payment referred to in paragraph (b) that is payable to the person’s partner exceeds the partner’s threshold:
 
                               (i)  the part of the CDEP Scheme payment that does not exceed the partner’s threshold is not ordinary income of the person or of the person’s partner; and
 
                              (ii)  the ordinary income of the person’s partner includes the part of the CDEP Scheme payment that exceeds the partner’s threshold;
 
-                      (f)  if a CDEP Scheme payment referred to in paragraph (b) that is payable to the person’s partner does not exceed the partner’s threshold, the CDEP Scheme payment is not ordinary income of the person or of the person’s partner.
+                      (f)  if a CDEP Scheme payment referred to in paragraph (b) that is payable to the person’s partner does not exceed the partner’s threshold, the CDEP Scheme payment is not ordinary income of the person or of the person’s partner.
 
-             (2)  If a person who had been receiving instalments of a pension payment, allowance or benefit referred to in paragraph (1)(a) dies, then, in calculating any bereavement payment in respect of the person, any deductions made from the amounts of the instalments under subparagraph (1)(c)(i), (d)(i) or (e)(i) are to be disregarded.
+             (2)  If a person who had been receiving instalments of a pension payment, allowance or benefit referred to in paragraph (1)(a) dies, then, in calculating any bereavement payment in respect of the person, any deductions made from the amounts of the instalments under subparagraph (1)(c)(i), (d)(i) or (e)(i) are to be disregarded.
 
              (3)  If:
 
@@ -823,7 +824,7 @@ the following provisions have effect:
 
                              (v)  partner allowance;
 
-                            (vi)  mature age allowance under Part 2.12B;
+                            (vi)  mature age allowance under Part 2.12B;
 
                             is payable to a person in respect of a payment period; and
 
@@ -831,11 +832,11 @@ the following provisions have effect:
 
 the following provisions have effect:
 
-                     (c)  if the CDEP Scheme payment referred to in paragraph (b) exceeds the person’s threshold, the ordinary income of the person includes the part of the CDEP Scheme payment that exceeds the person’s threshold;
+                     (c)  if the CDEP Scheme payment referred to in paragraph (b) exceeds the person’s threshold, the ordinary income of the person includes the part of the CDEP Scheme payment that exceeds the person’s threshold;
 
-                     (d)  if the CDEP Scheme payment referred to in paragraph (b) does not exceed the person’s threshold, the CDEP Scheme payment is not ordinary income of the person.
+                     (d)  if the CDEP Scheme payment referred to in paragraph (b) does not exceed the person’s threshold, the CDEP Scheme payment is not ordinary income of the person.
 
-             (4)  This section applies in respect of payment periods beginning on or after 20 March 2000.
+             (4)  This section applies in respect of payment periods beginning on or after 20 March 2000.
 
              (5)  In this section:
 
@@ -845,7 +846,7 @@ the following provisions have effect:
 
                      (b)  in relation to the partner of a person, means:
 
-                              (i)  if the partner is not receiving any pension, allowance, benefit or other payment under this Act—the amount specified in item 7 of column 3B of Table B in point 1068-B1; or
+                              (i)  if the partner is not receiving any pension, allowance, benefit or other payment under this Act—the amount specified in item 7 of column 3B of Table B in point 1068-B1; or
 
                              (ii)  if the partner is receiving a pension, allowance, benefit or other payment under this Act—the amount that would be applicable under the appropriate item in Table A in this subsection if that table applied to the partner, having regard to the type of pension, allowance, benefit or other payment referred to in column 2 of that table that is payable to the partner and the situation (if any) referred to in column 3 of that table that is applicable to the partner.
 
@@ -868,19 +869,13 @@ the following provisions have effect:
       <div><b> Column 1 Item </b></div>
     </td>
     <td>
-      <div>
-        <b>Column 2 Type of pension, allowance, benefit or payment</b>
-      </div>
+      <div><b>Column 2 Type of pension, allowance, benefit or payment</b></div>
     </td>
     <td>
-      <div>
-        <b>Column 3 Situation</b>
-      </div>
+      <div><b>Column 3 Situation</b></div>
     </td>
     <td>
-      <div>
-        <b>Column 4 Person’s threshold</b>
-      </div>
+      <div><b>Column 4 Person’s threshold</b></div>
     </td>
   </tr>
 </thead>
@@ -895,7 +890,7 @@ the following provisions have effect:
     <div>Not member of a couple</div>
   </td>
   <td>
-    <div>The amount specified in column 3B of item 4A of Table B in point 1068-B1</div>
+    <div>The amount specified in column 3B of item 4A of Table B in point 1068-B1</div>
   </td>
 </tr>
 <tr>
@@ -909,7 +904,7 @@ the following provisions have effect:
     <div>Member of a couple</div>
   </td>
   <td>
-    <div>The amount specified in column 3B of item 7 of Table B in point 1068-B1</div>
+    <div>The amount specified in column 3B of item 7 of Table B in point 1068-B1</div>
   </td>
 </tr>
 <tr>
@@ -923,11 +918,7 @@ the following provisions have effect:
     <div>Not member of a couple</div>
   </td>
   <td>
-    <div>The amount specified in column 3B of item 4A of Table B in point 1068-B1
-      or the amount specified in column 4B of the item of Table B in point 1066A-B1
-      (including any amount required to be added by point 1066A-C1) that would
-      apply to the person if the person were not a CDEP Scheme participant, whichever
-      is the lesser</div>
+    <div>The amount specified in column 3B of item 4A of Table B in point 1068-B1 or the amount specified in column 4B of the item of Table B in point 1066A-B1 (including any amount required to be added by point 1066A-C1) that would apply to the person if the person were not a CDEP Scheme participant, whichever is the lesser</div>
   </td>
 </tr>
 <tr>
@@ -941,11 +932,7 @@ the following provisions have effect:
     <div>Member of a couple</div>
   </td>
   <td>
-    <div>The amount specified in column 3B of item 7 of Table B in point 1068-B1
-      or the amount specified in column 4B of the item in Table B in point 1066A-B1
-      (including any amount required to be added by point 1066A-C1) that would
-      apply to the person if the person were not a CDEP Scheme participant, whichever
-      is the lesser</div>
+    <div>The amount specified in column 3B of item 7 of Table B in point 1068-B1 or the amount specified in column 4B of the item in Table B in point 1066A-B1 (including any amount required to be added by point 1066A-C1) that would apply to the person if the person were not a CDEP Scheme participant, whichever is the lesser</div>
   </td>
 </tr>
 <tr>
@@ -959,7 +946,7 @@ the following provisions have effect:
     <div></div>
   </td>
   <td>
-    <div>The amount specified in column 3B of item 7 of Table B in point 1068-B1</div>
+    <div>The amount specified in column 3B of item 7 of Table B in point 1068-B1</div>
   </td>
 </tr>
 <tr>
@@ -973,7 +960,7 @@ the following provisions have effect:
     <div>Not member of a couple</div>
   </td>
   <td>
-    <div>The amount specified in column 3B of item 4A of Table B in point 1068-B1</div>
+    <div>The amount specified in column 3B of item 4A of Table B in point 1068-B1</div>
   </td>
 </tr>
 <tr>
@@ -987,7 +974,7 @@ the following provisions have effect:
     <div>Member of a couple</div>
   </td>
   <td>
-    <div>The amount specified in column 3B of item 7 of Table B in point 1068-B1</div>
+    <div>The amount specified in column 3B of item 7 of Table B in point 1068-B1</div>
   </td>
 </tr>
 <tr>
@@ -1001,7 +988,7 @@ the following provisions have effect:
     <div>Not member of a couple</div>
   </td>
   <td>
-    <div>The amount specified in column 3B of item 4A of Table B in point 1068-B1</div>
+    <div>The amount specified in column 3B of item 4A of Table B in point 1068-B1</div>
   </td>
 </tr>
 <tr>
@@ -1015,7 +1002,7 @@ the following provisions have effect:
     <div>Member of a couple</div>
   </td>
   <td>
-    <div>The amount specified in column 3B of item 7 of Table B in point 1068-B1</div>
+    <div>The amount specified in column 3B of item 7 of Table B in point 1068-B1</div>
   </td>
 </tr>
 <tr>
@@ -1029,7 +1016,7 @@ the following provisions have effect:
     <div></div>
   </td>
   <td>
-    <div>The amount specified in column 3B of item 4A of Table B in point 1068-B1</div>
+    <div>The amount specified in column 3B of item 4A of Table B in point 1068-B1</div>
   </td>
 </tr>
 <tr>
@@ -1043,7 +1030,7 @@ the following provisions have effect:
     <div>Not member of a couple</div>
   </td>
   <td>
-    <div>The amount specified in column 3B of item 4A of Table B in point 1068-B1</div>
+    <div>The amount specified in column 3B of item 4A of Table B in point 1068-B1</div>
   </td>
 </tr>
 <tr>
@@ -1057,7 +1044,7 @@ the following provisions have effect:
     <div>Member of a couple</div>
   </td>
   <td>
-    <div>The amount specified in column 3B of item 7 of Table B in point 1068-B1</div>
+    <div>The amount specified in column 3B of item 7 of Table B in point 1068-B1</div>
   </td>
 </tr>
 <tr>
@@ -1065,13 +1052,13 @@ the following provisions have effect:
     <div>13</div>
   </td>
   <td>
-    <div>Mature age allowance under Part 2.12A</div>
+    <div>Mature age allowance under Part 2.12A</div>
   </td>
   <td>
     <div>Not member of a couple</div>
   </td>
   <td>
-    <div>The amount specified in column 3B of item 4A of Table B in point 1068-B1</div>
+    <div>The amount specified in column 3B of item 4A of Table B in point 1068-B1</div>
   </td>
 </tr>
 <tr>
@@ -1079,13 +1066,13 @@ the following provisions have effect:
     <div>14</div>
   </td>
   <td>
-    <div>Mature age allowance under Part 2.12A</div>
+    <div>Mature age allowance under Part 2.12A</div>
   </td>
   <td>
     <div>Member of a couple</div>
   </td>
   <td>
-    <div>The amount specified in column 3B of item 7 of Table B in point 1068-B1</div>
+    <div>The amount specified in column 3B of item 7 of Table B in point 1068-B1</div>
   </td>
 </tr>
 <tr>
@@ -1099,7 +1086,7 @@ the following provisions have effect:
     <div></div>
   </td>
   <td>
-    <div>The amount specified in column 3B of item 7 of Table B in point 1068-B1</div>
+    <div>The amount specified in column 3B of item 7 of Table B in point 1068-B1</div>
   </td>
 </tr>
 <tr>
@@ -1113,9 +1100,7 @@ the following provisions have effect:
     <div>Not member of a couple and is under the age of 60</div>
   </td>
   <td>
-    <div>The amount specified in column 3B of item 4A of Table B in point 1068-B1
-      or the maximum basic rate that would apply to the person if the person
-      were not a CDEP Scheme participant, whichever is the lesser</div>
+    <div>The amount specified in column 3B of item 4A of Table B in point 1068-B1 or the maximum basic rate that would apply to the person if the person were not a CDEP Scheme participant, whichever is the lesser</div>
   </td>
 </tr>
 <tr>
@@ -1126,12 +1111,10 @@ the following provisions have effect:
     <div>Newstart allowance</div>
   </td>
   <td>
-    <div>Not member of a couple, is over the age of 60, and has been receiving
-      for a continuous period of at least 9 months one or more of a social security
-      pension, a social security benefit or a service pension</div>
+    <div>Not member of a couple, is over the age of 60, and has been receiving for a continuous period of at least 9 months one or more of a social security pension, a social security benefit or a service pension</div>
   </td>
   <td>
-    <div>The amount specified in column 3B of item 5 of Table B in point 1068-B1</div>
+    <div>The amount specified in column 3B of item 5 of Table B in point 1068-B1</div>
   </td>
 </tr>
 <tr>
@@ -1142,12 +1125,10 @@ the following provisions have effect:
     <div>Newstart allowance</div>
   </td>
   <td>
-    <div>Not member of a couple, is over the age of 60, and has not been receiving
-      for a continuous period of at least 9 months one or more of a social security
-      pension, a social security benefit or a service pension</div>
+    <div>Not member of a couple, is over the age of 60, and has not been receiving for a continuous period of at least 9 months one or more of a social security pension, a social security benefit or a service pension</div>
   </td>
   <td>
-    <div>The amount specified in column 3B of item 4B of Table B in point 1068-B1</div>
+    <div>The amount specified in column 3B of item 4B of Table B in point 1068-B1</div>
   </td>
 </tr>
 <tr>
@@ -1161,7 +1142,7 @@ the following provisions have effect:
     <div>Not member of a couple and has a dependent child</div>
   </td>
   <td>
-    <div>The amount specified in column 3A of item 4A of Table B in point 1068-B1</div>
+    <div>The amount specified in column 3A of item 4A of Table B in point 1068-B1</div>
   </td>
 </tr>
 <tr>
@@ -1172,13 +1153,10 @@ the following provisions have effect:
     <div>Newstart allowance</div>
   </td>
   <td>
-    <div>Member of illness separated couple, whether or not the person has a dependent
-      child</div>
+    <div>Member of illness separated couple, whether or not the person has a dependent child</div>
   </td>
   <td>
-    <div>The amount specified in column 3B of item 9 of Table B in point 1068-B1
-      or the maximum basic rate that would apply to the person if the person
-      were not a CDEP Scheme participant, whichever is the lesser</div>
+    <div>The amount specified in column 3B of item 9 of Table B in point 1068-B1 or the maximum basic rate that would apply to the person if the person were not a CDEP Scheme participant, whichever is the lesser</div>
   </td>
 </tr>
 <tr>
@@ -1192,9 +1170,7 @@ the following provisions have effect:
     <div>Member of a couple whether or not the person has a dependent child</div>
   </td>
   <td>
-    <div>The amount specified in column 3B of item 7 of Table B in point 1068-B1
-      or the maximum basic rate that would apply to the person if the person
-      were not a CDEP Scheme participant, whichever is the lesser</div>
+    <div>The amount specified in column 3B of item 7 of Table B in point 1068-B1 or the maximum basic rate that would apply to the person if the person were not a CDEP Scheme participant, whichever is the lesser</div>
   </td>
 </tr>
 <tr>
@@ -1208,9 +1184,7 @@ the following provisions have effect:
     <div>Member of a couple but partner in gaol</div>
   </td>
   <td>
-    <div>The amount specified in column 3B of item 11 of Table B in point 1068-B1
-      or the maximum basic rate that would apply to the person if the person
-      were not a CDEP Scheme participant, whichever is the lesser</div>
+    <div>The amount specified in column 3B of item 11 of Table B in point 1068-B1 or the maximum basic rate that would apply to the person if the person were not a CDEP Scheme participant, whichever is the lesser</div>
   </td>
 </tr>
 <tr>
@@ -1224,7 +1198,7 @@ the following provisions have effect:
     <div>Under the age of 60</div>
   </td>
   <td>
-    <div>The amount specified in column 3B of item 4A of Table B in point 1068-B1</div>
+    <div>The amount specified in column 3B of item 4A of Table B in point 1068-B1</div>
   </td>
 </tr>
 <tr>
@@ -1235,12 +1209,10 @@ the following provisions have effect:
     <div>Widow allowance</div>
   </td>
   <td>
-    <div>Over the age of 60 and has been receiving for a continuous period of at
-      least 9 months one or more of a social security pension, a social security
-      benefit or a service pension</div>
+    <div>Over the age of 60 and has been receiving for a continuous period of at least 9 months one or more of a social security pension, a social security benefit or a service pension</div>
   </td>
   <td>
-    <div>The amount specified in column 3B of item 5 of Table B in point 1068-B1</div>
+    <div>The amount specified in column 3B of item 5 of Table B in point 1068-B1</div>
   </td>
 </tr>
 <tr>
@@ -1251,12 +1223,10 @@ the following provisions have effect:
     <div>Widow allowance</div>
   </td>
   <td>
-    <div>Over the age of 60 and has not been receiving for a continuous period
-      of at least 9 months one or more of a social security pension, a social
-      security benefit or a service pension</div>
+    <div>Over the age of 60 and has not been receiving for a continuous period of at least 9 months one or more of a social security pension, a social security benefit or a service pension</div>
   </td>
   <td>
-    <div>The amount specified in column 3B of item 4B of Table B in point 1068-B1</div>
+    <div>The amount specified in column 3B of item 4B of Table B in point 1068-B1</div>
   </td>
 </tr>
 <tr>
@@ -1270,9 +1240,7 @@ the following provisions have effect:
     <div>Not member of a couple</div>
   </td>
   <td>
-    <div>The amount specified in column 3B of item 4A of Table B in point 1068-B1
-      or the maximum basic rate that would apply to the person if the person
-      were not a CDEP Scheme participant, whichever is the lesser</div>
+    <div>The amount specified in column 3B of item 4A of Table B in point 1068-B1 or the maximum basic rate that would apply to the person if the person were not a CDEP Scheme participant, whichever is the lesser</div>
   </td>
 </tr>
 <tr>
@@ -1286,9 +1254,7 @@ the following provisions have effect:
     <div>Member of a couple</div>
   </td>
   <td>
-    <div>The amount specified in column 3B of item 7 of Table B in point 1068-B1
-      or the maximum basic rate that would apply to the person if the person
-      were not a CDEP Scheme participant, whichever is the lesser</div>
+    <div>The amount specified in column 3B of item 7 of Table B in point 1068-B1 or the maximum basic rate that would apply to the person if the person were not a CDEP Scheme participant, whichever is the lesser</div>
   </td>
 </tr>
 <tr>
@@ -1302,9 +1268,7 @@ the following provisions have effect:
     <div></div>
   </td>
   <td>
-    <div>The amount specified in column 3B of item 7 of Table B in point 1068-B1
-      or the maximum basic rate that would apply to the person if the person
-      were not a CDEP Scheme participant, whichever is the lesser</div>
+    <div>The amount specified in column 3B of item 7 of Table B in point 1068-B1 or the maximum basic rate that would apply to the person if the person were not a CDEP Scheme participant, whichever is the lesser</div>
   </td>
 </tr>
 <tr>
@@ -1312,13 +1276,13 @@ the following provisions have effect:
     <div>29</div>
   </td>
   <td>
-    <div>Mature age allowance under Part 2.12B</div>
+    <div>Mature age allowance under Part 2.12B</div>
   </td>
   <td>
     <div>Not member of a couple</div>
   </td>
   <td>
-    <div>The amount specified in column 3B of item 5A of Table B in point 1068-B1</div>
+    <div>The amount specified in column 3B of item 5A of Table B in point 1068-B1</div>
   </td>
 </tr>
 <tr>
@@ -1326,13 +1290,13 @@ the following provisions have effect:
     <div>30</div>
   </td>
   <td>
-    <div>Mature age allowance under Part 2.12B</div>
+    <div>Mature age allowance under Part 2.12B</div>
   </td>
   <td>
     <div>Member of a couple</div>
   </td>
   <td>
-    <div>The amount specified in column 3B of item 7 of Table B in point 1068-B1</div>
+    <div>The amount specified in column 3B of item 7 of Table B in point 1068-B1</div>
   </td>
 </tr>
 <tr>
@@ -1346,7 +1310,7 @@ the following provisions have effect:
     <div>Not member of a couple</div>
   </td>
   <td>
-    <div>The amount specified in column 3B of item 4A of Table B in point 1068-B1</div>
+    <div>The amount specified in column 3B of item 4A of Table B in point 1068-B1</div>
   </td>
 </tr>
 <tr>
@@ -1360,9 +1324,7 @@ the following provisions have effect:
     <div>Member of a couple</div>
   </td>
   <td>
-    <div>The amount specified in column 3B of item 7 of Table B in point 1068-B1
-      or the maximum basic rate that would apply to the person if the person
-      were not a CDEP Scheme participant, whichever is the lesser</div>
+    <div>The amount specified in column 3B of item 7 of Table B in point 1068-B1 or the maximum basic rate that would apply to the person if the person were not a CDEP Scheme participant, whichever is the lesser</div>
   </td>
 </tr>
 <tr>
@@ -1376,8 +1338,7 @@ the following provisions have effect:
     <div>Not independent</div>
   </td>
   <td>
-    <div>The amount specified in column 3 of the item of Table BA in point 1067G-B2
-      that would apply to the person if the person were not a CDEP Scheme participant</div>
+    <div>The amount specified in column 3 of the item of Table BA in point 1067G-B2 that would apply to the person if the person were not a CDEP Scheme participant</div>
   </td>
 </tr>
 <tr>
@@ -1391,20 +1352,19 @@ the following provisions have effect:
     <div>Independent</div>
   </td>
   <td>
-    <div>The amount specified in column 3 of the item of Table BB in point 1067G-B3
-      that would apply to the person if the person were not a CDEP Scheme participant</div>
+    <div>The amount specified in column 3 of the item of Table BB in point 1067G-B3 that would apply to the person if the person were not a CDEP Scheme participant</div>
   </td>
 </tr></table>
 
 Note:          For **_CDEP Scheme payment_** see subsection 23(1).
 
-### Division 3—CDEP Scheme Participant Supplement
+### Division 3—CDEP Scheme Participant Supplement
 
-##### <a id="1188D"></a>1188D  Entitlement to Supplement: people receiving pension-type payments on or after 20 March 1999
+##### <a id="1188D"></a>1188D  Entitlement to Supplement: people receiving pension-type payments on or after 20 March 1999
 
              (1)  This section applies in respect of:
 
-                     (a)  payment periods beginning on or after 20 March 1999; and
+                     (a)  payment periods beginning on or after 20 March 1999; and
 
                      (b)  pension paydays occurring on or after that date.
 
@@ -1428,13 +1388,13 @@ Note:          For **_CDEP Scheme payment_** see subsection 23
 
                            (viii)  special needs pension;
 
-                            (ix)  mature age allowance under Part 2.12A;
+                            (ix)  mature age allowance under Part 2.12A;
 
                              (x)  mature age partner allowance;
 
                             is payable to a person in respect of the relevant payment period or the relevant pension payday; and
 
-                     (b)  the person meets the requirements of subsection (3) or (4).
+                     (b)  the person meets the requirements of subsection (3) or (4).
 
              (3)  The requirements of this subsection are:
 
@@ -1452,21 +1412,21 @@ Note:          For **_CDEP Scheme payment_** see subsection 23
 
                              (ii)  in respect of the 3 pension paydays immediately before the relevant pension payday.
 
-             (5)  If this section applies to the person in respect of the relevant payment period or the relevant pension payday, then, subject to subsection (6), a CDEP Scheme Participant Supplement of $20 is payable to the person in respect of that period or payday.
+             (5)  If this section applies to the person in respect of the relevant payment period or the relevant pension payday, then, subject to subsection (6), a CDEP Scheme Participant Supplement of $20 is payable to the person in respect of that period or payday.
 
 Note:          For **_CDEP Scheme payment_** see subsection 23(1).
 
              (6)  A person cannot receive more than one payment of CDEP Scheme Participant Supplement in respect of a fortnightly period.
 
-##### <a id="1188E"></a>1188E  Entitlement to Supplement between 20 March 1999 and 19 March 2000: people not covered by section 1188D
+##### <a id="1188E"></a>1188E  Entitlement to Supplement between 20 March 1999 and 19 March 2000: people not covered by section 1188D
 
              (1)  This section applies in respect of:
 
-                     (a)  payment periods beginning on or after 20 March 1999 and not later than 19 March 2000; or
+                     (a)  payment periods beginning on or after 20 March 1999 and not later than 19 March 2000; or
 
-                     (b)  pension paydays occurring on or after 20 March 1999 and not later than 19 March 2000.
+                     (b)  pension paydays occurring on or after 20 March 1999 and not later than 19 March 2000.
 
-             (2)  This section applies to a person in respect of a payment period (the **_relevant payment period_**) or in respect of a pension payday (the **_relevant pension payday_**) if the person meets the requirements of subsections (3) and (4).
+             (2)  This section applies to a person in respect of a payment period (the **_relevant payment period_**) or in respect of a pension payday (the **_relevant pension payday_**) if the person meets the requirements of subsections (3) and (4).
 
              (3)  The requirements of this subsection are:
 
@@ -1478,7 +1438,7 @@ Note:          For **_CDEP Scheme payment_** see subsection 23
 
                              (ii)  in respect of the 3 pension paydays immediately before the relevant pension payday.
 
-             (4)  The requirement of this subsection is that the person satisfies the CDEP Scheme Participant Supplement income test in respect of the relevant payment period, or in respect of the payment period in which the relevant pension payday occurs, as mentioned in subsection (5) or (6), as the case requires.
+             (4)  The requirement of this subsection is that the person satisfies the CDEP Scheme Participant Supplement income test in respect of the relevant payment period, or in respect of the payment period in which the relevant pension payday occurs, as mentioned in subsection (5) or (6), as the case requires.
 
              (5)  This is how to work out whether a person who is not a member of a couple satisfies the CDEP Scheme Participant Supplement income test in respect of a payment period.
 
@@ -1494,9 +1454,9 @@ _Step 3_.   Assume that the person’s ordinary income worked out on a fortn
 
 _Step 4_.   Assume that the person’s maximum basic rate is the sum of:
 
-               (a)     the amount specified in column 3B of item 4A of Table B in point 1068-B1; and
+               (a)     the amount specified in column 3B of item 4A of Table B in point 1068-B1; and
 
-               (b)     the amount specified in column 4 of item 1 of Table F in point 1068-F15.
+               (b)     the amount specified in column 4 of item 1 of Table F in point 1068-F15.
 
 _Step 5_.   Work out the person’s provisional payment rate for the period under Benefit Rate Calculator B on the assumptions referred to in Steps 3 and 4.
 
@@ -1522,9 +1482,9 @@ _Step 5_.   Assume that the person’s partner’s ordinary income worked ou
 
 _Step 6_.   Assume that the person’s maximum basic rate is the sum of:
 
-               (a)     the amount specified in column 3B of item 7 of Table B in point 1068-B1; and
+               (a)     the amount specified in column 3B of item 7 of Table B in point 1068-B1; and
 
-               (b)     the amount specified in column 4 of item 2 of Table F in point 1068-F15.
+               (b)     the amount specified in column 4 of item 2 of Table F in point 1068-F15.
 
 _Step 7_.   Work out the person’s provisional payment rate for the period under Benefit Rate Calculator B on the assumptions referred to in Steps 3, 5 and 6.
 
@@ -1532,9 +1492,9 @@ _Step 8_.   The person satisfies the CDEP Scheme Participant Supplement inco
 
 * * *
 
-             (7)  If this section applies to the person in respect of the relevant payment period or the relevant pension payday then, subject to subsections (8) and (9), a CDEP Scheme Participant Supplement of $20 is payable to the person in respect of that period or payday.
+             (7)  If this section applies to the person in respect of the relevant payment period or the relevant pension payday then, subject to subsections (8) and (9), a CDEP Scheme Participant Supplement of $20 is payable to the person in respect of that period or payday.
 
-             (8)  A CDEP Scheme Participant Supplement is not payable to a person under subsection (7) if:
+             (8)  A CDEP Scheme Participant Supplement is not payable to a person under subsection (7) if:
 
                      (a)  the Secretary has made a request of the person in respect of the tax file number of the person or of his or her partner; and
 
@@ -1548,11 +1508,11 @@ Note 2:       For **_CDEP Scheme payment_** see subsection 23(1).
 
              (9)  A person cannot receive more than one payment of CDEP Scheme Participant Supplement in respect of a fortnightly period.
 
-##### <a id="1188F"></a>1188F  Entitlement to Supplement on or after 20 March 2000: people not covered by section 1188D
+##### <a id="1188F"></a>1188F  Entitlement to Supplement on or after 20 March 2000: people not covered by section 1188D
 
-                     (1)  This section applies in respect of payment periods beginning on or after 20 March 2000.
+                     (1)  This section applies in respect of payment periods beginning on or after 20 March 2000.
 
-                     (2)  Subject to subsection (3), this section applies to a person:
+                     (2)  Subject to subsection (3), this section applies to a person:
 
                      (a)  in respect of a payment period (the **_relevant payment period_**) if the person is qualified in respect of that period for any of the following:
 
@@ -1568,7 +1528,7 @@ Note 2:       For **_CDEP Scheme payment_** see subsection 23(1).
 
                             (vi)  partner allowance;
 
-                           (vii)  mature age allowance under Part 2.12B; or
+                           (vii)  mature age allowance under Part 2.12B; or
 
                      (b)  in respect of a payment period (also the **_relevant payment period_**) if the person is qualified in respect of that period for any of the following:
 
@@ -1588,13 +1548,13 @@ Note 2:       For **_CDEP Scheme payment_** see subsection 23(1).
 
                            (viii)  special needs pension;
 
-                            (ix)  mature age allowance under Part 2.12A;
+                            (ix)  mature age allowance under Part 2.12A;
 
                              (x)  mature age partner allowance;
 
                             but the pension, payment or allowance for which the person is qualified under this paragraph is not payable to the person in respect of that period.
 
-             (3)  This section does not apply to a person in respect of the relevant payment period unless the person meets the requirements of subsections (4), (5), (6) and (7) in respect of the relevant payment period.
+             (3)  This section does not apply to a person in respect of the relevant payment period unless the person meets the requirements of subsections (4), (5), (6) and (7) in respect of the relevant payment period.
 
              (4)  The requirements of this subsection are:
 
@@ -1602,7 +1562,7 @@ Note 2:       For **_CDEP Scheme payment_** see subsection 23(1).
 
                      (b)  that a CDEP Scheme payment was payable to the person in respect of a payment period the whole or a part of which occurred within the 3 payment periods immediately before the relevant payment period.
 
-             (5)  The requirement of this subsection is that the person satisfies the CDEP Scheme Participant Supplement income test in respect of the relevant payment period as mentioned in subsection (8) or (9), as the case requires.
+             (5)  The requirement of this subsection is that the person satisfies the CDEP Scheme Participant Supplement income test in respect of the relevant payment period as mentioned in subsection (8) or (9), as the case requires.
 
              (6)  The requirement of this subsection is that the relevant payment period does not fall within:
 
@@ -1612,9 +1572,9 @@ Note 2:       For **_CDEP Scheme payment_** see subsection 23(1).
 
                      (c)  a lump sum preclusion period; or
 
-                     (d)  a compensation preclusion period (see Part 3.14).
+                     (d)  a compensation preclusion period (see Part 3.14).
 
-             (7)  The requirement of this subsection is that the relevant payment period occurs within a period in respect of which the relevant allowance, benefit or payment referred to in paragraph (2)(a) or the relevant pension, payment or allowance referred to in paragraph (2)(b) is not payable to the person because of the operation of a provision of this Act relating to:
+             (7)  The requirement of this subsection is that the relevant payment period occurs within a period in respect of which the relevant allowance, benefit or payment referred to in paragraph (2)(a) or the relevant pension, payment or allowance referred to in paragraph (2)(b) is not payable to the person because of the operation of a provision of this Act relating to:
 
                      (a)  seasonal or intermittent workers; or
 
@@ -1634,9 +1594,9 @@ _Step 3_.   Assume that the person’s ordinary income worked out on a fortn
 
 _Step 4_.   Assume that the person’s maximum basic rate is the sum of:
 
-               (a)     the amount specified in column 3B of item 4A of Table B in point 1068-B1; and
+               (a)     the amount specified in column 3B of item 4A of Table B in point 1068-B1; and
 
-               (b)     the amount specified in column 4 of item 1 of Table F in point 1068-F15.
+               (b)     the amount specified in column 4 of item 1 of Table F in point 1068-F15.
 
 _Step 5_.   Work out the person’s provisional payment rate for the period under Benefit Rate Calculator B on the assumptions referred to in Steps 3 and 4.
 
@@ -1662,9 +1622,9 @@ _Step 5_.   Assume that the person’s partner’s ordinary income worked ou
 
 _Step 6_.   Assume that the person’s maximum basic rate is the sum of:
 
-               (a)     the amount specified in column 3B of item 7 of Table B in point 1068-B1; and
+               (a)     the amount specified in column 3B of item 7 of Table B in point 1068-B1; and
 
-               (b)     the amount specified in column 4 of item 2 of Table F in point 1068-F15.
+               (b)     the amount specified in column 4 of item 2 of Table F in point 1068-F15.
 
 _Step 7_.   Work out the person’s provisional payment rate for the period under Benefit Rate Calculator B on the assumptions referred to in Steps 3, 5 and 6.
 
@@ -1672,9 +1632,9 @@ _Step 8_.   The person satisfies the CDEP Scheme Participant Supplement inco
 
 * * *
 
-           (10)  If this section applies to the person in respect of the relevant payment period, then, subject to subsections (11) and (12), a CDEP Scheme Participant Supplement of $20 is payable to the person in respect of that period.
+           (10)  If this section applies to the person in respect of the relevant payment period, then, subject to subsections (11) and (12), a CDEP Scheme Participant Supplement of $20 is payable to the person in respect of that period.
 
-           (11)  A CDEP Scheme Participant Supplement is not payable to a person under subsection (10) if:
+           (11)  A CDEP Scheme Participant Supplement is not payable to a person under subsection (10) if:
 
                      (a)  the Secretary has made a request of the person in respect of the tax file number of the person or of his or her partner; and
 
@@ -1688,45 +1648,45 @@ Note 2:       For **_CDEP Scheme payment_** see subsection 23(1).
 
            (12)  A person cannot receive more than one payment of CDEP Scheme Participant Supplement in respect of a fortnightly period.
 
-##### <a id="1188G"></a>1188G  Notification of periods in respect of which a CDEP Scheme payment is not payable
+##### <a id="1188G"></a>1188G  Notification of periods in respect of which a CDEP Scheme payment is not payable
 
                    If:
 
-                     (a)  section 1188F applies to a person; and
+                     (a)  section 1188F applies to a person; and
 
-                     (b)  a CDEP Scheme payment is payable to the person in respect of a payment period beginning on or after 20 March 2000; and
+                     (b)  a CDEP Scheme payment is payable to the person in respect of a payment period beginning on or after 20 March 2000; and
 
                      (c)  a CDEP Scheme payment is not payable to the person in respect of the next following payment period;
 
-the person must notify the Secretary, as soon as practicable after section 1188F ceases to apply to the person, that a CDEP Scheme payment is not payable to the person in respect of that following payment period.
+the person must notify the Secretary, as soon as practicable after section 1188F ceases to apply to the person, that a CDEP Scheme payment is not payable to the person in respect of that following payment period.
 
 ##### <a id="1188H"></a>1188H  Person receiving CDEP Scheme Participant Supplement to be taken to be in receipt of social security benefit or pension
 
-                   A person who receives a CDEP Scheme Participant Supplement in respect of a payment period beginning on or after 20 March 2000 is taken, for the purposes of this Act, to be in receipt of the social security benefit or social security pension for which the person is qualified in respect of that period.
+                   A person who receives a CDEP Scheme Participant Supplement in respect of a payment period beginning on or after 20 March 2000 is taken, for the purposes of this Act, to be in receipt of the social security benefit or social security pension for which the person is qualified in respect of that period.
 
 ##### <a id="1188J"></a>1188J  CDEP Scheme participant may accumulate supplement
 
-             (1)  A person who is a CDEP Scheme participant, and is not in receipt of a social security pension, in respect of the whole or a part of a quarter beginning on or after 20 March 2000 may, by written notice given to the Secretary, choose to accumulate the amounts of any supplement that:
+             (1)  A person who is a CDEP Scheme participant, and is not in receipt of a social security pension, in respect of the whole or a part of a quarter beginning on or after 20 March 2000 may, by written notice given to the Secretary, choose to accumulate the amounts of any supplement that:
 
                      (a)  became or become payable to the person in respect of that quarter, or any later quarter in respect of the whole or a part of which the person is a CDEP Scheme participant and is not in receipt of a social security pension; and
 
                      (b)  have not already been paid.
 
-             (2)  A person who is or was a CDEP Scheme participant in respect of the whole or a part of a quarter ending before 20 March 2000 is taken to have chosen under this subsection to accumulate the amounts of any supplement that became payable to the person in respect of that quarter.
+             (2)  A person who is or was a CDEP Scheme participant in respect of the whole or a part of a quarter ending before 20 March 2000 is taken to have chosen under this subsection to accumulate the amounts of any supplement that became payable to the person in respect of that quarter.
 
-             (3)  If a person makes a choice under subsection (1), the sum of the accumulated amounts payable to the person in respect of a quarter is to be paid on, or as soon as practicable after:
+             (3)  If a person makes a choice under subsection (1), the sum of the accumulated amounts payable to the person in respect of a quarter is to be paid on, or as soon as practicable after:
 
-                     (a)  unless paragraph (b) applies—the last day of the quarter or 19 March 2000, whichever is the later; or
+                     (a)  unless paragraph (b) applies—the last day of the quarter or 19 March 2000, whichever is the later; or
 
-                     (b)  if the person ceases to be a CDEP Scheme participant before the end of the quarter—the day on which the person so ceases or 19 March 2000, whichever is the later.
+                     (b)  if the person ceases to be a CDEP Scheme participant before the end of the quarter—the day on which the person so ceases or 19 March 2000, whichever is the later.
 
-             (4)  Any accumulated amounts payable to a person to whom subsection (2) applies are to be paid at such times (not later than 19 March 2000) as the Secretary determines.
+             (4)  Any accumulated amounts payable to a person to whom subsection (2) applies are to be paid at such times (not later than 19 March 2000) as the Secretary determines.
 
              (5)  In this section:
 
                     <a name="quarter"></a>**_quarter_** means a CDEP Scheme quarter.
 
-Note 1:       For **_CDEP Scheme participant_** see section 1188B.
+Note 1:       For **_CDEP Scheme participant_** see section 1188B.
 
 Note 2:       For **_CDEP Scheme quarter_** see subsection 23(1).
 
@@ -1736,17 +1696,17 @@ Note 2:       For **_CDEP Scheme quarter_** see subsection 23(1).
 
              (2)  To be a proper claim, a claim must be made in such manner, and within such period, as the Secretary determines.
 
-### Division 4—Transitional
+### Division 4—Transitional
 
 ##### <a id="1188L"></a>1188L  Existing CDEP Scheme participants to be treated as long-term social security recipients
 
-                   A person who, if this Part had been in force on 19 March 2000, would have been a CDEP Scheme participant in respect of that day for the purposes of this Part is taken, for the purposes of the definition of **_long-term social security recipient_** in subsection 23(1), to have had social security recipient status continuously for the period of 52 weeks ending on that day.
+                   A person who, if this Part had been in force on 19 March 2000, would have been a CDEP Scheme participant in respect of that day for the purposes of this Part is taken, for the purposes of the definition of **_long-term social security recipient_** in subsection 23(1), to have had social security recipient status continuously for the period of 52 weeks ending on that day.
 
 ##### <a id="1188M"></a>1188M  Certain people receiving CDEP Scheme Participant Supplement to be taken to have been receiving social security benefit for 9 months
 
                    A person who receives CDEP Scheme Participant Supplement:
 
-                     (a)  in respect of both 19 March 2000 (the **_first qualifying day_**) and the following day (the **_second qualifying day_**); or
+                     (a)  in respect of both 19 March 2000 (the **_first qualifying day_**) and the following day (the **_second qualifying day_**); or
 
                      (b)  in respect of both the payment period in which the first qualifying day occurs and the payment period in which the second qualifying day occurs;
 
@@ -1756,23 +1716,23 @@ is taken, for the purposes of the definition of **_pensioner_** in subsection 4(
 
 Insert:
 
-          (1B)  If the person concerned elects in writing that this subsection is to apply in relation to him or her, the Secretary may decide under subsection (1A) that the amount by which each payment of the person’s social security payment is to be reduced is such amount as results in reducing the payment to nil.
+          (1B)  If the person concerned elects in writing that this subsection is to apply in relation to him or her, the Secretary may decide under subsection (1A) that the amount by which each payment of the person’s social security payment is to be reduced is such amount as results in reducing the payment to nil.
 
 ## 55  Benefits of single parents who are CDEP participants not to be reduced
 
-             (1)  Section 1188C inserted in the _Social Security Act 1991_ by item 53 does not apply in respect of a person who, immediately before the day on which this Act receives the Royal Assent:
+             (1)  Section 1188C inserted in the _Social Security Act 1991_ by item 53 does not apply in respect of a person who, immediately before the day on which this Act receives the Royal Assent:
 
                      (a)  was in receipt of parenting payment at the rate applicable for a person who is not a member of a couple; and
 
                      (b)  was a CDEP participant.
 
-             (2)  However, if such a person ceases on or after that day to be a CDEP participant, subitem (1) ceases to have effect in respect of the person whether or not he or she afterwards again becomes a CDEP participant.
+             (2)  However, if such a person ceases on or after that day to be a CDEP participant, subitem (1) ceases to have effect in respect of the person whether or not he or she afterwards again becomes a CDEP participant.
 
-###### Schedule 3—Amendments relating to special employment advance
+# Schedule 3—Amendments relating to special employment advance
 
 <h9 class="ActHead9">Social Security Act 1991</h9>
 
-## 1  Section 3 (index)
+## 1  Section 3 (index)
 
 Insert the following entry in its appropriate alphabetical position, determined on a letter-by-letter basis:
 
@@ -2009,23 +1969,23 @@ Add:
 
 Omit “or advance payment of mature age allowance”, substitute “, advance payment of mature age allowance or special employment advance of mature age allowance”.
 
-## 43  At the end of section 665
+## 43  At the end of section 665
 
 Add:
 
-             (4)  A person is not qualified for an employment entry payment under this Part if the person is qualified for a special employment advance under Part 2.22A and has made a claim under section 1061EP in respect of the same employment.
+             (4)  A person is not qualified for an employment entry payment under this Part if the person is qualified for a special employment advance under Part 2.22A and has made a claim under section 1061EP in respect of the same employment.
 
-## 44  After Part 2.22
+## 44  After Part 2.22
 
 Insert:
 
-## Part 2.22A—Special employment advances
+## Part 2.22A—Special employment advances
 
-### Division 1—Qualification for special employment advance
+### Division 1—Qualification for special employment advance
 
 ##### <a id="1061EM"></a>1061EM  Qualification for special employment advance
 
-             (1)  Subject to section 1061EO, a person is qualified for a special employment advance at a particular time (the **_relevant time_**) only if:
+             (1)  Subject to section 1061EO, a person is qualified for a special employment advance at a particular time (the **_relevant time_**) only if:
 
                      (a)  the person is qualified for a special employment advance qualifying entitlement at the relevant time; and
 
@@ -2037,9 +1997,9 @@ Insert:
 
                              (ii)  the Secretary is satisfied that the person has received a definite offer of employment in Australia (the **_offered employment_**) for a period of not less than 6 weeks and needs financial assistance from the Commonwealth to enable him or her to take up the employment; and
 
-                     (d)  subsection (2) or (3), as the case requires, applies for the purpose of determining whether the person is qualified for a special employment advance at the relevant time; and
+                     (d)  subsection (2) or (3), as the case requires, applies for the purpose of determining whether the person is qualified for a special employment advance at the relevant time; and
 
-                     (e)  where subparagraph (c)(i) applies—the person is in severe financial hardship; and
+                     (e)  where subparagraph (c)(i) applies—the person is in severe financial hardship; and
 
                       (f)  the Secretary is satisfied that the person will not suffer financial hardship as a result of the recovery by the Commonwealth of the special employment advance.
 
@@ -2053,15 +2013,15 @@ Insert:
 
                               (i)  if the person were qualified for the special employment qualifying entitlement on the next payday for the entitlement at a rate equal to the maximum basic rate of the entitlement, the rate of the entitlement on that payday would be reduced by at least 50% as a result of the person or the person’s partner having earned the unreceived income;
 
-                             (ii)  subparagraph (i) does not apply in respect of the person but, if the person were qualified for the special employment qualifying entitlement on 2 or more paydays for the entitlement at a rate equal to the maximum basic rate of the entitlement, the average of the rates of the entitlement on those paydays would be reduced by at least 50% as a result of the person or the person’s partner having earned the unreceived income.
+                             (ii)  subparagraph (i) does not apply in respect of the person but, if the person were qualified for the special employment qualifying entitlement on 2 or more paydays for the entitlement at a rate equal to the maximum basic rate of the entitlement, the average of the rates of the entitlement on those paydays would be reduced by at least 50% as a result of the person or the person’s partner having earned the unreceived income.
 
              (3)  This subsection applies for the purpose of determining whether a person is qualified for a special employment advance at the relevant time only where the person’s application for the advance was based on the person’s need for financial assistance from the Commonwealth to enable him or her to take up the offered employment and:
 
-                     (a)  if the person were qualified for the special employment qualifying entitlement on each of the paydays for the entitlement that occur in the period of 6 weeks referred to in subparagraph (1)(c)(ii) at a rate equal to the maximum basic rate of the entitlement, the average of the rates of the entitlement on those paydays:
+                     (a)  if the person were qualified for the special employment qualifying entitlement on each of the paydays for the entitlement that occur in the period of 6 weeks referred to in subparagraph (1)(c)(ii) at a rate equal to the maximum basic rate of the entitlement, the average of the rates of the entitlement on those paydays:
 
                               (i)  would be reduced by at least 50% as a result of the person having taken up the offered employment; or
 
-                             (ii)  would be so reduced if Module J of the Youth Allowance Rate Calculator in section 1067G or Module E of the Austudy Payment Rate Calculator were disregarded; or
+                             (ii)  would be so reduced if Module J of the Youth Allowance Rate Calculator in section 1067G or Module E of the Austudy Payment Rate Calculator were disregarded; or
 
                      (b)  the person would cease to be qualified for the special employment advance qualification upon his or her taking up the offered employment.
 
@@ -2073,23 +2033,23 @@ Insert:
 
                      (b)  where the person is a member of a couple—the value of the person’s liquid assets (within the meaning of subsection 14A(2)) is less than twice the fortnightly amount of the maximum payment rate of the special employment advance qualifying entitlement that is payable to the person.
 
-             (2)  If the person referred to in subsection (1) is a CDEP Scheme participant, then, in determining for the purposes of that subsection the fortnightly amount of the maximum payment rate of the special employment advance qualifying entitlement payable to the person, the person’s maximum basic rate is taken to be the rate that would be that maximum basic rate if sections 408CG, 500W, 552C, 614A, 660YCH and 771HK had not been enacted.
+             (2)  If the person referred to in subsection (1) is a CDEP Scheme participant, then, in determining for the purposes of that subsection the fortnightly amount of the maximum payment rate of the special employment advance qualifying entitlement payable to the person, the person’s maximum basic rate is taken to be the rate that would be that maximum basic rate if sections 408CG, 500W, 552C, 614A, 660YCH and 771HK had not been enacted.
 
 ##### <a id="1061EO"></a>1061EO  Person not qualified in certain circumstances
 
              (1)  A person is not qualified for a special employment advance if:
 
-                     (a)  the person is qualified for an employment entry payment under Part 2.13 and has made a claim under section 665 in respect of the offered employment; or
+                     (a)  the person is qualified for an employment entry payment under Part 2.13 and has made a claim under section 665 in respect of the offered employment; or
 
-                     (b)  the lump sum amount, or the total of the amounts of the instalments, as the case may be, of the special employment advance to which the person would be entitled under Division 4 is less than $50; or
+                     (b)  the lump sum amount, or the total of the amounts of the instalments, as the case may be, of the special employment advance to which the person would be entitled under Division 4 is less than $50; or
 
-                     (c)  the person owes a debt to the Commonwealth (whether arising under this Act or not) and the debt is recoverable under Part 5.2 by means of deductions from the person’s social security payment; or
+                     (c)  the person owes a debt to the Commonwealth (whether arising under this Act or not) and the debt is recoverable under Part 5.2 by means of deductions from the person’s social security payment; or
 
                      (d)  where subparagraph 1061EM(1)(c)(ii) applies in respect of the person—the person is participating in a program for the placing of people in employment and the program has been declared by the Secretary, in writing, to be a program to which this paragraph applies.
 
-             (2)  A declaration under paragraph (1)(d) is a disallowable instrument.
+             (2)  A declaration under paragraph (1)(d) is a disallowable instrument.
 
-### Division 2—Claim for special employment advance
+### Division 2—Claim for special employment advance
 
 ##### <a id="1061EP"></a>1061EP  Claim
 
@@ -2109,19 +2069,19 @@ Insert:
 
                      (c)  with a person approved for the purpose by the Secretary.
 
-             (2)  A place or person approved under subsection (1) must be a place or person in Australia.
+             (2)  A place or person approved under subsection (1) must be a place or person in Australia.
 
              (3)  The claimant must be in Australia when the claim is lodged.
 
 ##### <a id="1061ER"></a>1061ER  Provisions relating to claims
 
-             (1)  Subject to subsection (2), if a claim based on the effect of the unreceived income on the claimant’s special employment advance qualifying entitlement is lodged before the first payday for that entitlement on which an instalment of that entitlement is not payable or is reduced as a result of the claimant, or the claimant’s partner, having earned the income, the claim is taken to have been made on that payday.
+             (1)  Subject to subsection (2), if a claim based on the effect of the unreceived income on the claimant’s special employment advance qualifying entitlement is lodged before the first payday for that entitlement on which an instalment of that entitlement is not payable or is reduced as a result of the claimant, or the claimant’s partner, having earned the income, the claim is taken to have been made on that payday.
 
              (2)  If:
 
-                     (a)  the claimant’s special employment advance qualifying entitlement referred to in subsection (1) is an entitlement in respect of which the Secretary has determined that this subsection applies; and
+                     (a)  the claimant’s special employment advance qualifying entitlement referred to in subsection (1) is an entitlement in respect of which the Secretary has determined that this subsection applies; and
 
-                     (b)  the claim is lodged before the payday referred to in subsection (1);
+                     (b)  the claim is lodged before the payday referred to in subsection (1);
 
 the Secretary may treat the claim as having been made on a day earlier than that payday that the Secretary considers appropriate having regard to the kind of entitlement concerned.
 
@@ -2131,7 +2091,7 @@ the Secretary may treat the claim as having been made on a day earlier than that
 
                      (b)  the way in which the financial assistance is to be expended to enable the claimant to take up the employment.
 
-             (4)  This section has effect subject to section 1061ES.
+             (4)  This section has effect subject to section 1061ES.
 
 ##### <a id="1061ES"></a>1061ES  Person contacting Department before lodging claim
 
@@ -2149,7 +2109,7 @@ the person is taken to have made a claim for the special employment advance on t
 
                      (e)  the day on which the person contacted the Department;
 
-                      (f)  the day on which the claim would, apart from this section, be taken under section 1061ER to be made.
+                      (f)  the day on which the claim would, apart from this section, be taken under section 1061ER to be made.
 
              (2)  In this section:
 
@@ -2163,33 +2123,33 @@ the person is taken to have made a claim for the special employment advance on t
 
              (3)  A withdrawal may be made orally or in writing.
 
-### Division 3—Determination of claim and payment of special employment advance
+### Division 3—Determination of claim and payment of special employment advance
 
 ##### <a id="1061EU"></a>1061EU  Secretary to determine claim
 
              (1)  The Secretary must determine the claim in accordance with this Act.
 
-             (2)  Subject to subsection (3), the Secretary must grant the claim if the Secretary is satisfied that the claimant is qualified for the special employment advance.
+             (2)  Subject to subsection (3), the Secretary must grant the claim if the Secretary is satisfied that the claimant is qualified for the special employment advance.
 
-             (3)  Subject to subsection (4), the Secretary must refuse a claim that is based on the effect of the unreceived income on the claimant’s special employment advance qualifying entitlement if the Secretary is satisfied that the income will be received within 2 days after the claim is lodged.
+             (3)  Subject to subsection (4), the Secretary must refuse a claim that is based on the effect of the unreceived income on the claimant’s special employment advance qualifying entitlement if the Secretary is satisfied that the income will be received within 2 days after the claim is lodged.
 
-             (4)  Subsection (3) does not apply if the Secretary considers that the claimant’s financial needs are such that the claim should be granted.
+             (4)  Subsection (3) does not apply if the Secretary considers that the claimant’s financial needs are such that the claim should be granted.
 
 ##### <a id="1061EV"></a>1061EV  Payment of special employment advance
 
                    If the claim is granted, the special employment advance is to be paid:
 
-                     (a)  subject to paragraph (b), in a lump sum as soon as practicable after the claim is granted; or
+                     (a)  subject to paragraph (b), in a lump sum as soon as practicable after the claim is granted; or
 
                      (b)  if the Secretary considers that it is appropriate for the advance to be paid by instalments—by instalments at such times and in such amounts as the Secretary determines.
 
-### Division 4—Amount of special employment advance
+### Division 4—Amount of special employment advance
 
 ##### <a id="1061EW"></a>1061EW  Where claim based on effect of unreceived income on special employment advance qualifying entitlement
 
              (1)  This section applies where the claim was based on the effect of the unreceived income on the claimant’s special employment advance qualifying entitlement.
 
-             (2)  Subject to section 1061EY, the total amount of the special employment advance payable to the claimant is to be the smallest of the following amounts:
+             (2)  Subject to section 1061EY, the total amount of the special employment advance payable to the claimant is to be the smallest of the following amounts:
 
                      (a)  the amount sought in the claim for the advance;
 
@@ -2203,7 +2163,7 @@ the person is taken to have made a claim for the special employment advance on t
 
              (1)  This section applies where the claim was based on the claimant’s need for financial assistance to take up offered employment.
 
-             (2)  Subject to the following provisions of this section and section 1061EY, the total amount of the special employment advance payable to the claimant is to be the smallest of the following amounts:
+             (2)  Subject to the following provisions of this section and section 1061EY, the total amount of the special employment advance payable to the claimant is to be the smallest of the following amounts:
 
                      (a)  the amount sought in the claim for the advance;
 
@@ -2217,13 +2177,13 @@ the person is taken to have made a claim for the special employment advance on t
 
                      (b)  the sum of:
 
-                              (i)  the amount referred to in paragraph (a); and
+                              (i)  the amount referred to in paragraph (a); and
 
                              (ii)  the amount of financial assistance needed by the claimant from the Commonwealth to take up the offered employment;
 
                             is not more than $500;
 
-the total amount of the special employment advance payable to the claimant is the amount referred to in subparagraph (b)(ii).
+the total amount of the special employment advance payable to the claimant is the amount referred to in subparagraph (b)(ii).
 
              (4)  If:
 
@@ -2231,7 +2191,7 @@ the total amount of the special employment advance payable to the claimant is th
 
                      (b)  the sum of:
 
-                              (i)  the amount referred to in paragraph (a); and
+                              (i)  the amount referred to in paragraph (a); and
 
                              (ii)  the amount of financial assistance needed by the claimant from the Commonwealth to take up the offered employment;
 
@@ -2239,9 +2199,9 @@ the total amount of the special employment advance payable to the claimant is th
 
 the following paragraphs have effect:
 
-                     (c)  where the amount referred to in paragraph (a) is less than $500 and the claimant satisfies the Secretary that the claimant would have sufficient financial resources to enable him or her to take up the offered employment if the total amount of the special employment advance payable were an amount equal to the difference between $500 and the amount referred to in paragraph (a)—the total amount of the special employment advance payable to the claimant is an amount equal to that difference;
+                     (c)  where the amount referred to in paragraph (a) is less than $500 and the claimant satisfies the Secretary that the claimant would have sufficient financial resources to enable him or her to take up the offered employment if the total amount of the special employment advance payable were an amount equal to the difference between $500 and the amount referred to in paragraph (a)—the total amount of the special employment advance payable to the claimant is an amount equal to that difference;
 
-                     (d)  where paragraph (c) does not apply—no amount of special employment advance is payable to the claimant.
+                     (d)  where paragraph (c) does not apply—no amount of special employment advance is payable to the claimant.
 
              (5)  If:
 
@@ -2249,7 +2209,7 @@ the following paragraphs have effect:
 
                      (b)  the value of the claimant’s liquid assets (within the meaning of subsection 14A(1)) exceeds the fortnightly amount of the maximum payment rate of the special employment advance qualifying entitlement that is payable to the claimant;
 
-the total amount of the special employment advance that, apart from this subsection, would be payable to the claimant under subsections (2) to (4) is reduced by the amount of the excess.
+the total amount of the special employment advance that, apart from this subsection, would be payable to the claimant under subsections (2) to (4) is reduced by the amount of the excess.
 
              (6)  If:
 
@@ -2257,9 +2217,9 @@ the total amount of the special employment advance that, apart from this subsect
 
                      (b)  the value of the claimant’s liquid assets (within the meaning of subsection 14A(2)) exceeds twice the fortnightly amount of the maximum payment rate of the special employment advance qualifying entitlement that is payable to the claimant;
 
-the total amount of the special employment advance that, apart from this subsection, would be payable to the claimant under subsections (2) to (4) is reduced by the amount of the excess.
+the total amount of the special employment advance that, apart from this subsection, would be payable to the claimant under subsections (2) to (4) is reduced by the amount of the excess.
 
-             (7)  In determining for the purposes of subsection (5) or (6) the fortnightly amount of the maximum payment rate of the special employment advance qualifying entitlement that is payable to a claimant who is a CDEP Scheme participant, the claimant’s maximum basic rate is taken to be the rate that would be that maximum basic rate if sections 408CG, 500W, 552C, 614A, 660YCH and 771HK had not been enacted.
+             (7)  In determining for the purposes of subsection (5) or (6) the fortnightly amount of the maximum payment rate of the special employment advance qualifying entitlement that is payable to a claimant who is a CDEP Scheme participant, the claimant’s maximum basic rate is taken to be the rate that would be that maximum basic rate if sections 408CG, 500W, 552C, 614A, 660YCH and 771HK had not been enacted.
 
 ##### <a id="1061EY"></a>1061EY  Reduction of special employment advance by amount of any employment entry payment
 
@@ -2271,43 +2231,43 @@ the total amount of the special employment advance that, apart from this subsect
 
 the total amount of the special employment advance that, apart from this section, would be payable to the person is reduced by the amount of the employment entry payment.
 
-### Division 5—Payment of special employment advance
+### Division 5—Payment of special employment advance
 
 ##### <a id="1061EZ"></a>1061EZ  Special employment advance to be paid to person or nominee
 
-             (1)  Subject to subsection (3), an amount that is payable to a person under this Part is to be paid to the person.
+             (1)  Subject to subsection (3), an amount that is payable to a person under this Part is to be paid to the person.
 
              (2)  The Secretary may direct that the whole or a part of an amount that is payable to a person under this Part is to be paid to someone else on behalf of the person.
 
-             (3)  If the Secretary gives a direction under subsection (2), the amount is to be paid in accordance with the direction.
+             (3)  If the Secretary gives a direction under subsection (2), the amount is to be paid in accordance with the direction.
 
 ##### <a id="1061EZA"></a>1061EZA  How payment is to be made
 
-             (1)  An amount that is to be paid to a person under section 1061EZ may only be paid in accordance with this section.
+             (1)  An amount that is to be paid to a person under section 1061EZ may only be paid in accordance with this section.
 
              (2)  Subject to this section, the amount is to be paid to the credit of a bank account nominated and maintained by the person.
 
              (3)  The account may be an account that is maintained by the person either alone or jointly or in common with another person.
 
-             (4)  If the person has not nominated an account for the purposes of subsection (2), then, subject to subsections (5) and (6), the amount is not to be paid.
+             (4)  If the person has not nominated an account for the purposes of subsection (2), then, subject to subsections (5) and (6), the amount is not to be paid.
 
              (5)  If:
 
-                     (a)  an amount has not been paid because of subsection (4); and
+                     (a)  an amount has not been paid because of subsection (4); and
 
-                     (b)  the person nominates an account for the purposes of subsection (2);
+                     (b)  the person nominates an account for the purposes of subsection (2);
 
-the amount is to be paid under subsection (2).
+the amount is to be paid under subsection (2).
 
-             (6)  The Secretary may permit amounts payable under this Part to be paid to people or to particular classes of people in a different way or in different ways from that provided for by subsection (2).
+             (6)  The Secretary may permit amounts payable under this Part to be paid to people or to particular classes of people in a different way or in different ways from that provided for by subsection (2).
 
-### Division 6—Protection of special employment advance
+### Division 6—Protection of special employment advance
 
 ##### <a id="1061EZB"></a>1061EZB  Special employment advance to be absolutely inalienable
 
-             (1)  Subject to this section and section 1359, a special employment advance is absolutely inalienable, whether by way of, or in consequence of, sale, assignment, charge, execution, bankruptcy or otherwise.
+             (1)  Subject to this section and section 1359, a special employment advance is absolutely inalienable, whether by way of, or in consequence of, sale, assignment, charge, execution, bankruptcy or otherwise.
 
-Note:          The effect of a garnishee order on a special employment advance is dealt with in the Part of this Chapter that deals with the relevant special employment advance qualifying entitlement. For example, the effect of a garnishee order on a special employment advance that has been paid to an account with a financial institution maintained by a person who is entitled to a disability support pension is dealt with in Part 2.3 (which deals with disability support pension).
+Note:          The effect of a garnishee order on a special employment advance is dealt with in the Part of this Chapter that deals with the relevant special employment advance qualifying entitlement. For example, the effect of a garnishee order on a special employment advance that has been paid to an account with a financial institution maintained by a person who is entitled to a disability support pension is dealt with in Part 2.3 (which deals with disability support pension).
 
              (2)  The Secretary may make deductions from an amount payable to a person under this Part if the recipient asks the Secretary:
 
@@ -2315,27 +2275,27 @@ Note:          The effect of a garnishee order on a special em
 
                      (b)  to pay the amounts to be deducted to the Commissioner of Taxation.
 
-Note:          The Secretary must make deductions from a person’s social security payment if requested by the Commissioner of Taxation (see section 1359).
+Note:          The Secretary must make deductions from a person’s social security payment if requested by the Commissioner of Taxation (see section 1359).
 
-             (3)  The Secretary may make deductions from an amount payable to a person under this Part if the recipient consents under section 1234A to the Secretary making the deductions.
+             (3)  The Secretary may make deductions from an amount payable to a person under this Part if the recipient consents under section 1234A to the Secretary making the deductions.
 
-Note:          Section 1234A enables the Secretary to recover a debt from a person other than the debtor if the person is receiving a social security payment.
+Note:          Section 1234A enables the Secretary to recover a debt from a person other than the debtor if the person is receiving a social security payment.
 
-### Division 7—Repayment of special employment advance
+### Division 7—Repayment of special employment advance
 
 ##### <a id="1061EZC"></a>1061EZC  Repayment of special employment advance
 
              (1)  If a person receives a special employment advance or an instalment of a special employment advance under this Part, the person must repay the special employment advance or instalment to the Commonwealth by one or more of the following methods:
 
-                     (a)  deductions from the person’s special employment advance qualifying entitlement under Chapter 3 (General provisions relating to payability and rates);
+                     (a)  deductions from the person’s special employment advance qualifying entitlement under Chapter 3 (General provisions relating to payability and rates);
 
-                     (b)  a method provided for by Chapter 5 (Overpayments and debt recovery);
+                     (b)  a method provided for by Chapter 5 (Overpayments and debt recovery);
 
-                     (c)  a method (other than a method described in paragraph (a) or (b)) that is acceptable to both the person and the Secretary.
+                     (c)  a method (other than a method described in paragraph (a) or (b)) that is acceptable to both the person and the Secretary.
 
-             (2)  Subsection (1) does not affect the Secretary’s powers and duties under Part 5.4 (Non-recovery of debts) if the amount of the special employment advance or instalment that has not been repaid becomes a debt due to the Commonwealth.
+             (2)  Subsection (1) does not affect the Secretary’s powers and duties under Part 5.4 (Non-recovery of debts) if the amount of the special employment advance or instalment that has not been repaid becomes a debt due to the Commonwealth.
 
-## 45  Part 3.2 (Pension Rate Calculator A, Module A, point 1064-A1, method statement, step 12 )
+## 45  Part 3.2 (Pension Rate Calculator A, Module A, point 1064-A1, method statement, step 12 )
 
 Repeal the step, substitute:
 
@@ -2343,15 +2303,15 @@ Repeal the step, substitute:
 
 _Step 12._ The **_rate of pension_** is the amount obtained by:
 
-               (a)     subtracting from the provisional annual payment rate any special employment advance deduction (see Part 3.16B); and
+               (a)     subtracting from the provisional annual payment rate any special employment advance deduction (see Part 3.16B); and
 
-               (b)     if there is any amount remaining, subtracting from that amount any advance payment deduction (see Part 3.16A); and
+               (b)     if there is any amount remaining, subtracting from that amount any advance payment deduction (see Part 3.16A); and
 
                (c)     adding any amount payable by way of remote area allowance (see Module H).
 
 * * *
 
-## 46  Part 3.3 (Pension Rate Calculator B, Module A, point 1065-A1, method statement, step 5 )
+## 46  Part 3.3 (Pension Rate Calculator B, Module A, point 1065-A1, method statement, step 5 )
 
 Repeal the step, substitute:
 
@@ -2359,15 +2319,15 @@ Repeal the step, substitute:
 
 _Step 5._   Work out the **_non-income/assets tested rate_** by:
 
-               (a)     subtracting from the maximum payment rate any special employment advance deduction (see Part 3.16B); and
+               (a)     subtracting from the maximum payment rate any special employment advance deduction (see Part 3.16B); and
 
-               (b)     if there is any amount remaining, subtracting from that amount any advance payment deduction (see Part 3.16A); and
+               (b)     if there is any amount remaining, subtracting from that amount any advance payment deduction (see Part 3.16A); and
 
                (c)     adding any amount payable by way of remote area allowance (see Module E).
 
 * * *
 
-## 47  Part 3.4 (Pension Rate Calculator C, Module A, point 1066-A1, method statement, step 12)
+## 47  Part 3.4 (Pension Rate Calculator C, Module A, point 1066-A1, method statement, step 12)
 
 Repeal the step, substitute:
 
@@ -2375,15 +2335,15 @@ Repeal the step, substitute:
 
 _Step 12._ The **_rate of pension_** is the amount obtained by:
 
-               (a)     subtracting from the provisional annual payment rate any special employment advance deduction (see Part 3.16B); and
+               (a)     subtracting from the provisional annual payment rate any special employment advance deduction (see Part 3.16B); and
 
-               (b)     if there is any amount remaining, subtracting from that amount any advance payment deduction (see Part 3.16A); and
+               (b)     if there is any amount remaining, subtracting from that amount any advance payment deduction (see Part 3.16A); and
 
                (c)     adding any amount payable by way of remote area allowance (see Module H).
 
 * * *
 
-## 48  Part 3.4A (Pension Rate Calculator D, Module A, point 1066A-A1, method statement, step 13)
+## 48  Part 3.4A (Pension Rate Calculator D, Module A, point 1066A-A1, method statement, step 13)
 
 Repeal the step, substitute:
 
@@ -2391,15 +2351,15 @@ Repeal the step, substitute:
 
 _Step 13._ The **_rate of pension_** is the amount obtained by:
 
-               (a)     subtracting from the provisional annual payment rate any special employment advance deduction (see Part 3.16B); and
+               (a)     subtracting from the provisional annual payment rate any special employment advance deduction (see Part 3.16B); and
 
-               (b)     if there is any amount remaining, subtracting from that amount any advance payment deduction (see Part 3.16A); and
+               (b)     if there is any amount remaining, subtracting from that amount any advance payment deduction (see Part 3.16A); and
 
                (c)     adding any amount payable by way of remote area allowance (see Module I).
 
 * * *
 
-## 49  Part 3.4B (Pension Rate Calculator E, Module A, point 1066B-A1, method statement, step 6)
+## 49  Part 3.4B (Pension Rate Calculator E, Module A, point 1066B-A1, method statement, step 6)
 
 Repeal the step, substitute:
 
@@ -2407,15 +2367,15 @@ Repeal the step, substitute:
 
 _Step 6._   Work out the **_non-income/assets tested rate_** by:
 
-               (a)     subtracting from the maximum payment rate any special employment advance deduction (see Part 3.16B); and
+               (a)     subtracting from the maximum payment rate any special employment advance deduction (see Part 3.16B); and
 
-               (b)     if there is any amount remaining, subtracting from that amount any advance payment deduction (see Part 3.16A); and
+               (b)     if there is any amount remaining, subtracting from that amount any advance payment deduction (see Part 3.16A); and
 
                (c)     adding any amount payable by way of remote area allowance (see Module F).
 
 * * *
 
-## 50  Part 3.5 (Youth Allowance Rate Calculator, Module A, point 1067G-A1, method statement, step 14)
+## 50  Part 3.5 (Youth Allowance Rate Calculator, Module A, point 1067G-A1, method statement, step 14)
 
 Repeal the step, substitute:
 
@@ -2423,15 +2383,15 @@ Repeal the step, substitute:
 
 _Step 14._ The **_rate of allowance_** is the amount obtained by:
 
-               (a)     subtracting from the provisional fortnightly payment rate any special employment advance deduction (see Part 3.16B); and
+               (a)     subtracting from the provisional fortnightly payment rate any special employment advance deduction (see Part 3.16B); and
 
-               (b)     if there is any amount remaining, subtracting from that amount any advance payment deduction (see Part 3.16A); and
+               (b)     if there is any amount remaining, subtracting from that amount any advance payment deduction (see Part 3.16A); and
 
                (c)     except where the person is a CDEP Scheme participant in respect of the whole or a part of the period for which the rate of allowance is being worked out, adding any amount payable by way of remote area allowance (see Module K).
 
 * * *
 
-## 51  Part 3.5A (Austudy Payment Rate Calculator, Module A, point 1067L-A1, method statement, step 6)
+## 51  Part 3.5A (Austudy Payment Rate Calculator, Module A, point 1067L-A1, method statement, step 6)
 
 Repeal the step, substitute:
 
@@ -2439,15 +2399,15 @@ Repeal the step, substitute:
 
 _Step 6._   The **_rate of payment_** is the amount obtained by:
 
-               (a)     subtracting from the provisional fortnightly payment rate any special employment advance deduction (see Part 3.16B); and
+               (a)     subtracting from the provisional fortnightly payment rate any special employment advance deduction (see Part 3.16B); and
 
-               (b)     if there is any amount remaining, subtracting from that amount any advance payment deduction (see Part 3.16A); and
+               (b)     if there is any amount remaining, subtracting from that amount any advance payment deduction (see Part 3.16A); and
 
                (c)     adding any amount payable by way of remote area allowance (see Module F).
 
 * * *
 
-## 52  Part 3.6 (Benefit Rate Calculator B, Module A, point 1068-A1, method statement, step 7)
+## 52  Part 3.6 (Benefit Rate Calculator B, Module A, point 1068-A1, method statement, step 7)
 
 Repeal the step, substitute:
 
@@ -2455,15 +2415,15 @@ Repeal the step, substitute:
 
 _Step 7._   The **_rate of benefit_** is the amount obtained by:
 
-               (a)     subtracting from the provisional fortnightly payment rate any special employment advance deduction (see Part 3.16B); and
+               (a)     subtracting from the provisional fortnightly payment rate any special employment advance deduction (see Part 3.16B); and
 
-               (b)     if there is any amount remaining, subtracting from that amount any advance payment deduction (see Part 3.16A); and
+               (b)     if there is any amount remaining, subtracting from that amount any advance payment deduction (see Part 3.16A); and
 
                (c)     except where the person is a CDEP Scheme participant in respect of the whole or a part of the period for which the rate of benefit is being worked out, adding any amount payable by way of remote area allowance (see Module J).
 
 * * *
 
-## 53  Part 3.6A (Pension PP (Single) Rate Calculator, Module A, point 1068A-A1, method statement, step 7)
+## 53  Part 3.6A (Pension PP (Single) Rate Calculator, Module A, point 1068A-A1, method statement, step 7)
 
 Repeal the step, substitute:
 
@@ -2471,29 +2431,29 @@ Repeal the step, substitute:
 
 _Step 7._   The **_rate of pension PP (single)_** is the amount obtained by:
 
-               (a)     subtracting from the provisional annual payment rate any special employment advance deduction (see Part 3.16B); and
+               (a)     subtracting from the provisional annual payment rate any special employment advance deduction (see Part 3.16B); and
 
-               (b)     if there is any amount remaining, subtracting from that amount any advance payment deduction (see Part 3.16A); and
+               (b)     if there is any amount remaining, subtracting from that amount any advance payment deduction (see Part 3.16A); and
 
                (c)     adding any amount payable by way of remote area allowance (see Module F).
 
 * * *
 
-## 54  After Part 3.16A
+## 54  After Part 3.16A
 
 Insert:
 
-## Part 3.16B—Special employment advance deductions
+## Part 3.16B—Special employment advance deductions
 
 ##### <a id="1206Q"></a>1206Q  Special employment advance deduction
 
-             (1)  Subject to subsection (2) and section 1206T, a special employment advance deduction is to be made from the rate of a social security entitlement that is payable to a person if:
+             (1)  Subject to subsection (2) and section 1206T, a special employment advance deduction is to be made from the rate of a social security entitlement that is payable to a person if:
 
                      (a)  the person has received a special employment advance or an instalment of a special employment advance; and
 
                      (b)  the person has not yet repaid the whole of the special employment advance or instalment; and
 
-                     (c)  the amount of the special employment advance or instalment that has not been repaid is not a debt under section 1224EA.
+                     (c)  the amount of the special employment advance or instalment that has not been repaid is not a debt under section 1224EA.
 
 Note:          For **_social security entitlement_** see subsection 23(1).
 
@@ -2511,17 +2471,17 @@ or on any later payday.
 
 ##### <a id="1206R"></a>1206R  Amount of special employment advance deduction—basic calculation
 
-                   Subject to sections 1206S, 1206T, 1206U and 1206V, a special employment advance deduction is such amount as the Secretary determines.
+                   Subject to sections 1206S, 1206T, 1206U and 1206V, a special employment advance deduction is such amount as the Secretary determines.
 
 ##### <a id="1206S"></a>1206S  Person may request larger special employment advance deduction
 
-             (1)  Subject to subsection (2) and sections 1206T, 1206U and 1206V, a person’s special employment advance deduction is increased to a larger amount if the person asks the Secretary in writing for the special employment advance deduction to be the larger amount.
+             (1)  Subject to subsection (2) and sections 1206T, 1206U and 1206V, a person’s special employment advance deduction is increased to a larger amount if the person asks the Secretary in writing for the special employment advance deduction to be the larger amount.
 
-             (2)  Subsection (1) does not apply if the Secretary is satisfied that the person would suffer severe financial hardship if the special employment advance deduction were the larger amount.
+             (2)  Subsection (1) does not apply if the Secretary is satisfied that the person would suffer severe financial hardship if the special employment advance deduction were the larger amount.
 
 ##### <a id="1206T"></a>1206T  Reduction of special employment advance deduction in cases of severe financial hardship
 
-             (1)  Subject to subsection (2) and sections 1206U and 1206V, if:
+             (1)  Subject to subsection (2) and sections 1206U and 1206V, if:
 
                      (a)  a person applies in writing to the Secretary for a special employment advance deduction to be decreased, or to be stopped, because of severe financial hardship; and
 
@@ -2547,7 +2507,7 @@ but only if the Secretary is satisfied that the person would not suffer severe f
 
              (1)  If a special employment advance deduction that would otherwise be deducted from a person’s rate exceeds the part of the special employment advance that the person has not yet repaid (by previous deductions under this Part or otherwise), the amount of that special employment advance deduction is to be equal to the part that the person has not yet repaid.
 
-             (2)  This section has effect subject to section 1206V.
+             (2)  This section has effect subject to section 1206V.
 
 ##### <a id="1206V"></a>1206V  Provisional payment rate insufficient to cover special employment advance deduction
 
@@ -2559,7 +2519,7 @@ but only if the Secretary is satisfied that the person would not suffer severe f
 
                      (b)  the provisional payment rate worked out for the person using Pension Rate Calculator A in accordance with Step 1 of the Method statement in point 1065-A1 in Pension Rate Calculator B is less than the special employment advance deduction would be apart from this subsection;
 
-the special employment advance deduction is taken to be equal to the provisional payment rate referred to in paragraph (b).
+the special employment advance deduction is taken to be equal to the provisional payment rate referred to in paragraph (b).
 
              (3)  If:
 
@@ -2567,7 +2527,7 @@ the special employment advance deduction is taken to be equal to the provisional
 
                      (b)  the maximum payment rate for the person worked out in Step 4 of that Method statement is less than the special employment advance deduction would be apart from this subsection;
 
-the special employment advance deduction is taken to be equal to the maximum payment rate referred to in paragraph (b).
+the special employment advance deduction is taken to be equal to the maximum payment rate referred to in paragraph (b).
 
              (4)  If:
 
@@ -2575,7 +2535,7 @@ the special employment advance deduction is taken to be equal to the maximum pay
 
                      (b)  the provisional payment rate worked out for the person using Pension Rate Calculator D in accordance with Step 1 in the Method statement in point 1066B-A1 in Pension Rate Calculator E is less than the special employment advance deduction would be apart from this subsection;
 
-the special employment advance deduction is taken to be equal to the provisional payment rate referred to in paragraph (b).
+the special employment advance deduction is taken to be equal to the provisional payment rate referred to in paragraph (b).
 
              (5)  If:
 
@@ -2583,13 +2543,13 @@ the special employment advance deduction is taken to be equal to the provisional
 
                      (b)  the maximum payment rate for the person worked out in Step 5 of that Method statement is less than the special employment advance deduction would be apart from this subsection;
 
-the special employment advance deduction is taken to be equal to the maximum payment rate referred to in paragraph (b).
+the special employment advance deduction is taken to be equal to the maximum payment rate referred to in paragraph (b).
 
 ##### <a id="1206W"></a>1206W  Rounding of amounts
 
                    Amounts worked out under this Part must be rounded to the nearest cent (rounding 0.5 cent upwards).
 
-## 55  After section 1224E
+## 55  After section 1224E
 
 Insert:
 
@@ -2607,9 +2567,9 @@ Insert:
 
 the amount that has not been repaid is a debt due to the Commonwealth.
 
-###### Schedule 4—Introduction of crisis payment
+# Schedule 4—Introduction of crisis payment
 
-<h7 class="ActHead7">Part 1—Amendment of Social Security Act</h7>
+<h7 class="ActHead7">Part 1—Amendment of Social Security Act</h7>
 
 <h9 class="ActHead9">Social Security Act 1991</h9>
 
@@ -2621,13 +2581,13 @@ Omit “and 2.14”, substitute “, 2.14 and 2.23A”.
 
 Omit “and 2.14”, substitute “, 2.14 and 2.23A”.
 
-## 3  After section 19C
+## 3  After section 19C
 
 Insert:
 
 ##### <a id="19D"></a>19D  Severe financial hardship—crisis payment definition
 
-             (1)  The definition in this section relates to one of the qualifications for crisis payment (see sections 1061JG and 1061JH).
+             (1)  The definition in this section relates to one of the qualifications for crisis payment (see sections 1061JG and 1061JH).
 
              (2)  A person who is not a member of a couple is in **_severe financial_ _hardship_**for the purposes of qualifying for a crisis payment if the value of the person’s liquid assets (within the meaning of subsection 14A(1)) is less than the fortnightly amount at the maximum payment rate of the social security pension or the social security benefit that is payable to the person.
 
@@ -2635,7 +2595,7 @@ Insert:
 
              (4)  For the purposes of working out whether a CDEP Scheme participant is in severe financial hardship as defined in this section, the maximum payment rate of social security pension or social security benefit that would have been payable to the participant if he or she had not been a CDEP Scheme participant is taken to be payable to the participant.
 
-Note:          For **_CDEP Scheme Participant_** see section 1188B.
+Note:          For **_CDEP Scheme Participant_** see section 1188B.
 
              (5)  In this section:
 
@@ -2651,15 +2611,15 @@ Note:          For **_CDEP Scheme Participant_** see section�
 
                             (iv)  wife pension;
 
-                            the Rate Calculator at the end of section 1064; or
+                            the Rate Calculator at the end of section 1064; or
 
-                     (b)  for age pension and disability support pension (recipient has  turned 21) if the recipient is blind—the Rate Calculator at the end of section 1065; or
+                     (b)  for age pension and disability support pension (recipient has  turned 21) if the recipient is blind—the Rate Calculator at the end of section 1065; or
 
-                     (c)  for widow B pension—the Rate Calculator at the end of section 1066; or
+                     (c)  for widow B pension—the Rate Calculator at the end of section 1066; or
 
-                     (d)  for disability support pension if the recipient is under 21 and not blind—Step 5 of the Method statement in Module A of the Rate Calculator at the end of section 1066A; or
+                     (d)  for disability support pension if the recipient is under 21 and not blind—Step 5 of the Method statement in Module A of the Rate Calculator at the end of section 1066A; or
 
-                     (e)  for disability support pension if the recipient is under 21 and is blind—Step 5 of the Method statement in Module A of the Rate Calculator at the end of section 1066B; or
+                     (e)  for disability support pension if the recipient is under 21 and is blind—Step 5 of the Method statement in Module A of the Rate Calculator at the end of section 1066B; or
 
                       (f)  for the following allowances:
 
@@ -2671,39 +2631,39 @@ Note:          For **_CDEP Scheme Participant_** see section�
 
                             (iv)  partner allowance;
 
-                             (v)  mature age allowance granted under Part 2.12B;
+                             (v)  mature age allowance granted under Part 2.12B;
 
-                            the Rate Calculator at the end of section 1068; or
+                            the Rate Calculator at the end of section 1068; or
 
-                     (g)  for mature age allowance granted under Part 2.12A—the Rate Calculator at the end of section 1064; or
+                     (g)  for mature age allowance granted under Part 2.12A—the Rate Calculator at the end of section 1064; or
 
-                     (h)  for a pension PP (single)—the Rate Calculator at the end of section 1068A; or
+                     (h)  for a pension PP (single)—the Rate Calculator at the end of section 1068A; or
 
                       (i)  for benefit PP (partnered)—point 1068B-A4; or
 
-                      (j)  for mature age partner allowance—the Rate Calculator at the end of section 1064; or
+                      (j)  for mature age partner allowance—the Rate Calculator at the end of section 1064; or
 
-                     (k)  for special benefit—section 746; or
+                     (k)  for special benefit—section 746; or
 
-                      (l)  for youth allowance—the Rate Calculator at the end of section 1067G; or
+                      (l)  for youth allowance—the Rate Calculator at the end of section 1067G; or
 
-                    (m)  for austudy payment—Step 3 of the Method statement in Module A of the Rate Calculator at the end of section 1067L.
+                    (m)  for austudy payment—Step 3 of the Method statement in Module A of the Rate Calculator at the end of section 1067L.
 
-## 4  Section 408FA (note)
-
-Repeal the note.
-
-## 5  Section 643 (note)
+## 4  Section 408FA (note)
 
 Repeal the note.
 
-## 6  Section 660YFA (note)
+## 5  Section 643 (note)
+
+Repeal the note.
+
+## 6  Section 660YFA (note)
 
 Repeal the note.
 
 ## 7  Subsection 746(2)
 
-Omit “and section 1161 (release from gaol or from psychiatric confinement)”.
+Omit “and section 1161 (release from gaol or from psychiatric confinement)”.
 
 ## 8  Subsection 746(2) (note 1)
 
@@ -2715,7 +2675,7 @@ Omit “Note 2”, substitute “Note”.
 
 ## 10  Subsection 771KE(2)
 
-Omit “and section 1161 (release from gaol)”.
+Omit “and section 1161 (release from gaol)”.
 
 ## 11  Subsection 771KE(2) (note 1)
 
@@ -2725,13 +2685,13 @@ Repeal the note.
 
 Omit “Note 2”, substitute “Note”.
 
-## 13  After Part 2.23
+## 13  After Part 2.23
 
 Insert:
 
-## Part 2.23A—Crisis payment
+## Part 2.23A—Crisis payment
 
-### Division 1—Qualification for crisis payment
+### Division 1—Qualification for crisis payment
 
 ##### <a id="1061JG"></a>1061JG  Qualification—release from gaol or psychiatric confinement
 
@@ -2745,7 +2705,7 @@ Insert:
 
                               (i)  the person is qualified for a social security pension or social security benefit; and
 
-                             (ii)  the person is in severe financial hardship (see section 19D).
+                             (ii)  the person is in severe financial hardship (see section 19D).
 
 ##### <a id="1061JH"></a>1061JH  Qualification—extreme circumstances forcing departure from home
 
@@ -2763,7 +2723,7 @@ Insert:
 
                       (f)  on the day on which the claim is made:
 
-                              (i)  the person is in severe financial hardship (see section 19D); and
+                              (i)  the person is in severe financial hardship (see section 19D); and
 
                              (ii)  the person has made a claim (whether on the same day or on an earlier day) for a social security pension or benefit and the person is qualified for the pension or benefit; and
 
@@ -2789,17 +2749,17 @@ Note:          Examples of extreme circumstances that would qu
 
 Note:          For **_assurance of support_** see subsection 23(1).
 
-### Division 2—Claim for crisis payment
+### Division 2—Claim for crisis payment
 
 ##### <a id="1061JL"></a>1061JL  Need for a claim
 
              (1)  A person who wants to be granted a crisis payment must make a proper claim for that payment.
 
-             (2)  For the purposes of subsection (1), if:
+             (2)  For the purposes of subsection (1), if:
 
                      (a)  a claim for a crisis payment is made by or on behalf of a person; and
 
-                     (b)  the claim is based on the qualifications set out in section 1061JH; and
+                     (b)  the claim is based on the qualifications set out in section 1061JH; and
 
                      (c)  at the time when the claim is made, the claim cannot be granted because the person is not qualified for the payment;
 
@@ -2819,7 +2779,7 @@ the claim is taken not to have been made.
 
                      (c)  with a person approved for the purpose by the Secretary.
 
-             (2)  A place or person approved under subsection (1) must be a place or person in Australia.
+             (2)  A place or person approved under subsection (1) must be a place or person in Australia.
 
              (3)  If:
 
@@ -2859,7 +2819,7 @@ the person is taken to have made a claim for crisis payment on the day on which 
 
              (3)  A withdrawal may be made orally or in writing.
 
-### Division 3—Determination of claim
+### Division 3—Determination of claim
 
 ##### <a id="1061JR"></a>1061JR  Secretary to determine claim
 
@@ -2875,7 +2835,7 @@ the person is taken to have made a claim for crisis payment on the day on which 
 
 ##### <a id="1061JT"></a>1061JT  Date of effect of determination
 
-             (1)  Subject to subsections (2), (3) and (4), a determination under section 1061JR takes effect on the day on which the determination is made or on such later day or earlier day as is specified in the determination.
+             (1)  Subject to subsections (2), (3) and (4), a determination under section 1061JR takes effect on the day on which the determination is made or on such later day or earlier day as is specified in the determination.
 
              (2)  If:
 
@@ -2883,7 +2843,7 @@ the person is taken to have made a claim for crisis payment on the day on which 
 
                      (b)  a notice is given to the person advising the person of the making of the previous decision; and
 
-                     (c)  the person applies to the Secretary under section 1240, within 3 months after the notice is given, for review of the previous decision; and
+                     (c)  the person applies to the Secretary under section 1240, within 3 months after the notice is given, for review of the previous decision; and
 
                      (d)  a determination granting the claim is made as a result of the application for review;
 
@@ -2895,7 +2855,7 @@ the determination takes effect on the day on which the previous decision took ef
 
                      (b)  a notice is given to the person advising the person of the making of the previous decision; and
 
-                     (c)  the person applies to the Secretary under section 1240 more than 3 months after the notice is given, for review of the previous decision; and
+                     (c)  the person applies to the Secretary under section 1240 more than 3 months after the notice is given, for review of the previous decision; and
 
                      (d)   a determination granting the claim is made as a result of the application for review;
 
@@ -2907,23 +2867,23 @@ the determination takes effect on the day on which the person sought the review.
 
                      (b)  no notice is given to the person advising the person of the making of the previous decision; and
 
-                     (c)  the person applies to the Secretary under section 1240 for review of the previous decision; and
+                     (c)  the person applies to the Secretary under section 1240 for review of the previous decision; and
 
                      (d)  a determination granting the claim is made as a result of the application for review;
 
 the determination takes effect on the day on which the previous decision took effect.
 
-### Division 4—Amount of crisis payment
+### Division 4—Amount of crisis payment
 
 ##### <a id="1061JU"></a>1061JU  Amount of payment
 
-             (1)  Subject to subsection (2), the amount of a crisis payment payable to a person is half the fortnightly amount at the maximum basic rate of the social security pension or social security benefit that is payable to the person.
+             (1)  Subject to subsection (2), the amount of a crisis payment payable to a person is half the fortnightly amount at the maximum basic rate of the social security pension or social security benefit that is payable to the person.
 
-             (2)  If a person is a CDEP Scheme participant, the amount of a crisis payment payable to the person is half the fortnightly amount at the maximum basic rate of the social security pension or social security benefit that the person is taken to be receiving under section 1188H.
+             (2)  If a person is a CDEP Scheme participant, the amount of a crisis payment payable to the person is half the fortnightly amount at the maximum basic rate of the social security pension or social security benefit that the person is taken to be receiving under section 1188H.
 
-Note:          For **_CDEP Scheme participant_** see section 1188B.
+Note:          For **_CDEP Scheme participant_** see section 1188B.
 
-             (3)  If, under section 1188H, the person is taken to be receiving more than one social security pension or social security benefit, the person is taken, for the purposes of subsection (2), to be receiving the pension or benefit with the higher maximum basic rate.
+             (3)  If, under section 1188H, the person is taken to be receiving more than one social security pension or social security benefit, the person is taken, for the purposes of subsection (2), to be receiving the pension or benefit with the higher maximum basic rate.
 
              (4)  In this section:
 
@@ -2939,15 +2899,15 @@ Note:          For **_CDEP Scheme participant_** see section�
 
                             (iv)  wife pension;
 
-                            the Rate Calculator at the end of section 1064; or
+                            the Rate Calculator at the end of section 1064; or
 
-                     (b)  for age pension and disability support pension (recipient has turned 21) if the recipient is blind—the Rate Calculator at the end of section 1065; or
+                     (b)  for age pension and disability support pension (recipient has turned 21) if the recipient is blind—the Rate Calculator at the end of section 1065; or
 
-                     (c)  for widow B pension—the Rate Calculator at the end of section 1066; or
+                     (c)  for widow B pension—the Rate Calculator at the end of section 1066; or
 
-                     (d)  for disability support pension if the recipient is under 21 and not blind—the Rate Calculator at the end of section 1066A; or
+                     (d)  for disability support pension if the recipient is under 21 and not blind—the Rate Calculator at the end of section 1066A; or
 
-                     (e)  for disability support pension if the recipient is under 21 and is blind—the Rate Calculator at the end of section 1066B; or
+                     (e)  for disability support pension if the recipient is under 21 and is blind—the Rate Calculator at the end of section 1066B; or
 
                       (f)  for the following allowances:
 
@@ -2959,43 +2919,43 @@ Note:          For **_CDEP Scheme participant_** see section�
 
                             (iv)  partner allowance;
 
-                             (v)  mature age allowance granted under Part 2.12B;
+                             (v)  mature age allowance granted under Part 2.12B;
 
-                            the Rate Calculator at the end of section 1068; or
+                            the Rate Calculator at the end of section 1068; or
 
-                     (g)  for mature age allowance granted under Part 2.12A—the Rate Calculator at the end of section 1064; or
+                     (g)  for mature age allowance granted under Part 2.12A—the Rate Calculator at the end of section 1064; or
 
-                     (h)  for a pension PP (single)—the Rate Calculator at the end of section 1068A; or
+                     (h)  for a pension PP (single)—the Rate Calculator at the end of section 1068A; or
 
-                      (i)  for benefit PP (partnered)—Module C of the Rate Calculator at the end of section 1068B; or
+                      (i)  for benefit PP (partnered)—Module C of the Rate Calculator at the end of section 1068B; or
 
-                      (j)  for mature age partner allowance—the Rate Calculator at the end of section 1064; or
+                      (j)  for mature age partner allowance—the Rate Calculator at the end of section 1064; or
 
-                     (k)  for special benefit—section 746; or
+                     (k)  for special benefit—section 746; or
 
-                      (l)  for youth allowance—the Rate Calculator at the end of section 1067G; or
+                      (l)  for youth allowance—the Rate Calculator at the end of section 1067G; or
 
-                    (m)  for austudy payment—Step 3 of the Method statement in Module A of the Rate Calculator at the end of section 1067L.
+                    (m)  for austudy payment—Step 3 of the Method statement in Module A of the Rate Calculator at the end of section 1067L.
 
-### Division 5—Payment of crisis payment
+### Division 5—Payment of crisis payment
 
 ##### <a id="1061JV"></a>1061JV  Payment into bank account
 
-             (1)  An amount that is to be paid to a person under Division 4 is to be paid in the manner set out in this section.
+             (1)  An amount that is to be paid to a person under Division 4 is to be paid in the manner set out in this section.
 
              (2)  Subject to this section, the amount is to be paid to the credit of a bank account nominated and maintained by the person.
 
              (3)  The account may be an account that is maintained by the person either alone or jointly or in common with another person.
 
-             (4)  The Secretary may direct that the whole or part of the amount be paid to the person in a different way from that provided for by subsection (2).
+             (4)  The Secretary may direct that the whole or part of the amount be paid to the person in a different way from that provided for by subsection (2).
 
-             (5)  If the Secretary gives a direction under subsection (2), the amount is to be paid in accordance with the direction.
+             (5)  If the Secretary gives a direction under subsection (2), the amount is to be paid in accordance with the direction.
 
-### Division 6—Protection of crisis payment
+### Division 6—Protection of crisis payment
 
 ##### <a id="1061JW"></a>1061JW  Crisis payment to be absolutely inalienable
 
-             (1)  Subject to subsections (2) and (3) and section 1359, a crisis payment is absolutely inalienable, whether by way of, or in consequence of, sale, assignment, charge, execution, bankruptcy or otherwise.
+             (1)  Subject to subsections (2) and (3) and section 1359, a crisis payment is absolutely inalienable, whether by way of, or in consequence of, sale, assignment, charge, execution, bankruptcy or otherwise.
 
              (2)  The Secretary may make a deduction from a crisis payment payable to a person if the person asks the Secretary;
 
@@ -3003,11 +2963,11 @@ Note:          For **_CDEP Scheme participant_** see section�
 
                      (b)  to pay the amount to be deducted to the Commissioner of Taxation.
 
-Note:          The Secretary must make a deduction from a person’s crisis payment if requested by the Commissioner of Taxation (see section 1359).
+Note:          The Secretary must make a deduction from a person’s crisis payment if requested by the Commissioner of Taxation (see section 1359).
 
-             (3)  The Secretary may make a deduction from a person’s crisis payment if the person consents under section 1234A to the Secretary making that deduction.
+             (3)  The Secretary may make a deduction from a person’s crisis payment if the person consents under section 1234A to the Secretary making that deduction.
 
-Note:          Section 1234A enables the Secretary to recover a debt from a person other than the debtor if the person is receiving a social security payment.
+Note:          Section 1234A enables the Secretary to recover a debt from a person other than the debtor if the person is receiving a social security payment.
 
 ##### <a id="1061JX"></a>1061JX  Effect of garnishee or attachment order 
 
@@ -3021,11 +2981,11 @@ Note:          Section 1234A enables the Secretary to recove
 
 the court order does not apply to the amount of the crisis payment in the account.
 
-## 14 Division 1 of Part 3.13 (heading)
+## 14 Division 1 of Part 3.13 (heading)
 
 Repeal the heading.
 
-## 15  Section 1158
+## 15  Section 1158
 
 Repeal the section (but not the notes), substitute:
 
@@ -3037,15 +2997,15 @@ Repeal the section (but not the notes), substitute:
 
                      (b)  undergoing psychiatric confinement because the person has been charged with an offence.
 
-## 16  Divisions 2, 3 and 4 of Part 3.13
+## 16  Divisions 2, 3 and 4 of Part 3.13
 
 Repeal the Divisions.
 
-<h7 class="ActHead7" style="page-break-before:always">Part 2—Consequential amendments</h7>
+<h7 class="ActHead7" style="page-break-before:always">Part 2—Consequential amendments</h7>
 
 <h9 class="ActHead9">Income Tax Assessment Act 1997</h9>
 
-## 17  Section 52-10 (after table item 4.4)
+## 17  Section 52-10 (after table item 4.4)
 
 Insert:
 
@@ -3061,40 +3021,26 @@ Insert:
 
 <tr>
   <td>
-    <div>
-      5.1
-    </div>
+    <div>5.1</div>
   </td>
   <td>
-    <div>
-      <b>
-        Crisis payment
-      </b>
-    </div>
+    <div><b> Crisis payment </b></div>
   </td>
   <td>
-    <div>
-      Exempt
-    </div>
+    <div>Exempt</div>
   </td>
   <td>
-    <div>
-      Exempt
-    </div>
+    <div>Exempt</div>
   </td>
   <td>
-    <div>
-      Not applicable
-    </div>
+    <div>Not applicable</div>
   </td>
   <td>
-    <div>
-      Not applicable
-    </div>
+    <div>Not applicable</div>
   </td>
 </tr></table>
 
-## 18  Section 52-40 (after table item 4)
+## 18  Section 52-40 (after table item 4)
 
 Insert:
 
@@ -3109,31 +3055,19 @@ Insert:
 
 <tr>
   <td>
-    <div>
-      5
-    </div>
+    <div>5</div>
   </td>
   <td>
-    <div>
-      <b>
-        Crisis payment
-      </b>
-    </div>
+    <div><b> Crisis payment </b></div>
   </td>
   <td>
-    <div>
-      Part 2.23A
-    </div>
+    <div>Part 2.23A</div>
   </td>
   <td>
-    <div>
-      Not applicable
-    </div>
+    <div>Not applicable</div>
   </td>
   <td>
-    <div>
-      Not applicable
-    </div>
+    <div>Not applicable</div>
   </td>
 </tr></table>
 
@@ -3141,7 +3075,7 @@ Insert:
 
 The amendments made by this Part apply to assessments for the 1999-2000 income year and later income years.
 
-<h7 class="ActHead7" style="page-break-before:always">Part 3—Application</h7>
+<h7 class="ActHead7" style="page-break-before:always">Part 3—Application</h7>
 
 ## 20  Crisis payment not payable
 
@@ -3155,9 +3089,9 @@ If:
 
 the crisis payment is not payable to the person.
 
-###### Schedule 5—Amendments relating to newly arrived residents’ waiting periods
+# Schedule 5—Amendments relating to newly arrived residents’ waiting periods
 
-<h7 class="ActHead7">Part 1—Amendments</h7>
+<h7 class="ActHead7">Part 1—Amendments</h7>
 
 <h9 class="ActHead9">Social Security Act 1991</h9>
 
@@ -3165,17 +3099,17 @@ the crisis payment is not payable to the person.
 
 After “pension PP (single)”, insert “, carer payment”.
 
-## 2  Section 201AA (first occurring)
+## 2  Section 201AA (first occurring)
 
-Renumber as section 201AAA.
+Renumber as section 201AAA.
 
 ## 3  Subsection 201AA(1)
 
-Repeal the subsection (but not the note), substitute:
+Repeal the subsection (but not the note), substitute:
 
              (1)  A person is subject to a newly arrived resident’s waiting period if the person:
 
-                     (a)  enters Australia on or after 4 March 1997; and
+                     (a)  enters Australia on or after 4 March 1997; and
 
                      (b)  has not been an Australian resident and in Australia for a period of, or periods totalling, 104 weeks.
 
@@ -3183,7 +3117,7 @@ Repeal the subsection (but not the note), substitute:
 
 Repeal the subsection, substitute:
 
-             (2)  Subsection (1) does not apply to a person who has a qualifying residence exemption for a carer payment.
+             (2)  Subsection (1) does not apply to a person who has a qualifying residence exemption for a carer payment.
 
 ## 5  Paragraphs 201AA(3)(b) and (4)(b)
 
@@ -3195,7 +3129,7 @@ Repeal the paragraphs, substitute;
 
 Repeal the subsection, substitute:
 
-             (5)  Subsection (1) does not apply to a person if:
+             (5)  Subsection (1) does not apply to a person if:
 
                      (a)  the person is already subject to a newly arrived resident’s waiting period; or
 
@@ -3211,7 +3145,7 @@ Repeal the subsection, substitute:
 
                     <a name="carer"></a>**_carer_** has the same meaning as in the Migration Regulations.
 
-                    <a name="special-need-rel"></a>**_special need relative_** has the same meaning as in the Migration Regulations as in force on 30 November 1998.
+                    <a name="special-need-rel"></a>**_special need relative_** has the same meaning as in the Migration Regulations as in force on 30 November 1998.
 
 ## 8  Paragraphs 201AB(a) and (b)
 
@@ -3223,7 +3157,7 @@ Repeal the paragraphs, substitute:
 
 ## 9  Subparagraph 408BA(2)(d)(ia)
 
-After “1 April 1996”, insert “and before the commencement day”.
+After “1 April 1996”, insert “and before the commencement day”.
 
 ## 10  After subparagraph 408BA(2)(d)(ia)
 
@@ -3233,19 +3167,19 @@ Insert:
 
 ## 11  Subsection 408BA(2) (note 3)
 
-Omit “the purposes of this section (see subsection (4))”, substitute “some purposes (see subsections (4) and (4A))”.
+Omit “the purposes of this section (see subsection (4))”, substitute “some purposes (see subsections (4) and (4A))”.
 
 ## 12  At the end of subsection 408BA(4A)
 
 Add “or (2)(d)(ib)”.
 
-## 13  At the end of section 408BA
+## 13  At the end of section 408BA
 
 Add:
 
              (6)  In this section:
 
-                    <a name="commenc-dai"></a>**_commencement day_** means the day on which Schedule 5 to the _Further 1998 Budget Measures Legislation Amendment (Social Security) Act 1999_ commences.
+                    <a name="commenc-dai"></a>**_commencement day_** means the day on which Schedule 5 to the _Further 1998 Budget Measures Legislation Amendment (Social Security) Act 1999_ commences.
 
 ## 14  Paragraph 623A(1)(b)
 
@@ -3257,11 +3191,11 @@ Repeal the paragraph, substitute:
 
 Repeal the note.
 
-## 16  At the end of section 623A
+## 16  At the end of section 623A
 
 Add:
 
-             (6)  Subsection (1) does not apply to a person if:
+             (6)  Subsection (1) does not apply to a person if:
 
                      (a)  the person is a New Zealand citizen; and
 
@@ -3283,9 +3217,9 @@ Repeal the subsection, substitute:
 
 Repeal the subsection, substitute:
 
-             (3)  If subsection (2) does not apply, the newly arrived resident’s waiting period ends when the person has been an Australian resident and in Australia for a period of, or periods totalling, 104 weeks.
+             (3)  If subsection (2) does not apply, the newly arrived resident’s waiting period ends when the person has been an Australian resident and in Australia for a period of, or periods totalling, 104 weeks.
 
-Note:          This rule does not apply to people who were already subject to, or had already served, a newly arrived resident’s waiting period before the commencement of this rule. Clause 121 of Schedule 1A to this Act continues the application of the previous rules to those people.
+Note:          This rule does not apply to people who were already subject to, or had already served, a newly arrived resident’s waiting period before the commencement of this rule. Clause 121 of Schedule 1A to this Act continues the application of the previous rules to those people.
 
 ## 19  Paragraph 660YCFA(1)(b)
 
@@ -3297,11 +3231,11 @@ Repeal the paragraph, substitute:
 
 Repeal the note.
 
-## 21  At the end of section 660YCFA
+## 21  At the end of section 660YCFA
 
 Add:
 
-             (5)  Subsection (1) does not apply to a person if:
+             (5)  Subsection (1) does not apply to a person if:
 
                      (a)  the person is a New Zealand citizen; and
 
@@ -3317,9 +3251,9 @@ Repeal the subsection, substitute:
 
 Repeal the subsection, substitute:
 
-             (3)  If subsection (2) does not apply, the newly arrived resident’s waiting period ends when the person has been an Australian resident and in Australia for a period of, or periods totalling, 104 weeks.
+             (3)  If subsection (2) does not apply, the newly arrived resident’s waiting period ends when the person has been an Australian resident and in Australia for a period of, or periods totalling, 104 weeks.
 
-Note:          This rule does not apply to people who were already subject to, or had already served, a newly arrived resident’s waiting period before the commencement of this rule. Clause 121 of Schedule 1A to this Act continues the application of the previous rules to those people.
+Note:          This rule does not apply to people who were already subject to, or had already served, a newly arrived resident’s waiting period before the commencement of this rule. Clause 121 of Schedule 1A to this Act continues the application of the previous rules to those people.
 
 ## 24  Paragraph 696B(1)(b)
 
@@ -3331,11 +3265,11 @@ Repeal the paragraph, substitute:
 
 Repeal the note.
 
-## 26  At the end of section 696B
+## 26  At the end of section 696B
 
 Add:
 
-             (6)  Subsection (1) does not apply to a person if:
+             (6)  Subsection (1) does not apply to a person if:
 
                      (a)  the person is a New Zealand citizen; and
 
@@ -3351,9 +3285,9 @@ Repeal the subsection, substitute:
 
 Repeal the subsection, substitute:
 
-             (3)  If subsection (2) does not apply, the newly arrived resident’s waiting period ends when the person has been an Australian resident and in Australia for a period of, or periods totalling, 104 weeks.
+             (3)  If subsection (2) does not apply, the newly arrived resident’s waiting period ends when the person has been an Australian resident and in Australia for a period of, or periods totalling, 104 weeks.
 
-Note:          This rule does not apply to people who were already subject to, or had already served, a newly arrived resident’s waiting period before the commencement of this rule. Clause 121 of Schedule 1A to this Act continues the application of the previous rules to those people.
+Note:          This rule does not apply to people who were already subject to, or had already served, a newly arrived resident’s waiting period before the commencement of this rule. Clause 121 of Schedule 1A to this Act continues the application of the previous rules to those people.
 
 ## 29  Paragraph 771HNA(1)(b)
 
@@ -3365,11 +3299,11 @@ Repeal the paragraph, substitute:
 
 Repeal the note.
 
-## 31  At the end of section 771HNA
+## 31  At the end of section 771HNA
 
 Add:
 
-             (5)  Subsection (1) does not apply to a person if:
+             (5)  Subsection (1) does not apply to a person if:
 
                      (a)  the person is a New Zealand citizen; and
 
@@ -3385,13 +3319,13 @@ Repeal the subsection, substitute:
 
 Repeal the subsection, substitute:
 
-             (3)  If subsection (2) does not apply, the newly arrived resident’s waiting period ends when the person has been an Australian resident and in Australia for a period of, or periods totalling, 104 weeks.
+             (3)  If subsection (2) does not apply, the newly arrived resident’s waiting period ends when the person has been an Australian resident and in Australia for a period of, or periods totalling, 104 weeks.
 
-Note:          This rule does not apply to people who were already subject to, or had already served, a newly arrived resident’s waiting period before the commencement of this rule. Clause 121 of Schedule 1A to this Act continues the application of the previous rules to those people.
+Note:          This rule does not apply to people who were already subject to, or had already served, a newly arrived resident’s waiting period before the commencement of this rule. Clause 121 of Schedule 1A to this Act continues the application of the previous rules to those people.
 
-## 34  Section 771HNA (second occurring)
+## 34  Section 771HNA (second occurring)
 
-Renumber as section 771HNC.
+Renumber as section 771HNC.
 
 ## 35  Paragraph 1039AA(1)(b)
 
@@ -3403,17 +3337,17 @@ Repeal the paragraph, substitute:
 
 Repeal the note.
 
-## 37  At the end of section 1039AA
+## 37  At the end of section 1039AA
 
 Add:
 
-             (5)  Subsection (1) does not apply to a person if:
+             (5)  Subsection (1) does not apply to a person if:
 
                      (a)  the person is a New Zealand citizen; and
 
                      (b)  the person was an Australian resident on the day this subsection commences.
 
-## 38  Section 1039AB
+## 38  Section 1039AB
 
 Repeal the section (including the note), substitute:
 
@@ -3439,17 +3373,17 @@ Repeal the paragraph, substitute:
 
 Repeal the note.
 
-## 42  At the end of section 1061ZA
+## 42  At the end of section 1061ZA
 
 Add:
 
-             (7)  Subsection (2) does not apply to person if:
+             (7)  Subsection (2) does not apply to person if:
 
                      (a)  the person is a New Zealand citizen; and
 
                      (b)  the person was an Australian resident on the day this subsection commences.
 
-## 43  Section 1061ZAA
+## 43  Section 1061ZAA
 
 Repeal the section, substitute:
 
@@ -3467,45 +3401,45 @@ Add:
 
 ##### <a id="121"></a>121  Changes to newly arrived resident’s waiting period 
 
-                   If a person is subject to a newly arrived resident’s waiting period immediately before the commencement of Schedule 5 to the _Further 1998 Budget Measures Legislation Amendment (Social Security) Act 1999_(the **_amending Act_**), this Act  continues to apply to the person in relation to the waiting period as if the amendments made by the amending Act had not been made.
+                   If a person is subject to a newly arrived resident’s waiting period immediately before the commencement of Schedule 5 to the _Further 1998 Budget Measures Legislation Amendment (Social Security) Act 1999_(the **_amending Act_**), this Act  continues to apply to the person in relation to the waiting period as if the amendments made by the amending Act had not been made.
 
-## 45  At the end of Schedule 4
+## 45  At the end of Schedule 4
 
 Add:
 
 **Part D**
 
-**Notes dated 2 July 1998 between the Government of****Australia****and the Government of****New   Zealand****agreeing that Article 15 of the Agreement is to be deleted.**
+**Notes dated****2 July 1998****between the Government of****Australia****and the Government of****New Zealand****agreeing that Article 15 of the Agreement is to be deleted.**
 
 No. Legal 98/290
 
-The Department of Foreign Affairs and Trade presents its compliments to the New Zealand High Commission and has the honour to refer to the Agreement between the Government of Australia and the Government of New Zealand on Social Security, signed at Wellington on 19 July 1994, as amended by the First and Second Protocols to the Agreement between the Government of Australia and the Government of New Zealand on Social Security of 7 September 1995 (“the Agreement”) and to recent discussions between the Department of Social Security of Australia and the Department of Social Welfare of New Zealand concerning the need to amend the Agreement, so as to remove the provisions relating to benefits for the unemployed.
+The Department of Foreign Affairs and Trade presents its compliments to the New Zealand High Commission and has the honour to refer to the Agreement between the Government of Australia and the Government of New Zealand on Social Security, signed at Wellington on 19 July 1994, as amended by the First and Second Protocols to the Agreement between the Government of Australia and the Government of New Zealand on Social Security of 7 September 1995 (“the Agreement”) and to recent discussions between the Department of Social Security of Australia and the Department of Social Welfare of New Zealand concerning the need to amend the Agreement, so as to remove the provisions relating to benefits for the unemployed.
 
 The Department of Foreign Affairs and Trade now has the honour to propose the following amendment to the Agreement:
 
                         Article 15 of the Agreement shall be deleted.
 
-If the foregoing proposal is acceptable to the Government of New Zealand, the Department of Foreign Affairs and Trade has the honour to propose that this Note and the New Zealand High Commission’s reply to that effect, shall constitute an Agreement between the Government of Australia and the Government of New Zealand which shall enter into force on the first day of September 1998 provided that prior to that date the Government of Australia and the Government of New Zealand have exchanged further notes through the diplomatic channel notifying each other that all other matters as are necessary to give effect to this Agreement have been finalised or if that notification has not been completed prior to 1 September 1998, on the first day of the second month after that notification has been completed.
+If the foregoing proposal is acceptable to the Government of New Zealand, the Department of Foreign Affairs and Trade has the honour to propose that this Note and the New Zealand High Commission’s reply to that effect, shall constitute an Agreement between the Government of Australia and the Government of New Zealand which shall enter into force on the first day of September 1998 provided that prior to that date the Government of Australia and the Government of New Zealand have exchanged further notes through the diplomatic channel notifying each other that all other matters as are necessary to give effect to this Agreement have been finalised or if that notification has not been completed prior to 1 September 1998, on the first day of the second month after that notification has been completed.
 
 The Department of Foreign Affairs and Trade avails itself of this opportunity to renew to the New Zealand High Commission the assurances of its highest consideration.
 
 CANBERRA
 
-2 July 1998
+2 July 1998
 
 A/NZ/2/4/2
 
-            The New Zealand High Commission presents its compliments to the Department of Foreign Affairs and Trade and has the honour to refer to the Department’s Note No Legal 98/290 of 2 July which reads as follows:
+            The New Zealand High Commission presents its compliments to the Department of Foreign Affairs and Trade and has the honour to refer to the Department’s Note No Legal 98/290 of 2 July which reads as follows:
 
-            The Department of Foreign Affairs and Trade presents its compliments to the New Zealand High Commission and has the honour to refer to the Agreement between the Government of Australia and the Government of New Zealand on Social Security, signed at Wellington on 19 July 1994, as amended by the First and Second Protocols to the Agreement between the Government of Australia and the Government of New Zealand on Social Security of 7 September 1995 (“the Agreement”) and to recent discussions between the Department of Social Security of Australia and the Department of Social Welfare of New Zealand concerning the need to amend the Agreement, so as to remove the provisions relating to benefits for the unemployed.
+            The Department of Foreign Affairs and Trade presents its compliments to the New Zealand High Commission and has the honour to refer to the Agreement between the Government of Australia and the Government of New Zealand on Social Security, signed at Wellington on 19 July 1994, as amended by the First and Second Protocols to the Agreement between the Government of Australia and the Government of New Zealand on Social Security of 7 September 1995 (“the Agreement”) and to recent discussions between the Department of Social Security of Australia and the Department of Social Welfare of New Zealand concerning the need to amend the Agreement, so as to remove the provisions relating to benefits for the unemployed.
 
             The Department of Foreign Affairs and Trade now has the honour to propose the following amendment to the Agreement:
 
                                     Article 15 of the Agreement shall be deleted.
 
-            If the foregoing proposal is acceptable to the Government of New Zealand, the Department of Foreign Affairs and Trade has the honour to propose that this Note and the New Zealand High Commission’s reply to that effect, shall constitute an Agreement between the Government of Australia and the Government of Zealand which shall enter into force on the first day of September 1998 provided that prior to that date the Government of Australia and the Government of New Zealand have exchanged further notes through the diplomatic channel notifying each other that allother matters as are necessary to give effect to this Agreement have been finalised or if that notification has not been completed prior to 1 September 1998, on the first day of the second month after that notification has been completed.
+            If the foregoing proposal is acceptable to the Government of New Zealand, the Department of Foreign Affairs and Trade has the honour to propose that this Note and the New Zealand High Commission’s reply to that effect, shall constitute an Agreement between the Government of Australia and the Government of Zealand which shall enter into force on the first day of September 1998 provided that prior to that date the Government of Australia and the Government of New Zealand have exchanged further notes through the diplomatic channel notifying each other that allother matters as are necessary to give effect to this Agreement have been finalised or if that notification has not been completed prior to 1 September 1998, on the first day of the second month after that notification has been completed.
 
-            The New Zealand High Commission has further the honour to confirm that the above is acceptable to the Government of New Zealand and that the Department’s Note and this reply shall constitute an Agreement Between the Government of New Zealand and the Government of Australia which shall enter into force on the first day of September 1998 provided that prior to that date the Government of New Zealand and the Government of Australia have exchanged further notes through the diplomatic channel notifying each other that all other matters as are necessary to give effect to this Agreement have been finalised or that if notification has not been completed prior to 1 September 1998, on the first day of the second month after that notification has been completed.
+            The New Zealand High Commission has further the honour to confirm that the above is acceptable to the Government of New Zealand and that the Department’s Note and this reply shall constitute an Agreement Between the Government of New Zealand and the Government of Australia which shall enter into force on the first day of September 1998 provided that prior to that date the Government of New Zealand and the Government of Australia have exchanged further notes through the diplomatic channel notifying each other that all other matters as are necessary to give effect to this Agreement have been finalised or that if notification has not been completed prior to 1 September 1998, on the first day of the second month after that notification has been completed.
 
             The New Zealand High Commission takes this opportunity to renew to the Department of Foreign Affairs and Trade the assurances of its highest consideration.
 
@@ -3513,7 +3447,7 @@ New Zealand High Commission
 
 CANBERRA
 
-2 July 1998
+2 July 1998
 
 <h9 class="ActHead9">Health Insurance Act 1973</h9>
 
@@ -3537,15 +3471,15 @@ Repeal the subsection, substitute:
 
                      (b)  ends when the person has been an Australian resident and in Australia for a period of, or periods totalling, 104 weeks.
 
-<h7 class="ActHead7">Part 2—Saving</h7>
+<h7 class="ActHead7">Part 2—Saving</h7>
 
 ## 49  Saving
 
 If a person is subject to a newly arrived disadvantaged low income resident’s waiting period immediately before the commencement of this Schedule, the _Health Insurance Act 1973_ continues to apply to the person in relation to the waiting period as if the amendments made to that Act by this Schedule had not been made.
 
-###### Schedule 6—Amendments relating to periods of overseas residence and travel
+# Schedule 6—Amendments relating to periods of overseas residence and travel
 
-<h7 class="ActHead7">Part 1—Amendments relating to portability of pensions</h7>
+<h7 class="ActHead7">Part 1—Amendments relating to portability of pensions</h7>
 
 <h9 class="ActHead9">Social Security Act 1991</h9>
 
@@ -3577,7 +3511,7 @@ Repeal the paragraphs, substitute:
 
                      (e)  after the pension or allowance is granted, or the person is transferred to the pension or allowance, as the case may be, but before the end of that period of 12 months, the person leaves Australia; and
 
-<h7 class="ActHead7">Part 2—Amendments relating to rates of pensions payable under portability provisions</h7>
+<h7 class="ActHead7">Part 2—Amendments relating to rates of pensions payable under portability provisions</h7>
 
 <h9 class="ActHead9">Social Security Act 1991</h9>
 
@@ -3599,7 +3533,7 @@ Insert in Module B:
 
 that point continues to apply to the person in relation to the new payment.
 
-<h7 class="ActHead7">Part 3—Amendments relating to the grant of pensions overseas</h7>
+<h7 class="ActHead7">Part 3—Amendments relating to the grant of pensions overseas</h7>
 
 <h9 class="ActHead9">Social Security Act 1991</h9>
 
@@ -3621,23 +3555,23 @@ Insert:
 
                      (b)  if the person had been in Australia, subsection 48(3) would have applied to the person in relation to the age pension;
 
-subsection (3) of this section applies to the person in relation to the age pension as if paragraph (d) were omitted.
+subsection (3) of this section applies to the person in relation to the age pension as if paragraph (d) were omitted.
 
 ## 8  Subsection 1212(4) (note 1)
 
-After “transferees”, insert “(other than those covered by subsection (3AA))”.
+After “transferees”, insert “(other than those covered by subsection (3AA))”.
 
-<h7 class="ActHead7">Part 4—Amendments relating to the application of international agreements where persons transfer to another pension while overseas</h7>
+<h7 class="ActHead7">Part 4—Amendments relating to the application of international agreements where persons transfer to another pension while overseas</h7>
 
 <h9 class="ActHead9">Social Security Act 1991</h9>
 
-## 9  At the end of section 43
+## 9  At the end of section 43
 
 Add:
 
-             (3)  Subsection (1) has effect subject to subsection 1208(6) (continued operation of scheduled international social security agreement in relation to certain recipients of age pension).
+             (3)  Subsection (1) has effect subject to subsection 1208(6) (continued operation of scheduled international social security agreement in relation to certain recipients of age pension).
 
-## 10  At the end of section 1208
+## 10  At the end of section 1208
 
 Add:
 
@@ -3647,19 +3581,19 @@ Add:
 
                      (b)  on reaching pension age, the person becomes qualified for age pension because of the operation of paragraph 43(1)(c);
 
-the age pension is taken to be payable to the person under the agreement referred to in paragraph (a).
+the age pension is taken to be payable to the person under the agreement referred to in paragraph (a).
 
-<h7 class="ActHead7">Part 5—Amendments relating to the waiver of debts arising under international agreements</h7>
+<h7 class="ActHead7">Part 5—Amendments relating to the waiver of debts arising under international agreements</h7>
 
 <h9 class="ActHead9">Social Security Act 1991</h9>
 
-## 11  At the end of section 1235
+## 11  At the end of section 1235
 
 Add:
 
                ; or (c)  a debt due to the Commonwealth under a scheduled international social security agreement.
 
-<h7 class="ActHead7">Part 6—Amendments relating to the transfer to age pension of persons temporarily overseas</h7>
+<h7 class="ActHead7">Part 6—Amendments relating to the transfer to age pension of persons temporarily overseas</h7>
 
 <h9 class="ActHead9">Social Security Act 1991</h9>
 
@@ -3677,13 +3611,13 @@ Limit on international agreement portability rate
 
     1210-A3  If a person’s international agreement portability rate as calculated under point 1210-A1 would exceed the rate (the notional rate) that would be the person’s notional agreement pension rate under that point if the person had a residence factor of 1, the person’s international agreement portability rate is the rate that equals the notional rate.
 
-###### Schedule 7—Amendments relating to youth allowance and newstart allowance: unsuitable work
+# Schedule 7—Amendments relating to youth allowance and newstart allowance: unsuitable work
 
 <h9 class="ActHead9">Social Security Act 1991</h9>
 
 ## 1  Subsection 541D(1)
 
-Omit “For the purposes of”, substitute “Subject to subsections (1A) and (1B), for the purposes of”.
+Omit “For the purposes of”, substitute “Subject to subsections (1A) and (1B), for the purposes of”.
 
 ## 2  After subsection 541D(1)
 
@@ -3695,7 +3629,7 @@ Insert:
 
                      (b)  the person is offered permanent full-time work (whether or not work of the kind sought) in the new area;
 
-the work offered is not unsuitable for the person because of paragraph (1)(g), (ga) or (ha) unless:
+the work offered is not unsuitable for the person because of paragraph (1)(g), (ga) or (ha) unless:
 
                      (c)  the person is under the age of 18; or
 
@@ -3715,15 +3649,15 @@ the work offered is not unsuitable for the person because of paragraph (1)(g),
 
                      (k)  the person would suffer severe financial hardship if the person were to accept the offer.
 
-          (1B)  Without affecting what would otherwise constitute a person seeking work outside the area in which the person’s home is situated, if a person, when seeking employment through an employment service provider, represents to the provider that the person is willing to undertake work outside the area in which the person’s home is situated, the person is taken for the purposes of subsection (1A) to seek work outside the area at the time when the representation is made.
+          (1B)  Without affecting what would otherwise constitute a person seeking work outside the area in which the person’s home is situated, if a person, when seeking employment through an employment service provider, represents to the provider that the person is willing to undertake work outside the area in which the person’s home is situated, the person is taken for the purposes of subsection (1A) to seek work outside the area at the time when the representation is made.
 
 ## 3  Subsection 601(2A)
 
-Omit “subsection (2AA)”, substitute “subsections (2AA) and (2AB)”.
+Omit “subsection (2AA)”, substitute “subsections (2AA) and (2AB)”.
 
 ## 4  Paragraph 601(2A)(i)
 
-Omit “and subsection (2AB) applies to the person”.
+Omit “and subsection (2AB) applies to the person”.
 
 ## 5  After subsection 601(2A)
 
@@ -3735,7 +3669,7 @@ Insert:
 
                      (b)  the person is offered permanent full-time work (whether or not work of the kind sought) in the new area;
 
-the work offered is not unsuitable for the person because of paragraph (2A)(g) or (i) unless:
+the work offered is not unsuitable for the person because of paragraph (2A)(g) or (i) unless:
 
                      (c)  the person is under the age of 18 or over the age of 50; or
 
@@ -3755,9 +3689,9 @@ the work offered is not unsuitable for the person because of paragraph (2A)(g)
 
                      (k)  the person would suffer severe financial hardship if the person were to accept the offer.
 
-        (2AB)  Without affecting what would otherwise constitute a person seeking work outside the area in which the person’s home is situated, if a person, when seeking employment through an employment service provider, represents to the provider that the person is willing to undertake work outside the area in which the person’s home is situated, the person is taken for the purposes of subsection (2AA) to seek work outside the area at the time when the representation is made.
+        (2AB)  Without affecting what would otherwise constitute a person seeking work outside the area in which the person’s home is situated, if a person, when seeking employment through an employment service provider, represents to the provider that the person is willing to undertake work outside the area in which the person’s home is situated, the person is taken for the purposes of subsection (2AA) to seek work outside the area at the time when the representation is made.
 
-###### Schedule 8—Amendments relating to claim made for youth or newstart allowance after moving to area of lower employment prospects
+# Schedule 8—Amendments relating to claim made for youth or newstart allowance after moving to area of lower employment prospects
 
 <h9 class="ActHead9">Social Security Act 1991</h9>
 
@@ -3765,11 +3699,11 @@ the work offered is not unsuitable for the person because of paragraph (2A)(g)
 
 Repeal the subsection, substitute:
 
-             (1)  Subject to subsection (1B), if the Secretary considers that a person has reduced his or her employment prospects by moving to a new place of residence without sufficient reason, the person is subject to an employment-related exclusion for a period of 26 weeks.
+             (1)  Subject to subsection (1B), if the Secretary considers that a person has reduced his or her employment prospects by moving to a new place of residence without sufficient reason, the person is subject to an employment-related exclusion for a period of 26 weeks.
 
-          (1A)  Subsection (1) extends to a person who makes a claim for youth allowance on or after the day on which the person moved to the new place of residence and before the end of the period referred to in that subsection.
+          (1A)  Subsection (1) extends to a person who makes a claim for youth allowance on or after the day on which the person moved to the new place of residence and before the end of the period referred to in that subsection.
 
-          (1B)  If a person who is subject to an employment-related exclusion under subsection (1) (including that subsection as it applies by subsection (1A)) does either of the following during the period of the exclusion:
+          (1B)  If a person who is subject to an employment-related exclusion under subsection (1) (including that subsection as it applies by subsection (1A)) does either of the following during the period of the exclusion:
 
                      (a)  moves back to the place of residence (the **_original place of residence_**) the movement from which made him or her subject to the exclusion;
 
@@ -3777,27 +3711,27 @@ Repeal the subsection, substitute:
 
 the period of the exclusion ends at the time of the movement back to the original place of residence or the movement to the other place of residence, as the case may be.
 
-## 2  At the end of subsection 553B(3)
+## 2  At the end of subsection 553B(3)
 
 Add:
 
                ; or (e)  satisfies the Secretary that the person has moved from his or her original place of residence because of an extreme circumstance which made it reasonable for the person to move to the new place of residence (for example, the person had been subjected to domestic or family violence in the original place of residence).
 
-## 3  Section 597
+## 3  Section 597
 
 Repeal the section.
 
 ## 4  Subsection 634(1)
 
-Omit “subsection (2)”, substitute “subsections (1B) and (2)”.
+Omit “subsection (2)”, substitute “subsections (1B) and (2)”.
 
 ## 5  At the end of subsection 634(1)
 
 Add:
 
-          (1A)  Subsection (1) extends to a person who makes a claim for newstart allowance on or after the day on which the person moved to the new place of residence and before the end of the period referred to in that subsection.
+          (1A)  Subsection (1) extends to a person who makes a claim for newstart allowance on or after the day on which the person moved to the new place of residence and before the end of the period referred to in that subsection.
 
-          (1B)  If a person to whom a newstart allowance is not payable under subsection (1) for a period of 26 weeks (including that subsection as it applies by subsection (1A)) does either of the following during that period:
+          (1B)  If a person to whom a newstart allowance is not payable under subsection (1) for a period of 26 weeks (including that subsection as it applies by subsection (1A)) does either of the following during that period:
 
                      (a)  moves back to the place of residence (the **_original place of residence_**) the movement from which resulted in newstart allowance not being payable to him or her;
 
@@ -3821,11 +3755,13 @@ Note:          For **_family member_** see subsection 23(1).
 
 Repeal the note.
 
-###### Schedule 9—Amendment relating to pensioner education supplement
+##  
+
+# Schedule 9—Amendment relating to pensioner education supplement
 
 <h9 class="ActHead9">Social Security Act 1991</h9>
 
-## 1  Section 1061PZG
+## 1  Section 1061PZG
 
 Repeal the section, substitute:
 
@@ -3845,13 +3781,13 @@ Repeal the section, substitute:
 
 the pensioner education supplement fortnightly rate for the person is $30.00.
 
-             (2)  The pensioner education supplement fortnightly rate for a person to whom subsection (1) does not apply is $60.00.
+             (2)  The pensioner education supplement fortnightly rate for a person to whom subsection (1) does not apply is $60.00.
 
              (3)  The rate of pensioner education supplement for a person is a daily rate worked out by dividing the person’s fortnightly rate by 14.
 
-             (4)  For the purposes of this section, a person is a **_sub-50% concessional study-load student_** in respect of a course if the person is a 25% concessional study-load student in respect of the course for the purposes of Subdivision B of Division 1 of this Part who is undertaking, or who intends to undertake, less than one half of the normal amount of full-time study, determined in accordance with section 1061PF, in respect of that course.
+             (4)  For the purposes of this section, a person is a **_sub-50% concessional study-load student_** in respect of a course if the person is a 25% concessional study-load student in respect of the course for the purposes of Subdivision B of Division 1 of this Part who is undertaking, or who intends to undertake, less than one half of the normal amount of full-time study, determined in accordance with section 1061PF, in respect of that course.
 
-###### Schedule 10—Minor technical amendment
+# Schedule 10—Minor technical amendment
 
 <h9 class="ActHead9">Health Insurance Act 1973</h9>
 
@@ -3859,15 +3795,15 @@ the pensioner education supplement fortnightly rate for the person is $30.00.
 
 Omit “or”, substitute “and”.
 
-###### Schedule 11—Administrative provisions
+# Schedule 11—Administrative provisions
 
-<h9 class="ActHead9">Social Security Act 1991</h9>
+<h9 class="ActHead9"> Social Security Act 1991</h9>
 
-## 1  At the end of Chapter 2
+## 1  At the end of Chapter 2
 
 Add:
 
-## Part 2.27—Early payment of first instalment of social security benefit
+## Part 2.27—Early payment of first instalment of social security benefit
 
 ##### <a id="1061ZAAR"></a>1061ZAAR  Early payment of first instalment of social security benefit
 
@@ -3889,13 +3825,13 @@ Add:
 
 the Secretary may determine that a specified amount is to be paid to the person in advance.
 
-             (2)  An amount paid to a person under subsection (1) is taken to be an advance payment of part of the first instalment payable to the person after the grant of the claim or the resumption of payment of the social security benefit, as the case may be.
+             (2)  An amount paid to a person under subsection (1) is taken to be an advance payment of part of the first instalment payable to the person after the grant of the claim or the resumption of payment of the social security benefit, as the case may be.
 
              (3)  In this section:
 
-                    <a name="resumpt-payment-provision"></a>**_resumption of payment provision_** means section 408NG, 510G, 565E, 590E, 660J, 660YJP, 728P, 766 or 771NQ.
+                    <a name="resumpt-payment-provision"></a>**_resumption of payment provision_** means section 408NG, 510G, 565E, 590E, 660J, 660YJP, 728P, 766 or 771NQ.
 
-## 2  At the end of Part 3.13
+## 2  At the end of Part 3.13
 
 Add:
 
@@ -3983,19 +3919,19 @@ the claim is taken to be made on the first day on which the person is qualified 
 
              (1)  If:
 
-                     (a)  a claim for a social security pension, social security benefit or crisis payment is granted because of section 1159B; and
+                     (a)  a claim for a social security pension, social security benefit or crisis payment is granted because of section 1159B; and
 
                      (b)  the Secretary thinks it necessary to pay the pension, benefit or crisis payment before the claimant is released from gaol or confinement in order to ensure that the claimant, on release, will not suffer severe financial hardship;
 
 the Secretary may determine that a specified amount is to be paid to the person before the person’s release.
 
-             (2)  Subsection (1) has effect in spite of section 41.
+             (2)  Subsection (1) has effect in spite of section 41.
 
-             (3)  An amount paid under a determination under subsection (1) in relation to a claim for a pension or benefit is not to exceed the amount that, in the Secretary’s opinion, would be the total of the amounts payable to the person for the first 7 days on which the pension or benefit is payable to the person.
+             (3)  An amount paid under a determination under subsection (1) in relation to a claim for a pension or benefit is not to exceed the amount that, in the Secretary’s opinion, would be the total of the amounts payable to the person for the first 7 days on which the pension or benefit is payable to the person.
 
-             (4)  An amount paid under subsection (1) in relation to a claim for a pension or benefit is taken to be a payment of the instalment or instalments, or of that part of the instalment or instalments, that relate to the days referred to in subsection (3).
+             (4)  An amount paid under subsection (1) in relation to a claim for a pension or benefit is taken to be a payment of the instalment or instalments, or of that part of the instalment or instalments, that relate to the days referred to in subsection (3).
 
-             (5)  An amount paid to a person under subsection (1) in relation to a claim for a crisis payment is taken to be a payment of the crisis payment.
+             (5)  An amount paid to a person under subsection (1) in relation to a claim for a crisis payment is taken to be a payment of the crisis payment.
 
 ##### <a id="1159D"></a>1159D  Early payment of first instalment of social security pension or benefit to person after release from gaol or confinement
 
@@ -4017,23 +3953,23 @@ the Secretary may determine that a specified amount is to be paid to the person 
 
 the Secretary may determine that a specified amount is to be paid to the person in advance.
 
-             (3)  An amount paid under a determination under subsection (1) or (2) in relation to a claim or a resumption of payment determination is not to exceed the amount that, in the Secretary’s opinion, would be the total of the amounts payable to the person for the first 7 days on which the pension or benefit is payable to the person.
+             (3)  An amount paid under a determination under subsection (1) or (2) in relation to a claim or a resumption of payment determination is not to exceed the amount that, in the Secretary’s opinion, would be the total of the amounts payable to the person for the first 7 days on which the pension or benefit is payable to the person.
 
-             (4)  An amount paid under subsection (1) or (2) in relation to a claim for a pension or benefit or a resumption of payment determination is taken to be a payment of the instalment or instalments, or of that part of the instalment or instalments, that relate to the days referred to in subsection (3).
+             (4)  An amount paid under subsection (1) or (2) in relation to a claim for a pension or benefit or a resumption of payment determination is taken to be a payment of the instalment or instalments, or of that part of the instalment or instalments, that relate to the days referred to in subsection (3).
 
              (5)  In this section:
 
-                    <a name="resumpt-payment-provision"></a>**_resumption of payment provision_** means section 79, 146C, 183, 232, 353, 401, 408NG, 510G, 565E, 590E, 660J, 660XJO, 660YJP, 728P, 766, 771NQ or 819.
+                    <a name="resumpt-payment-provision"></a>**_resumption of payment provision_** means section 79, 146C, 183, 232, 353, 401, 408NG, 510G, 565E, 590E, 660J, 660XJO, 660YJP, 728P, 766, 771NQ or 819.
 
 ## 3  After subsection 1223(1)
 
 Insert:
 
-       (1AA)  Subject to subsection (1AB), subsection (1) does not apply to a payment made under section 1159C.
+       (1AA)  Subject to subsection (1AB), subsection (1) does not apply to a payment made under section 1159C.
 
-        (1AB)  If a person to whom a payment under section 1159C has been made is not released from gaol or psychiatric confinement on the person’s expected release day, subsection (1AA) does not apply to the person.
+        (1AB)  If a person to whom a payment under section 1159C has been made is not released from gaol or psychiatric confinement on the person’s expected release day, subsection (1AA) does not apply to the person.
 
-        (1AC)  A day is a person’s **_expected release day_** for the purposes of subsection (1AB) if there are reasonable grounds for believing that the person will be released from gaol or psychiatric confinement on that day.
+        (1AC)  A day is a person’s **_expected release day_** for the purposes of subsection (1AB) if there are reasonable grounds for believing that the person will be released from gaol or psychiatric confinement on that day.
 
 ## 4  After subsection 1223AA(1BA)
 
@@ -4041,7 +3977,7 @@ Insert:
 
           (1C)  If:
 
-                     (a)  a payment of a pension, benefit or crisis payment has been made to a person under section 1159C; and
+                     (a)  a payment of a pension, benefit or crisis payment has been made to a person under section 1159C; and
 
                      (b)  immediately after the release of the person from gaol or psychiatric confinement:
 
@@ -4053,23 +3989,23 @@ the amount of the payment is a debt due to the Commonwealth.
 
 ## 5  Application—claims
 
-(1)        Section 1159A of the _Social Security Act 1991_ as in force immediately after the commencement of this Schedule does not apply in relation to a claim made before the commencement of this Schedule.
+(1)        Section 1159A of the _Social Security Act 1991_ as in force immediately after the commencement of this Schedule does not apply in relation to a claim made before the commencement of this Schedule.
 
-(2)        Section 1159B of the _Social Security Act 1991_ as in force immediately after the commencement of this Schedule applies in relation to a claim whether the claim is made before or after the commencement of this Schedule.
+(2)        Section 1159B of the _Social Security Act 1991_ as in force immediately after the commencement of this Schedule applies in relation to a claim whether the claim is made before or after the commencement of this Schedule.
 
-## 6  Application—section 1161
+## 6  Application—section 1161
 
 If:
 
                      (a)  before the commencement of this Schedule, a person is released from gaol, or from psychiatric confinement that the person was undergoing because he or she had been charged with committing an offence, after spending at least 7 days in gaol or such confinement; and
 
-                     (b)  the person claims widow allowance, youth allowance, austudy payment, newstart allowance, sickness allowance, partner allowance, or mature age allowance under Part 2.12B, within 7 days after being released; and
+                     (b)  the person claims widow allowance, youth allowance, austudy payment, newstart allowance, sickness allowance, partner allowance, or mature age allowance under Part 2.12B, within 7 days after being released; and
 
                      (c)  the claim is made after the commencement of this Schedule; and
 
                      (d)  the claim is granted;
 
-section 1161 of the _Social Security Act 1991_ as in force immediately before the commencement of this Schedule applies to the rate of the benefit or allowance claimed by the person.
+section 1161 of the _Social Security Act 1991_ as in force immediately before the commencement of this Schedule applies to the rate of the benefit or allowance claimed by the person.
 
  
 
