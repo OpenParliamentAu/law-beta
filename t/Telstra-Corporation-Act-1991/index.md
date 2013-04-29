@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00098/Html/TelstraCorpn1991WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00175/Html/TelstraCorpn1991WD02_image001.gif)
 
 # Telstra Corporation Act 1991
 
 **Act No. 79 of 1991 as amended**
 
-This compilation was prepared on 28 March 2008
- taking into account amendments up to Act No. 8 of 2008
+This compilation was prepared on 30 March 2007
+ taking into account amendments up to Act No. 122 of 2006
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -1902,7 +1902,7 @@ Extended meaning of **offence against Part 2A**
 
              (6)  A reference in this section to an **_offence against Part 2A_** includes a reference to an offence created by section 6 of the _Crimes Act 1914_ or Part 2.4 of the _Criminal Code_ that relates to Part 2A of this Act.
 
-##### <a id="8CK"></a>8CK  Service of summons or process on foreign corporations—criminal proceedings
+##### <a id="8CK"></a>8CK  Service of summons or process on foreign corporations—criminal proceedings
 
              (1)  This section applies to a summons or process in any criminal proceedings under Part 2A, where:
 
@@ -1981,8 +1981,6 @@ Note:          Section 28A of the _Acts Interpretation Act 1
                      (c)  a transitional award or a variation or order affecting a transitional award;
 
                      (d)  a pre-reform AWA;
-
-                    (da)  an AWA;
 
                      (e)  a pre-reform certified agreement;
 
@@ -2204,7 +2202,7 @@ then, despite paragraph 19(4)(b) of the _Crimes (Superannuation Benefits) Act 19
 
 Comcare must pay Telstra the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00098/Html/TelstraCorpn1991WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00175/Html/TelstraCorpn1991WD02_image002.gif)
 
 where:
 
@@ -3116,7 +3114,7 @@ Note:   For specification by class, see subsection 13(3) of the _Legislative
 
 the person is taken to hold that type of direct control interest in the second level company equal to the percentage worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00098/Html/TelstraCorpn1991WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00175/Html/TelstraCorpn1991WD02_image003.gif)
 
 where:
 
@@ -3317,7 +3315,7 @@ Remainder: Royal Assent</div>
     <div>Schedule 2 (item 1248) and Schedule 4 (items 1–3, 4(2)(a), (3) and 8(2)(c)): 1 Jan 1998 ( <i>see</i> <i>Gazette</i>1997, No. GN49) <i>(d)</i></div>
   </td>
   <td>
-    <div>S. 4(3) and Sch. 4 (items 1–3, 4(2)(a), (3), 8(2)(c))</div>
+    <div>S. 4(3) and Sch. 4 (items 1–3, 4(2)(a), (3), 8(2)(c))</div>
   </td>
 </tr>
 <tr>
@@ -3614,27 +3612,6 @@ Schedule 1 (items 66–72): 28 Feb 2007 ( <i>see</i>s. 4(1), (6) and F20
   </td>
   <td>
     <div>5 Nov 2006</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td colspan="2">
-    <div>Workplace Relations Amendment (Transition to Forward with Fairness) Act 2008</div>
-  </td>
-  <td colspan="2">
-    <div>8, 2008</div>
-  </td>
-  <td>
-    <div>20 Mar 2008</div>
-  </td>
-  <td>
-    <div>Schedules 1–7: 28 Mar 2008 ( <i>see</i>F2008L00959) 
-Remainder: Royal Assent</div>
   </td>
   <td>
     <div>—</div>
@@ -5301,14 +5278,6 @@ _(l)_ Subsection 2(1) (item 4) of the _Telecommunications Legislation Amendmen
   </td>
   <td>
     <div>ad. No. 118, 2005 (as am. by SLI 2006 No. 50); (as am. by No. 192, 1976 (as am. by No. 122, 2006))</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 8, 2008</div>
   </td>
 </tr>
 <tr>
