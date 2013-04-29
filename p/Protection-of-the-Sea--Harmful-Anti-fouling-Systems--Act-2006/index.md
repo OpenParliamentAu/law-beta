@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00117/Html/1a93b74a-0e0d-4967-b29d-e1decfcdefcd_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00669/Html/47daec98-7f2b-449b-80cd-b8448ffcf368_files/image001.gif)
 
 # Protection of the Sea (Harmful Anti‑fouling Systems) Act 2006
 
 **Act No. 107 of 2006 as amended**
 
-This compilation was prepared on 27 December 2011
+This compilation was prepared on 24 August 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force 
@@ -197,7 +197,7 @@ Note:          This table relates only to the provisions of th
 
                      (b)  an unregistered ship that has Australian nationality under the _Shipping Registration Act 1981_.
 
-                    <a name="australian-ship-facil"></a>**_Australian shipping facility_** means a shipping facility in Australia or in Australia’s exclusive economic zone.
+                    <a name="australian-ship-facil"></a>**_Australian shipping facility_** means a shipping facility in Australia or in Australia’s exclusive economic zone (within the meaning of the _Seas and Submerged Lands Act 1973_).
 
                     <a name="author"></a>**_Authority_** means the Australian Maritime Safety Authority established by the _Australian Maritime Safety Authority Act 1990_.
 
@@ -1068,10 +1068,10 @@ Remainder: Royal Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (item 940) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (item 940) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 3 and Table A]</div>
   </td>
   <td>
-    <div>Sch. 3 (items 10, 11)</div>
+    <div>Sch. 3 (items 10, 11)</div>
   </td>
 </tr></table>
 
@@ -1111,7 +1111,7 @@ Remainder: Royal Assent</div>
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 8, 2010; No. 46, 2011</div>
+    <div>am. No. 8, 2010</div>
   </td>
 </tr>
 <tr>
@@ -1136,7 +1136,7 @@ Remainder: Royal Assent</div>
 _Personal Property Securities (Consequential Amendments) Act 2009
  (No. 131, 2009)_
 
-The following amendment commences on 30 January 2012 (_see_ section 306 of the _Personal Property Securities Act 2009_ and F2011L02397):
+The following amendment commences on 1 February 2012 or an earlier time determined by the Minister (_see_ section 306 of the _Personal Property Securities Act 2009_):
 
 ## Schedule 3
 
@@ -1146,13 +1146,29 @@ Add:
 
              (6)  While a ship is detained under subsection (1), a person does not have the power of seizure provided for by section 123 of the _Personal Property Securities Act 2009_ in relation to the ship.
 
-As at 27 December 2011 the amendment is not incorporated in this compilation.
+As at 24 August 2011 the amendment is not incorporated in this compilation.
+
+### Note 3
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendment commences on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 940  Section 3 (definition of _Australian shipping facility_)
+
+Omit “(within the meaning of the _Seas and Submerged Lands Act 1973_)”.
+
+As at 24 August 2011 the amendment is not incorporated in this compilation.
 
 ## Table A
 
 ### Application, saving or transitional provisions
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
