@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00968/Html/e87959bd-229a-470d-a0d5-a20632a82ba8_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00529/Html/ae035ea3-788f-4d47-9eb4-87ad95999554_files/image001.gif)
 
 # Auditor‑General Act 1997
 
 **Act No. 151 of 1997 as amended**
 
-This compilation was prepared on 20 December 2011
- taking into account amendments up to Act No. 190 of 2011
+This compilation was prepared on 12 July 2011
+ taking into account amendments up to Act No. 58 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -104,15 +104,7 @@ Related legislation
 
 [18](#18).          General performance audit
 
-[18A](#18A).       Audit of performance indicators
-
-[18B](#18B).       Commonwealth partners
-
 [19](#19).          Comments on proposed report
-
-    **Division 2A—Assurance reviews**
-
-[19A](#19A).       Assurance reviews
 
     **Division 3—Audits etc. by arrangement**
 
@@ -128,7 +120,7 @@ Related legislation
 
 [23](#23).          Provision of advice or information
 
-[23A](#23A).       Information sharing
+[23A](#23A).       Provision of information for performance audits
 
 [24](#24).          Auditing standards
 
@@ -148,8 +140,7 @@ Related legislation
 
 [30](#30).          Relationship of information‑gathering powers with other laws
 
-[31](#31).          Purpose for which information‑gathering powers may be 
- used
+[31](#31).          Purpose for which information‑gathering powers may be used
 
 [32](#32).          Power of Auditor‑General to obtain information
 
@@ -211,8 +202,6 @@ Related legislation
 
 [56](#56).          Modifications of Act for intelligence or security agency etc 
 
-[56A](#56A).       Constitutional safety net
-
 [57](#57).          Regulations
 
 **Schedule 1—Appointment, conditions of appointment etc. for Auditor‑General**
@@ -273,8 +262,6 @@ Related legislation
 
                     <a name="agenc"></a>**_Agency_** has the same meaning as in the _Financial Management and Accountability Act 1997_.
 
-                    <a name="assur-review"></a>**_assurance review_** means a review conducted in accordance with the standards set by the Auditor‑General under section 24 for assurance reviews.
-
                     <a name="audit-offic"></a>**_Audit Office_** means the Australian National Audit Office established by section 38.
 
                     <a name="auditor-gener-function"></a>**_Auditor‑General function_** means a function that the Auditor‑General has under this Act or any other Act, and includes any function that the Auditor‑General has when acting as auditor under the _Corporations Act 2001_.
@@ -286,8 +273,6 @@ Related legislation
 Note:          Subsection (2) is also relevant to determining whether a body is a Commonwealth authority for the purposes of this Act.
 
                     <a name="commonwealth-compani"></a>**_Commonwealth company_** has the same meaning as in the _Commonwealth Authorities and Companies Act 1997_.
-
-                    <a name="commonwealth-partner"></a>**_Commonwealth partner_** has the meaning given by subsection 18B(2).
 
                     <a name="csc"></a>**_CSC_** (short for Commonwealth Superannuation Corporation) has the same meaning as in the _Governance of Australian Government Superannuation Schemes Act 2011_.
 
@@ -315,8 +300,6 @@ Note:          Subsection (2) is also relevant to determinin
 
                     <a name="perform-audit"></a>**_performance audit_**, in relation to a person or body, means a review or examination of any aspect of the operations of the person or body.
 
-                    <a name="prioriti-assur-review"></a>**_priority assurance review_** has the meaning given by subsection 19A(5).
-
                     <a name="respons-minist"></a>**_responsible Minister_** means:
 
                      (a)  in relation to an Agency—the Minister who is responsible for the Agency;
@@ -327,19 +310,11 @@ Note:          Subsection (2) is also relevant to determinin
 
                               (i)  the Minister who is prescribed by regulations under the _Commonwealth Authorities and Companies Act 1997_ as the Minister responsible for the Commonwealth company; or
 
-                             (ii)  if no Minister is prescribed—the Minister who is responsible for the Commonwealth company;
+                             (ii)  if no Minister is prescribed—the Minister who is responsible for the Commonwealth company.
 
-                     (d)  in relation to an audit of a Commonwealth partner—the Minister responsible for achieving the Commonwealth purpose concerned.
-
-                    <a name="senior-manag"></a>**_senior manager_**:
-
-                     (a)  in relation to a Commonwealth company or a subsidiary of a Commonwealth company—has the same meaning as in the _Commonwealth Authorities and Companies Act 1997_; and
-
-                     (b)  in relation to a Commonwealth partner who is an individual—means the individual.
+                    <a name="senior-manag"></a>**_senior manager_**, in relation to a Commonwealth company or a subsidiary of a Commonwealth company, has the same meaning as in the _Commonwealth Authorities and Companies Act 1997_.
 
                     <a name="control"></a><a name="entiti"></a><a name="subsidiari"></a>**_subsidiary_**, in relation to a Commonwealth authority or Commonwealth company, means an entity that is controlled by the Commonwealth authority or Commonwealth company. For this purpose,**_entity_** and**_control_** have the same meanings as in the accounting standard that applies for the purpose of deciding whether a company has to prepare consolidated financial statements under the _Corporations Act 2001_.
-
-                    <a name="wholli-owned-commonwealth-compani"></a>**_wholly owned Commonwealth company_** has the same meaning as in the _Commonwealth Authorities and Companies Act 1997_.
 
              (2)  The issue of whether a body corporate is a Commonwealth authority for the purpose of this Act is to be determined by reference to the definition in section 7 of the _Commonwealth Authorities and Companies Act 1997_ and is not affected by any provision in a law that states that the body corporate is not a Commonwealth authority for the purposes of that Act.
 
@@ -432,9 +407,7 @@ is liable to pay audit fees for the audit, based on a scale of fees determined b
 
                      (b)  give a copy of the report to the responsible Minister; and
 
-                     (c)  give a copy of the report to the Chief Executive of the Agency; and
-
-                     (d)  to the extent that the report relates to the operations of a Commonwealth partner—give a copy of the report to a director or senior manager of the Commonwealth partner.
+                     (c)  give a copy of the report to the Chief Executive of the Agency.
 
           (2A)  The Auditor‑General may give a copy of, or an extract from, the report to any person (including a Minister) who, or any body that, in the Auditor‑General’s opinion, has a special interest in the report or the content of the extract.
 
@@ -444,9 +417,9 @@ is liable to pay audit fees for the audit, based on a scale of fees determined b
 
              (1)  The Auditor‑General may at any time conduct a performance audit of a Commonwealth authority (other than a GBE), or of any of its subsidiaries.
 
-             (2)  The Auditor‑General may conduct a performance audit of a Commonwealth authority that is a GBE, or of any of its subsidiaries, if the Joint Committee of Public Accounts and Audit requests the audit.
+             (2)  The Auditor‑General may conduct a performance audit of a Commonwealth authority that is a GBE, or of any of its subsidiaries, if the responsible Minister, the Finance Minister or the Joint Committee of Public Accounts and Audit requests the audit. The Finance Minister is to consult with the responsible Minister before making a request.
 
-             (3)  Nothing prevents the Auditor‑General from asking the Joint Committee of Public Accounts and Audit to make a particular request under subsection (2).
+             (3)  Nothing prevents the Auditor‑General from asking a responsible Minister, the Finance Minister or the Joint Committee of Public Accounts and Audit to make a particular request under subsection (2). 
 
              (4)  As soon as practicable after completing the report on an audit under this section, the Auditor‑General must:
 
@@ -454,9 +427,7 @@ is liable to pay audit fees for the audit, based on a scale of fees determined b
 
                      (b)  give a copy of the report to the responsible Minister; and
 
-                     (c)  give a copy of the report to an officer of the Commonwealth authority or the subsidiary of the Commonwealth authority in relation to which the audit was conducted; and
-
-                     (d)  to the extent that the report relates to the operations of a Commonwealth partner—give a copy of the report to a director or senior manager of the Commonwealth partner.
+                     (c)  give a copy of the report to an officer of the Commonwealth authority or the subsidiary of the Commonwealth authority in relation to which the audit was conducted.
 
              (5)  The Auditor‑General may give a copy of, or an extract from, the report to any person (including a Minister) who, or any body that, in the Auditor‑General’s opinion, has a special interest in the report or the content of the extract.
 
@@ -464,9 +435,9 @@ is liable to pay audit fees for the audit, based on a scale of fees determined b
 
              (1)  The Auditor‑General may at any time conduct a performance audit of a Commonwealth company (other than a GBE), or of any of its subsidiaries.
 
-             (2)  The Auditor‑General may conduct a performance audit of a wholly owned Commonwealth company that is a GBE, or of any of its subsidiaries, if the Joint Committee of Public Accounts and Audit requests the audit.
+             (2)  The Auditor‑General may conduct a performance audit of a wholly owned Commonwealth company that is a GBE, or of any of its subsidiaries, if the responsible Minister, the Finance Minister or the Joint Committee of Public Accounts and Audit requests the audit. The Finance Minister is to consult with the responsible Minister before making a request.
 
-             (3)  Nothing prevents the Auditor‑General from asking the Joint Committee of Public Accounts and Audit to make a particular request under subsection (2).
+             (3)  Nothing prevents the Auditor‑General from asking a responsible Minister, the Finance Minister or the Joint Committee of Public Accounts and Audit to make a particular request under subsection (2).
 
              (4)  As soon as practicable after completing the report on an audit under this section, the Auditor‑General must:
 
@@ -474,11 +445,13 @@ is liable to pay audit fees for the audit, based on a scale of fees determined b
 
                      (b)  give a copy of the report to the responsible Minister; and
 
-                     (c)  give a copy of the report to a director or senior manager of the Commonwealth company or the subsidiary of the Commonwealth company in relation to which the audit was conducted; and
-
-                     (d)  to the extent that the report relates to the operations of a Commonwealth partner—give a copy of the report to a director or senior manager of the Commonwealth partner.
+                     (c)  give a copy of the report to a director or senior manager of the Commonwealth company or the subsidiary of the Commonwealth company in relation to which the audit was conducted.
 
           (4A)  The Auditor‑General may give a copy of, or an extract from, the report to any person (including a Minister) who, or any body that, in the Auditor‑General’s opinion, has a special interest in the report or the content of the extract.
+
+             (5)  In this section:
+
+                    <a name="compani"></a><a name="commonwealth"></a><a name="wholli-owned"></a>**_wholly‑owned_****_Commonwealth_****_company_** has the same meaning as in the _Commonwealth Authorities and Companies Act 1997._
 
 ##### <a id="18"></a>18  General performance audit
 
@@ -498,9 +471,7 @@ is liable to pay audit fees for the audit, based on a scale of fees determined b
 
                       (f)  to the extent that the report relates to the operations of a body that is a Commonwealth company or a subsidiary of a Commonwealth company—give a copy of the report to a director or senior manager of the Commonwealth company or the subsidiary of the Commonwealth company; and
 
-                     (g)  to the extent that the report relates to the operations of a person who is not a Commonwealth partner—give a copy of the report to the person; and
-
-                     (h)  to the extent that the report relates to the operations of a Commonwealth partner—give a copy of the report to a director or senior manager of the Commonwealth partner.
+                     (g)  to the extent that the report relates to the operations of a person—give a copy of the report to the person.
 
              (3)  The Auditor‑General may give a copy of, or an extract from, the report to any other person (including a Minister) who, or any body that, in the Auditor‑General’s opinion, has a special interest in the report or the content of the extract.
 
@@ -508,171 +479,21 @@ is liable to pay audit fees for the audit, based on a scale of fees determined b
 
                     <a name="commonwealth-public-sector"></a>**_Commonwealth public sector_**means Agencies, Commonwealth authorities (other than GBEs) and their subsidiaries and Commonwealth companies (other than GBEs) and their subsidiaries.
 
-##### <a id="18A"></a>18A  Audit of performance indicators
-
-             (1)  The Auditor‑General may at any time conduct an audit of:
-
-                     (a)  the appropriateness of the performance indicators (however described) of:
-
-                              (i)  an Agency; or
-
-                             (ii)  a Commonwealth authority (other than a GBE), or of any of its subsidiaries; or
-
-                            (iii)  a Commonwealth company (other than a GBE), or of any of its subsidiaries; and
-
-                     (b)  reporting by the Agency, authority, company or subsidiary against those indicators.
-
-             (2)  If the Joint Committee of Public Accounts and Audit requests it, the Auditor‑General may conduct an audit of:
-
-                     (a)  the appropriateness of the performance indicators (however described) of:
-
-                              (i)  a Commonwealth authority that is a GBE, or of any of its subsidiaries; or
-
-                             (ii)  a wholly owned Commonwealth company that is a GBE, or of any of its subsidiaries; and
-
-                     (b)  reporting by the authority, company or subsidiary against those indicators.
-
-             (3)  Nothing prevents the Auditor‑General from asking the Joint Committee of Public Accounts and Audit to make a particular request under subsection (2).
-
-             (4)  As soon as practicable after completing the report on an audit under this section, the Auditor‑General must:
-
-                     (a)  cause a copy of the report to be tabled in each House of the Parliament; and
-
-                     (b)  give a copy of the report to the responsible Minister; and
-
-                     (c)  give a copy of the report to:
-
-                              (i)  the Chief Executive of the Agency; or
-
-                             (ii)  an officer of the Commonwealth authority or the subsidiary of the Commonwealth authority; or
-
-                            (iii)  a director or senior manager of the Commonwealth company or the subsidiary of the Commonwealth company.
-
-             (5)  Subsection (4) does not apply if the report is, or is to be, included in the annual report of the Agency, Commonwealth authority or Commonwealth company.
-
-             (6)  The Auditor‑General may give a copy of, or an extract from, the report to any person (including a Minister) who, or any body that, in the Auditor‑General’s opinion, has a special interest in the report or the content of the extract.
-
-##### <a id="18B"></a>18B  Commonwealth partners
-
-             (1)  The Auditor‑General may conduct a performance audit of a Commonwealth partner:
-
-                     (a)  if the partner is, is part of, or is controlled by, the Government of a State or Territory—at the request of the responsible Minister or the Joint Committee of Public Accounts and Audit; or
-
-                     (b)  otherwise—at any time.
-
-             (2)  A person or body is a **_Commonwealth partner_** if:
-
-                     (a)  the Commonwealth provides money for a particular purpose (the **_Commonwealth purpose_**); and
-
-                     (b)  the person or body receives some or all of the money, whether directly or indirectly, because the person or body:
-
-                              (i)  agrees to use the money in achieving the Commonwealth purpose; or
-
-                             (ii)  has entered into a contract that relates to the Commonwealth purpose; and
-
-                     (c)  an audit of the person or body could not be conducted under another section of this Division.
-
-             (3)  The audit may be conducted only to the extent that it assesses the operations of the Commonwealth partner in relation to achieving the Commonwealth purpose.
-
-             (4)  The audit may be conducted as part of an audit under section 15, 16, 17 or 18.
-
-             (5)  The report on the audit must include the reasons for conducting the audit.
-
-             (6)  As soon as practicable after completing the report on the audit, the Auditor‑General must:
-
-                     (a)  cause a copy of the report to be tabled in each House of the Parliament; and
-
-                     (b)  give a copy of the report to the responsible Minister; and
-
-                     (c)  give a copy of the report to a director or senior manager of the Commonwealth partner.
-
-             (7)  Subsection (6) does not apply if the report is, or is to be, included in the report on an audit under section 15, 16, 17 or 18.
-
-             (8)  The Auditor‑General may give a copy of, or an extract from, the report to any person (including a Minister) who, or any body that, in the Auditor‑General’s opinion, has a special interest in the report or the content of the extract.
-
-             (9)  Nothing prevents the Auditor‑General from asking the responsible Minister or the Joint Committee of Public Accounts and Audit to make a particular request for the purposes of paragraph (1)(a).
-
 ##### <a id="19"></a>19  Comments on proposed report
 
-             (1)  After preparing a proposed report on an audit of an Agency under section 15, the Auditor‑General must:
+             (1)  After preparing a proposed report on an audit of an Agency under section 15, the Auditor‑General must give a copy of the proposed report to the Chief Executive of the Agency.
 
-                     (a)  give a copy of the proposed report to the Chief Executive of the Agency; and
+             (2)  After preparing a proposed report on an audit of a body under section 16 or 17, the Auditor‑General must give a copy of the proposed report to:
 
-                     (b)  to the extent that the proposed report relates to the operations of a Commonwealth partner—give a director or senior manager of the Commonwealth partner:
+                     (a)  if the body is a Commonwealth authority or a subsidiary of a Commonwealth authority—an officer of the Commonwealth authority or the subsidiary of the Commonwealth authority; or
 
-                              (i)  a copy of the proposed report; or
+                     (b)  if the body is a Commonwealth company or a subsidiary of a Commonwealth company—a director or senior manager of the Commonwealth company or the subsidiary of the Commonwealth company.
 
-                             (ii)  extracts of the parts of the proposed report that deal with the audit of the Commonwealth partner; or
+             (3)  After preparing a proposed report on an audit under section 15, 16, 17 or 18, the Auditor‑General may give a copy of, or an extract from, the proposed report to any person (including a Minister) who, or any body that, in the Auditor‑General’s opinion, has a special interest in the report or the content of the extract.
 
-                            (iii)  extracts of the proposed report that include the parts of the proposed report that deal with the audit of the Commonwealth partner.
-
-             (2)  After preparing a proposed report on an audit of a body under section 16 or 17, the Auditor‑General must:
-
-                     (a)  give a copy of the proposed report to:
-
-                              (i)  if the body is a Commonwealth authority or a subsidiary of a Commonwealth authority—an officer of the Commonwealth authority or the subsidiary of the Commonwealth authority; or
-
-                             (ii)  if the body is a Commonwealth company or a subsidiary of a Commonwealth company—a director or senior manager of the Commonwealth company or the subsidiary of the Commonwealth company; and
-
-                     (b)  to the extent that the proposed report relates to the operations of a Commonwealth partner—give a director or senior manager of the Commonwealth partner:
-
-                              (i)  a copy of the proposed report; or
-
-                             (ii)  extracts of the parts of the proposed report that deal with the audit of the Commonwealth partner; or
-
-                            (iii)  extracts of the proposed report that include the parts of the proposed report that deal with the audit of the Commonwealth partner.
-
-          (2A)  After preparing a proposed report under section 18A on an audit of the performance indicators of a body and the body’s reporting against those indicators, the Auditor‑General must give a copy of the proposed report to:
-
-                     (a)  if the body is an Agency—the Chief Executive of the Agency; or
-
-                     (b)  if the body is a Commonwealth authority or the subsidiary of a Commonwealth authority—an officer of the Commonwealth authority or the subsidiary of the Commonwealth authority; or
-
-                     (c)  if the body is a Commonwealth company or a subsidiary of a Commonwealth company—a director or senior manager of the Commonwealth company or the subsidiary of the Commonwealth company.
-
-          (2B)  After preparing a proposed report on an audit of a Commonwealth partner under section 18B, the Auditor‑General must give a copy of the proposed report to a director or senior manager of the Commonwealth partner.
-
-          (2C)  Subsection (2B) does not apply if:
-
-                     (a)  the proposed report is included, or is to be included, in the proposed report on an audit under section 15, 16 or 17; or
-
-                     (b)  the audit of the Commonwealth partner was conducted as part of an audit under section 18.
-
-             (3)  After preparing a proposed report on an audit under section 15, 16, 17, 18, 18A or 18B, the Auditor‑General may give a copy of, or an extract from, the proposed report to any person (including a Minister) who, or any body that, in the Auditor‑General’s opinion, has a special interest in the report or the content of the extract.
-
-             (4)  If the recipient of the proposed report, or the extract from the proposed report, gives written comments to the Auditor‑General as follows, the Auditor‑General must consider those comments before preparing a final report:
-
-                     (a)  in the case of a proposed report on an audit under section 18A (audit of performance indicators)—within 14 days after receiving the proposed report, or the extract from the proposed report;
-
-                     (b)  otherwise—within 28 days after receiving the proposed report, or the extract from the proposed report.
+             (4)  If the recipient of the proposed report, or the extract from the proposed report, gives written comments to the Auditor‑General within 28 days after receiving the proposed report, or the extract from the proposed report, the Auditor‑General must consider those comments before preparing a final report.
 
              (5)  The Auditor‑General must, in the final report, include all written comments received under subsection (4).
-
-### Division 2A—Assurance reviews
-
-##### <a id="19A"></a>19A  Assurance reviews
-
-             (1)  The Auditor‑General may at any time conduct an assurance review of:
-
-                     (a)  an Agency; or
-
-                     (b)  a Commonwealth authority (other than a GBE), or of any of its subsidiaries; or
-
-                     (c)  a Commonwealth company (other than a GBE), or of any of its subsidiaries.
-
-             (2)  If the Joint Committee of Public Accounts and Audit requests it, the Auditor‑General may conduct an assurance review of:
-
-                     (a)  a Commonwealth authority that is a GBE, or of any of its subsidiaries; or
-
-                     (b)  a wholly owned Commonwealth company that is a GBE, or of any of its subsidiaries.
-
-             (3)  Nothing prevents the Auditor‑General from asking the Joint Committee of Public Accounts and Audit to make a particular request under subsection (2).
-
-             (4)  The Auditor‑General may determine arrangements for the conduct of an assurance review, including arrangements for reporting to the Parliament.
-
-             (5)  The Joint Committee of Public Accounts and Audit may identify an assurance review as a priority. A review so identified is a **_priority assurance review_**.
-
-             (6)  As soon as practicable after completing the report on a priority assurance review, the Auditor‑General must cause a copy of the report to be tabled in each House of the Parliament.
 
 ### Division 3—Audits etc. by arrangement
 
@@ -690,8 +511,6 @@ is liable to pay audit fees for the audit, based on a scale of fees determined b
 
              (3)  The Auditor‑General must not perform functions under this section for a purpose that is outside the Commonwealth’s legislative power.
 
-             (4)  Divisions 2 and 2A do not limit the power of the Auditor‑General under this section to enter into an arrangement with a GBE.
-
 ### Division 4—Functions under other Acts
 
 ##### <a id="21"></a>21  Acting as auditor under the Corporations Act
@@ -700,7 +519,7 @@ is liable to pay audit fees for the audit, based on a scale of fees determined b
 
                      (a)  a subsidiary of a Commonwealth authority; or
 
-                     (b)  a Commonwealth company or a subsidiary of a Commonwealth company; or
+                     (b)  a Commonwealth company; or
 
                      (c)  any other company in which the Commonwealth has a controlling interest.
 
@@ -724,19 +543,19 @@ is liable to pay audit fees for the audit, based on a scale of fees determined b
 
                      (b)  any matter which the Auditor‑General could consider when exercising those functions and powers.
 
-##### <a id="23A"></a>23A  Information sharing
+##### <a id="23A"></a>23A  Provision of information for performance audits
 
                    A person (the **_information holder_**) may disclose information to another person (the **_recipient_**) if:
 
                      (a)  the information was obtained or generated by the information holder in the course of performing an Auditor‑General function; and
 
-                     (b)  the information is provided to the recipient to assist the information holder in conducting an audit under Division 2 or 2A, or a performance audit under an arrangement entered into under Division 3.
+                     (b)  the information is provided to the recipient to assist the information holder in conducting a performance audit under Division 2, or a performance audit under an arrangement entered into under Division 3.
 
 ##### <a id="24"></a>24  Auditing standards
 
                    The Auditor‑General must, by notice in the _Gazette_, set auditing standards that are to be complied with by persons performing any of the following functions:
 
-                     (a)  an audit or review referred to in Division 1, 2 or 2A;
+                     (a)  an audit referred to in Division 1 or 2;
 
                      (b)  an audit under Division 2 of Part 7;
 
@@ -766,7 +585,7 @@ For this purpose,**_important matter_**means any matter that, in the Auditor‑G
 
 ##### <a id="28"></a>28  Annual report for the Australian National Audit Office
 
-                   As soon as practicable after 30 June in each year, the Auditor‑General must:
+                   As soon as practicable after 30 June in each year, the Auditor‑General must:
 
                      (a)  prepare a report on the operations of the Audit Office during that year; and
 
@@ -784,7 +603,7 @@ For this purpose,**_important matter_**means any matter that, in the Auditor‑G
 
 ##### <a id="30"></a>30  Relationship of information‑gathering powers with other laws
 
-             (1)  The operation of sections 32 and 33:
+                   The operation of sections 32 and 33:
 
                      (a)  is limited by laws of the Commonwealth (whether made before or after the commencement of this Act) relating to the powers, privileges and immunities of:
 
@@ -794,19 +613,11 @@ For this purpose,**_important matter_**means any matter that, in the Auditor‑G
 
                             (iii)  the committees of each House of the Parliament and joint committees of both Houses of the Parliament; but
 
-                     (b)  is not limited by:
-
-                              (i)  any other law (whether made before or after the commencement of this Act), except to the extent that the other law expressly excludes the operation of section 32 or 33; or
-
-                             (ii)  any rule of law relating to legal professional privilege or any other privilege, or the public interest, in relation to the disclosure of information or the production of documents.
-
-             (2)  Disclosure or production of, or access to, information or a document under section 32 or 33 does not otherwise affect the operation of a rule of law relating to privilege or the public interest in relation to disclosure of the information or production of the document.
+                     (b)  is not limited by any other law (whether made before or after the commencement of this Act), except to the extent that the other law expressly excludes the operation of section 32 or 33.
 
 ##### <a id="31"></a>31  Purpose for which information‑gathering powers may be used
 
                    The powers under sections 32 and 33 may be used for the purpose of, or in connection with, any Auditor‑General function, except:
-
-                    (aa)  an assurance review that is not a priority assurance review; or
 
                      (a)  an audit or other function under section 20; or
 
@@ -852,7 +663,7 @@ Note 2:       Section 4AA of the _Crimes Act 1914_ sets the curren
 
              (1)  The Auditor‑General or an authorised official:
 
-                     (a)  may, at all reasonable times, enter and remain on any premises occupied by the Commonwealth, a Commonwealth authority, a Commonwealth company or a Commonwealth partner; and
+                     (a)  may, at all reasonable times, enter and remain on any premises occupied by the Commonwealth, a Commonwealth authority or a Commonwealth company; and
 
                      (b)  is entitled to full and free access at all reasonable times to any documents or other property; and
 
@@ -1135,30 +946,6 @@ Note:          Section 4AA of the _Crimes Act 1914_ sets the
                     <a name="intellig-secur-agenc"></a>**_intelligence or security agency_**has the meaning given by section 85ZL of the _Crimes Act 1914_.
 
                     <a name="modif"></a>**_modifications_**includes additions, omissions and substitutions.
-
-##### <a id="56A"></a>56A  Constitutional safety net
-
-             (1)  If a provision of this Act:
-
-                     (a)  would, apart from this subsection, have an application (an **_invalid application_**) in relation to:
-
-                              (i)  one or more particular persons, things, matters, places, circumstances or cases; or
-
-                             (ii)  one or more classes (however defined or determined) of persons, things, matters, places, circumstances or cases;
-
-                            because of which the provision exceeds the Commonwealth’s legislative power; and
-
-                     (b)  also has at least one application (a **_valid application_**) in relation to:
-
-                              (i)  one or more particular persons, things, matters, places, circumstances or cases; or
-
-                             (ii)  one or more classes (however defined or determined) of persons, things, matters, places, circumstances or cases;
-
-                            that, if it were the provision’s only application, would be within the Commonwealth’s legislative power;
-
-it is the Parliament’s intention that the provision is not to have the invalid application, but is to have every valid application.
-
-             (2)  This Act does not enable a power to be exercised to the extent that it would impair the capacity of a State to exercise its constitutional powers.
 
 ##### <a id="57"></a>57  Regulations
 
@@ -1571,23 +1358,6 @@ Remainder: 24 May 2001</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Auditor‑General Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>190, 2011</div>
-  </td>
-  <td>
-    <div>7 Dec 2011</div>
-  </td>
-  <td>
-    <div>8 Dec 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_ The _Auditor‑General Act 1997_ was amended by Schedule 1 (items 104–106) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
@@ -1739,7 +1509,7 @@ _(c)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (C
     <div>S. 5</div>
   </td>
   <td>
-    <div>am. No. 55, 2001; No. 8, 2009; Nos. 58 and 190, 2011</div>
+    <div>am. No. 55, 2001; No. 8, 2009; No. 58, 2011</div>
   </td>
 </tr>
 <tr>
@@ -1784,66 +1554,10 @@ _(c)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (C
 </tr>
 <tr>
   <td>
-    <div>Ss. 15–18</div>
+    <div>Ss. 15–19</div>
   </td>
   <td>
-    <div>am. No. 8, 2009; No. 190, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 18A, 18B</div>
-  </td>
-  <td>
-    <div>ad. No. 190, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2009; No. 190, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 2A of Part 4</div>
-  </td>
-  <td>
-    <div>ad. No. 190, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19A</div>
-  </td>
-  <td>
-    <div>ad. No. 190, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 20</div>
-  </td>
-  <td>
-    <div>am. No. 190, 2011</div>
+    <div>am. No. 8, 2009</div>
   </td>
 </tr>
 <tr>
@@ -1867,7 +1581,7 @@ _(c)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (C
     <div>S. 21</div>
   </td>
   <td>
-    <div>am. No. 55, 2001; No. 190, 2011</div>
+    <div>am. No. 55, 2001</div>
   </td>
 </tr>
 <tr>
@@ -1880,34 +1594,10 @@ _(c)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (C
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 23A</div>
-  </td>
-  <td>
-    <div>rs. No. 190, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 23A</div>
   </td>
   <td>
     <div>ad. No. 8, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 190, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 24</div>
-  </td>
-  <td>
-    <div>am. No. 190, 2011</div>
   </td>
 </tr>
 <tr>
@@ -1936,26 +1626,10 @@ _(c)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (C
 </tr>
 <tr>
   <td>
-    <div>Ss. 30, 31</div>
-  </td>
-  <td>
-    <div>am. No. 190, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 32</div>
+    <div>Ss. 32, 33</div>
   </td>
   <td>
     <div>am. No. 8, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 33</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2009; No. 190, 2011</div>
   </td>
 </tr>
 <tr>
@@ -2072,14 +1746,6 @@ _(c)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (C
 </tr>
 <tr>
   <td>
-    <div>S. 56A</div>
-  </td>
-  <td>
-    <div>ad. No. 190, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Schedule 1</b></div>
   </td>
   <td>
@@ -2151,7 +1817,7 @@ Note:          For rules that apply to acting appointments, se
 
 Repeal the subclause.
 
-As at 20 December 2011 the amendments are not incorporated in this compilation.
+As at 12 July 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
