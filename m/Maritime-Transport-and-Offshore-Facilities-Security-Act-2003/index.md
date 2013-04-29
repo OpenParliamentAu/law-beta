@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00461/Html/MaritimeTransOffshoreFacilSecurity2003_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00209/Html/MaritimeTransOffshoreFacilSecurity2003_WD02_image001.gif)
 
 # Maritime Transport and Offshore Facilities Security Act 2003
 
 **Act No. 131 of 2003 as amended**
 
-This compilation was prepared on 6 July 2010
- taking into account amendments up to Act No. 81 of 2010
+This compilation was prepared on 3 March 2010
+ taking into account amendments up to Act No. 8 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -208,8 +208,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [61](#61).          Which ships must have ship security plans
 
-[61A](#61A).       Exemptions
-
 [62](#62).          Offence—operating without a ship security plan
 
 [63](#63).          Offence—failing to comply with ship security plan
@@ -253,8 +251,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
     **Division 6—International ship security certificates**
 
 [79](#79).          Regulated Australian ship to have ISSC
-
-[79A](#79A).       Exemptions
 
 [80](#80).          Offence—operating without an ISSC
 
@@ -550,18 +546,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [145B](#145B).     Inspection warrants by telephone, fax etc —security regulated offshore facilities
 
-    **Division 2A—Security assessment inspectors**
-
-[145C](#145C).     Simplified overview of Division
-
-[145D](#145D).     Appointment
-
-[145E](#145E).      Powers of security assessment inspectors
-
-[145F](#145F).      When powers may be exercised
-
-[145G](#145G).     Offence—hindering or obstructing a security assessment inspector
-
     **Division 3—Duly authorised officers**
 
 [146](#146).        Simplified overview of Division
@@ -625,12 +609,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [165](#165).        Screening officers
 
 [166](#166).        Screening powers
-
-[166A](#166A).     Screening powers—frisk search as an alternative screening procedure
-
-[166B](#166B).     Screening powers—frisk search as an additional screening procedure
-
-[166C](#166C).     Screening powers—frisk search general power
 
 [167](#167).        Screening officers’ power to physically restrain persons
 
@@ -745,8 +723,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 **Part 13—Miscellaneous**
 
 [202](#202).        Delegation
-
-[202A](#202A).     Sub-delegation
 
 [203](#203).        Compensation for damage to electronic equipment
 
@@ -1181,7 +1157,7 @@ Part 6 provides for the establishment of maritime security zones. Additional s
 
 Part 7 deals with screening, weapons and prohibited items.
 
-Part 8 sets out the powers of officials under this Act. These officials are maritime security inspectors, security assessment inspectors, duly authorised officers, law enforcement officers, maritime security guards and screening officers.
+Part 8 sets out the powers of officials under this Act. These officials are maritime security inspectors, duly authorised officers, law enforcement officers, maritime security guards and screening officers.
 
 Part 9 sets out reporting obligations in relation to certain maritime transport or offshore facility security incidents.
 
@@ -1288,8 +1264,6 @@ Part 13 deals with miscellaneous matters.
                     <a name="adf-member"></a>**_ADF member_** means a Member within the meaning of the _Defence Act 1903_.
 
                     <a name="agenc"></a>**_Agency_** has the same meaning as in the _Public Service Act 1999_.
-
-                    <a name="agenc-head"></a>**_Agency Head_** has the same meaning as in the _Public Service Act 1999_.
 
                     <a name="amsa-surveyor"></a>**_AMSA surveyor_** means a person appointed under section 190 of the _Navigation Act 1912_.
 
@@ -1523,8 +1497,6 @@ Note:          Neither the Australian Defence Force nor Custom
 
                     <a name="mobil-offshor-drill-unit"></a>**_mobile offshore drilling unit_** means a vessel capable of engaging in drilling operations for the purposes of exploring or exploiting resources beneath the seabed.
 
-                    <a name="nation-secur"></a>**_national security_** has the same meaning as in the _National Security Information (Criminal and Civil Proceedings) Act 2004_.
-
                     <a name="offshor-area"></a>**_offshore area_** has the meaning given by subsection 17A(7).
 
                     <a name="offshor-facil"></a>**_offshore facility_** has the meaning given by section 17A.
@@ -1632,8 +1604,6 @@ Note:          A passenger ship may also be a cargo ship.
                     <a name="screen-point"></a>**_screening point_** means a place where screening occurs.
 
                     <a name="secretari"></a>**_Secretary_** means the Secretary of the Department.
-
-                    <a name="secur-assess-inspector"></a>**_security assessment inspector_** means a person appointed under subsection 145D(1).
 
                     <a name="secur-complianc-inform"></a>**_security compliance information_** has the meaning given by subsection 184(1).
 
@@ -1777,17 +1747,13 @@ Note:          The text of the Convention is set out in Austra
 
 ##### <a id="15"></a>15  Meaning of _security regulated ship_
 
-             (1)  Each of the following is a **_security regulated ship_**:
+                   Each of the following is a **_security regulated ship_**:
 
                      (a)  a regulated Australian ship;
 
                      (b)  a regulated foreign ship.
 
 Note:          Certain government-controlled ships (both Australian and foreign) are exempt from the operation of this Act: see section 9.
-
-             (2)  The regulations may prescribe different categories of security regulated ships.
-
-Note:          Regulations under this Act may make different provision with respect to different categories of security regulated ships: see subsection 33(3A) of the _Acts Interpretation Act 1901_.
 
 ##### <a id="16"></a>16  Meaning of _regulated Australian ship_
 
@@ -2999,36 +2965,6 @@ Division 7 allows the Secretary to delegate his or her powers under this Part 
 
 Note:          Obligations on regulated foreign ships are set out in Division 2 of Part 5.
 
-##### <a id="61A"></a>61A  Exemptions
-
-             (1)  The ship operator for a regulated Australian ship may apply to the Secretary for the ship to be exempt from the operation of this Division.
-
-             (2)  The application must be in accordance with any requirements prescribed by the regulations. The regulations may prescribe requirements in relation to the form and content of the application, and the way in which the application is made.
-
-             (3)  In deciding whether to grant the exemption, the Secretary must consider the matters prescribed by the regulations for the purposes of this subsection. The Secretary may consider any other matters that the Secretary considers appropriate.
-
-Secretary’s decision
-
-             (4)  If an application is made to the Secretary, the Secretary must:
-
-                     (a)  exempt the ship from the operation of this Division in the circumstances specified in the exemption; or
-
-                     (b)  refuse to grant an exemption.
-
-Grant of exemption
-
-             (5)  If the Secretary grants an exemption, the Secretary must give the ship operator a copy of the exemption.
-
-             (6)  An exemption under this section has effect according to its terms.
-
-Refusal to grant exemption
-
-             (7)  If the Secretary refuses to grant an exemption, the Secretary must give the ship operator written notice of the refusal (including the reasons for the refusal).
-
-Exemption is not a legislative instrument
-
-             (8)  An exemption under this section is not a legislative instrument.
-
 ##### <a id="62"></a>62  Offence—operating without a ship security plan
 
              (1)  The ship operator for a regulated Australian ship commits an offence if:
@@ -3355,36 +3291,6 @@ the Secretary must, by written notice given to the ship operator, cancel the app
 
                    A regulated Australian ship must have an ISSC.
 
-##### <a id="79A"></a>79A  Exemptions
-
-             (1)  The ship operator for a regulated Australian ship may apply to the Secretary for the ship to be exempt from the operation of this Division.
-
-             (2)  The application must be in accordance with any requirements prescribed by the regulations. The regulations may prescribe requirements in relation to the form and content of the application, and the way in which the application is made.
-
-             (3)  In deciding whether to grant the exemption, the Secretary must consider the matters prescribed by the regulations for the purposes of this subsection. The Secretary may consider any other matters that the Secretary considers appropriate.
-
-Secretary’s decision
-
-             (4)  If an application is made to the Secretary, the Secretary must:
-
-                     (a)  exempt the ship from the operation of this Division in the circumstances specified in the exemption; or
-
-                     (b)  refuse to grant an exemption.
-
-Grant of exemption
-
-             (5)  If the Secretary grants an exemption, the Secretary must give the ship operator a copy of the exemption.
-
-             (6)  An exemption under this section has effect according to its terms.
-
-Refusal to grant exemption
-
-             (7)  If the Secretary refuses to grant an exemption, the Secretary must give the ship operator written notice of the refusal (including the reasons for the refusal).
-
-Exemption is not a legislative instrument
-
-             (8)  An exemption under this section is not a legislative instrument.
-
 ##### <a id="80"></a>80  Offence—operating without an ISSC
 
              (1)  The ship operator for a regulated Australian ship commits an offence if:
@@ -3501,4 +3407,82 @@ the Secretary may give the other ship operator an interim ISSC for the ship.
 
                      (d)  any of the following subparagraphs applies:
 
-                              (i)  the statement is made to a m
+                              (i)  the statement is made to a maritime industry participant;
+
+                             (ii)  the statement is made to a person who is authorised by a Contracting state to the SOLAS Convention to request information about, or in connection with, whether a valid ISSC or interim ISSC is in force for the ship;
+
+                            (iii)  the statement is made to a person who is exercising powers or performing functions under, or in connection with, a law of the Commonwealth;
+
+                            (iv)  the statement is made in compliance or purported compliance with a law of the Commonwealth.
+
+                    Penalty:  50 penalty units.
+
+             (2)  Absolute liability applies to each of the subparagraph (1)(d)(i), (ii), (iii) and (iv) elements of the offence.
+
+             (3)  Subsection (1) does not apply as a result of subparagraph (1)(b)(i) if the statement is not false or misleading in a material particular.
+
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (3) (see subsection 13.3(3) of the _Criminal Code_).
+
+             (4)  Subsection (1) does not apply as a result of subparagraph (1)(b)(ii) if the statement did not omit any matter or thing without which the statement is misleading in a material particular.
+
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (4) (see subsection 13.3(3) of the _Criminal Code_).
+
+### Division 7—Recognised security organisations
+
+##### <a id="88"></a>88  Secretary may delegate powers and functions under this Part
+
+             (1)  The Secretary may, by writing, delegate all or any of his or her powers and functions under Part 4 to a person who:
+
+                     (a)  satisfies the criteria prescribed in the regulations; and
+
+                     (b)  is engaged by a recognised security organisation.
+
+             (2)  The Secretary may determine, in writing, that an organisation is a **_recognised security organisation_**.
+
+             (3)  In exercising powers or functions delegated under subsection (1), the delegate must comply with any directions of the Secretary.
+
+##### <a id="89"></a>89  Recognised security organisations may conduct ISSC inspections
+
+             (1)  The Secretary may, by writing, authorise a person to whom powers and functions can be delegated under subsection 88(1) to conduct inspections of ships for the purposes of verifying that ships meet the requirements necessary for ISSC verification.
+
+             (2)  If a person authorised under subsection (1) conducts a ship inspection, the person is taken to be a maritime security inspector for the purposes of subsection 83(1).
+
+## Part 5—Regulated foreign ships
+
+### Division 1—Simplified overview of Part
+
+##### <a id="90"></a>90  Simplified overview of Part
+
+* * *
+
+Division 2 sets out requirements to be met by regulated foreign ships and requires the ship operators for, and the masters of, those ships to acknowledge certain communications.
+
+Division 3 provides for the Secretary to give control directions to regulated foreign ships to ensure that security standards are maintained.
+
+* * *
+
+### Division 2—Obligations on regulated foreign ships
+
+##### <a id="91"></a>91  Regulated foreign ships must have ISSCs
+
+             (1)  The ship operator for a regulated foreign ship must:
+
+                     (a)  have a valid ISSC, or an approved ISSC equivalent, for the ship; and
+
+                     (b)  ensure that the ship carries the required ship security records.
+
+Note:          A ship is only a regulated foreign ship when it is in Australian waters: see section 17.
+
+             (2)  If the ship operator for a regulated foreign ship contravenes subsection (1), the ship operator or the master of the ship may be given a control direction under Division 3.
+
+             (3)  An **_approved ISSC equivalent_** is a kind of certification approved in writing by the Secretary as an alternative to an ISSC.
+
+##### <a id="92"></a>92  Regulated foreign ships must provide pre-arrival information
+
+             (1)  The master of a regulated foreign ship, or a ship intending to enter Australian waters that would, once it had done so, be a regulated foreign ship, must provide pre-arrival information in accordance with the regulations.
+
+             (2)  The regulations may prescribe:
+
+                     (a)  the person or persons to whom pre-arrival information must be given; and
+
+                     (b)  the circumstances in which pre-arrival information must be given
