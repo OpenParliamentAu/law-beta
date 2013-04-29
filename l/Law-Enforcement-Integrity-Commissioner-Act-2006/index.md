@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00958/Html/31e8f805-e85b-4122-ad42-02d340c415a8_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00845/Html/823b4b8c-f3ec-432b-bff0-f3e7b289f71f_files/image001.gif)
 
 # Law Enforcement Integrity Commissioner Act 2006
 
 **Act No. 85 of 2006 as amended**
 
-This compilation was prepared on 19 December 2011
- taking into account amendments up to Act No. 174 of 2011
+This compilation was prepared on 19 October 2011
+ taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -703,7 +703,7 @@ Note:          This table relates only to the provisions of th
 
              (2)  Column 3 of the table contains additional information that is not part of this Act. Information in this column may be added to or edited in any published version of this Act.
 
-##### <a id="3"></a>3  Objects of this Act
+##### <a id="3"></a>3  Objects of this Act
 
              (1)  The objects of this Act are:
 
@@ -861,8 +861,6 @@ but does not include a criminal prosecution for an offence under either of those
 
                      (b)  if the agency is the ACC—the CEO of the ACC (within the meaning of the _Australian Crime Commission Act 2002_); or
 
-                   (ba)  if the agency is Customs—the Chief Executive Officer of Customs; or
-
                      (c)  if the agency is a Commonwealth government agency that is prescribed for the purposes of paragraph (d) of the definition of **_law enforcement agency_**—the person holding the office in the agency that is prescribed by the regulations for the purposes of this definition; or
 
                      (d)  if the agency is another Commonwealth government agency:
@@ -906,8 +904,6 @@ but does not include a criminal prosecution for an offence under either of those
                      (a)  the AFP; or
 
                      (b)  the ACC; or
-
-                   (ba)  Customs; or
 
                      (c)  the former NCA; or
 
@@ -1211,16 +1207,6 @@ ACC staff members
 
                       (f)  a legal practitioner appointed under section 50 of that Act to assist the ACC as counsel.
 
-Customs staff members
-
-          (2A)  The following are **_staff members_** of Customs for the purposes of this Act:
-
-                     (a)  the Chief Executive Officer of Customs;
-
-                     (b)  a member of the staff referred to in subsection 15(1) of the _Customs Administration Act 1985_;
-
-                     (c)  a person authorised by the Chief Executive Officer of Customs, in writing, to perform a function of a person employed in Customs.
-
 Former NCA staff members
 
              (3)  The following are **_staff members_** of the former NCA for the purposes of this Act:
@@ -1248,8 +1234,6 @@ Secondees
                     (aa)  a person referred to in paragraph (1)(e) or (f) who is also an employee of another government agency is a **_secondee_** to the AFP; and
 
                      (b)  a person referred to in paragraph (2)(e) is a **_secondee_** to the ACC; and
-
-                   (ba)  a person referred to in paragraph (2A)(c) is a **_secondee_** to Customs; and
 
                      (c)  a person referred to in paragraph (3)(d) is a **_secondee_** to the former NCA; and
 
@@ -7398,23 +7382,6 @@ Remainder: 30 Dec 2006</div>
   <td>
     <div>Sch. 3 (items 10, 11)</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Crimes Legislation Amendment Act (No. 2) 2011</div>
-  </td>
-  <td>
-    <div>174, 2011</div>
-  </td>
-  <td>
-    <div>5 Dec 2011</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 2–6): 6 Dec 2011</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 6)</div>
-  </td>
 </tr></table>
 
 _(a)_ Subsection 2(1) (item 23) of the _Anti‑Money Laundering and Counter‑Terrorism Financing (Transitional Provisions and Consequential Amendments) Act 2006_ provides as follows:
@@ -7551,15 +7518,7 @@ _(a)_ Subsection 2(1) (item 23) of the _Anti‑Money Laundering and Counter‑
     <div>S. 5</div>
   </td>
   <td>
-    <div>am. No. 170, 2006; No. 174, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10</div>
-  </td>
-  <td>
-    <div>am. No. 174, 2011</div>
+    <div>am. No. 170, 2006</div>
   </td>
 </tr>
 <tr>
@@ -7621,7 +7580,7 @@ Note:          For rules that apply to acting appointments, se
 
 Repeal the subsection.
 
-As at 19 December 2011 the amendments are not incorporated in this compilation.
+As at 19 October 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -7640,25 +7599,5 @@ The amendments made by Schedule 2 do not affect the validity of an appointment
 ## 11  Transitional regulations
 
 The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
-
-* * *
-
-_Crimes Legislation Amendment Act (No. 2) 2011 (No. 174, 2011)_
-
-## Schedule 1
-
-## 6  Application
-
-(1)       The amendments made by items 1 to 5 of this Schedule apply in relation to corrupt conduct, whether engaged in before or after the commencement of the _Law Enforcement Integrity Commissioner Act 2006_.
-
-(2)       However, the requirement for the Chief Executive Officer of Customs to notify a corruption issue to the Integrity Commissioner under that Act only applies on and after this item commences.
-
-(3)       To avoid doubt, the amendments made by items 1 to 5 apply in relation to corrupt conduct even if the conduct was engaged in at a time when Customs was known as the Australian Customs Service.
-
-(4)       In this item:
-
-**_corrupt conduct_** has the same meaning as in the _Law Enforcement Integrity Commissioner Act 2006_.
-
-**_corruption issue_** has the same meaning as in the _Law Enforcement Integrity Commissioner Act 2006_.
 
  
