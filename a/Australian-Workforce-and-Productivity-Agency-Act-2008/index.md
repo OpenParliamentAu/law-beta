@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00540/Html/04ca92f6-2af7-4174-b310-6f0cc1adf550_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00343/Html/de647f82-9118-4123-a16e-30f775537966_files/image001.gif)
 
-# Australian Workforce and Productivity Agency Act 2008
+# Skills Australia Act 2008
 
 **Act No. 10 of 2008 as amended**
 
-This compilation was prepared on 1 July 2012
- taking into account amendments up to Act No. 69 of 2012
+This compilation was prepared on 27 March 2012
+ taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -26,17 +26,17 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [3](#3).            Definitions
 
-[4](#4).            Object
+[4](#4).            Objects
 
-**Part 2—Establishment and functions of the Australian Workforce and Productivity Agency**
+**Part 2—Establishment and functions of Skills Australia**
 
 [5](#5).            Establishment
 
 [6](#6).            Functions
 
-[7](#7).            Minister may give directions to the Australian Workforce and Productivity Agency
+[7](#7).            Minister may give directions to Skills Australia
 
-**Part 3—Constitution and membership of the Australian Workforce and Productivity Agency**
+**Part 3—Constitution and membership of Skills Australia**
 
 [8](#8).            Constitution
 
@@ -52,7 +52,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [14](#14).          Disclosure of interests to the Minister
 
-[15](#15).          Disclosure of interests to the Australian Workforce and Productivity Agency
+[15](#15).          Disclosure of interests to Skills Australia
 
 [16](#16).          Other terms and conditions
 
@@ -60,7 +60,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [18](#18).          Termination of appointment
 
-**Part 4—Meetings of the Australian Workforce and Productivity Agency**
+**Part 4—Meetings of Skills Australia**
 
 [19](#19).          Convening meetings
 
@@ -78,7 +78,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part 5—Miscellaneous**
 
-[26](#26).          Staff assisting the Australian Workforce and Productivity Agency
+[26](#26).          Staff assisting Skills Australia
 
 [27](#27).          Annual reports
 
@@ -88,13 +88,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Notes** 
 
-## An Act to establish the Australian Workforce and Productivity Agency, and for related purposes
+## An Act to establish Skills Australia, and for related purposes
 
 ## Part 1—Preliminary
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
 
-                   This Act may be cited as the _Australian Workforce and Productivity Agency Act 2008_.
+                   This Act may be cited as the _Skills Australia Act 2008_.
 
 ##### <a id="2"></a>2  Commencement [_see_ Note 1]
 
@@ -106,15 +106,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="australia"></a>**_Australia_**, when used in a geographical sense, includes the external Territories.
 
-                    <a name="australian-workforc-product-agenc"></a>**_Australian Workforce and Productivity Agency_** means the body continued in existence by section 5.
+                    <a name="chair"></a>**_Chair_** means the Chair of Skills Australia.
 
-                    <a name="chair"></a>**_Chair_** means the Chair of the Australian Workforce and Productivity Agency.
+                    <a name="member"></a>**_member_** means a member of Skills Australia and includes the Chair.
 
-                    <a name="member"></a>**_member_** means a member of the Australian Workforce and Productivity Agency and includes the Chair.
+                    <a name="skill-australia"></a>**_Skills Australia_**means the body established by section 5.
 
-##### <a id="4"></a>4  Object
+##### <a id="4"></a>4  Objects
 
-                   The object of this Act is to provide for expert and independent advice in relation to Australia’s workforce skills needs and workforce development needs, and the allocation of Commonwealth funding, in order to:
+                   The object of this Act is to provide for expert and independent advice in relation to Australia’s workforce skills needs and workforce development needs, in order to:
 
                      (a)  identify training priorities to respond to those needs; and
 
@@ -126,35 +126,27 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (e)  promote the development of a highly skilled workforce.
 
-## Part 2—Establishment and functions of the Australian Workforce and Productivity Agency
+## Part 2—Establishment and functions of Skills Australia
 
 ##### <a id="5"></a>5  Establishment
 
-                   The body known immediately before the commencement of this section as Skills Australia is continued in existence as the Australian Workforce and Productivity Agency.
-
-Note 1:       See also section 25B of the _Acts Interpretation Act 1901_.
-
-Note 2:       For the commencement of this section, see section 2 of the _Skills Australia Amendment (Australian Workforce and Productivity Agency) Act 2012_.
+                   Skills Australia is established by this section.
 
 ##### <a id="6"></a>6  Functions
 
 Primary function—providing advice to the Minister
 
-             (1)  The Australian Workforce and Productivity Agency has the primary function of providing advice to the Minister on matters relating to the following:
+             (1)  Skills Australia has the primary function of providing advice to the Minister on matters relating to the following:
 
                      (a)  Australia’s current, emerging and future workforce development needs;
 
-                     (b)  Australia’s current, emerging and future workforce skills needs;
+                     (b)  Australia’s current, emerging and future workforce skills needs.
 
-                     (c)  improving the productivity of the Australian workforce;
-
-                     (d)  the allocation of Commonwealth funding (including through the National Workforce Development Fund) to address the matters mentioned in paragraphs (a), (b) and (c).
-
-             (2)  The Australian Workforce and Productivity Agency is to provide advice under subsection (1) as it thinks fit and on request by the Minister.
+             (2)  Skills Australia is to provide advice under subsection (1) as it thinks fit and on request by the Minister.
 
 Additional functions
 
-             (3)  For the purposes of providing that advice, the Australian Workforce and Productivity Agency has the following additional functions:
+             (3)  For the purposes of providing that advice, Skills Australia has the following additional functions:
 
                      (a)  analysing current, emerging and future workforce skills needs across industry sectors;
 
@@ -164,47 +156,43 @@ Additional functions
 
                              (ii)  information from persons and bodies with an interest in workforce development needs;
 
-                   (ba)  assessing research relating to improving the productivity of the Australian workforce;
-
-                   (bb)  analysing the funding available to address the matters mentioned in paragraphs (1)(a), (b) and (c);
-
                      (c)  developing and maintaining relationships with:
 
                               (i)  the States and Territories, and relevant authorities of the States and Territories; and
 
                              (ii)  other persons and bodies with an interest in workforce development needs or workforce skills needs.
 
-             (4)  The Australian Workforce and Productivity Agency also has:
+             (4)  Skills Australia also has:
 
                      (a)  the function of informing the public about matters relating to Australia’s workforce development needs and workforce skills needs; and
 
-                     (b)  any functions that the Minister, by writing, directs the Agency to perform; and
+                     (b)  any functions that the Minister, by writing, directs Skills Australia to perform; and
 
                      (c)  any other functions conferred on it by this Act or any other law.
 
              (5)  A direction made under paragraph (4)(b) is not a legislative instrument.
 
-##### <a id="7"></a>7  Minister may give directions to the Australian Workforce and Productivity Agency
+##### <a id="7"></a>7  Minister may give directions to Skills Australia
 
-             (1)  The Minister may give written directions to the Australian Workforce and Productivity Agency about the performance of its functions.
+             (1)  The Minister may give written directions to Skills Australia about the performance of its functions.
 
              (2)  Directions given by the Minister under subsection (1) must be of a general nature only.
 
-             (3)  The Minister must not give directions about the content of any advice that may be given to the Minister by the Australian Workforce and Productivity Agency.
+             (3)  The Minister must not give directions about the content of any advice that may be given to the Minister by Skills Australia.
 
-             (4)  The Australian Workforce and Productivity Agency must comply with any direction given by the Minister under subsection (1).
+             (4)  Skills Australia must comply with any direction given by the Minister under subsection (1).
 
              (5)  A direction given by the Minister under subsection (1) is not a legislative instrument.
 
-## Part 3—Constitution and membership of the Australian Workforce and Productivity Agency
+## Part 3—Constitution and membership of Skills Australia
 
 ##### <a id="8"></a>8  Constitution
 
-                   The Australian Workforce and Productivity Agency consists of:
+                   Skills Australia consists of:
 
                      (a)  the Chair; and
 
-                     (b)  9 other members.
+                     (b)  6 other members.
 
 Note:          Section 18B of the _Acts Interpretation Act 1901_ deals with the title of the Chair.
 
@@ -212,7 +200,7 @@ Note:          Section 18B of the _Acts Interpretation Act 1
 
              (1)  Members (including the Chair) are to be appointed by the Minister by written instrument.
 
-             (2)  In making appointments, the Minister must ensure that the members of the Australian Workforce and Productivity Agency have, between them, experience in:
+             (2)  In making appointments, the Minister must ensure that the members of Skills Australia have, between them, experience in:
 
                      (a)  academia; and
 
@@ -220,9 +208,7 @@ Note:          Section 18B of the _Acts Interpretation Act 1
 
                      (c)  economics; and
 
-                     (d)  industry; and
-
-                     (e)  the representation of employees.
+                     (d)  industry.
 
              (3)  A member is to be appointed on a part‑time basis.
 
@@ -268,27 +254,27 @@ Note:          For rules that apply to acting appointments, se
 
                    A member must give written notice to the Minister of all interests, pecuniary or otherwise, that the member has or acquires and that conflict or could conflict with the proper performance of the member’s functions.
 
-##### <a id="15"></a>15  Disclosure of interests to the Australian Workforce and Productivity Agency
+##### <a id="15"></a>15  Disclosure of interests to Skills Australia
 
-             (1)  A member  who has an interest, pecuniary or otherwise, in a matter being considered or about to be considered by the Australian Workforce and Productivity Agency must disclose the nature of the interest to a meeting of the Agency.
+             (1)  A member  who has an interest, pecuniary or otherwise, in a matter being considered or about to be considered by Skills Australia must disclose the nature of the interest to a meeting of Skills Australia.
 
              (2)  The disclosure must be made as soon as possible after the relevant facts have come to the member’s knowledge.
 
-             (3)  The disclosure must be recorded in the minutes of the meeting of the Australian Workforce and Productivity Agency.
+             (3)  The disclosure must be recorded in the minutes of the meeting of Skills Australia.
 
-             (4)  Unless the Australian Workforce and Productivity Agency otherwise determines, the member:
+             (4)  Unless Skills Australia otherwise determines, the member:
 
-                     (a)  must not be present during any deliberation by the Agency on the matter; and
+                     (a)  must not be present during any deliberation by Skills Australia on the matter; and
 
-                     (b)  must not take part in any decision of the Agency  with respect to the matter.
+                     (b)  must not take part in any decision of Skills Australia  with respect to the matter.
 
              (5)  For the purposes of making a determination under subsection (4), the member:
 
-                     (a)  must not be present during any deliberation of the Australian Workforce and Productivity Agency  for the purpose of making the determination; and
+                     (a)  must not be present during any deliberation of Skills Australia  for the purpose of making the determination; and
 
                      (b)  must not take part in making the determination.
 
-             (6)  A determination under subsection (4) must be recorded in the minutes of the meeting of the Australian Workforce and Productivity Agency.
+             (6)  A determination under subsection (4) must be recorded in the minutes of the meeting of Skills Australia.
 
 ##### <a id="16"></a>16  Other terms and conditions
 
@@ -316,19 +302,19 @@ Note:          For rules that apply to acting appointments, se
 
                             (iv)  makes an assignment of his or her remuneration for the benefit of his or her creditors; or
 
-                     (b)  the member is absent, except on leave of absence, from 3 consecutive meetings of the Australian Workforce and Productivity Agency; or
+                     (b)  the member is absent, except on leave of absence, from 3 consecutive meetings of Skills Australia; or
 
                      (c)  the member fails, without reasonable excuse, to comply with section 14 or 15 (disclosure of interests); or
 
                      (d)  the Minister is satisfied that the performance of the member has been unsatisfactory for a significant period.
 
-## Part 4—Meetings of the Australian Workforce and Productivity Agency
+## Part 4—Meetings of Skills Australia
 
 ##### <a id="19"></a>19  Convening meetings
 
-             (1)  The Australian Workforce and Productivity Agency must hold the meetings that are necessary for the efficient performance of its functions.
+             (1)  Skills Australia must hold the meetings that are necessary for the efficient performance of its functions.
 
-             (2)  Meetings are to be held at the times and places that the Australian Workforce and Productivity Agency determines.
+             (2)  Meetings are to be held at the times and places that Skills Australia determines.
 
 Note:          See also section 33B of the _Acts Interpretation Act 1901_, which contains extra rules about meetings by telephone etc.
 
@@ -350,11 +336,11 @@ Note:          See also section 33B of the _Acts Interpretat
 
 ##### <a id="21"></a>21  Quorum
 
-             (1)  At a meeting of the Australian Workforce and Productivity Agency a quorum is constituted by a majority of the current members.
+             (1)  At a meeting of Skills Australia a quorum is constituted by a majority of the current members.
 
              (2)  However, if:
 
-                     (a)  section 15 prevents a member from participating in the deliberations or decisions of the Australian Workforce and Productivity Agency with respect to a particular matter; and
+                     (a)  section 15 prevents a member from participating in the deliberations or decisions of Skills Australia with respect to a particular matter; and
 
                      (b)  when the member leaves the meeting concerned there is no longer a quorum present;
 
@@ -368,37 +354,37 @@ those remaining members constitute a quorum for the purpose of any deliberation 
 
 ##### <a id="23"></a>23  Conduct of meetings
 
-             (1)  The Australian Workforce and Productivity Agency may regulate proceedings at its meetings as it considers appropriate.
+             (1)  Skills Australia may regulate proceedings at its meetings as it considers appropriate.
 
-             (2)  The Australian Workforce and Productivity Agency must ensure that minutes of its meetings are kept.
+             (2)  Skills Australia must ensure that minutes of its meetings are kept.
 
 ##### <a id="24"></a>24  Decisions without meetings
 
-             (1)  The Australian Workforce and Productivity Agency is taken to have made a decision at a meeting if:
+             (1)  Skills Australia is taken to have made a decision at a meeting if:
 
                      (a)  without a meeting, a majority of the members entitled to vote on the proposed decision indicate agreement with the decision; and
 
-                     (b)  that agreement is indicated in accordance with the method determined by the Agency under subsection (2); and
+                     (b)  that agreement is indicated in accordance with the method determined by Skills Australia under subsection (2); and
 
                      (c)  all the members were informed of the proposed decision, or reasonable efforts were made to inform all the members of the proposed decision.
 
-             (2)  Subsection (1) applies only if the Australian Workforce and Productivity Agency:
+             (2)  Subsection (1) applies only if Skills Australia:
 
                      (a)  has determined that it may make decisions of that kind without meeting; and
 
                      (b)  has determined the method by which members are to indicate agreement with proposed decisions.
 
-             (3)  For the purposes of paragraph (1)(a), a member is not entitled to vote on a proposed decision if the member would not have been entitled to vote on that proposal if the matter had been considered at a meeting of the Australian Workforce and Productivity Agency.
+             (3)  For the purposes of paragraph (1)(a), a member is not entitled to vote on a proposed decision if the member would not have been entitled to vote on that proposal if the matter had been considered at a meeting of Skills Australia.
 
-             (4)  The Australian Workforce and Productivity Agency must keep a record of decisions made in accordance with this section.
+             (4)  Skills Australia must keep a record of decisions made in accordance with this section.
 
 ##### <a id="25"></a>25  Committees
 
-             (1)  The Australian Workforce and Productivity Agency may, by writing, establish committees to assist it in performing any of its functions.
+             (1)  Skills Australia may, by writing, establish committees to assist it in performing any of its functions.
 
-             (2)  The Australian Workforce and Productivity Agency must not establish a committee without the approval of the Minister.
+             (2)  Skills Australia must not establish a committee without the approval of the Minister.
 
-             (3)  A committee consists of such individuals as the Australian Workforce and Productivity Agency from time to time appoints, by writing, to the committee.
+             (3)  A committee consists of such individuals as Skills Australia from time to time appoints, by writing, to the committee.
 
 Note:          A member of a committee may be reappointed: see section 33AA of the _Acts Interpretation Act 1901_.
 
@@ -410,7 +396,7 @@ Note:          A member of a committee may be reappointed: see
 
              (5)  The Chair of a committee must be a member.
 
-             (6)  The Australian Workforce and Productivity Agency may give a committee written directions as to:
+             (6)  Skills Australia may give a committee written directions as to:
 
                      (a)  the way in which the committee is to carry out its task; and
 
@@ -432,17 +418,17 @@ Note:          A member of a committee may be reappointed: see
 
 ## Part 5—Miscellaneous
 
-##### <a id="26"></a>26  Staff assisting the Australian Workforce and Productivity Agency
+##### <a id="26"></a>26  Staff assisting Skills Australia
 
-                   The staff assisting the Australian Workforce and Productivity Agency are to be persons engaged under the _Public Service Act 1999_ and made available for the purpose by the Secretary of the Department.
+                   The staff assisting Skills Australia are to be persons engaged under the _Public Service Act 1999_ and made available for the purpose by the Secretary of the Department.
 
 ##### <a id="27"></a>27  Annual reports
 
-             (1)  The Australian Workforce and Productivity Agency must, as soon as practicable after the end of each financial year, prepare and give to the Minister, for presentation to the Parliament, a report on the Agency’s operations during that year.
+             (1)  Skills Australia must, as soon as practicable after the end of each financial year, prepare and give to the Minister, for presentation to the Parliament, a report on Skills Australia’s operations during that year.
 
 Note:          See also section 34C of the _Acts Interpretation Act 1901_, which contains extra rules about annual reports.
 
-             (2)  The Australian Workforce and Productivity Agency  must include in the report details of any directions given to it by the Minister under paragraph 6(4)(b) or subsection 7(1) during the year.
+             (2)  Skills Australia  must include in the report details of any directions given to it by the Minister under paragraph 6(4)(b) or subsection 7(1) during the year.
 
 ##### <a id="28"></a>28  Delegation
 
@@ -462,11 +448,11 @@ Note:          See also section 34C of the _Acts Interpretat
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
-# Notes to the _Australian Workforce and Productivity Agency Act 2008_
+# Notes to the _Skills Australia Act 2008_
 
 ### Note 1
 
-The _Australian Workforce and Productivity Agency Act 2008_ as shown in this compilation comprises Act No. 10, 2008 amended as indicated in the Tables below.
+The _Skills Australia Act 2008_ as shown in this compilation comprises Act No. 10, 2008 amended as indicated in the Tables below.
 
 For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
 
@@ -530,27 +516,10 @@ of Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 1044–1048) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 1044–1048) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Skills Australia Amendment (Australian Workforce and Productivity Agency) Act 2012</div>
-  </td>
-  <td>
-    <div>69, 2012</div>
-  </td>
-  <td>
-    <div>27 June 2012</div>
-  </td>
-  <td>
-    <div>1 July 2012</div>
-  </td>
-  <td>
-    <div>Sch. 1 (items 42, 43)</div>
   </td>
 </tr></table>
 
@@ -576,102 +545,6 @@ of Assent</div>
       <div>How affected</div>
     </td>
   </tr>
-  <tr>
-    <td>
-      <div>Title</div>
-    </td>
-    <td>
-      <div>am. No. 69, 2012</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Part 1</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 1</div>
-    </td>
-    <td>
-      <div>am. No. 69, 2012</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 3</div>
-    </td>
-    <td>
-      <div>am. No. 69, 2012</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to s. 4</div>
-    </td>
-    <td>
-      <div>rs. No. 69, 2012</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 4</div>
-    </td>
-    <td>
-      <div>am. No. 69, 2012</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Part 2</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to Part 2</div>
-    </td>
-    <td>
-      <div>rs. No. 69, 2012</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 5</div>
-    </td>
-    <td>
-      <div>rs. No. 69, 2012</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 6</div>
-    </td>
-    <td>
-      <div>am. No. 69, 2012</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to s. 7</div>
-    </td>
-    <td>
-      <div>rs. No. 69, 2012</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 7</div>
-    </td>
-    <td>
-      <div>am. No. 69, 2012</div>
-    </td>
-  </tr>
 </thead>
 <tr>
   <td>
@@ -679,30 +552,6 @@ of Assent</div>
   </td>
   <td>
     <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part 3</div>
-  </td>
-  <td>
-    <div>rs. No. 69, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8</div>
-  </td>
-  <td>
-    <div>am. No. 69, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9</div>
-  </td>
-  <td>
-    <div>am. No. 69, 2012</div>
   </td>
 </tr>
 <tr>
@@ -739,30 +588,6 @@ of Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 15</div>
-  </td>
-  <td>
-    <div>rs. No. 69, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15</div>
-  </td>
-  <td>
-    <div>am. No. 69, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18</div>
-  </td>
-  <td>
-    <div>am. No. 69, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part 4</b></div>
   </td>
   <td>
@@ -771,90 +596,10 @@ of Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to Part 4</div>
-  </td>
-  <td>
-    <div>rs. No. 69, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19</div>
-  </td>
-  <td>
-    <div>am. No. 69, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 21</div>
-  </td>
-  <td>
-    <div>am. No. 69, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 23</div>
-  </td>
-  <td>
-    <div>am. No. 69, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 24</div>
-  </td>
-  <td>
-    <div>am. No. 69, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 25</div>
-  </td>
-  <td>
-    <div>am. No. 69, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Note to s. 25(3)</div>
   </td>
   <td>
     <div>rs. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 26</div>
-  </td>
-  <td>
-    <div>rs. No. 69, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 26</div>
-  </td>
-  <td>
-    <div>am. No. 69, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 27</div>
-  </td>
-  <td>
-    <div>am. No. 69, 2012</div>
   </td>
 </tr></table>
 
@@ -873,19 +618,5 @@ The amendments made by Schedule 2 do not affect the validity of an appointment
 ## 11  Transitional regulations
 
 The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
-
-* * *
-
-_Skills Australia Amendment (Australian Workforce and Productivity Agency) Act 2012 (No. 69, 2012)_
-
-## Schedule 1
-
-## 42  Termination of appointment of members
-
-An appointment of a person as a member under section 9 of the _Skills Australia Act 2008_ that is in force immediately before the commencement of this item is, by force of this item, terminated on that commencement.
-
-## 43  Committees cease to exist
-
-A committee established under section 25 of the _Skills Australia Act 2008_ and in existence immediately before the commencement of this item ceases, by force of this item, to exist after that commencement.
 
  
