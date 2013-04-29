@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00168/Html/58d78039-0f27-4406-8528-00099e591255_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00045/Html/WoolInternational1993WD02_image001.gif)
 
 # Wool International Act 1993
 
 **Act No. 64 of 1993 as amended**
 
-This compilation was prepared on 30 January 2012
+This compilation was prepared on 3 February 2010
  taking into account amendments up to Act No. 131 of 2009
 
 The text of any of those amendments not in force
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -42,9 +42,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [22J](#22J).        Charge on unit of equity
 
+[22K](#22K).       Order of priority for charges
+
 [22KA](#22KA).    Registered equity holders—status as members of WoolStock Australia Limited
 
-[22KB](#22KB).     Nature of claims of registered equity holders
+[22KB](#22KB).    Nature of claims of registered equity holders
 
 [22L](#22L).        Access to register
 
@@ -64,7 +66,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part 4C—Units of equity held by TrusteeCo**
 
-[22T](#22T).        Object of Part
+[22T](#22T).       Object of Part
 
 [22U](#22U).       Dealings by TrusteeCo with units of equity held in respect of putative equity holders
 
@@ -78,9 +80,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [22Y](#22Y).       Money to be invested
 
-[22Z](#22Z).        To whom money must be paid
+[22Z](#22Z).       To whom money must be paid
 
-[22ZA](#22ZA).     Balance of money to be paid to WoolStock Australia Limited
+[22ZA](#22ZA).    Balance of money to be paid to WoolStock Australia Limited
 
 **Part 9—Miscellaneous**
 
@@ -172,7 +174,7 @@ Note:       WoolStock Australia Limited has previously had the follo
 
                    For each distribution, a registered equity holder is entitled to receive, for each unit of equity, an amount worked out using the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2012C00168/Html/58d78039-0f27-4406-8528-00099e591255_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00045/Html/WoolInternational1993WD02_image002.gif)
 
 Note:          The amount of a distribution is determined under subsection 22P(3).
 
@@ -252,11 +254,37 @@ may apply to WoolStock Australia Limited to be registered as the holder of the u
 
 ##### <a id="22J"></a>22J  Charge on unit of equity
 
-                   A unit of equity in WoolStock Australia Limited held by a registered equity holder other than TrusteeCo may be the subject of a charge in favour of another person (**_beneficiary_**).
+             (1)  Subject to this section, a unit of equity in WoolStock Australia Limited held by a registered equity holder other than TrusteeCo may be the subject of a charge in favour of another person (**_beneficiary_**).
 
-Note 1:       A charge over (or another security interest in) a unit of equity in WoolStock Australia Limited may be the subject of a registration in the Personal Property Securities Register under the _Personal Property Securities Act 2009_.
+             (2)  A charge on a unit of equity in WoolStock Australia Limited does not have effect unless particulars of the charge are recorded in the register of equity holders.
 
-Note 2:       The priority of charges over (or other securities interests in) units of equity is determined in accordance with the _Personal Property Securities Act 2009_.
+             (3)  The registered equity holder and the beneficiary may together apply to WoolStock Australia Limited to have particulars of the charge recorded in the register. The application must be made in accordance with the regulations.
+
+             (4)  If the application complies with subsection (3), WoolStock Australia Limited must enter the particulars of the charge in the register in accordance with the regulations.
+
+             (5)  If the beneficiary subsequently notifies WoolStock Australia Limited that the unit of equity is no longer the subject of the charge, WoolStock Australia Limited must remove all particulars of the charge from the register.
+
+             (6)  Failure to register a charge on a unit of equity in WoolStock Australia Limited under the law of a State or Territory does not affect the validity of the charge for the purposes of this Act.
+
+             (7)  For the purposes of this section, a floating charge:
+
+                     (a)  on all the assets of a registered equity holder; or
+
+                     (b)  on a part of the assets of a registered equity holder that includes units of equity in WoolStock Australia Limited;
+
+is not taken to be a charge on any of the units of equity in WoolStock Australia Limited held by the equity holder.
+
+##### <a id="22K"></a>22K  Order of priority for charges
+
+                   If:
+
+                     (a)  an individual is the registered holder of a unit of equity in WoolStock Australia Limited; and
+
+                     (b)  a charge is registered under section 22J on that unit of equity;
+
+that charge (**_first charge_**) has priority over any other charge on that unit of equity that is registered under that section after the registration of the first charge.
+
+Note:          If a unit of equity in WoolStock Australia Limited held by a company is the subject of more than one charge, the order of priority for those charges is to be decided in accordance with the _Corporations Act 2001_.
 
 ##### <a id="22KA"></a>22KA  Registered equity holders—status as members of WoolStock Australia Limited
 
@@ -279,6 +307,8 @@ Note 2:       The priority of charges over (or other securities inte
                    If:
 
                      (a)  a registered equity holder; or
+
+                     (b)  the beneficiary under a charge on a unit of equity in WoolStock Australia Limited; or
 
                      (c)  any other person with the consent of a registered holder;
 
@@ -326,7 +356,7 @@ Note:          The distribution is paid to the persons who are
 
                      (b)  the operative day for the distribution.
 
-             (6)  The notice must be published in each State at least 14 days before the operative day, in a newspaper circulating generally in the State. For this purpose, **_State_** includes the Australian Capital Territory and the Northern Territory.
+             (6)  The notice must be published in each State at least 14 days before the operative day, in a newspaper circulating generally in the State. For this purpose, **_State_** includes the Australian   Capital Territory and the Northern Territory.
 
              (7)  At the end of one month after the final distribution, all units of equity are cancelled by force of this subsection.
 
@@ -336,15 +366,41 @@ Note:          The distribution is paid to the persons who are
 
              (2)  The money is to be distributed as soon as practicable after the operative day determined under section 22P.
 
-             (3)  A registered equity holder is to be paid, in respect of each unit of equity in WoolStock Australia Limited held by him or her, the amount that the equity holder is entitled to receive under section 22G.
+Note:          For **_operative day_** see subsection (5).
+
+             (3)  Subject to subsection (4), a registered equity holder is to be paid, in respect of each unit of equity in WoolStock Australia Limited held by him or her, the amount that the equity holder is entitled to receive under section 22G.
+
+             (4)  If:
+
+                     (a)  any units of equity in WoolStock Australia Limited held by the registered equity holder are the subject of a charge, or more than one charge, redeemable from money payable to the equity holder out of the distribution; and
+
+                     (b)  the equity holder has authorised WoolStock Australia Limited to make payments under this subsection;
+
+the following provisions apply:
+
+                     (c)  if the units of equity are the subject of only one charge—WoolStock Australia Limited must pay to the beneficiary under the charge so much of the amount that the equity holder is entitled to receive from the distribution (the **_equity holder’s entitlement_**) as does not exceed the amount of the debt secured by the charge;
+
+                     (d)  if any of the units of equity are the subject of more than one charge—WoolStock Australia Limited must pay to the beneficiary under each charge so much of the amount available from the equity holder’s entitlement to meet the debt secured by that charge (having regard to the order of priority of the charges) as does not exceed the amount of the debt;
+
+                     (e)  in either case—WoolStock Australia Limited must pay the balance (if any) of the equity holder’s entitlement to the equity holder.
 
 ##### <a id="22S"></a>22S  Particulars to be notified to registered equity holders etc.
 
-                   WoolStock Australia Limited must give to each registered equity holder a written notice that sets out the following in respect of each distribution:
+             (1)  WoolStock Australia Limited must give to each registered equity holder a written notice that sets out the following in respect of each distribution:
 
                      (a)  the total amount available for the distribution;
 
-                     (b)  the total amount that the equity holder is entitled to receive from the distribution.
+                     (b)  the total amount that the equity holder is entitled to receive from the distribution;
+
+                     (c)  if subsection 22R(4) applies to any units of equity in WoolStock Australia Limited held by the equity holder—the amount payable under paragraph 22R(4)(c) or (d) to the beneficiary, or each beneficiary, under a charge on those units (as the case may be).
+
+             (2)  WoolStock Australia Limited must give to each beneficiary (if any) under a charge on any units of equity in WoolStock Australia Limited a written notice that sets out the following in respect of each distribution:
+
+                     (a)  the total amount available for the distribution;
+
+                     (b)  the total amount that the registered holder of those units is entitled to receive from the distribution;
+
+                     (c)  the amount payable to the beneficiary under paragraph 22R(4)(c) or (d).
 
 ## Part 4C—Units of equity held by TrusteeCo
 
@@ -412,7 +468,7 @@ Any income derived from the investments is to be paid to WoolStock Australia Lim
 
              (2)  In this section:
 
-                    <a name="bank"></a>**_bank_** includes, but is not limited to, a body corporate that is an ADI (authorised deposit‑taking institution) within the meaning of the _Banking Act 1959_.
+                    <a name="bank"></a>**_bank_** includes, but is not limited to, a body corporate that is an ADI (authorised deposit-taking institution) within the meaning of the _Banking Act 1959_.
 
 ##### <a id="22Z"></a>22Z  To whom money must be paid
 
@@ -440,7 +496,7 @@ TrusteeCo must pay to the person, out of the trust money, the amount that was pa
 
 ##### <a id="72"></a>72  Regulations
 
-             (1)  The Governor‑General may make regulations prescribing all matters required or permitted by this Act to be prescribed, or necessary or convenient to be prescribed, for carrying out or giving effect to this Act.
+             (1)  The Governor-General may make regulations prescribing all matters required or permitted by this Act to be prescribed, or necessary or convenient to be prescribed, for carrying out or giving effect to this Act.
 
              (2)  Without limiting subsection (1), the provisions that may be made by the regulations include provisions imposing penalties not exceeding 20 penalty units for offences against the regulations.
 
@@ -761,7 +817,7 @@ Remainder: 1 July 1997</div>
     <div>14 Dec 2009</div>
   </td>
   <td>
-    <div>Schedule 5 (items 37–50): 30 Jan 2012 ( <i>see</i>F2011L02397)</div>
+    <div>Schedule 5 (items 37–50): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 5 (item 50) \[ <i>see</i>Table A]</div>
@@ -770,7 +826,7 @@ Remainder: 1 July 1997</div>
 
 _(a)_     Parts 10–12 (ss. 73–87) of the _Wool International Act 1993_ were repealed by Schedule 1 (item 26) of the _Wool International Amendment Act 1997_ before a date was fixed for the commencement.
 
-_(b)_     The _Wool International Act 1993_ was amended by Schedule 2 only of the _Primary Industries and Energy Legislation Amendment Act (No. 2) 1995_, subsection 2(1) of which provides as follows: 
+_(b)_    The _Wool International Act 1993_ was amended by Schedule 2 only of the _Primary Industries and Energy Legislation Amendment Act (No. 2) 1995_, subsection 2(1) of which provides as follows: 
 
                  (1)   Subject to subsection (2), this Act commences on the day on which it receives the Royal Assent.
 
@@ -1323,54 +1379,16 @@ _(f)_ The _Wool International Act 1993_ was amended by Schedule 3 (items 563
   </td>
   <td>
     <div>ad. No. 108, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
     <div>rs. No. 40, 1999</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>Ss. 22H, 22I</div>
+    <div>Ss. 22H–22J</div>
   </td>
   <td>
     <div>ad. No. 108, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
     <div>am. No. 40, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22J</div>
-  </td>
-  <td>
-    <div>ad. No. 108, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 40, 1999; No. 131, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Notes 1, 2 to s. 22J</div>
-  </td>
-  <td>
-    <div>ad. No. 131, 2009</div>
   </td>
 </tr>
 <tr>
@@ -1391,26 +1409,10 @@ _(f)_ The _Wool International Act 1993_ was amended by Schedule 3 (items 563
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 131, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Note to s. 22K</div>
   </td>
   <td>
     <div>am. No. 40, 1999; No. 55, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 131, 2009</div>
   </td>
 </tr>
 <tr>
@@ -1431,23 +1433,7 @@ _(f)_ The _Wool International Act 1993_ was amended by Schedule 3 (items 563
 </tr>
 <tr>
   <td>
-    <div>S. 22L</div>
-  </td>
-  <td>
-    <div>ad. No. 108, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 40, 1999; No. 131, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22M</div>
+    <div>Ss. 22L, 22M</div>
   </td>
   <td>
     <div>ad. No. 108, 1997</div>
@@ -1575,7 +1561,7 @@ _(f)_ The _Wool International Act 1993_ was amended by Schedule 3 (items 563
 </tr>
 <tr>
   <td>
-    <div>S. 22R</div>
+    <div>Ss. 22R, 22S</div>
   </td>
   <td>
     <div>ad. No. 108, 1997</div>
@@ -1586,31 +1572,7 @@ _(f)_ The _Wool International Act 1993_ was amended by Schedule 3 (items 563
     <div></div>
   </td>
   <td>
-    <div>am. No. 40, 1999; No. 131, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 22R(2)</div>
-  </td>
-  <td>
-    <div>rep. No. 131, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22S</div>
-  </td>
-  <td>
-    <div>ad. No. 108, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 40, 1999; No. 131, 2009</div>
+    <div>am. No. 40, 1999</div>
   </td>
 </tr>
 <tr>
@@ -1679,7 +1641,7 @@ _(f)_ The _Wool International Act 1993_ was amended by Schedule 3 (items 563
 </tr>
 <tr>
   <td>
-    <div>Ss. 22W, 22X</div>
+    <div>Ss. 22W–22Y</div>
   </td>
   <td>
     <div>ad. No. 108, 1997</div>
@@ -1691,22 +1653,6 @@ _(f)_ The _Wool International Act 1993_ was amended by Schedule 3 (items 563
   </td>
   <td>
     <div>am. No. 40, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22Y</div>
-  </td>
-  <td>
-    <div>ad. No. 108, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 48, 1998; No. 40, 1999</div>
   </td>
 </tr>
 <tr>
@@ -2136,18 +2082,18 @@ _(f)_ The _Wool International Act 1993_ was amended by Schedule 3 (items 563
 </tr>
 <tr>
   <td>
-    <div><b>Part 9</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 58</div>
   </td>
   <td>
     <div>rep. No. 40, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 9</b></div>
+  </td>
+  <td>
+    <div></div>
   </td>
 </tr>
 <tr>
@@ -2312,23 +2258,7 @@ _(f)_ The _Wool International Act 1993_ was amended by Schedule 3 (items 563
 </tr>
 <tr>
   <td>
-    <div>S. 77</div>
-  </td>
-  <td>
-    <div>rep. No. 108, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 78</div>
-  </td>
-  <td>
-    <div>am. No. 39, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
+    <div>Ss. 77, 78</div>
   </td>
   <td>
     <div>rep. No. 108, 1997</div>
@@ -2351,6 +2281,73 @@ _(f)_ The _Wool International Act 1993_ was amended by Schedule 3 (items 563
   </td>
 </tr></table>
 
+### Note 2
+
+_Personal Property Securities (Consequential Amendments) Act 2009 
+ (No. 131, 2009)_
+
+The following amendments commence on 1 February 2012 or an earlier time determined by the Minister (_see_ section 306 of the _Personal Property Securities Act 2009_):
+
+## Schedule 5
+
+## 37  Subsection 22J(1)
+
+Omit “(1)”.
+
+## 38  Subsection 22J(1)
+
+Omit “Subject to this section, a”, substitute “A”.
+
+## 39  At the end of subsection 22J(1)
+
+Add:
+
+Note 1:       A charge over (or another security interest in) a unit of equity in WoolStock Australia Limited may be the subject of a registration in the Personal Property Securities Register under the _Personal Property Securities Act 2009_.
+
+Note 2:       The priority of charges over (or other securities interests in) units of equity is determined in accordance with the _Personal Property Securities Act 2009_.
+
+## 40  Subsections 22J(2) to (7)
+
+Repeal the subsections.
+
+## 41  Section 22K
+
+Repeal the section.
+
+## 42  Paragraph 22L(b)
+
+Repeal the paragraph.
+
+## 43  Subsection 22R(2) (note)
+
+Repeal the note.
+
+## 44  Subsection 22R(3)
+
+Omit “Subject to subsection (4), a”, substitute “A”.
+
+## 45  Subsection 22R(4)
+
+Repeal the subsection.
+
+## 46  Subsection 22S(1)
+
+Omit “(1)”.
+
+## 47  Paragraph 22S(1)(b)
+
+Omit “distribution;”, substitute “distribution.”.
+
+## 48  Paragraph 22S(1)(c)
+
+Repeal the paragraph.
+
+## 49  Subsection 22S(2)
+
+Repeal the subsection.
+
+As at 3 February 2010 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -2365,7 +2362,7 @@ _Wool International Amendment Act 1997 (No. 108, 1997)_
 
                      (a)  ceases, on the commencement of this Part, to be a member of Wool International; but
 
-                     (b)  is eligible for re‑appointment.
+                     (b)  is eligible for re-appointment.
 
              (2)  Despite subsection 23(4) of the _Wool International Act 1993_, the 2 members referred to in paragraph 23(1)(d) of that Act who are first appointed after the commencement of this Part are not to be persons nominated by a selection committee constituted under that Act. In appointing them, the Minister must, however, consult with the members of Wool International referred to in paragraphs 23(1)(a), (b) and (c) of that Act.
 
@@ -2402,17 +2399,17 @@ Even though an Act is repealed or amended by this Act, the repeal or amendment i
 
 in relation to any act done or omitted to be done, any state of affairs existing, or any period ending, before the repeal or amendment applies.
 
-Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998‑99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
+Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998-99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
 
-                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998‑99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
+                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998-99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
 
-                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998‑99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
+                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998-99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
 
                    Despite the repeal of sections 160ARU and 160ARV, item 9 will ensure that the general interest charge will accrue on the unpaid franking deficit tax and penalty until they are paid.
 
                    Item 7 will also preserve Greg Ltd’s right, under former section 160ART of that Act, to object against the Commissioner’s amended assessment (including the penalty), since the objection is the exercise of a right in relation to a franking year that ended before the repeal of Part IIIAA.
 
-Example 2: During the 1997‑98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
+Example 2: During the 1997-98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
 
                    Following an audit undertaken after the repeal of those Divisions, the Commissioner discovers that the withheld amounts have not been remitted. The company’s records are incomplete and the Commissioner is unable to completely ascertain the extent of its liability for the withheld amounts. Under section 222AGA of that Act, the Commissioner makes an estimate of the liability.
 
@@ -2449,14 +2446,16 @@ This Schedule does not limit the operation of section 8 of the _Acts Interpret
 _Personal Property Securities (Consequential Amendments) Act 2009 
  (No. 131, 2009)_
 
+The following provision commences on 1 February 2012 or an earlier time determined by the Minister (_see_ section 306 of the _Personal Property Securities Act 2009_):
+
 ## Schedule 5
 
 ## 50  Application of amendments of the _Wool International Act 1993_
 
-(1)       This item applies if immediately before the time item 42 of this Schedule commences, WoolStock Australia Limited had not complied with a request made by a person under paragraph 22L(b) of the _Wool International Act 1993_.
+(1)        This item applies if immediately before the time item 42 of this Schedule commences, WoolStock Australia Limited had not complied with a request made by a person under paragraph 22L(b) of the _Wool International Act 1993_.
 
 _Note:       Item 42 commences at the registration commencement time within the meaning of section 306 of the Personal Property Securities Act 2009._
 
-(2)       The requirement to comply with the request stops applying after the time item 42 of this Schedule commences.
+(2)        The requirement to comply with the request stops applying after the time item 42 of this Schedule commences.
 
  
