@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00349/Html/9549fe34-cc77-498a-9a72-98a0b426336a_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00810/Html/160decc5-3b37-45a5-8d5a-35fec2cbe28d_files/image001.gif)
 
 # Reserve Bank Act 1959
 
 **Act No. 4 of 1959 as amended**
 
-This compilation was prepared on 28 March 2012
+This compilation was prepared on 30 September 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force 
@@ -282,7 +282,9 @@ _Commonwealth Bank Act 1953_.
 
 ##### <a id="6A"></a>6A  Cessation of application to Territory
 
-                   The Treasurer may, by notice published in the _Gazette_, declare that, on a date specified in the notice, this Act shall cease to extend to an external Territory specified in the notice, and, on and after the date specified in such a notice, this Act does not extend to the Territory so specified and a reference in this Act, other than this section, to a Territory does not include a reference to the Territory so specified.
+             (1)  The Treasurer may, by notice published in the _Gazette_, declare that, on a date specified in the notice, this Act shall cease to extend to an external Territory specified in the notice, and, on and after the date specified in such a notice, this Act, other than subsection (2) of this section, does not extend to the Territory so specified and a reference in this Act, other than this section, to a Territory does not include a reference to the Territory so specified.
+
+             (2)  Section 8 of the _Acts Interpretation Act 1901_ applies in relation to a notice published under this section as if the notice were an Act repealing this Act to the extent that, immediately before the date specified in the notice, this Act extended to the Territory specified in the notice.
 
 ##### <a id="6B"></a>6B  Application of _Criminal Code_
 
@@ -1262,7 +1264,7 @@ of Assent</div>
     <div>23 Apr 1959</div>
   </td>
   <td>
-    <div>14 Jan 1960 ( <i>see Gazette</i>1960, p. 47)</div>
+    <div>14 Jan 1960 ( <i>see Gazette</i>1960, p. 47)</div>
   </td>
   <td>
     <div></div>
@@ -1632,8 +1634,7 @@ Remainder: 28 Dec 1989 ( <i>see Gazette</i>1989, No. S383)</div>
     <div>21 Dec 1992</div>
   </td>
   <td>
-    <div>Ss. 2(6) and 
-22–34: Royal Assent <i>(e)</i> 
+    <div>Ss. 2(6) and 22–34: Royal Assent <i>(e)</i> 
 S. 35: 5 Feb 1993 ( <i>see Gazette</i>1993, No. GN4) <i>(e)</i></div>
   </td>
   <td>
@@ -1735,7 +1736,7 @@ Schedule (items 57, 58): <i>(h)</i></div>
     <div>25 Oct 1996</div>
   </td>
   <td>
-    <div>Schedule 4 (items 1, 127): Royal Assent <i>(i)</i></div>
+    <div>Schedule 4 (item 127): Royal Assent <i>(i)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1961,7 +1962,7 @@ Remainder: 18 Jan 2001</div>
   </td>
   <td>
     <div>Ss. 1–3: Royal Assent 
-Remainder: 1 July 2002 ( <i>see</i>s. 2(2) and Gazette 2002, No. GN24)</div>
+Remainder:1 July 2002 ( <i>see</i>s. 2(2) and Gazette 2002, No. GN24)</div>
   </td>
   <td colspan="2">
     <div>—</div>
@@ -1979,7 +1980,7 @@ Remainder: 1 July 2002 ( <i>see</i>s. 2(2) and Gazette 2002, No. GN24)</div>
   </td>
   <td>
     <div>Ss. 1, 2 and Schedule 3 (items 1–27): Royal Assent 
-Remainder: 11 Mar 2002 ( <i>see Gazette</i>2001, No. GN42)</div>
+Remainder: 11 Mar 2002 ( <i>see Gazette</i>2001, No. GN42)</div>
   </td>
   <td>
     <div>—</div>
@@ -2017,10 +2018,10 @@ Remainder: 11 Mar 2002 ( <i>see Gazette</i>2001, No. GN42)</div>
   </td>
   <td>
     <div>Ss. 1–3: Royal Assent 
-Remainder: 1 July 2003 ( <i>see</i>s. 2(1) and <i>Gazette</i>2003, No. S230)</div>
+Remainder: 1 July 2003 ( <i>see</i>s. 2(1) and <i>Gazette</i>2003, No. S230)</div>
   </td>
   <td colspan="2">
-    <div>Sch. 3 \[ <i>see</i>Table A]</div>
+    <div>Sch. 3 \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -2085,7 +2086,7 @@ Remainder: 1 July 2003 ( <i>see</i>s. 2(1) and <i>Gazette</i>2003, No. S23
     <div>29 June 2010</div>
   </td>
   <td>
-    <div>Schedule 4 (item 27): 27 July 2010</div>
+    <div>Schedule 4 (item 27): 27 July 2010</div>
   </td>
   <td colspan="2">
     <div>—</div>
@@ -2102,10 +2103,10 @@ Remainder: 1 July 2003 ( <i>see</i>s. 2(1) and <i>Gazette</i>2003, No. S23
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 991–993) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 991–993) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td colspan="2">
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
+    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
   </td>
 </tr></table>
 
@@ -2149,7 +2150,7 @@ _(h)_     The _Reserve Bank Act 1959_ was amended by sections 3, 20 an
 
          The transfer time occurred on 19 July 1996.
 
-_(i)_      The _Reserve Bank Act 1959_ was amended by Schedule 4 (items 1 and 127) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows:
+_(i)_      The _Reserve Bank Act 1959_ was amended by Schedule 4 (item 127) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
 
@@ -2388,7 +2389,7 @@ _(s)_ Subsection 2(1) (items 2 and 3) of the _Financial System Legislation Ame
     <div></div>
   </td>
   <td>
-    <div>am. No. 166, 1986; No. 46, 2011</div>
+    <div>am. No. 166, 1986</div>
   </td>
 </tr>
 <tr>
@@ -3516,17 +3517,15 @@ _(s)_ Subsection 2(1) (items 2 and 3) of the _Financial System Legislation Ame
     <div></div>
   </td>
   <td>
-    <div>am. No. 107, 1997; No. 54, 1998; No. 160, 2000; Nos. 55, 121 and 122, 2001; No. 105, 2008</div>
+    <div>am. No. 4, 1959; No. 54, 1998; No. 160, 2000; Nos. 55, 121 and 122, 2001; No. 105, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>Note to s. 79A 
-Renumbered Note 1</div>
+    <div>Note to s. 79A</div>
   </td>
   <td>
-    <div>
-No. 44, 1999</div>
+    <div>am. No. 44, 1999</div>
   </td>
 </tr>
 <tr>
@@ -3714,6 +3713,28 @@ No. 44, 1999</div>
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 991  Subsection 6A(1)
+
+Omit “(1)”.
+
+## 992  Subsection 6A(1)
+
+Omit “, other than subsection (2) of this section,”.
+
+## 993  Subsection 6A(2)
+
+Repeal the subsection.
+
+As at 30 September 2011 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -3801,7 +3822,7 @@ the money must be transferred from that account to the component of the Reserved
 
 (4)       Money in the old Trust Fund immediately before the commencement of this Schedule (other than money covered by subitem (2)) must be transferred to components of the Reserved Money Fund and Commercial Activities Fund that are established by determinations under subsections 20(2) and 21(2) of the _Financial Management and Accountability Act 1997_.
 
-(5)       The disallowance rules in section 22 of the _Financial Management and Accountability Act 1997_ do not apply to an original determination made for the purposes of subitem (4) of this item. However, the disallowance rules do apply to any revocation or variation of an original determination.
+(5)       The disallowance rules in section 22 of the Financial Management and Accountability Act 1997 do not apply to an original determination made for the purposes of subitem (4) of this item. However, the disallowance rules do apply to any revocation or variation of an original determination.
 
 (6)       The old Loan Fund and the old Trust Fund are appropriated for the purposes of this item.
 
@@ -3963,7 +3984,7 @@ In this Part:
 
 _Note:       This provision affects the calculation of late payment penalty (if any) under section 10 of the Collection Act._
 
-## 3  No retrospective criminal liability
+## 3  No retrospective criminal liability
 
 Nothing in this Part or the Validation Acts is taken to make a person criminally liable in respect of acts or omissions of the person before the day on which this Part commences, if the person would not have been so liable had this Part and the Validation Acts not been enacted.
 
@@ -4083,6 +4104,8 @@ An approval in force, immediately before the commencement of the amendments, und
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
