@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00207/Html/IndCheNotAss1989_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00526/Html/IndCheNotAss1989_WD02_image001.gif)
 
 # Industrial Chemicals (Notification and Assessment) Act 1989
 
 **Act No. 8 of 1990 as amended**
 
-This compilation was prepared on 3 March 2010
- taking into account amendments up to Act No. 8 of 2010
+This compilation was prepared on 20 November 2009
+ taking into account amendments up to Act No. 111 of 2009
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -1202,7 +1202,7 @@ but does not include a substance or mixture of substances of a kind that is decl
 
              (2)  The value of relevant industrial chemicals imported by a person during a particular period (whether a financial year or a registration year) is the amount, worked out to the nearest whole dollar, using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00207/Html/IndCheNotAss1989_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00526/Html/IndCheNotAss1989_WD02_image002.gif)
 
 where:
 
@@ -3934,7 +3934,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                    The giving of information about a chemical with an application for its assessment or in compliance with a notice under section 58 may be accompanied by an application in the approved form that some or all of the information about the chemical be treated as exempt information under section 75.
 
-##### <a id="60A"></a>60A  Nature of assessment
+##### <a id="60A"></a>60A  Nature of assessment
 
              (1)  The officer preparing the report of the preliminary assessment of a priority existing chemical must determine the significance, for the making of a determination described in subsection (2) in relation to that chemical, of each of the matters required to be taken into account by the notice declaring the chemical as a priority existing chemical.
 
@@ -5232,7 +5232,7 @@ Note:          An Appropriation Act provides for amounts to be
 
                     <a name="convent"></a>**_Convention_** means the Rotterdam Convention on the Prior Informed Consent Procedure for Certain Hazardous Chemicals and Pesticides in International Trade, done at Rotterdam on 10 September 1998, as amended by any amendment of the Convention that has entered into force for Australia.
 
-Note:          The text of the Convention is set out in Selected Documents on International Affairs Series 1998 No. 4619\. In 2004 this was available in the Australian Treaties Library of the Department of Foreign Affairs and Trade, accessible through that Department’s website.
+Note:          The text of the Convention is set out in Selected Documents on International Affairs Series 1998 No. 4619\. In 2004 this was available in the Australian Treaties Library of the Department of Foreign Affairs and Trade, accessible on the Internet through that Department’s world-wide web site.
 
                    If the Convention enters into force for Australia, the text of the Convention may be set out in the Australian Treaty Series (also available in that Library).
 
@@ -6402,23 +6402,6 @@ Remainder: Royal Assent</div>
   </td>
   <td colspan="2">
     <div>Sch. 1 (item 22) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2010</div>
-  </td>
-  <td>
-    <div>8, 2010</div>
-  </td>
-  <td>
-    <div>1 Mar 2010</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 5 (item 61): Royal Assent</div>
-  </td>
-  <td colspan="2">
-    <div>—</div>
   </td>
 </tr>
 <tr height="0">
@@ -9271,14 +9254,6 @@ Div. 5 of Part 3</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Division 2</b></div>
   </td>
   <td>
@@ -9558,7 +9533,7 @@ the amendment of the first-mentioned provision by this Schedule does not affect 
 
 * * *
 
-_Australia New   Zealand Food Authority Amendment Act 2001 (No. 81, 2001)_
+_Australia New   Zealand Food Authority Amendment Act 2001 (No. 81, 2001)_
 
            2(6)  In this section:
 
@@ -9566,7 +9541,7 @@ _Australia New   Zealand Food Authority Amendment Act 2001 (No. 81, 2001)_
 
 * * *
 
-_Employment, Workplace Relations and Small Business Legislation Amendment (Application of Criminal Code) Act 2001 (No. 142, 2001)_
+_Employment, Workplace Relations and Small Business Legislation Amendment (Application of Criminal Code) Act 2001 (No. 142, 2001)_
 
 ## 4  Application of amendments
 
