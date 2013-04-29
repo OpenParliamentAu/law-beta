@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00562/Html/cb7c11d8-f5cd-41ee-9a57-2b56bdc9f8b8_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00037/Html/9530bfb6-8bfa-41a5-a890-5a07ad612516_files/image001.gif)
 
 # Admiralty Act 1988
 
 **Act No. 34 of 1988 as amended**
 
-This compilation was prepared on 22 July 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 2 February 2010
+ taking into account amendments up to Act No. 131 of 2009
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -468,7 +468,7 @@ the other ship is, in relation to the claim, a surrogate ship.
 
                      (d)  master’s disbursements.
 
-##### <a id="16"></a>16  Right to proceed _in rem_ on proprietary maritime claims
+##### <a id="16"></a>16  Right to proceed _in rem_ on proprietary maritime claims
 
                    A proceeding on a proprietary maritime claim concerning a ship or other property may be commenced as an action _in rem_ against the ship or property.
 
@@ -586,7 +586,7 @@ Note:          For the Convention on the Law of the Sea see the 
 
                    A proceeding under this Act on a maritime claim referred to in paragraph 4(3)(b) shall not be brought otherwise than in accordance with paragraphs 1 and 3 of Article IX of the Civil Liability Convention, whether or not the proceeding also relates to a maritime claim or to a maritime lien or other charge.
 
-##### <a id="26A"></a>26A  Proceedings in accordance with the Bunker Oil Convention
+##### <a id="26A"></a>26A  Proceedings in accordance with the Bunker Oil Convention
 
              (1)  A proceeding under this Act on a maritime claim referred to in paragraph 4(3)(ba) must not be brought otherwise than in accordance with paragraphs 1 and 2 of Article 9 of the Bunker Oil Convention, whether or not the proceeding also relates to another maritime claim or to a maritime lien or other charge.
 
@@ -1248,23 +1248,6 @@ of Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 35) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 3 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11)</div>
-  </td>
 </tr></table>
 
 ## Table of Amendments
@@ -1408,21 +1391,7 @@ The following amendment commences on 1 February 2012 or an earlier time determin
 
 After “59”, insert “or 59A”.
 
-As at 22 July 2011 the amendment is not incorporated in this compilation.
-
-### Note 3
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendment commences on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 35  Subsection 41(5)
-
-Repeal the subsection.
-
-As at 22 July 2011 the amendment is not incorporated in this compilation.
+As at 2 February 2010 the amendment is not incorporated in this compilation.
 
 ## Table A
 
@@ -1444,21 +1413,5 @@ The amendments of sections 27 and 28 of the _Admiralty Act 1988_ made by this 
 ## 8  Application of amendment of section 41
 
 The amendment of section 41 of the _Admiralty Act 1988_ made by this Schedule applies in relation to matters arising before, on or after the commencement of this Schedule.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
