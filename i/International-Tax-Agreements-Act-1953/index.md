@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00749/Html/IntTaxAgrAct53Vol1_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00250/Html/IntTaxAgrAct53Vol1_WD02_image001.gif)
 
 # International Tax Agreements Act 1953
 
 **Act No. 82 of 1953 as amended**
 
-This compilation was prepared on 11 November 2010
- taking into account amendments up to Act No. 115 of 2010
+This compilation was prepared on 25 March 2010
+ taking into account amendments up to Act No. 13 of 2010
 
 **Volume 1** includes:       Sections 1–24
                                      Schedules 1–24
@@ -62,9 +62,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [7](#7).            Agreement with Singapore
 
-[7A](#7A).         First protocol with Singapore
-
-[7B](#7B).         Second protocol with Singapore
+[7A](#7A).         Protocol with Singapore
 
 [8](#8).            Convention with Japan
 
@@ -206,8 +204,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Schedule 5A—Protocol amending the Agreement between the Government of the Commonwealth of Australia and the Government of the Republic of Singapore for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with respect to Taxes on Income** 
 
-**Schedule 5B—The Second Singapore protocol** 
-
 **Schedule 6—Convention between Australia and Japan for the avoidance of double taxation and the prevention of fiscal evasion with respect to taxes on income** 
 
 **Schedule 8—Agreement between the Government of the Commonwealth of Australia and the Government of Italy for the Avoidance of Double Taxation of Income derived from International Air Transport** 
@@ -320,7 +316,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="agreem"></a><a name="united-kingdom"></a><a name="1946"></a>**_the 1946_****_United Kingdom_****_agreement_** means the Agreement between the Government of Australia and the Government of the United Kingdom for the avoidance of double taxation and the prevention of fiscal evasion with respect to taxes on income that was signed at London on 29 October 1946.
 
-                    <a name="agreem"></a><a name="new-zealand"></a><a name="1960"></a>**_the 1960_****_New Zealand_****_agreement_** means the Agreement between the Government of Australia and the Government of New Zealand for the avoidance of double taxation and the prevention of fiscal evasion with respect to taxes on income that was signed at Canberra on 12 May 1960.
+                    <a name="agreem"></a><a name="new-zealand"></a><a name="1960"></a>**_the 1960_****_New Zealand_****_agreement_** means the Agreement between the Government of Australia and the Government of New Zealand for the avoidance of double taxation and the prevention of fiscal evasion with respect to taxes on income that was signed at   Canberra on 12 May 1960.
 
                     <a name="agreem"></a><a name="united-kingdom"></a><a name="1967"></a>**_the 1967_****_United Kingdom_****_agreement_** means the Agreement between the Government of the Commonwealth of Australia and the Government of the United Kingdom of Great Britain and Northern Ireland for the avoidance of double taxation and the prevention of fiscal evasion with respect to taxes on income and capital gains that was signed at Canberra on 7 December 1967.
 
@@ -388,8 +384,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="first-malaysian-protocol"></a>**_the first Malaysian protocol_** means the Protocol, signed 2 August 1999, amending the Agreement between Australia and Malaysia for the avoidance of double taxation and the prevention of fiscal evasion with respect to taxes on income, being the protocol a copy of which in the English language is set out in Schedule 16A.
 
-                    <a name="first-singapor-protocol"></a>**_the first Singapore protocol_** means the Protocol amending the Agreement between the Government of the Commonwealth of Australia and the Government of the Republic of Singapore for the avoidance of double taxation and the prevention of fiscal evasion with respect to taxes on income, being the protocol a copy of which is set out in Schedule 5A.
-
                     <a name="german-agreem"></a>**_the German agreement_** means the Agreement between the Government of Australia and the Government of the Federal Republic of Germany for the avoidance of double taxation and the prevention of fiscal evasion with respect to taxes on income and capital and to certain other taxes and the protocol to that agreement, being the agreement and protocol a copy of each of which in the English language is set out in Schedule 9.
 
                     <a name="greek-airlin-profit-agreem"></a>**_the Greek airline profits agreement_** means the Agreement between the Government of Australia and the Government of the Hellenic  Republic for the avoidance of double taxation of income derived from international air transport, being the agreement a copy of which is set out in the English language in Schedule 12.
@@ -442,9 +436,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="protocol"></a><a name="netherland"></a><a name="second"></a>**_the second_****_Netherlands_****_protocol_** means the protocol a copy of which in the English language is set out in Schedule 10A, being the Second Protocol amending the Agreement between Australia and the Kingdom of the Netherlands for the avoidance of double taxation and the prevention of fiscal evasion with respect to tax on income with Protocol.
 
-                    <a name="second-singapor-protocol"></a>**_the second Singapore protocol_** means the Protocol, signed 8 September 2009, amending the Agreement between the Government of the Commonwealth of Australia and the Government of the Republic of Singapore for the avoidance of double taxation and the prevention of fiscal evasion with respect to taxes on income, being the protocol a copy of which is set out in Schedule 5B.
+                    <a name="agreem"></a><a name="singapor"></a><a name=""></a>**_the_****_Singapore_****_agreement_** means the Agreement between the Government of Australia and the Government of the   Republic of Singapore for the avoidance of double taxation and the prevention of fiscal evasion with respect to taxes on income, being the agreement a copy of which is set out in Schedule 5, as amended by the Singapore protocol.
 
-                    <a name="agreem"></a><a name="singapor"></a><a name=""></a>**_the_****_Singapore_****_agreement_** means the Agreement between the Government of Australia and the Government of the Republic of Singapore for the avoidance of double taxation and the prevention of fiscal evasion with respect to taxes on income, being the agreement a copy of which is set out in Schedule 5, as amended by the first Singapore protocol and the second Singapore protocol.
+                    <a name="protocol"></a><a name="singapor"></a><a name=""></a>**_the_****_Singapore_****_protocol_** means the Protocol amending the Agreement between the Government of the Commonwealth of Australia and the Government of the Republic of Singapore for the avoidance of double taxation and the prevention of fiscal evasion with respect to taxes on income, being the protocol a copy of which is set out in Schedule 5A.
 
                     <a name="slovak-agreem"></a>**_the Slovak agreement_** means the Agreement between Australia and the Slovak Republic for the avoidance of double taxation and the prevention of fiscal evasion with respect to taxes on income, being the agreement a copy of which in the English language is set out in Schedule 43.
 
@@ -710,13 +704,9 @@ so far as those provisions affect Australian tax, continue to have the force of 
 
                      (b)  in relation to tax other than withholding tax—in respect of income of the year of income that commences on 1 July 1969, or of a subsequent year of income in relation to which the agreement remains effective.
 
-##### <a id="7A"></a>7A  First protocol with Singapore
+##### <a id="7A"></a>7A  Protocol with Singapore
 
-                   Subject to this Act, on and after the date of entry into force of the first Singapore protocol, the provisions of the protocol, so far as those provisions affect Australian tax, have, and are to be taken to have had, the force of law according to their tenor.
-
-##### <a id="7B"></a>7B  Second protocol with Singapore
-
-                   Subject to this Act, on and after the date of entry into force of the second Singapore protocol, the provisions of the protocol have the force of law according to their tenor.
+                   Subject to this Act, on and after the date of entry into force of the Singapore protocol, the provisions of the protocol, so far as those provisions affect Australian tax, have, and are to be taken to have had, the force of law according to their tenor.
 
 ##### <a id="8"></a>8  Convention with Japan
 
@@ -1331,7 +1321,7 @@ Residence
 
 1       For the purposes of this Convention, a person is a resident of a Contracting State:
 
-         (a)     in the case of the United Kingdom, if the person is a resident of the United Kingdom for the purposes of United Kingdom tax; and
+         (a)     in the case of the United Kingdom, if the person is a resident of the United   Kingdom for the purposes of United Kingdom tax; and
 
          (b)     in the case of Australia, if the person is a resident of Australia for the purposes of Australian tax.
 
@@ -1595,7 +1585,7 @@ Royalties
 
 5       Royalties shall be deemed to arise in a Contracting State when the payer is a resident of that State for the purposes of its tax.  Where, however, the person paying the royalties, whether the person is a resident of a Contracting State or not, has in a Contracting State a permanent establishment in connection with which the liability to pay the royalties was incurred, and the royalties are borne by the permanent establishment, then the royalties shall be deemed to arise in the State in which the permanent establishment is situated.
 
-6       Where, by reason of a special relationship between the payer and the beneficial owner of the royalties, or between both of them and some other person, the amount of the royalties paid or credited exceeds, for whatever reason, the amount which might reasonably have been expected to have been agreed upon by the payer and the beneficial owner in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount.  In such case, the excess paid or credited shall remain taxable according to the laws of each Contracting State, due regard being had to the other provisions of this Convention.
+6       Where, by reason of a special relationship between the payer and the beneficial owner of the royalties, or between both of them and some other person, the amount of the royalties paid or credited exceeds, for whatever reason, the amount which might reasonably have been expected to have been agreed upon by the payer and the beneficial owner in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount.  In such case, the excess paid or credited shall remain taxable according to the laws of each Contracting  State, due regard being had to the other provisions of this Convention.
 
 7       The provisions of this Article shall not apply if it was the main purpose or one of the main purposes of any person concerned with the creation or assignment of the rights in respect of which the royalties are paid to take advantage of this Article by means of that creation or assignment.
 
@@ -1853,7 +1843,7 @@ Termination
 
          DONE in duplicate at Canberra this 21st day of August 2003
 
-FOR THE GOVERNMENT OF                      FOR THE GOVERNMENT OF AUSTRALIA    THE UNITED KINGDOM OF
+FOR THE GOVERNMENT OF                      FOR THE GOVERNMENT OF AUSTRALIA    THE UNITED   KINGDOM OF
 
                                                                       GREAT   BRITAIN AND
 
@@ -2585,7 +2575,7 @@ ARTICLE 22
 
      (b)  in the case of a United States corporation owning at least 10 percent of the voting stock of a company which is a resident of Australia from which it receives dividends in any taxable year, the United States shall also allow as a credit against United States tax the appropriate amount of income tax paid to Australia by that company with respect to the profits out of which such dividends are paid.
 
-Such appropriate amount shall be based upon the amount of income tax paid to Australia. For purposes of applying the United States credit in relation to income tax paid to   Australia the taxes referred to in sub--paragraph (1) (b) and paragraph (2) of Article 2 (Taxes Covered) shall be considered to be income taxes. No provision of this Convention relating to source of income shall apply in determining credits against United States tax for foreign taxes other than those referred to in sub--paragraph (1) (b) and paragraph (2) of Article 2 (Taxes Covered).
+Such appropriate amount shall be based upon the amount of income tax paid to Australia. For purposes of applying the United States credit in relation to income tax paid to Australia the taxes referred to in sub--paragraph (1) (b) and paragraph (2) of Article 2 (Taxes Covered) shall be considered to be income taxes. No provision of this Convention relating to source of income shall apply in determining credits against United States tax for foreign taxes other than those referred to in sub--paragraph (1) (b) and paragraph (2) of Article 2 (Taxes Covered).
 
 (2)   Subject to paragraph (4), United States tax paid under the law of the United States and in accordance with this Convention, other than United States tax imposed in accordance with paragraph (3) of Article 1 (Personal Scope) solely by reason of citizenship or by reason of an election by an individual under United States domestic law to be taxed as a resident of the United States, in respect of income derived from sources in the United States by a person who, under Australian law relating to Australian tax, is a resident of Australia shall be allowed as a credit against Australian tax payable in respect of the income. The credit shall not exceed the amount of Australian tax payable on the income or any class thereof or on income from sources outside Australia. Subject to these general principles, the credit shall be in accordance with the provisions and subject to the limitations of the law of Australia as that law may be in force from time to time.
 
@@ -3076,6 +3066,8 @@ FOR THE GOVERNMENT OF                   �
 PETER COSTELLO                                            J THOMAS SCHIEFFER
 
 \[Signatures omitted]
+
+ 
 
 # Schedule 3—Convention between Australia and Canada for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with respect to Taxes on Income
 
@@ -4620,7 +4612,7 @@ _(ii)_     in respect of other New Zealand tax, for any income year begi
 
 IN WITNESS WHEREOF the undersigned, being duly authorised, have signed this Convention.
 
-DONE at    Paris     this    26<sup>th</sup>          day of         June       2009, in duplicate in the English language.
+DONE at    Paris     this    26<sup>th</sup>          day of         June       2009, in duplicate in the English language.
 
 FOR AUSTRALIA:                                          FOR NEW ZEALAND:
 
@@ -5411,78 +5403,6 @@ NOTE ABOUT RECTIFICATION OF THE SINGAPORE PROTOCOL
 1.      In an exchange of Notes dated 20 October 1989, the Government of Australia and the Government of the Republic of Singapore agreed to regard the text of the Singapore Protocol as rectified _ab initio_ in respect of format errors in Article 11 and Article 15.
 
 2.      These rectifications have been incorporated in the text of the copy of the Protocol that is set out in this Act.
-
-# Schedule 5B—The Second Singapore protocol
-
-_Note:       See section 3._
-
-**Second Protocol amending the Agreement between the Government of the Commonwealth of Australia and the Government of the Republic of Singapore for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with respect to Taxes on Income as amended by the Protocol of 16 October 1989.**
-
-            The Government of Australia and the Government of the Republic of Singapore
-
-            Desiring to amend the Agreement between the Government of the Commonwealth of Australia and the Government of the Republic of Singapore for the avoidance of double taxation and the prevention of fiscal evasion with respect to taxes on income signed at Canberra on 11 February 1969 as amended by the Protocol signed at Canberra on 16 October 1989 (hereinafter referred to as “the Agreement”)
-
-            Have agreed as follows:
-
-ARTICLE I
-
-            Article 19 of the Agreement is omitted and the following Article is substituted:
-
-“ARTICLE 19
-
-1.         The competent authorities of the Contracting States shall exchange such information as is foreseeably relevant for carrying out the provisions of this Agreement or to the administration or enforcement of the domestic laws concerning taxes of every kind and description imposed on behalf of the Contracting States, insofar as the taxation thereunder is not contrary to the Agreement. The exchange of information is not restricted by Articles 1A and 1.
-
-2.         Any information received under paragraph 1 by a Contracting State shall be treated as secret in the same manner as information obtained under the domestic laws of that State and shall be disclosed only to persons or authorities (including courts and administrative bodies) concerned with the assessment or collection of, the enforcement or prosecution in respect of, the determination of appeals in relation to the taxes referred to in paragraph 1, or the oversight of the above. Such persons or authorities shall use the information only for such purposes. They may disclose the information in public court proceedings or in judicial decisions.
-
-3.         In no case shall the provisions of paragraphs 1 and 2 be construed so as to impose on a Contracting State the obligation:
-
-a)         to carry out administrative measures at variance with the laws and administrative practice of that or of the other Contracting State;
-
-b)         to supply information which is not obtainable under the laws or in the normal course of the administration of that or of the other Contracting State;
-
-c)         to supply information which would disclose any trade, business, industrial, commercial or professional secret or trade process, or information, the disclosure of which would be contrary to public policy (ordre public).
-
-4.         If information is requested by a Contracting State in accordance with this Article, the other Contracting State shall use its information gathering measures to obtain the requested information, even though that other State may not need such information for its own tax purposes. The obligation contained in the preceding sentence is subject to the limitations of paragraph 3 but in no case shall such limitations be construed to permit a Contracting State to decline to supply information solely because it has no domestic interest in such information.
-
-5.         In no case shall the provisions of paragraph 3 be construed to permit a Contracting State to decline to supply information solely because the information is held by a bank, other financial institution, nominee or person acting in an agency or a fiduciary capacity or because it relates to ownership interests in a person.”
-
-ARTICLE II
-
-            The Government of Australia and the Government of the Republic of Singapore shall notify each other through the diplomatic channel of the completion of their respective internal procedures required for the bringing into force of this Protocol which shall form an integral part of the Agreement. The Protocol shall enter into force on the thirtieth day after the date of the last notification, and thereupon the Protocol shall have effect.
-
-ARTICLE III
-
-            This Protocol, which shall form an integral part of the Agreement, shall remain in force as long as the Agreement remains in force and shall apply as long as the Agreement itself is applicable.
-
-IN WITNESS WHEREOF, the undersigned, duly authorised thereto, have signed this Protocol.
-
-DONE in duplicate at Canberra, on this eighth day of September 2009.
-
-<table>
-<colgroup>
-  <col width="50%">
-  <col width="50%">
-</colgroup>
-
-<tr>
-  <td>
-    <div><b>For the Government of</b></div>
-    <div><b>Australia:</b></div>
-    <div></div>
-    <div></div>
-    <div>...................................................</div>
-    <div>Senator the Hon Nicholas Sherry</div>
-    <div>Assistant Treasurer</div>
-  </td>
-  <td>
-    <div><b>For the Government of the Republic of Singapore:</b></div>
-    <div></div>
-    <div></div>
-    <div>..............................................</div>
-    <div>HE Albert Chua</div>
-    <div>High Commissioner</div>
-  </td>
-</tr></table>
 
 # Schedule 6—Convention between Australia and Japan for the avoidance of double taxation and the prevention of fiscal evasion with respect to taxes on income
 
@@ -6632,7 +6552,7 @@ of Australia
 
                                                                 Masahiko Koumura
 
-                                                        Minister for Foreign Affairs
+                                                        Minister for Foreign Affairs
 
                                                                          of Japan
 
@@ -9429,6 +9349,8 @@ The Hon. Simon Crean                    �
 
 Minister for Trade                                 Minister for Finance
 
+  
+
 # Schedule 14—Agreement between the Government of Australia and the Government of the Republic of the Philippines for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with respect to Taxes on Income
 
 The Government of Australia and the Government of the Republic of the Philippines,
@@ -11318,6 +11240,8 @@ MARK VAILE                       �
 
 \[Signatures omitted]
 
+#  
+
 # Schedule 16B—second Malaysian protocol
 
 _Note:       See section 3._
@@ -12760,7 +12684,7 @@ ARTICLE 11
 
      (c)  Except as aforesaid, dividends paid by a company which is a resident ofIreland for the purposes of Irish tax, being dividends to which a resident of Australia is beneficially entitled, shall be exempt from any tax in Ireland which is chargeable on dividends.
 
-(3)   A resident of Australia who receives dividends from a company which is a resident of Ireland shall, subject to the provisions of paragraph (4) of this Article and provided he is the beneficial owner of the dividends, be entitled to the tax credit in respect thereof to which an individual resident in Ireland would have been entitled had he received those dividends, and to the payment of any excess of that tax credit over his liability to Irish tax. Any such credit shall be treated for the purposes of Australian tax as assessable income from sources in   Ireland.
+(3)   A resident of Australia who receives dividends from a company which is a resident of Ireland shall, subject to the provisions of paragraph (4) of this Article and provided he is the beneficial owner of the dividends, be entitled to the tax credit in respect thereof to which an individual resident in Ireland would have been entitled had he received those dividends, and to the payment of any excess of that tax credit over his liability to Irish tax. Any such credit shall be treated for the purposes of Australian tax as assessable income from sources in Ireland.
 
 (4)   The provisions of paragraph (3) of this Article shall not apply where the beneficial owner of the dividends (being a company) is, or is associated with, a company which either alone or together with one or more associated companies controls directly or indirectly 10 per cent or more of the voting power in the company paying the dividends. For the purposes of this paragraph two companies shall be deemed to be associated if one controls directly or indirectly more than 50 per cent of the voting power in the other company, or a third company controls more than 50 per cent of the voting power in both of them.
 
@@ -15542,7 +15466,7 @@ ARTICLE 28
 
      (b)  in Malta:
 
-                     in relation to taxes which are levied for the year of assessment beginning on 1 January in the second calendar year following that in which the notice of termination is given and for subsequent years of assessment.
+                     in relation to taxes which are levied for the year of assessment beginning on 1 January in the second calendar year following that in which the notice of termination is given and for subsequent years of assessment.
 
      IN WITNESS WHEREOF the undersigned, duly authorised thereto, have signed this Agreement.
 
