@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00662/Html/bc1a9c44-b8b1-4029-9e34-f52d38e952cc_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00461/Html/6f44b3e5-a066-4f31-a8e9-5c291117b2ff_files/image001.gif)
 
 # Hearing Services Administration Act 1997
 
 **Act No. 81 of 1997 as amended**
 
-This compilation was prepared on 22 August 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 1 July 2011
+ taking into account amendments up to Act No. 32 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -1028,7 +1028,7 @@ Governor‑General may make regulations for the purposes of this Act.</li>
 
 ##### <a id="46"></a>46  Application of _Criminal Code_
 
-                   Chapter 2 of the _Criminal Code_ applies to all offences against this Act.
+                   Chapter 2 of the _Criminal Code_ applies to all offences against this Act.
 
 ##### <a id="47"></a>47  Treatment of partnerships
 
@@ -1209,7 +1209,7 @@ of Assent</div>
     <div>22 Mar 2011</div>
   </td>
   <td>
-    <div>Schedule 7 (item 71): 19 Apr 2011</div>
+    <div>Schedule 7 (item 71): 19 Apr 2011</div>
   </td>
   <td>
     <div>—</div>
@@ -1230,23 +1230,6 @@ of Assent</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 684) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11)</div>
   </td>
 </tr></table>
 
@@ -1422,20 +1405,6 @@ _(a)_     The _Hearing Services Administration Act 1997_ was amended by 
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendment commences on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 684  Subsection 5(3) (note)
-
-Omit “subsection 46(2) of the _Acts Interpretation Act 1901_”, substitute “subsection 13(3) of the _Legislative Instruments Act 2003_”.
-
-As at 22 August 2011 the amendment is not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -1447,21 +1416,5 @@ _Health and Aged Care Legislation Amendment (Application of Criminal Code) Act 2
              (1)  Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
 
              (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
