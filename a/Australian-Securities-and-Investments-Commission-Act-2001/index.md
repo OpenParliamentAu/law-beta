@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00639/Html/74cebcda-e52f-46da-aa6b-16d0dd1be3f1_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00398/Html/7634f6c6-7aea-4c89-9b2c-df3286d211df_files/image001.gif)
 
 # Australian Securities and Investments Commission Act 2001
 
 **Act No. 51 of 2001 as amended**
 
-This compilation was prepared on 27 June 2012
- taking into account amendments up to Act No. 72 of 2012
+This compilation was prepared on 20 April 2012
+ taking into account amendments up to Act No. 184 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -146,7 +146,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [12DMA Liability of recipient for unsolicited financial services etc](#12DMA Liability of recipient for unsolicited financial services etc).
 
-[12DMB](#12DMB). Assertion of right to payment for unauthorised advertisements
+[12DMB](#12DMB). Assertion of right to payment for unauthorised 
+ advertisements
 
 [12DN](#12DN).    Application of provisions of this Division to information providers
 
@@ -363,18 +364,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [49](#49).          ASIC may cause prosecution to be begun
 
 [50](#50).          ASIC may cause civil proceeding to be begun
-
-    **Division 5A—Audit deficiency notifications and reports**
-
-[50A](#50A).       Application
-
-[50B](#50B).       Notice of audit deficiency
-
-[50C](#50C).       Audit deficiency report
-
-[50D](#50D).       Publication of report
-
-[50E](#50E).        Consultation before publication
 
     **Division 6—Hearings**
 
@@ -816,6 +805,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [235B](#235B).     Annual report
 
+[235BA](#235BA).  Report on auditor independence functions
+
 [235C](#235C).     Procedure
 
         **Subdivision AA—The Office of the AASB**
@@ -1076,14 +1067,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [291](#291).        Application of pre‑hearing conference amendments
 
-**Part 19—Transitional provisions relating to the Corporations Legislation Amendment (Audit Enhancement) Act 2012**
-
-[292](#292).        Definitions
-
-[293](#293).        Amendments made by Part 1 of Schedule 2—final report on auditor independence functions
-
-[294](#294).        Application of amendments made by Parts 2 and 3 of Schedule 2
-
 **Notes** 
 
 ## An Act to provide for the Australian Securities and Investments Commission, a Corporations and Markets Advisory Committee and certain other bodies, and for other purposes
@@ -1202,7 +1185,11 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                     <a name="auasb"></a>**_AUASB_** means the Auditing and Assurance Standards Board.
 
-                    <a name="audit-defici-report"></a>**_audit deficiency report_** has the meaning given by subsection 50C(1).
+                    <a name="auditor-independ-requir"></a>**_auditor independence requirements_** means the auditor independence requirements provided for in:
+
+                     (a)  the Corporations Act; and
+
+                     (b)  the codes of professional conduct.
 
                     <a name="australia"></a>**_Australia_** has a meaning affected by subsection 4(3).
 
@@ -5691,7 +5678,7 @@ Note:          A defendant bears an evidential burden in relat
 
              (5)  Nothing in this section affects the operation of the _Director of Public Prosecutions Act 1983_.
 
-##### <a id="50"></a>50  ASIC may cause civil proceeding to be begun
+##### <a id="50"></a>50  ASIC may cause civil proceeding to be begun
 
                    Where, as a result of an investigation or from a record of an examination (being an investigation or examination conducted under this Part), it appears to ASIC to be in the public interest for a person to begin and carry on a proceeding for:
 
@@ -5706,130 +5693,6 @@ ASIC:
                      (d)  otherwise—may, with the person’s written consent, cause;
 
 such a proceeding to be begun and carried on in the person’s name.
-
-### Division 5A—Audit deficiency notifications and reports
-
-##### <a id="50A"></a>50A  Application
-
-             (1)  This Division applies to an audit deficiency (the **_identified audit deficiency_**) that:
-
-                     (a)  is identified by ASIC in circumstances described in subsection (2) in relation to an audit conducted by an Australian auditor; and
-
-                     (b)  consists of any of the following:
-
-                              (i)  a failure by the auditor to comply with the auditing standards;
-
-                             (ii)  a failure by the auditor to comply with the auditor independence requirements in the Corporations Act;
-
-                            (iii)  a failure by the auditor to comply with any applicable code of professional conduct;
-
-                            (iv)  a failure by the auditor to comply with the provisions of the Corporations Act dealing with the conduct of audits; and
-
-                     (c)  ASIC reasonably believes:
-
-                              (i)  indicates a significant weakness in the Australian auditor’s quality control system; or
-
-                             (ii)  indicates a significant weakness in the conduct of the audit and may be detrimental to the overall quality of the audit.
-
-             (2)  For the purposes of paragraph (1)(a), the circumstances are that the identified audit deficiency is identified by ASIC while exercising its powers or functions:
-
-                     (a)  in relation to audit‑related matters (**_Corporations Act audit requirements_**) under Chapter 2M, Chapter 5C, Part 7.8, Part 9.2 or Part 9.2A of the Corporations Act or under other provisions of that Act that relate to that Chapter or that Part; or
-
-                     (b)  for the purposes of ascertaining compliance with Corporations Act audit requirements; or
-
-                     (c)  in relation to:
-
-                              (i)  an alleged or suspected contravention of Corporations Act audit requirements; or
-
-                             (ii)  an alleged or suspected contravention of a law of the Commonwealth, or of a State or Territory in this jurisdiction, being a contravention that relates to an audit matter and that either concerns the management or affairs of a body corporate or involves fraud or dishonesty and relates to a body corporate; or
-
-                     (d)  for the purposes of an investigation under Division 1 of this Part relating to a contravention referred to in paragraph (c).
-
-##### <a id="50B"></a>50B  Notice of audit deficiency
-
-             (1)  ASIC may, in writing, notify the Australian auditor of the identified audit deficiency.
-
-             (2)  The notice must:
-
-                     (a)  set out:
-
-                              (i)  the identified audit deficiency; and
-
-                             (ii)  any remedial action that ASIC thinks necessary to remedy the deficiency; and
-
-                            (iii)  such other matters in relation to the deficiency as ASIC thinks fit; and
-
-                     (b)  invite the auditor to make written submissions to ASIC, within 6 months, about the deficiency and any remedial action taken, or proposed to be taken, to remedy the deficiency.
-
-##### <a id="50C"></a>50C  Audit deficiency report
-
-             (1)  At any time after the end of the 6 month period, ASIC may prepare an **_audit deficiency report_** if ASIC is satisfied that the Australian auditor has not taken appropriate remedial action to remedy the identified audit deficiency.
-
-             (2)  The report must set out:
-
-                     (a)  the identified audit deficiency; and
-
-                     (b)  the remedial action that ASIC thinks necessary to remedy the deficiency; and
-
-                     (c)  if the auditor has taken remedial action to remedy the deficiency—details of the remedial action; and
-
-                     (d)  if the auditor has not taken any remedial action—that fact; and
-
-                     (e)  such other matters in relation to the deficiency as ASIC thinks fit.
-
-             (3)  Before preparing the report, ASIC must take into account:
-
-                     (a)  any submissions received from the auditor in response to an invitation under paragraph 50B(2)(b); and
-
-                     (b)  whether or not the auditor has taken any remedial action to remedy the deficiency.
-
-             (4)  The report is not a legislative instrument.
-
-##### <a id="50D"></a>50D  Publication of report
-
-             (1)  Subject to subsection (2) and section 50E, ASIC may, if it considers it appropriate to do so, publish the report on its website.
-
-             (2)  If ASIC publishes the report on its website, the report:
-
-                     (a)  if the audit to which the report relates was conducted by an audit firm or audit company:
-
-                              (i)  may disclose identifying particulars of the audit firm or audit company; but
-
-                             (ii)  must not disclose identifying particulars of any professional member of the audit team involved in the audit; and
-
-                     (b)  if the audit to which the report relates was conducted by an individual auditor who did not act on behalf of an audit firm or audit company:
-
-                              (i)  may disclose identifying particulars of the auditor; but
-
-                             (ii)  must not disclose identifying particulars of any other professional member of the audit team involved in the audit; and
-
-                     (c)  must not disclose identifying particulars of the audited body.
-
-             (3)  In this section:
-
-                    <a name="identifying-particular"></a>**_identifying particulars_**:
-
-                     (a)  in relation to an audit firm, an audit company, an individual auditor referred to in paragraph (2)(b) or an audited body, means:
-
-                              (i)  the name, or a business name, of the firm, company, auditor or body; or
-
-                             (ii)  any other particulars that would enable the firm, company, auditor or body to be identified; or
-
-                     (b)  in relation to a professional member of an audit team (other than an individual auditor referred to in paragraph (2)(b)), means:
-
-                              (i)  the name of the member; or
-
-                             (ii)  any other particulars that would enable the member to be identified.
-
-##### <a id="50E"></a>50E  Consultation before publication
-
-             (1)  Before publishing the report on its website, ASIC must:
-
-                     (a)  give a copy of the report to the Australian auditor to which the report relates; and
-
-                     (b)  invite the Australian auditor to give ASIC comments on the report within 21 days.
-
-             (2)  The report as published must include any comments received in response to the invitation in a separate part of the report.
 
 ### Division 6—Hearings
 
@@ -6973,7 +6836,7 @@ is not capable of being retired from office on the ground of invalidity (within 
 
 ##### <a id="122"></a>122  Staff seconded to ASIC
 
-                   In addition to the other staff members, officers and employees of Agencies (within the meaning of the _Public Service Act 1999_), and of authorities of the Commonwealth, whose services are made available to ASIC in connection with the performance or exercise of any of its functions or powers are to assist ASIC.
+                   In addition to the other staff members, officers and employees of Agencies (within the meaning of the _Public Service Act 1999_), and of authorities of the Commonwealth, whose services are made available to ASIC in connection with the performance or exercise of any of its functions or powers are to assist ASIC.
 
 ## Part 7—Preventing conflicts of interest and misuse of information
 
@@ -7088,38 +6951,6 @@ is required to consider a matter in which the person has a direct or indirect pe
           (2B)  Disclosing information to a Royal Commission (within the meaning of the _Royal Commissions Act 1902_) is authorised use and disclosure of the information.
 
           (2C)  The Chairperson may impose conditions to be complied with in relation to information disclosed under subsection (2B).
-
-          (2D)  If the Chairperson is satisfied that:
-
-                     (a)  information is obtained by ASIC in circumstances described in subsection (2E); and
-
-                     (b)  the information is:
-
-                              (i)  about how an audit of a company, registered scheme or disclosing entity was conducted by an Australian auditor; or
-
-                             (ii)  about the company’s, scheme’s or entity’s compliance with the requirements in Chapter 2M of the Corporations Act to prepare financial statements and reports, or with the continuous disclosure requirements of sections 674 and 675 of the Corporations Act; and
-
-                     (c)  the information should be disclosed to the company, to the responsible entity of the registered scheme, or to the disclosing entity, in order to assist the company, scheme or entity to properly manage its affairs;
-
-the disclosure of the information, by a person (the **_authorised person_**) whom the Chairperson authorises for the purpose, is taken to be authorised use and disclosure of the information if the information is disclosed to the directors, the audit committee, or a senior manager, of the company, responsible entity or disclosing entity.
-
-          (2E)  For the purposes of paragraph (2D)(a), the circumstances are that the information is obtained by ASIC while exercising its powers or functions:
-
-                     (a)  in relation to audit‑related matters (**_Corporations Act audit requirements_**) under Chapter 2M, Chapter 5C, Part 7.8, Part 9.2 or Part 9.2A of the Corporations Act or under other provisions of that Act that relate to that Chapter or that Part; or
-
-                     (b)  for the purposes of ascertaining compliance with Corporations Act audit requirements; or
-
-                     (c)  in relation to:
-
-                              (i)  an alleged or suspected contravention of Corporations Act audit requirements; or
-
-                             (ii)  an alleged or suspected contravention of a law of the Commonwealth, or of a State or Territory in this jurisdiction, being a contravention that relates to an audit matter and that either concerns the management or affairs of a body corporate or involves fraud or dishonesty and relates to a body corporate; or
-
-                     (d)  for the purposes of an investigation under Division 1 of Part 3 of this Act relating to a contravention referred to in paragraph (c).
-
-           (2F)  The authorised person must not disclose information about how an audit of a company, registered scheme or disclosing entity was conducted by an Australian auditor unless, at least 7 days before disclosing the information, the authorised person notifies the Australian auditor of the proposed disclosure.
-
-          (2G)  If the authorised person discloses information only to a senior manager of the company, responsible entity or disclosing entity, the authorised person must, as soon as possible after making the disclosure, provide a copy of the disclosure to the directors and audit committee of the company, responsible entity or disclosing entity.
 
              (3)  For the purposes of subsection (1), the disclosure of information by a person for the purposes of:
 
@@ -7997,7 +7828,7 @@ Note:          A defendant bears an evidential burden in relat
 
                    Subject to this Act, the Chairperson, the Deputy Chairperson and each other member holds office for such term of at most 3 years as is specified in the instrument of his or her appointment, but is eligible for re‑appointment.
 
-##### <a id="206"></a>206  Resignation from office
+##### <a id="206"></a>206  Resignation from office
 
                    A person may resign his or her office as Chairperson, Deputy Chairperson or member by writing signed and delivered to the Minister.
 
@@ -8529,9 +8360,11 @@ Functions generally
 
                      (b)  to provide broad oversight of the processes for setting auditing standards in Australia; and
 
-                     (d)  to give the Minister reports and advice about the matters referred to in paragraphs (a) and (b); and
+                     (c)  to monitor the effectiveness of auditor independence requirements in Australia; and
 
-                     (e)  the functions specified in subsections (2) (specific accounting standards functions), (2A) (specific auditing standards functions) and (2B) (specific auditor quality functions); and
+                     (d)  to give the Minister reports and advice about the matters referred to in paragraphs (a), (b) and (c); and
+
+                     (e)  the functions specified in subsections (2) (specific accounting standards functions), (2A) (specific auditing standards functions) and (2B) (specific auditor independence functions); and
 
                       (f)  to establish appropriate consultative mechanisms; and
 
@@ -8609,41 +8442,37 @@ Specific auditing standards functions
 
                              (ii)  the effectiveness of the consultative arrangements used by the AUASB.
 
-Specific auditor quality functions
+Specific auditor independence functions
 
-          (2B)  The FRC functions include giving strategic policy advice and reports, to the Minister and professional accounting bodies, in relation to the quality of audits conducted by Australian auditors.
+          (2B)  The FRC functions include:
 
-          (2C)  Without limiting subsection (2B), the FRC functions also include giving strategic policy advice and reports, to the Minister and professional accounting bodies, in relation to any of the following:
+                     (a)  monitoring and assessing the nature and overall adequacy of:
 
-                     (a)  the systems and processes used by Australian auditors to comply with:
+                              (i)  the systems and processes used by Australian auditors to ensure compliance with auditor independence requirements; and
 
-                              (i)  the provisions of the Corporations Act dealing with the conduct of audits; and
+                             (ii)  the systems and processes used by professional accounting bodies for planning and performing quality assurance reviews of audit work undertaken by Australian auditors to the extent to which those reviews relate to auditor independence requirements; and
 
-                             (ii)  the auditing standards; and
+                            (iii)  the action that Australian auditors who have been subject to such quality assurance reviews have taken in response to the reports prepared as a result of those reviews; and
 
-                            (iii)  applicable codes of professional conduct;
+                            (iv)  the action taken by professional accounting bodies to ensure that Australian auditors who have been subject to such quality assurance reviews respond appropriately to the reports prepared as a result of those reviews; and
 
-                     (b)  the systems and processes used by professional accounting bodies for planning and performing quality assurance reviews of audit work undertaken by Australian auditors;
+                             (v)  the investigation and disciplinary procedures of professional accounting bodies as those procedures apply to Australian auditors; and
 
-                     (c)  the action that Australian auditors who have been subject to such quality assurance reviews have taken in response to the reports prepared as a result of those reviews;
+                     (b)  monitoring the overall compliance by companies, registered schemes and disclosing entities with the audit‑related disclosure requirements of the Corporations Act and the accounting standards; and
 
-                     (d)  the action taken by professional accounting bodies to ensure that Australian auditors who have been subject to such quality assurance reviews respond appropriately to the reports prepared as a result of those reviews;
+                     (c)  giving the Minister reports and advice about the matters referred to in paragraphs (a) and (b); and
 
-                     (e)  the investigation and disciplinary procedures of professional accounting bodies as those procedures apply to Australian auditors;
+                     (d)  giving professional accounting bodies reports and advice about the matters referred to in subparagraphs (a)(ii), (iii), (iv) and (v); and
 
-                      (f)  the adequacy of:
+                     (e)  monitoring international developments in auditor independence, assessing the adequacy of the Australian auditor independence requirements provided for in:
 
-                              (i)  the provisions of the Corporations Act dealing with the conduct of audits; and
+                              (i)  the Corporations Act; and
 
-                             (ii)  the auditing standards; and
+                             (ii)  codes of professional conduct;
 
-                            (iii)  applicable codes of professional conduct;
+                            in the light of those developments and giving the Minister, and professional accounting bodies, reports and advice on any additional measures needed to enhance the independence of Australian auditors; and
 
-                            in light of international developments in relation to audit quality;
-
-                     (g)  the teaching of professional and business ethics by, or on behalf of, professional accounting bodies to the extent to which the teaching of those subjects relates to audit quality.
-
-          (2D)  A report under subsection (2B) or (2C) is not a legislative instrument.
+                      (f)  promoting, and monitoring the adequacy of, the teaching of professional and business ethics by, or on behalf of, professional accounting bodies to the extent to which the teaching of those subjects relates to auditor independence.
 
 Powers
 
@@ -8683,19 +8512,37 @@ Restriction on powers
 
              (4)  A person has qualified privilege in respect of a disclosure made by the person, on behalf of a professional accounting body, in response to a notice given to the professional body under subsection (1).
 
-             (7)  The notice under subsection (1) must specify:
+             (5)  The Chair of the FRC, acting on behalf of the FRC, may give an Australian auditor a written notice requiring the auditor to give the FRC information about, or documents or copies of documents that relate to, one or more of the following:
 
-                     (a)  the information or documents the professional accounting body must give; and
+                     (a)  one or more audits conducted by the auditor or in which the auditor participated;
 
-                     (b)  the period within which the body must give the information or documents.
+                     (b)  the measures the auditor adopted, or the procedures the auditor put in place, to ensure that the auditor was, and continues to be, independent of entities it audits;
+
+                     (c)  any other matter prescribed by the regulations for the purposes of this paragraph.
+
+Without limiting this, the documents may be audit working papers.
+
+Note:          A person responding to a notice under this subsection has qualified privilege in respect of the response (see section 1289 of the Corporations Act).
+
+             (6)  Without limiting subsection (5), the notice:
+
+                     (a)  may require the Australian auditor to give the FRC information or a document even if doing so would involve a breach of an obligation of confidentiality that the auditor owes an audited body; and
+
+                     (b)  may require that a copy of a document to be given to the FRC must be certified by a particular person or a person holding a particular office or position.
+
+             (7)  The notice under subsection (1) or (5) must specify:
+
+                     (a)  the information or documents the professional accounting body or Australian auditor must give; and
+
+                     (b)  the period within which the body or auditor must give the information or documents.
 
 The period specified under paragraph (b) must be not less than 28 days after the day on which the notice is given.
 
-             (8)  The Chair of the FRC, acting on behalf of the FRC, may, by written notice to the professional accounting body, extend the period within which the body must give the information or documents.
+             (8)  The Chair of the FRC, acting on behalf of the FRC, may, by written notice to the professional accounting body or Australian auditor, extend the period within which the body or auditor must give the information or documents.
 
              (9)  A person commits an offence if:
 
-                     (a)  the Chair of the FRC gives the person notice under subsection (1); and
+                     (a)  the Chair of the FRC gives the person notice under subsection (1) or (5); and
 
                      (b)  the person does not comply with the notice.
 
@@ -8704,6 +8551,28 @@ The period specified under paragraph (b) must be not less than 28 days after
            (10)  An offence against subsection (9) is an offence of strict liability.
 
 Note:          For **_strict liability_** see section 6.1 of the _Criminal Code_.
+
+           (11)  A person commits an offence if:
+
+                     (a)  the Chair of the FRC gives a firm a notice under subsection (5); and
+
+                     (b)  the person is a member of the firm when the notice is given; and
+
+                     (c)  the notice is not complied with.
+
+                    Penalty:  10 penalty units.
+
+           (12)  An offence against subsection (11) is an offence of strict liability.
+
+Note:          For **_strict liability_** see section 6.1 of the _Criminal Code_.
+
+           (13)  A member of a firm does not commit an offence at a particular time because of a contravention of subsection (11) if the member either:
+
+                     (a)  does not know at that time that the Chair of the FRC has given the firm the notice under subsection (5); or
+
+                     (b)  knows that the Chair of the FRC has given the firm the notice under subsection (5) at that time but takes all reasonable steps to ensure that the notice is complied with as soon as possible after the member becomes aware of those circumstances.
+
+Note:          A defendant bears an evidential burden in relation to the matters in this subsection, see subsection 13.3(3) of the _Criminal Code_.
 
 #### Subdivision B—The Australian Accounting Standards Board and the Office of the Australian Accounting Standards Board
 
@@ -8953,7 +8822,7 @@ Purposes or objects of particular standard
 
 ##### <a id="234C"></a>234C  FRC views
 
-                   In performing its functions, the AUASB must follow the broad strategic direction determined by the FRC under paragraph 225(2A)(c).
+                   In performing its functions, the AUASB must follow the broad strategic direction determined by the FRC under paragraph 225(2A)(c).
 
 ##### <a id="234D"></a>234D  International auditing standards
 
@@ -8994,6 +8863,22 @@ during the year that ended on 30 June in that year.
              (3)  The Minister may grant an extension of time in special circumstances.
 
              (4)  The Minister must table the report in each House of the Parliament as soon as practicable.
+
+##### <a id="235BA"></a>235BA  Report on auditor independence functions
+
+             (1)  As soon as practicable after 30 June in each year, and in any event before 31 October, the FRC must give the Minister a report on:
+
+                     (a)  the performance by the FRC, during the year that ended on 30 June in that year, of its functions under subsection 225(2B) (the auditor independence functions); and
+
+                     (b)  the findings and conclusions that the FRC reached in performing those functions; and
+
+                     (c)  the actions (if any) that were taken by the FRC in respect of those findings and conclusions.
+
+The report may be given to the Minister separately or included in the report given to the Minister under section 235B.
+
+             (2)  The Minister may grant an extension of time in special circumstances.
+
+             (3)  The Minister must table the report in each House of the Parliament as soon as practicable.
 
 ##### <a id="235C"></a>235C  Procedure
 
@@ -11127,28 +11012,6 @@ Note:          Instead, an equivalent right or liability will 
 
                    The amendments made by items 7 and 8 of Schedule 2 to the amending Act apply in relation to conferences conducted before, on or after the Schedule 2 commencement.
 
-## Part 19—Transitional provisions relating to the Corporations Legislation Amendment (Audit Enhancement) Act 2012
-
-##### <a id="292"></a>292  Definitions
-
-                   In this Part:
-
-                    <a name="amending-act"></a>**_amending Act_** means the _Corporations Legislation Amendment (Audit Enhancement) Act 2012_.
-
-                    <a name="commenc"></a>**_commencement_** means the commencement of Schedule 2 to the amending Act.
-
-##### <a id="293"></a>293  Amendments made by Part 1 of Schedule 2—final report on auditor independence functions
-
-             (1)  Subject to subsection (2), section 235BA, as in force immediately before commencement, continues (despite its repeal) to apply so as to require a report for the period beginning on 1 July 2011 and ending on commencement, as if that period were a year ending on 30 June.
-
-             (2)  The report referred to in subsection (1) must be included in the report, for the year ending on that 30 June, given to the Minister under section 235B.
-
-##### <a id="294"></a>294  Application of amendments made by Parts 2 and 3 of Schedule 2
-
-             (1)  The amendments made by Part 2 of Schedule 2 to the amending Act apply in relation to audit deficiencies identified by ASIC after commencement.
-
-             (2)  The amendment made by Part 3 of Schedule 2 to the amending Act applies in relation to information obtained by ASIC after commencement.
-
 # Notes to the _Australian Securities and Investments Commission Act 2001_
 
 ### Note 1
@@ -11165,11 +11028,11 @@ For all other relevant information pertaining to application, saving or transiti
 
 <table>
 <colgroup>
-  <col width="30%">
+  <col width="31%">
   <col width="16%">
-  <col width="17%">
+  <col width="18%">
   <col width="21%">
-  <col width="16%">
+  <col width="14%">
 </colgroup>
 
 <thead>
@@ -11255,7 +11118,7 @@ of Assent</div>
     <div>27 Sept 2001</div>
   </td>
   <td>
-    <div>Schedule 1 (items 2–137): 11 Mar 2002 ( <i>see Gazette</i>2001, No. GN42) Schedule 3 (items 1–4): Royal Assent</div>
+    <div>Schedule 1 (items 2–137): 11 Mar 2002 ( <i>see Gazette</i>2001, No. GN42) Schedule 3 (items 1–4): Royal Assent</div>
   </td>
   <td>
     <div>—</div>
@@ -11272,7 +11135,7 @@ of Assent</div>
     <div>27 Sept 2001</div>
   </td>
   <td>
-    <div>Schedule 1 (items 8–215): 11 Mar 2002 ( <i>see</i>s. 2(1), (6) and <i>Gazette</i>2001, No. GN42)</div>
+    <div>Schedule 1 (items 8–215): 11 Mar 2002 ( <i>see</i>s. 2(1), (6) and <i>Gazette</i>2001, No. GN42)</div>
   </td>
   <td>
     <div>—</div>
@@ -11341,7 +11204,7 @@ Schedule 5 (item 2): <i>(b)</i></div>
     <div>1 Oct 2001</div>
   </td>
   <td>
-    <div>Schedule 1 (items 23, 24, 97): 29 Oct 2001</div>
+    <div>Schedule 1 (items 23, 24, 97): 29 Oct 2001</div>
   </td>
   <td>
     <div>Sch. 1 (item 97)</div>
@@ -11358,7 +11221,7 @@ Schedule 5 (item 2): <i>(b)</i></div>
     <div>1 Oct 2001</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1, 1A, 2): 1 Oct 2001</div>
+    <div>Schedule 1 (items 1, 1A, 2): 1 Oct 2001</div>
   </td>
   <td>
     <div>—</div>
@@ -11461,11 +11324,10 @@ Schedule 1 (item 4): <i>(c)</i></div>
     <div>30 June 2004</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1–36, 
-130–175): 1 July 2004 
+    <div>Schedule 1 (items 1–36, 130–175): 1 July 2004 
 Schedule 2 (items 10, 11): 1 Jan 2005 
-Schedule 3 (items 1, 2): 26 July 2004 ( <i>see</i> <i>Gazette</i>2004, No. GN28) 
-Schedule 9 (items 1–6) and Schedule 11 (items 1, 2): <i>(e)</i>Schedule 12 (item 1): Royal Assent</div>
+Schedule 3 (items 1, 2): 26 July 2004 ( <i>see</i> <i>Gazette</i>2004, No. GN28) 
+Schedule 9 (items 1–6) and Schedule 11 (items 1, 2): <i>(e)</i>Schedule 12 (item 1): Royal Assent</div>
   </td>
   <td>
     <div>—</div>
@@ -11499,7 +11361,7 @@ Schedule 9 (items 1–6) and Schedule 11 (items 1, 2): <i>(e)</i>Schedule�
     <div>22 Feb 2005</div>
   </td>
   <td>
-    <div>S. 4 and Schedule 1 (items 96, 496): Royal Assent</div>
+    <div>S. 4 and Schedule 1 (items 96, 496): Royal Assent</div>
   </td>
   <td>
     <div>S. 4 and Sch. 1 (item 496)</div>
@@ -11519,7 +11381,8 @@ Schedule 9 (items 1–6) and Schedule 11 (items 1, 2): <i>(e)</i>Schedule�
     <div>Schedule 5 (items 32, 33) and Schedule 6 (items 5–11): Royal Assent</div>
   </td>
   <td>
-    <div>Sch. 6 (items 5–11)</div>
+    <div>Sch. 6 (items 
+5–11)</div>
   </td>
 </tr>
 <tr>
@@ -11533,7 +11396,7 @@ Schedule 9 (items 1–6) and Schedule 11 (items 1, 2): <i>(e)</i>Schedule�
     <div>12 Dec 2006</div>
   </td>
   <td>
-    <div>Schedule 1 (item 12): 13 Dec 2006 ( <i>see</i>s. 2(1))</div>
+    <div>Schedule 1 (item 12): 13 Dec 2006 ( <i>see</i>s. 2(1))</div>
   </td>
   <td>
     <div>—</div>
@@ -11550,7 +11413,7 @@ Schedule 9 (items 1–6) and Schedule 11 (items 1, 2): <i>(e)</i>Schedule�
     <div>19 Feb 2007</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1–16): 20 Feb 2007</div>
+    <div>Schedule 1 (items 1–16): 20 Feb 2007</div>
   </td>
   <td>
     <div>—</div>
@@ -11567,7 +11430,7 @@ Schedule 9 (items 1–6) and Schedule 11 (items 1, 2): <i>(e)</i>Schedule�
     <div>30 Mar 2007</div>
   </td>
   <td>
-    <div>Schedule 2 (item 8A): 1 Apr 2007 ( <i>see</i>s. 2(1))</div>
+    <div>Schedule 2 (item 8A): 1 Apr 2007 ( <i>see</i>s. 2(1))</div>
   </td>
   <td>
     <div>—</div>
@@ -11584,12 +11447,12 @@ Schedule 9 (items 1–6) and Schedule 11 (items 1, 2): <i>(e)</i>Schedule�
     <div>5 June 2007</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1–12, 
-40–46, 67) and Schedule 2 (items 1–10, 
-14–20): 1 July 2007</div>
+    <div>Schedule 1 (items 1–12, 40–46, 67) and Schedule 2 (items 1–10, 
+14–20): 1 July 2007</div>
   </td>
   <td>
-    <div>Sch. 2 (items 1–10, 
+    <div>Sch. 2 (items 
+1–10, 
 14–20)</div>
   </td>
 </tr>
@@ -11604,7 +11467,7 @@ Schedule 9 (items 1–6) and Schedule 11 (items 1, 2): <i>(e)</i>Schedule�
     <div>20 Aug 2007</div>
   </td>
   <td>
-    <div>Schedule 2 (item 1) and Schedule 5 (items 1, 2): 31 Dec 2007 ( <i>see</i>F2007L03798)</div>
+    <div>Schedule 2 (item 1) and Schedule 5 (items 1, 2): 31 Dec 2007 ( <i>see</i>F2007L03798)</div>
   </td>
   <td>
     <div>—</div>
@@ -11638,7 +11501,7 @@ Schedule 9 (items 1–6) and Schedule 11 (items 1, 2): <i>(e)</i>Schedule�
     <div>24 Sept 2007</div>
   </td>
   <td>
-    <div>Schedule 3 (items 1–4, 9): 25 Sept 2007</div>
+    <div>Schedule 3 (items 1–4, 9): 25 Sept 2007</div>
   </td>
   <td>
     <div>Sch. 3 (item 9)</div>
@@ -11672,7 +11535,7 @@ Schedule 9 (items 1–6) and Schedule 11 (items 1, 2): <i>(e)</i>Schedule�
     <div>25 June 2008</div>
   </td>
   <td>
-    <div>Schedule 2 (items 1, 2): 26 June 2008</div>
+    <div>Schedule 2 (items 1, 2): 26 June 2008</div>
   </td>
   <td>
     <div>—</div>
@@ -11689,7 +11552,7 @@ Schedule 9 (items 1–6) and Schedule 11 (items 1, 2): <i>(e)</i>Schedule�
     <div>25 June 2008</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1, 2): Royal Assent</div>
+    <div>Schedule 1 (items 1, 2): Royal Assent</div>
   </td>
   <td>
     <div>—</div>
@@ -11723,7 +11586,7 @@ Schedule 9 (items 1–6) and Schedule 11 (items 1, 2): <i>(e)</i>Schedule�
     <div>30 Sept 2008</div>
   </td>
   <td>
-    <div>Schedule 2 (item 1): 1 Oct 2008</div>
+    <div>Schedule 2 (item 1): 1 Oct 2008</div>
   </td>
   <td>
     <div>—</div>
@@ -11740,10 +11603,10 @@ Schedule 9 (items 1–6) and Schedule 11 (items 1, 2): <i>(e)</i>Schedule�
     <div>21 Nov 2008</div>
   </td>
   <td>
-    <div>Schedule 3 (items 1–6): 22 Nov 2008</div>
+    <div>Schedule 3 (items 1–6): 22 Nov 2008</div>
   </td>
   <td>
-    <div>Sch. 3 (item 6)</div>
+    <div>Sch. 3 (item 6)</div>
   </td>
 </tr>
 <tr>
@@ -11757,7 +11620,7 @@ Schedule 9 (items 1–6) and Schedule 11 (items 1, 2): <i>(e)</i>Schedule�
     <div>6 Nov 2009</div>
   </td>
   <td>
-    <div>Schedule 2 (items 1–3K): 6 May 2010</div>
+    <div>Schedule 2 (items 1–3K): 6 May 2010</div>
   </td>
   <td>
     <div>—</div>
@@ -11774,7 +11637,7 @@ Schedule 9 (items 1–6) and Schedule 11 (items 1, 2): <i>(e)</i>Schedule�
     <div>15 Dec 2009</div>
   </td>
   <td>
-    <div>Schedule 3 (item 1): 1 Apr 2010 ( <i>see</i>s. 2(1))</div>
+    <div>Schedule 3 (item 1): 1 Apr 2010 ( <i>see</i>s. 2(1))</div>
   </td>
   <td>
     <div>—</div>
@@ -11791,10 +11654,8 @@ Schedule 9 (items 1–6) and Schedule 11 (items 1, 2): <i>(e)</i>Schedule�
     <div>14 Apr 2010</div>
   </td>
   <td>
-    <div>Schedule 3 (items 1A, 1, 3–8, 34, 37, 42, 
-44–55): 1 July 2010 
-Schedule 3 (items 9–14, 
-18–32, 57): 15 Apr 2010</div>
+    <div>Schedule 3 (items 1A, 1, 3–8, 34, 37, 42, 44–55): 1 July 2010 
+Schedule 3 (items 9–14, 18–32, 57): 15 Apr 2010</div>
   </td>
   <td>
     <div>Sch. 3 (item 8)</div>
@@ -11896,7 +11757,7 @@ Schedule 3 (items 9–14,
     <div>28 June 2011</div>
   </td>
   <td>
-    <div>Schedule 1 (items 24, 25): <i>(f)</i></div>
+    <div>Schedule 1 (items 24, 25): <i>(f)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -11966,23 +11827,6 @@ Schedule 1 (item 256A): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>Schedule 2 (item 1): 1 Jan 2012</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Corporations Legislation Amendment (Audit Enhancement) Act 2012</div>
-  </td>
-  <td>
-    <div>72, 2012</div>
-  </td>
-  <td>
-    <div>27 June 2012</div>
-  </td>
-  <td>
-    <div>Schedule 2: Royal Assent</div>
   </td>
   <td>
     <div>—</div>
@@ -12478,7 +12322,7 @@ _(f)_      Subsection 2(1) (item 2) of the _Superannuation Legislation
     <div>S. 5</div>
   </td>
   <td>
-    <div>am. Nos. 122 and 123, 2001; No. 103, 2004; No. 74, 2007; No. 61, 2008; No. 108, 2009; No. 66, 2010; No. 58, 2011; No. 72, 2012</div>
+    <div>am. Nos. 122 and 123, 2001; No. 103, 2004; No. 74, 2007; No. 61, 2008; No. 108, 2009; No. 66, 2010; No. 58, 2011</div>
   </td>
 </tr>
 <tr>
@@ -13993,62 +13837,6 @@ Part 2</div>
 </tr>
 <tr>
   <td>
-    <div><b>Division 5A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 5A of Part 3</div>
-  </td>
-  <td>
-    <div>ad. No. 72, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 50A</div>
-  </td>
-  <td>
-    <div>ad. No. 72, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 50B</div>
-  </td>
-  <td>
-    <div>ad. No. 72, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 50C</div>
-  </td>
-  <td>
-    <div>ad. No. 72, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 50D</div>
-  </td>
-  <td>
-    <div>ad. No. 72, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 50E</div>
-  </td>
-  <td>
-    <div>ad. No. 72, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Division 6</b></div>
   </td>
   <td>
@@ -14404,7 +14192,7 @@ Part 2</div>
     <div>S. 127</div>
   </td>
   <td>
-    <div>am. Nos. 122, 123 and 166, 2001; Nos. 41, 116 and 141, 2003; No. 103, 2004; No. 1, 2007; No. 92, 2008; No. 145, 2010; Nos. 102, 127 and 132, 2011; No. 72, 2012</div>
+    <div>am. Nos. 122, 123 and 166, 2001; Nos. 41, 116 and 141, 2003; No. 103, 2004; No. 1, 2007; No. 92, 2008; No. 145, 2010; Nos. 102, 127 and 132, 2011</div>
   </td>
 </tr>
 <tr>
@@ -15309,7 +15097,7 @@ Div. 1 of Part 12</div>
     <div>S. 225</div>
   </td>
   <td>
-    <div>am. No. 103, 2004; No. 61, 2008; No. 66, 2010; No. 72, 2012</div>
+    <div>am. No. 103, 2004; No. 61, 2008; No. 66, 2010</div>
   </td>
 </tr>
 <tr>
@@ -15318,14 +15106,6 @@ Div. 1 of Part 12</div>
   </td>
   <td>
     <div>ad. No. 103, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 72, 2012</div>
   </td>
 </tr>
 <tr>
@@ -15544,14 +15324,6 @@ Div. 1 of Part 12</div>
   </td>
   <td>
     <div>ad. No. 103, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 72, 2012</div>
   </td>
 </tr>
 <tr>
@@ -16013,46 +15785,6 @@ Part 12</div>
   <td>
     <div>ad. No. 66, 2010</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 19</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 19</div>
-  </td>
-  <td>
-    <div>ad. No. 72, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 292</div>
-  </td>
-  <td>
-    <div>ad. No. 72, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 293</div>
-  </td>
-  <td>
-    <div>ad. No. 72, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 294</div>
-  </td>
-  <td>
-    <div>ad. No. 72, 2012</div>
-  </td>
 </tr></table>
 
 ### Note 2
@@ -16069,7 +15801,7 @@ Add:
 
                     ; (f)  the Climate Change Authority.
 
-As at 27 June 2012 the amendment is not incorporated in this compilation.
+As at 20 April 2012 the amendment is not incorporated in this compilation.
 
 ## Table A
 
