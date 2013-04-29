@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2005C00526/Html/0D40D8A9DE592916CA25705700098B75/$FILE/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00435/Html/407BD95690A708C7CA25703B001933CF/$FILE/image001.gif)
 
 # Disability Discrimination Act 1992
 
 **Act No. 135 of 1992 as amended**
 
-This compilation was prepared on 10 August 2005
+This compilation was prepared on 8 July 2005
 taking into account amendments up to Act No. 86 of 2005
 
 The text of any of those amendments not in force
@@ -33,11 +33,11 @@ Attorney-General’s Department, Canberra
 
 [6](#6).            Indirect disability discrimination                                                         8
 
-[7](#7).            Disability discrimination—palliative and therapeutic devices and auxiliary aids    9
+[7](#7).            Disability discrimination—palliative and therapeutic devices and auxiliary aids    8
 
 [8](#8).            Disability discrimination—interpreters, readers and assistants          9
 
-[9](#9).            Disability discrimination—guide dogs, hearing assistance dogs and trained animals               10
+[9](#9).            Disability discrimination—guide dogs, hearing assistance dogs and trained animals               9
 
 [10](#10).          Act done because of disability and for other reason                          10
 
@@ -73,13 +73,13 @@ Attorney-General’s Department, Canberra
 
 [22](#22).          Education                                                                                           21
 
-[23](#23).          Access to premises                                                                            22
+[23](#23).          Access to premises                                                                            21
 
 [24](#24).          Goods, services and facilities                                                             22
 
 [25](#25).          Accommodation                                                                                 23
 
-[26](#26).          Land                                                                                                   25
+[26](#26).          Land                                                                                                   24
 
 [27](#27).          Clubs and incorporated associations                                                 25
 
@@ -87,137 +87,137 @@ Attorney-General’s Department, Canberra
 
 [29](#29).          Administration of Commonwealth laws and programs                     26
 
-[30](#30).          Requests for information                                                                   27
+[30](#30).          Requests for information                                                                   26
 
 [31](#31).          Disability standards                                                                           27
 
-[32](#32).          Unlawful to contravene disability standards                                     29
+[32](#32).          Unlawful to contravene disability standards                                     28
 
-[33](#33).          Division 5 generally not to apply to disability standards                 29
+[33](#33).          Division 5 generally not to apply to disability standards                 28
 
-[34](#34).          This Part not to apply if person acts in accordance with disability standards       29
+[34](#34).          This Part not to apply if person acts in accordance with disability standards       28
 
     **Division 3—Discrimination involving harassment**
 
-[35](#35).          Harassment in employment                                                               30
+[35](#35).          Harassment in employment                                                               29
 
-[36](#36).          Harassment in employment—associates with disabilities                31
+[36](#36).          Harassment in employment—associates with disabilities                30
 
-[37](#37).          Harassment in education                                                                    32
+[37](#37).          Harassment in education                                                                    31
 
-[38](#38).          Harassment in education—associates with disabilities                     32
+[38](#38).          Harassment in education—associates with disabilities                     31
 
-[39](#39).          Harassment in relation to the provision of goods and services         32
+[39](#39).          Harassment in relation to the provision of goods and services         31
 
-[40](#40).          Harassment in relation to the provision of goods and services—associates with disabilities 32
+[40](#40).          Harassment in relation to the provision of goods and services—associates with disabilities 31
 
     **Division 4—Offences**
 
-[41](#41).          Unlawful act not offence unless expressly so provided                    33
+[41](#41).          Unlawful act not offence unless expressly so provided                    32
 
-[42](#42).          Victimisation                                                                                      33
+[42](#42).          Victimisation                                                                                      32
 
-[43](#43).          Offence to incite doing of unlawful acts or offences                         34
+[43](#43).          Offence to incite doing of unlawful acts or offences                         33
 
-[44](#44).          Advertisements                                                                                  34
+[44](#44).          Advertisements                                                                                  33
 
     **Division 5—Exemptions**
 
-[45](#45).          Special measures                                                                                35
+[45](#45).          Special measures                                                                                34
 
-[46](#46).          Superannuation and insurance                                                           35
+[46](#46).          Superannuation and insurance                                                           34
 
-[47](#47).          Acts done under statutory authority                                                 36
+[47](#47).          Acts done under statutory authority                                                 35
 
-[48](#48).          Infectious diseases                                                                             38
+[48](#48).          Infectious diseases                                                                             36
 
-[49](#49).          Exemption for charities                                                                      38
+[49](#49).          Exemption for charities                                                                      37
 
-[50](#50).          Telecommunications                                                                          38
+[50](#50).          Telecommunications                                                                          37
 
-[51](#51).          Pensions and allowances                                                                    39
+[51](#51).          Pensions and allowances                                                                    38
 
-[52](#52).          Migration                                                                                           39
+[52](#52).          Migration                                                                                           38
 
-[53](#53).          Combat duties and peacekeeping services                                         40
+[53](#53).          Combat duties and peacekeeping services                                         39
 
-[54](#54).          Peacekeeping services by the AFP                                                    40
+[54](#54).          Peacekeeping services by the AFP                                                    39
 
-[55](#55).          Commission may grant exemptions                                                   41
+[55](#55).          Commission may grant exemptions                                                   40
 
-[56](#56).          Review by Administrative Appeals Tribunal                                   42
+[56](#56).          Review by Administrative Appeals Tribunal                                   41
 
-[57](#57).          Notice of decisions to be published                                                   42
+[57](#57).          Notice of decisions to be published                                                   41
 
-[58](#58).          Effect of exemptions                                                                          43
+[58](#58).          Effect of exemptions                                                                          42
 
 **Part 3—Action plans**
 
-[59](#59).          Interpretation                                                                                     44
+[59](#59).          Interpretation                                                                                     43
 
-[60](#60).          Action plans                                                                                      44
+[60](#60).          Action plans                                                                                      43
 
-[61](#61).          Provisions of action plans                                                                 44
+[61](#61).          Provisions of action plans                                                                 43
 
-[62](#62).          Action plans may have other provisions                                           45
+[62](#62).          Action plans may have other provisions                                           44
 
-[63](#63).          Amendment of action plans                                                               45
+[63](#63).          Amendment of action plans                                                               44
 
-[64](#64).          Copy of action plan to be given to Commission                               45
+[64](#64).          Copy of action plan to be given to Commission                               44
 
-[65](#65).          Commission to sell action plans to public                                         45
+[65](#65).          Commission to sell action plans to public                                         44
 
 **Part 4—Functions of Human Rights and Equal Opportunity Commission** 
 
     **Division 1—Preliminary**
 
-[67](#67).          Functions of Human Rights and Equal Opportunity Commission   46
+[67](#67).          Functions of Human Rights and Equal Opportunity Commission   45
 
 **Part 5—Other offences**
 
-[107](#107).        Failure to provide actuarial data or statistical data                            48
+[107](#107).        Failure to provide actuarial data or statistical data                            47
 
 **Part 6—Disability Discrimination Commissioner**
 
-[113](#113).        Disability Discrimination Commissioner                                          49
+[113](#113).        Disability Discrimination Commissioner                                          48
 
-[114](#114).        Terms and conditions of appointment                                              49
+[114](#114).        Terms and conditions of appointment                                              48
 
-[115](#115).        Remuneration of Commissioner                                                        49
+[115](#115).        Remuneration of Commissioner                                                        48
 
-[116](#116).        Leave of absence                                                                                49
+[116](#116).        Leave of absence                                                                                48
 
-[117](#117).        Outside employment                                                                         50
+[117](#117).        Outside employment                                                                         49
 
-[118](#118).        Resignation                                                                                        50
+[118](#118).        Resignation                                                                                        49
 
-[119](#119).        Termination of appointment                                                             50
+[119](#119).        Termination of appointment                                                             49
 
-[120](#120).        Acting Commissioner                                                                        50
+[120](#120).        Acting Commissioner                                                                        49
 
 **Part 7—Miscellaneous**
 
-[121](#121).        Delegation                                                                                          52
+[121](#121).        Delegation                                                                                          51
 
-[122](#122).        Liability of persons involved in unlawful acts                                  52
+[122](#122).        Liability of persons involved in unlawful acts                                  51
 
-[123](#123).        Conduct by directors, servants and agents                                        52
+[123](#123).        Conduct by directors, servants and agents                                        51
 
-[124](#124).        Commonwealth taken to be employer                                               54
+[124](#124).        Commonwealth taken to be employer                                               53
 
-[125](#125).        Unlawful act not basis of civil action unless expressly so provided 54
+[125](#125).        Unlawful act not basis of civil action unless expressly so provided 53
 
-[126](#126).        Protection from civil actions                                                              54
+[126](#126).        Protection from civil actions                                                              53
 
-[127](#127).        Non-disclosure of private information                                              55
+[127](#127).        Non-disclosure of private information                                              54
 
-[128](#128).        Information stored otherwise than in written form                           57
+[128](#128).        Information stored otherwise than in written form                           56
 
-[129](#129).        Commissioner to give information                                                     57
+[129](#129).        Commissioner to give information                                                     56
 
-[131](#131).        Courts to ensure just terms                                                               57
+[131](#131).        Courts to ensure just terms                                                               56
 
-[132](#132).        Regulations                                                                                        57
+[132](#132).        Regulations                                                                                        56
 
 **Notes** 
 
@@ -377,14 +377,6 @@ and includes a disability that:
                     <a name="educ-author"></a>**_educational authority_** means a body or person administering an educational institution.
 
                     <a name="educ-institut"></a>**_educational institution_** means a school, college, university or other institution at which education or training is provided.
-
-                    <a name="educ-provid"></a>**_education provider_** means:
-
-                     (a)  an educational authority; or
-
-                     (b)  an educational institution; or
-
-                     (c)  an organisation whose purpose is to develop or accredit curricula or training courses used by other education providers referred to in paragraph (a) or (b).
 
                     <a name="employ"></a>**_employment_** includes:
 
@@ -836,15 +828,9 @@ the person may be prosecuted and convicted either under that law of the State or
 
                      (c)  by subjecting the student to any other detriment.
 
-          (2A)  It is unlawful for an education provider to discriminate against a person on the ground of the person’s disability or a disability of any of the person’s associates:
-
-                     (a)  by developing curricula or training courses having a content that will either exclude the person from participation, or subject the person to any other detriment; or
-
-                     (b)  by accrediting curricula or training courses having such a content.
-
              (3)  This section does not render it unlawful to discriminate against a person on the ground of the person’s disability in respect of admission to an educational institution established wholly or primarily for students who have a particular disability where the person does not have that particular disability.
 
-             (4)  This section does not make it unlawful for an education provider to discriminate against a person or student as described in subsection (1), (2) or (2A) on the ground of the disability of the person or student or a disability of any associate of the person or student if avoidance of that discrimination would impose an unjustifiable hardship on the education provider concerned.
+             (4)  This section does not render it unlawful to refuse or fail to accept a person’s application for admission as a student at an educational institution where the person, if admitted as a student by the educational authority, would require services or facilities that are not required by students who do not have a disability and the provision of which would impose unjustifiable hardship on the educational authority.
 
 ##### <a id="23"></a>23  Access to premises
 
@@ -1009,12 +995,6 @@ the person may be prosecuted and convicted either under that law of the State or
                      (e)  the administration of Commonwealth laws and programs in respect of persons with a disability; and
 
                       (f)  the access to or the use of any premises, by persons with a disability, that the public or a section of the public is entitled or allowed to enter or use (whether for payment or not).
-
-          (1A)  For the avoidance of doubt, disability standards may require a person or body dealing with persons with disabilities to put in place reasonable adjustments to eliminate, as far as possible, discrimination against those persons.
-
-          (1B)  Disability standards in relation to the education of persons with disabilities may require education providers to develop strategies and programs that prevent harassment or victimisation of persons with disabilities, in relation to those disabilities.
-
-          (1C)  For the avoidance of doubt, unjustifiable hardship does not excuse an education provider from complying with a requirement made by disability standards under subsection (1B). This does not affect (by implication) the operation of section 32 in relation to other contraventions of disability standards.
 
              (2)  Disability standards formulated in accordance with this section are to be laid before each House of the Parliament within 15 sitting days of that House after the disability standards are formulated and take effect only as provided by the following provisions of this section.
 
@@ -1720,7 +1700,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 ## Part 7—Miscellaneous
 
-##### <a id="121"></a>121  Delegation
+##### <a id="121"></a>121  Delegation
 
              (1)  The Commission may, by writing under its seal, delegate to:
 
@@ -2301,7 +2281,7 @@ Remainder: Royal Assent
       <div>1 Mar 2005</div>
     </td>
     <td>
-      <div>Schedule 1: 10 Aug 2005 ( <i>see</i>F2005L01968) 
+      <div>Schedule 1: \[ <i>see</i>Note 3] 
 Remainder: Royal Assent 
 </div>
     </td>
@@ -2579,7 +2559,7 @@ _(k)_ Subsection 2(1) (item 7) of the _Age Discrimination (Consequential Provi
       <div>S. 4</div>
     </td>
     <td>
-      <div>am. No. 179, 1992; No. 60, 1996; No. 116, 1999 (as am. by No. 63, 2002); Nos. 133, 146 and 161, 1999; No. 9, 2000; No. 105, 2002; No. 19, 2005</div>
+      <div>am. No. 179, 1992; No. 60, 1996; No. 116, 1999 (as am. by No. 63, 2002); Nos. 133, 146 and 161, 1999; No. 9, 2000; No. 105, 2002</div>
     </td>
   </tr>
   <tr>
@@ -2632,18 +2612,10 @@ _(k)_ Subsection 2(1) (item 7) of the _Age Discrimination (Consequential Provi
   </tr>
   <tr>
     <td>
-      <div>S. 22</div>
-    </td>
-    <td>
-      <div>am. No. 19, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
       <div>S. 31</div>
     </td>
     <td>
-      <div>am. No. 133, 1999; No. 62, 2002; No. 19, 2005</div>
+      <div>am. No. 133, 1999; No. 62, 2002</div>
     </td>
   </tr>
   <tr>
@@ -3265,7 +3237,57 @@ Repeal the paragraph, substitute:
 
                              (v)  the _Sex Discrimination Act 1984_;
 
-As at 10 August 2005 the amendment is not incorporated in this compilation.
+As at 8 July 2005 the amendment is not incorporated in this compilation.
+
+### Note 3
+
+_Disability Discrimination Amendment (Education Standards) Act 2005 
+(No. 19, 2005)
+_
+
+The following amendments commence on 1 September 2005 unless proclaimed earlier:
+
+## Schedule 1
+
+## 1  Subsection 4(1)
+
+Insert:
+
+                    <a name="educ-provid"></a>**_education provider_** means:
+
+                     (a)  an educational authority; or
+
+                     (b)  an educational institution; or
+
+                     (c)  an organisation whose purpose is to develop or accredit curricula or training courses used by other education providers referred to in paragraph (a) or (b).
+
+## 2  After subsection 22(2)
+
+Insert:
+
+          (2A)  It is unlawful for an education provider to discriminate against a person on the ground of the person’s disability or a disability of any of the person’s associates:
+
+                     (a)  by developing curricula or training courses having a content that will either exclude the person from participation, or subject the person to any other detriment; or
+
+                     (b)  by accrediting curricula or training courses having such a content.
+
+## 3  Subsection 22(4)
+
+Repeal the subsection, substitute:
+
+             (4)  This section does not make it unlawful for an education provider to discriminate against a person or student as described in subsection (1), (2) or (2A) on the ground of the disability of the person or student or a disability of any associate of the person or student if avoidance of that discrimination would impose an unjustifiable hardship on the education provider concerned.
+
+## 4  After subsection 31(1)
+
+Insert:
+
+          (1A)  For the avoidance of doubt, disability standards may require a person or body dealing with persons with disabilities to put in place reasonable adjustments to eliminate, as far as possible, discrimination against those persons.
+
+          (1B)  Disability standards in relation to the education of persons with disabilities may require education providers to develop strategies and programs that prevent harassment or victimisation of persons with disabilities, in relation to those disabilities.
+
+          (1C)  For the avoidance of doubt, unjustifiable hardship does not excuse an education provider from complying with a requirement made by disability standards under subsection (1B). This does not affect (by implication) the operation of section 32 in relation to other contraventions of disability standards.
+
+As at 8 July 2005 the amendments are not incorporated in this compilation.
 
 
 ## Table A
