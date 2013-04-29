@@ -1,383 +1,577 @@
-![](http://www.comlaw.gov.au/Details/C2011C00791/Html/17b9e5be-3ba5-47c6-bf48-d7a3b159128a_files/image001.gif)
+**
 
-# National Crime Authority (Status and Rights of Former Chairman) Act 1984
+###  NATIONAL CRIME AUTHORITY (STATUS AND RIGHTS OF FORMER CHAIRMAN) ACT 1984 
+**
 
-**Act No. 105 of 1984 as amended**
 
-This compilation was prepared on 27 September 2011 
- taking into account amendments up to Act No. 100 of 2011
+**
 
-The text of any of those amendments not in force
- on that date is appended in the Notes section
+###  Compilation Information 
+**
 
-The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
 
-# Contents
 
-[1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Commencement [_see_ Note 1]
 
-[3](#3).            Interpretation
 
-[4](#4).            Application
+**
 
-[5](#5).            Status
+###  Long Title 
+**
+###  NATIONAL CRIME AUTHORITY (STATUS AND RIGHTS OF FORMER CHAIRMAN) ACT 1984- SECT 1  Short title [_see_ Note 1] 
+This Act may be cited as the _National Crime Authority (Status and Rights of Former Chairman) Act 1984._
 
-[7](#7).            Leave and other conditions of service
+ 
+###  NATIONAL CRIME AUTHORITY (STATUS AND RIGHTS OF FORMER CHAIRMAN) ACT 1984- SECT 2  Commencement [_see_ Note 1] 
+This Act shall come into operation on the day on which it receives the Royal
 
-[8](#8).            Application of Judges’ Pensions Act
+Assent.
 
-[9](#9).            Modification of Administrative Appeals Tribunal Act
+ 
+###  NATIONAL CRIME AUTHORITY (STATUS AND RIGHTS OF FORMER CHAIRMAN) ACT 1984- SECT 3  Interpretation 
+In this Act: 		_office under the Commonwealth_ includes:  
+<dl compact=""><dl compact="">
 
-**Notes** 
+<dt>(a)</dt><dd>an office established by, or an appointment made under, a law of the
 
-## An Act relating to the status and rights of the Honourable Donald Gerard Stewart, the former Chairman of the National Crime Authority
+Commonwealth or a law of a Territory other than the Northern Territory;</dd>
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
+<dt>(b)</dt><dd>an appointment made by the Governor-General or a Minister otherwise than
 
-                   This Act may be cited as the _National Crime Authority (Status and Rights of Former Chairman) Act 1984._
+under such a law;</dd>
 
-##### <a id="2"></a>2  Commencement [_see_ Note 1]
+<dt>(c)</dt><dd>an office or appointment in the service or employment of a corporation
 
-                   This Act shall come into operation on the day on which it receives the Royal Assent.
+established for a public purpose by or under a law of the Commonwealth or a law
 
-##### <a id="3"></a>3  Interpretation
+of a Territory other than the Northern Territory;</dd>
 
-                   In this Act:
+<dt>(d)</dt><dd>an appointment as a director of an incorporated company over which the
 
-                    <a name="offic-commonwealth"></a>**_office under the Commonwealth_** includes:
+Commonwealth is in a position to exercise control; or</dd>
 
-                     (a)  an office established by, or an appointment made under, a law of the Commonwealth or a law of a Territory other than the Northern Territory;
+<dt>(e)</dt><dd>an office or appointment in the service or employment of such an
 
-                     (b)  an appointment made by the Governor‑General or a Minister otherwise than under such a law;
+incorporated company.
 
-                     (c)  an office or appointment in the service or employment of a corporation established for a public purpose by or under a law of the Commonwealth or a law of a Territory other than the Northern Territory;
+</dd>
 
-                     (d)  an appointment as a director of an incorporated company over which the Commonwealth is in a position to exercise control; or
+</dl></dl>
+_remuneration_ includes any expenses of office allowance, annual
 
-                     (e)  an office or appointment in the service or employment of such an incorporated company.
+allowance or other allowance in the nature of remuneration. 		_retirement_ has the same meaning as in the _Judges&apos; Pensions Act 1968._  
+###  NATIONAL CRIME AUTHORITY (STATUS AND RIGHTS OF FORMER CHAIRMAN) ACT 1984- SECT 4  Application 
+This Act applies in relation to the Honourable Donald Gerard Stewart, being
 
-                    <a name="remuner"></a>**_remuneration_** includes any expenses of office allowance, annual allowance or other allowance in the nature of remuneration.
+the person holding office at the commencement of this Act as the Chairman of
 
-                    <a name="retir"></a>**_retirement_** has the same meaning as in the _Judges’ Pensions Act 1968_.
+the National Crime Authority, but so applies only if he has, whether before or
 
-##### <a id="4"></a>4  Application
+after the commencement of this Act, resigned his office as a Judge of the
 
-                   This Act applies in relation to the Honourable Donald Gerard Stewart, being the person holding office at the commencement of this Act as the Chairman of the National Crime Authority, but so applies only if he has, whether before or after the commencement of this Act, resigned his office as a Judge of the Supreme Court of New South Wales.
+Supreme Court of New South Wales.
 
-##### <a id="5"></a>5  Status
+ 
+###  NATIONAL CRIME AUTHORITY (STATUS AND RIGHTS OF FORMER CHAIRMAN) ACT 1984- SECT 5  Status 
+The Honourable Donald Gerard Stewart shall:
 
-                   The Honourable Donald Gerard Stewart shall:
+ 
+<dl compact=""><dl compact="">
 
-                     (a)  during the period of his service in the office of Chairman of the National Crime Authority;
+<dt>(a)</dt><dd>during the period of his service in the office of Chairman of the National
 
-                    (aa)  during the period of his service in the office of Chairperson of the Resource Assessment Commission; and
+Crime Authority;</dd>
 
-                     (b)  during any period of service by him in another full‑time office under the Commonwealth that is declared by the Governor‑General by notice published in the _Gazette_ to be an office to which this section applies;
+<dt>(aa)</dt><dd>during the period of his service in the office of Chairperson of the
 
-have the same designation, rank, status and precedence as a Judge of the Supreme Court of the Australian Capital Territory.
+Resource Assessment Commission; and</dd>
 
-##### <a id="7"></a>7  Leave and other conditions of service
+<dt>(b)</dt><dd>during any period of service by him in another full-time office under the
 
-             (1)  Notwithstanding section 40 of the _National Crime Authority Act 1984_, during the term of office of the Honourable Donald Gerard Stewart as Chairman of the National Crime Authority, the conditions of service (including entitlement to leave) applicable to him shall be, _mutatis mutandis_, the same as those applicable to a Judge of the Supreme Court of the Australian Capital Territory.
+Commonwealth that is declared by the Governor-General by notice published in
 
-          (1A)  Notwithstanding the _Resource Assessment Commission Act 1989_, during the term of office of the Honourable Donald Gerard Stewart as Chairperson of the Resource Assessment Commission, the conditions of service (including entitlement to leave) applicable to him shall be, with appropriate changes, the same as those applicable to a Judge of the Supreme Court of the Australian Capital Territory.
+the _Gazette_ to be an office to which this section applies;
 
-             (2)  At the expiration of the term of office of the Honourable Donald Gerard Stewart as Chairperson of the Resource Assessment Commission:
+</dd>
 
-                     (a)  subject to paragraphs (b) and (c), he is entitled to long leave under the arrangements applicable for long leave for Judges of the Supreme Court of the Australian Capital Territory;
+</dl></dl>
 
-                     (b)  for the purpose of determining his entitlement, the periods of his service as Chairperson of that Commission, as Chairman of the National Crime Authority, as a Judge of the Supreme Court of New South Wales and as a Judge of the District Court of New South Wales shall be deemed to have been periods of service as a Judge of the Supreme Court of the Australian Capital Territory; and
+Back to Top
 
-                     (c)  he is not entitled to long leave under those arrangements in respect of any period of service referred to in paragraph (b) in respect of which he has received a payment under section 4 of the _Judges (Long Leave Payments) Act 1979_ as that section has effect by virtue of subsection (4) of this section.
+###  NATIONAL CRIME AUTHORITY (STATUS AND RIGHTS OF FORMER CHAIRMAN) ACT 1984- SECT 6  Remuneration and allowances 
+<dt>(1)</dt><dd>Section 38 of the _National Crime Authority Act 1984_ does not apply
 
-             (3)  During any period of long leave that is taken by the Honourable Donald Gerard Stewart in accordance with his entitlement under subsection (2) in respect of a period of service referred to in that subsection, he shall be paid remuneration at the rate at which remuneration is payable during that period to a Judge of the Supreme Court of New South Wales in respect of the holding of an office of Judge of that Court.
+in relation to the Honourable Donald Gerard Stewart but he shall be paid:
 
-             (4)  If the Honourable Donald Gerard Stewart becomes entitled to a payment under section 4 of the _Judges (Long Leave Payments) Act 1979_ at a time when he holds a full‑time office under the Commonwealth:
+</dd> 
+<dl compact=""><dl compact="">
 
-                     (a)  the making of the payment shall be deferred until he has ceased to hold such an office;
+<dt>(a)</dt><dd>in respect of his holding the office of Chairman of the National Crime
 
-                     (b)  his qualifying service for the purpose of calculating the amount payable shall not include any period of service in respect of which he took long leave after becoming entitled to the payment;
+Authority&#151;the same remuneration as is payable from time to time to a Judge of
 
-                     (c)  the amount payable shall be calculated as if the annual rate of salary that was payable to him immediately before his retirement or death was the annual rate of salary that was payable to a Judge of the Supreme Court of New South Wales at the time when the Honourable Donald Gerard Stewart ceased to hold a full‑time office under the Commonwealth; and
+the Supreme Court of New South Wales in respect of the holding of an office of
 
-                     (d)  if he ceased to hold a full‑time office under the Commonwealth as mentioned in paragraph (a) by reason of his death, subsections 5(2), (3) and (4) of the _Judges (Long Leave Payments) Act 1979_ apply in respect of him as if he had been a Judge within the meaning of that Act at the time of his death.
+Judge of that Court; and</dd>
 
-##### <a id="8"></a>8  Application of Judges’ Pensions Act
+<dt>(b)</dt><dd>in respect of expenses of travel in the performance of his duties as the
 
-                   The application in relation to the Honourable Donald Gerard Stewart of the _Judges’ Pensions Act 1968_ is subject to the following provisions of this section:
+Chairman of the Authority&#151;such allowances as would be payable to him if this
 
-                     (a)  service by him as Chairman of the National Crime Authority, whether the service took place before, or takes place after, the commencement of this Act, shall be deemed, for the purposes of the _Judges’ Pensions Act 1968_, to have been, or to be, service as a Judge;
+Act had not been enacted.
 
-                    (aa)  service by him as Chairperson of the Resource Assessment Commission shall be taken, for the purposes of the _Judges’ Pensions Act 1968_, to be service as a Judge;
+</dd>
 
-                     (b)  upon his death or retirement, the appropriate current judicial salary in relation to him for the purposes of the _Judges’ Pensions Act 1968_ shall be deemed to be the salary from time to time payable to a Judge of the Supreme Court of New South Wales;
+</dl></dl>
+<dt>(1A)</dt><dd>Section 48 of the _Resource Assessment Commission Act 1989_ does not
 
-                     (c)  for the purposes of paragraph 6(2D)(a) of the _Judges’ Pensions Act 1968_, he shall be deemed to be a judge who is to cease to hold office as a judge upon his attaining a particular age being the age:
+apply in relation to the Honourable Donald Gerard Stewart but he shall be paid:
 
-                              (i)  if subparagraph (ii) does not apply—that will be attained by him at the expiration of the period of his appointment as Chairperson of the Resource Assessment Commission; or
+</dd> 
+<dl compact=""><dl compact="">
 
-                             (ii)  in the event of his re‑appointment as such Chairperson—at the expiration of the period of such re‑appointment.
+<dt>(a)</dt><dd>in respect of his holding the office of Chairperson of the Resource
 
-                     (d)  if, during any period after his retirement, he holds, or performs the duties of, a full‑time office under the Commonwealth, pension is not payable to him under the _Judges’ Pensions Act 1968_ in respect of that period.
+Assessment Commission&#151;the same remuneration as is payable from time to time to
 
-##### <a id="9"></a>9  Modification of Administrative Appeals Tribunal Act
+a Judge of the Supreme Court of New South Wales in respect of the holding of an
 
-             (1)  Notwithstanding anything contained in the _Administrative Appeals Tribunal Act 1975_:
+office of Judge of that Court; and</dd>
 
-                     (a)  the Honourable Donald Gerard Stewart may be appointed under that Act to hold office as a full‑time Deputy President of the Administrative Appeals Tribunal and may be so appointed notwithstanding that he holds the office of Chairman of the National Crime Authority;
+<dt>(b)</dt><dd>in respect of expenses of travel in the performance of his duties as the
 
-                     (b)  if he is so appointed, he shall be paid the same remuneration as is payable to a Deputy President who is not a Judge within the meaning of that Act; and
+Chairperson of the Commission&#151;such allowances as would be payable to him if
 
-                     (c)  he may continue to hold office as a full‑time Deputy President notwithstanding that he holds the office of Chairperson of the Resource Assessment Commission.
+this Act had not been enacted.
 
-             (2)  If the Honourable Donald Gerard Stewart is appointed to hold office as a full‑time Deputy President of the Administrative Appeals Tribunal by an appointment that takes effect at a time when he holds the office of Chairman of the National Crime Authority then, while he holds the second‑mentioned office, he is not entitled to receive any remuneration in respect of his holding the first‑mentioned office except to the extent (if any) to which the remuneration that, but for this subsection, would be payable to him in respect of his holding the first‑mentioned office exceeds the remuneration payable to him in respect of his holding the second‑mentioned office.
+</dd>
 
-             (3)  If the Honourable Donald Gerard Stewart holds office as a full‑time Deputy President of the Administrative Appeals Tribunal while he holds the office of Chairperson of the Resources Assessment Commission, then, while he holds both offices, he is not entitled to receive any remuneration in respect of his office of Deputy President except to the extent (if any) to which the remuneration that, but for this subsection, would be payable to him in respect of his office of Deputy President exceeds the remuneration payable to him in respect of his office of Chairperson.
+</dl></dl>
+<dt>(2)</dt><dd>Payments of remuneration and allowances under subsection (1) or (1A) shall
 
-# Notes to the _National Crime Authority (Status and Rights of Former Chairman) Act 1984_
+be made out of the Consolidated Revenue Fund, which is appropriated accordingly.
 
-### Note 1
+</dd> 
+###  NATIONAL CRIME AUTHORITY (STATUS AND RIGHTS OF FORMER CHAIRMAN) ACT 1984- SECT 7  Leave and other conditions of service 
+<dt>(1)</dt><dd>Notwithstanding section 40 of the _National Crime Authority Act 1984_, during the term of office of the Honourable Donald Gerard Stewart as
 
-The _National Crime Authority (Status and Rights of Former Chairman) Act 1984_ as shown in this compilation comprises Act No. 105, 1984 amended as indicated in the Tables below.
+Chairman of the National Crime Authority, the conditions of service (including
 
-### Table of Acts
+entitlement to leave) applicable to him shall be, _mutatis mutandis_, the
 
-<table>
-<colgroup>
-  <col width="30%">
-  <col width="15%">
-  <col width="18%">
-  <col width="22%">
-  <col width="16%">
-</colgroup>
+same as those applicable to a Judge of the Supreme Court of the Australian
 
-<thead>
-  <tr>
-    <td>
-      <div>Act</div>
-    </td>
-    <td>
-      <div>Number 
+Capital Territory.</dd> <dt>(1A)</dt><dd>Notwithstanding the _Resource Assessment Commission Act 1989_, during the term of office of the Honourable Donald Gerard Stewart as Chairperson of the Resource Assessment Commission, the conditions of service (including entitlement to leave) applicable to him shall be, with appropriate changes, the same as those applicable to a Judge of the Supreme Court of the Australian Capital Territory.</dd> <dt>(2)</dt><dd>At the expiration of the term of office of the Honourable Donald Gerard Stewart as Chairperson of the Resource Assessment Commission: </dd> 
+<dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>subject to paragraphs (b) and (c), he is entitled to long leave under the
+
+arrangements applicable for long leave for Judges of the Supreme Court of the
+
+Australian Capital Territory;</dd>
+
+<dt>(b)</dt><dd>for the purpose of determining his entitlement, the periods of his service
+
+as Chairperson of that Commission, as Chairman of the National Crime Authority,
+
+as a Judge of the Supreme Court of New South Wales and as a Judge of the
+
+District Court of New South Wales shall be deemed to have been periods of
+
+service as a Judge of the Supreme Court of the Australian Capital Territory;
+
+and</dd>
+
+<dt>(c)</dt><dd>he is not entitled to long leave under those arrangements in respect of
+
+any period of service referred to in paragraph (b) in respect of which he has
+
+received a payment under section 4 of the _Judges (Long Leave Payments) Act 1979_ as that section has effect by virtue of subsection (4) of this section.
+
+</dd>
+
+</dl></dl>
+<dt>(3)</dt><dd>During any period of long leave that is taken by the Honourable Donald
+
+Gerard Stewart in accordance with his entitlement under subsection (2) in
+
+respect of a period of service referred to in that subsection, he shall be paid
+
+remuneration at the rate at which remuneration is payable during that period to
+
+a Judge of the Supreme Court of New South Wales in respect of the holding of an
+
+office of Judge of that Court.</dd> <dt>(4)</dt><dd>If the Honourable Donald Gerard Stewart becomes entitled to a payment under section 4 of the _Judges (Long Leave Payments) Act 1979_ at a time when he holds a full-time office under the Commonwealth: </dd> 
+
+Back to Top
+
+<dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the making of the payment shall be deferred until he has ceased to hold
+
+such an office;</dd>
+
+<dt>(b)</dt><dd>his qualifying service for the purpose of calculating the amount payable
+
+shall not include any period of service in respect of which he took long leave
+
+after becoming entitled to the payment;</dd>
+
+<dt>(c)</dt><dd>the amount payable shall be calculated as if the annual rate of salary
+
+that was payable to him immediately before his retirement or death was the
+
+annual rate of salary that was payable to a Judge of the Supreme Court of New
+
+South Wales at the time when the Honourable Donald Gerard Stewart ceased to
+
+hold a full-time office under the Commonwealth; and</dd>
+
+<dt>(d)</dt><dd>if he ceased to hold a full-time office under the Commonwealth as
+
+mentioned in paragraph (a) by reason of his death, subsections 5(2), (3) and
+
+<dt>(4)</dt><dd>of the _Judges (Long Leave Payments) Act 1979_ apply in respect of him
+
+as if he had been a Judge within the meaning of that Act at the time of his
+
+death.
+
+</dd></dd>
+
+</dl></dl>
+###  NATIONAL CRIME AUTHORITY (STATUS AND RIGHTS OF FORMER CHAIRMAN) ACT 1984- SECT 8  Application of Judges' Pensions Act 
+The application in relation to the Honourable Donald Gerard Stewart of the
+
+_Judges&apos; Pensions Act 1968_ is subject to the following provisions of this
+
+section:
+
+ 
+<dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>service by him as Chairman of the National Crime Authority, whether the
+
+service took place before, or takes place after, the commencement of this Act,
+
+shall be deemed, for the purposes of the _Judges&apos; Pensions Act 1968_, to
+
+have been, or to be, service as a Judge;</dd>
+
+<dt>(aa)</dt><dd>service by him as Chairperson of the Resource Assessment Commission shall
+
+be taken, for the purposes of the _Judges&apos; Pensions Act 1968_, to be
+
+service as a Judge;</dd>
+
+<dt>(b)</dt><dd>upon his death or retirement, the appropriate current judicial salary in
+
+relation to him for the purposes of the _Judges&apos; Pensions Act 1968_ shall
+
+be deemed to be the salary from time to time payable to a Judge of the Supreme
+
+Court of New South Wales;</dd>
+
+<dt>(c)</dt><dd>for the purposes of paragraph 6(2D)(a) of the _Judges&apos; Pensions Act 1968_, he shall be deemed to be a judge who is to cease to hold office as a
+
+judge upon his attaining a particular age being the age:
+
+</dd>
+
+</dl></dl>
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>if subparagraph (ii) does not apply&#151;that will be attained by him at the
+
+expiration of the period of his appointment as Chairperson of the Resource
+
+Assessment Commission; or</dd>
+
+<dt>(ii)</dt><dd>in the event of his re-appointment as such Chairperson&#151;at the expiration
+
+of the period of such re-appointment.
+
+</dd>
+
+</dl></dl></dl>
+<dl compact=""><dl compact="">
+
+<dt>(d)</dt><dd>if, during any period after his retirement, he holds, or performs the
+
+duties of, a full-time office under the Commonwealth, pension is not payable to
+
+him under the _Judges&apos; Pensions Act 1968_ in respect of that period.
+
+</dd>
+
+</dl></dl>
+###  NATIONAL CRIME AUTHORITY (STATUS AND RIGHTS OF FORMER CHAIRMAN) ACT 1984- SECT 9  Modification of Administrative Appeals Tribunal Act 
+<dt>(1)</dt><dd>Notwithstanding anything contained in the _Administrative Appeals Tribunal Act 1975_:
+
+</dd> 
+<dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the Honourable Donald Gerard Stewart may be appointed under that Act to
+
+hold office as a full-time Deputy President of the Administrative Appeals
+
+Tribunal and may be so appointed notwithstanding that he holds the office of
+
+Chairman of the National Crime Authority;</dd>
+
+<dt>(b)</dt><dd>if he is so appointed, he shall be paid the same remuneration as is
+
+payable to a Deputy President who is not a Judge within the meaning of that
+
+Act; and</dd>
+
+<dt>(c)</dt><dd>he may continue to hold office as a full-time Deputy President
+
+notwithstanding that he holds the office of Chairperson of the Resource
+
+Assessment Commission.
+
+</dd>
+
+</dl></dl>
+<dt>(2)</dt><dd>If the Honourable Donald Gerard Stewart is appointed to hold office as a
+
+full-time Deputy President of the Administrative Appeals Tribunal by an
+
+appointment that takes effect at a time when he holds the office of Chairman of
+
+the National Crime Authority then, while he holds the second-mentioned office,
+
+he is not entitled to receive any remuneration in respect of his holding the
+
+first-mentioned office except to the extent (if any) to which the remuneration
+
+that, but for this subsection, would be payable to him in respect of his
+
+holding the first-mentioned office exceeds the remuneration payable to him in
+
+respect of his holding the second-mentioned office.</dd> <dt>(3)</dt><dd>If the Honourable Donald Gerard Stewart holds office as a full-time Deputy President of the Administrative Appeals Tribunal while he holds the office of Chairperson of the Resources Assessment Commission, then, while he holds both offices, he is not entitled to receive any remuneration in respect of his office of Deputy President except to the extent (if any) to which the remuneration that, but for this subsection, would be payable to him in respect of his office of Deputy President exceeds the remuneration payable to him in respect of his office of Chairperson. </dd> 
+
+Back to Top
+
+**
+
+###  NATIONAL CRIME AUTHORITY (STATUS AND RIGHTS OF FORMER CHAIRMAN) ACT 1984<centreit>Notes to the _National Crime Authority (Status and Rights of Former Chairman) Act 1984_ </centreit>
+**
+Note 1
+National Crime Authority (Status and Rights of Former Chairman) Act 1984
+Table of Acts
+<tr align="left">
+  <th colspan="1" align="left">
+    <div>Act</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Number 
 and year</div>
-    </td>
-    <td>
-      <div>Date 
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Date 
 of Assent</div>
-    </td>
-    <td>
-      <div>Date of commencement</div>
-    </td>
-    <td>
-      <div>Application, saving or transitional provisions</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>National Crime Authority (Status and Rights of Chairman) Act 1984</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Date of commencement</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Application, saving or transitional provisions</div>
+
+  </th>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>_National Crime Authority (Status and Rights of Chairman) Act 1984_</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>105, 1984</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>15 Oct 1984</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>15 Oct 1984</div>
+
   </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Crimes Legislation Amendment Act (No. 2) 1988</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>_Crimes Legislation Amendment Act (No. 2) 1988_</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>66, 1988</div>
+
   </td>
-  <td>
-    <div>15 June 1988</div>
+  <td colspan="1" align="left">
+    <div>15 June 1988</div>
+
   </td>
-  <td>
-    <div>Ss. 1–3, 12 and 20–23: Royal Assent 
-Ss. 4–11: 13 July 1988 
-Ss. 13–19: 1 Dec 1988 ( <i>see Gazette</i>1988, No. S366) 
-S. 24: 15 June 1988 
-Part VI (ss. 
-25–28): 1 Sept 1988 ( <i>see</i>s. 2(5) and <i>Gazette</i>1988, No. S256)</div>
+  <td colspan="1" align="left">
+    <div>Ss. 1-3, 12 and 20-23: Royal Assent 
+Ss. 4-11: 13 July 1988 
+Ss. 13-19: 1 Dec 1988 ( _see Gazette_1988, No. S366) 
+S. 24: 15 June 1988 
+Part VI (ss. 25-28): 1 Sept 1988 ( _see_s.&#160;2(5) and _Gazette_1988, No. S256)</div>
+
   </td>
-  <td>
-    <div>—</div>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>as amended by</div>
+
   </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Law and Justice Legislation Amendment Act 1988</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>_Law and Justice Legislation Amendment Act 1988_</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>120, 1988</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>14 Dec 1988</div>
+
   </td>
-  <td>
-    <div>Part VII (ss. 
-25–27): 15 June 1988 <i>(a)</i></div>
+  <td colspan="1" align="left">
+    <div>Part VII (ss. 25-27): 15 June 1988 _(a)_</div>
+
   </td>
-  <td>
-    <div>—</div>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Resource Assessment Commission Act 1989</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>_Resource Assessment Commission Act 1989_</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>94, 1989</div>
+
   </td>
-  <td>
-    <div>28 June 1989</div>
+  <td colspan="1" align="left">
+    <div>28 June 1989</div>
+
   </td>
-  <td>
-    <div>28 June 1989</div>
+  <td colspan="1" align="left">
+    <div>28 June 1989</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>S. 60(2)</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Statute Stocktake Act (No. 1) 2011</div>
-  </td>
-  <td>
-    <div>100, 2011</div>
-  </td>
-  <td>
-    <div>15 Sept 2011</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 7): 16 Sept 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
+(a)
+Crimes Legislation Amendment Act (No. 2) 1988
+Law and Justice Legislation Amendment Act 1988
+Table of Amendments
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
 
-_(a)_     The _Crimes Legislation Amendment Act (No. 2) 1988_ was amended by Part VII (sections 
- 25–27) only of the _Law and Justice Legislation Amendment Act 1988_, subsection 2(4) of which provides as follows:
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Provision affected</div>
 
-                 (4)   Part VII shall be taken to have commenced on 15 June 1988.
+  </td>
+  <td colspan="1" align="left">
+    <div>How affected</div>
 
-## Table of Amendments
-
-<table>
-<colgroup>
-  <col width="31%">
-  <col width="69%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Title</div>
-  </td>
-  <td>
-    <div>am. No. 94, 1989</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 1</div>
-  </td>
-  <td>
-    <div>am. No. 94, 1989</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5</div>
-  </td>
-  <td>
-    <div>am. No. 94, 1989</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6</div>
-  </td>
-  <td>
-    <div>am. No. 94, 1989</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 100, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7</div>
-  </td>
-  <td>
-    <div>am. No. 94, 1989</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8</div>
-  </td>
-  <td>
-    <div>am. No. 66, 1988; No. 94, 1989</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9</div>
-  </td>
-  <td>
-    <div>am. No. 94, 1989</div>
-  </td>
-</tr></table>
 
- 
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No. 94, 1989</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 1</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No. 94, 1989</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Ss. 5-7</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No. 94, 1989</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 8</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No. 66, 1988; No. 94, 1989</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 9</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No. 94, 1989</div>
+
+  </td>
+</tr>
+
+
+
+
+
+
+
+
+
+
