@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00909/Html/a2d0f3d7-3d06-4904-8ed7-7a66c80368f1_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00723/Html/f3a1e243-c12e-45d5-be24-b4150a905730_files/image001.gif)
 
 # Corporations (Aboriginal and Torres Strait Islander) Act 2006
 
 **Act No. 124 of 2006 as amended**
 
-This compilation was prepared on 11 November 2011
- taking into account amendments up to Act No. 127 of 2011
+This compilation was prepared on 6 September 2011
+ taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -650,7 +650,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [201‑120](#201‑120). Objections to right to vote (replaceable rule—see section 60‑1)
 
-[201‑125](#201‑125). How voting is carried out (replaceable rule—see section 60‑1)
+[201‑125](#201‑125). How voting is carried out (replaceable rule—see 
+ section 60‑1)
 
 [201‑130](#201‑130). Matters on which a poll may be demanded
 
@@ -8240,7 +8241,7 @@ Note:          For the meaning of **_chief executive officer_*
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-##### <a id="246‑15"></a>246‑15  Corporation may appoint a director (replaceable rule—see section 60‑1)
+##### <a id="246‑15"></a>246‑15  Corporation may appoint a director (replaceable rule—see section 60‑1)
 
                    An Aboriginal and Torres Strait Islander corporation may appoint a person as a director by resolution passed in general meeting.
 
@@ -10246,7 +10247,7 @@ Note:          For the criteria for making determinations unde
 
 ##### <a id="310‑10"></a>310‑10  Registrar may make determination even if application is incomplete
 
-                   Despite subsection 310‑5(3), the Registrar may make a determination even if the application does not specify the provisions in relation to which the exemption is being sought.
+                   Despite subsection 310‑5(3), the Registrar may make a determination even if the application does not specify the provisions in relation to which the exemption is being sought.
 
 ##### <a id="310‑15"></a>310‑15  Registrar’s power to make determinations
 
@@ -10384,7 +10385,7 @@ powers in relation to the records under Chapter 10.</li>
 
 * * *
 
-##### <a id="322‑5"></a>322‑5  Obligation to keep copy of constitution and records about officers, contact person, etc.
+##### <a id="322‑5"></a>322‑5  Obligation to keep copy of constitution and records about officers, contact person, etc.
 
                    An Aboriginal and Torres Strait Islander corporation must keep:
 
@@ -14419,7 +14420,7 @@ Note:          The termination of the appointment of the speci
 
 ### Division 508—Transition to normal control of the corporation’s affairs at end of special administration
 
-##### <a id="508‑1"></a>508‑1  Special administrator to ensure that there will be directors when corporation ceases to be under special administration
+##### <a id="508‑1"></a>508‑1  Special administrator to ensure that there will be directors when corporation ceases to be under special administration
 
              (1)  The special administrator for an Aboriginal and Torres Strait Islander corporation must ensure that, immediately after the special administration of the corporation ends, there will be:
 
@@ -19947,7 +19948,7 @@ of Assent</div>
     <div>14 Dec 2009</div>
   </td>
   <td>
-    <div>Schedule 5 (items 21, 22): \[ <i>see</i>Note 2]</div>
+    <div>Schedule 5 (items 21, 22): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -19964,7 +19965,7 @@ of Assent</div>
     <div>19 Feb 2010</div>
   </td>
   <td>
-    <div>Schedule 10 (item 5): 20 Feb 2010</div>
+    <div>Schedule 10 (item 5): 20 Feb 2010</div>
   </td>
   <td>
     <div>—</div>
@@ -19981,7 +19982,7 @@ of Assent</div>
     <div>1 Mar 2010</div>
   </td>
   <td>
-    <div>Schedule 5 (item 137(a)): <i>(a)</i></div>
+    <div>Schedule 5 (item 137(a)): <i>(a)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -20001,7 +20002,7 @@ of Assent</div>
     <div>Schedule 7 (items 9–26): 14 April 2010</div>
   </td>
   <td>
-    <div>Sch. 7 (item 26)</div>
+    <div>Sch. 7 (item 26)</div>
   </td>
 </tr>
 <tr>
@@ -20015,7 +20016,7 @@ of Assent</div>
     <div>12 Apr 2011</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1, 2): 13 Apr 2011</div>
+    <div>Schedule 1 (items 1, 2): 13 Apr 2011</div>
   </td>
   <td>
     <div>—</div>
@@ -20035,24 +20036,7 @@ of Assent</div>
     <div>Schedule 2 (items 447–452) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 3 and Table A]</div>
   </td>
   <td>
-    <div>Sch. 3 (items 10, 11)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Business Names Registration (Transitional and Consequential Provisions) Act 2011</div>
-  </td>
-  <td>
-    <div>127, 2011</div>
-  </td>
-  <td>
-    <div>3 Nov 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 10–13): \[ <i>see</i>s. 2(1) and Note 4]</div>
-  </td>
-  <td>
-    <div>—</div>
+    <div>Sch. 3 (items 10, 11)</div>
   </td>
 </tr></table>
 
@@ -20804,7 +20788,7 @@ Note 1:       The effect of this subsection is that the priority bet
 
 Note 2:       Subsection 73(2) of the _Personal Property Securities Act 2009_ applies to charges that arise after the commencement of subsection (5A) (which is the registration commencement time within the meaning of the _Personal Property Securities Act 2009_).
 
-As at 11 November 2011 the amendments are not incorporated in this compilation.
+As at 6 September 2011 the amendments are not incorporated in this compilation.
 
 ### Note 3
 
@@ -20840,35 +20824,7 @@ Repeal the definition.
 
 Repeal the definition.
 
-As at 11 November 2011 the amendments are not incorporated in this compilation.
-
-### Note 4
-
-_Business Names Registration (Transitional and Consequential Provisions) Act 2011 (No. 127, 2011)_
-
-The following amendments commence at the same time as section 3 of the _Business Names Registration Act 2011_:
-
-## Schedule 2
-
-## 10  Paragraph 85‑5(1)(b)
-
-Omit “included on the national business names register”, substitute “held or registered on the Business Names Register”.
-
-## 11  Subparagraph 85‑5(2)(a)(v)
-
-Omit “included on the national business names register”, substitute “held or registered on Business Names Register”.
-
-## 12  Section 700‑1
-
-Insert:
-
-                    <a name="busi-name-regist"></a>**_Business Names Register_** means the Register established and maintained under section 22 of the _Business Names Registration Act 2011._
-
-## 13  Section 700‑1 (definition of _national business names register_)
-
-Repeal the definition.
-
-As at 11 November 2011 the amendments are not incorporated in this compilation.
+As at 6 September 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
