@@ -1,74 +1,73 @@
 
-Interstate Road Transport Act 1985
+Interstate Road Transport Act 1985 
 Act No. 130 of 1985 as amended
-This compilation was prepared on 30 May 2000  taking into account amendments up to Act No. 40 of 2000
-The text of any of those amendments not in force on that date is appended in the Notes section
-Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
-  
-  
-  
+Consolidated as in force on 26 October 1998
+(includes amendments up to Act No. 43 of 1998)
+This Act has uncommenced amendments. For uncommenced amendments, see the endnotes.
+Prepared by the Office of Legislative Drafting, Attorney-General’s Department, Canberra
 Contents
-Part I—Preliminary	1
-1	Short title [see Note 1]	1
-2	Commencement [see Note 1]	1
-3	Interpretation	1
-3A	B‑doubles	6
-4A	Indexation of certain fee limits	7
-5	Application of Act to the Commonwealth and the States	8
-6	Arrangements with States etc.	8
-7	Regulatory Authority	10
-Part II—Registration of interstate motor vehicles	11
-8	Motor vehicles and trailers to be registered	11
-9	Registration of motor vehicles etc.	12
-10	Sub‑standard motor vehicles and trailers not to be driven etc.	15
-11	Cancellation or suspension of registration	16
-12	Surrender of registration	18
-12A	Mass limits of registered motor vehicles	18
-12B	Regulation of the operation of B‑doubles	18
-12C	Operating requirements for B‑doubles	19
-12D	Offences involving the operation of B‑doubles	19
-13	Regulations may make further provision with respect to registered motor vehicles etc.	20
-Part III—Collection of interstate road transport charge	22
-14	By whom charge payable	22
-16	When charge due and payable	22
-18	Refund of charge on cancellation or surrender	22
-19	Refund of charge in relation to intra‑state operations	22
-20	Recovery of charge	24
-Part IV—Interstate Road Transport Reserve	25
-21	Interstate Road Transport Reserve	25
-22	Money to be paid into Reserve	25
-23	Money to be paid out of Reserve	25
-Part V—Licensing of interstate road transport operators (sections 24‑35) [Not in operation—see Notes 2, 3]	28
-Part VI—Monitoring devices	29
-36	Regulations may specify requirements for monitoring devices [see Note 2]	29
-37	[Not in operation—see Note 2]	29
-38	Monitoring devices to be fitted in accordance with the regulations	29
-39	Owner of motor vehicle or trailer to maintain monitoring device	29
-40	Offences relating to monitoring devices	30
-41	Falsification, concealment etc. of monitoring device record	30
-42	Court may order payment of amount in addition to penalty	31
-43	Evidence of monitoring device record	31
-Part VII—Miscellaneous	32
-43A	Determination of federal routes	32
-44	Power to stop and search motor vehicles etc.	32
-45	Power to require persons to give information or produce documents	35
-46	Inspection of documents	36
-47	False or misleading statements	37
-47A	Conduct of directors, servants and agents	38
-48	Regulatory Authorities to comply with Ministerial directions	39
-49	Freedom of interstate trade etc.	40
-50	Delegation	40
-51	Reconsideration and review of certain decisions	41
-52	Effect of this Act and regulations on State laws	42
-53	Enforcement of orders for payment	43
-55	Recovery of fees	44
-56	Regulations	45
-Notes		47
+Part I—Preliminary	
+1	Short title [see Note 1]	
+2	Commencement [see Note 1]	
+3	Interpretation	
+3A	B-doubles	
+4A	Indexation of certain fee limits	
+5	Application of Act to the Commonwealth and the States	
+6	Arrangements with States etc.	
+7	Regulatory Authority	
+Part II—Registration of interstate motor vehicles	
+8	Motor vehicles and trailers to be registered	
+9	Registration of motor vehicles etc.	
+10	Sub-standard motor vehicles and trailers not to be driven etc.	
+11	Cancellation or suspension of registration	
+12	Surrender of registration	
+12A	Mass limits of registered motor vehicles	
+12B	Regulation of the operation of B-doubles	
+12C	Operating requirements for B-doubles	
+12D	Offences involving the operation of B-doubles	
+13	Regulations may make further provision with respect to registered motor vehicles etc.	
+Part III—Collection of interstate road transport charge	
+14	By whom charge payable	
+16	When charge due and payable	
+18	Refund of charge on cancellation or surrender	
+19	Refund of charge in relation to intra-state operations	
+20	Recovery of charge	
+Part IV—Interstate Road Transport Reserve	
+21	Interstate Road Transport Reserve	
+22	Money to be paid into Reserve	
+23	Money to be paid out of Reserve	
+Part V—Licensing of interstate road transport operators (sections 24-35) [Not in operation—see Notes 2, 3]	
+Part VI—Monitoring devices	
+36	Regulations may specify requirements for monitoring devices [see Note 2]	
+37	[Not in operation—see Note 2]	
+38	Monitoring devices to be fitted in accordance with the regulations	
+39	Owner of motor vehicle or trailer to maintain monitoring device	
+40	Offences relating to monitoring devices	
+41	Falsification, concealment etc. of monitoring device record	
+42	Court may order payment of amount in addition to penalty	
+43	Evidence of monitoring device record	
+Part VII—Miscellaneous	
+43A	Determination of federal routes	
+44	Power to stop and search motor vehicles etc.	
+45	Power to require persons to give information or produce documents	
+46	Inspection of documents	
+47	False or misleading statements	
+47A	Conduct of directors, servants and agents	
+48	Regulatory Authorities to comply with Ministerial directions	
+49	Freedom of interstate trade etc.	
+50	Delegation	
+51	Reconsideration and review of certain decisions	
+52	Effect of this Act and regulations on State laws	
+53	Enforcement of orders for payment	
+55	Recovery of fees	
+56	Regulations	
+
 An Act relating to road transport
+Do not delete : Chapter placeholder
 Part I—Preliminary
-  
+Do not delete : Division placeholder
 1  Short title [see Note 1]
-		This Act may be cited as the Interstate Road Transport Act 1985.
+This Act may be cited as the Interstate Road Transport Act 1985.
 2  Commencement [see Note 1]
 	(1)	Sections 1 and 2 shall come into operation on the day on which this Act receives the Royal Assent.
 	(2)	The remaining provisions of this Act shall come into operation on such day as is, or on such respective days as are, fixed by Proclamation.
@@ -93,7 +92,7 @@ heavy motor vehicle means a motor vehicle the designed maximum laden capacity of
 insurance includes participation in a scheme under a law of a State relating to motor vehicle accident compensation.
 leased means let on hire under an agreement and includes:
 	(a)	a letting on hire that is described in the agreement as a lease; and
-	(b)	a letting on hire under a hire‑purchase agreement.
+	(b)	a letting on hire under a hire-purchase agreement.
 long distance interstate fleet operator means a person who carries on a business that involves the carriage by the person of goods or passengers by heavy motor vehicles between prescribed places that are more than 100 kilometres apart otherwise than under contracts for the carriage of goods or passengers.
 long distance interstate haulage contractor means a person who carries on the business of entering into contracts for the carriage by the person or by another person of goods or passengers by heavy motor vehicles between prescribed places that are more than 100 kilometres apart.
 long distance interstate road transport business means the business of:
@@ -130,14 +129,14 @@ standard monitoring device means a device that meets the requirements specified 
 State includes the Australian Capital Territory and the Northern Territory.
 State operator’s licence means a licence granted under a law of a State, being a licence of a kind that is declared by the regulations to be a State operator’s licence for the purposes of this Act.
 trailer means:
-	(a)	vehicle (other than a side‑car) without motive power designed for attachment to a motor vehicle; or
+	(a)	vehicle (other than a side-car) without motive power designed for attachment to a motor vehicle; or
 	(b)	a piece of machinery or equipment that is equipped with wheels and designed to be towed behind a vehicle, but is not designed as a means of conveyance.
 vehicle means any means of conveyance which runs on wheels but does not include:
 	(a)	any vehicle used on a railway; or
 	(b)	any vehicle that has an MRC equal to or less than 4.5 tonnes.
 	(2)	Unless the contrary intention appears, a reference in this Act to a motor vehicle shall, where a trailer is attached to the motor vehicle, be read as including a reference to the motor vehicle and trailer.
 	(3)	Where there are 2 or more joint owners or part owners of a motor vehicle or trailer, each joint owner or part owner shall be deemed to be, for the purposes of this Act, the owner of the motor vehicle or trailer.
-	(4)	A reference in this Act to the re‑registration of a motor vehicle or trailer is a reference to the registration by way of renewal of an existing registration of the motor vehicle or trailer.
+	(4)	A reference in this Act to the re-registration of a motor vehicle or trailer is a reference to the registration by way of renewal of an existing registration of the motor vehicle or trailer.
 	(5)	A reference in this Act to driving a trailer is a reference to driving a motor vehicle to which the trailer is attached.
 	(6)	For the purposes of this Act, where a motor vehicle is being towed, a person occupying the driver’s seat of the motor vehicle shall be taken to be driving the motor vehicle.
 	(7)	For the purposes of this Act, where a place is situated beyond a radius of 100 kilometres of another place, the places shall be taken to be more than 100 kilometres apart.
@@ -150,11 +149,11 @@ vehicle means any means of conveyance which runs on wheels but does not include:
 	(12)	A fee payable in respect of the performance of a function of a Regulatory Authority in respect of a State, not being the Minister, shall not be taken to be payable under this Act.
 	(13)	For the purposes of this Act, a motor vehicle or trailer shall be taken to be registered under a law of Western Australia if a vehicle licence is in force under a law of that State in respect of the motor vehicle or trailer.
 	(14)	For the purposes of this Act, the designed maximum laden capacity of a motor vehicle shall be ascertained in accordance with the regulations.
-3A  B‑doubles
-	(1)	A reference in this Act to a B‑double is a reference to a motor vehicle that consists of:
-	(a)	a prime‑mover registered under this Act; and
-	(b)	a registered trailer attached to the prime‑mover by means of a turntable mounted on the prime‑mover; and
-	(c)	a registered trailer attached to the rear of the trailer referred to in paragraph (b) by means of a turntable mounted on the last‑mentioned trailer.
+3A  B-doubles
+	(1)	A reference in this Act to a B-double is a reference to a motor vehicle that consists of:
+	(a)	a prime-mover registered under this Act; and
+	(b)	a registered trailer attached to the prime-mover by means of a turntable mounted on the prime-mover; and
+	(c)	a registered trailer attached to the rear of the trailer referred to in paragraph (b) by means of a turntable mounted on the last-mentioned trailer.
 	(2)	A reference in subsection (1) to a registered trailer is a reference to a trailer registered under this Act or under a law of a State.
 4A  Indexation of certain fee limits
 	(1)	In this section:
@@ -168,15 +167,15 @@ relevant year means the period of 12 months commencing on 1 July 1990, and each
 	(4)	Where the factor ascertained under subsection (5) in relation to a relevant year is greater than one, this Act has effect as if for each relevant amount there were substituted, on the first day of that relevant year, an amount calculated by multiplying by that factor:
 	(a)	in a case to which paragraph (b) does not apply—the relevant amount; or
 	(b)	if, by virtue of another application or other applications of this section, this Act has effect as if another amount or amounts were substituted for that relevant amount—the substituted amount or the last substituted amount, as the case requires.
-	(5)	The factor to be ascertained for the purposes of subsection (4) in relation to a relevant year is the number (calculated to 3 decimal places) ascertained by dividing the index number for the March quarter immediately preceding that relevant year by the index number for the March quarter immediately preceding that first‑mentioned March quarter.
+	(5)	The factor to be ascertained for the purposes of subsection (4) in relation to a relevant year is the number (calculated to 3 decimal places) ascertained by dividing the index number for the March quarter immediately preceding that relevant year by the index number for the March quarter immediately preceding that first-mentioned March quarter.
 	(6)	Where the factor ascertained in accordance with subsection (5) in relation to a relevant year would, if it were calculated to 4 decimal places, end with a number greater than 4, the factor ascertained in accordance with that subsection in relation to that relevant year is taken to be the factor calculated to 3 decimal places in accordance with that subsection and increased by 0.001.
 5  Application of Act to the Commonwealth and the States
 	(1)	This Act (other than Part V) binds the Crown in right of the Commonwealth and of each of the States in so far as the Crown in right of the Commonwealth or of a State carries on a business, either directly or by an authority of the Commonwealth or by an authority of a State, but nothing in this Act renders the Crown in right of the Commonwealth or of a State liable to be prosecuted for an offence.
 	(2)	In subsection (1), State includes Norfolk Island.
 6  Arrangements with States etc.
-	(1)	The Governor‑General may make an arrangement with the Governor of a State for and in relation to designating an authority or officer of the State as the authority or officer who is to perform the functions of a Registration Authority under this Act and the regulations.
-	(2)	The Governor‑General may make an arrangement with the Governor of a State for and in relation to designating an authority or officer of the State as the authority or officer who is to perform the functions of a Licensing Authority under this Act and the regulations.
-	(3)	The Governor‑General may arrange with the Governor of a State with whom an arrangement is in force under subsection (1) or (2) for the variation or revocation of the arrangement.
+	(1)	The Governor-General may make an arrangement with the Governor of a State for and in relation to designating an authority or officer of the State as the authority or officer who is to perform the functions of a Registration Authority under this Act and the regulations.
+	(2)	The Governor-General may make an arrangement with the Governor of a State for and in relation to designating an authority or officer of the State as the authority or officer who is to perform the functions of a Licensing Authority under this Act and the regulations.
+	(3)	The Governor-General may arrange with the Governor of a State with whom an arrangement is in force under subsection (1) or (2) for the variation or revocation of the arrangement.
 	(3A)	Subject to subsection (3B), the Governor of a State with whom an arrangement is in force under subsection (1) or (2) may, by signed instrument, revoke the arrangement.
 	(3B)	A revocation under subsection (3A) takes effect at the end of 6 months after the instrument of revocation is signed or, if a later time is specified in the instrument, at that time.
 	(4)	An arrangement under subsection (1) or (2) may make provision for authorities or officers of a State to:
@@ -197,9 +196,8 @@ relevant year means the period of 12 months commencing on 1 July 1990, and each
 	(5)	For the purposes of the application of subsections (3) and (4) in relation to the Australian Capital Territory, references to the Governor of the State are taken to be references to the Chief Minister of the Territory.
 	(6)	If there is not in force an arrangement under subsection 6(1) specifying an authority or officer of a State who is to perform the functions of a Registration Authority under this Act, the Minister shall be the Registration Authority in respect of the State.
 	(7)	If there is not in force an arrangement under subsection 6(2) specifying an authority or officer of a State who is to perform the functions of a Licensing Authority under this Act, the Minister shall be the Licensing Authority in respect of the State.
-
 Part II—Registration of interstate motor vehicles
-  
+Do not delete : Division placeholder
 8  Motor vehicles and trailers to be registered
 	(1)	A person shall not:
 	(a)	drive on a road;
@@ -239,7 +237,7 @@ a person shall not be taken to have contravened subsection (1) in relation to th
 	(i)	the owner, in the application for registration, requests registration for a period of less than one year, being a period specified in the regulations; and
 	(ii)	the application is accompanied by the prescribed fee, being a fee additional to the fee referred to in paragraph (1)(a);
 		for the period requested by the owner.
-	(4)	Where application is made for the re‑registration of a motor vehicle or trailer that is already registered, the re‑registration may be expressed to come into force immediately after the existing registration ceases to be in force.
+	(4)	Where application is made for the re-registration of a motor vehicle or trailer that is already registered, the re-registration may be expressed to come into force immediately after the existing registration ceases to be in force.
 	(5)	A Registration Authority, in exercising the power conferred by subsection (2), shall have regard only to:
 	(a)	the safety of the public; and
 	(b)	the need to ensure compliance with this Act and the regulations.
@@ -265,7 +263,7 @@ that nomination ceases to be in force.
 	(a)	there are 2 or more owners of a motor vehicle or trailer; and
 	(b)	an application for registration of the motor vehicle or trailer is not accompanied by a nomination under subsection (6) in relation to the motor vehicle or trailer;
 a Registration Authority may refuse to register the motor vehicle or trailer.
-10  Sub‑standard motor vehicles and trailers not to be driven etc.
+10  Sub-standard motor vehicles and trailers not to be driven etc.
 	(1)	A person shall not, without reasonable excuse:
 	(a)	drive on a road;
 	(b)	cause or permit to be driven on a road; or
@@ -320,34 +318,34 @@ the Registration Authority shall, by notice in writing served on the owner, term
 	(2)	A notice surrendering the registration of a motor vehicle or trailer shall be accompanied by the prescribed fee.
 	(3)	A notice surrendering the registration of a motor vehicle or trailer shall, except in such circumstances as are prescribed, be accompanied by any registration plates issued under the regulations in respect of the motor vehicle or trailer.
 12A  Mass limits of registered motor vehicles
-		Notwithstanding any law of a State relating to mass limits, it is lawful, subject to this Act, for a registered motor vehicle or trailer that complies with the requirements prescribed for the purposes of paragraph 13(aa) to be driven on a road in the carriage of passengers or goods between prescribed places or for any purpose that is incidental to carriage of that kind.
-12B  Regulation of the operation of B‑doubles
+Notwithstanding any law of a State relating to mass limits, it is lawful, subject to this Act, for a registered motor vehicle or trailer that complies with the requirements prescribed for the purposes of paragraph 13(aa) to be driven on a road in the carriage of passengers or goods between prescribed places or for any purpose that is incidental to carriage of that kind.
+12B  Regulation of the operation of B-doubles
 	(1)	The regulations may make provision regulating the operation of B‑doubles in the carriage of passengers or goods between prescribed places or for any purpose that is incidental to carriage of that kind.
 	(2)	The provision that may be made by the regulations includes, but is not limited to:
-	(a)	provision fixing the maximum loaded mass of a B‑double or any of its component parts; and
-	(b)	prohibition of the operation of a B‑double on a road that is not a federal route; and
-	(c)	prohibition of the operation of a B‑double on a federal route in breach of conditions determined under subsection 43A(2) in relation to that route; and
-	(d)	prohibition of the embarkation or disembarkation of passengers on or from a B‑double except at a place approved under the regulations for the purpose; and
-	(e)	prohibition of the loading or unloading of goods on or from a B‑double except at a place approved by or under the regulations for the purpose; and
+	(a)	provision fixing the maximum loaded mass of a B-double or any of its component parts; and
+	(b)	prohibition of the operation of a B-double on a road that is not a federal route; and
+	(c)	prohibition of the operation of a B-double on a federal route in breach of conditions determined under subsection 43A(2) in relation to that route; and
+	(d)	prohibition of the embarkation or disembarkation of passengers on or from a B-double except at a place approved under the regulations for the purpose; and
+	(e)	prohibition of the loading or unloading of goods on or from a B-double except at a place approved by or under the regulations for the purpose; and
 	(f)	provision as to the maximum exterior dimensions of a B‑double or any of its component parts; and
-	(g)	requirements as to the specifications or condition of any part of a B‑double or any equipment on, or forming part of, a B‑double; and
-	(h)	provision requiring B‑doubles:
+	(g)	requirements as to the specifications or condition of any part of a B-double or any equipment on, or forming part of, a B‑double; and
+	(h)	provision requiring B-doubles:
 	(i)	to be weighed; and
 	(ii)	if necessary, to be unloaded;
 		for the purpose of ensuring that they comply with this Act and the regulations.
-12C  Operating requirements for B‑doubles
-		In spite of any law of a State relating to the operation of articulated vehicles, it is lawful, subject to this Act, for a B‑double that is operated in accordance with this Act and the regulations to be operated on a road in a State in the carriage of passengers or goods between prescribed places or for any purpose that is incidental to carriage of that kind.
-12D  Offences involving the operation of B‑doubles
-	(1)	A person must not operate a B‑double in the carriage of passengers or goods between prescribed places or for any purpose that is incidental to carriage of that kind if:
-	(a)	the loaded mass of the B‑double exceeds the maximum loaded mass applicable to the B‑double under the regulations; or
-	(b)	the loaded mass of any component part of the B‑double exceeds the maximum loaded mass applicable to that component under the regulations.
-Penalty:	40 penalty units.
-	(2)	A person who, in relation to a B‑double, contravenes regulations made for the purposes of paragraph 12B(2)(h) is guilty of an offence punishable on conviction by a fine not exceeding 40 penalty units.
+12C  Operating requirements for B-doubles
+In spite of any law of a State relating to the operation of articulated vehicles, it is lawful, subject to this Act, for a B‑double that is operated in accordance with this Act and the regulations to be operated on a road in a State in the carriage of passengers or goods between prescribed places or for any purpose that is incidental to carriage of that kind.
+12D  Offences involving the operation of B-doubles
+	(1)	A person must not operate a B-double in the carriage of passengers or goods between prescribed places or for any purpose that is incidental to carriage of that kind if:
+	(a)	the loaded mass of the B-double exceeds the maximum loaded mass applicable to the B-double under the regulations; or
+	(b)	the loaded mass of any component part of the B-double exceeds the maximum loaded mass applicable to that component under the regulations.
+Penalty: 40 penalty units.
+	(2)	A person who, in relation to a B-double, contravenes regulations made for the purposes of paragraph 12B(2)(h) is guilty of an offence punishable on conviction by a fine not exceeding 40 penalty units.
 Note:	If a body corporate is convicted of the offence, subsection 4B(3) of the Crimes Act 1914 allows a court to impose a fine of an amount that is not greater than 5 times the maximum fine that could be imposed by the court on an individual convicted of the same offence.
 13  Regulations may make further provision with respect to registered motor vehicles etc.
 	(1)	The regulations may make provision for and in relation to:
 	(a)	requiring a registered motor vehicle or trailer to comply with such requirements as are specified in the regulations;
-	(aa)	requiring a registered motor vehicle or trailer, other than a vehicle or trailer being operated as part of a B‑double, to comply with such mass limits as are specified in the regulations;
+	(aa)	requiring a registered motor vehicle or trailer, other than a vehicle or trailer being operated as part of a B-double, to comply with such mass limits as are specified in the regulations;
 	(b)	requiring the owner of a registered motor vehicle or trailer to cause the motor vehicle or trailer to be fuelled, lubricated, cleaned, maintained or repaired, or to cause other acts or things to be done in relation to the motor vehicle or trailer, in accordance with the regulations;
 	(c)	requiring arrangements relating to insurance to be in force in connection with a registered motor vehicle or trailer;
 	(d)	prohibiting the defacement, or the alteration, without the authority of a Registration Authority, of certificates of registration, registration plates and registration labels;
@@ -360,29 +358,27 @@ Note:	If a body corporate is convicted of the offence, subsection 4B(3) of the C
 	(a)	to be weighed; and
 	(b)	if necessary, to be unloaded;
 for the purpose of ensuring that they comply with mass limits.
-
 Part III—Collection of interstate road transport charge
 14  By whom charge payable
-		An amount of charge in respect of the registration of a motor vehicle or trailer is payable by the person who is, at the time when the amount is due and payable, the owner of the motor vehicle or trailer.
+An amount of charge in respect of the registration of a motor vehicle or trailer is payable by the person who is, at the time when the amount is due and payable, the owner of the motor vehicle or trailer.
 16  When charge due and payable
-		Charge in respect of the registration of a motor vehicle or trailer is due and payable on the day on which the registration comes into force.
+Charge in respect of the registration of a motor vehicle or trailer is due and payable on the day on which the registration comes into force.
 18  Refund of charge on cancellation or surrender
-		If the registration of a motor vehicle or trailer is cancelled or surrendered the Commonwealth must refund to the owner an amount worked out using the formula
-
+If the registration of a motor vehicle or trailer is cancelled or surrendered the Commonwealth must refund to the owner an amount worked out using the formula:
+ 
 where:
-A is the amount of charge payable in respect of the registration of the motor vehicle or trailer; 
-B is the number of whole days in the period commencing on the cancellation or surrender and ending at the time when the registration would, apart from the cancellation or surrender, have expired; and
-C is the number of whole days in the period that is applicable to the registration under subsection 9(3).
-19  Refund of charge in relation to intra‑state operations
+A	is the amount of charge payable in respect of the registration of the motor vehicle or trailer; 
+B	is the number of whole days in the period commencing on the cancellation or surrender and ending at the time when the registration would, apart from the cancellation or surrender, have expired; and
+C	is the number of whole days in the period that is applicable to the registration under subsection 9(3).
+19  Refund of charge in relation to intra-state operations
 	(1)	Subject to subsection (2), where:
-	(a)	a registered motor vehicle or trailer is used in intra‑state operations; and
+	(a)	a registered motor vehicle or trailer is used in intra-state operations; and
 	(b)	that use was not in contravention of a law of a State;
-the owner of the motor vehicle or trailer is entitled to a refund of the charge in respect of the registration of the motor vehicle or trailer of an amount calculated in accordance with the formula
-
+the owner of the motor vehicle or trailer is entitled to a refund of the charge in respect of the registration of the motor vehicle or trailer of an amount calculated in accordance with the formula 
 where:
-A is the number of whole kilometres travelled by the motor vehicle or trailer in intra‑state operations during the period the registration was in force;
-B is the amount of charge payable in respect of the registration of the motor vehicle or trailer; and
-C is the number of whole kilometres travelled by the motor vehicle or trailer during the period the registration was in force.
+A	is the number of whole kilometres travelled by the motor vehicle or trailer in intra-state operations during the period the registration was in force;
+B	is the amount of charge payable in respect of the registration of the motor vehicle or trailer; and
+C	is the number of whole kilometres travelled by the motor vehicle or trailer during the period the registration was in force.
 	(2)	The owner of a motor vehicle or trailer is not entitled to a refund under subsection (1) in relation to the motor vehicle or trailer unless:
 	(a)	the owner makes a claim for the refund in accordance with the approved form to a Registration Authority;
 	(b)	the owner caused to be prepared a written record in accordance with the approved form of each journey undertaken by the motor vehicle or trailer during the period the registration was in force; and
@@ -393,14 +389,13 @@ C is the number of whole kilometres travelled by the motor vehicle or trailer du
 	(a)	a person (in this subsection referred to as the convicted person) is convicted before a court of an offence against section 47 in relation to an act or omission; and
 	(b)	the court is satisfied that the purpose of, or one of the purposes of, the act or omission was to enable the convicted person or another person to receive an amount under subsection (1) to which the convicted person or the other person, as the case requires, was not entitled;
 the court may, in addition to imposing a penalty on the convicted person, order the convicted person to pay to the Commonwealth an amount not exceeding double the amount referred to in paragraph (b).
-	(4)	A reference in this section to the use of a motor vehicle or trailer in intra‑state operations is a reference to the use of the motor vehicle or trailer otherwise than:
+	(4)	A reference in this section to the use of a motor vehicle or trailer in intra-state operations is a reference to the use of the motor vehicle or trailer otherwise than:
 	(a)	in the carriage of passengers or goods between prescribed places; or
 	(b)	for any purpose that is incidental to carriage of that kind.
 20  Recovery of charge
 Charge payable to the Commonwealth may be recovered as a debt due to the Commonwealth.
-
 Part IV—Interstate Road Transport Reserve
-  
+Do not delete : Division placeholder
 21  Interstate Road Transport Reserve
 	(1)	This subsection establishes a reserve called the Interstate Road Transport Reserve.
 	(2)	The Reserve is a component of the Reserved Money Fund.
@@ -419,11 +414,11 @@ Part IV—Interstate Road Transport Reserve
 	(A)	the expenditure by the State during that year out of that amount;
 	(B)	in a case where that amount was paid to the State and that amount or part of that amount has been paid by the State to a government authority—the expenditure by the government authority during that year out of that amount or that part of that amount; and
 	(C)	any sum set aside during that year out of that amount for expenditure by the State but not expended during that year; and
-	(ii)	a certificate by the Auditor‑General of the State certifying that, in the opinion of the Auditor‑General, the contents of a statement referred to in subparagraph (i) are correct;
+	(ii)	a certificate by the Auditor-General of the State certifying that, in the opinion of the Auditor-General, the contents of a statement referred to in subparagraph (i) are correct;
 	(c)	that the State will expend the amount as required by a determination made under that subsection.
 	(6)	Payment of an amount to a State under subsection (1) may be made subject to such other conditions as are specified in a determination made under that subsection, including, but without limiting the generality of the foregoing, conditions for the purposes of this Act requiring the State to:
 	(a)	comply with a request to give information to the Minister; and
-	(b)	in a case where the Minister informs the Treasurer of the State that the Minister is satisfied that the State has not complied with a condition of payment—re‑pay to the Commonwealth that amount or such part of that amount as the Minister specifies.
+	(b)	in a case where the Minister informs the Treasurer of the State that the Minister is satisfied that the State has not complied with a condition of payment—re-pay to the Commonwealth that amount or such part of that amount as the Minister specifies.
 	(7)	The Minister shall cause a copy of a determination made under subsection (1) to be given to the appropriate Minister of each State.
 	(8)	For the purposes of this section, a notification or request shall be taken to have been given to a State if it is given to the appropriate Minister of the State.
 	(9)	An amount paid by a State to a government authority for a particular purpose and expended by that authority for that purpose shall, for the purposes of this section, be deemed to have been expended by the State for that purpose.
@@ -434,14 +429,12 @@ government authority means:
 	(a)	a local government body; or
 	(b)	an authority of a State, being an incorporated body but not being a local government body, that is responsible for the construction of roads in, or in an area of, the State.
 wages includes payments in the nature of wages.
-
-Part V—Licensing of interstate road transport operators (sections 24‑35) [Not in operation—see Notes 2, 3]
-
+Part V—Licensing of interstate road transport operators (sections 24-35) [Not in operation—see Notes 2, 3]
 Part VI—Monitoring devices
 36  Regulations may specify requirements for monitoring devices [see Note 2]
 37  [Not in operation—see Note 2]
 38  Monitoring devices to be fitted in accordance with the regulations
-		A motor vehicle or trailer shall not be taken, for the purposes of this Act, to be fitted with a monitoring device unless the monitoring device is fitted in accordance with the regulations.
+A motor vehicle or trailer shall not be taken, for the purposes of this Act, to be fitted with a monitoring device unless the monitoring device is fitted in accordance with the regulations.
 39  Owner of motor vehicle or trailer to maintain monitoring device
 	(1)	The regulations may require the owner of a registered motor vehicle fitted with a standard monitoring device to:
 	(a)	cause the monitoring device to be kept in good repair; and
@@ -457,17 +450,17 @@ Part VI—Monitoring devices
 	(g)	notify a Licensing Authority of such matters relevant to monitoring devices as are specified in the regulations including, but without limiting the generality of the foregoing, the places where monitoring device records are kept.
 	(2)	In paragraph (1)(e), mechanically includes electronically or by any other means not involving direct human manipulation.
 40  Offences relating to monitoring devices
-		If a registered motor vehicle is fitted with a standard monitoring device, a person must not, during the period the registration is in force:
+If a registered motor vehicle is fitted with a standard monitoring device, a person must not, during the period the registration is in force:
 	(a)	destroy the monitoring device; or
 	(b)	damage, injure, manipulate or tamper or interfere with the monitoring device in such a way as to hinder the normal operation of the monitoring device; or
 	(c)	use or operate the monitoring device in such a way as to hinder the normal operation of the device; or
 	(d)	except as permitted by regulations made for the purposes of section 39, remove the monitoring device.
 Penalty: 10 penalty units.
 41  Falsification, concealment etc. of monitoring device record
-		A person shall not, during the period for which a monitoring device record is required to be kept, alter, deface, mutilate, falsify, damage, conceal or destroy (whether in whole or in part) the monitoring device record.
-Penalty:	10 penalty units.
+A person shall not, during the period for which a monitoring device record is required to be kept, alter, deface, mutilate, falsify, damage, conceal or destroy (whether in whole or in part) the monitoring device record.
+Penalty: 10 penalty units.
 42  Court may order payment of amount in addition to penalty
-		Where:
+Where:
 	(a)	a person (in this subsection referred to as the convicted person) is convicted before a court of an offence against section 40 or 41 in relation to an act or omission; and
 	(b)	the court is satisfied that the purpose of, or one of the purposes of, the act or omission was to facilitate the avoidance of an amount of charge payable by the convicted person or another person;
 the court may, in addition to imposing a penalty on the convicted person, order the convicted person to pay to the Commonwealth an amount not exceeding double the amount referred to in paragraph (b).
@@ -482,11 +475,10 @@ the court may, in addition to imposing a penalty on the convicted person, order 
 	(iii)	an offence punishable by imprisonment for a period of not less than 3 years; or
 	(b)	the record is adduced by the defendant.
 	(2)	Nothing in this section affects the admissibility in any civil proceedings of a monitoring device record.
-
 Part VII—Miscellaneous
 43A  Determination of federal routes
 	(1)	The Minister may determine, in writing, that certain roads or categories of roads are to be routes for the carriage of passengers or goods between prescribed places or for any purpose that is incidental to carriage of that kind.
-	(2)	The Minister may determine, in writing, conditions to which the operation of a B‑double on a federal route is subject.
+	(2)	The Minister may determine, in writing, conditions to which the operation of a B-double on a federal route is subject.
 	(3)	The Minister must cause a notice of a determination made under this section to be published in the Gazette.
 	(4)	The Minister shall cause a copy of a determination under subsection (2) to be laid before each House of the Parliament within 15 sitting days of that House after the determination is published in the Gazette.
 	(5)	If either House of the Parliament, within 15 sitting days of that House after a copy of a determination has been laid before that House, passes a resolution disapproving of the determination, then the determination shall not have any force or effect on or after the day on which the resolution was passed.
@@ -510,11 +502,11 @@ the police officer or inspector may:
 	(ii)	is, or is likely to be, dangerous or unsafe;
 		by notice in writing given to the driver of the motor vehicle or trailer, require the driver of the motor vehicle or trailer to cause the motor vehicle or trailer to be driven, or if the police officer or inspector so directs, towed, forthwith, or by such date as the police officer or inspector directs, to such place, or to a place included in such class of places, as the police officer or inspector directs for the purposes of being inspected by a Registration Authority or by a person authorised by a Registration Authority to act under this paragraph.
 	(2)	A person shall not refuse or fail to comply with a requirement under paragraph (1)(c) or (e) to the extent that the person is capable of complying with the requirement.
-Penalty:	10 penalty units.
+Penalty: 10 penalty units.
 	(3)	Where the driver of a motor vehicle or trailer stops the motor vehicle or trailer pursuant to a requirement given under paragraph (1)(c) by a police officer who is not in uniform or by an inspector, the police officer or inspector shall, before searching, inspecting or testing the motor vehicle or trailer or giving a requirement of the kind mentioned in subparagraph (1)(c)(ii), (iii), (iv) or (v) or paragraph (1)(e), produce, for the inspection of the driver of the motor vehicle or trailer, written evidence of the fact that he or she is a police officer or an inspector, as the case may be.
 	(4)	For the purposes of subsection (3), the Minister may cause to be issued to an inspector an identity card in a form approved by the Minister by writing.
 	(5)	A person who ceases to be an inspector shall forthwith return his or her identity card to the Minister.
-Penalty:	1 penalty unit.
+Penalty: 1 penalty unit.
 	(6)	A person shall not, by words or conduct, falsely represent that he or she is an inspector.
 Penalty:	Imprisonment for 2 years.
 Note:	Subsection 4B(2) of the Crimes Act 1914 allows a court to impose an appropriate fine instead of, or in addition to, a term of imprisonment.
@@ -536,7 +528,7 @@ State officer means a person who:
 	(2)	A person shall not, without reasonable excuse, refuse or fail to comply with a notice under this section to the extent that the person is capable of complying with it.
 Penalty:	10 penalty units.
 Note:	If a body corporate is convicted of the offence, subsection 4B(3) of the Crimes Act 1914 allows a court to impose a fine of an amount that is not greater than 5 times the maximum fine that could be imposed by the court on an individual convicted of the same offence.
-	(3)	A person who, pursuant to a notice under this section, produces a document that, to the knowledge of the person, is false or misleading in a material particular shall, upon so producing the document, give to the person to whom the first‑mentioned person is required to produce the document, a statement in writing signed by the first‑mentioned person or, in the case of a body corporate, by a competent officer of the body corporate:
+	(3)	A person who, pursuant to a notice under this section, produces a document that, to the knowledge of the person, is false or misleading in a material particular shall, upon so producing the document, give to the person to whom the first-mentioned person is required to produce the document, a statement in writing signed by the first-mentioned person or, in the case of a body corporate, by a competent officer of the body corporate:
 	(a)	stating that the document is, to the knowledge of the first‑mentioned person, false or misleading in a material particular; and
 	(b)	setting out, or referring to, the material particular in respect of which the document is, to the knowledge of the first‑mentioned person, false or misleading.
 Penalty:	Imprisonment for 6 months.
@@ -567,7 +559,7 @@ Note:	Subsection 4B(2) of the Crimes Act 1914 allows a court to impose an approp
 	(3)	Where, in proceedings for an offence against this Act, it is necessary to establish the state of mind of a person other than a body corporate in relation to particular conduct, it is sufficient to show:
 	(a)	that the conduct was engaged in by a servant or agent of the person within the scope of his or her actual or apparent authority; and
 	(b)	that the servant or agent had the state of mind.
-	(4)	Any conduct engaged in on behalf of a person other than a body corporate by a servant or agent of the person within the scope of his or her actual or apparent authority is to be taken, in proceedings for an offence against this Act, to have been engaged in also by the first‑mentioned person unless the person establishes that the person took reasonable precautions and exercised due diligence to avoid the conduct.
+	(4)	Any conduct engaged in on behalf of a person other than a body corporate by a servant or agent of the person within the scope of his or her actual or apparent authority is to be taken, in proceedings for an offence against this Act, to have been engaged in also by the first-mentioned person unless the person establishes that the person took reasonable precautions and exercised due diligence to avoid the conduct.
 	(5)	Where:
 	(a)	a person other than a body corporate is convicted of an offence; and
 	(b)	the person would not have been convicted of the offence if subsections (3) and (4) had not been enacted;
@@ -588,7 +580,7 @@ this Act includes the regulations.
 	(1)	A power conferred by sections 9, 11 and 26, subsection 27(8), section 30 and subsection 32(2) on the Minister or on a Regulatory Authority and a power conferred on a court by subsections 27(1), (2) and (7) shall not be exercised in such a manner that:
 	(a)	trade, commerce and intercourse among the States is not absolutely free within the meaning of section 92 of the Constitution; or
 	(aa)	trade, commerce or intercourse between the Australian Capital Territory and a State is not absolutely free within the meaning of section 69 of the Australian Capital Territory (Self‑Government) Act 1988.
-	(b)	trade, commerce or intercourse between the Northern Territory and the States is not absolutely free within the meaning of section 49 of the Northern Territory (Self‑Government) Act 1978.
+	(b)	trade, commerce or intercourse between the Northern Territory and the States is not absolutely free within the meaning of section 49 of the Northern Territory (Self-Government) Act 1978.
 	(2)	In subsection (1), State does not include the Australian Capital Territory or the Northern Territory.
 50  Delegation
 	(1)	A Regulatory Authority or the Minister may, either generally or as otherwise provided by the instrument of delegation, by writing signed by the Regulatory Authority or the Minister, as the case may be, delegate to a person all or any of his or her powers under this Act or the regulations, other than this power of delegation or the powers conferred by subsection 23(1), (2) or (5) or section 34 or 48.
@@ -600,7 +592,7 @@ this Act includes the regulations.
 	(1)	In this section:
 decision has the same meaning as in the Administrative Appeals Tribunal Act 1975.
 relevant decision means:
-	(a)	a decision of a Regulatory Authority, or a delegate of a Regulatory Authority, under section 9, 11 or 26, subsection 27(8), section 30 or subsection 32(2); or
+	(a)	a decision of a Regulatory Authority, or a delegate of a Regulatory Authority, under section 9, 11 or 26, subsection 27(8), section 30 or subsection 32(2); or
 	(b)	a decision of a delegate of the Minister under subsection (2) of this section.
 reviewable decision means a decision of the Minister under subsection (2) or (4) of this section, but does not include a decision of a delegate of the Minister under subsection (2) of this section.
 	(2)	A person affected by a relevant decision who is dissatisfied with the decision may, within 28 days after the day on which the decision first comes to the notice of the person, or within such further period as the Minister (either before or after the end of that period), by notice in writing served on the person, allows, by notice in writing given to the Minister, request the Minister to reconsider the decision.
@@ -616,7 +608,7 @@ reviewable decision means a decision of the Minister under subsection (2) or (4)
 	(8)	Where the Minister, or a delegate of the Minister, makes a reviewable decision and gives to a person whose interests are affected by the decision notice in writing of the making of the decision, that notice shall include a statement to the effect that, subject to the Administrative Appeals Tribunal Act 1975, application may be made to the Administrative Appeals Tribunal for review of the decision to which the notice relates by or on behalf of a person whose interests are affected by the decision.
 	(9)	Any failure to comply with the requirements of subsection (7) or (8) in relation to a decision does not affect the validity of the decision.
 52  Effect of this Act and regulations on State laws
-	(1)	It is the intention of the Parliament that this Act (except sections 12A and 12C) and the regulations shall not, subject to subsection (2), apply to the exclusion of a law of a State.
+	(1)	It is the intention of the Parliament that this Act (except sections 12A and 12C) and the regulations shall not, subject to subsection (2), apply to the exclusion of a law of a State.
 	(2)	Subsection (1) does not apply to a law of a State in so far as that law has the effect of:
 	(a)	requiring a motor vehicle or trailer that is registered under this Act and operating as mentioned in subsection 8(1) to be registered under a law of a State;
 	(b)	requiring compliance, in respect of a registered motor vehicle or trailer, with requirements that are directly inconsistent with requirements prescribed for the purposes of subsection 12B(1) or section 13, 37 or 39, or conditions determined under subsection 43A(2);
@@ -640,9 +632,9 @@ the proper officer of the court shall issue to the Minister a certificate in the
 	(4)	Upon registration under subsection (3), the certificate is enforceable in all respects as a final judgment of the court in favour of the Commonwealth.
 	(5)	The costs of registration of the certificate and other proceedings under this section shall, subject to the prescribed conditions (if any), be deemed to be payable under the certificate.
 55  Recovery of fees
-		A fee payable to the Commonwealth under this Act may be recovered as a debt due to the Commonwealth by action in a court of competent jurisdiction.
+A fee payable to the Commonwealth under this Act may be recovered as a debt due to the Commonwealth by action in a court of competent jurisdiction.
 56  Regulations
-	(1)	The Governor‑General may make regulations, not inconsistent with this Act, prescribing matters:
+	(1)	The Governor-General may make regulations, not inconsistent with this Act, prescribing matters:
 	(a)	required or permitted by this Act to be prescribed; or
 	(b)	necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 	(2)	Without limiting the generality of subsection (1), the regulations may make provision for and in relation to:
@@ -656,24 +648,24 @@ the proper officer of the court shall issue to the Minister a certificate in the
 	(i)	in the case of a natural person—4 penalty units; or
 	(ii)	in the case of a body corporate—20 penalty units; and
 	(e)	penalties not exceeding a fine of 10 penalty units for offences against the regulations, other than offences referred to in paragraph (d);
-	(f)	enabling a person who is alleged to have committed an offence referred to in paragraph (e) to pay to the Commonwealth, as an alternative to prosecution, a penalty not exceeding:
+	 (f)	enabling a person who is alleged to have committed an offence referred to in paragraph (e) to pay to the Commonwealth, as an alternative to prosecution, a penalty not exceeding:
 	(i)	in the case of a natural person—1 penalty unit; or
 	(ii)	in the case of a body corporate—5 penalty units.
 	(3)	The regulations may make provision for or in relation to a matter by applying, adopting or incorporating, with or without modification, any matter contained in an instrument or other writing as in force at a particular time or as in force from time to time.
 	(4)	Subject to section 4A, a fee provided for under paragraph (2)(c) shall not exceed $100. 
-Notes to the Interstate Road Transport Act 1985
-Note 1
-The Interstate Road Transport Act 1985 as shown in this compilation comprises Act No. 130, 1985 amended as indicated in the Tables below. 
+NOTES
+1. 	The Interstate Road Transport Act 1985 as shown in this reprint comprises Act No. 130, 1985 amended as indicated in the Tables below. 
 Table of Acts
 Act
 Number  and year
 Date  of Assent
 Date of commencement
 Application, saving or transitional provisions
+
 Interstate Road Transport Act 1985
 130, 1985
 22 Nov 1985
-Ss. 1 and 2: Royal Assent Part 5 (ss. 24‑35), ss. 36(1), (5) and 37: [see Note 2] Remainder: 1 Jan 1987 (see Gazette 1986, No. S661)
+Ss. 1 and 2: Royal Assent Part 5 (ss. 24-35), ss. 36(1), (5) and 37: [see Note 2] Remainder: 1 Jan 1987 (see Gazette 1986, No. S661)
 
 Statute Law (Miscellaneous Provisions) Act (No. 1) 1986
 76, 1986
@@ -703,7 +695,7 @@ Transport and Communications Legislation Amendment Act 1989
 Transport and Communications Legislation Amendment Act (No. 2) 1989
 23, 1990
 17 Jan 1990
-Part 9 (ss. 22‑26): Royal Assent (c)
+Part 9 (ss. 22-26): Royal Assent (c)
 —
 Interstate Road Transport Amendment Act 1991
 128, 1991
@@ -733,36 +725,28 @@ Interstate Road Transport Amendment Act 1995
 Audit (Tranistional and Miscellaneous) Amendment Act 1997
 152, 1997
 24 Oct 1997
-Schedule 2 (items 881‑888): 1 Jan 1998 (see Gazette 1997, No. GN49) (f)
+Schedule 2 (items 881-888): 1 Jan 1998 (see Gazette 1997, No. GN49) (f)
 —
 Interstate Road Transport Amendment Act 1998
 43, 1998
 17 June 1998
 17 June 1998
 —
-Interstate Road Transport Amendment Act 2000
-40, 2000
-3 May 2000
-[see (g) and Note 4]
-—
 (a)	The Interstate Road Transport Act 1985 was amended by section 3 only of the Statute Law (Miscellaneous Provisions) Act (No. 1) 1986, subsections 2(12) and (13) of which provide as follows:
-	(12)	The amendment of paragraph 39(b) of the Interstate Road Transport Act 1985 made by this Act shall come into operation, or shall be deemed to have come into operation, as the case may be, immediately after section 39 of the Interstate Road Transport Act 1985 comes or came into operation. 
-	(13)	The amendment of paragraph 40(b) of the Interstate Road Transport Act 1985 made by this Act shall come into operation, or shall be deemed to have come into operation, as the case may be, immediately after section 40 of the Interstate Road Transport Act 1985 comes or came into operation.
+	 “(12)	The amendment of paragraph 39(b) of the Interstate Road Transport Act 1985 made by this Act shall come into operation, or shall be deemed to have come into operation, as the case may be, immediately after section 39 of the Interstate Road Transport Act 1985 comes or came into operation. 
+	“(13)	The amendment of paragraph 40(b) of the Interstate Road Transport Act 1985 made by this Act shall come into operation, or shall be deemed to have come into operation, as the case may be, immediately after section 40 of the Interstate Road Transport Act 1985 comes or came into operation.”
 	Sections 39 and 40 came into operation on 1 January 1987 (see Gazette 1986, No. S661).
 (b)	The Interstate Road Transport Act 1985 was amended by section 3 only of the Statute Law (Miscellaneous Provisions) Act (No. 2) 1986, subsection 2(7) of which provides as follows:
-	(7)	An amendment of a provision of the Interstate Road Transport Act 1985 made by this Act shall come into operation on the day on which that provision comes into operation. [see Note 2]
+	 “(7)	An amendment of a provision of the Interstate Road Transport Act 1985 made by this Act shall come into operation on the day on which that provision comes into operation.” [see Note 2]
 	The amendments to sections 3, 11, 39 and 50 commenced on 1 January 1987 (see Gazette 1986, No. S661).
-(c)	The Interstate Road Transport Act 1985 was amended by Part 9 (sections 22‑26) only of the Transport and Communications Legislation Amendment Act (No. 2) 1989, subsection 2(1) of which provides as follows:
-	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+(c)	The Interstate Road Transport Act 1985 was amended by Part 9 (sections 22-26) only of the Transport and Communications Legislation Amendment Act (No. 2) 1989, subsection 2(1) of which provides as follows:
+	 “(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.”
 (d)	The Interstate Road Transport Act 1985 was amended by the Schedule (item 50) only of the Transport and Communications Legislation Amendment Act (No. 2) 1993, subsection 2(4) of which provides as follows:
-	(4)	The amendment contained in item 50 of the Schedule is taken to have commenced on 17 January 1990.
+	“(4)	The amendment contained in item 50 of the Schedule is taken to have commenced on 17 January 1990.”
 (e)	The Transport and Communications Legislation Amendment Act (No. 2) 1993 was amended by Schedule 3 (item 123) only of the Statute Law Revision Act 1996, subsection 2(3) of which provides as follows:
-	(3)	Each item in Schedule 3 is taken to have commenced when the Act containing the provision amended by the item received the Royal Assent.
-(f)	The Interstate Road Transport Act 1985 was amended by Schedule 2 (items 881‑888) only of the Audit (Transitional and Miscellaneous) Amendment Act 1997, subsection 2(2) of which provides as follows:
-	(2)	Schedules 1, 2 and 4 commence on the same day as the Financial Management and Accountability Act 1997.
-(g)	The Interstate Road Transport Act 1985 was amended by the Interstate Road Transport Amendment Act 2000, section 2 of which provides as follows:
-	2	This Act commences immediately after the commencement of the Interstate Road Transport Charge Amendment Act 2000. [see Note 4]
-
+	“(3)	Each item in Schedule 3 is taken to have commenced when the Act containing the provision amended by the item received the Royal Assent.” 
+(f)	The Interstate Road Transport Act 1985 was amended by Schedule 2 (items 881-888) only of the Audit (Transitional and Miscellaneous) Amendment Act 1997, subsection 2(2) of which provides as follows:
+	“(2)	Schedules 1, 2 and 4 commence on the same day as the Financial Management and Accountability Act 1997.”
 Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
@@ -888,155 +872,144 @@ rep. No. 39, 1988
 S. 56	
 am. No. 39, 1988; No. 23, 1990; No. 128, 1991; No. 43, 1998
 
-Note 2
-Subsection 2(2) of the Interstate Road Transport Act 1985 provides as follows:
-	(2)	The remaining provisions of this Act shall come into operation on such day as is, or on such respective days as are, fixed by Proclamation.
-As at 30 May 2000 no date had been fixed for the commencement of Part V (sections 24‑35), subsections 36(1), (5) and section 37. They are set out below under the heading “EXTRACTS FROM INTERSTATE ROAD TRANSPORT ACT 1985 (No. 130, 1995)”. 
-Note 3
-Section 30 was amended by section 3 and Schedule 1 only of the Statute Law (Miscellaneous Provisions) Act (No. 2) 1986. The provision of Schedule 1 applicable to the Interstate Road Transport Act 1985 provides as follows:
+2.	Subsection 2(2) of the Interstate Road Transport Act 1985 provides as follows:
+“(2)	The remaining provisions of this Act shall come into operation on such day as is, or on such respective days as are, fixed by Proclamation.”
+	As at 26 October 1998 no date had been fixed for the commencement of Part V (sections 24‑35), subsections 36(1), (5) and section 37. They are set out below under the heading “EXTRACTS FROM INTERSTATE ROAD TRANSPORT ACT 1985 (No. 130, 1995)”. 
+3.	Section 30 was amended by section 3 and Schedule 1 only of the Statute Law (Miscellaneous Provisions) Act (No. 2) 1986. The provision of Schedule 1 applicable to the Interstate Road Transport Act 1985 provides as follows:
 Schedule 1
-Subsection 30(5)
-Omit “the Licensing Authority is satisfied that”.
-Subsection 2(7) of the Statute Law (Miscellaneous Provisions) Act (No. 2) 1986 provides as follows:
-	(7)	An amendment of a provision of the Interstate Road Transport Act 1985 made by this Act shall come into operation on the day on which that provision comes into operation.
-As at 30 May 2000 no date had been fixed for the amendment of subsection 30(5) and it is not incorporated in this compilation. 
-
-Note 4
-The following amendment commences immediately after Act No. 41, 2000, on 1 January 2001 if not proclaimed ealier:
-Schedule 1
-1  Subsection 3(1) (definition of trailer)
-Repeal the definition, substitute:
-trailer means a vehicle that is built to be towed, or is towed, by a motor vehicle, but does not include a motor vehicle that is being towed.
-As at 30 May 2000 the amendment is not incorporated in this compilation.
-EXTRACTS FROM INTERSTATE ROAD TRANSPORT ACT 1985 (No. 130, 1985)
+Subsection 30(5)—
+Omit “the Licensing Authority is satisfed that”.
+	Subsection 2(7) of the Statute Law (Miscellaneous Provisions) Act (No. 2) 1986 provides as follows:
+“(7)	An amendment of a provision of the Interstate Road Transport Act 1985 made by this Act shall come into operation on the day on which that provision comes into operation.”
+	As at 26 October 1998 no date had been fixed for the amendment of subsection 30(5) and it is not incorporated in this reprint. 
+EXTRACTS FROM INTERSTATE ROAD TRANSPORT ACT 1985 (No. 130, 1995)
 PART V—LICENSING OF INTERSTATE ROAD TRANSPORT OPERATORS
 24  Interpretation [see NOTE 3 below]
-	(1)	In this Part:
-declared associate of a disqualified person means a person in respect of whom a declaration under subsection 30(1) is in force.
-disqualification means disqualification under subsection 27(1) or (2).
-disqualified person means a person in respect of whom a disqualification is in force.
-relevant safety provision means a provision of:
+(1)	In this Part:
+	declared associate of a disqualified person means a person in respect of whom a declaration under subsection 30(1) is in force.
+	disqualification means disqualification under subsection 27(1) or (2).
+	disqualified person means a person in respect of whom a disqualification is in force.
+	relevant safety provision  means a provision of:
 	(a)	a law of a State or Territory with respect to a road safety matter; or
 	(b)	a federal road safety standard.
-	(2)	Where a person is convicted of an offence against a law of a State or Territory constituted by a contravention of, or attempt to contravene or an involvement in a contravention of, a relevant safety provision, the person shall be taken, for the purposes of this Part, to have contravened, attempted to contravene or been involved in a contravention of, as the case may be, the relevant safety provision.
-	(3)	A reference in subsection (2) to a conviction of a person of an offence includes a reference to the making of an order under a provision of a law of a State or Territory corresponding to section 19B of the Crimes Act 1914 in relation to the person in respect of the offence.
-	(4)	A reference in this Part to a person involved in a contravention of a relevant safety provision is a reference to a person who:
+(2)	Where a person is convicted of an offence against a law of a State or Territory constituted by a contravention of, or attempt to contravene or an involvement in a contravention of, a relevant safety provision, the person shall be taken, for the purposes of this Part, to have contravened, attempted to contravene or been involved in a contravention of, as the case may be, the relevant safety provision.
+(3)	A reference in subsection (2) to a conviction of a person of an offence includes a reference to the making of an order under a provision of a law of a State or Territory corresponding to section 19B of the Crimes Act 1914 in relation to the person in respect of the offence.
+(4)	A reference in this Part to a person involved in a contravention of a relevant safety provision is a reference to a person who:
 	(a)	has aided, abetted, counselled or procured the contravention;
 	(b)	has induced, whether by threats or promises or otherwise, the contravention;
 	(c)	has been in any way, directly or indirectly, knowingly concerned in, or party to, the contravention; or
 	(d)	has conspired with others to effect the contravention. 
 25  Operators not to carry on long distance interstate road transport business unless licensed [see NOTE 3 below]
-		A person shall not carry on long distance interstate road transport business unless the person:
+	A person shall not carry on long distance interstate road transport business unless the person:
 	(a)	is the holder of a federal operator’s licence; or
 	(b)	is the holder of a State operator’s licence.
-Penalty:	$5,000.
+	Penalty: $5,000.
 26  Grant of federal operator’s licence
-	(1)	Subject to subsection (2), upon application made in accordance with the approved form by a person who proposes to carry on long distance interstate road transport business, a Licensing Authority shall grant to the applicant a licence authorising the carrying on by the person of long distance interstate road transport business unless:
+(1)	Subject to subsection (2), upon application made in accordance with the approved form by a person who proposes to carry on long distance interstate road transport business, a Licensing Authority shall grant to the applicant a licence authorising the carrying on by the person of long distance interstate road transport business unless:
 	(a)	the application is not accompanied by the prescribed fee;
 	(b)	the applicant is a disqualified person; or
 	(c)	the applicant is a declared associate of a disqualified person.
-	(2)	A Licensing Authority may refuse to grant a federal operator’s licence to an applicant under subsection (1) if:
+(2)	A Licensing Authority may refuse to grant a federal operator’s licence to an applicant under subsection (1) if:
 	(a)	the applicant is, in relation to any long distance interstate road transport business that is being or may be carried on by the applicant, a partner of a disqualified person; or
 	(b)	a disqualified person has, whether directly or indirectly, a significant degree of control of, or a significant capacity to influence, any long distance interstate road transport business that is being or may be carried on by the applicant.
-	(3)	An application under subsection (1) made by a person who proposes to carry on long distance interstate road transport business shall set out, in addition to the matters required by the form approved for the purposes of that subsection to be set out, the name of the person responsible for the day‑to‑day management of that business or, if there are 2 or more such persons, the person who is, or the persons who are, principally responsible for the day‑to‑day management of that business.
-	(4)	A Licensing Authority shall not grant a federal operator’s licence before the end of the period of 7 days after the day on which application was made for the licence.
-	(5)	An applicant for a federal operator’s licence may withdraw his or her application at any time before the licence is granted.
-	(6)	A federal operator’s licence comes into force on the day on which it is granted and remains in force until cancelled in accordance with this Act.
+(3)	An application under subsection (1) made by a person who proposes to carry on long distance interstate road transport business shall set out, in addition to the matters required by the form approved for the purposes of that subsection to be set out, the name of the person responsible for the day-to-day management of that business or, if there are 2 or more such persons, the person who is, or the persons who are, principally responsible for the day-to-day management of that business.
+(4)	A Licensing Authority shall not grant a federal operator’s licence before the end of the period of 7 days after the day on which application was made for the licence.
+(5)	An applicant for a federal operator’s licence may withdraw his or her application at any time before the licence is granted.
+(6)	A federal operator’s licence comes into force on the day on which it is granted and remains in force until cancelled in accordance with this Act.
 27  Disqualified persons
-	(1)	Subject to this Act, where a court, on application made to it by a Licensing Authority for an order under paragraph (d), is satisfied that:
+(1)	Subject to this Act, where a court, on application made to it by a Licensing Authority for an order under paragraph (d), is satisfied that:
 	(a)	a person has, after the commencement of this section, on one or more occasions, contravened, attempted to contravene, or been involved in a contravention of, one or more relevant safety provisions; and
 	(b)	it is in the interests of public safety to do so;
-the court may:
+	the court may:
 	(c)	except where the person has been admonished under this paragraph on 2 occasions in the period of 10 years ending on the day on which the application was made—admonish the person; or
 	(d)	make an order disqualifying the person, either permanently or for a specified period, from participating in long distance interstate transport business.
-	(2)	Where:
+(2)	Where:
 	(a)	a person (in this subsection referred to as the convicted person) is convicted before a court of an offence against regulations made for the purposes of section 37 or 39 or against section 40, 41, 44, 45 or 47 in relation to an act or omission; and
 	(b)	the court is satisfied that the purpose of, or one of the purposes of, the act or omission was to prevent or frustrate the collection of evidence relevant to proceedings that have been or could be instituted under subsection (1) against the convicted person or another person;
-the court may, in addition to imposing a penalty on the convicted person, make an order disqualifying the convicted person from participating in long distance interstate road transport business for such period, not exceeding 3 years, as is specified in the order of disqualification.
-	(3)	Subject to subsection (4), the disqualification of a person comes into force on such day as is specified in the order of disqualification.
-	(4)	Where a person is already disqualified for a specified period, a further period of disqualification of the person comes into force immediately after the end of the period for which the person is already disqualified.
-	(5)	Where a disqualification of a person comes into force, any federal operator’s licence held by the person shall be deemed to be cancelled.
-	(6)	A person who is disqualified shall be deemed, for the purposes of this Part, not to hold a State operator’s licence while the disqualification is in force.
-	(7)	Where a court disqualifies a person under subsection (1), the court may specify in the order of disqualification a date after which the person may apply under subsection (8) for the revocation of the disqualification.
-	(8)	Where a disqualification of a person is in force under subsection (1), a Licensing Authority may, on application made by a disqualified person after the date so specified in the order of disqualification, revoke the disqualification of the person if the person has not been further disqualified and the Licensing Authority is satisfied that there are special circumstances that warrant the revocation of the disqualification.
-	(9)	A court of summary jurisdiction shall not disqualify a person under subsection (1) for a period of more than 6 months.
-	(10)	A reference in subsection (1) to a court is a reference to:
+	the court may, in addition to imposing a penalty on the convicted person, make an order disqualifying the convicted person from participating in long distance interstate road transport business for such period, not exceeding 3 years, as is specified in the order of disqualification.
+(3)	Subject to subsection (4), the disqualification of a person comes into force on such day as is specified in the order of disqualification.
+(4)	Where a person is already disqualified for a specified period, a further period of disqualification of the person comes into force immediately after the end of the period for which the person is already disqualified.
+(5)	Where a disqualification of a person comes into force, any federal operator’s licence held by the person shall be deemed to be cancelled.
+(6)	A person who is disqualified shall be deemed, for the purposes of this Part, not to hold a State operator’s licence while the disqualification is in force.
+(7)	Where a court disqualifies a person under subsection (1), the court may specify in the order of disqualification a date after which the person may apply under subsection (8) for the revocation of the disqualification.
+(8)	Where a disqualification of a person is in force under subsection (1), a Licensing Authority may, on application made by a disqualified person after the date so specified in the order of disqualification, revoke the disqualification of the person if the person has not been further disqualified and the Licensing Authority is satisfied that there are special circumstances that warrant the revocation of the disqualification.
+(9)	A court of summary jurisdiction shall not disqualify a person under subsection (1) for a period of more than 6 months.
+(10)	A reference in subsection (1) to a court is a reference to:
 	(a)	a court of summary jurisdiction;
 	(b)	the Supreme Court of a State; or
 	(c)	the Supreme Court of the Australian Capital Territory.
 28  Monitoring device records etc.
-	(1)	The regulations may make provision for and in relation to the admissibility, in proceedings arising out of subsection 27(1), of a monitoring device record.
-	(2)	Where an alleged act or omission of a person constitutes both an offence against a law of a State or Territory and a contravention of, an attempt to contravene or an involvement in a contravention of, a relevant safety provision, proceedings shall not be instituted under subsection 27(1) in a court relating to that act or omission unless the Licensing Authority in respect of the State or Territory causes to be filed in the court a certificate issued not earlier than 7 days before the day on which the proceedings are instituted stating that, as of the day of issue of the certificate:
+(1)	The regulations may make provision for and in relation to the admissibility, in proceedings arising out of subsection 27(1), of a monitoring device record.
+(2)	Where an alleged act or omission of a person constitutes both an offence against a law of a State or Territory and a contravention of, an attempt to contravene or an involvement in a contravention of, a relevant safety provision, proceedings shall not be instituted under subsection 27(1) in a court relating to that act or omission unless the Licensing Authority in respect of the State or Territory causes to be filed in the court a certificate issued not earlier than 7 days before the day on which the proceedings are instituted stating that, as of the day of issue of the certificate:
 	(a)	it is not proposed to institute criminal proceedings against the person in respect of the act or omission; or
 	(b)	criminal proceedings have been instituted against the person in respect of the act or omission and those proceedings have been finally dealt with according to law.
-	(3)	Where, in proceedings arising out of subsection 27(1) in relation to an act done, or omitted to be done, by a body corporate, it is necessary to establish the intention of the body corporate, it is sufficient to show that a servant or agent of the body corporate by whom the act was done or omitted to be done, as the case may be, had the intention. 
-	(4)	In proceedings arising out of subsection 27(1), an act done, or omitted to be done, on behalf of a body corporate by:
+(3)	Where, in proceedings arising out of subsection 27(1) in relation to an act done, or omitted to be done, by a body corporate, it is necessary to establish the intention of the body corporate, it is sufficient to show that a servant or agent of the body corporate by whom the act was done or omitted to be done, as the case may be, had the intention. 
+(4)	In proceedings arising out of subsection 27(1), an act done, or omitted to be done, on behalf of a body corporate by:
 	(a)	a director, servant or agent of the body corporate;
 	(b)	any other person:
 	(i)	at the direction; or
 	(ii)	with the consent or agreement (whether express or implied);
-of a director, servant or agent of the body corporate;
-shall be deemed to have been done, or omitted to have been done, as the case may be, also by the body corporate.
+		of a director, servant or agent of the body corporate;
+	shall be deemed to have been done, or omitted to have been done, as the case may be, also by the body corporate.
 29  Matters to be taken into account by court
-		A court, in determining for the purposes of subsection 27(1) whether it is in the interests of public safety to disqualify a person, being a person who has, on one or more occasions, contravened, attempted to contravene, or been involved in the contravention of, one or more relevant safety provisions, shall have regard to all relevant matters, including, but without limiting the generality of the foregoing:
+	A court, in determining for the purposes of subsection 27(1) whether it is in the interests of public safety to disqualify a person, being a person who has, on one or more occasions, contravened, attempted to contravene, or been involved in the contravention of, one or more relevant safety provisions, shall have regard to all relevant matters, including, but without limiting the generality of the foregoing:
 	(a)	the conduct of the person before, during and after the attempt, involvement or contravention; and
 	(b)	any other conduct of the person that is relevant to road safety.
 30  Associates of disqualified persons
-	(1)	A Licensing Authority may, by notice in writing served on a person, declare the person to be an associate of a disqualified person if:
-	(a)	the first‑mentioned person has become, in relation to any long distance interstate road transport business that is being carried on by the first‑mentioned person, a partner of a disqualified person; or
-	(b)	a disqualified person has, whether directly or indirectly, acquired a significant degree of control of, or a significant capacity to influence, any long distance interstate road transport business that is being carried on by the first‑mentioned person.
-	(2)	A declaration under subsection (1) comes into force on such day as is specified in the notice of the declaration.
-	(3)	Where a declaration made in respect of a person comes into force under subsection (1), any federal operator’s licence held by the person shall be deemed to be cancelled.
-	(4)	A declared associate of a disqualified person shall be deemed, for the purposes of this Part, not to hold a State operator’s licence while the declaration made in respect of the person is in force under subsection (1).
-	(5)	Where a declaration made in respect of a person is in force under subsection (1), a Licensing Authority shall, on application made by the person, revoke the declaration if the Licensing Authority is satisfied that:
+(1)	A Licensing Authority may, by notice in writing served on a person, declare the person to be an associate of a disqualified person if:
+	(a)	the first-mentioned person has become, in relation to any long distance interstate road transport business that is being carried on by the first-mentioned person, a partner of a disqualified person; or
+	(b)	a disqualified person has, whether directly or indirectly, acquired a significant degree of control of, or a significant capacity to influence, any long distance interstate road transport business that is being carried on by the first-mentioned person.
+(2)	A declaration under subsection (1) comes into force on such day as is specified in the notice of the declaration.
+(3)	Where a declaration made in respect of a person comes into force under subsection (1), any federal operator’s licence held by the person shall be deemed to be cancelled.
+(4)	A declared associate of a disqualified person shall be deemed, for the purposes of this Part, not to hold a State operator’s licence while the declaration made in respect of the person is in force under subsection (1).
+(5)	Where a declaration made in respect of a person is in force under subsection (1), a Licensing Authority shall, on application made by the person, revoke the declaration if the Licensing Authority is satisfied that:
 	(a)	the person is not, in relation to any long distance interstate road transport business that is being carried on by the person, a partner of a disqualified person; and
-	(b)	no disqualified person has, whether directly or indirectly, a significant degree of control of, or a significant capacity to influence, any long distance interstate road transport business that is being carried on by the first‑mentioned person.
+	(b)	no disqualified person has, whether directly or indirectly, a significant degree of control of, or a significant capacity to influence, any long distance interstate road transport business that is being carried on by the first-mentioned person.
 31  Publication of particulars of disqualification etc.
-	(1)	As soon as practicable after a disqualification of a person comes into force, the Minister shall cause to be prepared a statement setting out particulars of the disqualification and explaining the effects of the disqualification.
-	(2)	As soon as practicable after a disqualification of a person is revoked in accordance with this Act, the Minister shall cause to be prepared a statement setting out particulars of the revocation and explaining the effects of the revocation.
-	(3)	Where a statement is prepared under subsection (1) or (2), the Minister shall, as soon as practicable after the preparation of the statement, and from time to time thereafter, may, cause the statement to be published in the prescribed manner.
-	(4)	The Minister shall cause to be kept registers to be known as the Register of Holders of Federal Operator’s Licences, the Register of Disqualified Persons and the Register of Declared Associates of Disqualified Persons.
-	(5)	A person may, on payment of the prescribed fee (if any), inspect a register kept under subsection (4).
+(1)	As soon as practicable after a disqualification of a person comes into force, the Minister shall cause to be prepared a statement setting out particulars of the disqualification and explaining the effects of the disqualification.
+(2)	As soon as practicable after a disqualification of a person is revoked in accordance with this Act, the Minister shall cause to be prepared a statement setting out particulars of the revocation and explaining the effects of the revocation.
+(3)	Where a statement is prepared under subsection (1) or (2), the Minister shall, as soon as practicable after the preparation of the statement, and from time to time thereafter, may, cause the statement to be published in the prescribed manner.
+(4)	The Minister shall cause to be kept registers to be known as the Register of Holders of Federal Operator’s Licences, the Register of Disqualified Persons and the Register of Declared Associates of Disqualified Persons.
+(5)	A person may, on payment of the prescribed fee (if any), inspect a register kept under subsection (4).
 32  Annual notice by holder of federal operator’s licence
-	(1)	Where:
+(1)	Where:
 	(a)	a person holds a federal operator’s licence on 1 July in any year; and
 	(b)	the person wishes to continue to hold the licence;
-the person shall, before 31 July in that year, or before such later date as the Licensing Authority allows, give a notice to a Licensing Authority in accordance with the approved form:
+	the person shall, before 31 July in that year, or before such later date as the Licensing Authority allows, give a notice to a Licensing Authority in accordance with the approved form:
 	(c)	stating that the person wishes to continue to hold the licence; and
 	(d)	setting out:
-	(i)	the name of the person responsible for the day‑to‑day management of any long distance interstate road transport business that is being or may be carried on by the first‑mentioned person or, if there are 2 or more such persons, the person who is, or the persons who are, principally responsible for the day‑to‑day management of that business; and
+	(i)	the name of the person responsible for the day-to-day management of any long distance interstate road transport business that is being or may be carried on by the first-mentioned person or, if there are 2 or more such persons, the person who is, or the persons who are, principally responsible for the day-to-day management of that business; and
 	(ii)	such other information (if any) with respect to any long distance interstate road transport business that is being or may be carried on by the person, as is required by the form to be given.
-	(2)	If a person who is the holder of a federal operator’s licence does not give a notice as and when required by subsection (1), a Licensing Authority may, by notice in writing served on the person, cancel the licence.
+(2)	If a person who is the holder of a federal operator’s licence does not give a notice as and when required by subsection (1), a Licensing Authority may, by notice in writing served on the person, cancel the licence.
 33  Court may inform Licensing Authority of conviction etc.
-	(1)	Where a person is convicted by a court of an offence constituted by a contravention of, an attempt to contravene, or an involvement in a contravention of, a relevant safety provision, the court may cause a Licensing Authority to be informed of that conviction.
-	(2)	A reference in subsection (1) to a conviction of a person of an offence includes a reference to the making of an order in relation to the person under a provision of a law of a State or Territory corresponding to section 19B of the Crimes Act 1914 in respect of the offence.
+(1)	Where a person is convicted by a court of an offence constituted by a contravention of, an attempt to contravene, or an involvement in a contravention of, a relevant safety provision, the court may cause a Licensing Authority to be informed of that conviction.
+(2)	A reference in subsection (1) to a conviction of a person of an offence includes a reference to the making of an order in relation to the person under a provision of a law of a State or Territory corresponding to section 19B of the Crimes Act 1914 in respect of the offence.
 34  Federal road safety standards
-		For the purposes of this Part, the Minister may, by order in writing, declare standards, to be known as federal road safety standards, with respect to road safety matters.
+	For the purposes of this Part, the Minister may, by order in writing, declare standards, to be known as federal road safety standards, with respect to road safety matters.
 35  Disallowance etc. of federal road safety standards [see NOTE 1 below]
-	(1)	Sections 48, 49, 49A and 50 of the Acts Interpretation Act 1901 apply in relation to orders made under section 34 of this Act as if in those sections references to regulations were references to orders, references to a regulation were references to an order and references to a repeal were references to a revocation.
-	(2)	An order made under section 34 of this Act shall be deemed to be a statutory rule within the meaning of the Statutory Rules Publication Act 1903.
+(1)	Sections 48, 49, 49A and 50 of the Acts Interpretation Act 1901 apply in relation to orders made under section 34 of this Act as if in those sections references to regulations were references to orders, references to a regulation were references to an order and references to a repeal were references to a revocation.
+(2)	An order made under section 34 of this Act shall be deemed to be a statutory rule within the meaning of the  Statutory Rules Publication Act 1903.
 36 Regulations may specify requirements for monitoring devices [see NOTE 2 below]
-	(1)	The regulations may specify requirements for standard monitoring devices.
-	(5)	A charge monitoring device may be a device of the same or a different kind as a standard monitoring device. 
+(1)	The regulations may specify requirements for standard monitoring devices.
+(5)	A charge monitoring device may be a device of the same or a different kind as a standard monitoring device. 
 37  Regulations may require standard monitoring device to be fitted to registered motor vehicles
-		The regulations may require a registered motor vehicle to be fitted with a standard monitoring device.
+	The regulations may require a registered motor vehicle to be fitted with a standard monitoring device.
 NOTE 1:	Section 8 and the Schedule only of the Statutory Instruments (Tabling and Disallowance) Legislation Amendment Act 1988 amended section 35 of the Interstate Road Transport Act 1985. The applicable provision provides as follows:
 Schedule
 Subsection 35(1):
 Insert “48A, 48B,” before “49” 
-Section 8 of the Statutory Instruments (Tabling and Disallowance) Legislation Amendment Act 1988 commenced on Royal Assent.
+	Section 8 of the Statutory Instruments (Tabling and Disallowance) Legislation Amendment Act 1988 commenced on Royal Assent.
 NOTE 2:	Section 3 and the Schedule of the Interstate Road Transport Amendment Act 1995 amended subsection 36(5) of the Interstate Road Transport Act 1985. The applicable provision provides as follows:
 Schedule
-12  Subsection 36(5): 
+12.	Subsection 36 (5): 
 Omit the subsection.
-Section 3 of the Interstate Road Transport Amendment Act 1995 commenced on 1 July 1995.
-NOTE 3:	Schedule 1 (items 25, 26) of the Interstate Road Transport Amendment Act 1998 amended subsections 24(2), (3) and subsection 25 (penalty) of the Interstate Road Transport Act 1985. The applicable provisions provide as follows:
+	Section 3 of the Interstate Road Transport Amendment Act 1995 commenced on 1 July 1995.
+NOTE 3:	Schedule 1 (items 25, 26) of the Interstate Road Transport Amendment Act 1998  amended subsections 24(2), (3) and subsection 25 (penalty) of the Interstate Road Transport Act 1985. The applicable provisions provide as follows:
 25  Subsections 24(2) and (3)
 Omit “or Territory”.
 26  Section 25 (penalty)
 Repeal the penalty, substitute:
 Penalty:	50 penalty units.
 Note:	If a body corporate is convicted of the offence, subsection 4B(3) of the Crimes Act 1914 allows a court to impose a fine of an amount that is not greater than 5 times the maximum fine that could be imposed by the court on an individual convicted of the same offence.
-Schedule 1 (items 25, 26) of the Interstate Road Transport Amendment Act 1998 commenced on Royal Assent.
-      
+	Schedule 1 (items 25, 26) of the Interstate Road Transport Amendment Act 1998 commenced on Royal Assent.
 
