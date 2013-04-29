@@ -1,20 +1,19 @@
-![](http://www.comlaw.gov.au/Details/C2011C00218/Html/d141d451-ff9b-4297-b9f3-5d3ba283cf60_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00342/Html/Lighthouses1911_image001.gif)
 
 # Lighthouses Act 1911
 
 **Act No. 14 of 1911 as amended**
 
-This compilation was prepared on 19 April 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 10 July 2008
+ taking into account amendments up to Act No. 73 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
 
-The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+The operation of amendments that have been incorporated may be affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -80,8 +79,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="author"></a>**_Authority_** means the Australian Maritime Safety Authority established by the _Australian Maritime Safety Authority Act 1990_.
 
-                    <a name="financ-minist"></a>**_Finance Minister_** means the Minister administering the _Financial Management and Accountability Act 1997_.
-
                     <a name="marin-navig-aid"></a>**_Marine navigational aid_** means:
 
                      (a)  a lighthouse, lightship, beacon or buoy; or
@@ -96,11 +93,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (1)  This Act extends to:
 
-                     (c)  the Territory of Cocos (Keeling)  Islands;
+                     (c)  the Territory of Cocos (Keeling) Islands;
 
                      (d)  the Coral Sea Islands Territory; and
 
-                     (e)  any other Territory not forming part of the Commonwealth to which the Governor‑General by Proclamation declares that this Act shall extend.
+                     (e)  any other Territory not forming part of the Commonwealth to which the Governor-General by Proclamation declares that this Act shall extend.
 
 ##### <a id="4A"></a>4A  Application of the _Criminal Code_
 
@@ -120,19 +117,19 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 ##### <a id="6"></a>6  Transfer of lighthouses etc. to be valid and effectual
 
-                   Where the Governor‑General has entered into an agreement with a State, or with any person, for the acquisition by the Commonwealth of any marine navigational aid, any instrument or assurance for granting or transferring the marine navigational aid to the Commonwealth accordingly shall, by virtue of this Act, and notwithstanding anything in the law of the State, be valid and effectual to vest the marine navigational aid in the Commonwealth according to the tenor thereof.
+                   Where the Governor-General has entered into an agreement with a State, or with any person, for the acquisition by the Commonwealth of any marine navigational aid, any instrument or assurance for granting or transferring the marine navigational aid to the Commonwealth accordingly shall, by virtue of this Act, and notwithstanding anything in the law of the State, be valid and effectual to vest the marine navigational aid in the Commonwealth according to the tenor thereof.
 
 ##### <a id="6A"></a>6A  Acquisition of lighthouses by compulsory process
 
-             (1)  Where the Commonwealth has failed to enter into an agreement with a State for the acquisition of any particular marine navigational aid the property of that State, the Commonwealth may acquire by compulsory process the marine navigational aid together with any lighthouse tender, store vessel, stores or equipment or other property used by it or him in connexion with the marine navigational aid, and so much of the land reserved dedicated set apart or used for the purpose of the marine navigational aid as the Governor‑General thinks sufficient.
+             (1)  Where the Commonwealth has failed to enter into an agreement with a State for the acquisition of any particular marine navigational aid the property of that State, the Commonwealth may acquire by compulsory process the marine navigational aid together with any lighthouse tender, store vessel, stores or equipment or other property used by it or him in connexion with the marine navigational aid, and so much of the land reserved dedicated set apart or used for the purpose of the marine navigational aid as the Governor-General thinks sufficient.
 
              (2)  For the purposes of this section, any marine navigational aid vested in any authority of a State shall be deemed to be the property of the State.
 
              (3)  The provisions of the _Lands Acquisition Act 1989_ in relation to the acquisition of interests in land by compulsory process and to the determination of the amount of compensation payable in respect of interests so acquired shall so far as applicable apply in relation to the acquisition of any marine navigational aid under this section.
 
-             (4)  The mode of compensation to the State in respect of each marine navigational aid acquired under this section shall be the payment in perpetuity of interest at the rate of three and one‑half per centum per annum on the amount of compensation so determined in respect of the marine navigational aid so acquired.
+             (4)  The mode of compensation to the State in respect of each marine navigational aid acquired under this section shall be the payment in perpetuity of interest at the rate of three and one-half per centum per annum on the amount of compensation so determined in respect of the marine navigational aid so acquired.
 
-             (5)  The interest payable in pursuance of this section shall be payable as from the date of the acquisition of the marine navigational aid, and shall be paid annually or at such shorter periods as the Finance Minister thinks fit.
+             (5)  The interest payable in pursuance of this section shall be payable as from the date of the acquisition of the marine navigational aid, and shall be paid annually or at such shorter periods as the Minister for Finance thinks fit.
 
              (6)  All payments to be made in pursuance of this section shall be payable out of moneys from time to time appropriated by the Parliament for the purpose.
 
@@ -292,7 +289,7 @@ Intentionally obstructing the view of marine navigational aids
 
 Recklessly obstructing the view of marine navigational aids
 
-          (1E)  A person commits an offence if:
+           (1E)  A person commits an offence if:
 
                      (a)  the person engages in conduct; and
 
@@ -362,11 +359,11 @@ Negligently interfering with marine navigational aids
 
                     Penalty:  200 penalty units.
 
-          (1L)  Absolute liability applies to paragraphs (1H)(d), (1J)(d) and (1K)(d).
+           (1L)  Absolute liability applies to paragraphs (1H)(d), (1J)(d) and (1K)(d).
 
 Defence to offences against subsections (1), (1A), (1B), (1D), (1E), (1F), (1H), (1J) and (1K)
 
-         (1M)  Subsection (1), (1A), (1B), (1D), (1E), (1F), (1H), (1J) or (1K) does not apply if:
+          (1M)  Subsection (1), (1A), (1B), (1D), (1E), (1F), (1H), (1J) or (1K) does not apply if:
 
                      (a)  the conduct that resulted in the destruction, fouling, damage, obstruction or interference referred to in that subsection was necessary to save a life or a ship, or to prevent pollution; and
 
@@ -430,7 +427,7 @@ Trespassing on ships, vessels, or property used by the Authority
 
                     Penalty:  10 penalty units.
 
-          (1T)  Absolute liability applies to paragraph (1S)(c).
+           (1T)  Absolute liability applies to paragraph (1S)(c).
 
              (2)  In addition to the penalty, any offender may be ordered to pay the amount of the damage caused by the commission of the offence, or the cost of repairing, replacing, or reinstating the marine navigational aid.
 
@@ -464,7 +461,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 ##### <a id="20"></a>20  Regulations fixing light dues
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters which by this Act are required or permitted to be prescribed, or which are necessary or convenient to be prescribed, for carrying out or giving effect to this Act.
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters which by this Act are required or permitted to be prescribed, or which are necessary or convenient to be prescribed, for carrying out or giving effect to this Act.
 
 # Notes to the _Lighthouses Act 1911_
 
@@ -950,30 +947,13 @@ Remainder: Royal Assent</div>
       <div>—</div>
     </td>
   </tr>
-  <tr>
-    <td>
-      <div>Statute Law Revision Act 2011</div>
-    </td>
-    <td>
-      <div>5, 2011</div>
-    </td>
-    <td>
-      <div>22 Mar 2011</div>
-    </td>
-    <td>
-      <div>Schedule 5 (items 121, 122): 19 Apr 2011</div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
 </thead></table>
 
 _(a)_     The _Lighthouses Act 1911_ was amended by the Schedule (item 51) only of the _Transport and Communications Legislation Amendment Act (No. 2) 1993_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to subsections (2) to (10) (inclusive), this Act commences on the day on which it receives the Royal Assent.
 
-_(b)_     The _Lighthouses Act 1911_ was amended by Schedule 2 (items 69 and 70) only of the _Statute Law Revision Act 1996_, subsection 2(2) of which provides as follows:
+_(b)_    The _Lighthouses Act 1911_ was amended by Schedule 2 (items 69 and 70) only of the _Statute Law Revision Act 1996_, subsection 2(2) of which provides as follows:
 
                  (2)   Each item in Schedule 2 commences or is taken to have commenced (as the case requires) at the time specified in the note at the end of the item.
 
@@ -1039,7 +1019,7 @@ _(b)_     The _Lighthouses Act 1911_ was amended by Schedule 2 (items�
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 35, 1942; No. 106, 1970; No. 99, 1979; No. 162, 1989; No. 78, 1990; No. 5, 2011</div>
+    <div>am. No. 35, 1942; No. 106, 1970; No. 99, 1979; No. 162, 1989; No. 78, 1990</div>
   </td>
 </tr>
 <tr>
@@ -1135,7 +1115,7 @@ _(b)_     The _Lighthouses Act 1911_ was amended by Schedule 2 (items�
     <div></div>
   </td>
   <td>
-    <div>am. No. 69, 1955; No. 93, 1966; No. 106, 1970; No. 216, 1973; No. 36, 1978; No. 21, 1989; No. 5, 2011</div>
+    <div>am. No. 69, 1955; No. 93, 1966; No. 106, 1970; No. 216, 1973; No. 36, 1978; No. 21, 1989</div>
   </td>
 </tr>
 <tr>
@@ -1351,7 +1331,7 @@ _(b)_     The _Lighthouses Act 1911_ was amended by Schedule 2 (items�
     <div></div>
   </td>
   <td>
-    <div>rs. No. 36, 1949; No. 9, 1957; No. 63, 1961</div>
+    <div>rs. No. 36, 1949; No. 9,1957; No. 63, 1961</div>
   </td>
 </tr>
 <tr>
