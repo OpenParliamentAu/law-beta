@@ -1,19 +1,16 @@
-![](http://www.comlaw.gov.au/Details/C2006C00284/Html/14A8E35A646C06B2CA25717F001DE743/$FILE/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C00019/Html/image001.gif)
 
 # Protection of the Sea (Powers of Intervention) Act 1981
 
 **Act No. 33 of 1981 as amended**
 
-This compilation was prepared on 24 May 2006
-taking into account amendments up to Act No. 44 of 2006
+This compilation was prepared on 23 October 2001
+taking into account amendments up to Act No. 149 of 2001
 
 The text of any of those amendments not in force 
 on that date is appended in the Notes section
 
-The operation of amendments that have been incorporated may be 
-affected by application provisions that are set out in the Notes section
-
-Prepared by the Office of Legislative Drafting and Publishing,
+Prepared by the Office of Legislative Drafting,
 Attorney-General’s Department, 
 Canberra
 
@@ -26,59 +23,61 @@ Canberra
 
 [3](#3).            Interpretation                                                                                       1
 
-[4](#4).            Act to bind Crown                                                                               4
+[3A](#3A).         Application of the _Criminal Code_                                                       2
 
-[5](#5).            Relationship to other laws                                                                   4
+[4](#4).            Act to bind Crown                                                                               2
 
-[6](#6).            Operation of Act                                                                                 5
+[5](#5).            Saving of other laws                                                                             3
 
-[7](#7).            Delegation                                                                                            5
+[6](#6).            Operation of Act                                                                                 3
 
-[8](#8).            Taking of measures to prevent pollution of sea by oil—maritime casualty on the high seas  5
+[7](#7).            Delegation                                                                                            3
 
-[9](#9).            Taking of measures to prevent pollution of sea by substances other than oil—maritime casualty on the high seas                                                                                                             7
+[8](#8).            Taking of measures under Convention to prevent pollution of sea by oil               3
 
-[10](#10).          Taking of measures to prevent pollution of sea by oil or noxious substances—general powers            9
+[9](#9).            Taking of measures under Protocol to prevent pollution of sea by substances other than oil                5
 
-[11](#11).          Directions under Act may require taking of action etc                      14
+[10](#10).          Taking of measures otherwise than under Convention or Protocol to prevent pollution of sea by oil or noxious substances                                                                                            6
 
-[12](#12).          Addressing of directions under Act etc                                             17
+[11](#11).          Directions under Act may require taking of action etc                      10
 
-[13](#13).          Issuing of more than one direction in relation to a ship                     17
+[12](#12).          Addressing of directions under Act etc                                             11
 
-[14](#14).          Directions under Act to ship or tangible asset with more than one owner etc        17
+[13](#13).          Issuing of more than one direction in relation to a ship                     11
 
-[15](#15).          Revocation and variation of directions under Act                             18
+[14](#14).          Directions under Act to ship with more than one owner etc            11
 
-[16](#16).          Directions under Act to be in writing                                                18
+[15](#15).          Revocation and variation of directions under Act                             11
 
-[17](#17).          Service of directions under Act                                                          18
+[16](#16).          Directions under Act to be in writing                                                12
 
-[17A](#17A).       Liability for acts and omissions                                                         20
+[17](#17).          Service of directions under Act                                                          12
 
-[17B](#17B).       Expenses of compliance with certain directions under Act may be recovered from owner of ship        22
+[18](#18).          Change in ownership or master of ship                                             13
 
-[18](#18).          Change in ownership or master of ship, or change in ownership of tangible asset  23
+[19](#19).          Contravention of direction under Act etc                                          13
 
-[19](#19).          Contravention of direction under Act etc                                          24
+[20](#20).          No time limit for prosecution                                                            14
 
-[20](#20).          No time limit for prosecution                                                            24
+[21](#21).          Evidence                                                                                             15
 
-[21](#21).          Evidence                                                                                             25
+[22](#22).          Transitional provision                                                                       15
 
-[22](#22).          Compensation for acquisition of property                                        25
+[23](#23).          Regulations                                                                                        15
 
-[23](#23).          Regulations                                                                                        25
+[24](#24).          Orders                                                                                                16
 
 **Schedule 1—International Convention relating to Intervention on the High Seas in Cases of Oil Pollution Casualties** 
 
 **Schedule 2—Protocol relating to Intervention on the High Seas in Cases of Pollution by substances other than Oil, 1973** 
 
-**Schedule 3—Resolution MEPC.49(31)** 
+**Schedule 3—Resolution MEPC. 49(31)** 
 
 **Schedule 4—Resolution MEPC. 72(38) by Marine Environment Protection Committee** 
 
 **Notes** 
+
+ 
 
 
 ## An Act authorizing the Commonwealth to take measures for the purpose of protecting the sea from pollution by oil and other noxious substances discharged from ships, and for related purposes
@@ -97,55 +96,15 @@ Canberra
 
              (1)  In this Act, unless the contrary intention appears:
 
-                    <a name="aircraft"></a>**_aircraft_** means any machine or craft that can derive support in the atmosphere from the reactions of the air.
-
                     <a name="australia"></a>**_Australia_** includes the external Territories.
-
-                    <a name="australian-coastal-sea"></a>**_Australian coastal sea_** means:
-
-                     (a)  the territorial sea of Australia; and
-
-                     (b)  the sea on the landward side of the territorial sea of Australia and not within the limits of a State or the Northern Territory.
-
-                    <a name="australian-ship"></a>**_Australian ship_** means:
-
-                     (a)  a ship registered in Australia; or
-
-                     (b)  an unregistered ship having Australian nationality.
 
                     <a name="author"></a>**_Authority_** means the Australian Maritime Safety Authority established by the _Australian Maritime Safety Authority Act 1990_.
 
                     <a name="cargo"></a>**_cargo_** includes ballast and ship’s stores and fuel.
 
-                    <a name="civil-proceing"></a>**_civil proceeding_** includes a civil action.
-
-                    <a name="constitut-corpor"></a>**_constitutional corporation_** means a corporation to which paragraph 51(xx) of the Constitution applies.
-
-                    <a name="control"></a>**_controller_** of a tangible asset means:
-
-                     (a)  in the case of land, seabed or premises—the occupier of the land, seabed or premises; or
-
-                     (b)  in the case of a facility, structure or installation—the person in charge of the facility, structure or installation; or
-
-                     (c)  in the case of goods—the person in control or possession of the goods.
-
-                    <a name="convent"></a>**_Convention_** means the International Convention Relating to Intervention on the High Seas in Cases of Oil Pollution Casualties (a copy of the English text of which is set forth in Schedule 1), as amended from time to time.
+                    <a name="convent"></a>**_Convention_** means the International Convention Relating to Intervention on the High Seas in Cases of Oil Pollution Casualties (a copy of the English text of which is set forth in Schedule 1).
 
                     <a name="direct-act"></a>**_direction under this Act_** means a direction under paragraph 8(2)(b), 9(2)(b) or 10(3)(b) or a further direction under section 15.
-
-                    <a name="electron-commun"></a>**_electronic communication_** has the same meaning as in the _Electronic Transactions Act 1999_.
-
-                    <a name="engag-conduct"></a>**_engage in conduct_** has the same meaning as in the _Criminal Code_.
-
-                    <a name="exclus-econom-zone"></a>**_exclusive economic zone_** has the same meaning as in the _Seas and Submerged Lands Act 1973_.
-
-                    <a name="good"></a>**_goods_** has the same meaning as in the _Trade Practices Act 1974_.
-
-                    <a name="high-sea"></a>**_high seas_** means all parts of the sea to which Part VII of the UN Convention on the Law of the Sea applies.
-
-Note:          Article 86 of the UN Convention on the Law of the Sea provides that the provisions of Part VII of the Convention apply to “all parts of the sea that are not included in the exclusive economic zone, in the territorial sea or in the internal waters of a State, or in the archipelagic waters of an archipelagic State”.
-
-                    <a name="sea"></a><a name="intern-water"></a>**_internal waters_** means waters of the sea within the limits of a State or the Northern Territory. For this purpose, **_sea_** includes any waters within the ebb and flow of the tide.
 
                     <a name="master"></a>**_master_**, in relation to a ship, means the person having command or charge of the ship.
 
@@ -155,53 +114,15 @@ Note:          Article 86 of the UN Convention on the Law of t
 
                      (a)  the resolution adopted on 4 July 1991 (being the resolution a copy of whose English text is set out in Schedule 3);
 
-                     (b)  the resolution adopted on 10 July 1996 (being the resolution a copy of whose English text is set out in Schedule 4);
-
-and as amended from time to time.
-
-                    <a name="servic"></a>**_services_** has the same meaning as in the _Trade Practices Act 1974_, and includes services provided by an employee.
-
-                    <a name="ship"></a>**_ship_**:
-
-                     (a)  when used in relation to a matter arising under, or relating to, section 8 or 9—has the same meaning as in the Convention; or
-
-                     (b)  when used in relation to a matter arising under, or relating to, section 10—has the same meaning as in the _Navigation Act 1912_.
-
-                    <a name="suppli"></a>**_supply_** has the same meaning as in the _Trade Practices Act 1974_.
-
-                    <a name="tangibl-asset"></a>**_tangible asset_** means:
-
-                     (a)  land or seabed; or
-
-                     (b)  premises; or
-
-                     (c)  a facility; or
-
-                     (d)  a structure; or
-
-                     (e)  an installation; or
-
-                      (f)  any of the following goods:
-
-                              (i)  a vessel;
-
-                             (ii)  an aircraft;
-
-                            (iii)  a vehicle;
-
-                            (iv)  an item of equipment or machinery;
-
-                             (v)  a tool;
-
-                            (vi)  any other article.
-
-                    <a name="territori-sea"></a>**_territorial sea_** has the same meaning as in the _Seas and Submerged Lands Act 1973_.
-
-                    <a name="un-convent-law-sea"></a>**_UN Convention on the Law of the Sea_** means the United Nations Convention on the Law of the Sea done at Montego Bay on 10 December 1982.
-
-Note:          The text of the Convention is set out in Australian Treaty Series 1994 No. 31\. In 2006, the text of a Convention in the Australian Treaty Series was accessible through the Australian Treaties Library on the AustLII Internet site (www.austlii.edu.au).
+                     (b)  the resolution adopted on 10 July 1996 (being the resolution a copy of whose English text is set out in Schedule 4).
 
              (2)  It is hereby declared to be the intention of the Parliament that the provisions of this Act that relate to the Protocol shall have full force and effect whether or not the Protocol has entered into force.
+
+##### <a id="3A"></a>3A  Application of the _Criminal Code_
+
+                   Chapter 2 of the _Criminal Code_ applies to all offences created by this Act.
+
+Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
 
 ##### <a id="4"></a>4  Act to bind Crown
 
@@ -209,29 +130,11 @@ Note:          The text of the Convention is set out in Austra
 
              (2)  Nothing in this Act renders the Commonwealth, the Authority or a State or Territory liable to be prosecuted for an offence.
 
-             (3)  Subsection (2) does not affect any liability of an employee or agent of the Commonwealth, the Authority or a State or Territory to be prosecuted for an offence.
+             (3)  Subsection (2) does not affect any liability of a servant or agent of the Commonwealth, the Authority or a State or Territory to be prosecuted for an offence.
 
-##### <a id="5"></a>5  Relationship to other laws
+##### <a id="5"></a>5  Saving of other laws
 
-State/Territory laws
-
-             (1)  This Act is not intended to exclude or limit the operation of a law of a State or Territory to the extent that the law is capable of operating concurrently with this Act.
-
-          (1A)  A direction under this Act prevails over a direction (however described) under a law of a State or Territory to the extent of any inconsistency.
-
-          (1B)  Subsection (1A) does not, by implication, limit:
-
-                     (a)  the application of section 109 of the Constitution to a law of a State; or
-
-                     (b)  the application of the corresponding principle to a law of a Territory.
-
-Commonwealth laws
-
-          (1C)  A direction under this Act prevails over a direction (however described) under another Act to the extent of any inconsistency, unless the other Act:
-
-                     (a)  is enacted after the commencement of this subsection; and
-
-                     (b)  refers specifically to a direction under this Act.
+             (1)  This Act and the regulations shall be read and construed as being in addition to, and not in derogation of or in substitution for, any other law of the Commonwealth or any law of a State or Territory.
 
              (2)  Nothing in the _Historic Shipwrecks Act 1976_ affects the operation of this Act.
 
@@ -241,85 +144,17 @@ Commonwealth laws
 
 ##### <a id="7"></a>7  Delegation
 
-                   The Minister may, by writing signed by him or her, delegate to a person any of his or her powers under this Act.
+             (1)  The Minister may, either generally or as otherwise provided by the instrument of delegation, by writing signed by him or her, delegate to a person any of his or her powers under this Act, other than this power of delegation.
 
-Note:          See sections 34AA, 34AB and 34A of the _Acts Interpretation Act 1901_.
+             (2)  A power so delegated, when exercised by the delegate, shall, for the purposes of this Act, be deemed to have been exercised by the Minister.
 
-##### <a id="8"></a>8  Taking of measures to prevent pollution of sea by oil—maritime casualty on the high seas
+             (3)  A delegation under this section does not prevent the exercise of a power by the Minister.
 
-             (1)  Where the Authority is satisfied that, following upon a maritime casualty on the high seas or acts related to such a casualty, there is grave and imminent danger to the coastline of Australia, or to the related interests of Australia, from pollution or threat of pollution of the sea by oil which may reasonably be expected to result in major harmful consequences, the Authority may take such measures, whether on the high seas or elsewhere, as it considers necessary to prevent, mitigate or eliminate the danger.
+##### <a id="8"></a>8  Taking of measures under Convention to prevent pollution of sea by oil
 
-             (2)  Without limiting the generality of subsection (1), the measures that the Authority may take under this section in relation to the ship, or any of the ships, involved in the maritime casualty include:
+             (1)  Where the Authority is satisfied that, following upon a maritime casualty or acts related to such a casualty, there is grave and imminent danger to the coastline of Australia, or to the related interests of Australia, from pollution or threat of pollution of the sea by oil which may reasonably be expected to result in major harmful consequences, the Authority may take such measures on the high seas as it considers necessary to prevent, mitigate or eliminate the danger.
 
-                     (a)  the taking of action, whether or not directions have been issued under paragraph (b) in relation to the ship:
-
-                              (i)  to move the ship or part of the ship to another place;
-
-                             (ii)  to remove cargo from the ship;
-
-                            (iii)  to salvage the ship, part of the ship or any of the ship’s cargo;
-
-                            (iv)  to sink or destroy the ship or part of the ship;
-
-                             (v)  to sink, destroy or discharge into the sea any of the ship’s cargo; or
-
-                            (vi)  to take over control of the ship or part of the ship; or
-
-                     (b)  the issuing of directions of the kind authorized by section 11:
-
-                              (i)  to the owner of the ship;
-
-                             (ii)  to the master of the ship; or
-
-                            (iii)  to any salvor in possession of the ship; or
-
-                            (iv)  to any other person.
-
-          (2A)  The Authority must not exercise its powers under subparagraph (2)(a)(iv) without the approval of the Minister.
-
-          (2B)  Without limiting subparagraph (2)(b)(iv), a direction under that subparagraph may be issued to:
-
-                     (a)  the owner of any other ship; or
-
-                     (b)  the master of any other ship; or
-
-                     (c)  the owner of a tangible asset; or
-
-                     (d)  the controller of a tangible asset; or
-
-                     (e)  the supplier of goods; or
-
-                      (f)  a person to whom goods are being, or are proposed to be, supplied; or
-
-                     (g)  the supplier of a service; or
-
-                     (h)  a person to whom a service is being, or is proposed to be, supplied.
-
-          (2C)  The Authority must not issue a direction under subparagraph (2)(b)(iv) to the owner or master of another ship unless the other ship is:
-
-                     (a)  in internal waters; or
-
-                     (b)  in the Australian coastal sea; or
-
-                     (c)  in the exclusive economic zone of Australia; or
-
-                     (d)  an Australian ship.
-
-             (3)  This section does not authorize the taking of measures against a warship or other ship owned or operated by a foreign State and used, for the time being, only on government non-commercial service.
-
-             (4)  The Minister and the Authority shall, in and in relation to the exercise of powers under this section, act in accordance with Articles III and V of the Convention. For this purpose, those Articles are taken to extend to the taking of measures under this section elsewhere than on the high seas.
-
-             (5)  This section shall not be construed as limiting or otherwise affecting any right or power that the Commonwealth may have, whether under international law, under this Act or otherwise, apart from this section.
-
-             (6)  An expression (other than high seas) that is used in this section (other than paragraph (2B)(c), (d), (e), (f), (g) or (h) or (2C)(a), (b), (c) or (d)) and in the Convention (whether or not a particular meaning is assigned to it by the Convention) has, in this section, the same meaning as in the Convention.
-
-             (7)  A direction under this Act is taken to relate to a ship involved in a maritime casualty referred to in subsection (1) even if the direction is issued under subparagraph (2)(b)(iv).
-
-##### <a id="9"></a>9  Taking of measures to prevent pollution of sea by substances other than oil—maritime casualty on the high seas
-
-             (1)  Where the Authority is satisfied that, following upon a maritime casualty on the high seas or acts related to such a casualty, there is grave and imminent danger to the coastline of Australia, or to the related interests of Australia, from pollution or threat of pollution of the sea by substances other than oil which may reasonably be expected to result in major harmful consequences, the Authority may take such measures, whether on the high seas or elsewhere, as it considers necessary to prevent, mitigate or eliminate the danger.
-
-             (2)  Without limiting the generality of subsection (1), the measures that the Authority may take under this section in relation to the ship, or any of the ships, involved in the maritime casualty include:
+             (2)  Without limiting the generality of subsection (1), the measures that the Authority may take on the high seas under this section in relation to the ship, or any of the ships, involved in the maritime casualty include:
 
                      (a)  the taking of action, whether or not directions have been issued under paragraph (b) in relation to the ship:
 
@@ -341,81 +176,67 @@ Note:          See sections 34AA, 34AB and 34A of the _Acts 
 
                              (ii)  to the master of the ship; or
 
-                            (iii)  to any salvor in possession of the ship; or
-
-                            (iv)  to any other person.
+                            (iii)  to any salvor in possession of the ship.
 
           (2A)  The Authority must not exercise its powers under subparagraph (2)(a)(iv) without the approval of the Minister.
 
-          (2B)  Without limiting subparagraph (2)(b)(iv), a direction under that subparagraph may be issued to:
-
-                     (a)  the owner of any other ship; or
-
-                     (b)  the master of any other ship; or
-
-                     (c)  the owner of a tangible asset; or
-
-                     (d)  the controller of a tangible asset; or
-
-                     (e)  the supplier of goods; or
-
-                      (f)  a person to whom goods are being, or are proposed to be, supplied; or
-
-                     (g)  the supplier of a service; or
-
-                     (h)  a person to whom a service is being, or is proposed to be, supplied.
-
-          (2C)  The Authority must not issue a direction under subparagraph (2)(b)(iv) to the owner or master of another ship unless the other ship is:
-
-                     (a)  in internal waters; or
-
-                     (b)  in the Australian coastal sea; or
-
-                     (c)  in the exclusive economic zone of Australia; or
-
-                     (d)  an Australian ship.
-
              (3)  This section does not authorize the taking of measures against a warship or other ship owned or operated by a foreign State and used, for the time being, only on government non-commercial service.
 
-             (4)  The Minister and the Authority shall, in and in relation to the exercise of powers under this section, act in accordance with Articles III and V of the Convention as applying by virtue of Article II of the Protocol or, if the Protocol has not entered into force, in accordance with those Articles of the Convention as they would apply by virtue of that Article of the Protocol if the Protocol had entered into force. For this purpose, those Articles of the Convention as applying by virtue of Article II of the Protocol are taken to extend to the taking of measures under this section elsewhere than on the high seas.
+             (4)  The Minister and the Authority shall, in and in relation to the exercise of powers under this section, act in accordance with Articles III and V of the Convention.
 
              (5)  This section shall not be construed as limiting or otherwise affecting any right or power that the Commonwealth may have, whether under international law, under this Act or otherwise, apart from this section.
 
-             (6)  Where an expression (other than high seas) is used in this section (other than paragraph (2B)(c), (d), (e), (f), (g) or (h) or (2C)(a), (b), (c) or (d)):
+             (6)  An expression that is used in this section and in the Convention (whether or not a particular meaning is assigned to it by the Convention) has, in this section, the same meaning as in the Convention.
+
+##### <a id="9"></a>9  Taking of measures under Protocol to prevent pollution of sea by substances other than oil
+
+             (1)  Where the Authority is satisfied that, following upon a maritime casualty or acts related to such a casualty, there is grave and imminent danger to the coastline of Australia, or to the related interests of Australia, from pollution or threat of pollution of the sea by substances other than oil which may reasonably be expected to result in major harmful consequences, the Authority may take such measures on the high seas as it considers necessary to prevent, mitigate or eliminate the danger.
+
+             (2)  Without limiting the generality of subsection (1), the measures that the Authority may take on the high seas under this section in relation to the ship, or any of the ships, involved in the maritime casualty include:
+
+                     (a)  the taking of action, whether or not directions have been issued under paragraph (b) in relation to the ship:
+
+                              (i)  to move the ship or part of the ship to another place;
+
+                             (ii)  to remove cargo from the ship;
+
+                            (iii)  to salvage the ship, part of the ship or any of the ship’s cargo;
+
+                            (iv)  to sink or destroy the ship or part of the ship;
+
+                             (v)  to sink, destroy or discharge into the sea any of the ship’s cargo; or
+
+                            (vi)  to take over control of the ship or part of the ship; or
+
+                     (b)  the issuing of directions of the kind authorized by section 11:
+
+                              (i)  to the owner of the ship;
+
+                             (ii)  to the master of the ship; or
+
+                            (iii)  to any salvor in possession of the ship.
+
+          (2A)  The Authority must not exercise its powers under subparagraph (2)(a)(iv) without the approval of the Minister.
+
+             (3)  This section does not authorize the taking of measures against a warship or other ship owned or operated by a foreign State and used, for the time being, only on government non-commercial service.
+
+             (4)  The Minister and the Authority shall, in and in relation to the exercise of powers under this section, act in accordance with Articles III and V of the Convention as applying by virtue of Article II of the Protocol or, if the Protocol has not entered into force, in accordance with those Articles of the Convention as they would apply by virtue of that Article of the Protocol if the Protocol had entered into force.
+
+             (5)  This section shall not be construed as limiting or otherwise affecting any right or power that the Commonwealth may have, whether under international law, under this Act or otherwise, apart from this section.
+
+             (6)  Where an expression is used in this section:
 
                      (a)  if the expression is also used in the Protocol (whether or not a particular meaning is assigned to it by the Protocol)—the expression has, in this section, the same meaning as in the Protocol; or
 
                      (b)  subject to paragraph (a), if the expression is also used in the provisions of the Convention referred to in paragraph 1 of Article II of the Protocol (whether or not a particular meaning is assigned to it by the Convention)—the expression has, in this section, the same meaning as in the Convention.
 
-             (7)  A direction under this Act is taken to relate to a ship involved in a maritime casualty referred to in subsection (1) even if the direction is issued under subparagraph (2)(b)(iv).
+##### <a id="10"></a>10  Taking of measures otherwise than under Convention or Protocol to prevent pollution of sea by oil or noxious substances
 
-##### <a id="10"></a>10  Taking of measures to prevent pollution of sea by oil or noxious substances—general powers
+             (1)  This section applies in relation to:
 
-             (1)  This section (other than subsections (3B) and (3C)) applies in relation to:
-
-                     (a)  any ship in internal waters, where:
-
-                              (i)  the ship is a ship in relation to which Australia has relevant international rights or obligations, whether arising under an international convention, treaty or otherwise; or
-
-                             (ii)  the ship is engaged in trade or commerce between Australia and a place or places outside Australia; or
-
-                            (iii)  the ship is engaged in trade or commerce between 2 places outside Australia; or
-
-                            (iv)  the ship is engaged in trade or commerce among the States; or
-
-                             (v)  the ship is engaged in trade or commerce within a Territory, between a State and a Territory or between 2 Territories; or
-
-                            (vi)  the ship is engaged in operations incidental to trade or commerce referred to in subparagraph (ii), (iii), (iv) or (v); or
-
-                           (vii)  the ship is owned, operated, managed or controlled by a constitutional corporation; or
-
-                           (viii)  the ship is demised or sub-demised to, or in the exclusive possession of, a constitutional corporation; or
-
-                            (ix)  the beneficial interest in the ship is vested in a constitutional corporation; and
+                     (a)  any ship (other than a ship as defined by subsection (6)) in internal waters;
 
                      (b)  any ship in the Australian coastal sea; and
-
-                    (ba)  any ship in the exclusive economic zone of Australia; and
 
                      (c)  any Australian ship on the high seas.
 
@@ -453,39 +274,9 @@ Note:          See sections 34AA, 34AB and 34A of the _Acts 
 
                              (ii)  to the master of the ship; or
 
-                            (iii)  to any salvor in possession of the ship; or
-
-                            (iv)  to any other person.
+                            (iii)  to any salvor in possession of the ship.
 
           (3A)  The Authority must not exercise its powers under subparagraph (3)(a)(iv) without the approval of the Minister.
-
-          (3B)  Without limiting subparagraph (3)(b)(iv), a direction under that subparagraph may be issued to:
-
-                     (a)  the owner of any other ship; or
-
-                     (b)  the master of any other ship; or
-
-                     (c)  the owner of a tangible asset; or
-
-                     (d)  the controller of a tangible asset; or
-
-                     (e)  the supplier of goods; or
-
-                      (f)  a person to whom goods are being, or are proposed to be, supplied; or
-
-                     (g)  the supplier of a service; or
-
-                     (h)  a person to whom a service is being, or is proposed to be, supplied.
-
-          (3C)  The Authority must not issue a direction under subparagraph (3)(b)(iv) to the owner or master of another ship unless the other ship is:
-
-                     (a)  in internal waters; or
-
-                     (b)  in the Australian coastal sea; or
-
-                     (c)  in the exclusive economic zone of Australia; or
-
-                     (d)  an Australian ship.
 
              (4)  The Minister and the Authority shall, in the exercise of powers under this section, act in accordance with the following principles:
 
@@ -507,11 +298,31 @@ Note:          See sections 34AA, 34AB and 34A of the _Acts 
 
              (5)  Where oil or a noxious substance is being, has been or is likely to be, discharged, intentionally or otherwise, from a ship, the discharge or likely discharge of the oil or noxious substance from the ship shall, for the purposes of this section, be deemed to be an escape or likely escape of the oil or noxious substance, as the case may be, from the ship.
 
-             (6)  A direction under this Act is taken to relate to a ship referred to in subsection (2) even if the direction was issued under subparagraph (3)(b)(iv).
+             (6)  In subsection (1), a reference to a ship as defined by this subsection shall be construed as a reference to a ship that is:
+
+                     (a)  a trading ship proceeding on a voyage other than an overseas voyage or an inter-State voyage;
+
+                     (b)  an Australian fishing vessel proceeding on a voyage other than an overseas voyage; or
+
+                     (c)  a pleasure craft.
+
+             (7)  For the purposes of subsection (6):
+
+                     (a)  **_trading ship_**, **_inter-State voyage_**, **_Australian fishing vessel_** and **_pleasure craft_** have the same respective meanings as they have in the _Navigation Act 1912_.
+
+                     (b)  **_overseas voyage_** has the same meaning as it has in the _Navigation Act 1912_ except that a voyage of an Australian fishing vessel, being a ship that is regularly engaged in making voyages from a port or ports in Queensland, commencing at a port in that State and ending at the same port or another port in that State shall not be taken to be an overseas voyage by reason only that, as an incidental part of its fishing operations on that voyage, the ship calls at a port or ports in Papua New Guinea; and
+
+                     (c)  a ship shall be deemed to be proceeding on a voyage from the time when it has got under way for the purpose of proceeding on the voyage until the time when it has got under way for the purpose of proceeding on another voyage.
 
              (8)  In this section:
 
                     <a name="australian-coast"></a>**_Australian coast_** includes the coast and the shores of any island forming part of Australia and the shores of any internal waters.
+
+                    <a name="australian-coastal-sea"></a>**_Australian coastal sea_** means:
+
+                     (a)  the territorial sea of Australia; and
+
+                     (b)  the sea on the landward side of the territorial sea of Australia and not within the limits of a State or the Northern Territory.
 
                     <a name="australian-reef"></a>**_Australian reef_** means a reef in Australian waters or a reef outside Australian waters but forming part of the continental shelf of Australia.
 
@@ -523,9 +334,13 @@ Note:          See sections 34AA, 34AB and 34A of the _Acts 
 
                     <a name="australian-water"></a>**_Australian waters_** means the Australian coastal sea and internal waters.
 
-                    <a name="continent-shelf"></a>**_continental shelf_** has the same meaning as in the _Seas and Submerged Lands Act 1973_.
+                    <a name="intern-water"></a>**_internal waters_** means waters of the sea within the limits of a State or the Northern Territory.
 
-                    <a name="noxiou-substanc"></a>**_noxious substance_** means a substance other than oil.
+                    <a name="noxiou-substanc"></a>**_noxious substance_** means:
+
+                     (a)  a substance that is specified or referred to in item 1, 2, 3 or 4 of the Annex to the Protocol; or
+
+                     (b)  a substance that is declared by the regulations to be a noxious substance for the purposes of this section, or that is included in a class of substances that are declared by the regulations to be a class of noxious substances for the purposes of this section, and includes a mixture containing such a substance in a concentration exceeding the concentration prescribed by the regulations in relation to that substance or a class of substances in which that substance is included.
 
                     <a name="oil"></a>**_oil_** means crude oil, fuel oil, diesel oil and lubricating oil.
 
@@ -539,111 +354,23 @@ Note:          See sections 34AA, 34AB and 34A of the _Acts 
 
                     <a name="sea"></a>**_sea_** includes any waters within the ebb and flow of the tide.
 
-                    <a name="substanc-oil"></a>**_substance other than oil_** has the same meaning as in the Protocol.
+                    <a name="ship"></a>**_ship_** has the same meaning as in the _Navigation Act 1912_.
 
 ##### <a id="11"></a>11  Directions under Act may require taking of action etc.
 
-             (1)  A direction under this Act issued in relation to a ship (the **_first ship_**) covered by either of the following paragraphs:
+             (1)  A direction under this Act issued in relation to a ship may require the doing of any act or thing with respect to the ship or the ship’s cargo, or prohibit the doing of any such act or thing, and, without limiting the generality of the foregoing, may require or prohibit:
 
-                    (aa)  a ship involved in a maritime casualty referred to in subsection 8(1) or 9(1);
+                     (a)  the movement of the ship or part of the ship, its movement to a place or area or its removal from a place or area;
 
-                    (ab)  a ship referred to in subsection 10(2);
+                     (b)  the removal of cargo from the ship;
 
-may require the doing of any act or thing with respect to the first ship or the first ship’s cargo, or prohibit the doing of any such act or thing and, without limiting the generality of the foregoing, may:
+                     (c)  the taking of salvage measures in relation to the ship, part of the ship or any of the ship’s cargo;
 
-                     (a)  require or prohibit the movement of the first ship or part of the first ship, its movement to a place or area or its removal from a place or area; or
+                     (d)  the sinking or destruction of the ship or part of the ship;
 
-                     (b)  require or prohibit the removal of cargo from the first ship; or
+                     (e)  the sinking, destruction or discharging into the sea of any of the ship’s cargo; or
 
-                     (c)  require or prohibit the taking of salvage measures in relation to the first ship, part of the first ship or any of the first ship’s cargo; or
-
-                     (d)  require or prohibit the sinking or destruction of the first ship or part of the first ship; or
-
-                     (e)  require or prohibit the sinking, destruction or discharging into the sea of any of the first ship’s cargo; or
-
-                      (f)  require or prohibit the handing over of control of the first ship or part of the first ship; or
-
-                     (g)  require another ship to be made available for purposes in connection with unloading, receiving, treating, storing or disposing of any of the first ship’s cargo; or
-
-                     (h)  require another ship to be made available for purposes in connection with repairing, piloting, towing, berthing or securing the first ship; or
-
-                      (i)  require:
-
-                              (i)  the movement of another ship; or
-
-                             (ii)  the removal of another ship from a place or area;
-
-                            where the movement or removal facilitates unloading, receiving, treating, storing or disposing of any of the first ship’s cargo; or
-
-                      (j)  require:
-
-                              (i)  the movement of another ship; or
-
-                             (ii)  the removal of another ship from a place or area;
-
-                            where the movement or removal facilitates repairing, piloting, towing, berthing or securing the first ship; or
-
-                     (k)  prohibit:
-
-                              (i)  the movement of another ship; or
-
-                             (ii)  the removal of another ship from a place or area;
-
-                            where the movement or removal is likely to impede or interfere with unloading, receiving, treating, storing or disposing of any of the first ship’s cargo; or
-
-                      (l)  prohibit:
-
-                              (i)  the movement of another ship; or
-
-                             (ii)  the removal of another ship from a place or area;
-
-                            where the movement or removal is likely to impede or interfere with repairing, piloting, towing, berthing or securing the first ship; or
-
-                    (m)  require a tangible asset (other than a ship) to be made available for purposes in connection with unloading, receiving, treating, storing or disposing of any of the first ship’s cargo; or
-
-                     (n)  require a tangible asset (other than a ship) to be made available for purposes in connection with repairing, piloting, towing, berthing or securing the first ship; or
-
-                     (o)  require:
-
-                              (i)  the movement of a tangible asset (other than a ship); or
-
-                             (ii)  the removal of a tangible asset (other than a ship) from a place or area;
-
-                            where the movement or removal facilitates unloading, receiving, treating, storing or disposing of any of the first ship’s cargo; or
-
-                     (p)  require:
-
-                              (i)  the movement of a tangible asset (other than a ship); or
-
-                             (ii)  the removal of a tangible asset (other than a ship) from a place or area;
-
-                            where the movement or removal facilitates repairing, piloting, towing, berthing or securing the first ship; or
-
-                     (q)  prohibit:
-
-                              (i)  the movement of a tangible asset (other than a ship); or
-
-                             (ii)  the removal of a tangible asset (other than a ship) from a place or area;
-
-                            where the movement or removal is likely to impede or interfere with unloading, receiving, treating, storing or disposing of any of the first ship’s cargo; or
-
-                      (r)  prohibit:
-
-                              (i)  the movement of a tangible asset (other than a ship); or
-
-                             (ii)  the removal of a tangible asset (other than a ship) from a place or area;
-
-                            where the movement or removal is likely to impede or interfere with repairing, piloting, towing, berthing or securing the first ship; or
-
-                      (s)  require a specified place to be treated as a place of refuge for the first ship; or
-
-                      (t)  require the supply of services by way of, or in connection with:
-
-                              (i)  unloading, receiving, treating, storing or disposing of any of the first ship’s cargo; or
-
-                             (ii)  repairing, piloting, towing, berthing or securing the first ship; or
-
-                     (u)  require the temporary release of contractual obligations, where the fulfilment of those obligations is likely to impede or interfere with the carrying out of any other direction under this Act that relates to the first ship.
+                      (f)  the handing over of control of the ship or part of the ship.
 
           (1A)  The Authority must not issue a direction under paragraph (1)(d) without the approval of the Minister.
 
@@ -653,31 +380,23 @@ may require the doing of any act or thing with respect to the first ship or the 
 
                      (b)  prohibit the doing of an act or thing except in accordance with the direction, or with the approval, or in accordance with the instructions, of a specified person.
 
-##### <a id="12"></a>12  Addressing of directions under Act etc.
+##### <a id="12"></a>12  Addressing of directions under Act etc.
 
                    A direction under this Act:
 
-                     (a)  in the case of a direction to the owner of a ship—may be addressed to the owner of the ship without specifying the name of the owner or any of the owners of the ship; or
+                     (a)  in the case of a direction to the owner of a ship—may be addressed to the owner of the ship without specifying the name of the owner or any of the owners of the ship;
 
                      (b)  in the case of a direction to the master of a ship—may be addressed to the master of the ship without specifying him or her by name; or
 
-                     (c)  in the case of a direction to the salvor in possession of a ship—may be addressed to the salvor in possession of the ship without specifying him or her by name; or
-
-                     (d)  in the case of a direction to the owner of a tangible asset (other than a ship)—may be addressed to the owner of the tangible asset without specifying the name of the owner, or any of the owners, of the tangible asset; or
-
-                     (e)  in the case of a direction to the controller of a tangible asset (other than a ship)—may be addressed to the controller of the tangible asset without specifying the name of the controller, or any of the controllers, of the tangible asset.
+                     (c)  in the case of a direction to the salvor in possession of a ship—may be addressed to the salvor in possession of the ship without specifying him or her by name.
 
 ##### <a id="13"></a>13  Issuing of more than one direction in relation to a ship
 
                    Nothing in this Act shall be taken to prevent the issuing (whether to the same person or to different persons) of more than one direction under this Act, or under a provision of this Act, in relation to a ship.
 
-##### <a id="14"></a>14  Directions under Act to ship or tangible asset with more than one owner etc.
+##### <a id="14"></a>14  Directions under Act to ship with more than one owner etc.
 
-             (1)  Where there is more than one owner of a ship or more than one salvor in possession of a ship, a direction under this Act issued to the owner of the ship or to the salvor in possession of the ship has effect, for the purposes of this Act, as a direction issued to each of the owners of the ship or each salvor in possession of the ship, as the case requires.
-
-             (2)  If there is more than one owner of a tangible asset (other than a ship), a direction under this Act issued to the owner of the tangible asset has effect, for the purposes of this Act, as a direction issued to each of the owners of the tangible asset.
-
-             (3)  If there is more than one controller of a tangible asset (other than a ship), a direction under this Act issued to the controller of the tangible asset has effect, for the purposes of this Act, as a direction issued to each of the controllers of the tangible asset.
+                   Where there is more than one owner of a ship or more than one salvor in possession of a ship, a direction under this Act issued to the owner of the ship or to the salvor in possession of the ship has effect, for the purposes of this Act, as a direction issued to each of the owners of the ship or each salvor in possession of the ship, as the case requires.
 
 ##### <a id="15"></a>15  Revocation and variation of directions under Act
 
@@ -689,17 +408,7 @@ may require the doing of any act or thing with respect to the first ship or the 
 
 ##### <a id="17"></a>17  Service of directions under Act
 
-Service of directions on the owner, master or salvor of a ship
-
-             (1)  A direction under this Act to any of the following persons:
-
-                     (a)  the owner of a ship;
-
-                     (b)  the master of a ship;
-
-                     (c)  the salvor in possession of a ship;
-
-is to be served on the person in accordance with subsections (2) to (7) and, for the purposes of section 19, is taken to have been issued to the person at the time when it is served on the person in accordance with subsections (2) to (7).
+             (1)  A direction under this Act to a person shall be served on the person in accordance with this section and shall, for the purposes of section 19, be deemed to have been issued to the person at the time when it is served on the person in accordance with this section.
 
              (2)  Service of a direction under this Act on the owner or the owners of a ship may be effected:
 
@@ -719,199 +428,47 @@ is to be served on the person in accordance with subsections (2) to (7) and, f
 
              (7)  A person authorized in writing by the Authority for the purposes of this section may go on board a ship for the purpose of serving a direction under this Act on a person on board the ship.
 
-Service of directions on persons other than the owner, master or salvor of a ship
+##### <a id="18"></a>18  Change in ownership or master of ship
 
-             (8)  A direction under this Act to a person other than:
-
-                     (a)  the owner of a ship; or
-
-                     (b)  the master of a ship; or
-
-                     (c)  the salvor in possession of a ship;
-
-is to be served on the person in accordance with subsection (9) or (10) and, for the purposes of section 19, is taken to have been issued to the person:
-
-                     (d)  if paragraph (9)(d) applies—at the time when it is served on the person in accordance with section 28A of the _Acts Interpretation Act 1901_; or
-
-                     (e)  if paragraph (9)(e) applies—at the time of receipt of the electronic communication (see section 14 of the _Electronic Transactions Act 1999_); or
-
-                      (f)  if paragraph (10)(d) applies—at the time when it is served on the person in accordance with that paragraph; or
-
-                     (g)  if paragraph (10)(e) applies—at the time of receipt of the electronic communication (see section 14 of the _Electronic Transactions Act 1999_).
-
-Note:          See also section 29 of the _Acts Interpretation Act 1901_.
-
-             (9)  Service of a direction under this Act on a person other than:
-
-                     (a)  the owner of a ship; or
-
-                     (b)  the master of a ship; or
-
-                     (c)  the salvor in possession of a ship;
-
-may, in a case where the person is an individual or a body corporate, be effected:
-
-                     (d)  in accordance with section 28A of the _Acts Interpretation Act 1901_; or
-
-                     (e)  by sending the contents of the direction to the person by means of an electronic communication.
-
-           (10)  Service of a direction under this Act on a person other than:
-
-                     (a)  the owner of a ship; or
-
-                     (b)  the master of a ship; or
-
-                     (c)  the salvor in possession of a ship;
-
-may, in a case where the person is a body politic, be effected:
-
-                     (d)  by leaving it at, or sending it by pre-paid post to, an office of a department or agency of the body politic; or
-
-                     (e)  by sending the contents of the direction to the person, or to a representative of the person, by means of an electronic communication.
-
-##### <a id="17A"></a>17A  Liability for acts and omissions
-
-Minister
-
-             (1)  Criminal or civil proceedings do not lie against:
-
-                     (a)  the Minister; or
-
-                     (b)  a delegate of the Minister;
-
-because of an act done or omitted to be done in the exercise of any power conferred on the Minister by or under this Act.
-
-Authority
-
-             (2)  Criminal or civil proceedings do not lie against:
-
-                     (a)  the Authority; or
-
-                     (b)  a member of the Authority; or
-
-                     (c)  a member of the staff of the Authority; or
-
-                     (d)  a delegate of the Authority;
-
-because of an act done or omitted to be done in the exercise of any power conferred on the Authority by or under this Act.
-
-Persons specified in directions under this Act
-
-             (3)  If a person was specified in a direction under this Act as mentioned in paragraph 11(2)(a) or (b), criminal or civil proceedings do not lie against the person because of an act done or omitted to be done in the exercise of any power conferred on the person by or under the direction.
-
-Persons subject to directions under this Act
-
-             (4)  If a direction under this Act is or was issued to a person, criminal or civil proceedings do not lie against the person because of an act done or omitted to be done in compliance with the direction.
-
-             (5)  Subsection (4) does not apply to a proceeding under the _Protection of the Sea (Civil Liability) Act 1981_.
-
-             (6)  Subsection (4) does not apply to the extent to which it is inconsistent with an international agreement to which Australia is a party.
-
-Compensation for acquisition of property
-
-             (7)  This section does not apply to a proceeding under section 22.
-
-Varied direction
-
-             (8)  A reference in this section to a **_direction under this Act_** must, in the case of a direction that has been varied by a further direction issued under section 15, be construed as a reference to the direction as so varied by that further direction.
-
-Application
-
-             (9)  Subsections (1), (2), (3) and (4) do not apply to an act done, or omitted to be done, before the commencement of this section.
-
-##### <a id="17B"></a>17B  Expenses of compliance with certain directions under Act may be recovered from owner of ship
-
-             (1)  If:
-
-                     (a)  a person is or was subject to a direction under this Act; and
-
-                     (b)  the direction relates to:
-
-                              (i)  a ship involved in a maritime casualty referred to in subsection 8(1) or 9(1); or
-
-                             (ii)  a ship referred to in subsection 10(2); and
-
-                     (c)  the person is not the owner, or one of the owners, of the ship; and
-
-                     (d)  the person incurs a reasonable expense in complying with the direction; and
-
-                     (e)  the direction requires the supply of a service to the owner of the ship; and
-
-                      (f)  apart from this section, the owner of the ship is not liable to pay the amount of the expense to the person;
-
-the amount of the expense is a debt due to the person:
-
-                     (g)  if there is only one owner of the ship—by the owner of the ship; or
-
-                     (h)  if there are 2 or more owners of the ship—jointly and severally by the owners of the ship.
-
-             (2)  A debt due under subsection (1) may be recovered in:
-
-                     (a)  the Federal Court of Australia; or
-
-                     (b)  any other court of competent jurisdiction.
-
-             (3)  Subsection (1) does not apply to the extent to which it is inconsistent with an international agreement to which Australia is a party.
-
-Varied direction
-
-             (4)  A reference in this section to a **_direction under this Act_** must, in the case of a direction that has been varied by a further direction issued under section 15, be construed as a reference to the direction as so varied by that further direction.
-
-Application
-
-             (5)  Subsection (1) does not apply to a direction issued before the commencement of this section.
-
-##### <a id="18"></a>18  Change in ownership or master of ship, or change in ownership of tangible asset
-
-             (1)  Where a direction under this Act issued to the owner of a ship is served in accordance with subsections 17(2) to (7) and a change in the ownership of the ship subsequently occurs while the direction is in force, the person who was the owner at the time the notice was served:
+             (1)  Where a direction under this Act issued to the owner of a ship is served in accordance with section 17 and a change in the ownership of the ship subsequently occurs while the direction is in force, the person who was the owner at the time the notice was served:
 
                      (a)  shall forthwith notify any new owner of the ship of the existence and contents of the direction; and
 
                      (b)  shall forthwith notify the Authority, in accordance with the regulations, of the change in the ownership of the ship and furnish the Authority with such particulars of the change as are prescribed for the purposes of this subsection.
 
-             (2)  Where a direction under this Act issued to the master of a ship is served in accordance with subsections 17(2) to (7) and the person who is the master of the ship subsequently ceases to be the master of the ship while the direction is in force, the person who ceases to be the master of the ship:
+             (2)  Where a direction under this Act issued to the master of a ship is served in accordance with section 17 and the person who is the master of the ship subsequently ceases to be the master of the ship while the direction is in force, the person who ceases to be the master of the ship:
 
                      (a)  shall forthwith notify the new master (if any) of the existence and contents of the direction; and
 
                      (b)  shall forthwith notify the Authority, in accordance with the regulations, of his or her ceasing to be the master of the ship and furnish the Authority with such particulars as are prescribed for the purposes of this subsection.
 
-             (3)  If a direction under this Act issued to the owner of a tangible asset (other than a ship) is served in accordance with subsection 17(9) or (10) and a change in the ownership of the tangible asset subsequently occurs while the direction is in force, the person who was the owner at the time the notice was served:
-
-                     (a)  must immediately notify any new owner of the tangible asset of the existence and contents of the direction; and
-
-                     (b)  must immediately notify the Authority, in accordance with the regulations, of the change in the ownership of the tangible asset and give the Authority such particulars of the change as are prescribed for the purposes of this subsection.
-
-             (4)  A person commits an offence if:
-
-                     (a)  a person is subject to a requirement under subsection (1), (2) or (3); and
-
-                     (b)  the person engages in conduct; and
-
-                     (c)  the person’s conduct breaches the requirement.
-
-                    Penalty:  50 penalty units.
+                    Penalty:  $2,000.
 
 ##### <a id="19"></a>19  Contravention of direction under Act etc.
 
-             (1)  A person commits an offence if:
+             (1)  Where a direction under this Act issued to a person, or to 2 or more persons, is contravened or not complied with, the person, or each of those persons, as the case may be, is guilty of an indictable offence against this subsection punishable, upon conviction, by a fine not exceeding:
 
-                     (a)  a person is subject to a direction under this Act; and
+                     (a)  in the case of a person, not being a body corporate—$20,000; and
 
-                     (b)  the person engages in conduct; and
+                     (b)  in the case of a person, being a body corporate—$50,000.
 
-                     (c)  the person’s conduct breaches the direction.
+             (2)  Notwithstanding that an offence against subsection (1) is an indictable offence, a court of summary jurisdiction may hear and determine proceedings in respect of such an offence if the court is satisfied that it is proper to do so and the defendant and the prosecutor consent.
 
-                    Penalty:  2,000 penalty units or imprisonment for 5 years, or both.
+             (3)  Where, in accordance with subsection (2), a court of summary jurisdiction convicts a person of an offence against subsection (1), the penalty that the court may impose is a fine not exceeding:
 
-             (4)  It is a defence to a prosecution for an offence against subsection (1) if it is proved:
+                     (a)  in the case of a person, not being a body corporate—$2,000; and
 
-                     (a)  that the breach of the direction resulted from the need to save life at sea; or
+                     (b)  in the case of a person, being a body corporate—$5,000.
+
+             (4)  Subject to subsection (5), it is a defence to a prosecution for an offence against subsection (1) if it is proved:
+
+                     (a)  that the contravention of, or non-compliance with, the direction resulted from the need to save life at sea;
 
                      (b)  that compliance with the direction was not possible; or
 
                      (c)  if the direction requires an act or thing to be done before a particular time—that compliance with the direction was not possible before that time and the direction was complied with as soon as possible after that time.
 
-             (5)  A reference in this section to a direction under this Act shall, in the case of a direction that has been varied by a further direction issued under section 15, be construed as a reference to the direction as so varied by that further direction.
+             (5)  A reference in this section to the contravention of, or non-compliance with, a direction under this Act shall, in the case of a direction that has been varied by a further direction issued under section 15, be construed as a reference to the direction as so varied by that further direction.
 
 ##### <a id="20"></a>20  No time limit for prosecution
 
@@ -919,7 +476,9 @@ Application
 
 ##### <a id="21"></a>21  Evidence
 
-                   Where in proceedings for an offence against a provision of this Act it is established:
+             (1)  In proceedings for an offence against a provision of this Act, a ship shall, unless the contrary is proved, be deemed not to be a ship as defined by subsection 10(6).
+
+             (2)  Where in proceedings for an offence against a provision of this Act it is established:
 
                      (a)  that a direction under this Act has been served on the owner of a ship by serving it on a person or body corporate as the agent of the ship; and
 
@@ -927,29 +486,37 @@ Application
 
 the person or body corporate shall be deemed, unless the contrary is proved, to have been an agent of the ship at the time when the direction was served.
 
-Note:          The defendant bears a legal burden in relation to the matter in this section (see section 13.4 of the _Criminal Code_).
+Note:          The defendant bears a legal burden in relation to the matters in subsections (1) and (2) (see section 13.4 of the _Criminal Code_).
 
-##### <a id="22"></a>22  Compensation for acquisition of property
+##### <a id="22"></a>22  Transitional provision
 
-             (1)  If the operation of this Act would result in an acquisition of property from a person otherwise than on just terms, the Commonwealth is liable to pay a reasonable amount of compensation to the person.
+                   Where:
 
-             (2)  If the Commonwealth and the person do not agree on the amount of the compensation, the person may institute proceedings in:
+                     (a)  before the commencement of this Act, the Minister was satisfied that oil was likely to escape from a ship and had caused a notice under subsection 329E(1) of the _Navigation Act 1912_ to be served on the owner of the ship in accordance with section 329F of that Act; and
 
-                     (a)  the Federal Court of Australia; or
+                     (b)  oil had not escaped from the ship before the commencement of this Act;
 
-                     (b)  any other court of competent jurisdiction;
-
-for the recovery from the Commonwealth of such reasonable amount of compensation as the court determines.
-
-             (3)  In this section:
-
-                    <a name="acquisit-properti"></a>**_acquisition of property_** has the same meaning as in paragraph 51(xxxi) of the Constitution.
-
-                    <a name="just-term"></a>**_just terms_** has the same meaning as in paragraph 51(xxxi) of the Constitution.
+the notice shall, after the commencement of this Act, be deemed, for the purposes of this Act, to be a direction issued by the Minister under paragraph 10(3)(b) of this Act to the owner of the ship and to have been served on the owner of the ship in accordance with section 17 of this Act at the commencement of this Act.
 
 ##### <a id="23"></a>23  Regulations
 
                    The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed or necessary or convenient to be prescribed for carrying out or giving effect to this Act and, in particular, exempting, either absolutely or subject to conditions, a prescribed ship, or ships included in a prescribed class of ships, from all or any of the provisions of this Act.
+
+##### <a id="24"></a>24  Orders
+
+             (1)  The Authority may make orders with respect to any matter for or in relation to which provision may be made by the regulations by virtue of the definition of **_noxious substance_** in subsection 10(8).
+
+          (1A)  Orders are disallowable instruments for the purposes of section 46A of the _Acts Interpretation Act 1901_.
+
+             (2)  An order made in pursuance of the regulations shall not be deemed to be a statutory rule within the meaning of the _Statutory Rules Publication Act 1903_, but subsections 5(3) to (3C) (inclusive) of that Act apply in relation to such orders in like manner as they apply in relation to statutory rules.
+
+             (3)  Unless the contrary intention appears, expressions used in orders made in pursuance of the regulations have the same meanings as in this Act.
+
+             (4)  Orders shall be read subject to this Act and the regulations and so as not to exceed the power conferred by this Act to the intent that, where such orders would, but for this subsection, have been construed as being in excess of the power conferred by this Act, they shall be deemed to be valid orders to the extent to which they are not in excess of that power.
+
+             (5)  Where an order is inconsistent with a provision of this Act or the regulations, the latter shall prevail and the former shall, to the extent of the inconsistency, be of no force or effect.
+
+             (7)  Notwithstanding section 49A of the _Acts Interpretation Act 1901_, the regulations may make provision for or in relation to a matter by applying, adopting or incorporating any matter contained in orders as existing from time to time. 
 
 
 # Schedule 1—International Convention relating to Intervention on the High Seas in Cases of Oil Pollution Casualties 
@@ -978,9 +545,9 @@ For the purposes of the present Convention:
 
 2.    “ship” means: 
 
-(a)   any sea-going vessel of any type whatsoever, and 
+(a)     any sea-going vessel of any type whatsoever, and 
 
-(b)   any floating craft, with the exception of an installation or device engaged in the exploration and exploitation of the resources of the sea-bed and the ocean floor and the subsoil thereof; 
+(b)     any floating craft, with the exception of an installation or device engaged in the exploration and exploitation of the resources of the sea-bed and the ocean floor and the subsoil thereof; 
 
 3.    “oil” means crude oil, fuel oil, diesel oil and lubricating oil; 
 
@@ -1100,11 +667,11 @@ ARTICLE XV
 
 (a)   inform all States which have signed or acceded to the Convention of: 
 
-                      (i)  each new signature or deposit of instrument together with the date thereof; 
+(i)    each new signature or deposit of instrument together with the date thereof; 
 
-                      (ii)  the deposit of any instrument of denunciation of this Convention together with the date of the deposit; 
+(ii)   the deposit of any instrument of denunciation of this Convention together with the date of the deposit; 
 
-                     (iii)  the extension of the present Convention to any territory under paragraph 1 of Article XIII and of the termination of any such extension under the provisions of paragraph 4 of that Article stating in each case the date on which the present Convention has been or will cease to be so extended; 
+(iii)  the extension of the present Convention to any territory under paragraph 1 of Article XIII and of the termination of any such extension under the provisions of paragraph 4 of that Article stating in each case the date on which the present Convention has been or will cease to be so extended; 
 
 (b)   transmit certified true copies of the present Convention to all Signatory States and to all States which accede to the present Convention. 
 
@@ -1343,13 +910,13 @@ ARTICLE IX
 
 (a)   inform all States which have signed the present Protocol or acceded thereto of: 
 
-                      (i)  each new signature or deposit of an instrument together with the date thereof; 
+(i)    each new signature or deposit of an instrument together with the date thereof; 
 
-                      (ii)  the date of entry into force of the present Protocol; 
+(ii)   the date of entry into force of the present Protocol; 
 
-                     (iii)  the deposit of any instrument of denunciation of the present Protocol together with the date on which the denunciation takes effect; 
+(iii)  the deposit of any instrument of denunciation of the present Protocol together with the date on which the denunciation takes effect; 
 
-                     (iv)  any amendments to the present Protocol or its Annex and any objection or declaration of non-acceptance of the said amendment; 
+(iv)  any amendments to the present Protocol or its Annex and any objection or declaration of non-acceptance of the said amendment; 
 
 (b)   transmit certified true copies of the present Protocol to all States which have signed the present Protocol or acceded thereto. 
 
@@ -1693,7 +1260,7 @@ Sulphur Dioxide
 
 Radioactive substances, including, but not limited to, elements and compounds the isotopes of which are subject to the requirements of Section 835 of the Regulations for the Safe Transport of Radioactive Materials, 1973 Revised Edition, published by the International Atomic Energy Agency, and which may be found to be stored or transported as substances and/or materials in Type A packages, Type B packages, as fissile materials or materials transported under special arrangements, such as
 
-60<sub>Co,</sub>         137<sub>Cs,</sub>               226<sub>Ra,</sub>               239<sub>Pu,</sub>               235<sub>U.</sub>
+60<sub>Co,</sub>         137<sub>Cs,</sub>   226<sub>Ra,</sub>   239<sub>Pu,</sub>   235<sub>U.</sub>
 
 <div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 1pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
 
@@ -1933,6 +1500,9 @@ Appendix 1
     </td>
   </tr>
 </tbody></table>
+
+ 
+
 
 Appendix 2
 
@@ -3555,7 +3125,7 @@ Vinyl chloride monomer
 
 The _Protection of the Sea (Powers of Intervention) Act 1981_ as shown in this compilation comprises Act No. 33, 1981 amended as indicated in the Tables below. 
 
-All relevant information pertaining to application, saving or transitional provisions prior to 1 October 2001 is not included in this compilation. For subsequent information _see_ Table A.
+All relevant information pertaining to application, saving or transitional provisions prior to 1 October 2001 is not included in this compilation. For subsequent information _see_ Table A.
 
 ### Table of Acts
 
@@ -3568,7 +3138,7 @@ All relevant information pertaining to application, saving or transitional provi
   <col width="14%">
 </colgroup>
 
-<thead>
+<tbody>
   <tr>
     <td>
       <div>Act</div>
@@ -3590,8 +3160,6 @@ of Assent
       <div>Application, saving or transitional provisions</div>
     </td>
   </tr>
-</thead>
-<tbody>
   <tr>
     <td>
       <div>Protection of the Sea (Powers of Intervention) Act 1981</div>
@@ -3656,7 +3224,7 @@ Remainder: Royal Assent
       <div>26 June 1992</div>
     </td>
     <td>
-      <div>Part 8 (ss. 26–28): Royal Assent <i>(a)</i></div>
+      <div>Part 8 (ss. 26-28): Royal Assent <i>(a)</i></div>
     </td>
     <td>
       <div>—</div>
@@ -3708,24 +3276,7 @@ Remainder: Royal Assent
         <div>1 Oct 2001</div>
       </td>
       <td>
-        <div>Schedule 2: Royal Assent <i>(c)</i></div>
-      </td>
-      <td>
-        <div>—</div>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <div>Protection of the Sea (Powers of Intervention) Amendment Act 2006</div>
-      </td>
-      <td>
-        <div>44, 2006</div>
-      </td>
-      <td>
-        <div>22 May 2006</div>
-      </td>
-      <td>
-        <div>23 May 2006</div>
+        <div>Schedule 2: Royal Assent <i>(c)</i></div>
       </td>
       <td>
         <div>—</div>
@@ -3735,15 +3286,15 @@ Remainder: Royal Assent
 </tbody></table>
 
 
-_(a)_     The _Protection of the Sea (Powers of Intervention) Act 1981_ was amended by Part 8 (sections 26–28) only of the _Transport and Communications Legislation Amendment Act (No. 2) 1992_, subsection 2(1) of which provides as follows:
+_(a)_     The _Protection of the Sea (Powers of Intervention) Act 1981_ was amended by Part 8 (sections 26-28) only of the _Transport and Communications Legislation Amendment Act (No. 2) 1992_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-_(b)_    The _Protection of the Sea (Powers of Intervention) Act 1981_ was amended by Schedule 5 (items 121 and 122) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows:
+_(b)_    The _Protection of the Sea (Powers of Intervention) Act 1981_ was amended by Schedule 5 (items 121, 122) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
 
-_(c)_     The _Protection of the Sea (Powers of Intervention) Act 1981_ was amended by Schedule 2 only of the _International Maritime Conventions Legislation Amendment Act 2001_, subsection 2(1) of which provides as follows:
+_(c)_     The _Protection of the Sea (Powers of Intervention) Act 1981_ was amended by Schedule 2 only of the _International Maritime Conventions Legislation Amendment Act 2001_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
@@ -3756,7 +3307,7 @@ _(c)_     The _Protection of the Sea (Powers of Intervention) Act 1981_ 
   <col width="66%">
 </colgroup>
 
-<thead>
+<tbody>
   <tr>
     <td colspan="2">
       <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
@@ -3770,14 +3321,12 @@ _(c)_     The _Protection of the Sea (Powers of Intervention) Act 1981_ 
       <div>How affected</div>
     </td>
   </tr>
-</thead>
-<tbody>
   <tr>
     <td>
       <div>S. 3</div>
     </td>
     <td>
-      <div>am. No. 78, 1990; No. 71, 1992; No. 149, 2001; No. 44, 2006</div>
+      <div>am. No. 78, 1990; No. 71, 1992; No. 149, 2001</div>
     </td>
   </tr>
   <tr>
@@ -3785,15 +3334,7 @@ _(c)_     The _Protection of the Sea (Powers of Intervention) Act 1981_ 
       <div>S. 3A</div>
     </td>
     <td>
-      <div>ad. No. 143, 2001</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>rep. No. 44, 2006</div>
+      <div>ad. No. 143, 2001</div>
     </td>
   </tr>
   <tr>
@@ -3801,23 +3342,7 @@ _(c)_     The _Protection of the Sea (Powers of Intervention) Act 1981_ 
       <div>S. 4</div>
     </td>
     <td>
-      <div>am. No. 78, 1990; No. 44, 2006</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to s. 5</div>
-    </td>
-    <td>
-      <div>am. No. 44, 2006</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 5</div>
-    </td>
-    <td>
-      <div>am. No. 44, 2006</div>
+      <div>am. No. 78, 1990</div>
     </td>
   </tr>
   <tr>
@@ -3825,63 +3350,15 @@ _(c)_     The _Protection of the Sea (Powers of Intervention) Act 1981_ 
       <div>S. 7</div>
     </td>
     <td>
-      <div>am. No. 43, 1996; No. 44, 2006</div>
+      <div>am. No. 43, 1996</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>Note to s. 7(1)</div>
+      <div>Ss. 8-11</div>
     </td>
     <td>
-      <div>ad. No. 44, 2006</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to s. 8</div>
-    </td>
-    <td>
-      <div>am. No. 44, 2006</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 8</div>
-    </td>
-    <td>
-      <div>am. No. 78, 1990; No. 44, 2006</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to s. 9</div>
-    </td>
-    <td>
-      <div>am. No. 44, 2006</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 9</div>
-    </td>
-    <td>
-      <div>am. No. 78, 1990; No. 44, 2006</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to s. 10</div>
-    </td>
-    <td>
-      <div>am. No. 44, 2006</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 10, 11</div>
-    </td>
-    <td>
-      <div>am. No. 78, 1990; No. 44, 2006</div>
+      <div>am. No. 78, 1990</div>
     </td>
   </tr>
   <tr>
@@ -3889,23 +3366,7 @@ _(c)_     The _Protection of the Sea (Powers of Intervention) Act 1981_ 
       <div>S. 12</div>
     </td>
     <td>
-      <div>am. No. 43, 1996; No. 44, 2006</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to s. 14</div>
-    </td>
-    <td>
-      <div>am. No. 44, 2006</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 14</div>
-    </td>
-    <td>
-      <div>am. No. 44, 2006</div>
+      <div>am. No. 43, 1996</div>
     </td>
   </tr>
   <tr>
@@ -3921,23 +3382,7 @@ _(c)_     The _Protection of the Sea (Powers of Intervention) Act 1981_ 
       <div>S. 17</div>
     </td>
     <td>
-      <div>am. No. 78, 1990; No. 44, 2006</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 17A, 17B</div>
-    </td>
-    <td>
-      <div>ad. No. 44, 2006</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to s. 18</div>
-    </td>
-    <td>
-      <div>am. No. 44, 2006</div>
+      <div>am. No. 78, 1990</div>
     </td>
   </tr>
   <tr>
@@ -3945,23 +3390,7 @@ _(c)_     The _Protection of the Sea (Powers of Intervention) Act 1981_ 
       <div>S. 18</div>
     </td>
     <td>
-      <div>am. No. 78, 1990; No. 43, 1996; No. 44, 2006</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 19</div>
-    </td>
-    <td>
-      <div>am. No. 44, 2006</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 21</div>
-    </td>
-    <td>
-      <div>am. No. 44, 2006</div>
+      <div>am. No. 78, 1990; No. 43, 1996</div>
     </td>
   </tr>
   <tr>
@@ -3969,23 +3398,7 @@ _(c)_     The _Protection of the Sea (Powers of Intervention) Act 1981_ 
       <div>Note to s. 21</div>
     </td>
     <td>
-      <div>ad. No. 143, 2001</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>am. No. 44, 2006</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 22</div>
-    </td>
-    <td>
-      <div>rs. No. 44, 2006</div>
+      <div>ad. No. 143, 2001</div>
     </td>
   </tr>
   <tr>
@@ -4006,14 +3419,6 @@ _(c)_     The _Protection of the Sea (Powers of Intervention) Act 1981_ 
   </tr>
   <tr>
     <td>
-      <div></div>
-    </td>
-    <td>
-      <div>rep. No. 44, 2006</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
       <div>Schedule 3</div>
     </td>
     <td>
@@ -4022,10 +3427,10 @@ _(c)_     The _Protection of the Sea (Powers of Intervention) Act 1981_ 
   </tr>
   <tr>
     <td>
-      <div>Schedule 4</div>
+      <div>Schedule 4</div>
     </td>
     <td>
-      <div>ad. No. 149, 2001</div>
+      <div>ad. No. 149, 2001</div>
     </td>
   </tr>
 </tbody></table>
@@ -4035,7 +3440,7 @@ _(c)_     The _Protection of the Sea (Powers of Intervention) Act 1981_ 
 
 ### Application, saving or transitional provisions
 
-_Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001 (No. 143, 2001)_
+_Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001 (No. 143, 2001)_
 
 ##### <a id="4"></a>4  Application of Amendments
 
@@ -4043,5 +3448,7 @@ _Transport and Regional Services Legislation Amendment (Application of Criminal 
 
              (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
 
+
+ 
 
  
