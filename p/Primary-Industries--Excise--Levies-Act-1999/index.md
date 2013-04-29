@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00241/Html/3812577d-537d-48f1-83f0-4af1699a7671_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00642/Html/11d8c097-2f9d-4fb0-80a8-a4ad6fc34b48_files/image001.gif)
 
 # Primary Industries (Excise) Levies Act 1999
 
 **Act No. 31 of 1999 as amended**
 
-This compilation was prepared on 15 February 2012
+This compilation was prepared on 12 August 2011
  taking into account amendments up to Act No. 89 of 2011
 
 The text of any of those amendments not in force
@@ -636,7 +636,7 @@ that Schedule.</li>
 
              (4)  Despite anything else in this Schedule, if a regulation of the kind referred to in subclause (3) is made, an amount of levy is not payable under this Schedule on the slaughter of cattle in respect of any period while the regulation is in force.
 
-##### <a id="3"></a>3  Rate of levy
+##### <a id="3"></a>3  Rate of levy
 
              (1)  The rate of levy imposed by this Schedule on the slaughter of cattle consists of the sum of the amounts, per kilogram of the carcase of each head of cattle slaughtered, that are referred to in the following paragraphs:
 
@@ -3419,6 +3419,8 @@ the Minister must take into consideration any relevant recommendation made to th
 
              (5)  The instrument is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
+             (6)  For the purposes of section 8 of the _Acts Interpretation Act 1901_, a declaration under subclause (2) that is taken to amend the table in subclause (1) by way of repealing part of it is to be taken to be an Act that repeals that part.
+
 ##### <a id="6"></a>6  Transitional—instruments
 
              (1)  This clause applies to an instrument (other than _Pasture Seed Levy Declaration No. 1 of 1998_) if:
@@ -4357,7 +4359,7 @@ Remainder: Royal Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (item 914) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (item 914) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11)</div>
@@ -4939,22 +4941,6 @@ _(e)_     Subsection 2(1) (item 2) of the _Egg Industry Service Provisio
 </tr>
 <tr>
   <td>
-    <div><b>Schedule 21</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C. 5</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Schedule 22</b></div>
   </td>
   <td>
@@ -5074,6 +5060,20 @@ _(e)_     Subsection 2(1) (item 2) of the _Egg Industry Service Provisio
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendment commences on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 914  Subclause 5(6) of Schedule 21
+
+Repeal the subclause.
+
+As at 12 August 2011 the amendment is not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -5144,6 +5144,8 @@ The amendments made by this Schedule apply to leviable rice that is:
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
