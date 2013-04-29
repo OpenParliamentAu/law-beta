@@ -1,19 +1,16 @@
-![](http://www.comlaw.gov.au/Details/C2006C00130/Html/EC9C7F8B2496A298CA25714D0083D058/$FILE/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C00088/Html/E713B4A5EAFCE29BCA2570530013FB58/$FILE/PubAcctsAuditC&apos;tteeA51_files/image001.gif)
 
 # Public Accounts and Audit Committee Act 1951
 
 **Act No. 60 of 1951 as amended**
 
-This compilation was prepared on 31 March 2006 
-taking into account amendments up to Act No. 9 of 2006
+This compilation was prepared on 15 October 2001 
+taking into account amendments up to Act No. 109 of 2001
 
 The text of any of those amendments not in force
 on that date is appended in the Notes section
 
-The operation of amendments that have been incorporated may be
-affected by application provisions that are set out in the Notes section
-
-Prepared by the Office of Legislative Drafting and Publishing,
+Prepared by the Office of Legislative Drafting,
 Attorney-General’s Department, Canberra
 
 
@@ -23,7 +20,7 @@ Attorney-General’s Department, Canberra
 
 [2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[4](#4).            Interpretation                                                                                       1
+[4](#4).            Interpretation [_see_ Note 2]                                                                  1
 
 [4A](#4A).         Application of the _Criminal Code_                                                       1
 
@@ -85,6 +82,8 @@ Attorney-General’s Department, Canberra
 
 **Notes** 
 
+ 
+
 
 ## An Act to provide for a Joint Parliamentary Committee of Public Accounts and Audit
 
@@ -96,7 +95,7 @@ Attorney-General’s Department, Canberra
 
                    This Act shall come into operation on the day on which it receives the Royal Assent.
 
-##### <a id="4"></a>4  Interpretation
+##### <a id="4"></a>4  Interpretation [_see_ Note 2]
 
                    In this Act, unless the contrary intention appears:
 
@@ -108,11 +107,11 @@ Attorney-General’s Department, Canberra
 
                     <a name="member"></a>**_member_** means a member of the Committee.
 
-                    <a name="chairman"></a>**_the Chairman_** means the Chair of the Committee.
+                    <a name="chairman"></a>**_the Chairman_** means the Chairman of the Committee.
 
                     <a name="committe"></a>**_the Committee_** means the Joint Committee of Public Accounts and Audit for the time being constituted under this Act.
 
-                    <a name="vice-chairman"></a>**_the Vice-Chairman_** means the Deputy Chair of the Committee.
+                    <a name="vice-chairman"></a>**_the Vice-Chairman_** means the Vice-Chairman of the Committee.
 
 Note:          For the manner in which the Chair and Deputy Chair may be referred to, see section 18B of the _Acts Interpretation Act 1901_.
 
@@ -140,7 +139,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (b)  the Chair of that Committee is not a member of the Joint Committee of Public Accounts and Audit by virtue of an appointment under subsection (2);
 
-that Chair shall, by virtue of his office as Chair of the Expenditure Committee, be a member of the Joint Committee of Public Accounts and Audit in addition to the members referred to in subsection (2), but is not eligible to be elected as Chair of the last-mentioned Committee.
+that Chairman shall, by virtue of his office as Chairman of the Expenditure Committee, be a member of the Joint Committee of Public Accounts and Audit in addition to the members referred to in subsection (2), but is not eligible to be elected as Chairman of the last-mentioned Committee.
 
 ##### <a id="6"></a>6  Chair and Deputy Chair
 
@@ -254,7 +253,7 @@ that Chair shall, by virtue of his office as Chair of the Expenditure Committee,
 
                     <a name="state"></a>**_State_** includes the Northern Territory.
 
-##### <a id="8A"></a>8A  Committee may approve or reject recommendation for appointment of Auditor-General or Independent Auditor
+##### <a id="8A"></a>8A  Committee may approve or reject recommendation for appointment of Auditor-General or Independent Auditor
 
              (1)  If the Audit Minister refers a proposed recommendation for an appointment of the Auditor-General or Independent Auditor to the Committee for approval, the Committee must:
 
@@ -412,7 +411,7 @@ Note:          A defendant bears a legal burden in relation to
 
                      (b)  if the offence is prosecuted upon indictment—a fine not exceeding Four hundred dollars or imprisonment for a term not exceeding one year.
 
-##### <a id="22"></a>22  Allowances
+##### <a id="22"></a>22  Allowances
 
              (1)  The Chair and other members of the Committee shall be paid such allowances as are prescribed.
 
@@ -431,7 +430,7 @@ Note:          A defendant bears a legal burden in relation to
 
 # The Schedule—Forms
 
-## Form A 
+## Form A [_see_ Note 2]
 
 _Section 10_
 
@@ -459,11 +458,11 @@ SUMMONS TO A WITNESS
 
 To (_here insert name, address and occupation of witness_) 
 
-You are hereby summoned to appear before the Joint Committee of Public Accounts and Audit (or a Sectional Committee of the Joint Committee of Public Accounts and Audit) on                                     the        day of   , 19 , at             o’clock in the                                           noon, at            , then and there to give evidence and then and there to produce     ; and you are required to continue in attendance as directed by the said Committee (or Sectional Committee) or the Chair thereof, until your attendance is no longer required. 
+You are hereby summoned to appear before the Joint Committee of Public Accounts and Audit (or a Sectional Committee of the Joint Committee of Public Accounts and Audit) on                                     the        day of   , 19 , at             o’clock in the                                           noon, at            , then and there to give evidence and then and there to produce     ; and you are required to continue in attendance as directed by the said Committee (or Sectional Committee) or the Chairman thereof, until your attendance is no longer required. 
 
-     Dated the                                         day of                                      , 19    . 
+     Dated the                                         day of                                      , 19    . 
 
-(Chair or Deputy Chair of the 
+(Chairman or Vice-Chairman of the 
 Committee or Sectional Committee) 
 
 ## Form D 
@@ -506,7 +505,7 @@ The _Public Accounts and Audit Committee Act 1951_ was modified by the A.C.T. Se
   <col width="16%">
   <col width="18%">
   <col width="20%">
-  <col width="15%">
+  <col width="16%">
 </colgroup>
 
 <thead>
@@ -830,40 +829,6 @@ Schedule (Part 5): 30 Aug 1995 ( <i>see Gazette</i>1995, No. S324) <i>(d)</i>
   </tr>
   <tr>
     <td>
-      <div>as amended by</div>
-    </td>
-    <td>
-      <div> </div>
-    </td>
-    <td>
-      <div> </div>
-    </td>
-    <td>
-      <div> </div>
-    </td>
-    <td>
-      <div> </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Statute Law Revision Act 2006</div>
-    </td>
-    <td>
-      <div>9, 2006</div>
-    </td>
-    <td>
-      <div>23 Mar 2006</div>
-    </td>
-    <td>
-      <div>Schedule 2 (items 3–6): <i>(h)</i></div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
       <div>Finance and Administration Legislation Amendment (Application of Criminal Code) Act 2001</div>
     </td>
     <td>
@@ -877,23 +842,6 @@ Schedule (Part 5): 30 Aug 1995 ( <i>see Gazette</i>1995, No. S324) <i>(d)</i>
     </td>
     <td>
       <div>S. 5 \[ <i>see</i>Table A]</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Statute Law Revision Act 2006</div>
-    </td>
-    <td>
-      <div>9, 2006</div>
-    </td>
-    <td>
-      <div>23 Mar 2006</div>
-    </td>
-    <td>
-      <div>Schedule 1 (item 22): <i>(h)</i></div>
-    </td>
-    <td>
-      <div>—</div>
     </td>
   </tr>
 </tbody></table>
@@ -934,171 +882,6 @@ _(g)_     The _Public Accounts and Audit Committee Act 1951_ was amended
                  (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
 
          The _Financial Management and Accountability Act 1997_ came into operation on 1 January 1998.
-
-_(h)_     Subsection 2(1) (items 14 and 20–23) of the _Statute Law Revision Act 2006_ provide as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>
-      <div>
-        14\. Schedule 1, item 22
-      </div>
-    </td>
-    <td>
-      <div>
-        Immediately after the commencement of item 1126 of Schedule 2 to the
-          <i>Audit (Transitional and Miscellaneous) Amendment Act 1997</i>.
-      </div>
-    </td>
-    <td>
-      <div>
-        1 January 1998
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        20\. Schedule 2, item 3
-      </div>
-    </td>
-    <td>
-      <div>
-        Immediately after the time specified in the
-          <i>Audit (Transitional and Miscellaneous) Amendment Act 1997</i>for the commencement
-          of item 1118 of Schedule 2 to that Act.
-      </div>
-    </td>
-    <td>
-      <div>
-        1 January 1998
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        21\. Schedule 2, item 4
-      </div>
-    </td>
-    <td>
-      <div>
-        Immediately after the time specified in the
-          <i>Audit (Transitional and Miscellaneous) Amendment Act 1997</i>for the commencement
-          of item 1120 of Schedule 2 to that Act.
-      </div>
-    </td>
-    <td>
-      <div>
-        1 January 1998
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        22\. Schedule 2, item 5
-      </div>
-    </td>
-    <td>
-      <div>
-        Immediately after the time specified in the
-          <i>Audit (Transitional and Miscellaneous) Amendment Act 1997</i>for the commencement
-          of item 1134 of Schedule 2 to that Act.
-      </div>
-    </td>
-    <td>
-      <div>
-        1 January 1998
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        23\. Schedule 2, item 6
-      </div>
-    </td>
-    <td>
-      <div>
-        Immediately after the time specified in the
-          <i>Audit (Transitional and Miscellaneous) Amendment Act 1997</i>for the commencement
-          of item 1135 of Schedule 2 to that Act.
-      </div>
-    </td>
-    <td>
-      <div>
-        1 January 1998
-      </div>
-    </td>
-  </tr>
-</tbody></table>
 
 
 ## Table of Amendments
@@ -1170,7 +953,7 @@ _(h)_     Subsection 2(1) (items 14 and 20–23) of the _Statute Law R
       <div>S. 5</div>
     </td>
     <td>
-      <div>am. No. 216, 1973; No. 70, 1976; No. 111, 1983; No. 152, 1997; No. 9, 2006</div>
+      <div>am. No. 216, 1973; No. 70, 1976; No. 111, 1983; No. 152, 1997</div>
     </td>
   </tr>
   <tr>
@@ -1303,21 +1086,38 @@ _(h)_     Subsection 2(1) (items 14 and 20–23) of the _Statute Law R
   </tr>
   <tr>
     <td>
-      <div>Form C</div>
-    </td>
-    <td>
-      <div>am. No. 152, 1997 (as am. by No. 9, 2006)</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Form D</div>
+      <div>Forms C, D</div>
     </td>
     <td>
       <div>am. No. 152, 1997</div>
     </td>
   </tr>
 </tbody></table>
+
+
+### Note 2
+
+Section 4 and The Schedule, Form A—Schedule 2 (items 1118, 1120, 1134, 1135) of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_ provide as follows:
+
+## Schedule 2
+
+## 1118  Section 4 (definition of _Chairman_)
+
+Omit “Chairman” (wherever occurring), substitute “Chair”.
+
+## 1120  Section 4 (definition of _Vice-Chairman_)
+
+Omit “Vice-Chairman” (wherever occurring), substitute “Deputy Chair”.
+
+## 1134  Schedule, Form A
+
+Omit “Chairman”, substitute “Chair”.
+
+## 1135  Schedule, Form A
+
+Omit “Vice-Chairman”, substitute “Deputy Chair”.
+
+The proposed amendments were misdescribed and are not incorporated in this compilation.
 
 
 ## Table A
