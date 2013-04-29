@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00254/Html/5235dab8-8961-44e7-9f89-a063c0380535_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00821/Html/6fb031fc-a798-4986-95e2-eefa935678cf_files/image001.gif)
 
 # Northern Territory Acceptance Act 1910
 
 **Act No. 20 of 1910 as amended**
 
-This compilation was prepared on 27 December 2011
+This compilation was prepared on 5 October 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force 
@@ -20,31 +20,31 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part I—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                         2
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               2
 
-[4](#4).            Interpretation
+[4](#4).            Interpretation                                                                                        2
 
 **Part II—Acceptance of the Northern Territory**
 
-[5](#5).            Approval of Agreement
+[5](#5).            Approval of Agreement                                                                       3
 
-[6](#6).            Acceptance of the Northern Territory
+[6](#6).            Acceptance of the Northern Territory                                                   3
 
-[7](#7).            Continuance of laws
+[7](#7).            Continuance of laws                                                                             3
 
-[10](#10).          Continuance of estates and interests
+[10](#10).          Continuance of estates and interests                                                     4
 
 **Part III—Provisions for carrying out the Agreement**
 
-[14](#14).          Obligations of Commonwealth
+[14](#14).          Obligations of Commonwealth                                                            5
 
-[15](#15).          Authority to construct railway to Western Australia
+[15](#15).          Authority to construct railway to Western Australia                            6
 
-[17](#17).          Powers etc  in relation to the working of railways
+[17](#17).          Powers etc  in relation to the working of railways                               7
 
-[19](#19).          Act not to be deemed to appropriate revenues or moneys
+[19](#19).          Act not to be deemed to appropriate revenues or moneys                    7
 
 **The Schedule [_see_ Note 2]** 
 
@@ -56,7 +56,7 @@ Preamble
 
 WHEREAS by certain Letters Patent of Her late Majesty Queen Victoria, bearing date the sixth day of July, One thousand eight hundred and sixty‑three, and signed by warrant under the Queen’s Sign Manual, the Northern Territory as defined in this Act was annexed to the Province of South Australia: 
 
-And whereas by the _Commonwealth of Australia Constitution Act_ the Province of South Australia, including the Northern Territory of South Australia, became a part of the Commonwealth by the name of the State of South Australia: 
+And whereas by the Constitution Act the Province of South Australia, including the Northern Territory of South Australia, became a part of the Commonwealth by the name of the State of South Australia: 
 
 And whereas by the Constitution it is provided that the Parliament may make laws for the government of any territory surrendered by any State to and accepted by the Commonwealth: 
 
@@ -400,7 +400,7 @@ of Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (item 874) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (item 874) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 3 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
@@ -431,14 +431,6 @@ _(a)_ The _Northern Territory__Acceptance Act 1910_ was amended by Schedule 4 
     </td>
     <td>
       <div>How affected</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Preamble</div>
-    </td>
-    <td>
-      <div>am. No. 46, 2011</div>
     </td>
   </tr>
 </thead>
@@ -503,6 +495,20 @@ _(a)_ The _Northern Territory__Acceptance Act 1910_ was amended by Schedule 4 
 
 The Schedule—The Agreement set forth in the Schedule has been varied by a further Agreement which is set forth in the Schedule to the _Northern Territory__Acceptance Act 1919_. A reprint of the _Northern   Territory__Acceptance Act 1919_ is published separately.
 
+### Note 3
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendment commences on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 874  Preamble
+
+Omit “Constitution Act”, substitute “_Commonwealth of Australia Constitution Act_”.
+
+As at 5 October 2011 the amendment is not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -518,6 +524,8 @@ After the commencement of this item, the _Northern Territory__Acceptance Act 191
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
