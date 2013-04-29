@@ -1,234 +1,192 @@
-![Commonwealth Coat of Arms](http://www.comlaw.gov.au/Details/C2013C00092/Html/8c67d11f-9e6d-40fb-b48e-fd3c76b4f501_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00826/Html/PooledDevelFund1992_WD02_image001.gif)
 
 # Pooled Development Funds Act 1992
 
-No. 100, 1992 as amended
+**Act No. 100 of 1992 as amended**
 
-**Compilation start date:**11 December 2012
+This compilation was prepared on 21 December 2010
+ taking into account amendments up to Act No. 145 of 2010
 
-**Includes amendments up to:**Act No. 180, 2012
+The text of any of those amendments not in force
+ on that date is appended in the Notes section
 
-**About this compilation**
+The operation of amendments that have been incorporated may be 
+ affected by application provisions that are set out in the Notes section
 
-**The compiled Act**
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney-General’s Department, Canberra
 
-This is a compilation of the _Pooled Development Funds Act 1992_ as amended and in force on 11 December 2012\. It includes any amendment affecting the compiled Act to that date.
-
-This compilation was prepared on 25 February 2013.
-
-The notes at the end of this compilation (the **_endnotes_**) include information about amending Acts and instruments and the amendment history of each amended provision.
-
-**Uncommenced provisions and amendments**
-
-If a provision of the compiled Act is affected by an uncommenced amendment, the text of the uncommenced amendment is set out in the endnotes.
-
-**Application, saving and transitional provisions for amendments**
-
-If the operation of an amendment is affected by an application, saving or transitional provision, the provision is set out in the endnotes.
-
-**Modifications**
-
-If a provision of the compiled Act is affected by a textual modification that is in force, the text of the modifying provision is set out in the endnotes. 
-
-**Provisions ceasing to have effect**
-
-If a provision of the compiled Act has expired or otherwise ceased to have effect in accordance with a provision of the Act, details of the provision are set out in the endnotes.
-
-Contents
+# Contents
 
 **Part 1—Preliminary**
 
-[1](#1).            Short title                                                                                              1
+[1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Commencement                                                                                    1
+[2](#2).            Commencement [_see_ Note 1]
 
-[3](#3).            Object of the Act                                                                                  1
+[3](#3).            Object of the Act
 
-[4](#4).            Interpretation                                                                                        1
+[4](#4).            Interpretation
 
-[4A](#4A).         Definition of _widely‑held complying superannuation fund_                  6
+[4A](#4A).         Definition of _widely-held complying superannuation fund_
 
-[4B](#4B).         Application of the _Criminal Code_                                                        7
+[4B](#4B).         Application of the _Criminal Code_
 
 **Part 3—Becoming a PDF**
 
-[10](#10).          How a company becomes a PDF                                                         8
+[10](#10).          How a company becomes a PDF
 
-[11](#11).          Application for registration declaration                                                8
+[11](#11).          Application for registration declaration
 
-[12](#12).          Further information may be requested                                                10
+[12](#12).          Further information may be requested
 
-[13](#13).          Period within which registration application to be decided                 10
+[13](#13).          Period within which registration application to be decided
 
-[14](#14).          Deciding a registration application                                                     10
+[14](#14).          Deciding a registration application
 
-[15](#15).          Applicant to be notified of decision                                                    12
+[15](#15).          Applicant to be notified of decision
 
-[16](#16).          Board to publish notice of registration declaration in the _Gazette_       12
+[16](#16).          Board to publish notice of registration declaration in the _Gazette_
 
-[17](#17).          A PDF’s approved investment plan                                                   13
+[17](#17).          A PDF’s approved investment plan
 
-[18](#18).          Conditions of registration declaration                                                 14
+[18](#18).          Conditions of registration declaration
 
 **Part 4—Regulation of PDFs** 
 
     **Division 1—Making investments**
 
-[19](#19).          Investments to be in accordance with this Division                            15
+[19](#19).          Investments to be in accordance with this Division
 
-[20](#20).          First kind of allowed investment: acquiring shares                            15
+[20](#20).          First kind of allowed investment: acquiring shares
 
-[20A](#20A).       Second kind of allowed investment: acquiring non‑transferable options  17
+[20A](#20A).       Second kind of allowed investment: acquiring non-transferable options
 
-[20B](#20B).       Third kind of allowed investment: lending money to existing investee companies   17
+[20B](#20B).       Third kind of allowed investment: lending money to existing investee companies
 
-[21](#21).          Intended use by investee company of money invested by PDF         18
+[21](#21).          Intended use by investee company of money invested by PDF
 
-[22](#22).          Investee company must not be a PDF                                                19
+[22](#22).          Investee company must not be a PDF
 
-[23](#23).          Primary activity of investee company must not be an excluded activity 19
+[23](#23).          Primary activity of investee company must not be an excluded activity
 
-[24](#24).          Limit on size of investee company                                                     20
+[24](#24).          Limit on size of investee company
 
-[25](#25).          PDF not to commit more than 30% of its committed capital to investee company    21
+[25](#25).          PDF not to commit more than 30% of its committed capital to investee company
 
-[27](#27).          Amount invested in investee company to be at least 10% of its paid‑up capital        22
+[27](#27).          Amount invested in investee company to be at least 10% of its paid-up capital
 
-[27A](#27A).       PDF to notify Board of initial investments                                         22
+[27A](#27A).       PDF to notify Board of initial investments
 
-[28](#28).          Provisions relating to approvals by Board                                         22
+[28](#28).          Provisions relating to approvals by Board
 
-[28A](#28A).       Indirect investments                                                                           24
+[28A](#28A).       Indirect investments
 
     **Division 2—Other provisions regulating the capital structure and activities of PDFs**
 
-[29](#29).          PDF to carry on a business of making and holding PDF investments 25
+[29](#29).          PDF to carry on a business of making and holding PDF investments
 
-[30](#30).          Restrictions on raising money etc                                                       25
+[30](#30).          Restrictions on raising money etc 
 
-[31](#31).          Limit on shareholding in a PDF                                                         26
+[31](#31).          Limit on shareholding in a PDF
 
-[32](#32).          Timetable for investing funds raised by PDF                                     28
+[32](#32).          Timetable for investing funds raised by PDF
 
-[32A](#32A).       PDFs may merge                                                                               30
+[32A](#32A).       PDFs may merge
 
     **Division 3—Board’s powers to give directions**
 
-[33](#33).          PDF to comply with directions in relation to its approved investment plan              31
+[33](#33).          PDF to comply with directions in relation to its approved investment plan
 
-[34](#34).          PDF to comply with directions if investee company’s primary activity is an excluded activity                31
+[34](#34).          PDF to comply with directions if investee company’s primary activity is an excluded activity
 
-[35](#35).          PDF to comply with other directions                                                 32
+[35](#35).          PDF to comply with other directions
 
-[36](#36).          Shareholders to comply with directions about shareholdings in PDFs 33
+[36](#36).          Shareholders to comply with directions about shareholdings in PDFs
 
-[37](#37).          Board to advise of reasons for giving directions                                33
+[37](#37).          Board to advise of reasons for giving directions
 
     **Division 4—Consequences of contravention of this Part**
 
-[38](#38).          Acts in contravention of Part not invalid                                            34
+[38](#38).          Acts in contravention of Part not invalid
 
 **Part 5—Monitoring compliance**
 
-[39](#39).          Board to monitor compliance                                                             35
+[39](#39).          Board to monitor compliance
 
-[40](#40).          Board to consider compliance on receipt of annual return                  35
+[40](#40).          Board to consider compliance on receipt of annual return
 
-[41](#41).          Annual return by PDF                                                                       35
+[41](#41).          Annual return by PDF
 
-[42](#42).          PDF to notify Board of events affecting information previously given 37
+[42](#42).          PDF to notify Board of events affecting information previously given
 
-[43](#43).          Board may require certain persons to provide information or produce documents   39
+[43](#43).          Board may require certain persons to provide information or produce documents
 
-[44](#44).          Board may request persons to provide information or produce documents              39
+[44](#44).          Board may request persons to provide information or produce documents
 
 **Part 6—Revocation of registration declarations**
 
-[45](#45).          Automatic revocation if PDF is not an eligible corporation                40
+[45](#45).          Automatic revocation if PDF is not an eligible corporation
 
-[46](#46).          Revocation on application by PDF                                                     40
+[46](#46).          Revocation on application by PDF
 
-[47](#47).          Revocation at discretion of Board                                                      40
+[47](#47).          Revocation at discretion of Board
 
-[48](#48).          Board to publish notice of revocations in the _Gazette_                        41
+[48](#48).          Board to publish notice of revocations in the _Gazette_
 
-[49](#49).          Company to notify its shareholders if it ceases to be a PDF              41
+[49](#49).          Company to notify its shareholders if it ceases to be a PDF
 
 **Part 7—Offences relating to PDFs**
 
-[51](#51).          Offences—failure to comply with directions or requirements            42
+[50](#50).          Criminal consequences of contravening certain provisions
+
+[51](#51).          Other offences
 
 **Part 7A—Investments by venture capital entities**
 
-[52A](#52A).       Registration of venture capital entities                                                43
+[52A](#52A).       Registration of venture capital entities
 
-[52B](#52B).       Period within which application must be decided                               44
+[52B](#52B).       Period within which application must be decided
 
-[52C](#52C).       Annual return by venture capital entities                                            44
+[52C](#52C).       Annual return by venture capital entities
 
-[52D](#52D).       Revocation at discretion of Board                                                      45
+[52D](#52D).       Revocation at discretion of Board
 
 **Part 8—Review of decisions**
 
-[53](#53).          Notification of certain decisions                                                         46
+[53](#53).          Notification of certain decisions
 
-[54](#54).          Notification of right to seek internal review                                       46
+[54](#54).          Notification of right to seek internal review
 
-[55](#55).          Internal review of decisions                                                               46
+[55](#55).          Internal review of decisions
 
-[56](#56).          Review of decisions by Administrative Appeals Tribunal                 48
+[56](#56).          Review of decisions by Administrative Appeals Tribunal
 
 **Part 10—Miscellaneous**
 
-[70](#70).          Board to provide information about PDFs on request                        49
+[70](#70).          Board to provide information about PDFs on request
 
-[71](#71).          Secrecy                                                                                               49
+[71](#71).          Secrecy
 
-[76](#76).          Regulations                                                                                        52
+[76](#76).          Regulations
 
-Endnotes    
-
-Endnote 1—Legislation history                                                                             53
-
-Endnote 2—Amendment historys                                                                        58
-
-Endnote 3—Application, saving and transitional provisions                  61
-
-New Business Tax System (Capital Gains Tax) Act 1999 (No. 165, 1999)    61
-
-Pooled Development Funds Amendment Act 2000 (No. 64, 2000)                 61
-
-Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)          62
-
-Industry, Science and Resources Legislation Amendment (Application of Criminal Code) Act 2001 (No. 140, 2001)                                                                                                               63
-
-Industry, Tourism and Resources Legislation Amendment Act 2003 (No. 21, 2003)        63
-
-Superannuation Legislation Amendment (Simplification) Act 2007 (No. 15, 2007)          65
-
-Tax Laws Amendment (2007 Measures No. 5) Act 2007 (No. 164, 2007)    65
-
-Same‑Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008 (No. 144, 2008)                                                                                                               69
-
-Endnote 4—Uncommenced amendments                                                        70
-
-Endnote 5—Misdescribed amendments                                                            71
+**Notes** 
 
 ## An Act about pooled development funds, and for related purposes
 
 ## Part 1—Preliminary
 
-##### <a id="1"></a>1  Short title
+##### <a id="1"></a>1  Short title [_see_ Note 1]
 
                    This Act may be cited as the _Pooled Development Funds Act 1992_.
 
-##### <a id="2"></a>2  Commencement
+##### <a id="2"></a>2  Commencement [_see_ Note 1]
 
                    This Act commences on the day on which it receives the Royal Assent.
 
 ##### <a id="3"></a>3  Object of the Act
 
-             (1)  The object of this Act is to develop, and demonstrate the potential of, the market for providing patient equity capital (including venture capital) to small or medium‑sized Australian enterprises that carry on eligible businesses.
+             (1)  The object of this Act is to develop, and demonstrate the potential of, the market for providing patient equity capital (including venture capital) to small or medium-sized Australian enterprises that carry on eligible businesses.
 
              (2)  To achieve this object, the Act establishes a scheme under which companies that provide that kind of capital can become pooled development funds (**_PDFs_**), which entitles them to more competitive tax treatment.
 
@@ -236,7 +194,7 @@ Endnote 5—Misdescribed amendments               
 
              (1)  In this Act, unless the contrary intention appears:
 
-                    <a name="adi"></a>**_ADI_** (authorised deposit‑taking institution) means:
+                    <a name="adi"></a>**_ADI_** (authorised deposit-taking institution) means:
 
                      (a)  a body corporate that is an ADI for the purposes of the _Banking Act 1959_; or
 
@@ -244,9 +202,9 @@ Endnote 5—Misdescribed amendments               
 
                      (c)  a bank constituted by a law of a State or internal Territory.
 
-                    <a name="afof"></a>**_AFOF_** means an Australian venture capital fund of funds within the meaning of subsection 118‑410(3) of the _Income Tax Assessment Act 1997_.
+                    <a name="afof"></a>**_AFOF_** means an Australian venture capital fund of funds within the meaning of subsection 118-410(3) of the _Income Tax Assessment Act 1997_.
 
-                    <a name="approved-invest-plan"></a>**_approved investment plan_**, in relation to a PDF, has the meaning given by subsection 17(2).
+                    <a name="approved-invest-plan"></a>**_approved investment plan_**, in relation to a PDF, has the meaning given by subsection 17(2).
 
                     <a name="board"></a>**_Board_** means Innovation Australia, established by section 6 of the _Industry Research and Development Act 1986_.
 
@@ -260,9 +218,9 @@ Endnote 5—Misdescribed amendments               
 
                     <a name="elig-busi"></a>**_eligible business_** means a business that does not consist, or consist primarily, of an excluded activity.
 
-                    <a name="elig-corpor"></a>**_eligible corporation_** means a body corporate that is, for the purposes of paragraph 51(20) of the Constitution, a trading corporation, or a financial corporation, formed within the limits of the Commonwealth.
+                    <a name="elig-corpor"></a>**_eligible corporation_** means a body corporate that is, for the purposes of paragraph 51(20) of the Constitution, a trading corporation, or a financial corporation, formed within the limits of the Commonwealth.
 
-                    <a name="esvclp"></a>**_ESVCLP_** means an early stage venture capital limited partnership within the meaning of subsection 118‑407(4) of the _Income Tax Assessment Act 1997_.
+                    <a name="esvclp"></a>**_ESVCLP_** means an early stage venture capital limited partnership within the meaning of subsection 118-407(4) of the _Income Tax Assessment Act 1997_.
 
                     <a name="excluded-activ"></a>**_excluded activity_** means a prescribed activity.
 
@@ -302,7 +260,7 @@ Endnote 5—Misdescribed amendments               
 
                     <a name="member"></a>**_member_**, except in relation to a partnership, means a member of the Board.
 
-                    <a name="object-act"></a>**_object of this Act_** means the object set out in subsection 3(2).
+                    <a name="object-act"></a>**_object of this Act_** means the object set out in subsection 3(2).
 
                     <a name="offic"></a>**_officer_**, in relation to a body corporate, means a director, secretary, executive officer or employee of the company.
 
@@ -314,7 +272,7 @@ Endnote 5—Misdescribed amendments               
 
                     <a name="pdf-invest"></a>**_PDF investment_** means an investment made in accordance with Division 1 of Part 4.
 
-                    <a name="permit-short-term-borrow"></a>**_permitted short‑term borrowing_** means a borrowing of money that is made:
+                    <a name="permit-short-term-borrow"></a>**_permitted short-term borrowing_** means a borrowing of money that is made:
 
                      (a)  because of temporary cash flow problems; and
 
@@ -342,15 +300,15 @@ Endnote 5—Misdescribed amendments               
 
                      (b)  under section 17 to refuse to approve a variation of a PDF’s approved investment plan; or
 
-                     (c)  under paragraph 20(1)(b), subsection 20(2), 23(1), 24(2) or 25(1), or section 27, to refuse to give an approval in relation to an investment proposed to be made by a PDF; or
+                     (c)  under paragraph 20(1)(b), subsection 20(2), 23(1), 24(2) or 25(1), or section 27, to refuse to give an approval in relation to an investment proposed to be made by a PDF; or
 
-                     (d)  under paragraph 29(2)(b) to refuse to give an approval to a PDF entering into a transaction; or
+                     (d)  under paragraph 29(2)(b) to refuse to give an approval to a PDF entering into a transaction; or
 
-                     (e)  under subsection 31(1) to refuse to give an approval in relation to a person’s shareholding in a PDF; or
+                     (e)  under subsection 31(1) to refuse to give an approval in relation to a person’s shareholding in a PDF; or
 
-                      (f)  under subsection 32(1) to refuse to make, in relation to a payment day (within the meaning of that subsection) of a PDF, a determination for the purposes of paragraph (a) of the definition of **_investment period_** or **_required percentage_** in that subsection; or
+                      (f)  under subsection 32(1) to refuse to make, in relation to a payment day (within the meaning of that subsection) of a PDF, a determination for the purposes of paragraph (a) of the definition of **_investment period_** or **_required percentage_** in that subsection; or
 
-                     (g)  under subsection 33(2), 34(1), 35(1) or 36(1) to give a person a direction; or
+                     (g)  under subsection 33(2), 34(1), 35(1) or 36(1) to give a person a direction; or
 
                      (h)  under section 47 to revoke a registration declaration in relation to a company; or
 
@@ -370,19 +328,19 @@ Endnote 5—Misdescribed amendments               
 
                     <a name="unregulated-invest"></a>**_unregulated investment_** means an investment of a prescribed kind.
 
-                    <a name="vclp"></a>**_VCLP_** means a venture capital limited partnership within the meaning of subsection 118‑405(2) of the _Income Tax Assessment Act 1997_.
+                    <a name="vclp"></a>**_VCLP_** means a venture capital limited partnership within the meaning of subsection 118-405(2) of the _Income Tax Assessment Act 1997_.
 
                     <a name="ventur-capit-entiti"></a>**_venture capital entity_** has the same meaning as in the _Income Tax Assessment Act 1997_.
 
                     <a name="ventur-capit-equiti"></a>**_venture capital equity_** has the same meaning as in the _Income Tax Assessment Act 1997_.
 
-                    <a name="wide-held-compli-superannu-fund"></a>**_widely‑held complying superannuation fund_** has the meaning given by section 4A.
+                    <a name="wide-held-compli-superannu-fund"></a>**_widely-held complying superannuation fund_** has the meaning given by section 4A.
 
              (2)  The effect that a provision of this Act has because of a paragraph of the definition of **_investment manager_** in subsection (1) is additional to, and does not prejudice, the effect that:
 
                      (a)  the provision has because of any other paragraph of that definition; or
 
-                     (b)  any other provision of this Act has because of the first‑mentioned paragraph.
+                     (b)  any other provision of this Act has because of the first-mentioned paragraph.
 
              (3)  For the purposes of this Act, a company’s constitution satisfies the PDF constitution requirements if, and only if, it:
 
@@ -394,9 +352,9 @@ Endnote 5—Misdescribed amendments               
 
              (4)  For the purposes of this Act, a person who subscribes for or buys shares is taken to hold the shares from the time of the subscription or purchase until the person no longer has in the shares an interest of any kind (whether legal or equitable).
 
-##### <a id="4A"></a>4A  Definition of _widely‑held complying superannuation fund_
+##### <a id="4A"></a>4A  Definition of _widely-held complying superannuation fund_
 
-             (1)  For the purposes of this Act, a fund is a **_widely‑held complying superannuation fund_** if:
+             (1)  For the purposes of this Act, a fund is a **_widely-held complying superannuation fund_** if:
 
                      (a)  it has 5 or more members; and
 
@@ -406,7 +364,7 @@ Resident funds
 
              (2)  A fund satisfies the test in this subsection at a particular time during a year of income of the fund (within the meaning of the _Income Tax Assessment Act 1936_) if it is a complying superannuation fund for the purposes of the _Income Tax Assessment Act 1997_ in relation to the year of income.
 
-Non‑resident funds
+Non-resident funds
 
              (3)  A fund satisfies the test in this subsection if:
 
@@ -418,7 +376,7 @@ Non‑resident funds
 
                      (d)  it complies with the applicable laws of a foreign country that regulate funds established for that purpose.
 
-##### <a id="4B"></a>4B  Application of the _Criminal Code_
+##### <a id="4B"></a>4B  Application of the _Criminal Code_
 
                    Chapter 2 of the _Criminal Code_ applies to all offences created by this Act.
 
@@ -456,15 +414,15 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                             (iii)  the name, address, occupation, qualifications and experience of each natural person who is supplying, or will supply, such services to the applicant:
 
-                                        (A)  if the first‑mentioned person is a natural person—as an employee of the first‑mentioned person; or
+                                        (A)  if the first-mentioned person is a natural person—as an employee of the first-mentioned person; or
 
-                                        (B)  if the first‑mentioned person is a body corporate—as an officer of the body; or
+                                        (B)  if the first-mentioned person is a body corporate—as an officer of the body; or
 
                                         (C)  in the case of a partnership—as a member or employee of the partnership or as an officer of a body corporate that is such a member;
 
-                     (c)  the applicant’s issued share capital and paid‑up share capital;
+                     (c)  the applicant’s issued share capital and paid-up share capital;
 
-                     (d)  the capital‑raising plan that the applicant proposes to implement if it becomes a PDF;
+                     (d)  the capital-raising plan that the applicant proposes to implement if it becomes a PDF;
 
                      (e)  the investment plan that the applicant proposes to implement if it becomes a PDF;
 
@@ -518,7 +476,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                              (ii)  the requirements of this Act relating to the making and holding of investments by a PDF; and
 
-                     (d)  the capital‑raising plan set out in the registration application is appropriate, having regard to the requirements of this Act relating to the raising of capital by a PDF; and
+                     (d)  the capital-raising plan set out in the registration application is appropriate, having regard to the requirements of this Act relating to the raising of capital by a PDF; and
 
                      (e)  the applicant is reasonably likely to be able to implement those plans and comply with this Act; and
 
@@ -566,7 +524,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
              (2)  If the decision is to refuse the application, the notice must also include a statement of the Board’s reasons for the decision.
 
-             (3)  Subsection (2) does not apply in relation to a decision that is taken to have been made because of subsection 13(5).
+             (3)  Subsection (2) does not apply in relation to a decision that is taken to have been made because of subsection 13(5).
 
              (4)  A failure to comply with subsection (1) or (2) in relation to a decision does not affect the validity of the decision.
 
@@ -578,7 +536,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 ##### <a id="17"></a>17  A PDF’s approved investment plan
 
-             (1)  A resolution declaring a company to be registered as a PDF must specify a document that sets out the investment plan in relation to which the Board is satisfied as mentioned in paragraph 14(1)(c).
+             (1)  A resolution declaring a company to be registered as a PDF must specify a document that sets out the investment plan in relation to which the Board is satisfied as mentioned in paragraph 14(1)(c).
 
              (2)  For the purposes of this Act, a PDF’s approved investment plan is:
 
@@ -626,7 +584,7 @@ the Board must grant the request and approve the variation.
 
                               (i)  satisfies the PDF constitution requirements; and
 
-                             (ii)  be complied with in so far as it prohibits as mentioned in subsection 4(3);
+                             (ii)  be complied with in so far as it prohibits as mentioned in subsection 4(3);
 
                      (c)  a condition that the PDF not reduce its share capital, or buy shares in itself, within 2 years after becoming a PDF or merging with another PDF as mentioned in section 32A.
 
@@ -642,13 +600,13 @@ the Board must grant the request and approve the variation.
 
                      (a)  subscribing for or buying shares (see section 20);
 
-                     (b)  acquiring non‑transferable options to buy shares (see section 20A);
+                     (b)  acquiring non-transferable options to buy shares (see section 20A);
 
                      (c)  lending money to companies (see section 20B).
 
              (3)  The other sections of this Division (sections 21 to 28A) apply to each of those kinds of investment.
 
-Note:          In particular, section 27 provides that, unless the Board otherwise approves, immediately after an investment of any of the above kinds is made, the total of all amounts paid on the shares in the investee company held by the PDF must be at least 10% of the total of all amounts paid on the issued shares in the investee company. (This means that the PDF must hold at least 10% of the paid‑up share capital in the investee company before the PDF can acquire non‑transferable options in the company or lend it money.)
+Note:          In particular, section 27 provides that, unless the Board otherwise approves, immediately after an investment of any of the above kinds is made, the total of all amounts paid on the shares in the investee company held by the PDF must be at least 10% of the total of all amounts paid on the issued shares in the investee company. (This means that the PDF must hold at least 10% of the paid-up share capital in the investee company before the PDF can acquire non-transferable options in the company or lend it money.)
 
 ##### <a id="20"></a>20  First kind of allowed investment: acquiring shares
 
@@ -658,7 +616,7 @@ Note:          In particular, section 27 provides that, unle
 
                      (b)  some other kind of shares in a company (in this Division also called the **_investee company_**) that the Board approves the PDF investing in.
 
-             (2)  Unless the Board otherwise approves, the shares must not be pre‑owned shares.
+             (2)  Unless the Board otherwise approves, the shares must not be pre-owned shares.
 
              (3)  The Board may give an approval for the purposes of subsection (2) only if it is satisfied:
 
@@ -670,11 +628,11 @@ Note:          In particular, section 27 provides that, unle
 
                      (d)  that either:
 
-                              (i)  the PDF already holds other shares in the investee company, some or all of which are not pre‑owned shares; or
+                              (i)  the PDF already holds other shares in the investee company, some or all of which are not pre-owned shares; or
 
-                             (ii)  the PDF will, in connection with acquiring the shares, acquire other shares in the investee company, some or all of which are not pre‑owned shares.
+                             (ii)  the PDF will, in connection with acquiring the shares, acquire other shares in the investee company, some or all of which are not pre-owned shares.
 
-             (4)  A reference in this Part to all amounts paid on shares held by a PDF is, in so far as the shares are pre‑owned shares, a reference to:
+             (4)  A reference in this Part to all amounts paid on shares held by a PDF is, in so far as the shares are pre-owned shares, a reference to:
 
                      (a)  the amount that the PDF paid for the shares; and
 
@@ -682,17 +640,17 @@ Note:          In particular, section 27 provides that, unle
 
              (5)  In this section:
 
-                    <a name="pre-owned-share"></a>**_pre‑owned shares_** means shares that were issued or allotted to a person other than the PDF, but does not include any such shares that:
+                    <a name="pre-owned-share"></a>**_pre-owned shares_** means shares that were issued or allotted to a person other than the PDF, but does not include any such shares that:
 
                      (a)  were issued:
 
-                              (i)  to an underwriter or sub‑underwriter of the share issue; or
+                              (i)  to an underwriter or sub-underwriter of the share issue; or
 
                              (ii)  to a person for the purpose of being offered for sale; and
 
-                     (b)  were still held by the underwriter, sub‑underwriter or person immediately before being acquired by the PDF.
+                     (b)  were still held by the underwriter, sub-underwriter or person immediately before being acquired by the PDF.
 
-##### <a id="20A"></a>20A  Second kind of allowed investment: acquiring non‑transferable options
+##### <a id="20A"></a>20A  Second kind of allowed investment: acquiring non-transferable options
 
              (1)  A PDF may make an investment by acquiring an option to subscribe for or buy shares in a company (in this Division also called the **_investee company_**).
 
@@ -716,7 +674,7 @@ Note:          However, section 27 provides that, unless the
 
                     (aa)  if the investment is covered by section 20 (shares)—the shares concerned are being, or were, issued or allotted for the sole or principal purpose of raising money; or
 
-                   (ab)  if the investment is covered by section 20A (options)—the money paid as consideration for the option concerned is being raised solely or principally; or
+                    (ab)  if the investment is covered by section 20A (options)—the money paid as consideration for the option concerned is being raised solely or principally; or
 
                     (ac)  if the investment is covered by section 20B (loans)—the loan money concerned is being borrowed solely or principally;
 
@@ -750,7 +708,7 @@ for use in doing one or more of the following:
 
                      (b)  each person (whether or not an officer of the PDF) who is at that time responsible for so ensuring believes at that time, on reasonable grounds, as mentioned in subsection (1).
 
-             (4)  This section does not apply to an investment (including the acquisition of an option) that relates to pre‑owned shares within the meaning of section 20.
+             (4)  This section does not apply to an investment (including the acquisition of an option) that relates to pre-owned shares within the meaning of section 20.
 
 ##### <a id="22"></a>22  Investee company must not be a PDF
 
@@ -776,7 +734,7 @@ for use in doing one or more of the following:
 
              (3)  The Board may give an approval for the purposes of subsection (2) only if it is satisfied that it is desirable that the investment be made (in spite of the value of the investee company’s assets) in order to protect the PDF’s existing investment in the investee company.
 
-             (4)  Subject to subsections (5) and (6), for the purposes of this section, the total value of the investee company’s assets is the total value of its assets (both current and non‑current) as shown in the last audited accounts prepared in relation to the company for the purposes of Division 4 of Part 3.6 of the _Corporations Act 2001_ before the investment is made.
+             (4)  Subject to subsections (5) and (6), for the purposes of this section, the total value of the investee company’s assets is the total value of its assets (both current and non-current) as shown in the last audited accounts prepared in relation to the company for the purposes of Division 4 of Part 3.6 of the _Corporations Act 2001_ before the investment is made.
 
              (5)  If:
 
@@ -820,9 +778,9 @@ then:
 
                      (b)  all amounts remaining unpaid on those shares; and 
 
-                   (ba)  all amounts the PDF has paid to acquire options in the investee company that the PDF has not yet exercised; and
+                    (ba)  all amounts the PDF has paid to acquire options in the investee company that the PDF has not yet exercised; and
 
-                   (bb)  all amounts the PDF has lent to the investee company that remain outstanding;
+                    (bb)  all amounts the PDF has lent to the investee company that remain outstanding;
 
 does not exceed 30% of the total of:
 
@@ -830,11 +788,11 @@ does not exceed 30% of the total of:
 
                      (d)  all amounts remaining unpaid on the issued shares in the PDF.
 
-             (2)  The Board must not give an approval under subsection (1) if the Board is satisfied that the investment is connected with a scheme or proposed scheme to which Part IVA of the _Income Tax Assessment Act 1936_ applies or would apply, as the case requires.
+             (2)  The Board must not give an approval under subsection (1) if the Board is satisfied that the investment is connected with a scheme or proposed scheme to which Part IVA of the _Income Tax Assessment Act 1936_ applies or would apply, as the case requires.
 
-             (3)  An expression used in subsection (2) of this section and in Part IVA of the _Income Tax Assessment Act 1936_ has the same meaning in that subsection as it has in that Part.
+             (3)  An expression used in subsection (2) of this section and in Part IVA of the _Income Tax Assessment Act 1936_ has the same meaning in that subsection as it has in that Part.
 
-##### <a id="27"></a>27  Amount invested in investee company to be at least 10% of its paid‑up capital
+##### <a id="27"></a>27  Amount invested in investee company to be at least 10% of its paid-up capital
 
                    Unless the Board otherwise approves, the investment must be such that, immediately after it is made, the total of all amounts paid on the shares in the investee company held by the PDF is at least 10% of the total of all amounts paid on the issued shares in the investee company.
 
@@ -856,7 +814,7 @@ does not exceed 30% of the total of:
 
              (2)  If an approval for the purposes of an approval provision is given as mentioned in paragraph (1)(b), the investment must not be made unless the condition or conditions are complied with.
 
-          (2A)  An approval for the purposes of subsection 25(1) must be given subject to a condition that, at the end of a specified period, the total of:
+          (2A)  An approval for the purposes of subsection 25(1) must be given subject to a condition that, at the end of a specified period, the total of:
 
                      (a)  all amounts paid on the shares in the investee company held by the PDF; and
 
@@ -870,7 +828,7 @@ must not exceed 30% of the total of:
 
           (2B)  A PDF contravenes this subsection if:
 
-                     (a)  an approval is given for the purposes of subsection 25(1); and
+                     (a)  an approval is given for the purposes of subsection 25(1); and
 
                      (b)  the PDF makes the investment; and
 
@@ -882,15 +840,15 @@ must not exceed 30% of the total of:
 
                     <a name="approv-provision"></a>**_approval provision_** means:
 
-                     (a)  paragraph 20(1)(b); or
+                     (a)  paragraph 20(1)(b); or
 
-                     (b)  subsection 20(2); or
+                     (b)  subsection 20(2); or
 
-                     (c)  subsection 23(1); or
+                     (c)  subsection 23(1); or
 
-                     (d)  subsection 24(2); or
+                     (d)  subsection 24(2); or
 
-                   (da)  subsection 25(1); or
+                    (da)  subsection 25(1); or
 
                      (e)  section 27.
 
@@ -926,7 +884,7 @@ must not exceed 30% of the total of:
 
                      (a)  providing management assistance to a company in which the PDF holds a PDF investment; or
 
-                     (b)  complying with a direction under subsection 33(2), 34(1) or 35(1); or
+                     (b)  complying with a direction under subsection 33(2), 34(1) or 35(1); or
 
                      (c)  making, holding, or disposing of, an unregulated investment.
 
@@ -946,11 +904,11 @@ must not exceed 30% of the total of:
 
              (2)  An expression has in subsection (1) the same meaning as in the _Corporations Act 2001_.
 
-             (3)  Nothing in subsection (1) prohibits a PDF from making a permitted short‑term borrowing.
+             (3)  Nothing in subsection (1) prohibits a PDF from making a permitted short-term borrowing.
 
 ##### <a id="31"></a>31  Limit on shareholding in a PDF
 
-             (1)  Unless the Board otherwise approves, a person (not being an ADI, a life office or a widely‑held complying superannuation fund), together with associates (not being ADIs, life offices or widely‑held complying superannuation funds) of the person, must not hold more than 30% of the issued shares in a PDF.
+             (1)  Unless the Board otherwise approves, a person (not being an ADI, a life office or a widely-held complying superannuation fund), together with associates (not being ADIs, life offices or widely-held complying superannuation funds) of the person, must not hold more than 30% of the issued shares in a PDF.
 
              (2)  In this section:
 
@@ -958,13 +916,13 @@ must not exceed 30% of the total of:
 
                      (a)  a parent or remoter lineal ancestor, a child or remoter issue, or a brother or sister, of the person; or
 
-                     (b)  the spouse or a de facto partner of the person; or
+                     (b)  the spouse or a de facto partner of the person; or
 
                      (c)  if the person is a company:
 
                               (i)  an officer of the company; or
 
-                             (ii)  an officer of a company that is related to the first‑mentioned company; or
+                             (ii)  an officer of a company that is related to the first-mentioned company; or
 
                             (iii)  a person who holds a substantial ownership interest in the company; or
 
@@ -974,13 +932,13 @@ must not exceed 30% of the total of:
 
                     <a name="child"></a><a name="child"></a>**_child_**: without limiting who is a child of a person for the purposes of this section, someone is the **_child_** of a person if he or she is a child of the person within the meaning of the _Family Law Act 1975_.
 
-                    <a name="de-facto-partner"></a>**_de facto partner_** has the meaning given by the _Acts Interpretation Act 1901_.
+                    <a name="de-facto-partner"></a>**_de facto partner_** has the meaning given by the _Acts Interpretation Act 1901_.
 
                     <a name="child"></a><a name="parent"></a><a name="parent"></a>**_parent_**: without limiting who is a parent of a person for the purposes of this Act, someone is the **_parent_** of a person if the person is his or her child because of the definition of **_child_** in this section.
 
           (2A)  However, in determining whether a person is an **_associate_** of another person, disregard any connection those persons have with or through a PDF.
 
-Example:    This means that, despite paragraph (1)(d), the fact that 2 persons are both officers of the same PDF does not make the officers **_associates_** of one another (although they would still be associates if they were both officers of the same non‑PDF company).
+Example:    This means that, despite paragraph (1)(d), the fact that 2 persons are both officers of the same PDF does not make the officers **_associates_** of one another (although they would still be associates if they were both officers of the same non-PDF company).
 
        (2AA)  For the purposes of paragraph (a) of the definition of **_associate_** in subsection (2), if one person is the child of another person because of adoption or because of the definition of **_child_** in this section, relationships traced to or through the person are to be determined on the basis that the person is the child of the other person.
 
@@ -1038,9 +996,9 @@ Example:    This means that, despite paragraph (1)(d), the fact that 2 p
 
                      (a)  the amount, or the total of the amounts, that may be taken into account in determining whether a PDF has complied with subsection (2) in relation to a particular payment day of the PDF exceeds the required amount in relation to that payment day of the PDF; and
 
-                     (b)  the first‑mentioned amount is, or amounts forming part of the first‑mentioned total are, invested during the investment period after another payment day of the PDF;
+                     (b)  the first-mentioned amount is, or amounts forming part of the first-mentioned total are, invested during the investment period after another payment day of the PDF;
 
-then, in determining whether the PDF has complied with subsection (2) in relation to the other day, so much of the first‑mentioned amount, or of the total of the amounts referred to in paragraph (b), as the case may be, as does not exceed the excess referred to in paragraph (a) is taken not to have been taken into account in determining whether the PDF complied with subsection (2) in relation to the day referred to in paragraph (a).
+then, in determining whether the PDF has complied with subsection (2) in relation to the other day, so much of the first-mentioned amount, or of the total of the amounts referred to in paragraph (b), as the case may be, as does not exceed the excess referred to in paragraph (a) is taken not to have been taken into account in determining whether the PDF complied with subsection (2) in relation to the day referred to in paragraph (a).
 
 ##### <a id="32A"></a>32A  PDFs may merge
 
@@ -1120,11 +1078,11 @@ the Board may, by notice in writing to the PDF, direct the PDF to take such acti
 
                      (a)  section 19; or
 
-                     (b)  subsection 29(1); or
+                     (b)  subsection 29(1); or
 
-                     (c)  subsection 29(2); or
+                     (c)  subsection 29(2); or
 
-                     (d)  subsection 30(1); or
+                     (d)  subsection 30(1); or
 
                      (e)  section 32.
 
@@ -1144,7 +1102,7 @@ the Board may, by notice in writing to the PDF, direct the PDF to take such acti
 
              (3)  In this section:
 
-                    <a name="direct-notic"></a>**_direction notice_** means a notice under subsection 33(2), 34(1), 35(1) or 36(1) giving a person a direction.
+                    <a name="direct-notic"></a>**_direction notice_** means a notice under subsection 33(2), 34(1), 35(1) or 36(1) giving a person a direction.
 
 ### Division 4—Consequences of contravention of this Part
 
@@ -1168,7 +1126,7 @@ the Board may, by notice in writing to the PDF, direct the PDF to take such acti
 
                      (b)  otherwise—the day on which the PDF became a PDF.
 
-             (2)  In considering whether the PDF has been so complying, the Board must have regard to the information included in the first‑mentioned return and to any other relevant information that is available to the Board.
+             (2)  In considering whether the PDF has been so complying, the Board must have regard to the information included in the first-mentioned return and to any other relevant information that is available to the Board.
 
 ##### <a id="41"></a>41  Annual return by PDF
 
@@ -1184,9 +1142,9 @@ the Board may, by notice in writing to the PDF, direct the PDF to take such acti
 
                             (iii)  the name, address, occupation, qualifications and experience of each natural person who is supplying such services to the PDF:
 
-                                        (A)  if the first‑mentioned person is a natural person—as an employee of the first‑mentioned person; or
+                                        (A)  if the first-mentioned person is a natural person—as an employee of the first-mentioned person; or
 
-                                        (B)  if the first‑mentioned person is a body corporate—as an officer of the body; or
+                                        (B)  if the first-mentioned person is a body corporate—as an officer of the body; or
 
                                         (C)  in the case of a partnership—as a member or employee of the partnership or as an officer of a body corporate that is such a member;
 
@@ -1194,19 +1152,19 @@ the Board may, by notice in writing to the PDF, direct the PDF to take such acti
 
                      (d)  full particulars of the making and disposal of investments (other than unregulated investments) by the PDF during the financial year;
 
-                   (da)  for each of the PDF’s investee companies (within the meaning of Division 1 of Part 4), the proportion of the investee company’s issued share capital held by the PDF at the end of the financial year;
+                    (da)  for each of the PDF’s investee companies (within the meaning of Division 1 of Part 4), the proportion of the investee company’s issued share capital held by the PDF at the end of the financial year;
 
-                   (db)  the amounts of all profits, gains or losses the PDF made during the financial year from each such investee company;
+                    (db)  the amounts of all profits, gains or losses the PDF made during the financial year from each such investee company;
 
-                   (dc)  the amounts of all unregulated investments held by the PDF at the end of the financial year;
+                    (dc)  the amounts of all unregulated investments held by the PDF at the end of the financial year;
 
-                   (dd)  the amounts of all profits, gains or losses the PDF made during the financial year from unregulated investments;
+                    (dd)  the amounts of all profits, gains or losses the PDF made during the financial year from unregulated investments;
 
                      (e)  the PDF’s approved investment plan;
 
                       (f)  full particulars of the capital raised by the PDF during the financial year;
 
-                     (g)  the PDF’s issued share capital and paid‑up share capital;
+                     (g)  the PDF’s issued share capital and paid-up share capital;
 
                      (h)  the address of the registered office of the PDF;
 
@@ -1216,7 +1174,7 @@ the Board may, by notice in writing to the PDF, direct the PDF to take such acti
 
                              (ii)  if there are more than 10 shareholders in the PDF—each of the 10 of those shareholders who hold the greatest number of shares in the PDF;
 
-                    (ia)  full particulars of the dividends the PDF paid to the shareholders in the PDF during the financial year;
+                     (ia)  full particulars of the dividends the PDF paid to the shareholders in the PDF during the financial year;
 
                       (j)  any other information that a determination in force under subsection (3) requires the return to include.
 
@@ -1258,7 +1216,7 @@ the Board may, by notice in writing to the PDF, direct the PDF to take such acti
 
                       (i)  a natural person ceasing to supply such services as so mentioned;
 
-                      (j)  a change in the PDF’s issued or paid‑up share capital;
+                      (j)  a change in the PDF’s issued or paid-up share capital;
 
                      (k)  a change in the address of the PDF’s registered office;
 
@@ -1325,7 +1283,7 @@ the Board may, by notice in writing to the PDF, direct the PDF to take such acti
 
                      (b)  the Board is no longer satisfied that the PDF’s constitution satisfies the PDF constitution requirements; or
 
-                     (c)  the Board is satisfied that a provision of the PDF’s constitution that prohibits as mentioned in subsection 4(3) has been contravened; or
+                     (c)  the Board is satisfied that a provision of the PDF’s constitution that prohibits as mentioned in subsection 4(3) has been contravened; or
 
                      (d)  the Board is satisfied that a condition of the PDF’s registration has been contravened by, or in relation to, the PDF.
 
@@ -1353,15 +1311,230 @@ the Board may, by notice in writing to the PDF, direct the PDF to take such acti
 
 ## Part 7—Offences relating to PDFs
 
-##### <a id="51"></a>51  Offences—failure to comply with directions or requirements
+##### <a id="50"></a>50  Criminal consequences of contravening certain provisions
 
-             (1)  A person who contravenes subsection 36(3) is guilty of an offence punishable, on conviction, by a fine not exceeding $5,000.
+             (1)  If a PDF contravenes a provision specified in the table:
 
-             (2)  A person who contravenes subsection 43(4) is guilty of an offence punishable, on conviction, by a fine not exceeding $5,000.
+                     (a)  the PDF is not guilty of an offence; but
+
+                     (b)  each officer or investment manager of the PDF who is involved in the contravention is guilty of an offence punishable, on conviction, by a penalty not exceeding the one set out in the table in relation to that provision. 
+
+<table>
+<colgroup>
+  <col width="16%">
+  <col width="53%">
+  <col width="30%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="3">
+      <div>
+        <b>Penalties for contraventions of this Act</b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>Item</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>Provision</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>Penalty</b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>1</div>
+  </td>
+  <td>
+    <div>Section 19 (investments not made in accordance with Division 1 of Part 4
+      other than section 27A)</div>
+  </td>
+  <td>
+    <div>500 penalty units</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>2</div>
+  </td>
+  <td>
+    <div>Section 27A</div>
+  </td>
+  <td>
+    <div>50 penalty units</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>3</div>
+  </td>
+  <td>
+    <div>Subsection 28(2B)</div>
+  </td>
+  <td>
+    <div>500 penalty units</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>4</div>
+  </td>
+  <td>
+    <div>Subsection 29(1)</div>
+  </td>
+  <td>
+    <div>500 penalty units</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>5</div>
+  </td>
+  <td>
+    <div>Subsection 29(2)</div>
+  </td>
+  <td>
+    <div>500 penalty units</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>6</div>
+  </td>
+  <td>
+    <div>Subsection 30(1)</div>
+  </td>
+  <td>
+    <div>200 penalty units</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>7</div>
+  </td>
+  <td>
+    <div>Subsection 32(2)</div>
+  </td>
+  <td>
+    <div>100 penalty units</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>8</div>
+  </td>
+  <td>
+    <div>Subsection 33(4)</div>
+  </td>
+  <td>
+    <div>100 penalty units</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>9</div>
+  </td>
+  <td>
+    <div>Subsection 34(3)</div>
+  </td>
+  <td>
+    <div>50 penalty units</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>10</div>
+  </td>
+  <td>
+    <div>Subsection 35(3)</div>
+  </td>
+  <td>
+    <div>50 penalty units</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>11</div>
+  </td>
+  <td>
+    <div>Subsection 41(1)</div>
+  </td>
+  <td>
+    <div>50 penalty units</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>12</div>
+  </td>
+  <td>
+    <div>Subsection 42(1)</div>
+  </td>
+  <td>
+    <div>50 penalty units</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>13</div>
+  </td>
+  <td>
+    <div>Subsection 43(4)</div>
+  </td>
+  <td>
+    <div>50 penalty units</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>14</div>
+  </td>
+  <td>
+    <div>Subsection 46(2)</div>
+  </td>
+  <td>
+    <div>100 penalty units</div>
+  </td>
+</tr></table>
+
+             (2)  If a company that is an eligible corporation contravenes section 49:
+
+                     (a)  the company is not guilty of an offence; but
+
+                     (b)  each officer of the company who is involved in the contravention is guilty of an offence punishable, on conviction, by a fine not exceeding $10,000.
+
+             (3)  For the purposes of subsections (1) and (2), a person is involved in a contravention if, and only if, the person:
+
+                     (a)  has aided, abetted, counselled or procured the contravention; or
+
+                     (b)  has induced, whether by threats or promises or otherwise, the contravention; or
+
+                     (c)  has been in any way, by act or omission, directly or indirectly, knowingly concerned in, or party to, the contravention; or
+
+                     (d)  has conspired with others to effect the contravention.
+
+             (4)  The effect that a provision has for the purposes of this section is additional to, and does not prejudice, the effect that the provision otherwise has (for example, for the purposes of section 47).
+
+##### <a id="51"></a>51  Other offences
+
+             (1)  A person who contravenes subsection 36(3) is guilty of an offence punishable, on conviction, by a fine not exceeding $5,000.
+
+             (2)  A person, not being a PDF, who contravenes subsection 43(4) is guilty of an offence punishable, on conviction, by a fine not exceeding $5,000.
 
              (3)  Subsection (1) or (2) does not apply if the person has a reasonable excuse.
 
-Note:          A defendant bears an evidential burden in relation to the matter in subsection (3), see subsection 13.3(3) of the _Criminal Code_.
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (3), see subsection 13.3(3) of the _Criminal Code_.
 
 ## Part 7A—Investments by venture capital entities
 
@@ -1385,11 +1558,11 @@ Note:          A defendant bears an evidential burden in relat
 
                       (f)  the amount of the investment and the date on which it was or is to be made;
 
-                     (g)  the total value of the assets of the resident investment vehicle (worked out as mentioned in subsection 118‑510(3) of the _Income Tax Assessment Act 1997_) before the investment;
+                     (g)  the total value of the assets of the resident investment vehicle (worked out as mentioned in subsection 118-510(3) of the _Income Tax Assessment Act 1997_) before the investment;
 
                      (h)  details of other investments that do not constitute venture capital equity the entity holds in the resident investment vehicle;
 
-                      (i)  if the entity is the general partner or managing partner of a limited partnership referred to in subparagraph 118‑515(2)(b)(ii) of the _Income Tax Assessment Act 1997_—details of the partner’s interests in the assets of the partnership.
+                      (i)  if the entity is the general partner or managing partner of a limited partnership referred to in subparagraph 118-515(2)(b)(ii) of the _Income Tax Assessment Act 1997_—details of the partner’s interests in the assets of the partnership.
 
              (4)  The Board must decide to register the entity under this Part if the Board is satisfied that the information has been provided.
 
@@ -1425,7 +1598,7 @@ Note:          A defendant bears an evidential burden in relat
 
                      (e)  the industries in which those vehicles operate;
 
-                      (f)  if the entity is the general partner or managing partner of a limited partnership referred to in subparagraph 118‑515(2)(b)(ii) of the _Income Tax Assessment Act 1997_—details of the partner’s interests in the assets of the partnership.
+                      (f)  if the entity is the general partner or managing partner of a limited partnership referred to in subparagraph 118-515(2)(b)(ii) of the _Income Tax Assessment Act 1997_—details of the partner’s interests in the assets of the partnership.
 
              (2)  Information about a matter that a return must include because of paragraph (1)(a) or (b) is information about that matter as at the time when the return is given to the Board.
 
@@ -1445,7 +1618,7 @@ Note:          A defendant bears an evidential burden in relat
 
 ##### <a id="53"></a>53  Notification of certain decisions
 
-             (1)  This section applies to a reviewable decision of a kind referred to in paragraph (c), (d), (e) or (f) of the definition of **_reviewable decision_** in subsection 4(1).
+             (1)  This section applies to a reviewable decision of a kind referred to in paragraph (c), (d), (e) or (f) of the definition of **_reviewable decision_** in subsection 4(1).
 
              (2)  As soon as practicable after making the decision, the Board must give the person affected by the decision a written notice advising the person of the decision and of the Board’s reasons for making it.
 
@@ -1455,7 +1628,7 @@ Note:          A defendant bears an evidential burden in relat
 
              (1)  A notice that is given to the person affected by a reviewable decision and advises that person of the decision must include a statement to the effect that the person may, under section 55, request the Board to reconsider the decision.
 
-             (2)  For the purposes of subsection (1), a notice under subsection 33(2), 34(1), 35(1) or 36(1) giving a person a direction is taken to be a notice advising the person of the decision to give the direction.
+             (2)  For the purposes of subsection (1), a notice under subsection 33(2), 34(1), 35(1) or 36(1) giving a person a direction is taken to be a notice advising the person of the decision to give the direction.
 
              (3)  A failure to comply with subsection (1) in relation to a reviewable decision does not affect the validity of the decision.
 
@@ -1465,7 +1638,7 @@ Note:          A defendant bears an evidential burden in relat
 
              (2)  The request must not be made more than 21 days, or such longer period as the Board approves, after the person receives from the Board a notice advising of the decision.
 
-             (3)  For the purposes of subsection (2), if the decision is to give a direction under subsection 33(2), 34(1), 35(1) or 36(1), the notice by which the direction is given is taken to be a notice advising of the decision.
+             (3)  For the purposes of subsection (2), if the decision is to give a direction under subsection 33(2), 34(1), 35(1) or 36(1), the notice by which the direction is given is taken to be a notice advising of the decision.
 
              (4)  The request must set out the person’s reasons for making it.
 
@@ -1483,7 +1656,7 @@ Note:          A defendant bears an evidential burden in relat
 
              (8)  A failure to comply with subsection (7) in relation to the confirmation, variation or revocation of the decision does not affect the validity of the confirmation, variation or revocation.
 
-             (9)  For the purposes of subsections (5), (6), (7) and (8) and section 56, if the Board revokes a decision and replaces it with another decision, the Board is taken to vary the first‑mentioned decision and not to revoke it, and the other decision is taken to be the first‑mentioned decision as varied.
+             (9)  For the purposes of subsections (5), (6), (7) and (8) and section 56, if the Board revokes a decision and replaces it with another decision, the Board is taken to vary the first-mentioned decision and not to revoke it, and the other decision is taken to be the first-mentioned decision as varied.
 
 ##### <a id="56"></a>56  Review of decisions by Administrative Appeals Tribunal
 
@@ -1587,841 +1760,517 @@ except when it is necessary to do so for the purpose of carrying into effect the
 
 ##### <a id="76"></a>76  Regulations
 
-                   The Governor‑General may make regulations prescribing matters:
+                   The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
-Endnotes
+# Notes to the _Pooled Development Funds Act 1992_
 
-Endnote 1—Legislation history
+### Note 1
 
-This endnote sets out details of the legislation history of the _Pooled Development Funds Act 1992._
+The _Pooled Development Funds Act 1992_ as shown in this compilation comprises Act No. 100, 1992 amended as indicated in the Tables below.
+
+For application, saving or transitional provisions made by the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, _see_ Act No. 55, 2001.
+
+All relevant information pertaining to application, saving or transitional provisions prior to 10 December 1999 is not included in this compilation. For subsequent information _see_ Table A.
+
+### Table of Acts
 
 <table>
 <colgroup>
-  <col width="26%">
-  <col width="14%">
-  <col width="14%">
-  <col width="26%">
-  <col width="20%">
+  <col width="31%">
+  <col width="16%">
+  <col width="17%">
+  <col width="21%">
+  <col width="15%">
 </colgroup>
 
 <thead>
   <tr>
     <td>
-      <div>
-        <b>
-          Act
-        </b>
-      </div>
+      <div>Act</div>
     </td>
     <td>
-      <div>
-        <b>
-          Number and year
-        </b>
-      </div>
+      <div>Number 
+and year</div>
     </td>
     <td>
-      <div>
-        <b>
-          Assent date
-        </b>
-      </div>
+      <div>Date 
+of Assent</div>
     </td>
     <td>
-      <div>
-        <b>
-          Commencement date
-        </b>
-      </div>
+      <div>Date of commencement</div>
     </td>
     <td>
-      <div>
-        <b>
-          Application, saving and transitional provisions
-        </b>
-      </div>
+      <div>Application, saving or transitional provisions</div>
     </td>
   </tr>
 </thead>
 <tr>
   <td>
-    <div>
-      Pooled Development Funds Act 1992
-    </div>
+    <div>Pooled Development Funds Act 1992</div>
   </td>
   <td>
-    <div>
-      100, 1992
-    </div>
+    <div>100, 1992</div>
   </td>
   <td>
-    <div>
-      30 June 1992
-    </div>
+    <div>30 June 1992</div>
   </td>
   <td>
-    <div>
-      30 June 1992
-    </div>
+    <div>30 June 1992</div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Pooled Development Funds Amendment Act 1994
-    </div>
+    <div>Pooled Development Funds Amendment Act 1994</div>
   </td>
   <td>
-    <div>
-      102, 1994
-    </div>
+    <div>102, 1994</div>
   </td>
   <td>
-    <div>
-      30 June 1994
-    </div>
+    <div>30 June 1994</div>
   </td>
   <td>
-    <div>
-      1 July 1994
-    </div>
+    <div>1 July 1994</div>
   </td>
   <td>
-    <div>
-      ss. 3, 5, 11, 14, 15 and 17
-    </div>
+    <div>Ss. 3, 5, 11, 14, 15 and 17</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Industry, Science and Technology Legislation Amendment Act 1994
-    </div>
+    <div>Industry, Science and Technology Legislation Amendment Act 1994</div>
   </td>
   <td>
-    <div>
-      108, 1994
-    </div>
+    <div>108, 1994</div>
   </td>
   <td>
-    <div>
-      12 July 1994
-    </div>
+    <div>12 July 1994</div>
   </td>
   <td>
-    <div>
-      Part 4 (ss. 20–22): Royal Assent
-        <i>(a)</i>
-
-    </div>
+    <div>Part 4 (ss. 20–22): Royal Assent <i>(a)</i></div>
   </td>
   <td>
-    <div>
-      s. 20
-    </div>
+    <div>S. 20</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Life Insurance (Consequential Amendments and Repeals) Act 1995
-    </div>
+    <div>Life Insurance (Consequential Amendments and Repeals) Act 1995</div>
   </td>
   <td>
-    <div>
-      5, 1995
-    </div>
+    <div>5, 1995</div>
   </td>
   <td>
-    <div>
-      23 Feb 1995
-    </div>
+    <div>23 Feb 1995</div>
   </td>
   <td>
-    <div>
-      1 July 1995 (
-        <i>see</i>s. 2 and
-        <i>Gazette</i>1995, No. GN24)
-    </div>
+    <div>1 July 1995 ( <i>see</i>s. 2 and <i>Gazette</i>1995, No. GN24)</div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Income Tax (Consequential Amendments) Act 1997
-    </div>
+    <div>Income Tax (Consequential Amendments) Act 1997</div>
   </td>
   <td>
-    <div>
-      39, 1997
-    </div>
+    <div>39, 1997</div>
   </td>
   <td>
-    <div>
-      17 Apr 1997
-    </div>
+    <div>17 Apr 1997</div>
   </td>
   <td>
-    <div>
-      1 July 1997
-    </div>
+    <div>1 July 1997</div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Financial Sector Reform (Consequential Amendments) Act 1998
-    </div>
+    <div>Financial Sector Reform (Consequential Amendments) Act 1998</div>
   </td>
   <td>
-    <div>
-      48, 1998
-    </div>
+    <div>48, 1998</div>
   </td>
   <td>
-    <div>
-      29 June 1998
-    </div>
+    <div>29 June 1998</div>
   </td>
   <td>
-    <div>
-      Schedule 1 (items 128–130): 1 July 1998 (
-        <i>see</i>
-        <i>Gazette</i>1998, No. S316)
-        <i>(b)</i>
-
-    </div>
+    <div>Schedule 1 (items 128–130): 1 July 1998 ( <i>see Gazette</i>1998, No. S316) <i>(b)</i></div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Company Law Review Act 1998
-    </div>
+    <div>Company Law Review Act 1998</div>
   </td>
   <td>
-    <div>
-      61, 1998
-    </div>
+    <div>61, 1998</div>
   </td>
   <td>
-    <div>
-      29 June 1998
-    </div>
+    <div>29 June 1998</div>
   </td>
   <td>
-    <div>
-      Schedule 4 (items 26–38): 1 July 1998 (
-        <i>see Gazette</i>1998, No. S317)
-        <i>(c)</i>
-
-    </div>
-    <div>
-      Schedule 5 (items 37, 38):
-        <i>(c)</i>
-
-    </div>
+    <div>Schedule 4 (items 26–38): 1 July 1998 ( <i>see Gazette</i>1998, No. S317) <i>(c) 
+ </i>Schedule 5 (items 37, 38): <i>(c)</i></div>
   </td>
   <td>
-    <div>
-      s. 2(5) (am. by 63, 1998, Sch. 7)
-    </div>
+    <div>S. 2(5) (am. by 63, 1998, Sch. 7)</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        as amended by
-      </b>
-    </div>
+    <div>as amended by</div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Taxation Laws Amendment (Company Law Review) Act 1998
-    </div>
+    <div>Taxation Laws Amendment (Company Law Review) Act 1998</div>
   </td>
   <td>
-    <div>
-      63, 1998
-    </div>
+    <div>63, 1998</div>
   </td>
   <td>
-    <div>
-      29 June 1998
-    </div>
+    <div>29 June 1998</div>
   </td>
   <td>
-    <div>
-      Schedule 7: (
-        <i>d</i>)
-    </div>
+    <div>Schedule 7: <i>(d)</i></div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Managed Investments Act 1998
-    </div>
+    <div>Managed Investments Act 1998</div>
   </td>
   <td>
-    <div>
-      62, 1998
-    </div>
+    <div>62, 1998</div>
   </td>
   <td>
-    <div>
-      29 June 1998
-    </div>
+    <div>29 June 1998</div>
   </td>
   <td>
-    <div>
-      <i>
-        (e)
-      </i>
-    </div>
+    <div><i>(e)</i></div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Public Employment (Consequential and Transitional) Amendment Act 1999
-    </div>
+    <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
   </td>
   <td>
-    <div>
-      146, 1999
-    </div>
+    <div>146, 1999</div>
   </td>
   <td>
-    <div>
-      11 Nov 1999
-    </div>
+    <div>11 Nov 1999</div>
   </td>
   <td>
-    <div>
-      Schedule 1 (item 734): 5 Dec 1999 (
-        <i>see Gazette</i>1999, No. S584) (
-        <i>f</i>)
-    </div>
+    <div>Schedule 1 (item 734): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(f)</i></div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      New Business Tax System (Capital Gains Tax) Act 1999
-    </div>
+    <div>New Business Tax System (Capital Gains Tax) Act 1999</div>
   </td>
   <td>
-    <div>
-      165, 1999
-    </div>
+    <div>165, 1999</div>
   </td>
   <td>
-    <div>
-      10 Dec 1999
-    </div>
+    <div>10 Dec 1999</div>
   </td>
   <td>
-    <div>
-      Schedule 3 (items 5–18): Royal Assent
-        <i>(g)</i>
-
-    </div>
+    <div>Schedule 3 (items 5–18): Royal Assent <i>(g)</i></div>
   </td>
   <td>
-    <div>
-      Sch. 3 (item 18) \[
-        <i>see</i>Endnote 3]
-    </div>
+    <div>Sch. 3 (item 18) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Pooled Development Funds Amendment Act 2000
-    </div>
+    <div>Pooled Development Funds Amendment Act 2000</div>
   </td>
   <td>
-    <div>
-      64, 2000
-    </div>
+    <div>64, 2000</div>
   </td>
   <td>
-    <div>
-      22 June 2000
-    </div>
+    <div>22 June 2000</div>
   </td>
   <td>
-    <div>
-      22 June 2000
-    </div>
+    <div>22 June 2000</div>
   </td>
   <td>
-    <div>
-      Sch. 1 (item 27) \[
-        <i>see</i>Endnote 3]
-    </div>
+    <div>Sch. 1 (item 27) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act
-        2000
-    </div>
+    <div>Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000</div>
   </td>
   <td>
-    <div>
-      137, 2000
-    </div>
+    <div>137, 2000</div>
   </td>
   <td>
-    <div>
-      24 Nov 2000
-    </div>
+    <div>24 Nov 2000</div>
   </td>
   <td>
-    <div>
-      ss. 1–3 and Schedule 1 (items 1, 4, 6, 7, 9–11, 32): Royal Assent
-    </div>
-    <div>
-      Remainder: 24 May 2001
-    </div>
+    <div>Ss. 1–3 and Schedule 1 (items 1, 4, 6, 7, 9–11, 32): Royal Assent 
+Remainder: 24 May 2001</div>
   </td>
   <td>
-    <div>
-      Sch. 2 (items 418, 419) \[
-        <i>see</i>Endnote 3]
-    </div>
+    <div>Sch. 2 (items 418, 419) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Corporations (Repeals, Consequentials and Transitionals) Act 2001
-    </div>
+    <div>Corporations (Repeals, Consequentials and Transitionals) Act 2001</div>
   </td>
   <td>
-    <div>
-      55, 2001
-    </div>
+    <div>55, 2001</div>
   </td>
   <td>
-    <div>
-      28 June 2001
-    </div>
+    <div>28 June 2001</div>
   </td>
   <td>
-    <div>
-      ss. 4–14 and Schedule 3 (items 425–431): 15 July 2001 (
-        <i>see</i>Gazette 2001, No. S285)
-        <i>(h)</i>
-
-    </div>
+    <div>Ss. 4–14 and Schedule 3 (items 425–431): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(h)</i></div>
   </td>
   <td>
-    <div>
-      ss. 4—14 \[
-        <i>see</i>Endnote 3]
-    </div>
+    <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Industry, Science and Resources Legislation Amendment (Application of
-        Criminal Code) Act 2001
-    </div>
+    <div>Industry, Science and Resources Legislation Amendment (Application of Criminal Code) Act 2001</div>
   </td>
   <td>
-    <div>
-      140, 2001
-    </div>
+    <div>140, 2001</div>
   </td>
   <td>
-    <div>
-      1 Oct 2001
-    </div>
+    <div>1 Oct 2001</div>
   </td>
   <td>
-    <div>
-      2 Oct 2001
-    </div>
+    <div>2 Oct 2001</div>
   </td>
   <td>
-    <div>
-      s. 4 \[
-        <i>see</i>Endnote 3]
-    </div>
+    <div>S. 4 \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Taxation Laws Amendment (Venture Capital) Act 2002
-    </div>
+    <div>Taxation Laws Amendment (Venture Capital) Act 2002</div>
   </td>
   <td>
-    <div>
-      136, 2002
-    </div>
+    <div>136, 2002</div>
   </td>
   <td>
-    <div>
-      19 Dec 2002
-    </div>
+    <div>19 Dec 2002</div>
   </td>
   <td>
-    <div>
-      Schedule 4 (items
-
-3–11): Royal Assent
-    </div>
+    <div>Sch. 4 (items 
+3–11): Royal Assent</div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Industry, Tourism and Resources Legislation Amendment Act 2003
-    </div>
+    <div>Industry, Tourism and Resources Legislation Amendment Act 2003</div>
   </td>
   <td>
-    <div>
-      21, 2003
-    </div>
+    <div>21, 2003</div>
   </td>
   <td>
-    <div>
-      11 Apr 2003
-    </div>
+    <div>11 Apr 2003</div>
   </td>
   <td>
-    <div>
-      Schedule 1 (items 15, 16): 12 Apr 2003
-    </div>
+    <div>Schedule 1 (items 15, 16): 12 Apr 2003</div>
   </td>
   <td>
-    <div>
-      Sch. 1 (item 16) \[
-        <i>see</i>Endnote 3]
-    </div>
+    <div>Sch. 1 (item 16) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Superannuation Legislation Amendment (Simplification) Act 2007
-    </div>
+    <div>Superannuation Legislation Amendment (Simplification) Act 2007</div>
   </td>
   <td>
-    <div>
-      15, 2007
-    </div>
+    <div>15, 2007</div>
   </td>
   <td>
-    <div>
-      15 Mar 2007
-    </div>
+    <div>15 Mar 2007</div>
   </td>
   <td>
-    <div>
-      Schedule 1 (items 274, 275, 406(1)–(3)):
-        <i>(i)</i>
-
-    </div>
+    <div>Schedule 1 (items 274, 275, 
+406(1)–(3)): <i>(i)</i></div>
   </td>
   <td>
-    <div>
-      Sch. 1 (item 406(1)–(3)) \[
-        <i>see</i>Endnote 3]
-    </div>
+    <div>Sch. 1 (item 406(1)–(3)) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Tax Laws Amendment (2007 Measures No. 2) Act 2007
-    </div>
+    <div>Tax Laws Amendment (2007 Measures No. 2) Act 2007</div>
   </td>
   <td>
-    <div>
-      78, 2007
-    </div>
+    <div>78, 2007</div>
   </td>
   <td>
-    <div>
-      21 June 2007
-    </div>
+    <div>21 June 2007</div>
   </td>
   <td>
-    <div>
-      Schedule 8 (items 157–165, 215–217, 348, 349): Royal Assent
-    </div>
+    <div>Schedule 8 (items 157–165, 
+215–217, 348, 349): Royal Assent</div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Tax Laws Amendment (2007 Measures No. 5) Act 2007
-    </div>
+    <div>Tax Laws Amendment (2007 Measures No. 5) Act 2007</div>
   </td>
   <td>
-    <div>
-      164, 2007
-    </div>
+    <div>164, 2007</div>
   </td>
   <td>
-    <div>
-      25 Sept 2007
-    </div>
+    <div>25 Sept 2007</div>
   </td>
   <td>
-    <div>
-      Schedule 12 (items 53–65, 279–287): 27 Sept 2007 (
-        <i>see</i>F2007L03842)
-    </div>
+    <div>Schedule 12 (items 53–65, 279–287): 27 Sept 2007 ( <i>see</i>F2007L03842)</div>
   </td>
   <td>
-    <div>
-      Sch. 12 (items
-
-279–287) \[
-        <i>see</i>Endnote 3]
-    </div>
+    <div>Sch. 12 (items 
+279–287) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Same‑Sex Relationships (Equal Treatment in Commonwealth Laws—General Law
-        Reform) Act 2008
-    </div>
+    <div>Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008</div>
   </td>
   <td>
-    <div>
-      144, 2008
-    </div>
+    <div>144, 2008</div>
   </td>
   <td>
-    <div>
-      9 Dec 2008
-    </div>
+    <div>9 Dec 2008</div>
   </td>
   <td>
-    <div>
-      Schedule 12 (items 1–8): 10 Dec 2008
-    </div>
+    <div>Schedule 12 (items 1–8): 10 Dec 2008</div>
   </td>
   <td>
-    <div>
-      Sch. 12 (item 8) \[
-        <i>see</i>Endnote 3]
-    </div>
+    <div>Sch. 12 (item 8) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Financial Sector Legislation Amendment (Enhancing Supervision and Enforcement)
-        Act 2009
-    </div>
+    <div>Financial Sector Legislation Amendment (Enhancing Supervision and Enforcement) Act 2009</div>
   </td>
   <td>
-    <div>
-      75, 2009
-    </div>
+    <div>75, 2009</div>
   </td>
   <td>
-    <div>
-      27 Aug 2009
-    </div>
+    <div>27 Aug 2009</div>
   </td>
   <td>
-    <div>
-      Schedule 1 (item 218): 27 Feb 2010
-    </div>
+    <div>Schedule 1 (item 218): 27 Feb 2010</div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Tax Laws Amendment (Confidentiality of Taxpayer Information) Act 2010
-    </div>
+    <div>Tax Laws Amendment (Confidentiality of Taxpayer Information) Act 2010</div>
   </td>
   <td>
-    <div>
-      145, 2010
-    </div>
+    <div>145, 2010</div>
   </td>
   <td>
-    <div>
-      16 Dec 2010
-    </div>
+    <div>16 Dec 2010</div>
   </td>
   <td>
-    <div>
-      Schedule 2 (item 61): 17 Dec 2010
-    </div>
+    <div>Schedule 2 (item 61): 17 Dec 2010</div>
   </td>
   <td>
-    <div>
-      —
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Personal Liability for Corporate Fault Reform Act 2012
-    </div>
-  </td>
-  <td>
-    <div>
-      180, 2012
-    </div>
-  </td>
-  <td>
-    <div>
-      10 Dec 2012
-    </div>
-  </td>
-  <td>
-    <div>
-      Schedule 6 (items 24–26): 11 Dec 2012
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr></table>
 
-_(a)_             The _Pooled Development Funds Act 1992_ was amended by Part 4 (sections 20–22) only of the _Industry, Science and Technology Legislation Amendment Act 1994_, subsection 2(1) of which provides as follows:
+_(a)_     The _Pooled Development Funds Act 1992_ was amended by Part 4 (sections 20–22) only of the _Industry, Science and Technology Legislation Amendment Act 1994_, subsection 2(1) of which provides as follows:
 
-                   (1)  Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-_(b)_             The _Pooled Development Funds Act 1992_ was amended by Schedule 1 (items 128–130) only of the _Financial Sector Reform (Consequential Amendments) Act 1998_, subsection 2(2) of which provides as follows:
+_(b)_    The _Pooled Development Funds Act 1992_ was amended by Schedule 1 (items 128–130) only of the _Financial Sector Reform (Consequential Amendments) Act 1998_, subsection 2(2) of which provides as follows:
 
-                   (2)  Subject to subsections (3) to (14), Schedules 1, 2 and 3 commence on the commencement of the _Australian Prudential Regulation Authority Act 1998_.
+                 (2)   Subject to subsections (3) to (14), Schedules 1, 2 and 3 commence on the commencement of the _Australian Prudential Regulation Authority Act 1998_.
 
-_(c)_              The _Pooled Development Funds Act 1992_ was amended by Schedule 4 (items 26–38) and Schedule 5 (items 37 and 38) only of the _Company Law Review Act 1998_, subsections 2(2) and (5) of which provide as follows:
+_(c)_     The _Pooled Development Funds Act 1992_ was amended by Schedule 4 (items 26–38) and Schedule 5 (items 37 and 38) only of the _Company Law Review Act 1998_, subsections 2(2) and (5) of which provide as follows:
 
-                   (2)  Subject to subsection (3), section 3 and Schedules 1, 2, 3 and 4 commence on a day to be fixed by Proclamation.
+                 (2)   Subject to subsection (3), section 3 and Schedules 1, 2, 3 and 4 commence on a day to be fixed by Proclamation.
 
-                   (5)  Schedule 5 commences immediately after section 1 of the _Taxation Laws Amendment (Company Law Review) Act 1998_ commences.
+                 (5)   Schedule 5 commences immediately after section 1 of the _Taxation Laws Amendment (Company Law Review) Act 1998_ commences.
 
-                  Section 1 commenced on 1 July 1998 (_see Gazette_ 1998, No. S325).
+         Section 1 commenced on 1 July 1998 (_see Gazette_ 1998, No. S325).
 
-_(d)_             The _Company Law Review Act 1998_ was amended by Schedule 7 only of the _Taxation Laws Amendment (Company Law Review) Act 1998_, subsection 2(1) of which provides as follows:
+_(d)_     The _Company Law Review Act 1998_ was amended by Schedule 7 only of the _Taxation Laws Amendment (Company Law Review) Act 1998_, subsection 2(1) of which provides as follows:
 
-                   (1)  Subject to this section, this Act commences on a day to be fixed by Proclamation.
+                 (1)   Subject to this section, this Act commences on a day to be fixed by Proclamation.
  However, if that day is the same day as the day on which Schedule 3 to the _Company Law Review Act 1997_ commences, this Act commences immediately after item 32 of that Schedule commences.
 
-                  The _Taxation Laws Amendment (Company Law Review) Act 1998_ came into operation immediately after item 32 of Schedule 3 to the _Company Law Review Act 1998_.
+         The _Taxation Laws Amendment (Company Law Review) Act 1998_ came into operation immediately after item 32 of Schedule 3 to the _Company Law Review Act 1998_. 
 
-                  Item 32 commenced on 1 July 1998.
+         Item 32 commenced on 1 July 1998.
 
-_(e)_              Section 2 of the _Managed Investments Act 1998_ provides as follows:
+_(e)_     Section 2 of the _Managed Investments Act 1998_ provides as follows:
 
-                      2  This Act commences immediately after all the items in Schedules 1, 2, 3 and 4 of the _Company Law Review Act 1997_ have commenced.
+                    2   This Act commences immediately after all the items in Schedules 1, 2, 3 and 4 of the _Company Law Review Act 1997_ have commenced.
 
-                  The items in Schedules 1, 2, 3 and 4 of the _Company Law Review Act 1998_ commenced on 1 July 1998 (_see Gazette_ 1998, No. S317).
+         The items in Schedules 1, 2, 3 and 4 of the _Company Law Review Act 1998_ commenced on 1 July 1998 (_see Gazette_ 1998, No. S317).
 
-_(f)_              The _Pooled Development Funds Act 1992_ was amended by Schedule 1 (item 734) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+_(f)_      The _Pooled Development Funds Act 1992_ was amended by Schedule 1 (item 734) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
 
-                   (1)  In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
+                 (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
 
-                   (2)  Subject to this section, this Act commences at the commencing time.
+                 (2)   Subject to this section, this Act commences at the commencing time.
 
-_(g)             The Pooled Development Funds Act 1992_ was amended by Schedule 3 (items 5–17) only of the _New Business Tax System (Capital Gains Tax) Act 1999_, subsection 2(1) of which provides as follows:
+_(g)     The Pooled Development Funds Act 1992_ was amended by Schedule 3 (items 5–17) only of the _New Business Tax System (Capital Gains Tax) Act 1999_, subsection 2(1) of which provides as follows:
 
-                   (1)  Subject to subsection (2), this Act commences on the day on which it receives the Royal Assent.
+                 (1)   Subject to subsection (2), this Act commences on the day on which it receives the Royal Assent.
 
-_(h)_ The _Pooled Development Funds Act 1992_ was amended by Schedule 3 (items 425–431) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
+_(h)_ The _Pooled Development Funds Act 1992_ was amended by Schedule 3 (items 425–431) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
 
-                   (3)  Subject to subsections (4) to (10), Schedule 3 commences, or is taken to have commenced, at the same time as the _Corporations Act 2001_.
+                 (3)   Subject to subsections (4) to (10), Schedule 3 commences, or is taken to have commenced, at the same time as the _Corporations Act 2001_.
 
-_(i)_              Subsection 2(1) (item 2) of the _Superannuation Legislation Amendment (Simplification) Act 2007_ provides as follows:
+_(i)_      Subsection 2(1) (item 2) of the _Superannuation Legislation Amendment (Simplification) Act 2007_ provides as follows:
 
-                   (1)  Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
 <table>
 <colgroup>
@@ -2506,852 +2355,539 @@ _(i)_              Subsection 2(1) (item 2) of the
   </td>
 </tr></table>
 
-Endnote 2—Amendment history
-
-This endnote sets out the amendment history of the _Pooled Development Funds Act 1992__._
+## Table of Amendments
 
 <table>
 <colgroup>
-  <col width="30%">
-  <col width="70%">
+  <col width="34%">
+  <col width="66%">
 </colgroup>
 
 <thead>
   <tr>
     <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted exp. = expired or ceased to have effect</div>
+      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>
-        <b>
-          Provision affected
-        </b>
-      </div>
+      <div>Provision affected</div>
     </td>
     <td>
-      <div>
-        <b>
-          How affected
-        </b>
-      </div>
+      <div>How affected</div>
     </td>
   </tr>
 </thead>
 <tr>
   <td>
-    <div>
-      <b>
-        Part 1
-      </b>
-    </div>
+    <div><b>Part 1</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 3......................................
-    </div>
+    <div>S. 3</div>
   </td>
   <td>
-    <div>
-      rs. No. 64, 2000
-    </div>
+    <div>rs. No. 64, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 4......................................
-    </div>
+    <div>S. 4</div>
   </td>
   <td>
-    <div>
-      am. No. 102, 1994; No. 5, 1995; Nos. 48 and 61, 1998; No. 165, 1999; No. 64,
-        2000; No. 55, 2001; No. 136, 2002; Nos. 78 and 164, 2007; No. 144, 2008;
-        No. 75, 2009
-    </div>
+    <div>am. No. 102, 1994; No. 5, 1995; Nos. 48 and 61, 1998; No. 165, 1999; No. 64, 2000; No. 55, 2001; No. 136, 2002; Nos. 78 and 164, 2007; No. 144, 2008; No. 75, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 4A...................................
-    </div>
+    <div>S. 4A</div>
   </td>
   <td>
-    <div>
-      ad. No. 64, 2000
-    </div>
+    <div>ad. No. 64, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 21, 2003; No. 15, 2007
-    </div>
+    <div>am. No. 21, 2003; No. 15, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 4B...................................
-    </div>
+    <div>S. 4B</div>
   </td>
   <td>
-    <div>
-      ad. No. 140, 2001
-    </div>
+    <div>ad. No. 140, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to Part 2.................
-    </div>
+    <div>Heading to Part 2</div>
   </td>
   <td>
-    <div>
-      rs. No. 78, 2007
-    </div>
+    <div>rs. No. 78, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rep. No 164, 2007
-    </div>
+    <div>rep. No 164, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Part 2
-      </b>
-    </div>
+    <div>Part 2</div>
   </td>
   <td>
-    <div>
-      rep. No 164, 2007
-    </div>
+    <div>rep. No 164, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 5......................................
-    </div>
+    <div>S. 5</div>
   </td>
   <td>
-    <div>
-      rs. No. 78, 2007
-    </div>
+    <div>rs. No. 78, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rep. No 164, 2007
-    </div>
+    <div>rep. No 164, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 6......................................
-    </div>
+    <div>S. 6</div>
   </td>
   <td>
-    <div>
-      am. No. 165, 1999; No. 136, 2002; No. 78, 2007
-    </div>
+    <div>am. No. 165, 1999; No. 136, 2002; No. 78, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rep. No 164, 2007
-    </div>
+    <div>rep. No 164, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      ss. 7–9................................
-    </div>
+    <div>Ss. 7–9</div>
   </td>
   <td>
-    <div>
-      rep. No. 164, 2007
-    </div>
+    <div>rep. No. 164, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Part 3
-      </b>
-    </div>
+    <div><b>Part 3</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 11....................................
-    </div>
+    <div>S. 11</div>
   </td>
   <td>
-    <div>
-      am. No. 61, 1998; No. 78, 2007
-    </div>
+    <div>am. No. 61, 1998; No. 78, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 14....................................
-    </div>
+    <div>S. 14</div>
   </td>
   <td>
-    <div>
-      am. No. 39, 1997; No. 61, 1998; No. 64, 2000
-    </div>
+    <div>am. No. 39, 1997; No. 61, 1998; No. 64, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 18....................................
-    </div>
+    <div>S. 18</div>
   </td>
   <td>
-    <div>
-      am. No. 61, 1998; No. 64, 2000
-    </div>
+    <div>am. No. 61, 1998; No. 64, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Part 4
-      </b>
-    </div>
+    <div><b>Part 4</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Division 1
-      </b>
-    </div>
+    <div><b>Division 1</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 19....................................
-    </div>
+    <div>S. 19</div>
   </td>
   <td>
-    <div>
-      am. No. 64, 2000
-    </div>
+    <div>am. No. 64, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to s. 20..................
-    </div>
+    <div>Heading to s. 20</div>
   </td>
   <td>
-    <div>
-      rs. No. 64, 2000
-    </div>
+    <div>rs. No. 64, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 20....................................
-    </div>
+    <div>S. 20</div>
   </td>
   <td>
-    <div>
-      am. No. 64, 2000
-    </div>
+    <div>am. No. 64, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      ss. 20A, 20B.......................
-    </div>
+    <div>Ss. 20A, 20B</div>
   </td>
   <td>
-    <div>
-      ad. No. 64, 2000
-    </div>
+    <div>ad. No. 64, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      ss. 21, 22............................
-    </div>
+    <div>Ss. 21, 22</div>
   </td>
   <td>
-    <div>
-      am. No. 64, 2000
-    </div>
+    <div>am. No. 64, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 24....................................
-    </div>
+    <div>S. 24</div>
   </td>
   <td>
-    <div>
-      am. Nos. 102 and 108, 1994; No. 55, 2001
-    </div>
+    <div>am. Nos. 102 and 108, 1994; No. 55, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 25....................................
-    </div>
+    <div>S. 25</div>
   </td>
   <td>
-    <div>
-      am. No. 102, 1994; No. 64, 2000
-    </div>
+    <div>am. No. 102, 1994; No. 64, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 26....................................
-    </div>
+    <div>S. 26</div>
   </td>
   <td>
-    <div>
-      rep. No. 102, 1994
-    </div>
+    <div>rep. No. 102, 1994</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 27A.................................
-    </div>
+    <div>S. 27A</div>
   </td>
   <td>
-    <div>
-      ad. No. 64, 2000
-    </div>
+    <div>ad. No. 64, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 28....................................
-    </div>
+    <div>S. 28</div>
   </td>
   <td>
-    <div>
-      am. No. 102, 1994; No. 140, 2001
-    </div>
+    <div>am. No. 102, 1994; No. 140, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 28A.................................
-    </div>
+    <div>S. 28A</div>
   </td>
   <td>
-    <div>
-      ad. No. 64, 2000
-    </div>
+    <div>ad. No. 64, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Division 2
-      </b>
-    </div>
+    <div><b>Division 2</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 29....................................
-    </div>
+    <div>S. 29</div>
   </td>
   <td>
-    <div>
-      am. No. 64, 2000
-    </div>
+    <div>am. No. 64, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 30....................................
-    </div>
+    <div>S. 30</div>
   </td>
   <td>
-    <div>
-      am. No. 62, 1998; No. 55, 2001
-    </div>
+    <div>am. No. 62, 1998; No. 55, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 31....................................
-    </div>
+    <div>S. 31</div>
   </td>
   <td>
-    <div>
-      am. No. 102, 1994; No. 48, 1998; No. 64, 2000; No. 55, 2001; No. 144,
-        2008
-    </div>
+    <div>am. No. 102, 1994; No. 48, 1998; No. 64, 2000; No. 55, 2001; No. 144, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 32....................................
-    </div>
+    <div>S. 32</div>
   </td>
   <td>
-    <div>
-      am. No. 102, 1994
-    </div>
+    <div>am. No. 102, 1994</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 32A.................................
-    </div>
+    <div>S. 32A</div>
   </td>
   <td>
-    <div>
-      ad. No. 64, 2000
-    </div>
+    <div>ad. No. 64, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Part 5
-      </b>
-    </div>
+    <div><b>Part 5</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 41....................................
-    </div>
+    <div>S. 41</div>
   </td>
   <td>
-    <div>
-      am. No. 61, 1998; No. 64, 2000
-    </div>
+    <div>am. No. 61, 1998; No. 64, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 42....................................
-    </div>
+    <div>S. 42</div>
   </td>
   <td>
-    <div>
-      am. No. 61, 1998; No. 140, 2001
-    </div>
+    <div>am. No. 61, 1998; No. 140, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 43....................................
-    </div>
+    <div>S. 43</div>
   </td>
   <td>
-    <div>
-      am. No. 165, 1999
-    </div>
+    <div>am. No. 165, 1999</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Part 6
-      </b>
-    </div>
+    <div><b>Part 6</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 47....................................
-    </div>
+    <div>S. 47</div>
   </td>
   <td>
-    <div>
-      am. No. 102, 1994; No. 61, 1998; No. 64, 2000; No. 137, 2000
-    </div>
+    <div>am. No. 102, 1994; No. 61, 1998; No. 64, 2000; No. 137, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 49....................................
-    </div>
+    <div>S. 49</div>
   </td>
   <td>
-    <div>
-      am. No. 140, 2001
-    </div>
+    <div>am. No. 140, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Part 7
-      </b>
-    </div>
+    <div><b>Part 7</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 50....................................
-    </div>
+    <div>S. 50</div>
   </td>
   <td>
-    <div>
-      am. No. 102, 1994; No. 64, 2000; No. 140, 2001
-    </div>
+    <div>am. No. 102, 1994; No. 64, 2000; No. 140, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div>S. 51</div>
   </td>
   <td>
-    <div>
-      rep. No. 180, 2012
-    </div>
+    <div>am. No. 140, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 51..................</div>
+    <div>S. 52</div>
   </td>
   <td>
-    <div>rs. No. 180, 2012</div>
+    <div>am. No. 165, 1999</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 51....................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 140, 2001; No. 180, 2012
-    </div>
+    <div>rep. No. 137, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 52....................................
-    </div>
+    <div><b>Part 7A</b></div>
   </td>
   <td>
-    <div>
-      am. No. 165, 1999
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div>Part 7A</div>
   </td>
   <td>
-    <div>
-      rep. No. 137, 2000
-    </div>
+    <div>ad. No. 165, 1999</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Part 7A
-      </b>
-    </div>
+    <div>Ss. 52A–52D</div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div>ad. No. 165, 1999</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Part 7A................................
-    </div>
+    <div>Part 9</div>
   </td>
   <td>
-    <div>
-      ad. No. 165, 1999
-    </div>
+    <div>rep. No. 164, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      ss. 52A–52D.......................
-    </div>
+    <div>Ss. 57–67</div>
   </td>
   <td>
-    <div>
-      ad. No. 165, 1999
-    </div>
+    <div>rep. No. 164, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Part 9
-    </div>
+    <div>S. 68</div>
   </td>
   <td>
-    <div>
-      rep. No. 164, 2007
-    </div>
+    <div>am. No. 146, 1999</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      ss. 57–67............................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rep. No. 164, 2007
-    </div>
+    <div>rep. No. 164, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 68....................................
-    </div>
+    <div>S. 69</div>
   </td>
   <td>
-    <div>
-      am. No. 146, 1999
-    </div>
+    <div>rep. No. 164, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div><b>Part 10</b></div>
   </td>
   <td>
-    <div>
-      rep. No. 164, 2007
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 69....................................
-    </div>
+    <div>S. 71</div>
   </td>
   <td>
-    <div>
-      rep. No. 164, 2007
-    </div>
+    <div>am. No. 136, 2002; No. 164, 2007; No. 145, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Part 10
-      </b>
-    </div>
+    <div>Ss. 72–74</div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div>am. No. 165, 1999; No. 136, 2002; No. 78, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 71....................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 136, 2002; No. 164, 2007; No. 145, 2010
-    </div>
+    <div>rep. No. 164, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      ss. 72–74............................
-    </div>
+    <div>S. 75</div>
   </td>
   <td>
-    <div>
-      am. No. 165, 1999; No. 136, 2002; No. 78, 2007
-    </div>
+    <div>am. No. 165, 1999</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rep. No. 164, 2007
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 75....................................
-    </div>
-  </td>
-  <td>
-    <div>
-      am. No. 165, 1999
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-
-    </div>
-  </td>
-  <td>
-    <div>
-      rep. No. 164, 2007
-    </div>
+    <div>rep. No. 164, 2007</div>
   </td>
 </tr></table>
 
-* * *
+## Table A
 
-Endnote 3—Application, saving and transitional provisions
+### Application, Saving or Transitional Provisions
 
-This endnote sets out applications, saving and transitional provisions for amendments of the _Pooled Development Funds Act 1992__._
-
-For application, saving or transitional provisions made by the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, _see_ Act No. 55, 2001.
-
-Application, saving or transitional provisions prior to 10 December 1999 are not included in this endnote.
-
-New Business Tax System (Capital Gains Tax) Act 1999 (No. 165, 1999)
+_New Business Tax System (Capital Gains Tax) Act 1999 (No. 165, 1999)_
 
 ## Schedule 3
 
@@ -3359,7 +2895,9 @@ New Business Tax System (Capital Gains Tax) Act 1999 (No. 165, 1999)
 
 The amendments made by this Schedule apply to the issue or allotment of venture capital equity in a resident investment vehicle on or after the day on which this Act receives the Royal Assent.
 
-Pooled Development Funds Amendment Act 2000 (No. 64, 2000)
+* * *
+
+_Pooled Development Funds Amendment Act 2000 (No. 64, 2000)_
 
 ## Schedule 1
 
@@ -3367,41 +2905,43 @@ Pooled Development Funds Amendment Act 2000 (No. 64, 2000)
 
 General
 
-(1)       The amendments made by this Act (except for those mentioned in the following subitems) apply, in relation to a PDF, from the beginning of the PDF’s 1999‑2000 income year (the **_transition time_**).
+(1)        The amendments made by this Act (except for those mentioned in the following subitems) apply, in relation to a PDF, from the beginning of the PDF’s 1999-2000 income year (the **_transition time_**).
 
-(2)       In subitem (1):
+(2)        In subitem (1):
 
 **_income year_** has the same meaning as in the _Income Tax Assessment Act 1997_.
 
 Registration decisions
 
-(3)       The amendment made by item 5 applies to a decision about registration that the Board makes after the transition time, even if the application for registration was made before that time.
+(3)        The amendment made by item 5 applies to a decision about registration that the Board makes after the transition time, even if the application for registration was made before that time.
 
 Notification of initial investments
 
-(4)       The amendments made by items 14 and 26 apply to investments made after this item commences.
+(4)        The amendments made by items 14 and 26 apply to investments made after this item commences.
 
 Interposed entities
 
-(5)       The amendment made by item 15 applies to investments made after 4 August 1999.
+(5)        The amendment made by item 15 applies to investments made after 4 August 1999.
 
-(6)       However, the Board may determine that that amendment does not apply to a particular investment if the Board is satisfied that the relevant PDF, or the interposed entity that is to make the investment, was already under a legal obligation to make the investment at the end of 4 August 1999.
+(6)        However, the Board may determine that that amendment does not apply to a particular investment if the Board is satisfied that the relevant PDF, or the interposed entity that is to make the investment, was already under a legal obligation to make the investment at the end of 4 August 1999.
 
 Annual returns
 
-(7)       The amendments made by items 21 and 22 apply to annual returns for the 1999‑2000 financial year and all later financial years.
+(7)        The amendments made by items 21 and 22 apply to annual returns for the 1999-2000 financial year and all later financial years.
 
 Revocation power
 
-(8)       The amendments made by items 23, 24 and 25 apply to contraventions of this Act, or of a condition of a PDF’s registration, that happen after this item commences.
+(8)        The amendments made by items 23, 24 and 25 apply to contraventions of this Act, or of a condition of a PDF’s registration, that happen after this item commences.
 
-Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)
+* * *
+
+_Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)_
 
 ## Schedule 2
 
-## 418  Transitional—pre‑commencement offences
+## 418  Transitional—pre-commencement offences
 
-(1)       Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
+(1)        Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
 
                      (a)  an offence committed before the commencement of this item; or
 
@@ -3411,9 +2951,9 @@ Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (N
 
 as if the amendment or repeal had not been made.
 
-(2)       Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
+(2)        Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
 
-## 419  Transitional—pre‑commencement notices
+## 419  Transitional—pre-commencement notices
 
 If:
 
@@ -3421,11 +2961,13 @@ If:
 
                      (b)  any or all of those other provisions are repealed by this Schedule; and
 
-                     (c)  the first‑mentioned provision is amended by this Schedule;
+                     (c)  the first-mentioned provision is amended by this Schedule;
 
-the amendment of the first‑mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
+the amendment of the first-mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
 
-Industry, Science and Resources Legislation Amendment (Application of Criminal Code) Act 2001 (No. 140, 2001)
+* * *
+
+_Industry, Science and Resources Legislation Amendment (Application of Criminal Code) Act 2001 (No. 140, 2001)_
 
 ##### <a id="4"></a>4  Application of amendments
 
@@ -3433,24 +2975,26 @@ Industry, Science and Resources Legislation Amendment (Application of Criminal C
 
              (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
 
-Industry, Tourism and Resources Legislation Amendment Act 2003
- (No. 21, 2003)
+* * *
+
+_Industry, Tourism and Resources Legislation Amendment Act 2003
+ (No. 21, 2003)_
 
 ## Schedule 1
 
 ## 16  Certain shareholdings in PDFs do not contravene section 31
 
-(1)       Section 31 of the _Pooled Development Funds Act 1992_ is taken to have applied in relation to a PDF during the period:
+(1)        Section 31 of the _Pooled Development Funds Act 1992_ is taken to have applied in relation to a PDF during the period:
 
                      (a)  starting on 8 October 1999; and
 
                      (b)  ending on the commencement of this item;
 
-as if paragraph 4A(1)(a) of that Act were required to be ignored in determining whether a fund was a **_widely‑held complying superannuation fund_**.
+as if paragraph 4A(1)(a) of that Act were required to be ignored in determining whether a fund was a **_widely-held complying superannuation fund_**.
 
 _Note:       Paragraph 4A(1)(a) would have required that the fund not be an excluded superannuation fund (within the meaning of the Superannuation Industry (Supervision) Act 1993)._
 
-(2)       If:
+(2)        If:
 
                      (a)  because of the effect of subitem (1), a person’s holding of shares in a PDF immediately before the commencement of this item did not contravene section 31 of the _Pooled Development Funds Act 1992_ as then in force; but
 
@@ -3464,24 +3008,28 @@ then the following provisions have effect:
 
                      (e)  however, if, after that commencement, the person, or any of the person’s associates, acquires additional shares in the PDF (otherwise than as mentioned in paragraph (d)), the shares to which paragraphs (c) and (d) apply are to be taken into account in determining whether the acquisition of those additional shares complies with section 31 of that Act as then in force.
 
-Superannuation Legislation Amendment (Simplification) Act 2007
- (No. 15, 2007)
+* * *
+
+_Superannuation Legislation Amendment (Simplification) Act 2007
+ (No. 15, 2007)_
 
 ## Schedule 1
 
 ## 406  Application
 
-(1)       The amendments made by this Schedule apply to the 2007‑2008 income year and later years.
+(1)        The amendments made by this Schedule apply to the 2007-2008 income year and later years.
 
-(2)       Despite subitem (1), those amendments apply to the 2007‑2008 financial year and later years, to the extent that they relate to Division 292 of the _Income Tax Assessment Act 1997_.
+(2)        Despite subitem (1), those amendments apply to the 2007-2008 financial year and later years, to the extent that they relate to Division 292 of the _Income Tax Assessment Act 1997_.
 
-(3)       Despite subitem (1), those amendments apply on and after 1 July 2007, to the extent that they relate to any of the following:
+(3)        Despite subitem (1), those amendments apply on and after 1 July 2007, to the extent that they relate to any of the following:
 
                      (a)  Divisions 82 and 83 of the _Income Tax Assessment Act 1997_;
 
                      (b)  Divisions 301 to 307 of that Act.
 
-Tax Laws Amendment (2007 Measures No. 5) Act 2007 (No. 164, 2007)
+* * *
+
+_Tax Laws Amendment (2007 Measures No. 5) Act 2007 (No. 164, 2007)_
 
 ## Schedule 12
 
@@ -3499,9 +3047,9 @@ In this Part:
 
 ## 280  Things done to a former Board before commencement
 
-(1)       Any thing done to a former Board before the commencement of this item is taken, on and after that commencement, to have been done to the new Board.
+(1)        Any thing done to a former Board before the commencement of this item is taken, on and after that commencement, to have been done to the new Board.
 
-(2)       Without limiting subitem (1), examples of things done to a former Board include, but are not limited to, the following:
+(2)        Without limiting subitem (1), examples of things done to a former Board include, but are not limited to, the following:
 
                      (a)  the making of applications or requests to the former Board;
 
@@ -3513,15 +3061,15 @@ In this Part:
 
 ## 281  Things done to the Chairperson or acting Chairperson of a former Board before commencement
 
-(1)       Any thing done to the Chairperson, or acting Chairperson, of a former Board before the commencement of this item is taken, on and after that commencement, to have been done to the Chairperson of the new Board.
+(1)        Any thing done to the Chairperson, or acting Chairperson, of a former Board before the commencement of this item is taken, on and after that commencement, to have been done to the Chairperson of the new Board.
 
-(2)       Without limiting subitem (1), examples of things done to the Chairperson of a former Board include, but are not limited to, the giving of notices or advice to the Chairperson.
+(2)        Without limiting subitem (1), examples of things done to the Chairperson of a former Board include, but are not limited to, the giving of notices or advice to the Chairperson.
 
 ## 282  Things done by a former Board before commencement
 
-(1)       Any thing done by a former Board before the commencement of this item is taken, on and after that commencement, to have been done by the new Board.
+(1)        Any thing done by a former Board before the commencement of this item is taken, on and after that commencement, to have been done by the new Board.
 
-(2)       Without limiting subitem (1), examples of things done by a former Board include, but are not limited to, the following:
+(2)        Without limiting subitem (1), examples of things done by a former Board include, but are not limited to, the following:
 
                      (a)  the making of determinations or decisions by the former Board;
 
@@ -3543,19 +3091,19 @@ In this Part:
 
                       (j)  the giving of notices, documents or other things by the former Board.
 
-(3)       Without limiting subitem (1), if, after the commencement of this item, the new Board is required under section 46 of the _Industry Research and Development Act 1986_ (as amended by this Schedule) to give a report in relation to a financial year that commenced before the commencement of this item, then the new Board must include in the report any matter that, had the amendments made by this Schedule not been made, a former Board would have been required to include in a report for that year under:
+(3)        Without limiting subitem (1), if, after the commencement of this item, the new Board is required under section 46 of the _Industry Research and Development Act 1986_ (as amended by this Schedule) to give a report in relation to a financial year that commenced before the commencement of this item, then the new Board must include in the report any matter that, had the amendments made by this Schedule not been made, a former Board would have been required to include in a report for that year under:
 
                      (a)  section 46 of the _Industry Research and Development Act 1986_ (as in force before the commencement of this item); or
 
                      (b)  section 75 of the _Pooled Development Funds Act 1992_ (as in force before the commencement of this item); or
 
-                     (c)  section 33‑1 of the _Venture Capital Act 2002_(as in force before the commencement of this item).
+                     (c)  section 33-1 of the _Venture Capital Act 2002_(as in force before the commencement of this item).
 
 ## 283  Things done by the Chairperson or acting Chairperson of a former Board before commencement
 
-(1)       Any thing done by the Chairperson, or acting Chairperson, of a former Board before the commencement of this item is taken, on and after that commencement, to have been done by the Chairperson of the new Board.
+(1)        Any thing done by the Chairperson, or acting Chairperson, of a former Board before the commencement of this item is taken, on and after that commencement, to have been done by the Chairperson of the new Board.
 
-(2)       Without limiting subitem (1), examples of things done by the Chairperson of a former Board include, but are not limited to, the following:
+(2)        Without limiting subitem (1), examples of things done by the Chairperson of a former Board include, but are not limited to, the following:
 
                      (a)  the making of inquiries or reports by the Chairperson;
 
@@ -3565,15 +3113,15 @@ In this Part:
 
 ## 284  Things done by a member or acting member of a former Board before commencement
 
-(1)       Any thing done by a member, or acting member, of a former Board before the commencement of this item is taken, on and after that commencement, to have been done by a member of the new Board.
+(1)        Any thing done by a member, or acting member, of a former Board before the commencement of this item is taken, on and after that commencement, to have been done by a member of the new Board.
 
-(2)       Without limiting subitem (1), examples of things done by a member of a former Board include, but are not limited to, the signing of a certificate by the member.
+(2)        Without limiting subitem (1), examples of things done by a member of a former Board include, but are not limited to, the signing of a certificate by the member.
 
 ## 285  Things done by a person authorised by a former Board before commencement
 
-(1)       Any thing done by a person authorised by a former Board before the commencement of this item is taken, on and after that commencement, to have been done by a person authorised by the new Board.
+(1)        Any thing done by a person authorised by a former Board before the commencement of this item is taken, on and after that commencement, to have been done by a person authorised by the new Board.
 
-(2)       Without limiting subitem (1), examples of things done by a person authorised by a former Board include, but are not limited to, the signing of a certificate by the person.
+(2)        Without limiting subitem (1), examples of things done by a person authorised by a former Board include, but are not limited to, the signing of a certificate by the person.
 
 ## 286  References to a former Board in instruments etc.
 
@@ -3597,36 +3145,24 @@ is taken, after the commencement of this item, to be a reference to the new Boar
 
 An appointment of a member of a committee under section 22 of the _Industry Research and Development Act 1986_ that is in force immediately before the commencement of this item is taken, on that commencement, to be revoked.
 
-Same‑Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008 (No. 144, 2008)
+* * *
+
+_Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008 (No. 144, 2008)_
 
 ## Schedule 12
 
 ## 8  Transitional
 
-(1)       This item applies if:
+(1)        This item applies if:
 
                      (a)  on the commencement of the amendments made by this Schedule, a person holds shares in a PDF (the **_initial shares_**); and
 
                      (b)  the person would, but for this item, contravene section 31 of the _Pooled Development Funds Act 1992_ only because of one or more of those amendments.
 
-(2)       Subject to subitem (4), disregard the person’s continued holding of the initial shares in the PDF on and after that commencement when applying that section as then in force to the person and the person’s associates.
+(2)        Subject to subitem (4), disregard the person’s continued holding of the initial shares in the PDF on and after that commencement when applying that section as then in force to the person and the person’s associates.
 
-(3)       If, after that commencement, any bonus shares in the PDF are issued to the person because the person is the holder of the initial shares, then, subject to subitem (4), disregard the person’s holding of those bonus shares when applying that section as then in force to the person and the person’s associates.
+(3)        If, after that commencement, any bonus shares in the PDF are issued to the person because the person is the holder of the initial shares, then, subject to subitem (4), disregard the person’s holding of those bonus shares when applying that section as then in force to the person and the person’s associates.
 
-(4)       If, after that commencement, the person, or any of the person’s associates, acquires additional shares (other than bonus shares) in the PDF, the initial shares and the bonus shares are to be taken into account in determining whether the acquisition of those additional shares complies with that section as then in force.
-
-Endnote 4—Uncommenced amendments
-
-This endnote sets out amendments of the _Pooled Development Funds Act 1992_ that have not yet commenced.
-
-There are no uncommenced amendments.
-
-Endnote 5—Misdescribed amendments
-
-This endnote sets out amendments of the _Pooled Development Funds Act 1992_ that have been misdescribed.
-
-There are no misdescribed amendments.
-
- 
+(4)        If, after that commencement, the person, or any of the person’s associates, acquires additional shares (other than bonus shares) in the PDF, the initial shares and the bonus shares are to be taken into account in determining whether the acquisition of those additional shares complies with that section as then in force.
 
  
