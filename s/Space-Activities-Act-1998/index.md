@@ -1,9 +1,8 @@
 
 Space Activities Act 1998
 Act No. 123 of 1998 as amended
-This compilation was prepared on 21 November 2002  taking into account amendments up to Act No. 100 of 2002
+This compilation was prepared on 13 September 2001  taking into account amendments up to Act No. 101 of 2001
 The text of any of those amendments not in force on that date is appended in the Notes section
-The operation of amendments that have been incorporated may be  affected by application provisions that are set out in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
   
   
@@ -46,7 +45,7 @@ Division 3—Launch permits	17
 29	Standard launch permit conditions	19
 30	Breaching a launch permit condition	19
 31	Transfer of launch permit	20
-32	Applying for the grant or transfer of a launch permit	20
+32	Applying for the grant or transfer of a launch permit	21
 33	Procedure etc.	21
 34	Suspending a launch permit	21
 Division 4—Overseas launch certificates	22
@@ -133,30 +132,28 @@ Division 2—Investigations	51
 95	Automatic suspension of launch permit etc. after accident	55
 96	Disclosure of safety records	56
 97	Relationship with other powers	57
-Division 3—Accident site powers	58
-98	Accident sites and accident site premises	58
-99	Power of entry to accident site	58
-100	Procedure before entry	59
-101	Identity cards	60
-102	Availability of assistance and use of force in entering accident site premises	60
-103	Offence of entering etc. an accident site without permission	60
-Part 8—Miscellaneous	62
-104	Delegation	62
-105	Operation of other laws	62
-106	Indemnity	62
-107	Compensation—constitutional safety net	62
-108	Severability: additional effect of Act	63
-109	Application of Act: pre‑existing agreement	64
-110	Regulations	65
-Schedule 1—Convention on International Liability for Damage Caused by Space Objects	66
-Schedule 2—Convention on Registration of Objects Launched into Outer Space	76
-Schedule 3—Treaty on Principles Governing the Activities of States in the Exploration and Use of Outer Space, including the Moon and other Celestial Bodies	82
-Schedule 4—Agreement Governing the Activities of States on the Moon and other Celestial Bodies	90
-Schedule 5—Agreement on the Rescue of Astronauts, the Return of Astronauts and the Return of Objects Launched into Outer Space	101
-Schedule 6—Agreement between the Government of Australia and the Government of the Russian Federation on Cooperation in the Field of the Exploration and Use of Outer Space for Peaceful Purposes	106
-Notes			133
-
-
+Division 3—Accident site powers	59
+98	Accident sites and accident site premises	59
+99	Power of entry to accident site	59
+100	Procedure before entry	60
+101	Identity cards	61
+102	Availability of assistance and use of force in entering accident site premises	61
+103	Offence of entering etc. an accident site without permission	62
+Part 8—Miscellaneous	63
+104	Delegation	63
+105	Operation of other laws	63
+106	Indemnity	63
+107	Compensation—constitutional safety net	63
+108	Severability: additional effect of Act	64
+109	Application of Act: pre‑existing agreement	65
+110	Regulations	66
+Schedule 1—Convention on International Liability for Damage Caused by Space Objects	67
+Schedule 2—Convention on Registration of Objects Launched into Outer Space	78
+Schedule 3—Treaty on Principles Governing the Activities of States in the Exploration and Use of Outer Space, including the Moon and other Celestial Bodies	84
+Schedule 4—Agreement Governing the Activities of States on the Moon and other Celestial Bodies	92
+Schedule 5—Agreement on the Rescue of Astronauts, the Return of Astronauts and the Return of Objects Launched into Outer Space	103
+Schedule 6—Agreement between the Government of Australia and the Government of the Russian Federation on Cooperation in the Field of the Exploration and Use of Outer Space for Peaceful Purposes	108
+Notes		137
 An Act about space activities, and for related purposes
 Part 1—Introduction
   
@@ -1172,7 +1169,7 @@ IN WITNESS WHEREOF the undersigned, duly authorised thereto, have signed this Co
 
 DONE in triplicate, at the cities of London, Moscow and Washington, this twenty‑ninth day of March, one thousand nine hundred and seventy‑two.
 [Signatures omitted]
-Schedule 2—Convention on Registration of Objects Launched into Outer Space
+Schedule 2—Convention on Registration of Objects Launched into Outer Space
 Note:	This is the copy of the Convention referred to in the definition of Registration Convention in section 8 of this Act.
   
   
@@ -1237,7 +1234,7 @@ The original of this Convention, of which the Arabic, Chinese, English, French, 
 
 IN WITNESS WHEREOF the undersigned, being duly authorized thereto by their respective Governments, have signed this Convention, opened for signature at New York on the fourteenth day of January one thousand nine hundred and seventy‑five.
 [Signatures omitted]
-Schedule 3—Treaty on Principles Governing the Activities of States in the Exploration and Use of Outer Space, including the Moon and other Celestial Bodies
+Schedule 3—Treaty on Principles Governing the Activities of States in the Exploration and Use of Outer Space, including the Moon and other Celestial Bodies
 Note:	This is the copy of the Treaty referred to in paragraph (c) of the definition of UN Space Treaties in section 8 of this Act.
   
   
@@ -1303,7 +1300,7 @@ IN WITNESS WHEREOF the undersigned, duly authorized, have signed this Treaty.
 
 DONE in triplicate, at the cities of London, Moscow and Washington, the twenty‑seventh day of January, one thousand nine hundred and sixty‑seven.
 [Signatures omitted]
-Schedule 4—Agreement Governing the Activities of States on the Moon and other Celestial Bodies
+Schedule 4—Agreement Governing the Activities of States on the Moon and other Celestial Bodies
 Note:	This is the copy of the Agreement referred to in paragraph (d) of the definition of UN Space Treaties in section 8 of this Act.
   
   
@@ -1400,7 +1397,7 @@ The original of this Agreement, of which the Arabic, Chinese, English, French, R
 
 IN WITNESS THEREOF the undersigned, being duly authorized thereto by their respective Governments, have signed this Agreement, opened for signature at New York on 18 December 1979.
 [Signatures omitted]
-Schedule 5—Agreement on the Rescue of Astronauts, the Return of Astronauts and the Return of Objects Launched into Outer Space
+Schedule 5—Agreement on the Rescue of Astronauts, the Return of Astronauts and the Return of Objects Launched into Outer Space
 Note:	This is the copy of the Agreement referred to in paragraph (e) of the definition of UN Space Treaties in section 8 of this Act.
   
   
@@ -1446,7 +1443,7 @@ IN WITNESS WHEREOF the undersigned, duly authorised, have signed this Agreement.
 
 DONE in triplicate, at the cities of London, Moscow and Washington, the twenty‑second day of April, one thousand nine hundred and sixty‑eight.
 [Signatures omitted]
-Schedule 6—Agreement between the Government of Australia and the Government of the Russian Federation on Cooperation in the Field of the Exploration and Use of Outer Space for Peaceful Purposes
+Schedule 6—Agreement between the Government of Australia and the Government of the Russian Federation on Cooperation in the Field of the Exploration and Use of Outer Space for Peaceful Purposes
 Note:	This is the copy of the Agreement referred to in the definition of intergovernmental agreement with Russia in section 8 of this Act.
   
   
@@ -1748,25 +1745,6 @@ Space Activities Amendment (Bilateral Agreement) Act 2001
 4 Sept 2001
 4 Sept 2001
 —
-Space Activities Amendment Act 2002
-100, 2002
-10 Nov 2002
-Schedule 1 [see (a) Note 2 ]
-—
-(a)	The Space Activities Act 1998 was amended by the Space Activities Amendment Act 2002, subsections 2(1) (item 2) and (3) of which provide as follows:
-	(1)	Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
-
-Commencement information
-Column 1
-Column 2
-Column 3
-Provision(s)
-Commencement
-Date/Details
-2.  Schedule 1
-A single day to be fixed by Proclamation, subject to subsection (3)
-[see Note 2]
-	(3)	If the provisions covered by item 2 of the table do not commence within the period of 6 months beginning on the day on which this Act receives the Royal Assent, they commence on the first day after the end of that period.
 Table of Amendments
 ad. = added or inserted	am. = amended	rep. = repealed	rs. = repealed and substituted
 Provision affected
@@ -1783,398 +1761,4 @@ S. 108
 am. No. 101, 2001
 Schedule 6 	
 ad. No. 101, 2001
-Note 2
-Space Activities Amendment Act 2002 (No. 100, 2002)
-The following amendments commence on 10 May 2003 unless proclaimed earlier:
-Schedule 1
-1  Section 8
-Insert:
-approved scientific or educational organisation means an educational institution, a scientific organisation or a non‑profit body, in respect of which a declaration under section 8A is in force.
-2  Section 8 (definition of launch)
-Omit “outer space”, substitute “an area beyond the distance of 100 km above mean sea level”.
-3  Section 8 (definition of launch vehicle)
-Omit “outer space”, substitute “an area beyond the distance of 100 km above mean sea level”.
-4  Section 8 (definition of return)
-Omit “outer space”, substitute “an area beyond the distance of 100 km above mean sea level”.
-5  Section 8 (definition of space object)
-Omit “outer space” (wherever occurring), substitute “an area beyond the distance of 100 km above mean sea level”.
-6  After section 8
-Insert:
-8A  Approved scientific or educational organisations
-		The Minister may, by writing, declare an educational institution, a scientific organisation or a non‑profit body to be an approved scientific or educational organisation for the purposes of this Act.
-Note:	Under subsection 33(3) of the Acts Interpretation Act 1901, the Minister may vary or revoke such a declaration.
-8B  Guidelines for making a declaration
-	(1)	The Minister must develop written guidelines that he or she must have regard to when deciding whether or not to make a declaration under section 8A.
-	(2)	The guidelines are to be made available for inspection on the Internet.
-	(3)	The guidelines are a disallowable instrument for the purposes of section 46A of the Acts Interpretation Act 1901.
-8C  Applying for a declaration
-		An application for a declaration under section 8A must be made in accordance with the regulations.
-7  Section 18
-Omit “and a particular kind of launch vehicle,”, substitute “a particular kind of launch vehicle and particular flight paths,”.
-8  After paragraph 18(a)
-Insert:
-	(aa)	the person is a corporation to which paragraph 51(xx) of the Constitution applies; and
-9  Paragraph 18(d)
-Omit “sufficiently low”, substitute “as low as is reasonably practicable”.
-10  At the end of section 18
-Add (before the example):
-	; and (h)	the criteria (if any) prescribed by the regulations are satisfied in relation to each flight path specified in the application for the licence.
-11  Section 23
-Omit “grant or transfer”, substitute “grant, variation or transfer”.
-Note:	The heading to section 23 is altered by omitting “grant or transfer” and substituting “grant, variation or transfer”.
-12  At the end of section 24
-Add:
-	(4)	The regulations may prescribe other ways in which a space licence must not be varied.
-13  At the end of Division 2 of Part 3
-Add:
-25A  Annual review of space licence
-		The Minister may conduct an annual review of a space licence:
-	(a)	for the purpose of monitoring compliance by the licence holder with this Act and with the conditions of the licence; or
-	(b)	for any other reason that the Minister considers appropriate.
-14  Subsection 26(2) (note)
-Omit “outer space” (wherever occurring), substitute “an area beyond the distance of 100 km above mean sea level”.
-15  Paragraph 26(3)(e)
-Omit “sufficiently low”, substitute “as low as is reasonably practicable”.
-16  Subsection 31(3)
-Omit “same launch facility and the same kind of launch vehicle”, substitute “same launch facility, the same kind of launch vehicle and the same space object or objects”.
-17  Section 32
-Omit “grant or transfer”, substitute “grant, variation or transfer”.
-Note:	The heading to section 32 is altered by omitting “grant or transfer” and substituting “grant, variation or transfer”.
-18  At the end of section 33
-Add:
-	(4)	The regulations may prescribe other ways in which a launch permit must not be varied.
-19  At the end of subsection 34(1)
-Add (before the note):
-	; or (c)	an incident involving a space object covered by the permit occurs during the liability period for the launch or return of the object.
-20  Subsection 35(3)
-After “agreement” (wherever occurring), insert “or arrangement”.
-21  Subsection 38(3)
-Omit “same launch facility and the same kind of launch vehicle”, substitute “same launch facility, the same kind of launch vehicle and the same space object or objects”.
-22  Section 39
-Omit “grant or transfer”, substitute “grant, variation or transfer”.
-Note:	The heading to section 39 is altered by omitting “grant or transfer” and substituting “grant, variation or transfer”.
-23  At the end of section 40
-Add:
-	(4)	The regulations may prescribe other ways in which an overseas launch certificate must not be varied.
-24  Section 42 (note)
-Omit “outer space” (wherever occurring), substitute “an area beyond the distance of 100 km above mean sea level”.
-25  At the end of subsection 43(1)
-Add:
-Note:	Under subsection 33(3) of the Acts Interpretation Act 1901, the Minister may vary or revoke an authorisation granted under this section.
-26  Paragraph 43(3)(c)
-Omit “sufficiently low”, substitute “as low as is reasonably practicable”.
-27  Subsection 43(4)
-After “agreement” (wherever occurring), insert “or arrangement”.
-28  At the end of Division 5 of Part 3
-Add:
-45A  Applying for an authorisation or for the variation of an authorisation
-		An application for an authorisation under section 43, or for the variation of such an authorisation, must be made in accordance with the regulations.
-45B  Procedure etc.
-	(1)	If the Minister considers that there may be grounds to vary or revoke an authorisation under section 43 (other than at the authorisation holder’s request), the Minister must:
-	(a)	give the holder of the authorisation written notice of the Minister’s opinion specifying the reasons for that opinion; and
-	(b)	invite the holder to make a written submission to the Minister about the matter within a reasonable period specified in the notice.
-	(2)	In deciding whether to vary or revoke the authorisation, the Minister must consider the matters raised in any submission received within the period specified in the notice.
-45C  Suspending an authorisation under section 43
-	(1)	The Minister may, by written notice, suspend an authorisation under section 43 if:
-	(a)	the holder of the authorisation contravenes a condition of the authorisation; or
-	(b)	the Minister considers that, for reasons relevant to Australia’s national security, foreign policy or international obligations, the authorisation should be suspended; or
-	(c)	an incident involving a space object covered by the authorisation occurs during the liability period for the return of the object.
-Note:	Under subsection 33(3) of the Acts Interpretation Act 1901, the Minister may revoke a suspension.
-	(2)	An authorisation under section 43 has no effect while suspended.
-	(3)	An authorisation under section 43 may be varied or revoked even while it is suspended.
-29  At the end of Division 6 of Part 3
-Add:
-46A  Terms of exemption certificate
-	(1)	An exemption certificate:
-	(a)	comes into force on a specified day or when a specified event happens; and
-	(b)	remains in force for a specified period (which may be a period that ends on the occurrence of a specified event).
-	(2)	For the purposes of subsection (1), the regulations may set out how to determine when events of a particular kind occur.
-	(3)	At any time when an exemption certificate is in force, the Minister may, by written notice, extend or further extend the period for which the certificate remains in force.
-	(4)	An exemption certificate is granted subject to any conditions specified in the certificate.
-46B  Breaching a condition
-		The holder of an exemption certificate must not contravene a condition of the certificate.
-Note:	Contravening this section is not an offence. However, a person who contravenes this section is liable to a civil penalty under Part 6.
-30  At the end of paragraph 47(2)(b)
-Add “for an amount not less than the amount that would otherwise have been applicable under subsection 48(3) for the launch or return”.
-31  Subsection 48(3)
-After “not less than”, insert “the lesser of the amount of $750 million (as indexed from time to time in accordance with the regulations) and”.
-32  After paragraph 51(a)
-Insert:
-	(aa)	to ensure that notice is given, in accordance with the regulations, of returns of space objects that were launched from the facility; and
-33  After paragraph 51(b)
-Insert:
-	(ba)	to ensure that no person or property is endangered by any return of a space object that was launched from the facility; and
-34  At the end of subsection 52(2)
-Add:
-	; and (d)	give any directions about the return of a space object that was launched from the facility that he or she considers necessary to avoid any danger to public health or to persons or property, including directions to stop the return or destroy the space object.
-35  Section 53
-After “paragraph 52(2)(c)”, insert “or (d)”.
-36  Paragraph 54(1)(a)
-After “paragraph 52(2)(c)”, insert “or (d)”.
-37  Subsection 59(1)
-Repeal the subsection, substitute:
-	(1)	The applicant for a launch permit, or for a transfer or variation of a launch permit, must pay the Commonwealth any fee the regulations set in respect of the application.
-38  Subsection 59(2)
-After “certificate”, insert “, or for a transfer or variation of an overseas launch certificate,”.
-39  After subsection 59(2)
-Insert:
-	(2A)	The applicant for an authorisation under section 43, or for the variation of such an authorisation, must pay the Commonwealth any fee the regulations set in respect of the application.
-40  Subsection 59(3)
-After “licence”, insert “, or for a transfer or variation of a space licence,”.
-41  After subsection 59(3)
-Insert:
-	(3A)	The holder of a space licence must pay the Commonwealth any annual licence fee the regulations set in respect of the licence.
-42  After subsection 59(6)
-Insert:
-	(6A)	The regulations may make provision for approved scientific or educational organisations to be charged different fees under this section than other persons.
-43  At the end of section 59
-Add:
-	(9)	The regulations may prescribe the circumstances in which the Minister may wholly or partly waive fees that would otherwise be payable under this section.
-44  After paragraph 60(b)
-Insert:
-	; or (c)	an applicant for, or the holder of, an overseas launch certificate; or
-	(d)	an applicant for, or the holder of, an authorisation under section 43;
-45  Section 60
-Omit “licence or permit”, substitute “licence, permit, certificate or authorisation”.
-46  Paragraph 61(g)
-Omit “varying or revoking”, substitute “varying, revoking or suspending”.
-47  After paragraph 61(i)
-Insert:
-	(ia)	refusing to extend, or further extend, the period for which an exemption certificate remains in force; or
-48  Paragraph 61(j)
-Omit “overseas launch certificate or authorisation under section 43”, substitute “overseas launch certificate, authorisation under section 43 or exemption certificate”.
-49  At the end of section 61
-Add:
-	; or (k)	refusing to make a declaration under section 8A; or
-	(l)	varying or revoking a declaration under section 8A.	
-50  After subsection 63(2)
-Insert:
-	(2A)	This Part also applies to damage a space object causes if:
-	(a)	either:
-	(i)	the object is launched from a launch facility in Australia; or
-	(ii)	Australia is a launching State in relation to the object; and
-	(b)	the object is returned to a place outside Australia; and
-	(c)	the damage is caused during the liability period for the return.
-51  Subsection 63(3)
-Omit “subsection (1) or (2)”, substitute “subsection (1), (2) or (2A)”.
-52  At the end of section 64
-Add:
-Note:	This section does not affect the rights of persons who are not third parties (for example, employees of a responsible party) from seeking compensation outside of this Act for damage to which this Part applies. However, see also section 65 (which allows the regulations to make provision in relation to the waiver of such rights).
-53  At the end of section 69
-Add:
-	(4)	If:
-	(a)	the responsible party has paid compensation for the damage of an amount equal to the insured amount for the launch permit or overseas launch certificate; and
-	(b)	apart from this section, the responsible party would be liable to pay further compensation to Australian nationals for the damage of an amount (the excess amount) in excess of the insured amount for the launch permit or overseas launch certificate;
-then the Commonwealth is liable to pay compensation to the Australian nationals for the damage of an amount equal to so much of the excess amount as does not exceed $3 billion.
-	(5)	The Consolidated Revenue Fund is appropriated for the purposes of payments by the Commonwealth under subsection (4).
-54  Paragraph 80(c)
-Omit “subsection 30(2)”, substitute “subsections 30(1) and (2)”.
-55  After paragraph 80(f)
-Insert:
-	(fa)	section 46B (breaching a condition of an exemption certificate);
-56  Section 85 (at the end of paragraph (b) of the definition of accident)
-Add “(other than in the circumstances prescribed by the regulations)”.
-57  Section 106
-Repeal the section, substitute:
-106  Immunity
-		A person is not subject to any liability to any person in respect of anything done, or omitted to be done, in good faith in connection with the exercise or performance of powers, functions or duties under this Act.
-58  At the end of section 110
-Add:
-	(2)	The regulations may make provision for or in relation to a matter by applying, adopting or incorporating (with or without modification) any matter contained in a written instrument or other document, as in force at a particular time or as in force from time to time.
-59  Paragraph 4 of Article XIX of Schedule 1
-Omit “pubic”, substitute “public”.
-60  Schedule 4
-Repeal the Schedule, substitute:
-Schedule 4—Agreement Governing the Activities of States on the Moon and other Celestial Bodies
-Note:	This is the copy of the Agreement referred to in paragraph (d) of the definition of UN Space Treaties in section 8 of this Act.
-  
-  
-THE STATES PARTIES TO THIS AGREEMENT,
-
-NOTING the achievements of States in the exploration and use of the moon and other celestial bodies,
-
-RECOGNIZING that the moon, as a natural satellite of the earth, has an important role to play in the exploration of outer space,
-
-DETERMINED to promote on the basis of equality the further development of co‑operation among States in the exploration and use of the moon and other celestial bodies,
-
-DESIRING to prevent the moon from becoming an area of international conflict,
-
-BEARING IN MIND the benefits which may be derived from the exploitation of the natural resources of the moon and other celestial bodies,
-
-RECALLING the Treaty on Principles Governing the Activities of States in the Exploration and Use of Outer Space, including the Moon and Other Celestial Bodies, the Agreement on the Rescue of Astronauts, the Return of Astronauts and the Return of Objects Launched into Outer Space, the Convention on International Liability for Damage Caused by Space Objects, and the Convention on Registration of Objects Launched into Outer Space,
-
-TAKING INTO ACCOUNT the need to define and develop the provisions of these international instruments in relation to the moon and other celestial bodies, having regard to further progress in the exploration and use of outer space,
-
-Have agreed on the following:
-
-Article 1
-
-1.	The provisions of this Agreement relating to the moon shall also apply to other celestial bodies within the solar system, other than the earth, except in so far as specific legal norms enter into force with respect to any of these celestial bodies.
-
-2.	For the purposes of this Agreement reference to the moon shall include orbits around or other trajectories to or around it.
-
-3.	This Agreement does not apply to extraterrestrial materials which reach the surface of the earth by natural means.
-
-Article 2
-
-All activities on the moon, including its exploration and use, shall be carried out in accordance with international law, in particular the Charter of the United Nations, and taking into account the Declaration on Principles of International Law concerning Friendly Relations and Co‑operation among States in accordance with the Charter of the United Nations, adopted by the General Assembly on 24 October 1970, in the interests of maintaining international peace and security and promoting international co‑operation and mutual understanding, and with due regard to the corresponding interests of all other States Parties.
-
-Article 3
-
-1.	The moon shall be used by all States Parties exclusively for peaceful purposes.
-
-2.	Any threat or use of force or any other hostile act or threat of hostile act on the moon is prohibited. It is likewise prohibited to use the moon in order to commit any such act or to engage in any such threat in relation to the earth, the moon, spacecraft, the personnel of spacecraft or man‑made space objects.
-
-3.	States Parties shall not place in orbit around or other trajectory to or around the moon objects carrying nuclear weapons or any other kinds of weapons of mass destruction or place or use such weapons on or in the moon.
-
-4.	The establishment of military bases, installations and fortifications, the testing of any type of weapons and the conduct of military manoeuvres on the moon shall be forbidden. The use of military personnel for scientific research or for any other peaceful purposes shall not be prohibited. The use of any equipment or facility necessary for peaceful exploration and use of the moon shall also not be prohibited.
-
-Article 4
-
-1.	The exploration and use of the moon shall be the province of all mankind and shall be carried out for the benefit and in the interests of all countries, irrespective of their degree of economic or scientific development. Due regard shall be paid to the interests of present and future generations as well as to the need to promote higher standards of living and conditions of economic and social progress and development in accordance with the Charter of the United Nations.
-
-2.	States Parties shall be guided by the principle of co‑operation and mutual assistance in all their activities concerning the exploration and use of the moon. International co‑operation in pursuance of this Agreement should be as wide as possible and may take place on a multilateral basis, on a bilateral basis or through international intergovernmental organizations.
-
-Article 5
-
-1.	States Parties shall inform the Secretary‑General of the United Nations as well as the public and the international scientific community, to the greatest extent feasible and practicable, of their activities concerned with the exploration and use of the moon. Information on the time, purposes, locations, orbital parameters and duration shall be given in respect of each mission to the moon as soon as possible after launching, while information on the results of each mission, including scientific results, shall be furnished upon completion of the mission. In the case of a mission lasting more than sixty days, information on conduct of the mission, including any scientific results, shall be given periodically at thirty days’ intervals. For missions lasting more than six months, only significant additions to such information need be reported thereafter.
-
-2.	If a State Party becomes aware that another State Party plans to operate simultaneously in the same area of or in the same orbit around or trajectory to or around the moon, it shall promptly inform the other State of the timing of and plans for its own operations.
-
-3.	In carrying out activities under this Agreement, States Parties shall promptly inform the Secretary‑General, as well as the public and the international scientific community, of any phenomena they discover in outer space, including the moon, which could endanger human life or health, as well as of any indication of organic life.
-
-Article 6
-
-1.	There shall be freedom of scientific investigation on the moon by all States Parties without discrimination of any kind, on the basis of equality and in accordance with international law.
-
-2.	In carrying out scientific investigations and in furtherance of the provisions of this Agreement, the States Parties shall have the right to collect on and remove from the moon samples of its mineral and other substances. Such samples shall remain at the disposal of those States Parties which caused them to be collected and may be used by them for scientific purposes. States Parties shall have regard to the desirability of making a portion of such samples available to other interested States Parties and the international scientific community for scientific investigation. States Parties may in the course of scientific investigations also use mineral and other substances of the moon in quantities appropriate for the support of their missions.
-
-3.	States Parties agree on the desirability of exchanging scientific and other personnel on expeditions to or installations on the moon to the greatest extent feasible and practicable.
-
-Article 7
-
-1.	In exploring and using the moon, States Parties shall take measures to prevent the disruption of the existing balance of its environment whether by introducing adverse changes in that environment, by its harmful contamination through the introduction of extra‑environmental matter or otherwise. States Parties shall also take measures to avoid harmfully affecting the environment of the earth through the introduction of extraterrestrial matter or otherwise.
-
-2.	States Parties shall inform the Secretary‑General of the United Nations of the measures being adopted by them in accordance with paragraph 1 of this article and shall also, to the maximum extent feasible, notify him in advance of all placements by them of radio‑active materials on the moon and of the purposes of such placements.
-
-3.	States Parties shall report to other States Parties and to the Secretary‑General concerning areas of the moon having special scientific interest in order that, without prejudice to the rights of other States Parties, consideration may be given to the designation of such areas as international scientific preserves for which special protective arrangements are to be agreed upon in consultation with the competent bodies of the United Nations.
-
-Article 8
-
-1.	States Parties may pursue their activities in the exploration and use of the moon anywhere on or below its surface, subject to the provisions of this Agreement.
-
-2.	For these purposes States Parties may, in particular:
-
-(a)	Land their space objects on the moon and launch them from the moon;
-
-(b)	Place their personnel, space vehicles, equipment, facilities, stations and installations anywhere on or below the surface of the moon.
-Personnel, space vehicles, equipment, facilities, stations and installations may move or be moved freely over or below the surface of the moon.
-
-3.	Activities of States Parties in accordance with paragraphs 1 and 2 of this article shall not interfere with the activities of other States Parties on the moon. Where such interference may occur, the States Parties concerned shall undertake consultations in accordance with article 15, paragraphs 2 and 3 of this Agreement.
-
-Article 9
-
-1.	States Parties may establish manned and unmanned stations on the moon. A State Party establishing a station shall use only that area which is required for the needs of the station and shall immediately inform the Secretary‑General of the United Nations of the location and purposes of that station. Subsequently, at annual intervals that State shall likewise inform the Secretary‑General whether the station continues in use and whether its purposes have changed.
-
-2.	Stations shall be installed in such a manner that they do not impede the free access to all areas of the moon by personnel, vehicles and equipment of other States Parties conducting activities on the moon in accordance with the provisions of this Agreement or of article I of the Treaty on Principles Governing the Activities of States in the Exploration and Use of Outer Space, including the Moon and Other Celestial Bodies.
-
-Article 10
-
-1.	States Parties shall adopt all practicable measures to safeguard the life and health of persons on the moon. For this purpose they shall regard any person on the moon as an astronaut within the meaning of article V of the Treaty on Principles Governing the Activities of States in the Exploration and Use of Outer Space, including the Moon and Other Celestial Bodies and as part of the personnel of a spacecraft within the meaning of the Agreement on the Rescue of Astronauts, the Return of Astronauts and the Return of Objects Launched into Outer Space.
-
-2.	States Parties shall offer shelter in their stations, installations, vehicles and other facilities to persons in distress on the moon.
-
-Article 11
-
-1.	The moon and its natural resources are the common heritage of mankind, which finds its expression in the provisions of this Agreement and in particular in paragraph 5 of this article.
-
-2.	The moon is not subject to national appropriation by any claim of sovereignty, by means of use or occupation, or by any other means.
-
-3.	Neither the surface nor the subsurface of the moon, nor any part thereof or natural resources in place, shall become the property of any State, international intergovernmental or non‑governmental organization, national organization or non‑governmental entity or of any natural person. The placement of personnel, space vehicles, equipment, facilities, stations and installations on or below the surface of the moon, including structures connected with its surface or subsurface, shall not create a right of ownership over the surface or the subsurface of the moon or any areas thereof. The foregoing provisions are without prejudice to the international regime referred to in paragraph 5 of this article.
-
-4.	States Parties have the right to exploration and use of the moon without discrimination of any kind, on the basis of equality and in accordance with international law and the terms of this Agreement.
-
-5.	States Parties to this Agreement hereby undertake to establish an international regime, including appropriate procedures, to govern the exploitation of the natural resources of the moon as such exploitation is about to become feasible. This provision shall be implemented in accordance with article 18 of this Agreement.
-
-6.	In order to facilitate the establishment of the international regime referred to in paragraph 5 of this article, States Parties shall inform the Secretary‑General of the United Nations as well as the public and the international scientific community, to the greatest extent feasible and practicable, of any natural resources they may discover on the moon.
-
-7.	The main purposes of the international regime to be established shall include:
-
-(a)	The orderly and safe development of the natural resources of the moon;
-
-(b)	The rational management of those resources;
-
-(c)	The expansion of opportunities in the use of those resources;
-
-(d)	An equitable sharing by all States Parties in the benefits derived from those resources, whereby the interests and needs of the developing countries, as well as the efforts of those countries which have contributed either directly or indirectly to the exploration of the moon, shall be given special consideration.
-
-8.	All the activities with respect to the natural resources of the moon shall be carried out in a manner compatible with the purposes specified in paragraph 7 of this article and the provisions of article 6, paragraph 2, of this Agreement.
-
-Article 12
-
-1.	States Parties shall retain jurisdiction and control over their personnel, vehicles, equipment, facilities, stations and installations on the moon. The ownership of space vehicles, equipment, facilities, stations and installations shall not be affected by their presence on the moon.
-
-2.	Vehicles, installations and equipment or their component parts found in places other than their intended location shall be dealt with in accordance with article 5 of the Agreement on Rescue of Astronauts, the Return of Astronauts and the Return of Objects Launched into Outer Space.
-
-3.	In the event of an emergency involving a threat to human life, States Parties may use the equipment, vehicles, installations, facilities or supplies of other States Parties on the moon. Prompt notification of such use shall be made to the Secretary‑General of the United Nations or the State Party concerned.
-
-Article 13
-
-A State Party which learns of the crash landing, forced landing or other unintended landing on the moon of a space object, or its component parts, that were not launched by it, shall promptly inform the launching State Party and the Secretary‑General of the United Nations.
-
-Article 14
-
-1.	States Parties to this Agreement shall bear international responsibility for national activities on the moon, whether such activities are carried on by governmental agencies or by non‑governmental entities, and for assuring that national activities are carried out in conformity with the provisions set forth in this Agreement. States Parties shall ensure that non‑governmental entities under their jurisdiction shall engage in activities on the moon only under the authority and continuing supervision of the appropriate State Party.
-
-2.	States Parties recognize that detailed arrangements concerning liability for damage caused on the moon, in addition to the provisions of the Treaty on Principles Governing the Activities of States in the Exploration and Use of Outer Space, including the Moon and Other Celestial Bodies and the Convention on International Liability for Damage Caused by Space Objects, may become necessary as a result of more extensive activities on the moon. Any such arrangements shall be elaborated in accordance with the procedure provided for in article 18 of this Agreement.
-
-Article 15
-
-1.	Each State Party may assure itself that the activities of other States Parties in the exploration and use of the moon are compatible with the provisions of this Agreement. To this end, all space vehicles, equipment, facilities, stations and installations on the moon shall be open to other States Parties. Such States Parties shall give reasonable advance notice of a projected visit, in order that appropriate consultations may be held and that maximum precautions may be taken to assure safety and to avoid interference with normal operations in the facility to be visited. In pursuance of this article, any State Party may act on its own behalf or with the full or partial assistance of any other State Party or through appropriate international procedures within the framework of the United Nations and in accordance with the Charter.
-
-2.	A State Party which has reason to believe that another State Party is not fulfilling the obligations incumbent upon it pursuant to this Agreement or that another State Party is interfering with the rights which the former State has under this Agreement may request consultations with that State Party. A State Party receiving such a request shall enter into such consultations without delay. Any other State Party which requests to do so shall be entitled to take part in the consultations. Each State Party participating in such consultations shall seek a mutually acceptable resolution of any controversy and shall bear in mind the rights and interests of all States Parties. The Secretary‑General of the United Nations shall be informed of the results of the consultations and shall transmit the information received to all States Parties concerned.
-
-3.	If the consultations do not lead to a mutually acceptable settlement which has due regard for the rights and interests of all States Parties, the parties concerned shall take all measures to settle the dispute by other peaceful means of their choice appropriate to the circumstances and the nature of the dispute. If difficulties arise in connexion with the opening of consultations or if consultations do not lead to a mutually acceptable settlement, any State Party may seek the assistance of the Secretary‑General, without seeking the consent of any other State Party concerned, in order to resolve the controversy. A State Party which does not maintain diplomatic relations with another State Party concerned shall participate in such consultations, at its choice, either itself or through another State Party or the Secretary‑General as intermediary.
-
-Article 16
-
-With the exception of articles 17 to 21, references in this Agreement to States shall be deemed to apply to any international intergovernmental organization which conducts space activities if the organization declares its acceptance of the rights and obligations provided for in this Agreement and if a majority of the States members of the organization are States Parties to this Agreement and to the Treaty on Principles Governing the Activities of States in the Exploration and Use of Outer Space, including the Moon and Other Celestial Bodies. States members of any such organization which are States Parties to this Agreement shall take all appropriate steps to ensure that the organization makes a declaration in accordance with the foregoing.
-
-Article 17
-
-Any State Party to this Agreement may propose amendments to the Agreement. Amendments shall enter into force for each State Party to the Agreement accepting the amendments upon their acceptance by a majority of the States Parties to the Agreement and thereafter for each remaining State Party to the Agreement on the date of acceptance by it.
-
-Article 18
-
-Ten years after the entry into force of this Agreement, the question of the review of the Agreement shall be included in the provisional agenda of the General Assembly of the United Nations in order to consider, in the light of past application of the Agreement, whether it requires revision. However, at any time after the Agreement has been in force for five years, the Secretary‑General of the United Nations, as depository, shall, at the request of one third of the States Parties to the Agreement and with the concurrence of the majority of the States Parties, convene a conference of the States Parties to review this Agreement. A review conference shall also consider the question of the implementation of the provisions of article 11, paragraph 5, on the basis of the principle referred to in paragraph 1 of that article and taking into account in particular any relevant technological developments.
-
-Article 19
-
-1.	This Agreement shall be open for signature by all States at United Nations Headquarters in New York.
-
-2.	This agreement shall be subject to ratification by signatory States. Any State which does not sign this Agreement before its entry into force in accordance with paragraph 3 of this article may accede to it at any time. Instruments of ratification or accession shall be deposited with the Secretary‑General of the United Nations.
-
-3.	This Agreement shall enter into force on the thirtieth day following the date of deposit of the fifth instrument of ratification.
-
-4.	For each State depositing its instrument of ratification or accession after the entry into force of this Agreement, it shall enter into force on the thirtieth day following the date of deposit of any such instrument.
-
-5.	The Secretary‑General shall promptly inform all signatory and acceding States of the date of each signature, the date of deposit of each instrument of ratification or accession to this Agreement, the date of its entry into force and other notices.
-
-Article 20
-
-Any State Party to this Agreement may give notice of its withdrawal from the Agreement one year after its entry into force by written notification to the Secretary‑General of the United Nations. Such withdrawal shall take effect one year from the date of receipt of this notification.
-
-Article 21
-
-The original of this Agreement, of which the Arabic, Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited with the Secretary‑General of the United Nations, who shall send certified copies thereof to all signatory and acceding States.
-
-
-IN WITNESS WHEREOF the undersigned, being duly authorized thereto by their respective Governments, have signed this Agreement, opened for signature at New York on 18 December 1979.
-
-[Signatures omitted]
-61  Before Article 1 of Schedule 5
-Omit “rendering of a”, substitute “rendering of all”.
-62  Article 3 of Schedule 5
-Omit “if necessary”, substitute “if necessary,”.
-As at 21 November 2002 the amendments are not incorporated in this compilation.
 
