@@ -1,280 +1,282 @@
-![](http://www.comlaw.gov.au/Details/C2010C00834/Html/CFMSale96_WD02HYP_image001.gif)
+<?xml:namespace prefix = v ns = "urn:schemas-microsoft-com:vml" /><v:shapetype id="_x0000_t75" coordsize="21600,21600" o:preferrelative="t" o:spt="75" filled="f" stroked="f" path=" m@4@5 l@4@11@9@11@9@5 xe"><v:stroke joinstyle="miter"></v:stroke><v:formulas><v:f eqn="if lineDrawn pixelLineWidth 0 "></v:f><v:f eqn="sum @0 1 0 "></v:f><v:f eqn="sum 0 0 @1 "></v:f><v:f eqn="prod @2 1 2 "></v:f><v:f eqn="prod @3 21600 pixelWidth "></v:f><v:f eqn="prod @3 21600 pixelHeight "></v:f><v:f eqn="sum @0 0 1 "></v:f><v:f eqn="prod @6 1 2 "></v:f><v:f eqn="prod @7 21600 pixelWidth "></v:f><v:f eqn="sum @8 21600 0 "></v:f><v:f eqn="prod @7 21600 pixelHeight "></v:f><v:f eqn="sum @10 21600 0 "></v:f></v:formulas><v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"></v:path><o:lock aspectratio="t" v:ext="edit"></o:lock></v:shapetype><v:shape id="_x0000_i1025" style="WIDTH: 114pt; HEIGHT: 84pt" type="#_x0000_t75" coordsize="21600,21600" fillcolor="winColor(17)"><v:imagedata o:title="" src="90A417032B45EE7BCA256FB70023CBFD/$FILE/image001.png"></v:imagedata></v:shape>
 
 # CFM Sale Act 1996
 
-**Act No. 58 of 1996 as amended**
+**Act No. 58 of 1996 as amended**
 
-This compilation was prepared on 21 December 2010
- taking into account amendments up to Act No. 148 of 2010
+This compilation was prepared on 1 March 2005
+taking into account amendments up to Act No. 8 of 2005
 
 The text of any of those amendments not in force
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section<o:p></o:p>
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, <?xml:namespace prefix = st1 ns = "urn:schemas-microsoft-com:office:smarttags" /><st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Canberra</st1:place></st1:city>
+
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary<span style="mso-tab-count: 1">                                                                                                               </span>**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]<span style="mso-tab-count: 1 dotted">                                                                        </span>
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]<span style="mso-tab-count: 1 dotted">                                                               </span>
 
-[3](#3).            Definitions
+[3](#3).            Definitions<span style="mso-tab-count: 1 dotted">                                                                                           </span>
 
-[4](#4).            Schedule(s)
+[4](#4).            Schedule(s)<span style="mso-tab-count: 1 dotted">                                                                                           </span>
 
-**Part 2—Transfer of CFM subsidiaries to the Commonwealth**
+**Part 2—Transfer of CFM subsidiaries to the Commonwealth<span style="mso-tab-count: 1">                      </span>**
 
-[5](#5).            What this Part is about
+[5](#5).            What this Part is about<span style="mso-tab-count: 1 dotted">                                                                        </span>
 
-    **Division 1—Subsidiaries**
+    **Division 1—Subsidiaries<span style="mso-tab-count: 1">                                                                                             </span>**
 
-[6](#6).            Subsidiaries to be established
+[6](#6).            Subsidiaries to be established<span style="mso-tab-count: 1 dotted">                                                              </span>
 
-[7](#7).            CFM to transfer shares in subsidiaries to the Commonwealth
+[7](#7).            CFM to transfer shares in subsidiaries to the Commonwealth<span style="mso-tab-count: 1 dotted">           </span>
 
-[8](#8).            Exemption from stamp duty and other taxes
+[8](#8).            Exemption from stamp duty and other taxes<span style="mso-tab-count: 1 dotted">                                      </span>
 
-    **Division 2—Staff**
+    **Division 2—Staff<span style="mso-tab-count: 1">                                                                                                              </span>**
 
-[9](#9).            Transfer of staff from CFM
+[9](#9).            Transfer of staff from CFM<span style="mso-tab-count: 1 dotted">                                                                </span>
 
-[10](#10).          Terms and conditions of transferred employees
+[10](#10).          Terms and conditions of transferred employees<span style="mso-tab-count: 1 dotted">                                 </span>
 
-[11](#11).          Variation of terms and conditions of employment
+[11](#11).          Variation of terms and conditions of employment<span style="mso-tab-count: 1 dotted">                              </span>
 
-[12](#12).          Statement of accrued benefits
+[12](#12).          Statement of accrued benefits<span style="mso-tab-count: 1 dotted">                                                              </span>
 
-    **Division 3—Application of the Commonwealth Funds Management Limited Act 1990**
+    **Division 3—Application of the Commonwealth Funds Management Limited Act 1990<span style="mso-tab-count: 1">              </span>**
 
-[13](#13).          Application of the _Commonwealth Funds Management Limited Act 1990_
+[13](#13).          Application of the _Commonwealth Funds Management Limited Act 1990_<span style="mso-tab-count: 1">             </span>
 
-[14](#14).          Application of section 4
+[14](#14).          Application of section 4<span style="mso-tab-count: 1 dotted">                                                                      </span>
 
-[15](#15).          Application of section 15
+[15](#15).          Application of section 15<span style="mso-tab-count: 1 dotted">                                                                    </span>
 
-[16](#16).          Application of Part 4
+[16](#16).          Application of Part 4<span style="mso-tab-count: 1 dotted">                                                                           </span>
 
-[17](#17).          Application of section 33
+[17](#17).          Application of section 33<span style="mso-tab-count: 1 dotted">                                                                    </span>
 
-[18](#18).          Application of section 34
+[18](#18).          Application of section 34<span style="mso-tab-count: 1 dotted">                                                                    </span>
 
-[19](#19).          Application of Part 8
+[19](#19).          Application of Part 8<span style="mso-tab-count: 1 dotted">                                                                           </span>
 
-    **Division 4—Application of other legislation**
+    **Division 4—Application of other legislation<span style="mso-tab-count: 1">                                                   </span>**
 
-[20](#20).          Approved authority—_Superannuation Act 1976_
+[20](#20).          Approved authority—_Superannuation Act 1976_<span style="mso-tab-count: 1 dotted">                              </span>
 
-[21](#21).          Approved authority—_Superannuation Act 1990_
+[21](#21).          Approved authority—_Superannuation Act 1990_<span style="mso-tab-count: 1 dotted">                              </span>
 
-[22](#22).          Commonwealth authority—_Safety, Rehabilitation and Compensation Act 1988_
+[22](#22).          Commonwealth authority—_Safety, Rehabilitation and Compensation Act 1988_<span style="mso-tab-count: 1">     </span>
 
-[23](#23).          Public authority of the Commonwealth—_Long Service Leave (Commonwealth Employees) Act 1976_
+[23](#23).          Public authority of the Commonwealth—_Long Service Leave (Commonwealth Employees) Act 1976_<span style="mso-tab-count: 1"> </span>
 
-**Part 3—Sale of CFM bodies**
+**Part 3—Sale of CFM bodies<span style="mso-tab-count: 1">                                                                                           </span>**
 
-[24](#24).          What this Part is about
+[24](#24).          What this Part is about<span style="mso-tab-count: 1 dotted">                                                                      </span>
 
-    **Division 1—Preliminary**
+    **Division 1—Preliminary<span style="mso-tab-count: 1">                                                                                            </span>**
 
-[25](#25).          Sale day for CFM
+[25](#25).          Sale day for CFM<span style="mso-tab-count: 1 dotted">                                                                              </span>
 
-[26](#26).          Sale day for transferred body
+[26](#26).          Sale day for transferred body<span style="mso-tab-count: 1 dotted">                                                            </span>
 
-    **Division 2—Long service leave**
+    **Division 2—Long service leave<span style="mso-tab-count: 1">                                                                            </span>**
 
-[27](#27).          What this Division is about
+[27](#27).          What this Division is about<span style="mso-tab-count: 1 dotted">                                                               </span>
 
-        **Subdivision 2A—Preliminary**
+        **Subdivision 2A—Preliminary<span style="mso-tab-count: 1">                                                                                 </span>**
 
-[28](#28).          Definitions
+[28](#28).          Definitions<span style="mso-tab-count: 1 dotted">                                                                                         </span>
 
-[29](#29).          References to Long Service Leave Act
+[29](#29).          References to Long Service Leave Act<span style="mso-tab-count: 1 dotted">                                               </span>
 
-[30](#30).          Division not to affect an employee’s post-sale long service leave rights
+[30](#30).          Division not to affect an employee’s post-sale long service leave rights<span style="mso-tab-count: 1">                </span>
 
-        **Subdivision 2B—Long service leave for employees who attain at least 10 years service**
+        **Subdivision 2B—Long service leave for employees who attain at least 10 years service<span style="mso-tab-count: 1">  </span>**
 
-[31](#31).          What this Subdivision is about
+[31](#31).          What this Subdivision is about<span style="mso-tab-count: 1 dotted">                                                          </span>
 
-[32](#32).          Employees who attain 10 years service
+[32](#32).          Employees who attain 10 years service<span style="mso-tab-count: 1 dotted">                                            </span>
 
-[33](#33).          Employees reaching minimum retiring age or being retrenched
+[33](#33).          Employees reaching minimum retiring age or being retrenched<span style="mso-tab-count: 1 dotted">         </span>
 
-[34](#34).          Rate of salary
+[34](#34).          Rate of salary<span style="mso-tab-count: 1 dotted">                                                                                     </span>
 
-        **Subdivision 2C—Payments in lieu of long service leave**
+        **Subdivision 2C—Payments in lieu of long service leave<span style="mso-tab-count: 1">                                   </span>**
 
-[35](#35).          What this Subdivision is about
+[35](#35).          What this Subdivision is about<span style="mso-tab-count: 1 dotted">                                                          </span>
 
-[36](#36).          Employees who attain 10 years service
+[36](#36).          Employees who attain 10 years service<span style="mso-tab-count: 1 dotted">                                            </span>
 
-[37](#37).          Employees reaching minimum retiring age or being retrenched
+[37](#37).          Employees reaching minimum retiring age or being retrenched<span style="mso-tab-count: 1 dotted">         </span>
 
-[38](#38).          Employee stops employment because of ill-health
+[38](#38).          Employee stops employment because of ill-health<span style="mso-tab-count: 1 dotted">                           </span>
 
-[39](#39).          Employee may request non-payment or reduced payment
+[39](#39).          Employee may request non-payment or reduced payment<span style="mso-tab-count: 1 dotted">              </span>
 
-[40](#40).          Rate of salary
+[40](#40).          Rate of salary<span style="mso-tab-count: 1 dotted">                                                                                     </span>
 
-        **Subdivision 2D—Payments on the death of an employee**
+        **Subdivision 2D—Payments on the death of an employee<span style="mso-tab-count: 1">                                   </span>**
 
-[41](#41).          What this Subdivision is about
+[41](#41).          What this Subdivision is about<span style="mso-tab-count: 1 dotted">                                                          </span>
 
-[42](#42).          Payments on death of an employee
+[42](#42).          Payments on death of an employee<span style="mso-tab-count: 1 dotted">                                                   </span>
 
-        **Subdivision 2E—Long service leave credit**
+        **Subdivision 2E—Long service leave credit<span style="mso-tab-count: 1">                                                           </span>**
 
-[43](#43).          Employee’s long service leave credit for the purposes of Subdivisions 2B and 2C
+[43](#43).          Employee’s long service leave credit for the purposes of Subdivisions 2B and 2C<span style="mso-tab-count: 1">                </span>
 
-        **Subdivision 2F—Saving: Long Service Leave Act**
+        **Subdivision 2F—Saving: Long Service Leave Act<span style="mso-tab-count: 1">                                              </span>**
 
-[44](#44).          Saving—Accrued rights under the Long Service Leave Act
+[44](#44).          Saving—Accrued rights under the Long Service Leave Act<span style="mso-tab-count: 1 dotted">               </span>
 
-    **Division 3—Superannuation**
+    **Division 3—Superannuation<span style="mso-tab-count: 1">                                                                                    </span>**
 
-[45](#45).          What this Division is about
+[45](#45).          What this Division is about<span style="mso-tab-count: 1 dotted">                                                               </span>
 
-[46](#46).          Deferred benefits under the _Defence Force Retirement and Death Benefits Act 1973_
+[46](#46).          Deferred benefits under the _Defence Force Retirement and Death Benefits Act 1973_<span style="mso-tab-count: 1">              </span>
 
-[47](#47).          Period of eligible employment for the purposes of Division 3 of Part IX of the _Defence Force Retirement and Death Benefits Act 1973_
+[47](#47).          Period of eligible employment for the purposes of Division 3 of Part IX of the _Defence Force Retirement and Death Benefits Act 1973_<span style="mso-tab-count: 1 dotted">                                                                                </span>
 
-[48](#48).          Continuing application of the _Crimes (Superannuation Benefits) Act 1989_
+[48](#48).          Continuing application of the _Crimes (Superannuation Benefits) Act 1989_<span style="mso-tab-count: 1">            </span>
 
-    **Division 4—Safety, Rehabilitation and Compensation Act 1988**
+    **Division 4—Safety, Rehabilitation and Compensation Act 1988<span style="mso-tab-count: 1">         </span>**
 
-[49](#49).          What this Division is about
+[49](#49).          What this Division is about<span style="mso-tab-count: 1 dotted">                                                               </span>
 
-[50](#50).          Definitions
+[50](#50).          Definitions<span style="mso-tab-count: 1 dotted">                                                                                         </span>
 
-[51](#51).          Continued application of the _Safety, Rehabilitation and Compensation Act 1988_
+[51](#51).          Continued application of the _Safety, Rehabilitation and Compensation Act 1988_<span style="mso-tab-count: 1">   </span>
 
-[52](#52).          Continued application to certain employees
+[52](#52).          Continued application to certain employees<span style="mso-tab-count: 1 dotted">                                     </span>
 
-[53](#53).          Transitional provisions relating to Division 4A of Part VII
+[53](#53).          Transitional provisions relating to Division 4A of Part VII<span style="mso-tab-count: 1 dotted">              </span>
 
-[54](#54).          Relevant employer and co-operation with the Commonwealth
+[54](#54).          Relevant employer and co-operation with the Commonwealth<span style="mso-tab-count: 1 dotted">        </span>
 
-[55](#55).          Notification of amount of salary paid to employees of a CFM body
+[55](#55).          Notification of amount of salary paid to employees of a CFM body<span style="mso-tab-count: 1 dotted"> </span>
 
-    **Division 5—Occupational Health and Safety (Commonwealth Employment) Act 1991**
+    **Division 5—Occupational Health and Safety (Commonwealth Employment) Act 1991<span style="mso-tab-count: 1">                </span>**
 
-[56](#56).          Refund of contribution paid under the _Occupational Health and Safety (Commonwealth Employment) Act 1991_
+[56](#56).          Refund of contribution paid under the _Occupational Health and Safety (Commonwealth Employment) Act 1991_<span style="mso-tab-count: 1"> </span>
 
-    **Division 6—Mobility rights**
+    **Division 6—Mobility rights<span style="mso-tab-count: 1">                                                                                     </span>**
 
-[57](#57).          Cessation of mobility rights
+[57](#57).          Cessation of mobility rights<span style="mso-tab-count: 1 dotted">                                                              </span>
 
-    **Division 7—Prosecutions**
+    **Division 7—Prosecutions<span style="mso-tab-count: 1">                                                                                         </span>**
 
-[58](#58).          Continuing application of the _Director of Public Prosecutions Act 1983_
+[58](#58).          Continuing application of the _Director of Public Prosecutions Act 1983_<span style="mso-tab-count: 1">                </span>
 
-    **Division 8—Imputation**
+    **Division 8—Imputation<span style="mso-tab-count: 1">                                                                                              </span>**
 
-[59](#59).          Franking account surpluses reduced to nil
+[59](#59).          Franking account surpluses reduced to nil<span style="mso-tab-count: 1 dotted">                                         </span>
 
-    **Division 9—Miscellaneous**
+    **Division 9—Miscellaneous<span style="mso-tab-count: 1">                                                                                      </span>**
 
-[60](#60).          CFM body not to be an agency of the Commonwealth etc 
+[60](#60).          CFM body not to be an agency of the Commonwealth etc <span style="mso-tab-count: 1 dotted">             </span>
 
-[61](#61).          Regulations connected with the sale of a CFM body
+[61](#61).          Regulations connected with the sale of a CFM body<span style="mso-tab-count: 1 dotted">                        </span>
 
-[62](#62).          Certain provisions of the _Commonwealth Funds Management Limited Act 1990_ cease to apply to CFM bodies
+[62](#62).          Certain provisions of the _Commonwealth Funds Management Limited Act 1990_ cease to apply to CFM bodies<span style="mso-tab-count: 1"> </span>
 
-**Part 4—Transfer of assets, liabilities, rights and obligations of CFM bodies**
+**Part 4—Transfer of assets, liabilities, rights and obligations of CFM bodies<span style="mso-tab-count: 1">          </span>**
 
-[63](#63).          What this Part is about
+[63](#63).          What this Part is about<span style="mso-tab-count: 1 dotted">                                                                      </span>
 
-    **Division 1—Preliminary**
+    **Division 1—Preliminary<span style="mso-tab-count: 1">                                                                                            </span>**
 
-[64](#64).          Definitions
+[64](#64).          Definitions<span style="mso-tab-count: 1 dotted">                                                                                         </span>
 
-    **Division 2—Transfer of assets**
+    **Division 2—Transfer of assets<span style="mso-tab-count: 1">                                                                              </span>**
 
-[65](#65).          Transfer of assets
+[65](#65).          Transfer of assets<span style="mso-tab-count: 1 dotted">                                                                              </span>
 
-[66](#66).          References to CFM body in instruments relating to transferred assets
+[66](#66).          References to CFM body in instruments relating to transferred assets<span style="mso-tab-count: 1">  </span>
 
-[67](#67).          Transferees are successors in law of CFM body
+[67](#67).          Transferees are successors in law of CFM body<span style="mso-tab-count: 1 dotted">                              </span>
 
-    **Division 3—Transfer of rights and obligations**
+    **Division 3—Transfer of rights and obligations<span style="mso-tab-count: 1">                                             </span>**
 
-[68](#68).          Transfer of rights and obligations
+[68](#68).          Transfer of rights and obligations<span style="mso-tab-count: 1 dotted">                                                      </span>
 
-[69](#69).          References to CFM body in instruments relating to transferred rights and obligations
+[69](#69).          References to CFM body in instruments relating to transferred rights and obligations<span style="mso-tab-count: 1">          </span>
 
-[70](#70).          Transferees are successors in law of CFM body
+[70](#70).          Transferees are successors in law of CFM body<span style="mso-tab-count: 1 dotted">                              </span>
 
-    **Division 4—Transfer of liabilities**
+    **Division 4—Transfer of liabilities<span style="mso-tab-count: 1">                                                                        </span>**
 
-[71](#71).          Transfer of liabilities
+[71](#71).          Transfer of liabilities<span style="mso-tab-count: 1 dotted">                                                                          </span>
 
-[72](#72).          References to CFM body in instruments relating to transferred liabilities
+[72](#72).          References to CFM body in instruments relating to transferred liabilities<span style="mso-tab-count: 1">              </span>
 
-[73](#73).          Transferees are successors in law of CFM body
+[73](#73).          Transferees are successors in law of CFM body<span style="mso-tab-count: 1 dotted">                              </span>
 
-    **Division 5—Tax exemption and income tax treatment**
+    **Division 5—Tax exemption and income tax treatment<span style="mso-tab-count: 1">                            </span>**
 
-[74](#74).          Exemption from stamp duty and other taxes
+[74](#74).          Exemption from stamp duty and other taxes<span style="mso-tab-count: 1 dotted">                                    </span>
 
-[75](#75).          Application of the _Income Tax Assessment Act 1936_ in relation to certain transfers
+[75](#75).          Application of the _Income Tax Assessment Act 1936_ in relation to certain transfers<span style="mso-tab-count: 1">              </span>
 
-    **Division 6—Miscellaneous**
+    **Division 6—Miscellaneous<span style="mso-tab-count: 1">                                                                                      </span>**
 
-[76](#76).          Transfers of CFM land may be registered
+[76](#76).          Transfers of CFM land may be registered<span style="mso-tab-count: 1 dotted">                                         </span>
 
-[77](#77).          _Lands Acquisition Act 1989_ does not apply to this Part
+[77](#77).          _Lands Acquisition Act 1989_ does not apply to this Part<span style="mso-tab-count: 1 dotted">                   </span>
 
-[78](#78).          Certificates in relation to assets other than land
+[78](#78).          Certificates in relation to assets other than land<span style="mso-tab-count: 1 dotted">                                </span>
 
-**Part 5—Miscellaneous**
+**Part 5—Miscellaneous<span style="mso-tab-count: 1">                                                                                                       </span>**
 
-[79](#79).          Compensation—constitutional safety net
+[79](#79).          Compensation—constitutional safety net<span style="mso-tab-count: 1 dotted">                                         </span>
 
-[80](#80).          Operation of this Act does not place a person in breach of contract etc 
+[80](#80).          Operation of this Act does not place a person in breach of contract etc <span style="mso-tab-count: 1">                </span>
 
-[81](#81).          Commonwealth records
+[81](#81).          Commonwealth records<span style="mso-tab-count: 1 dotted">                                                                     </span>
 
-[82](#82).          Regulations
+[82](#82).          Regulations<span style="mso-tab-count: 1 dotted">                                                                                        </span>
 
-**Schedule 1—Amendment of the Commonwealth Funds Management Limited Act 1990** 
+**Schedule 1—Amendment of the Commonwealth Funds Management Limited Act 1990<span style="mso-tab-count: 1">  </span>** 
 
-**Schedule 2—Amendment of other Acts** 
+**Schedule 2—Amendment of other Acts<span style="mso-tab-count: 1">                                                                    </span>**
 
-Legislative Instruments Act 1996                                                                           46
+Legislative Instruments Act 1996<span style="mso-tab-count: 1">                                                                           </span>47<o:p></o:p>
 
-**Notes** 
+**Notes<span style="mso-tab-count: 1">                                                                                                                                            </span>** 
+
 
 ## An Act relating to the sale of Commonwealth Funds Management Limited, and for related purposes
 
-## Part 1—Preliminary
+## Part 1—Preliminary
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
+##### <a id="1"></a>1  Short title <span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt; mso-bidi-font-size: 13.0pt">[_see_ Note 1]</span>
 
                    This Act may be cited as the _CFM Sale Act 1996_.
 
-##### <a id="2"></a>2  Commencement [_see_ Note 1]
+##### <a id="2"></a>2  Commencement <span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt; mso-bidi-font-size: 13.0pt">[_see_ Note 1]</span>
 
              (1)  Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-             (2)  Items 3 and 4 of Schedule 1 are taken to have commenced immediately after the commencement of Part 2 of the _Commonwealth Funds Management Limited Act 1990_.
+             (2)  Items 3 and 4 of Schedule 1 are taken to have commenced immediately after the commencement of Part 2 of the _Commonwealth Funds Management Limited Act 1990_.
 
-             (3)  Subject to subsection (4), items 1, 2, 5, 6, 7, 8, 9 and 11 of Schedule 1 commence on a day or days to be fixed by Proclamation.
+             (3)  Subject to subsection (4), items 1, 2, 5, 6, 7, 8, 9 and 11 of Schedule 1 commence on a day or days to be fixed by Proclamation.
 
-             (4)  If an item of Schedule 1 does not commence under subsection (3) within the period of 6 months beginning on the day on which this Act receives the Royal Assent, it commences on the first day after the end of that period.
+             (4)  If an item of Schedule 1 does not commence under subsection (3) within the period of 6 months beginning on the day on which this Act receives the Royal Assent, it commences on the first day after the end of that period.
 
-             (5)  If this Act commences before the commencement of the _Legislative Instruments Act 1996_, item 1 of Schedule 2 commences immediately after the commencement of the _Legislative Instruments Act 1996_.
+             (5)  If this Act commences before the commencement of the _Legislative Instruments Act 1996_, item 1 of Schedule 2 commences immediately after the commencement of the _Legislative Instruments Act 1996_.
 
 ##### <a id="3"></a>3  Definitions
 
              (1)  In this Act, unless the contrary intention appears:
 
-                    <a name="cfm"></a>**_CFM_** means the body corporate known before the day declared under section 25 as Commonwealth Funds Management Limited:
+                    <a name="cfm"></a>**_CFM_** means the body corporate known before the day declared under section 25 as Commonwealth Funds Management Limited:
 
                      (a)  by whatever name called from time to time; and
 
@@ -292,19 +294,19 @@ Legislative Instruments Act 1996                
 
                     <a name="sale-dai"></a>**_sale day_** means:
 
-                     (a)  in relation to CFM—the day declared under section 25 to be the sale day for CFM; or
+                     (a)  in relation to CFM—the day declared under section 25 to be the sale day for CFM; or
 
-                     (b)  in relation to a transferred body—the day declared under section 26 to be the sale day for that body.
+                     (b)  in relation to a transferred body—the day declared under section 26 to be the sale day for that body.
 
                     <a name=""></a><a name="share"></a>**_share_**, in relation to a body corporate, means a share in the body’s share capital.
 
-                    <a name="subsidiari"></a>**_subsidiary_** has the meaning given by subsection (2).
+                    <a name="subsidiari"></a>**_subsidiary_** has the meaning given by subsection (2).
 
-                    <a name="transfer-bodi"></a>**_transferred body_** means a body corporate that was a CFM subsidiary all of the shares in which were transferred by CFM to the Commonwealth in accordance with the Minister’s direction under section 7.
+                    <a name="transfer-bodi"></a>**_transferred body_** means a body corporate that was a CFM subsidiary all of the shares in which were transferred by CFM to the Commonwealth in accordance with the Minister’s direction under section 7.
 
-                    <a name="transfer-employe"></a>**_transferred employee_** means a person whose employment is transferred in accordance with a declaration under section 9.
+                    <a name="transfer-employe"></a>**_transferred employee_** means a person whose employment is transferred in accordance with a declaration under section 9.
 
-                    <a name="transfer-time"></a>**_transfer time_**, in relation to an employee, has the meaning given by section 9.
+                    <a name="transfer-time"></a>**_transfer time_**, in relation to an employee, has the meaning given by section 9.
 
                     <a name="vote-share"></a>**_voting share_** has the same meaning as in the _Corporations Act 2001_.
 
@@ -314,19 +316,19 @@ Legislative Instruments Act 1996                
 
 ##### <a id="4"></a>4  Schedule(s)
 
-                   Subject to section 2, each Act that is specified in a Schedule to this Act is amended or repealed as set out in the applicable items in the Schedule concerned, and any other item in a Schedule to this Act has effect according to its terms.
+                   Subject to section 2, each Act that is specified in a Schedule to this Act is amended or repealed as set out in the applicable items in the Schedule concerned, and any other item in a Schedule to this Act has effect according to its terms.
 
-## Part 2—Transfer of CFM subsidiaries to the Commonwealth
+<o:p> </o:p>
+
+## Part 2—Transfer of CFM subsidiaries to the Commonwealth
 
 ##### <a id="5"></a>5  What this Part is about
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid; mso-border-alt: solid windowtext .75pt">
 
-This Part is about the transfer of CFM subsidiaries from CFM to the Commonwealth so that they may be sold under Part 3.
+This Part is about the transfer of CFM subsidiaries from CFM to the Commonwealth so that they may be sold under Part 3.</div>
 
-* * *
-
-### Division 1—Subsidiaries
+### Division 1—Subsidiaries
 
 ##### <a id="6"></a>6  Subsidiaries to be established
 
@@ -344,7 +346,9 @@ This Part is about the transfer of CFM subsidiaries from CFM to the Commonwealth
 
                      (b)  anything done (including a transaction entered into or an instrument or document made, executed, lodged or given) because of, or for a purpose connected with or arising out of, the transfer.
 
-### Division 2—Staff
+<o:p> </o:p>
+
+### Division 2—Staff
 
 ##### <a id="9"></a>9  Transfer of staff from CFM
 
@@ -390,33 +394,35 @@ This Part is about the transfer of CFM subsidiaries from CFM to the Commonwealth
 
 ##### <a id="12"></a>12  Statement of accrued benefits
 
-             (1)  Before the employment of an employee of CFM is transferred under section 9, CFM must give the employee a written statement setting out the particulars of the benefits to which the employee has accrued an entitlement.
+             (1)  Before the employment of an employee of CFM is transferred under section 9, CFM must give the employee a written statement setting out the particulars of the benefits to which the employee has accrued an entitlement.
 
              (2)  In any proceedings relating to paragraph 9(1)(b), the statement is prima facie evidence of the matters set out in the statement.
 
-             (3)  A failure by CFM to comply with subsection (1) does not affect the validity of the transfer of the employment of the employee.
+             (3)  A failure by CFM to comply with subsection (1) does not affect the validity of the transfer of the employment of the employee.
 
-### Division 3—Application of the Commonwealth Funds Management Limited Act 1990
+<o:p> </o:p>
+
+### Division 3—Application of the Commonwealth Funds Management Limited Act 1990
 
 ##### <a id="13"></a>13  Application of the _Commonwealth Funds Management Limited Act 1990_
 
                    The _Commonwealth Funds Management Limited Act 1990_ applies to a transferred body to the extent, and in the manner, set out in this Division.
 
-##### <a id="14"></a>14  Application of section 4
+##### <a id="14"></a>14  Application of section 4
 
-                   Section 4 of the _Commonwealth Funds Management Limited Act 1990_ applies in relation to a transferred body as if a reference to a protected body were a reference to the transferred body or a wholly-owned subsidiary of the transferred body.
+                   Section 4 of the _Commonwealth Funds Management Limited Act 1990_ applies in relation to a transferred body as if a reference to a protected body were a reference to the transferred body or a wholly-owned subsidiary of the transferred body.
 
-##### <a id="15"></a>15  Application of section 15
+##### <a id="15"></a>15  Application of section 15
 
-                   Section 15 of the _Commonwealth Funds Management Limited Act 1990_ applies in relation to a transferred body as if:
+                   Section 15 of the _Commonwealth Funds Management Limited Act 1990_ applies in relation to a transferred body as if:
 
                      (a)  a reference to the Company were a reference to the transferred body; and
 
-                     (b)  a reference to the commencement of Part 3 of that Act were a reference to the transfer of all of the shares in the CFM subsidiary in question by CFM to the Commonwealth.
+                     (b)  a reference to the commencement of Part 3 of that Act were a reference to the transfer of all of the shares in the CFM subsidiary in question by CFM to the Commonwealth.
 
-##### <a id="16"></a>16  Application of Part 4
+##### <a id="16"></a>16  Application of Part 4
 
-                   Part 4 of the _Commonwealth Funds Management Limited Act 1990_ applies in relation to a transferred body as if:
+                   Part 4 of the _Commonwealth Funds Management Limited Act 1990_ applies in relation to a transferred body as if:
 
                      (a)  a reference to a protected body were a reference to the transferred body or a wholly-owned subsidiary of the transferred body; and
 
@@ -426,9 +432,9 @@ This Part is about the transfer of CFM subsidiaries from CFM to the Commonwealth
 
                      (d)  a reference to the Company were a reference to the transferred body.
 
-##### <a id="17"></a>17  Application of section 33
+##### <a id="17"></a>17  Application of section 33
 
-                   Section 33 of the _Commonwealth Funds Management Limited Act 1990_ applies in relation to a transferred employee of a transferred body as if:
+                   Section 33 of the _Commonwealth Funds Management Limited Act 1990_ applies in relation to a transferred employee of a transferred body as if:
 
                      (a)  a reference to a staff member were a reference to the transferred employee; and
 
@@ -436,7 +442,7 @@ This Part is about the transfer of CFM subsidiaries from CFM to the Commonwealth
 
                      (c)  a reference to the transition were a reference to the transfer of all of the shares in the CFM subsidiary in question by CFM to the Commonwealth.
 
-##### <a id="18"></a>18  Application of section 34
+##### <a id="18"></a>18  Application of section 34
 
              (1)  This section applies to a person if:
 
@@ -446,19 +452,21 @@ This Part is about the transfer of CFM subsidiaries from CFM to the Commonwealth
 
                               (i)  the person was a staff member of CFM; and
 
-                             (ii)  section 34 of the _Commonwealth Funds Management Limited Act 1990_ applied in relation to the person.
+                             (ii)  section 34 of the _Commonwealth Funds Management Limited Act 1990_ applied in relation to the person.
 
-             (2)  Section 34 of the _Commonwealth Funds Management Limited Act 1990_, as in force immediately before the person’s transfer time, continues to apply, on and after that time, in relation to the person as if the person were a staff member of CFM for so long as the person continues to be employed by a transferred body or a CFM subsidiary.
+             (2)  Section 34 of the _Commonwealth Funds Management Limited Act 1990_, as in force immediately before the person’s transfer time, continues to apply, on and after that time, in relation to the person as if the person were a staff member of CFM for so long as the person continues to be employed by a transferred body or a CFM subsidiary.
 
-##### <a id="19"></a>19  Application of Part 8
+##### <a id="19"></a>19  Application of Part 8
 
-                   Part 8 of the _Commonwealth Funds Management Limited Act 1990_ (other than sections 44, 46 and 47) applies in relation to a transferred body as if:
+                   Part 8 of the _Commonwealth Funds Management Limited Act 1990_ (other than sections 44, 46 and 47) applies in relation to a transferred body as if:
 
                      (a)  a reference to the Company were a reference to the transferred body; and
 
                      (b)  a reference to the transition were a reference to the transfer of all of the shares in the CFM subsidiary in question by CFM to the Commonwealth.
 
-### Division 4—Application of other legislation
+<o:p> </o:p>
+
+### Division 4—Application of other legislation
 
 ##### <a id="20"></a>20  Approved authority—_Superannuation Act 1976_
 
@@ -484,19 +492,19 @@ This Part is about the transfer of CFM subsidiaries from CFM to the Commonwealth
 
              (2)  The transferred body ceases to be a public authority of the Commonwealth for the purposes of that Act on the body’s sale day.
 
-## Part 3—Sale of CFM bodies
+<o:p> </o:p>
+
+## Part 3—<st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><span class="CharPartText">Sale</span></st1:place></st1:city><span class="CharPartText"> of CFM bodies</span>
 
 ##### <a id="24"></a>24  What this Part is about
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid; mso-border-alt: solid windowtext .75pt">
 
-This Part is about the sale of CFM and transferred bodies by the Commonwealth. The sales are to be effected by selling the shares in CFM and the transferred bodies on the same or different days.
+This Part is about the sale of CFM and transferred bodies by the Commonwealth. The sales are to be effected by selling the shares in CFM and the transferred bodies on the same or different days.</div>
 
-* * *
+### Division 1—Preliminary
 
-### Division 1—Preliminary
-
-##### <a id="25"></a>25  Sale day for CFM
+##### <a id="25"></a>25  <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Sale</st1:place></st1:city> day for CFM
 
              (1)  If, in the opinion of the Minister, a particular day is the first day after the commencement of this Part on which a majority of the voting shares in CFM are or were acquired by a person, or persons, other than:
 
@@ -512,7 +520,7 @@ the Minister must, by notice in the _Gazette_, declare the day to be the sale da
 
              (4)  For the purposes of the memorandum of association and articles of association of CFM, this section is taken to constitute the kind of amendment to the _Commonwealth Funds Management Limited Act 1990_ referred to in the memorandum and the definition of “Overriding Principle” in article 1 of the articles.
 
-##### <a id="26"></a>26  Sale day for transferred body
+##### <a id="26"></a>26  <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Sale</st1:place></st1:city> day for transferred body
 
              (1)  If, in the opinion of the Minister, a particular day is the first day after the commencement of this Part on which a majority of the voting shares in a transferred body are or were acquired by a person, or persons, other than:
 
@@ -526,17 +534,17 @@ the Minister must, by notice in the _Gazette_, declare the day to be the sale da
 
              (3)  The notice must be published within 21 days after the body’s sale day.
 
-### Division 2—Long service leave
+<o:p> </o:p>
+
+### Division 2—Long service leave
 
 ##### <a id="27"></a>27  What this Division is about
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid; mso-border-alt: solid windowtext .75pt">
 
-This Division (other than Subdivision 2F) is about the long service leave that may be granted to an employee of a CFM body who had less than 10 years service when the body was sold and who continued, after the sale, as an employee of that body or a related body. Subdivision 2F deals with employees who had at least 10 years service.
+This Division (other than Subdivision 2F) is about the long service leave that may be granted to an employee of a CFM body who had less than 10 years service when the body was sold and who continued, after the sale, as an employee of that body or a related body. Subdivision 2F deals with employees who had at least 10 years service.</div>
 
-* * *
-
-#### Subdivision 2A—Preliminary
+#### Subdivision 2A—Preliminary
 
 ##### <a id="28"></a>28  Definitions
 
@@ -566,15 +574,13 @@ This Division (other than Subdivision 2F) is about the long service leave that
 
                    To avoid doubt, it is declared that this Division does not affect an employee’s post-sale long service leave rights.
 
-#### Subdivision 2B—Long service leave for employees who attain at least 10 years service
+#### Subdivision 2B—Long service leave for employees who attain at least 10 years service
 
 ##### <a id="31"></a>31  What this Subdivision is about
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid; mso-border-alt: solid windowtext .75pt">
 
-This Subdivision is about the long service leave that may be granted to an employee of a CFM body or a related body who attains at least 10 years service. It also deals with employees who reach minimum retiring age or are retrenched.
-
-* * *
+This Subdivision is about the long service leave that may be granted to an employee of a CFM body or a related body who attains at least 10 years service. It also deals with employees who reach minimum retiring age or are retrenched.</div>
 
 ##### <a id="32"></a>32  Employees who attain 10 years service
 
@@ -608,25 +614,23 @@ This Subdivision is about the long service leave that may be granted to an emplo
 
 ##### <a id="34"></a>34  Rate of salary
 
-                   For the purposes of sections 32 and 33, the rate of salary to be used in working out the full salary of an employee is the rate that would be applicable to the employee under section 20 of the Long Service Leave Act if:
+                   For the purposes of sections 32 and 33, the rate of salary to be used in working out the full salary of an employee is the rate that would be applicable to the employee under section 20 of the Long Service Leave Act if:
 
                      (a)  that section applied to the employee; and
 
-                     (b)  for the expression “section 16 or 17” in that section there were substituted the expression “section 32 or 33 of the _CFM Sale Act 1996_”.
+                     (b)  for the expression “section 16 or 17” in that section there were substituted the expression “section 32 or 33 of the _CFM Sale Act 1996_”.
 
-#### Subdivision 2C—Payments in lieu of long service leave
+#### Subdivision 2C—Payments in lieu of long service leave
 
 ##### <a id="35"></a>35  What this Subdivision is about
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid; mso-border-alt: solid windowtext .75pt">
 
-This Subdivision is about payments in respect of long service leave to an employee of a CFM body or a related body who has not used all of his or her long service leave credit by taking long service leave under Subdivision 2B.
-
-* * *
+This Subdivision is about payments in respect of long service leave to an employee of a CFM body or a related body who has not used all of his or her long service leave credit by taking long service leave under Subdivision 2B.</div>
 
 ##### <a id="36"></a>36  Employees who attain 10 years service
 
-                   Subject to section 39, a CFM body or a related body must pay an employee an amount equal to full salary in respect of his or her long service leave credit under subsection 43(2) if:
+                   Subject to section 39, a CFM body or a related body must pay an employee an amount equal to full salary in respect of his or her long service leave credit under subsection 43(2) if:
 
                      (a)  the employee was an employee of the CFM body immediately before the body’s sale day; and
 
@@ -638,7 +642,7 @@ This Subdivision is about payments in respect of long service leave to an employ
 
 ##### <a id="37"></a>37  Employees reaching minimum retiring age or being retrenched
 
-                   Subject to section 39, a CFM body or a related body must pay an employee an amount equal to full salary in respect of his or her long service leave credit under subsection 43(2) if:
+                   Subject to section 39, a CFM body or a related body must pay an employee an amount equal to full salary in respect of his or her long service leave credit under subsection 43(2) if:
 
                      (a)  the employee was an employee of the CFM body immediately before the body’s sale day; and
 
@@ -652,7 +656,7 @@ This Subdivision is about payments in respect of long service leave to an employ
 
 ##### <a id="38"></a>38  Employee stops employment because of ill-health
 
-                   Subject to section 39, a CFM body or a related body must pay an employee an amount equal to full salary in respect of his or her long service leave credit under subsection 43(2) if:
+                   Subject to section 39, a CFM body or a related body must pay an employee an amount equal to full salary in respect of his or her long service leave credit under subsection 43(2) if:
 
                      (a)  the employee was an employee of the CFM body immediately before the body’s sale day; and
 
@@ -670,7 +674,7 @@ This Subdivision is about payments in respect of long service leave to an employ
 
              (1)  An employee may, by written notice given to a CFM body or a related body before the employee stops being an employee of the body:
 
-                     (a)  request the body not to make a payment to the employee under section 36, 37 or 38; or
+                     (a)  request the body not to make a payment to the employee under section 36, 37 or 38; or
 
                      (b)  request the body to make a payment under that section of a specified amount that is less than the amount that would otherwise be payable under that section.
 
@@ -678,21 +682,19 @@ This Subdivision is about payments in respect of long service leave to an employ
 
 ##### <a id="40"></a>40  Rate of salary
 
-                   For the purposes of this Subdivision, the rate of salary to be used in working out the full salary of an employee is the rate that would be applicable to the employee under section 21 of the Long Service Leave Act if:
+                   For the purposes of this Subdivision, the rate of salary to be used in working out the full salary of an employee is the rate that would be applicable to the employee under section 21 of the Long Service Leave Act if:
 
                      (a)  that section applied to the employee; and
 
-                     (b)  for the expression “sections 16 and 17” in that section there were substituted the expression “sections 36, 37 and 38 of the _CFM Sale Act 1996_”.
+                     (b)  for the expression “sections 16 and 17” in that section there were substituted the expression “sections 36, 37 and 38 of the _CFM Sale Act 1996_”.
 
-#### Subdivision 2D—Payments on the death of an employee
+#### Subdivision 2D—Payments on the death of an employee
 
 ##### <a id="41"></a>41  What this Subdivision is about
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid; mso-border-alt: solid windowtext .75pt">
 
-This Subdivision is about payments in respect of long service leave to the dependants or the legal personal representative of an employee of a CFM body or a related body who has died.
-
-* * *
+This Subdivision is about payments in respect of long service leave to the dependants or the legal personal representative of an employee of a CFM body or a related body who has died.</div>
 
 ##### <a id="42"></a>42  Payments on death of an employee
 
@@ -728,23 +730,23 @@ This Subdivision is about payments in respect of long service leave to the depen
 
                             (iii)  the employee did not have any dependants.
 
-             (3)  The total amount of the payment or payments is the amount that would have been payable to the employee under section 37 if, on the day of his or her death, the employee had stopped being an employee of the CFM body or the related body on or after reaching the minimum retiring age.
+             (3)  The total amount of the payment or payments is the amount that would have been payable to the employee under section 37 if, on the day of his or her death, the employee had stopped being an employee of the CFM body or the related body on or after reaching the minimum retiring age.
 
-             (4)  If subsection (1) or (2) applies, section 23 of the Long Service Leave Act has effect as if:
+             (4)  If subsection (1) or (2) applies, section 23 of the Long Service Leave Act has effect as if:
 
                      (a)  that section applied to the employee; and
 
                      (b)  a reference in that section to the approving authority were a reference to the CFM body or the related body; and
 
-                     (c)  for the expression “this Act” in that section there were substituted the expression “section 42 of the _CFM Sale Act 1996_”; and
+                     (c)  for the expression “this Act” in that section there were substituted the expression “section 42 of the _CFM Sale Act 1996_”; and
 
-                     (d)  for the expression “subsection 16(7) or 17(5)” in that section there were substituted the expression “section 42 of the _CFM Sale Act 1996_”.
+                     (d)  for the expression “subsection 16(7) or 17(5)” in that section there were substituted the expression “section 42 of the _CFM Sale Act 1996_”.
 
-#### Subdivision 2E—Long service leave credit
+#### Subdivision 2E—Long service leave credit
 
-##### <a id="43"></a>43  Employee’s long service leave credit for the purposes of Subdivisions 2B and 2C
+##### <a id="43"></a>43  Employee’s long service leave credit for the purposes of Subdivisions 2B and 2C
 
-             (1)  For the purposes of sections 32 and 33, the long service leave credit of an employee is equal to the long service leave credit that the employee would have under the Long Service Leave Act for the period:
+             (1)  For the purposes of sections 32 and 33, the long service leave credit of an employee is equal to the long service leave credit that the employee would have under the Long Service Leave Act for the period:
 
                      (a)  starting when the employee started his or her period of service; and
 
@@ -756,9 +758,9 @@ This Subdivision is about payments in respect of long service leave to the depen
 
 if the employee had been retrenched on that sale day.
 
-             (2)  For the purposes of sections 36, 37 and 38, an employee’s long service leave credit is the employee’s long service leave credit worked out under subsection (1), reduced by any long service leave credit used under section 32 or 33.
+             (2)  For the purposes of sections 36, 37 and 38, an employee’s long service leave credit is the employee’s long service leave credit worked out under subsection (1), reduced by any long service leave credit used under section 32 or 33.
 
-#### Subdivision 2F—Saving: Long Service Leave Act
+#### Subdivision 2F—Saving: Long Service Leave Act
 
 ##### <a id="44"></a>44  Saving—Accrued rights under the Long Service Leave Act
 
@@ -776,39 +778,39 @@ However, the employee is not entitled to receive any payment because he or she c
 
                      (b)  where the employee continues to be employed by a related body—that related body were an approving authority for the purposes of that Act.
 
-### Division 3—Superannuation
+<o:p> </o:p>
+
+### Division 3—Superannuation
 
 ##### <a id="45"></a>45  What this Division is about
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid; mso-border-alt: solid windowtext .75pt">
 
-This Division is about how certain legislation dealing with superannuation continues to operate in relation to a CFM body after it is sold.
-
-* * *
+This Division is about how certain legislation dealing with superannuation continues to operate in relation to a CFM body after it is sold.</div>
 
 ##### <a id="46"></a>46  Deferred benefits under the _Defence Force Retirement and Death Benefits Act 1973_
 
-             (1)  For the purposes of Division 3 of Part IX of the _Defence Force Retirement and Death Benefits Act 1973_, an employee of a CFM body:
+             (1)  For the purposes of Division 3 of Part IX of the _Defence Force Retirement and Death Benefits Act 1973_, an employee of a CFM body:
 
-                     (a)  to whom, immediately before the body’s sale day, deferred benefits were applicable under section 78 of that Act; and
+                     (a)  to whom, immediately before the body’s sale day, deferred benefits were applicable under section 78 of that Act; and
 
                      (b)  who continues to be employed by the CFM body or a related body after that day;
 
 is taken to continue in public employment, on or after that day, while he or she continues to be so employed.
 
-             (2)  Subsection (1) is subject to Division 3 of Part IX of the _Defence Force Retirement and Death Benefits Act 1973_.
+             (2)  Subsection (1) is subject to Division 3 of Part IX of the _Defence Force Retirement and Death Benefits Act 1973_.
 
-##### <a id="47"></a>47  Period of eligible employment for the purposes of Division 3 of Part IX of the _Defence Force Retirement and Death Benefits Act 1973_
+##### <a id="47"></a>47  Period of eligible employment for the purposes of Division 3 of Part IX of the _Defence Force Retirement and Death Benefits Act 1973_
 
-             (1)  A period of employment of a person by a CFM body continues to be a period of eligible employment for the purposes of Division 3 of Part IX of the _Defence Force Retirement and Death Benefits Act 1973_ if, immediately before the body’s sale day, the period was a period of eligible employment for the purposes of that Division. 
+             (1)  A period of employment of a person by a CFM body continues to be a period of eligible employment for the purposes of Division 3 of Part IX of the _Defence Force Retirement and Death Benefits Act 1973_ if, immediately before the body’s sale day, the period was a period of eligible employment for the purposes of that Division. 
 
-             (2)  Subsection (1) applies even if employment by the body ceases to be eligible employment for the purposes of that Division on the body’s sale day.
+             (2)  Subsection (1) applies even if employment by the body ceases to be eligible employment for the purposes of that Division on the body’s sale day.
 
 ##### <a id="48"></a>48  Continuing application of the _Crimes (Superannuation Benefits) Act 1989_
 
 Continuing application of Act
 
-             (1)  Subject to subsection (2), the _Crimes (Superannuation Benefits) Act 1989_ continues to apply, on and after the sale day of a CFM body, in relation to a person who committed a corruption offence before that day while an employee of the body, as if the body continued to be a Commonwealth authority.
+             (1)  Subject to subsection (2), the _Crimes (Superannuation Benefits) Act 1989_ continues to apply, on and after the sale day of a CFM body, in relation to a person who committed a corruption offence before that day while an employee of the body, as if the body continued to be a Commonwealth authority.
 
 Limitation on superannuation orders
 
@@ -836,15 +838,15 @@ Interpretation
 
              (6)  Unless the contrary intention appears, an expression used in this section that is also used in the _Crimes (Superannuation Benefits) Act 1989_ has the same meaning in this section as it has in that Act.
 
-### Division 4—Safety, Rehabilitation and Compensation Act 1988
+<o:p> </o:p>
+
+### Division 4—Safety, Rehabilitation and Compensation Act 1988
 
 ##### <a id="49"></a>49  What this Division is about
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid; mso-border-alt: solid windowtext .75pt">
 
-This Division is about how the Safety, Rehabilitation and Compensation Act continues to operate in relation to a CFM body after it is sold.
-
-* * *
+This Division is about how the Safety, Rehabilitation and Compensation Act continues to operate in relation to a CFM body after it is sold.</div>
 
 ##### <a id="50"></a>50  Definitions
 
@@ -864,15 +866,15 @@ This Division is about how the Safety, Rehabilitation and Compensation Act conti
 
 if the employee was an employee of the body immediately before its sale day.
 
-             (2)  For the purposes of subsection (1), the _Safety, Rehabilitation and Compensation Act 1988_ continues to apply as if:
+             (2)  For the purposes of subsection (1), the _Safety, Rehabilitation and Compensation Act 1988_ continues to apply as if:
 
                      (a)  the CFM body continued to be a Commonwealth authority; and
 
                      (b)  the Chief Executive Officer of the CFM body (however described) continued to be the Principal Officer of a Commonwealth authority.
 
-##### <a id="53"></a>53  Transitional provisions relating to Division 4A of Part VII
+##### <a id="53"></a>53  Transitional provisions relating to Division 4A of Part VII
 
-             (1)  On and after the sale day of a CFM body, Division 4A of Part VII of the _Safety, Rehabilitation and Compensation Act 1988_ applies to the CFM body as if:
+             (1)  On and after the sale day of a CFM body, Division 4A of Part VII of the _Safety, Rehabilitation and Compensation Act 1988_ applies to the CFM body as if:
 
                      (a)  the CFM body continues to be a Commonwealth authority; and
 
@@ -888,7 +890,7 @@ if the employee was an employee of the body immediately before its sale day.
 
              (1)  On and after the sale day of a CFM body, the body is taken to be the relevant employer of the employee for the purposes of section 40 of the _Safety, Rehabilitation and Compensation Act 1988_.
 
-             (2)  On and after the sale day of a CFM body, the body must provide such reasonable co-operation and assistance as the Commonwealth requires to enable the Commonwealth to fulfil its obligations under sections 36, 37, 38, 39, 41 and 41A of the _Safety, Rehabilitation and Compensation Act 1988_.
+             (2)  On and after the sale day of a CFM body, the body must provide such reasonable co-operation and assistance as the Commonwealth requires to enable the Commonwealth to fulfil its obligations under sections 36, 37, 38, 39, 41 and 41A of the _Safety, Rehabilitation and Compensation Act 1988_.
 
 ##### <a id="55"></a>55  Notification of amount of salary paid to employees of a CFM body
 
@@ -896,35 +898,43 @@ if the employee was an employee of the body immediately before its sale day.
 
              (2)  In this section:
 
-                    <a name="pre-sale-dai-period"></a>**_pre-sale day period_** means the period starting on 1 July in the financial year in which a CFM body’s sale day occurs and ending on the day before the sale day.
+                    <a name="pre-sale-dai-period"></a>**_pre-sale day period_** means the period starting on 1 July in the financial year in which a CFM body’s sale day occurs and ending on the day before the sale day.
 
-### Division 5—Occupational Health and Safety (Commonwealth Employment) Act 1991
+<o:p> </o:p>
+
+### Division 5—Occupational Health and Safety (Commonwealth Employment) Act 1991
 
 ##### <a id="56"></a>56  Refund of contribution paid under the _Occupational Health and Safety (Commonwealth Employment) Act 1991_
 
-             (1)  A CFM body is entitled to be paid the amount worked out using the formula set out below if the CFM body has paid a contribution to the cost of the administration of the _Occupational Health and Safety (Commonwealth Employment) Act 1991_ under section 67H of that Act in respect of the financial year in which the body’s sale day occurs.
+             (1)  A CFM body is entitled to be paid the amount worked out using the formula set out below if the CFM body has paid a contribution to the cost of the administration of the _Occupational Health and Safety (Commonwealth Employment) Act 1991_ under section 67H of that Act in respect of the financial year in which the body’s sale day occurs.
 
-![](http://www.comlaw.gov.au/Details/C2010C00834/Html/CFMSale96_WD02HYP_image002.gif)
+<v:shape id="_x0000_i1026" style="WIDTH: 147pt; HEIGHT: 27.75pt" o:ole="" type="#_x0000_t75" coordsize="21600,21600"><v:imagedata o:title="" src="90A417032B45EE7BCA256FB70023CBFD/$FILE/image003.wmz"></v:imagedata></v:shape>
 
                     <a name="contribut"></a>**_contribution_** means the contribution paid by the CFM body in respect of that financial year.
 
                     <a name="no-refund-dai"></a>**_no. of refund days_** means the total number of days in the period beginning on the sale day and ending on the last day of the financial year in which the sale day occurs.
 
-### Division 6—Mobility rights
+             (2)  An amount to which a CFM body is entitled under subsection (1) must be paid out of the Consolidated Revenue Fund, which is appropriated accordingly.
+
+<o:p> </o:p>
+
+### Division 6—Mobility rights
 
 ##### <a id="57"></a>57  Cessation of mobility rights
 
-             (1)  Division 2 or 3 of Part IV of the _Public Service Act 1922_ stops applying to an employee of a CFM body on the body’s sale day if that Division applied to the employee of the body immediately before the body’s sale day.
+             (1)  Division 2 or 3 of Part IV of the _Public Service Act 1922_ stops applying to an employee of a CFM body on the body’s sale day if that Division applied to the employee of the body immediately before the body’s sale day.
 
-             (2)  If Division 4 of Part IV of the _Public Service Act 1922_ applied to an employee of a CFM body immediately before the body’s sale day:
+             (2)  If Division 4 of Part IV of the _Public Service Act 1922_ applied to an employee of a CFM body immediately before the body’s sale day:
 
                      (a)  the _Officers’ Rights Declaration Act 1928_; and
 
-                     (b)  Division 4 of Part IV of the _Public Service Act 1922_;
+                     (b)  Division 4 of Part IV of the _Public Service Act 1922_;
 
 stop applying to the employee on the body’s sale day.
 
-### Division 7—Prosecutions
+<o:p> </o:p>
+
+### Division 7—Prosecutions
 
 ##### <a id="58"></a>58  Continuing application of the _Director of Public Prosecutions Act 1983_
 
@@ -932,19 +942,21 @@ stop applying to the employee on the body’s sale day.
 
                      (a)  acts or omissions that occurred in relation to the CFM body before the body’s sale day; and
 
-                     (b)  civil remedies in respect of relevant matters relating to acts or omissions referred to in paragraph (a).
+                     (b)  civil remedies in respect of relevant matters relating to acts or omissions referred to in paragraph (a).
 
              (2)  In this section:
 
                     <a name="relev-matter"></a>**_relevant matter_** has the same meaning as in the _Director of Public Prosecutions Act 1983_.
 
-### Division 8—Imputation
+<o:p> </o:p>
+
+### Division 8—Imputation
 
 ##### <a id="59"></a>59  Franking account surpluses reduced to nil
 
-             (1)  Subject to subsection (3), if, immediately before CFM’s sale day, CFM had a class A franking surplus, a class B franking surplus or a class C franking surplus, then CFM’s class A franking surplus, class B franking surplus or class C franking surplus (as the case requires) is reduced to nil at the beginning of CFM’s sale day.
+             (1)  Subject to subsection (3), if, immediately before CFM’s sale day, CFM had a class A franking surplus, a class B franking surplus or a class C franking surplus, then CFM’s class A franking surplus, class B franking surplus or class C franking surplus (as the case requires) is reduced to nil at the beginning of CFM’s sale day.
 
-             (2)  Subject to subsection (3), if:
+             (2)  Subject to subsection (3), if:
 
                      (a)  at any time on or after CFM’s sale day, there arises a franking credit or a franking debit of CFM; and
 
@@ -958,89 +970,63 @@ the franking credit or franking debit is to that extent taken not to have arisen
 
                      (b)  immediately before the sale day, CFM had a class A franking surplus, class B franking surplus or class C franking surplus, that was less than the corresponding pre-sale component of the debit;
 
-then subsection (1) does not apply to the surplus and subsection (2) does not apply to the debit.
+then subsection (1) does not apply to the surplus and subsection (2) does not apply to the debit.
 
-             (4)  In this section the following expressions have the same meanings as in Part IIIAA of the _Income Tax Assessment Act 1936_:
+             (4)  In this section the following expressions have the same meanings as in Part IIIAA of the _Income Tax Assessment Act 1936_:
+
+<o:p> </o:p>
 
 <table>
 <colgroup>
   <col width="100%">
 </colgroup>
 
-<tr>
-  <td>
-    <div>
-      <b>
-        <i>class A franking debit</i>
-      </b>
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      <b>
-        <i>class A franking surplus</i>
-      </b>
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      <b>
-        <i>class B franking debit</i>
-      </b>
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      <b>
-        <i>class B franking surplus</i>
-      </b>
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      <b>
-        <i>class C franking debit</i>
-      </b>
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      <b>
-        <i>class C franking surplus</i>
-      </b>
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      <b>
-        <i>franking credit</i>
-      </b>
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      <b>
-        <i>franking debit</i>
-      </b>
-    </div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal"> <i style="mso-bidi-font-style: normal">class A franking debit</i> </b></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal"> <i style="mso-bidi-font-style: normal">class A franking surplus</i> </b></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal"> <i style="mso-bidi-font-style: normal">class B franking debit</i> </b></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal"> <i style="mso-bidi-font-style: normal">class B franking surplus</i> </b></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal"> <i style="mso-bidi-font-style: normal">class C franking debit</i> </b></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal"> <i style="mso-bidi-font-style: normal">class C franking surplus</i> </b></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal"> <i style="mso-bidi-font-style: normal">franking credit</i> </b></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal"> <i style="mso-bidi-font-style: normal">franking debit</i> </b></div>
+    </td>
+  </tr>
+</tbody></table>
 
-### Division 9—Miscellaneous
+<o:p> </o:p>
+
+### Division 9—Miscellaneous
 
 ##### <a id="60"></a>60  CFM body not to be an agency of the Commonwealth etc.
 
@@ -1054,7 +1040,7 @@ then subsection (1) does not apply to the surplus and subsection (2) does no
 
 unless a law expressly provides otherwise.
 
-             (2)  In subsection (1):
+             (2)  In subsection (1):
 
                     <a name="law"></a>**_law_** means:
 
@@ -1072,35 +1058,35 @@ unless a law expressly provides otherwise.
 
                      (c)  are expressed to take effect on the body’s sale day.
 
-             (2)  Regulations covered by subsection (1) take effect on the body’s sale day.
+             (2)  Regulations covered by subsection (1) take effect on the body’s sale day.
 
 ##### <a id="62"></a>62  Certain provisions of the _Commonwealth Funds Management Limited Act 1990_ cease to apply to CFM bodies
 
              (1)  The following sections and Parts of the _Commonwealth Funds Management Limited Act 1990_ cease to apply to CFM on CFM’s sale day:
 
-                     (a)  sections 4, 15, 33, 34, 39, 41, 42, 43, 44 and 46;
+                     (a)  sections 4, 15, 33, 34, 39, 41, 42, 43, 44 and 46;
 
-                     (b)  Parts 4, 5 and 7.
+                     (b)  Parts 4, 5 and 7.
 
              (2)  The following sections and Part of the _Commonwealth Funds Management Limited Act 1990_ cease to apply to a transferred body on the transferred body’s sale day:
 
-                     (a)  sections 4, 15, 33, 34, 39, 41, 42 and 43;
+                     (a)  sections 4, 15, 33, 34, 39, 41, 42 and 43;
 
-                     (b)  Part 4.
+                     (b)  Part 4.
 
-Note:          Division 3 of Part 2 of this Act sets out how the provisions listed in subsection (2) are to apply to a transferred body before they cease to so apply.
+Note:          Division 3 of Part 2 of this Act sets out how the provisions listed in subsection (2) are to apply to a transferred body before they cease to so apply.
 
-## Part 4—Transfer of assets, liabilities, rights and obligations of CFM bodies
+<o:p> </o:p>
+
+## Part 4—Transfer of assets, liabilities, rights and obligations of CFM bodies
 
 ##### <a id="63"></a>63  What this Part is about
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid; mso-border-alt: solid windowtext .75pt">
 
-This Part is about the transfer of assets, liabilities, rights and obligations of CFM bodies. The transfers are to be effected by way of Ministerial declaration.
+This Part is about the transfer of assets, liabilities, rights and obligations of CFM bodies. The transfers are to be effected by way of Ministerial declaration.</div>
 
-* * *
-
-### Division 1—Preliminary
+### Division 1—Preliminary
 
 ##### <a id="64"></a>64  Definitions
 
@@ -1130,7 +1116,9 @@ This Part is about the transfer of assets, liabilities, rights and obligations o
 
                      (c)  in relation to a liability to which a declaration under subsection 71(1) relates—the Commonwealth, a CFM subsidiary or a transferred body, whichever is specified in the declaration as the body to which the liability is to be transferred.
 
-### Division 2—Transfer of assets
+<o:p> </o:p>
+
+### Division 2—Transfer of assets
 
 ##### <a id="65"></a>65  Transfer of assets 
 
@@ -1152,7 +1140,9 @@ Note:          An asset or instrument may be specified by name
 
                    Immediately after an asset vests in the specified transferee under a declaration, the specified transferee becomes the CFM body’s successor in law in relation to the asset.
 
-### Division 3—Transfer of rights and obligations
+<o:p> </o:p>
+
+### Division 3—Transfer of rights and obligations
 
 ##### <a id="68"></a>68  Transfer of rights and obligations
 
@@ -1176,7 +1166,9 @@ Note:          A contract or instrument may be specified by na
 
                    Immediately after rights and obligations become rights and obligations of the specified transferee under a declaration, the specified transferee becomes the CFM body’s successor in law in relation to those rights and obligations.
 
-### Division 4—Transfer of liabilities
+<o:p> </o:p>
+
+### Division 4—Transfer of liabilities
 
 ##### <a id="71"></a>71  Transfer of liabilities
 
@@ -1200,7 +1192,9 @@ Note:          A liability or instrument may be specified by n
 
                    Immediately after a liability becomes a liability of the specified transferee under a declaration, the specified transferee becomes the CFM body’s successor in law in relation to the liability.
 
-### Division 5—Tax exemption and income tax treatment
+<o:p> </o:p>
+
+### Division 5—Tax exemption and income tax treatment
 
 ##### <a id="74"></a>74  Exemption from stamp duty and other taxes 
 
@@ -1214,19 +1208,19 @@ Note:          A liability or instrument may be specified by n
 
                     <a name="exempt-matter"></a>**_exempt matter_** means:
 
-                     (a)  the transfer of an asset under section 65; or
+                     (a)  the transfer of an asset under section 65; or
 
-                     (b)  the transfer of rights and obligations under section 68; or
+                     (b)  the transfer of rights and obligations under section 68; or
 
-                     (c)  the transfer of a liability under section 71.
+                     (c)  the transfer of a liability under section 71.
 
 ##### <a id="75"></a>75  Application of the _Income Tax Assessment Act 1936_ in relation to certain transfers
 
              (1)  This section applies if an asset, liability, right or obligation is transferred from a CFM body to a specified transferee under this Part or by another means:
 
-                     (a)  in the case of a transferred body—after the day on which all of the shares in the CFM subsidiary in question are transferred by CFM to the Commonwealth in accordance with the Minister’s direction under section 7, but on or before the body’s sale day; or
+                     (a)  in the case of a transferred body—after the day on which all of the shares in the CFM subsidiary in question are transferred by CFM to the Commonwealth in accordance with the Minister’s direction under section 7, but on or before the body’s sale day; or
 
-                     (b)  in the case of CFM—after the day on which all of the shares in Total Risk Management Pty. Limited are transferred by CFM to the Commonwealth in accordance with the Minister’s direction under section 7, but on or before CFM’s sale day.
+                     (b)  in the case of CFM—after the day on which all of the shares in Total Risk Management Pty. Limited are transferred by CFM to the Commonwealth in accordance with the Minister’s direction under section 7, but on or before CFM’s sale day.
 
 Note:          Total Risk Management Pty. Limited was a subsidiary of CFM when this Act received the Royal Assent.
 
@@ -1238,17 +1232,19 @@ Note:          Total Risk Management Pty. Limited was a subsid
 
                      (c)  the CFM body had never acquired or disposed of the asset, liability, right or obligation.
 
-             (3)  Subsection (2) does not affect the application of the _Income Tax Assessment Act 1936_ in relation to anything that happened in relation to the asset, liability, right or obligation before it was transferred from the CFM body to the specified transferee.
+             (3)  Subsection (2) does not affect the application of the _Income Tax Assessment Act 1936_ in relation to anything that happened in relation to the asset, liability, right or obligation before it was transferred from the CFM body to the specified transferee.
 
-             (4)  Subsection (2) does not affect the nature or effect of the transfer for a purpose other than a purpose of the _Income Tax Assessment Act 1936_.
+             (4)  Subsection (2) does not affect the nature or effect of the transfer for a purpose other than a purpose of the _Income Tax Assessment Act 1936_.
 
-### Division 6—Miscellaneous
+<o:p> </o:p>
+
+### Division 6—Miscellaneous
 
 ##### <a id="76"></a>76  Transfers of CFM land may be registered
 
              (1)  This section applies if:
 
-                     (a)  any right, title or interest in particular land vests in a specified transferee under section 65; and
+                     (a)  any right, title or interest in particular land vests in a specified transferee under section 65; and
 
                      (b)  there is lodged with a land registration official a certificate that:
 
@@ -1256,7 +1252,7 @@ Note:          Total Risk Management Pty. Limited was a subsid
 
                              (ii)  identifies the land, whether by reference to a map or otherwise; and
 
-                            (iii)  states that the right, title or interest has become vested in the specified transferee under section 65.
+                            (iii)  states that the right, title or interest has become vested in the specified transferee under section 65.
 
              (2)  The land registration official may:
 
@@ -1264,7 +1260,7 @@ Note:          Total Risk Management Pty. Limited was a subsid
 
                      (b)  deal with, and give effect to, the certificate.
 
-             (3)  A document that appears to be a certificate under subsection (1) is taken to be such a certificate, and to have been properly given, unless the contrary is established.
+             (3)  A document that appears to be a certificate under subsection (1) is taken to be such a certificate, and to have been properly given, unless the contrary is established.
 
              (4)  In this section:
 
@@ -1278,7 +1274,7 @@ Note:          Total Risk Management Pty. Limited was a subsid
 
              (1)  This section applies if:
 
-                     (a)  an asset other than land vests in a specified transferee under section 65; and
+                     (a)  an asset other than land vests in a specified transferee under section 65; and
 
                      (b)  there is lodged with an assets official a certificate that:
 
@@ -1286,21 +1282,23 @@ Note:          Total Risk Management Pty. Limited was a subsid
 
                              (ii)  identifies the asset; and
 
-                            (iii)  states that the asset has become vested in the specified transferee under section 65.
+                            (iii)  states that the asset has become vested in the specified transferee under section 65.
 
              (2)  The assets official may:
 
                      (a)  deal with, and give effect to, the certificate as if the certificate were a proper and appropriate instrument for transactions in relation to assets of that kind; and
 
-                     (b)  make such entries in the register as are necessary having regard to the effect of section 65.
+                     (b)  make such entries in the register as are necessary having regard to the effect of section 65.
 
-             (3)  A document that appears to be a certificate under subsection (1) is taken to be such a certificate and to have been properly given unless the contrary is established.
+             (3)  A document that appears to be a certificate under subsection (1) is taken to be such a certificate and to have been properly given unless the contrary is established.
 
              (4)  In this section:
 
                     <a name="asset-offici"></a>**_assets official_** means the person or authority who, under a law of the Commonwealth, a State or a Territory, has responsibility for keeping a register in relation to assets of the kind concerned.
 
-## Part 5—Miscellaneous
+<o:p> </o:p>
+
+## Part 5—Miscellaneous
 
 ##### <a id="79"></a>79  Compensation—constitutional safety net
 
@@ -1336,13 +1334,13 @@ the Commonwealth is liable to pay compensation of a reasonable amount to the per
 
                              (ii)  the disclosure of any information; or
 
-                     (d)  releasing any surety from any of the surety’s obligations in relation to a liability or obligation that is transferred under a declaration made under Part 4.
+                     (d)  releasing any surety from any of the surety’s obligations in relation to a liability or obligation that is transferred under a declaration made under Part 4.
 
 ##### <a id="81"></a>81  Commonwealth records
 
              (1)  This Act does not authorise a Commonwealth record (within the meaning of the _Archives Act 1983_) to be transferred or otherwise dealt with except in accordance with the provisions of that Act.
 
-             (2)  A Commonwealth record (within the meaning of the _Archives Act 1983_) must not be transferred to the purchaser of a CFM body under Part 3 of this Act in connection with the operation of this Act in relation to the CFM body unless the Australian Archives has given permission under paragraph 24(2)(b) of the _Archives Act 1983_.
+             (2)  A Commonwealth record (within the meaning of the _Archives Act 1983_) must not be transferred to the purchaser of a CFM body under Part 3 of this Act in connection with the operation of this Act in relation to the CFM body unless the Australian Archives has given permission under paragraph 24(2)(b) of the _Archives Act 1983_.
 
 ##### <a id="82"></a>82  Regulations
 
@@ -1352,33 +1350,35 @@ the Commonwealth is liable to pay compensation of a reasonable amount to the per
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
-# Schedule 1—Amendment of the Commonwealth Funds Management Limited Act 1990
 
-* * *
+# Schedule 1—Amendment of the Commonwealth Funds Management Limited Act 1990
 
-**Note:**
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 1pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 0cm; PADDING-BOTTOM: 1pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 1pt; BORDER-BOTTOM: windowtext 1pt solid; mso-border-alt: solid windowtext .5pt">
 
-The amendments made by this Schedule are incorporated in the compilation on ComLaw.
+**Note:<o:p></o:p>**
+
+The amendments made by this Schedule are incorporated in the compilation on SCALEplus.
 
 _Commonwealth Funds Management Limited Act 1990_
 
-For access to the wording of the amendments made by this Schedule _see_ Act No. 58, 1996.
+For access to the wording of the amendments made by this Schedule, click here [_CFM Sale Act 1996_ No. 58, 1996].</div>
 
-* * *
+<o:p> </o:p>
 
-# Schedule 2—Amendment of other Acts
 
-<h9 class="ActHead9">Legislative Instruments Act 1996</h9>
+# Schedule 2—Amendment of other Acts
 
-## 1  Schedule 3
+Legislative Instruments Act 1996
+
+## 1  Schedule 3
 
 Omit “Commonwealth Funds Management Limited”.
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 1pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 0cm; PADDING-BOTTOM: 1pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 1pt; BORDER-BOTTOM: windowtext 1pt solid; mso-border-alt: solid windowtext .5pt">
 
-**Note:**
+**Note:<o:p></o:p>**
 
-The other amendments made by this Schedule are incorporated in the compilations on ComLaw.
+The other amendments made by this Schedule are incorporated in the compilations on SCALEplus.
 
 _Military Superannuation and Benefits Act 1991_
 
@@ -1386,19 +1386,20 @@ _Superannuation Act 1976_
 
 _Superannuation Act 1990_
 
-For access to the wording of the amendments made by this Schedule _see_ Act No. 58, 1996.
+For access to the wording of the amendments made by this Schedule, click here [_CFM Sale Act 1996_ No. 58, 1996].</div>
 
-* * *
+<o:p> </o:p>
 
-# Notes to the _CFM Sale Act 1996_
+
+# Notes to the _<span style="mso-no-proof: yes">CFM Sale Act 1996</span>_
 
 ### Note 1
 
 The _CFM Sale Act 1996_ as shown in this compilation comprises Act No. 58, 1996 amended as indicated in the Tables below.
 
-For application, saving or transitional provisions made by the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, _see_ Act No. 55, 2001.
+For application, saving or transitional provisions made by the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, _see_ Act No. 55, 2001.
 
-For all other relevant information pertaining to application, saving or transitional provisions _see_ Table A.
+For all other relevant information pertaining to application, saving or transitional provisions _see_ Table A. 
 
 ### Table of Acts
 
@@ -1414,106 +1415,98 @@ For all other relevant information pertaining to application, saving or transiti
 <thead>
   <tr>
     <td>
-      <div>Act</div>
+      <div>Act <o:p></o:p> </div>
     </td>
     <td>
       <div>Number 
-and year</div>
+and year <o:p></o:p> 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent <o:p></o:p> 
+ </div>
     </td>
     <td>
-      <div>Date of commencement</div>
+      <div>Date of commencement <o:p></o:p> </div>
     </td>
     <td>
-      <div>Application, saving or transitional provisions</div>
+      <div>Application, saving or transitional provisions <o:p></o:p> </div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>CFM Sale Act 1996</div>
-  </td>
-  <td>
-    <div>58, 1996</div>
-  </td>
-  <td>
-    <div>20 Nov 1996</div>
-  </td>
-  <td>
-    <div>Ss. 1–82, Schedule 1 (item 10), Schedule 2 (items 2–6): Royal Assent 
-Schedule 1 (items 1, 2, 5–9, 11): 23 Dec 1996 ( <i>see Gazette</i>1996, No. S515) 
-Schedule 1 (items 3, 4): <i>(a)</i> 
-Schedule 2 (item 1): <i>(a) 
- </i>Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Corporations (Repeals, Consequentials and Transitionals) Act 2001</div>
-  </td>
-  <td>
-    <div>55, 2001</div>
-  </td>
-  <td>
-    <div>28 June 2001</div>
-  </td>
-  <td>
-    <div>Ss. 4–14 and Schedule 3 (items 94, 95): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(b)</i></div>
-  </td>
-  <td>
-    <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Framework Legislation Amendment Act 2005</div>
-  </td>
-  <td>
-    <div>8, 2005</div>
-  </td>
-  <td>
-    <div>22 Feb 2005</div>
-  </td>
-  <td>
-    <div>S. 4 and Schedule 1 (items 110, 496): Royal Assent</div>
-  </td>
-  <td>
-    <div>S. 4 and Sch. 1 (item 496)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Framework Legislation Amendment Act 2010</div>
-  </td>
-  <td>
-    <div>148, 2010</div>
-  </td>
-  <td>
-    <div>17 Dec 2010</div>
-  </td>
-  <td>
-    <div>Schedule 11 (item 10): 18 Dec 2010</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>CFM Sale Act 1996</div>
+    </td>
+    <td>
+      <div>58, 1996</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1996" day="20" month="11">20 Nov 1996</st1:date></div>
+    </td>
+    <td>
+      <div>Ss. 1–82, Schedule 1 (item 10), Schedule 2 (items 2–6): Royal Assent 
+Schedule 1 (items 1, 2, 5–9, 11): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1996" day="23" month="12">23 Dec 1996</st1:date>( <i style="mso-bidi-font-style: normal">see Gazette</i>1996, No. S515) 
+Schedule 1 (items 3, 4): <i style="mso-bidi-font-style: normal">(a)</i> 
+Schedule 2 (item 1): <i style="mso-bidi-font-style: normal">(a) 
+
+ </i>Remainder: Royal Assent 
+
+</div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Corporations (Repeals, Consequentials and Transitionals) Act 2001</div>
+    </td>
+    <td>
+      <div>55, 2001</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2001" day="28" month="6">28 June 2001</st1:date></div>
+    </td>
+    <td>
+      <div>Ss. 4–14 and Schedule 3 (items 94, 95): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2001" day="15" month="7">15 July 2001</st1:date>( <i style="mso-bidi-font-style: normal">see Gazette</i>2001, No. S285) <i style="mso-bidi-font-style: normal">(b)</i></div>
+    </td>
+    <td>
+      <div>Ss. 4–14</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Financial Framework Legislation Amendment Act 2005</div>
+    </td>
+    <td>
+      <div>8, 2005</div>
+    </td>
+    <td>
+      <div>22 Feb 2005</div>
+    </td>
+    <td>
+      <div>S. 4 and Schedule 1 (items 110, 496): Royal Assent</div>
+    </td>
+    <td>
+      <div>S. 4 and Sch. 1 (item 496)</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 _(a)_ Subsection 2(2) of the _CFM Sale Act 1996_ provides as follows:
 
-                 (2)   Items 3 and 4 of Schedule 1 are taken to have commenced immediately after the commencement of Part 2 of the _Commonwealth Funds Management Limited Act 1990_.
+                 (2)   Items 3 and 4 of Schedule 1 are taken to have commenced immediately after the commencement of Part 2 of the _Commonwealth Funds Management Limited Act 1990_.
 
- Part 2 commenced on 1 March 1991.
+ Part 2 commenced on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1991" day="1" month="3">1 March 1991</st1:date>.
 
-_(b)_ The _CFM Sale Act 1996_ was amended by Schedule 3 (items 94 and 95) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
+_(b)_ The _CFM Sale Act 1996_ was amended by Schedule 3 (items 94 and 95) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
 
-                 (3)   Subject to subsections (4) to (10), Schedule 3 commences, or is taken to have commenced, at the same time as the _Corporations Act 2001_.
+                 (3)   Subject to subsections <st1:time minute="56" hour="9">(4) to (10)</st1:time>, Schedule 3 commences, or is taken to have commenced, at the same time as the _Corporations Act 2001_.
+
 
 ## Table of Amendments
 
@@ -1526,80 +1519,43 @@ _(b)_ The _CFM Sale Act 1996_ was amended by Schedule 3 (items 94 and 95) on
 <thead>
   <tr>
     <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+      <div>ad. = added or inserted  am. = amended  rep. = repealed  rs. = repealed and substituted</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>Provision affected</div>
+      <div>Provision affected <o:p></o:p> </div>
     </td>
     <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Part 1</b></div>
-    </td>
-    <td>
-      <div></div>
+      <div>How affected <o:p></o:p> </div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 55, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 48</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 56</div>
-  </td>
-  <td>
-    <div>am. No. 148, 2010</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>S. 3 </div>
+    </td>
+    <td>
+      <div>am. No. 55, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 48 </div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table A
 
 ### Application, saving or transitional provisions
 
-_Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)_
+_Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)<o:p></o:p>_
 
 ##### <a id="4"></a>4  Saving of matters in Part 2 of Schedule 1
 
@@ -1615,10 +1571,11 @@ then the thing has the corresponding effect, for the purposes of the Part 2 Ac
 
                     <a name="part-act"></a>**_Part 2 Act_** means an Act that is amended by an item in Part 2 of Schedule 1.
 
-## Schedule 1
+## Schedule 1<o:p></o:p>
 
 ## 496  Saving provision—Finance Minister’s determinations
 
 If a determination under subsection 20(1) of the _Financial Management and Accountability Act 1997_ is in force immediately before the commencement of this item, the determination continues in force as if it were made under subsection 20(1) of that Act as amended by this Act.
 
- 
+
+<o:p> </o:p>
