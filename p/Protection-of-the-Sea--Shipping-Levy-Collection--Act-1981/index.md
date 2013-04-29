@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00042/Html/ProtecSeaShipLevyColl1981_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00536/Html/ProtecSeaShipLevyColl1981_image001.gif)
 
 # Protection of the Sea (Shipping Levy Collection) Act 1981
 
 **Act No. 35 of 1981 as amended**
 
-This compilation was prepared on 2 February 2010
- taking into account amendments up to Act No. 131 of 2009
+This compilation was prepared on 15 October 2008
+ taking into account amendments up to Act No. 94 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -204,7 +204,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
              (3)  A reference in this section to levy payable in respect of a ship shall be read as including a reference to an amount that, under section 8, is payable on account of levy that may become payable in respect of the ship.
 
-##### <a id="13"></a>13  Regulations
+##### <a id="13"></a>13  Regulations
 
                    The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed, or necessary or convenient to be prescribed for carrying out or giving effect to this Act, and, in particular, prescribing penalties not exceeding $200 for offences against the regulations.
 
@@ -317,23 +317,6 @@ of Assent</div>
       <div>—</div>
     </td>
   </tr>
-  <tr>
-    <td>
-      <div>Personal Property Securities (Consequential Amendments) Act 2009</div>
-    </td>
-    <td>
-      <div>131, 2009</div>
-    </td>
-    <td>
-      <div>14 Dec 2009</div>
-    </td>
-    <td>
-      <div>Schedule 3 (item 14): \[ <i>see</i>Note 2]</div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
 </thead></table>
 
 _(a)_     The _Protection of the Sea (Shipping Levy Collection) Act 1981_ was amended by Part V (sections 41 and 42) only of the _Protection of the Sea Legislation Amendment Act 1986_, subsection 2(1) of which provides as follows:
@@ -395,23 +378,6 @@ _(a)_     The _Protection of the Sea (Shipping Levy Collection) Act 1981
     <div>am. No. 143, 2001</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Personal Property Securities (Consequential Amendments) Act 2009 
- (No. 131, 2009)_
-
-The following amendment commences on 1 February 2012 or an earlier time determined by the Minister (_see_ section 306 of the _Personal Property Securities Act 2009_):
-
-## Schedule 3
-
-## 14  At the end of section 12
-
-Add:
-
-             (4)  While a ship is detained under subsection (1), a person does not have the power of seizure provided for by section 123 of the _Personal Property Securities Act 2009_ in relation to the ship.
-
-As at 2 February 2010 the amendment is not incorporated in this compilation.
 
 ## Table A
 
