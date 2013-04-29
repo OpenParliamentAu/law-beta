@@ -1,24 +1,52 @@
-![](http://www.comlaw.gov.au/Details/C2010C00001/Html/FairWorkTransProvConseqAm2009_image001.png)
+![](http://www.comlaw.gov.au/Details/C2009C00339/Html/FairWorkTransProvConseqAm2009_image001.png)
 
 # Fair Work (Transitional Provisions and Consequential Amendments) Act 2009
 
 **Act No. 55 of 2009 as amended**
 
-This compilation was prepared on 1 January 2010
- taking into account amendments up to Act No. 124 of 2009
+This compilation was prepared on 15 July 2009
 
-The text of any of those amendments not in force
- on that date is appended in the Notes section
+**\[This Act was amended by Act No. 54 of 2009]**
 
-The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+**Amendments from Act No. 54 of 2009**
+
+\[Schedule 2 (items 1–7 and 34–42) amended item 2 of Schedule 2
+ Schedule 2 (items 8–12) amended item 2 of Schedule 3
+ Schedule 2 (item 13) added item 2A to Schedule 3
+ Schedule 2 (item 14) added item 8A to Schedule 3
+ Schedule 2 (item 15) added item 12A to Schedule 3
+ Schedule 2 (item 16) added Part 7 to Schedule 3
+ Schedule 2 (items 17 and 50) amended item 2 of Schedule 6
+ Schedule 2 (item 18) amended item 3 of Schedule 7
+ Schedule 2 (item 19) amended item 13 of Schedule 7
+ Schedule 2 (item 20) amended item 18 of Schedule 7
+ Schedule 2 (item 21) amended item 19 of Schedule 7
+ Schedule 2 (item 22) amended item 21 of Schedule 7
+ Schedule 2 (item 23) amended item 25 of Schedule 7
+ Schedule 2 (item 24) amended item 27 of Schedule 8
+ Schedule 2 (item 25) amended item 5 of Schedule 9
+ Schedule 2 (item 26) amended item 5 of Schedule 10
+ Schedule 2 (item 27) amended item 2 of Schedule 11
+ Schedule 2 (item 28) amended item 5 of Schedule 11
+ Schedule 2 (items 29 and 30) amended item 8 of Schedule 11
+ Schedule 2 (item 31) amended item 13 of Schedule 18
+ Schedule 2 (item 32) repealed and substituted item 1 of Schedule 20
+ Schedule 2 (item 33) amended section 2
+ Schedule 2 (item 43) amended item 29 of Schedule 3
+ Schedule 2 (item 44) repealed and substituted heading to Schedule 5
+ Schedule 2 (items 45–47) amended item 3 of Schedule 5
+ Schedule 2 (items 48 and 49) amended item 6 of Schedule 5
+ Schedule 2 (item 51) added Schedule 6A
+
+Schedule 2 (items 1–32 and 34–51) commenced immediately after 1 July 2009
+ Schedule 2 (item 33) commenced immediately after 25 June 2009]
 
 Prepared by the Office of Legislative Drafting and Publishing,
  Attorney-General’s Department, Canberra
 
 # Contents
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title
 
 [2](#2).            Commencement
 
@@ -34,213 +62,169 @@ Workplace Relations Act 1996                 �
 
 Part 1—Interpretation of the transitional Schedules                                             5
 
-Part 2—Regulations about transitional matters                                                    14
+Part 2—Regulations about transitional matters                                                    12
 
-Part 3—Conduct before WR Act repeal day etc.                                              17
+Part 3—Conduct before WR Act repeal day etc.                                              15
 
 **Schedule 3—Continued existence of awards, workplace agreements and certain other WR Act instruments** 
 
-Part 1—Preliminary                                                                                                        20
+Part 1—Preliminary                                                                                                        18
 
-Part 2—Continued existence of WR Act instruments as transitional instruments         21
+Part 2—Continued existence of WR Act instruments as transitional instruments         19
 
-Part 3—Variation and termination of transitional instruments                         31
+Part 3—Variation and termination of transitional instruments                         27
 
-Part 4—Transitional instruments and the Australian Fair Pay and Conditions Standard           40
+Part 4—Transitional instruments and the Australian Fair Pay and Conditions Standard           36
 
-Part 5—Transitional instruments and the FW Act                                              41
+Part 5—Transitional instruments and the FW Act                                              37
 
-Division 1—Interaction between transitional instruments and the National Employment Standards                41
+Division 1—Interaction between transitional instruments and the National Employment Standards                37
 
-Division 2—Interaction between transitional instruments and FW Act modern awards, enterprise agreements and workplace determinations                                                                  43
+Division 2—Interaction between transitional instruments and FW Act modern awards, enterprise agreements and workplace determinations                                                                  39
 
-Division 3—Other general provisions about how the FW Act applies in relation to transitional instruments 48
+Division 3—Other general provisions about how the FW Act applies in relation to transitional instruments 44
 
-Part 6—Preservation of redundancy provisions in agreements etc.             51
+Part 6—Preservation of redundancy provisions in agreements etc.             47
 
-Part 7—Victorian employment agreements                                                           56
-
-Part 8—Transitional pay equity order taken to have been made by FWA—Division 2B State reference transitional awards                                                                                        57
-
-**Schedule 3A—Treatment of State awards and State employment agreements of Division 2B referring States** 
-
-Part 1—Preliminary                                                                                                        59
-
-Part 2—Division 2B State instruments                                                                    60
-
-Part 3—Variation and termination of Division 2B State instruments           75
-
-Part 4—Transition of employees from Division 2B State awards to FW Act modern awards              81
-
-Division 1—FWA required to consider varying modern awards etc.                81
-
-Division 1A—Transitional pay equity order taken to have been made by FWA—Division 2B State awards 83
-
-Division 2—Avoiding reductions in take-home pay                                            85
-
-Part 5—Division 2B State instruments and the FW Act                                  89
-
-Division 1—Interaction between Division 2B State instruments and the National Employment Standards     89
-
-Division 2—Interaction between Division 2B State instruments and FW Act modern awards, enterprise agreements and workplace determinations                                                                  91
-
-Division 3—Other general provisions about how the FW Act applies in relation to Division 2B State instruments      95
-
-Part 6—Ongoing operation of State laws for transitional purposes             98
+Part 7—Victorian employment agreements                                                           52
 
 **Schedule 4—National Employment Standards** 
 
-Part 1—Preliminary                                                                                                      104
+Part 1—Preliminary                                                                                                        53
 
-Part 2—Continued application of WR Act minimum entitlements provisions (other than wages) during bridging period                                                                                                               105
+Part 2—Continued application of WR Act minimum entitlements provisions (other than wages) during bridging period                                                                                                                 54
 
-Part 3—Operation of the National Employment Standards                         107
-
-Division 1—Operation in relation to employees other than Division 2B State reference employees 107
-
-Division 2—Operation in relation to Division 2B State reference employees 111
+Part 3—Operation of the National Employment Standards                           56
 
 **Schedule 5—Modern awards (other than modern enterprise awards and State reference public sector modern awards)** 
 
-Part 1—Preliminary                                                                                                      116
+Part 1—Preliminary                                                                                                        61
 
-Part 2—The WR Act award modernisation process                                      117
+Part 2—The WR Act award modernisation process                                        62
 
-Part 3—Avoiding reductions in take-home pay                                                123
+Part 3—Avoiding reductions in take-home pay                                                  67
 
 **Schedule 6—Modern enterprise awards** 
 
-Part 1—Preliminary                                                                                                      127
+Part 1—Preliminary                                                                                                        71
 
-Part 2—The enterprise instrument modernisation process                            128
+Part 2—The enterprise instrument modernisation process                              72
 
-Division 1—Enterprise instruments                                                                      128
+Division 1—Enterprise instruments                                                                        72
 
-Division 2—The enterprise instrument modernisation process                       130
+Division 2—The enterprise instrument modernisation process                         74
 
-Division 3—Avoiding reductions in take-home pay                                          137
+Division 3—Avoiding reductions in take-home pay                                            80
 
-Division 4—Application of the FW Act                                                               139
+Division 4—Application of the FW Act                                                                 83
 
-Part 3—Amendments                                                                                                  141
+Part 3—Amendments                                                                                                    85
 
-Fair Work Act 2009                                                                                                 141
+Fair Work Act 2009                                                                                                   85
 
 **Schedule 6A—State reference public sector modern awards** 
 
-Part 1—Preliminary                                                                                                      149
+Part 1—Preliminary                                                                                                        93
 
-Part 2—The State reference public sector transitional award modernisation process                150
+Part 2—The State reference public sector transitional award modernisation process                94
 
-Division 1—State reference public sector transitional awards                         150
+Division 1—State reference public sector transitional awards                           94
 
-Division 2—The State reference public sector transitional award modernisation process  151
+Division 2—The State reference public sector transitional award modernisation process  95
 
-Division 3—Avoiding reductions in take-home pay                                          157
+Division 3—Avoiding reductions in take-home pay                                          101
 
-Division 4—Application of the FW Act                                                               160
+Division 4—Application of the FW Act                                                               103
 
 **Schedule 7—Enterprise agreements and workplace determinations made under the FW Act** 
 
-Part 1—Preliminary                                                                                                      161
+Part 1—Preliminary                                                                                                      105
 
-Part 2—Transitional provisions relating to the application of the no-disadvantage test to enterprise agreements made and varied during bridging period                                             162
+Part 2—Transitional provisions relating to the application of the no-disadvantage test to enterprise agreements made and varied during bridging period                                             106
 
-Division 1—Enterprise agreements and variations made during bridging period must pass no-disadvantage test        162
+Division 1—Enterprise agreements and variations made during bridging period must pass no-disadvantage test        106
 
-Division 2—The no-disadvantage test                                                                 163
+Division 2—The no-disadvantage test                                                                 107
 
-Part 3—Other requirements and modifications applying to making and varying enterprise agreements during the bridging period                                                                                             171
+Part 3—Other requirements and modifications applying to making and varying enterprise agreements during the bridging period                                                                                             114
 
-Division 1—Requirements relating to approval                                                  171
+Division 1—Requirements relating to approval                                                  114
 
-Division 2—Base rate of pay                                                                                  172
+Division 2—Base rate of pay                                                                                  115
 
-Division 3—No extensions of time                                                                        172
+Division 3—No extensions of time                                                                        115
 
-Division 4—State and Territory laws dealing with long service leave            173
+Division 4—State and Territory laws dealing with long service leave            116
 
-Part 4—Transitional provisions to apply the better off overall test after end of bridging period if award modernisation not yet completed                                                          174
+Part 4—Transitional provisions to apply the better off overall test after end of bridging period if award modernisation not yet completed                                                          117
 
-Part 4A—Transitional provisions to apply the better off overall test to enterprise agreements that cover Division 2B State award covered employees                                  178
+Part 5—Transitional provisions relating to workplace determinations made under the FW Act            121
 
-Part 5—Transitional provisions relating to workplace determinations made under the FW Act            182
-
-Part 6—Interaction with Australian Fair Pay and Conditions Standard during bridging period              185
-
-Part 7—Transitional provision about the operation of the better off overall test if a transitional pay equity order applies                                                                                                              187
+Part 6—Interaction with Australian Fair Pay and Conditions Standard during bridging period              124
 
 **Schedule 8—Workplace agreements and workplace determinations made under the WR Act** 
 
-Part 1—Preliminary                                                                                                      188
+Part 1—Preliminary                                                                                                      126
 
-Part 2—Transitional provisions relating to workplace agreements            189
+Part 2—Transitional provisions relating to workplace agreements            127
 
-Division 1—Transitional provisions relating to collective agreements made before the WR Act repeal day   189
+Division 1—Transitional provisions relating to collective agreements made before the WR Act repeal day   127
 
-Division 2—Transitional provisions relating to variations of collective agreements made before the WR Act repeal day                                                                                                             192
+Division 2—Transitional provisions relating to variations of collective agreements made before the WR Act repeal day                                                                                                             130
 
-Division 3—Transitional provisions relating to pre-WR Act repeal day terminations of collective agreements             195
+Division 3—Transitional provisions relating to pre-WR Act repeal day terminations of collective agreements             133
 
-Division 4—Transitional provisions relating to ITEAs made before the WR Act repeal day             197
+Division 4—Transitional provisions relating to ITEAs made before the WR Act repeal day             135
 
-Division 5—Transitional provisions relating to variations of ITEAs made before the WR Act repeal day      199
+Division 5—Transitional provisions relating to variations of ITEAs made before the WR Act repeal day      137
 
-Division 6—Transitional provisions relating to pre-WR Act repeal day terminations of ITEAs        201
+Division 6—Transitional provisions relating to pre-WR Act repeal day terminations of ITEAs        139
 
-Division 7—Transitional provisions relating to making ITEAs during the bridging period                203
+Division 7—Transitional provisions relating to making ITEAs during the bridging period                141
 
-Division 8—Applying the no-disadvantage test where there is a transmission or transfer of business           206
+Division 8—Applying the no-disadvantage test where there is a transmission or transfer of business           144
 
-Division 9—Miscellaneous                                                                                    210
+Division 9—Miscellaneous                                                                                    147
 
-Part 3—Transitional provisions relating to workplace determinations made under the WR Act            211
+Part 3—Transitional provisions relating to workplace determinations made under the WR Act            149
 
 **Schedule 9—Minimum wages** 
 
-Part 1—Preliminary                                                                                                      214
+Part 1—Preliminary                                                                                                      152
 
-Part 2—Special provisions relating to FWA’s first annual wage review 215
+Part 2—Special provisions relating to FWA’s first annual wage review 153
 
-Part 3—Continued application of WR Act provisions about minimum wages              217
+Part 3—Continued application of WR Act provisions about minimum wages              155
 
-Division 1—General provisions                                                                             217
+Division 1—General provisions                                                                             155
 
-Division 2—Special provisions about transitional APCSs                                220
+Division 2—Special provisions about transitional APCSs                                158
 
-Division 3—Special provisions about the FMW, special FMWs and the default casual loading      220
+Division 3—Special provisions about the FMW, special FMWs and the default casual loading      158
 
-Part 4—Universal application of minimum wages to employees: transitional instruments          223
-
-Part 5—Provisions relating to Division 2B State instruments                       226
-
-Division 1—Universal application of minimum wages to employees: Division 2B State reference employees 226
-
-Division 2—Other matters                                                                                      229
+Part 4—Universal application of minimum wages to employees                 161
 
 **Schedule 10—Equal remuneration** 
 
-Part 1—Preliminary                                                                                                      230
+Part 1—Preliminary                                                                                                      164
 
-Part 2—Equal remuneration orders under the FW Act                                  231
+Part 2—Equal remuneration orders under the FW Act                                  165
 
-Part 3—Equal remuneration orders under the WR Act                                 232
+Part 3—Equal remuneration orders under the WR Act                                 166
 
 **Schedule 11—Transfer of business** 
 
-Part 1—Preliminary                                                                                                      233
+Part 1—Preliminary                                                                                                      167
 
-Part 2—Transmissions of business occurring before WR Act repeal day 234
+Part 2—Transmissions of business occurring before WR Act repeal day 168
 
-Part 3—Transfers of business occurring on or after WR Act repeal day 240
+Part 3—Transfers of business occurring on or after WR Act repeal day 174
 
-Division 1—Transfers of business: transitional instruments                            240
+Division 1—General                                                                                                 174
 
-Division 2—Transfer of preserved redundancy provisions during bridging period             241
+Division 2—Transfer of preserved redundancy provisions during bridging period             175
 
-Division 3—Transfer of entitlements under the AFPCS during bridging period 245
-
-Division 4—Transfers of business: Division 2B State instruments                 246
+Division 3—Transfer of entitlements under the AFPCS during bridging period 178
 
 **Schedule 12—General protections** 
 
@@ -248,17 +232,17 @@ Division 4—Transfers of business: Division 2B State instruments   �
 
 **Schedule 13—Bargaining and industrial action** 
 
-Part 1—Preliminary                                                                                                      253
+Part 1—Preliminary                                                                                                      186
 
-Part 2—Bargaining                                                                                                        254
+Part 2—Bargaining                                                                                                        187
 
-Part 3—Industrial action                                                                                             256
+Part 3—Industrial action                                                                                             189
 
-Part 4—Protected action ballots                                                                             260
+Part 4—Protected action ballots                                                                             193
 
-Part 5—Effect of conduct engaged in while bargaining for WR Act collective agreement or collective State employment agreement                                                                             264
+Part 5—Effect of conduct engaged in while bargaining for WR Act collective agreement       196
 
-Part 6—Payments relating to periods of industrial action                              266
+Part 6—Payments relating to periods of industrial action                              197
 
 **Schedule 14—Right of entry** 
 
@@ -268,33 +252,33 @@ Part 6—Payments relating to periods of industrial action      �
 
 **Schedule 17—Amendments relating to the Fair Work Divisions of the Federal Court and the Federal Magistrates Court** 
 
-Part 1—Amendments to the Federal Court of Australia Act 1976           292
+Part 1—Amendments to the Federal Court of Australia Act 1976           218
 
-Federal Court of Australia Act 1976                                                                   292
+Federal Court of Australia Act 1976                                                                   218
 
-Part 2—Amendments to the Federal Magistrates Act 1999                        296
+Part 2—Amendments to the Federal Magistrates Act 1999                        222
 
-Federal Magistrates Act 1999                                                                              296
+Federal Magistrates Act 1999                                                                              222
 
-Part 3—Other amendments                                                                                       300
+Part 3—Other amendments                                                                                       226
 
-Administrative Decisions (Judicial Review) Act 1977                                     300
+Administrative Decisions (Judicial Review) Act 1977                                     226
 
-Part 4—Application and transitional provisions                                                 301
+Part 4—Application and transitional provisions                                                 227
 
-Part 5—Jurisdiction of courts                                                                                   303
+Part 5—Jurisdiction of courts                                                                                   229
 
 **Schedule 18—Institutions** 
 
-Part 1—Initial appointment of FWA Members                                                 306
+Part 1—Initial appointment of FWA Members                                                 232
 
-Part 2—WR Act bodies and WR Act offices                                                    309
+Part 2—WR Act bodies and WR Act offices                                                    235
 
-Part 3—Transitional role for Fair Work Ombudsman and Inspectors     314
+Part 3—Transitional role for Fair Work Ombudsman and Inspectors     240
 
-Part 4—Miscellaneous                                                                                                317
+Part 4—Miscellaneous                                                                                                243
 
-Fair Work Act 2009                                                                                                 321
+Fair Work Act 2009                                                                                                 247
 
 **Schedule 19—Dealing with disputes** 
 
@@ -304,55 +288,57 @@ Fair Work Act 2009                    �
 
 **Schedule 22—Registered organisations** 
 
-Part 1—Main amendments                                                                                        328
+Part 1—Main amendments                                                                                        254
 
-Workplace Relations Act 1996                                                                             328
+Workplace Relations Act 1996                                                                             254
 
-Part 2—State and federal organisations                                                               341
+Part 2—State and federal organisations                                                               267
 
-Workplace Relations Act 1996                                                                             341
+Workplace Relations Act 1996                                                                             267
 
-Part 3—Representation orders                                                                                353
+Part 3—Representation orders                                                                                279
 
-Workplace Relations Act 1996                                                                             353
+Workplace Relations Act 1996                                                                             279
 
-Part 4—References to Schedules to the Workplace Relations Act          359
+Part 4—References to Schedules to the Workplace Relations Act          285
 
-Fair Work Act 2009                                                                                                 359
+Fair Work Act 2009                                                                                                 285
 
-Workplace Relations Act 1996                                                                             359
+Workplace Relations Act 1996                                                                             285
 
-Part 5—References to the Workplace Relations Act etc.                             368
+Part 5—References to the Workplace Relations Act etc.                             294
 
-Workplace Relations Act 1996                                                                             368
+Workplace Relations Act 1996                                                                             294
 
-Part 6—References to the Commission etc.                                                       376
+Part 6—References to the Commission etc.                                                       302
 
-Workplace Relations Act 1996                                                                             376
+Workplace Relations Act 1996                                                                             302
 
-Part 7—References to the Registrar etc.                                                              390
+Part 7—References to the Registrar etc.                                                              316
 
-Fair Work Act 2009                                                                                                 390
+Fair Work Act 2009                                                                                                 316
 
-Workplace Relations Act 1996                                                                             390
+Workplace Relations Act 1996                                                                             316
 
-Part 8—References to awards and collective agreements                            407
+Part 8—References to awards and collective agreements                            333
 
-Fair Work Act 2009                                                                                                 407
+Fair Work Act 2009                                                                                                 333
 
-Workplace Relations Act 1996                                                                             407
+Workplace Relations Act 1996                                                                             333
 
-Part 9—Transitional provisions etc.                                                                       412
+Part 9—Transitional provisions etc.                                                                       338
 
 **Schedule 23—Other amendments of the FW Act** 
 
-Fair Work Act 2009                                                                                                 416
-
-**Notes** 
+Fair Work Act 2009                                                                                                 342
 
 ## An Act to amend laws, and deal with transitional matters, in connection with the _Fair Work Act 2009_, and for other purposes
 
-##### <a id="1"></a>1  Short title<span style="font-size:9.0pt; font-weight:normal"> [_see_ Note 1]</span>
+[_Assented to 25 June 2009_]
+
+The Parliament of Australia enacts:
+
+##### <a id="1"></a>1  Short title
 
                    This Act may be cited as the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_.
 
@@ -662,8 +648,6 @@ Note:          This table relates only to the provisions of th
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
- 
-
 ###### Schedule 1—Repeals
 
 <h9 class="ActHead9">Workplace Relations Act 1996</h9>
@@ -704,19 +688,11 @@ The **_transitional Schedules_** are the following (including any regulations ma
 
 In the transitional Schedules:
 
-**_affected employee_** of an employer: see subitem 43(6) of Schedule 3 and subitem 30A(4) of Schedule 3A.
-
 **_AFPCS interaction rules_**: see subitem 22(4) of Schedule 3.
 
 **_agreement-based transitional instrument_**: see subitem 2(5) of Schedule 3.
 
-**_applies_**:
-
-                     (a)  in relation to a transitional instrument: see subitem 3(2) of Schedule 3; and
-
-                     (b)  in relation to a Division 2B State award: see item 4 of Schedule 3A; and
-
-                     (c)  in relation to a Division 2B State employment agreement: see item 6 of Schedule 3A.
+**_applies_**, in relation to a transitional instrument: see subitem 3(2) of Schedule 3.
 
 **_award-based transitional instrument_**: see subitem 2(5) of Schedule 3.
 
@@ -728,17 +704,9 @@ In the transitional Schedules:
 
 **_collective agreement-based transitional instrument_**: see subitem 2(5) of Schedule 3.
 
-**_collective Division 2B State employment agreement_**: see subitem 5(5) of Schedule 3A.
-
-**_collective State employment agreement_**: see subitem 2(6) of Schedule 3A.
-
 **_common rule_** means a common rule within the meaning of clauses 82 to 87 of Schedule 6 to the WR Act (including those clauses as they continue to apply because of item 8A  of Schedule 3).
 
-**_conditional termination_**:
-
-                     (a)  in relation to an individual agreement-based transitional instrument: see subitem 18(1) of Schedule 3; and
-
-                     (b)  in relation to an individual Division 2B State employment agreement: see subitem 25(1) of Schedule 3A.
+**_conditional termination_**, in relation to an individual agreement-based transitional instrument: see subitem 18(1) of Schedule 3.
 
 **_continued AFPCS wages provisions_**: see subitem 5(1) of Schedule 9.
 
@@ -750,39 +718,7 @@ In the transitional Schedules:
 
                      (a)   in relation to a transitional instrument: see subitem 3(1) of Schedule 3; and
 
-                     (b)  in relation to a transitional minimum wage instrument: see item 6 of Schedule 9; and
-
-                     (c)  in relation to a Division 2B State award: see item 4 of Schedule 3A; and
-
-                     (d)  in relation to a Division 2B State employment agreement: see item 6 of Schedule 3A.
-
-**_Division 2A referring State_**: see subitem 2A(7) of Schedule 3.
-
-**_Division 2A State reference employee_**: see subitem 2A(3A) of Schedule 3.
-
-**_Division 2A State reference employer_**: see subitem 2A(4A) of Schedule 3.
-
-**_Division 2A State reference transitional award_**: see subitem 2A(1A) of Schedule 3.
-
-**_Division 2B enterprise award_**: see subitem 2(4) of Schedule 6.
-
-**_Division 2B referral commencement_**: see subitem 2(4A) of Schedule 3.
-
-**_Division 2B referring State_**: see subitem 2A(7) of Schedule 3.
-
-**_Division 2B State award_**: see item 3 of Schedule 3A.
-
-**_Division 2B State employment agreement_**: see item 5 of Schedule 3A.
-
-**_Division 2B State instrument_**: see item 2 of Schedule 3A.
-
-**_Division 2B State reference employee_**: see subitem 2A(3A) of Schedule 3.
-
-**_Division 2B State reference employer_**: see subitem 2A(4A) of Schedule 3.
-
-**_Division 2B State reference outworker entity_**: see subitem 4(3) of Schedule 3A.
-
-**_Division 2B State reference transitional award_**: see subitem 2A(1A) of Schedule 3.
+                     (b)  in relation to a transitional minimum wage instrument: see item 6 of Schedule 9.
 
 **_enterprise award-based instrument_**: see subitem 2(2) of Schedule 6 _._
 
@@ -798,21 +734,9 @@ In the transitional Schedules:
 
 **_individual agreement-based transitional instrument_**: see subitem 2(5) of Schedule 3.
 
-**_individual Division 2B State employment agreement_**: see subitem 5(6) of Schedule 3A.
+**_instrument content rules_**: see subitem 4(2) of Schedule 3.
 
-**_individual State employment agreement_**: see subitem 2(7) of Schedule 3A.
-
-**_instrument content rules_**:
-
-                     (a)  in Schedule 3: see subitem 4(2) of Schedule 3; and
-
-                     (b)  in Schedule 3A: see subitem 10(2) of Schedule 3A.
-
-**_instrument interaction rules_**:
-
-                     (a)  in Schedule 3: see subitem 5(2) of Schedule 3; and
-
-                     (b)  in Schedule 3A: see subitem 11(2) of Schedule 3A.
+**_instrument interaction rules_**: see subitem 5(2) of Schedule 3.
 
 **_lodged_**:
 
@@ -842,39 +766,13 @@ In the transitional Schedules:
 
 **_modify_** includes make additions, omissions and substitutions.
 
-**_nominal expiry date_**, in relation to a Division 2B State employment agreement: see item 27 of Schedule 3A.
-
-**_outworker interaction rules_**: see subitem 12(2) of Schedule 3A.
-
 **_Part 10A award modernisation process_**: see subitem 2(1) of Schedule 5.
 
 **_part of a single enterprise_**: see subitem 3(4) of Schedule 6.
 
-**_referring State_**: see subitem 2A(7) of Schedule 3.
-
 **_single enterprise_**: see item 3 of Schedule 6.
 
-**_source agreement_**, in relation to a Division 2B State employment agreement: see subitem 5(1) of Schedule 3A.
-
-**_source award_**, in relation to a Division 2B State award: see subitem 3(1) of Schedule 3A.
-
-**_source State_**:
-
-                     (a)  in relation to a Division 2B State award: see subitem 3(1) of Schedule 3A; and
-
-                     (b)  in relation to a Division 2B State employment agreement: see subitem 5(1) of Schedule 3A.
-
 **_State and Territory interaction rules_**: see subitem 5A(2) of Schedule 3.
-
-**_State award_**: see item 2 of Schedule 3A.
-
-**_State employment agreement_**: see item 2 of Schedule 3A.
-
-**_State industrial body_** means a commission performing or exercising functions under a State industrial law, and includes a member of such a commission and a registrar or deputy registrar of such a commission.
-
-**_State industrial law_** means a law of a State that is a State or Territory industrial law as defined in section 26 of the FW Act.
-
-**_State minimum wages instruments_**: see item 19 of Schedule 9.
 
 **_State reference common rule_**: see subitem 2A(2) of Schedule 3.
 
@@ -898,9 +796,9 @@ In the transitional Schedules:
 
 **_State reference transitional award or common rule_** means a State reference transitional award or a State reference common rule.
 
-**_take-home pay_**: see subitem 31(2) of Schedule 3A, subitem 8(2) of Schedule 5, subitem 11(2) of Schedule 6 and subitem 13(2) of Schedule 6A.
+**_take-home pay_**: see subitem 8(2) of Schedule 5, subitem 11(2) of Schedule 6 and subitem 13(2) of Schedule 6A.
 
-**_take-home pay order_**: see subitems 32(1) and (2) of Schedule 3A, subitems 9(1) and (2) of Schedule 5, subitem 12(1) of Schedule 6 and subitem 14(1) of Schedule 6A.
+**_take-home pay order_**: see subitems 9(1) and (2) of Schedule 5, subitem 12(1) of Schedule 6 and subitem 14(1) of Schedule 6A.
 
 **_this Act_** includes the regulations.
 
@@ -913,8 +811,6 @@ In the transitional Schedules:
 **_transitional minimum wage instrument_**: see subitem 5(3) of Schedule 9.
 
 **_transitional national minimum wage order_**: see subitem 12(2) of Schedule 9.
-
-**_transitional pay equity order_**: see subitem 43(1) of Schedule 3 and subitem 30A(1) of Schedule 3A.
 
 **_transitional Schedules_**: see item 1 of this Schedule.
 
@@ -1010,23 +906,13 @@ _Note:       For example, item 2 of Schedule 4 provides for the 
 
                      (a)  the transition from the regime provided for by the WR Act (and any Acts that amended that Act) to the regime provided for by the FW Act;
 
-                     (b)  the amendments and repeals made by the Schedules to this Act;
-
-                     (c)  the transition from the regime provided for by State industrial laws of Division 2B referring States to the regime provided for by this Act and the FW Act, including:
-
-                              (i)  the transition from State awards and State employment agreements to Division 2B State instruments; and
-
-                             (ii)  the transition from Division 2B State instruments to modern awards and enterprise agreements;
-
-                     (d)  the amendments and repeals made by the _Fair Work Amendment (State Referrals and Other Measures Act) 2009_.
+                     (b)  the amendments and repeals made by the Schedules to this Act.
 
 (2)        Without limiting subitem (1), regulations made for the purpose of that subitem may do any of the following:
 
                      (a)  modify provisions of the FW Act, or provide for the application (with or without modifications) of provisions of the FW Act to matters to which they would otherwise not apply;
 
-                     (b)  provide for the application (with or without modifications) of provisions of the WR Act on and after the WR Act repeal day;
-
-                     (c)  provide for the application (with or without modifications), as laws of the Commonwealth, of provisions of State industrial laws of Division 2B referring States on and after the Division 2B referral commencement.
+                     (b)  provide for the application (with or without modifications) of provisions of the WR Act on and after the WR Act repeal day.
 
 ## 8  Regulations relating to matters dealt with in the transitional Schedules
 
@@ -1136,7 +1022,7 @@ _Note:       For the purposes of transition from the WR Act to the F
 
                      (c)  a process (however described), other than an interim process, that could have been initiated by the Commission on its own motion because of item 11 may be initiated only by FWA; and
 
-                     (d)  a matter that could have been referred to the Commission under section 46PW of the _Australian Human Rights Commission Act 1986_ because of item 11 is to be referred only to FWA.
+                     (d)  a matter that could have been referred to the Commission under section 46PW of the _Human Rights and Equal Opportunity Commission Act 1986_ because of item 11 is to be referred only to FWA.
 
 (2)        For the purposes of subitem (1), a law of the Commonwealth that relates to an application, appeal, process or matter referred to in that subitem is to be read:
 
@@ -1176,7 +1062,7 @@ In this Schedule, **_employee_** and **_employer_** have their ordinary meanings
 
 ## 2  WR Act instruments that continue in existence as transitional instruments
 
-(1)        Each WR Act instrument (see subitem (2)) that becomes a transitional instrument (see subitems (3) to (4A)) continues in existence in accordance with this Schedule from when it becomes a transitional instrument, despite the WR Act repeal.
+(1)        Each WR Act instrument (see subitem (2)) that becomes a transitional instrument (see subitems (3) and (4)) continues in existence in accordance with this Schedule from when it becomes a transitional instrument, despite the WR Act repeal.
 
 _Note:       In addition to provisions of this Schedule, the following other provisions affect the continued existence of transitional instruments:_
 
@@ -1224,7 +1110,7 @@ _Note 4:    For transitional provisions relating to other transitional awa
 
 (3)        The following WR Act instruments become **_transitional instruments_** on the WR Act repeal day:
 
-                     (a)  each WR Act instrument (other than a Division 2B State reference transitional award) that was in operation immediately before the WR Act repeal day;
+                     (a)  each WR Act instrument that was in operation immediately before the WR Act repeal day;
 
                      (b)  each workplace agreement or workplace determination  made before the WR Act repeal day  but that had not yet come into operation by that day;
 
@@ -1235,8 +1121,6 @@ _Note:       Victorian employment agreements are not continued as tr
 (3A)     If a State reference common rule comes into effect  on or after the WR Act repeal day under the provisions that continue to apply because of item 8A, the State reference common rule becomes a **_transitional instrument_** when the common rule comes into effect.
 
 (4)        If an ITEA  is made during the bridging period under Division 7 of Part 2 of Schedule 8, the ITEA becomes a **_transitional instrument_** when it is made.
-
-(4A)     A Division 2B State reference transitional award becomes a **_transitional instrument_** on the Division 2B referral commencement. The **_Division 2B referral commencement_** is the time when Division 2B of Part 1-3 of the FW Act commences.
 
 (5)        Transitional instruments are classified as follows:
 
@@ -1268,7 +1152,7 @@ _Note:       Victorian employment agreements are not continued as tr
 
                             (iv)  pre-reform AWAs.
 
-## 2A  Meaning of _State reference transitional award_ and various other expressions associated with State references
+## 2A  Meanings of _State reference transitional award_ and _State reference common rule_
 
 (1)        A **_State reference transitional award_** is a transitional award that covers:
 
@@ -1278,37 +1162,19 @@ _Note:       Victorian employment agreements are not continued as tr
 
 _Note:       A transitional award includes a transitional Victorian reference award._
 
-(1A)     State reference transitional awards are classified as follows:
-
-                     (a)  if the employers and employees covered are Division 2A State reference employers and Division 2A State reference employees—the State reference transitional award is a **_Division 2A State reference transitional award_**;
-
-                     (b)  if the employers and employees covered are Division 2B State reference employers and Division 2B State reference employees—the State reference transitional award is a **_Division 2B State reference transitional award_**.
-
 (2)        A **_State reference common rule_** is a common rule that covers:
 
                      (a)  specified State reference employers; and
 
                      (b)  specified State reference employees of those employers.
 
-(3)        A **_State reference employee_** is an employee who is a national system employee only because of section 30C or 30M of the FW Act.
+(3)        A **_State reference employee_** is an employee who is a national system employee only because of section 30C of the FW Act.
 
-(3A)     State reference employees are classified as follows:
-
-                     (a)  employees who are national system employees because of section 30C of the FW Act are **_Division 2A State reference employees_**;
-
-                     (b)  employees who are national system employees because of section 30M of the FW Act are **_Division 2B State reference employees_**.
-
-(4)        A **_State reference employer_** is an employer that is a national system employer only because of section 30D or 30N of the FW Act.
-
-(4A)     State reference employers are classified as follows:
-
-                     (a)  employers that are national system employers because of section 30D of the FW Act are **_Division 2A State reference employers_**;
-
-                     (b)  employers that are national system employers because of section 30N of the FW Act are **_Division 2B State reference employers_**.
+(4)        A **_State reference employer_** is an employer that is a national system employer only because of section 30D of the FW Act.
 
 (5)        If:
 
-                     (a)  a transitional award (the **_current award_**), as in force on the WR Act repeal day, covers one or more Division 2A State reference employers, and Division 2A State reference employees of those employers; and
+                     (a)  a transitional award (the **_current award_**) covers one or more State reference employers, and State reference employees of those employers; and
 
                      (b)  the current award also covers:
 
@@ -1316,9 +1182,9 @@ _Note:       A transitional award includes a transitional Victorian 
 
                              (ii)  other employers, and employees of those other employers;
 
-then, for the purposes of this Act, the current award is taken instead, on and after that day (subject to subitem (6)), to constitute 2 separate transitional awards as follows:
+then, for the purposes of this Act, the current award is taken instead to constitute 2 separate transitional awards as follows:
 
-                     (c)  a Division 2A State reference transitional award covering:
+                     (c)  a State reference transitional award covering:
 
                               (i)  the employers, and the employees of those employers, referred to in paragraph (a); and
 
@@ -1329,36 +1195,6 @@ then, for the purposes of this Act, the current award is taken instead, on and a
                               (i)  the employers, and the employees of those employers, referred to in paragraph (b); and
 
                              (ii)  if the current award covers an organisation, in relation to certain employers or employees referred to in paragraph (b)—that organisation in relation to those employers or employees.
-
-(6)        If:
-
-                     (a)  a transitional award (the **_current award_**), as in force on the Division 2B referral commencement, covers one or more Division 2B State reference employers, and Division 2B State reference employees of those employers; and
-
-                     (b)  the current award also covers:
-
-                              (i)  other employees of those employers; or
-
-                             (ii)  other employers, and employees of those other employers;
-
-then, for the purposes of this Act, the current award is taken instead, on and after the Division 2B referral commencement, to constitute 2 separate transitional awards as follows:
-
-                     (c)  a Division 2B State reference transitional award covering:
-
-                              (i)  the employers, and the employees of those employers, referred to in paragraph (a); and
-
-                             (ii)  if the current award covers an organisation, in relation to certain employers or employees referred to in paragraph (a)—that organisation in relation to those employers or employees;
-
-                     (d)  a transitional award covering:
-
-                              (i)  the employers, and the employees of those employers, referred to in paragraph (b); and
-
-                             (ii)  if the current award covers an organisation, in relation to certain employers or employees referred to in paragraph (b)—that organisation in relation to those employers or employees.
-
-(7)        A **_referring State_** is:
-
-                     (a)  a State (a **_Division 2A referring State_**) that is a referring State as defined in section 30B of the FW Act; or
-
-                     (b)  a State (a **_Division 2B referring State_**) that is a referring State as defined in section 30L of the FW Act.
 
 ## 3  The employees, employers etc. who are _covered_ by a transitional instrument and to whom it _applies_
 
@@ -1564,9 +1400,9 @@ _Note:       For variation of a transitional instrument to resolve a
 
 (2)        A variation of a transitional instrument operates from the day specified in the determination, which may be a day before the determination is made.
 
-## 11  All kinds of transitional instrument: variation on referral by AHRC
+## 11  All kinds of transitional instrument: variation on referral by HREOC
 
-(1)        This item applies if a transitional instrument is referred to FWA under section 46PW of the _Australian Human Rights Commission Act 1986_ (which deals with discriminatory industrial instruments).
+(1)        This item applies if a transitional instrument is referred to FWA under section 46PW of the _Human Rights and Equal Opportunity Commission Act 1986_ (which deals with discriminatory industrial instruments).
 
 (2)        If the instrument is an award-based transitional instrument, section 161 of the FW Act applies in relation to the referral of the instrument as if the instrument were a modern award.
 
@@ -1764,7 +1600,7 @@ Division 3 pre-reform certified agreements
 
                               (i)  the agreement has passed its nominal expiry date;
 
-                             (ii)  it has been replaced by a State employment agreement (within the meaning of the WR Act).
+                             (ii)  it has been replaced by a State employment agreement.
 
 (3)        However, if the employer becomes a national system employer before 27 March 2011, subitem (2) does not apply after that time.
 
@@ -1774,7 +1610,7 @@ Old IR agreements
 
                      (a)  27 March 2011;
 
-                     (b)  when it has been replaced by a State employment agreement (within the meaning of the WR Act).
+                     (b)  when it has been replaced by a State employment agreement.
 
 (5)        However, if the employer becomes a national system employer before 27 March 2011, subitem (4) does not apply after that time.
 
@@ -1794,7 +1630,7 @@ the award terminates on the earlier of the following:
 
                      (c)  27 March 2011;
 
-                     (d)  when it has been replaced by a State employment agreement (within the meaning of the WR Act).
+                     (d)  when it has been replaced by a State employment agreement.
 
 (7)        However, if the employer becomes a national system employer before 27 March 2011, subitem (6) does not apply after that time.
 
@@ -2146,7 +1982,7 @@ _Note:       For how long the redundancy provision continues to appl
 
 (3)        A redundancy provision that continues to apply to a person under subitem (2) is taken, for the purpose of this Act, to be a transitional instrument of the same kind as the terminated instrument. However, this does not apply for the purpose of:
 
-                     (a)  the provisions of Parts 2, 3, 4 and 5 of this Schedule, other than subitems 20(2) and (3) and item 23; or
+                     (a)  the provisions of Parts 2, 3, 4 and 5 of this Schedule, other than subitem 20(2) and item 23; or
 
                      (b)  any other provisions prescribed by the regulations.
 
@@ -2286,1294 +2122,6 @@ Notification requirements if the transitional instrument is an individual agreem
 
 On and after the WR Act repeal day the Victorian employment agreement is enforceable by one of the parties against the other party as if it were a contract. The provisions of Division 12 of Part 21 of the WR Act do not continue to apply in relation to the agreement.
 
-<h7 class="ActHead7">Part 8—Transitional pay equity order taken to have been made by FWA—Division 2B State reference transitional awards</h7>
-
-## 43  FWA taken to have made a transitional pay equity order to continue the effect of State pay equity orders
-
-(1)        On the Division 2B referral commencement, FWA is taken to have made an order (the **_transitional pay equity order_**) under this item.
-
-(2)        The  transitional pay equity order applies to an employer if:
-
-                     (a)  a modern award applies to the employer on or after the Division 2B referral commencement; and
-
-                     (b)  the employer is prescribed by the regulations for the purposes of this paragraph, or is included in a class of employers prescribed by the regulations for the purposes of this paragraph; and
-
-                     (c)  immediately before the Division 2B referral commencement, a transitional award (the **_relevant transitional award_**) applied to the employer.
-
-_Note:       Transitional award has the same meaning as in Schedule 6 to the WR Act. Schedule 6 is continued in operation by Schedule 20 to this Act._
-
-(3)        An employer must not be prescribed by regulations for the purposes of paragraph (2)(b) unless:
-
-                     (a)  an order, decision or determination of a State industrial body (the **_source pay equity order_**) would have applied to the employer if the relevant transitional award had not applied to the employer; and
-
-                     (b)  the source pay equity order satisfies subitem (4).
-
-(4)        A source pay equity order  satisfies this subitem if it:
-
-                     (a)  was made before 15 September 2009; and
-
-                     (b)  provided for increases in rates of pay payable to a particular class of employees (whether the increases were expressed to take effect before, on or after the Division 2B referral commencement); and
-
-                     (c)  was made wholly or partly on the ground of work value, pay equity or equal remuneration (however described); and
-
-                     (d)  is prescribed by the regulations for the purposes of this paragraph.
-
-(5)        If the transitional pay equity order applies to an employer, the employer is required to pay to each affected employee of the employer a base rate of pay, in respect of a period, that is not less than the base rate of pay that the employee would have been entitled to be paid if the source pay equity order had applied to the employer in respect of the period.
-
-(6)        An employee of an employer to which this item applies is an **_affected employee_** of the employer if the employee performs work of a kind, at a classification level (however described), in relation to which the source pay equity order determines a base rate of pay.
-
-(7)        The transitional pay equity order takes effect in relation to the employer immediately after the modern award begins to apply to the employer.
-
-(8)        A term of a modern award is of no effect to the extent that:
-
-                     (a)  an employee is entitled to be paid by an employer a base rate of pay under the transitional pay equity order in respect of a particular period; and
-
-                     (b)  the term of the modern award requires the employer to pay a base rate of pay, in respect of that period, that is less than the base rate of pay referred to in paragraph (a).
-
-(9)        However, to avoid doubt, a term of a modern award continues to have effect so far as it requires an employer to pay a base rate of pay, in respect of a period, that is equal to or more than the base rate of pay referred to in paragraph (8)(a).
-
-###### Schedule 3A—Treatment of State awards and State employment agreements of Division 2B referring States
-
-<h7 class="ActHead7">Part 1—Preliminary</h7>
-
-## 1  Meanings of _employer_ and _employee_
-
-In this Schedule, **_employer_** and **_employee_** have their ordinary meanings.
-
-<h7 class="ActHead7">Part 2—Division 2B State instruments</h7>
-
-## 2  What are Division 2B State instruments?
-
-(1)        A **_Division 2B State instrument_** is a Division 2B State award (see item 3) or a Division 2B State employment agreement (see item 5).
-
-(2)        Subject to subitem (3), a **_State award_** is an instrument in relation to which the following conditions are satisfied:
-
-                     (a)  the instrument regulates terms and conditions of employment;
-
-                     (b)  the instrument was made under a State industrial law by a State industrial body;
-
-                     (c)  the instrument is referred to in that law as an award.
-
-_Note:       This definition does not apply to a reference in a provision of this Act to a State award if the provision expressly refers to the meaning that was given by the WR Act._
-
-(3)        The regulations may provide that an instrument of a specified kind:
-
-                     (a)  is a **_State award_**; or
-
-                     (b)  is not a **_State award_**.
-
-(4)        Subject to subitem (5), a **_State employment agreement_** is:
-
-                     (a)  an agreement in relation to which the following conditions are satisfied:
-
-                              (i)  the agreement is between an employer and one or more employees of the employer, or between an employer and an association of employees registered under a State industrial law;
-
-                             (ii)  the agreement determines terms and conditions of employment of one or more employees of the employer;
-
-                            (iii)  the agreement was made under a State industrial law; or
-
-                     (b)  a determination in relation to which the following conditions are satisfied:
-
-                              (i)  the determination determines terms and conditions of employment;
-
-                             (ii)  the determination was made under a State industrial law by a State industrial body;
-
-                            (iii)  the determination was made in a situation in which parties who were negotiating for the making of an agreement of a kind described in paragraph (a) had not been able to reach an agreement;
-
-                            (iv)  the purpose of the determination was to resolve the matters that were at issue in those negotiations.
-
-_Note:       This definition does not apply to a reference in a provision of this Act to a State employment agreement if the provision expressly refers to the meaning that was given by the WR Act._
-
-(5)        The regulations may provide that an instrument of a specified kind:
-
-                     (a)  is a **_State employment agreement_**; or
-
-                     (b)  is not a **_State employment agreement_**.
-
-(6)        A State employment agreement is a **_collective State employment agreement_** unless:
-
-                     (a)  it is an agreement of a kind that, under the relevant State industrial law, could only be entered into by a single employee and a single employer; or
-
-                     (b)  the agreement is of a kind prescribed by the regulations for the purpose of this paragraph.
-
-(7)        A State employment agreement referred to in paragraph (6)(a) or (b) is an **_individual State employment agreement_**.
-
-## 3  Division 2B State awards
-
-(1)        If, immediately before the Division 2B referral commencement:
-
-                     (a)  a State award (the **_source award_**) was in operation under a State industrial law of a Division 2B referring State (the **_source State_**); and
-
-                     (b)  the source award covered (however described in the source award or a relevant law of the source State) employers and employees who become Division 2B State reference employers and Division 2B State reference employees on the Division 2B referral commencement (whether or not the source award also covered other persons);
-
-a **_Division 2B State award_** is taken to come into operation immediately after the Division 2B referral commencement.
-
-_Note 1:    A Division 2B State award is a notional federal instrument derived from the source award._
-
-_Note 2:    In addition to provisions of this Schedule, the following other provisions affect the existence of Division 2B State awards:_
-
-(a)    Division 2 of Part 2 of Schedule 6 (which deals with the enterprise instrument modernisation process);
-
-(b)    Schedule 11 (which deals with transfer of business).
-
-(2)        Subject to this Schedule, the Division 2B State award is taken to include the same terms as were in the source award immediately before the Division 2B referral commencement.
-
-_Note:       For the meanings of Division 2B referral commencement, Division 2B referring State, Division 2B State reference employee and Division 2B State reference employer, see items 2 and 2A of Schedule 3._
-
-(3)        If the terms of the source award were affected by an order, decision or determination of a State industrial body or a court of the source State that was in operation immediately before the Division 2B referral commencement, the terms of the Division 2B State award are taken to be similarly affected by the terms of that order, decision or determination.
-
-## 4  The employees, employers etc. who are _covered_ by a Division 2B State award and to whom it _applies_
-
-Meaning of **covers**
-
-(1)        A Division 2B State award **_covers_** the same employees, employers, outworker entities and any other persons that the source award covered (however described in the award or a relevant law of the source State) immediately before the Division 2B referral commencement.
-
-_Note:       The expression covers is used to indicate the range of employees, employers etc. to whom the Division 2B State award potentially applies (see subitem (5)). The employees, employers etc. who are within this range will depend on the terms of the award, and on any relevant provisions of the law of the source State._
-
-(2)        The Division 2B State award also **_covers_** any employees who become employed by an employer on or after the Division 2B referral commencement, and who would have been covered by the source award if they had become so employed immediately before that commencement.
-
-(3)        However, the Division 2B State award does not **_cover_**:
-
-                     (a)  any employees, employers or outworker entities that are not Division 2B State reference employees, Division 2B State reference employers or Division 2B State reference outworker entities; or
-
-                     (b)  any employees, employers or outworker entities that are covered by an award-based transitional instrument.
-
-A **_Division 2B State reference outworker entity_** is an entity that is an outworker entity only because of section 30Q of the FW Act.
-
-(4)        If:
-
-                     (a)  after the Division 2B referral commencement, a person (the **_employer_**) starts to employ employees to do work of a kind that was regulated by the source award immediately before that commencement; and
-
-                     (b)  the employer did not employ employees to do that kind of work immediately before that commencement;
-
-then the Division 2B State award also does not **_cover_** any of the following, in relation to that kind of work:
-
-                     (c)  the employer;
-
-                     (d)  employees of the employer;
-
-                     (e)  any other persons, in relation to the employer or employees of the employer.
-
-Meaning of **applies**
-
-(5)        A Division 2B State award **_applies_** to the same employees, employers, outworker entities and any other persons that the Division 2B State award covers as would have been required by the law of the source State to comply with terms of the source award, or entitled under the law of the source State to enforce terms of the source award, if:
-
-                     (a)  the State had not been a referring State; and
-
-                     (b)  the law of the source State had continued to apply.
-
-_Note 1:    The expression applies is used to indicate the range of employees, employers etc. who are required to comply with, or can enforce, the terms of the Division 2B State award._
-
-_Note 2:    The Division 2B State award does not apply to any employers, employees or other persons that it does not cover, whether because of subitem (3) or (4) or otherwise._
-
-(6)        However, a Division 2B State award does not **_apply_** to an employee (or to an employer, or an employee organisation, in relation to the employee) at a time when the employee is a high income employee (see section 329 of the FW Act).
-
-_Note:       Item 50 deals with the application of section 329 of the FW Act to Division 2B State awards._
-
-Item has effect subject to other provisions
-
-(7)        This item has effect subject to:
-
-                     (a)  the instrument interaction rules (see item 11); and
-
-                     (b)  the termination of Division 2B State instruments as referred to in item 18; and
-
-                     (c)  Division 2 of Part 5 of this Schedule (which deals with interaction between Division 2B State instruments and FW Act modern awards, enterprise agreements and workplace determinations); and
-
-                     (d)  Schedule 11 (which deals with transfer of business).
-
-References to laws of States
-
-(8)        References in this item to the law of a State are references to the law of the State as in force immediately before the Division 2B referral commencement.
-
-## 5  Division 2B State employment agreements
-
-State employment agreements that were in operation immediately before the Division 2B referral commencement
-
-(1)        If, immediately before the Division 2B referral commencement:
-
-                     (a)  a State employment agreement (the **_source agreement_**) was in operation under a State industrial law of a Division 2B referring State (the **_source State_**); and
-
-                     (b)  the source agreement covered (however described in the source agreement or a relevant law of the source State) employers and employees who become Division 2B State referral employers and Division 2B State referral employees on the Division 2B referral commencement (whether or not the source agreement also covered other persons);
-
-a **_Division 2B State employment agreement_** is taken to come into operation immediately after the Division 2B referral commencement.
-
-_Note 1:    A Division 2B State employment agreement is a notional federal instrument derived from the source agreement._
-
-_Note 2:    In addition to provisions of this Schedule, the following other provisions affect the existence of Division 2B State employment agreements:_
-
-(a)    Division 2 of Part 2 of Schedule 6 (which deals with the enterprise instrument modernisation process);
-
-(b)    Schedule 11 (which deals with transfer of business).
-
-_Note 3:    For the meanings of Division 2B referral commencement, Division 2B referring State, Division 2B State reference employee and Division 2B State reference employer, see items 2 and 2A of Schedule 3._
-
-(2)        Subject to this Schedule, the Division 2B State employment agreement is taken to include the same terms as were in the source agreement immediately before the Division 2B referral commencement.
-
-State employment agreements that come into operation on or after the Division 2B referral commencement
-
-(3)        If, on or after the Division 2B referral commencement:
-
-                     (a)  a State employment agreement (the **_source agreement_**) comes into operation under a State industrial law of a Division 2B referring State (the **_source State_**); and
-
-                     (b)  the source agreement covers (however described in the source agreement or a relevant law of the source State) employers and employees who are Division 2B State referral employers and Division 2B State referral employees when the source agreement comes into operation (whether or not the source agreement also covers other persons);
-
-a **_Division 2B State employment agreement_** is taken to come into operation immediately after the source agreement comes into operation.
-
-_Note 1:    A Division 2B State employment agreement is a notional federal instrument derived from the source agreement._
-
-_Note 2:    There is limited scope for State employment agreements that cover Division 2B State referral employers and employees to come into operation on or after the Division 2B referral commencement: see Part 6 of this Schedule._
-
-_Note 3:    In addition to provisions of this Schedule, the following other provisions affect the existence of Division 2B State employment agreements:_
-
-(a)    Division 2 of Part 2 of Schedule 6 (which deals with the enterprise instrument modernisation process);
-
-(b)    Schedule 11 (which deals with transfer of business).
-
-(4)        Subject to this Schedule, the Division 2B State employment agreement is taken to include the same terms as were in the source agreement when it came into operation.
-
-Collective and individual Division 2B State employment agreements
-
-(5)        If the source agreement in relation to a Division 2B State employment agreement is a collective State employment agreement, the Division 2B State employment agreement is a **_collective_** **_Division 2B State employment agreement_**.
-
-(6)        If the source agreement in relation to a Division 2B State employment agreement is an individual State employment agreement, the Division 2B State employment agreement is an **_individual_** **_Division 2B State employment agreement_**.
-
-## 6  The employees, employers etc. who are _covered_ by a Division 2B State employment agreement and to whom it _applies_
-
-Meaning of **covers**
-
-(1)        A Division 2B State employment agreement **_covers_** the same employees, employers and any other persons that the source agreement covered (however described in the agreement or a relevant law of the source State) immediately before the Division 2B State employment agreement came into operation.
-
-_Note:       The expression covers is used to indicate the range of employees, employers etc. to whom the Division 2B State employment agreement potentially applies (see subitem (4)). The employees, employers etc. who are within this range will depend on the terms of the agreement, and on any relevant provisions of the law of the source State._
-
-(2)        The Division 2B State employment agreement also **_covers_** any employees who become employed by an employer on or after the time when the agreement came into operation, and who would have been covered by the source agreement if they had become so employed immediately before that time.
-
-(3)        However, the Division 2B State employment agreement does not **_cover_**:
-
-                     (a)  any employees or employers that are not Division 2B State reference employees or Division 2B State reference employers; or
-
-                     (b)  any employees or employers that are covered by an award-based transitional instrument.
-
-Meaning of **applies**
-
-(4)        A Division 2B State employment agreement **_applies_** to the same employees, employers and any other persons that the Division 2B State employment agreement covers as would have been required by the law of the source State to comply with terms of the source agreement, or entitled under the law of the source State to enforce terms of the source agreement, if:
-
-                     (a)  the source State had not been a referring State; and
-
-                     (b)  the law of the source State had continued to apply.
-
-_Note 1:    The expression applies is used to indicate the range of employees, employers etc. who are required to comply with, or can enforce, the terms of the Division 2B State employment agreement._
-
-_Note 2:    The Division 2B State employment agreement does not apply to any employers, employees or other persons that it does not cover, whether because of subitem (3) or otherwise._
-
-Item has effect subject to other provisions
-
-(5)        This item has effect subject to:
-
-                     (a)  the instrument interaction rules (see item 11); and
-
-                     (b)  the termination of Division 2B State instruments as referred to in item 18; and
-
-                     (c)  Division 2 of Part 5 of this Schedule (which deals with interaction between Division 2B State instruments and FW Act modern awards, enterprise agreements and workplace determinations); and
-
-                     (d)  Schedule 11 (which deals with transfer of business).
-
-References to laws of States
-
-(6)        References in this item to the law of a State are references to the law of the State as in force immediately before the Division 2B referral commencement.
-
-## 7  Terms about disputes relating to matters arising under Division 2B State awards
-
-(1)        If the source award for a Division 2B State award includes a term that provides for disputes relating to matters arising under the award  to be settled by:
-
-                     (a)  a State industrial body; or
-
-                     (b)  a person who is independent of the employers, employees or organisations covered by the source award;
-
-the Division 2B State award is taken not to include that term.
-
-(2)        Each Division 2B State award is taken to include the model term that is prescribed by the regulations for dealing with disputes relating to matters arising under Division 2B State awards.
-
-_Note:       This subitem applies whether or not the source award included a term as mentioned in subitem (1)._
-
-(3)        The model term does not apply to disputes about matters arising under the source award before the Division 2B referral commencement.
-
-(4)        The model term, as taken to be included in a Division 2B State award:
-
-                     (a)  cannot be varied; and
-
-                     (b)  cannot be removed from the award.
-
-## 8  Terms about disputes relating to matters arising under Division 2B State employment agreements
-
-(1)        This item applies if the source agreement for a Division 2B State employment agreement includes a term that provides for disputes relating to matters arising under the agreement to be settled by:
-
-                     (a)  a State industrial body; or
-
-                     (b)  a person who is independent of the employers, employees or organisations covered by the source agreement.
-
-(2)        Item 13 of this Schedule does not apply in relation to the term.
-
-_Note:       Item 13 would otherwise result in references in the term to a State industrial body having effect as if they were references to FWA._
-
-(2A)     However, if the term provides for disputes relating to matters arising under the source agreement to be settled by a State industrial body, then, despite anything in the source agreement or a law of the source State:
-
-                     (a)  the State industrial body may settle, or decline to settle, such a dispute; and
-
-                     (b)  FWA may settle such a dispute if the State industrial body:
-
-                              (i)  ceases to exist; or
-
-                             (ii)  declines to settle the dispute.
-
-(3)        FWA must, on application in accordance with subitem (4), vary the term in accordance with the application.
-
-(4)        For the purpose of subitem (3), an application must be made:
-
-                     (a)  by an employer to which the Division 2B State employment agreement applies, or by an organisation that is entitled to represent the industrial interests of such an employer, with the consent of:
-
-                              (i)  one or more employees to whom the agreement applies; or
-
-                             (ii)  an organisation that is entitled to represent the industrial interests of one or more such employees; or
-
-                     (b)  by an employee to whom the Division 2B State employment agreement applies, or by an organisation that is entitled to represent the industrial interests of such an employee, with the consent of:
-
-                              (i)  an employer to which the Division 2B State employment agreement applies; or
-
-                             (ii)  an organisation that is entitled to represent the industrial interests of such an employer.
-
-## 9  Application to Division 2B State instruments of provisions of FW Act about dealing with disputes
-
-(1)        Subdivision B of Division 2 of Part 6-2 of the FW Act applies (including for the purpose of section 595 of the FW Act) as follows:
-
-                     (a)  the Subdivision applies in relation to the model term that is taken by item 7 to be included in a Division 2B State award in the same way as the Subdivision applies in relation to a term in a modern award that provides a procedure for dealing with disputes;
-
-                     (b)  the Subdivision applies in relation to a term to which item 8 applies that is included in a Division 2B State employment agreement in the same way as the Subdivision applies in relation to a term in an enterprise agreement that provides a procedure for dealing with disputes.
-
-(2)        The reference in subsections 739(5) and 740(4) of the FW Act to a decision that is inconsistent with this Act, or a fair work instrument that applies to the parties, is taken to include a reference to a decision that is inconsistent with a Division 2B State instrument that applies to the parties.
-
-## 10  Division 2B State instruments continue to be subject to the same instrument content rules
-
-(1)        The instrument content rules (as in force immediately before the Division 2B referral commencement) of the source State apply, in relation to a Division 2B State instrument, as if:
-
-                     (a)  the rules were provisions of a law of the Commonwealth; and
-
-                     (b)  any references in the rules to State awards or State employment agreements (however described in the rules) were instead (respectively) references to Division 2B State awards or Division 2B State employment agreements; and
-
-                     (c)  any other modifications of those rules prescribed by the regulations were made.
-
-(2)**_Instrument content rules_**, in relation to a State, are provisions of a law of the State of any of the following kinds:
-
-                     (a)  provisions about what may, or must, be included in an instrument;
-
-                     (b)  provisions to the effect that a particular term of an instrument is of no effect (however described):
-
-                              (i)  either completely or to a limited extent; and
-
-                             (ii)  either permanently or for a limited period;
-
-                     (c)  provisions to the effect that a particular term is taken to be included in an instrument.
-
-## 11  Division 2B State instruments continue to be subject to the same instrument interaction rules
-
-(1)        The instrument interaction rules (as in force immediately before the Division 2B referral commencement) of the source State apply, in relation to a Division 2B State instrument, as if:
-
-                     (a)  the rules were provisions of a law of the Commonwealth; and
-
-                     (b)  any references in the rules to State awards or State employment agreements (however described in the rules) were instead (respectively) references to Division 2B State awards or Division 2B transitional State employment agreements; and
-
-                     (c)  any other modifications of those rules prescribed by the regulations were made.
-
-(2)        **_Instrument_** **_interaction rules_**, in relation to a State, are provisions of a law of the State, the effect of which is that:
-
-                     (a)  one instrument has priority over, or excludes, another instrument:
-
-                              (i)  either completely or to a particular extent; and
-
-                             (ii)  either permanently or for a particular period; or
-
-                     (b)  one instrument ceases to operate because of another instrument:
-
-                              (i)  either completely or to a particular extent; and
-
-                             (ii)  either permanently or for a particular period.
-
-## 12  Division 2B State awards continue to be subject to the same outworker interaction rules
-
-(1)        The outworker interaction rules (as in force immediately before the Division 2B referral commencement) of the source State apply, in relation to a Division 2B State award, as if:
-
-                     (a)  the rules were provisions of a law of the Commonwealth; and
-
-                     (b)  any references in the rules to State awards (however described in the rules) were instead references to Division 2B State awards; and
-
-                     (c)  any other modifications of those rules prescribed by the regulations were made.
-
-(2)        **_Outworker interaction rules_**, in relation to a State, are provisions of a law of the State, the effect of which is that:
-
-                     (a)  a State award prevails over, or excludes, a law of the State relating to outworkers; or
-
-                     (b)  a State award has effect subject to a law of the State relating to outworkers.
-
-## 13  References in Division 2B State instruments to State industrial bodies
-
-(1)        Subject to subitem (2), if a term of a Division 2B State instrument is expressed to confer a power or function on a State industrial body, that term has effect as if references in it to the body were instead references to FWA.
-
-(2)        If a term of a Division 2B State instrument is expressed to confer a power or function on the registrar, or a deputy registrar, of a State industrial body, that term has effect on and after the Division 2B referral commencement as if references in it to the registrar or a deputy registrar were instead references to the General Manager of FWA.
-
-(3)        This item has effect subject to:
-
-                     (a)  a contrary intention in this Act; and
-
-                     (b)  the regulations.
-
-_Note 1:    A Division 2B State award will be taken not to include a term from the source award that provides for the settlement of disputes relating to matters arising under the award: see item 7._
-
-_Note 2:    This item does not apply to a term of a Division 2B State employment agreement that provides for the settlement of disputes relating to matters arising under the agreement: see item 8._
-
-## 14  Non-accruing entitlements: counting service under the source award or source agreement
-
-General rule
-
-(1)        Subitem (2) applies for the purpose of determining the entitlements of a Division 2B State reference employee under a Division 2B State instrument (other than an entitlement to leave of a kind to which item 15 applies).
-
-(2)        Service of the employee with an employer before the Division 2B referral commencement that counted for the purpose of the application to the employee of the source award or source agreement also counts as service of the employee with the employer for the purpose of the application to the employee of the Division 2B State instrument.
-
-No double entitlement
-
-(3)        If, before the Division 2B referral commencement, the employee has already had the benefit of an entitlement, the amount of which was calculated by reference to a period of service, subitem (2) does not result in that period of service with the employer being counted again when calculating the employee’s entitlements of that kind under the Division 2B State instrument.
-
-(4)        To avoid doubt, subitem (3) does not require an employee to serve any initial qualifying period of service for long service leave again.
-
-_Note:       For how the kinds of matters covered by this item and items 15 and 16 are dealt with in relation to entitlements under the National Employment Standards, see Division 2 of Part 3 of Schedule 4._
-
-## 15  Accruing entitlements: leave accrued immediately before the Division 2B referral commencement
-
-(1)        This item applies to leave of the following kinds:
-
-                     (a)  annual leave (however described) that accrues to an employee;
-
-                     (b)  personal leave or carer’s leave (however described) that accrues to an employee.
-
-(2)        If a Division 2B referral employee to whom a Division 2B State instrument applies had, immediately before the Division 2B referral commencement, an accrued entitlement to an amount of leave to which this item applies (whether the leave accrued under the source award or source agreement, or under a State industrial law), the accrued leave is taken to have accrued under the Division 2B State instrument.
-
-## 16  Leave that is being, or is to be, taken under the source award or source agreement
-
-(1)        If a Division 2B State reference employee was, immediately before the Division 2B referral commencement, taking a period of leave under the source award or source agreement, the employee is entitled to continue on that leave under the Division 2B State instrument for the remainder of the period.
-
-(2)        If a Division 2B State reference employee has, before the Division 2B referral commencement, taken a step that the employee is required to take so that the employee can, on or after the Division 2B referral commencement, take a period of leave under the source award or source agreement, the employee is taken to have taken the step under the Division 2B State instrument.
-
-(3)        The regulations may deal with other matters relating to how a Division 2B State instrument applies to leave that, immediately before the Division 2B referral commencement, is being, or is to be, taken by a Division 2B State reference employee under the source award or source agreement.
-
-## 17  No loss of accrued rights or liabilities when Division 2B State instrument terminates or ceases to apply
-
-(1)        If a Division 2B State instrument terminates, or ceases to apply in relation to a person, that does not affect:
-
-                     (a)  any right or liability that a person acquired, accrued or incurred before the instrument terminated or ceased to apply; or
-
-                     (b)  any investigation, legal proceeding or remedy in respect of any such right or liability.
-
-(2)        Any such investigation, legal proceeding or remedy may be instituted, continued or enforced as if the Division 2B State instrument had not terminated or ceased to apply.
-
-(3)        This item has effect subject to a contrary intention in this Act or in the FW Act.
-
-<h7 class="ActHead7">Part 3—Variation and termination of Division 2B State instruments</h7>
-
-## 18  Division 2B State instruments can only be varied or terminated in limited circumstances
-
-(1)        A Division 2B State instrument cannot be varied except under:
-
-                     (a)  a provision of this Part or the regulations; or
-
-                     (b)  item 8 (which deals with terms about disputes relating to matters arising under Division 2B State employment agreements); or
-
-                     (c)  item 40 (which deals with resolving difficulties with the interaction between Division 2B State instruments and the National Employment Standards); or
-
-                     (d)  Part 6 of this Schedule (which deals with ongoing operation of State laws for transitional purposes); or
-
-                     (e)  Division 2 of Part 2 of Schedule 6 (which deals with the enterprise instrument modernisation process); or
-
-                      (f)  item 20 of Schedule 9 (which deals with variation of Division 2B State awards in annual wage reviews); or
-
-                     (g)  Schedule 11 (which deals with transfer of business).
-
-(2)        A Division 2B State instrument cannot be terminated (or otherwise brought to an end) except under:
-
-                     (a)  a provision of this Part or the regulations; or
-
-                     (b)  Part 6 of this Schedule; or
-
-                     (c)  Division 2 of Part 2 of Schedule 6; or
-
-                     (d)  Schedule 11.
-
-## 19  Variation to remove ambiguities etc.
-
-(1)        On application by a person covered by a Division 2B State instrument, FWA may make a determination varying the instrument:
-
-                     (a)  to remove an ambiguity or uncertainty in the instrument; or
-
-                     (b)  if the instrument is a Division 2B State employment agreement—to resolve an uncertainty or difficulty relating to the interaction between the instrument and a modern award; or
-
-                     (c)  to remove terms that are inconsistent with Part 3-1 of the FW Act (which deals with general protections), or to vary terms to make them consistent with that Part.
-
-_Note:       For variation of a Division 2B State instrument to resolve an uncertainty or difficulty relating to the interaction between the instrument and the National Employment Standards, see item 40._
-
-(2)        A variation of a Division 2B State instrument operates from the day specified in the determination, which may be a day before the determination is made.
-
-## 20  Variation on referral by Australian Human Rights Commission
-
-(1)        This item applies if a Division 2B State instrument is referred to FWA under section 46PW of the _Australian Human Rights Commission Act 1986_ (which deals with discriminatory industrial instruments).
-
-(2)        If the instrument is a Division 2B State award, section 161 of the FW Act applies in relation to the referral of the instrument as if the instrument were a modern award.
-
-(3)        If the instrument is a Division 2B State employment agreement, section 218 of the FW Act applies in relation to the referral of the instrument as if the instrument were an enterprise agreement.
-
-## 21  Division 2B State awards: automatic termination after 12 months
-
-(1)        A Division 2B State award terminates at the end of 12 months after the Division 2B referral commencement.
-
-(2)        A term of a Division 2B State award that provides for the award to terminate before the end of that 12 month period is of no effect.
-
-(3)        This item does not apply to a Division 2B enterprise award.
-
-_Note:       Schedule 6 (modern enterprise awards) applies to Division 2B enterprise awards._
-
-## 22  Collective Division 2B State employment agreements: termination by agreement
-
-Subdivision C of Division 7 of Part 2-4 of the FW Act (which deals with termination of enterprise agreements by employers and employees) applies in relation to a collective Division 2B State employment agreement as if a reference to an enterprise agreement included a reference to a collective Division 2B State employment agreement.
-
-## 23  Collective Division 2B State employment agreements: termination by FWA
-
-Subdivision D of Division 7 of Part 2-4 of the FW Act (which deals with termination of enterprise agreements after their nominal expiry date) applies in relation to a collective Division 2B State employment agreement as if a reference to an enterprise agreement included a reference to a collective Division 2B State employment agreement.
-
-## 24  Individual Division 2B State employment agreements: termination by agreement
-
-(1)        The employee and employer covered by an individual Division 2B State employment agreement (the **_Division 2B agreement_**) may make a written agreement (a **_termination agreement_**) to terminate the Division 2B agreement in accordance with the following requirements:
-
-                     (a)  the termination agreement must be signed by the employee and the employer;
-
-                     (b)  if the employee is under 18, it must also be signed by a parent or guardian of the employee;
-
-                     (c)  the signatures must be witnessed.
-
-(2)        The termination has no effect unless it has been approved by FWA.
-
-(3)        The employer or employee may apply to FWA for approval of the termination agreement. The application must be made:
-
-                     (a)  within 14 days after the termination agreement was made; or
-
-                     (b)  if in all the circumstances FWA considers it fair to extend that period—within such further period as FWA allows.
-
-(4)        If an application for FWA to approve the termination agreement is made under subitem (3), FWA must approve the termination of the Division 2B agreement if:
-
-                     (a)  FWA is satisfied that the requirements of subitem (1) have been complied with; and
-
-                     (b)  FWA is satisfied that there are no other reasonable grounds for believing that the employee has not agreed to the termination.
-
-(5)        If the termination is approved under subitem (4), the termination operates from the day specified in the decision to approve the termination.
-
-## 25  Individual Division 2B State employment agreements: termination conditional on enterprise agreement
-
-(1)        This item provides for the making of an instrument (a **_conditional termination_**) that will have the effect of terminating an individual Division 2B State employment agreement (the **_Division 2B agreement_**) if:
-
-                     (a)  an enterprise agreement (the **_proposed enterprise agreement_**) is made that covers the employee and the employer; and
-
-                     (b)  the proposed enterprise agreement comes into operation.
-
-(2)        If the Division 2B agreement has not passed its nominal expiry date, the conditional termination must be a written agreement signed by the employer and the employee. The signatures must be witnessed.
-
-(3)        If the Division 2B agreement has passed its nominal expiry date, the conditional termination must be in writing and signed either by the employee or the employer. The signature must be witnessed.
-
-(4)        If the conditional termination is signed by the employee, and the employee is under 18, it must also be signed by a parent or guardian of the employee.
-
-(5)        Any other requirements of the regulations relating to the form, content or making of the conditional termination must also be complied with.
-
-(6)        The employer must give the employee a copy of the conditional termination if:
-
-                     (a)  the conditional termination is an agreement signed by the employee and the employer in the circumstances covered by subitem (2); or
-
-                     (b)  the conditional termination is signed by the employer in the circumstances covered by subitem (3).
-
-_Note 1:    For compliance with this obligation, see subitem 4B(1) of Schedule 16._
-
-_Note 2:    Failure to comply with this obligation does not affect the operation of subitem (8)._
-
-(7)        The conditional termination must accompany any application to FWA for approval of the proposed enterprise agreement under section 185 of the FW Act.
-
-_Note 1:    For compliance with this obligation, see subitem 4B(2) of Schedule 16._
-
-_Note 2:    Failure to comply with this obligation does not affect the operation of subitem (8), or the validity of an approval by FWA of the proposed enterprise agreement._
-
-(8)        If the requirements of subitems (2) to (5) have been complied with in relation to the conditional termination, the Division 2B agreement terminates when the proposed enterprise agreement comes into operation.
-
-## 26  Individual Division 2B State employment agreements: unilateral termination with FWA’s approval
-
-(1)        This item applies to an employer or employee:
-
-                     (a)  to whom an individual Division 2B State employment agreement (the **_Division 2B agreement_**) that has passed its nominal expiry date applies; and
-
-                     (b)  who wants to terminate the Division 2B agreement.
-
-(2)        The employer or employee may:
-
-                     (a)  make a written declaration that identifies the Division 2B agreement and that states that the employer or employee wants to terminate the agreement; and
-
-                     (b)  apply to FWA for the approval of the termination.
-
-(3)        The employer or employee cannot make an application as mentioned in paragraph (2)(b) unless, at least 14 days before the day on which the application is made, the employer or employee gives the other of them a notice complying with the following requirements:
-
-                     (a)  the notice must identify the Division 2B agreement;
-
-                     (b)  the notice must state that the employer or employee intends to apply to FWA for approval of the termination of the agreement;
-
-                     (c)  the notice must state that, if FWA approves the termination, the agreement will terminate on the 90th day after the day on which FWA makes the approval decision;
-
-                     (d)  the notice must comply with any other requirements of the regulations.
-
-(4)        FWA must approve the termination if FWA is satisfied that:
-
-                     (a)  the Division 2B agreement applies to the employer and the employee; and
-
-                     (b)  the requirements of subitems (2) and (3) have been complied with.
-
-(5)        If FWA approves the termination, the Division 2B agreement terminates on the 90th day after the day on which FWA makes the approval decision.
-
-## 27  Meaning of _nominal expiry date_ of Division 2B State employment agreement
-
-The **_nominal expiry date_** of a Division 2B State employment agreement is:
-
-                     (a)  the day on which the source agreement would nominally have expired under the relevant State industrial law of the source State; or
-
-                     (b)  if that day falls after the end of a period of 3 years beginning on the Division 2B referral commencement—the last day of that 3 year period.
-
-## 28  Effect of termination
-
-If a Division 2B State instrument terminates, it ceases to cover (and can never again cover) any employees, employers or other persons.
-
-<h7 class="ActHead7">Part 4—Transition of employees from Division 2B State awards to FW Act modern awards</h7>
-
-<h8 class="ActHead8">Division 1—FWA required to consider varying modern awards etc.</h8>
-
-## 29  FWA to consider varying modern awards to continue effect of terms of Division 2B State awards
-
-(1)        During the period of 12 months starting on the Division 2B referral commencement, FWA:
-
-                     (a)  must consider whether any modern awards should be varied to include terms in relation to which the following conditions are satisfied:
-
-                              (i)  the purpose of including the terms is to continue (in whole or in part) the effect of terms that are contained in a Division 2B State award, other than a Division 2B enterprise award;
-
-                             (ii)  the terms only relate to employees, employers or other persons covered by the Division 2B State award;
-
-                            (iii)  the terms deal with matters of a kind that are permitted by section 136 of the FW Act to be included in modern awards; and
-
-                     (b)  may make one or more determinations varying modern awards to include such terms.
-
-(2)        Terms may be included in a modern award in accordance with this item despite section 154 of the FW Act.
-
-(3)        Terms included in a modern award in accordance with this item:
-
-                     (a)  take effect at the end of 12 months after the Division 2B referral commencement; and
-
-                     (b)  cease to have effect:
-
-                              (i)  at the end of 5 years after the Division 2B referral commencement; or
-
-                             (ii)  if the terms are expressed to cease to have effect at an earlier time—at that earlier time.
-
-## 30  FWA to consider making orders to continue effect of long service leave terms of Division 2B State awards
-
-(1)        During the period of 12 months starting on the Division 2B referral commencement, FWA:
-
-                     (a)  must consider whether any orders should be made in relation to which the following conditions are satisfied:
-
-                              (i)  the purpose of making the order is to continue (in whole or in part) the effect of terms relating to long service leave that are contained in a Division 2B State award, other than a Division 2B enterprise award;
-
-                             (ii)  the order only relates to employees, employers or other persons covered by the Division 2B State award; and
-
-                     (b)  may make one or more such orders.
-
-(2)        An order under subitem (1):
-
-                     (a)  takes effect at the end of 12 months after the Division 2B referral commencement; and
-
-                     (b)  ceases to have effect:
-
-                              (i)  at the end of 5 years after the Division 2B referral commencement; or
-
-                             (ii)  if the order is expressed to cease to have effect at an earlier time—at that earlier time.
-
-(3)        Paragraph 675(1)(a) of the FW Act has effect as if it also included a reference to an order under subitem (1).
-
-(4)        To the extent that a term of a Division 2B State award, or of an enterprise agreement, is detrimental to an employee, in any respect, when compared to an order under subitem (1), the term of the award or agreement is of no effect.
-
-_Note:       A term of a Division 2B State award, or of an enterprise agreement, that provides an entitlement that is at least as beneficial to an employee as a corresponding entitlement of the employee under the order will continue to have effect._
-
-(5)        The regulations may make provisions that apply to determining, for the purpose of this item, whether terms of a Division 2B State award or an enterprise agreement are, or are not, detrimental in any respect when compared to an order under subitem (1).
-
-<h8 class="ActHead8">Division 1A—Transitional pay equity order taken to have been made by FWA—Division 2B State awards</h8>
-
-## 30A  FWA taken to have made a transitional pay equity order to continue the effect of State pay equity orders
-
-(1)        On the Division 2B referral commencement, FWA is taken to have made an order (the **_transitional pay equity order_**) under this item.
-
-(2)        The transitional pay equity order applies to an employer if:
-
-                     (a)  a Division 2B State award that applies to the employer terminates at a time (the **_termination time_**) after the Division 2B referral commencement; and
-
-                     (b)  the base rate of pay payable immediately before the termination time to some or all of the employees to whom the Division 2B State award applied was determined in whole or part by, or in accordance with, an order, decision or determination (the **_source pay equity order_**) of a State industrial body that:
-
-                              (i)  was made before 15 September 2009; and
-
-                             (ii)  provided for increases in rates of pay payable to a particular class of employees (whether the increases were expressed to take effect before, on or after the Division 2B referral commencement); and
-
-                            (iii)  was made wholly or partly on the ground of work value, pay equity or equal remuneration (however described); and
-
-                     (c)  immediately after the termination time, a modern award applies to the employer.
-
-_Note:       After the Division 2B referral commencement, a source pay equity order may have effect either because of subitem 3(3) of this Schedule, or because the terms of the source pay equity order had been incorporated in the source award from which the Division 2B State award was derived._
-
-(3)        If the transitional pay equity order applies to an employer, the employer is required to pay to each affected employee of the employer a base rate of pay, in respect of a period, that is not less than the base rate of pay that the employee would have been entitled to be paid under the Division 2B State award in respect of that period, assuming that:
-
-                     (a)  the Division 2B State award had not terminated; and
-
-                     (b)  the base rate of pay had continued to be determined in whole or part by, or in accordance with, the source pay equity order in respect of that period.
-
-(4)        An employee of an employer to which this item applies is an **_affected employee_** of the employer if:
-
-                     (a)  all of the following conditions are satisfied:
-
-                              (i)  the employee was employed by the employer at the termination time;
-
-                             (ii)  the Division 2B State award applied to the employee at the termination time;
-
-                            (iii)  the employee’s base rate of pay under the Division 2B State award was determined in whole or part by, or in accordance with, the source pay equity order at the termination time; or
-
-                     (b)  all of the following conditions are satisfied:
-
-                              (i)  the employee becomes employed by the employer after the termination time;
-
-                             (ii)  a Division 2B State award would have applied to the employee if he or she had been employed by the employer immediately before the termination time;
-
-                            (iii)  the employee’s base rate of pay under the Division 2B State award would have been determined in whole or part by, or in accordance with, the source pay equity order at the termination time.
-
-(5)        The transitional pay equity order takes effect in relation to the employer immediately after the modern award begins to apply to the employer.
-
-(6)        A term of a modern award is of no effect to the extent that:
-
-                     (a)  an employee is entitled to be paid by an employer a base rate of pay under the transitional pay equity order in respect of a particular period; and
-
-                     (b)  the term of the modern award requires the employer to pay a base rate of pay, in respect of that period, that is less than the base rate of pay referred to in paragraph (a).
-
-(7)        However, to avoid doubt, a term of a modern award continues to have effect so far as it requires an employer to pay a base rate of pay, in respect of a period, that is equal to or more than the base rate of pay referred to in paragraph (6)(a).
-
-<h8 class="ActHead8">Division 2—Avoiding reductions in take-home pay</h8>
-
-## 31  Termination of Division 2B State awards is not intended to result in reduction in take-home pay
-
-(1)        The termination of a Division 2B State award by item 21 is not intended to result in a reduction in the take-home pay of employees or outworkers.
-
-(2)        An employee’s or outworker’s **_take-home pay_** is the pay an employee or outworker actually receives:
-
-                     (a)  including wages and incentive-based payments, and additional amounts such as allowances and overtime; but
-
-                     (b)  disregarding the effect of any deductions that are made as permitted by section 324 of the FW Act.
-
-_Note:       Deductions permitted by section 324 of the FW Act may (for example) include deductions under salary sacrificing arrangements._
-
-(3)        An employee suffers a reduction in take-home pay to which this item applies if, and only if:
-
-                     (a)  when a Division 2B State award terminates because of item 21, the employee becomes a person to whom a modern award applies; and
-
-                     (b)  the employee is employed in the same position as (or a position that is comparable to) the position he or she was employed in immediately before the termination of the Division 2B State award; and
-
-                     (c)  the amount of the employee’s take-home pay for working particular hours or for a particular quantity of work after the termination of the Division 2B State award is less than what would have been the employee’s take-home pay for those hours or that quantity of work immediately before the termination; and
-
-                     (d)  that reduction in the employee’s take-home pay is attributable to the termination of the Division 2B State award.
-
-(4)        An outworker who is not an employee suffers a reduction in take-home pay to which this item applies if, and only if:
-
-                     (a)  when a Division 2B State award terminates because of item 21, the outworker becomes a person to whom outworker terms in a modern award relate; and
-
-                     (b)  the outworker is performing the same work as (or work that is similar to) the work he or she was performing immediately before the termination of the Division 2B State award; and
-
-                     (c)  the amount of the outworker’s take-home pay for working particular hours or for a particular quantity of work after the termination of the Division 2B State award is less than what would have been the outworker’s take-home pay for those hours or that quantity of work immediately before the termination; and
-
-                     (d)  that reduction in the outworker’s take-home pay is attributable to the termination of the Division 2B State award.
-
-## 32  Orders remedying reductions in take-home pay
-
-Employees
-
-(1)        If FWA is satisfied that an employee, or a class of employees, to whom a modern award applies has suffered a reduction in take-home pay to which item 31 applies, FWA may make any order (a **_take-home pay order_**) requiring, or relating to, the payment of an amount or amounts to the employee or employees that FWA considers appropriate to remedy the situation.
-
-Outworkers
-
-(2)        If FWA is satisfied that an outworker, or a class of outworkers, to whom outworker terms in a modern award relate has suffered a reduction in take-home pay to which item 31 applies, FWA may make any order (a **_take-home pay order_**) requiring, or relating to, the payment of an amount or amounts to the outworker or outworkers that FWA considers appropriate to remedy the situation.
-
-General provisions
-
-(3)        FWA may make a take-home pay order only on application by:
-
-                     (a)  an employee or outworker who has suffered a reduction in take-home pay to which item 31 applies; or
-
-                     (b)  an organisation that is entitled to represent the industrial interests of such an employee or outworker; or
-
-                     (c)  a person acting on behalf of a class of such employees or outworkers.
-
-(4)        If FWA is satisfied that an application for a take-home pay order has already been made in relation to an employee or a class of employees, or an outworker or a class of outworkers, FWA may dismiss any later application that is made under these provisions in relation to the same employee or employees, or the same outworker or outworkers.
-
-## 33  Ensuring that take-home pay orders are confined to the circumstances for which they are needed
-
-(1)        FWA must not make a take-home pay order under item 32 in relation to an employee or class of employees, or an outworker or a class of outworkers, if:
-
-                     (a)  FWA considers that the reduction in take-home pay is minor or insignificant; or
-
-                     (b)  FWA is satisfied that the employee or employees, or outworker or outworkers, have been adequately compensated in other ways for the reduction.
-
-(2)        FWA must ensure that a take-home pay order is expressed so that:
-
-                     (a)  it does not apply to an employee or outworker unless the employee or outworker has actually suffered a reduction in take-home pay to which item 31 applies; and
-
-                     (b)  if the take-home pay payable to the employee or outworker under the modern award increases after the order is made, there is a corresponding reduction in any amount payable to the employee or outworker under the order.
-
-## 34  Take-home pay order continues to have effect so long as modern award continues to cover the employee or employees
-
-A take-home pay order made in relation to an employee or class of employees to whom a particular modern award applies continues to have effect in relation to those employees (subject to the terms of the order) for so long as the modern award continues to cover the employee or employees, even if it stops applying to the employee or employees because an enterprise agreement starts to apply.
-
-## 35  Inconsistency with modern awards and enterprise agreements
-
-A term of a modern award or an enterprise agreement has no effect in relation to an employee or outworker to the extent that it is less beneficial to the employee or outworker than a term of a take-home pay order that applies to the employee or outworker.
-
-## 36  Application of provisions of FW Act to take-home pay orders
-
-The FW Act applies as if the following provisions of that Act included a reference to a take-home pay order:
-
-                     (a)  subsection 675(2);
-
-                     (b)  subsection 706(2).
-
-_Note:       For compliance with take-home pay orders, see item 7 of Schedule 16 to this Act._
-
-<h7 class="ActHead7">Part 5—Division 2B State instruments and the FW Act</h7>
-
-<h8 class="ActHead8">Division 1—Interaction between Division 2B State instruments and the National Employment Standards</h8>
-
-## 37  The no detriment rule
-
-(1)        To the extent that a term of a Division 2B State instrument is detrimental to an employee, in any respect, when compared to an entitlement of the employee under the National Employment Standards, the term of the instrument is of no effect.
-
-_Note 1:    A term of a Division 2B State instrument that provides an entitlement that is at least as beneficial to an employee as a corresponding entitlement of the employee under the National Employment Standards will continue to have effect._
-
-_Note 2:    Division 3 (which contains other general provisions about how the FW Act applies in relation to Division 2B State instruments) is also relevant to how the National Employment Standards apply in relation to employees to whom Division 2B State instruments apply._
-
-_Note 3:    References to the National Employment Standards include a reference to the extended parental leave provisions and the extended notice of termination provisions (see sections 746 and 761 of the FW Act)._
-
-(2)        If there is a dispute about the application of this item which must be resolved by FWA in accordance with item 40, FWA may compare the entitlements which are in dispute:
-
-                     (a)  on a ‘line-by-line’ basis, comparing individual terms; or
-
-                     (b)  on a ‘like-by-like’ basis, comparing entitlements according to particular subject areas; or
-
-                     (c)  using any combination of the above approaches FWA sees fit.
-
-(3)        Subitem (1) does not affect a term of a Division 2B State instrument that is permitted by a provision of the National Employment Standards as it has effect under item 38.
-
-(4)        The regulations may make provisions that apply to determining, for the purpose of this item, whether terms of a Division 2B State instrument are, or are not, detrimental in any respect when compared to entitlements under the National Employment Standards.
-
-## 38  Provisions of the NES that allow instruments to contain particular kinds of terms
-
-(1)        The following provisions of the National Employment Standards have effect, on and after the Division 2B referral commencement, as if a reference to a modern award or an enterprise agreement included a reference to a Division 2B State instrument:
-
-                     (a)  section 63 (which allows terms dealing with averaging of hours of work);
-
-                     (b)  section 93 (which allows terms dealing with cashing out and taking paid annual leave);
-
-                     (c)  section 101 (which allows terms dealing with cashing out paid personal/carer’s leave);
-
-                     (d)  subsection 107(5) (which allows terms dealing with evidence requirements for paid personal/carer’s leave etc.);
-
-                     (e)  subsection 115(3) (which allows terms dealing with substitution of public holidays);
-
-                      (f)  section 118 (which allows terms dealing with an employee giving notice to terminate his or her employment);
-
-                     (g)  subsections 121(2) and (3) (which allow terms specifying situations in which the redundancy pay entitlement under section 119 does not apply);
-
-                     (h)  section 126 (which allows terms providing for school-based apprentices and trainees to be paid loadings in lieu).
-
-(2)        If:
-
-                     (a)  a Division 2B State instrument includes terms referred to in subsection (1) of section 93 or 101 of the National Employment Standards; but
-
-                     (b)  the terms do not include the requirements referred to in subsection (2) of that section;
-
-the instrument is taken to include terms that include the requirements.
-
-## 39  Shiftworker annual leave entitlement
-
-Subsections 87(3) to (5) of the FW Act apply in relation to an employee to whom a Division 2B State instrument applies in the same way as they apply to an award/agreement free employee.
-
-_Note:       If the employee qualifies for the shiftworker annual leave entitlement under those subsections, the employee will be entitled to 5 (rather than 4) weeks of paid annual leave._
-
-## 40  Resolving difficulties about application of this Division
-
-(1)        On application by a person covered  by a Division 2B State instrument, FWA may make a determination varying the instrument:
-
-                     (a)  to resolve an uncertainty or difficulty relating to the interaction between the instrument and the National Employment Standards; or
-
-                     (b)  to make the instrument operate effectively with the National Employment Standards.
-
-(2)        A variation of a Division 2B State instrument operates from the day specified in the determination, which may be a day before the determination is made.
-
-<h8 class="ActHead8">Division 2—Interaction between Division 2B State instruments and FW Act modern awards, enterprise agreements and workplace determinations</h8>
-
-## 41  Modern awards and Division 2B State employment agreements
-
-Collective Division 2B State employment agreements
-
-(1)        If a collective Division 2B State employment agreement and a modern award both apply to an employee, or to an employer or other person in relation to the employee, the Division 2B State employment agreement prevails over the modern award, to the extent of any inconsistency.
-
-_Note:       This subitem has effect subject to item 42 of this Schedule, and to item 17 of Schedule 9 (which requires that the base rate of pay under a Division 2B State employment agreement must not be less than the modern award rate)._
-
-Individual Division 2B State employment agreements
-
-(2)        While an individual Division 2B State employment agreement applies to an employee, or to an employer or other person in relation to an employee, a modern award does not apply to the employee, or to the employer or other person in relation to the employee.
-
-_Note 1:    However, a modern award can continue to cover the employee while the individual Division 2B State employment agreement continues to apply._
-
-_Note 2:    This subitem has effect subject to item 42 of this Schedule, and to item 17 of Schedule 9 (which requires that the base rate of pay under a Division 2B State employment agreement must not be less than the modern award rate)._
-
-## 42  Terms of modern awards about outworker conditions continue to apply
-
-(1)        This item applies if, at a particular time:
-
-                     (a)  a Division 2B State employment agreement applies to an employee; and
-
-                     (b)  outworker terms (within the meaning of the FW Act) in a modern award would, but for the Division 2B State employment agreement, apply to the employee.
-
-(2)        Despite item 41 and despite any terms of the Division 2B State employment agreement that are detrimental to the employee in any respect when compared to the terms of the modern award, the outworker terms apply at that time to the following persons:
-
-                     (a)  the employee;
-
-                     (b)  the employer;
-
-                     (c)  each employee organisation to which the modern award applies.
-
-(3)        To avoid doubt, to the extent to which terms of a modern award apply to an employee, an employer or an employee organisation because of subitem (2), the modern award applies to the employee, employer or organisation.
-
-## 43  Modern awards and Division 2B State awards
-
-Employees and employers
-
-(1)        While a Division 2B State award that covers an employee, or an employer or other person in relation to the employee, is in operation, a modern award does not cover the employee, or the employer or other person in relation to the employee.
-
-_Note:       When the Division 2B State award terminates, a modern award will start to cover the employee, or the employer or other person in relation to the employee._
-
-Outworker entities
-
-(2)        While a Division 2B State award that contains outworker terms that cover an outworker entity is in operation, outworker terms in a modern award do not cover the outworker entity.
-
-_Note:       When the Division 2B State award terminates, a modern award will start to cover the outworker entity._
-
-(3)        **_Outworker terms_** in a Division 2B State award are terms that would be outworker terms as defined in the FW Act if they were in a modern award.
-
-## 44  FW Act enterprise agreements and workplace determinations, and Division 2B State employment agreements
-
-Collective Division 2B State employment agreements
-
-(1)        If an enterprise agreement or workplace determination (under the FW Act) starts to apply to an employee, or an employer or other person in relation to the employee, then a collective Division 2B State employment agreement ceases to cover (and can never again cover) the employee, or the employer or other person in relation to the employee.
-
-_Note 1:    The fact that a collective Division 2B State employment agreement applies to employees does not prevent those employees and their employer from replacing that agreement at any time with an enterprise agreement, regardless of whether the collective Division 2B State employment agreement has passed its nominal expiry date._
-
-_Note 2:    Industrial action must not be taken before the nominal expiry date of a collective Division 2B State employment agreement (see item 4 of Schedule 13)._
-
-Individual Division 2B State employment agreements
-
-(2)        While an individual Division 2B State employment agreement applies to an employee, or to an employer in relation to the employee, an enterprise agreement or workplace determination (under the FW Act) does not apply to the employee, or the employer in relation to the employee.
-
-## 45  FW Act enterprise agreements and workplace determinations, and Division 2B State awards
-
-If an enterprise agreement or workplace determination (under the FW Act) applies  to an employee, or an employer or other person in relation to the employee, then:
-
-                     (a)  a Division 2B State award ceases to apply to the employee, and the employer or other person in relation to the employee; but
-
-                     (b)  the Division 2B State award can (subject to the other provisions of this Part) continue to cover the employee, and the employer or other person in relation to the employee.
-
-_Note:       Subject to the other provisions of this Part, the Division 2B State award can again start to apply to the employee, and the employer or other person in relation to the employee, if the enterprise agreement or workplace determination (under the FW Act) ceases to apply to the employee._
-
-## 46  Designated outworker terms of Division 2B State award continue to apply
-
-(1)        This item applies if, at a particular time:
-
-                     (a)  an enterprise agreement or workplace determination (under the FW Act) applies to an employer; and
-
-                     (b)  a Division 2B State award covers the employer (whether the award covers the employer in the employer’s capacity as an employer or an outworker entity); and
-
-                     (c)  the Division 2B State award includes one or more designated outworker terms.
-
-(2)        Despite item 45, the designated outworker terms of the Division 2B State award apply at that time to the following:
-
-                     (a)  the employer;
-
-                     (b)  each employee who is both:
-
-                              (i)  a person to whom the enterprise agreement or workplace determination applies; and
-
-                             (ii)  a person who is covered by the Division 2B State award;
-
-                     (c)  each employee organisation that is covered by the Division 2B State award.
-
-(3)        To avoid doubt:
-
-                     (a)  Division 2B State awards are taken to be instruments to which the definition of **_designated outworker term_** in section 12 of the FW Act applies; and
-
-                     (b)  designated outworker terms of a Division 2B State award can apply to an employer under subitem (2) even if none of the employees of the employer is an outworker; and
-
-                     (c)  to the extent to which designated outworker terms of a Division 2B State award apply to an employer, an employee or an employee organisation because of subitem (2), the award applies to the employer, employee or organisation.
-
-<h8 class="ActHead8">Division 3—Other general provisions about how the FW Act applies in relation to Division 2B State instruments</h8>
-
-## 47  Employee not award/agreement free if Division 2B State instrument applies
-
-(1)        An employee is not an award/agreement free employee for the purposes of the FW Act if a Division 2B State instrument applies to the employee.
-
-(2)        The regulations may make provision in relation to any of the following in relation to employees to whom Division 2B State instruments apply:
-
-                     (a)  what is the base rate of pay of such an employee for the purposes of the FW Act (either generally or for the purposes of entitlements under the National Employment Standards);
-
-                     (b)  what is the full rate of pay of such an employee for the purposes of the FW Act (either generally or for the purposes of entitlements under the National Employment Standards);
-
-                     (c)  whether such an employee is a pieceworker for the purposes of the FW Act.
-
-## 48  Employee’s ordinary hours of work
-
-Item applies for purpose of determining employee’s ordinary hours of work for the FW Act
-
-(1)        For the purposes of the FW Act, the ordinary hours of work of an employee to whom a Division 2B State instrument applies are to be determined in accordance with this item.
-
-Ordinary hours as specified in Division 2B State instrument
-
-(2)        If a Division 2B State instrument that applies to the employee specifies, or provides for the determination of, the employee’s ordinary hours of work, the employee’s **_ordinary hours of work_** are as specified in, or determined in accordance with, that instrument.
-
-If subitem (2) does not apply and there is agreement
-
-(3)        If subitem (2) does not apply, the employee’s **_ordinary hours of work_** are the hours agreed by the employee and his or her employer as the employee’s ordinary hours of work.
-
-If subitem (2) does not apply and there is no agreement
-
-(4)        If subitem (2) does not apply but there is no agreement under subitem (3), the **_ordinary hours of work_** of the employee in a week are:
-
-                     (a)  if the employee is a full time employee—38 hours; or
-
-                     (b)  if the employee is not a full-time employee—the lesser of:
-
-                              (i)  38 hours; and
-
-                             (ii)  the employee’s usual weekly hours of work.
-
-If subitem (2) does not apply: agreed hours are less than usual weekly hours
-
-(5)        If:
-
-                     (a)  subitem (2) does not apply; and
-
-                     (b)  the employee is not a full-time employee; and
-
-                     (c)  there is an agreement under subitem (3) between the employee and his or her employer, but the agreed ordinary hours of work are less than the employee’s usual weekly hours of work;
-
-the **_ordinary hours of work_** of the employee in a week are the lesser of:
-
-                     (d)  38 hours; and
-
-                     (e)  the employee’s usual weekly hours of work.
-
-Regulations may prescribe usual weekly hours
-
-(6)        For an employee who is not a full-time employee and who does not have usual weekly hours of work, the regulations may prescribe, or provide for the determination of, hours that are taken to be the employee’s usual weekly hours of work for the purposes of subitems (4) and (5).
-
-## 49  Payment of wages
-
-Division 2 of Part 2-9 of the FW Act (which deals with payment of wages) applies, on and after the Division 2B referral commencement, in relation to a Division 2B State instrument as if:
-
-                     (a)  a reference to an enterprise agreement included a reference to a Division 2B State employment agreement; and
-
-                     (b)  a reference to a modern award included a reference to a Division 2B State award.
-
-## 50  Guarantee of annual earnings
-
-Division 3 of Part 2-9 of the FW Act (which deals with the guarantee of annual earnings) applies, on and after the Division 2B referral commencement, as if:
-
-                     (a)  a reference to an enterprise agreement included a reference to a Division 2B State employment agreement; and
-
-                     (b)  a reference to a modern award included a reference to a Division 2B State award.
-
-## 51  Application of unfair dismissal provisions
-
-Part 3-2 of the FW Act (which deals with unfair dismissal) applies, on and after the Division 2B referral commencement, as if:
-
-                     (a)  the reference in subparagraph 382(b)(i) and paragraph 389(1)(b) of that Act to a modern award included a reference to a Division 2B State award; and
-
-                     (b)  the reference in subparagraph 382(b)(ii) and paragraph 389(1)(b) of that Act to an enterprise agreement included a reference to a Division 2B State employment agreement.
-
-## 52  Regulations may deal with other matters
-
-The regulations may deal with other matters relating to how the FW Act applies in relation to Division 2B State instruments.
-
-<h7 class="ActHead7">Part 6—Ongoing operation of State laws for transitional purposes</h7>
-
-## 53  Definitions
-
-(1)        Subject to subitem (2), in this Part:
-
-**_agreement appeal_** means an appeal to a State industrial body against a decision made by a State industrial body in an agreement proceeding.
-
-**_agreement proceeding_** means a proceeding (other than an agreement appeal) before a State industrial body for the body to:
-
-                     (a)  approve a State employment agreement; or
-
-                     (b)  approve a variation or termination of a State employment agreement; or
-
-                     (c)  vary or terminate a State employment agreement.
-
-**_approve_**, in relation to a State employment agreement or a variation or termination of a State employment agreement, means:
-
-                     (a)  approve or certify (however described) the agreement, or the variation or termination, under a State industrial law; and
-
-                     (b)  do any other things (for example, register the agreement) that are required to be done under that law after approval or certification in order for the agreement, or the variation or termination, to come into operation.
-
-**_award appeal_** means an appeal to a State industrial body against a decision made by a State industrial body in an award proceeding.
-
-**_award proceeding_** means a proceeding (other than an award appeal) before a State industrial body for the body to:
-
-                     (a)  make a State award; or
-
-                     (b)  vary or terminate a State award.
-
-**_coverage terms_** of a source award or source agreement are terms setting out the employees, employers, outworker entities or other persons that are covered (however described) by the award or agreement.
-
-**_terminate_**, in relation to a State employment agreement, means terminate or rescind (however described) the agreement under a State industrial law.
-
-**_vary_**, in relation to a State employment agreement, means vary or amend (however described) the agreement under a State industrial law.
-
-(2)        The regulations may provide that a certain proceeding:
-
-                     (a)  is, or is not, an agreement appeal as defined in subitem (1); or
-
-                     (b)  is, or is not, an agreement proceeding as defined in subitem (1); or
-
-                     (c)  is, or is not, an award appeal as defined in subitem (1); or
-
-                     (d)  is, or is not, an award proceeding as defined in subitem (1).
-
-## 54  Part does not affect variations or terminations related to a proposed transfer of business
-
-Nothing in this Part affects the application of section 26 of the FW Act to a law of a Division 2B referring State so far as the law provides for the variation or termination of a State award or a State employment agreement because of a proposed transfer of business (however described).
-
-## 55  Commencement or completion of award appeals
-
-(1)        Section 26 of the FW Act does not apply to a law of a Division 2B referring State so far as the law relates to the commencement or completion of an award appeal in relation to which the following conditions are satisfied:
-
-                     (a)  the decision appealed against was made before the Division 2B referral commencement in an award proceeding;
-
-                     (b)  the decision was:
-
-                              (i)  to vary, or not to vary, an award; or
-
-                             (ii)  to terminate, or not to terminate, an award.
-
-_Note:       The following (to the extent they relate to Division 2B State reference employees and Division 2B State reference employers) are not able to be commenced or completed on or after the Division 2B referral commencement:_
-
-(a)    award proceedings;
-
-(b)    award appeals, if the appeal is against a decision to make, or not make, an award.
-
-(2)        Subitem (1):
-
-                     (a)  does not apply to the commencement of an award appeal more than 21 days after the day on which the decision appealed against was made; and
-
-                     (b)  ceases to apply to an award appeal if the appeal has not been completed by the end of the period of 6 months starting on the Division 2B referral commencement.
-
-## 56  Completion of agreement proceedings
-
-(1)        Section 26 of the FW Act does not apply to a law of a Division 2B referring State so far as the law relates to the completion of an agreement proceeding that had commenced before the Division 2B referral commencement.
-
-_Note:       Agreement proceedings (to the extent they relate to Division 2B State reference employees and Division 2B State reference employers) are not able to be commenced on or after the Division 2B referral commencement._
-
-(2)        Subitem (1) ceases to apply to an agreement proceeding if the proceeding has not been completed by the end of the period of 6 months starting on the Division 2B referral commencement.
-
-## 57  Agreement appeals
-
-(1)        Section 26 of the FW Act does not apply to a law of a Division 2B referring State so far as the law relates to the commencement or completion of an agreement appeal (whether the decision appealed against is or was made before, on or after the Division 2B referral commencement).
-
-(2)        Subitem (1):
-
-                     (a)  does not apply to the commencement of an agreement appeal more than 21 days after the day on which the decision appealed against was made; and
-
-                     (b)  ceases to apply to an agreement appeal if the appeal has not been completed by the end of the period of 6 months starting on the Division 2B referral commencement.
-
-## 58  Decisions made in award appeals, agreement proceedings and agreement appeals
-
-(1)        Section 26 of the FW Act does not apply to a law of a Division 2B referring State so far as the law provides for when any of the following decisions (a **_State decision_**) come into operation:
-
-                     (a)  a decision made in award appeal to which subitem 55(1) applies;
-
-                     (b)  a decision made in an agreement proceeding to which subitem 56(1) applies;
-
-                     (c)  a decision made in an agreement appeal to which subitem 57(1) applies.
-
-_Note:       If a State employment agreement comes into operation on or after the Division 2B referral commencement under a State industrial law of a Division 2B referring State, a Division 2B State employment agreement is taken to come into operation immediately afterwards: see item 5 of this Schedule._
-
-(2)        Subject to subitems (3) and (4), if a State decision affects the source award or source agreement for a Division 2B State instrument, the Division 2B State instrument is taken to be affected by the State decision in the same way, and from the same time, as the source award or source agreement is affected by the State decision.
-
-(3)        Subitem (2) does not apply to a State decision that affects the coverage terms of the source award or source agreement.
-
-(4)        Any resulting alteration of an entitlement under the Division 2B State instrument takes effect only from the later of the day on which the State decision is made and the day on which the decision comes into operation.
-
-## 59  Agreements etc. that had not come into operation by the Division 2B referral commencement
-
-(1)        Section 26 of the FW Act does not apply to a law of a Division 2B referring State so far as the law provides:
-
-                     (a)  for when a State employment agreement comes into operation, if the State employment agreement was approved by a State industrial body before the Division 2B referral commencement, but the agreement had not yet come into operation by that commencement; or
-
-                     (b)  for when a variation or termination of a State employment agreement comes into operation, if the variation or termination was approved or made by a State industrial body before the Division 2B referral commencement, but the variation or termination had not yet come into operation by that commencement.
-
-_Note:       If a State employment agreement comes into operation on or after the Division 2B referral commencement under a State industrial law of a Division 2B referring State, a Division 2B State employment agreement is taken to come into operation immediately afterwards: see item 5 of this Schedule._
-
-(2)        Subject to subitem (3), if, at a time when a Division 2B State employment agreement is in operation, a variation or termination of the source agreement comes into operation as mentioned in subitem (1), the Division 2B State employment agreement is taken to have been varied in the same way, or to have been terminated, (as the case requires) immediately after that time.
-
-(3)        Subitem (2) does not apply to a variation that affects the coverage terms of the source agreement.
-
-## 60  Proceedings relating to entitlements or obligations that arose before the Division 2B referral commencement etc.
-
-(1)        Section 26 of the FW Act does not apply to a law of a Division 2B referring State so far as the law relates to compliance with an entitlement or obligation:
-
-                     (a)  that arose before the Division 2B referral commencement under a State industrial law; and
-
-                     (b)  that relates to an act or omission which occurred before that commencement.
-
-(2)        Subitem (1) does not apply to entitlements or obligations relating to any of the following:
-
-                     (a)  the making, variation or termination of State awards or State employment agreements;
-
-                     (b)  bargaining or industrial action.
-
-_Note:       Orders and injunctions of State industrial bodies relating to industrial action that are in operation immediately before the Division 2B referral commencement can continue to have effect, and be enforced, under State law after the Division 2B referral commencement: see item 61._
-
-(3)        Section 26 of the FW Act does not apply to a law of a Division 2B referring State so far as the law relates to a termination of employment that occurred before the Division 2B referral commencement.
-
-(4)        Section 26 of the FW Act does not apply to a law of a Division 2B referring State so far as the law:
-
-                     (a)  relates to proceedings that commenced before the Division 2B referral commencement; and
-
-                     (b)  provides for the variation or setting aside of entitlements and obligations arising under a contract of employment, or another arrangement for employment, that a court or a State industrial body of the State finds is unfair.
-
-## 61  Continuation of orders and injunctions of State industrial bodies or courts
-
-Despite section 26 of the FW Act:
-
-                     (a)  an order made, or an injunction granted, by a State industrial body or a court of a Division 2B referring State to prevent or stop industrial action (however described) that was in operation immediately before the Division 2B referral commencement may continue to have effect under the law of the State on and after that day; and
-
-                     (b)  the order or injunction may continue to be enforced under the law of the State on or after that day.
-
 ###### Schedule 4—National Employment Standards
 
 <h7 class="ActHead7">Part 1—Preliminary</h7>
@@ -3621,12 +2169,6 @@ The following provisions of the WR Act continue to apply in relation to terminat
 (2)        Subitem (1) has effect unless the context otherwise requires and subject to the regulations.
 
 <h7 class="ActHead7">Part 3—Operation of the National Employment Standards</h7>
-
-<h8 class="ActHead8">Division 1—Operation in relation to employees other than Division 2B State reference employees</h8>
-
-## 5A  Application of this Division
-
-This Division applies in relation to employees other than Division 2B State reference employees.
 
 ## 5  Non-accruing entitlements: counting service before the FW (safety net provisions) commencement day
 
@@ -3734,110 +2276,6 @@ The obligation in section 125 of the National Employment Standards for an empl
 
 The regulations may make provision in relation to how the National Employment Standards apply to, or are affected by, things done or matters occurring before the FW (safety net provisions) commencement day.
 
-<h8 class="ActHead8">Division 2—Operation in relation to Division 2B State reference employees</h8>
-
-## 15  Application of this Division
-
-This Division applies in relation to Division 2B State reference employees.
-
-## 16  Non-accruing entitlements: counting service before the Division 2B referral commencement
-
-General rule
-
-(1)        An employee’s service with an employer before the Division 2B referral commencement counts as service of the employee with the employer for the purpose of determining the employee’s entitlements under the National Employment Standards, other than entitlements to:
-
-                     (a)  paid annual leave; and
-
-                     (b)  paid personal/carer’s leave.
-
-_Note 1:    References to the National Employment Standards include a reference to the extended parental leave provisions and the extended notice of termination provisions (see sections 746 and 761 of the FW Act)._
-
-_Note 2:    Interaction between the National Employment Standards and Division 2B State instruments is dealt with in Division 1 of Part 5 of Schedule 3A to this Act._
-
-No double entitlement
-
-(2)        If, before the Division 2B referral commencement, the employee has already had the benefit of an entitlement, the amount of which was calculated by reference to a period of service, subitem (1) does not result in that period of service with the employer being counted again when calculating the employee’s entitlements of that kind under the National Employment Standards.
-
-(3)        To avoid doubt, subitem (2) does not require an employee to serve any initial qualifying period of service for long service leave again.
-
-Limitation on application of general rule to redundancy pay
-
-(4)        Subitem (1) does not apply in relation to an employee and an employer for the purposes of Subdivision B of Division 11 of the National Employment Standards (which deals with redundancy pay) if the terms and conditions of employment that applied to the employee’s employment by the employer immediately before the Division 2B referral commencement did not provide for an entitlement to redundancy pay.
-
-(5)        If, had an employee’s employment been terminated for redundancy (however described) before the Division 2B referral commencement, a State industrial body could have made an order giving the employee an entitlement to redundancy pay (however described):
-
-                     (a)  the terms and conditions of the employee’s employment referred to in subitem (4) are taken to have provided for an entitlement to redundancy pay; and
-
-                     (b)  paragraph 121(1)(b) of the FW Act does not apply in relation to the employee during the period of 12 months starting on the Division 2B referral commencement.
-
-_Note:       Because of paragraph (b), the employee may therefore be entitled to redundancy pay under section 119 of the FW Act if the employee’s employment is terminated during the 12 month period starting on the Division 2B referral commencement, even if the employer is a small business employer._
-
-## 17  Accruing entitlements: leave accrued immediately before the Division 2B referral commencement
-
-(1)        This item applies if an employee had, immediately before the Division 2B referral commencement, an accrued entitlement to an amount of paid annual leave or paid personal/carer’s leave, whether the leave accrued under a State industrial law, the source award or source agreement for a Division 2B State instrument, or otherwise.
-
-(2)        The provisions of the National Employment Standards relating to taking that kind of leave (including rates of pay while taking leave), or cashing-out that kind of leave, apply, as a minimum standard, to the accrued leave as if it had accrued under the National Employment Standards.
-
-## 18  Leave that, immediately before the Division 2B referral commencement, is being, or is to be, taken under Division 6 of Part 7 of the WR Act or a State industrial law
-
-(1)        If:
-
-                     (a)  an employee was, immediately before the Division 2B referral commencement, taking a period of a type of leave under:
-
-                              (i)  Division 6 of Part 7 of the WR Act; or
-
-                             (ii)  a State industrial law; and
-
-                     (b)  there is an equivalent type of leave under the National Employment Standards;
-
-the employee is entitled to continue on leave of the equivalent type under the National Employment Standards for the remainder of the period.
-
-_Note:       For example, if an employee was taking parental leave under Division 6 of Part 7 of the WR Act immediately before the Division 2B referral commencement, the employee is entitled to continue on unpaid parental leave under the National Employment Standards._
-
-(2)        If an employee, or his or her spouse or de facto partner (if the spouse or de facto partner is also an employee), continues on leave under the National Employment Standards in accordance with subitem (1), the employee is entitled to adjust any of the following consistently with the provisions of the National Employment Standards in relation to that type of leave:
-
-                     (a)  the amount of leave the employee is taking or will take;
-
-                     (b)  the time at which the leave is taken;
-
-                     (c)  the arrangements for taking the leave.
-
-_Note:       If the employee’s spouse or de facto partner is also an employee, the employees will be an employee couple for the purposes of the parental leave provisions of the National Employment Standards._
-
-(3)        If, before the Division 2B referral commencement:
-
-                     (a)  an employee has taken a step that the employee is required to take so that the employee can, on or after the Division 2B referral commencement, take a type of leave referred to in subitem (1); and
-
-                     (b)  an equivalent step is required under the National Employment Standards;
-
-the employee is taken to have taken the step under the National Employment Standards.
-
-_Note:       For example, if an employee has given the employer an application under section 271 of the WR Act so that the employee can take ordinary maternity leave, the employee is taken to have given the employer notice under section 74 of the FW Act of the taking of unpaid parental leave._
-
-(4)        If an employee is taken, by subitem (3), to have taken a step, in relation to leave, under the National Employment Standards, the employee is entitled to adjust the step consistently with the provisions of the National Employment Standards in relation to that type of leave.
-
-_Note:       For example, an employee could vary the content of a notice given to the employer in relation to the leave, or vary the amount of leave the employee has notified the employer that the employee intends to take._
-
-(5)        The regulations may deal with other matters relating to how the National Employment Standards apply to leave that, immediately before the Division 2B referral commencement, is being, or is to be, taken under Division 6 of Part 7 of the WR Act or under a State industrial law of a Division 2B referring State.
-
-## 19  Notice of termination
-
-(1)        Subdivision A of Division 11 of the National Employment Standards applies only to terminations of employment occurring on or after the Division 2B referral commencement.
-
-(2)        However, that Subdivision does not apply to a termination if notice of the termination was given before the Division 2B referral commencement.
-
-## 20  Redundancy pay
-
-Subdivision B of Division 11 of the National Employment Standards applies only to terminations of employment occurring on or after the Division 2B referral commencement, even if notice of the termination was given before that day.
-
-## 21  Fair Work Information Statement
-
-The obligation in section 125 of the National Employment Standards for an employer to give an employee the Fair Work Information Statement only applies to an employee who starts employment with the employer on or after the Division 2B referral commencement.
-
-## 22  Regulations
-
-The regulations may make provision in relation to how the National Employment Standards apply to, or are affected by, things done or matters occurring before the Division 2B referral commencement.
-
 ###### Schedule 5—Modern awards (other than modern enterprise awards and State reference public sector modern awards)
 
 <h7 class="ActHead7">Part 1—Preliminary</h7>
@@ -3857,28 +2295,6 @@ _Note:       Enterprise award etc. modernisation is provided for in 
 (2)        For that purpose, Part 10A of the WR Act continues to apply on and after the WR Act repeal day in accordance with this Part.
 
 (3)        Without limiting subitem (2), the request under section 576C of the WR Act continues to apply on and after the WR Act repeal day, and may be varied in accordance with that section.
-
-(3A)     Part 10A of the WR Act applies as if:
-
-                     (a)  a reference to an employee were a reference to a national system employee; and
-
-                     (b)  a reference to an employer were a reference to a national system employer; and
-
-                     (c)  all the words after “eligible entity” in paragraph 576K(2)(b) were omitted and the words “may arrange for work to be performed for the entity (either directly or indirectly), if the work is of a kind that is often performed by outworkers” were substituted; and
-
-                     (d)  the definition of **_eligible entity_** in section 576U were omitted; and
-
-                     (e)  subsection 576Z(4) were omitted; and
-
-                      (f)  a reference to an eligible entity were a reference to an outworker entity within the meaning of the FW Act; and
-
-                     (g)  subsection 576K(1) were omitted; and
-
-                     (h)  a reference to an outworker in subsection 576K(2) were a reference to an outworker within the meaning of the FW Act; and
-
-                      (i)  the definition of **_outworker term_** in section 576U were omitted; and
-
-                      (j)  a reference to an outworker term in section 576V were a reference to an outworker term within the meaning of the FW Act.
 
 (4)        The Australian Industrial Relations Commission’s power under section 576H of the WR Act to vary a modern award cannot be exercised after the modern award has come into operation.
 
@@ -4102,9 +2518,7 @@ In this Schedule, **_employee_** means a national system employee and **_employe
 
                      (a)  an enterprise award-based instrument;
 
-                     (b)  an enterprise preserved collective State agreement;
-
-                     (c)  a Division 2B enterprise award.
+                     (b)  an enterprise preserved collective State agreement.
 
 (2)        An **_enterprise award-based instrument_** is an award-based transitional instrument, other than a State reference public sector transitional award, to which subitem (2A) or (2B) applies.
 
@@ -4120,7 +2534,7 @@ In this Schedule, **_employee_** means a national system employee and **_employe
 
                             (iii)  any combination of the above.
 
-(2B)     This subitem applies to an award-based transitional instrument that is a notional agreement preserving State awards, if the notional agreement includes terms and conditions from a State award (within the meaning of the WR Act) that covered employees in:
+(2B)     This subitem applies to an award-based transitional instrument that is a notional agreement preserving State awards, if the notional agreement includes terms and conditions from a State award that covered employees in:
 
                      (a)  a single enterprise (or a part of a single enterprise) only; or
 
@@ -4134,21 +2548,9 @@ In this Schedule, **_employee_** means a national system employee and **_employe
 
 (3)        An **_enterprise preserved collective State agreement_** is a transitional instrument that is a preserved collective State agreement in relation to which the following paragraphs are satisfied:
 
-                     (a)  a State or Territory law had, on the day before the commencement of Part 2 of Schedule 4 to the _Workplace Relations Amendment (Work Choices) Act 2005_, the effect (however described) of converting a State award (within the meaning of the WR Act) into the relevant State employment agreement (within the meaning of the WR Act);
+                     (a)  a State or Territory law had, on the day before the commencement of Part 2 of Schedule 4 to the _Workplace Relations Amendment (Work Choices) Act 2005_, the effect (however described) of converting a State award into the relevant State employment agreement;
 
                      (b)  if the State award had continued to have effect in relation to employees, a notional agreement preserving State awards to which subitem (2B) applies would have been taken to come into operation in relation to those employees.
-
-(4)        A **_Division 2B enterprise award_** is a Division 2B State award that covers:
-
-                     (a)  a single enterprise (or a part of a single enterprise) only; or
-
-                     (b)  one or more enterprises, if the employers all carry on similar business activities under the same franchise and are:
-
-                              (i)  franchisees of the same franchisor; or
-
-                             (ii)  related bodies corporate of the same franchisor; or
-
-                            (iii)  any combination of the above.
 
 ## 3  Meaning of _single enterprise_ and _part of a single enterprise_
 
@@ -4352,7 +2754,7 @@ Employees not traditionally covered by awards etc.
 
 _Note:       For example, in some industries, managerial employees have traditionally not been covered by awards._
 
-## 9  Variation and termination of certain instruments to take account of enterprise instrument modernisation process
+## 9  Variation and termination of certain transitional instruments etc. to take account of enterprise instrument modernisation process
 
 (1)        If FWA makes a modern enterprise award to replace an enterprise preserved collective State agreement, the agreement terminates when the modern award comes into operation.
 
@@ -4366,11 +2768,9 @@ _Note:       For example, in some industries, managerial employees h
 
                              (ii)  transitional APCSs;
 
-                            (iii)  other Division 2B State awards;
-
                             so that employees who were covered by the enterprise instrument are no longer covered by those modernisable instruments.
 
-_Note 1:    The main provisions about transitional instruments are in Schedule 3, the main provisions about transitional APCSs are in Schedule 9, and the main provisions about Division 2B State awards are in Schedule 3A._
+_Note 1:    The main provisions about transitional instruments are in Schedule 3, and the main provisions about transitional APCSs are in Schedule 9._
 
 _Note 2:    This item does not limit the effect of any other provision of this Act under which a modernisable instrument ceases to cover a person from a time earlier than when the instrument is terminated or varied under this item._
 
@@ -4792,9 +3192,9 @@ In this Schedule, **_employer_** and **_employee_** have their ordinary meanings
 
 _Note:       State reference transitional awards and common rules are continued in existence as transitional instruments by Schedule 3._
 
-(2)        A **_State reference public sector employee_** is a State reference employee who is a State public sector employee as defined in section 30A or 30K of the FW Act.
+(2)        A **_State reference public sector employee_** is a State reference employee who is a State public sector employee as defined in section 30A of the FW Act.
 
-(3)        A **_State reference public sector employer_** is a State reference employer that is a State public sector employer as defined in section 30A or 30K of the FW Act.
+(3)        A **_State reference public sector employer_** is a State reference employer that is a State public sector employer as defined in section 30A of the FW Act.
 
 (4)        If:
 
@@ -4852,13 +3252,13 @@ _Note:       The proposed parties will cease to be covered by State 
 
 ## 5  Terminating State reference public sector transitional awards on application
 
-(1)        An employer or organisation that is covered by a State reference public sector transitional award (the **_current award_**) may apply to FWA or the Commission to terminate the current award.
+(1)        An employer or organisation that is covered by a State reference public sector transitional award (the **_current award_**) may apply to FWA to terminate the current award.
 
 (2)        The application may be made only during the period starting on the WR Act repeal day and ending at the end of 31 December 2013.
 
-(3)        FWA or the Commission must not terminate the current award unless FWA or the Commission is satisfied that the employees who are covered by the current award will, if the current award is terminated, be covered by a modern award (other than the miscellaneous modern award) that, at the time of the termination, is or is likely to be in operation and that is appropriate for them.
+(3)        FWA must not terminate the current award unless FWA is satisfied that the employees who are covered by the current award will, if the current award is terminated, be covered by a modern award (other than the miscellaneous modern award) that is in operation and that is appropriate for them.
 
-(4)        In deciding whether to terminate the current award, FWA or the Commission must take into account the following:
+(4)        In deciding whether to terminate the current award, FWA must take into account the following:
 
                      (a)  the circumstances that led to the making of the current award;
 
@@ -4872,11 +3272,7 @@ _Note:       The proposed parties will cease to be covered by State 
 
                       (f)  any other matter prescribed by the regulations.
 
-(5)        If FWA or the Commission terminates the current award, the termination operates from the day specified in the decision to terminate the current award, being a day that is not earlier than the FW (safety net provisions) commencement day.
-
-(6)        If the Commission terminates the current award, the termination is taken, after the Commission has ceased to exist, to have been made by FWA.
-
-_Note:       Schedule 18 provides for when the Commission ceases to exist._
+(5)        If FWA terminates the current award, the termination operates from the day specified in the decision to terminate the current award, being a day that is not earlier than the FW (safety net provisions) commencement day.
 
 ## 6  Further obligation of FWA to make or vary State reference public sector modern awards at end of application period
 
@@ -5268,9 +3664,9 @@ for one or more of the employees.
 
 For the purposes of paragraphs 7(2)(a) and 8(2)(a), an industry or occupation in which the terms and conditions of the kind of work performed or to be performed by an employee are usually regulated by an award is taken to include an industry or occupation in which the terms and conditions of the kind of work performed or to be performed by the employee:
 
-                     (a)  were, immediately before the reform commencement, usually regulated by a State award (within the meaning of the WR Act); or
+                     (a)  were, immediately before the reform commencement, usually regulated by a State award; or
 
-                     (b)  would, but for an industrial instrument or a State employment agreement (within the meaning of the WR Act) having come into operation, usually have been so regulated immediately before the reform commencement.
+                     (b)  would, but for an industrial instrument or a State employment agreement having come into operation, usually have been so regulated immediately before the reform commencement.
 
 ## 10  Matters taken into account when testing agreement etc.
 
@@ -5470,98 +3866,6 @@ In this Part:
 
                             (iii)  covers his or her employer.
 
-<h7 class="ActHead7">Part 4A—Transitional provisions to apply the better off overall test to enterprise agreements that cover Division 2B State award covered employees</h7>
-
-## 20A  Application of better off overall test to making of enterprise agreements that cover Division 2B State award covered employees
-
-(1)        This item applies in relation to an enterprise agreement made on or after the Division 2B referral commencement, if one or more of the employees covered by the agreement is a Division 2B State award covered employee.
-
-Non-greenfields agreements
-
-(2)        Despite section 193 of the FW Act, if the enterprise agreement is not a greenfields agreement, the agreement passes the better off overall test under that section only if:
-
-                     (a)  FWA is satisfied as referred to in subsection (1) of that section, and paragraph (2)(b) of item 18 of this Schedule, in relation to the agreement (to the extent that those provisions are applicable); and
-
-                     (b)  FWA is satisfied, as at the test time, that each Division 2B State award covered employee, and each prospective Division 2B State award covered employee, for the agreement would be better off overall if the agreement applied to the employee than if the relevant Division 2B State award applied to the employee.
-
-_Note:       Section 193 of the FW Act and item 18 of this Schedule deal with testing enterprise agreements against other instruments (such as modern awards). An enterprise agreement to which this subitem applies will not be tested against one or more such other instruments in relation to Division 2B State award covered employees._
-
-Greenfields agreements
-
-(3)        Despite section 193 of the FW Act, if the enterprise agreement is a greenfields agreement, the agreement passes the better off overall test under that section only if:
-
-                     (a)  FWA is satisfied as referred to in subsection (3) of that section and paragraph (3)(b) of item 18 of this Schedule in relation to the agreement (to the extent that those provisions are applicable); and
-
-                     (b)  FWA is satisfied, as at the test time, that each prospective Division 2B State award covered employee for the agreement would be better off overall if the agreement applied to the employee than if the relevant Division 2B State award applied to the employee.
-
-_Note:       Section 193 of the FW Act and item 18 of this Schedule deal with testing enterprise agreements against other instruments (such as modern awards). An enterprise agreement to which this subitem applies will not be tested against one or more such other instruments in relation to prospective Division 2B State award covered employees._
-
-FWA may assume employee better off overall in certain circumstances
-
-(4)        For the purposes of determining whether an enterprise agreement passes the better off overall test, if a class of employees to which a particular employee belongs would be better off if the agreement applied to that class than if the relevant Division 2B State award applied to that class, FWA is entitled to assume, in the absence of evidence to the contrary, that the employee would be better off overall if the agreement applied to the employee.
-
-## 20B  Application of better off overall test to variation of enterprise agreements that cover Division 2B State award covered employees
-
-(1)        This item applies in relation to a variation of an enterprise agreement if:
-
-                     (a)  the variation is made on or after the Division 2B referral commencement; and
-
-                     (b)  one or more of the employees covered by the agreement is a Division 2B State award covered employee.
-
-(2)        Despite subsections 211(4) and (5) of the FW Act, subitems (3) and (4) apply in relation to the variation for the purposes of FWA being satisfied that the agreement as proposed to be varied passes the better off overall test.
-
-Modification of the better off overall test
-
-(3)        An enterprise agreement as proposed to be varied passes the better off overall test only if:
-
-                     (a)  FWA is satisfied, as at the test time, as mentioned in subitem 19(3) of this Schedule in relation to the agreement as proposed to be varied (to the extent that subitem 19(3) is applicable); and
-
-                     (b)  FWA is satisfied, as at the test time, that each Division 2B State award covered employee, and each prospective Division 2B State award covered employee, for the agreement would be better off overall if the agreement applied to the employee than if the relevant Division 2B State award applied to the employee.
-
-_Note:       Item 19 of this Schedule deals with testing enterprise agreements as proposed to be varied against other instruments (such as modern awards). A variation to which this subitem applies will not be tested against one or more such other instruments in relation to Division 2B State award covered employees._
-
-FWA may assume employee better off overall in certain circumstances
-
-(4)        For the purposes of determining whether the enterprise agreement as proposed to be varied passes the better off overall test, if a class of employees to which a particular employee belongs would be better off if the agreement applied to that class than if the relevant Division 2B State award applied to that class, FWA is entitled to assume, in the absence of evidence to the contrary, that the employee would be better off overall if the agreement applied to the employee.
-
-FWA must disregard individual flexibility arrangement
-
-(5)        For the purposes of determining whether an enterprise agreement as proposed to be varied passes the better off overall test, FWA must disregard any individual flexibility arrangement that has been agreed to by a Division 2B State award covered employee and his or her employer under the flexibility term in the agreement.
-
-## 20C  Definitions
-
-In this Part:
-
-**_Division 2B State award covered employee_**, for an enterprise agreement, means an employee who:
-
-                     (a)  is covered by the agreement; and
-
-                     (b)  at the test time, is covered by a Division 2B State award (the **_relevant Division 2B State award_**) that:
-
-                              (i)  is in operation; and
-
-                             (ii)  covers the employee in relation to the work that he or she is to perform under the agreement; and
-
-                            (iii)  covers his or her employer.
-
-**_prospective Division 2B State award covered employee_**, for an enterprise agreement, means a person who, if he or she were an employee at the test time of an employer covered by the agreement:
-
-                     (a)  would be covered by the agreement; and
-
-                     (b)  would be covered by a Division 2B State award (the **_relevant Division 2B State award_**) that:
-
-                              (i)  is in operation; and
-
-                             (ii)  would cover the person in relation to the work that he or she would perform under the agreement; and
-
-                            (iii)  covers the employer.
-
-**_test time_**:
-
-                     (a)  for the purposes of item 20A—means the time the application for approval of the enterprise agreement by FWA was made under section 185 of the FW Act; and
-
-                     (b)  for the purposes of item 20B—means the time the application for approval of the variation of the enterprise agreement by FWA was made under section 210 of that Act.
-
 <h7 class="ActHead7">Part 5—Transitional provisions relating to workplace determinations made under the FW Act</h7>
 
 ## 21  Application made during bridging period for special low-paid workplace determination—general requirement relating to minimum safety net
@@ -5655,24 +3959,6 @@ Meaning of **workplace determination**
 (8)        In this item:
 
 **_workplace determination_** means a workplace determination made under the FW Act.
-
-<h7 class="ActHead7">Part 7—Transitional provision about the operation of the better off overall test if a transitional pay equity order applies</h7>
-
-## 28  Operation of better off overall test if a transitional pay equity order applies to employer
-
-(1)        This item applies to an enterprise agreement, or a variation of an enterprise agreement, if:
-
-                     (a)  an application for approval of the agreement or variation has been made under the FW Act; and
-
-                     (b)  FWA must decide whether the agreement, or the agreement as proposed to be varied, passes the better off overall test; and
-
-                     (c)  an employer covered by the agreement, or the agreement as proposed to be varied, is an employer to which a transitional pay equity order applies; and
-
-                     (d)  an employee covered by the agreement, or the agreement as proposed to be varied, is an affected employee of the employer referred to in paragraph (c).
-
-(2)        For the purposes of determining whether the affected employee would be better off overall if the agreement, or the agreement as proposed to be varied, applied to the employee than if the relevant modern award applied to the employee, the base rate of pay payable under the relevant modern award to the employee is taken to be increased so that it is equal to the amount payable to the employee under the transitional pay equity order.
-
-_Note:       For the meanings of transitional pay equity order and affected employee, see item 2 of Schedule 2._
 
 ###### Schedule 8—Workplace agreements and workplace determinations made under the WR Act
 
@@ -6500,7 +4786,7 @@ _Note:       The requirement in paragraph 294(1)(b) of the FW Act th
 
 (3)        The hours for which a rate set in the transitional national minimum wage order is payable are the same as the hours for which the transitional standard FMW, transitional special FMW or transitional default casual loading (as the case requires) would have been payable under the continued AFPCS wages provisions.
 
-<h7 class="ActHead7">Part 4—Universal application of minimum wages to employees: transitional instruments</h7>
+<h7 class="ActHead7">Part 4—Universal application of minimum wages to employees</h7>
 
 ## 13  Base rate of pay under agreement-based transitional instrument must not be less than the modern award rate or the national minimum wage order rate etc.
 
@@ -6560,96 +4846,6 @@ the base rate of pay payable to the employee under the enterprise agreement (the
 
 _Note:       If a transitional instrument applies to an employee who is covered by a transitional minimum wage instrument, then (subject to the continued application of the AFPCS interaction rules) the employee must be paid at least the rate required by the continued AFPCS wages provisions._
 
-<h7 class="ActHead7">Part 5—Provisions relating to Division 2B State instruments</h7>
-
-<h8 class="ActHead8">Division 1—Universal application of minimum wages to employees: Division 2B State reference employees</h8>
-
-## 16  Base rate of pay under Division 2B State award must not be less than national minimum wage order rate etc.
-
-(1)        If, on or after the Division 2B referral commencement:
-
-                     (a)  a Division 2B State award applies to a Division 2B State reference employee; and
-
-                     (b)  a national minimum wage order would, if the employee were an award/agreement free employee, require the employee’s employer to pay the employee a base rate of pay (the **_employee’s order rate_**) that at least equals the national minimum wage, or a special national minimum wage, set by the order;
-
-the base rate of pay payable to the employee under the Division 2B State award (the **_award_** **_rate_**) must not be less than the employee’s order rate.
-
-(2)        If the award rate is less than the employee’s order rate, the Division 2B State award has effect in relation to the employee as if the award rate were equal to the employee’s order rate.
-
-## 17  Base rate of pay under Division 2B State employment agreement must not be less than Division 2B State award rate or modern award rate, or the national minimum wage order rate etc.
-
-If employee is covered by a Division 2B State award or modern award that is in operation
-
-(1)        If, on or after the Division 2B referral commencement:
-
-                     (a)  a Division 2B State employment agreement applies to a Division 2B State reference employee; and
-
-                     (b)  a Division 2B State award or a modern award that is in operation covers the employee;
-
-the base rate of pay payable to the employee under the agreement (the **_agreement_** **_rate_**) must not be less than the base rate of pay that would be payable to the employee under the Division 2B State award or the modern award (the **_award rate_**) if the Division 2B State award or the modern award applied to the employee.
-
-(2)        If the agreement rate is less than the award rate, the Division 2B State employment agreement has effect in relation to the employee as if the agreement rate were equal to the award rate.
-
-If employee is not covered by a Division 2B State award or modern award that is in operation
-
-(3)        If, on or after the Division 2B referral commencement:
-
-                     (a)  a Division 2B State employment agreement applies to a Division 2B State reference employee; and
-
-                     (b)  the employee is not covered by a Division 2B State award or a modern award that is in operation; and
-
-                     (c)  a national minimum wage order would, if the employee were an award/agreement free employee, require the employee’s employer to pay the employee a base rate of pay (the **_employee’s order rate_**) that at least equals the national minimum wage, or a special national minimum wage, set by the order;
-
-the base rate of pay payable to the employee under the Division 2B State employment agreement (the **_agreement_** **_rate_**) must not be less than the employee’s order rate.
-
-(4)        If the agreement rate is less than the employee’s order rate, the Division 2B State employment agreement has effect in relation to the employee as if the agreement rate were equal to the employee’s order rate.
-
-## 18  FWA may make determinations to phase-in the effect of rate increases resulting from item 16 or 17  etc.
-
-(1)        On application by an employer to whom a Division 2B State instrument applies, FWA may make a determination the effect of which is to phase-in the effect of increases in base rates of pay that would otherwise take effect on a particular day because of item 16 or 17.
-
-(2)        FWA must not make a determination under this item in relation to an employer unless it is satisfied that the determination is necessary to ensure the ongoing viability of the employer’s enterprise.
-
-(3)        Items 16 and 17 have effect in relation to an employer subject to any determinations FWA makes under this item.
-
-## 19  Award/agreement free Division 2B State reference employee not to be paid less than State minimum amount
-
-(1)        This item applies in relation to an employee and a period if:
-
-                     (a)  the employee is a Division 2B State reference employee; and
-
-                     (b)  the transitional national minimum wage order, or another national minimum wage order, is in operation throughout the period; and
-
-                     (c)  the employee is an award/agreement free employee throughout the period, and no Division 2B State instrument applies to the employee at any time in the period; and
-
-                     (d)  the amount that is payable to the employee in relation to the period under the national minimum wage order is less than the amount (the **_State minimum amount_**) that would be payable to the employee in relation to the period under the State minimum wages instruments (see subitem (4)).
-
-(2)        The national minimum wage order has effect, in relation to the employee and the period, as if it instead required the employer to pay the employee the State minimum amount.
-
-(3)        In working out the State minimum amount, any increases of rates (whether because of indexation or otherwise) that would have taken effect after the Division 2B State referral commencement under State minimum wages instruments are to be disregarded.
-
-(4)        The **_State minimum wages instruments_**, in relation to the employee, are orders, decisions or rulings (however described), as in force immediately before the Division 2B referral commencement:
-
-                     (a)  that were made by a State industrial body under a State industrial law of the Division 2B referring State; and
-
-                     (b)  that provide for employees to be paid a minimum wage or a minimum rate of remuneration, or that affect the entitlement of such employees to be paid a minimum wage or a minimum rate of remuneration.
-
-(5)        This item has effect subject to the regulations, which may:
-
-                     (a)  provide for how amounts referred to in paragraph (1)(d) are to be worked out (for example, in relation to casual employees); or
-
-                     (b)  provide for how a national minimum wage order has effect because of subitem (2); or
-
-                     (c)  provide that certain orders, decisions or rulings (however described) made by a State industrial body are, or are not, State minimum wages instruments as defined in subitem (4).
-
-<h8 class="ActHead8">Division 2—Other matters</h8>
-
-## 20  Variation of Division 2B State awards in annual wage reviews under the FW Act
-
-(1)        In an annual wage review, FWA may make a determination varying terms of a Division 2B State award relating to wages.
-
-(2)        For that purpose, Division 3 of Part 2-6 of the FW Act (other than section 292) applies to terms of a Division 2B State award relating to wages in the same way as it applies to a modern award.
-
 ###### Schedule 10—Equal remuneration
 
 <h7 class="ActHead7">Part 1—Preliminary</h7>
@@ -6684,9 +4880,7 @@ In this Schedule, **_employee_** means a national system employee.
 
                      (b)  an order of the Commission made under the WR Act;
 
-                     (c)  a transitional APCS;
-
-                     (d)  a Division 2B State instrument.
+                     (c)  a transitional APCS.
 
 _Note:       A term of a modern award, an enterprise agreement or an FWA order also has no effect in relation to an employee to the extent that it is less beneficial to the employee than a term of an equal remuneration order that is made under Part 2-7 of the FW Act and applies to the employee (see section 306 of the FW Act)._
 
@@ -6898,13 +5092,7 @@ Modifications of Schedule 9 to the WR Act
 
 <h7 class="ActHead7">Part 3—Transfers of business occurring on or after WR Act repeal day</h7>
 
-<h8 class="ActHead8">Division 1—Transfers of business: transitional instruments</h8>
-
-## 6A  Application of this Division
-
-This Division applies in relation to a transfer of business and transferable instruments that are transitional instruments.
-
-_Note:       Transfers of business affecting Division 2B State instruments are dealt with in Division 4 of this Part._
+<h8 class="ActHead8">Division 1—General</h8>
 
 ## 7  Application of FW Act in relation to transferring employees covered by transitional instrument
 
@@ -6938,7 +5126,7 @@ _Note:       Transfers of business affecting Division 2B State ins
 
 (4)        Paragraph (2)(b) does not apply in relation to the reference to a modern award in subsection 312(2) of the FW Act.
 
-(5)        The following provisions of Part 2-8 of the FW Act apply in relation to the transfer of business as if a reference to an enterprise agreement included a reference to a collective agreement-based transitional instrument:
+(5)        The following provisions of Part 2-8 of the FW Act apply in relation to the transfer of business as if a reference to an enterprise agreement included a reference to a collective agreement-based transitional agreement:
 
                      (a)  subsection 315(3);
 
@@ -7090,52 +5278,6 @@ _Note:       This means that section 29 of the Acts Interpretation
 
                       (f)  the reference to section 605 in the note to subsection 599(4) were a reference to subitem 11(5) of Schedule 16 to the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_.
 
-<h8 class="ActHead8">Division 4—Transfers of business: Division 2B State instruments</h8>
-
-## 14  Application of this Division
-
-This Division applies in relation to a transfer of business and transferable instruments that are Division 2B State instruments.
-
-_Note:       Transfers of business affecting transitional instruments are dealt with in Division 1 of this Part._
-
-## 15  Application of FW Act in relation to transferring employees covered by Division 2B State instrument
-
-(1)        This item applies if:
-
-                     (a)  there is a transfer of business from an employer (the **_old employer_**) to another employer (the **_new employer_**), as described in subsection 311(1) of the FW Act; and
-
-                     (b)  the connection between the old employer and the new employer referred to in paragraph 311(1)(d) of the FW Act occurs on or after the Division 2B referral commencement.
-
-(2)        Part 2-8 of the FW Act (as modified by item 16 of this Schedule) applies in relation to the transfer of business.
-
-## 16  Modification—application of FW Act in relation to Division 2B State instruments
-
-(1)        Subsection 312(1) of the FW Act applies in relation to the transfer of business as if the following paragraph were added at the end:
-
-                   ; (d)  a Division 2B State instrument.
-
-(2)        Except as provided in subitems (3) to (5), Part 2-8 of the FW Act applies in relation to the transfer of business as if:
-
-                     (a)  a reference to an enterprise agreement included a reference to a Division 2B State employment agreement; and
-
-                     (b)  a reference to a modern award included a reference to a Division 2B State award.
-
-(3)        Paragraph (2)(a) does not apply in relation to the reference to an enterprise agreement in paragraph 312(1)(a) or 319(1)(c) of the FW Act.
-
-(4)        Paragraph (2)(b) does not apply in relation to the reference to a modern award in subsection 312(2) or paragraph 319(1)(c) of the FW Act.
-
-(5)        The following provisions of Part 2-8 of the FW Act apply in relation to the transfer of business as if a reference to an enterprise agreement included a reference to a collective Division 2B State employment agreement:
-
-                     (a)  subsection 315(3);
-
-                     (b)  paragraphs 318(1)(b) and (2)(c);
-
-                     (c)  paragraph 319(2)(c).
-
-(6)        Paragraph 319(1)(b) of the FW Act applies in relation to the transfer of business as if the words “(other than an individual Division 2B State employment agreement)” were inserted after the words “a transferable instrument”.
-
-(7)        If a transferable instrument that is a Division 2B State award starts to cover the new employer in relation to the transfer of business as mentioned in paragraph 313(1)(a) of the FW Act, FWA cannot make an order under paragraph 319(1)(c) of the FW Act.
-
 ###### Schedule 12—General protections
 
 ## 1  Meanings of _employee_ and _employer_
@@ -7182,20 +5324,6 @@ _Note:       References in Part 3-1 of the FW Act:_
 
 _Note:       This means, for example, that an employer is prohibited from exerting undue influence or undue pressure on an employee to have the employee agree to a cashing out of annual leave arrangement under a term of a pre-reform certified agreement._
 
-## 4  Application in relation to Division 2B State instruments
-
-Part 3-1 of the FW Act has effect as if:
-
-                     (a)  a reference in that Part to an enterprise agreement included a reference to a Division 2B State employment agreement; and
-
-                     (b)  a reference in that Part to a modern award included a reference to a Division 2B State award.
-
-_Note:       References in Part 3-1 of the FW Act:_
-
-(a)    to an enterprise agreement are found in paragraphs 341(2)(e) and (g), paragraph 344(b), subsection 353(3) and subparagraphs 354(1)(a)(iii) and (b)(ii) of that Act; and
-
-(b)    to a modern award are found in paragraphs 341(2)(g) and 344(b) of that Act.
-
 ###### Schedule 12A—Unfair dismissal
 
 ## 1  Meanings of _employee_ and _employer_
@@ -7235,8 +5363,6 @@ Step 4\. Divide by 152 the number worked out under step 3\. The result is the em
                      (a)  to the extent that a modern award, enterprise agreement or workplace determination applied to the person, and the person was not a casual employee—the ordinary hours of work specified or provided for in that award, agreement or determination; or
 
                      (b)  to the extent that a transitional instrument applied to the person, and the person was not a casual employee—the person’s ordinary hours of work under item 33 of Schedule 3; or
-
-                    (ba)  to the extent that a Division 2B State instrument applied to the person, and the person was not a casual employee—the person’s ordinary hours of work under item 48 of Schedule 3A; or
 
                      (c)  to the extent that:
 
@@ -7286,17 +5412,17 @@ In this Schedule, **_employee_** means a national system employee and **_employe
 
 <h7 class="ActHead7">Part 2—Bargaining</h7>
 
-## 2  Employee covered by individual agreement-based transitional instrument or individual Division 2B State employment agreement is taken not to be an employee who will be, or who is, covered by enterprise agreement in certain circumstances
+## 2  Employee covered by individual agreement-based transitional instrument is taken not to be an employee who will be, or who is, covered by enterprise agreement in certain circumstances
 
-(1)        This item applies to an employee at a particular time if, at that time, an individual agreement-based transitional instrument or an individual Division 2B State employment agreement covers the employee.
+(1)        This item applies to an employee at a particular time if, at that time, an individual agreement-based transitional instrument covers the employee.
 
 (2)        The employee is only taken, for the purposes of the FW Act, to be at that time an employee who is or will be covered by an enterprise agreement or a proposed enterprise agreement, if one of the following applies:
 
-                     (a)  the nominal expiry date of the individual agreement-based transitional instrument or the individual Division 2B State employment agreement has passed;
+                     (a)  the nominal expiry date of the individual agreement-based transitional instrument has passed;
 
-                     (b)  a conditional termination of the individual agreement-based transitional instrument or the individual Division 2B State employment agreement has been made under subitem 18(2) of Schedule 3 or subitem 25(2) of Schedule 3A.
+                     (b)  a conditional termination of the individual agreement-based transitional instrument has been made under subitem 18(2) of Schedule 3.
 
-_Note:       The main effect of this subitem is that an employee who is covered by an individual agreement-based transitional instrument or an individual Division 2B State employment agreement will not be able to do any of the following until the nominal expiry date of the instrument passes or a conditional termination of the instrument is made under subitem 18(2) of Schedule 3 or subitem 25(2) of Schedule 3A:_
+_Note:       The main effect of this subitem is that an employee who is covered by an individual agreement-based transitional instrument will not be able to do any of the following until the nominal expiry date of the instrument passes or a conditional termination of the instrument is made under subitem 18(2) of Schedule 3:_
 
 (a)    be represented in bargaining for an enterprise agreement; 
 
@@ -7308,37 +5434,33 @@ _Note:       The main effect of this subitem is that an employee who
 
 (3)        Despite subitem (2), an employer must give a notice of employee representational rights to an employee under section 173 of the FW Act, if the employer would have been required to give such a notice but for subitem (2). However, the notice must explain that a person can only become the employee’s bargaining representative for the agreement when one of the following occurs:
 
-                     (a)  the nominal expiry date of the individual agreement-based transitional instrument or the individual Division 2B State employment agreement passes;
+                     (a)  the nominal expiry date of the individual agreement-based transitional instrument passes;
 
-                     (b)  a conditional termination of the individual agreement-based transitional instrument or the individual Division 2B State employment agreement is made under subitem 18(2) of Schedule 3 or subitem 25(2) of Schedule 3A.
+                     (b)  a conditional termination of the individual agreement-based transitional instrument is made under subitem 18(2) of Schedule 3.
 
-## 3  Application for bargaining order where certain collective agreement-based transitional instruments or collective Division 2B State employment agreements have not passed nominal expiry date
+## 3  Application for bargaining order where certain collective agreement-based transitional instruments have not passed nominal expiry date
 
-Despite subsection 229(3) of the FW Act, if one or more of the following instruments apply to an employee, or employees, who will be covered by a proposed enterprise agreement:
+Despite subsection 229(3) of the FW Act, if one or more of the following transitional instruments apply to an employee, or employees, who will be covered by a proposed enterprise agreement:
 
-                     (a)  any of the following transitional instruments:
+                     (a)  a collective agreement;
 
-                              (i)  a collective agreement;
+                     (b)  a workplace determination;
 
-                             (ii)  a workplace determination;
+                     (c)  a preserved collective State agreement;
 
-                            (iii)  a preserved collective State agreement;
+                     (d)  a pre-reform certified agreement;
 
-                            (iv)  a pre-reform certified agreement;
-
-                             (v)  a section 170MX award;
-
-                     (b)  a collective  Division 2B State employment agreement;
+                     (e)  a section 170MX award;
 
 an application for a bargaining order may only be made under subsection 229(1) of that Act:
 
-                      (f)  not more than 90 days before the nominal expiry date of the instrument, or the latest nominal expiry date of those instruments (as the case may be); or
+                      (f)  not more than 90 days before the nominal expiry date of the transitional instrument, or the latest nominal expiry date of those transitional instruments (as the case may be); or
 
                      (g)  after an employer that will be covered by the proposed enterprise agreement has requested under subsection 181(1) of that Act that employees approve the agreement, but before the agreement is so approved.
 
 <h7 class="ActHead7">Part 3—Industrial action</h7>
 
-## 4  Industrial action must not be taken before the nominal expiry date of agreement-based transitional instrument or Division 2B State employment agreement
+## 4  Industrial action must not be taken before the nominal expiry date of transitional instrument
 
 (1)        The following provisions of the FW Act:
 
@@ -7346,13 +5468,13 @@ an application for a bargaining order may only be made under subsection 229(1) o
 
                      (b)   item 14 of the table in subsection 539(2) of the FW Act (which deals with civil remedies);
 
-apply, on and after the WR Act repeal day, in relation to an agreement-based transitional instrument or a Division 2B State employment agreement, in a corresponding way to the way that those provisions apply in relation to an enterprise agreement.
+apply, on and after the WR Act repeal day, in relation to an agreement-based transitional instrument, in a corresponding way to the way that those provisions apply in relation to an enterprise agreement.
 
-(2)        Subitem (1) does not apply to an individual agreement-based transitional instrument or an individual Division 2B State employment agreement if the employee and employer covered by the instrument or agreement have made a conditional termination in relation to the instrument or agreement under subitem 18(2) of Schedule 3 or subitem 25(2) of Schedule 3A.
+(2)        Subitem (1) does not apply to an individual agreement-based transitional instrument if the employee and employer covered by the instrument have made a conditional termination in relation to the instrument under subitem 18(2) of Schedule 3.
 
-_Note:       The effect of this provision is that an employee who is covered by an agreement-based transitional instrument or a Division 2B State employment agreement may not organise or engage in industrial action until after the nominal expiry date of the instrument or agreement has passed. However, this does not apply to an individual agreement-based transitional instrument, or an individual Division 2B State employment agreement, in relation to which a conditional termination has been made._
+_Note:       The effect of this provision is that an employee who is covered by an agreement-based transitional instrument may not organise or engage in industrial action until after the nominal expiry date of the instrument has passed. However, this does not apply to an individual agreement-based transitional instrument in relation to which a conditional termination has been made._
 
-(3)        For the purposes of subitem (1), the reference in subsection 417(1) of the FW Act to the day on which an enterprise agreement was approved by FWA is taken to be a reference to the day on which the agreement-based transitional instrument or the Division 2B State employment agreement became such an instrument or agreement.
+(3)        For the purposes of subitem (1), the reference in subsection 417(1) of the WR Act to the day on which an enterprise agreement was approved by FWA is taken to be a reference to the day on which the agreement-based transitional instrument became such an instrument.
 
 ## 5  Applications on foot under sections 496 and 497 of the WR Act
 
@@ -7373,8 +5495,6 @@ Despite the repeal of sections 496 and 497 of the WR Act:
                      (a)  an order made, or an injunction granted, under either of those provisions that was in operation immediately before the WR Act repeal day continues to have effect on and after that day; and
 
                      (b)  a person who, immediately before the WR Act repeal day, was required to comply with the order or injunction must not breach the order or injunction on or after the WR repeal day.
-
-_Note:       For the continuation of orders or injunctions to prevent or stop industrial action that were made by State industrial bodies or courts of Division 2B referring States, see item 61 of Schedule 3A._
 
 ## 7  Civil remedy provisions of FW Act apply to section 496 orders
 
@@ -7498,31 +5618,27 @@ An authorised ballot agent in relation to a protected action ballot conducted be
 
                      (b)  all the ballot papers, envelopes and other documents and records relevant to the ballot.
 
-## 17  Restriction on when protected action ballot orders may be made—certain agreement-based transitional instruments and collective Division 2B State employment agreements  that cover employees who will be covered by proposed enterprise agreement
+## 17  Restriction on when protected action ballot orders may be made—certain agreement-based transitional instruments cover employees who will be covered by proposed enterprise agreement
 
-(1)        This item applies if one or more of the following instruments cover the employees who will be covered by a proposed enterprise agreement:
+(1)        This item applies if one or more of the following transitional instruments cover the employees who will be covered by a proposed enterprise agreement:
 
-                     (a)  any of the following transitional instruments:
+                     (a)  a collective agreement;
 
-                              (i)  a collective agreement;
+                     (b)  a workplace determination;
 
-                             (ii)  a workplace determination;
+                     (c)  a preserved collective State agreement;
 
-                            (iii)  a preserved collective State agreement;
+                     (d)  a pre-reform certified agreement;
 
-                            (iv)  a pre-reform certified agreement;
+                     (e)  a section 170MX award.
 
-                             (v)  a section 170MX award;
-
-                     (b)  a collective Division 2B State employment agreement.
-
-(2)        An application for a protected action ballot order must not be made under subsection 437(1) of the FW Act earlier than 30 days before the nominal expiry date of the instrument, or the latest nominal expiry date of those instruments (as the case may be).
+(2)        An application for a protected action ballot order must not be made under subsection 437(1) of the FW Act earlier than 30 days before the nominal expiry date of the transitional instrument, or the latest nominal expiry date of those transitional instruments (as the case may be).
 
 (3)        To avoid doubt, making an application for a protected action ballot order does not constitute organising industrial action.
 
-<h7 class="ActHead7">Part 5—Effect of conduct engaged in while bargaining for WR Act collective agreement or collective State employment agreement</h7>
+<h7 class="ActHead7">Part 5—Effect of conduct engaged in while bargaining for WR Act collective agreement</h7>
 
-## 18  FWA may take into account conduct engaged in by bargaining representatives while bargaining for collective agreement
+## 18  FWA may take into account conduct engaged in by bargaining representatives while bargaining for WR Act collective agreement
 
 (1)        This item applies if:
 
@@ -7534,17 +5650,7 @@ An authorised ballot agent in relation to a protected action ballot conducted be
 
                      (d)  the employers who would be covered by the proposed enterprise agreement would have been bound by the proposed collective agreement, had it come into operation.
 
-(1A)     This item applies if:
-
-                     (a)  before the Division 2B referral commencement, a bargaining representative for a proposed enterprise agreement engaged in conduct in relation to a proposed collective State employment agreement; and
-
-                     (b)  immediately before that day, the collective State employment agreement had not been made, or had been made but had not been lodged (however described) under a State industrial law of a Division 2B referring State; and
-
-                     (c)  the employment of the employees who would be covered by the proposed enterprise agreement would have been subject to the proposed collective State employment agreement, had it come into operation; and
-
-                     (d)  the employers who would be covered by the proposed enterprise agreement would have been bound by the proposed collective State employment agreement, had it come into operation.
-
-(2)        If this item applies because of subitem (1) or (1A), FWA may take into account the conduct referred to in that subitem:
+(2)        FWA may take into account that conduct:
 
                      (a)  in deciding whether it is reasonable in all the circumstances to make a bargaining order or a scope order in relation to the proposed enterprise agreement; and
 
@@ -7580,9 +5686,9 @@ then:
 
 Division 9 of Part 3-3 of the FW Act applies as if:
 
-                     (a)  the reference in paragraph 470(4)(c), subsection 471(2) and paragraph 474(2)(c) of that Act to a modern award included a reference to an award-based transitional instrument and a Division 2B State award; and
+                     (a)  the reference in paragraph 470(4)(c), subsection 471(2) and paragraph 474(2)(c) of that Act to a modern award included a reference to an award-based transitional instrument; and
 
-                     (b)  the reference in those provisions to an enterprise agreement included a reference to an agreement-based transitional instrument and a Division 2B State agreement.
+                     (b)  the reference in those provisions to an enterprise agreement included a reference to an agreement-based transitional instrument.
 
 ###### Schedule 14—Right of entry
 
@@ -7620,9 +5726,7 @@ The reference in subsections 481(1) and 483A(1) of the FW Act to a suspected con
 
                      (b)  a WR Act instrument;
 
-                     (c)  a transitional instrument;
-
-                     (d)  a Division 2B State instrument.
+                     (c)  a transitional instrument.
 
 ## 4  Notice to produce documents
 
@@ -7670,10 +5774,6 @@ Despite item 4 of Schedule 3, subsection 691A(5) of the WR Act does not cont
 
 _Note:       This means that a provision of a transitional instrument that is a provision of the kind described in subparagraph 691A(1)(c)(ii) of the WR Act (being a provision requiring an employer to apply to a third party for authorisation to stand down employees in certain circumstances) has effect on and after the WR Act repeal day._
 
-## 4  Application of FW Act—stand down under Division 2B State instruments
-
-Subsection 524(2) of the FW Act (which deals with circumstances allowing stand down) applies in relation to a Division 2B State instrument as if a reference to an enterprise agreement included a reference to a Division 2B State instrument.
-
 ###### Schedule 16—Compliance
 
 ## 1  Meanings of _employee_ and _employer_
@@ -7714,34 +5814,6 @@ An employer must not contravene subitem 39(3) of Schedule 3.
 
 _Note:       This item is a civil remedy provision (see item 16, and Part 4-1 of the FW Act)._
 
-## 4A  Compliance with Division 2B State instruments
-
-Division 2B State awards
-
-(1)        A person must not contravene a term of a Division 2B State award that applies to the person.
-
-_Note 1:    This subitem is a civil remedy provision (see item 16, and Part 4-1 of the FW Act)._
-
-_Note 2:    An injunction may not be granted in relation to a contravention of a Division 2B State award (see item 17)._
-
-Division 2B State employment agreements
-
-(2)        A person must not contravene a term of a Division 2B State employment agreement  that applies to the person.
-
-_Note 1:    This subitem is a civil remedy provision (see item 16, and Part 4-1 of the FW Act)._
-
-_Note 2:    An injunction may not be granted in relation to a contravention of a Division 2B State employment agreement instrument (see item 17)._
-
-## 4B  Compliance with obligations relating to conditional terminations of individual Division 2B State employment agreements
-
-(1)        An employer must not contravene subitem 25(6) of Schedule 3A.
-
-_Note:       This subitem is a civil remedy provision (see item 16, and Part 4-1 of the FW Act)._
-
-(2)        A bargaining representative who applies to FWA for approval of an enterprise agreement must not contravene subitem 25(7) of Schedule 3A.
-
-_Note:       This subitem is a civil remedy provision (see item 16, and Part 4-1 of the FW Act)._
-
 ## 5  Compliance with transitional APCSs, the transitional FMW and transitional special FMWs
 
 A person must not contravene section 182 or 185 of the WR Act as that section continues to apply under item 5 of Schedule 9.
@@ -7777,16 +5849,6 @@ _Note:       This subitem is a civil remedy provision (see item 16
 A person must not contravene a term of a take-home pay order that applies to the person.
 
 _Note:       This item is a civil remedy provision (see item 16, and Part 4-1 of the FW Act)._
-
-## 7A  Compliance with transitional pay equity orders and orders to continue effect of terms relating to long service leave
-
-(1)        A person must not contravene a term of a transitional pay equity order that applies to the person.
-
-_Note:       This subitem is a civil remedy provision (see item 16, and Part 4-1 of the FW Act)._
-
-(2)        A person must not contravene an order under item 30 of Schedule 3A that continues the effect of terms of a Division 2B State award relating to long service leave.
-
-_Note:       This subitem is a civil remedy provision (see item 16, and Part 4-1 of the FW Act)._
 
 ## 8  Compliance with continued provisions relating to workplace agreements
 
@@ -7930,7 +5992,7 @@ _Note:       This subitem is a civil remedy provision (see item 16
 
                      (c)  acquires information from, or on behalf of, a person referred to in paragraph (a) or (b) in the course of performing functions or exercising powers for the purposes of the ballot;
 
-must not disclose to any other person information about an employee if the information will identify whether or not the employee is covered by an individual agreement-based transitional instrument or an individual Division 2B State employment agreement.
+must not disclose to any other person information about an employee if the information will identify whether or not the employee is covered by an individual agreement-based transitional instrument.
 
 _Note:       This subitem is a civil remedy provision (see item 16, and Part 4-1 of the FW Act)._
 
@@ -7964,7 +6026,7 @@ _Note 2:    The President of FWA may, in certain circumstances, disclose, 
 
                             (iii)  a person whose name appears on the roll of voters for a protected action ballot; or
 
-                            (iv)  a person who is covered by an individual agreement-based transitional instrument or an individual Division 2B State employment agreement.
+                            (iv)  a person who is covered by an individual agreement-based transitional instrument.
 
 _Note:       This subitem is a civil remedy provision (see item 16, and Part 4-1 of the FW Act)._
 
@@ -8012,15 +6074,11 @@ _Note:       This subitem is a civil remedy provision (see item 16
 
                      (b)  the table in subsection 539(2) included the table below (with the references in column 1 of the table below to be read as references to provisions of this Schedule (being Schedule 16 to the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_)); and
 
-                     (c)  a reference to a fair work instrument in that Part included a reference to a transitional instrument, a Division 2B State instrument, a transitional minimum wage instrument or a continuing Schedule 6 instrument; and
+                     (c)  a reference to a fair work instrument in that Part included a reference to a transitional instrument, a transitional minimum wage instrument or a continuing Schedule 6 instrument; and
 
-                     (d)  the reference in subsection 540(3) to items 4, 7 and 14 in the table in subsection 539(2) included a reference to items 40 and 44C in the table below; and
+                     (d)  the reference in subsection 540(3) to items 4, 7 and 14 in the table in subsection 539(2) included a reference to item 40 in the table below; and
 
-                    (da)  the reference in subsections 540(3) and (4) to a term in an enterprise agreement that would be an outworker term if it were included in a modern award included:
-
-                              (i)  a reference to a term in a collective agreement-based transitional instrument that would be an outworker term if it were included in an award-based transitional instrument; and
-
-                             (ii)  a reference to a term in a collective Division 2B State employment agreement that would be an outworker term if it were included in a Division 2B State award; and
+                    (da)  the reference in subsections 540(3) and (4) to a term in an enterprise agreement that would be an outworker term if it were included in a modern award included a reference to a term in a collective agreement-based transitional instrument that would be an outworker term if it were included in an award-based transitional instrument; and
 
                      (e)  subsection 541(3) included references to items 2, 5, 7, 10, and 15 of this Schedule; and
 
@@ -8258,170 +6316,6 @@ _Note:       This subitem is a civil remedy provision (see item 16
 </tr>
 <tr>
   <td>
-    <div>44A</div>
-  </td>
-  <td>
-    <div>4A(1) (other than in relation to a contravention or proposed contravention
-      of an outworker term)</div>
-  </td>
-  <td>
-    <div>(a) an employee;</div>
-    <div>(b) an employer;</div>
-    <div>(c) an employee organisation;</div>
-    <div>(d) an employer organisation;</div>
-    <div>(e) an inspector</div>
-  </td>
-  <td>
-    <div>(a) the Federal Court;</div>
-    <div>(b) the Federal Magistrates Court;</div>
-    <div>(c) an eligible State or Territory court</div>
-  </td>
-  <td>
-    <div>60 penalty units</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>44B</div>
-  </td>
-  <td>
-    <div>4A(1) (in relation to a contravention or proposed contravention of an
-      outworker term)</div>
-  </td>
-  <td>
-    <div>(a) an outworker;</div>
-    <div>(b) an employer;</div>
-    <div>(c) an outworker entity;</div>
-    <div>(d) an employee organisation;</div>
-    <div>(e) an employer organisation;</div>
-    <div>(f) an inspector</div>
-  </td>
-  <td>
-    <div>(a) the Federal Court;</div>
-    <div>(b) the Federal Magistrates Court;</div>
-    <div>(c) an eligible State or Territory court</div>
-  </td>
-  <td>
-    <div>60 penalty units</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>44C</div>
-  </td>
-  <td>
-    <div>4A(2) (in relation to a contravention or proposed contravention of a collective
-      Division 2B State employment agreement other than a contravention or proposed
-      contravention of a term that would be an outworker term if it were included
-      in a Division 2B State award)</div>
-  </td>
-  <td>
-    <div>(a) an employee;</div>
-    <div>(b) an employer;</div>
-    <div>(c) an employee organisation to which the collective Division 2B State
-      employment agreement concerned applies;</div>
-    <div>(d) an inspector</div>
-  </td>
-  <td>
-    <div>(a) the Federal Court;</div>
-    <div>(b) the Federal Magistrates Court;</div>
-    <div>(c) an eligible State or Territory court</div>
-  </td>
-  <td>
-    <div>60 penalty units</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>44D</div>
-  </td>
-  <td>
-    <div>4A(2) (in relation to a contravention or proposed contravention of a term
-      in a collective Division 2B State employment agreement that would be an
-      outworker term if it were included in a Division 2B State award)</div>
-  </td>
-  <td>
-    <div>(a) an employee;</div>
-    <div>(b) an employer;</div>
-    <div>(c) an employee organisation;</div>
-    <div>(d) an inspector</div>
-  </td>
-  <td>
-    <div>(a) the Federal Court;</div>
-    <div>(b) the Federal Magistrates Court;</div>
-    <div>(c) an eligible State or Territory court</div>
-  </td>
-  <td>
-    <div>60 penalty units</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>44E</div>
-  </td>
-  <td>
-    <div>4A(2) (in relation to a contravention of an individual Division 2B State
-      employment agreement)</div>
-  </td>
-  <td>
-    <div>(a) an employee;</div>
-    <div>(b) an employer;</div>
-    <div>(c) an employee organisation;</div>
-    <div>(d) an inspector</div>
-  </td>
-  <td>
-    <div>(a) the Federal Court;</div>
-    <div>(b) the Federal Magistrates Court;</div>
-    <div>(c) an eligible State or Territory court</div>
-  </td>
-  <td>
-    <div>60 penalty units</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>44F</div>
-  </td>
-  <td>
-    <div>4B(1)</div>
-  </td>
-  <td>
-    <div>(a) an employee who the proposed enterprise agreement will cover;</div>
-    <div>(b) a bargaining representative for the proposed enterprise agreement;</div>
-    <div>(c) an inspector</div>
-  </td>
-  <td>
-    <div>(a) the Federal Court;</div>
-    <div>(b) the Federal Magistrates Court;</div>
-    <div>(c) an eligible State or Territory court</div>
-  </td>
-  <td>
-    <div>30 penalty units</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>44G</div>
-  </td>
-  <td>
-    <div>4B(2)</div>
-  </td>
-  <td>
-    <div>(a) an employee who the proposed enterprise agreement will cover;</div>
-    <div>(b) a bargaining representative for the proposed enterprise agreement;</div>
-    <div>(c) an inspector</div>
-  </td>
-  <td>
-    <div>(a) the Federal Court;</div>
-    <div>(b) the Federal Magistrates Court;</div>
-    <div>(c) an eligible State or Territory court</div>
-  </td>
-  <td>
-    <div>30 penalty units</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>45</div>
   </td>
   <td>
@@ -8496,50 +6390,6 @@ _Note:       This subitem is a civil remedy provision (see item 16
     <div>(c) an employee organisation;</div>
     <div>(d) an organisation that is entitled to represent the industrial interests
       of one or more outworkers to whom the take-home pay order relates;</div>
-    <div>(e) an inspector</div>
-  </td>
-  <td>
-    <div>(a) the Federal Court;</div>
-    <div>(b) the Federal Magistrates Court;</div>
-    <div>(c) an eligible State or Territory court</div>
-  </td>
-  <td>
-    <div>60 penalty units</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>48A</div>
-  </td>
-  <td>
-    <div>7A(1)</div>
-  </td>
-  <td>
-    <div>(a) an employee;</div>
-    <div>(b) an employee organisation;</div>
-    <div>(c) an inspector</div>
-  </td>
-  <td>
-    <div>(a) the Federal Court;</div>
-    <div>(b) the Federal Magistrates Court;</div>
-    <div>(c) an eligible State or Territory court</div>
-  </td>
-  <td>
-    <div>60 penalty units</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>48B</div>
-  </td>
-  <td>
-    <div>7A(2)</div>
-  </td>
-  <td>
-    <div>(a) an employee;</div>
-    <div>(b) an employer;</div>
-    <div>(c) an employee organisation;</div>
-    <div>(d) an employer organisation;</div>
     <div>(e) an inspector</div>
   </td>
   <td>
@@ -8866,13 +6716,13 @@ _Note:       This subitem is a civil remedy provision (see item 16
 
 Outworkers
 
-(2)        For the purposes of table items 38, 39, 40, 40A, 44A, 44B, 44C, 44D, 48, 60 and 61 in subitem (1), and the operation of subsections 540(3) and (4) of the FW Act in relation to those table items:
+(2)        For the purposes of table items 38, 39, 40, 40A 48, 60 and 61 in subitem (1), and the operation of subsections 540(3) and (4) of the FW Act in relation to those table items:
 
                      (a)  **_outworker_** has the meaning given by the FW Act; and
 
                      (b)  **_outworker term_** has the meaning that would be given by section 140 of the FW Act if:
 
-                              (i)  references in the section to a modern award were references to an award-based transitional instrument, a Division 2B State award or a continuing Schedule 6 instrument; and
+                              (i)  references in that section to a “modern award” were references to an “award-based transitional instrument” or a “continuing Schedule 6 instrument”; and
 
                              (ii)  paragraph 140(3)(b) of that Act did not refer to subsection 142(1); and
 
@@ -8887,8 +6737,6 @@ Outworkers
 The Federal Court and the Federal Magistrates Court may not make an order under Division 2 of Part 4-1 of the FW Act granting an injunction, or an interim injunction, to prevent, stop or remedy the effects of a contravention of:
 
                      (a)  a transitional instrument; or
-
-                    (aa)  a Division 2B State instrument; or
 
                      (b)  a continuing Schedule 6 instrument; or
 
@@ -9190,7 +7038,7 @@ Omit “_Conciliation and Arbitration Act 1904_,”, substitute “_Fair Work Ac
 
 _Note:       A Judge (including the Chief Justice) who is not assigned to either Division of the Court may exercise the powers of the Court in either Division (see subsection 15(1C) of the Federal Court of Australia Act 1976, as inserted by item 7 of this Schedule)._
 
-## 20  Application of Part 2
+## 20  Application of Part 2
 
 (1)        The amendments made by Part 2 of this Schedule apply:
 
@@ -9902,16 +7750,6 @@ Part 5-2 of the FW Act applies in relation to conduct that occurs on or after 
 
                              (v)  a term of a WR Act equal remuneration order as it continues to apply because of item 4 of Schedule 10.
 
-## 14A  Conduct after Division 2B referral commencement—application of Part 5-2 of FW Act
-
-(1)        Part 5-2 of the FW Act applies in relation to conduct that occurs on or after the Division 2B referral commencement as if:
-
-                     (a)  a reference in that Part to a fair work instrument were a reference to a Division 2B State instrument; and
-
-                     (b)  paragraphs 706(2)(a) to (f) included a reference to a term of a Division 2B State instrument.
-
-(2)        This item has effect in addition to item 14.
-
 ## 15  Directions of Workplace Ombudsman
 
 A direction, given by the Workplace Ombudsman to a workplace inspector under subsection 167(7) of the WR Act, that is in force immediately before the WR Act repeal day is taken, on and after that day, to have been given by the Fair Work Ombudsman to a Fair Work Inspector under section 704 or 705 (as the case requires) of the FW Act.
@@ -10070,7 +7908,7 @@ Definitions
 
 <h9 class="ActHead9">Fair Work Act 2009</h9>
 
-## 21  Section 574A
+## 21  Section 574A
 
 Repeal the section.
 
@@ -10432,7 +8270,7 @@ Repeal the definition, substitute:
 
                     <a name="feral-system-employ"></a>**_federal system employer_** means a national system employer within the meaning of section 14 of the Fair Work Act.
 
-## 16D  Section 6 of Schedule 1 (definition of _flight crew officer_)
+## 16D  Section 6 of Schedule 1 (definition of _flight crew officer_)
 
 Repeal the definition.
 
@@ -12004,7 +9842,7 @@ Before “(which”, insert “of that Act”.
 
 After “section 838”, insert “of that Act”.
 
-## 250  Subparagraph 5(1)(d)(v) of Schedule 10
+## 250  Subparagraph 5(1)(d)(v) of Schedule 10
 
 Repeal the subparagraph.
 
@@ -12194,7 +10032,7 @@ _Note:       The heading to section 37 of Schedule 1 is altered 
 
 Omit “a Presidential Member”, substitute “the President or a Deputy President”.
 
-## 289  Subsection 38(3) of Schedule 1
+## 289  Subsection 38(3) of Schedule 1
 
 Omit “the Commission” (wherever occurring), substitute “FWA”.
 
@@ -13917,14 +11755,6 @@ The _Fair Work (Registered Organisations) Act 2009_ applies as if:
 
                      (b)  references in that Act to an enterprise agreement included a reference to an agreement-based transitional instrument.
 
-## 623A  Division 2B State awards and Division 2B State employment agreements
-
-The _Fair Work (Registered Organisations) Act 2009_ applies as if:
-
-                     (a)  references in that Act to a modern award included a reference to a Division 2B State award; and
-
-                     (b)  references in that Act to an enterprise agreement included a reference to a Division 2B State employment agreement.
-
 ## 624  Register of organisations kept under paragraph 13(1)(a) of Schedule 1 to the WR Act
 
 The register of organisations kept by the Industrial Registry under paragraph 13(1)(a) of Schedule 1 to the WR Act in its form immediately before the commencement of this item is taken, after that commencement, to be the register of organisations kept by FWA under paragraph 13(1)(a) of the _Fair Work (Registered Organisations) Act 2009_.
@@ -14238,1812 +12068,5 @@ Note:          In _Brodie-Hanns v MTV Publishing Ltd_ (1995) 6
 Repeal the subsections.
 
 _Note:       The heading to subsection 799(3) is deleted._
-
-# Notes to the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_
-
-### Note 1
-
-The _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_ as shown in this compilation comprises Act No. 55, 2009 amended as indicated in the Tables below.
-
-The _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_ was modified by the _Fair Work (Transitional Provisions and Consequential Amendments) Regulations 2009_ (SLI 2009 No. 166) (as amended). The modifications are not incorporated in this compilation.
-
-### Table of Acts
-
-<table>
-<colgroup>
-  <col width="31%">
-  <col width="16%">
-  <col width="18%">
-  <col width="22%">
-  <col width="14%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>Act</div>
-    </td>
-    <td>
-      <div>Number 
-and year</div>
-    </td>
-    <td>
-      <div>Date 
-of Assent</div>
-    </td>
-    <td>
-      <div>Date of commencement</div>
-    </td>
-    <td>
-      <div>Application, saving or transitional provisions</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>Fair Work (Transitional Provisions and Consequential Amendments) Act 2009</div>
-  </td>
-  <td>
-    <div>55, 2009</div>
-  </td>
-  <td>
-    <div>25 June 2009</div>
-  </td>
-  <td>
-    <div>Schedules 1–5, Schedule 6 (items 1–17), Schedule 6A, Schedules 7–21 and Schedule 22 (items 1–90, 
-92–627): 1 July 2009 ( <i>see</i>s. 2(1)) 
-Schedule 6 (items 18–28) and Schedule 23 (items 3–7): ( <i>see</i>s. 2(1)) 
-Schedule 22 (item 91) and Schedule 23 (items 1–2E, 
-8–22): ( <i>see</i>s. 2(1)) 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Fair Work (State Referral and Consequential and Other Amendments) Act 2009</div>
-  </td>
-  <td>
-    <div>54, 2009</div>
-  </td>
-  <td>
-    <div>25 June 2009</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 1–32, 
-34–51): <i>(a)</i> 
-Schedule 2 (item 33): <i>(a)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Fair Work Amendment (State Referrals and Other Measures) Act 2009</div>
-  </td>
-  <td>
-    <div>124, 2009</div>
-  </td>
-  <td>
-    <div>9 Dec 2009</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 1A–121) and Schedule 3 (items 18–23): 1 Jan 2010 
-Schedule 3 (items 17A–17E): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
-
-_(a)_ Subsection 2(1) (items 5–7) of the _Fair Work (State Referral and Consequential and Other Amendments) Act 2009_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      5\. Schedule 2, Part 1
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of Schedule 3 to the
-        <i>Fair Work (Transitional Provisions and Consequential Amendments) Act 2009</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2009
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      6\. Schedule 2, item 33
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of section 2 of the
-        <i>Fair Work (Transitional Provisions and Consequential Amendments) Act 2009</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      25 June 2009
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      7\. Schedule 2, items 34 to 51
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of Schedule 3 to the
-        <i>Fair Work (Transitional Provisions and Consequential Amendments) Act 2009</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2009
-    </div>
-  </td>
-</tr></table>
-
-## Table of Amendments
-
-<table>
-<colgroup>
-  <col width="34%">
-  <col width="66%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>S. 2</div>
-  </td>
-  <td>
-    <div>am. No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 2</div>
-  </td>
-  <td>
-    <div>am. Nos. 54 and 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 7</div>
-  </td>
-  <td>
-    <div>am. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 12</div>
-  </td>
-  <td>
-    <div>am. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 2</div>
-  </td>
-  <td>
-    <div>am. Nos. 54 and 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note 4 to item 2(2)</div>
-  </td>
-  <td>
-    <div>rs. No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to item 2(3)</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to item 2A</div>
-  </td>
-  <td>
-    <div>rs. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 2A</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 8A</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to item 11</div>
-  </td>
-  <td>
-    <div>am. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 11</div>
-  </td>
-  <td>
-    <div>am. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 12A</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 20</div>
-  </td>
-  <td>
-    <div>am. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to item 29(1)</div>
-  </td>
-  <td>
-    <div>rs. No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 6</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 38</div>
-  </td>
-  <td>
-    <div>am. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 7</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 7 of Schedule 3</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Items 41, 42</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 8</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 8 of Schedule 3</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 43</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 3A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule 3A</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 1</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Items 2–17</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Items 18–28</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Items 29, 30</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 30A</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Items 31–36</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Items 37–40</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Items 41–46</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Items 47–52</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 6</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Items 53–61</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 1 of Part 3 
-of Schedule 4</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 5A</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 2 of Part 3 
-of Schedule 4</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Items 15–22</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Schedule 5</div>
-  </td>
-  <td>
-    <div>rs. No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 2</div>
-  </td>
-  <td>
-    <div>am. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 3</div>
-  </td>
-  <td>
-    <div>am. No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to item 3(3) 
-Renumbered Note 1</div>
-  </td>
-  <td>
-    <div>
-No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note 2 to item 3(3)</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to item 6</div>
-  </td>
-  <td>
-    <div>am. No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 6</div>
-  </td>
-  <td>
-    <div>am. No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 6</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 2</div>
-  </td>
-  <td>
-    <div>am. Nos. 54 and 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to item 9</div>
-  </td>
-  <td>
-    <div>am. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 9</div>
-  </td>
-  <td>
-    <div>am. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note 1 to item 9(2)</div>
-  </td>
-  <td>
-    <div>am. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 6A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule 6A</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 1</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 2</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Items 3, 4</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 5</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Items 6–12</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Items 13–18</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Items 19, 20</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 7</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 3</div>
-  </td>
-  <td>
-    <div>am. No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 9</div>
-  </td>
-  <td>
-    <div>am. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 13</div>
-  </td>
-  <td>
-    <div>am. No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Items 18, 19</div>
-  </td>
-  <td>
-    <div>am. No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 4A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 4A of Schedule 7</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Items 20A–20C</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 21</div>
-  </td>
-  <td>
-    <div>am. No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 25</div>
-  </td>
-  <td>
-    <div>am. No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 7</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 7 of Schedule 7</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 28</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 8</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 8</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 27</div>
-  </td>
-  <td>
-    <div>am. No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 9</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 5</div>
-  </td>
-  <td>
-    <div>am. No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part 4 
-of Schedule 9</div>
-  </td>
-  <td>
-    <div>rs. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 5 of Schedule 9</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Items 16–19</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 20</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 10</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 3</div>
-  </td>
-  <td>
-    <div>am. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 5</div>
-  </td>
-  <td>
-    <div>am. No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 11</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 2</div>
-  </td>
-  <td>
-    <div>am. No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 5</div>
-  </td>
-  <td>
-    <div>am. No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 1 of 
-Part 3 of Schedule 11</div>
-  </td>
-  <td>
-    <div>rs. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 6A</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 8</div>
-  </td>
-  <td>
-    <div>am. Nos. 54 and 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 4 of Part 3 
-of Schedule 11</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Items 14–16</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 12</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 4</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 12A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 2</div>
-  </td>
-  <td>
-    <div>am. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 13</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to item 2</div>
-  </td>
-  <td>
-    <div>rs. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 2</div>
-  </td>
-  <td>
-    <div>am. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to item 2(2)</div>
-  </td>
-  <td>
-    <div>am. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to item 3</div>
-  </td>
-  <td>
-    <div>am. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 3</div>
-  </td>
-  <td>
-    <div>am. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to item 4</div>
-  </td>
-  <td>
-    <div>am. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 4</div>
-  </td>
-  <td>
-    <div>am. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to item 4(2)</div>
-  </td>
-  <td>
-    <div>rs. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to item 6</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to item 17</div>
-  </td>
-  <td>
-    <div>am. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 17</div>
-  </td>
-  <td>
-    <div>am. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part 5 
-of Schedule 13</div>
-  </td>
-  <td>
-    <div>rs. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to item 18</div>
-  </td>
-  <td>
-    <div>am. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 18</div>
-  </td>
-  <td>
-    <div>am. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 6</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 20</div>
-  </td>
-  <td>
-    <div>am. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 14</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 3</div>
-  </td>
-  <td>
-    <div>am. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 15</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 4</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 16</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Items 4A, 4B</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 7A</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Items 12, 13</div>
-  </td>
-  <td>
-    <div>am. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Items 16, 17</div>
-  </td>
-  <td>
-    <div>am. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 18</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 13</div>
-  </td>
-  <td>
-    <div>am. No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 14A</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 20</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 1</div>
-  </td>
-  <td>
-    <div>rs. No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 22</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 9</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 623A</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 2009</div>
-  </td>
-</tr></table>
 
  
