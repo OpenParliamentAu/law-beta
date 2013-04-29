@@ -1,373 +1,174 @@
+**<b>
 
-Maternity Leave (Commonwealth Employees) Act 1973
-Act No. 72 of 1973 as amended
-Consolidated as in force on 20 August 1998
-(includes amendments up to Act No. 189 of 1997)
-This Act has uncommenced amendments. For uncommenced amendments, see the endnotes.
-Prepared by the Office of Legislative Drafting, Attorney-General’s Department, Canberra
-Contents
-1	Short title [see Note 1]	
-2	Commencement [see Note 1]	
-3	Interpretation	
-4	Application of Act	
-5	Persons in relation to whom Act applies	
-5A	How Act applies to persons employed in Parliamentary Departments [see Note 2]	
-6	Absence from duty in relation to childbirth	
-7	Employee may continue to perform, or resume, duty in certain circumstances	
-7A	Other applications to resume duty	
-7B	Grant of maternity leave not to affect continuity of service	
-8	Officers of the Public Service on maternity leave	
-9	Temporary employees on maternity leave	
-10	No discrimination by reason of pregnancy	
-11	Delegation by Secretary	
-12	Sub-delegation by delegate of Secretary	
-15	Regulations	
+### <center><name>MATERNITY LEAVE (COMMONWEALTH EMPLOYEES) ACT 1973 - Updated as at 25 November 1996 (HISTACT CHAP 3398 #DATE 25:11:1996) </name></center>
+</b>** 
+**<b>
 
-Do not delete : Chapter placeholder
-Do not delete : Part placeholder
-Do not delete : Division placeholder
+### <name>MATERNITY LEAVE (COMMONWEALTH EMPLOYEES) ACT 1973 - TABLE OF PROVISIONS </name>
+</b>** 
 
-An Act to make provision for Maternity Leave in respect of Employees of the Commonwealth and certain other Persons, and for other purposes
-1  Short title [see Note 1]
-This Act may be cited as the Maternity Leave (Commonwealth Employees) Act 1973.
-2  Commencement [see Note 1]
-This Act shall come into operation on the day on which it receives the Royal Assent.
-3  Interpretation 
-	(1)	In this Act, unless the contrary intention appears:
-confinement, in relation to a female employee who has become pregnant, means the birth of a child, or other termination of the pregnancy, that occurs not earlier than twenty weeks before the expected date of birth of the child, and confined has a corresponding meaning.
-Department of the Australian Public Service has the same meaning as the expression Department in the Public Service Act 1922.
-employee means a person to and in relation to whom this Act applies by virtue of section 5.
-leave officer, in relation to an employee, means a person who may, whether in his or her own right or as a delegate of another person, grant leave to that employee on account of illness.
-medical practitioner means a person registered or licenced as a medical practitioner under a law of a State or Territory that provides for the registration or licencing of medical practitioners.
-prescribed authority means:
-	(a)	a body corporate (other than an incorporated company, society or association) that is incorporated for a public purpose by a law of the Commonwealth or of a Territory (other than the Northern Territory) and is declared by the regulations to be a body corporate in relation to which this Act applies;
-	(b)	an unincorporated body that is established for a public purpose by a law of the Commonwealth or of a Territory (other than the Northern Territory) and is declared by the regulations to be an unincorporated body in relation to which this Act applies; or
-	(c)	a company that:
-	(i)	is incorporated under a law of the Commonwealth or a law in force in a State or Territory;
-	(ii)	is a trading corporation, or a financial corporation, within the meaning of paragraph 51(20) of the Constitution; and
-	(iii)	is declared by the regulations to be a body corporate in relation to which this Act applies.
-Secretary has the same meaning as in the Public Service Act 1922.
-	(2)	In this Act, a reference to an unauthorized absence, in relation to an employee or in relation to employees included in a class of employees, shall be read as a reference to an absence that is, under the regulations, an unauthorized absence in relation to that employee or to that class of employees.
-	(3)	In reckoning, for the purposes of this Act, the number of business days contained in any period relevant to the making of, or dealing with, an application under section 7A by a female employee for permission to resume duty, Saturdays and Sundays and any other days that are public holidays in the place where she would, but for being absent on leave, perform her duties or are public holidays for a class of persons in which she is included shall not be counted as business days, but all other days shall be so counted.
-4  Application of Act
-This Act applies within and outside Australia and extends to all the Territories.
-5  Persons in relation to whom Act applies 
-	(1)	Subject to this section, this Act applies to and in relation to:
-	(a)	a person who is employed by the Commonwealth under the Public Service Act 1922-1973 ; and
-	(b)	such other persons employed by the Commonwealth, and such persons employed by a prescribed authority, whether so employed under a law of the Commonwealth or of a Territory (other than an enactment as defined by section 3 of the Australian Capital Territory (Self-Goverment) Act 1988 or a law of the Northern Territory) or under a contract of service or apprenticeship, as are prescribed.
-	(2)	Without limiting by implication the generality of subsection (1), but subject to subsection (3):
-	(a)	a member of the Australian Federal Police;
-	(b)	a person who is the holder of an office that is established by a law of the Commonwealth or of a Territory (other than an enactment as defined by section 3 of the Australian Capital Territory (Self-Goverment) Act 1988 or a law of the Northern Territory); and
-	(c)	a person who constitutes, or is a member of, a prescribed authority;
-shall, for the purposes of this Act, be deemed to be employed by the Commonwealth.
-	(3)	This Act does not apply to or in relation to:
-	(a)	a member of the Parliament or a Minister of State;
-	(aa)	a person who holds an office defined by section 73 of the Australian Capital Territory (Self-Goverment) Act 1988 or an office established by or under an enactment as defined by section 3 of that Act;
-	(b)	a person who is a Judge as defined by section 4 of the Judges’ Pensions Act 1968;
-	(c)	a member of the Defence Force;
-	(d)	persons appointed or engaged for employment outside Australia only;
-	(e)	a person who is not entitled, as a condition of her employment, to leave of absence, with pay, on account of illness; or
-	(f)	a person remunerated by fees, allowances or commission only.
-5A  How Act applies to persons employed in Parliamentary Departments [see Note 2]
-	(1)	In this section:
-Head, in relation to a Parliamentary Department, means:
-	(i)	if the Department is the Department of the Senate—the Clerk of the Senate; or
-	(ii)	if the Department is the Department of the House of Representatives—the Clerk of that House; or
-	(iii)	if the Department is the Department of the Parliamentary Library—the Parliamentary Librarian; or
-	(iv)	if the Department is the Department of the Parliamentary Reporting Staff—the Principal Parliamentary Reporter; or
-	(v)	if the Department is the Joint House Department—the Secretary to that Department;
-Parliamentary Department means the Department of the Senate, the Department of the House of Representatives, the Department of the Parliamentary Library, the Department of the Parliamentary Reporting Staff or the Joint House Department.
-	(2)	For the purposes of the application of this Act in relation to a person employed in a Parliamentary Department:
-	(a)	the powers conferred by section 8 on the Public Service Commissioner are to be exercised, in substitution for the Public Service Commissioner, by:
-	(i)	if the person is employed in the Department of the Senate—the President of the Senate; or
-	(ii)	if the person is employed in the Department of the House of Representatives—the Speaker of that House; or
-	(iii)	if the person is employed in another Parliamentary Department—the President of the Senate and the Speaker of the House of Representatives acting jointly; and
-	(b)	the powers conferred on the Secretary to the Department (other than the power of delegation conferred by section 11) are to be exercised, in substitution for the Secretary to the Department, by the Head of the Parliamentary Department concerned.
-	(3)	The Head of a Parliamentary Department may, by signed writing, delegate to an officer of, or person employed in, the Parliamentary Department any of the Head of the Parliamentary Department’s functions or powers under this Act.
-	(4)	A delegation of a function or power under subsection (3) by the Head of a Parliamentary Department:
-	(a)	unless revoked under paragraph (b), continues in force even though the person who gave the delegation has ceased to be the Head of the Parliamentary Department; and
-	(b)	may be revoked by writing signed by the person who is for the time being the Head of the Parliamentary Department.
-	(5)	If the Head of a Parliamentary Department has delegated a function or power under subsection (3), the Head of the Parliamentary Department may issue guidelines to the delegate with respect to the performance of the function or the exercise of the power.
-6  Absence from duty in relation to childbirth
-	(1)	A female employee who has become pregnant (whether before or after being employed by the Commonwealth or a prescribed authority):
-	(a)	shall, on application made to a leave officer before she is confined, be granted by the leave officer permission to absent herself from duty during a period not exceeding 52 weeks commencing on the date of commencement of the period during which she is required, in accordance with paragraph (b), to absent herself from duty;
-	(b)	shall, subject to section 7, whether or not she has been granted permission under paragraph (a), absent herself from duty during a period that:
-	(i)	if she is still pregnant 6 weeks before the expected date of birth of her child—commences 6 weeks before the expected date of birth of her child and continues until the expiration of a period of 6 weeks commencing on the date of her confinement; or
-	(ii)	if she is confined earlier than 6 weeks before the expected date of birth of her child—commences on the date of her confinement and continues for 6 weeks; and
-	(c)	shall, on application made to a leave officer:
-	(i)	while she is, or after she has been, absent from duty in accordance with permission granted under paragraph (a) or under this paragraph; or
-	(ii)	if no such permission has been granted—while she is, or after she has been, absent from duty in pursuance of paragraph (b);
-		be granted by the leave officer permission to absent herself from duty during a further period ending on or before the expiration of a period of 52 weeks commencing on the date of commencement of the period during which she is or was required, in accordance with paragraph (b), to absent herself from duty.
-	(2)	Where the pregnancy of a female employee terminates other than by way of a confinement:
-	(a)	she shall not, after that termination, be granted permission to be absent from duty in accordance with this section in respect of that pregnancy; and
-	(b)	if, before that termination, she has been granted permission to be absent from duty in accordance with this section, that grant shall be cancelled.
-	(3)	Subject to subsections (4), (4C) and (4F), an employee who has been confined and who has been absent from duty for a period or periods in accordance with this section is entitled to pay:
-	(a)	in a case where the period of absence, or the sum of the periods of absence, exceeds 12 weeks—for the first 12 weeks of that absence; and
-	(b)	in any other case—for the whole of that absence.
-	(4)	An employee is not entitled, under subsection (3), to pay in respect of any absence that occurs before the day on which the continuous period, or the last continuous period, during which she is, by virtue of subsection (4A) or (4AB), to be taken to be a person to whom this subsection applies first exceeds 12 months.
-	(4A)	A person shall be taken to be a person to whom subsection (4) applies by virtue of this subsection:
-	(a)	while she is a person to and in relation to whom this Act applies; or
-	(b)	while she is employed by a body corporate (not being an incorporated company, society or association), or an unincorporated body, established for a public purpose by a law of the Commonwealth or of a Territory other than the Northern Territory but is not a person to and in relation to whom this Act applies.
-	(4AB)	A person (other than a person who is to be taken to be a person to whom subsection (4) applies by virtue of subsection (4A)) shall be taken to be a person to whom subsection (4) applies by virtue of this subsection:
-	(a)	while she is employed in eligible Commonwealth employment within the meaning of Part IV of the Public Service Act 1922; and
-	(b)	while she is employed in eligible public employment within the meaning of Part IV of the Public Service Act 1922 (other than eligible Commonwealth employment within the meaning of that Part) and is a person to whom Division 2 or Division 3 of that Act applies.
-	(4B)	A person shall not be taken to be a person to whom subsection (4) applies by virtue of subsection (4A) or (4AB) during any period during which, by virtue of subsection 5(3), this Act does not apply to or in relation to her.
-	(4C)	Where an employee is absent from duty on unauthorized absence immediately before the commencement of the period during which, but for the operation of paragraph (a) of this subsection, the employee would be required by paragraph (1)(b) to absent herself from duty in connection with her expected confinement, or with her confinement, as the case may be, unless the Secretary to the Department determines that the unauthorized absence occurs in extenuating circumstances:
-	(a)	the other provisions of this Act do not apply to her in connection with her expected confinement, or with her confinement, as the case may be;
-	(b)	she shall absent herself from duty during that first-mentioned period, but, subject to subsection (4D), is not entitled to pay in respect of the period while she is so absent; and
-	(c)	if, upon the expiration of that first-mentioned period, she remains absent from duty on unauthorized absence, her unauthorized absence before the commencement of that period shall be deemed to be continuous with her unauthorized absence after the expiration of that period.
-	 (4D)	Subsection (4C) does not affect an employee’s entitlement to pay for any period of long service leave or leave of absence for recreation or on account of illness that is granted to her.
-	(4E)	Where a female employee who is granted leave of absence without pay has become pregnant before, or becomes pregnant after, the commencement of that leave, her absence from duty in accordance with the grant during any part of the period of 52 weeks commencing 6 weeks before the expected birth of her child or, if she is confined earlier than 6 weeks before the expected birth of her child, commencing on the date of her confinement, shall be deemed, for the purposes of paragraph (1)(c) and subsection (3), to be absence from duty in accordance with a permission granted under paragraph (1)(a).
-	(4F)	Notwithstanding subsection (4E), where a female employee who is granted leave of absence from her employment without pay for a period (in this subsection referred to as the relevant period), being a period exceeding 6 weeks, has become pregnant before, or becomes pregnant after, the commencement of that leave, unless the Secretary to the Department otherwise determines:
-	(a)	subsection (1) does not authorize a leave officer to grant her permission to absent herself from duty under this Act at any time while she is absent from duty in accordance with that grant; and
-	(b)	she is not entitled to pay under subsection (3) in respect of that employment for any part of the relevant period.
-	(4G)	Subsection (4F) applies to and in relation to an employee who has been granted leave of absence without pay for a period whether or not she ceases to be absent from duty on leave without pay before the expiration of that period, but does not apply to such an employee unless she is absent on leave without pay in accordance with the grant for a continuous period exceeding 6 weeks.
-	(5)	Where, under subsection (3), an employee is entitled to pay in respect of a period, the pay that the employee is to receive shall be the pay, salary, wage or other payment that the employee would have received if, for that period, she had been granted leave of absence on full pay on account of illness.
-	(7)	Where:
-	(a)	an employee has, under paragraph (1)(a) or (1)(c), been granted permission to be absent from duty for a period; and
-	(b)	the employee applies for leave of absence of any kind with pay in respect of the whole or any part of that period, excluding a period in respect of which pay is payable under subsection (3);
-that application shall, if the employee is eligible for the leave to which the application relates, be granted.
-	 (8)	The grant of leave of absence of any kind with pay in respect of a period in respect of which pay is payable under subsection (3) is of no effect.
-	(9)	This section does not relate to absence from duty before the commencement of this Act.
-7  Employee may continue to perform, or resume, duty in certain circumstances
-	(1)	Where a female employee who is pregnant furnishes to the leave officer:
-	(a)	not less than 6 weeks before the expected date of birth of her child; or
-	(b)	on or before the date until which she has been given, or last been given, permission under this subsection to continue to perform duty;
-a certificate given by a medical practitioner certifying that, in the opinion of the medical practitioner, she will continue to be fit for duty until a specified date, the leave officer may give her permission, in writing, to continue to perform duty until and including that date.
-	(2)	Where permission is given under subsection (1) for a female employee to continue to perform duty until and including a date specified in the permission:
-	(a)	if she is confined more than 6 weeks before the expected date of birth of her child—the grant of permission so to perform duty is of no effect;
-	(b)	if she is confined before the date so specified but not more than 6 weeks before the expected date of birth of her child—subparagraph 6(1)(b)(i) has effect as if the period referred to in that subparagraph commenced on the date of her confinement; or
-	(c)	in any other case—subparagraph 6(1)(b)(i) has effect as if the period referred to in that subparagraph commenced on the day next following the date so specified.
-	(3)	Where, before the expiration of the period during which a female employee who has been confined would, but for this subsection, be required to absent herself from duty, the employee furnishes to the leave officer a certificate given by a medical practitioner certifying that, in the opinion of the medical practitioner, she will be fit to resume duty on a specified date occurring before the expiration of that period, the leave officer may give her permission, in writing, to resume duty on that date and the period during which she shall, upon permission being so given, be required by paragraph 6(1)(b) to absent herself from duty terminates immediately before that date.
-7A  Other applications to resume duty
-	(1)	A female employee who absents herself from duty in accordance with a permission granted under paragraph 6(1)(a) or 6(1)(c) may, at any time after the expiration of the period during which she is required in accordance with paragraph 6(1)(b), to absent herself from duty, make application, in writing, to the leave officer for permission to resume duty on a day specified in the application.
-	(2)	Where application is made to the leave officer under subsection (1), the leave officer shall, within 7 business days after receipt of the application:
-	(a)	subject to subsections (3) and (6), grant or refuse to grant the application; and
-	(b)	inform the applicant, in writing, whether he or she has granted or refused to grant the application.
-	(3)	A leave officer shall not grant an application made to him or her under subsection (1) to resume duty on a day that is less than 7 days after the application is received by him or her unless he or she is satisfied that there are special circumstances justifying his or her granting the application.
-	(4)	Where a leave officer refuses to grant an application for permission to resume duty made under subsection (1) and the application was received by the leave officer not less than 21 business days before the date on which the applicant wished to resume duty:
-	(a)	the leave officer shall furnish to the applicant, when informing the applicant that he or she has refused to grant the application, particulars of the grounds on which it would not, in his or her opinion, be in the interests of the Service for her to resume duty on that date; and
-	(b)	the applicant may, within 7 business days after she has received the particulars referred to in paragraph (a), request the Secretary to the Department, in writing, to review the decision of the leave officer and furnish, with her request, particulars of any matters that she wishes the Secretary to consider in making the review.
-	(5)	Where the Secretary to the Department receives a request under subsection (4), the Secretary shall, within 7 business days after it receives the request:
-	(a)	subject to subsection (6):
-	(i)	affirm the decision of the leave officer; or
-	(ii)	quash the decision of the leave officer and grant the applicant the permission sought in her application; and
-	(b)	inform the applicant, in writing, of its decision.
-	(6)	An application under subsection (1) shall be granted by the leave officer to whom the application is made, or by the Secretary to the Department in reviewing a refusal by the leave officer to grant the application, unless the leave officer or the Secretary, as the case may be, is satisfied that it would not be in the interests of the Service to grant the application.
-	(7)	Where an applicant is granted, under this section, permission to resume duty before the expiration of a period in respect of which she had been granted permission to absent herself from duty, that period shall be treated as having expired immediately before the date upon which she resumes duty.
-7B  Grant of maternity leave not to affect continuity of service
-	(1)	Where an employee is, in accordance with section 6, absent from duty for a period:
-	(a)	if she has been paid, whether under subsection 6(3) or otherwise, in respect of the period or of a part of the period—the period, or the part of the period, of absence for which she has been so paid forms part of her period of service or employment for all purposes of this Act, of any other Act and of any Ordinance; and
-	(b)	subject to subsection (2), if she has not been so paid in respect of the period or of a part of the period—the period, or the part of the period, of absence for which she has not been so paid does not form part of her period of service or employment for the purposes of this Act, or of any other Act or of any Ordinance, but shall not be taken to have broken the continuity of her service or employment.
-	(2)	Where an employee who is, in accordance with section 6, absent from duty for a period in relation to her expected confinement or her confinement had not, immediately before the commencement of that period, been an employee for a continuous period of 12 months, the period of the absence or the period comprising the first 12 weeks of the period of the absence, whichever is the less, forms part of her period of service or employment for all purposes of this Act, of any other Act and of any Ordinance.
-8  Officers of the Public Service on maternity leave
-	(1)	Notwithstanding anything in the Public Service Act 1922-1973, where:
-	(a)	a woman who occupies an office in a Department of the Australian Public Service is absent from duty in accordance with section 6; and
-	(b)	that absence is after her confinement and is without pay;
-the Public Service Commissioner may declare that that office is vacant and, thereupon, the woman becomes an unattached officer for the purposes of that Act.
-	(1A)	An office occupied by a woman must not be declared vacant under subsection (1) unless the woman has given her written consent to the declaration.
-	(2)	Where a woman who has become an unattached officer under subsection (1) returns to duty on completion of her period of absence in accordance with section 6, she shall be appointed:
-	(a)	if the office occupied by her immediately before she so became an unattached officer is vacant—to that office; or
-	(b)	in any other case—to another office that, in status and salary, is as near as possible to the office referred to in paragraph (a).
-	(2A)	Notwithstanding subsection (2), where a woman who has become an unattached officer under subsection (1), returns to duty before the expiration of the period of 52 weeks commencing on the date of commencement of the period during which, in accordance with paragraph 6(1)(b), she has been required to absent herself from duty, that subsection does not have to be complied with until that first-mentioned period has expired.
-9  Temporary employees on maternity leave
-	(1)	Notwithstanding anything in any other law, where a woman employed in a temporary capacity is absent from duty in accordance with section 6, her employment shall not terminate, or be terminated, while she is so absent.
-	(2)	Where:
-	(a)	on the return to duty with an authority (including the Commonwealth) of a woman referred to in subsection (1), her employment terminates or is terminated or notice of the termination of her employment is given to her; and
-	(b)	the woman thereupon applies to that authority for employment in a temporary capacity;
-that authority shall give to the woman preference over all other persons (other than other women to whom this subsection applies) for employment on work for which she is qualified.
-10  No discrimination by reason of pregnancy
-	(1)	The possible or actual pregnancy of a woman is not a ground on which the Commonwealth or a prescribed authority may refuse employment to that woman.
-	(2)	The possible or actual pregnancy of a female employee is not a ground for the dismissal of that employee or for action disadvantageous to that employee in her employment.
-11  Delegation by Secretary
-	(1)	The Secretary to the Department (the Secretary) may, by writing signed by the Secretary, delegate to an officer of or person employed in the Department, to the Secretary of another Department of the Australian Public Service or to the chief executive officer of a prescribed authority, any of the Secretary’s functions or powers under this Act.
-	(2)	A delegation of a function or power under subsection (1):
-	(a)	subject to paragraph (b), continues in force even though the person who gave the delegation has ceased to be the Secretary; and
-	(b)	may be revoked by writing signed by the Secretary for the time being.
-	(3)	If the Secretary has delegated a function or power under subsection (1), the Secretary may issue guidelines to the delegate with respect to the performance of the function or the exercise of the power.
-12  Sub-delegation by delegate of Secretary
-	(1)	If the Secretary to the Department (the Secretary) delegates a function or power under section 11 to the Secretary of another Department of the Australian Public Service, the delegate may, unless the instrument of delegation prohibits it, sub-delegate the function or power, by writing signed by the delegate, to an officer of or person employed in that Department.
-	(2)	If the Secretary delegates a function or power under section 11 to the chief executive officer of a prescribed authority, that chief executive officer may, unless the instrument of delegation prohibits it, sub-delegate the function or power, by writing signed by the delegate, to an officer or employee of the authority.
-	(3)	A function or power sub-delegated under subsection (1) or (2), when performed or exercised by the sub-delegate, is taken for the purposes of this Act to have been performed or exercised by the Secretary.
-	(4)	A sub-delegation of a function or power under subsection (1) or (2):
-	(a)	does not prevent the performance of the function or the exercise of the power by the Secretary or the delegate; and
-	(b)	subject to paragraph (c), continues in force even though:
-	(i)	the person who gave the delegation has ceased to be the Secretary; or
-	(ii)	the person who gave the sub-delegation has ceased to be Secretary of the other Department or chief executive officer of the prescribed authority, as the case may be; and
-	(c)	may be revoked by writing signed by the Secretary of the other Department, or by the chief executive officer of that authority, as the case may be, for the time being.
-	(5)	If:
-	(a)	the Secretary has delegated a function or power under section 11 and has issued guidelines to the delegate with respect to the performance of the function or the exercise of the power; and
-	(b)	the delegate has sub-delegated the function or power;
-the delegate:
-	(c)	must issue corresponding guidelines to the sub-delegate; and
-	(d)	may issue guidelines, not inconsistent with the guidelines issued by the Secretary, to the sub-delegate with respect to the performance of the function or the exercise of the power.
-	(6)	Subject to the preceding provisions of this section, sections 34AA, 34AB and 34A of the Acts Interpretation Act 1901 apply to a power to sub-delegate under this section, and to a sub-delegation given under such a power, in the same way as they would apply if the power were a power to delegate and the sub-delegation were a delegation.
-15  Regulations
-The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed or necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+## TABLE
+<tables> <tt>                        TABLE OF PROVISIONS Section     1\. Short title     2\. Commencement     3\. Interpretation     4\. Application of Act     5\. Persons in relation to whom Act applies    5A. How Act applies to persons employed in Parliamentary        Departments     6\. Absence from duty in relation to childbirth     7\. Employee may continue to perform, or resume, duty in certain        circumstances    7A. Other applications to resume duty    7B. Grant of maternity leave not to affect continuity of service     8\. Officers of the Public Service on maternity leave     9\. Temporary employees on maternity leave    10\. No discrimination by reason of pregnancy    11\. Delegation by Secretary    12\. Sub-delegation by delegate of Secretary    15\. Regulations </tt></tables>
+**<b>
 
-NOTES
-1.	The Maternity Leave (Commonwealth Employees) Act 1973 as shown in this reprint comprises Act No. 72, 1973 amended as indicated in the Tables below.
-	The Maternity Leave (Commonwealth Employees) Act 1973 was modified by the A.C.T. Self-Government (Consequential Provisions) Act 1988 (No. 109, 1988). [see Table A]
-	The Maternity Leave (Commonwealth Employees) Act 1973 is affected by sections 39 and 40 of the CSL Sale Act 1993.
-	The Maternity Leave (Commonwealth Employees) Act 1973 is affected by sections 26-28 of the Housing Loans Insurance Corporation (Transfer of Assets and Abolition) Act 1996.
-Table of Acts
+### <name>MATERNITY LEAVE (COMMONWEALTH EMPLOYEES) ACT 1973 - LONG TITLE </name>
+</b>** 
 
-Act
-Number  and year
-Date  of Assent
-Date of commencement
-Application, saving or transitional provisions
-Maternity Leave (Australian Government Employees) Act 1973
-72, 1973
-18 June 1973
-18 June 1973
+## SECT
+<sect> An Act to make provision for Maternity Leave in respect of Employees      of the Commonwealth and certain other Persons, and for                           other purposes </sect>
+**<b>
 
-Maternity Leave (Australian Government Employees) Amendment Act 1978
-168, 1978
-28 Nov 1978
-S. 7(2): 15 Mar 1981 (see s. 2(2) and Gazette 1981, No. S43) Remainder: Royal Assent
-Ss. 5(2) and 11
-Australian Federal Police (Consequential Amendments) Act 1979
-155, 1979
-28 Nov 1979
-19 Oct 1979 (see s. 2 and Gazette 1979, No.S206)
-—
-A.C.T. Self-Government (Consequential Provisions) Act 1988
-109, 1988
-6 Dec 1988
-S. 24: [see Table A] (a) S. 32 : (a)
-S. 24 [see Table A] 
-as amended by
+### <name>MATERNITY LEAVE (COMMONWEALTH EMPLOYEES) ACT 1973 - SECT 1 Short title </name>
+</b>** 
 
+## SECT
+<sect>   1\. This Act may be cited as the Maternity Leave (Commonwealth Employees) Act 1973.*1* </sect>
+**<b>
 
+### <name>MATERNITY LEAVE (COMMONWEALTH EMPLOYEES) ACT 1973 - SECT 2 Commencement </name>
+</b>** 
 
+## SECT
+<sect>   2\. This Act shall come into operation on the day on which it receives the Royal Assent.*1* </sect>
+**<b>
 
-Australian Capital Territory Government Service (Consequential Provisions) Act 1994
-92, 1994
-29 June 1994
-1 July 1994 (see Gazette 1994, No. S256) 
-—
-OTC (Conversion into Public Company) Act 1988
-129, 1988
-14 Dec 1988
-Ss. 7(2), 8(2), 9, 11-22 and 25: 1 Apr 1989 (see Gazette 1989, No. S92) S. 8(1): 16 Mar 1989 (see Gazette 1989, No. S92) S. 8(3): 1 Apr 1989 Remainder: Royal Assent
-—
-Prime Minister and Cabinet Legislation Amendment Act 1991
-199, 1991
-18 Dec 1991
-18 Dec 1991
-—
-Industrial Relations Legislation Amendment Act (No. 2) 1992
-215, 1992
-24 Dec 1992
-Part 1 (ss. 1, 2) and Part 3 (ss. 9, 10): Royal Assent Parts 9-11 (ss. 34-40): 18 Feb 1991 Remainder: 21 Jan 1993
-—
-Industrial Relations and other Legislation Amendment Act 1993
-109, 1993
-22 Dec 1993
-Ss. 1, 2 and 58: Royal Assent S. 32: 5 Jan 1994 S. 34: 6 Sept 1991 S. 47: 24 Dec 1992 Remainder: 19 Jan 1994
-—
-Statute Law Revision Act 1996
-43, 1996
-25 Oct 1996
-Schedule 2 (item 72): (b) Schedule 5 (items 80-83): Royal Assent (b)
-—
-Parliamentary Service (Consequential Amendments) Act 1997
-189, 1997
-7 Dec 1997
-Schedule 1 (items 8, 9): [see (c) and Note 2]
-—
+### <name>MATERNITY LEAVE (COMMONWEALTH EMPLOYEES) ACT 1973 - SECT 3 Interpretation </name>
+</b>** 
 
-(a)	The Maternity Leave (Commonwealth Employees) Act 1973 was amended by section 32 only of the A.C.T. Self-Government (Consequential Provisions) Act 1988, subsection 2(3) of which provides as follows:
-	“(3)	The remaining provisions of this Act (including the amendments made by Schedule 5) commence on a day or days to be fixed by Proclamation.”
-	Section 21 of the Australian Capital Territory Government Service (Consequential Provisions) Act 1994 provides as follows:
-“21.	(1)	Items in Schedule 5 to the Principal Act, as amended by this Act, that have not commenced under section 2 of the Principal Act commence immediately after the commencement of this Act.
-	“(2)	This section has effect in spite of subsection 2(3) of the Principal Act.”
-	The Australian Capital Territory Government Service (Consequential Provisions) Act 1994 came into operation on 1 July 1994 (see Gazette 1994, No. S256).
-(b)	The Maternity Leave (Commonwealth Employees) Act 1973 was amended by Schedule 2 (item 72) and Schedule 5 (items 80-83) only of the Statute Law Revision Act 1996, subsections 2(1) and (2) of which provide as follows:
-	“(1)	Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
-	“(2)	Each item in Schedule 2 commences or is taken to have commenced (as the case requires) at the time specified in the note at the end of the item.”
-	Item 72 is taken to have commenced immediately after the commencement of section 24 of the OTC (Conversion into Public Company) Act 1988.
-	Section 24 of the OTC (Conversion into Public Company) Act 1988 came into operation on 14 December 1988.
-(c)	The Maternity Leave (Commonwealth Employees) Act 1973 was amended by Schedule 1 (items 8, 9) only of the Parliamentary Service (Consequential Amendments) Act 1997, section 2 of which provides as follows:
-	“This Act commences at the time when the Parliamentary Service Act 1997 commences.” [see Note 2]
+## SECT
+<sect>   3.*2* (1) In this Act, unless the contrary intention appears:   "confinement", in relation to a female employee who has become pregnant, means the birth of a child, or other termination of the pregnancy, that occurs not earlier than twenty weeks before the expected date of birth of the child, and "confined" has a corresponding meaning;   "Department of the Australian Public Service" has the same meaning as the expression "Department" in the Public Service Act 1922;   "employee" means a person to and in relation to whom this Act applies by virtue of section 5;   "leave officer", in relation to an employee, means a person who may, whether in his or her own right or as a delegate of another person, grant leave to that employee on account of illness;   "medical practitioner" means a person registered or licenced as a medical practitioner under a law of a State or Territory that provides for the registration or licencing of medical practitioners;   "prescribed authority" means:   (a) a body corporate (other than an incorporated company, society or association) that is incorporated for a public purpose by a law of the Commonwealth or of a Territory (other than the Northern Territory) and is declared by the regulations to be a body corporate in relation to which this Act applies;   (b) an unincorporated body that is established for a public purpose by a law of the Commonwealth or of a Territory (other than the Northern Territory) and is declared by the regulations to be an unincorporated body in relation to which this Act applies; or   (c) a company that:     (i) is incorporated under a law of the Commonwealth or a law in force in a State or Territory;     (ii) is a trading corporation, or a financial corporation, within the meaning of paragraph 51 (20) of the Constitution; and     (iii) is declared by the regulations to be a body corporate in relation to which this Act applies;   "Secretary" has the same meaning as in the Public Service Act 1922\. 
 
+<lf>   (2) In this Act, a reference to an unauthorized absence, in relation to an employee or in relation to employees included in a class of employees, shall be read as a reference to an absence that is, under the regulations, an unauthorized absence in relation to that employee or to that class of employees. <p><lf>   (3) In reckoning, for the purposes of this Act, the number of business days contained in any period relevant to the making of, or dealing with, an application under section 7A by a female employee for permission to resume duty, Saturdays and Sundays and any other days that are public holidays in the place where she would, but for being absent on leave, perform her duties or are public holidays for a class of persons in which she is included shall not be counted as business days, but all other days shall be so counted. </lf></p></lf>
+</sect>
+**<b>
 
-ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
-Provision affected
-How affected
-Title	
-am. No. 168, 1978
-S. 1	
-rs. No. 168, 1978
-S. 3	
-am. No. 168, 1978; No. 129, 1988; No. 109, 1993; No. 43, 1996
-S. 5	
-am. No. 168, 1978; No. 155, 1979; No. 109, 1988 (as am. by No. 92, 1994); No. 43, 1996
-S. 5A	
-ad. No. 109, 1993
-S. 6	
-am. No. 168, 1978; No. 215, 1992
-S. 7	
-rs. No. 168, 1978
-S. 7A	
-ad. No. 168, 1978
+### <name>MATERNITY LEAVE (COMMONWEALTH EMPLOYEES) ACT 1973 - SECT 4 Application of Act </name>
+</b>** 
 
-am. No. 215, 1992; No. 43, 1996
-S. 7B	
-ad. No. 168, 1978
-S. 8	
-am. No. 168, 1978; No. 199, 1991; No. 215, 1992; No. 109, 1993
-S. 11	
-rs. No. 168, 1978; No. 215, 1992
+## SECT
+<sect>   4\. This Act applies within and outside Australia and extends to all the Territories. </sect>
+**<b>
 
-am. No. 109, 1993
-S. 12	
-rep. No. 168, 1978
+### <name>MATERNITY LEAVE (COMMONWEALTH EMPLOYEES) ACT 1973 - SECT 5 Persons in relation to whom Act applies </name>
+</b>** 
 
-ad. No. 215, 1992
+## SECT
+<sect>   5\. *2* (1) Subject to this section, this Act applies to and in relation to:   (a) a person who is employed by the Commonwealth under the Public Service Act 1922-1973 ; and   (b) such other persons employed by the Commonwealth, and such persons employed by a prescribed authority, whether so employed under a law of the Commonwealth or of a Territory (other than an enactment as defined by section 3 of the Australian Capital Territory (Self- Goverment) Act 1988 or a law of the Northern Territory) or under a contract of service or apprenticeship, as are prescribed. 
 
-am. No. 109, 1993
-Ss. 13, 14	
-rep. No. 168, 1978 
-Note 2
-The Maternity Leave (Commonwealth Employees) Act 1973 was amended by Schedule 1 (items 8, 9) only of the Parliamentary Service (Consequential Amendments) Act 1997. The applicable provisions provide as follows:
-	8  Subsection 5A(1) (definition of Head)
-	Repeal the definition, substitute:
-	Head, in relation to a Parliamentary Department, means:
-	(a)	if the Department is the Department of the Senate—the Clerk of the Senate;
-	(b)	if the Department is the Department of the House of Representatives—the Clerk of the House; or
-	(c)	in the case of any other Department—the Secretary of that Department.
-	9  Subsection 5A(1) (definition of Parliamentary Department)
-	Repeal the definition, substitute:
-	Parliamentary Department means a Department of the Parliament established under the Parliamentary Service Act 1997.
-	Section 2 of the Parliamentary Service (Consequential Amendments) Act 1997 provides as follows:
-“This Act commences at the time when the Parliamentary Service Act 1997 commences.”
-	As at 20 August 1998 no date had been fixed and the amendments are not incorporated in this reprint.
-TABLE A
-Modifications
-A.C.T. Self-Government (Consequential Provisions) Act 1988  (No. 109, 1988)
-After subsection 3(1):
-	Insert the following subsection:
-	“(1A)	References in this Act to the Public Service Board or to the Public Service Commissioner shall be read as references to the Head of Administration as defined by section 3 of the Self-Government Act.”.
-Subsection 3(1):
-	Insert the following definition:
-“Self-Government Act means the Australian Capital Territory (Self-Government) Act 1988;”.
-Paragraph 5(1)(a):
-	Omit the paragraph.
-Paragraph 5(1)(b):
-	Omit “such other persons employed by the Commonwealth, and”.
-Subsection 5(2):
-	Omit the subsection.
-After paragraph 5(3)(a):
-	Insert the following paragraph:
-“(ab)	a member of the Legislative Assembly for the Australian Capital Territory or a Minister as defined by section 3 of the Self-Government Act;”.
-Section 7B:
-	After “other Act” (wherever occurring) insert “, or other enactment as defined by section 3 of the Self-Government Act”.
-Paragraph 8(1)(a):
-	Omit “a Department of the Public Service of the Commonwealth”, substitute “the branch of the Australian Public Service comprising transitional staff as defined by section 3 of the A.C.T. Self-Government (Consequential Provisions) Act 1988.”.
-Subsection 8(3):
-	Omit the subsection.
-Section 11:
-Omit the section.
+<lf>   (2) Without limiting by implication the generality of subsection (1), but subject to subsection (3):   (a) a member of the Australian Federal Police;   (b) a person who is the holder of an office that is established by a law of the Commonwealth or of a Territory (other than an enactment as defined by section 3 of the Australian Capital Territory (Self- Goverment) Act 1988 or a law of the Northern Territory); and   (c) a person who constitutes, or is a member of, a prescribed authority; shall, for the purposes of this Act, be deemed to be employed by the Commonwealth. <p><lf>   (3) This Act does not apply to or in relation to:   (a) a member of the Parliament or a Minister of State;   (aa) a person who holds an office defined by section 73 of the Australian Capital Territory (Self-Goverment) Act 1988 or an office established by or under an enactment as defined by section 3 of that Act;   (b) a person who is a Judge as defined by section 4 of the Judges' Pensions Act 1968;   (c) a member of the Defence Force;   (d) persons appointed or engaged for employment outside Australia only;   (e) a person who is not entitled, as a condition of her employment, to leave of absence, with pay, on account of illness; or   (f) a person remunerated by fees, allowances or commission only. </lf></p></lf>
+</sect>
+**<b>
 
+### <name>MATERNITY LEAVE (COMMONWEALTH EMPLOYEES) ACT 1973 - SECT 5A How Act applies to persons employed in Parliamentary Departments </name>
+</b>** 
+
+## SECT
+<sect>   5A. (1) In this section:   "Head", in relation to a Parliamentary Department, means:   (i) if the Department is the Department of the Senate - the Clerk of the Senate; or   (ii) if the Department is the Department of the House of Representatives - the Clerk of that House; or   (iii) if the Department is the Department of the Parliamentary Library - the Parliamentary Librarian; or   (iv) if the Department is the Department of the Parliamentary Reporting Staff - the Principal Parliamentary Reporter; or   (v) if the Department is the Joint House Department - the Secretary to that Department;   "Parliamentary Department" means the Department of the Senate, the Department of the House of Representatives, the Department of the Parliamentary Library, the Department of the Parliamentary Reporting Staff or the Joint House Department. 
+
+<lf>   (2) For the purposes of the application of this Act in relation to a person employed in a Parliamentary Department:   (a) the powers conferred by section 8 on the Public Service Commissioner are to be exercised, in substitution for the Public Service Commissioner, by:     (i) if the person is employed in the Department of the Senate - the President of the Senate; or     (ii) if the person is employed in the Department of the House of Representatives - the Speaker of that House; or     (iii) if the person is employed in another Parliamentary Department - the President of the Senate and the Speaker of the House of Representatives acting jointly; and   (b) the powers conferred on the Secretary to the Department (other than the power of delegation conferred by section 11) are to be exercised, in substitution for the Secretary to the Department, by the Head of the Parliamentary Department concerned. <p><lf>   (3) The Head of a Parliamentary Department may, by signed writing, delegate to an officer of, or person employed in, the Parliamentary Department any of the Head of the Parliamentary Department's functions or powers under this Act. <p><lf>   (4) A delegation of a function or power under subsection (3) by the Head of a Parliamentary Department:   (a) unless revoked under paragraph (b), continues in force even though the person who gave the delegation has ceased to be the Head of the Parliamentary Department; and   (b) may be revoked by writing signed by the person who is for the time being the Head of the Parliamentary Department. <p><lf>   (5) If the Head of a Parliamentary Department has delegated a function or power under subsection (3), the Head of the Parliamentary Department may issue guidelines to the delegate with respect to the performance of the function or the exercise of the power. </lf></p></lf></p></lf></p></lf>
+</sect>
+**<b>
+
+### <name>MATERNITY LEAVE (COMMONWEALTH EMPLOYEES) ACT 1973 - SECT 6 Absence from duty in relation to childbirth </name>
+</b>** 
+
+## SECT
+<sect>   6\. (1) A female employee who has become pregnant (whether before or after being employed by the Commonwealth or a prescribed authority):   (a) shall, on application made to a leave officer before she is confined, be granted by the leave officer permission to absent herself from duty during a period not exceeding 52 weeks commencing on the date of commencement of the period during which she is required, in accordance with paragraph (b), to absent herself from duty;   (b) shall, subject to section 7, whether or not she has been granted permission under paragraph (a), absent herself from duty during a period that:     (i) if she is still pregnant 6 weeks before the expected date of birth of her child - commences 6 weeks before the expected date of birth of her child and continues until the expiration of a period of 6 weeks commencing on the date of her confinement; or     (ii) if she is confined earlier than 6 weeks before the expected date of birth of her child - commences on the date of her confinement and continues for 6 weeks; and   (c) shall, on application made to a leave officer:     (i) while she is, or after she has been, absent from duty in accordance with permission granted under paragraph (a) or under this paragraph; or     (ii) if no such permission has been granted - while she is, or after she has been, absent from duty in pursuance of paragraph (b); be granted by the leave officer permission to absent herself from duty during a further period ending on or before the expiration of a period of 52 weeks commencing on the date of commencement of the period during which she is or was required, in accordance with paragraph (b), to absent herself from duty. 
+
+<lf>   (2) Where the pregnancy of a female employee terminates other than by way of a confinement:   (a) she shall not, after that termination, be granted permission to be absent from duty in accordance with this section in respect of that pregnancy; and   (b) if, before that termination, she has been granted permission to be absent from duty in accordance with this section, that grant shall be cancelled. <p><lf>   (3) Subject to subsections (4), (4C) and (4F), an employee who has been confined and who has been absent from duty for a period or periods in accordance with this section is entitled to pay:   (a) in a case where the period of absence, or the sum of the periods of absence, exceeds 12 weeks - for the first 12 weeks of that absence; and   (b) in any other case - for the whole of that absence. <p><lf>   (4) An employee is not entitled, under subsection (3), to pay in respect of any absence that occurs before the day on which the continuous period, or the last continuous period, during which she is, by virtue of subsection (4A) or (4AB), to be taken to be a person to whom this subsection applies first exceeds 12 months. <p><lf>   (4A) A person shall be taken to be a person to whom subsection (4) applies by virtue of this subsection:   (a) while she is a person to and in relation to whom this Act applies; or   (b) while she is employed by a body corporate (not being an incorporated company, society or association), or an unincorporated body, established for a public purpose by a law of the Commonwealth or of a Territory other than the Northern Territory but is not a person to and in relation to whom this Act applies. <p><lf>   (4AB) A person (other than a person who is to be taken to be a person to whom subsection (4) applies by virtue of subsection (4A)) shall be taken to be a person to whom subsection (4) applies by virtue of this subsection:   (a) while she is employed in eligible Commonwealth employment within the meaning of Part IV of the Public Service Act 1922; and   (b) while she is employed in eligible public employment within the meaning of Part IV of the Public Service Act 1922 (other than eligible Commonwealth employment within the meaning of that Part) and is a person to whom Division 2 or Division 3 of that Act applies. <p><lf>   (4B) A person shall not be taken to be a person to whom subsection (4) applies by virtue of subsection (4A) or (4AB) during any period during which, by virtue of subsection 5 (3), this Act does not apply to or in relation to her. <p><lf>   (4C) Where an employee is absent from duty on unauthorized absence immediately before the commencement of the period during which, but for the operation of paragraph (a) of this subsection, the employee would be required by paragraph (1) (b) to absent herself from duty in connection with her expected confinement, or with her confinement, as the case may be, unless the Secretary to the Department determines that the unauthorized absence occurs in extenuating circumstances:   (a) the other provisions of this Act do not apply to her in connection with her expected confinement, or with her confinement, as the case may be;   (b) she shall absent herself from duty during that first-mentioned period, but, subject to subsection (4D), is not entitled to pay in respect of the period while she is so absent; and   (c) if, upon the expiration of that first-mentioned period, she remains absent from duty on unauthorized absence, her unauthorized absence before the commencement of that period shall be deemed to be continuous with her unauthorized absence after the expiration of that period. <p><lf>    (4D) Subsection (4C) does not affect an employee's entitlement to pay for any period of long service leave or leave of absence for recreation or on account of illness that is granted to her. <p><lf>   (4E) Where a female employee who is granted leave of absence without pay has become pregnant before, or becomes pregnant after, the commencement of that leave, her absence from duty in accordance with the grant during any part of the period of 52 weeks commencing 6 weeks before the expected birth of her child or, if she is confined earlier than 6 weeks before the expected birth of her child, commencing on the date of her confinement, shall be deemed, for the purposes of paragraph (1) (c) and subsection (3), to be absence from duty in accordance with a permission granted under paragraph (1) (a). <p><lf>   (4F) Notwithstanding subsection (4E), where a female employee who is granted leave of absence from her employment without pay for a period (in this subsection referred to as "the relevant period"), being a period exceeding 6 weeks, has become pregnant before, or becomes pregnant after, the commencement of that leave, unless the Secretary to the Department otherwise determines:   (a) subsection (1) does not authorize a leave officer to grant her permission to absent herself from duty under this Act at any time while she is absent from duty in accordance with that grant; and   (b) she is not entitled to pay under subsection (3) in respect of that employment for any part of the relevant period. <p><lf>   (4G) Subsection (4F) applies to and in relation to an employee who has been granted leave of absence without pay for a period whether or not she ceases to be absent from duty on leave without pay before the expiration of that period, but does not apply to such an employee unless she is absent on leave without pay in accordance with the grant for a continuous period exceeding 6 weeks. <p><lf>   (5) Where, under subsection (3), an employee is entitled to pay in respect of a period, the pay that the employee is to receive shall be the pay, salary, wage or other payment that the employee would have received if, for that period, she had been granted leave of absence on full pay on account of illness. <p><lf>   (7) Where:   (a) an employee has, under paragraph (1) (a) or (1) (c), been granted permission to be absent from duty for a period; and   (b) the employee applies for leave of absence of any kind with pay in respect of the whole or any part of that period, excluding a period in respect of which pay is payable under subsection (3); that application shall, if the employee is eligible for the leave to which the application relates, be granted. <p><lf>    (8) The grant of leave of absence of any kind with pay in respect of a period in respect of which pay is payable under subsection (3) is of no effect. <p><lf>   (9) This section does not relate to absence from duty before the commencement of this Act. </lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf>
+</sect>
+**<b>
+
+### <name>MATERNITY LEAVE (COMMONWEALTH EMPLOYEES) ACT 1973 - SECT 7 Employee may continue to perform, or resume, duty in certain circumstances </name>
+</b>** 
+
+## SECT
+<sect>   7\. (1) Where a female employee who is pregnant furnishes to the leave officer:   (a) not less than 6 weeks before the expected date of birth of her child; or   (b) on or before the date until which she has been given, or last been given, permission under this subsection to continue to perform duty; a certificate given by a medical practitioner certifying that, in the opinion of the medical practitioner, she will continue to be fit for duty until a specified date, the leave officer may give her permission, in writing, to continue to perform duty until and including that date. 
+
+<lf>   (2) Where permission is given under subsection (1) for a female employee to continue to perform duty until and including a date specified in the permission:   (a) if she is confined more than 6 weeks before the expected date of birth of her child - the grant of permission so to perform duty is of no effect;   (b) if she is confined before the date so specified but not more than 6 weeks before the expected date of birth of her child - subparagraph 6 (1) (b) (i) has effect as if the period referred to in that subparagraph commenced on the date of her confinement; or   (c) in any other case - subparagraph 6 (1) (b) (i) has effect as if the period referred to in that subparagraph commenced on the day next following the date so specified. <p><lf>   (3) Where, before the expiration of the period during which a female employee who has been confined would, but for this subsection, be required to absent herself from duty, the employee furnishes to the leave officer a certificate given by a medical practitioner certifying that, in the opinion of the medical practitioner, she will be fit to resume duty on a specified date occurring before the expiration of that period, the leave officer may give her permission, in writing, to resume duty on that date and the period during which she shall, upon permission being so given, be required by paragraph 6 (1) (b) to absent herself from duty terminates immediately before that date. </lf></p></lf>
+</sect>
+**<b>
+
+### <name>MATERNITY LEAVE (COMMONWEALTH EMPLOYEES) ACT 1973 - SECT 7A Other applications to resume duty </name>
+</b>** 
+
+## SECT
+<sect>   7A. (1) A female employee who absents herself from duty in accordance with a permission granted under paragraph 6 (1) (a) or 6 (1) (c) may, at any time after the expiration of the period during which she is required in accordance with paragraph 6 (1) (b), to absent herself from duty, make application, in writing, to the leave officer for permission to resume duty on a day specified in the application. 
+
+<lf>   (2) Where application is made to the leave officer under subsection (1), the leave officer shall, within 7 business days after receipt of the application:   (a) subject to subsections (3) and (6), grant or refuse to grant the application; and   (b) inform the applicant, in writing, whether he or she has granted or refused to grant the application. <p><lf>   (3) A leave officer shall not grant an application made to him or her under subsection (1) to resume duty on a day that is less than 7 days after the application is received by him or her unless he or she is satisfied that there are special circumstances justifying his or her granting the application. <p><lf>   (4) Where a leave officer refuses to grant an application for permission to resume duty made under subsection (1) and the application was received by the leave officer not less than 21 business days before the date on which the applicant wished to resume duty:   (a) the leave officer shall furnish to the applicant, when informing the applicant that he or she has refused to grant the application, particulars of the grounds on which it would not, in his or her opinion, be in the interests of the Service for her to resume duty on that date; and   (b) the applicant may, within 7 business days after she has received the particulars referred to in paragraph (a), request the Secretary to the Department, in writing, to review the decision of the leave officer and furnish, with her request, particulars of any matters that she wishes the Secretary to consider in making the review. <p><lf>   (5) Where the Secretary to the Department receives a request under subsection (4), the Secretary shall, within 7 business days after it receives the request:   (a) subject to subsection (6):     (i) affirm the decision of the leave officer; or     (ii) quash the decision of the leave officer and grant the applicant the permission sought in her application; and   (b) inform the applicant, in writing, of its decision. <p><lf>   (6) An application under subsection (1) shall be granted by the leave officer to whom the application is made, or by the Secretary to the Department in reviewing a refusal by the leave officer to grant the application, unless the leave officer or the Secretary, as the case may be, is satisfied that it would not be in the interests of the Service to grant the application. <p><lf>   (7) Where an applicant is granted, under this section, permission to resume duty before the expiration of a period in respect of which she had been granted permission to absent herself from duty, that period shall be treated as having expired immediately before the date upon which she resumes duty. </lf></p></lf></p></lf></p></lf></p></lf></p></lf>
+</sect>
+**<b>
+
+### <name>MATERNITY LEAVE (COMMONWEALTH EMPLOYEES) ACT 1973 - SECT 7B Grant of maternity leave not to affect continuity of service </name>
+</b>** 
+
+## SECT
+<sect>   7B.*2* (1) Where an employee is, in accordance with section 6, absent from duty for a period:   (a) if she has been paid, whether under subsection 6 (3) or otherwise, in respect of the period or of a part of the period - the period, or the part of the period, of absence for which she has been so paid forms part of her period of service or employment for all purposes of this Act, of any other Act and of any Ordinance; and   (b) subject to subsection (2), if she has not been so paid in respect of the period or of a part of the period - the period, or the part of the period, of absence for which she has not been so paid does not form part of her period of service or employment for the purposes of this Act, or of any other Act or of any Ordinance, but shall not be taken to have broken the continuity of her service or employment. 
+
+<lf>   (2) Where an employee who is, in accordance with section 6, absent from duty for a period in relation to her expected confinement or her confinement had not, immediately before the commencement of that period, been an employee for a continuous period of 12 months, the period of the absence or the period comprising the first 12 weeks of the period of the absence, whichever is the less, forms part of her period of service or employment for all purposes of this Act, of any other Act and of any Ordinance. </lf>
+</sect>
+**<b>
+
+### <name>MATERNITY LEAVE (COMMONWEALTH EMPLOYEES) ACT 1973 - SECT 8 Officers of the Public Service on maternity leave </name>
+</b>** 
+
+## SECT
+<sect>   8.*2* (1) Notwithstanding anything in the Public Service Act 1922- 1973, where:   (a) a woman who occupies an office in a Department of the Australian Public Service is absent from duty in accordance with section 6; and   (b) that absence is after her confinement and is without pay; the Public Service Commissioner may declare that that office is vacant and, thereupon, the woman becomes an unattached officer for the purposes of that Act. 
+
+<lf>   (1A) An office occupied by a woman must not be declared vacant under subsection (1) unless the woman has given her written consent to the declaration. <p><lf>   (2) Where a woman who has become an unattached officer under subsection (1) returns to duty on completion of her period of absence in accordance with section 6, she shall be appointed:   (a) if the office occupied by her immediately before she so became an unattached officer is vacant - to that office; or   (b) in any other case - to another office that, in status and salary, is as near as possible to the office referred to in paragraph (a). <p><lf>   (2A) Notwithstanding subsection (2), where a woman who has become an unattached officer under subsection (1), returns to duty before the expiration of the period of 52 weeks commencing on the date of commencement of the period during which, in accordance with paragraph 6 (1) (b), she has been required to absent herself from duty, that subsection does not have to be complied with until that first- mentioned period has expired. </lf></p></lf></p></lf>
+</sect>
+**<b>
+
+### <name>MATERNITY LEAVE (COMMONWEALTH EMPLOYEES) ACT 1973 - SECT 9 Temporary employees on maternity leave </name>
+</b>** 
+
+## SECT
+<sect>   9\. (1) Notwithstanding anything in any other law, where a woman employed in a temporary capacity is absent from duty in accordance with section 6, her employment shall not terminate, or be terminated, while she is so absent. 
+
+<lf>   (2) Where:   (a) on the return to duty with an authority (including the Commonwealth) of a woman referred to in subsection (1), her employment terminates or is terminated or notice of the termination of her employment is given to her; and   (b) the woman thereupon applies to that authority for employment in a temporary capacity; that authority shall give to the woman preference over all other persons (other than other women to whom this subsection applies) for employment on work for which she is qualified. </lf>
+</sect>
+**<b>
+
+### <name>MATERNITY LEAVE (COMMONWEALTH EMPLOYEES) ACT 1973 - SECT 10 No discrimination by reason of pregnancy </name>
+</b>** 
+
+## SECT
+<sect>   10\. (1) The possible or actual pregnancy of a woman is not a ground on which the Commonwealth or a prescribed authority may refuse employment to that woman. 
+
+<lf>   (2) The possible or actual pregnancy of a female employee is not a ground for the dismissal of that employee or for action disadvantageous to that employee in her employment. </lf>
+</sect>
+**<b>
+
+### <name>MATERNITY LEAVE (COMMONWEALTH EMPLOYEES) ACT 1973 - SECT 11 Delegation by Secretary </name>
+</b>** 
+
+## SECT
+<sect>   11.*2* (1) The Secretary to the Department ("the Secretary") may, by writing signed by the Secretary, delegate to an officer of or person employed in the Department, to the Secretary of another Department of the Australian Public Service or to the chief executive officer of a prescribed authority, any of the Secretary's functions or powers under this Act. 
+
+<lf>   (2) A delegation of a function or power under subsection (1):   (a) subject to paragraph (b), continues in force even though the person who gave the delegation has ceased to be the Secretary; and   (b) may be revoked by writing signed by the Secretary for the time being. <p><lf>   (3) If the Secretary has delegated a function or power under subsection (1), the Secretary may issue guidelines to the delegate with respect to the performance of the function or the exercise of the power. </lf></p></lf>
+</sect>
+**<b>
+
+### <name>MATERNITY LEAVE (COMMONWEALTH EMPLOYEES) ACT 1973 - SECT 12 Sub-delegation by delegate of Secretary </name>
+</b>** 
+
+## SECT
+<sect>   12\. (1) If the Secretary to the Department ("the Secretary") delegates a function or power under section 11 to the Secretary of another Department of the Australian Public Service, the delegate may, unless the instrument of delegation prohibits it, sub-delegate the function or power, by writing signed by the delegate, to an officer of or person employed in that Department. 
+
+<lf>   (2) If the Secretary delegates a function or power under section 11 to the chief executive officer of a prescribed authority, that chief executive officer may, unless the instrument of delegation prohibits it, sub-delegate the function or power, by writing signed by the delegate, to an officer or employee of the authority. <p><lf>   (3) A function or power sub-delegated under subsection (1) or (2), when performed or exercised by the sub-delegate, is taken for the purposes of this Act to have been performed or exercised by the Secretary. <p><lf>   (4) A sub-delegation of a function or power under subsection (1) or (2):   (a) does not prevent the performance of the function or the exercise of the power by the Secretary or the delegate; and   (b) subject to paragraph (c), continues in force even though:     (i) the person who gave the delegation has ceased to be the Secretary; or     (ii) the person who gave the sub-delegation has ceased to be Secretary of the other Department or chief executive officer of the prescribed authority, as the case may be; and   (c) may be revoked by writing signed by the Secretary of the other Department, or by the chief executive officer of that authority, as the case may be, for the time being. <p><lf>   (5) If:   (a) the Secretary has delegated a function or power under section 11 and has issued guidelines to the delegate with respect to the performance of the function or the exercise of the power; and   (b) the delegate has sub-delegated the function or power; the delegate:   (c) must issue corresponding guidelines to the sub-delegate; and   (d) may issue guidelines, not inconsistent with the guidelines issued by the Secretary, to the sub-delegate with respect to the performance of the function or the exercise of the power. <p><lf>   (6) Subject to the preceding provisions of this section, sections 34AA, 34AB and 34A of the Acts Interpretation Act 1901 apply to a power to sub-delegate under this section, and to a sub-delegation given under such a power, in the same way as they would apply if the power were a power to delegate and the sub-delegation were a delegation. </lf></p></lf></p></lf></p></lf></p></lf>
+</sect>
+**<b>
+
+### <name>MATERNITY LEAVE (COMMONWEALTH EMPLOYEES) ACT 1973 - SECT 15 Regulations </name>
+</b>** 
+
+## SECT
+<sect>   15\. The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed or necessary or convenient to be prescribed for carrying out or giving effect to this Act. </sect>
+**<b>
+
+### <name>MATERNITY LEAVE (COMMONWEALTH EMPLOYEES) ACT 1973 - NOTE 1 </name>
+</b>**                                 NOTES *1* The Maternity Leave (Commonwealth Employees) Act 1973 as shown in this reprint comprises Act No. 72, 1973 amended as indicated in the Tables below.   The Maternity Leave (Commonwealth Employees) Act 1973 was modified by the A.C.T. Self-Government (Consequential Provisions) Act 1988\. (See Note 2)   The Maternity Leave (Commonwealth Employees) Act 1973 is affected by sections 39 and 40 of the CSL Sale Act 1993\.   The Maternity Leave (Commonwealth Employees) Act 1973 is affected by sections 26-28 of the Housing Loans Insurance Corporation (Transfer of Assets and Abolition) Act 1996\.                             Table of Acts Act             Date           Date of                  Application Number and      of assent      commencement             saving or year                                                    transitional                                                         provisions Maternity Leave (Australian Government Employees) Act 1973 72, 1973        18 June 1973   18 June 1973 Maternity Leave (Australian Government Employees) Amendment Act 1978 168, 1978       28 Nov 1978    S. 7 (2): 15 Mar 1981                                (see s. 2 (2) and                                Gazette  1981,                                No. S43)                                Remainder: Royal Assent                                                         Ss. 5 (2)                                                         and 11 Australian Federal Police (Consequential Amendments) Act 1979 155, 1979       28 Nov 1979    19 Oct 1979 (see s. 2                                and Gazette 1979,                                No. S206)                                                         - A.C.T. Self-Government (Consequential Provisions) Act 1988 109, 1988       6 Dec 1988     S. 24: (see Note 2)                                S. 32: ((a))                                                         S. 24 as amended by Australian Capital Territory Government Service (Consequential Provisions) Act 1994 92, 1994        29 June 1994   1 July 1994 (see                                Gazette 1994,                                No. S256)                                                         - OTC (Conversion into Public Company) Act 1988 129, 1988       14 Dec 1988    Ss. 7 (2), 8 (2), 9,                                11-22 and 25: 1 Apr                                1989 (see Gazette 1989,                                No. S92)                                S. 8 (1): 16 Mar                                1989 (see Gazette 1989,                                No. S92)                                S. 8 (3): 1 Apr 1989                                Remainder: Royal Assent                                                         - Prime Minister and Cabinet Legislation Amendment Act 1991 199, 1991       18 Dec 1991    18 Dec 1991                                                         - Industrial Relations Legislation Amendment Act (No. 2) 1992 215, 1992       24 Dec 1992    Part 1 (ss. 1, 2)                                and Part 3 (ss. 9,                                10): Royal Assent                                Parts 9-11 (ss. 34-40):                                18 Feb 1991                                Remainder: 21 Jan 1993                                                         - Industrial Relations and other Legislation Amendment Act 1993 109, 1993       22 Dec 1993    Ss. 1, 2 and 58:                                Royal Assent                                S. 32: 5 Jan 1994                                S. 34: 6 Sept 1991                                S. 47: 24 Dec 1992                                Remainder: 19 Jan 1994                                                         - Statute Law Revision Act 1996 43, 1996        25 Oct 1996    Schedule 2 (item 72):                                (b)                                Schedule 5 (items 80-83):                                Royal Assent (b)                                                         -   (a) The Maternity Leave (Commonwealth Employees) Act 1973 was amended by section 32 only on the A.C.T. Self-Government (Consequential Provisions) Act 1988, subsection 2 (3) of which provides as follows:   "(3) The remaining provisions of this Act (including the amendments made by Schedule 5) commence on a day or days to be fixed by Proclamation."   The Australian Capital Territory Government Service (Consequential Provisions) Act 1994 of which provides as follows:   "21\. (1) Items in Schedule 5 to the Principal Act, as amended by this Act, that have not commenced under section 2 of the Principal Act commence immediately after the commencement of this Act.   "(2) This section has effect in spite of subsection 2 (3) of the Principal Act."   The Australian Capital Territory Government Service (Consequential Provisions) Act 1994 came into operation on 1 July 1994 (see Gazette 1994, No. S256).   (b) The Maternity Leave (Commonwealth Employees) Act 1973 was amended by Schedule 2 (item 72) and Schedule 5 (items 80-83) only of the Statute Law Revision Act 1996, subsections 2(1) and (2) of which provide as follows:   "(1) Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.   "(2) Each item in Schedule 2 commences or is taken to have commenced (as the case requires) at the time specified in the note at the end of the item."   Item 72 is taken to have commenced immediately after the commencement of section 24 of the OTC (Conversion into Public Company) Act 1988\.   Section 24 of the OTC (Conversion into Public Company) Act 1988 came into operation on 14 December 1988\.                         Table of Amendments             ad=added or inserted am=amended rep=repealed                     rs=repealed and substituted Provision affected   How affected Title                am. No. 168, 1978 S. 1                 rs. No. 168, 1978 S. 3                 am. No. 168, 1978; No. 129, 1988; No. 109, 1993;                      No. 43, 1996 S. 5                 am. No. 168, 1978; No. 155, 1979; No. 109, 1988                      (as am. by No. 92, 1994); No. 43, 1996 S. 5A                ad. No. 109, 1993 S. 6                 am. No. 168, 1978; No. 215, 1992 S. 7                 rs. No. 168, 1978 S. 7A                ad. No. 168, 1978                      am. No. 215, 1992; No. 43, 1996 S. 7B                ad. No. 168, 1978 S. 8                 am. No. 168, 1978; No. 199, 1991; No. 215, 1992;                      No. 109, 1993 S. 11                rs. No. 168, 1978; No. 215, 1992                      am. No. 109, 1993 S. 12                rep. No. 168, 1978                      ad. No. 215, 1992                      am. No. 109, 1993 Ss. 13, 14           rep. No. 168, 1978 
+**<b>
+
+### <name>MATERNITY LEAVE (COMMONWEALTH EMPLOYEES) ACT 1973 - NOTE 2 </name>
+</b>** *2* Sections 3, 5, 7B, 8 and 11 - The Maternity Leave (Commonwealth Employees) Act 1973 was modified by section 24 and Schedule 3 only of the A.C.T. Self-Government (Consequential Provisions) Act 1988\. The applicable provisions are not incorporated in this reprint and provide as follows:.   After subsection 3 (1):   Insert the following subsection:   "(1A) References in this Act to the Public Service Board or to the Public Service Commissioner shall be read as references to the Head of Administration as defined by section 3 of the Self-Government Act.".   Subsection 3 (1):   Insert the following definition:   "Self-Government Act" means the Australian Capital Territory (Self- Government) Act 1988;".   Paragraph 5 (1) (a):   Omit the paragraph.   Paragraph 5 (1) (b):   Omit "such other persons employed by the Commonwealth, and".   Subsection 5 (2):   Omit the subsection.   After paragraph 5 (3) (a):   Insert the following paragraph:   "(ab) a member of the Legislative Assembly for the Australian Capital Territory or a Minister as defined by section 3 of the Self- Government Act;".   Section 7B:   After "other Act" (wherever occurring) insert ", or other enactment as defined by section 3 of the Self-Government Act".   Paragraph 8 (1) (a):   Omit "a Department of the Public Service of the Commonwealth", substitute "the branch of the Australian Public Service comprising transitional staff as defined by section 3 of the A.C.T. Self- Government (Consequential Provisions) Act 1988.".   Subsection 8 (3):   Omit the subsection.   Section 11:   Omit the section. 
