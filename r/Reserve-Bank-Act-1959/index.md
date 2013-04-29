@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2009C00129/Html/ReserveBank1959_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00566/Html/ReserveBank1959_WD02_image001.gif)
 
 # Reserve Bank Act 1959
 
 **Act No. 4 of 1959 as amended**
 
-This compilation was prepared on 20 March 2009
+This compilation was prepared on 28 October 2008
  taking into account amendments up to Act No. 105 of 2008
 
 The text of any of those amendments not in force 
@@ -312,7 +312,7 @@ Note:          Subject to section 7A, the _Commonwealth Auth
 
              (2)  For the purposes of the _Commonwealth Authorities and Companies Act 1997_, the members of the Reserve Bank Board (rather than the members of the Payments System Board) are the directors of the Bank.
 
-             (3)  However, sections 21 to 27P of the _Commonwealth Authorities and Companies Act 1997_, and Schedule 2 to that Act, apply to the members of the Payments System Board as though they were directors of the Bank.
+             (3)  However, sections 21 to 27 of the _Commonwealth Authorities and Companies Act 1997_, and Schedule 2 to that Act, apply to the members of the Payments System Board as though they were directors of the Bank.
 
 ##### <a id="8"></a>8  General powers
 
@@ -778,13 +778,13 @@ Note:          Section 33B of the _Acts Interpretation Act 1
 
                             (iv)  makes an assignment of his or her remuneration for the benefit of his or her creditors; or
 
-                     (c)  the member is absent, except on leave of absence granted by the Payments System Board, from:
+                     (c)  is absent, except on leave of absence granted by the Payments System Board, from:
 
                               (i)  2 or more consecutive meetings of the Payments System Board; or
 
                              (ii)  3 or more meetings of the Payments System Board in any period of 12 months; or
 
-                     (d)  the member fails to comply with his or her obligations under section 27F or 27J of the _Commonwealth Authorities and Companies Act 1997_.
+                     (d)  fails to comply with his or her obligations under section 21 of the _Commonwealth Authorities and Companies Act 1997_.
 
 ##### <a id="25M"></a>25M  Payments System Board’s report to the Minister
 
@@ -1821,8 +1821,7 @@ Schedule (items 57, 58): <i>(h)</i></div>
  </i>Schedule 19: 29 June 1998</div>
   </td>
   <td>
-    <div>Sch. 19 (items 
-40–43) \[ <i>see</i>Table A]</div>
+    <div>Sch. 19 (items 40–43) \[ <i>see</i>Table A]</div>
   </td>
   <td>
     <div></div>
@@ -1945,7 +1944,7 @@ Remainder: 18 Jan 2001</div>
     <div>Ss. 4–14 and Schedule 3 (item 458): 15 July 2001 ( <i>see</i> <i>Gazette</i>2001, No. S285 <i>(r)</i></div>
   </td>
   <td>
-    <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
+    <div>Ss. 4–14</div>
   </td>
   <td>
     <div></div>
@@ -2053,10 +2052,10 @@ Remainder: 1 July 2003 ( <i>see</i>s. 2(1) and <i>Gazette</i>2003, No. S230)</
     <div>20 Sept 2008</div>
   </td>
   <td colspan="2">
-    <div>Schedule 1 (items 63–66): 20 Mar 2009</div>
+    <div>Schedule 1 (items 63–66, 75): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td colspan="2">
-    <div>—</div>
+    <div>Sch. 1 (item 75) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -2438,7 +2437,7 @@ _(s)_ Subsection 2(1) (items 2 and 3) of the _Financial System Legislation Ame
     <div></div>
   </td>
   <td>
-    <div>am. No. 54, 1998; No. 90, 2008</div>
+    <div>am. No. 54, 1998</div>
   </td>
 </tr>
 <tr>
@@ -2918,7 +2917,7 @@ _(s)_ Subsection 2(1) (items 2 and 3) of the _Financial System Legislation Ame
     <div></div>
   </td>
   <td>
-    <div>am. No. 160, 2000; No. 37, 2002; No. 42, 2003; No. 90, 2008</div>
+    <div>am. No. 160, 2000; No. 37, 2002; No. 42, 2003</div>
   </td>
 </tr>
 <tr>
@@ -3690,6 +3689,32 @@ _(s)_ Subsection 2(1) (items 2 and 3) of the _Financial System Legislation Ame
   </td>
 </tr></table>
 
+### Note 2
+
+_Financial Framework Legislation Amendment Act 2008 (No. 90, 2008)_
+
+The following amendments commence on 20 March 2009 unless proclaimed earlier:
+
+## Schedule 1
+
+## 63  Subsection 7A(3)
+
+Omit “27”, substitute “27P”.
+
+## 64  Paragraph 25L(4)(c)
+
+Before “is absent”, insert “the member”.
+
+## 65  Paragraph 25L(4)(d)
+
+Before “fails”, insert “the member”.
+
+## 66  Paragraph 25L(4)(d)
+
+Omit “21”, substitute “27F or 27J”.
+
+As at 28 October 2008 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -4054,5 +4079,17 @@ An approval in force, immediately before the commencement of the amendments, und
 (1)        Subsection 102(2A) of the _Australian Securities and Investments Commission Act 2001_ has effect after the commencement of the amendments as if the reference in that subsection to the Chief Executive Officer of APRA were instead a reference to APRA.
 
 (2)        For the purposes of that subsection as it continues to have effect, an agreement to a delegation, in force under that subsection immediately before the commencement of the amendments, continues to have effect after that commencement as if it were given by APRA.
+
+* * *
+
+_Financial Framework Legislation Amendment Act 2008 (No. 90, 2008)_
+
+The following provision commences on 20 March 2009 unless proclaimed earlier:
+
+## Schedule 1
+
+## 75  Transitional regulations
+
+The Governor-General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments made by this Schedule.
 
  
