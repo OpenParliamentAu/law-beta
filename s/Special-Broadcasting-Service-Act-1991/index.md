@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2008C00179/Html/SpecBroadService91WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00152/Html/SpecBroadService91WD02_image001.gif)
 
 # Special Broadcasting Service Act 1991
 
 **Act No. 180 of 1991 as amended**
 
-This compilation was prepared on 1 July 2008
+This compilation was prepared on 3 June 2008
  taking into account amendments up to Act No. 20 of 2008
 
 The text of any of those amendments not in force
@@ -428,7 +428,7 @@ then, in addition to the functions conferred on the SBS under section 6, the S
 
              (1)  Except as otherwise provided by or under this or any other Act, the SBS and its Board are not subject to direction by or on behalf of the Commonwealth Government.
 
-             (2)  Sections 28 and 48A of the _Commonwealth Authorities and Companies Act 1997_ apply in relation to the SBS and its Board to the extent that a General Policy Order referred to in those sections does not affect the content or scheduling of programs.
+             (2)  The Minister may notify the Directors of general policies of the Commonwealth Government under section 28 of the _Commonwealth Authorities and Companies Act 1997_. However, the Minister must not notify the Directors of general policies that would affect the content or scheduling of programs.
 
 ##### <a id="14"></a>14   Managing Director
 
@@ -1773,7 +1773,7 @@ Schedule 2: <i>(h)</i></div>
     <div>26 May 2008</div>
   </td>
   <td>
-    <div>Schedule 2 (item 8): 1 July 2008</div>
+    <div>Schedule 2 (item 8): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -2080,7 +2080,7 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications an
     <div>S. 13</div>
   </td>
   <td>
-    <div>am. No. 152, 1997; No. 20, 2008</div>
+    <div>am. No. 152, 1997</div>
   </td>
 </tr>
 <tr>
@@ -2411,6 +2411,23 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications an
     <div>am. No. 146, 1999</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Commonwealth Authorities and Companies Amendment Act 2008 
+ (No. 20, 2008)_
+
+The following amendment commences on 1 July 2008:
+
+## Schedule 2
+
+## 8  Subsection 13(2)
+
+Repeal the subsection, substitute:
+
+             (2)  Sections 28 and 48A of the _Commonwealth Authorities and Companies Act 1997_ apply in relation to the SBS and its Board to the extent that a General Policy Order referred to in those sections does not affect the content or scheduling of programs.
+
+As at 3 June 2008 the amendment is not incorporated in this compilation.
 
 ## Table A
 
