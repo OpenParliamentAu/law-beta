@@ -1,980 +1,1770 @@
-![](http://www.comlaw.gov.au/Details/C2007C00223/Html/FinanSectorColectData2001_WD02_image001.gif)
+**
 
-# Financial Sector (Collection of Data) Act 2001
+###  FINANCIAL SECTOR (COLLECTION OF DATA) ACT 2001 
+**
 
-**Act No. 104 of 2001 as amended**
 
-This compilation was prepared on 4 April 2007
- taking into account amendments up to Act No. 32 of 2007
+**
 
-The text of any of those amendments not in force
- on that date is appended in the Notes section
+###  Compilation Information 
+**
 
-The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
 
-# Contents
 
-**Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Commencement [_see_ Note 1]
 
-[3](#3).            Object of Act
 
-[4](#4).            Extension to external Territories
 
-[5](#5).            Entities covered by the Act
 
-[5A](#5A).         Medical indemnity entities
+**
 
-[6](#6).            Application of _Criminal Code_
+###  Long Title 
+**
+**
 
-**Part 2—Registration of corporations**
+###  FINANCIAL SECTOR (COLLECTION OF DATA) ACT 2001<part>Part&#160;1&#151;Preliminary </part>
+**
+###  FINANCIAL SECTOR (COLLECTION OF DATA) ACT 2001- SECT 1  Short title [_see_ Note 1] 
+<dl compact="">
 
-[7](#7).            Registrable corporations
+		This Act may be cited as the _Financial Sector (Collection of Data) Act 2001_.
 
-[8](#8).            Register of entities
+ </dl>
+###  FINANCIAL SECTOR (COLLECTION OF DATA) ACT 2001- SECT 2  Commencement [_see_ Note 1] 
+<dl compact="">
 
-[9](#9).            Obligations of corporations
+<dt>(1)</dt><dd>Parts&#160;1 and 5 commence on the day on which this Act receives the
 
-[10](#10).          Matters to be included in Register of Entities
+Royal Assent.</dd> <dt>(2)</dt><dd>Parts&#160;2, 3 and 4 commence on a day to be fixed by Proclamation.</dd> <dt>(3)</dt><dd>If Parts&#160;2, 3 and 4 do not commence under subsection&#160;(2) within the period of 12 months beginning on the day on which this Act receives the Royal Assent, those Parts commence on the first day after the end of that period. </dd> </dl>
+###  FINANCIAL SECTOR (COLLECTION OF DATA) ACT 2001- SECT 3  Object of Act 
+<dl compact="">
 
-[11](#11).          List of names and categories of registered entities
+<dt>(1)</dt><dd>The object of this Act is to enable the collection by the Australian
 
-**Part 3—Provision of documents to APRA** 
+Prudential Regulation Authority (_APRA_) of information to assist
 
-    **Division 1—Deferred application of this Part in relation to registered entities**
+it in the prudential regulation of bodies in the financial sector and to
 
-[12](#12).          Application
+facilitate the formulation by the Reserve Bank of monetary policy.</dd> <dt>(2)</dt><dd>In order to achieve that object, this Act: </dd> </dl>
+<dl compact=""><dl compact="">
 
-    **Division 2—Determination of reporting standards and requirement to provide documents**
+<dt>(a)</dt><dd>provides for certain corporations to be registered, and divided into
 
-[13](#13).          APRA may determine reporting standards for, and require provision of, certain documents
+categories, by APRA; and</dd>
 
-[14](#14).          Principal executive officer of financial sector entity (other than a superannuation entity) to notify the entity’s governing body of a failure to provide reporting documents to APRA
+<dt>(b)</dt><dd>authorises APRA to determine reporting standards for corporations that are
 
-[15](#15).          When reporting standards begin to apply to particular financial sector entities
+so registered and for certain other bodies that it regulates and to require
 
-[16](#16).          Exemptions
+them to provide APRA with information about their businesses and activities.
 
-[17](#17).          APRA may require the variation of a reporting document or the provision of financial information
+</dd>
 
-    **Division 3—Administrative penalties in lieu of prosecution for certain offences**
+</dl></dl>
+###  FINANCIAL SECTOR (COLLECTION OF DATA) ACT 2001- SECT 4  Extension to external Territories 
+<dl compact="">
 
-[18](#18).          Application of Division
+		This Act extends to every external Territory.
 
-[19](#19).          When an infringement notice can be served
+ </dl>
+###  FINANCIAL SECTOR (COLLECTION OF DATA) ACT 2001- SECT 5  Entities covered by the Act 
+<dl compact="">
 
-[20](#20).          Matters to be included in an infringement notice
+<dt>(1)</dt><dd>This Act deals with financial sector entities.</dd> <dt>(2)</dt><dd>A _financial sector entity_ is: </dd> </dl>
+<dl compact=""><dl compact="">
 
-[21](#21).          Withdrawal of infringement notice
+<dt>(a)</dt><dd>a registered entity; or</dd>
 
-[22](#22).          What happens if penalty is paid
+<dt>(b)</dt><dd>a regulated entity; or</dd>
 
-[23](#23).          More than one infringement notice may not be served for the same offence
+<dt>(c)</dt><dd>a corporation to which section&#160;5A applies.
 
-[24](#24).          Infringement notice not required to be served
+</dd>
 
-[25](#25).          APRA may extend period for payment of penalty
+</dl></dl>
 
-**Part 4—Miscellaneous**
+Back to Top
 
-[26](#26).          Saving of other laws
+<dl compact="">
 
-[27](#27).          Entities may be directed to comply with Act
+<dt>(3)</dt><dd>A _registered entity_ is a corporation whose name is entered
 
-[28](#28).          Validity of acts and transactions of financial sector entities
+in the Register of Entities kept by APRA under section&#160;8.</dd> <dt>(4)</dt><dd>A _regulated entity_ is any of the following: </dd> </dl>
+<dl compact=""><dl compact="">
 
-[29](#29).          Corporation not to hold out that it is a registered entity
+<dt>(a)</dt><dd>a body regulated by APRA (within the meaning of subsection 3(2) of the
 
-[30](#30).          Regulations
+_Australian Prudential Regulation Authority Act 1998_);</dd>
 
-**Part 5—Interpretation**
+<dt>(c)</dt><dd>a subsidiary of an ADI, or a subsidiary of an authorised NOHC, within the
 
-[31](#31).          Definitions
+meaning of the _Banking Act 1959_.
 
-[32](#32).          Meaning of certain other expressions
+</dd>
 
-[33](#33).          Assets of corporations
+</dl></dl>
+###  FINANCIAL SECTOR (COLLECTION OF DATA) ACT 2001- SECT 5A  Medical indemnity entities 
+<dl compact="">
 
-[34](#34).          Related corporations
+		This section applies to a corporation at a particular time if:
 
-**Notes** 
+ </dl>
+<dl compact=""><dl compact="">
 
-## An Act to provide for the collection of information from bodies in the financial sector, and for related purposes
+<dt>(a)</dt><dd>the corporation is a financial corporation formed within the limits of
 
-## Part 1—Preliminary
+Australia; and</dd>
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
+<dt>(b)</dt><dd>an arrangement under which medical indemnity cover is provided for a
 
-                   This Act may be cited as the _Financial Sector (Collection of Data) Act 2001_.
+health care professional was entered into before 1&#160;July 2003; and</dd>
 
-##### <a id="2"></a>2  Commencement [_see_ Note 1]
+<dt>(c)</dt><dd>the arrangement was not effected by means of a contract of insurance;
 
-             (1)  Parts 1 and 5 commence on the day on which this Act receives the Royal Assent.
+and</dd>
 
-             (2)  Parts 2, 3 and 4 commence on a day to be fixed by Proclamation.
+<dt>(d)</dt><dd>the corporation may pay, or may have to pay, an amount under the
 
-             (3)  If Parts 2, 3 and 4 do not commence under subsection (2) within the period of 12 months beginning on the day on which this Act receives the Royal Assent, those Parts commence on the first day after the end of that period.
+arrangement at some time after that time.
 
-##### <a id="3"></a>3  Object of Act
+</dd>
 
-             (1)  The object of this Act is to enable the collection by the Australian Prudential Regulation Authority (**_APRA_**) of information to assist it in the prudential regulation of bodies in the financial sector and to facilitate the formulation by the Reserve Bank of monetary policy.
+</dl></dl>
+Medical Indemnity (Prudential Supervision and Product Standards) Act 2003
+###  FINANCIAL SECTOR (COLLECTION OF DATA) ACT 2001- SECT 6  Application of _Criminal Code_ 
+<dl compact="">
 
-             (2)  In order to achieve that object, this Act:
+		Chapter&#160;2 of the _Criminal Code_ applies to all offences against
 
-                     (a)  provides for certain corporations to be registered, and divided into categories, by APRA; and
+this Act.
 
-                     (b)  authorises APRA to determine reporting standards for corporations that are so registered and for certain other bodies that it regulates and to require them to provide APRA with information about their businesses and activities.
+ </dl>
+<dl compact="">
 
-##### <a id="4"></a>4  Extension to external Territories
+Note:	Chapter&#160;2 of the _Criminal Code_ sets out the
 
-                   This Act extends to every external Territory.
+general principles of criminal responsibility.
 
-##### <a id="5"></a>5  Entities covered by the Act
+ </dl>
+**
 
-             (1)  This Act deals with financial sector entities.
+###  FINANCIAL SECTOR (COLLECTION OF DATA) ACT 2001<part>Part&#160;2&#151;Registration of corporations </part>
+**
+###  FINANCIAL SECTOR (COLLECTION OF DATA) ACT 2001- SECT 7  Registrable corporations 
+<dl compact="">
 
-             (2)  A **_financial sector entity_** is:
+<dt>(1)</dt><dd>Subject to subsection&#160;(2), a corporation is a registrable corporation
 
-                     (a)  a registered entity; or
+if, and only if, the corporation is a foreign corporation, a trading
 
-                     (b)  a regulated entity; or
+corporation formed within the limits of Australia or a financial corporation so
 
-                     (c)  a corporation to which section 5A applies.
+formed and:
 
-             (3)  A **_registered entity_** is a corporation whose name is entered in the Register of Entities kept by APRA under section 8.
+</dd> </dl>
+<dl compact=""><dl compact="">
 
-             (4)  A **_regulated entity_** is any of the following:
+<dt>(a)</dt><dd>the sole or principal business activities in Australia of the corporation
 
-                     (a)  a body regulated by APRA (within the meaning of subsection 3(2) of the _Australian Prudential Regulation Authority Act 1998_);
+are the borrowing of money and the provision of finance; or</dd>
 
-                     (c)  a subsidiary of an ADI, or a subsidiary of an authorised NOHC, within the meaning of the _Banking Act 1959_.
+<dt>(b)</dt><dd>the sum of the values of such of the assets in Australia of the
 
-##### <a id="5A"></a>5A  Medical indemnity entities
+corporation as consist of debts due to the corporation, being debts resulting
 
-                   This section applies to a corporation at a particular time if:
+from transactions entered into in the course of the provision of finance by the
 
-                     (a)  the corporation is a financial corporation formed within the limits of Australia; and
+corporation, exceeds:
 
-                     (b)  an arrangement under which medical indemnity cover is provided for a health care professional was entered into before 1 July 2003; and
+</dd>
 
-                     (c)  the arrangement was not effected by means of a contract of insurance; and
+</dl></dl>
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (d)  the corporation may pay, or may have to pay, an amount under the arrangement at some time after that time.
+<dt>(i)</dt><dd>50%; or</dd>
 
-Expressions used in paragraph (b) have the same meaning as they have in the _Medical Indemnity (Prudential Supervision and Product Standards) Act 2003_.
+<dt>(ii)</dt><dd>if a greater or lesser percentage is prescribed by the regulations&#151;the
 
-##### <a id="6"></a>6  Application of _Criminal Code_
+percentage so prescribed;
 
-                   Chapter 2 of the _Criminal Code_ applies to all offences against this Act.
+</dd>
 
-Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
+</dl></dl></dl>
+<dl compact=""><dl compact="">
 
-## Part 2—Registration of corporations
+		of the sum of the values of all the assets in Australia of the corporation;
 
-##### <a id="7"></a>7  Registrable corporations
+or
 
-             (1)  Subject to subsection (2), a corporation is a registrable corporation if, and only if, the corporation is a foreign corporation, a trading corporation formed within the limits of Australia or a financial corporation so formed and:
+<dt>(c)</dt><dd>the corporation engages in the provision of finance in the course of
 
-                     (a)  the sole or principal business activities in Australia of the corporation are the borrowing of money and the provision of finance; or
+carrying on in Australia a business (whether or not that business is its sole
 
-                     (b)  the sum of the values of such of the assets in Australia of the corporation as consist of debts due to the corporation, being debts resulting from transactions entered into in the course of the provision of finance by the corporation, exceeds:
+or principal business) of selling goods by retail and the sum of the values of
 
-                              (i)  50%; or
+such of the assets of the corporation and of any corporation that is related to
 
-                             (ii)  if a greater or lesser percentage is prescribed by the regulations—the percentage so prescribed;
+the corporation as consist of debts due to the corporation concerned, being
 
-                            of the sum of the values of all the assets in Australia of the corporation; or
+debts resulting from transactions entered into in the course of the provision
 
-                     (c)  the corporation engages in the provision of finance in the course of carrying on in Australia a business (whether or not that business is its sole or principal business) of selling goods by retail and the sum of the values of such of the assets of the corporation and of any corporation that is related to the corporation as consist of debts due to the corporation concerned, being debts resulting from transactions entered into in the course of the provision of finance by that corporation, exceeds:
+of finance by that corporation, exceeds:
 
-                              (i)  $25,000,000; or
+</dd>
 
-                             (ii)  if a greater or lesser amount is prescribed by the regulations—the amount so prescribed.
+</dl></dl>
 
-             (2)  A corporation is not a registrable corporation if:
+Back to Top
 
-                     (a)  the corporation, not being a company, society or association, is established for a public purpose by a law of the Commonwealth, of a State or of a Territory; or
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (b)  the corporation is an ADI for the purposes of the _Banking Act 1959_; or
+<dt>(i)</dt><dd>$25,000,000; or</dd>
 
-                     (c)  the corporation is a benefit society registered under a law of a State or of a Territory providing for the registration of benefit societies; or
+<dt>(ii)</dt><dd>if a greater or lesser amount is prescribed by the regulations&#151;the
 
-                     (d)  the corporation is a private health insurer within the meaning of the _Private Health Insurance Act 2007_; or
+amount so prescribed.
 
-                     (e)  the corporation is registered under the _Life Insurance Act 1995_; or
+</dd>
 
-                      (f)  the sole or principal business in   Australia of the corporation is insurance business within the meaning of the _Insurance Act 1973_; or
+</dl></dl></dl>
+<dl compact="">
 
-                     (g)  the corporation is authorised by a law of a State or of a Territory to act as an executor, administrator and trustee; or
+<dt>(2)</dt><dd>A corporation is not a registrable corporation if:
 
-                     (h)  the sole or principal purpose for which the corporation borrows money is to lend money to a corporation or corporations that, because of subsection 34(2) or (3), is not or are not to be taken to be related to the first-mentioned corporation but would, but for that subsection, be treated as being so related because of subsection 34(1); or
+</dd> </dl>
+<dl compact=""><dl compact="">
 
-                      (i)  the sum of the values of all the assets of the corporation and of every corporation that is related to the corporation does not exceed:
+<dt>(a)</dt><dd>the corporation, not being a company, society or association, is
 
-                              (i)  $5,000,000; or
+established for a public purpose by a law of the Commonwealth, of a State or of
 
-                             (ii)  if a greater or lesser amount is prescribed by the regulations—the amount so prescribed; or
+a Territory; or</dd>
 
-                      (j)  APRA has, by order in writing published in such manner and form as APRA determines to be appropriate, exempted the corporation from the obligation to register under this Act.
+<dt>(b)</dt><dd>the corporation is an ADI for the purposes of the _Banking Act 1959_;
 
-             (3)  The reference in paragraph (2)(h) to the lending of money to a corporation does not include a reference to the provision of finance to the corporation by way of acquiring debts due to the corporation or of purchasing securities other than securities issued by the corporation.
+or</dd>
 
-##### <a id="8"></a>8  Register of entities
+<dt>(c)</dt><dd>the corporation is a benefit society registered under a law of a State or
 
-             (1)  APRA must cause a Register of Entities to be kept for the purposes of this Act.
+of a Territory providing for the registration of benefit societies; or</dd>
 
-             (2)  APRA must ensure that the Register of Entities is available for inspection by any member of the public at an office of APRA during normal business hours.
+<dt>(d)</dt><dd>the corporation is a medical benefits organisation or hospital benefits
 
-             (3)  A person may:
+organisation registered under the _National Health Act 1953_; or</dd>
 
-                     (a)  inspect the Register of Entities; or
+<dt>(e)</dt><dd>the corporation is registered under the _Life Insurance Act 1995_;
 
-                     (b)  take an extract from, or make a copy of, that Register;
+or</dd>
 
-if the person pays the fee (if any) prescribed by the regulations.
+<dt>(f)</dt><dd>the sole or principal business in Australia of the corporation is
 
-##### <a id="9"></a>9  Obligations of corporations
+insurance business within the meaning of the _Insurance Act 1973_; or</dd>
 
-             (1)  If, on the commencement of this Part, a registrable corporation is not a registered entity, the corporation must, before the end of 60 days after the date of commencement of this Part, give to APRA the documents mentioned in subsection (5).
+<dt>(g)</dt><dd>the corporation is authorised by a law of a State or of a Territory to act
 
-                    Penalty:  50 penalty units.
+as an executor, administrator and trustee; or</dd>
 
-Note:          If a corporation to which subsection (1) applies fails to give the documents to APRA before the end of the period specified in that subsection, the obligation to give them to APRA continues after the end of that period with daily offences being committed until the obligation is complied with (see section 4K of the _Crimes Act 1914_).
+<dt>(h)</dt><dd>the sole or principal purpose for which the corporation borrows money is
 
-             (2)  If, after the commencement of this Part, a corporation becomes a registrable corporation, whether at the time of its incorporation or at a later time and whether or not the corporation has previously been a registrable corporation, the corporation must, before the end of 60 days after the day on which it becomes a registrable corporation, give to APRA the documents mentioned in subsection (5).
+to lend money to a corporation or corporations that, because of subsection
 
-                    Penalty:  50 penalty units.
+34(2) or (3), is not or are not to be taken to be related to the
 
-Note:          If a corporation to which subsection (2) applies fails to give the documents to APRA before the end of the period specified in that subsection, the obligation to give them to APRA continues after the end of that period with daily offences being committed until the obligation is complied with (see section 4K of the _Crimes Act 1914_).
+first-mentioned corporation but would, but for that subsection, be treated as
 
-             (3)  APRA may, before the end of the period referred to in subsection (1) or (2) (including any period that is taken to be substituted for that period by any other application or applications of this subsection) allow a longer period for the giving by a particular corporation of documents in accordance with that subsection and, in that case, the longer period is taken, for the purposes of the application of that subsection in relation to that corporation, to be substituted for the period referred to in that subsection.
+being so related because of subsection 34(1); or</dd>
 
-             (4)  Neither subsection (1) nor (2) applies to a corporation if, before the end of the period referred to in that subsection (including any period that is taken to be substituted for that period by any application or applications of subsection (3) in relation to that corporation), the corporation ceases to be a registrable corporation.
+<dt>(i)</dt><dd>the sum of the values of all the assets of the corporation and of every
 
-Note:          A defendant bears an evidential burden in relation to matters in subsection (4) (see subsection 13.3(3) of the _Criminal Code_).
+corporation that is related to the corporation does not exceed:
 
-             (5)  The documents referred to in subsections (1) and (2) are:
+</dd>
 
-                     (a)  a statement in writing setting out:
+</dl></dl>
+<dl compact=""><dl compact=""><dl compact="">
 
-                              (i)  the name, the place and date of incorporation and the address of the registered office of the corporation; and
+<dt>(i)</dt><dd>$5,000,000; or</dd>
 
-                             (ii)  the name, and the address of the registered office, of every corporation that is related to the corporation; and
+<dt>(ii)</dt><dd>if a greater or lesser amount is prescribed by the regulations&#151;the
 
-                            (iii)  particulars of the principal methods by which the corporation ordinarily borrows moneys; and
+amount so prescribed; or
 
-                            (iv)  particulars of the principal kinds of finance ordinarily provided by the corporation; and
+</dd>
 
-                     (b)  a copy of the last audited balance-sheet of the corporation; and
+</dl></dl></dl>
+<dl compact=""><dl compact="">
 
-                     (c)  if there is no such balance-sheet or the balance-sheet includes both assets and liabilities in Australia and assets and liabilities outside Australia but does not show the assets and liabilities in Australia separately from the assets and liabilities outside Australia—a statement showing the assets and liabilities in Australia of the corporation.
+<dt>(j)</dt><dd>APRA has, by order in writing published in such manner and form as APRA
 
-             (6)  If:
+determines to be appropriate, exempted the corporation from the obligation to
 
-                     (a)  a registered entity changes its name or the address of its registered office; or
+register under this Act.
 
-                     (b)  a change takes place in the principal methods by which a registered entity ordinarily borrows moneys or in the principal kinds of finance ordinarily provided by a registered entity; or
+</dd>
 
-                     (c)  a corporation that is related to a registered entity ceases to be so related; or
+</dl></dl>
+<dl compact="">
 
-                     (d)  a corporation becomes related to a registered entity;
+<dt>(3)</dt><dd>The reference in paragraph&#160;(2)(h) to the lending of money to a
 
-the registered entity must, before the end of the period of 60 days after the occurrence of the event concerned, notify APRA in writing accordingly.
+corporation does not include a reference to the provision of finance to the
 
-                    Penalty:  10 penalty units.
+corporation by way of acquiring debts due to the corporation or of purchasing
 
-Note:          If a financial sector entity to which subsection (6) applies fails to notify APRA before the end of the period specified in that subsection, the obligation to notify APRA continues after the end of that period with daily offences being committed until the obligation is complied with (see section 4K of the _Crimes Act 1914_).
+securities other than securities issued by the corporation.
 
-             (7)  A corporation is not required by this section to give to APRA a statement or notification in relation to a matter if a statement or notification in relation to that matter has already been given to APRA by another corporation.
+</dd> </dl>
+###  FINANCIAL SECTOR (COLLECTION OF DATA) ACT 2001- SECT 8  Register of entities 
+<dl compact="">
 
-Note:          A defendant bears an evidential burden in relation to matters in subsection (7) (see subsection 13.3(3) of the _Criminal Code_).
+<dt>(1)</dt><dd>APRA must cause a Register of Entities to be kept for the purposes of this
 
-             (8)  A statement or notification by a corporation to APRA under this section must be signed by a senior officer of the corporation.
+Act.</dd> <dt>(2)</dt><dd>APRA must ensure that the Register of Entities is available for inspection by any member of the public at an office of APRA during normal business hours.</dd> <dt>(3)</dt><dd>A person may: </dd> </dl>
+<dl compact=""><dl compact="">
 
-             (9)  APRA must, if requested to do so by the Secretary to the Department, give the Secretary a copy of a document received by APRA under this section.
+<dt>(a)</dt><dd>inspect the Register of Entities; or</dd>
 
-           (10)  An offence for a contravention of subsection (1), (2) or (6) is an offence of strict liability.
+<dt>(b)</dt><dd>take an extract from, or make a copy of, that Register;
 
-##### <a id="10"></a>10  Matters to be included in Register of Entities
+</dd>
 
-                   APRA must:
+</dl></dl>
+###  FINANCIAL SECTOR (COLLECTION OF DATA) ACT 2001- SECT 9  Obligations of corporations 
+<dl compact="">
 
-                     (a)  cause to be entered in the Register of Entities the name, the address of the registered office, and any other particulars that it considers appropriate to be entered, of every corporation that gives to APRA the documents mentioned in subsection 9(5); and
+<dt>(1)</dt><dd>If, on the commencement of this Part, a registrable corporation is not a
 
-                     (b)  if a registered entity notifies APRA in accordance with subsection 9(6), or APRA otherwise becomes aware, of a change in the name or the address of the registered office of the entity, or of a change in any other particulars relating to the entity that are entered in the Register—cause the Register to be altered accordingly; and
+registered entity, the corporation must, before the end of 60 days after the
 
-                     (c)  if a corporation whose name is entered in the Register ceases to exist, or ceases to be a registrable corporation—cause the corporation’s name, the address of its registered office, and any other particulars relating to it, to be removed from the Register.
+date of commencement of this Part, give to APRA the documents mentioned in
 
-##### <a id="11"></a>11  List of names and categories of registered entities
+subsection&#160;(5).
 
-             (1)  APRA must keep a list of the names of registered entities, divided into categories as APRA determines.
+</dd> </dl>
 
-             (2)  APRA may at any time vary the list for the purpose of adding to it the names of corporations that become registered entities, or removing from it the names of corporations that are found not to be or cease to be registered entities, or for the purpose of transferring a corporation from one category to another category.
+Back to Top
 
-             (3)  In determining the category in which a corporation is to be included or in determining whether a corporation should be transferred from one category to another category, APRA must have regard to:
+<dl compact="">
 
-                     (a)  the assets and liabilities of the corporation; and
+Note:	If a corporation to which subsection&#160;(1) applies fails
 
-                     (b)  the principal methods by which the corporation ordinarily borrows moneys; and
+to give the documents to APRA before the end of the period specified in that
 
-                     (c)  the principal kinds of finance ordinarily provided by the corporation;
+subsection, the obligation to give them to APRA continues after the end of that
 
-and must try to ensure that, as far as practicable, corporations carrying on the same or similar kinds of business are included in the same category.
+period with daily offences being committed until the obligation is complied
 
-             (4)  APRA must cause a copy of the list, and, if a variation of the list is made, a copy of the variation, to be published in the _Gazette_.
+with (see section&#160;4K of the _Crimes Act 1914_).
 
-             (5)  If APRA prepares a new list in substitution for the existing list and any variations made to that list, subsection (4) applies in respect of the new list and any variation made to that list.
+ </dl>
+<dl compact="">
 
-             (6)  As soon as practicable after a corporation is included in a category or is transferred from one category to another category, APRA must notify the corporation of the category in which it has been included or to which it has been transferred.
+<dt>(2)</dt><dd>If, after the commencement of this Part, a corporation becomes a
 
-             (7)  If:
+registrable corporation, whether at the time of its incorporation or at a later
 
-                     (a)  after a corporation has been included in a category, the corporation requests APRA to transfer the corporation to another category; or
+time and whether or not the corporation has previously been a registrable
 
-                     (b)  after a corporation has been transferred from one category to another category, the corporation requests APRA to re-transfer the corporation to the former category or to transfer the corporation to a third category;
+corporation, the corporation must, before the end of 60 days after the day on
 
-and the corporation gives information or makes submissions to APRA in support of the request, APRA must, after taking into account the information or submissions:
+which it becomes a registrable corporation, give to APRA the documents
 
-                     (c)  reconsider the question of the category in which the corporation should be included; and
+mentioned in subsection&#160;(5).
 
-                     (d)  if APRA thinks that the corporation should be transferred to a different category, vary the list accordingly.
+</dd> </dl>
+<dl compact="">
 
-## Part 3—Provision of documents to APRA
+Note:	If a corporation to which subsection&#160;(2) applies fails
 
-### Division 1—Deferred application of this Part in relation to registered entities
+to give the documents to APRA before the end of the period specified in that
 
-##### <a id="12"></a>12  Application
+subsection, the obligation to give them to APRA continues after the end of that
 
-             (1)  This Part does not apply in respect of registered entities until the date of commencement of Part 2.
+period with daily offences being committed until the obligation is complied
 
-             (2)  Until that date, a reference in this Part to a financial sector entity is taken to be a reference only to such an entity that is a regulated entity.
+with (see section&#160;4K of the _Crimes Act 1914_).
 
-### Division 2—Determination of reporting standards and requirement to provide documents
+ </dl>
+<dl compact="">
 
-##### <a id="13"></a>13  APRA may determine reporting standards for, and require provision of, certain documents
+<dt>(3)</dt><dd>APRA may, before the end of the period referred to in subsection&#160;(1)
 
-             (1)  APRA may:
+or (2) (including any period that is taken to be substituted for that period by
 
-                     (a)  by writing, determine reporting standards that are required to be complied with by financial sector entities with respect to any of the following documents (**_reporting documents_**):
+any other application or applications of this subsection) allow a longer period
 
-                              (i)  statements, reports, returns, certificates or other documents containing information of a financial or accounting nature relating to the business or activities of the entities;
+for the giving by a particular corporation of documents in accordance with that
 
-                             (ii)  surveys, reports, returns, certificates or other documents containing other information relating to the business or activities of the entities; and
+subsection and, in that case, the longer period is taken, for the purposes of
 
-                     (b)  publish those reporting standards in any way that it considers appropriate.
+the application of that subsection in relation to that corporation, to be
 
-Note:          When APRA has determined a reporting standard, it has power at any time to revoke or vary the standard (see subsection 33(3) of the _Acts Interpretation Act 1901_).
+substituted for the period referred to in that subsection.</dd> <dt>(4)</dt><dd>Neither subsection&#160;(1) nor (2) applies to a corporation if, before the end of the period referred to in that subsection&#160;(including any period that is taken to be substituted for that period by any application or applications of subsection&#160;(3) in relation to that corporation), the corporation ceases to be a registrable corporation. </dd> </dl>
+<dl compact="">
 
-             (2)  The reporting standards may include matters relating to:
+Note:	A defendant bears an evidential burden in relation to
 
-                     (a)  the forms of reporting documents; and
+matters in subsection&#160;(4) (see subsection 13.3(3) of the _Criminal Code_).
 
-                     (b)  the information to be contained in reporting documents; and
+ </dl>
+<dl compact="">
 
-                     (c)  the persons who are to sign reporting documents; and
+<dt>(5)</dt><dd>The documents referred to in subsections&#160;(1) and (2) are:
 
-                     (d)  the times as at which, or the periods to which, the information in reporting documents is to relate; and
+</dd> </dl>
+<dl compact=""><dl compact="">
 
-                     (e)  the giving of reporting documents to APRA, and the specifying of, or the authorising of APRA to specify, the times before which, or the periods within which, those documents are to be so given; and
+<dt>(a)</dt><dd>a statement in writing setting out:
 
-                      (f)  the discretion of APRA, in particular cases, to vary reporting standards, including, but not limited to, the discretion to vary any times or periods specified in or under the standards as mentioned in paragraph (e).
+</dd>
 
-             (3)  The reporting standards may impose:
+</dl></dl>
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (a)  different requirements to be complied with by different financial sector entities or classes of financial sector entities, including (to avoid doubt) requirements to be complied with only by a particular entity or particular entities; and
+<dt>(i)</dt><dd>the name, the place and date of incorporation and the address of the
 
-                     (b)  different requirements to be complied with in different situations and in respect of different businesses or activities.
+registered office of the corporation; and</dd>
 
-             (4)  A reporting standard that is determined for a particular financial sector entity may, in addition to, or instead of, a reporting standard that would apply to the entity apart from this subsection, require the entity to provide information relating to the consolidated position of the entity and its subsidiaries other than subsidiaries (if any) excluded from the requirement by that reporting standard.
+<dt>(ii)</dt><dd>the name, and the address of the registered office, of every corporation
 
-             (5)  When preparing proposed reporting standards, subject to subsection (6), APRA must consult:
+that is related to the corporation; and</dd>
 
-                     (a)  if the standards would affect a class or classes of financial sector entities—the entities concerned or such associations or other bodies representing them as APRA thinks appropriate; or
+<dt>(iii)</dt><dd>particulars of the principal methods by which the corporation ordinarily
 
-                     (b)  if the standards would affect only a particular financial sector entity or particular financial sector entities—the entity or entities concerned.
+borrows moneys; and</dd>
 
-             (6)  Subsection (5) does not apply if APRA is satisfied that the delay that would be involved in holding the consultations would prejudice the interests of depositors, policy holders or members of the financial sector entity or financial sector entities concerned.
+<dt>(iv)</dt><dd>particulars of the principal kinds of finance ordinarily provided by the
 
-             (7)  The validity of a reporting standard is not affected by any failure of APRA to hold consultations as required by subsection (5).
+corporation; and
 
-             (8)  Instruments made by APRA under paragraph (1)(a) are disallowable instruments for the purposes of section 46A of the _Acts Interpretation Act 1901_.
+</dd>
 
-             (9)  If a financial sector entity is required by or under a reporting standard to give a reporting document to APRA before a particular time or within a particular period, the entity must comply with the requirement.
+</dl></dl></dl>
+<dl compact=""><dl compact="">
 
-                    Penalty:  50 penalty units.
+<dt>(b)</dt><dd>a copy of the last audited balance-sheet of the corporation; and</dd>
 
-           (10)  To avoid doubt, section 4K of the _Crimes Act 1914_ applies to an obligation imposed by subsection (9).
+<dt>(c)</dt><dd>if there is no such balance-sheet or the balance-sheet includes both
 
-Note:          The effect of section 4K of the _Crimes Act 1914_ is that, if a financial sector entity to which subsection (9) applies refuses or fails to comply with a requirement before the time, or within the period, specified in the requirement, the obligation to comply with the requirement continues after that time or that period with daily offences being committed until the requirement is complied with.
+assets and liabilities in Australia and assets and liabilities outside
 
-           (11)  An offence for a contravention of subsection (9) is an offence of strict liability.
+Australia but does not show the assets and liabilities in Australia separately
 
-##### <a id="14"></a>14  Principal executive officer of financial sector entity (other than a superannuation entity) to notify the entity’s governing body of a failure to provide reporting documents to APRA
+from the assets and liabilities outside Australia&#151;a statement showing the
 
-             (1)  This section applies if a financial sector entity (other than a superannuation entity) that is required by or under a reporting standard to give a reporting document to APRA before a particular time or within a particular period fails to comply with the requirement.
+assets and liabilities in Australia of the corporation.
 
-             (2)  It is the duty of the principal executive officer of the entity, as soon as practicable after that time or the end of that period, as the case may be, to notify the governing body of the entity in writing that the failure has occurred.
+</dd>
 
-             (3)  The principal executive officer of a financial sector entity must not refuse or fail to notify the governing body of the entity as required by subsection (2).
+</dl></dl>
+<dl compact="">
 
-                    Penalty:  50 penalty units.
+<dt>(6)</dt><dd>If:
 
-             (4)  An offence for a contravention of subsection (3) is an offence of strict liability.
+</dd> </dl>
 
-##### <a id="15"></a>15  When reporting standards begin to apply to particular financial sector entities
+Back to Top
 
-             (1)  The reporting standards apply to a financial sector entity only on and after the day declared by APRA to be the day on which the standards begin to apply to the entity or to the class or kind of financial sector entities in which the entity is included.
+<dl compact=""><dl compact="">
 
-             (2)  APRA may, by writing published in the _Gazette_, make declarations for the purposes of subsection (1).
+<dt>(a)</dt><dd>a registered entity changes its name or the address of its registered
 
-##### <a id="16"></a>16  Exemptions
+office; or</dd>
 
-             (1)  APRA may, by writing, exempt a financial sector entity, or a class or kind of financial sector entities, from the requirement to comply with:
+<dt>(b)</dt><dd>a change takes place in the principal methods by which a registered entity
 
-                     (a)  all the requirements contained in any one or more applicable reporting standards; or
+ordinarily borrows moneys or in the principal kinds of finance ordinarily
 
-                     (b)  a specified requirement or requirements contained in an applicable reporting standard or applicable reporting standards.
+provided by a registered entity; or</dd>
 
-             (2)  An exemption may be unconditional or subject to conditions and may be of indefinite duration or limited in the time of its operation.
+<dt>(c)</dt><dd>a corporation that is related to a registered entity ceases to be so
 
-             (3)  An instrument under subsection (1) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
+related; or</dd>
 
-##### <a id="17"></a>17  APRA may require the variation of a reporting document or the provision of financial information
+<dt>(d)</dt><dd>a corporation becomes related to a registered entity;
 
-             (1)  If APRA thinks that a reporting document given to APRA by a financial sector entity:
+</dd>
 
-                     (a)  is incorrect, incomplete or misleading; or
+</dl></dl>
+<dl compact="">
 
-                     (b)  does not comply with a reporting standard that applies to it; or
+Note:	If a financial sector entity to which subsection&#160;(6)
 
-                     (c)  does not contain information, or adequate information, about a matter;
+applies fails to notify APRA before the end of the period specified in that
 
-APRA may give the entity written notice requesting it to give APRA in writing such explanation or information as is specified in the notice.
+subsection, the obligation to notify APRA continues after the end of that
 
-             (2)  The notice must specify the period within which the explanation or information is to be given. The period specified must be not less than 14 days beginning on the day on which the notice is given.
+period with daily offences being committed until the obligation is complied
 
-             (3)  If the notice requested the giving of an explanation and:
+with (see section&#160;4K of the _Crimes Act 1914_).
 
-                     (a)  the entity fails to give the explanation; or
+ </dl>
+<dl compact="">
 
-                     (b)  after considering the explanation given by the entity, APRA still thinks that the document is incorrect, incomplete or misleading or does not comply with the reporting standard;
+<dt>(7)</dt><dd>A corporation is not required by this section to give to APRA a statement
 
-APRA may give the entity such written directions as APRA thinks necessary for the variation of the document so that it will cease to be incorrect, incomplete or misleading or will comply with the reporting standard, as the case may be.
+or notification in relation to a matter if a statement or notification in
 
-             (4)  If the notice requested the giving of information and:
+relation to that matter has already been given to APRA by another corporation.
 
-                     (a)  the entity fails to give the information; or
+</dd> </dl>
+<dl compact="">
 
-                     (b)  APRA thinks that the information given is inadequate;
+Note:	A defendant bears an evidential burden in relation to
 
-APRA may give the entity such written directions as APRA thinks necessary for the giving of the information or the giving of adequate information.
+matters in subsection&#160;(7) (see subsection 13.3(3) of the _Criminal Code_).
 
-             (5)  Directions under subsection (3) or (4) must specify a period within which they are to be complied with. The period specified must not be less than 14 days beginning on the day on which the directions are given.
+ </dl>
+<dl compact="">
 
-             (6)  If, at any time, APRA is satisfied that a direction is no longer necessary or should be varied, APRA must give the financial sector entity written notice revoking or varying the direction, as the case may be.
+<dt>(8)</dt><dd>A statement or notification by a corporation to APRA under this section
 
-             (7)  If:
+must be signed by a senior officer of the corporation.</dd> <dt>(9)</dt><dd>APRA must, if requested to do so by the Secretary to the Department, give the Secretary a copy of a document received by APRA under this section.</dd> <dt>(10)</dt><dd>An offence for a contravention of subsection&#160;(1), (2) or (6) is an offence of strict liability. </dd> </dl>
+###  FINANCIAL SECTOR (COLLECTION OF DATA) ACT 2001- SECT 10  Matters to be included in Register of Entities 
+<dl compact="">
 
-                     (a)  a financial sector entity applies to APRA to revoke or vary a direction; and
+		APRA must:
 
-                     (b)  APRA thinks that the direction should be revoked or varied;
+ </dl>
+<dl compact=""><dl compact="">
 
-APRA must give the entity written notice revoking or varying the direction, as the case may be.
+<dt>(a)</dt><dd>cause to be entered in the Register of Entities the name, the address of
 
-             (8)  A financial sector entity must comply with a direction given to it under subsection (3) or (4) or with such a direction as varied under subsection (6) or (7), as the case requires.
+the registered office, and any other particulars that it considers appropriate
 
-                    Penalty:  50 penalty units.
+to be entered, of every corporation that gives to APRA the documents mentioned
 
-             (9)  To avoid doubt, section 4K of the _Crimes Act 1914_ applies to an obligation imposed by subsection (8).
+in subsection 9(5); and</dd>
 
-Note:          The effect of section 4K of the _Crimes Act 1914_ is that, if a financial sector entity refuses or fails to comply with a direction before the time, or within the period, specified in the direction, the obligation to comply with the direction continues after that time or that period with daily offences being committed until the direction is complied with.
+<dt>(b)</dt><dd>if a registered entity notifies APRA in accordance with subsection 9(6),
 
-           (10)  An offence for a contravention of subsection (8) is an offence of strict liability.
+or APRA otherwise becomes aware, of a change in the name or the address of the
 
-### Division 3—Administrative penalties in lieu of prosecution for certain offences
+registered office of the entity, or of a change in any other particulars
 
-##### <a id="18"></a>18  Application of Division
+relating to the entity that are entered in the Register&#151;cause the Register to
 
-                   This Division applies to an offence for a contravention of subsection 9(1), (2) or (6), 13(9), 14(3) or 17(8).
+be altered accordingly; and</dd>
 
-##### <a id="19"></a>19  When an infringement notice can be served
+<dt>(c)</dt><dd>if a corporation whose name is entered in the Register ceases to exist, or
 
-             (1)  Subject to subsection (2), if APRA has reasonable grounds to believe that a person has committed an offence or offences, APRA may cause an infringement notice to be served on the person in accordance with this Division.
+ceases to be a registrable corporation&#151;cause the corporation's name, the
 
-             (2)  An infringement notice must not relate to more than one offence unless:
+address of its registered office, and any other particulars relating to it, to
 
-                     (a)  the offences are:
+be removed from the Register.
 
-                              (i)  an offence constituted by refusing or failing to comply with a requirement before a specified time or within a specified period; and
+</dd>
 
-                             (ii)  one or more daily offences constituted by refusing or failing to comply with the requirement after that time or period; or
+</dl></dl>
+###  FINANCIAL SECTOR (COLLECTION OF DATA) ACT 2001- SECT 11  List of names and categories of registered entities 
+<dl compact="">
 
-                     (b)  the offences are 2 or more daily offences constituted by refusing or failing to comply with the same requirement after the time before which, or the end of the period within which, the requirement was to be complied with.
+<dt>(1)</dt><dd>APRA must keep a list of the names of registered entities, divided into
 
-Note:          For daily offences, see section 4K of the _Crimes Act 1914_.
+categories as APRA determines.</dd> <dt>(2)</dt><dd>APRA may at any time vary the list for the purpose of adding to it the names of corporations that become registered entities, or removing from it the names of corporations that are found not to be or cease to be registered entities, or for the purpose of transferring a corporation from one category to another category.</dd> <dt>(3)</dt><dd>In determining the category in which a corporation is to be included or in determining whether a corporation should be transferred from one category to another category, APRA must have regard to: </dd> </dl>
 
-             (3)  An infringement notice does not have any effect unless it is served within one year after the day on which the offence or the earlier or earliest of the offences is alleged to have been committed.
+Back to Top
 
-##### <a id="20"></a>20  Matters to be included in an infringement notice
+<dl compact=""><dl compact="">
 
-             (1)  An infringement notice must:
+<dt>(a)</dt><dd>the assets and liabilities of the corporation; and</dd>
 
-                     (a)  state the name of the person on whom it is to be served; and
+<dt>(b)</dt><dd>the principal methods by which the corporation ordinarily borrows moneys;
 
-                     (b)  state that it is being served on behalf of APRA; and
+and</dd>
 
-                     (c)  state:
+<dt>(c)</dt><dd>the principal kinds of finance ordinarily provided by the corporation;
 
-                              (i)  the nature of the alleged offence or offences; and
+</dd>
 
-                             (ii)  the time (if known) and date on which, and the place at which, the offence or the earlier or earliest of the offences is alleged to have been committed; and
+</dl></dl>
+<dl compact="">
 
-                            (iii)  the maximum penalty that a court could impose for the alleged offence or offences; and
+<dt>(4)</dt><dd>APRA must cause a copy of the list, and, if a variation of the list is
 
-                     (d)  specify a penalty that is payable under the notice in respect of the alleged offence or offences; and
+made, a copy of the variation, to be published in the _Gazette_.</dd> <dt>(5)</dt><dd>If APRA prepares a new list in substitution for the existing list and any variations made to that list, subsection&#160;(4) applies in respect of the new list and any variation made to that list.</dd> <dt>(6)</dt><dd>As soon as practicable after a corporation is included in a category or is transferred from one category to another category, APRA must notify the corporation of the category in which it has been included or to which it has been transferred.</dd> <dt>(7)</dt><dd>If: </dd> </dl>
+<dl compact=""><dl compact="">
 
-                     (e)  state that, if the person:
+<dt>(a)</dt><dd>after a corporation has been included in a category, the corporation
 
-                              (i)  does not wish the matter to be dealt with by a court; and
+requests APRA to transfer the corporation to another category; or</dd>
 
-                             (ii)  has, within 28 days after the date of service of the notice, done the act the failure to do which constituted the offence or offences;
+<dt>(b)</dt><dd>after a corporation has been transferred from one category to another
 
-                            the person may pay to APRA in that period the amount of the penalty specified in the notice; and
+category, the corporation requests APRA to re-transfer the corporation to the
 
-                      (f)  state that the person may make written representations to APRA seeking the withdrawal of the notice.
+former category or to transfer the corporation to a third category;
 
-Note:          APRA has power to extend periods stated in notices given under paragraph (1)(e) (see section 25).
+</dd>
 
-             (2)  An infringement notice may contain any other matters that APRA considers necessary.
+</dl></dl>
+<dl compact=""><dl compact="">
 
-             (3)  The penalty to be specified in an infringement notice under paragraph (1)(d) is whichever is the lesser of:
+<dt>(c)</dt><dd>reconsider the question of the category in which the corporation should be
 
-                     (a)  one-fifth of the maximum amount of the fine or fines that a court could impose for the offence or offences; or
+included; and</dd>
 
-                     (b)  50 penalty units.
+<dt>(d)</dt><dd>if APRA thinks that the corporation should be transferred to a different
 
-##### <a id="21"></a>21  Withdrawal of infringement notice
+category, vary the list accordingly.
 
-             (1)  A person on whom an infringement notice has been served may make written representations to APRA seeking the withdrawal of the notice.
+</dd>
 
-             (2)  APRA may withdraw an infringement notice served on a person (whether or not the person has made representations seeking the withdrawal) by causing written notice of the withdrawal to be served on the person within the period within which the penalty specified in the infringement notice is required to be paid.
+</dl></dl>
+**
 
-             (3)  The matters to which APRA may have regard in deciding whether or not to withdraw an infringement notice include, but are not limited to, the following:
+###  FINANCIAL SECTOR (COLLECTION OF DATA) ACT 2001<part>Part&#160;3&#151;Provision of documents to APRA </part>
+**
+**
 
-                     (a)  whether the person has previously been convicted of an offence for a contravention of this Act;
+###  FINANCIAL SECTOR (COLLECTION OF DATA) ACT 2001<division>Division&#160;1&#151;Deferred application of this Part in relation to registered entities </division> 
+**
+###  FINANCIAL SECTOR (COLLECTION OF DATA) ACT 2001- SECT 12  Application 
+<dl compact="">
 
-                     (b)  the circumstances in which the offence or offences specified in the notice are alleged to have been committed;
+<dt>(1)</dt><dd>This Part does not apply in respect of registered entities until the date
 
-                     (c)  whether the person has been previously been served with an infringement notice in respect of which the person paid the penalty specified in the notice;
+of commencement of Part&#160;2.</dd> <dt>(2)</dt><dd>Until that date, a reference in this Part to a financial sector entity is taken to be a reference only to such an entity that is a regulated entity. </dd> </dl>
+**
 
-                     (d)  any written representations made by the person.
+###  FINANCIAL SECTOR (COLLECTION OF DATA) ACT 2001<division>Division&#160;2&#151;Determination of reporting standards and requirement to provide documents </division> 
+**
+###  FINANCIAL SECTOR (COLLECTION OF DATA) ACT 2001- SECT 13  APRA may determine reporting standards for, and require provision of, certain documents 
+<dl compact="">
 
-             (4)  If:
+<dt>(1)</dt><dd>APRA may:
 
-                     (a)  the person pays the penalty specified in the infringement notice within the period within which the penalty is required to be paid; and
+</dd> </dl>
+<dl compact=""><dl compact="">
 
-                     (b)  the notice is withdrawn after the person pays the penalty;
+<dt>(a)</dt><dd>by writing, determine reporting standards that are required to be complied
 
-APRA must refund to the person, out of money appropriated by the Parliament, an amount equal to the amount paid.
+with by financial sector entities with respect to any of the following
 
-##### <a id="22"></a>22  What happens if penalty is paid
+documents (_reporting documents_):
 
-             (1)  This section applies if:
+</dd>
 
-                     (a)  an infringement notice is served on a person; and
+</dl></dl>
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (b)  the person has done the act the failure to do which constituted the offence or offences and pays the penalty specified in the notice before the end of the period referred to in paragraph 20(1)(e); and
+<dt>(i)</dt><dd>statements, reports, returns, certificates or other documents containing
 
-                     (c)  the infringement notice is not withdrawn.
+information of a financial or accounting nature relating to the business or
 
-             (2)  Any liability of the person for the offence or offences specified in the notice, and for any other offence or offences constituted by the same omission, is taken to be discharged.
+activities of the entities;</dd>
 
-             (3)  Further proceedings cannot be taken against the person for the offence or offences specified in the notice and proceedings cannot be taken against the person for any other offence or offences constituted by the same omission.
+<dt>(ii)</dt><dd>surveys, reports, returns, certificates or other documents containing
 
-             (4)  The person is not regarded as having been convicted of the offence or offences specified in the notice.
+other information relating to the business or activities of the entities; and
 
-##### <a id="23"></a>23  More than one infringement notice may not be served for the same offence
+</dd>
 
-                   This Division does not permit the service of more than one infringement notice on a person for the same offence or offences.
+</dl></dl></dl>
 
-##### <a id="24"></a>24  Infringement notice not required to be served
+Back to Top
 
-                   This Division does not:
+<dl compact=""><dl compact="">
 
-                     (a)  require an infringement notice to be served on a person in relation to an offence; or
+<dt>(b)</dt><dd>publish those reporting standards in any way that it considers appropriate.
 
-                     (b)  affect the liability of a person to be prosecuted for an offence if:
+</dd>
 
-                              (i)  an infringement notice is not served on the person in relation to the offence or in relation to any other offence constituted by the same omission; or
+</dl></dl>
+<dl compact="">
 
-                             (ii)  an infringement notice served on the person in relation to the offence or in relation to any other offence constituted by the same omission has been withdrawn; or
+Note:	When APRA has determined a reporting standard, it has power
 
-                     (c)  affect the liability of a person to be prosecuted for an offence if the person does not comply with an infringement notice served on the person in relation to the offence or in relation to any other offence constituted by the same omission; or
+at any time to revoke or vary the standard (see subsection 33(3) of the _Acts Interpretation Act 1901_).
 
-                     (d)  limit the amount of the penalty that may be imposed by a court on a person convicted of an offence.
+ </dl>
+<dl compact="">
 
-##### <a id="25"></a>25  APRA may extend period for payment of penalty
+<dt>(2)</dt><dd>The reporting standards may include matters relating to:
 
-             (1)  APRA may, by writing, extend, in relation to a particular person, the period referred to in paragraph 20(1)(e).
+</dd> </dl>
+<dl compact=""><dl compact="">
 
-             (2)  The power of APRA under subsection (1) to extend the period may be exercised before or after the end of the period.
+<dt>(a)</dt><dd>the forms of reporting documents; and</dd>
 
-             (3)  If APRA extends a period under subsection (1), a reference in this Division, or in a notice or other instrument under this Division, to the period is taken, in relation to the person, to be a reference to the period as so extended.
+<dt>(b)</dt><dd>the information to be contained in reporting documents; and</dd>
 
-## Part 4—Miscellaneous
+<dt>(c)</dt><dd>the persons who are to sign reporting documents; and</dd>
 
-##### <a id="26"></a>26  Saving of other laws
+<dt>(d)</dt><dd>the times as at which, or the periods to which, the information in
 
-                   This Act is not intended to exclude or limit the operation of any other laws of the Commonwealth, or the operation of any laws of a State or Territory, in so far as those laws are capable of operating concurrently with this Act.
+reporting documents is to relate; and</dd>
 
-##### <a id="27"></a>27  Entities may be directed to comply with Act
+<dt>(e)</dt><dd>the giving of reporting documents to APRA, and the specifying of, or the
 
-                   If a financial sector entity is convicted of an offence against this Act as a result of the entity having failed to comply with a provision of this Act or of the regulations, or with a reporting standard made or direction given by APRA, the Federal Court of Australia may direct the entity to comply, within a period specified by the Court, with the provision, reporting standard or direction, as the case may be.
+authorising of APRA to specify, the times before which, or the periods within
 
-##### <a id="28"></a>28  Validity of acts and transactions of financial sector entities
+which, those documents are to be so given; and</dd>
 
-                   The validity of an act or transaction of a financial sector entity is not affected merely because a provision of this Act or of the regulations, a reporting standard or a direction has not been complied with.
+<dt>(f)</dt><dd>the discretion of APRA, in particular cases, to vary reporting standards,
 
-##### <a id="29"></a>29  Corporation not to hold out that it is a registered entity
+including, but not limited to, the discretion to vary any times or periods
 
-                   A corporation must not, in the course of carrying on any business, advertise or hold out, by the use of the words “registered under the _Financial Sector (Collection of Data) Act 2001_”, the words “registered with APRA” or words having a similar meaning, that the corporation is a registered entity or has any special status under or because of this Act, whether or not the corporation is a registered entity.
+specified in or under the standards as mentioned in paragraph&#160;(e).
 
-                    Penalty:  50 penalty units.
+</dd>
 
-##### <a id="30"></a>30  Regulations
+</dl></dl>
+<dl compact="">
 
-                   The Governor-General may make regulations prescribing all matters:
+<dt>(3)</dt><dd>The reporting standards may impose:
 
-                     (a)  required or permitted by this Act to be prescribed; or
+</dd> </dl>
+<dl compact=""><dl compact="">
 
-                     (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+<dt>(a)</dt><dd>different requirements to be complied with by different financial sector
 
-## Part 5—Interpretation
+entities or classes of financial sector entities, including (to avoid doubt)
 
-##### <a id="31"></a>31  Definitions
+requirements to be complied with only by a particular entity or particular
 
-                   In this Act, unless the contrary intention appears:
+entities; and</dd>
 
-                    <a name="apra"></a>**_APRA_** means the Australian Prudential Regulation Authority.
+<dt>(b)</dt><dd>different requirements to be complied with in different situations and in
 
-                    <a name="australia"></a>**_Australia_** includes all the external Territories.
+respect of different businesses or activities.
 
-                    <a name="balanc-sheet"></a>**_balance-sheet_** includes a statement of assets and liabilities or any similar document.
+</dd>
 
-                    <a name="categori"></a>**_category_** means one of the categories into which registered entities are divided in the list kept for the purposes of section 11.
+</dl></dl>
+<dl compact="">
 
-                    <a name="co-oper-hous-societi"></a>**_co-operative housing society_** means a society registered or incorporated as a co-operative housing society or similar society under a law of a State or Territory.
+<dt>(4)</dt><dd>A reporting standard that is determined for a particular financial sector
 
-                    <a name="financi-corpor"></a>**_financial corporation_** means a financial corporation to which paragraph 51(xx) of the Constitution applies.
+entity may, in addition to, or instead of, a reporting standard that would
 
-                    <a name="financi-sector-entiti"></a>**_financial sector entity_** has the meaning given by subsection 5(2).
+apply to the entity apart from this subsection, require the entity to provide
 
-                    <a name="financi-sector-supervisori-agenc"></a>**_financial sector supervisory agency_** means a person or body having the function, in Australia or in a foreign country, of supervising or regulating financial institutions.
+information relating to the consolidated position of the entity and its
 
-                    <a name="foreign-corpor"></a>**_foreign corporation_** means a foreign corporation within the meaning of paragraph 51(xx) of the Constitution.
+subsidiaries other than subsidiaries (if any) excluded from the requirement by
 
-                    <a name="govern-bodi"></a>**_governing body_** of a financial sector entity means the board of directors, trustee or trustees, committee of management, council or other governing authority of the entity.
+that reporting standard.</dd> <dt>(5)</dt><dd>When preparing proposed reporting standards, subject to subsection&#160;(6), APRA must consult: </dd> </dl>
+<dl compact=""><dl compact="">
 
-                    <a name="princip-execut-offic"></a>**_principal executive officer_** of a financial sector entity means the principal executive officer of the entity for the time being, by whatever name called, and whether or not he or she is a member of the governing body of the entity.
+<dt>(a)</dt><dd>if the standards would affect a class or classes of financial sector
 
-                    <a name="regist-entiti"></a>**_registered entity_**has the meaning given by subsection 5(3).
+entities&#151;the entities concerned or such associations or other bodies
 
-                    <a name="registr-corpor"></a>**_registrable corporation_** has the meaning given by section 7.
+representing them as APRA thinks appropriate; or</dd>
 
-                    <a name="regul-entiti"></a>**_regulated entity_** has the meaning given by subsection 5(4).
+<dt>(b)</dt><dd>if the standards would affect only a particular financial sector entity or
 
-                    <a name="report-docum"></a>**_reporting document_** means a document of a kind mentioned in subparagraph 13(1)(a)(i) or (ii).
+particular financial sector entities&#151;the entity or entities concerned.
 
-                    <a name="report-standard"></a>**_reporting standard_** means a reporting standard determined by APRA under section 13.
+</dd>
 
-                    <a name="reserv-bank"></a>**_Reserve Bank_** means the Reserve Bank of Australia.
+</dl></dl>
+<dl compact="">
 
-                    <a name="share"></a>**_share_** includes stock, and also includes an interest in a share or in any stock.
+<dt>(6)</dt><dd>Subsection&#160;(5) does not apply if APRA is satisfied that the delay
 
-                    <a name="superannu-entiti"></a>**_superannuation entity_** has the same meaning as in the _Superannuation Industry (Supervision) Act 1993_.
+that would be involved in holding the consultations would prejudice the
 
-                    <a name="trade-corpor"></a>**_trading corporation_** means a trading corporation to which paragraph 51(xx) of the Constitution applies.
+interests of depositors, policy holders or members of the financial sector
 
-##### <a id="32"></a>32  Meaning of certain other expressions
+entity or financial sector entities concerned.</dd> <dt>(7)</dt><dd>The validity of a reporting standard is not affected by any failure of APRA to hold consultations as required by subsection&#160;(5).</dd> <dt>(8)</dt><dd>Instruments made by APRA under paragraph&#160;(1)(a) are disallowable instruments for the purposes of section&#160;46A of the _Acts Interpretation Act 1901_.</dd> <dt>(9)</dt><dd>If a financial sector entity is required by or under a reporting standard to give a reporting document to APRA before a particular time or within a particular period, the entity must comply with the requirement. </dd> </dl>
+<dl compact="">
 
-Provision of finance
+<dt>(10)</dt><dd>To avoid doubt, section&#160;4K of the _Crimes Act 1914_ applies to
 
-             (1)  A reference in this Act to the provision of finance includes a reference to the following:
+an obligation imposed by subsection&#160;(9).
 
-                     (a)  the lending of money, with or without security;
+</dd> </dl>
 
-                     (b)  the supplying of goods by way of hire-purchase;
+Back to Top
 
-                     (c)  the sale (other than a lay-by sale), in the course of the carrying on of a business of selling goods by retail, of goods on terms under which payment in full for the goods is not required to be made before the expiration of 3 months from the day on which the goods are sold or agreed to be sold;
+<dl compact="">
 
-                     (d)  the letting on hire of goods;
+Note:	The effect of section&#160;4K of the _Crimes Act 1914_ is that, if a financial sector entity to which subsection&#160;(9) applies
 
-                     (e)  the acquisition of debts due to another person;
+refuses or fails to comply with a requirement before the time, or within the
 
-                      (f)  the purchase of bills of exchange or promissory notes;
+period, specified in the requirement, the obligation to comply with the
 
-                     (g)  the purchase of securities issued by the Commonwealth, a State or a Territory or an authority of the Commonwealth, of a State or of a Territory;
+requirement continues after that time or that period with daily offences being
 
-                     (h)  the purchase of debentures or other securities (other than shares) issued by a corporation.
+committed until the requirement is complied with.
 
-Money received by co-operative housing society for its shares constitutes borrowing
+ </dl>
+<dl compact="">
 
-             (2)  For the purposes of this Act, the receipt of money by a co-operative housing society in respect of the issue of shares in the capital of the society is taken to constitute the borrowing of those moneys by the society.
+<dt>(11)</dt><dd>An offence for a contravention of subsection&#160;(9) is an offence of
 
-When debt is due
+strict liability.
 
-             (3)  For the purposes of this Act, a debt is taken to be due even though the time for payment of the debt has not arrived.
+</dd> </dl>
+###  FINANCIAL SECTOR (COLLECTION OF DATA) ACT 2001- SECT 14  Principal executive officer of financial sector entity (other than a superannuation entity) to notify the entity's governing body of a failure to provide reporting documents to APRA 
+<dl compact="">
 
-##### <a id="33"></a>33  Assets of corporations
+<dt>(1)</dt><dd>This section applies if a financial sector entity (other than a
 
-             (1)  Subject to subsection (2), for the purposes of the application of sections 7 and 34 in relation to a corporation:
+superannuation entity) that is required by or under a reporting standard to
 
-                     (a)  the assets of the corporation on any day are taken to be the assets in Australia of the corporation that were included in the assets of the corporation in the last balance-sheet of the corporation prepared and audited before that day; and
+give a reporting document to APRA before a particular time or within a
 
-                     (b)  the value on that day of any of those assets is taken to be the value of the assets concerned as shown in that balance-sheet.
+particular period fails to comply with the requirement.</dd> <dt>(2)</dt><dd>It is the duty of the principal executive officer of the entity, as soon as practicable after that time or the end of that period, as the case may be, to notify the governing body of the entity in writing that the failure has occurred.</dd> <dt>(3)</dt><dd>The principal executive officer of a financial sector entity must not refuse or fail to notify the governing body of the entity as required by subsection&#160;(2). </dd> </dl>
+<dl compact="">
 
-             (2)  If, for the purposes of the application of this section in relation to a corporation on any day, there is not such a balance-sheet as is mentioned in subsection (1), then, for the purposes of the application of sections 7 and 34 in relation to the corporation:
+<dt>(4)</dt><dd>An offence for a contravention of subsection&#160;(3) is an offence of
 
-                     (a)  the assets of the corporation on that day are taken to be the assets in Australia of the corporation; and
+strict liability.
 
-                     (b)  the value on that day of any of those assets is taken to be the value of the assets concerned as shown in the accounting records of the corporation.
+</dd> </dl>
+###  FINANCIAL SECTOR (COLLECTION OF DATA) ACT 2001- SECT 15  When reporting standards begin to apply to particular financial sector entities 
+<dl compact="">
 
-##### <a id="34"></a>34  Related corporations
+<dt>(1)</dt><dd>The reporting standards apply to a financial sector entity only on and
 
-             (1)  Subject to subsections (2) and (3), the question whether corporations are related to each other for the purposes of this Act is to be determined in the same manner as the question whether bodies corporate are related to each other is determined under the _Corporations Act 2001_.
+after the day declared by APRA to be the day on which the standards begin to
 
-             (2)  A corporation is not taken for the purposes of this Act to be related to another corporation (not being a corporation that carries on in Australia a business, whether or not that business is its sole or principal business, of selling goods by retail) unless the first-mentioned corporation is a foreign corporation, a trading corporation formed within the limits of Australia or a financial corporation so formed and:
+apply to the entity or to the class or kind of financial sector entities in
 
-                     (a)  the sole or principal business activities in Australia of the first-mentioned corporation are the borrowing of money and the provision of finance; or
+which the entity is included.</dd> <dt>(2)</dt><dd>APRA may, by writing published in the _Gazette_, make declarations for the purposes of subsection&#160;(1). </dd> </dl>
+###  FINANCIAL SECTOR (COLLECTION OF DATA) ACT 2001- SECT 16  Exemptions 
+<dl compact="">
 
-                     (b)  the sum of the amounts of such of the assets in Australia of the first-mentioned corporation as consist of debts due to that corporation, being debts resulting from transactions entered into in the course of the provision of finance by that corporation, exceeds:
+<dt>(1)</dt><dd>APRA may, by writing, exempt a financial sector entity, or a class or kind
 
-                              (i)  50%; or
+of financial sector entities, from the requirement to comply with:
 
-                             (ii)  if a greater or lesser percentage is prescribed by the regulations—the percentage so prescribed;
+</dd> </dl>
+<dl compact=""><dl compact="">
 
-                            of the sum of the values of all the assets in Australia of that corporation.
+<dt>(a)</dt><dd>all the requirements contained in any one or more applicable reporting
 
-             (3)  A corporation is not taken for the purposes of this Act to be related to another corporation (being a corporation that carries on in Australia a business, whether or not that business is its sole or principal business, of selling goods by retail) unless the first-mentioned corporation:
+standards; or</dd>
 
-                     (a)  is a foreign corporation, a trading corporation formed within the limits of Australia or a financial corporation so formed; and
+<dt>(b)</dt><dd>a specified requirement or requirements contained in an applicable
 
-                     (b)  engages in the provision of finance in the course of carrying on in Australia a business, whether or not that business is its sole or principal business, of selling goods by retail.
+reporting standard or applicable reporting standards.
 
-# Notes to the _Financial Sector (Collection of Data) Act 2001_
+</dd>
 
-### Note 1
+</dl></dl>
+<dl compact="">
 
-The _Financial Sector (Collection of Data) Act 2001_ as shown in this compilation comprises Act No. 104, 2001 amended as indicated in the Tables below.
+<dt>(2)</dt><dd>An exemption may be unconditional or subject to conditions and may be of
 
-For application, saving or transitional provisions made by the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, _see_ Act No. 55, 2001.
+indefinite duration or limited in the time of its operation.</dd> <dt>(3)</dt><dd>An instrument under subsection&#160;(1) is a disallowable instrument for the purposes of section&#160;46A of the _Acts Interpretation Act 1901_. </dd> </dl>
+###  FINANCIAL SECTOR (COLLECTION OF DATA) ACT 2001- SECT 17  APRA may require the variation of a reporting document or the provision of financial information 
+<dl compact="">
 
-### Table of Acts
+<dt>(1)</dt><dd>If APRA thinks that a reporting document given to APRA by a financial
 
-<table>
-<colgroup>
-  <col width="30%">
-  <col width="16%">
-  <col width="18%">
-  <col width="21%">
-  <col width="15%">
-</colgroup>
+sector entity:
 
-<thead>
-  <tr>
-    <td>
-      <div>Act</div>
-    </td>
-    <td>
-      <div>Number 
+</dd> </dl>
+<dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>is incorrect, incomplete or misleading; or</dd>
+
+<dt>(b)</dt><dd>does not comply with a reporting standard that applies to it; or</dd>
+
+<dt>(c)</dt><dd>does not contain information, or adequate information, about a matter;
+
+</dd>
+
+</dl></dl>
+
+Back to Top
+
+<dl compact="">
+
+<dt>(2)</dt><dd>The notice must specify the period within which the explanation or
+
+information is to be given. The period specified must be not less than 14 days
+
+beginning on the day on which the notice is given.</dd> <dt>(3)</dt><dd>If the notice requested the giving of an explanation and: </dd> </dl>
+<dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the entity fails to give the explanation; or</dd>
+
+<dt>(b)</dt><dd>after considering the explanation given by the entity, APRA still thinks
+
+that the document is incorrect, incomplete or misleading or does not comply
+
+with the reporting standard;
+
+</dd>
+
+</dl></dl>
+<dl compact="">
+
+<dt>(4)</dt><dd>If the notice requested the giving of information and:
+
+</dd> </dl>
+<dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the entity fails to give the information; or</dd>
+
+<dt>(b)</dt><dd>APRA thinks that the information given is inadequate;
+
+</dd>
+
+</dl></dl>
+<dl compact="">
+
+<dt>(5)</dt><dd>Directions under subsection&#160;(3) or (4) must specify a period within
+
+which they are to be complied with. The period specified must not be less than
+
+14 days beginning on the day on which the directions are given.</dd> <dt>(6)</dt><dd>If, at any time, APRA is satisfied that a direction is no longer necessary or should be varied, APRA must give the financial sector entity written notice revoking or varying the direction, as the case may be.</dd> <dt>(7)</dt><dd>If: </dd> </dl>
+<dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>a financial sector entity applies to APRA to revoke or vary a direction;
+
+and</dd>
+
+<dt>(b)</dt><dd>APRA thinks that the direction should be revoked or varied;
+
+</dd>
+
+</dl></dl>
+<dl compact="">
+
+<dt>(8)</dt><dd>A financial sector entity must comply with a direction given to it under
+
+subsection&#160;(3) or (4) or with such a direction as varied under
+
+subsection&#160;(6) or (7), as the case requires.
+
+</dd> </dl>
+<dl compact="">
+
+<dt>(9)</dt><dd>To avoid doubt, section&#160;4K of the _Crimes Act 1914_ applies to
+
+an obligation imposed by subsection&#160;(8).
+
+</dd> </dl>
+<dl compact="">
+
+Note:	The effect of section&#160;4K of the _Crimes Act 1914_ is that, if a financial sector entity refuses or fails to comply with a
+
+direction before the time, or within the period, specified in the direction,
+
+the obligation to comply with the direction continues after that time or that
+
+period with daily offences being committed until the direction is complied with.
+
+ </dl>
+<dl compact="">
+
+<dt>(10)</dt><dd>An offence for a contravention of subsection&#160;(8) is an offence of
+
+strict liability.
+
+</dd> </dl>
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA) ACT 2001<division>Division&#160;3&#151;Administrative penalties in lieu of prosecution for certain offences </division> <center>[Back to Top](#top)</center> 
+**
+###  FINANCIAL SECTOR (COLLECTION OF DATA) ACT 2001- SECT 18  Application of Division 
+<dl compact="">
+
+		This Division applies to an offence for a contravention of subsection 9(1),
+
+<dt>(2)</dt><dd>or (6), 13(9), 14(3) or 17(8).
+
+</dd> </dl>
+###  FINANCIAL SECTOR (COLLECTION OF DATA) ACT 2001- SECT 19  When an infringement notice can be served 
+<dl compact="">
+
+<dt>(1)</dt><dd>Subject to subsection&#160;(2), if APRA has reasonable grounds to believe
+
+that a person has committed an offence or offences, APRA may cause an
+
+infringement notice to be served on the person in accordance with this
+
+Division.</dd> <dt>(2)</dt><dd>An infringement notice must not relate to more than one offence unless: </dd> </dl>
+<dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the offences are:
+
+</dd>
+
+</dl></dl>
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>an offence constituted by refusing or failing to comply with a requirement
+
+before a specified time or within a specified period; and</dd>
+
+<dt>(ii)</dt><dd>one or more daily offences constituted by refusing or failing to comply
+
+with the requirement after that time or period; or
+
+</dd>
+
+</dl></dl></dl>
+<dl compact=""><dl compact="">
+
+<dt>(b)</dt><dd>the offences are 2 or more daily offences constituted by refusing or
+
+failing to comply with the same requirement after the time before which, or the
+
+end of the period within which, the requirement was to be complied with.
+
+</dd>
+
+</dl></dl>
+<dl compact="">
+
+Note:	For daily offences, see section&#160;4K of the _Crimes Act 1914_.
+
+ </dl>
+<dl compact="">
+
+<dt>(3)</dt><dd>An infringement notice does not have any effect unless it is served within
+
+one year after the day on which the offence or the earlier or earliest of the
+
+offences is alleged to have been committed.
+
+</dd> </dl>
+###  FINANCIAL SECTOR (COLLECTION OF DATA) ACT 2001- SECT 20  Matters to be included in an infringement notice 
+<dl compact="">
+
+<dt>(1)</dt><dd>An infringement notice must:
+
+</dd> </dl>
+<dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>state the name of the person on whom it is to be served; and</dd>
+
+<dt>(b)</dt><dd>state that it is being served on behalf of APRA; and</dd>
+
+<dt>(c)</dt><dd>state:
+
+</dd>
+
+</dl></dl>
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>the nature of the alleged offence or offences; and</dd>
+
+<dt>(ii)</dt><dd>the time (if known) and date on which, and the place at which, the
+
+offence or the earlier or earliest of the offences is alleged to have been
+
+committed; and</dd>
+
+<dt>(iii)</dt><dd>the maximum penalty that a court could impose for the alleged offence or
+
+offences; and
+
+</dd>
+
+</dl></dl></dl>
+<dl compact=""><dl compact="">
+
+<dt>(d)</dt><dd>specify a penalty that is payable under the notice in respect of the
+
+alleged offence or offences; and</dd>
+
+<dt>(e)</dt><dd>state that, if the person:
+
+</dd>
+
+</dl></dl>
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>does not wish the matter to be dealt with by a court; and</dd>
+
+<dt>(ii)</dt><dd>has, within 28 days after the date of service of the notice, done the act
+
+the failure to do which constituted the offence or offences;
+
+</dd>
+
+</dl></dl></dl>
+<dl compact=""><dl compact="">
+
+		the person may pay to APRA in that period the amount of the penalty specified
+
+in the notice; and
+
+<dt>(f)</dt><dd>state that the person may make written representations to APRA seeking the
+
+withdrawal of the notice.
+
+</dd>
+
+</dl></dl>
+
+Back to Top
+
+<dl compact="">
+
+Note:	APRA has power to extend periods stated in notices given
+
+under paragraph&#160;(1)(e) (see section&#160;25).
+
+ </dl>
+<dl compact="">
+
+<dt>(2)</dt><dd>An infringement notice may contain any other matters that APRA considers
+
+necessary.</dd> <dt>(3)</dt><dd>The penalty to be specified in an infringement notice under paragraph&#160;(1)(d) is whichever is the lesser of: </dd> </dl>
+<dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>one-fifth of the maximum amount of the fine or fines that a court could
+
+impose for the offence or offences; or</dd>
+
+<dt>(b)</dt><dd>50 penalty units.
+
+</dd>
+
+</dl></dl>
+###  FINANCIAL SECTOR (COLLECTION OF DATA) ACT 2001- SECT 21  Withdrawal of infringement notice 
+<dl compact="">
+
+<dt>(1)</dt><dd>A person on whom an infringement notice has been served may make written
+
+representations to APRA seeking the withdrawal of the notice.</dd> <dt>(2)</dt><dd>APRA may withdraw an infringement notice served on a person (whether or not the person has made representations seeking the withdrawal) by causing written notice of the withdrawal to be served on the person within the period within which the penalty specified in the infringement notice is required to be paid.</dd> <dt>(3)</dt><dd>The matters to which APRA may have regard in deciding whether or not to withdraw an infringement notice include, but are not limited to, the following: </dd> </dl>
+<dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>whether the person has previously been convicted of an offence for a
+
+contravention of this Act;</dd>
+
+<dt>(b)</dt><dd>the circumstances in which the offence or offences specified in the notice
+
+are alleged to have been committed;</dd>
+
+<dt>(c)</dt><dd>whether the person has been previously been served with an infringement
+
+notice in respect of which the person paid the penalty specified in the
+
+notice;</dd>
+
+<dt>(d)</dt><dd>any written representations made by the person.
+
+</dd>
+
+</dl></dl>
+<dl compact="">
+
+<dt>(4)</dt><dd>If:
+
+</dd> </dl>
+<dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the person pays the penalty specified in the infringement notice within
+
+the period within which the penalty is required to be paid; and</dd>
+
+<dt>(b)</dt><dd>the notice is withdrawn after the person pays the penalty;
+
+</dd>
+
+</dl></dl>
+###  FINANCIAL SECTOR (COLLECTION OF DATA) ACT 2001- SECT 22  What happens if penalty is paid 
+<dl compact="">
+
+<dt>(1)</dt><dd>This section applies if:
+
+</dd> </dl>
+<dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>an infringement notice is served on a person; and</dd>
+
+<dt>(b)</dt><dd>the person has done the act the failure to do which constituted the
+
+offence or offences and pays the penalty specified in the notice before the end
+
+of the period referred to in paragraph 20(1)(e); and</dd>
+
+<dt>(c)</dt><dd>the infringement notice is not withdrawn.
+
+</dd>
+
+</dl></dl>
+<dl compact="">
+
+<dt>(2)</dt><dd>Any liability of the person for the offence or offences specified in the
+
+notice, and for any other offence or offences constituted by the same omission,
+
+is taken to be discharged.</dd> <dt>(3)</dt><dd>Further proceedings cannot be taken against the person for the offence or offences specified in the notice and proceedings cannot be taken against the person for any other offence or offences constituted by the same omission.</dd> <dt>(4)</dt><dd>The person is not regarded as having been convicted of the offence or offences specified in the notice. </dd> </dl>
+
+Back to Top
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA) ACT 2001- SECT 23  More than one infringement notice may not be served for the same offence 
+<dl compact="">
+
+		This Division does not permit the service of more than one infringement
+
+notice on a person for the same offence or offences.
+
+ </dl>
+###  FINANCIAL SECTOR (COLLECTION OF DATA) ACT 2001- SECT 24  Infringement notice not required to be served 
+<dl compact="">
+
+		This Division does not:
+
+ </dl>
+<dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>require an infringement notice to be served on a person in relation to an
+
+offence; or</dd>
+
+<dt>(b)</dt><dd>affect the liability of a person to be prosecuted for an offence if:
+
+</dd>
+
+</dl></dl>
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>an infringement notice is not served on the person in relation to the
+
+offence or in relation to any other offence constituted by the same omission;
+
+or</dd>
+
+<dt>(ii)</dt><dd>an infringement notice served on the person in relation to the offence or
+
+in relation to any other offence constituted by the same omission has been
+
+withdrawn; or
+
+</dd>
+
+</dl></dl></dl>
+<dl compact=""><dl compact="">
+
+<dt>(c)</dt><dd>affect the liability of a person to be prosecuted for an offence if the
+
+person does not comply with an infringement notice served on the person in
+
+relation to the offence or in relation to any other offence constituted by the
+
+same omission; or</dd>
+
+<dt>(d)</dt><dd>limit the amount of the penalty that may be imposed by a court on a person
+
+convicted of an offence.
+
+</dd>
+
+</dl></dl>
+###  FINANCIAL SECTOR (COLLECTION OF DATA) ACT 2001- SECT 25  APRA may extend period for payment of penalty 
+<dl compact="">
+
+<dt>(1)</dt><dd>APRA may, by writing, extend, in relation to a particular person, the
+
+period referred to in paragraph 20(1)(e).</dd> <dt>(2)</dt><dd>The power of APRA under subsection&#160;(1) to extend the period may be exercised before or after the end of the period.</dd> <dt>(3)</dt><dd>If APRA extends a period under subsection&#160;(1), a reference in this Division, or in a notice or other instrument under this Division, to the period is taken, in relation to the person, to be a reference to the period as so extended. </dd> </dl>
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA) ACT 2001<part>Part&#160;4&#151;Miscellaneous </part>
+**
+###  FINANCIAL SECTOR (COLLECTION OF DATA) ACT 2001- SECT 26  Saving of other laws 
+<dl compact="">
+
+		This Act is not intended to exclude or limit the operation of any other laws
+
+of the Commonwealth, or the operation of any laws of a State or Territory, in
+
+so far as those laws are capable of operating concurrently with this Act.
+
+ </dl>
+###  FINANCIAL SECTOR (COLLECTION OF DATA) ACT 2001- SECT 27  Entities may be directed to comply with Act 
+<dl compact="">
+
+		If a financial sector entity is convicted of an offence against this Act as a
+
+result of the entity having failed to comply with a provision of this Act or of
+
+the regulations, or with a reporting standard made or direction given by APRA,
+
+the Federal Court of Australia may direct the entity to comply, within a period
+
+specified by the Court, with the provision, reporting standard or direction, as
+
+the case may be.
+
+ </dl>
+###  FINANCIAL SECTOR (COLLECTION OF DATA) ACT 2001- SECT 28  Validity of acts and transactions of financial sector entities 
+<dl compact="">
+
+		The validity of an act or transaction of a financial sector entity is not
+
+affected merely because a provision of this Act or of the regulations, a
+
+reporting standard or a direction has not been complied with.
+
+ </dl>
+
+Back to Top
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA) ACT 2001- SECT 29  Corporation not to hold out that it is a registered entity 
+<dl compact="">
+
+		A corporation must not, in the course of carrying on any business, advertise
+
+or hold out, by the use of the words "registered under the _Financial Sector (Collection of Data) Act 2001_", the words "registered with APRA" or words
+
+having a similar meaning, that the corporation is a registered entity or has
+
+any special status under or because of this Act, whether or not the corporation
+
+is a registered entity.
+
+ </dl>
+###  FINANCIAL SECTOR (COLLECTION OF DATA) ACT 2001- SECT 30  Regulations 
+<dl compact="">
+
+		The Governor-General may make regulations prescribing all matters:
+
+ </dl>
+<dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>required or permitted by this Act to be prescribed; or</dd>
+
+<dt>(b)</dt><dd>necessary or convenient to be prescribed for carrying out or giving effect
+
+to this Act.
+
+</dd>
+
+</dl></dl>
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA) ACT 2001<part>Part&#160;5&#151;Interpretation </part>
+**
+###  FINANCIAL SECTOR (COLLECTION OF DATA) ACT 2001- SECT 31  Definitions 
+<dl compact="">
+
+		In this Act, unless the contrary intention appears:
+
+ </dl>
+<dl compact=""><dl compact="">
+
+_APRA_ means the Australian Prudential Regulation Authority. _Australia_ includes all the external Territories. _balance-sheet_ includes a statement of assets and liabilities or any similar document. _category_ means one of the categories into which registered entities are divided in the list kept for the purposes of section&#160;11\. _co-operative housing society_ means a society registered or incorporated as a co-operative housing society or similar society under a law of a State or Territory. _financial corporation_ means a financial corporation to which paragraph 51(xx) of the Constitution applies. _financial sector entity_ has the meaning given by subsection 5(2). _financial sector supervisory agency_ means a person or body having the function, in Australia or in a foreign country, of supervising or regulating financial institutions. _foreign corporation_ means a foreign corporation within the meaning of paragraph 51(xx) of the Constitution. _governing body_ of a financial sector entity means the board of directors, trustee or trustees, committee of management, council or other governing authority of the entity. _principal executive officer_ of a financial sector entity means the principal executive officer of the entity for the time being, by whatever name called, and whether or not he or she is a member of the governing body of the entity. _registered entity_ has the meaning given by subsection 5(3). _registrable corporation_ has the meaning given by section&#160;7\. _regulated entity_ has the meaning given by subsection 5(4). _reporting document_ means a document of a kind mentioned in subparagraph 13(1)(a)(i) or (ii). _reporting standard_ means a reporting standard determined by APRA under section&#160;13\. _Reserve Bank_ means the Reserve Bank of Australia. _share_ includes stock, and also includes an interest in a share or in any stock. _superannuation entity_ has the same meaning as in the _Superannuation Industry (Supervision) Act 1993_. _trading corporation_ means a trading corporation to which paragraph 51(xx) of the Constitution applies.  </dl></dl>
+
+<center>Back to Top</center>
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA) ACT 2001- SECT 32  Meaning of certain other expressions 
+**
+
+ _Provision of finance_
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>A reference in this Act to the provision of finance includes a reference
+
+to the following:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the lending of money, with or without security;</dd>
+
+<dt>(b)</dt><dd>the supplying of goods by way of hire-purchase;</dd>
+
+<dt>(c)</dt><dd>the sale (other than a lay-by sale), in the course of the carrying on of a
+
+business of selling goods by retail, of goods on terms under which payment in
+
+full for the goods is not required to be made before the expiration of 3 months
+
+from the day on which the goods are sold or agreed to be sold;</dd>
+
+<dt>(d)</dt><dd>the letting on hire of goods;</dd>
+
+<dt>(e)</dt><dd>the acquisition of debts due to another person;</dd>
+
+<dt>(f)</dt><dd>the purchase of bills of exchange or promissory notes;</dd>
+
+<dt>(g)</dt><dd>the purchase of securities issued by the Commonwealth, a State or a
+
+Territory or an authority of the Commonwealth, of a State or of a Territory;</dd>
+
+<dt>(h)</dt><dd>the purchase of debentures or other securities (other than shares) issued
+
+by a corporation.
+
+</dd>
+
+</dl></dl></dl>
+
+_Money received by co-operative housing society for its shares constitutes borrowing_
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>For the purposes of this Act, the receipt of money by a co-operative
+
+housing society in respect of the issue of shares in the capital of the society
+
+is taken to constitute the borrowing of those 
+
+by the society.
+
+</dd> </dl></dl>
+
+_When debt is due_
+
+<dl compact=""><dl compact="">
+
+<dt>(3)</dt><dd>For the purposes of this Act, a debt is taken to be due even though the
+
+time for payment of the debt has not arrived.
+
+</dd> </dl></dl>
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA) ACT 2001- SECT 33  Assets of corporations 
+**
+
+ <dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>Subject to subsection&#160;(2), for the purposes of the application of
+
+sections&#160;7 and 34 in relation to a corporation:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the assets of the corporation on any day are taken to be the assets in
+
+Australia of the corporation that were included in the assets of the
+
+corporation in the last balance-sheet of the corporation prepared and audited
+
+before that day; and</dd>
+
+<dt>(b)</dt><dd>the value on that day of any of those assets is taken to be the value of
+
+the assets concerned as shown in that balance-sheet.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>If, for the purposes of the application of this section in relation to a
+
+corporation on any day, there is not such a balance-sheet as is mentioned in
+
+subsection&#160;(1), then, for the purposes of the application of
+
+sections&#160;7 and 34 in relation to the corporation:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the assets of the corporation on that day are taken to be the assets in
+
+Australia of the corporation; and</dd>
+
+<dt>(b)</dt><dd>the value on that day of any of those assets is taken to be the value of
+
+the assets concerned as shown in the accounting records of the corporation.
+
+</dd>
+
+</dl></dl></dl>
+
+**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA) ACT 2001- SECT 34  Related corporations 
+**
+
+ <dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>Subject to subsections&#160;(2) and (3), the question whether corporations
+
+are related to each other for the purposes of this Act is to be determined in
+
+the same manner as the question whether bodies corporate are related to each
+
+other is determined under the _Corporations Act 2001_.</dd> <dt>(2)</dt><dd>A corporation is not taken for the purposes of this Act to be related to another corporation (not being a corporation that carries on in Australia a business, whether or not that business is its sole or principal business, of selling goods by retail) unless the first-mentioned corporation is a foreign corporation, a trading corporation formed within the limits of Australia or a financial corporation so formed and: </dd> </dl></dl>
+
+<center>Back to Top</center>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the sole or principal business activities in Australia of the
+
+first-mentioned corporation are the borrowing of money and the provision of
+
+finance; or</dd>
+
+<dt>(b)</dt><dd>the sum of the amounts of such of the assets in Australia of the
+
+first-mentioned corporation as consist of debts due to that corporation, being
+
+debts resulting from transactions entered into in the course of the provision
+
+of finance by that corporation, exceeds:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>50%; or</dd>
+
+<dt>(ii)</dt><dd>if a greater or lesser percentage is prescribed by the regulations&#151;the
+
+percentage so prescribed;
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+		of the sum of the values of all the assets in Australia of that corporation.
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(3)</dt><dd>A corporation is not taken for the purposes of this Act to be related to
+
+another corporation (being a corporation that carries on in Australia a
+
+business, whether or not that business is its sole or principal business, of
+
+selling goods by retail) unless the first-mentioned corporation:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>is a foreign corporation, a trading corporation formed within the limits
+
+of Australia or a financial corporation so formed; and</dd>
+
+<dt>(b)</dt><dd>engages in the provision of finance in the course of carrying on in
+
+Australia a business, whether or not that business is its sole or principal
+
+business, of selling goods by retail.
+
+</dd>
+
+</dl></dl></dl>
+
+<center>**
+
+###  FINANCIAL SECTOR (COLLECTION OF DATA) ACT 2001<centreit>Notes to the _Financial Sector (Collection of Data) Act 2001_ </centreit>
+**</center>
+
+**Note 1**
+
+The _Financial Sector (Collection of Data) Act 2001_ as shown in this compilation comprises Act No.&#160;104, 2001 amended as indicated in the Tables below.
+ For application, saving or transitional provisions made by the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, _see_ Act No. 55, 2001.
+
+**Table of Acts**
+
+<table><tr align="left">
+  <th colspan="1" align="left">
+    <div>Act</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Number 
 and year</div>
-    </td>
-    <td>
-      <div>Date 
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Date 
 of Assent</div>
-    </td>
-    <td>
-      <div>Date of commencement</div>
-    </td>
-    <td>
-      <div>Application, 
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Date of commencement</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Application, 
 saving or 
 transitional 
 provisions</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>Financial Sector (Collection of Data) Act 2001</div>
+
+  </th>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Financial Sector (Collection of Data) Act 2001</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>104, 2001</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>17 Sept 2001</div>
+
   </td>
-  <td>
-    <div>Ss. 7–30: 1 July 2002 ( <i>see</i> <i>Gazette</i>2002, No. GN24) 
+  <td colspan="1" align="left">
+    <div>Ss. 7-30: 1 July 2002 ( <i>see</i> <i>Gazette</i>2002, No. GN24) 
 Remainder: Royal Assent</div>
+
   </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Corporations (Repeals, Consequentials and Transitionals) Act 2001</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Corporations (Repeals, Consequentials and Transitionals) Act 2001</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>55, 2001</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>28 June 2001</div>
+
   </td>
-  <td>
-    <div>Ss. 4–14 and Schedule 3 (item 191): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(a)</i></div>
+  <td colspan="1" align="left">
+    <div>Ss. 4-14 and Schedule 3 (item 191): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(a)</i></div>
+
   </td>
-  <td>
-    <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
+  <td colspan="1" align="left">
+    <div>Ss. 4-14</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>General Insurance Reform Act 2001</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>General Insurance Reform Act 2001</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>119, 2001</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>19 Sept 2001</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>Schedules 1 and 3: 1 July 2002 
 Remainder: Royal Assent</div>
+
   </td>
-  <td>
-    <div>—</div>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Medical Indemnity (Prudential Supervision and Product Standards) (Consequential Amendments) Act 2003</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Medical Indemnity (Prudential Supervision and Product Standards) (Consequential Amendments) Act 2003</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>36, 2003</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>2 May 2003</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>1 July 2003</div>
+
   </td>
-  <td>
-    <div>—</div>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
   </td>
+</tr></table>_(a)_ The _Financial Sector (Collection of Data) Act 2001_ was amended by Schedule 3 (item 191) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
+
+	(3)	Subject to subsections&#160;(4) to (10), Schedule&#160;3 commences, or is taken to have commenced, at the same time as the _Corporations Act 2001_.
+
+**Table of Amendments**
+
+<table><tr align="left">
+  <th colspan="1" align="left">
+    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+
+  </th>
 </tr>
-<tr>
-  <td>
-    <div>Private Health Insurance (Transitional Provisions and Consequential Amendments) Act 2007</div>
-  </td>
-  <td>
-    <div>32, 2007</div>
-  </td>
-  <td>
-    <div>30 Mar 2007</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 10): 1 Apr 2007 ( <i>see</i>s. 2(1))</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
-
-_(a)_ The _Financial Sector (Collection of Data) Act 2001_ was amended by Schedule 3 (item 191) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
-
-                 (3)   Subject to subsections (4) to (10), Schedule 3 commences, or is taken to have commenced, at the same time as the _Corporations Act 2001_.
-
-## Table of Amendments
-
-<table>
-<colgroup>
-  <col width="34%">
-  <col width="66%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Provision affected</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>How affected</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div><b>Part 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 5</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>am. No. 119, 2001; No. 36, 2003</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 5A</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>ad. No. 36, 2003</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 34</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>am. No. 55, 2001</div>
+
   </td>
 </tr></table>
 
- 
 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
