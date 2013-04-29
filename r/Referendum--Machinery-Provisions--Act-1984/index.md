@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00204/Html/ReferMachProv1984WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00454/Html/ReferMachProv1984WD02_image001.gif)
 
 # Referendum (Machinery Provisions) Act 1984
 
 **Act No. 44 of 1984 as amended**
 
-This compilation was prepared on 3 March 2010
- taking into account amendments up to Act No. 8 of 2010
+This compilation was prepared on 17 July 2008
+ taking into account amendments up to Act No. 73 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -358,7 +358,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [121](#121).        Printing and publication of advertisements, notices etc 
 
-[121A](#121A).     Publication of advertisements on the internet
+[121A](#121A).     Publication of advertisements on the Internet
 
 [122](#122).        Misleading or deceptive publications etc 
 
@@ -818,7 +818,7 @@ the Electoral Commissioner shall, unless the Minister informs the Electoral Comm
 
                     (ab)  the preparation, by or on behalf of the Electoral Commission, of presentations of material contained in those pamphlets in forms suitable for the visually impaired;
 
-                    (ac)  the distribution or publication, by or on behalf of the Electoral Commission, of those pamphlets, translations or presentations (including publication on the internet);
+                    (ac)  the distribution or publication, by or on behalf of the Electoral Commission, of those pamphlets, translations or presentations (including publication on the Internet);
 
                      (b)  the provision by the Electoral Commission of other information relating to, or relating to the effect of, the proposed law; or
 
@@ -3505,15 +3505,15 @@ is guilty of an offence punishable on conviction by a fine not exceeding $1,000.
 
                     <a name="address"></a>**_address_** of a person means an address, including a full street address and suburb or locality, at which the person can usually be contacted during the day. It does not include a post office box.
 
-##### <a id="121A"></a>121A  Publication of advertisements on the internet
+##### <a id="121A"></a>121A  Publication of advertisements on the Internet
 
              (1)  A person commits an offence if:
 
                      (a)  either:
 
-                              (i)  the person publishes an advertisement relating to a referendum on the internet; or
+                              (i)  the person publishes an advertisement relating to a referendum on the Internet; or
 
-                             (ii)  the person causes, permits or authorises an advertisement relating to a referendum to be published on the internet; and
+                             (ii)  the person causes, permits or authorises an advertisement relating to a referendum to be published on the Internet; and
 
                      (b)  the advertisement is intended to affect voting in the referendum; and
 
@@ -3523,7 +3523,7 @@ is guilty of an offence punishable on conviction by a fine not exceeding $1,000.
 
                     Penalty:  10 penalty units.
 
-             (2)  Subsection (1) does not apply if the matter published on the internet forms part of a general commentary on a website.
+             (2)  Subsection (1) does not apply if the matter published on the Internet forms part of a general commentary on a website.
 
 Note:          A defendant bears an evidential burden in relation to the matter in subsection (2) (see subsection 13.3(3) of the _Criminal Code_).
 
@@ -3549,7 +3549,7 @@ Note:          A defendant bears a legal burden in relation to
 
              (7)  In this section, **_publish_** includes publish by radio or television.
 
-##### <a id="123"></a>123  False statements in relation to Rolls
+##### <a id="123"></a>123  False statements in relation to Rolls
 
                    A person who, on the voting day for a referendum, makes a statement to an elector, either orally or in writing, with respect to the enrolment of the elector that, to the knowledge of the first-mentioned person, is false or misleading in a material respect, is guilty of an offence punishable on conviction by a fine not exceeding $1,000 or imprisonment for a period not exceeding 6 months, or both.
 
@@ -3983,7 +3983,7 @@ the Federal Court may, on the application of the Electoral Commission, grant an 
 
 ##### <a id="144"></a>144  Regulations
 
-                   The Governor-General may make regulations, not inconsistent with this Act, prescribing matters:
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -4044,7 +4044,7 @@ FORM B
 
 <tr>
   <td>
-    <div> <img width="61" height="52" src="http://www.comlaw.gov.au/Details/C2010C00204/Html/ReferMachProv1984WD02_image002.gif">   <img width="98" height="31" src="http://www.comlaw.gov.au/Details/C2010C00204/Html/ReferMachProv1984WD02_image003.gif"> Commonwealth of Australia</div>
+    <div> <img width="61" height="52" src="http://www.comlaw.gov.au/Details/C2008C00454/Html/ReferMachProv1984WD02_image002.gif">   <img width="98" height="31" src="http://www.comlaw.gov.au/Details/C2008C00454/Html/ReferMachProv1984WD02_image003.gif"> Commonwealth of Australia</div>
     <div>BALLOT-PAPER</div>
     <div>\[ <i>Here insert name of State or Territory</i>]</div>
     <div>Referendum on proposed Constitution alteration</div>
@@ -4065,16 +4065,16 @@ FORM C
 
 <tr>
   <td>
-    <div> <img width="61" height="52" src="http://www.comlaw.gov.au/Details/C2010C00204/Html/ReferMachProv1984WD02_image002.gif">   <img width="98" height="30" src="http://www.comlaw.gov.au/Details/C2010C00204/Html/ReferMachProv1984WD02_image004.gif"> Commonwealth of Australia</div>
+    <div> <img width="61" height="52" src="http://www.comlaw.gov.au/Details/C2008C00454/Html/ReferMachProv1984WD02_image002.gif">   <img width="98" height="30" src="http://www.comlaw.gov.au/Details/C2008C00454/Html/ReferMachProv1984WD02_image004.gif"> Commonwealth of Australia</div>
     <div>BALLOT-PAPERS</div>
     <div>\[ <i>Here insert name of State or Territory</i>]</div>
     <div>Referendums on proposed Constitution alterations</div>
     <div><b>DIRECTIONS TO VOTER</b></div>
     <div>Write “YES” or “NO” in the space provided opposite each of the questions set out below.</div>
-    <div>___________________________________________________________</div>
+    <div>__________________________________________________________</div>
     <div>1\. \[ <i>Here set out the title of the first proposed law</i>]</div>
     <div>DO YOU APPROVE THIS PROPOSED ALTERATION?  </div>
-    <div>___________________________________________________________</div>
+    <div>__________________________________________________________</div>
     <div>2\. \[ <i>Here set out the title of the second proposed law</i>]</div>
     <div>DO YOU APPROVE THIS PROPOSED ALTERATION?  </div>
     <div></div>
@@ -4909,23 +4909,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2010</div>
-  </td>
-  <td>
-    <div>8, 2010</div>
-  </td>
-  <td>
-    <div>1 Mar 2010</div>
-  </td>
-  <td>
-    <div>Schedule 5 (item 137): <i>(i)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_ The _Referendum (Machinery Provisions) Act 1984_ was amended by section 116 only of the _Special Broadcasting Service Act 1991_, subsection 2(1) of which provides as follows:
@@ -5148,77 +5131,6 @@ _(h)_ Subsection 2(1) (item 7) of the _Electoral and Referendum Amendment (Pri
   </td>
 </tr></table>
 
-_(i)_      Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      31\. Schedule 5, items 1 to 51
-    </div>
-  </td>
-  <td>
-    <div>
-      The day this Act receives the Royal Assent.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 March 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      38\. Schedule 5, Parts 2 and 3
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the provision(s) covered by table item 31.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 March 2010
-    </div>
-  </td>
-</tr></table>
-
 ## Table of Amendments
 
 <table>
@@ -5359,7 +5271,7 @@ _(i)_      Subsection 2(1) (items 31 and 38) of the _Statute Law Revis
     <div>S. 11</div>
   </td>
   <td>
-    <div>am. No. 77, 1988; Nos. 22 and 146, 1999; No. 8, 2010</div>
+    <div>am. No. 77, 1988; Nos. 22 and 146, 1999</div>
   </td>
 </tr>
 <tr>
@@ -6782,26 +6694,10 @@ No. 219, 1992</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 121A</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 121A</div>
   </td>
   <td>
     <div>ad. No. 65, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
   </td>
 </tr>
 <tr>
