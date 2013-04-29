@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00724/Html/a152ed01-e956-4fbd-8abf-b58e1f5cd2a5_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00601/Html/CrimesatSea2000_WD02_image001.gif)
 
 # Crimes at Sea Act 2000
 
 **Act No. 13 of 2000 as amended**
 
-This compilation was prepared on 6 September 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 25 November 2008
+ taking into account amendments up to Act No. 117 of 2008
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -74,13 +74,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part 4—Limitations and exclusions**
 
-[7](#7).            Commonwealth Attorney‑General’s consent required for certain prosecutions
+[7](#7).            Commonwealth Attorney-General’s consent required for certain prosecutions
 
-[8](#8).            Non‑exclusion of consistent extraterritorial legislative schemes
+[8](#8).            Non-exclusion of consistent extraterritorial legislative schemes
 
 [9](#9).            Exclusion of certain laws from ambit of this scheme
 
-[10](#10).          Non‑application of scheme to the Joint Petroleum Development Area
+[10](#10).          Non-application of scheme to the Joint Petroleum Development Area
 
 **Part 5—Miscellaneous**
 
@@ -166,11 +166,11 @@ The Parliament of Australia therefore enacts:
 
                     <a name="intergovernment-agreem"></a>**_intergovernmental agreement_** means the intergovernmental agreement entered into under clause 5 of the cooperative scheme.
 
-                    <a name="joint-petroleum-develop-area"></a>**_Joint Petroleum Development Area_** has the same meaning as in the _Petroleum (Timor Sea Treaty) Act 2003_.
+                    <a name="joint-petroleum-develop-area"></a>**_Joint Petroleum Development Area_** has the same meaning as in the _Petroleum (__Timor Sea__Treaty) Act 2003_.
 
                     <a name="law-crimin-investig-procur-evid"></a>**_law of criminal investigation, procedure and evidence_** has the same meaning as in clause 1 of Schedule 1.
 
-                    <a name="petroleum"></a>**_petroleum_** has the same meaning as in the Treaty (within the meaning of the _Petroleum (Timor Sea Treaty) Act 2003_).
+                    <a name="petroleum"></a>**_petroleum_** has the same meaning as in the Treaty (within the meaning of the _Petroleum (__Timor Sea__Treaty) Act 2003_).
 
                     <a name="polic-offic"></a>**_police officer_** means a member or special member of the Australian Federal Police or a member of the police force or police service of a State or Territory.
 
@@ -192,7 +192,7 @@ The Parliament of Australia therefore enacts:
 
 ##### <a id="6"></a>6  Application of Australian criminal law outside the adjacent area
 
-             (1)  The substantive criminal law of the Jervis Bay Territory, as in force from time to time, applies at sea outside the adjacent area to a criminal act:
+             (1)  The substantive criminal law of the Jervis  Bay Territory, as in force from time to time, applies at sea outside the adjacent area to a criminal act:
 
                      (a)  on an Australian ship; or
 
@@ -200,7 +200,7 @@ The Parliament of Australia therefore enacts:
 
                      (c)  of a person who has abandoned, or temporarily left, an Australian ship and has not returned to land.
 
-             (2)  The substantive criminal law of the Jervis Bay Territory, as in force from time to time, applies at sea outside the adjacent area to a criminal act:
+             (2)  The substantive criminal law of the Jervis  Bay Territory, as in force from time to time, applies at sea outside the adjacent area to a criminal act:
 
                      (a)  of an Australian citizen (other than a member of the crew) on a foreign ship; or
 
@@ -208,7 +208,7 @@ The Parliament of Australia therefore enacts:
 
                      (c)  of an Australian citizen who has abandoned, or temporarily left, a foreign ship and has not returned to land.
 
-             (3)  The substantive criminal law of the Jervis Bay Territory, as in force from time to time, is taken to have applied at sea outside the adjacent area to a criminal act:
+             (3)  The substantive criminal law of the Jervis  Bay Territory, as in force from time to time, is taken to have applied at sea outside the adjacent area to a criminal act:
 
                      (a)  on a foreign ship; or
 
@@ -218,11 +218,11 @@ The Parliament of Australia therefore enacts:
 
 if the first country at which the ship calls, or the person lands, after the criminal act, is Australia or an external territory of Australia.
 
-             (4)  A charge of an offence that arises under this section cannot proceed to hearing or determination or, if the offence is an indictable offence, to preliminary examination in committal proceedings, unless the Attorney‑General consents in writing to the hearing and determination of the charge.
+             (4)  A charge of an offence that arises under this section cannot proceed to hearing or determination or, if the offence is an indictable offence, to preliminary examination in committal proceedings, unless the Attorney-General consents in writing to the hearing and determination of the charge.
 
-             (5)  Before granting such a consent, the Attorney‑General must take into account any views expressed by the government of a country other than Australia whose jurisdiction over the alleged offence is recognised under principles of international law.
+             (5)  Before granting such a consent, the Attorney-General must take into account any views expressed by the government of a country other than Australia whose jurisdiction over the alleged offence is recognised under principles of international law.
 
-             (6)  Even though the Attorney‑General has not granted such a consent, the absence of consent is not to prevent or delay:
+             (6)  Even though the Attorney-General has not granted such a consent, the absence of consent is not to prevent or delay:
 
                      (a)  the arrest of the suspected offender or proceedings related to arrest (such as proceedings for the issue and execution of a warrant); or
 
@@ -232,9 +232,9 @@ if the first country at which the ship calls, or the person lands, after the cri
 
                      (d)  proceedings for remanding the suspected offender in custody or on bail.
 
-             (7)  If the Attorney‑General declines to grant consent, the court in which the suspected offender has been charged with the offence must permanently stay proceedings on the charge.
+             (7)  If the Attorney-General declines to grant consent, the court in which the suspected offender has been charged with the offence must permanently stay proceedings on the charge.
 
-             (8)  In any proceedings, an apparently genuine document purporting to be a copy of a written consent granted by the Attorney‑General in accordance with this section will be accepted, in the absence of proof to the contrary, as proof of such consent.
+             (8)  In any proceedings, an apparently genuine document purporting to be a copy of a written consent granted by the Attorney-General in accordance with this section will be accepted, in the absence of proof to the contrary, as proof of such consent.
 
              (9)  If:
 
@@ -250,17 +250,17 @@ it is a defence to prove:
 
            (10)  This section does not apply to an act that takes place in:
 
-                     (a)  the territorial waters of Norfolk Island (within the meaning of the _Territorial Waters Act 1926_ of Norfolk Island); or
+                     (a)  the territorial waters of Norfolk  Island (within the meaning of the _Territorial Waters Act 1926_ of Norfolk  Island); or
 
                      (b)  the coastal sea (within the meaning of subsection 15B(4) of the _Acts Interpretation Act 1901_ of the Commonwealth) of any of the following Territories:
 
-                              (i)  the Territory of Christmas Island;
+                              (i)  the Territory of Christmas   Island;
 
                              (ii)  the Territory of Cocos (Keeling) Islands;
 
                             (iii)  the Australian  Antarctic Territory;
 
-                            (iv)  the Territory of Heard Island and McDonald Islands;
+                            (iv)  the Territory of Heard   Island and McDonald Islands;
 
                              (v)  the Territory of Ashmore and Cartier Islands;
 
@@ -268,7 +268,7 @@ it is a defence to prove:
 
            (11)  In this section:
 
-                    <a name="crimin-act"></a>**_criminal act_** means an act that would, if done in the Jervis Bay Territory, contravene the substantive criminal law of the Jervis Bay Territory.
+                    <a name="crimin-act"></a>**_criminal act_** means an act that would, if done in the Jervis Bay Territory, contravene the substantive criminal law of the Jervis  Bay Territory.
 
 ## Part 3A—Cooperation between Australia and East Timor in the enforcement of criminal law
 
@@ -280,7 +280,7 @@ it is a defence to prove:
 
                      (a)  an act done on or from a ship or aircraft; or
 
-                     (b)  an act done by a national of East Timor who is not also a national of Australia; or
+                     (b)  an act done by a national of East  Timor who is not also a national of Australia; or
 
                      (c)  an act done by a permanent resident of East Timor who is not also a national of Australia.
 
@@ -290,11 +290,11 @@ it is a defence to prove:
 
                      (b)  the person has incurred a penalty under a law in force in East Timor for such an offence; or
 
-                     (c)  a competent authority of East Timor has decided not to prosecute the person for such an offence.
+                     (c)  a competent authority of East  Timor has decided not to prosecute the person for such an offence.
 
-             (4)  A prosecution for an offence against a law applied by subsection (1) may only be heard and determined if the Attorney‑General consents in writing to the prosecution.
+             (4)  A prosecution for an offence against a law applied by subsection (1) may only be heard and determined if the Attorney-General consents in writing to the prosecution.
 
-             (5)  Although the Attorney‑General has not consented to a prosecution under subsection (4):
+             (5)  Although the Attorney-General has not consented to a prosecution under subsection (4):
 
                      (a)  a person may be arrested for the offence, and a warrant for the arrest of a person for the offence may be issued and executed; and
 
@@ -306,7 +306,7 @@ it is a defence to prove:
 
              (7)  In this section:
 
-                    <a name="crimin-act"></a>**_criminal act_** means an act that would, if done in the Northern Territory, contravene the substantive criminal law of the Northern Territory.
+                    <a name="crimin-act"></a>**_criminal act_** means an act that would, if done in the Northern Territory, contravene the substantive criminal law of the Northern   Territory.
 
                     <a name="state"></a>**_State_** includes the Northern Territory.
 
@@ -324,9 +324,9 @@ it is a defence to prove:
 
                             (iii)  a magistrate to whom application is made, according to the regulations, on behalf of East Timor is required to issue a warrant ordering a person specified in the warrant to hold the accused in custody for a period or periods the magistrate considers necessary to facilitate the transport of the accused in custody; and
 
-                            (iv)  the Attorney‑General may, on application on behalf of East Timor, authorise, in writing, a magistrate to issue a warrant ordering a person specified in the warrant to hold the accused in custody for a further specified period in order to facilitate the transport of the accused in custody; and
+                            (iv)  the Attorney-General may, on application on behalf of East Timor, authorise, in writing, a magistrate to issue a warrant ordering a person specified in the warrant to hold the accused in custody for a further specified period in order to facilitate the transport of the accused in custody; and
 
-                             (v)  the Attorney‑General may at any time direct a person having custody of the accused under this paragraph to release the accused; and
+                             (v)  the Attorney-General may at any time direct a person having custody of the accused under this paragraph to release the accused; and
 
                             (vi)  the total period of custody under subparagraphs (i) and (iii) must not exceed 96 hours.
 
@@ -358,7 +358,7 @@ it is a defence to prove:
 
                      (d)  prescribe the practice and procedure of magistrates in performing functions under regulations made for the purposes of this section.
 
-             (3)  A provision for detention of a person under this section may only authorise detention until the time it first becomes practicable to surrender the person to an appropriate authority of Australia or East Timor.
+             (3)  A provision for detention of a person under this section may only authorise detention until the time it first becomes practicable to surrender the person to an appropriate authority of Australia or  East Timor.
 
              (4)  A provision made under paragraph (2)(c) excludes the application of the _Extradition Act 1988_ from offences to which the provision applies.
 
@@ -374,7 +374,7 @@ it is a defence to prove:
 
 ##### <a id="9"></a>9  Regulations
 
-             (1)  The Governor‑General may make regulations prescribing matters:
+             (1)  The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -382,7 +382,7 @@ it is a defence to prove:
 
              (2)  However, this section does not authorise the making of regulations for the purposes of the cooperative scheme.
 
-Note:          The Governor‑General has power to make regulations for the purposes of the cooperative scheme under clause 12 of the scheme.
+Note:          The Governor-General has power to make regulations for the purposes of the cooperative scheme under clause 12 of the scheme.
 
 # Schedule 1—The cooperative scheme
 
@@ -418,7 +418,7 @@ _Note:       See section 5_
 
                     <a name="intergovernment-agreem"></a>**_intergovernmental agreement_** means the agreement entered into under clause 5 of this Schedule.
 
-                    <a name="joint-petroleum-develop-area"></a>**_Joint Petroleum Development Area_** has the same meaning as in the _Petroleum (Timor Sea Treaty) Act 2003_.
+                    <a name="joint-petroleum-develop-area"></a>**_Joint Petroleum Development Area_** has the same meaning as in the _Petroleum (__Timor Sea__Treaty) Act 2003_.
 
                     <a name="law-crimin-investig-procur-evid"></a>**_law of criminal investigation, procedure and evidence_** means law (including unwritten law) about:
 
@@ -434,7 +434,7 @@ _Note:       See section 5_
 
                       (f)  the capacity to plead to a charge, or to stand trial on a charge; or
 
-                     (g)  the classification of offences as indictable or summary offences (and sub‑classification within those classes); or
+                     (g)  the classification of offences as indictable or summary offences (and sub-classification within those classes); or
 
                      (h)  procedures for dealing with a charge of a summary offence; or
 
@@ -580,7 +580,7 @@ Example 2: Suppose that a person is charged by a State authority in a South Aust
 
 ##### <a id="5"></a>5  Intergovernmental agreement
 
-             (1)  The Commonwealth Attorney‑General, on behalf of the Commonwealth, and the participating State Ministers may enter into an agreement providing for the division of responsibility for administering and enforcing the law relating to maritime offences.
+             (1)  The Commonwealth Attorney-General, on behalf of the Commonwealth, and the participating State Ministers may enter into an agreement providing for the division of responsibility for administering and enforcing the law relating to maritime offences.
 
              (2)  The intergovernmental agreement may provide for concurrent responsibility in specified parts of the adjacent area.
 
@@ -588,7 +588,7 @@ Example 2: Suppose that a person is charged by a State authority in a South Aust
 
              (1)  A charge of a maritime offence must not be brought in a court contrary to the intergovernmental agreement.
 
-             (2)  If a charge of a maritime offence is brought in a court in contravention of subclause (1), the court must, on application by the Commonwealth Attorney‑General or a participating State Minister, permanently stay the proceedings in that court.
+             (2)  If a charge of a maritime offence is brought in a court in contravention of subclause (1), the court must, on application by the Commonwealth Attorney-General or a participating State Minister, permanently stay the proceedings in that court.
 
              (3)  However:
 
@@ -598,9 +598,9 @@ Example 2: Suppose that a person is charged by a State authority in a South Aust
 
 ## Part 4—Limitations and exclusions
 
-##### <a id="7"></a>7  Commonwealth Attorney‑General’s consent required for certain prosecutions
+##### <a id="7"></a>7  Commonwealth Attorney-General’s consent required for certain prosecutions
 
-             (1)  The Commonwealth Attorney‑General’s written consent is required before a charge of a maritime offence can proceed to hearing or determination or, if the offence is an indictable offence, to a preliminary examination in committal proceedings, if:
+             (1)  The Commonwealth Attorney-General’s written consent is required before a charge of a maritime offence can proceed to hearing or determination or, if the offence is an indictable offence, to a preliminary examination in committal proceedings, if:
 
                      (a)  the offence is alleged to have been committed on or from a foreign ship; and
 
@@ -608,9 +608,9 @@ Example 2: Suppose that a person is charged by a State authority in a South Aust
 
                      (c)  the country of registration has, under international law, jurisdiction over the alleged offence.
 
-             (2)  Before granting such a consent, the Commonwealth Attorney‑General must take into account any views expressed by the government of the country of registration.
+             (2)  Before granting such a consent, the Commonwealth Attorney-General must take into account any views expressed by the government of the country of registration.
 
-             (3)  Even though the Commonwealth Attorney‑General has not granted such a consent, the absence of consent is not to prevent or delay:
+             (3)  Even though the Commonwealth Attorney-General has not granted such a consent, the absence of consent is not to prevent or delay:
 
                      (a)  the arrest of the suspected offender or proceedings related to arrest (such as proceedings for the issue and execution of a warrant); or
 
@@ -620,11 +620,11 @@ Example 2: Suppose that a person is charged by a State authority in a South Aust
 
                      (d)  proceedings for remanding the suspected offender in custody or on bail.
 
-             (4)  If the Commonwealth Attorney‑General declines to grant consent, the court in which the suspected offender has been charged with the offence must permanently stay the proceedings.
+             (4)  If the Commonwealth Attorney-General declines to grant consent, the court in which the suspected offender has been charged with the offence must permanently stay the proceedings.
 
-             (5)  In any proceedings, an apparently genuine document purporting to be a copy of a written consent granted by the Commonwealth Attorney‑General in accordance with this clause will be accepted, in the absence of proof to the contrary, as proof of such consent.
+             (5)  In any proceedings, an apparently genuine document purporting to be a copy of a written consent granted by the Commonwealth Attorney-General in accordance with this clause will be accepted, in the absence of proof to the contrary, as proof of such consent.
 
-##### <a id="8"></a>8  Non‑exclusion of consistent extraterritorial legislative schemes
+##### <a id="8"></a>8  Non-exclusion of consistent extraterritorial legislative schemes
 
                    This scheme does not exclude the extraterritorial operation of State law to the extent that the State law is capable of operating extraterritorially consistently with the scheme.
 
@@ -632,7 +632,7 @@ Example 2: Suppose that a person is charged by a State authority in a South Aust
 
                    This scheme does not apply to State and Commonwealth laws excluded by regulation from the ambit of the scheme.
 
-##### <a id="10"></a>10  Non‑application of scheme to the Joint Petroleum Development Area
+##### <a id="10"></a>10  Non-application of scheme to the Joint Petroleum Development Area
 
                    This scheme does not apply to the Joint Petroleum Development Area.
 
@@ -640,11 +640,11 @@ Example 2: Suppose that a person is charged by a State authority in a South Aust
 
 ##### <a id="11"></a>11  Interpretation
 
-                   The _Acts Interpretation Act 1901_ (Commonwealth) applies to this scheme in the same way as to a Commonwealth Act.
+                   The _Acts Interpretation Act 1901_ (Commonwealth) applies to this scheme in the same way as to a Commonwealth Act.
 
 ##### <a id="12"></a>12  Regulations
 
-             (1)  The Governor‑General may make regulations prescribing matters:
+             (1)  The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this scheme to be prescribed; or
 
@@ -658,13 +658,13 @@ Example 2: Suppose that a person is charged by a State authority in a South Aust
 
                    In this Part:
 
-                    <a name="baselin-australia-territori-sea"></a>**_baseline of Australia’s territorial sea_** means the baseline from which the breadth of the territorial sea is to be measured under section 7 of the _Seas and Submerged Lands Act 1973_ (Commonwealth).
+                    <a name="territori-sea"></a><a name="australia"></a><a name="baselin"></a>**_baseline of_****_Australia_****_’s territorial sea_** means the baseline from which the breadth of the territorial sea is to be measured under section 7 of the _Seas and Submerged Lands Act 1973_ (Commonwealth).
 
                     <a name="continent-shelf"></a>**_continental shelf_** has the same meaning as in the _Seas and Submerged Lands Act 1973_ (Commonwealth).
 
                     <a name="territori-sea"></a>**_territorial sea_** has the same meaning as in the _Seas and Submerged Lands Act 1973_ (Commonwealth).
 
-##### <a id="14"></a>14  Adjacent areas
+##### <a id="14"></a>14  Adjacent areas
 
              (1)  The **_adjacent area_** for New South Wales, Victoria, South Australia or Tasmania is so much of the area described in Schedule 1 to the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_ (Commonwealth) in relation to that State as is within the outer limits of the continental shelf and includes the space above and below that area.
 
@@ -672,13 +672,13 @@ Example 2: Suppose that a person is charged by a State authority in a South Aust
 
                      (a)  so much of the area described in Schedule 1 to the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_ (Commonwealth) in relation to Queensland as is within the outer limits of the continental shelf; and
 
-                     (b)  the Coral Sea area (within the meaning of subsection 7(2) of the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_ (Commonwealth)) other than the territorial sea within the Coral Sea area; and
+                     (b)  the Coral Sea area (within the meaning of subsection 7(2) of the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_ (Commonwealth)) other than the territorial sea within the Coral  Sea area; and
 
                      (c)  the areas within the outer limits of the territorial sea adjacent to certain islands of Queensland as determined by proclamation on 4 February 1983 under section 7 of the _Seas and Submerged Lands Act 1973_ (Commonwealth); and
 
                      (d)  the space above and below the areas described in paragraphs (a), (b) and (c).
 
-             (3)  The **_adjacent area_** for Western Australia is so much of the area described in Schedule 1 to the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_ (Commonwealth) in relation to   Western Australia as:
+             (3)  The **_adjacent area_** for Western   Australia is so much of the area described in Schedule 1 to the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_ (Commonwealth) in relation to   Western Australia as:
 
                      (a)  is within the outer limits of the continental shelf; and
 
@@ -686,7 +686,7 @@ Example 2: Suppose that a person is charged by a State authority in a South Aust
 
 and includes the space above and below that area.
 
-             (4)  The **_adjacent area_** for the Northern Territory is:
+             (4)  The **_adjacent area_** for the Northern   Territory is:
 
                      (a)  so much of the area described in Schedule 1 to the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_ (Commonwealth) in relation to the Northern Territory as:
 
@@ -694,7 +694,7 @@ and includes the space above and below that area.
 
                              (ii)  is not within the Joint Petroleum Development Area; and
 
-                     (b)  the offshore area for the Territory of Ashmore and Cartier Islands (within the meaning of subsection 7(1) of the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_ (Commonwealth)) other than the territorial sea within that area; and
+                     (b)  the offshore area for the Territory  of Ashmore and Cartier Islands (within the meaning of subsection 7(1) of the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_ (Commonwealth)) other than the territorial sea within that area; and
 
                      (c)  the space above and below the areas described in paragraphs (a) and (b).
 
@@ -712,7 +712,7 @@ and includes the space above and below that area.
 
 # Appendix 1—Indicative map [_see_ Note 2]
 
-![](http://www.comlaw.gov.au/Details/C2011C00724/Html/a152ed01-e956-4fbd-8abf-b58e1f5cd2a5_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00601/Html/CrimesatSea2000_WD02_image002.gif)
 
  
 
@@ -729,7 +729,7 @@ Crimes Act 1914
 Crimes at Sea Act 1979
  \[repealed by Act No. 13, 2000, Schedule 2, item 3]
 
-Nuclear Non‑Proliferation (Safeguards) Act 1987
+Nuclear Non-Proliferation (Safeguards) Act 1987
 
 Offshore Minerals Act 1994
 
@@ -749,11 +749,11 @@ For access to the wording of the amendments made by this Schedule, _see_ Act No.
 
 ## 11  Application of amendments
 
-(1)       The amendments made by this Schedule apply to acts and omissions that take place after this Schedule commences.
+(1)        The amendments made by this Schedule apply to acts and omissions that take place after this Schedule commences.
 
-(2)       Although this Schedule repeals the _Crimes at Sea Act 1979_, that Act continues to apply, in relation to acts and omissions that took place before this Schedule commences, as if the repeal had not happened.
+(2)        Although this Schedule repeals the _Crimes at Sea Act 1979_, that Act continues to apply, in relation to acts and omissions that took place before this Schedule commences, as if the repeal had not happened.
 
-(3)       For the purposes of this item, if an act or omission is alleged to have taken place between two dates, one before and one on or after the day on which this Schedule commences, the act or omission is alleged to have taken place before this Schedule commences.
+(3)        For the purposes of this item, if an act or omission is alleged to have taken place between two dates, one before and one on or after the day on which this Schedule commences, the act or omission is alleged to have taken place before this Schedule commences.
 
 # Notes to the _Crimes at Sea Act 2000_
 
@@ -898,23 +898,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 457, 458) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 3 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11)</div>
   </td>
 </tr></table>
 
@@ -1108,7 +1091,7 @@ _(a)_     The _Crimes at Sea Act 2000_ was amended by Schedule 2 (item
 
 ### Note 2
 
-Appendix 1 to Schedule 1—Schedule 1 (item 18) of the _Petroleum (Timor Sea Treaty) (Consequential Amendments) Act 2003_ provides as follows: 
+Appendix 1 to Schedule 1—Schedule 1 (item 18) of the _Petroleum (__Timor Sea__Treaty) (Consequential Amendments) Act 2003_ provides as follows: 
 
 ## Schedule 1
 
@@ -1117,24 +1100,6 @@ Appendix 1 to Schedule 1—Schedule 1 (item 18) of the _Petroleum (Timor S
 Omit “Area A of the Zone of Cooperation”, substitute “the Joint Petroleum Development Area”.
 
 This amendment is in force but has not been incorporated in this compilation.
-
-### Note 3
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 457  Clause 13 of Schedule 1 (definition of _continental shelf_)
-
-Repeal the definition.
-
-## 458  Clause 13 of Schedule 1 (definition of _territorial sea_)
-
-Repeal the definition.
-
-As at 6 September 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -1147,21 +1112,5 @@ _Crimes Legislation Enhancement Act 2003 (No. 41, 2003)_
 ##### <a id="4"></a>4  Application
 
                    The amendments of the _Crimes at Sea Act 2000_ made by this Schedule apply in relation to conduct engaged in after the start of the day on which this Act receives the Royal Assent.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
