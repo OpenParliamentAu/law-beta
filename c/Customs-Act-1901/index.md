@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2013C00064/Html/2dc7c319-7b47-42d8-be4b-e8a9a3da954e_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2013C00054/Html/0ec1dfba-4c1f-44ba-92b7-ffd873a3593b_files/image001.gif)
 
 # Customs Act 1901
 
 **Act No. 6 of 1901 as amended**
 
-This compilation was prepared on 23 January 2013
+This compilation was prepared on 24 December 2012
  taking into account amendments up to Act No. 196 of 2012
 
 **Volume 1** includes:     Table of Contents
@@ -27,7 +27,7 @@ The operation of amendments that have been incorporated may be
                                      Table of Acts
                                      Act Notes
                                      Table of Amendments
-                                     Notes 2 – 4
+                                     Notes 2 – 5
                                      Table A
 
 Prepared by the Office of Parliamentary Counsel, Canberra
@@ -194,11 +194,11 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [64AB](#64AB).    Cargo reports
 
-64ABAA  Outturn reports
+64ABAA Outturn reports
 
-64ABAB  When outturn report is to be communicated to Customs
+64ABAB When outturn report is to be communicated to Customs
 
-64ABAC  Explanation of shortlanded or surplus cargo
+64ABAC Explanation of shortlanded or surplus cargo
 
 [64ACA](#64ACA). Passenger reports
 
@@ -210,7 +210,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [64ACE](#64ACE).  Communication of reports
 
-64ADAA  Requirements for communicating to Customs electronically
+64ADAA Requirements for communicating to Customs electronically
 
 [64ADA](#64ADA). Disclosure of cargo reports to port authorities
 
@@ -284,47 +284,57 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
         **Subdivision AA—Information and grant of authority to deal with Subdivision AA goods**
 
-71AAAA  Meaning of _Subdivision AA goods_
+71AAAA Meaning of _Subdivision AA goods_
 
-71AAAB  Report and grant of authority to deal with Subdivision AA goods
+71AAAB Report and grant of authority to deal with Subdivision AA 
+ goods
 
-71AAAC  Suspension of authority to deal with Subdivision AA goods
+71AAAC Suspension of authority to deal with Subdivision AA goods
 
         **Subdivision AB—Information and grant of authority to deal with specified low value goods**
 
-71AAAD  Meaning of _specified low value goods_
+71AAAD Meaning of _specified low value goods_
 
-71AAAE  Regulations
+71AAAE Regulations
 
-71AAAF  Making a self‑assessed clearance declaration
+71AAAF Making a self‑assessed clearance declaration
 
-71AAAG  Customs’ response if a self‑assessed clearance declaration is communicated separately from a cargo report
+71AAAG Customs’ response if a self‑assessed clearance declaration is 
+ communicated separately from a cargo report
 
-71AAAH  Customs’ response if a self‑assessed clearance declaration is communicated together with a cargo report
+71AAAH Customs’ response if a self‑assessed clearance declaration is 
+ communicated together with a cargo report
 
-71AAAI  Authority to deal with goods covered by a self‑assessed clearance declaration
+71AAAI Authority to deal with goods covered by a self‑assessed clearance declaration
 
-71AAAJ  Contents of authority to deal with specified low value goods
+71AAAJ Contents of authority to deal with specified low value goods
 
-71AAAK  No authority to deal with specified low value goods while subject to a direction to hold or further examine
+71AAAK No authority to deal with specified low value goods while 
+ subject to a direction to hold or further examine
 
-[71AAAL  No authority to deal with specified low value goods unless duty etc](#71AAAL  No authority to deal with specified low value goods unless duty etc). paid [_see_ Note 2]
+[71AAAL No authority to deal with specified low value goods unless  duty etc](#71AAAL No authority to deal with specified low value goods unless  duty etc). paid [_see_ Note 2]
 
-71AAAM  Suspension of authority to deal with specified low value goods
+71AAAM Suspension of authority to deal with specified low value 
+ goods
 
-71AAAN  Cancellation of authority to deal with specified low value goods
+71AAAN Cancellation of authority to deal with specified low value 
+ goods
 
-71AAAO  Officer may seek further information in relation to self‑assessed clearance declaration
+71AAAO Officer may seek further information in relation to 
+ self‑assessed clearance declaration
 
-71AAAP  Withdrawal of self‑assessed clearance declarations
+71AAAP Withdrawal of self‑assessed clearance declarations
 
-71AAAQ  Further self‑assessed clearance declaration not to be given while there is an existing self‑assessed clearance declaration
+71AAAQ Further self‑assessed clearance declaration not to be given 
+ while there is an existing self‑assessed clearance declaration
 
-71AAAR  Effect of withdrawal of a self‑assessed clearance declaration
+71AAAR Effect of withdrawal of a self‑assessed clearance declaration
 
-71AAAS  Annotation of self‑assessed clearance declaration by Customs for certain purposes not to constitute withdrawal
+71AAAS Annotation of self‑assessed clearance declaration by 
+ Customs for certain purposes not to constitute withdrawal
 
-71AAAT  Manner and effect of communicating self‑assessed clearance declarations to Customs
+71AAAT Manner and effect of communicating self‑assessed clearance 
+ declarations to Customs
 
         **Subdivision B—Import declarations**
 
@@ -398,8 +408,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [77](#77).          Repacking on wharf
 
-[77AA](#77AA).    Disclosure of information to cargo reporter or owner of 
- goods
+[77AA](#77AA).    Disclosure of information to cargo reporter or owner of goods
 
     **Division 5—Detention of goods in the public interest**
 
@@ -755,23 +764,13 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
     **Division 4E—Exportation of goods to Chile** 
 
-126AKA  Definitions
+126AKA Definitions
 
 126AKB Record keeping obligations
 
 126AKC Power to require records
 
-126AKD  Power to ask questions
-
-    **Division 4F—Exportation of goods to Malaysia** 
-
-126ALA Definitions
-
-126ALB Record keeping obligations
-
-126ALC Power to require records
-
-126ALD Power to ask questions
+126AKD Power to ask questions
 
     **Division 5—Miscellaneous**
 
@@ -919,8 +918,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
         **Subdivision B—Rules of origin of goods claimed to be the produce or manufacture of Singapore**
 
-[153V](#153V).     Goods claimed to be the produce or manufacture of 
- Singapore
+[153V](#153V).     Goods claimed to be the produce or manufacture of Singapore
 
 [153VA](#153VA).  Goods wholly manufactured in Singapore
 
@@ -1133,38 +1131,6 @@ Prepared by the Office of Parliamentary Counsel, Canberra
         **Subdivision F—Consignment**
 
 [153ZKJ](#153ZKJ). Consignment
-
-    **Division 1H—Malaysian originating goods** 
-
-        **Subdivision A—Preliminary**
-
-153ZLA Simplified outline
-
-[153ZLB](#153ZLB). Interpretation
-
-        **Subdivision B—Goods wholly obtained or produced in Malaysia or in Malaysia and Australia**
-
-[153ZLC](#153ZLC). Goods wholly obtained or produced in Malaysia or in Malaysia and Australia
-
-        **Subdivision C—Goods produced in Malaysia, or in Malaysia and Australia, from originating materials** 
-
-153ZLD Goods produced in Malaysia, or in Malaysia and Australia, from originating materials
-
-        **Subdivision D—Goods produced in Malaysia, or in Malaysia and Australia, from non‑originating materials**
-
-[153ZLE](#153ZLE). Goods produced in Malaysia, or in Malaysia and Australia, from non‑originating materials
-
-[153ZLF](#153ZLF). Packaging materials and containers
-
-153ZLG Non‑qualifying operations
-
-        **Subdivision E—Goods that are accessories, spare parts, tools or instructional or other information materials** 
-
-153ZLH Goods that are accessories, spare parts, tools or instructional or other information materials
-
-        **Subdivision F—Consignment**
-
-[153ZLI](#153ZLI).  Consignment
 
     **Division 2—Valuation of imported goods**
 
@@ -2444,7 +2410,7 @@ shall, subject to subsections (2) and (3), be deemed to be part of Australia.
 
                      (c)  for the performance by all or any of the persons who are medical practitioners employed by that Territory of the functions of a medical practitioner under Division 1B of Part XII.
 
-##### <a id="13"></a>13  Customs Seal
+##### <a id="13"></a>13  Customs Seal
 
              (1)  The Customs shall have a seal, called the Customs Seal, the design of which shall be determined by the CEO.
 
@@ -2498,7 +2464,7 @@ shall, subject to subsections (2) and (3), be deemed to be part of Australia.
 
 ##### <a id="17"></a>17  Appointment of sufferance wharfs etc.
 
-                   The CEO may by _Gazette_ notice:
+                   The CEO may by _Gazette_ notice:
 
                      (a)  Appoint sufferance wharfs in any port.
 
@@ -5942,7 +5908,7 @@ Note:          The CEO may make business rules that a person w
 
              (5)  The existence of an import information contract does not affect the exercise by the CEO of any powers conferred on him or her by or under this Act.
 
-##### <a id="71DE"></a>71DE  Authority to deal with goods in respect of which an RCR has been made
+##### <a id="71DE"></a>71DE  Authority to deal with goods in respect of which an RCR has been made
 
              (1)  If an RCR in respect of goods has been communicated to Customs, Customs must give a cargo release advice electronically in accordance with this section.
 
@@ -7090,7 +7056,7 @@ the former holder is entitled to a refund of an amount worked out using the form
 
           (1A)  For the purposes of subsection (1), the formula is:
 
-![](http://www.comlaw.gov.au/Details/C2013C00064/Html/2dc7c319-7b47-42d8-be4b-e8a9a3da954e_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2013C00054/Html/0ec1dfba-4c1f-44ba-92b7-ffd873a3593b_files/image002.gif)
 
 where:
 
@@ -8030,7 +7996,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                    All customable beverage imported into Australia in bulk containers must initially either be entered for warehousing under paragraph 68(2)(b) or for transhipment under paragraph 68(2)(c).
 
-##### <a id="105"></a>105  Certain customable beverage not to be entered for home consumption in bulk containers without CEO’s approval
+##### <a id="105"></a>105  Certain customable beverage not to be entered for home consumption in bulk containers without CEO’s approval
 
              (1)  Customable beverage that has been imported into Australia in bulk containers and entered for warehousing must not be entered for home consumption unless:
 
@@ -8676,7 +8642,7 @@ are not included in the personal or household effects of that passenger or crew 
 
 ##### <a id="113AA"></a>113AA  How an entry of goods for export is made
 
-                   An entry of goods for export is made by:
+                   An entry of goods for export is made by:
 
                      (a)  making in respect of the goods an export declaration other than a declaration that Customs refuses under subsection 114(8) to accept; or
 
@@ -9834,60 +9800,6 @@ Disclosing answers to Chilean customs official
 
              (2)  An authorised officer may, for the purpose of verifying a claim for a preferential tariff in Chile, disclose any answers to such questions to a Chilean customs official.
 
-### Division 4F—Exportation of goods to Malaysia
-
-##### <a id="126ALA"></a>126ALA  Definitions
-
-                   In this Division:
-
-                    <a name="malaysian-custom-offici"></a>**_Malaysian customs official_** means a person representing the customs administration of Malaysia.
-
-                    <a name="produc"></a>**_producer_** means a person who grows, plants, mines, harvests, farms, raises, breeds, extracts, gathers, collects, captures, fishes, traps, hunts, manufactures, processes or assembles goods.
-
-##### <a id="126ALB"></a>126ALB  Record keeping obligations
-
-Regulations may prescribe record keeping obligations
-
-             (1)  The regulations may prescribe record keeping obligations that apply in relation to goods that:
-
-                     (a)  are exported to Malaysia; and
-
-                     (b)  are claimed to be Australian originating goods for the purpose of obtaining a preferential tariff in Malaysia.
-
-On whom obligations may be imposed
-
-             (2)  Regulations for the purposes of subsection (1) may impose such obligations on an exporter or producer of goods.
-
-##### <a id="126ALC"></a>126ALC  Power to require records
-
-Requirement to produce records
-
-             (1)  An authorised officer may require a person who is subject to record keeping obligations under regulations made for the purposes of section 126ALB to produce to the officer such of those records as the officer requires.
-
-Note:          Failing to produce a record when required to do so by an officer may be an offence: see section 243SB. However, a person does not have to produce a record if doing so would tend to incriminate the person: see section 243SC.
-
-Disclosing records to Malaysian customs official
-
-             (2)  An authorised officer may, for the purpose of verifying a claim for a preferential tariff in Malaysia _,_ disclose any records so produced to a Malaysian customs official.
-
-##### <a id="126ALD"></a>126ALD  Power to ask questions
-
-Power to ask questions
-
-             (1)  An authorised officer may require a person who is an exporter or producer of goods that:
-
-                     (a)  are exported to Malaysia; and
-
-                     (b)  are claimed to be Australian originating goods for the purpose of obtaining a preferential tariff in Malaysia;
-
-to answer questions in order to verify the origin of the goods.
-
-Note:          Failing to answer a question when required to do so by an officer may be an offence: see section 243SA. However, a person does not have to answer a question if doing so would tend to incriminate the person: see section 243SC.
-
-Disclosing answers to Malaysian customs official
-
-             (2)  An authorised officer may, for the purpose of verifying a claim for a preferential tariff in Malaysia, disclose any answers to such questions to a Malaysian customs official.
-
 ### Division 5—Miscellaneous
 
 ##### <a id="126A"></a>126A  Export of installations
@@ -10938,7 +10850,7 @@ Definition of **similar goods**
 
                      (c)  having regard to their qualifying area, their allowable factory cost is at least 50% of their total factory cost.
 
-##### <a id="153NA"></a>153NA  Manufactured goods originating in a Least Developed Country
+##### <a id="153NA"></a>153NA  Manufactured goods originating in a Least Developed Country
 
                    Goods claimed to be the manufacture of a Least Developed Country are the manufacture of that country if:
 
@@ -11500,9 +11412,9 @@ materials and originating materials, are US originating goods.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      Subdivision F sets out when
 
-accessories, spare parts or tools (imported with other goods) are US
+accessories, spare parts or tools (imported with other goods) are US originating
 
-originating goods.</li>
+goods.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      Subdivision G deals with
 
@@ -13234,7 +13146,7 @@ Note:          The value of the packaging material or containe
 
 #### Subdivision E—Goods that are accessories, spare parts, tools or instructional or other information materials
 
-##### <a id="153ZKI"></a>153ZKI  Goods that are accessories, spare parts, tools or instructional or other information materials
+##### <a id="153ZKI"></a>153ZKI  Goods that are accessories, spare parts, tools or instructional or other information materials
 
                    Goods are **_AANZ originating goods_** if:
 
@@ -13265,332 +13177,6 @@ Note:          The value of the packaging material or containe
                              (ii)  the goods enter the commerce of that country or place;
 
                             (iii)  the transport through that country or place is not justified by geographical, economic or logistical reasons.
-
-             (2)  This section applies despite any other provision of this Division.
-
-### Division 1H—Malaysian originating goods
-
-#### Subdivision A—Preliminary
-
-##### <a id="153ZLA"></a>153ZLA  Simplified outline
-
-                   The following is a simplified outline of this Division:
-
-* * *
-
-<li class="BoxList" style="margin-left:21.25pt">•      This Division defines **_Malaysian originating goods_**. Preferential rates of customs duty under the _Customs Tariff Act 1995_ apply to Malaysian originating goods that are imported into
-
-Australia.</li>
-
-<li class="BoxList" style="margin-left:21.25pt">•      Subdivision B provides that
-
-goods are Malaysian originating goods  if they are wholly obtained
-
-or produced in Malaysia or in Malaysia and Australia.</li>
-
-<li class="BoxList" style="margin-left:21.25pt">•      Subdivision C provides that
-
-goods are Malaysian originating goods  if they are produced
-
-entirely in Malaysia, or in Malaysia and Australia, from originating materials
-
-only.</li>
-
-<li class="BoxList" style="margin-left:21.25pt">•      Subdivision D sets out when
-
-goods are Malaysian originating goods because they are produced entirely in
-
-Malaysia, or in Malaysia and Australia, from non‑originating materials only or
-
-from non‑originating materials and originating materials.</li>
-
-<li class="BoxList" style="margin-left:21.25pt;page-break-after:avoid">•      Subdivision
-
-E sets out when goods are Malaysian originating goods because they are
-
-accessories, spare parts, tools or instructional or other information materials
-
-imported with other goods.</li>
-
-<li class="BoxList" style="margin-left:21.25pt">•      Subdivision F deals with
-
-how the consignment of goods affects whether the goods are Malaysian
-
-originating goods.</li>
-
-* * *
-
-##### <a id="153ZLB"></a>153ZLB  Interpretation
-
-Definitions
-
-             (1)  In this Division:
-
-                    <a name="agreem"></a>**_Agreement_** means the Malaysia‑Australia Free Trade Agreement, done at Kuala Lumpur on 22 May 2012, as amended from time to time.
-
-Note:          In 2012, the text of the Agreement was accessible through the Australian Treaties Library on the AustLII website (www.austlii.edu.au).
-
-                    <a name="aquacultur"></a>**_aquaculture_** has the meaning given by Article 3.1 of the Agreement.
-
-                    <a name="australian-originating-good"></a>**_Australian originating goods_** means goods that are Australian originating goods under a law of Malaysia that implements the Agreement.
-
-                    <a name="certif-origin"></a>**_Certificate of Origin_** means a certificate that is in force and that complies with the requirements of Articles 3.15 and 3.16, and Rule 7 of the Annex to Chapter 3, of the Agreement.
-
-                    <a name="convent"></a>**_Convention_** means the International Convention on the Harmonized Commodity Description and Coding System done at Brussels on 14 June 1983, as in force from time to time.
-
-Note:          The text of the Convention is set out in Australian Treaty Series 1988 No. 30 (\[1988] ATS 30). In 2012, the text of a Convention in the Australian Treaty Series was accessible through the Australian Treaties Library on the AustLII website (www.austlii.edu.au).
-
-                    <a name="custom-valu"></a>**_customs value_** of goods has the meaning given by section 159.
-
-                    <a name="declar-origin"></a>**_Declaration of Origin_** means a declaration that is in force and that complies with the requirements of Article 3.15, and Rule 7 of the Annex to Chapter 3, of the Agreement.
-
-                    <a name="harmon-system"></a>**_Harmonized System_** means the Harmonized Commodity Description and Coding System (as in force from time to time) that is established by or under the Convention.
-
-                    <a name="indirect-materi"></a>**_indirect materials_** means:
-
-                     (a)  goods or energy used in the production, testing or inspection of goods, but not physically incorporated in the goods; or
-
-                     (b)  goods or energy used in the maintenance of buildings or the operation of equipment associated with the production of goods;
-
-including:
-
-                     (c)  fuel (within its ordinary meaning); and
-
-                     (d)  tools, dies and moulds; and
-
-                     (e)  spare parts and materials; and
-
-                      (f)  lubricants, greases, compounding materials and other similar goods; and
-
-                     (g)  gloves, glasses, footwear, clothing, safety equipment and supplies; and
-
-                     (h)  catalysts and solvents.
-
-                    <a name="interpret-rule"></a>**_Interpretation Rules_** means the General Rules (as in force from time to time) for the Interpretation of the Harmonized System provided for by the Convention.
-
-                    <a name="jurid-person"></a>**_juridical person_** has the meaning given by Article 1.2 of the Agreement.
-
-                    <a name="malaysian-originating-good"></a>**_Malaysian originating goods_** means goods that, under this Division, are Malaysian originating goods.
-
-                    <a name="non-originating-materi"></a>**_non‑originating materials_** means goods that are not originating materials.
-
-                    <a name="originating-materi"></a>**_originating materials_** means:
-
-                     (a)  Malaysian originating goods that are used in the production of other goods; or
-
-                     (b)  Australian originating goods that are used in the production of other goods; or
-
-                     (c)  indirect materials.
-
-                    <a name="person-malaysia"></a>**_person of Malaysia_**means:
-
-                     (a)  a natural person of a Party within the meaning, so far as it relates to Malaysia, of Article 1.2 of the Agreement; or
-
-                     (b)  a juridical person of Malaysia.
-
-                    <a name="plant"></a>**_planted_** has the meaning given by Article 3.1 of the Agreement.
-
-                    <a name="produc"></a>**_produce_** means grow, plant, mine, harvest, farm, raise, breed, extract, gather, collect, capture, fish, trap, hunt, manufacture, process or assemble.
-
-                    <a name="territori-australia"></a>**_territory of Australia_** means territory within the meaning, so far as it relates to Australia, of Article 1.2 of the Agreement.
-
-                    <a name="territori-malaysia"></a>**_territory of Malaysia_** means territory within the meaning, so far as it relates to Malaysia, of Article 1.2 of the Agreement.
-
-Regional value content of goods
-
-             (2)  The **_regional value content_** of goods for the purposes of this Division is to be worked out in accordance with the regulations. The regulations may prescribe different regional value content rules for different kinds of goods.
-
-Value of goods
-
-             (3)  The **_value_** of goods for the purposes of this Division is to be worked out in accordance with the regulations. The regulations may prescribe different valuation rules for different kinds of goods.
-
-Tariff classifications
-
-             (4)  In prescribing tariff classifications for the purposes of this Division, the regulations may refer to the Harmonized System.
-
-             (5)  Subsection 4(3A) does not apply for the purposes of this Division.
-
-Incorporation of other instruments
-
-             (6)  Despite subsection 14(2) of the _Legislative Instruments Act 2003_, regulations made for the purposes of this Division may make provision in relation to a matter by applying, adopting or incorporating, with or without modification, any matter contained in an instrument or other writing as in force or existing from time to time.
-
-#### Subdivision B—Goods wholly obtained or produced in Malaysia or in Malaysia and Australia
-
-##### <a id="153ZLC"></a>153ZLC  Goods wholly obtained or produced in Malaysia or in Malaysia and Australia
-
-             (1)  Goods are **_Malaysian originating goods_** if:
-
-                     (a)  they are wholly obtained or produced in Malaysia or in Malaysia and Australia; and
-
-                     (b)  the importer of the goods has, at the time the goods are imported, a Declaration of Origin  or a Certificate of Origin, or a copy of one, for the goods.
-
-             (2)  Goods are **_wholly obtained or produced in Malaysia or in Malaysia and Australia_** if, and only if, the goods are:
-
-                     (a)  minerals, or other naturally occurring substances, extracted or taken in the territory of Malaysia; or
-
-                     (b)  plants formed, naturally grown or planted in the territory of Malaysia or in the territory of Malaysia and the territory of Australia, or products obtained in the territory of Malaysia from such plants; or
-
-                     (c)  live animals born and raised in the territory of Malaysia, or in the territory of Malaysia and the territory of Australia; or
-
-                     (d)  goods obtained from live animals in the territory of Malaysia; or
-
-                     (e)  goods obtained directly from hunting, trapping, fishing, gathering, capturing or aquaculture conducted in the territory of Malaysia; or
-
-                      (f)  fish, shellfish or plant or other marine life taken from the high seas by ships that are registered in Malaysia and are flying the flag of Malaysia; or
-
-                     (g)  goods obtained or produced from goods referred to in paragraph (f) on board factory ships that are registered in Malaysia and are flying the flag of Malaysia; or
-
-                     (h)  goods taken by Malaysia, or a person of Malaysia, from the seabed, or beneath the seabed, outside:
-
-                              (i)  the exclusive economic zone of Malaysia; and
-
-                             (ii)  the continental shelf of Malaysia; and
-
-                            (iii)  an area over which a third party exercises jurisdiction;
-
-                            and taken under exploitation rights granted in accordance with international law; or
-
-                      (i)  waste and scrap that has been derived from production or consumption in the territory of Malaysia and that is fit only for the recovery of raw materials; or
-
-                      (j)  used goods that are collected in the territory of Malaysia and that are fit only for the recovery of raw materials; or
-
-                     (k)  goods produced or obtained entirely in the territory of Malaysia, or in the territory of Malaysia and the territory of Australia, exclusively from goods referred to in paragraphs (a) to (j) or from their derivatives.
-
-#### Subdivision C—Goods produced in Malaysia, or in Malaysia and Australia, from originating materials
-
-##### <a id="153ZLD"></a>153ZLD  Goods produced in Malaysia, or in Malaysia and Australia, from originating materials
-
-                   Goods are **_Malaysian originating goods_** if:
-
-                     (a)  they are produced entirely in the territory of Malaysia, or entirely in the territory of Malaysia and the territory of Australia, from originating materials only; and
-
-                     (b)  the importer of the goods has, at the time the goods are imported, a Declaration of Origin  or a Certificate of Origin, or a copy of one, for the goods.
-
-#### Subdivision D—Goods produced in Malaysia, or in Malaysia and Australia, from non‑originating materials
-
-##### <a id="153ZLE"></a>153ZLE  Goods produced in Malaysia, or in Malaysia and Australia, from non‑originating materials
-
-             (1)  Goods are **_Malaysian originating goods_** if:
-
-                     (a)  they are classified to a heading or subheading of the Harmonized System specified in column 1 or 2 of the table in Schedule 1 to the _Customs (Malaysian Rules of Origin) Regulation 2012_; and
-
-                     (b)  they are produced entirely in the territory of Malaysia, or entirely in the territory of Malaysia and the territory of Australia, from non‑originating materials only or from non‑originating materials and originating materials; and
-
-                     (c)  each requirement that is prescribed by the regulations to apply in relation to the goods is satisfied; and
-
-                     (d)  the importer of the goods has, at the time the goods are imported, a Declaration of Origin  or a Certificate of Origin, or a copy of one, for the goods.
-
-Change in tariff classification
-
-             (2)  The regulations may prescribe that each non‑originating material used in the production of the goods is required to satisfy a prescribed change in tariff classification.
-
-             (3)  The regulations may also prescribe when a non‑originating material used in the production of the goods is taken to satisfy the change in tariff classification.
-
-             (4)  If:
-
-                     (a)  the requirement referred to in subsection (2) applies in relation to the goods; and
-
-                     (b)  one or more of the non‑originating materials used in the production of the goods do not satisfy the change in tariff classification;
-
-then the requirement referred to in subsection (2) is taken to be satisfied if the total value of those non‑originating materials does not exceed 10% of the customs value of the goods.
-
-             (5)  If:
-
-                     (a)  the requirement referred to in subsection (2) applies in relation to the goods; and
-
-                     (b)  the goods are classified to any of Chapters 50 to 63 of the Harmonized System; and
-
-                     (c)  one or more of the non‑originating materials used in the production of the goods do not satisfy the change in tariff classification;
-
-then the requirement referred to in subsection (2) is taken to be satisfied if the total weight of those non‑originating materials does not exceed 10% of the total weight of the goods.
-
-Regional value content
-
-             (6)  The regulations may prescribe that the goods are required to have a regional value content of at least a prescribed percentage.
-
-             (7)  If:
-
-                     (a)  the goods are required to have a regional value content of at least a particular percentage; and
-
-                     (b)  the goods are imported into Australia with accessories, spare parts, tools or instructional or other information materials; and
-
-                     (c)  the accessories, spare parts, tools or instructional or other information materials are not invoiced separately from the goods; and
-
-                     (d)  the quantities and value of the accessories, spare parts, tools or instructional or other information materials are customary for the goods;
-
-then the regulations must require the value of the accessories, spare parts, tools or instructional or other information materials to be taken into account as originating materials or non‑originating materials, as the case may be, for the purposes of working out the regional value content of the goods.
-
-Note:          The value of the accessories, spare parts, tools or instructional or other information materials is to be worked out in accordance with the regulations: see subsection 153ZLB(3).
-
-             (8)  For the purposes of subsection (7), disregard section 153ZLH in working out whether the accessories, spare parts, tools or instructional or other information materials are originating materials or non‑originating materials.
-
-No limit on regulations
-
-             (9)  Subsections (2) and (6) do not limit paragraph (1)(c).
-
-##### <a id="153ZLF"></a>153ZLF  Packaging materials and containers
-
-             (1)  If:
-
-                     (a)  goods are packaged for retail sale in packaging material or a container; and
-
-                     (b)  the packaging material or container is classified with the goods in accordance with Rule 5 of the Interpretation Rules;
-
-then the packaging material or container is to be disregarded for the purposes of this Subdivision.
-
-Regional value content
-
-             (2)  However, if the goods are required to have a regional value content of at least a particular percentage, the regulations must require the value of the packaging material or container to be taken into account as originating materials or non‑originating materials, as the case may be, for the purposes of working out the regional value content of the goods.
-
-             (3)  If the packaging material or container is not customary for the goods, the regulations must require the value of the packaging material or container to be taken into account as non‑originating materials for the purposes of working out the regional value content of the goods.
-
-Note:          The value of the packaging material or container is to be worked out in accordance with the regulations: see subsection 153ZLB(3).
-
-##### <a id="153ZLG"></a>153ZLG  Non‑qualifying operations
-
-                   Goods are not Malaysian originating goods under this Subdivision merely because of the following:
-
-                     (a)  operations to preserve goods in good condition for the purpose of transport or storage of the goods;
-
-                     (b)  operations to facilitate the shipment or transportation of goods;
-
-                     (c)  disassembly of goods;
-
-                     (d)  affixing of marks, labels or other distinguishing signs on goods or on their packaging;
-
-                     (e)  placing goods in bottles, cases or boxes or other simple packaging operations;
-
-                      (f)  changing of packaging or the breaking up or assembly of packages;
-
-                     (g)  the reclassification of goods without any physical change in the goods;
-
-                     (h)  any combination of things referred to in paragraphs (a) to (g).
-
-#### Subdivision E—Goods that are accessories, spare parts, tools or instructional or other information materials
-
-##### <a id="153ZLH"></a>153ZLH  Goods that are accessories, spare parts, tools or instructional or other information materials
-
-                   Goods are **_Malaysian originating goods_** if:
-
-                     (a)  they are accessories, spare parts, tools or instructional or other information materials in relation to other goods; and
-
-                     (b)  the other goods are imported into Australia with the accessories, spare parts, tools or instructional or other information materials; and
-
-                     (c)  the other goods are Malaysian originating goods; and
-
-                     (d)  the accessories, spare parts, tools or instructional or other information materials are not invoiced separately from the other goods; and
-
-                     (e)  the quantities and value of the accessories, spare parts, tools or instructional or other information materials are customary for the other goods.
-
-#### Subdivision F—Consignment
-
-##### <a id="153ZLI"></a>153ZLI  Consignment
-
-             (1)  Goods are not Malaysian originating goods under this Division if:
-
-                     (a)  they are transported through a country or place other than Malaysia or Australia; and
-
-                     (b)  they undergo subsequent production or any other operation in that country or place (other than unloading, reloading, storing, repacking, relabelling, exhibition or any operation that is necessary to preserve them in good condition or to transport them to Australia).
 
              (2)  This section applies despite any other provision of this Division.
 
@@ -15678,7 +15264,7 @@ shall, by writing, renew the licence unless:
 
 ##### <a id="183CP"></a>183CP  Notice to nominate new nominee
 
-                   If the broker’s licence of a customs agent ceases to comply with subsection 183C(2), the CEO may, by notice in writing served on the customs broker, require the customs broker to apply within such period as is specified in the notice, for such variation of the endorsements on the licence as would result in the licence complying with that subsection.
+                   If the broker’s licence of a customs agent ceases to comply with subsection 183C(2), the CEO may, by notice in writing served on the customs broker, require the customs broker to apply within such period as is specified in the notice, for such variation of the endorsements on the licence as would result in the licence complying with that subsection.
 
 ### Division 4—Suspension, revocation and non‑renewal of licences
 
