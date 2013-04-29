@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00826/Html/96448723-d4ec-4aef-a4cd-45f02cc6d685_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00543/Html/77551052-53d3-43e7-b31d-b6b2a3ca8bf1_files/image001.gif)
 
 # ComSuper Act 2011
 
 **Act No. 57 of 2011 as amended**
 
-This compilation was prepared on 16 November 2012
- taking into account amendments up to Act No. 136 of 2012
+This compilation was prepared on 4 July 2012
+ taking into account amendments up to Act No. 82 of 2012
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -41,7 +42,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [8](#8).            Function and powers of the CEO
 
-    **Division 2—Appointment of the CEO**
+**Division 2—Appointment of the CEO**
 
 [9](#9).            Appointment
 
@@ -71,7 +72,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [20](#20).          Consultants
 
-**Part 4—Finance and reporting requirements** 
+    **Part 4—Finance and reporting requirements** 
 
     **Division 1—ComSuper Special Account**
 
@@ -85,7 +86,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [24](#24).          Annual report
 
-**Part 5—Miscellaneous**
+    **Part 5—Miscellaneous**
 
 [25](#25).          Delegation by the CEO
 
@@ -99,7 +100,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 ## Part 1—Preliminary
 
-##### <a id="1"></a>1  Short title<span style="font-size:9.0pt; font-weight:normal"> [_see_ Note 1]</span>
+##### <a id="1"></a>1  Short title <span style="font-size:9.0pt; font-weight:normal">[_see_ Note 1]</span>
 
                    This Act may be cited as the _ComSuper Act 2011._
 
@@ -272,7 +273,7 @@ Note:          The CEO has other functions allowed by Commonwe
 
                             (b)   the regulations may provide that subsections (1) and (3) cease to have effect at a specified time.
 
-### Division 2—Appointment of the CEO
+## Division 2—Appointment of the CEO
 
 ##### <a id="9"></a>9  Appointment
 
@@ -290,13 +291,23 @@ Note:          The CEO is eligible for reappointment: see the 
 
 ##### <a id="11"></a>11  Acting CEO
 
-                   The Minister may appoint a person to act as CEO:
+             (1)  The Minister may appoint a person to act as CEO:
 
                      (a)  during a vacancy in the office of CEO, whether or not an appointment has previously been made to that office; or
 
                      (b)  during any period, or during all periods, when the CEO is absent from duty or from Australia or is, for any other reason, unable to perform the duties of the office of CEO.
 
-Note:          For rules that apply to acting appointments, see sections 33AB and 33A of the _Acts Interpretation Act 1901_.
+             (2)  Anything done by or in relation to a person purporting to act under subsection (1) is not invalid merely because:
+
+                     (a)  the occasion for the person’s appointment had not arisen; or
+
+                     (b)  there is a defect or irregularity in connection with the person’s appointment; or
+
+                     (c)  the person’s appointment had ceased to have effect; or
+
+                     (d)  the occasion for the person to act had not arisen or had ceased.
+
+Note:          See the _Acts Interpretation Act 1901_.
 
 ### Division 3—Terms and conditions of the CEO’s appointment
 
@@ -372,7 +383,7 @@ Note:          For rules that apply to acting appointments, se
 
                    The CEO may, on behalf of the Commonwealth, engage consultants to assist in the performance of the CEO’s function.
 
-## Part 4—Finance and reporting requirements
+### Part 4—Finance and reporting requirements
 
 ### Division 1—ComSuper Special Account
 
@@ -428,7 +439,7 @@ Contents of annual report
 
                      (c)  an audit report on those statements under section 57 of the _Financial Management and Accountability Act 1997_.
 
-## Part 5—Miscellaneous
+### Part 5—Miscellaneous
 
 ##### <a id="25"></a>25  Delegation by the CEO
 
@@ -471,9 +482,9 @@ For all relevant information pertaining to application, saving or transitional p
 <table>
 <colgroup>
   <col width="29%">
-  <col width="16%">
   <col width="17%">
-  <col width="21%">
+  <col width="17%">
+  <col width="19%">
   <col width="17%">
 </colgroup>
 
@@ -509,7 +520,7 @@ of Assent</div>
     <div>28 June 2011</div>
   </td>
   <td>
-    <div>Ss. 3–27: 1 July 2011 
+    <div>Ss. 3–27: 1 July 2011 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -527,27 +538,10 @@ Remainder: Royal Assent</div>
     <div>28 June 2012</div>
   </td>
   <td>
-    <div>Schedule 1 (item 32): 29 June 2012</div>
+    <div>Schedule 1 (item 32): 29 June 2012</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2012</div>
-  </td>
-  <td>
-    <div>136, 2012</div>
-  </td>
-  <td>
-    <div>22 Sept 2012</div>
-  </td>
-  <td>
-    <div>Schedule 4 (items 12–14, 50): Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 4 (item 50)</div>
   </td>
 </tr></table>
 
@@ -555,8 +549,8 @@ Remainder: Royal Assent</div>
 
 <table>
 <colgroup>
-  <col width="32%">
-  <col width="68%">
+  <col width="34%">
+  <col width="66%">
 </colgroup>
 
 <thead>
@@ -576,38 +570,6 @@ Remainder: Royal Assent</div>
 </thead>
 <tr>
   <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 11</div>
-  </td>
-  <td>
-    <div>am. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 11</div>
-  </td>
-  <td>
-    <div>ad. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part 5</b></div>
   </td>
   <td>
@@ -622,17 +584,5 @@ Remainder: Royal Assent</div>
     <div>am. No. 82, 2012</div>
   </td>
 </tr></table>
-
-## Table A
-
-### Application, saving or transitional provisions
-
-_Statute Law Revision Act 2012 (No. 136, 2012)_
-
-## Schedule 4
-
-## 50  Saving—appointments
-
-The amendments made by this Part do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
 
  
