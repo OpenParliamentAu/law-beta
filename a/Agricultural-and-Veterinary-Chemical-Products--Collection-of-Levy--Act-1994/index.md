@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2004C01704/Html/AgVetChemProdCollLevy1994_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C01703/Html/AgVetChemProdCollLevy94_image001.gif)
 
 # Agricultural and Veterinary Chemical Products (Collection of Levy) Act 1994
 
 **Act No. 41 of 1994 as amended**
 
-This compilation was prepared on 8 October 2003 
+This compilation was prepared on 30 April 2003 
  taking into account amendments up to Act No. 13 of 2003
 
 The text of any of those amendments not in force
@@ -18,89 +18,89 @@ Prepared by the Office of Legislative Drafting,
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]                                                                        1
+[1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Commencement [_see_ Note 1]                                                               1
+[2](#2).            Commencement [_see_ Note 1]
 
-[3](#3).            Interpretation                                                                                       1
+[3](#3).            Interpretation
 
-[4](#4).            Extension to certain external Territories                                              7
+[4](#4).            Extension to certain external Territories
 
-[5](#5).            Act to bind Crown                                                                               7
+[5](#5).            Act to bind Crown
 
-[5A](#5A).         Application of the _Criminal Code_                                                       7
+[5A](#5A).         Application of the _Criminal Code_
 
-[6](#6).            Power of NRA to make certain determinations                                   7
+[6](#6).            Power of NRA to make certain determinations
 
 **Part 2—Liability for levy**
 
-[8](#8).            Liability for levy in respect of disposals during 1994 and later years 9
+[8](#8).            Liability for levy in respect of disposals during 1994 and later years
 
-[9](#9).            Liability for levy in respect of disposals during first 6 months of 1995 or of a later year      9
+[9](#9).            Liability for levy in respect of disposals during first 6 months of 1995 or of a later year
 
-[11](#11).          Amount of levy imposed in respect of disposals during 1994 or a later year         10
+[11](#11).          Amount of levy imposed in respect of disposals during 1994 or a later year
 
-[12](#12).          Amount of levy imposed in respect of disposals during the first 6 months of 1995 or of a later year   11
+[12](#12).          Amount of levy imposed in respect of disposals during the first 6 months of 1995 or of a later year
 
-[13](#13).          Payment of levy                                                                                12
+[13](#13).          Payment of levy
 
-[14](#14).          Late payment penalty                                                                       12
+[14](#14).          Late payment penalty
 
 **Part 3—Calculation or assessment of levy**
 
-[15](#15).          Calculation of levy by person liable                                                  13
+[15](#15).          Calculation of levy by person liable
 
-[16](#16).          Assessment of levy by NRA                                                            14
+[16](#16).          Assessment of levy by NRA
 
-[17](#17).          Fresh assessments                                                                             16
+[17](#17).          Fresh assessments
 
-[18](#18).          Reconsideration and review of assessments                                      16
+[18](#18).          Reconsideration and review of assessments
 
 **Part 4—Enforcement**
 
-[19](#19).          Levy and late payment penalty recoverable as debts                        18
+[19](#19).          Levy and late payment penalty recoverable as debts
 
-[20](#20).          NRA may require information about disposals of chemical products 18
+[20](#20).          NRA may require information about disposals of chemical products
 
-[21](#21).          Searches to monitor compliance with Act                                         19
+[21](#21).          Searches to monitor compliance with Act
 
-[22](#22).          Offence-related searches and seizures                                               20
+[22](#22).          Offence-related searches and seizures
 
-[23](#23).          Power of inspector to require information or documents                  21
+[23](#23).          Power of inspector to require information or documents
 
-[24](#24).          Offence-related warrants                                                                   21
+[24](#24).          Offence-related warrants
 
-[25](#25).          Announcement before entry                                                              22
+[25](#25).          Announcement before entry
 
-[26](#26).          Details of warrant to be given to occupier                                         23
+[26](#26).          Details of warrant to be given to occupier
 
-[27](#27).          Use of equipment to examine or process things                                23
+[27](#27).          Use of equipment to examine or process things
 
-[28](#28).          Use of electronic equipment at premises                                           24
+[28](#28).          Use of electronic equipment at premises
 
-[29](#29).          Compensation for damage to electronic equipment                           25
+[29](#29).          Compensation for damage to electronic equipment
 
-[30](#30).          Copies of seized things to be provided                                             26
+[30](#30).          Copies of seized things to be provided
 
-[31](#31).          Return of things that are seized                                                         26
+[31](#31).          Return of things that are seized
 
-[32](#32).          Court of summary jurisdiction may permit a thing to be kept          27
+[32](#32).          Court of summary jurisdiction may permit a thing to be kept
 
 **Part 5—Miscellaneous**
 
-[33](#33).          Administrative Appeals Tribunal may review certain decisions by NRA              28
+[33](#33).          Administrative Appeals Tribunal may review certain decisions by NRA
 
-[34](#34).          Self-incrimination to be a reasonable excuse for non-compliance with requirement                28
+[34](#34).          Self-incrimination to be a reasonable excuse for non-compliance with requirement
 
-[35](#35).          Copying of documents                                                                      28
+[35](#35).          Copying of documents
 
-[36](#36).          Applicant for registration of chemical product to keep records        29
+[36](#36).          Applicant for registration of chemical product to keep records
 
-[38](#38).          Exemptions from liability for damages                                              29
+[38](#38).          Exemptions from liability for damages
 
-[39](#39).          Regulations                                                                                        29
+[39](#39).          Regulations
 
 **Notes** 
 
@@ -196,6 +196,14 @@ in respect of the product if, at that time, the product had been sold by the man
 
                     <a name="occupi"></a>**_occupier_**, in relation to any premises or a part of any premises, means the person in occupation, charge or control of the premises or of that part of the premises, as the case may be.
 
+                    <a name="offenc-against-act"></a>**_offence against this Act_** includes an offence against:
+
+                     (a)  section 6 of the _Crimes Act 1914_; or
+
+                     (b)  section 11.1, 11.4 or 11.5 of the _Criminal Code_;
+
+that relates to an offence against this Act.
+
                     <a name="particip-territori"></a>**_participating Territory_** has the same meaning as in the _Agricultural and Veterinary Chemicals Act 1994_.
 
                     <a name="premis"></a>**_premises_** includes any place (whether enclosed or built on or not), including a place situated under ground or under water, and, in particular, includes:
@@ -218,11 +226,11 @@ in respect of the product if, at that time, the product had been sold by the man
 
                     <a name="rate-levi"></a>**_rate of levy_** has the meaning given by section 11 or 12, as the case requires.
 
-                    <a name="regist"></a>**_registered_**, in relation to a jurisdiction, means registered under a registration law of the jurisdiction and, if such a registration law is an Agvet Code of the jurisdiction, includes a listed registration under Part 2A of that Code.
+                    <a name="regist"></a>**_registered_**, in relation to a jurisdiction, means registered under a registration law of the jurisdiction.
 
                     <a name="registr-law"></a>**_registration law_**, in relation to a jurisdiction, means:
 
-                     (a)  if there is an Agvet Code of the jurisdiction that is in force—Part 2 or 2A of that Code, including (to avoid doubt) Part 2 of that Code as it has effect because of the operation of Part 11 of that Code; or
+                     (a)  if there is an Agvet Code of the jurisdiction that is in force—Part 2 of that Code including, to avoid doubt, that Part as it has effect because of the operation of Part 11 of that Code; or
 
                      (b)  otherwise—a prescribed law of the jurisdiction;
 
@@ -328,11 +336,9 @@ then, subject to subsection (2), levy is payable in respect of leviable dispos
 
              (1)  Subject to subsection (2), the amount of the levy that is payable under section 8 in respect of leviable disposals of a particular chemical product during a particular calendar year is the amount worked out using the formula:
 
-<sub>![](http://www.comlaw.gov.au/Details/C2004C01704/Html/AgVetChemProdCollLevy1994_image002.gif)</sub>where:
+<sub>![](http://www.comlaw.gov.au/Details/C2004C01703/Html/AgVetChemProdCollLevy94_image002.gif)</sub>where:
 
                     <a name="rate-levi"></a>**_rate of levy_** means the percentage prescribed by the regulations for the purposes of this section in respect of that year.
-
-          (1A)  The regulations may prescribe a rate of levy in respect of chemical products having a listed registration under Part 2A of the Agvet Code of a jurisdiction that is a lower rate than the rate of levy prescribed in respect of chemical products registered under Part 2 of that Code.
 
              (2)  The total of the amounts of the levy that are payable under section 8 in respect of leviable disposals of a particular chemical product during a particular calendar year is not to exceed:
 
@@ -344,13 +350,11 @@ then, subject to subsection (2), levy is payable in respect of leviable dispos
 
              (1)  Subject to subsection (2), the amount of the levy that is payable under section 9 in respect of leviable disposals of a particular chemical product during the first 6 months of a particular calendar year is the amount worked out using the formula:
 
-<sub>![](http://www.comlaw.gov.au/Details/C2004C01704/Html/AgVetChemProdCollLevy1994_image003.gif)</sub>
+<sub>![](http://www.comlaw.gov.au/Details/C2004C01703/Html/AgVetChemProdCollLevy94_image003.gif)</sub>
 
 where:
 
                     <a name="rate-levi"></a>**_rate of levy_** means the percentage prescribed by the regulations for the purposes of this section in respect of those 6 months.
-
-          (1A)  The regulations may prescribe a rate of levy in respect of chemical products having a listed registration under Part 2A of the Agvet Code of a jurisdiction that is a lower rate than the rate of levy prescribed in respect of chemical products registered under Part 2 of that Code.
 
              (2)  The total of the amounts of the levy that are payable under section 9 in respect of leviable disposals of a particular chemical product during the first 6 months of a particular calendar year is not to exceed:
 
@@ -956,8 +960,7 @@ Remainder: 24 May 2001</div>
       <div>8 Apr 2003</div>
     </td>
     <td>
-      <div>S. 4 and Schedules 1, 2 and 3: 8 October 2003 
-Remainder: Royal Assent</div>
+      <div>Schedule 3: \[ <i>see (d)</i>and Note 2]</div>
     </td>
     <td>
       <div>—</div>
@@ -971,15 +974,121 @@ _(a)_     (1)     If the commencement of the _Agricultural and V
 
          The _Agricultural and Veterinary Chemical Products (Collection of Levy) Act 1994_ came into operation on 15 March 1995.
 
-_(b)_    The _Agricultural and Veterinary Chemical Products (Collection of Levy) Act 1994_ was amended by section 11only of the _Primary Industries and Energy Legislation Amendment Act 1994_, subsection 2(4) of which provides as follows:
+_(b)_    The _Agricultural and Veterinary Chemical Products (Collection of Levy) Act 1994_ was amended by the _Primary Industries and Energy Legislation Amendment Act 1994_, subsection 2(4) of which provides as follows:
 
                  (4)   The amendment of the _Agricultural and Veterinary Chemical Products (Collection of Levy) Act 1994_ made by the Schedule commences or is taken to have commenced immediately after the commencement of the _Agricultural and Veterinary Chemical Products (Collection of Levy) Act 1994_.
 
          The _Agricultural and Veterinary Chemical Products (Collection of Levy) Act 1994_ came into operation on 15 March 1995.
 
-_(c)_     The _Agricultural and Veterinary Chemical Products (Collection of Levy) Act 1994_ was amended by section 3 only of the _Primary Industries and Energy Legislation Amendment Act (No. 1) 1995_, subsection 2(1) of which provides as follows:
+_(c)_     The _Agricultural and Veterinary Chemical Products (Collection of Levy) Act 1994_ was amended by the _Primary Industries and Energy Legislation Amendment Act (No. 1) 1995_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+
+_(g)_ The _Agricultural and Veterinary Chemical Products (Collection of Levy) Act 1994_ was amended by Schedule 3 only of the _Agricultural and Veterinary Chemicals Legislation Amendment Act 2003_, subsections 2(1) (items 2 and 3) and 3 of which provide as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="3">
+      <div>
+        <b>
+          Commencement information
+        </b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Column 1
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Column 2
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Column 3
+        </b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      2\. Section 4
+    </div>
+  </td>
+  <td>
+    <div>
+      A single day to be fixed by Proclamation, subject to subsection (3)
+    </div>
+  </td>
+  <td>
+    <div>
+
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      3\. Schedules 1, 2 and 3
+    </div>
+  </td>
+  <td>
+    <div>
+      At the same time as the provision covered by item 2 of this table
+    </div>
+  </td>
+  <td>
+    <div>
+      \[
+        <i>see</i>Note 2]
+    </div>
+  </td>
+</tr></table>
+
+                 (3)   If the provision covered by item 2 of the table does not commence within the period of 6 months beginning on the day on which this Act receives the Royal Assent, it commences on the first day after the end of that period. [_see_ Note 2]
 
 ## Table of Amendments
 
@@ -1017,7 +1126,7 @@ _(c)_     The _Agricultural and Veterinary Chemical Products (Collection
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. Nos. 72 and 94, 1994; No. 36, 1995; No. 115, 2001; No. 13, 2003</div>
+    <div>am. Nos. 72 and 94, 1994; No. 36, 1995; No. 115, 2001</div>
   </td>
 </tr>
 <tr>
@@ -1058,14 +1167,6 @@ _(c)_     The _Agricultural and Veterinary Chemical Products (Collection
   </td>
   <td>
     <div>rep. No. 72, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 11, 12</div>
-  </td>
-  <td>
-    <div>am. No. 13, 2003</div>
   </td>
 </tr>
 <tr>
@@ -1148,6 +1249,45 @@ _(c)_     The _Agricultural and Veterinary Chemical Products (Collection
     <div>am. No. 72, 1994</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Agricultural and Veterinary Chemicals Legislation Amendment Act 2003 
+ (No. 13, 2003)_
+
+The following amendments commence on the commencement of section 4, 8 October 2003 unless proclaimed earlier:
+
+## Schedule 3
+
+## 1  Subsection 3(1) (definition of _offence against this Act_)
+
+Repeal the definition.
+
+## 2  Subsection 3(1) (definition of _registered_)
+
+Repeal the definition, substitute:
+
+                    <a name="regist"></a>**_registered_**, in relation to a jurisdiction, means registered under a registration law of the jurisdiction and, if such a registration law is an Agvet Code of the jurisdiction, includes a listed registration under Part 2A of that Code.
+
+## 3  Subsection 3(1) (paragraph (a) of the definition of _registration law_)
+
+Repeal the paragraph, substitute:
+
+                     (a)  if there is an Agvet Code of the jurisdiction that is in force—Part 2 or 2A of that Code, including (to avoid doubt) Part 2 of that Code as it has effect because of the operation of Part 11 of that Code; or
+
+## 4  After subsection 11(1)
+
+Insert:
+
+          (1A)  The regulations may prescribe a rate of levy in respect of chemical products having a listed registration under Part 2A of the Agvet Code of a jurisdiction that is a lower rate than the rate of levy prescribed in respect of chemical products registered under Part 2 of that Code.
+
+## 5  After subsection 12(1)
+
+Insert:
+
+          (1A)  The regulations may prescribe a rate of levy in respect of chemical products having a listed registration under Part 2A of the Agvet Code of a jurisdiction that is a lower rate than the rate of levy prescribed in respect of chemical products registered under Part 2 of that Code.
+
+As at 30 April 2003 the amendments are not incorporated in this compilation.
 
 ## Table A
 
