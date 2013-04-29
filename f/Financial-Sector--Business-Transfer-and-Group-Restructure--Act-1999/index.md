@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00518/Html/FinanSectBusTransGrpResAct99WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00450/Html/FinanSectBusTransGrpResAct99WD02_image001.gif)
 
 # Financial Sector (Business Transfer and Group Restructure) Act 1999
 
 **Act No. 45 of 1999 as amended**
 
-This compilation was prepared on 27 July 2010
- taking into account amendments up to Act No. 103 of 2010
+This compilation was prepared on 6 July 2010
+ taking into account amendments up to Act No. 82 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -18,177 +18,177 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Additional operation of Act
+[3](#3).            Additional operation of Act                                                                1
 
-[4](#4).            Definitions
+[4](#4).            Definitions                                                                                           1
 
-[5](#5).            Act binds the Crown
+[5](#5).            Act binds the Crown                                                                           5
 
-[6](#6).            External Territories
+[6](#6).            External Territories                                                                              5
 
-[7](#7).            Application of _Criminal Code_
+[7](#7).            Application of _Criminal Code_                                                             5
 
-[7A](#7A).         Application of sections 8 and 8A of the APRA Act
+[7A](#7A).         Application of sections 8 and 8A of the APRA Act                          5
 
 **Part 2—Overview of Act**
 
-[8](#8).            Overview of Act
+[8](#8).            Overview of Act                                                                                  6
 
 **Part 3—Voluntary transfers** 
 
     **Division 1—Outline of Part**
 
-[9](#9).            Outline of Part
+[9](#9).            Outline of Part                                                                                     8
 
     **Division 2—Approval of voluntary transfers**
 
-[10](#10).          Application for approval of voluntary transfer
+[10](#10).          Application for approval of voluntary transfer                                  9
 
-[11](#11).          Approval of applications
+[11](#11).          Approval of applications                                                                    9
 
-[12](#12).          Consultation about approving the application
+[12](#12).          Consultation about approving the application                                  10
 
-[13](#13).          Adequate adoption
+[13](#13).          Adequate adoption                                                                            11
 
-[14](#14).          Complementary State or Territory legislation
+[14](#14).          Complementary State or Territory legislation                                   11
 
-[15](#15).          Minister’s power to decide that his or her consent is not required
+[15](#15).          Minister’s power to decide that his or her consent is not required   12
 
-[16](#16).          Approval may impose conditions
+[16](#16).          Approval may impose conditions                                                     12
 
-[17](#17).          Notice of decision
+[17](#17).          Notice of decision                                                                              13
 
     **Division 3—Process by which voluntary transfers take effect**
 
-[18](#18).          Certificate of transfer
+[18](#18).          Certificate of transfer                                                                         14
 
-[19](#19).          Partial transfer—statement of detail to be provided
+[19](#19).          Partial transfer—statement of detail to be provided                         15
 
-[20](#20).          Agreements about matters connected with the transfer
+[20](#20).          Agreements about matters connected with the transfer                    15
 
-[21](#21).          Notice of decision
+[21](#21).          Notice of decision                                                                              15
 
-[22](#22).          Time and effect of voluntary transfer
+[22](#22).          Time and effect of voluntary transfer                                                15
 
-[23](#23).          Employment unaffected
+[23](#23).          Employment unaffected                                                                    18
 
 **Part 4—Compulsory transfers** 
 
     **Division 1—Outline of Part**
 
-[24](#24).          Outline of Part
+[24](#24).          Outline of Part                                                                                   19
 
     **Division 2—Compulsory transfer determinations**
 
-[25](#25).          Compulsory transfer determinations
+[25](#25).          Compulsory transfer determinations                                                 20
 
-[25A](#25A).       Ministerial declaration that transfer should occur from ADI
+[25A](#25A).       Ministerial declaration that transfer should occur from ADI            23
 
-[26](#26).          Consultation about making the determination
+[26](#26).          Consultation about making the determination                                   23
 
-[27](#27).          When consent of receiving body is in force
+[27](#27).          When consent of receiving body is in force                                       24
 
-[28](#28).          Complementary State or Territory legislation
+[28](#28).          Complementary State or Territory legislation                                   24
 
-[29](#29).          Minister’s power to decide that his or her consent is not required
+[29](#29).          Minister’s power to decide that his or her consent is not required   25
 
-[30](#30).          Agreements about matters connected with the transfer
+[30](#30).          Agreements about matters connected with the transfer                    25
 
-[31](#31).          Determination may impose conditions
+[31](#31).          Determination may impose conditions                                              26
 
-[32](#32).          Notice of determination
+[32](#32).          Notice of determination                                                                     27
 
     **Division 3—Process by which compulsory transfers take effect**
 
-[33](#33).          Certificate of transfer
+[33](#33).          Certificate of transfer                                                                         28
 
-[34](#34).          Notice of certificate
+[34](#34).          Notice of certificate                                                                           29
 
-[35](#35).          Time and effect of compulsory  transfer
+[35](#35).          Time and effect of compulsory  transfer                                            29
 
-[36](#36).          Employment unaffected
+[36](#36).          Employment unaffected                                                                    31
 
     **Division 4—Effect of compulsory transfer on contracts**
 
-[36AA](#36AA).    Compulsory transfer not ground for denying obligation
+[36AA](#36AA).    Compulsory transfer not ground for denying obligation                   32
 
 **Part 4A—Restructures** 
 
     **Division 1—Outline of Part**
 
-[36A](#36A).       Outline of Part
+[36A](#36A).       Outline of Part                                                                                   33
 
     **Division 2—Restructure approvals**
 
-[36B](#36B).       Restructure approvals—application
+[36B](#36B).       Restructure approvals—application                                                 34
 
-[36C](#36C).       Restructure approvals—issued by Minister
+[36C](#36C).       Restructure approvals—issued by Minister                                     34
 
-[36D](#36D).       Restructure approvals—consultation
+[36D](#36D).       Restructure approvals—consultation                                                35
 
-[36E](#36E).        Restructure approvals—conditions
+[36E](#36E).        Restructure approvals—conditions                                                   35
 
-[36F](#36F).        Restructure approvals—notice of decision
+[36F](#36F).        Restructure approvals—notice of decision                                       36
 
     **Division 3—Restructure instruments**
 
-[36G](#36G).       What is a _restructure instrument_?
+[36G](#36G).       What is a _restructure instrument_?                                                      37
 
-[36H](#36H).       Restructure instruments—coming into force
+[36H](#36H).       Restructure instruments—coming into force                                     37
 
-[36J](#36J).        Restructure instruments—legal effect
+[36J](#36J).        Restructure instruments—legal effect                                               38
 
-[36K](#36K).       Restructure instruments—amendment
+[36K](#36K).       Restructure instruments—amendment                                              38
 
     **Division 4—Internal transfer certificates**
 
-[36L](#36L).        What is an _internal transfer certificate_?
+[36L](#36L).        What is an _internal transfer certificate_?                                             39
 
-[36M](#36M).      Internal transfer certificates—issue
+[36M](#36M).      Internal transfer certificates—issue                                                   39
 
-[36N](#36N).       Internal transfer certificates—notice of decision
+[36N](#36N).       Internal transfer certificates—notice of decision                               40
 
-[36P](#36P).        Internal transfer certificates—amendment
+[36P](#36P).        Internal transfer certificates—amendment                                         40
 
-[36Q](#36Q).       Internal transfer certificates—coming into force
+[36Q](#36Q).       Internal transfer certificates—coming into force                               42
 
-[36R](#36R).       Internal transfer certificates—legal effect
+[36R](#36R).       Internal transfer certificates—legal effect                                          43
 
     **Division 5—Engagements of employees and contractors**
 
-[36S](#36S).        Employment and contracts for services unaffected
+[36S](#36S).        Employment and contracts for services unaffected                           44
 
 **Part 5—Evidentiary certificates**
 
-[37](#37).          Certificates evidencing operation of Act etc 
+[37](#37).          Certificates evidencing operation of Act etc                                      45
 
-[38](#38).          Certificates in relation to land and interests in land
+[38](#38).          Certificates in relation to land and interests in land                           45
 
-[39](#39).          Certificates in relation to other assets
+[39](#39).          Certificates in relation to other assets                                               46
 
-[40](#40).          Documents purporting to be certificates
+[40](#40).          Documents purporting to be certificates                                           46
 
 **Part 6—Miscellaneous**
 
-[41](#41).          Information gathering powers
+[41](#41).          Information gathering powers                                                            47
 
-[42](#42).          Compulsory transfer—APRA may provide information to receiving body
+[42](#42).          Compulsory transfer—APRA may provide information to receiving body           48
 
-[43](#43).          Relationship of Act with other laws etc 
+[43](#43).          Relationship of Act with other laws etc                                            48
 
-[44](#44).          Compensation for acquisition of property
+[44](#44).          Compensation for acquisition of property                                        50
 
-[45](#45).          Review of decisions
+[45](#45).          Review of decisions                                                                           51
 
-[46](#46).          Transfer rules
+[46](#46).          Transfer rules                                                                                     51
 
-[47](#47).          Regulations
+[47](#47).          Regulations                                                                                        52
 
 **Notes** 
 
@@ -346,7 +346,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                    The _Criminal Code_ applies to all offences against this Act.
 
-##### <a id="7A"></a>7A  Application of sections 8 and 8A of the APRA Act
+##### <a id="7A"></a>7A  Application of sections 8 and 8A of the APRA Act
 
 To avoid doubt, sections 8 and 8A of the _Australian Prudential Regulation Authority Act 1998_(which deal with APRA’s objectives and trans-Tasman cooperation respectively) apply to the performance of functions and the exercise of powers by APRA under this Act.
 
@@ -776,60 +776,6 @@ Transfer from one life insurance company to another
 
                      (d)  the conditions in subsection (2) exist.
 
-Transfer of unregulated business from life insurance company
-
-          (1D)  APRA may make a written determination that there is to be a transfer of only the business that is not regulated business from a life insurance company to a body corporate that is not an insurance company or life insurance company if, and only if:
-
-                     (a)  APRA is satisfied that:
-
-                              (i)  the transferring body has contravened the _Life Insurance Act 1995_, any regulations or other instruments made under that Act or conditions imposed under that Act; or
-
-                             (ii)  APRA has given the transferring body a written notice under subsection 139(1) of the _Life Insurance Act 1995_ stating that APRA proposes to investigate life insurance business of the body; or
-
-                            (iii)  a judicial manager of the transferring body has recommended, under subsection 175(2) of the _Life Insurance Act 1995_, that the business or part of the business of the body be transferred to another company; or
-
-                            (iv)  APRA has made a determination under subsection (1C) for the transfer of some or all of the transferring body’s regulated business to another life insurance company (whether or not the transfer has yet happened); and
-
-                     (b)  APRA has considered the interests of policy owners of the transferring body (when viewed as a group) and considers that, having regard to those interests, it would be appropriate for the transfer to be made; and
-
-                     (c)  the conditions in subsection (2) exist.
-
-Transfer of business from general insurer
-
-           (1E)  APRA may make a written determination that there is to be a transfer of business from one general insurer to another general insurer, other than a transfer only of business of the transferring body that is not regulated business, if, and only if:
-
-                     (a)  APRA is satisfied that:
-
-                              (i)  the transferring body has contravened the _Insurance Act 1973_, any regulations or other instruments made under that Act or conditions imposed under that Act; or
-
-                             (ii)  APRA has served on the transferring body a written notice under subsection 52(4) of the _Insurance Act 1973_ specifying matters into which an investigation under section 52 of that Act is to be made; or
-
-                            (iii)  a judicial manager of the transferring body has recommended, under section 62ZI of the _Insurance Act 1973_, that the body’s business be transferred to another general insurer; and
-
-                     (b)  APRA has considered the interests of policy owners of the transferring body (when viewed as a group) and considers that, having regard to those interests, it would be appropriate for the transfer to be made; and
-
-                     (c)  APRA is satisfied that the transfer is appropriate, having regard to the interests of policy owners of the receiving body when viewed as a group; and
-
-                     (d)  the conditions in subsection (2) exist.
-
-Transfer of unregulated business from general insurer
-
-           (1F)  APRA may make a written determination that there is to be a transfer of only the business that is not regulated business from a general insurer to a body corporate that is not an insurance company or life insurance company if, and only if:
-
-                     (a)  APRA is satisfied that:
-
-                              (i)  the transferring body has contravened the _Insurance Act 1973_, any regulations or other instruments made under that Act or conditions imposed under that Act; or
-
-                             (ii)  APRA has served on the transferring body a written notice under subsection 52(4) of the _Insurance Act 1973_ specifying matters into which an investigation under section 52 of that Act is to be made; or
-
-                            (iii)  a judicial manager of the transferring body has recommended, under section 62ZI of the _Insurance Act 1973_, that the body’s business be transferred to another general insurer; or
-
-                            (iv)  APRA has made a determination under subsection (1E) for the transfer of some or all of the transferring body’s regulated business to another general insurer (whether or not the transfer has yet happened); and
-
-                     (b)  APRA has considered the interests of policy owners of the transferring body (when viewed as a group) and considers that, having regard to those interests, it would be appropriate for the transfer to be made; and
-
-                     (c)  the conditions in subsection (2) exist.
-
 Common conditions for making a determination under this section
 
              (2)  APRA may make a determination under this section only if:
@@ -1198,7 +1144,7 @@ Note:          Alternative ways of dealing with places of busi
 
                      (a)  if the body is an ADI—standards in force under section 11AF of the _Banking Act 1959_;
 
-                     (b)  if the body is a life insurance company—standards in force under section 230A of the _Life Insurance Act 1995_;
+                     (b)  if the body is a life insurance company—standards in force under section 360A of the _Life Insurance Act 1995_;
 
                      (c)  if the body is a general insurer—standards in force under section 32 of the _Insurance Act 1973_.
 
@@ -1949,24 +1895,7 @@ Royal Assent</div>
   </td>
   <td>
     <div>Schedule 4 (item 4): 30 June 2010 
-Schedule 4 (items 5, 6): 27 July 2010</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010</div>
-  </td>
-  <td>
-    <div>103, 2010</div>
-  </td>
-  <td>
-    <div>13 July 2010</div>
-  </td>
-  <td>
-    <div>Schedule 6 (items 1, 61): \[ <i>see</i>Note 2]</div>
+Schedule 4 (items 5, 6): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -2352,31 +2281,7 @@ _(c)_     Subsection 2(1) (item 41) of the _Fair Work (State Referral 
 </tr>
 <tr>
   <td>
-    <div>S. 36B</div>
-  </td>
-  <td>
-    <div>ad. No. 117, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 36C</div>
-  </td>
-  <td>
-    <div>ad. No. 117, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 82, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 36D–36F</div>
+    <div>Ss. 36B–36F</div>
   </td>
   <td>
     <div>ad. No. 117, 2007</div>
@@ -2529,22 +2434,75 @@ _(c)_     Subsection 2(1) (item 41) of the _Fair Work (State Referral 
 
 ### Note 2
 
-_Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010
- (No. 103, 2010)_
+_Financial Sector Legislation Amendment (Prudential Refinements and Other Measures) Act 2010 (No. 82, 2010)_
 
-The following amendment commences on the start of 1 January 2011:
+The following amendments commence on 27 July 2010:
 
-## Schedule 6
+## Schedule 4
 
-## 1  Amendment of Acts
+## 5  After subsection 25(1C)
 
-The specified provisions of the Acts listed in this Part are amended by omitting “_Trade Practices Act 1974_” and substituting “_Competition and Consumer Act 2010_”.
+Insert:
 
-<h9 class="ActHead9">Financial Sector (Business Transfer and Group Restructure) Act 1999</h9>
+Transfer of unregulated business from life insurance company
 
-## 61  Subsections 43(6), (9) and (9A)
+          (1D)  APRA may make a written determination that there is to be a transfer of only the business that is not regulated business from a life insurance company to a body corporate that is not an insurance company or life insurance company if, and only if:
 
-As at 27 July 2010 the amendment is not incorporated in this compilation.
+                     (a)  APRA is satisfied that:
+
+                              (i)  the transferring body has contravened the _Life Insurance Act 1995_, any regulations or other instruments made under that Act or conditions imposed under that Act; or
+
+                             (ii)  APRA has given the transferring body a written notice under subsection 139(1) of the _Life Insurance Act 1995_ stating that APRA proposes to investigate life insurance business of the body; or
+
+                            (iii)  a judicial manager of the transferring body has recommended, under subsection 175(2) of the _Life Insurance Act 1995_, that the business or part of the business of the body be transferred to another company; or
+
+                            (iv)  APRA has made a determination under subsection (1C) for the transfer of some or all of the transferring body’s regulated business to another life insurance company (whether or not the transfer has yet happened); and
+
+                     (b)  APRA has considered the interests of policy owners of the transferring body (when viewed as a group) and considers that, having regard to those interests, it would be appropriate for the transfer to be made; and
+
+                     (c)  the conditions in subsection (2) exist.
+
+Transfer of business from general insurer
+
+           (1E)  APRA may make a written determination that there is to be a transfer of business from one general insurer to another general insurer, other than a transfer only of business of the transferring body that is not regulated business, if, and only if:
+
+                     (a)  APRA is satisfied that:
+
+                              (i)  the transferring body has contravened the _Insurance Act 1973_, any regulations or other instruments made under that Act or conditions imposed under that Act; or
+
+                             (ii)  APRA has served on the transferring body a written notice under subsection 52(4) of the _Insurance Act 1973_ specifying matters into which an investigation under section 52 of that Act is to be made; or
+
+                            (iii)  a judicial manager of the transferring body has recommended, under section 62ZI of the _Insurance Act 1973_, that the body’s business be transferred to another general insurer; and
+
+                     (b)  APRA has considered the interests of policy owners of the transferring body (when viewed as a group) and considers that, having regard to those interests, it would be appropriate for the transfer to be made; and
+
+                     (c)  APRA is satisfied that the transfer is appropriate, having regard to the interests of policy owners of the receiving body when viewed as a group; and
+
+                     (d)  the conditions in subsection (2) exist.
+
+Transfer of unregulated business from general insurer
+
+           (1F)  APRA may make a written determination that there is to be a transfer of only the business that is not regulated business from a general insurer to a body corporate that is not an insurance company or life insurance company if, and only if:
+
+                     (a)  APRA is satisfied that:
+
+                              (i)  the transferring body has contravened the _Insurance Act 1973_, any regulations or other instruments made under that Act or conditions imposed under that Act; or
+
+                             (ii)  APRA has served on the transferring body a written notice under subsection 52(4) of the _Insurance Act 1973_ specifying matters into which an investigation under section 52 of that Act is to be made; or
+
+                            (iii)  a judicial manager of the transferring body has recommended, under section 62ZI of the _Insurance Act 1973_, that the body’s business be transferred to another general insurer; or
+
+                            (iv)  APRA has made a determination under subsection (1E) for the transfer of some or all of the transferring body’s regulated business to another general insurer (whether or not the transfer has yet happened); and
+
+                     (b)  APRA has considered the interests of policy owners of the transferring body (when viewed as a group) and considers that, having regard to those interests, it would be appropriate for the transfer to be made; and
+
+                     (c)  the conditions in subsection (2) exist.
+
+## 6  Subsection 36C(4) (paragraph (b) of the definition of _prudential requirements_)
+
+Omit “section 360A”, substitute “section 230A”.
+
+As at 6 July 2010 the amendments are not incorporated in this compilation.
 
 ## Table A
 
