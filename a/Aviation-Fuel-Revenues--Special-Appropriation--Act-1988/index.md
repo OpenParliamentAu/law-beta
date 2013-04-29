@@ -1,692 +1,489 @@
-**
+![](http://www.comlaw.gov.au/Details/C2004C02402/Html/AviaFueRev88_image001.jpg)
 
-###  AVIATION FUEL REVENUES (SPECIAL APPROPRIATION) ACT 1988 
-**
+# Aviation Fuel Revenues (Special Appropriation) Act 1988
 
+**Act No. 54 of 1988 as amended**
 
-**
+Consolidated as in force on 7 September 1999
 
-###  Compilation Information 
-**
+(includes amendments up to Act No. 97 of 1999)
 
+Prepared by the Office of Legislative Drafting,
+ Attorney-General’s Department, Canberra
 
+ 
 
+# Contents
 
+1             Short title [_see_ Note 1]                                                                        1
 
+2             Commencement [_see_ Note 1]                                                               1
 
+3             Interpretation                                                                                       1
 
-**
+3A          Minister may fix special rates                                                             3
 
-###  Long Title 
-**
-###  AVIATION FUEL REVENUES (SPECIAL APPROPRIATION) ACT 1988- SECT 1  Short title [_see_ Note 1] 
-This Act may be cited as the _Aviation Fuel Revenues (Special Appropriation) Act 1988_.
+4             Money to be paid to AA and CASA in relation to eligible aviation fuel     3
 
- 
-###  AVIATION FUEL REVENUES (SPECIAL APPROPRIATION) ACT 1988- SECT 2  Commencement [_see_ Note 1] 
-This Act commences on the day on which it receives the Royal Assent.
+5             Indexation of relevant rate                                                                   4
 
- 
-###  AVIATION FUEL REVENUES (SPECIAL APPROPRIATION) ACT 1988- SECT 3  Interpretation 
-In this Act:
+**Notes** 
 
- 
-<dl compact=""><dl compact="">
+## An Act to appropriate certain aviation fuel revenues for Airservices Australia and the Civil Aviation Safety Authority
 
-_AA_ means Airservices Australia established by the _Air Services Act 1995_. _aviation fuel_ means aviation gasoline and aviation kerosene. _aviation gasoline_ means gasoline classified to item 11 of the Schedule to the _Excise Tariff Act 1921_ as gasoline for use as a fuel in aircraft. _aviation kerosene_ means kerosene classified to item 11 of the Schedule to the _Excise Tariff Act 1921_ as kerosene for use as a fuel in aircraft. _CASA_ means the Civil Aviation Safety Authority established by the _Civil Aviation Act 1988_. _eligible aviation fuel_ means:  </dl></dl>
+**Do not <span class="CharChapText">delete</span> : <span class="CharChapNo">Chapter</span> placeholder**
 
-<dl compact=""><dl compact=""><dl compact="">
+## <span style="font-size:11.0pt;display:none">Do not delete</span> : <span class="CharPartText">Part placeholder</span>
 
-<dt>(a)</dt><dd>aviation gasoline entered for home consumption on or after 1 July 1988;
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
 
-and</dd>
+##### <a id="1"></a>1  Short title [_see_ Note 1]
 
-<dt>(b)</dt><dd>aviation kerosene entered for home consumption on or after 12 May 1999.
+                   This Act may be cited as the _Aviation Fuel Revenues (Special Appropriation) Act 1988_.
 
-</dd>
+##### <a id="2"></a>2  Commencement [_see_ Note 1]
 
-</dl></dl></dl>
+                   This Act commences on the day on which it receives the Royal Assent.
 
-<def><dl compact=""><dl compact="">
+##### <a id="3"></a>3  Interpretation
 
-_index number_ has the same meaning as in the _Excise Tariff Act 1921_. _relevant period_ has the same meaning as in section 6A of the _Excise Tariff Act 1921_. _relevant rate_ means:  </dl></dl>
+                   In this Act:
 
-<dl compact=""><dl compact=""><dl compact="">
+                    <a name="aa"></a>**_AA_** means Airservices Australia established by the _Air Services Act 1995_.
 
-<dt>(a)</dt><dd>in relation to the relevant period that commenced on 1 February
+                    <a name="aviat-fuel"></a>**_aviation fuel_** means aviation gasoline and aviation kerosene.
 
-1992&#151;24.470 cents per litre; and</dd>
+                    <a name="aviat-gasolin"></a>**_aviation gasoline_** means goods falling within subparagraph 11(A)(3)(a) in the Schedule to the _Excise Tariff Act 1921_.
 
-<dt>(b)</dt><dd>in relation to a time in a relevant period to which section 5 applies&#151;the
+                    <a name="aviat-kerosen"></a>**_aviation kerosene_** means goods falling within sub-item 11(D) in the Schedule to the _Excise Tariff Act 1921_.
 
-rate applicable under that section in relation to that time; and</dd>
+                    <a name="casa"></a>**_CASA_** means the Civil Aviation Safety Authority established by the _Civil Aviation Act 1988_.
 
-<dt>(c)</dt><dd>in relation to any other relevant period&#151;the relevant rate at the end of
+                    <a name="elig-aviat-fuel"></a>**_eligible aviation fuel_** means:
 
-the last preceding relevant period.
+                     (a)  aviation gasoline entered for home consumption on or after 1 July 1988; and
 
-</dd>
+                     (b)  aviation kerosene entered for home consumption on or after 12 May 1999.
 
-</dl></dl></dl>
+                    <a name="index-number"></a>**_index number_** has the same meaning as in the _Excise Tariff Act 1921_.
 
-<def><dl compact=""><dl compact="">
+                    <a name="relev-period"></a>**_relevant period_** has the same meaning as in section 6A of the _Excise Tariff Act 1921_.
 
-_statutory rate_, in relation to an amount paid to the Commonwealth
+                    <a name="relev-rate"></a>**_relevant rate_** means:
 
-as duty of Excise or duty of Customs in relation to eligible aviation fuel,
+                     (a)  in relation to the relevant period that commenced on 1 February 1992—24.470 cents per litre; and
 
-means the lowest of whichever of the following rates is applicable:
+                     (b)  in relation to a time in a relevant period to which section 5 applies—the rate applicable under that section in relation to that time; and
 
- </dl></dl>
+                     (c)  in relation to any other relevant period—the relevant rate at the end of the last preceding relevant period.
 
-<center>Back to Top</center>
+                    <a name="statutori-rate"></a>**_statutory rate_**, in relation to an amount paid to the Commonwealth as duty of Excise or duty of Customs in relation to eligible aviation fuel, means the lowest of whichever of the following rates is applicable:
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (a)  in any case—the greater of:
 
-<dt>(a)</dt><dd>in any case&#151;the greater of:
+                              (i)  the relevant rate at the time duty was imposed on the eligible aviation fuel; and
 
-</dd>
+                             (ii)  if a determination under subsection 3A(1) was in force at the time duty was imposed on the eligible aviation fuel—the rate fixed by that determination;
 
-</dl></dl></dl>
+                     (b)  in the case of duty of Excise—the rate of duty imposed on the eligible aviation fuel under the _Excise Tariff Act 1921_;
 
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+                     (c)  in the case of duty of Customs—the rate that would have been the rate of duty of Excise imposed on the eligible aviation fuel under the _Excise Tariff Act 1921_ if the eligible aviation fuel had been subject to duty of Excise instead of duty of Customs;
 
-<dt>(i)</dt><dd>the relevant rate at the time duty was imposed on the eligible aviation
+                     (d)  if a determination under subsection 3A(2) was in force at the time duty was imposed on the eligible aviation fuel—the rate fixed by that determination.
 
-fuel; and</dd>
+##### <a id="3A"></a>3A  Minister may fix special rates
 
-<dt>(ii)</dt><dd>if a determination under subsection 3A(1) was in force at the time duty
+             (1)  The Minister may make a written determination fixing a rate for the purposes of subparagraph (a)(ii) of the definition of **_statutory rate_** in section 3.
 
-was imposed on the eligible aviation fuel&#151;the rate fixed by that determination;
+             (2)  The Minister may make a written determination fixing a rate for the purposes of paragraph (d) of the definition of **_statutory rate_** in section 3.
 
-</dd>
+             (3)  A determination under subsection (1) or (2) may provide that a rate is to be fixed using a method of indexation which corresponds to the method provided for by this Act for indexing the relevant rate.
 
-</dl></dl></dl></dl>
+##### <a id="4"></a>4  Money to be paid to AA and CASA in relation to eligible aviation fuel
 
-<dl compact=""><dl compact=""><dl compact="">
+             (1)  For each amount paid to the Commonwealth as a duty of Excise or duty of Customs in relation to eligible aviation fuel, AA and CASA are each entitled to be paid a share of the amount calculated using the formula:
 
-<dt>(b)</dt><dd>in the case of duty of Excise&#151;the rate of duty imposed on the eligible
-
-aviation fuel under the _Excise Tariff Act 1921_;</dd>
-
-<dt>(c)</dt><dd>in the case of duty of Customs&#151;the rate that would have been the rate of
-
-duty of Excise imposed on the eligible aviation fuel under the _Excise Tariff Act 1921_ if the eligible aviation fuel had been subject to duty of Excise
-
-instead of duty of Customs;</dd>
-
-<dt>(d)</dt><dd>if a determination under subsection 3A(2) was in force at the time duty
-
-was imposed on the eligible aviation fuel&#151;the rate fixed by that determination.
-
-</dd>
-
-</dl></dl></dl>
-
-**
-
-###  AVIATION FUEL REVENUES (SPECIAL APPROPRIATION) ACT 1988- SECT 3A  Minister may fix special rates 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>The Minister may make a written determination fixing a rate for the
-
-purposes of subparagraph (a)(ii) of the definition of _statutory rate_ in section 3.</dd> <dt>(2)</dt><dd>The Minister may make a written determination fixing a rate for the purposes of paragraph (d) of the definition of _statutory rate_ in section 3.</dd> <dt>(3)</dt><dd>A determination under subsection (1) or (2) may provide that a rate is to be fixed using a method of indexation which corresponds to the method provided for by this Act for indexing the relevant rate. </dd> </dl>
-
-**
-
-###  AVIATION FUEL REVENUES (SPECIAL APPROPRIATION) ACT 1988- SECT 4  Money to be paid to AA and CASA in relation to eligible aviation fuel 
-**
-
-<dl compact="">
-
-<dt>(1)</dt><dd>For each amount paid to the Commonwealth as a duty of Excise or duty of
-
-Customs in relation to eligible aviation fuel, AA and CASA are each entitled to
-
-be paid a share of the amount calculated using the formula:
-
-</dd> </dl>
-
-<sub> ![A graphic exists here.](http://www.comlaw.gov.au/Details/C2004C00134/Html/EA7130644505340DCA256F71004D42E9/$FILE/1202.gif)</sub>
+<sub>![](http://www.comlaw.gov.au/Details/C2004C02402/Html/AviaFueRev88_image002.gif)</sub>
 
 where:
 
-<def><dl compact=""><dl compact="">
+                    <a name="statutori-rate"></a>**_Statutory rate_** means the statutory rate in relation to the amount paid to the Commonwealth.
 
-_Statutory rate_ means the statutory rate in relation to the amount
+                    <a name="litr-elig-aviat-fuel"></a>**_Litres of eligible aviation fuel_** means the number of litres of eligible aviation fuel by reference to which the amount paid to the Commonwealth was calculated.
 
-paid to the Commonwealth. _Litres of eligible aviation fuel_ means the number of litres of eligible aviation fuel by reference to which the amount paid to the Commonwealth was calculated.  </dl></dl>
+          (1A)  The respective shares of AA and CASA of a payment under subsection (1) are to be determined by the Minister.
 
-<dl compact="">
+             (2)  Where the whole or a part of an amount paid as duty of Excise or duty of Customs in relation to eligible aviation fuel is repaid by the Commonwealth to a person by way of rebate or otherwise, there shall be deducted from the sum of the amounts that would, but for this subsection, be paid under subsection (1) an amount calculated using the formula:
 
-<dt>(1A)</dt><dd>The respective shares of AA and CASA of a payment under subsection (1)
-
-are to be determined by the Minister.</dd> <dt>(2)</dt><dd>Where the whole or a part of an amount paid as duty of Excise or duty of Customs in relation to eligible aviation fuel is repaid by the Commonwealth to a person by way of rebate or otherwise, there shall be deducted from the sum of the amounts that would, but for this subsection, be paid under subsection (1) an amount calculated using the formula: </dd> </dl>
-
-<sub> ![A graphic exists here.](http://www.comlaw.gov.au/Details/C2004C00134/Html/EA7130644505340DCA256F71004D42E9/$FILE/1203.gif)</sub>
+<sub>![](http://www.comlaw.gov.au/Details/C2004C02402/Html/AviaFueRev88_image003.gif)</sub>
 
 where:
 
-<def><dl compact=""><dl compact="">
+                    <a name="statutori-rate"></a>**_Statutory rate_** means the statutory rate in relation to the amount paid to the Commonwealth.
 
-_Statutory rate_ means the statutory rate in relation to the amount
+                    <a name="litr-elig-aviat-fuel"></a>**_Litres of eligible aviation fuel_** means the number of litres of eligible aviation fuel by reference to which the amount repaid by the Commonwealth was calculated.
 
-paid to the Commonwealth. _Litres of eligible aviation fuel_ means the number of litres of eligible aviation fuel by reference to which the amount repaid by the Commonwealth was calculated.  </dl></dl>
+             (3)  For the purposes of subsections (1) and (2), where 2 or more parts of an amount paid as duty were ascertained by reference to different rates of duty, each of the parts shall be taken to be a separate amount paid as duty.
 
-<dl compact="">
+             (4)  Amounts payable under subsection (1) are payable out of the Consolidated Revenue Fund, which is appropriated accordingly.
 
-<dt>(3)</dt><dd>For the purposes of subsections (1) and (2), where 2 or more parts of an
+##### <a id="5"></a>5  Indexation of relevant rate
 
-amount paid as duty were ascertained by reference to different rates of duty,
+             (1)  If the factor ascertained under subsection 6A(5) of the _Excise Tariff Act 1921_ in relation to a relevant period commencing on or after 1 August 1992 is greater than one, then, subject to subsection (2), the relevant rate for the period is:
 
-each of the parts shall be taken to be a separate amount paid as duty.</dd> <dt>(4)</dt><dd>Amounts payable under subsection (1) are payable out of the Consolidated Revenue Fund, which is appropriated accordingly. </dd> </dl>
+                     (a)  the rate, calculated to 3 decimal places, ascertained by multiplying the relevant rate at the end of the last preceding relevant period by the factor; or
 
-<center>Back to Top</center>
+                     (b)  if that rate would, if it were calculated to 4 decimal places, end in a number greater than 4—the rate increased by 0.001.
 
-**
+             (2)  If:
 
-###  AVIATION FUEL REVENUES (SPECIAL APPROPRIATION) ACT 1988- SECT 5  Indexation of relevant rate 
-**
+                     (a)  an index number necessary for the calculation of the factor to be ascertained under subsection 6A(5) of the _Excise Tariff Act 1921_ in relation to a relevant period is not published by the Australian Statistician at least 5 days before the first day of the period; and
 
- <dl compact="">
-
-<dt>(1)</dt><dd>If the factor ascertained under subsection 6A(5) of the _Excise Tariff Act 1921_ in relation to a relevant period commencing on or after 1 August
-
-1992 is greater than one, then, subject to subsection (2), the relevant rate
-
-for the period is:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>the rate, calculated to 3 decimal places, ascertained by multiplying the
-
-relevant rate at the end of the last preceding relevant period by the factor;
-
-or</dd>
-
-<dt>(b)</dt><dd>if that rate would, if it were calculated to 4 decimal places, end in a
-
-number greater than 4&#151;the rate increased by 0.001.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact="">
-
-<dt>(2)</dt><dd>If:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>an index number necessary for the calculation of the factor to be
-
-ascertained under subsection 6A(5) of the _Excise Tariff Act 1921_ in
-
-relation to a relevant period is not published by the Australian Statistician
-
-at least 5 days before the first day of the period; and</dd>
-
-<dt>(b)</dt><dd>the factor ascertained in relation to the period is greater than one;
-
-</dd>
-
-</dl></dl></dl>
+                     (b)  the factor ascertained in relation to the period is greater than one;
 
 then:
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (c)  subsection (1) applies only in relation to the part of the period commencing on the fifth day after the day on which the index number is published; and
 
-<dt>(c)</dt><dd>subsection (1) applies only in relation to the part of the period
+                     (d)  the relevant rate for the part of the period to which subsection (1) does not apply is the relevant rate at the end of the last preceding period.
 
-commencing on the fifth day after the day on which the index number is
+ 
 
-published; and</dd>
+# Notes to the _Aviation Fuel Revenues (Special Appropriation) Act 1988_
 
-<dt>(d)</dt><dd>the relevant rate for the part of the period to which subsection (1) does
-
-not apply is the relevant rate at the end of the last preceding period.
-
-</dd>
-
-</dl></dl></dl>
-
-<center>**
-
-###  AVIATION FUEL REVENUES (SPECIAL APPROPRIATION) ACT 1988<centreit>Notes to the _Aviation Fuel Revenues (Special Appropriation) Act 1988_ </centreit>
-**</center>
-
-**Note 1**
+### Note 1
 
 The _Aviation Fuel Revenues (Special Appropriation) Act 1988_ as shown in this consolidation comprises Act No. 54, 1988 amended as indicated in the Tables below.
- All relevant information pertaining to application, saving or transitional provisions prior to 16 July 1999 is not included in this consolidation. For subsequent information _see_ Table A.
 
-**Table of Acts**
+All relevant information pertaining to application, saving or transitional provisions prior to 16 July 1999 is not included in this consolidation. For subsequent information _see_ Table A.
 
-<table><tr align="left">
-  <td colspan="1" align="left">
+### Table of Acts
+
+<table>
+<colgroup>
+  <col width="28%">
+  <col width="13%">
+  <col width="19%">
+  <col width="22%">
+  <col width="16%">
+</colgroup>
+
+<tr>
+  <td>
     <div>Act</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>Number 
 and year</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>Date 
 of Assent</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>Date of commencement</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>Application, saving or transitional provisions</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Aviation Fuel Revenues (Special Appropriation) Act 1988</i></div>
-
+<tr>
+  <td>
+    <div>Aviation Fuel Revenues (Special Appropriation) Act 1988</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>54, 1988</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>15 June 1988</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>15 June 1988</div>
-
   </td>
-  <td colspan="1" align="left">
-
+  <td>
+    <div></div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Aviation Fuel Revenues (Special Appropriation) Amendment Act 1992</i></div>
-
+<tr>
+  <td>
+    <div>Aviation Fuel Revenues (Special Appropriation) Amendment Act 1992</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>73, 1992</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>26 June 1992</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>26 June 1992</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>Ss. 7 and 8</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Aviation Fuel Revenues (Special Appropriation) Amendment Act 1993</i></div>
-
+<tr>
+  <td>
+    <div>Aviation Fuel Revenues (Special Appropriation) Amendment Act 1993</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>87, 1993</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>30 Nov 1993</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>30 Nov 1993</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
+  <td>
+    <div>—</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Civil Aviation Legislation Amendment Act 1995</i></div>
-
+<tr>
+  <td>
+    <div>Civil Aviation Legislation Amendment Act 1995</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>82, 1995</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>30 June 1995</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>S. 5 (items 2-10): 6&#160;July 1995 ( <i>see Gazette</i>1995, No. S270) <i>(a)</i></div>
-
+  <td>
+    <div>S. 5 (items 2-10): 6 July 1995 ( <i>see Gazette</i>1995, No. S270) <i>(a)</i></div>
   </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
+  <td>
+    <div>—</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><b>as amended by</b></div>
-
+<tr>
+  <td>
+    <div>as amended by</div>
   </td>
-  <td colspan="1" align="left">
-
+  <td>
+    <div></div>
   </td>
-  <td colspan="1" align="left">
-
+  <td>
+    <div></div>
   </td>
-  <td colspan="1" align="left">
-
+  <td>
+    <div></div>
   </td>
-  <td colspan="1" align="left">
-
+  <td>
+    <div></div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Civil Aviation Legislation Amendment Act 1998</i></div>
-
+<tr>
+  <td>
+    <div>Civil Aviation Legislation Amendment Act 1998</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>1, 1998</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>24 Mar 1998</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>Schedule 3 (item 1): 6 July 1995 <i>(b)</i></div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
+  <td>
+    <div>—</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Aviation Fuel Revenues (Special Appropriation) Amendment Act 1999</i></div>
-
+<tr>
+  <td>
+    <div>Aviation Fuel Revenues (Special Appropriation) Amendment Act 1999</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>97, 1999</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>16 July 1999</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>16 July 1999</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>Sch. 1 (Items 5, 6) \[ <i>see</i>Table A]</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Petroleum Excise Amendment (Measures to Address Evasion) Act 2000</i></div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>125, 2000</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>26 Oct 2000</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Schedule 1: Royal Assent <i>(c)</i></div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
   </td>
 </tr></table>
 
-<center>Back to Top</center>
+ 
 
-_(a)_	The _Aviation Fuel Revenues (Special Appropriation) Act 1988_ was amended by the _Civil Aviation Legislation Amendment Act 1995_, subsection 2(1) of which provides as follows:
+_(a)_     The _Aviation Fuel Revenues (Special Appropriation) Act 1988_ was amended by the _Civil Aviation Legislation Amendment Act 1995_, subsection 2(1) of which provides as follows:
 
-	(1)	Subject to this section, this Act commences on:
+                  (1)   Subject to this section, this Act commences on:
 
-	(a)	a day to be fixed by Proclamation; or
- 	(b)	the first day after the end of the period of 6 months beginning on the day on which this Act receives the Royal Assent;
+                             (a)   a day to be fixed by Proclamation; or
 
-		whichever is earlier.
+                             (b)   the first day after the end of the period of 6 months beginning on the day on which this Act receives the Royal Assent;
 
-_(b)_	The _Aviation Fuel Revenues (Special Appropriation) Act 1988_ was amended by the _Civil Aviation Legislation Amendment Act 1998_, subsection 2(3) of which provides as follows:
+                         whichever is earlier.
 
-	(3)	Schedule 3 is taken to have commenced on 6 July 1995, immediately after the commencement of item 7 of Schedule 3 to the _Civil Aviation Legislation Amendment Act 1995_.
+_(b)_    The _Aviation Fuel Revenues (Special Appropriation) Act 1988_ was amended by the _Civil Aviation Legislation Amendment Act 1998_, subsection 2(3) of which provides as follows:
 
-_(c)_	The _Aviation Fuel Revenues (Special Appropriation) Act 1988_ was amended by Schedule 1 only of the _Petroleum Excise Amendment (Measures to Address Evasion) Act 2000_, subsection 2(1) of which provides as follows:
+                  (3)   Schedule 3 is taken to have commenced on 6 July 1995, immediately after the commencement of item 7 of Schedule 3 to the _Civil Aviation Legislation Amendment Act 1995_.
 
-	(1)	This Act, other than item 5 of Schedule 2, commences on the day on which it receives the Royal Assent.
+## Table of Amendments
 
-**Table of Amendments**
+<table>
+<colgroup>
+  <col width="34%">
+  <col width="66%">
+</colgroup>
 
-<table><tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td colspan="2">
     <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>Provision affected</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>How affected</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>Title</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>am. No. 82, 1995</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 3</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>am. No. 73, 1992; No. 87, 1993; No. 82, 1995; No. 97, 1999; No. 125, 2000</div>
-
+  <td>
+    <div>am. No. 73, 1992; No. 87, 1993; No. 82, 1995; No. 97, 1999</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>Heading to s. 3A</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>rs. No. 82, 1995</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 3A</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>ad. No. 73, 1992</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
+<tr>
+  <td>
+    <div></div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>am. No. 82, 1995; No. 97, 1999</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>Heading to s. 4</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>am. No. 82, 1995</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 4</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>am. No. 73, 1992; No. 87, 1993; No. 82, 1995 (as am. by No. 1, 1998); No. 97, 1999</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 5</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>am. No. 73, 1992</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>Heading to s. 6</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>am. No. 82, 1995</div>
     <div>rep. No. 97, 1999</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 6</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>ad. No. 87, 1993</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
+<tr>
+  <td>
+    <div></div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>am. No. 82, 1995</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
+<tr>
+  <td>
+    <div></div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>rep. No. 97, 1999</div>
-
   </td>
 </tr></table>
 
-**Table A**
+ 
 
-**Application, saving or transitional provisions**
+Table A
 
-_Aviation Fuel Revenues (Special Appropriation) Amendment Act 1999_ (No.&#160;97,&#160;1999)
+### Application, saving or transitional provisions
 
-**Schedule 1** **5  Application** The amendments made by this Schedule apply in relation to amounts paid to the Commonwealth in respect of eligible aviation fuel on or after the day on which this Act receives the Royal Assent.
+_Aviation Fuel Revenues (Special Appropriation) Amendment Act 1999 (No. 97, 1999)_
 
-**6  Adjustment of amounts payable to CASA**
+## Schedule 1
 
-_Definitions_
+## 5  Application
 
-(1)	In this item:
+The amendments made by this Schedule apply in relation to amounts paid to the Commonwealth in respect of eligible aviation fuel on or after the day on which this Act receives the Royal Assent.
+
+## 6  Adjustment of amounts payable to CASA
+
+Definitions
+
+(1)        In this item:
 
 **_commencement day_** means the day on which this Act receives the Royal Assent.
- **_interim period_** means the period commencing on 12 May 1999 and ending immediately before the commencement day.
- **_Principal Act_** means the _Aviation Fuel Revenues (Special Appropriation) Act 1988_.
- **_retrospectivity assumptions_** means:
 
-<dl compact=""><dl compact=""><dl compact="">
+**_interim period_** means the period commencing on 12 May 1999 and ending immediately before the commencement day.
 
-<dt>(a)</dt><dd>the assumption that the amendments made by this Schedule to the Principal
+**_Principal Act_** means the _Aviation Fuel Revenues (Special Appropriation) Act 1988_.
 
-Act had had effect on and from 12 May 1999; and</dd>
+**_retrospectivity assumptions_** means:
 
-<dt>(b)</dt><dd>the assumption that the first determination that the Minister makes after
+                     (a)  the assumption that the amendments made by this Schedule to the Principal Act had had effect on and from 12 May 1999; and
 
-the commencement day under section 3A of the Principal Act as amended by this
+                     (b)  the assumption that the first determination that the Minister makes after the commencement day under section 3A of the Principal Act as amended by this Act had had effect on and from 12 May 1999.
 
-Act had had effect on and from 12 May 1999.
+Adjustment of amounts payable to CASA
 
-</dd>
+(2)        If:
 
-</dl></dl></dl>
-
-_Adjustment of amounts payable to CASA_
-
-(2)	If:
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>the amount that was actually payable to CASA under sections 4 and 6 of the
-
-Principal Act during the interim period;
-
-</dd>
-
-</dl></dl></dl>
+                     (a)  the amount that was actually payable to CASA under sections 4 and 6 of the Principal Act during the interim period;
 
 exceeds:
 
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(b)</dt><dd>the total amount that would have been payable to CASA under section 4 of
-
-the Principal Act during the interim period if the retrospectivity assumptions
-
-applied;
-
-</dd>
-
-</dl></dl></dl>
+                     (b)  the total amount that would have been payable to CASA under section 4 of the Principal Act during the interim period if the retrospectivity assumptions applied;
 
 the amount that is to be paid to CASA, after the commencement day, under the Principal Act as amended by this Act is to be reduced by an amount equal to the amount of the excess.
 
-</def></def>
-
-</def></def>
-
-
+ 
