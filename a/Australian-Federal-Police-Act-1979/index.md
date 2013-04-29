@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00158/Html/b55fb74f-8347-4a11-8088-f12785fcc4fe_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00128/Html/793123ef-b603-4b1f-b860-3352d33d062f_files/image001.gif)
 
 # Australian Federal Police Act 1979
 
 **Act No. 58 of 1979 as amended**
 
-This compilation was prepared on 30 March 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 4 March 2011
+ taking into account amendments up to Act No. 3 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -51,8 +51,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [8A](#8A).         Minister may direct which functions are protective service functions
 
 [9](#9).            Laws conferring powers on members
-
-[10](#10).          Appointment of members to other Police Forces
 
 [11](#11).          State and Territory writs and warrants
 
@@ -1170,16 +1168,6 @@ Note:          For State offences that have a federal aspect, 
 
                     <a name="constabl"></a>**_constable_** includes a member of the Police Force of a State or Territory.
 
-##### <a id="10"></a>10  Appointment of members to other Police Forces
-
-                   Nothing in this Act is intended to prevent a member or special member from being appointed (including at a particular rank) as:
-
-                     (a)  a member, however described, of the police force of a State or Territory; or
-
-                     (b)  a special constable, however described, of the police force of a State or Territory; or
-
-                     (c)  a member, however described, of a police force or other law enforcement agency of a foreign country.
-
 ##### <a id="11"></a>11  State and Territory writs and warrants
 
                    Where a writ or warrant is issued under the law of a State or Territory in relation to an offence or other matter under a law of the Commonwealth or of a Territory, the writ or warrant may be executed by a member, notwithstanding that it is not addressed to a member and notwithstanding any requirement of the law of the State or Territory as to the person by whom it may be executed.
@@ -1720,7 +1708,7 @@ the Governor‑General shall terminate his or her appointment.
 
 #### Subdivision A—Engagement of AFP employees etc.
 
-##### <a id="23"></a>23  Employer powers etc. of Commissioner
+##### <a id="23"></a>23  Employer powers etc. of Commissioner
 
              (1)  The Commissioner, on behalf of the Commonwealth, has all the rights, duties and powers of an employer in respect of AFP employees.
 
@@ -4341,7 +4329,7 @@ whether present or future and whether vested or contingent.
 
                      (b)  where property of the person has been transferred to another person within that period for a consideration whose value is less than the commercial value of the property when the transfer was made—an interest in the property equal to the proportion worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00158/Html/b55fb74f-8347-4a11-8088-f12785fcc4fe_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00128/Html/793123ef-b603-4b1f-b860-3352d33d062f_files/image002.gif)
 
 where:
 
@@ -4529,7 +4517,7 @@ the court must:
 
                      (a)  specify in the superannuation order the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00158/Html/b55fb74f-8347-4a11-8088-f12785fcc4fe_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00128/Html/793123ef-b603-4b1f-b860-3352d33d062f_files/image003.gif)
 
                             where:
 
@@ -4591,7 +4579,7 @@ the court must:
 
 the person is entitled, on the day on which he or she ceases to be a member of the scheme, to payment of an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00158/Html/b55fb74f-8347-4a11-8088-f12785fcc4fe_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00128/Html/793123ef-b603-4b1f-b860-3352d33d062f_files/image004.gif)
 
 where:
 
@@ -6832,7 +6820,7 @@ Remainder: Royal Assent</div>
     <div>2 Mar 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (item 1): 30 Mar 2011</div>
+    <div>Schedule 2 (item 1): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -6870,23 +6858,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Sch. 5 (item 21) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 5 (items 22, 23) and Schedule 7 (item 18): \[ <i>see</i>Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
   </td>
 </tr></table>
 
@@ -7508,14 +7479,6 @@ _(z)_     Subsection 2(1) (item 11) of the _Fair Work (State Referral 
   </td>
   <td>
     <div>rep. No. 117, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 1, 2011</div>
   </td>
 </tr>
 <tr>
@@ -11307,29 +11270,27 @@ rep. No. 152, 2004</div>
 
 ### Note 2
 
-_Statute Law Revision Act 2011 (No. 5, 2011)_
+_Aviation Crimes and Policing Legislation Amendment Act 2011 (No. 1, 2011)_
 
-The following amendments commence on 19 April 2011:
+The following amendment commences on 30 March 2011:
 
-## Schedule 5
+## Schedule 2
 
-## 22  Subsection 4(1)
+## 1  After section 9
 
 Insert:
 
-                    <a name="financ-minist"></a>**_Finance Minister_** means the Minister administering the _Financial Management and Accountability Act 1997_.
+##### <a id="10"></a>10  Appointment of members to other Police Forces
 
-## 23  Subsections 47B(3) and 54(2)
+                   Nothing in this Act is intended to prevent a member or special member from being appointed (including at a particular rank) as:
 
-Omit “Minister for Finance”, substitute “Finance Minister”.
+                     (a)  a member, however described, of the police force of a State or Territory; or
 
-## Schedule 7
+                     (b)  a special constable, however described, of the police force of a State or Territory; or
 
-## 18  Subsection 37(7) (definition of _Secretary_)
+                     (c)  a member, however described, of a police force or other law enforcement agency of a foreign country.
 
-Omit “Secretary to”, substitute “Secretary of”.
-
-As at 30 March 2011 the amendments are not incorporated in this compilation.
+As at 4 March 2011 the amendment is not incorporated in this compilation.
 
 ## Table A
 
@@ -11628,7 +11589,7 @@ _Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001 (
 _Australian Federal Police and Other Legislation Amendment Act 2004 
  (No. 64, 2004)_
 
-##### <a id="4"></a>4  Transitional and application
+##### <a id="4"></a>4  Transitional and application
 
              (1)  Each APS transferee is taken to have been engaged, at the transfer time, under section 24 of the _Australian Federal Police Act 1979_.
 
