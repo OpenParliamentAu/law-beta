@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00413/Html/AustPrudRegAuth1998_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00568/Html/AustPrudRegAuth1998_WD02_image001.gif)
 
 # Australian Prudential Regulation Authority Act 1998
 
 **Act No. 50 of 1998 as amended**
 
-This compilation was prepared on 4 September 2009
- taking into account amendments up to Act No. 75 of 2009
+This compilation was prepared on 27 October 2008
+ taking into account amendments up to Act No. 105 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -1949,23 +1949,6 @@ Remainder: Royal Assent</div>
   <td colspan="2">
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Sector Legislation Amendment (Enhancing Supervision and Enforcement) Act 2009</div>
-  </td>
-  <td>
-    <div>75, 2009</div>
-  </td>
-  <td>
-    <div>27 Aug 2009</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 188, 189): \[ <i>see</i>Note 2]</div>
-  </td>
-  <td colspan="2">
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Australian Prudential Regulation Authority Act 1998_ was amended by Schedule 18 (items 41 and 42) only of the _Financial Sector Reform (Amendments and Transitional Provisions) Act 1998_, subsection 2(18) of which provides as follows:
@@ -3191,24 +3174,6 @@ No. 42, 2003</div>
     <div>am. No. 105, 2008</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Financial Sector Legislation Amendment (Enhancing Supervision and Enforcement) Act 2009 (No. 75, 2009)_
-
-The following amendments commence on 27 February 2010 unless proclaimed earlier:
-
-## Schedule 1
-
-## 188  Paragraph 3(2)(e)
-
-After “under”, insert “section 21 of”.
-
-## 189  At the end of paragraph 3(2)(e)
-
-Add “or a registered NOHC within the meaning of that Act”.
-
-As at 4 September 2009 the amendments are not incorporated in this compilation.
 
 ## Table A
 
