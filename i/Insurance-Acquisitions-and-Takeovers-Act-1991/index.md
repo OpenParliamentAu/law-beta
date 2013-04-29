@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00421/Html/InsAcqisTakeovers1991_WD02HYP_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00710/Html/AcqisTakeovers1991_WD02_image001.gif)
 
 # Insurance Acquisitions and Takeovers Act 1991
 
 **Act No. 6 of 1992 as amended**
 
-This compilation was prepared on 4 September 2009
- taking into account amendments up to Act No. 75 of 2009
+This compilation was prepared on 23 December 2008
+ taking into account amendments up to Act No. 144 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -632,7 +632,7 @@ this section has effect as if the members or policy holders of the company were 
 
 the person is taken to hold that type of direct control interest in the second level company equal to the percentage calculated using the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2009C00421/Html/InsAcqisTakeovers1991_WD02HYP_image002.gif)
+First level percentage ![](http://www.comlaw.gov.au/Details/C2008C00710/Html/AcqisTakeovers1991_WD02_image002.gif) Second level percentage
 
 where:
 
@@ -904,7 +904,7 @@ Note:          Subsection 4B(2) of the _Crimes Act 1914_ allow
 
 ### Division 1—Interpretation
 
-##### <a id="49"></a>49  Interpretation
+##### <a id="49"></a>49  Interpretation
 
                    In this Part:
 
@@ -1226,11 +1226,11 @@ request the Minister to reconsider the decision.
 
                    An act is not invalidated by the fact that it constitutes an offence against this Act.
 
-##### <a id="72"></a>72  Minister’s consent for criminal proceedings
+##### <a id="72"></a>72  Minister’s consent for criminal proceedings
 
                    Proceedings for an offence against, or arising out of, this Act must not be instituted without the written consent of the Minister.
 
-##### <a id="73"></a>73  Minister may obtain information and documents
+##### <a id="73"></a>73  Minister may obtain information and documents
 
              (1)  If the Minister has reason to believe that a person is capable of giving information or producing documents about matters that are relevant to the exercise by the Minister of his or her powers under this Act, the Minister may, by notice in writing served on that person, require that person:
 
@@ -1390,7 +1390,7 @@ the person is not liable to be punished by imprisonment for that offence.
 
                      (b)  an alteration of a constituent document of an Australian-registered insurance company that occurred before the commencement of this Act.
 
-##### <a id="82"></a>82  Regulations
+##### <a id="82"></a>82  Regulations
 
              (1)  The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters:
 
@@ -1685,23 +1685,6 @@ Remainder: 1 July 2003 ( <i>see</i>s. 2(1) and <i>Gazette</i>2003, No. S230)</
   </td>
   <td>
     <div>Sch. 14 (item 119)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Sector Legislation Amendment (Enhancing Supervision and Enforcement) Act 2009</div>
-  </td>
-  <td>
-    <div>75, 2009</div>
-  </td>
-  <td>
-    <div>27 Aug 2009</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 209–214): \[ <i>see</i>Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
   </td>
 </tr></table>
 
@@ -2628,41 +2611,15 @@ _(d)_ The _Insurance Acquisitions and Takeovers Act 1991_ was amended by Schedul
   <td>
     <div>am. No. 54, 1998</div>
   </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
 </tr></table>
-
-### Note 2
-
-_Financial Sector Legislation Amendment (Enhancing Supervision and Enforcement) Act 2009 (No. 75, 2009)_
-
-The following amendments commence on 27 February 2010 unless proclaimed earlier:
-
-## Schedule 1
-
-## 209  Subsection 4(1) (paragraph (b) of the definition of _accounting period_)
-
-After “under”, insert “section 21 of”.
-
-## 210  Subsection 4(1) (paragraph (b) of the definition of _Australian-registered insurance company_)
-
-After “under”, insert “section 21 of”.
-
-## 211  Subsection 4(1) (subparagraph (a)(ii) of the definition of _book value_)
-
-After “under”, insert “section 21 of”.
-
-## 212  Subsection 4(1) (paragraph (a) of the definition of _total book net liabilities_)
-
-After “under”, insert “section 21 of”.
-
-## 213  Subparagraph 36(c)(ii)
-
-After “under”, insert “section 21 of”.
-
-## 214  Paragraphs 77(1)(a) and 78(1)(a)
-
-After “registered under”, insert “section 21 of”.
-
-As at 4 September 2009 the amendments are not incorporated in this compilation.
 
 ## Table A
 
