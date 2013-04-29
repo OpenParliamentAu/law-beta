@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00719/Html/24292ec0-7031-472a-ad2d-fbe84544623f_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00264/Html/a286be01-40fe-4c03-ac0d-3cfc8397d898_files/image001.gif)
 
 # Coal Mining Industry (Long Service Leave Funding) Act 1992
 
 **Act No. 60 of 1992 as amended**
 
-This compilation was prepared on 5 September 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 19 April 2011
+ taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -482,7 +482,7 @@ the reference in that subsection to the first‑mentioned organisation is taken 
 
              (2)   The Chairperson or Deputy Chairperson may resign from the office of Chairperson or Deputy Chairperson by writing signed by him or her and delivered to the Minister but a resignation from such an office does not affect his or her appointment as a Director.
 
-##### <a id="27"></a>27  Outside employment
+##### <a id="27"></a>27  Outside employment
 
                    A Director must not engage in any paid employment that, in the Minister’s opinion, conflicts with the proper performance of the Director’s functions.
 
@@ -702,7 +702,7 @@ does not exceed $50,000 or, if a higher amount is prescribed, that higher amount
 
              (2)  For the purposes of subsection (1), the maximum reimbursable amount in respect of an eligible employee is the amount worked out in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00719/Html/24292ec0-7031-472a-ad2d-fbe84544623f_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00264/Html/a286be01-40fe-4c03-ac0d-3cfc8397d898_files/image002.gif)
 
 where:
 
@@ -1133,23 +1133,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 371–375) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11)</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Coal Mining Industry (Long Service Leave Funding) Act 1992_ was amended by Schedule 2 (items 624–632) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
@@ -1474,42 +1457,6 @@ _(e)_     Subsection 2(1) (item 24) of the _Fair Work (State Referral 
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 371  At the end of subsection 31(1)
-
-Add:
-
-Note:          For rules that apply to persons acting as the Chairperson, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 372  At the end of subsection 31(2)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 373  Subsection 31(5)
-
-Repeal the subsection.
-
-## 374  At the end of subsection 32(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 375  Subsection 32(3)
-
-Repeal the subsection.
-
-As at 5 September 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -1580,21 +1527,5 @@ _Note:       This ensures there are applicable award‑derived long 
 **_applicable award‑derived long service leave terms_** has the meaning given by subsection 113(3) of the _Fair Work Act 2009_.
 
 **_eligible employee_** has the same meaning as in the _Coal Mining Industry (Long Service Leave Funding) Act 1992_.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
