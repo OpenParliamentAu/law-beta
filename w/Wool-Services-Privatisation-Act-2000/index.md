@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00564/Html/ce356db5-ca3e-40b0-9c79-5e243e4e2c53_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00559/Html/WoolServPriv2000_WD02HYP_image001.gif)
 
 # Wool Services Privatisation Act 2000
 
 **Act No. 145 of 2000 as amended**
 
-This compilation was prepared on 25 July 2012
- taking into account amendments up to Act No. 82 of 2012
+This compilation was prepared on 29 September 2006
+ taking into account amendments up to Act No. 101 of 2006
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -118,9 +118,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Schedule 1—Amendments and repeals** 
 
-Part 1—Amendments and repeals                                                                        26
+Part 1—Amendments and repeals                                                                            25
 
-Part 2—Transitional and savings                                                                           27
+Part 2—Transitional and savings                                                                               26
 
 **Notes** 
 
@@ -146,9 +146,9 @@ Part 2—Transitional and savings               
 
                    This Act binds the Crown in all its capacities.
 
-##### <a id="5"></a>5  External Territories
+##### <a id="5"></a>5  External  Territories
 
-                   This Act extends to all the external Territories.
+                   This Act extends to all the external Territories.
 
 ##### <a id="6"></a>6  Extraterritorial operation
 
@@ -180,7 +180,7 @@ Part 2—Transitional and savings               
 
                      (b)  the issue of shares by a subsidiary of HoldCo to a shareholder in HoldCo;
 
-                     (c)  the cancellation of shares in HoldCo (whether by buy‑back, capital reduction or any other means).
+                     (c)  the cancellation of shares in HoldCo (whether by buy-back, capital reduction or any other means).
 
                     <a name="commenc-time"></a>**_commencing time_** means the beginning of the day on which this Act receives the Royal Assent.
 
@@ -210,7 +210,7 @@ Note:          Under Division 4, the Organisation is convert
 
                     <a name="restructur-period"></a>**_restructuring period_** means the period starting at the commencing time and ending 2 years after the conversion time.
 
-                    <a name="subsidiari"></a>**_subsidiary_** means a wholly‑owned subsidiary (within the meaning of the Corporations Law) of HoldCo.
+                    <a name="subsidiari"></a>**_subsidiary_** means a wholly-owned subsidiary (within the meaning of the Corporations Law) of HoldCo.
 
                     <a name="wool-levi"></a>**_wool levy_** means levy or charge that:
 
@@ -490,7 +490,7 @@ Note:          This section could apply, for example, where to
 
                             (iv)  the issue of shares by a subsidiary of HoldCo to a shareholder in HoldCo;
 
-                             (v)  the cancellation of shares in HoldCo (whether by buy‑back, capital reduction or any other means).
+                             (v)  the cancellation of shares in HoldCo (whether by buy-back, capital reduction or any other means).
 
 ##### <a id="25"></a>25  Share capital
 
@@ -508,25 +508,25 @@ Note:          This section could apply, for example, where to
 
              (1)  For the purposes of the 1936 Tax Act and the 1997 Tax Act, if an asset or liability of a restructuring body becomes an asset or liability of another restructuring body as a result of an exempt transfer, then no amount is to be included in the assessable income of the transferor or transferee because of the transfer.
 
-             (2)  To the extent that an exempt transfer involves a CGT event, Subdivision 126‑B of the 1997 Tax Act is to be applied on the basis that:
+             (2)  To the extent that an exempt transfer involves a CGT event, Subdivision 126-B of the 1997 Tax Act is to be applied on the basis that:
 
-                     (a)  subsection 126‑50(4) of that Act were omitted; and
+                     (a)  subsection 126-50(4) of that Act were omitted; and
 
-                     (b)  in deciding whether the condition in paragraph 126‑55(1)(a) of that Act is met, it is to be assumed that the transferor was not, at any relevant time, exempt from income tax; and
+                     (b)  in deciding whether the condition in paragraph 126-55(1)(a) of that Act is met, it is to be assumed that the transferor was not, at any relevant time, exempt from income tax; and
 
-                     (c)  the condition in paragraph 126‑55(1)(b) of that Act were taken to be met.
+                     (c)  the condition in paragraph 126-55(1)(b) of that Act were taken to be met.
 
-Note:          The broad effect of subsection (2) is that the transfer will qualify for roll‑over concessions under the rules that apply to certain transactions within a wholly‑owned group.
+Note:          The broad effect of subsection (2) is that the transfer will qualify for roll-over concessions under the rules that apply to certain transactions within a wholly-owned group.
 
-             (3)  To the extent that an exempt transfer involves a disposal of property for the purposes of Subdivision 41‑A of the 1997 Tax Act, that Subdivision is to be applied on the basis that:
+             (3)  To the extent that an exempt transfer involves a disposal of property for the purposes of Subdivision 41-A of the 1997 Tax Act, that Subdivision is to be applied on the basis that:
 
-                     (a)  in deciding whether the condition in paragraph 41‑20(1)(a) of that Act is met, it is to be assumed that the transferor was not, at any relevant time, exempt from income tax; and
+                     (a)  in deciding whether the condition in paragraph 41-20(1)(a) of that Act is met, it is to be assumed that the transferor was not, at any relevant time, exempt from income tax; and
 
-                     (b)  Subdivision 126‑B of that Act applies, for the purposes of Subdivision 41‑A of that Act, with the modifications set out in subsection (2) of this section; and
+                     (b)  Subdivision 126-B of that Act applies, for the purposes of Subdivision 41-A of that Act, with the modifications set out in subsection (2) of this section; and
 
-                     (c)  the transferor and transferee had made a joint election under section 41‑55 of that Act.
+                     (c)  the transferor and transferee had made a joint election under section 41-55 of that Act.
 
-Note:          The broad effect of subsection (3) is that the transfer will qualify for roll‑over concessions under the provisions of the 1997 Tax Act that deal with capital allowances.
+Note:          The broad effect of subsection (3) is that the transfer will qualify for roll-over concessions under the provisions of the 1997 Tax Act that deal with capital allowances.
 
              (4)  In this section:
 
@@ -552,7 +552,7 @@ Note:          The broad effect of subsection (3) is that th
 
                      (c)  a certified demerger matter.
 
-Note:          Section 110‑25 of the 1997 Tax Act defines the elements of the cost base.
+Note:          Section 110-25 of the 1997 Tax Act defines the elements of the cost base.
 
 ### Division 7—Commonwealth funding for research body
 
@@ -580,11 +580,7 @@ Funding contract
 
                      (a)  category A payments are spent by the research body on research and development activities, other activities or both, for the benefit of Australian woolgrowers; and
 
-                     (b)  category B payments are spent by the research body on:
-
-                              (i)  research and development activities for the benefit of Australian woolgrowers and the Australian community generally; and
-
-                             (ii)  making payments to the Commonwealth under subsection (7).
+                     (b)  category B payments are spent by the research body on research and development activities for the benefit of Australian woolgrowers and the Australian community generally.
 
              (3)  The contract does not have to oblige the Commonwealth to pay the full amounts that could be paid out of the money appropriated by this section.
 
@@ -600,67 +596,29 @@ Overall limit on appropriation for category B payments
 
              (6)  For category B payments, the total limit on the appropriation is the total amount of wool levy received by the Commonwealth. For this purpose, amounts received by the Commonwealth as penalties for late payment of wool levy are not to be treated as amounts of wool levy.
 
-Retention limit for category B payments
+Annual limit on appropriation for category B payments
 
-             (7)  The category B payments made to the research body during a particular financial year are subject to the condition that, if:
+             (7)  For category B payments in respect of a financial year, the limit on the appropriation is the lesser of:
 
-                     (a)  before the end of 31 October next following the financial year, the Minister determines the amount of the gross value of eligible wool produced in Australia in the financial year; and
+                     (a)  0.5% of the amount determined by the Minister to be the gross value of eligible wool produced in Australia in that financial year; and
 
-                     (b)  as at the end of 31 October next following the financial year, the sum of the category B payments that were paid to the research body during the financial year exceeds the lesser of:
-
-                              (i)  0.5% of the amount of the gross value of eligible wool produced in Australia in the financial year as determined by the Minister; and
-
-                             (ii)  50% of the amount spent by the research body in the financial year on activities that qualify, under the contract, as research and development activities;
-
-the research body will pay to the Commonwealth an amount equal to the excess.
-
-Note:          This ensures that the sum of the category B payments that are retained by the research body in relation to the financial year does not exceed the lesser of the amounts calculated under subparagraphs (b)(i) and (b)(ii).
-
-          (7A)  If:
-
-                     (a)  before the end of 31 October next following a financial year, the Minister has not determined under subsection (7) the amount of the gross value of eligible wool produced in Australia in the financial year; and
-
-                     (b)  the Minister has determined under subsection (7) the amount of the gross value of eligible wool produced in Australia in the previous financial year;
-
-the Minister is taken to have made, immediately before the end of that 31 October, a determination under subsection (7) that the amount of the gross value of eligible wool produced in Australia in the financial year is equal to the amount of the gross value of eligible wool produced in Australia determined under subsection (7) for the previous financial year.
-
-          (7B)  An amount payable under subsection (7) by the research body:
-
-                     (a)  is a debt due to the Commonwealth; and
-
-                     (b)  may be recovered by the Minister, on behalf of the Commonwealth, by action in a court of competent jurisdiction.
-
-          (7C)  A determination made under subsection (7) is not a legislative instrument.
+                     (b)  50% of the amount spent by the research body in that financial year on activities that qualify, under the contract, as research and development activities.
 
              (8)  For the purposes of subsection (7), the regulations may prescribe the manner in which the Minister is to determine the gross value of eligible wool produced in Australia in a financial year.
 
           (8A)  If there is an unmatched R&amp;D excess for a financial year that started or starts on or after 1 July 2001, the amount spent by the research body in the following financial year on activities that qualify, under the funding contract, as research and development activities is taken, for the purposes of this section (including for the purposes of this subsection and subsection (8B)), to be increased by the amount of the unmatched R&amp;D excess.
 
-Note:          This means that research and development expenditure that is not “50% matched” in one financial year because of the cap in subsection (6) or the condition in subparagraph (7)(b)(i) can be carried forward into later years.
+Note:          This means that research and development expenditure that is not “50% matched” in one financial year because of the cap in subsection (6) or paragraph (7)(a) can be carried forward into later years.
 
           (8B)  For the purposes of subsection (8A), there is an **_unmatched R&amp;D excess_** for a financial year if:
 
                      (a)  the research body spends a particular amount (the **_R&amp;D spend amount_**) in the financial year on activities that qualify, under the funding contract, as research and development activities; and
 
-                     (b)  because of the operation of subsection (6) or subparagraph (7)(b)(i), the net category B payments in respect of the financial year are less than 50% of the R&amp;D spend amount;
+                     (b)  because of the operation of subsection (6) or paragraph (7)(a), the category B payments in respect of the financial year are less than 50% of the R&amp;D spend amount;
 
 and the amount of the unmatched R&amp;D excess is:
 
-![](http://www.comlaw.gov.au/Details/C2012C00564/Html/ce356db5-ca3e-40b0-9c79-5e243e4e2c53_files/image002.gif)
-
-Set off
-
-          (8C)  If:
-
-                     (a)  an amount (the **_first amount_**) is payable by the research body under subsection (7); and
-
-                     (b)  another amount (the **_second amount_**) is payable by the Commonwealth to the research body under the funding contract;
-
-the Minister may, on behalf of the Commonwealth, set off the whole or a part of the first amount against the whole or a part of the second amount.
-
-Net category B payments
-
-          (8D)  For the purposes of this section, **_net category B payments_** for a financial year means the total of the category B payments made to the research body during the financial year, less the amount payable by the research body under subsection (7) as a condition of those category B payments.
+![](http://www.comlaw.gov.au/Details/C2006C00559/Html/WoolServPriv2000_WD02HYP_image002.gif)
 
              (9)  In this section:
 
@@ -668,11 +626,11 @@ Net category B payments
 
 ##### <a id="32"></a>32  Setting the rate of wool levy
 
-             (1)  The research body is taken to be a designated body in relation to wool levy for the purposes of the rate‑setting clauses.
+             (1)  The research body is taken to be a designated body in relation to wool levy for the purposes of the rate-setting clauses.
 
-             (2)  Before 1 January 2004, the research body must make a single recommendation for the purposes of the rate‑setting clauses.
+             (2)  Before 1 January 2004, the research body must make a single recommendation for the purposes of the rate-setting clauses.
 
-             (3)  The research body must continue to make recommendations in relation to the rate‑setting clauses so that each recommendation is made not later than the third anniversary of the previous recommendation.
+             (3)  The research body must continue to make recommendations in relation to the rate-setting clauses so that each recommendation is made not later than the third anniversary of the previous recommendation.
 
              (4)  Before making each recommendation, the research body must conduct a poll in accordance with the regulations. The recommendation must be in accordance with the results of the poll.
 
@@ -680,7 +638,7 @@ Net category B payments
 
              (6)  In this section:
 
-                    <a name="rate-set-claus"></a>**_rate‑setting clauses_** means:
+                    <a name="rate-set-claus"></a>**_rate-setting clauses_** means:
 
                      (a)  clause 14 of Schedule 27 to the _Primary Industries (Excise) Levies Act 1999_; and
 
@@ -754,7 +712,7 @@ unless the contrary is established.
 
 ##### <a id="39"></a>39  Regulations
 
-             (1)  The Governor‑General may make regulations prescribing matters:
+             (1)  The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -774,7 +732,7 @@ The amendments made by this Schedule are incorporated in the compilations on Com
 
 _Australian Wool Research and Promotion Organisation Act 199_ 3 \[repealed by Act No. 145, 2000, Sch. 1]
 
-_Equal Employment Opportunity (Commonwealth Authorities) Act 1987_
+_Equal Employment__Opportunity__(Commonwealth Authorities) Act 1987_
 
 _Primary Industries Levies and Charges Collection Act 1991_
 
@@ -796,19 +754,19 @@ For access to the wording of the amendments made by this Schedule, _see_ Act No.
 
 ## 9  Continuation of agreements etc.
 
-(1)       The repeal of the _Australian Wool Research and Promotion Organisation Act 1993_ at the conversion time does not affect the operation, after the conversion time, of agreements that were made under Part 4 of that Act before the conversion time.
+(1)        The repeal of the _Australian Wool Research and Promotion Organisation Act 1993_ at the conversion time does not affect the operation, after the conversion time, of agreements that were made under Part 4 of that Act before the conversion time.
 
-(2)       This item is enacted for the avoidance of doubt.
+(2)        This item is enacted for the avoidance of doubt.
 
 _Note:       The registration of the Organisation as a company under the Corporations Law does not create a new legal entity or affect the Organisation’s existing property, rights or obligations (see section 601BM of the Corporations Law)._
 
 ## 10  Final annual report for the Organisation
 
-(1)       For the final reporting period, the directors of HoldCo must, in relation to the Organisation, prepare the report referred to in section 9 of the _Commonwealth Authorities and Companies Act 1997_.
+(1)        For the final reporting period, the directors of HoldCo must, in relation to the Organisation, prepare the report referred to in section 9 of the _Commonwealth Authorities and Companies Act 1997_.
 
-(2)       For the purposes of this item, the final reporting period is to be treated as a financial year.
+(2)        For the purposes of this item, the final reporting period is to be treated as a financial year.
 
-(3)       In this item:
+(3)        In this item:
 
 **_final reporting period_** means the period that:
 
@@ -890,7 +848,7 @@ Remainder: Royal Assent</div>
     <div>Ss. 4–14 and Schedule 3 (items 569, 570): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(a)</i></div>
   </td>
   <td>
-    <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
+    <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
   </td>
 </tr>
 <tr>
@@ -944,30 +902,13 @@ Remainder: Royal Assent</div>
     <div>Sch. 6 (items 
 5–11)</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Framework Legislation Amendment Act (No. 2) 2012</div>
-  </td>
-  <td>
-    <div>82, 2012</div>
-  </td>
-  <td>
-    <div>28 June 2012</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 125–133): 29 June 2012</div>
-  </td>
-  <td>
-    <div>Sch. 1 (items 132, 133)</div>
-  </td>
 </tr></table>
 
 _(a)_ The _Wool Services Privatisation Act 2000_ was amended by Schedule 3 (items 569, 570) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
 
                  (3)   Subject to subsections (4) to (10), Schedule 3 commences, or is taken to have commenced, at the same time as the _Corporations Act 2001_.
 
-_(b)_ Subsection 2(1) (item 9) of the _New Business Tax System (Consolidation and Other Measures) Act (No. 1) 2002_ provides as follows:
+_(b)_ Subsection 2(1) (item9) of the _New Business Tax System (Consolidation and Other Measures) Act (No. 1) 2002_ provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
 
@@ -1044,34 +985,10 @@ _(b)_ Subsection 2(1) (item 9) of the _New Business Tax System (Consolidation an
 </thead>
 <tr>
   <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 7</div>
   </td>
   <td>
     <div>am. No. 101, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
@@ -1092,26 +1009,10 @@ _(b)_ Subsection 2(1) (item 9) of the _New Business Tax System (Consolidation an
 </tr>
 <tr>
   <td>
-    <div><b>Division 6</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Note to s. 27(2)</div>
   </td>
   <td>
     <div>am. No. 117, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 7</b></div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
@@ -1127,15 +1028,7 @@ _(b)_ Subsection 2(1) (item 9) of the _New Business Tax System (Consolidation an
     <div>S. 31</div>
   </td>
   <td>
-    <div>am. No. 54, 2004; No. 101, 2006; No. 82, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 31(8A)</div>
-  </td>
-  <td>
-    <div>am. No. 82, 2012</div>
+    <div>am. No. 54, 2004; No. 101, 2006</div>
   </td>
 </tr></table>
 
@@ -1174,17 +1067,17 @@ Even though an Act is repealed or amended by this Act, the repeal or amendment i
 
 in relation to any act done or omitted to be done, any state of affairs existing, or any period ending, before the repeal or amendment applies.
 
-Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998‑99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
+Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998-99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
 
-                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998‑99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
+                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998-99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
 
-                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998‑99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
+                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998-99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
 
                    Despite the repeal of sections 160ARU and 160ARV, item 9 will ensure that the general interest charge will accrue on the unpaid franking deficit tax and penalty until they are paid.
 
                    Item 7 will also preserve Greg Ltd’s right, under former section 160ART of that Act, to object against the Commissioner’s amended assessment (including the penalty), since the objection is the exercise of a right in relation to a franking year that ended before the repeal of Part IIIAA.
 
-Example 2: During the 1997‑98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
+Example 2: During the 1997-98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
 
                    Following an audit undertaken after the repeal of those Divisions, the Commissioner discovers that the withheld amounts have not been remitted. The company’s records are incomplete and the Commissioner is unable to completely ascertain the extent of its liability for the withheld amounts. Under section 222AGA of that Act, the Commissioner makes an estimate of the liability.
 
@@ -1215,32 +1108,5 @@ If the operation of a provision (the **_subject provision_**) of any Act or legi
 ## 11  Schedule does not limit operation of section 8 of the _Acts Interpretation Act 1901_
 
 This Schedule does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
-
-* * *
-
-_Financial Framework Legislation Amendment Act (No. 2) 2012
- (No. 82, 2012)_
-
-## Schedule 1
-
-## 132  Application—section 31 of the _Wool Services Privatisation Act 2000_
-
-(1)       Despite the amendments of the _Wool Services Privatisation Act 2000_ by this Schedule, section 31 of that Act continues to apply, after the commencement of this item, in relation to category B payments made to the research body during:
-
-                     (a)  the financial year in which this item commences; or
-
-                     (b)  an earlier financial year;
-
-as if those amendments had not been made.
-
-(2)       Subsection 31(7) of the _Wool Services Privatisation Act 2000_ as amended by this Schedule applies in relation to amounts paid to the research body during:
-
-                     (a)  the financial year next following the financial year in which this item commences; or
-
-                     (b)  a later financial year.
-
-## 133  Transitional—determinations made under section 31 of the _Wool Services Privatisation Act 2000_
-
-Subsection 31(7A) of the _Wool Services Privatisation Act 2000_ as amended by this Schedule has effect as if a determination under repealed subsection 31(7) of the _Wool Services Privatisation Act 2000_ had been made under subsection 31(7) of that Act as amended by this Schedule.
 
  
