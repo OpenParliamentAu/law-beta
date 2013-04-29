@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2007C00072/Html/c7b89e0b-395e-4afc-bc71-e17a6bb5e5c6_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00054/Html/EnvirProtNTSupCrt78_image001.gif)
 
 # Environment Protection (Northern Territory Supreme Court) Act 1978
 
 **Act No. 30 of 1978 as amended**
 
-This compilation was prepared on 19 February 2007
+This compilation was prepared on 8 January 2007
  taking into account amendments up to Act No. 165 of 2006
 
 The text of any of those amendments not in force 
@@ -14,21 +14,21 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
-[1](#1).            Short title [_see_ Note 1]                                                                         1
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
 [2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Interpretation                                                                                        1
+[3](#3).            Interpretation                                                                                       1
 
 [4](#4).            Jurisdiction of Supreme Court                                                             3
 
 [5](#5).            Exercise of jurisdiction                                                                         3
 
-[6](#6).            Saving                                                                                                  4
+[6](#6).            Saving                                                                                                   4
 
 **Notes** 
 
@@ -36,7 +36,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
 
-                   This Act may be cited as the _Environment Protection (Northern Territory Supreme Court) Act 1978_.
+                   This Act may be cited as the _Environment Protection (__Northern Territory__Supreme Court) Act 1978_.
 
 ##### <a id="2"></a>2  Commencement [_see_ Note 1]
 
@@ -52,7 +52,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="director"></a>**_Director_** has the meaning given by the _Environment Protection and Biodiversity Conservation Act 1999_.
 
-                    <a name="ecosystem"></a>**_ecosystem_** means a dynamic complex of plant, animal and micro‑organism communities and their non‑living environment interacting as a functional unit.
+                    <a name="ecosystem"></a>**_ecosystem_** means a dynamic complex of plant, animal and micro-organism communities and their non-living environment interacting as a functional unit.
 
                     <a name="environ"></a>**_environment_** includes:
 
@@ -78,13 +78,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                              (ii)  an authority under section 41 of the _Atomic Energy Act 1953_; and
 
-                            (iii)  an agreement under Part IV of the _Aboriginal__Land__Rights (Northern Territory) Act 1976_.
+                            (iii)  an agreement under Part IV of the _Aboriginal__Land__Rights (__Northern   Territory__) Act 1976_; and
+
+                            (iv)  an instrument giving the approval of the Governor-General under paragraph 355(1)(a) of the _Environment Protection and Biodiversity Conservation Act 1999_.
 
                     <a name="requir"></a>**_requirement_** means an obligation, condition, restriction or prohibition.
 
-                    <a name="uranium-mine-oper"></a>**_uranium mining operations_** means any operations or activities for or in connexion with, or incidental to, the mining (whether by underground or surface working) or recovery of uranium‑bearing ore or the production of material from that ore and, in particular, without limiting the generality of the foregoing, includes:
+                    <a name="uranium-mine-oper"></a>**_uranium mining operations_** means any operations or activities for or in connexion with, or incidental to, the mining (whether by underground or surface working) or recovery of uranium-bearing ore or the production of material from that ore and, in particular, without limiting the generality of the foregoing, includes:
 
-                     (a)  prospecting and exploration for uranium‑bearing ore, the milling, refining, treatment and processing of uranium‑bearing ore and the handling, transportation, storage and disposal of uranium‑bearing ore and of material produced from uranium‑bearing ore; and
+                     (a)  prospecting and exploration for uranium-bearing ore, the milling, refining, treatment and processing of uranium-bearing ore and the handling, transportation, storage and disposal of uranium-bearing ore and of material produced from uranium-bearing ore; and
 
                      (b)  the construction and use of towns, camps, dams, pipelines, power lines or other structures, and the performance of any other work, for the purposes of any such operations or activities. 
 
@@ -108,7 +110,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                              (ii)  an order authorizing or approving the carrying out or doing of work or any other thing by another person for a purpose referred to in subparagraph (i);
 
-                            (iii)  an order requiring the first‑mentioned person to pay or reimburse the whole or any part of the cost of the carrying out or doing of work or any other thing in accordance with such an authorization or approval;
+                            (iii)  an order requiring the first-mentioned person to pay or reimburse the whole or any part of the cost of the carrying out or doing of work or any other thing in accordance with such an authorization or approval;
 
                      (c)  include in an order any provisions that it considers necessary for the purposes of the order;
 
@@ -126,7 +128,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ### Note 1
 
-The _Environment Protection (Northern Territory Supreme Court) Act 1978_ as shown in this compilation comprises Act No. 30, 1978 amended as indicated in the Tables below.
+The _Environment Protection (__Northern Territory__Supreme Court) Act 1978_ as shown in this compilation comprises Act No. 30, 1978 amended as indicated in the Tables below.
 
 ### Table of Acts
 
@@ -224,18 +226,18 @@ of Assent</div>
     <div>12 Dec 2006</div>
   </td>
   <td>
-    <div>Schedule 1 (items 850, 851): 19 Feb 2007 ( <i>see</i>F2007L00411)</div>
+    <div>Schedule 1 (items 850, 851): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
   </td>
 </tr></table>
 
-_(a)_ The _Environment Protection (Northern Territory Supreme Court) Act 1978_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1983_,  subsection 2(1) of which provides as follows:
+_(a)_ The _Environment Protection (__Northern   Territory__Supreme Court) Act 1978_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1983_,  subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day which it receives the Royal Assent.
 
-_(b)_ The _Environment Protection (Northern Territory Supreme Court) Act 1978_ was amended by Schedule 4 (items 55–59) and Schedule 7 (items 9 and 10) only of the _Environmental Reform (Consequential Provisions) Act 1999_, subsection 2(1) of which provides as follows:
+_(b)_ The _Environment Protection (__Northern   Territory__Supreme Court) Act 1978_ was amended by Schedule 4 (items 55–59) and Schedule 7 (items 9 and 10) only of the _Environmental Reform (Consequential Provisions) Act 1999_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences when the _Environment Protection and Biodiversity Conservation Act 1999_ commences.
 
@@ -267,7 +269,7 @@ _(b)_ The _Environment Protection (Northern Territory Supreme Court) Act 1978_ w
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 91, 1983; No. 92, 1999; No. 165, 2006</div>
+    <div>am. No. 91, 1983; No. 92, 1999</div>
   </td>
 </tr>
 <tr>
@@ -286,5 +288,24 @@ _(b)_ The _Environment Protection (Northern Territory Supreme Court) Act 1978_ w
     <div> </div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Environment and Heritage Legislation Amendment Act (No. 1) 2006
+ (No. 165, 2006)_
+
+The following amendments commence on 12 June 2007 unless proclaimed earlier:
+
+## Schedule 1
+
+## 850  Section 3 (subparagraph (b)(iii) of the definition of _prescribed instrument_)
+
+Omit “_1976_; and”, substitute “_1976_.”.
+
+## 851  Section 3 (subparagraph (b)(iv) of the definition of _prescribed instrument_)
+
+Repeal the subparagraph.
+
+As at 8 January 2007 the amendments are not incorporated in this compilation.
 
  
