@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2013C00078/Html/95d001a6-efd3-4637-a713-a2ddabdac53c_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00270/Html/437db277-7562-49f7-8763-06bc99282bb0_files/image001.gif)
 
 # Defence Act 1903
 
 **Act No. 20 of 1903 as amended**
 
-This compilation was prepared on 31 January 2013
- taking into account amendments up to Act No. 174 of 2012
+This compilation was prepared on 1 March 2012
+ taking into account amendments up to Act No. 183 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -3159,11 +3160,13 @@ Note:          Section 46AA of the _Acts Interpretation Act 
 
                    In this Division, unless the contrary intention appears:
 
-                    <a name="airc"></a>**_AIRC_** means the Australian Industrial Relations Commission referred to in section 61 of the _Workplace Relations Act 1996_, as in force immediately before the commencement of Schedule 1 to the _Fair Work (Transitional Provisions and Consequential Amendments)_ _Act 2009_.
+                    <a name="commiss"></a>**_Commission_** means the Australian Industrial Relations Commission established by section 8 of the _Workplace Relations Act 1996_.
 
                     <a name="defenc-forc-advoc"></a>**_Defence Force Advocate_** means the Defence Force Advocate appointed under section 58S.
 
-                    <a name="fwc"></a>**_FWC_** means the Fair Work Commission.
+                    <a name="fair-work-australia"></a>**_Fair Work Australia_** means the body established by section 575 of the _Fair Work Act 2009_.
+
+                    <a name=""></a><a name="fwa"></a>**_FWA_** means  Fair Work Australia.
 
                     <a name="member-tribun"></a>**_member of the Tribunal_** means a member of the Tribunal appointed under section 58G, and includes the President.
 
@@ -3203,7 +3206,7 @@ Note:          The Permanent Forces are made up of the Permane
 
              (3)  The members of the Tribunal shall be appointed by the Governor‑General on a part‑time basis.
 
-             (4)  The person appointed as President shall be a Deputy President of the FWC.
+             (4)  The person appointed as President shall be a Deputy President of FWA.
 
              (5)  A person must not be appointed as a member of the Tribunal if he or she has, at any time during the year preceding the appointment, been a member of the Permanent Forces.
 
@@ -3329,9 +3332,9 @@ the Tribunal must take the necessary action to remove the discrimination, by set
 
              (7)  The Tribunal shall, in making a determination, have regard to:
 
-                     (a)  any decision of, or principles established by, the FWC that is or are relevant to the making of the determination; or
+                     (a)  any decision of, or principles established by, FWA that is or are relevant to the making of the determination; or
 
-                     (b)  if the FWC has not yet made any such decision or established any such principles, any decision of, or principles established by, the AIRC that is or are relevant to the making of the determination.
+                     (b)  if FWA has not yet made any such decision or established any such principles, any decision of, or principles established by, the Commission that is or are relevant to the making of the determination.
 
              (8)  In the performance of the functions of the Tribunal:
 
@@ -3383,9 +3386,9 @@ direct, in writing, that a member of the Tribunal specified in the direction is 
 
              (4)  The single member must, in making a determination, have regard to:
 
-                     (a)  any decision of, or principles established by, the FWC that is or are relevant to the making of the determination; or
+                     (a)  any decision of, or principles established by, FWA that is or are relevant to the making of the determination; or
 
-                     (b)  if the FWC has not yet made any such decision or established any such principles, any decision of, or principles established by, the AIRC that is or are relevant to the making of the determination.
+                     (b)  if FWA has not yet made any such decision or established any such principles, any decision of, or principles established by, the Commission that is or are relevant to the making of the determination.
 
              (5)  The Defence Force Advocate and a person representing the Commonwealth are entitled to be present, and to make submissions to the single member, during any proceedings conducted by the single member.
 
@@ -3423,7 +3426,7 @@ the Minister, the Secretary or the Chief of the Defence Force may, by notice in 
 
                      (b)  he or she becomes the Defence Force Advocate; or
 
-                     (c)  in the case of the President, he or she ceases to be a Deputy President of the FWC.
+                     (c)  in the case of the President, he or she ceases to be a Deputy President of FWA.
 
 Note:          The Permanent Forces are made up of the Permanent Navy, the Regular Army and the Permanent Air Force which are established respectively by the _Naval Defence Act 1910_, this Act and the _Air Force Act 1923_. Those Acts also establish the Naval Reserve, the Army Reserve and the Air Force Reserve, which together make up the Reserves.
 
@@ -5361,7 +5364,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                              (ii)  more visual inspection;
 
-                            than is necessary for the purposes of conducting the test.
+                            than is necessary for the purposes of conducting the test.
 
 ##### <a id="96"></a>96  Notice to person required to provide a sample
 
@@ -6737,7 +6740,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                             (iii)  the use of vehicles and vessels;
 
-                            in public areas;
+                            in public areas;
 
                     (za)  providing for penalties, not exceeding a fine of $500, for offences against the by‑laws; and
 
@@ -7154,7 +7157,7 @@ the paying officer shall, subject to subsection (13), in relation to each pay�
 
                     <a name="legal-practition"></a>**_legal practitioner_** has the same meaning as in the _Defence Force Discipline Act 1982_.
 
-##### <a id="123"></a>123  Immunity from certain State and Territory laws
+##### <a id="123"></a>123  Immunity from certain State and Territory laws
 
              (1)  A member of the Defence Force is not bound by any law of a State or Territory:
 
@@ -9781,23 +9784,6 @@ Schedule 3: 2 Aug 2010</div>
   </td>
   <td>
     <div>Schedule 1 (items 17–35): 1 Mar 2012 ( <i>see</i>F2012L00395)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Fair Work Amendment Act 2012</div>
-  </td>
-  <td>
-    <div>174, 2012</div>
-  </td>
-  <td>
-    <div>4 Dec 2012</div>
-  </td>
-  <td>
-    <div>Schedule 9 (items 1268–1278): 1 Jan 2013</div>
   </td>
   <td>
     <div>—</div>
@@ -14018,7 +14004,7 @@ Div. 4 of Part IIIAAA</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 87, 1988; No. 62, 1991; No. 109, 1993; Nos. 43 and 60, 1996; No. 127, 2002; SLI 2006 No. 50; No. 54, 2009; No. 174, 2012</div>
+    <div>am. No. 87, 1988; No. 62, 1991; No. 109, 1993; Nos. 43 and 60, 1996; No. 127, 2002; SLI 2006 No. 50; No. 54, 2009</div>
   </td>
 </tr>
 <tr>
@@ -14034,7 +14020,7 @@ Div. 4 of Part IIIAAA</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 108, 1990; No. 109, 1993; No. 127, 2002; No. 54, 2009; No. 174, 2012</div>
+    <div>am. No. 108, 1990; No. 109, 1993; No. 127, 2002; No. 54, 2009</div>
   </td>
 </tr>
 <tr>
@@ -14098,7 +14084,7 @@ Div. 4 of Part IIIAAA</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 62, 1991; No. 109, 1993; No. 127, 2002; No. 54, 2009; No. 174, 2012</div>
+    <div>am. No. 62, 1991; No. 109, 1993; No. 127, 2002; No. 54, 2009</div>
   </td>
 </tr>
 <tr>
@@ -14130,7 +14116,7 @@ Div. 4 of Part IIIAAA</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 54, 2009; No. 174, 2012</div>
+    <div>am. No. 54, 2009</div>
   </td>
 </tr>
 <tr>
@@ -14170,7 +14156,7 @@ Div. 4 of Part IIIAAA</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 108, 1990; No. 109, 1993; No. 127, 2002; No. 54, 2009; No. 174, 2012</div>
+    <div>am. No. 108, 1990; No. 109, 1993; No. 127, 2002; No. 54, 2009</div>
   </td>
 </tr>
 <tr>
