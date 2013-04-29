@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00448/Html/FarmHouseholdSupport1992_WD02HYP_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00154/Html/FarmHouseholdSupport1992_WD02HYP_image001.gif)
 
 # Farm Household Support Act 1992
 
 **Act No. 241 of 1992 as amended**
 
-This compilation was prepared on 6 July 2010
- taking into account amendments up to Act No. 92 of 2010
+This compilation was prepared on 6 April 2009
+ taking into account amendments up to Act No. 27 of 2009
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -218,10 +218,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [52C](#52C).       DEP scheme
 
-**Part 9D—Farm Family Support Scheme**
-
-[52D](#52D).       Treatment of payments under Farm Family Support Scheme
-
 **Part 10—Miscellaneous**
 
 [53](#53).          Delegation of powers
@@ -362,7 +358,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (a)  a deposit under the _Loan (Income Equalization Deposits) Act 1976_; or
 
-                    (aa)  a farm management deposit (within the meaning of the _Income Tax Assessment Act 1997_); or
+                    (aa)  a farm management deposit (within the meaning of Schedule 2G to the _Income Tax Assessment Act 1936)_; or
 
                      (b)  a deposit with a term of at least 3 months with a bank or other institution that receives money on deposit.
 
@@ -1196,7 +1192,7 @@ disregard the off-farm salary and wages of the person, or if the person is a mem
 
                      (b)  the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00448/Html/FarmHouseholdSupport1992_WD02HYP_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00154/Html/FarmHouseholdSupport1992_WD02HYP_image002.gif)
 
                             where:
 
@@ -1210,7 +1206,7 @@ disregard the off-farm salary and wages of the person, or if the person is a mem
 
                      (b)  the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00448/Html/FarmHouseholdSupport1992_WD02HYP_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00154/Html/FarmHouseholdSupport1992_WD02HYP_image003.gif)
 
                             where:
 
@@ -1294,7 +1290,7 @@ disregard the salary and wages of the person from other sources or, if the perso
 
                      (b)  the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00448/Html/FarmHouseholdSupport1992_WD02HYP_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00154/Html/FarmHouseholdSupport1992_WD02HYP_image002.gif)
 
                             where:
 
@@ -1318,7 +1314,7 @@ disregard the salary and wages of the person from other sources or, if the perso
 
                      (b)  the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00448/Html/FarmHouseholdSupport1992_WD02HYP_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00154/Html/FarmHouseholdSupport1992_WD02HYP_image003.gif)
 
                             where:
 
@@ -1408,7 +1404,7 @@ Certain superannuation contributions disregarded
 
                    The instalment of farm household support payable for a period to a person is:
 
-![](http://www.comlaw.gov.au/Details/C2010C00448/Html/FarmHouseholdSupport1992_WD02HYP_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00154/Html/FarmHouseholdSupport1992_WD02HYP_image004.gif)
 
 Note:          for the person’s applicable rate see section 24.
 
@@ -1416,7 +1412,7 @@ Note:          for the person’s applicable rate see section�
 
                    The instalment of exceptional circumstances relief payment payable for a period to a person is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00448/Html/FarmHouseholdSupport1992_WD02HYP_image005.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00154/Html/FarmHouseholdSupport1992_WD02HYP_image005.gif)
 
 Note 1:       For the person’s rate, see section 24A.
 
@@ -1426,7 +1422,7 @@ Note 2:       An instalment of exceptional circumstances relief paym
 
                    The instalment of farm help income support payable for a period to a person is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00448/Html/FarmHouseholdSupport1992_WD02HYP_image006.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00154/Html/FarmHouseholdSupport1992_WD02HYP_image006.gif)
 
 Note 1:       For the person’s rate, see section 24B.
 
@@ -1514,7 +1510,7 @@ the amount is to be increased by 0.5 cent.
 
              (1)  The instalment of farm household support payable to a former RAS (Part C) beneficiary for a period determined under section 28 is:
 
-![](http://www.comlaw.gov.au/Details/C2010C00448/Html/FarmHouseholdSupport1992_WD02HYP_image007.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00154/Html/FarmHouseholdSupport1992_WD02HYP_image007.gif)
 
              (2)  For the purposes of subsection (1), the applicable RAS rate in relation to a former RAS (Part C) beneficiary is the fortnightly rate that applied for the last payment of Part C assistance made by way of loan to him or her before the commencement of this Act under the RAS scheme applicable to him or her.
 
@@ -1990,44 +1986,6 @@ The scheme is to be known as the **_DEP scheme_** and a payment is to be known a
 
                     <a name="dsap-payment-start-dai"></a>**_DSAP payment start day_** has the same meaning as in Schedule 2 to the _Dairy Produce Act 1986_.
 
-## Part 9D—Farm Family Support Scheme
-
-##### <a id="52D"></a>52D  Treatment of payments under Farm Family Support Scheme
-
-             (1)  The purpose of this section is to set out how other laws apply in relation to:
-
-                     (a)  payments under the pilot scheme, known as the Farm Family Support Scheme, to provide support for farmers facing hardship to meet their household expenses and to help them assess the long-term future of their farm enterprises; and
-
-                     (b)  things done in connection with that scheme.
-
-             (2)  The following provisions apply in relation to a payment of income support under the Farm Family Support Scheme in the same way as they apply in relation to exceptional circumstances relief payment under this Act:
-
-                     (a)  sections 54 and 56 of this Act;
-
-                     (b)  sections 79A and 160AAA of the _Income Tax Assessment Act 1936_;
-
-                     (c)  sections 53-10 and 53-15 of the _Income Tax Assessment Act 1997_;
-
-                     (d)  section 64 of the _Small Superannuation Accounts Act 1995_;
-
-                     (e)  sections 547B, 573A and 1061ZK, points 1067G-F3 and 1067G-G3 of the Youth Allowance Rate Calculator in Part 3.5, and sections 1130B, 1131, 1227A and 1231A of the _Social Security Act 1991_;
-
-                      (f)  section 106B of the _Social Security (Administration) Act 1999_;
-
-                     (g)  a provision of any Act, so far as it relates to a provision described in any of paragraphs (a) to (f) (inclusive) of this subsection.
-
-Note:          Exceptional circumstances relief payment is a payment made under Part 5 of this Act.
-
-Example:    Paragraph (g)—sections 84, 84A, 92 and 92A of the _A New Tax System (Family Assistance) (Administration) Act 1999_ are examples of provisions that relate to section 56 of this Act, because they relate to debts created by that section.
-
-             (3)  The following provisions apply in relation to the doing of anything in relation to the Farm Family Support Scheme in the same way as they apply in relation to the doing of anything under or in relation to this Act:
-
-                     (a)  the definition of **_officer_** in subsection 23(1) of the _Social Security Act 1991_;
-
-                     (b)  Parts 4 and 5 of the _Social Security (Administration) Act 1999_.
-
-             (4)  Subsection 41(2AA) of the _Age Discrimination Act 2004_ applies in relation to anything done under the Farm Family Support Scheme in the same way as it applies to anything done in direct compliance with section 24A of this Act.
-
 ## Part 10—Miscellaneous
 
 ##### <a id="53"></a>53  Delegation of powers
@@ -2345,8 +2303,7 @@ of Assent</div>
     <div>12 July 1994</div>
   </td>
   <td colspan="2">
-    <div>Part 5 (ss. 
-58–63): 20 Sept 1994 <i>(a)</i></div>
+    <div>Part 5 (ss. 58–63): 20 Sept 1994 <i>(a)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -2431,7 +2388,7 @@ of Assent</div>
     <div>12 Apr 1995</div>
   </td>
   <td colspan="2">
-    <div>Schedule (items 20–23): Royal Assent <i>(e)</i></div>
+    <div>Schedule (items 20–23): Royal Assent <i>(e)</i></div>
   </td>
   <td>
     <div>Sch. (item 23)</div>
@@ -2465,7 +2422,7 @@ of Assent</div>
     <div>9 Jan 1996</div>
   </td>
   <td colspan="2">
-    <div>Schedule 14: 20 Sept 1996 <i>(g)</i></div>
+    <div>Schedule 14: 20 Sept 1996 <i>(g)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -2533,7 +2490,7 @@ of Assent</div>
     <div>17 Apr 1997</div>
   </td>
   <td colspan="2">
-    <div>1 July 1997 ( <i>see</i> s. 2)</div>
+    <div>1 July 1997 ( <i>see</i>s. 2)</div>
   </td>
   <td>
     <div>—</div>
@@ -2584,7 +2541,7 @@ of Assent</div>
     <div>11 Dec 1997</div>
   </td>
   <td colspan="2">
-    <div>Schedule 1 (items 298–300): 20 Mar 1998 <i>(k)</i></div>
+    <div>Schedule 1 (items 298–300): 20 Mar 1998 <i>(k)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -2601,7 +2558,7 @@ of Assent</div>
     <div>17 June 1998</div>
   </td>
   <td colspan="2">
-    <div>Schedule 13 (items 12–26): 1 July 1998 <i>(l)</i></div>
+    <div>Schedule 13 (items 12–26): 1 July 1998 <i>(l)</i></div>
   </td>
   <td>
     <div>Sch. 13 (item 26) \[ <i>see</i>Table A]</div>
@@ -2636,7 +2593,9 @@ of Assent</div>
   </td>
   <td colspan="2">
     <div>2 Jan 1999 
-( <i>see</i>s. 2)</div>
+( <i>see</i>s. 2) 
+
+</div>
   </td>
   <td>
     <div>—</div>
@@ -2654,7 +2613,7 @@ of Assent</div>
   </td>
   <td colspan="2">
     <div>Schedule 7 
-(items 12–17): 1 Apr 1998 <i>(n)</i></div>
+(items 12–17): 1 Apr 1998 <i>(n)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -2688,7 +2647,7 @@ of Assent</div>
     <div>17 June 1999</div>
   </td>
   <td colspan="2">
-    <div>Schedule 7 (items 32–34): 1 July 1999 ( <i>see Gazette</i>1999, No. S283) <i>(o)</i></div>
+    <div>Schedule 7 (items 32–34): 1 July 1999 ( <i>see Gazette</i>1999, No. S283) <i>(o)</i></div>
   </td>
   <td>
     <div>S. 3(2)(e) (am. by 160, 2000, Sch. 4 \[item 4])</div>
@@ -2722,7 +2681,7 @@ of Assent</div>
     <div>21 Dec 2000</div>
   </td>
   <td colspan="2">
-    <div>Schedule 1 (item 21): Royal Assent 
+    <div>Schedule 1 (item 21): Royal Assent 
 Remainder: 18 Jan 2001</div>
   </td>
   <td>
@@ -2774,7 +2733,7 @@ Remainder: 18 Jan 2001</div>
     <div>22 Dec 1999</div>
   </td>
   <td colspan="2">
-    <div>Schedule 1: 1 Dec 1999 Remainder: Royal Assent</div>
+    <div>Schedule 1: 1 Dec 1999 Remainder: Royal Assent</div>
   </td>
   <td>
     <div>—</div>
@@ -2808,7 +2767,7 @@ Remainder: 18 Jan 2001</div>
     <div>6 July 2000</div>
   </td>
   <td colspan="2">
-    <div>Schedule 5 (items 6–9): 1 July 1998 <i>(r)</i></div>
+    <div>Schedule 5 (items 6–9): 1 July 1998 <i>(r)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -2842,7 +2801,7 @@ Remainder: 18 Jan 2001</div>
     <div>24 Nov 2000</div>
   </td>
   <td colspan="2">
-    <div>Ss. 1–3 and Schedule 1 (items 1, 4, 6, 7, 9–11, 32): Royal Assent 
+    <div>Ss. 1–3 and Schedule 1 (items 1, 4, 6, 7, 9–11, 32): Royal Assent 
 Remainder: 24 May 2001</div>
   </td>
   <td>
@@ -2918,273 +2877,240 @@ Remainder: 18 Dec 2000 ( <i>see Gazette</i>2000, No. S634)</div>
     <div>—</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Agriculture, Fisheries and Forestry Legislation Amendment (Application of Criminal Code) Act 2001</div>
-  </td>
-  <td>
-    <div>115, 2001</div>
-  </td>
-  <td>
-    <div>18 Sept 2001</div>
-  </td>
-  <td colspan="2">
-    <div>16 Oct 2001</div>
-  </td>
-  <td>
-    <div>S. 4 \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Dairy Industry Legislation Amendment Act 2002</div>
-  </td>
-  <td>
-    <div>84, 2002</div>
-  </td>
-  <td>
-    <div>10 Oct 2002</div>
-  </td>
-  <td colspan="2">
-    <div>10 Oct 2002</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Dairy Industry Service Reform Act 2003</div>
-  </td>
-  <td>
-    <div>32, 2003</div>
-  </td>
-  <td>
-    <div>15 Apr 2003</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 1: 1 July 2003 ( <i>see Gazette</i>2003, No. S228) 
+<thead>
+  <tr>
+    <td>
+      <div>Agriculture, Fisheries and Forestry Legislation Amendment (Application of Criminal Code) Act 2001</div>
+    </td>
+    <td>
+      <div>115, 2001</div>
+    </td>
+    <td>
+      <div>18 Sept 2001</div>
+    </td>
+    <td colspan="2">
+      <div>16 Oct 2001</div>
+    </td>
+    <td>
+      <div>S. 4 \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Dairy Industry Legislation Amendment Act 2002</div>
+    </td>
+    <td>
+      <div>84, 2002</div>
+    </td>
+    <td>
+      <div>10 Oct 2002</div>
+    </td>
+    <td colspan="2">
+      <div>10 Oct 2002</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Dairy Industry Service Reform Act 2003</div>
+    </td>
+    <td>
+      <div>32, 2003</div>
+    </td>
+    <td>
+      <div>15 Apr 2003</div>
+    </td>
+    <td colspan="2">
+      <div>Schedule 1: 1 July 2003 ( <i>see Gazette</i>2003, No. S228) 
 Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 1 (items 
+    </td>
+    <td>
+      <div>Sch. 1 (items 
 127–129) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Farm Household Support Amendment Act 2003</div>
-  </td>
-  <td>
-    <div>115, 2003</div>
-  </td>
-  <td>
-    <div>27 Nov 2003</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 1 (item 25): 18 Dec 2000 ( <i>see</i>s. 2(1) \[item 3])Schedule 2 (item 1): <i>(s)</i> 
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Farm Household Support Amendment Act 2003</div>
+    </td>
+    <td>
+      <div>115, 2003</div>
+    </td>
+    <td>
+      <div>27 Nov 2003</div>
+    </td>
+    <td colspan="2">
+      <div>Schedule 1 (item 25): 18 Dec 2000 ( <i>see</i>s. 2(1) \[item 3])Schedule 2 (item 1): <i>(s)</i> 
 Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 1 (items 
+    </td>
+    <td>
+      <div>Sch. 1 (items 
 30–36) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Military Rehabilitation and Compensation (Consequential and Transitional Provisions) Act 2004</div>
-  </td>
-  <td>
-    <div>52, 2004</div>
-  </td>
-  <td>
-    <div>27 Apr 2004</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 3 (item 21): 1 July 2004 ( <i>see</i>s. 2)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Farm Household Support Amendment Act 2004</div>
-  </td>
-  <td>
-    <div>70, 2004</div>
-  </td>
-  <td>
-    <div>23 June 2004</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 1: 1 July 2004 
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Military Rehabilitation and Compensation (Consequential and Transitional Provisions) Act 2004</div>
+    </td>
+    <td>
+      <div>52, 2004</div>
+    </td>
+    <td>
+      <div>27 Apr 2004</div>
+    </td>
+    <td colspan="2">
+      <div>Schedule 3 (item 21): 1 July 2004 ( <i>see</i>s. 2)</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Farm Household Support Amendment Act 2004</div>
+    </td>
+    <td>
+      <div>70, 2004</div>
+    </td>
+    <td>
+      <div>23 June 2004</div>
+    </td>
+    <td colspan="2">
+      <div>Schedule 1: 1 July 2004 
 Schedule 2: 1 July 2004 ( <i>see</i> <i>Gazette</i>2004, No. S229) 
 Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 2 (items 
+    </td>
+    <td>
+      <div>Sch. 2 (items 
 23–29) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Farm Household Support Amendment Act 2005</div>
-  </td>
-  <td>
-    <div>30, 2005</div>
-  </td>
-  <td>
-    <div>21 Mar 2005</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 1: 22 Mar 2005 
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Farm Household Support Amendment Act 2005</div>
+    </td>
+    <td>
+      <div>30, 2005</div>
+    </td>
+    <td>
+      <div>21 Mar 2005</div>
+    </td>
+    <td colspan="2">
+      <div>Schedule 1: 22 Mar 2005 
 Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 1 (items 
-7–10) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Farm Household Support Amendment (Exceptional Circumstances Relief Payment) Act 2005</div>
-  </td>
-  <td>
-    <div>69, 2005</div>
-  </td>
-  <td>
-    <div>26 June 2005</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 1 (items 2, 3, 5): 1 Oct 2005 
+    </td>
+    <td>
+      <div>Sch. 1 (items 7–10) \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Farm Household Support Amendment (Exceptional Circumstances Relief Payment) Act 2005</div>
+    </td>
+    <td>
+      <div>69, 2005</div>
+    </td>
+    <td>
+      <div>26 June 2005</div>
+    </td>
+    <td colspan="2">
+      <div>Schedule 1 (items 2, 3, 5): 1 Oct 2005 
 Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 5) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Farm Household Support Amendment Act 2007</div>
-  </td>
-  <td>
-    <div>60, 2007</div>
-  </td>
-  <td>
-    <div>15 Apr 2007</div>
-  </td>
-  <td colspan="2">
-    <div>15 Apr 2007</div>
-  </td>
-  <td>
-    <div>Sch. 1 (items 
+    </td>
+    <td>
+      <div>Sch. 1 (item 5) \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Farm Household Support Amendment Act 2007</div>
+    </td>
+    <td>
+      <div>60, 2007</div>
+    </td>
+    <td>
+      <div>15 Apr 2007</div>
+    </td>
+    <td colspan="2">
+      <div>15 Apr 2007</div>
+    </td>
+    <td>
+      <div>Sch. 1 (items 
 20–22) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Farm Household Support Amendment (Additional Drought Assistance Measures) Act 2008</div>
-  </td>
-  <td>
-    <div>39, 2008</div>
-  </td>
-  <td>
-    <div>24 June 2008</div>
-  </td>
-  <td colspan="2">
-    <div>24 June 2008</div>
-  </td>
-  <td>
-    <div>Sch. 1 (items 
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Farm Household Support Amendment (Additional Drought Assistance Measures) Act 2008</div>
+    </td>
+    <td>
+      <div>39, 2008</div>
+    </td>
+    <td>
+      <div>24 June 2008</div>
+    </td>
+    <td colspan="2">
+      <div>24 June 2008</div>
+    </td>
+    <td>
+      <div>Sch. 1 (items 
 20–29) and Sch. 2 (item 4) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008</div>
-  </td>
-  <td>
-    <div>144, 2008</div>
-  </td>
-  <td>
-    <div>9 Dec 2008</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 1 (items 2, 3): 10 Dec 2008</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Household Stimulus Package Act (No. 2) 2009</div>
-  </td>
-  <td>
-    <div>4, 2009</div>
-  </td>
-  <td>
-    <div>18 Feb 2009</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 4 and Schedule 5 (items 1–3): Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 4 (item 1) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Tax Laws Amendment (2009 Measures No. 1) Act 2009</div>
-  </td>
-  <td>
-    <div>27, 2009</div>
-  </td>
-  <td>
-    <div>26 Mar 2009</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 3 (items 92, 93, 102(1)): 27 Mar 2009</div>
-  </td>
-  <td>
-    <div>Sch. 3 (item 102(1)) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Tax Laws Amendment (Transfer of Provisions) Act 2010</div>
-  </td>
-  <td>
-    <div>79, 2010</div>
-  </td>
-  <td>
-    <div>29 June 2010</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 4 (items 8, 51): 1 July 2010</div>
-  </td>
-  <td>
-    <div>Sch. 4 (item 51) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Farm Household Support Amendment (Ancillary Benefits) Act 2010</div>
-  </td>
-  <td>
-    <div>92, 2010</div>
-  </td>
-  <td>
-    <div>29 June 2010</div>
-  </td>
-  <td colspan="2">
-    <div>29 June 2010</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 2) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008</div>
+    </td>
+    <td>
+      <div>144, 2008</div>
+    </td>
+    <td>
+      <div>9 Dec 2008</div>
+    </td>
+    <td colspan="2">
+      <div>Schedule 1 (items 2, 3): 10 Dec 2008</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Household Stimulus Package Act (No. 2) 2009</div>
+    </td>
+    <td>
+      <div>4, 2009</div>
+    </td>
+    <td>
+      <div>18 Feb 2009</div>
+    </td>
+    <td colspan="2">
+      <div>Schedule 4 and Schedule 5 (items 1–3): Royal Assent</div>
+    </td>
+    <td>
+      <div>Sch. 4 (item 1) \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Tax Laws Amendment (2009 Measures No. 1) Act 2009</div>
+    </td>
+    <td>
+      <div>27, 2009</div>
+    </td>
+    <td>
+      <div>26 Mar 2009</div>
+    </td>
+    <td colspan="2">
+      <div>Schedule 3 (items 92, 93, 102(1)): 27 Mar 2009</div>
+    </td>
+    <td>
+      <div>Sch. 3 (item 102(1)) \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+</thead>
 <tr height="0">
   <td></td>
   <td></td>
@@ -3414,7 +3340,7 @@ _(s)_ Subsection 2(1) (item 5) of the _Farm Household Support Amendment Act 20
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. Nos. 109, 125 and 184, 1994; No. 36, 1995; No. 59, 1996; Nos. 22, 29, 179 and 197, 1997; Nos. 45, 48, 85, 93 and 102, 1998; Nos. 44 and 83, 1999; Nos. 22 and 144, 2000; No. 84, 2002; Nos. 32 and 115, 2003; No. 70, 2004; Nos. 30 and 69, 2005; No. 60, 2007; No. 144, 2008; No. 79, 2010</div>
+    <div>am. Nos. 109, 125 and 184, 1994; No. 36, 1995; No. 59, 1996; Nos. 22, 29, 179 and 197, 1997; Nos. 45, 48, 85, 93 and 102, 1998; Nos. 44 and 83, 1999; Nos. 22 and 144, 2000; No. 84, 2002; Nos. 32 and 115, 2003; No. 70, 2004; Nos. 30 and 69, 2005; No. 60, 2007; No. 144, 2008</div>
   </td>
 </tr>
 <tr>
@@ -5285,30 +5211,6 @@ Div. 1 of Part 4</div>
 </tr>
 <tr>
   <td>
-    <div><b>Part 9D</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 9D</div>
-  </td>
-  <td>
-    <div>ad. No. 92, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 52D</div>
-  </td>
-  <td>
-    <div>ad. No. 92, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part 10</b></div>
   </td>
   <td>
@@ -5975,7 +5877,7 @@ In this Part:
 
 **_Principal Act_** means the _Farm Household Support Act 1992_.
 
-## 26  Past payments in the nature of exceptional circumstances relief payment
+## 26  Past payments in the nature of exceptional circumstances relief payment
 
 (1)        This item applies if, before the commencing day, a person received a payment (a **_pre-commencement payment_**) on the basis that the following were satisfied in respect of a period starting on or after 25 September 2007 and ending before the commencing day:
 
@@ -6152,32 +6054,4 @@ _Tax Laws Amendment (2009 Measures No. 1) Act 2009 (No. 27, 2009)_
 ## 102  Application
 
 (1)        The amendments made by this Schedule apply in relation to income years starting on or after 1 July 2009.
-
-* * *
-
-_Tax Laws Amendment (Transfer of Provisions) Act 2010 (No. 79, 2010)_
-
-## Schedule 4
-
-## 51  Application of other amendments
-
-The amendments made by Parts 1 and 2 of this Schedule (other than item 2) apply to assessments for:
-
-                     (a)  the 2010-11 income year; and
-
-                     (b)  later income years.
-
-* * *
-
-_Farm Household Support Amendment (Ancillary Benefits) Act 2010 
- (No. 92, 2010)_
-
-## Schedule 1
-
-## 2  Application
-
-Section 52D of the _Farm Household Support Act 1992_ applies to the doing of things (including the making of payments) in connection with the Farm Family Support Scheme before, on or after the commencement of that section.
-
- 
-
  
