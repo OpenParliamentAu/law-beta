@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00187/Html/46e76d34-27de-4806-a278-9339f3be10d2_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00555/Html/IncomeTaxRates1986_WD02_image001.gif)
 
 # Income Tax Rates Act 1986
 
 **Act No. 107 of 1986 as amended**
 
-This compilation was prepared on 15 April 2011
- taking into account amendments up to Act No. 15 of 2011
+This compilation was prepared on 3 August 2010
+ taking into account amendments up to Act No. 14 of 2009
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -42,25 +42,23 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [12A](#12A).       Rate of extra income tax for primary producers
 
-[12B](#12B).       Rate of temporary flood and cyclone reconstruction levy
-
         **Subdivision C—Resident taxpayers, resident beneficiaries and resident trust estates**
 
 [13](#13).          Rates of tax where Division 6AA of Part III of the Assessment Act applies
 
 [14](#14).          Limitation on tax payable by certain trustees
 
-        **Subdivision D—Non‑resident taxpayers, non‑resident beneficiaries and non‑resident trust estates**
+        **Subdivision D—Non-resident taxpayers, non-resident beneficiaries and non-resident trust estates**
 
 [15](#15).          Rates of tax where Division 6AA of Part III of the Assessment Act applies
 
-    **Division 4—Pro‑rating of the tax‑free threshold**
+    **Division 4—Pro-rating of the tax-free threshold**
 
 [16](#16).          Interpretation
 
-[18](#18).          Part‑year residency period
+[18](#18).          Part-year residency period
 
-[20](#20).          Pro‑rating of the tax‑free threshold
+[20](#20).          Pro-rating of the tax-free threshold
 
 **Part III—Rates of income tax payable upon incomes of companies, prescribed unit trusts, superannuation funds and certain other trusts**
 
@@ -84,7 +82,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [28](#28).          Rates of tax payable by certain trustees to whom section 98 of the Assessment Act applies
 
-[29](#29).          Rate of tax on no‑TFN contributions income
+[29](#29).          Rate of tax on no-TFN contributions income
 
 [30](#30).          Rate of tax in relation to trustee of FHSA trust
 
@@ -92,7 +90,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part I—Resident taxpayers** 
 
-**Part II—Non‑resident taxpayers** 
+**Part II—Non-resident taxpayers** 
 
 **Schedule 8—Notional rates for the purposes of section 156 of the Assessment Act** 
 
@@ -102,7 +100,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
     **Division 2—Notional rates in respect of certain trust income** 
 
-**Part II—Non‑resident taxpayers, non‑resident beneficiaries and non‑resident trust estates** 
+**Part II—Non-resident taxpayers, non-resident beneficiaries and non-resident trust estates** 
 
     **Division 1—Normal notional rate** 
 
@@ -112,19 +110,19 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part I—Resident beneficiaries and resident trust estates** 
 
-**Part II—Non‑resident beneficiaries and non‑resident trust estates** 
+**Part II—Non-resident beneficiaries and non-resident trust estates** 
 
 **Schedule 11—Rates of tax payable on eligible taxable income** 
 
 **Part I—Resident taxpayers** 
 
-**Part II—Non‑resident taxpayers** 
+**Part II—Non-resident taxpayers** 
 
 **Schedule 12—Rates of tax payable by a trustee under section 98 of the Assessment Act where Division 6AA of Part III of that Act applies** 
 
 **Part I—Resident beneficiaries** 
 
-**Part II—Non‑resident beneficiaries** 
+**Part II—Non-resident beneficiaries** 
 
 **Notes** 
 
@@ -144,7 +142,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (1)  In this Act, unless the contrary intention appears:
 
-                    <a name="abnorm-incom-amount"></a>**_abnormal income amount_**, in relation to the taxable income of a taxpayer of a year of income, means any above‑average special professional income included in the taxpayer’s taxable income for the year of income under section 405‑15 of the _Income Tax Assessment Act 1997_.
+                    <a name="abnorm-incom-amount"></a>**_abnormal income amount_**, in relation to the taxable income of a taxpayer of a year of income, means any above-average special professional income included in the taxpayer’s taxable income for the year of income under section 405-15 of the _Income Tax Assessment Act 1997_.
 
                     <a name="adi"></a>**_ADI_** has the same meaning as in the _Income Tax Assessment Act 1997_.
 
@@ -158,11 +156,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="corpor-unit-trust"></a>**_corporate unit trust_**, in relation to a year of income, means a unit trust that is a corporate unit trust, within the meaning of Division 6B of Part III of the Assessment Act, in relation to the year of income.
 
-                    <a name="elig-adf"></a>**_eligible ADF_** means a fund that is a complying approved deposit fund or a non‑complying approved deposit fund, as defined in the _Income Tax Assessment Act 1997_.
+                    <a name="elig-adf"></a>**_eligible ADF_** means a fund that is a complying approved deposit fund or a non-complying approved deposit fund, as defined in the _Income Tax Assessment Act 1997_.
 
                     <a name="elig-part"></a>**_eligible part_,**in relation to the special income component of the taxable income of a taxpayer,meansso much of the special income component as is eligible taxable income for the purposes of Division 6AA of Part III of the Assessment Act**.**
 
-                    <a name="elig-superannu-fund"></a>**_eligible superannuation fund_** means a fund that is a complying superannuation fund or a non‑complying superannuation fund, as defined in the _Income Tax Assessment Act 1997_.
+                    <a name="elig-superannu-fund"></a>**_eligible superannuation fund_** means a fund that is a complying superannuation fund or a non-complying superannuation fund, as defined in the _Income Tax Assessment Act 1997_.
 
                     <a name="employ-termin-remaind"></a>**_employment termination remainder_** of taxable income means so much of the taxable income as:
 
@@ -184,41 +182,41 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="maximum-tax-rate-provision"></a>**_maximum tax rate provision_** means any of the following provisions:
 
-                     (a)  section 82‑10 of the _Income Tax Assessment Act 1997_;
+                     (a)  section 82-10 of the _Income Tax Assessment Act 1997_;
 
-(b)  section 82‑65 of the _Income Tax Assessment Act 1997_;
+(b)  section 82-65 of the _Income Tax Assessment Act 1997_;
 
-                     (c)  section 82‑70 of the _Income Tax Assessment Act 1997_;
+                     (c)  section 82-70 of the _Income Tax Assessment Act 1997_;
 
-                     (d)  section 301‑95 of the _Income Tax Assessment Act 1997_;
+                     (d)  section 301-95 of the _Income Tax Assessment Act 1997_;
 
-                     (e)  section 301‑105 of the _Income Tax Assessment Act 1997_;
+                     (e)  section 301-105 of the _Income Tax Assessment Act 1997_;
 
-                      (f)  section 301‑115 of the _Income Tax Assessment Act 1997_;
+                      (f)  section 301-115 of the _Income Tax Assessment Act 1997_;
 
-                     (g)  section 82‑10A of the _Income Tax (Transitional Provisions) Act 1997_;
+                     (g)  section 82-10A of the _Income Tax (Transitional Provisions) Act 1997_;
 
-                     (h)  section 82‑10C of the _Income Tax (Transitional Provisions) Act 1997_.
+                     (h)  section 82-10C of the _Income Tax (Transitional Provisions) Act 1997_.
 
-                    <a name="non-arm-length-compon"></a>**_non‑arm’s length component_** has the same meaning as in the _Income Tax Assessment Act 1997_.
+                    <a name="non-arm-length-compon"></a>**_non-arm’s length component_** has the same meaning as in the _Income Tax Assessment Act 1997_.
 
-                    <a name="non-compli-adf"></a>**_non‑complying ADF_** means a fund that, at all times during the year of income when the fund is in existence, is an approved deposit fund within the meaning of the _Income Tax Assessment Act 1997_, but does not include a fund that is a complying ADF.
+                    <a name="non-compli-adf"></a>**_non-complying ADF_** means a fund that, at all times during the year of income when the fund is in existence, is an approved deposit fund within the meaning of the _Income Tax Assessment Act 1997_, but does not include a fund that is a complying ADF.
 
-                    <a name="non-compli-superannu-fund"></a>**_non‑complying superannuation fund_** has the same meaning as in the _Income Tax Assessment Act 1997_.
+                    <a name="non-compli-superannu-fund"></a>**_non-complying superannuation fund_** has the same meaning as in the _Income Tax Assessment Act 1997_.
 
-                    <a name="non-profit-compani"></a>**_non‑profit company_** means:
+                    <a name="non-profit-compani"></a>**_non-profit company_** means:
 
                      (a)  a company that is not carried on for the purposes of profit or gain to its individual members and is, by the terms of the company’s constituent document, prohibited from making any distribution, whether in money, property or otherwise, to its members; or
 
                      (b)  a friendly society dispensary.
 
-                    <a name="non-resid-beneficiari"></a>**_non‑resident beneficiary_**, in relation to a year of income, means a beneficiary of a trust estate who is a prescribed non‑resident in relation to that year of income.
+                    <a name="non-resid-beneficiari"></a>**_non-resident beneficiary_**, in relation to a year of income, means a beneficiary of a trust estate who is a prescribed non-resident in relation to that year of income.
 
-                    <a name="non-resid-taxpay"></a>**_non‑resident taxpayer_**, in relation to a year of income, means a taxpayer who is a prescribed non‑resident in relation to that year of income.
+                    <a name="non-resid-taxpay"></a>**_non-resident taxpayer_**, in relation to a year of income, means a taxpayer who is a prescribed non-resident in relation to that year of income.
 
-                    <a name="non-resid-trust-estat"></a>**_non‑resident trust estate_**, in relation to a year of income, means a trust estate that is not a resident trust estate in relation to that year of income.
+                    <a name="non-resid-trust-estat"></a>**_non-resident trust estate_**, in relation to a year of income, means a trust estate that is not a resident trust estate in relation to that year of income.
 
-                    <a name="no-tfn-contribut-incom"></a>**_no‑TFN contributions income_** has the same meaning as in the _Income Tax Assessment Act 1997_.
+                    <a name="no-tfn-contribut-incom"></a>**_no-TFN contributions income_** has the same meaning as in the _Income Tax Assessment Act 1997_.
 
                     <a name="ordinari-class"></a>**_ordinary class_** of the taxable income of a life insurance company has the same meaning as in the _Income Tax Assessment Act 1997_.
 
@@ -230,13 +228,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="pool-superannu-trust"></a>**_pooled superannuation trust_** has the same meaning as in the _Income Tax Assessment Act 1997_.
 
-                    <a name="prescrib-non-resid"></a>**_prescribed non‑resident_**, in relation to a year of income, means a person who, at all times during the year of income, is a non‑resident, not being a person to whom, at any time during the year of income, compensation or a pension, allowance or benefit is payable under:
+                    <a name="prescrib-non-resid"></a>**_prescribed non-resident_**, in relation to a year of income, means a person who, at all times during the year of income, is a non-resident, not being a person to whom, at any time during the year of income, compensation or a pension, allowance or benefit is payable under:
 
                      (a)  the _Veterans’ Entitlements Act 1986_;
 
                      (b)  subsection 4(6) of the _Veterans’ Entitlements (Transitional Provisions and Consequential Amendments) Act 1986_; or
 
-                   (ba)  the _Military Rehabilitation and Compensation Act 2004_; or
+                    (ba)  the _Military Rehabilitation and Compensation Act 2004_; or
 
                      (c)  the _Social Security Act 1991_;
 
@@ -252,9 +250,9 @@ being compensation or a pension, allowance or benefit in respect of which the pe
 
                     <a name="ruced-taxabl-incom"></a>**_reduced taxable income_** means the part (if any) of the taxable income other than the special income component.
 
-                    <a name="resid-beneficiari"></a>**_resident beneficiary_**, in relation to a year of income, means a beneficiary of a trust estate who is not a prescribed non‑resident in relation to that year of income.
+                    <a name="resid-beneficiari"></a>**_resident beneficiary_**, in relation to a year of income, means a beneficiary of a trust estate who is not a prescribed non-resident in relation to that year of income.
 
-                    <a name="resid-taxpay"></a>**_resident taxpayer_**, in relation to a year of income, means a taxpayer who is not a prescribed non‑resident in relation to that year of income.
+                    <a name="resid-taxpay"></a>**_resident taxpayer_**, in relation to a year of income, means a taxpayer who is not a prescribed non-resident in relation to that year of income.
 
                     <a name="resid-trust-estat"></a>**_resident trust estate_**, in relation to a year of income, means a trust estate that, under subsection 95(2) of the Assessment Act, is to be taken to be a resident trust estate in relation to that year of income.
 
@@ -318,7 +316,7 @@ being compensation or a pension, allowance or benefit in respect of which the pe
 
                             (iii)  a person in the capacity of a trustee of an eligible ADF;
 
-                          (iiia)  a person in the capacity of a trustee of a pooled superannuation trust; or
+                           (iiia)  a person in the capacity of a trustee of a pooled superannuation trust; or
 
                             (iv)  a person in the capacity of a trustee of a trust estate, being a person who is liable to be assessed and to pay tax under paragraph 98(3)(b) or subsection 98(4) of the Assessment Act; or
 
@@ -330,7 +328,7 @@ being compensation or a pension, allowance or benefit in respect of which the pe
 
                             (iii)  a company in the capacity of a trustee of an eligible ADF;
 
-                          (iiia)  a company in the capacity of a trustee of a pooled superannuation trust; or
+                           (iiia)  a company in the capacity of a trustee of a pooled superannuation trust; or
 
                             (iv)  a company in the capacity of a trustee of a trust estate, being a company that is liable to be assessed and to pay tax under paragraph 98(3)(b) or subsection 98(4) of the Assessment Act.
 
@@ -350,7 +348,7 @@ being compensation or a pension, allowance or benefit in respect of which the pe
 
              (7)  The rate of further tax payable by a person under subsection 94(9) of the Assessment Act is:
 
-                     (a)  in respect of the part of the taxable income of the person that is the relevant part of that taxable income for the purposes of subsections 94(10A) and (10B) of the Assessment Act—the amount (if any) per dollar ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2011C00187/Html/46e76d34-27de-4806-a278-9339f3be10d2_files/image002.gif) where:
+                     (a)  in respect of the part of the taxable income of the person that is the relevant part of that taxable income for the purposes of subsections 94(10A) and (10B) of the Assessment Act—the amount (if any) per dollar ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2010C00555/Html/IncomeTaxRates1986_WD02_image002.gif) where:
 
 **_A_**   is an amount equal to 45% of the taxable income of the person;
 
@@ -358,13 +356,13 @@ being compensation or a pension, allowance or benefit in respect of which the pe
 
 **_C_**   is the number of whole dollars in the taxable income of the person; and
 
-                     (b)  in respect of the part of the taxable income of the person that is the prescribed part of that taxable income for the purposes of subsection 94(10B) of the Assessment Act—the amount (if any) per dollar ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2011C00187/Html/46e76d34-27de-4806-a278-9339f3be10d2_files/image002.gif) where:
+                     (b)  in respect of the part of the taxable income of the person that is the prescribed part of that taxable income for the purposes of subsection 94(10B) of the Assessment Act—the amount (if any) per dollar ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2010C00555/Html/IncomeTaxRates1986_WD02_image002.gif) where:
 
 **_A_**   is an amount equal to 45% of the taxable income of the person;
 
 **_B_** is the amount of tax (if any) that would be payable by the person on the person’s taxable income if:
 
-                              (i)  the comparison rate described in section 392‑55 of the _Income Tax Assessment Act 1997_ were the rate of tax payable by the person on that income; and
+                              (i)  the comparison rate described in section 392-55 of the _Income Tax Assessment Act 1997_ were the rate of tax payable by the person on that income; and
 
                              (ii)  this subsection and section 12A did not apply; and
 
@@ -374,7 +372,7 @@ being compensation or a pension, allowance or benefit in respect of which the pe
 
              (8)  The rate of further tax payable by a trustee under subsection 94(11) or (12) of the Assessment Act is:
 
-                     (a)  in respect of the part of the net income of the trust estate that is the relevant part of that net income for the purposes of subsections 94(12A) and (12B) of the Assessment Act—the amount (if any) per dollar ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2011C00187/Html/46e76d34-27de-4806-a278-9339f3be10d2_files/image002.gif) where:
+                     (a)  in respect of the part of the net income of the trust estate that is the relevant part of that net income for the purposes of subsections 94(12A) and (12B) of the Assessment Act—the amount (if any) per dollar ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2010C00555/Html/IncomeTaxRates1986_WD02_image002.gif) where:
 
 **_A_**   is an amount equal to 45% of the net income of the trust estate in respect of which the trustee is liable to be assessed and to pay tax under section 98 or 99 of the Assessment Act;
 
@@ -382,7 +380,7 @@ being compensation or a pension, allowance or benefit in respect of which the pe
 
 **_C_**   is the number of whole dollars in that net income; and
 
-                     (b)  in respect of the part of the net income of the trust estate that is the prescribed part of that net income for the purposes of subsection 94(12B) of the Assessment Act—the amount (if any) per dollar ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2011C00187/Html/46e76d34-27de-4806-a278-9339f3be10d2_files/image002.gif) where:
+                     (b)  in respect of the part of the net income of the trust estate that is the prescribed part of that net income for the purposes of subsection 94(12B) of the Assessment Act—the amount (if any) per dollar ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2010C00555/Html/IncomeTaxRates1986_WD02_image002.gif) where:
 
 **_A_**   is an amount equal to 45% of the net income of the trust estate in respect of which the trustee is liable to be assessed and to pay tax under section 98 or 99 of the Assessment Act;
 
@@ -394,80 +392,19 @@ being compensation or a pension, allowance or benefit in respect of which the pe
 
 ##### <a id="12A"></a>12A  Rate of extra income tax for primary producers
 
-             (1)  This section sets the rate of extra income tax payable under subsection 392‑35(3) of the _Income Tax Assessment Act 1997_ on every dollar of a taxpayer’s averaging component for a year of income.
+             (1)  This section sets the rate of extra income tax payable under subsection 392-35(3) of the _Income Tax Assessment Act 1997_ on every dollar of a taxpayer’s averaging component for a year of income.
 
              (2)  The rate is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00187/Html/46e76d34-27de-4806-a278-9339f3be10d2_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00555/Html/IncomeTaxRates1986_WD02_image003.gif)
 
-Rate if taxable income is less than tax‑free threshold adjusted by family tax assistance
+Rate if taxable income is less than tax-free threshold adjusted by family tax assistance
 
              (6)  In this section:
 
-                    <a name="averaging-adjust"></a>**_averaging adjustment_** means the taxpayer’s smoothing adjustment, worked out for the year of income under section 392‑75 of the _Income Tax Assessment Act 1997_.
+                    <a name="averaging-adjust"></a>**_averaging adjustment_** means the taxpayer’s smoothing adjustment, worked out for the year of income under section 392-75 of the _Income Tax Assessment Act 1997_.
 
-                    <a name="averaging-compon"></a>**_averaging component_** means the taxpayer’s averaging component in whole dollars, worked out for the year of income under Subdivision 392‑C of the _Income Tax Assessment Act 1997_.
-
-##### <a id="12B"></a>12B  Rate of temporary flood and cyclone reconstruction levy
-
-                   The rate of extra income tax payable as mentioned in section 4‑10 of the _Income Tax (Transitional Provisions) Act 1997_ (temporary flood and cyclone reconstruction levy) for the 2011‑12 financial year on a taxpayer’s taxable income for the 2011‑12 year of income is the rate applicable under the table.
-
-<table>
-<colgroup>
-  <col width="10%">
-  <col width="66%">
-  <col width="23%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>Rate of temporary flood
-          and cyclonereconstruction levy</b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>Item</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>For the part of the taxable income of the taxpayer that:</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>The rate is:</b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>exceeds $50,000 but does not exceed $100,000</div>
-  </td>
-  <td>
-    <div>0.5%</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>exceeds $100,000</div>
-  </td>
-  <td>
-    <div>1%</div>
-  </td>
-</tr></table>
+                    <a name="averaging-compon"></a>**_averaging component_** means the taxpayer’s averaging component in whole dollars, worked out for the year of income under Subdivision 392-C of the _Income Tax Assessment Act 1997_.
 
 #### Subdivision C—Resident taxpayers, resident beneficiaries and resident trust estates
 
@@ -593,11 +530,11 @@ no tax is payable under subsection 12(6) in respect of that net income or that p
 
 the amount of tax payable by the trustee under subsection 12(6) in respect of that net income or that part of the net income shall not exceed 50% of the amount by which that net income or that part of the net income, as the case may be, exceeds $416, less any rebate or credit to which the trustee is entitled.
 
-#### Subdivision D—Non‑resident taxpayers, non‑resident beneficiaries and non‑resident trust estates
+#### Subdivision D—Non-resident taxpayers, non-resident beneficiaries and non-resident trust estates
 
 ##### <a id="15"></a>15  Rates of tax where Division 6AA of Part III of the Assessment Act applies
 
-             (1)  The rates of tax in respect of the taxable income of a non‑resident taxpayer:
+             (1)  The rates of tax in respect of the taxable income of a non-resident taxpayer:
 
                      (a)  who is a prescribed person in relation to the year of income for the purposes of Division 6AA of Part III of the Assessment Act; and
 
@@ -605,7 +542,7 @@ the amount of tax payable by the trustee under subsection 12(6) in respect of th
 
 are as set out in Part II of Schedule 11.
 
-             (2)  Where the eligible taxable income of a non‑resident taxpayer for the purposes of Division 6AA of Part III of the Assessment Act:
+             (2)  Where the eligible taxable income of a non-resident taxpayer for the purposes of Division 6AA of Part III of the Assessment Act:
 
                      (a)  does not exceed $416—the amount of tax payable under subsection (1) in respect of that eligible taxable income shall not exceed:
 
@@ -625,7 +562,7 @@ are as set out in Part II of Schedule 11.
 
              (3)  Where:
 
-                     (a)  a trustee of a trust estate is liable to be assessed and to pay tax under section 98 of the Assessment Act in respect of the share of a non‑resident beneficiary of the net income of the trust estate; and
+                     (a)  a trustee of a trust estate is liable to be assessed and to pay tax under section 98 of the Assessment Act in respect of the share of a non-resident beneficiary of the net income of the trust estate; and
 
                      (b)  Division 6AA of Part III of the Assessment Act applies to a part of that share;
 
@@ -633,7 +570,7 @@ the rates of tax payable by the trustee in respect of that share of the net inco
 
              (4)  Subject to subsection (5), where:
 
-                     (a)  the trustee of a trust estate is liable to be assessed and to pay tax under section 98 of the Assessment Act in respect of the share of a non‑resident beneficiary of the net income of the trust estate; and
+                     (a)  the trustee of a trust estate is liable to be assessed and to pay tax under section 98 of the Assessment Act in respect of the share of a non-resident beneficiary of the net income of the trust estate; and
 
                      (b)  Division 6AA of Part III of the Assessment Act applies to a part (in this subsection referred to as the **_eligible part_**) of that share;
 
@@ -677,13 +614,13 @@ the tax that, apart from this subsection, would be payable by the trustee in res
 
                               (i)  Division 6AA of Part III of the Assessment Act applied to so much of that share as is equal to the sum of the parts of the shares referred to in paragraph (6)(b); and
 
-                             (ii)  that share were a share of a non‑resident beneficiary who is not presently entitled to a share of the income of the year of income of any other trust estate;
+                             (ii)  that share were a share of a non-resident beneficiary who is not presently entitled to a share of the income of the year of income of any other trust estate;
 
                      (b)  the amount of any reduction previously granted by the Commissioner under subsection (6) in relation to the share of the beneficiary of the net income of the year of income of any other trust estate; and
 
                      (c)  such other matters (if any) as the Commissioner thinks fit.
 
-### Division 4—Pro‑rating of the tax‑free threshold
+### Division 4—Pro-rating of the tax-free threshold
 
 ##### <a id="16"></a>16  Interpretation
 
@@ -697,39 +634,39 @@ the tax that, apart from this subsection, would be payable by the trustee in res
 
                      (b)  subsection 4(6) of the _Veterans’ Entitlements (Transitional Provisions and Consequential Amendments) Act 1986_; or
 
-                   (ba)  the _Military Rehabilitation and Compensation Act 2004_; or
+                    (ba)  the _Military Rehabilitation and Compensation Act 2004_; or
 
                      (c)  a provision of the _Social Security Act 1991_ other than Part 2.11, 2.12, 2.14, 2.15 or 3.15A of that Act;
 
 being compensation or a pension, allowance or benefit in respect of which the person is liable to be assessed and to pay income tax in Australia.
 
-##### <a id="18"></a>18  Part‑year residency period
+##### <a id="18"></a>18  Part-year residency period
 
-             (1)  Subject to subsection (2), the following periods are part‑year residency periods in relation to a person in relation to a year of income:
+             (1)  Subject to subsection (2), the following periods are part-year residency periods in relation to a person in relation to a year of income:
 
                      (a)  where the person was a resident at the beginning of the first month of the year of income and continued to be a resident until a time during a subsequent month in the year of income when the person ceased to be a resident—the period from the beginning of the year of income until the end of that subsequent month;
 
                      (b)  where the person commenced to be a resident during a month of the year of income and continued to be a resident until the end of the year of income—the period from the beginning of that month until the end of the year of income;
 
-                     (c)  where the person commenced to be a resident during a month of the year of income and continued to be a resident until a time during a subsequent month of the year of income when the person ceased to be a resident—the period from the beginning of that first‑mentioned month until the end of that subsequent month.
+                     (c)  where the person commenced to be a resident during a month of the year of income and continued to be a resident until a time during a subsequent month of the year of income when the person ceased to be a resident—the period from the beginning of that first-mentioned month until the end of that subsequent month.
 
-             (2)  A period shall not be taken to be a part‑year residency period in relation to a person in relation to a year of income if:
+             (2)  A period shall not be taken to be a part-year residency period in relation to a person in relation to a year of income if:
 
                      (a)  the person is an eligible pensioner in relation to the year of income; or
 
                      (b)  the period is the whole of the year of income.
 
-##### <a id="20"></a>20  Pro‑rating of the tax‑free threshold
+##### <a id="20"></a>20  Pro-rating of the tax-free threshold
 
-             (1)  If there are one or more part‑year residency periods in relation to a person in relation to a year of income, this Act applies in relation to the person and the year of income as if the reference in the table in Part I of Schedule 7 to $6,000 were a reference to the amount calculated in accordance with the following formula:
+             (1)  If there are one or more part-year residency periods in relation to a person in relation to a year of income, this Act applies in relation to the person and the year of income as if the reference in the table in Part I of Schedule 7 to $6,000 were a reference to the amount calculated in accordance with the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00187/Html/46e76d34-27de-4806-a278-9339f3be10d2_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00555/Html/IncomeTaxRates1986_WD02_image004.gif)
 
-             (2)  Subsection (1) does not apply in calculating the tax payable by the trustee of a trust estate under section 98 of the Assessment Act in respect of a share of a beneficiary of the net income of the trust estate of a year of income but, where there are one or more part‑year residency periods in relation to the beneficiary in relation to the year of income, this Act applies in calculating the tax payable by the trustee in respect of that share as if the reference in the table in Part I of Schedule 7 to $6,000 were a reference to the amount calculated in accordance with the formula **_AB_**, where:
+             (2)  Subsection (1) does not apply in calculating the tax payable by the trustee of a trust estate under section 98 of the Assessment Act in respect of a share of a beneficiary of the net income of the trust estate of a year of income but, where there are one or more part-year residency periods in relation to the beneficiary in relation to the year of income, this Act applies in calculating the tax payable by the trustee in respect of that share as if the reference in the table in Part I of Schedule 7 to $6,000 were a reference to the amount calculated in accordance with the formula **_AB_**, where:
 
 **_A_**   is $500;
 
-**_B_**   is the number of months in the year of income when a part‑year residency period, or part‑year residency periods, in relation to the beneficiary in relation to the year of income subsisted.
+**_B_**   is the number of months in the year of income when a part-year residency period, or part-year residency periods, in relation to the beneficiary in relation to the year of income subsisted.
 
              (3)  Subsection (1) does not apply in calculating the tax payable by the trustee of a trust estate under section 99 of the Assessment Act.
 
@@ -755,7 +692,7 @@ being compensation or a pension, allowance or benefit in respect of which the pe
 
                      (b)  an RSA provider; or
 
-                   (ba)  an FHSA provider; or
+                    (ba)  an FHSA provider; or
 
                      (c)  a company to which subsection (4) or (5) applies;
 
@@ -789,7 +726,7 @@ is 30%.
 
                      (b)  in respect of the unregulated investment component—25%.
 
-             (6)  Where the taxable income of a non‑profit company does not exceed $915, the amount of tax payable by the company shall not exceed 55% of the amount by which the taxable income exceeds $416 less any rebate, credit or other tax offset (as defined in the _Income Tax Assessment Act 1997_) to which the company is entitled.
+             (6)  Where the taxable income of a non-profit company does not exceed $915, the amount of tax payable by the company shall not exceed 55% of the amount by which the taxable income exceeds $416 less any rebate, credit or other tax offset (as defined in the _Income Tax Assessment Act 1997_) to which the company is entitled.
 
              (7)  The amount of tax payable by a company that is a recognised medium credit union in relation to a year of income must not exceed 45% of the amount by which the taxable income exceeds $49,999 less any rebate, credit or other tax offset (as defined in the _Income Tax Assessment Act 1997_) to which the company is entitled.
 
@@ -815,9 +752,9 @@ is 30%.
 
                      (a)  in respect of the low tax component—15%; and
 
-                     (b)  in respect of the non‑arm’s length component—45%.
+                     (b)  in respect of the non-arm’s length component—45%.
 
-             (2)  The rate of tax payable by a trustee of a non‑complying superannuation fund in respect of the taxable income of the fund is 45%.
+             (2)  The rate of tax payable by a trustee of a non-complying superannuation fund in respect of the taxable income of the fund is 45%.
 
 ##### <a id="27"></a>27  Rates of tax payable by trustees of approved deposit funds
 
@@ -825,9 +762,9 @@ is 30%.
 
                      (a)  in respect of the low tax component—15%; and
 
-                     (b)  in respect of the non‑arm’s length component—45%.
+                     (b)  in respect of the non-arm’s length component—45%.
 
-             (2)  The rate of tax payable by a trustee of a non‑complying ADF in respect of the taxable income of the fund is 45%.
+             (2)  The rate of tax payable by a trustee of a non-complying ADF in respect of the taxable income of the fund is 45%.
 
 ##### <a id="27A"></a>27A  Rates of tax payable by trustees of pooled superannuation trusts
 
@@ -835,7 +772,7 @@ is 30%.
 
                      (a)  in respect of the low tax component—15%; and
 
-                     (b)  in respect of the non‑arm’s length component—45%.
+                     (b)  in respect of the non-arm’s length component—45%.
 
 ##### <a id="28"></a>28  Rates of tax payable by certain trustees to whom section 98 of the Assessment Act applies
 
@@ -847,15 +784,15 @@ is 30%.
 
 Note:          If paragraph 98(3)(a) of the Assessment Act applies, see subsection 12(6).
 
-##### <a id="29"></a>29  Rate of tax on no‑TFN contributions income
+##### <a id="29"></a>29  Rate of tax on no-TFN contributions income
 
              (1)  This section sets the rate of tax payable:
 
-                     (a)  by a trustee of a complying superannuation fund in respect of the no‑TFN contributions income of the fund; and
+                     (a)  by a trustee of a complying superannuation fund in respect of the no-TFN contributions income of the fund; and
 
-                     (b)  by a trustee of a non‑complying superannuation fund in respect of the no‑TFN contributions income of the fund; and
+                     (b)  by a trustee of a non-complying superannuation fund in respect of the no-TFN contributions income of the fund; and
 
-                     (c)  by a company that is an RSA provider in respect of no‑TFN contributions income.
+                     (c)  by a company that is an RSA provider in respect of no-TFN contributions income.
 
              (2)  The rate of tax is worked out in the following way:
 
@@ -867,7 +804,7 @@ Note:          If paragraph 98(3)(a) of the Assessment Act app
 
                               (i)  for a trustee of a complying superannuation fund—set out in paragraph 26(1)(a); or
 
-                             (ii)  for a trustee of a non‑complying superannuation fund—set out in subsection 26(2); or
+                             (ii)  for a trustee of a non-complying superannuation fund—set out in subsection 26(2); or
 
                             (iii)  for a company (other than a life insurance company) that is an RSA provider—set out in paragraph 23(3)(a); or 
 
@@ -875,7 +812,7 @@ Note:          If paragraph 98(3)(a) of the Assessment Act app
 
 ##### <a id="30"></a>30  Rate of tax in relation to trustee of FHSA trust
 
-                   The rate of tax for the purposes of section 345‑5 of the _Income Tax Assessment Act 1997_ is 15%.
+                   The rate of tax for the purposes of section 345-5 of the _Income Tax Assessment Act 1997_ is 15%.
 
 # Schedule 7—General rates of tax
 
@@ -975,11 +912,11 @@ _Subsection 12(1)_
 
                      (b)  Division 16 of Part III of the Assessment Act does not apply to the income of the taxpayer; and
 
-                     (c)  Division 392 (Long‑term averaging of primary producers’ tax liability) of the _Income Tax Assessment Act 1997_ does not apply to the taxpayer’s assessment;
+                     (c)  Division 392 (Long-term averaging of primary producers’ tax liability) of the _Income Tax Assessment Act 1997_ does not apply to the taxpayer’s assessment;
 
-the rate of tax for every $1 of the taxable income is the amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2011C00187/Html/46e76d34-27de-4806-a278-9339f3be10d2_files/image005.gif) where:
+the rate of tax for every $1 of the taxable income is the amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2010C00555/Html/IncomeTaxRates1986_WD02_image005.gif) where:
 
-**_A_**  is the amount of tax that would be payable by the taxpayer    under clause 1 on a taxable income equal to the reduced taxable  income;
+**_A_**  is the amount of tax that would be payable by the taxpayer           under clause 1 on a taxable income equal to the reduced taxable        income;
 
 **_B_**  is 5 times the difference between: 
 
@@ -999,9 +936,9 @@ In applying the formula, component **_B_** is to be worked out on the assumption
 
                      (a)  the taxable income of a resident taxpayer consists of or includes a special income component; and 
 
-                     (b)  Division 16 of Part III of the Assessment Act applies to the income of the taxpayer or Division 392 (Long‑term averaging of primary producers’ tax liability) of the _Income Tax Assessment Act 1997_ applies to the taxpayer’s assessment;
+                     (b)  Division 16 of Part III of the Assessment Act applies to the income of the taxpayer or Division 392 (Long-term averaging of primary producers’ tax liability) of the _Income Tax Assessment Act 1997_ applies to the taxpayer’s assessment;
 
-the rate of tax for every $1 of the taxable income is the amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2011C00187/Html/46e76d34-27de-4806-a278-9339f3be10d2_files/image005.gif) where:
+the rate of tax for every $1 of the taxable income is the amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2010C00555/Html/IncomeTaxRates1986_WD02_image005.gif) where:
 
 **_A_**  is the amount of tax that would be payable by the taxpayer under clause 1 on a taxable income equal to the reduced taxable income;
 
@@ -1019,9 +956,9 @@ the rate of tax for every $1 of the taxable income is the amount ascertained in 
 
 In applying the formula, component **_B_** is to be worked out on the assumption that the whole of the taxable income is ordinary taxable income.
 
-## Part II—Non‑resident taxpayers 
+## Part II—Non-resident taxpayers 
 
-              1.  Subject to clauses 2 and 3, the rates of tax on the taxable income of a non‑resident taxpayer are as follows:
+              1.  Subject to clauses 2 and 3, the rates of tax on the taxable income of a non-resident taxpayer are as follows:
 
                      (a)  45% for the superannuation remainder (if any) of the taxable income;
 
@@ -1040,7 +977,7 @@ In applying the formula, component **_B_** is to be worked out on the assumption
   <tr>
     <td colspan="3">
       <div>
-        <b>Tax rates for non‑resident taxpayers</b>
+        <b>Tax rates for non-resident taxpayers</b>
       </div>
     </td>
   </tr>
@@ -1109,13 +1046,13 @@ In applying the formula, component **_B_** is to be worked out on the assumption
 
               2.  Where:
 
-                     (a)  the taxable income of a non‑resident taxpayer consists of or includes a special income component; and 
+                     (a)  the taxable income of a non-resident taxpayer consists of or includes a special income component; and 
 
                      (b)  Division 16 of Part III of the Assessment Act does not apply to the income of the taxpayer; and
 
-                     (c)  Division 392 (Long‑term averaging of primary producers’ tax liability) of the _Income Tax Assessment Act 1997_ does not apply to the taxpayer’s assessment;
+                     (c)  Division 392 (Long-term averaging of primary producers’ tax liability) of the _Income Tax Assessment Act 1997_ does not apply to the taxpayer’s assessment;
 
-the rate of tax for every $1 of the taxable income is the amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2011C00187/Html/46e76d34-27de-4806-a278-9339f3be10d2_files/image005.gif) where:
+the rate of tax for every $1 of the taxable income is the amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2010C00555/Html/IncomeTaxRates1986_WD02_image005.gif) where:
 
 **_A_**  is the amount of tax that would be payable by the taxpayer under clause 1 on a taxable income equal to the reduced taxable income;
 
@@ -1135,11 +1072,11 @@ In applying the formula, component **_B_** is to be worked out on the assumption
 
               3.  Where:
 
-                     (a)  the taxable income of a non‑resident taxpayer consists of or includes a special income component; and 
+                     (a)  the taxable income of a non-resident taxpayer consists of or includes a special income component; and 
 
-                     (b)  Division 16 of Part III of the Assessment Act applies to the income of the taxpayer or Division 392 (Long‑term averaging of primary producers’ tax liability) of the _Income Tax Assessment Act 1997_ applies to the taxpayer’s assessment;
+                     (b)  Division 16 of Part III of the Assessment Act applies to the income of the taxpayer or Division 392 (Long-term averaging of primary producers’ tax liability) of the _Income Tax Assessment Act 1997_ applies to the taxpayer’s assessment;
 
-the rate of tax for every $1 of the taxable income is the amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2011C00187/Html/46e76d34-27de-4806-a278-9339f3be10d2_files/image005.gif) where:
+the rate of tax for every $1 of the taxable income is the amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2010C00555/Html/IncomeTaxRates1986_WD02_image005.gif) where:
 
 **_A_**  is the amount of tax that would be payable by the taxpayer under clause 1 on a taxable income equal to the reduced taxable income;
 
@@ -1203,11 +1140,11 @@ _Subsection 12(2)_
 
                              (ii)  the reference in column 1 of the table in Part I of Schedule 7 to the part of the ordinary taxable income that exceeds $6,000 but does not exceed $37,000 were a reference to the part of the ordinary taxable income that does not exceed $37,000.
 
-## Part II—Non‑resident taxpayers, non‑resident beneficiaries and non‑resident trust estates 
+## Part II—Non-resident taxpayers, non-resident beneficiaries and non-resident trust estates 
 
 ### Division 1—Normal notional rate 
 
-              1.  This Division applies to the income of a non‑resident taxpayer, other than income in respect of which a trustee is liable to be assessed and to pay tax under section 98 or 99 of the Assessment Act, if Division 16 of Part III of the Assessment Act applies in relation to that income. 
+              1.  This Division applies to the income of a non-resident taxpayer, other than income in respect of which a trustee is liable to be assessed and to pay tax under section 98 or 99 of the Assessment Act, if Division 16 of Part III of the Assessment Act applies in relation to that income. 
 
               2.  The notional rate in respect of income to which this Division applies is, for every $1 of the taxable income, the amount ascertained by determining the tax that would be payable if the rates set out in Part II of Schedule 7 were applied to a taxable income equal to the taxpayer’s average income and dividing the resultant amount by a number equal to the number of whole dollars in that average income. 
 
@@ -1215,13 +1152,13 @@ _Subsection 12(2)_
 
               1.  This Division applies: 
 
-                     (a)  to a share of a non‑resident beneficiary of the net income of a trust estate if: 
+                     (a)  to a share of a non-resident beneficiary of the net income of a trust estate if: 
 
                               (i)  the trustee of the trust estate is liable to be assessed and to pay tax under section 98 of the Assessment Act in respect of that share; and 
 
                              (ii)  Division 16 of Part III of the Assessment Act applies in relation to that share; and 
 
-                     (b)  to the net income or a part of the net income of a non‑resident trust estate if: 
+                     (b)  to the net income or a part of the net income of a non-resident trust estate if: 
 
                               (i)  the trustee of the trust estate is liable to be assessed and to pay tax under section 99 of the Assessment Act in respect of that net income or that part of that net income of the trust estate; and 
 
@@ -1251,13 +1188,13 @@ the rate of tax in respect of that share of the net income or that net income or
 
                      (b)  the reference in item 1 of the table in Part I of Schedule 7 to the part of the ordinary taxable income that exceeds $6,000 but does not exceed $37,000 were a reference to the part of the ordinary taxable income that does not exceed $37,000.
 
-## Part II—Non‑resident beneficiaries and non‑resident trust estates 
+## Part II—Non-resident beneficiaries and non-resident trust estates 
 
                    In the case of a trustee who is liable to be assessed and to pay tax: 
 
-                     (a)  under section 98 of the Assessment Act in respect of a share of a non‑resident beneficiary of the net income of a trust estate; or 
+                     (a)  under section 98 of the Assessment Act in respect of a share of a non-resident beneficiary of the net income of a trust estate; or 
 
-                     (b)  under section 99 of the Assessment Act in respect of the net income or part of the net income of a non‑resident trust estate; 
+                     (b)  under section 99 of the Assessment Act in respect of the net income or part of the net income of a non-resident trust estate; 
 
 the rate of tax in respect of that share of the net income or that net income or that part of that net income is the rate that would be payable under Part II of Schedule 7 if one individual were liable to be assessed and to pay tax on that income as his or her taxable income.
 
@@ -1277,7 +1214,7 @@ _Subsections 13(1) and 15(1)_
 
                      (b)  whose taxable income consists of or includes a special income component;
 
-the rate of tax is the amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2011C00187/Html/46e76d34-27de-4806-a278-9339f3be10d2_files/image006.gif) where:
+the rate of tax is the amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2010C00555/Html/IncomeTaxRates1986_WD02_image006.gif) where:
 
 **_A_**  is the amount of tax that would be payable by the taxpayer under clauses 1 and 2 on a taxable income equal to the reduced taxable income;
 
@@ -1287,13 +1224,13 @@ the rate of tax is the amount ascertained in accordance with the formula ![](htt
 
                               (i)  whichever of the following amounts is applicable: 
 
-                                        (A)  if Division 392 (Long‑term averaging of primary producers’ tax liability) of the _Income Tax Assessment Act 1997_ applies—the average income worked out under section 392‑45 of that Act;
+                                        (A)  if Division 392 (Long-term averaging of primary producers’ tax liability) of the _Income Tax Assessment Act 1997_ applies—the average income worked out under section 392-45 of that Act;
 
                                         (B)  if sub-subparagraph (A) does not apply—the reduced taxable income; and
 
                              (ii)  20% of the part of the special income component other than the eligible part of the special income component; and 
 
-                     (d)  the amount of tax that would be payable by the taxpayer under clause 1 of Part I of Schedule 7 on a taxable income equal to the average income worked out under section 392‑45 of the _Income Tax Assessment Act 1997_ or reduced taxable income, as the case may be;
+                     (d)  the amount of tax that would be payable by the taxpayer under clause 1 of Part I of Schedule 7 on a taxable income equal to the average income worked out under section 392-45 of the _Income Tax Assessment Act 1997_ or reduced taxable income, as the case may be;
 
 **_C_**  is 45% of the eligible part of the special income component; and
 
@@ -1301,19 +1238,19 @@ the rate of tax is the amount ascertained in accordance with the formula ![](htt
 
 In applying the formula, component **_B_** is to be worked out on the assumption that the whole of the taxable income is ordinary taxable income.
 
-## Part II—Non‑resident taxpayers 
+## Part II—Non-resident taxpayers 
 
-              1.  In the case of a non‑resident taxpayer who has an eligible taxable income for the purposes of Division 6AA of Part III of the Assessment Act and whose taxable income does not consist of or include a special income component, the rates of tax in respect of that part (in this clause referred to as the **_relevant part_**) of the taxable income of the taxpayer other than the eligible taxable income of the taxpayer are the rates that would be payable under Part II of Schedule 7 if the relevant part of that taxable income were the taxable income of the taxpayer. 
+              1.  In the case of a non-resident taxpayer who has an eligible taxable income for the purposes of Division 6AA of Part III of the Assessment Act and whose taxable income does not consist of or include a special income component, the rates of tax in respect of that part (in this clause referred to as the **_relevant part_**) of the taxable income of the taxpayer other than the eligible taxable income of the taxpayer are the rates that would be payable under Part II of Schedule 7 if the relevant part of that taxable income were the taxable income of the taxpayer. 
 
-              2.  In the case of a non‑resident taxpayer who has an eligible taxable income for the purposes of Division 6AA of Part III of the Assessment Act and whose taxable income does not consist of or include a special income component, the rate of tax in respect of the eligible taxable income of the taxpayer is 45%. 
+              2.  In the case of a non-resident taxpayer who has an eligible taxable income for the purposes of Division 6AA of Part III of the Assessment Act and whose taxable income does not consist of or include a special income component, the rate of tax in respect of the eligible taxable income of the taxpayer is 45%. 
 
-              3.  For every $1 of the taxable income of a non‑resident taxpayer: 
+              3.  For every $1 of the taxable income of a non-resident taxpayer: 
 
                      (a)  who has an eligible taxable income for the purposes of Division 6AA of Part III of the Assessment Act; and 
 
                      (b)  whose taxable income consists of or includes a special income component; 
 
-the rate of tax is the amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2011C00187/Html/46e76d34-27de-4806-a278-9339f3be10d2_files/image006.gif) where:
+the rate of tax is the amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2010C00555/Html/IncomeTaxRates1986_WD02_image006.gif) where:
 
 **_A_**  is the amount of tax that would be payable by the taxpayer under clauses 1 and 2 on a taxable income equal to the reduced taxable income;
 
@@ -1323,13 +1260,13 @@ the rate of tax is the amount ascertained in accordance with the formula ![](htt
 
                               (i)  whichever of the following amounts is applicable: 
 
-                                        (A)  if Division 392 (Long‑term averaging of primary producers’ tax liability) of the _Income Tax Assessment Act 1997_ applies—the average income worked out under section 392‑45 of that Act;
+                                        (A)  if Division 392 (Long-term averaging of primary producers’ tax liability) of the _Income Tax Assessment Act 1997_ applies—the average income worked out under section 392-45 of that Act;
 
                                         (B)  if sub-subparagraph (A) does not apply—the reduced taxable income; and
 
                              (ii)  20% of the part of the special income component other than the eligible part of the special income component; and 
 
-                     (d)  the amount of tax that would be payable by the taxpayer under clause 1 of Part II of Schedule 7 on a taxable income equal to the average income worked out under section 392‑45 of the _Income Tax Assessment Act 1997_ or reduced taxable income, as the case may be;
+                     (d)  the amount of tax that would be payable by the taxpayer under clause 1 of Part II of Schedule 7 on a taxable income equal to the average income worked out under section 392-45 of the _Income Tax Assessment Act 1997_ or reduced taxable income, as the case may be;
 
 **_C_**  is 45% of the eligible part of the special income component; and 
 
@@ -1347,11 +1284,11 @@ _Subsections 13(3) and (4) and 15(3)_
 
               2.  In the case of a trustee of a trust estate who is liable to be assessed and to pay tax under section 98 of the Assessment Act in respect of a share of a resident beneficiary of the net income of the trust estate where Division 6AA of Part III of that Act applies to a part of that share, the rate of tax in respect of that part of that share is 45%. 
 
-## Part II—Non‑resident beneficiaries 
+## Part II—Non-resident beneficiaries 
 
-              1.  In the case of a trustee of a trust estate who is liable to be assessed and to pay tax under section 98 of the Assessment Act in respect of a share of a non‑resident beneficiary of the net income of the trust estate where Division 6AA of Part III of that Act applies to a part (in this clause referred to as the **_eligible part_**) of that share, the rates of tax in respect of the part (in this clause referred to as the **_relevant part_**) of that share other than the eligible part of that share are the rates that would be payable under Part II of Schedule 7 in respect of a taxable income equal to the relevant part of that share if one individual were liable to be assessed and to pay tax on that income. 
+              1.  In the case of a trustee of a trust estate who is liable to be assessed and to pay tax under section 98 of the Assessment Act in respect of a share of a non-resident beneficiary of the net income of the trust estate where Division 6AA of Part III of that Act applies to a part (in this clause referred to as the **_eligible part_**) of that share, the rates of tax in respect of the part (in this clause referred to as the **_relevant part_**) of that share other than the eligible part of that share are the rates that would be payable under Part II of Schedule 7 in respect of a taxable income equal to the relevant part of that share if one individual were liable to be assessed and to pay tax on that income. 
 
-              2.  In the case of a trustee of a trust estate who is liable to be assessed and to pay tax under section 98 of the Assessment Act in respect of a share of a non‑resident beneficiary of the net income of the trust estate where Division 6AA of Part III of that Act applies to a part of that share, the rate of tax in respect of that part of that share is 45%. 
+              2.  In the case of a trustee of a trust estate who is liable to be assessed and to pay tax under section 98 of the Assessment Act in respect of a share of a non-resident beneficiary of the net income of the trust estate where Division 6AA of Part III of that Act applies to a part of that share, the rate of tax in respect of that part of that share is 45%. 
 
 # Notes to the _Income Tax Rates Act 1986_
 
@@ -2703,32 +2640,13 @@ Schedule 1 (items 23–26, 30): 1 July 2010</div>
   <td>
     <div>Sch. 4 (item 36) \[ <i>see</i>Table A]</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Income Tax Rates Amendment (Temporary Flood and CycloneReconstruction Levy) Act 2011</div>
-  </td>
-  <td>
-    <div>15, 2011</div>
-  </td>
-  <td>
-    <div>12 Apr 2011</div>
-  </td>
-  <td>
-    <div>Schedule 1: 12 Apr 2011 ( <i>see</i>s. 2(1)) 
-Schedule 2: \[ <i>see</i>s. 2(1) and Note 2] 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Income Tax Rates Act 1986_ was amended by Part III (sections 53–62) only of the _Taxation Laws Amendment Act (No. 4) 1987_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
 
-_(b)_     Subsection 2(2) of the _Income Tax Rates Amendment Act (No. 2) 1989_, provides as follows:
+_(b)_    Subsection 2(2) of the _Income Tax Rates Amendment Act (No. 2) 1989_, provides as follows:
 
                  (2)   Sections 5, 6, 7 and 9 commence, or shall be taken to have commenced, as the case requires, immediately after the commencement of the _Income Tax Rates Amendment Act 1989_.
 
@@ -3027,7 +2945,8 @@ _(u)_     Subsection 2(1) (item 14) of the _Taxation Laws Amendment Ac
   </td>
   <td>
     <div>
-      Immediately after the start of 1 July 2000
+      Immediately after the start of
+      1 July 2000
     </div>
   </td>
   <td>
@@ -3210,14 +3129,6 @@ Part II</div>
   </td>
   <td>
     <div>am. Nos. 69 and 83, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 12B</div>
-  </td>
-  <td>
-    <div>ad. No. 15, 2011</div>
   </td>
 </tr>
 <tr>
@@ -3981,20 +3892,6 @@ Part II</div>
   </td>
 </tr></table>
 
-### Note 2
-
-_Income Tax Rates Amendment (Temporary Flood and Cyclone Reconstruction Levy) Act 2011 (No. 15, 2011)_
-
-The following amendment commences on 1 July 2016:
-
-## Schedule 2
-
-## 1  Section 12B
-
-Repeal the section.
-
-As at 15 April 2011 the amendment is not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -4003,7 +3900,7 @@ _Tax Law Improvement Act 1997 (No. 121, 1997)_
 
 ## 4  Application of amendments
 
-            An amendment made by an item in a Schedule (except Schedule 1) applies to assessments for the 1997‑98 income year and later income years, unless otherwise indicated in that Schedule.
+            An amendment made by an item in a Schedule (except Schedule 1) applies to assessments for the 1997-98 income year and later income years, unless otherwise indicated in that Schedule.
 
 * * *
 
@@ -4013,13 +3910,13 @@ _Income Tax Rates Amendment Act (No. 1) 1997 (No. 124, 1997)_
 
 ## 14  Application
 
-            The amendments made by this Schedule apply in relation to the 1996‑97 year of income and to all later years of income.
+            The amendments made by this Schedule apply in relation to the 1996-97 year of income and to all later years of income.
 
 ## Schedule 2
 
 ## 10  Application
 
-            The amendments made by this Schedule apply in relation to the 1996‑97 year of income and to all later years of income.
+            The amendments made by this Schedule apply in relation to the 1996-97 year of income and to all later years of income.
 
 * * *
 
@@ -4027,7 +3924,7 @@ _Tax Law Improvement Act 1998 (No. 46, 1998)_
 
 ## 4  Application of amendments
 
-            An amendment made by an item in a Schedule (except an item in Schedule 1 or in Part 1 of any of Schedules 2 to 8) applies to assessments for the 1998‑99 income year and later income years, unless otherwise indicated in the Schedule in which the item appears.
+            An amendment made by an item in a Schedule (except an item in Schedule 1 or in Part 1 of any of Schedules 2 to 8) applies to assessments for the 1998-99 income year and later income years, unless otherwise indicated in the Schedule in which the item appears.
 
 * * *
 
@@ -4037,7 +3934,7 @@ _A New Tax System (Personal Income Tax Cuts) Act 1999 (No. 69, 1999)_
 
 ## 1  Application
 
-(1)       Subject to subitem (2), the amendments made by this Act (except items 1, 2, 4, 6, 7 and 9 of Schedule 1) apply to assessments for the 2000‑2001 income year and later income years.
+(1)        Subject to subitem (2), the amendments made by this Act (except items 1, 2, 4, 6, 7 and 9 of Schedule 1) apply to assessments for the 2000-2001 income year and later income years.
 
 * * *
 
@@ -4047,7 +3944,7 @@ _A New Tax System (Family Assistance) (Consequential and Related Measures) Act (
 
 ## 29  Application
 
-The amendments made by this Schedule apply to assessments in relation to the 2000‑2001 year of income and later years of income.
+The amendments made by this Schedule apply to assessments in relation to the 2000-2001 year of income and later years of income.
 
 * * *
 
@@ -4057,7 +3954,7 @@ _A New Tax System (Family Assistance) (Consequential and Related Measures) Act (
 
 ## 68  Application
 
-(1)       Subject to this item, the amendments made by this Schedule apply to assessments in relation to the 2000‑2001 year of income and later years of income.
+(1)        Subject to this item, the amendments made by this Schedule apply to assessments in relation to the 2000-2001 year of income and later years of income.
 
 * * *
 
@@ -4068,13 +3965,13 @@ _New Business Tax System (Income Tax Rates) Act (No. 1) 1999
 
 ## 12  Application of amendments made by this Schedule
 
-The amendments made by this Schedule apply to assessments in respect of taxable income, or a trust estate’s net income, of the 2000‑01 year of income.
+The amendments made by this Schedule apply to assessments in respect of taxable income, or a trust estate’s net income, of the 2000-01 year of income.
 
 ## Schedule 2
 
 ## 12  Application of amendments made by this Schedule
 
-The amendments made by this Schedule apply to assessments in respect of taxable income, or a trust estate’s net income, of the 2001‑02 year of income and of later years of income.
+The amendments made by this Schedule apply to assessments in respect of taxable income, or a trust estate’s net income, of the 2001-02 year of income and of later years of income.
 
 * * *
 
@@ -4085,29 +3982,29 @@ _New Business Tax System (Income Tax Rates) Act (No. 2) 1999
 
 ## 16  Application of amendments
 
-The amendments made by this Schedule apply in relation to the 1999‑2000 year of income and later years of income.
+The amendments made by this Schedule apply in relation to the 1999-2000 year of income and later years of income.
 
 ## 17  Overview of Part
 
-(1)       This Part provides for your basic income tax liability for the 1999‑2000 income year to be reduced in certain circumstances if you have made a capital gain from a CGT event before the start time.
+(1)        This Part provides for your basic income tax liability for the 1999-2000 income year to be reduced in certain circumstances if you have made a capital gain from a CGT event before the start time.
 
-(2)       The purpose of this Part is to ensure, as far as is practicable, that the income tax payable in relation to capital gains from CGT events before the start time is the same as it would have been if capital gains tax averaging had not been removed.
+(2)        The purpose of this Part is to ensure, as far as is practicable, that the income tax payable in relation to capital gains from CGT events before the start time is the same as it would have been if capital gains tax averaging had not been removed.
 
 ## 18  Part is a special provision for working out your basic income tax liability
 
-(1)       This Part is a special provision that applies (as mentioned in paragraph (b) of step 2 of subsection 4‑10(3) of the _Income Tax Assessment Act 1997_) to working out your basic income tax liability on your taxable income.
+(1)        This Part is a special provision that applies (as mentioned in paragraph (b) of step 2 of subsection 4-10(3) of the _Income Tax Assessment Act 1997_) to working out your basic income tax liability on your taxable income.
 
-(2)       This Part is to be applied after any other special provisions that apply to you.
+(2)        This Part is to be applied after any other special provisions that apply to you.
 
 ## 19  When this Part applies
 
-Only applies for 1999‑2000 income year
+Only applies for 1999-2000 income year
 
-(1)       This Part only applies for the 1999‑2000 income year.
+(1)        This Part only applies for the 1999-2000 income year.
 
 Only applies to individuals and certain trustees
 
-(2)       This Part only applies to you if you are:
+(2)        This Part only applies to you if you are:
 
                      (a)  an individual and your assessable income included a net capital gain; or
 
@@ -4117,7 +4014,7 @@ Only applies to individuals and certain trustees
 
 Only applies if capital gain made before the start time
 
-(3)       This Part does not apply to you unless you made a capital gain as a result of a CGT event that happened during the income year and before the start time and the capital gain is not disregarded.
+(3)        This Part does not apply to you unless you made a capital gain as a result of a CGT event that happened during the income year and before the start time and the capital gain is not disregarded.
 
 ## 20  Meaning of start time
 
@@ -4131,7 +4028,7 @@ You are entitled to a reduction to your basic income tax liability if the follow
 
                      (a)  your gross adjustment amount under item 22;
 
-                     (b)  your pre‑announcement net capital gain amount worked out under item 23.
+                     (b)  your pre-announcement net capital gain amount worked out under item 23.
 
 The amount of the reduction is worked out under item 24.
 
@@ -4147,7 +4044,7 @@ Step 1\. Work out the amount that would have been your basic income tax liabilit
 
                (a)     Schedules 8 and 9 to the _New Business Tax System (Integrity and Other Measures) Act 1999_; and
 
-              (b)     Schedule 1 to the _New Business Tax System (Capital Gains Tax) Act 1999_;
+               (b)     Schedule 1 to the _New Business Tax System (Capital Gains Tax) Act 1999_;
 
               had not been made.
 
@@ -4155,13 +4052,13 @@ Step 2\. Work out the amount that would have been your basic income tax liabilit
 
                (a)     Schedules 8 and 9 to the _New Business Tax System (Integrity and Other Measures) Act 1999_; and
 
-              (b)     Schedule 1 to the _New Business Tax System (Capital Gains Tax) Act 1999_; and
+               (b)     Schedule 1 to the _New Business Tax System (Capital Gains Tax) Act 1999_; and
 
                (c)     Part 1 of this Schedule;
 
               had not been made.
 
-Step 3.   Subtract the amount worked out under step 2 from the amount worked out under step 1\. The result is the **_gross adjustment amount_**.
+Step 3.    Subtract the amount worked out under step 2 from the amount worked out under step 1\. The result is the **_gross adjustment amount_**.
 
               If the result is zero or negative, you are not entitled to any reduction.
 
@@ -4169,13 +4066,13 @@ Step 3.   Subtract the amount worked out under step 2 from the amount worked
 
 ## 23  Working out your net capital gain amounts
 
-Working out your pre‑announcement net capital gain amount
+Working out your pre-announcement net capital gain amount
 
-(1)       Your **_pre‑announcement net capital gain amount_** is the amount that would have been your modified net capital gain amount if any capital gains or capital losses arising after the start time were disregarded.
+(1)        Your **_pre-announcement net capital gain amount_** is the amount that would have been your modified net capital gain amount if any capital gains or capital losses arising after the start time were disregarded.
 
 Working out your modified net capital gain amount
 
-(2)       Your **_modified net capital gain amount_** is the amount that would have been your net capital gain for the income year if:
+(2)        Your **_modified net capital gain amount_** is the amount that would have been your net capital gain for the income year if:
 
                      (a)  the amendments made by:
 
@@ -4197,15 +4094,15 @@ Working out your modified net capital gain amount
 
 ## 24  Working out the amount of your reduction
 
-(1)       The amount of the reduction in your basic income tax liability is worked out using the formula:
+(1)        The amount of the reduction in your basic income tax liability is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00187/Html/46e76d34-27de-4806-a278-9339f3be10d2_files/image007.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00555/Html/IncomeTaxRates1986_WD02_image007.gif)
 
 Working out your capital gain adjustment percentage
 
-(2)       Your **_capital gain adjustment percentage_** is the percentage worked out using the following formula:
+(2)        Your **_capital gain adjustment percentage_** is the percentage worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00187/Html/46e76d34-27de-4806-a278-9339f3be10d2_files/image008.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00555/Html/IncomeTaxRates1986_WD02_image008.gif)
 
 ## 25  Choices
 
@@ -4233,13 +4130,13 @@ _Taxation Laws Amendment Act (No. 6) 2000 (No. 76, 2000)_
 
 ## 8  Application of amendments
 
-(1)       The amendments made by items 1, 2 and 6 apply to assessments for the 1999‑2000 year of income and all later years of income.
+(1)        The amendments made by items 1, 2 and 6 apply to assessments for the 1999-2000 year of income and all later years of income.
 
-(2)       The amendments made by items 3 and 4 apply in relation to the quotation of TFNs on or after 11 November 1999.
+(2)        The amendments made by items 3 and 4 apply in relation to the quotation of TFNs on or after 11 November 1999.
 
-(3)       The amendment made by item 5 applies to payments made on or after 11 November 1999.
+(3)        The amendment made by item 5 applies to payments made on or after 11 November 1999.
 
-(4)       The amendment made by item 7 applies to payments made on or after 1 July 2000.
+(4)        The amendment made by item 7 applies to payments made on or after 1 July 2000.
 
 * * *
 
@@ -4249,7 +4146,7 @@ _New Business Tax System (Capital Allowances—Transitional and Consequential) A
 
 ## 488  Application
 
-(1)       Subject to this item, the amendments made by this Schedule apply to:
+(1)        Subject to this item, the amendments made by this Schedule apply to:
 
                      (a)  depreciating assets:
 
@@ -4269,7 +4166,7 @@ _Taxation Laws Amendment Act (No. 2) 2001 (No. 167, 2001)_
 
 ## 6  Application
 
-            The amendments of the _Income Tax Rates Act 1986_ made by this Schedule apply to assessments for the 2000‑2001 income year and all later income years.
+            The amendments of the _Income Tax Rates Act 1986_ made by this Schedule apply to assessments for the 2000-2001 income year and all later income years.
 
 * * *
 
@@ -4278,7 +4175,7 @@ _Taxation Laws Amendment (Personal Income Tax Reduction) Act 2003
 
 ##### 4  Application
 
-                   The amendments made by Schedule 1 apply to assessments for the 2003‑2004 income year and later income years.
+                   The amendments made by Schedule 1 apply to assessments for the 2003-2004 income year and later income years.
 
 * * *
 
@@ -4292,7 +4189,7 @@ The amendments made by this Part apply to eligible termination payments (as defi
 
 ## 23  Application
 
-The amendment made by this Part applies to assessments for the 1994‑95 year of income and later years of income.
+The amendment made by this Part applies to assessments for the 1994-95 year of income and later years of income.
 
 * * *
 
@@ -4303,7 +4200,7 @@ _Tax Laws Amendment (Personal Income Tax Reduction) Act 2004
 
 ## 3  Application
 
-The amendments made by this Schedule apply to assessments for the 2004‑05 year of income and later years.
+The amendments made by this Schedule apply to assessments for the 2004-05 year of income and later years.
 
 * * *
 
@@ -4317,7 +4214,7 @@ The amendment of subparagraph 23(4A)(c)(i) of the _Income Tax Rates Act 1986_ ma
 
 ## 153  Application
 
-The amendments of the _Income Tax Rates Act 1986_ (except the amendment of subsection 12(6) of that Act) made by this Part apply to assessments for the 1998‑99 year of income and later years of income.
+The amendments of the _Income Tax Rates Act 1986_ (except the amendment of subsection 12(6) of that Act) made by this Part apply to assessments for the 1998-99 year of income and later years of income.
 
 * * *
 
@@ -4326,7 +4223,7 @@ _Tax Laws Amendment (Personal Income Tax Reduction) Act 2005
 
 ## 4  Application
 
-                   The amendments made by Schedule 1 apply to assessments for the 2005‑2006 year of income and later years of income.
+                   The amendments made by Schedule 1 apply to assessments for the 2005-2006 year of income and later years of income.
 
 * * *
 
@@ -4336,7 +4233,7 @@ _Tax Laws Amendment (Personal Tax Reduction and Improved Depreciation Arrangemen
 
 ## 32  Application
 
-(1)       The amendments made by this Schedule, except the amendment of the _Income Tax (Bearer Debentures) Act 1971_, apply to assessments for the 2006‑2007 year of income and later years of income.
+(1)        The amendments made by this Schedule, except the amendment of the _Income Tax (Bearer Debentures) Act 1971_, apply to assessments for the 2006-2007 year of income and later years of income.
 
 * * *
 
@@ -4346,11 +4243,11 @@ _Tax Laws Amendment (2006 Measures No. 2) Act 2006 (No. 58, 2006)_
 
 ## 115  Application
 
-The amendment made by item 114 applies to assessments for the 2005‑06 income year and later income years.
+The amendment made by item 114 applies to assessments for the 2005-06 income year and later income years.
 
 ## 119  Application
 
-The amendment made by item 118 applies to assessments for the 2003‑04 income year and later income years.
+The amendment made by item 118 applies to assessments for the 2003-04 income year and later income years.
 
 * * *
 
@@ -4363,7 +4260,7 @@ _Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006
 
 Except as mentioned in items 2 and 3, the repeals and amendments made by Schedules 1 and 2 apply:
 
-                     (a)  so far as they affect assessments—to assessments for the 2006‑07 income year and all later income years; and
+                     (a)  so far as they affect assessments—to assessments for the 2006-07 income year and all later income years; and
 
                      (b)  otherwise—to acts done or omitted to be done, or states of affairs existing, after the commencement of the repeals and amendments.
 
@@ -4389,17 +4286,17 @@ Even though an Act is repealed or amended by this Act, the repeal or amendment i
 
 in relation to any act done or omitted to be done, any state of affairs existing, or any period ending, before the repeal or amendment applies.
 
-Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998‑99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
+Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998-99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
 
-                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998‑99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
+                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998-99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
 
-                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998‑99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
+                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998-99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
 
                    Despite the repeal of sections 160ARU and 160ARV, item 9 will ensure that the general interest charge will accrue on the unpaid franking deficit tax and penalty until they are paid.
 
                    Item 7 will also preserve Greg Ltd’s right, under former section 160ART of that Act, to object against the Commissioner’s amended assessment (including the penalty), since the objection is the exercise of a right in relation to a franking year that ended before the repeal of Part IIIAA.
 
-Example 2: During the 1997‑98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
+Example 2: During the 1997-98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
 
                    Following an audit undertaken after the repeal of those Divisions, the Commissioner discovers that the withheld amounts have not been remitted. The company’s records are incomplete and the Commissioner is unable to completely ascertain the extent of its liability for the withheld amounts. Under section 222AGA of that Act, the Commissioner makes an estimate of the liability.
 
@@ -4439,7 +4336,7 @@ _Tax Laws Amendment (2006 Measures No. 5) Act 2006 (No. 110, 2006)_
 
 ## 9  Application
 
-The amendments made by this Schedule apply to assessments for the 2006‑2007 year of income and later years of income.
+The amendments made by this Schedule apply to assessments for the 2006-2007 year of income and later years of income.
 
 * * *
 
@@ -4449,7 +4346,7 @@ _Tax Laws Amendment (Simplified Superannuation) Act 2007 (No. 9, 2007)_
 
 ## 24  Application
 
-(1)       The amendments made by this Part of this Schedule apply to the 2007‑2008 income year and later years.
+(1)        The amendments made by this Part of this Schedule apply to the 2007-2008 income year and later years.
 
 * * *
 
@@ -4459,9 +4356,9 @@ _Income Tax Rates Amendment (Superannuation) Act 2007 (No. 19, 2007)_
 
 ## 35  Application
 
-(1)       The amendments made by this Schedule apply to the 2007‑2008 income year and later years.
+(1)        The amendments made by this Schedule apply to the 2007-2008 income year and later years.
 
-(2)       Despite subitem (1), those amendments apply on and after 1 July 2007, to the extent that they relate to any of the following:
+(2)        Despite subitem (1), those amendments apply on and after 1 July 2007, to the extent that they relate to any of the following:
 
                      (a)  Divisions 82 and 83 of the _Income Tax Assessment Act 1997_;
 
@@ -4476,11 +4373,11 @@ _Tax Laws Amendment (Personal Income Tax Reduction) Act 2007
 
 ## 11  Application
 
-The amendments made by this Part apply to assessments for the 2007‑08 year of income and later years of income.
+The amendments made by this Part apply to assessments for the 2007-08 year of income and later years of income.
 
 ## 16  Application
 
-The amendments made by this Part apply to assessments for the 2008‑09 year of income and later years of income.
+The amendments made by this Part apply to assessments for the 2008-09 year of income and later years of income.
 
 * * *
 
@@ -4490,7 +4387,7 @@ _Tax Laws Amendment (2007 Measures No. 3) Act 2007 (No. 79, 2007)_
 
 ## 30  Application
 
-(1)       Subject to items 31, 32 and 33 of this Schedule, the amendments made by this Schedule, other than items 13 and 23, apply in relation to income years starting on or after 1 July 2006.
+(1)        Subject to items 31, 32 and 33 of this Schedule, the amendments made by this Schedule, other than items 13 and 23, apply in relation to income years starting on or after 1 July 2006.
 
 ## 31  Transitional provision—trusts that ceased to exist before introduction
 
@@ -4498,7 +4395,7 @@ Subsection 98(4) of the _Income Tax Assessment Act 1936_, as inserted by item 
 
 ## 32  Transitional provision—managed investment trusts
 
-(1)       This item applies in relation to the following income years:
+(1)        This item applies in relation to the following income years:
 
                      (a)  the first income year starting on or after 1 July 2006;
 
@@ -4506,15 +4403,15 @@ Subsection 98(4) of the _Income Tax Assessment Act 1936_, as inserted by item 
 
                      (c)  each intervening income year (if any).
 
-(2)       In this item, expressions mean the same as in the _Income Tax Assessment Act 1997._
+(2)        In this item, expressions mean the same as in the _Income Tax Assessment Act 1997._
 
-(3)       Subsection 98(4) of the _Income Tax Assessment Act 1936_, as inserted by item 1 of this Schedule, does not apply in relation to a trustee of a trust in relation to an income year to which this item applies if the conditions in subitems (4) to (6) are satisfied for the trust for the income year.
+(3)        Subsection 98(4) of the _Income Tax Assessment Act 1936_, as inserted by item 1 of this Schedule, does not apply in relation to a trustee of a trust in relation to an income year to which this item applies if the conditions in subitems (4) to (6) are satisfied for the trust for the income year.
 
-(4)       The trust must be a resident trust estate for the purposes of Division 6 of Part III of the _Income Tax Assessment Act 1936_ for the income year.
+(4)        The trust must be a resident trust estate for the purposes of Division 6 of Part III of the _Income Tax Assessment Act 1936_ for the income year.
 
-(5)       At each of the times in the income year mentioned in subitem (9), the trust must be a managed investment scheme (as defined by section 9 of the _Corporations Act 2001_) and be operated by a financial services licensee (as defined by section 761A of that Act) whose licence covers operating such a managed investment scheme.
+(5)        At each of the times in the income year mentioned in subitem (9), the trust must be a managed investment scheme (as defined by section 9 of the _Corporations Act 2001_) and be operated by a financial services licensee (as defined by section 761A of that Act) whose licence covers operating such a managed investment scheme.
 
-(6)       At each of the times in the income year mentioned in subitem (9), one of the following must be satisfied:
+(6)        At each of the times in the income year mentioned in subitem (9), one of the following must be satisfied:
 
                      (a)  units in the trust must be listed for quotation in the official list of an approved stock exchange in Australia;
 
@@ -4522,7 +4419,7 @@ Subsection 98(4) of the _Income Tax Assessment Act 1936_, as inserted by item 
 
                      (c)  one of the entities covered by subitem (7) must be a member of the trust.
 
-(7)       These are the entities:
+(7)        These are the entities:
 
                      (a)  a life insurance company;
 
@@ -4540,7 +4437,7 @@ Subsection 98(4) of the _Income Tax Assessment Act 1936_, as inserted by item 
 
                             where the conditions in subitems (4) and (5) are satisfied for the trust, or for each trust in the chain.
 
-(8)       The condition in subitem (6) is not satisfied for a trust at a time if, at that time, one foreign resident individual, directly or indirectly:
+(8)        The condition in subitem (6) is not satisfied for a trust at a time if, at that time, one foreign resident individual, directly or indirectly:
 
                      (a)  held, or had the right to acquire, interests representing 10% or more of the value of the interests in the trust; or
 
@@ -4548,7 +4445,7 @@ Subsection 98(4) of the _Income Tax Assessment Act 1936_, as inserted by item 
 
                      (c)  had the right to receive 10% or more of any distribution of income that the trustee may make.
 
-(9)       The times in an income year are:
+(9)        The times in an income year are:
 
                      (a)  for a trust that was in existence throughout the income year—the first day and the last day of the income year; and
 
@@ -4564,7 +4461,7 @@ _Tax Laws Amendment (2007 Measures No. 4) Act 2007 (No. 143, 2007)_
 
 ## 96  Application
 
-The amendments made by items 73 to 95 apply to assessments for the 2007‑08 income year and later income years.
+The amendments made by items 73 to 95 apply to assessments for the 2007-08 income year and later income years.
 
 * * *
 
@@ -4575,15 +4472,15 @@ _Tax Laws Amendment (Personal Income Tax Reduction) Act 2008
 
 ## 10  Application
 
-The amendments made by this Part apply to assessments for the 2008‑09 year of income.
+The amendments made by this Part apply to assessments for the 2008-09 year of income.
 
 ## 20  Application
 
-The amendments made by this Part apply to assessments for the 2009‑10 year of income.
+The amendments made by this Part apply to assessments for the 2009-10 year of income.
 
 ## 30  Application
 
-The amendments made by this Part apply to assessments for the 2010‑11 year of income and later years of income.
+The amendments made by this Part apply to assessments for the 2010-11 year of income and later years of income.
 
 * * *
 
@@ -4593,6 +4490,6 @@ _Tax Laws Amendment (2008 Measures No. 6) Act 2009 (No. 14, 2009)_
 
 ## 36  Application
 
-The amendment made by item 35 applies to assessments for the 2007‑08 income year and later income years.
+The amendment made by item 35 applies to assessments for the 2007-08 income year and later income years.
 
  
