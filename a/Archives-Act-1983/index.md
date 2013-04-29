@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00025/Html/f3c55cd6-4e1c-4d54-b26a-58e0eb86dd55_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00564/Html/cd7792c1-667f-4cef-a5c5-9b169d52d30c_files/image001.gif)
 
 # Archives Act 1983
 
 **Act No. 79 of 1983 as amended**
 
-This compilation was prepared on 27 December 2011
+This compilation was prepared on 25 July 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force 
@@ -370,7 +370,7 @@ other than material (if any) that came to be so included by reason of a contrave
 
                      (b)  its connection with any event, person, circumstance or thing.
 
-Note:          For the definition of **_document_**, see section 2B of the _Acts Interpretation Act 1901_.
+Note:          For the definition of **_document_**, see section 25 of the _Acts Interpretation Act 1901_.
 
                     <a name="respons-minist"></a>**_responsible Minister_**, in relation to a Commonwealth record, means the Minister to whose ministerial responsibilities the record is most closely related.
 
@@ -658,7 +658,7 @@ then, despite paragraph (c) of the definition of **_authority of the Commonwea
 
              (1)  The Director‑General may, in writing, determine that a specified Commonwealth record or other material is part of the archival resources of the Commonwealth.
 
-Note:          The Director‑General may specify a record by reference to a class of records (see subsection 33(3AB) of the _Acts Interpretation Act 1901_).
+Note:          The Director‑General may specify a record by reference to a class of records (see subsection 46(3) of the _Acts Interpretation Act 1901_).
 
              (2)  The Director‑General must not make a determination under this section unless he or she is satisfied that the specified Commonwealth record or other material is part of the archival resources of the Commonwealth (within the meaning of subsection 3(2)).
 
@@ -730,7 +730,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (e)  make copies, by microfilming or otherwise, of archival material, but not so as to infringe copyright (other than copyright owned by the Commonwealth) subsisting in the material;
 
-                      (f)  arrange for the publication of material forming part of the archival resources of the Commonwealth or works based on such material, but not so as to infringe copyright (other than copyright owned by the Commonwealth) subsisting in the material or works;
+                      (f)  arrange for the publication of material forming part of the archival resources of the Commonwealth or works based on such material, but not so as to infringe copyright (other than copyright owned by the Commonwealth) subsisting in the material or works;
 
                      (g)  publish indexes of, and other guides to, archival material;
 
@@ -1679,7 +1679,7 @@ Note:          Section 21AB of the _Administrative Appeals T
 
                      (a)  subsection (1) of that section were omitted and the following subsection substituted:
 
-                   “(1)   At any time during the hearing of a proceeding before the Tribunal constituted in accordance with subsection 46(2) of the _Archives Act 1983_ by a presidential member alone, a party to the proceeding may make an application to the Tribunal as constituted for the purposes of that proceeding requesting that the Tribunal be reconstituted for the purposes of that proceeding.”; and
+                   “(1)   At any time during the hearing of a proceeding before the Tribunal constituted in accordance with subsection 46(2) of the _Archives Act 1983_ by a presidential member alone, a party to the proceeding may make an application to the Tribunal as constituted for the purposes of that proceeding requesting that the Tribunal be reconstituted for the purposes of that proceeding **_._**”; and
 
                      (b)  subsection (3) of that section were omitted and the following subsection substituted:
 
@@ -2524,7 +2524,7 @@ Remainder: 7 June 1995 ( <i>see Gazette</i>1995, No. S201)</div>
     <div>7 Mar 2000</div>
   </td>
   <td>
-    <div>Schedule 2 (item 2) and Schedule 3 (items 20, 34, 35): 2 July 2000 ( <i>see Gazette</i>2000, No. S328)</div>
+    <div>2 July 2000 ( <i>see Gazette</i>2000, No. S328)</div>
   </td>
   <td>
     <div>Sch. 3 (items 20, 34, 35) \[ <i>see</i>Table A]</div>
@@ -2767,7 +2767,7 @@ Sch. 7 \[ <i>see</i>Note 1]</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 75, 76) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 75, 76) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
@@ -3050,7 +3050,7 @@ _(r)_ Subsection 2(1) (items 4, 6 and 7) of the _Freedom of Information Amendm
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 109, 1988; No. 80, 1990; No. 196, 1992; No. 33, 1994; No. 10, 1995; No. 189, 1997 (as am. by No. 145, 1999); No. 146, 1999; No. 30, 2000; No. 5, 2001; No. 135, 2003; No. 10, 2006; No. 158, 2007; No. 113, 2008; No. 102, 2009; No. 51, 2010; No. 46, 2011</div>
+    <div>am. No. 109, 1988; No. 80, 1990; No. 196, 1992; No. 33, 1994; No. 10, 1995; No. 189, 1997 (as am. by No. 145, 1999); No. 146, 1999; No. 30, 2000; No. 5, 2001; No. 135, 2003; No. 10, 2006; No. 158, 2007; No. 113, 2008; No. 102, 2009; No. 51, 2010</div>
   </td>
 </tr>
 <tr>
@@ -3083,14 +3083,6 @@ _(r)_ Subsection 2(1) (items 4, 6 and 7) of the _Freedom of Information Amendm
   </td>
   <td>
     <div>ad. No. 113, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 3C(1)</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
   </td>
 </tr>
 <tr>
@@ -3782,6 +3774,24 @@ _(r)_ Subsection 2(1) (items 4, 6 and 7) of the _Freedom of Information Amendm
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 75  Subsection 3(1) (note at the end of the definition of _record_)
+
+Omit “section 25”, substitute “section 2B”.
+
+## 76  Subsection 3C(1) (note)
+
+Omit “subsection 46(3)”, substitute “subsection 33(3AB)”.
+
+As at 25 July 2011 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -3929,6 +3939,8 @@ The amendments made by items 35, 36 and 37 apply for the purposes of determini
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
@@ -4370,7 +4382,7 @@ Omit ‘any record’, substitute ‘a Class B record’.
 
 15            Section 39 (Information as to existence of certain documents)
 
-15.1         Subsection 39 (1):
+15.1         Subsection 39 (1):
 
 Omit ‘a record’, substitute ‘a Class B record’.
 
