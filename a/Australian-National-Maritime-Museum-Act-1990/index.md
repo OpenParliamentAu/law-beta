@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00248/Html/5ba77f00-0d38-41a3-bbea-9e180bd5e372_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00524/Html/AustNationalMaritimeMuseum90WD02_image001.gif)
 
 # Australian National Maritime Museum Act 1990
 
 **Act No. 90 of 1990 as amended**
 
-This compilation was prepared on 19 April 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 25 September 200 6 
+ taking into account amendments up to Act No. 101 of 2006
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -150,7 +150,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="1"></a>1  Short title<span style="font-size:9.0pt; font-weight:normal"> [_see_ Note 1]</span>
 
-                   This Act may be cited as the _Australian__National Maritime Museum__Act 1990_.
+                   This Act may be cited as the _Australian__National__Maritime__Museum__Act 1990_.
 
 ##### <a id="2"></a>2  Commencement<span style="font-size:9.0pt; font-weight:normal"> [_see_ Note 1]</span>
 
@@ -190,11 +190,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="continent-shelf"></a>**_continental shelf_** has the same meaning as in the _Seas and Submerged Lands Act 1973_.
 
-                    <a name="council"></a>**_Council_** means the Council of the Australian National Maritime Museum established by section 11.
+                    <a name="council"></a>**_Council_** means the Council of the Australian National  Maritime Museum established by section 11.
 
                     <a name="director"></a>**_Director_** means the Director of the Museum.
-
-                    <a name="financ-minist"></a>**_Finance Minister_** means the Minister administering the _Financial Management and Accountability Act 1997_.
 
                     <a name="fund"></a>**_Fund_** means the Australian National Maritime Museum Fund established by section 44.
 
@@ -204,7 +202,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="monei-museum"></a>**_money of the Museum_** includes money standing to the credit of the Fund.
 
-                    <a name="museum"></a>**_Museum_** means the Australian National Maritime Museum established by section 5.
+                    <a name="museum"></a>**_Museum_** means the Australian National Maritime  Museum established by section 5.
 
                     <a name="nation-maritim-collect"></a>**_national maritime collection_** means the national collection of maritime historical material referred to in subsection 9 (1).
 
@@ -244,7 +242,7 @@ Note:          The _Commonwealth Authorities and Companies Act
 
                      (a)  to exhibit, or to make available for exhibition by others, in Australia or elsewhere, material included in the national maritime collection or maritime historical material that is otherwise in the possession of the Museum;
 
-                     (b)  to co‑operate with other institutions (whether public or private) in the exhibiting, or in the making available for exhibition, of such material;
+                     (b)  to co-operate with other institutions (whether public or private) in the exhibiting, or in the making available for exhibition, of such material;
 
                      (c)  to develop, preserve and maintain the national maritime collection in accordance with section 9;
 
@@ -286,7 +284,7 @@ Note:          The _Commonwealth Authorities and Companies Act
 
                      (p)  to erect buildings and structures and carry out works;
 
-                     (q)  to take on leases of land or buildings and to grant leases and sub‑leases of land or buildings;
+                     (q)  to take on leases of land or buildings and to grant leases and sub-leases of land or buildings;
 
                       (r)  to fix charges for entry onto any land or water, or into any building, structure or vessel, owned by, or under the control of the Museum, being charges that:
 
@@ -340,7 +338,7 @@ has effect, after the commencement of this Act, as if:
 
 and, where the Minister makes such a declaration, it has effect accordingly.
 
-             (6)  The Minister may, by writing signed by him or her, delegate, to the person holding or performing the duties of the office of Secretary of the Department, all or any of the Minister’s powers under this section.
+             (6)  The Minister may, by writing signed by him or her, delegate, to the person holding or performing the duties of the office of Secretary to the Department, all or any of the Minister’s powers under this section.
 
 ##### <a id="9"></a>9  National maritime collection
 
@@ -434,13 +432,13 @@ the Museum may dispose of the material accordingly.
 
                      (b)  the Director;
 
-                   (ba)  an officer of the Royal Australian Navy;
+                    (ba)  an officer of the Royal Australian Navy;
 
                      (c)  not fewer than 6 nor more than 9 other members.
 
-             (2)  The members referred to in paragraphs (1)(a) and (c) shall be appointed by the Governor‑General as part‑time members.
+             (2)  The members referred to in paragraphs (1)(a) and (c) shall be appointed by the Governor-General as part-time members.
 
-          (2A)  The member referred to in paragraph (1)(ba) is to be appointed by the Chief of Navy as a part‑time member.
+          (2A)  The member referred to in paragraph (1)(ba) is to be appointed by the Chief of Navy as a part-time member.
 
              (3)  An appointed member shall be a person having knowledge and experience with respect to matters relating to Australian maritime history or with respect to any other area of knowledge relevant to the affairs of the Museum.
 
@@ -452,7 +450,7 @@ the Museum may dispose of the material accordingly.
 
                      (a)  there is a vacancy in the office of Chairperson or Director; or
 
-                   (ab)  there is no member holding office under paragraph (1)(ba); or
+                    (ab)  there is no member holding office under paragraph (1)(ba); or
 
                      (b)  the number of persons appointed under paragraph (1)(c) falls below 6 for not longer than 3 months.
 
@@ -488,13 +486,13 @@ the Museum may dispose of the material accordingly.
 
 ##### <a id="20"></a>20  Resignation
 
-             (1)  An appointed member may resign the office of appointed member by writing signed by the appointed member and delivered to the Governor‑General.
+             (1)  An appointed member may resign the office of appointed member by writing signed by the appointed member and delivered to the Governor-General.
 
              (2)  The naval member may resign the office of naval member by writing signed by the naval member and delivered to the Chief of Navy.
 
 ##### <a id="21"></a>21  Termination of appointment
 
-             (1)  The Governor‑General may terminate the appointment of an appointed member by reason of the misbehaviour or physical or mental incapacity of that member.
+             (1)  The Governor-General may terminate the appointment of an appointed member by reason of the misbehaviour or physical or mental incapacity of that member.
 
              (2)  If an appointed member:
 
@@ -504,7 +502,7 @@ the Museum may dispose of the material accordingly.
 
                      (c)  contravenes section 27F or 27J of the _Commonwealth Authorities and Companies Act 1997_ without reasonable excuse;
 
-the Governor‑General shall terminate the appointment of that member.
+the Governor-General shall terminate the appointment of that member.
 
 ##### <a id="23"></a>23  Meetings of Council
 
@@ -526,7 +524,7 @@ the Governor‑General shall terminate the appointment of that member.
 
              (7)  Subject to subsection (8), all questions arising at a meeting of the Council shall be decided by a majority of the votes of the members present and voting, including the member presiding.
 
-             (8)  In the event of an equality of votes on a resolution proposed at a meeting of the Council, the resolution shall be taken not to be passed but, if the same resolution is proposed at the first meeting of the Council held after the date of that first‑mentioned meeting and there is again an equality of votes, the member presiding has a casting vote on the resolution.
+             (8)  In the event of an equality of votes on a resolution proposed at a meeting of the Council, the resolution shall be taken not to be passed but, if the same resolution is proposed at the first meeting of the Council held after the date of that first-mentioned meeting and there is again an equality of votes, the member presiding has a casting vote on the resolution.
 
              (9)  The Council may regulate the conduct of proceedings at its meetings as it thinks fit.
 
@@ -624,11 +622,11 @@ during the year in giving effect to the strategic plan that relates, or the inte
 
 ##### <a id="30"></a>30  Director
 
-             (1)  There shall be a Director of the Museum who shall be appointed by the Governor‑General.
+             (1)  There shall be a Director of the Museum who shall be appointed by the Governor-General.
 
              (3)  The Director holds office for such period, not exceeding 7 years, as is specified in the instrument of appointment of the Director.
 
-             (4)  The Director holds office on such terms and conditions (if any) in respect of matters not provided for by this Act as are determined by the Governor‑General.
+             (4)  The Director holds office on such terms and conditions (if any) in respect of matters not provided for by this Act as are determined by the Governor-General.
 
 ##### <a id="31"></a>31  Duties of Director
 
@@ -658,11 +656,11 @@ during the year in giving effect to the strategic plan that relates, or the inte
 
 ##### <a id="35"></a>35  Resignation
 
-                   The Director may resign the office of Director by writing signed by the Director and delivered to the Governor‑General.
+                   The Director may resign the office of Director by writing signed by the Director and delivered to the Governor-General.
 
 ##### <a id="36"></a>36  Termination of appointment
 
-             (1)  The Governor‑General may terminate the appointment of the Director by reason of the misbehaviour or physical or mental incapacity of the Director.
+             (1)  The Governor-General may terminate the appointment of the Director by reason of the misbehaviour or physical or mental incapacity of the Director.
 
              (2)  If the Director:
 
@@ -676,7 +674,7 @@ during the year in giving effect to the strategic plan that relates, or the inte
 
                      (e)  contravenes section 37 of this Act, or section 27F or 27J of the _Commonwealth Authorities and Companies Act 1997_, without reasonable excuse;
 
-the Governor‑General shall terminate the appointment of the Director.
+the Governor-General shall terminate the appointment of the Director.
 
 ##### <a id="37"></a>37  Disclosure of interests
 
@@ -736,7 +734,7 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
              (1)  There is payable to the Museum such money as is appropriated by the Parliament for the purposes of the Museum.
 
-             (2)  The Finance Minister may give directions as to the amounts in which, and the times at which, money referred to in subsection (1) is to be paid to the Museum.
+             (2)  The Minister for Finance may give directions as to the amounts in which, and the times at which, money referred to in subsection (1) is to be paid to the Museum.
 
 ##### <a id="44"></a>44  Australian National Maritime Museum Fund
 
@@ -824,7 +822,7 @@ but not otherwise.
 
 ##### <a id="54"></a>54  Regulations
 
-             (1)  The Governor‑General may make regulations, not inconsistent with this Act, prescribing matters:
+             (1)  The Governor-General may make regulations, not inconsistent with this Act, prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -848,7 +846,7 @@ and, in particular, may make regulations:
 
 ### Note 1
 
-The _Australian__National Maritime Museum__Act 1990_ as shown in this compilation comprises Act No. 90, 1990 amended as indicated in the Tables below.
+The _Australian__National__Maritime__Museum__Act 1990_ as shown in this compilation comprises Act No. 90, 1990 amended as indicated in the Tables below.
 
 All relevant information pertaining to application, saving or transitional provisions prior to 1 October 2001 is not included in this compilation. For subsequent information _see_ Table A.
 
@@ -1090,23 +1088,6 @@ of Assent</div>
 5–11) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td colspan="2">
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 5 (items 34, 35) and Schedule 7 (item 23): 19 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -1122,23 +1103,23 @@ _(a)_     The _Sales Tax Amendment (Transitional) Act 1992_ was amended 
 
          The _Sales Tax Amendment (Transitional) Act 1992_ came into operation on 28 October 1992.
 
-_(b)_     The _Australian__National Maritime Museum__Act 1990_ was amended by Schedule 2 (items 6–8) only of the _Defence Legislation Amendment Act (No. 1) 1997_, subsection 2(1) of which provides as follows:
+_(b)_    The _Australian__National__Maritime__Museum__Act 1990_ was amended by Schedule 2 (items 6–8) only of the _Defence Legislation Amendment Act (No. 1) 1997_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
 
-_(c)_     The _Australian__National Maritime Museum__Act 1990_ was amended by Schedule 2 (items 
+_(c)_     The _Australian__National__Maritime__Museum__Act 1990_ was amended by Schedule 2 (items 
  375–388) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
 
                  (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
 
-_(d)_     The _Australian__National Maritime Museum__Act 1990_ was amended by Schedule 2 (items 
+_(d)_     The _Australian__National__Maritime__Museum__Act 1990_ was amended by Schedule 2 (items 
  211–215) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
 
                  (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
 
                  (2)   Subject to this section, this Act commences at the commencing time.
 
-_(e)_     The _Australian__National Maritime Museum__Act 1990_ was amended by Schedule 2 (items 
+_(e)_     The _Australian__National__Maritime__Museum__Act 1990_ was amended by Schedule 2 (items 
  42–44) only of the _Corporate Law Economic Reform Program Act 1999_, subsection 2(2)(c) of which provides as follows:
 
                  (2)   The following provisions commence on a day or days to be fixed by Proclamation:
@@ -1181,7 +1162,7 @@ _(e)_     The _Australian__National Maritime Museum__Act 1990_ was amend
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 179, 1991; No. 1, 1997; No. 5, 2011</div>
+    <div>am. No. 179, 1991; No. 1, 1997</div>
   </td>
 </tr>
 <tr>
@@ -1206,14 +1187,6 @@ _(e)_     The _Australian__National Maritime Museum__Act 1990_ was amend
   </td>
   <td>
     <div>am. No. 110, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8</div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
   </td>
 </tr>
 <tr>
@@ -1362,14 +1335,6 @@ _(e)_     The _Australian__National Maritime Museum__Act 1990_ was amend
 </tr>
 <tr>
   <td>
-    <div>S. 43</div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 44</div>
   </td>
   <td>
@@ -1502,17 +1467,17 @@ Even though an Act is repealed or amended by this Act, the repeal or amendment i
 
 in relation to any act done or omitted to be done, any state of affairs existing, or any period ending, before the repeal or amendment applies.
 
-Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998‑99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
+Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998-99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
 
-                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998‑99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
+                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998-99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
 
-                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998‑99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
+                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998-99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
 
                    Despite the repeal of sections 160ARU and 160ARV, item 9 will ensure that the general interest charge will accrue on the unpaid franking deficit tax and penalty until they are paid.
 
                    Item 7 will also preserve Greg Ltd’s right, under former section 160ART of that Act, to object against the Commissioner’s amended assessment (including the penalty), since the objection is the exercise of a right in relation to a franking year that ended before the repeal of Part IIIAA.
 
-Example 2: During the 1997‑98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
+Example 2: During the 1997-98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
 
                    Following an audit undertaken after the repeal of those Divisions, the Commissioner discovers that the withheld amounts have not been remitted. The company’s records are incomplete and the Commissioner is unable to completely ascertain the extent of its liability for the withheld amounts. Under section 222AGA of that Act, the Commissioner makes an estimate of the liability.
 
