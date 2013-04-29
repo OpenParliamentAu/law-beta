@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00063/Html/b1881f13-8a54-4432-a971-6eb733cd1948_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00042/Html/78fb0ca5-6cf9-4af3-87a1-5c62c7ee4e6d_files/image001.gif)
 
 # Bankruptcy Act 1966
 
 **Act No. 33 of 1966 as amended**
 
-This compilation was prepared on 5 January 2012
- taking into account amendments up to Act No. 189 of 2011
+This compilation was prepared on 1 January 2012
+ taking into account amendments up to Act No. 174 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -1115,7 +1115,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [189AA](#189AA).  Court orders with effect during period of control of debtor’s property
 
-[189AB](#189AB).  Charge over debtor’s property that is subject to control [_see_ 
+[189AB](#189AB).  Charge over debtor’s property that is subject to contro [_see_ 
  Table B]
 
 [189AC](#189AC).  Right of indemnity for controlling trustee
@@ -2998,7 +2998,7 @@ and may:
 
              (2)  Subsection (1) has effect except to the extent that this Act expressly provides otherwise.
 
-##### <a id="35"></a>35  Family Court’s jurisdiction in bankruptcy where trustee is a party to property settlement or spousal maintenance proceedings etc.
+##### <a id="35"></a>35  Family Court’s jurisdiction in bankruptcy where trustee is a party to property settlement or spousal maintenance proceedings etc.
 
              (1)  If, at a particular time:
 
@@ -3070,7 +3070,7 @@ then, at and after that time, the Family Court has jurisdiction in bankruptcy in
 
                      (e)  appeals lie from judgments of the Family Court given in and in relation to the proceeding as if the judgments were judgments of the Federal Court constituted by a single Judge, and do not otherwise lie; and
 
-                      (f)  subject to paragraphs (a) to (e) (inclusive), this Act, the _Federal Court of Australia Act 1976_, and other laws of the Commonwealth, apply in and in relation to the proceeding as if:
+                      (f)  subject to paragraphs (a) to (e) (inclusive), this Act, the _Federal Court of Australia Act 1976_, the Rules of Court made under that Act, and other laws of the Commonwealth, apply in and in relation to the proceeding as if:
 
                               (i)  a reference to the Federal Court (other than in the expression “the Court or a Judge”) included a reference to the Family Court;
 
@@ -3081,8 +3081,6 @@ then, at and after that time, the Family Court has jurisdiction in bankruptcy in
                             (iv)  a reference to a Registrar included a reference to a Registrar of the Family Court; and
 
                              (v)  any other necessary changes were made.
-
-Note:          Rules of Court made under the _Family Law Act 1975_ (rather than Rules of Court made under the _Federal Court of Australia Act 1976_) apply in relation to proceedings transferred to the Family Court under this section.
 
              (4)  Where any difficulty arises in the application of paragraphs (3)(c), (d) and (f) in or in relation to a particular proceeding, the Family Court may, on the application of a party to the proceeding or of its own motion, give such directions, and make such orders, as it considers appropriate to resolve the difficulty.
 
@@ -5436,7 +5434,7 @@ and, if the Official Receiver does so, a reference in this Division to the offsh
 
 ### Division 3—Failure to comply with certain notices
 
-##### <a id="81G"></a>81G  Effect of non‑compliance with notice
+##### <a id="81G"></a>81G  Effect of non‑compliance with notice
 
              (1)  In this section:
 
@@ -8072,7 +8070,7 @@ Note:          Subdivision HA deals with the supervised accoun
 
                    The contribution that a bankrupt is liable to pay in respect of a contribution assessment period is the amount worked out in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00063/Html/b1881f13-8a54-4432-a971-6eb733cd1948_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00042/Html/78fb0ca5-6cf9-4af3-87a1-5c62c7ee4e6d_files/image002.gif)
 
                     where:
 
@@ -12782,7 +12780,7 @@ Meaning of debtor’s property
 
                     <a name="debtor-properti"></a>**_debtor’s property_** has the meaning given in subsection 190(5).
 
-##### <a id="189AC"></a>189AC  Right of indemnity for controlling trustee
+##### <a id="189AC"></a>189AC  Right of indemnity for controlling trustee
 
              (1)  The controlling trustee is entitled to be indemnified out of the debtor’s property for:
 
@@ -15783,7 +15781,7 @@ or, if any such amount has previously been altered under this section, the amoun
 
              (6)  The formula for the purposes of subsections (2), (3) and (5) is: 
 
-![](http://www.comlaw.gov.au/Details/C2012C00063/Html/b1881f13-8a54-4432-a971-6eb733cd1948_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00042/Html/78fb0ca5-6cf9-4af3-87a1-5c62c7ee4e6d_files/image003.gif)
 
 where:
 
@@ -17990,24 +17988,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>Sch. 2 (item 150) \[ <i>see</i>Table A]</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Family Law Legislation Amendment (Family Violence and Other Measures) Act 2011</div>
-  </td>
-  <td>
-    <div>189, 2011</div>
-  </td>
-  <td>
-    <div>7 Dec 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 1, 2): 4 Jan 2012 
-Schedule 2 (item 31): Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 2 (item 31) \[ <i>see</i>Table A]</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Judges’ Remuneration Act 1969_ was repealed by section 7 of the _Statute Law Revision Act 1973_, subsection 7(2) of that Act provides as follows:
@@ -18840,7 +18820,7 @@ _(zq)_ Subsection 2(1) (item 11) of the _Fair Work (State Referral and Consequ
 </thead>
 <tr>
   <td>
-    <div><b>Part I</b></div>
+    <div><b>Part 1</b></div>
   </td>
   <td>
     <div></div>
@@ -19931,15 +19911,7 @@ _(zq)_ Subsection 2(1) (item 11) of the _Fair Work (State Referral and Consequ
     <div></div>
   </td>
   <td>
-    <div>am. No. 44, 1996; No. 194, 1999; No. 189, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 35A(3)</div>
-  </td>
-  <td>
-    <div>ad. No. 189, 2011</div>
+    <div>am. No. 44, 1996; No. 194, 1999</div>
   </td>
 </tr>
 <tr>
@@ -28666,7 +28638,7 @@ Add:
 
 Note:          This subsection commenced at the registration commencement time within the meaning of section 306 of the _Personal Property Securities Act 2009_.
 
-As at 5 January 2012 the amendments are not incorporated in this compilation.
+As at 1 January 2012 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -28700,7 +28672,7 @@ Transitional—item 11
 
                      (b)  item 52, so far as it substitutes a new paragraph 12(2)(b) of the _Bankruptcy Act 196_ 6.
 
-## 443  Items 89 and 90
+## 443  Items 89 and 90
 
                    The amendments made by items 89 and 90 do not apply in relation to proceedings in bankruptcy that were begun in the Supreme Court of a State or of the Northern Territory before this Schedule commenced.
 
@@ -28960,4 +28932,16 @@ Transitional—item 11
 
                      (a)  are presented after this Schedule commences; or
 
-                     (b)  were presented, but not dealt with by the Registrar in Bankruptcy, before this S
+                     (b)  were presented, but not dealt with by the Registrar in Bankruptcy, before this Schedule commenced.
+
+## 490  Item 422
+
+                   The new section inserted by item 422 applies to trust deeds regardless of when they were made.
+
+## 491  Items 427 and 428
+
+                   Despite the amendments made by items 427 and 428, an action, suit or proceeding does not lie in respect of a statement made in good faith in a report referred to in subsection 19AA(2), 150(3), 154A(3) or 189A(1) of the _Bankruptcy Act 1966_ as in force before this Schedule commenced.
+
+## 492  Bankruptcy Districts
+
+                   An area that was a Bankruptcy District because of a proclamation in 
