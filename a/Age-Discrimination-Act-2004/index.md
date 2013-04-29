@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00464/Html/745bc17d-a488-4092-afaf-1e67f4e26148_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00583/Html/a878e994-0a1f-4033-8013-128c39d447f5_files/image001.gif)
 
 # Age Discrimination Act 2004
 
 **Act No. 68 of 2004 as amended**
 
-This compilation was prepared on 24 May 2012
- taking into account amendments up to Act No. 26 of 2012
+This compilation was prepared on 29 July 2011
+ taking into account amendments up to Act No. 79 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -3023,23 +3023,6 @@ Schedule 2 (item 2): 1 July 2008</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Fairer Private Health Insurance Incentives Act 2012</div>
-  </td>
-  <td>
-    <div>26, 2012</div>
-  </td>
-  <td>
-    <div>4 Apr 2012</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 1, 48(1)): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 48(1))</div>
-  </td>
 </tr></table>
 
 _(a)_ Subsection 2(1) (item 5) of the _Age Discrimination (Consequential Provisions) Act 2004_ provides as follows:
@@ -3365,10 +3348,20 @@ _(b)_ Subsection 2(1) (items 11 and 13) of the _Fair Work (State Referral and 
 </tr>
 <tr>
   <td>
-    <div>S. 33</div>
+    <div>Example to s. 33(a) 
+Renumbered Example 1</div>
   </td>
   <td>
-    <div>am. No. 63, 2006</div>
+    <div>
+No. 63, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Example 2 to s. 33(a)</div>
+  </td>
+  <td>
+    <div>ad. No. 63, 2006</div>
   </td>
 </tr>
 <tr>
@@ -3612,20 +3605,6 @@ _(b)_ Subsection 2(1) (items 11 and 13) of the _Fair Work (State Referral and 
   </td>
 </tr></table>
 
-### Note 2
-
-_Fairer Private Health Insurance Incentives Act 2012 (No. 26, 2012)_
-
-The following amendment commences on 1 July 2012:
-
-## Schedule 1
-
-## 1  Schedule 2 (table item 9A, column headed “Provision(s)”)
-
-Omit “23‑1, 23‑10, 26‑1 and 26‑5”, substitute “22‑15 and 22‑25”.
-
-As at 24 May 2012 the amendment is not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -3830,17 +3809,5 @@ _Disability Discrimination and Other Human Rights Legislation Amendment Act 2009
 ## 2  Application
 
 The amendment of section 16 of the _Age Discrimination Act 2004_ made by this Schedule applies in relation to acts done after the commencement of this Schedule.
-
-* * *
-
-_Fairer Private Health Insurance Incentives Act 2012 (No. 26, 2012)_
-
-The following provision commences on 1 July 2012:
-
-## Schedule 1
-
-## 48  Application
-
-(1)       The amendments made by this Schedule apply in relation to premiums, and amounts in respect of premiums, paid on and after 1 July 2012.
 
  
