@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00435/Html/IntstateRdTransptCh1985_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00082/Html/IntstateRdTransptCh1985_image001.gif)
 
 # Interstate Road Transport Charge Act 1985
 
 **Act No. 131 of 1985 as amended**
 
-This compilation was prepared on 2 July 2010
- taking into account amendments up to Act No. 57 of 2010
+This compilation was prepared on 12 February 2009
+ taking into account amendments up to Act No. 147 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -292,7 +292,7 @@ Note:          For the definition of **_financial year_**, see
 
              (4)  If the registration is for less than a full year, the amount of the charge is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00435/Html/IntstateRdTransptCh1985_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00082/Html/IntstateRdTransptCh1985_image002.gif)
 
 where:
 
@@ -301,6 +301,8 @@ where:
                     <a name="period-registr"></a>**_period of registration_** means the number of days in the period of the registration.
 
              (5)  If a vehicle falls within 2 or more categories of vehicle under subsection 4(1A), the charge in respect of the registration of the vehicle is the higher or highest of the charges that could apply in respect of that registration of that vehicle.
+
+             (6)  Regulations made for the purposes of this section must not take effect earlier than the first day after the end of the period in which the regulations may be disallowed under Part 5 of the _Legislative Instruments Act 2003_.
 
 ##### <a id="7"></a>7  Regulations
 
@@ -487,23 +489,6 @@ Remainder: Royal Assent</div>
     <div>Sch. 1 (item 10)</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Interstate Road Transport Charge Amendment Act 2010</div>
-  </td>
-  <td>
-    <div>57, 2010</div>
-  </td>
-  <td>
-    <div>23 June 2010</div>
-  </td>
-  <td colspan="2">
-    <div>23 June 2010</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -590,14 +575,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>rs. No. 147, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 57, 2010</div>
   </td>
 </tr>
 <tr>
