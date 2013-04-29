@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00618/Html/0e98d09f-3719-4f2e-8b3a-2cca20909973_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00554/Html/cc9172fe-a050-4d07-a452-a32d96e5dfe7_files/image001.gif)
 
 # Customs Act 1901
 
 **Act No. 6 of 1901 as amended**
 
-This compilation was prepared on 9 August 2012
+This compilation was prepared on 25 June 2012
  taking into account amendments up to Act No. 39 of 2012
 
 **Volume 1** includes:     Table of Contents
@@ -287,8 +287,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 71AAAAMeaning of _Subdivision AA goods_
 
-71AAABReport and grant of authority to deal with Subdivision AA 
- goods
+71AAABReport and grant of authority to deal with Subdivision AA goods
 
 71AAACSuspension of authority to deal with Subdivision AA goods
 
@@ -313,13 +312,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 71AAAKNo authority to deal with specified low value goods while 
  subject to a direction to hold or further examine
 
-[71AAALNo authority to deal with specified low value goods unless  duty etc](#71AAALNo authority to deal with specified low value goods unless  duty etc). paid [_see_ Note 3]
+[71AAALNo authority to deal with specified low value goods unless  duty etc](#71AAALNo authority to deal with specified low value goods unless  duty etc). paid
 
-71AAAMSuspension of authority to deal with specified low value 
- goods
+71AAAMSuspension of authority to deal with specified low value goods
 
-71AAANCancellation of authority to deal with specified low value 
- goods
+71AAANCancellation of authority to deal with specified low value goods
 
 71AAAOOfficer may seek further information in relation to 
  self‑assessed clearance declaration
@@ -1349,12 +1346,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (b)  in relation to an aircraft—the aircraft coming to a stop after landing.
 
-                    <a name="assessed-gst"></a>**_assessed GST_** has the meaning given by the GST Act.
-
-                    <a name="assessed-luxuri-car-tax"></a>**_assessed luxury car tax_** has the meaning given by the Luxury Car Tax Act.
-
-                    <a name="assessed-wine-tax"></a>**_assessed wine tax_** has the meaning given by the Wine Tax Act.
-
                     <a name="australia"></a>**_Australia_** does not include the external Territories.
 
                     <a name="australian-resourc-instal"></a>**_Australian resources installation_** means a resources installation that is deemed to be part of Australia because of the operation of section 5C.
@@ -1870,12 +1861,6 @@ but does not include:
                     <a name="special-report"></a>**_special reporter_** has the same meaning as in section 63A.
 
                     <a name="suspici-substanc"></a>**_suspicious substance_** means a narcotic substance that would, or would be likely to, assist in the proof of the commission by any person of an offence against Division 307 of the _Criminal Code_ that is punishable by imprisonment for a period of 7 years or more.
-
-                    <a name="taxabl-deal"></a>**_taxable dealing_** has the meaning given by the Wine Tax Act.
-
-                    <a name="taxabl-import"></a>**_taxable importation_** has the meaning given by the GST Act.
-
-                    <a name="taxabl-import-luxuri-car"></a>**_taxable importation of a luxury car_** has the meaning given by the Luxury Car Tax Act.
 
                     <a name="taxat-offic"></a>**_taxation officer_** means a person employed or engaged under the _Public Service Act 1999_ who is:
 
@@ -2873,7 +2858,7 @@ Note:          For absolute liability, see section 6.2 of th
 
                    The Customs shall not be liable for any loss or damage occasioned to any goods subject to the control of the Customs except by the neglect or wilful act of some officer.
 
-##### <a id="35"></a>35  Goods imported by post
+##### <a id="35"></a>35  Goods imported by post
 
                    Goods imported by post shall be subject to the control of the Customs equally with goods otherwise imported.
 
@@ -4939,7 +4924,7 @@ Note:          A re‑mail reporter is generally not required 
 
 #### Subdivision A—Preliminary
 
-##### <a id="68"></a>68  Entry of imported goods 
+##### <a id="68"></a>68  Entry of imported goods 
 
              (1)  This section applies to:
 
@@ -5357,7 +5342,7 @@ Note 2:       Customs does not have to give an authority to deal wit
 
                    Customs is not required to grant an authority to deal with specified low value goods at any time while the goods are subject to a direction under subparagraph 71AAAG(2)(b)(ii) or section 71AAAH.
 
-##### <a id="71AAAL"></a>71AAAL  No authority to deal with specified low value goods unless duty etc. paid [_see_ Note 3]
+##### <a id="71AAAL"></a>71AAAL  No authority to deal with specified low value goods unless duty etc. paid
 
 Duty etc. to be paid before authority given
 
@@ -5375,13 +5360,13 @@ Second exception
 
                      (a)  the only duty, charge or tax outstanding on the importation of the goods is one or more of the following:
 
-                              (i)  the assessed GST payable on the taxable importation, if any, that is associated with the import of the goods;
+                              (i)  the GST payable on the taxable importation (as defined in the GST Act), if any, that is associated with the import of the goods;
 
-                             (ii)  if a taxable importation of a luxury car is associated with the import of the goods—the assessed luxury car tax payable on that taxable importation;
+                             (ii)  if a taxable importation of a luxury car (as defined in the Luxury Car Tax Act) is associated with the import of the goods—the luxury car tax payable on that taxable importation;
 
-                            (iii)  if a taxable dealing is associated with the import of the goods—the assessed wine tax payable on that dealing; and
+                            (iii)  if a taxable dealing (as defined in the Wine Tax Act) is associated with the import of the goods—the wine tax payable on that dealing; and
 
-                     (b)  because of the following provisions, the unpaid assessed GST, assessed luxury car tax or assessed wine tax (as appropriate) is not payable until after duty on the goods was payable (or would have been payable if the goods had been subject to duty):
+                     (b)  because of the following provisions, the unpaid GST, luxury car tax or wine tax (as appropriate) is not payable until after duty on the goods was payable (or would have been payable if the goods had been subject to duty):
 
                               (i)  paragraph 33‑15(1)(b) of the GST Act;
 
@@ -5653,7 +5638,7 @@ the goods are taken to be entered for home consumption only when they are brough
 
                      (a)  an import declaration advice is given or communicated under this section; and
 
-                     (b)  a payment is made of any duty, assessed GST, assessed luxury car tax, assessed wine tax, import declaration processing charge or other charge or fee payable at the time of entry of, or in respect of, the goods covered by the import declaration advice;
+                     (b)  a payment is made of any duty, GST, luxury car tax, wine tax, import declaration processing charge or other charge or fee payable at the time of entry of, or in respect of, the goods covered by the import declaration advice;
 
 Customs must:
 
@@ -5671,11 +5656,11 @@ Note:          Subsection 132AA(1) provides that import duty o
 
                      (a)  that subsection would require Customs to do so apart from the fact that any or all of the following were not paid when duty on the goods was paid (or would have been payable if the goods had been subject to duty):
 
-                              (i)  the assessed GST payable on the taxable importation, if any, that is associated with the import of the goods;
+                              (i)  the GST payable on the taxable importation (as defined in the GST Act), if any, that is associated with the import of the goods;
 
-                             (ii)  if a taxable importation of a luxury car is associated with the import of the goods—the assessed luxury car tax payable on that taxable importation;
+                             (ii)  if a taxable importation of a luxury car (as defined in the Luxury Car Tax Act) is associated with the import of the goods—the luxury car tax payable on that taxable importation;
 
-                            (iii)  if a taxable dealing is associated with the import of the goods—the assessed wine tax payable on that dealing; and
+                            (iii)  if a taxable dealing (as defined in the Wine Tax Act) is associated with the import of the goods—the wine tax payable on that dealing; and
 
                      (b)  because of the following provisions, the unpaid GST, luxury car tax or wine tax (as appropriate) was not payable until after duty on the goods was payable (or would have been payable if the goods had been subject to duty):
 
@@ -6491,7 +6476,7 @@ Customs may comply with the request.
 
 ##### <a id="77EE"></a>77EE  Minister may authorise export of detained goods
 
-             (1)  On application by the owner of goods detained under section 77EC, the Minister may authorise the exportation of the goods, or so much of the goods as the Minister specifies in the authority, from Australia.
+             (1)  On application by the owner of goods detained under section 77EC, the Minister may authorise the exportation of the goods, or so much of the goods as the Minister specifies in the authority, from   Australia.
 
              (2)  An authority is subject to any conditions, or other requirements, specified in the authority in relation to the goods.
 
@@ -7049,7 +7034,7 @@ the former holder is entitled to a refund of an amount worked out using the form
 
           (1A)  For the purposes of subsection (1), the formula is:
 
-![](http://www.comlaw.gov.au/Details/C2012C00618/Html/0e98d09f-3719-4f2e-8b3a-2cca20909973_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00554/Html/cc9172fe-a050-4d07-a452-a32d96e5dfe7_files/image002.gif)
 
 where:
 
@@ -8101,7 +8086,7 @@ Deferred payment of GST
 
              (3)  If the importer of the excise‑equivalent goods is an approved entity at the time the excisable goods are manufactured, then for the purposes of the GST Act and the GST regulations the importer is taken to have entered the excise‑equivalent goods for home consumption by computer at that time.
 
-Note:          Regulations made for the purposes of paragraph 33‑15(1)(b) of the GST Act deal with deferred payment of assessed GST on taxable importations and require goods to have been entered for home consumption by computer.
+Note:          Regulations made for the purposes of paragraph 33‑15(1)(b) of the GST Act deal with deferred payment of GST on taxable importations and require goods to have been entered for home consumption by computer.
 
 Definitions
 
@@ -9607,7 +9592,7 @@ Disclosing answers to Thai customs official
 
 ### Division 4D—Exportation of goods to New   Zealand
 
-##### <a id="126AJA"></a>126AJA  Definitions
+##### <a id="126AJA"></a>126AJA  Definitions
 
                    In this Division:
 
@@ -11515,7 +11500,7 @@ Regulations
 
 #### Subdivision C—Goods produced entirely in the US or in the US and Australia exclusively from originating materials
 
-##### <a id="153YC"></a>153YC  Goods produced entirely in the US or in the US and Australia exclusively from originating materials
+##### <a id="153YC"></a>153YC  Goods produced entirely in the US or in the US and Australia exclusively from originating materials
 
                    Goods are **_US originating goods_** if they are produced entirely in the US, or entirely in the US and Australia, exclusively from originating materials.
 
@@ -11957,7 +11942,7 @@ are chemicals, plastics or rubber).</li>
 
 * * *
 
-##### <a id="153ZD"></a>153ZD  Goods produced entirely in Thailand or in Thailand and Australia
+##### <a id="153ZD"></a>153ZD  Goods produced entirely in Thailand or in Thailand and Australia
 
              (1)  Subject to subsection (6), goods are **_Thai originating goods_** if:
 
@@ -12685,7 +12670,7 @@ Note:          The value of the packaging material or containe
 
 #### Subdivision F—Non‑qualifying operations
 
-##### <a id="153ZJH"></a>153ZJH  Non‑qualifying operations
+##### <a id="153ZJH"></a>153ZJH  Non‑qualifying operations
 
              (1)  Goods are not Chilean originating goods under this Division merely because of the following operations:
 
@@ -14355,9 +14340,9 @@ section 165 applies in relation to any demand by the CEO for the payment of th
 
                      (a)  the duty, if any, on those goods; and
 
-                     (b)  the assessed GST payable on the taxable importation, if any, that is associated with the import of those goods; and
+                     (b)  the GST payable on the taxable importation (as defined in the GST Act), if any, that is associated with the import of those goods; and
 
-                     (c)  if a taxable importation of a luxury car is associated with the import of those goods—the assessed luxury car tax payable on that taxable importation.
+                     (c)  if a taxable importation of a luxury car (as defined in the Luxury Car Tax Act) is associated with the import of those goods—the luxury car tax payable on that taxable importation.
 
              (2)  The regulations may prescribe provisions to be complied with in relation to goods in respect of which permission has been granted under the last preceding subsection.
 
@@ -14413,9 +14398,9 @@ may, in accordance with this section, be brought into Australia on a temporary b
 
                      (a)  the duty, if any, that may become payable on the goods;
 
-                     (b)  the assessed GST that may become payable on the taxable importation, if any, that is associated with the import of the goods;
+                     (b)  the GST that may become payable on the taxable importation (as defined in the GST Act), if any, that is associated with the import of the goods;
 
-                     (c)  if a taxable importation of a luxury car is associated with the import of the goods—the assessed luxury car tax that may become payable on that taxable importation.
+                     (c)  if a taxable importation of a luxury car (as defined in the Luxury Car Tax Act) is associated with the import of the goods—the luxury car tax that may become payable on that taxable importation.
 
 If the CEO accepts the security or undertaking, a Collector may grant to a person who imports some or all of the specified goods permission to take delivery of the goods without payment of duty, GST or luxury car tax.
 
@@ -15295,7 +15280,7 @@ he or she may, by notice to the customs broker:
 
 ##### <a id="183CU"></a>183CU  Service of notices
 
-                   For the purposes of the application of section 29 of the _Acts Interpretation Act 1901_ to the service by post of a notice under this Division on a person who holds or held a broker’s licence, such a notice posted as a letter addressed to that person at the last address of that person known to the sender shall be deemed to be properly addressed.
+                   For the purposes of the application of section 29 of the _Acts Interpretation Act 1901_ to the service by post of a notice under this Division on a person who holds or held a broker’s licence, such a notice posted as a letter addressed to that person at the last address of that person known to the sender shall be deemed to be properly addressed.
 
 ### Division 5—National Customs Brokers Licensing Advisory Committee
 
