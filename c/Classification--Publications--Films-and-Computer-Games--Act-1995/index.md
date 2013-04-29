@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00918/Html/ce229803-0e60-4126-8bc9-644e63c951d1_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00567/Html/c2079971-17a7-4a00-96e6-ae608ad08ea5_files/image001.gif)
 
 # Classification (Publications, Films and Computer Games) Act 1995
 
 **Act No. 7 of 1995 as amended**
 
-This compilation was prepared on 10 December 2012
- taking into account amendments up to Act No. 169 of 2012
+This compilation was prepared on 25 July 2012
+ taking into account amendments up to Act No. 101 of 2012
 
 [**Note**: Part 10 ceases to have effect on 16 July 2022, _see_ section 116]
 
@@ -15,7 +15,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -418,8 +419,6 @@ Note:          Provisions dealing with the consequences of not
 ##### <a id="5"></a>5  Definitions
 
                    In this Act, unless the contrary intention appears:
-
-                    <a name="acnc-type-entiti"></a>**_ACNC type of entity_** means an entity that meets the description of a type of entity in column 1 of the table in subsection 25‑5(5) of the _Australian Charities and Not‑for‑profits Commission Act 2012_.
 
                     <a name="addition-content"></a>**_additional content_** in a film that also comprises a classified film or an exempt film includes, but is not limited to:
 
@@ -2707,9 +2706,7 @@ Waiver by Director
 
                               (i)  the Commonwealth, a State or a Territory (or an authority of one of those bodies); or
 
-                             (ii)  an entity that is registered under the _Australian Charities and Not‑for‑profits Commission Act 2012_; or
-
-                            (iii)  a not‑for‑profit entity that is not an ACNC type of entity; or
+                             (ii)  a non‑profit organisation; or
 
                      (c)  the payment is for special interest material having a limited distribution that is:
 
@@ -2731,9 +2728,7 @@ Waiver by Convenor
 
                               (i)  the Commonwealth, a State or a Territory (or an authority of one of those bodies); or
 
-                             (ii)  an entity that is registered under the _Australian Charities and Not‑for‑profits Commission Act 2012_; or
-
-                            (iii)  a not‑for‑profit entity that is not an ACNC type of entity; or
+                             (ii)  a non‑profit organisation; or
 
                      (c)  the payment is for special interest material having a limited distribution that is:
 
@@ -3083,7 +3078,7 @@ then this Part continues to apply in relation to that area, after the revocation
 
                     Penalty:  100 penalty units.
 
-##### <a id="103"></a>103  Supplying prohibited material in and to prohibited material areas
+##### <a id="103"></a>103  Supplying prohibited material in and to prohibited material areas
 
 Supply generally
 
@@ -3768,41 +3763,6 @@ Schedule 5 (item 137(a)): <i>(d)</i></div>
   <td>
     <div>Sch. 3 (items 15, 16)</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Classification (Publications, Films and Computer Games) Amendment (R 18+ Computer Games) Act 2012</div>
-  </td>
-  <td>
-    <div>103, 2012</div>
-  </td>
-  <td>
-    <div>6 July 2012</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 1–4): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 4)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Charities and Not‑for‑profits Commission (Consequential and Transitional) Act 2012</div>
-  </td>
-  <td>
-    <div>169, 2012</div>
-  </td>
-  <td>
-    <div>3 Dec 2012</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 158, 159): 3 Dec 2012 ( <i>see</i>s. 2(1)) 
-Schedule 4 (item 13): \[ <i>see (f)</i>and Note 3]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Classification (Publications, Films and Computer Games) Act 1995_ was amended by Schedule 2 only of the _Law and Justice Legislation Amendment Act 1997_, subsection 2(1) of which provides as follows:
@@ -3981,77 +3941,6 @@ _(e)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (C
   </td>
 </tr></table>
 
-_(f)_      Subsection 2(1) (item 14) of the _Australian Charities and Not‑for‑profits Commission (Consequential and Transitional) Act 2012_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      14\. Schedule 4, Part 2, Division 2
-    </div>
-  </td>
-  <td>
-    <div>
-      The later of:
-    </div>
-    <div>
-      (a) immediately after the commencement of the provision(s) covered by
-        table item 3; and
-    </div>
-    <div>
-      (b) immediately after the commencement of Schedule 1 to the
-        <i>Tax Laws Amendment (Special Conditions for Not‑for‑profit Concessions)
-          Act 2012</i>.
-    </div>
-    <div>
-      However, the provision(s) do not commence at all unless both of the events
-        mentioned in paragraphs (a) and (b) occur.
-    </div>
-  </td>
-  <td>
-    <div>
-      \[
-        <i>see</i>Note 3]
-    </div>
-    <div>
-      (paragraph (b) applies)
-    </div>
-  </td>
-</tr></table>
-
 ## Table of Amendments
 
 <table>
@@ -4096,7 +3985,7 @@ _(f)_      Subsection 2(1) (item 14) of the _Australian Charities and 
     <div>S. 5</div>
   </td>
   <td>
-    <div>am. No. 34, 1997; No. 111, 2000; No. 13, 2001; No. 61, 2004; Nos. 27 and 179, 2007; No. 69, 2008; No. 8, 2010; Nos. 5 and 58, 2011; No. 169, 2012</div>
+    <div>am. No. 34, 1997; No. 111, 2000; No. 13, 2001; No. 61, 2004; Nos. 27 and 179, 2007; No. 69, 2008; No. 8, 2010; Nos. 5 and 58, 2011</div>
   </td>
 </tr>
 <tr>
@@ -5392,7 +5281,7 @@ _(f)_      Subsection 2(1) (item 14) of the _Australian Charities and 
     <div>S. 91</div>
   </td>
   <td>
-    <div>am. No. 111, 2000; No. 13, 2001; No. 27, 2007; No. 8, 2010; No. 169, 2012</div>
+    <div>am. No. 111, 2000; No. 13, 2001; No. 27, 2007; No. 8, 2010</div>
   </td>
 </tr>
 <tr>
@@ -5851,48 +5740,6 @@ _(f)_      Subsection 2(1) (item 14) of the _Australian Charities and 
     <div>rep. No. 61, 2004</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Classification (Publications, Films and Computer Games) Amendment (R 18+ Computer Games) Act 2012 (No. 103, 2012)_
-
-The following amendments commence on 1 January 2013:
-
-## Schedule 1
-
-## 1  Subsection 7(3)
-
-After:
-
-                    **MA 15+** Mature Accompanied
-
-insert:
-
-                    **R 18+** Restricted
-
-## 2  Paragraph 20(1)(b)
-
-Omit “or MA 15+”, substitute “, MA 15+ or R 18+”.
-
-## 3  Subsection 42(5) (paragraph (c) of the definition of _restricted decision_)
-
-After “MA 15+”, insert “, R 18+”.
-
-As at 10 December 2012 the amendments are not incorporated in this compilation.
-
-### Note 3
-
-_Australian Charities and Not‑for‑profits Commission (Consequential and Transitional) Act 2012 (No. 169, 2012)_
-
-The following amendment commences immediately after the commencement of Schedule 1 to the _Tax Laws Amendment (Special Conditions for Not-for-profit Concessions) Act 2012_(still a Bill). However, the amendment may not commence, _see_ subsection 2(1) (item 14):
-
-## Schedule 4
-
-## 13  Subparagraphs 91(1)(b)(iii) and (1A)(b)(iii)
-
-After “not‑for‑profit entity”, insert “(within the meaning of the _Income Tax Assessment Act 1997_)”.
-
-As at 10 December 2012 the amendment is not incorporated in this compilation.
 
 ## Table A
 
@@ -6372,23 +6219,5 @@ then, on commencement, the Indigenous Affairs Minister is taken to have made a d
 ## 16  Application of amendments
 
 The amendments made by this Schedule apply in relation to acts or omissions occurring on or after commencement in relation to material that was classified before, on or after commencement.
-
-* * *
-
-_Classification (Publications, Films and Computer Games) Amendment (R 18+ Computer Games) Act 2012 (No. 103, 2012)_
-
-The following provision commences on 1 January 2013:
-
-## Schedule 1
-
-## 4  Application of amendments
-
-The amendments to the _Classification (Publications, Films and Computer Games) Act 1995_ made by this Part apply in relation to:
-
-                     (a)  a decision of the Board; and
-
-                     (b)  a decision of the Review Board;
-
-that is made on or after the day this Schedule commences (including a decision in relation to an application that was made before that day).
 
  
