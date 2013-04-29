@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00141/Html/AusEnergyMarketAct2004_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00600/Html/AusEnergyMarketAct2004_image001.gif)
 
 # Australian Energy Market Act 2004
 
 **Act No. 99 of 2004 as amended**
 
-This compilation was prepared on 6 April 2009
- taking into account amendments up to Act No. 17 of 2009
+This compilation was prepared on 25 November 2008
+ taking into account amendments up to Act No. 117 of 2008
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -341,11 +341,11 @@ The reference in paragraph (a) to the National Gas Law set out in the Schedule
 
                     <a name="western-australian-ga-legisl"></a>**_Western Australian Gas Legislation_** means:
 
-                     (a)  the National Gas Access (Western Australia) Law (within the meaning of the _National Gas Access (WA) Act 2009_ of Western Australia) as in force from time to time; and
+                     (a)  the National Gas Access (Western Australia) Law (within the meaning of the _National Gas Access (Western Australia) Act 2008_ of Western Australia) as in force from time to time; and
 
                      (b)  any regulations, as in force from time to time, made under Part 3 of that Act.
 
-The reference in paragraph (a) to the National Gas Access (Western Australia) Law (within the meaning of the _National Gas Access (WA) Act 2009_ of Western Australia) as in force from time to time includes a reference to any Rules or other instruments, as in force from time to time, made or having effect under that Law.
+The reference in paragraph (a) to the National Gas Access (Western Australia) Law (within the meaning of the _National Gas Access (Western Australia) Act 2008_ of Western Australia) as in force from time to time includes a reference to any Rules or other instruments, as in force from time to time, made or having effect under that Law.
 
 ##### <a id="4"></a>4  Crown to be bound
 
@@ -547,17 +547,17 @@ should, as far as possible, include operation in relation to the following:
 
 ##### <a id="11J"></a>11J  Application of Offshore Western Australian Pipelines Law in offshore area of Western Australia
 
-             (1)  The National Gas Access (Western Australia) Law (within the meaning of the _National Gas Access (WA) Act 2009_ of Western Australia) as in force from time to time:
+             (1)  The National Gas Access (Western Australia) Law (within the meaning of the _National Gas Access (Western Australia) Act 2008_ of Western Australia) as in force from time to time:
 
                      (a)  applies as a law of the Commonwealth in relation to so much of an offshore Western Australian pipeline as is situated in the offshore area of Western Australia; and
 
                      (b)  so applying may be referred to as the **_Offshore Western Australian Pipelines (Commonwealth) Law_**.
 
-             (2)  The reference in subsection (1) to the National Gas Access (Western Australia) Law (within the meaning of the _National Gas Access (WA) Act 2009_ of Western Australia) as in force from time to time includes a reference to any Rules or other instruments, as in force from time to time, made or having effect under that Law.
+             (2)  The reference in subsection (1) to the National Gas Access (Western Australia) Law (within the meaning of the _National Gas Access (Western Australia) Act 2008_ of Western Australia) as in force from time to time includes a reference to any Rules or other instruments, as in force from time to time, made or having effect under that Law.
 
 ##### <a id="11K"></a>11K  Application of Offshore Western Australian Pipelines Regulations in offshore area of Western Australia
 
-                   Regulations, as in force from time to time, made under Part 3 of the _National Gas Access (WA) Act 2009_ of Western Australia:
+                   Regulations, as in force from time to time, made under Part 3 of the _National Gas Access (Western Australia) Act 2008_ of Western Australia:
 
                      (a)  apply as regulations in force for the purposes of the Offshore Western Australian Pipelines (Commonwealth) Law; and
 
@@ -595,11 +595,11 @@ should, as far as possible, include operation in relation to the following:
 
              (2)  The _Interpretation Act 1984_ of Western Australia, and other Acts of Western Australia, do not apply to:
 
-                     (a)  the National Gas Access (Western Australia) Law (within the meaning of the _National Gas Access (WA) Act 2009_ of Western Australia) applied as a law of the Commonwealth; or
+                     (a)  the National Gas Access (Western Australia) Law (within the meaning of the _National Gas Access (Western Australia) Act 2008_ of Western Australia) applied as a law of the Commonwealth; or
 
                      (b)  any regulations made under Part 3 of that Act applied as regulations for the purposes of the Offshore Western Australian Pipelines (Commonwealth) Law.
 
-             (3)  The reference in paragraph (2)(a) to the National Gas Access (Western Australia) Law (within the meaning of the _National Gas Access (WA) Act 2009_ of Western Australia) includes a reference to any Rules or other instruments made or having effect under that Law.
+             (3)  The reference in paragraph (2)(a) to the National Gas Access (Western Australia) Law (within the meaning of the _National Gas Access (Western Australia) Act 2008_ of Western Australia) includes a reference to any Rules or other instruments made or having effect under that Law.
 
 ##### <a id="11S"></a>11S  Inter-governmental arrangements relating to the administration of the Offshore Western Australian Pipelines (Commonwealth) Law and Regulations
 
@@ -1077,23 +1077,6 @@ Schedule 2 (item 9): <i>(b)</i></div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Energy Market Amendment (AEMO and Other Measures) Act 2009</div>
-  </td>
-  <td>
-    <div>17, 2009</div>
-  </td>
-  <td>
-    <div>26 Mar 2009</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 2–6): 27 Mar 2009</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_ Subsection 2(1) (item 4) of the _Energy Legislation Amendment Act 2006_ provides as follows:
@@ -1371,7 +1354,7 @@ _(c)_ Subsection 2(1) (item 2) of the _Australian Energy Market Amendment (Minor
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. Nos. 17 and 60, 2006; No. 45, 2007; Nos. 60 and 117, 2008; No. 17, 2009</div>
+    <div>am. Nos. 17 and 60, 2006; No. 45, 2007; Nos. 60 and 117, 2008</div>
   </td>
 </tr>
 <tr>
@@ -1627,7 +1610,7 @@ _(c)_ Subsection 2(1) (item 2) of the _Australian Energy Market Amendment (Minor
     <div></div>
   </td>
   <td>
-    <div>am. No. 45, 2007; No. 60, 2008; No. 17, 2009</div>
+    <div>am. No. 45, 2007; No. 60, 2008</div>
   </td>
 </tr>
 <tr>
@@ -1651,7 +1634,7 @@ _(c)_ Subsection 2(1) (item 2) of the _Australian Energy Market Amendment (Minor
     <div></div>
   </td>
   <td>
-    <div>am. No. 60, 2008; No. 17, 2009</div>
+    <div>am. No. 60, 2008</div>
   </td>
 </tr>
 <tr>
@@ -1683,7 +1666,7 @@ _(c)_ Subsection 2(1) (item 2) of the _Australian Energy Market Amendment (Minor
     <div></div>
   </td>
   <td>
-    <div>am. No. 60, 2008; No. 17, 2009</div>
+    <div>am. No. 60, 2008</div>
   </td>
 </tr>
 <tr>
