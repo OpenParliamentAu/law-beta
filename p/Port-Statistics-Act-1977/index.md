@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00246/Html/be09151c-e85e-4d0d-af2f-6d14981a10b3_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00799/Html/f90e3c5f-482e-4e1f-8490-12f084fd9abe_files/image001.gif)
 
 # Port Statistics Act 1977
 
 **Act No. 125 of 1977 as amended**
 
-This compilation was prepared on 27 December 2011
+This compilation was prepared on 28 September 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force 
@@ -55,6 +55,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 ##### <a id="3"></a>3  Interpretation
 
                    In this Act, unless the contrary intention appears:
+
+                    <a name="docum"></a>**_document_** includes any record of information, however recorded or stored, whether in written or printed form, on film, by electronic means or otherwise.
 
                     <a name="port"></a>**_port_** includes any place (including a place at sea) at or near which facilities are provided for or in connexion with the loading or unloading of cargo into or from ships.
 
@@ -404,7 +406,7 @@ of Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (item 911) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (item 911) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td colspan="2">
     <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
@@ -463,7 +465,7 @@ _(d)_     The _Port Statistics Act 1977_ was amended by section 3 only
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 80, 1982; No. 63, 1984; No. 65, 1985; Nos. 5 and 46, 2011</div>
+    <div>am. No. 80, 1982; No. 63, 1984; No. 65, 1985; No. 5, 2011</div>
   </td>
 </tr>
 <tr>
@@ -507,6 +509,20 @@ _(d)_     The _Port Statistics Act 1977_ was amended by section 3 only
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendment commences on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 911  Section 3 (definition of _document_)
+
+Repeal the definition.
+
+As at 28 September 2011 the amendment is not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -522,6 +538,8 @@ _Transport and Regional Services Legislation Amendment (Application of Criminal 
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
