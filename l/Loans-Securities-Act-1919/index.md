@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00765/Html/cbf410ac-fcb5-41de-9bbd-385afa8f0f02_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00430/Html/LoansSecurities1919_image001.gif)
 
 # Loans Securities Act 1919
 
 **Act No. 25 of 1919 as amended**
 
-This compilation was prepared on 31 October 2012
- taking into account amendments up to Act No. 136 of 2012
+This compilation was prepared on 24 July 2008
+ taking into account amendments up to Act No. 78 of 2008
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -59,8 +60,6 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
                    In this Act, unless the contrary intention appears:
 
-                    <a name="financ-minist"></a>**_Finance Minister_** means the Minister administering the _Financial Management and Accountability Act 1997_.
-
                     <a name="registrar"></a>**_Registrar_** means the Registrar or a Deputy Registrar of Stock or the Registrar or a Deputy Registrar of securities or other documents issued under this Act.
 
                     <a name="registri"></a>**_Registry_** means a Registry for the inscription of Stock and for the issue and registration of securities or other documents in relation to loans.
@@ -71,19 +70,19 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 ##### <a id="3"></a>3  Conditions of loans
 
-             (1)  Where under an Act the Treasurer has the authority to borrow money in accordance with the _Commonwealth Inscribed Stock Act 1911_ or any Act authorising the issue of Treasury bills, the Governor‑General may, in spite of anything in those Acts, in writing, authorise the Treasurer:
+             (1)  Where under an Act the Treasurer has the authority to borrow money in accordance with the _Commonwealth Inscribed Stock Act 1911_ or any Act authorising the issue of Treasury bills, the Governor-General may, in spite of anything in those Acts, in writing, authorise the Treasurer:
 
-                     (a)  to borrow the money in amounts not exceeding, in the aggregate, such amount as the Governor‑General determines;
+                     (a)  to borrow the money in amounts not exceeding, in the aggregate, such amount as the Governor-General determines;
 
                      (b)  to borrow the money:
 
-                              (i)  either by way of a single borrowing or by way of a program of borrowings, as the Governor‑General determines;
+                              (i)  either by way of a single borrowing or by way of a program of borrowings, as the Governor-General determines;
 
-                             (ii)  in such manner as the Governor‑General determines; and
+                             (ii)  in such manner as the Governor-General determines; and
 
-                            (iii)  at prices, and on terms and conditions, that are not less favourable to the Commonwealth than the prices, and the terms and conditions, determined by the Governor‑General; and
+                            (iii)  at prices, and on terms and conditions, that are not less favourable to the Commonwealth than the prices, and the terms and conditions, determined by the Governor-General; and
 
-                     (c)  to issue, in such form as the Governor‑General determines, such stock and securities as the Governor‑General determines.
+                     (c)  to issue, in such form as the Governor-General determines, such stock and securities as the Governor-General determines.
 
              (2)  An authority under subsection (1) may, instead of determining any matter referred to in paragraph (1)(b) or (c), authorise the Treasurer to determine that matter and, in that case, the Treasurer is empowered to determine, in writing, that matter.
 
@@ -93,7 +92,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 ##### <a id="5"></a>5  Establishment of Registries and appointment of Registrars
 
-                   The Governor‑General may:
+                   The Governor-General may:
 
                      (a)  establish Registries at any places outside the Commonwealth for the inscription of Stock and for the issue and registration of securities or any other documents required in connexion with the issue of any loan or for defining or registering the indebtedness of the Commonwealth to lenders;
 
@@ -229,15 +228,15 @@ all or any of the following powers:
 
 ##### <a id="6"></a>6  Provisions for payment of judgments in United Kingdom
 
-             (1)  Whenever, by the final judgment decree rule or order of any court of competent jurisdiction in the United Kingdom, any sum of money is adjudged to be payable by the Commonwealth in respect of any stock or securities, the Finance Minister shall forthwith pay the sum out of the Consolidated Revenue Fund, which is hereby appropriated accordingly.
+             (1)  Whenever, by the final judgment decree rule or order of any court of competent jurisdiction in the United Kingdom, any sum of money is adjudged to be payable by the Commonwealth in respect of any stock or securities, the Minister for Finance shall forthwith pay the sum out of the Consolidated Revenue Fund, which is hereby appropriated accordingly.
 
              (2)  In this section **_final judgment decree rule or order_** means, in case of appeal, the final judgment decree rule or order of the ultimate court hearing the appeal.
 
-             (3)  Without in any way limiting the foregoing provisions of this section, it is hereby declared that, in the case of any Stock or securities being colonial Stock to which the Imperial Acts known as the Colonial Stock Acts 1877 to 1900 apply, the Finance Minister shall forthwith pay out of the Consolidated Revenue Fund, which is hereby appropriated accordingly, whatever sums of money are from time to time required to enable the Registrar to comply forthwith with any judgment decree rule or order with which under the Imperial Acts the Registrar is required to comply.
+             (3)  Without in any way limiting the foregoing provisions of this section, it is hereby declared that, in the case of any Stock or securities being colonial Stock to which the Imperial Acts known as the Colonial Stock Acts 1877 to 1900 apply, the Minister for Finance shall forthwith pay out of the Consolidated Revenue Fund, which is hereby appropriated accordingly, whatever sums of money are from time to time required to enable the Registrar to comply forthwith with any judgment decree rule or order with which under the Imperial Acts the Registrar is required to comply.
 
 ##### <a id="6A"></a>6A  Currency in which moneys may be borrowed
 
-                   Where under an Act the Treasurer has authority to borrow moneys, the Governor‑General may authorize the Treasurer to borrow the moneys in whole or in part in currency other than Australian currency, and, in that case, the Treasurer is empowered to borrow the moneys accordingly.
+                   Where under an Act the Treasurer has authority to borrow moneys, the Governor-General may authorize the Treasurer to borrow the moneys in whole or in part in currency other than Australian currency, and, in that case, the Treasurer is empowered to borrow the moneys accordingly.
 
 ##### <a id="6B"></a>6B  Exemption of certain securities issued abroad from taxation
 
@@ -249,7 +248,7 @@ all or any of the following powers:
 
                      (a)  a reference to stock or to a security shall be read as including a reference to an interest in stock or in a security; and
 
-                     (b)  a reference to tax or duty shall be read as including a reference to withholding tax within the meaning of the _Income Tax Assessment Act 1936‑1968_ and to tax or duty in respect of:
+                     (b)  a reference to tax or duty shall be read as including a reference to withholding tax within the meaning of the _Income Tax Assessment Act 1936-1968_ and to tax or duty in respect of:
 
                               (i)  the estates of deceased persons;
 
@@ -257,9 +256,9 @@ all or any of the following powers:
 
                             (iii)  gifts or other dispositions of property.
 
-##### <a id="7"></a>7  Regulations
+##### <a id="7"></a>7  Regulations
 
-             (1)  The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters and forms which by this Act are required or permitted to be prescribed, or which are necessary or convenient to be prescribed for carrying out or giving effect to this Act, or for the conduct of any business relating to the issue, sale, transfer and dealing with securities to which this Act applies.
+             (1)  The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters and forms which by this Act are required or permitted to be prescribed, or which are necessary or convenient to be prescribed for carrying out or giving effect to this Act, or for the conduct of any business relating to the issue, sale, transfer and dealing with securities to which this Act applies.
 
              (2)  Authority is given for the making by the Registrar of the Registry situated at London in the United Kingdom of regulations under section 16 of the Imperial Act known as the Colonial Stock Act 1877 for the purpose specified in subsection (1) of section 1 of the Imperial Act known as the Colonial Stock Act 1948 in relation to stock issued in the United Kingdom before the date of commencement of this section.
 
@@ -276,10 +275,10 @@ All relevant information pertaining to application, saving or transitional provi
 <table>
 <colgroup>
   <col width="30%">
-  <col width="15%">
+  <col width="16%">
   <col width="18%">
   <col width="22%">
-  <col width="16%">
+  <col width="14%">
 </colgroup>
 
 <thead>
@@ -450,27 +449,11 @@ of Assent</div>
     <div>12 July 2008</div>
   </td>
   <td>
-    <div>Schedule 1 (items 10, 11, 16): 13 July 2008</div>
+    <div>Schedule 1 (items 10, 11, 16): 13 July 2008</div>
   </td>
   <td>
-    <div>Sch. 1 (item 16) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2012</div>
-  </td>
-  <td>
-    <div>136, 2012</div>
-  </td>
-  <td>
-    <div>22 Sept 2012</div>
-  </td>
-  <td>
-    <div>Schedule 5 (items 4, 5): 20 Oct 2012</div>
-  </td>
-  <td>
-    <div>—</div>
+    <div>Sch. 1 (item 16) 
+\[ <i>see</i>Table A]</div>
   </td>
 </tr></table>
 
@@ -478,8 +461,8 @@ of Assent</div>
 
 <table>
 <colgroup>
-  <col width="31%">
-  <col width="69%">
+  <col width="34%">
+  <col width="66%">
 </colgroup>
 
 <thead>
@@ -497,14 +480,6 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>S. 2</div>
-  </td>
-  <td>
-    <div>am. No. 136, 2012</div>
-  </td>
-</tr>
 <tr>
   <td>
     <div>S. 3</div>
@@ -574,7 +549,7 @@ of Assent</div>
     <div>S. 6</div>
   </td>
   <td>
-    <div>am. No. 36, 1978; No. 136, 2012</div>
+    <div>am. No. 36, 1978</div>
   </td>
 </tr>
 <tr>
