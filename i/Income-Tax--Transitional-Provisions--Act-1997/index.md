@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00680/Html/61cba38f-013c-4f00-84ff-ae6632da2cb0_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00662/Html/5916c2a7-00b5-44ae-a4dc-b084225da50a_files/image001.gif)
 
 # Income Tax (Transitional Provisions) Act 1997
 
 **Act No. 40 of 1997 as amended**
 
-This compilation was prepared on 20 September 2012
- taking into account amendments up to Act No. 126 of 2012
+This compilation was prepared on 11 September 2012
+ taking into account amendments up to Act No. 115 of 2012
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -610,15 +610,17 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
         **Subdivision 165‑CC—Change of ownership or control of company that has an unrealised net loss** 
 
-165‑115E  Choice to use global method to work out unrealised net loss
+165‑115EChoice to use global method to work out unrealised net loss
 
-        **Subdivision 165‑CD—Reductions after alterations in ownership or control of loss company** 
+        **Subdivision 165‑CD—Reductions after alterations in ownership or control of loss company**
 
-165‑115U  Choice to use global method to work out adjusted unrealised loss
+165‑115UChoice to use global method to work out adjusted unrealised 
+ loss
 
-165‑115ZC  When certain notices to be given
+165‑115ZCWhen certain notices to be given
 
-165‑115ZD  Adjustment (or further adjustment) for interest realised at a loss after global method has been used
+165‑115ZDAdjustment (or further adjustment) for interest realised at a 
+ loss after global method has been used
 
         **Subdivision 165‑C—Deducting bad debts**
 
@@ -922,7 +924,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [295‑467](#295‑467). Complying funds—deductions for self‑insurance for disability superannuation benefits
 
-295‑485A  Meaning of _spouse_ and _child_ for 2008‑2009 income year
+295‑485AMeaning of _spouse_ and _child_ for 2008‑2009 income year
 
 [295‑485](#295‑485). Deductions for increased amount of superannuation lump sum death benefit
 
@@ -942,7 +944,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [302‑195](#302‑195). Extended meaning of _death benefits dependant_ for superannuation income stream
 
-302‑195A  Meaning of _death benefits dependant_ for 2008‑2009 income year
+302‑195AMeaning of _death benefits dependant_ for 2008‑2009 income 
+ year
 
     **Division 303—Superannuation benefits paid in special circumstances**
 
@@ -1266,7 +1269,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [707‑328](#707‑328). Income year and conditions for possible transfer under Division 170 of the _Income Tax Assessment Act 1997_
 
-707‑328A  Some events involving only group members not covered by rule against inflation of modified market value
+707‑328ASome events involving only group members not covered by 
+ rule against inflation of modified market value
 
 [707‑329](#707‑329). Modified market value at a time before 8 December 2004
 
@@ -1458,8 +1462,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [770‑220](#770‑220). Converting excess foreign tax credits into pre‑commencement excess foreign income tax
 
-[770‑225](#770‑225). Pre‑commencement excess foreign income tax generated for a company by excess foreign tax credits relating to other 
- income
+[770‑225](#770‑225). Pre‑commencement excess foreign income tax generated for a company by excess foreign tax credits relating to other income
 
 [770‑230](#770‑230). Increase in the foreign income tax offset
 
@@ -1469,8 +1472,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [770‑290](#770‑290). Transferring subsidiary member’s pre‑commencement excess foreign income tax to head company
 
-[770‑295](#770‑295). Where entity not subsidiary member for whole of income 
- year
+[770‑295](#770‑295). Where entity not subsidiary member for whole of income year
 
 [770‑300](#770‑300). Pre‑commencement excess foreign income tax lost on joining consolidated group
 
@@ -1515,26 +1517,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
         **Subdivision 840‑S—Seasonal Labour Mobility Program withholding tax**
 
 [840‑905](#840‑905). Application of Subdivision 840‑S of the _Income Tax Assessment Act 1997_
-
-    **Division 842—Exempt Australian source income and gains of foreign residents** 
-
-        **Subdivision 842‑I—Investment manager regime**
-
-[842‑210](#842‑210). Treatment of IMR foreign fund that is a corporate tax entity
-
-[842‑215](#842‑215). Treatment of foreign resident beneficiary that is not a trust or partnership
-
-[842‑220](#842‑220). Treatment of foreign resident partner that is not a trust or partnership
-
-[842‑225](#842‑225). Treatment of trustee of an IMR foreign fund
-
-[842‑230](#842‑230). _Pre‑2012 IMR deduction_
-
-[842‑235](#842‑235). _Pre‑2012 IMR capital loss_
-
-[842‑240](#842‑240). _Pre‑2012 non‑IMR net income_, _pre‑2012 non‑IMR Division 6E net income_ and _pre‑2012 non‑IMR net capital gain_
-
-[842‑245](#842‑245). _Pre‑2012 non‑IMR partnership net income_ and _pre‑2012 non‑IMR partnership loss_
 
 **Chapter 5—Administration** 
 
@@ -2905,7 +2887,7 @@ Note 2:       Small business entities can choose to work out the dec
 
 ##### <a id="40‑15"></a>40‑15  Recalculating effective life
 
-                   You cannot recalculate the effective life of a depreciating asset for which:
+                   You cannot recalculate the effective life of a depreciating asset for which:
 
                      (a)  you were using, just before 1 July 2001, a rate under subsection 42‑160(1) or 42‑165(1) of the former Act; or
 
@@ -3693,7 +3675,7 @@ you must use as the car limit the car depreciation limit under section 42‑80
 
 40‑365      Involuntary disposals
 
-##### <a id="40‑285"></a>40‑285  Balancing adjustments
+##### <a id="40‑285"></a>40‑285  Balancing adjustments
 
              (1)  Paragraphs 40‑285(1)(a) and (2)(a) of the new Act have effect in relation to a depreciating asset that you held at 1 July 2001 as if amounts you have deducted or can deduct for the asset under the former Act or the _Income Tax Assessment Act 1936_ were part of the asset’s decline in value under Division 40.
 
@@ -3731,7 +3713,7 @@ you must use as the car limit the car depreciation limit under section 42‑80
 
              (6)  The reduction is:
 
-![](http://www.comlaw.gov.au/Details/C2012C00680/Html/61cba38f-013c-4f00-84ff-ae6632da2cb0_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00662/Html/5916c2a7-00b5-44ae-a4dc-b084225da50a_files/image002.gif)
 
 where:
 
@@ -3843,7 +3825,7 @@ Increase in amounts deductible or assessable under section 40‑285
 
 is taken to be increased under section 40‑292 of the new Act by the following amount:
 
-![](http://www.comlaw.gov.au/Details/C2012C00680/Html/61cba38f-013c-4f00-84ff-ae6632da2cb0_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00662/Html/5916c2a7-00b5-44ae-a4dc-b084225da50a_files/image003.gif)
 
 where:
 
@@ -3909,7 +3891,7 @@ Increase in amounts deductible or assessable under section 40‑285
 
 is taken to be increased under section 40‑293 of the new Act by the following amount:
 
-![](http://www.comlaw.gov.au/Details/C2012C00680/Html/61cba38f-013c-4f00-84ff-ae6632da2cb0_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00662/Html/5916c2a7-00b5-44ae-a4dc-b084225da50a_files/image004.gif)
 
 where:
 
@@ -4072,7 +4054,7 @@ Meaning of average turnover
 
              (8)  An entity’s **_average turnover_** for an income year (the **_current year_**) is:
 
-![](http://www.comlaw.gov.au/Details/C2012C00680/Html/61cba38f-013c-4f00-84ff-ae6632da2cb0_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00662/Html/5916c2a7-00b5-44ae-a4dc-b084225da50a_files/image005.gif)
 
 where:
 
@@ -4238,7 +4220,7 @@ and you would have been able to deduct amounts for the qualifying amount for the
 
                      (c)  amounts that have been deducted or can be deducted for the qualifying amount under the former Act or the _Income Tax Assessment Act 1936_ are taken to be a decline in value under Subdivision 40‑F of the new Act.
 
-##### <a id="40‑520"></a>40‑520  Special rule for water facilities you no longer hold
+##### <a id="40‑520"></a>40‑520  Special rule for water facilities you no longer hold
 
              (1)  This section applies to you if:
 
@@ -5051,7 +5033,7 @@ Note:          The remaining part is taxed at the top marginal
 
                      (b)  does not exceed the amount worked out as follows:
 
-![](http://www.comlaw.gov.au/Details/C2012C00680/Html/61cba38f-013c-4f00-84ff-ae6632da2cb0_files/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00662/Html/5916c2a7-00b5-44ae-a4dc-b084225da50a_files/image006.gif)
 
 Note:          If you have received another life benefit termination payment in the same income year (or in an earlier income year) that is not a transitional termination payment, your entitlement to a tax offset under this section is not affected by your entitlement (if any) to a tax concession for the other payment (under section 82‑10 of the _Income Tax Assessment Act 1997_).
 
@@ -5913,7 +5895,7 @@ Note:          The full list of CGT events is in section 104
 
              (1)  For an original licence that has an ineligible part, the cost base of the ineligible part is the cost base of the original licence multiplied by the amount worked out under the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00680/Html/61cba38f-013c-4f00-84ff-ae6632da2cb0_files/image007.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00662/Html/5916c2a7-00b5-44ae-a4dc-b084225da50a_files/image007.gif)
 
 where:
 
@@ -6777,7 +6759,7 @@ Note 2:       If the company is covered by subsection (6), the old
 
              (4)  For the purpose of subsection (3), the **_tax‑paid‑basis franking debit amount_**, in relation to an old Division 7B tainting amount component, is the amount worked out in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00680/Html/61cba38f-013c-4f00-84ff-ae6632da2cb0_files/image008.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00662/Html/5916c2a7-00b5-44ae-a4dc-b084225da50a_files/image008.gif)
 
 where:
 
@@ -6817,7 +6799,7 @@ Note:          In relation to amounts described in paragraph�
 
            (10)  For the purpose of the notionally substituted paragraph, and of subsection (9) of this section, the **_tax‑paid‑basis franking debit amount_**, in relation to an old Division 7B tainting amount component, is the amount worked out in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00680/Html/61cba38f-013c-4f00-84ff-ae6632da2cb0_files/image008.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00662/Html/5916c2a7-00b5-44ae-a4dc-b084225da50a_files/image008.gif)
 
 where:
 
@@ -6964,7 +6946,7 @@ The amount of the franking credit is worked out under subsection (3).
     <div>class A franking surplus</div>
   </td>
   <td>
-    <div><img width="190" height="86" src="http://www.comlaw.gov.au/Details/C2012C00680/Html/61cba38f-013c-4f00-84ff-ae6632da2cb0_files/image009.gif"></div>
+    <div><img width="190" height="86" src="http://www.comlaw.gov.au/Details/C2012C00662/Html/5916c2a7-00b5-44ae-a4dc-b084225da50a_files/image009.gif"></div>
   </td>
 </tr>
 <tr>
@@ -6975,7 +6957,7 @@ The amount of the franking credit is worked out under subsection (3).
     <div>class B franking surplus</div>
   </td>
   <td>
-    <div><img width="190" height="86" src="http://www.comlaw.gov.au/Details/C2012C00680/Html/61cba38f-013c-4f00-84ff-ae6632da2cb0_files/image010.gif"></div>
+    <div><img width="190" height="86" src="http://www.comlaw.gov.au/Details/C2012C00662/Html/5916c2a7-00b5-44ae-a4dc-b084225da50a_files/image010.gif"></div>
   </td>
 </tr>
 <tr>
@@ -6986,7 +6968,7 @@ The amount of the franking credit is worked out under subsection (3).
     <div>class C franking surplus</div>
   </td>
   <td>
-    <div><img width="190" height="86" src="http://www.comlaw.gov.au/Details/C2012C00680/Html/61cba38f-013c-4f00-84ff-ae6632da2cb0_files/image011.gif"></div>
+    <div><img width="190" height="86" src="http://www.comlaw.gov.au/Details/C2012C00662/Html/5916c2a7-00b5-44ae-a4dc-b084225da50a_files/image011.gif"></div>
   </td>
 </tr></table>
 
@@ -7045,7 +7027,7 @@ The amount of the franking credit is worked out under subsection (3).
     <div>class A</div>
   </td>
   <td>
-    <div><img width="169" height="38" src="http://www.comlaw.gov.au/Details/C2012C00680/Html/61cba38f-013c-4f00-84ff-ae6632da2cb0_files/image012.gif"></div>
+    <div><img width="169" height="38" src="http://www.comlaw.gov.au/Details/C2012C00662/Html/5916c2a7-00b5-44ae-a4dc-b084225da50a_files/image012.gif"></div>
   </td>
 </tr>
 <tr>
@@ -7056,7 +7038,7 @@ The amount of the franking credit is worked out under subsection (3).
     <div>class B</div>
   </td>
   <td>
-    <div><img width="169" height="38" src="http://www.comlaw.gov.au/Details/C2012C00680/Html/61cba38f-013c-4f00-84ff-ae6632da2cb0_files/image013.gif"></div>
+    <div><img width="169" height="38" src="http://www.comlaw.gov.au/Details/C2012C00662/Html/5916c2a7-00b5-44ae-a4dc-b084225da50a_files/image013.gif"></div>
   </td>
 </tr>
 <tr>
@@ -7067,7 +7049,7 @@ The amount of the franking credit is worked out under subsection (3).
     <div>class C</div>
   </td>
   <td>
-    <div><img width="169" height="38" src="http://www.comlaw.gov.au/Details/C2012C00680/Html/61cba38f-013c-4f00-84ff-ae6632da2cb0_files/image014.gif"></div>
+    <div><img width="169" height="38" src="http://www.comlaw.gov.au/Details/C2012C00662/Html/5916c2a7-00b5-44ae-a4dc-b084225da50a_files/image014.gif"></div>
   </td>
 </tr></table>
 
@@ -7122,7 +7104,7 @@ The amount of the franking debit is worked out under subsection (5).
     <div>class A</div>
   </td>
   <td>
-    <div><img width="164" height="38" src="http://www.comlaw.gov.au/Details/C2012C00680/Html/61cba38f-013c-4f00-84ff-ae6632da2cb0_files/image015.gif"></div>
+    <div><img width="164" height="38" src="http://www.comlaw.gov.au/Details/C2012C00662/Html/5916c2a7-00b5-44ae-a4dc-b084225da50a_files/image015.gif"></div>
   </td>
 </tr>
 <tr>
@@ -7133,7 +7115,7 @@ The amount of the franking debit is worked out under subsection (5).
     <div>class B</div>
   </td>
   <td>
-    <div><img width="164" height="38" src="http://www.comlaw.gov.au/Details/C2012C00680/Html/61cba38f-013c-4f00-84ff-ae6632da2cb0_files/image016.gif"></div>
+    <div><img width="164" height="38" src="http://www.comlaw.gov.au/Details/C2012C00662/Html/5916c2a7-00b5-44ae-a4dc-b084225da50a_files/image016.gif"></div>
   </td>
 </tr>
 <tr>
@@ -7144,7 +7126,7 @@ The amount of the franking debit is worked out under subsection (5).
     <div>class C</div>
   </td>
   <td>
-    <div><img width="164" height="38" src="http://www.comlaw.gov.au/Details/C2012C00680/Html/61cba38f-013c-4f00-84ff-ae6632da2cb0_files/image017.gif"></div>
+    <div><img width="164" height="38" src="http://www.comlaw.gov.au/Details/C2012C00662/Html/5916c2a7-00b5-44ae-a4dc-b084225da50a_files/image017.gif"></div>
   </td>
 </tr></table>
 
@@ -7420,7 +7402,7 @@ Class A exempting surplus at the end of 30 June 2002
 
                      (b)  an exempting credit of the amount worked out using the formula is taken to have arisen at the start of 1 July 2002 in the exempting account that the company has under section 208‑110 of the _Income Tax Assessment Act 1997_:
 
-![](http://www.comlaw.gov.au/Details/C2012C00680/Html/61cba38f-013c-4f00-84ff-ae6632da2cb0_files/image018.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00662/Html/5916c2a7-00b5-44ae-a4dc-b084225da50a_files/image018.gif)
 
 Note:          Section 205‑5 (with former sections 160APU and 160AQCNM of the _Income Tax Assessment Act 1936_) may affect whether the company had such a surplus at the end of 30 June 2002 and the amount of that surplus, but this section does not (because this section affects the company’s exempting account balance only after then).
 
@@ -7432,7 +7414,7 @@ Class C exempting surplus at the end of 30 June 2002
 
                      (b)  an exempting credit of the amount worked out using the formula is taken to have arisen at the start of 1 July 2002 in the exempting account that the company has under section 208‑110 of the _Income Tax Assessment Act 1997_:
 
-![](http://www.comlaw.gov.au/Details/C2012C00680/Html/61cba38f-013c-4f00-84ff-ae6632da2cb0_files/image019.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00662/Html/5916c2a7-00b5-44ae-a4dc-b084225da50a_files/image019.gif)
 
 Note:          Section 205‑5 (with former sections 160APU and 160AQCNM of the _Income Tax Assessment Act 1936_) may affect whether the company had such a surplus at the end of 30 June 2002 and the amount of that surplus, but this section does not (because this section affects the company’s exempting account balance only after then).
 
@@ -7444,7 +7426,7 @@ Class A exempting deficit at end of 30 June 2002
 
                      (b)  an exempting debit of the amount worked out using the formula is taken to have arisen at the start of 1 July 2002 in the exempting account that the company has under section 208‑110 of the _Income Tax Assessment Act 1997_:
 
-![](http://www.comlaw.gov.au/Details/C2012C00680/Html/61cba38f-013c-4f00-84ff-ae6632da2cb0_files/image020.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00662/Html/5916c2a7-00b5-44ae-a4dc-b084225da50a_files/image020.gif)
 
 Note:          If the company’s 2001‑02 franking year ended at the end of 30 June 2002 and it would have had a class A exempting deficit at that time apart from former section 160AQCNO of the _Income Tax Assessment Act 1936_, that section will have eliminated the deficit and either:
 
@@ -7460,7 +7442,7 @@ Class C exempting deficit at end of 30 June 2002
 
                      (b)  an exempting debit of the amount worked out using the formula is taken to have arisen at the start of 1 July 2002 in the exempting account that the company has under section 208‑110 of the _Income Tax Assessment Act 1997_:
 
-![](http://www.comlaw.gov.au/Details/C2012C00680/Html/61cba38f-013c-4f00-84ff-ae6632da2cb0_files/image021.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00662/Html/5916c2a7-00b5-44ae-a4dc-b084225da50a_files/image021.gif)
 
 Note:          If the company’s 2001‑02 franking year ended at the end of 30 June 2002 and it would have had a class C exempting deficit at that time apart from former section 160AQCNO of the _Income Tax Assessment Act 1936_, that section will have eliminated the deficit and either:
 
@@ -7508,7 +7490,7 @@ Note:          If the company’s 2001‑02 franking year ende
 
              (3)  The amount of the venture capital credit is worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00680/Html/61cba38f-013c-4f00-84ff-ae6632da2cb0_files/image022.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00662/Html/5916c2a7-00b5-44ae-a4dc-b084225da50a_files/image022.gif)
 
 ##### <a id="210‑15"></a>210‑15  Converting the venture capital sub‑account balance to a tax paid basis—PDFs whose 2001‑02 franking year ends before 30 June 2002
 
@@ -7522,7 +7504,7 @@ Note:          If the company’s 2001‑02 franking year ende
 
              (3)  The amount of the venture capital credit is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00680/Html/61cba38f-013c-4f00-84ff-ae6632da2cb0_files/image023.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00662/Html/5916c2a7-00b5-44ae-a4dc-b084225da50a_files/image023.gif)
 
              (4)  If, but for this subsection, the PDF would have a venture capital deficit under former Part IIIAA of the 1936 Act at the end of 30 June 2002 (the **_original deficit_**):
 
@@ -7532,7 +7514,7 @@ Note:          If the company’s 2001‑02 franking year ende
 
              (5)  The amount of the venture capital debit is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00680/Html/61cba38f-013c-4f00-84ff-ae6632da2cb0_files/image024.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00662/Html/5916c2a7-00b5-44ae-a4dc-b084225da50a_files/image024.gif)
 
 ### Division 214—Administering the imputation system
 
@@ -7890,7 +7872,7 @@ Note:          The general interest charge is worked out under
 
              (2)  A franking debit of the amount worked out in accordance with the following formula is taken to have arisen in the new franking account on the assessment day:
 
-![](http://www.comlaw.gov.au/Details/C2012C00680/Html/61cba38f-013c-4f00-84ff-ae6632da2cb0_files/image025.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00662/Html/5916c2a7-00b5-44ae-a4dc-b084225da50a_files/image025.gif)
 
 where:
 
@@ -7916,7 +7898,7 @@ Note:          On the assessment day, the franking credit ment
 
              (2)  A franking credit of the amount worked out in accordance with the following formula is taken to have arisen in the new franking account on 1 July 2002:
 
-![](http://www.comlaw.gov.au/Details/C2012C00680/Html/61cba38f-013c-4f00-84ff-ae6632da2cb0_files/image026.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00662/Html/5916c2a7-00b5-44ae-a4dc-b084225da50a_files/image026.gif)
 
 where:
 
@@ -8886,7 +8868,7 @@ and those rights or options are 30 June 1988 assets of the entity.
 
              (3)  The proportion is:
 
-![](http://www.comlaw.gov.au/Details/C2012C00680/Html/61cba38f-013c-4f00-84ff-ae6632da2cb0_files/image027.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00662/Html/5916c2a7-00b5-44ae-a4dc-b084225da50a_files/image027.gif)
 
 where:
 
@@ -8936,7 +8918,7 @@ where:
 
                              (ii)  virtual PST life insurance policies (as defined in the _Income Tax Assessment Act 1997_) issued by a life insurance company.
 
-                    <a name="origin-25-mai-balanc"></a>**_original 25 May balance_**, in relation to an eligible depositor, means the amount of the deposits (together with accumulated earnings) standing to the credit of the depositor as at the end of 25 May  1988.
+                    <a name="origin-25-mai-balanc"></a>**_original 25 May balance_**, in relation to an eligible depositor, means the amount of the deposits (together with accumulated earnings) standing to the credit of the depositor as at the end of 25 May 1988.
 
                     <a name="reckon-time"></a>**_reckoning time_**, in relation to an ADF in relation to an income year, means the beginning of the income year, or such other time during the income year as the ADF chooses in accordance with subsection (4).
 
@@ -9698,7 +9680,7 @@ Note:          Part VC of the _Insurance Act 1973_ commenced
 
              (4)  Any general deductions, and deductions under section 25‑5 or 25‑10 of the _Income Tax Assessment Act 1997_, that, apart from paragraph 328‑105(1)(b) of that Act (as in force immediately before its repeal by Schedule 2 to the _Tax Laws Amendment (2004 Measures No. 7) Act 2005_), you would have incurred before the changeover year (while you were using the STS accounting method) and that you have not deducted because you have not paid them can be deducted for the changeover year.
 
-##### <a id="328‑120"></a>328‑120  Continuing to use the STS accounting method
+##### <a id="328‑120"></a>328‑120  Continuing to use the STS accounting method
 
              (1)  This section applies if:
 
@@ -9952,7 +9934,7 @@ Amount to be included in assessable income
 
 is taken to be included in the R&amp;D entity’s assessable income for the event year under subsection 355‑315(3) of the new Act:
 
-![](http://www.comlaw.gov.au/Details/C2012C00680/Html/61cba38f-013c-4f00-84ff-ae6632da2cb0_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00662/Html/5916c2a7-00b5-44ae-a4dc-b084225da50a_files/image003.gif)
 
 where:
 
@@ -10109,7 +10091,7 @@ Amount to be included in assessable income
 
 is taken to be included in the partner’s assessable income for the event year under subsection 355‑525(3) of the new Act:
 
-![](http://www.comlaw.gov.au/Details/C2012C00680/Html/61cba38f-013c-4f00-84ff-ae6632da2cb0_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00662/Html/5916c2a7-00b5-44ae-a4dc-b084225da50a_files/image004.gif)
 
 where:
 
@@ -10593,7 +10575,7 @@ Head company adjusted allocable amount
 
                      (b)  only the following proportion of each of the step 2 to step 7 amounts in the table in section 705‑60 of the _Income Tax Assessment Act 1997_ was taken into account:
 
-![](http://www.comlaw.gov.au/Details/C2012C00680/Html/61cba38f-013c-4f00-84ff-ae6632da2cb0_files/image028.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00662/Html/5916c2a7-00b5-44ae-a4dc-b084225da50a_files/image028.gif)
 
                             where:
 
@@ -10613,7 +10595,7 @@ Sub‑group’s notional allocable cost amount
 
                      (d)  only the following proportion of each of the step 2 to step 7 amounts in the table in section 705‑60 of the _Income Tax Assessment Act 1997_ was taken into account:
 
-![](http://www.comlaw.gov.au/Details/C2012C00680/Html/61cba38f-013c-4f00-84ff-ae6632da2cb0_files/image029.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00662/Html/5916c2a7-00b5-44ae-a4dc-b084225da50a_files/image029.gif)
 
                             where:
 
@@ -11835,7 +11817,7 @@ Adding to the modified market value of the real loss‑maker
 
              (3)  Work out the available fraction for the bundle of losses as if there were added to the modified market value of the real loss‑maker at the initial transfer time the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00680/Html/61cba38f-013c-4f00-84ff-ae6632da2cb0_files/image030.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00662/Html/5916c2a7-00b5-44ae-a4dc-b084225da50a_files/image030.gif)
 
 Note:          The amount worked out using the formula will be nil if the value donor’s modified market value at the initial transfer time is nil. Even if the amount is nil, section 707‑327 may treat losses transferred by the value donor to the transferee as if they were included in the bundle of losses transferred by the real loss‑maker to the transferee.
 
@@ -13848,318 +13830,6 @@ Note:          The tax is imposed by the _Income Tax (Managed 
 
                    Subdivision 840‑S of the _Income Tax Assessment Act 1997_ applies to income derived on or after 1 July 2012.
 
-### Division 842—Exempt Australian source income and gains of foreign residents
-
-#### Subdivision 842‑I—Investment manager regime
-
-**Table of sections**
-
-Operative provisions
-
-842‑210    Treatment of IMR foreign fund that is a corporate tax entity
-
-842‑215    Treatment of foreign resident beneficiary that is not a trust or partnership
-
-842‑220    Treatment of foreign resident partner that is not a trust or partnership
-
-842‑225    Treatment of trustee of an IMR foreign fund
-
-842‑230    Pre‑2012 IMR deduction
-
-842‑235    Pre‑2012 IMR capital loss
-
-842‑240    Pre‑2012 non‑IMR net income, pre‑2012 non‑IMR Division 6E net income and pre‑2012 non‑IMR net capital gain
-
-842‑245    Pre‑2012 non‑IMR partnership net income and pre‑2012 non‑IMR partnership loss
-
-##### <a id="842‑210"></a>842‑210  Treatment of IMR foreign fund that is a corporate tax entity
-
-Objects
-
-             (1)  The object of this section is to disregard, for the purpose of calculating the assessable income of a corporate tax entity that is an IMR foreign fund, certain gains and losses that arise in the 2010‑11 income year, or an earlier income year, in respect of certain kinds of financial arrangements.
-
-Application
-
-             (2)  This section applies to a corporate tax entity that is an IMR foreign fund in relation to an income year if:
-
-                     (a)  the income year is the 2010‑11 income year or an earlier income year; and
-
-                     (b)  the corporate tax entity has pre‑2012 IMR income, a pre‑2012 IMR deduction, a pre‑2012 IMR capital gain or a pre‑2012 IMR capital loss in relation to the income year; and
-
-                     (c)  the corporate tax entity has not lodged an income tax return in relation to the 2010‑11 income year, or any earlier income year, before the day that item 1 of Schedule 1 to the _Tax Laws Amendment (Investment Manager Regime) Act 2012_ commences; and
-
-                     (d)  the Commissioner did not, before 18 December 2010, make an assessment of the taxable income of the corporate tax entity for any income year.
-
-Note 1:       For the purposes of this Act,**_pre‑2012 IMR income_** is defined in subsections 842‑270(1) and (2) of the _Income Tax Assessment Act 1997_ and **_pre‑2012 IMR capital gain_** is defined in subsection 842‑270(3) of that Act.
-
-Note 2:       **_Pre‑2012 IMR deduction_** is defined in subsections 842‑230(1) and (2) of this Act and **_pre‑2012 IMR capital loss_** is defined in section 842‑235 of this Act.
-
-Certain amounts disregarded
-
-             (3)  In working out the corporate tax entity’s taxable income, tax loss or net capital loss for the income year:
-
-                     (a)  treat the corporate tax entity’s pre‑2012 IMR income for the income year as non‑assessable non‑exempt income; and
-
-                     (b)  disregard the corporate tax entity’s pre‑2012 IMR deduction for the income year; and
-
-                     (c)  disregard the corporate tax entity’s pre‑2012 IMR capital gain for the income year; and
-
-                     (d)  disregard the corporate tax entity’s pre‑2012 IMR capital loss for the income year.
-
-Fraud
-
-             (4)  Subsection (3) does not apply if the Commissioner has reason to believe that there has been fraud by the corporate tax entity in relation to any income year.
-
-Audit or compliance review
-
-             (5)  Subsection (3) does not apply if before 18 December 2010 the Commissioner notified the corporate tax entity that an audit or compliance review would be undertaken in relation to any income year.
-
-##### <a id="842‑215"></a>842‑215  Treatment of foreign resident beneficiary that is not a trust or partnership
-
-Objects
-
-             (1)  The objects of this section are to ensure that:
-
-                     (a)  a foreign resident beneficiary of an IMR foreign fund in relation to the 2010‑11 income year or an earlier income year is not subject to Australian income tax in respect of pre‑2012 IMR income or a pre‑2012 IMR capital gain of the fund (or in respect of an amount that is referable to pre‑2012 IMR income or a pre‑2012 IMR capital gain of the fund) for the income year; and
-
-                     (b)  the foreign resident beneficiary of the fund is not able to claim a deduction or utilise a tax loss in relation to the income year to the extent that the deduction or tax loss was incurred or made in respect of an amount that is:
-
-                              (i)  pre‑2012 IMR income of the fund (or referable to pre‑2012 IMR income of the fund); or
-
-                             (ii)  a pre‑2012 IMR capital gain of the fund (or referable to a pre‑2012 IMR capital gain of the fund); and
-
-                     (c)  this section does not provide any tax concession to an Australian resident that invests in the fund (whether directly or indirectly through one or more interposed entities).
-
-Application
-
-             (2)  This section applies to a beneficiary of a trust in relation to the 2010‑11 income year, or an earlier income year, if:
-
-                     (a)  the beneficiary is not a resident of Australia at any time during the income year; and
-
-                     (b)  the beneficiary is not a trust or partnership at any time during the income year (other than a foreign superannuation fund); and
-
-                     (c)  neither the trust nor the beneficiary has lodged an income tax return in relation to the 2010‑11 income year, or any earlier income year, before the day that item 1 of Schedule 1 to the _Tax Laws Amendment (Investment Manager Regime) Act 2012_ commences; and
-
-                     (d)  the Commissioner did not, before 18 December 2010, make an assessment of the beneficiary for any income year.
-
-Note:          A trust that is an IMR foreign fund is generally subject to the general tax rules that apply to trusts, subject to the modifications in this Subdivision: see Division 6 of Part III of the _Income Tax Assessment Act 1936_. Also see section 842‑225 of this Act, which deals with trustees of IMR foreign funds.
-
-Adjustments to calculation of taxable income, tax loss or net capital loss
-
-             (3)  In working out the beneficiary’s taxable income, tax loss or net capital loss for the income year:
-
-                     (a)  for the purposes of applying Division 6 of Part III of the _Income Tax Assessment Act 1936_ to the beneficiary, replace the references in that Division to share of the net income with references to share of the pre‑2012 non‑IMR net income (within the meaning of subsection 842‑240(1) of the _Income Tax (Transitional Provisions) Act 1997_); and
-
-                     (b)  for the purposes of applying subsections 98A(1) and (3) of Division 6 of Part III of the _Income Tax Assessment Act 1936_ to the beneficiary, replace the references in those subsections to individual interest of the beneficiary in the net income with references to individual interest of the beneficiary in the pre‑2012 non‑IMR net income (within the meaning of subsection 842‑240(1) of the _Income Tax (Transitional Provisions) Act 1997_); and
-
-                     (c)  for the purposes of applying Division 6E of Part III of the _Income Tax Assessment Act 1936_ to the beneficiary, replace the references in that Division to Division 6E net income with references to pre‑2012 non‑IMR Division 6E net income (within the meaning of subsection 842‑240(2) of the _Income Tax (Transitional Provisions) Act 1997_); and
-
-                     (d)  in applying subsection 115‑215(3) of the _Income Tax Assessment Act 1997_ to the beneficiary, replace the reference in that subsection to each capital gain of the trust estate with a reference to each capital gain of the trust estate that is a pre‑2012 non‑IMR net capital gain (or is referable to a pre‑2012 non‑IMR net capital gain of the trust estate) (within the meaning of subsection 842‑240(3) of the _Income Tax (Transitional Provisions) Act 1997_); and
-
-                     (e)  in applying section 115‑225 of the _Income Tax Assessment Act 1997_ to the beneficiary:
-
-                              (i)  replace references in that section to net income of the trust estate with references to pre‑2012 non‑IMR net income of the trust estate (within the meaning of subsection 842‑240(1) of the _Income Tax (Transitional Provisions) Act 1997_); and
-
-                             (ii)  replace the reference in that section to net capital gain (if any) with a reference to pre‑2012 non‑IMR net capital gain (if any) (within the meaning of subsection 842‑240(3) of the _Income Tax (Transitional Provisions) Act 1997_).
-
-             (4)  For the purposes of applying paragraph 115‑225(1)(a) of the _Income Tax Assessment Act 1997_ to the beneficiary in respect of the income year:
-
-                     (a)  disregard a capital gain of the trust to the extent the capital gain is a pre‑2012 IMR capital gain (or is referable to a pre‑2012 IMR capital gain of the fund); and
-
-                     (b)  disregard a pre‑2012 IMR capital loss of the trust for the purposes of determining the amount of the capital gain remaining after applying steps 1 to 4 of the method statement in subsection 102‑5(1) of that Act; and
-
-                     (c)  disregard a net capital loss of the trust to the extent that it is attributable to a pre‑2012 IMR capital loss for the purposes of determining the amount of the capital gain remaining after applying steps 1 to 4 of the method statement in subsection 102‑5(1).
-
-Fraud
-
-             (5)  Subsections (3) and (4) do not apply if the Commissioner has reason to believe that there has been fraud by the trust in relation to any income year.
-
-Audit or compliance review
-
-             (6)  Subsections (3) and (4) do not apply if before 18 December 2010 the Commissioner notified the trust that an audit or compliance review would be undertaken in relation to any income year.
-
-##### <a id="842‑220"></a>842‑220  Treatment of foreign resident partner that is not a trust or partnership
-
-Objects
-
-             (1)  The objects of this section are to ensure that:
-
-                     (a)  a foreign resident partner of an IMR foreign fund in relation to the 2010‑11 income year, or an earlier income year, is not subject to any Australian income tax in respect of pre‑2012 IMR income or a pre‑2012 IMR capital gain (or in respect of an amount that is referable to pre‑2012 IMR income or a pre‑2012 IMR capital gain) for the income year; and
-
-                     (b)  the foreign resident partner of the fund is not able to claim a deduction or utilise a tax loss in relation to the income year to the extent that the deduction or tax loss was incurred or made in respect of an amount that is:
-
-                              (i)  pre‑2012 IMR income of the fund (or referable to pre‑2012 IMR income of the fund); or
-
-                             (ii)  a pre‑2012 IMR capital gain (or referable to a pre‑2012 IMR capital gain); and
-
-                     (c)  this section does not provide any tax concession to an Australian resident that invests in the fund (whether directly or indirectly through one or more interposed entities).
-
-Application
-
-             (2)  This section applies to a partner in a partnership in relation to the 2010‑11 income year, or an earlier income year, if:
-
-                     (a)  the partner is not an Australian resident at any time during the income year; and
-
-                     (b)  the partner is not a trust or a partnership at any time during the income year (other than a foreign superannuation fund); and
-
-                     (c)  neither the partnership nor the partner has lodged an income tax return in relation to the 2010‑11 income year, or any earlier income year, before the day that item 1 of Schedule 1 to the _Tax Laws Amendment (Investment Manager Regime) Act 2012_ commences; and
-
-                     (d)  the Commissioner did not, before 18 December 2010, make an assessment of the taxable income of the partner for any income year.
-
-Note:          A partnership that is an IMR foreign fund is generally subject to the general tax rules that apply to partnerships, subject to the modifications set out in this Subdivision: see Division 5 of Part III of the _Income Tax Assessment Act 1936_.
-
-Adjustments to calculation of taxable income, tax loss or net capital loss
-
-             (3)  In working out the partner’s taxable income, tax loss or net capital loss for the income year:
-
-                     (a)  for the purposes of applying Division 5 of Part III of the _Income Tax Assessment Act 1936_ to the partner, replace the references in that Division to the individual interest of the partner in the net income of the partnership with references to the individual interest of the partner in the pre‑2012 non‑IMR partnership net income (within the meaning of section 842‑245 of the _Income Tax (Transitional Provisions) Act 1997_); and
-
-                     (b)  for the purposes of applying Division 5 of Part III of the _Income Tax Assessment Act 1936_ to the partner, replace the references in that Division to the individual interest of the partner in the partnership loss with references to the individual interest of the partner in the pre‑2012 non‑IMR partnership loss (within the meaning of section 842‑245 of the _Income Tax (Transitional Provisions) Act 1997_); and
-
-                     (c)  disregard the partner’s pre‑2012 IMR capital gain or an amount that is referable to a pre‑2012 IMR capital gain (within the meaning of subsection 842‑270(3) of the _Income Tax Assessment Act 1997_) or pre‑2012 IMR capital loss or an amount that is referable to a pre‑2012 IMR capital loss (within the meaning of that term in section 842‑235 of this Act).
-
-Fraud
-
-             (4)  Subsection (3) does not apply if the Commissioner has reason to believe that there has been fraud by the partnership in relation to any income year.
-
-Audit or compliance review
-
-             (5)  Subsection (3) does not apply if before 18 December 2010 the Commissioner notified the partnership that an audit or compliance review would be undertaken in relation to any income year.
-
-##### <a id="842‑225"></a>842‑225  Treatment of trustee of an IMR foreign fund
-
-Objects
-
-             (1)  The object of this section is to ensure that the following provisions interact appropriately with the tax concessions mentioned in subsection 842‑210(1), paragraphs 842‑215(1)(a) and (b) and paragraphs 842‑220(1)(a) and (b) in respect of the 2010‑11 income year or an earlier income year:
-
-                     (a)  subsection 115‑220(2) of the _Income Tax Assessment Act 1997_;
-
-                     (b)  section 115‑225 of the _Income Tax Assessment Act 1997_;
-
-                     (c)  section 98 of the _Income Tax Assessment Act 1936_;
-
-                     (d)  section 99E of the _Income Tax Assessment Act 1936_.
-
-Note:          Division 6 of Part III of the _Income Tax Assessment Act 1936_, Division 115 of the _Income Tax Assessment Act 1997_, and all other provisions of those Acts apply to the trustee of an IMR foreign fund, subject to the modifications in this section.
-
-Application
-
-             (2)  This section applies to the 2010‑11 income year or an earlier income year of a trustee of a trust that is an IMR foreign fund in relation to that income year.
-
-Applying subsection 115‑220(2) of the Income Tax Assessment Act 1997
-
-             (3)  For the purposes of applying subsection 115‑220(2) of the _Income Tax Assessment Act 1997_ to the beneficiary:
-
-                     (a)  disregard a capital gain of the IMR foreign fund to the extent that the capital gain is a pre‑2012 IMR capital gain; and
-
-                     (b)  disregard a pre‑2012 IMR capital loss of the IMR foreign fund for the purposes of determining the amount of the capital gain remaining after applying steps 1 to 4 of the method statement in subsection 102‑5(1); and
-
-                     (c)  disregard a net capital loss of the IMR foreign fund to the extent that it is attributable to a pre‑2012 IMR capital loss for the purposes of determining how much of a capital gain that is not a pre‑2012 IMR capital gain remains after applying steps 1 to 4 of the method statement in subsection 102‑5(1).
-
-Note:          The effect of this subsection is that the increase to the assessable amount which occurs as a result of section 115‑220 of the _Income Tax Assessment Act 1997_ is calculated with reference to the capital gains of the IMR foreign fund that are not IMR capital gains or amounts referable to IMR capital gains (rather than by calculating the increase with reference to _all_ capital gains of the fund).
-
-Modifications to section 115‑225 of the Income Tax Assessment Act 1997
-
-             (4)  For the purposes of applying section 115‑225 of the _Income Tax Assessment Act 1997_ in respect of section 115‑220, make the following assumptions:
-
-                     (a)  replace the references in section 115‑225 to the net income of the trust estate with references to the pre‑2012 non‑IMR net income (within the meaning of subsection 842‑240(1) of the _Income Tax (Transitional Provisions) Act 1997_) of the trust estate;
-
-                     (b)  replace the references in section 115‑225 to net capital gain (if any) with a reference to pre‑2012 non‑IMR net capital gain (if any) (within the meaning of subsection 842‑240(3) of the _Income Tax (Transitional Provisions) Act 1997_).
-
-Modifications to section 98 of the Income Tax Assessment Act 1936
-
-             (5)  For the purposes of applying section 98 of the _Income Tax Assessment Act 1936_ in respect of an income year that is the 2010‑11 income year or an earlier income year, replace references in that section to net income with references to pre‑2012 non‑IMR net income (within the meaning of subsection 842‑240(1) of the _Income Tax (Transitional Provisions) Act 1997_).
-
-Note:          The effect of this subsection is that where section 98 of the _Income Tax Assessment Act 1936_ applies to the trustee of a trust that is an IMR foreign fund, the trustee is only assessed and made liable to pay tax in respect of pre‑2012 non‑IMR net income of the fund (rather than in respect of _all_ net income of the fund to which section 98 would otherwise apply).
-
-Modifications to section 99E of the Income Tax Assessment Act 1936
-
-             (6)  For the purposes of applying section 99E of the _Income Tax Assessment Act 1936_ in respect of an income year that is the 2010‑11 income year or an earlier income year:
-
-                     (a)  replace the reference to so much of the net income with a reference to so much of the net income or pre‑2012 non‑IMR net income (within the meaning of subsection 842‑240(1) of the _Income Tax (Transitional Provisions) Act 1997_) as the case may be; and
-
-                     (b)  replace the reference to a part of the net income of another trust estate with a reference to a part of the pre‑2012 non‑IMR net income (within the meaning of subsection 842‑240(1) of the _Income Tax (Transitional Provisions) Act 1997_) of another trust estate.
-
-Note:          The effect of this subsection is that the trustee of a trust that receives a distribution of pre‑2012 non‑IMR net income from another trust is not required to apply section 98, 99 or 99A of the _Income Tax Assessment Act 1936_ to those amounts.
-
-Certain losses disregarded
-
-             (7)  The IMR foreign fund cannot utilise a tax loss or net capital loss in relation to the income year, or in any future income year, to the extent the loss is attributable to pre‑2012 IMR income, a pre‑2012 IMR capital gain, a pre‑2012 IMR deduction or a pre‑2012 IMR capital loss.
-
-##### <a id="842‑230"></a>842‑230  _Pre‑2012 IMR deduction_
-
-             (1)  The **_pre‑2012 IMR deduction_** of an IMR foreign fund for an income year is the amount of the fund’s deductions for the income year to the extent to which they:
-
-                     (a)  are attributable to gaining the fund’s pre‑2012 IMR income; and
-
-                     (b)  relate to the 2011‑12 income year, or an earlier income year.
-
-             (2)  Disregard the following provisions for the purposes of determining the pre‑2012 IMR deduction of the fund:
-
-                     (a)  subsection 842‑210(3) (which is about certain amounts of an IMR foreign fund being disregarded);
-
-                     (b)  paragraph 842‑240(1)(b) (which is about pre‑2012 non‑IMR net income);
-
-                     (c)  paragraph 842‑245(a) (which is about pre‑2012 non‑IMR partnership net income).
-
-##### <a id="842‑235"></a>842‑235  _Pre‑2012 IMR capital loss_
-
-                   The **_pre‑2012 IMR capital loss_** of an IMR foreign fund for an income year is the sum of the fund’s capital losses made in the income year that are attributable to CGT assets that are financial arrangements covered by section 842‑245 of the _Income Tax Assessment Act 1997_.
-
-##### <a id="842‑240"></a>842‑240  _Pre‑2012 non‑IMR net income_, _pre‑2012 non‑IMR Division 6E net income_ and _pre‑2012 non‑IMR net capital gain_
-
-             (1)  A trust’s **_pre‑2012 non‑IMR net income_** in relation to an income year is determined by calculating the net income of the trust as follows:
-
-                     (a)  for income years prior to the 2010‑11 income year—disregard the pre‑2012 IMR capital gain and pre‑2012 IMR capital loss;
-
-                     (b)  disregard the pre‑2012 IMR income and pre‑2012 IMR deduction of the trust for the income year;
-
-                     (c)  disregard any amount that is included in the trust’s assessable income under subsection 207‑35(1) to the extent that the amount is attributable to pre‑2012 IMR income of the trust for the income year;
-
-                     (d)  if the trust is a beneficiary of another trust—then:
-
-                              (i)  for the purposes of applying Division 6 of Part III of the _Income Tax Assessment Act 1936_ to the trust that is a beneficiary, replace the references in that Division to share of the net income with references to share of the pre‑2012 non‑IMR net income (within the meaning of subsection 842‑240(1) of the _Income Tax (Transitional Provisions) Act 1997_); and
-
-                             (ii)  for the purposes of applying Division 6E of Part III of the _Income Tax Assessment Act 1936_ to the trust that is a beneficiary, replace references in that Division to Division 6E net income with references to pre‑2012 non‑IMR Division 6E net income (within the meaning of subsection 842‑240(1) of the _Income Tax (Transitional Provisions) Act 1997_);
-
-                     (e)  if the trust is a partner in a partnership—for the purposes of applying Division 5 of Part III of the _Income Tax Assessment Act 1936_ to the partner, replace the references to the individual interest of the partner in the partnership net income or partnership loss with references to the individual interest of the partner in the pre‑2012 non‑IMR partnership net income or pre‑2012 non‑IMR partnership loss (within the meaning of subsection 842‑240(1) of the _Income Tax (Transitional Provisions) Act 1997_).
-
-Note:          The net income of a trust may include a share of the net income of another trust. Where there is a chain of trusts, these calculations are applied to each trust in the chain.
-
-Pre‑2012 non‑IMR Division 6E net income
-
-             (2)  A trust’s **_pre‑2012 non‑IMR Division 6E net income_** in relation to an income year is determined by calculating the Division 6E net income (within the meaning of subsection 102UY(3) of the _Income Tax Assessment Act 1936_) of the trust as follows:
-
-                     (a)  disregard the pre‑2012 IMR income and pre‑2012 IMR deduction of the trust in relation to the income year;
-
-                     (b)  disregard the things mentioned in subparagraphs 102UW(b)(i) to (iii) of the _Income Tax Assessment Act 1936_ (which is about adjustments of Division 6 assessable amounts) in relation to the income year.
-
-Pre‑2012 non‑IMR net capital gain
-
-             (3)  A trust’s **_pre‑2012 non‑IMR net capital gain_** in relation to an income year is determined by calculating the net capital gain of the trust as follows:
-
-                     (a)  disregard the trust’s pre‑2012 IMR capital gain and pre‑2012 IMR capital loss in relation to the income year;
-
-                     (b)  disregard any capital gain of the trust in relation to the income year that is referable to a pre‑2012 IMR capital gain of another IMR foreign fund that is a trust.
-
-##### <a id="842‑245"></a>842‑245  Pre‑2012 non‑IMR partnership net income and pre‑2012 non‑IMR partnership loss
-
-                   A partnership’s **_pre‑2012 non‑IMR partnership net income_** or **_pre‑2012 non‑IMR partnership loss_** in relation to an income year is determined by calculating the net income or partnership loss of the partnership as follows:
-
-                     (a)  disregard the pre‑2012 IMR income and pre‑2012 IMR deduction of the partnership for the income year;
-
-                     (b)  disregard any amount included in the partnership’s assessable income under subsection 207‑35(1) to the extent that the amount is attributable to pre‑2012 IMR income of the partnership for the income year;
-
-                     (c)  if the partnership is a beneficiary of a trust—then:
-
-                              (i)  for the purposes of applying Division 6 of Part III of the _Income Tax Assessment Act 1936_ to the beneficiary, replace the references in that Division to share of the net income with references to share of the pre‑2012 non‑IMR net income (within the meaning of subsection 842‑240(1) of the _Income Tax (Transitional Provisions) Act 1997_); and
-
-                             (ii)  for the purposes of applying Division 6E of Part III of the _Income Tax Assessment Act 1936_ to the beneficiary, replace references in that Division to Division 6E net income with references to pre‑2012 non‑IMR Division 6E net income (within the meaning of subsection 842‑240(1) of the _Income Tax (Transitional Provisions) Act 1997_);
-
-                     (d)  if the partnership is a partner in another partnership—for the purposes of applying Division 5 of Part III of the _Income Tax Assessment Act 1936_ to the partner, replace the references in that Division to the individual interest of the partner in the partnership net income or partnership loss with references to the individual interest of the partner in the pre‑2012 non‑IMR partnership net income or pre‑2012 non‑IMR partnership loss (within the meaning of subsection 842‑240(1) of the _Income Tax (Transitional Provisions) Act 1997_).
-
-Note:          The net income of a partnership may include a share of the net income of another partnership. Where there is a chain of partnerships, these calculations are applied to each partnership in the chain.
-
 # Chapter 5—Administration
 
 ## Part 5‑35—Miscellaneous
@@ -16015,23 +15685,6 @@ Schedule 2 (items 65, 66): 29 Mar 2012</div>
   </td>
   <td>
     <div>Schedule 1 (item 12): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Tax Laws Amendment (Investment Manager Regime) Act 2012</div>
-  </td>
-  <td>
-    <div>126, 2012</div>
-  </td>
-  <td>
-    <div>13 Sept 2012</div>
-  </td>
-  <td>
-    <div>Schedule 2: Royal Assent</div>
   </td>
   <td>
     <div>—</div>
@@ -29169,94 +28822,6 @@ _(zh)_   Subsection 2(1) (items 24 and 25) of the _Tax Laws Amendment (2011 
 </tr>
 <tr>
   <td>
-    <div><b>Division 842</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Division 842</div>
-  </td>
-  <td>
-    <div>ad. No. 126, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision 842-I</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 842‑210</div>
-  </td>
-  <td>
-    <div>ad. No. 126, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 842‑215</div>
-  </td>
-  <td>
-    <div>ad. No. 126, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 842‑220</div>
-  </td>
-  <td>
-    <div>ad. No. 126, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 842‑225</div>
-  </td>
-  <td>
-    <div>ad. No. 126, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 842‑230</div>
-  </td>
-  <td>
-    <div>ad. No. 126, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 842‑235</div>
-  </td>
-  <td>
-    <div>ad. No. 126, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 842‑240</div>
-  </td>
-  <td>
-    <div>ad. No. 126, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 842‑245</div>
-  </td>
-  <td>
-    <div>ad. No. 126, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Chapter 5</b></div>
   </td>
   <td>
@@ -29444,7 +29009,7 @@ The following amendment commences on 30 June 2014:
 
 Repeal the Division.
 
-As at 20 September 2012 the amendment is not incorporated in this compilation.
+As at 11 September 2012 the amendment is not incorporated in this compilation.
 
 ### Note 3
 
@@ -29470,7 +29035,7 @@ The following amendment commences on 1 January 2017:
 
 Repeal the section.
 
-As at 20 September 2012 the amendment is not incorporated in this compilation.
+As at 11 September 2012 the amendment is not incorporated in this compilation.
 
 ### Note 5
 
@@ -29484,7 +29049,7 @@ The following amendment commences on 1 July 2016:
 
 Repeal the section.
 
-As at 20 September 2012 the amendment is not incorporated in this compilation.
+As at 11 September 2012 the amendment is not incorporated in this compilation.
 
 ### Note 6
 
@@ -29498,7 +29063,7 @@ The following amendment commences on 1 January 2017:
 
 Repeal the section.
 
-As at 20 September 2012 the amendment is not incorporated in this compilation.
+As at 11 September 2012 the amendment is not incorporated in this compilation.
 
 ## Table A
 
@@ -29738,7 +29303,7 @@ _Tax Laws Amendment (2004 Measures No. 2) Act 2004 (No. 83, 2004)_
 
 ## Schedule 2
 
-## 1  Application
+## 1  Application
 
 Except as provided otherwise, the amendments made by this Schedule apply on and after 1 July 2002.
 
@@ -30503,7 +30068,7 @@ If a provision or part of a provision that is repealed or amended by this Act de
 
 If the operation of a provision (the **_subject provision_**) of any Act or legislative instrument (within the meaning of the _Legislative Instruments Act 2003_) made under any Act depends to any extent on a provision that is repealed by this Act, the repeal is disregarded so far as it affects the operation of the subject provision.
 
-## 6  Schedule does not limit operation of the _Acts Interpretation Act 1901_
+## 6  Schedule does not limit operation of the _Acts Interpretation Act 1901_
 
 This Schedule does not limit the operation of the _Acts Interpretation Act 1901_.
 
