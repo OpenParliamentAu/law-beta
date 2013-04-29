@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00786/Html/0798eb22-16be-4146-8460-ed0ad684eee4_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00306/Html/27359cbe-6046-44a8-9924-c94385217186_files/image001.gif)
 
 # Fringe Benefits Tax (Application to the Commonwealth) Act 1986
 
 **Act No. 42 of 1986 as amended**
 
-This compilation was prepared on 27 September 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 19 April 2011
+ taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -190,17 +190,15 @@ the benefit is an exempt benefit. 
 
 The _Fringe Benefits Tax (Application to the Commonwealth) Act 1986_ as shown in this compilation comprises Act No. 42, 1986 amended as indicated in the Tables below.
 
-All relevant information pertaining to application, saving or transitional provisions prior to 27 June 2011 is not included in this compilation. For subsequent information _see_ Table A.
-
 ### Table of Acts
 
 <table>
 <colgroup>
   <col width="30%">
-  <col width="15%">
+  <col width="16%">
   <col width="18%">
   <col width="22%">
-  <col width="16%">
+  <col width="14%">
 </colgroup>
 
 <thead>
@@ -271,7 +269,7 @@ Remainder: 1 July 1986</div>
     <div>24 Dec 1991</div>
   </td>
   <td>
-    <div>S. 113: 1 Mar 1992 ( <i>see</i> <i>Gazette</i>1992, No. GN7) <i>(a)</i></div>
+    <div>S. 113: 1 March 1992 ( <i>see</i> <i>Gazette</i>1992, No. GN7) <i>(a)</i></div>
   </td>
   <td>
     <div>Ss. 114 and 116</div>
@@ -339,7 +337,7 @@ Remainder: 1 July 1986</div>
     <div>11 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 1 (item 494): 5 Dec 1999 ( <i>see</i> <i>Gazette</i>1999, No. S584) <i>(d)</i></div>
+    <div>Schedule 1 (item 494): 5 Dec 1999 ( <i>see</i> <i>Gazette</i>1999, No. S584) <i>(d)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -356,7 +354,7 @@ Remainder: 1 July 1986</div>
     <div>27 Apr 2004</div>
   </td>
   <td>
-    <div>Schedule 3 (items 22, 23): 1 July 2004 ( <i>see</i>s. 2)</div>
+    <div>Schedule 3 (items 22, 23): 1 July 2004 ( <i>see</i>s. 2)</div>
   </td>
   <td>
     <div>—</div>
@@ -390,27 +388,10 @@ Remainder: 1 July 1986</div>
     <div>22 Mar 2011</div>
   </td>
   <td>
-    <div>Schedule 6 (item 129): 19 Apr 2011</div>
+    <div>Schedule 6 (item 129): 19 Apr 2011</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 636–640) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 2 (item 640) and Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
   </td>
 </tr></table>
 
@@ -567,57 +548,5 @@ _(d)_     The _Fringe Benefits Tax (Application to the Commonwealth) Act
     <div>am. No. 88, 2009</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 636  Subsection 4(1)
-
-Omit “(1)”.
-
-## 637  Subsection 4(2)
-
-Repeal the subsection.
-
-## 638  Subsection 5(1)
-
-Omit “(1)”.
-
-## 639  Subsection 5(2)
-
-Repeal the subsection.
-
-As at 27 September 2011 the amendments are not incorporated in this compilation.
-
-## Table A
-
-### Application, saving or transitional provisions
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 640  Saving of regulations
-
-(1)       Regulations in force for the purposes of subsection 4(1) of the _Fringe Benefits Tax (Application to the Commonwealth) Act 1986_ immediately before the commencement of this item continue in force on and after that commencement as if they were regulations in force for the purposes of section 4 of that Act.
-
-(2)       Regulations in force for the purposes of subsection 5(1) of the _Fringe Benefits Tax (Application to the Commonwealth) Act 1986_ immediately before the commencement of this item continue in force on and after that commencement as if they were regulations in force for the purposes of section 5 of that Act.
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
