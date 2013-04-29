@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00169/Html/DefenceForceDiscipline1982_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00448/Html/DefenceForceDiscipline1982_image001.gif)
 
 # Defence Force Discipline Act 1982
 
 **Act No. 152 of 1982 as amended**
 
-This compilation was prepared on 5 March 2010
- taking into account amendments up to Act No. 8 of 2010
+This compilation was prepared on 24 September 2009
+ taking into account amendments up to Act No. 91 of 2009
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -558,7 +558,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [148E](#148E).      Administration of oaths and affirmations
 
-[148EA](#148EA).   Powers conferred on President
+[146EA](#146EA).   Powers conferred on President
 
 [148F](#148F).      New Zealand proceedings
 
@@ -2962,7 +2962,7 @@ Note:          The defendant bears a legal burden in relation 
 
              (5)  Subsection (4) has effect notwithstanding anything contained in section 64.
 
-             (6)  If a person (other than a detainee) commits an offence against subsection (1) or (2) of this section by virtue of section 11.2 or 11.2A of the _Criminal Code_, that section has effect as if the maximum punishment for an offence against subsection (1) or (2) of this section were imprisonment for 10 days.
+             (6)  If a person (other than a detainee) commits an offence against subsection (1) or (2) of this section by virtue of section 11.2 of the _Criminal Code_, that section has effect as if the maximum punishment for an offence against subsection (1) or (2) of this section were imprisonment for 10 days.
 
 ### Division 7—Miscellaneous offences
 
@@ -3256,7 +3256,7 @@ Definitions
 
                      (a)  a narcotic substance (as defined by subsection 4(1) of the _Customs Act 1901_); or
 
-                     (b)  an anabolic steroid (within the meaning of Part 8 of the _Crimes Act 1900_ of the Australian Capital   Territory).
+                     (b)  an anabolic steroid (within the meaning of Part 5 of the _Poisons and Drugs Act 1978_ of the Australian   Capital Territory).
 
 ##### <a id="60"></a>60  Prejudicial conduct
 
@@ -5190,7 +5190,7 @@ and may seize any such thing found in the course of the search if:
 
 ##### <a id="103"></a>103  Courses open to Director of Military Prosecutions
 
-             (1)  Where a charge is referred to the Director of Military Prosecutions under subsection 105A(2), paragraph 109(b) or 110(1)(d), subsection 129D(2) or 130(5), section 131A or subsection 141(8), 145(1) or (3) or 194(7), the Director of Military Prosecutions may:
+             (1)  Where a charge is referred to the Director of Military Prosecutions under subsection 105A(2), paragraph 109(b) or 110(1)(d), subsection 129(2) or 130(5), section 131A or subsection 141(8), 145(1) or (3) or 194(7), the Director of Military Prosecutions may:
 
                      (a)  direct that the charge be not proceeded with;
 
@@ -5206,7 +5206,7 @@ Note 2:       A charge referred to a Defence Force magistrate must b
 
              (2)  If, under the _Defence Force Discipline Appeals Act 1955_, the Defence Force Discipline Appeal Tribunal or the Federal Court of Australia orders a new trial of a person, the Director of Military Prosecutions may request the Registrar to refer the charge to a court martial or Defence Force magistrate for trial.
 
-          (2A)  If, under section 160 or 166, a reviewing authority orders a new trial of a person, the Director of Military Prosecutions may request the Registrar to refer the charge that was the subject of the proceedings to which the order relates to a court martial or Defence Force magistrate for a new trial.
+          (2A)  If, under section 166, a reviewing authority orders a new trial of a person, the Director of Military Prosecutions may request the Registrar to refer the charge that was the subject of the proceedings to which the order relates to a court martial or Defence Force magistrate for a new trial.
 
              (3)  Nothing in subsection (2) or (2A) requires the Director of Military Prosecutions to proceed with a new trial of a person unless the Director of Military Prosecutions is satisfied that there is sufficient cogent evidence to justify a new trial of the person.
 
@@ -6522,7 +6522,7 @@ Eligible persons
 
                      (b)  if the court martial or the Defence Force magistrate allows another person who is present at the place where the remote person is located to administer the oath or affirmation—by that other person.
 
-##### <a id="148EA"></a>148EA  Powers conferred on President
+##### <a id="146EA"></a>146EA  Powers conferred on President
 
                    A President must seek the advice of a judge advocate before exercising a power conferred upon the President by this Subdivision.
 
@@ -6776,7 +6776,7 @@ the reviewing authority shall quash the punishment or revoke the order or both q
 
 the reviewing authority shall annul the taking into consideration of that service offence and, thereupon, that service offence shall be deemed not to have been taken into consideration by the court martial or Defence Force magistrate.
 
-             (3)  Where in a review it appears to the reviewing authority that a summary authority has imposed an elective punishment on a convicted person otherwise than in accordance with section 111B or 131, the reviewing authority shall quash the punishment.
+             (3)  Where in a review it appears to the reviewing authority that a summary authority has imposed an elective punishment on a convicted person otherwise than in accordance with section 131, the reviewing authority shall quash the punishment.
 
              (5)  Where a reviewing authority quashes a punishment or revokes an order under subsection (1) or (3) in relation to a convicted person, the reviewing authority may take such action in relation to the convicted person as could have been taken under Part IV by the service tribunal that convicted the convicted person of the service offence of which he or she was convicted, but the reviewing authority shall not:
 
@@ -7724,7 +7724,7 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
 ##### <a id="188GB"></a>188GB  Appearances by and on behalf of Director of Military Prosecutions
 
-                   In proceedings before a court martial or a Defence Force magistrate, the Director of Military Prosecutions:
+                   In proceedings before the a court martial or a Defence Force magistrate, the Director of Military Prosecutions:
 
                      (a)  may appear in person; or
 
@@ -9464,13 +9464,12 @@ Remainder: 3 July 1985 ( <i>see Gazette</i>1985, No. S255)</div>
   <td>
     <div>Ss. 1, 2, 16–19, Part XIV (ss. 115, 116) and s.120: Royal Assent 
 Ss. 23–70 and 
-72–78: 3 July 1985 ( <i>see</i>s. 2(4) and <i>Gazette</i>1985, No. S255) 
+72–78: 3 July 1985 ( <i>see</i>s. 2(4) and <i>Gazette</i>1985, No. S255) 
 S. 71: 31 Dec 1982 ( <i>see</i>s. 2(3)) 
 Ss. 82, 83, 85 and 87–89: 1 July 1983 
-Ss. 84 and 86: 1 Oct 1972 
+Ss. 84 and 86: 1 Oct 1972 
 Part XI (ss. 108, 109): 1 Jan 1985 
-Part XV (ss. 
-117–119): 1 Aug 1984 ( <i>see</i>s. 2(8) and <i>Gazette</i>1984, No. S292) 
+Part XV (ss.117–119): 1 Aug 1984 ( <i>see</i>s. 2(8) and <i>Gazette</i>1984, No. S292) 
 S. 121: 1 Jan 1982 
 Remainder: 22 Nov 1984</div>
   </td>
@@ -9524,7 +9523,7 @@ Remainder: 22 Nov 1984</div>
   </td>
   <td>
     <div>S. 61: Royal Assent 
-Remainder: 22 May 1986 ( <i>see Gazette</i>1986, No. S225)</div>
+Remainder: 22 May 1986 ( <i>see Gazette</i>1986, No. S225)</div>
   </td>
   <td>
     <div>—</div>
@@ -9666,7 +9665,7 @@ Remainder: 1 July 1988 ( <i>see Gazette</i>1988, No. S173)</div>
   </td>
   <td>
     <div>Schedule 2 (items 1–28, 31–34) and Schedule 7: Royal Assent <i>(h)</i> 
-Schedule 2 (items 29, 30): 1 Nov 1995 ( <i>see Gazette</i>1995, No. S361) <i>(h)</i></div>
+Schedule 2 (items 29, 30): 1 Nov 1995 ( <i>see Gazette</i>1995, No. S361) <i>(h)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -9700,7 +9699,7 @@ Schedule 2 (items 29, 30): 1 Nov 1995 ( <i>see Gazette</i>1995, No. S361
     <div>25 Oct 1996</div>
   </td>
   <td>
-    <div>Schedule 3 (items 21–23): 15 June 1995 <i>(ha)</i></div>
+    <div>Schedule 3 (items 21–23): 15 June 1995 <i>(ha)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -9717,8 +9716,8 @@ Schedule 2 (items 29, 30): 1 Nov 1995 ( <i>see Gazette</i>1995, No. S361
     <div>25 Oct 1996</div>
   </td>
   <td>
-    <div>Schedule 2 (items 50, 51): <i>(I)</i> 
-Schedule 4 (items 63, 64) and Schedule 5 (items 49, 50): Royal Assent <i>(i)</i></div>
+    <div>Schedule 2 (items 50, 51): <i>(I)</i> 
+Schedule 4 (items 63, 64) and Schedule 5 (items 49, 50): Royal Assent <i>(i)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -9735,7 +9734,7 @@ Schedule 4 (items 63, 64) and Schedule 5 (items 49, 50): Royal Assent <i>(i)
     <div>8 Nov 1996</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1–3): 28 May 1992 Remainder: Royal Assent</div>
+    <div>Schedule 1 (items 1–3): 28 May 1992 Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Sch. 1 (item 4)</div>
@@ -9752,7 +9751,7 @@ Schedule 4 (items 63, 64) and Schedule 5 (items 49, 50): Royal Assent <i>(i)
     <div>19 Feb 1997</div>
   </td>
   <td>
-    <div>Schedule 2 (items 120–126, 138, 139): Royal Assent <i>(j)</i></div>
+    <div>Schedule 2 (items 120–126, 138, 139): Royal Assent <i>(j)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -9820,7 +9819,7 @@ Schedule 4 (items 63, 64) and Schedule 5 (items 49, 50): Royal Assent <i>(i)
     <div>11 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 1 (item 368): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(l)</i></div>
+    <div>Schedule 1 (item 368): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(l)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -9837,7 +9836,7 @@ Schedule 4 (items 63, 64) and Schedule 5 (items 49, 50): Royal Assent <i>(i)
     <div>22 Mar 2001</div>
   </td>
   <td>
-    <div>Schedule 2 (items 35–39, 94, 95): 19 Apr 2001 <i>(m)</i></div>
+    <div>Schedule 2 (items 35–39, 94, 95): 19 Apr 2001 <i>(m)</i></div>
   </td>
   <td>
     <div>Sch. 2 (items 
@@ -9855,7 +9854,7 @@ Schedule 4 (items 63, 64) and Schedule 5 (items 49, 50): Royal Assent <i>(i)
     <div>1 Oct 2001</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1–111): 15 Dec 2001 Schedule 1 (item 112): <i>(n) 
+    <div>Schedule 1 (items 1–111): 15 Dec 2001 Schedule 1 (item 112): <i>(n) 
  </i>Remainder: Royal Assent</div>
   </td>
   <td>
@@ -10013,9 +10012,8 @@ Remainder: Royal Assent</div>
     <div>20 Mar 2008</div>
   </td>
   <td>
-    <div>Schedule 1, Schedule 2 (items 1–20), Schedules 3–6 and Schedule 7 (items 18–26, 29, 30): 20 Sept 2008 
-Schedule 7 (items 1–4, 15–17, 27, 28, 30A, 30B, 
-31–36, 40–44) and Schedule 8: Royal Assent 
+    <div>Schedule 1, Schedule 2 (items 1–20), Schedules 3–6 and Schedule 7 (items 18–26, 29, 30): 20 Sept 2008 
+Schedule 7 (items 1–4, 15–17, 27, 28, 30A, 30B, 31–36, 40–44) and Schedule 8: Royal Assent 
 Schedule 7 (item 39): <i>(p)</i></div>
   </td>
   <td>
@@ -10033,44 +10031,10 @@ Schedule 7 (item 39): <i>(p)</i></div>
     <div>22 Sept 2009</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1–176) and Schedules 2–4: Royal Assent</div>
+    <div>Schedule 1 (items 1–176) and Schedules 2–4: Royal Assent</div>
   </td>
   <td>
     <div>Schs. 2–4 \[ <i>see</i>Note 1]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Crimes Legislation Amendment (Serious and Organised Crime) Act (No. 2) 2010</div>
-  </td>
-  <td>
-    <div>4, 2010</div>
-  </td>
-  <td>
-    <div>19 Feb 2010</div>
-  </td>
-  <td>
-    <div>Schedule 10 (item 18): 20 Feb 2010</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2010</div>
-  </td>
-  <td>
-    <div>8, 2010</div>
-  </td>
-  <td>
-    <div>1 Mar 2010</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 19–24): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
   </td>
 </tr></table>
 
@@ -10411,38 +10375,27 @@ _(p)_ Subsection 2(1) (item 10) of the _Defence Legislation Amendment Act 2008_ 
 <table>
 <colgroup>
   <col width="35%">
-  <col width="0%">
-  <col width="64%">
-  <col width="0%">
+  <col width="65%">
 </colgroup>
 
 <thead>
   <tr>
-    <td colspan="3">
+    <td colspan="2">
       <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-    <td>
-      <div></div>
     </td>
   </tr>
   <tr>
     <td>
       <div>Provision affected</div>
     </td>
-    <td colspan="2">
-      <div>How affected</div>
-    </td>
     <td>
-      <div></div>
+      <div>How affected</div>
     </td>
   </tr>
 </thead>
 <tr>
   <td>
     <div><b>Part I</b></div>
-  </td>
-  <td colspan="2">
-    <div></div>
   </td>
   <td>
     <div></div>
@@ -10452,85 +10405,61 @@ _(p)_ Subsection 2(1) (item 10) of the _Defence Legislation Amendment Act 2008_ 
   <td>
     <div>S. 3</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 164, 1984; No. 28, 1986; No. 65, 1987; No. 104, 1988; No. 28, 1991; No. 43, 1995; No. 56, 1996; No. 1, 1997; Nos. 10 and 141, 2001; No. 135, 2003; Nos. 121 and 142, 2005; No. 159, 2006; No. 6, 2008; No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 164, 1984; No. 28, 1986; No. 65, 1987; No. 104, 1988; No. 28, 1991; No. 43, 1995; No. 56, 1996; No. 1, 1997; Nos. 10 and 141, 2001; No. 135, 2003; Nos. 121 and 142, 2005; No. 159, 2006; No. 6, 2008; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 4</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 5</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 1, 1997</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 1, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 5A</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>ad. No. 142, 2005</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
+  <td>
     <div>am. No. 159, 2006</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Ss. 6, 7</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 164, 1984</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 164, 1984</div>
   </td>
 </tr>
 <tr>
   <td>
     <div><b>Part II</b></div>
-  </td>
-  <td colspan="2">
-    <div></div>
   </td>
   <td>
     <div></div>
@@ -10540,74 +10469,53 @@ _(p)_ Subsection 2(1) (item 10) of the _Defence Legislation Amendment Act 2008_ 
   <td>
     <div>S. 10</div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 141, 2001</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 141, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 11</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995; No. 141, 2001 (as am. by No. 63, 2002)</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995; No. 141, 2001 (as am. by No. 63, 2002)</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 12</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 28, 1991</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 28, 1991</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rep. No. 141, 2001</div>
-  </td>
   <td>
-    <div></div>
+    <div>rep. No. 141, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 13</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rep. No. 141, 2001</div>
-  </td>
   <td>
-    <div></div>
+    <div>rep. No. 141, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
     <div><b>Part III</b></div>
-  </td>
-  <td colspan="2">
-    <div></div>
   </td>
   <td>
     <div></div>
@@ -10616,9 +10524,6 @@ _(p)_ Subsection 2(1) (item 10) of the _Defence Legislation Amendment Act 2008_ 
 <tr>
   <td>
     <div><b>Division 1</b></div>
-  </td>
-  <td colspan="2">
-    <div></div>
   </td>
   <td>
     <div></div>
@@ -10628,140 +10533,101 @@ _(p)_ Subsection 2(1) (item 10) of the _Defence Legislation Amendment Act 2008_ 
   <td>
     <div>Div. 1 of Part III</div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 141, 2001</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 141, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 15</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 164, 1984; No. 43, 1995</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 164, 1984; No. 43, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 141, 2001</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 141, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Ss. 15A–15G</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 141, 2001</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 141, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 16</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 164, 1984; No. 43, 1995</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 164, 1984; No. 43, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rs. No 141, 2001</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No 141, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Ss. 16A, 16B</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 141, 2001</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 141, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 17</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 141, 2001</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 141, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 18</div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 141, 2001</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 141, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 19</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 141, 2001</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 141, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
     <div><b>Division 2</b></div>
-  </td>
-  <td colspan="2">
-    <div></div>
   </td>
   <td>
     <div></div>
@@ -10771,74 +10637,53 @@ _(p)_ Subsection 2(1) (item 10) of the _Defence Legislation Amendment Act 2008_ 
   <td>
     <div>Div. 2 of Part III</div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 141, 2001</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 141, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Ss. 20, 21</div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 141, 2001</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 141, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 22</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 164, 1984; No. 43, 1995</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 164, 1984; No. 43, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 141, 2001</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 141, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Ss. 23, 24</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 141, 2001</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 141, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
     <div><b>Division 3</b></div>
-  </td>
-  <td colspan="2">
-    <div></div>
   </td>
   <td>
     <div></div>
@@ -10848,184 +10693,133 @@ _(p)_ Subsection 2(1) (item 10) of the _Defence Legislation Amendment Act 2008_ 
   <td>
     <div>Div. 3 of Part III</div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 141, 2001</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 141, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 25</div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 141, 2001</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 141, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Ss. 26–29</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 141, 2001</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 141, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 30</div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 141, 2001</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 141, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Heading to s. 31</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 141, 2001</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 141, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 31</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 141, 2001</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 141, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 32</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 164, 1984; No. 43, 1995</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 164, 1984; No. 43, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 141, 2001</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 141, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 33</div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 141, 2001</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 141, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Heading to s. 34</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 135, 2003</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 135, 2003</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 34</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>am. No. 43, 1995</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
+  <td>
     <div>rs. No. 141, 2001</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>am. No. 135, 2003</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 135, 2003</div>
   </td>
 </tr>
 <tr>
   <td>
     <div><b>Division 4</b></div>
-  </td>
-  <td colspan="2">
-    <div></div>
   </td>
   <td>
     <div></div>
@@ -11035,118 +10829,85 @@ _(p)_ Subsection 2(1) (item 10) of the _Defence Legislation Amendment Act 2008_ 
   <td>
     <div>Div. 4 of Part III</div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 141, 2001</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 141, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 35</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 141, 2001; No. 135, 2003</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 141, 2001; No. 135, 2003</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 36</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 141, 2001</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 141, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 36A</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 43, 1995</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 43, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 141, 2001; No. 135, 2003</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 141, 2001; No. 135, 2003</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 36B</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 135, 2003</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 135, 2003</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Ss. 37, 38</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 141, 2001</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 141, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
     <div><b>Division 5</b></div>
-  </td>
-  <td colspan="2">
-    <div></div>
   </td>
   <td>
     <div></div>
@@ -11156,129 +10917,93 @@ _(p)_ Subsection 2(1) (item 10) of the _Defence Legislation Amendment Act 2008_ 
   <td>
     <div>Div. 5 of Part III</div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 141, 2001</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 141, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 39</div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 141, 2001</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 141, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 40</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 141, 2001</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 141, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 40A</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 141, 2001</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 141, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 40B</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 141, 2001</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 141, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rep. No. 135, 2003</div>
-  </td>
   <td>
-    <div></div>
+    <div>rep. No. 135, 2003</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Ss. 40C, 40D</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 141, 2001</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 141, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 41</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 141, 2001</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 141, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 42</div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 141, 2001</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 141, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
     <div><b>Division 5A</b></div>
-  </td>
-  <td colspan="2">
-    <div></div>
   </td>
   <td>
     <div></div>
@@ -11288,19 +11013,13 @@ _(p)_ Subsection 2(1) (item 10) of the _Defence Legislation Amendment Act 2008_ 
   <td>
     <div>Div. 5A of Part III</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 141, 2001</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 141, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
     <div><b>Subdivision A</b></div>
-  </td>
-  <td colspan="2">
-    <div></div>
   </td>
   <td>
     <div></div>
@@ -11310,63 +11029,45 @@ _(p)_ Subsection 2(1) (item 10) of the _Defence Legislation Amendment Act 2008_ 
   <td>
     <div>S. 43</div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 141, 2001</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 141, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 44</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 164, 1984; No. 43, 1995</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 164, 1984; No. 43, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 141, 2001</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 141, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 45</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 141, 2001</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 141, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
     <div><b>Subdivision B</b></div>
-  </td>
-  <td colspan="2">
-    <div></div>
   </td>
   <td>
     <div></div>
@@ -11376,30 +11077,21 @@ _(p)_ Subsection 2(1) (item 10) of the _Defence Legislation Amendment Act 2008_ 
   <td>
     <div>S. 46</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 141, 2001</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 141, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
     <div><b>Subdivision C</b></div>
-  </td>
-  <td colspan="2">
-    <div></div>
   </td>
   <td>
     <div></div>
@@ -11409,52 +11101,37 @@ _(p)_ Subsection 2(1) (item 10) of the _Defence Legislation Amendment Act 2008_ 
   <td>
     <div>S. 47</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 141, 2001</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 141, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Ss. 47A–47H</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 141, 2001</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 141, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Ss. 47J–47N, 47P</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 141, 2001</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 141, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
     <div><b>Subdivision D</b></div>
-  </td>
-  <td colspan="2">
-    <div></div>
   </td>
   <td>
     <div></div>
@@ -11464,30 +11141,21 @@ _(p)_ Subsection 2(1) (item 10) of the _Defence Legislation Amendment Act 2008_ 
   <td>
     <div>S. 48</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 164, 1984</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 164, 1984</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 141, 2001</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 141, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
     <div><b>Division 6</b></div>
-  </td>
-  <td colspan="2">
-    <div></div>
   </td>
   <td>
     <div></div>
@@ -11497,162 +11165,117 @@ _(p)_ Subsection 2(1) (item 10) of the _Defence Legislation Amendment Act 2008_ 
   <td>
     <div>Div. 6 of Part III</div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 141, 2001</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 141, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 49</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 141, 2001</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 141, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 49A</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 141, 2001</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 141, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 50</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 141, 2001</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 141, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 51</div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 141, 2001</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 141, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 52</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 141, 2001</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 141, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 53</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>am. No. 43, 1995</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
+  <td>
     <div>rs. No. 141, 2001</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>am. No. 159, 2006; No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 159, 2006; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 54</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 141, 2001</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 141, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
     <div><b>Division 6A</b></div>
-  </td>
-  <td colspan="2">
-    <div></div>
   </td>
   <td>
     <div></div>
@@ -11662,52 +11285,37 @@ _(p)_ Subsection 2(1) (item 10) of the _Defence Legislation Amendment Act 2008_ 
   <td>
     <div>Div. 6A of Part III</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 164, 1984</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 164, 1984</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 54A</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 164, 1984</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 164, 1984</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995; No. 141, 2001; No. 4, 2010</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995; No. 141, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Note to s. 54A(3)</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 141, 2001</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 141, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
     <div><b>Division 7</b></div>
-  </td>
-  <td colspan="2">
-    <div></div>
   </td>
   <td>
     <div></div>
@@ -11717,151 +11325,109 @@ _(p)_ Subsection 2(1) (item 10) of the _Defence Legislation Amendment Act 2008_ 
   <td>
     <div>Div. 7 of Part III</div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 141, 2001</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 141, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Ss. 55–57</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 141, 2001</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 141, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 58</div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 141, 2001</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 141, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Heading to s. 59</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 6, 2008</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 6, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Subhead. to s. 59(1)</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 6, 2008</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 6, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Subhead. to s. 59(3)</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 6, 2008</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 6, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Subhead. to s. 59(5)</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 6, 2008</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 6, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 59</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>am. No. 43, 1995</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
+  <td>
     <div>rs. No. 141, 2001</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>am. No. 6, 2008; No. 8, 2010</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 6, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 60</div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 141, 2001</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 141, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>am. No. 6, 2008</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 6, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
     <div><b>Division 8</b></div>
-  </td>
-  <td colspan="2">
-    <div></div>
   </td>
   <td>
     <div></div>
@@ -11871,41 +11437,29 @@ _(p)_ Subsection 2(1) (item 10) of the _Defence Legislation Amendment Act 2008_ 
   <td>
     <div>Div. 8 of Part III</div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 141, 2001</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 141, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 61</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 28, 1991; No. 43, 1995</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 28, 1991; No. 43, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 141, 2001</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 141, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
     <div><b>Division 9</b></div>
-  </td>
-  <td colspan="2">
-    <div></div>
   </td>
   <td>
     <div></div>
@@ -11915,41 +11469,29 @@ _(p)_ Subsection 2(1) (item 10) of the _Defence Legislation Amendment Act 2008_ 
   <td>
     <div>S. 62</div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 141, 2001</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 141, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 63</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 75, 1990; No. 28, 1991; No. 43, 1995; No. 56, 1996; No. 121, 2005</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 75, 1990; No. 28, 1991; No. 43, 1995; No. 56, 1996; No. 121, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 64</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 121, 2005</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 121, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
     <div><b>Part IV</b></div>
-  </td>
-  <td colspan="2">
-    <div></div>
   </td>
   <td>
     <div></div>
@@ -11959,294 +11501,213 @@ _(p)_ Subsection 2(1) (item 10) of the _Defence Legislation Amendment Act 2008_ 
   <td>
     <div>S. 67</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 164, 1984; No. 159, 2006; No. 6, 2008; No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 164, 1984; No. 159, 2006; No. 6, 2008; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 68</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 164, 1984; No. 43, 1995; No. 1, 1997; No. 121, 2005</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 164, 1984; No. 43, 1995; No. 1, 1997; No. 121, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 68A</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 164, 1984</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 164, 1984</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>am. No. 1, 1997; No. 121, 2005</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 1, 1997; No. 121, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 68B</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>ad. No. 164, 1984</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
+  <td>
     <div>am. No. 193, 1985; Nos. 99 and 104, 1988</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rep. No. 121, 2005</div>
-  </td>
   <td>
-    <div></div>
+    <div>rep. No. 121, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 68C</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 164, 1984</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 164, 1984</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 70</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 164, 1984; No. 43, 1995; No. 141, 2001</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 164, 1984; No. 43, 1995; No. 141, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 71</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 164, 1984; No. 43, 1995; No. 6, 2008</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 164, 1984; No. 43, 1995; No. 6, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 72</div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 4, 1990</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 4, 1990</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>am. No. 28, 1991; No. 135, 2003</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 28, 1991; No. 135, 2003</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 74</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 164, 1984; No. 43, 1995; No. 6, 2008; No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 164, 1984; No. 43, 1995; No. 6, 2008; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 75</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 76</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995; No. 6, 2008</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995; No. 6, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 77</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995; No. 159, 2006</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995; No. 159, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 78</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 6, 2008</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 6, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 79</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 80</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 164, 1984; No. 159, 2006; No. 6, 2008</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 164, 1984; No. 159, 2006; No. 6, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 81</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 6, 2008; No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 6, 2008; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 82</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 6, 2008</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 6, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 83</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 84</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 164, 1984; No. 99, 1988</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 164, 1984; No. 99, 1988</div>
   </td>
 </tr>
 <tr>
   <td>
     <div><b>Part V</b></div>
-  </td>
-  <td colspan="2">
-    <div></div>
   </td>
   <td>
     <div></div>
@@ -12256,173 +11717,125 @@ _(p)_ Subsection 2(1) (item 10) of the _Defence Legislation Amendment Act 2008_ 
   <td>
     <div>S. 86A</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 65, 1985</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 65, 1985</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>am. No. 76, 1986</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 76, 1986</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 87</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 164, 1984; No. 43, 1995; No. 142, 2005; No. 159, 2006; No. 6, 2008; No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 164, 1984; No. 43, 1995; No. 142, 2005; No. 159, 2006; No. 6, 2008; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Note to s. 87(1)</div>
   </td>
-  <td colspan="2">
-    <div>rep. No. 159, 2006</div>
-  </td>
   <td>
-    <div></div>
+    <div>rep. No. 159, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 88</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995; No. 142, 2005; No. 159, 2006; No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995; No. 142, 2005; No. 159, 2006; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 89</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995; No. 43, 1996</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995; No. 43, 1996</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 90</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Ss. 92, 93</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 94</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995; No. 43, 1996</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995; No. 43, 1996</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 95</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995; No. 1, 1997; No. 142, 2005</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995; No. 1, 1997; No. 142, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 95A</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 164, 1984</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 164, 1984</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 96</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 28, 1991; No. 43, 1995; No. 116, 1999; No. 141, 2001; No. 121, 2005</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 28, 1991; No. 43, 1995; No. 116, 1999; No. 141, 2001; No. 121, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 97</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995; No. 1, 1997; No. 142, 2005</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995; No. 1, 1997; No. 142, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Ss. 99, 100</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995; No. 6, 2008; No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995; No. 6, 2008; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div><b>Part VI</b></div>
-  </td>
-  <td colspan="2">
-    <div></div>
   </td>
   <td>
     <div></div>
@@ -12432,19 +11845,13 @@ _(p)_ Subsection 2(1) (item 10) of the _Defence Legislation Amendment Act 2008_ 
   <td>
     <div>Part VI</div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 164, 1984</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 164, 1984</div>
   </td>
 </tr>
 <tr>
   <td>
     <div><b>Division 1</b></div>
-  </td>
-  <td colspan="2">
-    <div></div>
   </td>
   <td>
     <div></div>
@@ -12454,52 +11861,37 @@ _(p)_ Subsection 2(1) (item 10) of the _Defence Legislation Amendment Act 2008_ 
   <td>
     <div>S. 101</div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 164, 1984</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 164, 1984</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 101AA</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 65, 1985</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 65, 1985</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>am. No. 76, 1986</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 76, 1986</div>
   </td>
 </tr>
 <tr>
   <td>
     <div><b>Division 2</b></div>
-  </td>
-  <td colspan="2">
-    <div></div>
   </td>
   <td>
     <div></div>
@@ -12509,206 +11901,149 @@ _(p)_ Subsection 2(1) (item 10) of the _Defence Legislation Amendment Act 2008_ 
   <td>
     <div>S. 101A</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 164, 1984</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 164, 1984</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 101B</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 164, 1984</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 164, 1984</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Heading to s. 101C</div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 135, 2003</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 135, 2003</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 101C</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 164, 1984</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 164, 1984</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995; No. 135, 2003</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995; No. 135, 2003</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Heading to s. 101D</div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 135, 2003</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 135, 2003</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 101D</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>ad. No. 164, 1984</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
+  <td>
     <div>rs. No. 43, 1995</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>am. No. 135, 2003</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 135, 2003</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 101E</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 164, 1984</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 164, 1984</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 43, 1995</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 43, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 101F</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 164, 1984</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 164, 1984</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995; No. 159, 2006; No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995; No. 159, 2006; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 101G</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 164, 1984</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 164, 1984</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 43, 1995</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 43, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 101H</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 164, 1984</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 164, 1984</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
     <div><b>Division 3</b></div>
-  </td>
-  <td colspan="2">
-    <div></div>
   </td>
   <td>
     <div></div>
@@ -12718,74 +12053,53 @@ _(p)_ Subsection 2(1) (item 10) of the _Defence Legislation Amendment Act 2008_ 
   <td>
     <div>S. 101J</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 164, 1984</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 164, 1984</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>am. No. 159, 2006; No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 159, 2006; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 101JA</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 43, 1995</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 43, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>am. No. 159, 2006; No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 159, 2006; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 101K</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 164, 1984</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 164, 1984</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995; No. 159, 2006; No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995; No. 159, 2006; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div><b>Division 4</b></div>
-  </td>
-  <td colspan="2">
-    <div></div>
   </td>
   <td>
     <div></div>
@@ -12795,118 +12109,85 @@ _(p)_ Subsection 2(1) (item 10) of the _Defence Legislation Amendment Act 2008_ 
   <td>
     <div>Ss. 101L–101N</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 164, 1984</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 164, 1984</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 101P</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 164, 1984</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 164, 1984</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 101Q</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 164, 1984</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 164, 1984</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995; No. 159, 2006; No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995; No. 159, 2006; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 101QA</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 43, 1995</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 43, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>am. No. 141, 2001</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 141, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Note to s. 101QA(4)</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 141, 2001</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 141, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 101R</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 164, 1984</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 164, 1984</div>
   </td>
 </tr>
 <tr>
   <td>
     <div><b>Division 5</b></div>
-  </td>
-  <td colspan="2">
-    <div></div>
   </td>
   <td>
     <div></div>
@@ -12916,30 +12197,21 @@ _(p)_ Subsection 2(1) (item 10) of the _Defence Legislation Amendment Act 2008_ 
   <td>
     <div>Ss. 101S–101U</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 164, 1984</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 164, 1984</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
     <div><b>Division 6</b></div>
-  </td>
-  <td colspan="2">
-    <div></div>
   </td>
   <td>
     <div></div>
@@ -12949,140 +12221,101 @@ _(p)_ Subsection 2(1) (item 10) of the _Defence Legislation Amendment Act 2008_ 
   <td>
     <div>Ss. 101V, 101W</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 164, 1984</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 164, 1984</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>am. No. 76, 1986</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 76, 1986</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 101X</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 164, 1984</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 164, 1984</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995 (as am. by No. 43, 1996)</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995 (as am. by No. 43, 1996)</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Ss. 101Y, 101Z</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 164, 1984</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 164, 1984</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 101ZA</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 164, 1984</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 164, 1984</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995; No. 43, 1996</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995; No. 43, 1996</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Div. 6A of Part VI</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 6, 2008</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 6, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rep. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rep. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 101ZAA</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 6, 2008</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 6, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rep. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rep. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div><b>Division 7</b></div>
-  </td>
-  <td colspan="2">
-    <div></div>
   </td>
   <td>
     <div></div>
@@ -13092,30 +12325,21 @@ _(p)_ Subsection 2(1) (item 10) of the _Defence Legislation Amendment Act 2008_ 
   <td>
     <div>S. 101ZB</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 164, 1984</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 164, 1984</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>am. No. 159, 2006; No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 159, 2006; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div><b>Division 8</b></div>
-  </td>
-  <td colspan="2">
-    <div></div>
   </td>
   <td>
     <div></div>
@@ -13125,19 +12349,13 @@ _(p)_ Subsection 2(1) (item 10) of the _Defence Legislation Amendment Act 2008_ 
   <td>
     <div>S. 101ZC</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 164, 1984</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 164, 1984</div>
   </td>
 </tr>
 <tr>
   <td>
     <div><b>Part VII</b></div>
-  </td>
-  <td colspan="2">
-    <div></div>
   </td>
   <td>
     <div></div>
@@ -13146,9 +12364,6 @@ _(p)_ Subsection 2(1) (item 10) of the _Defence Legislation Amendment Act 2008_ 
 <tr>
   <td>
     <div><b>Division 1</b></div>
-  </td>
-  <td colspan="2">
-    <div></div>
   </td>
   <td>
     <div></div>
@@ -13158,77 +12373,56 @@ _(p)_ Subsection 2(1) (item 10) of the _Defence Legislation Amendment Act 2008_ 
   <td>
     <div>Heading to Div. 1 of Part VII</div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 142, 2005</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 142, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 102</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 1, 1997</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 1, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rep. No. 142, 2005</div>
-  </td>
   <td>
-    <div></div>
+    <div>rep. No. 142, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Heading to s. 103</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 142, 2005</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 142, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 103</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 164, 1984; No. 135, 2003; No. 142, 2005; No. 159, 2006; No. 6, 2008; No. 91, 2009; No. 8, 2010</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 164, 1984; No. 135, 2003; No. 142, 2005; No. 159, 2006; No. 6, 2008; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Note to s. 103(1)</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 135, 2003</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 135, 2003</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rep. No. 142, 2005</div>
-  </td>
   <td>
-    <div></div>
+    <div>rep. No. 142, 2005</div>
   </td>
 </tr>
 <tr>
@@ -13237,142 +12431,103 @@ _(p)_ Subsection 2(1) (item 10) of the _Defence Legislation Amendment Act 2008_ 
 Renumbered Note 
 Renumbered Note 1</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>ad. No. 142, 2005 
 No. 159, 2006 
 No. 91, 2009</div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Note 2 to s. 103(1)</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>ad. No. 142, 2005</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
+  <td>
     <div>rep. No. 159, 2006</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Note to s. 103(2)</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 135, 2003</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 135, 2003</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rep. No. 159, 2006</div>
-  </td>
   <td>
-    <div></div>
+    <div>rep. No. 159, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Note to s. 103(4)</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 135, 2003</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 135, 2003</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rep. No. 159, 2006</div>
-  </td>
   <td>
-    <div></div>
+    <div>rep. No. 159, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Note to s. 103(6)</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 135, 2003</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 135, 2003</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rep. No. 159, 2006</div>
-  </td>
   <td>
-    <div></div>
+    <div>rep. No. 159, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 103A</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 6, 2008</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 6, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rep. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rep. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div><b>Division 2</b></div>
-  </td>
-  <td colspan="2">
-    <div></div>
   </td>
   <td>
     <div></div>
@@ -13382,316 +12537,229 @@ No. 91, 2009</div>
   <td>
     <div>S. 104</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 164, 1984; No. 75, 1990; No. 43, 1995; No. 56, 1996; No. 121, 2005</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 164, 1984; No. 75, 1990; No. 43, 1995; No. 56, 1996; No. 121, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 105</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 1, 1997</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 1, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 105A</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 142, 2005</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 142, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 106</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995; No. 6, 2008</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995; No. 6, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Note to s. 106</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 6, 2008</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 6, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 107</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Note to s. 107</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 6, 2008</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 6, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 108</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 164, 1984</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 164, 1984</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Notes to s. 108(2), (3)</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 6, 2008</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 6, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 108A</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 6, 2008</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 6, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 109</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 164, 1984; No. 142, 2005</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 164, 1984; No. 142, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 110</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 164, 1984; No. 43, 1995; No. 142, 2005</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 164, 1984; No. 43, 1995; No. 142, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 111</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 164, 1984; No. 65, 1985; No. 65, 1987; No. 43, 1995</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 164, 1984; No. 65, 1985; No. 65, 1987; No. 43, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 111A</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 164, 1984</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 164, 1984</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995 (as am. by No. 43, 1996); No. 6, 2008</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995 (as am. by No. 43, 1996); No. 6, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Note to s. 111A(1)</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 6, 2008</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 6, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Heading to s. 111B</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 111B</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 6, 2008</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 6, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>am. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Note 1 to s. 111B(1)</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Note 3 to s. 111B(1)</div>
   </td>
-  <td colspan="2">
-    <div>rep. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rep. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Heading to s. 111C</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Subhead. to s. 111C(3)</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Subhead. to s. 111C(5)</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 111C</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 6, 2008</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 6, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>am. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 113</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 1, 1997</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 1, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
     <div><b>Division 3</b></div>
-  </td>
-  <td colspan="2">
-    <div></div>
   </td>
   <td>
     <div></div>
@@ -13701,503 +12769,365 @@ No. 91, 2009</div>
   <td>
     <div>Div. 3 of Part VII</div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 159, 2006; No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 159, 2006; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 114</div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 159, 2006; No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 159, 2006; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 115</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>am. No. 164, 1984</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
+  <td>
     <div>rs. No. 159, 2006</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
+  <td>
     <div>am. No. 6, 2008</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 116</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>am. No. 164, 1984; No. 43, 1995</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
+  <td>
     <div>rs. No. 159, 2006</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
+  <td>
     <div>am. No. 6, 2008</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 117</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 159, 2006; No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 159, 2006; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 118</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>am. No. 43, 1995</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
+  <td>
     <div>rep. No. 135, 2003</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
+  <td>
     <div>ad. No. 159, 2006</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
+  <td>
     <div>am. No. 6, 2008</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rep. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rep. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 119</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995; No. 142, 2005</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995; No. 142, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 159, 2006; No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 159, 2006; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Note to s. 119(1)</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>ad. No. 135, 2003</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
+  <td>
     <div>am. No. 142, 2005</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rep. No. 159, 2006</div>
-  </td>
   <td>
-    <div></div>
+    <div>rep. No. 159, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 120</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995; No. 142, 2005</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995; No. 142, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 159, 2006; No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 159, 2006; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 121</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 142, 2005</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 142, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 159, 2006; No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 159, 2006; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 122</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>am. No. 43, 1995; No. 142, 2005</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
+  <td>
     <div>rs. No. 159, 2006</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
+  <td>
     <div>am. No. 6, 2008</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 123</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 142, 2005</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 142, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 159, 2006; No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 159, 2006; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Note to s. 123</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>ad. No. 135, 2003</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
+  <td>
     <div>am. No. 142, 2005</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rep. No. 159, 2006</div>
-  </td>
   <td>
-    <div></div>
+    <div>rep. No. 159, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 124</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995; No. 142, 2005</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995; No. 142, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 159, 2006; No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 159, 2006; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Note to s. 124(3)</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>ad. No. 135, 2003</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
+  <td>
     <div>am. No. 142, 2005</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rep. No. 159, 2006</div>
-  </td>
   <td>
-    <div></div>
+    <div>rep. No. 159, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 125</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>am. No. 43, 1995; No. 142, 2005</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
+  <td>
     <div>rep. No. 159, 2006</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 126</div>
   </td>
-  <td colspan="2">
-    <div>rep. No. 159, 2006</div>
-  </td>
   <td>
-    <div></div>
+    <div>rep. No. 159, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div><b>Division 4</b></div>
-  </td>
-  <td colspan="2">
-    <div></div>
   </td>
   <td>
     <div></div>
@@ -14207,184 +13137,133 @@ No. 91, 2009</div>
   <td>
     <div>Div. 4 of Part VII</div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 159, 2006; No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 159, 2006; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 127</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>am. No. 43, 1995</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
+  <td>
     <div>rep. No. 159, 2006</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Note to s. 127</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 135, 2003</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 135, 2003</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rep. No. 159, 2006</div>
-  </td>
   <td>
-    <div></div>
+    <div>rep. No. 159, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 128</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>am. No. 43, 1995</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
+  <td>
     <div>rep. No. 159, 2006</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 129</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 129A</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>ad. No. 164, 1984</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
+  <td>
     <div>am. No. 142, 2005</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
+  <td>
     <div>rep. No. 159, 2006</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Note to s. 129A(4)</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 135, 2003</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 135, 2003</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rep. No. 159, 2006</div>
-  </td>
   <td>
-    <div></div>
+    <div>rep. No. 159, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
     <div><b>Division 5</b></div>
-  </td>
-  <td colspan="2">
-    <div></div>
   </td>
   <td>
     <div></div>
@@ -14394,118 +13273,85 @@ No. 91, 2009</div>
   <td>
     <div>Div. 5 of Part VII</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>ad. No. 135, 2003</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
+  <td>
     <div>rep. No. 159, 2006</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Heading to s. 129B</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>am. No. 142, 2005</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
+  <td>
     <div>rep. No. 159, 2006</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Ss. 129B, 129C</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>ad. No. 135, 2003</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
+  <td>
     <div>am. No. 142, 2005</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
+  <td>
     <div>rep. No. 159, 2006</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div><b>Part VIII</b></div>
-  </td>
-  <td colspan="2">
-    <div></div>
   </td>
   <td>
     <div></div>
@@ -14515,9 +13361,6 @@ No. 91, 2009</div>
   <td>
     <div><b>Division 1</b></div>
   </td>
-  <td colspan="2">
-    <div></div>
-  </td>
   <td>
     <div></div>
   </td>
@@ -14526,261 +13369,189 @@ No. 91, 2009</div>
   <td>
     <div>S. 129</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>am. No. 164, 1984; No. 43, 1995</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
+  <td>
     <div>rep. No. 159, 2006</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 6, 2008</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 6, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Renumbered s. 129D..........</div>
   </td>
-  <td colspan="2">
-    <div>No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 130</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 164, 1984; No. 43, 1995; No. 142, 2005; No. 6, 2008</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 164, 1984; No. 43, 1995; No. 142, 2005; No. 6, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 130A</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>ad. No. 164, 1984</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
+  <td>
     <div>am. No. 159, 2006</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rep. No. 6, 2008</div>
-  </td>
   <td>
-    <div></div>
+    <div>rep. No. 6, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Heading to s. 131</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 131</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>am. No. 65, 1987; No. 43, 1995; No. 142, 2005; No. 159, 2006</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
+  <td>
     <div>rs. No. 6, 2008</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>am. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Note 1 to s. 131(3)</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Note 3 to s. 131(3)</div>
   </td>
-  <td colspan="2">
-    <div>rep. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rep. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Heading to s. 131AA</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Subhead. to s. 131AA(3)</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Subhead. to s. 131AA(5)</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 131AA</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 6, 2008</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 6, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>am. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Heading to s. 131A</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 142, 2005</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 142, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 131A</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 164, 1984</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 164, 1984</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995; No. 142, 2005</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995; No. 142, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 131B</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 6, 2008</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 6, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
     <div><b>Division 2</b></div>
-  </td>
-  <td colspan="2">
-    <div></div>
   </td>
   <td>
     <div></div>
@@ -14791,372 +13562,270 @@ No. 91, 2009</div>
     <div>Heading to Div. 2 of 
 Part VIII</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>
 rs. No. 159, 2006; No. 91, 2009</div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Div. 2 of Part VIII</div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 132</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>am. No. 164, 1984; No. 43, 1995; No. 142, 2005</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
+  <td>
     <div>rep. No. 159, 2006</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
+  <td>
     <div>ad. No. 6, 2008</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 132A</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>ad. No. 159, 2006</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
+  <td>
     <div>rs. No. 6, 2008</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rep. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rep. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 132AA</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 6, 2008</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 6, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rep. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rep. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 132AB</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>ad. No. 6, 2008</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
+  <td>
     <div>am. No. 6, 2008</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rep. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rep. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Ss. 132B–132F</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 159, 2006</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 159, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rep. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rep. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 133</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>am. No. 164, 1984</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
+  <td>
     <div>rep. No. 159, 2006</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 134</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>am. No. 28, 1991; No. 43, 1995</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
+  <td>
     <div>rep. No. 159, 2006</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 135</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>am. No. 164, 1984; No. 43, 1995; No. 142, 2005</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
+  <td>
     <div>rep. No. 159, 2006</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Heading to s. 136</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 159, 2006</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 159, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 136</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995; No. 159, 2006</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995; No. 159, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Heading to s. 137</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 159, 2006</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 159, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 137</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995; No. 142, 2005; No. 159, 2006</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995; No. 142, 2005; No. 159, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div><b>Division 3</b></div>
-  </td>
-  <td colspan="2">
-    <div></div>
   </td>
   <td>
     <div></div>
@@ -15166,9 +13835,6 @@ rs. No. 159, 2006; No. 91, 2009</div>
   <td>
     <div><b>Subdivision A</b></div>
   </td>
-  <td colspan="2">
-    <div></div>
-  </td>
   <td>
     <div></div>
   </td>
@@ -15177,295 +13843,214 @@ rs. No. 159, 2006; No. 91, 2009</div>
   <td>
     <div>Heading to Subdiv. A of Div. 3 of Part VIII</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>ad. No. 159, 2006 
 rs. No. 6, 2008</div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 137A</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 6, 2008</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 6, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rep. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rep. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 138</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995; No. 159, 2006; No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995; No. 159, 2006; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Subhead. to s. 139(1)</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 6, 2008</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 6, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 139</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995; No. 159, 2006; No. 6, 2008; No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995; No. 159, 2006; No. 6, 2008; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 140</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995; No. 1, 1997</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995; No. 1, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 159, 2006; No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 159, 2006; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 141</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995; No. 142, 2005; No. 159, 2006; No. 6, 2008; No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995; No. 142, 2005; No. 159, 2006; No. 6, 2008; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 141A</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>ad. No. 164, 1984</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
+  <td>
     <div>am. No. 43, 1995; No. 142, 2005; No. 159, 2006</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 142</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 164, 1984; No. 28, 1991; No. 141, 2001; No. 121, 2005</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 164, 1984; No. 28, 1991; No. 141, 2001; No. 121, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 144</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995; No. 159, 2006; No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995; No. 159, 2006; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Note to s. 144(1)</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 6, 2008</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 6, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rep. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rep. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 145</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995; No. 141, 2001; No. 142, 2005; No. 159, 2006; No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995; No. 141, 2001; No. 142, 2005; No. 159, 2006; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 145A</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>ad. No. 164, 1984</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
+  <td>
     <div>am. No. 43, 1995 (as am. by No. 43, 1996); No. 142, 2005; No. 159, 2006</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Heading to s. 146</div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 6, 2008; No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 6, 2008; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 146</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 28, 1991; No. 6, 2008; No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 28, 1991; No. 6, 2008; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 146A</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 6, 2008</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 6, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 147</div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 159, 2006; No. 6, 2008</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 159, 2006; No. 6, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>am. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 148</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 159, 2006; No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 159, 2006; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div><b>Subdivision B</b></div>
-  </td>
-  <td colspan="2">
-    <div></div>
   </td>
   <td>
     <div></div>
@@ -15476,12 +14061,9 @@ rs. No. 6, 2008</div>
     <div>Heading to Subdiv. B of 
 Div. 3 of Part VIII</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>
 rs. No. 91, 2009</div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
@@ -15489,63 +14071,46 @@ rs. No. 91, 2009</div>
     <div>Subdiv. B of Div. 3 of 
 Part VIII</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>
 ad. No. 159, 2006</div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Ss. 148A–148E</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>ad. No. 159, 2006</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
+  <td>
     <div>am. No. 91, 2009</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
-  <td colspan="2">
-    <div>S. 146EA 
-Renumbered s. 148EA</div>
+  <td>
+    <div>S. 146EA</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 91, 2009 
-No. 8, 2010</div>
+  <td>
+    <div>ad. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 148F</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 159, 2006</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 159, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
     <div><b>Subdivision C</b></div>
-  </td>
-  <td colspan="2">
-    <div></div>
   </td>
   <td>
     <div></div>
@@ -15556,86 +14121,62 @@ No. 8, 2010</div>
     <div>Heading to Subdiv. C of 
 Div. 3 of Part VIII</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>
 ad. No. 159, 2006</div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 149</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>am. No. 164, 1984; No. 99, 1988; Nos. 121 and 142, 2005</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
+  <td>
     <div>rs. No. 159, 2006</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>am. No. 6, 2008; No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 6, 2008; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Heading to s. 149A</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 149A</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 159, 2006</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 159, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>am. No. 6, 2008; No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 6, 2008; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div><b>Part VIIIA</b></div>
-  </td>
-  <td colspan="2">
-    <div></div>
   </td>
   <td>
     <div></div>
@@ -15645,30 +14186,21 @@ ad. No. 159, 2006</div>
   <td>
     <div>Heading to Part VIIIA</div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Part VIIIA</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 6, 2008</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 6, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
     <div><b>Division 1</b></div>
-  </td>
-  <td colspan="2">
-    <div></div>
   </td>
   <td>
     <div></div>
@@ -15678,74 +14210,53 @@ ad. No. 159, 2006</div>
   <td>
     <div>Heading to Div. 1 of Part VIIIA.</div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 150</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 1, 1997; No. 159, 2006</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 1, 1997; No. 159, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 6, 2008; No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 6, 2008; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 150A</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>ad. No. 135, 2003</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
+  <td>
     <div>am. No. 142, 2005; No. 159, 2006</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 6, 2008; No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 6, 2008; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div><b>Division 2</b></div>
-  </td>
-  <td colspan="2">
-    <div></div>
   </td>
   <td>
     <div></div>
@@ -15755,217 +14266,157 @@ ad. No. 159, 2006</div>
   <td>
     <div>S. 151</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>am. No. 65, 1985; No. 43, 1995; No. 135, 2003</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
+  <td>
     <div>rs. No. 6, 2008</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rep. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rep. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 152</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 135, 2003; No. 159, 2006</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 135, 2003; No. 159, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 6, 2008; No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 6, 2008; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 153</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995; No. 135, 2003; No. 159, 2006</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995; No. 135, 2003; No. 159, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 6, 2008; No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 6, 2008; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 153A</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 6, 2008</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 6, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rep. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rep. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 154</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 65, 1985; No. 43, 1995; No. 1, 1997; No. 135, 2003; No. 159, 2006</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 65, 1985; No. 43, 1995; No. 1, 1997; No. 135, 2003; No. 159, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 6, 2008; No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 6, 2008; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Heading to s. 155</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 1, 1997</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 1, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 6, 2008; No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 6, 2008; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 155</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995; No. 1, 1997 (as am. by No. 116, 1999); No. 135, 2003</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995; No. 1, 1997 (as am. by No. 116, 1999); No. 135, 2003</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 6, 2008; No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 6, 2008; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 156</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>am. No. 43, 1995</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
+  <td>
     <div>rep. No. 159, 2006</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
+  <td>
     <div>ad. No. 6, 2008</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div><b>Division 3</b></div>
-  </td>
-  <td colspan="2">
-    <div></div>
   </td>
   <td>
     <div></div>
@@ -15975,151 +14426,101 @@ ad. No. 159, 2006</div>
   <td>
     <div>Div. 3 of Part VIIIA</div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 157</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 159, 2006</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 159, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 6, 2008; No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 6, 2008; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 158</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995; No. 159, 2006</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995; No. 159, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 6, 2008; No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 6, 2008; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 159</div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 6, 2008; No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 6, 2008; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 160</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 6, 2008; No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 6, 2008; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 161</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995; No. 159, 2006</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995; No. 159, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 6, 2008; No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 6, 2008; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 162</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>am. No. 164, 1984; No. 65, 1987; No. 4, 1990; No. 43, 1995; No. 159, 2006</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
+  <td>
     <div>rs. No. 6, 2008; No. 91, 2009</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td colspan="2">
-    <div>am. No. 8, 2010</div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
   <td>
     <div><b>Division 4</b></div>
-  </td>
-  <td colspan="2">
-    <div></div>
   </td>
   <td>
     <div></div>
@@ -16129,195 +14530,141 @@ ad. No. 159, 2006</div>
   <td>
     <div>Div. 4 of Part VIIIA</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 163</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>rep. No. 159, 2006</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
+  <td>
     <div>ad. No. 6, 2008</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 164</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>am. No. 43, 1995</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
+  <td>
     <div>rep. No. 159, 2006</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
+  <td>
     <div>ad. No. 6, 2008</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 165</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>rep. No. 159, 2006</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
+  <td>
     <div>ad. No. 6, 2008</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 165A</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 6, 2008</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 6, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rep. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rep. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 166</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>am. No. 43, 1995</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
+  <td>
     <div>rep. No. 159, 2006</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
+  <td>
     <div>ad. No. 6, 2008</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div><b>Division 5</b></div>
-  </td>
-  <td colspan="2">
-    <div></div>
   </td>
   <td>
     <div></div>
@@ -16327,195 +14674,141 @@ ad. No. 159, 2006</div>
   <td>
     <div>Div. 5 of Part VIIIA</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 167</div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 6, 2008; No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 6, 2008; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Ss. 167A, 167B</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 6, 2008</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 6, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rep. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rep. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 168</div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 6, 2008; No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 6, 2008; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Ss. 168A–168E</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 6, 2008</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 6, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rep. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rep. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 169</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>am. No. 164, 1984; No. 43, 1995; No. 159, 2006</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
+  <td>
     <div>rep. No. 6, 2008</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Heading to Part IX</div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 159, 2006; No. 6, 2008</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 159, 2006; No. 6, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rep. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rep. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Part IX</div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 6, 2008</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 6, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rep. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rep. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Div. 4 of Part IX</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>rep. No. 159, 2006</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
+  <td>
     <div>ad. No. 6, 2008</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rep. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rep. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div><b>Part IXA</b></div>
-  </td>
-  <td colspan="2">
-    <div></div>
   </td>
   <td>
     <div></div>
@@ -16525,239 +14818,173 @@ ad. No. 159, 2006</div>
   <td>
     <div>Part IXA</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 43, 1995</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 43, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 169A</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 43, 1995</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 43, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>am. No. 135, 2003; No. 6, 2008</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 135, 2003; No. 6, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 169B</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 43, 1995</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 43, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Ss. 169BA, 169BB</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 6, 2008</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 6, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Ss. 169C, 169D</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 43, 1995</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 43, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>am. No. 135, 2003; No. 6, 2008</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 135, 2003; No. 6, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 169E</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 43, 1995</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 43, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>am. No. 6, 2008</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 6, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Subhead. to s. 169F(2)</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 6, 2008</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 6, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 169F</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 43, 1995</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 43, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>am. No. 135, 2003; No. 6, 2008</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 135, 2003; No. 6, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 169FA</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 135, 2003</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 135, 2003</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 169FB</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 6, 2008</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 6, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 169G</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 43, 1995</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 43, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>am. No. 6, 2008</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 6, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 169GA</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 6, 2008</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 6, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 169H</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 43, 1995</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 43, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>am. No. 6, 2008</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 6, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 169J</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 43, 1995</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 43, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>am. No. 6, 2008</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 6, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
     <div><b>Part X</b></div>
-  </td>
-  <td colspan="2">
-    <div></div>
   </td>
   <td>
     <div></div>
@@ -16767,184 +14994,133 @@ ad. No. 159, 2006</div>
   <td>
     <div>S. 170</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 164, 1984; No. 43, 1995</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 164, 1984; No. 43, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 171</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995; No. 6, 2008; No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995; No. 6, 2008; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 172</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 164, 1984; No. 43, 1995; No. 159, 2006</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 164, 1984; No. 43, 1995; No. 159, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 172A</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 6, 2008</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 6, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rep. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rep. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Heading to s. 173</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 6, 2008</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 6, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 173</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 159, 2006</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 159, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 175</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 65, 1985; No. 146, 1999; No. 6, 2008</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 65, 1985; No. 146, 1999; No. 6, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 176</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>am. No. 43, 1995</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
+  <td>
     <div>rs. No. 159, 2006</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
+  <td>
     <div>am. No. 6, 2008</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 177</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
     <div><b>Part XA</b></div>
-  </td>
-  <td colspan="2">
-    <div></div>
   </td>
   <td>
     <div></div>
@@ -16954,107 +15130,77 @@ ad. No. 159, 2006</div>
   <td>
     <div>Part XA</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 164, 1984</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 164, 1984</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 178</div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 164, 1984</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 164, 1984</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 164, 1984</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 164, 1984</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 178A</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 164, 1984</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 164, 1984</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 178B</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 164, 1984</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 164, 1984</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 178C</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 164, 1984</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 164, 1984</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995; No. 1, 1997</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995; No. 1, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 178D</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 164, 1984</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 164, 1984</div>
   </td>
 </tr>
 <tr>
   <td>
     <div><b>Part XI</b></div>
-  </td>
-  <td colspan="2">
-    <div></div>
   </td>
   <td>
     <div></div>
@@ -17064,19 +15210,13 @@ ad. No. 159, 2006</div>
   <td>
     <div>Heading to Part XI</div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 135, 2003; No. 142, 2005; No. 159, 2006; No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 135, 2003; No. 142, 2005; No. 159, 2006; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div><b>Division 1</b></div>
-  </td>
-  <td colspan="2">
-    <div></div>
   </td>
   <td>
     <div></div>
@@ -17086,107 +15226,77 @@ ad. No. 159, 2006</div>
   <td>
     <div>Heading to Div. 1 of Part XI</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 135, 2003</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 135, 2003</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 179</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995; No. 43, 1996</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995; No. 43, 1996</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 180</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 164, 1984; No. 43, 1995; No. 142, 2005</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 164, 1984; No. 43, 1995; No. 142, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 181</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 182</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 104, 1988</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 104, 1988</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 183</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995; No. 159, 2001</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995; No. 159, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 184</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 185</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 65, 1985; No. 43, 1995; No. 43, 1996; No. 142, 2005</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 65, 1985; No. 43, 1995; No. 43, 1996; No. 142, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Ss. 186–188</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
     <div><b>Division 2</b></div>
-  </td>
-  <td colspan="2">
-    <div></div>
   </td>
   <td>
     <div></div>
@@ -17196,327 +15306,237 @@ ad. No. 159, 2006</div>
   <td>
     <div>Div. 2 of Part XI</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 135, 2003</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 135, 2003</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 159, 2006; No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 159, 2006; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 188A</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>ad. No. 135, 2003</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
+  <td>
     <div>am. No. 142, 2005</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
+  <td>
     <div>rep. No. 159, 2006</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Ss. 188AA–188AL</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 159, 2006</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 159, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rep. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rep. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 188AN</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 159, 2006</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 159, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rep. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rep. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Ss. 188AO–188AZ</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 159, 2006</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 159, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rep. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rep. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 188B</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>ad. No. 135, 2003</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
+  <td>
     <div>rep. No. 159, 2006</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 188BB</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 159, 2006</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 159, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rep. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rep. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 188C</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>ad. No. 135, 2003</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
+  <td>
     <div>am. No. 142, 2005</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
+  <td>
     <div>rep. No. 159, 2006</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 188D</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>ad. No. 135, 2003</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
+  <td>
     <div>rep. No. 159, 2006</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 188E</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>ad. No. 142, 2005</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
+  <td>
     <div>rep. No. 159, 2006</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Div. 2A of Part XI</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 159, 2006</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 159, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rep. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rep. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div><b>Division 3</b></div>
-  </td>
-  <td colspan="2">
-    <div></div>
   </td>
   <td>
     <div></div>
@@ -17526,173 +15546,125 @@ ad. No. 159, 2006</div>
   <td>
     <div>Heading to Div. 3 of Part XI</div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 159, 2006; No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 159, 2006; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Div. 3 of Part XI</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 142, 2005</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 142, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Heading to s. 188F</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 159, 2006; No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 159, 2006; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 188F</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 142, 2005</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 142, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>am. No. 159, 2006; No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 159, 2006; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Heading to s. 188FA</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 159, 2006</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 159, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 188FA</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 142, 2005</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 142, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>am. No. 159, 2006; No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 159, 2006; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Heading to s. 188FB</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 159, 2006</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 159, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Ss. 188FB–188FE</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 142, 2005</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 142, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>am. No. 159, 2006</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 159, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 188FF</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 142, 2005</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 142, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>am. No. 159, 2006; No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 159, 2006; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Ss. 188FG–188FM</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 142, 2005</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 142, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>am. No. 159, 2006</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 159, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
     <div><b>Part XIA</b></div>
-  </td>
-  <td colspan="2">
-    <div></div>
   </td>
   <td>
     <div></div>
@@ -17702,19 +15674,13 @@ ad. No. 159, 2006</div>
   <td>
     <div>Part XIA</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 142, 2005</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 142, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
     <div><b>Division 1</b></div>
-  </td>
-  <td colspan="2">
-    <div></div>
   </td>
   <td>
     <div></div>
@@ -17724,85 +15690,61 @@ ad. No. 159, 2006</div>
   <td>
     <div>Div. 1 of Part XIA</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 142, 2005</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 142, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 188G</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 142, 2005</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 142, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 188GA</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 142, 2005</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 142, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>am. No. 159, 2006; No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 159, 2006; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 188GB</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 142, 2005</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 142, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>am. No. 159, 2006; No. 6, 2008; No. 91, 2009; No. 8, 2010</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 159, 2006; No. 6, 2008; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Ss. 188GC–188GE</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 142, 2005</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 142, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
     <div><b>Division 2</b></div>
-  </td>
-  <td colspan="2">
-    <div></div>
   </td>
   <td>
     <div></div>
@@ -17812,63 +15754,45 @@ ad. No. 159, 2006</div>
   <td>
     <div>Div. 2 of Part XIA</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 142, 2005</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 142, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Ss. 188GF–188GI</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 142, 2005</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 142, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 188GJ</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 142, 2005</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 142, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>am. No. 159, 2006; No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 159, 2006; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Ss. 188GK–188GQ</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 142, 2005</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 142, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
     <div><b>Division 3</b></div>
-  </td>
-  <td colspan="2">
-    <div></div>
   </td>
   <td>
     <div></div>
@@ -17878,30 +15802,21 @@ ad. No. 159, 2006</div>
   <td>
     <div>Div. 3 of Part XIA</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 142, 2005</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 142, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 188GR</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 142, 2005</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 142, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
     <div><b>Part XII</b></div>
-  </td>
-  <td colspan="2">
-    <div></div>
   </td>
   <td>
     <div></div>
@@ -17911,206 +15826,149 @@ ad. No. 159, 2006</div>
   <td>
     <div>S. 190</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 164, 1984; No. 43, 1995; No. 135, 2003; No. 121, 2005</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 164, 1984; No. 43, 1995; No. 135, 2003; No. 121, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 191</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995; No. 159, 2006; No. 6, 2008; No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995; No. 159, 2006; No. 6, 2008; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Heading to s. 193</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 159, 2006; No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 159, 2006; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 193</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995; No. 142, 2005; No. 159, 2006; No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995; No. 142, 2005; No. 159, 2006; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 194</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 164, 1984; No. 43, 1995; No. 142, 2005; No. 159, 2006; No. 6, 2008; No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 164, 1984; No. 43, 1995; No. 142, 2005; No. 159, 2006; No. 6, 2008; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 194A</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 164, 1984</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 164, 1984</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 195</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995; No. 1, 1997; No. 159, 2006; No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995; No. 1, 1997; No. 159, 2006; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 196</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>am. No. 43, 1995; No. 1, 1997 (as am. by No. 116, 1999); No. 135, 2003</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
+  <td>
     <div>rep. No. 159, 2006</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 196A</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 164, 1984</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 164, 1984</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995; No. 159, 2006; No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 43, 1995; No. 159, 2006; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 196B</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>ad. No. 164, 1984</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
+  <td>
     <div>am. No. 43, 1995; No. 43, 1996; No. 1, 1997</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
+  <td>
     <div>rep. No. 116, 1999</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 142, 2005</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 142, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 196C</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 159, 2006</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 159, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rep. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rep. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div><b>Schedule 1A</b></div>
-  </td>
-  <td colspan="2">
-    <div></div>
   </td>
   <td>
     <div></div>
@@ -18120,19 +15978,13 @@ ad. No. 159, 2006</div>
   <td>
     <div>Schedule 1A</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 6, 2008</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 6, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
     <div><b>Schedule 2</b></div>
-  </td>
-  <td colspan="2">
-    <div></div>
   </td>
   <td>
     <div></div>
@@ -18142,41 +15994,29 @@ ad. No. 159, 2006</div>
   <td>
     <div>Heading to Schedule 2</div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 159, 2006; No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 159, 2006; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Schedule 2</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 159, 2006; No. 6, 2008</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 159, 2006; No. 6, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div><b>Schedule 3</b></div>
-  </td>
-  <td colspan="2">
-    <div></div>
   </td>
   <td>
     <div></div>
@@ -18186,30 +16026,21 @@ ad. No. 159, 2006</div>
   <td>
     <div>Schedule 3</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 164, 1984; No. 43, 1995; No. 135, 2003</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 164, 1984; No. 43, 1995; No. 135, 2003</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>rs. No. 6, 2008</div>
-  </td>
   <td>
-    <div></div>
+    <div>rs. No. 6, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
     <div><b>Schedule 3A</b></div>
-  </td>
-  <td colspan="2">
-    <div></div>
   </td>
   <td>
     <div></div>
@@ -18219,19 +16050,13 @@ ad. No. 159, 2006</div>
   <td>
     <div>Schedule 3A</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 164, 1984</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 164, 1984</div>
   </td>
 </tr>
 <tr>
   <td>
     <div><b>Schedule 4</b></div>
-  </td>
-  <td colspan="2">
-    <div></div>
   </td>
   <td>
     <div></div>
@@ -18241,19 +16066,13 @@ ad. No. 159, 2006</div>
   <td>
     <div>Schedule 4</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 142, 2005; No. 159, 2006</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 142, 2005; No. 159, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
     <div><b>Schedule 5</b></div>
-  </td>
-  <td colspan="2">
-    <div></div>
   </td>
   <td>
     <div></div>
@@ -18263,30 +16082,21 @@ ad. No. 159, 2006</div>
   <td>
     <div>Schedule 5</div>
   </td>
-  <td colspan="2">
-    <div>rep. No. 159, 2006</div>
-  </td>
   <td>
-    <div></div>
+    <div>rep. No. 159, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 91, 2009</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
     <div><b>Schedule 6</b></div>
-  </td>
-  <td colspan="2">
-    <div></div>
   </td>
   <td>
     <div></div>
@@ -18296,40 +16106,25 @@ ad. No. 159, 2006</div>
   <td>
     <div>Schedule 6</div>
   </td>
-  <td colspan="2">
-    <div>am. No. 164, 1984; No. 43, 1995; No. 141, 2001; No. 6, 2008</div>
-  </td>
   <td>
-    <div></div>
+    <div>am. No. 164, 1984; No. 43, 1995; No. 141, 2001; No. 6, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Schedule 7</div>
   </td>
-  <td colspan="2">
-    <div>ad. No. 159, 2006</div>
-  </td>
   <td>
-    <div></div>
+    <div>ad. No. 159, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
+  <td>
     <div>rep. No. 91, 2009</div>
   </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr height="0">
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
 </tr></table>
 
 ## Table A
@@ -18769,7 +16564,7 @@ the person may withdraw the election by written notice to the Registrar of the A
 
 then, on the commencement day:
 
-                     (c)  the appointment is taken to have included the appointment of the person as the Registrar of the Australian   Military Court under section 188FB of the new DFDA; and
+                     (c)  the appointment is taken to have included the appointment of the person as the Registrar of the Australian Military   Court under section 188FB of the new DFDA; and
 
                      (d)  the person is taken to have made and subscribed an oath or affirmation as the Registrar of the Australian   Military Court before a Military Judge under section 188FF of the new DFDA.
 
