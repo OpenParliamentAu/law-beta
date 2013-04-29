@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2010C00057/Html/NavalDefence1910WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00305/Html/NavalDefence1910WD02_Version1_image001.gif)
 
 # Naval Defence Act 1910
 
 **Act No. 30 of 1910 as amended**
 
-This compilation was prepared on 5 February 2010
+This compilation was prepared on 8 July 2009
  taking into account amendments up to Act No. 54 of 2009
 
 The text of any of those amendments not in force 
@@ -20,59 +20,59 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part I—Introductory**
 
-[1](#1).            Short title [_see_ Note 1]                                                                        1
+[1](#1).            Short title [_see_ Note 1]
 
-[3](#3).            Interpretation                                                                                       1
+[3](#3).            Interpretation
 
-[5A](#5A).         Extension of Act to Territories                                                            1
+[5A](#5A).         Extension of Act to Territories
 
-[5B](#5B).         Application of the _Criminal Code_                                                       2
+[5B](#5B).         Application of the _Criminal Code_
 
-[6](#6).            Act does not appropriate money                                                        2
+[6](#6).            Act does not appropriate money
 
 **Part III—The Australian Navy**
 
-[19](#19).          Australian Navy                                                                                  3
+[19](#19).          Australian Navy
 
-[20](#20).          Permanent Navy                                                                                  3
+[20](#20).          Permanent Navy
 
-[21](#21).          Naval Reserve                                                                                      3
+[21](#21).          Naval Reserve
 
-[24](#24).          Voluntary entry                                                                                   3
+[24](#24).          Voluntary entry
 
 **Part IV—The service of the Navy**
 
-[31](#31).          Service of the Permanent Navy                                                           4
+[31](#31).          Service of the Permanent Navy
 
-[32A](#32A).       Service of the Naval Reserve                                                               4
+[32A](#32A).       Service of the Naval Reserve
 
-[33](#33).          Limits of service                                                                                  5
+[33](#33).          Limits of service
 
 **Part V—Cadets**
 
-[38](#38).          Establishment and constitution of the Australian Navy Cadets         6
+[38](#38).          Establishment and constitution of the Australian Navy Cadets
 
-[39](#39).          Administration of the Australian Navy Cadets                                   7
+[39](#39).          Administration of the Australian Navy Cadets
 
 **Part VI—Special powers in relation to Naval ships, Naval establishments and civil employment**
 
-[40](#40).          Interpretation                                                                                       8
+[40](#40).          Interpretation
 
-[42](#42).          Employment of persons in civil capacity                                            8
+[42](#42).          Employment of persons in civil capacity
 
-[42A](#42A).       Determination of conditions of employment                                      8
+[42A](#42A).       Determination of conditions of employment
 
-[42C](#42C).       Public Service Act not to apply                                                          9
+[42C](#42C).       Public Service Act not to apply
 
-[42D](#42D).       Transfer of persons where functions are to be performed by a Commonwealth authority    10
+[42D](#42D).       Transfer of persons where functions are to be performed by a Commonwealth authority
 
 **Part VII—Miscellaneous**
 
-[44B](#44B).       Delegation                                                                                          11
+[44B](#44B).       Delegation
 
-[44E](#44E).        Intoxicating liquor not to be supplied to Australian Navy Cadets    12
+[44E](#44E).        Intoxicating liquor not to be supplied to Australian Navy Cadets
 
-[45](#45).          Regulations                                                                                        12
+[45](#45).          Regulations
 
 **Notes** 
 
@@ -358,9 +358,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 The _Naval Defence Act 1910_ as shown in this compilation comprises Act No. 30, 1910 amended as indicated in the Tables below.
 
-The _Naval Defence Act 1910_ was amended by the _Workplace Relations Amendment (Work Choices) (Consequential Amendments) Regulations 2006 (No. 1)_ (SLI 2006 No. 50). The amendments are incorporated in this compilation.
-
-The _Naval Defence Act 1910_ was amended by the _Fair Work (State Referral and Consequential and Other Amendments) Act 2009_ (No. 54, 2009) as amended by the _Fair Work (State Referral and Consequential and Other Amendments) Regulations 2009_ (SLI 2009 No. 165 as amended by SLI 2009 No. 364). The amendment is incorporated in this compilation.
+The _Naval Defence Act 1910_ was amended by the _Workplace Relations Amendment (Work Choices) (Consequential Amendments) Regulations 2006 (No. 1)_ (SLI 2006 No. 50). The amendments are incorporated in this compilation.
 
 All relevant information pertaining to application, saving or transitional provisions prior to 22 September 1999 is not included in this compilation. For subsequent information _see_ Table A.
 
@@ -738,7 +736,7 @@ Remainder: Royal Assent</div>
     <div>22 Sept 1982</div>
   </td>
   <td>
-    <div>Part LXXVII (s. 280): Royal Assent <i>(c)</i></div>
+    <div>Part LXXVII (s. 280): Royal Assent <i>(c)</i></div>
   </td>
   <td>
     <div>S. 280(2) and (3)</div>
@@ -1151,7 +1149,7 @@ Schedule (Part 5): 30 Aug 1995 ( <i>see Gazette</i>1995, No. S324) <i>(l)</i><
     <div>Schedule 19 (item 32): Royal Assent <i>(o)</i></div>
   </td>
   <td>
-    <div>S. 2(2) and (6) (am. by 77, 1996, Sch. 3 \[items 1, 2])</div>
+    <div>S. 2(2) and (6) (am. by 77, 1996, Sch. 3 \[items 1, 2])</div>
   </td>
 </tr>
 <tr>
@@ -1288,7 +1286,7 @@ Schedule 3 (item 2): Royal Assent <i>(r)</i></div>
   </td>
   <td>
     <div>Schedule 2 (items 12–15, 19, 27–31, 67, 68, 75–77): 22 Mar 2002 
-Schedule 3: 19 Apr 2001 ( <i>see</i>s. 2(4)) 
+Schedule 3: 19 Apr 2001 ( <i>see</i>s. 2(4)) 
 Schedule 4: Royal Assent 
 Remainder: 19 Apr 2001</div>
   </td>
@@ -1309,7 +1307,7 @@ Remainder: 19 Apr 2001</div>
   </td>
   <td>
     <div>S. 4: Royal Assent 
-Schedule 1 (items 107–109): 15 Dec 2001</div>
+Schedule 1 (items 107–109): 15 Dec 2001</div>
   </td>
   <td>
     <div>S. 4 and Sch. 1 (item 109) \[ <i>see</i>Table A] 
@@ -1396,7 +1394,7 @@ S. 2(2) (am. by 135, 2003, Sch. 2 \[item 28])</div>
     <div>1 Mar 2006</div>
   </td>
   <td>
-    <div>2 Mar 2006</div>
+    <div>2 Mar 2006</div>
   </td>
   <td>
     <div>—</div>
@@ -1410,13 +1408,13 @@ S. 2(2) (am. by 135, 2003, Sch. 2 \[item 28])</div>
     <div>54, 2009</div>
   </td>
   <td>
-    <div>25 June 2009</div>
+    <div>25 June 2009</div>
   </td>
   <td>
     <div>Schedule 7: <i>(v)</i></div>
   </td>
   <td>
-    <div>Sch. 7 (items 6, 7) (ad. by SLI 2009 No. 165, Sch. 2 \[item 3]) \[ <i>see</i>Note 1 and Table A]</div>
+    <div>—</div>
   </td>
 </tr></table>
 
@@ -1707,7 +1705,7 @@ _(v)_     Subsection 2(1) (item 23) of the _Fair Work (State Referral 
   </td>
   <td>
     <div>
-      1 July 2009 (
+      1 July 2009 (
         <i>see</i>F2009L02563)
     </div>
   </td>
@@ -3469,7 +3467,7 @@ _(v)_     Subsection 2(1) (item 23) of the _Fair Work (State Referral 
     <div></div>
   </td>
   <td>
-    <div>am. No. 101, 1988; No. 196, 1992; No. 146, 1999; SLI 2006 No. 50; No. 54, 2009</div>
+    <div>am. No. 101, 1988; No. 196, 1992; No. 146, 1999; SLI 2006 No. 50; No. 54, 2009</div>
   </td>
 </tr>
 <tr>
@@ -3613,7 +3611,7 @@ _(v)_     Subsection 2(1) (item 23) of the _Fair Work (State Referral 
     <div></div>
   </td>
   <td>
-    <div>am. SLI 2006 No. 50; No. 54, 2009</div>
+    <div>am. SLI 2006 No. 50; No. 54, 2009</div>
   </td>
 </tr>
 <tr>
@@ -3979,19 +3977,5 @@ To avoid doubt:
                      (a)  appointments to the Naval Reserve Cadets in force under paragraph 38(2)(a) or (b) of the _Naval Defence Act 1910_ immediately before the commencement of item 33 of this Schedule continue to have effect after that commencement as if they were appointments to the Australian Navy Cadets; and
 
                      (b)  persons who are cadets in the Naval Reserve Cadets under section 38 of the _Naval Defence Act 1910_ immediately before the commencement of item 33 of this Schedule continue as cadets in the Australian Navy Cadets immediately after that commencement, subject to the limitations imposed by that section (as amended).
-
-* * *
-
-_Fair Work (State Referral and Consequential and Other Amendments) Act 2009 (No. 54, 2009)_
-
-## Schedule 7
-
-## 6  Application of Naval Defence Act 1910—item 4
-
-Subsection 42A(7) of the _Naval Defence Act 1910_ applies as if a reference in that subsection to the _Fair Work Act 2009_ includes a reference to the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_.
-
-## 7  Application of Naval Defence Act 1910—item 5
-
-Subsection 42D(3) of the _Naval Defence Act 1910_ applies as if a reference in that subsection to the National Employment Standards includes a reference to the Australian Fair Pay and Conditions Standard, to the extent that the Australian Fair Pay and Conditions Standard continues to operate in accordance with the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_.
 
  
