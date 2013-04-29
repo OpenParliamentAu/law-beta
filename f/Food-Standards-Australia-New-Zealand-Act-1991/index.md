@@ -1,20 +1,19 @@
-![](http://www.comlaw.gov.au/Details/C2011C00743/Html/cf81565b-bbed-4de6-b9a8-f5b79f65f654_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00117/Html/43d0d824-a25d-46d4-951c-0be06b910fb7_files/image001.gif)
 
 # Food Standards Australia New Zealand Act 1991
 
 **Act No. 118 of 1991 as amended**
 
-This compilation was prepared on 13 September 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 1 March 2011
+ taking into account amendments up to Act No. 121 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
 
-The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+The operation of amendments that have been incorporated may be affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -272,7 +271,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [100](#100).        Calling for submissions
 
-[101](#101).        Re‑affirm the standard or variation or propose changes
+[101](#101).        Re-affirm the standard or variation or propose changes
 
 [102](#102).        Council may request Authority to review
 
@@ -708,19 +707,19 @@ Note:          The _Commonwealth Authorities and Companies Act
 
                      (e)  in consultation with the States and Territories, or on its own initiative, to facilitate the harmonisation of State and Territory laws relating to food; and
 
-                      (f)  in consultation with the States and Territories, or on its own initiative, to co‑ordinate the development of procedures required to implement requirements set out in standards; and
+                      (f)  in consultation with the States and Territories, or on its own initiative, to co-ordinate the development of procedures required to implement requirements set out in standards; and
 
-                     (g)  in consultation with the States and Territories, to co‑ordinate the monitoring, surveillance and enforcement of activities relating to food available in Australia; and
+                     (g)  in consultation with the States and Territories, to co-ordinate the monitoring, surveillance and enforcement of activities relating to food available in Australia; and
 
                      (h)  in consultation with the States and Territories, or on its own initiative, to conduct research and surveys in relation to any of the matters that may be included in a standard; and
 
-                      (i)  in co‑operation with the States and Territories, to develop food education initiatives, including the publication of information to increase public awareness of food standards and food labels; and
+                      (i)  in co-operation with the States and Territories, to develop food education initiatives, including the publication of information to increase public awareness of food standards and food labels; and
 
                     (ia)  to provide information, on request by a member of the public, about the Australia New Zealand Food Standards Code; and
 
-                      (j)  in co‑operation with the Department administering Part 3‑3 of Schedule 2 to the _Competition and Consumer Act 2010_, as that Part applies as a law of the Commonwealth, to co‑ordinate the recall of food under that Part; and
+                      (j)  in co-operation with the Department administering Part 3-3 of Schedule 2 to the _Competition and Consumer Act 2010_, as that Part applies as a law of the Commonwealth, to co-ordinate the recall of food under that Part; and
 
-                     (k)  at the request of the States and Territories, to co‑ordinate action by the States and Territories to recall food under State and Territory laws; and
+                     (k)  at the request of the States and Territories, to co-ordinate action by the States and Territories to recall food under State and Territory laws; and
 
                       (l)  to develop assessment policies in relation to food imported into Australia; and
 
@@ -908,9 +907,9 @@ Note:          See also the definitions of **_produce_** and *
 
              (5)  For the purposes of this section, a **_sanitary or phytosanitary measure_** means any measure applied:
 
-                     (a)  to protect animal or plant life or health from risks arising from the entry, establishment or spread of pests, diseases, disease‑carrying organisms or disease‑causing organisms; or
+                     (a)  to protect animal or plant life or health from risks arising from the entry, establishment or spread of pests, diseases, disease-carrying organisms or disease-causing organisms; or
 
-                     (b)  to protect human or animal life or health from risks arising from additives, contaminants, toxins or disease‑causing organisms in foods, beverages or feedstuffs; or
+                     (b)  to protect human or animal life or health from risks arising from additives, contaminants, toxins or disease-causing organisms in foods, beverages or feedstuffs; or
 
                      (c)  to protect human life or health from risks arising from diseases carried by animals, plants or products thereof, or from the entry, establishment or spread of pests; or
 
@@ -1160,7 +1159,7 @@ Fee to expedite consideration paid after early payment period
 
                      (a)  whether costs that would arise from a food regulatory measure developed or varied as a result of the application outweigh the direct and indirect benefits to the community, Government or industry that would arise from the development or variation of the food regulatory measure;
 
-                     (b)  whether other measures (available to the Authority or not) would be more cost‑effective than a food regulatory measure developed or varied as a result of the application;
+                     (b)  whether other measures (available to the Authority or not) would be more cost-effective than a food regulatory measure developed or varied as a result of the application;
 
                      (c)  any relevant New Zealand standards;
 
@@ -1186,7 +1185,7 @@ the Authority must give the applicant notice in writing of that fact and state i
 
              (3)  The Authority must not give public notice under section 31 within 10 business days immediately after notice is given to the applicant under subsection (2) of this section.
 
-##### <a id="31"></a>31  Calling for submissions
+##### <a id="31"></a>31  Calling for submissions
 
              (1)  After preparing a draft food regulatory measure or a draft variation of a food regulatory measure as a result of an application, the Authority must give public notice of the matters mentioned in subsection (2).
 
@@ -1320,7 +1319,7 @@ Note:          For example, a variation would fall within this
 
 (b)    to update a reference to another document; or
 
-(c)    to change a cross‑reference within a food regulatory measure; or
+(c)    to change a cross-reference within a food regulatory measure; or
 
 (d)    to omit provisions of a food regulatory measure that have ceased to have effect.
 
@@ -1754,7 +1753,7 @@ Note:          Division 2A deals with variations by the APVM
 
                      (a)  whether costs that would arise from a food regulatory measure developed or varied as a result of the proposal outweigh the direct and indirect benefits to the community, Government or industry that would arise from the development or variation of the food regulatory measure;
 
-                     (b)  whether other measures (available to the Authority or not) would be more cost‑effective than a food regulatory measure developed or varied as a result of the proposal;
+                     (b)  whether other measures (available to the Authority or not) would be more cost-effective than a food regulatory measure developed or varied as a result of the proposal;
 
                      (c)  any relevant New Zealand standards;
 
@@ -1904,7 +1903,7 @@ Note:          For example, a variation would fall within this
 
 (b)    to update a reference to another document; or
 
-(c)    to change a cross‑reference within a food regulatory measure; or
+(c)    to change a cross-reference within a food regulatory measure; or
 
 (d)    to omit provisions of a food regulatory measure that have ceased to have effect.
 
@@ -2236,9 +2235,9 @@ When variation takes effect
 
              (2)  After completing a review under this section of a draft standard or draft variation, the Authority must:
 
-                     (a)  decide to re‑affirm its approval of the draft; or
+                     (a)  decide to re-affirm its approval of the draft; or
 
-                     (b)  decide to re‑affirm its approval of the draft, subject to such amendments as the Authority considers necessary; or
+                     (b)  decide to re-affirm its approval of the draft, subject to such amendments as the Authority considers necessary; or
 
                      (c)  decide to withdraw its approval of the draft.
 
@@ -2470,7 +2469,7 @@ Standards are legislative instruments, but not subject to disallowance or sunset
 
                      (a)  whether costs that have arisen, or will arise, from the standard or variation outweigh the direct and indirect benefits to the community, Government or industry that have arisen, or will arise, from the standard or variation;
 
-                     (b)  whether other measures (available to the Authority or not) would be more cost‑effective than the standard or variation;
+                     (b)  whether other measures (available to the Authority or not) would be more cost-effective than the standard or variation;
 
                      (c)  all relevant New Zealand standards;
 
@@ -2490,11 +2489,11 @@ Note:          See also section 18, which sets out the objec
 
                      (c)  call for written submissions, for the purpose of making a decision under subsection 101(1), to be given to the Authority within the period specified in the notice (the **_submission period_**).
 
-##### <a id="101"></a>101  Re‑affirm the standard or variation or propose changes
+##### <a id="101"></a>101  Re-affirm the standard or variation or propose changes
 
              (1)  After the submission period, and in any event within 12 months after the standard or variation takes effect, the Authority must:
 
-                     (a)  re‑affirm its decision to approve the standard or variation; or
+                     (a)  re-affirm its decision to approve the standard or variation; or
 
                      (b)  prepare a proposal under section 55 for the development of:
 
@@ -2524,11 +2523,11 @@ Note:          The Board must not delegate its powers to act o
 
                      (g)  a Regulation Impact Statement in relation to the standard or variation.
 
-             (5)  If the Authority notifies the Council that the Authority has re‑affirmed a standard or variation of a standard, the Council may direct the Authority to give the Council such information as the Council reasonably requires for the purpose of assisting the Council to make a decision about the standard or variation under section 102.
+             (5)  If the Authority notifies the Council that the Authority has re-affirmed a standard or variation of a standard, the Council may direct the Authority to give the Council such information as the Council reasonably requires for the purpose of assisting the Council to make a decision about the standard or variation under section 102.
 
 ##### <a id="102"></a>102  Council may request Authority to review
 
-             (1)  If the Authority notifies the Council under section 101 that the Authority has re‑affirmed its approval of the standard or variation, the Council must, within 60 days after the notification:
+             (1)  If the Authority notifies the Council under section 101 that the Authority has re-affirmed its approval of the standard or variation, the Council must, within 60 days after the notification:
 
                      (a)  request the Authority to review the standard or variation; or
 
@@ -2562,7 +2561,7 @@ Note:          The Board must not delegate its powers to act o
 
              (2)  After completing a review under this section of the standard or variation, the Authority must:
 
-                     (a)  re‑affirm its decision to approve the standard or variation; or
+                     (a)  re-affirm its decision to approve the standard or variation; or
 
                      (b)  prepare a proposal under section 55 for the development of:
 
@@ -2580,7 +2579,7 @@ Note:          The Board must not delegate its powers to act o
 
 ##### <a id="106"></a>106  Council may revoke or amend standard or variation
 
-             (1)  If the Authority notifies the Council that the Authority has decided under paragraph 104(2)(a) to re‑affirm the standard or variation, the Council must, within 60 days after the notification:
+             (1)  If the Authority notifies the Council that the Authority has decided under paragraph 104(2)(a) to re-affirm the standard or variation, the Council must, within 60 days after the notification:
 
                      (a)  inform the Authority that the Council does not intend to revoke or amend the standard or variation; or
 
@@ -2894,7 +2893,7 @@ the Authority must comply with the notice requirements set out in subsection (
 
                      (c)  to the Chief Officer of any other authority or body for the purpose of enabling that authority or body to perform any arrangements made with the Authority in accordance with paragraph 137(d).
 
-             (8)  A person to whom information is disclosed under subsection (7) and any person under the control of the first‑mentioned person to whom that information is disclosed for the purposes of an arrangement under section 137, must not, directly or indirectly, except for the purposes of that arrangement, disclose the information to any person while the person is, or after the person ceases to be, such a person.
+             (8)  A person to whom information is disclosed under subsection (7) and any person under the control of the first-mentioned person to whom that information is disclosed for the purposes of an arrangement under section 137, must not, directly or indirectly, except for the purposes of that arrangement, disclose the information to any person while the person is, or after the person ceases to be, such a person.
 
                     Penalty:  Imprisonment for 2 years.
 
@@ -3080,7 +3079,7 @@ Note:          See Division 2 for the appointment, and terms
 
              (5)  The Minister may only appoint a person as a member mentioned in paragraph (1)(d) if the Minister is satisfied that the person has a good knowledge of consumer rights and consumer affairs policy in Australia.
 
-             (7)  The Chairperson and the other members hold office on a part‑time basis.
+             (7)  The Chairperson and the other members hold office on a part-time basis.
 
              (8)  The members hold office on such terms and conditions (if any) in respect of matters not provided for by this Act as are determined by the Minister in writing.
 
@@ -3098,15 +3097,15 @@ Note:          See Division 2 for the appointment, and terms
 
                      (a)  a member holds office for a particular period (the **_original period_**); and
 
-                     (b)  the Minister does not make a decision before the end of the original period to re‑appoint, or not to re‑appoint, the member;
+                     (b)  the Minister does not make a decision before the end of the original period to re-appoint, or not to re-appoint, the member;
 
 then, subject to this Part, the member continues to hold office on the basis that the original period is extended until:
 
                      (c)  the end of the period of 6 months beginning at the end of the original period; or
 
-                     (d)  the Minister notifies the member that the Minister has decided not to re‑appoint the member; or
+                     (d)  the Minister notifies the member that the Minister has decided not to re-appoint the member; or
 
-                     (e)  the Minister signs an instrument re‑appointing the member;
+                     (e)  the Minister signs an instrument re-appointing the member;
 
 whichever first happens.
 
@@ -3172,9 +3171,9 @@ whichever first happens.
 
              (3)  If a person to whom this section applies is also:
 
-                     (a)  in the service or employment of, or of an authority of, the Commonwealth, a State, a Territory or New Zealand on a full‑time basis; or
+                     (a)  in the service or employment of, or of an authority of, the Commonwealth, a State, a Territory or New Zealand on a full-time basis; or
 
-                     (b)  a person who holds or performs the duties of an office or position established by or under a law of the Commonwealth, a State, a Territory or New Zealand on a full‑time basis;
+                     (b)  a person who holds or performs the duties of an office or position established by or under a law of the Commonwealth, a State, a Territory or New Zealand on a full-time basis;
 
 the person is not entitled to remuneration under this Act.
 
@@ -3238,7 +3237,7 @@ the person is not entitled to remuneration under this Act.
 
                      (a)  telephone; or
 
-                     (b)  closed‑circuit television; or
+                     (b)  closed-circuit television; or
 
                      (c)  any other means of communication.
 
@@ -3294,7 +3293,7 @@ the Minister may terminate the appointment of the member.
 
              (1)  There is to be a Chief Executive Officer of the Authority.
 
-             (2)  The Chief Executive Officer is to be appointed by the Board on a full‑time basis.
+             (2)  The Chief Executive Officer is to be appointed by the Board on a full-time basis.
 
              (3)  The Minister must not appoint a person as the Chief Executive Officer if, at any time during the period of 2 years ending immediately before the proposed period of appointment, the person was employed by a body corporate whose primary commercial activity relates directly to the production or manufacture of food.
 
@@ -3308,7 +3307,7 @@ the Minister may terminate the appointment of the member.
 
 ##### <a id="129"></a>129  Duties
 
-             (1)  The Chief Executive Officer is responsible for the day‑to‑day administration of the Authority and the control of its operations.
+             (1)  The Chief Executive Officer is responsible for the day-to-day administration of the Authority and the control of its operations.
 
              (2)  The Chief Executive Officer is to act in accordance with any policies determined, and any directions given, by the Board in writing.
 
@@ -3752,7 +3751,7 @@ in respect of that food and that the food complies with the standard.
 
 ##### <a id="153"></a>153  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters:
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -4177,23 +4176,6 @@ Schedule 5 (item 137(a)): <i>(h)</i></div>
   </td>
   <td>
     <div>Sch. 1 (items 20, 39)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 628–633) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11)</div>
   </td>
 </tr></table>
 
@@ -7605,44 +7587,6 @@ Certain provisions of the _Food Standards Australia New Zealand Act 1991_, as am
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 628  Subsection 112(7) (definition of _modifications_)
-
-Repeal the definition.
-
-## 629  At the end of subsections 121(1) and (2)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 630  Subsection 121(3)
-
-Repeal the subsection.
-
-## 631  Subsection 134(1)
-
-Omit “(1)”.
-
-## 632  At the end of subsection 134(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 633  Subsection 134(2)
-
-Repeal the subsection.
-
-As at 13 September 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -7658,7 +7602,7 @@ The amendment made by item 35 applies to the members of the Authority (includi
 
 ## 49  General transitional provisions
 
-(1)       Things done before the CEO commencement in, or in relation to, the exercise of the Chairperson’s powers, or the Authority’s powers, referred to in a pre‑CEO provision have effect, after the CEO commencement, as if they were done in, or in relation to, the exercise of the Chief Executive Officer’s powers referred to in the corresponding amended CEO provision.
+(1)       Things done before the CEO commencement in, or in relation to, the exercise of the Chairperson’s powers, or the Authority’s powers, referred to in a pre-CEO provision have effect, after the CEO commencement, as if they were done in, or in relation to, the exercise of the Chief Executive Officer’s powers referred to in the corresponding amended CEO provision.
 
 (2)       A member of the Food Advisory Committee who held office as such a member immediately before the CEO commencement because of an appointment under paragraph 42(4)(e) of the old Act continues to hold office after that commencement as if the appointment were under that paragraph of the amended Act.
 
@@ -7680,7 +7624,7 @@ The amendment made by item 35 applies to the members of the Authority (includi
 
                     <a name="old-act"></a>**_Old Act_** means the _Australia__New Zealand Food Authority Act 1991_ as in force before the CEO commencement.
 
-                    <a name="pre-ceo-provision"></a>**_pre‑CEO provision_** means any of the following provisions of the old Act:
+                    <a name="pre-ceo-provision"></a>**_pre-CEO provision_** means any of the following provisions of the old Act:
 
                      (a)  section 39;
 
@@ -7758,7 +7702,7 @@ If a committee established under section 43 of the _Australia__New Zealand Foo
 
                      (a)  the end of the period of 6 months beginning at the commencement of this item; or
 
-                     (b)  the Board re‑appoints the person to that office; or
+                     (b)  the Board re-appoints the person to that office; or
 
                      (c)  the Board appoints another person to that office;
 
@@ -8068,7 +8012,7 @@ FSANZ is taken to have made a draft assessment of the fresh proposal if it revie
 
 (1)       The regulations may make provision for matters of a transitional nature relating to the amendments made by this Part.
 
-(2)       The Governor‑General may make regulations for the purposes of subitem (1).
+(2)       The Governor-General may make regulations for the purposes of subitem (1).
 
 * * *
 
@@ -8126,22 +8070,6 @@ _Food Standards Australia New Zealand Amendment Act 2010
 ## 39  Application
 
 The amendments made by items 23 to 38 apply in relation to financial years ending on or after the commencement of those items.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
 Table showing Sections of the _Food Standards Australia New Zealand Act 1991_ after renumbering by the _Food Standards Australia New Zealand Amendment Act 2007_ (No. 98, 2007).
 
