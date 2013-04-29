@@ -1,73 +1,72 @@
 
+
 Foreign Acquisitions and Takeovers Act 1975
+
 Act No. 92 of 1975 as amended
-Consolidated as in force on 22 June 1999
-(includes amendments up to Act No. 61 of 1998)
+Consolidated as in force on 8 MaY 1997
+(includes amendments up to Act No. 20 OF 1997)
 Prepared by the Office of Legislative Drafting, Attorney-General’s Department, Canberra
 
 Contents
-Part I—Preliminary	1
-1	Short title [see Note 1]	1
-2	Commencement [see Note 1]	1
-3	Transitional provisions	1
-4	Additional operation of Act	2
-5	Interpretation	5
-5A	Ordinarily resident non-citizens	10
-6	Associates	10
-7	Australian business	11
-8	Control of voting power	12
-9	Substantial and controlling interests in corporations	12
-9A	Substantial interests in trust estates	13
-10	Holding corporations and subsidiaries	13
-11	Interests in shares	14
-12	Interests in assets	16
-12A	Interests in Australian urban land	16
-12B	Interests in trust estates	18
-12C	Tracing of substantial interests in corporations and trust estates	19
-13	Prescribed corporations	19
-13A	Exempt dealings	21
-13B	Valuation of assets for purposes of section 13A	22
-13C	Australian urban land corporations	24
-13D	Australian urban land trust estates	25
-14	Voting power	25
-15	Application of Act	25
-16	Extra-territorial operation of Act	26
-17	Persons obliged to comply with Act	26
-Part II—Control of takeovers and other transactions	27
-18	Acquisitions of shares	27
-19	Acquisitions of assets	30
-20	Arrangements relating to directorate of corporations	32
-21	Arrangements relating to control of Australian businesses	34
-21A	Acquisitions of interests in Australian urban land	37
-22	Interim orders	38
-23	Revocation of orders	39
-24	Publication of orders	39
-25	Effect of notification of transactions	39
-26	Compulsory notification of certain section 18 transactions	42
-26A	Compulsory notification of certain section 21A transactions	45
-27	Form of notification	47
-28	Notification of options	47
-Part III—Miscellaneous	48
-30	Offences	48
-31	Offences by officers of corporations	48
-32	Defence to prosecutions	49
-35	Powers of court to enforce Treasurer’s orders	49
-36	Treasurer may require information	52
-36A	False or misleading statements etc.	52
-37	Effect of Act on other laws	53
-38	Validity of acts done in contravention of Act	53
-38A	Anti-avoidance	53
-39	Regulations	54
-Notes 		55
+Part I—Preliminary	
+1	Short title [see Note 1]	
+2	Commencement [see Note 1]	
+3	Transitional provisions	
+4	Additional operation of Act	
+5	Interpretation	
+5A	Ordinarily resident non-citizens	
+6	Associates	
+7	Australian business	
+8	Control of voting power	
+9	Substantial and controlling interests in corporations	
+9A	Substantial interests in trust estates	
+10	Holding corporations and subsidiaries	
+11	Interests in shares	
+12	Interests in assets	
+12A	Interests in Australian urban land	
+12B	Interests in trust estates	
+12C	Tracing of substantial interests in corporations and trust estates	
+13	Prescribed corporations	
+13A	Exempt dealings	
+13B	Valuation of assets for purposes of section 13A	
+13C	Australian urban land corporations	
+13D	Australian urban land trust estates	
+14	Voting power	
+15	Application of Act	
+16	Extra-territorial operation of Act	
+17	Persons obliged to comply with Act	
+Part II—Control of Takeovers and Other Transactions	
+18	Acquisitions of shares	
+19	Acquisitions of assets	
+20	Arrangements relating to directorate of corporations	
+21	Arrangements relating to control of Australian businesses	
+21A	Acquisitions of interests in Australian urban land	
+22	Interim orders	
+23	Revocation of orders	
+24	Publication of orders	
+25	Effect of notification of transactions	
+26	Compulsory notification of certain section 18 transactions	
+26A	Compulsory notification of certain section 21A transactions	
+27	Form of notification	
+28	Notification of options	
+Part III—Miscellaneous	
+30	Offences	
+31	Offences by officers of corporations	
+32	Defence to prosecutions	
+35	Powers of court to enforce Treasurer’s orders	
+36	Treasurer may require information	
+36A	False or misleading statements etc.	
+37	Effect of Act on other laws	
+38	Validity of acts done in contravention of Act	
+38A	Anti-avoidance	
+39	Regulations	
 
 An Act relating to the foreign acquisition of certain land interests and to the foreign control of certain business enterprises and mineral rights
-Do not delete : Chapter placeholder
 Part I—Preliminary
-Do not delete : Division placeholder
 1  Short title [see Note 1]
-		This Act may be cited as the Foreign Acquisitions and Takeovers Act 1975.
+This Act may be cited as the Foreign Acquisitions and Takeovers Act 1975.
 2  Commencement [see Note 1]
-		This Act shall come into operation on a date to be fixed by Proclamation.
+This Act shall come into operation on a date to be fixed by Proclamation.
 3  Transitional provisions
 	(1)	The Companies (Foreign Take-overs) Act 1972, the Companies (Foreign Take-overs) Act 1973 and the Companies (Foreign Take-overs) Act 1974 are repealed.
 	(2)	 Notwithstanding the repeal of the  Companies (Foreign Take-overs) Act 1972-1974, that Act, other than section 17 shall be deemed to continue in force in relation to:
@@ -75,9 +74,9 @@ Do not delete : Division placeholder
 	(b)	an issue of shares that occurred before that date.
 	(3)	Without limiting the generality of subsection (2), orders may be made under sections 14 and 15 of the repealed Act in pursuance of that subsection.
 	(4)	For the purposes of this Act, but without limiting the operation of subsection (2):
-	(b)	an order in force under subsection 13(6) of the repealed Act immediately before that date has effect on and after that date as if it were an order made under section 22 of this Act;
-	(c)	an order in force under paragraph 13(2)(c) or (3)(c) of the repealed Act immediately before that date has effect on and after that date as if it were an order made under subsection 18(2) of this Act; and
-	(d)	an order in force under paragraph 13(2)(d) or (3)(d) of the repealed Act immediately before that date has effect on and after that date as if it were an order made under subsection 18(3) of this Act.
+	(b)	an order in force under subsection 13 (6) of the repealed Act immediately before that date has effect on and after that date as if it were an order made under section 22 of this Act;
+	(c)	an order in force under paragraph 13 (2) (c) or (3) (c) of the repealed Act immediately before that date has effect on and after that date as if it were an order made under subsection 18 (2) of this Act; and
+	(d)	an order in force under paragraph 13 (2) (d) or (3) (d) of the repealed Act immediately before that date has effect on and after that date as if it were an order made under subsection 18 (3) of this Act.
 	(4A)	For the purposes of the institution, after the commencement of this subsection, of proceedings for an offence referred to in section 21 of the Companies (Foreign Take-overs) Act 1972, the reference in that section to the Commonwealth Industrial Court shall be read as a reference to the Federal Court of Australia.
 	(5)	Nothing in this section affects the operation of section 8 of the Acts Interpretation Act 1901-1973.
 	(6)	Expressions used in this section have the same respective meanings as they had in the repealed Act.
@@ -116,46 +115,46 @@ Do not delete : Division placeholder
 	(1)	 In this Act, unless the contrary intention appears:
 acquisition includes an agreement to acquire, but does not include an acquisition:
 	(a)	by will or by devolution by operation of law; or
-	(b)	by way of enforcement of a security held solely for the purposes of a moneylending agreement.
-agreement means any agreement, whether formal or informal and whether express or implied, other than a moneylending agreement.
-asset includes an interest in an asset.
-Australia includes the external Territories to which this Act extends.
-Australian corporation means a corporation of a kind referred to in paragraph 13(1)(a), (b) or (c).
-Australian rural land means land situated in Australia that is used wholly and exclusively for carrying on a business of primary production.
-Australian urban land means land situated in Australia that is not Australian rural land.
-Australian urban land corporation means a corporation to which section 13C applies.
-Australian urban land trust estate means a trust estate to which section 13D applies.
-balance-sheet includes a statement of assets and liabilities or any similar document.
-constituent document, in relation to a corporation, means the constitution of the corporation or any rules or other document constituting the corporation or governing its activities.
-debenture includes debenture stock, bonds, notes and any other document evidencing or acknowledging indebtedness of a corporation, whether constituting a charge on the assets of the corporation or not.
-director includes any person occupying the position of director of a corporation, by whatever name called.
-financial corporation means a financial corporation to which paragraph 51(xx) of the Constitution is applicable, and includes a corporation formed within the limits of Australia that carries on as its sole or principal business the business of banking or insurance, other than banking or insurance to which paragraph 51(xiii) or (xiv) of the Constitution, as the case may be, is not applicable.
-foreign corporation means a foreign corporation to which paragraph 51(xx) of the Constitution is applicable or a corporation that is incorporated in an external Territory to which this Act does not extend.
+	(b)	by way of enforcement of a security held solely for the purposes of a moneylending agreement;
+agreement means any agreement, whether formal or informal and whether express or implied, other than a moneylending agreement;
+asset includes an interest in an asset;
+Australia includes the external Territories to which this Act extends;
+Australian corporation means a corporation of a kind referred to in paragraph 13(1)(a), (b) or (c);
+Australian rural land means land situated in Australia that is used wholly and exclusively for carrying on a business of primary production;
+Australian urban land means land situated in Australia that is not Australian rural land;
+Australian urban land corporation means a corporation to which section 13C applies;
+Australian urban land trust estate means a trust estate to which section 13D applies;
+balance-sheet includes a statement of assets and liabilities or any similar document;
+constituent document, in relation to a corporation, means the memorandum and articles of association of the corporation or any rules or other document constituting the corporation or governing its activities;
+debenture includes debenture stock, bonds, notes and any other document evidencing or acknowledging indebtedness of a corporation, whether constituting a charge on the assets of the corporation or not;
+director includes any person occupying the position of director of a corporation, by whatever name called;
+financial corporation means a financial corporation to which paragraph 51(xx) of the Constitution is applicable, and includes a corporation formed within the limits of Australia that carries on as its sole or principal business the business of banking or insurance, other than banking or insurance to which paragraph 51(xiii) or (xiv) of the Constitution, as the case may be, is not applicable;
+foreign corporation means a foreign corporation to which paragraph 51(xx) of the Constitution is applicable or a corporation that is incorporated in an external Territory to which this Act does not extend;
 foreign person means:
 	(a)	a natural person not ordinarily resident in Australia;
-	(b)	a corporation in which a natural person not ordinarily resident in Australia or a foreign corporation holds a controlling interest;
+	(b)	a corporation in which a natural person not ordinarily resident~ in Australia or a foreign corporation holds a controlling interest;
 	(c)	a corporation in which 2 or more persons, each of whom is either a natural person not ordinarily resident in Australia or a foreign corporation, hold an aggregate controlling interest;
 	(d)	the trustee of a trust estate in which a natural person not ordinarily resident in Australia or a foreign corporation holds a substantial interest; or
-	(e)	the trustee of a trust estate in which 2 or more persons, each of whom is either a natural person not ordinarily resident in Australia or a foreign corporation, hold an aggregate substantial interest.
-interest in Australian urban land has the meaning given by section 12A.
-land includes a building or other structure, or a part of a building or other structure.
-lease includes a sub-lease.
+	(e)	the trustee of a trust estate in which 2 or more persons, each of whom is either a natural person not ordinarily resident in Australia or a foreign corporation, hold an aggregate substantial interest;
+interest in Australian urban land has the meaning given by section 12A;
+land includes a building or other structure, or a part of a building or other structure;
+lease includes a sub-lease;
 mineral right means:
 	(a)	a right (however described) under a law of the Commonwealth or of a State or Territory to recover minerals, other than a right to recover minerals for the purposes of prospecting or exploring for minerals;
 	(b)	a lease by virtue of which the lessee has a right falling within paragraph (a); or
-	(c)	an interest in a right falling within paragraph (a) or in a lease falling within paragraph (b).
-moneylending agreement means an agreement entered into in good faith in the ordinary course of carrying on a business of lending money, not being an agreement dealing with any matter unrelated to the carrying on of that business.
+	(c)	an interest in a right falling within paragraph (a) or in a lease falling within paragraph (b);
+moneylending agreement means an agreement entered into in good faith in the ordinary course of carrying on a business of lending money, not being an agreement dealing with any matter unrelated to the carrying on of that business;
 officer, in relation to a corporation, includes:
 	(a)	a director, secretary or employee of the corporation;
 	(b)	a receiver and manager of any part of the undertaking of the corporation appointed under a power contained in any instrument; or
-	(c)	a liquidator of the corporation appointed in a voluntary winding up.
-primary production has the same meaning as in the Income Tax Assessment Act 1936.
-profit and loss account includes any statement of profits and losses or any similar document.
-repealed Act means the Companies (Foreign Take-overs) Act 1972-1974.
+	(c)	a liquidator of the corporation appointed in a voluntary winding up;
+primary production has the same meaning as in the Income Tax Assessment Act 1936;
+profit and loss account includes any statement of profits and losses or any similar document;
+repealed Act means the Companies (Foreign Take-overs) Act 1972-1974;
 share, in relation to a corporation, means a share in the share capital of the corporation, and:
 	(a)	includes stock into which all or any of the share capital of the corporation has been converted; and
-	(b)	except in section 11 or 26, includes an interest in such a share or in such stock.
-Territory means an internal Territory or an external Territory to which this Act extends.
+	(b)	except in section 11 or 26, includes an interest in such a share or in such stock;
+Territory means an internal Territory or an external Territory to which this Act extends;
 trading corporation means a trading corporation to which paragraph 51(xx) of the Constitution is applicable.
 	(2)	In this Act, a reference to the determination of the policy of a business of exploiting a mineral right includes a reference to the determination of questions relating to the disposal of the right.
 	(3)	In this Act:
@@ -185,7 +184,7 @@ and references to an arrangement shall be construed accordingly.
 	(ii)	the person is not in Australia but, immediately before the person’s most recent departure from Australia, the person’s continued presence in Australia was not subject to any limitation as to time imposed by law.
 	(2)	For the purposes of paragraph (1)(b), but without otherwise limiting the generality of that paragraph, a person’s continued presence in Australia is subject to a limitation as to time imposed by law if the person is an unlawful non-citizen within the meaning of the Migration Act 1958.
 6  Associates
-		For the purposes of this Act, the following persons are associates of a person:
+For the purposes of this Act, the following persons are associates of a person:
 	(a)	the person’s spouse or a parent or remoter lineal ancestor, son, daughter or remoter issue, brother or sister of the person;
 	(b)	any partner of the person;
 	(c)	any corporation of which the person is an officer;
@@ -208,7 +207,7 @@ and references to an arrangement shall be construed accordingly.
 	(b)	a corporation constituted for a public purpose by a law of the Commonwealth or of a State or Territory; or
 	(c)	a local governing body.
 8  Control of voting power
-		A reference in this Act to control of the voting power in a corporation is a reference to control that is direct or indirect, including control that is exercisable as a result or by means of arrangements or practices, whether or not having legal or equitable force, and whether or not based on legal or equitable rights.
+A reference in this Act to control of the voting power in a corporation is a reference to control that is direct or indirect, including control that is exercisable as a result or by means of arrangements or practices, whether or not having legal or equitable force, and whether or not based on legal or equitable rights.
 9  Substantial and controlling interests in corporations
 	(1)	For the purposes of this Act:
 	(a)	a person shall be taken to hold a substantial interest in a corporation if the person, alone or together with any associate or associates of the person, is in a position to control not less than 15 per centum of the voting power in the corporation or holds interests in not less than 15 per centum of the issued shares in the corporation; and
@@ -233,7 +232,7 @@ that person shall be taken to hold a controlling interest in the corporation, or
 	(b)	subject to paragraphs (c) and (d), any shares held or power exercisable:
 	(i)	by any person as a nominee for that other corporation (except where that other corporation is concerned only in a fiduciary capacity); or
 	(ii)	by, or by a nominee for, a subsidiary of that other corporation, not being a subsidiary that is concerned only in a fiduciary capacity;
-		shall be treated as held or exercisable by that other corporation;
+		 shall be treated as held or exercisable by that other corporation;
 	(c)	any shares held or power exercisable by any person by virtue of the provisions of any debentures of the first-mentioned corporation, or of a trust deed for securing any issue of such debentures, shall be disregarded; and
 	(d)	any shares held or power exercisable by, or by a nominee for, that other corporation or its subsidiary (not being held or exercisable as mentioned in paragraph (c)) shall be treated as not held or exercisable by that other corporation if the ordinary business of that other corporation or its subsidiary, as the case may be, includes the lending of money and the shares are held or the power is exercisable solely by way of security for the purposes of a moneylending agreement.
 	(3)	A reference in this Act to a holding corporation of another corporation is a reference to a corporation of which that other corporation is a subsidiary.
@@ -257,7 +256,7 @@ that person shall be deemed to hold an interest in that share.
 	(c)	the fact that the exercise of a right conferred by the interest is or is capable of being made subject to restraint or restriction.
 	(7)	In relation to a corporation the whole or a portion of the share capital of which consists of stock, an interest of a person in any such stock shall be deemed to be an interest in an issued share in the corporation having the same nominal amount as the amount of that stock and having attached to it the same rights as are attached to that stock.
 12  Interests in assets
-		For the purpose of determining whether a person holds an interest in an asset, the provisions of section 11 (other than paragraph (2)(d), subsection (4), paragraphs (5)(b) and (c) and subsection (7)) have effect as if references in those provisions to a share were references to an asset.
+For the purpose of determining whether a person holds an interest in an asset, the provisions of section 11 (other than paragraph (2)(d), subsection (4), paragraphs (5)(b) and (c) and subsection (7)) have effect as if references in those provisions to a share were references to an asset.
 12A  Interests in Australian urban land
 	(1)	In this Act, interest in Australian urban land means:
 	(a)	a legal or equitable interest in Australian urban land, other than an interest under a lease or licence or in a unit in a unit trust estate;
@@ -301,7 +300,7 @@ the person shall be taken to hold that interest in the trust estate.
 	(b)	the manner in which it arose; or
 	(c)	the fact that the exercise of a right conferred by the interest is, or is capable of being made, subject to restraint or restriction.
 12C  Tracing of substantial interests in corporations and trust estates
-		Where:
+Where:
 	(a)	a person holds a substantial interest, or 2 or more persons hold an aggregate substantial interest, (including a substantial interest held by that person, or an aggregate substantial interest held by those persons, by another application or other applications of this subsection) in a corporation or a trust estate (which corporation or the trustee of which trust estate is in this section called the first level entity); and
 	(b)	the first level entity:
 	(i)	is in a position to control all or any of the voting power, or holds interests in all or any of the issued shares, in a corporation (in this section called the second level corporation); or
@@ -387,18 +386,17 @@ eligible land assets, in relation to a corporation, means so much of the corpora
 	(b)	the valuation was made not more than 12 months before the particular time; and
 	(c)	the value of those assets had not increased significantly between the time of the valuation and the particular time.
 14  Voting power
-		In this Act, a reference to the voting power in a corporation is a reference to the maximum number of votes that might be cast at a general meeting of the corporation.
+In this Act, a reference to the voting power in a corporation is a reference to the maximum number of votes that might be cast at a general meeting of the corporation.
 15  Application of Act
-		This Act does not apply in relation to:
+This Act does not apply in relation to:
 	(a)	an acquisition of shares or assets, or an issue of shares, that occurred before the date of commencement of this Act;
 	(b)	an arrangement that was entered into before that date; or
 	(c)	an acquisition of shares or assets occurring on or after that date, where notice in writing was issued by the Commonwealth Government before that date to the effect that the Commonwealth Government did not object to the acquisition or, in the case of an acquisition occurring by way of the exercise of an option, that it did not object to the acquisition of the option or to the acquisition of those shares or assets in pursuance of the option.
 16  Extra-territorial operation of Act
-		This Act applies both within and outside Australia and extends to every external Territory other than Papua New Guinea.
+This Act applies both within and outside Australia and extends to every external Territory other than Papua New Guinea.
 17  Persons obliged to comply with Act
-		The obligation to comply with this Act extends to all natural persons, whether resident in Australia or not and whether Australian citizens or not, and to all corporations, whether incorporated or carrying on business in Australia or not.
-Part II—Control of takeovers and other transactions
-Do not delete : Division placeholder
+The obligation to comply with this Act extends to all natural persons, whether resident in Australia or not and whether Australian citizens or not, and to all corporations, whether incorporated or carrying on business in Australia or not.
+Part II—Control of Takeovers and Other Transactions
 18  Acquisitions of shares
 	(1)	In this section, corporation means:
 	(a)	a prescribed corporation that carries on an Australian business, whether alone or together with any other person or persons; or
@@ -522,11 +520,11 @@ directing that that person shall not, or none of those persons shall, whether al
 	(1)	For the purpose of enabling due consideration to be given to the question whether an order should be made under subsection 18(2), 19(2), 20(2), 21(2) or 21A(2), the Treasurer may make an order of the kind that he would be empowered to make under that subsection if it were applicable.
 	(2)	An order made under this section has effect for such period, not exceeding 90 days after the coming into operation of the order, as is specified in the order.
 23  Revocation of orders
-		The Treasurer may at any time make an order revoking an order made under section 18, 19, 20, 21, 21A or 22 or an order referred to in subsection 3(4).
+The Treasurer may at any time make an order revoking an order made under section 18, 19, 20, 21, 21A or 22 or an order referred to in subsection 3(4).
 24  Publication of orders
-		An order made by the Treasurer under this Part shall be made in writing signed by him, shall be published in the Gazette within 10 days after the date on which it is made, and comes into operation:
+An order made by the Treasurer under this Part shall be made in writing signed by him, shall be published in the Gazette within 10 days after the date on which it is made, and comes into operation:
 	(a)	except in a case to which paragraph (b) applies—on the date of publication; or
-	(b)	in the case of an order under subsection 18(3) or (4), 19(4), 20(3), 21(3) or 21A(3) or (4)—on such date as is specified in the order, being a date not earlier than 30 days after the date of publication.
+	 (b)	in the case of an order under subsection 18(3) or (4), 19(4), 20(3), 21(3) or 21A(3) or (4)—on such date as is specified in the order, being a date not earlier than 30 days after the date of publication.
 25  Effect of notification of transactions
 	(1)	This section has effect where the Treasurer receives:
 	(a)	a notice from a person stating that the person proposes to acquire shares, assets or interests or to enter into an agreement or enter into or terminate an arrangement;
@@ -539,7 +537,7 @@ directing that that person shall not, or none of those persons shall, whether al
 	(b)	the person or corporation carries out the proposal;
 the following provisions have effect:
 	(c)	if the person or corporation does not comply with the conditions—the person or corporation is guilty of an offence punishable, on conviction, by:
-	(i)	in the case of a natural person—a fine not exceeding $50,000 or imprisonment for a period not exceeding 2 years, or both; or
+	(i)	in the case of a natural person—a fine not exceeding $50,000 or imprisonment for a period not exceeding 2 years, or both; or
 	(ii)	in the case of a corporation—a fine not exceeding $250,000;
 	(d)	the Treasurer may only make an order under subsection 18(4), 19(4), 20(3), 21(3) or 21A(4) in relation to the acquisition, agreement, arrangement, issue or alteration specified in the notice if:
 	(i)	the person or corporation is convicted of an offence against paragraph (c) of this subsection in relation to the conditions; or
@@ -554,7 +552,7 @@ the Treasurer is not empowered:
 	(d)	to make a decision under subsection (1A) in relation to the proposal.
 	(3)	If:
 	(a)	before the end of 30 days after the day on which the Treasurer receives the notice, the Treasurer makes an order under section 22 in relation to the acquisition, agreement, arrangement, issue or alteration specified in the notice;
-	(b)	the order is published in the Gazette before the end of 10 days after the day on which the order is made; and
+	(b)	the order is published in the Gazette  before the end of 10 days after the day on which the order is made; and
 	(c)	90 days pass after the day on which the order is published and by the end of that period:
 	(i)	the Treasurer has not:
 	(A)	made a decision under subsection (1A) in relation to the proposal specified in the notice, being a decision of which advice is given in writing to the person or corporation before the end of 10 days after the day on which the decision is made; or
@@ -565,9 +563,9 @@ the Treasurer is not empowered:
 	(e)	to make a decision under subsection (1A) in relation to the proposal.
 	(4)	For the purposes of this section, a notice stating that a person has an option to acquire shares or assets shall be taken to be a statement that the person proposes to acquire the shares or assets, and references in this section to the proposal and to the acquisition shall be construed accordingly.
 	(4A)	For the purposes of this section but without limiting its generality, a person or corporation may be given advice in writing of a decision of the Treasurer in relation to a proposal if that advice in writing is given to the person or corporation at an address specified, in the notice containing the proposal, as the address for service of notices in relation to the proposal.
-	(5)	In this section, notice includes a notice furnished under section 26 or 26A.
+	(5)	In this section, notice  includes a notice furnished under section 26 or 26A.
 26  Compulsory notification of certain section 18 transactions
-	(1)	In this section, person to whom this section applies means:
+	(1)	In this section, person to whom this section applies  means:
 	(a)	a natural person not ordinarily resident in Australia;
 	(b)	a corporation in which a natural person not ordinarily resident in Australia or a foreign corporation holds a substantial interest;
 	(c)	a corporation in which 2 or more persons, each of whom is either a natural person not ordinarily resident in Australia or a foreign corporation, hold an aggregate substantial interest;
@@ -596,7 +594,7 @@ the person shall not be taken, for the purposes of that subsection, to have ente
 	(b)	upon the acquisition by him of those interests, or of those interests and of any interests in other shares in the corporation, being interests that he has offered to acquire, he would hold a substantial interest in the corporation.
 	(7)	For the purposes of subsection (6), a reference to a person offering to acquire interests in shares includes a reference to a person making or publishing a statement, however expressed, that expressly or impliedly invites a holder of interests in shares to offer to dispose of interests in shares.
 26A  Compulsory notification of certain section 21A transactions
-	(1)	In this section, person to whom this section applies means:
+	(1)	In this section, person to whom this section applies  means:
 	(a)	a natural person not ordinarily resident in Australia;
 	(b)	a corporation in which a natural person not ordinarily resident in Australia or a foreign corporation holds a substantial interest;
 	(c)	a corporation in which 2 or more persons, each of whom is a natural person not ordinarily resident in Australia or a foreign corporation hold an aggregate substantial interest;
@@ -622,11 +620,10 @@ the person shall not be taken, for the purposes of subsection (2), to have enter
 	(d)	the proportion of the total shares made available for allotment represented by the shares for which the shareholder so subscribed is as near as practicable to the proportion of the issued shares in the corporation, immediately before the day specified in the resolution, that were held by the shareholder immediately before that day.
 	(5)	For the purposes of subsection (4), it is immaterial that the shares in the corporation comprise 2 or more classes of shares to which different rights are attached.
 27  Form of notification
-		A notice does not have effect for the purposes of section 25, 26 or 26A unless it is in accordance with the prescribed form and complies with the directions set out in the form.
+A notice does not have effect for the purposes of section 25, 26 or 26A unless it is in accordance with the prescribed form and complies with the directions set out in the form.
 28  Notification of options
-		A notice furnished in accordance with section 25 stating that a person proposes to acquire an option to acquire a share or asset has effect as if it included a statement that the person proposes to exercise that option.
+A notice furnished in accordance with section 25 stating that a person proposes to acquire an option to acquire a share or asset has effect as if it included a statement that the person proposes to exercise that option.
 Part III—Miscellaneous
-Do not delete : Division placeholder
 30  Offences
 	(1)	A person who contravenes or fails to comply with an order made under Part II is guilty of an offence against this section.
 	(2)	Where a person has been convicted of an offence consisting of a contravention, or failure to comply with, an order made under Part II and the contravention or failure continues after he has been so convicted, the person is guilty of a further offence against this section.
@@ -682,7 +679,7 @@ Penalty:
 	(b)	in the case of a corporation—$10,000.
 	(3)	A person is not excused from furnishing information or producing a document in pursuance of this section on the ground that the information or document might tend to incriminate him, but his answer to any question asked in the notice, or his furnishing of any other information in pursuance of the notice, is not admissible in evidence against him in any criminal proceedings other than proceedings under this Act.
 36A  False or misleading statements etc.
-		A person shall not knowingly or recklessly, in connection with the operation of this Act:
+A person shall not knowingly or recklessly, in connection with the operation of this Act:
 	(a)	make a statement, either orally or in writing, to the Treasurer or to an officer of the Department that is false or misleading in a material particular;
 	(b)	omit from a statement made, either orally or in writing, to the Treasurer or to an officer of the Department any matter or thing without which the statement is misleading in a material particular; or
 	(c)	give a document to the Treasurer or to an officer of the Department that contains information that is false or misleading in a material particular.
@@ -690,9 +687,9 @@ Penalty:
 	(d)	in the case of a natural person—$10,000 or imprisonment for 12 months, or both; or
 	(e)	in the case of a corporation—$50,000.
 37  Effect of Act on other laws
-		It is the intention of the Parliament that this Act shall not apply to the exclusion of any law of a State or Territory to the extent that that law is capable of operating concurrently with this Act.
+It is the intention of the Parliament that this Act shall not apply to the exclusion of any law of a State or Territory to the extent that that law is capable of operating concurrently with this Act.
 38  Validity of acts done in contravention of Act
-		An act is not invalidated by the fact that it constitutes an offence against this Act.
+An act is not invalidated by the fact that it constitutes an offence against this Act.
 38A  Anti-avoidance
 	(1)	In this section, scheme means:
 	(a)	any agreement, arrangement, understanding, promise or undertaking, whether express or implied and whether or not enforceable, or intended to be enforceable, by legal proceedings; and
@@ -704,11 +701,11 @@ Penalty:
 the Treasurer may make any order under this Act that the Treasurer would have been able to make if the scheme or the part of the scheme had not achieved that purpose.
 	(3)	Subsection (2) does not authorise the making of an order prohibiting a person from doing any thing that has already been done by the person before the order is made.
 39  Regulations
-		The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed or necessary or convenient to be prescribed for carrying out or giving effect to this Act.
-Notes to the Foreign Acquisitions and Takeovers Act 1975
-Note1
-The Foreign Acquisitions and Takeovers Act 1975 as shown in this reprint comprises Act No. 92, 1975 amended as indicated in the Tables below. 
+The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed or necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+NOTE
+1. 	The Foreign Acquisitions and Takeovers Act 1975 as shown in this reprint comprises Act No. 92, 1975 amended as indicated in the Tables below. 
 Table of Acts
+
 Act
 Number  and year
 Date  of Assent
@@ -722,12 +719,12 @@ Foreign Takeovers Act 1975
 Foreign Takeovers Amendment Act 1976
 93, 1976
 20 Sept 1976
-Ss. 1, 2, 3(2), 5, 9, 11 and 12: Royal Assent Remainder: 1 Jan 1976
+Ss. 1, 2, 3 (2), 5, 9, 11 and 12: Royal Assent Remainder: 1 Jan 1976
 Ss. 11 and 12
 Jurisdiction of Courts (Miscellaneous Amendments) Act 1979
 19, 1979
 28 Mar 1979
-Parts II-XVII (ss. 3-123): 15 May 1979 (see Gazette 1979, No. S86) Remainder: Royal Assent
+ Parts II-XVII (ss. 3-123): 15 May 1979 (see Gazette 1979, No. S86) Remainder: Royal Assent
 S. 124
 Commonwealth Functions (Statutes Review) Act 1981
 74, 1981
@@ -736,7 +733,7 @@ Part XII (ss. 185-187): Royal Assent (a)
 —
 Foreign Takeovers Amendment Act 1989
 14, 1989
-13 Apr 1989
+13 Apr1989
 1 Aug 1989 (see Gazette 1989, No. S240)
 S. 32
 Migration Legislation Amendment Act 1994
@@ -749,23 +746,20 @@ Crimes and Other Legislation Amendment Act 1997
 7 Apr 1997
 Schedule 2 (item 5): Royal Assent (c)
 —
-Company Law Review Act 1998
-61, 1998
-29 June 1998
-Schedule 4 (item 10): 1 July 1998 (see Gazette 1998, No. S317) (d)
-—
 
-(a)	The Foreign Acquisitions and Takeovers Act 1975  was amended by Part XII (sections 185-187) only of the Commonwealth Functions (Statutes Review) Act 1981, subsection 2(1) of which provides as follows:
-	(1)	Parts I, IV, IX, X, XI, XII, XIII, XVII (other than sections 220, 221, 222, 223, 225, 226, 227, 228, and 230), XX, XXI, XXII and XXIII shall come into operation on the day on which this Act receives the Royal Assent.
-(b)	The Foreign Acquisitions and Takeovers Act 1975 was amended by section 85 only of the Migration Legislation Amendment Act 1994, subsection 2(3) of which provides as follows:
-	(3)	The remaining provisions of this Act commence immediately after the commencement of section 3 of the Migration Reform Act 1992.
+
+(a)	The Foreign Acquisitions and Takeovers Act 1975 was amended by Part XII (sections 185-187) only of the Commonwealth Functions (Statutes Review) Act 1981, subsection 2 (1) of which provides as follows:
+	“(1)	Parts I, IV, IX, X, XI, XII, XIII, XVII (other than sections 220, 221, 222, 223, 225, 226, 227, 228, and 230), XX, XXI, XXII and XXIII shall come into operation on the day on which this Act receives the Royal Assent.”
+(b)	The Foreign Acquisitions and Takeovers Act 1975 was amended by section 85 only of the Migration Legislation Amendment Act 1994, subsection 2 (3) of which provides as follows:
+	“(3)	The remaining provisions of this Act commence immediately after the commencement of section 3 of the Migration Reform Act 1992.”
 	Section 3 commenced on 1 September 1994.
-(c)	The Foreign Acquisitions and Takeovers Act 1975  was amended by Schedule 2 (item 5) only of the Crimes and Other Legislation Amendment Act 1997, subsection 2(1) of which provides as follows:
-	(1)	Subject to subsection (2), this Act commences on the day on which it receives the Royal Assent.
-(d)	The Foreign Acquisitions and Takeovers Act 1975  was amended by Schedule 4 (item 10) only of the Company Law Review Act 1998, subsection 2(2) of which provides as follows:
-	(2)	Subject to subsection (3), section 3 and Schedules 1, 2, 3 and 4 commence on a day to be fixed by Proclamation.
+(c)	The Foreign Acquisitions and Takeovers Act 1975 was amended by Schedule 2 (item 5) only of the Crimes and Other Legislation Amendment Act 1997, subsection 2(1) of which provides as follows:
+	“(1)	Subject to subsection (2), this Act commences on the day on which it receives the Royal Assent.”
+
 Table of Amendments
+
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
+
 Provision affected
 How affected
 Title	
@@ -777,7 +771,7 @@ am. No. 93, 1976; No. 19, 1979
 S. 4	
 am. No. 14, 1989
 S. 5	
-am. No. 93, 1976; No. 74, 1981; No. 14, 1989; No. 61, 1998
+am. No. 93, 1976; No. 74, 1981; No. 14, 1989
 S. 5A	
 ad. No. 14, 1989
 
