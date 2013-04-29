@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2009C00276/Html/AdmiraltyAct88WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00448/Html/AdmiraltyAct88WD02_image001.gif)
 
 # Admiralty Act 1988
 
 **Act No. 34 of 1988 as amended**
 
-This compilation was prepared on 30 June 2009
+This compilation was prepared on 25 July 2008
  taking into account amendments up to Act No. 77 of 2008
 
 The text of any of those amendments not in force
@@ -75,8 +75,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [25](#25).          Limitation of liability under Liability Conventions
 
 [26](#26).          Proceedings under Civil Liability Convention
-
-[26A](#26A).       Proceedings in accordance with the Bunker Oil Convention
 
 **Part IV—Transfer and remittal of proceedings**
 
@@ -280,17 +278,11 @@ the other ship is, in relation to the claim, a surrogate ship.
 
              (3)  A reference in this Act to a general maritime claim is a reference to:
 
-                     (a)  a claim for damage done by a ship (whether by collision or otherwise); or
+                     (a)  a claim for damage done by a ship (whether by collision or otherwise);
 
-                     (b)  a claim in respect of the liability of the owner of a ship arising under Part II or IV of the _Protection of the Sea (Civil Liability) Act 1981_ or under a law of a State or Territory that makes provision as mentioned in subsection 7(1) of that Act; or
+                     (b)  a claim in respect of the liability of the owner of a ship arising under Part II or IV of the _Protection of the Sea (Civil Liability) Act 1981_ or under a law of a State or Territory that makes provision as mentioned in subsection 7(1) of that Act;
 
-                    (ba)  a claim under:
-
-                              (i)  the applied provisions (within the meaning of the _Protection of the Sea (Civil Liability for Bunker Oil Pollution Damage) Act 2008_); or
-
-                             (ii)  a law of a State or Territory of a kind referred to in subsection 10(1) of that Act; or
-
-                     (c)  a claim for loss of life, or for personal injury, sustained in consequence of a defect in a ship or in the apparel or equipment of a ship; or
+                     (c)  a claim for loss of life, or for personal injury, sustained in consequence of a defect in a ship or in the apparel or equipment of a ship;
 
                      (d)  a claim (including a claim for loss of life or personal injury) arising out of an act or omission of:
 
@@ -306,41 +298,41 @@ the other ship is, in relation to the claim, a surrogate ship.
 
                              (v)  the embarkation of persons on to, or the disembarkation of persons from, the ship; and
 
-                            (vi)  the carriage of goods or persons on the ship; or
+                            (vi)  the carriage of goods or persons on the ship;
 
-                     (e)  a claim for loss of, or damage to, goods carried by a ship; or
+                     (e)  a claim for loss of, or damage to, goods carried by a ship;
 
-                      (f)  a claim arising out of an agreement that relates to the carriage of goods or persons by a ship or to the use or hire of a ship, whether by charterparty or otherwise; or
+                      (f)  a claim arising out of an agreement that relates to the carriage of goods or persons by a ship or to the use or hire of a ship, whether by charterparty or otherwise;
 
-                     (g)  a claim relating to salvage (including life salvage and salvage of cargo or wreck found on land); or
+                     (g)  a claim relating to salvage (including life salvage and salvage of cargo or wreck found on land);
 
-                     (h)  a claim in respect of general average; or
+                     (h)  a claim in respect of general average;
 
-                      (j)  a claim in respect of towage of a ship; or
+                      (j)  a claim in respect of towage of a ship;
 
-                     (k)  a claim in respect of pilotage of a ship; or
+                     (k)  a claim in respect of pilotage of a ship;
 
-                    (m)  a claim in respect of goods, materials or services (including stevedoring and lighterage services) supplied or to be supplied to a ship for its operation or maintenance; or
+                    (m)  a claim in respect of goods, materials or services (including stevedoring and lighterage services) supplied or to be supplied to a ship for its operation or maintenance;
 
-                     (n)  a claim in respect of the construction of a ship (including such a claim relating to a vessel before it was launched); or
+                     (n)  a claim in respect of the construction of a ship (including such a claim relating to a vessel before it was launched);
 
-                     (o)  a claim in respect of the alteration, repair or equipping of a ship; or
+                     (o)  a claim in respect of the alteration, repair or equipping of a ship;
 
-                     (p)  a claim in respect of a liability for port, harbour, canal or light tolls, charges or dues, or tolls, charges or dues of a similar kind, in relation to a ship; or
+                     (p)  a claim in respect of a liability for port, harbour, canal or light tolls, charges or dues, or tolls, charges or dues of a similar kind, in relation to a ship;
 
-                     (q)  a claim in respect of a levy in relation to a ship, including a shipping levy imposed by the _Protection of the Sea (Shipping Levy) Act 1981_, being a levy in relation to which a power to detain the ship is conferred by a law in force in Australia or in a part of Australia; or
+                     (q)  a claim in respect of a levy in relation to a ship, including a shipping levy imposed by the _Protection of the Sea (Shipping Levy) Act 1981_, being a levy in relation to which a power to detain the ship is conferred by a law in force in Australia or in a part of Australia;
 
-                      (r)  a claim by a master, shipper, charterer or agent in respect of disbursements on account of a ship; or
+                      (r)  a claim by a master, shipper, charterer or agent in respect of disbursements on account of a ship;
 
-                      (s)  a claim for an insurance premium, or for a mutual insurance call, in relation to a ship; or
+                      (s)  a claim for an insurance premium, or for a mutual insurance call, in relation to a ship;
 
                       (t)  a claim by a master, or a member of the crew, of a ship for:
 
                               (i)  wages; or
 
-                             (ii)  an amount that a person, as employer, is under an obligation to pay to a person as employee, whether the obligation arose out of the contract of employment or by operation of law, including the operation of the law of a foreign country; or
+                             (ii)  an amount that a person, as employer, is under an obligation to pay to a person as employee, whether the obligation arose out of the contract of employment or by operation of law, including the operation of the law of a foreign country;
 
-                     (u)  a claim for the enforcement of, or a claim arising out of, an arbitral award (including a foreign award within the meaning of the _International Arbitration Act 1974_) made in respect of a proprietary maritime claim or a claim referred to in one of the preceding paragraphs; or
+                     (u)  a claim for the enforcement of, or a claim arising out of, an arbitral award (including a foreign award within the meaning of the _International Arbitration Act 1974_) made in respect of a proprietary maritime claim or a claim referred to in one of the preceding paragraphs;
 
                     (w)  a claim for interest in respect of a claim referred to in one of the preceding paragraphs.
 
@@ -370,7 +362,7 @@ the other ship is, in relation to the claim, a surrogate ship.
 
                      (b)  a cause of action that would not have existed if this Act had not been passed.
 
-##### <a id="7"></a>7  External  Territories
+##### <a id="7"></a>7  External  Territories
 
                    This Act extends to each external Territory.
 
@@ -567,14 +559,6 @@ Note:          For the Convention on the Law of the Sea see the 
 ##### <a id="26"></a>26  Proceedings under Civil Liability Convention
 
                    A proceeding under this Act on a maritime claim referred to in paragraph 4(3)(b) shall not be brought otherwise than in accordance with paragraphs 1 and 3 of Article IX of the Civil Liability Convention, whether or not the proceeding also relates to a maritime claim or to a maritime lien or other charge.
-
-##### <a id="26A"></a>26A  Proceedings in accordance with the Bunker Oil Convention
-
-             (1)  A proceeding under this Act on a maritime claim referred to in paragraph 4(3)(ba) must not be brought otherwise than in accordance with paragraphs 1 and 2 of Article 9 of the Bunker Oil Convention, whether or not the proceeding also relates to another maritime claim or to a maritime lien or other charge.
-
-             (2)  In this section:
-
-                    <a name="bunker-oil-convent"></a>**_Bunker Oil Convention_** has the same meaning as in the _Protection of the Sea (Civil Liability for Bunker Oil Pollution Damage) Act 2008_.
 
 ## Part IV—Transfer and remittal of proceedings
 
@@ -1044,7 +1028,7 @@ of Assent</div>
     <div>22 May 1988</div>
   </td>
   <td>
-    <div>1 Jan 1989 ( <i>see Gazette</i>1988, No. S359)</div>
+    <div>1 Jan 1989 ( <i>see Gazette</i>1988, No. S359)</div>
   </td>
   <td>
     <div></div>
@@ -1095,7 +1079,7 @@ of Assent</div>
     <div>15 Feb 1994</div>
   </td>
   <td>
-    <div>1 Aug 1994 ( <i>see Gazette</i>1994, No. S289)</div>
+    <div>1 Aug 1994 ( <i>see Gazette</i>1994, No. S289)</div>
   </td>
   <td>
     <div>—</div>
@@ -1163,7 +1147,7 @@ of Assent</div>
     <div>3 July 2008</div>
   </td>
   <td>
-    <div>Schedule 1 (item 3): Royal Assent</div>
+    <div>Schedule 1 (item 3): Royal Assent</div>
   </td>
   <td>
     <div>—</div>
@@ -1180,7 +1164,7 @@ of Assent</div>
     <div>12 July 2008</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1–4): 16 June 2009 ( <i>see</i>s. 2(1))</div>
+    <div>Schedule 1 (items 1–4): \[ <i>see</i>s. 2(1) and Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -1231,7 +1215,7 @@ of Assent</div>
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 73, 2008; No. 77, 2009</div>
+    <div>am. No. 73, 2008</div>
   </td>
 </tr>
 <tr>
@@ -1276,14 +1260,6 @@ of Assent</div>
 </tr>
 <tr>
   <td>
-    <div>S. 26A</div>
-  </td>
-  <td>
-    <div>ad. No. 77, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part IV</b></div>
   </td>
   <td>
@@ -1314,6 +1290,46 @@ of Assent</div>
     <div>am. No. 23, 2006</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Protection of the Sea (Civil Liability for Bunker Oil Pollution Damage) (Consequential Amendments) Act 2008 (No. 77, 2008)_
+
+The following amendments commence on the day on which the International Convention on Civil Liability for Bunker Oil Pollution Damage, 2001, done at London on 23 March 2001, enters into force for Australia. However, the amendments may not commence at all, _see_ section 2(1) (item 2):
+
+## Schedule 1
+
+## 1  At the end of paragraphs 4(3)(a) and (b)
+
+Add “or”.
+
+## 2  After paragraph 4(3)(b)
+
+Insert:
+
+                    (ba)  a claim under:
+
+                              (i)  the applied provisions (within the meaning of the _Protection of the Sea (Civil Liability for Bunker Oil Pollution Damage) Act 2008_); or
+
+                             (ii)  a law of a State or Territory of a kind referred to in subsection 10(1) of that Act; or
+
+## 3  At the end of paragraphs 4(3)(c), (d), (e), (f), (g), (h), (j), (k), (m), (n), (o), (p), (q), (r), (s), (t) and (u)
+
+Add “or”.
+
+## 4  At the end of Part III
+
+Add:
+
+##### <a id="26A"></a>26A  Proceedings in accordance with the Bunker Oil Convention
+
+             (1)  A proceeding under this Act on a maritime claim referred to in paragraph 4(3)(ba) must not be brought otherwise than in accordance with paragraphs 1 and 2 of Article 9 of the Bunker Oil Convention, whether or not the proceeding also relates to another maritime claim or to a maritime lien or other charge.
+
+             (2)  In this section:
+
+                    <a name="bunker-oil-convent"></a>**_Bunker Oil Convention_** has the same meaning as in the _Protection of the Sea (Civil Liability for Bunker Oil Pollution Damage) Act 2008_.
+
+As at 25 July 2008 the amendments are not incorporated in this compilation.
 
 ## Table A
 
