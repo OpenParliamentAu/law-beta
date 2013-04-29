@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00593/Html/c0f30af8-7d18-4800-8d04-ca17d2319a44_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00086/Html/d7cc3e23-aff9-4b9d-b426-47bdd130a548_files/image001.gif)
 
 # Australian Prudential Regulation Authority Act 1998
 
 **Act No. 50 of 1998 as amended**
 
-This compilation was prepared on 6 August 2012
- taking into account amendments up to Act No. 91 of 2012
+This compilation was prepared on 27 December 2011
+ taking into account amendments up to Act No. 108 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -870,7 +870,7 @@ Note:          Subsection 33(3) of the _Acts Interpretation Ac
 
                      (b)  if the interest is an expectation to enter into a new business relationship—the interest does not have to be disclosed unless the member can identify the other party, or one or more other parties, to the relationship.
 
-##### <a id="48B"></a>48B  Obligation to disclose interests before deciding a particular matter
+##### <a id="48B"></a>48B  Obligation to disclose interests before deciding a particular matter
 
              (1)  An APRA member who has an interest that could conflict with the proper performance of the functions of his or her office, as they give the member a role in deciding a particular matter, must not perform the role in deciding the matter unless:
 
@@ -918,33 +918,21 @@ Determination of Commonwealth costs
 
                               (i)  providing market integrity and consumer protection functions for prudentially regulated institutions; and
 
-                             (ii)  administering the function of making determinations about the release on compassionate grounds of  benefits that are in a superannuation entity or retirement savings account; and
-
-                            (iii)  implementing the SuperStream measures until 30 June 2018;
+                             (ii)  administering the function of making determinations about the release on compassionate grounds of  benefits that are in a superannuation entity or retirement savings account;
 
                      (b)  a determination, in respect of each class of levy for that financial year, specifying the amount of the levy money payable to the Commonwealth in respect of that class of levy for that financial year, to cover the costs to the Commonwealth of:
 
                               (i)  providing market integrity and consumer protection functions for prudentially regulated institutions; and
 
-                             (ii)  administering the function of making determinations about the release on compassionate grounds of  benefits that are in a superannuation entity or retirement savings account; and
-
-                            (iii)  implementing the SuperStream measures until 30 June 2018.
+                             (ii)  administering the function of making determinations about the release on compassionate grounds of  benefits that are in a superannuation entity or retirement savings account.
 
 Note:          Regulations made under the _Superannuation Industry (Supervision) Act 1993_ and the _Retirement Savings Accounts Act 1997_ provide for the making of determinations about the release of benefits on compassionate grounds.
 
-          (1A)  The Minister may make, by legislative instrument, for each financial year, a determination specifying the proportion of amounts of levy money paid to APRA, on behalf of the Commonwealth, for the year, that is to be credited to the APRA Special Account on an ongoing basis.
-
 Crediting to APRA Special Account
 
-             (2)  The proportion determined under subsection (1A) of any amount of levy money paid to APRA, on behalf of the Commonwealth, for a financial year, is to be credited to the APRA Special Account.
+             (2)  An amount determined under paragraph (1)(a) or (b) is not to be credited to the APRA Special Account.
 
-             (3)  If the amount of levy money paid to APRA, on behalf of the Commonwealth, for a financial year, exceeds the sum of:
-
-                     (a)  the amount determined under paragraph (1)(a), or the total of the amounts determined under paragraph (1)(b), for that financial year; and
-
-                     (b)  the proportion determined under subsection (1A) of amounts of levy money, for that financial year;
-
-the excess is to be credited to the APRA Special Account.
+             (3)  The amount of levy money paid to APRA, on behalf of the Commonwealth, for a financial year that exceeds the amount determined under paragraph (1)(a), or the total of the amounts determined under paragraph (1)(b), for that financial year is to be credited to the APRA Special Account.
 
 Note:          The annual financial statements of APRA, in respect of the APRA Special Account, must be prepared in accordance with the Finance Minister’s Orders (see section 49 of the _Financial Management and Accountability Act 1997_).
 
@@ -979,18 +967,6 @@ Definitions
                     <a name="retir-save-account"></a>**_retirement savings account_** has the same meaning as in the _Retirement Savings Accounts Act 1997_.
 
                     <a name="superannu-entiti"></a>**_superannuation entity_** has the same meaning as in the _Superannuation Industry (Supervision) Act 1993_.
-
-                    <a name="superstream-measur"></a>**_SuperStream measures_** means:
-
-                     (a)  the superannuation data and payment regulations and standards made under the _Superannuation Industry (Supervision) Act 1993_; and
-
-                     (b)  the data and payment regulations and standards for retirement savings accounts made under the _Retirement Savings Accounts Act 1997_; and
-
-(c)  the consolidation of active and inactive superannuation interests; and
-
-                     (d)  the requirement that tax file numbers be the primary means for identifying member accounts; and
-
-                     (e)  any other matter prescribed by the regulations made for the purposes of this subsection.
 
 ##### <a id="51"></a>51  Charges for APRA’s services etc.
 
@@ -1210,7 +1186,7 @@ other than:
 
                      (c)  a person who has been, is, or proposes to be, a customer of a body regulated by APRA or of a registered entity;
 
-other than:
+other than :
 
                      (d)  information that has already been lawfully made available to the public from other sources; or
 
@@ -1512,7 +1488,7 @@ provisions</div>
     <div>29 June 1998</div>
   </td>
   <td>
-    <div>1 July 1998 ( <i>see Gazette</i>1998, No. S316)</div>
+    <div>1 July 1998 ( <i>see Gazette</i>1998, No. S316)</div>
   </td>
   <td>
     <div></div>
@@ -1572,7 +1548,7 @@ provisions</div>
     <div>11 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 1 (items 486, 487): <i>(b)</i></div>
+    <div>Schedule 1 (items 486, 487): <i>(b)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1592,7 +1568,7 @@ provisions</div>
     <div>17 June 1999</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1–3, 5–9) and Schedule 8: Royal Assent <i>(c) 
+    <div>Schedule 1 (items 1–3, 5–9) and Schedule 8: Royal Assent <i>(c) 
  </i>Schedule 1 (item 4): 1 July 1999 ( <i>see Gazette</i>1999, No. S283) <i>(c)</i></div>
   </td>
   <td>
@@ -1613,7 +1589,7 @@ provisions</div>
     <div>8 Oct 1999</div>
   </td>
   <td>
-    <div>Schedule 2 (items 1, 2): Royal Assent <i>(d)</i></div>
+    <div>Schedule 2 (items 1, 2): Royal Assent <i>(d)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1653,7 +1629,7 @@ provisions</div>
     <div>24 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 10 (items 53, 54): 13 Mar 2000 ( <i>see</i> <i>Gazette</i>2000,No. S114) <i>(f)</i></div>
+    <div>Schedule 10 (items 53, 54): 13 Mar 2000 ( <i>see</i> <i>Gazette</i>2000,No. S114) <i>(f)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1673,9 +1649,9 @@ provisions</div>
     <div>3 Apr 2000</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1, 2): <i>(g)</i> 
-Schedule 1 (items 3–13): Royal Assent <i>(g) 
- </i>Schedule 12 (items 1–3): 3 Apr 2000 <i>(g)</i></div>
+    <div>Schedule 1 (items 1, 2): <i>(g)</i> 
+Schedule 1 (items 3–13): Royal Assent <i>(g) 
+ </i>Schedule 12 (items 1–3): 3 Apr 2000 <i>(g)</i></div>
   </td>
   <td>
     <div>Sch. 12 (items 1–3)</div>
@@ -1695,8 +1671,8 @@ Schedule 1 (items 3–13): Royal Assent <i>(g)
     <div>21 Dec 2000</div>
   </td>
   <td>
-    <div>S. 4: 18 Jan 2001 
-Schedule 4 (items 1–1B): Royal Assent</div>
+    <div>Schedule 1 (item 21): Royal Assent 
+Remainder: 18 Jan 2001</div>
   </td>
   <td>
     <div>S. 4</div>
@@ -1716,8 +1692,8 @@ Schedule 4 (items 1–1B): Royal Assent</div>
     <div>28 June 2001</div>
   </td>
   <td>
-    <div>Ss. 4–14 and Schedule 3 (items 63, 64, 66): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(h)</i> 
-Schedule 3 (items 65, 67): 1 July 2002 ( <i>see</i> <i>Gazette</i>2002, No. GN24) <i>(h)</i></div>
+    <div>Ss. 4–14 and Schedule 3 (items 63, 64, 66): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(h)</i> 
+Schedule 3 (items 65, 67): 1 July 2002 ( <i>see</i> <i>Gazette</i>2002, No. GN24) <i>(h)</i></div>
   </td>
   <td>
     <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
@@ -1737,7 +1713,8 @@ Schedule 3 (items 65, 67): 1 July 2002 ( <i>see</i> <i>Gazette</i>2002, No. 
     <div>19 Sept 2001</div>
   </td>
   <td>
-    <div>Schedule 3 (items 1, 1A): 1 July 2002</div>
+    <div>Schedules 1 and 3: 1 July 2002 
+Remainder: Royal Assent</div>
   </td>
   <td>
     <div>—</div>
@@ -1809,7 +1786,7 @@ Remainder: 1 July 2002 ( <i>see</i>s. 2(2) and <i>Gazette</i>2002, No. GN24)</
     <div>24 June 2003</div>
   </td>
   <td>
-    <div>Schedules 1–3: 1 July 2003 ( <i>see Gazette</i>2003, No. S230) 
+    <div>Schedules 1–3: 1 July 2003 ( <i>see Gazette</i>2003, No. S230) 
 Remainder: Royal Assent</div>
   </td>
   <td colspan="2">
@@ -1844,7 +1821,8 @@ Remainder: Royal Assent</div>
     <div>14 Sept 2006</div>
   </td>
   <td>
-    <div>Schedule 2 (item 20) and Schedule 6 (items 1, 6–11): Royal Assent</div>
+    <div>Schedule 2 (item 20) and Schedule 6 (items 1, 6–11): 
+Royal Assent</div>
   </td>
   <td colspan="2">
     <div>Sch. 6 (items 1, 
@@ -1966,7 +1944,7 @@ Remainder: Royal Assent</div>
     <div>17 Oct 2008</div>
   </td>
   <td>
-    <div>Schedule 1 (items 35–52): <i>(k)</i></div>
+    <div>Schedule 1 (items 35–52): <i>(k)</i></div>
   </td>
   <td colspan="2">
     <div>—</div>
@@ -1983,7 +1961,7 @@ Remainder: Royal Assent</div>
     <div>27 Aug 2009</div>
   </td>
   <td>
-    <div>Schedule 1 (items 188, 189): 27 Feb 2010</div>
+    <div>Schedule 1 (items 188, 189): 27 Feb 2010</div>
   </td>
   <td colspan="2">
     <div>—</div>
@@ -2017,7 +1995,7 @@ Remainder: Royal Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 234, 235) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 234, 235) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
   </td>
   <td colspan="2">
     <div>Sch. 3 (items 10, 11)</div>
@@ -2034,7 +2012,7 @@ Remainder: Royal Assent</div>
     <div>28 June 2011</div>
   </td>
   <td>
-    <div>Schedule 1 (items 18, 19): <i>(l)</i></div>
+    <div>Schedule 1 (items 18, 19): <i>(l)</i></div>
   </td>
   <td colspan="2">
     <div>—</div>
@@ -2051,27 +2029,10 @@ Remainder: Royal Assent</div>
     <div>14 Oct 2011</div>
   </td>
   <td>
-    <div>Schedule 1 (items 17–19, 22): 1 Nov 2011 ( <i>see</i>F2011L02110)</div>
+    <div>Schedule 1 (items 17–19, 22): 1 Nov 2011 ( <i>see</i>F2011L02110)</div>
   </td>
   <td colspan="2">
     <div>Sch. 1 (item 22)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Superannuation Legislation Amendment (Stronger Super) Act 2012</div>
-  </td>
-  <td>
-    <div>91, 2012</div>
-  </td>
-  <td>
-    <div>28 June 2012</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 1–6): 29 June 2012</div>
-  </td>
-  <td colspan="2">
-    <div>Sch. 2 (item 6)</div>
   </td>
 </tr></table>
 
@@ -2103,7 +2064,7 @@ _(b)_     The _Financial Sector Reform (Amendments and Transitional Prov
 
          The amended items commenced on 5 December 1999 immediately after the _Public Employment (Consequential and Transitional) Amendment Act 1999_ came into operation.
 
-_(c)_ The _Australian Prudential Regulation Authority Act 1998_ was amended by Schedule 1 only of the _Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999_, subsections 3(1) and (2)(a) of which provide as follows:
+_(c)_ The _Australian Prudential Regulation Authority Act 1998_ was amended by Schedule 1 only of the _Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999_, subsections 3(1), (2)(a) of which provide as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
@@ -2630,23 +2591,7 @@ _(l)_      Subsection 2(1) (item 2) of the _Superannuation Legislation
 </tr>
 <tr>
   <td>
-    <div>S. 16</div>
-  </td>
-  <td>
-    <div>rs. No. 42, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 17</div>
-  </td>
-  <td>
-    <div>rs. No. 42, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18</div>
+    <div>Ss. 16–18</div>
   </td>
   <td>
     <div>rs. No. 42, 2003</div>
@@ -2686,39 +2631,7 @@ _(l)_      Subsection 2(1) (item 2) of the _Superannuation Legislation
 </tr>
 <tr>
   <td>
-    <div>S. 20</div>
-  </td>
-  <td>
-    <div>rs. No. 42, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 21</div>
-  </td>
-  <td>
-    <div>rs. No. 42, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22</div>
-  </td>
-  <td>
-    <div>rs. No. 42, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 23</div>
-  </td>
-  <td>
-    <div>rs. No. 42, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 24</div>
+    <div>Ss. 20–24</div>
   </td>
   <td>
     <div>rs. No. 42, 2003</div>
@@ -2758,31 +2671,7 @@ _(l)_      Subsection 2(1) (item 2) of the _Superannuation Legislation
 </tr>
 <tr>
   <td>
-    <div>S. 27</div>
-  </td>
-  <td>
-    <div>rs. No. 42, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 28</div>
-  </td>
-  <td>
-    <div>rs. No. 42, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 29</div>
-  </td>
-  <td>
-    <div>rs. No. 42, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 30</div>
+    <div>Ss. 27–30</div>
   </td>
   <td>
     <div>rs. No. 42, 2003</div>
@@ -2942,23 +2831,7 @@ _(l)_      Subsection 2(1) (item 2) of the _Superannuation Legislation
 </tr>
 <tr>
   <td>
-    <div>S. 48AA</div>
-  </td>
-  <td>
-    <div>ad. No. 74, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 48AB</div>
-  </td>
-  <td>
-    <div>ad. No. 74, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 48AC</div>
+    <div>Ss. 48AA–48AC</div>
   </td>
   <td>
     <div>ad. No. 74, 2007</div>
@@ -2990,15 +2863,7 @@ _(l)_      Subsection 2(1) (item 2) of the _Superannuation Legislation
 </tr>
 <tr>
   <td>
-    <div>S. 48A</div>
-  </td>
-  <td>
-    <div>ad. No. 42, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 48B</div>
+    <div>Ss. 48A, 48B</div>
   </td>
   <td>
     <div>ad. No. 42, 2003</div>
@@ -3129,7 +2994,7 @@ _(l)_      Subsection 2(1) (item 2) of the _Superannuation Legislation
     <div></div>
   </td>
   <td>
-    <div>am. No. 105, 2008; No. 108, 2011; No. 91, 2012</div>
+    <div>am. No. 105, 2008; No. 108, 2011</div>
   </td>
 </tr>
 <tr>
@@ -3238,31 +3103,7 @@ _(l)_      Subsection 2(1) (item 2) of the _Superannuation Legislation
 </tr>
 <tr>
   <td>
-    <div>S. 54A</div>
-  </td>
-  <td>
-    <div>ad. No. 105, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 54B</div>
-  </td>
-  <td>
-    <div>ad. No. 105, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 54C</div>
-  </td>
-  <td>
-    <div>ad. No. 105, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 54D</div>
+    <div>Ss. 54A–54D</div>
   </td>
   <td>
     <div>ad. No. 105, 2008</div>
@@ -3641,7 +3482,7 @@ _Financial Sector Legislation Amendment Act (No. 1) 2000 (No. 160, 2000)_
 
 * * *
 
-_Financial Sector (Collection of Data—Consequential and Transitional Provisions) Act 2001 (No. 121, 2001)_
+_Financial Sector (Collection of Data—Consequential and Transitional Provisions) Act (No. 1) 2001 (No. 121, 2001)_
 
 ## Schedule 3
 
@@ -3728,7 +3569,7 @@ _Note:       The reference to a member of APRA’s Board covers APRA
 
 _Note:       Delegations in favour of APRA, or APRA staff members, are not affected by the Schedule 2 amendments._
 
-## 5  Continued effect of determinations of terms and conditions for staff and consultants
+## 5  Continued effect of determinations of terms and conditions for staff and consultants
 
 A determination of terms and conditions in force, immediately before the commencement of the amendments, under subsection 45(2) or 47(2) of the old Act continues to have effect after that commencement as if it were a determination by APRA under that subsection of the amended Act.
 
@@ -4032,16 +3873,5 @@ The amendments made by Part 2 of this Schedule apply to:
                      (a)  the financial year that includes the day this Schedule commences; and
 
                      (b)  any financial year that commences after this Schedule commences.
-
-* * *
-
-_Superannuation Legislation Amendment (Stronger Super) Act 2012 
- (No. 91, 2012)_
-
-## Schedule 2
-
-## 6  Application
-
-The amendments made by this Schedule apply from 1 July 2012.
 
  
