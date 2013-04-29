@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00433/Html/e4ec10a9-138f-4c9c-a735-346e89544c48_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00005/Html/8bd80544-47ab-4d0a-a4c0-ff74f16c5d10_files/image001.gif)
 
 # Financial Management and Accountability Act 1997
 
 **Act No. 154 of 1997 as amended**
 
-This compilation was prepared on 4 May 2012
- taking into account amendments up to Act No. 25 of 2012
+This compilation was prepared on 27 December 2011
+ taking into account amendments up to Act No. 89 of 2011
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -144,8 +144,6 @@ Related legislation
 
 [34](#34).          Finance Minister may waive debts etc 
 
-[35](#35).          Set off
-
 [36](#36).          Presiding Officers may approve expenditure
 
 **Part 5—Borrowing, investment and involvement in companies**
@@ -174,7 +172,7 @@ Related legislation
 
 **Part 7—Special responsibilities of Chief Executives**
 
-[44](#44).          Promoting proper use of Commonwealth resources
+[44](#44).          Promoting proper use etc  of Commonwealth resources
 
 [44A](#44A).       Keeping responsible Minister and Finance Minister informed
 
@@ -289,12 +287,6 @@ In this Act, unless the contrary intention appears:
                      (a)  persons who are allocated to the Department (for the purposes of this Act) by regulations made for the purposes of subparagraph (a)(i) of the definition of **_Agency_** in this section; or
 
                      (b)  any part of the Department that is a prescribed Agency.
-
-                    <a name="design-special-account-appropri"></a>**_designated Special Account appropriation_** means an appropriation under section 21 of this Act that relates to:
-
-                     (a)  the COAG Reform Fund established by the _COAG Reform Fund Act 2008_; or
-
-                     (b)  a Special Account established by the _Nation‑building Funds Act 2008_.
 
                     <a name="financ-minist"></a>**_Finance Minister_** means the Minister who administers this Act.
 
@@ -423,6 +415,8 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
                      (c)  that payment is not authorised by the agreement or arrangement.
 
                     Penalty:  Imprisonment for 2 years.
+
+Note:          Section 27 allows a drawing right to be issued to an official or a Minister to debit an amount against an appropriation (as a result of a payment of public money by an outsider).
 
              (3)  In this section:
 
@@ -576,11 +570,7 @@ Note:          This subsection applies to transactions that do
 
              (3)  Either House may, following a motion upon notice, pass a resolution disallowing the determination. To be effective, the resolution must be passed within 5 sitting days of the House after the copy of the determination was tabled in the House.
 
-             (4)  If neither House passes such a resolution, the determination takes effect:
-
-                     (a)  on the day immediately after the last day upon which such a resolution could have been passed; or
-
-                     (b)  if a later day is specified in the determination—on that later day.
+             (4)  If neither House passes such a resolution, the determination takes effect on the day immediately after the last day upon which such a resolution could have been passed.
 
 ### Division 2—Drawing rights
 
@@ -590,9 +580,13 @@ Note:          This subsection applies to transactions that do
 
                      (a)  make a payment of public money;
 
-                     (b)  request that an amount be debited against a designated Special Account appropriation;
+                     (b)  request that an amount be debited against an appropriation;
 
-                     (c)  debit an amount against a designated Special Account appropriation.
+                     (c)  debit an amount against an appropriation.
+
+                    Penalty:  Imprisonment for 2 years.
+
+Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
 
 ##### <a id="27"></a>27  Issue of drawing rights
 
@@ -600,9 +594,9 @@ Note:          This subsection applies to transactions that do
 
                      (a)  make a payment of public money;
 
-                     (b)  request the debiting of an amount against a designated Special Account appropriation;
+                     (b)  request the debiting of an amount against an appropriation;
 
-                     (c)  debit an amount against a designated Special Account appropriation.
+                     (c)  debit an amount against an appropriation.
 
              (2)  If a law requires the payment of an amount of public money and there is an available appropriation for that payment:
 
@@ -614,7 +608,7 @@ Note:          This subsection applies to transactions that do
 
              (4)  The Finance Minister may at any time revoke or amend a drawing right.
 
-             (5)  A drawing right has no effect to the extent to which it purports to authorise the making of a payment of public money for which there is no available appropriation.
+             (5)  A drawing right has no effect to the extent that it claims to authorise the application of public money in a way that is not authorised by an appropriation.
 
 ### Division 3—Appropriations
 
@@ -752,7 +746,7 @@ Recoverable GST
 
              (3)  The increase to an appropriation in accordance with subsection 30A(1) or (2) takes effect at the time an entry recording the GST qualifying amount is made in the accounts and records of the Agency concerned.
 
-Retaining prescribed receipts
+Relevant Agency receipts
 
              (4)  The increase to an amount in accordance with subsection 31(2) takes effect at the time an entry recording the receipt of the amount mentioned in subsection 31(1) is made in the accounts and records of the Agency concerned.
 
@@ -791,38 +785,6 @@ Note:          See also subparagraph 65(2)(a)(ia) (which allow
              (4)  In this section:
 
                     <a name="amount-owing-commonwealth"></a>**_amount owing to the Commonwealth_** includes an amount that is owing but not yet due for payment.
-
-##### <a id="35"></a>35  Set off
-
-             (1)  If:
-
-                     (a)  an amount (the **_first amount_**) is owing to the Commonwealth by a person; and
-
-                     (b)  an amount (the **_second amount_**) is owing by the Commonwealth to the person;
-
-the Finance Minister may, on behalf of the Commonwealth, set off the whole or a part of the first amount against the whole or a part of the second amount.
-
-Exceptions
-
-             (2)  Paragraph (1)(b) does not apply in relation to a payment if:
-
-                     (a)  a law of the Commonwealth provides that the payment is absolutely inalienable; or
-
-                     (b)  a law of the Commonwealth provides that the payment is inalienable; or
-
-                     (c)  a law of the Commonwealth provides that the right to the payment cannot be assigned; or
-
-                     (d)  a law of the Commonwealth provides that the payment cannot be assigned.
-
-Definitions
-
-             (3)  In this section:
-
-                    <a name="amount-owing-commonwealth"></a>**_amount owing by the Commonwealth_** includes an amount that is owing but not yet due for payment.
-
-                    <a name="amount-owing-commonwealth"></a>**_amount owing to the Commonwealth_** includes an amount that is owing but not yet due for payment.
-
-Note:          See also subparagraph 65(2)(a)(iaa) (which allows regulations to be made about the Finance Minister considering a report from specified persons before setting off under this section, in a case where the amount of the set‑off is more than a specified amount).
 
 ##### <a id="36"></a>36  Presiding Officers may approve expenditure
 
@@ -1028,7 +990,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 ## Part 7—Special responsibilities of Chief Executives
 
-##### <a id="44"></a>44  Promoting proper use of Commonwealth resources
+##### <a id="44"></a>44  Promoting proper use etc. of Commonwealth resources
 
              (1)  A Chief Executive must manage the affairs of the Agency in a way that promotes proper use of the Commonwealth resources for which the Chief Executive is responsible.
 
@@ -1228,15 +1190,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 ##### <a id="62"></a>62  Finance Minister may delegate powers
 
-             (1)  The Finance Minister may, by written instrument, delegate to an official any of the Finance Minister’s powers or functions under this Act, except:
-
-                     (a)  the power to issue Special Instructions under section 16; or
-
-                     (b)  the power to make a determination under section 20; or
-
-                     (c)  a function under subsection 39A(1); or
-
-                     (d)  the power to make Orders under section 63.
+             (1)  The Finance Minister may, by written instrument, delegate to an official any of the Finance Minister’s powers or functions under this Act, except the power to make Orders or a function under subsection 39A(1).
 
              (2)  In exercising powers or functions under a delegation, the official must comply with any directions of the Finance Minister.
 
@@ -1305,8 +1259,6 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
                               (i)  handling, spending and accounting for public money;
 
                             (ia)  the Finance Minister considering a report from specified persons before authorising under subsection 33(1), or waiving under subsection 34(1), a total amount that is more than a specified amount;
-
-                          (iaa)  the Finance Minister considering a report from specified persons before setting off under section 35, in a case where the amount of the set‑off is more than a specified amount;
 
                             (ib)  the Finance Minister authorising payment of an amount if, at the time of a person’s death, the Commonwealth owed that amount to the person (including authorising without requiring production of probate of the will of the person or letters of administration of the estate of the person);
 
@@ -1608,23 +1560,6 @@ Remainder: 7 Apr 2006</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Framework Legislation Amendment Act (No. 1) 2012</div>
-  </td>
-  <td>
-    <div>25, 2012</div>
-  </td>
-  <td>
-    <div>4 Apr 2012</div>
-  </td>
-  <td>
-    <div>Schedule 4: 5 Apr 2012</div>
-  </td>
-  <td>
-    <div>Sch. 4 (items 14, 15)</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Financial Management and Accountability Act 1997_ was amended by Schedule 1 (items 1–33) only of the _Financial Management Legislation Amendment Act 1999_, subsection 2(1) of which provides as follows:
@@ -1689,7 +1624,7 @@ _(b)_     The _Financial Management and Accountability Act 1997_ was ame
     <div>S. 5</div>
   </td>
   <td>
-    <div>am. Nos. 20 and 146, 1999; Determination No. 1 of 2000; No. 78, 2008; No. 148, 2010; No. 5, 2011; No. 25, 2012</div>
+    <div>am. Nos. 20 and 146, 1999; Determination No. 1 of 2000; No. 78, 2008; No. 148, 2010; No. 5, 2011</div>
   </td>
 </tr>
 <tr>
@@ -1742,23 +1677,7 @@ _(b)_     The _Financial Management and Accountability Act 1997_ was ame
 </tr>
 <tr>
   <td>
-    <div>S. 12</div>
-  </td>
-  <td>
-    <div>am. No. 90, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 12(2)</div>
-  </td>
-  <td>
-    <div>rep. No. 25, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 13, 14</div>
+    <div>Ss. 12–14</div>
   </td>
   <td>
     <div>am. No. 90, 2008</div>
@@ -1918,14 +1837,6 @@ _(b)_     The _Financial Management and Accountability Act 1997_ was ame
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 25, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Ss. 23–25</div>
   </td>
   <td>
@@ -1942,26 +1853,10 @@ _(b)_     The _Financial Management and Accountability Act 1997_ was ame
 </tr>
 <tr>
   <td>
-    <div>S. 26</div>
+    <div>Ss. 26, 27</div>
   </td>
   <td>
-    <div>am. No. 20, 1999; No. 90, 2008; No. 25, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 26</div>
-  </td>
-  <td>
-    <div>rep. No. 25, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 27</div>
-  </td>
-  <td>
-    <div>am. No. 20, 1999; No. 90, 2008; No. 25, 2012</div>
+    <div>am. No. 20, 1999; No. 90, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2086,14 +1981,6 @@ _(b)_     The _Financial Management and Accountability Act 1997_ was ame
 </tr>
 <tr>
   <td>
-    <div>Subhead. to s. 32A(4)</div>
-  </td>
-  <td>
-    <div>rs. No. 25, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 32A</div>
   </td>
   <td>
@@ -2170,14 +2057,6 @@ _(b)_     The _Financial Management and Accountability Act 1997_ was ame
   </td>
   <td>
     <div>rep. No. 90, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 25, 2012</div>
   </td>
 </tr>
 <tr>
@@ -2298,14 +2177,6 @@ _(b)_     The _Financial Management and Accountability Act 1997_ was ame
   </td>
   <td>
     <div>am. No. 90, 2008; No. 148, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 25, 2012</div>
   </td>
 </tr>
 <tr>
@@ -2465,7 +2336,7 @@ _(b)_     The _Financial Management and Accountability Act 1997_ was ame
     <div>S. 62</div>
   </td>
   <td>
-    <div>am. No. 148, 2010; No. 25, 2012</div>
+    <div>am. No. 148, 2010</div>
   </td>
 </tr>
 <tr>
@@ -2513,7 +2384,7 @@ _(b)_     The _Financial Management and Accountability Act 1997_ was ame
     <div>S. 65</div>
   </td>
   <td>
-    <div>am. No. 90, 2008; No. 25, 2012</div>
+    <div>am. No. 90, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2815,26 +2686,5 @@ The amendments made by Schedule 2 do not affect the validity of an appointment
 ## 11  Transitional regulations
 
 The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
-
-* * *
-
-_Financial Framework Legislation Amendment Act (No. 1) 2012 
- (No. 25, 2012)_
-
-## Schedule 4
-
-## 14  Application—item 3
-
-The amendment made by item  3 of this Schedule applies to determinations made on or after the commencement of that item.
-
-## 15  Transitional—delegations under section 62
-
-(1)       This item applies to a delegation if:
-
-                     (a)  the delegation was made under subsection 62(1) of the _Financial Management and Accountability Act 1997_; and
-
-                     (b)  the delegation was in force immediately before the commencement of item 12 of this Schedule.
-
-(2)       The delegation has effect, after the commencement of this item, as if it had been made under subsection 62(1) of the _Financial Management and Accountability Act 1997_ as amended by item  12 of this Schedule.
 
  
