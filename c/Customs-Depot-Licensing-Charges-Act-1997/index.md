@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2011C00914/Html/e5afd0f0-817e-4f5f-b157-a848cbdb7816_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00571/Html/f31573f8-df7c-4698-8d32-cd51160daea7_files/image001.gif)
 
 # Customs Depot Licensing Charges Act 1997
 
 **Act No. 4 of 1997 as amended**
 
-This compilation was prepared on 28 November 2011
+This compilation was prepared on 26 July 2011
  taking into account amendments up to Act No. 63 of 2011
 
 The text of any of those amendments not in force
@@ -48,7 +48,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="3"></a>3  Definitions
 
-                   In this Act:
+                   In this Act:
 
                     <a name="cargo-report"></a>**_cargo report_** means a cargo report under section 64AB of the Customs Act.
 
@@ -60,7 +60,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="depot-licenc-applic-charg"></a>**_depot licence application charge_** means the depot licence application charge payable as set out in section 77H of the Customs Act.
 
-                    <a name="depot-licenc-charg"></a>**_depot licence charge_** means the depot licence charge payable as set out in section 77U of the Customs Act.
+                    <a name="depot-licenc-charg"></a>**_depot licence charge_** means the depot licence charge payable as set out in section 77M or 77U of the Customs Act.
 
                     <a name="depot-licenc-variat-charg"></a>**_depot licence variation charge_** means the depot licence variation charge payable as set out in section 77LA of the Customs Act.
 
@@ -78,17 +78,27 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (1)  Depot licence application charge payable as set out in section 77H of the Customs Act is imposed.
 
+             (2)  Depot licence charge payable as set out in section 77M of the Customs Act is imposed.
+
              (3)  Depot licence charge payable as set out in section 77U of the Customs Act is imposed.
 
              (4)  Depot licence variation charge payable as set out in section 77LA of the Customs Act is imposed.
 
 ##### <a id="5"></a>5  Amount of depot licence application charge
 
-                   The amount of depot licence application charge payable by an applicant for a depot licence is $3,000, or, if another amount not exceeding $4,500 is prescribed, that other amount.
+             (1)  The amount of depot licence application charge payable by an applicant for a depot licence who:
+
+                     (a)  is a person or partnership occupying and managing a place that was an appointed place under paragraph 17(b) of the Customs Act immediately before the commencement day; and
+
+                     (b)  applies for the licence before 1 July 1997;
+
+is $1,000.
+
+             (2)  The amount of depot licence application charge payable by an applicant to whom paragraphs (1)(a) and (b) do not apply is $3,000, or, if another amount not exceeding $4,500 is prescribed, that other amount.
 
 ##### <a id="6"></a>6  Amount of depot licence charge
 
-             (1)  Except where subsection (5) applies, the amount of depot licence charge payable in respect of the grant or renewal of a licence as set out in section 77U of the Customs Act is the annual rate of that charge determined in accordance with subsection (2).
+             (1)  Except where subsection (5) or (6) applies, the amount of depot licence charge payable in respect of the grant or renewal of a licence as set out in section 77U of the Customs Act is the annual rate of that charge determined in accordance with subsection (2).
 
              (2)  For the purposes of this section and subject to subsection (3), the annual rate of depot licence charge payable in respect of the grant or renewal of a licence as set out in section 77U of the Customs Act is:
 
@@ -104,7 +114,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (b)  the number of transactions handled by the depot during the reference year were worked out to the nearest whole number using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00914/Html/e5afd0f0-817e-4f5f-b157-a848cbdb7816_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00571/Html/f31573f8-df7c-4698-8d32-cd51160daea7_files/image002.gif)
 
              (4)  In subsection (3):
 
@@ -120,7 +130,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (5)  If a depot licence is granted for a period that is less than a year, the amount of depot licence charge payable as set out in section 77U in respect of that grant is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00914/Html/e5afd0f0-817e-4f5f-b157-a848cbdb7816_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00571/Html/f31573f8-df7c-4698-8d32-cd51160daea7_files/image003.gif)
 
 where:
 
@@ -133,6 +143,32 @@ where:
                      (a)  if paragraph (b) does not apply—365; or
 
                      (b)  if the financial year in which the licence is in force is not constituted by 365 days—the number of days in that financial year.
+
+             (6)  For the purposes of this section and subject to subsection (7), the depot licence charge payable by a person or partnership in respect of the grant of a licence in the circumstances set out in subsection 77M(6) of the Customs Act is:
+
+                     (a)  if the depot concerned was an appointed place under paragraph 17(b) of the Customs Act during the whole of the year (the **_reference year_**) ending  immediately before the commencement of the period covered by the licence and it handled not less than 100 transactions during the reference year—$5,000; or
+
+                     (b)  if the depot concerned was an appointed place under paragraph 17(b) of the Customs Act during the whole of the year (the **_reference year_**) ending  immediately before the commencement of the period covered by the licence and it handled less than 100 transactions during the reference year—$1,875.
+
+             (7)  If the depot concerned commenced to be an appointed place under paragraph 17(b) during the course of the year (the **_reference year_**) ending  immediately before the commencement of the period covered by the licence and did not cease to be so appointed during that year, subsection (6) has effect as if:
+
+                     (a)  the place had been an appointed place under paragraph 17(b) for the whole of the reference year; and
+
+                     (b)  the number of transactions handled by the place during the reference year were worked out to the nearest whole number using the formula:
+
+![](http://www.comlaw.gov.au/Details/C2011C00571/Html/f31573f8-df7c-4698-8d32-cd51160daea7_files/image002.gif)
+
+             (8)  In subsection (7):
+
+                    <a name="number-refer-dai-transact"></a>**_number of reference day transactions_** is the total number of transactions handled by the place during the reference days.
+
+                    <a name="dai-refer-year"></a>**_days in the reference year_** means:
+
+                     (a)  if paragraph (b) does not apply—365; or
+
+                     (b)  if the reference year is not constituted by 365 days—the number of days in the reference year.
+
+                    <a name="refer-dai"></a>**_reference days_** means the number of days in relation to a place in the reference year during which the place was appointed under paragraph 17(b) of the Customs Act.
 
 ##### <a id="6A"></a>6A  Amount of depot licence variation charge
 
@@ -228,7 +264,7 @@ Remainder: Royal Assent</div>
     <div>29 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 33–38): 28 Nov 2011 ( <i>see</i>F2011L02441)</div>
+    <div>Schedule 2 (items 33–38): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -263,15 +299,7 @@ Remainder: Royal Assent</div>
     <div>Ss. 3, 4</div>
   </td>
   <td>
-    <div>am. No. 91, 2001; No. 63, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5</div>
-  </td>
-  <td>
-    <div>am. No. 63, 2011</div>
+    <div>am. No. 91, 2001</div>
   </td>
 </tr>
 <tr>
@@ -279,7 +307,7 @@ Remainder: Royal Assent</div>
     <div>S. 6</div>
   </td>
   <td>
-    <div>am. No. 91, 2001; No. 63, 2011</div>
+    <div>am. No. 91, 2001</div>
   </td>
 </tr>
 <tr>
@@ -298,6 +326,41 @@ Remainder: Royal Assent</div>
     <div>am. No. 91, 2001</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Customs Amendment (Export Controls and Other Measures) Act 2011
+ (No. 63, 2011)_
+
+The following amendments commence on 29 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 33  Section 3 (definition of _depot licence charge_)
+
+Omit “77M or”.
+
+## 34  Subsections 4(2) and 5(1)
+
+Repeal the subsections.
+
+## 35  Subsection 5(2)
+
+Omit “(2)”.
+
+## 36  Subsection 5(2)
+
+Omit “to whom paragraphs (1)(a) and (b) do not apply”, substitute “for a depot licence”.
+
+## 37  Subsection 6(1)
+
+Omit “or (6)”.
+
+## 38  Subsections 6(6) to (8)
+
+Repeal the subsections.
+
+As at 26 July 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
