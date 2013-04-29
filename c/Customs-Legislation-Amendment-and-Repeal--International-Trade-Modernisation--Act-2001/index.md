@@ -1,12 +1,12 @@
-![](http://www.comlaw.gov.au/Details/C2004C03309/Html/CustLegAmRepInternTradeModern2001_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C03308/Html/CustLegAmRepInternTradeModern2001_image001.gif)
 
 # Customs Legislation Amendment and Repeal (International Trade Modernisation) Act 2001
 
 **Act No. 95 of 2001 as amended** 
 
-This compilation was prepared on 18 October 2002
+This compilation was prepared on 2 August 2002
 
-**\[This Act was amended by Act Nos. 63, 64 and 82 of 2002]**
+**\[This Act was amended by Act Nos. 63 and 64 of 2002]**
 
 **Amendments from Act No. 63 of 2002**
 
@@ -26,23 +26,6 @@ This compilation was prepared on 18 October 2002
  Schedule 6 (items 10-15) commence on 20 July 2003 
  unless proclaimed earlier]
 
-**Amendments from Act No. 82 of 2002**
-
-\[Schedule 3 (items 56-65) amended section 2
- Schedule 3 (item 66) added section 4
- Schedule 3 (item 67) repealed Item 4 of Schedule 3
- Schedule 3 (item 68) repealed Item 27 of Schedule 3
- and added Item 27A to Schedule 3
- Schedule 3 (item 69) added Item 30A to Schedule 3
- Schedule 3 (items 70 and 71) amended Item 82 of Schedule 3
- Schedule 3 (item 72) repealed and substituted Item 111 of Schedule 3
- Schedule 3 (item 73) repealed and substituted Item 116 of Schedule 3
- and added Items 116A-116C to Schedule 3
- Schedule 3 (items 70 and 71) commenced on 20 July 2001
- Schedule 3 (items 56-65) commence on Royal Assent
- Schedule 3 (items 66-69, 72, 73) commence on 20 July 2004 
- unless proclaimed earlier]
-
 **The amendments have been incorporated in this compilation.**
 
 Prepared by the Office of Legislative Drafting,
@@ -55,8 +38,6 @@ Prepared by the Office of Legislative Drafting,
 [2](#2).            Commencement                                                                                   1
 
 [3](#3).            Schedule(s)                                                                                           2
-
-[4](#4).            Transitional—liability for cargo report processing charge during moratorium period             2
 
 **Schedule 1—Provisions for improving customs compliance** 
 
@@ -134,45 +115,25 @@ The Parliament of Australia enacts:
 
              (1)  Sections 1 to 3, and items 82, 84, 109, 123 and 152 to 171 in Schedule 3, commence on the day on which this Act receives the Royal Assent.
 
-             (2)  Subject to subsection (7), Part 4 of Schedule 1 commences on a day to be fixed by Proclamation.
+             (2)  Subject to subsection (6), Part 4 of Schedule 1 commences on a day to be fixed by Proclamation.
 
-             (3)  Subject to subsection (7), Part 2 of Schedule 3 and item 119 in Part 6 of Schedule 3 commence on a day to be fixed by Proclamation.
+             (3)  Subject to subsection (6), Part 2 of Schedule 3, item 119 in Part 6 of Schedule 3, and Schedule 4, commence on a day to be fixed by Proclamation.
 
-             (4)  Subject to subsection (7), Part 4 of Schedule 3 (other than items 82 and 84) commences on a day or days to be fixed by Proclamation.
+             (4)  Subject to subsection (6), Part 4 of Schedule 3 (other than items 82 and 84) commences on a day to be fixed by Proclamation.
 
-             (5)  Subject to subsections (6) and (7), the following items in the Schedules commence on a day or days to be fixed by Proclamation:
+             (5)  Subject to subsection (6), the following items in the Schedules commence on a day or days to be fixed by Proclamation:
 
                      (a)  the items in Schedule 1 other than the items in Part 4 of that Schedule;
 
                      (b)  the items in Schedule 2;
 
-                     (c)  the items (other than items 109, 119, 123 and 152 to 171) in Parts 1, 3, 5 and 6 of Schedule 3;
+                     (c)  the items (other than items 109, 119, 123 and 152 to 171) in Parts 1, 3, 5 and 6 of Schedule 3.
 
-                     (d)  the item in Schedule 4.
-
-             (6)  If an item in Schedule 4 does not commence under subsection (5) within the period of 2 years beginning on the day on which this Act receives the Royal Assent, it commences on the first day after the end of that period.
-
-             (7)  If an item in a Schedule (other than Schedule 4) does not commence under subsection (2), (3), (4) or (5) within the period of 3 years beginning on the day on which this Act receives the Royal Assent, it commences on the first day after the end of that period.
+             (6)  If an item in a Schedule does not commence under subsection (2), (3), (4) or (5) within the period of 2 years beginning on the day on which this Act receives the Royal Assent, it commences on the first day after the end of that period.
 
 ##### <a id="3"></a>3  Schedule(s)
 
                    Subject to section 2, each Act that is specified in a Schedule to this Act is amended or repealed as set out in the applicable items in the Schedule concerned, and any other item in a Schedule to this Act has effect according to its terms.
-
-##### <a id="4"></a>4  Transitional—liability for cargo report processing charge during moratorium period
-
-             (1)  This section applies to a documentary cargo report that a person makes, under section 64AB of the _Customs Act 1901_ as amended by this Act, during:
-
-                     (a)  the general moratorium period (as defined in subsection (13) of that section); or
-
-                     (b)  a further moratorium period that has been granted to that person under subsection (14) of that section.
-
-             (2)  Although this Act repeals:
-
-                     (a)  section 64ABB of the _Customs Act 1901_; and
-
-                     (b)  the definition of **_cargo report processing charge_** in subsection 4(1) of that Act;
-
-those provisions continue to apply, in relation to the cargo report, as if those repeals had not happened.
 
 ###### Schedule 1—Provisions for improving customs compliance
 
@@ -1280,6 +1241,10 @@ Insert:
 
                     <a name="cargo-releas-advic"></a>**_cargo release advice_** means a cargo release advice given under subsection 71DE(1).
 
+4  Subsection 4(1) (definition of cargo report processing charge)
+
+Repeal the definition.
+
 5  Subsection 4(1)
 
 Insert:
@@ -1410,13 +1375,9 @@ Repeal the subparagraphs, substitute:
 
                             (iv)  if the goods are examinable food that has been entered for warehousing—until there is delivered to the person who has possession of the food an imported food inspection advice requiring its treatment, destruction or exportation or, if no such advice is delivered, until the goods are entered for home consumption or the food is exported to a place outside Australia, whichever happens first;
 
-27  Subparagraph 30(1)(ab)(i)
+27  Paragraphs 30(1)(ab) and (ad)
 
-Omit “subsection 71(2)”, substitute “section 71”.
-
-27A  Paragraph 30(1)(ad)
-
-Omit “subsection 71(2)”, substitute “section 71”.
+Omit “(2)”, substitute “(4) or (5)”.
 
 28  After paragraph 30(1)(ad)
 
@@ -1431,10 +1392,6 @@ Omit “given under section 71B”, substitute “to deal”.
 30  Subsection 42(1)
 
 Omit “under section 71B”.
-
-30A  Section 63A (definition of _low value cargo_)
-
-Omit all the words and paragraphs after “consignment of”, substitute “which section 68 does not apply because of paragraph 68(1)(f)”.
 
 31  After the heading to Division 4 of Part IV
 
@@ -2826,7 +2783,7 @@ the entry is taken to have been withdrawn and the ACEAN concerned cannot again b
 
              (3)  When a submanifest is sent to Customs, Customs must send to the compiler of the submanifest a notice acknowledging its receipt and giving the compiler a submanifest number for inclusion in any outward manifest purportedly relating to the goods concerned.
 
-118  Certificate of Clearance
+118  Certificate of Clearance
 
              (1)  The master of a ship or the pilot of an aircraft must not depart with the ship or aircraft from any port, airport or other place in Australia without receiving from the Collector a Certificate of Clearance in respect of the ship or aircraft.
 
@@ -2944,7 +2901,7 @@ Customs Act 1901
 
 Repeal the definition.
 
-68  Subsection 4(1) (definition of Applicable EXIT agreement)
+68  Subsection 4(1) (definition of Applicable EXIT agreement)
 
 Repeal the definition.
 
@@ -3002,17 +2959,9 @@ Repeal the Division.
 
 82  Saving—COMPILE computer system
 
-(1)        This item applies to an import entry referred to in subsection 71A(1) of the _Customs Act 1901_ that is transmitted to Customs using the COMPILE computer system:
+(1)        A communication to Customs of information referred to in subsection 71A(1) of the _Customs Act 1901_ that is effected by means of the COMPILE computer system, after the commencement of this item and before the repeal of Division 4A of Part IV of that Act by item 81 of this Schedule takes effect, is an import declaration for the purposes of that Act as that Act applies after the commencement of Part 2 of this Schedule.
 
-                     (a)  after this item commences; and
-
-                     (b)  before this Schedule repeals Division 4A of Part IV of that Act.
-
-(1A)     If the import entry relates to goods that are intended to be entered for home consumption, it is an import declaration for the purposes of that Act as amended by this Act.
-
-(1B)     If the import entry relates to goods that are intended to be entered for warehousing, it is a warehouse declaration for the purposes of that Act as amended by this Act.
-
-(2)        An import entry to which this item applies may be sent only by a registered COMPILE user as the owner, or on behalf of the owner, of the goods concerned.
+(2)        A communication to which subitem (1) applies may be sent only by a registered COMPILE user as the owner, or on behalf of the owner, of the goods concerned.
 
 (3)        The following documents are not commercial documents for the purposes of the _Customs Act 1901_:
 
@@ -3212,7 +3161,9 @@ Repeal the subparagraph.
 
 111  Subparagraph 30(1)(ab)(i)
 
-Omit “until there has been compliance with a Collector’s permit for their unshipment and”.
+Repeal the subparagraph, substitute:
+
+                              (i)  if they are unshipped—until they are delivered into home consumption in accordance with an authority under subsection 71(5); or
 
 112  Subparagraph 30(1)(ac)(i)
 
@@ -3230,21 +3181,17 @@ Omit “unlading”, substitute “at the proper wharf appointed under subsectio
 
 Omit “a computer”, substitute “an electronic”.
 
-116  Section 63A (definition of _low value cargo_)
+116  Section 63A (definition of low value cargo)
 
-Omit “cargo of one of the following kinds”.
+Repeal the definition, substitute:
 
-116A  Section 63A (paragraph (a) of the definition of _low value cargo_)
+                    <a name="low-valu-cargo"></a>**_low value cargo_** means:
 
-Omit “(other than reportable documents)”.
+                     (a)  cargo consigned from a particular mail-order house; or
 
-116B  Section 63A (at the end of paragraph (a) of the definition of _low value cargo_)
+                     (b)  cargo comprising other goods of a kind prescribed by the regulations;
 
-Add “or”.
-
-116C  Section 63A (paragraph (b) of the definition of _low value cargo_)
-
-Repeal the paragraph.
+being cargo in relation to each single consignment of which section 68 does not apply because of paragraph 68(1)(f).
 
 117  Section 63A (definition of reportable document)
 
