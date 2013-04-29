@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00692/Html/9afdbe8a-792f-4a6d-b81c-81a92de68855_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00028/Html/e6bbf958-b85b-45e1-8368-2fa351535b7f_files/image001.gif)
 
 # Corporations (Fees) Act 2001
 
 **Act No. 52 of 2001 as amended**
 
-This compilation was prepared on 1 October 2012
- taking into account amendments up to Act No. 118 of 2012
+This compilation was prepared on 1 January 2012
+ taking into account amendments up to Act No. 144 of 2011
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -80,6 +81,10 @@ Prepared by the Office of Parliamentary Counsel, Canberra
                       (i)  the making of an application under that Act to the Panel;
 
                       (j)  the doing of any act by the Panel in dealing with an application under that Act to the Panel;
+
+                    (ja)  the referral of a financial report under that Act to the Financial Reporting Panel;
+
+                    (jb)  the doing of any act by the Financial Reporting Panel in dealing with a referral under that Act to the Panel;
 
                      (k)  the performance by ASIC of:
 
@@ -402,23 +407,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Corporations Legislation Amendment (Financial Reporting Panel) Act 2012</div>
-  </td>
-  <td>
-    <div>118, 2012</div>
-  </td>
-  <td>
-    <div>12 Sept 2012</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 7): 1 Oct 2012 ( <i>see</i>F2012L01962)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 ## Table of Amendments
@@ -449,7 +437,7 @@ Remainder: Royal Assent</div>
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 107, 2001; No. 98, 2004; No. 102, 2007; No. 27, 2010; No. 144, 2011; No. 118, 2012</div>
+    <div>am. No. 107, 2001; No. 98, 2004; No. 102, 2007; No. 27, 2010; No. 144, 2011</div>
   </td>
 </tr>
 <tr>
