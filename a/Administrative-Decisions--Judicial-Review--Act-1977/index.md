@@ -1,11 +1,12 @@
-![](http://www.comlaw.gov.au/Details/C2012C00513/Html/b5108659-2f19-40fd-b48d-59aeeedf9ae1_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00476/Html/d3544469-53c0-4f8b-b974-45d283b07d5d_files/image001.gif)
 
 # Administrative Decisions (Judicial Review) Act 1977
 
 **Act No. 59 of 1977 as amended**
 
-This compilation was prepared on 29 June 2012
- taking into account amendments up to Act No. 77 of 2012
+This compilation was prepared on 1 June 2012
+ taking into account amendments up to Act No. 47 of 2012
+ and SLI 2012 No. 80
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -844,7 +845,7 @@ Note:          Schedule 3 identifies Acts of the States, the
 
 ##### <a id="20"></a>20  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed by regulations or necessary or convenient to be prescribed by regulations for carrying out or giving effect to this Act.
+                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed by regulations or necessary or convenient to be prescribed by regulations for carrying out or giving effect to this Act.
 
 # Schedule 1—Classes of decisions that are not decisions to which this Act applies
 
@@ -931,10 +932,6 @@ Note:          Subdivision 268‑B and section 268‑35 em
                      (ii)  determinations under subsection 62ZZJ(2) of that Act;
 
            (hd)  decisions under Subdivision C of Division 2AA of Part II of the _Banking Act 1959_, except so far as they relate to whether account‑holders have protected accounts with ADIs;
-
-           (he)  decisions under Division 3B of Part 4 of the _Financial Management and Accountability Act 1997_;
-
-           (hf)  decisions under section 44 of the _Financial Management and Accountability Act 1997_;
 
               (j)  decisions, or decisions included in a class of decisions, under the Banking (Foreign Exchange) Regulations in respect of which the Treasurer has certified, by instrument in writing, that the decision or any decision included in the class, as the case may be, is a decision giving effect to the foreign investment policy of the Commonwealth Government;
 
@@ -3743,23 +3740,6 @@ Schedule 1 (items 269, 270): <i>(s)</i></div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Framework Legislation Amendment Act (No. 3) 2012</div>
-  </td>
-  <td>
-    <div>77, 2012</div>
-  </td>
-  <td>
-    <div>28 June 2012</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 1): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Administrative Decisions (Judicial Review) Act 1977_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(3) of which provides as follows:
@@ -4643,7 +4623,7 @@ _(s)_ Subsection 2(1) (items 4–6) of the _Indirect Tax Laws Amendment (Asses
     <div></div>
   </td>
   <td>
-    <div>am. Nos. 115, 122, 137, 140 and 153, 1982; No. 144, 1983; Nos. 4, 47 and 65, 1985; Nos. 41, 76, 102 and 112, 1986; Nos. 62, 76 and 145, 1987; Nos. 5 and 87, 1988; Nos. 14 and 107, 1989; Nos. 60 and 118, 1990; No. 216, 1991; Nos. 92, 151 and 196, 1992; Nos. 32, 54 and 88, 1993; No. 124, 1994; Nos. 161 and 175, 1995; Nos. 15, 43 and 60, 1996; Nos. 39 and 177, 1997; Nos. 7, 118 and 161, 1999; No. 176, 1999 (as am. by No. 156, 2000); No. 57, 2000; Nos. 123, 134 and 153, 2001; Nos. 86 and 127, 2002; Nos. 35, 62 and 124, 2004; Nos. 100, 112, 118, 137, 144 and 146, 2005; Nos. 40, 73, 74, 90, 101, 161 and 170, 2006; Nos. 8, 52 and 56, 2007; No. 105, 2008; Nos. 55, 88 and 117, 2009; Nos. 4, 79 and 145, 2010; No. 174, 2011; No. 29, 2012; SLI 2012 No. 80; No. 77, 2012</div>
+    <div>am. Nos. 115, 122, 137, 140 and 153, 1982; No. 144, 1983; Nos. 4, 47 and 65, 1985; Nos. 41, 76, 102 and 112, 1986; Nos. 62, 76 and 145, 1987; Nos. 5 and 87, 1988; Nos. 14 and 107, 1989; Nos. 60 and 118, 1990; No. 216, 1991; Nos. 92, 151 and 196, 1992; Nos. 32, 54 and 88, 1993; No. 124, 1994; Nos. 161 and 175, 1995; Nos. 15, 43 and 60, 1996; Nos. 39 and 177, 1997; Nos. 7, 118 and 161, 1999; No. 176, 1999 (as am. by No. 156, 2000); No. 57, 2000; Nos. 123, 134 and 153, 2001; Nos. 86 and 127, 2002; Nos. 35, 62 and 124, 2004; Nos. 100, 112, 118, 137, 144 and 146, 2005; Nos. 40, 73, 74, 90, 101, 161 and 170, 2006; Nos. 8, 52 and 56, 2007; No. 105, 2008; Nos. 55, 88 and 117, 2009; Nos. 4, 79 and 145, 2010; No. 174, 2011; No. 29, 2012; SLI 2012 No. 80</div>
   </td>
 </tr>
 <tr>
@@ -4695,7 +4675,7 @@ Insert:
 
                    (dc)  if an Act of another State or of the Australian Capital Territory or the Northern Territory applies the National Energy Retail Law set out in the Schedule to the _National Energy Retail Law (South Australia) Act 2011_ of South Australia, as amended from time to time, as that Law applies as a law of that other State or of that Territory—the National Energy Retail Law as so applied;
 
-As at 29 June 2012 the amendment is not incorporated in this compilation.
+As at 1 June 2012 the amendment is not incorporated in this compilation.
 
 ### Note 3
 
@@ -4723,7 +4703,7 @@ The following amendment commences immediately after 1 July 2012:
 
 After “Part 3‑10”, insert “, 3‑15”.
 
-As at 29 June 2012 the amendments are not incorporated in this compilation.
+As at 1 June 2012 the amendments are not incorporated in this compilation.
 
 ### Note 4
 
@@ -4737,7 +4717,7 @@ The following amendment commences on 1 July 2012:
 
 Before “in Schedule 1 to that Act”, insert “or 4‑1”.
 
-As at 29 June 2012 the amendment is not incorporated in this compilation.
+As at 1 June 2012 the amendment is not incorporated in this compilation.
 
 ### Note 5
 
@@ -4751,7 +4731,7 @@ The following amendment commences on 1 July 2012:
 
 After “_Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_,”, insert “the _Road Safety Remuneration Act 2012_,”.
 
-As at 29 June 2012 the amendment is not incorporated in this compilation.
+As at 1 June 2012 the amendment is not incorporated in this compilation.
 
 ## Table A
 
@@ -5122,7 +5102,7 @@ _Renewable Energy (Electricity) Amendment Act 2006 (No. 90, 2006)_
 
 ## Schedule 1
 
-## 192  Application—assessments
+## 192  Application—assessments
 
 The amendment made by item 1 applies in relation to decisions made after the commencement of that item.
 
