@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00244/Html/9646223f-d994-48da-9e43-6d03725e3a94_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00756/Html/4ff4085e-0d4b-4c20-ac8d-497770502519_files/image001.gif)
 
 # Fair Work (Registered Organisations) Act 2009
 
 **Act No. 86 of 1988 as amended**
 
-This compilation was prepared on 24 January 2012
+This compilation was prepared on 16 September 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
@@ -542,7 +542,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [190](#190).        Organisation or branch must not assist one candidate over another
 
-[191](#191).        Organisation to provide returning officer with copy of register
+[191](#191).        Organisation to provide returning officer with copy of 
+ register
 
 [192](#192).        Declaration by secretary etc  of organisation
 
@@ -1516,7 +1517,7 @@ then:
 
 ## Part 1—Simplified outline of Chapter
 
-##### <a id="17"></a>17  Simplified outline
+##### <a id="17"></a>17  Simplified outline
 
 * * *
 
@@ -2174,7 +2175,7 @@ FWA must give the organisation a reasonable opportunity to alter its rules as pr
 
                      (g)  the property of the organisation is, subject to any order made under paragraph (f), the property of the association and must be held and applied for the purposes of the association under the rules of the organisation so far as they can still be carried out or observed.
 
-## Part 4—FWA’s powers under this Chapter
+## <span style="font-size:14.0pt">Part 4</span>—<span class="CharPartText">FWA’s powers under this Chapter</span>
 
 ##### <a id="33"></a>33  Powers exercisable by President or a Deputy President
 
@@ -4022,7 +4023,7 @@ Secrecy of vote
 
 this fact must be included in the report.
 
-##### <a id="108"></a>108  Inquiries into irregularities
+##### <a id="108"></a>108  Inquiries into irregularities
 
              (1)  Not later than 30 days after the result of a ballot under this Part is declared, application may be made to FWA, as prescribed, for an inquiry by FWA into alleged irregularities in relation to the ballot.
 
@@ -4324,7 +4325,7 @@ the company must take all steps necessary to register or record the matter in th
 
                             (iii)  states that the asset has, under this Division, become an asset of the newly registered organisation;
 
-                            is given to the person or authority who has, under Commonwealth, State or Territory law, responsibility for keeping a register in relation to assets of that kind;
+                            is given to the person or authority who has, under Commonwealth, State or Territory law, responsibility for keeping a register in relation to assets of that kind;
 
 the person or authority may:
 
@@ -5668,7 +5669,7 @@ Note:          This section is a civil penalty provision (see 
 
                    The Federal Court may, on the application of an organisation, order that a person’s membership of that organisation or another organisation is to cease from a day, and for a period, specified in the order.
 
-##### <a id="171A"></a>171A  Cessation of membership if member is not an employee etc.
+##### <a id="171A"></a>171A  Cessation of membership if member is not an employee etc.
 
              (1)  If a person is a member of an organisation and the person is not, or is no longer:
 
@@ -6924,7 +6925,7 @@ Division 7 provides for members’ access to the financial records of reportin
 
 ##### <a id="240"></a>240  Financial years—change in financial year
 
-                   Where the rules of an organisation change the period constituting the financial year of the organisation, the period between:
+                   Where the rules of an organisation change the period constituting the financial year of the organisation, the period between:
 
                      (a)  the commencement of the first financial year after the change; and
 
@@ -9314,7 +9315,7 @@ all or any of the Minister’s powers under this Act.
 
                      (h)  any provision of Chapter 11 (other than section 334 or subsection 336(2) or 337K(4)).
 
-Note:          The expressions **_SES employee_** and **_acting SES employee_** are defined in section 2B of the _Acts Interpretation Act 1901_.
+Note:          The expressions **_SES employee_** and **_acting SES employee_** are defined in section 17AA of the _Acts Interpretation Act 1901_.
 
              (4)  In exercising powers or functions under a delegation, the delegate must comply with any directions of the General Manager.
 
@@ -10138,7 +10139,7 @@ For application, saving or transitional provisions made by the _Fair Work (Trans
 
 Section 40 of the _Independent Contractors Act 2006_ (Act No. 162, 2006) is a transitional provision relating to the _Fair Work (Registered Organisations) Act 2009_.
 
-All relevant information pertaining to application, saving or transitional provisions prior to 25 November 1996 is not included in this compilation. For all subsequent information _see_ Table A.
+All other relevant information pertaining to application, saving or transitional provisions prior to 25 November 1996 is not included in this compilation. For all subsequent information _see_ Table A.
 
 The _Fair Work (Registered Organisations) Act 2009_ was modified by the Industrial Relations (Christmas Island) Regulations (1992 No. 225 as amended). The modifications are not incorporated in this compilation.
 
@@ -12026,7 +12027,7 @@ Schedule 22 (item 91): <i>(v)</i></div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (item 583) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (item 583) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
@@ -31931,14 +31932,6 @@ of Chapt. 11</div>
 </tr>
 <tr>
   <td>
-    <div>Note to s. 343A(3)</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 344</div>
   </td>
   <td>
@@ -43018,6 +43011,20 @@ Part XVII</div>
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendment commences on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 583  Subsection 343A(3) (note)
+
+Omit “section 17AA”, substitute “section 2B”.
+
+As at 16 September 2011 the amendment is not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -43729,8 +43736,7 @@ Subdivision G of Division 3 of Part VIA of the _Workplace Relations Act 1996
 
 * * *
 
-_Employment, Workplace Relations and Small Business Legislation Amendment (Application of Criminal Code) Act 2001 
- (No. 142, 2001)_
+_Employment, Workplace Relations and Small Business Legislation Amendment (Application of Criminal Code) Act 2001 (No. 142, 2001)_
 
 ##### <a id="4"></a>4  Application of amendments
 
@@ -44432,6 +44438,8 @@ _Workplace Relations Amendment (Transition to Forward with Fairness) Act 2008 (N
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
