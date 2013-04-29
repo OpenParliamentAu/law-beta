@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2011C00051/Html/ImmigrationEdu1971_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00502/Html/ImmigrationEdu1971_image001.gif)
 
 # Immigration (Education) Act 1971
 
 **Act No. 3 of 1971 as amended**
 
-This compilation was prepared on 1 January 2011
+This compilation was prepared on 19 July 2010
  taking into account amendments up to Act No. 112 of 2010
 
 The text of any of those amendments not in force
@@ -18,31 +18,21 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 # Contents
 
-**Part 1—Preliminary**
-
 [1](#1).            Short title [_see_ Note 1]
 
 [2](#2).            Commencement [_see_ Note 1]
 
 [3](#3).            Interpretation
 
-**Part 2—English courses**
+[4](#4).            English courses and citizenship courses
 
-[4](#4).            English courses
+[4A](#4A).         Fees for English courses
 
-[4A](#4A).         Eligibility for English courses
+[4B](#4B).         English courses
 
-[4B](#4B).         Obligation to provide 510 hours of tuition in an English course
+[4C](#4C).         Obligation to provide English tuition
 
-[4C](#4C).         Ineligibility for English courses—time limits for registration or commencement
-
-[4D](#4D).         Ineligibility for English courses—time limit on tuition
-
-**Part 3—Citizenship courses**
-
-[4E](#4E).          Citizenship courses
-
-**Part 4—Implementation**
+[4D](#4D).         Cessation of obligation to provide English tuition
 
 [5](#5).            Provision of teaching and learning materials
 
@@ -54,11 +44,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [9A](#9A).         Services for non-government organisations
 
-**Part 5—Miscellaneous**
+[10](#10).          Delegation
 
-[10](#10).          Delegation by the Minister
-
-[10A](#10A).       Delegation by the Secretary
+[10A](#10A).       Delegation
 
 [11](#11).          Expenditure to be made from appropriations
 
@@ -70,8 +58,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ## An Act relating to the provision of certain Courses of Instruction for Immigrants and certain other Persons
 
-## Part 1—Preliminary
-
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
 
                    This Act may be cited as the _Immigration (Education) Act 1971_.
@@ -82,23 +68,23 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="3"></a>3  Interpretation 
 
-             (1)  In this Act, unless the contrary intention appears:
+                   In this Act, unless the contrary intention appears:
 
-                    <a name="approved-cours"></a>**_approved course_** means an English course provided under section 4 or a citizenship course provided under section 4E.
+                    <a name="approved-cours"></a>**_approved course_** means an English course or a citizenship course provided under section 4.
 
-                    <a name="approved-english-cours"></a>**_approved English course_** means an English course provided under section 4.
+                    <a name="approved-english-cours"></a>**_approved English course_** means an English course provided in accordance with section 4 or 4B.
 
-                    <a name="capit-equip-educ-natur"></a>**_capital equipment of an educational nature_** includes audiovisual equipment, computers and specialised electronic equipment, but does not include any kind of building.
+                    <a name="capit-equip-educ-natur"></a>**_capital equipment of an educational nature_** includes tape recording and playing equipment and portable class-rooms, but does not include any other building.
 
                     <a name="child"></a>**_child_** of a person has the same meaning as in the Migration Act.
 
                     <a name="citizenship-cours"></a>**_citizenship course_** means a course of instruction designed to impart an understanding of ways of life in Australia and of the rights and duties of an Australian citizen.
 
-                    <a name="elig"></a>**_eligible_** has the meaning given by section 4A.
-
                     <a name="english-cours"></a>**_English course_** means a course of instruction in the English language.
 
-                    <a name="function-english"></a><a name="function-english"></a>**_functional English_**: a person has **_functional English_** if the provider of an approved English course determines, in accordance with any procedures or standards specified by the Minister under subsection (2), that the person has functional English.
+                    <a name="function-english"></a>**_functional English_** has the same meaning as in the Migration Act.
+
+                    <a name="independ-school"></a>**_independent school_** means a school or institution in Australia, other than a school or institution conducted by the Government of the Commonwealth, a State or a Territory, at which primary education or secondary education is, or both are, provided, but does not include a school conducted for the profit, direct or indirect, of an individual or individuals.
 
                     <a name="migrat-act"></a>**_Migration Act_** means the _Migration Act 1958_.
 
@@ -108,157 +94,169 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="perman-visa"></a>**_permanent visa_** has the same meaning as in the Migration Act.
 
-                    <a name="secretari"></a>**_Secretary_** means the Secretary of the Department.
+                    <a name="school-author"></a>**_school authority_**, in relation to an independent school, means the person or body conducting the school.
 
-                    <a name="teach-learn-materi"></a>**_teaching and learning materials_** includes printed materials, audio materials, materials in digital form, educational software, visual aids and audiovisual aids.
+                    <a name="teach-learn-materi"></a>**_teaching and learning materials_** includes printed materials, audio materials, visual aids and audiovisual aids.
 
                     <a name="temporari-visa"></a>**_temporary visa_** has the same meaning as in the Migration Act.
 
-                    <a name="visa-commenc-dai"></a>**_visa commencement day_**, in relation to a person, means the earlier of the following days:
+##### <a id="4"></a>4  English courses and citizenship courses
 
-                     (a)  the first day the person was in Australia on or after the day when a permanent visa held by the person came into effect;
+                   The Minister may arrange for English courses and citizenship courses to be provided:
 
-                     (b)  the first day the person was in Australia on or after the day when a temporary visa of a class mentioned in subparagraph 4A(a)(ii) held by the person came into effect.
+                     (a)  outside Australia for persons intending to migrate to Australia; and
 
-Functional English
+                     (b)  in Australia for persons who:
 
-             (2)  The Minister may, by legislative instrument, specify procedures or standards for the purposes of the definition of **_functional English_** in subsection (1).
+                              (i)  hold a permanent visa; or
 
-             (3)  An instrument made under subsection (2) may make provision in relation to a matter by applying, adopting or incorporating, with or without modification, any matter contained in any other instrument or writing:
+                             (ii)  hold a temporary visa of a class specified by the Minister by notice published in the _Gazette_; or
 
-                     (a)  as in force or existing at a particular time; or
+                            (iii)  previously held a permanent entry permit or a permanent visa and have become Australian citizens; or
 
-                     (b)  as in force or existing from time to time.
+                            (iv)  are under 18 and have at least one parent who has held or holds a permanent entry permit or a permanent visa; or
 
-## Part 2—English courses
+                             (v)  are citizens of New   Zealand who hold a special category visa; and
 
-##### <a id="4"></a>4  English courses
+                     (c)  in the Territory of Cocos (Keeling) Islands or in the Territory of Christmas Island for persons in the Territory concerned who:
 
-                   The Minister may provide, or arrange the provision of, English courses to:
+                              (i)  hold a permanent visa; or
 
-                     (a)  eligible persons, while they are eligible; or
+                             (ii)  hold a temporary visa of a class specified by the Minister by notice published in the _Gazette_; or
 
-                     (b)  persons who are outside Australia and have applied for a permanent visa.
+                            (iii)  previously held a permanent entry permit or a permanent visa and have become Australian citizens; or
 
-##### <a id="4A"></a>4A  Eligibility for English courses
+                            (iv)  are under 18 and have at least one parent who has previously held or holds a permanent entry permit or a permanent visa.
 
-                   A person is **_eligible_** for the purposes of this Act if he or she:
+##### <a id="4A"></a>4A  Fees for English courses
 
-                     (a)  is in Australia and:
+             (1)  The regulations may provide for the charging and recovery of fees, not exceeding the applicable fee limit per year per student, in respect of English courses provided in accordance with section 4.
 
-                              (i)  holds a permanent visa; or
+             (2)  Regulations for the purposes of subsection (1) must:
 
-                             (ii)  holds a temporary visa of a class specified in a legislative instrument made by the Minister for the purposes of this paragraph; or
+                     (a)   exempt from any fees prescribed under that subsection persons who, at the time of enrolment in the English course, are:
 
-                            (iii)  previously held a permanent entry permit or a permanent visa and has become an Australian citizen; or
+                              (i)  the holders of a health care card; or
 
-                            (iv)  is aged under 18 years and has at least one parent who has held or holds a permanent entry permit or a permanent visa; and
+                             (ii)  registered job seekers; and
 
-                     (b)  does not have functional English; and
+                     (b)  provide that fees are payable on enrolment in the English course.
 
-                     (c)  is not ineligible under section 4C or 4D.
+             (3)  The regulations may do one or both of the following:
 
-##### <a id="4B"></a>4B  Obligation to provide 510 hours of tuition in an English course
+                     (a)  prescribe different fees in relation to different classes of courses;
 
-             (1)  The Minister must provide, or arrange the provision of, tuition in an approved English course to an eligible person, while he or she is eligible, if the person:
+                     (b)  provide for the refund, reduction or waiving of fees in cases identified in the regulations.
 
-                     (a)  holds a permanent visa; and
+          (3A)  The **applicable fee limit** in relation to a course that a person enrols in during a financial year starting on or after 1 July 1995 is, subject to subsection (3B), the amount worked out under the formula:
 
-                     (b)  was aged at least 18 years on the first day the person was in Australia on or after the day when the permanent visa came into effect; and
+![](http://www.comlaw.gov.au/Details/C2010C00502/Html/ImmigrationEdu1971_image002.gif)
 
-                     (c)  has paid, or is exempt from paying, visa application charge under section 45A of the Migration Act for the permanent visa; and
+where:
 
-                     (d)  did not, at any time before the permanent visa came into effect, hold another permanent visa while in Australia; and
+                    <a name="new-cgfce-number"></a>**_new CGFCE number_** means the number worked out as follows:
 
-                     (e)  is not excluded from the application of this section by the regulations.
+                     (a)  take the first set of Commonwealth Government Final Consumption Expenditure Implicit Price Deflators to be issued by the Department of Finance after 1 January in the previous financial year;
 
-             (2)  Subsection (1) stops applying to a person when he or she has had 510 hours of tuition in approved English courses.
+                     (b)  find the number that relates to the period ending on 31 December in the previous financial year;
 
-             (3)  This section does not limit section 4.
+                     (c)  that number is the new CGFCE number.
 
-##### <a id="4C"></a>4C  Ineligibility for English courses—time limits for registration or commencement
+                    <a name="base-cgfce-number"></a>**_base CGFCE number_** means the number worked out as follows:
 
-Scope
+                     (a)  take the first set of Commonwealth Government Final Consumption Expenditure Implicit Price Deflators to be issued by the Department of Finance after 1 January in the previous financial year;
 
-             (1)  This section applies to a person who would (apart from this section) be eligible, if:
+                     (b)  find the number that relates to the period ending on 31 December 1993;
 
-                     (a)  he or she has ever held a permanent visa; or
+                     (c)  that number is the base CGFCE number.
 
-                     (b)  he or she has ever held a temporary visa of a class specified under subparagraph 4A(a)(ii).
+          (3B)  If an amount worked out under the formula in subsection (3A) is not a multiple of $5, the amount is to be rounded as follows:
 
-Time limits
+                     (a)  if the amount exceeds the nearest lower multiple of $5 by $2.50 or more—round the amount up to the nearest higher multiple of $5;
 
-             (2)  The person stops being eligible:
+                     (b)  in any other case—round the amount down to the nearest lower multiple of $5.
 
-                     (a)  if he or she fails to register with the provider of an approved English course within:
+             (4)  In this section:
 
-                              (i)  if he or she was aged under 18 years on his or her visa commencement day—the period of 12 months starting on that day; or
+                    <a name="health-care-card"></a>**_health care card_** means a card prescribed for the purposes of this section that is issued by the government of the Commonwealth, of a State or of a Territory.
 
-                             (ii)  if he or she was aged 18 years or over on his or her visa commencement day—the period of 6 months starting on that day; or
+                    <a name="regist-job-seeker"></a>**_registered job seeker_** means a person prescribed for the purposes of this section who is seeking work.
 
-                     (b)  if he or she fails to start an approved English course within the period of 12 months starting on his or her visa commencement day.
+##### <a id="4B"></a>4B  English courses 
 
-Extension of time
+                   The Minister is to arrange for English courses to be provided for persons who:
 
-             (3)  The person may apply to the Secretary for an extension of a period mentioned in subsection (2) (the **_subsection (2) period_**).
+                     (a)  have made an application for a permanent visa; and
 
-             (4)  An application under subsection (3) for an extension of a subsection (2) period:
+                     (b)  were at least 18 at the time the permanent visa came into force; and
 
-                     (a)  must be made in the manner, and within the period, prescribed by the regulations; and
+                     (c)  do not have functional English at the time of making the application; and
 
-                     (b)  subject to paragraph (a), may be made before or after the end of the subsection (2) period.
+                     (d)  have paid, or are exempt from paying, visa application charge under section 45A of the Migration Act; and
 
-             (5)  On an application under this section, if the Secretary is satisfied that it was, or would be, unreasonable for the applicant to stop being eligible under subsection (2), the Secretary may extend the subsection (2) period by a specified period.
+                     (e)  are not excluded from being provided with English tuition by the regulations.
 
-             (6)  In making a decision under subsection (5), the Secretary:
+##### <a id="4C"></a>4C  Obligation to provide English tuition 
 
-                     (a)  must have regard to the matters prescribed by the regulations; and
+                   Subject to section 4D, the Commonwealth is obliged to provide, or arrange the provision of, 510 hours of tuition in an approved English course to a person if the person:
 
-                     (b)  must not have regard to any other matter.
+                     (a)  has made an application for a permanent visa; and
 
-##### <a id="4D"></a>4D  Ineligibility for English courses—time limit on tuition
+                     (b)  was at least 18 at the time the permanent visa came into force; and
 
-Scope
+                     (c)  does not have functional English at the time of making the application; and
 
-             (1)  This section applies to a person who would (apart from this section) be eligible, if:
+                     (d)  has paid, or is exempt from paying, visa application charge under section 45A of the Migration Act; and
 
-                     (a)  he or she has ever held a permanent visa; or
+                     (e)  is not excluded from being provided with English tuition by the regulations; and
 
-                     (b)  he or she has ever held a temporary visa of a class specified under subparagraph 4A(a)(ii).
+                      (f)  has not previously been entitled under this Act to 510 hours of tuition in an approved English course.
 
-Time limit
+##### 4D  Cessation of obligation to provide English tuition
 
-             (2)  The person stops being eligible at the end of the period of 5 years starting on his or her visa commencement day.
+             (1)  Subject to this section, the obligation of the Commonwealth to a person under section 4C ceases:
 
-Extension of time
+                     (a)  if the provider of an approved English course determines, in writing, in accordance with procedures approved in writing by the Secretary, that the person has functional English; or
 
-             (3)  The person may apply to the Secretary for an extension of the period mentioned in subsection (2) (the **_subsection (2) period_**).
+                     (b)  if the person fails to register with the provider of an approved English course within the period of 3 months starting on the visa commencement date; or
 
-             (4)  An application under subsection (3) for an extension of the subsection (2) period:
+                     (c)  if the person fails to commence an approved English course within the period of 12 months starting on the visa commencement date.
 
-                     (a)  must be made in the manner, and within the period, prescribed by the regulations; and
+             (2)  If:
 
-                     (b)  subject to paragraph (a), may be made before or after the end of the subsection (2) period.
+                     (a)  the obligation to a person would, under subsection (1), or under this subsection, cease at a particular date; and
 
-             (5)  On an application under this section, if the Secretary is satisfied that, for compelling and compassionate reasons, the applicant should not stop, or should not have stopped, being eligible under subsection (2), the Secretary may extend the subsection (2) period by a specified period.
+                     (b)  the Secretary is satisfied that it would be unreasonable for the obligation to so cease;
 
-             (6)  In making a decision under subsection (5), the Secretary:
+the Secretary may, in writing, determine that the obligation is not to cease, or is to cease only at a later date.
 
-                     (a)  must have regard to the matters prescribed by the regulations; and
+             (3)  In determining whether it is unreasonable for an obligation to cease, the Secretary may only have regard to:
 
-                     (b)  must not have regard to any other matter.
+                     (a)  the prevention of the person from undertaking the whole or a part of an approved English course by the action or inaction of a person who provides approved English courses; and
 
-## Part 3—Citizenship courses
+                     (b)  any other matters that are prescribed.
 
-##### <a id="4E"></a>4E  Citizenship courses
+             (4)  In this section:
 
-                   The Minister may arrange for citizenship courses to be provided inside or outside Australia to persons prescribed by the regulations.
+                    <a name="visa-commenc-date"></a>**_visa commencement date_** for a person means:
 
-## Part 4—Implementation
+                     (a)  if the person was in Australia on the day on which the relevant visa came into force—that day; or
+
+                     (b)  if the person was not in Australia on the day on which the relevant visa came into force—the day that the person first enters Australia after that day.
 
 ##### <a id="5"></a>5  Provision of teaching and learning materials
 
-                   The Minister may arrange for the purchase or production of, and the distribution of, teaching and learning materials for use in approved courses.
+                   The Minister may arrange for the purchase or production of, and the distribution of, teaching and learning materials:
+
+                     (a)  for use in approved courses; or
+
+                     (b)  for use in schools (whether or not in an approved course) for:
+
+                              (i)  teaching the English language; or
+
+                             (ii)  imparting an understanding of ways of life in Australia and of the rights and duties of an Australian citizen;
+
+                            to children referred to in subparagraph 4(b)(iv) or (c)(iv).
 
 ##### <a id="7"></a>7  Training courses for teachers
 
@@ -280,7 +278,7 @@ Extension of time
 
              (1)  An arrangement under this Act may make provision for, or in relation to, the making of payments by the Commonwealth to another party to the arrangement in connexion with matters to which the arrangement relates.
 
-             (2)  Without limiting the generality of subsection (1), an arrangement under section 4 or 4E for the provision of approved courses may make provision for, or in relation to, the payment by the Commonwealth of the whole or a part of:
+             (2)  Without limiting the generality of subsection (1), an arrangement under section 4 for the provision of approved courses by the Government of a State or Territory or by the school authority of an independent school may make provision for, or in relation to, the payment by the Commonwealth of the whole or a part of:
 
                      (a)  the cost of salaries and fees of teaching staff engaged in the giving of the courses; and
 
@@ -292,15 +290,13 @@ Extension of time
 
                      (e)  the cost of student support services.
 
-             (3)  An arrangement under section 4 or 4E for the provision of approved courses may make provision for the Commonwealth to supply to the course provider, whether as a gift or otherwise, capital equipment of an educational nature to be used in the courses.
+             (3)  An arrangement under section 4 for the provision of approved courses by the Government of a State or Territory or by the school authority of an independent school may make provision for the Commonwealth to supply, whether as a gift or otherwise, to that Government or school authority capital equipment of an educational nature to be used in the courses.
 
 ##### <a id="9A"></a>9A  Services for non-government organisations
 
                    The Minister may arrange to provide language training and related services to or for a non-government organisation or non-government body.
 
-## Part 5—Miscellaneous
-
-##### <a id="10"></a>10  Delegation by the Minister
+##### <a id="10"></a>10  Delegation
 
              (1)  The Minister may, by instrument in writing, delegate to a person appointed or engaged under the _Public Service Act 1999_, either generally or otherwise as provided in the instrument of delegation, all or any of his or her powers or functions under this Act, except this power of delegation.
 
@@ -308,7 +304,7 @@ Extension of time
 
              (3)  A delegation under this section is revocable at will and does not prevent the exercise of a power or the performance of a function by the Minister.
 
-##### <a id="10A"></a>10A  Delegation by the Secretary
+##### <a id="10A"></a>10A  Delegation
 
                    The Secretary may, by signed instrument, delegate any or all of his or her powers under this Act to an officer of the Department.
 
@@ -620,7 +616,7 @@ Remainder: Royal Assent</div>
     <div>14 July 2010</div>
   </td>
   <td>
-    <div>1 Jan 2011</div>
+    <div>Schedule 1: \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 1 (items 
@@ -673,42 +669,10 @@ _(d)_     The _Immigration (Education) Act 1971_ was amended by Schedule
 </thead>
 <tr>
   <td>
-    <div><b>Part 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part 1</div>
-  </td>
-  <td>
-    <div>ad. No. 112, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 110, 1973; No. 76, 1986; No. 35, 1991; No. 176, 1992; No. 60, 1994; No. 27, 1997; No. 144, 2008; No. 112, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 2</div>
-  </td>
-  <td>
-    <div>ad. No. 112, 2010</div>
+    <div>am. No. 110, 1973; No. 76, 1986; No. 35, 1991; No. 176, 1992; No. 60, 1994; No. 27, 1997; No. 144, 2008</div>
   </td>
 </tr>
 <tr>
@@ -737,14 +701,6 @@ _(d)_     The _Immigration (Education) Act 1971_ was amended by Schedule
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 112, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 4A</div>
   </td>
   <td>
@@ -757,14 +713,6 @@ _(d)_     The _Immigration (Education) Act 1971_ was amended by Schedule
   </td>
   <td>
     <div>am. No. 110, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 112, 2010</div>
   </td>
 </tr>
 <tr>
@@ -785,14 +733,6 @@ _(d)_     The _Immigration (Education) Act 1971_ was amended by Schedule
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 112, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 4C</div>
   </td>
   <td>
@@ -805,14 +745,6 @@ _(d)_     The _Immigration (Education) Act 1971_ was amended by Schedule
   </td>
   <td>
     <div>am. No. 27, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 112, 2010</div>
   </td>
 </tr>
 <tr>
@@ -833,31 +765,7 @@ _(d)_     The _Immigration (Education) Act 1971_ was amended by Schedule
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 112, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 3</div>
-  </td>
-  <td>
-    <div>ad. No. 112, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4E</div>
+    <div>Ss. 4E, 4F</div>
   </td>
   <td>
     <div>ad. No. 176, 1992</div>
@@ -869,46 +777,6 @@ _(d)_     The _Immigration (Education) Act 1971_ was amended by Schedule
   </td>
   <td>
     <div>rep. No. 27, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 112, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4F</div>
-  </td>
-  <td>
-    <div>ad. No. 176, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 27, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part 4</div>
-  </td>
-  <td>
-    <div>ad. No. 112, 2010</div>
   </td>
 </tr>
 <tr>
@@ -917,14 +785,6 @@ _(d)_     The _Immigration (Education) Act 1971_ was amended by Schedule
   </td>
   <td>
     <div>am. No. 76, 1986; No. 35, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 112, 2010</div>
   </td>
 </tr>
 <tr>
@@ -956,7 +816,7 @@ _(d)_     The _Immigration (Education) Act 1971_ was amended by Schedule
     <div>S. 9</div>
   </td>
   <td>
-    <div>am. No. 110, 1973; No. 76, 1986; No. 35, 1991; No. 112, 2010</div>
+    <div>am. No. 110, 1973; No. 76, 1986; No. 35, 1991</div>
   </td>
 </tr>
 <tr>
@@ -969,42 +829,10 @@ _(d)_     The _Immigration (Education) Act 1971_ was amended by Schedule
 </tr>
 <tr>
   <td>
-    <div><b>Part 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part 5</div>
-  </td>
-  <td>
-    <div>ad. No. 112, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 10</div>
-  </td>
-  <td>
-    <div>am. No. 112, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 10</div>
   </td>
   <td>
     <div>am. No. 146, 1999; No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 10A</div>
-  </td>
-  <td>
-    <div>am. No. 112, 2010</div>
   </td>
 </tr>
 <tr>
@@ -1023,6 +851,246 @@ _(d)_     The _Immigration (Education) Act 1971_ was amended by Schedule
     <div>am. Nos. 110 and 216, 1973</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Immigration (Education) Amendment Act 2010 (No. 112, 2010)_
+
+The following amendments commence on 1 January 2011:
+
+## Schedule 1
+
+## 1  Before section 1
+
+Insert:
+
+## Part 1—Preliminary
+
+## 2  Section 3
+
+Before “In this Act”, insert “(1)”.
+
+## 3  Section 3 (definition of _approved course_)
+
+Omit “or a citizenship course provided under section 4”, substitute “provided under section 4 or a citizenship course provided under section 4E”.
+
+## 4  Section 3 (definition of _approved English course_)
+
+Omit “in accordance with section 4 or 4B”, substitute “under section 4”.
+
+## 5  Section 3 (definition of _capital equipment of an educational nature_)
+
+Repeal the definition, substitute:
+
+                    <a name="capit-equip-educ-natur"></a>**_capital equipment of an educational nature_** includes audiovisual equipment, computers and specialised electronic equipment, but does not include any kind of building.
+
+## 6  Section 3
+
+Insert:
+
+                    <a name="elig"></a>**_eligible_** has the meaning given by section 4A.
+
+## 7  Section 3 (definition of _functional English_)
+
+Repeal the definition, substitute:
+
+                    <a name="function-english"></a><a name="function-english"></a>**_functional English_**: a person has **_functional English_** if the provider of an approved English course determines, in accordance with any procedures or standards specified by the Minister under subsection (2), that the person has functional English.
+
+## 8  Section 3 (definition of _independent school_)
+
+Repeal the definition.
+
+## 9  Section 3 (definition of _school authority_)
+
+Repeal the definition.
+
+## 10  Section 3
+
+Insert:
+
+                    <a name="secretari"></a>**_Secretary_** means the Secretary of the Department.
+
+## 11  Section 3 (definition of _teaching and learning materials_)
+
+After “audio materials,”, insert “materials in digital form, educational software,”.
+
+## 12  Section 3
+
+Insert:
+
+                    <a name="visa-commenc-dai"></a>**_visa commencement day_**, in relation to a person, means the earlier of the following days:
+
+                     (a)  the first day the person was in Australia on or after the day when a permanent visa held by the person came into effect;
+
+                     (b)  the first day the person was in Australia on or after the day when a temporary visa of a class mentioned in subparagraph 4A(a)(ii) held by the person came into effect.
+
+## 13  At the end of section 3
+
+Add:
+
+Functional English
+
+             (2)  The Minister may, by legislative instrument, specify procedures or standards for the purposes of the definition of **_functional English_** in subsection (1).
+
+             (3)  An instrument made under subsection (2) may make provision in relation to a matter by applying, adopting or incorporating, with or without modification, any matter contained in any other instrument or writing:
+
+                     (a)  as in force or existing at a particular time; or
+
+                     (b)  as in force or existing from time to time.
+
+## 14  Sections 4 to 5
+
+Repeal the sections, substitute:
+
+## Part 2—English courses
+
+##### <a id="4"></a>4  English courses
+
+                   The Minister may provide, or arrange the provision of, English courses to:
+
+                     (a)  eligible persons, while they are eligible; or
+
+                     (b)  persons who are outside Australia and have applied for a permanent visa.
+
+##### <a id="4A"></a>4A  Eligibility for English courses
+
+                   A person is **_eligible_** for the purposes of this Act if he or she:
+
+                     (a)  is in Australia and:
+
+                              (i)  holds a permanent visa; or
+
+                             (ii)  holds a temporary visa of a class specified in a legislative instrument made by the Minister for the purposes of this paragraph; or
+
+                            (iii)  previously held a permanent entry permit or a permanent visa and has become an Australian citizen; or
+
+                            (iv)  is aged under 18 years and has at least one parent who has held or holds a permanent entry permit or a permanent visa; and
+
+                     (b)  does not have functional English; and
+
+                     (c)  is not ineligible under section 4C or 4D.
+
+##### <a id="4B"></a>4B  Obligation to provide 510 hours of tuition in an English course
+
+             (1)  The Minister must provide, or arrange the provision of, tuition in an approved English course to an eligible person, while he or she is eligible, if the person:
+
+                     (a)  holds a permanent visa; and
+
+                     (b)  was aged at least 18 years on the first day the person was in Australia on or after the day when the permanent visa came into effect; and
+
+                     (c)  has paid, or is exempt from paying, visa application charge under section 45A of the Migration Act for the permanent visa; and
+
+                     (d)  did not, at any time before the permanent visa came into effect, hold another permanent visa while in Australia; and
+
+                     (e)  is not excluded from the application of this section by the regulations.
+
+             (2)  Subsection (1) stops applying to a person when he or she has had 510 hours of tuition in approved English courses.
+
+             (3)  This section does not limit section 4.
+
+##### <a id="4C"></a>4C  Ineligibility for English courses—time limits for registration or commencement
+
+Scope
+
+             (1)  This section applies to a person who would (apart from this section) be eligible, if:
+
+                     (a)  he or she has ever held a permanent visa; or
+
+                     (b)  he or she has ever held a temporary visa of a class specified under subparagraph 4A(a)(ii).
+
+Time limits
+
+             (2)  The person stops being eligible:
+
+                     (a)  if he or she fails to register with the provider of an approved English course within:
+
+                              (i)  if he or she was aged under 18 years on his or her visa commencement day—the period of 12 months starting on that day; or
+
+                             (ii)  if he or she was aged 18 years or over on his or her visa commencement day—the period of 6 months starting on that day; or
+
+                     (b)  if he or she fails to start an approved English course within the period of 12 months starting on his or her visa commencement day.
+
+Extension of time
+
+             (3)  The person may apply to the Secretary for an extension of a period mentioned in subsection (2) (the **_subsection (2) period_**).
+
+             (4)  An application under subsection (3) for an extension of a subsection (2) period:
+
+                     (a)  must be made in the manner, and within the period, prescribed by the regulations; and
+
+                     (b)  subject to paragraph (a), may be made before or after the end of the subsection (2) period.
+
+             (5)  On an application under this section, if the Secretary is satisfied that it was, or would be, unreasonable for the applicant to stop being eligible under subsection (2), the Secretary may extend the subsection (2) period by a specified period.
+
+             (6)  In making a decision under subsection (5), the Secretary:
+
+                     (a)  must have regard to the matters prescribed by the regulations; and
+
+                     (b)  must not have regard to any other matter.
+
+##### <a id="4D"></a>4D  Ineligibility for English courses—time limit on tuition
+
+Scope
+
+             (1)  This section applies to a person who would (apart from this section) be eligible, if:
+
+                     (a)  he or she has ever held a permanent visa; or
+
+                     (b)  he or she has ever held a temporary visa of a class specified under subparagraph 4A(a)(ii).
+
+Time limit
+
+             (2)  The person stops being eligible at the end of the period of 5 years starting on his or her visa commencement day.
+
+Extension of time
+
+             (3)  The person may apply to the Secretary for an extension of the period mentioned in subsection (2) (the **_subsection (2) period_**).
+
+             (4)  An application under subsection (3) for an extension of the subsection (2) period:
+
+                     (a)  must be made in the manner, and within the period, prescribed by the regulations; and
+
+                     (b)  subject to paragraph (a), may be made before or after the end of the subsection (2) period.
+
+             (5)  On an application under this section, if the Secretary is satisfied that, for compelling and compassionate reasons, the applicant should not stop, or should not have stopped, being eligible under subsection (2), the Secretary may extend the subsection (2) period by a specified period.
+
+             (6)  In making a decision under subsection (5), the Secretary:
+
+                     (a)  must have regard to the matters prescribed by the regulations; and
+
+                     (b)  must not have regard to any other matter.
+
+## Part 3—Citizenship courses
+
+##### <a id="4E"></a>4E  Citizenship courses
+
+                   The Minister may arrange for citizenship courses to be provided inside or outside Australia to persons prescribed by the regulations.
+
+## Part 4—Implementation
+
+##### <a id="5"></a>5  Provision of teaching and learning materials
+
+                   The Minister may arrange for the purchase or production of, and the distribution of, teaching and learning materials for use in approved courses.
+
+## 15  Subsections 9(2) and (3)
+
+Omit “section 4 for the provision of approved courses by the Government of a State or Territory or by the school authority of an independent school”, substitute “section 4 or 4E for the provision of approved courses”.
+
+## 16  Subsection 9(3)
+
+Omit “supply, whether as a gift or otherwise, to that Government or school authority”, substitute “supply to the course provider, whether as a gift or otherwise,”.
+
+## 17  After section 9A
+
+Insert:
+
+## Part 5—Miscellaneous
+
+_Note 1:    The heading to section 10 is altered by adding at the end “by the Minister”._
+
+_Note 2:    The heading to section 10A is altered by adding at the end “by the Secretary”._
+
+As at 19 July 2010 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -1076,6 +1144,8 @@ The amendment made by item 1 of Schedule 2 applies in relation to:
 * * *
 
 _Immigration (Education) Amendment Act 2010 (No. 112, 2010)_
+
+The following provisions commence on 1 January 2011:
 
 ## Schedule 1
 
@@ -1141,7 +1211,7 @@ In working out how many hours of tuition a person has had for the purposes of su
 
 _Note:       This item commences at the start of 1 January 2011 (see item 18)._
 
-## 24  Transitional—determinations by the Secretary delaying the end of obligation
+## 24  Transitional—determinations by the Secretary delaying the end of obligation
 
 (1)        This item applies to a person if:
 
