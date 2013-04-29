@@ -1,11 +1,13 @@
-![](http://www.comlaw.gov.au/Details/C2010C00118/Html/TaxAgentServices2009_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00073/Html/TaxAgentServices2009_image001.gif)
 
 # Tax Agent Services Act 2009
 
 **Act No. 13 of 2009 as amended**
 
-This compilation was prepared on 1 March 2010
+This compilation was prepared on 11 February 2010
  taking into account amendments up to Act No. 114 of 2009
+
+[**Note:** Sections 20-1 to 50-45, 60-95 to 70-20, 70-50 and 70-55 of this Act are not in force, _see_ s. 1-5(1) and Note 1]
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -645,7 +647,7 @@ Special rule about pre-1988 tax agents
 
              (4)  An individual is eligible for registration as a * registered tax agent even if the Board is not satisfied that the individual satisfies the requirements mentioned in paragraph (1)(b) if:
 
-                     (a)  the individual was registered as a tax agent or as a nominee for the purposes of Part VIIA of the _Income Tax Assessment Act 1936_ (as in force immediately before the commencement of item 7 of Schedule 1 to the _Tax Agent Services (Transitional Provisions and Consequential Amendments) Act 2009_) at both of the following times:
+                     (a)  the individual was registered as a tax agent or as a nominee for the purposes of Part VIIA of the _Income Tax Assessment Act 1936_ (as in force immediately before the commencement of item 12 of Schedule 1 to the _Tax Agent Services (Transitional Provisions and Consequential Amendments) Act 2009_) at both of the following times:
 
                               (i)  immediately before the commencement of this Act;
 
@@ -1409,7 +1411,7 @@ Individuals
 
                              (ii)  another registered tax agent who is an individual; or
 
-                            (iii)  another individual who is working under your supervision and control or the supervision and control of another registered tax agent who is an individual.
+                            (iii)  another individual who is working under your supervision and control or the supervision or control of another registered tax agent who is an individual.
 
                     Civil penalty:            250 penalty units.
 
@@ -1427,7 +1429,7 @@ Note:          Subdivision 50-C of this Act and Subdivision�
 
                              (ii)  a registered tax agent or BAS agent who is an individual; or
 
-                            (iii)  an individual who is working under your supervision and control or the supervision and control of another registered tax agent or BAS agent who is an individual.
+                            (iii)  an individual who is working under your supervision and control or the supervision or control of another registered tax agent or BAS agent who is an individual.
 
                     Civil penalty:            250 penalty units.
 
@@ -2225,11 +2227,9 @@ Note:          A defendant bears an evidential burden in relat
 
 ##### <a id="70-40"></a>70-40  Provision of information by Board to Commissioner
 
-             (1)  Despite section 70-35, the Board may disclose information to the Commissioner for the purposes of:
+             (1)  Despite section 70-35, the Board may disclose information to the Commissioner if the Board is satisfied that the information is relevant to:
 
                      (a)  establishing whether a * taxation offence has been, or is being, committed; or
-
-                    (aa)  establishing whether a civil penalty provision of a * taxation law has been, or is being, contravened; or
 
                      (b)  the making, or proposed or possible making, of a * proceeds of crime order.
 
@@ -2453,7 +2453,7 @@ of Assent</div>
       <div>26 Mar 2009</div>
     </td>
     <td>
-      <div>Ss. 20-1 to 50-45, 60-95 to 70-20, 70-50 and 70-55: 1 Mar 2010 ( <i>see</i>F2009L04314) 
+      <div>Ss. 20-1 to 50-45, 60-95 to 70-20, 70-50 and 70-55: ( <i>see</i>s. 1-5(1) and F2009L04314) 
 Remainder: Royal Assent</div>
     </td>
     <td>
@@ -2471,7 +2471,7 @@ Remainder: Royal Assent</div>
       <div>16 Nov 2009</div>
     </td>
     <td>
-      <div>Schedule 1 (items 27–30): 1 Mar 2010 ( <i>see</i>s. 2(1)) 
+      <div>Schedule 1 (items 27–30): \[ <i>see</i>s. 2(1) and Note 2] 
 Schedule 2: <i>(a)</i></div>
     </td>
     <td>
@@ -2563,131 +2563,37 @@ _(a)_ Subsection 2(1) (item 4) of the _Tax Agent Services (Transitional Provis
   </td>
   <td>
     <div>
-      1 March 2010
+
     </div>
   </td>
 </tr></table>
 
-## Table of Amendments
+### Note 2
 
-<table>
-<colgroup>
-  <col width="33%">
-  <col width="67%">
-</colgroup>
+_Tax Agent Services (Transitional Provisions and Consequential Amendments) Act 2009 (No. 114, 2009)_
 
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 20</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision 20-A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 20-5</div>
-  </td>
-  <td>
-    <div>am. No. 114, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 50</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision 50-B</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 50-30</div>
-  </td>
-  <td>
-    <div>am. No. 114, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 7</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 70</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision 70-E</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 70-40</div>
-  </td>
-  <td>
-    <div>am. No. 114, 2009</div>
-  </td>
-</tr></table>
+The following amendments commence on 1 March 2010:
 
- 
+## Schedule 1
+
+## 27  Paragraph 20-5(4)(a)
+
+Omit “item 12”, substitute “item 7”.
+
+## 28  Subparagraphs 50-30(1)(c)(iii) and (2)(c)(iii)
+
+Omit “or control”, substitute “and control”.
+
+## 29  Subsection 70-40(1)
+
+Omit “if the Board is satisfied that the information is relevant to”, substitute “for the purposes of”.
+
+## 30  After paragraph 70-40(1)(a)
+
+Insert:
+
+                    (aa)  establishing whether a civil penalty provision of a * taxation law has been, or is being, contravened; or
+
+As at 11 February 2010 the amendments are not incorporated in this compilation.
 
  
