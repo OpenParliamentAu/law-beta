@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00543/Html/3403cb55-67d1-4108-9a19-5e7ff1c5caa8_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00196/Html/NatBloodAuth_image001.gif)
 
 # National Blood Authority Act 2003
 
 **Act No. 29 of 2003 as amended**
 
-This compilation was prepared on 18 July 2011
- taking into account amendments up to Act No. 58 of 2011
+This compilation was prepared on 26 June 2008
+ taking into account amendments up to Act No. 26 of 2008
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -138,7 +138,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
 
-                   This Act may be cited as the _National Blood Authority_ _Act 2003_.
+                   This Act may be cited as the _National Blood Authority_ _Act 2003_.
 
 ##### <a id="2"></a>2  Commencement
 
@@ -241,23 +241,23 @@ Note:          This table relates only to the provisions of th
 
                              (ii)  are derived from human blood; or
 
-                     (b)  products (**_blood‑related products_**) that are used or intended for use for human therapeutic or diagnostic purposes and that:
+                     (b)  products (**_blood-related products_**) that are used or intended for use for human therapeutic or diagnostic purposes and that:
 
                               (i)  are alternative or complementary to the use of blood products; and
 
-                             (ii)  are regarded as blood‑related products for the National Blood Agreement; or
+                             (ii)  are regarded as blood-related products for the National Blood Agreement; or
 
-                     (c)  services, equipment or procedures that are regarded as blood‑related services for the National Blood Agreement and that:
+                     (c)  services, equipment or procedures that are regarded as blood-related services for the National Blood Agreement and that:
 
-                              (i)  are used in the collection, supply or use of blood products or blood‑related products; or
+                              (i)  are used in the collection, supply or use of blood products or blood-related products; or
 
-                             (ii)  are alternatives to the use of blood products or blood‑related products; or
+                             (ii)  are alternatives to the use of blood products or blood-related products; or
 
-                            (iii)  reduce the need for blood products or blood‑related products; or
+                            (iii)  reduce the need for blood products or blood-related products; or
 
-                            (iv)  otherwise affect the demand or supply of blood products or blood‑related products.
+                            (iv)  otherwise affect the demand or supply of blood products or blood-related products.
 
-                    <a name="blood-relat-inform"></a>**_blood‑related information_** has the meaning given by subsection 10(4).
+                    <a name="blood-relat-inform"></a>**_blood-related information_** has the meaning given by subsection 10(4).
 
                     <a name="board"></a>**_Board_** means the NBA Board established by section 12.
 
@@ -271,13 +271,11 @@ Note:          This table relates only to the provisions of th
 
                      (c)  the Territory of Christmas Island;
 
-                     (d)  the Territory of Cocos (Keeling)  Islands;
+                     (d)  the Territory of Cocos (Keeling) Islands;
 
                      (e)  the Australian Antarctic Territory;
 
                       (f)  the Jervis Bay Territory.
-
-                    <a name="csc"></a>**_CSC_** (short for Commonwealth Superannuation Corporation) has the same meaning as in the _Governance of Australian Government Superannuation Schemes Act 2011_.
 
                     <a name="gener-manag"></a>**_General Manager_** means the General Manager (described in Part 4) of the NBA.
 
@@ -367,7 +365,7 @@ Note:          The NBA does not have a legal identity separate
 
 Requirements to give information
 
-             (1)  The General Manager may, by written notice, require a person described in subsection (3) whom the General Manager reasonably believes is capable of giving blood‑related information, to give that information to the General Manager by giving the General Manager either or both of the following:
+             (1)  The General Manager may, by written notice, require a person described in subsection (3) whom the General Manager reasonably believes is capable of giving blood-related information, to give that information to the General Manager by giving the General Manager either or both of the following:
 
                      (a)  written answers to questions specified in the notice;
 
@@ -399,7 +397,7 @@ Note:          For specification by class, see subsection 46(2
 
 Information that may be required to be given
 
-             (4)  **_Blood‑related information_** is information, other than personal information (as defined in the _Privacy Act 1988_), relating to one or more of the following matters:
+             (4)  **_Blood-related information_** is information, other than personal information (as defined in the _Privacy Act 1988_), relating to one or more of the following matters:
 
                      (a)  demand for blood products and services;
 
@@ -425,7 +423,7 @@ Offence for failing to comply with a requirement
 
                     Penalty:  30 penalty units.
 
-Self‑incrimination
+Self-incrimination
 
              (6)  A person is excused from complying with a requirement made of the person under subsection (1) if the answer to the question or the production of the document or copy might tend to incriminate the person or expose the person to a penalty or other liability.
 
@@ -511,7 +509,7 @@ Compensation for giving documents
 
                      (d)  the person or persons selected to represent the interests of the States and Territories were nominated by a State or Territory.
 
-             (3)  A Board member is to be appointed on a part‑time basis.
+             (3)  A Board member is to be appointed on a part-time basis.
 
 ##### <a id="16"></a>16  Term of appointment
 
@@ -547,7 +545,7 @@ Compensation for giving documents
 
              (1)  A Board member is to be paid the remuneration that is determined by the Remuneration Tribunal. If no determination of that remuneration by the Tribunal is in operation, the member is to be paid the remuneration that is specified in a written determination made by the Minister.
 
-             (2)  However, a Board member is not entitled to be paid this remuneration if he or she holds an office or appointment, or is otherwise employed, on a full‑time basis in the service or employment of:
+             (2)  However, a Board member is not entitled to be paid this remuneration if he or she holds an office or appointment, or is otherwise employed, on a full-time basis in the service or employment of:
 
                      (a)  a State; or
 
@@ -565,7 +563,7 @@ Note:          A similar rule applies to a Board member who ha
 
              (5)  This section (except subsection (2)) has effect subject to the _Remuneration Tribunal Act 1973_.
 
-##### <a id="19"></a>19  Leave of absence
+##### <a id="19"></a>19  Leave of absence
 
              (1)  The Minister may grant leave of absence to the Chair on the terms and conditions that the Minister determines.
 
@@ -651,7 +649,7 @@ Note:          A similar rule applies to a Board member who ha
 
              (2)  However, the Minister must first consult the Board about a proposed appointment.
 
-             (3)  The General Manager is to be appointed on a full‑time basis.
+             (3)  The General Manager is to be appointed on a full-time basis.
 
 ##### <a id="28"></a>28  Term of appointment
 
@@ -723,7 +721,7 @@ Note:          A similar rule applies to a Board member who ha
 
                      (b)  a member of the superannuation scheme established by deed under the _Superannuation Act 1990_; or
 
-                     (c)  an ordinary employer‑sponsored member of PSSAP, within the meaning of the _Superannuation Act 2005_;
+                     (c)  an ordinary employer-sponsored member of PSSAP, within the meaning of the _Superannuation Act 2005_;
 
 the Minister may, with the consent of the General Manager, retire the General Manager from office on the grounds of physical or mental incapacity.
 
@@ -731,19 +729,19 @@ the Minister may, with the consent of the General Manager, retire the General Ma
 
                      (a)  the General Manager is removed or retired from office on the grounds of physical or mental incapacity; and
 
-                     (b)  CSC gives a certificate under section 54C of that Act.
+                     (b)  the Board (within the meaning of the _Superannuation Act 1976_) gives a certificate under section 54C of that Act.
 
              (5)  For the purposes of the _Superannuation Act 1990_, the General Manager is taken to have been retired from office on the grounds of invalidity if:
 
                      (a)  the General Manager is removed or retired from office on the grounds of physical or mental incapacity; and
 
-                     (b)  CSC gives a certificate under section 13 of that Act.
+                     (b)  the Board (within the meaning of the _Superannuation Act 1990_) gives a certificate under section 13 of that Act.
 
              (6)  For the purposes of the _Superannuation Act 2005_, the General Manager is taken to have been retired from office on the grounds of invalidity if:
 
                      (a)  the General Manager is removed or retired from office on the grounds of physical or mental incapacity; and
 
-                     (b)  CSC gives an approval and certificate under section 43 of that Act.
+                     (b)  the Board (within the meaning of the _Superannuation Act 2005_) gives an approval and certificate under section 43 of that Act.
 
 ### Division 2—Staff and consultants
 
@@ -779,7 +777,7 @@ the Minister may, with the consent of the General Manager, retire the General Ma
 
              (1)  A person appointed to an advisory committee is to be paid the remuneration that is determined by the Remuneration Tribunal. If no determination of that remuneration by the Tribunal is in operation, the person is to be paid the remuneration that is specified in a written determination made by the Minister.
 
-             (2)  However, such a person is not entitled to be paid this remuneration if he or she holds an office or appointment, or is otherwise employed, on a full‑time basis in the service or employment of:
+             (2)  However, such a person is not entitled to be paid this remuneration if he or she holds an office or appointment, or is otherwise employed, on a full-time basis in the service or employment of:
 
                      (a)  a State; or
 
@@ -849,7 +847,7 @@ Note:          An Appropriation Act provides for amounts to be
 
 ##### <a id="45"></a>45  Regulations
 
-                   The Governor‑General may make regulations prescribing matters:
+                   The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -861,7 +859,7 @@ Note:          An Appropriation Act provides for amounts to be
 
 The _National Blood Authority Act 2003_ as shown in this compilation comprises Act No. 29, 2003 amended as indicated in the Tables below.
 
-For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
+For all relevant information pertaining to application, saving or transitional provisions _see_ Table A. 
 
 ### Table of Acts
 
@@ -980,127 +978,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 774–780) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 2011</div>
-  </td>
-  <td>
-    <div>58, 2011</div>
-  </td>
-  <td>
-    <div>28 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 115–118): <i>(a)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
-
-_(a)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 2011_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      2\. Schedules 1 and 2
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of section 2 of the
-        <i>Governance of Australian Government Superannuation Schemes Act 2011</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2011
-    </div>
-  </td>
 </tr></table>
 
 ## Table of Amendments
@@ -1126,22 +1003,6 @@ _(a)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (C
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div><b>Part 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 58, 2011</div>
-  </td>
-</tr>
 <tr>
   <td>
     <div><b>Part 2</b></div>
@@ -1187,7 +1048,7 @@ _(a)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (C
     <div>S. 35</div>
   </td>
   <td>
-    <div>am. No. 26, 2008; No. 58, 2011</div>
+    <div>am. No. 26, 2008</div>
   </td>
 </tr>
 <tr>
@@ -1215,48 +1076,6 @@ _(a)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (C
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 774  Subsection 10(1) (note 2)
-
-Omit “section 25”, substitute “section 2B”.
-
-## 775  Subsection 10(3) (note)
-
-Omit “subsection 46(2) of the _Acts Interpretation Act 1901_”, substitute “subsection 13(3) of the _Legislative Instruments Act 2003_”.
-
-## 776  At the end of subsections 17(1) and (2)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 777  Subsection 17(4)
-
-Repeal the subsection.
-
-## 778  Subsection 29(1)
-
-Omit “(1)”.
-
-## 779  At the end of subsection 29(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 780  Subsection 29(2)
-
-Repeal the subsection.
-
-As at 18 July 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -1282,21 +1101,5 @@ then the thing has the corresponding effect, for the purposes of the Part 2 Ac
 ## 496  Saving provision—Finance Minister’s determinations
 
 If a determination under subsection 20(1) of the _Financial Management and Accountability Act 1997_ is in force immediately before the commencement of this item, the determination continues in force as if it were made under subsection 20(1) of that Act as amended by this Act.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
