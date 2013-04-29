@@ -1,11 +1,13 @@
-![](http://www.comlaw.gov.au/Details/C2006C00200/Html/78AEF559A3EF1DC6CA25715700137AF7/$FILE/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00087/Html/B0CF5480175F60D5CA25713F0082FEAD/$FILE/image001.gif)
 
 # Public Service Act 1999
 
 **Act No. 147 of 1999 as amended**
 
-This compilation was prepared on 12 April 2006
-taking into account amendments up to Act No. 30 of 2006
+This compilation was prepared on 27 March 2006
+taking into account amendments up to Act No. 140 of 2003
+
+and SLI 2006 No. 50
 
 The text of any of those amendments not in force 
 on that date is appended in the Notes section
@@ -20,199 +22,199 @@ Canberra
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]                                                                        1
+[1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Commencement [_see_ Note 1]                                                               1
+[2](#2).            Commencement [_see_ Note 1]
 
-[3](#3).            Objects of this Act                                                                              1
+[3](#3).            Objects of this Act
 
-[4](#4).            This Act binds the Crown                                                                   2
+[4](#4).            This Act binds the Crown
 
-[5](#5).            This Act extends to things outside Australia                                      2
+[5](#5).            This Act extends to things outside Australia
 
-[6](#6).            Engagement of employees in Department or Executive Agency         2
+[6](#6).            Engagement of employees in Department or Executive Agency
 
 **Part 2—Interpretation**
 
-[7](#7).            Interpretation                                                                                       3
+[7](#7).            Interpretation
 
-[8](#8).            Workplace Relations Act                                                                     6
+[8](#8).            Workplace Relations Act
 
 **Part 3—The Australian Public Service**
 
-[9](#9).            Constitution of the APS                                                                      7
+[9](#9).            Constitution of the APS
 
-[10](#10).          APS Values                                                                                          7
+[10](#10).          APS Values
 
-[11](#11).          Commissioner’s Directions about APS Values                                   8
+[11](#11).          Commissioner’s Directions about APS Values
 
-[12](#12).          Agency Heads must promote APS Values                                          8
+[12](#12).          Agency Heads must promote APS Values
 
-[13](#13).          The APS Code of Conduct                                                                  8
+[13](#13).          The APS Code of Conduct
 
-[14](#14).          Agency Heads bound by Code of Conduct                                       10
+[14](#14).          Agency Heads bound by Code of Conduct
 
-[15](#15).          Breaches of the Code of Conduct                                                      10
+[15](#15).          Breaches of the Code of Conduct
 
-[16](#16).          Protection for whistleblowers                                                           11
+[16](#16).          Protection for whistleblowers
 
-[17](#17).          Prohibition on patronage and favouritism                                         11
+[17](#17).          Prohibition on patronage and favouritism
 
-[18](#18).          Promotion of employment equity                                                     11
+[18](#18).          Promotion of employment equity
 
-[19](#19).          Limitation on Ministerial directions to Agency Head                       12
+[19](#19).          Limitation on Ministerial directions to Agency Head
 
 **Part 4—APS employees** 
 
     **Division 1—APS employees generally**
 
-[20](#20).          Employer powers etc  of Agency Head                                            13
+[20](#20).          Employer powers etc  of Agency Head
 
-[21](#21).          Prime Minister’s directions to Agency Heads                                  13
+[21](#21).          Prime Minister’s directions to Agency Heads
 
-[22](#22).          Engagement of APS employees                                                         13
+[22](#22).          Engagement of APS employees
 
-[23](#23).          Classification Rules                                                                           14
+[23](#23).          Classification Rules
 
-[24](#24).          Remuneration and other conditions                                                   15
+[24](#24).          Remuneration and other conditions
 
-[25](#25).          Assignment of duties                                                                         15
+[25](#25).          Assignment of duties
 
-[26](#26).          Voluntary moves between Agencies                                                  16
+[26](#26).          Voluntary moves between Agencies
 
-[27](#27).          Compulsory moves between Agencies                                              16
+[27](#27).          Compulsory moves between Agencies
 
-[28](#28).          Suspension                                                                                         16
+[28](#28).          Suspension
 
-[29](#29).          Termination of employment                                                              16
+[29](#29).          Termination of employment
 
-[30](#30).          Retirement                                                                                         17
+[30](#30).          Retirement
 
-[31](#31).          Forfeiture of additional remuneration                                                17
+[31](#31).          Forfeiture of additional remuneration
 
-[32](#32).          Right of return for election candidates                                               18
+[32](#32).          Right of return for election candidates
 
-[33](#33).          Review of actions                                                                              18
+[33](#33).          Review of actions
 
     **Division 2—The Senior Executive Service**
 
-[34](#34).          SES employees                                                                                  20
+[34](#34).          SES employees
 
-[35](#35).          Constitution and role of SES                                                             20
+[35](#35).          Constitution and role of SES
 
-[36](#36).          Commissioner’s Directions on SES matters                                      20
+[36](#36).          Commissioner’s Directions on SES matters
 
-[37](#37).          Incentive to retire                                                                               20
+[37](#37).          Incentive to retire
 
-[38](#38).          Commissioner’s certificate required for termination of SES employment               21
+[38](#38).          Commissioner’s certificate required for termination of SES employment
 
     **Division 3—Heads of Mission**
 
-[39](#39).          Heads of Mission                                                                              22
+[39](#39).          Heads of Mission
 
 **Part 5—The Public Service Commissioner** 
 
     **Division 1—Commissioner’s functions etc.**
 
-[40](#40).          Public Service Commissioner                                                             23
+[40](#40).          Public Service Commissioner
 
-[41](#41).          Commissioner’s functions                                                                 23
+[41](#41).          Commissioner’s functions
 
-[42](#42).          Commissioner’s Directions                                                               24
+[42](#42).          Commissioner’s Directions
 
-[43](#43).          Commissioner’s inquiry powers                                                       25
+[43](#43).          Commissioner’s inquiry powers
 
-[44](#44).          Annual report                                                                                    25
+[44](#44).          Annual report
 
     **Division 2—Commissioner’s appointment, conditions etc.**
 
-[45](#45).          Appointment of Commissioner                                                         26
+[45](#45).          Appointment of Commissioner
 
-[46](#46).          Remuneration etc                                                                               26
+[46](#46).          Remuneration etc 
 
-[47](#47).          Removal from office                                                                          26
+[47](#47).          Removal from office
 
-[48](#48).          Acting Commissioner                                                                        27
+[48](#48).          Acting Commissioner
 
 **Part 6—The Merit Protection Commissioner** 
 
     **Division 1—Merit Protection Commissioner’s functions etc.**
 
-[49](#49).          Merit Protection Commissioner                                                        28
+[49](#49).          Merit Protection Commissioner
 
-[50](#50).          Merit Protection Commissioner’s functions                                     28
+[50](#50).          Merit Protection Commissioner’s functions
 
-[51](#51).          Annual report                                                                                    29
+[51](#51).          Annual report
 
     **Division 2—Merit Protection Commissioner’s appointment, conditions etc.**
 
-[52](#52).          Appointment of Merit Protection Commissioner                             30
+[52](#52).          Appointment of Merit Protection Commissioner
 
-[53](#53).          Remuneration etc                                                                               30
+[53](#53).          Remuneration etc 
 
-[54](#54).          Removal from office                                                                          30
+[54](#54).          Removal from office
 
-[55](#55).          Acting Merit Protection Commissioner                                            31
+[55](#55).          Acting Merit Protection Commissioner
 
 **Part 7—Secretaries of Departments**
 
-[56](#56).          Creation of offices of Secretary                                                         32
+[56](#56).          Creation of offices of Secretary
 
-[57](#57).          Responsibilities of Secretaries                                                           32
+[57](#57).          Responsibilities of Secretaries
 
-[58](#58).          Appointment etc  of Secretary                                                          32
+[58](#58).          Appointment etc  of Secretary
 
-[59](#59).          Termination of appointment                                                             33
+[59](#59).          Termination of appointment
 
-[60](#60).          Engagement of former Secretaries                                                      33
+[60](#60).          Engagement of former Secretaries
 
-[61](#61).          Remuneration and other conditions                                                   33
+[61](#61).          Remuneration and other conditions
 
-[62](#62).          Acting Secretary                                                                                34
+[62](#62).          Acting Secretary
 
-[63](#63).          Annual report                                                                                    34
+[63](#63).          Annual report
 
 **Part 8—Management Advisory Committee**
 
-[64](#64).          Management Advisory Committee                                                   35
+[64](#64).          Management Advisory Committee
 
 **Part 9—Executive Agencies**
 
-[65](#65).          Establishment etc  of Executive Agencies                                          36
+[65](#65).          Establishment etc  of Executive Agencies
 
-[66](#66).          Responsibilities of Heads of Executive Agencies                              36
+[66](#66).          Responsibilities of Heads of Executive Agencies
 
-[67](#67).          Appointment etc  of Head                                                                 37
+[67](#67).          Appointment etc  of Head
 
-[68](#68).          Remuneration and other conditions                                                   37
+[68](#68).          Remuneration and other conditions
 
-[69](#69).          Acting Head                                                                                       37
+[69](#69).          Acting Head
 
-[70](#70).          Annual report                                                                                    38
+[70](#70).          Annual report
 
 **Part 10—Administrative arrangements and re-organisations**
 
-[71](#71).          Arrangements with States and Territories                                         39
+[71](#71).          Arrangements with States and Territories
 
-[72](#72).          Machinery of government changes                                                    39
+[72](#72).          Machinery of government changes
 
 **Part 11—Miscellaneous**
 
-[73](#73).          Payments in special circumstances                                                    41
+[73](#73).          Payments in special circumstances
 
-[74](#74).          Locally engaged employees                                                               42
+[74](#74).          Locally engaged employees
 
-[75](#75).          Attachment of salaries to satisfy judgment debts                             42
+[75](#75).          Attachment of salaries to satisfy judgment debts
 
-[76](#76).          Release of personal information                                                        42
+[76](#76).          Release of personal information
 
-[77](#77).          Positions                                                                                            43
+[77](#77).          Positions
 
-[78](#78).          Delegations                                                                                        43
+[78](#78).          Delegations
 
-[79](#79).          Regulations                                                                                        44
+[79](#79).          Regulations
 
 **Notes** 
 
@@ -271,7 +273,7 @@ Note:          See also the _Public Employment (Consequential 
 
 ##### <a id="7"></a>7  Interpretation
 
-                   In this Act, unless the contrary intention appears:
+                   In this Act, unless the contrary intention appears:
 
                     <a name="acting-se-employe"></a>**_acting SES employee_** means a non-SES employee who is acting in a position usually occupied by an SES employee.
 
@@ -1185,7 +1187,7 @@ Note:          In _Barratt v Howard_ \[1999] FCA 1132, the Fed
 
              (3)  The Head of an Executive Agency is accountable to the government, the Parliament and the public in the same way as the Secretary of a Department.
 
-##### <a id="67"></a>67  Appointment etc. of Head
+##### <a id="67"></a>67  Appointment etc. of Head
 
              (1)  The Agency Minister of an Executive Agency may appoint a person to be the Head of the Agency for a period of up to 5 years specified in the instrument of appointment.
 
@@ -1313,7 +1315,7 @@ Note:          In _Barratt v Howard_ \[1999] FCA 1132, the Fed
 
              (5)  Conditions may be attached to payments under this section. If a condition is breached, the payment may be recovered by the Commonwealth as a debt in a court of competent jurisdiction.
 
-Note:          Payments under this section must be made from money appropriated by the Parliament. Generally, a payment can be debited against an Agency’s annual appropriation, providing that it relates to some matter that has arisen in the course of its administration or otherwise relates to the Agency’s outcomes.
+             (6)  Payments under this section are to be made out of money appropriated by the Parliament for the purposes of this section.
 
 ##### <a id="74"></a>74  Locally engaged employees
 
@@ -1469,7 +1471,7 @@ of Assent
       <div>11 Nov 1999</div>
     </td>
     <td>
-      <div>5 Dec 1999 ( <i>see Gazette</i>1999, No. S584)</div>
+      <div>5 Dec 1999 ( <i>see Gazette</i>1999, No. S584)</div>
     </td>
     <td colspan="2">
       <div></div>
@@ -1531,23 +1533,6 @@ Remainder: 24 May 2001
     </td>
     <td colspan="2">
       <div>S. 4</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Financial Framework Legislation Amendment Act (No. 1) 2006</div>
-    </td>
-    <td>
-      <div>30, 2006</div>
-    </td>
-    <td>
-      <div>6 Apr 2006</div>
-    </td>
-    <td colspan="2">
-      <div>Schedule 3 (items 35, 36): 7 Apr 2006</div>
-    </td>
-    <td colspan="2">
-      <div>—</div>
     </td>
   </tr>
   <tr height="0">
@@ -1728,6 +1713,8 @@ _(b)_    Subsection 2(1) (items 2 and 3) of the _Legislative Instruments
   </tr>
 </tbody></table>
 
+ 
+
 
 ## Table of Amendments
 
@@ -1871,22 +1858,6 @@ _(b)_    Subsection 2(1) (items 2 and 3) of the _Legislative Instruments
     </td>
     <td>
       <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 73</div>
-    </td>
-    <td>
-      <div>am. No. 30, 2006</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Note to s. 73</div>
-    </td>
-    <td>
-      <div>ad. No. 30, 2006</div>
     </td>
   </tr>
   <tr>
