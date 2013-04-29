@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00462/Html/edc14197-de11-4285-9d3f-2aec58b18bce_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00371/Html/35a7a0ae-000e-47e6-a139-13cfa2adb108_files/image001.gif)
 
 # A New Tax System (Medicare Levy Surcharge—Fringe Benefits) Act 1999
 
 **Act No. 18 of 1999 as amended**
 
-This compilation was prepared on 23 May 2012
- taking into account amendments up to Act No. 28 of 2012
+This compilation was prepared on 28 March 2012
+ taking into account amendments up to Act No. 12 of 2012
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -158,7 +158,7 @@ Indexation of singles surcharge threshold
 
              (4)  The **_indexation factor_** is:
 
-![](http://www.comlaw.gov.au/Details/C2012C00462/Html/edc14197-de11-4285-9d3f-2aec58b18bce_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00371/Html/35a7a0ae-000e-47e6-a139-13cfa2adb108_files/image002.gif)
 
              (5)  The indexation factor mentioned in subsection (4) is calculated to 3 decimal places (rounding up if the fourth decimal place is 5 or more).
 
@@ -174,11 +174,11 @@ Indexation of singles surcharge threshold
 
                      (b)  the result of the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00462/Html/edc14197-de11-4285-9d3f-2aec58b18bce_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00371/Html/35a7a0ae-000e-47e6-a139-13cfa2adb108_files/image003.gif)
 
 Example:    If a person has 3 dependants who are children, the family surcharge threshold for the 2008‑09 year of income is:
 
-![](http://www.comlaw.gov.au/Details/C2012C00462/Html/edc14197-de11-4285-9d3f-2aec58b18bce_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00371/Html/35a7a0ae-000e-47e6-a139-13cfa2adb108_files/image004.gif)
 
 ##### <a id="7"></a>7  When are people _married_?
 
@@ -264,7 +264,7 @@ General rule
 
              (3)  If this Division applies to the person for only some of the days of the year of income, the amount of surcharge payable on the person’s reportable fringe benefits total for the year of income includes the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00462/Html/edc14197-de11-4285-9d3f-2aec58b18bce_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00371/Html/35a7a0ae-000e-47e6-a139-13cfa2adb108_files/image005.gif)
 
 ### Division 3—Amount of surcharge for single person with dependants
 
@@ -316,7 +316,7 @@ Amount of surcharge payable for part of year
 
              (4)  If this Division applies to the person for only some of the days of the year of income, the amount of surcharge payable on the person’s reportable fringe benefits total for the year of income includes the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00462/Html/edc14197-de11-4285-9d3f-2aec58b18bce_files/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00371/Html/35a7a0ae-000e-47e6-a139-13cfa2adb108_files/image006.gif)
 
 ### Division 4—Amount of surcharge for married person
 
@@ -406,7 +406,7 @@ Amount of surcharge
 
              (4)  The amount of surcharge payable on the person’s reportable fringe benefits total for the year of income includes the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00462/Html/edc14197-de11-4285-9d3f-2aec58b18bce_files/image007.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00371/Html/35a7a0ae-000e-47e6-a139-13cfa2adb108_files/image007.gif)
 
 where:
 
@@ -955,24 +955,6 @@ S. 4 (rep. by 75, 2010, Sch. 6 \[item 117])</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Fairer Private Health Insurance Incentives (Medicare Levy Surcharge—Fringe Benefits) Act 2012</div>
-  </td>
-  <td>
-    <div>28, 2012</div>
-  </td>
-  <td>
-    <div>4 Apr 2012</div>
-  </td>
-  <td>
-    <div>Schedule 1: \[ <i>see</i>s. 2(1), Note 3 and Table A] 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 17)</div>
-  </td>
 </tr></table>
 
 _(a)_     Subsection 2(1) (item 2) of the _Superannuation Legislation Amendment (Simplification) Act 2007_ provides as follows:
@@ -1282,119 +1264,7 @@ The following amendment commences on 1 July 2012:
 
 Omit “$18,839”, substitute “20,542”.
 
-As at 23 May 2012 the amendment is not incorporated in this compilation.
-
-### Note 3
-
-_Fairer Private Health Insurance Incentives (Medicare Levy Surcharge—Fringe Benefits) Act 2012 (No. 28, 2012)_
-
-The following amendments commence on 1 July 2012:
-
-## Schedule 1
-
-## 1  Subsection 3(1) (definition of _family surcharge threshold_)
-
-Repeal the definition.
-
-## 2  Subsection 3(1)
-
-Insert:
-
-                    <a name="famili-tier-threshold"></a>**_family tier 1 threshold_**, of a person for a year of income, means the family tier 1 threshold (within the meaning of the _Private Health Insurance Act 2007_) of the person for the financial year corresponding to the year of income.
-
-## 3  Subsection 3(1) (definition of _singles surcharge threshold_)
-
-Repeal the definition.
-
-## 4  Subsection 3(1)
-
-Insert:
-
-                    <a name="singl-tier-threshold"></a>**_singles tier 1 threshold_**, of a person for a year of income, means the singles tier 1 threshold (within the meaning of the _Private Health Insurance Act 2007_) of the person for the financial year corresponding to the year of income.
-
-## 5  Subsection 3(1)
-
-Insert:
-
-                    <a name="tier-earner"></a>**_tier 2 earner_** has the meaning given by section 6.
-
-## 6  Subsection 3(1)
-
-Insert:
-
-                    <a name="tier-earner"></a>**_tier 3 earner_** has the meaning given by section 6.
-
-## 7  Sections 5A and 6
-
-Repeal the sections, substitute:
-
-##### <a id="6"></a>6  What is a _tier 2 earner_ and _tier 3 earner_
-
-(1)  Subject to this section, for the purposes of this Act:
-
-(a)  **_tier 2 earner_**, for a year of income, means a tier 2 earner (within the meaning of the _Private Health Insurance Act 2007_) for the financial year corresponding to the year of income; and
-
-(b)  **_tier 3 earner_**, for a year of income, means a tier 3 earner (within the meaning of that Act) for the financial year corresponding to the year of income.
-
-             (2)  In determining whether a person is a **_tier 2 earner_** or **_tier 3 earner_** for a year of income for the purposes of this Act, section 22‑30 of the _Private Health Insurance Act 2007_ operates with the modification set out in subsection (3).
-
-             (3)  Replace paragraph 22‑30(1)(b) of the _Private Health Insurance Act 2007_ with the following paragraph:
-
-                     (b)  on any day in the year, the person has one or more dependants (within the meaning of the _A New Tax System (Medicare Levy Surcharge—Fringe Benefits) Act 1999_), other than a dependant to whom the person is married (within the meaning of that Act):
-
-## 8  Paragraph 12(1)(a)
-
-Omit “the singles surcharge threshold”, substitute “the person’s singles tier 1 threshold”.
-
-## 9  At the end of section 12
-
-Add:
-
-             (4)  Increase the amount of each percentage mentioned in subsections (2) and (3) by 0.25 of a percentage point if the person is a tier 2 earner for the year of income.
-
-             (5)  Increase the amount of each percentage mentioned in subsections (2) and (3) by 0.5 of a percentage point if the person is a tier 3 earner for the year of income.
-
-## 10  Paragraph 13(1)(a)
-
-Omit “family surcharge threshold”, substitute “family tier 1 threshold”.
-
-## 11  At the end of section 13
-
-Add:
-
-             (5)  Increase the amount of each percentage mentioned in subsections (3) and (4) by 0.25 of a percentage point if the person is a tier 2 earner for the year of income.
-
-             (6)  Increase the amount of each percentage mentioned in subsections (3) and (4) by 0.5 of a percentage point if the person is a tier 3 earner for the year of income.
-
-## 12  Paragraph 15(1)(b)
-
-Omit “family surcharge threshold”, substitute “family tier 1 threshold”.
-
-## 13  At the end of section 15
-
-Add:
-
-             (3)  Increase the amount of the percentage mentioned in subsection (1) by 0.25 of a percentage point if the person is a tier 2 earner for the year of income.
-
-             (4)  Increase the amount of the percentage mentioned in subsection (1) by 0.5 of a percentage point if the person is a tier 3 earner for the year of income.
-
-## 14  Paragraph 16(2)(b)
-
-Omit “family surcharge threshold”, substitute “family tier 1 threshold”.
-
-## 15  Paragraph 16(3)(b)
-
-Omit “family surcharge threshold”, substitute “family tier 1 threshold”.
-
-## 16  After subsection 16(4)
-
-Insert:
-
-          (4A)  Increase the amount of the percentage mentioned in subsection (4) by 0.25 of a percentage point if the person is a tier 2 earner for the year of income.
-
-          (4B)  Increase the amount of the percentage mentioned in subsection (4) by 0.5 of a percentage point if the person is a tier 3 earner for the year of income.
-
-As at 23 May 2012 the amendments are not incorporated in this compilation.
+As at 28 March 2012 the amendment is not incorporated in this compilation.
 
 ## Table A
 
@@ -1637,18 +1507,6 @@ The following provision commences on 1 July 2012:
 ## Schedule 2
 
 ## 11  Application provision
-
-The amendments made by this Schedule apply to the 2012‑13 year of income and later years of income.
-
-* * *
-
-_Fairer Private Health Insurance Incentives (Medicare Levy Surcharge—Fringe Benefits) Act 2012 (No. 28, 2012)_
-
-The following provision commences on 1 July 2012:
-
-## Schedule 1
-
-## 17  Application
 
 The amendments made by this Schedule apply to the 2012‑13 year of income and later years of income.
 
