@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00740/Html/86255b8c-43bb-4c6e-936b-e5f7a0df7a28_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00611/Html/ef84560c-8883-4667-8695-6dc25b54e1b2_files/image001.gif)
 
 # Parliamentary Superannuation Act 2004
 
 **Act No. 72 of 2004 as amended**
 
-This compilation was prepared on 10 October 2012
- taking into account amendments up to Act No. 136 of 2012
+This compilation was prepared on 5 August 2011
+ taking into account amendments up to Act No. 75 of 2011
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -243,17 +244,17 @@ but does not include a Minister of State.
 
                      (c)  the person was not entitled to a parliamentary allowance immediately before that time.
 
-             (2)  For the purposes of subsection (1), if a person:
+             (2)  For the purposes of subsection (1), if:
 
-                     (a)  ceased to be a member of the House of Representatives upon the dissolution or expiration of that House; and
+                     (a)  a person ceased to be a member of the House of Representatives upon the dissolution or expiration of that House; and
 
                      (b)  was elected as a member of the Senate within 3 months after so ceasing to be a member of the House of Representatives;
 
 then the person is taken to have been entitled to a parliamentary allowance from the time of so ceasing to be a member of the House of Representatives until the time the person first becomes entitled to parliamentary allowance after being so elected as a member of the Senate.
 
-             (3)  For the purposes of subsection (1), if a person:
+             (3)  For the purposes of subsection (1), if:
 
-                     (a)  resigned as a member of the Senate; and
+                     (a)  a person resigned as a member of the Senate; and
 
                      (b)  was elected as a member of the House of Representatives within 3 months after the resignation;
 
@@ -419,7 +420,7 @@ Note:          The choice can be varied or revoked (see sectio
 
              (1)  Within 28 days after a person (the **_member_**) becomes a person who, under section 10, can choose a fund as described in section 11, the administering authority must cause the member to be given written notice containing the following information:
 
-                     (a)  a statement that the member may choose a complying superannuation fund (other than a self managed superannuation fund) or an RSA as the fund to which contributions in respect of the member will be paid under this Act;
+                     (a)  a statement that the member may choose a complying superannuation fund (other than a self managed fund) or an RSA as the fund to which contributions in respect of the member will be paid under this Act;
 
                      (b)  a statement to the effect that if the member does not choose a fund, the contributions will be paid to the fund that is, from time to time, the default fund;
 
@@ -441,7 +442,7 @@ Note:          The choice can be varied or revoked (see sectio
 
 ##### <a id="17"></a>17  Declaration of the default fund
 
-             (1)  The Minister may, by notice in writing signed by the Minister, declare that a fund or scheme is the default fund for the purposes of this Act. At the time the declaration is made, the fund or scheme must be a complying superannuation fund (other than a self managed superannuation fund).
+             (1)  The Minister may, by notice in writing signed by the Minister, declare that a fund or scheme is the default fund for the purposes of this Act. At the time the declaration is made, the fund or scheme must be a complying superannuation fund (other than a self managed fund).
 
              (2)  A declaration under subsection (1) must specify the date of effect of the declaration. The specified date may be the day on which the declaration is signed, or an earlier or later day.
 
@@ -463,7 +464,7 @@ Note:          The choice can be varied or revoked (see sectio
 
 ##### <a id="19"></a>19  Regulations
 
-                   The Governor‑General may make regulations prescribing matters:
+                   The Governor‑General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -575,24 +576,7 @@ Remainder: 24 June 2004</div>
     <div>Schedule 2 (items 6, 7, 21): 5 Aug 2011 ( <i>see</i>F2011L01603)</div>
   </td>
   <td>
-    <div>Sch. 2 (item 21)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2012</div>
-  </td>
-  <td>
-    <div>136, 2012</div>
-  </td>
-  <td>
-    <div>22 Sept 2012</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 94–99): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
+    <div>Sch. 2 (item 21)</div>
   </td>
 </tr></table>
 
@@ -687,8 +671,8 @@ _(a)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
 
 <table>
 <colgroup>
-  <col width="32%">
-  <col width="68%">
+  <col width="34%">
+  <col width="66%">
 </colgroup>
 
 <thead>
@@ -732,14 +716,6 @@ _(a)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
 </tr>
 <tr>
   <td>
-    <div>S. 5</div>
-  </td>
-  <td>
-    <div>am. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part 2</b></div>
   </td>
   <td>
@@ -760,38 +736,6 @@ _(a)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
   </td>
   <td>
     <div>am. No. 115, 2006; No. 75, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 16</div>
-  </td>
-  <td>
-    <div>am. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 17</div>
-  </td>
-  <td>
-    <div>am. No. 136, 2012</div>
   </td>
 </tr></table>
 
