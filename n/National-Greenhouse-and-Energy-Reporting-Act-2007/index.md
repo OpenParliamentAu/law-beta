@@ -1,20 +1,19 @@
-![](http://www.comlaw.gov.au/Details/C2011C00772/Html/d9d35195-97a7-49ac-8058-f51324e67dab_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00478/Html/ab6a49d5-bed1-43eb-b2ee-53a7b74fd70a_files/image001.gif)
 
 # National Greenhouse and Energy Reporting Act 2007
 
 **Act No. 175 of 2007 as amended**
 
-This compilation was prepared on 22 September 2011
- taking into account amendments up to Act No. 102 of 2011
+This compilation was prepared on 16 October 2009
+ taking into account amendments up to Act No. 87 of 2009
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
 
-The operation of amendments that have been incorporated may be
- affected by application provisions that are set out in the Notes section
+The operation of amendments that have been incorporated may be affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -492,6 +491,14 @@ but does not include an activity, or a series of activities, in the exclusive ec
 
 Note:          For the Convention on the Law of the Sea see the Schedule to the _Seas and Submerged Lands Act 1973_.
 
+                    <a name="interim-financi-year"></a>**_interim financial year_** means:
+
+                     (a)  the financial year beginning on 1 July 2008; or
+
+                     (b)  the financial year beginning on 1 July 2009; or
+
+                     (c)  the financial year beginning on 1 July 2010.
+
                     <a name="joint-ventur"></a>**_joint venture_** means an enterprise carried on by 2 or more entities in common otherwise than in partnership.
 
                     <a name="member"></a>**_member_** has the meaning given by subsection 8(2).
@@ -708,11 +715,11 @@ On 30 June 2010 the corporation is still registered under Division 3\. The c
 
              (2)  If a member of a controlling corporation’s group has operational control of a facility for a number of, but not all, days in a financial year (the **_control days_**), subparagraphs (1)(d)(i) to (iii) have effect as though each threshold were replaced by the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00772/Html/d9d35195-97a7-49ac-8058-f51324e67dab_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00478/Html/ab6a49d5-bed1-43eb-b2ee-53a7b74fd70a_files/image002.gif)
 
 Reporting transfer certificate
 
-             (3)  For the purposes of this section, if a person was the holder of a reporting transfer certificate in relation to a facility on a particular day, the facility is taken not to have been under the operational control of a member of a controlling corporation’s group on that day.
+             (3)  For the purposes of this section, if a person was the holder of a reporting transfer certificate in relation to a facility on a particular day in an interim financial year, the facility is taken not to have been under the operational control of a member of a controlling corporation’s group on that day.
 
 ##### <a id="14"></a>14  Applying to register in relation to greenhouse gas project
 
@@ -844,7 +851,7 @@ from the operation of the facility during the part of that year.
 
              (5)  If a part or parts of a report relating to one or more facilities are provided in accordance with subsection (4) for a financial year, the report by the registered corporation under subsection (1) in respect of that year need only, in relation to any such facilities, specify the member of the corporation’s group that provided the part or parts of the report in relation to those facilities.
 
-          (5A)  For the purposes of this section, if a person was the holder of a reporting transfer certificate in relation to a facility on a particular day, the facility is taken not to have been under the operational control of a member of the corporation’s group on that day.
+          (5A)  For the purposes of this section, if a person was the holder of a reporting transfer certificate in relation to a facility on a particular day in an interim financial year, the facility is taken not to have been under the operational control of a member of the corporation’s group on that day.
 
              (6)  A report or part of a report under this section must:
 
@@ -1020,7 +1027,7 @@ that must be kept under subsection (1) or (2).
 
 ##### <a id="22G"></a>22G  Report to be given to Greenhouse and Energy Data Officer
 
-             (1)  If a corporation was the holder of a reporting transfer certificate in relation to a facility during the whole or a part of a financial year, the corporation must, in accordance with this section, provide a report to the Greenhouse and Energy Data Officer relating to the:
+             (1)  If a corporation was the holder of a reporting transfer certificate in relation to a facility during the whole or a part of an interim financial year, the corporation must, in accordance with this section, provide a report to the Greenhouse and Energy Data Officer relating to the:
 
                      (a)  greenhouse gas emissions; and
 
@@ -1028,7 +1035,7 @@ that must be kept under subsection (1) or (2).
 
                      (c)  energy consumption;
 
-from the operation of the facility during the whole, or the part, as the case may be, of that financial year.
+from the operation of the facility during the whole, or the part, as the case may be, of that interim financial year.
 
                     Civil penalty:          2,000 penalty units.
 
@@ -1050,7 +1057,7 @@ Note 2:       Under section 30, a corporation may be liable for an
 
                      (c)  include any information specified by the regulations for the purposes of this paragraph; and
 
-                     (d)  be given to the Greenhouse and Energy Data Officer before the end of 4 months after the end of the financial year.
+                     (d)  be given to the Greenhouse and Energy Data Officer before the end of 4 months after the end of the interim financial year.
 
              (3)  Regulations made for the purposes of paragraph (2)(c) may specify different requirements for different circumstances.
 
@@ -1060,7 +1067,7 @@ Note 2:       Under section 30, a corporation may be liable for an
 
                      (b)  do not meet specified thresholds;
 
-for a financial year to which a report relates.
+for an interim financial year to which a report relates.
 
              (5)  Regulations made for the purposes of paragraph (2)(c) may also specify information that a State or Territory has requested the Greenhouse and Energy Data Officer to collect.
 
@@ -1078,7 +1085,7 @@ for a financial year to which a report relates.
 
 ##### <a id="22H"></a>22H  Records to be kept
 
-             (1)  A corporation that is or was required to provide a report under section 22G for a financial year must keep records of the corporation’s activities that:
+             (1)  A corporation that is or was required to provide a report under section 22G for an interim financial year must keep records of the corporation’s activities that:
 
                      (a)  allow the corporation to report accurately under section 22G; and
 
@@ -1200,11 +1207,11 @@ Criteria for issue of certificate
 
                      (c)  at least one of the following conditions has been, or is likely to be, satisfied:
 
-                              (i)  during a financial year, the operation of the facility causes emissions of greenhouse gases that have a carbon dioxide equivalence of 25 kilotonnes or more;
+                              (i)  during an interim financial year, the operation of the facility causes emissions of greenhouse gases that have a carbon dioxide equivalence of 25 kilotonnes or more;
 
-                             (ii)  during a financial year, the operation of the facility causes production of energy of 100 terajoules or more;
+                             (ii)  during an interim financial year, the operation of the facility causes production of energy of 100 terajoules or more;
 
-                            (iii)  during a financial year, the operation of the facility causes consumption of energy of 100 terajoules or more; and
+                            (iii)  during an interim financial year, the operation of the facility causes consumption of energy of 100 terajoules or more; and
 
                      (d)  if the regulations specify one or more other requirements—those requirements are met.
 
@@ -1238,11 +1245,9 @@ Refusal
 
                              (ii)  if a controlling corporation consented under subsection 22K(3) to the making of the application for the certificate—the controlling corporation.
 
-             (3)  A reporting transfer certificate remains in force until:
+             (3)  A reporting transfer certificate remains in force until the end of 30 June 2011.
 
-                     (a)  a surrender of the certificate takes effect under section 22N; or
-
-                     (b)  the certificate is cancelled under section 22P.
+             (4)  Subsection (3) has effect subject to this Division.
 
 ##### <a id="22N"></a>22N  Surrender of reporting transfer certificate
 
@@ -1276,7 +1281,7 @@ Cancellation
 
                      (a)  the corporation does not pass the reporting transfer test in relation to the facility concerned; or
 
-                     (b)  the corporation has become an externally‑administered body corporate (within the meaning of the _Corporations Act 2001_); or
+                     (b)  the corporation has become an externally-administered body corporate (within the meaning of the _Corporations Act 2001_); or
 
                      (c)  if the regulations specify one or more other grounds for cancellation—at least one of those grounds is applicable to the corporation.
 
@@ -1418,7 +1423,7 @@ reported in relation to a registered corporation’s group for the previous fina
 
 This subsection is subject to subsection 25(3).
 
-       (1AD)  If a corporation gives the Greenhouse and Energy Data Officer a report under section 22G in relation to a financial year, the Greenhouse and Energy Data Officer must publish on a website, by 28 February next following the financial year:
+       (1AD)  If a corporation gives the Greenhouse and Energy Data Officer a report under section 22G in relation to an interim financial year, the Greenhouse and Energy Data Officer must publish on a website, by 28 February next following the interim financial year:
 
                      (a)  the greenhouse gas emissions that are scope 1 emissions (within the meaning of the regulations); and
 
@@ -1534,7 +1539,7 @@ for the purposes of, or in connection with, court or tribunal proceedings, or pr
 
                      (b)  security measures required in relation to the confidentiality of the information.
 
-##### <a id="27"></a>27  Information may be disclosed to States and Territories
+##### <a id="27"></a>27  Information may be disclosed to States and Territories
 
              (1)  The Greenhouse and Energy Data Officer, or a person authorised by the Greenhouse and Energy Data Officer, must disclose greenhouse and energy information to a State or Territory or an authority of a State or Territory if:
 
@@ -1738,7 +1743,7 @@ Note:          For the amount of penalty, see section 41.
 
 ##### <a id="41"></a>41  Amount of penalty
 
-                   The penalty to be specified in an infringement notice relating to a person’s alleged contravention of a civil penalty provision must be a pecuniary penalty equal to one‑fifth of the maximum penalty that a Court could impose on the person for that contravention.
+                   The penalty to be specified in an infringement notice relating to a person’s alleged contravention of a civil penalty provision must be a pecuniary penalty equal to one-fifth of the maximum penalty that a Court could impose on the person for that contravention.
 
 Note:          To work out this maximum penalty, see subsection 31(3).
 
@@ -2518,7 +2523,7 @@ Note:          Under section 30, a person may be liable for 
 
 ##### <a id="77"></a>77  Regulations
 
-                   The Governor‑General may make regulations prescribing matters:
+                   The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -2537,10 +2542,10 @@ For all relevant information pertaining to application, saving or transitional p
 <table>
 <colgroup>
   <col width="30%">
-  <col width="15%">
+  <col width="16%">
   <col width="19%">
   <col width="21%">
-  <col width="14%">
+  <col width="13%">
 </colgroup>
 
 <thead>
@@ -2594,7 +2599,7 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Schedule 1 (items 1, 8–10, 12, 23): 15 Mar 2009 
-Schedule 1 (items 2–7, 11, 13–22, 24–35): 16 Sept 2008 
+Schedule 1 (items 2–7, 11, 13–22, 24–35): 16 Sept 2008 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -2613,163 +2618,13 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Schedule 1: 16 Oct 2009 
-Schedule 2 (items 1–16): 19 Sept 2009 
-Schedule 2 (items 17–33): <i>(a)</i> 
+Schedule 2 (items 1–16): 19 Sept 2009 
+Schedule 2 (items 17–32): \[ <i>see</i>s. 2(1) and Note 2] 
+Schedule 2 (item 33): \[ <i>see</i>s. 2(1) and Note 2] 
 Remainder: Royal Assent</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 797) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Carbon Credits (Consequential Amendments) Act 2011</div>
-  </td>
-  <td>
-    <div>102, 2011</div>
-  </td>
-  <td>
-    <div>15 Sept 2011</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 12–16, 19): \[ <i>see</i>s. 2(1), Note 3 and Table A] 
-Schedule 2: 16 Sept 2011</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 19)</div>
-  </td>
-</tr></table>
-
-_(a)_     Subsection 2(1) (items 4 and 5) of the _National Greenhouse and Energy Reporting Amendment Act 2009_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      4\. Schedule 2, Part 2
-    </div>
-  </td>
-  <td>
-    <div>
-      The later of:
-    </div>
-    <div>
-      (a) the commencement of section 3 of the
-        <i>Carbon Pollution Reduction Scheme Act 2009</i>; and
-    </div>
-    <div>
-      (b) immediately after the commencement of Part 1 of Schedule 2 to this
-        Act.
-    </div>
-    <div>
-      However, the provision(s) do not commence at all if the event mentioned
-        in paragraph (a) does not occur.
-    </div>
-  </td>
-  <td>
-    <div>
-      Does not commence
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      5\. Schedule 2, Part 3
-    </div>
-  </td>
-  <td>
-    <div>
-      At the same time as Part 2 of Schedule 1 to the
-        <i>Carbon Pollution Reduction Scheme (Consequential Amendments) Act 2009</i>commences.
-    </div>
-  </td>
-  <td>
-    <div>
-      Does not commence
-    </div>
   </td>
 </tr></table>
 
@@ -2817,7 +2672,7 @@ _(a)_     Subsection 2(1) (items 4 and 5) of the _National Greenhouse an
     <div>S. 7</div>
   </td>
   <td>
-    <div>am. No. 84, 2008; No. 87, 2009; No. 102, 2011</div>
+    <div>am. No. 84, 2008; No. 87, 2009</div>
   </td>
 </tr>
 <tr>
@@ -2873,7 +2728,7 @@ _(a)_     Subsection 2(1) (items 4 and 5) of the _National Greenhouse an
     <div>S. 13</div>
   </td>
   <td>
-    <div>am. No. 87, 2009; No. 102, 2011</div>
+    <div>am. No. 87, 2009</div>
   </td>
 </tr>
 <tr>
@@ -2937,7 +2792,7 @@ _(a)_     Subsection 2(1) (items 4 and 5) of the _National Greenhouse an
     <div>S. 19</div>
   </td>
   <td>
-    <div>am. No. 84, 2008; No. 87, 2009; No. 102, 2011</div>
+    <div>am. No. 84, 2008; No. 87, 2009</div>
   </td>
 </tr>
 <tr>
@@ -3022,14 +2877,6 @@ _(a)_     Subsection 2(1) (items 4 and 5) of the _National Greenhouse an
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 102, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Division 2</b></div>
   </td>
   <td>
@@ -3054,23 +2901,7 @@ _(a)_     Subsection 2(1) (items 4 and 5) of the _National Greenhouse an
 </tr>
 <tr>
   <td>
-    <div>Ss. 22L, 22M</div>
-  </td>
-  <td>
-    <div>ad. No. 87, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 102, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22N</div>
+    <div>Ss. 22L–22N</div>
   </td>
   <td>
     <div>ad. No. 87, 2009</div>
@@ -3129,7 +2960,7 @@ _(a)_     Subsection 2(1) (items 4 and 5) of the _National Greenhouse an
     <div>S. 24</div>
   </td>
   <td>
-    <div>am. No. 84, 2008; No. 87, 2009; No. 102, 2011</div>
+    <div>am. No. 84, 2008; No. 87, 2009</div>
   </td>
 </tr>
 <tr>
@@ -3310,95 +3141,90 @@ Div. 4 of Part 6</div>
   </td>
 </tr></table>
 
-### Note 2
+### Note 2
 
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+_National Greenhouse and Energy Reporting Amendment Act 2009 
+ (No. 87, 2009)_
 
-The following amendment commences on 27 December 2011 unless proclaimed earlier:
+The following amendments commence on the commencement of section 3 of the _Carbon Pollution Reduction Scheme Act 2009_(still a Bill). However, the amendments may not commence, _see_ subsection 2(1) (item 4):
 
-## Schedule 2
+## Schedule 2
 
-## 797  Section 7 (definition of _exclusive economic zone_)
+## 17  Subsection 17(3A)
 
-Repeal the definition.
+Omit “Greenhouse and Energy Data Officer”, substitute “Authority”.
 
-As at 22 September 2011 the amendment is not incorporated in this compilation.
+## 18  Subsections 22G(1) and (2)
 
-### Note 3
+Omit “Greenhouse and Energy Data Officer” (wherever occurring), substitute “Authority”.
 
-_Carbon Credits (Consequential Amendments) Act 2011 (No. 102, 2011)_
+Note:          The heading to section 22G is altered by omitting “**Greenhouse and Energy Data Officer**” and substituting “**the Authority**”.
 
-The following amendments commence at the same time as section 3 of the _Carbon Credits (Carbon Farming Initiative) Act 2011_:
+## 19  Subsection 22G(5)
 
-## Schedule 1
+Omit “Greenhouse and Energy Data Officer”, substitute “Authority”.
 
-## 12  Section 7
+## 20  Paragraph 22H(1)(b)
 
-Insert:
+Omit “Greenhouse and Energy Data Officer”, substitute “Authority”.
 
-                    <a name="cfi-audit"></a>**_CFI audit_** means:
+## 21  Subsection 22K(2)
 
-                     (a)  an audit under section 214 or 215 of the _Carbon Credits (Carbon Farming Initiative) Act 2011_; or
+Omit “Greenhouse and Energy Data Officer”, substitute “Authority”.
 
-                     (b)  an audit carried out for the purposes of preparing an audit report prescribed for the purposes of any of the following provisions of the _Carbon Credits (Carbon Farming Initiative) Act 2011_:
+## 22  Paragraph 22K(5)(b)
 
-                              (i)  paragraph 13(1)(e);
+Omit “Greenhouse and Energy Data Officer”, substitute “Authority”.
 
-                             (ii)  paragraph 23(1)(d);
+## 23  Subsection 22KA(1)
 
-                            (iii)  paragraph 76(4)(c).
+Omit “Greenhouse and Energy Data Officer” (wherever occurring), substitute “Authority”.
 
-## 13  Section 7
+## 24  Subsection 22KA(2)
 
-Insert:
+Omit “Greenhouse and Energy Data Officer”, substitute “Authority”.
 
-                    <a name="cfi-audit-report"></a>**_CFI audit report_** means:
+## 25  Subsection 22L(2)
 
-                     (a)  an audit report under section 214 or 215 of the _Carbon Credits (Carbon Farming Initiative) Act 2011_; or
+Omit “Greenhouse and Energy Data Officer”, substitute “Authority”.
 
-                     (b)  an audit report prescribed for the purposes of any of the following provisions of the _Carbon Credits (Carbon Farming Initiative) Act 2011_:
+## 26  Subsections 22L(3), (4) and (5)
 
-                              (i)  paragraph 13(1)(e);
+Omit “Greenhouse and Energy Data Officer” (wherever occurring), substitute “Authority”.
 
-                             (ii)  paragraph 23(1)(d);
+## 27  Subsections 22N(2) and (3)
 
-                            (iii)  paragraph 76(4)(c).
+Omit “Greenhouse and Energy Data Officer”, substitute “Authority”.
 
-## 14  After subsection 26(4)
+## 28  Subsection 22N(4)
 
-Insert:
+Omit “Greenhouse and Energy Data Officer” (wherever occurring), substitute “Authority”.
 
-          (4A)  The Greenhouse and Energy Data Officer, or a person authorised by the Greenhouse and Energy Data Officer, may disclose greenhouse and energy information to the Carbon Credits Administrator for the purposes of, or in connection with, the performance of the functions, or the exercise of the powers, of the Carbon Credits Administrator.
+## 29  Subsection 22P(2)
 
-## 15  Section 75
+Omit “Greenhouse and Energy Data Officer” (wherever occurring), substitute “Authority”.
 
-Repeal the section, substitute:
+## 30  Subsection 24(1AD)
 
-##### <a id="75"></a>75  Conduct of audits
+Omit “Greenhouse and Energy Data Officer” (wherever occurring), substitute “Authority”.
 
-             (1)  The Minister may determine, by legislative instrument, requirements to be met by registered greenhouse and energy auditors in:
+## 31  Subsections 24(1AE) and (1F)
 
-                     (a)  preparing for and carrying out greenhouse and energy audits; and
+Omit “Greenhouse and Energy Data Officer”, substitute “Authority”.
 
-                     (b)  preparing audit reports in relation to greenhouse and energy audits; and
+## 32  Subsection 24(1G)
 
-                     (c)  preparing for and carrying out CFI audits; and
+Omit “Greenhouse and Energy Data Officer” (wherever occurring), substitute “Authority”.
 
-                     (d)  preparing CFI audit reports.
+The following amendment commences at the same time as Part 2 of Schedule 1 to the _Carbon Pollution Reduction Scheme (Consequential Amendments) Act 2009_(still a Bill):
 
-             (2)  The determination may set out different requirements for:
+## Schedule 2
 
-                     (a)  different types of audits; and
+## 33  Paragraphs 24(1AD)(a) and (b)
 
-                     (b)  different types of audit reports.
+Omit “(within the meaning of the regulations)”.
 
-             (3)  A registered greenhouse and energy auditor must comply with requirements determined under subsection (1).
-
-## 16  At the end of subsection 75A(1)
-
-Add “and the _Carbon Credits (Carbon Farming Initiative) Act 2011_”.
-
-As at 22 September 2011 the amendments are not incorporated in this compilation.
+As at 16 October 2009 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -3420,39 +3246,5 @@ _National Greenhouse and Energy Reporting Amendment Act 2008
 (4)       The amendment made by item 13 does not affect the validity of a registration made under subsection 17(1) of the _National Greenhouse and Energy Reporting Act 2007_ before the commencement of that item.
 
 (5)       The amendments made by items 15 and 21 apply in relation to the use of methods that occurs after the conditions concerned take effect.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
-
-* * *
-
-_Carbon Credits (Consequential Amendments) Act 2011 (No. 102, 2011)_
-
-The following provision commences at the same time as section 3 of the _Carbon Credits (Carbon Farming Initiative) Act 2011_:
-
-## Schedule 1
-
-## 19  Transitional—section 75 of the _National Greenhouse and Energy Reporting Act 2007_
-
-(1)       This item applies to a determination if:
-
-                     (a)  the determination was made for the purpose of section 75 of the _National Greenhouse and Energy Reporting Act 2007_; and
-
-                     (b)  the determination was in force immediately before the commencement of this item.
-
-(2)       The determination has effect, after the commencement of this item, as if it had been made under section 75 of the _National Greenhouse and Energy Reporting Act 2007_ as amended by this Act.
 
  
