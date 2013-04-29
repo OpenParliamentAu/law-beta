@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2004C03020/Html/ContNavWaters18_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C03019/Html/ContNavWaters18_image001.gif)
 
 # Control of Naval Waters Act 1918
 
 **Act No. 28 of 1918 as amended**
 
-This compilation was prepared on 31 October 2001
- taking into account amendments up to Act No. 141 of 2001
+This compilation was prepared on 28 August 2001
+ taking into account amendments up to Act No. 21 of 1991
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -21,9 +21,7 @@ Prepared by the Office of Legislative Drafting,
 
 [3](#3).            Extension of Act to Territories                                                            2
 
-[3AA](#3AA).      Application of the _Criminal Code_                                                       2
-
-[3A](#3A).         Declaration of vessels as exempt vessels                                             3
+[3A](#3A).         Declaration of vessels as exempt vessels                                             2
 
 [3B](#3B).         Declaration of waters as naval waters                                                 3
 
@@ -39,15 +37,13 @@ Prepared by the Office of Legislative Drafting,
 
 [7](#7).            Power to remove vessel, wreck etc                                                      7
 
-[8](#8).            Recovery of expenses of removal of vessels etc                                  8
+[8](#8).            Recovery of expenses of removal of vessels etc                                  7
 
 [9](#9).            Service of summons etc                                                                       8
 
-[10](#10).          Offences, where to be deemed to have been committed                      9
+[10](#10).          Offences, where to be deemed to have been committed                      8
 
 **Notes** 
-
- 
 
 ## An Act relating to Control of Naval Waters
 
@@ -102,12 +98,6 @@ Prepared by the Office of Legislative Drafting,
 ##### <a id="3"></a>3  Extension of Act to Territories
 
                    This Act extends to the external Territories, other than the Australian Antarctic Territory.
-
-##### <a id="3AA"></a>3AA  Application of the _Criminal Code_
-
-                   Chapter 2 of the _Criminal Code_ applies to all offences against this Act.
-
-Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
 
 ##### <a id="3A"></a>3A  Declaration of vessels as exempt vessels
 
@@ -201,17 +191,9 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
              (1)  Where a vessel is within any naval waters, the superintendent of those naval waters may give to the master of the vessel directions as to the mooring, anchoring, placing, unmooring or removal of the vessel.
 
-             (2)  The master of a vessel is guilty of an offence if:
+             (2)  The master of a vessel shall not fail to comply with a direction given to him under subsection (1).
 
-                     (a)  the master is given a direction under subsection (1); and
-
-                     (b)  the master fails to comply with the direction.
-
-                    Maximum penalty:    $1,000.
-
-          (2A)  An offence under subsection (2) is an offence of strict liability.
-
-Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
+                    Penalty:  $1,000.
 
              (3)  If:
 
@@ -276,8 +258,6 @@ the superintendent may cause the aircraft, vehicle or vessel to be placed or rem
 ### Note 1
 
 The _Control of Naval Waters Act 1918_ as shown in this compilation comprises Act No. 28, 1918 amended as indicated in the Tables below.
-
-All relevant information pertaining to application, saving or transitional provisions prior to 1 October 2001 is not included in this compilation. For subsequent information _see_ Table A.
 
 ### Table of Acts
 
@@ -406,33 +386,7 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment (Application of Criminal Code) Act 2001</div>
-  </td>
-  <td>
-    <div>141, 2001</div>
-  </td>
-  <td>
-    <div>1 Oct 2001</div>
-  </td>
-  <td>
-    <div>S. 4: Royal Assent 
-Schedule 1 (items 3, 4): 2 Oct 2001 <i>(a)</i></div>
-  </td>
-  <td>
-    <div>S. 4 \[ <i>see</i>Table A]</div>
-  </td>
 </tr></table>
-
-_(a)_ The _Control of Naval waters Act 1918_ was amended by Schedule 1 (items 3 and 4) only of the _Defence Legislation Amendment (Application of Criminal Code) Act 2001_, subsection 2(2) of which provides as follows:
-
-                 (2)   Part 1 of Schedule 1 commences on the later of:
-
-                              (a)   the day on which Chapter 2 of the _Criminal Code_ commences; and
-
-                              (b)   the day after the day on which this Act receives the Royal Assent.
 
 ## Table of Amendments
 
@@ -486,14 +440,6 @@ ad. = added or inserted      am. = amended      rep. = repea
 </tr>
 <tr>
   <td>
-    <div>S. 3AA</div>
-  </td>
-  <td>
-    <div>ad. No. 141, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Ss. 3A-3C</div>
   </td>
   <td>
@@ -526,14 +472,6 @@ ad. = added or inserted      am. = amended      rep. = repea
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 141, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 6A</div>
   </td>
   <td>
@@ -556,17 +494,5 @@ ad. = added or inserted      am. = amended      rep. = repea
     <div>rs. No. 8, 1978</div>
   </td>
 </tr></table>
-
-## Table A
-
-### Application, saving or transitional provisions
-
-_Defence Legislation Amendment (Application of Criminal Code) Act 2001  (No. 141, 2001)_
-
-## 4  Application of amendments
-
-             (1)  Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
-
-             (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
 
  
