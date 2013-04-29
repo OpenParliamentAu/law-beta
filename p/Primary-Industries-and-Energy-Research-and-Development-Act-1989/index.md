@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2007C00462/Html/PrimIndEnResDvptA1989_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00336/Html/PrimIndEnResDvptA1989_WD02_image001.gif)
 
 # Primary Industries and Energy Research and Development Act 1989
 
 **Act No. 17 of 1990 as amended**
 
-This compilation was prepared on 10 July 2007
- taking into account amendments up to Act No. 123 of 2007
+This compilation was prepared on 30 May 2007
+ taking into account amendments up to Act No. 71 of 2007
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -1722,7 +1722,7 @@ the amount (if any) that is required to be paid is an amount determined by the M
 
                      (b)  in any other case—on the day on which the notice is given.
 
-##### <a id="73"></a>73  Termination of appointment
+##### <a id="73"></a>73  Termination of appointment
 
              (1)  The Minister may terminate the appointment of the Chairperson or a nominated director:
 
@@ -1988,7 +1988,7 @@ the amount (if any) that is required to be paid is an amount determined by the M
 
 ##### <a id="94"></a>94  Powers
 
-                   An R&amp;D Council has power to do all things that are necessary or convenient to be done for, or in connection with, the performance of its functions.
+                   An R&amp;D Council has power to do all things that are necessary or convenient to be done for, or in connection with, the performance of its functions.
 
 ##### <a id="95"></a>95  Consultations with persons and organisations
 
@@ -3080,7 +3080,7 @@ then:
 
                              (ii)  as a result of the Research Fund being a Research Fund established in respect of goods of the kind in respect of which the levy is imposed;
 
-                            are payable to the RIR&amp;D Corporation for the purposes of the R&amp;D Fund; and
+                            are payable to the RIR&amp;D Corporation for the purposes of the R&amp;D Fund; and
 
                      (d)  so much of any investments that were held for the purposes of the Research Fund, immediately before the levy became attached to the R&amp;D Fund, as are attributable to that money become, when the levy becomes so attached, investments held by the RIR&amp;D Corporation for the purposes of the R&amp;D Fund; and
 
@@ -3821,23 +3821,6 @@ Remainder: 1 Jan 2003</div>
   </td>
   <td>
     <div>Sch. 1 (items 33, 35) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Forestry Marketing and Research and Development Services (Transitional and Consequential Provisions) Act 2007</div>
-  </td>
-  <td>
-    <div>123, 2007</div>
-  </td>
-  <td>
-    <div>28 June 2007</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 1–3): \[ <i>see</i>Note 3]</div>
-  </td>
-  <td>
-    <div>—</div>
   </td>
 </tr></table>
 
@@ -4710,28 +4693,6 @@ Section 35—Section 3 of the _Primary Industries Levies and Charges Collect
 Repeal the section.
 
 The _Primary Industries and Energy Research and Development Act 1989_ was cited incorrectly and the proposed amendment is not incorporated in this compilation.
-
-### Note 3
-
-_Forestry Marketing and Research and Development Services (Transitional and Consequential Provisions) Act 2007 (No. 123, 2007)_
-
-The following amendments commence on 28 December 2007 unless proclaimed earlier:
-
-## Schedule 2
-
-## 1  Subsection 25(4)
-
-Repeal the subsection.
-
-## 2  Paragraph 33(1)(db)
-
-Repeal the paragraph.
-
-## 3  Section 33A
-
-Repeal the section.
-
-As at 10 July 2007 the amendments are not incorporated in this compilation.
 
 ## Table A
 
