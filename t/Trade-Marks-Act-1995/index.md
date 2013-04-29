@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00974/Html/8ca1bce1-1471-4989-b9a7-e7ac23773219_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00653/Html/d6c79e56-5196-44b9-bd71-bb227fd00f1e_files/image001.gif)
 
 # Trade Marks Act 1995
 
 **Act No. 119 of 1995 as amended**
 
-This compilation was prepared on 21 December 2011
- taking into account amendments up to Act No. 149 of 2011
+This compilation was prepared on 15 August 2011
+ taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -92,7 +92,7 @@ That Act is repealed by this Act. It contained the legislation that previously a
 
 The list of Acts cited above is not exhaustive. Other Acts may also affect the operation or interpretation of this Act. 
 
-![](http://www.comlaw.gov.au/Details/C2011C00974/Html/8ca1bce1-1471-4989-b9a7-e7ac23773219_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00653/Html/d6c79e56-5196-44b9-bd71-bb227fd00f1e_files/image002.gif)
 
 # Contents
 
@@ -228,8 +228,7 @@ The list of Acts cited above is not exhaustive. Other Acts may also affect the o
 
     **Division 2—Grounds for opposing registration**
 
-[57](#57).          Registration may be opposed on same grounds as for 
- rejection
+[57](#57).          Registration may be opposed on same grounds as for rejection
 
 [58](#58).          Applicant not owner of trade mark
 
@@ -698,8 +697,6 @@ The list of Acts cited above is not exhaustive. Other Acts may also affect the o
 [230](#230).        Passing off actions
 
 [231](#231).        Regulations
-
-[231A](#231A).     Regulations may make provision in relation to the _Tobacco Plain Packaging Act 2011_
 
 **Part 22—Repeal and transitional** 
 
@@ -1626,7 +1623,7 @@ Note:          For **_applicant_** see section 6.
 
 ##### <a id="35"></a>35  Appeal
 
-                   The applicant may appeal to the Federal Court against a decision of the Registrar:
+                   The applicant may appeal to the Federal Court against a decision of the Registrar:
 
                      (a)  to accept the application subject to conditions or limitations; or
 
@@ -1844,7 +1841,7 @@ Note:          Section 204 requires the Registrar, where no 
 
 ### Division 4—Application for registration of series of trade marks
 
-##### <a id="51"></a>51  Application—series of trade marks
+##### <a id="51"></a>51  Application—series of trade marks
 
              (1)  A person may make a single application under subsection 27(1) for the registration of 2 or more trade marks in respect of goods and/or services if the trade marks resemble each other in material particulars and differ only in respect of one or more of the following matters:
 
@@ -2420,7 +2417,7 @@ Note:          For **_registered owner_** see section 6.
 
 Note:          For **_month_** see section 6.
 
-##### <a id="80G"></a>80G  Renewal within 10 months after end of prescribed period
+##### <a id="80G"></a>80G  Renewal within 10 months after end of prescribed period
 
              (1)  If:
 
@@ -3292,7 +3289,7 @@ Note 4:       In addition, the regulations may provide for the effec
 
              (4)  In deciding, for the purposes of paragraph (3)(a), whether a trade mark is **_well known in Australia_**, one must take account of the extent to which the trade mark is known within the relevant sector of the public, whether as a result of the promotion of the trade mark or for any other reason.
 
-##### <a id="121"></a>121  Infringement of trade mark by breach of certain restrictions
+##### <a id="121"></a>121  Infringement of trade mark by breach of certain restrictions
 
              (1)  This section applies to a registered trade mark if the registered owner, or an authorised user of the trade mark having power to do so, has caused to be displayed on goods (**_registered goods_**) in respect of which the trade mark is registered, or on their package, or on the container in which they are offered to the public, a notice (**_notice of prohibition_**) prohibiting any act that is under subsection (2) a prohibited act in relation to the goods.
 
@@ -5292,36 +5289,6 @@ Note:          For **_file_** see section 6.
 
                      (k)  provide for regulations made under the repealed Act to continue to have effect (with any prescribed alterations) for specified purposes of this Act.
 
-Note:          Regulations can also be made in relation to the _Tobacco Plain Packaging Act 2011_ under section 231A.
-
-##### <a id="231A"></a>231A  Regulations may make provision in relation to the _Tobacco Plain Packaging Act 2011_
-
-             (1)  The regulations may make provision in relation to the effect of the operation of the _Tobacco Plain Packaging Act 2011_, and any regulations made under that Act, on:
-
-                     (a)  a provision of this Act; or
-
-                     (b)  a regulation made under this Act, including:
-
-                              (i)  a regulation that applies a provision of this Act; or
-
-                             (ii)  a regulation that applies a provision of this Act in modified form.
-
-Note:          Section 28 of the _Tobacco Plain Packaging Act 2011_ also sets out the effect of the operation of that Act on certain provisions of, and regulations made under, this Act.
-
-             (2)  Without limiting subsection (1), regulations made for the purposes of that subsection may clarify or state the effect of the operation of the _Tobacco Plain Packaging Act 2011_, and any regulations made under that Act, on a provision of this Act or a regulation made under this Act, including by taking or deeming:
-
-                     (a)  something to have (or not to have) happened; or
-
-                     (b)  something to be (or not to be) the case; or
-
-                     (c)  something to have (or not to have) a particular effect.
-
-             (3)  Regulations made for the purposes of subsection (1):
-
-                     (a)  may be inconsistent with this Act; and
-
-                     (b)  prevail over this Act (including any other regulations or other instruments made under this Act), to the extent of any inconsistency.
-
 ## Part 22—Repeal and transitional
 
 ### Division 1—Repeal
@@ -6241,23 +6208,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Trade Marks Amendment (Tobacco Plain Packaging) Act 2011</div>
-  </td>
-  <td>
-    <div>149, 2011</div>
-  </td>
-  <td>
-    <div>1 Dec 2011</div>
-  </td>
-  <td>
-    <div>Schedule 1: 1 Dec 2011 ( <i>see</i>s. 2(1)) Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
   </td>
 </tr></table>
 
@@ -8123,22 +8073,6 @@ Relocated from s. 155(2)</div>
 </tr>
 <tr>
   <td>
-    <div>Note to s. 231(2)</div>
-  </td>
-  <td>
-    <div>ad. No. 149, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 231A</div>
-  </td>
-  <td>
-    <div>ad. No. 149, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part 22</b></div>
   </td>
   <td>
@@ -8215,7 +8149,7 @@ Relocated from s. 155(2)</div>
 _Personal Property Securities (Consequential Amendments) Act 2009
  (No. 131, 2009)_
 
-The following amendments commence on 30 January 2012 (_see_ section 306 of the _Personal Property Securities Act 2009_ and F2011L02397):
+The following amendments commence on 1 February 2012 or an earlier time determined by the Minister (_see_ section 306 of the _Personal Property Securities Act 2009_):
 
 ## Schedule 2
 
@@ -8319,13 +8253,13 @@ Note 1:       For **_PPSA security interest_** see section 6.
 
 Note 2:       Certain particulars relating to registrations in respect of PPSA security interests under the _Personal Property Securities Act 2009_ are admissible in evidence: see section 174 of that Act.
 
-As at 21 December 2011 the amendments are not incorporated in this compilation.
+As at 15 August 2011 the amendments are not incorporated in this compilation.
 
 ### Note 3
 
 _Personal Property Securities (Corporations and Other Amendments) Act 2010 (No. 96, 2010)_
 
-The following amendment commences immediately after 30 January 2012:
+The following amendment commences immediately after the commencement of item 18 of Schedule 2 to the _Personal Property Securities (Consequential Amendments) Act 2009_:
 
 ## Schedule 3
 
@@ -8347,7 +8281,7 @@ Note 2:       For the meaning of **_transitional security interest_*
 
 _Note:       This amendment replaces the definition inserted by item 18 of Schedule 2 to the Personal Property Securities (Consequential Amendments) Act 2009._
 
-As at 21 December 2011 the amendment is not incorporated in this compilation.
+As at 15 August 2011 the amendment is not incorporated in this compilation.
 
 ### Note 4
 
@@ -8367,7 +8301,7 @@ Note:          For example, a period of 3 months from an event
 
 Omit “Section 28A”, substitute “Subsection 28A(1)”.
 
-As at 21 December 2011 the amendments are not incorporated in this compilation.
+As at 15 August 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -8530,7 +8464,7 @@ Section 226A of the _Trade Marks Act 1995_ applies in relation to information in
 
 ## Schedule 11
 
-## 4  Application
+## 4  Application
 
 The amendment of the _Trade Marks Act 1995_ made by this Schedule applies in relation to applications filed after the commencement of the amendment.
 
@@ -8665,7 +8599,7 @@ The amendment made by item 84 applies to trade marks whose registration expire
 _Personal Property Securities (Consequential Amendments) Act 2009
  (No. 131, 2009)_
 
-The following provision commences on 30 January 2012 (_see_ section 306 of the _Personal Property Securities Act 2009_ and F2011L02397):
+The following provision commences on 1 February 2012 or an earlier time determined by the Minister (_see_ section 306 of the _Personal Property Securities Act 2009_):
 
 ## Schedule 2
 
