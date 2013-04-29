@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00206/Html/CivilAviat1988_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00394/Html/CivilAviat1988_WD02_image001.gif)
 
 # Civil Aviation Act 1988
 
 **Act No. 63 of 1988 as amended**
 
-This compilation was prepared on 3 March 2010
- taking into account amendments up to Act No. 8 of 2010
+This compilation was prepared on 5 August 2009
+ taking into account amendments up to Act No. 70 of 2009
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -568,7 +568,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="3"></a>3  Interpretation
 
-                   In this Act, unless the contrary intention appears:
+             (1)  In this Act, unless the contrary intention appears:
 
                     <a name="83-bi-agreem"></a>**_83 bis agreement_** means an agreement entered into under Article 83 bis of the Chicago Convention.
 
@@ -800,7 +800,7 @@ Example:    A person can have a **_commercial presence_** through the crea
 
                     <a name=""></a><a name="new-zealand"></a>**_New Zealand_** has the same meaning as in the Interpretation Act 1999  of New Zealand.
 
-                    <a name="aoc-anza-privileg"></a><a name="new-zealand"></a>**_New Zealand_****_AOC with ANZA privileges_** has the same meaning as in section 2 of the Civil Aviation Act 1990 of New   Zealand.
+                    <a name="aoc-anza-privileg"></a><a name="new-zealand"></a>**_New Zealand_****_AOC with ANZA privileges_** has the same meaning as in section 2 of the Civil Aviation Act 1990 of New Zealand.
 
                     <a name="temporari-stop-notic"></a><a name="new-zealand"></a>**_New Zealand_****_temporary stop notice_** has the same meaning as in section 2 of the Civil Aviation Act 1990 of New   Zealand.
 
@@ -2769,7 +2769,7 @@ Note:          The suspension under section 30DC continues i
 
              (3)  The undertaking must not require, or have the effect of requiring, the holder to pay money to CASA.
 
-             (4)  CASA must publish details of the undertaking on the internet.
+             (4)  CASA must publish details of the undertaking on the Internet.
 
              (5)  The holder may withdraw or vary the undertaking at any time, but only with the consent of CASA.
 
@@ -3281,7 +3281,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
           (1A)  An application under subsection (1) can only be made for the purpose of finding out whether the Civil Aviation Act 1990 of New Zealand, and the regulations and rules made under that Act (the **_New Zealand legislation_**), are being complied with if a request has been made to CASA, in accordance with the ANZA mutual recognition agreements, for the exercise of powers under this Part in relation to that legislation.
 
-             (2)  Subject to subsection (3), the magistrate may issue the warrant if satisfied, by information on oath, that it is reasonably necessary that the investigator should have access to the premises for the purpose of finding out whether the civil aviation legislation or the New Zealand legislation is being complied with.
+             (2)  Subject to subsection (3), the magistrate may issue the warrant if satisfied, by information on oath, that it is reasonably necessary that the investigator should have access to the premises for the purpose of finding out whether the civil aviation legislation or the New   Zealand legislation is being complied with.
 
              (3)  The magistrate must not issue the warrant unless the investigator or someone else has given the magistrate, either orally or by affidavit, any further information the magistrate may require about the grounds on which the issue of the warrant is being sought.
 
@@ -3725,7 +3725,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                              (ii)  the person has refused to take possession of the goods.
 
-##### <a id="32AM"></a>32AM  Compensation for acquisition of property
+##### <a id="32AM"></a>32AM  Compensation for acquisition of property
 
              (1)  If:
 
@@ -4851,7 +4851,7 @@ the person is not liable to be punished by imprisonment for that offence.
 
                             (iii)  services of the kind referred to in paragraph 6(1)(b) of the _Australian Maritime Safety Authority Act 1990_ to the extent that those services use aircraft;
 
-                            and any construction associated with those facilities or services;
+                            and any construction associated with those facilities or services;
 
                       (t)  the personnel engaged in anything referred to in paragraph (s);
 
@@ -5913,9 +5913,8 @@ Schedule 2 (items 51, 53): <i>(w)</i></div>
     <div>26 Mar 2009</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1–25) and Schedule 3 (items 1–6): 1 July 2009 
-Schedule 2 (items 1–21, 
-23–28) and Schedule 3 (items 7–29): 27 Mar 2009 
+    <div>Schedule 1 (items 1–25) and Schedule 3 (items 1–6): 1 July 2009 
+Schedule 2 (items 1–21, 23–28) and Schedule 3 (items 7–29): 27 Mar 2009 
 Schedule 2 (item 22): <i>(x)</i></div>
   </td>
   <td>
@@ -5951,7 +5950,7 @@ Schedule 2 (item 22): <i>(x)</i></div>
   </td>
   <td>
     <div>S. 4 and Schedule 1 (item 26): Royal Assent 
-Schedule 1 (items 10, 11): 1 July 2009</div>
+Schedule 1 (items 10, 11): 1 July 2009</div>
   </td>
   <td>
     <div>S. 4 and Sch. 1 (item 26) \[ <i>see</i>Table A]</div>
@@ -5986,24 +5985,6 @@ Schedule 1 (items 10, 11): 1 July 2009</div>
   </td>
   <td>
     <div>Schedule 3 (item 15): 5 Aug 2009</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2010</div>
-  </td>
-  <td>
-    <div>8, 2010</div>
-  </td>
-  <td>
-    <div>1 Mar 2010</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 6): Royal Assent 
-Schedule 5 (item 137(a)): <i>(y)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -6801,77 +6782,6 @@ _(x)_ Subsection 2(1) (items 3 and 4) of the _Civil Aviation Amendment Act 2009_
   </td>
 </tr></table>
 
-_(y)_     Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms. 
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      31\. Schedule 5, items 1 to 51
-    </div>
-  </td>
-  <td>
-    <div>
-      The day this Act receives the Royal Assent.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 March 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      38\. Schedule 5, Parts 2 and 3
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the provision(s) covered by table item 31.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 March 2010
-    </div>
-  </td>
-</tr></table>
-
 ## Table of Amendments
 
 <table>
@@ -6916,7 +6826,7 @@ _(y)_     Subsection 2(1) (items 31 and 38) of the _Statute Law Revision
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 6, 1989; No. 25, 1990; Nos. 11, 101 and 173, 1991; No.  196, 1992 (as am. by No. 168, 1994); No. 5, 1994; No. 82, 1995; Nos. 14 and 130, 1997; No. 8, 2000; Nos. 83 and 105, 2003; No. 102, 2006; No. 39, 2007; No. 87, 2008; Nos. 19 and 33, 2009; No. 8, 2010</div>
+    <div>am. No. 6, 1989; No. 25, 1990; Nos. 11, 101 and 173, 1991; No.  196, 1992 (as am. by No. 168, 1994); No. 5, 1994; No. 82, 1995; Nos. 14 and 130, 1997; No. 8, 2000; Nos. 83 and 105, 2003; No. 102, 2006; No. 39, 2007; No. 87, 2008; Nos. 19 and 33, 2009</div>
   </td>
 </tr>
 <tr>
@@ -7265,8 +7175,7 @@ _(y)_     Subsection 2(1) (items 31 and 38) of the _Statute Law Revision
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 1 of 
-Part III</div>
+    <div>Heading to Div. 1 of Part III</div>
   </td>
   <td>
     <div>ad. No. 82, 1995</div>
@@ -7562,8 +7471,7 @@ Part III</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 2 of 
-Part III</div>
+    <div>Heading to Div. 2 of Part III</div>
   </td>
   <td>
     <div>ad. No. 82, 1995</div>
@@ -7840,8 +7748,7 @@ of Div. 2 of Part III</div>
 </tr>
 <tr>
   <td>
-    <div>Subdiv. E of Div. 2 of 
-Part III</div>
+    <div>Subdiv. E of Div. 2 of Part III</div>
   </td>
   <td>
     <div>ad. No. 82, 1995</div>
@@ -7961,8 +7868,7 @@ Part III</div>
 </tr>
 <tr>
   <td>
-    <div>Subdiv. F of Div. 2 of 
-Part III</div>
+    <div>Subdiv. F of Div. 2 of Part III</div>
   </td>
   <td>
     <div>ad. No. 102, 2006</div>
@@ -7986,8 +7892,7 @@ Part III</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 3 of 
-Part III</div>
+    <div>Heading to Div. 3 of Part III</div>
   </td>
   <td>
     <div>ad. No. 82, 1995</div>
@@ -8174,7 +8079,7 @@ Part III</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 19, 2009; No. 8, 2010</div>
+    <div>am. No. 19, 2009</div>
   </td>
 </tr>
 <tr>
@@ -8467,8 +8372,7 @@ Part III</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 4 of 
-Part III</div>
+    <div>Heading to Div. 4 of Part III</div>
   </td>
   <td>
     <div>ad. No. 82, 1995</div>
@@ -8564,8 +8468,7 @@ Part III</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 1 of 
-Part IIIA</div>
+    <div>Heading to Div. 1 of Part IIIA</div>
   </td>
   <td>
     <div>ad. No. 19, 2009</div>
@@ -9016,15 +8919,7 @@ of Div. 2 of Part IIIA</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to Part IV</div>
-  </td>
-  <td>
-    <div>am. No. 25, 1990; No. 82, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
+    <div>Part IV</div>
   </td>
   <td>
     <div>rep. No. 105, 2003</div>
@@ -9040,7 +8935,15 @@ of Div. 2 of Part IIIA</div>
 </tr>
 <tr>
   <td>
-    <div>Part IV</div>
+    <div>Heading to Part IV</div>
+  </td>
+  <td>
+    <div>am. No. 25, 1990; No. 82, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
   </td>
   <td>
     <div>rep. No. 105, 2003</div>
@@ -11063,7 +10966,7 @@ _Civil Aviation Amendment Act 2009 (No. 19, 2009)_
 
 ## Schedule 3
 
-## 28  Application
+## 28  Application
 
 (1)        The amendments made by items 1 to 6 of this Schedule apply in relation to:
 
