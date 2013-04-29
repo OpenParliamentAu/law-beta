@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2004C01458/Html/ANTSGSTT99_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C01457/Html/ANTSGSTT99_image001.gif)
 
 # A New Tax System (Goods and Services Tax Transition) Act 1999
 
 **Act No. 57 of 1999 as amended**
 
-This compilation was prepared on 20 November 2002 
- taking into account amendments up to Act No. 97 of 2002
+This compilation was prepared on 23 July 2001 
+ taking into account amendments up to Act No. 73 of 2001
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -17,85 +17,83 @@ Prepared by the Office of Legislative Drafting,
 
 **Part 1—Introduction**
 
-1             Short title [_see_ Note 1]                                                                        1
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-2             Commencement [_see_ Note 1]                                                               1
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-3             Schedule(s)                                                                                           1
+[3](#3).            Schedule(s)                                                                                           1
 
-4             Overview                                                                                             2
+[4](#4).            Overview                                                                                             2
 
-5             Definitions                                                                                           2
+[5](#5).            Definitions                                                                                           2
 
-6             Time of supply or acquisition                                                             2
+[6](#6).            Time of supply or acquisition                                                             2
 
-6A          Trading periods spanning midnight on 30 June 2000                          3
+[6A](#6A).         Trading periods spanning midnight on 30 June 2000                          3
 
-**Part 2—Start of GST** 
+**Part 2—Start of GST**
 
-7             Start of GST                                                                                        6
+[7](#7).            Start of GST                                                                                        6
 
-8             Effect on sales tax                                                                                6
+[8](#8).            Effect on sales tax                                                                                6
 
-9             GST registration before 1 July 2000                                                   7
+[9](#9).            GST registration before 1 July 2000                                                   6
 
-10           Invoice or consideration before 1 July 2000                                        7
+[10](#10).          Invoice or consideration before 1 July 2000                                        7
 
-11           Supply of rights exercisable on or after 1 July 2000                           7
+[11](#11).          Supply of rights exercisable on or after 1 July 2000                           7
 
-**Part 3—Agreements spanning 1 July 2000** 
+**Part 3—Agreements spanning 1 July 2000**
 
-12           Progressive or periodic supplies                                                          9
+[12](#12).          Progressive or periodic supplies                                                          9
 
-13           Existing agreements: no opportunity to review                                 10
+[13](#13).          Existing agreements: no opportunity to review                                 10
 
-14           Rights granted for life                                                                        11
+[14](#14).          Rights granted for life                                                                        11
 
-15           Funeral agreements                                                                            12
+[15](#15).          Funeral agreements                                                                            12
 
-**Part 4—Stock on hand on 1 July 2000** 
+**Part 4—Stock on hand on 1 July 2000**
 
-16           Special GST credit for sales tax paid on stock                                  13
+[16](#16).          Special GST credit for sales tax paid on stock                                  13
 
-16A        Special GST credit for certain alcoholic beverages on which duty has increased    14
+[16A](#16A).       Special GST credit for certain alcoholic beverages on which duty has increased    14
 
-16AB     Special GST credit for certain alcoholic beverages on which duty has decreased    15
+[16AB](#16AB).    Special GST credit for certain alcoholic beverages on which duty has decreased    15
 
-16B        Special GST credit for certain alcoholic beverages on which duty would not previously have been paid              16
+[16B](#16B).       Special GST credit for certain alcoholic beverages on which duty would not previously have been paid              15
 
-16C        Special petroleum credits                                                                   16
+[16C](#16C).       Special petroleum credits                                                                   16
 
-17           Stock later applied for private or domestic purpose                         17
+[17](#17).          Stock later applied for private or domestic purpose                         17
 
-18           Second-hand goods                                                                            18
+[18](#18).          Second-hand goods                                                                            18
 
 **Part 5—Special transitional rules**
 
-19           Construction agreements made before 1 July 2000                           19
+[19](#19).          Construction agreements made before 1 July 2000                           19
 
-19A        Sales of motor vehicles held under operating leases since 2 December 1998           20
+[19A](#19A).       Sales of motor vehicles held under operating leases since 2 December 1998           20
 
-[19B        Sales etc](#19B        Sales etc). of cars held on 1 July 2000 for the purpose of rental        20
+[20](#20).          Phasing in input tax credits for motor vehicles etc                            20
 
-[20           Phasing in input tax credits for motor vehicles etc](#20           Phasing in input tax credits for motor vehicles etc).                           24
+[1](#1).            Acupuncture, naturopathy and herbal medicine                                22
 
-21           Acupuncture, naturopathy and herbal medicine                                26
+[22](#22).          Insured event before 1 July 2000                                                      23
 
-22           Insured event before 1 July 2000                                                      26
+[23](#23).          Input tax credits relating to compulsory third party schemes          23
 
-23           Input tax credits relating to compulsory third party schemes          27
+[24](#24).          Gambling                                                                                            24
 
-24           Gambling                                                                                            27
+[24A](#24A).       Unredeemed vouchers                                                                        24
 
-24A        Unredeemed vouchers                                                                        28
+[24B](#24B).       Commissioner may make determinations relating to rounding          24
 
-24B        Commissioner may make determinations relating to rounding          28
+[24C](#24C).       Supplies from certain coin-operated devices may be input taxed     25
 
-24C        Supplies from certain coin-operated devices may be input taxed     29
+**Part 6—Regulations**
 
-**Part 6—Regulations** 
-
-25           Regulations                                                                                        30
+[25](#25).          Regulations                                                                                        27
 
 **Schedule 1—Amendment of the sales tax law** 
 
@@ -779,108 +777,6 @@ Note:          Division 29 of the GST Act and section 10 of th
 
                     <a name="operating-leas"></a>**_operating lease_** means a lease under which the lessor effectively retains substantially all risks and benefits incidental to the ownership of the motor vehicle.
 
-##### <a id="19B"></a>19B  Sales etc. of cars held on 1 July 2000 for the purpose of rental
-
-Entitlement to special credit
-
-             (1)  If, in relation to a supply of a car, all of the following conditions are met, the entity referred to in subsection (6) is entitled to a special credit under this section in relation to the supply:
-
-                     (a)  the supply takes place, or took place:
-
-                              (i)  on or after 1 July 2000; and
-
-                             (ii)  before 1 July 2002;
-
-                     (b)  the entity held the car at the start of 1 July 2000;
-
-                     (c)  the supply is, or was, the first sale of the car on or after 1 July 2000;
-
-                     (d)  during the entire period at the start of 1 July 2000 until the entity ceases to hold the car:
-
-                              (i)  the entity held the car, for the purposes of supply by way of rental, in the course or furtherance of an enterprise; and
-
-                             (ii)  the car was covered by the appropriate compulsory third party insurance under subsection (4);
-
-                     (e)  the car has been the subject of sales tax.
-
-             (2)  For the purposes of paragraph (1)(c), a sale of the car to the entity at the end of a period during which the entity was the lessee of the car is not treated as a sale of the car.
-
-             (3)  For the purposes of subsection (1), a supply of the car to an insurer in settlement of a claim under an insurance policy is treated as a sale of the car.
-
-             (4)  For the purposes of subparagraph (1)(d)(ii), the appropriate compulsory third party insurance for the car is:
-
-                     (a)  in any case—compulsory third party insurance for which the premium was calculated on the basis that the car was for supply by the entity by way of rental in the course or furtherance of the enterprise referred to in subparagraph (1)(d)(i); or
-
-                     (b)  if:
-
-                              (i)  the car is not required, by the law of the State or Territory in which it is registered, to be covered by compulsory third party insurance of that kind; but
-
-                             (ii)  there is another State or Territory in which it would be required to be covered by compulsory third party insurance of that kind if it were registered in that State or Territory;
-
-                            the kind of compulsory third party insurance by which the car is required, by the law of the State or Territory in which it is registered, to be covered.
-
-             (5)  This section does not apply to a supply in relation to which any entity is entitled to a special credit under section 19A.
-
-Who is entitled to the special credit
-
-             (6)  The entity entitled to the special credit is the entity that held the car for supply by way of rental (whether or not the entity made the sale referred to in paragraph (1)(c)).
-
-Amount of the special credit
-
-             (7)  The amount of the special credit in relation to the supply is an amount equal to <sup>1</sup>/11 of the price of the supply.
-
-             (8)  However, if the car was covered by an eligible short-term lease, the amount of the special credit is an amount equal to:
-
-<sub>![](http://www.comlaw.gov.au/Details/C2004C01458/Html/ANTSGSTT99_image002.gif)</sub>
-
-where:
-
-                    <a name="exempt-percentag"></a>**_exempt percentage_** is the exempt percentage specified in an agreement under subsection 15A(2) of the _Sales Tax Assessment Act 1992_ that was in force on 30 June 2000 and that applies to the eligible short-term lease in question.
-
-                    <a name="origin-special-crite"></a>**_original special credit_** is the amount that would (but for this subsection) be the amount of the special credit.
-
-Special rules for working out the price of the supply
-
-             (9)  If:
-
-                     (a)  the entity entitled to the special credit was so entitled as the lessee of the car; and
-
-                     (b)  the entity is unable to find out the price at which the car was sold;
-
-the price of the supply is taken to be an amount worked out in the way determined in writing by the Commissioner.
-
-           (10)  If the supply of the car is part of another supply, the price of the supply of the car is an amount equal to the part of the price of the other supply that represents the supply of the car.
-
-           (11)  If the supply of the car is a supply to an insurer in settlement of a claim under an insurance policy, the price of the supply is taken to be the sum of:
-
-                     (a)  if the entity entitled to the special credit receives one or more payments from the insurer in settlement of the claim—the amount of the payment, or the sum of the amounts of all of the payments, as the case may be; and
-
-                     (b)  if the entity entitled to the special credit receives one or more supplies from the insurer in settlement of the claim—the value of the supply, or the total value of all of the supplies, as the case may be.
-
-When the special credit can be claimed
-
-           (12)  The special credit is treated as though it were an input tax credit attributable to any one tax period of your choice ending:
-
-                     (a)  on or after the day on which the _Taxation Laws Amendment Act (No. 3) 2002_ received the Royal Assent; and
-
-                     (b)  on or before 7 January 2003, or such later day as the Commissioner determines in writing.
-
-Definitions etc.
-
-           (13)  In this section:
-
-                    <a name="car"></a>**_car_** has the meaning given by subsection 995-1(1) of the ITAA 1997.
-
-                    <a name="held"></a>**_held_** has the meaning given by subsection 995-1(1) of the ITAA 1997 for the purposes of Division 28 of that Act.
-
-                    <a name="regist"></a>**_registered_**: a car is registered in a State or Territory if it is registered, under the law of the State or Territory, to be driven on a public road in the State or Territory.
-
-           (14)  A reference in this section to a supply of a car by way of rental does not include:
-
-                     (a)  a supply that involves passengers being transported by or on behalf of the supplier; or
-
-                     (b)  a supply of a car to an entity that acquires the car for the purposes of supply by way of rental in the course or furtherance of an enterprise.
-
 ##### <a id="20"></a>20  Phasing in input tax credits for motor vehicles etc.
 
              (1)  This section applies to the acquisition by way of purchase (including hire purchase), or importation, of:
@@ -893,7 +789,7 @@ Definitions etc.
 
              (2)  You are not entitled to an input tax credit on the acquisition or importation if the acquisition or importation is made before 23 May 2001.
 
-          (3A)  If:
+                   (3A)          If:
 
                      (a)  you are a member of a GST group; and
 
@@ -919,7 +815,7 @@ Note:          Paragraph 48-40(2)(a) of the GST Act prevents s
 
           (4B)  Subsection (2) does not apply if you make the acquisition or importation before 23 May 2001 with the intention of granting an eligible short-term lease. However, the amount of any input tax credit you are entitled to on the acquisition or importation is reduced by an amount equal to:
 
-<sub>![](http://www.comlaw.gov.au/Details/C2004C01458/Html/ANTSGSTT99_image003.gif)</sub>
+<sub>![](http://www.comlaw.gov.au/Details/C2004C01457/Html/ANTSGSTT99_image002.gif)</sub>
 
 where:
 
@@ -947,7 +843,7 @@ where:
 
            (10)  For the purposes of this section, an importation takes place when it becomes a taxable importation.
 
-##### 21  Acupuncture, naturopathy and herbal medicine
+##### 1  Acupuncture, naturopathy and herbal medicine
 
              (1)  Paragraph 38-10(1)(b) of the GST Act does not apply in relation to a supply of a service of:
 
@@ -1267,28 +1163,11 @@ Remainder: Royal Assent</div>
   <td>
     <div>Sch. 1 (item 78)</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Taxation Laws Amendment Act (No. 3) 2002</div>
-  </td>
-  <td>
-    <div>97, 2002</div>
-  </td>
-  <td>
-    <div>10 Nov 2002</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 7): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
  
 
-_(a)_    The _A New Tax System (Goods and Services Tax Transition) Act 1999_ was amended by Schedule 6 (items 1-12) only of the _A New Tax System (Indirect Tax and Consequential Amendments) Act 1999_, subsection 2(12) of which provides as follows:
+_(a)_     The _A New Tax System (Goods and Services Tax Transition) Act 1999_ was amended by Schedule 6 (items 1-12) only of the _A New Tax System (Indirect Tax and Consequential Amendments) Act 1999_, subsection 2(12) of which provides as follows:
 
                (12)   Schedule 6 (other than items 13 and 14) commences, or is taken to have commenced, immediately after the commencement of the _A New Tax System (Goods and Services Tax Transition) Act 1999_.
 
@@ -1522,14 +1401,6 @@ ad. = added or inserted      am. = amended      rep. = repea
 </tr>
 <tr>
   <td>
-    <div>S. 19B</div>
-  </td>
-  <td>
-    <div>ad. No. 97, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 20</div>
   </td>
   <td>
@@ -1609,9 +1480,9 @@ ad. = added or inserted      am. = amended      rep. = repea
 
 _Taxation Laws Amendment Act (No. 8) 2000 (No. 156, 2000)_
 
-## Schedule 1
+Schedule 1
 
-## 18  Application
+18  Application
 
 The amendments made by this Schedule apply, and are taken to have applied, in relation to net amounts for tax periods starting on or after 1 July 2000.
 
@@ -1619,10 +1490,12 @@ The amendments made by this Schedule apply, and are taken to have applied, in re
 
 _Taxation Laws Amendment Act (No. 3) 2001 (No. 73, 2001)_
 
-## Schedule 1
+Schedule 1
 
-## 78  Application
+78  Application
 
 The amendments made by this Part of this Schedule apply in relation to acquisitions and importations made on or after 23 May 2001.
+
+      
 
  
