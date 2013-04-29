@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2007C00603/Html/SuperSelfManagSuperFundsTaxAct1987_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00169/Html/SuperSelfManagSuperFundsTaxAct1987_WD02_image001.gif)
 
 # Superannuation (Self Managed Superannuation Funds) Taxation Act 1987
 
 **Act No. 97 of 1987 as amended**
 
-This compilation was prepared on 28 September 2007
- taking into account amendments up to Act No. 154 of 2007
+This compilation was prepared on 30 March 2007
+ taking into account amendments up to Act No. 15 of 2007
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -20,39 +20,39 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part I—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Interpretation
+[3](#3).            Interpretation                                                                                       1
 
-[3A](#3A).         Crown to be bound
+[3A](#3A).         Crown to be bound                                                                              1
 
 **Part III—Functions of the Commissioner of Taxation**
 
-[9](#9).            General administration of Act
+[9](#9).            General administration of Act                                                             3
 
 **Part IIIAA—Collection of superannuation (self managed funds) levy**
 
-[15DAA](#15DAA). Definitions
+[15DAA](#15DAA). Definitions                                                                                           4
 
-[15DA](#15DA).    Liability to levy
+[15DA](#15DA).    Liability to levy                                                                                   4
 
-[15DB](#15DB).    When levy due for payment
+[15DB](#15DB).    When levy due for payment                                                                4
 
-[15DC](#15DC).    General interest charge
+[15DC](#15DC).    General interest charge                                                                         4
 
-[15DF](#15DF).     Remission of levy
+[15DF](#15DF).     Remission of levy                                                                                5
 
-[15DH](#15DH).    Exempting laws ineffective
+[15DH](#15DH).    Exempting laws ineffective                                                                  5
 
 **Part IV—Miscellaneous**
 
-[16](#16).          Review of certain decisions
+[16](#16).          Review of certain decisions                                                                 6
 
-[17](#17).          Statements to accompany notification of decisions
+[17](#17).          Statements to accompany notification of decisions                            7
 
-[22](#22).          Regulations
+[22](#22).          Regulations                                                                                          8
 
 **Notes** 
 
@@ -106,7 +106,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="15DA"></a>15DA  Liability to levy
 
-                   A trustee of a self managed superannuation fund who lodges a return under section 35D of the _Superannuation Industry (Supervision) Act 1993_ is liable to pay a levy on that lodgment.
+                   A trustee of a self managed superannuation fund who lodges a return under section 36A of the _Superannuation Industry (Supervision) Act 1993_ is liable to pay a levy on that lodgment.
 
 ##### <a id="15DB"></a>15DB  When levy due for payment
 
@@ -794,23 +794,6 @@ Ss. 47 and 48: 30 July 1993 ( <i>see Gazette</i>1993, No. S230) <i>(f)</i></di
   </td>
   <td>
     <div>Sch. 3 (item 57) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Sector Legislation Amendment (Simplifying Regulation and Review) Act 2007</div>
-  </td>
-  <td>
-    <div>154, 2007</div>
-  </td>
-  <td>
-    <div>24 Sept 2007</div>
-  </td>
-  <td>
-    <div>Schedule 3 (item 13): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
   </td>
 </tr></table>
 
@@ -1664,7 +1647,7 @@ _(q)_ Subsection 2(1) (item 27) of the _Taxation Laws Amendment Act (No. 3) 
     <div></div>
   </td>
   <td>
-    <div>am. No. 54, 1998; No. 121, 1999; No. 154, 2007</div>
+    <div>am. No. 54, 1998; No. 121, 1999</div>
   </td>
 </tr>
 <tr>
@@ -2321,6 +2304,6 @@ _Superannuation Legislation Amendment (Simplification) Act 2007
 
 ## 57  Application
 
-The amendments made by the previous 2 items of this Schedule apply to the 2007-2008 income year and later years.
+            The amendments made by the previous 2 items of this Schedule apply to the 2007-2008 income year and later years.
 
  
