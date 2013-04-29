@@ -1,13 +1,13 @@
-![](http://www.comlaw.gov.au/Details/C2010C00212/Html/AbLandRightNT76_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00335/Html/AbLandRightNT76_WD02_image001.gif)
 
 # Aboriginal Land Rights (Northern Territory) Act 1976
 
 **Act No. 191 of 1976 as amended**
 
-This compilation was prepared on 3 March 2010
- taking into account amendments up to Act No. 8 of 2010
+This compilation was prepared on 10 July 2008
+ taking into account amendments up to Act No. 73 of 2008
 
-[**Note**: Subsections 70(2BA), (2BB), (2BC) cease to have effect on 18 August 2012, _see_ section 70]
+\[Note: Subsections 70(2BA), (2BB), (2BC) cease to have effect on 18 August 2012, _see_ section 70]
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -710,7 +710,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                               (i)  if subsection 53(2A) of the _Lands Acquisition Act 1955_ applies by virtue of subsection 124(8) of the _Lands Acquisition Act 1989_—the first-mentioned subsection; or
 
-                             (ii)  if subparagraph (i) does not apply—regulations made for the purposes of subsection 124(1) of the _Lands Acquisition Act 1989_.
+                             (ii)  if subparagraph (paragraph (i) does not apply—regulations made for the purposes of subsection 124(1) of the _Lands Acquisition Act 1989_.
 
                     <a name="explor-retent-licenc"></a>**_exploration retention licence_** means an exploration retention licence granted under a law of the Northern Territory relating to mining for minerals and includes a retention licence granted under the _Petroleum Act_ of the Northern Territory as amended from time to time.
 
@@ -776,7 +776,7 @@ but does not include, when the expression is used in Part IV, any such lease, li
 
                     <a name="mission"></a>**_mission_** means a religious society or association the purposes of which are, or include, furthering the spiritual, cultural or economic welfare of Aboriginals, and includes a trustee or trustees empowered to hold land on behalf of such a society or association.
 
-                    <a name="northern-territori-mine-minist"></a>**_Northern Territory Mining Minister_** means the person holding ministerial office under section 36 of the _Northern   Territory__(Self-Government) Act 1978_ who is responsible for the administration of the law of the Northern Territory relating to mining for minerals.
+                    <a name="northern-territori-mine-minist"></a>**_Northern Territory Mining Minister_** means the person holding ministerial office under section 36 of the _Northern Territory__(Self-Government) Act 1978_ who is responsible for the administration of the law of the Northern Territory relating to mining for minerals.
 
                     <a name="nt-entiti"></a>**_NT entity_** means a person approved by the Chief Minister of the Northern Territory under subsection 3AA(1).
 
@@ -4222,7 +4222,7 @@ Determination not a legislative instrument
 
            (20)  A determination made under subsection (15) or (18) is not a legislative instrument.
 
-##### <a id="43"></a>43  National interest cases
+##### <a id="43"></a>43  National interest cases
 
              (1)  Where the Governor-General has, under paragraph 40(b), issued a Proclamation relating to the grant of an exploration licence to a person in respect of Aboriginal land, the person (in this section called the **_applicant_**) and the relevant Land Council must, within the negotiating period, try to agree upon the terms and conditions to which the grant will be subject.
 
@@ -5914,7 +5914,7 @@ may, by written determination for the purposes of this section, impose temporary
 
            (16)  The Executive Director of Township Leasing referred to in section 20B may, by writing, delegate his or her power under subsection (15) of this section to an APS employee in the Department.
 
-           (17)  If a road to which subsection (1) applies is covered by a lease under section 31 of the _Northern   Territory__National Emergency Response Act 2007_, the Minister may, by written determination for the purposes of this section, impose temporary restrictions on the entry or remaining on the road for the purpose of protecting public health or safety.
+           (17)  If a road to which subsection (1) applies is covered by a lease under section 31 of the _Northern Territory__National Emergency Response Act 2007_, the Minister may, by written determination for the purposes of this section, impose temporary restrictions on the entry or remaining on the road for the purpose of protecting public health or safety.
 
            (18)  Subsections (13), (14), (15) and (17) apply subject to any limitation prescribed by the regulations for the purposes of this subsection.
 
@@ -6408,7 +6408,7 @@ All that parcel of land containing an area of 1,458 hectares more or less, being
 
 Secondly: 
 
-All that parcel of land containing an area of 2,232 hectares more or less, being all of Northern   Territory portion 3831 and being more particularly delineated on Survey Plan S.89/73B lodged with the Surveyor-General, Darwin. 
+All that parcel of land containing an area of 2,232 hectares more or less, being all of Northern Territory portion 3831 and being more particularly delineated on Survey Plan S.89/73B lodged with the Surveyor-General, Darwin. 
 
 HENBURY/ORANGE CREEK LOCALITY 
 
@@ -6476,7 +6476,7 @@ All that parcel of land containing an area of 1,494 hectares more or less, being
 
 Thirdly: 
 
-All that parcel of land containing an area of 2,499 hectares more or less, being all of Northern Territory portion 3809 and being more particularly delineated on Survey Plans S.89/88D to S.89/88E lodged with the Surveyor-General, Darwin. 
+All that parcel of land containing an area of 2,499 hectares more or less, being all of Northern   Territory portion 3809 and being more particularly delineated on Survey Plans S.89/88D to S.89/88E lodged with the Surveyor-General, Darwin. 
 
 ## Part 4 
 
@@ -27485,23 +27485,6 @@ Schedule 5 (items 5, 6): <i>(q)</i></div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2010</div>
-  </td>
-  <td>
-    <div>8, 2010</div>
-  </td>
-  <td>
-    <div>1 Mar 2010</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 1): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Aboriginal__Land__Rights Legislation Amendment Act 1982_ was amended by Part IV (sections 10 and 11) only of the _Statute Law (Miscellaneous Amendments) Act (No. 2) 1982_, subsection 2(2) of which provides as follows:
@@ -27832,7 +27815,7 @@ _(q)_     Subsection 2(1) (items 3 and 9) of the _Families, Community 
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. Nos. 21 and 70, 1978; No. 72, 1984; Nos. 18, 40 and 75, 1987; No. 21, 1989; No. 2, 1990; No. 152, 1997; No. 92, 1999; No. 8, 2005; Nos. 93 and 125, 2006; No. 67, 2008; No. 8, 2010</div>
+    <div>am. Nos. 21 and 70, 1978; No. 72, 1984; Nos. 18, 40 and 75, 1987; No. 21, 1989; No. 2, 1990; No. 152, 1997; No. 92, 1999; No. 8, 2005; Nos. 93 and 125, 2006; No. 67, 2008</div>
   </td>
 </tr>
 <tr>
@@ -31070,5 +31053,9 @@ The amendment made by item 3 applies in relation to leases granted after the c
 (1)        The amendment made by item 5 applies in relation to leases granted after the commencement of that item.
 
 (2)        Subsection 19A(5A) of the _Aboriginal Land Rights (Northern Territory) Act 1976_, as inserted by this Schedule, applies in relation to the grant of leases after the commencement of this item (regardless of whether the original lease mentioned in that subsection was granted before or after that commencement).
+
+* * *
+
+ 
 
  
