@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00147/Html/1035c731-7df3-494b-8719-b52567b6073b_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00540/Html/e3e758e2-fb8f-4ff0-a93b-85124d42f565_files/image001.gif)
 
 # Governor‑General Act 1974
 
 **Act No. 16 of 1974 as amended**
 
-This compilation was prepared on 24 January 2012
+This compilation was prepared on 15 July 2011
  taking into account amendments up to Act No. 58 of 2011
 
 The text of any of those amendments not in force
@@ -64,9 +64,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [20](#20).          Regulations
 
-**Notes**
-
-[4](#4).            Entitlements from 1 July 2008
+**Notes** 
 
 ## An Act to make provision in relation to the Salary of the Governor‑General, and the Payment of Allowances to persons, and to the spouses of persons, who have held the office of Governor‑General, to establish the office of Official Secretary to the Governor‑General, to provide for the employment of staff of the Governor‑General, and for related purposes
 
@@ -114,7 +112,7 @@ whether or not the person was legally married to the deceased person.
 
                      (b)  the persons were legally married to each other at the time;
 
-                   (ba)  the persons’ relationship was registered under a law of a State or Territory prescribed for the purposes of section 2E of the _Acts Interpretation Act 1901_ as a kind of relationship prescribed for the purposes of that section;
+                   (ba)  the persons’ relationship was registered under a law of a State or Territory prescribed for the purposes of section 22B of the _Acts Interpretation Act 1901_ as a kind of relationship prescribed for the purposes of that section;
 
                      (c)  the persons had a child who was:
 
@@ -290,13 +288,29 @@ Definitions
 
 ##### <a id="12"></a>12  Acting Official Secretary
 
-                   The Governor‑General may appoint a person to act as Official Secretary:
+             (1)  The Governor‑General may appoint a person to act as Official Secretary:
 
                      (a)  during a vacancy in the office of Official Secretary, whether or not an appointment has previously been made to the office; or
 
-                     (b)  during any period, or during all periods, when the Official Secretary is absent from duty or from Australia, or is, for any other reason, unable to perform the functions of the office of Official Secretary.
+                     (b)  during any period, or during all periods, when the Official Secretary is absent from duty or from Australia, or is, for any other reason, unable to perform the functions of the office of Official Secretary;
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.
+
+             (2)  An appointment of a person under subsection (1) may be expressed to have effect only in such circumstances as are specified in the instrument of appointment.
+
+             (3)  The Governor‑General may:
+
+                     (a)  determine the terms and conditions of appointment, including remuneration and allowances, of a person acting as Official Secretary; and
+
+                     (b)  terminate such an appointment at any time.
+
+             (4)  Where a person is acting as Official Secretary in circumstances referred to in paragraph (1)(b) and the office of Official Secretary becomes vacant while that person is so acting, then, subject to subsection (2), that person may continue so to act until the Governor‑General otherwise directs, the vacancy is filled or a period of 12 months from the date on which the vacancy occurred expires, whichever first happens.
+
+             (5)  The appointment of a person to act as Official Secretary ceases to have effect if the person resigns the appointment by writing signed by the person and delivered to the Governor‑General.
+
+             (6)  While a person is acting as Official Secretary, the person has and may exercise all the powers and shall perform all the functions of the Official Secretary under this Act.
+
+             (7)  The validity of anything done by a person purporting to act pursuant to an appointment made under subsection (1) shall not be called in question on the ground that the occasion for the person’s appointment had not arisen, that there is a defect or irregularity in or in connection with the appointment, that the appointment had ceased to have effect or that the occasion for the person to act had not arisen or had ceased.
 
 ##### <a id="13"></a>13  Official Secretary may employ staff
 
@@ -727,7 +741,7 @@ Schedule 5: 1 Jan 2009 ( <i>see</i>F2008L04609)</div>
     <div>27 June 2011</div>
   </td>
   <td colspan="2">
-    <div>Schedule 2 (items 655–660) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 655–660) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
@@ -779,7 +793,7 @@ _(c)_     The _Public Service Reform Act 1984_ was amended by section 
 
                               (b)   in the case of the amendments of Items 1 and 3 of Schedule 4 to the first‑mentioned Act—be deemed to have come into operation on 1 July 1984.
 
-_(d)_     The _Governor‑General Act 1974_ was amended by Schedule 4 (item 79) and Schedule 5 (items 65–67) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows:
+_(d)_     The _Governor‑General Act 1974_ was amended by Schedule 4 (item 79) and Schedule 5 (items 65‑67) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
 
@@ -948,7 +962,7 @@ _(g)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (C
     <div></div>
   </td>
   <td>
-    <div>am. No. 134, 2008; Nos. 46 and 58, 2011</div>
+    <div>am. No. 134, 2008; No. 58, 2011</div>
   </td>
 </tr>
 <tr>
@@ -1121,39 +1135,7 @@ _(g)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (C
 </tr>
 <tr>
   <td>
-    <div>Ss. 10, 11</div>
-  </td>
-  <td>
-    <div>ad. No. 63, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 12</div>
-  </td>
-  <td>
-    <div>ad. No. 63, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 12</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13</div>
+    <div>Ss. 10–13</div>
   </td>
   <td>
     <div>ad. No. 63, 1984</div>
@@ -1264,6 +1246,42 @@ _(g)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (C
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 655  Paragraph 2B(4)(ba)
+
+Omit “section 22B”, substitute “section 2E”.
+
+## 656  Subsection 12(1)
+
+Omit “(1)”.
+
+## 657  Paragraph 12(1)(b)
+
+Omit “Official Secretary;”, substitute “Official Secretary.”.
+
+## 658  Subsection 12(1)
+
+Omit “but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.”.
+
+## 659  At the end of subsection 12(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 660  Subsections 12(2) to (7)
+
+Repeal the subsections.
+
+As at 15 July 2011 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -1299,7 +1317,7 @@ The repeals and amendments made by this Part do not apply in relation to a perso
 
 _Same‑Sex Relationships (Equal Treatment in Commonwealth Laws—Superannuation) Act 2008 (No. 134, 2008)_
 
-##### <a id="4"></a>4  Entitlements from 1 July 2008
+##### <a id="4"></a>4  Entitlements from 1 July 2008
 
              (1)  If:
 
@@ -1362,6 +1380,8 @@ The amendments of the _Governor‑General Act 1974_ made by this Schedule apply 
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
