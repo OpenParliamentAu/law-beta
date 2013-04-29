@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00666/Html/fd4acaef-a68a-461c-9fee-5350d5f875cb_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00335/Html/a4ed3984-5961-4e5b-a2fd-de19cab796f7_files/image001.gif)
 
 # Textile, Clothing and Footwear Investment and Innovation Programs Act 1999
 
 **Act No. 182 of 1999 as amended**
 
-This compilation was prepared on 15 August 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 5 May 2011
+ taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -1372,7 +1372,7 @@ the entity is liable to pay to the Commonwealth the amount of the excess.
 
              (3)  An entity is liable to pay to the Commonwealth the whole amount of an advance mentioned in paragraph (2)(a) if the entity does not receive the innovation grant on account of which the advance was given.
 
-##### <a id="37ZZF"></a>37ZZF  Reconsideration and review of decisions
+##### <a id="37ZZF"></a>37ZZF  Reconsideration and review of decisions
 
              (1)  The Clothing and Household Textile (BIC) scheme must contain provisions for and in relation to the review of decisions of the Secretary under the scheme that affect an entity.
 
@@ -1833,41 +1833,41 @@ of Assent</div>
       <div>Application, saving or transitional provisions</div>
     </td>
   </tr>
+  <tr>
+    <td>
+      <div>Textile, Clothing and Footwear Strategic Investment Program Act 1999</div>
+    </td>
+    <td>
+      <div>182, 1999</div>
+    </td>
+    <td>
+      <div>22 Dec 1999</div>
+    </td>
+    <td>
+      <div>22 Dec 1999</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
+    </td>
+    <td>
+      <div>146, 1999</div>
+    </td>
+    <td>
+      <div>11 Nov 1999</div>
+    </td>
+    <td>
+      <div>Schedule 1 (item 935): 22 Dec 1999 <i>(a)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
 </thead>
-<tr>
-  <td>
-    <div>Textile, Clothing and Footwear Strategic Investment Program Act 1999</div>
-  </td>
-  <td>
-    <div>182, 1999</div>
-  </td>
-  <td>
-    <div>22 Dec 1999</div>
-  </td>
-  <td>
-    <div>22 Dec 1999</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
-  </td>
-  <td>
-    <div>146, 1999</div>
-  </td>
-  <td>
-    <div>11 Nov 1999</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 935): 22 Dec 1999 <i>(a)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
 <tr>
   <td>
     <div>as amended by</div>
@@ -1969,23 +1969,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 1149) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11)</div>
   </td>
 </tr></table>
 
@@ -3057,20 +3040,6 @@ _(c)_     Subsection 2(1) (item 2) of the _Textile, Clothing and Footw
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendment commences on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 1149  Section 4 (definition of _business day_)
-
-Repeal the definition.
-
-As at 15 August 2011 the amendment is not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -3108,21 +3077,5 @@ _Textile, Clothing and Footwear Strategic Investment Program Amendment (Building
 ## 47  Savings provision—repeal of Parts 2 and 3
 
 The repeal of Parts 2 and 3 of the _Textile, Clothing and Footwear Strategic Investment Program Act 1999_ by item 13 of this Schedule does not affect the operation of Parts 5 and 6 of that Act in respect of the TCF (SIP) scheme (as in force under section 8 of that Act immediately before the commencement of this Schedule).
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
