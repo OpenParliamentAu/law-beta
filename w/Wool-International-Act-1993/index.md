@@ -1,11 +1,9 @@
 
 Wool International Act 1993
 Act No. 64 of 1993 as amended
-This compilation was prepared on 16 February 2000 taking into account amendments up to Act No. 40 of 1999
-Prepared by the Office of Legislative Drafting, Attorney-General’s Department, Canberra
-  
-  
-  
+Consolidated as in force on 7 September 1999
+(includes amendments up to Act No. 40 of 1999)
+Prepared by the Office of Legislative Drafting Attorney-General’s Department, Canberra
 Contents
 Part 1—Preliminary	1
 1	Short title [see Note 1]	1
@@ -48,11 +46,11 @@ Part 7—Finance	17
 Part 9—Miscellaneous	19
 59	Delegation	19
 72	Regulations	19
-Notes		21
-
+Notes 		21
 An Act to provide for units of equity in respect of contributions made to WoolStock Australia Limited through payments of wool tax, and for related purposes
+Do not delete : Chapter placeholder
 Part 1—Preliminary
-  
+Do not delete : Division placeholder
 1  Short title [see Note 1]
 		This Act may be cited as the Wool International Act 1993.
 3  Objects
@@ -87,9 +85,8 @@ WoolStock Australia Limited means:
 Note:	WoolStock Australia Limited has previously had the following names: “Wool International”, “Australian Wool Realisation Commission” and “Australian Wool Corporation”.
 wool tax means tax payable under a Wool Tax Act.
 Wool Tax Act means the Wool Tax Act (No. 1) 1964, the Wool Tax Act (No. 2) 1964, the Wool Tax Act (No. 3) 1964, the Wool Tax Act (No. 4) 1964 or the Wool Tax Act (No. 5) 1964.
-
 Part 4A—Entitlement to share in money of Wool International
-  
+Do not delete : Division placeholder
 22A  Object of Part
 		The purpose of this Part is to give to registered equity holders a right to share in the surplus money of WoolStock Australia Limited.
 22B  Register of persons entitled to share in surplus money of WoolStock Australia Limited
@@ -176,9 +173,8 @@ requests WoolStock Australia Limited to do so, WoolStock Australia Limited must:
 	(2)	The certificate is prima facie evidence of the matters stated in it.
 22MA  Unclaimed units of equity
 		Section 1343 of the Corporations Law has effect in relation to units of equity shown in the register of equity holders in the same way as that section applies in relation to securities shown in an appropriate register of a company.
-
 Part 4B—Distribution of surplus money of WoolStock Australia Limited among registered equity holders
-  
+Do not delete : Division placeholder
 22N  Object of Part
 		The object of this Part is to provide for the distribution of surplus money of WoolStock Australia Limited among registered equity holders.
 22P  Distribution of surplus money by WoolStock Australia Limited
@@ -215,9 +211,8 @@ the following provisions apply:
 	(a)	the total amount available for the distribution;
 	(b)	the total amount that the registered holder of those units is entitled to receive from the distribution;
 	(c)	the amount payable to the beneficiary under paragraph 22R(4)(c) or (d).
-
 Part 4C—Units of equity held by TrusteeCo
-  
+Do not delete : Division placeholder
 22T  Object of Part
 		This Part sets out how TrusteeCo is to deal with the units of equity in WoolStock Australia Limited that are held by TrusteeCo.
 22U  Dealings by TrusteeCo with units of equity held in respect of putative equity holders
@@ -238,9 +233,8 @@ Note:	For the transfer of those units see section 22H.
 	(b)	if paragraph (a) does not apply—to the former shareholders of the company.
 22V  Dealings by TrusteeCo with unclaimed units
 		TrusteeCo holds each lot of unclaimed units on trust until they are transferred under subsection 22H(2A).
-
 Part 4D—Distribution of money paid to TrusteeCo
-  
+Do not delete : Division placeholder
 22W  Object of Part
 		This Part sets out how TrusteeCo is to deal with the money that it receives from the distributions under Part 4B.
 22X  Money to be held on trust
@@ -260,9 +254,8 @@ bank includes, but is not limited to, a body corporate that is an ADI (authorise
 TrusteeCo must pay to the person, out of the trust money, the amount that was paid to TrusteeCo in respect of the units of equity transferred to the person.
 22ZA  Balance of money to be paid to WoolStock Australia Limited
 		If, one month after the final distribution under Part 4B, there is a balance of trust money standing to the credit of TrusteeCo, then TrusteeCo must pay that balance to WoolStock Australia Limited.
-
 Part 7—Finance
-  
+Do not delete : Division placeholder
 43  Payments to WoolStock Australia Limited
 	(1)	This section applies to amounts received by the Commonwealth after the commencement of this Part in respect of wool tax imposed in a financial year commencing on or after 1 July 1993.
 	(2)	After the Commonwealth receives the full amount of tax imposed by any of the Wool Tax Acts in a financial year on a particular sale, purchase, export or processing of shorn wool (other than carpet wool), the Commonwealth must pay to WoolStock Australia Limited an amount equal to the prescribed percentage of the sale value of that wool.
@@ -281,9 +274,8 @@ there is payable to WoolStock Australia Limited the amount that would have been 
 		Money payable to WoolStock Australia Limited under section 43 or 44 is payable out of the Consolidated Revenue Fund which is appropriated accordingly.
 52  Commonwealth entitled to deduct expenses of collecting wool tax
 		An amount payable by the Commonwealth under section 43 or 44 (the tax payment) is to be reduced by an amount that the Minister determines to be the expenses incurred by the Commonwealth in connection with the collection and recovery of the tax payment.
-
 Part 9—Miscellaneous
-  
+Do not delete : Division placeholder
 59  Delegation
 	(1)	WoolStock Australia Limited may delegate all or any of its powers under this Act to any person or body.
 	(2)	A delegation must be under the common seal of WoolStock Australia Limited.
@@ -293,8 +285,8 @@ Part 9—Miscellaneous
 	(2)	Without limiting subsection (1), the provisions that may be made by the regulations include provisions imposing penalties not exceeding 20 penalty units for offences against the regulations.
 Notes to the Wool International Act 1993
 Note 1
-The Wool International Act 1993 as shown in this compilation comprises Act No. 64, 1993 amended as indicated in the Tables below. 
-All relevant information pertaining to application, saving or transitional provisions prior to 30 June 1997 is not included in this compilation. For subsequent information see Table A.
+The Wool International Act 1993 as shown in this consolidation comprises Act No. 64, 1993 amended as indicated in the Tables below. 
+All relevant information pertaining to application, saving or transitional provisions prior to 30 June 1997 is not included in this consolidation. For subsequent information see Table A.
 Table of Acts
 Act
 Number  and year
@@ -304,7 +296,7 @@ Application, saving or transitional provisions
 Wool International Act 1993 
 64, 1993 
 12 Nov 1993 
-Ss. 1 and 2: Royal Assent  Ss. 3-6 and Parts 2-9 (ss. 7‑72): 1 Dec 1993 (see Gazette 1993,  No. GN46)  Remainder: (a)
+Ss. 1 and 2: Royal Assent  Ss. 3-6 and Parts 2–9 (ss. 7–72): 1 Dec 1993 (see  Gazette 1993,  No. GN46)  Remainder: (a)
 
 Primary Industries and Energy Legislation Amendment Act (No. 2) 1995 
 133, 1995 
@@ -334,8 +326,8 @@ Sch. 1 (item 19) [see Table A]
 Audit (Transitional and Miscellaneous) Amendment Act 1997
 152, 1997
 24 Oct 1997
-Schedule 2 (items 1295‑1306): 1 Jan 1998 (see Gazette 1997, No. GN49) (d) Schedule 2 (items 1307‑1310): (d)
-
+Schedule 2 (items 1295–1306): 1 Jan 1998 (see Gazette 1997, No. GN49) (d) Schedule 2 (items 1307–1310): [see Table A]
+S.4 (2) [see Table A]
 Financial Sector Reform (Consequential Amendments) Act 1998
 48, 1998
 29 June 1998
@@ -348,19 +340,21 @@ Wool International Amendment Act 1998
 —
 Wool International Privatisation Act 1999
 40, 1999
-3 June 1999
-Schedule 1: Royal Assent Remainder: 1 July 1999 (see Gazette 1999, No. S250) (f) 
+3 Jun 1999
+Schedule 1: 3 Jun 1999 Schedule 2 (items 1‑73): 1 July 1999 [see Gazette  1999, No. S250] (f) 
 —
-(a)	Parts 10-12 (ss. 73-87) of the Wool International Act 1993 were repealed by Schedule 1 (item 26) of the Wool International Amendment Act 1997 before a date was fixed for the commencement.
+(a)	Parts 10-12 (ss. 73-87) of the Wool International Act 1993 were repealed by Schedule 1 (item 26) of the Wool International Amendment Act 1997 before a date was fixed for the commencement.
 (b)	The Wool International Act 1993 was amended by Schedule 2 only of the Primary Industries and Energy Legislation Amendment Act (No. 2) 1995, subsection 2(1) of which provides as follows: 
 	(1)	Subject to subsection (2), this Act commences on the day on which it receives the Royal Assent.
 (c)	The Wool International Act 1993 was amended by Schedule 6 only of the Primary Industries and Energy Legislation Amendment Act (No. 1) 1996, subsection 2(1) of which provides as follows: 
 	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 (d)	The Wool International Act 1993 was amended by Schedule 2 (items 1295-1310) only of the Audit (Transitional and Miscellaneous) Amendment Act 1997, subsection 2(2) of which provides as follows:
 	(2)	Schedules 1, 2 and 4 commence on the same day as the Financial Management and Accountability Act 1997.
-	Schedule 1 (items 1307-1310) amend sections of the Wool International Act 1993 which were repealed see (a) above.
 (e)	The Wool International Act 1993 was amended by Schedule 1 (item 197) only of the Financial Sector Reform (Consequential Amendments) Act 1998, subsection 2(2) of which provides as follows:
 	(2)	Subject to subsections (3) to (14), Schedules 1, 2 and 3 commence on the commencement of the Australian Prudential Regulation Authority Act 1998.
+(f)	The Wool International Act 1993 was amended by Schedule 1 and Schedule 2 (items 1‑73) only of the Wool International Privatisation Act 1999, subsection 2(1) and (2) of which provides as follows:
+	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+	(2)	Schedule 2 commences on a day to be fixed by Proclamation. However, if Schedule 2 does not commence by Proclamation within the period of 6 months beginning on the day on which this Act receives the Royal Assent, then Schedule 2 commences on the first day after the end of that period.
 Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
@@ -389,7 +383,7 @@ ad. No. 108, 1997
 rep. No. 40, 1999
 S. 6	
 rep. No. 40, 1999
-Part 2 	 (ss. 7‑11)
+Part 2 (ss. 7‑11)	
 rep. No. 40, 1999
 S. 7	
 rep. No. 40, 1999
@@ -407,7 +401,7 @@ am. No. 18, 1996; No. 108, 1997
 rep. No. 40, 1999
 Ss. 10, 11	
 rep. No. 40, 1999
-Part 3 	 (ss. 12‑17)
+Part 3 (ss. 12‑17)	
 rep. No. 40, 1999
 Ss. 12‑17	
 rep. No. 40, 1999
@@ -437,13 +431,13 @@ S. 22
 am. No. 62, 1996; No. 124, 1998
 
 rep. No. 40, 1999
-Part 4A 	 (ss. 22A-22M)
+Part 4A (ss. 22A–22M)	
 ad. No. 108, 1997
 S. 22A	
 ad. No. 108, 1997
 
 am. No. 40, 1999
-Heading to s. 22B	
+Heading to 22B	
 am. No. 40, 1999
 S. 22B	
 ad. No. 108, 1997
@@ -453,9 +447,9 @@ Ss. 22C–22E
 ad. No. 108, 1997
 
 rep. No. 40, 1999
-Heading to s. 22F	
+Heading to 22F	
 am. No. 40, 1999
-Ss. 22F‑22J	
+S. 22F‑22J	
 ad. No. 108, 1997
 
 am. No. 40, 1999
@@ -465,23 +459,23 @@ ad. No. 108, 1997
 am. No. 40, 1999
 Note to s. 22K	
 am. No. 40, 1999
-Ss. 22KA, 22KB	
+S. 22KA, 22KB	
 ad. No. 40, 1999
-Ss. 22L, 22M	
+S. 22L, 22M	
 ad. No. 108, 1997
-
+c
 am. No. 40, 1999
 S. 22MA	
 ad. No. 40, 1999
 Heading to Part 4B	
 rs. No. 40, 1999
-Part 4B 	 (ss. 22N-22S)
+Part 4B (ss. 22N–22S)	
 ad. No. 108, 1997
-S. 22N 	
+S. 22N
 ad. No. 108, 1997
 
 am. No. 40, 1999
-S. 22O 	
+S. 22O
 ad. No. 108, 1997
 
 rep. No. 40, 1999
@@ -493,23 +487,23 @@ S. 22Q
 ad. No. 108, 1997
 
 rep. No. 40, 1999
-Ss. 22R, 22S	
+S. 22R, 22S	
 ad. No. 108, 1997
 
 am. No. 40, 1999
 Heading to Part 4C	
 rs. No. 40, 1999
-Part 4C 	 (ss. 22T-22V)
+Part 4C (ss. 22T–22V)	
 ad. No. 108, 1997
-Ss. 22T-22V	
+Ss. 22T–22V	
 ad. No. 108, 1997
 
 rs. No. 40, 1999
 Heading to Part 4D	
 rs. No. 40, 1999
-Part 4D 	 (ss. 22W–22Z, 22ZA)
+Part 4D (ss. 22W–22Z, 22ZA)	
 ad. No. 108, 1997
-Ss. 22W-22Y	
+Ss. 22W‑22Y	
 ad. No. 108, 1997
 
 am. No. 40, 1999
@@ -517,7 +511,7 @@ Ss. 22Z, 22ZA
 ad. No. 108, 1997
 
 rs. No. 40, 1999
-Part 4E  (ss. 22ZB-22ZF)	
+Part 4E (ss. 22ZB–22ZF)	
 ad. No. 108, 1997
 
 rep. No. 40, 1999
@@ -525,13 +519,13 @@ Ss. 22ZB–22ZF
 ad. No. 108, 1997
 
 rep. No. 40, 1999
-S. 22ZG 	
+S. 22ZG
 ad. No. 124, 1998
 
 am. No. 40, 1999
 
 rep. No. 40, 1999
-Part 5 	 (ss. 23‑35)
+Part 5 (ss. 23‑35)
 rep. No. 40, 1999
 S. 23	
 am. No. 108, 1997
@@ -553,9 +547,9 @@ S. 29
 am. No. 108, 1997
 
 rep. No. 40, 1999
-Ss. 30-35	
+Ss. 30‑35	
 rep. No. 40, 1999
-Part 6 	 (ss. 36‑42)
+Part 6 (ss. 36‑42)
 rep. No. 40, 1999
 S. 36	
 am. No. 152, 1997
@@ -603,7 +597,7 @@ am. No. 152, 1997
 rep. No. 40, 1999
 S. 56	
 rep. No. 152, 1997
-Part 8 	 (s. 57)
+Part 8 (s. 57)	
 rep. No. 152, 1997
 S. 57	
 rep. No. 152, 1997
@@ -643,17 +637,17 @@ Ss. 73, 74
 ad. No. 108, 1997
 
 rep. No. 40, 1999
-Part 10 	 (ss. 73‑76)
+Part 10 (ss. 73–76)	
 rep. No. 108, 1997
-Ss. 73‑76	
+Ss. 73–76	
 rep. No. 108, 1997
-Part 11 	 (ss. 77, 78)
+Part 11 (ss. 77, 78)	
 rep. No.108, 1997
 Ss. 77, 78	
 rep. No. 108, 1997
-Part 12 	 (ss. 79‑87)
+Part 12 (ss. 79–87)	
 rep. No. 108, 1997
-Ss. 79‑87	
+Ss. 79–87	
 rep. No. 108, 1997
 Table A
 Application, saving or transitional provisions
@@ -665,5 +659,7 @@ Schedule 1
 	(b)	is eligible for re-appointment.
 (2)	Despite subsection 23(4) of the Wool International Act 1993, the 2 members referred to in paragraph 23(1)(d) of that Act who are first appointed after the commencement of this Part are not to be persons nominated by a selection committee constituted under that Act. In appointing them, the Minister must, however, consult with the members of Wool International referred to in paragraphs 23(1)(a), (b) and (c) of that Act.
 
-      
+Audit (Transitional and Miscellaneous) Amendment Act 1997 (No. 152, 1997)
+4  Some amendments in Schedule 2 may not take effect or may take effect in a modified way
+	(2)	If, on or before the commencement of Schedule 2, Part 12 of the Wool International Act 1993 commences or has commenced, the amendments of that Act set out in Schedule 2 to this Act do not take effect.
 
