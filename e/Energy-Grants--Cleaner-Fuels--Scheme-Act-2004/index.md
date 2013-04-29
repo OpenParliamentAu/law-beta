@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00541/Html/d0cf78ae-0c50-440a-b505-f25726ade566_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00857/Html/EnergyGrantsCleanFuelSchem04_image001.gif)
 
 # Energy Grants (Cleaner Fuels) Scheme Act 2004
 
 **Act No. 41 of 2004 as amended**
 
-This compilation was prepared on 15 July 2011
- taking into account amendments up to Act No. 66 of 2011
+This compilation was prepared on 21 December 2010
+ taking into account amendments up to Act No. 145 of 2010
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -64,9 +64,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                    The object of this Act is to establish a scheme for the provision of grants such as the following:
 
-                     (a)  grants to fully offset any excise duty or customs duty payable in relation to the manufacture or importation of biodiesel for which a provisional entitlement arises on or after 18 September 2003;
+                     (a)  grants to fully offset any excise duty or customs duty payable in relation to the manufacture or importation of biodiesel for which a provisional entitlement arises during the period starting on 18 September 2003 and ending on 30 June 2011;
 
-                    (aa)  grants to fully offset any excise duty or customs duty payable in relation to the manufacture or importation of renewable diesel for which a provisional entitlement arises on or after 1 July 2006;
+                    (aa)  grants to fully offset any excise duty or customs duty payable in relation to the manufacture or importation of renewable diesel for which a provisional entitlement arises during the period starting on 1 July 2006 and ending on 30 June 2011;
+
+                     (b)  grants to partially offset any excise duty or customs duty payable in relation to the manufacture or importation of biodiesel, CNG, ethanol, LNG, LPG, methanol or renewable diesel for which a provisional entitlement arises during a transition period starting on 1 July 2011 and ending on 30 June 2015;
 
                      (c)  grants to encourage the manufacture and importation of low sulphur fuels.
 
@@ -84,7 +86,7 @@ Note:          An effect of this provision is that the _Taxati
 
                     <a name="biodiesel"></a>**_biodiesel_** means fuel that:
 
-                     (a)  is manufactured by chemically altering vegetable oils or animal fats (including recycled oils from these sources) to form mono‑alkyl esters; and
+                     (a)  is manufactured by chemically altering vegetable oils or animal fats (including recycled oils from these sources) to form mono-alkyl esters; and
 
                      (b)  complies with the applicable fuel standard for such fuel.
 
@@ -92,11 +94,23 @@ Note:          An effect of this provision is that the _Taxati
 
                     <a name="cleaner-fuel"></a>**_cleaner fuel_** means:
 
-                     (a)  biodiesel or renewable diesel; or
+                     (a)  biodiesel, CNG, ethanol, LNG, LPG, methanol or renewable diesel; or
 
                      (b)  a fuel (including a fuel blend) prescribed by the regulations that complies with each applicable fuel standard for such fuel.
 
+                    <a name="cng"></a>**_CNG_** means compressed natural gas:
+
+                     (a)  for use as fuel in an internal combustion engine; and
+
+                     (b)  complying with the applicable fuel standard for such fuel.
+
                     <a name="consum-final-sell-fuel"></a>**_consume or finally sell the fuel_** is defined in subsection 5(4).
+
+                    <a name="end-dai"></a>**_end day_** means:
+
+                     (a)  for biodiesel, CNG, ethanol, LNG, LPG, methanol or renewable diesel—30 June 2015; or
+
+                     (b)  for each other cleaner fuel—the day prescribed by the regulations as the end day for that cleaner fuel.
 
                     <a name="enterpris"></a>**_enterprise_** is defined in section 38 of the _A New Tax System (Australian Business Number) Act 1999_.
 
@@ -109,6 +123,12 @@ Note:          An effect of this provision is that the _Taxati
                      (c)  to enter the fuel for home consumption within the meaning of Part VI of the _Excise Act 1901_; or
 
                      (d)  to deliver the fuel for home consumption in accordance with a permission under section 61C of the _Excise Act 1901_.
+
+                    <a name="ethanol"></a>**_ethanol_** means denatured ethanol:
+
+                     (a)  for use as fuel in an internal combustion engine; and
+
+                     (b)  complying with the applicable fuel standard for such fuel.
 
                     <a name="excis-duti-rate"></a>**_excise duty rate_**, for a cleaner fuel, means the excise duty rate:
 
@@ -138,7 +158,27 @@ Note:          An effect of this provision is that the _Taxati
 
                              (ii)  the transition period (under section 15 of the _Excise Act 1901_) for the fuel is yet to end for the manufacturer.
 
+                    <a name="lng"></a>**_LNG_** means liquefied natural gas:
+
+                     (a)  for use as fuel in an internal combustion engine; and
+
+                     (b)  complying with the applicable fuel standard for such fuel.
+
+                    <a name="lpg"></a>**_LPG_** means liquefied petroleum gas:
+
+                     (a)  for use as fuel in an internal combustion engine; and
+
+                     (b)  complying with the applicable fuel standard for such fuel.
+
                     <a name="manufactur"></a>**_manufacture_** includes fuel blending as described in section 77G of the _Excise Act 1901_.
+
+                    <a name="methanol"></a>**_methanol_** means methanol:
+
+                     (a)  for use as fuel in an internal combustion engine; and
+
+                     (b)  complying with the applicable fuel standard for such fuel.
+
+                    <a name="offset-rate"></a>**_offset rate_** is defined in subsection 8(1).
 
                     <a name="qualifi-time"></a>**_qualifying time_**, for a person in relation to a quantity of fuel, is defined in subsection 5(1).
 
@@ -149,6 +189,8 @@ Note:          An effect of this provision is that the _Taxati
                      (a)  for biodiesel—the day this Act commences, or is taken to have commenced; or
 
                   (aaa)  for renewable diesel—1 July 2006; or
+
+                    (aa)  for CNG, ethanol, LNG, LPG or methanol—1 July 2011; or
 
                      (b)  for each other cleaner fuel—the day prescribed by the regulations as the start day for that cleaner fuel.
 
@@ -205,6 +247,8 @@ then the amount of the final fuel worked out in accordance with the regulations 
                               (i)  you enter the fuel; or
 
                              (ii)  if someone else has already entered the fuel, you consume or finally sell the fuel; and
+
+                     (d)  the qualifying time happens before the end of the fuel’s end day; and
 
                      (e)  if you did not import the fuel into Australia, you are a licensed person for the fuel at the qualifying time; and
 
@@ -284,7 +328,143 @@ Note:          Entitlements can also be disqualified under Par
 
 ##### <a id="8"></a>8  Grant amounts
 
-             (1)  If you are entitled to a cleaner fuel grant for a quantity of biodiesel or renewable diesel, the amount of your grant is worked out in accordance with the regulations by reference to biodiesel’s excise duty rate.
+             (1)  If you are entitled to a cleaner fuel grant for a quantity of biodiesel, CNG, ethanol, LNG, LPG, methanol or renewable diesel, the amount of your grant is worked out in accordance with the regulations by reference to the rate (the **_offset rate_**) set out in the following table.
+
+<table>
+<colgroup>
+  <col width="13%">
+  <col width="26%">
+  <col width="35%">
+  <col width="26%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="4">
+      <div>
+        <b>The offset rate for certain cleaner fuels</b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>Item</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>If the fuel is:</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>And the fuel’s qualifying time happens during this period:</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>The fuel’s offset rate is:</b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>1</div>
+  </td>
+  <td>
+    <div>Biodiesel</div>
+  </td>
+  <td>
+    <div>The period:</div>
+    <div>(a) starting at the start of biodiesel’s start day; and</div>
+    <div>(b) ending at the end of 30 June 2011.</div>
+  </td>
+  <td>
+    <div>100% of biodiesel’s excise duty rate.</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>1A</div>
+  </td>
+  <td>
+    <div>Renewable diesel</div>
+  </td>
+  <td>
+    <div>The period:</div>
+    <div>(a) starting at the start of renewable diesel’s start day; and</div>
+    <div>(b) ending at the end of 30 June 2011.</div>
+  </td>
+  <td>
+    <div>100% of biodiesel’s excise duty rate.</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>2</div>
+  </td>
+  <td>
+    <div>Biodiesel, CNG, ethanol, LNG, LPG, methanol or renewable diesel</div>
+  </td>
+  <td>
+    <div>The period:</div>
+    <div>(a) starting at the start of 1 July 2011; and</div>
+    <div>(b) ending at the end of 30 June 2012.</div>
+  </td>
+  <td>
+    <div>80% of the fuel’s excise duty rate.</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>3</div>
+  </td>
+  <td>
+    <div>Biodiesel, CNG, ethanol, LNG, LPG, methanol or renewable diesel</div>
+  </td>
+  <td>
+    <div>The period:</div>
+    <div>(a) starting at the start of 1 July 2012; and</div>
+    <div>(b) ending at the end of 30 June 2013.</div>
+  </td>
+  <td>
+    <div>60% of the fuel’s excise duty rate.</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>4</div>
+  </td>
+  <td>
+    <div>Biodiesel, CNG, ethanol, LNG, LPG, methanol or renewable diesel</div>
+  </td>
+  <td>
+    <div>The period:</div>
+    <div>(a) starting at the start of 1 July 2013; and</div>
+    <div>(b) ending at the end of 30 June 2014.</div>
+  </td>
+  <td>
+    <div>40% of the fuel’s excise duty rate.</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>5</div>
+  </td>
+  <td>
+    <div>Biodiesel, CNG, ethanol, LNG, LPG, methanol or renewable diesel</div>
+  </td>
+  <td>
+    <div>The period:</div>
+    <div>(a) starting at the start of 1 July 2014; and</div>
+    <div>(b) ending at the end of 30 June 2015.</div>
+  </td>
+  <td>
+    <div>20% of the fuel’s excise duty rate.</div>
+  </td>
+</tr></table>
 
           (1A)  If you are entitled to a cleaner fuel grant for a quantity of fuel not covered by subsection (1), the amount of your grant is worked out in accordance with the regulations.
 
@@ -302,7 +482,7 @@ the amount of your cleaner fuel grant is reduced by the amount of the drawback, 
 
 ##### <a id="9"></a>9  Regulations
 
-                   The Governor‑General may make regulations prescribing matters:
+                   The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -313,8 +493,6 @@ the amount of your cleaner fuel grant is reduced by the amount of the drawback, 
 ### Note 1
 
 The _Energy Grants (Cleaner Fuels) Scheme Act 2004_ as shown in this compilation comprises Act No. 41, 2004 amended as indicated in the Tables below.
-
-For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
 
 ### Table of Acts
 
@@ -398,24 +576,6 @@ of Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Energy Grants (Cleaner Fuels) Scheme Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>66, 2011</div>
-  </td>
-  <td>
-    <div>29 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 1: 30 June 2011 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 15)</div>
-  </td>
 </tr></table>
 
 ## Table of Amendments
@@ -454,7 +614,7 @@ Remainder: Royal Assent</div>
     <div>S. 2A</div>
   </td>
   <td>
-    <div>am. No. 74, 2006; No. 66, 2011</div>
+    <div>am. No. 74, 2006</div>
   </td>
 </tr>
 <tr>
@@ -470,7 +630,7 @@ Remainder: Royal Assent</div>
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 74, 2006; No. 66, 2011</div>
+    <div>am. No. 74, 2006</div>
   </td>
 </tr>
 <tr>
@@ -491,32 +651,11 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>S. 5</div>
-  </td>
-  <td>
-    <div>am. No. 66, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 8</div>
   </td>
   <td>
-    <div>am. No. 74, 2006; No. 66, 2011</div>
+    <div>am. No. 74, 2006</div>
   </td>
 </tr></table>
-
-## Table A
-
-### Application, saving or transitional provisions
-
-_Energy Grants (Cleaner Fuels) Scheme Amendment Act 2011 
- (No. 66, 2011)_
-
-## Schedule 1
-
-## 15  Saving provision
-
-The amendment made by item 14 of this Schedule does not affect the continuity of any regulations made under subsection 8(1) of the _Energy Grants (Cleaner Fuels) Scheme Act 2004_ that are in force immediately before that item commences.
 
  
