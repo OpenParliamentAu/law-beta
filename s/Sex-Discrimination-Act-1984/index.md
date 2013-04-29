@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00328/Html/SexDiscrimination84_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00666/Html/SexDiscrimination84_WD02_image001.gif)
 
 # Sex Discrimination Act 1984
 
 **Act No. 4 of 1984 as amended**
 
-This compilation was prepared on 10 July 2009
- taking into account amendments up to Act No. 54 of 2009
+This compilation was prepared on 17 December 2008
+ taking into account amendments up to Act No. 144 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -76,7 +76,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [18](#18).          Qualifying bodies
 
-[19](#19).          Registered organisations under the _Fair Work (Registered Organisations) Act 2009_
+[19](#19).          Registered organisations under Schedule 1B to the _Workplace Relations Act 1996_
 
 [20](#20).          Employment agencies
 
@@ -212,6 +212,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [108](#108).        Commonwealth deemed to be employer
 
+[109](#109).        Awards inconsistent with this Act not to be made
+
 [110](#110).        Unlawful act not basis of civil action unless expressly so provided
 
 [111](#111).        Protection from civil actions
@@ -296,7 +298,7 @@ but does not include:
 
                     <a name="commission"></a>**_Commissioner_** means the Sex Discrimination Commissioner appointed under section 96.
 
-                    <a name="committe-manag"></a>**_committee of management_**, in relation to a club or a registered organisation, means the group or body of persons (however described) that manages the affairs of that club or organisation, as the case may be.
+                    <a name="committe-manag"></a>**_committee of management_**, in relation to a club or a registered organization, means the group or body of persons (however described) that manages the affairs of that club or organization, as the case may be.
 
                     <a name="commonwealth-agenc"></a>**_Commonwealth agency_** means an agency within the meaning of the _Privacy Act 1988_.
 
@@ -320,7 +322,9 @@ but does not include:
 
                      (b)  an Ordinance of a Territory, or a regulation, rule, by-law or determination made under or pursuant to an Ordinance of a Territory; or
 
-                     (c)  an order or award made under or pursuant to a law referred to in paragraph (a) or (b).
+                     (c)  an order or award made under or pursuant to a law referred to in paragraph (a) or (b); or
+
+                     (d)  a decision of the Australian Fair Pay Commission (within the meaning of the _Workplace Relations Act 1996_).
 
                     <a name="commonwealth-program"></a>**_Commonwealth program_** means a program conducted by or on behalf of the Commonwealth government.
 
@@ -402,7 +406,11 @@ but does not include:
 
                      (c)  an incorporated company over which the Commonwealth, or a body or authority referred to in paragraph (a) or (b), is in a position to exercise control.
 
-                    <a name="regist-organis"></a>**_registered organisation_** means an organisation registered, or an association recognised, under the _Fair Work (Registered Organisations) Act 2009_.
+                    <a name="regist-organ"></a>**_registered organization_** means:
+
+                     (a)  a registered organisation within the meaning of Schedule 1 to the _Workplace Relations Act 1996_; or
+
+                     (b)  a transitionally registered association within the meaning of Schedule 10 to the _Workplace Relations Act 1996_.
 
                     <a name="servic"></a>**_services_** includes:
 
@@ -436,7 +444,7 @@ but does not include:
 
                      (a)  a club;
 
-                     (b)  a registered organisation;
+                     (b)  a registered organization;
 
                      (c)  a body established by a law of the Commonwealth, of a State or of a Territory; or
 
@@ -890,17 +898,17 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (c)  by revoking or withdrawing the authorization or qualification or varying the terms or conditions upon which it is held.
 
-##### <a id="19"></a>19  Registered organisations under the _Fair Work (Registered Organisations) Act 2009_
+##### <a id="19"></a>19  Registered organisations under Schedule 1B to the _Workplace Relations Act 1996_
 
-             (1)  It is unlawful for a registered organisation, the committee of management of a registered organisation or a member of the committee of management of a registered organisation to discriminate against a person, on the ground of the person’s sex, marital status, pregnancy or potential pregnancy:
+             (1)  It is unlawful for a registered organization, the committee of management of a registered organization or a member of the committee of management of a registered organization to discriminate against a person, on the ground of the person’s sex, marital status, pregnancy or potential pregnancy:
 
                      (a)  by refusing or failing to accept the person’s application for membership; or
 
-                     (b)  in the terms or conditions on which the organisation is prepared to admit the person to membership.
+                     (b)  in the terms or conditions on which the organization is prepared to admit the person to membership.
 
-             (2)  It is unlawful for a registered organisation, the committee of management of a registered organisation or a member of the committee of management of a registered organisation to discriminate against a person who is a member of the registered organisation, on the ground of the member’s sex, marital status, pregnancy or potential pregnancy:
+             (2)  It is unlawful for a registered organization, the committee of management of a registered organization or a member of the committee of management of a registered organization to discriminate against a person who is a member of the registered organization, on the ground of the member’s sex, marital status, pregnancy or potential pregnancy:
 
-                     (a)  by denying the member access, or limiting the member’s access, to any benefit provided by the organisation;
+                     (a)  by denying the member access, or limiting the member’s access, to any benefit provided by the organization;
 
                      (b)  by depriving the member of membership or varying the terms of membership; or
 
@@ -1328,15 +1336,21 @@ to sexually harass another person.
 
                      (d)  an order of a court; or
 
-                     (e)  an order, determination or award of a court or tribunal having power to fix minimum wages and other terms and conditions of employment; or
+                     (e)  an order or award of a court or tribunal having power to fix minimum wages and other terms and conditions of employment; or
 
-                     (g)  an instrument (an **_industrial instrument_**) that is:
+                      (f)  a decision of the Australian Fair Pay Commission (within the meaning of the _Workplace Relations Act 1996_); or
 
-                              (i)  a fair work instrument (within the meaning of the _Fair Work Act 2009_); or
+                     (g)  any of the following instruments (an **_industrial instrument_**) within the meaning given by the _Workplace Relations Act 1996_:
 
-                             (ii)  a transitional instrument (within the meaning of the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_).
+                              (i)  an award or a variation or order affecting an award;
 
-Note:          A person does not comply with an industrial instrument for the purpose of this subsection if that person purports to comply with a provision of that instrument that has no effect. Accordingly, the exemption under this subsection for acting in direct compliance with such an instrument would not apply in such circumstances.
+                             (ii)  a transitional award or a variation or order affecting a transitional award;
+
+                            (iii)  a pre-reform certified agreement;
+
+                            (iv)  a notional agreement preserving State awards.
+
+Note:          A person does not comply with an industrial instrument for the purpose of subsection (1) if that person purports to comply with a provision of that instrument that is void (for example, a term of a pre-reform certified agreement is void to the extent that it contains prohibited content prescribed for section 356 of the _Workplace Relations Act 1996_: see section 358 of that Act). Accordingly, the exemption under this subsection for acting in direct compliance with such an instrument would not apply in such circumstances.
 
              (2)  Nothing in Division 1 or 2 affects anything done by a person in direct compliance with any of the following as in force on 1 August 1984:
 
@@ -1817,6 +1831,10 @@ this Act applies in relation to that person as if that person had also done the 
 ##### <a id="108"></a>108  Commonwealth deemed to be employer
 
                    For the purposes of this Act, all Commonwealth employees shall be deemed to be employed by the Commonwealth.
+
+##### <a id="109"></a>109  Awards inconsistent with this Act not to be made
+
+                   This Act is a prescribed Act for the purposes of section 116 of the _Workplace Relations Act 1996_.
 
 ##### <a id="110"></a>110  Unlawful act not basis of civil action unless expressly so provided
 
@@ -3088,28 +3106,6 @@ Remainder: Royal Assent</div>
     <div></div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Fair Work (State Referral and Consequential and Other Amendments) Act 2009</div>
-  </td>
-  <td>
-    <div>54, 2009</div>
-  </td>
-  <td colspan="2">
-    <div>25 June 2009</div>
-  </td>
-  <td colspan="3">
-    <div>S. 4: Royal Assent 
-Schedule 5 (items 52–59, 
-76–79, 87, 88): <i>(s)</i></div>
-  </td>
-  <td colspan="2">
-    <div>S. 4 and Sch. 5 (items 87, 88) \[ <i>see</i>Table A]</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -3311,100 +3307,6 @@ _(r)_ Subsection 2(1) (item 7) of the _Age Discrimination (Consequential Provi
   </td>
 </tr></table>
 
-_(s)_ Subsection 2(1) (items 13, 17 and 21) of the _Fair Work (State Referral and Consequential and Other Amendments) Act 2009_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      13\. Schedule 5, items 32 to 64
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of Part 2-4 of the
-        <i>Fair Work Act 2009</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2009 (
-        <i>see</i>F2009L02563)
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      17\. Schedule 5, items 70 to 79
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of Part 2-4 of the
-        <i>Fair Work Act 2009</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2009 (
-        <i>see</i>F2009L02563)
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      21\. Schedule 5, Part 3
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of Part 2-4 of the
-        <i>Fair Work Act 2009</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2009 (
-        <i>see</i>F2009L02563)
-    </div>
-  </td>
-</tr></table>
-
 ## Table of Amendments
 
 <table>
@@ -3457,7 +3359,7 @@ _(s)_ Subsection 2(1) (items 13, 17 and 21) of the _Fair Work (State Referral 
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 72, 1984; No. 126, 1986; Nos. 80 and 87, 1988; No. 115, 1990; No. 71, 1991; Nos. 179 and 180, 1992: No. 165, 1995; No. 60, 1996; Nos. 116, 133, 146 and 161, 1999; No. 105, 2002; SLI 2006 No. 50; No. 54, 2009</div>
+    <div>am. No. 72, 1984; No. 126, 1986; Nos. 80 and 87, 1988; No. 115, 1990; No. 71, 1991; Nos. 179 and 180, 1992: No. 165, 1995; No. 60, 1996; Nos. 116, 133, 146 and 161, 1999; No. 105, 2002; SLI 2006 No. 50</div>
   </td>
 </tr>
 <tr>
@@ -3617,20 +3519,12 @@ _(s)_ Subsection 2(1) (items 13, 17 and 21) of the _Fair Work (State Referral 
     <div>Heading to s. 19</div>
   </td>
   <td>
-    <div>am. No. 165, 1995; No. 60, 1996; No. 105, 2002; No. 54, 2009</div>
+    <div>am. No. 165, 1995; No. 60, 1996; No. 105, 2002</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 19</div>
-  </td>
-  <td>
-    <div>am. No. 165, 1995; No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 20</div>
+    <div>Ss. 19, 20</div>
   </td>
   <td>
     <div>am. No. 165, 1995</div>
@@ -3737,15 +3631,7 @@ _(s)_ Subsection 2(1) (items 13, 17 and 21) of the _Fair Work (State Referral 
     <div>S. 40</div>
   </td>
   <td>
-    <div>am. Nos. 38 and 75, 1988; Nos. 70 and 71, 1991; No. 164, 1994; Nos. 22 and 165, 1995; No. 60, 1996; No. 171, 1997; SLI 2006 No. 50; No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 40(1)</div>
-  </td>
-  <td>
-    <div>rs. No. 54, 2009</div>
+    <div>am. Nos. 38 and 75, 1988; Nos. 70 and 71, 1991; No. 164, 1994; Nos. 22 and 165, 1995; No. 60, 1996; No. 171, 1997; SLI 2006 No. 50</div>
   </td>
 </tr>
 <tr>
@@ -4630,14 +4516,6 @@ _(s)_ Subsection 2(1) (items 13, 17 and 21) of the _Fair Work (State Referral 
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 111</div>
   </td>
   <td>
@@ -4673,7 +4551,7 @@ _(s)_ Subsection 2(1) (items 13, 17 and 21) of the _Fair Work (State Referral 
 
 _Age Discrimination (Consequential Provisions) Act 2004 (No. 40, 2004)_
 
-The following amendment commences immediately after the commencement of Schedule 1 to the _Australian Human Rights Commission Legislation Act 2004_:
+The following amendment commences immediately after the commencement of Schedule 1 to the _Australian Human Rights Commission Legislation Act 2004_ (still a Bill):
 
 ## Schedule 2
 
@@ -4693,7 +4571,7 @@ Repeal the paragraph, substitute:
 
                              (v)  the _Racial Discrimination Act 1975_;
 
-As at 10 July 2009 the amendment is not incorporated in this compilation.
+As at 17 December 2008 the amendment is not incorporated in this compilation.
 
 ## Table A
 
@@ -5003,24 +4881,6 @@ _Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001 (
 
              (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
 
-* * *
-
-_Fair Work (State Referral and Consequential and Other Amendments) Act 2009 (No. 54, 2009)_
-
-##### <a id="4"></a>4  Definition
-
-                   In this Act:
-
-                    <a name="wr-act-repeal-dai"></a>**_WR Act repeal day_** has the meaning given by Schedule 2 to the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_.
-
-## Schedule 5
-
-## 87  Application of item 54
-
-Despite the amendment made by item 54 of this Schedule, the _Sex Discrimination Act 1984_, as in force immediately before the WR Act repeal day, continues to apply, in relation to a decision of the Australian Fair Pay Commission (whether made before or after that day), as if that amendment had not been made.
-
-## 88  Application of item 77
-
-Despite the amendment made by item 77 of this Schedule, subsection 40(1) of the _Sex Discrimination Act 1984_, as in force immediately before the commencement of that amendment, continues to apply on and after that commencement in relation to a decision of the Australian Fair Pay Commission made before that commencement.
+ 
 
  
