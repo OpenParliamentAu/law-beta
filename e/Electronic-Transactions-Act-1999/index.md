@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2007C00371/Html/5cd82704-8f27-4580-9e97-1634d58aca40_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00242/Html/ElectronicTrans1999_image001.gif)
 
 # Electronic Transactions Act 1999
 
 **Act No. 162 of 1999 as amended**
 
-This compilation was prepared on 1 July 2007
+This compilation was prepared on 2 April 2007
  incorporating amendments up to Act No. 21 of 2007
 
 The text of any of those amendments not in force
@@ -18,57 +18,57 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 # Contents
 
-**Part 1—Introduction**
+**Part 1—Introduction**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Object
+[3](#3).            Object                                                                                                  1
 
-[4](#4).            Simplified outline
+[4](#4).            Simplified outline                                                                                 1
 
-[5](#5).            Definitions
+[5](#5).            Definitions                                                                                           2
 
-[6](#6).            Crown to be bound
+[6](#6).            Crown to be bound                                                                              3
 
-[7](#7).            External Territories
+[7](#7).            External Territories                                                                              4
 
 **Part 2—Application of legal requirements to electronic communications** 
 
     **Division 1—General rule about validity of transactions for the purposes of laws of the Commonwealth**
 
-[8](#8).            Validity of electronic transactions
+[8](#8).            Validity of electronic transactions                                                       5
 
     **Division 2—Requirements under laws of the Commonwealth**
 
-[9](#9).            Writing
+[9](#9).            Writing                                                                                                 6
 
-[10](#10).          Signature
+[10](#10).          Signature                                                                                              8
 
-[11](#11).          Production of document
+[11](#11).          Production of document                                                                      9
 
-[12](#12).          Retention
+[12](#12).          Retention                                                                                           12
 
-[13](#13).          Exemptions from this Division
+[13](#13).          Exemptions from this Division                                                          14
 
     **Division 3—Other provisions relating to laws of the Commonwealth**
 
-[14](#14).          Time and place of dispatch and receipt of electronic communications
+[14](#14).          Time and place of dispatch and receipt of electronic communications 16
 
-[15](#15).          Attribution of electronic communications
+[15](#15).          Attribution of electronic communications                                         17
 
 **Part 3—Miscellaneous**
 
-[16](#16).          Regulations
+[16](#16).          Regulations                                                                                        19
 
 **Schedule 1—Exemption of migration and citizenship documents from section 11**
 
-[1](#1).            Exempt migration documents
+[1](#1).            Exempt migration documents                                                            20
 
-[2](#2).            Exempt citizenship documents
+[2](#2).            Exempt citizenship documents                                                          21
 
-[3](#3).            Schedule does not limit section 13
+[3](#3).            Schedule does not limit section 13                                                     22
 
 **Notes** 
 
@@ -118,11 +118,11 @@ electronic form:</li>
 
                (a)     a requirement to give information in writing;
 
-              (b)     a requirement to provide a signature;
+               (b)     a requirement to provide a signature;
 
                (c)     a requirement to produce a document;
 
-              (d)     a requirement to record information;
+               (d)     a requirement to record information;
 
                (e)     a requirement to retain a document.
 
@@ -190,7 +190,7 @@ purported originator or with the authority of the purported originator.</li>
 
                    This Act binds the Crown in all its capacities.
 
-##### <a id="7"></a>7  External Territories
+##### <a id="7"></a>7  External  Territories
 
                    This Act extends to all the external Territories.
 
@@ -590,29 +590,49 @@ _Note:       See subsection 11(5)._
 
                               (i)  registration; or
 
-                             (ii)  an application for, or the giving of, an approval to become an Australian citizen; or
+                             (ii)  an application for, or the grant of, a certificate of Australian citizenship; or
 
-                            (iii)  an application for, or the giving of, a notice about evidence of Australian citizenship; or
+                            (iii)  the inclusion of the name of a child in a certificate of Australian citizenship; or
 
-                            (iv)  the cancellation or surrender of a notice about evidence of Australian citizenship; or
+                            (iv)  the amendment, replacement, cancellation or surrender of a certificate of Australian citizenship; or
 
-                             (v)  the renunciation of Australian citizenship; or
+                             (v)  an application for, or the issue of, an evidentiary certificate; or
 
-                            (vi)  the revocation of Australian citizenship; or
+                            (vi)  the cancellation or surrender of an evidentiary certificate; or
 
-                     (c)  the operation of a provision of a citizenship law that relates to:
+                           (vii)  the renunciation of Australian citizenship; or
 
-                              (i)  the keeping of a register; or
+                           (viii)  the deprivation of Australian citizenship; or
 
-                             (ii)  the correction of an entry in a register; or
+                     (c)  the revocation of a certificate of Australian citizenship; or
 
-                            (iii)  the cancellation of an entry in a register.
+                     (d)  the operation of a provision of a citizenship law that relates to:
 
-             (2)  In this clause:
+                              (i)  an application for, or the issue of, a declaratory certificate of citizenship; or
+
+                             (ii)  the return of a declaratory certificate of citizenship; or
+
+                            (iii)  the keeping of a register; or
+
+                            (iv)  the correction of an entry in a register; or
+
+                             (v)  the cancellation of an entry in a register; or
+
+                            (vi)  the giving of an extract of an entry in a register; or
+
+                           (vii)  the return of an extract of an entry in a register; or
+
+                     (e)  the operation of regulation 4 of the Australian Citizenship Regulations.
+
+             (2)  An expression used in paragraph (1)(b) or (c) and in the _Australian Citizenship Act 1948_ has the same meaning in that paragraph as it has in that Act.
+
+             (3)  An expression used in paragraph (1)(d) and in the Australian Citizenship Regulations has the same meaning in that paragraph as it has in those regulations.
+
+             (4)  In this clause:
 
                     <a name="citizenship-law"></a>**_citizenship law_** means:
 
-                     (a)  the _Australian Citizenship Act 2007_; or
+                     (a)  the _Australian Citizenship Act 1948_; or
 
                      (b)  regulations under that Act.
 
@@ -705,8 +725,7 @@ of Assent</div>
     <div>15 Mar 2007</div>
   </td>
   <td>
-    <div>Schedules 1–3: 1 July 2007 ( <i>see</i>s. 2(1) and F2007L01653) 
-Remainder: Royal Assent</div>
+    <div>Schedule 1 (item 27) and Schedule 3 (items 14, 20): \[ <i>see</i>s. 2(1), Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 14, 20)</div>
@@ -825,22 +844,6 @@ _(a)_ Subsection 2(1) (item 9) of the _Statute Law Revision Act 2005_ provides
 </thead>
 <tr>
   <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 11</div>
   </td>
   <td>
@@ -849,20 +852,63 @@ _(a)_ Subsection 2(1) (item 9) of the _Statute Law Revision Act 2005_ provides
 </tr>
 <tr>
   <td>
-    <div><b>Schedule 1</b></div>
+    <div></div>
   </td>
   <td>
     <div></div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>C. 2</div>
-  </td>
-  <td>
-    <div>rs. No. 21, 2007</div>
-  </td>
 </tr></table>
+
+### Note 2
+
+_Australian Citizenship (Transitionals and Consequentials) Act 2007
+ (No. 21, 2007)_
+
+The following amendment commences on 15 September 2007 unless proclaimed earlier:
+
+## Schedule 1
+
+## 27  Clause 2 of Schedule 1
+
+Repeal the clause, substitute:
+
+##### <a id="2"></a>2  Exempt citizenship documents
+
+             (1)  Section 11 does not apply to a document required or permitted to be produced in connection with:
+
+                     (a)  ascertaining whether a person is, or remains, an Australian citizen; or
+
+                     (b)  the operation of a provision of a citizenship law that relates to:
+
+                              (i)  registration; or
+
+                             (ii)  an application for, or the giving of, an approval to become an Australian citizen; or
+
+                            (iii)  an application for, or the giving of, a notice about evidence of Australian citizenship; or
+
+                            (iv)  the cancellation or surrender of a notice about evidence of Australian citizenship; or
+
+                             (v)  the renunciation of Australian citizenship; or
+
+                            (vi)  the revocation of Australian citizenship; or
+
+                     (c)  the operation of a provision of a citizenship law that relates to:
+
+                              (i)  the keeping of a register; or
+
+                             (ii)  the correction of an entry in a register; or
+
+                            (iii)  the cancellation of an entry in a register.
+
+             (2)  In this clause:
+
+                    <a name="citizenship-law"></a>**_citizenship law_** means:
+
+                     (a)  the _Australian Citizenship Act 2007_; or
+
+                     (b)  regulations under that Act.
+
+As at 2 April 2007 the amendment is not incorporated in this compilation.
 
 ## Table A
 
@@ -870,6 +916,8 @@ _(a)_ Subsection 2(1) (item 9) of the _Statute Law Revision Act 2005_ provides
 
 _Australian Citizenship (Transitionals and Consequentials) Act 2007 
  (No. 21, 2007)_
+
+The following provisions commence on 15 September 2007 unless proclaimed earlier:
 
 ## Schedule 3
 
