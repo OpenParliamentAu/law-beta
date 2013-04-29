@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00122/Html/AircraftNoiseLevyColection95_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00135/Html/AircraftNoiseLevyColection95_WD02_image001.gif)
 
 # Aircraft Noise Levy Collection Act 1995
 
 **Act No. 98 of 1995 as amended**
 
-This compilation was prepared on 26 February 2010
- taking into account amendments up to Act No. 4 of 2010
+This compilation was prepared on 20 March 2009
+ taking into account amendments up to Act No. 87 of 2008
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -344,7 +344,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
              (5)  If the judgment debt bears interest, the penalty payable under subsection (1) is reduced by the following amount: 
 
-![](http://www.comlaw.gov.au/Details/C2010C00122/Html/AircraftNoiseLevyColection95_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00135/Html/AircraftNoiseLevyColection95_WD02_image002.gif)
 
 ##### <a id="10"></a>10  Remission of late-payment penalty
 
@@ -476,9 +476,9 @@ the individual is not liable to be punished by imprisonment for the offence.
 
                     <a name="offenc-against-act"></a>**_offence against this Act_** includes an offence against:
 
-                     (a)  section 6 of the _Crimes Act 1914_; or
+                     (a)  section 6, 7 or 7A of the _Crimes Act 1914_; or
 
-                     (b)  section 11.1, 11.4 or 11.5 of the _Criminal Code_;
+                     (b)  subsection 86(1) of that Act because of paragraph (a) of that subsection;
 
 that relates to an offence against this Act.
 
@@ -636,7 +636,7 @@ of Assent</div>
       <div>11 Nov 1999</div>
     </td>
     <td>
-      <div>Schedule 1 (items 63-66): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(b)</i></div>
+      <div>Schedule 1 (items 63-66): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(b)</i></div>
     </td>
     <td>
       <div>—</div>
@@ -705,23 +705,6 @@ of Assent</div>
     </td>
     <td>
       <div>Schedule 1 (item 24): 20 Mar 2009</div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Crimes Legislation Amendment (Serious and Organised Crime) Act (No. 2) 2010</div>
-    </td>
-    <td>
-      <div>4, 2010</div>
-    </td>
-    <td>
-      <div>19 Feb 2010</div>
-    </td>
-    <td>
-      <div>Schedule 11 (item 1): 20 Feb 2010</div>
     </td>
     <td>
       <div>—</div>
@@ -846,7 +829,7 @@ _(b)_    The _Aircraft Noise Levy Collection Act 1995_ was amended by Sche
       <div>S. 16</div>
     </td>
     <td>
-      <div>am. No. 143, 2001; No. 4, 2010</div>
+      <div>am. No. 143, 2001</div>
     </td>
   </tr>
   <tr>
