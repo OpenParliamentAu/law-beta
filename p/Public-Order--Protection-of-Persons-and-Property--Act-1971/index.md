@@ -1,7 +1,7 @@
 
 Public Order (Protection of Persons and Property) Act 1971 
 Act No. 26 of 1971 as amended
-This compilation was prepared on 24 May 2001 taking into account amendments up to Act No. 24 of 2001
+This compilation was prepared on 27 July 2000  taking into account amendments up to Act No. 43 of 1996
 The text of any of those amendments not in force on that date is appended in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
   
@@ -13,44 +13,42 @@ Part I—Preliminary	1
 2	Commencement [see Note 1]	1
 4	Interpretation	1
 5	When assembly is in relation to protected premises or a protected person	4
-5A	Application of the Criminal Code	4
-Part II—Provisions applying in Commonwealth Territories and on Commonwealth premises	6
-6	Assemblies involving violence or apprehension of violence	6
-7	Causing actual bodily harm or damage to property	7
-8	Dispersal of certain assemblies	7
-9	Unreasonable obstruction	8
-10	Weapons, missiles etc.	9
-11	Additional offences on premises in a Territory	10
-12	Additional offences on Commonwealth premises	11
-13	Evidence	12
-Part IIA—Provisions relating to premises of certain federal courts and tribunals	13
-13A	Interpretation	13
-13B	Application of Part	14
-13C	Power of authorised officer to require information	14
-13D	Power of authorised officer to search a person or require a person to deposit personal effects	14
-13E	Removal from court premises	16
-13F	Person not to carry firearm, explosive substance or offensive weapon on court premises	17
-13G	Saving	17
-13H	Regulations	17
-Part III—Provisions relating to diplomatic and consular premises and personnel, designated overseas missions and international organizations	18
-14	Relation of Part to international law	18
-15	Assemblies involving violence or apprehension of violence	18
-16	Causing actual bodily harm or damage to property	19
-17	Dispersal of certain assemblies	19
-18	Obstruction, assault etc.	21
-19	Weapons, missiles etc.	21
-20	Additional offences in relation to protected premises	22
-21	Evidence	23
-Part IV—General	25
-22	Arrest	25
-23	Prosecutions	25
-24	Particulars to be furnished in respect of certain offences	26
-25	Exclusion of certain other laws	26
-The Schedule	28
-Part I—Imperial Enactments	28
-Part II—Other enactments in force in Australia	29
-Notes 		31
-
+Part II—Provisions applying in Commonwealth Territories and on Commonwealth premises	5
+6	Assemblies involving violence or apprehension of violence	5
+7	Causing actual bodily harm or damage to property	5
+8	Dispersal of certain assemblies	5
+9	Unreasonable obstruction	7
+10	Weapons, missiles etc.	7
+11	Additional offences on premises in a Territory	7
+12	Additional offences on Commonwealth premises	8
+13	Evidence	9
+Part IIA—Provisions relating to premises of certain federal courts and tribunals	10
+13A	Interpretation	10
+13B	Application of Part	11
+13C	Power of authorised officer to require information	11
+13D	Power of authorised officer to search a person or require a person to deposit personal effects	11
+13E	Removal from court premises	13
+13F	Person not to carry firearm, explosive substance or offensive weapon on court premises	13
+13G	Saving	14
+13H	Regulations	14
+Part III—Provisions relating to diplomatic and consular premises and personnel, designated overseas missions and international organizations	15
+14	Relation of Part to international law	15
+15	Assemblies involving violence or apprehension of violence	15
+16	Causing actual bodily harm or damage to property	16
+17	Dispersal of certain assemblies	16
+18	Obstruction, assault etc.	17
+19	Weapons, missiles etc.	18
+20	Additional offences in relation to protected premises	18
+21	Evidence	19
+Part IV—General	20
+22	Arrest	20
+23	Prosecutions	20
+24	Particulars to be furnished in respect of certain offences	21
+25	Exclusion of certain other laws	21
+The Schedule	23
+Part I—Imperial Enactments	23
+Part II—Other enactments in force in Australia	24
+Notes to the Public Order (Protection of Persons and Property) Act 1971	25
 An Act relating to the Preservation of Public Order in Certain Territories and in respect of Commonwealth Premises, the Premises of certain Federal Courts and Tribunals and the Premises and Personnel of Diplomatic and Special Missions, Consular Posts, Designated Overseas Missions and International Organizations
 Part I—Preliminary
   
@@ -106,30 +104,16 @@ unreasonable obstruction means an act or thing done by a person that constitutes
 		For the purposes of this Act, but without limiting the operation of this Act:
 	(a)	an assembly is in relation to protected premises if persons in the assembly are on protected premises, or are at a place in the vicinity of protected premises by reason of the fact that that place is in the vicinity of those protected premises; and
 	(b)	an assembly is in relation to a protected person if persons in the assembly are at a place by reason of the fact that a protected person is present at or in the vicinity of that place.
-5A  Application of the Criminal Code
-	(1)	Chapter 2 of the Criminal Code applies to all offences against this Act.
-Note:	Chapter 2 of the Criminal Code sets out the general principles of criminal responsibility.
-	(2)	Section 10.5 of the Criminal Code applies to an offence against section 13F as if it covered conduct that is justified or excused by a law of the Commonwealth or of a State or Territory.
 
 Part II—Provisions applying in Commonwealth Territories and on Commonwealth premises
 6  Assemblies involving violence or apprehension of violence
 	(1)	Where persons taking part in an assembly that is in a Territory or is wholly or partly on Commonwealth premises conduct themselves, in the Territory or on the Commonwealth premises, in a way that gives rise to a reasonable apprehension that the assembly will be carried on in a manner involving unlawful physical violence to persons or unlawful damage to property, each of those persons is guilty of an offence, punishable on conviction by a fine of not more than 20 penalty units.
-	(1A)	For the purposes of an offence against subsection (1), absolute liability applies to such of the following physical elements of circumstance as are relevant to the offence:
-	(a)	that the assembly is in a Territory or is wholly or partly on Commonwealth premises;
-	(b)	that the persons conduct themselves in the Territory or on the Commonwealth premises.
-Note:	For absolute liability, see section 6.2 of the Criminal Code.
-	(2)	A person who, in a Territory or on Commonwealth premises, while taking part in an assembly, intentionally does an act of physical violence to another person, or an act that results in damage to property, is guilty of an offence, punishable on conviction by imprisonment for not more than 12 months.
-	(3)	For the purposes of an offence against subsection (2), absolute liability applies to the physical element of circumstance of the offence, that the person is in a Territory or on Commonwealth premises.
-Note:	For absolute liability, see section 6.2 of the Criminal Code.
+	(2)	A person who, in a Territory or on Commonwealth premises, while taking part in an assembly, wilfully and without lawful excuse, does an act or thing by way of physical violence to another person or damage to property is guilty of an offence, punishable on conviction by imprisonment for not more than 12 months.
 7  Causing actual bodily harm or damage to property
-	(1)	A person who, in a Territory or on Commonwealth premises, while taking part in an assembly, intentionally causes:
+		A person who, in a Territory or on Commonwealth premises, while taking part in an assembly, wilfully and without lawful excuse causes:
 	(a)	actual bodily harm to another person; or
 	(b)	damage, to an extent exceeding $1,500, to property;
 is guilty of an indictable offence, punishable on conviction by imprisonment, in the case of causing actual bodily harm, for a term not exceeding five years or, in the case of causing damage to property, for a term not exceeding three years.
-	(2)	For the purposes of an offence against subsection (1), absolute liability applies to such of the following physical elements of circumstance as are relevant to the offence:
-	(a)	that the person is in a Territory or on Commonwealth premises;
-	(b)	that the extent of the damage to property exceeds $1,500.
-Note:	For absolute liability, see section 6.2 of the Criminal Code.
 8  Dispersal of certain assemblies
 	(1)	Where there is an assembly consisting of not less than twelve persons in a Territory and:
 	(a)	persons taking part in the assembly have conducted themselves in a way that has caused a member of a Police Force of the rank of Sergeant or above reasonably to apprehend that the assembly will be carried on in a manner involving unlawful physical violence to persons or unlawful damage to property; or
@@ -140,63 +124,40 @@ a member of a Police Force of the rank of Sergeant or above may give a direction
 	(3)	Where:
 	(a)	a direction is given under this section; and
 	(b)	the assembly, to the number of not less than twelve persons, continues after the expiration of fifteen minutes from the time of the direction;
-each of those persons who has failed to comply with the direction is guilty of an offence, punishable on conviction by imprisonment for not more than 6 months.
-	(3A)	Strict liability applies to paragraphs (3)(a) and (b).
-Note:	For strict liability, see section 6.1 of the Criminal Code.
-	(3B)	Subsection (3) does not apply to a person who has a reasonable excuse.
-Note:	A defendant bears an evidential burden in relation to the matter in subsection (3B) (see subsection 13.3(3) of the Criminal Code).
+each of those persons who has, without reasonable excuse, failed to comply with the direction is guilty of an offence, punishable on conviction by imprisonment for not more than 6 months.
 	(4)	For the purpose of:
 	(a)	dispersing an assembly in respect of which a direction has been given under this section; or
 	(b)	dispersing or suppressing an assembly to which paragraph (1)(b) applies (whether or not a direction has been given under this section in respect of the assembly);
 it is lawful for a person to use such force as he or she believes, on reasonable grounds, to be necessary for that purpose and is reasonably proportioned to the danger which he or she believes, on reasonable grounds, is to be apprehended from the continuance of the assembly.
 9  Unreasonable obstruction
-	(1)	A person who, in a Territory or on Commonwealth premises, while taking part in an assembly, engages in unreasonable obstruction is guilty of an offence, punishable on conviction by a fine of not more than 20 penalty units.
-	(2)	For the purposes of an offence against subsection (1), absolute liability applies to the physical element of circumstance of the offence, that the person is in a Territory or on Commonwealth premises.
-Note:	For absolute liability, see section 6.2 of the Criminal Code.
+		A person who, in a Territory or on Commonwealth premises, while taking part in an assembly, engages in unreasonable obstruction is guilty of an offence, punishable on conviction by a fine of not more than 20 penalty units.
 10  Weapons, missiles etc.
-	(1)	A person who, in a Territory or on Commonwealth premises, while taking part in an assembly:
+	(1)	A person who, in a Territory or on Commonwealth premises, while taking part in an assembly and without lawful excuse:
 	(a)	has in his or her possession a weapon, a missile or a destructive, noxious or repulsive object or substance;
 	(b)	discharges or uses a weapon or throws a missile;
 	(c)	throws, releases or deposits a destructive, noxious or repulsive object or substance; or
-	(d)	throws, releases, deposits or deals with an object or substance, being reckless as to whether doing so will cause injury to persons or damage to property;
+	(d)	throws, releases, deposits or deals with an object or substance in a manner likely to cause injury to persons or damage to property;
 is guilty of an offence.
-	(1A)	For the purposes of an offence against subsection (1), absolute liability applies to the physical element of circumstance of the offence, that the person is in a Territory or on Commonwealth premises.
-Note:	For absolute liability, see section 6.2 of the Criminal Code.
-	(1B)	Paragraph (1)(a) does not apply if the person has a reasonable excuse.
-Note:	A defendant bears an evidential burden in relation to the matter in subsection (1B) (see subsection 13.3(3) of the Criminal Code).
 	(2)	An offence against subsection (1) is punishable on conviction:
 	(a)	in respect of an offence arising under paragraph (1)(a)—by a fine of not more than 20 penalty units; or
 	(b)	in any other case—by imprisonment for not more than 6 months.
 11  Additional offences on premises in a Territory
-	(1)	A person who trespasses on premises in a Territory is guilty of an offence, punishable on conviction by a fine of not more than 10 penalty units.
+	(1)	A person who, without reasonable excuse, trespasses on premises in a Territory is guilty of an offence, punishable on conviction by a fine of not more than 10 penalty units.
 	(2)	A person who:
 	(a)	engages in unreasonable obstruction in relation to the passage of persons or vehicles into, out of, or on premises in a Territory, or otherwise in relation to the use of premises in a Territory;
 	(b)	while trespassing on premises in a Territory, behaves in an offensive or disorderly manner; or
-	(c)	being in or on premises in a Territory, refuses or neglects to leave those premises on being directed to do so by the occupier or a person acting with the authority of the occupier;
+	(c)	being in or on premises in a Territory, refuses or neglects, without reasonable excuse, to leave those premises on being directed to do so by the occupier or a person acting with the authority of the occupier;
 is guilty of an offence, punishable on conviction by a fine of not more than 20 penalty units.
-	(2A)	For the purposes of an offence against subsection (1) or (2), absolute liability applies to the physical element of circumstance of the offence, that the premises are in a Territory.
-Note:	For absolute liability, see section 6.2 of the Criminal Code.
-	(2B)	Subsection (1) and paragraph (2)(c) do not apply if the person has a reasonable excuse.
-Note:	A defendant bears an evidential burden in relation to the matter in subsection (2B) (see subsection 13.3(3) of the Criminal Code).
 	(3)	Notwithstanding section 23, the consent of the Director of Public Prosecutions, or of a person, or of a person included in a class of persons, authorized by the Director of Public Prosecutions for the purposes of subsection (2) of that section, is not required for the institution of proceedings for the prosecution of an offence against this section.
 	(3A)	This section is not intended to exclude or limit the concurrent operation of any law of the Australian Capital Territory.
 	(4)	In this section, premises does not include Commonwealth premises.
 12  Additional offences on Commonwealth premises
-	(1)	A person who trespasses on Commonwealth premises is guilty of an offence, punishable on conviction by a fine of not more than 10 penalty units.
+	(1)	A person who, without reasonable excuse, trespasses on Commonwealth premises is guilty of an offence, punishable on conviction by a fine of not more than 10 penalty units.
 	(2)	A person who:
 	(a)	engages in unreasonable obstruction in relation to the passage of persons or vehicles into, out of, or on Commonwealth premises, or otherwise in relation to the use of Commonwealth premises;
 	(b)	being in or on Commonwealth premises, behaves in an offensive or disorderly manner; or
-	(c)	being in or on Commonwealth premises, refuses or neglects to leave those premises on being directed to do so by a constable, by a protective service officer, or by a person authorized in writing by a Minister or the public authority under the Commonwealth occupying the premises to give directions for the purposes of this section;
+	(c)	being in or on Commonwealth premises, refuses or neglects, without reasonable excuse, to leave those premises on being directed to do so by a constable, by a protective service officer, or by a person authorized in writing by a Minister or the public authority under the Commonwealth occupying the premises to give directions for the purposes of this section;
 is guilty of an offence, punishable on conviction by a fine of not more than 20 penalty units.
-	(3)	For the purposes of an offence against subsection (1) or (2), absolute liability applies to the physical element of circumstance of the offence, that the premises are Commonwealth premises.
-Note:	For absolute liability, see section 6.2 of the Criminal Code.
-	(4)	For the purposes of an offence against paragraph (2)(c), strict liability applies to the physical element of circumstance of the offence, that the direction had been given by:
-	(a)	a constable; or
-	(b)	a protective service officer; or
-	(c)	a person authorised in writing by a Minister or the public authority under the Commonwealth occupying the premises to give directions for the purposes of this section.
-Note:	For strict liability, see section 6.1 of the Criminal Code.
-	(5)	Subsection (1) and paragraph (2)(c) do not apply if the person has a reasonable excuse.
-Note:	A defendant bears an evidential burden in relation to the matter in subsection (5) (see subsection 13.3(3) of the Criminal Code).
 13  Evidence
 	(1)	In proceedings arising out of this Part:
 	(a)	a certificate in writing given by an authorized person certifying as to any matter relevant to establishing that particular premises are, or were at a particular time, Commonwealth premises is evidence of the matter so certified; and
@@ -230,12 +191,10 @@ and includes a part of such an article.
 	(b)	the address of the person’s place of residence; and
 	(c)	the person’s reason for being on the premises; and
 	(d)	evidence of the person’s identity.
-	(2)	A person of whom such a requirement is made must not:
+	(2)	A person of whom such a requirement is made must not, without reasonable excuse:
 	(a)	refuse or fail to comply with the requirement; or
 	(b)	give false information, or false evidence of identity, in response to the requirement.
 Penalty:	20 penalty units.
-	(3)	Subsection (2) does not apply if the person has a reasonable excuse.
-Note:	A defendant bears an evidential burden in relation to the matter in subsection (3) (see subsection 13.3(3) of the Criminal Code).
 13D  Power of authorised officer to search a person or require a person to deposit personal effects
 	(1)	Subject to any limitations and restrictions provided by the regulations, if an authorised officer in relation to a court believes on reasonable grounds that it is necessary in the interests of security to do so, the officer may:
 	(a)	require a person who is on the court premises to submit to either or both of the following:
@@ -245,10 +204,8 @@ Note:	A defendant bears an evidential burden in relation to the matter in subsec
 	(b)	require a person who is on the court premises to deposit with the authorised officer any personal effects that are reasonably capable of:
 	(i)	concealing a firearm, explosive substance or offensive weapon; or
 	(ii)	being used to cause injury to, or incapacitate, a person.
-	(2)	A person of whom a requirement is made under subsection (1) must not refuse or fail to comply with the requirement.
+	(2)	A person of whom a requirement is made under subsection (1) must not refuse or fail, without reasonable excuse, to comply with the requirement.
 Penalty:	20 penalty units.
-	(2A)	Subsection (2) does not apply if the person has a reasonable excuse.
-Note:	A defendant bears an evidential burden in relation to the matter in subsection (2A) (see subsection 13.3(3) of the Criminal Code).
 	(3)	If, in the course of a search under paragraph (1)(a), a firearm, explosive substance or offensive weapon is found, an authorised officer in relation to the court:
 	(a)	may take possession of the firearm, substance or weapon; and
 	(b)	may retain it for any period that he or she thinks necessary for the purposes of this Part.
@@ -271,7 +228,7 @@ Note:	A defendant bears an evidential burden in relation to the matter in subsec
 	(b)	a constable may refuse the person entry to, or remove the person from, the court premises, as the case requires.
 	(4)	Except as provided in subsection (1), a person is entitled to enter and remain on court premises if there is room for the person on the premises.
 13F  Person not to carry firearm, explosive substance or offensive weapon on court premises
-		A person must not, while on any court premises, carry or otherwise have in his or her possession a firearm, an explosive substance or an offensive weapon.
+		A person must not, without lawful excuse, while on any court premises, carry or otherwise have in his or her possession a firearm, an explosive substance or an offensive weapon.
 Penalty:	Imprisonment for 12 months.
 13G  Saving
 	(1)	The powers conferred by this Part are in addition to, and do not derogate from, any other powers conferred on or possessed by any court, judge or person in relation to the conduct of proceedings in a court or the regulation of the conduct of people on court premises.
@@ -287,18 +244,12 @@ Part III—Provisions relating to diplomatic and consular premises and personnel
 		The provisions of this Part, except in so far as they apply in relation to designated overseas missions, are intended to assist in giving effect, on the part of Australia, to the special duty imposed by international law on a state that receives a diplomatic or special mission, or consents to the establishment of a consular post, to take appropriate steps to protect the premises of the mission or post against intrusion or damage, to prevent any attack on the persons, freedom or dignity of the personnel of the mission or post and to prevent disturbance of the peace, or impairment of the dignity, of the mission or post.
 15  Assemblies involving violence or apprehension of violence
 	(1)	Where persons taking part in an assembly that is in relation to protected premises or a protected person conduct themselves in a way that gives rise to a reasonable apprehension that the assembly will be carried on in a manner involving unlawful physical violence to persons or unlawful damage to property, each of those persons is guilty of an offence, punishable on conviction by a fine of not more than 20 penalty units.
-	(1A)	For the purposes of an offence against subsection (1), strict liability applies to the physical element of circumstance of the offence, that the way in which the persons conduct themselves gives rise to a reasonable apprehension that the assembly will be carried on in a manner involving unlawful physical violence to persons or unlawful damage to property.
-Note:	For strict liability, see section 6.2 of the Criminal Code.
-	(2)	A person who, while taking part in an assembly that is in relation to protected premises or a protected person, intentionally does an act of physical violence to another person, or an act that results in damage to property, is guilty of an offence, punishable on conviction by imprisonment for not more than 12 months.
-	(3)	For the purposes of an offence against subsection (1) or (2), absolute liability applies to the physical element of circumstance of the offence, that the assembly is in relation to protected premises or a protected person.
-Note:	For absolute liability, see section 6.2 of the Criminal Code.
+	(2)	A person who, while taking part in an assembly that is in relation to protected premises or a protected person and without lawful excuse, does an act or thing by way of physical violence to another person or damage to property is guilty of an offence, punishable on conviction by imprisonment for not more than 12 months.
 16  Causing actual bodily harm or damage to property
-	(1)	A person who, while taking part in an assembly that is in relation to protected premises or to a protected person, intentionally causes:
+		A person who, while taking part in an assembly that is in relation to protected premises or to a protected person, wilfully and without lawful excuse causes:
 	(a)	actual bodily harm to another person; or
 	(b)	damage, to an extent exceeding $1,500, to property;
 is guilty of an indictable offence, punishable on conviction by imprisonment, in the case of causing actual bodily harm, for a term not exceeding five years or, in the case of causing damage to property, for a term not exceeding three years.
-	(2)	For the purposes of an offence against paragraph 16(1)(b), absolute liability applies to the physical element of circumstance, that the extent of the damage to property exceeds $1,500.
-Note:	For absolute liability, see section 6.2 of the Criminal Code.
 17  Dispersal of certain assemblies
 	(1)	Where an assembly consisting of not less than twelve persons is taking place in relation to protected premises or to a protected person and:
 	(a)	persons taking part in the assembly have conducted themselves in a way that has caused a member of a Police Force of the rank of Sergeant or above reasonably to apprehend that the assembly will be carried on in a manner involving:
@@ -311,55 +262,35 @@ a member of a Police Force of the rank of Sergeant or above may give a direction
 	(3)	Where:
 	(a)	a direction is given under this section; and
 	(b)	the assembly, to the number of not less than twelve persons, continues after the expiration of fifteen minutes from the time of the direction;
-each of those persons who has failed to comply with the direction is guilty of an offence, punishable on conviction by imprisonment for not more than 6 months.
-	(3A)	Strict liability applies to paragraphs (3)(a) and (b).
-Note:	For strict liability, see section 6.1 of the Criminal Code.
-	(3B)	Subsection (3) does not apply to a person who has a reasonable excuse.
-Note:	A defendant bears an evidential burden in relation to the matter in subsection (3B) (see subsection 13.3(3) of the Criminal Code).
+each of those persons who has, without reasonable excuse, failed to comply with the direction is guilty of an offence, punishable on conviction by imprisonment for not more than 6 months.
 	(4)	For the purpose of:
 	(a)	dispersing an assembly in respect of which a direction has been given under this section; or
 	(b)	dispersing or suppressing an assembly to which paragraph (1)(b) applies by reason of its being carried on in a manner involving unlawful violence or damage (whether or not a direction has been given under this section in respect of the assembly);
 it is lawful for a person to use such force as he or she believes, on reasonable grounds, to be necessary for that purpose and is reasonably proportioned to the danger which he or she believes, on reasonable grounds, is to be apprehended from the continuance of the assembly.
 18  Obstruction, assault etc.
-	(1)	A person who:
+		A person who:
 	(a)	assaults a protected person;
 	(b)	harasses a protected person or otherwise unreasonably interferes with the free and safe discharge of the duties of a protected person;
 	(c)	behaves in an offensive, threatening or insulting manner towards a protected person; or
 	(d)	unreasonably obstructs a protected person;
 is guilty of an offence, punishable on conviction by a fine of not more than 20 penalty units.
-	(2)	For the purposes of an offence against paragraph (1)(a), (b), (c) or (d), absolute liability applies to such of the following physical elements of circumstance as are relevant to the offence:
-	(a)	that the person mentioned in the paragraph is a protected person;
-	(b)	that interference with the discharge of the duties of such a person is interference with the free and safe discharge of those duties.
-Note:	For absolute liability, see section 6.2 of the Criminal Code.
 19  Weapons, missiles etc.
-	(1)	A person who, while taking part in an assembly that is in relation to protected premises or to a protected person:
+	(1)	A person who, while taking part in an assembly that is in relation to protected premises or to a protected person, without lawful excuse:
 	(a)	has in his or her possession a weapon, a missile or a destructive, noxious or repulsive object or substance;
 	(b)	discharges or uses a weapon or throws a missile;
 	(c)	throws, releases or deposits a destructive, noxious or repulsive object or substance; or
-	(d)	throws, releases, deposits or deals with an object or substance, being reckless as to whether doing so will cause injury to persons or damage to property;
+	(d)	throws, releases, deposits or deals with an object or substance in a manner likely to cause injury to persons or damage to property;
 is guilty of an offence.
-	(1A)	Paragraph (1)(a) does not apply if the person has a reasonable excuse.
-Note:	A defendant bears an evidential burden in relation to the matter in subsection (1A) (see subsection 13.3(3) of the Criminal Code).
 	(2)	An offence against subsection (1) is punishable on conviction:
 	(a)	in respect of an offence arising under paragraph (1)(a)—by a fine of not more than 20 penalty units; or
 	(b)	in any other case—by imprisonment for not more than 6 months.
 20  Additional offences in relation to protected premises
-	(1)	A person who trespasses on protected premises is guilty of an offence, punishable on conviction by a fine of not more than 10 penalty units.
+	(1)	A person who, without reasonable excuse, trespasses on protected premises is guilty of an offence, punishable on conviction by a fine of not more than 10 penalty units.
 	(2)	A person who:
 	(a)	engages in unreasonable obstruction in relation to the passage of persons or vehicles into, out of or on protected premises, or otherwise in relation to the use of protected premises;
 	(b)	while trespassing on protected premises, behaves in an offensive or disorderly manner; or
-	(c)	being in or on protected premises, refuses or neglects to leave those premises on being directed to do so by a constable, by a protective service officer, by a protected person residing or performing duties on the premises, or by a person acting in accordance with authority conferred on him or her by such a protected person;
+	(c)	being in or on protected premises, refuses or neglects, without reasonable excuse, to leave those premises on being directed to do so by a constable, by a protective service officer, by a protected person residing or performing duties on the premises, or by a person acting in accordance with authority conferred on him or her by such a protected person;
 is guilty of an offence, punishable on conviction by a fine of not more than 20 penalty units.
-	(3)	Subsection (1) and paragraph (2)(c) do not apply if the person has a reasonable excuse.
-Note:	A defendant bears an evidential burden in relation to the matter in subsection (3) (see subsection 13.3(3) of the Criminal Code).
-	(4)	For the purposes of an offence against subsection (1) or (2), absolute liability applies to the physical element of circumstance of the offence, that the relevant premises are protected premises.
-Note:	For absolute liability, see section 6.2 of the Criminal Code.
-	(5)	For the purposes of an offence against paragraph (2)(c), strict liability applies to the physical element of circumstance of the offence, that the direction had been given by:
-	(a)	a constable; or
-	(b)	a protective service officer; or
-	(c)	a protected person residing or performing duties on the premises; or
-	(d)	a person acting in accordance with authority conferred on him or her by such a protected person.
-Note:	For strict liability, see section 6.1 of the Criminal Code.
 21  Evidence
 	(1)	In proceedings arising out of this Part, evidence that persons taking part in an assembly were at a place in the vicinity of protected premises, or were at a place at which, or in the vicinity of which, a protected person was present, is evidence that those persons were at that place by reason of the fact that it was in the vicinity of the protected premises, or by reason of the fact that the protected person was present at or in the vicinity of that place, as the case may be.
 	(2)	In proceedings arising out of this Part:
@@ -375,7 +306,7 @@ Part IV—General
 	(a)	proceedings against the person by summons would not be effective; or
 	(b)	the arrest is necessary in order to prevent persistence by the person in, or repetition by the person of, conduct of the kind constituting the offence, or the commission by the person of other offences against this Act.
 23  Prosecutions
-	(1)	Offences against this Act, other than an offence against subsection 7(1) or subsection 16(1), are punishable on summary conviction.
+	(1)	Offences against this Act, other than an offence against section 7 or section 16, are punishable on summary conviction.
 	(2)	Proceedings for:
 	(a)	the commitment of a person for trial on indictment for an offence against this Act; or
 	(b)	the summary prosecution of an offence against this Act;
@@ -444,7 +375,6 @@ Sections 205, 206 and 207 of the Crimes Act, 1900 of the State of New South Wale
 Notes to the Public Order (Protection of Persons and Property) Act 1971
 Note 1
 The Public Order (Protection of Persons and Property) Act 1971 as shown in this compilation comprises Act No. 26, 1971 amended as indicated in the Tables below.
-All relevant information pertaining to application, saving or transitional provisions prior to 6 April 2001 is not included in this compilation. For subsequent information see Table A.
 Table of Acts
 Act
 Number  and year
@@ -526,11 +456,6 @@ Statute Law Revision Act 1996
 25 Oct 1996
 Schedule 5 (item 125): Royal Assent (g)
 — 
-Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001
-24, 2001
-6 Apr 2001
-S. 4(1), (2) and Schedule 42: (h)
-S. 4(1), (2) [see Table A]
 
 (a)	The Public Order (Protection of Persons and Property) Act 1971 was amended by Part XII (sections 25‑27) only of the Director of Public Prosecutions (Consequential Amendments) Act 1983, subsection 2(1) of which provides as follows:
 	(1)	Subject to this section, this Act shall come into operation, or shall be deemed to have come into operation, as the case requires, on the day on which the Director of Public Prosecutions Act 1983 comes into operation.
@@ -546,11 +471,6 @@ S. 4(1), (2) [see Table A]
 	(3)	The remaining provisions of this Act commence on 1 July 1992.
 (g)	The Public Order (Protection of Persons and Property) Act 1971 was amended by Schedule 5 (item 125) only of the Statute Law Revision Act 1996, subsection 2(1) of which provides as follows:
 	(1)	Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
-(h)	The Public Order (Protection of Persons and Property) Act 1971 was amended by Schedule 42 only of the Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001, subsection 2(1)(a) of which provides as follows:
-	(1)	Subject to this section, this Act commences at the later of the following times:
-	(a)	immediately after the commencement of item 15 of Schedule 1 to the Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000;
-	Item 15 commenced on 24 May 2001.
-
 Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
@@ -561,54 +481,34 @@ S. 3
 rep. No. 216, 1973
 S. 4	
 am. No. 155, 1979; No. 70, 1980; No. 193, 1985; No. 168,1986; No. 141, 1987; No. 104, 1992; Nos. 58 and 116, 1995
-S. 5A	
-ad. No. 24, 2001
 Ss. 6, 7	
-am. No. 116, 1995; No. 24, 2001
+am. No. 116, 1995
 S. 8	
-am. No. 116, 1995; No. 43, 1996; No. 24, 2001
+am. No. 116, 1995; No. 43, 1996
 Ss. 9, 10	
-am. No. 116, 1995; No. 24, 2001
+am. No. 116, 1995
 S. 11	
-am. No. 114, 1983; No. 165, 1984; No. 164, 1992; No. 116, 1995; No. 24, 2001
+am. No. 114, 1983; No. 165, 1984; No. 164, 1992; No. 116, 1995
 S. 12	
-am. No. 141, 1987; No. 116, 1995; No. 24, 2001
+am. No. 141, 1987; No. 116, 1995
 S. 13	
 am. No. 21, 1989
 Part IIA 	 (ss. 13A‑13H)
 ad. No. 116, 1995
-Ss. 13A, 13B	
-ad. No. 116, 1996
-Ss. 13C, 13D	
-ad. No. 116, 1996
-
-am. No. 24, 2001
-S. 13E	
-ad. No. 116, 1996
-S. 13F	
-ad. No. 116, 1996
-
-am. No. 24, 2001
-Ss. 13G, 13H	
+Ss. 13A‑13H	
 ad. No. 116, 1996
 Heading to Part III	
 am. No. 58, 1995
 S. 14	
 am. No. 58, 1995
 Ss. 15‑19	
-am. No. 116, 1995; No. 24, 2001
+am. No. 116, 1995
 S. 20	
-am. No. 141, 1987; No. 116, 1995; No. 24, 2001
+am. No. 141, 1987; No. 116, 1995
 S. 23	
-am. No. 114, 1983; No. 165, 1984; No. 116, 1995; No. 24, 2001
+am. No. 114, 1983; No. 165, 1984; No. 116, 1995
 S. 25	
 am. No. 168, 1986
 The Schedule	
 am. No. 168, 1986 
-Table A
-Application, saving or transitional provisions
-Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001 (No. 24, 2001)
-4  Application of amendments
-	(1)	Subject to subsection (3), each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
-	(2)	For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
 
