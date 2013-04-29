@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2005C00589/Html/574A18D0275A41B6CA25708900814EEB/$FILE/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00567/Html/7E7E91F0685AACB8CA25707A000C0017/$FILE/image001.gif)
 
 # Remuneration and Allowances Act 1990
 
 **Act No. 71 of 1990 as amended**
 
-This compilation was prepared on 1 October 2005
+This compilation was prepared on 12 September 2005
 taking into account amendments up to Act No. 111 of 2005
 
 The text of any of those amendments not in force 
@@ -20,29 +20,29 @@ Canberra
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
 **Part 2—Remuneration and allowances**
 
-[3](#3).            Operation of Part
+[3](#3).            Operation of Part                                                                                 2
 
-[3A](#3A).         Operation of Remuneration Tribunal Determination
+[3A](#3A).         Operation of Remuneration Tribunal Determination                          3
 
-[4](#4).            Remuneration and allowances of holders of judicial offices etc 
+[4](#4).            Remuneration and allowances of holders of judicial offices etc           3
 
-[5](#5).            Remuneration and allowances of Secretaries of Departments and holders of public offices
+[5](#5).            Remuneration and allowances of Secretaries of Departments and holders of public offices   3
 
-[6](#6).            Remuneration and allowances of Senators and Members of the House of Representatives
+[6](#6).            Remuneration and allowances of Senators and Members of the House of Representatives   3
 
-[7](#7).            Ministers and office holders of the Parliament
+[7](#7).            Ministers and office holders of the Parliament                                    3
 
-[8](#8).            Appropriation
+[8](#8).            Appropriation                                                                                     3
 
-[8A](#8A).         Regulations
+[8A](#8A).         Regulations                                                                                          3
 
 **Part 3—Amendments of Industrial Relations Act 1988 (sections 9, 10)** 
 
@@ -62,7 +62,7 @@ Canberra
 
 **Part 1—Secretaries of Departments of State** 
 
-Salaries
+    **Salaries** 
 
 **Part 2—Secretaries of Parliamentary Departments** 
 
@@ -74,33 +74,33 @@ Salaries
 
     **Division 1—Amount of annual salary**
 
-[1](#1).            Salaries
+[1](#1).            Salaries                                                                                               11
 
     **Division 2—Salary sacrifice**
 
-[1A](#1A).         Definitions
+[1A](#1A).         Definitions                                                                                         12
 
-[1B](#1B).         Meaning of _complying superannuation fund_
+[1B](#1B).         Meaning of _complying superannuation fund_                                     13
 
-[1C](#1C).         When may a person elect to salary sacrifice?
+[1C](#1C).         When may a person elect to salary sacrifice?                                    13
 
-[1D](#1D).         The nature of the salary sacrifice election
+[1D](#1D).         The nature of the salary sacrifice election                                         14
 
-[1E](#1E).          How to make an election
+[1E](#1E).          How to make an election                                                                   14
 
-[1F](#1F).          Duration of an election
+[1F](#1F).          Duration of an election                                                                      15
 
-[1G](#1G).         Effect of an election
+[1G](#1G).         Effect of an election                                                                           15
 
-[1H](#1H).         Variation of an election
+[1H](#1H).         Variation of an election                                                                      16
 
-[1I](#1I).           Revocation of an election
+[1I](#1I).           Revocation of an election                                                                   17
 
 **Part 2—Electorate and other allowances**
 
-[2](#2).            Electorate allowance
+[2](#2).            Electorate allowance                                                                          19
 
-[3](#3).            Other allowances
+[3](#3).            Other allowances                                                                               19
 
 **Schedule 4—Ministers and office holders of the Parliament** 
 
@@ -746,7 +746,7 @@ $
 
 ## Part 1—Secretaries of Departments of State
 
-##### Salaries 
+### Salaries 
 
 <table>
 <colgroup>
@@ -1112,6 +1112,14 @@ $
   <tr>
     <td>
       <div>First Parliamentary Counsel</div>
+    </td>
+    <td>
+      <div>117,258</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>General Manager, Health Insurance Commission</div>
     </td>
     <td>
       <div>117,258</div>
@@ -2470,9 +2478,7 @@ Remainder: Royal Assent
       <div>6 Sept 2005</div>
     </td>
     <td>
-      <div>Schedule 2 (item 710): 
-1 Oct 2005 
-</div>
+      <div>Schedule 2 (item 710): \[ <i>see</i>Note 2]</div>
     </td>
     <td>
       <div>—</div>
@@ -2587,7 +2593,7 @@ _(g)_     The _Remuneration and Allowances Act 1990_ was amended by Sche
       <div>Schedule 2</div>
     </td>
     <td>
-      <div>am. No. 72, 1990; No. 88, 1995; Nos. 1 and 152, 1997; Nos. 146 and 161, 1999; Nos. 45 and 111, 2005</div>
+      <div>am. No. 72, 1990; No. 88, 1995; Nos. 1 and 152, 1997; Nos. 146 and 161, 1999; No. 45, 2005</div>
     </td>
   </tr>
   <tr>
@@ -2607,6 +2613,21 @@ _(g)_     The _Remuneration and Allowances Act 1990_ was amended by Sche
     </td>
   </tr>
 </tbody></table>
+
+
+### Note 2
+
+_Human Services Legislation Amendment Act 2005 (No. 111, 2005)_
+
+The following amendment commences on 6 March 2006 unless proclaimed earlier:
+
+## Schedule 2
+
+## 710  Clause 3 of Schedule 2 (Part 3 of the table, table item dealing with the General Manager, Health Insurance Commission)
+
+Repeal the item.
+
+As at 12 September 2005 the amendment is not incorporated in this compilation.
 
 
 ## Table A
