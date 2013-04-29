@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00136/Html/6675e79a-5ced-4ee5-9392-a3b07ddc5059_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00694/Html/7d4dc573-740c-4e7f-bb49-a988a588181f_files/image001.gif)
 
 # Australian National University Act 1991
 
 **Act No. 131 of 1991 as amended**
 
-This compilation was prepared on 27 December 2011
+This compilation was prepared on 26 August 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
@@ -744,13 +744,23 @@ he or she also ceases to hold office as Pro‑Chancellor at that time.
 
 ##### <a id="37"></a>37  Acting appointments
 
-                   The Council may appoint a person to act in an executive office:
+             (1)  The Council may appoint a person to act in an executive office:
 
                      (a)  during a vacancy in the executive office, whether or not an appointment has previously been made to the executive office; or
 
-                     (b)  during any period, or during all periods, when the holder of the executive office is absent from duty or from Australia, is acting in another executive office or is, for any reason, unable to perform the duties of the office.
+                     (b)  during any period, or during all periods, when the holder of the executive office is absent from duty or from Australia, is acting in another executive office or is, for any reason, unable to perform the duties of the office;
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+but a person appointed to act during a vacancy may not continue so to act for more than 12 months.
+
+             (2)  Anything done by or in relation to a person purporting to act pursuant to an appointment made under this section is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen;
+
+                     (b)  there was a defect or irregularity in connection with the appointment;
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
 
 ### Division 7—Miscellaneous
 
@@ -1290,7 +1300,7 @@ Remainder: 15 Jan 1996 ( <i>see Gazette</i>1996, No. S16)</div>
     <div>24 Oct 1997</div>
   </td>
   <td>
-    <div>Schedule 2 (items 415–422): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49)</div>
+    <div>Schedule 2 (items 415–422): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(a)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1307,7 +1317,7 @@ Remainder: 15 Jan 1996 ( <i>see Gazette</i>1996, No. S16)</div>
     <div>24 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 10 (item 45): 13 Mar 2000 ( <i>see</i> <i>Gazette</i>2000,No. S114)</div>
+    <div>Schedule 10 (item 45): 13 Mar 2000 ( <i>see</i> <i>Gazette</i>2000,No. S114) <i>(b)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1324,7 +1334,7 @@ Remainder: 15 Jan 1996 ( <i>see Gazette</i>1996, No. S16)</div>
     <div>18 July 2001</div>
   </td>
   <td>
-    <div>Schedule 3: Royal Assent</div>
+    <div>Schedule 3: Royal Assent <i>(c)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1462,7 +1472,7 @@ Remainder: Royal Assent</div>
     <div>3 July 2008</div>
   </td>
   <td>
-    <div>Schedule 1 (item 10): <i>(a)</i></div>
+    <div>Schedule 1 (item 10): <i>(d)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1496,14 +1506,28 @@ Remainder: Royal Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 203–207) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 203–207) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
   </td>
 </tr></table>
 
-_(a)_ Subsection 2(1) (item 8) of the _Statute Law Revision Act 2008_ provides as follows:
+_(a)_     The _Australian__National University__Act 1991_ was amended by Schedule 2 (items 415–422) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
+
+                 (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
+
+_(b)_     The _Australian__National University__Act 1991_ was amended by Schedule 10 (item 45) only of the _Corporate Law Economic Reform Program Act 1999_, subsection 2(2)(c) of which provides as follows:
+
+                 (2)   The following provisions commence on a day or days to be fixed by Proclamation:
+
+                              (c)   the items in Schedules 10, 11 and 12\. 
+
+_(c)_ The _Australian__National University__Act 1991_ was amended by Schedule 3 only of the _Higher Education Funding Amendment Act 2001_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+
+_(d)_ Subsection 2(1) (item 8) of the _Statute Law Revision Act 2008_ provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
@@ -1856,22 +1880,6 @@ _(a)_ Subsection 2(1) (item 8) of the _Statute Law Revision Act 2008_ provides a
 </tr>
 <tr>
   <td>
-    <div>S. 37</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 37</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Division 7</b></div>
   </td>
   <td>
@@ -2071,6 +2079,38 @@ _(a)_ Subsection 2(1) (item 8) of the _Statute Law Revision Act 2008_ provides a
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 203  Subsection 37(1)
+
+Omit “(1)”.
+
+## 204  Paragraph 37(1)(b)
+
+Omit “office;”, substitute “office.”.
+
+## 205  Subsection 37(1)
+
+Omit “but a person appointed to act during a vacancy may not continue so to act for more than 12 months.”.
+
+## 206  At the end of subsection 37(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 207  Subsection 37(2)
+
+Repeal the subsection.
+
+As at 26 August 2011 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -2230,6 +2270,8 @@ continues to have effect after the commencing time as if it had been done by the
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
