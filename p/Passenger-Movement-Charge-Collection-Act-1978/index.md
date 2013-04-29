@@ -1,7 +1,7 @@
 
 Passenger Movement Charge Collection Act 1978
 Act No. 119 of 1978 as amended 
-This compilation was prepared on 9 April 2003 taking into account amendments up to Act No. 10 of 2003
+This compilation was prepared on 21 October 2002 taking into account amendments up to Act No. 82 of 2002
 The text of any of those amendments not in force  on that date is appended in the Notes section
 The operation of amendments that have been incorporated may be  affected by application provisions that are set out in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
@@ -12,20 +12,21 @@ Contents
 1	Short title [see Note 1]	1
 2	Commencement [see Note 1]	1
 3	Interpretation	1
-4	Act binds the Crown	3
+4	Act binds the Crown	4
 4A	Application of the Criminal Code	4
 5	Persons exempt from passenger movement charge	4
 6	Liability to pay passenger movement charge	5
 7	Powers of authorised officers	5
 8	Offences	6
 9	Refunds of passenger movement charge	7
-10	Special arrangements for payment of passenger movement charge	7
+10	Special arrangements for payment of passenger movement charge	8
 11	Charge stamps and exemption stamps	8
 12	Recovery of passenger movement charge	9
-13	Averment	9
+13	Averment	10
 14	Delegation	10
 15	Regulations	10
-Notes	11
+Notes		13
+
 An Act relating to charge imposed in respect of the departure of persons from Australia
 1  Short title [see Note 1]
 		This Act may be cited as the Passenger Movement Charge Collection Act 1978.
@@ -34,6 +35,7 @@ An Act relating to charge imposed in respect of the departure of persons from Au
 3  Interpretation
 		In this Act, unless the contrary intention appears:
 aircraft means any machine or craft that can derive support in the atmosphere from the reactions of the air.
+Area A of the Zone of Cooperation has the same meaning as in the Petroleum (Timor Gap Zone of Cooperation) Act 1990.
 Australia includes:
 	(a)	the Territory of Christmas Island; and
 	(b)	the Territory of Cocos (Keeling) Islands;
@@ -55,17 +57,16 @@ exemption stamp means a stamp issued under this Act for denoting exemption from 
 external Territory does not include:
 	(a)	the Territory of Christmas Island; or
 	(b)	the Territory of Cocos (Keeling) Islands.
-Joint Petroleum Development Area has the same meaning as in the Petroleum (Timor Sea Treaty) Act 2003.
 officer of Customs has the same meaning as in subsection 4(1) of the Customs Act 1901.
-petroleum has the same meaning as in the Timor Sea Treaty.
-petroleum activities has the same meaning as in the Timor Sea Treaty.
+petroleum has the same meaning as in the Timor Gap Treaty.
+petroleum operations has the same meaning as in the Timor Gap Treaty.
 positioning crew member means:
 	(a)	a passenger on an aircraft whose departure from Australia is undertaken for the purpose of later becoming a crew member of that aircraft, another aircraft or a ship; or
 	(b)	a passenger on a ship whose departure from Australia is undertaken for the purpose of later becoming a crew member of that ship or another ship.
 refund means refund of charge under this Act.
 ship means any vessel used in navigation, other than air navigation.
 spouse, in relation to a person, includes another person who, although not legally married to the person, lives with the person on a genuine domestic basis as the husband or wife of the person.
-Timor Sea Treaty means the Treaty defined by subsection 5(1) of the Petroleum (Timor Sea Treaty) Act 2003.
+Timor Gap Treaty means the Treaty defined by subsection 5(1) of the Petroleum (Timor Gap Zone of Cooperation) Act 1990.
 Torres Strait Treaty means the Treaty between Australia and the Independent State of Papua New Guinea:
 	(a)	that was signed at Sydney on 18 December 1978; and
 	(b)	the text of which is set out in the Schedule to the Torres Strait Fisheries Act 1984.
@@ -78,6 +79,7 @@ transit passenger means a person who arrives in Australia from a place outside A
 	(b)	in any other case:
 	(i)	less than 48 hours after the person arrived in Australia; or
 	(ii)	if the person is prevented from departing from Australia less than 48 hours after the person arrived in Australia for reasons beyond the person’s control—as soon as it is reasonably practicable for the person to do so after those reasons no longer exist.
+Zone of Cooperation has the same meaning as in the Timor Gap Treaty.
 4  Act binds the Crown
 		This Act binds the Crown in right of the Commonwealth and of each State.
 4A  Application of the Criminal Code
@@ -106,7 +108,7 @@ Note:	Chapter 2 of the Criminal Code sets out the general principles of crimina
 	(ii)	the Diplomatic Privileges and Immunities Act 1967; or
 	(iii)	the International Organisations (Privileges and Immunities) Act 1963; or
 	(iv)	the Overseas Missions (Privileges and Immunities) Act 1995; or
-	(l)	is a passenger whose departure from Australia is undertaken for the purpose of travelling to the Joint Petroleum Development Area in connection with the prospecting for petroleum or the undertaking of petroleum operations.
+	(l)	is a passenger whose departure from Australia is undertaken for the purpose of travelling to Area A of the Zone of Cooperation in connection with the prospecting for petroleum or the undertaking of petroleum operations.
 6  Liability to pay passenger movement charge
 	(1)	Charge in respect of the departure of a person from Australia is payable by the person before the departure.
 	(2)	Where charge in respect of the departure of a person from Australia is not paid before the departure, the person is guilty of an offence punishable upon conviction by a fine not exceeding 1 penalty unit.
@@ -237,7 +239,7 @@ Departure Tax Collection Amendment Act 1994
 159, 1994
 16 Dec 1994
 16 Dec 1994
-Ss. 3 and 18–20
+Ss. 3 and 18‑20
 Passenger Movement Charge Collection Amendment Act 1995
 65, 1995
 30 June 1995
@@ -247,7 +249,7 @@ Timor Gap Treaty (Transitional Arrangements) Act 2000
 25, 2000
 3 Apr 2000
 Ss. 4–6 and Schedule 2  (items 38, 39): (c)
-Ss. 4–6  [see Table A]
+Ss. 4-6  [see Table A]
 Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000
 137, 2000
 24 Nov 2000
@@ -257,16 +259,11 @@ Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001
 24, 2001
 6 Apr 2001
 S. 4(1), (2) and Schedule 39: (d)
-S. 4(1) and (2) [see Table A]
+S. 4(1), (2) [see Table A]
 Customs Legislation Amendment Act (No. 1) 2002
 82, 2002
 10 Oct 2002
 Schedule 6: Royal Assent
-—
-Petroleum (Timor Sea Treaty) (Consequential Amendments) Act 2003
-10, 2003
-2 Apr 2003
-Schedule 1 (items 1–52, 54–75,  78–82): 20 May 2002 Remainder: Royal Assent
 —
 (a)	The Passenger Movement Charge Collection Act 1978 was amended by section 99 only of the Civil Aviation Act 1988, subsection 2(2) of which provides as follows:
 	(2)	Part III, section 98 and Part X, and the amendments made by Part IX, commence on a day or days to be fixed by Proclamation.
@@ -280,7 +277,7 @@ Schedule 1 (items 1–52, 54–75,  78–82): 20 May 2002 Remainder: Royal A
 	(a)	immediately after the commencement of item 15 of Schedule 1 to the Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000;
 	Item 15 commenced on 24 May 2001.
 Table of Amendments
-ad. = added or inserted      am. = amended      rep. = repealed    rs. = repealed and substituted
+ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
 How affected
 Title	
@@ -288,7 +285,7 @@ am. No. 159, 1994
 S. 1	
 am. No. 159, 1994
 S. 3	
-am. No. 38, 1986; Nos. 48 and 63, 1988; No. 104, 1992; No. 159, 1994; No. 65, 1995; No. 25, 2000; No. 10, 2003
+am. No. 38, 1986; Nos. 48 and 63, 1988; No. 104, 1992; No. 159, 1994; No. 65, 1995; No. 25, 2000
 S. 4A	
 ad. No. 24, 2001
 S. 5	
@@ -296,7 +293,7 @@ am. No. 132, 1981; No. 59, 1989; Nos. 60 and 159, 1994
 
 rs. No. 65, 1995
 
-am. No. 82, 2002; No. 10, 2003
+am. No. 82, 2002
 S. 6	
 am. No. 159, 1994; No. 24, 2001
 S. 7	
@@ -309,7 +306,7 @@ S. 10
 am. No. 159, 1994; No. 65, 1995
 S. 11	
 am. No. 38, 1986; No. 48, 1988; No. 159, 1994; No. 65, 1995
-Ss. 11A–11C	
+Ss. 11A‑11C	
 ad. No. 38, 1986
 
 rep. No. 48, 1988
