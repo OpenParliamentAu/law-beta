@@ -1,265 +1,151 @@
+**<b>
 
-National Residue Survey Administration Act 1992
-Act No. 243 of 1992 as amended
-This compilation was prepared on 30 August 2001 taking into account amendments up to Act No. 31 of 1998
-The text of any of those amendments not in force on that date is appended in the Notes section
-Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
-  
-  
-  
-Contents
-Part 1—Preliminary	1
-1	Short title [see Note 1]	1
-2	Commencement	1
-3	Act binds Crown	1
-Part 2—Interpretation	2
-4	Interpretation	2
-Part 3—National Residue Survey Account	3
-6	Establishment of Reserve	3
-7	Payments into National Residue Survey Reserve	3
-8	Payments out of Reserve	3
-Part 5—Miscellaneous	5
-10	Report by Minister	5
-11	Release of information	5
-13	Regulations	5
-Notes		7
-An Act to establish a Reserve for the purpose of conducting a National Residue Survey, and for related purposes
-Part 1—Preliminary
-  
-1  Short title [see Note 1]
-		This Act may be cited as the National Residue Survey Administration Act 1992.
-2  Commencement
-		This Act commences on 1 July 1993.
-3  Act binds Crown
-		This Act binds the Crown in right of each of the States, of the Australian Capital Territory, of the Northern Territory and of Norfolk Island.
-
-Part 2—Interpretation
-4  Interpretation
-		In this Act:
-National Residue Survey Levy means levy of that name payable under:
-	(a)	the National Residue Survey (Customs) Levy Act 1998; or
-	(b)	the National Residue Survey (Excise) Levy Act 1998.
-Reserve means the National Residue Survey Reserve established by section 6.
-
-Part 3—National Residue Survey Account
-  
-6  Establishment of Reserve
-	(1)	This subsection establishes a reserve called the National Residue Survey Reserve.
-	(2)	The Reserve is a component of the Reserved Money Fund.
-7  Payments into National Residue Survey Reserve
-		There must be transferred to the Reserve from the Consolidated Revenue Fund:
-	(a)	in respect of each amount of National Residue Survey Levy collected by or on behalf of the Commonwealth—an amount equal to that amount of levy; and
-	(b)	in respect of each amount of penalty collected by or on behalf of the Commonwealth in connection with National Residue Survey Levy—an amount equal to that amount of penalty; and
-	(c)	amounts equal to amounts paid to the Commonwealth for the purposes of the National Residue Survey or the Reserve;
-	(e)	amounts appropriated by the Parliament for the purposes of the National Residue Survey or the Reserve; and
-	(f)	amounts equal to income from the investment of money from the Reserve.
-8  Payments out of Reserve
-	(1)	Amounts standing to the credit of the Reserve may be spent in:
-	(a)	making payments, in accordance with an expenditure program approved by the Minister, for purposes related to:
-	(i)	the monitoring and reporting of the level of contaminants in food products, animal feed, or fibre products, produced in Australia or produced from animals or plants produced in Australia; and
-	(ii)	if the relevant body (as determined by the Minister) in the industry concerned agrees to the program extending to expenditure under this subparagraph—the testing, either on a random basis or in specific cases, of such food products, animal feed or fibre products for the purpose of tracing the sources, and identifying the causes, of contaminants; and
-	(iii)	if the relevant body (as determined by the Minister) in the industry concerned agrees to the program extending to expenditure under this subparagraph—the prevention of contamination in such food products, animal feed or fibre products; and
-	(b)	making payments to the Commonwealth of amounts equal to expenditure incurred by the Commonwealth in relation to:
-	(i)	the collection and recovery of amounts referred to in paragraph 7(a) or (b); or
-	(ii)	the administration of paragraph 7(a) or (b); or 
-	(iii)	the carrying out of any activities of the kinds referred to in subparagraphs (a)(i), (ii) and (iii); and
-	(c)	if an amount that was paid into the Reserve was given by a person or body to the Commonwealth for a particular purpose but has not been fully spent for that  purpose—repaying the unspent amount to the person or body; and
-	(d)	if an amount that was paid into the Reserve was appropriated by the Parliament for the purposes of the Reserve on condition that the amount be repaid—repaying the amount.
-	(2)	Without limiting the generality of subsection (1), the reference in that subsection to expenditure incurred includes a reference to:
-	(a)	remuneration and allowances paid to staff; and
-	(b)	other expenditure incurred in relation to the provision of staff or the provision of the services of staff; and
-	(c)	expenditure incurred in relation to surveys conducted for the purpose of monitoring the level of contaminants; and
-	(d)	expenditure incurred in relation to the provision of accommodation or administrative support.
-
-Part 5—Miscellaneous
-  
-10  Report by Minister
-		As soon as practicable after the end of each financial year, the Minister is to cause a report to be laid before each House of the Parliament setting out details of the operation of the Reserve including:
-	(a)	money paid into the Reserve during that financial year; and
-	(b)	money paid out of the Reserve during that financial year; and
-	(c)	financial statements relating to the Reserve for that financial year; and
-	(d)	a description of activities undertaken in relation to the National Residue Survey during that financial year.
-11  Release of information
-	(1)	Subject to subsection (2), information collected under a survey conducted using funds paid or reimbursed out of the Reserve that identifies a particular person may not be released.
-	(2)	Such information may be released to authorities of the Commonwealth, of a State or of a Territory that are responsible for the monitoring or regulation of pesticide or other residues in food related products for the purpose of such monitoring or regulation.
-	(3)	This section does not affect the operation of section 27 of the Primary Industries Levies and Charges Collection Act 1991.
-13  Regulations
-		The Governor‑General may make regulations prescribing matters:
-	(a)	required or permitted by this Act to be prescribed; or
-	(b)	necessary or convenient to be prescribed for carrying out or giving effect to this Act. 
-Notes to the National Residue Survey Administration Act 1992
-Note 1
-The National Residue Survey Administration Act 1992 as shown in this compilation comprises Act No. 243, 1992 amended as indicated in the Tables below. 
-For all relevant information pertaining to application, saving or transitional provisions see Table A. 
-Table of Acts
-Act
-Number  and year
-Date  of Assent
-Date of commencement
-Application, saving or transitional provisions
-National Residue Survey Administration Act 1992
-243, 1992
-24 Dec 1992
-1 July 1993
+### <center><name>NATIONAL RESIDUE SURVEY ADMINISTRATION ACT 1992 - Updated as at 12 July 1995 (HISTACT CHAP 3486 #DATE 12:07:1995) </name></center>
+</b>** *1* The National Reside Survey Administration Act 1992 as shown in this reprint comprises Act No. 243, 1992 amended as indicated in the Tables below.<lf>                              Table of Acts<lf>     Act             Date          Date of           Application<lf>     Number and      of assent     commencement      saving or<lf>     year                                            transitional<lf>                                                     provisions<lf>     National Residue Survey Administration Act 1992<lf>     243, 1992       24 Dec 1992   1 July 1993<lf>     National Residue Survey Administration (Meat Chickens) Amendment<lf>     Act 1994<lf>     128, 1994       21 Oct 1994   21 Oct 1994                      -<lf>     Primary Industries and Energy Legislation Amendment Act (No. 2) 1994<lf>     129, 1994       21 Oct 1994   S. 3: Royal Assent (a)           -<lf>     National Residue Survey Administration Amendment Act 1995<lf>     75, 1995        30 June 1995  1 July 1995                      -<lf>   (a) The National Residue Survey Administration Act 1992 was amended by section 3 only of the Primary Industries and Energy Legislation Amendment Act (No. 2) 1994, subsection 2 (1) of which provides as follows:<lf>   "(1) Subject to this section, this Act commences on the day on which it receives the Royal Assent."<lf>                         Table of Amendments<lf> ad=added or inserted  am=amended rep=repealed rs=repealed and substituted<lf>     Provision affected            How affected<lf>     Ss. 7, 8                      am. No. 129, 1994<lf>     S. 9                          am. No. 75, 1995<lf>     Schedule                      am. No. 128, 1994; No. 75, 1995<lf> #ADD 21:7:1995 </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf>
+**<b>
 
-National Residue Survey Administration (Meat Chickens) Amendment Act 1994
-128, 1994
-21 Oct 1994
-21 Oct 1994
-—
-Primary Industries and Energy Legislation Amendment Act (No. 2) 1994
-129, 1994
-21 Oct 1994
-S. 3: Royal Assent (a)
-—
-National Residue Survey Administration Amendment Act 1995
-75, 1995
-30 June 1995
-1 July 1995
-—
-Audit (Transitional and Miscellaneous) Amendment Act 1997
-152, 1997
-24 Oct 1997
-Schedule 2 (items 1039‑1052): 1 Jan 1998 (see Gazette 1997, No. GN49) (b)
-—
-National Residue Survey Administration Amendment Act 1998
-31, 1998
-17 Apr 1998
-Schedule 1: 1 Feb 1994 Schedules 2 and 3: 1 Aug 1998 (see Gazette 1998,  No. S382) Remainder: Royal Assent
-Sch. 2 (item 8)
-(a)	The National Residue Survey Administration Act 1992 was amended by section 3 only of the Primary Industries and Energy Legislation Amendment Act (No. 2) 1994, subsection 2(1) of which provides as follows:
-	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
-(b)	The National Residue Survey Administration Act 1992 was amended by Schedule 2 (items 1039‑1052) only of the Audit (Transitional and Miscellaneous) Amendment Act 1997, subsection 2(2) of which provides as follows:
-	(2)	Schedules 1, 2 and 4 commence on the same day as the Financial Management and Accountability Act 1997.
-Table of Amendments
-ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
-Provision affected
-How affected
-Title	
-am. No. 152, 1997; No. 31, 1998
-S. 4	
-am. No. 152, 1997; No. 31, 1998
-S. 5	
-rep. No. 31, 1998
-Heading to Part 3	
-rs. No. 152, 1997
-S. 6	
-rs. No. 152, 1997
-Heading to s. 7	
-am. No. 152, 1997
-S. 7	
-am. No. 129, 1994; No. 152, 1997
-Heading to s. 8	
-am. No. 152, 1997
-S.8	
-am. No. 129, 1994; No. 152, 1997
-Part 4 (s. 9)	
-rep. No. 31, 1998
-S. 9	
-am. No. 75, 1995; No. 31, 1998
+### <name>NATIONAL RESIDUE SURVEY ADMINISTRATION ACT 1992 - TABLE OF PROVISIONS </name>
+</b>** 
 
-rep. No. 31, 1998
-S. 10	
-am. No. 152, 1997
-S. 11	
-am. No. 152, 1997
-S. 12	
-rep. No. 152, 1997
-Schedule	
-am. No. 128, 1994; No. 75, 1995
+## TABLE
+<tables> <tt>                           TABLE OF PROVISIONS<lf> Section<lf>                             TABLE OF PROVISIONS<lf>                            PART 1 - PRELIMINARY<lf>      1\.    Short title<lf>      2\.    Commencement<lf>      3\.    Act binds Crown<lf>                          PART 2 - INTERPRETATION<lf>      4\.    Interpretation<lf>      5\.    References to other Acts<lf>                PART 3 - NATIONAL RESIDUE SURVEY ACCOUNT<lf>      6\.    Establishment of account<lf>      7\.    Payments into National Residue Survey Account<lf>      8\.    Payments out of account<lf>                 PART 4 - NATIONAL RESIDUE SURVEY LEVY<lf>      9\.    Liability to National Residue Survey Levy<lf>                       PART 5 - MISCELLANEOUS<lf>     10\.    Report by Minister<lf>     11\.    Release of information<lf>     12\.    Appropriation<lf>     13\.    Regulations<lf>                                 SCHEDULE<lf>                                   TABLE<lf> </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></tt></tables>
+**<b>
 
-rep. No. 31, 1998
-Table A
-Application, saving or transitional provisions
-National Residue Survey Administration Amendment Act 1998 (No. 31, 1998)
-Schedule 2
-8  Transitional—pre‑commencement levies
-(1)	Despite the repeals made by Schedule 3, a repealed Act specified in the second column of the table in subitem (3) continues to apply, in relation to the corresponding matter specified in the third column of that table, as if those repeals had not been made.
-(2)	Despite the amendments and repeals made by this Schedule and Schedule 3, the National Residue Survey Administration Act 1992 and the Primary Industries Levies and Charges Collection Act 1991 continue to apply, in relation to National Residue Survey Levy imposed:
-	(a)	by a repealed Act specified in the second column of the table in subitem (3); and
-	(b)	in respect of the corresponding matter specified in the third column of that table;
-as if those amendments and repeals had not been made.
-(3)	The table is as follows:
+### <name>NATIONAL RESIDUE SURVEY ADMINISTRATION ACT 1992 - LONG TITLE </name>
+</b>** 
 
-Pre‑commencement levies
- Item
- Repealed Act
-Matter in respect of which the repealed Act continues to apply
-1
-National Residue Survey (Aquatic Animal Export) Levy Act 1992
-Aquatic animals or aquatic animal products exported from Australia before the commencement of Schedule 1 to the National Residue Survey (Customs) Levy Act 1998
-2
-National Residue Survey (Buffalo Slaughter) Levy Act 1997
-Buffaloes slaughtered before the commencement of subclause 1(1) of Schedule 11 to the National Residue Survey (Excise) Levy Act 1998
-3
-National Residue Survey (Cattle Export) Levy Act 1997
-Cattle exported from Australia before the commencement of Schedule 2 to the National Residue Survey (Customs) Levy Act 1998
-4
-National Residue Survey (Cattle Transactions) Levy Act 1997
-Either:
-(a)	a transaction entered into before the commencement of Schedule 1 to the National Residue Survey (Excise) Levy Act 1998 by which the ownership of cattle is transferred; or
-(b)	the delivery or slaughter of cattle before the commencement of that Schedule
-5
-National Residue Survey (Coarse Grains) Levy Act 1992
-Leviable coarse grain delivered or processed before the commencement of Schedule 2 to the National Residue Survey (Excise) Levy Act 1998
-6
-National Residue Survey (Dairy Produce) Levy Act 1992
-Any of the following:
-(a)	relevant dairy produce supplied by the producer before the commencement of Schedule 3 to the National Residue Survey (Excise) Levy Act 1998;
-(b)	relevant dairy produce delivered to a manufacturer by the producer before the commencement of that Schedule;
-(c)	relevant dairy produce produced by a manufacturer, and used by the manufacturer, before the commencement of that Schedule
-7
-National Residue Survey (Dried Fruits) Levy Act 1992
-Dried fruits received before the commencement of Schedule 4 to the National Residue Survey (Excise) Levy Act 1998
-8
-National Residue Survey (Game Animals) Levy Act 1992
-Game animals processed at a processing establishment before the commencement of Schedule 5 to the National Residue Survey (Excise) Levy Act 1998
-9
-National Residue Survey (Grain Legumes) Levy Act 1992
-Leviable grain legumes delivered or processed before the commencement of Schedule 6 to the National Residue Survey (Excise) Levy Act 1998
-10
-National Residue Survey (Honey Export) Levy Act 1992
-Honey exported from Australia before the commencement of Schedule 3 to the National Residue Survey (Customs) Levy Act 1998
-11
-National Residue Survey (Honey) Levy Act 1992
-Either:
-(a)	honey sold before the commencement of Schedule 7 to the National Residue Survey (Excise) Levy Act 1998; or
-(b)	honey used before the commencement of that Schedule in the production of other goods
-12
-National Residue Survey (Horse Slaughter) Levy Act 1992
-Horses slaughtered before the commencement of Schedule 8 to the National Residue Survey (Excise) Levy Act 1998
-13
-National Residue Survey (Horticultural Products Export) Levy Act 1992
-Horticultural products exported from Australia before the commencement of Schedule 4 to the National Residue Survey (Customs) Levy Act 1998
-14
-National Residue Survey (Horticultural Products) Levy Act 1992
-Either:
-(a)	horticultural products sold or used before the commencement of Schedule 9 to the National Residue Survey (Excise) Levy Act 1998; or
-(b)	horticultural products presumed to be produced in Australia before the commencement of that Schedule
-15
-National Residue Survey (Laying Chicken) Levy Act 1992
-Laying chickens hatched before the commencement of Schedule 10 to the National Residue Survey (Excise) Levy Act 1998
-16
-National Residue Survey (Livestock Slaughter) Levy Act 1992
-Deer or pigs slaughtered before the commencement of Schedule 11 to the National Residue Survey (Excise) Levy Act 1998
-17
-National Residue Survey (Meat Chicken) Levy Act 1992
-Meat chickens hatched before the commencement of Schedule 12 to the National Residue Survey (Excise) Levy Act 1998
-18
-National Residue Survey (Oilseeds) Levy Act 1992
-Leviable oilseeds delivered or processed before the commencement of Schedule 13 to the National Residue Survey (Excise) Levy Act 1998
-19
-National Residue Survey (Ratite Slaughter) Levy Act 1997
-Ratites slaughtered before the commencement of Schedule 14 to the National Residue Survey (Excise) Levy Act 1998
-20
-National Residue Survey (Sheep, Lambs and Goats Export) Levy Act 1997
-Sheep, lambs or goats exported from Australia before the commencement of Schedule 5 to the National Residue Survey (Customs) Levy Act 1998
-21
-National Residue Survey (Sheep, Lambs and Goats Transactions) Levy Act 1997
-Either:
-(a)	a transaction entered into before the commencement of Schedule 15 to the National Residue Survey (Excise) Levy Act 1998 by which the ownership of sheep, lambs or goats is transferred; or
-(b)	the delivery or slaughter of sheep, lambs or goats before the commencement of that Schedule
-22
-National Residue Survey (Wheat) Levy Act 1992
-Wheat delivered or processed before the commencement of Schedule 16 to the National Residue Survey (Excise) Levy Act 1998
+## SECT
+<sect>           An Act to establish a Trust Account for the purpose of<lf>        conducting a National Residue Survey and to provide for the<lf>       collection of National Residue Survey Levy imposed by various<lf>                      Acts, and for related purposes<lf> </lf></lf></lf></lf></sect>
+**<b>
 
+### <name>NATIONAL RESIDUE SURVEY ADMINISTRATION ACT 1992 - PART 1  PART 1 - PRELIMINARY </name>
+</b>** 
+**<b>
+
+### <name>NATIONAL RESIDUE SURVEY ADMINISTRATION ACT 1992 - SECT 1 Short title </name>
+</b>** 
+
+## SECT
+<sect>   1\. This Act may be cited as the National Residue Survey Administration Act 1992.*1* SEE NOTES TO FIRST ARTICLE OF THIS CHAPTER . </sect>
+**<b>
+
+### <name>NATIONAL RESIDUE SURVEY ADMINISTRATION ACT 1992 - SECT 2 Commencement </name>
+</b>** 
+
+## SECT
+<sect>   2\. This Act commences on 1 July 1993\. </sect>
+**<b>
+
+### <name>NATIONAL RESIDUE SURVEY ADMINISTRATION ACT 1992 - SECT 3 Act binds Crown </name>
+</b>** 
+
+## SECT
+<sect>   3\. This Act binds the Crown in right of each of the States, of the Australian Capital Territory, of the Northern Territory and of Norfolk Island. </sect>
+**<b>
+
+### <name>NATIONAL RESIDUE SURVEY ADMINISTRATION ACT 1992 - PART 2  PART 2 - INTERPRETATION </name>
+</b>** 
+**<b>
+
+### <name>NATIONAL RESIDUE SURVEY ADMINISTRATION ACT 1992 - SECT 4 Interpretation </name>
+</b>** 
+
+## SECT
+<sect>   4\. In this Act:<lf>   "Account" means the National Residue Survey Account;<lf>   "National Residue Survey Levy" means the levy payable under section 9 and levy of that name payable under any other Act;<lf>   "Related Act", in relation to a product or activity specified in column (1) of the Table, means the Act specified in column (4) opposite the product or activity;<lf>   "Table" means the Table in the Schedule to this Act. </lf></lf></lf></lf></sect>
+**<b>
+
+### <name>NATIONAL RESIDUE SURVEY ADMINISTRATION ACT 1992 - SECT 5 References to other Acts </name>
+</b>** 
+
+## SECT
+<sect>   5\. (1) A reference in this Act to another Act is a reference to that other Act as in force from time to time or, if that other Act is repealed, is a reference to that other Act as in force immediately before the repeal. 
+
+<lf>   (2) If:<lf>   (a) because of subsection (1), a reference to another Act is a reference to that other Act as in force immediately before its repeal; and<lf>   (b) amendments were made to the Primary Industries Levies and Charges Collection Act 1991 as a consequence of that repeal;<lf> then, for the purposes of the application of this Act, the amendments are taken not to have been made. </lf></lf></lf></lf>
+</sect>
+**<b>
+
+### <name>NATIONAL RESIDUE SURVEY ADMINISTRATION ACT 1992 - PART 3  PART 3 - NATIONAL RESIDUE SURVEY ACCOUNT </name>
+</b>** 
+**<b>
+
+### <name>NATIONAL RESIDUE SURVEY ADMINISTRATION ACT 1992 - SECT 6 Establishment of account </name>
+</b>** 
+
+## SECT
+<sect>   6\. (1) An account called the National Residue Survey Account is established by this subsection. 
+
+<lf>   (2) The Account is a trust account for the purposes of section 62A of the Audit Act 1901\. <p><lf>   (3) Money in the Account that is not required for the purpose of making payments out of the Account may be invested in accordance with section 62B of the Audit Act 1901\. </lf></p></lf>
+</sect>
+**<b>
+
+### <name>NATIONAL RESIDUE SURVEY ADMINISTRATION ACT 1992 - SECT 7 Payments into National Residue Survey Account </name>
+</b>** 
+
+## SECT
+<sect>   7\. There is to be paid into the Account:<lf>   (a) in respect of each amount of National Residue Survey Levy collected by or on behalf of the Commonwealth - an amount equal to that amount of levy; and<lf>   (b) in respect of each amount of penalty collected by or on behalf of the Commonwealth in connection with National Residue Survey Levy - an amount equal to that amount of penalty; and<lf>   (c) in respect of each amount of a gift or other contribution made to the Commonwealth for the purposes of the National Residue Survey - an amount equal to that amount; and<lf>   (d) gifts or other contributions made to the Account; and<lf>   (da) any amount paid to the Commonwealth for the purposes of the Account; and<lf>   (e) amounts appropriated by the Parliament for the purposes of the National Residue Survey or the Account; and<lf>   (f) income from investment of moneys in the Account. </lf></lf></lf></lf></lf></lf></lf></sect>
+**<b>
+
+### <name>NATIONAL RESIDUE SURVEY ADMINISTRATION ACT 1992 - SECT 8 Payments out of account </name>
+</b>** 
+
+## SECT
+<sect>   8\. (1) Amounts standing to the credit of the Account may be spent in:<lf>   (a) making payments, in accordance with an expenditure program approved by the Minister, for purposes related to:<lf>     (i) the monitoring and reporting of the level of contaminants in food<lf> products, animal feed, or fibre products, produced in Australia or produced from animals or plants produced in Australia; and<lf>     (ii) if the relevant body (as determined by the Minister) in the<lf> industry concerned agrees to the program extending to expenditure under this subparagraph - the testing, either on a random basis or in specific cases, of such food products, animal feed or fibre products for the purpose of tracing the sources, and identifying the causes, of contaminants; and<lf>     (iii) if the relevant body (as determined by the Minister) in the<lf> industry concerned agrees to the program extending to expenditure under this subparagraph - the prevention of contamination in such food products, animal feed or fibre products; and<lf>   (b) making payments to the Commonwealth of amounts equal to expenditure incurred by the Commonwealth in relation to:<lf>     (i) the collection and recovery of amounts referred to in paragraph 7<lf> (a) or (b); or<lf>     (ii) the administration of paragraph 7(a) or (b); or<lf>     (iii) the carrying out of any activities of the kinds referred to in<lf> subparagraphs (a) (i), (ii) and (iii); and<lf>   (c) if an amount that was paid into the Account was given by a person or body to the Commonwealth for a particular purpose but has not been fully spent for that purpose - repaying the unspent amount to the person or body; and<lf>   (d) if an amount that was paid into the Account was appropriated by the Parliament for the purposes of the Account on condition that the amount be repaid - repaying the amount. 
+
+<lf>   (2) Without limiting the generality of subsection (1), the reference in that subsection to expenditure incurred includes a reference to:<lf>   (a) remuneration and allowances paid to staff; and<lf>   (b) other expenditure incurred in relation to the provision of staff or the provision of the services of staff; and<lf>   (c) expenditure incurred in relation to surveys conducted for the purpose of monitoring the level of contaminants; and<lf>   (d) expenditure incurred in relation to the provision of accommodation or administrative support. </lf></lf></lf></lf></lf>
+</lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></sect>
+**<b>
+
+### <name>NATIONAL RESIDUE SURVEY ADMINISTRATION ACT 1992 - PART 4  PART 4 - NATIONAL RESIDUE SURVEY LEVY </name>
+</b>** 
+**<b>
+
+### <name>NATIONAL RESIDUE SURVEY ADMINISTRATION ACT 1992 - SECT 9 Liability to National Residue Survey Levy </name>
+</b>** 
+
+## SECT
+<sect>   9\. (1) If, after the commencement of this Act, a person becomes liable to pay levy or charge under an Act or a provision of an Act specified in Column (4) of the Table on, or in respect of, a product or activity specified in Column (1) of that Table, the person is also liable to pay National Residue Survey Levy on that product or activity. 
+
+<lf>   (2) National Residue Survey Levy is payable:<lf>   (a) at the rate specified in Column (2) of the Table opposite that product or activity; or<lf>   (b) if a rate of levy is prescribed in relation to the product or activity, not being a rate exceeding the rate specified in Column (3) of the Table opposite that product or activity - at that prescribed rate. <p><lf>   (2A) Subsection (2) does not apply to National Residue Survey Levy on:<lf>   (a) a transaction by which the ownership of cattle has been transferred; or<lf>   (b) the delivery of cattle to a processor; or<lf>   (c) the slaughter of cattle; or<lf>   (d) the export of cattle from Australia.<lf> Note 1: The rate of National Residue Survey Levy on a transaction or other dealing with cattle (other than the export of cattle from Australia) is dealt with by section 6 of the National Residue Survey (Cattle Transactions) Levy Act 1995.<lf> Note 2: The rate of National Residue Survey Levy on the export of cattle from Australia is dealt with by section 6 of the National Residue Survey (Cattle Export) Levy Act 1995\. <p><lf>   (3) If a person is liable to pay National Residue Survey Levy on a product or activity:<lf>   (a) the liability arises at the same time as the liability arises under the Related Act; and<lf>   (b) unless the contrary intention appears, a word or expression has the same meaning for the purposes of the application of this Act to the product or activity as it has in the Related Act; and<lf>   (c) the provisions, other than those prescribed for the purposes of this paragraph (if any), of the Primary Industries Levies and Charges Collection Act 1991 and the regulations made under that Act apply as if the liability was imposed by the Related Act. </lf></lf></lf></lf></p></lf></lf></lf></lf></lf></lf></lf></p></lf></lf></lf>
+</sect>
+**<b>
+
+### <name>NATIONAL RESIDUE SURVEY ADMINISTRATION ACT 1992 - PART 5  PART 5 - MISCELLANEOUS </name>
+</b>** 
+**<b>
+
+### <name>NATIONAL RESIDUE SURVEY ADMINISTRATION ACT 1992 - SECT 10 Report by Minister </name>
+</b>** 
+
+## SECT
+<sect>   10\. As soon as practicable after the end of each financial year, the Minister is to cause a report to be laid before each House of the Parliament setting out details of the operation of the National Residue Survey Account including:<lf>   (a) money paid into the Account during that financial year; and<lf>   (b) money paid out of the Account during that financial year; and<lf>   (c) financial statements relating to the Account for that financial year; and<lf>   (d) a description of activities undertaken in relation to the National Residue Survey during that financial year. </lf></lf></lf></lf></sect>
+**<b>
+
+### <name>NATIONAL RESIDUE SURVEY ADMINISTRATION ACT 1992 - SECT 11 Release of information </name>
+</b>** 
+
+## SECT
+<sect>   11\. (1) Subject to subsection (2), information collected under a survey conducted using funds paid or reimbursed out of the National Residue Survey Account that identifies a particular person may not be released. 
+
+<lf>   (2) Such information may be released to authorities of the Commonwealth, of a State or of a Territory that are responsible for the monitoring or regulation of pesticide or other residues in food related products for the purpose of such monitoring or regulation. <p><lf>   (3) This section does not affect the operation of section 27 of the Primary Industries Levies and Charges Collection Act 1991\. </lf></p></lf>
+</sect>
+**<b>
+
+### <name>NATIONAL RESIDUE SURVEY ADMINISTRATION ACT 1992 - SECT 12 Appropriation </name>
+</b>** 
+
+## SECT
+<sect>   12\. Amounts payable into the Account under paragraphs 7 (a), (b) and (c) are payable out of the Consolidated Revenue Fund which is appropriated accordingly. </sect>
+**<b>
+
+### <name>NATIONAL RESIDUE SURVEY ADMINISTRATION ACT 1992 - SECT 13 Regulations </name>
+</b>** 
+
+## SECT
+<sect>   13\. The Governor-General may make regulations prescribing matters:<lf>   (a) required or permitted by this Act to be prescribed; or<lf>   (b) necessary or convenient to be prescribed for carrying out or giving effect to this Act. </lf></lf></sect>
+**<b>
+
+### <name>NATIONAL RESIDUE SURVEY ADMINISTRATION ACT 1992 - SCHEDULE 1 </name>
+</b>** 
+
+## SCH
+<sch>                                  SCHEDULE                    Section 4<lf>                                   TABLE<lf> Column (1)<lf> Product or activity on which liability arises<lf>           Column (2)<lf>           Operative rate of National Residue Survey Levy<lf>                     Column (3)<lf>                     Maximum rate of National Residue Survey Levy<lf>                               Column (4)<lf>                               Related Act<lf> Transaction entered into on or after 1 July 1993 by which the ownership<lf> of cattle has been transferred<lf>                               Cattle Transaction Levy Act 1995<lf> Delivery of cattle to a processor on or after 1 July 1993<lf>                               Cattle Transaction Levy Act 1995<lf> Slaughter of cattle on or after 1 July 1993<lf>                               Cattle Transaction Levy Act 1995<lf> Export of cattle from Australia on or after 1 July 1993<lf>                               Cattle Export Charges Act 1990 (subsection<lf>                               5(2) or (3)<lf> Slaughter of deer<lf>           4 cents per kilo<lf>                     4 cents per kilo<lf>                               Deer Slaughter Levy Act 1992<lf> Slaughter of sheep and lambs<lf>           5 cents per head<lf>                     10 cents per head<lf>                               Livestock Slaughter Levy Act 1964<lf> Slaughter of goats<lf>           5 cents per head<lf>                     8 cents per head<lf>                               Livestock Slaughter Levy Act 1964<lf> Slaughter of buffaloes<lf>           $2.50 per head<lf>                     $5.00 per head<lf>                               Livestock Slaughter Levy Act 1964<lf> Slaughter of pigs<lf>           20 cents per head<lf>                     40 cents per head<lf>                               Pig Slaughter Levy Act 1971<lf> Meat chickens<lf>           0.006 cents per head<lf>                     0.06 cents per head<lf>                               Meat Chicken Levy Act 1969<lf> Laying chickens<lf>           0.6 cents per head<lf>                     2 cents per head<lf>                               Laying Chicken Levy Act 1988<lf> Leviable coarse grains<lf>           0.01% of the value of the grain<lf>                     0.03% of the value of the grain<lf>                               Coarse Grains Levy Act 1992<lf> Leviable grain legumes<lf>           0.01% of the value of the grain legumes<lf>                     0.03% of the value of the grain legumes<lf>                               Grain Legumes Levy Act 1985<lf> Leviable oilseeds<lf>           0.01% of the value of the oilseeds<lf>                     0.03% of the value of the oilseeds<lf>                               Oilseeds Levy Act 1977<lf> Wheat<lf>           0.01% of the value of the grain<lf>                     0.03% of the value of the grain<lf>                               Wheat Industry Fund Levy Act 1989<lf> Milk fat content of relevant dairy produce<lf>           0.1 cents per kilo<lf>                     0.5 cents per kilo<lf>                               Dairy Produce Levy (No.1) Act 1986<lf> Honey<lf>           0.12 cents per kilo<lf>                     0.3 cents per kilo<lf>                               Honey Levy (No.1) Act 1962<lf> Honey<lf>           0.12 cents per kilo<lf>                     0.3 cents per kilo<lf>                               Honey Levy (No.2) Act 1962<lf> Honey that is exported from Australia<lf>           0.12 cents per kilo<lf>                     0.3 cents per kilo<lf>                               Honey Export Charge Act 1973<lf> Onions<lf>           $1.56 per tonne<lf>                     $5.00 per tonne<lf>                               Horticultural Export Charge Act 1987<lf> Potatoes<lf>           4.5 cents per tonne<lf>                     10 cents per tonne<lf>                               Horticultural Levy Act 1987<lf> Apples and pears<lf>           25 cents per tonne<lf>                     60 cents per tonne<lf>                               Horticultural Levy Act 1987<lf> Citrus fruits<lf>           25 cents per tonne<lf>                     60 cents per tonne<lf>                               Horticultural Levy Act 1987<lf> Table grapes<lf>           35 cents per tonne<lf>                     80 cents per tonne<lf>                               Horticultural Levy Act 1987<lf> Stone fruits<lf>           35 cents per tonne<lf>                     80 cents per tonne<lf>                               Horticultural Levy Act 1987<lf> Dried fruits<lf>           52 cents per tonne<lf>                     $1.00 per tonne<lf>                               Dried Fruits Levy Act 1971<lf> </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></sch>
