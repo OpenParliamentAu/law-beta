@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00443/Html/ExciseTariff1921_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00450/Html/ExciseTariff1921_image001.gif)
 
 # Excise Tariff Act 1921
 
 **Act No. 26 of 1921 as amended**
 
-This compilation was prepared on 5 July 2010
- taking into account amendments up to Act No. 84 of 2010
+This compilation was prepared on 25 September 2009
+ taking into account amendments up to Act No. 88 of 2009
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -432,7 +432,7 @@ Note:          A mixture of, or obtained from, stabilized oil 
 
                      (b)  the part of that quantity of stabilized oil that is to be taken to have been obtained from prescribed petroleum produced from such a production area is so much of that quantity of stabilized oil as bears to that quantity the same proportion as the quantity of prescribed petroleum produced from that production area bears to the total quantity of prescribed petroleum produced from all the production areas from which that quantity of stabilized oil was so obtained.
 
-##### <a id="6A"></a>6A  Indexation of rates of duty <span style="font-size:9.0pt;font-weight:normal"> [_see_ Note 2]</span>
+##### <a id="6A"></a>6A  Indexation of rates of duty
 
              (1)  In this section, unless the contrary intention appears:
 
@@ -458,7 +458,7 @@ Note:          A mixture of, or obtained from, stabilized oil 
 
              (4)  If the factor worked out in relation to an indexation period in accordance with subsection (5) is more than 1, this Act has effect as if, on the first day of the period, there were substituted for each relevant rate a rate of duty worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00443/Html/ExciseTariff1921_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00450/Html/ExciseTariff1921_image002.gif)
 
 where:
 
@@ -552,7 +552,7 @@ The amount of duty
 
                    Subject to subsection (3A), the amount of duty in respect of old oil produced from a prescribed production area and entered for home consumption during a month of a financial year commencing on or after 1 July 2001 is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00443/Html/ExciseTariff1921_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00450/Html/ExciseTariff1921_image003.gif)
 
 where:
 
@@ -631,7 +631,7 @@ The amount of notional duty for a quantity of oil—more than one petroleum pric
 
              (6)  Where, at the end of a period in a financial year, the applicable petroleum prices for the months in which the period occurs and a particular prescribed production area are not all the same, the amount of the notional duty in respect of a quantity of oil referred to in subsection (4) produced from that production area and entered for home consumption during the period is an amount equal to the relevant percentage (set out in subsection (7)) of the sum of the amounts calculated in respect of each such applicable petroleum price in operation during the period in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00443/Html/ExciseTariff1921_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00450/Html/ExciseTariff1921_image004.gif)
 
 where:
 
@@ -669,7 +669,7 @@ The amount of notional duty—dealing with the first year of production
 
              (9)  Where no old oil produced from a particular prescribed production area was ever entered for home consumption before the expiration of the first month of a particular financial year, then, in ascertaining, in accordance with subsections (4), (5) and (7) or (4), (6) and (7), the notional duty in respect of old oil produced from that production area and entered for home consumption during a later month (in this subsection referred to as the **_relevant month_**) of that financial year, those subsections have effect in relation to the old oil as if each reference in a paragraph of subsection (4) to **_B_** were a reference to the product of **_B_** and the factor ascertained in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00443/Html/ExciseTariff1921_image005.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00450/Html/ExciseTariff1921_image005.gif)
 
 where:
 
@@ -701,7 +701,7 @@ The amount of duty
 
              (3)  Subject to subsection (3A), the amount of duty in respect of new oil produced from a prescribed new production area and entered for home consumption during a month of a financial year commencing on or after 1 July 2001 is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00443/Html/ExciseTariff1921_image006.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00450/Html/ExciseTariff1921_image006.gif)
 
 where:
 
@@ -725,13 +725,13 @@ The total amount of notional duty
 
              (4)  The amount of notional duty in respect of new oil produced from a particular prescribed new production area and entered for home consumption during a particular period is the sum of the amounts of notional duty in respect of:
 
-                     (a)  the quantity (if any) of the oil that exceeds **A ![](http://www.comlaw.gov.au/Details/C2010C00443/Html/ExciseTariff1921_image007.gif)** 10**B** but does not exceed **A ![](http://www.comlaw.gov.au/Details/C2010C00443/Html/ExciseTariff1921_image007.gif)** 12**B**;
+                     (a)  the quantity (if any) of the oil that exceeds **A ![](http://www.comlaw.gov.au/Details/C2009C00450/Html/ExciseTariff1921_image007.gif)** 10**B** but does not exceed **A ![](http://www.comlaw.gov.au/Details/C2009C00450/Html/ExciseTariff1921_image007.gif)** 12**B**;
 
-                     (b)  the quantity (if any) of the oil that exceeds **A ![](http://www.comlaw.gov.au/Details/C2010C00443/Html/ExciseTariff1921_image007.gif)** 12**B** but does not exceed **A ![](http://www.comlaw.gov.au/Details/C2010C00443/Html/ExciseTariff1921_image007.gif)** 14**B**;
+                     (b)  the quantity (if any) of the oil that exceeds **A ![](http://www.comlaw.gov.au/Details/C2009C00450/Html/ExciseTariff1921_image007.gif)** 12**B** but does not exceed **A ![](http://www.comlaw.gov.au/Details/C2009C00450/Html/ExciseTariff1921_image007.gif)** 14**B**;
 
-                     (c)  the quantity (if any) of the oil that exceeds **A ![](http://www.comlaw.gov.au/Details/C2010C00443/Html/ExciseTariff1921_image007.gif)** 14**B** but does not exceed **A ![](http://www.comlaw.gov.au/Details/C2010C00443/Html/ExciseTariff1921_image007.gif)** 16**B**; and
+                     (c)  the quantity (if any) of the oil that exceeds **A ![](http://www.comlaw.gov.au/Details/C2009C00450/Html/ExciseTariff1921_image007.gif)** 14**B** but does not exceed **A ![](http://www.comlaw.gov.au/Details/C2009C00450/Html/ExciseTariff1921_image007.gif)** 16**B**; and
 
-                     (d)  the quantity (if any) of the oil that exceeds **A ![](http://www.comlaw.gov.au/Details/C2010C00443/Html/ExciseTariff1921_image007.gif)** 16**B**;
+                     (d)  the quantity (if any) of the oil that exceeds **A ![](http://www.comlaw.gov.au/Details/C2009C00450/Html/ExciseTariff1921_image007.gif)** 16**B**;
 
 where:
 
@@ -777,7 +777,7 @@ The amount of notional duty for a quantity of oil—more than one petroleum pric
 
              (6)  Where, at the end of a period in a financial year, the applicable petroleum prices for the months in which the period occurs and a particular prescribed new production area are not all the same, the amount of the notional duty in respect of a quantity of oil referred to in subsection (4) produced from that production area and entered for home consumption during the period is an amount equal to the relevant percentage (set out in subsection (7)) of the sum of the amounts calculated in respect of each such applicable petroleum price in operation during the period in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00443/Html/ExciseTariff1921_image008.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00450/Html/ExciseTariff1921_image008.gif)
 
 where:
 
@@ -813,7 +813,7 @@ The amount of notional duty—dealing with the first year of production
 
              (9)  When no new oil produced from a particular prescribed new production area was ever entered for home consumption before the expiration of the first month of a particular financial year, then, in ascertaining, in accordance with subsections (4), (5) and (7) or (4), (6) and (7), the notional duty in respect of new oil produced from the production area and entered for home consumption during a later month (in this subsection referred to as the **_relevant month_**) of that financial year, those subsections have effect in relation to the new oil as if each reference in a paragraph of subsection (4) to B were a reference to the product of B and the factor ascertained in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00443/Html/ExciseTariff1921_image009.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00450/Html/ExciseTariff1921_image009.gif)
 
 where:
 
@@ -847,7 +847,7 @@ The amount of duty
 
              (3)  Subject to subsection (4), the amount of duty in respect of condensate produced from a prescribed condensate production area and entered for home consumption during a month of a financial year is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00443/Html/ExciseTariff1921_image006.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00450/Html/ExciseTariff1921_image006.gif)
 
 where:
 
@@ -871,13 +871,13 @@ The total amount of notional duty
 
              (5)  The amount of notional duty in respect of condensate produced from a particular prescribed condensate production area and entered for home consumption during a particular period is the sum of the amounts of notional duty in respect of:
 
-                     (a)  the quantity (if any) of the condensate that exceeds **A ![](http://www.comlaw.gov.au/Details/C2010C00443/Html/ExciseTariff1921_image007.gif)** 10**B** but does not exceed **A ![](http://www.comlaw.gov.au/Details/C2010C00443/Html/ExciseTariff1921_image007.gif)** 12**B**;
+                     (a)  the quantity (if any) of the condensate that exceeds **A ![](http://www.comlaw.gov.au/Details/C2009C00450/Html/ExciseTariff1921_image007.gif)** 10**B** but does not exceed **A ![](http://www.comlaw.gov.au/Details/C2009C00450/Html/ExciseTariff1921_image007.gif)** 12**B**;
 
-                     (b)  the quantity (if any) of the condensate that exceeds **A ![](http://www.comlaw.gov.au/Details/C2010C00443/Html/ExciseTariff1921_image007.gif)** 12**B** but does not exceed **A ![](http://www.comlaw.gov.au/Details/C2010C00443/Html/ExciseTariff1921_image007.gif)** 14**B**;
+                     (b)  the quantity (if any) of the condensate that exceeds **A ![](http://www.comlaw.gov.au/Details/C2009C00450/Html/ExciseTariff1921_image007.gif)** 12**B** but does not exceed **A ![](http://www.comlaw.gov.au/Details/C2009C00450/Html/ExciseTariff1921_image007.gif)** 14**B**;
 
-                     (c)  the quantity (if any) of the condensate that exceeds **A ![](http://www.comlaw.gov.au/Details/C2010C00443/Html/ExciseTariff1921_image007.gif)** 14**B** but does not exceed **A ![](http://www.comlaw.gov.au/Details/C2010C00443/Html/ExciseTariff1921_image007.gif)** 16**B**; and
+                     (c)  the quantity (if any) of the condensate that exceeds **A ![](http://www.comlaw.gov.au/Details/C2009C00450/Html/ExciseTariff1921_image007.gif)** 14**B** but does not exceed **A ![](http://www.comlaw.gov.au/Details/C2009C00450/Html/ExciseTariff1921_image007.gif)** 16**B**; and
 
-                     (d)  the quantity (if any) of the condensate that exceeds **A ![](http://www.comlaw.gov.au/Details/C2010C00443/Html/ExciseTariff1921_image007.gif)** 16**B**;
+                     (d)  the quantity (if any) of the condensate that exceeds **A ![](http://www.comlaw.gov.au/Details/C2009C00450/Html/ExciseTariff1921_image007.gif)** 16**B**;
 
 where:
 
@@ -923,7 +923,7 @@ The amount of notional duty for a quantity of condensate—more than one petrole
 
              (9)  If, at the end of a period in a financial year, the applicable petroleum prices for the months in which the period occurs and a particular prescribed condensate production area are not all the same, the amount of the notional duty in respect of a quantity of condensate referred to in subsection (5) produced from that production area and entered for home consumption during the period is an amount equal to the relevant percentage (set out in subsection (10)) of the sum of the amounts calculated in respect of each such applicable petroleum price in operation during the period in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00443/Html/ExciseTariff1921_image008.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00450/Html/ExciseTariff1921_image008.gif)
 
 where:
 
@@ -959,7 +959,7 @@ The amount of notional duty—dealing with the first year of production
 
            (12)  When no condensate produced from a particular prescribed condensate production area was ever entered for home consumption before the end of the first month of a particular financial year, then, in ascertaining, in accordance with subsections (5), (6) and (10) or (5), (9) and (10), the notional duty in respect of condensate produced from the production area and entered for home consumption during a later month (the **_relevant month_**) of that financial year, those subsections have effect in relation to the condensate as if each reference in a paragraph of subsection (5) to **_B_** were a reference to the product of **_B_** and the factor ascertained in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00443/Html/ExciseTariff1921_image009.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00450/Html/ExciseTariff1921_image009.gif)
 
 where:
 
@@ -995,7 +995,7 @@ The amount of duty
 
              (3)  Subject to subsection (3A), the amount of duty in respect of intermediate oil produced from a prescribed intermediate production area and entered for home consumption during a month of a financial year commencing on or after 1 July 1997 is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00443/Html/ExciseTariff1921_image010.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00450/Html/ExciseTariff1921_image010.gif)
 
 where:
 
@@ -1019,13 +1019,13 @@ The total amount of notional duty
 
              (4)  The amount of notional duty in respect of intermediate oil produced from a particular prescribed intermediate production area and entered for home consumption during a particular period is the sum of the amounts of notional duty in respect of:
 
-                     (a)  the quantity (if any) of the oil that exceeds **A ![](http://www.comlaw.gov.au/Details/C2010C00443/Html/ExciseTariff1921_image007.gif)** 6**B** but does not exceed **A ![](http://www.comlaw.gov.au/Details/C2010C00443/Html/ExciseTariff1921_image007.gif)** 8**B**;
+                     (a)  the quantity (if any) of the oil that exceeds **A ![](http://www.comlaw.gov.au/Details/C2009C00450/Html/ExciseTariff1921_image007.gif)** 6**B** but does not exceed **A ![](http://www.comlaw.gov.au/Details/C2009C00450/Html/ExciseTariff1921_image007.gif)** 8**B**;
 
-                     (b)  the quantity (if any) of the oil that exceeds **A ![](http://www.comlaw.gov.au/Details/C2010C00443/Html/ExciseTariff1921_image007.gif)** 8**B** but does not exceed **A ![](http://www.comlaw.gov.au/Details/C2010C00443/Html/ExciseTariff1921_image007.gif)** 10**B**;
+                     (b)  the quantity (if any) of the oil that exceeds **A ![](http://www.comlaw.gov.au/Details/C2009C00450/Html/ExciseTariff1921_image007.gif)** 8**B** but does not exceed **A ![](http://www.comlaw.gov.au/Details/C2009C00450/Html/ExciseTariff1921_image007.gif)** 10**B**;
 
-                     (c)  the quantity (if any) of the oil that exceeds **A** ![](http://www.comlaw.gov.au/Details/C2010C00443/Html/ExciseTariff1921_image007.gif) 10**B** but does not exceed **A ![](http://www.comlaw.gov.au/Details/C2010C00443/Html/ExciseTariff1921_image007.gif)** 12**B**; and
+                     (c)  the quantity (if any) of the oil that exceeds **A** ![](http://www.comlaw.gov.au/Details/C2009C00450/Html/ExciseTariff1921_image007.gif) 10**B** but does not exceed **A ![](http://www.comlaw.gov.au/Details/C2009C00450/Html/ExciseTariff1921_image007.gif)** 12**B**; and
 
-                     (d)  the quantity (if any) of the oil that exceeds **A** ![](http://www.comlaw.gov.au/Details/C2010C00443/Html/ExciseTariff1921_image007.gif) 12**B**;
+                     (d)  the quantity (if any) of the oil that exceeds **A** ![](http://www.comlaw.gov.au/Details/C2009C00450/Html/ExciseTariff1921_image007.gif) 12**B**;
 
 where:
 
@@ -1071,7 +1071,7 @@ The amount of notional duty for a quantity of oil—more than one petroleum pric
 
              (6)  Where, at the end of a period in a financial year, the applicable petroleum prices for the months in which the period occurs and a prescribed intermediate production area are not all the same, the amount of the notional duty in respect of a quantity of oil referred to in subsection (4) produced from that production area and entered for home consumption during the period is an amount equal to the relevant percentage (set out in subsection (7)) of the sum of the amounts calculated in respect of each such applicable petroleum price in operation during the period in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00443/Html/ExciseTariff1921_image008.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00450/Html/ExciseTariff1921_image008.gif)
 
 where:
 
@@ -1107,7 +1107,7 @@ The amount of notional duty—dealing with the first year of production
 
              (9)  Where no intermediate oil produced from a particular prescribed intermediate production area was ever entered for home consumption before the expiration of the first month of a particular financial year, then, in ascertaining, in accordance with subsections (4), (5) and (7) or (4), (6) and (7), the notional duty in respect of intermediate oil produced from that production area and entered for home consumption during a later month (in this subsection referred to as the **_relevant month_**) of that financial year, those subsections have effect in relation to the intermediate oil as if each reference in a paragraph of subsection (4) to B were a reference to the product of B and the factor ascertained in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00443/Html/ExciseTariff1921_image011.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00450/Html/ExciseTariff1921_image011.gif)
 
 where:
 
@@ -1127,7 +1127,7 @@ Interpretation of the Schedule
 
              (2)  For the purposes of this Act, the delayed-entry oil rate that applies to delayed-entry oil from a particular prescribed source is the amount per kilolitre ascertained in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00443/Html/ExciseTariff1921_image012.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00450/Html/ExciseTariff1921_image012.gif)
 
 where:
 
@@ -1149,7 +1149,7 @@ where:
 
              (1)  Duty payable under this Act on goods (the **_blended goods_**) that are classified to subitem 10.7, 10.11, 10.12 or 10.30 of the Schedule is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00443/Html/ExciseTariff1921_image013.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00450/Html/ExciseTariff1921_image013.gif)
 
 where:
 
@@ -1165,7 +1165,7 @@ where:
 
                     <a name="excis-equival-rate"></a>**_excise equivalent rate_** means so much of the rate of Customs duty applicable to goods on their importation into Australia as is equivalent to the rate of excise duty that would be payable on those goods if manufactured in Australia.
 
-# The Schedule   <span style="font-size:9.0pt;font-weight:normal">[_see_ Note 2]</span>
+# The Schedule  
 
                     <a name="beer"></a>**_beer_** means a brewed beverage that:
 
@@ -1612,7 +1612,7 @@ A reference to alcohol is taken to be a reference to ethyl alcohol.
       content</div>
   </td>
   <td>
-    <div>$0.32775 per stick</div>
+    <div>$0.23259 per stick</div>
   </td>
 </tr>
 <tr>
@@ -1626,7 +1626,7 @@ A reference to alcohol is taken to be a reference to ethyl alcohol.
     <div>Other</div>
   </td>
   <td>
-    <div>$409.71 per kilogram of tobacco content</div>
+    <div>$290.74 per kilogram of tobacco content</div>
   </td>
 </tr>
 <tr>
@@ -1752,7 +1752,7 @@ A reference to alcohol is taken to be a reference to ethyl alcohol.
     <div>Gasoline for use as fuel in aircraft</div>
   </td>
   <td>
-    <div>$0.03556 per litre</div>
+    <div>$0.02854 per litre</div>
   </td>
 </tr>
 <tr>
@@ -1850,7 +1850,7 @@ A reference to alcohol is taken to be a reference to ethyl alcohol.
     <div>Kerosene for use as fuel in aircraft</div>
   </td>
   <td>
-    <div>$0.03556 per litre</div>
+    <div>$0.02854 per litre</div>
   </td>
 </tr>
 <tr>
@@ -5048,40 +5048,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Excise Tariff Amendment (Tobacco) Act 2010</div>
-  </td>
-  <td>
-    <div>76, 2010</div>
-  </td>
-  <td>
-    <div>28 June 2010</div>
-  </td>
-  <td>
-    <div>30 Apr 2010</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Excise Tariff Amendment (Aviation Fuel) Act 2010</div>
-  </td>
-  <td>
-    <div>84, 2010</div>
-  </td>
-  <td>
-    <div>29 June 2010</div>
-  </td>
-  <td>
-    <div>1 July 2010</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The Acts marked _(a)_ in the table contain provisions that relate to the time of commencement of those Acts. To ascertain those provisions, reference should be made to the amending Acts.
@@ -5922,7 +5888,7 @@ _(n)_     Subsection 2(1) (items 2 and 7) of the _Excise Tariff Amendm
     <div>The Schedule</div>
   </td>
   <td>
-    <div>am. No. 28, 1924; No. 28, 1926; No. 4, 1928; Nos. 20 and 21, 1933; No. 17, 1936; Nos. 24 and 70, 1938; Nos. 29, 54 and 65, 1939; Nos. 3, 4, 14 and 93, 1948; Nos. 77 and 82, 1949; Nos. 61 and 62, 1950; No. 83, 1952; No. 78, 1953; Nos. 16, 59 and 87, 1956; No. 82, 1957; No. 19, 1958; Nos. 26, 65 and 66, 1959; Nos. 26 and 57, 1960; Nos. 21 and 55, 1961; No. 73, 1962; Nos. 41 and 91, 1963; No. 125, 1964; Nos. 83 and 140, 1965; Nos. 18 and 82, 1967; Nos. 74 and 75, 1968; Nos. 5 and 33, 1969; No. 81, 1970; No. 108, 1971; Nos. 22, 64 and 119, 1972; Nos. 20, 23, 146 and 216, 1973; No. 121, 1974; No. 104, 1975; Nos. 104 and 136, 1977; Nos. 48 and 184, 1978; Nos. 81, 83 and 164, 1979; Nos. 43, 44, 45 and 122, 1980; No. 50, 1981; Nos. 24, 45 and 54, 1982; Nos. 27 and 99, 1983; Nos. 53 and 72, 1984; No. 131, 1984 (as am. by No. 41, 1985); Nos. 39, 41 and 189, 1985; No. 20, 1986 (as am. by No. 160, 1986); No. 160, 1986; Nos. 53, 76, 145 and 150, 1987; Nos. 29 and 149, 1988; Nos. 77 and 177, 1989; No. 112, 1990; Nos. 80 and 186, 1991; No. 65, 1992 (as am. by No. 91, 1997); Nos. 9, 56 and 115, 1993; Nos. 62 and 134, 1994; Nos. 9, 85 and 162, 1995; No. 15, 1996; Nos. 78, 135, 161, 169, 178, 182, 1997; No. 64, 1998: Nos. 99 and 146, 1999; Nos. 68 and 104, 2000; Nos. 25 and 39, 2001; Nos. 108 and 113, 2002; Nos. 44 and 66, 2004; No. 75, 2006; No. 109, 2008; No. 73, 2009; Nos. 76 and 84, 2010</div>
+    <div>am. No. 28, 1924; No. 28, 1926; No. 4, 1928; Nos. 20 and 21, 1933; No. 17, 1936; Nos. 24 and 70, 1938; Nos. 29, 54 and 65, 1939; Nos. 3, 4, 14 and 93, 1948; Nos. 77 and 82, 1949; Nos. 61 and 62, 1950; No. 83, 1952; No. 78, 1953; Nos. 16, 59 and 87, 1956; No. 82, 1957; No. 19, 1958; Nos. 26, 65 and 66, 1959; Nos. 26 and 57, 1960; Nos. 21 and 55, 1961; No. 73, 1962; Nos. 41 and 91, 1963; No. 125, 1964; Nos. 83 and 140, 1965; Nos. 18 and 82, 1967; Nos. 74 and 75, 1968; Nos. 5 and 33, 1969; No. 81, 1970; No. 108, 1971; Nos. 22, 64 and 119, 1972; Nos. 20, 23, 146 and 216, 1973; No. 121, 1974; No. 104, 1975; Nos. 104 and 136, 1977; Nos. 48 and 184, 1978; Nos. 81, 83 and 164, 1979; Nos. 43, 44, 45 and 122, 1980; No. 50, 1981; Nos. 24, 45 and 54, 1982; Nos. 27 and 99, 1983; Nos. 53 and 72, 1984; No. 131, 1984 (as am. by No. 41, 1985); Nos. 39, 41 and 189, 1985; No. 20, 1986 (as am. by No. 160, 1986); No. 160, 1986; Nos. 53, 76, 145 and 150, 1987; Nos. 29 and 149, 1988; Nos. 77 and 177, 1989; No. 112, 1990; Nos. 80 and 186, 1991; No. 65, 1992 (as am. by No. 91, 1997); Nos. 9, 56 and 115, 1993; Nos. 62 and 134, 1994; Nos. 9, 85 and 162, 1995; No. 15, 1996; Nos. 78, 135, 161, 169, 178, 182, 1997; No. 64, 1998: Nos. 99 and 146, 1999; Nos. 68 and 104, 2000; Nos. 25 and 39, 2001; Nos. 108 and 113, 2002; Nos. 44 and 66, 2004; No. 75, 2006; No. 109, 2008; No. 73, 2009</div>
   </td>
 </tr>
 <tr height="0">
@@ -5930,10 +5896,6 @@ _(n)_     Subsection 2(1) (items 2 and 7) of the _Excise Tariff Amendm
   <td></td>
   <td></td>
 </tr></table>
-
-### Note 2
-
-Section 6A of the Act provides for the automatic indexation of the rate of duty of certain excise items. If a rate increases, subsection 6A(8) requires the Chief Executive Officer to publish a notice in the Commonwealth of Australia Gazette of the new rate and the goods to which it applies as soon as practicable after the new rate takes effect. The Act is not updated to reflect the rates set out in the Gazette notices. The updated rates can be found at the Australian Taxation Office’s website, http://www.ato.gov.au – search on “excise rates”.
 
 ## Table A
 
@@ -6095,7 +6057,7 @@ Application of Schedule (other than items 2, 3, 4, 10, 11 and 12)
 
                      (b)  the formula in subsection 6CA(3) were replaced with the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00443/Html/ExciseTariff1921_image014.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00450/Html/ExciseTariff1921_image014.gif)
 
                      (c)  subsections 6CA(7) and (8) were omitted.
 
