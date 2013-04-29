@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00477/Html/Patents1990WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00159/Html/Patents1990WD02_image001.gif)
 
 # Patents Act 1990
 
 **Act No. 83 of 1990 as amended**
 
-This compilation was prepared on 8 July 2010
- taking into account amendments up to Act No. 96 of 2010
+This compilation was prepared on 4 March 2010
+ taking into account amendments up to Act No. 8 of 2010
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -895,7 +895,7 @@ work
 
                    The following diagram shows most of the typical steps involved in getting and maintaining a standard patent. The diagram is intended for use only as a general introductory illustration and is not intended to have any other effect. If there is an inconsistency between any matter contained in the diagram and a provision of this Act or the regulations, the provision prevails.
 
-![](http://www.comlaw.gov.au/Details/C2010C00477/Html/Patents1990WD02_image002.gif)TABLE 1—GETTING AND MAINTAINING A STANDARD PATENT  <table>
+![](http://www.comlaw.gov.au/Details/C2010C00159/Html/Patents1990WD02_image002.gif)TABLE 1—GETTING AND MAINTAINING A STANDARD PATENT  <table>
 <colgroup>
   <col width="NaN%">
   <col width="NaN%">
@@ -915,7 +915,7 @@ work
         </tr>
       </table>
      </td>
-</tr></table>  ![](http://www.comlaw.gov.au/Details/C2010C00477/Html/Patents1990WD02_image003.gif)  <table>
+</tr></table>  ![](http://www.comlaw.gov.au/Details/C2010C00159/Html/Patents1990WD02_image003.gif)  <table>
 <colgroup>
   <col width="NaN%">
   <col width="NaN%">
@@ -1072,7 +1072,7 @@ done so ( <i>see section 44</i>)</span></div>
         </tr>
       </table>
      </td>
-</tr></table>  ![](http://www.comlaw.gov.au/Details/C2010C00477/Html/Patents1990WD02_image004.gif)![](http://www.comlaw.gov.au/Details/C2010C00477/Html/Patents1990WD02_image005.gif)![](http://www.comlaw.gov.au/Details/C2010C00477/Html/Patents1990WD02_image006.gif)![](http://www.comlaw.gov.au/Details/C2010C00477/Html/Patents1990WD02_image005.gif)![](http://www.comlaw.gov.au/Details/C2010C00477/Html/Patents1990WD02_image006.gif)![](http://www.comlaw.gov.au/Details/C2010C00477/Html/Patents1990WD02_image007.gif)![](http://www.comlaw.gov.au/Details/C2010C00477/Html/Patents1990WD02_image008.gif)![](http://www.comlaw.gov.au/Details/C2010C00477/Html/Patents1990WD02_image005.gif)![](http://www.comlaw.gov.au/Details/C2010C00477/Html/Patents1990WD02_image009.gif)![](http://www.comlaw.gov.au/Details/C2010C00477/Html/Patents1990WD02_image003.gif)![](http://www.comlaw.gov.au/Details/C2010C00477/Html/Patents1990WD02_image008.gif)![](http://www.comlaw.gov.au/Details/C2010C00477/Html/Patents1990WD02_image010.gif)![](http://www.comlaw.gov.au/Details/C2010C00477/Html/Patents1990WD02_image008.gif)![](http://www.comlaw.gov.au/Details/C2010C00477/Html/Patents1990WD02_image011.gif)  <table>
+</tr></table>  ![](http://www.comlaw.gov.au/Details/C2010C00159/Html/Patents1990WD02_image004.gif)![](http://www.comlaw.gov.au/Details/C2010C00159/Html/Patents1990WD02_image005.gif)![](http://www.comlaw.gov.au/Details/C2010C00159/Html/Patents1990WD02_image006.gif)![](http://www.comlaw.gov.au/Details/C2010C00159/Html/Patents1990WD02_image005.gif)![](http://www.comlaw.gov.au/Details/C2010C00159/Html/Patents1990WD02_image006.gif)![](http://www.comlaw.gov.au/Details/C2010C00159/Html/Patents1990WD02_image007.gif)![](http://www.comlaw.gov.au/Details/C2010C00159/Html/Patents1990WD02_image008.gif)![](http://www.comlaw.gov.au/Details/C2010C00159/Html/Patents1990WD02_image005.gif)![](http://www.comlaw.gov.au/Details/C2010C00159/Html/Patents1990WD02_image009.gif)![](http://www.comlaw.gov.au/Details/C2010C00159/Html/Patents1990WD02_image003.gif)![](http://www.comlaw.gov.au/Details/C2010C00159/Html/Patents1990WD02_image008.gif)![](http://www.comlaw.gov.au/Details/C2010C00159/Html/Patents1990WD02_image010.gif)![](http://www.comlaw.gov.au/Details/C2010C00159/Html/Patents1990WD02_image008.gif)![](http://www.comlaw.gov.au/Details/C2010C00159/Html/Patents1990WD02_image011.gif)  <table>
 <colgroup>
   <col width="NaN%">
   <col width="NaN%">
@@ -1095,7 +1095,7 @@ continuation fees are not paid
         </tr>
       </table>
      </td>
-</tr></table>  ![](http://www.comlaw.gov.au/Details/C2010C00477/Html/Patents1990WD02_image012.gif)  <table>
+</tr></table>  ![](http://www.comlaw.gov.au/Details/C2010C00159/Html/Patents1990WD02_image012.gif)  <table>
 <colgroup>
   <col width="NaN%">
   <col width="NaN%">
@@ -1201,7 +1201,7 @@ stage are not published.</span></div>
         </tr>
       </table>
      </td>
-</tr></table>  ![](http://www.comlaw.gov.au/Details/C2010C00477/Html/Patents1990WD02_image013.gif)![](http://www.comlaw.gov.au/Details/C2010C00477/Html/Patents1990WD02_image014.gif)![](http://www.comlaw.gov.au/Details/C2010C00477/Html/Patents1990WD02_image013.gif)![](http://www.comlaw.gov.au/Details/C2010C00477/Html/Patents1990WD02_image015.gif)![](http://www.comlaw.gov.au/Details/C2010C00477/Html/Patents1990WD02_image016.gif)![](http://www.comlaw.gov.au/Details/C2010C00477/Html/Patents1990WD02_image016.gif)![](http://www.comlaw.gov.au/Details/C2010C00477/Html/Patents1990WD02_image017.gif)![](http://www.comlaw.gov.au/Details/C2010C00477/Html/Patents1990WD02_image018.gif)![](http://www.comlaw.gov.au/Details/C2010C00477/Html/Patents1990WD02_image019.gif)![](http://www.comlaw.gov.au/Details/C2010C00477/Html/Patents1990WD02_image020.gif)
+</tr></table>  ![](http://www.comlaw.gov.au/Details/C2010C00159/Html/Patents1990WD02_image013.gif)![](http://www.comlaw.gov.au/Details/C2010C00159/Html/Patents1990WD02_image014.gif)![](http://www.comlaw.gov.au/Details/C2010C00159/Html/Patents1990WD02_image013.gif)![](http://www.comlaw.gov.au/Details/C2010C00159/Html/Patents1990WD02_image015.gif)![](http://www.comlaw.gov.au/Details/C2010C00159/Html/Patents1990WD02_image016.gif)![](http://www.comlaw.gov.au/Details/C2010C00159/Html/Patents1990WD02_image016.gif)![](http://www.comlaw.gov.au/Details/C2010C00159/Html/Patents1990WD02_image017.gif)![](http://www.comlaw.gov.au/Details/C2010C00159/Html/Patents1990WD02_image018.gif)![](http://www.comlaw.gov.au/Details/C2010C00159/Html/Patents1990WD02_image019.gif)![](http://www.comlaw.gov.au/Details/C2010C00159/Html/Patents1990WD02_image020.gif)
 
   <table align="left">
 <colgroup>
@@ -1219,7 +1219,7 @@ stage are not published.</span></div>
 <tr>
   <td height="162"></td>
   <td rowspan="3" align="left">
-    <img width="401" height="704" src="http://www.comlaw.gov.au/Details/C2010C00477/Html/Patents1990WD02_image021.gif">
+    <img width="401" height="704" src="http://www.comlaw.gov.au/Details/C2010C00159/Html/Patents1990WD02_image021.gif">
   </td>
 </tr>
 <tr>
@@ -5881,23 +5881,6 @@ Schedule 16 (item 1): 4 Oct 2002 ( <i>see</i>s. 2(1))</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Personal Property Securities (Corporations and Other Amendments) Act 2010</div>
-  </td>
-  <td>
-    <div>96, 2010</div>
-  </td>
-  <td>
-    <div>6 July 2010</div>
-  </td>
-  <td>
-    <div>Schedule 3 (item 16): \[ <i>see (h)</i>and Note 3]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     Subsection 2(4) of the _Industry, Technology and Commerce Legislation Amendment Act 1991_ provides as follows:
@@ -5986,21 +5969,13 @@ _(d)_ Subsection 2(1) (item 5) of the _Intellectual Property Laws Amendment Ac
 </thead>
 <tr>
   <td>
-    <div>
-      5\. Schedule 2, Part 3
-    </div>
+    <div>5\. Schedule 2, Part 3</div>
   </td>
   <td>
-    <div>
-      Immediately after the time specified in the
-        <i>Patents Amendment (Innovation Patents) Act 2000</i>for the commencement
-        of item 3 of Schedule 1 to that Act
-    </div>
+    <div>Immediately after the time specified in the <i>Patents Amendment (Innovation Patents) Act 2000</i>for the commencement of item 3 of Schedule 1 to that Act</div>
   </td>
   <td>
-    <div>
-      24 May 2001
-    </div>
+    <div>24 May 2001</div>
   </td>
 </tr></table>
 
@@ -6052,76 +6027,13 @@ _(g)_ Subsection 2(1) (item 20) of the _Statute Law Revision Act 2005_ provide
 </thead>
 <tr>
   <td>
-    <div>
-      20\. Schedule 1, items 31 to 37
-    </div>
+    <div>20\. Schedule 1, items 31 to 37</div>
   </td>
   <td>
-    <div>
-      Immediately after the commencement of the
-        <i>Patents Amendment (Innovation Patents) Act 2000</i>.
-    </div>
+    <div>Immediately after the commencement of the <i>Patents Amendment (Innovation Patents) Act 2000</i>.</div>
   </td>
   <td>
-    <div>
-      24 May 2001
-    </div>
-  </td>
-</tr></table>
-
-_(h)_ Subsection 2(1) (item 13) of the _Personal Property Securities (Corporations and Other Amendments) Act 2010_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      13\. Schedule 3, item 16
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of item 14 of Schedule 2 to the
-        <i>Personal Property Securities (Consequential Amendments) Act 2009</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      \[
-        <i>see</i>Note 3]
-    </div>
+    <div>24 May 2001</div>
   </td>
 </tr></table>
 
@@ -7973,35 +7885,7 @@ Note 1:       The _Personal Property Securities Act 2009_ applies to
 
 Note 2:       For the meaning of **_transitional security interest_**, see section 308 of the _Personal Property Securities Act 2009_. Division 4 of Part 9.4 of that Act applies to transitional security interests in situations including the bankruptcy or insolvency of a secured party, grantor or debtor.
 
-As at 8 July 2010 the amendments are not incorporated in this compilation.
-
-### Note 3
-
-_Personal Property Securities (Corporations and Other Amendments) Act 2010 (No. 96, 2010)_
-
-The following amendment commences immediately after the commencement of item 14 of Schedule 2 to the _Personal Property Securities (Consequential Amendments) Act 2009_:
-
-## Schedule 3
-
-## 16  Schedule 1 (Dictionary) (definition of _PPSA security interest_)
-
-Repeal the definition, substitute:
-
-                    <a name="ppsa-secur-interest"></a>**_PPSA security interest_** (short for Personal Property Securities Act security interest) means a security interest within the meaning of the _Personal Property Securities Act 2009_ and to which that Act applies, other than a transitional security interest within the meaning of that Act.
-
-Note 1:       The _Personal Property Securities Act 2009_ applies to certain security interests in personal property. See the following provisions of that Act:
-
-(a)    section 8 (interests to which the Act does not apply);
-
-(b)    section 12 (meaning of **_security interest_**);
-
-(c)    Chapter 9 (transitional provisions).
-
-Note 2:       For the meaning of **_transitional security interest_**, see section 308 of the _Personal Property Securities Act 2009_.
-
-_Note:       This amendment replaces the definition inserted by item 14 of Schedule 2 to the Personal Property Securities (Consequential Amendments) Act 2009._
-
-As at 8 July 2010 the amendment is not incorporated in this compilation.
+As at 4 March 2010 the amendments are not incorporated in this compilation.
 
 ## Table A
 
