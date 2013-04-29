@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00244/Html/121d37f5-ef6f-4925-9060-0738e0ce1684_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00328/Html/RoyalComm1902_WD02_image001.gif)
 
 # Royal Commissions Act 1902
 
 **Act No. 12 of 1902 as amended**
 
-This compilation was prepared on 19 April 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 11 July 2008
+ taking into account amendments up to Act No. 73 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -108,19 +108,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="1A"></a>1A  Power to issue Royal Commission
 
-                   Without in any way prejudicing, limiting, or derogating from the power of the King, or of the Governor‑General, to make or authorize any inquiry, or to issue any commission to make any inquiry, it is hereby enacted and declared that the Governor‑General may, by Letters Patent in the name of the King, issue such commissions, directed to such person or persons, as he or she thinks fit, requiring or authorizing him or her or them or any of them to make inquiry into and report upon any matter specified in the Letters Patent, and which relates to or is connected with the peace, order, and good government of the Commonwealth, or any public purpose or any power of the Commonwealth.
+                   Without in any way prejudicing, limiting, or derogating from the power of the King, or of the Governor-General, to make or authorize any inquiry, or to issue any commission to make any inquiry, it is hereby enacted and declared that the Governor-General may, by Letters Patent in the name of the King, issue such commissions, directed to such person or persons, as he or she thinks fit, requiring or authorizing him or her or them or any of them to make inquiry into and report upon any matter specified in the Letters Patent, and which relates to or is connected with the peace, order, and good government of the Commonwealth, or any public purpose or any power of the Commonwealth.
 
 ##### <a id="1B"></a>1B  Definitions
 
              (1)  In this Act, unless the contrary intention appears:
 
-                    <a name="royal-commiss"></a><a name="commiss"></a>**_Commission_** and **_Royal Commission_** means any Commission of inquiry issued by the Governor‑General by Letters Patent in pursuance of this Act or of any other power, and includes the members of the Commission, or a quorum thereof, or the sole Commissioner, sitting for the purposes of the inquiry.
+                    <a name="royal-commiss"></a><a name="commiss"></a>**_Commission_** and **_Royal Commission_** means any Commission of inquiry issued by the Governor-General by Letters Patent in pursuance of this Act or of any other power, and includes the members of the Commission, or a quorum thereof, or the sole Commissioner, sitting for the purposes of the inquiry.
 
                     <a name="docum"></a>**_document_** includes any book, register or other record of information, however compiled, recorded or stored.
-
-                    <a name="financ-minist"></a>**_Finance Minister_** means the Minister administering the _Financial Management and Accountability Act 1997_.
-
-                    <a name="foreign-affair-minist"></a>**_Foreign Affairs Minister_** means the Minister administering the _Diplomatic Privileges and Immunities Act 1967_.
 
                     <a name="legal-practition"></a>**_legal practitioner_** means a barrister, a solicitor, a barrister and solicitor, or a legal practitioner, of the High Court or of the Supreme Court of a State or Territory.
 
@@ -390,13 +386,13 @@ Note:          A defendant bears an evidential burden in relat
 
              (2)  The warrant shall authorize the apprehension of the witness and the witness being brought before the Commission, and the witness’ detention in custody for that purpose until he or she is released by order of the President or Chair.
 
-             (3)  The warrant may be executed by any member of the Australian Federal Police or of the Police Force of a State or of the Northern Territory, or by any person to whom it is addressed, and the person executing it shall have power to break and enter any place building or vessel for the purpose of executing it.
+             (3)  The warrant may be executed by any member of the Australian Federal Police or of the Police Force of a State or of the Northern   Territory, or by any person to whom it is addressed, and the person executing it shall have power to break and enter any place building or vessel for the purpose of executing it.
 
-             (4)  The apprehension of any witness under this section shall not relieve him or her from any liability incurred by the witness by reason of his or her non‑compliance with the summons.
+             (4)  The apprehension of any witness under this section shall not relieve him or her from any liability incurred by the witness by reason of his or her non-compliance with the summons.
 
 ##### <a id="6C"></a>6C  Acts or omissions on different days to constitute separate offences
 
-                   Where any person has on any day done or omitted to do something, and the person’s act or omission amounts to an offence against section 3 or 6, and does or omits to do the same thing at any meeting of the Commission held on some other day, each such act or omission shall be a separate offence.
+                   Where any person has on any day done or omitted to do something, and the person’s act or omission amounts to an offence against section 3 or 6, and does or omits to do the same thing at any meeting of the Commission held on some other day, each such act or omission shall be a separate offence.
 
 ##### <a id="6D"></a>6D  Rights of witness
 
@@ -460,7 +456,7 @@ shall not be published, or shall not be published except in such manner, and to 
 
 ##### <a id="6FA"></a>6FA  Examination of witnesses by counsel etc.
 
-                   Any legal practitioner appointed by the Attorney‑General to assist a Commission, any person authorized by a Commission to appear before it, or any legal practitioner authorized by a Commission to appear before it for the purpose of representing any person, may, so far as the Commission thinks proper, examine or cross‑examine any witness on any matter which the Commission deems relevant to the inquiry, and any witness so examined or cross‑examined shall have the same protection and be subject to the same liabilities as if examined by any of the Commissioners, or by the sole Commissioner, as the case may be.
+                   Any legal practitioner appointed by the Attorney-General to assist a Commission, any person authorized by a Commission to appear before it, or any legal practitioner authorized by a Commission to appear before it for the purpose of representing any person, may, so far as the Commission thinks proper, examine or cross-examine any witness on any matter which the Commission deems relevant to the inquiry, and any witness so examined or cross-examined shall have the same protection and be subject to the same liabilities as if examined by any of the Commissioners, or by the sole Commissioner, as the case may be.
 
 ##### <a id="6G"></a>6G  Witness to be paid expenses
 
@@ -594,7 +590,7 @@ Note:          A defendant bears an evidential burden in relat
 
              (1)  Where, in the course of inquiring into a matter, a Commission obtains information that relates, or that may relate, to a contravention of a law, or evidence of a contravention of a law, of the Commonwealth, of a State or of a Territory, the Commission may, if in the opinion of the Commission it is appropriate so to do, communicate the information or furnish the evidence, as the case may be, to:
 
-                     (a)  the Attorney‑General of the Commonwealth, of a State, of the Australian Capital Territory or of the Northern Territory; or
+                     (a)  the Attorney-General of the Commonwealth, of a State, of the Australian Capital Territory or of the Northern   Territory; or
 
                     (aa)  the Director of Public Prosecutions; or
 
@@ -618,7 +614,7 @@ Note:          A defendant bears an evidential burden in relat
 
                      (c)  receives a document or thing;
 
-that, in the opinion of the Commission, relates or may relate to a matter into which another Commission is required or authorized to inquire, the first‑mentioned Commission may, if in its opinion it is appropriate so to do, communicate the information or furnish the evidence, document or thing, as the case may be, to that other Commission.
+that, in the opinion of the Commission, relates or may relate to a matter into which another Commission is required or authorized to inquire, the first-mentioned Commission may, if in its opinion it is appropriate so to do, communicate the information or furnish the evidence, document or thing, as the case may be, to that other Commission.
 
           (2A)  Where, in the course of inquiry into a matter, a Commission:
 
@@ -668,13 +664,13 @@ by the Governor of a State or a Minister of a State, the sole Commissioner, or t
 
                      (b)  an authority to inquire into, and take evidence in relation to, specified matters is granted by, or issued under, a law of another country, to the person, or to any one or more of the persons, referred to in paragraph (a);
 
-                     (c)  in the opinion of the Attorney‑General, the matters specified:
+                     (c)  in the opinion of the Attorney-General, the matters specified:
 
                               (i)  in the case of an authority granted by a law of another country—in that law; or
 
                              (ii)  in the case of an authority issued under a law of another country—in the instrument by which the authority is issued;
 
-                            are the same or substantially the same as the matters specified in the Letters Patent or are significantly related to those last‑mentioned matters; and
+                            are the same or substantially the same as the matters specified in the Letters Patent or are significantly related to those last-mentioned matters; and
 
                      (d)  arrangements have been made between Australia and that other country in relation to the performance of functions and the exercise of powers under the authority by the person or persons referred to in paragraph (b);
 
@@ -724,9 +720,9 @@ the Commission may, in that other country, subject to any provision of the arran
 
 ##### <a id="8"></a>8  Allowances to witnesses
 
-             (1)  The Governor‑General may make regulations prescribing a scale of allowances to be paid to any witness summoned under this Act for his or her travelling expenses and maintenance while absent from his or her usual place of abode.
+             (1)  The Governor-General may make regulations prescribing a scale of allowances to be paid to any witness summoned under this Act for his or her travelling expenses and maintenance while absent from his or her usual place of abode.
 
-             (2)  The claim to allowance of any such witness, certified by the President or Chair of the Commission or by the sole Commissioner as the case may be, shall be paid by the Finance Minister out of moneys to be provided by the Parliament for the purposes of the Commission.
+             (2)  The claim to allowance of any such witness, certified by the President or Chair of the Commission or by the sole Commissioner as the case may be, shall be paid by the Minister for Finance out of moneys to be provided by the Parliament for the purposes of the Commission.
 
 ##### <a id="9"></a>9  Custody and use of records of Royal Commission
 
@@ -840,7 +836,7 @@ Regulations made for the purposes of paragraph (a) may provide for a person or
 
              (3)  The persons and bodies who may be given custody of Royal Commission records by regulations made for the purposes of paragraph (2)(a) are the following:
 
-                     (a)  the Attorney‑General of the Commonwealth, of a State, of the Australian Capital Territory or of the Northern Territory;
+                     (a)  the Attorney-General of the Commonwealth, of a State, of the Australian Capital Territory or of the Northern   Territory;
 
                      (b)  the Director of Public Prosecutions;
 
@@ -944,7 +940,7 @@ Legal professional privilege not affected
 
 ##### <a id="10"></a>10  Institution of proceedings in respect of other offences
 
-             (1)  Proceedings in respect of any offence against this Act (other than an indictable offence) may be instituted by action, information, or other appropriate proceeding, in the Federal Court of Australia by the Attorney‑General or the Director of Public Prosecutions, or by information or other appropriate proceeding by any person in any court of summary jurisdiction.
+             (1)  Proceedings in respect of any offence against this Act (other than an indictable offence) may be instituted by action, information, or other appropriate proceeding, in the Federal Court of Australia by the Attorney-General or the Director of Public Prosecutions, or by information or other appropriate proceeding by any person in any court of summary jurisdiction.
 
 ##### <a id="15"></a>15  Costs
 
@@ -954,29 +950,29 @@ Legal professional privilege not affected
 
              (1)  In all legal proceedings the production:
 
-                     (a)  of a document purporting to be Letters Patent in the name of the King, and purporting to be signed by the Governor‑General and to be sealed with the seal of the Commonwealth, and purporting to be directed to any person or persons and to appoint the person or persons to be a Commissioner or Commissioners to make inquiry into any matter, or to authorize or require the person or persons to make inquiry into any matter, or
+                     (a)  of a document purporting to be Letters Patent in the name of the King, and purporting to be signed by the Governor-General and to be sealed with the seal of the Commonwealth, and purporting to be directed to any person or persons and to appoint the person or persons to be a Commissioner or Commissioners to make inquiry into any matter, or to authorize or require the person or persons to make inquiry into any matter, or
 
                      (b)  of a document purporting to be a copy of any such Letters Patent and certified in writing by the person named therein as President or Chair of the Commission or sole Commissioner, as the case may be, to be a true copy of the Letters Patent;
 
-shall be evidence that the Governor‑General has issued the Commission.
+shall be evidence that the Governor-General has issued the Commission.
 
              (2)  In all legal proceedings:
 
-                     (a)  a certificate signed by the Foreign Affairs Minister, stating that arrangements have been made between Australia and a country specified in the certificate in relation to the receiving of evidence in that country by the person or persons to whom a commission has, by Letters Patent, been issued under section 1A, is evidence that those arrangements have been so made; and
+                     (a)  a certificate signed by the Minister for Foreign Affairs, stating that arrangements have been made between Australia and a country specified in the certificate in relation to the receiving of evidence in that country by the person or persons to whom a commission has, by Letters Patent, been issued under section 1A, is evidence that those arrangements have been so made; and
 
-                     (b)  a certificate signed by the Foreign Affairs Minister, stating that arrangements have been made between Australia and a country specified in the certificate in relation to the performance of functions, and the exercise of powers, by a person or persons specified in the certificate, under an authority to inquire into particular matters granted by, or issued under, the law of another country, is evidence that those arrangements have been so made.
+                     (b)  a certificate signed by the Minister for Foreign Affairs, stating that arrangements have been made between Australia and a country specified in the certificate in relation to the performance of functions, and the exercise of powers, by a person or persons specified in the certificate, under an authority to inquire into particular matters granted by, or issued under, the law of another country, is evidence that those arrangements have been so made.
 
-             (3)  A certificate signed by the Attorney‑General stating that, in his or her opinion:
+             (3)  A certificate signed by the Attorney-General stating that, in his or her opinion:
 
                      (a)  the matters specified in a law of another country by which an authority to inquire into, and take evidence in relation to, those matters is granted to a person, being a law referred to in the certificate; or
 
                      (b)  the matters specified in an instrument by which an authority to inquire into, and take evidence in relation to, those matters is issued under the law of another country, being an authority referred to in the certificate;
 
-are the same or substantially the same as the matters specified in the Letters Patent by which a commission referred to in the certificate has been issued under section 1A, or are significantly related to those last‑mentioned matters, is evidence that the Attorney‑General is of that opinion.
+are the same or substantially the same as the matters specified in the Letters Patent by which a commission referred to in the certificate has been issued under section 1A, or are significantly related to those last-mentioned matters, is evidence that the Attorney-General is of that opinion.
 
 ##### <a id="17"></a>17  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters:
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -1136,7 +1132,7 @@ of Assent</div>
     <div>28 Mar 1979</div>
   </td>
   <td colspan="2">
-    <div>Parts II–XVII (ss. 3–123): 15 May 1979 ( <i>see Gazette</i>1979, No. S86) 
+    <div>Parts II-XVII (ss. 3–123): 15 May 1979 ( <i>see Gazette</i>1979, No. S86) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -1418,23 +1414,6 @@ Remainder: Royal Assent</div>
     <div>—</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 5 (items 184–187): 19 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -1448,13 +1427,13 @@ _(a)_     The _Royal Commissions Act 1902_ was amended by Part XXXIV (
 
                  (1)   Sections 1 and 2 and Parts VIII and XXXIV shall come into operation on the day on which this Act receives the Royal Assent.
 
-_(b)_     The _Royal Commissions Amendment Act 1982_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1983_, subsection 2(12) of which provides as follows:
+_(b)_    The _Royal Commissions Amendment Act 1982_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1983_, subsection 2(12) of which provides as follows:
 
                (12)   The amendment of section 8 of the _Royal Commissions Amendment Act 1982_ made by this Act shall be deemed to have come into operation on 1 February 1983.
 
 _(c)_     The _Royal Commissions Act 1902_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1983_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
 
 _(d)_     The _Royal Commissions Act 1902_ was amended by Part XIII (sections 28–31) only of the _Director of Public Prosecutions (Consequential Amendments) Act 1983_, subsection 2(1) of which provides as follows:
 
@@ -1520,7 +1499,7 @@ _(f)_      The _Royal Commissions Act 1902_ was amended by sections 
     <div></div>
   </td>
   <td>
-    <div>am. No. 139, 1982; No. 33, 1994; No. 125, 2002; No. 52, 2006; No. 5, 2011</div>
+    <div>am. No. 139, 1982; No. 33, 1994; No. 125, 2002; No. 52, 2006</div>
   </td>
 </tr>
 <tr>
@@ -1632,7 +1611,7 @@ _(f)_      The _Royal Commissions Act 1902_ was amended by sections 
     <div>Ss. 6AA, 6AB</div>
   </td>
   <td>
-    <div>ad. No. 52, 2006</div>
+    <div>ad. No. 52, 2005</div>
   </td>
 </tr>
 <tr>
@@ -1729,14 +1708,6 @@ _(f)_      The _Royal Commissions Act 1902_ was amended by sections 
   </td>
   <td>
     <div>am. No. 49, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 166, 2001</div>
   </td>
 </tr>
 <tr>
@@ -2080,7 +2051,7 @@ _(f)_      The _Royal Commissions Act 1902_ was amended by sections 
     <div>S. 8</div>
   </td>
   <td>
-    <div>am. No. 36, 1978; No. 49, 2001; No. 73, 2008; No. 5, 2011</div>
+    <div>am. No. 36, 1978; No. 49, 2001; No. 73, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2109,7 +2080,7 @@ _(f)_      The _Royal Commissions Act 1902_ was amended by sections 
 </tr>
 <tr>
   <td>
-    <div>Heading preceding s. 10</div>
+    <div>Heading preceding s. 10.....</div>
   </td>
   <td>
     <div>ad. No. 4, 1912</div>
@@ -2184,7 +2155,7 @@ _(f)_      The _Royal Commissions Act 1902_ was amended by sections 
     <div></div>
   </td>
   <td>
-    <div>am. No. 26, 1982; No. 49, 2001; No. 73, 2008; No. 5, 2011</div>
+    <div>am. No. 26, 1982; No. 49, 2001; No. 73, 2008</div>
   </td>
 </tr>
 <tr>
