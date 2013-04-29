@@ -1,26 +1,27 @@
-![](http://www.comlaw.gov.au/Details/C2007C00631/Html/4c505c7f-02ee-4fae-8858-92c0c317553c_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00370/Html/FEEA14F685AE5C70CA25702600029DE6/$FILE/image001.gif)
 
 # Datacasting Charge (Imposition) Act 1998
 
 **Act No. 98 of 1998 as amended**
 
-This compilation was prepared on 8 October 2007
- taking into account amendments up to Act No. 178 of 2007
+This compilation was prepared on 1 July 2005
+taking into account amendments up to Act No. 49 of 2005
 
 The text of any of those amendments not in force
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+Attorney-General’s Department, Canberra
+
 
 # Contents
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title _see_ Note 1]
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement _see_ Note 1]
 
 [3](#3).            Interpretation
 
@@ -36,13 +37,16 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Notes** 
 
+ 
+
+
 ## An Act to impose a charge in relation to the provision of datacasting services by the ABC, the SBS and commercial television licensees
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
+##### <a id="1"></a>1  Short title _see_ Note 1]
 
                    This Act may be cited as the _Datacasting Charge (Imposition) Act 1998_.
 
-##### <a id="2"></a>2  Commencement [_see_ Note 1]
+##### <a id="2"></a>2  Commencement _see_ Note 1]
 
                    This Act commences on the day on which it receives the Royal Assent.
 
@@ -76,7 +80,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                    If:
 
-                     (a)  a transmitter licence, other than one that is a channel B datacasting transmitter licence for the purposes of the _Radiocommunications Act 1992_, authorises the holder to transmit datacasting services in digital mode; and
+                     (a)  a transmitter licence authorises the holder to transmit datacasting services in digital mode; and
 
                      (b)  the transmitter licence is held by the holder of a commercial television broadcasting licence; and
 
@@ -84,7 +88,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (d)  at any time during the whole or the part, as the case may be, of the financial year, the transmitter or transmitters concerned were used by the holder of the transmitter licence, or by a person authorised by the holder of the transmitter licence, to transmit datacasting services in digital mode; and
 
-                   (da)  at least one of those datacasting services:
+                    (da)  at least one of those datacasting services:
 
                               (i)  was provided under the authority of a BSA datacasting licence; and
 
@@ -105,6 +109,7 @@ Note:          Under section 14 of the _Australian Communica
 ##### <a id="8"></a>8  By whom charge is payable
 
                    Charge imposed on a transmitter licence is payable by the holder of the licence.
+
 
 # Notes to the _Datacasting Charge (Imposition) Act 1998_
 
@@ -132,11 +137,13 @@ For all relevant information pertaining to application, saving or transitional p
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -146,75 +153,62 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Datacasting Charge (Imposition) Act 1998</div>
-  </td>
-  <td>
-    <div>98, 1998</div>
-  </td>
-  <td>
-    <div>27 July 1998</div>
-  </td>
-  <td>
-    <div>27 July 1998</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Datacasting Charge (Imposition) Amendment Act 2000</div>
-  </td>
-  <td>
-    <div>109, 2000</div>
-  </td>
-  <td>
-    <div>3 Aug 2000</div>
-  </td>
-  <td>
-    <div>1 Jan 2001 ( <i>see</i>s. 2 and <i>Gazette</i>2000,No. GN50)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Datacasting Charge (Imposition) Amendment Act 2005</div>
-  </td>
-  <td>
-    <div>49, 2005</div>
-  </td>
-  <td>
-    <div>1 Apr 2005</div>
-  </td>
-  <td>
-    <div>Schedules 1 and 2: 1 July 2005 ( <i>see</i>s. 2(1)) 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 2</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Communications Legislation Amendment (Information Sharing and Datacasting) Act 2007</div>
-  </td>
-  <td>
-    <div>178, 2007</div>
-  </td>
-  <td>
-    <div>28 Sept 2007</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 8, 9): 29 Sept 2007</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 9)</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Datacasting Charge (Imposition) Act 1998</div>
+    </td>
+    <td>
+      <div>98, 1998</div>
+    </td>
+    <td>
+      <div>27 July 1998</div>
+    </td>
+    <td>
+      <div>27 July 1998</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Datacasting Charge (Imposition) Amendment Act 2000</div>
+    </td>
+    <td>
+      <div>109, 2000</div>
+    </td>
+    <td>
+      <div>3 Aug 2000</div>
+    </td>
+    <td>
+      <div>1 Jan 2001 ( <i>see</i>s. 2 and <i>Gazette</i>2000,No. GN50)</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Datacasting Charge (Imposition) Amendment Act 2005</div>
+    </td>
+    <td>
+      <div>49, 2005</div>
+    </td>
+    <td>
+      <div>1 Apr 2005</div>
+    </td>
+    <td>
+      <div>Schedules 1 and 2: 1 July 2005 ( <i>see</i>s. 2(1)) 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>Sch. 2</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table of Amendments
 
@@ -239,38 +233,41 @@ Remainder: Royal Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 109, 2000; No. 49, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6</div>
-  </td>
-  <td>
-    <div>am. No. 109, 2000; No. 178, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7</div>
-  </td>
-  <td>
-    <div>am. No. 49, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 7(1)</div>
-  </td>
-  <td>
-    <div>rs. No. 49, 2005</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>S. 3</div>
+    </td>
+    <td>
+      <div>am. No. 109, 2000; No. 49, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6</div>
+    </td>
+    <td>
+      <div>am. No. 109, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 7</div>
+    </td>
+    <td>
+      <div>am. No. 49, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 7(1)</div>
+    </td>
+    <td>
+      <div>rs. No. 49, 2005</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table A
 
@@ -292,14 +289,5 @@ In this Schedule:
 
 A determination made by the ACA under subsection 7(1) of the Imposition Act that was in force immediately before the transition time has effect on and after the transition time as if it had been made by the ACMA under that subsection as amended by Schedule 1 to this Act.
 
-* * *
-
-_Communications Legislation Amendment (Information Sharing and Datacasting) Act 2007 (No. 178, 2007)_
-
-## Schedule 1
-
-## 9  Application of amendment
-
-The amendment of the _Datacasting Charge (Imposition) Act 1998_ made by this Division applies to the financial year starting on 1 July 2007 and later financial years.
 
  
