@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00741/Html/76ff78ca-06dc-4eea-9699-86d6d39e68c9_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00241/Html/56adc452-db90-4129-9f8e-85b8b307885d_files/image001.gif)
 
 # Crimes (Internationally Protected Persons) Act 1976
 
 **Act No. 8 of 1977 as amended**
 
-This compilation was prepared on 12 October 2012
- taking into account amendments up to Act No. 136 of 2012
+This compilation was prepared on 19 April 2011
+ taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -79,7 +80,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
                     <a name="australian-aircraft"></a>**_Australian aircraft_** means:
 
-                     (a)  an aircraft registered or required to be registered under regulations made under the _Civil Aviation Act 1988_;
+                     (a)  an aircraft registered or required to be registered in accordance with the Civil Aviation Regulations as an Australian aircraft;
 
                      (b)  an aircraft that is owned by, or is in the possession or control of, the Commonwealth or an authority of the Commonwealth; or
 
@@ -538,7 +539,8 @@ For all relevant information pertaining to application, saving or transitional p
   <col width="31%">
   <col width="16%">
   <col width="18%">
-  <col width="22%">
+  <col width="21%">
+  <col width="0%">
   <col width="14%">
 </colgroup>
 
@@ -558,7 +560,7 @@ of Assent</div>
     <td>
       <div>Date of commencement</div>
     </td>
-    <td>
+    <td colspan="2">
       <div>Application, saving or transitional provisions</div>
     </td>
   </tr>
@@ -573,8 +575,8 @@ of Assent</div>
   <td>
     <div>28 Feb 1977</div>
   </td>
-  <td>
-    <div>S. 11: 20 July 1977 ( <i>see Gazette</i>1977, No. S145) 
+  <td colspan="2">
+    <div>S. 11: 20 July 1977 ( <i>see Gazette</i>1977, No. S145) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -591,8 +593,8 @@ Remainder: Royal Assent</div>
   <td>
     <div>28 Nov 1979</div>
   </td>
-  <td>
-    <div>19 Oct 1979 ( <i>see</i>s. 2 and <i>Gazette</i>1979, No. S206)</div>
+  <td colspan="2">
+    <div>19 Oct 1979 ( <i>see</i>s. 2 and <i>Gazette</i>1979, No.S206)</div>
   </td>
   <td>
     <div>—</div>
@@ -608,7 +610,7 @@ Remainder: Royal Assent</div>
   <td>
     <div>28 May 1980</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>28 May 1980</div>
   </td>
   <td>
@@ -625,16 +627,16 @@ Remainder: Royal Assent</div>
   <td>
     <div>16 Dec 1987</div>
   </td>
-  <td>
-    <div>Ss. 11, 14, 74 and 75: 1 Mar 1989 ( <i>see Gazette</i>1989, No. S54) 
-Ss. 16–18, 69(b) and 70–73: 19 Dec 1988 ( <i>see Gazette</i>1988, No. S384) 
-Parts II (ss. 3–9), VI and VII (ss 
+  <td colspan="2">
+    <div>Ss. 11, 14, 74 and 75: 1 Mar 1989 ( <i>see Gazette</i>1989, No. S54) 
+Ss. 16–18, 69(b) and 70–73: 19 Dec 1988 ( <i>see Gazette</i>1988, No. S384) 
+Parts II (ss. 3–9), VI and VII (ss 
 30–33), 
 Ss. 34–46, 48–55 and 59: Royal Assent 
-S. 47: 1 Jan 1990 ( <i>see Gazette</i>1989, No. S359) 
-Ss. 56–58: 16 Dec 1987 ( <i>see</i>s. 2(4)) 
-Ss. 60–67: 1 Sept 1988 ( <i>see</i>s. 2(5)) 
-Remainder: 13 Jan 1988</div>
+S. 47: 1 Jan 1990 ( <i>see Gazette</i>1989, No. S359) 
+Ss. 56–58: 16 Dec 1987 ( <i>see</i>s. 2(4)) 
+Ss. 60–67: 1 Sept 1988 ( <i>see</i>s. 2(5)) 
+Remainder: 13 Jan 1988</div>
   </td>
   <td>
     <div>—</div>
@@ -650,9 +652,9 @@ Remainder: 13 Jan 1988</div>
   <td>
     <div>15 June 1988</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>Part III (ss. 
-17–32), s. 98, Parts IX and X (ss. 99–103): 1 July 1988 ( <i>see Gazette</i>1988, No. S189) 
+17–32), s. 98, Parts IX and X (ss. 99–103): 1 July 1988 ( <i>see Gazette</i>1988, No. S189) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -669,10 +671,10 @@ Remainder: Royal Assent</div>
   <td>
     <div>17 Jan 1990</div>
   </td>
-  <td>
-    <div>Part I (ss. 1, 2), Part 3 (ss. 6, 7) and ss. 12, 13 and 51(1)(b), (2): Royal Assent 
+  <td colspan="2">
+    <div>Part I (ss. 1, 2), Part 3 (ss. 6, 7) and ss. 12, 13 and 51(1)(b), (2): Royal Assent 
 Ss. 8–10: 17 July 1990 
-Remainder: 14 Feb 1990</div>
+Remainder: 14 Feb 1990</div>
   </td>
   <td>
     <div>—</div>
@@ -688,8 +690,8 @@ Remainder: 14 Feb 1990</div>
   <td>
     <div>21 Dec 1992</div>
   </td>
-  <td>
-    <div>Schedule (Part 2): 10 Mar 1993 ( <i>see Gazette</i>1993, No. GN17) <i>(a)</i></div>
+  <td colspan="2">
+    <div>Schedule (Part 2): 10 Mar 1993 ( <i>see Gazette</i>1993, No. GN17) <i>(a)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -705,8 +707,8 @@ Remainder: 14 Feb 1990</div>
   <td>
     <div>19 Dec 1994</div>
   </td>
-  <td>
-    <div>S. 31: 16 Jan 1995 <i>(b)</i></div>
+  <td colspan="2">
+    <div>S. 31: 16 Jan 1995 <i>(b)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -722,8 +724,8 @@ Remainder: 14 Feb 1990</div>
   <td>
     <div>28 June 1995</div>
   </td>
-  <td>
-    <div>Schedule 2: 28 June 1995</div>
+  <td colspan="2">
+    <div>28 June 1995</div>
   </td>
   <td>
     <div>—</div>
@@ -739,7 +741,7 @@ Remainder: 14 Feb 1990</div>
   <td>
     <div>6 Apr 2001</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>S. 4(1), (2) and Schedule 16: <i>(c)</i></div>
   </td>
   <td>
@@ -756,8 +758,8 @@ Remainder: 14 Feb 1990</div>
   <td>
     <div>19 Feb 2010</div>
   </td>
-  <td>
-    <div>Schedule 10 (item 10): 20 Feb 2010</div>
+  <td colspan="2">
+    <div>Schedule 10 (item 10): 20 Feb 2010</div>
   </td>
   <td>
     <div>—</div>
@@ -773,29 +775,20 @@ Remainder: 14 Feb 1990</div>
   <td>
     <div>22 Mar 2011</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>Schedule 5 (items 69, 70): 19 Apr 2011</div>
   </td>
   <td>
     <div>—</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2012</div>
-  </td>
-  <td>
-    <div>136, 2012</div>
-  </td>
-  <td>
-    <div>22 Sept 2012</div>
-  </td>
-  <td>
-    <div>Schedule 3 (item 2): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
+<tr height="0">
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
 </tr></table>
 
 _(a)_     The _Crimes (Internationally Protected Persons) Act 1976_ was amended by the Schedule (Part 2) only of the _Qantas Sale Act 1992_, subsection 2(3)(a) of which provides as follows: 
@@ -844,7 +837,7 @@ _(c)_     The _Crimes (Internationally Protected Persons) Act 1976_ was 
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 120, 1987; No. 63, 1988; No. 196, 1992; No. 58, 1995; No. 5, 2011; No. 136, 2012</div>
+    <div>am. No. 120, 1987; No. 63, 1988; No. 196, 1992; No. 58, 1995; No. 5, 2011</div>
   </td>
 </tr>
 <tr>
