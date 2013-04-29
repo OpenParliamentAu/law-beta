@@ -1,7 +1,7 @@
 
 Defence Forces Retirement Benefits Act 1948
 Act No. 31 of 1948 as amended
-This compilation was prepared on 6 May 2004 taking into account amendments up to Act No. 58 of 2004
+This compilation was prepared on 23 December 2003 taking into account amendments up to Act No. 135 of 2003
 The text of any of those amendments not in force on that date is appended in the Notes section
 The operation of amendments that have been incorporated may be  affected by application provisions that are set out in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
@@ -96,21 +96,23 @@ Part VID—Pension increases	93
 84	Increase in certain pensions	94
 84A	Application of increase to suspended pensions	95
 84B	Adjustment of increases in case of certain pensions	95
-84C	Increases in children’s pensions	97
-84D	Date of payment of increases	98
-84E	Rate of invalidity pension payable on reclassification during a prescribed half‑year	98
-84F	Commutation of pension benefits during a prescribed half‑year	99
-Part VII—Miscellaneous	100
-85	Assignment of pensions	100
-85A	Attachment of pensions	100
-86	Recovery of contributions	102
-86A	Cancellation of elections	102
-87	Extension or modification of the Act by regulations	103
-88	Regulations	103
-The Schedules	104
-Second Schedule—Pension factors	104
-Fourth Schedule—Period of service for pension referred to in paragraph 39(2)(C)	105
-Notes	107
+84C	Increases in children’s pensions	96
+84D	Date of payment of increases	97
+84E	Rate of invalidity pension payable on reclassification during a prescribed year	97
+84F	Commutation of pension benefits during a prescribed year	98
+84G	Adjustment of increased rate	99
+84GA	Pensions payable on or after 20 October 1989—variation of rate	100
+Part VII—Miscellaneous	101
+85	Assignment of pensions	101
+85A	Attachment of pensions	101
+86	Recovery of contributions	103
+86A	Cancellation of elections	103
+87	Extension or modification of the Act by regulations	104
+88	Regulations	104
+The Schedules	105
+Second Schedule—Pension factors	105
+Fourth Schedule—Period of service for pension referred to in paragraph 39(2)(C)	106
+Notes	109
 An Act to provide Retirement Benefits for Members of the Defence Force of the Commonwealth, and for other purposes
 Part I—Preliminary
   
@@ -1055,65 +1057,79 @@ Part VID—Pension increases
   
 83  Interpretation
 	(1)	In this Part, unless the contrary intention appears:
-first quarter, in relation to a half‑year, means:
-	(a)	for a half‑year beginning on 1 January in a year—the March quarter of the year; and
-	(b)	for a half‑year beginning on 1 July in a year—the September quarter of the year.
-half‑year means a period of 6 months beginning on 1 January or 1 July in any year.
 pension means a pension payable under or in accordance with this Act, Part III of the Defence Forces Retirement Benefits Act 1959, Part IV of the Defence Forces Retirement Benefits Act 1962, Part IV of the Defence Forces Retirement Benefits Act 1963 or the Defence Forces Special Retirement Benefits Act 1960.
-prescribed half‑year means the half‑year commencing on 1 January 2002 or a subsequent half‑year.
+prescribed year means the year commencing on 1 July 1976, or a subsequent year.
 Statistician means the Australian Statistician.
-	(2)	Subject to subsection (3), if at any time, whether before or after the commencement of this Part, the Statistician has published or publishes in respect of a particular first quarter in a half‑year an all groups consumer price index number for the weighted average of the 8 capital cities in substitution for an index number previously published by him in respect of that quarter, the publication of the later index number shall be disregarded for the purposes of this Part.
+	(2)	Subject to subsection (3), if at any time, whether before or after the commencement of this Part, the Statistician has published or publishes in respect of a particular March quarter an all groups consumer price index number for the weighted average of the 8 capital cities in substitution for an index number previously published by him in respect of that quarter, the publication of the later index number shall be disregarded for the purposes of this Part.
 	(3)	If at any time, whether before or after the commencement of this Part, the Statistician has changed or changes the reference base for the Consumer Price Index, then, for the purposes of the application of this Part after the change took place or takes place, regard shall be had only to index numbers published in terms of the new reference base.
 	(4)	Where the prescribed percentage for the purposes of section 84 is or includes a fraction of one‑tenth of 1%:
 	(a)	if that fraction is less than one‑half of one‑tenth—that fraction shall be disregarded; and
 	(b)	if that fraction is not less than one‑half of one‑tenth—that fraction shall be treated as one‑tenth.
 84  Increase in certain pensions
-	(1)	Subject to this Part, if the all groups consumer price index number for the weighted average of the 8 capital cities published by the Statistician in respect of the first quarter of the half‑year immediately preceding a prescribed half‑year exceeds the highest all groups consumer price index number for the weighted average of the 8 capital cities published by the Statistician in respect of the first quarter of any earlier half‑year, not being a half‑year earlier than the half‑year that commenced on 1 July 1985, a person who was in receipt of a pension immediately before the commencement of that prescribed half‑year is entitled, at the commencement of that prescribed half‑year, to an increase, as ascertained in accordance with this section, in the rate at which the pension was payable to him immediately before the commencement of that prescribed half‑year.
-	(2)	The increase provided for by subsection (1) in the rate at which a pension was payable to a person immediately before the commencement of a prescribed half‑year is the prescribed percentage, ascertained in accordance with subsection (3), of that rate.
-	(3)	For the purposes of this section, the prescribed percentage, in relation to a prescribed half‑year, is the percentage that represents A‑B expressed as a percentage of B, where:
-	A	is the all groups consumer price index number for the weighted average of the 8 capital cities published by the Statistician in respect of the first quarter of the half‑year immediately preceding the prescribed half‑year; and
-	B	is the highest all groups consumer price index number for the weighted average of the 8 capital cities published by the Statistician in respect of the first quarter of any half‑year earlier than the half‑year immediately preceding the prescribed half‑year but not being earlier than the half‑year that commenced on 1 July 1985.
-	(4)	Where, by reason of the death on 30 June or 31 December (as the case requires) immediately preceding the commencement of a prescribed half‑year of a person in receipt of pension that became payable to him upon his retirement, including pension that became payable by reason of the invalidity of the person or of his physical or mental incapacity to perform his duties, a pension becomes payable, on the following day, to another person, that other person shall be entitled, at the commencement of that prescribed half‑year, to such an increase in the rate of that pension as he would have been entitled to had the pension become payable to him on that 30 June or 31 December (as the case requires).
+	(1)	Subject to this Part, if the all groups consumer price index number for the weighted average of the 8 capital cities published by the Statistician in respect of the March quarter of the year immediately preceding a prescribed year exceeds the highest all groups consumer price index number for the weighted average of the 8 capital cities published by the Statistician in respect of the March quarter of any earlier year, not being a year earlier than the year that commenced on 1 July 1985, a person who was in receipt of a pension immediately before the commencement of that prescribed year is entitled, at the commencement of that prescribed year, to an increase, as ascertained in accordance with this section, in the rate at which the pension was payable to him immediately before the commencement of that prescribed year.
+	(2)	The increase provided for by subsection (1) in the rate at which a pension was payable to a person immediately before the commencement of a prescribed year is the prescribed percentage, ascertained in accordance with subsection (3), of that rate.
+	(3)	For the purposes of this section, the prescribed percentage, in relation to a prescribed year, is the percentage that represents A‑B expressed as a percentage of B, where:
+	A	is the all groups consumer price index number for the weighted average of the 8 capital cities published by the Statistician in respect of the March quarter of the year immediately preceding the prescribed year; and
+	B	is the highest all groups consumer price index number for the weighted average of the 8 capital cities published by the Statistician in respect of the March quarter of any year earlier than the year immediately preceding the prescribed year but not being earlier than the year that commenced on 1 July 1985.
+	(4)	Where, by reason of the death on 30 June immediately preceding the commencement of a prescribed year of a person in receipt of pension that became payable to him upon his retirement, including pension that became payable by reason of the invalidity of the person or of his physical or mental incapacity to perform his duties, a pension becomes payable, on the following day, to another person, that other person shall be entitled, at the commencement of that prescribed year, to such an increase in the rate of that pension as he would have been entitled to had the pension become payable to him on that 30 June.
 84A  Application of increase to suspended pensions
-		Where a pension would, but for its suspension under section 53B, be payable to a person immediately before the commencement of a prescribed half‑year, that pension shall, for the purposes of this Part, be deemed to have been payable to that person immediately before the commencement of that prescribed half‑year but any increase in the rate of that pension by virtue of this Part does not take effect in respect of any part of that period of suspension.
+		Where a pension would, but for its suspension under section 53B, be payable to a person immediately before the commencement of a prescribed year, that pension shall, for the purposes of this Part, be deemed to have been payable to that person immediately before the commencement of that prescribed year but any increase in the rate of that pension by virtue of this Part does not take effect in respect of any part of that period of suspension.
 84B  Adjustment of increases in case of certain pensions
-	(1)	Where a person in receipt of a pension payable in accordance with section 82ZB would, but for this section, be entitled to an increase in the rate at which the pension was payable to the person immediately before the commencement of the prescribed half‑year and:
-	(a)	if the pension became payable to the person otherwise than as a widow—the pension became payable to the person during the half‑year (in this section referred to as the preceding half‑year) immediately preceding that prescribed half‑year;
-	(b)	if the pension became payable to the person as the widow of another person and pension in accordance with that section was not payable to that other person immediately before his death—the pension became payable to the widow during the preceding half‑year; or
-	(c)	if the pension became payable to the person as the widow of another person and pension in accordance with that section was payable to that other person immediately before his death—pension became payable to that other person during that preceding half‑year;
+	(1)	Where a person in receipt of a pension payable in accordance with section 82ZB would, but for this section, be entitled to an increase in the rate at which the pension was payable to the person immediately before the commencement of the prescribed year and:
+	(a)	if the pension became payable to the person otherwise than as a widow—the pension became payable to the person during the year (in this section referred to as the  preceding year) immediately preceding that prescribed year;
+	(b)	if the pension became payable to the person as the widow of another person and pension in accordance with that section was not payable to that other person immediately before his death—the pension became payable to the widow during the preceding year; or
+	(c)	if the pension became payable to the person as the widow of another person and pension in accordance with that section was payable to that other person immediately before his death—pension became payable to that other person during that preceding year;
 the following provisions of this section have effect in relation to the first‑mentioned pension.
-	(2)	If the pension that became payable by virtue of section 82ZB to the person, or, in a case where paragraph (1)(c) applies, to another person in relation to whom the person is a widow, became so payable after 16 June or 16 December (as the case requires) in the preceding half‑year, the person is not entitled to an increase.
-	(3)	If the pension that became payable by virtue of section 82ZB to the person, or, in a case where paragraph (1)(c) applies, to another person in relation to whom a person is a widow, became so payable on or before 16 June or 16 December (as the case requires) in the preceding half‑year, the amount of the increase is so much only of the amount that, but for this section, would have been the amount of the increase as bears to the last‑mentioned amount the same proportion as the number of months in the period that commenced on the day on which the pension became payable, and ended on 30 June or 31 December (as the case requires) in the preceding half‑year bears to 6.
+	(2)	If the pension that became payable by virtue of section 82ZB to the person, or, in a case where paragraph (1)(c) applies, to another person in relation to whom the person is a widow, became so payable after 16 June in the preceding year, the person is not entitled to an increase.
+	(3)	If the pension that became payable by virtue of section 82ZB to the person, or, in a case where paragraph (1)(c) applies, to another person in relation to whom a person is a widow, became so payable on or before 16 June in the preceding year, the amount of the increase is so much only of the amount that, but for this section, would have been the amount of the increase as bears to the last‑mentioned amount the same proportion as the number of months in the period that commenced on the day on which the pension became payable, and ended on 30 June in the preceding year bears to 12.
 	(4)	If the period referred to in subsection (3) is less than 1 month, that period shall be treated as 1 month.
 	(5)	If the period referred to in subsection (3) consists of a number of whole months and a part of a month:
 	(a)	where the number of days in that part of that month is less than one‑half of the number of days in that month—that part shall be disregarded; and
 	(b)	where the number of days in that part of that month is not less than one‑half of the number of days in that month—that part shall be treated as a whole month.
 84C  Increases in children’s pensions
 	(1)	Section 84 does not apply to a pension payable to or in respect of an eligible child, but, for the purposes of paragraph 55(1)(b), subsection 55(2), paragraph 57(1)(b), subsection 57(4) and subsection 58(1), regard shall be had to any increase in the rate of a pension payable under paragraph 55(1)(a), under paragraph 57(1)(a) or under subsection 57(3) to which, by virtue of this Act, a widow is, or, but for her death or divorce, would be, entitled.
-	(2)	If the all groups consumer price index number for the weighted average of the 8 capital cities published by the Statistician in respect of the first quarter of the half‑year immediately preceding a prescribed half‑year exceeds the highest all groups consumer price index number for the weighted average of the 8 capital cities published by the Statistician in respect of the first quarter of any earlier half‑year, not being a half‑year earlier than the half‑year that commenced on 1 July 1985:
+	(2)	If the all groups consumer price index number for the weighted average of the 8 capital cities published by the Statistician in respect of the March quarter of the year immediately preceding a prescribed year exceeds the highest all groups consumer price index number for the weighted average of the 8 capital cities published by the Statistician in respect of the March quarter of any earlier year, not being a year earlier than the year that commenced on 1 July 1985:
 	(a)	paragraphs 55(1)(b) and 57(1)(b) have effect as if, for the amount of $312, there were substituted; and
 	(b)	subsections 55(2), 57(4) and 58(1) have effect as if, for the amount of $5,000, there were substituted;
-on the first day of that prescribed half‑year, an amount calculated by adding to the existing amount the prescribed percentage of the existing amount.
+on the first day of that prescribed year, an amount calculated by adding to the existing amount the prescribed percentage of the existing amount.
 	(3)	For the purposes of the application of subsection (2) to a provision specified in that subsection, the existing amount is:
-	(a)	in relation to the prescribed half‑year that commenced on 1 January 2002—the amount that was the existing amount in relation to that provision, as calculated under this section immediately before the commencement of Schedule 2 to the Superannuation Legislation Amendment (Family Law and Other Matters) Act 2004; and
-	(b)	in relation to any subsequent prescribed half‑year—the amount that, because of a previous application or previous applications of subsection (2), is taken to have been substituted, or last substituted, for the amount specified in that provision.
+	(a)	in relation to the prescribed year that commenced on 1 July 1990:
+	(i)	in the case of paragraph 55(1)(b) or 57(1)(b)—$312; and
+	(ii)	in the case of subsection 55(2), 57(4) or 58(1)—$5,000;
+	(b)	in relation to any subsequent prescribed year—the amount that, because of a previous application or previous applications of subsection (2), is taken to have been substituted, or last substituted, for the amount specified in that provision.
 84D  Date of payment of increases
-		Subject to sections 84E and 84F, an increase payable by virtue of this Part in the rate of a pension that was, or is, under subsection 84(4), to be treated as having been, payable to a person on 30 June or 31 December (as the case requires) in a half‑year applies in relation to the instalment of pension falling due on the first pension pay‑day occurring after that day and in relation to all subsequent instalments.
-84E  Rate of invalidity pension payable on reclassification during a prescribed half‑year
+		Subject to sections 84E and 84F, an increase payable by virtue of this Part in the rate of a pension that was, or is, under subsection 84(4), to be treated as having been, payable to a person on 30 June in a year applies in relation to the instalment of pension falling due on the first pension pay‑day occurring after that day and in relation to all subsequent instalments.
+84E  Rate of invalidity pension payable on reclassification during a prescribed year
 	(1)	Where:
-	(a)	a person to whom pension is payable under section 52 is reclassified under section 53 during a prescribed half‑year;
-	(b)	the person became entitled at the commencement of that half‑year to an increase under this Part in the rate at which the pension was payable to him immediately before the commencement of that half‑year;
-the rate at which the pension is payable to him on and after the date from which the reclassification has effect is the rate at which the pension would have been payable to him at the commencement of that half‑year if his classification, on and after the date on which he became entitled to the pension, had been in accordance with the reclassification.
+	(a)	a person to whom pension is payable under section 52 is reclassified under section 53 during a prescribed year;
+	(b)	the person became entitled at the commencement of that year to an increase under this Part in the rate at which the pension was payable to him immediately before the commencement of that year;
+the rate at which the pension is payable to him on and after the date from which the reclassification has effect is the rate at which the pension would have been payable to him at the commencement of that year if his classification, on and after the date on which he became entitled to the pension, had been in accordance with the reclassification.
+	(2)	In ascertaining for the purposes of subsection (1), in relation to a reclassification that has effect on or after 10 October 1986, the rate at which a pension would have been payable to a person at the commencement of the prescribed year that commenced on 1 July 1986, the prescribed percentage for the purposes of section 84 in relation to that prescribed year shall, notwithstanding any other provision of this Act, be deemed to be 7.2%.
 	(3)	Where:
-	(a)	at the commencement of a prescribed half‑year a person entitled to invalidity benefit was classifed as Class C under subsection 51(2) but was not entitled to pension under section 52; and
-	(b)	during the prescribed half‑year the person is reclassified as Class A or Class B;
+	(a)	at the commencement of a prescribed year a person entitled to invalidity benefit was classifed as Class C under subsection 51(2) but was not entitled to pension under section 52; and
+	(b)	during the prescribed year the person is reclassified as Class A or Class B;
 the rate at which a pension is payable to the person on or after the day from which the reclassification has effect is the rate at which the pension would be payable to the person on that day if, at all times during the period during which the person was classified as Class C, the person had been classified as Class A or Class B (as the case may be).
-84F  Commutation of pension benefits during a prescribed half‑year
+84F  Commutation of pension benefits during a prescribed year
 	(1)	Section 74 does not authorize the commutation of a pension in so far as the pension has been increased by virtue of this Part.
 	(2)	Where:
-	(a)	a portion of the pension of a person is commuted during a prescribed half‑year; and
-	(b)	the person became entitled at the commencement of that half‑year to an increase under this Part in the rate at which pension was payable to him immediately before the commencement of that half‑year;
-the rate at which the pension is payable to him on and after the date on which that portion of the pension is so commuted is the rate at which the pension would have been payable to him at the commencement of that half‑year if he had so commuted that portion of his pension on the date on which he became entitled to the pension.
+	(a)	a portion of the pension of a person is commuted during a prescribed year; and
+	(b)	the person became entitled at the commencement of that year to an increase under this Part in the rate at which pension was payable to him immediately before the commencement of that year;
+the rate at which the pension is payable to him on and after the date on which that portion of the pension is so commuted is the rate at which the pension would have been payable to him at the commencement of that year if he had so commuted that portion of his pension on the date on which he became entitled to the pension.
+	(3)	In ascertaining for the purposes of subsection (2), in relation to the commutation of a pension on or after 10 October 1986, the rate at which a pension would have been payable to a person at the commencement of the prescribed year that commenced on 1 July 1986, the prescribed percentage for the purposes of section 84 in relation to that prescribed year shall, notwithstanding any other provision of this Act, be deemed to be 7.2%.
+84G  Adjustment of increased rate
+	(1)	Notwithstanding any other provision of this Act (other than section 84E in its operation in relation to a reclassification that has effect in the period commencing on 10 October 1986 and ending on 30 June 1987 and section 84F in its operation in relation to the commutation of portion of a pension in that period), where, because of the operation of another provision of this Part in relation to the prescribed year that commenced on 1 July 1986, the rate at which, but for this subsection, a pension would be payable on 10 October 1986 is higher than it would have been but for the operation of that provision of this Part, the rate at which that pension is payable is decreased, with effect from and including 10 October 1986, by the difference between the first‑mentioned rate and the rate that would have been the first‑mentioned rate if the prescribed percentage for the purposes of section 84 in relation to that prescribed year had been 7.2%.
+	(2)	Where a pension would, but for its suspension under section 53B, have been payable to a person on 10 October 1986, that pension shall, for the purposes of subsection (1), be deemed to have been payable to that person on that day.
+84GA  Pensions payable on or after 20 October 1989—variation of rate
+	(1)	Where:
+	(a)	a pension is payable to a person on 20 October 1989; and
+	(b)	at any time before that day, the rate at which the pension was payable to the person was affected because of the operation of subsection 84E(2) or 84F(3) or section 84G;
+the rate at which the pension is payable to the person on or after that day is the rate that would apply if subsection 84E(2) or 84F(3) or section 84G (as the case may be) had not been enacted.
+	(2)	Where:
+	(a)	a person to whom a pension was payable died before 20 October 1989; and
+	(b)	at any time before that day, the rate at which the pension was payable to the person was affected by the operation of subsection 84E(2) or 84F(3) or section 84G; and
+	(c)	because of that person’s death, or because of the death of that person and of a person to whom a pension became payable on the death of the first‑mentioned person, a pension is payable to another person;
+the rate at which the last‑mentioned pension is payable to that other person on or after 20 October 1989 is the rate that would apply if subsection 84E(2) or 84F(3) or section 84G (as the case may be) had not been enacted.
+	(3)	Where a pension would, but for its suspension under section 53B, be payable to a person on or after 20 October 1989, the pension is to be taken, for the purposes of this section, to be so payable to the person.
 
 Part VII—Miscellaneous
   
@@ -1398,7 +1414,6 @@ Note 1
 The Defence Forces Retirement Benefits Act 1948 as shown in this compilation comprises Act No. 31, 1948 amended as indicated in the Tables below.
 All relevant information pertaining to application, saving or transitional provisions prior to 22 March 2001 is not included in this compilation. For subsequent informaion see Table A.
 Table of Acts
-Table of Acts
 Act
 Number  and year
 Date  of Assent
@@ -1463,12 +1478,7 @@ Defence Forces Retirement Benefits Act 1959
 103, 1959
 4 Dec 1959
 14 Dec 1959
-Ss. 39–43, 45, 46, 48, 52–56,  66–70,  72–74, 76, 77,  80–86 S. 38 (am. by 67, 1962, s. 14) S. 44 (am. by 15, 1961, s. 3) S. 47 (am. by 15, 1961, s. 4; 98, 1965, s. 16) S. 49 (am. by 67, 1962, s. 15) S. 50 (am. by 67, 1962, s. 16) S. 50A (ad. by 67, 1962, s. 17) S. 51 (am. by 67, 1962, s. 18) S. 57 (rs. by 98, 1965, s. 17) S. 58 (rs. by 15, 1961, s. 5) S. 58A (ad. by 67, 1962, s. 19) S. 61 (am. by 70, 1966, s. 8; 128, 1968, s. 22(1)) S. 62 (am. by 15, 1961, s. 6) S. 63 (am. by 15, 1961, s. 7; 93, 1966, s. 3) S. 64 (am. by 15, 1961, s. 8; 93, 1966, s. 3) 
-Defence Forces Retirement Benefits Act 1959—cvontinued
-
-
-
-S. 65 (am. by 128, 1968, s. 22(3)) S. 71 (am. by 15, 1961, s. 9) S. 75 (am. by 15, 1961, s. 10) S. 78 (am. by 15, 1961, s. 11) S. 79 (am. by 15, 1961, s. 12) S. 79A (ad. by 67, 1962, s. 20)
+S. 38 (am. by 67, 1962, s. 14) Ss. 39–43, s. 44 (am. by 15, 1961, s. 3) Ss. 45 and 46, s. 47 (am. by 15, 1961, s. 4; 98, 1965, s. 16) S. 48, s. 49 (am. by 67, 1962, s. 15) S. 50 (am. by 67, 1962, s. 16) S. 50A (ad. by 67, 1962, s. 17) S. 51 (am. by 67, 1962, s. 18) Ss. 52–56, s. 57 (rs. by 98, 1965, s. 17) S. 58 (rs. by 15, 1961, s. 5) S. 58A (ad. by 67, 1962, s. 19) S. 61 (am. by 70, 1966, s. 8; 128, 1968, s. 22(1)) S. 62 (am. by 15, 1961, s. 6) S. 63 (am. by 15, 1961, s. 7; 93, 1966, s. 3) S. 64 (am. by 15, 1961, s. 8; 93, 1966, s. 3) S. 65 (am. by 128, 1968, s. 22(3))Ss. 66–70, S. 71 (am. by 15, 1961, s. 9) Ss. 72–74, s. 75 (am. by 15, 1961, s. 10) Ss. 76 and 77, s. 78 (am. by 15, 1961, s. 11) S. 79 (am. by 15, 1961) S. 79A (ad. by 67, 1962, s. 20) Ss. 80–86
 as amended by
 
 
@@ -1764,11 +1774,7 @@ Defence Legislation Amendment Act 2003
 17 Dec 2003
 Schedule 2 (item 28): (i)
 —
-Superannuation Legislation Amendment (Family Law and Other Matters) Act 2004
-58, 2004
-4 May 2004
-Ss. 4, 5 and Schedule 2: Royal Assent Schedule 1 (items 4–7): [see Note 2]
-Ss. 4 and 5 [see Table A]
+
 (a)	The Defence Forces Retirement Benefits Act 1948 comprises the Defence Forces Retirement Benefits Act 1948 (which was proclaimed to commence on 2 July 1948: see Gazette 1948, p. 2583) as amended by the other Acts specified in the Table of Acts. Many of the amending Acts specified in that table made express provision in relation to the commencement and application of the amendments. By reason that the Defence Force Retirement and Death Benefits Act 1973 has, in the main, superseded the Defence Forces Retirement Benefits Act 1948, references are not made in the table to those provisions. If required, particulars relating to those provisions and to the saving and transitional provisions made by the amending Acts are to be found in the annual volumes of Acts for the respective years in which the amending Acts were enacted. 
 (b)	The Defence Forces Retirement Benefits Act 1959 was amended by section 3 only of the Statute Law Revision (Decimal Currency) Act 1966, subsection 2(1) of which provides as follows: 
 	(1)	Subject to the next succeeding subsection, this Act shall come into operation on the first day of December, One thousand nine hundred and sixty‑six.
@@ -1797,6 +1803,7 @@ Date/Details
 9.  Schedule 2, item 28
 Immediately after the commencement of section 2 of the Defence Legislation Amendment (Application of Criminal Code) Act 2001
 1 October 2001
+
 Table of Amendments
 ad. = added or inserted     am. = amended     rep. = repealed     rs. = repealed and substituted
 Provision affected
@@ -2515,57 +2522,47 @@ Part VID
 Part VID 	
 ad. No. 13, 1977 
 S. 83 	
-rep. No. 82, 1973
+rep. No. 82, 1973 
 
-ad. No. 13, 1977
+ad. No. 13, 1977 
 
-am. No. 164, 1984; No. 65, 1987; No. 58, 2004
+am. No. 164, 1984; No. 65, 1987 
 S. 84 	
 am. No. 135, 1965 
 
 rep. No. 82, 1973 
 
-ad. No. 13, 1977
+ad. No. 13, 1977 
 
-am. No. 65, 1987; No. 58, 2004
+am. No. 65, 1987 
 S. 84A 	
-ad. No. 13, 1977
-
-am. No. 58, 2004
+ad. No. 13, 1977 
 S. 84B 	
-ad. No. 13, 1977
+ad. No. 13, 1977 
 
-am. No. 161, 1977; No. 58, 2004
+am. No. 161, 1977 
 S. 84C 	
-ad. No. 13, 1977
+ad. No. 13, 1977 
 
-rs. No. 161, 1977
+rs. No. 161, 1977 
 
-am. No. 164, 1984; No. 21, 1991; No. 58, 2004
+am. No. 164, 1984; No. 21, 1991 
 S. 84D 	
-ad. No. 13, 1977
+ad. No. 13, 1977 
 
-am. No. 164, 1984; No. 58, 2004
-Heading to s. 84E	
-am. No. 58, 2004
+am. No. 164, 1984 
 S. 84E 	
-ad. No. 13, 1977
+ad. No. 13, 1977 
 
-am. No. 93, 1986; No. 126, 1991; No. 58, 2004
-Heading to s. 84F	
-am. No. 58, 2004
+am. No. 93, 1986; No. 126, 1991 
 S. 84F 	
-ad. No. 13, 1977
+ad. No. 13, 1977 
 
-am. No. 93, 1986; No. 58, 2004
+am. No. 93, 1986 
 S. 84G 	
-ad. No. 93, 1986
-
-rep. No. 58, 2004
+ad. No. 93, 1986 
 S. 84GA 	
-ad. No. 125, 1989
-
-rep. No. 58, 2004
+ad. No. 125, 1989 
 Part VII
 
 S. 85 	
@@ -2644,82 +2641,6 @@ rs. No. 20, 1954
 rep. No. 103, 1959 
 
 
-Note 2
-Superannuation Legislation Amendment (Family Law and Other Matters) Act 2004 (No. 58, 2004)
-The following amendments commence on 18 May 2004:
-Schedule 1
-4  Before subsection 57(1)
-Insert:
-	(1AA)	A male person is not to be treated as a male pensioner for the purposes of this section merely because the person, at the time of his death, was receiving associate pension under Part VIA.
-5  At the end of section 58
-Add:
-	(3)	A person is not to be treated as a pensioner for the purposes of this section merely because the person, at the time of his or her death, was receiving associate pension under Part VIA.
-6  After Part V
-Insert:
-Part VIA—Family law superannuation splitting
-Division 1—Preliminary
-80A  Definitions
-		In this Part, unless the contrary intention appears:
-associate pension means associate pension under section 80B.
-base amount means:
-	(a)	for a splitting agreement—the base amount specified in, or calculated under, the agreement; or
-	(b)	for a splitting order—the amount allocated under subsection 90MT(4) of the Family Law Act 1975.
-Chairman means the Chairman of the Authority.
-family law value means the amount determined in accordance with regulations under the Family Law Act 1975 that apply for the purposes of paragraph 90MT(2)(a) of the Family Law Act 1975. In applying those regulations, the relevant date is taken to be the date on which the operative time occurs.
-Note:	This amount is determined by applying those regulations, whether or not an order has been made under subsection 90MT(1) of the Family Law Act 1975.
-member spouse has the same meaning as in Part VIIIB of the Family Law Act 1975.
-non‑member spouse has the same meaning as in Part VIIIB of the Family Law Act 1975.
-non‑standard pension means pension under this Act other than standard pension.
-operative time, in relation to a splitting agreement or splitting order, means the time that is the operative time for the purposes of Part VIIIB of the Family Law Act 1975 in relation to a payment split under the agreement or order.
-Orders means Orders under section 80E.
-original interest means a superannuation interest to which section 80B applies.
-payment split has the same meaning as in Part VIIIB of the Family Law Act 1975.
-scheme value means the amount determined under the Orders.
-splitting agreement means:
-	(a)	a superannuation agreement (within the meaning of Part VIIIB of the Family Law Act 1975); or
-	(b)	a flag lifting agreement (within the meaning of Part VIIIB of the Family Law Act 1975) that provides for a payment split.
-splitting order has the same meaning as in Part VIIIB of the Family Law Act 1975.
-splitting percentage means:
-	(a)	for a splitting agreement—the percentage specified in the agreement under subparagraph 90MJ(1)(c)(iii) of the Family Law Act 1975; or
-	(b)	for a splitting order—the percentage specified in the order under subparagraph 90MT(1)(b)(i) of the Family Law Act 1975.
-standard pension means any of the following:
-	(a)	pension under section 38, 39, 41 or 43;
-	(b)	invalidity benefit;
-	(c)	pension under section 55 or 57;
-	(d)	associate pension.
-superannuation interest has the same meaning as in Part VIIIB of the Family Law Act 1975.
-transfer amount means:
-	(a)	if a splitting percentage applies—the amount calculated by multiplying the splitting percentage by the greater of:
-	(i)	the family law value; and
-	(ii)	the scheme value; or
-	(b)	if a base amount applies and the scheme value is not more than the family law value—the base amount; or
-	(c)	if a base amount applies and the scheme value is more than the family law value—the amount calculated using the formula:
-		
-Division 2—Benefits for non‑member spouse
-80B  Associate pension for non‑member spouse
-	(1)	This section applies to a superannuation interest under this Act (the original interest) if:
-	(a)	the Chairman receives a splitting agreement or splitting order in respect of the original interest; and
-	(b)	the original interest is not an entitlement to pension under paragraph 57(1)(b), subsection 57(4) or (5) or section 58; and
-	(c)	the member spouse and the non‑member spouse are both alive at the operative time; and
-	(d)	if a base amount applies—the base amount at the operative time is not more than the family law value or the scheme value.
-	(2)	The non‑member spouse is entitled to associate pension from the operative time, at the rate calculated under the Orders by reference to the transfer amount.
-80C  Commutation of small associate pension
-	(1)	If the annual rate of associate pension to which the non‑member spouse becomes entitled is less than the amount determined under the Orders, then the non‑member spouse may elect to commute the pension.
-	(2)	The election must be made in writing to the Chairman not later than 3 months after the non‑member spouse becomes entitled to the pension.
-	(3)	If the non‑member spouse makes the election, then the non‑member spouse is entitled instead to a lump sum equal to the transfer amount.
-Division 3—Reduction of benefits for member spouse
-80D  Reduction of standard pension
-	(1)	The annual rate of standard pension that is payable at the operative time in respect of the original interest is reduced to the amount calculated under the Orders.
-	(2)	A reduction under this section is to be disregarded in calculating the amount of any non‑standard pension that later becomes payable.
-Note:	For example, the reduction will be disregarded in calculating the amount of pension under paragraph 57(1)(b) payable in respect of a child of the member spouse after the member spouse’s death.
-Division 4—Miscellaneous
-80E  Ministerial Orders
-	(1)	The Minister may make Orders prescribing matters required or permitted by this Part to be prescribed.
-	(2)	An Order is a disallowable instrument for the purposes of section 46A of the Acts Interpretation Act 1901.
-	(3)	An Order is taken to be a statutory rule for the purposes of the Statutory Rules Publication Act 1903.
-7  Subsection 83(1) (at the end of the definition of pension)
-Add “, but does not include associate pension under Part VIA of this Act”.
-As at 6 May 2004 the amendments are not incorporated in this compilation.
 Table A
 Application, saving or transitional provisions
 Defence Legislation Amendment (Enhancement of the Reserves and Modernisation) Act 2001 (No. 10, 2001)
@@ -2740,18 +2661,4 @@ Defence Legislation Amendment (Application of Criminal Code) Act 2001 (No. 141
 Schedule 1
 95  Saving—regulations
 Regulations that were in effect for the purposes of subsection 69(7) of the Defence Forces Retirement Benefits Act 1948 immediately before the commencement of this item continue to have effect after that time as if they had been made for the purposes of subsection 69(7) of that Act, as in force after that time.
-
-Superannuation Legislation Amendment (Family Law and Other Matters) Act 2004 (No. 58, 2004)
-4  Application of family law interest‑splitting amendments
-	(1)	The family law interest‑splitting amendments apply to:
-	(a)	any splitting agreement, or splitting order, that has an operative time after the commencement of Schedule 1; and
-	(b)	a splitting agreement, or splitting order, with an earlier operative time, if no benefits had become payable before the commencement of Schedule 1 in respect of the superannuation interest to which the agreement or order relates.
-	(2)	In this section:
-family law interest‑splitting amendments means the amendments made by Schedule 1, other than items 24 and 34.
-5  Application of indexation amendments
-		The amendments made by Schedule 2 apply:
-	(a)	for the purpose of working out an increase in the rate of a pension benefit that is payable immediately before:
-	(i)	the prescribed half‑year beginning on 1 January 2004; and
-	(ii)	each subsequent prescribed half‑year; and
-	(b)	for any other purpose related to the purpose mentioned in paragraph (a).
 
