@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00557/Html/755191fd-8107-4c63-934e-d5ced1f64e85_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00047/Html/0a5c191b-6c9e-4b35-bbf4-c767fe3ca4ba_files/image001.gif)
 
 # Australian Maritime Safety Authority Act 1990
 
 **Act No. 78 of 1990 as amended**
 
-This compilation was prepared on 24 July 2012
- taking into account amendments up to Act No. 82 of 2012
+This compilation was prepared on 27 December 2011
+ taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -934,29 +934,7 @@ the Authority must inform the Minister in writing of the notice and its contents
 
 ##### <a id="48"></a>48  Payment of amounts of levy to Authority
 
-             (1)  There are to be paid to the Authority amounts equal to:
-
-                     (a)  amounts of levy received, or purportedly received, by the Commonwealth under:
-
-                              (i)  the _Marine Navigation Levy Act 1989_; and
-
-                             (ii)  the _Marine Navigation (Regulatory Functions) Levy Act 1991_; and
-
-                            (iii)  the _Protection of the Sea (Shipping Levy) Act 1981_; and
-
-                     (b)  amounts received, or purportedly received, by the Commonwealth, under section 8 of the _Protection of the Sea (Shipping Levy Collection) Act 1981_, as amounts on account of levy; and
-
-                     (c)  amounts of penalty received, or purportedly received, by the Commonwealth under:
-
-                              (i)  the _Marine Navigation Levy Collection Act 1989_; and
-
-                             (ii)  the _Marine Navigation (Regulatory Functions) Levy Collection Act 1991_; and
-
-                            (iii)  the _Protection of the Sea (Shipping Levy Collection) Act 1981_.
-
-          (1A)  If an amount referred to in paragraph (1)(a), (b) or (c) is refunded, the Authority must pay to the Commonwealth an amount equal to the refund.
-
-          (1B)  The Minister may, on behalf of the Commonwealth, set off an amount payable by the Authority under subsection (1A) against an amount that is payable to the Authority under subsection (1).
+             (1)  There are to be paid to the Authority amounts equal to amounts of levy, and amounts by way of penalty, received by the Commonwealth under the _Marine Navigation Levy Act 1989_, the _Marine Navigation (Regulatory Functions) Levy Act 1991_ or the _Protection of the Sea (Shipping Levy) Act 1981_.
 
              (2)  Amounts payable under subsection (1) are to be paid out of the Consolidated Revenue Fund, which is appropriated accordingly.
 
@@ -1030,7 +1008,7 @@ Note:          For rules that apply to acting appointments, se
 
 ##### <a id="57"></a>57  Delegation by Minister
 
-                   The Minister may, by signed instrument, delegate all or any of the powers of the Minister under section 30, 31, 34, 48 or 59 to:
+                   The Minister may, by signed instrument, delegate all or any of the powers of the Minister under section 30, 31, 34 or 59 to:
 
                      (a)  the person holding or performing the duties of the office of Secretary of the Department; or
 
@@ -1564,23 +1542,6 @@ Royal Assent</div>
   <td>
     <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Framework Legislation Amendment Act (No. 2) 2012</div>
-  </td>
-  <td>
-    <div>82, 2012</div>
-  </td>
-  <td>
-    <div>28 June 2012</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 24–26): 29 June 2012</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 26) \[ <i>see</i>Table A]</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Australian Maritime Safety Authority Act 1990_ was amended by Part 2 (sections 4–6) only of the _Transport Legislation Amendment Act 1991_, subsection 2(3) of which provides as follows:
@@ -2107,7 +2068,7 @@ _(l)_ Subsection 2(1) (item 2) of the _Transport Safety Investigation (Consequ
     <div>S. 48</div>
   </td>
   <td>
-    <div>am. Nos. 41 and 173, 1991; No. 82, 2012</div>
+    <div>am. Nos. 41 and 173, 1991</div>
   </td>
 </tr>
 <tr>
@@ -2179,7 +2140,7 @@ _(l)_ Subsection 2(1) (item 2) of the _Transport Safety Investigation (Consequ
     <div>S. 57</div>
   </td>
   <td>
-    <div>am. No. 146, 1999; No. 5, 2011; No. 82, 2012</div>
+    <div>am. No. 146, 1999; No. 5, 2011</div>
   </td>
 </tr>
 <tr>
@@ -2230,18 +2191,5 @@ The amendments made by Schedule 2 do not affect the validity of an appointment
 ## 11  Transitional regulations
 
 The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
-
-* * *
-
-_Financial Framework Legislation Amendment Act (No. 2) 2012
- (No. 82, 2012)_
-
-## Schedule 1
-
-## 26  Application—section 48 of the _Australian Maritime Safety Authority Act 1990_
-
-(1)       Despite the repeal of subsection 48(1) of the _Australian Maritime Safety Authority Act 1990_ by this Schedule, that subsection continues to apply, after the commencement of this item, in relation to amounts received by the Commonwealth before the commencement of this item, as if that repeal had not happened.
-
-(2)       Subsection 48(1) of the _Australian Maritime Safety Authority Act 1990_ as amended by this Schedule applies in relation to amounts received by the Commonwealth after the commencement of this item.
 
  
