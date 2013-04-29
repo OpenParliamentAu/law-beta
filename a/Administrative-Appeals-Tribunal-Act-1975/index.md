@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00218/Html/AdminAppealsTribunal75AE_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00359/Html/AdminAppealsTribunal75_image001.gif)
 
 # Administrative Appeals Tribunal Act 1975
 
 **Act No. 91 of 1975 as amended**
 
-This compilation was prepared on 27 June 2008
- taking into account amendments up to Act No. 26 of 2008
+This compilation was prepared on 1 July 2007
+ taking into account amendments up to Act No. 21 of 2007
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -719,9 +719,7 @@ Retirement on ground of incapacity
 
                      (a)  an eligible employee for the purposes of the _Superannuation Act 1976_; or
 
-                     (b)  a member of the superannuation scheme established by deed under the _Superannuation Act 1990_; or
-
-                     (c)  an ordinary employer-sponsored member of PSSAP, within the meaning of the _Superannuation Act 2005_;
+                     (b)  a member of the superannuation scheme established by deed under the _Superannuation Act 1990_;
 
 retire the member from office on the ground of incapacity.
 
@@ -739,9 +737,9 @@ CSS
 
                      (a)  is an eligible employee for the purposes of the _Superannuation Act 1976_; and
 
-                     (b)  has not reached his or her maximum retiring age (within the meaning of that Act);
+                     (b)  has not reached his or her maximum retiring age within the meaning of that Act;
 
-is not capable of being retired from office on the ground of invalidity (within the meaning of Part IVA of that Act) unless the Board (within the meaning of that Act) has given a certificate under section 54C of that Act.
+is not capable of being retired from office on the ground of invalidity within the meaning of Part IVA of that Act unless the Commonwealth Superannuation Board of Trustees No. 2 has given a certificate under section 54C of that Act.
 
 PSS
 
@@ -751,17 +749,7 @@ PSS
 
                      (b)  is under 60 years of age;
 
-is not capable of being retired from office on the ground of invalidity (within the meaning of that Act) unless the Board (within the meaning of that Act) has given a certificate under section 13 of that Act.
-
-PSSAP
-
-           (14)  In spite of anything contained in this section, a member who:
-
-                     (a)  is an ordinary employer-sponsored member of PSSAP, within the meaning of the _Superannuation Act 2005_; and
-
-                     (b)  is under 60 years of age;
-
-is not capable of being retired from office on the ground of invalidity (within the meaning of that Act) unless the Board (within the meaning of that Act) has given an approval and certificate under section 43 of that Act.
+is not capable of being retired from office on the ground of invalidity within the meaning of that Act unless the Commonwealth Superannuation Board of Trustees No. 1 has given a certificate under section 13 of that Act.
 
 ##### <a id="14"></a>14  Disclosure of interests by members
 
@@ -877,7 +865,7 @@ President may give directions
 
 ### Division 3—Constitution and reconstitution of the Tribunal
 
-##### <a id="20B"></a>20B  President may give directions as to constitution of Tribunal
+##### <a id="20B"></a>20B  President may give directions as to constitution of Tribunal
 
              (1)  The President may give directions as to the persons who are to constitute the Tribunal for the purposes of a particular proceeding.
 
@@ -1411,9 +1399,7 @@ the following provisions apply:
 
                      (a)  an eligible employee for the purposes of the _Superannuation Act 1976_; or
 
-                     (b)  a member of the superannuation scheme established by deed under the _Superannuation Act 1990_; or
-
-                     (c)  an ordinary employer-sponsored member of PSSAP, within the meaning of the _Superannuation Act 2005_;
+                     (b)  a member of the superannuation scheme established by deed under the _Superannuation Act 1990_;
 
 the Governor-General may, with the Registrar’s consent, retire the Registrar from office on the ground of incapacity.
 
@@ -1421,9 +1407,9 @@ the Governor-General may, with the Registrar’s consent, retire the Registrar f
 
                      (a)  is an eligible employee for the purposes of the _Superannuation Act 1976_; and
 
-                     (b)  has not reached his or her maximum retiring age (within the meaning of that Act);
+                     (b)  has not reached his or her maximum retiring age within the meaning of that Act;
 
-is not capable of being retired from office on the ground of invalidity (within the meaning of Part IVA of that Act) unless the Board (within the meaning of that Act) has given a certificate under section 54C of that Act.
+is not capable of being retired from office on the ground of invalidity within the meaning of Part IVA of that Act unless the Commonwealth Superannuation Board of Trustees No. 2 has given a certificate under section 54C of that Act.
 
              (5)  In spite of anything contained in this section, a Registrar who:
 
@@ -1431,15 +1417,7 @@ is not capable of being retired from office on the ground of invalidity (within 
 
                      (b)  is under 60 years of age;
 
-is not capable of being retired from office on the ground of invalidity (within the meaning of that Act) unless the Board (within the meaning of that Act) has given a certificate under section 13 of that Act.
-
-             (6)  In spite of anything contained in this section, a Registrar who:
-
-                     (a)  is an ordinary employer-sponsored member of PSSAP, within the meaning of the _Superannuation Act 2005_; and
-
-                     (b)  is under 60 years of age;
-
-is not capable of being retired from office on the ground of invalidity (within the meaning of that Act) unless the Board (within the meaning of that Act) has given an approval and certificate under section 43 of that Act.
+is not capable of being retired from office on the ground of invalidity within the meaning of that Act unless the Commonwealth Superannuation Board of Trustees No. 1 has given a certificate under section 13 of that Act.
 
 ##### <a id="24L"></a>24L  Disclosure of interests by Registrar
 
@@ -1977,7 +1955,7 @@ Authorised Conference Registrar
 
 ##### <a id="34"></a>34  Scope of Division
 
-                   This Division does not apply to a proceeding in the Security Appeals Division to which section 39A applies.
+                   This Division does not apply to a proceeding in the Security Appeals Division to which section 39A applies.
 
 ##### <a id="34A"></a>34A  Referral of proceeding for alternative dispute resolution process
 
@@ -5021,23 +4999,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>Sch. 3 (items 14, 15) \[ <i>see</i>Table A]</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Superannuation Legislation Amendment (Trustee Board and Other Measures) (Consequential Amendments) Act 2008</div>
-  </td>
-  <td>
-    <div>26, 2008</div>
-  </td>
-  <td>
-    <div>23 June 2008</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 1–8): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Administrative Appeals Tribunal Act 1975_ was amended by section 3 only of the _Administrative Changes (Consequential Provisions) Act 1976_, subsection 2(2) of which provides as follows: 
@@ -5554,31 +5515,7 @@ _(ze)_ The _Administrative Appeals Tribunal Act 1975_ was amended by Schedule 
 </tr>
 <tr>
   <td>
-    <div>Subheads. to s. 13(9)–(11)</div>
-  </td>
-  <td>
-    <div>ad. No. 38, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 13(12)</div>
-  </td>
-  <td>
-    <div>ad. No. 38, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 26, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 13(13)</div>
+    <div>Subheads. to s. 13(9)–(13)</div>
   </td>
   <td>
     <div>ad. No. 38, 2005</div>
@@ -5589,7 +5526,7 @@ _(ze)_ The _Administrative Appeals Tribunal Act 1975_ was amended by Schedule 
     <div>S. 13</div>
   </td>
   <td>
-    <div>am. No. 58, 1977; No. 26, 1982; No. 94, 1992; No. 175, 1995; No. 38, 2005; No. 26, 2008</div>
+    <div>am. No. 58, 1977; No. 26, 1982; No. 94, 1992; No. 175, 1995; No. 38, 2005</div>
   </td>
 </tr>
 <tr>
@@ -6165,7 +6102,7 @@ _(ze)_ The _Administrative Appeals Tribunal Act 1975_ was amended by Schedule 
     <div>S. 24K</div>
   </td>
   <td>
-    <div>ad. No. 157, 1989; No. 26, 2008</div>
+    <div>ad. No. 157, 1989</div>
   </td>
 </tr>
 <tr>
