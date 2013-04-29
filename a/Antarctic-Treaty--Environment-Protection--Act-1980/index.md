@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00566/Html/ae5540ec-0487-4559-9632-f8d8cff3cf26_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00272/Html/AntarcticTreatEnviroProt80_2002_image001.gif)
 
 # Antarctic Treaty (Environment Protection) Act 1980
 
 **Act No. 103 of 1980 as amended**
 
-This compilation was prepared on 25 July 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 1 April 2010
+ taking into account amendments up to Act No. 23 of 2010
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -282,9 +282,9 @@ BE IT THEREFORE ENACTED by the Queen, and the Senate and the House of Representa
 
                      (b)  when used as a noun, includes ice.
 
-                    <a name="madrid-protocol"></a>**_Madrid Protocol_** means the Protocol on Environmental Protection to the Antarctic Treaty, a copy of the English text of which (apart from Annex IV to it) is set out in Schedule 3, being the Protocol done, and opened for signature, at Madrid on 4 October 1991 to which, in accordance with Recommendation XVI‑10 adopted by the XVIth Antarctic Treaty Consultative Meeting at Bonn on 18 October 1991, the Annex attached to that Recommendation has been added as Annex V to the Protocol.
+                    <a name="madrid-protocol"></a>**_Madrid Protocol_** means the Protocol on Environmental Protection to the Antarctic Treaty, a copy of the English text of which (apart from Annex IV to it) is set out in Schedule 3, being the Protocol done, and opened for signature, at Madrid on 4 October 1991 to which, in accordance with Recommendation XVI-10 adopted by the XVIth Antarctic Treaty Consultative Meeting at Bonn on 18 October 1991, the Annex attached to that Recommendation has been added as Annex V to the Protocol.
 
-                    <a name="miner"></a>**_mineral_** means any non‑living, non‑renewable natural resource.
+                    <a name="miner"></a>**_mineral_** means any non-living, non-renewable natural resource.
 
                     <a name="mine-activ"></a>**_mining activity_** means an activity carried on for, or in connection with, the recovery or exploitation of minerals (including prospecting and exploring for minerals), but does not include an activity that is necessary for scientific investigation or scientific research within the meaning of the Treaty.
 
@@ -432,7 +432,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (b)  an area of any such land and any such sea.
 
-             (2)  Subject to subsection (4), the Governor‑General may:
+             (2)  Subject to subsection (4), the Governor-General may:
 
                      (a)  by Proclamation, declare an area specified in the Proclamation to be an Antarctic specially protected area; and
 
@@ -444,15 +444,15 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (a)  the subsoil beneath any land within the area, extending to the depth below the surface that is specified in the Proclamation; and
 
-                     (b)  the waters and sea‑bed beneath any ice shelf or sea within the area; and
+                     (b)  the waters and sea-bed beneath any ice shelf or sea within the area; and
 
-                     (c)  the subsoil beneath any such sea‑bed, extending to the depth below the sea‑bed that is specified in the Proclamation;
+                     (c)  the subsoil beneath any such sea-bed, extending to the depth below the sea-bed that is specified in the Proclamation;
 
 is taken to be within the Antarctic specially protected area or the Antarctic specially managed area.
 
              (5)  An area that was, immediately before the commencement of this section, a specially protected area or a site of special scientific interest is taken, for the purposes of this Act, to have been declared to be an Antarctic specially protected area by a Proclamation made under subsection (2) on the commencement of this section.
 
-             (6)  The Governor‑General may, by Proclamation:
+             (6)  The Governor-General may, by Proclamation:
 
                      (a)  vary the boundaries of an Antarctic specially protected area or Antarctic specially managed area in accordance with an amendment of the management plan adopted by the Antarctic Treaty Consultative Parties; or
 
@@ -460,11 +460,11 @@ is taken to be within the Antarctic specially protected area or the Antarctic sp
 
 ##### <a id="8A"></a>8A  Historic sites and monuments
 
-             (1)  Subject to subsection (2), the Governor‑General may, by Proclamation, declare a site or monument specified in the Proclamation to be an historic site or an historic monument.
+             (1)  Subject to subsection (2), the Governor-General may, by Proclamation, declare a site or monument specified in the Proclamation to be an historic site or an historic monument.
 
              (2)  A site or a monument may not be declared to be an historic site or an historic monument unless the Antarctic Treaty Consultative Parties have approved the listing of the site or monument as an historic site or an historic monument under Article 8 of Annex V to the Madrid Protocol.
 
-             (3)  The Governor‑General may, by Proclamation, vary or revoke a Proclamation made under subsection (1) in respect of a site or monument if the Antarctic Treaty Consultative Parties have amended or revoked the listing of the site or monument as an historic site or historic monument.
+             (3)  The Governor-General may, by Proclamation, vary or revoke a Proclamation made under subsection (1) in respect of a site or monument if the Antarctic Treaty Consultative Parties have amended or revoked the listing of the site or monument as an historic site or historic monument.
 
 ##### <a id="9"></a>9  Grant and renewal of permit
 
@@ -488,9 +488,9 @@ is taken to be within the Antarctic specially protected area or the Antarctic sp
 
                      (h)  an activity mentioned in paragraph 19AB(a), if the seal, bird or plant is a native seal, native bird or native plant.
 
-       (1AB)  Subsection (1) is subject to this section and to section 10.
+        (1AB)  Subsection (1) is subject to this section and to section 10.
 
-       (1AC)  The Minister may grant a permit under subsection (1) subject to such conditions as the Minister thinks fit.
+        (1AC)  The Minister may grant a permit under subsection (1) subject to such conditions as the Minister thinks fit.
 
           (1A)  The permit must specify the area in which the activity is to be carried on.
 
@@ -596,7 +596,7 @@ and the permit may be expressed to apply to all those members or persons or to s
 
           (1C)  A permit authorising a person to gather or collect a meteorite, or to remove a rock or a meteorite, must be expressed so as to ensure, as far as possible, that the activities authorised by the permit will be carried on only to the extent that they are necessary for providing specimens for scientific research, public education (including display in museums or other educational or cultural institutions) or such other educational or cultural purposes as the Minister thinks fit.
 
-          (1D)  A permit authorising a person to bring into the Antarctic a native seal, native bird or native plant must be expressed so as to ensure, as far as possible, that the person takes all reasonable precautions to prevent the introduction of micro‑organisms not present in the Antarctic.
+          (1D)  A permit authorising a person to bring into the Antarctic a native seal, native bird or native plant must be expressed so as to ensure, as far as possible, that the person takes all reasonable precautions to prevent the introduction of micro-organisms not present in the Antarctic.
 
              (2)  A permit must not authorise a person to bring into the Antarctic:
 
@@ -672,7 +672,7 @@ and the permit may be expressed to apply to all those members or persons or to s
 
                    In this Part, unless the contrary intention appears:
 
-                    <a name="environ"></a>**_environment_** means the Antarctic environment and dependent and associated eco‑systems.
+                    <a name="environ"></a>**_environment_** means the Antarctic environment and dependent and associated eco-systems.
 
 ##### <a id="12B"></a>12B  Object of Part
 
@@ -1016,7 +1016,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                             (iii)  causes other interference with a native bird, a native invertebrate or a native seal in the Antarctic; or
 
-                          (iiia)  disturbs a native bird or native seal; or
+                           (iiia)  disturbs a native bird or native seal; or
 
                             (iv)  causes injury to or other interference with a native plant in the Antarctic.
 
@@ -1032,13 +1032,13 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                     (ca)  bring into, or keep in, the Antarctic:
 
-                              (i)  non‑sterile soil; or
+                              (i)  non-sterile soil; or
 
                              (ii)  polychlorinated biphenyls; or
 
                             (iii)  polystyrene beads or chips or any similar kind of packaging material; or
 
-                   (cb)  bring into, or keep in, the Antarctic any pesticide; or
+                    (cb)  bring into, or keep in, the Antarctic any pesticide; or
 
                      (d)  enter, or carry on any other activity in, an Antarctic specially protected area; or
 
@@ -1094,7 +1094,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                      (b)  in the case of action of a kind referred to in paragraph (1)(c)—the animal (not being a live bird), plant, virus, bacterium, yeast or fungus, as the case may be, was brought into the Antarctic to be used as food; or
 
-                   (ba)  in the case of action of a kind referred to in paragraph (1)(cb)—the pesticide is to be used for scientific, medical or hygienic purposes; or
+                    (ba)  in the case of action of a kind referred to in paragraph (1)(cb)—the pesticide is to be used for scientific, medical or hygienic purposes; or
 
                      (c)  the action in question was done in accordance with a permit or a recognised foreign authority; or
 
@@ -1344,11 +1344,11 @@ Note:          The defendant bears an evidential burden in rel
 
 ##### <a id="25"></a>25  Officers and employees of governments and authorities
 
-                   The Governor‑General may make arrangements with the Governor of a State or the Administrator of the Northern Territory for the performance of functions and the exercise of powers under this Act by officers or employees of that State or Territory or of an authority of that State or Territory, as the case may be.
+                   The Governor-General may make arrangements with the Governor of a State or the Administrator of the Northern   Territory for the performance of functions and the exercise of powers under this Act by officers or employees of that State or Territory or of an authority of that State or Territory, as the case may be.
 
 ##### <a id="26"></a>26  Programs etc. relating to the Antarctic
 
-                   The Minister may cause, make arrangements for, or co‑operate with any government, organization or person in:
+                   The Minister may cause, make arrangements for, or co-operate with any government, organization or person in:
 
                      (a)  the formulation and implementation of programs;
 
@@ -1382,7 +1382,7 @@ relating to the conservation of Antarctic fauna and flora and the protection of 
 
 ##### <a id="29"></a>29  Regulations
 
-             (1)  The Governor‑General may make regulations:
+             (1)  The Governor-General may make regulations:
 
                      (a)  not inconsistent with this Act, prescribing matters:
 
@@ -1402,7 +1402,7 @@ relating to the conservation of Antarctic fauna and flora and the protection of 
 
                      (a)  providing for functions and powers to be conferred, and duties to be imposed, upon inspectors;
 
-                   (ab)  providing for the payment of a fee in the amount, or at the rate, fixed by or calculated under the regulations in respect of:
+                    (ab)  providing for the payment of a fee in the amount, or at the rate, fixed by or calculated under the regulations in respect of:
 
                               (i)  the processing of an application for a permit; or
 
@@ -1458,7 +1458,7 @@ _Recognizing_ the general concern about the vulnerability of Antarctic seals to 
 
 _Recognizing_ that the stocks of Antarctic seals are an important living resource in the marine environment which requires an international agreement for its effective conservation;
 
-_Recognizing_ that this resource should not be depleted by over‑exploitation, and hence that any harvesting should be regulated so as not to exceed the levels of the optimum sustainable yield;
+_Recognizing_ that this resource should not be depleted by over-exploitation, and hence that any harvesting should be regulated so as not to exceed the levels of the optimum sustainable yield;
 
 _Recognizing_ that in order to improve scientific knowledge and so place exploitation on a rational basis, every effort should be made both to encourage biological and other research on Antarctic seal populations and to gain information from such research and from the statistics of future sealing operations, so that further suitable regulations may be formulated;
 
@@ -1512,19 +1512,19 @@ _(c)_   open and closed seasons;
 
 _(d)_   open and closed areas, including the designation of reserves;
 
-_(e)_   the designation of special areas where there shall be no          disturbance of seals;
+_(e)_   the designation of special areas where there shall be no   disturbance of seals;
 
-_(f)_    limits relating to sex, size, or age for each species;
+_(f)_   limits relating to sex, size, or age for each species;
 
 _(g)_   restrictions relating to time of day and duration, limitations of effort and methods of sealing;
 
-_(h)_   types and specifications of gear and apparatus and appliances            which may be used;
+_(h)_   types and specifications of gear and apparatus and appliances      which may be used;
 
 _(i)_    catch returns and other statistical and biological records;
 
-_(j)_    procedures for facilitating the review and assessment of scientific      information;
+_(j)_   procedures for facilitating the review and assessment of scientific            information;
 
-_(k)_   other regulatory measures including an effective system of     inspection.
+_(k)_   other regulatory measures including an effective system of           inspection.
 
 (2)   The measures adopted under paragraph (1) of this Article shall be based upon the best scientific and technical evidence available.
 
@@ -1572,7 +1572,7 @@ ARTICLE 6
 
 (1)   At any time after commercial sealing has begun a Contracting Party may propose through the Depositary that a meeting of Contracting Parties be convened with a view to:
 
-_(a)_   establishing by a two‑thirds majority of the Contracting Parties, including the concurring votes of all States signatory to this Convention present at the meeting, an effective system of control, including inspection, over the implementation of the provisions of this Convention;
+_(a)_   establishing by a two-thirds majority of the Contracting Parties, including the concurring votes of all States signatory to this Convention present at the meeting, an effective system of control, including inspection, over the implementation of the provisions of this Convention;
 
 _(b)_   establishing a commission to perform such functions under this Convention as the Contracting Parties may deem necessary; or
 
@@ -1580,13 +1580,13 @@ _(c)_   considering other proposals, including:
 
              (i)     the provision of independent scientific advice;
 
-            (ii)     the establishment, by a two‑thirds majority, of a scientific advisory committee which may be assigned some or all of the functions requested of SCAR under this Convention, if commercial sealing reaches significant proportions;
+             (ii)     the establishment, by a two-thirds majority, of a scientific advisory committee which may be assigned some or all of the functions requested of SCAR under this Convention, if commercial sealing reaches significant proportions;
 
-           (iii)     the carrying out of scientific programmes with the participation of the Contracting Parties; and 
+            (iii)     the carrying out of scientific programmes with the participation of the Contracting Parties; and 
 
-           (iv)     the provision of further regulatory measures, including moratoria.
+            (iv)     the provision of further regulatory measures, including moratoria.
 
-(2)   If one‑third of the Contracting Parties indicate agreement the Depositary shall convene such a meeting, as soon as possible. 
+(2)   If one-third of the Contracting Parties indicate agreement the Depositary shall convene such a meeting, as soon as possible. 
 
 (3)   A meeting shall be held at the request of any Contracting Party, if SCAR reports that the harvest of any species of Antarctic seal in the area to which this Convention applies is having a significantly harmful effect on the total stocks or the ecological system in any particular locality.
 
@@ -1602,7 +1602,7 @@ ARTICLE 8
 
 (1)   This Convention may be amended at any time. The text of any amendment proposed by a Contracting Party shall be submitted to the Depositary, which shall transmit it to all the Contracting Parties.
 
-(2)   If one‑third of the Contracting Parties request a meeting to discuss the proposed amendment the Depositary shall call such a meeting.
+(2)   If one-third of the Contracting Parties request a meeting to discuss the proposed amendment the Depositary shall call such a meeting.
 
 (3)   An amendment shall enter into force when the Depositary has received instruments of ratification or acceptance thereof from all the Contracting Parties.
 
@@ -1612,9 +1612,9 @@ ARTICLE 9
 
 (1)   Any Contracting Party may propose amendments to the Annex to this Convention. The text of any such proposed amendment shall be submitted to the Depositary which shall transmit it to all Contracting Parties.
 
-(2)   Each such proposed amendment shall become effective for all Contracting Parties six months after the date appearing on the notification from the Depositary to the Contracting Parties, if within 120 days of the notification date, no objection has been received and two‑thirds of the Contracting Parties have notified the Depositary in writing of their approval.
+(2)   Each such proposed amendment shall become effective for all Contracting Parties six months after the date appearing on the notification from the Depositary to the Contracting Parties, if within 120 days of the notification date, no objection has been received and two-thirds of the Contracting Parties have notified the Depositary in writing of their approval.
 
-(3)   If an objection is received from any Contracting Party within 120 days of the notification date, the matter shall be considered by the Contracting Parties at their next meeting. If unanimity on the matter is not reached at the meeting, the Contracting Parties shall notify the Depositary within 120 days from the date of closure of the meeting of their approval or rejection of the original amendment or of any new amendment proposed by the meeting. If, by the end of this period, two‑thirds of the Contracting Parties have approved such amendment, it shall become effective six months from the date of the closure of the meeting for those Contracting Parties which have by then notified their approval.
+(3)   If an objection is received from any Contracting Party within 120 days of the notification date, the matter shall be considered by the Contracting Parties at their next meeting. If unanimity on the matter is not reached at the meeting, the Contracting Parties shall notify the Depositary within 120 days from the date of closure of the meeting of their approval or rejection of the original amendment or of any new amendment proposed by the meeting. If, by the end of this period, two-thirds of the Contracting Parties have approved such amendment, it shall become effective six months from the date of the closure of the meeting for those Contracting Parties which have by then notified their approval.
 
 (4)   Any Contracting Party which has objected to a proposed amendment may at any time withdraw that objection, and the proposed amendment shall become effective with respect to such Party immediately if the amendment is already in effect, or at such time as it becomes effective under the terms of this Article.
 
@@ -1716,7 +1716,7 @@ Zone 6—between 120° and 170° West Longitude.
 
 _5_._Seal Reserves_
 
-It is forbidden to kill or capture seals in the following reserves, which are seal breeding areas or the site of long‑term scientific research:
+It is forbidden to kill or capture seals in the following reserves, which are seal breeding areas or the site of long-term scientific research:
 
 _(a)_   The area around the South Orkney lslands between 60° 20’ and 60° 56’ South Latitude and 44° 05’ and 46° 25’ West Longitude.
 
@@ -1728,9 +1728,9 @@ _6_._Exchange of Information_
 
 _(a)_   Contracting Parties shall provide before 31 October each year to other Contracting Parties and to SCAR a summary of statistical information on all seals killed or captured by their nationals and vessels under their respective flags in the Convention area, in respect of the preceding period 1 July to 30 June. This information shall include by zones and months:
 
-             (i)   The gross and nett tonnage, brake horse‑power, number of crew, and number of days’ operation of vessels under the flag of the Contracting Party;
+             (i)   The gross and nett tonnage, brake horse-power, number of crew, and number of days’ operation of vessels under the flag of the Contracting Party;
 
-            (ii)   The number of adult individuals and pups of each species taken.
+             (ii)   The number of adult individuals and pups of each species taken.
 
 When specially requested, this information shall be provided in respect of each ship, together with its daily position at noon each operating day and the catch on that day.
 
@@ -1758,19 +1758,19 @@ _(b)_   In the light of the available scientific and technical data, Contrac
 
 _Section 3_
 
-21.       Representatives, pursuant to paragraph 19(a) above, agreed to recommend for approval by their respective Governments, that the Annex be changed in the following way:
+21.        Representatives, pursuant to paragraph 19(a) above, agreed to recommend for approval by their respective Governments, that the Annex be changed in the following way:
 
-Section 1:    for 1 July to 30 June read 1 March to the last day in February.
+Section 1:     for 1 July to 30 June read 1 March to the last day in February.
 
-Section 6(a):            for 31 October read 30 June and for 1 July to 30 June read 1 March to the last day in February.
+Section 6(a): for 31 October read 30 June and for 1 July to 30 June read 1 March to the last day in February.
 
-31.  Accordingly, they agreed on the text of the following amendment to the Annex (new paragraph 8) which they recommended to the Governments of Contracting Parties for their approval.
+31.   Accordingly, they agreed on the text of the following amendment to the Annex (new paragraph 8) which they recommended to the Governments of Contracting Parties for their approval.
 
-“8.  Cooperation
+“8.   Cooperation
 
 The Contracting Parties to this Convention shall, as appropriate, cooperate and exchange information with the Contracting Parties to the other international instruments within the Antarctic Treaty System and their respective  institutions.”
 
-36.  Representatives, noting that they agreed on the desirability of extending the protection afforded to Weddell seals to include pups during the breeding season, agreed to recommend to Governments the deletion in section 2 of the Annex of the words “one year old or older”.
+36.   Representatives, noting that they agreed on the desirability of extending the protection afforded to Weddell seals to include pups during the breeding season, agreed to recommend to Governments the deletion in section 2 of the Annex of the words “one year old or older”.
 
 # Schedule 3—Protocol on Environmental Protection to the Antarctic Treaty
 
@@ -1838,29 +1838,29 @@ _ENVIRONMENTAL PRINCIPLES_
 
                       (i)  adverse effects on climate or weather patterns;
 
-                     (ii)  significant adverse effects on air or water quality;
+                      (ii)  significant adverse effects on air or water quality;
 
-                    (iii)  significant changes in the atmospheric, terrestrial (including aquatic), glacial or marine environments;
+                     (iii)  significant changes in the atmospheric, terrestrial (including aquatic), glacial or marine environments;
 
-                    (iv)  detrimental changes in the distribution, abundance or productivity of species or populations of species of fauna and flora;
+                     (iv)  detrimental changes in the distribution, abundance or productivity of species or populations of species of fauna and flora;
 
                      (v)  further jeopardy to endangered or threatened species or populations of such species; or
 
-                    (vi)  degradation of, or substantial risk to, areas of biological, scientific, historic, aesthetic or wilderness significance; 
+                     (vi)  degradation of, or substantial risk to, areas of biological, scientific, historic, aesthetic or wilderness significance; 
 
        (c)   activities in the Antarctic Treaty area shall be planned and conducted on the basis of information sufficient to allow prior assessments of, and informed judgments about, their possible impacts on the Antarctic environment and dependent and associated ecosystems and on the value of Antarctica for the conduct of scientific research; such judgments shall take full account of:
 
-                     (i)           the scope of the activity, including its area, duration and intensity;
+                     (i)            the scope of the activity, including its area, duration and intensity;
 
-                   (ii)          the cumulative impacts of the activity, both by itself and in combination with other activities in the Antarctic Treaty area;
+                   (ii)           the cumulative impacts of the activity, both by itself and in combination with other activities in the Antarctic Treaty area;
 
-                     (iii)         whether the activity will detrimentally affect any other activity in the Antarctic Treaty area;
+                     (iii)          whether the activity will detrimentally affect any other activity in the Antarctic Treaty area;
 
-                     (iv)         whether technology and procedures are available to provide for environmentally safe operations;
+                     (iv)          whether technology and procedures are available to provide for environmentally safe operations;
 
-                    (v)          whether there exists the capacity to monitor key environmental parameters and ecosystem components so as to identify and provide early warning of any adverse effects of the activity and to provide for such modification of operating procedures as may be necessary in the light of the results of monitoring or increased knowledge of the Antarctic environment and dependent and associated ecosystems; and
+                    (v)           whether there exists the capacity to monitor key environmental parameters and ecosystem components so as to identify and provide early warning of any adverse effects of the activity and to provide for such modification of operating procedures as may be necessary in the light of the results of monitoring or increased knowledge of the Antarctic environment and dependent and associated ecosystems; and
 
-                     (vi)         whether there exists the capacity to respond promptly and effectively to accidents, particularly those with potential environmental effects;
+                     (vi)          whether there exists the capacity to respond promptly and effectively to accidents, particularly those with potential environmental effects;
 
        (d)   regular and effective monitoring shall take place to allow assessment of the impacts of ongoing activities, including the verification of predicted impacts;
 
@@ -1868,7 +1868,7 @@ _ENVIRONMENTAL PRINCIPLES_
 
 3.    Activities shall be planned and conducted in the Antarctic Treaty area so as to accord priority to scientific research and to preserve the value of Antarctica as an area for the conduct of such research, including research essential to understanding the global environment.
 
-4.    Activities undertaken in the Antarctic Treaty area pursuant to scientific research programmes, tourism and all other governmental and non‑governmental activities in the Antarctic Treaty area for which advance notice is required in accordance with Article VII (5) of the Antarctic Treaty, including associated logistic support activities, shall: 
+4.    Activities undertaken in the Antarctic Treaty area pursuant to scientific research programmes, tourism and all other governmental and non-governmental activities in the Antarctic Treaty area for which advance notice is required in accordance with Article VII (5) of the Antarctic Treaty, including associated logistic support activities, shall: 
 
        (a)   take place in a manner consistent with the principles in this Article; and
 
@@ -1886,15 +1886,15 @@ ARTICLE 5
 
 _CONSISTENCY WITH THE OTHER COMPONENTS OF THE ANTARCTIC TREATY SYSTEM_
 
-The Parties shall consult and co‑operate with the Contracting Parties to the other international instruments in force within the Antarctic Treaty system and their respective institutions with a view to ensuring the achievement of the objectives and principles of this Protocol and avoiding any interference with the achievement of the objectives and principles of those instruments or any inconsistency between the implementation of those instruments and of this Protocol.
+The Parties shall consult and co-operate with the Contracting Parties to the other international instruments in force within the Antarctic Treaty system and their respective institutions with a view to ensuring the achievement of the objectives and principles of this Protocol and avoiding any interference with the achievement of the objectives and principles of those instruments or any inconsistency between the implementation of those instruments and of this Protocol.
 
 ARTICLE 6
 
-_CO‑OPERATION_
+_CO-OPERATION_
 
-1.    The Parties shall co‑operate in the planning and conduct of activities in the Antarctic Treaty area. To this end, each Party shall endeavour to:
+1.    The Parties shall co-operate in the planning and conduct of activities in the Antarctic Treaty area. To this end, each Party shall endeavour to:
 
-(a)   promote co‑operative programmes of scientific, technical and educational value, concerning the protection of the Antarctic environment and dependent and associated ecosystems;
+(a)   promote co-operative programmes of scientific, technical and educational value, concerning the protection of the Antarctic environment and dependent and associated ecosystems;
 
 (b)   provide appropriate assistance to other Parties in the preparation of environmental impact assessments;
 
@@ -1904,11 +1904,11 @@ _CO‑OPERATION_
 
 (e)   where appropriate, undertake joint expeditions and share the use of stations and other facilities; and
 
-(f)   carry out such steps as may be agreed upon at Antarctic Treaty Consultative Meetings.
+(f)    carry out such steps as may be agreed upon at Antarctic Treaty Consultative Meetings.
 
 2.    Each Party undertakes, to the extent possible, to share information that may be helpful to other Parties in planning and conducting their activities in the Antarctic Treaty area, with a view to the protection of the Antarctic environment and dependent and associated ecosystems.
 
-3.    The Parties shall co‑operate with those Parties which may exercise jurisdiction in areas adjacent to the Antarctic Treaty area with a view to ensuring that activities in the Antarctic Treaty area do not have adverse environmental impacts on those areas.
+3.    The Parties shall co-operate with those Parties which may exercise jurisdiction in areas adjacent to the Antarctic Treaty area with a view to ensuring that activities in the Antarctic Treaty area do not have adverse environmental impacts on those areas.
 
 ARTICLE 7
 
@@ -1928,7 +1928,7 @@ _ENVIRONMENTAL IMPACT ASSESSMENT_
 
 (c)   more than a minor or transitory impact.
 
-2.    Each Party shall ensure that the assessment procedures set out in Annex I are applied in the planning processes leading to decisions about any activities undertaken in the Antarctic Treaty area pursuant to scientific research programmes, tourism and all other governmental and non‑governmental activities in the Antarctic Treaty area for which advance notice is required under Article VII(5) of the Antarctic Treaty, including associated logistic support activities.
+2.    Each Party shall ensure that the assessment procedures set out in Annex I are applied in the planning processes leading to decisions about any activities undertaken in the Antarctic Treaty area pursuant to scientific research programmes, tourism and all other governmental and non-governmental activities in the Antarctic Treaty area for which advance notice is required under Article VII(5) of the Antarctic Treaty, including associated logistic support activities.
 
 3.    The assessment procedures set out in Annex I shall apply to any change in an activity whether the change arises from an increase or decrease in the intensity of an existing activity, from the addition of an activity, the decommissioning of a facility, or otherwise.
 
@@ -1940,7 +1940,7 @@ _ANNEXES_
 
 1.    The Annexes to this Protocol shall form an integral part thereof.
 
-2.    Annexes, additional to Annexes I‑IV, may be adopted and become effective in accordance with Article IX of the Antarctic Treaty.
+2.    Annexes, additional to Annexes I-IV, may be adopted and become effective in accordance with Article IX of the Antarctic Treaty.
 
 3.    Amendments and modifications to Annexes may be adopted and become effective in accordance with Article IX of the Antarctic Treaty, provided that any Annex may itself make provision for amendments and modifications to become effective on an accelerated basis.
 
@@ -1992,7 +1992,7 @@ _FUNCTIONS OF THE COMMITTEE_
 
 (e)   means of minimising or mitigating environmental impacts of activities in the Antarctic Treaty area;
 
-(f)   procedures for situations requiring urgent action, including response action in environmental emergencies;
+(f)    procedures for situations requiring urgent action, including response action in environmental emergencies;
 
 (g)   the operation and further elaboration of the Antarctic Protected Area system;
 
@@ -2032,7 +2032,7 @@ _INSPECTION_
 
 (b)   any observers designated at Antarctic Treaty Consultative Meetings to carry out inspections under procedures to be established by an Antarctic Treaty Consultative Meeting.
 
-3.    Parties shall co‑operate fully with observers undertaking inspections, and shall ensure that during inspections, observers are given access to all parts of stations, installations, equipment, ships and aircraft open to inspection under Article VII (3) of the Antarctic Treaty, as well as to all records maintained thereon which are called for pursuant to this Protocol.
+3.    Parties shall co-operate fully with observers undertaking inspections, and shall ensure that during inspections, observers are given access to all parts of stations, installations, equipment, ships and aircraft open to inspection under Article VII (3) of the Antarctic Treaty, as well as to all records maintained thereon which are called for pursuant to this Protocol.
 
 4.    Reports of inspections shall be sent to the Parties whose stations, installations, equipment, ships or aircraft are covered by the reports. After those Parties have been given the opportunity to comment, the reports and any comments thereon shall be circulated to all the Parties and to the Committee, considered at the next Antarctic Treaty Consultative Meeting, and thereafter made publicly available.
 
@@ -2042,15 +2042,15 @@ _EMERGENCY RESPONSE ACTION_
 
 1.    In order to respond to environmental emergencies in the Antarctic Treaty area, each Party agrees to:
 
-(a)   provide for prompt and effective response action to such emergencies which might arise in the performance of scientific research programmes, tourism and all other governmental and non‑governmental activities in the Antarctic Treaty area for which advance notice is required under Article VII (5) of the Antarctic Treaty, including associated logistic support activities; and
+(a)   provide for prompt and effective response action to such emergencies which might arise in the performance of scientific research programmes, tourism and all other governmental and non-governmental activities in the Antarctic Treaty area for which advance notice is required under Article VII (5) of the Antarctic Treaty, including associated logistic support activities; and
 
 (b)   establish contingency plans for response to incidents with potential adverse effects on the Antarctic environment or dependent and associated ecosystems.
 
 2.    To this end, the Parties shall:
 
-(a)   co‑operate in the formulation and implementation of such contingency plans; and
+(a)   co-operate in the formulation and implementation of such contingency plans; and
 
-(b)   establish procedures for immediate notification of, and co‑operative response to, environmental emergencies.
+(b)   establish procedures for immediate notification of, and co-operative response to, environmental emergencies.
 
 3.    In the implementation of this Article, the Parties shall draw upon the advice of the appropriate international organisations.
 
@@ -2110,7 +2110,7 @@ ARTICLE 21
 
 _SIGNATURE_
 
-This Protocol shall be open for signature at Madrid on the 4th of October 1991 and thereafter at   Washington until the 3rd of October 1992 by any State which is a Contracting Party to the Antarctic Treaty.
+This Protocol shall be open for signature at Madrid on the 4th of October 1991 and thereafter at Washington until the 3rd of October 1992 by any State which is a Contracting Party to the Antarctic Treaty.
 
 ARTICLE 22
 
@@ -2196,7 +2196,7 @@ Article 2
 
 3.    A Party which designated an Arbitrator may withdraw the name of that Arbitrator from the list. If an Arbitrator dies or if a Party for any reason withdraws from the list the name of an Arbitrator designated by it, the Party which designated the Arbitrator in question shall notify the Secretary promptly. An Arbitrator whose name is withdrawn from the list shall continue to serve on any Arbitral Tribunal to which that Arbitrator has been appointed until the completion of proceedings before the Arbitral Tribunal.
 
-4.    The Secretary shall ensure that an up‑to‑date list is maintained of the Arbitrators designated pursuant to this Article.
+4.    The Secretary shall ensure that an up-to-date list is maintained of the Arbitrators designated pursuant to this Article.
 
 Article 3
 
@@ -2210,7 +2210,7 @@ Article 3
 
 (d)     If the second Arbitrator has not been appointed within the prescribed period, or if the parties to the dispute have not reached agreement within the prescribed period on the appointment of the third Arbitrator, the Arbitrator or Arbitrators shall be appointed, at the request of any party to the dispute and within 30 days of the receipt of such request, by the President of the International Court of Justice from the list referred to in Article 2 and subject to the conditions prescribed in subparagraphs (b) and (c) above. In performing the functions accorded him or her in this subparagraph, the President of the Court shall consult the parties to the dispute.
 
-(e)     If the President of the International Court of Justice is unable to perform the functions accorded him or her in subparagraph (d) above or is a national of a party to the dispute, the functions shall be performed by the Vice‑President of the Court, except that if the Vice‑President is unable to perform the functions or is a national of a party to the dispute the functions shall be performed by the next most senior member of the Court who is available and is not a national of a party to the dispute.
+(e)     If the President of the International Court of Justice is unable to perform the functions accorded him or her in subparagraph (d) above or is a national of a party to the dispute, the functions shall be performed by the Vice-President of the Court, except that if the Vice-President is unable to perform the functions or is a national of a party to the dispute the functions shall be performed by the next most senior member of the Court who is available and is not a national of a party to the dispute.
 
 2.    Any vacancy shall be filled in the manner prescribed for the initial appointment.
 
@@ -2222,7 +2222,7 @@ The party to the dispute commencing proceedings shall so notify the other party 
 
 Article 5
 
-1.    Unless the parties to the dispute agree otherwise, arbitration shall take place at The Hague, where the records of the Arbitral Tribunal shall be kept. The Arbitral Tribunal shall adopt its own rules of procedure. Such rules shall ensure that each party to the dispute has a full opportunity to be heard and to present its case and shall also ensure that the proceedings are conducted expeditiously.
+1.    Unless the parties to the dispute agree otherwise, arbitration shall take place at The   Hague, where the records of the Arbitral Tribunal shall be kept. The Arbitral Tribunal shall adopt its own rules of procedure. Such rules shall ensure that each party to the dispute has a full opportunity to be heard and to present its case and shall also ensure that the proceedings are conducted expeditiously.
 
 2.    The Arbitral Tribunal may hear and decide counterclaims arising out of the dispute.
 
@@ -2332,7 +2332,7 @@ _COMPREHENSIVE ENVIRONMENTAL EVALUATION_
 
 (j)    an identification of gaps in knowledge and uncertainties encountered in compiling the information required under this paragraph;
 
-(k)   a non‑technical summary of the information provided under this paragraph; and
+(k)   a non-technical summary of the information provided under this paragraph; and
 
 (l)    the name and address of the person or organization which prepared the Comprehensive Environmental Evaluation and the address to which comments thereon should be directed.
 
@@ -2452,7 +2452,7 @@ _PROTECTION OF NATIVE FAUNA AND FLORA_
 
 (b)   to provide specimens for museums, herbaria, zoological and botanical gardens, or other educational or cultural institutions or uses; and
 
-(c)   to provide for unavoidable consequences of scientific activities not otherwise authorized under sub‑paragraphs (a) or (b) above, or of the construction and operation of scientific support facilities.
+(c)   to provide for unavoidable consequences of scientific activities not otherwise authorized under sub-paragraphs (a) or (b) above, or of the construction and operation of scientific support facilities.
 
 3.    The issue of such permits shall be limited so as to ensure that:
 
@@ -2470,13 +2470,13 @@ _PROTECTION OF NATIVE FAUNA AND FLORA_
 
 (b)   will not jeopardize the survival or recovery of that species or local population; and
 
-(c)   uses non‑lethal techniques where appropriate.
+(c)   uses non-lethal techniques where appropriate.
 
 6.    All taking of native mammals and birds shall be done in the manner that involves the least degree of pain and suffering practicable.
 
 ARTICLE 4
 
-_INTRODUCTION OF NON‑NATIVE SPECIES, PARASITES AND DISEASES_
+_INTRODUCTION OF NON-NATIVE SPECIES, PARASITES AND DISEASES_
 
 1.    No species of animal or plant not native to the Antarctic Treaty area shall be introduced onto land or ice shelves, or into water in the Antarctic Treaty area except in accordance with a permit.
 
@@ -2488,7 +2488,7 @@ _INTRODUCTION OF NON‑NATIVE SPECIES, PARASITES AND DISEASES_
 
 5.    Nothing in this Article shall apply to the importation of food into the Antarctic Treaty area provided that no live animals are imported for this purpose and all plants and animal parts and products are kept under carefully controlled conditions and disposed of in accordance with Annex III to the Protocol and Appendix C to this Annex.
 
-6.    Each Party shall require that precautions, including those listed in Appendix C to this Annex, be taken to prevent the introduction of micro‑organisms (e.g., viruses, bacteria, parasites, yeasts, fungi) not present in the native fauna and flora.
+6.    Each Party shall require that precautions, including those listed in Appendix C to this Annex, be taken to prevent the introduction of micro-organisms (e.g., viruses, bacteria, parasites, yeasts, fungi) not present in the native fauna and flora.
 
 ARTICLE 5
 
@@ -2550,11 +2550,11 @@ The following animals and plants may be imported into the Antarctic Treaty area 
 
 APPENDIX C:
 
-_PRECAUTIONS TO PREVENT INTRODUCTION OF MICRO‑ORGANISMS_
+_PRECAUTIONS TO PREVENT INTRODUCTION OF MICRO-ORGANISMS_
 
 1.    Poultry. No live poultry or other living birds shall be brought into the Artarctic Treaty area. Before dressed poultry is packaged for shipment to the Antarctic Treaty area, it shall be inspected for evidence of disease, such as Newcastle’s Disease, tuberculosis, and yeast infection. Any poultry or parts not consumed shall be removed from the Antarctic Treaty area or disposed of by incineration or equivalent means that eliminates risks to native flora and fauna. 
 
-2.    The importation of non‑sterile soil shall be avoided to the maximum extent practicable.
+2.    The importation of non-sterile soil shall be avoided to the maximum extent practicable.
 
 ANNEX III TO THE PROTOCOL ON ENVIRONMENTAL PROTECTION TO THE ANTARCTIC TREATY
 
@@ -2564,7 +2564,7 @@ ARTICLE 1
 
 _GENERAL OBLIGATIONS_
 
-1.    This Annex shall apply to activities undertaken in the Antarctic Treaty area pursuant to scientific research programmes, tourism and all other governmental and non‑governmental activites in the Antarctic Treaty area for which advance notice is required under Article VII (5) of the Antarctic Treaty, including associated logistic support activities.
+1.    This Annex shall apply to activities undertaken in the Antarctic Treaty area pursuant to scientific research programmes, tourism and all other governmental and non-governmental activites in the Antarctic Treaty area for which advance notice is required under Article VII (5) of the Antarctic Treaty, including associated logistic support activities.
 
 2.    The amount of wastes produced or disposed of in the Antarctic Treaty area shall be reduced as far as practicable so as to minimise impact on the Antarctic environment and to minimise interference with the natural values of Antarctica, with scientific research and with other uses of Antarctica which are consistent with the Antarctic Treaty.
 
@@ -2584,7 +2584,7 @@ _WASTE DISPOSAL BY REMOVAL FROM THE ANTARCTIC TREATY AREA_
 
 1.    The following wastes, if generated after entry into force of this Annex, shall be removed from the Artarctic Treaty area by the generator of such wastes:
 
-(a)   radio‑active materials;
+(a)   radio-active materials;
 
 (b)   electrical batteries;
 
@@ -2592,15 +2592,15 @@ _WASTE DISPOSAL BY REMOVAL FROM THE ANTARCTIC TREATY AREA_
 
 (d)   wastes containing harmful levels of heavy metals or acutely toxic or harmful persistent compounds;
 
-(e)   poly‑vinyl chloride (PVC), polyurethane foam, polystyrene foam, rubber and lubricating oils, treated timbers and other products which contain additives that could produce harmful emissions if incinerated;
+(e)   poly-vinyl chloride (PVC), polyurethane foam, polystyrene foam, rubber and lubricating oils, treated timbers and other products which contain additives that could produce harmful emissions if incinerated;
 
 (f)   all other plastic wastes, except low density polyethylene containers (such as bags for storing wastes), provided that such containers shall be incinerated in accordance with Article 3 (1);
 
 (g)   fuel drums; and
 
-(h)   other solid, non‑combustible wastes;
+(h)   other solid, non-combustible wastes;
 
-provided that the obligation to remove drums and solid non‑combustible wastes contained in subparagraphs (g) and (h) above shall not apply in circumstances where the removal of such wastes by any practical option would result in greater adverse environmental impact than leaving them in their existing locations.
+provided that the obligation to remove drums and solid non-combustible wastes contained in subparagraphs (g) and (h) above shall not apply in circumstances where the removal of such wastes by any practical option would result in greater adverse environmental impact than leaving them in their existing locations.
 
 2.    Liquid wastes which are not covered by paragraph 1 above and sewage and domestic liquid wastes, shall, to the maximum extent practicable, be removed from the Antarctic Treaty area by the generator of such wastes.
 
@@ -2608,7 +2608,7 @@ provided that the obligation to remove drums and solid non‑combustible wastes 
 
 (a)   residues of carcasses of imported animals;
 
-(b)   laboratory culture of micro‑organisms and plant pathogens; and
+(b)   laboratory culture of micro-organisms and plant pathogens; and
 
 (c)   introduced avian products.
 
@@ -2618,15 +2618,15 @@ _WASTE DISPOSAL BY INCINERATION_
 
 1.    Subject to paragraph 2 below, combustible wastes, other than those referred to in Article 2 (1), which are not removed from the Antarctic Treaty area shall be burnt in incinerators which to the maximum extent practicable reduce harmful emissions. Any emission standards and equipment guidelines which may be recommended by, inter alia, the Committee and the Scientific Committee on Antarctic Research shall be taken into account. The solid residue of such incineration shall be removed from the Antarctic Treaty area.
 
-2.    All open burning of wastes shall be phased out as soon as practicable, but no later than the end of the 1998/1999 season. Pending the completion of such phase‑out, when it is necessary to dispose of wastes by open burning, allowance shall be made for the wind direction and speed and the type of wastes to be burnt to limit particulate deposition and to avoid such deposition over areas of special biological, scientific, historic, aesthetic or wilderness significance including, in particular, areas accorded protection under the Antarctic Treaty.
+2.    All open burning of wastes shall be phased out as soon as practicable, but no later than the end of the 1998/1999 season. Pending the completion of such phase-out, when it is necessary to dispose of wastes by open burning, allowance shall be made for the wind direction and speed and the type of wastes to be burnt to limit particulate deposition and to avoid such deposition over areas of special biological, scientific, historic, aesthetic or wilderness significance including, in particular, areas accorded protection under the Antarctic Treaty.
 
 ARTICLE 4
 
 _OTHER WASTE DISPOSAL ON LAND_
 
-1.    Wastes not removed or disposed of in accordance with Articles 2 and 3 shall not be disposed of onto ice‑free areas or into fresh water systems.
+1.    Wastes not removed or disposed of in accordance with Articles 2 and 3 shall not be disposed of onto ice-free areas or into fresh water systems.
 
-2.    Sewage, domestic liquid wastes and other liquid wastes not removed from the Antarctic Treaty area in accordance with Article 2, shall, to the maximum extent practicable, not be disposed of onto sea ice, ice shelves or the grounded ice‑sheet, provided that such wastes which are generated by stations located inland on ice shelves or on the grounded ice‑sheet may be disposed of in deep ice pits where such disposal is the only practicable option. Such pits shall not be located on known ice‑flow lines which terminate at ice‑free areas or in areas of high ablation.
+2.    Sewage, domestic liquid wastes and other liquid wastes not removed from the Antarctic Treaty area in accordance with Article 2, shall, to the maximum extent practicable, not be disposed of onto sea ice, ice shelves or the grounded ice-sheet, provided that such wastes which are generated by stations located inland on ice shelves or on the grounded ice-sheet may be disposed of in deep ice pits where such disposal is the only practicable option. Such pits shall not be located on known ice-flow lines which terminate at ice-free areas or in areas of high ablation.
 
 3.    Wastes generated at field camps shall, to the maximum extent practicable, be removed by the generator of such wastes to supporting stations or ships for disposal in accordance with this Annex.
 
@@ -2640,7 +2640,7 @@ _DISPOSAL OF WASTE IN THE SEA_
 
 (b)   large quantities of such wastes (generated in a station where the average weekly occupancy over the austral summer is approximately 30 individuals or more) shall be treated at least by maceration.
 
-2.    The by‑product of sewerage treatment by the Rotary Biological Contacter process or similar processes may be disposed of into the sea provided that such disposal does not adversely affect the local environment, and provided also that any such disposal at sea shall be in accordance with Annex IV to the Protocol.
+2.    The by-product of sewerage treatment by the Rotary Biological Contacter process or similar processes may be disposed of into the sea provided that such disposal does not adversely affect the local environment, and provided also that any such disposal at sea shall be in accordance with Annex IV to the Protocol.
 
 ARTICLE 6
 
@@ -2652,7 +2652,7 @@ ARTICLE 7
 
 _PROHIBITED PRODUCTS_
 
-No polychlorinated biphenyls (PCBs), non‑sterile soil, polystyrene beads, chips or similar forms of packaging, or pesticides (other than those required for scientific, medical or hygiene purposes) shall be introduced onto land or ice shelves or into water in the Antarctic Treaty area.
+No polychlorinated biphenyls (PCBs), non-sterile soil, polystyrene beads, chips or similar forms of packaging, or pesticides (other than those required for scientific, medical or hygiene purposes) shall be introduced onto land or ice shelves or into water in the Antarctic Treaty area.
 
 ARTICLE 8
 
@@ -2704,7 +2704,7 @@ Each Party shall:
 
 (b)   ensure that members of its expeditions receive training designed to limit the impact of its operations on the Antarctic environment and to inform them of requirements of this Annex; and
 
-(c)   discourage the use of poly‑vinyl chloride (PVC) products and ensure that its expeditions to the Antarctic Treaty area are advised of any PVC products they may introduce into that area in order that these products may be removed subsequently in accordance with this Annex.
+(c)   discourage the use of poly-vinyl chloride (PVC) products and ensure that its expeditions to the Antarctic Treaty area are advised of any PVC products they may introduce into that area in order that these products may be removed subsequently in accordance with this Annex.
 
 ARTICLE 11
 
@@ -2756,7 +2756,7 @@ ANTARCTIC SPECIALLY PROTECTED AREAS
 
 1.    Any area, including any marine area, may be designated as an Antarctic Specially Protected Area to protect outstanding environmental, scientific, historic, aesthetic or wilderness values, any combination of those values, or ongoing or planned scientific research.
 
-2.    Parties shall seek to identify, within a systematic environmental‑geographical framework, and to include in the series of Antarctic Specially Protected Areas:
+2.    Parties shall seek to identify, within a systematic environmental-geographical framework, and to include in the series of Antarctic Specially Protected Areas:
 
 (a)   areas kept inviolate from human interference so that future comparisons may be possible with localities that have been affected by human activities;
 
@@ -2784,7 +2784,7 @@ ARTICLE 4
 
 ANTARCTIC SPECIALLY MANAGED AREAS
 
-1.    Any area, including any marine area, where activities are being conducted or may in the future be conducted, may be designated as an Antarctic Specially Managed Area to assist in the planning and co‑ordination of activities, avoid possible conflicts, improve co‑operation between Parties or minimise environmental impacts.
+1.    Any area, including any marine area, where activities are being conducted or may in the future be conducted, may be designated as an Antarctic Specially Managed Area to assist in the planning and co-ordination of activities, avoid possible conflicts, improve co-operation between Parties or minimise environmental impacts.
 
 2.    Antarctic Specially Managed Areas may include:
 
@@ -2816,7 +2816,7 @@ MANAGEMENT PLANS
 
 (e)   a description of the area, including:
 
-                (i)  the geographical co‑ordinates, boundary markers and natural features that delineate the area;
+                (i)  the geographical co-ordinates, boundary markers and natural features that delineate the area;
 
                (ii)  access to the area by land, sea or air including marine approaches and anchorages, pedestrian and vehicular routes within the area, and aircraft routes and landing areas;
 
@@ -2844,9 +2844,9 @@ MANAGEMENT PLANS
 
               (vi)  the taking of or harmful interference with native flora and fauna;
 
-             (vii)  the collection or removal of anything not brought into the area by the permit‑holder;
+             (vii)  the collection or removal of anything not brought into the area by the permit-holder;
 
-            (viii)  the disposal of waste;
+             (viii)  the disposal of waste;
 
               (ix)  measures that may be necessary to ensure that the aims and objectives of the Management Plan can continue to be met; and
 
@@ -2868,7 +2868,7 @@ MANAGEMENT PLANS
 
              (vii)  the disposal of waste; and
 
-            (viii)  any requirements for reports to be made to the appropriate authority regarding visits to the area; and
+             (viii)  any requirements for reports to be made to the appropriate authority regarding visits to the area; and
 
 (k)   provisions relating to the circumstances in which Parties should seek to exchange information in advance of activities which they propose to conduct.
 
@@ -2894,7 +2894,7 @@ PERMITS
 
 2.    In the case of a Specially Protected Area designated as such by past Antarctic Treaty Consultative Meetings which does not have a Management Plan, the appropriate authority may issue a permit for a compelling scientific purpose which cannot be served elsewhere and which will not jeopardise the natural ecological system in that Area.
 
-3.    Each Party shall require a permit‑holder to carry a copy of the permit while in the Antarctic Specially Protected Area concerned.
+3.    Each Party shall require a permit-holder to carry a copy of the permit while in the Antarctic Specially Protected Area concerned.
 
 ARTICLE 8
 
@@ -2926,7 +2926,7 @@ INFORMATION AND PUBLICITY
 
 2.    Each Party shall ensure that the location and, if possible, the limits, of Antarctic Specially Protected Areas, Antarctic Specially Managed Areas and Historic Sites and Monuments are shown on its topographic maps, hydrographic charts and in other relevant publications.
 
-3.    Parties shall co‑operate to ensure that, where appropriate, the boundaries of Antarctic Specially Protected Areas, Antarctic Specially Managed Areas and Historic Sites and Monuments are suitably marked on the site.
+3.    Parties shall co-operate to ensure that, where appropriate, the boundaries of Antarctic Specially Protected Areas, Antarctic Specially Managed Areas and Historic Sites and Monuments are suitably marked on the site.
 
 ARTICLE 10
 
@@ -3218,30 +3218,13 @@ Remainder: Royal Assent</div>
   <td>
     <div>Sch. 1 (item 33) \[ <i>see</i>Table A]</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 66) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 3 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Antarctic Treaty (Environment Protection) Act 1980_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(4) of which provides as follows: 
 
                  (4)   The amendments of the _Antarctic Treaty (Environment Protection) Act 1980_ made by this Act shall come into operation on a day to be fixed by Proclamation.
 
-_(b)_     The _Antarctic Treaty (Environment Protection) Act 1980_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1986_, subsection 2(1) of which provides as follows: 
+_(b)_    The _Antarctic Treaty (Environment Protection) Act 1980_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1986_, subsection 2(1) of which provides as follows: 
 
                  (1)   Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
 
@@ -3870,7 +3853,7 @@ After “subparagraph (ii)”, insert “or (iia)”.
 
 Add:
 
-                   ; and (iii)  if the permit is to kill a native bird or native seal of that species—there is no suitable alternative technique to achieve the purpose for which the permit is granted.
+                    ; and (iii)  if the permit is to kill a native bird or native seal of that species—there is no suitable alternative technique to achieve the purpose for which the permit is granted.
 
 ## 10  After subsection 10(1A)
 
@@ -3912,7 +3895,7 @@ _Note:       The following heading to subsection 10(1B) is inserted 
 
 Add:
 
-                   ; and (iii)  if the permit is to kill (whether by collection or any other action) a native plant of that species—there is no suitable alternative technique to achieve the purpose for which the permit is granted.
+                    ; and (iii)  if the permit is to kill (whether by collection or any other action) a native plant of that species—there is no suitable alternative technique to achieve the purpose for which the permit is granted.
 
 _Note:       The following heading to subsection 10(1C) is inserted “Permits for gathering etc. meteorites and rocks”._
 
@@ -4016,13 +3999,13 @@ Omit “the animal (not being a live bird), plant, virus, bacterium, yeast or fu
 
 Insert:
 
-##### <a id="19AC"></a>19AC  Offence relating to the accidental introduction of micro‑organisms
+##### <a id="19AC"></a>19AC  Offence relating to the accidental introduction of micro-organisms
 
              (1)  A person commits an offence if:
 
                      (a)  the person brings into the Antarctic an organism  or an article; and
 
-                     (b)  the person, by that conduct, brings into the Antarctic a micro‑organism that is not indigenous to the Antarctic.
+                     (b)  the person, by that conduct, brings into the Antarctic a micro-organism that is not indigenous to the Antarctic.
 
                     Penalty:  Imprisonment for 2 years or 120 penalty units, or both.
 
@@ -4030,9 +4013,9 @@ Insert:
 
                      (a)  the person brings the organism or article into the Antarctic for use as food; or
 
-                     (b)  the person has taken all reasonable precautions to ensure that a micro‑organism that is not indigenous to the Antarctic is not brought into the Antarctic by the conduct mentioned in paragraph (1)(a); or
+                     (b)  the person has taken all reasonable precautions to ensure that a micro-organism that is not indigenous to the Antarctic is not brought into the Antarctic by the conduct mentioned in paragraph (1)(a); or
 
-                     (c)  the person has a permit or a recognised foreign authority to bring in the micro‑organism.
+                     (c)  the person has a permit or a recognised foreign authority to bring in the micro-organism.
 
              (3)  Subsection (1) does not apply in relation to the conduct mentioned in paragraph (1)(a) if the conduct was done in an emergency:
 
@@ -4168,7 +4151,7 @@ PROTECTION OF NATIVE FAUNA AND FLORA
 
                      (c)  to provide specimens for zoological gardens but, in respect of native mammals or birds, only if such specimens cannot be obtained from existing captive collections elsewhere, or if there is a compelling conservation requirement; and
 
-                     (d)  to provide for unavoidable consequences of scientific activities not otherwise authorised under sub‑paragraphs (a), (b) or (c) above, or of the construction and operation of scientific support facilities.
+                     (d)  to provide for unavoidable consequences of scientific activities not otherwise authorised under sub-paragraphs (a), (b) or (c) above, or of the construction and operation of scientific support facilities.
 
               3.  The issue of such permits shall be limited so as to ensure that:
 
@@ -4194,13 +4177,13 @@ PROTECTION OF NATIVE FAUNA AND FLORA
 
               9.  The use of lethal techniques on Specially Protected Species shall only be permitted where there is no suitable alternative technique.
 
-            10.  Proposals for the designation of a species as a Specially Protected Species shall be forwarded to the Committee, the Scientific Committee on Antarctic Research and, for native mammals and birds, the Commission for the Conservation of Antarctic Marine Living Resources, and as appropriate, the Meeting of the Parties to the Agreement on the Conservation of Albatrosses and Petrels and other organisations. In formulating its advice to the ATCM on whether a species should be designated as a Specially Protected Species, the Committee shall take into account any comments provided by the Scientific Committee on Antarctic Research, and, for native mammals and birds, the Commission for the Conservation of Antarctic Marine Living Resources, and as appropriate, the Meeting of the Parties to the Agreement on the Conservation of Albatrosses and Petrels and other organisations.
+             10.  Proposals for the designation of a species as a Specially Protected Species shall be forwarded to the Committee, the Scientific Committee on Antarctic Research and, for native mammals and birds, the Commission for the Conservation of Antarctic Marine Living Resources, and as appropriate, the Meeting of the Parties to the Agreement on the Conservation of Albatrosses and Petrels and other organisations. In formulating its advice to the ATCM on whether a species should be designated as a Specially Protected Species, the Committee shall take into account any comments provided by the Scientific Committee on Antarctic Research, and, for native mammals and birds, the Commission for the Conservation of Antarctic Marine Living Resources, and as appropriate, the Meeting of the Parties to the Agreement on the Conservation of Albatrosses and Petrels and other organisations.
 
-            11.  All taking of native mammals and birds shall be done in the manner that involves the least degree of pain and suffering practicable.
+             11.  All taking of native mammals and birds shall be done in the manner that involves the least degree of pain and suffering practicable.
 
 ARTICLE 4
 
-INTRODUCTION OF NON‑NATIVE SPECIES AND DISEASES
+INTRODUCTION OF NON-NATIVE SPECIES AND DISEASES
 
               1.  No species of living organisms not native to the Antarctic Treaty area shall be introduced onto land or ice shelves, or into water, in the Antarctic Treaty area except in accordance with a permit.
 
@@ -4218,11 +4201,11 @@ INTRODUCTION OF NON‑NATIVE SPECIES AND DISEASES
 
               6.  Nothing in this Article shall apply to the importation of food into the Antarctic Treaty area provided that no live animals are imported for this purpose and all plants and animal parts and products are kept under carefully controlled conditions and disposed of in accordance with Annex III to the Protocol.
 
-              7.  Each Party shall require that precautions are taken to prevent the accidental introduction of micro‑organisms (e.g., viruses, bacteria, yeasts, fungi) not present naturally in the Antarctic Treaty area.
+              7.  Each Party shall require that precautions are taken to prevent the accidental introduction of micro-organisms (e.g., viruses, bacteria, yeasts, fungi) not present naturally in the Antarctic Treaty area.
 
-              8.  No live poultry or other living birds shall be brought into the Antarctic Treaty area. All appropriate efforts shall be made to ensure that poultry or avian products imported into Antarctica are free from contamination by diseases (such as Newcastle’s Disease, tuberculosis, and yeast infection) which might be harmful to native flora and fauna. Any poultry or avian products not consumed shall be removed from the Antarctic Treaty area or disposed of by incineration or equivalent means that eliminates the risks of introduction of micro‑organisms (e.g. viruses, bacteria, yeasts, fungi) to native flora and fauna.
+              8.  No live poultry or other living birds shall be brought into the Antarctic Treaty area. All appropriate efforts shall be made to ensure that poultry or avian products imported into Antarctica are free from contamination by diseases (such as Newcastle’s Disease, tuberculosis, and yeast infection) which might be harmful to native flora and fauna. Any poultry or avian products not consumed shall be removed from the Antarctic Treaty area or disposed of by incineration or equivalent means that eliminates the risks of introduction of micro-organisms (e.g. viruses, bacteria, yeasts, fungi) to native flora and fauna.
 
-              9.  The deliberate introduction of non‑sterile soil into the Antarctic Treaty area is prohibited. Parties should, to the maximum extent practicable, ensure that non‑sterile soil is not unintentionally imported into the Antarctic Treaty area.
+              9.  The deliberate introduction of non-sterile soil into the Antarctic Treaty area is prohibited. Parties should, to the maximum extent practicable, ensure that non-sterile soil is not unintentionally imported into the Antarctic Treaty area.
 
 ARTICLE 5
 
@@ -4270,21 +4253,7 @@ SPECIALLY PROTECTED SPECIES
 
 _Ommatophoca rossii_, Ross Seal.
 
-As at 25 July 2011 the amendments are not incorporated in this compilation.
-
-### Note 3
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendment commences on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 66  Subsection 3(1) (definition of _continental shelf_)
-
-Repeal the definition.
-
-As at 25 July 2011 the amendment is not incorporated in this compilation.
+As at 1 April 2010 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -4306,9 +4275,9 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000
 
 ## Schedule 2
 
-## 418  Transitional—pre‑commencement offences
+## 418  Transitional—pre-commencement offences
 
-(1)       Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
+(1)        Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
 
                      (a)  an offence committed before the commencement of this item; or
 
@@ -4318,9 +4287,9 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000
 
 as if the amendment or repeal had not been made.
 
-(2)       Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
+(2)        Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
 
-## 419  Transitional—pre‑commencement notices
+## 419  Transitional—pre-commencement notices
 
 If:
 
@@ -4328,9 +4297,9 @@ If:
 
                      (b)  any or all of those other provisions are repealed by this Schedule; and
 
-                     (c)  the first‑mentioned provision is amended by this Schedule;
+                     (c)  the first-mentioned provision is amended by this Schedule;
 
-the amendment of the first‑mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
+the amendment of the first-mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
 
 * * *
 
@@ -4350,9 +4319,9 @@ _Environment and Heritage Legislation Amendment (Antarctic Seals and Other Measu
 
 ## 89  Saving provisions relating to amendment at item 13
 
-(1)       If, immediately before subsection 9(1) of the _Antarctic Treaty (Environment Protection) Act 1980_ was repealed and substituted by item 13 of this Schedule, there was in force a permit granted under that subsection, that permit continues in force after the repeal and substitution as if it had been granted under subsection 9(1) as substituted by this Act.
+(1)        If, immediately before subsection 9(1) of the _Antarctic Treaty (Environment Protection) Act 1980_ was repealed and substituted by item 13 of this Schedule, there was in force a permit granted under that subsection, that permit continues in force after the repeal and substitution as if it had been granted under subsection 9(1) as substituted by this Act.
 
-(2)       Regulations that:
+(2)        Regulations that:
 
                      (a)  prescribed a form for the purposes of subsection 9(1) of the _Antarctic Treaty (Environment Protection) Act 1980_; and
 
@@ -4360,11 +4329,11 @@ _Environment and Heritage Legislation Amendment (Antarctic Seals and Other Measu
 
 continue to have effect after that repeal and substitution as if they had been made for the purposes of that subsection as substituted by this Act.
 
-(3)       If, immediately before subsection 9(1) of the _Antarctic Treaty (Environment Protection) Act 1980_ was repealed and substituted by item 13 of this Schedule, the Minister had approved a form for the purposes of that subsection and had not revoked that approval, the Minister’s approval continues to have effect after the repeal and substitution as if the approval had been made for the purposes of that subsection as substituted by this Act.
+(3)        If, immediately before subsection 9(1) of the _Antarctic Treaty (Environment Protection) Act 1980_ was repealed and substituted by item 13 of this Schedule, the Minister had approved a form for the purposes of that subsection and had not revoked that approval, the Minister’s approval continues to have effect after the repeal and substitution as if the approval had been made for the purposes of that subsection as substituted by this Act.
 
 ## 90  Saving provisions relating to amendment at item 78
 
-(1)       Regulations that:
+(1)        Regulations that:
 
                      (a)  prescribed a form for the purposes of subsection 21(1) of the _Antarctic Treaty (Environment Protection) Act 1980_; and
 
@@ -4372,7 +4341,7 @@ continue to have effect after that repeal and substitution as if they had been m
 
 continue to have effect after that repeal and substitution as if they had been made for the purposes of that subsection as substituted by this Act.
 
-(2)       If, immediately before subsection 21(1) of the _Antarctic Treaty (Environment Protection) Act 1980_ was repealed and substituted by item 78 of this Schedule, the Minister had approved a form for the purposes of that subsection and had not revoked that approval, the Minister’s approval continues to have effect after the repeal and substitution as if the approval had been given for the purposes of that subsection as substituted by this Act.
+(2)        If, immediately before subsection 21(1) of the _Antarctic Treaty (Environment Protection) Act 1980_ was repealed and substituted by item 78 of this Schedule, the Minister had approved a form for the purposes of that subsection and had not revoked that approval, the Minister’s approval continues to have effect after the repeal and substitution as if the approval had been given for the purposes of that subsection as substituted by this Act.
 
 ## 91  Permits granted under the Antarctic seals regulations
 
@@ -4397,19 +4366,19 @@ The following provision commences on the day Measure 16, adopted by the XXXIInd 
 
 ## 33  Application and transitional provisions
 
-(1)       The amendments made by items 6 to 17 apply to permits issued on or after the commencement of this Schedule.
+(1)        The amendments made by items 6 to 17 apply to permits issued on or after the commencement of this Schedule.
 
-(2)       The amendments made by items 20, 21, 23, 24, 25, 26, 27, 28 and 29 apply to acts done on or after the commencement of this Schedule.
+(2)        The amendments made by items 20, 21, 23, 24, 25, 26, 27, 28 and 29 apply to acts done on or after the commencement of this Schedule.
 
-(3)       The amendment made by item 22 applies to acts done wholly on or after the commencement of this Schedule.
+(3)        The amendment made by item 22 applies to acts done wholly on or after the commencement of this Schedule.
 
-(4)       To avoid doubt:
+(4)        To avoid doubt:
 
                      (a)  if an action is done in accordance with a permit or recognised foreign authority issued before the commencement of this Schedule, section 19 of the _Antarctic Treaty (Environment Protection) Act 1980_ (whether as in force before or after the commencement of this Schedule) does not apply to that action; and
 
                      (b)  if a permit issued before the commencement of this Schedule refers to the taking of a native invertebrate or a native plant, that term has a meaning unaffected by the amendment made by item 3 of this Schedule.
 
-(5)       The amendment made by item 30 applies to:
+(5)        The amendment made by item 30 applies to:
 
                      (a)  to the extent that the amendment relates to the insertion of section 19AC into the _Antarctic Treaty (Environment Protection) Act 1980_—bringing an organism or article into the Antarctic on or after the commencement of this Schedule; and
 
@@ -4417,22 +4386,6 @@ The following provision commences on the day Measure 16, adopted by the XXXIInd 
 
                      (c)  to the extent that the amendment relates to the insertion of section 19AE into that Act—any organism that is brought into, kept or continues to be kept in the Antarctic on or after the commencement of this Schedule.
 
-(6)       Despite the amendment made by item 31, regulations in force under section 29 of the _Antarctic Treaty (Environment Protection) Act 1980_ immediately before the commencement of this Schedule continue in effect, on and after that commencement, as if they had been made under that section as in force after that commencement.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
+(6)        Despite the amendment made by item 31, regulations in force under section 29 of the _Antarctic Treaty (Environment Protection) Act 1980_ immediately before the commencement of this Schedule continue in effect, on and after that commencement, as if they had been made under that section as in force after that commencement.
 
  
