@@ -1,17 +1,14 @@
-![](http://www.comlaw.gov.au/Details/C2010C00391/Html/ChildCareAct72_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00590/Html/ChildCareAct72_image001.gif)
 
 # Child Care Act 1972
 
 **Act No. 121 of 1972 as amended**
 
-This compilation was prepared on 7 June 2010
- taking into account amendments up to Act No. 51 of 2010
+This compilation was prepared on 3 October 2006 
+ taking into account amendments up to Act No. 108 of 2006
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
-
-The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
  Attorney-General’s Department, Canberra
@@ -534,7 +531,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 ## Part IVA—Grants in respect of the development of child care centres
 
-##### <a id="13A"></a>13A  Interpretation<span style="font-size:9.0pt;font-weight:normal"> </span>
+##### <a id="13A"></a>13A  Interpretation<span style="font-size:9.0pt; font-weight:normal"> </span>
 
                    In this Part, unless the contrary intention appears:
 
@@ -680,23 +677,21 @@ the Minister may enter into an agreement with the other person or body under whi
 
 ### Note 1
 
-The _Child Care Act 1972_ as shown in this compilation comprises Act No. 121, 1972 amended as indicated in the Tables below.
-
-For application, saving or transitional provisions made by the _Freedom of Information Amendment (Reform) Act 2010, see_ Act No. 51, 2010.
-
-All relevant information pertaining to application, saving or transitional provisions prior to 8 July 1999 is not included in this compilation. For subsequent information _see_ Table A.
+The _Child Care Act 1972_ as shown in this compilation comprises Act No. 121, 1972 amended as indicated in the Tables below. 
 
 The _Child Care Act 1972_ was modified by the A.C.T. Self-Government (Consequential Provisions) Regulations (1989 No. 3 as amended). The modifications were repealed by the _Community Services and Health Legislation Amendment Act 1990_ (No. 106, 1990).
+
+All relevant information pertaining to application, saving or transitional provisions prior to 8 July 1999 is not included in this compilation. For subsequent information _see_ Table A.
 
 ### Table of Acts
 
 <table>
 <colgroup>
   <col width="30%">
-  <col width="15%">
+  <col width="16%">
   <col width="17%">
   <col width="22%">
-  <col width="16%">
+  <col width="14%">
 </colgroup>
 
 <thead>
@@ -1098,24 +1093,6 @@ Schedule 11 (item 2): <i>(i)</i></div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Freedom of Information Amendment (Reform) Act 2010</div>
-  </td>
-  <td>
-    <div>51, 2010</div>
-  </td>
-  <td>
-    <div>31 May 2010</div>
-  </td>
-  <td>
-    <div>Schedule 5 (item 11): \[ <i>see (l)</i>and Note 2] 
-Schedule 7: <i>(l)</i></div>
-  </td>
-  <td>
-    <div>Sch. 7 \[ <i>see</i>Note 1]</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Child Care Act 1972_ was amended by section 3 only of the _Administrative Changes (Consequential Provisions) Act 1976_, subsection 2(3) of which provides as follows: 
@@ -1148,7 +1125,7 @@ _(fa)_    The _Child Care Payments (Consequential Amendments and Transitio
 
                  (2)   Subject to subsection (3), the remaining provisions of this Act commence on a day to be fixed by Proclamation.
 
-_(fb)_ The _Child Care Payments (Consequential Amendments and Transitional Provisions) Act 1997_ was repealed by Schedule 2 (item 2) only of the _A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 1) 1999_, subsection 2(3) of which provides as follows:
+_(fb)_ The _Child Care Payments (Consequential Amendments and Transitional Provisions) Act 1997_ was amended by Schedule 2 (item 2) only of the _A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 1) 1999_, subsection 2(3) of which provides as follows:
 
                  (3)   Items 1, 2, 4 and 5 of Schedule 2 commence immediately before the day that is the payment commencement day for the purposes of the _Child Care Payments Act 1997_.
 
@@ -1197,99 +1174,6 @@ _(k)_     The _Child Care Act 1972_ was amended by Schedule 3 only of 
                  (2)   Schedule 1 (Parts 1 to 5), Schedules 3 to 6, Schedule 7 (other than item 14), Schedules 8 and 9, Schedule 10 (other than items 22, 63, 66 and 67) and Schedule 11 (items 3 and 4 only) commence, or are taken to have commenced, on the commencement of Schedule 1 to the _A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 1) 1999_. 
 
          The _A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 1) 1999_ commenced on 1 July 2000.
-
-_(l)_      Subsection 2(1) (item 7) of the _Freedom of Information Amendment (Reform) Act 2010_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      7\. Schedules 4 to 7
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of section 3 of the
-        <i>Australian Information Commissioner Act 2010</i>.
-    </div>
-    <div>
-      However, if section 3 of the
-        <i>Australian Information Commissioner Act 2010</i>does not commence, the
-        provision(s) do not commence at all.
-    </div>
-  </td>
-  <td>
-    <div>
-      \[
-        <i>see</i>Note 2]
-    </div>
-  </td>
-</tr></table>
 
 ## Table of Amendments
 
@@ -2010,20 +1894,6 @@ _(l)_      Subsection 2(1) (item 7) of the _Freedom of Information A
     <div></div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Freedom of Information Amendment (Reform) Act 2010 (No. 51, 2010)_
-
-The following amendment commences immediately after 1 November 2010:
-
-## Schedule 5
-
-## 11  Subsection 12P(3)
-
-Omit “Privacy Commissioner”, substitute “Information Commissioner in relation to matters that relate to the privacy functions (within the meaning of the _Australian Information Commissioner Act 2010_)”.
-
-As at 7 June 2010 the amendment is not incorporated in this compilation.
 
 ## Table A
 
