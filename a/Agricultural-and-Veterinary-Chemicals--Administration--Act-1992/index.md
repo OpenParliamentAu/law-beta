@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2011C00118/Html/f4eecb99-6f8c-4987-82ea-9bc9ddff77b3_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00036/Html/0f432d2d-4525-45ef-9c07-febdc5520cdf_files/image001.gif)
 
 # Agricultural and Veterinary Chemicals (Administration) Act 1992
 
 **Act No. 262 of 1992 as amended**
 
-This compilation was prepared on 1 March 2011
+This compilation was prepared on 1 January 2011
  taking into account amendments up to Act No. 121 of 2010
 
 The text of any of those amendments not in force 
@@ -411,8 +411,6 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
                       (l)  to fund, and co-operate in, a program designed to ensure that active constituents for proposed or existing chemical products, chemical products, and labels for containers for chemical products, comply with the Agvet Codes and the Agvet Regulations.
 
           (1B)  Expressions used in subsection (1A) have the same meanings as in the Code set out in the Schedule to the _Agricultural and Veterinary Chemicals Code Act 1994_.
-
-          (1C)  The APVMA has any functions and powers that are conferred on it by Division 2A of Part 3 of the _Food Standards Australia New Zealand Act 1991_.
 
              (2)  The APVMA has any functions and powers that are expressed to be conferred on it by a law of a State.
 
@@ -2747,7 +2745,7 @@ Remainder: Royal Assent</div>
     <div>17 Nov 2010</div>
   </td>
   <td>
-    <div>Schedule 1 (item 1): 1 Mar 2011 ( <i>see</i>F2011L00312)</div>
+    <div>Schedule 1 (item 1): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -2975,7 +2973,7 @@ _(g)_ Subsection 2(1) (item 5) of the _Statute Law Revision Act 2008_ provides a
     <div>S. 7</div>
   </td>
   <td>
-    <div>am. Nos. 37 and 94, 1994; No. 13, 2003; No. 79, 2004; No. 121, 2010</div>
+    <div>am. Nos. 37 and 94, 1994; No. 13, 2003; No. 79, 2004</div>
   </td>
 </tr>
 <tr>
@@ -4762,6 +4760,23 @@ _(g)_ Subsection 2(1) (item 5) of the _Statute Law Revision Act 2008_ provides a
     <div>rep. No. 152, 1997</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Food Standards Australia New Zealand Amendment Act 2010 
+ (No. 121, 2010)_
+
+The following amendment commences on 17 May 2011 unless proclaimed earlier:
+
+## Schedule 1
+
+## 1  After subsection 7(1B)
+
+Insert:
+
+          (1C)  The APVMA has any functions and powers that are conferred on it by Division 2A of Part 3 of the _Food Standards Australia New Zealand Act 1991_.
+
+As at 1 January 2011 the amendment is not incorporated in this compilation.
 
 ## Table A
 
