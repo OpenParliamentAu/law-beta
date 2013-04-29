@@ -1,20 +1,21 @@
-![](http://www.comlaw.gov.au/Details/C2007C00394/Html/PrimIndExciseLevies1999_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00022/Html/image001.gif)
 
 # Primary Industries (Excise) Levies Act 1999
 
 **Act No. 31 of 1999 as amended**
 
-This compilation was prepared on 27 June 2007
- taking into account amendments up to Act No. 91 of 2007
+This compilation was prepared on 1 January 2006
+taking into account amendments up to Act No. 84 of 2005
 
 The text of any of those amendments not in force
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, Canberra
+
 
 # Contents
 
@@ -45,6 +46,10 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [4](#4).            Who pays the levy
 
 [5](#5).            Regulations
+
+[6](#6).            Transitional—regulations
+
+[7](#7).            Transitional—declarations
 
 **Schedule 2—Buffalo slaughter**
 
@@ -328,6 +333,10 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [5](#5).            Regulations
 
+[6](#6).            Transitional—regulations
+
+[7](#7).            Transitional—declarations
+
 **Schedule 18—Live-stock transactions**
 
 [1](#1).            Definitions
@@ -528,6 +537,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Notes** 
 
+
 ## An Act relating to the imposition of primary industries levies that are duties of excise
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
@@ -544,17 +554,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                    The following is a simplified outline of this Act:
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
-<li class="BoxList" style="margin-left:21.25pt">•     This
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•     This Act authorises the imposition of primary industries levies that are duties of excise.</li>
 
-Act authorises the imposition of primary industries levies that are duties of
-
-excise.</li>
-
-<li class="BoxList" style="margin-left:21.25pt">•     Each
-
-of Schedules 1 to 26 imposes a particular levy and makes provision for:</li>
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•     Each of Schedules 1 to 26 imposes a particular levy and makes provision for:</li>
 
                (a)     the operative rate of the levy; and
 
@@ -564,11 +568,7 @@ of Schedules 1 to 26 imposes a particular levy and makes provision for:</li>
 
                (d)     any exemptions from the levy.
 
-<li class="BoxList" style="margin-left:21.25pt">•     Schedule 27
-
-allows the regulations to impose levies. In addition to imposing a particular
-
-levy, regulations under Schedule 27 are to set out:</li>
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•     Schedule 27 allows the regulations to impose levies. In addition to imposing a particular levy, regulations under Schedule 27 are to set out:</li>
 
                (a)     the operative rate of the levy; and
 
@@ -576,13 +576,7 @@ levy, regulations under Schedule 27 are to set out:</li>
 
                (c)     any exemptions from the levy.
 
-<li class="BoxList" style="margin-left:21.25pt">•     Schedule 27
-
-sets out the maximum rate of levy that can be imposed by regulations under that
-
-Schedule.</li>
-
-* * *
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•     Schedule 27 sets out the maximum rate of levy that can be imposed by regulations under that Schedule.</li></div>
 
 ##### <a id="4"></a>4  Definitions
 
@@ -590,7 +584,7 @@ Schedule.</li>
 
 ##### <a id="5"></a>5  Act to bind Crown
 
-                   This Act binds the Crown in right of each of the States, of the Australian Capital Territory, of the Northern   Territory and of Norfolk Island.
+                   This Act binds the Crown in right of each of the States, of the Australian Capital Territory, of the Northern Territory and of Norfolk Island.
 
 ##### <a id="6"></a>6  Duties of excise
 
@@ -608,6 +602,7 @@ Schedule.</li>
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
+
 # Schedule 1—Beef production
 
 ##### <a id="1"></a>1  Definitions
@@ -619,6 +614,10 @@ Schedule.</li>
                     <a name="cold-carcas-weight"></a>**_cold carcase weight_** means the weight of a carcase weighed 2 hours or more after slaughter.
 
                     <a name="hot-carcas-weight"></a>**_hot carcase weight_** means the weight of a carcase weighed within 2 hours after slaughtering.
+
+                    <a name="industri-market-bodi"></a>**_industry marketing body_** has the same meaning as in Part 3 of the _Australian Meat and Live-stock Industry Act 1997_.
+
+                    <a name="industri-research-bodi"></a>**_industry research body_** has the same meaning as in Part 3 of the _Australian Meat and Live-stock Industry Act 1997_.
 
                     <a name="weigh-period"></a>**_weighing period_**, in relation to a carcase, means the period of time between slaughter and the earlier of the following events:
 
@@ -644,9 +643,9 @@ Schedule.</li>
 
                      (b)  the prescribed amount (not exceeding 1 cent).
 
-Note 1:       Paragraph (a) identifies amounts that, under the _Australian Meat and Live-stock Industry Act 1997_, are destined for the body declared under section 60 of that Act to be the meat processor marketing body.
+Note 1:       Paragraph (a) identifies amounts that, under the _Australian Meat and Live-stock Industry Act 1997_, are destined for the industry marketing body.
 
-Note 2:       Paragraph (b) identifies amounts that, under the _Australian Meat and Live-stock Industry Act 1997_, are destined for the body declared under section 60 of that Act to be the meat processor research body.
+Note 2:       Paragraph (b) identifies amounts that, under the _Australian Meat and Live-stock Industry Act 1997_, are destined for the industry research body.
 
              (2)  For the purposes of the calculation of levy imposed by this Schedule, the weight of a carcase is its hot carcase weight.
 
@@ -685,54 +684,56 @@ Note 2:       Paragraph (b) identifies amounts that, under the _Au
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>The abattoir is able to determine a hot carcase weight but fails to do
-      so.</div>
-  </td>
-  <td>
-    <div>240 kilograms</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>The abattoir is unable to determine a hot carcase weight but determines
-      a cold carcase weight within the weighing period.</div>
-  </td>
-  <td>
-    <div>Cold carcase weight multiplied by 1.03</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>The abattoir is unable to determine a hot carcase weight, is able to determine
-      a cold carcase weight but fails to do so within the weighing period.</div>
-  </td>
-  <td>
-    <div>240 kilograms</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>4</div>
-  </td>
-  <td>
-    <div>The abattoir is unable to determine a hot carcase weight and is unable
-      to determine a cold carcase weight within the weighing period.</div>
-  </td>
-  <td>
-    <div>240 kilograms</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>1</div>
+    </td>
+    <td>
+      <div>The abattoir is able to determine a hot carcase weight but fails to do
+        so.</div>
+    </td>
+    <td>
+      <div>240 kilograms</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>2</div>
+    </td>
+    <td>
+      <div>The abattoir is unable to determine a hot carcase weight but determines
+        a cold carcase weight within the weighing period.</div>
+    </td>
+    <td>
+      <div>Cold carcase weight multiplied by 1.03</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>3</div>
+    </td>
+    <td>
+      <div>The abattoir is unable to determine a hot carcase weight, is able to determine
+        a cold carcase weight but fails to do so within the weighing period.</div>
+    </td>
+    <td>
+      <div>240 kilograms</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>4</div>
+    </td>
+    <td>
+      <div>The abattoir is unable to determine a hot carcase weight and is unable
+        to determine a cold carcase weight within the weighing period.</div>
+    </td>
+    <td>
+      <div>240 kilograms</div>
+    </td>
+  </tr>
+</tbody></table>
 
 Note:          Section 24A of the _Primary Industries Levies and Charges Collection Act 1991_ creates offences that apply in the following situations:
 
@@ -749,6 +750,26 @@ Note:          Section 24A of the _Primary Industries Levies
              (1)  The Minister may, by notice in the _Gazette_, declare a body to be the body whose recommendation about the amount to be prescribed for the purposes of paragraph 3(1)(a) or 3(1)(b) of this Schedule are to be taken into consideration under subclause (2).
 
              (2)  If a declaration is in force under subclause (1), then, before the Governor-General makes regulations for the purposes of the paragraph to which the declaration relates, the Minister must take into consideration any relevant recommendation made to the Minister by the body specified in the declaration in relation to that paragraph.
+
+##### <a id="6"></a>6  Transitional—regulations
+
+             (1)  This clause applies to regulations if:
+
+                     (a)  the regulations were made for the purposes of a particular provision of the _Beef Production Levy Act 1990_; and
+
+                     (b)  the regulations were in force immediately before the commencement of this clause.
+
+             (2)  The regulations have effect, after the commencement of this clause, as if they had been made for the purposes of the corresponding provision of this Schedule.
+
+##### <a id="7"></a>7  Transitional—declarations
+
+             (1)  This clause applies to a declaration if:
+
+                     (a)  the declaration was made for the purposes of a particular provision of the _Beef Production Levy Act 1990_; and
+
+                     (b)  the declaration was in force immediately before the commencement of this clause.
+
+             (2)  The declaration has effect, after the commencement of this clause, as if it had been made for the purposes of the corresponding provision of this Schedule.
 
 # Schedule 2—Buffalo slaughter
 
@@ -1409,50 +1430,52 @@ acquisition offset levy is not imposed by this Schedule on the acquisition of th
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>Market milk levy</div>
-  </td>
-  <td>
-    <div>15.750 cents per kilogram</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>Manufacturing milk levy</div>
-  </td>
-  <td>
-    <div>45.000 cents per kilogram</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>Dairy service levy</div>
-  </td>
-  <td>
-    <div>5.425 cents per kilogram</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>6</div>
-  </td>
-  <td>
-    <div>Australian Animal Health Council levy</div>
-  </td>
-  <td>
-    <div>0.058 cent per kilogram</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>1</div>
+    </td>
+    <td>
+      <div>Market milk levy</div>
+    </td>
+    <td>
+      <div>15.750 cents per kilogram</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>2</div>
+    </td>
+    <td>
+      <div>Manufacturing milk levy</div>
+    </td>
+    <td>
+      <div>45.000 cents per kilogram</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>3</div>
+    </td>
+    <td>
+      <div>Dairy service levy</div>
+    </td>
+    <td>
+      <div>5.425 cents per kilogram</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>6</div>
+    </td>
+    <td>
+      <div>Australian Animal Health Council levy</div>
+    </td>
+    <td>
+      <div>0.058 cent per kilogram</div>
+    </td>
+  </tr>
+</tbody></table>
 
 ##### <a id="12"></a>12  Protein rate
 
@@ -1491,50 +1514,52 @@ acquisition offset levy is not imposed by this Schedule on the acquisition of th
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>Market milk levy</div>
-  </td>
-  <td>
-    <div>38.39060 cents per kilogram</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>Manufacturing milk levy</div>
-  </td>
-  <td>
-    <div>110.00000 cents per kilogram</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>Dairy service levy</div>
-  </td>
-  <td>
-    <div>13.22343 cents per kilogram</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>6</div>
-  </td>
-  <td>
-    <div>Australian Animal Health Council levy</div>
-  </td>
-  <td>
-    <div>0.13850 cent per kilogram</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>1</div>
+    </td>
+    <td>
+      <div>Market milk levy</div>
+    </td>
+    <td>
+      <div>38.39060 cents per kilogram</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>2</div>
+    </td>
+    <td>
+      <div>Manufacturing milk levy</div>
+    </td>
+    <td>
+      <div>110.00000 cents per kilogram</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>3</div>
+    </td>
+    <td>
+      <div>Dairy service levy</div>
+    </td>
+    <td>
+      <div>13.22343 cents per kilogram</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>6</div>
+    </td>
+    <td>
+      <div>Australian Animal Health Council levy</div>
+    </td>
+    <td>
+      <div>0.13850 cent per kilogram</div>
+    </td>
+  </tr>
+</tbody></table>
 
 ##### <a id="13"></a>13  Who pays the levy
 
@@ -1854,7 +1879,7 @@ Note:          A determination by the Secretary of the declare
 
                      (d)  levy under this Schedule or under the repealed _Forest__Industries Research Levy Act 1993_ has already been paid on the logs; or
 
-                     (e)  charge under Schedule 7 to the _Primary Industries (Customs) Charges Act 1999_, or under the repealed  _Forest__Industries Research Export Charge Act 1993_, has already been paid on the logs.
+                     (e)  charge under Schedule 7 to the _Primary Industries (Customs) Charges Act 1999_, or under the repealed _Forest__Industries Research Export Charge Act 1993_, has already been paid on the logs.
 
              (3)  The regulations may exempt a specified class of logs from levy imposed by this Schedule.
 
@@ -1916,7 +1941,7 @@ Note:          A determination by the Secretary of the declare
 
                      (a)  in the case of fibre sold in Australia in a pool—the amount paid for the fibre; or
 
-                     (b)  in the case of other fibre sold in   Australia:
+                     (b)  in the case of other fibre sold in Australia:
 
                               (i)  if there are invoices or other documents relating to the sale that show the sale price for the fibre—that price; or
 
@@ -2562,6 +2587,10 @@ Note:          Paragraph (b) identifies amounts that, under 
 
                    In this Schedule:
 
+                    <a name="industri-market-bodi"></a>**_industry marketing body_** has the same meaning as in Part 3 of the _Australian Meat and Live-stock Industry Act 1997_.
+
+                    <a name="industri-research-bodi"></a>**_industry research body_** has the same meaning as in Part 3 of the _Australian Meat and Live-stock Industry Act 1997_.
+
                     <a name="lamb"></a>**_lamb_** means a sheep that has not cut a permanent incisor tooth.
 
                     <a name="live-stock"></a>**_live-stock_** means sheep, lambs and goats.
@@ -2594,9 +2623,9 @@ Rate of levy on slaughter of sheep
 
                      (b)  the prescribed amount (not exceeding 25 cents).
 
-Note 1:       Paragraph (a) identifies amounts that, under the _Australian Meat and Live-stock Industry Act 1997_, are destined for the body declared under section 60 of that Act to be the meat processor marketing body.
+Note 1:       Paragraph (a) identifies amounts that, under the _Australian Meat and Live-stock Industry Act 1997_, are destined for the industry marketing body.
 
-Note 2:       Paragraph (b) identifies amounts that, under the _Australian Meat and Live-stock Industry Act 1997_, are destined for the body declared under section 60 of that Act to be the meat processor research body.
+Note 2:       Paragraph (b) identifies amounts that, under the _Australian Meat and Live-stock Industry Act 1997_, are destined for the industry research body.
 
 Rate of levy on slaughter of lambs
 
@@ -2606,9 +2635,9 @@ Rate of levy on slaughter of lambs
 
                      (b)  the prescribed amount (not exceeding 25 cents).
 
-Note 1:       Paragraph (a) identifies amounts that, under the _Australian Meat and Live-stock Industry Act 1997_, are destined for the body declared under section 60 of that Act to be the meat processor marketing body.
+Note 1:       Paragraph (a) identifies amounts that, under the _Australian Meat and Live-stock Industry Act 1997_, are destined for the industry marketing body.
 
-Note 2:       Paragraph (b) identifies amounts that, under the _Australian Meat and Live-stock Industry Act 1997_, are destined for the body declared under section 60 of that Act to be the meat processor research body.
+Note 2:       Paragraph (b) identifies amounts that, under the _Australian Meat and Live-stock Industry Act 1997_, are destined for the industry research body.
 
 Rate of levy on slaughter of goats
 
@@ -2618,9 +2647,9 @@ Rate of levy on slaughter of goats
 
                      (b)  the prescribed amount (not exceeding 25 cents).
 
-Note 1:       Paragraph (a) identifies amounts that, under the _Australian Meat and Live-stock Industry Act 1997_, are destined for the body declared under section 60 of that Act to be the meat processor marketing body.
+Note 1:       Paragraph (a) identifies amounts that, under the _Australian Meat and Live-stock Industry Act 1997_, are destined for the industry marketing body.
 
-Note 2:       Paragraph (b) identifies amounts that, under the _Australian Meat and Live-stock Industry Act 1997_, are destined for the body declared under section 60 of that Act to be the meat processor research body.
+Note 2:       Paragraph (b) identifies amounts that, under the _Australian Meat and Live-stock Industry Act 1997_, are destined for the industry research body.
 
 ##### <a id="4"></a>4  Who pays the levy
 
@@ -2631,6 +2660,26 @@ Note 2:       Paragraph (b) identifies amounts that, under the _Au
              (1)  The Minister may, by notice in the _Gazette_, declare a body to be the body whose recommendations about the amount to be prescribed for the purposes of paragraph 3(1)(a), 3(1)(b), 3(2)(a), 3(2)(b), 3(3)(a) or 3(3)(b) of this Schedule are to be taken into consideration under subclause (2).
 
              (2)  If a declaration is in force under subclause (1), then, before the Governor-General makes regulations prescribing an amount for the purpose of the paragraph to which the declaration relates, the Minister must take into consideration any relevant recommendation made to the Minister by the body specified in the declaration in relation to that paragraph.
+
+##### <a id="6"></a>6  Transitional—regulations
+
+             (1)  This clause applies to regulations if:
+
+                     (a)  the regulations were made for the purposes of a particular provision of the _Live-stock Slaughter (Processors) Levy Act 1997_; and
+
+                     (b)  the regulations were in force immediately before the commencement of this clause.
+
+             (2)  The regulations have effect, after the commencement of this clause, as if they had been made for the purposes of the corresponding provision of this Schedule.
+
+##### <a id="7"></a>7  Transitional—declarations
+
+             (1)  This clause applies to a declaration if:
+
+                     (a)  the declaration was made for the purposes of a particular provision of the _Live-stock Slaughter (Processors) Levy Act 1997_; and
+
+                     (b)  the declaration was in force immediately before the commencement of this clause.
+
+             (2)  The declaration has effect, after the commencement of this clause, as if it had been made for the purposes of the corresponding provision of this Schedule.
 
 # Schedule 18—Live-stock transactions
 
@@ -3008,7 +3057,7 @@ the Minister must take into consideration any relevant recommendation made to th
 
                     <a name="leviabl-seed"></a>**_leviable seed_** means seed of a plant of a species specified in the table in subclause 5(1).
 
-##### <a id="2"></a>2  Imposition of levy
+##### <a id="2"></a>2  Imposition of levy
 
                    Levy is imposed on leviable seed:
 
@@ -3069,345 +3118,345 @@ the Minister must take into consideration any relevant recommendation made to th
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>
-      <i>Medicago littoralis</i>
-    </div>
-  </td>
-  <td>
-    <div>Strand medic</div>
-  </td>
-  <td>
-    <div>$10.00/tonne</div>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>
-      <i>Medicago murex</i>
-    </div>
-  </td>
-  <td>
-    <div>Murex medic</div>
-  </td>
-  <td>
-    <div>$10.00/tonne</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>
-      <i>Medicago polymorpha</i>
-    </div>
-  </td>
-  <td>
-    <div>Burr medic</div>
-  </td>
-  <td>
-    <div>$10.00/tonne</div>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>4</div>
-  </td>
-  <td>
-    <div>
-      <i>Medicago rugosa</i>
-    </div>
-  </td>
-  <td>
-    <div>Gama medic</div>
-  </td>
-  <td>
-    <div>$10.00/tonne</div>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>5</div>
-  </td>
-  <td>
-    <div>
-      <i>Medicago sativa</i>
-    </div>
-  </td>
-  <td>
-    <div>Lucerne</div>
-  </td>
-  <td>
-    <div>$14.00/tonne</div>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>6</div>
-  </td>
-  <td>
-    <div>
-      <i>Medicago scutellata</i>
-    </div>
-  </td>
-  <td>
-    <div>Snail medic</div>
-  </td>
-  <td>
-    <div>$10.00/tonne</div>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>7</div>
-  </td>
-  <td>
-    <div>
-      <i>Medicago sphaerocarpos</i>
-    </div>
-  </td>
-  <td>
-    <div>Sphere medic</div>
-  </td>
-  <td>
-    <div>$10.00/tonne</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>8</div>
-  </td>
-  <td>
-    <div>
-      <i>Medicago tornata</i>
-    </div>
-  </td>
-  <td>
-    <div>Disc medic</div>
-  </td>
-  <td>
-    <div>$10.00/tonne</div>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>9</div>
-  </td>
-  <td>
-    <div>
-      <i>Medicago truncatula</i>
-    </div>
-  </td>
-  <td>
-    <div>Barrel medic</div>
-  </td>
-  <td>
-    <div>$10.00/tonne</div>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      10
-    </div>
-  </td>
-  <td>
-    <div>
-      <i>Ornithopus compressus</i>
-    </div>
-  </td>
-  <td>
-    <div>Yellow serradella</div>
-  </td>
-  <td>
-    <div>$10.00/tonne</div>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>11</div>
-  </td>
-  <td>
-    <div>
-      <i>Trifolium alexandrium</i>
-    </div>
-  </td>
-  <td>
-    <div>Berseem clover</div>
-  </td>
-  <td>
-    <div>$12.50/tonne</div>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>12</div>
-  </td>
-  <td>
-    <div>
-      <i>Trifolium balansae</i>
-    </div>
-  </td>
-  <td>
-    <div>Balansa clover</div>
-  </td>
-  <td>
-    <div>$12.50/tonne</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>13</div>
-  </td>
-  <td>
-    <div>
-      <i>Trifolium fragiferum</i>
-    </div>
-  </td>
-  <td>
-    <div>Strawberry clover</div>
-  </td>
-  <td>
-    <div>$12.50/tonne</div>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>14</div>
-  </td>
-  <td>
-    <div>
-      <i>Trifolium hirtum</i>
-    </div>
-  </td>
-  <td>
-    <div>Rose clover</div>
-  </td>
-  <td>
-    <div>$12.50/tonne</div>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>15</div>
-  </td>
-  <td>
-    <div>
-      <i>Trifolium pratense</i>
-    </div>
-  </td>
-  <td>
-    <div>Red clover</div>
-  </td>
-  <td>
-    <div>$12.50/tonne</div>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>16</div>
-  </td>
-  <td>
-    <div>
-      <i>Trifolium repens</i>
-    </div>
-  </td>
-  <td>
-    <div>White clover</div>
-  </td>
-  <td>
-    <div>$12.50/tonne</div>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>17</div>
-  </td>
-  <td>
-    <div>
-      <i>Trifolium resupinatum</i>
-    </div>
-  </td>
-  <td>
-    <div>Persian clover</div>
-  </td>
-  <td>
-    <div>$12.50/tonne</div>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>18</div>
-  </td>
-  <td>
-    <div>
-      <i>Trifolium semipilosum</i>
-    </div>
-  </td>
-  <td>
-    <div>Kenya white clover</div>
-  </td>
-  <td>
-    <div>$12.50/tonne</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>19</div>
-  </td>
-  <td>
-    <div>
-      <i>Trifolium subterraneum</i>
-    </div>
-  </td>
-  <td>
-    <div>Subterranean clover</div>
-  </td>
-  <td>
-    <div>$11.00/tonne</div>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>20</div>
-  </td>
-  <td>
-    <div>
-      <i>Trifolium vesiculosum</i>
-    </div>
-  </td>
-  <td>
-    <div>Arrow leaf clover</div>
-  </td>
-  <td>
-    <div>$12.50/tonne</div>
-  </td>
-</tr></table>
-
-</div>
+<tbody>
+  <tr>
+    <td>
+      <div>1</div>
+    </td>
+    <td>
+      <div>
+        <i>Medicago littoralis</i>
+      </div>
+    </td>
+    <td>
+      <div>Strand medic</div>
+    </td>
+    <td>
+      <div>$10.00/tonne</div>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>2</div>
+    </td>
+    <td>
+      <div>
+        <i>Medicago murex</i>
+      </div>
+    </td>
+    <td>
+      <div>Murex medic</div>
+    </td>
+    <td>
+      <div>$10.00/tonne</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>3</div>
+    </td>
+    <td>
+      <div>
+        <i>Medicago polymorpha</i>
+      </div>
+    </td>
+    <td>
+      <div>Burr medic</div>
+    </td>
+    <td>
+      <div>$10.00/tonne</div>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>4</div>
+    </td>
+    <td>
+      <div>
+        <i>Medicago rugosa</i>
+      </div>
+    </td>
+    <td>
+      <div>Gama medic</div>
+    </td>
+    <td>
+      <div>$10.00/tonne</div>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>5</div>
+    </td>
+    <td>
+      <div>
+        <i>Medicago sativa</i>
+      </div>
+    </td>
+    <td>
+      <div>Lucerne</div>
+    </td>
+    <td>
+      <div>$14.00/tonne</div>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>6</div>
+    </td>
+    <td>
+      <div>
+        <i>Medicago scutellata</i>
+      </div>
+    </td>
+    <td>
+      <div>Snail medic</div>
+    </td>
+    <td>
+      <div>$10.00/tonne</div>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>7</div>
+    </td>
+    <td>
+      <div>
+        <i>Medicago sphaerocarpos</i>
+      </div>
+    </td>
+    <td>
+      <div>Sphere medic</div>
+    </td>
+    <td>
+      <div>$10.00/tonne</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>8</div>
+    </td>
+    <td>
+      <div>
+        <i>Medicago tornata</i>
+      </div>
+    </td>
+    <td>
+      <div>Disc medic</div>
+    </td>
+    <td>
+      <div>$10.00/tonne</div>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>9</div>
+    </td>
+    <td>
+      <div>
+        <i>Medicago truncatula</i>
+      </div>
+    </td>
+    <td>
+      <div>Barrel medic</div>
+    </td>
+    <td>
+      <div>$10.00/tonne</div>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        10
+      </div>
+    </td>
+    <td>
+      <div>
+        <i>Ornithopus compressus</i>
+      </div>
+    </td>
+    <td>
+      <div>Yellow serradella</div>
+    </td>
+    <td>
+      <div>$10.00/tonne</div>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>11</div>
+    </td>
+    <td>
+      <div>
+        <i>Trifolium alexandrium</i>
+      </div>
+    </td>
+    <td>
+      <div>Berseem clover</div>
+    </td>
+    <td>
+      <div>$12.50/tonne</div>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>12</div>
+    </td>
+    <td>
+      <div>
+        <i>Trifolium balansae</i>
+      </div>
+    </td>
+    <td>
+      <div>Balansa clover</div>
+    </td>
+    <td>
+      <div>$12.50/tonne</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>13</div>
+    </td>
+    <td>
+      <div>
+        <i>Trifolium fragiferum</i>
+      </div>
+    </td>
+    <td>
+      <div>Strawberry clover</div>
+    </td>
+    <td>
+      <div>$12.50/tonne</div>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>14</div>
+    </td>
+    <td>
+      <div>
+        <i>Trifolium hirtum</i>
+      </div>
+    </td>
+    <td>
+      <div>Rose clover</div>
+    </td>
+    <td>
+      <div>$12.50/tonne</div>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>15</div>
+    </td>
+    <td>
+      <div>
+        <i>Trifolium pratense</i>
+      </div>
+    </td>
+    <td>
+      <div>Red clover</div>
+    </td>
+    <td>
+      <div>$12.50/tonne</div>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>16</div>
+    </td>
+    <td>
+      <div>
+        <i>Trifolium repens</i>
+      </div>
+    </td>
+    <td>
+      <div>White clover</div>
+    </td>
+    <td>
+      <div>$12.50/tonne</div>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>17</div>
+    </td>
+    <td>
+      <div>
+        <i>Trifolium resupinatum</i>
+      </div>
+    </td>
+    <td>
+      <div>Persian clover</div>
+    </td>
+    <td>
+      <div>$12.50/tonne</div>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>18</div>
+    </td>
+    <td>
+      <div>
+        <i>Trifolium semipilosum</i>
+      </div>
+    </td>
+    <td>
+      <div>Kenya white clover</div>
+    </td>
+    <td>
+      <div>$12.50/tonne</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>19</div>
+    </td>
+    <td>
+      <div>
+        <i>Trifolium subterraneum</i>
+      </div>
+    </td>
+    <td>
+      <div>Subterranean clover</div>
+    </td>
+    <td>
+      <div>$11.00/tonne</div>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>20</div>
+    </td>
+    <td>
+      <div>
+        <i>Trifolium vesiculosum</i>
+      </div>
+    </td>
+    <td>
+      <div>Arrow leaf clover</div>
+    </td>
+    <td>
+      <div>$12.50/tonne</div>
+    </td>
+  </tr>
+</tbody></table></div>
 
              (2)  The Minister may, by instrument published in the _Gazette_, declare that the table is to be taken to be amended in a manner specified in the instrument, and that declaration has effect accordingly.
 
@@ -3503,7 +3552,7 @@ Note 3:       Paragraph (c) identifies amounts that, under the _Au
 
                     <a name="rice-industri-bodi"></a>**_rice industry body_** means:
 
-                     (a)  the Rice Marketing Board for New   South Wales; or
+                     (a)  the Rice Marketing Board for New South Wales; or
 
                      (b)  the Rice Growers’ Association of Australia; or
 
@@ -4025,6 +4074,7 @@ Note:          Products may be specified by name, by inclusion
 
              (4)  Before making a recommendation under this clause, a designated body must consult such other bodies (if any) as are specified in the regulations.
 
+
 # Notes to the _Primary Industries (Excise) Levies Act 1999_
 
 ### Note 1
@@ -4053,11 +4103,13 @@ For all other relevant information pertaining to application, saving or transiti
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -4067,231 +4119,221 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Primary Industries (Excise) Levies Act 1999</div>
-  </td>
-  <td>
-    <div>31, 1999</div>
-  </td>
-  <td>
-    <div>14 May 1999</div>
-  </td>
-  <td>
-    <div>Schedule 26: 1 Jan 2000 
-Remainder: 1 July 1999</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Primary Industries (Excise) Levies (GST Consequential Amendments) Act 2000</div>
-  </td>
-  <td>
-    <div>32, 2000</div>
-  </td>
-  <td>
-    <div>19 Apr 2000</div>
-  </td>
-  <td>
-    <div>1 July 2000 <i>(a)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Primary Industries (Excise) Levies Amendment Act 2000</div>
-  </td>
-  <td>
-    <div>65, 2000</div>
-  </td>
-  <td>
-    <div>22 June 2000</div>
-  </td>
-  <td>
-    <div>30 June 2000</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Horticulture Marketing and Research and Development Services (Repeals and Consequential Provisions) Act 2000</div>
-  </td>
-  <td>
-    <div>163, 2000</div>
-  </td>
-  <td>
-    <div>21 Dec 2000</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 17–29): <i>(b)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Pig Industry Act 2001</div>
-  </td>
-  <td>
-    <div>30, 2001</div>
-  </td>
-  <td>
-    <div>28 Apr 2001</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 4–14):(c)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Corporations (Repeals, Consequentials and Transitionals) Act 2001</div>
-  </td>
-  <td>
-    <div>55, 2001</div>
-  </td>
-  <td>
-    <div>28 June 2001</div>
-  </td>
-  <td>
-    <div>Ss. 4–14 and Schedule 3 (items 433–436): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(d)</i></div>
-  </td>
-  <td>
-    <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Egg Industry Service Provision (Transitional and Consequential Provisions) Act 2002</div>
-  </td>
-  <td>
-    <div>115, 2002</div>
-  </td>
-  <td>
-    <div>2 Dec 2002</div>
-  </td>
-  <td>
-    <div>Schedule 1: 16 Jan 2003 ( <i>see</i>s. 2(1) and <i>Gazette</i>2003, No. S11) <i>(e)</i> 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Primary Industries (Excise) Levies Amendment (Dairy) Act 2003</div>
-  </td>
-  <td>
-    <div>31, 2003</div>
-  </td>
-  <td>
-    <div>15 Apr 2003</div>
-  </td>
-  <td>
-    <div>Schedule 1: 1 July 2003 ( <i>see</i>s. 2(1) and <i>Gazette</i>2003, No. S228) 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 8)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Primary Industries (Excise) Levies Amendment (Wine Grapes) Act 2004</div>
-  </td>
-  <td>
-    <div>5, 2004</div>
-  </td>
-  <td>
-    <div>27 Feb 2004</div>
-  </td>
-  <td>
-    <div>27 Feb 2004</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 2)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 2) 2004</div>
-  </td>
-  <td>
-    <div>139, 2004</div>
-  </td>
-  <td>
-    <div>13 Dec 2004</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 66–101): 13 Dec 2004</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Framework Legislation Amendment Act 2005</div>
-  </td>
-  <td>
-    <div>8, 2005</div>
-  </td>
-  <td>
-    <div>22 Feb 2005</div>
-  </td>
-  <td>
-    <div>S. 4 and Schedule 1 (items 276–283, 496): Royal Assent</div>
-  </td>
-  <td>
-    <div>S. 4 and Sch. 1 (item 496)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Primary Industries (Excise) Levies Amendment (Rice) Act 2005</div>
-  </td>
-  <td>
-    <div>84, 2005</div>
-  </td>
-  <td>
-    <div>6 July 2005</div>
-  </td>
-  <td>
-    <div>Schedule 1: 1 Jan 2006 ( <i>see</i>F2005L03468) 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 11)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Agriculture, Fisheries and Forestry Legislation Amendment (2007 Measures No. 1) Act 2007</div>
-  </td>
-  <td>
-    <div>91, 2007</div>
-  </td>
-  <td>
-    <div>22 June 2007</div>
-  </td>
-  <td>
-    <div>22 June 2007</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Primary Industries (Excise) Levies Act 1999</div>
+    </td>
+    <td>
+      <div>31, 1999</div>
+    </td>
+    <td>
+      <div>14 May 1999</div>
+    </td>
+    <td>
+      <div>Schedule 26: 1 Jan 2000 
+Remainder: 1 July 1999 
+</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Primary Industries (Excise) Levies (GST Consequential Amendments) Act 2000</div>
+    </td>
+    <td>
+      <div>32, 2000</div>
+    </td>
+    <td>
+      <div>19 Apr 2000</div>
+    </td>
+    <td>
+      <div>1 July 2000 <i>(a)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Primary Industries (Excise) Levies Amendment Act 2000</div>
+    </td>
+    <td>
+      <div>65, 2000</div>
+    </td>
+    <td>
+      <div>22 June 2000</div>
+    </td>
+    <td>
+      <div>30 June 2000</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Horticulture Marketing and Research and Development Services (Repeals and Consequential Provisions) Act 2000</div>
+    </td>
+    <td>
+      <div>163, 2000</div>
+    </td>
+    <td>
+      <div>21 Dec 2000</div>
+    </td>
+    <td>
+      <div>Schedule 2 (items 17–29): <i>(b)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Pig Industry Act 2001</div>
+    </td>
+    <td>
+      <div>30, 2001</div>
+    </td>
+    <td>
+      <div>28 Apr 2001</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 4–14):(c)</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Corporations (Repeals, Consequentials and Transitionals) Act 2001</div>
+    </td>
+    <td>
+      <div>55, 2001</div>
+    </td>
+    <td>
+      <div>28 June 2001</div>
+    </td>
+    <td>
+      <div>Ss. 4–14 and Schedule 3 (items 433–436): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(d)</i></div>
+    </td>
+    <td>
+      <div>Ss. 4–14</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Egg Industry Service Provision (Transitional and Consequential Provisions) Act 2002</div>
+    </td>
+    <td>
+      <div>115, 2002</div>
+    </td>
+    <td>
+      <div>2 Dec 2002</div>
+    </td>
+    <td>
+      <div>Schedule 1: 16 Jan 2003 ( <i>see</i>s. 2(1) and <i>Gazette</i>2003, No. S11) <i>(e)</i> 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Primary Industries (Excise) Levies Amendment (Dairy) Act 2003</div>
+    </td>
+    <td>
+      <div>31, 2003</div>
+    </td>
+    <td>
+      <div>15 Apr 2003</div>
+    </td>
+    <td>
+      <div>Schedule 1: 1 July 2003 ( <i>see</i>s. 2(1) and <i>Gazette</i>2003, No. S228) 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>Sch. 1 (item 8)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Primary Industries (Excise) Levies Amendment (Wine Grapes) Act 2004</div>
+    </td>
+    <td>
+      <div>5, 2004</div>
+    </td>
+    <td>
+      <div>27 Feb 2004</div>
+    </td>
+    <td>
+      <div>27 Feb 2004</div>
+    </td>
+    <td>
+      <div>Sch. 1 (item 2)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 2) 2004</div>
+    </td>
+    <td>
+      <div>139, 2004</div>
+    </td>
+    <td>
+      <div>13 Dec 2004</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 66–101): 13 Dec 2004</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Financial Framework Legislation Amendment Act 2005</div>
+    </td>
+    <td>
+      <div>8, 2005</div>
+    </td>
+    <td>
+      <div>22 Feb 2005</div>
+    </td>
+    <td>
+      <div>S. 4 and Schedule 1 (items 276–283, 496): Royal Assent</div>
+    </td>
+    <td>
+      <div>S. 4 and Sch. 1 (item 496)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Primary Industries (Excise) Levies Amendment (Rice) Act 2005</div>
+    </td>
+    <td>
+      <div>84, 2005</div>
+    </td>
+    <td>
+      <div>6 July 2005</div>
+    </td>
+    <td>
+      <div>Schedule 1: 1 Jan 2006 ( <i>see</i>F2005L03468) 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>Sch. 1 (item 11)</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 _(a)_ The _Primary Industries (Excise) Levies Act 1999_ was amended by the _Primary Industries (Excise) Levies (GST Consequential Amendments) Act 2000_, section 2 of which provides as follows:
 
@@ -4387,28 +4429,31 @@ _(e)_     Subsection 2(1) (item 2) of the _Egg Industry Service Provis
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>
-      2\. Schedule 1
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the date when the first declaration of an industry services
-        body under subsection 6(1) of the
-        <i>Egg Industry Service Provision Act 2002</i>takes effect
-    </div>
-  </td>
-  <td>
-    <div>
-      16 January 2003
-      (
-        <i>see</i>
-        <i>Gazette</i>2003, No. S11)
-    </div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>
+        2\. Schedule 1
+      </div>
+    </td>
+    <td>
+      <div>
+        Immediately after the date when the first declaration of an industry services
+          body under subsection 6(1) of the
+          <i>Egg Industry Service Provision Act 2002</i>takes effect
+      </div>
+    </td>
+    <td>
+      <div>
+        16 January 2003
+        (
+          <i>see</i>
+          <i>Gazette</i>2003, No. S11)
+      </div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table of Amendments
 
@@ -4433,502 +4478,489 @@ _(e)_     Subsection 2(1) (item 2) of the _Egg Industry Service Provis
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div><b>Schedule 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C. 1</div>
-  </td>
-  <td>
-    <div>am. No. 139, 2004; No. 91, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Notes 1, 2 to c. 3(1)</div>
-  </td>
-  <td>
-    <div>am. No. 139, 2004; No. 91, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Cc. 6, 7</div>
-  </td>
-  <td>
-    <div>rep. No. 91, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note 2 to c. 2</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C. 1</div>
-  </td>
-  <td>
-    <div>am. No. 139, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C. 4</div>
-  </td>
-  <td>
-    <div>am. No. 55, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Notes 1, 2 to c. 6(1)</div>
-  </td>
-  <td>
-    <div>am. No. 139, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note 3 to c. 6(1)</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Notes 1, 2 to c. 6(2)</div>
-  </td>
-  <td>
-    <div>am. No. 139, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note 3 to c. 6(2)</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Notes 1, 2 to c. 6(3)</div>
-  </td>
-  <td>
-    <div>am. No. 139, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note 3 to c. 6(3)</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 6</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C. 1</div>
-  </td>
-  <td>
-    <div>am. No. 55, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C. 5</div>
-  </td>
-  <td>
-    <div>am. No. 55, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C. 6</div>
-  </td>
-  <td>
-    <div>am. No. 31, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Cc. 10–14</div>
-  </td>
-  <td>
-    <div>am. No. 31, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 8</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C. 1</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 11</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C. 1</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 14</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C. 1</div>
-  </td>
-  <td>
-    <div>am. No. 163, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C. 6</div>
-  </td>
-  <td>
-    <div>am. No. 163, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 15</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C. 1</div>
-  </td>
-  <td>
-    <div>am. No. 163, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to c. 4(1)</div>
-  </td>
-  <td>
-    <div>rs. No. 163, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to c. 4(3)</div>
-  </td>
-  <td>
-    <div>rs. No. 163, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C. 4</div>
-  </td>
-  <td>
-    <div>am. No. 163, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C. 6</div>
-  </td>
-  <td>
-    <div>am. No. 163, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 16</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C. 1</div>
-  </td>
-  <td>
-    <div>am. No. 115, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C. 6</div>
-  </td>
-  <td>
-    <div>am. No. 115, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 17</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C. 1</div>
-  </td>
-  <td>
-    <div>am. No. 139, 2004; No. 91, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Notes 1, 2 to c. 3(1)</div>
-  </td>
-  <td>
-    <div>am. No. 139, 2004; No. 91, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Notes 1, 2 to c. 3(2)</div>
-  </td>
-  <td>
-    <div>am. No. 139, 2004; No. 91, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Notes 1, 2 to c. 3(3)</div>
-  </td>
-  <td>
-    <div>am. No. 139, 2004; No. 91, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Cc. 6, 7</div>
-  </td>
-  <td>
-    <div>rep. No. 91, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 18</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C. 1</div>
-  </td>
-  <td>
-    <div>am. No. 139, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C. 2</div>
-  </td>
-  <td>
-    <div>am. No. 55, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Notes 1, 2 to c. 4(1)</div>
-  </td>
-  <td>
-    <div>am. No. 139, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Notes 1, 2 to c. 4(3)</div>
-  </td>
-  <td>
-    <div>am. No. 139, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Notes 1, 2 to c. 4(4)</div>
-  </td>
-  <td>
-    <div>am. No. 139, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C. 7</div>
-  </td>
-  <td>
-    <div>am. No. 65, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 22</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C. 1</div>
-  </td>
-  <td>
-    <div>am. No. 30, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Notes 1, 2 to C. 3</div>
-  </td>
-  <td>
-    <div>rs. No. 30, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C. 5</div>
-  </td>
-  <td>
-    <div>am. No. 30, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 23</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C. 1</div>
-  </td>
-  <td>
-    <div>am. No. 84, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C. 3</div>
-  </td>
-  <td>
-    <div>am. No. 84, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C. 5</div>
-  </td>
-  <td>
-    <div>rep. No. 84, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C. 8</div>
-  </td>
-  <td>
-    <div>rep. No. 84, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 26</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C. 7</div>
-  </td>
-  <td>
-    <div>am. No. 5, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 27</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C. 1</div>
-  </td>
-  <td>
-    <div>am. No. 163, 2000</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div><b>Schedule 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C. 1</div>
+    </td>
+    <td>
+      <div>am. No. 139, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Notes 1, 2 to c. 3(1)</div>
+    </td>
+    <td>
+      <div>am. No. 139, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Schedule 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note 2 to c. 2</div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Schedule 3</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C. 1</div>
+    </td>
+    <td>
+      <div>am. No. 139, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C. 4</div>
+    </td>
+    <td>
+      <div>am. No. 55, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Notes 1, 2 to c. 6(1)</div>
+    </td>
+    <td>
+      <div>am. No. 139, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note 3 to c. 6(1)</div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Notes 1, 2 to c. 6(2)</div>
+    </td>
+    <td>
+      <div>am. No. 139, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note 3 to c. 6(2)</div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Notes 1, 2 to c. 6(3)</div>
+    </td>
+    <td>
+      <div>am. No. 139, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note 3 to c. 6(3)</div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Schedule 6</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C. 1</div>
+    </td>
+    <td>
+      <div>am. No. 55, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C. 5</div>
+    </td>
+    <td>
+      <div>am. No. 55, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C. 6</div>
+    </td>
+    <td>
+      <div>am. No. 31, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Cc. 10–14</div>
+    </td>
+    <td>
+      <div>am. No. 31, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Schedule 8</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C. 1</div>
+    </td>
+    <td>
+      <div>am. No. 32, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Schedule 11</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C. 1</div>
+    </td>
+    <td>
+      <div>am. No. 32, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Schedule 14</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C. 1</div>
+    </td>
+    <td>
+      <div>am. No. 163, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C. 6</div>
+    </td>
+    <td>
+      <div>am. No. 163, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Schedule 15</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C. 1</div>
+    </td>
+    <td>
+      <div>am. No. 163, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Subhead. to c. 4(1)</div>
+    </td>
+    <td>
+      <div>rs. No. 163, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Subhead. to c. 4(3)</div>
+    </td>
+    <td>
+      <div>rs. No. 163, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C. 4</div>
+    </td>
+    <td>
+      <div>am. No. 163, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C. 6</div>
+    </td>
+    <td>
+      <div>am. No. 163, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Schedule 16</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C. 1</div>
+    </td>
+    <td>
+      <div>am. No. 115, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C. 6</div>
+    </td>
+    <td>
+      <div>am. No. 115, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Schedule 17</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C. 1</div>
+    </td>
+    <td>
+      <div>am. No. 139, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Notes 1, 2 to c. 3(1)</div>
+    </td>
+    <td>
+      <div>am. No. 139, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Notes 1, 2 to c. 3(2)</div>
+    </td>
+    <td>
+      <div>am. No. 139, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Notes 1, 2 to c. 3(3)</div>
+    </td>
+    <td>
+      <div>am. No. 139, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Schedule 18</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C. 1</div>
+    </td>
+    <td>
+      <div>am. No. 139, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C. 2</div>
+    </td>
+    <td>
+      <div>am. No. 55, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Notes 1, 2 to c. 4(1)</div>
+    </td>
+    <td>
+      <div>am. No. 139, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Notes 1, 2 to c. 4(3)</div>
+    </td>
+    <td>
+      <div>am. No. 139, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Notes 1, 2 to c. 4(4)</div>
+    </td>
+    <td>
+      <div>am. No. 139, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C. 7</div>
+    </td>
+    <td>
+      <div>am. No. 65, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Schedule 22</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C. 1</div>
+    </td>
+    <td>
+      <div>am. No. 30, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Notes 1, 2 to C. 3</div>
+    </td>
+    <td>
+      <div>rs. No. 30, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C. 5</div>
+    </td>
+    <td>
+      <div>am. No. 30, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Schedule 23</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C. 1</div>
+    </td>
+    <td>
+      <div>am. No. 84, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C. 3</div>
+    </td>
+    <td>
+      <div>am. No. 84, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C. 5</div>
+    </td>
+    <td>
+      <div>rep. No. 84, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C. 8</div>
+    </td>
+    <td>
+      <div>rep. No. 84, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Schedule 26</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C. 7</div>
+    </td>
+    <td>
+      <div>am. No. 5, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Schedule 27</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C. 1</div>
+    </td>
+    <td>
+      <div>am. No. 163, 2000</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table A
 
@@ -4946,10 +4978,13 @@ The amendments made by this Schedule apply to:
 
                      (b)  relevant dairy produce produced by a manufacturer after the commencement of this Schedule.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Primary Industries (Excise) Levies Amendment (Wine Grapes) Act 2004 
- (No. 5, 2004)_
+
+(No. 5, 2004)_
 
 ## Schedule 1
 
@@ -4957,7 +4992,9 @@ _Primary Industries (Excise) Levies Amendment (Wine Grapes) Act 2004
 
 The amendment made by item 1 applies to levy imposed in respect of the levy year commencing on 1 July 2004, and to subsequent levy years.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)_
 
@@ -4981,7 +5018,9 @@ then the thing has the corresponding effect, for the purposes of the Part 2 Ac
 
 If a determination under subsection 20(1) of the _Financial Management and Accountability Act 1997_ is in force immediately before the commencement of this item, the determination continues in force as if it were made under subsection 20(1) of that Act as amended by this Act.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Primary Industries (Excise) Levies Amendment (Rice) Act 2005 (No. 84, 2005)_
 
@@ -4994,5 +5033,8 @@ The amendments made by this Schedule apply to leviable rice that is:
                      (a)  produced in Australia (whether before or after the commencement of this Schedule); and
 
                      (b)  delivered to a processor after the commencement of this Schedule.
+
+
+ 
 
  
