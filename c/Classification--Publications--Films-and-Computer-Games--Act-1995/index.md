@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00351/Html/21b9ca65-b04f-412d-ab7a-7aa1c87b9cd8_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00026/Html/2accd781-c4ba-44de-a72e-46d3975e1caf_files/image001.gif)
 
 # Classification (Publications, Films and Computer Games) Act 1995
 
 **Act No. 7 of 1995 as amended**
 
-This compilation was prepared on 6 May 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 31 December 2010
+ taking into account amendments up to Act No. 127 of 2010
 
 [**Note**: Part 10 ceases to have effect on 18 August 2012, _see_ section 115]
 
@@ -16,7 +16,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -208,7 +208,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [48](#48).          Appointment of members
 
-[49](#49).          Full‑time and part‑time appointments
+[49](#49).          Full-time and part-time appointments
 
 [50](#50).          Temporary members
 
@@ -258,7 +258,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [74](#74).          Appointment of members of the Review Board
 
-[75](#75).          Members of the Review Board to be part‑time
+[75](#75).          Members of the Review Board to be part-time
 
 [76](#76).          Terms and conditions of appointment
 
@@ -436,7 +436,7 @@ but does not include:
 
                     <a name="addition-content-assessor"></a>**_additional content assessor_** means a person who is authorised by the Director under section 22D.
 
-                    <a name="add"></a>**_add‑on_** means a computer program, data associated with a computer program or a computer program and any associated data referred to in subsection 5A(2).
+                    <a name="add"></a>**_add-on_** means a computer program, data associated with a computer program or a computer program and any associated data referred to in subsection 5A(2).
 
                     <a name="advertis"></a>**_advertisement_** for a publication, a film or a computer game means any form of advertising for the publication, film or game, and includes:
 
@@ -542,8 +542,6 @@ but does not include:
 
                      (b)  an advertisement for a publication, a film or a computer game.
 
-                    <a name="financ-minist"></a>**_Finance Minister_** means the Minister administering the _Financial Management and Accountability Act 1997_.
-
                     <a name="interact-film"></a>**_interactive film_** means a film to which subsection 14(4) applies.
 
                     <a name="interact-game"></a>**_interactive game_** means a game in which the way the game proceeds and the result achieved at various stages of the game is determined in response to the decisions, inputs and direct involvement of the player.
@@ -582,7 +580,7 @@ but does not include:
 
                      (a)  one or more episodes of a television series; or
 
-                     (b)  one or more episodes of a television series and series‑related material if that material does not appear to be self‑contained and produced for viewing as a discrete entity.
+                     (b)  one or more episodes of a television series and series-related material if that material does not appear to be self-contained and produced for viewing as a discrete entity.
 
                     <a name="temporari-member"></a>**_temporary member_** means a person appointed under section 50.
 
@@ -590,7 +588,7 @@ but does not include:
 
                      (a)  a cinematic composition that appears to be:
 
-                              (i)  self‑contained; and
+                              (i)  self-contained; and
 
                              (ii)  produced for viewing as a discrete entity; or
 
@@ -984,7 +982,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
           (1A)  The Minister must consult with participating Ministers before making a determination.
 
-             (2)  A determination may specify additional material for markings for an add‑on.
+             (2)  A determination may specify additional material for markings for an add-on.
 
              (3)  A determination may specify additional material for markings for a publication that has been classified subject to a condition under section 13A.
 
@@ -1310,7 +1308,7 @@ the Board may decline to deal with the application.
 
                     (ca)  accompanied by a copy of the game unless the game is an amusement or circuit board game that, in the opinion of the Board, is physically impracticable to submit to the Board’s premises for classification; and
 
-                   (cb)  if the application is for classification of a computer game that is an add‑on—accompanied by a copy of the computer game into which the add‑on is capable of generating new elements or additional levels; and
+                   (cb)  if the application is for classification of a computer game that is an add-on—accompanied by a copy of the computer game into which the add-on is capable of generating new elements or additional levels; and
 
                      (d)  accompanied by the prescribed fee for that category of game; and
 
@@ -1334,7 +1332,7 @@ Note:          For an applicant that is the Commonwealth, or a
 
                      (b)  a separate recording of that material.
 
-          (2A)  If the application is for a computer game that is an add‑on, the Board must classify the add‑on with the computer game into which the add‑on is capable of generating new elements or additional levels.
+          (2A)  If the application is for a computer game that is an add-on, the Board must classify the add-on with the computer game into which the add-on is capable of generating new elements or additional levels.
 
              (3)  If the applicant is of the opinion that the game would, if classified, be classified G, PG or M, the applicant may also submit with the application:
 
@@ -1808,7 +1806,7 @@ Note:          For an applicant that is the Commonwealth, or a
 
                              (ii)  a copy of the film or game; and
 
-                            (iii)  if the application is for a computer game that is an add‑on—accompanied by a copy of the game into which the add‑on is capable of generating new elements or additional levels; and
+                            (iii)  if the application is for a computer game that is an add-on—accompanied by a copy of the game into which the add-on is capable of generating new elements or additional levels; and
 
                             (iv)  a statement setting out (briefly) the grounds on which the certificate is sought; and
 
@@ -1920,7 +1918,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                      (a)  specifying conditions on which unclassified films and unclassified computer games may be advertised;
 
-                     (b)  providing for requirements relating to self‑assessment by industry of the likely classification of unclassified films and unclassified computer games.
+                     (b)  providing for requirements relating to self-assessment by industry of the likely classification of unclassified films and unclassified computer games.
 
              (2)  The conditions on which unclassified films and unclassified computer games may be advertised include, but are not limited to, conditions in relation to the following:
 
@@ -2198,17 +2196,17 @@ is as valid, and is taken always to have been as valid, as it would have been if
 
 ##### <a id="48"></a>48  Appointment of members
 
-             (1)  The members (other than temporary members) are to be appointed by the Governor‑General.
+             (1)  The members (other than temporary members) are to be appointed by the Governor-General.
 
              (2)  In appointing members, regard is to be had to the desirability of ensuring that the membership of the Board is broadly representative of the Australian community.
 
              (3)  The Minister must, before recommending the appointment of a member (other than a temporary member), consult with participating Ministers.
 
-##### <a id="49"></a>49  Full‑time and part‑time appointments
+##### <a id="49"></a>49  Full-time and part-time appointments
 
-             (1)  The Director, the Deputy Director and the Senior Classifiers are to be appointed as full‑time members.
+             (1)  The Director, the Deputy Director and the Senior Classifiers are to be appointed as full-time members.
 
-             (2)  Any other member may be appointed either as a full‑time member or as a part‑time member.
+             (2)  Any other member may be appointed either as a full-time member or as a part-time member.
 
 ##### <a id="50"></a>50  Temporary members
 
@@ -2220,7 +2218,7 @@ is as valid, and is taken always to have been as valid, as it would have been if
 
              (1)  A member (other than a temporary member) is to be appointed for the period (not longer than 5 years) specified in the instrument of appointment but is eligible for reappointment.
 
-             (2)  A member holds office on such terms and conditions (if any) in relation to matters not provided for by this Act as are determined by the Governor‑General.
+             (2)  A member holds office on such terms and conditions (if any) in relation to matters not provided for by this Act as are determined by the Governor-General.
 
              (3)  A member must not hold office as a member for a total of more than 7 years.
 
@@ -2228,7 +2226,7 @@ is as valid, and is taken always to have been as valid, as it would have been if
 
 ##### <a id="52"></a>52  Responsibilities and powers of the Director
 
-                   The Director is responsible for ensuring that the business of the Board is conducted in an orderly and efficient way and, for that purpose, the Director may give directions as to the arrangement of the business of the Board.
+                   The Director is responsible for ensuring that the business of the Board is conducted in an orderly and efficient way and, for that purpose, the Director may give directions as to the arrangement of the business of the Board.
 
 ##### <a id="53"></a>53  Powers of Director under State/Territory laws
 
@@ -2322,13 +2320,13 @@ is as valid, and is taken always to have been as valid, as it would have been if
 
 ##### <a id="62"></a>62  Outside employment
 
-             (1)  Except with the consent of the Minister, a full‑time member must not engage in paid employment outside the duties of his or her office.
+             (1)  Except with the consent of the Minister, a full-time member must not engage in paid employment outside the duties of his or her office.
 
              (2)  Subsection (1) does not apply to service in the Defence Force.
 
 ##### <a id="63"></a>63  Resignation
 
-             (1)  A member (other than a temporary member) may resign by giving a signed notice of resignation to the Governor‑General.
+             (1)  A member (other than a temporary member) may resign by giving a signed notice of resignation to the Governor-General.
 
              (2)  A temporary member may resign by giving a signed notice of resignation to the Minister.
 
@@ -2342,9 +2340,9 @@ is as valid, and is taken always to have been as valid, as it would have been if
 
 ##### <a id="65"></a>65  Termination of appointment
 
-             (1)  The Governor‑General may terminate the appointment of a member for misbehaviour or physical or mental incapacity.
+             (1)  The Governor-General may terminate the appointment of a member for misbehaviour or physical or mental incapacity.
 
-             (2)  The Governor‑General must terminate the appointment of a member if:
+             (2)  The Governor-General must terminate the appointment of a member if:
 
                      (a)  the member:
 
@@ -2356,9 +2354,9 @@ is as valid, and is taken always to have been as valid, as it would have been if
 
                             (iv)  makes an assignment of his or her remuneration for the benefit of his or her creditors; or
 
-                     (b)  the member is a full‑time member and is absent from duty, except on leave of absence, for 14 consecutive days or for 28 days in any 12 months; or
+                     (b)  the member is a full-time member and is absent from duty, except on leave of absence, for 14 consecutive days or for 28 days in any 12 months; or
 
-                     (c)  the member is a part‑time member and is absent, without reasonable excuse, from 3 consecutive meetings of the Board; or
+                     (c)  the member is a part-time member and is absent, without reasonable excuse, from 3 consecutive meetings of the Board; or
 
                      (d)  the member engages in paid employment contrary to section 62; or
 
@@ -2370,9 +2368,9 @@ is as valid, and is taken always to have been as valid, as it would have been if
 
                      (b)  a member of the superannuation scheme established by deed under the _Superannuation Act 1990_; or
 
-                     (c)  an ordinary employer‑sponsored member of PSSAP, within the meaning of the _Superannuation Act 2005_;
+                     (c)  an ordinary employer-sponsored member of PSSAP, within the meaning of the _Superannuation Act 2005_;
 
-the Governor‑General may, with the member’s consent, retire the member from office on the ground of incapacity.
+the Governor-General may, with the member’s consent, retire the member from office on the ground of incapacity.
 
              (4)  In spite of anything in this Act, a member who:
 
@@ -2392,13 +2390,13 @@ cannot be retired from office on the ground of invalidity (within the meaning of
 
           (5A)  In spite of anything in this Act, a member who:
 
-                     (a)  is an ordinary employer‑sponsored member of PSSAP, within the meaning of the _Superannuation Act 2005_; and
+                     (a)  is an ordinary employer-sponsored member of PSSAP, within the meaning of the _Superannuation Act 2005_; and
 
                      (b)  is under 60;
 
 cannot be retired from office on the ground of invalidity (within the meaning of that Act) unless the Board (within the meaning of that Act) has given an approval and certificate under section 43 of that Act.
 
-             (6)  This section applies to a temporary member as if references to the Governor‑General were references to the Minister.
+             (6)  This section applies to a temporary member as if references to the Governor-General were references to the Minister.
 
 ##### <a id="66"></a>66  Acting appointments
 
@@ -2454,21 +2452,21 @@ the Deputy Director is to act as the Director during the vacancy, absence or ina
 
 ##### <a id="74"></a>74  Appointment of members of the Review Board
 
-             (1)  The members of the Review Board are to be appointed by the Governor‑General.
+             (1)  The members of the Review Board are to be appointed by the Governor-General.
 
              (2)  In appointing members of the Review Board, regard is to be had to the desirability of ensuring that the membership of the Review Board is broadly representative of the Australian community.
 
              (3)  The Minister must, before recommending the appointment of a member of the Review Board, consult with participating Ministers.
 
-##### <a id="75"></a>75  Members of the Review Board to be part‑time
+##### <a id="75"></a>75  Members of the Review Board to be part-time
 
-                   The members of the Review Board are to be appointed as part‑time members.
+                   The members of the Review Board are to be appointed as part-time members.
 
 ##### <a id="76"></a>76  Terms and conditions of appointment
 
              (1)  A member of the Review Board is to be appointed for the period (not longer than 5 years) specified in the instrument of appointment but is eligible for reappointment.
 
-             (2)  A member of the Review Board holds office on such terms and conditions (if any) in relation to matters not provided for by this Act as are determined by the Governor‑General.
+             (2)  A member of the Review Board holds office on such terms and conditions (if any) in relation to matters not provided for by this Act as are determined by the Governor-General.
 
              (3)  A member of the Review Board must not hold office as a member of the Review Board for a total of more than 7 years.
 
@@ -2528,7 +2526,7 @@ the Deputy Director is to act as the Director during the vacancy, absence or ina
 
 ##### <a id="81"></a>81  Resignation
 
-                   A member of the Review Board may resign by giving a signed notice of resignation to the Governor‑General.
+                   A member of the Review Board may resign by giving a signed notice of resignation to the Governor-General.
 
 ##### <a id="82"></a>82  Disclosure of interests
 
@@ -2540,9 +2538,9 @@ the Deputy Director is to act as the Director during the vacancy, absence or ina
 
 ##### <a id="83"></a>83  Termination of appointment
 
-             (1)  The Governor‑General may terminate the appointment of a member of the Review Board for misbehaviour or physical or mental incapacity.
+             (1)  The Governor-General may terminate the appointment of a member of the Review Board for misbehaviour or physical or mental incapacity.
 
-             (2)  The Governor‑General must terminate the appointment of a member of the Review Board if:
+             (2)  The Governor-General must terminate the appointment of a member of the Review Board if:
 
                      (a)  the member:
 
@@ -2564,9 +2562,9 @@ the Deputy Director is to act as the Director during the vacancy, absence or ina
 
                      (b)  a member of the superannuation scheme established by deed under the _Superannuation Act 1990_; or
 
-                     (c)  an ordinary employer‑sponsored member of PSSAP, within the meaning of the _Superannuation Act 2005_;
+                     (c)  an ordinary employer-sponsored member of PSSAP, within the meaning of the _Superannuation Act 2005_;
 
-the Governor‑General may, with the member’s consent, retire the member from office on the ground of incapacity.
+the Governor-General may, with the member’s consent, retire the member from office on the ground of incapacity.
 
              (4)  In spite of anything in this Act, a member of the Review Board who:
 
@@ -2586,7 +2584,7 @@ cannot be retired from office on the ground of invalidity (within the meaning of
 
              (6)  In spite of anything in this Act, a member of the Review Board who:
 
-                     (a)  is an ordinary employer‑sponsored member of PSSAP, within the meaning of the _Superannuation Act 2005_; and
+                     (a)  is an ordinary employer-sponsored member of PSSAP, within the meaning of the _Superannuation Act 2005_; and
 
                      (b)  is under 60;
 
@@ -2710,7 +2708,7 @@ Waiver by Director
 
                               (i)  the Commonwealth, a State or a Territory (or an authority of one of those bodies); or
 
-                             (ii)  a non‑profit organisation; or
+                             (ii)  a non-profit organisation; or
 
                      (c)  the payment is for special interest material having a limited distribution that is:
 
@@ -2732,7 +2730,7 @@ Waiver by Convenor
 
                               (i)  the Commonwealth, a State or a Territory (or an authority of one of those bodies); or
 
-                             (ii)  a non‑profit organisation; or
+                             (ii)  a non-profit organisation; or
 
                      (c)  the payment is for special interest material having a limited distribution that is:
 
@@ -2774,7 +2772,7 @@ Review by AAT
 
              (1)  The Commonwealth is not liable to pay a fee that is payable under this Act. However, it is the Parliament’s intention that the Commonwealth should be notionally liable to pay such a fee.
 
-             (2)  The Finance Minister may give such written directions as are necessary or convenient for carrying out or giving effect to subsection (1) and, in particular, may give directions in relation to the transfer of money within an account, or between accounts, operated by the Commonwealth.
+             (2)  The Minister for Finance and Administration may give such written directions as are necessary or convenient for carrying out or giving effect to subsection (1) and, in particular, may give directions in relation to the transfer of money within an account, or between accounts, operated by the Commonwealth.
 
              (3)  Directions under subsection (2) have effect, and must be complied with, despite any other Commonwealth law.
 
@@ -2812,9 +2810,9 @@ Note:          For persons that can be made liable to pay tax,
 
 ##### <a id="93"></a>93  Regulations
 
-General regulation‑making power
+General regulation-making power
 
-             (1)  The Governor‑General may make regulations prescribing matters:
+             (1)  The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -2958,7 +2956,7 @@ is, on the day fixed under subsection 2(2) or the day applicable under subsectio
 
                     <a name="state-territori-bodi-corpor-manag"></a>**_State/Territory body corporate manager_**, in relation to a body corporate that operates within a State or Territory, means a person who takes part in managing, administering or governing the business of the body corporate in the State or Territory.
 
-                    <a name="suppli"></a>**_supply_** includes supply by way of sale, exchange, gift, lease, loan, hire or hire‑purchase.
+                    <a name="suppli"></a>**_supply_** includes supply by way of sale, exchange, gift, lease, loan, hire or hire-purchase.
 
 ##### <a id="100"></a>100  Concurrent operation of State and Territory laws
 
@@ -3016,7 +3014,7 @@ Criteria for making a declaration
 
              (6)  In making a declaration under subsection (1) in relation to a prescribed area or a part of a prescribed area, the Indigenous Affairs Minister must have regard to the following matters:
 
-                     (a)  the well‑being of people living in the prescribed area or the part of the prescribed area;
+                     (a)  the well-being of people living in the prescribed area or the part of the prescribed area;
 
                      (b)  whether there is reason to believe that people living in the prescribed area or the part of the prescribed area have been the victims of violence or sexual abuse during a period the Indigenous Affairs Minister considers appropriate;
 
@@ -3024,7 +3022,7 @@ Criteria for making a declaration
 
                      (d)  whether there is reason to believe that children living in the prescribed area or the part of the prescribed area have been exposed to prohibited material during a period the Indigenous Affairs Minister considers appropriate;
 
-                     (e)  the extent to which people living in the prescribed area or the part of the prescribed area have, during a period the Indigenous Affairs Minister considers appropriate, expressed the view that their well‑being will be improved if this Part continues to apply in relation to the prescribed area or the part of the prescribed area;
+                     (e)  the extent to which people living in the prescribed area or the part of the prescribed area have, during a period the Indigenous Affairs Minister considers appropriate, expressed the view that their well-being will be improved if this Part continues to apply in relation to the prescribed area or the part of the prescribed area;
 
                       (f)  any discussions of the kind referred to in paragraph (4)(b);
 
@@ -3072,7 +3070,7 @@ Criteria for making a revocation
 
              (6)  In making a revocation under subsection (1), the Indigenous Affairs Minister must have regard to the following matters:
 
-                     (a)  the well‑being of people living in the prescribed area or the part of the prescribed area;
+                     (a)  the well-being of people living in the prescribed area or the part of the prescribed area;
 
                      (b)  whether there is reason to believe that people living in the prescribed area or the part of the prescribed area have been the victims of violence or sexual abuse during a period the Indigenous Affairs Minister considers appropriate;
 
@@ -3080,7 +3078,7 @@ Criteria for making a revocation
 
                      (d)  whether there is reason to believe that children living in the prescribed area or the part of the prescribed area have been exposed to prohibited material during a period the Indigenous Affairs Minister considers appropriate;
 
-                     (e)  the extent to which people living in the prescribed area or the part of the prescribed area have, during a period the Indigenous Affairs Minister considers appropriate, expressed the view that their well‑being will be improved if this Part applies in relation to the prescribed area or the part of the prescribed area;
+                     (e)  the extent to which people living in the prescribed area or the part of the prescribed area have, during a period the Indigenous Affairs Minister considers appropriate, expressed the view that their well-being will be improved if this Part applies in relation to the prescribed area or the part of the prescribed area;
 
                       (f)  any discussions of the kind referred to in paragraph (4)(b);
 
@@ -3292,7 +3290,7 @@ the responsible officer must return the material to the owner. Otherwise the req
 
 ##### <a id="113"></a>113  Compensation for acquisition of property
 
-             (1)  Subsection 50(2) of the _Northern Territory (Self‑Government) Act 1978_ does not apply in relation to any acquisition of property referred to in that subsection that occurs as a result of the operation of this Part.
+             (1)  Subsection 50(2) of the _Northern Territory (Self-Government) Act 1978_ does not apply in relation to any acquisition of property referred to in that subsection that occurs as a result of the operation of this Part.
 
              (2)  However, if the operation of this Part would result in an acquisition of property to which paragraph 51(xxxi) of the Constitution applies from a person otherwise than on just terms, the Commonwealth is liable to pay a reasonable amount of compensation to the person.
 
@@ -3673,23 +3671,6 @@ Schedule 5 (item 137(a)): <i>(d)</i></div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 5 (items 48, 49): 19 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Classification (Publications, Films and Computer Games) Act 1995_ was amended by Schedule 2 only of the _Law and Justice Legislation Amendment Act 1997_, subsection 2(1) of which provides as follows:
@@ -3857,7 +3838,7 @@ _(d)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
     <div>S. 5</div>
   </td>
   <td>
-    <div>am. No. 34, 1997; No. 111, 2000; No. 13, 2001; No. 61, 2004; Nos. 27 and 179, 2007; No. 69, 2008; No. 8, 2010; No. 5, 2011</div>
+    <div>am. No. 34, 1997; No. 111, 2000; No. 13, 2001; No. 61, 2004; Nos. 27 and 179, 2007; No. 69, 2008; No. 8, 2010</div>
   </td>
 </tr>
 <tr>
@@ -4998,23 +4979,7 @@ _(d)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
 </tr>
 <tr>
   <td>
-    <div>S. 91A</div>
-  </td>
-  <td>
-    <div>ad. No. 111, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 91B, 91C</div>
+    <div>Ss. 91A–91C</div>
   </td>
   <td>
     <div>ad. No. 111, 2000</div>
@@ -5251,7 +5216,7 @@ _Classification (Publications, Films and Computer Games) Amendment Act 2004 (N
 
 (2)       The insertion of subsection 7(4) by item 6 of this Schedule does not affect the interpretation of section 7 of the _Classification (Publications, Films and Computer Games) Act 1995_ as in force before the inclusion of the subsection.
 
-## 17  Conversion of certain pre‑commencement classifications of films to equivalent new classifications
+## 17  Conversion of certain pre-commencement classifications of films to equivalent new classifications
 
 If, just before this Schedule commenced, a film had a classification of a type mentioned in column 2 of the following table in relation to an item, then, for the purpose of applying the _Classification (Publications, Films and Computer Games) Act 1995_ after this Schedule commences, the film is taken to have, and to have had at all times before this Schedule commenced when it had that classification, the classification of the type mentioned in column 3 of the table in relation to the item:
 
@@ -5339,7 +5304,7 @@ If, just before this Schedule commenced, a film had a classification of a type m
   </td>
 </tr></table>
 
-## 18  Conversion of certain pre‑commencement classifications of computer games to equivalent new classifications
+## 18  Conversion of certain pre-commencement classifications of computer games to equivalent new classifications
 
 If, just before this Schedule commences, a computer game had a classification of a type mentioned in column 2 of the following table in relation to an item, then, for the purpose of applying the _Classification (Publications, Films and Computer Games) Act 1995_ after this Schedule commences, the computer game is taken to have, and to have had at all times before this Schedule commenced when it had that classification, the classification of the type mentioned in column 3 of the table in relation to the item:
 
@@ -5436,7 +5401,7 @@ If, just before this Schedule commences, a computer game had a classification of
   <td></td>
 </tr></table>
 
-## 19  Amendments not to affect validity of pre‑commencement applications
+## 19  Amendments not to affect validity of pre-commencement applications
 
 The amendments made by this Schedule do not affect the validity, for the purposes of applying the _Classification (Publications, Films and Computer Games) Act 1995_ after this Schedule commences, of any application made under that Act before the commencement of this Schedule.
 
@@ -5504,11 +5469,11 @@ then, on and after that commencement, the person is taken to have completed trai
 
 (1)       The amendment made by item 11 of this Schedule applies to financial years that commence on or after the commencement of that item.
 
-(2)       This subitem applies if, before the commencement of item 11 of this Schedule, the Auditor‑General had not complied with section 69 of the _Classification (Publications, Films and Computer Games) Act 1995_ for the financial year in which that item commences.
+(2)       This subitem applies if, before the commencement of item 11 of this Schedule, the Auditor-General had not complied with section 69 of the _Classification (Publications, Films and Computer Games) Act 1995_ for the financial year in which that item commences.
 
 (3)       If subitem (2) applies, section 69 of the _Classification (Publications, Films and Computer Games) Act 1995_, as in force immediately before the commencement of item 11 of this Schedule, continues to apply as if subsection 69(1) were as follows:
 
-             (1)  The Auditor‑General must, within 3 months after the end of the financial year in which item 11 of Schedule 1 to the _Classification (Publications, Films and Computer Games) Amendment Act 2007_ commences, inspect and audit:
+             (1)  The Auditor-General must, within 3 months after the end of the financial year in which item 11 of Schedule 1 to the _Classification (Publications, Films and Computer Games) Amendment Act 2007_ commences, inspect and audit:
 
                      (a)  the accounts and records of financial transactions relating to the administration of the affairs of the Board and of the Review Board; and
 
@@ -5608,9 +5573,9 @@ that are made on or after the commencement of that item.
 
 _Families, Community Services and Indigenous Affairs and Other Legislation Amendment (Northern Territory National Emergency Response and Other Measures) Act 2007 (No. 128, 2007)_
 
-##### <a id="3"></a>3  Northern Territory (Self‑Government) Act
+##### <a id="3"></a>3  Northern Territory (Self-Government) Act
 
-                   Section 49 of the _Northern   Territory__(Self‑Government) Act 1978_ does not apply in relation to the provisions of this Act.
+                   Section 49 of the _Northern   Territory__(Self-Government) Act 1978_ does not apply in relation to the provisions of this Act.
 
 * * *
 
@@ -5630,7 +5595,7 @@ _Classification (Publications, Films and Computer Games) Amendment (Assessments 
 
 ## 13  Transitional regulations
 
-(1)       The Governor‑General may make regulations providing for matters of a transitional nature in relation to the advertising of unclassified films that have been granted a certificate of exemption.
+(1)       The Governor-General may make regulations providing for matters of a transitional nature in relation to the advertising of unclassified films that have been granted a certificate of exemption.
 
 (2)       In this item:
 
