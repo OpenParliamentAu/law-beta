@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00549/Html/529a7f6c-5239-449d-a0b7-ad66bf7498a7_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00561/Html/a0fac077-1da2-4781-a1b2-400b750df7c4_files/image001.gif)
 
 # Military Superannuation and Benefits Act 1991
 
 **Act No. 135 of 1991 as amended**
 
-This compilation was prepared on 19 July 2012
- taking into account amendments up to Act No. 82 of 2012
+This compilation was prepared on 18 July 2011
+ taking into account amendments up to Act No. 58 of 2011
 
 **\[NOTE:  The Military Superannuation and Benefits Trust Deed and Rules were made by the rule-maker on 18 September 1991 as a stand alone instrument.  This instrument, not the Act, has been amended by amending legislative instruments _see_ s. 5(1).**
 
@@ -68,12 +68,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [16A](#16A).       Payments relating to associate benefits
 
-[16B](#16B).       Recoverable payments
-
-[16C](#16C).       Recoverable death payments
-
-[16D](#16D).       Reports about recoverable payments and recoverable death payments
-
 [17](#17).          Appropriation
 
 **Part 6—CSC**
@@ -103,10 +97,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [51](#51).          Delegation by Minister
 
 [51A](#51A).       Transitional—MSB Instrument No  3 of 1993 to have retrospective effect
-
-[51B](#51B).       Transitional—recoverable payments relating to retention benefit
-
-[51C](#51C).       Transitional—reports about recoverable payments
 
 [52](#52).          Regulations
 
@@ -522,7 +512,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 that provision is invalid.
 
-##### <a id="5A"></a>5A  Amendments of Trust Deed to implement family law interest splitting
+##### <a id="5A"></a>5A  Amendments of Trust Deed to implement family law interest splitting
 
              (1)  Without limiting subsection 5(1), amendments under that subsection:
 
@@ -686,156 +676,6 @@ CSC must pay to the Commonwealth an amount equal to the funded employer benefit 
 
              (2)  CSC must pay to the Commonwealth any amount that CSC is required under the Rules to pay to the Commonwealth in respect of an associate benefit.
 
-##### <a id="16B"></a>16B  Recoverable payments
-
-             (1)  If, apart from this subsection, the Commonwealth does not have power, under this Act, to pay an amount (the **_relevant amount_**) to a person (the **_recipient_**) purportedly as a benefit under the Rules, then the Commonwealth may pay the relevant amount to the recipient.
-
-Recovery
-
-             (2)  If a payment is made under subsection (1) to the recipient, the relevant amount:
-
-                     (a)  is a debt due to the Commonwealth by the recipient; and
-
-                     (b)  may be recovered by the Chief Executive Officer of ComSuper, on behalf of the Commonwealth, in a court of competent jurisdiction.
-
-Note:          See also section 47 of the _Financial Management and Accountability Act 1997_ (duty to pursue recovery of a debt).
-
-             (3)  If:
-
-                     (a)  a payment is made under subsection (1) to the recipient; and
-
-                     (b)  the recipient is receiving, or is entitled to receive, a benefit under the Rules;
-
-then:
-
-                     (c)  the relevant amount; or
-
-                     (d)  such part of the relevant amount as the Chief Executive Officer of ComSuper determines;
-
-may, if the Chief Executive Officer of ComSuper so directs, be recovered by deduction from that benefit.
-
-Note:          See also section 47 of the _Financial Management and Accountability Act 1997_ (duty to pursue recovery of a debt).
-
-##### <a id="16C"></a>16C  Recoverable death payments
-
-             (1)  If, apart from this subsection, the Commonwealth does not have power under this Act to pay an amount (the **_relevant amount_**) in any of the following circumstances:
-
-                     (a)  the relevant amount is deposited to an account kept in the name of a deceased person;
-
-                     (b)  the relevant amount is deposited to an account kept in the names of a deceased person and another person;
-
-                     (c)  the relevant amount is paid by way of a cheque made out to a deceased person;
-
-the Commonwealth may pay the relevant amount in the circumstances mentioned in paragraph (a), (b) or (c), so long as:
-
-                     (d)  on the last day on which changes could reasonably be made to the payment of the relevant amount, the Chief Executive Officer of ComSuper did not know that the deceased person had died; and
-
-                     (e)  apart from this subsection, the relevant amount would have been payable as a benefit to the deceased person if the deceased person had not died.
-
-             (2)  If a payment is made under subsection (1), the relevant amount is taken to have been paid to the deceased person’s estate.
-
-Recovery
-
-             (3)  If a payment is made under subsection (1), the relevant amount:
-
-                     (a)  is a debt due to the Commonwealth by the legal personal representative of the deceased person; and
-
-                     (b)  may be recovered by the Chief Executive Officer of ComSuper, on behalf of the Commonwealth, in a court of competent jurisdiction.
-
-Note:          See also section 47 of the _Financial Management and Accountability Act 1997_ (duty to pursue recovery of a debt).
-
-##### <a id="16D"></a>16D  Reports about recoverable payments and recoverable death payments
-
-             (1)  During the applicable publication period for a reporting period, the Secretary of the Department must cause to be published, in such manner as the Secretary thinks fit, a report that sets out:
-
-                     (a)  both:
-
-                              (i)  the number of payments made under subsection 16B(1) during the reporting period; and
-
-                             (ii)  the total amount of those payments; and
-
-                     (b)  both:
-
-                              (i)  the number of payments made under subsection 16C(1) during the reporting period; and
-
-                             (ii)  the total amount of those payments.
-
-             (2)  However, a report is not required if:
-
-                     (a)  the number mentioned in subparagraph (1)(a)(i) is zero; and
-
-                     (b)  the number mentioned in subparagraph (1)(b)(i) is zero.
-
-Deferred reporting
-
-             (3)  Paragraph (1)(a) of this section does not require a report to deal with a payment unless, before the preparation of the report, a Departmental official was aware the payment was made under subsection 16B(1).
-
-             (4)  Paragraph (1)(b) of this section does not require a report to deal with a payment unless, before the preparation of the report, a Departmental official was aware the payment was made under subsection 16C(1).
-
-             (5)  For the purposes of this section, if:
-
-                     (a)  a payment was made under subsection 16B(1) or 16C(1) in a reporting period; and
-
-                     (b)  either:
-
-                              (i)  because of subsection (3) of this section, paragraph (1)(a) of this section did not require a report to deal with the payment; or
-
-                             (ii)  because of subsection (4) of this section, paragraph (1)(b) of this section did not require a report to deal with the payment; and
-
-                     (c)  during a later reporting period, a Departmental official becomes aware that the payment was made under subsection 16B(1) or 16C(1), as the case may be;
-
-the payment is subject to a **_deferred reporting obligation_** in relation to the later reporting period.
-
-             (6)  If one or more payments made under subsection 16B(1) during a reporting period are subject to a deferred reporting obligation in relation to a later reporting period, the Secretary of the Department must, during the applicable publication period for the later reporting period:
-
-                     (a)  prepare a report that sets out:
-
-                              (i)  the number of those payments; and
-
-                             (ii)  the total amount of those payments; and
-
-                            (iii)  the reporting period during which the payments were made; and
-
-                     (b)  if a report is required under subsection (1) in relation to the later reporting period—include the paragraph (a) report in the subsection (1) report; and
-
-                     (c)  if paragraph (b) does not apply—publish, in such manner as the Secretary thinks fit, the paragraph (a) report.
-
-             (7)  If one or more payments made under subsection 16C(1) during a reporting period are subject to a deferred reporting obligation in relation to a later reporting period, the Secretary of the Department must, during the applicable publication period for the later reporting period:
-
-                     (a)  prepare a report that sets out:
-
-                              (i)  the number of those payments; and
-
-                             (ii)  the total amount of those payments; and
-
-                            (iii)  the reporting period during which the payments were made; and
-
-                     (b)  if a report is required under subsection (1) in relation to the later reporting period—include the paragraph (a) report in the subsection (1) report; and
-
-                     (c)  if paragraph (b) does not apply—publish, in such manner as the Secretary thinks fit, the paragraph (a) report.
-
-Reporting period
-
-             (8)  For the purposes of this section, a **_reporting period_** is:
-
-                     (a)  a financial year; or
-
-                     (b)  if a shorter recurring period is specified in a legislative instrument made by the Minister—that period.
-
-Applicable publication period
-
-             (9)  For the purposes of this section, the **_applicable publication period_** for a reporting period is the period of:
-
-                     (a)  4 months; or
-
-                     (b)  if a lesser number of months is specified, in relation to the reporting period, in a legislative instrument made by the Minister—that number of months;
-
-beginning immediately after the end of the reporting period.
-
-Departmental official
-
-           (10)  For the purposes of this section, **_Departmental official_** means an official (within the meaning of the _Financial Management and Accountability Act 1997_) who is in the Department or is part of the Department.
-
 ##### <a id="17"></a>17  Appropriation
 
                    Any payment by the Commonwealth under this Part is to be made out of the Consolidated Revenue Fund, which is appropriated accordingly.
@@ -979,104 +819,6 @@ Definition
              (5)  In this section:
 
                     <a name="msb-instrum-no-1993"></a>**_MSB Instrument No. 3 of 1993_** means Instrument No. 3 of 1993 made under subsection 5(1) on 19 April 1993 and notified in the _Gazette_ on 22 April 1993.
-
-##### <a id="51B"></a>51B  Transitional—recoverable payments relating to retention benefit
-
-             (1)  If, apart from this subsection, the Commonwealth does not have power, under repealed Part 8 of this Act as continued in force by item 4 of Schedule 4 to the _Defence Legislation Amendment Act (No. 1) 2005_, to pay an amount (the **_relevant amount_**) to a person (the **_recipient_**) purportedly as a retention benefit, then the Commonwealth may pay the relevant amount to the recipient.
-
-Recovery
-
-             (2)  If a payment is made under subsection (1) to the recipient, the relevant amount:
-
-                     (a)  is a debt due to the Commonwealth by the recipient; and
-
-                     (b)  may be recovered by the Secretary of the Department, on behalf of the Commonwealth, in a court of competent jurisdiction.
-
-Note:          See also section 47 of the _Financial Management and Accountability Act 1997_ (duty to pursue recovery of a debt).
-
-             (3)  If:
-
-                     (a)  a payment is made under subsection (1) to the recipient; and
-
-                     (b)  the recipient is receiving, or is entitled to receive, an amount under a determination made under Part IIIA of the _Defence Act 1903_;
-
-then:
-
-                     (c)  the relevant amount; or
-
-                     (d)  such part of the relevant amount as the Secretary of the Department determines;
-
-may, if the Secretary of the Department so directs, be recovered by deduction from the amount mentioned in paragraph (b).
-
-Note:          See also section 47 of the _Financial Management and Accountability Act 1997_ (duty to pursue recovery of a debt).
-
-Appropriation
-
-             (4)  For the purposes of repealed section 39 of this Act as continued in force by item 4 of Schedule 4 to the _Defence Legislation Amendment Act (No. 1) 2005_, a payment under subsection (1) of this section is taken to be a retention benefit.
-
-Retention benefit
-
-             (5)  For the purposes of this section, **_retention_** **_benefit_** means retention benefit under repealed Part 8 of this Act as continued in force by item 4 of Schedule 4 to the _Defence Legislation Amendment Act (No. 1) 2005_.
-
-##### <a id="51C"></a>51C  Transitional—reports about recoverable payments
-
-             (1)  During the applicable publication period for a reporting period, the Secretary of the Department must cause to be published, in such manner as the Secretary thinks fit, a report that sets out:
-
-                     (a)  the number of payments made under subsection 51B(1) during the reporting period; and
-
-                     (b)  the total amount of those payments.
-
-             (2)  However, a report is not required if the number mentioned in paragraph (1)(a) is zero.
-
-Deferred reporting
-
-             (3)  Subsection (1) of this section does not require a report to deal with a payment unless, before the preparation of the report, a Departmental official was aware the payment was made under subsection 51B(1).
-
-             (4)  For the purposes of this section, if:
-
-                     (a)  a payment was made under subsection 51B(1) in a reporting period; and
-
-                     (b)  because of subsection (3) of this section, subsection (1) of this section did not require a report to deal with the payment; and
-
-                     (c)  during a later reporting period, a Departmental official becomes aware that the payment was made under subsection 51B(1);
-
-the payment is subject to a **_deferred reporting obligation_** in relation to the later reporting period.
-
-             (5)  If one or more payments made under subsection 51B(1) during a reporting period are subject to a deferred reporting obligation in relation to a later reporting period, the Secretary of the Department must, during the applicable publication period for the later reporting period:
-
-                     (a)  prepare a report that sets out:
-
-                              (i)  the number of those payments; and
-
-                             (ii)  the total amount of those payments; and
-
-                            (iii)  the reporting period during which the payments were made; and
-
-                     (b)  if a report is required under subsection (1) in relation to the later reporting period—include the paragraph (a) report in the subsection (1) report; and
-
-                     (c)  if paragraph (b) does not apply—publish, in such manner as the Secretary thinks fit, the paragraph (a) report.
-
-Reporting period
-
-             (6)  For the purposes of this section, a **_reporting period_** is:
-
-                     (a)  a financial year; or
-
-                     (b)  if a shorter recurring period is specified in a legislative instrument made by the Minister—that period.
-
-Applicable publication period
-
-             (7)  For the purposes of this section, the **_applicable publication period_** for a reporting period is the period of:
-
-                     (a)  4 months; or
-
-                     (b)  if a lesser number of months is specified, in relation to the reporting period, in a legislative instrument made by the Minister—that number of months;
-
-beginning immediately after the end of the reporting period.
-
-Departmental official
-
-             (8)  For the purposes of this section, **_Departmental official_** means an official (within the meaning of the _Financial Management and Accountability Act 1997_) who is in the Department or is part of the Department.
 
 ##### <a id="52"></a>52  Regulations
 
@@ -2037,7 +1779,7 @@ there is applicable to him or her a preserved benefit of the amount of his or he
 
 the amount of member benefit which he or she would, but for this rule, be entitled to be paid is reduced by substituting for the amount of interest applicable in relation to him or her under the relevant provisions an amount calculated in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00549/Html/529a7f6c-5239-449d-a0b7-ad66bf7498a7_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00561/Html/a0fac077-1da2-4781-a1b2-400b750df7c4_files/image002.gif)
 
 where:
 
@@ -2830,7 +2572,7 @@ became payable after 16 June in the preceding year, the person is not entitled
 
 became payable on or before 16 June in the preceding year, the amount of the increase is an amount calculated in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00549/Html/529a7f6c-5239-449d-a0b7-ad66bf7498a7_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00561/Html/a0fac077-1da2-4781-a1b2-400b750df7c4_files/image003.gif)
 
 where:
 
@@ -3468,7 +3210,7 @@ a reference in these Rules to a spouse of a deceased person is, in relation to t
 
 15.  Where, in these Rules, any period of time, dating from a given day, act or event, is required or allowed for any purpose, the time is, unless the contrary intention appears, to be reckoned exclusive of that day or the day of that act or event.
 
-16.  Where the last day of any period required or allowed by a provision of these Rules for the doing of anything falls on a Saturday, on a Sunday or on a day which is a public holiday or a bank holiday in the place in which the thing is to be or may be done, the thing may be done on the first day following which is not a Saturday, a Sunday or a public holiday or bank holiday in the place.
+16   Where the last day of any period required or allowed by a provision of these Rules for the doing of anything falls on a Saturday, on a Sunday or on a day which is a public holiday or a bank holiday in the place in which the thing is to be or may be done, the thing may be done on the first day following which is not a Saturday, a Sunday or a public holiday or bank holiday in the place.
 
 #### Part 9—Attainment of particular age
 
@@ -3759,7 +3501,7 @@ _Schedule 1 (Definition of “eligible service”)_
 </tr>
 <tr>
   <td>
-    <div>2\. A person who, immediately before he or she transferred from the 1973 Scheme, was rendering continuous full‑time service and who, immediately before he or she began to render that service, was a 1973 Scheme retirement pensioner.</div>
+    <div>2\. A person who, immediately before he or she transferred from the 1973 Scheme, was rendering continuous full‑time service and who, immediately before he or she began to render that service, was a 1973 Scheme retirement pensioner</div>
   </td>
   <td>
     <div>So much of that period of service rendered by the person after the person ceased to be a 1973 Scheme retirement pensioner and before his or her transfer to the 1991 Scheme as was a period of effective service in relation to the person for the purposes of the 1973 Act.</div>
@@ -3790,7 +3532,7 @@ _Schedule 1 (Definition of “final average salary”)_
 
      (a)  in the case of a person with less than 3 years’ eligible service—an amount calculated in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00549/Html/529a7f6c-5239-449d-a0b7-ad66bf7498a7_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00561/Html/a0fac077-1da2-4781-a1b2-400b750df7c4_files/image004.gif)
 
 where:
 
@@ -3828,7 +3570,7 @@ _Schedule 1 (Definition of “employer benefit”)_
 
 is calculated in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00549/Html/529a7f6c-5239-449d-a0b7-ad66bf7498a7_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00561/Html/a0fac077-1da2-4781-a1b2-400b750df7c4_files/image005.gif)
 
 where:
 
@@ -3860,7 +3602,7 @@ where:
 
 3.    The employer benefit, in relation to a person who has less than 7 years’ eligible service (other than a person who is retired on the ground of invalidity, is a 1973 Scheme recipient member, is a 1973 Scheme re‑entrant, is a 1991 Scheme re‑entrant or is a foreign service member), is calculated in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00549/Html/529a7f6c-5239-449d-a0b7-ad66bf7498a7_files/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00561/Html/a0fac077-1da2-4781-a1b2-400b750df7c4_files/image006.gif)
 
 where:
 
@@ -3965,7 +3707,7 @@ Percentage</div>
 
 is calculated in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00549/Html/529a7f6c-5239-449d-a0b7-ad66bf7498a7_files/image007.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00561/Html/a0fac077-1da2-4781-a1b2-400b750df7c4_files/image007.gif)
 
 where:
 
@@ -3997,7 +3739,7 @@ where:
 
 6.    The employer benefit, in relation to a 1973 Scheme re‑entrant or foreign service member, who has less than 7 years’ aggregated service, (other than a person who is retired on the ground of invalidity), is calculated in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00549/Html/529a7f6c-5239-449d-a0b7-ad66bf7498a7_files/image008.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00561/Html/a0fac077-1da2-4781-a1b2-400b750df7c4_files/image008.gif)
 
 where:
 
@@ -4098,7 +3840,7 @@ Percentage</div>
 
 8.    In the case of an MBL member who elected under subrule 5 (2) to cease paying contributions, the formula is:
 
-![](http://www.comlaw.gov.au/Details/C2012C00549/Html/529a7f6c-5239-449d-a0b7-ad66bf7498a7_files/image009.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00561/Html/a0fac077-1da2-4781-a1b2-400b750df7c4_files/image009.gif)
 
 where:
 
@@ -4122,7 +3864,7 @@ where:
 
 the formula is:
 
-![](http://www.comlaw.gov.au/Details/C2012C00549/Html/529a7f6c-5239-449d-a0b7-ad66bf7498a7_files/image010.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00561/Html/a0fac077-1da2-4781-a1b2-400b750df7c4_files/image010.gif)
 
 where:
 
@@ -4218,7 +3960,7 @@ _(Schedules 8 and 10)_
 
      (b)  the rate applicable in relation to any other salary fortnight is the rate ascertained in accordance with the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00549/Html/529a7f6c-5239-449d-a0b7-ad66bf7498a7_files/image011.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00561/Html/a0fac077-1da2-4781-a1b2-400b750df7c4_files/image011.gif)
 
 where:
 
@@ -4598,7 +4340,7 @@ of Assent</div>
     <div>7 Sept 1991</div>
   </td>
   <td>
-    <div>Parts 1 and 2 (ss. 1–5), 6 and 7 (ss. 18–28), ss. 42, 47, 49(1)(a) and 50–52: Royal Assent 
+    <div>Parts 1 and 2 (ss. 1–5), 6 and 7 (ss. 18–28), ss. 42, 47 and 50–52: Royal Assent 
 S. 61: 1 Sept 1991 
 Remainder: 1 Oct 1991</div>
   </td>
@@ -4721,7 +4463,7 @@ Remainder: 1 July 1994</div>
     <div>19 Feb 1997</div>
   </td>
   <td>
-    <div>Schedule 2 (items 5, 28, 50, 85, 89, 111, 145): Royal Assent <i>(c)</i></div>
+    <div>Schedule 2 (items 28, 85, 111, 145): Royal Assent <i>(c)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -4967,23 +4709,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Schedule 1 (items 104–114, 247(1)): <i>(k)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Framework Legislation Amendment Act (No. 2) 2012</div>
-  </td>
-  <td>
-    <div>82, 2012</div>
-  </td>
-  <td>
-    <div>28 June 2012</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 73, 74): 29 June 2012</div>
   </td>
   <td>
     <div>—</div>
@@ -5386,30 +5111,6 @@ _(k)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
 </tr>
 <tr>
   <td>
-    <div>S. 16B</div>
-  </td>
-  <td>
-    <div>ad. No. 82, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 16C</div>
-  </td>
-  <td>
-    <div>ad. No. 82, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 16D</div>
-  </td>
-  <td>
-    <div>ad. No. 82, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part 6</b></div>
   </td>
   <td>
@@ -5750,22 +5451,6 @@ _(k)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
   </td>
   <td>
     <div>ad. No. 95, 1993</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 51B</div>
-  </td>
-  <td>
-    <div>ad. No. 82, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 51C</div>
-  </td>
-  <td>
-    <div>ad. No. 82, 2012</div>
   </td>
 </tr>
 <tr>
