@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2011C00045/Html/95df4b92-89b1-43ad-a4c2-5a23d707149f_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00805/Html/FishingLevyAct1991_WD02_image001.gif)
 
 # Fishing Levy Act 1991
 
 **Act No. 156 of 1991 as amended**
 
-This compilation was prepared on 4 January 2011
+This compilation was prepared on 14 December 2010
  taking into account amendments up to Act No. 137 of 2010
 
 The text of any of those amendments not in force
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -70,17 +70,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="7"></a>7  By whom is levy payable?
 
-             (1)  Levy is payable by the person who, at the time at which the levy is due and payable, is the holder of the fishing concession.
-
-             (2)  In this section, **_holder_** of a fishing concession means:
-
-                     (a)  the person to whom the fishing concession was granted; or
-
-                     (b)  if the fishing concession has been transferred—the person to whom the fishing concession was last transferred.
+                   Levy is payable by the person who, at the time at which the levy is due and payable, is the holder of the fishing concession.
 
 ##### <a id="8"></a>8  Regulations
 
-                   The Governor‑General may make regulations for the purposes of section 6.
+                   The Governor-General may make regulations for the purposes of section 6.
 
 # Notes to the _Fishing Levy Act 1991_
 
@@ -149,43 +143,35 @@ Remainder: Royal Assent</div>
     <div>7 Dec 2010</div>
   </td>
   <td>
-    <div>Schedule 2: 4 Jan 2011</div>
+    <div>Schedule 2: \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
   </td>
 </tr></table>
 
-## Table of Amendments
+### Note 2
 
-<table>
-<colgroup>
-  <col width="32%">
-  <col width="68%">
-</colgroup>
+_Fisheries Legislation Amendment Act (No. 2) 2010 (No. 137, 2010)_
 
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>S. 7</div>
-  </td>
-  <td>
-    <div>am. No. 137, 2010</div>
-  </td>
-</tr></table>
+The following amendments commence on 4 January 2011:
+
+## Schedule 2
+
+## 1  Section 7
+
+Before “Levy”, insert “(1)”.
+
+## 2  At the end of section 7
+
+Add:
+
+             (2)  In this section, **_holder_** of a fishing concession means:
+
+                     (a)  the person to whom the fishing concession was granted; or
+
+                     (b)  if the fishing concession has been transferred—the person to whom the fishing concession was last transferred.
+
+As at 14 December 2010 the amendments are not incorporated in this compilation.
 
  
