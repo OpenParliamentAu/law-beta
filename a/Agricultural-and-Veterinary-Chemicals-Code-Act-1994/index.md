@@ -1,39 +1,40 @@
-![](http://www.comlaw.gov.au/Details/C2007C00437/Html/AgrVetChemCode1994_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00459/Html/6E16DAABB2172FE7CA25703E00236464/$FILE/image001.gif)
 
 # Agricultural and Veterinary Chemicals Code Act 1994
 
 **Act No. 47 of 1994 as amended**
 
-This compilation was prepared on 6 July 2007
- taking into account amendments up to Act No. 98 of 2007
+This compilation was prepared on 13 July 2005
+taking into account amendments up to Act No. 100 of 2005
 
 The text of any of those amendments not in force on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, Canberra
+
 
 # Contents
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        2
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               2
 
-[3](#3).            Definitions
+[3](#3).            Definitions                                                                                           2
 
-[4](#4).            The Schedule
+[4](#4).            The Schedule                                                                                        2
 
-[5](#5).            Citation and interpretation of Agvet Code and Agvet Regulations
+[5](#5).            Citation and interpretation of Agvet Code and Agvet Regulations     2
 
-[6](#6).            Regulations
+[6](#6).            Regulations                                                                                          3
 
-[7](#7).            Orders
+[7](#7).            Orders                                                                                                  5
 
-[8](#8).            Compensation
+[8](#8).            Compensation                                                                                      6
 
-[9](#9).            Certain matter not to form part of this Act
+[9](#9).            Certain matter not to form part of this Act                                         6
 
 **Schedule—Agricultural and Veterinary Chemicals Code** 
 
@@ -43,607 +44,606 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part 1—Preliminary**
 
-[1](#1).            Object of Code
+[1](#1).            Object of Code                                                                                   19
 
-[2](#2).            Relationship of Code to other laws
+[2](#2).            Relationship of Code to other laws                                                   19
 
-[3](#3).            Definitions
+[3](#3).            Definitions                                                                                         19
 
-[4](#4).            Definition of _agricultural chemical product_
+[4](#4).            Definition of _agricultural chemical product_                                      36
 
-[5](#5).            Definition of _veterinary chemical product_
+[5](#5).            Definition of _veterinary chemical product_                                         37
 
-[6](#6).            Determinations, approvals, exemptions etc  by APVMA
+[6](#6).            Determinations, approvals, exemptions etc  by APVMA                38
 
-[7](#7).            Possession or custody of constituent or product
+[7](#7).            Possession or custody of constituent or product                              38
 
-[8](#8).            Labels attached to containers
+[8](#8).            Labels attached to containers                                                             38
 
-[8A](#8A).         Application of the _Criminal Code_
+[8A](#8A).         Application of the _Criminal Code_                                                     38
 
 **Part 2—Approvals and registration** 
 
     **Division 1—Preliminary**
 
-[9](#9).            Explanation of Part
+[9](#9).            Explanation of Part                                                                            40
 
     **Division 2—Granting or refusing approvals and registrations**
 
-[10](#10).          Applications that may be made
+[10](#10).          Applications that may be made                                                         41
 
-[11](#11).          How application is to be made
+[11](#11).          How application is to be made                                                          41
 
-[11A](#11A).       Preliminary assessment of application
+[11A](#11A).       Preliminary assessment of application                                              42
 
-[11B](#11B).       APVMA to publish summary of application
+[11B](#11B).       APVMA to publish summary of application                                   43
 
-[12](#12).          APVMA to publish notice before deciding whether to approve new active constituent
+[12](#12).          APVMA to publish notice before deciding whether to approve new active constituent        43
 
-[13](#13).          APVMA to publish notice before deciding whether to register chemical product containing new active constituent
+[13](#13).          APVMA to publish notice before deciding whether to register chemical product containing new active constituent                                                                                                           44
 
-[13A](#13A).       Notifying Food Standards Australia New Zealand
+[14](#14).          Grant or refusal of application                                                          45
 
-[14](#14).          Grant or refusal of application
+[14A](#14A).       Approval of active constituents for which information is not readily available      48
 
-[14A](#14A).       Approval of active constituents for which information is not readily available
+[14B](#14B).       APVMA not to use information for registration of new agricultural chemical product to approve a similar product after disclosure                                                                                   48
 
-[14B](#14B).       APVMA not to use information for registration of new agricultural chemical product to approve a similar product after disclosure
+[15](#15).          Restriction on power of APVMA to grant applications                   50
 
-[15](#15).          Restriction on power of APVMA to grant applications
+[16](#16).          Multiple approvals or registrations                                                   50
 
-[16](#16).          Multiple approvals or registrations
+[17](#17).          APVMA must keep a Record of Approved Active Constituents for Chemical Products      51
 
-[17](#17).          APVMA must keep a Record of Approved Active Constituents for Chemical Products
+[18](#18).          APVMA must keep a Register of Agricultural and Veterinary Chemical Products                51
 
-[18](#18).          APVMA must keep a Register of Agricultural and Veterinary Chemical Products
+[19](#19).          How approval of active constituent is effected                                 52
 
-[19](#19).          How approval of active constituent is effected
+[20](#20).          How registration of chemical product is effected                              52
 
-[20](#20).          How registration of chemical product is effected
+[21](#21).          How approval of label is effected                                                      52
 
-[21](#21).          How approval of label is effected
+[22](#22).          Date of approval or registration                                                        53
 
-[22](#22).          Date of approval or registration
+[23](#23).          Conditions of approval or registration                                              54
 
-[23](#23).          Conditions of approval or registration
+[24](#24).          Notice of approval or registration                                                     54
 
-[24](#24).          Notice of approval or registration
+[25](#25).          Notice of refusal of application                                                         55
 
-[25](#25).          Notice of refusal of application
-
-[26](#26).          Notice of incorrectly recorded or registered particulars
+[26](#26).          Notice of incorrectly recorded or registered particulars                    55
 
     **Division 3—Application for variation of relevant particulars, or of conditions, of approval or registration**
 
-[27](#27).          Who may apply
+[27](#27).          Who may apply                                                                                 57
 
-[28](#28).          How application is to be made
+[28](#28).          How application is to be made                                                          57
 
-[28A](#28A).       Preliminary assessment of application
+[28A](#28A).       Preliminary assessment of application                                              57
 
-[28B](#28B).       APVMA to publish summary of application
+[28B](#28B).       APVMA to publish summary of application                                   58
 
-[29](#29).          Grant or refusal of application
+[29](#29).          Grant or refusal of application                                                          58
 
     **Division 4—Reconsideration of approval or registration**
 
-[30](#30).          APVMA may invite the public to propose approved active constituents or registered chemical products for reconsideration
+[30](#30).          APVMA may invite the public to propose approved active constituents or registered chemical products for reconsideration                                                                                   61
 
-[31](#31).          APVMA may reconsider approval or registration
+[31](#31).          APVMA may reconsider approval or registration                            61
 
-[32](#32).          APVMA may give notice of proposed reconsideration
+[32](#32).          APVMA may give notice of proposed reconsideration                    61
 
-[33](#33).          APVMA may require trials or laboratory experiments to be conducted
+[33](#33).          APVMA may require trials or laboratory experiments to be conducted 63
 
-[34](#34).          Reconsideration by APVMA of continued approval or registration
+[34](#34).          Reconsideration by APVMA of continued approval or registration 64
 
-[34A](#34A).       Reconsideration of approval of label without notice in certain circumstances
+[34A](#34A).       Reconsideration of approval of label without notice in certain circumstances        66
 
     **Division 4A—Limits on use of information** 
 
         **Subdivision A—Preliminary**
 
-[34B](#34B).       Explanation of Division
+[34B](#34B).       Explanation of Division                                                                     68
 
         **Subdivision B—Limits on use of information**
 
-[34C](#34C).       APVMA must not use some information during some periods for some purposes
+[34C](#34C).       APVMA must not use some information during some periods for some purposes               68
 
         **Subdivision C—Exceptions to limits on use of information**
 
-[34D](#34D).       Exceptions
+[34D](#34D).       Exceptions                                                                                         71
 
-[34E](#34E).        Further rules about public interest exception
+[34E](#34E).        Further rules about public interest exception                                    73
 
         **Subdivision D—Period of limit on use of information**
 
-[34F](#34F).        Period of limit on future use of information relied on in granting application
+[34F](#34F).        Period of limit on future use of information relied on in granting application         73
 
         **Subdivision E—Ancillary provisions**
 
-[34G](#34G).       Identifying information relied on in advice APVMA relied on
+[34G](#34G).       Identifying information relied on in advice APVMA relied on         76
 
     **Division 5—Suspension or cancellation of approval or registration**
 
-[35](#35).          Notice of proposed suspension or cancellation to be given to co-ordinators
+[35](#35).          Notice of proposed suspension or cancellation to be given to co-ordinators          77
 
-[36](#36).          Suspension or cancellation of approval or registration for breach of condition
+[36](#36).          Suspension or cancellation of approval or registration for breach of condition       77
 
-[37](#37).          Suspension of approval or registration for failing to give information, or results of trials or experiments, to APVMA
+[37](#37).          Suspension of approval or registration for failing to give information, or results of trials or experiments, to APVMA                                                                                                           77
 
-[38](#38).          Suspension of approval or registration for failing to give information, report or sample to APVMA
+[38](#38).          Suspension of approval or registration for failing to give information, report or sample to APVMA   78
 
-[39](#39).          Suspension of approval or registration if compensation for use of protected information cannot be arbitrated
+[39](#39).          Suspension of approval or registration if compensation for use of protected information cannot be arbitrated    78
 
-[40](#40).          Suspension or cancellation of approval or registration following reconsideration of continued approval or registration
+[40](#40).          Suspension or cancellation of approval or registration following reconsideration of continued approval or registration                                                                                                           79
 
-[41](#41).          Suspension or cancellation of approval or registration for non-compliance with criteria for registration or approval
+[41](#41).          Suspension or cancellation of approval or registration for non-compliance with criteria for registration or approval                                                                                                           80
 
-[42](#42).          Cancellation of approval or registration at request of interested person
+[42](#42).          Cancellation of approval or registration at request of interested person 81
 
-[43](#43).          Effect of suspension of approval or registration
+[43](#43).          Effect of suspension of approval or registration                               81
 
-[44](#44).          Inter-related suspensions and cancellations
+[44](#44).          Inter-related suspensions and cancellations                                       81
 
-[45](#45).          How approval or registration is suspended or cancelled
+[45](#45).          How approval or registration is suspended or cancelled                   82
 
-[45A](#45A).       Notice of suspension or cancellation
+[45A](#45A).       Notice of suspension or cancellation                                                 82
 
-[46](#46).          How suspension or cancellation is revoked
+[46](#46).          How suspension or cancellation is revoked                                       84
 
     **Division 6—Duration and renewal of approval or registration**
 
-[47](#47).          Period of approval or registration
+[47](#47).          Period of approval or registration                                                      85
 
-[48](#48).          Application for renewal of registration of chemical product
+[48](#48).          Application for renewal of registration of chemical product             85
 
-[49](#49).          How application for renewal of registration is to be made
+[49](#49).          How application for renewal of registration is to be made                86
 
-[50](#50).          Renewal of registration of chemical product
+[50](#50).          Renewal of registration of chemical product                                     87
 
-[51](#51).          Renewal of approval of label
+[51](#51).          Renewal of approval of label                                                             87
 
     **Division 7—Publication of notices by APVMA**
 
-[52](#52).          Publication of notice of approval of active constituent or registration of chemical product
+[52](#52).          Publication of notice of approval of active constituent or registration of chemical product   88
 
-[53](#53).          Publication of notice of variations of approval of active constituent or registration of chemical product
+[53](#53).          Publication of notice of variations of approval of active constituent or registration of chemical product              88
 
-[54](#54).          Publication of notice of end of registration of chemical product
+[54](#54).          Publication of notice of end of registration of chemical product       89
 
-[55](#55).          Publication of notice of suspension or cancellation of approval or registration
+[55](#55).          Publication of notice of suspension or cancellation of approval or registration      90
 
-[56](#56).          Notice of revocation of suspension or cancellation to be published
+[56](#56).          Notice of revocation of suspension or cancellation to be published 93
 
 **Part 2A—Listable chemical products** 
 
     **Division 1—Preliminary**
 
-[56A](#56A).       Explanation of Part
+[56A](#56A).       Explanation of Part                                                                            94
 
-[56B](#56B).       Exclusion of restricted chemical products
+[56B](#56B).       Exclusion of restricted chemical products                                         94
 
     **Division 2—Schedule of listable chemical products**
 
-[56C](#56C).       Regulations may contain schedule of listable chemical products
+[56C](#56C).       Regulations may contain schedule of listable chemical products      95
 
     **Division 3—Establishing standards for listable chemical products**
 
-[56D](#56D).       APVMA to prepare standards
+[56D](#56D).       APVMA to prepare standards                                                          97
 
-[56E](#56E).        Matters to be taken into account in preparing a standard
+[56E](#56E).        Matters to be taken into account in preparing a standard                 98
 
-[56F](#56F).        Variation or revocation of standards
+[56F](#56F).        Variation or revocation of standards                                                100
 
-[56G](#56G).       Date of effect of standards
+[56G](#56G).       Date of effect of standards                                                              101
 
-[56H](#56H).       Standards to be disallowable
+[56H](#56H).       Standards to be disallowable                                                            101
 
     **Division 4—Application for registration of listable chemical products**
 
-[56I](#56I).         Application
+[56I](#56I).         Application                                                                                      102
 
-[56J](#56J).        How application is to be made
+[56J](#56J).        How application is to be made                                                        102
 
-[56K](#56K).       Grant or refusal of application
+[56K](#56K).       Grant or refusal of application                                                        102
 
-[56L](#56L).        Multiple listed registrations
+[56L](#56L).        Multiple listed registrations                                                            103
 
-[56M](#56M).      How listed registration of chemical product is effected
+[56M](#56M).      How listed registration of chemical product is effected                  103
 
-[56N](#56N).       Date of listed registration
+[56N](#56N).       Date of listed registration                                                                104
 
-[56O](#56O).       Conditions of listed registration
+[56O](#56O).       Conditions of listed registration                                                      104
 
-[56P](#56P).        Notice of listed registration
+[56P](#56P).        Notice of listed registration                                                             105
 
-[56Q](#56Q).       Notice of refusal of application
+[56Q](#56Q).       Notice of refusal of application                                                       105
 
-[56R](#56R).       Notice of incorrectly registered particulars
+[56R](#56R).       Notice of incorrectly registered particulars                                     105
 
     **Division 5—Application for variation of relevant particulars, or of conditions, of listed registration**
 
-[56S](#56S).        Who may apply
+[56S](#56S).        Who may apply                                                                               107
 
-[56T](#56T).       How application is to be made
+[56T](#56T).       How application is to be made                                                        107
 
-[56U](#56U).       Grant or refusal of application
+[56U](#56U).       Grant or refusal of application                                                        107
 
     **Division 6—Reconsideration of listed registration**
 
-[56V](#56V).       APVMA may invite the public to propose registered listed chemical products for reconsideration
+[56V](#56V).       APVMA may invite the public to propose registered listed chemical products for reconsideration      110
 
-[56W](#56W).      APVMA may reconsider listed registration
+[56W](#56W).      APVMA may reconsider listed registration                                    110
 
-[56X](#56X).       APVMA may give notice of proposed reconsideration
+[56X](#56X).       APVMA may give notice of proposed reconsideration                  110
 
-[56Y](#56Y).       APVMA may require trials or laboratory experiments to be conducted
+[56Y](#56Y).       APVMA may require trials or laboratory experiments to be conducted 111
 
-[56Z](#56Z).       Reconsideration by APVMA of continued listed registration
+[56Z](#56Z).       Reconsideration by APVMA of continued listed registration        112
 
     **Division 7—Suspension or cancellation of listed registration**
 
-[56ZA](#56ZA).    Notice of proposed suspension or cancellation to be given to co-ordinators
+[56ZA](#56ZA).    Notice of proposed suspension or cancellation to be given to co-ordinators          115
 
-[56ZB](#56ZB).     Suspension or cancellation of listed registration for breach of condition
+[56ZB](#56ZB).     Suspension or cancellation of listed registration for breach of condition 115
 
-[56ZC](#56ZC).     Suspension of listed registration for failing to give information, or results of trials or experiments, to APVMA
+[56ZC](#56ZC).     Suspension of listed registration for failing to give information, or results of trials or experiments, to APVMA  115
 
-[56ZD](#56ZD).    Suspension of listed registration for failing to give information, report or sample to APVMA
+[56ZD](#56ZD).    Suspension of listed registration for failing to give information, report or sample to APVMA             116
 
-[56ZE](#56ZE).     Suspension or cancellation of listed registration following reconsideration
+[56ZE](#56ZE).     Suspension or cancellation of listed registration following reconsideration             116
 
-[56ZF](#56ZF).     Suspension or cancellation of listed registration for non-compliance with criteria
+[56ZF](#56ZF).     Suspension or cancellation of listed registration for non-compliance with criteria  117
 
-[56ZG](#56ZG).    Cancellation of listed registration on request
+[56ZG](#56ZG).    Cancellation of listed registration on request                                   117
 
-[56ZH](#56ZH).    Effect of suspension of listed registration
+[56ZH](#56ZH).    Effect of suspension of listed registration                                       118
 
-[56ZI](#56ZI).      How listed registration is suspended or cancelled
+[56ZI](#56ZI).      How listed registration is suspended or cancelled                           118
 
-[56ZJ](#56ZJ).      How suspension or cancellation of listed registration is revoked
+[56ZJ](#56ZJ).      How suspension or cancellation of listed registration is revoked    120
 
     **Division 8—Duration and renewal of listed registration**
 
-[56ZK](#56ZK).    Period of listed registration
+[56ZK](#56ZK).    Period of listed registration                                                              121
 
-[56ZL](#56ZL).     Application for renewal of listed registration of chemical product
+[56ZL](#56ZL).     Application for renewal of listed registration of chemical product 121
 
-[56ZM](#56ZM).   How application for renewal of listed registration is to be made
+[56ZM](#56ZM).   How application for renewal of listed registration is to be made    121
 
-[56ZN](#56ZN).    Renewal of listed registration of chemical product
+[56ZN](#56ZN).    Renewal of listed registration of chemical product                          122
 
     **Division 9—Publication of notices and certain other instruments by APVMA**
 
-[56ZO](#56ZO).    Publication of notice of listed registration of chemical product
+[56ZO](#56ZO).    Publication of notice of listed registration of chemical product      124
 
-[56ZP](#56ZP).     Publication of notice of variations of listed registration of chemical product
+[56ZP](#56ZP).     Publication of notice of variations of listed registration of chemical product          124
 
-[56ZQ](#56ZQ).    Publication of notice of end of listed registration of chemical product
+[56ZQ](#56ZQ).    Publication of notice of end of listed registration of chemical product 124
 
-[56ZR](#56ZR).     Publication of notice of suspension or cancellation of listed registration
+[56ZR](#56ZR).     Publication of notice of suspension or cancellation of listed registration                126
 
-[56ZS](#56ZS).     Notice of revocation of suspension or cancellation to be published
+[56ZS](#56ZS).     Notice of revocation of suspension or cancellation to be published 128
 
-[56ZT](#56ZT).     Publication of instrument varying established standard for listable chemical product
+[56ZT](#56ZT).     Publication of instrument varying established standard for listable chemical product            128
 
 **Part 2B—Reserved chemical products**
 
-[56ZU](#56ZU).    Regulations may contain schedule of reserved chemical products
+[56ZU](#56ZU).    Regulations may contain schedule of reserved chemical products  129
 
 **Part 3—Compensation for provider of certain information in respect of continued registration of certain chemical products** 
 
     **Division 1—Preliminary**
 
-[57](#57).          Explanation of Part
+[57](#57).          Explanation of Part                                                                          131
 
     **Division 2—Right to compensation**
 
-[58](#58).          Right of APVMA to use information
+[58](#58).          Right of APVMA to use information                                              133
 
-[59](#59).          Right of originator of protected information to compensation for its use in relation to other applications
+[59](#59).          Right of originator of protected information to compensation for its use in relation to other applications            133
 
-[60](#60).          APVMA to notify applicants
+[60](#60).          APVMA to notify applicants                                                         135
 
-[61](#61).          Primary applicant to notify secondary applicant
+[61](#61).          Primary applicant to notify secondary applicant                           137
 
     **Division 3—Mediation or arbitration as to terms of compensation**
 
-[62](#62).          Application of Division
+[62](#62).          Application of Division                                                                   138
 
-[63](#63).          Mediation
+[63](#63).          Mediation                                                                                        138
 
-[64](#64).          Appointment of arbitrator
+[64](#64).          Appointment of arbitrator                                                               139
 
-[65](#65).          Determination of compensation on the basis of proposals made during negotiations
+[65](#65).          Determination of compensation on the basis of proposals made during negotiations             140
 
-[66](#66).          Arbitrator may require fresh proposals
+[66](#66).          Arbitrator may require fresh proposals                                           140
 
-[67](#67).          Determination on basis of fresh proposals
+[67](#67).          Determination on basis of fresh proposals                                      140
 
-[68](#68).          What happens if fresh proposals are not made or are inadequate
+[68](#68).          What happens if fresh proposals are not made or are inadequate   141
 
-[69](#69).          What constitutes a reasonable proposal for compensation
+[69](#69).          What constitutes a reasonable proposal for compensation             141
 
-[70](#70).          Effect and enforcement of determination by arbitrator
+[70](#70).          Effect and enforcement of determination by arbitrator                   142
 
-[71](#71).          Regulations to govern conduct of arbitration
+[71](#71).          Regulations to govern conduct of arbitration                                   144
 
 **Part 4—Control of chemical products** 
 
     **Division 1—Preliminary**
 
-[72](#72).          Explanation of Part
+[72](#72).          Explanation of Part                                                                          145
 
-[73](#73).          Part not to apply to veterinary surgeons acting under other laws
+[73](#73).          Part not to apply to veterinary surgeons acting under other laws  145
 
     **Division 2—Control generally**
 
-[74](#74).          Possession or custody of unapproved active constituents with the intention of supply
+[74](#74).          Possession or custody of unapproved active constituents with the intention of supply       146
 
-[75](#75).          Possession or custody of chemical products, other than registered, registered listed or reserved products, with the intention of supply
+[75](#75).          Possession or custody of chemical products, other than registered, registered listed or reserved products, with the intention of supply                                                                          147
 
-[76](#76).          Supply of unapproved active constituents
+[76](#76).          Supply of unapproved active constituents                                     148
 
-[77](#77).          Supply of approved active constituents in contravention of conditions of approval
+[77](#77).          Supply of approved active constituents in contravention of conditions of approval             149
 
-[78](#78).          Supply of chemical products that are not registered products, registered listed products or reserved products
+[78](#78).          Supply of chemical products that are not registered products, registered listed products or reserved products    150
 
-[79](#79).          Supply of registered chemical products in contravention of conditions of registration
+[79](#79).          Supply of registered chemical products in contravention of conditions of registration          151
 
-[79A](#79A).       Supply of registered listed chemical products in contravention of conditions of listed registration
+[79A](#79A).       Supply of registered listed chemical products in contravention of conditions of listed registration       152
 
-[79B](#79B).       Supply of reserved chemical products contrary to conditions specified in the regulations
+[79B](#79B).       Supply of reserved chemical products contrary to conditions specified in the regulations    152
 
-[80](#80).          Supply of chemical products without a label
+[80](#80).          Supply of chemical products without a label                                  152
 
-[81](#81).          Supply of registered chemical products with unapproved label
+[81](#81).          Supply of registered chemical products with unapproved label     153
 
-[82](#82).          Supply of chemical products in containers opened by inspector
+[82](#82).          Supply of chemical products in containers opened by inspector   154
 
-[83](#83).          Supply of substances whose constituents differ from constituents of registered chemical product
+[83](#83).          Supply of substances whose constituents differ from constituents of registered chemical product       154
 
-[83A](#83A).       Supply of substances whose constituents differ from constituents of registered listed chemical product
+[83A](#83A).       Supply of substances whose constituents differ from constituents of registered listed chemical product             155
 
-[84](#84).          Claims inconsistent with labels
+[84](#84).          Claims inconsistent with labels                                                       156
 
-[85](#85).          Modification of warning prohibited
+[85](#85).          Modification of warning prohibited                                                157
 
-[86](#86).          Labels not to be detached etc 
+[86](#86).          Labels not to be detached etc                                                           157
 
-[87](#87).          Chemical product to conform to standard
+[87](#87).          Chemical product to conform to standard                                       158
 
-[87A](#87A).       Supply of registered listed chemical product that does not conform to established standard
+[87A](#87A).       Supply of registered listed chemical product that does not conform to established standard 159
 
-[88](#88).          Certain notices not to be published
+[88](#88).          Certain notices not to be published                                                 159
 
-[89](#89).          Certain statements prohibited
+[89](#89).          Certain statements prohibited                                                         160
 
     **Division 3—Date-controlled chemical products**
 
-[89A](#89A).       Exclusion of certain chemical products
+[89A](#89A).       Exclusion of certain chemical products                                            163
 
-[90](#90).          Manufacture or import of date-controlled chemical product
+[90](#90).          Manufacture or import of date-controlled chemical product          163
 
-[91](#91).          Supply of date-controlled chemical product
+[91](#91).          Supply of date-controlled chemical product                                   163
 
-[92](#92).          Abuse of warning on label prohibited
+[92](#92).          Abuse of warning on label prohibited                                              164
 
     **Division 4—Restricted chemical products**
 
-[93](#93).          Restricted chemical product
+[93](#93).          Restricted chemical product                                                            166
 
-[94](#94).          Restricted chemical products may be supplied only to authorised persons
+[94](#94).          Restricted chemical products may be supplied only to authorised persons           166
 
-[95](#95).          Labels for restricted chemical products
+[95](#95).          Labels for restricted chemical products                                           167
 
 **Part 5—Analysis**
 
-[96](#96).          Explanation of Part
+[96](#96).          Explanation of Part                                                                          168
 
-[97](#97).          Analysis by approved analysts
+[97](#97).          Analysis by approved analysts                                                       168
 
-[98](#98).          Evidence of results of analysis
+[98](#98).          Evidence of results of analysis                                                        169
 
-[99](#99).          Analysis of chemical products
+[99](#99).          Analysis of chemical products                                                        171
 
 **Part 6—Recall notices**
 
-[100](#100).        Explanation of Part
+[100](#100).        Explanation of Part                                                                          174
 
-[101](#101).        Recall of products that are not registered and do not have listed registration or whose registration or listed registration is being reconsidered
+[101](#101).        Recall of products that are not registered and do not have listed registration or whose registration or listed registration is being reconsidered                                                                        174
 
-[102](#102).        Recall of products in certain circumstances
+[102](#102).        Recall of products in certain circumstances                                     175
 
-[103](#103).        Recall of products with labels that are not approved or are not authorised by an established standard
+[103](#103).        Recall of products with labels that are not approved or are not authorised by an established standard 178
 
-[104](#104).        Notice of recall to be published
+[104](#104).        Notice of recall to be published                                                       179
 
-[105](#105).        Non-compliance with recall notice
+[105](#105).        Non-compliance with recall notice                                                  179
 
-[106](#106).        Recall under Trade Practices Act
+[106](#106).        Recall under Trade Practices Act                                                     179
 
-[107](#107).        Inconsistent requirements
+[107](#107).        Inconsistent requirements                                                                179
 
 **Part 7—Permits**
 
-[108](#108).        Explanation of Part
+[108](#108).        Explanation of Part                                                                          180
 
-[109](#109).        Definition of permit
+[109](#109).        Definition of permit                                                                         180
 
-[110](#110).        How application is made
+[110](#110).        How application is made                                                                 181
 
-[111](#111).        Functions of co-ordinators
+[111](#111).        Functions of co-ordinators                                                              181
 
-[112](#112).        APVMA may grant or refuse application
+[112](#112).        APVMA may grant or refuse application                                       182
 
-[113](#113).        Record of Permits
+[113](#113).        Record of Permits                                                                            183
 
-[114](#114).        Issue of permit
+[114](#114).        Issue of permit                                                                                 184
 
-[115](#115).        Duration of permit
+[115](#115).        Duration of permit                                                                           185
 
-[116](#116).        Effect of permit
+[116](#116).        Effect of permit                                                                               185
 
-[117](#117).        Surrender of permit
+[117](#117).        Surrender of permit                                                                          186
 
-[118](#118).        Suspension of permit
+[118](#118).        Suspension of permit                                                                       187
 
-[119](#119).        Cancellation of permit
+[119](#119).        Cancellation of permit                                                                     188
 
 **Part 8—Manufacture of chemical products**
 
-[120](#120).        Explanation of Part
+[120](#120).        Explanation of Part                                                                          191
 
-[120A](#120A).     Exclusion of certain chemical products
+[120A](#120A).     Exclusion of certain chemical products                                            191
 
-[121](#121).        Offences relating to manufacture and licences
+[121](#121).        Offences relating to manufacture and licences                                 191
 
-[122](#122).        Application for licence
+[122](#122).        Application for licence                                                                    192
 
-[123](#123).        Issue of licence
+[123](#123).        Issue of licence                                                                                 193
 
-[124](#124).        Refusal of application
+[124](#124).        Refusal of application                                                                      194
 
-[125](#125).        Period of licence
+[125](#125).        Period of licence                                                                               194
 
-[126](#126).        Conditions of licences
+[126](#126).        Conditions of licences                                                                      194
 
-[127](#127).        Suspension and cancellation of licences
+[127](#127).        Suspension and cancellation of licences                                           195
 
-[128](#128).        Publication of list of manufacturers etc 
+[128](#128).        Publication of list of manufacturers etc                                           197
 
 **Part 9—Enforcement** 
 
     **Division 1—Preliminary**
 
-[129](#129).        Explanation of Part
+[129](#129).        Explanation of Part                                                                          198
 
     **Division 2—Injunctions**
 
-[130](#130).        Injunctions
+[130](#130).        Injunctions                                                                                       199
 
     **Division 3—Powers of entry, search and seizure**
 
-[131](#131).        Searches to monitor compliance with Code
+[131](#131).        Searches to monitor compliance with Code                                     201
 
-[132](#132).        Offence-related searches and seizures
+[132](#132).        Offence-related searches and seizures                                             203
 
-[133](#133).        Offence-related warrants
+[133](#133).        Offence-related warrants                                                                 204
 
-[134](#134).        Announcement before entry
+[134](#134).        Announcement before entry                                                            205
 
-[135](#135).        Details of warrant to be given to occupier
+[135](#135).        Details of warrant to be given to occupier                                       205
 
-[136](#136).        Use of equipment to examine or process things
+[136](#136).        Use of equipment to examine or process things                              206
 
-[137](#137).        Use of electronic equipment at premises
+[137](#137).        Use of electronic equipment at premises                                         206
 
-[138](#138).        Compensation for damage to electronic equipment
+[138](#138).        Compensation for damage to electronic equipment                         208
 
-[139](#139).        Copies of seized things to be given
+[139](#139).        Copies of seized things to be given                                                 208
 
-[140](#140).        Return of things that are seized
+[140](#140).        Return of things that are seized                                                       209
 
-[141](#141).        Court of summary jurisdiction may permit a thing to be kept
+[141](#141).        Court of summary jurisdiction may permit a thing to be kept        209
 
-[142](#142).        Certain expenses to be recoverable by APVMA
+[142](#142).        Certain expenses to be recoverable by APVMA                             210
 
-[143](#143).        Warrants may be granted by telephone in urgent circumstances
+[143](#143).        Warrants may be granted by telephone in urgent circumstances     211
 
-[144](#144).        Power of inspector to require information or documents
+[144](#144).        Power of inspector to require information or documents                212
 
-[145](#145).        False or misleading information or document
+[145](#145).        False or misleading information or document                                  213
 
     **Division 4—Miscellaneous enforcement provisions**
 
-[146](#146).        Self-incrimination to be a reasonable excuse for non-compliance with requirement
+[146](#146).        Self-incrimination to be a reasonable excuse for non-compliance with requirement                214
 
-[147](#147).        Time for bringing prosecutions
+[147](#147).        Time for bringing prosecutions                                                        214
 
-[148](#148).        Copying of documents
+[148](#148).        Copying of documents                                                                    214
 
-[149](#149).        Evidential certificates
+[149](#149).        Evidential certificates                                                                       214
 
-[150](#150).        Forfeiture
+[150](#150).        Forfeiture                                                                                         216
 
-[151](#151).        Conduct by directors, servants and agents
+[151](#151).        Conduct by directors, servants and agents                                      217
 
-[152](#152).        Liability of persons acting on behalf of non-residents
+[152](#152).        Liability of persons acting on behalf of non-residents                    218
 
 **Part 10—Miscellaneous**
 
-[153](#153).        Explanation of Part
+[153](#153).        Explanation of Part                                                                          220
 
-[154](#154).        Recognition of things done under corresponding laws
+[154](#154).        Recognition of things done under corresponding laws                    220
 
-[155](#155).        Discharge of obligations under this Code
+[155](#155).        Discharge of obligations under this Code                                        220
 
-[156](#156).        The making of single applications or the giving of single notices under the Agvet Codes of all jurisdictions
+[156](#156).        The making of single applications or the giving of single notices under the Agvet Codes of all jurisdictions         221
 
-[157](#157).        Samples to be given for analysis
+[157](#157).        Samples to be given for analysis                                                      221
 
-[158](#158).        Samples, or copies, of labels to be given
+[158](#158).        Samples, or copies, of labels to be given                                         222
 
-[159](#159).        APVMA or other authority may require, or require additional, information, report or sample in certain circumstances
+[159](#159).        APVMA or other authority may require, or require additional, information, report or sample in certain circumstances                                                                                                         222
 
-[160](#160).        Overseas trials or experiments
+[160](#160).        Overseas trials or experiments                                                         224
 
-[160A](#160A).     Notification of new information to APVMA in respect of pending application
+[160A](#160A).     Notification of new information to APVMA in respect of pending application    225
 
-[161](#161).        Notification of new information to APVMA
+[161](#161).        Notification of new information to APVMA                                  227
 
-[162](#162).        Disclosure of confidential commercial information
+[162](#162).        Disclosure of confidential commercial information                         228
 
-[163](#163).        Notice to interested person of proposed disclosure of information that is claimed to be confidential commercial information
+[163](#163).        Notice to interested person of proposed disclosure of information that is claimed to be confidential commercial information                                                                                      233
 
-[164](#164).        Fees
+[164](#164).        Fees                                                                                                  233
 
-[165](#165).        Period within which APVMA is to determine applications
+[165](#165).        Period within which APVMA is to determine applications           235
 
-[166](#166).        Reconsideration of decisions
+[166](#166).        Reconsideration of decisions                                                           235
 
-[167](#167).        Review of decisions
+[167](#167).        Review of decisions                                                                         236
 
-[168](#168).        Statement to be included in certain notices of decisions
+[168](#168).        Statement to be included in certain notices of decisions                  240
 
-[169](#169).        Documents and samples become property of APVMA
+[169](#169).        Documents and samples become property of APVMA                 240
 
-[170](#170).        Provisions relating to offences
+[170](#170).        Provisions relating to offences                                                         240
 
-[170A](#170A).     Person not to use protected name or protected symbol
+[170A](#170A).     Person not to use protected name or protected symbol                  241
 
 **Part 11—Transitional provisions**
 
-[171](#171).        Explanation of Part
+[171](#171).        Explanation of Part                                                                          243
 
-[172](#172).        Existing clearance for registration of chemical product
+[172](#172).        Existing clearance for registration of chemical product                    243
 
-[173](#173).        Pending application for clearance for registration of chemical product
+[173](#173).        Pending application for clearance for registration of chemical product 243
 
-[174](#174).        Existing registration of chemical product
+[174](#174).        Existing registration of chemical product                                         244
 
-[175](#175).        Pending application for registration of chemical product
+[175](#175).        Pending application for registration of chemical product                245
 
-[176](#176).        Existing registration or approval of label
+[176](#176).        Existing registration or approval of label                                         246
 
-[177](#177).        Pending application for registration or approval of label
+[177](#177).        Pending application for registration or approval of label                247
 
-[178](#178).        Provisions that apply in respect of existing registrations or approvals
+[178](#178).        Provisions that apply in respect of existing registrations or approvals  248
 
-[179](#179).        Pending application for variation of conditions
+[179](#179).        Pending application for variation of conditions                               248
 
-[180](#180).        Reconsideration of existing clearances for registration
+[180](#180).        Reconsideration of existing clearances for registration                    249
 
-[181](#181).        Existing permit
+[181](#181).        Existing permit                                                                                 250
 
-[182](#182).        Pending application for permit
+[182](#182).        Pending application for permit                                                        250
 
-[183](#183).        Pending proceedings before Administrative Appeals Tribunal
+[183](#183).        Pending proceedings before Administrative Appeals Tribunal       251
 
-[184](#184).        Existing notices requiring further information or samples
+[184](#184).        Existing notices requiring further information or samples               253
 
 **Notes** 
+
 
 ## An Act to make provision for the evaluation, registration and control of agricultural and veterinary chemical products, and for related matters, for the purposes of the _Agricultural and Veterinary Chemicals Act 1994_
 
@@ -663,11 +663,11 @@ RECOGNISING:
 
 The Parliament of Australia enacts:
 
-##### <a id="1"></a>1  Short title <span style="font-size:9.0pt; font-weight:normal">[_see_ Note 1]</span>
+##### <a id="1"></a>1  Short title <span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt">[_see_ Note 1]</span>
 
                    This Act may be cited as the _Agricultural and Veterinary Chemicals Code Act 1994_.
 
-##### <a id="2"></a>2  Commencement <span style="font-size:9.0pt;font-weight:normal">[_see_ Note 1]</span>
+##### <a id="2"></a>2  Commencement <span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt">[_see_ Note 1]</span>
 
                    This Act commences on the same day as the _Agricultural and Veterinary Chemicals Act 1994_.
 
@@ -804,6 +804,7 @@ the Minister may, by signed writing, make orders with respect to that matter tha
                      (a)  the Table of contents that appears at the beginning of the Schedule;
 
                      (b)  the list of terms defined by section 3 of the Schedule that appears immediately after the Table of contents.
+
 
 # Schedule—Agricultural and Veterinary Chemicals Code
 
@@ -1417,552 +1418,559 @@ _Section_
 
 ### (The Agricultural and Veterinary Chemicals Code)
 
-<table>
-<colgroup>
-  <col width="100%">
-</colgroup>
-
-<tr>
-  <td>
-    <div>acknowledge</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>active constituent</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>adequate</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>agricultural chemical product</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>animal</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>approval</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>approved analyst</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>approved form</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>approved label</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>approved person</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>APVMA</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australia</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>authorising party</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>chemical product</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Chief Executive Officer</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>claim</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>companion animal product</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>confidential commercial information</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>constituent</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>container</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>continued use</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>co-ordinator</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>corresponding previous law</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>criteria</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>date-controlled chemical product</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>date of manufacture</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>deal with</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>director</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>distinguishing number</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>document</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>eligible law</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>environment</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>established standard</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>excluded organism</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>expiry date</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>fee</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>food-producing species</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>give information</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>handling</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>holder</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>inspector</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>instruction</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>instructions for use</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>interested person</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>jurisdiction</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>label</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>licence</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>listable chemical product</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>listed registration</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Listing Schedule</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>manufacturing principles</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>material safety data sheet</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>member of the staff</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>occupier</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>ordinary office hours</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>participating Territory</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>penalty unit</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>permit</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>pest</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>place of residence</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>plant</div>
-  </td>
-</tr></table>
 
 <table>
 <colgroup>
   <col width="100%">
 </colgroup>
 
-<tr>
-  <td>
-    <div>premises</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>prescribed</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>previously endorsed active constituent</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>previous registering authority</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>primary active constituent</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>primary applicant</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>primary chemical product</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>prohibited chemical product</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>protected active constituent</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>protected chemical product</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>protected commodity</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>protected information</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>protection period</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>published literature</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>recall notice</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Record of Approved Active Constituents</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Record of Permits</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>re-entry period</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Register of Chemical Products</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>registered chemical product</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>registered listed chemical product</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>registration</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>regulations</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>relevant particulars</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>repealed Act</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>reserved</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>reserved chemical product</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Reserved Schedule</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>residues</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>restricted chemical product</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>sample</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>secondary active constituent</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>secondary applicant</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>secondary applicant</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>secondary chemical product</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>State</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>substance</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>supply</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Territory</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>thing</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>this Code</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>variations</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>veterinary chemical product</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>veterinary surgeon</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>withholding period</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>working day</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>acknowledge</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>active constituent</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>adequate</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>agricultural chemical product</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>animal</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>approval</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>approved analyst</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>approved form</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>approved label</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>approved person</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>APVMA</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Australia</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>authorising party</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>chemical product</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Chief Executive Officer</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>claim</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>companion animal product</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>confidential commercial information</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>constituent</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>container</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>continued use</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>co-ordinator</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>corresponding previous law</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>criteria</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>date-controlled chemical product</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>date of manufacture</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>deal with</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>director</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>distinguishing number</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>document</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>eligible law</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>environment</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>established standard</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>excluded organism</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>expiry date</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>fee</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>food-producing species</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>give information</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>handling</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>holder</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>inspector</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>instruction</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>instructions for use</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>interested person</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>jurisdiction</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>label</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>licence</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>listable chemical product</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>listed registration</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Listing Schedule</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>manufacturing principles</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>material safety data sheet</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>member of the staff</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>occupier</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>ordinary office hours</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>participating Territory</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>penalty unit</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>permit</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>pest</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>place of residence</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>plant</div>
+    </td>
+  </tr>
+</tbody></table>
+
+
+<table>
+<colgroup>
+  <col width="100%">
+</colgroup>
+
+<tbody>
+  <tr>
+    <td>
+      <div>premises</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>prescribed</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>previously endorsed active constituent</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>previous registering authority</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>primary active constituent</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>primary applicant</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>primary chemical product</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>prohibited chemical product</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>protected active constituent</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>protected chemical product</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>protected commodity</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>protected information</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>protection period</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>published literature</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>recall notice</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Record of Approved Active Constituents</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Record of Permits</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>re-entry period</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Register of Chemical Products</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>registered chemical product</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>registered listed chemical product</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>registration</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>regulations</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>relevant particulars</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>repealed Act</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>reserved</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>reserved chemical product</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Reserved Schedule</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>residues</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>restricted chemical product</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>sample</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>secondary active constituent</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>secondary applicant</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>secondary applicant</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>secondary chemical product</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>State</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>substance</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>supply</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Territory</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>thing</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>this Code</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>variations</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>veterinary chemical product</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>veterinary surgeon</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>withholding period</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>working day</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 Agricultural and Veterinary Chemicals Code
 
@@ -2021,45 +2029,47 @@ Agricultural and Veterinary Chemicals Code
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>The APVMA gives notice under subsection 11A(2) (applying of its own force
-      or because of section 28A) that the application has passed a preliminary
-      assessment and will be given a full evaluation in due course</div>
-  </td>
-  <td>
-    <div>The APVMA gives the notice</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>The APVMA is satisfied that defects in the application have been rectified
-      as required by a notice given under paragraph 11A(3)(a) (applying of its
-      own force or because of section 28A)</div>
-  </td>
-  <td>
-    <div>The APVMA becomes satisfied</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>The APVMA starts to consider the application after deferring the consideration
-      under subparagraph 11A(3)(b)(i) (applying of its own force or because of
-      section 28A)</div>
-  </td>
-  <td>
-    <div>The APVMA starts to consider the application</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>1</div>
+    </td>
+    <td>
+      <div>The APVMA gives notice under subsection 11A(2) (applying of its own force
+        or because of section 28A) that the application has passed a preliminary
+        assessment and will be given a full evaluation in due course</div>
+    </td>
+    <td>
+      <div>The APVMA gives the notice</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>2</div>
+    </td>
+    <td>
+      <div>The APVMA is satisfied that defects in the application have been rectified
+        as required by a notice given under paragraph 11A(3)(a) (applying of its
+        own force or because of section 28A)</div>
+    </td>
+    <td>
+      <div>The APVMA becomes satisfied</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>3</div>
+    </td>
+    <td>
+      <div>The APVMA starts to consider the application after deferring the consideration
+        under subparagraph 11A(3)(b)(i) (applying of its own force or because of
+        section 28A)</div>
+    </td>
+    <td>
+      <div>The APVMA starts to consider the application</div>
+    </td>
+  </tr>
+</tbody></table>
 
                     <a name="activ-constitu"></a>**_active constituent_**, in relation to a proposed or existing agricultural chemical product or veterinary chemical product, means the substance that is, or one of the substances that together are, primarily responsible for the biological or other effect identifying the product as an agricultural chemical product or a veterinary chemical product, as the case may be.
 
@@ -2149,7 +2159,7 @@ Agricultural and Veterinary Chemicals Code
 
                      (b)  if the jurisdiction is the participating Territories:
 
-                              (i)  if the Australian   Capital Territory is the only participating Territory—by a Minister of the Australian   Capital Territory; or
+                              (i)  if the Australian Capital Territory is the only participating Territory—by a Minister of the Australian Capital Territory; or
 
                              (ii)  if there is more than one participating Territory—jointly by a Minister of the Commonwealth and a Minister of the Australian Capital Territory;
 
@@ -2260,8 +2270,6 @@ to perform the functions of a co-ordinator under this Code.
                             (vi)  contains information in relation to the product of a kind prescribed for the purposes of paragraph (f) of the definition of **_Material Safety Data Sheet_**in section 5 of the _Industrial Chemicals (Notification and Assessment) Act 1989_; and
 
                      (b)  which, if there is a note known as a Guidance Note for Completion of a Material Safety Data Sheet published by the National Occupational Health and Safety Commission, is prepared in accordance with that note.
-
-                    <a name="maximum-residu-limit-standard"></a>**_Maximum Residue Limits Standard_** means the Maximum Residue Limits Standard, made under the _Food Standards__Australia__New Zealand__Act 1991_, as in force from time to time, or any standard in force in substitution for that standard.
 
                     <a name="member-staff"></a>**_member of the staff_**, in relation to the APVMA, has the same meaning as in the _Agricultural and Veterinary Chemicals (Administration) Act 1992_.
 
@@ -2752,22 +2760,6 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
                      (b)  inviting any person who wishes to do so to make, within a period stated in the notice that ends not earlier than 28 days after the day on which the notice is published in the _Gazette_, a written submission to the APVMA as to whether the product should be registered and stating the grounds on which the submission is based, which must be grounds that relate to matters that the APVMA is required to take into account in deciding whether to register the product.
 
              (2)  The APVMA must take into account any submissions made in accordance with an invitation contained in the notice published under subsection (1).
-
-##### <a id="13A"></a>13A  Notifying Food Standards Australia New Zealand
-
-             (1)  If it is likely that a chemical product in relation to which an application for registration is made would, if used, be present in foods (as defined for the purposes of the _Food Standards Australia New Zealand Act 1991_) at a level that is not already permitted under the Maximum Residue Limits Standard, the APVMA must notify Food Standards Australia New Zealand of the application.
-
-             (2)  The notice must:
-
-                     (a)  be in writing; and
-
-                     (b)  set out:
-
-                              (i)  particulars of the product and its active constituents other than confidential commercial information; and
-
-                             (ii)  any other matters that the APVMA thinks appropriate; and
-
-                     (c)  be given to Food Standards Australia New Zealand at least 30 working days before notice of the application and public invitation for submissions is published in the _Gazette_ under section 13 or otherwise.
 
 ##### <a id="14"></a>14  Grant or refusal of application
 
@@ -3410,83 +3402,85 @@ Note:          Subsection 41(4) provides for the suspension or
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>Information that the applicant or an approved person gives the APVMA:</div>
-    <div>(a) in connection with an application under section 10 or 27; and</div>
-    <div>(b) before the APVMA makes a preliminary assessment under section 11A
-      or 28A of the application</div>
-  </td>
-  <td>
-    <div>The period:</div>
-    <div>(a) starting when the information is given; and</div>
-    <div>(b) ending when the APVMA makes the preliminary assessment</div>
-  </td>
-  <td>
-    <div>Making a decision under section 14, 29 or 34 (except a decision on the
-      application)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>Information that the applicant or an approved person gives the APVMA:</div>
-    <div>(a) in connection with an application under section 10 or 27; and</div>
-    <div>(b) as required by the APVMA or section 160A</div>
-  </td>
-  <td>
-    <div>The period:</div>
-    <div>(a) starting when the APVMA makes a preliminary assessment under section 11A
-      or 28A of the application; and</div>
-    <div>(b) ending when the APVMA treats the application as having been withdrawn
-      or grants or refuses the application</div>
-  </td>
-  <td>
-    <div>Making a decision under section 14, 29 or 34 (except a decision on the
-      application)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>Information that:</div>
-    <div>(a) was given to the APVMA by the applicant or an approved person in connection
-      with an application under section 10 or 27; and</div>
-    <div>(b) was given as required by the APVMA or section 160A; and</div>
-    <div>(c) was relied on by the APVMA to grant the application</div>
-  </td>
-  <td>
-    <div>The relevant period described in section 34F</div>
-  </td>
-  <td>
-    <div>Making a decision under section 14, 29 or 34</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>4</div>
-  </td>
-  <td>
-    <div>Information that the interested person for a registered chemical product
-      gives the APVMA under section 161 in connection with the product</div>
-  </td>
-  <td>
-    <div>The period:</div>
-    <div>(a) starting when the person gives the APVMA the information; and</div>
-    <div>(b) ending 5 years later if the product is an agricultural chemical product
-      or 3 years later if the product is a veterinary chemical product</div>
-  </td>
-  <td>
-    <div>Making a decision under section 14, 29 or 34</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>1</div>
+    </td>
+    <td>
+      <div>Information that the applicant or an approved person gives the APVMA:</div>
+      <div>(a) in connection with an application under section 10 or 27; and</div>
+      <div>(b) before the APVMA makes a preliminary assessment under section 11A
+        or 28A of the application</div>
+    </td>
+    <td>
+      <div>The period:</div>
+      <div>(a) starting when the information is given; and</div>
+      <div>(b) ending when the APVMA makes the preliminary assessment</div>
+    </td>
+    <td>
+      <div>Making a decision under section 14, 29 or 34 (except a decision on the
+        application)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>2</div>
+    </td>
+    <td>
+      <div>Information that the applicant or an approved person gives the APVMA:</div>
+      <div>(a) in connection with an application under section 10 or 27; and</div>
+      <div>(b) as required by the APVMA or section 160A</div>
+    </td>
+    <td>
+      <div>The period:</div>
+      <div>(a) starting when the APVMA makes a preliminary assessment under section 11A
+        or 28A of the application; and</div>
+      <div>(b) ending when the APVMA treats the application as having been withdrawn
+        or grants or refuses the application</div>
+    </td>
+    <td>
+      <div>Making a decision under section 14, 29 or 34 (except a decision on the
+        application)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>3</div>
+    </td>
+    <td>
+      <div>Information that:</div>
+      <div>(a) was given to the APVMA by the applicant or an approved person in connection
+        with an application under section 10 or 27; and</div>
+      <div>(b) was given as required by the APVMA or section 160A; and</div>
+      <div>(c) was relied on by the APVMA to grant the application</div>
+    </td>
+    <td>
+      <div>The relevant period described in section 34F</div>
+    </td>
+    <td>
+      <div>Making a decision under section 14, 29 or 34</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>4</div>
+    </td>
+    <td>
+      <div>Information that the interested person for a registered chemical product
+        gives the APVMA under section 161 in connection with the product</div>
+    </td>
+    <td>
+      <div>The period:</div>
+      <div>(a) starting when the person gives the APVMA the information; and</div>
+      <div>(b) ending 5 years later if the product is an agricultural chemical product
+        or 3 years later if the product is a veterinary chemical product</div>
+    </td>
+    <td>
+      <div>Making a decision under section 14, 29 or 34</div>
+    </td>
+  </tr>
+</tbody></table>
 
 Note 1:       Section 34D sets out exceptions to this subsection.
 
@@ -3645,92 +3639,94 @@ The period starts when the application was granted.
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>Application made under section 10 for approval of an active constituent
-      (for a proposed or existing chemical product) that was not a previously
-      endorsed active constituent on the commencement of this Division</div>
-  </td>
-  <td>
-    <div>8 years</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>Application made under section 10 for:</div>
-    <div>(a) registration of a chemical product at least one of whose active constituents
-      was not a previously endorsed active constituent when the application was
-      acknowledged; or</div>
-    <div>(b) approval of a label for a container for a chemical product at least
-      one of whose active constituents was not a previously endorsed active constituent
-      when the application was acknowledged</div>
-  </td>
-  <td>
-    <div>8 years</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>Application (except one covered by item 2) made under section 10 for:</div>
-    <div>(a) registration of an agricultural chemical product; or</div>
-    <div>(b) approval of a label for a container for an agricultural chemical product</div>
-  </td>
-  <td>
-    <div>5 years</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>4</div>
-  </td>
-  <td>
-    <div>Application (except one covered by item 2) made under section 10 for:</div>
-    <div>(a) registration of a veterinary chemical product; or</div>
-    <div>(b) approval of a label for a container for a veterinary chemical product</div>
-  </td>
-  <td>
-    <div>3 years</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>5</div>
-  </td>
-  <td>
-    <div>Application made under section 27 for variation of the relevant particulars
-      or conditions of:</div>
-    <div>(a) the registration of an agricultural chemical product; or</div>
-    <div>(b) the approval of a label for a container for an agricultural chemical
-      product</div>
-  </td>
-  <td>
-    <div>5 years</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>6</div>
-  </td>
-  <td>
-    <div>Application made under section 27 for variation of the relevant particulars
-      or conditions of:</div>
-    <div>(a) the registration of a veterinary chemical product; or</div>
-    <div>(b) the approval of a label for a container for a veterinary chemical
-      product</div>
-  </td>
-  <td>
-    <div>3 years</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>1</div>
+    </td>
+    <td>
+      <div>Application made under section 10 for approval of an active constituent
+        (for a proposed or existing chemical product) that was not a previously
+        endorsed active constituent on the commencement of this Division</div>
+    </td>
+    <td>
+      <div>8 years</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>2</div>
+    </td>
+    <td>
+      <div>Application made under section 10 for:</div>
+      <div>(a) registration of a chemical product at least one of whose active constituents
+        was not a previously endorsed active constituent when the application was
+        acknowledged; or</div>
+      <div>(b) approval of a label for a container for a chemical product at least
+        one of whose active constituents was not a previously endorsed active constituent
+        when the application was acknowledged</div>
+    </td>
+    <td>
+      <div>8 years</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>3</div>
+    </td>
+    <td>
+      <div>Application (except one covered by item 2) made under section 10 for:</div>
+      <div>(a) registration of an agricultural chemical product; or</div>
+      <div>(b) approval of a label for a container for an agricultural chemical product</div>
+    </td>
+    <td>
+      <div>5 years</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>4</div>
+    </td>
+    <td>
+      <div>Application (except one covered by item 2) made under section 10 for:</div>
+      <div>(a) registration of a veterinary chemical product; or</div>
+      <div>(b) approval of a label for a container for a veterinary chemical product</div>
+    </td>
+    <td>
+      <div>3 years</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>5</div>
+    </td>
+    <td>
+      <div>Application made under section 27 for variation of the relevant particulars
+        or conditions of:</div>
+      <div>(a) the registration of an agricultural chemical product; or</div>
+      <div>(b) the approval of a label for a container for an agricultural chemical
+        product</div>
+    </td>
+    <td>
+      <div>5 years</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>6</div>
+    </td>
+    <td>
+      <div>Application made under section 27 for variation of the relevant particulars
+        or conditions of:</div>
+      <div>(a) the registration of a veterinary chemical product; or</div>
+      <div>(b) the approval of a label for a container for a veterinary chemical
+        product</div>
+    </td>
+    <td>
+      <div>3 years</div>
+    </td>
+  </tr>
+</tbody></table>
 
 Note 1:       This section has effect for the purposes of item 3 of the table in subsection 34C(1) (and not for any of the other items in that table).
 
@@ -4434,7 +4430,7 @@ Note:          For strict liability, see section 6.1 of the 
 
 ##### <a id="56I"></a>56I  Application
 
-                   A person may apply to the APVMA for a chemical product:
+                   A person may apply to the APVMA for a chemical product:
 
                      (a)  that is a listable chemical product; and
 
@@ -7224,7 +7220,7 @@ Note:          For strict liability, see section 6.1 of the 
 
 ### Division 4—Miscellaneous enforcement provisions
 
-##### <a id="146"></a>146  Self-incrimination to be a reasonable excuse for non-compliance with requirement
+##### <a id="146"></a>146  Self-incrimination to be a reasonable excuse for non-compliance with requirement
 
                    It is a reasonable excuse for a person to refuse or fail to give information, produce a document or do any other thing that the person is required to do by or under this Code that the information, the production of the document or the doing of that other thing would tend to incriminate the person.
 
@@ -7908,7 +7904,7 @@ the disclosing person:
 
              (4)  If an individual is convicted of an indictable offence against this Code, the court may, if the court thinks it appropriate in all the circumstances of the case, impose, instead of, or in addition to, a penalty of imprisonment, a monetary penalty not greater than the number of penalty units worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00437/Html/AgrVetChemCode1994_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00459/Html/6E16DAABB2172FE7CA25703E00236464/$FILE/image002.gif)
 
 where:
 
@@ -8242,6 +8238,7 @@ the following paragraphs apply:
 
 and the person had not complied with the notice before that commencement, the notice is taken to have been a notice duly given to that person by the APVMA under section 159 of that Code in respect of that product or label, as the case may be, as if that Code had been in force when the notice was given.
 
+
 # Notes to the _Agricultural and Veterinary Chemicals Code Act 1994_
 
 ### Note 1
@@ -8250,7 +8247,7 @@ The _Agricultural and Veterinary Chemicals Code Act 1994_ as shown in this compi
 
 For application, saving or transitional provisions made by the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, _see_ Act No. 55, 2001.
 
-For all other relevant information pertaining to application, saving or transitional provisions _see_ Table A.
+For all other relevant informa02tion pertaining to application, saving or transitional provisions _see_ Table A.
 
 ### Table of Acts
 
@@ -8270,11 +8267,13 @@ For all other relevant information pertaining to application, saving or transiti
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -8284,210 +8283,36 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Agricultural and Veterinary Chemicals Code Act 1994</div>
-  </td>
-  <td>
-    <div>47, 1994</div>
-  </td>
-  <td>
-    <div>24 Mar 1994</div>
-  </td>
-  <td>
-    <div>15 Mar 1995 ( <i>see</i>s. 2)</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Primary Industries and Energy Legislation Amendment Act (No. 2) 1994</div>
-  </td>
-  <td>
-    <div>129, 1994</div>
-  </td>
-  <td>
-    <div>21 Oct 1994</div>
-  </td>
-  <td>
-    <div>S. 3: <i>(a)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Competition Policy Reform Act 1995</div>
-  </td>
-  <td>
-    <div>88, 1995</div>
-  </td>
-  <td>
-    <div>20 July 1995</div>
-  </td>
-  <td>
-    <div>S. 77: 6 Nov 1995 ( <i>see Gazette</i>1995, No. S423) <i>(b)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Primary Industries and Energy Legislation Amendment Act (No. 2) 1996</div>
-  </td>
-  <td>
-    <div>59, 1996</div>
-  </td>
-  <td>
-    <div>20 Nov 1996</div>
-  </td>
-  <td>
-    <div>Schedule 3: 15 Mar 1996 <i>(c)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Primary Industries and Energy Legislation Amendment Act (No. 1) 1997</div>
-  </td>
-  <td>
-    <div>22, 1997</div>
-  </td>
-  <td>
-    <div>7 Apr 1997</div>
-  </td>
-  <td>
-    <div>Schedule 1: Royal Assent <i>(d)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Gene Technology (Consequential Amendments) Act 2000</div>
-  </td>
-  <td>
-    <div>170, 2000</div>
-  </td>
-  <td>
-    <div>21 Dec 2000</div>
-  </td>
-  <td>
-    <div>22 June 2001 ( <i>see</i>s. 2)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Corporations (Repeals, Consequentials and Transitionals) Act 2001</div>
-  </td>
-  <td>
-    <div>55, 2001</div>
-  </td>
-  <td>
-    <div>28 June 2001</div>
-  </td>
-  <td>
-    <div>Ss. 4–14 and Schedule 3 (item 18): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(e)</i></div>
-  </td>
-  <td>
-    <div>Ss. 4–14</div>
-  </td>
-</tr>
-<thead>
+<tbody>
   <tr>
     <td>
-      <div>Agriculture, Fisheries and Forestry Legislation Amendment (Application of Criminal Code) Act 2001</div>
+      <div>Agricultural and Veterinary Chemicals Code Act 1994</div>
     </td>
     <td>
-      <div>115, 2001</div>
+      <div>47, 1994</div>
     </td>
     <td>
-      <div>18 Sept 2001</div>
+      <div>24 Mar 1994</div>
     </td>
     <td>
-      <div>16 Oct 2001</div>
+      <div>15 Mar 1995 ( <i>see</i>s. 2)</div>
     </td>
     <td>
-      <div>S. 4</div>
+      <div></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>Agricultural and Veterinary Chemicals Legislation Amendment Act 2003</div>
+      <div>Primary Industries and Energy Legislation Amendment Act (No. 2) 1994</div>
     </td>
     <td>
-      <div>13, 2003</div>
+      <div>129, 1994</div>
     </td>
     <td>
-      <div>8 Apr 2003</div>
+      <div>21 Oct 1994</div>
     </td>
     <td>
-      <div>S. 4 and Schedules 1, 2 and 3: 8 Oct 2003 
-Remainder: Royal Assent</div>
-    </td>
-    <td>
-      <div>S. 4</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2005</div>
-  </td>
-  <td>
-    <div>100, 2005</div>
-  </td>
-  <td>
-    <div>6 July 2005</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 3): <i>(f)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<thead>
-  <tr>
-    <td>
-      <div>Agricultural and Veterinary Chemicals Legislation Amendment (Name Change) Act 2004</div>
-    </td>
-    <td>
-      <div>79, 2004</div>
-    </td>
-    <td>
-      <div>23 June 2004</div>
-    </td>
-    <td>
-      <div>Schedule 1 (items 132–446): 30 July 2004 ( <i>see Gazette</i>2004, No. GN30) 
-Schedule 2 (item 1): 24 June 2004</div>
+      <div>S. 3: <i>(a)</i></div>
     </td>
     <td>
       <div>—</div>
@@ -8495,52 +8320,16 @@ Schedule 2 (item 1): 24 June 2004</div>
   </tr>
   <tr>
     <td>
-      <div>US Free Trade Agreement Implementation Act 2004</div>
+      <div>Competition Policy Reform Act 1995</div>
     </td>
     <td>
-      <div>120, 2004</div>
+      <div>88, 1995</div>
     </td>
     <td>
-      <div>16 Aug 2004</div>
+      <div>20 July 1995</div>
     </td>
     <td>
-      <div>Schedule 2 (items 1, 3–14): 1 Jan 2005 
-Schedule 2 (items 15–21): <i>(g)</i></div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Agricultural and Veterinary Chemicals Legislation Amendment (Levy and Fees) Act 2005</div>
-    </td>
-    <td>
-      <div>42, 2005</div>
-    </td>
-    <td>
-      <div>1 Apr 2005</div>
-    </td>
-    <td>
-      <div>Schedule 1 (items 43–47): Royal Assent</div>
-    </td>
-    <td>
-      <div>Sch. 1 (item 46)</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Statute Law Revision Act 2005</div>
-    </td>
-    <td>
-      <div>100, 2005</div>
-    </td>
-    <td>
-      <div>6 July 2005</div>
-    </td>
-    <td>
-      <div>Schedule 1 (item 4): <i>(h)</i> 
-Schedule 1 (item 5): Royal Assent</div>
+      <div>S. 77: 6 Nov 1995 ( <i>see Gazette</i>1995, No. S423) <i>(b)</i></div>
     </td>
     <td>
       <div>—</div>
@@ -8548,22 +8337,224 @@ Schedule 1 (item 5): Royal Assent</div>
   </tr>
   <tr>
     <td>
-      <div>Food Standards Australia New Zealand Amendment Act 2007</div>
+      <div>Primary Industries and Energy Legislation Amendment Act (No. 2) 1996</div>
     </td>
     <td>
-      <div>98, 2007</div>
+      <div>59, 1996</div>
     </td>
     <td>
-      <div>28 June 2007</div>
+      <div>20 Nov 1996</div>
     </td>
     <td>
-      <div>Schedule 1 (items 72, 73, 77, 78): <i>(i)</i></div>
+      <div>Schedule 3: 15 Mar 1996 <i>(c)</i></div>
     </td>
     <td>
-      <div>Sch. 1 (items 77, 78)</div>
+      <div>—</div>
     </td>
   </tr>
-</thead></table>
+  <tr>
+    <td>
+      <div>Primary Industries and Energy Legislation Amendment Act (No. 1) 1997</div>
+    </td>
+    <td>
+      <div>22, 1997</div>
+    </td>
+    <td>
+      <div>7 Apr 1997</div>
+    </td>
+    <td>
+      <div>Schedule 1: Royal Assent <i>(d)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Gene Technology (Consequential Amendments) Act 2000</div>
+    </td>
+    <td>
+      <div>170, 2000</div>
+    </td>
+    <td>
+      <div>21 Dec 2000</div>
+    </td>
+    <td>
+      <div>22 June 2001 ( <i>see</i>s. 2)</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Corporations (Repeals, Consequentials and Transitionals) Act 2001</div>
+    </td>
+    <td>
+      <div>55, 2001</div>
+    </td>
+    <td>
+      <div>28 June 2001</div>
+    </td>
+    <td>
+      <div>Ss. 4–14 and Schedule 3 (item 18): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(e)</i></div>
+    </td>
+    <td>
+      <div>Ss. 4–14</div>
+    </td>
+  </tr>
+  <thead>
+    <tr>
+      <td>
+        <div>Agriculture, Fisheries and Forestry Legislation Amendment (Application of Criminal Code) Act 2001</div>
+      </td>
+      <td>
+        <div>115, 2001</div>
+      </td>
+      <td>
+        <div>18 Sept 2001</div>
+      </td>
+      <td>
+        <div>16 Oct 2001</div>
+      </td>
+      <td>
+        <div>S. 4</div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div>Agricultural and Veterinary Chemicals Legislation Amendment Act 2003</div>
+      </td>
+      <td>
+        <div>13, 2003</div>
+      </td>
+      <td>
+        <div>8 Apr 2003</div>
+      </td>
+      <td>
+        <div>S. 4 and Schedules 1, 2 and 3: 8 October 2003 
+Remainder: Royal Assent 
+</div>
+      </td>
+      <td>
+        <div>S. 4</div>
+      </td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <div>as amended by</div>
+      </td>
+      <td>
+        <div></div>
+      </td>
+      <td>
+        <div></div>
+      </td>
+      <td>
+        <div></div>
+      </td>
+      <td>
+        <div></div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div>Statute Law Revision Act 2005</div>
+      </td>
+      <td>
+        <div>100, 2005</div>
+      </td>
+      <td>
+        <div>6 July 2005</div>
+      </td>
+      <td>
+        <div>Schedule 2 (item 3): <i>(f)</i></div>
+      </td>
+      <td>
+        <div>—</div>
+      </td>
+    </tr>
+    <thead>
+      <tr>
+        <td>
+          <div>Agricultural and Veterinary Chemicals Legislation Amendment (Name Change) Act 2004</div>
+        </td>
+        <td>
+          <div>79, 2004</div>
+        </td>
+        <td>
+          <div>23 June 2004</div>
+        </td>
+        <td>
+          <div>Schedule 1 (items 132–446): 30 July 2004 ( <i>see Gazette</i>2004, No. GN30) 
+Schedule 2 (item 1): 24 June 2004 
+</div>
+        </td>
+        <td>
+          <div>—</div>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <div>US Free Trade Agreement Implementation Act 2004</div>
+        </td>
+        <td>
+          <div>120, 2004</div>
+        </td>
+        <td>
+          <div>16 Aug 2004</div>
+        </td>
+        <td>
+          <div>Schedule 2 (items 1, 3–14): 1 Jan 2005 
+Schedule 2 (items 15–21): <i>(g)</i> 
+</div>
+        </td>
+        <td>
+          <div>—</div>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <div>Agricultural and Veterinary Chemicals Legislation Amendment (Levy and Fees) Act 2005</div>
+        </td>
+        <td>
+          <div>42, 2005</div>
+        </td>
+        <td>
+          <div>1 Apr 2005</div>
+        </td>
+        <td>
+          <div>Schedule 1 (items 43–47): Royal Assent</div>
+        </td>
+        <td>
+          <div>Sch. 1 (item 46)</div>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <div>Statute Law Revision Act 2005</div>
+        </td>
+        <td>
+          <div>100, 2005</div>
+        </td>
+        <td>
+          <div>6 July 2005</div>
+        </td>
+        <td>
+          <div>Schedule 1 (item 4): <i>(h)</i> 
+Schedule 1 (item 5): Royal Assent 
+</div>
+        </td>
+        <td>
+          <div>—</div>
+        </td>
+      </tr>
+    </thead>
+  </tbody>
+</tbody></table>
+
 
 _(a)_     The _Agricultural and Veterinary Chemicals Code Act 1994_ was amended by the _Primary Industries and Energy Legislation Amendment Act (No. 2) 1994_, subsection 2(2) of which provides as follows:
 
@@ -8573,9 +8564,9 @@ _(b)_    The _Agricultural and Veterinary Chemicals Code Act 1994_ was ame
 
                  (2)   Part 3 commences on a day to be fixed by Proclamation. However, if Part 3 does not commence by Proclamation within the period of 6 months beginning on the day on which this Act receives the Royal Assent, then it commences on the first day after the end of that period.
 
-_(c)_     The _Agricultural and Veterinary Chemicals Code Act 1994_ was amended by Schedule 3 only of the _Primary Industries and Energy Legislation Amendment Act (No. 2) 1996_, subsection 2(3) of which provides as follows:
+_(c)_     The _Agricultural and Veterinary Chemicals Code Act 1994_ was amended by Schedule 3 only of the _Primary Industries and Energy Legislation Amendment Act (No. 2) 1996_, subsection 2(2) of which provides as follows:
 
-                 (3)   Schedule 3 is taken to have commenced on 15 March 1995.
+                 (2)   Schedule 3 is taken to have commenced on 15 March 1995.
 
 _(d)_     The _Agricultural and Veterinary Chemicals Code Act 1994_ was amended by Schedule 1 only of the _Primary Industries and Energy Legislation Amendment Act (No. 1) 1997_, subsection 2(1) of which provides as follows:
 
@@ -8597,38 +8588,6 @@ _(f)_ Subsection 2(1) (item 26) of the _Statute Law Revision Act 2005_ provide
 </colgroup>
 
 <thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
-    </td>
-  </tr>
   <tr>
     <td>
       <div>
@@ -8653,25 +8612,19 @@ _(f)_ Subsection 2(1) (item 26) of the _Statute Law Revision Act 2005_ provide
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>
-      26\. Schedule 2, item 3
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the time specified in the
-        <i>Agricultural and Veterinary Chemicals Legislation Amendment Act 2003</i>for
-        the commencement of item 22 of Schedule 1 to that Act.
-    </div>
-  </td>
-  <td>
-    <div>
-      8 October 2003
-    </div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>26\. Schedule 2, item 3</div>
+    </td>
+    <td>
+      <div>Immediately after the time specified in the <i>Agricultural and Veterinary Chemicals Legislation Amendment Act 2003</i>for the commencement of item 22 of Schedule 1 to that Act.</div>
+    </td>
+    <td>
+      <div>8 October 2003</div>
+    </td>
+  </tr>
+</tbody></table>
 
 _(g)_ Subsection 2(1) (item 4) of the _US__Free Trade Agreement Implementation Act 2004_ provides as follows:
 
@@ -8709,38 +8662,41 @@ _(g)_ Subsection 2(1) (item 4) of the _US__Free Trade Agreement Implementation
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>
-      4\. Schedule 2, Part 3
-    </div>
-  </td>
-  <td>
-    <div>
-      The later of:
-    </div>
-    <div>
-      (a) immediately after the commencement of Parts 1 and 2 of Schedule 2
-        to this Act; and
-    </div>
-    <div>
-      (b) immediately after the commencement of item 1 of Schedule 1 to the
-        <i>Agricultural and Veterinary Chemicals Legislation Amendment (Name Change)
-          Act 2004</i>.
-    </div>
-    <div>
-      However, the provision(s) do not commence at all unless both of the events
-        mentioned in paragraphs (a) and (b) occur.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 January 2005
+<tbody>
+  <tr>
+    <td>
+      <div>
+        4\. Schedule 2, Part 3
+      </div>
+    </td>
+    <td>
+      <div>
+        The later of:
+      </div>
+      <div>
+        (a) immediately after the commencement of Parts 1 and 2 of Schedule 2
+          to this Act; and
+      </div>
+      <div>
+        (b) immediately after the commencement of item 1 of Schedule 1 to the
+          <i>Agricultural and Veterinary Chemicals Legislation Amendment (Name Change)
+            Act 2004</i>.
+      </div>
+      <div>
+        However, the provision(s) do not commence at all unless both of the events
+          mentioned in paragraphs (a) and (b) occur.
+      </div>
+    </td>
+    <td>
+      <div>
+        1 January 2005
 
 (paragraph (a) applies)
-    </div>
-  </td>
-</tr></table>
+
+      </div>
+    </td>
+  </tr>
+</tbody></table>
 
 _(h)_ Subsection 2(1) (item 5) of the _Statute Law Revision Act 2005_ provides as follows:
 
@@ -8778,79 +8734,27 @@ _(h)_ Subsection 2(1) (item 5) of the _Statute Law Revision Act 2005_ provides
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>
-      5\. Schedule 1, item 4
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of Schedule 1 to the
-        <i>Agricultural and Veterinary Chemicals Legislation Amendment Act 2003</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      8 October 2003
-    </div>
-  </td>
-</tr></table>
-
-_(i)_ Subsection 2(1) (item 6) of the _Food Standards__Australia__New__Zealand__Amendment Act 2007_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
+<tbody>
   <tr>
     <td>
       <div>
-        <b>
-          Provision(s)
-        </b>
+        5\. Schedule 1, item 4
       </div>
     </td>
     <td>
       <div>
-        <b>
-          Commencement
-        </b>
+        Immediately after the commencement of Schedule 1 to the
+          <i>Agricultural and Veterinary Chemicals Legislation Amendment Act 2003</i>.
       </div>
     </td>
     <td>
       <div>
-        <b>
-          Date/Details
-        </b>
+        8 October 2003
       </div>
     </td>
   </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      6\. Schedule 1, Parts 4 and 5
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of the provision(s) covered by table
-        item 5.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2007
-    </div>
-  </td>
-</tr></table>
+</tbody></table>
+
 
 ## Table of Amendments
 
@@ -8875,2706 +8779,2697 @@ _(i)_ Subsection 2(1) (item 6) of the _Food Standards__Australia__New__Zealand
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5</div>
-  </td>
-  <td>
-    <div>am. No. 115, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6</div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8</div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9</div>
-  </td>
-  <td>
-    <div>ad. No. 13, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 22, 1997; No. 13, 2003; Nos. 79 and 120, 2004; No. 98, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 6</div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6</div>
-  </td>
-  <td>
-    <div>am. No. 13, 2003; No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8A</div>
-  </td>
-  <td>
-    <div>ad. No. 115, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9</div>
-  </td>
-  <td>
-    <div>am. No. 13, 2003; No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 2 
-of Part 2</div>
-  </td>
-  <td>
-    <div>rs. No. 13, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10</div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 11</div>
-  </td>
-  <td>
-    <div>am. No. 13, 2003; No. 79, 2004; No. 42, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 11A</div>
-  </td>
-  <td>
-    <div>ad. No. 13, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 11B</div>
-  </td>
-  <td>
-    <div>am. No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 11B</div>
-  </td>
-  <td>
-    <div>ad. No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 12</div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 12</div>
-  </td>
-  <td>
-    <div>rs. No. 13, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 13</div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13</div>
-  </td>
-  <td>
-    <div>rs. No. 13, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13A</div>
-  </td>
-  <td>
-    <div>ad. No. 98, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 14</div>
-  </td>
-  <td>
-    <div>am. No. 170, 2000; No. 13, 2003; No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 14A</div>
-  </td>
-  <td>
-    <div>ad. No. 13, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 14B</div>
-  </td>
-  <td>
-    <div>am. No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 14B</div>
-  </td>
-  <td>
-    <div>ad. No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 15</div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15</div>
-  </td>
-  <td>
-    <div>am. Nos. 79 and 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 17</div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 17</div>
-  </td>
-  <td>
-    <div>am. No. 13, 2003; No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 18</div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18</div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 19, 20</div>
-  </td>
-  <td>
-    <div>rs. No. 13, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 21</div>
-  </td>
-  <td>
-    <div>ad. No. 100, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 21</div>
-  </td>
-  <td>
-    <div>rs. No. 13, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22</div>
-  </td>
-  <td>
-    <div>am. No. 13, 2003; No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 23</div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 24, 25</div>
-  </td>
-  <td>
-    <div>am. No. 13, 2003; No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 26</div>
-  </td>
-  <td>
-    <div>am. No. 115, 2001; No. 13, 2003; No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 3 of 
-Part 2</div>
-  </td>
-  <td>
-    <div>rs. No. 13, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 27</div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 28</div>
-  </td>
-  <td>
-    <div>am. No. 13, 2003; No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 28A</div>
-  </td>
-  <td>
-    <div>ad. No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 28B</div>
-  </td>
-  <td>
-    <div>am. No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 28B</div>
-  </td>
-  <td>
-    <div>ad. No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 29</div>
-  </td>
-  <td>
-    <div>am. No. 170, 2000; No. 13, 2003; No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 30</div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 30</div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 31</div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 31</div>
-  </td>
-  <td>
-    <div>am. No. 13, 2003; No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 32</div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 32</div>
-  </td>
-  <td>
-    <div>am. No. 59, 1996; No. 115, 2001; No. 13, 2003; No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 33</div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 33</div>
-  </td>
-  <td>
-    <div>am. No. 115, 2001; No. 13, 2003; No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 34</div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 34</div>
-  </td>
-  <td>
-    <div>am. No. 170, 2000; No. 13, 2003; No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 34(5A)</div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 34A</div>
-  </td>
-  <td>
-    <div>ad. No. 13, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 34A(4)</div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 4A of Part 2</div>
-  </td>
-  <td>
-    <div>ad. No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 34B</div>
-  </td>
-  <td>
-    <div>ad. No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision B</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 34C</div>
-  </td>
-  <td>
-    <div>am. No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 34C</div>
-  </td>
-  <td>
-    <div>ad. No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note 2 to s. 34C(1)</div>
-  </td>
-  <td>
-    <div>am. No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision C</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 34D(6)</div>
-  </td>
-  <td>
-    <div>am. No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 34D, 34E</div>
-  </td>
-  <td>
-    <div>ad. No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision D</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 34F</div>
-  </td>
-  <td>
-    <div>ad. No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note 2 to s. 34F(1)</div>
-  </td>
-  <td>
-    <div>am. No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision E</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 34G</div>
-  </td>
-  <td>
-    <div>am. No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 34G</div>
-  </td>
-  <td>
-    <div>ad. No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 35, 36</div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 37</div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 37</div>
-  </td>
-  <td>
-    <div>am. No. 13, 2003; No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 38</div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38</div>
-  </td>
-  <td>
-    <div>am. No. 13, 2003; No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 39</div>
-  </td>
-  <td>
-    <div>rs. No. 22, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 40–42</div>
-  </td>
-  <td>
-    <div>am. No. 13, 2003; No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 44</div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 45</div>
-  </td>
-  <td>
-    <div>am. No. 13, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 45A</div>
-  </td>
-  <td>
-    <div>ad. No. 13, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 46</div>
-  </td>
-  <td>
-    <div>am. No. 13, 2003; No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 6</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 47</div>
-  </td>
-  <td>
-    <div>am. No. 13, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 48</div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 49</div>
-  </td>
-  <td>
-    <div>am. No. 13, 2003; No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 51</div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 7</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 7 of 
-Part 2</div>
-  </td>
-  <td>
-    <div>rs. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 52</div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 53, 54</div>
-  </td>
-  <td>
-    <div>am. No. 13, 2003; No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 55</div>
-  </td>
-  <td>
-    <div>am. No. 115, 2001; No. 13, 2003; No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 56</div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 2A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 2A</div>
-  </td>
-  <td>
-    <div>ad. No. 13, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 56A</div>
-  </td>
-  <td>
-    <div>ad. No. 13, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 56B</div>
-  </td>
-  <td>
-    <div>ad. No. 13, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 56C</div>
-  </td>
-  <td>
-    <div>ad. No. 13, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 56D</div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 56D–56F</div>
-  </td>
-  <td>
-    <div>ad. No. 13, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 56G, 56H</div>
-  </td>
-  <td>
-    <div>ad. No. 13, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 56I–56K</div>
-  </td>
-  <td>
-    <div>ad. No. 13, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 56L</div>
-  </td>
-  <td>
-    <div>ad. No. 13, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 56M</div>
-  </td>
-  <td>
-    <div>ad. No. 13, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 56N</div>
-  </td>
-  <td>
-    <div>ad. No. 13, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 56O–56R</div>
-  </td>
-  <td>
-    <div>ad. No. 13, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 56S–56U</div>
-  </td>
-  <td>
-    <div>ad. No. 13, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 6</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 56V</div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 56V</div>
-  </td>
-  <td>
-    <div>ad. No. 13, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 56W</div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 56W</div>
-  </td>
-  <td>
-    <div>ad. No. 13, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 56X</div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 56X</div>
-  </td>
-  <td>
-    <div>ad. No. 13, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 56Y</div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 56Y</div>
-  </td>
-  <td>
-    <div>ad. No. 13, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 56Z</div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 56Z</div>
-  </td>
-  <td>
-    <div>ad. No. 13, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 7</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 56ZA, 56ZB</div>
-  </td>
-  <td>
-    <div>ad. No. 13, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 56ZC</div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 56ZC</div>
-  </td>
-  <td>
-    <div>ad. No. 13, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 56ZD</div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 56ZD</div>
-  </td>
-  <td>
-    <div>ad. No. 13, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 56ZE–56ZG</div>
-  </td>
-  <td>
-    <div>ad. No. 13, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 56ZH</div>
-  </td>
-  <td>
-    <div>ad. No. 13, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 56ZI, 56ZJ</div>
-  </td>
-  <td>
-    <div>ad. No. 13, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 8</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 56ZK</div>
-  </td>
-  <td>
-    <div>ad. No. 13, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 56ZL, 56ZM</div>
-  </td>
-  <td>
-    <div>ad. No. 13, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 56ZN</div>
-  </td>
-  <td>
-    <div>ad. No. 13, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 9</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 9 of 
-Part 2A</div>
-  </td>
-  <td>
-    <div>rs. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 56ZO–56ZT</div>
-  </td>
-  <td>
-    <div>ad. No. 13, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 2B</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 2B</div>
-  </td>
-  <td>
-    <div>ad. No. 13, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 56ZU</div>
-  </td>
-  <td>
-    <div>ad. No. 13, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 57</div>
-  </td>
-  <td>
-    <div>am. No. 22, 1997; No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 58</div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 58</div>
-  </td>
-  <td>
-    <div>am. Nos. 79 and 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 59</div>
-  </td>
-  <td>
-    <div>am. No. 22, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 59</div>
-  </td>
-  <td>
-    <div>am. No. 59, 1996; No. 22, 1997; No. 13, 2003; No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 60</div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 60</div>
-  </td>
-  <td>
-    <div>am. No. 22, 1997; No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61</div>
-  </td>
-  <td>
-    <div>am. No. 22, 1997; No. 115, 2001; No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 62–64</div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 68</div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 69</div>
-  </td>
-  <td>
-    <div>am. No. 22, 1997; No. 55, 2001; No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 70</div>
-  </td>
-  <td>
-    <div>am. No. 115, 2001; No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 72</div>
-  </td>
-  <td>
-    <div>am. No. 22, 1997; No. 13, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 74</div>
-  </td>
-  <td>
-    <div>am. No. 115, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 74</div>
-  </td>
-  <td>
-    <div>am. No. 115, 2001; No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 74(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 115, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 74(3)</div>
-  </td>
-  <td>
-    <div>ad. No. 115, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 75</div>
-  </td>
-  <td>
-    <div>am. No. 115, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 13, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 75</div>
-  </td>
-  <td>
-    <div>am. No. 115, 2001; No. 13, 2003; No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 75(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 115, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 75(3)</div>
-  </td>
-  <td>
-    <div>ad. No. 115, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 76</div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 76(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 115, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 76(3)</div>
-  </td>
-  <td>
-    <div>ad. No. 115, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 77(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 115, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 77(2)</div>
-  </td>
-  <td>
-    <div>ad. No. 115, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 78</div>
-  </td>
-  <td>
-    <div>rs. No. 13, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 78</div>
-  </td>
-  <td>
-    <div>am. No. 13, 2003; No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 78(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 115, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 78(3)</div>
-  </td>
-  <td>
-    <div>ad. No. 115, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 79(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 115, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 79(2)</div>
-  </td>
-  <td>
-    <div>ad. No. 115, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 79A, 79B</div>
-  </td>
-  <td>
-    <div>ad. No. 13, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 80</div>
-  </td>
-  <td>
-    <div>rs. No. 13, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 80</div>
-  </td>
-  <td>
-    <div>am. No. 13, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 80(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 115, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 80(2)</div>
-  </td>
-  <td>
-    <div>ad. No. 115, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 81</div>
-  </td>
-  <td>
-    <div>rs. No. 13, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 81</div>
-  </td>
-  <td>
-    <div>am. No. 13, 2003; No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 81(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 115, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 13, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 81(2)</div>
-  </td>
-  <td>
-    <div>ad. No. 115, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 82</div>
-  </td>
-  <td>
-    <div>am. No. 115, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 82(2)</div>
-  </td>
-  <td>
-    <div>ad. No. 115, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 83</div>
-  </td>
-  <td>
-    <div>am. No. 115, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 83A</div>
-  </td>
-  <td>
-    <div>ad. No. 13, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 84</div>
-  </td>
-  <td>
-    <div>am. No. 115, 2001; No. 13, 2003; No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 85</div>
-  </td>
-  <td>
-    <div>am. No. 115, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 86, 87</div>
-  </td>
-  <td>
-    <div>am. No. 115, 2001; No. 13, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 87A</div>
-  </td>
-  <td>
-    <div>ad. No. 13, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 88</div>
-  </td>
-  <td>
-    <div>am. No. 13, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 88(2)</div>
-  </td>
-  <td>
-    <div>ad. No. 115, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 88(3)</div>
-  </td>
-  <td>
-    <div>ad. No. 115, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 89</div>
-  </td>
-  <td>
-    <div>am. No. 115, 2001; No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 89A</div>
-  </td>
-  <td>
-    <div>ad. No. 13, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 90</div>
-  </td>
-  <td>
-    <div>am. No. 115, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 91</div>
-  </td>
-  <td>
-    <div>am. No. 115, 2001; No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 92</div>
-  </td>
-  <td>
-    <div>am. No. 115, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 93</div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 94, 95</div>
-  </td>
-  <td>
-    <div>am. No. 115, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 97</div>
-  </td>
-  <td>
-    <div>am. No. 115, 2001; No. 13, 2003; No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 99</div>
-  </td>
-  <td>
-    <div>am. No. 115, 2001; No. 13, 2003; No. 79, 2004; No. 100, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 6</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 100</div>
-  </td>
-  <td>
-    <div>am. No. 88, 1995; No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 101</div>
-  </td>
-  <td>
-    <div>rs. No. 13, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 101, 102</div>
-  </td>
-  <td>
-    <div>am. No. 13, 2003; No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 103</div>
-  </td>
-  <td>
-    <div>rs. No. 13, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 103</div>
-  </td>
-  <td>
-    <div>am. No. 59, 1996; No. 13, 2003; No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 104</div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 105</div>
-  </td>
-  <td>
-    <div>am. No. 115, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 7</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 108, 109</div>
-  </td>
-  <td>
-    <div>am. No. 13, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 110</div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 111</div>
-  </td>
-  <td>
-    <div>am. No. 13, 2003; No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 112</div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 112</div>
-  </td>
-  <td>
-    <div>am. No. 13, 2003; No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 113</div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 114</div>
-  </td>
-  <td>
-    <div>am. No. 170, 2000; No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 115</div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 117–119</div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 8</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 120</div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 120A</div>
-  </td>
-  <td>
-    <div>ad. No. 13, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 121</div>
-  </td>
-  <td>
-    <div>am. No. 115, 2001; No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 122</div>
-  </td>
-  <td>
-    <div>am. No. 13, 2003; No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 123</div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 124</div>
-  </td>
-  <td>
-    <div>am. No. 13, 2003; No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 126</div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 127</div>
-  </td>
-  <td>
-    <div>am. No. 13, 2003; No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 128</div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 9</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 131</div>
-  </td>
-  <td>
-    <div>am. No. 115, 2001; No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 132</div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 138</div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 142</div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 142</div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 144</div>
-  </td>
-  <td>
-    <div>am. No. 115, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 145</div>
-  </td>
-  <td>
-    <div>rs. No. 13, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 149</div>
-  </td>
-  <td>
-    <div>am. No. 13, 2003; No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 150</div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 152</div>
-  </td>
-  <td>
-    <div>am. No. 115, 2001; No. 13, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 10</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 154</div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 156</div>
-  </td>
-  <td>
-    <div>rs. No. 59, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 157, 158</div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 159</div>
-  </td>
-  <td>
-    <div>rs. No. 13, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 159</div>
-  </td>
-  <td>
-    <div>am. No. 129, 1994; No. 13, 2003; No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 160</div>
-  </td>
-  <td>
-    <div>am. No. 13, 2003; No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 160A</div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 160A</div>
-  </td>
-  <td>
-    <div>ad. No. 13, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 161</div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 161</div>
-  </td>
-  <td>
-    <div>am. No. 13, 2003; No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 162</div>
-  </td>
-  <td>
-    <div>am. No. 115, 2001; No. 13, 2003; No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 162(7)</div>
-  </td>
-  <td>
-    <div>ad. No. 115, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 163</div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 164</div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004; No. 42, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 165</div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 165</div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004; No. 42, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 166</div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 167</div>
-  </td>
-  <td>
-    <div>am. No. 22, 1997; No. 13, 2003; Nos. 79 and 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 169</div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 169</div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 170A</div>
-  </td>
-  <td>
-    <div>ad. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 11</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 172–177</div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 178</div>
-  </td>
-  <td>
-    <div>am. No. 13, 2003; No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 179</div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 180</div>
-  </td>
-  <td>
-    <div>am. No. 59, 1996; No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 181–184</div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>S. 3</div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 5</div>
+    </td>
+    <td>
+      <div>am. No. 115, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6</div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 8</div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 9</div>
+    </td>
+    <td>
+      <div>ad. No. 13, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Schedule</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 3</div>
+    </td>
+    <td>
+      <div>am. No. 22, 1997; No. 13, 2003; Nos. 79 and 120, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 6</div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6</div>
+    </td>
+    <td>
+      <div>am. No. 13, 2003; No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 8A</div>
+    </td>
+    <td>
+      <div>ad. No. 115, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 9</div>
+    </td>
+    <td>
+      <div>am. No. 13, 2003; No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Div. 2 
+of Part 2 
+</div>
+    </td>
+    <td>
+      <div>rs. No. 13, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 10</div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 11</div>
+    </td>
+    <td>
+      <div>am. No. 13, 2003; No. 79, 2004; No. 42, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 11A</div>
+    </td>
+    <td>
+      <div>ad. No. 13, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 11B</div>
+    </td>
+    <td>
+      <div>am. No. 120, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 11B</div>
+    </td>
+    <td>
+      <div>ad. No. 120, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 120, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 12</div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 12</div>
+    </td>
+    <td>
+      <div>rs. No. 13, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 13</div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 13</div>
+    </td>
+    <td>
+      <div>rs. No. 13, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 14</div>
+    </td>
+    <td>
+      <div>am. No. 170, 2000; No. 13, 2003; No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 14A</div>
+    </td>
+    <td>
+      <div>ad. No. 13, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 14B</div>
+    </td>
+    <td>
+      <div>am. No. 120, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 14B</div>
+    </td>
+    <td>
+      <div>ad. No. 120, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 120, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 15</div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 15</div>
+    </td>
+    <td>
+      <div>am. Nos. 79 and 120, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 17</div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 17</div>
+    </td>
+    <td>
+      <div>am. No. 13, 2003; No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 18</div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 18</div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 19, 20</div>
+    </td>
+    <td>
+      <div>rs. No. 13, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 21</div>
+    </td>
+    <td>
+      <div>ad. No. 100, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 21</div>
+    </td>
+    <td>
+      <div>rs. No. 13, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 22</div>
+    </td>
+    <td>
+      <div>am. No. 13, 2003; No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 23</div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 24, 25</div>
+    </td>
+    <td>
+      <div>am. No. 13, 2003; No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 26</div>
+    </td>
+    <td>
+      <div>am. No. 115, 2001; No. 13, 2003; No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 3</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Div. 3 of 
+Part 2 
+</div>
+    </td>
+    <td>
+      <div>rs. No. 13, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 27</div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 28</div>
+    </td>
+    <td>
+      <div>am. No. 13, 2003; No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 28A</div>
+    </td>
+    <td>
+      <div>ad. No. 120, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 28B</div>
+    </td>
+    <td>
+      <div>am. No. 120, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 28B</div>
+    </td>
+    <td>
+      <div>ad. No. 120, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 120, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 29</div>
+    </td>
+    <td>
+      <div>am. No. 170, 2000; No. 13, 2003; No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 4</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 30</div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 30</div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 31</div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 31</div>
+    </td>
+    <td>
+      <div>am. No. 13, 2003; No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 32</div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 32</div>
+    </td>
+    <td>
+      <div>am. No. 59, 1996; No. 115, 2001; No. 13, 2003; No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 33</div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 33</div>
+    </td>
+    <td>
+      <div>am. No. 115, 2001; No. 13, 2003; No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 34</div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 34</div>
+    </td>
+    <td>
+      <div>am. No. 170, 2000; No. 13, 2003; No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 34(5A)</div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 34A</div>
+    </td>
+    <td>
+      <div>ad. No. 13, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 34A(4)</div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 4A</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Div. 4A of Part 2</div>
+    </td>
+    <td>
+      <div>ad. No. 120, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Subdivision A</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 34B</div>
+    </td>
+    <td>
+      <div>ad. No. 120, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 120, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Subdivision B</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 34C</div>
+    </td>
+    <td>
+      <div>am. No. 120, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 34C</div>
+    </td>
+    <td>
+      <div>ad. No. 120, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 120, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note 2 to s. 34C(1)</div>
+    </td>
+    <td>
+      <div>am. No. 120, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Subdivision C</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Subhead. to s. 34D(6)</div>
+    </td>
+    <td>
+      <div>am. No. 120, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 34D, 34E</div>
+    </td>
+    <td>
+      <div>ad. No. 120, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 120, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Subdivision D</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 34F</div>
+    </td>
+    <td>
+      <div>ad. No. 120, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 120, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note 2 to s. 34F(1)</div>
+    </td>
+    <td>
+      <div>am. No. 120, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Subdivision E</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 34G</div>
+    </td>
+    <td>
+      <div>am. No. 120, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 34G</div>
+    </td>
+    <td>
+      <div>ad. No. 120, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 120, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 5</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 35, 36</div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 37</div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 37</div>
+    </td>
+    <td>
+      <div>am. No. 13, 2003; No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 38</div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 38</div>
+    </td>
+    <td>
+      <div>am. No. 13, 2003; No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 39</div>
+    </td>
+    <td>
+      <div>rs. No. 22, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 40–42</div>
+    </td>
+    <td>
+      <div>am. No. 13, 2003; No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 44</div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 45</div>
+    </td>
+    <td>
+      <div>am. No. 13, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 45A</div>
+    </td>
+    <td>
+      <div>ad. No. 13, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 46</div>
+    </td>
+    <td>
+      <div>am. No. 13, 2003; No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 6</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 47</div>
+    </td>
+    <td>
+      <div>am. No. 13, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 48</div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 49</div>
+    </td>
+    <td>
+      <div>am. No. 13, 2003; No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 51</div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 7</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Div. 7 of 
+Part 2 
+</div>
+    </td>
+    <td>
+      <div>rs. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 52</div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 53, 54</div>
+    </td>
+    <td>
+      <div>am. No. 13, 2003; No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 55</div>
+    </td>
+    <td>
+      <div>am. No. 115, 2001; No. 13, 2003; No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 56</div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 2A</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part 2A</div>
+    </td>
+    <td>
+      <div>ad. No. 13, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 56A</div>
+    </td>
+    <td>
+      <div>ad. No. 13, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 56B</div>
+    </td>
+    <td>
+      <div>ad. No. 13, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 56C</div>
+    </td>
+    <td>
+      <div>ad. No. 13, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 3</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 56D</div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 56D–56F</div>
+    </td>
+    <td>
+      <div>ad. No. 13, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 56G, 56H</div>
+    </td>
+    <td>
+      <div>ad. No. 13, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 4</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 56I–56K</div>
+    </td>
+    <td>
+      <div>ad. No. 13, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 56L</div>
+    </td>
+    <td>
+      <div>ad. No. 13, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 56M</div>
+    </td>
+    <td>
+      <div>ad. No. 13, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 56N</div>
+    </td>
+    <td>
+      <div>ad. No. 13, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 56O–56R</div>
+    </td>
+    <td>
+      <div>ad. No. 13, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 5</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 56S–56U</div>
+    </td>
+    <td>
+      <div>ad. No. 13, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 6</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 56V</div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 56V</div>
+    </td>
+    <td>
+      <div>ad. No. 13, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 56W</div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 56W</div>
+    </td>
+    <td>
+      <div>ad. No. 13, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 56X</div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 56X</div>
+    </td>
+    <td>
+      <div>ad. No. 13, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 56Y</div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 56Y</div>
+    </td>
+    <td>
+      <div>ad. No. 13, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 56Z</div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 56Z</div>
+    </td>
+    <td>
+      <div>ad. No. 13, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 7</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 56ZA, 56ZB</div>
+    </td>
+    <td>
+      <div>ad. No. 13, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 56ZC</div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 56ZC</div>
+    </td>
+    <td>
+      <div>ad. No. 13, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 56ZD</div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 56ZD</div>
+    </td>
+    <td>
+      <div>ad. No. 13, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 56ZE–56ZG</div>
+    </td>
+    <td>
+      <div>ad. No. 13, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 56ZH</div>
+    </td>
+    <td>
+      <div>ad. No. 13, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 56ZI, 56ZJ</div>
+    </td>
+    <td>
+      <div>ad. No. 13, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 8</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 56ZK</div>
+    </td>
+    <td>
+      <div>ad. No. 13, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 56ZL, 56ZM</div>
+    </td>
+    <td>
+      <div>ad. No. 13, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 56ZN</div>
+    </td>
+    <td>
+      <div>ad. No. 13, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 9</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Div. 9 of 
+Part 2A 
+</div>
+    </td>
+    <td>
+      <div>rs. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 56ZO–56ZT</div>
+    </td>
+    <td>
+      <div>ad. No. 13, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 2B</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part 2B</div>
+    </td>
+    <td>
+      <div>ad. No. 13, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 56ZU</div>
+    </td>
+    <td>
+      <div>ad. No. 13, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 3</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 57</div>
+    </td>
+    <td>
+      <div>am. No. 22, 1997; No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 58</div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 58</div>
+    </td>
+    <td>
+      <div>am. Nos. 79 and 120, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 59</div>
+    </td>
+    <td>
+      <div>am. No. 22, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 59</div>
+    </td>
+    <td>
+      <div>am. No. 59, 1996; No. 22, 1997; No. 13, 2003; No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 60</div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 60</div>
+    </td>
+    <td>
+      <div>am. No. 22, 1997; No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 61</div>
+    </td>
+    <td>
+      <div>am. No. 22, 1997; No. 115, 2001; No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 3</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 62–64</div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 68</div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 69</div>
+    </td>
+    <td>
+      <div>am. No. 22, 1997; No. 55, 2001; No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 70</div>
+    </td>
+    <td>
+      <div>am. No. 115, 2001; No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 4</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 72</div>
+    </td>
+    <td>
+      <div>am. No. 22, 1997; No. 13, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 74</div>
+    </td>
+    <td>
+      <div>am. No. 115, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 74</div>
+    </td>
+    <td>
+      <div>am. No. 115, 2001; No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 74(1)</div>
+    </td>
+    <td>
+      <div>ad. No. 115, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 74(3)</div>
+    </td>
+    <td>
+      <div>ad. No. 115, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 75</div>
+    </td>
+    <td>
+      <div>am. No. 115, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 13, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 75</div>
+    </td>
+    <td>
+      <div>am. No. 115, 2001; No. 13, 2003; No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 75(1)</div>
+    </td>
+    <td>
+      <div>ad. No. 115, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 75(3)</div>
+    </td>
+    <td>
+      <div>ad. No. 115, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 76</div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 76(1)</div>
+    </td>
+    <td>
+      <div>ad. No. 115, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 76(3)</div>
+    </td>
+    <td>
+      <div>ad. No. 115, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 77(1)</div>
+    </td>
+    <td>
+      <div>ad. No. 115, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 77(2)</div>
+    </td>
+    <td>
+      <div>ad. No. 115, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 78</div>
+    </td>
+    <td>
+      <div>rs. No. 13, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 78</div>
+    </td>
+    <td>
+      <div>am. No. 13, 2003; No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 78(1)</div>
+    </td>
+    <td>
+      <div>ad. No. 115, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 78(3)</div>
+    </td>
+    <td>
+      <div>ad. No. 115, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 79(1)</div>
+    </td>
+    <td>
+      <div>ad. No. 115, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 79(2)</div>
+    </td>
+    <td>
+      <div>ad. No. 115, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 79A, 79B</div>
+    </td>
+    <td>
+      <div>ad. No. 13, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 80</div>
+    </td>
+    <td>
+      <div>rs. No. 13, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 80</div>
+    </td>
+    <td>
+      <div>am. No. 13, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 80(1)</div>
+    </td>
+    <td>
+      <div>ad. No. 115, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 80(2)</div>
+    </td>
+    <td>
+      <div>ad. No. 115, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 81</div>
+    </td>
+    <td>
+      <div>rs. No. 13, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 81</div>
+    </td>
+    <td>
+      <div>am. No. 13, 2003; No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 81(1)</div>
+    </td>
+    <td>
+      <div>ad. No. 115, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 81(2)</div>
+    </td>
+    <td>
+      <div>ad. No. 115, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 82</div>
+    </td>
+    <td>
+      <div>am. No. 115, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 82(2)</div>
+    </td>
+    <td>
+      <div>ad. No. 115, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 83</div>
+    </td>
+    <td>
+      <div>am. No. 115, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 83A</div>
+    </td>
+    <td>
+      <div>ad. No. 13, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 84</div>
+    </td>
+    <td>
+      <div>am. No. 115, 2001; No. 13, 2003; No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 85</div>
+    </td>
+    <td>
+      <div>am. No. 115, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 86, 87</div>
+    </td>
+    <td>
+      <div>am. No. 115, 2001; No. 13, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 87A</div>
+    </td>
+    <td>
+      <div>ad. No. 13, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 88</div>
+    </td>
+    <td>
+      <div>am. No. 13, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 88(2)</div>
+    </td>
+    <td>
+      <div>ad. No. 115, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 88(3)</div>
+    </td>
+    <td>
+      <div>ad. No. 115, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 89</div>
+    </td>
+    <td>
+      <div>am. No. 115, 2001; No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Division 3</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 89A</div>
+    </td>
+    <td>
+      <div>ad. No. 13, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 90</div>
+    </td>
+    <td>
+      <div>am. No. 115, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 91</div>
+    </td>
+    <td>
+      <div>am. No. 115, 2001; No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 92</div>
+    </td>
+    <td>
+      <div>am. No. 115, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 4</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 93</div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 94, 95</div>
+    </td>
+    <td>
+      <div>am. No. 115, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 5</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 97</div>
+    </td>
+    <td>
+      <div>am. No. 115, 2001; No. 13, 2003; No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 99</div>
+    </td>
+    <td>
+      <div>am. No. 115, 2001; No. 13, 2003; No. 79, 2004; No. 100, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 6</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 100</div>
+    </td>
+    <td>
+      <div>am. No. 88, 1995; No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 101</div>
+    </td>
+    <td>
+      <div>rs. No. 13, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 101, 102</div>
+    </td>
+    <td>
+      <div>am. No. 13, 2003; No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 103</div>
+    </td>
+    <td>
+      <div>rs. No. 13, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 103</div>
+    </td>
+    <td>
+      <div>am. No. 59, 1996; No. 13, 2003; No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 104</div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 105</div>
+    </td>
+    <td>
+      <div>am. No. 115, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 7</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 108, 109</div>
+    </td>
+    <td>
+      <div>am. No. 13, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 110</div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 111</div>
+    </td>
+    <td>
+      <div>am. No. 13, 2003; No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 112</div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 112</div>
+    </td>
+    <td>
+      <div>am. No. 13, 2003; No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 113</div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 114</div>
+    </td>
+    <td>
+      <div>am. No. 170, 2000; No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 115</div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 117–119</div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 8</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 120</div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 120A</div>
+    </td>
+    <td>
+      <div>ad. No. 13, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 121</div>
+    </td>
+    <td>
+      <div>am. No. 115, 2001; No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 122</div>
+    </td>
+    <td>
+      <div>am. No. 13, 2003; No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 123</div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 124</div>
+    </td>
+    <td>
+      <div>am. No. 13, 2003; No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 126</div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 127</div>
+    </td>
+    <td>
+      <div>am. No. 13, 2003; No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 128</div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 9</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 3</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 131</div>
+    </td>
+    <td>
+      <div>am. No. 115, 2001; No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 132</div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 138</div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 142</div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 142</div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 144</div>
+    </td>
+    <td>
+      <div>am. No. 115, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 145</div>
+    </td>
+    <td>
+      <div>rs. No. 13, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 4</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 149</div>
+    </td>
+    <td>
+      <div>am. No. 13, 2003; No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 150</div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 152</div>
+    </td>
+    <td>
+      <div>am. No. 115, 2001; No. 13, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 10</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 154</div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 156</div>
+    </td>
+    <td>
+      <div>rs. No. 59, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 157, 158</div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 159</div>
+    </td>
+    <td>
+      <div>rs. No. 13, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 159</div>
+    </td>
+    <td>
+      <div>am. No. 129, 1994; No. 13, 2003; No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 160</div>
+    </td>
+    <td>
+      <div>am. No. 13, 2003; No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 160A</div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 160A</div>
+    </td>
+    <td>
+      <div>ad. No. 13, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 161</div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 161</div>
+    </td>
+    <td>
+      <div>am. No. 13, 2003; No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 162</div>
+    </td>
+    <td>
+      <div>am. No. 115, 2001; No. 13, 2003; No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 162(7)</div>
+    </td>
+    <td>
+      <div>ad. No. 115, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 163</div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 164</div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004; No. 42, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 165</div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 165</div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004; No. 42, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 166</div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 167</div>
+    </td>
+    <td>
+      <div>am. No. 22, 1997; No. 13, 2003; Nos. 79 and 120, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 169</div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 169</div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 170A</div>
+    </td>
+    <td>
+      <div>ad. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 11</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 172–177</div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 178</div>
+    </td>
+    <td>
+      <div>am. No. 13, 2003; No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 179</div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 180</div>
+    </td>
+    <td>
+      <div>am. No. 59, 1996; No. 79, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 181–184</div>
+    </td>
+    <td>
+      <div>am. No. 79, 2004</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table A
 
@@ -11588,10 +11483,13 @@ _Agriculture, Fisheries and Forestry Legislation Amendment (Application of Crimi
 
              (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Agricultural and Veterinary Chemicals Legislation Amendment Act 2003 
- (No. 13, 2003)_
+
+(No. 13, 2003)_
 
 ##### <a id="4"></a>4  Saving of regulations
 
@@ -11603,7 +11501,9 @@ _Agricultural and Veterinary Chemicals Legislation Amendment Act 2003
 
              (2)  The regulations have effect, after the commencement of this section, as if they had been made under the substituted provision.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 0cm; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Agricultural and Veterinary Chemicals Legislation Amendment (Levy and Fees) Act 2005 (No. 42, 2005)_
 
@@ -11613,33 +11513,6 @@ _Agricultural and Veterinary Chemicals Legislation Amendment (Levy and Fees) Act
 
 A fee that was purported to have been paid under the regulations before the commencement of item 45 of this Schedule is taken to have been as valid as the fee would have been if the amendment made by that item had been in force when the fee was paid.
 
-* * *
-
-_Food Standards Australia   New Zealand Amendment Act 2007 (No. 98, 2007)_
-
-## Schedule 1
-
-## 77  Application
-
-The amendments made by Parts 1 and 4 of this Schedule apply in relation to:
-
-                     (a)  applications made after a period of 3 months, beginning on the day on which Part 4 of the Schedule commences, has elapsed; and
-
-                     (b)  proposals prepared after a period of 3 months, beginning on the day on which Part 4 of the Schedule commences, has elapsed.
-
-## 78  Annual reports
-
-To avoid doubt, if, during a financial year to which a report on the Authority under section 9 of the _Commonwealth Authorities and Companies Act 1997_ relates, the Authority considers:
-
-                     (a)  applications and proposals to which this Schedule does not apply (**_earlier applications_**); and
-
-                     (b)  applications and proposals to which it does apply (**_later applications_**);
-
-the members must include in the report:
-
-                     (c)  in relation to the earlier applications—particulars of the matters mentioned in section 69 of the _Food Standards Australia New Zealand Act 1991_, as in force immediately before the commencement of Part 3 of this Schedule; and
-
-                     (d)  in relation to the later applications—particulars of the matters mentioned in section 152 of that Act, as in force on commencement of item 71 of this Schedule.
 
  
 
