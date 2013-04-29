@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00688/Html/PooledDevelFund1992_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00622/Html/PooledDevelFund1992_WD02_image001.gif)
 
 # Pooled Development Funds Act 1992
 
 **Act No. 100 of 1992 as amended**
 
-This compilation was prepared on 22 December 2008
- taking into account amendments up to Act No. 144 of 2008
+This compilation was prepared on 5 October 2007
+ taking into account amendments up to Act No. 164 of 2007
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -213,6 +213,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
                     <a name="committe"></a>**_committee_** means a committee appointed under section 22 of the _Industry Research and Development Act 1986_.
 
                     <a name="compani"></a>**_company_** means a company that is incorporated, or taken to be incorporated, under the _Corporations Act 2001_ and that has a share capital.
+
+                    <a name="de-facto-spous"></a>**_de facto spouse_**, in relation to a person, means an individual of the opposite sex to that person who is living with that person as his or her spouse on a genuine domestic basis although not legally married to that person.
 
                     <a name="director"></a>**_director_**, in relation to a body corporate, means a person who is a director of the body for the purposes of the _Corporations Act 2001_.
 
@@ -914,9 +916,9 @@ must not exceed 30% of the total of:
 
                     <a name="associ"></a>**_associate_**, in relation to a person, means:
 
-                     (a)  a parent or remoter lineal ancestor, a child or remoter issue, or a brother or sister, of the person; or
+                     (a)  a parent or remoter lineal ancestor, a child or remoter issue, or a brother or sister, of the person (including a person who is such a relation by adoption); or
 
-                     (b)  the spouse or a de facto partner of the person; or
+                     (b)  the spouse or a de facto spouse of the person; or
 
                      (c)  if the person is a company:
 
@@ -930,17 +932,9 @@ must not exceed 30% of the total of:
 
                      (e)  a person who is, because of this subsection, an associate of any other person who is an associate of the person (including a person who is an associate of the person by another application or other applications of this paragraph).
 
-                    <a name="child"></a><a name="child"></a>**_child_**: without limiting who is a child of a person for the purposes of this section, someone is the **_child_** of a person if he or she is a child of the person within the meaning of the _Family Law Act 1975_.
-
-                    <a name="de-facto-partner"></a>**_de facto partner_** has the meaning given by the _Acts Interpretation Act 1901_.
-
-                    <a name="child"></a><a name="parent"></a><a name="parent"></a>**_parent_**: without limiting who is a parent of a person for the purposes of this Act, someone is the **_parent_** of a person if the person is his or her child because of the definition of **_child_** in this section.
-
           (2A)  However, in determining whether a person is an **_associate_** of another person, disregard any connection those persons have with or through a PDF.
 
 Example:    This means that, despite paragraph (1)(d), the fact that 2 persons are both officers of the same PDF does not make the officers **_associates_** of one another (although they would still be associates if they were both officers of the same non-PDF company).
-
-       (2AA)  For the purposes of paragraph (a) of the definition of **_associate_** in subsection (2), if one person is the child of another person because of adoption or because of the definition of **_child_** in this section, relationships traced to or through the person are to be determined on the basis that the person is the child of the other person.
 
           (2B)  This section does not prevent a PDF from merging with another PDF as mentioned in section 32A.
 
@@ -1904,7 +1898,7 @@ of Assent</div>
     <div>29 June 1998</div>
   </td>
   <td>
-    <div>Schedule 1 (items 128–130): 1 July 1998 ( <i>see Gazette</i>1998, No. S316) <i>(b)</i></div>
+    <div>Schedule 1 (items 128–130): 1 July 1998 ( <i>see Gazette</i>1998, No. S316) <i>(b)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1921,7 +1915,7 @@ of Assent</div>
     <div>29 June 1998</div>
   </td>
   <td>
-    <div>Schedule 4 (items 26–38): 1 July 1998 ( <i>see Gazette</i>1998, No. S317) <i>(c) 
+    <div>Schedule 4 (items 26–38): 1 July 1998 ( <i>see Gazette</i>1998, No. S317) <i>(c) 
  </i>Schedule 5 (items 37, 38): <i>(c)</i></div>
   </td>
   <td>
@@ -2007,7 +2001,7 @@ of Assent</div>
     <div>10 Dec 1999</div>
   </td>
   <td>
-    <div>Schedule 3 (items 5–18): Royal Assent <i>(g)</i></div>
+    <div>Schedule 3 (items 5–18): Royal Assent <i>(g)</i></div>
   </td>
   <td>
     <div>Sch. 3 (item 18) \[ <i>see</i>Table A]</div>
@@ -2041,7 +2035,7 @@ of Assent</div>
     <div>24 Nov 2000</div>
   </td>
   <td>
-    <div>Ss. 1–3 and Schedule 1 (items 1, 4, 6, 7, 9–11, 32): Royal Assent 
+    <div>Ss. 1–3 and Schedule 1 (items 1, 4, 6, 7, 9–11, 32): Royal Assent 
 Remainder: 24 May 2001</div>
   </td>
   <td>
@@ -2059,7 +2053,7 @@ Remainder: 24 May 2001</div>
     <div>28 June 2001</div>
   </td>
   <td>
-    <div>Ss. 4–14 and Schedule 3 (items 425–431): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(h)</i></div>
+    <div>Ss. 4–14 and Schedule 3 (items 425–431): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(h)</i></div>
   </td>
   <td>
     <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
@@ -2111,7 +2105,7 @@ Remainder: 24 May 2001</div>
     <div>11 Apr 2003</div>
   </td>
   <td>
-    <div>Schedule 1 (items 15, 16): 12 Apr 2003</div>
+    <div>Schedule 1 (items 15, 16): 12 Apr 2003</div>
   </td>
   <td>
     <div>Sch. 1 (item 16) \[ <i>see</i>Table A]</div>
@@ -2128,7 +2122,7 @@ Remainder: 24 May 2001</div>
     <div>15 Mar 2007</div>
   </td>
   <td>
-    <div>Schedule 1 (items 274, 275, 
+    <div>Schedule 1 (items 274, 275, 
 406(1)–(3)): <i>(i)</i></div>
   </td>
   <td>
@@ -2146,8 +2140,7 @@ Remainder: 24 May 2001</div>
     <div>21 June 2007</div>
   </td>
   <td>
-    <div>Schedule 8 (items 157–165, 
-215–217, 348, 349): Royal Assent</div>
+    <div>Schedule 8 (items 157–165, 215–217, 348, 349): Royal Assent</div>
   </td>
   <td>
     <div>—</div>
@@ -2164,28 +2157,11 @@ Remainder: 24 May 2001</div>
     <div>25 Sept 2007</div>
   </td>
   <td>
-    <div>Schedule 12 (items 53–65, 279–287): 27 Sept 2007 ( <i>see</i>F2007L03842)</div>
+    <div>Schedule 12 (items 53–65, 279–287): 27 Sept 2007 ( <i>see</i>F2007L03842)</div>
   </td>
   <td>
     <div>Sch. 12 (items 
 279–287) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008</div>
-  </td>
-  <td>
-    <div>144, 2008</div>
-  </td>
-  <td>
-    <div>9 Dec 2008</div>
-  </td>
-  <td>
-    <div>Schedule 12 (items 1–8): 10 Dec 2008</div>
-  </td>
-  <td>
-    <div>Sch. 12 (item 8) \[ <i>see</i> Table A]</div>
   </td>
 </tr></table>
 
@@ -2365,7 +2341,7 @@ _(i)_      Subsection 2(1) (item 2) of the _Superannuation Legislati
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 102, 1994; No. 5, 1995; Nos. 48 and 61, 1998; No. 165, 1999; No. 64, 2000; No. 55, 2001; No. 136, 2002; Nos. 78 and 164, 2007; No. 144, 2008</div>
+    <div>am. No. 102, 1994; No. 5, 1995; Nos. 48 and 61, 1998; No. 165, 1999; No. 64, 2000; No. 55, 2001; No. 136, 2002; Nos. 78 and 164, 2007</div>
   </td>
 </tr>
 <tr>
@@ -2621,7 +2597,7 @@ _(i)_      Subsection 2(1) (item 2) of the _Superannuation Legislati
     <div>S. 31</div>
   </td>
   <td>
-    <div>am. No. 102, 1994; No. 48, 1998; No. 64, 2000; No. 55, 2001; No. 144, 2008</div>
+    <div>am. No. 102, 1994; No. 48, 1998; No. 64, 2000; No. 55, 2001</div>
   </td>
 </tr>
 <tr>
@@ -3025,7 +3001,7 @@ In this Part:
 
                      (d)  the giving of directions by the Minister to the former Board.
 
-## 281  Things done to the Chairperson or acting Chairperson of a former Board before commencement
+## 281  Things done to the Chairperson or acting Chairperson of a former Board before commencement
 
 (1)        Any thing done to the Chairperson, or acting Chairperson, of a former Board before the commencement of this item is taken, on and after that commencement, to have been done to the Chairperson of the new Board.
 
@@ -3110,25 +3086,5 @@ is taken, after the commencement of this item, to be a reference to the new Boar
 ## 287  Committees
 
 An appointment of a member of a committee under section 22 of the _Industry Research and Development Act 1986_ that is in force immediately before the commencement of this item is taken, on that commencement, to be revoked.
-
-* * *
-
-_Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008 (No. 144, 2008)_
-
-## Schedule 12
-
-## 8  Transitional
-
-(1)        This item applies if:
-
-                     (a)  on the commencement of the amendments made by this Schedule, a person holds shares in a PDF (the **_initial shares_**); and
-
-                     (b)  the person would, but for this item, contravene section 31 of the _Pooled Development Funds Act 1992_ only because of one or more of those amendments.
-
-(2)        Subject to subitem (4), disregard the person’s continued holding of the initial shares in the PDF on and after that commencement when applying that section as then in force to the person and the person’s associates.
-
-(3)        If, after that commencement, any bonus shares in the PDF are issued to the person because the person is the holder of the initial shares, then, subject to subitem (4), disregard the person’s holding of those bonus shares when applying that section as then in force to the person and the person’s associates.
-
-(4)        If, after that commencement, the person, or any of the person’s associates, acquires additional shares (other than bonus shares) in the PDF, the initial shares and the bonus shares are to be taken into account in determining whether the acquisition of those additional shares complies with that section as then in force.
 
  
