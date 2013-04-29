@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00822/Html/6f46d32e-dc32-4c29-9d20-f0d5c89d2279_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00795/Html/c586bdcf-79a3-49ef-84cc-7f2daf443018_files/image001.gif)
 
 # Customs Act 1901
 
 **Act No. 6 of 1901 as amended**
 
-This compilation was prepared on 12 November 2012
- taking into account amendments up to Act No. 146 of 2012
+This compilation was prepared on 5 November 2012
+ taking into account amendments up to Act No. 136 of 2012
 
 **Volume 1** includes:     Table of Contents
                                      Sections 1 – 183U
@@ -194,11 +194,11 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [64AB](#64AB).    Cargo reports
 
-64ABAA Outturn reports
+64ABAAOutturn reports
 
-64ABAB When outturn report is to be communicated to Customs
+64ABABWhen outturn report is to be communicated to Customs
 
-64ABAC Explanation of shortlanded or surplus cargo
+64ABACExplanation of shortlanded or surplus cargo
 
 [64ACA](#64ACA). Passenger reports
 
@@ -210,7 +210,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [64ACE](#64ACE).  Communication of reports
 
-64ADAA Requirements for communicating to Customs electronically
+64ADAARequirements for communicating to Customs electronically
 
 [64ADA](#64ADA). Disclosure of cargo reports to port authorities
 
@@ -284,56 +284,56 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
         **Subdivision AA—Information and grant of authority to deal with Subdivision AA goods**
 
-71AAAA Meaning of _Subdivision AA goods_
+71AAAAMeaning of _Subdivision AA goods_
 
-71AAAB Report and grant of authority to deal with Subdivision AA 
+71AAABReport and grant of authority to deal with Subdivision AA 
  goods
 
-71AAAC Suspension of authority to deal with Subdivision AA goods
+71AAACSuspension of authority to deal with Subdivision AA goods
 
         **Subdivision AB—Information and grant of authority to deal with specified low value goods**
 
-71AAAD Meaning of _specified low value goods_
+71AAADMeaning of _specified low value goods_
 
-71AAAE Regulations
+71AAAERegulations
 
-71AAAF Making a self‑assessed clearance declaration
+71AAAFMaking a self‑assessed clearance declaration
 
-71AAAG Customs’ response if a self‑assessed clearance declaration is 
+71AAAGCustoms’ response if a self‑assessed clearance declaration is 
  communicated separately from a cargo report
 
-71AAAH Customs’ response if a self‑assessed clearance declaration is 
+71AAAHCustoms’ response if a self‑assessed clearance declaration is 
  communicated together with a cargo report
 
 71AAAI Authority to deal with goods covered by a self‑assessed clearance declaration
 
-71AAAJ Contents of authority to deal with specified low value goods
+71AAAJContents of authority to deal with specified low value goods
 
-71AAAK No authority to deal with specified low value goods while 
+71AAAKNo authority to deal with specified low value goods while 
  subject to a direction to hold or further examine
 
-[71AAAL No authority to deal with specified low value goods unless  duty etc](#71AAAL No authority to deal with specified low value goods unless  duty etc). paid [_see_ Note 3]
+[71AAALNo authority to deal with specified low value goods unless  duty etc](#71AAALNo authority to deal with specified low value goods unless  duty etc). paid [_see_ Note 3]
 
-71AAAM Suspension of authority to deal with specified low value 
+71AAAMSuspension of authority to deal with specified low value 
  goods
 
-71AAAN Cancellation of authority to deal with specified low value 
+71AAANCancellation of authority to deal with specified low value 
  goods
 
-71AAAO Officer may seek further information in relation to 
+71AAAOOfficer may seek further information in relation to 
  self‑assessed clearance declaration
 
-71AAAP Withdrawal of self‑assessed clearance declarations
+71AAAPWithdrawal of self‑assessed clearance declarations
 
-71AAAQ Further self‑assessed clearance declaration not to be given 
+71AAAQFurther self‑assessed clearance declaration not to be given 
  while there is an existing self‑assessed clearance declaration
 
-71AAAR Effect of withdrawal of a self‑assessed clearance declaration
+71AAAREffect of withdrawal of a self‑assessed clearance declaration
 
-71AAAS Annotation of self‑assessed clearance declaration by 
- Customs for certain purposes not to constitute withdrawal
+71AAASAnnotation of self‑assessed clearance declaration by Customs 
+ for certain purposes not to constitute withdrawal
 
-71AAAT Manner and effect of communicating self‑assessed clearance 
+71AAATManner and effect of communicating self‑assessed clearance 
  declarations to Customs
 
         **Subdivision B—Import declarations**
@@ -756,13 +756,13 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
     **Division 4E—Exportation of goods to Chile** 
 
-126AKA Definitions
+126AKADefinitions
 
 126AKB Record keeping obligations
 
 126AKC Power to require records
 
-126AKD Power to ask questions
+126AKDPower to ask questions
 
     **Division 5—Miscellaneous**
 
@@ -2432,7 +2432,7 @@ shall, subject to subsections (2) and (3), be deemed to be part of Australia.
 
                    The ships and aircraft employed in the service of the Customs shall be distinguished from other ships and aircraft by such flag or in such other manner as shall be prescribed.
 
-##### <a id="15"></a>15  Appointment of ports etc.
+##### <a id="15"></a>15  Appointment of ports etc.
 
              (1)  The CEO may, by notice published in the _Gazette_:
 
@@ -4188,7 +4188,7 @@ Purpose for which information obtained
 
 is taken to be obtained by Customs for the purposes of the administration of this Act, the _Migration Act 1958_, and any other law of the Commonwealth prescribed by regulations for the purposes of this subsection.
 
-##### <a id="64ACB"></a>64ACB  Crew reports
+##### <a id="64ACB"></a>64ACB  Crew reports
 
 Obligation to report on crew
 
@@ -5118,7 +5118,7 @@ the Collector must, by notice in writing:
 
            (15)  Subsections (12) to (14) do not, by implication, limit the application of subsections 33(3) and (3AA) of the _Acts Interpretation Act 1901_.
 
-##### <a id="70"></a>70  Special clearance goods
+##### <a id="70"></a>70  Special clearance goods
 
              (1)  In this section, **_special clearance goods_** means goods to which section 68 applies comprising:
 
@@ -5738,7 +5738,7 @@ Note:          Subsection 132AA(1) provides that import duty o
 
              (4)  A person who has received a permission may examine the goods in accordance with the permission in the presence of an officer.
 
-##### <a id="71DA"></a>71DA  An officer may seek additional information
+##### <a id="71DA"></a>71DA  An officer may seek additional information
 
              (1)  Without limiting the information that may be required to be included in an import declaration, if an import declaration has been made in respect of goods, authority to deal with the goods may be refused until an officer doing duty in relation to import declarations:
 
@@ -5830,7 +5830,7 @@ the goods are taken to have been entered for home consumption.
 
 the goods are taken to be entered for home consumption only when they are brought to that port or airport.
 
-##### <a id="71DC"></a>71DC  Liability for an RCR processing charge
+##### <a id="71DC"></a>71DC  Liability for an RCR processing charge
 
              (1)  When an RCR is sent to Customs by or on behalf of an accredited client, the accredited client becomes liable to pay an RCR processing charge in respect of the RCR.
 
@@ -7048,7 +7048,7 @@ the former holder is entitled to a refund of an amount worked out using the form
 
           (1A)  For the purposes of subsection (1), the formula is:
 
-![](http://www.comlaw.gov.au/Details/C2012C00822/Html/6f46d32e-dc32-4c29-9d20-f0d5c89d2279_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00795/Html/c586bdcf-79a3-49ef-84cc-7f2daf443018_files/image002.gif)
 
 where:
 
@@ -7942,7 +7942,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-##### <a id="102"></a>102  Holder of licence to inform Collector of certain matters
+##### <a id="102"></a>102  Holder of licence to inform Collector of certain matters
 
              (1)  Where goods are delivered to a warehouse but documents relating to those goods required to be delivered to the holder of the warehouse licence in accordance with this Act are not so delivered or such documents are so delivered but do not contain sufficient information to enable the holder to make a record relating to the goods that he or she is required to make under this Act, the holder shall, as soon as practicable, inform a Collector of the non‑delivery or inadequacy of those documents, as the case may be.
 
@@ -8796,7 +8796,7 @@ Note:          The CEO may make business rules that a person w
 
              (5)  The existence of an export information contract does not affect the exercise by the CEO of any powers conferred on him or her by or under this Act.
 
-##### <a id="114BC"></a>114BC  Declarations by persons who use ACEANS
+##### <a id="114BC"></a>114BC  Declarations by persons who use ACEANS
 
                    If a person, during a particular month, enters goods for export by using one or more ACEANS, the person:
 
@@ -9644,7 +9644,7 @@ Disclosing records to New Zealand customs official
 
              (2)  An authorised officer may, for the purpose of verifying a claim for a preferential tariff in New Zealand _,_ disclose any records so produced to a New Zealand customs official.
 
-##### <a id="126AJD"></a>126AJD  Power to ask questions
+##### <a id="126AJD"></a>126AJD  Power to ask questions
 
 Power to ask questions
 
@@ -15324,7 +15324,7 @@ he or she may, by notice to the customs broker:
 
              (6)  The appointment of a member is not invalidated, and shall not be called in question, by reason of a deficiency or irregularity in, or in connection with, his or her nomination or appointment.
 
-##### <a id="183DB"></a>183DB  Remuneration and allowances
+##### <a id="183DB"></a>183DB  Remuneration and allowances
 
              (1)  A member referred to in paragraph 183DA(1)(a) or (b) shall be paid such remuneration as is determined by the Remuneration Tribunal, but if no determination of that remuneration by the Tribunal is in operation, he or she shall be paid such remuneration as is prescribed.
 
