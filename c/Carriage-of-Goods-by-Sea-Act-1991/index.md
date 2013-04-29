@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00048/Html/CarOfGooBySeaAct1991_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00597/Html/CarOfGooBySeaAct1991_image001.gif)
 
 # Carriage of Goods by Sea Act 1991
 
 **Act No. 160 of 1991 as amended**
 
-This compilation was prepared on 16 January 2009
- taking into account amendments up to Act No. 135 of 2008
+This compilation was prepared on 10 October 2006
+ taking into account amendments up to Act No. 109 of 2006
 
 \[Note: Section 2A, Part 3 (sections 12 to 16) and Schedule 2 are taken to have been repealed on 31 October 2001, _see_ section 2]
 
@@ -1388,11 +1388,11 @@ of Assent</div>
     <div>31 Oct 1991</div>
   </td>
   <td>
-    <div>S. 2A, Part 3 (ss. 12–16) and Schedule 2: ( <i>see</i>s. 2(2) and (3))Remainder: Royal Assent</div>
+    <div>S. 2A, Part 3 (ss. 12-16) and Schedule 2: ( <i>see</i>s. 2(2) and (3))Remainder: Royal Assent</div>
   </td>
   <td>
     <div>S. 2(2) and (3) (rs. by 123, 1997, Sch. 1 \[item 1]) 
-S. 2(4)–(6) (rep. by 123, 1997, Sch. 1 \[item 1])</div>
+S. 2(4)-(6) (rep. by 123, 1997, Sch. 1 \[item 1])</div>
   </td>
 </tr>
 <tr>
@@ -1423,24 +1423,8 @@ S. 2(4)–(6) (rep. by 123, 1997, Sch. 1 \[item 1])</div>
     <div>27 Sept 2006</div>
   </td>
   <td>
-    <div>Schedule 2 (item 16): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Evidence Amendment Act 2008</div>
-  </td>
-  <td>
-    <div>135, 2008</div>
-  </td>
-  <td>
-    <div>4 Dec 2008</div>
-  </td>
-  <td>
-    <div>Schedule 3 (item 7): \[ <i>see</i>Note 2]</div>
+    <div>Schedule 2 (item 16): 
+ Royal Assent</div>
   </td>
   <td>
     <div>—</div>
@@ -1574,19 +1558,5 @@ S. 2(4)–(6) (rep. by 123, 1997, Sch. 1 \[item 1])</div>
     <div>am. Statutory Rules 1998 No. 324</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Evidence Amendment Act 2008 (No. 135, 2008)_
-
-The following amendment commences on 4 December 2009 unless proclaimed earlier:
-
-## Schedule 3
-
-## 7  Subsection 7(5)
-
-Repeal the subsection.
-
-As at 16 January 2009 the amendment is not incorporated in this compilation.
 
  
