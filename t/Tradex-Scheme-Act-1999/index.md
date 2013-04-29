@@ -1,7 +1,7 @@
 
 Tradex Scheme Act 1999
 Act No. 185 of 1999 as amended
-This compilation was prepared on 17 October 2001  taking into account amendments up to Act No. 140 of 2001
+This compilation was prepared on 20 July 2001  taking into account amendments up to Act No. 55 of 2001
 The text of any of those amendments not in force on that date is appended in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
   
@@ -71,7 +71,6 @@ Part 11—Miscellaneous	32
 Part 12—Transitional	38
 50	Existing users under the Texco Scheme	38
 Notes		39
-
 An Act to establish a scheme, to be known as the Tradex Scheme, for the importation, without payment of duties of customs or other taxes, of goods that are to be subsequently exported, and for related purposes
 Part 1—Preliminary
   
@@ -428,21 +427,17 @@ Note:	The Secretary has power to extend the period specified in a requirement ma
 Part 9—Offences
   
 26  Failure to notify details of change in registered particulars
-	(1)	A person is guilty of an offence if:
+		A person is guilty of an offence if:
 	(a)	the person is the holder of a tradex order; and
 	(b)	the person is required by subsection 9(6) to notify the Secretary of the details of a change in any of the particulars entered in the Register in respect of the order; and
 	(c)	the person fails to comply with the requirement.
 Maximum penalty:	30 penalty units.
-	(2)	For the purposes of an offence against subsection (1), strict liability applies to the physical element of the offence, that the requirement is a requirement made by subsection 9(6).
-Note:	For strict liability, see section 6.1 of the Criminal Code.
 27  Failure to notify ineligibility
-	(1)	A person is guilty of an offence if:
+		A person is guilty of an offence if:
 	(a)	the person is the holder of a tradex order; and
 	(b)	the person is required by section 15 to give a notice to the Secretary; and
 	(c)	the person fails to comply with the requirement.
 Maximum penalty:	30 penalty units.
-	(2)	For the purposes of an offence against subsection (1), strict liability applies to the physical element of the offence, that the requirement is a requirement made by section 15.
-Note:	For strict liability, see section 6.1 of the Criminal Code.
 28  Failure to pay tradex duty
 	(1)	A person is guilty of an offence if:
 	(a)	the person is liable under subsection 21(2) to pay to the Commonwealth tradex duty in respect of goods; and
@@ -451,12 +446,10 @@ Maximum penalty:	An amount equal to the amount of tradex duty that was not paid 
 	(2)	An offence against subsection (1) is an offence of strict liability.
 Note:	For the meaning of strict liability, see section 6.1 of the Criminal Code.
 29  Failure to keep records
-	(1)	A person is guilty of an offence if:
+		A person is guilty of an offence if:
 	(a)	the person is required by section 22 to keep records in respect of any goods; and
 	(b)	the person fails to comply with the requirement.
 Maximum penalty:	30 penalty units.
-	(2)	For the purposes of an offence against subsection (1), strict liability applies to the physical element of the offence, that the requirement is a requirement made by section 22.
-Note:	For strict liability, see section 6.1 of the Criminal Code.
 30  Failure to comply with requirement made by authorised officer
 	(1)	A person is guilty of an offence if:
 	(a)	a requirement is made of the person by an authorised officer under paragraph 24(2)(a), (b) or (g); and
@@ -632,7 +625,6 @@ the Secretary must, as soon as practicable, make under section 11, in respect o
 Notes to the Tradex Scheme Act 1999
 Note 1
 The Tradex Scheme Act 1999 as shown in this compilation comprises Act No. 185, 1999 amended as indicated in the Tables below.
-For all relevant information pertaining to application, saving or transitional provisions see Table A.
 For application, saving or transitional provisions made by the Corporations (Repeals, Consequentials and Transitionals) Act 2001, see Act No. 55, 2001.
 Table of Acts
 Act
@@ -650,27 +642,18 @@ Corporations (Repeals, Consequentials and Transitionals) Act 2001
 28 June 2001
 Ss. 4‑14 and Schedule 3 (item 558): 15 July 2001 (see Gazette 2001, No. S285) (a)
 Ss. 4‑14
-Industry, Science and Resources Legislation Amendment (Application of Criminal Code) Act 2001
-140, 2001
-1 Oct 2001
-2 Oct 2001
-S. 4
+
 (a)	The Tradex Scheme Act 1999 was amended by Schedule 3 (item 558) only of the Corporations (Repeals, Consequentials and Transitionals) Act 2001, subsection 2(3) of which provides as follows:
 	(3)	Subject to subsections (4) to (10), Schedule 3 commences, or is taken to have commenced, at the same time as the Corporations Act 2001.
+
+
 Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
 How affected
 S. 4	
-am. No. 55, 2001
-Ss. 26, 27	
-am. No. 140, 2001
-S. 29	
-am. No. 140, 2001
-Table A
-Application, saving or transitional provisions
-Industry, Science and Resources Legislation Amendment (Application of Criminal Code) Act 2001 (No. 140, 2001)
-4  Application of amendments
-	(1)	Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
-	(2)	For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
+am No. 55, 2001
+
+
+
 
