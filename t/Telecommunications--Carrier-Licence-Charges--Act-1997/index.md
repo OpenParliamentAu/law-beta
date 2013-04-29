@@ -1,60 +1,62 @@
-![](http://www.comlaw.gov.au/Details/C2007C00332/Html/TeleCarLicCharges97WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00451/Html/F6F76E5145E6DDC2CA2571AE001A0FD6/$FILE/image001.gif)
 
 # Telecommunications (Carrier Licence Charges) Act 1997
 
-**Act No. 49 of 1997 as amended**
+**Act No. 49 of 1997 as amended**
 
-This compilation was prepared on 31 May 2007
- taking into account amendments up to Act No. 89 of 2006
+This compilation was prepared on 11 July 2006
+taking into account amendments up to Act No. 89 of 2006
 
 The text of any of those amendments not in force
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, Canberra
+
 
 # Contents
 
-**Part 1—Introduction**
+**Part 1—Introduction**
 
-[1](#1).            Short title [_see_ Note 1]                                                                        1
+[1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Commencement [_see_ Note 1]                                                               1
+[2](#2).            Commencement [_see_ Note 1]
 
-[3](#3).            Act to bind Crown                                                                               1
+[3](#3).            Act to bind Crown
 
-[4](#4).            Extension to eligible Territories                                                           1
+[4](#4).            Extension to eligible Territories
 
-[5](#5).            Interpretation                                                                                       1
+[5](#5).            Interpretation
 
 **Part 2—Application charge**
 
-[6](#6).            Definition of _charge_                                                                            3
+[6](#6).            Definition of _charge_
 
-[7](#7).            Imposition of charge                                                                            3
+[7](#7).            Imposition of charge
 
-[8](#8).            By whom charge payable                                                                    3
+[8](#8).            By whom charge payable
 
-[9](#9).            Amount of charge                                                                                3
+[9](#9).            Amount of charge
 
-[10](#10).          Maximum charge                                                                                  3
+[10](#10).          Maximum charge
 
 **Part 3—Annual charge**
 
-[11](#11).          Definition of _charge_                                                                            4
+[11](#11).          Definition of _charge_
 
-[12](#12).          Imposition of charge                                                                            4
+[12](#12).          Imposition of charge
 
-[13](#13).          By whom charge payable                                                                    4
+[13](#13).          By whom charge payable
 
-[14](#14).          Amount of charge                                                                                4
+[14](#14).          Amount of charge
 
-[15](#15).          Limit on total of charges                                                                      4
+[15](#15).          Limit on total of charges
 
 **Notes** 
+
 
 ## An Act to impose charges in relation to carrier licences under the _Telecommunications Act 1997_
 
@@ -72,7 +74,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="3"></a>3  Act to bind Crown
 
-                   This Act binds the Crown in right of each of the States, of the Australian Capital Territory, of the Northern   Territory and of Norfolk Island.
+                   This Act binds the Crown in right of each of the States, of the Australian Capital Territory, of the Northern Territory and of Norfolk Island.
 
 ##### <a id="4"></a>4  Extension to eligible Territories
 
@@ -106,7 +108,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="8"></a>8  By whom charge payable
 
-                   Charge imposed on an application for a carrier licence is payable by the applicant.
+                   Charge imposed on an application for a carrier licence is payable by the applicant.
 
 ##### <a id="9"></a>9  Amount of charge
 
@@ -160,27 +162,16 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="accc-telecommun-function-power"></a>**_ACCC’s telecommunications functions and powers_** has the same meaning as in the _Telecommunications Act 1997_.
 
-                    <a name="acma-telecommun-function"></a>**_ACMA’s telecommunications functions_** has the same meaning as in the _Telecommunications Act 1997_, but does not include functions conferred on the ACMA by or under:
+                    <a name="acma-telecommun-function"></a>**_ACMA’s telecommunications functions_** has the same meaning as in the _Telecommunications Act 1997_.
 
-                     (a)  the _Do Not Call Register Act 2006_; or
-
-                     (b)  the _Telecommunications Act 1997_ to the extent to which that Act relates to the _Do Not Call Register Act 2006_; or
-
-                     (c)  Part 6 of the _Telecommunications Act 1997_ to the extent to which that Part relates to telemarketing activities (within the meaning of that Part).
-
-                    <a name="acma-telecommun-power"></a>**_ACMA’s telecommunications powers_** has the same meaning as in the _Telecommunications Act 1997_, but does not include powers conferred on the ACMA by or under:
-
-                     (a)  the _Do Not Call Register Act 2006_; or
-
-                     (b)  the _Telecommunications Act 1997_ to the extent to which that Act relates to the _Do Not Call Register Act 2006_; or
-
-                     (c)  Part 6 of the _Telecommunications Act 1997_ to the extent to which that Part relates to telemarketing activities (within the meaning of that Part).
+                    <a name="acma-telecommun-power"></a>**_ACMA’s telecommunications powers_** has the same meaning as in the _Telecommunications Act 1997_.
 
                     <a name="cost"></a>**_cost_**:
 
                      (a)  in relation to the ACMA, means an amount that, in accordance with accrual-based accounting principles, is treated as a cost of the ACMA; and
 
                      (b)  in relation to the ACCC, means an amount that, in accordance with accrual-based accounting principles, is treated as a cost of the ACCC.
+
 
 # Notes to the _Telecommunications (Carrier Licence Charges) Act 1997_
 
@@ -208,11 +199,13 @@ For all relevant information pertaining to application, saving or transitional p
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -256,99 +249,104 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<thead>
+<tbody>
   <tr>
     <td>
-      <div>Telecommunications (Carrier Licence Charges) Amendment (Industry Plans and Consumer Codes) Act 2005</div>
+      <div>as amended by</div>
     </td>
     <td>
-      <div>116, 2005</div>
+      <div></div>
     </td>
     <td>
-      <div>23 Sept 2005</div>
+      <div></div>
     </td>
     <td>
-      <div>( <i>see</i>116, 2005 below)</div>
+      <div></div>
     </td>
     <td>
-      <div>—</div>
+      <div></div>
     </td>
   </tr>
-  <tr>
-    <td>
-      <div>Telecommunications (Carrier Licence Charges) Amendment Act 2005</div>
-    </td>
-    <td>
-      <div>46, 2005</div>
-    </td>
-    <td>
-      <div>1 Apr 2005</div>
-    </td>
-    <td>
-      <div>Schedules 1 and 2: 1 July 2005 ( <i>see</i>s. 2(1)) 
-Remainder: Royal Assent</div>
-    </td>
-    <td>
-      <div>Sch. 2</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Telecommunications (Carrier Licence Charges) Amendment (Industry Plans and Consumer Codes) Act 2005</div>
-    </td>
-    <td>
-      <div>116, 2005</div>
-    </td>
-    <td>
-      <div>23 Sept 2005</div>
-    </td>
-    <td>
-      <div>Schedule 1: 24 Sept 2005 
-Schedule 2: <i>(a)</i> 
-Remainder: Royal Assent</div>
-    </td>
-    <td>
-      <div>Sch. 1 (item 10)</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Do Not Call Register (Consequential Amendments) Act 2006</div>
-    </td>
-    <td>
-      <div>89, 2006</div>
-    </td>
-    <td>
-      <div>30 June 2006</div>
-    </td>
-    <td>
-      <div>Schedule 1 (items 42–73): 31 May 2007 ( <i>see</i>s. 2(1) and F2007L01114) 
-Remainder: Royal Assent</div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-</thead></table>
+  <thead>
+    <tr>
+      <td>
+        <div>Telecommunications (Carrier Licence Charges) Amendment (Industry Plans and Consumer Codes) Act 2005</div>
+      </td>
+      <td>
+        <div>116, 2005</div>
+      </td>
+      <td>
+        <div>23 Sept 2005</div>
+      </td>
+      <td>
+        <div>( <i>see</i>116, 2005 below)</div>
+      </td>
+      <td>
+        <div>—</div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div>Telecommunications (Carrier Licence Charges) Amendment Act 2005</div>
+      </td>
+      <td>
+        <div>46, 2005</div>
+      </td>
+      <td>
+        <div>1 Apr 2005</div>
+      </td>
+      <td>
+        <div>Schedules 1 and 2: 1 July 2005 ( <i>see</i>s. 2(1)) 
+Remainder: Royal Assent 
+</div>
+      </td>
+      <td>
+        <div>Sch. 2</div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div>Telecommunications (Carrier Licence Charges) Amendment (Industry Plans and Consumer Codes) Act 2005</div>
+      </td>
+      <td>
+        <div>116, 2005</div>
+      </td>
+      <td>
+        <div>23 Sept 2005</div>
+      </td>
+      <td>
+        <div>Schedule 1: 24 Sept 2005 
+Schedule 2: <i>(a)</i> 
+Remainder: Royal Assent 
 
-_(a)_ Subsection 2(1) (item 3) of the _Telecommunications (Carrier Licence Charges) Amendment (Industry Plans and Consumer Codes) Act 2005_ provides as follows:
+</div>
+      </td>
+      <td>
+        <div>Sch. 1 (item 10)</div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div>Do Not Call Register (Consequential Amendments) Act 2006</div>
+      </td>
+      <td>
+        <div>89, 2006</div>
+      </td>
+      <td>
+        <div>30 June 2006</div>
+      </td>
+      <td>
+        <div>Schedule 1 (items 72, 73): \[ <i>see</i>Note 2]</div>
+      </td>
+      <td>
+        <div>—</div>
+      </td>
+    </tr>
+  </thead>
+</tbody></table>
+
+
+_(a)_ Subsection 2(1) (item 3) of the _Telecommunications (Carrier Licence Charges) Amendment (Industry Plans and Consumer Codes) Act 2005_ provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
@@ -416,25 +414,28 @@ _(a)_ Subsection 2(1) (item 3) of the _Telecommunications (Carrier Licence Cha
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>
-      3\. Schedule 2
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the time specified in the
-        <i>Telecommunications (Carrier Licence Charges) Amendment Act 1998</i>for
-        the commencement of item 2 of Schedule 1 to that Act.
-    </div>
-  </td>
-  <td>
-    <div>
-      30 June 1998
-    </div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>
+        3\. Schedule 2
+      </div>
+    </td>
+    <td>
+      <div>
+        Immediately after the time specified in the
+          <i>Telecommunications (Carrier Licence Charges) Amendment Act 1998</i>for
+          the commencement of item 2 of Schedule 1 to that Act.
+      </div>
+    </td>
+    <td>
+      <div>
+        30 June 1998
+      </div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table of Amendments
 
@@ -459,87 +460,126 @@ _(a)_ Subsection 2(1) (item 3) of the _Telecommunications (Carrier Licence Cha
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div><b>Part 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9</div>
-  </td>
-  <td>
-    <div>am. Nos. 46 and 116, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 14</div>
-  </td>
-  <td>
-    <div>am. Nos. 46 and 116, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15</div>
-  </td>
-  <td>
-    <div>am. No. 68, 1998; Nos. 46 and 116, 2005; No. 89, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 4</div>
-  </td>
-  <td>
-    <div>rep. No. 46, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 16</div>
-  </td>
-  <td>
-    <div>rep. No. 46, 2005</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div><b>Part 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 5</div>
+    </td>
+    <td>
+      <div>am. No. 46, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 9</div>
+    </td>
+    <td>
+      <div>am. Nos. 46 and 116, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 3</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 14</div>
+    </td>
+    <td>
+      <div>am. Nos. 46 and 116, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 15</div>
+    </td>
+    <td>
+      <div>am. No. 68, 1998; Nos. 46 and 116, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part 4</div>
+    </td>
+    <td>
+      <div>rep. No. 46, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 16</div>
+    </td>
+    <td>
+      <div>rep. No. 46, 2005</div>
+    </td>
+  </tr>
+</tbody></table>
+
+
+### Note 2
+
+_Do Not Call Register (Consequential Amendments) Act 2006 (No. 89, 2006)_
+
+The following amendments commence on 30 June 2007 unless proclaimed earlier:
+
+## Schedule 1
+
+## 72  Subsection 15(4) (definition of _ACMA’s telecommunications functions_)
+
+Omit “_Telecommunications Act 1997._”, substitute:
+
+_Telecommunications Act 1997_, but does not include functions conferred on the ACMA by or under:
+
+                     (a)  the _Do Not Call Register Act 2006_; or
+
+                     (b)  the _Telecommunications Act 1997_ to the extent to which that Act relates to the _Do Not Call Register Act 2006_; or
+
+                     (c)  Part 6 of the _Telecommunications Act 1997_ to the extent to which that Part relates to telemarketing activities (within the meaning of that Part).
+
+## 73  Subsection 15(4) (definition of _ACMA’s telecommunications powers_)
+
+Omit “_Telecommunications Act 1997._”, substitute:
+
+_Telecommunications Act 1997_, but does not include powers conferred on the ACMA by or under:
+
+                     (a)  the _Do Not Call Register Act 2006_; or
+
+                     (b)  the _Telecommunications Act 1997_ to the extent to which that Act relates to the _Do Not Call Register Act 2006_; or
+
+                     (c)  Part 6 of the _Telecommunications Act 1997_ to the extent to which that Part relates to telemarketing activities (within the meaning of that Part).
+
+As at 11 July 2006 the amendments are not incorporated in this compilation.
+
 
 ## Table A
 
 ### Application, saving or transitional provisions
 
 _Telecommunications (Carrier Licence Charges) Amendment Act 2005 
- (No. 46, 2005)_
+(No. 46, 2005)
+_
 
-## Schedule 2
+## Schedule 2
 
 ## 1  Definitions
 
@@ -559,11 +599,13 @@ A determination made by the ACA under subsection 9(1) or 14(1), or paragraph 15(
 
 (2)        The ACA’s costs for a financial year are to be determined as if the amendments made by Schedule 1 to this Act to the definition of **_cost_** in subsection 15(4) of the Imposition Act had not been made.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
 
-_Telecommunications (Carrier Licence Charges) Amendment (Industry Plans and Consumer Codes) Act 2005 (No. 116, 2005)_
+ </div>
 
-## Schedule 1
+_Telecommunications (Carrier Licence Charges) Amendment (Industry Plans and Consumer Codes) Act 2005 (No. 116, 2005)_
+
+## Schedule 1
 
 ## 10  Application of amendments
 
@@ -578,5 +620,8 @@ _Telecommunications (Carrier Licence Charges) Amendment (Industry Plans and Cons
                              (ii)  the immediately preceding financial year is a zero-cost financial year; or
 
                      (b)  a financial year that is later than that first financial year.
+
+
+ 
 
  
