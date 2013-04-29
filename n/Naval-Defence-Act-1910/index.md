@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00216/Html/62a0fdc1-a4a6-47be-9bf0-f247c2febeb3_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00057/Html/NavalDefence1910WD02_image001.gif)
 
 # Naval Defence Act 1910
 
 **Act No. 30 of 1910 as amended**
 
-This compilation was prepared on 7 February 2012
- taking into account amendments up to Act No. 183 of 2011
+This compilation was prepared on 5 February 2010
+ taking into account amendments up to Act No. 54 of 2009
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -14,65 +14,65 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
 **Part I—Introductory**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[3](#3).            Interpretation
+[3](#3).            Interpretation                                                                                       1
 
-[5A](#5A).         Extension of Act to Territories
+[5A](#5A).         Extension of Act to Territories                                                            1
 
-[5B](#5B).         Application of the _Criminal Code_
+[5B](#5B).         Application of the _Criminal Code_                                                       2
 
-[6](#6).            Act does not appropriate money
+[6](#6).            Act does not appropriate money                                                        2
 
 **Part III—The Australian Navy**
 
-[19](#19).          Australian Navy
+[19](#19).          Australian Navy                                                                                  3
 
-[20](#20).          Permanent Navy
+[20](#20).          Permanent Navy                                                                                  3
 
-[21](#21).          Naval Reserve
+[21](#21).          Naval Reserve                                                                                      3
 
-[24](#24).          Voluntary entry
+[24](#24).          Voluntary entry                                                                                   3
 
 **Part IV—The service of the Navy**
 
-[31](#31).          Service of the Permanent Navy
+[31](#31).          Service of the Permanent Navy                                                           4
 
-[32A](#32A).       Service of the Naval Reserve
+[32A](#32A).       Service of the Naval Reserve                                                               4
 
-[33](#33).          Limits of service
+[33](#33).          Limits of service                                                                                  5
 
 **Part V—Cadets**
 
-[38](#38).          Establishment and constitution of the Australian Navy Cadets
+[38](#38).          Establishment and constitution of the Australian Navy Cadets         6
 
-[39](#39).          Administration of the Australian Navy Cadets
+[39](#39).          Administration of the Australian Navy Cadets                                   7
 
 **Part VI—Special powers in relation to Naval ships, Naval establishments and civil employment**
 
-[40](#40).          Interpretation
+[40](#40).          Interpretation                                                                                       8
 
-[42](#42).          Employment of persons in civil capacity
+[42](#42).          Employment of persons in civil capacity                                            8
 
-[42A](#42A).       Determination of conditions of employment
+[42A](#42A).       Determination of conditions of employment                                      8
 
-[42C](#42C).       Public Service Act not to apply
+[42C](#42C).       Public Service Act not to apply                                                          9
 
-[42D](#42D).       Transfer of persons where functions are to be performed by a Commonwealth authority
+[42D](#42D).       Transfer of persons where functions are to be performed by a Commonwealth authority    10
 
 **Part VII—Miscellaneous**
 
-[44B](#44B).       Delegation
+[44B](#44B).       Delegation                                                                                          11
 
-[44E](#44E).        Intoxicating liquor not to be supplied to Australian Navy Cadets
+[44E](#44E).        Intoxicating liquor not to be supplied to Australian Navy Cadets    12
 
-[45](#45).          Regulations
+[45](#45).          Regulations                                                                                        12
 
 **Notes** 
 
@@ -98,7 +98,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="sailor"></a>**_sailor_** means a member of the Navy not being an officer.
 
-                    <a name="subordin-offic"></a>**_subordinate officer_** means a person who holds the rank in the Navy of Acting Sub‑Lieutenant, Midshipman or Cadet Midshipman.
+                    <a name="subordin-offic"></a>**_subordinate officer_** means a person who holds the rank in the Navy of Acting Sub-Lieutenant, Midshipman or Cadet Midshipman.
 
                     <a name="defenc-act"></a>**_the Defence Act_** means the _Defence Act 1903_.
 
@@ -326,7 +326,7 @@ and where, in a determination, provision is made in contravention of this subsec
 
                      (b)  the person is a member of the Australian Navy Cadets, is under such age as is prescribed, and is in uniform.
 
-                    Maximum penalty: $40.
+                    Maximum penalty:    $40.
 
              (2)  Subsection (1) does not apply if the liquor is sold or supplied by direction of a duly qualified medical practitioner.
 
@@ -338,7 +338,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 ##### <a id="45"></a>45  Regulations
 
-             (1)  The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters which by this Act are required or permitted to be prescribed, or which are necessary or convenient to be prescribed, for securing the good government of the Navy, or for carrying out or giving effect to this Act, and in particular prescribing matters for or in relation to:
+             (1)  The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters which by this Act are required or permitted to be prescribed, or which are necessary or convenient to be prescribed, for securing the good government of the Navy, or for carrying out or giving effect to this Act, and in particular prescribing matters for or in relation to:
 
                      (a)  the good government of naval establishments;
 
@@ -368,11 +368,11 @@ All relevant information pertaining to application, saving or transitional provi
 
 <table>
 <colgroup>
-  <col width="30%">
-  <col width="15%">
+  <col width="31%">
+  <col width="16%">
   <col width="18%">
   <col width="21%">
-  <col width="17%">
+  <col width="15%">
 </colgroup>
 
 <thead>
@@ -637,7 +637,7 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Defence Force Re‑organization Act 1975</div>
+    <div>Defence Force Re-organization Act 1975</div>
   </td>
   <td>
     <div>96, 1975</div>
@@ -1418,30 +1418,13 @@ S. 2(2) (am. by 135, 2003, Sch. 2 \[item 28])</div>
   <td>
     <div>Sch. 7 (items 6, 7) (ad. by SLI 2009 No. 165, Sch. 2 \[item 3]) \[ <i>see</i>Note 1 and Table A]</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>183, 2011</div>
-  </td>
-  <td>
-    <div>6 Dec 2011</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 36–52): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 42) \[ <i>see</i>Table A]</div>
-  </td>
 </tr></table>
 
-_(a)_     The _Naval Defence Act 1910_ was amended by sections 62–89 only of the _Defence Force Re‑Organization Act 1975_, section 2 of which provides as follows:
+_(a)_     The _Naval Defence Act 1910_ was amended by sections 62–89 only of the _Defence Force Re-Organization Act 1975_, section 2 of which provides as follows:
 
                     2   This Part shall come into operation on the day on which this Act receives the Royal Assent, and the remaining provisions of this Act shall come into operation on such date as is, or such respective dates as are, fixed by Proclamation.
 
-_(b)_     The _Naval Defence Act 1910_ was amended by Part XV (sections 61–72) only of the _Statute Law Revision Act 1981_, subsection 2(2) of which provides as follows:
+_(b)_    The _Naval Defence Act 1910_ was amended by Part XV (sections 61–72) only of the _Statute Law Revision Act 1981_, subsection 2(2) of which provides as follows:
 
                  (2)   Parts III, X and XV and section 116 shall come into operation on a date to be fixed by Proclamation.
 
@@ -1451,7 +1434,7 @@ _(c)_     The _Naval Defence Act 1910_ was amended by Part LXXVII (sec
 
 _(d)_     The _Naval Defence Act 1910_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1983_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
 
 _(e)_     The _Naval Defence Act 1910_ was amended by section 41 only of the _Conciliation and Arbitration Amendment Act (No. 2) 1983_, subsection 2(2) of which provides as follows:
 
@@ -1459,11 +1442,11 @@ _(e)_     The _Naval Defence Act 1910_ was amended by section 41 only 
 
 _(f)_      The _Naval Defence Act 1910_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1984_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
 
 _(g)_     The _Naval Defence Act 1910_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
 
 _(h)_     The _Naval Defence Act 1910_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1986_, subsection 2(1) of which provides as follows:
 
@@ -1718,13 +1701,14 @@ _(v)_     Subsection 2(1) (item 23) of the _Fair Work (State Referral 
   </td>
   <td>
     <div>
-      Immediately after the commencement of Part 2‑4 of the
+      Immediately after the commencement of Part 2-4 of the
         <i>Fair Work Act 2009</i>.
     </div>
   </td>
   <td>
     <div>
-      1 July 2009
+      1 July 2009 (
+        <i>see</i>F2009L02563)
     </div>
   </td>
 </tr></table>
@@ -3906,108 +3890,6 @@ Schedules</div>
   </td>
 </tr></table>
 
-### Note 2
-
-_Defence Legislation Amendment Act 2011 (No. 183, 2011)_
-
-The following amendments commence on 6 June 2012 unless proclaimed earlier:
-
-## Schedule 1
-
-## 36  Before subsection 38(2)
-
-Insert:
-
-Constitution of the Australian Navy Cadets
-
-## 37  Before subsection 38(3)
-
-Insert:
-
-Relationship to the Navy
-
-## 38  Subsection 38(4)
-
-After “cadet”, insert “in the Australian Navy Cadets”.
-
-## 39  Before subsection 38(5)
-
-Insert:
-
-Age requirements for cadets
-
-## 40  Subsections 38(5) and (6)
-
-After “he”, insert “or she”.
-
-## 41  Subsection 38(7)
-
-Repeal the subsection, substitute:
-
-Regulations about the Australian Navy Cadets
-
-             (7)  The regulations may make provision for or in relation to the organization, maintenance, regulation, control and discipline of the Australian Navy Cadets and, in particular, for and in relation to:
-
-                     (a)  the periods and conditions of service of members, other than conditions of service with respect to which determinations under section 58B of the Defence Act may be made; and
-
-                     (b)  the promotion of members.
-
-## 43  Section 39
-
-Before “Subject”, insert “(1)”.
-
-## 44  Section 39
-
-Omit “and to the directions of the Minister, the Chief of Navy shall”, substitute “, to any directions of the Minister and to any directions of the Chief of the Defence Force, the Chief of Navy is to”.
-
-## 45  At the end of section 39
-
-Add:
-
-             (2)  A direction of the Chief of the Defence Force under subsection (1) is subject to, and must be in accordance with, any directions of the Minister.
-
-## 46  Before subsection 44B(3)
-
-Insert:
-
-Delegation by the Chief of Navy
-
-## 47  Subsection 44B(3)
-
-After “his”, insert “or her”.
-
-## 48  After subsection 44B(3)
-
-Insert:
-
-Delegation by the Chief of the Defence Force
-
-          (3A)  The Chief of the Defence Force may, by instrument in writing, delegate to the Vice Chief of the Defence Force, his or her power under subsection 39(1).
-
-## 49  Before subsection 44B(4)
-
-Insert:
-
-Delegation by the authorized person
-
-## 50  Subsection 44B(4)
-
-After “his”, insert “or her”.
-
-## 51  Before subsection 44B(5)
-
-Insert:
-
-General provisions about delegations
-
-## 52  Before subsection 44B(10)
-
-Insert:
-
-Definition of **authorized person**
-
-As at the 7 February 2012 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -4024,7 +3906,7 @@ Sections 13K and 13M of the _Naval Defence Act 1910_ as in force before the co
 
 _Defence Legislation Amendment (Flexible Career Practices) Act 2000 (No. 113, 2000)_
 
-##### <a id="4"></a>4  Application of amendments
+##### <a id="4"></a>4  Application of amendments
 
                    The amendments made by items 3, 4, 5, 8, 9 and 11 of Schedule 1 do not apply in relation to appointments made before the commencement of this Act.
 
@@ -4044,9 +3926,9 @@ Although item 69 repeals sections 25 to 30A of the _Naval Defence Act 1910_,
 
 ## 93  Most of the old provisions may be superseded by new regulations
 
-(1)       However, the repealed provisions mentioned in items 89, 90, 91 and 92 continue to apply under those items only to the extent that they are consistent with regulations made after the repeal for the purposes of section 124 of the _Defence Act 1903_.
+(1)        However, the repealed provisions mentioned in items 89, 90, 91 and 92 continue to apply under those items only to the extent that they are consistent with regulations made after the repeal for the purposes of section 124 of the _Defence Act 1903_.
 
-(2)       If such regulations are made, then:
+(2)        If such regulations are made, then:
 
                      (a)  to the extent of the inconsistency, those provisions permanently cease to apply from the time that the inconsistency arises; and
 
@@ -4054,19 +3936,19 @@ Although item 69 repeals sections 25 to 30A of the _Naval Defence Act 1910_,
 
 ## 94  Saving—old regulations
 
-(1)       Regulations that were in effect under any Act immediately before the commencement of this item continue to have effect after that time as if members of an arm of the Defence Force who were members of a particular part or component of that arm immediately before the commencement of this item were still members of that part or component after that time, even if that part or component no longer exists.
+(1)        Regulations that were in effect under any Act immediately before the commencement of this item continue to have effect after that time as if members of an arm of the Defence Force who were members of a particular part or component of that arm immediately before the commencement of this item were still members of that part or component after that time, even if that part or component no longer exists.
 
 _Example: Assume that, immediately before the commencement of this item, regulations imposed training obligations on members of the Air Force Specialist Reserve. Those obligations would continue to apply to former members of that Reserve after commencement, even though the Air Force Specialist Reserve itself is no longer mentioned in the Air Force Act 1923 and the members have now become members of the Air Force Reserve._
 
-(2)       However, regulations that continue in effect under this item do so only to the extent that they are not amended or revoked by later regulations.
+(2)        However, regulations that continue in effect under this item do so only to the extent that they are not amended or revoked by later regulations.
 
 ## 95  Regulations about transitional matters
 
-(1)       The regulations may make provision in relation to other saving and transitional matters in connection with the amendments made by this Schedule.
+(1)        The regulations may make provision in relation to other saving and transitional matters in connection with the amendments made by this Schedule.
 
-(2)       In particular, such regulations may deal with the status, after the commencement of the amendments, of persons who were members of the Defence Force immediately before that time.
+(2)        In particular, such regulations may deal with the status, after the commencement of the amendments, of persons who were members of the Defence Force immediately before that time.
 
-(3)       Subitem (2) does not limit the scope of subitem (1).
+(3)        Subitem (2) does not limit the scope of subitem (1).
 
 * * *
 
@@ -4111,17 +3993,5 @@ Subsection 42A(7) of the _Naval Defence Act 1910_ applies as if a reference in t
 ## 7  Application of Naval Defence Act 1910—item 5
 
 Subsection 42D(3) of the _Naval Defence Act 1910_ applies as if a reference in that subsection to the National Employment Standards includes a reference to the Australian Fair Pay and Conditions Standard, to the extent that the Australian Fair Pay and Conditions Standard continues to operate in accordance with the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_.
-
-* * *
-
-_Defence Legislation Amendment Act 2011 (No. 183, 2011)_
-
-The following provision commences on 6 June 2012 unless proclaimed earlier:
-
-## Schedule 1
-
-## 42  Saving provision—regulations
-
-The repeal of subsection 38(7) of the _Naval Defence Act 1910_ by this Schedule does not affect the continuity of regulations made under that subsection that are in force immediately before this Schedule commences.
 
  
