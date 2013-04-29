@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00114/Html/49841896-6bf0-41cd-a331-f17e3d4b9ac9_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00971/Html/18e8d6f3-8bf5-4ee8-a486-1281df9e7017_files/image001.gif)
 
 # Administrative Appeals Tribunal Act 1975
 
 **Act No. 91 of 1975 as amended**
 
-This compilation was prepared on 27 December 2011
+This compilation was prepared on 21 December 2011
  taking into account amendments up to Act No. 187 of 2011
 
 The text of any of those amendments not in force 
@@ -1530,13 +1530,23 @@ is not capable of being retired from office on the ground of invalidity (within 
 
 ##### <a id="24M"></a>24M  Acting Registrar
 
-                   The President may, in writing, appoint a person to act in the office of Registrar:
+             (1)  The President may, in writing, appoint a person to act in the office of Registrar:
 
                      (a)  during a vacancy in the office (whether or not an appointment has previously been made to the office); or
 
                      (b)  during any period, or during all periods, when the Registrar is absent from duty or from Australia or is, for any other reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+             (2)  A person appointed to act in the office of Registrar during a vacancy may not continue to act in that office for more than 12 months.
+
+             (3)  Anything done by or in relation to a person purporting to act under subsection (1) is not invalid on the ground that:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion for the person to act had not arisen or had ceased.
 
 ### Division 3—Other officers and staff of Tribunal
 
@@ -3532,7 +3542,7 @@ Special rule—appointment for a particular project
 
                      (e)  when the appointment ends or is terminated, the person is eligible for reappointment, whether for the purpose of taking part in the same project or another project or otherwise.
 
-##### <a id="53"></a>53  Remuneration and allowances
+##### <a id="53"></a>53  Remuneration and allowances
 
              (1)  An appointed member shall be paid such remuneration as is determined by the Remuneration Tribunal but, if no determination of that remuneration by that Tribunal is in operation, he or she shall be paid such remuneration as is prescribed.
 
@@ -5281,7 +5291,7 @@ Remainder: Royal Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 32–34) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 32–34) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
@@ -6531,34 +6541,10 @@ _(h)_ Subsection 2(1) (item 2) of the _Superannuation Legislation (Consequenti
 </tr>
 <tr>
   <td>
-    <div>S. 24L</div>
+    <div>Ss. 24L, 24M</div>
   </td>
   <td>
     <div>ad. No. 157, 1989</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 24M</div>
-  </td>
-  <td>
-    <div>ad. No. 157, 1989</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 24M</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
   </td>
 </tr>
 <tr>
@@ -8704,6 +8690,30 @@ s. 44AA(7)–(10)</div>
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 32  Subsection 24M(1)
+
+Omit “(1)”.
+
+## 33  At the end of subsection 24M(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 34  Subsections 24M(2) and (3)
+
+Repeal the subsections.
+
+As at 21 December 2011 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -9196,6 +9206,8 @@ continue to have effect on and after commencement as if those regulations had be
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
