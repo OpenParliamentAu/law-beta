@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00557/Html/bde69cb5-288c-477d-b734-38946eead4fd_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00119/Html/027352b4-8ee0-499f-9c06-3240368c5a3c_files/image001.gif)
 
 # Agricultural and Veterinary Chemicals Code Act 1994
 
 **Act No. 47 of 1994 as amended**
 
-This compilation was prepared on 21 July 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 1 March 2011
+ taking into account amendments up to Act No. 121 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -176,7 +176,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
     **Division 5—Suspension or cancellation of approval or registration**
 
-[35](#35).          Notice of proposed suspension or cancellation to be given to co‑ordinators
+[35](#35).          Notice of proposed suspension or cancellation to be given to co-ordinators
 
 [36](#36).          Suspension or cancellation of approval or registration for breach of condition
 
@@ -188,13 +188,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [40](#40).          Suspension or cancellation of approval or registration following reconsideration of continued approval or registration
 
-[41](#41).          Suspension or cancellation of approval or registration for non‑compliance with criteria for registration or approval
+[41](#41).          Suspension or cancellation of approval or registration for non-compliance with criteria for registration or approval
 
 [42](#42).          Cancellation of approval or registration at request of interested person
 
 [43](#43).          Effect of suspension of approval or registration
 
-[44](#44).          Inter‑related suspensions and cancellations
+[44](#44).          Inter-related suspensions and cancellations
 
 [45](#45).          How approval or registration is suspended or cancelled
 
@@ -294,7 +294,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
     **Division 7—Suspension or cancellation of listed registration**
 
-[56ZA](#56ZA).     Notice of proposed suspension or cancellation to be given to co‑ordinators
+[56ZA](#56ZA).     Notice of proposed suspension or cancellation to be given to co-ordinators
 
 [56ZB](#56ZB).     Suspension or cancellation of listed registration for breach of condition
 
@@ -304,7 +304,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [56ZE](#56ZE).     Suspension or cancellation of listed registration following reconsideration
 
-[56ZF](#56ZF).     Suspension or cancellation of listed registration for non‑compliance with criteria
+[56ZF](#56ZF).     Suspension or cancellation of listed registration for non-compliance with criteria
 
 [56ZG](#56ZG).     Cancellation of listed registration on request
 
@@ -430,13 +430,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [89](#89).          Certain statements prohibited
 
-    **Division 3—Date‑controlled chemical products**
+    **Division 3—Date-controlled chemical products**
 
 [89A](#89A).       Exclusion of certain chemical products
 
-[90](#90).          Manufacture or import of date‑controlled chemical product
+[90](#90).          Manufacture or import of date-controlled chemical product
 
-[91](#91).          Supply of date‑controlled chemical product
+[91](#91).          Supply of date-controlled chemical product
 
 [92](#92).          Abuse of warning on label prohibited
 
@@ -470,7 +470,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [104](#104).        Notice of recall to be published
 
-[105](#105).        Non‑compliance with recall notice
+[105](#105).        Non-compliance with recall notice
 
 [106](#106).        Recall under Competition and Consumer Act
 
@@ -484,7 +484,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [110](#110).        How application is made
 
-[111](#111).        Functions of co‑ordinators
+[111](#111).        Functions of co-ordinators
 
 [112](#112).        APVMA may grant or refuse application
 
@@ -538,9 +538,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [131](#131).        Searches to monitor compliance with Code
 
-[132](#132).        Offence‑related searches and seizures
+[132](#132).        Offence-related searches and seizures
 
-[133](#133).        Offence‑related warrants
+[133](#133).        Offence-related warrants
 
 [134](#134).        Announcement before entry
 
@@ -568,7 +568,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
     **Division 4—Miscellaneous enforcement provisions**
 
-[146](#146).        Self‑incrimination to be a reasonable excuse for non‑compliance with requirement
+[146](#146).        Self-incrimination to be a reasonable excuse for non-compliance with requirement
 
 [147](#147).        Time for bringing prosecutions
 
@@ -580,7 +580,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [151](#151).        Conduct by directors, servants and agents
 
-[152](#152).        Liability of persons acting on behalf of non‑residents
+[152](#152).        Liability of persons acting on behalf of non-residents
 
 **Part 10—Miscellaneous**
 
@@ -658,7 +658,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 RECOGNISING:
 
-                            (a)  that the protection of the health and safety of human beings, animals and the environment is essential to the well‑being of society and can be enhanced by putting in place a system to regulate agricultural chemical products and veterinary chemical products; and
+                            (a)  that the protection of the health and safety of human beings, animals and the environment is essential to the well-being of society and can be enhanced by putting in place a system to regulate agricultural chemical products and veterinary chemical products; and
 
                      (b)  that the principle of ecologically sustainable development requires a regulatory system that is designed to ensure that the use of such products at the present time will not impair the prospects of future generations; and
 
@@ -722,7 +722,7 @@ that relates to an offence against that Code or those Regulations, as the case m
 
 ##### <a id="6"></a>6  Regulations
 
-             (1)  The Governor‑General may make regulations prescribing matters:
+             (1)  The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by the Code to be prescribed by regulations within the meaning of the Code; or
 
@@ -950,7 +950,7 @@ _Section_
 
 **Division 5—Suspension or cancellation of approval or registration**
 
-35        Notice of proposed suspension or cancellation to be given to co‑ordinators
+35        Notice of proposed suspension or cancellation to be given to co-ordinators
 
 36        Suspension or cancellation of approval or registration for breach of condition
 
@@ -962,13 +962,13 @@ _Section_
 
 40        Suspension or cancellation of approval or registration following reconsideration of continued approval or registration
 
-41        Suspension or cancellation of approval or registration for non‑compliance with criteria for registration or approval
+41        Suspension or cancellation of approval or registration for non-compliance with criteria for registration or approval
 
 42        Cancellation of approval or registration at request of interested person
 
 43        Effect of suspension of approval or registration
 
-44        Inter‑related suspensions and cancellations
+44        Inter-related suspensions and cancellations
 
 45        How approval or registration is suspended or cancelled
 
@@ -1068,7 +1068,7 @@ _Section_
 
 **Division 7—Suspension or cancellation of listed registration**
 
-56ZA   Notice of proposed suspension or cancellation to be given to co‑ordinators
+56ZA   Notice of proposed suspension or cancellation to be given to co-ordinators
 
 56ZB   Suspension or cancellation of listed registration for breach of condition
 
@@ -1078,7 +1078,7 @@ _Section_
 
 56ZE   Suspension or cancellation of listed registration following reconsideration
 
-56ZF   Suspension or cancellation of listed registration for non‑compliance with criteria
+56ZF   Suspension or cancellation of listed registration for non-compliance with criteria
 
 56ZG   Cancellation of listed registration on request
 
@@ -1204,13 +1204,13 @@ _Section_
 
 89        Certain statements prohibited
 
-**Division 3—Date‑controlled chemical products**
+**Division 3—Date-controlled chemical products**
 
 89A     Exclusion of certain chemical products
 
-90        Manufacture or import of date‑controlled chemical product
+90        Manufacture or import of date-controlled chemical product
 
-91        Supply of date‑controlled chemical product
+91        Supply of date-controlled chemical product
 
 92        Abuse of warning on label prohibited
 
@@ -1244,7 +1244,7 @@ _Section_
 
 104      Notice of recall to be published
 
-105      Non‑compliance with recall notice
+105      Non-compliance with recall notice
 
 106      Recall under Competition and Consumer Act
 
@@ -1258,7 +1258,7 @@ _Section_
 
 110      How application is made
 
-111      Functions of co‑ordinators
+111      Functions of co-ordinators
 
 112      APVMA may grant or refuse application
 
@@ -1312,9 +1312,9 @@ _Section_
 
 131      Searches to monitor compliance with Code
 
-132      Offence‑related searches and seizures
+132      Offence-related searches and seizures
 
-133      Offence‑related warrants
+133      Offence-related warrants
 
 134      Announcement before entry
 
@@ -1342,7 +1342,7 @@ _Section_
 
 **Division 4—Miscellaneous enforcement provisions**
 
-146      Self‑incrimination to be a reasonable excuse for non‑compliance with requirement
+146      Self-incrimination to be a reasonable excuse for non-compliance with requirement
 
 147      Time for bringing prosecutions
 
@@ -1354,7 +1354,7 @@ _Section_
 
 151      Conduct by directors, servants and agents
 
-152      Liability of persons acting on behalf of non‑residents
+152      Liability of persons acting on behalf of non-residents
 
 **Part 10—Miscellaneous**
 
@@ -1542,7 +1542,7 @@ _Section_
 </tr>
 <tr>
   <td>
-    <div>co‑ordinator</div>
+    <div>co-ordinator</div>
   </td>
 </tr>
 <tr>
@@ -1557,7 +1557,7 @@ _Section_
 </tr>
 <tr>
   <td>
-    <div>date‑controlled chemical product</div>
+    <div>date-controlled chemical product</div>
   </td>
 </tr>
 <tr>
@@ -1617,7 +1617,7 @@ _Section_
 </tr>
 <tr>
   <td>
-    <div>food‑producing species</div>
+    <div>food-producing species</div>
   </td>
 </tr>
 <tr>
@@ -1833,7 +1833,7 @@ _Section_
 </tr>
 <tr>
   <td>
-    <div>re‑entry period</div>
+    <div>re-entry period</div>
   </td>
 </tr>
 <tr>
@@ -2088,7 +2088,7 @@ _Section_
 
                     <a name="agricultur-chemic-product"></a>**_agricultural chemical product_** has the meaning given by section 4.
 
-                    <a name="anim"></a>**_animal_** means any animal (other than a human being), whether vertebrate or not, and whether a food‑producing species or not, and includes:
+                    <a name="anim"></a>**_animal_** means any animal (other than a human being), whether vertebrate or not, and whether a food-producing species or not, and includes:
 
                      (a)  mammals, birds, bees, reptiles, amphibians, fish, crustaceans and molluscs; and
 
@@ -2134,7 +2134,7 @@ _Section_
 
                     <a name="companion-anim-product"></a>**_companion animal product_** means a veterinary chemical product solely for administration or application to animals that:
 
-                     (a)  are not food‑producing species; and
+                     (a)  are not food-producing species; and
 
                      (b)  are not prescribed by the regulations.
 
@@ -2168,7 +2168,7 @@ but does not include:
 
                     <a name="continu-us"></a>**_continued use_** of an active constituent for a proposed or existing chemical product, or of a chemical product, includes any dealing with the constituent or product.
 
-                    <a name="co-ordin"></a>**_co‑ordinator_**, in relation to a jurisdiction, means a person designated:
+                    <a name="co-ordin"></a>**_co-ordinator_**, in relation to a jurisdiction, means a person designated:
 
                      (a)  if the jurisdiction is a State—by a Minister of the State; or
 
@@ -2178,13 +2178,13 @@ but does not include:
 
                              (ii)  if there is more than one participating Territory—jointly by a Minister of the Commonwealth and a Minister of the Australian Capital Territory;
 
-to perform the functions of a co‑ordinator under this Code.
+to perform the functions of a co-ordinator under this Code.
 
                     <a name="correspond-previou-law"></a>**_corresponding previous law_** means a previous law of this jurisdiction that corresponds wholly or partly to this Code, to the extent that it so corresponds.
 
                     <a name="criteria"></a>**_criteria_** includes standards.
 
-                    <a name="date-control-chemic-product"></a>**_date‑controlled chemical product_** means a chemical product declared by the regulations to be a date‑controlled chemical product.
+                    <a name="date-control-chemic-product"></a>**_date-controlled chemical product_** means a chemical product declared by the regulations to be a date-controlled chemical product.
 
                     <a name="date-manufactur"></a>**_date of manufacture_**, in relation to a chemical product, means the date on which formulation of the product was completed.
 
@@ -2216,11 +2216,11 @@ to perform the functions of a co‑ordinator under this Code.
 
                     <a name="file"></a>**_file_** includes a file of information stored or recorded by means of a computer.
 
-                    <a name="food-produc-speci"></a>**_food‑producing species_** means an animal that produces food for human consumption or is used as food for human beings, and includes:
+                    <a name="food-produc-speci"></a>**_food-producing species_** means an animal that produces food for human consumption or is used as food for human beings, and includes:
 
                      (a)  any buffalo, cattle, deer, fish (other than ornamental fish), goat, kangaroo, pig, poultry, rabbit, sheep, bee, crustacean or mollusc; or
 
-                     (b)  any animal declared by the regulations to be a food‑producing species.
+                     (b)  any animal declared by the regulations to be a food-producing species.
 
                     <a name="give-inform"></a>**_give information_** includes make a statement.
 
@@ -2308,7 +2308,7 @@ to perform the functions of a co‑ordinator under this Code.
 
                     <a name="pest"></a>**_pest_** means:
 
-                     (a)  in relation to an animal, plant or thing—any animal, plant or other biological entity that injuriously affects the physical condition, worth or utility of the first‑mentioned animal or plant or of that thing; or
+                     (a)  in relation to an animal, plant or thing—any animal, plant or other biological entity that injuriously affects the physical condition, worth or utility of the first-mentioned animal or plant or of that thing; or
 
                      (b)  in relation to a place—an animal, plant or other biological entity that injuriously affects the use or enjoyment of that place.
 
@@ -2360,7 +2360,7 @@ whether or not the approval or registration was a result of an application by a 
 
                      (b)  the term of the letters patent (including any extension of that term) has ended, or will end during the protection period that applies to protected information about that product;
 
-                    but does not include a chemical product in respect of which the instructions on the approved label, or each of the approved labels, state that the product should be used only in relation to a particular class of animals that are not a food‑producing species.
+                    but does not include a chemical product in respect of which the instructions on the approved label, or each of the approved labels, state that the product should be used only in relation to a particular class of animals that are not a food-producing species.
 
                     <a name="protect-commod"></a>**_protected commodity_** means:
 
@@ -2404,7 +2404,7 @@ but does not include information obtained only for the purpose of assessing the 
 
                     <a name="record-permit"></a>**_Record of Permits_** means the Record of Permits kept under section 113.
 
-                    <a name="re-entri-period"></a>**_re‑entry period_**, in relation to the use of a chemical product in a particular place (including a use of the product in relation to a crop or pasture in that place), means the period after that use during which it is unsafe for a person to enter the place without wearing appropriate protective clothing or equipment, or both.
+                    <a name="re-entri-period"></a>**_re-entry period_**, in relation to the use of a chemical product in a particular place (including a use of the product in relation to a crop or pasture in that place), means the period after that use during which it is unsafe for a person to enter the place without wearing appropriate protective clothing or equipment, or both.
 
                     <a name="regist-chemic-product"></a>**_Register of Chemical Products_** means the Register of Agricultural and Veterinary Chemical Products kept under section 18.
 
@@ -2880,7 +2880,7 @@ the APVMA must notify Food Standards Australia New Zealand of the application.
 
                              (v)  the withholding period after the use of the product;
 
-                            (vi)  the re‑entry period after the use of the product;
+                            (vi)  the re-entry period after the use of the product;
 
                            (vii)  the disposal of the product when it is no longer required;
 
@@ -3442,7 +3442,7 @@ the APVMA must as soon as practicable:
 
                      (e)  give written notice to the interested person or to an approved person stating that it affirms the approval or registration on the conditions to which the approval or registration is currently subject and giving brief particulars of the reasons for its decision; and
 
-                      (f)  if it caused a notice to be published under subsection 32(1) in relation to its proposed reconsideration of the approval or registration—cause to be published, in the same way as the first‑mentioned notice, a notice stating that it has affirmed the approval or registration on the conditions to which the approval or registration is currently subject.
+                      (f)  if it caused a notice to be published under subsection 32(1) in relation to its proposed reconsideration of the approval or registration—cause to be published, in the same way as the first-mentioned notice, a notice stating that it has affirmed the approval or registration on the conditions to which the approval or registration is currently subject.
 
              (2)  In satisfying itself as mentioned in paragraph (1)(a) or (b), the APVMA must have regard to the matters referred to in subsection 14(4), (5) or (6), as the case requires.
 
@@ -3468,7 +3468,7 @@ the APVMA must as soon as practicable:
 
           (5A)  The APVMA may only vary a condition of the approval of a label that was imposed under subsection 23A(2).
 
-          (5B)  If a variation of any relevant particulars or conditions under subsection (5) would affect any instructions for the use of an active constituent for an existing or proposed chemical product or for the use of a chemical product or any instructions on a label for containers for a chemical product, the APVMA must not make the variation until it has consulted each co‑ordinator designated for a jurisdiction and taken into account any recommendations made by the co‑ordinators.
+          (5B)  If a variation of any relevant particulars or conditions under subsection (5) would affect any instructions for the use of an active constituent for an existing or proposed chemical product or for the use of a chemical product or any instructions on a label for containers for a chemical product, the APVMA must not make the variation until it has consulted each co-ordinator designated for a jurisdiction and taken into account any recommendations made by the co-ordinators.
 
              (6)  A notice given under subsection (4) must give brief particulars of the reasons for the APVMA’s decision and, if subsection (5) applies, also give brief particulars of the reasons for the variation of the conditions of the approval or registration.
 
@@ -3889,7 +3889,7 @@ Note 1:       This section has effect for the purposes of item 3 o
 
 Note 2:       This section is not relevant to information if section 34D provides an exception to the prohibition in subsection 34C(1) on the APVMA using the information.
 
-Extension of 8‑year limits
+Extension of 8-year limits
 
              (2)  The period mentioned in item 1 or 2 of the table in subsection (1) in relation to:
 
@@ -3947,11 +3947,11 @@ is extended by 1 year for each 5 distinct uses that meet the requirements in sub
 
 ### Division 5—Suspension or cancellation of approval or registration
 
-##### <a id="35"></a>35  Notice of proposed suspension or cancellation to be given to co‑ordinators
+##### <a id="35"></a>35  Notice of proposed suspension or cancellation to be given to co-ordinators
 
                    The APVMA must not suspend or cancel an approval or registration unless:
 
-                     (a)  it has given notice of the proposed suspension or cancellation to each co‑ordinator designated for a jurisdiction; and
+                     (a)  it has given notice of the proposed suspension or cancellation to each co-ordinator designated for a jurisdiction; and
 
                      (b)  a period of 10 working days, or any other period that the APVMA thinks adequate in a particular case, has elapsed since the notice was given.
 
@@ -4013,7 +4013,7 @@ the APVMA may suspend the registration of either or both of those products.
 
 the APVMA may suspend or cancel the approval.
 
-##### <a id="41"></a>41  Suspension or cancellation of approval or registration for non‑compliance with criteria for registration or approval
+##### <a id="41"></a>41  Suspension or cancellation of approval or registration for non-compliance with criteria for registration or approval
 
              (1)  The APVMA may suspend or cancel the approval of an active constituent for a proposed or existing chemical product, or the registration of a chemical product, if it appears to the APVMA that, having regard to the matters referred to in subsection 14(4) or (5), as the case requires, the continued use of, or any other dealing with, the constituent or product in accordance with the instructions for its use or for such a dealing that the APVMA has approved:
 
@@ -4061,7 +4061,7 @@ the APVMA must cancel the approval or registration.
 
              (3)  An approval or registration may be cancelled even though it is suspended.
 
-##### <a id="44"></a>44  Inter‑related suspensions and cancellations
+##### <a id="44"></a>44  Inter-related suspensions and cancellations
 
              (1)  If the APVMA suspends or cancels the only approval, or all the approvals, of an active constituent for a proposed or existing chemical product, it must also suspend or cancel any registration of that product.
 
@@ -4213,7 +4213,7 @@ and must give written notice to an approved person of the renewal and the period
 
                      (a)  the APVMA grants the application; or
 
-                     (b)  if the APVMA decides to refuse to grant the application because of non‑payment of an amount as mentioned in subsection (5)—the APVMA gives written notice of its decision to an approved person.
+                     (b)  if the APVMA decides to refuse to grant the application because of non-payment of an amount as mentioned in subsection (5)—the APVMA gives written notice of its decision to an approved person.
 
              (7)  If the APVMA accepts a late application under subsection 48(3) and grants the application, the registration continues in force, or is taken to have continued in force, as the case may be, until the application is or was granted.
 
@@ -4419,7 +4419,7 @@ Note:          For strict liability, see section 6.1 of the 
 
              (1)  The regulations may contain a schedule listing chemical products, or classes of chemical products, that can be granted listed registration under this Part.
 
-             (2)  Before the Governor‑General makes a regulation listing a chemical product, or a class of chemical products:
+             (2)  Before the Governor-General makes a regulation listing a chemical product, or a class of chemical products:
 
                      (a)  the listing of the product, or class of products, must have been recommended to the Minister by the APVMA; and
 
@@ -4433,7 +4433,7 @@ Note:          For strict liability, see section 6.1 of the 
 
                             (iv)  a written statement identifying the consultations held by, and setting out the advice given to, the APVMA in relation to the proposed listing of the products or class of products.
 
-             (3)  The Minister may, before the Governor‑General makes a regulation listing a chemical product or class of chemical products, require the APVMA to cause to be published in the _Gazette_, and to be published in any other manner that the Minister thinks appropriate, a notice:
+             (3)  The Minister may, before the Governor-General makes a regulation listing a chemical product or class of chemical products, require the APVMA to cause to be published in the _Gazette_, and to be published in any other manner that the Minister thinks appropriate, a notice:
 
                      (a)  stating that it has recommended the listing of the product or class of products; and
 
@@ -4527,7 +4527,7 @@ Note:          For strict liability, see section 6.1 of the 
 
                              (v)  the withholding period after the use of the product;
 
-                            (vi)  the re‑entry period after the use of the product;
+                            (vi)  the re-entry period after the use of the product;
 
                            (vii)  the disposal of the product when it is no longer required;
 
@@ -4885,7 +4885,7 @@ the APVMA must as soon as practicable:
 
                      (e)  give written notice to the interested person or to an approved person stating that it affirms the listed registration on the conditions to which the listed registration is currently subject and giving brief particulars of the reasons for its decision; and
 
-                      (f)  if it caused a notice to be published under subsection 56X(1) in relation to its proposed reconsideration of the listed registration—cause to be published, in the same way as the first‑mentioned notice, a notice stating that it has affirmed the listed registration on the conditions to which the listed registration is currently subject.
+                      (f)  if it caused a notice to be published under subsection 56X(1) in relation to its proposed reconsideration of the listed registration—cause to be published, in the same way as the first-mentioned notice, a notice stating that it has affirmed the listed registration on the conditions to which the listed registration is currently subject.
 
              (2)  In satisfying itself as mentioned in subparagraph (1)(c)(i), (ii) or (iii), the APVMA must have regard to the matters referred to in subsection 56E(2).
 
@@ -4911,11 +4911,11 @@ the APVMA must as soon as practicable:
 
 ### Division 7—Suspension or cancellation of listed registration
 
-##### <a id="56ZA"></a>56ZA  Notice of proposed suspension or cancellation to be given to co‑ordinators
+##### <a id="56ZA"></a>56ZA  Notice of proposed suspension or cancellation to be given to co-ordinators
 
                    The APVMA must not suspend or cancel a listed registration unless:
 
-                     (a)  it has given notice of the proposed suspension or cancellation to each co‑ordinator designated for a jurisdiction; and
+                     (a)  it has given notice of the proposed suspension or cancellation to each co-ordinator designated for a jurisdiction; and
 
                      (b)  a period of 10 working days, or any other period that the APVMA thinks adequate in a particular case, has elapsed since the notice was given.
 
@@ -4951,7 +4951,7 @@ the APVMA may suspend the listed registration.
 
                    If, in the course of reconsidering the listed registration of a chemical product, the APVMA is not satisfied that the relevant particulars or the conditions of the listed registration can be varied in such a way that the prescribed requirements for continued listed registration will be complied with, the APVMA may suspend or cancel the listed registration.
 
-##### <a id="56ZF"></a>56ZF  Suspension or cancellation of listed registration for non‑compliance with criteria
+##### <a id="56ZF"></a>56ZF  Suspension or cancellation of listed registration for non-compliance with criteria
 
              (1)  The APVMA may suspend or cancel the listed registration of a chemical product if it appears to the APVMA that, having regard to the matters referred to in subsection 56E(2), the continued use of, or any other dealing with, the product in accordance with instructions contained in the established standard:
 
@@ -5113,7 +5113,7 @@ and must give written notice to an approved person of the renewal and the period
 
                      (a)  the APVMA grants the application; or
 
-                     (b)  if the APVMA decides to refuse to grant the application because of non‑payment of an amount as mentioned in subsection (5)—the APVMA gives written notice of its decision to the applicant.
+                     (b)  if the APVMA decides to refuse to grant the application because of non-payment of an amount as mentioned in subsection (5)—the APVMA gives written notice of its decision to the applicant.
 
              (7)  If the APVMA accepts a late application under subsection 56ZL(3) and grants the application, the listed registration continues in force, or is taken to have continued in force, as the case may be, until the application is or was granted.
 
@@ -5269,7 +5269,7 @@ whichever first occurs.
 
              (3)  Regulations containing a schedule mentioned in subsection (1) must state the conditions to which the possession, having custody of, use of, or other dealing with, each chemical product, or each chemical product included in a class of chemical products, specified in the schedule is subject.
 
-             (4)  Before the Governor‑General makes a regulation for the purposes of this section:
+             (4)  Before the Governor-General makes a regulation for the purposes of this section:
 
                      (a)  the reservation of the product, or class of products, must have been recommended to the Minister by the APVMA; and
 
@@ -5313,7 +5313,7 @@ whichever first occurs.
 
 and is not information that was obtained merely for the purpose of assessing the performance of the constituent or product.
 
-             (3)  Compensation is not payable in respect of information if the constituent or product is for use only in relation to a species of animals that is not a food‑producing species.
+             (3)  Compensation is not payable in respect of information if the constituent or product is for use only in relation to a species of animals that is not a food-producing species.
 
              (4)  The parties concerned are invited to negotiate the terms of the compensation and provision is made for the appointment of a mediator if the parties are unable to agree and for the terms to be arbitrated if the mediation is unsuccessful. If an arbitration takes place, the arbitrator is to base his or her decision on whichever of the proposals put forward by the parties is considered by the arbitrator to be the most reasonable assessment of the proportion of the cost of producing the information that it is fair for the party wishing to use it to pay to the party who provided it.
 
@@ -5477,7 +5477,7 @@ and the secondary applicant has notified the APVMA in writing of the failure to 
 
                      (d)  for any other reason refuses or fails to perform, or to complete the performance of, his or her functions as required by this section;
 
-the APVMA may appoint another person as mediator in place of the first‑mentioned person.
+the APVMA may appoint another person as mediator in place of the first-mentioned person.
 
              (4)  If another mediator is appointed under subsection (3), the period of 14 days referred to in paragraph (2)(c) is taken to have begun from the appointment of the first mediator but that period does not include any period after the occurrence of an event referred to in subsection (3) and before the appointment of the other mediator.
 
@@ -5495,13 +5495,13 @@ the APVMA may appoint another person as mediator in place of the first‑mention
 
                      (d)  for any other reason refuses or fails to perform, or to complete the performance of, his or her functions as required by this section;
 
-the APVMA may appoint another person as arbitrator in place of the first‑mentioned person.
+the APVMA may appoint another person as arbitrator in place of the first-mentioned person.
 
 ##### <a id="65"></a>65  Determination of compensation on the basis of proposals made during negotiations
 
              (1)  The arbitrator must consider the proposals as to the terms of the compensation that were made by the parties to the negotiations or each of the negotiations.
 
-             (2)  If a party to any negotiations made a proposal as to the terms of the compensation that the arbitrator considers to be reasonable and the other party failed to make any proposal as to those terms or failed to make a proposal that the arbitrator considers to be reasonable, the arbitrator must determine those terms in accordance with the first‑mentioned proposal.
+             (2)  If a party to any negotiations made a proposal as to the terms of the compensation that the arbitrator considers to be reasonable and the other party failed to make any proposal as to those terms or failed to make a proposal that the arbitrator considers to be reasonable, the arbitrator must determine those terms in accordance with the first-mentioned proposal.
 
              (3)  If each party to any negotiations made proposals as to the terms of the compensation that the arbitrator considers to be reasonable, the arbitrator must determine those terms in accordance with whichever of those proposals the arbitrator considers to be the most reasonable.
 
@@ -5511,7 +5511,7 @@ the APVMA may appoint another person as arbitrator in place of the first‑menti
 
 ##### <a id="67"></a>67  Determination on basis of fresh proposals
 
-             (1)  If a party to an arbitration makes a fresh proposal as to the terms of the compensation that the arbitrator considers to be reasonable and the other party fails to make any fresh proposal as to those terms or fails to make a fresh proposal that the arbitrator considers to be reasonable, the arbitrator must determine those terms in accordance with the first‑mentioned proposal.
+             (1)  If a party to an arbitration makes a fresh proposal as to the terms of the compensation that the arbitrator considers to be reasonable and the other party fails to make any fresh proposal as to those terms or fails to make a fresh proposal that the arbitrator considers to be reasonable, the arbitrator must determine those terms in accordance with the first-mentioned proposal.
 
              (2)  If each party to an arbitration makes fresh proposals as to the terms of the compensation that the arbitrator considers to be reasonable, the arbitrator must determine those terms in accordance with whichever of those proposals the arbitrator considers to be the most reasonable.
 
@@ -5605,7 +5605,7 @@ Note:          For strict liability, see section 6.1 of the 
 
              (4)  Division 2 contains provisions relating to active constituents or chemical products generally.
 
-             (5)  Division 3 contains special provisions relating to the manufacture and supply of date‑controlled chemical products.
+             (5)  Division 3 contains special provisions relating to the manufacture and supply of date-controlled chemical products.
 
              (6)  Division 4 relates to the supply of certain restricted chemical products.
 
@@ -6073,7 +6073,7 @@ Note:          The defendant bears a legal burden in relation 
 
                             (iii)  by an officer or employee of, or of an authority of, the Commonwealth, a State or a Territory;
 
-                     (e)  expressly or impliedly make a claim (however the claim is stated), without any qualification, or with a qualification that, in the APVMA’s opinion, is unjustified, to the effect that a chemical product is natural, organic, safe, harmless, non‑toxic, non‑poisonous, non‑injurious or environment‑friendly;
+                     (e)  expressly or impliedly make a claim (however the claim is stated), without any qualification, or with a qualification that, in the APVMA’s opinion, is unjustified, to the effect that a chemical product is natural, organic, safe, harmless, non-toxic, non-poisonous, non-injurious or environment-friendly;
 
                       (f)  expressly or impliedly claim that a chemical product has particular qualities if those qualities are prescribed by the regulations for the purposes of this paragraph.
 
@@ -6099,15 +6099,15 @@ Note:          The defendant bears an evidential burden in rel
 
 Note:          For strict liability, see section 6.1 of the _Criminal Code_.
 
-### Division 3—Date‑controlled chemical products
+### Division 3—Date-controlled chemical products
 
 ##### <a id="89A"></a>89A  Exclusion of certain chemical products
 
                    This Division does not apply to a chemical product that is a listable chemical product or is a reserved chemical product.
 
-##### <a id="90"></a>90  Manufacture or import of date‑controlled chemical product
+##### <a id="90"></a>90  Manufacture or import of date-controlled chemical product
 
-             (1)  A person who manufactures or imports a date‑controlled chemical product must:
+             (1)  A person who manufactures or imports a date-controlled chemical product must:
 
                      (a)  as soon as practicable make a record in or to the effect of the approved form and in the prescribed manner containing the date of manufacture, or the date of manufacture and import, as the case may be, of the product and any other particulars that are required by the regulations to be inserted in the record; and
 
@@ -6123,9 +6123,9 @@ Note:          The defendant bears an evidential burden in rel
 
 Note:          For strict liability, see section 6.1 of the _Criminal Code_.
 
-##### <a id="91"></a>91  Supply of date‑controlled chemical product
+##### <a id="91"></a>91  Supply of date-controlled chemical product
 
-             (1)  A person must not supply, or cause or permit to be supplied, a date‑controlled chemical product in a container that does not have attached to it an approved label containing:
+             (1)  A person must not supply, or cause or permit to be supplied, a date-controlled chemical product in a container that does not have attached to it an approved label containing:
 
                      (a)  matter that the APVMA has approved as sufficient to enable the APVMA to identify the date of manufacture of the product; and
 
@@ -6147,7 +6147,7 @@ Note:          The defendant bears an evidential burden in rel
 
 Note:          For strict liability, see section 6.1 of the _Criminal Code_.
 
-             (2)  If the container of a date‑controlled chemical product has attached to it a label containing an expiry date, a person must not, after that date, supply, or cause or permit to be supplied, the product that is in the container unless:
+             (2)  If the container of a date-controlled chemical product has attached to it a label containing an expiry date, a person must not, after that date, supply, or cause or permit to be supplied, the product that is in the container unless:
 
                      (a)  the person is authorised to do so by a permit; or
 
@@ -6295,7 +6295,7 @@ is admissible as _prima facie_ evidence of the matters stated in the certificate
 
                      (b)  reasonable efforts were made to give the copy and notice as required by paragraph (a) but those efforts were unsuccessful.
 
-             (4)  Subject to subsection (5), if, under subsection (1), a certificate of an analyst is admitted in evidence in a proceeding for an offence, the person charged with the offence may require the analyst to be called as a witness for the prosecution and the analyst may be cross‑examined as if he or she had given evidence of the matters stated in the certificate.
+             (4)  Subject to subsection (5), if, under subsection (1), a certificate of an analyst is admitted in evidence in a proceeding for an offence, the person charged with the offence may require the analyst to be called as a witness for the prosecution and the analyst may be cross-examined as if he or she had given evidence of the matters stated in the certificate.
 
              (5)  Subsection (4) does not entitle a person to require an analyst to be called as a witness for the prosecution unless:
 
@@ -6499,7 +6499,7 @@ the APVMA may give written notice to any person (the **_notified person_**) who 
 
              (2)  Each notice must contain a brief statement of the matters to which the recall notice relates.
 
-##### <a id="105"></a>105  Non‑compliance with recall notice
+##### <a id="105"></a>105  Non-compliance with recall notice
 
              (1)  A person to whom a recall notice is given must not fail to comply with the notice.
 
@@ -6519,7 +6519,7 @@ Note:          For strict liability, see section 6.1 of the 
 
 ##### <a id="107"></a>107  Inconsistent requirements
 
-                   If a requirement made under section 101, 102 or 103 is inconsistent with an earlier requirement made under any of those sections, the earlier requirement is, to the extent of the inconsistency, of no effect.
+                   If a requirement made under section 101, 102 or 103 is inconsistent with an earlier requirement made under any of those sections, the earlier requirement is, to the extent of the inconsistency, of no effect.
 
 ## Part 7—Permits
 
@@ -6563,37 +6563,37 @@ Note:          For strict liability, see section 6.1 of the 
 
              (4)  At any time after an application has been made and before it has been determined, the applicant may withdraw the application by giving to the APVMA written notice of the withdrawal signed by an approved person.
 
-##### <a id="111"></a>111  Functions of co‑ordinators
+##### <a id="111"></a>111  Functions of co-ordinators
 
-             (1)  If there is a co‑ordinator designated for this or another jurisdiction:
+             (1)  If there is a co-ordinator designated for this or another jurisdiction:
 
-                     (a)  the APVMA must, unless it thinks it inappropriate to do so, give the co‑ordinator a copy of the application and of any accompanying documents; and
+                     (a)  the APVMA must, unless it thinks it inappropriate to do so, give the co-ordinator a copy of the application and of any accompanying documents; and
 
                      (b)  if:
 
-                              (i)  the APVMA has given a copy of the application and documents referred to in paragraph (a) to a co‑ordinator; and
+                              (i)  the APVMA has given a copy of the application and documents referred to in paragraph (a) to a co-ordinator; and
 
-                             (ii)  the co‑ordinator requests any additional information for the purpose of enabling him or her to make a recommendation to the APVMA about the application;
+                             (ii)  the co-ordinator requests any additional information for the purpose of enabling him or her to make a recommendation to the APVMA about the application;
 
 then, unless the APVMA has reasonable grounds for refusing the request:
 
                             (iii)  the APVMA must, by written notice given to the applicant, require the applicant to give the additional information to the APVMA; and
 
-                            (iv)  when the APVMA receives the additional information, it must, as soon as practicable, give the information to the co‑ordinator; and
+                            (iv)  when the APVMA receives the additional information, it must, as soon as practicable, give the information to the co-ordinator; and
 
-                     (c)  when the co‑ordinator is satisfied that he or she has sufficient information to enable a recommendation to be made about the application, the co‑ordinator may give to the APVMA a recommendation as to whether the application should be granted.
+                     (c)  when the co-ordinator is satisfied that he or she has sufficient information to enable a recommendation to be made about the application, the co-ordinator may give to the APVMA a recommendation as to whether the application should be granted.
 
-             (2)  Any information given by a person to a co‑ordinator because of a requirement made under subsection (1) must be in writing and be signed by an approved person.
+             (2)  Any information given by a person to a co-ordinator because of a requirement made under subsection (1) must be in writing and be signed by an approved person.
 
 ##### <a id="112"></a>112  APVMA may grant or refuse application
 
-             (1)  The APVMA must consider the application and take into account any recommendations made by a co‑ordinator.
+             (1)  The APVMA must consider the application and take into account any recommendations made by a co-ordinator.
 
              (2)  The APVMA must grant the application if it is satisfied of the following:
 
                      (a)  that, having regard to criteria determined by it, the applicant is a suitable person to hold the permit applied for;
 
-                     (b)  that the applicant has complied with subsection 110(2) and any requirement made by a co‑ordinator to the APVMA under paragraph 111(1)(b);
+                     (b)  that the applicant has complied with subsection 110(2) and any requirement made by a co-ordinator to the APVMA under paragraph 111(1)(b);
 
                      (c)  that any requirement made under section 157 or 159 has been complied with;
 
@@ -6621,7 +6621,7 @@ then, unless the APVMA has reasonable grounds for refusing the request:
 
              (4)  If the APVMA refuses the application, it must:
 
-                     (a)  give written notice of the refusal to the applicant and to each co‑ordinator to whom a copy of the application was given; and
+                     (a)  give written notice of the refusal to the applicant and to each co-ordinator to whom a copy of the application was given; and
 
                      (b)  include in the notice brief particulars of the reasons for the refusal.
 
@@ -6673,7 +6673,7 @@ then, unless the APVMA has reasonable grounds for refusing the request:
 
                      (a)  place a copy of the permit in the Record of Permits; and
 
-                     (b)  if there is a co‑ordinator designated for this or another jurisdiction, tell the co‑ordinator that the permit has been issued and tell him or her of any conditions to which the permit is subject; and
+                     (b)  if there is a co-ordinator designated for this or another jurisdiction, tell the co-ordinator that the permit has been issued and tell him or her of any conditions to which the permit is subject; and
 
                      (c)  in prescribed circumstances, tell a prescribed authority that the permit has been issued.
 
@@ -6723,7 +6723,7 @@ the person does not commit an offence against that provision.
 
              (2)  The surrender of a permit takes effect when the APVMA receives the notice of surrender.
 
-             (3)  If there is a co‑ordinator designated for this or another jurisdiction, the APVMA must, as soon as practicable, tell the co‑ordinator that the permit has been surrendered.
+             (3)  If there is a co-ordinator designated for this or another jurisdiction, the APVMA must, as soon as practicable, tell the co-ordinator that the permit has been surrendered.
 
 ##### <a id="118"></a>118  Suspension of permit
 
@@ -6763,9 +6763,9 @@ the person does not commit an offence against that provision.
 
                      (a)  the APVMA suspends, or revokes the suspension of, a permit; and
 
-                     (b)  there is a co‑ordinator designated for this or another jurisdiction;
+                     (b)  there is a co-ordinator designated for this or another jurisdiction;
 
-the APVMA must, as soon as practicable, tell the co‑ordinator of the suspension or revocation.
+the APVMA must, as soon as practicable, tell the co-ordinator of the suspension or revocation.
 
 ##### <a id="119"></a>119  Cancellation of permit
 
@@ -6811,9 +6811,9 @@ the APVMA must, as soon as practicable, tell the co‑ordinator of the suspensio
 
                      (a)  a permit is cancelled or the cancellation of a permit is revoked; and
 
-                     (b)  there is a co‑ordinator designated for this or another jurisdiction;
+                     (b)  there is a co-ordinator designated for this or another jurisdiction;
 
-the APVMA must, as soon as practicable, tell the co‑ordinator of the cancellation or revocation.
+the APVMA must, as soon as practicable, tell the co-ordinator of the cancellation or revocation.
 
 ## Part 8—Manufacture of chemical products
 
@@ -7019,7 +7019,7 @@ Note:          For strict liability, see section 6.1 of the 
 
 ##### <a id="130"></a>130  Injunctions
 
-             (1)  If a person has engaged, or is proposing to engage, in any conduct that was or would be an offence against this Code, a court of competent jurisdiction may, on the application of any person, grant an injunction restraining the first‑mentioned person from engaging in the conduct and, if in the court’s opinion it is desirable to do so, requiring that person to do a particular thing.
+             (1)  If a person has engaged, or is proposing to engage, in any conduct that was or would be an offence against this Code, a court of competent jurisdiction may, on the application of any person, grant an injunction restraining the first-mentioned person from engaging in the conduct and, if in the court’s opinion it is desirable to do so, requiring that person to do a particular thing.
 
              (2)  If in the opinion of the court it is desirable to do so, the court may grant an interim injunction pending determination of an application under subsection (1).
 
@@ -7113,7 +7113,7 @@ Note:          The defendant bears an evidential burden in rel
 
 Note:          For strict liability, see section 6.1 of the _Criminal Code_.
 
-##### <a id="132"></a>132  Offence‑related searches and seizures
+##### <a id="132"></a>132  Offence-related searches and seizures
 
              (1)  If an inspector has reasonable grounds for suspecting that there may be at any premises a particular thing that may be evidence of the commission of an offence against this Code, the inspector, with any necessary help, may:
 
@@ -7145,7 +7145,7 @@ and the inspector believes, on reasonable grounds, that it is necessary to seize
 
                      (c)  if the seizure related to a substance and its container and the inspector suspects that there has been a contravention of this Code in respect of the label attached to the container—supervise the attaching to the container of a label in respect of which there is no such contravention.
 
-##### <a id="133"></a>133  Offence‑related warrants
+##### <a id="133"></a>133  Offence-related warrants
 
              (1)  An inspector may apply to a magistrate for a warrant under this section in relation to particular premises.
 
@@ -7417,7 +7417,7 @@ Note:          For strict liability, see section 6.1 of the 
 
 ### Division 4—Miscellaneous enforcement provisions
 
-##### <a id="146"></a>146  Self‑incrimination to be a reasonable excuse for non‑compliance with requirement
+##### <a id="146"></a>146  Self-incrimination to be a reasonable excuse for non-compliance with requirement
 
                    It is a reasonable excuse for a person to refuse or fail to give information, produce a document or do any other thing that the person is required to do by or under this Code that the information, the production of the document or the doing of that other thing would tend to incriminate the person.
 
@@ -7517,7 +7517,7 @@ the individual is not liable to be punished by imprisonment for the offence.
 
              (6)  A reference in this section to engaging in conduct includes a reference to failing or refusing to engage in conduct.
 
-##### <a id="152"></a>152  Liability of persons acting on behalf of non‑residents
+##### <a id="152"></a>152  Liability of persons acting on behalf of non-residents
 
              (1)  If:
 
@@ -7525,7 +7525,7 @@ the individual is not liable to be punished by imprisonment for the offence.
 
                      (b)  the doing of that thing is an offence against this Code;
 
-this Code has effect, in addition to the effect that it has apart from this subsection, as if the first‑mentioned person did that thing on that person’s own account and not on behalf of the other person.
+this Code has effect, in addition to the effect that it has apart from this subsection, as if the first-mentioned person did that thing on that person’s own account and not on behalf of the other person.
 
              (2)  If:
 
@@ -7537,7 +7537,7 @@ this Code has effect, in addition to the effect that it has apart from this subs
 
                      (b)  the failure of that person to do that thing is an offence against this Code;
 
-the approved person who signed the application for the approval of the constituent or the registration or listed registration, or the renewal of the registration or listed registration, of the product is taken to have been under the same liability under this Code as the first‑mentioned person to do that thing and, if the thing is not done by the approved person, is punishable accordingly.
+the approved person who signed the application for the approval of the constituent or the registration or listed registration, or the renewal of the registration or listed registration, of the product is taken to have been under the same liability under this Code as the first-mentioned person to do that thing and, if the thing is not done by the approved person, is punishable accordingly.
 
              (3)  For an offence that arises because of subsection (2), strict liability applies to paragraphs (2)(a) and (b).
 
@@ -7761,7 +7761,7 @@ becomes aware of any relevant information in relation to the constituent or in r
 
 ##### <a id="162"></a>162  Disclosure of confidential commercial information
 
-             (1)  A person who is or has been a director, the Chief Executive Officer, or a member of the staff, of the APVMA, or is or has been a consultant to the APVMA, a mediator or arbitrator appointed under this Code, or a co‑ordinator designated for a jurisdiction, must not disclose, directly or indirectly, to another person any information about an active constituent for a proposed or existing chemical product, about a chemical product or any of its constituents, or about a label for containers for a chemical product, that:
+             (1)  A person who is or has been a director, the Chief Executive Officer, or a member of the staff, of the APVMA, or is or has been a consultant to the APVMA, a mediator or arbitrator appointed under this Code, or a co-ordinator designated for a jurisdiction, must not disclose, directly or indirectly, to another person any information about an active constituent for a proposed or existing chemical product, about a chemical product or any of its constituents, or about a label for containers for a chemical product, that:
 
                      (a)  the person knows to be confidential commercial information; and
 
@@ -7823,7 +7823,7 @@ Note:          The defendant bears an evidential burden in rel
 
                      (a)  for the purpose of enabling the Government, body or person to give advice to the APVMA or to another Government, body or person in accordance with section 8 of the _Agricultural and Veterinary Chemicals (Administration) Act 1992_; or
 
-                     (b)  if the person is a co‑ordinator for a jurisdiction—for the purpose of enabling the co‑ordinator to make a recommendation to the APVMA in accordance with paragraph 111(1)(c).
+                     (b)  if the person is a co-ordinator for a jurisdiction—for the purpose of enabling the co-ordinator to make a recommendation to the APVMA in accordance with paragraph 111(1)(c).
 
 Note:          The defendant bears an evidential burden in relation to the matter in subsection (7). See subsection 13.3(3) of the _Criminal Code_.
 
@@ -7839,13 +7839,13 @@ Note:          The defendant bears an evidential burden in rel
 
 Note:          For strict liability, see section 6.1 of the _Criminal Code_.
 
-             (9)  If a person who is or has been a director, the Chief Executive Officer, or a member of the staff, of the APVMA, or is or has been a consultant to the APVMA, a mediator or arbitrator appointed under this Code, or a co‑ordinator designated for a jurisdiction, has disclosed to another person, except under subsection (3) or (7), any confidential commercial information about an active constituent for a proposed or existing chemical product, or about a chemical product or any of its constituents, that was acquired by the first‑mentioned person in the performance of functions or duties, or the exercise of powers, under this Code, the other person, and any person who is or has been under the control of the other person, must not disclose that information, directly or indirectly, to any person if the person disclosing the information knows that the information is confidential commercial information.
+             (9)  If a person who is or has been a director, the Chief Executive Officer, or a member of the staff, of the APVMA, or is or has been a consultant to the APVMA, a mediator or arbitrator appointed under this Code, or a co-ordinator designated for a jurisdiction, has disclosed to another person, except under subsection (3) or (7), any confidential commercial information about an active constituent for a proposed or existing chemical product, or about a chemical product or any of its constituents, that was acquired by the first-mentioned person in the performance of functions or duties, or the exercise of powers, under this Code, the other person, and any person who is or has been under the control of the other person, must not disclose that information, directly or indirectly, to any person if the person disclosing the information knows that the information is confidential commercial information.
 
                     Penalty:  Imprisonment for 2 years.
 
           (9A)  In subsection (9), strict liability applies to the physical elements of circumstance, that:
 
-                     (a)  the acquisition of the information by the first‑mentioned person was in the performance of functions or duties, or the exercise of powers, under this Code; and
+                     (a)  the acquisition of the information by the first-mentioned person was in the performance of functions or duties, or the exercise of powers, under this Code; and
 
                      (b)  the disclosure mentioned first in that subsection was made other than under subsection (3) or (7).
 
@@ -8079,7 +8079,7 @@ the disclosing person:
 
 ##### <a id="168"></a>168  Statement to be included in certain notices of decisions
 
-             (1)  If written notice of the making of a decision to which section 167 applies, or of the making of a decision under section 166 which, because of subsection 166(5), is taken to be a decision to which section 167 applies, is given to a person (other than a co‑ordinator designated for this or another jurisdiction), that notice must include a statement to the effect that:
+             (1)  If written notice of the making of a decision to which section 167 applies, or of the making of a decision under section 166 which, because of subsection 166(5), is taken to be a decision to which section 167 applies, is given to a person (other than a co-ordinator designated for this or another jurisdiction), that notice must include a statement to the effect that:
 
                      (a)  subject to the _Administrative Appeals Tribunal Act 1975_, application may be made by or on behalf of a person whose interests are affected by the decision to the Administrative Appeals Tribunal for review of the decision to which the notice relates; and
 
@@ -8101,7 +8101,7 @@ the disclosing person:
 
              (4)  If an individual is convicted of an indictable offence against this Code, the court may, if the court thinks it appropriate in all the circumstances of the case, impose, instead of, or in addition to, a penalty of imprisonment, a monetary penalty not greater than the number of penalty units worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00557/Html/bde69cb5-288c-477d-b734-38946eead4fd_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00119/Html/027352b4-8ee0-499f-9c06-3240368c5a3c_files/image002.gif)
 
 where:
 
@@ -8149,7 +8149,7 @@ and was so registered immediately before 24 March 2004  in relation to the nam
 
                             (a)   was using the name or symbol in good faith in that manner; or
 
-                            (b)   would have been entitled to prevent another person from passing off, by means of the use of the name of the symbol or a similar name or symbol, goods or services as the goods or services of the first‑mentioned person.
+                            (b)   would have been entitled to prevent another person from passing off, by means of the use of the name of the symbol or a similar name or symbol, goods or services as the goods or services of the first-mentioned person.
 
                  (5)   In this section:
 
@@ -8803,23 +8803,6 @@ Schedule 1 (item 5): Royal Assent</div>
   <td>
     <div>Sch. 1 (item 6)</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 49–51) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11)</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Agricultural and Veterinary Chemicals Code Act 1994_ was amended by the _Primary Industries and Energy Legislation Amendment Act (No. 2) 1994_, subsection 2(2) of which provides as follows:
@@ -8993,8 +8976,7 @@ _(g)_ Subsection 2(1) (item 4) of the _US__Free Trade Agreement Implementation
   <td>
     <div>
       1 January 2005
-    </div>
-    <div>
+
       (paragraph (a) applies)
     </div>
   </td>
@@ -11962,28 +11944,6 @@ Part 2A</div>
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 49  Section 9
-
-Omit “subsection 13(2)”, substitute “subsection 13(1)”.
-
-## 50  Subsection 3(1) of the Code set out in the Schedule (definition of _document_)
-
-Repeal the definition.
-
-## 51  Subparagraph 56D(5)(a)(viii) of the Code set out in the Schedule
-
-Omit “Standards Australia International Limited”, substitute “Standards Australia”.
-
-As at 21 July 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -12023,8 +11983,7 @@ A fee that was purported to have been paid under the regulations before the comm
 
 * * *
 
-_Food Standards Australia New Zealand Amendment Act 2007 
- (No. 98, 2007)_
+_Food Standards Australia New Zealand Amendment Act 2007 (No. 98, 2007)_
 
 ## Schedule 1
 
@@ -12153,21 +12112,5 @@ _Food Standards Australia New Zealand Amendment Act 2010
 ## 6  Application
 
 The amendments made by items 2 to 4 apply in relation to applications or variations made on or after the commencement of those items.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
