@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00767/Html/52424472-d766-4889-ba0a-f9aec3db1f29_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00519/Html/AUSSATRepeal1991_WD02_image001.gif)
 
 # AUSSAT Repeal Act 1991
 
 **Act No. 145 of 1991 as amended**
 
-This compilation was prepared on 22 September 2011
- taking into account amendments up to Act No. 100 of 2011
+This compilation was prepared on 22 September 2006
+ taking into account amendments up to Act No. 101 of 2006
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,43 +14,43 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]                                                                         1
+[1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Commencement [_see_ Note 1]                                                               1
+[2](#2).            Commencement [_see_ Note 1]
 
-[3](#3).            Interpretation                                                                                        2
+[3](#3).            Interpretation
 
 **Part 2—Preparing for the sale of AUSSAT**
 
-[4](#4).            Commonwealth guarantee of AUSSAT borrowings                           3
+[4](#4).            Commonwealth guarantee of AUSSAT borrowings
 
-[5](#5).            Appropriation of up to $800,000,000 to pay out AUSSAT’s existing obligations  3
+[5](#5).            Appropriation of up to $800,000,000 to pay out AUSSAT’s existing obligations
 
-[6](#6).            AUSSAT not within the shield of the Crown                                      4
+[6](#6).            AUSSAT not within the shield of the Crown
 
-[7](#7).            Clarification of AUSSAT’s status for income tax purposes                4
+[7](#7).            Clarification of AUSSAT’s status for income tax purposes
 
 **Part 3—Effect of the sale of AUSSAT**
 
-[8](#8).            Removal of AUSSAT’s tax losses                                                      5
+[8](#8).            Removal of AUSSAT’s tax losses
 
-[9](#9).            AUSSAT no longer taken to be established for a public purpose        5
+[9](#9).            AUSSAT no longer taken to be established for a public purpose
 
-[10](#10).          Repeal of the _AUSSAT Act 1984_                                                          6
+[10](#10).          Repeal of the _AUSSAT Act 1984_
 
-[11](#11).          Consequential amendments of other Acts                                            6
+[11](#11).          Consequential amendments of other Acts
 
-[12](#12).          Ending AUSSAT’s liability under the _Commonwealth Borrowing Levy Act 1987_  6
+[12](#12).          Ending AUSSAT’s liability under the _Commonwealth Borrowing Levy Act 1987_
 
 **Part 4—Amendments of Telecommunications Legislation**
 
-[13](#13).          Schedule 2 amendments                                                                       7
+[13](#13).          Schedule 2 amendments
 
 **Schedule 1—Consequential amendments of other Acts** 
 
@@ -134,6 +134,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (4)  The Minister may determine in writing the terms and conditions of loans made under subsection (3).
 
+             (5)  A payment under subsection (2) or (3) must be made out of the Consolidated Revenue Fund, which is appropriated accordingly.
+
              (6)  The total of all amounts paid under subsections (2) and (3) must not exceed $800,000,000.
 
              (7)  AUSSAT must not use money paid to it under subsection (2) or (3) except for the purposes of, or in connection with, one or more of the following:
@@ -166,11 +168,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (2)  This section has effect despite anything in the _Income Tax Assessment Act 1936_, in particular, former sections 79E, 79F, 80, 80AAA and 80AA of that Act.
 
-          (2A)  AUSSAT cannot deduct from its assessable income for the 1997‑98 income year or a later income year, a tax loss (or a part of a tax loss) incurred in an income year ending at or before the transition.
+          (2A)  AUSSAT cannot deduct from its assessable income for the 1997-98 income year or a later income year, a tax loss (or a part of a tax loss) incurred in an income year ending at or before the transition.
 
           (2B)  This section has effect despite anything in the _Income Tax Assessment Act 1997_, in particular, Division 36 of that Act.
 
-             (3)  An expression has in this section the same meaning as in the _Income Tax Assessment Act 1936_ or the _Income Tax Assessment Act 1997_.
+             (3)  An expression has in this section the same meaning as in the _Income Tax Assessment Act 1936_or the _Income Tax Assessment Act 1997_.
 
 ##### <a id="9"></a>9  AUSSAT no longer taken to be established for a public purpose
 
@@ -194,7 +196,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (1)  The Acts specified in Schedule 1 are amended as set out in that Schedule.
 
-             (2)  If Part 5 of the _Telecommunications (Transitional Provisions and Consequential Amendments) Act 1991_ commenced before the transition, or commences at the transition, Schedule 1 to this Act is taken to have been amended immediately before the transition by omitting the amendments of the _Crimes Act 1914_ and of the first‑mentioned Act.
+             (2)  If Part 5 of the _Telecommunications (Transitional Provisions and Consequential Amendments) Act 1991_ commenced before the transition, or commences at the transition, Schedule 1 to this Act is taken to have been amended immediately before the transition by omitting the amendments of the _Crimes Act 1914_ and of the first-mentioned Act.
 
 ##### <a id="12"></a>12  Ending AUSSAT’s liability under the _Commonwealth Borrowing Levy Act 1987_
 
@@ -219,7 +221,7 @@ _Section 11_
 The amendments made by this Schedule are incorporated in the compilations on ComLaw.
 
 Broadcasting Act 1942 
- \[repealed by Act No. 105, 1992, s. 28 as amended by Act No. 120, 2002, 
+ \[repealed by Act No. 105, 1992, s. 28 as amended by Act No. 120, 2002, 
  Sch. 3]
 
 Commonwealth Borrowing Levy Act 1987
@@ -227,13 +229,13 @@ Commonwealth Borrowing Levy Act 1987
 Crimes Act 1914
 
 Sales Tax (Exemptions and Classifications) Act 1935
- \[repealed by Act No. 101, 2006, Sch. 5]
+ \[repealed by Act No. 101, 2006, Sch. 5]
 
 Sea Installations Act 1987
 
 Telecommunications (Transitional Provisions and Consequential Amendments) Act 1991
 
-For access to the wording of the amendments made by this Schedule, _see_ Act  No. 145, 1991.
+For access to the wording of the amendments made by this Schedule, _see_ Act  No. 145, 1991.
 
 * * *
 
@@ -250,9 +252,8 @@ The amendments made by this Schedule are incorporated in the compilations on Com
 Australian and Overseas Telecommunications Corporation Act 1991 [<span style="font-size:9.0pt; font-style:normal">now cited as</span><span style="font-size:9.0pt"> Telstra Corporation Act 1991</span><span style="font-size:9.0pt;font-style:normal">]</span>
 
 Telecommunications Act 1991
- \[repealed by Act No. 59, 1997, Sch. 5]
 
-For access to the wording of the amendments made by this Schedule, _see_ Act No. 145, 1991.
+For access to the wording of the amendments made by this Schedule, _see_ Act No. 145, 1991.
 
 * * *
 
@@ -308,7 +309,7 @@ of Assent</div>
   </td>
   <td>
     <div>Part 3 (ss. 8–12): 
-1 Feb 1992 ( <i>see Gazette</i>1992, No. S46) 
+1 Feb 1992 ( <i>see Gazette</i>1992, No. S46) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -343,27 +344,10 @@ Remainder: Royal Assent</div>
     <div>14 Sept 2006</div>
   </td>
   <td>
-    <div>Schedule 2 (item 18) and Schedule 6 (items 1, 6–11): Royal Assent</div>
+    <div>Schedule 2 (item 18) and Schedule 6 (items 1, 6–11): Royal Assent</div>
   </td>
   <td>
-    <div>Sch. 6 (items 1, 6–11)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Stocktake Act (No. 1) 2011</div>
-  </td>
-  <td>
-    <div>100, 2011</div>
-  </td>
-  <td>
-    <div>15 Sept 2011</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 2): 16 Sept 2011</div>
-  </td>
-  <td>
-    <div>—</div>
+    <div>Sch. 6 (items 1, 6–11)</div>
   </td>
 </tr></table>
 
@@ -391,44 +375,22 @@ Remainder: Royal Assent</div>
   </tr>
   <tr>
     <td>
-      <div><b>Part 2</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 5</div>
-    </td>
-    <td>
-      <div>am. No. 100, 2011</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Part 3</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
       <div>S. 8</div>
     </td>
     <td>
-      <div>am. No. 39, 1997; No. 101, 2006</div>
+      <div>am. No. 39, 1997; No. 101,2006</div>
     </td>
   </tr>
 </thead></table>
+
+ 
 
 ## Table A
 
 ### Application, saving or transitional provisions
 
 _Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006
- (No. 101, 2006)_
+ (No. 101, 2006)_
 
 ## Schedule 6
 
@@ -436,7 +398,7 @@ _Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006
 
 Except as mentioned in items 2 and 3, the repeals and amendments made by Schedules 1 and 2 apply:
 
-                     (a)  so far as they affect assessments—to assessments for the 2006‑07 income year and all later income years; and
+                     (a)  so far as they affect assessments—to assessments for the 2006-07 income year and all later income years; and
 
                      (b)  otherwise—to acts done or omitted to be done, or states of affairs existing, after the commencement of the repeals and amendments.
 
@@ -462,17 +424,17 @@ Even though an Act is repealed or amended by this Act, the repeal or amendment i
 
 in relation to any act done or omitted to be done, any state of affairs existing, or any period ending, before the repeal or amendment applies.
 
-Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998‑99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
+Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998-99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
 
-                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998‑99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
+                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998-99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
 
-                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998‑99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
+                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998-99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
 
                    Despite the repeal of sections 160ARU and 160ARV, item 9 will ensure that the general interest charge will accrue on the unpaid franking deficit tax and penalty until they are paid.
 
                    Item 7 will also preserve Greg Ltd’s right, under former section 160ART of that Act, to object against the Commissioner’s amended assessment (including the penalty), since the objection is the exercise of a right in relation to a franking year that ended before the repeal of Part IIIAA.
 
-Example 2: During the 1997‑98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
+Example 2: During the 1997-98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
 
                    Following an audit undertaken after the repeal of those Divisions, the Commissioner discovers that the withheld amounts have not been remitted. The company’s records are incomplete and the Commissioner is unable to completely ascertain the extent of its liability for the withheld amounts. Under section 222AGA of that Act, the Commissioner makes an estimate of the liability.
 
