@@ -1,186 +1,152 @@
-![Commonwealth Coat of Arms](http://www.comlaw.gov.au/Details/C2013C00089/Html/f1dad4bc-cfe0-4362-9faf-53634e0aacdf_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00074/Html/82b59287-c5fa-4af2-aa39-eb53438008fb_files/image001.gif)
 
 # Foreign Acquisitions and Takeovers Act 1975
 
-No. 92, 1975 as amended
+**Act No. 92 of 1975 as amended**
 
-**Compilation start date:**11 December 2012
+This compilation was prepared on 16 February 2010
+ taking into account amendments up to Act No. 1 of 2010
 
-**Includes amendments up to:**Act No. 180, 2012
+The text of any of those amendments not in force
+ on that date is appended in the Notes section
 
-**About this compilation**
+The operation of amendments that have been incorporated may be 
+ affected by application provisions that are set out in the Notes section
 
-**The compiled Act**
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
-This is a compilation of the _Foreign Acquisitions and Takeovers Act 1975_ as amended and in force on 11 December 2012\. It includes any amendment affecting the compiled Act to that date.
-
-This compilation was prepared on 28 February 2013.
-
-The notes at the end of this compilation (the **_endnotes_**) include information about amending Acts and instruments and the amendment history of each amended provision.
-
-**Uncommenced provisions and amendments**
-
-If a provision of the compiled Act is affected by an uncommenced amendment, the text of the uncommenced amendment is set out in the endnotes.
-
-**Application, saving and transitional provisions for amendments**
-
-If the operation of an amendment is affected by an application, saving or transitional provision, the provision is set out in the endnotes.
-
-**Modifications**
-
-If a provision of the compiled Act is affected by a textual modification that is in force, the text of the modifying provision is set out in the endnotes. 
-
-**Provisions ceasing to have effect**
-
-If a provision of the compiled Act has expired or otherwise ceased to have effect in accordance with a provision of the Act, details of the provision are set out in the endnotes.
-
-Contents
+# Contents
 
 **Part I—Preliminary**
 
-[1](#1).            Short title                                                                                              1
+[1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Commencement                                                                                    1
+[2](#2).            Commencement [_see_ Note 1]
 
-[3](#3).            Transitional provisions                                                                         1
+[3](#3).            Transitional provisions
 
-[4](#4).            Additional operation of Act                                                                  2
+[4](#4).            Additional operation of Act
 
-[5](#5).            Interpretation                                                                                        5
+[5](#5).            Interpretation
 
-[5A](#5A).         Ordinarily resident non‑citizens                                                         10
+[5A](#5A).         Ordinarily resident non‑citizens
 
-[6](#6).            Associates                                                                                          11
+[6](#6).            Associates
 
-[7](#7).            Australian business                                                                            12
+[7](#7).            Australian business
 
-[8](#8).            Control of voting power                                                                     13
+[8](#8).            Control of voting power
 
-[9](#9).            Substantial and controlling interests in corporations                          13
+[9](#9).            Substantial and controlling interests in corporations
 
-[9A](#9A).         Substantial interests in trust estates                                                    15
+[9A](#9A).         Substantial interests in trust estates
 
-[10](#10).          Holding corporations and subsidiaries                                               15
+[10](#10).          Holding corporations and subsidiaries
 
-[11](#11).          Interests in shares                                                                               16
+[11](#11).          Interests in shares
 
-[12](#12).          Interests in assets                                                                               18
+[12](#12).          Interests in assets
 
-[12A](#12A).       Interests in Australian urban land                                                       18
+[12A](#12A).       Interests in Australian urban land
 
-[12B](#12B).       Interests in trust estates                                                                      20
+[12B](#12B).       Interests in trust estates
 
-[12C](#12C).       Tracing of substantial interests in corporations and trust estates        21
+[12C](#12C).       Tracing of substantial interests in corporations and trust estates
 
-[13](#13).          Prescribed corporations                                                                      22
+[13](#13).          Prescribed corporations
 
-[13A](#13A).       Exempt dealings                                                                                 23
+[13A](#13A).       Exempt dealings
 
-[13B](#13B).       Valuation of assets for purposes of section 13A                                24
+[13B](#13B).       Valuation of assets for purposes of section 13A
 
-[13C](#13C).       Australian urban land corporations                                                    26
+[13C](#13C).       Australian urban land corporations
 
-[13D](#13D).       Australian urban land trust estates                                                      27
+[13D](#13D).       Australian urban land trust estates
 
-[14](#14).          Voting power and potential voting power                                          28
+[14](#14).          Voting power and potential voting power
 
-[15](#15).          Application of Act                                                                              28
+[15](#15).          Application of Act
 
-[16](#16).          Extra‑territorial operation of Act                                                        29
+[16](#16).          Extra‑territorial operation of Act
 
-[17](#17).          Persons obliged to comply with Act                                                  29
+[17](#17).          Persons obliged to comply with Act
 
 **Part IA—Exempt foreign investments**
 
-[17A](#17A).       Exempt foreign investments in prescribed corporations etc                30
+[17A](#17A).       Exempt foreign investments in prescribed corporations etc 
 
-[17B](#17B).       Asset thresholds for exempt foreign investments in prescribed corporations etc —prescribed foreign investors     31
+[17B](#17B).       Asset thresholds for exempt foreign investments in prescribed corporations etc —prescribed foreign investors
 
-[17C](#17C).       Asset thresholds for exempt foreign investments in prescribed corporations etc —prescribed foreign government investors                                                                                             33
+[17C](#17C).       Asset thresholds for exempt foreign investments in prescribed corporations etc —prescribed foreign government investors
 
-[17D](#17D).       Exempt foreign investments in financial sector companies etc           34
+[17D](#17D).       Exempt foreign investments in financial sector companies etc 
 
-[17E](#17E).        Prescribed foreign investor                                                                35
+[17E](#17E).        Prescribed foreign investor
 
-[17F](#17F).        Foreign government investor                                                             36
+[17F](#17F).        Foreign government investor
 
-[17G](#17G).       Prescribed foreign government investor                                             36
+[17G](#17G).       Prescribed foreign government investor
 
-[17H](#17H).       Prescribed sensitive sector                                                                 36
+[17H](#17H).       Prescribed sensitive sector
 
 **Part II—Control of takeovers and other transactions**
 
-[18](#18).          Acquisitions of shares                                                                        37
+[18](#18).          Acquisitions of shares
 
-[19](#19).          Acquisitions of assets                                                                        40
+[19](#19).          Acquisitions of assets
 
-[20](#20).          Arrangements relating to directorate of corporations                          43
+[20](#20).          Arrangements relating to directorate of corporations
 
-[21](#21).          Arrangements relating to control of Australian businesses                45
+[21](#21).          Arrangements relating to control of Australian businesses
 
-[21A](#21A).       Acquisitions of interests in Australian urban land                              48
+[21A](#21A).       Acquisitions of interests in Australian urban land
 
-[22](#22).          Interim orders                                                                                     49
+[22](#22).          Interim orders
 
-[23](#23).          Revocation of orders                                                                          50
+[23](#23).          Revocation of orders
 
-[24](#24).          Publication of orders                                                                          50
+[24](#24).          Publication of orders
 
-[25](#25).          Effect of notification of transactions                                                   50
+[25](#25).          Effect of notification of transactions
 
-[26](#26).          Compulsory notification of certain section 18 transactions                53
+[26](#26).          Compulsory notification of certain section 18 transactions
 
-[26A](#26A).       Compulsory notification of certain section 21A transactions             56
+[26A](#26A).       Compulsory notification of certain section 21A transactions
 
-[27](#27).          Form of notification                                                                           58
+[27](#27).          Form of notification
 
-[28](#28).          Notification of rights                                                                          58
+[28](#28).          Notification of rights
 
 **Part III—Miscellaneous**
 
-[30](#30).          Offences—orders under Part II                                                          59
+[30](#30).          Offences
 
-[31](#31).          Offences by officers of corporations                                                  59
+[31](#31).          Offences by officers of corporations
 
-[35](#35).          Powers of court to enforce Treasurer’s orders                                   59
+[35](#35).          Powers of court to enforce Treasurer’s orders
 
-[36](#36).          Treasurer may require information                                                     62
+[36](#36).          Treasurer may require information
 
-[37](#37).          Effect of Act on other laws                                                                63
+[37](#37).          Effect of Act on other laws
 
-[38](#38).          Validity of acts done in contravention of Act                                     63
+[38](#38).          Validity of acts done in contravention of Act
 
-[38A](#38A).       Anti‑avoidance                                                                                   63
+[38A](#38A).       Anti‑avoidance
 
-[39](#39).          Regulations                                                                                        64
+[39](#39).          Regulations
 
-Endnotes    
-
-Endnote 1—Legislation history                                                                             65
-
-Endnote 2—Amendment history                                                                          68
-
-Endnote 3—Application, saving and transitional provisions                  71
-
-Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)          71
-
-Same‑Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008 (No. 144, 2008)                                                                                                               72
-
-Foreign Acquisitions and Takeovers Amendment Act 2010 (No. 1, 2010)    72
-
-Endnote 4—Uncommenced amendments                                                        75
-
-Endnote 5—Misdescribed amendments                                                            76
+**Notes** 
 
 ## An Act relating to the foreign acquisition of certain land interests and to the foreign control of certain business enterprises and mineral rights
 
 ## Part I—Preliminary
 
-##### <a id="1"></a>1  Short title
+##### <a id="1"></a>1  Short title [_see_ Note 1]
 
                    This Act may be cited as the _Foreign Acquisitions and Takeovers Act 1975_.
 
-##### <a id="2"></a>2  Commencement
+##### <a id="2"></a>2  Commencement [_see_ Note 1]
 
                    This Act shall come into operation on a date to be fixed by Proclamation.
 
@@ -198,11 +164,11 @@ Endnote 5—Misdescribed amendments               
 
              (4)  For the purposes of this Act, but without limiting the operation of subsection (2):
 
-                     (b)  an order in force under subsection 13(6) of the repealed Act immediately before that date has effect on and after that date as if it were an order made under section 22 of this Act;
+                     (b)  an order in force under subsection 13(6) of the repealed Act immediately before that date has effect on and after that date as if it were an order made under section 22 of this Act;
 
-                     (c)  an order in force under paragraph 13(2)(c) or (3)(c) of the repealed Act immediately before that date has effect on and after that date as if it were an order made under subsection 18(2) of this Act; and
+                     (c)  an order in force under paragraph 13(2)(c) or (3)(c) of the repealed Act immediately before that date has effect on and after that date as if it were an order made under subsection 18(2) of this Act; and
 
-                     (d)  an order in force under paragraph 13(2)(d) or (3)(d) of the repealed Act immediately before that date has effect on and after that date as if it were an order made under subsection 18(3) of this Act.
+                     (d)  an order in force under paragraph 13(2)(d) or (3)(d) of the repealed Act immediately before that date has effect on and after that date as if it were an order made under subsection 18(3) of this Act.
 
           (4A)  For the purposes of the institution, after the commencement of this subsection, of proceedings for an offence referred to in section 21 of the _Companies (Foreign Take‑overs) Act 1972_, the reference in that section to the Commonwealth Industrial Court shall be read as a reference to the Federal Court of Australia.
 
@@ -282,7 +248,7 @@ Endnote 5—Misdescribed amendments               
 
                      (b)  by way of enforcement of a security held solely for the purposes of a moneylending agreement.
 
-                    <a name="aggreg-substanti-interest"></a>**_aggregate substantial interest_** in a corporation has the meaning given by subsection 9(1A).
+                    <a name="aggreg-substanti-interest"></a>**_aggregate substantial interest_** in a corporation has the meaning given by subsection 9(1A).
 
                     <a name="agreem"></a>**_agreement_** means any agreement, whether formal or informal and whether express or implied, other than a moneylending agreement.
 
@@ -290,7 +256,7 @@ Endnote 5—Misdescribed amendments               
 
                     <a name="australia"></a>**_Australia_** includes the external Territories to which this Act extends.
 
-                    <a name="australian-corpor"></a>**_Australian corporation_** means a corporation of a kind referred to in paragraph 13(1)(a), (b) or (c).
+                    <a name="australian-corpor"></a>**_Australian corporation_** means a corporation of a kind referred to in paragraph 13(1)(a), (b) or (c).
 
                     <a name="australian-rural-land"></a>**_Australian rural land_** means land situated in Australia that is used wholly and exclusively for carrying on a business of primary production.
 
@@ -302,7 +268,7 @@ Endnote 5—Misdescribed amendments               
 
                     <a name="balanc-sheet"></a>**_balance‑sheet_** includes a statement of assets and liabilities or any similar document.
 
-                    <a name="child"></a>**_child_** has the meaning given by subsection 6(2).
+                    <a name="child"></a>**_child_** has the meaning given by subsection 6(2).
 
                     <a name="constitu-docum"></a>**_constituent document_**, in relation to a corporation, means the constitution of the corporation or any rules or other document constituting the corporation or governing its activities.
 
@@ -310,9 +276,9 @@ Endnote 5—Misdescribed amendments               
 
                     <a name="director"></a>**_director_** includes any person occupying the position of director of a corporation, by whatever name called.
 
-                    <a name="financi-corpor"></a>**_financial corporation_** means a financial corporation to which paragraph 51(xx) of the Constitution is applicable, and includes a corporation formed within the limits of Australia that carries on as its sole or principal business the business of banking or insurance, other than banking or insurance to which paragraph 51(xiii) or (xiv) of the Constitution, as the case may be, is not applicable.
+                    <a name="financi-corpor"></a>**_financial corporation_** means a financial corporation to which paragraph 51(xx) of the Constitution is applicable, and includes a corporation formed within the limits of Australia that carries on as its sole or principal business the business of banking or insurance, other than banking or insurance to which paragraph 51(xiii) or (xiv) of the Constitution, as the case may be, is not applicable.
 
-                    <a name="foreign-corpor"></a>**_foreign corporation_** means a foreign corporation to which paragraph 51(xx) of the Constitution is applicable or a corporation that is incorporated in an external Territory to which this Act does not extend.
+                    <a name="foreign-corpor"></a>**_foreign corporation_** means a foreign corporation to which paragraph 51(xx) of the Constitution is applicable or a corporation that is incorporated in an external Territory to which this Act does not extend.
 
                     <a name="foreign-govern-investor"></a>**_foreign government investor_** has the meaning given by section 17F.
 
@@ -352,7 +318,7 @@ Endnote 5—Misdescribed amendments               
 
                      (c)  a liquidator of the corporation appointed in a voluntary winding up.
 
-                    <a name="parent"></a>**_parent_** has the meaning given by subsection 6(2).
+                    <a name="parent"></a>**_parent_** has the meaning given by subsection 6(2).
 
                     <a name="potenti-vote-power"></a>**_potential voting power_** has the meaning given by section 14.
 
@@ -374,13 +340,13 @@ Endnote 5—Misdescribed amendments               
 
                      (b)  except in section 11, includes an interest in such a share or in such stock.
 
-                    <a name="substanti-interest"></a>**_substantial interest_** in a corporation has the meaning given by subsection 9(1).
+                    <a name="substanti-interest"></a>**_substantial interest_** in a corporation has the meaning given by subsection 9(1).
 
                     <a name="territori"></a>**_Territory_** means an internal Territory or an external Territory to which this Act extends.
 
-                    <a name="trade-corpor"></a>**_trading corporation_** means a trading corporation to which paragraph 51(xx) of the Constitution is applicable.
+                    <a name="trade-corpor"></a>**_trading corporation_** means a trading corporation to which paragraph 51(xx) of the Constitution is applicable.
 
-                    <a name="vote-power"></a>**_voting power_** has the meaning given by subsection 14(1).
+                    <a name="vote-power"></a>**_voting power_** has the meaning given by subsection 14(1).
 
              (2)  In this Act, a reference to the determination of the policy of a business of exploiting a mineral right includes a reference to the determination of questions relating to the disposal of the right.
 
@@ -442,7 +408,7 @@ and references to an arrangement shall be construed accordingly.
 
              (1)  For the purposes of this Act, the following persons are associates of a person:
 
-                     (a)  the person’s spouse or de facto partner (within the meaning of the _Acts Interpretation Act 1901_), or a parent or remoter lineal ancestor, child or remoter issue, brother or sister of the person;
+                     (a)  the person’s spouse or de facto partner (within the meaning of the _Acts Interpretation Act 1901_), or a parent or remoter lineal ancestor, child or remoter issue, brother or sister of the person;
 
                      (b)  any partner of the person;
 
@@ -506,7 +472,7 @@ and references to an arrangement shall be construed accordingly.
 
                      (c)  holds interests in not less than 15% of the issued shares in the corporation; or
 
-                     (d)  would hold interests in not less than 15% of the issued shares in the corporation, if shares in the corporation were issued as the result of the exercise of all rights of a kind mentioned in subsection 11(2A).
+                     (d)  would hold interests in not less than 15% of the issued shares in the corporation, if shares in the corporation were issued as the result of the exercise of all rights of a kind mentioned in subsection 11(2A).
 
           (1A)  For the purposes of this Act, 2 or more persons are taken to hold an **_aggregate substantial interest_** in a corporation if they, together with any associate or associates of any of them:
 
@@ -516,7 +482,7 @@ and references to an arrangement shall be construed accordingly.
 
                      (c)  hold interests in not less than 40% of the issued shares in the corporation; or
 
-                     (d)  would hold interests in not less than 40% of the issued shares in the corporation, if shares in the corporation were issued as the result of the exercise of all rights of a kind mentioned in subsection 11(2A).
+                     (d)  would hold interests in not less than 40% of the issued shares in the corporation, if shares in the corporation were issued as the result of the exercise of all rights of a kind mentioned in subsection 11(2A).
 
           (1B)  For the purposes of paragraphs (1)(c) and (1A)(c), in determining the percentage of the interests in the issued shares in a corporation that a person holds at a particular time, if:
 
@@ -542,7 +508,7 @@ assume that the right were exercised at that time.
 
 that person shall be taken to hold a controlling interest in the corporation, or those persons shall be taken to hold an aggregate controlling interest in the corporation, as the case may be, unless the Treasurer is satisfied that, having regard to all the circumstances, that person together with the associate or associates (if any) of that person is not, or those persons together with the associate or associates (if any) of each of them are not, in a position to determine the policy of the corporation.
 
-##### <a id="9A"></a>9A  Substantial interests in trust estates
+##### <a id="9A"></a>9A  Substantial interests in trust estates
 
              (1)  For the purposes of this Act:
 
@@ -780,7 +746,7 @@ the following provisions have effect for the purposes of this Act:
 
                     <a name="exempt-corpor"></a>**_exempt corporation_** means a corporation:
 
-                     (a)  that is of a kind referred to in paragraph 13(1)(a), (b), (c), (g) or (h); and
+                     (a)  that is of a kind referred to in paragraph 13(1)(a), (b), (c), (g) or (h); and
 
                      (b)  the value of whose total assets, determined under section 13B, does not exceed:
 
@@ -812,7 +778,7 @@ the following provisions have effect for the purposes of this Act:
 
              (2)  For the purposes of subparagraphs (1)(a)(ii) and (b)(ii) in relation to the application of section 18, the value of the issued shares of a corporation, or the aggregate value of the issued shares of a group of corporations, is the value ascertained under the formula:
 
-![](http://www.comlaw.gov.au/Details/C2013C00089/Html/f1dad4bc-cfe0-4362-9faf-53634e0aacdf_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00074/Html/82b59287-c5fa-4af2-aa39-eb53438008fb_files/image002.gif)
 
 where:
 
@@ -828,7 +794,7 @@ where:
 
              (3)  For the purposes of subparagraphs (1)(a)(ii) and (b)(ii) in relation to the application of section 26, the value of the issued shares of a corporation, or the aggregate value of the issued shares of a group of corporations, is the value ascertained under the formula:
 
-![](http://www.comlaw.gov.au/Details/C2013C00089/Html/f1dad4bc-cfe0-4362-9faf-53634e0aacdf_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00074/Html/82b59287-c5fa-4af2-aa39-eb53438008fb_files/image002.gif)
 
 where:
 
@@ -928,27 +894,27 @@ assume that the right were exercised at that time.
 
              (1)  Section 18 applies in relation to a prescribed corporation as if neither of the following were a foreign person for the purposes of that section:
 
-                     (a)  a prescribed foreign investor that is covered by subsection 17B(1) or (2) in relation to the corporation;
+                     (a)  a prescribed foreign investor that is covered by subsection 17B(1) or (2) in relation to the corporation;
 
-                     (b)  a prescribed foreign government investor that is covered by subsection 17C(1) in relation to the corporation.
+                     (b)  a prescribed foreign government investor that is covered by subsection 17C(1) in relation to the corporation.
 
              (2)  Section 20  applies in relation to an Australian corporation as if neither of the following were a foreign person for the purposes of that section:
 
-                     (a)  a prescribed foreign investor that is covered by subsection 17B(1) or (2) in relation to the corporation;
+                     (a)  a prescribed foreign investor that is covered by subsection 17B(1) or (2) in relation to the corporation;
 
-                     (b)  a prescribed foreign government investor that is covered by subsection 17C(1) in relation to the corporation.
+                     (b)  a prescribed foreign government investor that is covered by subsection 17C(1) in relation to the corporation.
 
              (3)  Sections 19 and 21  apply in relation to a business as if neither of the following were a foreign person for the purposes of those sections:
 
-                     (a)  a prescribed foreign investor that is covered by subsection 17B(3) in relation to the business;
+                     (a)  a prescribed foreign investor that is covered by subsection 17B(3) in relation to the business;
 
-                     (b)  a prescribed foreign government investor that is covered by subsection 17C(2) in relation to the business.
+                     (b)  a prescribed foreign government investor that is covered by subsection 17C(2) in relation to the business.
 
              (4)  Section 26  applies in relation to an Australian corporation as if neither of the following were a person covered by that section:
 
-                     (a)  a prescribed foreign investor that is covered by subsection 17B(1) or (2) in relation to the corporation;
+                     (a)  a prescribed foreign investor that is covered by subsection 17B(1) or (2) in relation to the corporation;
 
-                     (b)  a prescribed foreign government investor that is covered by subsection 17C(1) in relation to the corporation.
+                     (b)  a prescribed foreign government investor that is covered by subsection 17C(1) in relation to the corporation.
 
              (5)  In applying section 18, 19, 20, 21 or 26 in relation to an entity that is neither a prescribed foreign investor nor a prescribed foreign government investor, do not apply subsection (1), (2), (3) or (4) for the purposes of:
 
@@ -966,17 +932,17 @@ assume that the right were exercised at that time.
 
                      (a)  the corporation, or a subsidiary of the corporation, carries on a business wholly or partly in a prescribed sensitive sector in relation to the prescribed foreign investor; and
 
-                     (b)  for a corporation covered by paragraph 13(1)(a), (b), (c), (g) or (h)—the value of the corporation’s total assets, determined under section 13B, does not exceed the amount ascertained in accordance with regulations made for the purposes of this paragraph; and
+                     (b)  for a corporation covered by paragraph 13(1)(a), (b), (c), (g) or (h)—the value of the corporation’s total assets, determined under section 13B, does not exceed the amount ascertained in accordance with regulations made for the purposes of this paragraph; and
 
-                     (c)  for a corporation covered by paragraph 13(1)(d), (e) or (f) because the corporation, or another corporation or other corporations, held certain assets on a particular date—the value of those assets on that date, determined in accordance with section 13, does not exceed the amount ascertained in accordance with regulations made for the purposes of this paragraph.
+                     (c)  for a corporation covered by paragraph 13(1)(d), (e) or (f) because the corporation, or another corporation or other corporations, held certain assets on a particular date—the value of those assets on that date, determined in accordance with section 13, does not exceed the amount ascertained in accordance with regulations made for the purposes of this paragraph.
 
              (2)  A prescribed foreign investor is covered by this subsection in relation to a corporation if:
 
                      (a)  neither the corporation, nor a subsidiary of the corporation, carries on a business wholly or partly in a prescribed sensitive sector in relation to the prescribed foreign investor; and
 
-                     (b)  for a corporation covered by paragraph 13(1)(a), (b), (c), (g) or (h)—the value of the corporation’s total assets, determined under section 13B, does not exceed the amount ascertained in accordance with regulations made for the purposes of this paragraph; and
+                     (b)  for a corporation covered by paragraph 13(1)(a), (b), (c), (g) or (h)—the value of the corporation’s total assets, determined under section 13B, does not exceed the amount ascertained in accordance with regulations made for the purposes of this paragraph; and
 
-                     (c)  for a corporation covered by paragraph 13(1)(d), (e) or (f) because the corporation, or another corporation or other corporations, held certain assets on a particular date—the value of those assets on that date, determined in accordance with section 13, does not exceed the amount ascertained in accordance with regulations made for the purposes of this paragraph.
+                     (c)  for a corporation covered by paragraph 13(1)(d), (e) or (f) because the corporation, or another corporation or other corporations, held certain assets on a particular date—the value of those assets on that date, determined in accordance with section 13, does not exceed the amount ascertained in accordance with regulations made for the purposes of this paragraph.
 
              (3)  A prescribed foreign investor is covered by this subsection in relation to a business if:
 
@@ -1012,9 +978,9 @@ assume that the right were exercised at that time.
 
              (1)  A prescribed foreign government investor is covered by this subsection in relation to a corporation if:
 
-                     (a)  for a corporation covered by paragraph 13(1)(a), (b), (c), (g) or (h)—the value of the corporation’s total assets, determined under section 13B, does not exceed the amount ascertained in accordance with regulations made for the purposes of this paragraph; and
+                     (a)  for a corporation covered by paragraph 13(1)(a), (b), (c), (g) or (h)—the value of the corporation’s total assets, determined under section 13B, does not exceed the amount ascertained in accordance with regulations made for the purposes of this paragraph; and
 
-                     (b)  for a corporation covered by paragraph 13(1)(d), (e) or (f) because the corporation, or another corporation or other corporations, held certain assets on a particular date—the value of those assets on that date, determined in accordance with section 13, does not exceed the amount ascertained in accordance with regulations made for the purposes of this paragraph.
+                     (b)  for a corporation covered by paragraph 13(1)(d), (e) or (f) because the corporation, or another corporation or other corporations, held certain assets on a particular date—the value of those assets on that date, determined in accordance with section 13, does not exceed the amount ascertained in accordance with regulations made for the purposes of this paragraph.
 
              (2)  A prescribed foreign government investor is covered by this subsection in relation to a business if the value of the total assets of the business, determined under section 13B, does not exceed the amount ascertained in accordance with regulations made for the purposes of this subsection.
 
@@ -1070,7 +1036,7 @@ assume that the right were exercised at that time.
 
                      (c)  a condition that the entity be constituted or organised under the law of a specified foreign country, or a specified part of a foreign country.
 
-Note:          For specification by class, see subsection 13(3) of the _Legislative Instruments Act 2003_.
+Note:          For specification by class, see subsection 13(3) of the _Legislative Instruments Act 2003_.
 
              (3)  Subsection (2) does not limit the regulations that may be made for the purposes of subsection (1).
 
@@ -1134,8 +1100,6 @@ Note:          For specification by class, see subsection 13
 
 the Treasurer may make an order prohibiting the proposed acquisition or all or any of the proposed acquisitions, or the proposed issue, as the case may be.
 
-Note:          For the criminal liability of an officer of a corporation if the corporation contravenes or fails to comply with an order under this subsection, see sections 30 and 31.
-
              (3)  Where the Treasurer makes an order under subsection (2) prohibiting a proposed acquisition of shares in a corporation, he or she may also make an order in relation to a specified foreign person, or in relation to a specified foreign person and specified associates, or the persons included in a specified class of associates, of that person, directing that that person shall not, or none of those persons shall, whether alone or together with any other or others of them:
 
                      (a)  be in a position to control more of the total voting power in the corporation than:
@@ -1156,8 +1120,6 @@ Note:          For the criminal liability of an officer of a c
 
                              (ii)  such greater number (if any) as is specified in the order.
 
-Note:          For the criminal liability of an officer of a corporation if the corporation contravenes or fails to comply with an order under this subsection, see sections 30 and 31.
-
              (4)  Where a person has acquired shares in a corporation, and the Treasurer is satisfied that:
 
                      (a)  the acquisition has had the result that:
@@ -1169,8 +1131,6 @@ Note:          For the criminal liability of an officer of a c
                      (b)  that result is contrary to the national interest;
 
 the Treasurer may make an order directing the person who acquired the shares to dispose of those shares within a specified time to any person or persons approved in writing by the Treasurer.
-
-Note:          For the criminal liability of an officer of a corporation if the corporation contravenes or fails to comply with an order under this subsection, see sections 30 and 31.
 
              (5)  Before the expiration of the time specified in an order made under subsection (4) or of that time as extended under this subsection, the Treasurer may, by writing signed by him or her, extend or further extend that time or that time as so extended, and in that event the order has effect as if the time as so extended or further extended had been specified in the order.
 
@@ -1206,11 +1166,7 @@ Note:          For the criminal liability of an officer of a c
 
 the Treasurer may make an order prohibiting the proposed acquisition or all or any of the proposed acquisitions, as the case may be.
 
-Note:          For the criminal liability of an officer of a corporation if the corporation contravenes or fails to comply with an order under this subsection, see sections 30 and 31.
-
              (3)  Where the Treasurer makes an order under subsection (2) prohibiting a proposed acquisition of assets of an Australian business, he or she may also make an order in relation to a specified foreign person, or in relation to a specified foreign person and specified associates, or the persons included in a specified class of associates, of that person, directing that that person shall not, or none of those persons shall, whether alone or together with any other or others of them, acquire any interests in assets of that business, or acquire any such interests except to a specified extent.
-
-Note:          For the criminal liability of an officer of a corporation if the corporation contravenes or fails to comply with an order under this subsection, see sections 30 and 31.
 
              (4)  Where a person has acquired assets of an Australian business carried on solely by a prescribed corporation or prescribed corporations, and the Treasurer is satisfied that:
 
@@ -1223,8 +1179,6 @@ Note:          For the criminal liability of an officer of a c
                      (b)  that result is contrary to the national interest;
 
 the Treasurer may make an order directing the person who acquired the assets to dispose of those assets within a specified time to any person or persons approved in writing by the Treasurer.
-
-Note:          For the criminal liability of an officer of a corporation if the corporation contravenes or fails to comply with an order under this subsection, see sections 30 and 31.
 
              (5)  Before the expiration of the time specified in an order made under subsection (4) or of that time as extended under this subsection, the Treasurer may, by writing signed by him or her, extend or further extend that time or that time as so extended, and in that event the order has effect as if the time as so extended or further extended had been specified in the order.
 
@@ -1260,8 +1214,6 @@ Note:          For the criminal liability of an officer of a c
 
 the Treasurer may make an order prohibiting the entering into of the proposed agreement or prohibiting the proposed alteration, as the case may be.
 
-Note:          For the criminal liability of an officer of a corporation if the corporation contravenes or fails to comply with an order under this subsection, see sections 30 and 31.
-
              (3)  Where an agreement has been entered into in relation to the affairs of a corporation, or an alteration has been made to a constituent document of a corporation, and the Treasurer is satisfied that:
 
                      (a)  the agreement or alteration has had, or will have, the result that:
@@ -1273,8 +1225,6 @@ Note:          For the criminal liability of an officer of a c
                      (b)  that result is or will be contrary to the national interest;
 
 the Treasurer may, for the purpose of restoring the control of the corporation as closely as possible to the position in which it was before the agreement was entered into or the alteration was made or for the purpose of preventing the occurrence of a change in the control of the corporation of a kind mentioned in paragraph (a), as the case may be, make orders directing specified persons to do within a specified time, or refrain from doing, specified acts or acts of a specified kind.
-
-Note:          For the criminal liability of an officer of a corporation if the corporation contravenes or fails to comply with an order under this subsection, see sections 30 and 31.
 
              (4)  Where a time is specified in an order made under subsection (3), the Treasurer may, before the expiration of that time or of that time as extended under this subsection, by writing signed by him or her, extend or further extend that time or that time as so extended, and in that event the order has effect as if the time as so extended or further extended had been specified in the order.
 
@@ -1310,8 +1260,6 @@ Note:          For the criminal liability of an officer of a c
 
 the Treasurer may make an order prohibiting the entering into of the proposed arrangement or prohibiting the termination of the existing arrangement, as the case may be.
 
-Note:          For the criminal liability of an officer of a corporation if the corporation contravenes or fails to comply with an order under this subsection, see sections 30 and 31.
-
              (3)  Where an arrangement has been entered into in relation to an Australian business carried on solely by a prescribed corporation or prescribed corporations or an arrangement that existed in relation to such an Australian business has been terminated, and the Treasurer is satisfied that:
 
                      (a)  the entering into or the termination of the arrangement has had, or will have, the result that:
@@ -1323,8 +1271,6 @@ Note:          For the criminal liability of an officer of a c
                      (b)  that result is or will be contrary to the national interest;
 
 the Treasurer may, for the purpose of restoring the control of the business as closely as possible to the position in which it was before the arrangement was entered into or terminated or for the purpose of preventing the occurrence of a change in the control of the business of a kind referred to in paragraph (a), as the case may be, make orders directing specified persons to do within a specified time, or refrain from doing, specified acts or acts of a specified kind.
-
-Note:          For the criminal liability of an officer of a corporation if the corporation contravenes or fails to comply with an order under this subsection, see sections 30 and 31.
 
              (4)  Where a time is specified in an order made under subsection (3), the Treasurer may, before the expiration of that time or of that time as extended under this subsection, by writing signed by him or her, extend or further extend that time or that time as so extended, and in that event the order has effect as if the time as so extended or further extended had been specified in the order.
 
@@ -1352,8 +1298,6 @@ Note:          For the criminal liability of an officer of a c
 
 the Treasurer may make an order prohibiting the proposed acquisition.
 
-Note:          For the criminal liability of an officer of a corporation if the corporation contravenes or fails to comply with an order under this subsection, see sections 30 and 31.
-
              (3)  Where the Treasurer makes such an order in relation to an interest in Australian urban land, he or she may also make an order in relation to:
 
                      (a)  a specified foreign person; or
@@ -1366,11 +1310,7 @@ directing that that person shall not, or none of those persons shall, whether al
 
                      (d)  any such interest except to a specified extent.
 
-Note:          For the criminal liability of an officer of a corporation if the corporation contravenes or fails to comply with an order under this subsection, see sections 30 and 31.
-
              (4)  Where a foreign person has acquired an interest in Australian urban land and the Treasurer is satisfied that the acquisition is contrary to the national interest, the Treasurer may make an order directing the foreign person to dispose of that interest within a specified period to any person or persons approved in writing by the Treasurer.
-
-Note:          For the criminal liability of an officer of a corporation if the corporation contravenes or fails to comply with an order under this subsection, see sections 30 and 31.
 
              (5)  Before the end of the period specified in the order or of that period as extended under this subsection, the Treasurer may, by writing signed by the Treasurer, extend or further extend that period or that period as so extended, and in that event the order has effect as if the period as so extended or further extended had been specified in the order.
 
@@ -1384,15 +1324,13 @@ Note:          For the criminal liability of an officer of a c
 
 ##### <a id="22"></a>22  Interim orders
 
-             (1)  For the purpose of enabling due consideration to be given to the question whether an order should be made under subsection 18(2), 19(2), 20(2), 21(2) or 21A(2), the Treasurer may make an order of the kind that he or she would be empowered to make under that subsection if it were applicable.
-
-Note:          For the criminal liability of an officer of a corporation if the corporation contravenes or fails to comply with an order under this subsection, see sections 30 and 31.
+             (1)  For the purpose of enabling due consideration to be given to the question whether an order should be made under subsection 18(2), 19(2), 20(2), 21(2) or 21A(2), the Treasurer may make an order of the kind that he or she would be empowered to make under that subsection if it were applicable.
 
              (2)  An order made under this section has effect for such period, not exceeding 90 days after the coming into operation of the order, as is specified in the order.
 
 ##### <a id="23"></a>23  Revocation of orders
 
-                   The Treasurer may at any time make an order revoking an order made under section 18, 19, 20, 21, 21A or 22 or an order referred to in subsection 3(4).
+                   The Treasurer may at any time make an order revoking an order made under section 18, 19, 20, 21, 21A or 22 or an order referred to in subsection 3(4).
 
 ##### <a id="24"></a>24  Publication of orders
 
@@ -1400,7 +1338,7 @@ Note:          For the criminal liability of an officer of a c
 
                      (a)  except in a case to which paragraph (b) applies—on the date of publication; or
 
-                     (b)  in the case of an order under subsection 18(3) or (4), 19(4), 20(3), 21(3) or 21A(3) or (4)—on such date as is specified in the order, being a date not earlier than 30 days after the date of publication.
+                     (b)  in the case of an order under subsection 18(3) or (4), 19(4), 20(3), 21(3) or 21A(3) or (4)—on such date as is specified in the order, being a date not earlier than 30 days after the date of publication.
 
 ##### <a id="25"></a>25  Effect of notification of transactions
 
@@ -1412,7 +1350,7 @@ Note:          For the criminal liability of an officer of a c
 
                      (c)  a notice from a corporation stating that it is proposed to alter a constituent document of the corporation.
 
-          (1A)  Where the Treasurer is empowered to make an order under subsection 18(2), 19(2), 20(2), 21(2) or 21A(2) in relation to the acquisition, agreement, arrangement, issue or alteration specified in the notice, the Treasurer may, instead of making such an order, decide that the Commonwealth Government has no objection to the proposal specified in the notice, provided that the person or corporation complies with conditions that the Treasurer, when making the decision, considers necessary in order that the proposal, if carried out, will not be contrary to the national interest.
+          (1A)  Where the Treasurer is empowered to make an order under subsection 18(2), 19(2), 20(2), 21(2) or 21A(2) in relation to the acquisition, agreement, arrangement, issue or alteration specified in the notice, the Treasurer may, instead of making such an order, decide that the Commonwealth Government has no objection to the proposal specified in the notice, provided that the person or corporation complies with conditions that the Treasurer, when making the decision, considers necessary in order that the proposal, if carried out, will not be contrary to the national interest.
 
           (1B)  Where the Treasurer makes a decision under subsection (1A), the person or corporation shall be given advice in writing of the decision, being advice that includes a statement of the conditions to be complied with, before the end of 10 days after the day on which the decision is made.
 
@@ -1426,11 +1364,9 @@ Note:          For the criminal liability of an officer of a c
 
 the person or corporation is guilty of an offence punishable on conviction, by:
 
-                     (d)  in the case of a natural person—a fine not exceeding 500 penalty units, or imprisonment for a period not exceeding 2 years, or both; or
+                     (d)  in the case of a natural person—a fine not exceeding 500 penalty units, or imprisonment for a period not exceeding 2 years, or both; or
 
-                     (e)  in the case of a corporation—a fine not exceeding 2,500 penalty units.
-
-Note:          For the liability of an officer of a corporation, see section 31.
+                     (e)  in the case of a corporation—a fine not exceeding 2,500 penalty units.
 
           (1D)  If the person or corporation:
 
@@ -1438,7 +1374,7 @@ Note:          For the liability of an officer of a corporatio
 
                      (b)  carries out the proposal to which the decision relates:
 
-the Treasurer may only make an order under subsection 18(4), 19(4), 20(3), 21(3) or 21A(4) in relation to the acquisition, agreement, arrangement, issue or alteration specified in the notice if:
+the Treasurer may only make an order under subsection 18(4), 19(4), 20(3), 21(3) or 21A(4) in relation to the acquisition, agreement, arrangement, issue or alteration specified in the notice if:
 
                      (c)  the person or corporation is convicted of an offence against subsection (1C) in relation to a condition; or
 
@@ -1464,7 +1400,7 @@ the Treasurer is not empowered:
 
                      (a)  before the end of 30 days after the day on which the Treasurer receives the notice, the Treasurer makes an order under section 22 in relation to the acquisition, agreement, arrangement, issue or alteration specified in the notice;
 
-                     (b)  the order is published in the _Gazette_ before the end of 10 days after the day on which the order is made; and
+                     (b)  the order is published in the _Gazette_ before the end of 10 days after the day on which the order is made; and
 
                      (c)  90 days pass after the day on which the order is published and by the end of that period:
 
@@ -1510,13 +1446,11 @@ the Treasurer is not empowered:
 
                               (i)  the expiration of 40 days after the date on which the notice was received by the Treasurer; or
 
-                             (ii)  the date on which advice is given that the Commonwealth Government does not object to the person entering into that agreement (whether or not the advice is subject to conditions imposed under subsection 25(1A));
+                             (ii)  the date on which advice is given that the Commonwealth Government does not object to the person entering into that agreement (whether or not the advice is subject to conditions imposed under subsection 25(1A));
 
                             whichever first occurs;
 
 the person is guilty of an offence and is punishable, on conviction, by a fine not exceeding 500 penalty units or imprisonment for a period not exceeding 2 years, or both.
-
-Note:          For the liability of an officer of a corporation, see section 31.
 
              (3)  Where:
 
@@ -1552,7 +1486,7 @@ the person shall not be taken, for the purposes of that subsection, to have ente
 
                              (ii)  the person starts to hold additional interests in the issued shares in the corporation;
 
-                            (iii)  the person would start to hold additional interests in the issued shares in the corporation, if shares in the corporation were issued as the result of the exercise of all rights of a kind mentioned in subsection 11(2A).
+                            (iii)  the person would start to hold additional interests in the issued shares in the corporation, if shares in the corporation were issued as the result of the exercise of all rights of a kind mentioned in subsection 11(2A).
 
              (7)  For the purposes of subsection (6), a reference to a person offering to acquire interests in shares or rights includes a reference to a person making or publishing a statement, however expressed, that expressly or impliedly invites a holder of interests in shares or rights to offer to dispose of interests in shares or rights.
 
@@ -1578,13 +1512,11 @@ the person shall not be taken, for the purposes of that subsection, to have ente
 
                               (i)  the end of 40 days after the day on which the notice was received by the Treasurer; or
 
-                             (ii)  the day on which advice is given that the Commonwealth Government does not object to the person entering into that agreement (whether or not the advice is subject to conditions imposed under subsection 25(1A));
+                             (ii)  the day on which advice is given that the Commonwealth Government does not object to the person entering into that agreement (whether or not the advice is subject to conditions imposed under subsection 25(1A));
 
                             whichever first occurs;
 
 the person is guilty of an offence and is punishable, on conviction, by a fine not exceeding 500 penalty units or imprisonment for a period not exceeding 2 years, or both.
-
-Note:          For the liability of an officer of a corporation, see section 31.
 
              (3)  Where:
 
@@ -1616,11 +1548,9 @@ the person shall not be taken, for the purposes of subsection (2), to have ent
 
 ## Part III—Miscellaneous
 
-##### <a id="30"></a>30  Offences—orders under Part II
+##### <a id="30"></a>30  Offences
 
              (1)  A person who contravenes or fails to comply with an order made under Part II is guilty of an offence against this section.
-
-Note:          For the liability of an officer of a corporation, see section 31.
 
              (2)  Where a person has been convicted of an offence consisting of a contravention, or failure to comply with, an order made under Part II and the contravention or failure continues after he or she has been so convicted, the person is guilty of a further offence against this section.
 
@@ -1630,7 +1560,9 @@ Note:          For the liability of an officer of a corporatio
 
 ##### <a id="31"></a>31  Offences by officers of corporations
 
-                   Where an offence against a provision of this Act is committed by a corporation, an officer of the corporation who authorised or permitted the commission of the offence is guilty of an offence against this section and is punishable on conviction by the penalty provided in that provision.
+             (1)  Where an offence against a provision of this Act is committed by a corporation, an officer of the corporation who is in default is guilty of an offence against this section and is punishable on conviction by the penalty provided in that provision.
+
+             (2)  A reference in subsection (1) to an officer who is in default, in relation to an offence committed by a corporation, includes a reference to an officer who authorizes or permits the commission of the offence.
 
 ##### <a id="35"></a>35  Powers of court to enforce Treasurer’s orders
 
@@ -1706,11 +1638,9 @@ Note:          For the liability of an officer of a corporatio
 
              (2)  A person who does not comply with a notice under subsection (1) is guilty of an offence punishable, on conviction, by a fine not exceeding 20 penalty units or imprisonment for 12 months, or both.
 
-Note:          For the liability of an officer of a corporation, see section 31.
-
           (2A)  Subsection (2) does not apply if the person complies with the notice to the extent to which the person is capable of complying with it.
 
-Note:          A defendant bears an evidential burden in relation to the matter in subsection (2A), (see subsection 13.3(3) of the _Criminal Code_).
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (2A), (see subsection 13.3(3) of the _Criminal Code_).
 
              (3)  A person is not excused from furnishing information or producing a document in pursuance of this section on the ground that the information or document might tend to incriminate him or her, but his or her answer to any question asked in the notice, or his or her furnishing of any other information in pursuance of the notice, is not admissible in evidence against him or her in any criminal proceedings other than proceedings under this Act.
 
@@ -1746,1551 +1676,813 @@ the Treasurer may make any order under this Act that the Treasurer would have be
 
                    The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed or necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
-Endnotes
+# Notes to the _Foreign Acquisitions and Takeovers Act 1975_
 
-Endnote 1—Legislation history
+### Note 1
 
-This endnote sets out details of the legislation history of the _Foreign Acquisitions and Takeovers Act 1975._
+The _Foreign Acquisitions and Takeovers Act 1975_ as shown in this compilation comprises Act No. 92, 1975 amended as indicated in the Tables below. 
+
+All relevant information pertaining to application, saving or transitional provisions prior to 24 November 2000 is not included in this compilation. For subsequent information _see_ Table A.
+
+### Table of Acts
 
 <table>
 <colgroup>
-  <col width="26%">
-  <col width="14%">
-  <col width="14%">
-  <col width="26%">
-  <col width="20%">
+  <col width="30%">
+  <col width="16%">
+  <col width="18%">
+  <col width="21%">
+  <col width="15%">
 </colgroup>
 
 <thead>
   <tr>
     <td>
-      <div>
-        <b>
-          Act
-        </b>
-      </div>
+      <div>Act</div>
     </td>
     <td>
-      <div>
-        <b>
-          Number and year
-        </b>
-      </div>
+      <div>Number 
+and year</div>
     </td>
     <td>
-      <div>
-        <b>
-          Assent date
-        </b>
-      </div>
+      <div>Date 
+of Assent</div>
     </td>
     <td>
-      <div>
-        <b>
-          Commencement date
-        </b>
-      </div>
+      <div>Date of commencement</div>
     </td>
     <td>
-      <div>
-        <b>
-          Application, saving and transitional provisions
-        </b>
-      </div>
+      <div>Application, saving or transitional provisions</div>
     </td>
   </tr>
 </thead>
 <tr>
   <td>
-    <div>
-      Foreign Takeovers Act 1975
-    </div>
+    <div>Foreign Takeovers Act 1975</div>
   </td>
   <td>
-    <div>
-      92, 1975
-    </div>
+    <div>92, 1975</div>
   </td>
   <td>
-    <div>
-      28 Aug 1975
-    </div>
+    <div>28 Aug 1975</div>
   </td>
   <td>
-    <div>
-      1 Jan 1976 (
-        <i>see</i>
-        <i>Gazette</i>1975, No. S267)
-    </div>
+    <div>1 Jan 1976 ( <i>see Gazette</i>1975, No. S267)</div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Foreign Takeovers Amendment Act 1976
-    </div>
+    <div>Foreign Takeovers Amendment Act 1976</div>
   </td>
   <td>
-    <div>
-      93, 1976
-    </div>
+    <div>93, 1976</div>
   </td>
   <td>
-    <div>
-      20 Sept 1976
-    </div>
+    <div>20 Sept 1976</div>
   </td>
   <td>
-    <div>
-      ss. 1, 2, 3(2), 5, 9, 11 and 12: Royal Assent
-    </div>
-    <div>
-      Remainder: 1 Jan 1976
-    </div>
+    <div>Ss. 1, 2, 3(2), 5, 9, 11 and 12: Royal Assent 
+Remainder: 1 Jan 1976</div>
   </td>
   <td>
-    <div>
-      ss. 11 and 12
-    </div>
+    <div>Ss. 11 and 12</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Jurisdiction of Courts (Miscellaneous Amendments) Act 1979
-    </div>
+    <div>Jurisdiction of Courts (Miscellaneous Amendments) Act 1979</div>
   </td>
   <td>
-    <div>
-      19, 1979
-    </div>
+    <div>19, 1979</div>
   </td>
   <td>
-    <div>
-      28 Mar 1979
-    </div>
+    <div>28 Mar 1979</div>
   </td>
   <td>
-    <div>
-      Parts II–XVII (ss. 3–123): 15 May 1979 (
-        <i>see</i>
-        <i>Gazette</i>1979, No. S86)
-    </div>
-    <div>
-      Remainder: Royal Assent
-    </div>
+    <div>Parts II–XVII (ss. 3–123): 15 May 1979 ( <i>see Gazette</i>1979, No. S86) 
+Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>
-      s. 124
-    </div>
+    <div>S. 124</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Commonwealth Functions (Statutes Review) Act 1981
-    </div>
+    <div>Commonwealth Functions (Statutes Review) Act 1981</div>
   </td>
   <td>
-    <div>
-      74, 1981
-    </div>
+    <div>74, 1981</div>
   </td>
   <td>
-    <div>
-      18 June 1981
-    </div>
+    <div>18 June 1981</div>
   </td>
   <td>
-    <div>
-      Part XII (ss. 185–187): Royal Assent
-        <i>(a)</i>
-
-    </div>
+    <div>Part XII (ss. 
+185–187): Royal Assent <i>(a)</i></div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Foreign Takeovers Amendment Act 1989
-    </div>
+    <div>Foreign Takeovers Amendment Act 1989</div>
   </td>
   <td>
-    <div>
-      14, 1989
-    </div>
+    <div>14, 1989</div>
   </td>
   <td>
-    <div>
-      13 Apr 1989
-    </div>
+    <div>13 Apr 1989</div>
   </td>
   <td>
-    <div>
-      1 Aug 1989 (
-        <i>see</i>
-        <i>Gazette</i>1989, No. S240)
-    </div>
+    <div>1 Aug 1989 ( <i>see Gazette</i>1989, No. S240)</div>
   </td>
   <td>
-    <div>
-      s. 32
-    </div>
+    <div>S. 32</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Migration Legislation Amendment Act 1994
-    </div>
+    <div>Migration Legislation Amendment Act 1994</div>
   </td>
   <td>
-    <div>
-      60, 1994
-    </div>
+    <div>60, 1994</div>
   </td>
   <td>
-    <div>
-      9 Apr 1994
-    </div>
+    <div>9 Apr 1994</div>
   </td>
   <td>
-    <div>
-      s. 85: 1 Sept 1994
-        <i>(b)</i>
-
-    </div>
+    <div>S. 85: 1 Sept 1994 <i>(b)</i></div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Crimes and Other Legislation Amendment Act 1997
-    </div>
+    <div>Crimes and Other Legislation Amendment Act 1997</div>
   </td>
   <td>
-    <div>
-      20, 1997
-    </div>
+    <div>20, 1997</div>
   </td>
   <td>
-    <div>
-      7 Apr 1997
-    </div>
+    <div>7 Apr 1997</div>
   </td>
   <td>
-    <div>
-      Schedule 2 (item 5): Royal Assent
-        <i>(c)</i>
-
-    </div>
+    <div>Schedule 2 (item 5): Royal Assent <i>(c)</i></div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Company Law Review Act 1998
-    </div>
+    <div>Company Law Review Act 1998</div>
   </td>
   <td>
-    <div>
-      61, 1998
-    </div>
+    <div>61, 1998</div>
   </td>
   <td>
-    <div>
-      29 June 1998
-    </div>
+    <div>29 June 1998</div>
   </td>
   <td>
-    <div>
-      Schedule 4 (item 10): 1 July 1998 (
-        <i>see</i>
-        <i>Gazette</i>1998, No. S317)
-        <i>(d)</i>
-
-    </div>
+    <div>Schedule 4 (item 10): 1 July 1998 ( <i>see Gazette</i>1998, No. S317) <i>(d)</i></div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act
-        2000
-    </div>
+    <div>Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000</div>
   </td>
   <td>
-    <div>
-      137, 2000
-    </div>
+    <div>137, 2000</div>
   </td>
   <td>
-    <div>
-      24 Nov 2000
-    </div>
+    <div>24 Nov 2000</div>
   </td>
   <td>
-    <div>
-      ss. 1–3 and Schedule 1 (items 1, 4, 6, 7, 9–11, 32): Royal Assent
-    </div>
-    <div>
-      Remainder: 24 May 2001
-    </div>
+    <div>Ss. 1–3 and Schedule 1 (items 1, 4, 6, 7, 9–11, 32): Royal Assent 
+Remainder: 24 May 2001</div>
   </td>
   <td>
-    <div>
-      Sch. 2 (items 418, 419) \[
-        <i>see</i>Endnote 3]
-    </div>
+    <div>Sch. 2 (items 418, 419) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Treasury Legislation Amendment (Application of Criminal Code) Act (No. 1)
-        2001
-    </div>
+    <div>Treasury Legislation Amendment (Application of Criminal Code) Act (No. 1) 2001</div>
   </td>
   <td>
-    <div>
-      31, 2001
-    </div>
+    <div>31, 2001</div>
   </td>
   <td>
-    <div>
-      28 Apr 2001
-    </div>
+    <div>28 Apr 2001</div>
   </td>
   <td>
-    <div>
-      ss. 1–3, Schedule 1 (items 1–4) and Schedule 2: Royal Assent
-    </div>
-    <div>
-      Schedule 1 (items 171, 172): 18 Jan 2001 (
-        <i>see</i>s. 2(2))
-    </div>
-    <div>
-      Remainder: 15 Dec 2001 (
-        <i>see</i>s. 2(4))
-    </div>
+    <div>Ss. 1–3, Schedule 1 (items 1–4) and Schedule 2: Royal Assent 
+Schedule 1 (items 171, 172): 18 Jan 2001 ( <i>see</i>s. 2(2)) 
+Remainder: 15 Dec 2001 ( <i>see</i>s. 2(4))</div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      US Free Trade Agreement Implementation Act 2004
-    </div>
+    <div>US Free Trade Agreement Implementation Act 2004</div>
   </td>
   <td>
-    <div>
-      120, 2004
-    </div>
+    <div>120, 2004</div>
   </td>
   <td>
-    <div>
-      16 Aug 2004
-    </div>
+    <div>16 Aug 2004</div>
   </td>
   <td>
-    <div>
-      Schedule 5: 1 Jan 2005
-    </div>
+    <div>Schedule 5: 1 Jan 2005</div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Statute Law Revision Act 2008
-    </div>
+    <div>Statute Law Revision Act 2008</div>
   </td>
   <td>
-    <div>
-      73, 2008
-    </div>
+    <div>73, 2008</div>
   </td>
   <td>
-    <div>
-      3 July 2008
-    </div>
+    <div>3 July 2008</div>
   </td>
   <td>
-    <div>
-      Schedule 4 (items 295–298): 4 July 2008
-    </div>
+    <div>Schedule 4 (items 295–298): 4 July 2008</div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Same‑Sex Relationships (Equal Treatment in Commonwealth Laws—General Law
-        Reform) Act 2008
-    </div>
+    <div>Same‑Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008</div>
   </td>
   <td>
-    <div>
-      144, 2008
-    </div>
+    <div>144, 2008</div>
   </td>
   <td>
-    <div>
-      9 Dec 2008
-    </div>
+    <div>9 Dec 2008</div>
   </td>
   <td>
-    <div>
-      Schedule 14 (items 105–111): 10 Dec 2008
-    </div>
+    <div>Schedule 14 (items 105–111): 10 Dec 2008</div>
   </td>
   <td>
-    <div>
-      Sch. 14 (item 111) \[
-        <i>see</i>Endnote 3]
-    </div>
+    <div>Sch. 14 (item 111) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Foreign Acquisitions and Takeovers Amendment Act 2010
-    </div>
+    <div>Foreign Acquisitions and Takeovers Amendment Act 2010</div>
   </td>
   <td>
-    <div>
-      1, 2010
-    </div>
+    <div>1, 2010</div>
   </td>
   <td>
-    <div>
-      12 Feb 2010
-    </div>
+    <div>12 Feb 2010</div>
   </td>
   <td>
-    <div>
-      Schedule 1: 12 Feb 2009
-    </div>
-    <div>
-      Remainder: Royal Assent
-    </div>
+    <div>Schedule 1: 12 Feb 2009 
+Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>
-      Sch. 2 \[
-        <i>see</i>Endnote 3]
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Personal Liability for Corporate Fault Reform Act 2012
-    </div>
-  </td>
-  <td>
-    <div>
-      180, 2012
-    </div>
-  </td>
-  <td>
-    <div>
-      10 Dec 2012
-    </div>
-  </td>
-  <td>
-    <div>
-      Schedule 2: 11 Dec 2012
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+    <div>Sch. 2 \[ <i>see</i>Table A]</div>
   </td>
 </tr></table>
 
-_(a)_             The _Foreign Acquisitions and Takeovers Act 1975_ was amended by Part XII (sections 185–187) only of the _Commonwealth Functions (Statutes Review) Act 1981_, subsection 2(1) of which provides as follows:
+_(a)_     The _Foreign Acquisitions and Takeovers Act 1975_ was amended by Part XII (sections 
+ 185–187) only of the _Commonwealth Functions (Statutes Review) Act 1981_, subsection 2(1) of which provides as follows:
 
-                   (1)  Parts I, IV, IX, X, XI, XII, XIII, XVII (other than sections 220, 221, 222, 223, 225, 226, 227, 228, and 230), XX, XXI, XXII and XXIII shall come into operation on the day on which this Act receives the Royal Assent.
+                 (1)   Parts I, IV, IX, X, XI, XII, XIII, XVII (other than sections 220, 221, 222, 223, 225, 226, 227, 228, and 230), XX, XXI, XXII and XXIII shall come into operation on the day on which this Act receives the Royal Assent.
 
-_(b)_             The _Foreign Acquisitions and Takeovers Act 1975_ was amended by section 85 only of the _Migration Legislation Amendment Act 1994_, subsection 2(3) of which provides as follows:
+_(b)_     The _Foreign Acquisitions and Takeovers Act 1975_ was amended by section 85 only of the _Migration Legislation Amendment Act 1994_, subsection 2(3) of which provides as follows:
 
-                   (3)  The remaining provisions of this Act commence immediately after the commencement of section 3 of the _Migration Reform Act 1992_.
+                 (3)   The remaining provisions of this Act commence immediately after the commencement of section 3 of the _Migration Reform Act 1992_.
 
-                  Section 3 commenced on 1 September 1994.
+ Section 3 commenced on 1 September 1994.
 
-_(c)_              The _Foreign Acquisitions and Takeovers Act 1975_ was amended by Schedule 2 (item 5) only of the _Crimes and Other Legislation Amendment Act 1997_, subsection 2(1) of which provides as follows:
+_(c)_     The _Foreign Acquisitions and Takeovers Act 1975_ was amended by Schedule 2 (item 5) only of the _Crimes and Other Legislation Amendment Act 1997_, subsection 2(1) of which provides as follows:
 
-                   (1)  Subject to subsection (2), this Act commences on the day on which it receives the Royal Assent.
+                 (1)   Subject to subsection (2), this Act commences on the day on which it receives the Royal Assent.
 
-_(d)_ The _Foreign Acquisitions and Takeovers Act 1975_ was amended by Schedule 4 (item 10) only of the _Company Law Review Act 1998_, subsection 2(2) of which provides as follows:
+_(d)_ The _Foreign Acquisitions and Takeovers Act 1975_ was amended by Schedule 4 (item 10) only of the _Company Law Review Act 1998_, subsection 2(2) of which provides as follows:
 
-                   (2)  Subject to subsection (3), section 3 and Schedules 1, 2, 3 and 4 commence on a day to be fixed by Proclamation.
+                 (2)   Subject to subsection (3), section 3 and Schedules 1, 2, 3 and 4 commence on a day to be fixed by Proclamation.
 
-Endnote 2—Amendment history
-
-This endnote sets out the amendment history of the _Foreign Acquisitions and Takeovers Act 1975__._
+## Table of Amendments
 
 <table>
 <colgroup>
-  <col width="30%">
-  <col width="70%">
+  <col width="34%">
+  <col width="66%">
 </colgroup>
 
 <thead>
   <tr>
     <td colspan="2">
-      <div>
-        ad. = added or inserted am. = amended rep. = repealed rs. = repealed and
-          substituted exp. = expired or ceased to have effect
-      </div>
+      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>
-        <b>
-          Provision affected
-        </b>
-      </div>
+      <div>Provision affected</div>
     </td>
     <td>
-      <div>
-        <b>
-          How affected
-        </b>
-      </div>
+      <div>How affected</div>
     </td>
   </tr>
 </thead>
 <tr>
   <td>
-    <div>
-      Title....................................
-    </div>
+    <div>Title</div>
   </td>
   <td>
-    <div>
-      rs. No. 14, 1989
-    </div>
+    <div>rs. No. 14, 1989</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Part I
-      </b>
-    </div>
+    <div><b>Part I</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 1......................................
-    </div>
+    <div>S. 1</div>
   </td>
   <td>
-    <div>
-      am. No. 14, 1989
-    </div>
+    <div>am. No. 14, 1989</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 3......................................
-    </div>
+    <div>S. 3</div>
   </td>
   <td>
-    <div>
-      am. No. 93, 1976; No. 19, 1979
-    </div>
+    <div>am. No. 93, 1976; No. 19, 1979</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 4......................................
-    </div>
+    <div>S. 4</div>
   </td>
   <td>
-    <div>
-      am. No. 14, 1989
-    </div>
+    <div>am. No. 14, 1989</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 5......................................
-    </div>
+    <div>S. 5</div>
   </td>
   <td>
-    <div>
-      am. No. 93, 1976; No. 74, 1981; No. 14, 1989; No. 61, 1998; No. 120, 2004;
-        Nos. 73 and 144, 2008; No. 1, 2010
-    </div>
+    <div>am. No. 93, 1976; No. 74, 1981; No. 14, 1989; No. 61, 1998; No. 120, 2004; Nos. 73 and 144, 2008; No. 1, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 5A...................................
-    </div>
+    <div>S. 5A</div>
   </td>
   <td>
-    <div>
-      ad. No. 14, 1989
-    </div>
+    <div>ad. No. 14, 1989</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 60, 1994
-    </div>
+    <div>am. No. 60, 1994</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 6......................................
-    </div>
+    <div>S. 6</div>
   </td>
   <td>
-    <div>
-      am. No. 14, 1989; No. 144, 2008
-    </div>
+    <div>am. No. 14, 1989; No. 144, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 7......................................
-    </div>
+    <div>S. 7</div>
   </td>
   <td>
-    <div>
-      am. No. 14, 1989; No. 73, 2008
-    </div>
+    <div>am. No. 14, 1989; No. 73, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 8......................................
-    </div>
+    <div>S. 8</div>
   </td>
   <td>
-    <div>
-      am. No. 93, 1976
-    </div>
+    <div>am. No. 93, 1976</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 9......................................
-    </div>
+    <div>S. 9</div>
   </td>
   <td>
-    <div>
-      am. No. 14, 1989; No. 1, 2010
-    </div>
+    <div>am. No. 14, 1989; No. 1, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 9A...................................
-    </div>
+    <div>S. 9A</div>
   </td>
   <td>
-    <div>
-      ad. No. 14, 1989
-    </div>
+    <div>ad. No. 14, 1989</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 11....................................
-    </div>
+    <div>S. 11</div>
   </td>
   <td>
-    <div>
-      am. No. 73, 2008; No. 1, 2010
-    </div>
+    <div>am. No. 73, 2008; No. 1, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      ss. 12A, 12B.......................
-    </div>
+    <div>Ss. 12A, 12B</div>
   </td>
   <td>
-    <div>
-      ad. No. 14, 1989
-    </div>
+    <div>ad. No. 14, 1989</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 12C.................................
-    </div>
+    <div>S. 12C</div>
   </td>
   <td>
-    <div>
-      ad. No. 14, 1989
-    </div>
+    <div>ad. No. 14, 1989</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 1, 2010
-    </div>
+    <div>am. No. 1, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 13....................................
-    </div>
+    <div>S. 13</div>
   </td>
   <td>
-    <div>
-      am. No. 14, 1989
-    </div>
+    <div>am. No. 14, 1989</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 13A.................................
-    </div>
+    <div>S. 13A</div>
   </td>
   <td>
-    <div>
-      ad. No. 14, 1989
-    </div>
+    <div>ad. No. 14, 1989</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 13B.................................
-    </div>
+    <div>S. 13B</div>
   </td>
   <td>
-    <div>
-      ad. No. 14, 1989
-    </div>
+    <div>ad. No. 14, 1989</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 120, 2004
-    </div>
+    <div>am. No. 120, 2004</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      ss. 13C, 13D.......................
-    </div>
+    <div>Ss. 13C, 13D</div>
   </td>
   <td>
-    <div>
-      ad. No. 14, 1989
-    </div>
+    <div>ad. No. 14, 1989</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to s. 14..................
-    </div>
+    <div>Heading to s. 14</div>
   </td>
   <td>
-    <div>
-      rs. No. 1, 2010
-    </div>
+    <div>rs. No. 1, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 14....................................
-    </div>
+    <div>S. 14</div>
   </td>
   <td>
-    <div>
-      am. No. 1, 2010
-    </div>
+    <div>am. No. 1, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 15....................................
-    </div>
+    <div>S. 15</div>
   </td>
   <td>
-    <div>
-      am. No. 93, 1976
-    </div>
+    <div>am. No. 93, 1976</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Part IA
-      </b>
-    </div>
+    <div><b>Part</b> <b>IA</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Part IA................................
-    </div>
+    <div>Part IA</div>
   </td>
   <td>
-    <div>
-      ad. No. 120, 2004
-    </div>
+    <div>ad. No. 120, 2004</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      ss. 17A–17H.......................
-    </div>
+    <div>Ss. 17A–17H</div>
   </td>
   <td>
-    <div>
-      ad. No. 120, 2004
-    </div>
+    <div>ad. No. 120, 2004</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Part II
-      </b>
-    </div>
+    <div><b>Part II</b></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to Part II................
-    </div>
+    <div>Heading to Part II</div>
   </td>
   <td>
-    <div>
-      am. No. 14, 1989
-    </div>
+    <div>am. No. 14, 1989</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 18....................................
-    </div>
+    <div>S. 18</div>
   </td>
   <td>
-    <div>
-      am. No. 73, 2008; No. 1, 2010
-    </div>
+    <div>am. No. 73, 2008; No. 1, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Note to s. 18(2)...................
-    </div>
+    <div>S. 19</div>
   </td>
   <td>
-    <div>
-      ad. No. 180, 2012
-    </div>
+    <div>am. No. 73, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Note to s. 18(3)...................
-    </div>
+    <div>Ss. 20, 21</div>
   </td>
   <td>
-    <div>
-      ad. No. 180, 2012
-    </div>
+    <div>am. No. 73, 2008; No. 1, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Note to s. 18(4)...................
-    </div>
+    <div>S. 21A</div>
   </td>
   <td>
-    <div>
-      ad. No. 180, 2012
-    </div>
+    <div>ad. No. 14, 1989</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 19....................................
-    </div>
+    <div>S. 22</div>
   </td>
   <td>
-    <div>
-      am. No. 73, 2008
-    </div>
+    <div>am. No. 14, 1989; No. 73, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Note to s. 19(2)...................
-    </div>
+    <div>S. 23</div>
   </td>
   <td>
-    <div>
-      ad. No. 180, 2012
-    </div>
+    <div>am. No. 14, 1989</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Note to s. 19(3)...................
-    </div>
+    <div>S. 24</div>
   </td>
   <td>
-    <div>
-      ad. No. 180, 2012
-    </div>
+    <div>am. No. 14, 1989; No. 73, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Note to s. 19(4)...................
-    </div>
+    <div>S. 25</div>
   </td>
   <td>
-    <div>
-      ad. No. 180, 2012
-    </div>
+    <div>am. No. 14, 1989; No. 31, 2001; No. 1, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 20....................................
-    </div>
+    <div>S. 26</div>
   </td>
   <td>
-    <div>
-      am. No. 73, 2008; No. 1, 2010
-    </div>
+    <div>rs. No. 93, 1976</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Note to s. 20(2)...................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 180, 2012
-    </div>
+    <div>am. No. 74, 1981; No. 14, 1989; No. 31, 2001; No. 73, 2008; No. 1, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Note to s. 20(3)...................
-    </div>
+    <div>S. 26A</div>
   </td>
   <td>
-    <div>
-      ad. No. 180, 2012
-    </div>
+    <div>ad. No. 14, 1989</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 21....................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 73, 2008; No. 1, 2010
-    </div>
+    <div>am. No. 31, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Note to s. 21(2)...................
-    </div>
+    <div>S. 27</div>
   </td>
   <td>
-    <div>
-      ad. No. 180, 2012
-    </div>
+    <div>am. No. 14, 1989</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Note to s. 21(3)...................
-    </div>
+    <div>Heading to s. 28</div>
   </td>
   <td>
-    <div>
-      ad. No. 180, 2012
-    </div>
+    <div>am. No. 1, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 21A.................................
-    </div>
+    <div>S. 28</div>
   </td>
   <td>
-    <div>
-      ad. No. 14, 1989
-    </div>
+    <div>rs. No. 93, 1976</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Note to s. 21A(2)................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 180, 2012
-    </div>
+    <div>am. No. 1, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Note to s. 21A(3)................
-    </div>
+    <div>S. 29</div>
   </td>
   <td>
-    <div>
-      ad. No. 180, 2012
-    </div>
+    <div>rep. No. 93, 1976</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Note to s. 21A(4)................
-    </div>
+    <div><b>Part III</b></div>
   </td>
   <td>
-    <div>
-      ad. No. 180, 2012
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 22....................................
-    </div>
+    <div>S. 30</div>
   </td>
   <td>
-    <div>
-      am. No. 14, 1989; No. 73, 2008
-    </div>
+    <div>am. No. 14, 1989; No. 31, 2001; No. 73, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Note to s. 22(1)...................
-    </div>
+    <div>S. 32</div>
   </td>
   <td>
-    <div>
-      ad. No. 180, 2012
-    </div>
+    <div>am. No. 14, 1989</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 23....................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 14, 1989
-    </div>
+    <div>rep. No. 31, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 24....................................
-    </div>
+    <div>S. 33</div>
   </td>
   <td>
-    <div>
-      am. No. 14, 1989; No. 73, 2008
-    </div>
+    <div>rep. No. 20, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 25....................................
-    </div>
+    <div>S. 34</div>
   </td>
   <td>
-    <div>
-      am. No. 14, 1989; No. 31, 2001; No. 1, 2010
-    </div>
+    <div>rep. No. 14, 1989</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Note to s. 25(1C)................
-    </div>
+    <div>S. 35</div>
   </td>
   <td>
-    <div>
-      ad. No. 180, 2012
-    </div>
+    <div>am. No. 14, 1989</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 26....................................
-    </div>
+    <div>S. 36</div>
   </td>
   <td>
-    <div>
-      rs. No. 93, 1976
-    </div>
+    <div>am. No. 14, 1989; No. 31, 2001; No. 73, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div>S. 36A</div>
   </td>
   <td>
-    <div>
-      am. No. 74, 1981; No. 14, 1989; No. 31, 2001; No. 73, 2008; No. 1, 2010
-    </div>
+    <div>ad. No. 14, 1989</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Note to s. 26(2)...................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 180, 2012
-    </div>
+    <div>rep. No. 137, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 26A.................................
-    </div>
+    <div>S. 38</div>
   </td>
   <td>
-    <div>
-      ad. No. 14, 1989
-    </div>
+    <div>rs. No. 93, 1976</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div>S. 38A</div>
   </td>
   <td>
-    <div>
-      am. No. 31, 2001
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Note to s. 26A(2)................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 180, 2012
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 27....................................
-    </div>
-  </td>
-  <td>
-    <div>
-      am. No. 14, 1989
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Heading to s. 28..................
-    </div>
-  </td>
-  <td>
-    <div>
-      am. No. 1, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 28....................................
-    </div>
-  </td>
-  <td>
-    <div>
-      rs. No. 93, 1976
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-
-    </div>
-  </td>
-  <td>
-    <div>
-      am. No. 1, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 29....................................
-    </div>
-  </td>
-  <td>
-    <div>
-      rep. No. 93, 1976
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      <b>
-        Part III
-      </b>
-    </div>
-  </td>
-  <td>
-    <div>
-
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Heading to s. 30..................
-    </div>
-  </td>
-  <td>
-    <div>
-      rs. No. 180, 2012
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 30....................................
-    </div>
-  </td>
-  <td>
-    <div>
-      am. No. 14, 1989; No. 31, 2001; No. 73, 2008
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Note to s. 30(1)...................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 180, 2012
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 31....................................
-    </div>
-  </td>
-  <td>
-    <div>
-      am. No. 180, 2012
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 32....................................
-    </div>
-  </td>
-  <td>
-    <div>
-      am. No. 14, 1989
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-
-    </div>
-  </td>
-  <td>
-    <div>
-      rep. No. 31, 2001
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 33....................................
-    </div>
-  </td>
-  <td>
-    <div>
-      rep. No. 20, 1997
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 34....................................
-    </div>
-  </td>
-  <td>
-    <div>
-      rep. No. 14, 1989
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 35....................................
-    </div>
-  </td>
-  <td>
-    <div>
-      am. No. 14, 1989
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 36....................................
-    </div>
-  </td>
-  <td>
-    <div>
-      am. No. 14, 1989; No. 31, 2001; No. 73, 2008
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Note to s. 36(2)...................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 180, 2012
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 36A.................................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 14, 1989
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-
-    </div>
-  </td>
-  <td>
-    <div>
-      rep. No. 137, 2000
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 38....................................
-    </div>
-  </td>
-  <td>
-    <div>
-      rs. No. 93, 1976
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 38A.................................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 14, 1989
-    </div>
+    <div>ad. No. 14, 1989</div>
   </td>
 </tr></table>
 
-Endnote 3—Application, saving and transitional provisions
+## Table A
 
-This endnote sets out applications, saving and transitional provisions for amendments of the _Foreign Acquisitions and Takeovers Act 1975__._
+### Application, saving or transitional provisions
 
-Application, saving and transitional provisions prior to 24 November 2000 are not included in this endnote.
-
-Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)
+_Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) 
+ Act 2000 (No. 137, 2000)_
 
 ## Schedule 2
 
@@ -3320,7 +2512,9 @@ If:
 
 the amendment of the first‑mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
 
-Same‑Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008 (No. 144, 2008)
+* * *
+
+_Same‑Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008 (No. 144, 2008)_
 
 ## Schedule 14
 
@@ -3328,7 +2522,7 @@ Same‑Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Ref
 
 (1)       If:
 
-                     (a)  apart from this subitem, a person would be an associate of another person for the purposes of paragraph 9(1)(a) or (b) or paragraph 9A(1)(a) or (b) of the _Foreign Acquisitions and Takeovers Act 1975_ on the commencement day; and
+                     (a)  apart from this subitem, a person would be an associate of another person for the purposes of paragraph 9(1)(a) or (b) or paragraph 9A(1)(a) or (b) of the _Foreign Acquisitions and Takeovers Act 1975_ on the commencement day; and
 
                      (b)  the persons would be associates only because of the amendments of that Act made by this Part;
 
@@ -3346,7 +2540,9 @@ then, the Treasurer may not make an order under Part II of that Act in relatio
 
 **_commencement day_** means the day on which the amendments of the _Foreign Acquisitions and Takeovers Act 1975_ made by this Part commence.
 
-Foreign Acquisitions and Takeovers Amendment Act 2010 (No. 1, 2010)
+* * *
+
+_Foreign Acquisitions and Takeovers Amendment Act 2010 (No. 1, 2010)_
 
 ## Schedule 2
 
@@ -3362,9 +2558,9 @@ Foreign Acquisitions and Takeovers Amendment Act 2010 (No. 1, 2010)
 
                      (b)  by entering into the arrangement, the person:
 
-                              (i)  would not have committed an offence under subsection 26(2) or 26A(2) of the _Foreign Acquisitions and Takeovers Act 1975_ (disregarding the amendments made by Schedule 1 to this Act); and
+                              (i)  would not have committed an offence under subsection 26(2) or 26A(2) of the _Foreign Acquisitions and Takeovers Act 1975_ (disregarding the amendments made by Schedule 1 to this Act); and
 
-                             (ii)  would (apart from subitem (2)) have committed an offence under subsection 26(2) or 26A(2) of the _Foreign Acquisitions and Takeovers Act 1975_ (as amended by Schedule 1 to this Act).
+                             (ii)  would (apart from subitem (2)) have committed an offence under subsection 26(2) or 26A(2) of the _Foreign Acquisitions and Takeovers Act 1975_ (as amended by Schedule 1 to this Act).
 
 _Note:       The amendments in Schedule 1 are taken to have commenced on 12 February 2009._
 
@@ -3390,24 +2586,12 @@ A person commits an offence if:
 
                      (b)  by entering into the arrangement, the person:
 
-                              (i)  would not have committed an offence under subsection 26(2) or 26A(2) of the _Foreign Acquisitions and Takeovers Act 1975_ (disregarding the amendments made by Schedule 1 to this Act); and
+                              (i)  would not have committed an offence under subsection 26(2) or 26A(2) of the _Foreign Acquisitions and Takeovers Act 1975_ (disregarding the amendments made by Schedule 1 to this Act); and
 
-                             (ii)  would (apart from subitem 1(2)) have committed an offence under subsection 26(2) or 26A(2) of the _Foreign Acquisitions and Takeovers Act 1975_ (as amended by Schedule 1 to this Act); and
+                             (ii)  would (apart from subitem 1(2)) have committed an offence under subsection 26(2) or 26A(2) of the _Foreign Acquisitions and Takeovers Act 1975_ (as amended by Schedule 1 to this Act); and
 
                      (c)  the person does not give the Treasurer a notice having effect for the purposes of section 25 of that Act in respect of the arrangement within 30  days after the day on which this item commences.
 
                     Penalty:  500 penalty units or imprisonment for 2 years, or both.
-
-Endnote 4—Uncommenced amendments
-
-This endnote sets out amendments of the _Foreign Acquisitions and Takeovers Act 1975_ that have not yet commenced.
-
-There are no uncommenced amendments.
-
-Endnote 5—Misdescribed amendments
-
-This endnote sets out amendments of the _Foreign Acquisitions and Takeovers Act 1975_ that have been misdescribed.
-
-There are no misdescribed amendments.
 
  
