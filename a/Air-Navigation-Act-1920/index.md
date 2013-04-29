@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00273/Html/5f37e6f4-a6ad-4d14-b22d-bfadedb9e0c5_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00136/Html/a4cd6da0-98c7-4beb-a809-c09c807836bf_files/image001.gif)
 
 # Air Navigation Act 1920
 
 **Act No. 50 of 1920 as amended**
 
-This compilation was prepared on 19 April 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 20 March 2009
+ taking into account amendments up to Act No. 87 of 2008
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -54,13 +54,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [13](#13).          Licensing of scheduled international air services
 
-[14](#14).          Non‑scheduled flights by aircraft possessing nationality of a Contracting State
+[14](#14).          Non-scheduled flights by aircraft possessing nationality of a Contracting State
 
 [15](#15).          Definitions
 
-[15A](#15A).       Aircraft on non‑scheduled flights not to take on or discharge passengers, cargo or mail without permission
+[15A](#15A).       Aircraft on non-scheduled flights not to take on or discharge passengers, cargo or mail without permission
 
-[15B](#15B).       Applications for permission to operate non‑scheduled flights
+[15B](#15B).       Applications for permission to operate non-scheduled flights
 
 [15C](#15C).       Information to be contained in application
 
@@ -90,7 +90,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [26](#26).          Regulations
 
-[27](#27).          Extra‑territorial operation of regulations
+[27](#27).          Extra-territorial operation of regulations
 
 [27A](#27A).       Registration of security interests in relation to aircraft and components of aircraft
 
@@ -124,7 +124,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Schedule 11—Protocol relating to an amendment to Article 56 of the Convention on International Civil Aviation Signed at Montreal on 6 October 1989** 
 
-**Schedule 12—Protocol relating to an amendment to Article 50 (a) of the Convention on International Civil Aviation Signed at Montreal on 26 October 1990** 
+**Schedule 12—Protocol relating to an amendment to Article 50 (a) of the Convention on International Civil Aviation Signed at Montreal on 26 October 1990** 
 
 **Notes** 
 
@@ -174,7 +174,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="intern-airport"></a>**_international airport_** means an international airport designated under subsection 9(1).
 
-                    <a name="non-schuled-flight"></a>**_non‑scheduled flight_**, in relation to an aircraft, means a flight by the aircraft into or from Australian territory where the flight is not made under the authority of an international airline licence granted by the Secretary under the regulations.
+                    <a name="non-schuled-flight"></a>**_non-scheduled flight_**, in relation to an aircraft, means a flight by the aircraft into or from Australian territory where the flight is not made under the authority of an international airline licence granted by the Secretary under the regulations.
 
                     <a name="pilot-command"></a>**_pilot in command_**, in relation to an aircraft, means the pilot responsible for the operation and safety of the aircraft during the flight of the aircraft.
 
@@ -188,11 +188,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="chicago-convent"></a>**_the Chicago Convention_** means the Convention on International Civil Aviation concluded at Chicago on 7 December 1944.
 
-                    <a name="intern-air-transport-associ"></a>**_the International Air Transport Association_** means the association incorporated under that name by Act 9‑10 George VI., Chapter 51, of the Parliament of Canada.
+                    <a name="intern-air-transport-associ"></a>**_the International Air Transport Association_** means the association incorporated under that name by Act 9-10 George VI., Chapter 51, of the Parliament of Canada.
 
                     <a name="intern-civil-aviat-organ"></a>**_the International Civil Aviation Organization_** means the organization, so named, formed under Article 43 of the Chicago Convention.
 
-                    <a name="secretari"></a>**_the Secretary_** means the Secretary of the Department.
+                    <a name="secretari"></a>**_the Secretary_** means the Secretary to the Department.
 
              (2)  Any reference in this Act to a contravention of, or failure to comply with, a provision of this Act includes a reference to a contravention of, or failure to comply with, an instruction, direction, condition or requirement issued, given, made or imposed in pursuance of this Act.
 
@@ -254,7 +254,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (a)  an aircraft arriving in Australian territory from a place outside Australian territory shall land at an aerodrome designated as an international airport under section 9; and
 
-                     (b)  an aircraft departing from Australian territory for a place outside Australian territory shall take‑off from an aerodrome so designated.
+                     (b)  an aircraft departing from Australian territory for a place outside Australian territory shall take-off from an aerodrome so designated.
 
              (2)  If an aircraft is flown in contravention of subsection (1), the operator of the aircraft and the pilot in command of the aircraft are each guilty of an offence punishable on conviction by imprisonment for a period of not more than 2 years.
 
@@ -396,7 +396,7 @@ the Federal Court may, on the application of the Minister, grant an injunction r
 
                      (b)  whether or not the airline or person has previously engaged in conduct of that kind; and
 
-                     (c)  whether or not there is imminent danger of substantial damage to any person if the airline or the first‑mentioned person engages in conduct of that kind.
+                     (c)  whether or not there is imminent danger of substantial damage to any person if the airline or the first-mentioned person engages in conduct of that kind.
 
              (8)  The Federal Court’s power to grant an injunction requiring an Australian international airline or any other person to do an act or thing may be exercised:
 
@@ -404,7 +404,7 @@ the Federal Court may, on the application of the Minister, grant an injunction r
 
                      (b)  whether or not the airline or person has previously refused or failed to do that act or thing; and
 
-                     (c)  whether or not there is imminent danger of substantial damage to any person if the airline or the first‑mentioned person refuses or fails to do that act or thing.
+                     (c)  whether or not there is imminent danger of substantial damage to any person if the airline or the first-mentioned person refuses or fails to do that act or thing.
 
              (9)  If the Minister applies to the Federal Court for an injunction under this section, the court must not require the Minister, as a condition of granting an interim injunction, to give an undertaking as to damages.
 
@@ -468,17 +468,17 @@ Note:          A defendant bears an evidential burden in relat
 
              (4)  Subsection (3) does not limit subsection 12(3).
 
-##### <a id="14"></a>14  Non‑scheduled flights by aircraft possessing nationality of a Contracting State
+##### <a id="14"></a>14  Non-scheduled flights by aircraft possessing nationality of a Contracting State
 
-                   An aircraft that possesses the nationality of a Contracting State may, subject to observance of the terms of the Chicago Convention and the provisions of this Act, the regulations, the _Civil Aviation Act 1988_ and the regulations made under that Act, fly in transit non‑stop across Australian territory, or land in Australian territory for non‑traffic purposes, in the course of a non‑scheduled flight without the necessity of obtaining prior permission.
+                   An aircraft that possesses the nationality of a Contracting State may, subject to observance of the terms of the Chicago Convention and the provisions of this Act, the regulations, the _Civil Aviation Act 1988_ and the regulations made under that Act, fly in transit non-stop across Australian territory, or land in Australian territory for non-traffic purposes, in the course of a non-scheduled flight without the necessity of obtaining prior permission.
 
 ##### <a id="15"></a>15  Definitions
 
                    In sections 15A to 15F:
 
-                    <a name="charter"></a>**_charterer_**, in relation to a proposed non‑scheduled flight of an aircraft, or a proposed program of non‑scheduled flights of one or more aircraft, means the person who makes the arrangements for the carriage of passengers, cargo or mail on the aircraft or any of the aircraft.
+                    <a name="charter"></a>**_charterer_**, in relation to a proposed non-scheduled flight of an aircraft, or a proposed program of non-scheduled flights of one or more aircraft, means the person who makes the arrangements for the carriage of passengers, cargo or mail on the aircraft or any of the aircraft.
 
-                    <a name="charter-oper"></a>**_charter operator_**, in relation to a proposed non‑scheduled flight of an aircraft, or a proposed program of non‑scheduled flights of one or more aircraft, means:
+                    <a name="charter-oper"></a>**_charter operator_**, in relation to a proposed non-scheduled flight of an aircraft, or a proposed program of non-scheduled flights of one or more aircraft, means:
 
                      (a)  the owner of the aircraft or each of the aircraft; or
 
@@ -490,13 +490,13 @@ Note:          A defendant bears an evidential burden in relat
 
                     <a name="vari"></a>**_vary_**, in relation to a permission, includes alter or remove a condition to which the permission is subject or make the permission subject to a new condition.
 
-##### <a id="15A"></a>15A  Aircraft on non‑scheduled flights not to take on or discharge passengers, cargo or mail without permission
+##### <a id="15A"></a>15A  Aircraft on non-scheduled flights not to take on or discharge passengers, cargo or mail without permission
 
              (1)  The operator of an aircraft and the pilot in command of the aircraft commit an offence if:
 
                      (a)  any person engages in conduct; and
 
-                     (b)  the person’s conduct results in the aircraft taking on passengers, cargo or mail for carriage for reward in Australian territory before beginning a non‑scheduled flight or at an intermediate stopping place in the course of such a flight.
+                     (b)  the person’s conduct results in the aircraft taking on passengers, cargo or mail for carriage for reward in Australian territory before beginning a non-scheduled flight or at an intermediate stopping place in the course of such a flight.
 
                     Penalty:  Imprisonment for 6 months.
 
@@ -508,7 +508,7 @@ Note:          A defendant bears an evidential burden in relat
 
                      (a)  any person engages in conduct; and
 
-                     (b)  the person’s conduct results in the aircraft discharging passengers, cargo or mail carried for reward in Australian territory at an intermediate stopping place in the course of a non‑scheduled flight or at the end of such a flight.
+                     (b)  the person’s conduct results in the aircraft discharging passengers, cargo or mail carried for reward in Australian territory at an intermediate stopping place in the course of a non-scheduled flight or at the end of such a flight.
 
                     Penalty:  Imprisonment for 6 months.
 
@@ -524,7 +524,7 @@ Note:          A defendant bears an evidential burden in relat
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-             (3)  The Secretary may determine that a permission is not required in relation to a category of commercial non‑scheduled flights.
+             (3)  The Secretary may determine that a permission is not required in relation to a category of commercial non-scheduled flights.
 
              (4)  In deciding whether to make a determination under subsection (3), the Secretary is to have regard to the following matters (except to the extent, if any, to which the matters concerned relate to the safety of air navigation):
 
@@ -554,9 +554,9 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                      (a)  any passengers are, or any cargo or mail is:
 
-                              (i)  taken on to an aircraft in Australian territory before beginning a non‑scheduled flight or at an intermediate stopping place in the course of such a flight; or
+                              (i)  taken on to an aircraft in Australian territory before beginning a non-scheduled flight or at an intermediate stopping place in the course of such a flight; or
 
-                             (ii)  discharged from an aircraft in Australian territory at an intermediate stopping place in the course of a non‑scheduled flight or at the end of such a flight; and
+                             (ii)  discharged from an aircraft in Australian territory at an intermediate stopping place in the course of a non-scheduled flight or at the end of such a flight; and
 
                      (b)  a permission was not required for the taking on or discharging of the passengers, cargo or mail because of the operation of subsection (5);
 
@@ -576,9 +576,9 @@ Note:          If a body corporate is convicted of an offence,
 
                      (b)  omit to perform an act.
 
-##### <a id="15B"></a>15B  Applications for permission to operate non‑scheduled flights
+##### <a id="15B"></a>15B  Applications for permission to operate non-scheduled flights
 
-             (1)  A charter operator may apply to the Secretary for permission for passengers, cargo or mail to be carried on one or more aircraft on a non‑scheduled flight or on a program of non‑scheduled flights.
+             (1)  A charter operator may apply to the Secretary for permission for passengers, cargo or mail to be carried on one or more aircraft on a non-scheduled flight or on a program of non-scheduled flights.
 
              (2)  The application must:
 
@@ -758,7 +758,7 @@ Note:          A defendant bears an evidential burden in relat
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-          (1B)  The Secretary may, by instrument in writing, determine that permission is not required under this section in relation to a category of commercial non‑scheduled flights.
+          (1B)  The Secretary may, by instrument in writing, determine that permission is not required under this section in relation to a category of commercial non-scheduled flights.
 
           (1C)  Permission under this section is not required for a flight of an aircraft if the flight is included in a category of flights in relation to which such a determination is in force.
 
@@ -880,7 +880,7 @@ the person is not liable to be punished by imprisonment for the offence.
 
 ##### <a id="26"></a>26  Regulations
 
-             (1)  The Governor‑General may make regulations, not inconsistent with this Act:
+             (1)  The Governor-General may make regulations, not inconsistent with this Act:
 
                      (a)  prescribing all matters which by this Act are required or permitted to be prescribed or which are necessary or convenient to be prescribed for carrying out or giving effect to this Act;
 
@@ -908,13 +908,13 @@ the person is not liable to be punished by imprisonment for the offence.
 
                      (k)  the imposition of penalties not exceeding a fine of 50 penalty units for a contravention of, or failure to comply with, a provision of the regulations or a direction, instruction or condition issued, given, made or imposed under, or in force by virtue of, the regulations; and
 
-                      (l)  enabling a person who is alleged to have contravened a specified provision of the regulations to pay to the Commonwealth, as an alternative to prosecution, a specified penalty, not exceeding an amount equal to one‑fifth of the maximum penalty prescribed for contravening that provision.
+                      (l)  enabling a person who is alleged to have contravened a specified provision of the regulations to pay to the Commonwealth, as an alternative to prosecution, a specified penalty, not exceeding an amount equal to one-fifth of the maximum penalty prescribed for contravening that provision.
 
              (4)  The preceding provisions of this section (including provisions that do not contain references to the States or to a Territory) have effect as if the Northern Territory were a State.
 
              (5)  A law of the Northern Territory does not have effect to the extent to which it is inconsistent with a provision of the regulations having effect in that Territory.
 
-##### <a id="27"></a>27  Extra‑territorial operation of regulations
+##### <a id="27"></a>27  Extra-territorial operation of regulations
 
              (1)  Any provisions of the regulations may be expressed to apply to and in relation to any of the following:
 
@@ -1026,7 +1026,7 @@ under which the carriage by air of passengers or freight, or both passengers and
 
              (3)  In this section:
 
-                    <a name="hire-purchas-agreem"></a>**_hire‑purchase agreement_**, in relation to an aircraft or a component of an aircraft, means an agreement for the bailment of the aircraft or component under which:
+                    <a name="hire-purchas-agreem"></a>**_hire-purchase agreement_**, in relation to an aircraft or a component of an aircraft, means an agreement for the bailment of the aircraft or component under which:
 
                      (a)  the bailee may buy the aircraft or component; or
 
@@ -1050,7 +1050,7 @@ under which the carriage by air of passengers or freight, or both passengers and
 
                      (b)  includes:
 
-                              (i)  if the aircraft or component is the subject of a hire‑purchase agreement—the interest of the bailee under the agreement; and
+                              (i)  if the aircraft or component is the subject of a hire-purchase agreement—the interest of the bailee under the agreement; and
 
                              (ii)  if the aircraft or component is the subject of an instalment purchase agreement—the interest of the purchaser under the agreement.
 
@@ -1124,7 +1124,7 @@ PREAMBLE.
 
 WHEREAS the future development of international civil aviation can greatly help to create and preserve friendship and understanding among the nations and peoples of the world, yet its abuse can become a threat to the general security; and 
 
-WHEREAS it is desirable to avoid friction and to promote that co‑operation between nations and peoples upon which the peace of the world depends; 
+WHEREAS it is desirable to avoid friction and to promote that co-operation between nations and peoples upon which the peace of the world depends; 
 
 THEREFORE, the undersigned governments having agreed on certain principles and arrangements in order that international civil aviation may be developed in a safe and orderly manner and that international air transport services may be established on the basis of equality of opportunity and operated soundly and economically; 
 
@@ -1168,9 +1168,9 @@ CHAPTER II.—FLIGHT OVER TERRITORY OF CONTRACTING STATES.
 
 _Article_ 5.
 
-**Right of non‑scheduled flight.**
+**Right of non-scheduled flight.**
 
-Each contracting State agrees that all aircraft of the other contracting States, being aircraft not engaged in scheduled international air services shall have the right, subject to the observance of the terms of this Convention, to make flights into or in transit non‑stop across its territory and to make stops for non‑traffic purposes without the necessity of obtaining prior permission, and subject to the right of the State flown over to require landing. Each contracting State nevertheless reserves the right, for reasons of safety of flight, to require aircraft desiring to proceed over regions which are inaccessible or without adequate air navigation facilities to follow prescribed routes, or to obtain special permission for such flights. 
+Each contracting State agrees that all aircraft of the other contracting States, being aircraft not engaged in scheduled international air services shall have the right, subject to the observance of the terms of this Convention, to make flights into or in transit non-stop across its territory and to make stops for non-traffic purposes without the necessity of obtaining prior permission, and subject to the right of the State flown over to require landing. Each contracting State nevertheless reserves the right, for reasons of safety of flight, to require aircraft desiring to proceed over regions which are inaccessible or without adequate air navigation facilities to follow prescribed routes, or to obtain special permission for such flights. 
 
 Such aircraft, if engaged in the carriage of passengers, cargo, or mail for remuneration or hire on other than scheduled international air services, shall also, subject to the provisions of Article 7, have the privilege of taking on or discharging passengers, cargo, or mail, subject to the right of any State where such embarkation or discharge takes place to impose such regulations, conditions or limitations as it may consider desirable. 
 
@@ -1296,7 +1296,7 @@ _Article_ 23\.
 
 **Customs and immigration procedures.**
 
-Each contracting State undertakes, so far as it may find practicable, to establish customs and immigration procedures affecting international air navigation in accordance with the practices which may be established or recommended from time to time, pursuant to this Convention. Nothing in this Convention shall be construed as preventing the establishment of customs‑free airports. 
+Each contracting State undertakes, so far as it may find practicable, to establish customs and immigration procedures affecting international air navigation in accordance with the practices which may be established or recommended from time to time, pursuant to this Convention. Nothing in this Convention shall be construed as preventing the establishment of customs-free airports. 
 
 _Article_ 24\. 
 
@@ -1310,7 +1310,7 @@ _Article_ 25.
 
 **Aircraft in distress.**
 
-Each contracting State undertakes to provide such measures of assistance to aircraft in distress in its territory as it may find practicable, and to permit, subject to control by its own authorities, the owners of the aircraft or authorities of the State in which the aircraft is registered to provide such measures of assistance as may be necessitated by the circumstances. Each contracting State, when undertaking search for missing aircraft, will collaborate in co‑ordinated measures which may be recommended from time to time pursuant to this Convention. 
+Each contracting State undertakes to provide such measures of assistance to aircraft in distress in its territory as it may find practicable, and to permit, subject to control by its own authorities, the owners of the aircraft or authorities of the State in which the aircraft is registered to provide such measures of assistance as may be necessitated by the circumstances. Each contracting State, when undertaking search for missing aircraft, will collaborate in co-ordinated measures which may be recommended from time to time pursuant to this Convention. 
 
 _Article_ 26.
 
@@ -1520,7 +1520,7 @@ _Article_ 46\.
 
 **First meeting of Assembly.**
 
-The first meeting of the Assembly shall be summoned by the Interim Council of the above‑mentioned Provisional Organization as soon as the Convention has come into force, to meet at a time and place to be decided by the Interim Council. 
+The first meeting of the Assembly shall be summoned by the Interim Council of the above-mentioned Provisional Organization as soon as the Convention has come into force, to meet at a time and place to be decided by the Interim Council. 
 
 _Article_ 47\. 
 
@@ -1574,7 +1574,7 @@ _Article_ 50\.
 
 **Composition and election of Council.**
 
-(_a_)   The Council shall be a permanent body responsible to the Assembly. It shall be composed of twenty‑one contracting States elected by the Assembly. An election shall be held at the first meeting of the Assembly and thereafter every three years, and the members of the Council so elected shall hold office until the next following election. 
+(_a_)   The Council shall be a permanent body responsible to the Assembly. It shall be composed of twenty-one contracting States elected by the Assembly. An election shall be held at the first meeting of the Assembly and thereafter every three years, and the members of the Council so elected shall hold office until the next following election. 
 
 (_b_)   In electing the members of the Council, the Assembly shall give adequate representation to (1) the States of chief importance in air transport; (2) the States not otherwise included which make the largest contribution to the provision of facilities for international civil air navigation; and (3) the States not otherwise included whose designation will ensure that all the major geographic areas of the world are represented on the Council. Any vacancy on the Council shall be filled by the Assembly as soon as possible; any contracting State so elected to the Council shall hold office for the unexpired portion of its predecessor’s term of office. 
 
@@ -1820,7 +1820,7 @@ _Article_ 79\.
 
 **Participation in operating organizations.**
 
-A State may participate in joint operating organizations or in pooling arrangements, either through its government or through an airline company or companies designated by its government. The companies may, at the sole discretion of the State concerned, be state‑owned or partly state‑owned or privately owned. 
+A State may participate in joint operating organizations or in pooling arrangements, either through its government or through an airline company or companies designated by its government. The companies may, at the sole discretion of the State concerned, be state-owned or partly state-owned or privately owned. 
 
 PART IV.—FINAL PROVISIONS. 
 
@@ -1842,7 +1842,7 @@ _Article_ 82\.
 
 **Abrogation of inconsistent arrangements.**
 
-The contracting States accept this Convention as abrogating all obligations and understandings between them which are inconsistent with its terms, and undertake not to enter into any such obligations and understandings. A contracting State which, before becoming a member of the Organization has undertaken any obligations toward a non‑contracting State or a national of a contracting State or of a non‑contracting State inconsistent with the terms of this Convention, shall take immediate steps to procure its release from the obligations. If an airline of any contracting State has entered into any such inconsistent obligations, the State of which it is a national shall use its best efforts to secure their termination forthwith and shall in any event cause them to be terminated as soon as such action can lawfully be taken after the coming into force of this Convention. 
+The contracting States accept this Convention as abrogating all obligations and understandings between them which are inconsistent with its terms, and undertake not to enter into any such obligations and understandings. A contracting State which, before becoming a member of the Organization has undertaken any obligations toward a non-contracting State or a national of a contracting State or of a non-contracting State inconsistent with the terms of this Convention, shall take immediate steps to procure its release from the obligations. If an airline of any contracting State has entered into any such inconsistent obligations, the State of which it is a national shall use its best efforts to secure their termination forthwith and shall in any event cause them to be terminated as soon as such action can lawfully be taken after the coming into force of this Convention. 
 
 _Article_ 83\. 
 
@@ -1872,13 +1872,13 @@ Unless the Council decides otherwise, any decision by the Council on whether an 
 
 _Article_ 87\. 
 
-**Penalty for non‑conformity of airline.**
+**Penalty for non-conformity of airline.**
 
 Each contracting State undertakes not to allow the operation of an airline of a contracting State through the airspace above its territory if the Council has decided that the airline concerned is not conforming to a final decision rendered in accordance with the previous Article. 
 
 _Article_ 88\. 
 
-**Penalty for non‑conformity by State.**
+**Penalty for non-conformity by State.**
 
 The Assembly shall suspend the voting power in the Assembly and in the Council of any contracting State that is found in default under the provisions of this chapter. 
 
@@ -1896,7 +1896,7 @@ _Article_ 90\.
 
 **Adoption and amendment of Annexes.**
 
-(_a_)   The adoption by the Council of the Annexes described in Article 54, subparagraph (1), shall require the vote of two‑thirds of the Council at a meeting called for that purpose and shall then be submitted by the Council to each contracting State. Any such Annex or any amendment of an Annex shall become effective within three months after its submission to the contracting States or at the end of such longer period of time as the Council may prescribe, unless in the meantime a majority of the contracting States register their disapproval with the Council. 
+(_a_)   The adoption by the Council of the Annexes described in Article 54, subparagraph (1), shall require the vote of two-thirds of the Council at a meeting called for that purpose and shall then be submitted by the Council to each contracting State. Any such Annex or any amendment of an Annex shall become effective within three months after its submission to the contracting States or at the end of such longer period of time as the Council may prescribe, unless in the meantime a majority of the contracting States register their disapproval with the Council. 
 
 (_b_)   The Council shall immediately notify all contracting States of the coming into force of any Annex or amendment thereto. 
 
@@ -1908,7 +1908,7 @@ _Article_ 91\.
 
 (_a_)   This Convention shall be subject to ratification by the signatory States. The instruments of ratification shall be deposited in the archives of the Government of the United States of America, which shall give notice of the date of the deposit to each of the signatory and adhering States. 
 
-(_b_)   As soon as this Convention has been ratified or adhered to by twenty‑six States it shall come into force between them on the thirtieth day after deposit of the twenty‑sixth instrument. It shall come into force for each State ratifying thereafter on the thirtieth day after the deposit of its instrument of ratification. 
+(_b_)   As soon as this Convention has been ratified or adhered to by twenty-six States it shall come into force between them on the thirtieth day after deposit of the twenty-sixth instrument. It shall come into force for each State ratifying thereafter on the thirtieth day after the deposit of its instrument of ratification. 
 
 (_c_)   It shall be the duty of the Government of the United States of America to notify the government of each of the signatory and adhering States of the date on which this Convention comes into force. 
 
@@ -1924,13 +1924,13 @@ _Article_ 93\.
 
 **Admission of other States.**
 
-States other than those provided for in Articles 91 and 92 (_a_) may, subject to approval by any general international organization set up by the nations of the world to preserve peace, be admitted to participation in this Convention by means of a four‑fifths vote of the Assembly and on such conditions as the Assembly may prescribe: provided that in each case the assent of any State invaded or attacked during the present war by the State seeking admission shall be necessary. 
+States other than those provided for in Articles 91 and 92 (_a_) may, subject to approval by any general international organization set up by the nations of the world to preserve peace, be admitted to participation in this Convention by means of a four-fifths vote of the Assembly and on such conditions as the Assembly may prescribe: provided that in each case the assent of any State invaded or attacked during the present war by the State seeking admission shall be necessary. 
 
 _Article_ 94\. 
 
 **Amendment of Convention.**
 
-(_a_)   Any proposed amendment to this Convention must be approved by a two‑thirds vote of the Assembly and shall then come into force in respect of States which have ratified such amendment when ratified by the number of contracting States specified by the Assembly. The number so specified shall not be less than two‑thirds of the total number of contracting States. 
+(_a_)   Any proposed amendment to this Convention must be approved by a two-thirds vote of the Assembly and shall then come into force in respect of States which have ratified such amendment when ratified by the number of contracting States specified by the Assembly. The number so specified shall not be less than two-thirds of the total number of contracting States. 
 
 (_b_)   If in its opinion the amendment is of such a nature as to justify this course, the Assembly in its resolution recommending adoption may provide that any State which has not ratified within a specified period after the amendment has come into force shall thereupon cease to be a member of the Organization and a party to the Convention. 
 
@@ -1954,7 +1954,7 @@ _Article_ 96.
 
 (_c_)   “Airline” means any air transport enterprise offering or operating an international air service. 
 
-(_d_)   “Stop for non‑traffic purposes” means a landing for any purpose other than taking on or discharging passengers, cargo or mail. 
+(_d_)   “Stop for non-traffic purposes” means a landing for any purpose other than taking on or discharging passengers, cargo or mail. 
 
 SIGNATURE OF CONVENTION.
 
@@ -1976,7 +1976,7 @@ Each contracting State grants to the other contracting States the following free
 
 (1)   The privilege to fly across its territory without landing; 
 
-(2)   The privilege to land for non‑traffic purposes. 
+(2)   The privilege to land for non-traffic purposes. 
 
 The privileges of this section shall not be applicable with respect to airports utilized for military purposes to the exclusion of any scheduled international air services. In areas of active hostilities or of military occupation, and in time of war along the supply routes leading to such areas, the exercise of such privileges shall be subject to the approval of the competent military authorities.
 
@@ -1986,7 +1986,7 @@ The exercise of the foregoing privileges shall be in accordance with the provisi
 
 _Section 3._
 
-A contracting State granting to the airlines of another contracting State the privilege to stop for non‑traffic purposes may require such airlines to offer reasonable commercial service at the points at which such stops are made. 
+A contracting State granting to the airlines of another contracting State the privilege to stop for non-traffic purposes may require such airlines to offer reasonable commercial service at the points at which such stops are made. 
 
 Such requirements shall not involve any discrimination between airlines operating on the same route, shall take into account the capacity of the aircraft, and shall be exercised in such a manner as not to prejudice the normal operations of the international air services concerned or the rights and obligations of a contracting State. 
 
@@ -2006,23 +2006,23 @@ ARTICLE II.
 
 _Section 1._
 
-A contracting State which deems that action by another contracting State under this Agreement is causing injustice or hardship to it, may request the Council to examine the situation. The Council shall thereupon inquire into the matter, and shall call the States concerned into consultation. Should such consultation fail to resolve the difficulty, the Council may make appropriate findings and recommendations to the contracting States concerned. If thereafter a contracting State concerned shall in the opinion of the Council unreasonably fail to take suitable corrective action, the Council may recommend to the Assembly of the above‑mentioned Organization that such contracting State be suspended from its rights and privileges under this Agreement until such action has been taken. The Assembly by a two‑thirds vote may so suspend such contracting State for such period of time as it may deem proper or until the Council shall find that corrective action has been taken by such State.
+A contracting State which deems that action by another contracting State under this Agreement is causing injustice or hardship to it, may request the Council to examine the situation. The Council shall thereupon inquire into the matter, and shall call the States concerned into consultation. Should such consultation fail to resolve the difficulty, the Council may make appropriate findings and recommendations to the contracting States concerned. If thereafter a contracting State concerned shall in the opinion of the Council unreasonably fail to take suitable corrective action, the Council may recommend to the Assembly of the above-mentioned Organization that such contracting State be suspended from its rights and privileges under this Agreement until such action has been taken. The Assembly by a two-thirds vote may so suspend such contracting State for such period of time as it may deem proper or until the Council shall find that corrective action has been taken by such State.
 
 _Section 2._
 
-If any disagreement between two or more contracting States relating to the interpretation or application of this Agreement cannot be settled by negotiation, the provisions of Chapter XVIII of the above‑mentioned Convention shall be applicable in the same manner as provided therein with reference to any disagreement relating to the interpretation or application of the above‑mentioned Convention. 
+If any disagreement between two or more contracting States relating to the interpretation or application of this Agreement cannot be settled by negotiation, the provisions of Chapter XVIII of the above-mentioned Convention shall be applicable in the same manner as provided therein with reference to any disagreement relating to the interpretation or application of the above-mentioned Convention. 
 
 ARTICLE III. 
 
-This Agreement shall remain in force as long as the above‑mentioned Convention; provided, however, that any contracting State, a party to the present Agreement, may denounce it on one year’s notice given by it to the Government of the United States of America, which shall at once inform all other contracting States of such notice and withdrawal. 
+This Agreement shall remain in force as long as the above-mentioned Convention; provided, however, that any contracting State, a party to the present Agreement, may denounce it on one year’s notice given by it to the Government of the United States of America, which shall at once inform all other contracting States of such notice and withdrawal. 
 
 ARTICLE IV. 
 
-Pending the coming into force of the above‑mentioned Convention, all references to it herein, other than those contained in Article II, Section 2, and Article V, shall be deemed to be references to the Interim Agreement on International Civil Aviation drawn up at Chicago on December 7, 1944; and references to the International Civil Aviation Organization, the Assembly, and the Council shall be deemed to be references to the Provisional International Civil Aviation Organization, the Interim Assembly, and Interim Council, respectively. 
+Pending the coming into force of the above-mentioned Convention, all references to it herein, other than those contained in Article II, Section 2, and Article V, shall be deemed to be references to the Interim Agreement on International Civil Aviation drawn up at Chicago on December 7, 1944; and references to the International Civil Aviation Organization, the Assembly, and the Council shall be deemed to be references to the Provisional International Civil Aviation Organization, the Interim Assembly, and Interim Council, respectively. 
 
 ARTICLE V. 
 
-For the purposes of this Agreement, “territory” shall be defined as in Article 2 of the above‑mentioned Convention. 
+For the purposes of this Agreement, “territory” shall be defined as in Article 2 of the above-mentioned Convention. 
 
 ARTICLE VI. 
 
@@ -2048,13 +2048,13 @@ Having met in its Eighth Session, at Montreal, on the first day of June, 1954, a
 
 Having considered it desirable to amend the Convention on International Civil Aviation done at Chicago on the seventh day of December, 1944, 
 
-Approved, on the fourteenth day of June of the year one thousand nine hundred and fifty‑four, in accordance with the provisions of Article 94 (_a_) of the Convention aforesaid, the following proposed amendment to the said Convention: 
+Approved, on the fourteenth day of June of the year one thousand nine hundred and fifty-four, in accordance with the provisions of Article 94 (_a_) of the Convention aforesaid, the following proposed amendment to the said Convention: 
 
 At the end of Article 45 of the Convention, the full stop shall be substituted by a comma, and the following shall be added, namely: 
 
-“and otherwise than temporarily by decision of the Assembly, such decision to be taken by the number of votes specified by the Assembly. The number of votes so specified will not be less than three‑fifths of the total number of contracting States.”, 
+“and otherwise than temporarily by decision of the Assembly, such decision to be taken by the number of votes specified by the Assembly. The number of votes so specified will not be less than three-fifths of the total number of contracting States.”, 
 
-Specified, pursuant to the provisions of the said Article 94 (_a_) of the said Convention, forty‑two as the number of contracting States upon whose ratifications the proposed amendment aforesaid shall come into force, and 
+Specified, pursuant to the provisions of the said Article 94 (_a_) of the said Convention, forty-two as the number of contracting States upon whose ratifications the proposed amendment aforesaid shall come into force, and 
 
 Resolved that the Secretary General of the International Civil Aviation Organization draw up a Protocol, in the English, French and Spanish languages, each of which shall be of equal authenticity, embodying the proposed amendment abovementioned and the matters hereinafter appearing. 
 
@@ -2066,7 +2066,7 @@ This Protocol shall be open to ratification by any State which has ratified or a
 
 The instruments of ratification shall be deposited with the International Civil Aviation Organization; 
 
-This Protocol shall come into force among the States which have ratified it on the date on which the forty‑second instrument of ratification is so deposited; 
+This Protocol shall come into force among the States which have ratified it on the date on which the forty-second instrument of ratification is so deposited; 
 
 The Secretary General shall immediately notify all contracting States of the deposit of each ratification of this Protocol; 
 
@@ -2076,7 +2076,7 @@ With respect to any contracting State ratifying this Protocol after the date afo
 
 IN FAITH WHEREOF, the President and the Secretary General of the Eighth Session of the Assembly of the International Civil Aviation Organization, being authorized thereto by the Assembly, sign this Protocol. 
 
-DONE at Montreal on the fourteenth day of June of the year one thousand nine hundred and fifty‑four in a single document in the English, French and Spanish languages, each of which shall be of equal authenticity. This Protocol shall remain deposited in the archives of the International Civil Aviation Organization; and certified copies thereof shall be transmitted by the Secretary General of the Organization to all States parties or signatories to the Convention on International Civil Aviation done at Chicago on the seventh day of December, 1944.
+DONE at Montreal on the fourteenth day of June of the year one thousand nine hundred and fifty-four in a single document in the English, French and Spanish languages, each of which shall be of equal authenticity. This Protocol shall remain deposited in the archives of the International Civil Aviation Organization; and certified copies thereof shall be transmitted by the Secretary General of the Organization to all States parties or signatories to the Convention on International Civil Aviation done at Chicago on the seventh day of December, 1944.
 
 # Schedule 4—Protocol relating to certain amendments to the Convention on International Civil Aviation
 
@@ -2088,7 +2088,7 @@ Having met in its Eighth Session, at Montreal, on the first day of June, 1954, a
 
 Having considered it desirable to amend the Convention on International Civil Aviation done at Chicago on the seventh day of December, 1944, 
 
-Approved, on the fourteenth day of June of the year one thousand nine hundred and fifty‑four, in accordance with the provisions of Article 94 (_a_) of the Convention aforesaid, the following proposed amendments to the said Convention: 
+Approved, on the fourteenth day of June of the year one thousand nine hundred and fifty-four, in accordance with the provisions of Article 94 (_a_) of the Convention aforesaid, the following proposed amendments to the said Convention: 
 
 In Article 48 (_a_), substitute for the word “annually” the expression “not less than once in three years”;
 
@@ -2096,7 +2096,7 @@ In Article 49 (_e_), substitute for the expression “an annual budget” the ex
 
 In Article 61, substitute for the expressions “an annual budget” and “vote the budget” the expressions “annual budgets” and “vote the budgets”, 
 
-Specified, pursuant to the provisions of the said Article 94 (_a_) of the said Convention, forty‑two as the number of contracting States upon whose ratification the proposed amendments aforesaid shall come into force, and 
+Specified, pursuant to the provisions of the said Article 94 (_a_) of the said Convention, forty-two as the number of contracting States upon whose ratification the proposed amendments aforesaid shall come into force, and 
 
 Resolved that the Secretary General of the International Civil Aviation Organization draw up a Protocol, in the English, French and Spanish languages, each of which shall be of equal authenticity, embodying the proposed amendments abovementioned and the matters hereinafter appearing. 
 
@@ -2108,7 +2108,7 @@ This Protocol shall be open to ratification by any State which has ratified or a
 
 The instruments of ratification shall be deposited with the International Civil Aviation Organization; 
 
-This Protocol shall come into force among the States which have ratified it on the date on which the forty‑second instrument of ratification is so deposited; 
+This Protocol shall come into force among the States which have ratified it on the date on which the forty-second instrument of ratification is so deposited; 
 
 The Secretary General shall immediately notify all contracting States of the deposit of each ratification of this Protocol; 
 
@@ -2118,7 +2118,7 @@ With respect to any contracting State ratifying this Protocol after the date afo
 
 IN FAITH WHEREOF, the President and the Secretary General of the Eighth Session of the Assembly of the International Civil Aviation Organization, being authorized thereto by the Assembly, sign this Protocol. 
 
-DONE at Montreal on the fourteenth day of June of the year one thousand nine hundred and fifty‑four in a single document in the English, French and Spanish languages, each of which shall be of equal authenticity. This Protocol shall remain deposited in the archives of the International Civil Aviation Organization; and certified copies thereof shall be transmitted by the Secretary General of the Organization to all States parties or signatories to the Convention on International Civil Aviation done at Chicago on the seventh day of December, 1944\. 
+DONE at Montreal on the fourteenth day of June of the year one thousand nine hundred and fifty-four in a single document in the English, French and Spanish languages, each of which shall be of equal authenticity. This Protocol shall remain deposited in the archives of the International Civil Aviation Organization; and certified copies thereof shall be transmitted by the Secretary General of the Organization to all States parties or signatories to the Convention on International Civil Aviation done at Chicago on the seventh day of December, 1944\. 
 
 # Schedule 5—Protocol relating to an amendment to the Convention on International Civil Aviation
 
@@ -2130,15 +2130,15 @@ HAVING MET in its Thirteenth (Extraordinary) Session, at Montreal, on the ninete
 
 HAVING NOTED that it is the general desire of Contracting States to enlarge the membership of the Council,
 
-HAVING CONSIDERED it proper to provide for six additional seats in the Council and, accordingly, to increase the membership from twenty‑one to twenty‑seven, 
+HAVING CONSIDERED it proper to provide for six additional seats in the Council and, accordingly, to increase the membership from twenty-one to twenty-seven, 
 
 AND HAVING CONSIDERED it necessary to amend for the purpose aforesaid the Convention on International Civil Aviation done at Chicago on the seventh day of December, 1944, 
 
-APPROVED, on the twenty‑first day of June of the year one thousand nine hundred and sixty‑one, in accordance with the provisions of Article 94 (_a_) of the Convention aforesaid, the following proposed amendment to the said Convention: 
+APPROVED, on the twenty-first day of June of the year one thousand nine hundred and sixty-one, in accordance with the provisions of Article 94 (_a_) of the Convention aforesaid, the following proposed amendment to the said Convention: 
 
-In Article 50 (_a_) of the Convention the expression “twenty‑one” shall be deleted and substituted by “twenty‑seven”, 
+In Article 50 (_a_) of the Convention the expression “twenty-one” shall be deleted and substituted by “twenty-seven”, 
 
-SPECIFIED, pursuant to the provisions of the said Article 94(_a_) of the said Convention, fifty‑six as the number of Contracting States upon whose ratification the proposed amendment aforesaid shall come into force, and 
+SPECIFIED, pursuant to the provisions of the said Article 94(_a_) of the said Convention, fifty-six as the number of Contracting States upon whose ratification the proposed amendment aforesaid shall come into force, and 
 
 RESOLVED that the Secretary General of the International Civil Aviation Organization draw up a protocol, in the English, French and Spanish languages, each of which shall be of equal authenticity, embodying the proposed amendment abovementioned and the matter hereinafter appearing. 
 
@@ -2150,7 +2150,7 @@ This Protocol shall be open to ratification by any State which has ratified or a
 
 The instruments of ratification shall be deposited with the International Civil Aviation Organization; 
 
-This Protocol shall come into force in respect of the States which have ratified it on the date on which the fifty‑sixth instrument of ratification is so deposited; 
+This Protocol shall come into force in respect of the States which have ratified it on the date on which the fifty-sixth instrument of ratification is so deposited; 
 
 The Secretary General shall immediately notify all contracting States of the date of deposit of each ratification of this Protocol; 
 
@@ -2160,7 +2160,7 @@ With respect to any contracting State ratifying this Protocol after the date afo
 
 IN FAITH WHEREOF, the President and Secretary General of the Thirteenth (Extraordinary) Session of the Assembly of the International Civil Aviation Organization, being authorized thereto by the Assembly, sign this Protocol. 
 
-DONE at Montreal on the twenty‑first day of June of the year one thousand nine hundred and sixty‑one in a single document in the English, French and Spanish languages, each of which shall be of equal authenticity. This Protocol shall remain deposited in the archives of the International Civil Aviation Organization; and certified copies thereof shall be transmitted by the Secretary General of the Organization to all States parties or signatories to the Convention on International Civil Aviation done at Chicago on the seventh day of December, 1944\. 
+DONE at Montreal on the twenty-first day of June of the year one thousand nine hundred and sixty-one in a single document in the English, French and Spanish languages, each of which shall be of equal authenticity. This Protocol shall remain deposited in the archives of the International Civil Aviation Organization; and certified copies thereof shall be transmitted by the Secretary General of the Organization to all States parties or signatories to the Convention on International Civil Aviation done at Chicago on the seventh day of December, 1944\. 
 
 # Schedule 6—Protocol relating to an amendment to the Convention on International Civil Aviation Signed at Rome, on 15 September 1962
 
@@ -2168,19 +2168,19 @@ _Section 4_
 
 THE ASSEMBLY OF THE INTERNATIONAL CIVIL AVIATION ORGANIZATION,
 
-HAVING MET in its Fourteenth Session, at Rome, on the twenty‑first day of August, 1962, 
+HAVING MET in its Fourteenth Session, at Rome, on the twenty-first day of August, 1962, 
 
 HAVING NOTED that it is the general desire of contracting States that the minimum number of contracting States which may request the holding of an extraordinary meeting of the Assembly should be increased from the present figure of ten, 
 
-HAVING CONSIDERED it proper to increase the said number to one‑fifth of the total number of contracting States, 
+HAVING CONSIDERED it proper to increase the said number to one-fifth of the total number of contracting States, 
 
 AND HAVING CONSIDERED it necessary to amend for the purpose aforesaid the Convention on International Civil Aviation done at Chicago on the seventh day of December, 1944, 
 
-APPROVED, on the fourteenth day of September of the year one thousand nine hundred and sixty‑two, in accordance with the provisions of Article 94 (_a_) of the Convention aforesaid, the following proposed amendment to the said Convention:
+APPROVED, on the fourteenth day of September of the year one thousand nine hundred and sixty-two, in accordance with the provisions of Article 94 (_a_) of the Convention aforesaid, the following proposed amendment to the said Convention:
 
-In Article 48 (_a_) of the Convention, the second sentence be deleted and substituted by “An extraordinary meeting of the Assembly may be held at any time upon the call of the Council or at the request of not less than one‑fifth of the total number of contracting States addressed to the Secretary General.”
+In Article 48 (_a_) of the Convention, the second sentence be deleted and substituted by “An extraordinary meeting of the Assembly may be held at any time upon the call of the Council or at the request of not less than one-fifth of the total number of contracting States addressed to the Secretary General.”
 
-SPECIFIED, pursuant to the provisions of the said Article 94 (_a_) of the said Convention, sixty‑six as the number of Contracting States upon whose ratification the proposed amendment aforesaid shall come into force, and 
+SPECIFIED, pursuant to the provisions of the said Article 94 (_a_) of the said Convention, sixty-six as the number of Contracting States upon whose ratification the proposed amendment aforesaid shall come into force, and 
 
 RESOLVED that the Secretary General of the International Civil Aviation Organization draw up a protocol, in the English, French and Spanish languages, each of which shall be of equal authenticity, embodying the proposed amendment above mentioned and the matter hereinafter appearing. 
 
@@ -2192,7 +2192,7 @@ This Protocol shall be open to ratification by any State which has ratified or a
 
 The instruments of ratification shall be deposited with the International Civil Aviation Organization; 
 
-This Protocol shall come into force in respect of the States which have ratified it on the date on which the sixty‑sixth instrument of ratification is so deposited; 
+This Protocol shall come into force in respect of the States which have ratified it on the date on which the sixty-sixth instrument of ratification is so deposited; 
 
 The Secretary General shall immediately notify all contracting States of the date of deposit of each ratification of this Protocol; 
 
@@ -2202,7 +2202,7 @@ With respect to any contracting State ratifying this protocol after the date afo
 
 IN FAITH WHEREOF, the President and the Secretary General of the Fourteenth Session of the Assembly of the International Civil Aviation Organization, being authorized thereto by the Assembly, sign this Protocol. 
 
-DONE at Rome on the fifteenth day of September of the year one thousand nine hundred and sixty‑two in a single document in the English, French and Spanish languages, each of which shall be of equal authenticity. This Protocol shall remain deposited in the archives of the International Civil Aviation Organization; and certified copies thereof shall be transmitted by the Secretary General of the Organization to all States parties or signatories to the Convention on International Civil Aviation aforementioned. 
+DONE at Rome on the fifteenth day of September of the year one thousand nine hundred and sixty-two in a single document in the English, French and Spanish languages, each of which shall be of equal authenticity. This Protocol shall remain deposited in the archives of the International Civil Aviation Organization; and certified copies thereof shall be transmitted by the Secretary General of the Organization to all States parties or signatories to the Convention on International Civil Aviation aforementioned. 
 
 # Schedule 7—Protocol relating to an amendment to the Convention on International Civil Aviation Signed at New   York, on 12 March 1971
 
@@ -2214,7 +2214,7 @@ HAVING MET in Extraordinary Session, at New York, on the eleventh day of March 1
 
 HAVING NOTED that it is the general desire of contracting States to enlarge the membership of the Council, 
 
-HAVING CONSIDERED it proper to provide for three seats in the Council additional to the six seats which were provided for by the amendment adopted on the twenty‑first day of June 1961 to the Convention on International Civil Aviation (Chicago, 1944) and, accordingly, to increase the membership of the Council to thirty, 
+HAVING CONSIDERED it proper to provide for three seats in the Council additional to the six seats which were provided for by the amendment adopted on the twenty-first day of June 1961 to the Convention on International Civil Aviation (Chicago, 1944) and, accordingly, to increase the membership of the Council to thirty, 
 
 AND HAVING CONSIDERED it necessary to amend for the purpose aforesaid the Convention on International Civil Aviation done at Chicago on the seventh day of December 1944, 
 
@@ -2246,7 +2246,7 @@ With respect to any contracting State ratifying this Protocol after the date afo
 
 IN WITNESS WHEREOF, the President and the Secretary General of the aforesaid Extraordinary Session of the Assembly of the International Civil Aviation Organization, being authorized thereto by the Assembly, signed this Protocol. 
 
-DONE at New York on the twelfth day of March of the year one thousand nine hundred and seventy‑one, in a single document in the English, French and Spanish languages, each of which shall be of equal authenticity. This Protocol shall remain deposited in the archives of the International Civil Aviation Organization, and certified copies thereof shall be transmitted by the Secretary General of the Organization to all States parties to the Convention on International Civil Aviation done at Chicago on the seventh day of December 1944.
+DONE at New York on the twelfth day of March of the year one thousand nine hundred and seventy-one, in a single document in the English, French and Spanish languages, each of which shall be of equal authenticity. This Protocol shall remain deposited in the archives of the International Civil Aviation Organization, and certified copies thereof shall be transmitted by the Secretary General of the Organization to all States parties to the Convention on International Civil Aviation done at Chicago on the seventh day of December 1944.
 
 # Schedule 8—Protocol relating to an amendment to the Convention on International Civil Aviation Signed at Vienna, on 7 July 1971
 
@@ -2268,7 +2268,7 @@ HAVING CONSIDERED it necessary to amend, for the purpose aforesaid, the Conventi
 
 (2)   SPECIFIED, pursuant to the provisions of the said Article 94 (a) of the said Convention, eighty as the number of Contracting States upon whose ratification the aforesaid amendment shall come into force, and 
 
-(3)   RESOLVED that the Secretary General of the International Civil Aviation Organization shall draw up a Protocol, in the English, French and Spanish languages, each of which shall be of equal authenticity, embodying the amendment above‑mentioned and the matters hereinafter appearing: 
+(3)   RESOLVED that the Secretary General of the International Civil Aviation Organization shall draw up a Protocol, in the English, French and Spanish languages, each of which shall be of equal authenticity, embodying the amendment above-mentioned and the matters hereinafter appearing: 
 
 (a)   The Protocol shall be signed by the President of the Assembly and its Secretary General. 
 
@@ -2292,7 +2292,7 @@ With respect to any Contracting State ratifying this Protocol after the date afo
 
 IN WITNESS WHEREOF, the President and the Secretary General of the Eighteenth Session of the Assembly of the International Civil Aviation Organization, being authorized thereto by the Assembly, sign this Protocol. 
 
-DONE at Vienna on the seventh day of July of the year one thousand nine hundred and seventy‑one, in a single document in the English, French and Spanish languages, each of which shall be of equal authenticity. This Protocol shall remain deposited in the archives of the International Civil Aviation Organization, and certified copies thereof shall be transmitted by the Secretary General of the Organization to all States parties to the Convention on International Civil Aviation done at Chicago on the seventh day of December 1944.
+DONE at Vienna on the seventh day of July of the year one thousand nine hundred and seventy-one, in a single document in the English, French and Spanish languages, each of which shall be of equal authenticity. This Protocol shall remain deposited in the archives of the International Civil Aviation Organization, and certified copies thereof shall be transmitted by the Secretary General of the Organization to all States parties to the Convention on International Civil Aviation done at Chicago on the seventh day of December 1944.
 
 # Schedule 9—Protocol relating to an amendment to Article 50 (a) of the Convention on International Civil Aviation Signed at Montreal, on 16 October 1974
 
@@ -2300,21 +2300,21 @@ _Section 4_
 
 THE ASSEMBLY OF THE INTERNATIONAL CIVIL AVIATION ORGANIZATION
 
-HAVING MET in its Twenty‑first Session, at Montreal on 14 October 1974, 
+HAVING MET in its Twenty-first Session, at Montreal on 14 October 1974, 
 
 HAVING NOTED that it is the general desire of contracting States to enlarge the membership of the Council, 
 
-HAVING CONSIDERED it proper to provide for three additional seats in the Council, and accordingly to increase the membership from thirty to thirty‑three, in order to permit an increase in the representation of States elected in the second, and particularly the third, part of the election, and 
+HAVING CONSIDERED it proper to provide for three additional seats in the Council, and accordingly to increase the membership from thirty to thirty-three, in order to permit an increase in the representation of States elected in the second, and particularly the third, part of the election, and 
 
 HAVING CONSIDERED it necessary to amend, for the purpose aforesaid, the Convention on International Civil Aviation done at Chicago on the seventh day of December 1944, 
 
 (1)   APPROVED, in accordance with the provisions of Article 94 (a) of the Convention aforesaid, the following proposed amendment to the said Convention:
 
-In Article 50 (a) of the Convention the second sentence shall be amended by replacing “thirty” by “thirty‑three”. 
+In Article 50 (a) of the Convention the second sentence shall be amended by replacing “thirty” by “thirty-three”. 
 
-(2)   SPECIFIED, pursuant to the provisions of the said Article 94 (a) of the said Convention, eighty‑six as the number of contracting States upon whose ratification the proposed amendment aforesaid shall come into force, and 
+(2)   SPECIFIED, pursuant to the provisions of the said Article 94 (a) of the said Convention, eighty-six as the number of contracting States upon whose ratification the proposed amendment aforesaid shall come into force, and 
 
-(3)   RESOLVED that the Secretary General of the International Civil Aviation Organization draw up a Protocol, in the English, French and Spanish languages, each of which shall be of equal authenticity, embodying the proposed amendment above‑mentioned and the matter hereinafter appearing: 
+(3)   RESOLVED that the Secretary General of the International Civil Aviation Organization draw up a Protocol, in the English, French and Spanish languages, each of which shall be of equal authenticity, embodying the proposed amendment above-mentioned and the matter hereinafter appearing: 
 
 (a)   The Protocol shall be signed by the President of the Assembly and its Secretary General.
 
@@ -2322,7 +2322,7 @@ In Article 50 (a) of the Convention the second sentence shall be amended by repl
 
 (c)   The instruments of ratification shall be deposited with the International Civil Aviation Organization.
 
-(d)   The Protocol shall come into force in respect of the States which have ratified it on the date on which the eighty‑sixth instrument of ratification is so deposited. 
+(d)   The Protocol shall come into force in respect of the States which have ratified it on the date on which the eighty-sixth instrument of ratification is so deposited. 
 
 (e)   The Secretary General shall immediately notify all contracting States of the date of deposit of each ratification of the Protocol. 
 
@@ -2334,9 +2334,9 @@ CONSEQUENTLY, pursuant to the aforesaid action of the Assembly,
 
 This Protocol has been drawn up by the Secretary General of the Organization; 
 
-IN WITNESS WHEREOF, the President and the Secretary General of the Twenty‑first Session of the Assembly of the International Civil Aviation Organization, being authorized thereto by the Assembly, sign this Protocol. 
+IN WITNESS WHEREOF, the President and the Secretary General of the Twenty-first Session of the Assembly of the International Civil Aviation Organization, being authorized thereto by the Assembly, sign this Protocol. 
 
-DONE at Montreal on the sixteenth day of October of the year one thousand nine hundred and seventy‑four, in a single document in the English, French and Spanish languages, each of which shall be of equal authenticity. This Protocol shall remain deposited in the archives of the International Civil Aviation Organization, and certified copies thereof shall be transmitted by the Secretary General of the Organization to the States parties to the Convention on International Civil Aviation done at Chicago on the seventh day of December 1944.
+DONE at Montreal on the sixteenth day of October of the year one thousand nine hundred and seventy-four, in a single document in the English, French and Spanish languages, each of which shall be of equal authenticity. This Protocol shall remain deposited in the archives of the International Civil Aviation Organization, and certified copies thereof shall be transmitted by the Secretary General of the Organization to the States parties to the Convention on International Civil Aviation done at Chicago on the seventh day of December 1944.
 
 # Schedule 9A—Protocol relating to an amendment to the Convention on International Civil Aviation signed at Montreal on 6 October 1980
 
@@ -2344,9 +2344,9 @@ _Section 4_
 
 THE ASSEMBLY OF THE INTERNATIONAL CIVIL AVIATION ORGANIZATION 
 
-HAVING MET in its Twenty‑third Session at Montreal on 6 October 1980,
+HAVING MET in its Twenty-third Session at Montreal on 6 October 1980,
 
-HAVING NOTED Resolutions A21‑22 and A22‑28 on lease, charter and interchange of aircraft in international operations, 
+HAVING NOTED Resolutions A21-22 and A22-28 on lease, charter and interchange of aircraft in international operations, 
 
 HAVING NOTED the draft amendment to the Convention on International Civil Aviation prepared by the 23rd Session of the Legal Committee,
 
@@ -2368,9 +2368,9 @@ _(b)_ The transfer shall not have effect in respect of other contracting States 
 
 _(c)_ The provisions of paragraphs (a) and (b) above shall also be applicable to cases covered by Article 77.”,
 
-2.  SPECIFIES, pursuant to the provisions of the said Article 94 _(a)_ of the said Convention, ninety‑eight as the number of Contracting States upon whose ratification the proposed amendment aforesaid shall come into force, and 
+2.  SPECIFIES, pursuant to the provisions of the said Article 94 _(a)_ of the said Convention, ninety-eight as the number of Contracting States upon whose ratification the proposed amendment aforesaid shall come into force, and 
 
-3.  RESOLVES that the Secretary General of the International Civil Aviation Organization draw up a Protocol, in the English, French, Russian and Spanish languages, each of which shall be of equal authenticity, embodying the proposed amendment above‑mentioned and the matter hereinafter appearing:
+3.  RESOLVES that the Secretary General of the International Civil Aviation Organization draw up a Protocol, in the English, French, Russian and Spanish languages, each of which shall be of equal authenticity, embodying the proposed amendment above-mentioned and the matter hereinafter appearing:
 
            a)     The Protocol shall be signed by the President of the Assembly and its Secretary General.
 
@@ -2378,7 +2378,7 @@ _(c)_ The provisions of paragraphs (a) and (b) above shall also be applicable 
 
            c)     The instruments of ratification shall be deposited with the International Civil Aviation Organization.
 
-           d)     The protocol shall come into force in respect of the States which have ratified it on the date on which the ninety‑eighth instrument of ratification is so deposited.
+           d)     The protocol shall come into force in respect of the States which have ratified it on the date on which the ninety-eighth instrument of ratification is so deposited.
 
            e)     The Secretary General shall immediately notify all Contracting States of the date of deposit of each ratification of the Protocol.
 
@@ -2390,7 +2390,7 @@ CONSEQUENTLY, pursuant to the aforesaid action of the Assembly,
 
 This Protocol has been drawn up by the Secretary General of the Organization.
 
-IN WITNESS WHEREOF, the President and the Secretary General of the aforesaid Twenty‑third Session of the Assembly of the International Civil Aviation Organization, being authorized thereto by the Assembly, sign this Protocol.
+IN WITNESS WHEREOF, the President and the Secretary General of the aforesaid Twenty-third Session of the Assembly of the International Civil Aviation Organization, being authorized thereto by the Assembly, sign this Protocol.
 
 DONE at Montreal on the sixth day of October of the year one thousand nine hundred and eighty, in a single document in the English, French, Russian, and Spanish languages, each of which shall be of equal authenticity. This Protocol shall remain deposited in the archives of the International Civil Aviation Organization, and certified copies thereof shall be transmitted by the Secretary General of the Organization to all States parties to the Convention on International Civil Aviation done at Chicago on the seventh day of December 1944.
 
@@ -2400,11 +2400,11 @@ _Section 4_
 
 THE ASSEMBLY OF THE INTERNATIONAL CIVIL AVIATION ORGANIZATION
 
-HAVING MET in its Twenty‑fifth Session (Extraordinary) at Montreal on 10 May 1984,
+HAVING MET in its Twenty-fifth Session (Extraordinary) at Montreal on 10 May 1984,
 
 HAVING NOTED that international civil aviation can greatly help to create and preserve friendship and understanding among the nations and peoples of the world, yet its abuse can become a threat to general security, 
 
-HAVING NOTED that it is desirable to avoid friction and to promote that co‑operation between nations and peoples upon which the peace of the world depends, 
+HAVING NOTED that it is desirable to avoid friction and to promote that co-operation between nations and peoples upon which the peace of the world depends, 
 
 HAVING NOTED that it is necessary that international civil aviation may be developed in a safe and orderly manner, 
 
@@ -2420,7 +2420,7 @@ HAVING NOTED that in the Convention on International Civil Aviation done at Chic
 
 HAVING NOTED the resolve of the contracting States to take appropriate measures designed to prevent the violation of other States’ airspace and the use of civil aviation for purposes inconsistent with the aims of the Convention and to enhance further the safety of international civil aviation, 
 
-HAVING NOTED the general desire of contracting States to reaffirm the principle of non‑use of weapons against civil aircraft in flight, 
+HAVING NOTED the general desire of contracting States to reaffirm the principle of non-use of weapons against civil aircraft in flight, 
 
 1.    DECIDES that it is desirable therefore to amend the Convention on International Civil Aviation done at Chicago on the seventh day of December 1944, 
 
@@ -2440,7 +2440,7 @@ Insert, after Article 3, a new Article 3 _bis_:
 
 3.    SPECIFIES, pursuant to the provision of the said Article 94 (_a_) of the said Convention, one hundred and two as the number of contracting States upon whose ratification the proposed amendment aforesaid shall come into force, and
 
-4.    RESOLVES that the Secretary General of the International Civil Aviation Organization draw up a Protocol, in the English, French, Russian and Spanish languages, each of which shall be of equal authenticity, embodying the proposed amendment above‑mentioned and the matter hereinafter appearing: 
+4.    RESOLVES that the Secretary General of the International Civil Aviation Organization draw up a Protocol, in the English, French, Russian and Spanish languages, each of which shall be of equal authenticity, embodying the proposed amendment above-mentioned and the matter hereinafter appearing: 
 
 (a)   The Protocol shall be signed by the President of the Assembly and its Secretary General. 
 
@@ -2460,9 +2460,9 @@ CONSEQUENTLY, pursuant to the aforesaid action of the Assembly,
 
 This Protocol has been drawn up by the Secretary General of the Organization. 
 
-IN WITNESS WHEREOF, the President and the Secretary General of the aforesaid Twenty‑fifth Session (Extraordinary) of the Assembly of the International Civil Aviation Organization, being authorized thereto by the Assembly, sign this Protocol.
+IN WITNESS WHEREOF, the President and the Secretary General of the aforesaid Twenty-fifth Session (Extraordinary) of the Assembly of the International Civil Aviation Organization, being authorized thereto by the Assembly, sign this Protocol.
 
-DONE at Montreal on the 10th day of May of the year one thousand nine hundred and eighty‑four, in a single document in the English, French, Russian and Spanish languages, each text being equally authentic. This Protocol shall remain deposited in the archives of the International Civil Aviation Organization, and certified copies thereof shall be transmitted by the Secretary General of the Organization to all States parties to the Convention on International Civil Aviation done at Chicago on the seventh day of December 1944.
+DONE at Montreal on the 10th day of May of the year one thousand nine hundred and eighty-four, in a single document in the English, French, Russian and Spanish languages, each text being equally authentic. This Protocol shall remain deposited in the archives of the International Civil Aviation Organization, and certified copies thereof shall be transmitted by the Secretary General of the Organization to all States parties to the Convention on International Civil Aviation done at Chicago on the seventh day of December 1944.
 
 # Schedule 11—Protocol relating to an amendment to Article 56 of the Convention on International Civil Aviation Signed at Montreal on 6 October 1989
 
@@ -2470,7 +2470,7 @@ _Section 4_
 
 THE ASSEMBLY OF THE INTERNATIONAL CIVIL AVIATION ORGANIZATION 
 
-HAVING MET in its Twenty‑seventh Session at Montreal on 6 October 1989, 
+HAVING MET in its Twenty-seventh Session at Montreal on 6 October 1989, 
 
 HAVING NOTED that it is the general desire of Contracting States to enlarge the membership of the Air Navigation Commission, 
 
@@ -2484,7 +2484,7 @@ HAVING CONSIDERED it necessary to amend, for the purpose aforesaid, the Conventi
 
 2.    SPECIFIES, pursuant to the provisions of the said Article 94(_a_) of the said Convention, one hundred and eight as the number of Contracting States upon whose ratification the aforesaid amendment shall come into force; and 
 
-3.    RESOLVES that the Secretary General of the International Civil Aviation Organization shall draw up a Protocol, in the English, French, Russian and Spanish languages, each of which shall be of equal authenticity, embodying the amendment above‑mentioned and the matters hereinafter appearing: 
+3.    RESOLVES that the Secretary General of the International Civil Aviation Organization shall draw up a Protocol, in the English, French, Russian and Spanish languages, each of which shall be of equal authenticity, embodying the amendment above-mentioned and the matters hereinafter appearing: 
 
 a)    The Protocol shall be signed by the President of the Assembly and its Secretary General. 
 
@@ -2504,9 +2504,9 @@ CONSEQUENTLY, pursuant to the aforesaid action of the Assembly,
 
 This Protocol has been drawn up by the Secretary General of the Organization.
 
-IN WITNESS WHEREOF, the President and the Secretary General of the aforesaid Twenty‑seventh Session of the Assembly of the International Civil Aviation Organization, being authorized thereto by the Assembly, sign this Protocol.
+IN WITNESS WHEREOF, the President and the Secretary General of the aforesaid Twenty-seventh Session of the Assembly of the International Civil Aviation Organization, being authorized thereto by the Assembly, sign this Protocol.
 
-DONE at Montreal on the sixth day of October of the year one thousand nine hundred and eighty‑nine, in a single document in the English, French, Russian and Spanish languages, each text being equally authentic. This Protocol shall remain deposited in the archives of the International Civil Aviation Organization, and certified copies thereof shall be transmitted by the Secretary General of the Organization to all States parties to the Convention on International Civil Aviation done at Chicago on the seventh day of December 1944\. 
+DONE at Montreal on the sixth day of October of the year one thousand nine hundred and eighty-nine, in a single document in the English, French, Russian and Spanish languages, each text being equally authentic. This Protocol shall remain deposited in the archives of the International Civil Aviation Organization, and certified copies thereof shall be transmitted by the Secretary General of the Organization to all States parties to the Convention on International Civil Aviation done at Chicago on the seventh day of December 1944\. 
 
 # Schedule 12—Protocol relating to an amendment to Article 50 (a) of the Convention on International Civil Aviation Signed at Montreal on 26 October 1990
 
@@ -2514,21 +2514,21 @@ _Section 4_
 
 THE ASSEMBLY OF THE INTERNATIONAL CIVIL AVIATION ORGANIZATION
 
-HAVING MET in its Twenty‑eighth Session (Extraordinary) at Montreal on 25 October 1990; 
+HAVING MET in its Twenty-eighth Session (Extraordinary) at Montreal on 25 October 1990; 
 
 HAVING NOTED that it is the desire of a large number of Contracting States to enlarge the membership of the Council in order to ensure better balance by means of an increased representation of Contracting States; 
 
-HAVING CONSIDERED it appropriate to increase the membership of that body from thirty‑three to thirty‑six; 
+HAVING CONSIDERED it appropriate to increase the membership of that body from thirty-three to thirty-six; 
 
 HAVING CONSIDERED it necessary to amend, for the purpose aforesaid, the Convention on International Civil Aviation done at Chicago on the seventh day of December 1944; 
 
 1.    APPROVES, in accordance with the provisions of Article 94 (_a_) of the Convention aforesaid, the following proposed amendment to the said Convention: 
 
-“In Article 50 (_a_) of the Convention the second sentence shall be amended by replacing ‘thirty‑three’ by ‘thirty‑six’.”; 
+“In Article 50 (_a_) of the Convention the second sentence shall be amended by replacing ‘thirty-three’ by ‘thirty-six’.”; 
 
 2.    SPECIFIES, pursuant to the provisions of the said Article 94 (_a_) of the said Convention, one hundred and eight as the number of Contracting States upon whose ratification the proposed amendment aforesaid shall come into force; 
 
-3.    RESOLVES that the Secretary General of the International Civil Aviation Organization draw up a Protocol, in the English, French, Russian and Spanish languages, each of which shall be of equal authenticity, embodying the amendment above‑mentioned and the matter hereinafter appearing: 
+3.    RESOLVES that the Secretary General of the International Civil Aviation Organization draw up a Protocol, in the English, French, Russian and Spanish languages, each of which shall be of equal authenticity, embodying the amendment above-mentioned and the matter hereinafter appearing: 
 
 a)    The Protocol shall be signed by the President of the Assembly and its Secretary General. 
 
@@ -2548,9 +2548,9 @@ CONSEQUENTLY, pursuant to the aforesaid action of the Assembly,
 
 This Protocol has been drawn up by the Secretary General of the Organization.
 
-IN WITNESS WHEREOF, the President and the Secretary General of the aforesaid Twenty‑eighth Session (Extraordinary) of the Assembly of the International Civil Aviation Organization, being authorized thereto by the Assembly, sign this Protocol. 
+IN WITNESS WHEREOF, the President and the Secretary General of the aforesaid Twenty-eighth Session (Extraordinary) of the Assembly of the International Civil Aviation Organization, being authorized thereto by the Assembly, sign this Protocol. 
 
-DONE at Montreal on the twenty‑sixth day of October of the year one thousand nine hundred and ninety, in a single document in the English, French, Russian and Spanish languages, each text being equally authentic. This Protocol shall remain deposited in the archives of the International Civil Aviation Organization, and certified copies thereof shall be transmitted by the Secretary General of the Organization to all States parties to the Convention on International Civil Aviation done at Chicago on the seventh day of December 1944.
+DONE at Montreal on the twenty-sixth day of October of the year one thousand nine hundred and ninety, in a single document in the English, French, Russian and Spanish languages, each text being equally authentic. This Protocol shall remain deposited in the archives of the International Civil Aviation Organization, and certified copies thereof shall be transmitted by the Secretary General of the Organization to all States parties to the Convention on International Civil Aviation done at Chicago on the seventh day of December 1944.
 
 # Notes to the _Air Navigation Act 1920_
 
@@ -3581,23 +3581,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>Sch. 1 (items 26, 27) \[ <i>see</i>Table A]</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 7 (item 7): 19 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     Section 2 of the _Air Navigation Act 1920_ provides as follows:
@@ -3620,7 +3603,7 @@ _(b)_     The _Air Navigation Act 1920_ was amended by Part LXXVII (se
 
 _(c)_     The _Air Navigation Act 1920_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1983_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
 
 _(d)_     The _Civil Aviation Act 1988_ was amended by section 8 only of the _Transport Legislation Amendment Act 1989_, subsection 2(3) of which provides as follows:
 
@@ -4133,7 +4116,7 @@ _(w)_ Subsection 2(1) (item 3) of the _Aviation Security Amendment Act 2004_ p
     <div></div>
   </td>
   <td>
-    <div>am. Nos. 130 and 216, 1973; No. 124, 1974; No. 27, 1980; No. 80, 1982; No. 39, 1983; No. 63, 1988; No. 23, 1990; No. 89,1995 (as am. by No. 43, 1996); No. 30, 1997; No. 95, 1998; No. 48, 2000; No. 143, 2002; No. 83, 2003; Nos. 9 and 64, 2004; No. 87, 2008; No. 5, 2011</div>
+    <div>am. Nos. 130 and 216, 1973; No. 124, 1974; No. 27, 1980; No. 80, 1982; No. 39, 1983; No. 63, 1988; No. 23, 1990; No. 89,1995 (as am. by No. 43, 1996); No. 30, 1997; No. 95, 1998; No. 48, 2000; No. 143, 2002; No. 83, 2003; Nos. 9 and 64, 2004; No. 87, 2008</div>
   </td>
   <td>
     <div></div>
@@ -6784,7 +6767,7 @@ _Aviation Transport Security (Consequential Amendments and Transitional Provisio
 
 ## 1  Regulations
 
-(1)       The Governor‑General may make regulations prescribing matters:
+(1)       The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -6822,7 +6805,7 @@ _Aviation Legislation Amendment (International Airline Licences and Carriers’ 
 
 ## Schedule 1
 
-## 26  Pre‑commencement licences
+## 26  Pre-commencement licences
 
 (1)       Despite the amendments made by this Schedule, the old law continues to apply in relation to the operation of a scheduled international air service in respect of which an international airline licence was in force immediately before the commencement time.
 
