@@ -1,154 +1,103 @@
-![Commonwealth Coat of Arms](http://www.comlaw.gov.au/Details/C2013C00090/Html/c9a71241-02c5-4b3c-be77-0037a2a5d348_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00763/Html/ccf2b262-9ee1-4945-9d99-48efa9c3732e_files/image001.gif)
 
 # Remuneration Tribunal Act 1973
 
-No. 215, 1973 as amended
+**Act No. 215 of 1973 as amended**
 
-**Compilation start date:**1 January 2013
+This compilation was prepared on 30 October 2012
+ taking into account amendments up to Act No. 136 of 2012
 
-**Includes amendments up to:**Act No. 174, 2012
+The text of any of those amendments not in force
+ on that date is appended in the Notes section
 
-**About this compilation**
+The operation of amendments that have been incorporated may be 
+ affected by application provisions that are set out in the Notes section
 
-**The compiled Act**
+Prepared by the Office of Parliamentary Counsel, Canberra
 
-This is a compilation of the _Remuneration Tribunal Act 1973_ as amended and in force on 1 January 2013\. It includes any amendment affecting the compiled Act to that date.
-
-This compilation was prepared on 1 March 2013.
-
-The notes at the end of this compilation (the **_endnotes_**) include information about amending Acts and instruments and the amendment history of each amended provision.
-
-**Uncommenced provisions and amendments**
-
-If a provision of the compiled Act is affected by an uncommenced amendment, the text of the uncommenced amendment is set out in the endnotes.
-
-**Application, saving and transitional provisions for amendments**
-
-If the operation of an amendment is affected by an application, saving or transitional provision, the provision is set out in the endnotes.
-
-**Modifications**
-
-If a provision of the compiled Act is affected by a textual modification that is in force, the text of the modifying provision is set out in the endnotes. 
-
-**Provisions ceasing to have effect**
-
-If a provision of the compiled Act has expired or otherwise ceased to have effect in accordance with a provision of the Act, details of the provision are set out in the endnotes.
-
-Contents
+# Contents
 
 **Part I—Preliminary**
 
-[1](#1).            Short title                                                                                              1
+[1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Commencement                                                                                    1
+[2](#2).            Commencement [_see_ Note 1]
 
 **Part II—Remuneration etc. for certain offices and appointments** 
 
     **Division 1—Preliminary**
 
-[3](#3).            Interpretation                                                                                        2
+[3](#3).            Interpretation
 
-[3A](#3A).         Principal executive offices                                                                    7
+[3A](#3A).         Principal executive offices
 
-[3B](#3B).         Employing body                                                                                   8
+[3B](#3B).         Employing body
 
-[3C](#3C).         Provisions relating to declarations under sections 3A and 3B              8
+[3C](#3C).         Provisions relating to declarations under sections 3A and 3B
 
     **Division 2—Determinations and reports by the Remuneration Tribunal**
 
-[4](#4).            Establishment of Remuneration Tribunal                                             9
+[4](#4).            Establishment of Remuneration Tribunal
 
-[4A](#4A).         Acting President                                                                                   9
+[4A](#4A).         Acting President
 
-[4B](#4B).         Disclosure of interest by Tribunal members                                       10
+[4B](#4B).         Disclosure of interest by Tribunal members
 
-[5](#5).            Functions of Tribunal                                                                         10
+[5](#5).            Functions of Tribunal
 
-[6](#6).            Inquiries and reports by Tribunal                                                       12
+[6](#6).            Inquiries and reports by Tribunal
 
-[7](#7).            Inquiries and determinations by Tribunal                                           12
+[7](#7).            Inquiries and determinations by Tribunal
 
-[7A](#7A).         Reasons for determinations about members of parliament                 21
+[7A](#7A).         Reasons for determinations about members of parliament
 
-[8](#8).            Time of making reports and determinations                                       21
+[8](#8).            Time of making reports and determinations
 
-[8A](#8A).         Time of making recreation leave determinations                                 22
+[8A](#8A).         Time of making recreation leave determinations
 
-[8B](#8B).         Hearings in relation to discriminatory determinations                        23
+[8B](#8B).         Hearings in relation to discriminatory determinations
 
-[8C](#8C).         Review of discriminatory determinations                                           23
+[8C](#8C).         Review of discriminatory determinations
 
-[9](#9).            Resignation and removal from office                                                 24
+[9](#9).            Resignation and removal from office
 
-[10](#10).          Meetings of the Tribunal                                                                    24
+[10](#10).          Meetings of the Tribunal
 
-[11](#11).          Method of inquiry by Tribunal                                                           25
+[11](#11).          Method of inquiry by Tribunal
 
-[12](#12).          Fees and allowances                                                                           25
+[12](#12).          Fees and allowances
 
-[12AA](#12AA).    Annual report                                                                                     25
+[12AA](#12AA).    Annual report
 
     **Division 3—Determinations by employing bodies for principal executive offices**
 
-[12C](#12C).       Terms and conditions determined by employing body                       26
+[12C](#12C).       Terms and conditions determined by employing body
 
     **Division 4—Remuneration etc. for Departmental Secretaries**
 
-[13](#13).          Determination of classification structure etc                                       27
+[13](#13).          Determination of classification structure etc 
 
-[14](#14).          Amount of remuneration                                                                    27
+[14](#14).          Amount of remuneration
 
-[15](#15).          Determination of other terms and conditions                                      28
+[15](#15).          Determination of other terms and conditions
 
-[16](#16).          Publication of determinations made by the Tribunal under this Division  28
+[16](#16).          Publication of determinations made by the Tribunal under this Division
 
 **Part IV—Miscellaneous**
 
-[17](#17).          Regulations                                                                                        30
+[17](#17).          Regulations
 
-Endnotes    
-
-Endnote 1—Legislation history                                                                             31
-
-Endnote 2—Amendment history                                                                          45
-
-Endnote 3—Application, saving and transitional provisions                  48
-
-Industrial Relations and other Legislation Amendment Act 1995 (No. 168, 1995)            48
-
-Education Legislation Amendment Act 1997 (No. 66, 1997)                           49
-
-Human Rights Legislation Amendment Act (No. 1) 1999 (No. 133, 1999)    50
-
-Remuneration Tribunal Amendment Act 2001 (No. 27, 2001)                        58
-
-Fair Work (State Referral and Consequential and Other Amendments) Act 2009 (No. 54, 2009)  59
-
-Acts Interpretation Amendment Act 2011 (No. 46, 2011)                                60
-
-Remuneration and Other Legislation Amendment Act 2011 (No. 75, 2011) 60
-
-Fair Work Amendment Act 2012 (No. 174, 2012)                                              64
-
-Endnote 4—Uncommenced amendments                                                        65
-
-Medibank Private Sale Act 2006 (No. 160, 2006)                                               65
-
-Endnote 5—Misdescribed amendments                                                            66
-
-Endnote 6—Modifications                                                                                       67
-
-A.C.T. Self‑Government (Consequential Provisions) Regulations (1989 No. 3)  67
+**Notes** 
 
 ## An Act to establish a tribunal in relation to the remuneration and allowances, and recreation leave entitlements, of the holders of certain public and other offices, and for related purposes
 
 ## Part I—Preliminary
 
-##### <a id="1"></a>1  Short title
+##### <a id="1"></a>1  Short title<span style="font-size:9.0pt; font-weight:normal"> [_see_ Note 1]</span>
 
                    This Act may be cited as the _Remuneration Tribunal Act 1973_.
 
-##### <a id="2"></a>2  Commencement
+##### <a id="2"></a>2  Commencement<span style="font-size:9.0pt; font-weight:normal"> [_see_ Note 1]</span>
 
                    This Act shall come into operation on the day on which it receives the Royal Assent.
 
@@ -164,11 +113,11 @@ A.C.T. Self‑Government (Consequential Provisions) Regulations (1989 No. 3)�
 
                     <a name="act-offic"></a>**_ACT office_** means:
 
-                     (a)  an office or appointment specified in any of paragraphs (fc) to (fh) of subsection 3(4), as modified by regulations in force under the _A.C.T. Self‑Government (Consequential Provisions) Act 1988_; or
+                     (a)  an office or appointment specified in any of paragraphs (fc) to (fh) of subsection 3(4), as modified by regulations in force under the _A.C.T. Self‑Government (Consequential Provisions) Act 1988_; or
 
-                     (b)  an office or appointment specified in subsection 73(1) of the _Australian Capital Territory__(Self‑Government) Act 1988_.
+                     (b)  an office or appointment specified in subsection 73(1) of the _Australian Capital Territory__(Self‑Government) Act 1988_.
 
-                    <a name="addition-parliamentari-offic-holder-salari"></a>**_additional Parliamentary office holder salary_** means so much of the allowances determined under subsection 7(1) as:
+                    <a name="addition-parliamentari-offic-holder-salari"></a>**_additional Parliamentary office holder salary_** means so much of the allowances determined under subsection 7(1) as:
 
                      (a)  is to be paid to members of Parliament by reason of their holding particular offices, or performing particular functions, in, or in relation to, the Parliament or either House of the Parliament; and
 
@@ -186,11 +135,11 @@ A.C.T. Self‑Government (Consequential Provisions) Regulations (1989 No. 3)�
 
                     <a name="higher-educ-institut"></a>**_higher education institution_** means an institution that is a higher education institution within the meaning of the _Employment, Education and Training Act 1988_(other than an institution declared by the regulations not to be a higher education institution for the purposes of this Act), and includes any other institution declared by the regulations to be a higher education institution for the purposes of this Act.
 
-                    <a name="member"></a>**_member_** means a member of the Tribunal and includes a person appointed temporarily in the place of a member under subsection 33(4) of the _Acts Interpretation Act 1901‑1973_.
+                    <a name="member"></a>**_member_** means a member of the Tribunal and includes a person appointed temporarily in the place of a member under subsection 33(4) of the _Acts Interpretation Act 1901‑1973_.
 
                     <a name="offic"></a>**_office_** includes position.
 
-                    <a name="parliamentari-base-salari"></a>**_parliamentary base salary_** means so much of the allowances determined under subsection 7(1) as:
+                    <a name="parliamentari-base-salari"></a>**_parliamentary base salary_** means so much of the allowances determined under subsection 7(1) as:
 
                      (a)  represents the annual allowance payable for the purposes of section 48 of the Constitution; and
 
@@ -222,7 +171,7 @@ A.C.T. Self‑Government (Consequential Provisions) Regulations (1989 No. 3)�
 
                       (l)  Chief Executive Officer of Sydney Airports Corporation Limited;
 
-                    (m)  any other office or appointment declared by the Minister under subsection 3A(1) to be a principal executive office.
+                    (m)  any other office or appointment declared by the Minister under subsection 3A(1) to be a principal executive office.
 
                     <a name="public-offic"></a>**_public office_** has the meaning given by subsection (4).
 
@@ -230,7 +179,7 @@ A.C.T. Self‑Government (Consequential Provisions) Regulations (1989 No. 3)�
 
                     <a name="public-statutori-corpor"></a>**_public statutory corporation_** means a corporation established for a public purpose by a law of the Commonwealth or a law of a Territory but does not include an institution of tertiary education.
 
-                    <a name="tribun"></a>**_Tribunal_** means the Tribunal established by subsection 4(1).
+                    <a name="tribun"></a>**_Tribunal_** means the Tribunal established by subsection 4(1).
 
              (2)  A reference in this Part to remuneration shall be read as including a reference to annual allowances.
 
@@ -258,7 +207,7 @@ A.C.T. Self‑Government (Consequential Provisions) Regulations (1989 No. 3)�
 
 but does not include a reference to any of the following offices or appointments:
 
-                      (j)  the office of President of the Fair Work Commission;
+                      (j)  the office of President of Fair Work Australia;
 
                     (ja)  an office of member of the Legislative Assembly, of member of the Council, or of Minister of the Territory, within the meaning of the _Northern Territory__(Self‑Government) Act 1978_;
 
@@ -314,7 +263,7 @@ and the person with whom such a contract is made or to whom such a Commission or
 
              (1)  The Minister may, by writing, declare that a specified office or appointment is a principal executive office.
 
-             (2)  The Minister may, by writing, declare that a specified principal executive office is assigned to a specified classification within the classification structure determined by the Tribunal under subsection 5(2A).
+             (2)  The Minister may, by writing, declare that a specified principal executive office is assigned to a specified classification within the classification structure determined by the Tribunal under subsection 5(2A).
 
              (3)  A declaration made under subsection (2) as to the classification to which a principal executive office is assigned may state that the assignment of the office to the classification is a temporary assignment. If the declaration so states, the assignment ceases to be an assignment of the office to the classification at the end of the term of appointment of the person who held the office when the assignment was made.
 
@@ -332,9 +281,9 @@ and the person with whom such a contract is made or to whom such a Commission or
 
              (1)  This section applies to the following declarations:
 
-                     (a)  declarations under subsection 3A(1);
+                     (a)  declarations under subsection 3A(1);
 
-                     (b)  declarations under subsection 3A(2);
+                     (b)  declarations under subsection 3A(2);
 
                      (c)  declarations under section 3B.
 
@@ -404,7 +353,11 @@ then, if the President considers that the member should not take part, or contin
 
 ##### <a id="5"></a>5  Functions of Tribunal
 
-             (1)  The functions of the Tribunal are to inquire into, and report to the Minister on, matters referred to in section 6 and to inquire into, and determine, matters referred to in section 7 (other than subsection 7(3D)), having regard to national minimum wage orders made by the Fair Work Commission.
+             (1)  The functions of the Tribunal are to inquire into, and report to the Minister on, matters referred to in section 6 and to inquire into, and determine, matters referred to in section 7 (other than subsection 7(3D)), having regard to:
+
+                     (a)  national minimum wage orders made by Fair Work Australia; or
+
+                     (b)  if Fair Work Australia has not yet made its first national minimum wage order—the last wage‑setting decision of the Australian Fair Pay Commission.
 
              (2)  An additional function of the Tribunal is to provide advice to the Australian National University and the University of Canberra in relation to terms and conditions (including remuneration and allowances) on which executive education offices in those bodies are to be held.
 
@@ -412,7 +365,7 @@ then, if the President considers that the member should not take part, or contin
 
                      (a)  determine a classification structure for principal executive offices; and
 
-                     (b)  in connection with determinations made under paragraph (a), exercise the powers referred to in subsections 7(3D), (3E) and (3F).
+                     (b)  in connection with determinations made under paragraph (a), exercise the powers referred to in subsections 7(3D), (3E) and (3F).
 
           (2B)  An additional function of the Tribunal is:
 
@@ -454,7 +407,7 @@ that should be used as a basis for making grants in relation to recurrent expend
 
              (5)  The Minister shall cause a copy of a report to be laid before each House of the Parliament within 15 sitting days of that House after the report is received by him or her.
 
-##### <a id="7"></a>7  Inquiries and determinations by Tribunal
+##### <a id="7"></a>7  Inquiries and determinations by Tribunal<span style="font-size:9.0pt;font-weight:normal"> </span>
 
              (1)  The Tribunal shall, from time to time as provided by this Part, inquire into, and determine, the allowances (including allowances in accordance with section 48 of the Constitution) to be paid out of the public moneys of the Commonwealth to members of the Parliament by reason of their membership of the Parliament or by reason of their holding particular offices, or performing particular functions, in, or in relation to, the Parliament or either House of the Parliament.
 
@@ -466,7 +419,7 @@ that should be used as a basis for making grants in relation to recurrent expend
 
              (2)  The Tribunal shall, from time to time as provided by this Part, inquire into, and determine, the allowances to be paid to Ministers of State out of the public moneys of the Commonwealth.
 
-          (2A)  The Tribunal may determine that a portion of a salary referred to in subsection 6(1) is not **_salary_** for the purposes of the _Parliamentary Contributory Superannuation Act 1948_.
+          (2A)  The Tribunal may determine that a portion of a salary referred to in subsection 6(1) is not **_salary_** for the purposes of the _Parliamentary Contributory Superannuation Act 1948_.
 
              (3)  The Tribunal shall, from time to time as provided by this Part, inquire into, and determine, the remuneration to be paid to the holders of public offices other than holders of those offices who are members of, or candidates for election to, either House of the Parliament.
 
@@ -486,7 +439,7 @@ that should be used as a basis for making grants in relation to recurrent expend
 
           (3D)  The Tribunal may, from time to time as provided by this Part:
 
-                     (a)  hold inquiries for the purpose of performing its function under subsection 5(2A); and
+                     (a)  hold inquiries for the purpose of performing its function under subsection 5(2A); and
 
                      (b)  in determining under that subsection a classification structure for principal executive offices, determine the terms and conditions (including remuneration and allowances, or bands of remuneration and allowances) applicable to each classification within the classification structure.
 
@@ -500,9 +453,9 @@ that should be used as a basis for making grants in relation to recurrent expend
 
                      (b)  if the Minister, by a notice in writing given to the President, requests the Tribunal to inquire into, and either to determine or report on, a matter specified in the notice, being a matter that is, or is considered by the Minister to be, significantly related to the first‑mentioned matter, the Tribunal shall inquire into the matter specified in the notice and either determine or report on that matter, as the case may be, in accordance with the request.
 
-          (4A)  The Tribunal may inquire into and determine the travelling allowances to be paid to members of committees established under section 54, and members of sub‑committees established under subsection 58(1A), of the _Fisheries Administration Act 1991_ in relation to the performance of their duties as members of the committees or sub‑committees.
+          (4A)  The Tribunal may inquire into and determine the travelling allowances to be paid to members of committees established under section 54, and members of sub‑committees established under subsection 58(1A), of the _Fisheries Administration Act 1991_ in relation to the performance of their duties as members of the committees or sub‑committees.
 
-          (4B)  The Tribunal may inquire into and determine the travelling allowances to be paid to the President of the Fair Work Commission  for travel within Australia.
+          (4B)  The Tribunal may inquire into and determine the travelling allowances to be paid to the President of Fair Work Australia  for travel within Australia.
 
              (5)  Subject to subsection (5A), a determination of the Tribunal shall be in writing and shall come into operation, or shall be deemed to have come into operation, on such date as the Tribunal specifies in the determination.
 
@@ -588,7 +541,7 @@ that should be used as a basis for making grants in relation to recurrent expend
 
                      (b)  in any other case—out of the Consolidated Revenue Fund, such expenses as he or she reasonably incurs in respect of his or her holding, or performing the duties of, that office.
 
-           (11)  Except as prescribed, or as authorized or approved by or under any other law of the Commonwealth or any law of a Territory, a person is not entitled to be paid any remuneration in respect of his or her holding, or performing the duties of, a public office on a part‑time basis if the person holds any office or appointment, or is otherwise employed, on a full‑time basis in the service or employment of the Commonwealth, the Administration of a Territory, a public statutory corporation, an incorporated company referred to in paragraph 3(4)(da) or an incorporated company all the stock or shares in the capital of which is or are beneficially owned by the Commonwealth or by a public statutory corporation.
+           (11)  Except as prescribed, or as authorized or approved by or under any other law of the Commonwealth or any law of a Territory, a person is not entitled to be paid any remuneration in respect of his or her holding, or performing the duties of, a public office on a part‑time basis if the person holds any office or appointment, or is otherwise employed, on a full‑time basis in the service or employment of the Commonwealth, the Administration of a Territory, a public statutory corporation, an incorporated company referred to in paragraph 3(4)(da) or an incorporated company all the stock or shares in the capital of which is or are beneficially owned by the Commonwealth or by a public statutory corporation.
 
         (11A)  For the purposes of subsection (11), an office of member of the Aboriginal Corporation of the National Aboriginal Conference shall be deemed to be an office in the service of the Commonwealth.
 
@@ -614,17 +567,17 @@ that should be used as a basis for making grants in relation to recurrent expend
 
                    The Tribunal must ensure that its reasons for each of the following determinations are published on its website and notified to the Minister:
 
-                     (a)  a determination under subsection 7(1), (1A), (1B), (2) or (2A);
+                     (a)  a determination under subsection 7(1), (1A), (1B), (2) or (2A);
 
-                     (b)  a determination under subsection 7(4) on a matter that is, or is considered by the Tribunal or the Minister to be, significantly related to a matter referred to in subsection 7(1) or (2).
+                     (b)  a determination under subsection 7(4) on a matter that is, or is considered by the Tribunal or the Minister to be, significantly related to a matter referred to in subsection 7(1) or (2).
 
-##### <a id="8"></a>8  Time of making reports and determinations
+##### <a id="8"></a>8  Time of making reports and determinations<span style="font-size:9.0pt;font-weight:normal"> </span>
 
              (1)  Subject to this section, the Tribunal shall, as soon as practicable after the commencement of this Act, and at subsequent intervals of not more than 1 year, make:
 
-                     (a)  reports on the matters referred to in subsections 6(1), (2) and (2A); and
+                     (a)  reports on the matters referred to in subsections 6(1), (2) and (2A); and
 
-                     (b)  determinations in respect of the matters referred to in subsections 7(1), (2) and (3).
+                     (b)  determinations in respect of the matters referred to in subsections 7(1), (2) and (3).
 
              (2)  Where:
 
@@ -644,11 +597,11 @@ the Tribunal shall, as soon as practicable but without prejudice to its obligati
 
 ##### <a id="8A"></a>8A  Time of making recreation leave determinations
 
-             (1)  Subject to this section, the Tribunal may, from time to time, make determinations in respect of the matters referred to in subsection 7(3AA).
+             (1)  Subject to this section, the Tribunal may, from time to time, make determinations in respect of the matters referred to in subsection 7(3AA).
 
              (2)  Where:
 
-                     (a)  a public office becomes a relevant office within the meaning of subsection 7(3AA) and is held by a person on a full‑time basis; or
+                     (a)  a public office becomes a relevant office within the meaning of subsection 7(3AA) and is held by a person on a full‑time basis; or
 
                      (b)  a public office, being such a relevant office, comes into existence and is held by a person on a full‑time basis; or
 
@@ -704,7 +657,7 @@ the Tribunal must take the necessary action to remove the discrimination, by set
 
              (2)  The Governor‑General may remove a member from office for misbehaviour or physical or mental incapacity.
 
-             (3)  A member ceases to hold office if he or she becomes a person mentioned in subsection 4(4).
+             (3)  A member ceases to hold office if he or she becomes a person mentioned in subsection 4(4).
 
 ##### <a id="10"></a>10  Meetings of the Tribunal
 
@@ -740,13 +693,13 @@ the Tribunal must take the necessary action to remove the discrimination, by set
 
 ##### <a id="12"></a>12  Fees and allowances
 
-                   A member and any person appointed under subsection 11(2) to assist the Tribunal shall be paid such fees and allowances as are prescribed.
+                   A member and any person appointed under subsection 11(2) to assist the Tribunal shall be paid such fees and allowances as are prescribed.
 
 ##### <a id="12AA"></a>12AA  Annual report
 
              (1)  The Tribunal shall, as soon as practicable after 30 June in each year, prepare and furnish to the Minister a report of the operations of the Tribunal during the year that ended on that 30 June.
 
-          (1A)  The Tribunal shall include in the report an assessment of the general operation of subsection 5(2).
+          (1A)  The Tribunal shall include in the report an assessment of the general operation of subsection 5(2).
 
              (2)  The Minister shall cause a copy of a report furnished to him or her under subsection (1) to be laid before each House of the Parliament within 15 sitting days of that House after the day on which he or she receives the report.
 
@@ -756,7 +709,7 @@ the Tribunal must take the necessary action to remove the discrimination, by set
 
              (1)  Subject to subsection (2), the employing body for a principal executive office may, in writing, determine the terms and conditions (including remuneration and allowances) applying to the office.
 
-             (2)  Except with the written consent of the Tribunal, an employing body must not determine terms and conditions in respect of a principal executive office that are inconsistent with terms and conditions determined by the Tribunal under subsection 7(3D) in respect of the classification to which the office is assigned.
+             (2)  Except with the written consent of the Tribunal, an employing body must not determine terms and conditions in respect of a principal executive office that are inconsistent with terms and conditions determined by the Tribunal under subsection 7(3D) in respect of the classification to which the office is assigned.
 
              (3)  If a determination is in force under this section for a principal executive office, the determination overrides any provision of another Act that provides for the terms and conditions applying to the principal executive office, unless that other provision refers to, and is expressed to override, this section.
 
@@ -802,7 +755,7 @@ Remuneration for other Secretaries
 
              (6)  The Secretary of the Department that is administered by the Prime Minister must give the Minister a copy of each instrument of assignment made under subsection (3).
 
-             (7)  For the purposes of subsection 5(3AB) of the _Superannuation Act 1976_, an assignment under subsection (3) of this section of a Departmental Secretary to an amount of remuneration is taken to be a determination made under the _Remuneration Tribunal Act 1973_ in respect of the remuneration of the Departmental Secretary.
+             (7)  For the purposes of subsection 5(3AB) of the _Superannuation Act 1976_, an assignment under subsection (3) of this section of a Departmental Secretary to an amount of remuneration is taken to be a determination made under the _Remuneration Tribunal Act 1973_ in respect of the remuneration of the Departmental Secretary.
 
 ##### <a id="15"></a>15  Determination of other terms and conditions
 
@@ -812,9 +765,9 @@ Remuneration for other Secretaries
 
                    The Tribunal must ensure that a determination made by the Tribunal under this Division is published in the _Gazette_, and on the Tribunal’s website, within 14 days after it is made.
 
-Note 1:       A determination made by the Tribunal under this Division must be in writing and comes into operation on the date specified in the determination: see subsection 7(5).
+Note 1:       A determination made by the Tribunal under this Division must be in writing and comes into operation on the date specified in the determination: see subsection 7(5).
 
-Note 2:       The Tribunal must give the Minister a copy of each determination made by the Tribunal under this Division: see subsection 7(6).
+Note 2:       The Tribunal must give the Minister a copy of each determination made by the Tribunal under this Division: see subsection 7(6).
 
 ## Part IV—Miscellaneous
 
@@ -822,2587 +775,1461 @@ Note 2:       The Tribunal must give the Minister a copy of each det
 
                    The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed, or necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
-Endnotes
+# Notes to the _Remuneration Tribunal Act 1973_
 
-Endnote 1—Legislation history
+### Note 1
 
-This endnote sets out details of the legislation history of the _Remuneration Tribunal Act 1973._
+The _Remuneration Tribunal Act 1973_ as shown in this compilation comprises Act No. 215, 1973 amended as indicated in the Tables below.
+
+The _Remuneration Tribunal Act 1973_ was amended by the _Public Employment (Consequential and Transitional) Regulations 1999_ (Statutory Rules 1999 No. 301 as amended by Statutory Rules 2000 No. 332) and the _Workplace Relations Amendment (Work Choices) (Consequential Amendments) Regulations 2006 (No. 1)_ (SLI 2006 No. 50 as amended by 2006 No. 119). The amendments are incorporated in this compilation.
+
+All relevant information pertaining to application, saving or transitional provisions prior to 16 December 1995 is not included in this compilation. For subsequent information _see_ Table A.
+
+The _Remuneration Tribunal Act 1973_ was modified by the A.C.T. Self‑Government (Consequential Provisions) Regulations (1989 No. 3 as amended) _see_ Table B.
+
+### Table of Acts
 
 <table>
 <colgroup>
-  <col width="26%">
-  <col width="14%">
-  <col width="14%">
-  <col width="26%">
+  <col width="31%">
+  <col width="16%">
+  <col width="18%">
   <col width="20%">
+  <col width="15%">
 </colgroup>
 
 <thead>
   <tr>
     <td>
-      <div>
-        <b>
-          Act
-        </b>
-      </div>
+      <div>Act</div>
     </td>
     <td>
-      <div>
-        <b>
-          Number and year
-        </b>
-      </div>
+      <div>Number 
+and year</div>
     </td>
     <td>
-      <div>
-        <b>
-          Assent date
-        </b>
-      </div>
+      <div>Date 
+of Assent</div>
     </td>
     <td>
-      <div>
-        <b>
-          Commencement date
-        </b>
-      </div>
+      <div>Date of commencement</div>
     </td>
     <td>
-      <div>
-        <b>
-          Application, saving and transitional provisions
-        </b>
-      </div>
+      <div>Application, saving or transitional provisions</div>
     </td>
   </tr>
 </thead>
 <tr>
   <td>
-    <div>
-      Remuneration Tribunal Act 1973
-    </div>
+    <div>Remuneration Tribunal Act 1973</div>
   </td>
   <td>
-    <div>
-      215, 1973
-    </div>
+    <div>215, 1973</div>
   </td>
   <td>
-    <div>
-      19 Dec 1973
-    </div>
+    <div>19 Dec 1973</div>
   </td>
   <td>
-    <div>
-      19 Dec 1973
-    </div>
+    <div>19 Dec 1973</div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Remuneration Tribunals Act 1974
-    </div>
+    <div>Remuneration Tribunals Act 1974</div>
   </td>
   <td>
-    <div>
-      80, 1974
-    </div>
+    <div>80, 1974</div>
   </td>
   <td>
-    <div>
-      16 Oct 1974
-    </div>
+    <div>16 Oct 1974</div>
   </td>
   <td>
-    <div>
-      16 Oct 1974
-    </div>
+    <div>16 Oct 1974</div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Defence Force Re‑organization Act 1975
-    </div>
+    <div>Defence Force Re‑organization Act 1975</div>
   </td>
   <td>
-    <div>
-      96, 1975
-    </div>
+    <div>96, 1975</div>
   </td>
   <td>
-    <div>
-      9 Sept 1975
-    </div>
+    <div>9 Sept 1975</div>
   </td>
   <td>
-    <div>
-      ss. 182 and 183(a): 28 Oct 1975 (
-        <i>see Gazette</i>1975, No. G42, p. 2)
-        <i>(a)</i>
-
-    </div>
-    <div>
-      s. 183(b): 9 Feb 1976 (
-        <i>see Gazette</i>1975, No. G42, p. 2)
-        <i>(a)</i>
-
-    </div>
+    <div>Ss. 182 and 183(a): 28 Oct 1975 ( <i>see Gazette</i>1975, No. G42, p. 2) <i>(a)</i> 
+S. 183(b): 9 Feb 1976 ( <i>see Gazette</i>1975, No. G42, p. 2) <i>(a)</i></div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Remuneration Tribunals Amendment Act 1978
-    </div>
+    <div>Remuneration Tribunals Amendment Act 1978</div>
   </td>
   <td>
-    <div>
-      60, 1978
-    </div>
+    <div>60, 1978</div>
   </td>
   <td>
-    <div>
-      22 June 1978
-    </div>
+    <div>22 June 1978</div>
   </td>
   <td>
-    <div>
-      1 July 1978
-    </div>
+    <div>1 July 1978</div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Remuneration Tribunals Amendment Act (No. 2) 1978
-    </div>
+    <div>Remuneration Tribunals Amendment Act (No. 2) 1978</div>
   </td>
   <td>
-    <div>
-      178, 1978
-    </div>
+    <div>178, 1978</div>
   </td>
   <td>
-    <div>
-      30 Nov 1978
-    </div>
+    <div>30 Nov 1978</div>
   </td>
   <td>
-    <div>
-      31 Jan 1979 (
-        <i>see Gazette</i>1979, No. S12)
-    </div>
+    <div>31 Jan 1979 ( <i>see Gazette</i>1979, No. S12)</div>
   </td>
   <td>
-    <div>
-      s. 6
-    </div>
+    <div>S. 6</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Remuneration Tribunals Amendment Act 1979
-    </div>
+    <div>Remuneration Tribunals Amendment Act 1979</div>
   </td>
   <td>
-    <div>
-      26, 1979
-    </div>
+    <div>26, 1979</div>
   </td>
   <td>
-    <div>
-      30 May 1979
-    </div>
+    <div>30 May 1979</div>
   </td>
   <td>
-    <div>
-      7 Aug 1979 (
-        <i>see</i>s. 2 and
-        <i>Gazette</i>1979, No. S159)
-    </div>
+    <div>7 Aug 1979 ( <i>see</i>s. 2 and <i>Gazette</i>1979, No. S159)</div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Remuneration Tribunals Amendment Act (No. 2) 1979
-    </div>
+    <div>Remuneration Tribunals Amendment Act (No. 2) 1979</div>
   </td>
   <td>
-    <div>
-      108, 1979
-    </div>
+    <div>108, 1979</div>
   </td>
   <td>
-    <div>
-      25 Oct 1979
-    </div>
+    <div>25 Oct 1979</div>
   </td>
   <td>
-    <div>
-      2 June 1979
-    </div>
+    <div>2 June 1979</div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Remuneration Tribunals Amendment Act (No. 3) 1979
-    </div>
+    <div>Remuneration Tribunals Amendment Act (No. 3) 1979</div>
   </td>
   <td>
-    <div>
-      136, 1979
-    </div>
+    <div>136, 1979</div>
   </td>
   <td>
-    <div>
-      23 Nov 1979
-    </div>
+    <div>23 Nov 1979</div>
   </td>
   <td>
-    <div>
-      23 Nov 1979
-    </div>
+    <div>23 Nov 1979</div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Australian Federal Police (Consequential Amendments) Act 1979
-    </div>
+    <div>Australian Federal Police (Consequential Amendments) Act 1979</div>
   </td>
   <td>
-    <div>
-      155, 1979
-    </div>
+    <div>155, 1979</div>
   </td>
   <td>
-    <div>
-      28 Nov 1979
-    </div>
+    <div>28 Nov 1979</div>
   </td>
   <td>
-    <div>
-      19 Oct 1979 (
-        <i>see</i>s. 2 and
-        <i>Gazette</i>1979, No. S206)
-    </div>
+    <div>19 Oct 1979 ( <i>see</i>s. 2 and <i>Gazette</i>1979, No. S206)</div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Parliamentary Secretaries Act 1980
-    </div>
+    <div>Parliamentary Secretaries Act 1980</div>
   </td>
   <td>
-    <div>
-      160, 1980
-    </div>
+    <div>160, 1980</div>
   </td>
   <td>
-    <div>
-      10 Dec 1980
-    </div>
+    <div>10 Dec 1980</div>
   </td>
   <td>
-    <div>
-      10 Dec 1980
-    </div>
+    <div>10 Dec 1980</div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Statute Law Revision Act 1981
-    </div>
+    <div>Statute Law Revision Act 1981</div>
   </td>
   <td>
-    <div>
-      61, 1981
-    </div>
+    <div>61, 1981</div>
   </td>
   <td>
-    <div>
-      12 June 1981
-    </div>
+    <div>12 June 1981</div>
   </td>
   <td>
-    <div>
-      s. 117: Royal Assent
-        <i>(b)</i>
-
-    </div>
+    <div>S. 117: Royal Assent <i>(b)</i></div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Commonwealth Functions (Statutes Review) Act 1981
-    </div>
+    <div>Commonwealth Functions (Statutes Review) Act 1981</div>
   </td>
   <td>
-    <div>
-      74, 1981
-    </div>
+    <div>74, 1981</div>
   </td>
   <td>
-    <div>
-      18 June 1981
-    </div>
+    <div>18 June 1981</div>
   </td>
   <td>
-    <div>
-      Part XX (ss. 255, 256): Royal Assent
-        <i>(c)</i>
-
-    </div>
+    <div>Part XX (ss. 255, 256): Royal Assent <i>(c)</i></div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Statute Law (Miscellaneous Amendments) Act 1981
-    </div>
+    <div>Statute Law (Miscellaneous Amendments) Act 1981</div>
   </td>
   <td>
-    <div>
-      176, 1981
-    </div>
+    <div>176, 1981</div>
   </td>
   <td>
-    <div>
-      2 Dec 1981
-    </div>
+    <div>2 Dec 1981</div>
   </td>
   <td>
-    <div>
-      Part XIX (s. 68): 30 Dec 1981
-        <i>(d)</i>
-
-    </div>
+    <div>Part XIX (s. 68): 
+30 Dec 1981 <i>(d)</i></div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Remuneration and Allowances Amendment Act 1982
-    </div>
+    <div>Remuneration and Allowances Amendment Act 1982</div>
   </td>
   <td>
-    <div>
-      78, 1982
-    </div>
+    <div>78, 1982</div>
   </td>
   <td>
-    <div>
-      19 Sept 1982
-    </div>
+    <div>19 Sept 1982</div>
   </td>
   <td>
-    <div>
-      19 Sept 1982
-    </div>
+    <div>19 Sept 1982</div>
   </td>
   <td>
-    <div>
-      ss. 2(2) and 13(2)–(4)
-    </div>
+    <div>Ss. 2(2) and 13(2)–(4)</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Public Service Acts Amendment Act 1982
-    </div>
+    <div>Public Service Acts Amendment Act 1982</div>
   </td>
   <td>
-    <div>
-      111, 1982
-    </div>
+    <div>111, 1982</div>
   </td>
   <td>
-    <div>
-      5 Nov 1982
-    </div>
+    <div>5 Nov 1982</div>
   </td>
   <td>
-    <div>
-      s. 95: 30 June 1984 (
-        <i>see</i>
-        <i>Gazette</i>1984, No. S245)
-        <i>(e)</i>
-
-    </div>
+    <div>S. 95: 30 June 1984 ( <i>see Gazette</i>1984, No. S245) <i>(e)</i></div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Statute Law (Miscellaneous Provisions) Act (No. 1) 1983
-    </div>
+    <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1983</div>
   </td>
   <td>
-    <div>
-      39, 1983
-    </div>
+    <div>39, 1983</div>
   </td>
   <td>
-    <div>
-      20 June 1983
-    </div>
+    <div>20 June 1983</div>
   </td>
   <td>
-    <div>
-      s. 3: 18 July 1983
-        <i>(f)</i>
-
-    </div>
+    <div>S. 3: 18 July 1983 <i>(f)</i></div>
   </td>
   <td>
-    <div>
-      s. 7(1)
-    </div>
+    <div>S. 7(1)</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Remuneration and Allowances Amendment Act 1983
-    </div>
+    <div>Remuneration and Allowances Amendment Act 1983</div>
   </td>
   <td>
-    <div>
-      128, 1983
-    </div>
+    <div>128, 1983</div>
   </td>
   <td>
-    <div>
-      22 Dec 1983
-    </div>
+    <div>22 Dec 1983</div>
   </td>
   <td>
-    <div>
-      Part IV (ss. 9, 10): Royal Assent
-        <i>(g)</i>
-
-    </div>
+    <div>Part IV (ss. 9, 10): Royal Assent <i>(g)</i></div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Public Service Reform Act 1984
-    </div>
+    <div>Public Service Reform Act 1984</div>
   </td>
   <td>
-    <div>
-      63, 1984
-    </div>
+    <div>63, 1984</div>
   </td>
   <td>
-    <div>
-      25 June 1984
-    </div>
+    <div>25 June 1984</div>
   </td>
   <td>
-    <div>
-      s. 149: Royal Assent
-        <i>(h)</i>
-
-    </div>
-    <div>
-      ss. 150 and 152(1): 20 July 1984 (
-        <i>see Gazette</i>1984, No. S276)
-        <i>(h)</i>
-
-    </div>
-    <div>
-      s. 151(1): 1 July 1984 (
-        <i>see Gazette</i>1984, No. S245)
-        <i>(h)</i>
-
-    </div>
+    <div>S. 149: Royal Assent <i>(h)</i> 
+Ss. 150 and 152(1): 20 July 1984 ( <i>see Gazette</i>1984, No. S276) <i>(h)</i> 
+S. 151(1): 1 July 1984 ( <i>see Gazette</i>1984, No. S245) <i>(h)</i></div>
   </td>
   <td>
-    <div>
-      s. 151(9)
-    </div>
+    <div>S. 151(9)</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Remuneration and Allowances Amendment Act 1984
-    </div>
+    <div>Remuneration and Allowances Amendment Act 1984</div>
   </td>
   <td>
-    <div>
-      73, 1984
-    </div>
+    <div>73, 1984</div>
   </td>
   <td>
-    <div>
-      25 June 1984
-    </div>
+    <div>25 June 1984</div>
   </td>
   <td>
-    <div>
-      25 June 1984
-    </div>
+    <div>25 June 1984</div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Defence Legislation Amendment Act 1984
-    </div>
+    <div>Defence Legislation Amendment Act 1984</div>
   </td>
   <td>
-    <div>
-      164, 1984
-    </div>
+    <div>164, 1984</div>
   </td>
   <td>
-    <div>
-      25 Oct 1984
-    </div>
+    <div>25 Oct 1984</div>
   </td>
   <td>
-    <div>
-      s. 120: Royal Assent
-        <i>(j)</i>
-
-    </div>
+    <div>S. 120: Royal Assent <i>(j)</i></div>
   </td>
   <td>
-    <div>
-      s. 120(2) and (3)
-    </div>
+    <div>S. 120(2) and (3)</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Statute Law (Miscellaneous Provisions) Act (No. 1) 1985
-    </div>
+    <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1985</div>
   </td>
   <td>
-    <div>
-      65, 1985
-    </div>
+    <div>65, 1985</div>
   </td>
   <td>
-    <div>
-      5 June 1985
-    </div>
+    <div>5 June 1985</div>
   </td>
   <td>
-    <div>
-      s. 3: 3 July 1985
-        <i>(k)</i>
-
-    </div>
+    <div>S. 3: 3 July 1985 <i>(k)</i></div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Australian Trade Commission (Transitional Provisions and Consequential
-        Amendments) Act 1985
-    </div>
+    <div>Australian Trade Commission (Transitional Provisions and Consequential Amendments) Act 1985</div>
   </td>
   <td>
-    <div>
-      187, 1985
-    </div>
+    <div>187, 1985</div>
   </td>
   <td>
-    <div>
-      16 Dec 1985
-    </div>
+    <div>16 Dec 1985</div>
   </td>
   <td>
-    <div>
-      Part VIII (s. 60): 6 Jan 1986 (
-        <i>see Gazette</i>1985, No. S551)
-        <i>(l)</i>
-
-    </div>
+    <div>Part VIII (s. 60): 6 Jan 1986 ( <i>see Gazette</i>1985, No. S551) <i>(l)</i></div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Industrial Relations (Consequential Provisions) Act 1988
-    </div>
+    <div>Industrial Relations (Consequential Provisions) Act 1988</div>
   </td>
   <td>
-    <div>
-      87, 1988
-    </div>
+    <div>87, 1988</div>
   </td>
   <td>
-    <div>
-      8 Nov 1988
-    </div>
+    <div>8 Nov 1988</div>
   </td>
   <td>
-    <div>
-      s. 86: 1 Mar 1989
-        <i>(m)</i>
-
-    </div>
+    <div>S. 86: 1 Mar 1989 <i>(m)</i></div>
   </td>
   <td>
-    <div>
-      ss. 89(3), 90(3), 91, 92 and 94
-    </div>
+    <div>Ss. 89(3), 90(3), 91, 92 and 94</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        as amended by
-      </b>
-    </div>
+    <div>as amended by</div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Industrial Relations Legislation Amendment Act (No. 2) 1990
-    </div>
+    <div>Industrial Relations Legislation Amendment Act (No. 2) 1990</div>
   </td>
   <td>
-    <div>
-      108, 1990
-    </div>
+    <div>108, 1990</div>
   </td>
   <td>
-    <div>
-      18 Dec 1990
-    </div>
+    <div>18 Dec 1990</div>
   </td>
   <td>
-    <div>
-      ss. 8, 13 and 21: 1 Feb 1991 (
-        <i>see</i>s. 2(4) and
-        <i>Gazette</i>1991, No. S18)
-    </div>
-    <div>
-      ss. 22–24: 1 Mar 1989
-    </div>
-    <div>
-      s. 26: 1 Jan 1990
-    </div>
-    <div>
-      s. 33: 25 Mar 1991 (
-        <i>see Gazette</i>1991, No. S73)
-    </div>
-    <div>
-      Remainder: Royal Assent
-    </div>
+    <div>Ss. 8, 13 and 21: 1 Feb 1991 ( <i>see 
+ </i>s. 2(4) and <i>Gazette</i>1991, No. S18) 
+Ss. 22–24: 1 Mar 1989 
+S. 26: 1 Jan 1990 
+S. 33: 25 Mar 1991 ( <i>see Gazette</i>1991, No. S73) 
+Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      A.C.T. Self‑Government (Consequential Provisions) Act 1988
-    </div>
+    <div>A.C.T. Self‑Government (Consequential Provisions) Act 1988</div>
   </td>
   <td>
-    <div>
-      109, 1988
-    </div>
+    <div>109, 1988</div>
   </td>
   <td>
-    <div>
-      6 Dec 1988
-    </div>
+    <div>6 Dec 1988</div>
   </td>
   <td>
-    <div>
-      s. 32: 7 Dec 1988 (
-        <i>see Gazette</i>1988, No. S374)
-        <i>(n)</i>
-
-    </div>
+    <div>S. 32: 7 Dec 1988 ( <i>see Gazette</i>1988, No. S374) <i>(n)</i></div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        as amended by
-      </b>
-    </div>
+    <div>as amended by</div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Australian Capital Territory Government Service (Consequential Provisions)
-        Act 1994
-    </div>
+    <div>Australian Capital Territory Government Service (Consequential Provisions) Act 1994</div>
   </td>
   <td>
-    <div>
-      92, 1994
-    </div>
+    <div>92, 1994</div>
   </td>
   <td>
-    <div>
-      29 June 1994
-    </div>
+    <div>29 June 1994</div>
   </td>
   <td>
-    <div>
-      1 July 1994 (
-        <i>see Gazette</i>1994, No. S256)
-    </div>
+    <div>1 July 1994 ( <i>see Gazette</i>1994, No. S256)</div>
   </td>
   <td>
-    <div>
-      ss. 24–26
-    </div>
+    <div>Ss. 24–26</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Government Business Enterprises (Miscellaneous Reforms) Act 1988
-    </div>
+    <div>Government Business Enterprises (Miscellaneous Reforms) Act 1988</div>
   </td>
   <td>
-    <div>
-      123, 1988
-    </div>
+    <div>123, 1988</div>
   </td>
   <td>
-    <div>
-      14 Dec 1988
-    </div>
+    <div>14 Dec 1988</div>
   </td>
   <td>
-    <div>
-      Part II (ss. 3–12): 26 Jan 1989
-    </div>
-    <div>
-      Part VI (ss. 26–31): 1 Jan 1989 (
-        <i>see Gazette</i>1988, No. S399)
-    </div>
-    <div>
-      Part VII (ss. 32–37): 14 Nov 1988
-    </div>
-    <div>
-      Remainder: Royal Assent
-    </div>
+    <div>Part II (ss. 
+3–12): 26 Jan 1989 
+Part VI (ss. 
+26–31): 1 Jan 1989 ( <i>see Gazette</i>1988, No. S399) 
+Part VII (ss. 
+32–37): 14 Nov 1988 
+Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Community Services and Health Legislation Amendment Act 1989
-    </div>
+    <div>Community Services and Health Legislation Amendment Act 1989</div>
   </td>
   <td>
-    <div>
-      95, 1989
-    </div>
+    <div>95, 1989</div>
   </td>
   <td>
-    <div>
-      28 June 1989
-    </div>
+    <div>28 June 1989</div>
   </td>
   <td>
-    <div>
-      Part 6 (ss. 63, 64): Royal Assent
-        <i>(o)</i>
-
-    </div>
+    <div>Part 6 (ss. 63, 64): Royal Assent <i>(o)</i></div>
   </td>
   <td>
-    <div>
-      s. 64(2)
-    </div>
+    <div>S. 64(2)</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Australian Institute of Aboriginal and Torres Strait Islander Studies
-        Act 1989
-    </div>
+    <div>Australian Institute of Aboriginal and Torres Strait Islander Studies Act 1989</div>
   </td>
   <td>
-    <div>
-      149, 1989
-    </div>
+    <div>149, 1989</div>
   </td>
   <td>
-    <div>
-      27 Nov 1989
-    </div>
+    <div>27 Nov 1989</div>
   </td>
   <td>
-    <div>
-      5 Mar 1990 (
-        <i>see</i>s. 2 and
-        <i>Gazette</i>1990, No. S48)
-    </div>
+    <div>5 Mar 1990 ( <i>see</i>s. 2 and <i>Gazette</i>1990, No. S48)</div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Aboriginal and Torres Strait Islander Commission Act 1989
-    </div>
+    <div>Aboriginal and Torres Strait Islander Commission Act 1989</div>
   </td>
   <td>
-    <div>
-      150, 1989
-    </div>
+    <div>150, 1989</div>
   </td>
   <td>
-    <div>
-      27 Nov 1989
-    </div>
+    <div>27 Nov 1989</div>
   </td>
   <td>
-    <div>
-      5 Mar 1990 (
-        <i>see Gazette</i>1990, No. S48)
-    </div>
+    <div>5 Mar 1990 ( <i>see Gazette</i>1990, No. S48)</div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Judicial and Statutory Officers Remuneration Legislation Amendment Act
-        1989
-    </div>
+    <div>Judicial and Statutory Officers Remuneration Legislation Amendment Act 1989</div>
   </td>
   <td>
-    <div>
-      152, 1989
-    </div>
+    <div>152, 1989</div>
   </td>
   <td>
-    <div>
-      5 Dec 1989
-    </div>
+    <div>5 Dec 1989</div>
   </td>
   <td>
-    <div>
-      ss. 3, 5(1)–(3), (5) and 6–10: 1 Mar 1989
-    </div>
-    <div>
-      s. 5(4): 25 May 1988
-    </div>
-    <div>
-      Remainder: Royal Assent
-    </div>
+    <div>Ss. 3, 5(1)–(3), (5) and 6–10: 1 Mar 1989 
+S. 5(4): 25 May 1988 
+Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>
-      s. 15
-    </div>
+    <div>S. 15</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      University of Canberra Act 1989
-    </div>
+    <div>University of Canberra Act 1989</div>
   </td>
   <td>
-    <div>
-      179, 1989
-    </div>
+    <div>179, 1989</div>
   </td>
   <td>
-    <div>
-      28 Dec 1989
-    </div>
+    <div>28 Dec 1989</div>
   </td>
   <td>
-    <div>
-      1 Jan 1990
-    </div>
+    <div>1 Jan 1990</div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Parliamentary Entitlements Act 1990
-    </div>
+    <div>Parliamentary Entitlements Act 1990</div>
   </td>
   <td>
-    <div>
-      28, 1990
-    </div>
+    <div>28, 1990</div>
   </td>
   <td>
-    <div>
-      24 May 1990
-    </div>
+    <div>24 May 1990</div>
   </td>
   <td>
-    <div>
-      24 May 1990
-    </div>
+    <div>24 May 1990</div>
   </td>
   <td>
-    <div>
-      s. 13(2)
-    </div>
+    <div>S. 13(2)</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Industrial Relations Legislation Amendment Act 1991
-    </div>
+    <div>Industrial Relations Legislation Amendment Act 1991</div>
   </td>
   <td>
-    <div>
-      122, 1991
-    </div>
+    <div>122, 1991</div>
   </td>
   <td>
-    <div>
-      27 June 1991
-    </div>
+    <div>27 June 1991</div>
   </td>
   <td>
-    <div>
-      ss. 4(1), 10(b) and 15–20: 1 Dec 1988
-    </div>
-    <div>
-      ss. 28(b)–(e), 30 and 31: 10 Dec 1991 (
-        <i>see Gazette</i>1991, No. S332)
-    </div>
-    <div>
-      Remainder: Royal Assent
-    </div>
+    <div>Ss. 4(1), 10(b) and 15–20: 1 Dec 1988 
+Ss. 28(b)–(e), 30 and 31: 10 Dec 1991 ( <i>see Gazette</i>1991, No. S332) 
+Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>
-      s. 31(2)
-    </div>
+    <div>S. 31(2)</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        as amended by
-      </b>
-    </div>
+    <div>as amended by</div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Remuneration and Allowances Legislation Amendment Act 1992
-    </div>
+    <div>Remuneration and Allowances Legislation Amendment Act 1992</div>
   </td>
   <td>
-    <div>
-      52, 1992
-    </div>
+    <div>52, 1992</div>
   </td>
   <td>
-    <div>
-      22 June 1992
-    </div>
+    <div>22 June 1992</div>
   </td>
   <td>
-    <div>
-      (
-        <i>see</i>52, 1992 below)
-    </div>
+    <div>( <i>see</i>52, 1992 below)</div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Remuneration and Allowances Legislation Amendment Act 1992
-    </div>
+    <div>Remuneration and Allowances Legislation Amendment Act 1992</div>
   </td>
   <td>
-    <div>
-      52, 1992
-    </div>
+    <div>52, 1992</div>
   </td>
   <td>
-    <div>
-      22 June 1992
-    </div>
+    <div>22 June 1992</div>
   </td>
   <td>
-    <div>
-      Part 3 (ss. 13, 14): 27 June 1991
-    </div>
-    <div>
-      ss. 16 and 17(1): 20 June 1990
-    </div>
-    <div>
-      s. 17(2): 1 July 1990
-    </div>
-    <div>
-      s. 19(1): 1 Jan 1990
-    </div>
-    <div>
-      Remainder: Royal Assent
-    </div>
+    <div>Part 3 (ss. 13, 14): 27 June 1991 
+Ss. 16 and 17(1): 20 June 1990 
+S. 17(2): 1 July 1990 
+S. 19(1): 1 Jan 1990 
+Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>
-      ss. 21–23
-    </div>
+    <div>Ss. 21–23</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Territories Law Reform Act 1992
-    </div>
+    <div>Territories Law Reform Act 1992</div>
   </td>
   <td>
-    <div>
-      104, 1992
-    </div>
+    <div>104, 1992</div>
   </td>
   <td>
-    <div>
-      30 June 1992
-    </div>
+    <div>30 June 1992</div>
   </td>
   <td>
-    <div>
-      s. 25: Royal Assent
-        <i>(p)</i>
-
-    </div>
+    <div>S. 25: Royal Assent <i>(p)</i></div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Industrial Relations Legislation Amendment Act (No. 2) 1992
-    </div>
+    <div>Industrial Relations Legislation Amendment Act (No. 2) 1992</div>
   </td>
   <td>
-    <div>
-      215, 1992
-    </div>
+    <div>215, 1992</div>
   </td>
   <td>
-    <div>
-      24 Dec 1992
-    </div>
+    <div>24 Dec 1992</div>
   </td>
   <td>
-    <div>
-      Part 1 (ss. 1, 2) and Part 3 (ss. 9, 10): Royal Assent
-    </div>
-    <div>
-      Parts 9–11 (ss. 34–40): 18 Feb 1991
-    </div>
-    <div>
-      Remainder: 21 Jan 1993
-    </div>
+    <div>Part 1 (ss. 1, 2) and Part 3 (ss. 9, 10): Royal Assent 
+Parts 9–11 (ss. 
+34–40): 18 Feb 1991 
+Remainder: 21 Jan 1993</div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Industrial Relations and other Legislation Amendment Act 1993
-    </div>
+    <div>Industrial Relations and other Legislation Amendment Act 1993</div>
   </td>
   <td>
-    <div>
-      109, 1993
-    </div>
+    <div>109, 1993</div>
   </td>
   <td>
-    <div>
-      22 Dec 1993
-    </div>
+    <div>22 Dec 1993</div>
   </td>
   <td>
-    <div>
-      ss. 1, 2 and 58: Royal Assent
-    </div>
-    <div>
-      s. 32: 5 Jan 1994
-    </div>
-    <div>
-      s. 34: 6 Sept 1991
-    </div>
-    <div>
-      s. 47: 24 Dec 1992
-    </div>
-    <div>
-      Remainder: 19 Jan 1994
-    </div>
+    <div>Ss. 1, 2 and 58: Royal Assent 
+S. 32: 5 Jan 1994 
+S. 34: 6 Sept 1991 
+S. 47: 24 Dec 1992 
+Remainder: 19 Jan 1994</div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Aboriginal and Torres Strait Islander Commission Amendment Act (No. 3)
-        1993
-    </div>
+    <div>Aboriginal and Torres Strait Islander Commission Amendment Act (No. 3) 1993</div>
   </td>
   <td>
-    <div>
-      1, 1994
-    </div>
+    <div>1, 1994</div>
   </td>
   <td>
-    <div>
-      14 Jan 1994
-    </div>
+    <div>14 Jan 1994</div>
   </td>
   <td>
-    <div>
-      s. 80: 1 July 1994
-        <i>(q)</i>
-
-    </div>
+    <div>S. 80: 1 July 1994 <i>(q)</i></div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Land Fund and Indigenous Land Corporation (ATSIC Amendment) Act 1995
-    </div>
+    <div>Land Fund and Indigenous Land Corporation (ATSIC Amendment) Act 1995</div>
   </td>
   <td>
-    <div>
-      20, 1995
-    </div>
+    <div>20, 1995</div>
   </td>
   <td>
-    <div>
-      29 Mar 1995
-    </div>
+    <div>29 Mar 1995</div>
   </td>
   <td>
-    <div>
-      1 June 1995 (
-        <i>see Gazette</i>1995, No. GN18)
-    </div>
+    <div>1 June 1995 ( <i>see Gazette</i>1995, No. GN18)</div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Industrial Relations and other Legislation Amendment Act 1995
-    </div>
+    <div>Industrial Relations and other Legislation Amendment Act 1995</div>
   </td>
   <td>
-    <div>
-      168, 1995
-    </div>
+    <div>168, 1995</div>
   </td>
   <td>
-    <div>
-      16 Dec 1995
-    </div>
+    <div>16 Dec 1995</div>
   </td>
   <td>
-    <div>
-      ss. 1–12, Schedules 5 and 7–10: Royal Assent
-    </div>
-    <div>
-      s. 13: 13 Jan 1996
-    </div>
-    <div>
-      Remainder: 15 Jan 1996 (
-        <i>see Gazette</i>1996, No. S16)
-    </div>
+    <div>Ss. 1–12, Schedules 5 and 7–10: Royal Assent 
+S. 13: 13 Jan 1996 
+Remainder: 15 Jan 1996 ( <i>see Gazette</i>1996, No. S16)</div>
   </td>
   <td>
-    <div>
-      Sch. 9 (item 4) \[
-        <i>see</i>Endnote 3]
-    </div>
+    <div>Sch. 9 (item 4) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Statute Law Revision Act 1996
-    </div>
+    <div>Statute Law Revision Act 1996</div>
   </td>
   <td>
-    <div>
-      43, 1996
-    </div>
+    <div>43, 1996</div>
   </td>
   <td>
-    <div>
-      25 Oct 1996
-    </div>
+    <div>25 Oct 1996</div>
   </td>
   <td>
-    <div>
-      Schedule 2 (item 90):
-        <i>(r)</i>
-
-    </div>
-    <div>
-      Schedule 5 (items 135–137): Royal Assent
-        <i>(r)</i>
-
-    </div>
+    <div>Schedule 2 (item 90): <i>(r)</i> 
+Schedule 5 
+(items 
+135–137): Royal Assent <i>(r)</i></div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Defence Legislation Amendment Act (No. 1) 1997
-    </div>
+    <div>Defence Legislation Amendment Act (No. 1) 1997</div>
   </td>
   <td>
-    <div>
-      1, 1997
-    </div>
+    <div>1, 1997</div>
   </td>
   <td>
-    <div>
-      19 Feb 1997
-    </div>
+    <div>19 Feb 1997</div>
   </td>
   <td>
-    <div>
-      Schedule 2 (items 49, 88, 114): Royal Assent
-        <i>(s)</i>
-
-    </div>
+    <div>Schedule 2 
+(items 49, 88, 114): Royal Assent <i>(s)</i></div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Education Legislation Amendment Act 1997
-    </div>
+    <div>Education Legislation Amendment Act 1997</div>
   </td>
   <td>
-    <div>
-      66, 1997
-    </div>
+    <div>66, 1997</div>
   </td>
   <td>
-    <div>
-      30 May 1997
-    </div>
+    <div>30 May 1997</div>
   </td>
   <td>
-    <div>
-      Schedule 1 (Part 3) and Schedule 1 (items 19–23):
-        <i>(t)</i>
-
-    </div>
+    <div>Schedule 1 (Part 3) and Schedule 1 (items 19–23): <i>(t)</i></div>
   </td>
   <td>
-    <div>
-      Sch. 1 (items 19–23) \[
-        <i>see</i>Endnote 3]
-    </div>
+    <div>Sch. 1 (items 19–23) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Fisheries Legislation Amendment Act 1997
-    </div>
+    <div>Fisheries Legislation Amendment Act 1997</div>
   </td>
   <td>
-    <div>
-      120, 1997
-    </div>
+    <div>120, 1997</div>
   </td>
   <td>
-    <div>
-      7 July 1997
-    </div>
+    <div>7 July 1997</div>
   </td>
   <td>
-    <div>
-      7 July 1997
-    </div>
+    <div>7 July 1997</div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Defence Legislation Amendment Act (No. 1) 1999
-    </div>
+    <div>Defence Legislation Amendment Act (No. 1) 1999</div>
   </td>
   <td>
-    <div>
-      116, 1999
-    </div>
+    <div>116, 1999</div>
   </td>
   <td>
-    <div>
-      22 Sept 1999
-    </div>
+    <div>22 Sept 1999</div>
   </td>
   <td>
-    <div>
-      Schedule 5 (item 13):
-        <i>(u)</i>
-
-    </div>
+    <div>Schedule 5 (item 13): <i>(u)</i></div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Human Rights Legislation Amendment Act (No. 1) 1999
-    </div>
+    <div>Human Rights Legislation Amendment Act (No. 1) 1999</div>
   </td>
   <td>
-    <div>
-      133, 1999
-    </div>
+    <div>133, 1999</div>
   </td>
   <td>
-    <div>
-      13 Oct 1999
-    </div>
+    <div>13 Oct 1999</div>
   </td>
   <td>
-    <div>
-      ss. 1–3 and 21: Royal Assent
-    </div>
-    <div>
-      s. 22 and Schedule 1 (items 53, 60): 10 Dec 1999 (
-        <i>see Gazette</i>1999, No. S598)
-    </div>
-    <div>
-      Remainder: 13 Apr 2000
-    </div>
+    <div>Ss. 1–3 and 21: Royal Assent 
+S. 22 and Schedule 1 (items 53, 60): 10 Dec 1999 ( <i>see Gazette</i>1999, No. S598) 
+Remainder: 13 Apr 2000</div>
   </td>
   <td>
-    <div>
-      ss. 4–22 \[
-        <i>see</i>Endnote 3]
-    </div>
+    <div>Ss. 4–22 \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Public Employment (Consequential and Transitional) Amendment Act 1999
-    </div>
+    <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
   </td>
   <td>
-    <div>
-      146, 1999
-    </div>
+    <div>146, 1999</div>
   </td>
   <td>
-    <div>
-      11 Nov 1999
-    </div>
+    <div>11 Nov 1999</div>
   </td>
   <td>
-    <div>
-      Schedule 1 (items 776–781): 5 Dec 1999 (
-        <i>see Gazette</i>1999, No. S584)
-        <i>(v)</i>
-
-    </div>
+    <div>Schedule 1 (items 776–781): 5 Dec 1999 <i>(see Gazette</i>1999, No. S584) <i>(v)</i></div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Australian Security Intelligence Organisation Legislation Amendment Act
-        1999
-    </div>
+    <div>Australian Security Intelligence Organisation Legislation Amendment Act 1999</div>
   </td>
   <td>
-    <div>
-      161, 1999
-    </div>
+    <div>161, 1999</div>
   </td>
   <td>
-    <div>
-      10 Dec 1999
-    </div>
+    <div>10 Dec 1999</div>
   </td>
   <td>
-    <div>
-      Schedule 3 (items 1, 56):
-        <i>(w)</i>
-
-    </div>
+    <div>Schedule 3 (items 1, 56): <i>(w)</i></div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Ministers of State and Other Legislation Amendment Act 2000
-    </div>
+    <div>Ministers of State and Other Legislation Amendment Act 2000</div>
   </td>
   <td>
-    <div>
-      1, 2000
-    </div>
+    <div>1, 2000</div>
   </td>
   <td>
-    <div>
-      29 Feb 2000
-    </div>
+    <div>29 Feb 2000</div>
   </td>
   <td>
-    <div>
-      10 Mar 2000 (
-        <i>see Gazette</i>2000, No. S112)
-    </div>
+    <div>10 Mar 2000 ( <i>see Gazette</i>2000, No. S112)</div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Dairy Industry Adjustment Act 2000
-    </div>
+    <div>Dairy Industry Adjustment Act 2000</div>
   </td>
   <td>
-    <div>
-      22, 2000
-    </div>
+    <div>22, 2000</div>
   </td>
   <td>
-    <div>
-      3 Apr 2000
-    </div>
+    <div>3 Apr 2000</div>
   </td>
   <td>
-    <div>
-      3 Apr 2000
-    </div>
+    <div>3 Apr 2000</div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Remuneration Tribunal Amendment Act 2001
-    </div>
+    <div>Remuneration Tribunal Amendment Act 2001</div>
   </td>
   <td>
-    <div>
-      27, 2001
-    </div>
+    <div>27, 2001</div>
   </td>
   <td>
-    <div>
-      6 Apr 2001
-    </div>
+    <div>6 Apr 2001</div>
   </td>
   <td>
-    <div>
-      Schedule 1: 4 May 2001 (
-        <i>see Gazette</i>2001, No. S159)
-    </div>
-    <div>
-      Remainder: Royal Assent
-    </div>
+    <div>Schedule 1: 4 May 2001 ( <i>see Gazette</i>2001, No. S159) 
+Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>
-      s. 4 and Sch. 1 (item 13) \[
-        <i>see</i>Endnote 3]
-    </div>
+    <div>S. 4 and Sch. 1 (item 13) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Workplace Relations Legislation Amendment Act 2002
-    </div>
+    <div>Workplace Relations Legislation Amendment Act 2002</div>
   </td>
   <td>
-    <div>
-      127, 2002
-    </div>
+    <div>127, 2002</div>
   </td>
   <td>
-    <div>
-      11 Dec 2002
-    </div>
+    <div>11 Dec 2002</div>
   </td>
   <td>
-    <div>
-      Schedule 3 (items 20–22): 29 May 2003 (
-        <i>see Gazette</i>2003, No. S174)
-    </div>
+    <div>Schedule 3 (items 20–22): 29 May 2003 ( <i>see</i> <i>Gazette</i>2003, No. S174)</div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Aboriginal and Torres Strait Islander Commission Amendment Act 2005
-    </div>
+    <div>Aboriginal and Torres Strait Islander Commission Amendment Act 2005</div>
   </td>
   <td>
-    <div>
-      32, 2005
-    </div>
+    <div>32, 2005</div>
   </td>
   <td>
-    <div>
-      22 Mar 2005
-    </div>
+    <div>22 Mar 2005</div>
   </td>
   <td>
-    <div>
-      Schedule 4 (items 80, 81): 24 Mar 2005
-    </div>
+    <div>Schedule 4 (items 80, 81): 24 Mar 2005</div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Parliamentary Service Amendment Act 2005
-    </div>
+    <div>Parliamentary Service Amendment Act 2005</div>
   </td>
   <td>
-    <div>
-      39, 2005
-    </div>
+    <div>39, 2005</div>
   </td>
   <td>
-    <div>
-      1 Apr 2005
-    </div>
+    <div>1 Apr 2005</div>
   </td>
   <td>
-    <div>
-      1 Apr 2005
-    </div>
+    <div>1 Apr 2005</div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Corporations (Aboriginal and Torres Strait Islander) Consequential, Transitional
-        and Other Measures Act 2006
-    </div>
+    <div>Corporations (Aboriginal and Torres Strait Islander) Consequential, Transitional and Other Measures Act 2006</div>
   </td>
   <td>
-    <div>
-      125, 2006
-    </div>
+    <div>125, 2006</div>
   </td>
   <td>
-    <div>
-      4 Nov 2006
-    </div>
+    <div>4 Nov 2006</div>
   </td>
   <td>
-    <div>
-      Schedules 1–3: 1 July 2007 (
-        <i>see</i>s. 2(1))
-    </div>
-    <div>
-      Remainder: Royal Assent
-    </div>
+    <div>Schedules 1–3: 1 July 2007 ( <i>see</i>s. 2(1)) 
+Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Medibank Private Sale Act 2006
-    </div>
+    <div>Medibank Private Sale Act 2006</div>
   </td>
   <td>
-    <div>
-      160, 2006
-    </div>
+    <div>160, 2006</div>
   </td>
   <td>
-    <div>
-      11 Dec 2006
-    </div>
+    <div>11 Dec 2006</div>
   </td>
   <td>
-    <div>
-      Schedule 3 (item 4): \[
-        <i>see</i>Endnote 4]
-    </div>
+    <div>Schedule 3 (item 4): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>––</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Private Health Insurance (Transitional Provisions and Consequential Amendments)
-        Act 2007
-    </div>
+    <div>Private Health Insurance (Transitional Provisions and Consequential Amendments) Act 2007</div>
   </td>
   <td>
-    <div>
-      32, 2007
-    </div>
+    <div>32, 2007</div>
   </td>
   <td>
-    <div>
-      30 Mar 2007
-    </div>
+    <div>30 Mar 2007</div>
   </td>
   <td>
-    <div>
-      Schedule 1 (item 60): 1 Apr 2007 (
-        <i>see</i>s. 2(1))
-    </div>
+    <div>Schedule 1 (item 60): 1 Apr 2007 ( <i>see</i>s. 2(1))</div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Maritime Legislation Amendment Act 2007
-    </div>
+    <div>Maritime Legislation Amendment Act 2007</div>
   </td>
   <td>
-    <div>
-      150, 2007
-    </div>
+    <div>150, 2007</div>
   </td>
   <td>
-    <div>
-      24 Sept 2007
-    </div>
+    <div>24 Sept 2007</div>
   </td>
   <td>
-    <div>
-      Schedule 1: 1 Jan 2008 (
-        <i>see</i>F2007L04141)
-    </div>
-    <div>
-      Remainder: Royal Assent
-    </div>
+    <div>Schedule 1: 1 Jan 2008 ( <i>see</i>F2007L04141) 
+Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Statute Law Revision Act 2008
-    </div>
+    <div>Statute Law Revision Act 2008</div>
   </td>
   <td>
-    <div>
-      73, 2008
-    </div>
+    <div>73, 2008</div>
   </td>
   <td>
-    <div>
-      3 July 2008
-    </div>
+    <div>3 July 2008</div>
   </td>
   <td>
-    <div>
-      Schedule 4 (items 446–449): 4 July 2008
-    </div>
+    <div>Schedule 4 (items 446–449): 4 July 2008</div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Dairy Adjustment Levy Termination Act 2008
-    </div>
+    <div>Dairy Adjustment Levy Termination Act 2008</div>
   </td>
   <td>
-    <div>
-      123, 2008
-    </div>
+    <div>123, 2008</div>
   </td>
   <td>
-    <div>
-      25 Nov 2008
-    </div>
+    <div>25 Nov 2008</div>
   </td>
   <td>
-    <div>
-      Schedule 3 (item 3):
-        <i>(x)</i>
-
-    </div>
+    <div>Schedule 3 (item 3): <i>(x)</i></div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Fair Work (State Referral and Consequential and Other Amendments) Act
-        2009
-    </div>
+    <div>Fair Work (State Referral and Consequential and Other Amendments) Act 2009</div>
   </td>
   <td>
-    <div>
-      54, 2009
-    </div>
+    <div>54, 2009</div>
   </td>
   <td>
-    <div>
-      25 June 2009
-    </div>
+    <div>25 June 2009</div>
   </td>
   <td>
-    <div>
-      Schedule 8 (items 104–108, 160, 161):
-        <i>(y)</i>
-
-    </div>
+    <div>Schedule 8 (items 104–108, 160, 161): <i>(y)</i></div>
   </td>
   <td>
-    <div>
-      Sch. 8 (items 160, 161) \[
-        <i>see</i>Endnote 3]
-    </div>
+    <div>Sch. 8 (items 160, 161) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Disability Discrimination and Other Human Rights Legislation Amendment
-        Act 2009
-    </div>
+    <div>Disability Discrimination and Other Human Rights Legislation Amendment Act 2009</div>
   </td>
   <td>
-    <div>
-      70, 2009
-    </div>
+    <div>70, 2009</div>
   </td>
   <td>
-    <div>
-      8 July 2009
-    </div>
+    <div>8 July 2009</div>
   </td>
   <td>
-    <div>
-      Schedule 3 (items 71–73): 5 Aug 2009
-    </div>
+    <div>Schedule 3 (items 71–73): 5 Aug 2009</div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Territories Law Reform Act 2010
-    </div>
+    <div>Territories Law Reform Act 2010</div>
   </td>
   <td>
-    <div>
-      139, 2010
-    </div>
+    <div>139, 2010</div>
   </td>
   <td>
-    <div>
-      10 Dec 2010
-    </div>
+    <div>10 Dec 2010</div>
   </td>
   <td>
-    <div>
-      Schedule 1 (item 77): 11 Dec 2010
-    </div>
+    <div>Schedule 1 (item 77): 11 Dec 2010</div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Human Services Legislation Amendment Act 2011
-    </div>
+    <div>Human Services Legislation Amendment Act 2011</div>
   </td>
   <td>
-    <div>
-      32, 2011
-    </div>
+    <div>32, 2011</div>
   </td>
   <td>
-    <div>
-      25 May 2011
-    </div>
+    <div>25 May 2011</div>
   </td>
   <td>
-    <div>
-      Schedule 4 (items 551, 552): 1 July 2011
-    </div>
+    <div>Schedule 4 (items 551, 552): 1 July 2011</div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Acts Interpretation Amendment Act 2011
-    </div>
+    <div>Acts Interpretation Amendment Act 2011</div>
   </td>
   <td>
-    <div>
-      46, 2011
-    </div>
+    <div>46, 2011</div>
   </td>
   <td>
-    <div>
-      27 June 2011
-    </div>
+    <div>27 June 2011</div>
   </td>
   <td>
-    <div>
-      Schedule 2 (items 981–986) and Schedule 3 (items 10, 11): 27 Dec 2011
-    </div>
+    <div>Schedule 2 (items 981–986) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
   </td>
   <td>
-    <div>
-      Sch. 3 (items 10, 11) \[
-        <i>see</i>Endnote 3]
-    </div>
+    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Remuneration and Other Legislation Amendment Act 2011
-    </div>
+    <div>Remuneration and Other Legislation Amendment Act 2011</div>
   </td>
   <td>
-    <div>
-      75, 2011
-    </div>
+    <div>75, 2011</div>
   </td>
   <td>
-    <div>
-      25 July 2011
-    </div>
+    <div>25 July 2011</div>
   </td>
   <td>
-    <div>
-      Schedule 1 (items 1–6, 11–16) and Schedule 2 (items 16A–21): 5 Aug 2011
-        (
-        <i>see</i>F2011L01603)
-    </div>
+    <div>Schedule 1 (items 1–6, 
+11–16) and Schedule 2 (items 16A–21): 5 Aug 2011 ( <i>see</i>F2011L01603)</div>
   </td>
   <td>
-    <div>
-      Sch. 1 (items 12–16) and Sch. 2 (item 21) \[
-        <i>see</i>Endnote 3]
-    </div>
+    <div>Sch. 1 (items 
+12–16) and Sch. 2 (item 21) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Parliamentary Service Amendment (Parliamentary Budget Officer) Act 2011
-    </div>
+    <div>Parliamentary Service Amendment (Parliamentary Budget Officer) Act 2011</div>
   </td>
   <td>
-    <div>
-      170, 2011
-    </div>
+    <div>170, 2011</div>
   </td>
   <td>
-    <div>
-      4 Dec 2011
-    </div>
+    <div>4 Dec 2011</div>
   </td>
   <td>
-    <div>
-      Schedule 3 (item 5): 15 Feb 2012 (
-        <i>see</i>F2012L00277)
-    </div>
+    <div>Schedule 3 (item 5): 15 Feb 2012 ( <i>see</i>F2012L00277)</div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Members of Parliament (Life Gold Pass) and Other Legislation Amendment
-        Act 2012
-    </div>
+    <div>Members of Parliament (Life Gold Pass) and Other Legislation Amendment Act 2012</div>
   </td>
   <td>
-    <div>
-      4, 2012
-    </div>
+    <div>4, 2012</div>
   </td>
   <td>
-    <div>
-      6 Mar 2012
-    </div>
+    <div>6 Mar 2012</div>
   </td>
   <td>
-    <div>
-      Schedule 2 (items 4–9): Royal Assent
-    </div>
+    <div>Schedule 2 (items 4–9): Royal Assent</div>
   </td>
   <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Statute Law Revision Act 2012
-    </div>
+    <div>Statute Law Revision Act 2012</div>
   </td>
   <td>
-    <div>
-      136, 2012
-    </div>
+    <div>136, 2012</div>
   </td>
   <td>
-    <div>
-      22 Sept 2012
-    </div>
+    <div>22 Sept 2012</div>
   </td>
   <td>
-    <div>
-      Schedule 1 (item 112): Royal Assent
-    </div>
+    <div>Schedule 1 (item 112): Royal Assent</div>
   </td>
   <td>
-    <div>
-      —
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Fair Work Amendment Act 2012
-    </div>
-  </td>
-  <td>
-    <div>
-      174, 2012
-    </div>
-  </td>
-  <td>
-    <div>
-      4 Dec 2012
-    </div>
-  </td>
-  <td>
-    <div>
-      Schedule 9 (items 1295–1297, 1387, 1388): 1 Jan 2013
-    </div>
-  </td>
-  <td>
-    <div>
-      Sch. 9 (items 1387, 1388) \[
-        <i>see</i>Endnote 3]
-    </div>
+    <div>—</div>
   </td>
 </tr></table>
 
-<table>
-<colgroup>
-  <col width="25%">
-  <col width="25%">
-  <col width="25%">
-  <col width="25%">
-</colgroup>
+_(a)_     The _Remuneration Tribunal Act 1973_ was amended by sections 182 and 183 only of the _Defence Force Re‑organization Act 1975_, section 2 of which provides as follows: 
 
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Number and year
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Gazettal or FRLI registration date
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement date
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Application, saving and transitional provisions
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      1999 No. 301
-    </div>
-  </td>
-  <td>
-    <div>
-      1 Jan 2005
-    </div>
-  </td>
-  <td>
-    <div>
-      Schedule 1 (Part 8): 5 Dec 1999
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      <b>
-        as amended by
-      </b>
-    </div>
-  </td>
-  <td>
-    <div>
+                    2   This Part shall come into operation on the day on which this Act receives the Royal Assent, and the remaining provisions of this Act shall come into operation on such date as is, or such respective dates as are, fixed by Proclamation.
 
-    </div>
-  </td>
-  <td>
-    <div>
+_(b)_     The _Remuneration Tribunal Act 1973_ was amended by section 117 only of the _Statute Law Revision Act 1981_, subsection 2(1) of which provides as follows: 
 
-    </div>
-  </td>
-  <td>
-    <div>
+                 (1)   Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
 
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      2000 No. 332
-    </div>
-  </td>
-  <td>
-    <div>
-      1 Jan 2005
-    </div>
-  </td>
-  <td>
-    <div>
-      Schedule 1 (item 2): 5 Dec 1999
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      2006 No. 50
-    </div>
-  </td>
-  <td>
-    <div>
-      17 Mar 2006
-    </div>
-  </td>
-  <td>
-    <div>
-      Schedule 9: 27 Mar 2006 (
-        <i>see</i>r. 2(b))
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      <b>
-        as amended by
-      </b>
-    </div>
-  </td>
-  <td>
-    <div>
+_(c)_     The _Remuneration Tribunal Act 1973_ was amended by Part XX (sections 255 and 256) only of the _Commonwealth Functions (Statutes Review) Act 1981_, subsection 2(1) of which provides as follows: 
 
-    </div>
-  </td>
-  <td>
-    <div>
+                 (1)   Parts I, IV, IX, X, XI, XII, XIII, XV, XVII (other than sections 220, 221, 222, 223, 225, 226, 227, 228 and 230), XX, XXI, XXII and XXIII shall come into operation on the day on which this Act receives the Royal Assent.
 
-    </div>
-  </td>
-  <td>
-    <div>
+_(d)_     The _Remuneration Tribunal Act 1973_ was amended by Part XIX (section 68) only of the _Statute Law (Miscellaneous Amendments) Act 1981_, subsection 2(12) of which provides as follows: 
 
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      2006 No. 119
-    </div>
-  </td>
-  <td>
-    <div>
-      4 June 2006
-    </div>
-  </td>
-  <td>
-    <div>
-      Schedule 1 (item 2): 5 June 2006
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
-  </td>
-</tr></table>
+               (12)   The remaining provisions of this Act shall come into operation on the twenty‑eighth day after the day on which this Act receives the Royal Assent.
 
-_(a)_             The _Remuneration Tribunal Act 1973_ was amended by sections 182 and 183 only of the _Defence Force Re‑organization Act 1975_, section 2 of which provides as follows:
+_(e)_     The _Remuneration Tribunal Act 1973_ was amended by section 95 only of the _Public Service Acts Amendment Act 1982_, subsection 2(4) of which provides as follows: 
 
-                      2  This Part shall come into operation on the day on which this Act receives the Royal Assent, and the remaining provisions of this Act shall come into operation on such date as is, or such respective dates as are, fixed by Proclamation.
+                 (4)   The remaining provisions of this Act shall come into operation on such date as is, or on such respective dates as are, fixed by Proclamation.
 
-_(b)_             The _Remuneration Tribunal Act 1973_ was amended by section 117 only of the _Statute Law Revision Act 1981_, subsection 2(1) of which provides as follows: 
+_(f)_      The _Remuneration Tribunal Act 1973_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1983_, subsection 2(1) of which provides as follows: 
 
-                   (1)  Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
 
-_(c)_              The _Remuneration Tribunal Act 1973_ was amended by Part XX (sections 255 and 256) only of the _Commonwealth Functions (Statutes Review) Act 1981_, subsection 2(1) of which provides as follows: 
+_(g)_     The _Remuneration Tribunal Act 1973_ was amended by Part IV (sections 9 and 10) only of the _Remuneration and Allowances Amendment Act 1983_, subsection 2(1) of which provides as follows: 
 
-                   (1)  Parts I, IV, IX, X, XI, XII, XIII, XV, XVII (other than sections 220, 221, 222, 223, 225, 226, 227, 228 and 230), XX, XXI, XXII and XXIII shall come into operation on the day on which this Act receives the Royal Assent.
+                 (1)   Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
 
-_(d)_             The _Remuneration Tribunal Act 1973_ was amended by Part XIX (section 68) only of the _Statute Law (Miscellaneous Amendments) Act 1981_, subsection 2(12) of which provides as follows: 
+_(h)_     The _Remuneration Tribunal Act 1973_ was amended by sections 149, 150, 151(1) and 152(1) only of the _Public Service Reform Act 1984_, subsections 2(1) and (4) of which provide as follows: 
 
-                 (12)  The remaining provisions of this Act shall come into operation on the twenty‑eighth day after the day on which this Act receives the Royal Assent.
+                 (1)   Sections 1, 2, 3, 4 and 7, subsections 29(1) and (3), sections 107 and 108, Parts III and IV and sections 125, 138, 142, 144 and 149 shall come into operation on the day on which this Act receives the Royal Assent. 
 
-_(e)_              The _Remuneration Tribunal Act 1973_ was amended by section 95 only of the _Public Service Acts Amendment Act 1982_, subsection 2(4) of which provides as follows: 
+                 (4)   The remaining provisions of this Act shall come into operation on such day as is, or on such respective days as are, fixed by Proclamation.
 
-                   (4)  The remaining provisions of this Act shall come into operation on such date as is, or on such respective dates as are, fixed by Proclamation.
+_(j)_      The _Remuneration Tribunal Act 1973_ was amended by section 120 only of the _Defence Legislation Amendment Act 1984_, subsection 2(2) of which provides as follows: 
 
-_(f)_              The _Remuneration Tribunal Act 1973_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1983_, subsection 2(1) of which provides as follows: 
+                 (2)   Section 1, this section and sections 16, 17, 18, 19 and 120 and Part XIV shall come into operation on the day on which this Act receives the Royal Assent.
 
-                   (1)  Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
+_(k)_     The _Remuneration Tribunal Act 1973_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows: 
 
-_(g)_             The _Remuneration Tribunal Act 1973_ was amended by Part IV (sections 9 and 10) only of the _Remuneration and Allowances Amendment Act 1983_, subsection 2(1) of which provides as follows: 
+                 (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
 
-                   (1)  Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
+_(l)_      The _Remuneration Tribunal Act 1973_ was amended by Part VIII (section 60) only of the _Australian Trade Commission (Transitional Provisions and Consequential Amendments) Act 1985_, subsection 2(1) of which provides as follows: 
 
-_(h)_             The _Remuneration Tribunal Act 1973_ was amended by sections 149, 150, 151(1) and 152(1) only of the _Public Service Reform Act 1984_, subsections 2(1) and (4) of which provide as follows: 
+                 (1)   Subject to subsections (2) and (3), this Act shall come into operation on the commencing day.
 
-                   (1)  Sections 1, 2, 3, 4 and 7, subsections 29(1) and (3), sections 107 and 108, Parts III and IV and sections 125, 138, 142, 144 and 149 shall come into operation on the day on which this Act receives the Royal Assent. 
+         Section 3 of the _Australian Trade Commission Act 1985_ defines “commencing day” as the day fixed by Proclamation for the purposes of subsection 2(2) of that Act.
 
-                   (4)  The remaining provisions of this Act shall come into operation on such day as is, or on such respective days as are, fixed by Proclamation.
+_(m)_    The _Remuneration Tribunal Act 1973_ was amended by section 86 only of the _Industrial Relations (Consequential Provisions) Act 1988_, subsection 2(2) of which provides as follows: 
 
-_(j)_              The _Remuneration Tribunal Act 1973_ was amended by section 120 only of the _Defence Legislation Amendment Act 1984_, subsection 2(2) of which provides as follows: 
+                 (2)   The remaining provisions of this Act commence on the commencement of section 8 of the _Industrial Relations Act 1988_.
 
-                   (2)  Section 1, this section and sections 16, 17, 18, 19 and 120 and Part XIV shall come into operation on the day on which this Act receives the Royal Assent.
+_(n)_     The _Remuneration Tribunal Act 1973_ was amended by section 32 only of the _A.C.T. Self‑Government (Consequential Provisions) Act 1988_, subsection 2(3) of which provides as follows: 
 
-_(k)_              The _Remuneration Tribunal Act 1973_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows: 
+                 (3)   The remaining provisions of this Act (including the amendments made by Schedule 5) commence on a day or days to be fixed by Proclamation.
 
-                   (1)  Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
+_(o)_     The _Remuneration Tribunal Act 1973_ was amended by Part 6 (sections 63 and 64) only of the _Community Services and Health Legislation Amendment Act 1989_, subsection 2(1) of which provides as follows: 
 
-_(l)_              The _Remuneration Tribunal Act 1973_ was amended by Part VIII (section 60) only of the _Australian Trade Commission (Transitional Provisions and Consequential Amendments) Act 1985_, subsection 2(1) of which provides as follows: 
+                 (1)   Subject to subsections (2), (3), (4), (5), (6), (7), (8), (9) and (10), this Act commences on the day on which it receives the Royal Assent.
 
-                   (1)  Subject to subsections (2) and (3), this Act shall come into operation on the commencing day.
+_(p)_     The _Remuneration Tribunal Act 1973_ was amended by section 25 only of the _Territories Law Reform Act 1992_, subsection 2(1) of which provides as follows: 
 
-                  Section 3 of the _Australian Trade Commission Act 1985_ defines “commencing day” as the day fixed by Proclamation for the purposes of subsection 2(2) of that Act.
+                 (1)   Sections 1, 2, 25 and 26 commence on the day on which this Act receives the Royal Assent.
 
-_(m)_             The _Remuneration Tribunal Act 1973_ was amended by section 86 only of the _Industrial Relations (Consequential Provisions) Act 1988_, subsection 2(2) of which provides as follows: 
+_(q)_     The _Remuneration Tribunal Act 1973_ was amended by section 80 only of the _Aboriginal and Torres Strait Islander Commission Amendment Act (No. 3) 1993_, subsection 2(3)(b) of which provides as follows: 
 
-                   (2)  The remaining provisions of this Act commence on the commencement of section 8 of the _Industrial Relations Act 1988_.
+                 (3)   The following provisions commence on 1 July 1994: 
 
-_(n)_             The _Remuneration Tribunal Act 1973_ was amended by section 32 only of the _A.C.T. Self‑Government (Consequential Provisions) Act 1988_, subsection 2(3) of which provides as follows: 
+                         (b)  Part 28 (other than Subdivision A of Division 2) and Schedules 2 and 3.
 
-                   (3)  The remaining provisions of this Act (including the amendments made by Schedule 5) commence on a day or days to be fixed by Proclamation.
+_(r)_     The _Remuneration Tribunal Act 1973_ was amended by Schedule 2 (item 90) and Schedule 5 (items 135–137) only of the _Statute Law Revision Act 1996_, subsections 2(1) and (2) of which provide as follows: 
 
-_(o)_             The _Remuneration Tribunal Act 1973_ was amended by Part 6 (sections 63 and 64) only of the _Community Services and Health Legislation Amendment Act 1989_, subsection 2(1) of which provides as follows: 
+                 (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent. 
 
-                   (1)  Subject to subsections (2), (3), (4), (5), (6), (7), (8), (9) and (10), this Act commences on the day on which it receives the Royal Assent.
+                 (2)   Each item in Schedule 2 commences or is taken to have commenced (as the case requires) at the time specified in the note at the end of the item.
 
-_(p)_             The _Remuneration Tribunal Act 1973_ was amended by section 25 only of the _Territories Law Reform Act 1992_, subsection 2(1) of which provides as follows: 
+         Item 90 is taken to have commenced immediately after the commencement of section 9 of the _Remuneration Tribunal Act 1974_. Section 9 of the _Remuneration Tribunal Act 1974_ commenced on 16 October 1974.
 
-                   (1)  Sections 1, 2, 25 and 26 commence on the day on which this Act receives the Royal Assent.
+_(s)_     The _Remuneration Tribunal Act 1973_ was amended by Schedule 2 (items 49, 88 and 114) only of the _Defence Legislation Amendment Act (No. 1) 1997_, subsection 2(1) of which provides as follows:
 
-_(q)_             The _Remuneration Tribunal Act 1973_ was amended by section 80 only of the _Aboriginal and Torres Strait Islander Commission Amendment Act (No. 3) 1993_, subsection 2(3)(b) of which provides as follows: 
+                 (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
 
-                   (3)  The following provisions commence on 1 July 1994: 
+_(t)_      The _Remuneration Tribunal Act 1973_ was amended by Schedule 1 (Part 3) only of the _Education Legislation Amendment Act 1997_, subsections 2(3) and (4) of which provide as follows:
 
-                          (b)   Part 28 (other than Subdivision A of Division 2) and Schedules 2 and 3.
+                 (3)   If Part 1 of Schedule 1 does not commence under subsection (2) within 6 months after the day on which this Act receives the Royal Assent, it commences on the first day after the end of that period.
 
-_(r)_              The _Remuneration Tribunal Act 1973_ was amended by Schedule 2 (item 90) and Schedule 5 (items 135–137) only of the _Statute Law Revision Act 1996_, subsections 2(1) and (2) of which provide as follows: 
+                 (4)   Parts 2, 3 and 4 of Schedule 1 commence immediately after the commencement of Part 1 of Schedule 1.
 
-                   (1)  Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent. 
+         Part 1 commenced on 1 December 1997.
 
-                   (2)  Each item in Schedule 2 commences or is taken to have commenced (as the case requires) at the time specified in the note at the end of the item.
+_(u)_     The _Remuneration Tribunal Act 1973_ was amended by Schedule 5 (item 13) only of the _Defence Legislation Amendment Act (No. 1) 1999_, subsection 2(4) of which provides as follows:
 
-                  Item 90 is taken to have commenced immediately after the commencement of section 9 of the _Remuneration Tribunal Act 1974_. Section 9 of the _Remuneration Tribunal Act 1974_ commenced on 16 October 1974.
+                 (4)   Schedule 5 commences on 1 January 2001.
 
-_(s)_              The _Remuneration Tribunal Act 1973_ was amended by Schedule 2 (items 49, 88 and 114) only of the _Defence Legislation Amendment Act (No. 1) 1997_, subsection 2(1) of which provides as follows:
+_(v)_     The _Remuneration Tribunal Act 1973_ was amended by Schedule 1 (items 776–781) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
 
-                   (1)  Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
+                 (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
 
-_(t)_              The _Remuneration Tribunal Act 1973_ was amended by Schedule 1 (Part 3) only of the _Education Legislation Amendment Act 1997_, subsections 2(3) and (4) of which provide as follows:
+                 (2)   Subject to this section, this Act commences at the commencing time.
 
-                   (3)  If Part 1 of Schedule 1 does not commence under subsection (2) within 6 months after the day on which this Act receives the Royal Assent, it commences on the first day after the end of that period.
+_(w)_    The _Remuneration Tribunal Act 1973_ was amended by Schedule 3 (items 1 and 56) only of the _Australian Security Intelligence Organisation Legislation Amendment Act 1999_, subsection 2(2) of which provides as follows:
 
-                   (4)  Parts 2, 3 and 4 of Schedule 1 commence immediately after the commencement of Part 1 of Schedule 1.
+                 (2)   Subject to subsections (3) to (6), Schedule 3 commences immediately after the commencement of the other Schedules to this Act.
 
-                  Part 1 commenced on 1 December 1997.
+         The other Schedules commenced on Royal Assent.
 
-_(u)_             The _Remuneration Tribunal Act 1973_ was amended by Schedule 5 (item 13) only of the _Defence Legislation Amendment Act (No. 1) 1999_, subsection 2(4) of which provides as follows:
+_(x)_ Subsection 2(1) (item 5) of the _Dairy Adjustment Levy Termination Act 2008_ provides as follows:
 
-                   (4)  Schedule 5 commences on 1 January 2001.
-
-_(v)_              The _Remuneration Tribunal Act 1973_ was amended by Schedule 1 (items 776–781) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
-
-                   (1)  In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
-
-                   (2)  Subject to this section, this Act commences at the commencing time.
-
-_(w)_             The _Remuneration Tribunal Act 1973_ was amended by Schedule 3 (items 1 and 56) only of the _Australian Security Intelligence Organisation Legislation Amendment Act 1999_, subsection 2(2) of which provides as follows:
-
-                   (2)  Subject to subsections (3) to (6), Schedule 3 commences immediately after the commencement of the other Schedules to this Act.
-
-                  The other Schedules commenced on Royal Assent.
-
-_(x)_              Subsection 2(1) (item 5) of the _Dairy Adjustment Levy Termination Act 2008_ provides as follows:
-
-                   (1)  Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
 <table>
 <colgroup>
@@ -3476,7 +2303,7 @@ _(x)_              Subsection 2(1) (item 5) of the
   </td>
   <td>
     <div>
-      Immediately after the day specified for the purposes of subclause 55(2)
+      Immediately after the day specified for the purposes of subclause 55(2)
         of Schedule 2 to the
         <i>Dairy Produce Act 1986</i>.
     </div>
@@ -3484,14 +2311,16 @@ _(x)_              Subsection 2(1) (item 5) of the
   <td>
     <div>
       31 December 2008 (
-        <i>see</i>F2008L04779)
+        <i>see
+
+        </i>F2008L04779)
     </div>
   </td>
 </tr></table>
 
-_(y)_              Subsection 2(1) (items 24 and 30) of the _Fair Work (State Referral and Consequential and Other Amendments) Act 2009_ provides as follows:
+_(y)_     Subsection 2(1) (items 24 and 30) of the _Fair Work (State Referral and Consequential and Other Amendments) Act 2009_ provides as follows:
 
-                   (1)  Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
 <table>
 <colgroup>
@@ -3562,890 +2391,582 @@ _(y)_              Subsection 2(1) (items 24 and 3
   </td>
 </tr></table>
 
-Endnote 2—Amendment history
-
-This endnote sets out the amendment history of the _Remuneration Tribunal Act 1973__._
+## Table of Amendments
 
 <table>
 <colgroup>
-  <col width="30%">
-  <col width="70%">
+  <col width="34%">
+  <col width="66%">
 </colgroup>
 
 <thead>
   <tr>
     <td colspan="2">
-      <div>
-        ad. = added or inserted am. = amended rep. = repealed rs. = repealed and
-          substituted exp. = expired or ceased to have effect
-      </div>
+      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>
-        <b>
-          Provision affected
-        </b>
-      </div>
+      <div>Provision affected</div>
     </td>
     <td>
-      <div>
-        <b>
-          How affected
-        </b>
-      </div>
+      <div>How affected</div>
     </td>
   </tr>
 </thead>
 <tr>
   <td>
-    <div>
-      Title ..................................
-    </div>
-  </td>
-  <td>
-    <div>
-      am. No. 80, 1974; No. 160, 1980; No. 87, 1988; No. 122, 1991
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      <b>
-        Part I
-      </b>
-    </div>
+    <div>Title</div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div>am. No. 80, 1974; No. 160, 1980; No. 87, 1988; No. 122, 1991</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to Part I ...............
-    </div>
+    <div><b>Part I</b></div>
   </td>
   <td>
-    <div>
-      ad. No. 80, 1974
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 1 ....................................
-    </div>
+    <div>Heading to Part I</div>
   </td>
   <td>
-    <div>
-      am. No. 80, 1974; No. 87, 1988
-    </div>
+    <div>ad. No. 80, 1974</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Part II
-      </b>
-    </div>
+    <div>S. 1</div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div>am. No. 80, 1974; No. 87, 1988</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to Part II ..............
-    </div>
+    <div><b>Part II</b></div>
   </td>
   <td>
-    <div>
-      ad. No. 80, 1974
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div>Heading to Part II</div>
   </td>
   <td>
-    <div>
-      rs. No. 146, 1999
-    </div>
+    <div>ad. No. 80, 1974</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Division 1
-      </b>
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div>rs. No. 146, 1999</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to Div. 1 of Part II
-    </div>
+    <div><b>Division 1</b></div>
   </td>
   <td>
-    <div>
-      ad. No. 146, 1999
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 3 ....................................
-    </div>
+    <div>Heading to Div. 1 of Part II</div>
   </td>
   <td>
-    <div>
-      am. No. 80, 1974; No. 96, 1975; Nos. 60 and 178, 1978; Nos. 26, 108 and
-        155, 1979; No. 160, 1980; No. 176, 1981; No. 78, 1982; No. 39, 1983; No. 164,
-        1984; Nos. 65 and 187, 1985; No. 87, 1988; No. 109, 1988 (as am. by No. 92,
-        1994); No. 123, 1988; Nos. 152 and 179, 1989; No. 28, 1990; No. 122, 1991
-        (as am. by No. 52, 1992); Nos. 52 and 104, 1992; No. 109, 1993; No. 43,
-        1996; Nos. 1 and 66, 1997; Nos. 116 and 161, 1999; No. 1, 2000; No. 27,
-        2001; SLI 2006 Nos. 50 and 119; No. 125, 2006; No. 150, 2007; No. 54, 2009;
-        No. 139, 2010; Nos. 32, 46 and 75, 2011; Nos. 4 and 174, 2012
-    </div>
+    <div>ad. No. 146, 1999</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      ss. 3A–3C .........................
-    </div>
+    <div>S. 3</div>
   </td>
   <td>
-    <div>
-      ad. No. 27, 2001
-    </div>
+    <div>am. No. 80, 1974; No. 96, 1975; Nos. 60 and 178, 1978; Nos. 26, 108 and 155, 1979; No. 160, 1980; No. 176, 1981; No. 78, 1982; No. 39, 1983; No. 164, 1984; Nos. 65 and 187, 1985; No. 87, 1988; No. 109, 1988 (as am. by No. 92, 1994); No. 123, 1988; Nos. 152 and 179, 1989; No. 28, 1990; No. 122, 1991 (as am. by No. 52, 1992); Nos. 52 and 104, 1992; No. 109, 1993; No. 43, 1996; Nos. 1 and 66, 1997; Nos. 116 and 161, 1999; No. 1, 2000; No. 27, 2001; SLI 2006 Nos. 50 and 119; No. 125, 2006; No. 150, 2007; No. 54, 2009; No. 139, 2010; Nos. 32, 46 and 75, 2011; No. 4, 2012</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Division 2
-      </b>
-    </div>
+    <div>Ss. 3A–3C</div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div>ad. No. 27, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to Div. 2 of Part II
-    </div>
+    <div><b>Division 2</b></div>
   </td>
   <td>
-    <div>
-      ad. No. 146, 1999
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 4 ....................................
-    </div>
+    <div>Heading to Div. 2 of Part II</div>
   </td>
   <td>
-    <div>
-      am. No. 80, 1974; No. 178, 1978; No. 39, 1983; Nos. 63 and 73, 1984; No. 122,
-        1991; Nos. 52 and 215, 1992; No. 109, 1993; No. 43, 1996; Statutory Rules 1999
-        No. 301 (as am. by Statutory Rules 2000 No. 332)
-    </div>
+    <div>ad. No. 146, 1999</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 4A .................................
-    </div>
+    <div>S. 4</div>
   </td>
   <td>
-    <div>
-      ad. No. 39, 1983
-    </div>
+    <div>am. No. 80, 1974; No. 178, 1978; No. 39, 1983; Nos. 63 and 73, 1984; No. 122, 1991; Nos. 52 and 215, 1992; No. 109, 1993; No. 43, 1996; Statutory Rules 1999 No. 301 (as am. by Statutory Rules 2000 No. 332)</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div>S. 4A</div>
   </td>
   <td>
-    <div>
-      am. No. 109, 1993; No. 43, 1996; No. 46, 2011
-    </div>
+    <div>ad. No. 39, 1983</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Note to s. 4A......................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 46, 2011
-    </div>
+    <div>am. No. 109, 1993; No. 43, 1996; No. 46, 2011</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 4B .................................
-    </div>
+    <div>Note to s. 4A</div>
   </td>
   <td>
-    <div>
-      ad. No. 122, 1991
-    </div>
+    <div>ad. No. 46, 2011</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div>S. 4B</div>
   </td>
   <td>
-    <div>
-      am. No. 109, 1993
-    </div>
+    <div>ad. No. 122, 1991</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 5 ....................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 73, 1984; Nos. 87 and 123, 1988; No. 109, 1993; No. 168, 1995;
-        No. 66, 1997; No. 146, 1999; No. 27, 2001; No. 39, 2005; SLI 2006 No. 50;
-        No. 150, 2007; No. 54, 2009; Nos. 75 and 170, 2011; No. 174, 2012
-    </div>
+    <div>am. No. 109, 1993</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 6 ....................................
-    </div>
+    <div>S. 5</div>
   </td>
   <td>
-    <div>
-      am. No. 80, 1974; No. 178, 1978; No. 73, 1984; No. 87, 1988; No. 152,
-        1989; No. 122, 1991; No. 109, 1993; No. 43, 1996
-    </div>
+    <div>am. No. 73, 1984; Nos. 87 and 123, 1988; No. 109, 1993; No. 168, 1995; No. 66, 1997; No. 146, 1999; No. 27, 2001; No. 39, 2005; SLI 2006 No. 50; No. 150, 2007; No. 54, 2009; Nos. 75 and 170, 2011</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 7 ....................................
-    </div>
+    <div>S. 6</div>
   </td>
   <td>
-    <div>
-      am. No. 80, 1974; No. 178, 1978; No. 160, 1980; No. 74, 1981; Nos. 78
-        and 111, 1982; Nos. 63 and 73, 1984; No. 87, 1988; Nos. 95, 149, 150 and
-        152, 1989; No. 122, 1991; No. 104, 1992; No. 109, 1993; Nos. 1 and 92,
-        1994; Nos. 20 and 168, 1995; No. 43, 1996; No. 120, 1997; No. 146, 1999;
-        Nos. 1 and 22, 2000; No. 27, 2001; No. 127, 2002; No. 32, 2005; SLI 2006
-        No. 50; No. 32, 2007; Nos. 73 and 123, 2008; No. 54, 2009; No. 75, 2011;
-        Nos. 4, 136 and 174, 2012
-    </div>
+    <div>am. No. 80, 1974; No. 178, 1978; No. 73, 1984; No. 87, 1988; No. 152, 1989; No. 122, 1991; No. 109, 1993; No. 43, 1996</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 7A .................................
-    </div>
+    <div>S. 7</div>
   </td>
   <td>
-    <div>
-      ad. No. 78, 1982
-    </div>
+    <div>am. No. 80, 1974; No. 178, 1978; No. 160, 1980; No. 74, 1981; Nos. 78 and 111, 1982; Nos. 63 and 73, 1984; No. 87, 1988; Nos. 95, 149, 150 and 152, 1989; No. 122, 1991; No. 104, 1992; No. 109, 1993; Nos. 1 and 92, 1994; Nos. 20 and 168, 1995; No. 43, 1996; No. 120, 1997; No. 146, 1999; Nos. 1 and 22, 2000; No. 27, 2001; No. 127, 2002; No. 32, 2005; SLI 2006 No. 50; No. 32, 2007; Nos. 73 and 123, 2008; No. 54, 2009; No. 75, 2011; Nos. 4 and 136, 2012</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div>S. 7A</div>
   </td>
   <td>
-    <div>
-      rep. No. 104, 1992
-    </div>
+    <div>ad. No. 78, 1982</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 75, 2011
-    </div>
+    <div>rep. No. 104, 1992</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 4, 2012
-    </div>
+    <div>ad. No. 75, 2011</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 8 ....................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 80, 1974; No. 160, 1980; No. 111, 1982; No. 128, 1983; No. 63,
-        1984; No. 87, 1988; No. 122, 1991; No. 168, 1995; No. 43, 1996; Statutory
-        Rules 1999 No. 301 (as am. by Statutory Rules 2000 No. 332); No. 1, 2000
-    </div>
+    <div>am. No. 4, 2012</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 8A .................................
-    </div>
+    <div>S. 8</div>
   </td>
   <td>
-    <div>
-      ad. No. 122, 1991
-    </div>
+    <div>am. No. 80, 1974; No. 160, 1980; No. 111, 1982; No. 128, 1983; No. 63, 1984; No. 87, 1988; No. 122, 1991; No. 168, 1995; No. 43, 1996; Statutory Rules 1999 No. 301 (as am. by Statutory Rules 2000 No. 332); No. 1, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      ss. 8B, 8C .........................
-    </div>
+    <div>S. 8A</div>
   </td>
   <td>
-    <div>
-      ad. No. 109, 1993
-    </div>
+    <div>ad. No. 122, 1991</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div>Ss. 8B, 8C</div>
   </td>
   <td>
-    <div>
-      am. No. 133, 1999; No. 70, 2009
-    </div>
+    <div>ad. No. 109, 1993</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 9 ....................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 43, 1996
-    </div>
+    <div>am. No. 133, 1999; No. 70, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 10 ..................................
-    </div>
+    <div>S. 9</div>
   </td>
   <td>
-    <div>
-      am. No. 109, 1993; No. 43, 1996
-    </div>
+    <div>am. No. 43, 1996</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 11 ..................................
-    </div>
+    <div>S. 10</div>
   </td>
   <td>
-    <div>
-      am. No. 43, 1996
-    </div>
+    <div>am. No. 109, 1993; No. 43, 1996</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 12AA ............................
-    </div>
+    <div>S. 11</div>
   </td>
   <td>
-    <div>
-      ad. No. 39, 1983
-    </div>
+    <div>am. No. 43, 1996</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div>S. 12AA</div>
   </td>
   <td>
-    <div>
-      am. No. 123, 1988; No. 43, 1996
-    </div>
+    <div>ad. No. 39, 1983</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Division 3
-      </b>
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div>am. No. 123, 1988; No. 43, 1996</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Div. 3 of Part II..................
-    </div>
+    <div><b>Division 3</b></div>
   </td>
   <td>
-    <div>
-      ad. No. 146, 1999
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 12A ...............................
-    </div>
+    <div>Div. 3 of Part II</div>
   </td>
   <td>
-    <div>
-      ad. No. 80, 1974
-    </div>
+    <div>ad. No. 146, 1999</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div>S. 12A</div>
   </td>
   <td>
-    <div>
-      am. No. 136, 1979; No. 61, 1981
-    </div>
+    <div>ad. No. 80, 1974</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rep. No. 87, 1988
-    </div>
+    <div>am. No. 136, 1979; No. 61, 1981</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 12B ...............................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 80, 1974
-    </div>
+    <div>rep. No. 87, 1988</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div>S. 12B</div>
   </td>
   <td>
-    <div>
-      am. No. 178, 1978
-    </div>
+    <div>ad. No. 80, 1974</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rep. No. 87, 1988
-    </div>
+    <div>am. No. 178, 1978</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 12C ...............................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 80, 1974
-    </div>
+    <div>rep. No. 87, 1988</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div>S. 12C</div>
   </td>
   <td>
-    <div>
-      am. No. 178, 1978; No. 136, 1979
-    </div>
+    <div>ad. No. 80, 1974</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rep. No. 87, 1988
-    </div>
+    <div>am. No. 178, 1978; No. 136, 1979</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 146, 1999
-    </div>
+    <div>rep. No. 87, 1988</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 27, 2001
-    </div>
+    <div>ad. No. 146, 1999</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 12D ...............................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 80, 1974
-    </div>
+    <div>am. No. 27, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div>S. 12D</div>
   </td>
   <td>
-    <div>
-      am. No. 178, 1978
-    </div>
+    <div>ad. No. 80, 1974</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rs. No. 136, 1979
-    </div>
+    <div>am. No. 178, 1978</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rep. No. 87, 1988
-    </div>
+    <div>rs. No. 136, 1979</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      ss. 12DA–12DD ...............
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 136, 1979
-    </div>
+    <div>rep. No. 87, 1988</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div>Ss. 12DA–12DD</div>
   </td>
   <td>
-    <div>
-      rep. No. 87, 1988
-    </div>
+    <div>ad. No. 136, 1979</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      ss. 12E, 12F ......................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 80, 1974
-    </div>
+    <div>rep. No. 87, 1988</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div>Ss. 12E, 12F</div>
   </td>
   <td>
-    <div>
-      rep. No. 87, 1988
-    </div>
+    <div>ad. No. 80, 1974</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 12G ...............................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 39, 1983
-    </div>
+    <div>rep. No. 87, 1988</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div>S. 12G</div>
   </td>
   <td>
-    <div>
-      rep. No. 87, 1988
-    </div>
+    <div>ad. No. 39, 1983</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Division 4
-      </b>
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div>rep. No. 87, 1988</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Div. 4 of Part II..................
-    </div>
+    <div><b>Division 4</b></div>
   </td>
   <td>
-    <div>
-      ad. No. 75, 2011
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      ss. 13–16...........................
-    </div>
+    <div>Div. 4 of Part II</div>
   </td>
   <td>
-    <div>
-      ad. No. 75, 2011
-    </div>
+    <div>ad. No. 75, 2011</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Part III ..............................
-    </div>
+    <div>Ss. 13–16</div>
   </td>
   <td>
-    <div>
-      ad. No. 80, 1974
-    </div>
+    <div>ad. No. 75, 2011</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div>Part III</div>
   </td>
   <td>
-    <div>
-      rep. No. 87, 1988
-    </div>
+    <div>ad. No. 80, 1974</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        Part IV
-      </b>
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div>rep. No. 87, 1988</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to Part IV .............
-    </div>
+    <div><b>Part IV</b></div>
   </td>
   <td>
-    <div>
-      ad. No. 80, 1974
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 13
-    </div>
+    <div>Heading to Part IV</div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div>ad. No. 80, 1974</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Renumbered s. 17........
-    </div>
+    <div>S. 13 
+Renumbered s. 17</div>
   </td>
   <td>
     <div>
-      No. 75, 2011
-    </div>
+No. 75, 2011</div>
   </td>
 </tr></table>
 
-Endnote 3—Application, saving and transitional provisions
+### Note 2
 
-This endnote sets out applications, saving and transitional provisions for amendments of the _Remuneration Tribunal Act 1973__._
+_Medibank Private Sale Act 2006 (No. 160, 2006)_
 
-Application, saving and transitional provisions prior to 16 December 1995 are not included in this endnote.
+The following amendment commences on the designated sale day declared under section 3:
 
-Industrial Relations and other Legislation Amendment Act 1995 (No. 168, 1995)
+## Schedule 3
 
-## Schedule 9
+## 4  Subsection 3(1) (paragraph (i) of the definition of _principal executive office_)
+
+Repeal the paragraph.
+
+As at 30 October 2012 the amendment is not incorporated in this compilation.
+
+## Table A
+
+### Application, saving or transitional provisions
+
+_Industrial Relations and other Legislation Amendment Act 1995
+ (No. 168, 1995)_
+
+## Schedule 9  
 
 ## 4  Continuance of determinations until new conditions substituted
 
@@ -4473,11 +2994,11 @@ continues in force in relation to that office until such time as the Council of 
 
 continues in force in relation to that office until such time as the Council of the Australian Maritime College makes a determination in substitution for the determination as so continued in force.
 
-Education Legislation Amendment Act 1997 (No. 66, 1997)
+* * *
 
-## Schedule 1
+_Education Legislation Amendment Act 1997 (No. 66, 1997)_
 
-<h7 class="ActHead7" style="page-break-after:auto">Part 4—Transitional provisions</h7>
+## Part 4—Transitional provisions  
 
 ## 19  Purpose of this Part
 
@@ -4501,7 +3022,7 @@ If a person was employed by the University immediately before the transfer day, 
 
 ## 22  Audit
 
-If the transfer day is less than a year after the end of the last period in respect of which a report was made by the Auditor‑General under subsection 37(4) of the University Act, that subsection has effect in respect of the period (the final reporting period) beginning immediately after the end of that last period and ending immediately before the transfer day as if the reference to a year in that subsection were a reference to the final reporting period.
+If the transfer day is less than a year after the end of the last period in respect of which a report was made by the Auditor‑General under subsection 37(4) of the University Act, that subsection has effect in respect of the period (the final reporting period) beginning immediately after the end of that last period and ending immediately before the transfer day as if the reference to a year in that subsection were a reference to the final reporting period.
 
 ## 23  Annual report and financial statements
 
@@ -4511,7 +3032,9 @@ If the transfer day is less than a year after the end of the last year in respec
 
                      (b)  a reference in that section to 31 December were a reference to the transfer day.
 
-Human Rights Legislation Amendment Act (No. 1) 1999 (No. 133, 1999)
+* * *
+
+_Human Rights Legislation Amendment Act (No. 1) 1999 (No. 133, 1999)_
 
 ### Division 1—Interpretation
 
@@ -4771,49 +3294,55 @@ if the proceedings started on or after the starting day under:
 
 ##### <a id="22"></a>22  Transitional—powers of a Secretary
 
-                   A thing done by the Commission before the commencement of this section in exercising powers referred to in subsection 43(2) of the _Human Rights and Equal Opportunity Commission Act 1986_ has effect, for the purpose of the exercise by the President after the commencement of this section of powers referred to in that subsection, as if the thing had been done by the President.
+                   A thing done by the Commission before the commencement of this section in exercising powers referred to in subsection 43(2) of the _Human Rights and Equal Opportunity Commission Act 1986_ has effect, for the purpose of the exercise by the President after the commencement of this section of powers referred to in that subsection, as if the thing had been done by the President.
 
-Remuneration Tribunal Amendment Act 2001 (No. 27, 2001)
+* * *
+
+_Remuneration Tribunal Amendment Act 2001 (No. 27, 2001)_
 
 ##### <a id="4"></a>4  Exercise of certain powers before commencement of provision conferring the powers
 
                    The Minister may, before the commencement of item 6 of Schedule 1, exercise any of the powers conferred by the sections inserted in the _Remuneration Tribunal Act 1973_ by that item as if that item had commenced. However, any declaration made or notice given in the exercise of those powers before that commencement does not have any effect until that commencement.
 
-## Schedule 1
+## Schedule 1  
 
 ## 13  Saving and transitional
 
 (1)       If:
 
-                     (a)  at the commencement of this item, a person holds a principal executive office referred to any of paragraphs (a) to (l) of the definition of **_principal executive office_** in subsection 3(1) of the _Remuneration Tribunal Act 1973_; and
+                     (a)  at the commencement of this item, a person holds a principal executive office referred to any of paragraphs (a) to (l) of the definition of **_principal executive office_** in subsection 3(1) of the _Remuneration Tribunal Act 1973_; and
 
-                     (b)  under subsection 7(3D) of that Act, the Remuneration Tribunal determines any terms and conditions applicable to the classification to which the office is assigned; and
+                     (b)  under subsection 7(3D) of that Act, the Remuneration Tribunal determines any terms and conditions applicable to the classification to which the office is assigned; and
 
-                     (c)  any of the terms and conditions (the **_existing terms and conditions_**) applicable at the commencement of this item in respect of the office under subsection 12C(1) of that Act are inconsistent with terms and conditions so determined by the Tribunal;
+                     (c)  any of the terms and conditions (the **_existing terms and conditions_**) applicable at the commencement of this item in respect of the office under subsection 12C(1) of that Act are inconsistent with terms and conditions so determined by the Tribunal;
 
 the validity of the existing terms and conditions is not affected by the amendment made by item 12.
 
 (2)       However, at the end of the period for which the person was appointed to the office, the employing body must (whether the person is re‑appointed, or another person is appointed, to the office) make a new determination of the terms and conditions applicable in respect of the office in compliance with section 12C of the _Remuneration Tribunal Act 1973_.
 
-Fair Work (State Referral and Consequential and Other Amendments) Act 2009 (No. 54, 2009)
+* * *
+
+_Fair Work (State Referral and Consequential and Other Amendments) Act 2009 (No. 54, 2009)_
 
 ## Schedule 8
 
 ## 160  Transitional provision relating to section 3
 
-(1)       Despite the repeal of paragraph 3(4)(j) of the _Remuneration Tribunal Act 1973_ by item 104, that paragraph, as in force immediately before that repeal, continues to apply in relation to an office of member of the Australian Industrial Relations Commission until that Commission ceases to exist.
+(1)       Despite the repeal of paragraph 3(4)(j) of the _Remuneration Tribunal Act 1973_ by item 104, that paragraph, as in force immediately before that repeal, continues to apply in relation to an office of member of the Australian Industrial Relations Commission until that Commission ceases to exist.
 
-(2)       The reference in paragraph 3(4)(j) of the _Remuneration Tribunal Act 1973_, as substituted by item 104, to the office of President of Fair Work Australia is taken to include a reference to an office of member (other than President) of Fair Work Australia, but only in relation to persons who are taken to have been appointed to that office under item 1 of Schedule 18 to the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_.
+(2)       The reference in paragraph 3(4)(j) of the _Remuneration Tribunal Act 1973_, as substituted by item 104, to the office of President of Fair Work Australia is taken to include a reference to an office of member (other than President) of Fair Work Australia, but only in relation to persons who are taken to have been appointed to that office under item 1 of Schedule 18 to the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_.
 
 ## 161  Transitional provision relating to section 7
 
-(1)       Despite the amendment of subsection 7(4B) of the _Remuneration Tribunal Act 1973_ by item 106, that subsection, as in force immediately before that amendment, continues to apply in relation to members of the Australian Industrial Relations Commission until that Commission ceases to exist _._
+(1)       Despite the amendment of subsection 7(4B) of the _Remuneration Tribunal Act 1973_ by item 106, that subsection, as in force immediately before that amendment, continues to apply in relation to members of the Australian Industrial Relations Commission until that Commission ceases to exist _._
 
-(2)       The reference in subsection 7(4B) of the _Remuneration Tribunal Act 1973_, as amended by item 106, to the President of Fair Work Australia is taken to include a reference to the other members of Fair Work Australia, but only in relation to persons who are taken to have been appointed as such a member under item 1 of Schedule 18 to the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_.
+(2)       The reference in subsection 7(4B) of the _Remuneration Tribunal Act 1973_, as amended by item 106, to the President of Fair Work Australia is taken to include a reference to the other members of Fair Work Australia, but only in relation to persons who are taken to have been appointed as such a member under item 1 of Schedule 18 to the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_.
 
-(3)       Despite the repeal of subsection 7(4C) of the _Remuneration Tribunal Act 1973_ by item 107, that subsection, as in force immediately before that repeal, continues to apply in relation to members of the Australian Fair Pay Commission until that Commission ceases to exist.
+(3)       Despite the repeal of subsection 7(4C) of the _Remuneration Tribunal Act 1973_ by item 107, that subsection, as in force immediately before that repeal, continues to apply in relation to members of the Australian Fair Pay Commission until that Commission ceases to exist.
 
-Acts Interpretation Amendment Act 2011 (No. 46, 2011)
+* * *
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
 
 ## Schedule 3
 
@@ -4825,7 +3354,9 @@ The amendments made by Schedule 2 do not affect the validity of an appointment
 
 The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
-Remuneration and Other Legislation Amendment Act 2011 (No. 75, 2011)
+* * *
+
+_Remuneration and Other Legislation Amendment Act 2011 (No. 75, 2011)_
 
 ## Schedule 1
 
@@ -4851,7 +3382,7 @@ Remuneration and Other Legislation Amendment Act 2011 (No. 75, 2011)
 
                      (b)  in the case of any other Departmental Secretary—the following instruments come into operation in substitution for the existing determination:
 
-                              (i)  an assignment made under subsection 14(3) of the _Remuneration Tribunal Act 1973_ (as inserted by this Schedule) in relation to that Departmental Secretary;
+                              (i)  an assignment made under subsection 14(3) of the _Remuneration Tribunal Act 1973_ (as inserted by this Schedule) in relation to that Departmental Secretary;
 
                              (ii)  a determination made under section 15 of the _Remuneration Tribunal Act 1973_ (as inserted by this Schedule) in relation to that Departmental Secretary.
 
@@ -4885,55 +3416,25 @@ Remuneration and Other Legislation Amendment Act 2011 (No. 75, 2011)
 
                      (a)  clause 1 of Schedule 3 to the _Remuneration and Allowances Act 1990_;
 
-                     (b)  regulations made for the purposes of paragraph 1(2)(b) of that Schedule;
+                     (b)  regulations made for the purposes of paragraph 1(2)(b) of that Schedule;
 
                      (c)  the definition of **_parliamentary allowance_** in clause 1A of that Schedule;
 
-                     (d)  subsection 5(2C) of the _Remuneration Tribunal Act 1973_.
+                     (d)  subsection 5(2C) of the _Remuneration Tribunal Act 1973_.
 
 (2)       Despite the repeals and amendments made by this Schedule, those provisions continue in force until the coming into force of the first determination:
 
-                     (a)  that is made under subsection 7(1) of the _Remuneration Tribunal Act 1973_ at or after the commencement of this Schedule; and
+                     (a)  that is made under subsection 7(1) of the _Remuneration Tribunal Act 1973_ at or after the commencement of this Schedule; and
 
                      (b)  that determines the annual allowance payable for the purposes of section 48 of the Constitution.
 
-Fair Work Amendment Act 2012 (No. 174, 2012)
+## Table B
 
-## Schedule 9
+### Modifications
 
-## 1387  Transitional provision—the _Remuneration Tribunal Act 1973_: meaning of _public office_
+_A.C.T. Self‑Government (Consequential Provisions) Regulations_
 
-The reference in paragraph 3(4)(j) of the _Remuneration Tribunal Act 1973_, as amended by Part 2 of this Schedule, to the office of President of the Fair Work Commission is taken to include a reference to an office of member (other than President) of the Fair Work Commission, but only in relation to persons who were taken to have been appointed to the office of FWA member under item 1 of Schedule 18 to the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_.
-
-## 1388  Transitional provision—the _Remuneration Tribunal Act 1973_: travelling allowances
-
-The reference in subsection 7(4B) of the _Remuneration Tribunal Act 1973_, as amended by Part 2 of this Schedule, to the President of the Fair Work Commission is taken to include a reference to the other members of the Fair Work Commission, but only in relation to persons who were taken to have been appointed as an FWA member under item 1 of Schedule 18 to the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_.
-
-Endnote 4—Uncommenced amendments
-
-This endnote sets out amendments of the _Remuneration Tribunal Act 1973_ that have not yet commenced.
-
-Medibank Private Sale Act 2006 (No. 160, 2006)
-
-## Schedule 3
-
-## 4  Subsection 3(1) (paragraph (i) of the definition of _principal executive office_)
-
-Repeal the paragraph.
-
-Endnote 5—Misdescribed amendments
-
-This endnote sets out amendments of the _Remuneration Tribunal Act 1973_ that have been misdescribed.
-
-There are no misdescribed amendments.
-
-Endnote 6—Modifications
-
-This endnote sets out modifications of the _Remuneration Tribunal Act 1973__._
-
-A.C.T. Self‑Government (Consequential Provisions) Regulations (1989 No. 3)
-
-## Subsection 3(1):
+## Subsection 3(1):
 
 Insert the following definition: 
 
@@ -4941,7 +3442,7 @@ Insert the following definition:
 
 Add “or a corporation established for a public purpose by a law of the Australian Capital Territory” at the end of the definition of **_public statutory corporation_**.
 
-## Subsection 3(4):
+## Subsection 3(4):
 
 Insert in paragraph (b) “(other than an enactment)” after “Territory”.
 
@@ -4961,11 +3462,11 @@ Omit paragraph (fb), substitute:
 
              (fh)     an office or appointment in the service or employment of an incorporated company referred to in paragraph (ff) or (fg), being an office or appointment that is specified by a Minister within the meaning of the _Australian Capital Territory (Self‑Government) Act 1988_, by a notice given to the Chairman, to be a senior office or senior appointment, as the case may be, in the service or employment of the Company to which this Part is to apply.
 
-Omit from paragraph (k) “Commonwealth Teaching Service”, substitute “Australian Capital Territory public service established under subsection 54(1) of the _Australian Capital Territory (Self‑Government) Act 1988_”.
+Omit from paragraph (k) “Commonwealth Teaching Service”, substitute “Australian Capital Territory public service established under subsection 54(1) of the _Australian Capital Territory (Self‑Government) Act 1988_”.
 
 Omit from paragraph (t) “or (f)”, substitute “(f), (ff) or (fg)”.
 
-## Subsection 7(3):
+## Subsection 7(3):
 
 Omit “and to the holders of”, substitute “, the offices of Head of Administration and Associate Head of Administration within the meaning of the _Australian Capital Territory__(Self‑Government) Act 1988_ and”.
 
@@ -4975,13 +3476,13 @@ Add at the end the following subsection:
 
          “(15)  In spite of the preceding provisions of this section, remuneration or allowances:
 
-                     (a)  payable to a person who holds an office or appointment referred to in subsection 3(3) or paragraph 3(4)(fc), (fd), (fe), (ff), (fg) or (fh); and
+                     (a)  payable to a person who holds an office or appointment referred to in subsection 3(3) or paragraph 3(4)(fc), (fd), (fe), (ff), (fg) or (fh); and
 
                      (b)  to which a determination applies;
 
 may be paid in accordance with the determination out of the public money of the Australian Capital Territory within the meaning of the _Australian Capital Territory__(Self‑Government) Act 1988_.”
 
-## Subsection 8(4):
+## Subsection 8(4):
 
 After “_1922_” insert “or the office of Head of Administration or Associate Head of Administration within the meaning of the _Australian Capital Territory (Self‑Government) Act 1988_”.
 
