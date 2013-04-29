@@ -1,12 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00477/Html/bd22df4e-c397-4700-939a-ec4af40d31e4_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00042/Html/JurisCourtCrosVest1987WD02_image001.gif)
 
-# Jurisdiction of Courts (Cross‑vesting) Act 1987
+# Jurisdiction of Courts (Cross-vesting) Act 1987
 
 **Act No. 24 of 1987 as amended**
 
-This compilation was prepared on 1 June 2012
- taking into account amendments up to Act No. 103 of 2010 and
- SLI 2012 No. 80
+This compilation was prepared on 1 January 2011
+ taking into account amendments up to Act No. 103 of 2010
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -15,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -37,7 +36,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [8](#8).            Orders by Supreme Court of a Territory
 
-[9](#9).            Exercise of jurisdiction pursuant to cross‑vesting laws
+[9](#9).            Exercise of jurisdiction pursuant to cross-vesting laws
 
 [10](#10).          Transfer of matters arising under the Australian Consumer Law
 
@@ -57,21 +56,21 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Notes** 
 
-## An Act relating to the cross‑vesting of certain jurisdiction
+## An Act relating to the cross-vesting of certain jurisdiction
 
 WHEREAS inconvenience and expense have occasionally been caused to litigants by jurisdictional limitations in federal, State and Territory courts, and whereas it is desirable, so far as is constitutionally possible:
 
-                     (a)  to establish a system of cross‑vesting of jurisdiction between those courts, without detracting from the existing jurisdiction of any court;
+                     (a)  to establish a system of cross-vesting of jurisdiction between those courts, without detracting from the existing jurisdiction of any court;
 
-                     (b)  to structure the system in such a way as to ensure as far as practicable that proceedings concerning matters which, apart from this Act and any law of a State relating to cross‑vesting of jurisdiction, would be entirely or substantially within the jurisdiction (other than any accrued jurisdiction) of the Federal Court or the Family Court or the jurisdiction of a Supreme Court of a State or Territory are instituted and determined in that court, whilst providing for the determination by one court of federal and State matters in appropriate cases; and
+                     (b)  to structure the system in such a way as to ensure as far as practicable that proceedings concerning matters which, apart from this Act and any law of a State relating to cross-vesting of jurisdiction, would be entirely or substantially within the jurisdiction (other than any accrued jurisdiction) of the Federal Court or the Family Court or the jurisdiction of a Supreme Court of a State or Territory are instituted and determined in that court, whilst providing for the determination by one court of federal and State matters in appropriate cases; and
 
                      (c)  if a proceeding is instituted in a court that is not the appropriate court, to provide a system under which the proceeding will be transferred to the appropriate court.
 
 BE IT THEREFORE ENACTED by the Queen, and the Senate and the House of Representatives of the Commonwealth of Australia, as follows:
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
+##### <a id="1"></a>1  Short title [_see_ Note 1]
 
-                   This Act may be cited as the _Jurisdiction of Courts (Cross‑vesting) Act 1987_.
+                   This Act may be cited as the _Jurisdiction of Courts (Cross-vesting) Act 1987_.
 
 ##### <a id="2"></a>2  Commencement [_see_ Note 1]
 
@@ -99,7 +98,7 @@ BE IT THEREFORE ENACTED by the Queen, and the Senate and the House of Representa
 
                     (aa)  a matter arising under the Competition Code (as defined in section 150A of the _Competition and Consumer Act 2010_) of the Australian Capital Territory or the Northern Territory; or
 
-                   (ab)  a matter arising under section 60G of the _Family Law Act 1975_ in a court other than the Family Court of Western Australia or the Supreme Court of the Northern Territory; or
+                    (ab)  a matter arising under section 60G of the _Family Law Act 1975_ in a court other than the Family Court of Western Australia or the Supreme Court of the Northern Territory; or
 
                      (b)  a matter involving the determination of questions of law on appeal from a decision of, or of questions of law referred or stated by, a tribunal or other body established by an Act or a person holding office under an Act, not being a matter for determination in an appeal or a reference or case stated to the Supreme Court of a State or Territory under a law of the Commonwealth that specifically provides for such an appeal, reference or case stated to such a court; or
 
@@ -113,7 +112,7 @@ being a matter in respect of which the Supreme Court of a State or Territory wou
 
                     <a name="state-famili-court"></a>**_State Family Court_**, in relation to a State, means a court of that State to which section 41 of the _Family Law Act 1975_ applies by virtue of a Proclamation made under subsection 41(2) of that Act.
 
-                    <a name="territori"></a>**_Territory_** does not include the Australian Capital Territory or the Northern Territory.
+                    <a name="territori"></a>**_Territory_** does not include the Australian   Capital Territory or the Northern Territory.
 
              (2)  A reference in this Act, other than a reference in subsection 4(1), 5(3) or 7(4), to the Supreme Court of a State includes, if there is a State Family Court of that State, a reference to that State Family Court.
 
@@ -133,7 +132,7 @@ then:
 
                      (c)  in the case of the Supreme Court of a State (other than the Supreme Court of the Australian Capital Territory and the Supreme Court of the Northern Territory)—that court is invested with federal jurisdiction with respect to that matter; or
 
-                     (d)  in the case of the Supreme Court of a Territory (including the Australian Capital Territory and the Northern Territory)—jurisdiction is conferred on that court with respect to that matter.
+                     (d)  in the case of the Supreme Court of a Territory (including the Australian Capital Territory and the Northern   Territory)—jurisdiction is conferred on that court with respect to that matter.
 
              (2)  Where:
 
@@ -149,17 +148,17 @@ jurisdiction is conferred on the court referred to in paragraph (b) with respe
 
                      (a)  the _Conciliation and Arbitration Act 1904_; or
 
-                   (ab)  the _Fair Work Act 2009_; or
+                    (aa)  the _Building and Construction Industry Improvement Act 2005_; or
 
-                  (aba)  the _Fair Work (Building Industry) Act 2012_; or
+                    (ab)  the _Fair Work Act 2009_; or
 
                     (ac)  the _Fair Work (Registered Organisations) Act 2009_; or
 
-                   (ad)  the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_; or
+                    (ad)  the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_; or
 
                      (b)  the _Workplace Relations Act 1996_; or
 
-                   (ba)  the _Native Title Act 1993_; or
+                    (ba)  the _Native Title Act 1993_; or
 
                      (c)  section 45D, 45DA, 45DB, 45E, 45EA,46A, 155A or 155B of the _Competition and Consumer Act 2010_; or
 
@@ -177,9 +176,9 @@ jurisdiction is conferred on the court referred to in paragraph (b) with respe
 
                              (ii)  having regard to:
 
-                                        (A)  whether, in the opinion of the first court, apart from this Act and any law of a State relating to cross‑vesting of jurisdiction and apart from any accrued jurisdiction of the Federal Court or the Family Court, the relevant proceeding or a substantial part of the relevant proceeding would have been incapable of being instituted in the first court and capable of being instituted in the Federal Court or the Family Court;
+                                        (A)  whether, in the opinion of the first court, apart from this Act and any law of a State relating to cross-vesting of jurisdiction and apart from any accrued jurisdiction of the Federal Court or the Family Court, the relevant proceeding or a substantial part of the relevant proceeding would have been incapable of being instituted in the first court and capable of being instituted in the Federal Court or the Family Court;
 
-                                        (B)  the extent to which, in the opinion of the first court, the matters for determination in the relevant proceeding are matters arising under or involving questions as to the application, interpretation or validity of a law of the Commonwealth and not within the jurisdiction of the first court apart from this Act and any law of a State relating to cross‑vesting of jurisdiction; and
+                                        (B)  the extent to which, in the opinion of the first court, the matters for determination in the relevant proceeding are matters arising under or involving questions as to the application, interpretation or validity of a law of the Commonwealth and not within the jurisdiction of the first court apart from this Act and any law of a State relating to cross-vesting of jurisdiction; and
 
                                         (C)  the interests of justice;
 
@@ -199,9 +198,9 @@ the first court shall transfer the relevant proceeding to the Federal Court or t
 
                              (ii)  having regard to:
 
-                                        (A)  whether, in the opinion of the first court, apart from this Act and any law of a State relating to cross‑vesting of jurisdiction, the relevant proceeding or a substantial part of the relevant proceeding would have been incapable of being instituted in the first court and capable of being instituted in the Supreme Court of another State or Territory;
+                                        (A)  whether, in the opinion of the first court, apart from this Act and any law of a State relating to cross-vesting of jurisdiction, the relevant proceeding or a substantial part of the relevant proceeding would have been incapable of being instituted in the first court and capable of being instituted in the Supreme Court of another State or Territory;
 
-                                        (B)  the extent to which, in the opinion of the first court, the matters for determination in the relevant proceeding are matters arising under or involving questions as to the application, interpretation or validity of a law of the State or Territory referred to in sub-subparagraph (A) and not within the jurisdiction of the first court apart from this Act and any law of a State relating to cross‑vesting of jurisdiction; and
+                                        (B)  the extent to which, in the opinion of the first court, the matters for determination in the relevant proceeding are matters arising under or involving questions as to the application, interpretation or validity of a law of the State or Territory referred to in sub-subparagraph (A) and not within the jurisdiction of the first court apart from this Act and any law of a State relating to cross-vesting of jurisdiction; and
 
                                         (C)  the interests of justice;
 
@@ -221,7 +220,7 @@ the first court shall transfer the relevant proceeding to that other Supreme Cou
 
                              (ii)  having regard to:
 
-                                        (A)  whether, in the opinion of the first court, apart from this Act and any law of a State relating to cross‑vesting of jurisdiction, the relevant proceeding or a substantial part of the relevant proceeding would have been incapable of being instituted in the first court and capable of being instituted in the other of the courts referred to in paragraph (a); and
+                                        (A)  whether, in the opinion of the first court, apart from this Act and any law of a State relating to cross-vesting of jurisdiction, the relevant proceeding or a substantial part of the relevant proceeding would have been incapable of being instituted in the first court and capable of being instituted in the other of the courts referred to in paragraph (a); and
 
                                         (B)  the interests of justice;
 
@@ -241,11 +240,11 @@ the first court shall transfer the relevant proceeding to that other court.
 
                              (ii)  having regard to:
 
-                                        (A)  whether, in the opinion of the first court, the relevant proceeding or a substantial part of it would have been incapable of being instituted in that court, apart from this Act and any law of the Australian Capital Territory or the Northern Territory relating to cross‑vesting of jurisdiction; and
+                                        (A)  whether, in the opinion of the first court, the relevant proceeding or a substantial part of it would have been incapable of being instituted in that court, apart from this Act and any law of the Australian Capital Territory or the Northern Territory relating to cross-vesting of jurisdiction; and
 
-                                        (B)  whether, in the opinion of the first court, the relevant proceeding or a substantial part of it would have been capable of being instituted in the Supreme Court of a State or Territory, apart from this Act and any law of a State or Territory relating to cross‑vesting of jurisdiction; and
+                                        (B)  whether, in the opinion of the first court, the relevant proceeding or a substantial part of it would have been capable of being instituted in the Supreme Court of a State or Territory, apart from this Act and any law of a State or Territory relating to cross-vesting of jurisdiction; and
 
-                                        (C)  the extent to which, in the opinion of the first court, the matters for determination in the relevant proceeding are matters arising under or involving questions as to the application, interpretation or validity of a law of the State or Territory referred to in sub-subparagraph (B) and not within the jurisdiction of the first court apart from this Act and any law of the Australian Capital Territory or the Northern Territory relating to cross‑vesting of jurisdiction; and
+                                        (C)  the extent to which, in the opinion of the first court, the matters for determination in the relevant proceeding are matters arising under or involving questions as to the application, interpretation or validity of a law of the State or Territory referred to in sub-subparagraph (B) and not within the jurisdiction of the first court apart from this Act and any law of the Australian Capital Territory or the Northern Territory relating to cross-vesting of jurisdiction; and
 
                                         (D)  the interests of justice;
 
@@ -269,19 +268,19 @@ the first court shall transfer the relevant proceeding to that other court.
 
              (6)  Where:
 
-                     (a)  a court (in this subsection referred to as the **_first court_**) transfers a proceeding to another court under a law or laws relating to cross‑vesting of jurisdiction; and
+                     (a)  a court (in this subsection referred to as the **_first court_**) transfers a proceeding to another court under a law or laws relating to cross-vesting of jurisdiction; and
 
                      (b)  it appears to the first court that:
 
-                              (i)  there is another proceeding pending in the first court that arises out of, or is related to, the first‑mentioned proceeding; and
+                              (i)  there is another proceeding pending in the first court that arises out of, or is related to, the first-mentioned proceeding; and
 
                              (ii)  it is in the interests of justice that the other proceeding be determined by the other court;
 
 the first court shall transfer the other proceeding to the other court.
 
-             (7)  A court may transfer a proceeding under this section on the application of a party to the proceeding, of its own motion or on the application of the Attorney‑General of the Commonwealth or of a State or Territory.
+             (7)  A court may transfer a proceeding under this section on the application of a party to the proceeding, of its own motion or on the application of the Attorney-General of the Commonwealth or of a State or Territory.
 
-             (8)  A person who is entitled to practise as a barrister or a solicitor, or as both a barrister and a solicitor, in a court has, if a proceeding (in this subsection referred to as the **_transferred proceeding_**) in that court is transferred to another court under a law or laws relating to cross‑vesting of jurisdiction, the same entitlement to practise in relation to:
+             (8)  A person who is entitled to practise as a barrister or a solicitor, or as both a barrister and a solicitor, in a court has, if a proceeding (in this subsection referred to as the **_transferred proceeding_**) in that court is transferred to another court under a law or laws relating to cross-vesting of jurisdiction, the same entitlement to practise in relation to:
 
                      (a)  the transferred proceeding; and
 
@@ -317,9 +316,9 @@ Note:          This section has effect subject to section 6A
 
              (4)  Before making an order under subsection (3), the court must be satisfied that:
 
-                     (a)  a written notice specifying the nature of the special federal matter has been given to the Attorney‑General of the Commonwealth and the Attorney‑General of the State or Territory where the proceeding is pending; and
+                     (a)  a written notice specifying the nature of the special federal matter has been given to the Attorney-General of the Commonwealth and the Attorney-General of the State or Territory where the proceeding is pending; and
 
-                     (b)  a reasonable time has elapsed since the giving of the notice for the Attorneys‑General to consider whether submissions to the court should be made in relation to the proceeding.
+                     (b)  a reasonable time has elapsed since the giving of the notice for the Attorneys-General to consider whether submissions to the court should be made in relation to the proceeding.
 
              (5)  For the purposes of subsection (4), the court:
 
@@ -331,9 +330,9 @@ Note:          This section has effect subject to section 6A
 
                      (a)  have regard to the general rule that special federal matters should be heard by the Federal Court or a court mentioned in paragraph (2)(b), whichever is appropriate in the particular case; and
 
-                     (b)  take into account any submission made in relation to the proceeding by an Attorney‑General mentioned in subsection (4).
+                     (b)  take into account any submission made in relation to the proceeding by an Attorney-General mentioned in subsection (4).
 
-             (7)  The Attorney‑General may authorise the payment by the Commonwealth to a party of an amount in respect of costs arising out of the adjournment of a proceeding under this section, under a corresponding provision of a law of a State or under this section and under such a provision.
+             (7)  The Attorney-General may authorise the payment by the Commonwealth to a party of an amount in respect of costs arising out of the adjournment of a proceeding under this section, under a corresponding provision of a law of a State or under this section and under such a provision.
 
              (8)  Nothing in this section prevents the court granting urgent relief of an interlocutory nature if it is in the interests of justice to do so.
 
@@ -443,29 +442,29 @@ nothing in this section invalidates the decision of that court.
 
                      (b)  it appears to the Supreme Court of that Territory that:
 
-                              (i)  the relevant proceeding arises out of, or is related to, another proceeding pending in the Federal Court, the Family Court, the Supreme Court of a State or the Supreme Court of another Territory and, if an order is made under this subsection in relation to the relevant proceeding, there would be grounds on which that other proceeding could be transferred to the Supreme Court of that first‑mentioned Territory; or
+                              (i)  the relevant proceeding arises out of, or is related to, another proceeding pending in the Federal Court, the Family Court, the Supreme Court of a State or the Supreme Court of another Territory and, if an order is made under this subsection in relation to the relevant proceeding, there would be grounds on which that other proceeding could be transferred to the Supreme Court of that first-mentioned Territory; or
 
                              (ii)  an order should be made under this subsection in relation to the relevant proceeding so that consideration can be given to whether the relevant proceeding should be transferred to another court;
 
-the Supreme Court of that first‑mentioned Territory may, on the application of a party to the relevant proceeding or of its own motion, make an order removing the relevant proceeding to that Supreme Court.
+the Supreme Court of that first-mentioned Territory may, on the application of a party to the relevant proceeding or of its own motion, make an order removing the relevant proceeding to that Supreme Court.
 
              (2)  Where an order is made under subsection (1) in relation to a proceeding, this Act applies in relation to the proceeding as if it were a proceeding pending in the court to which it was removed.
 
              (3)  Where a proceeding is removed to a court in accordance with an order made under subsection (1), that court may, if the court considers it appropriate to do so, remit the proceeding to the court or tribunal from which the proceeding was removed.
 
-##### <a id="9"></a>9  Exercise of jurisdiction pursuant to cross‑vesting laws
+##### <a id="9"></a>9  Exercise of jurisdiction pursuant to cross-vesting laws
 
-             (1)  Nothing in this or any other Act is intended to override or limit the operation of a provision of a law of a State relating to cross‑vesting of jurisdiction.
+             (1)  Nothing in this or any other Act is intended to override or limit the operation of a provision of a law of a State relating to cross-vesting of jurisdiction.
 
              (2)  The Supreme Court of a Territory may:
 
-                     (a)  exercise jurisdiction (whether original or appellate) conferred on that court by a provision of this Act or of a law of a State relating to cross‑vesting of jurisdiction; and
+                     (a)  exercise jurisdiction (whether original or appellate) conferred on that court by a provision of this Act or of a law of a State relating to cross-vesting of jurisdiction; and
 
                      (b)  hear and determine a proceeding transferred to that court under such a provision.
 
              (3)  The Federal Court or the Family Court may:
 
-                     (a)  exercise jurisdiction (whether original or appellate) conferred on that court by a provision of this Act or of a law of the Australian Capital Territory or the Northern Territory relating to cross‑vesting of jurisdiction; and
+                     (a)  exercise jurisdiction (whether original or appellate) conferred on that court by a provision of this Act or of a law of the Australian Capital Territory or the Northern Territory relating to cross-vesting of jurisdiction; and
 
                      (b)  hear and determine a proceeding transferred to that court under such a provision.
 
@@ -475,7 +474,7 @@ the Supreme Court of that first‑mentioned Territory may, on the application of
 
                      (a)  a proceeding is pending in the Federal Court, the Family Court or the Supreme Court of a State or Territory;
 
-                     (b)  a matter for determination in the proceeding is a matter arising under Part 2‑2, 3‑1, 3‑3 or 3‑4 of Schedule 2 to the _Competition and Consumer Act 2010_, as that Part applies as a law of the Commonwealth;
+                     (b)  a matter for determination in the proceeding is a matter arising under Part 2-2, 3-1, 3-3 or 3-4 of Schedule 2 to the _Competition and Consumer Act 2010_, as that Part applies as a law of the Commonwealth;
 
                      (c)  no matter for determination in the proceeding is a special federal matter;
 
@@ -487,7 +486,7 @@ the court referred to in paragraph (a) may, on the application of a party to t
 
 ##### <a id="11"></a>11  Conduct of proceedings
 
-             (1)  Where it appears to a court that the court will, or will be likely to, in determining a matter for determination in a proceeding, be exercising jurisdiction conferred by this Act or by a law of a State relating to cross‑vesting of jurisdiction:
+             (1)  Where it appears to a court that the court will, or will be likely to, in determining a matter for determination in a proceeding, be exercising jurisdiction conferred by this Act or by a law of a State relating to cross-vesting of jurisdiction:
 
                      (a)  subject to paragraphs (b) and (c), the court shall, in determining that matter, apply the law in force in the State or Territory in which the court is sitting (including choice of law rules);
 
@@ -513,9 +512,9 @@ the court referred to in paragraph (a) may, on the application of a party to t
 
 ##### <a id="14"></a>14  Enforcement and effect of judgments
 
-             (1)  A judgment of the Federal Court or the Family Court that is given, in whole or in part, in the exercise of jurisdiction conferred by a law or laws relating to cross‑vesting of jurisdiction is enforceable in a Territory as if the judgment had been given entirely in the exercise of the jurisdiction of that court apart from any such law.
+             (1)  A judgment of the Federal Court or the Family Court that is given, in whole or in part, in the exercise of jurisdiction conferred by a law or laws relating to cross-vesting of jurisdiction is enforceable in a Territory as if the judgment had been given entirely in the exercise of the jurisdiction of that court apart from any such law.
 
-             (2)  A judgment of the Supreme Court of a Territory that is given, in whole or in part, in the exercise of jurisdiction conferred by a law or laws relating to cross‑vesting of jurisdiction is enforceable in that Territory as if the judgment had been given entirely in the exercise of the jurisdiction of that court apart from any such law.
+             (2)  A judgment of the Supreme Court of a Territory that is given, in whole or in part, in the exercise of jurisdiction conferred by a law or laws relating to cross-vesting of jurisdiction is enforceable in that Territory as if the judgment had been given entirely in the exercise of the jurisdiction of that court apart from any such law.
 
              (3)  Where:
 
@@ -531,29 +530,29 @@ the reference in that provision to the Federal Court, the Family Court or the Su
 
 ##### <a id="16"></a>16  Suspension or cessation of operation of Act
 
-             (1)  Subject to subsection (2), the Governor‑General may, if a Proclamation has not been made under subsection (4), by Proclamation, declare that the operation of this Act is suspended from a day (being a day not earlier than 3 years after the commencement of this Act) specified in the Proclamation and, where such a Proclamation is made, this Act ceases to be in force from that day until a Proclamation is made under subsection (3) revoking the first‑mentioned Proclamation.
+             (1)  Subject to subsection (2), the Governor-General may, if a Proclamation has not been made under subsection (4), by Proclamation, declare that the operation of this Act is suspended from a day (being a day not earlier than 3 years after the commencement of this Act) specified in the Proclamation and, where such a Proclamation is made, this Act ceases to be in force from that day until a Proclamation is made under subsection (3) revoking the first-mentioned Proclamation.
 
-             (2)  The Governor‑General shall not make a Proclamation under subsection (1) having effect from a particular day unless the Governor‑General is satisfied that the Attorney‑General has given notice of his or her intention to seek the making of such a Proclamation to each State (other than a State in relation to which a Proclamation under subsection (5) has been made) not less than 6 months before that day.
+             (2)  The Governor-General shall not make a Proclamation under subsection (1) having effect from a particular day unless the Governor-General is satisfied that the Attorney-General has given notice of his or her intention to seek the making of such a Proclamation to each State (other than a State in relation to which a Proclamation under subsection (5) has been made) not less than 6 months before that day.
 
-             (3)  Where the Governor‑General has made a Proclamation under subsection (1), the Governor‑General may, by Proclamation, revoke the first‑mentioned Proclamation.
+             (3)  Where the Governor-General has made a Proclamation under subsection (1), the Governor-General may, by Proclamation, revoke the first-mentioned Proclamation.
 
-             (4)  Where the Governor‑General is satisfied that State Acts relating to cross‑vesting of jurisdiction are not effective to confer jurisdiction of the Supreme Courts of the States on the Federal Court or the Family Court, the Governor‑General may, by Proclamation, declare that this Act shall, on a day specified in the Proclamation, cease to be in force and, where such a Proclamation is made, this Act ceases to be in force on that day.
+             (4)  Where the Governor-General is satisfied that State Acts relating to cross-vesting of jurisdiction are not effective to confer jurisdiction of the Supreme Courts of the States on the Federal Court or the Family Court, the Governor-General may, by Proclamation, declare that this Act shall, on a day specified in the Proclamation, cease to be in force and, where such a Proclamation is made, this Act ceases to be in force on that day.
 
-             (5)  Where the Governor‑General is satisfied that an Act of a particular State relating to cross‑vesting of jurisdiction has been repealed, rendered inoperative, suspended or altered in a substantial manner, the Governor‑General may, by Proclamation, declare that this Act shall, on a day specified in the Proclamation, cease to be in force in relation to that State and, where such a Proclamation is made, this Act ceases to be in force in relation to that State on that day.
+             (5)  Where the Governor-General is satisfied that an Act of a particular State relating to cross-vesting of jurisdiction has been repealed, rendered inoperative, suspended or altered in a substantial manner, the Governor-General may, by Proclamation, declare that this Act shall, on a day specified in the Proclamation, cease to be in force in relation to that State and, where such a Proclamation is made, this Act ceases to be in force in relation to that State on that day.
 
              (6)  Where:
 
-                     (a)  the Governor‑General has made a Proclamation under subsection (5) in relation to a State; and
+                     (a)  the Governor-General has made a Proclamation under subsection (5) in relation to a State; and
 
-                     (b)  the Governor‑General is satisfied that there is in force an Act of that State relating to cross‑vesting of jurisdiction, being an Act in terms substantially corresponding to the terms of this Act;
+                     (b)  the Governor-General is satisfied that there is in force an Act of that State relating to cross-vesting of jurisdiction, being an Act in terms substantially corresponding to the terms of this Act;
 
-the Governor‑General may, by Proclamation, declare that this Act again applies in relation to that State from a day specified in the Proclamation and, where such a Proclamation is made, this Act applies in relation to that State on and after that day.
+the Governor-General may, by Proclamation, declare that this Act again applies in relation to that State from a day specified in the Proclamation and, where such a Proclamation is made, this Act applies in relation to that State on and after that day.
 
 # Schedule  
 
 _Section 7_
 
-_Advance Australia Logo Protection Act 1984_
+_Advance__Australia__Logo Protection Act 1984_
 
 _Bankruptcy Act 1966_
 
@@ -583,9 +582,7 @@ _Trade Marks Act 1955_
 
 ### Note 1
 
-The _Jurisdiction of Courts (Cross‑vesting) Act 1987_ as shown in this compilation comprises Act No. 24, 1987 amended as indicated in the Tables below.
-
-The _Jurisdiction of Courts (Cross-vesting) Act 1987_ was amended by the _Building and Construction Industry Improvement Amendment (Transition to Fair Work) Regulation 2012_ (SLI 2012 No. 80). The amendments are incorporated in this compilation.
+The _Jurisdiction of Courts (Cross-vesting) Act 1987_ as shown in this compilation comprises Act No. 24, 1987 amended as indicated in the Tables below.
 
 All relevant information pertaining to application, saving or transitional provisions prior to 23 October 2006 is not included in this compilation. For subsequent information _see_ Table A.
 
@@ -594,10 +591,10 @@ All relevant information pertaining to application, saving or transitional provi
 <table>
 <colgroup>
   <col width="30%">
-  <col width="15%">
+  <col width="16%">
   <col width="17%">
   <col width="22%">
-  <col width="17%">
+  <col width="15%">
 </colgroup>
 
 <thead>
@@ -623,7 +620,7 @@ of Assent</div>
 </thead>
 <tr>
   <td>
-    <div>Jurisdiction of Courts (Cross‑vesting) Act 1987</div>
+    <div>Jurisdiction of Courts (Cross-vesting) Act 1987</div>
   </td>
   <td>
     <div>24, 1987</div>
@@ -658,7 +655,7 @@ Remainder: 1 Mar 1989 ( <i>see</i>s. 2(2) and <i>Gazette</i>1989, No. S53)</div>
 </tr>
 <tr>
   <td>
-    <div>Trade Practices (Misuse of Trans‑Tasman Market Power) Act 1990</div>
+    <div>Trade Practices (Misuse of Trans-Tasman Market Power) Act 1990</div>
   </td>
   <td>
     <div>70, 1990</div>
@@ -803,10 +800,10 @@ Remainder: 1 Mar 1989 ( <i>see</i>s. 2(2) and <i>Gazette</i>1989, No. S53)</div>
     <div>25 Nov 1996</div>
   </td>
   <td>
-    <div>Schedule 17 (items 12, 13): 17 Jan 1997 ( <i>see Gazette</i>1997, No. S18) <i>(f</i>)Schedule 19 (item 24): Royal Assent <i>(f</i>)</div>
+    <div>Schedule 17 (items 12, 13): 17 Jan 1997 ( <i>see Gazette</i>1997, No. S18) <i>(f</i>)Schedule 19 (item 24): Royal Assent <i>(f</i>)</div>
   </td>
   <td>
-    <div>S. 2(2) and (6) (am. by 77, 1996, Sch. 3 \[items 1, 2])</div>
+    <div>S. 2(2) and (6) (am. by 77, 1996, Sch. 3 \[items 1, 2])</div>
   </td>
 </tr>
 <tr>
@@ -888,8 +885,8 @@ Remainder: 1 Mar 1989 ( <i>see</i>s. 2(2) and <i>Gazette</i>1989, No. S53)</div>
     <div>1 Oct 2001</div>
   </td>
   <td>
-    <div>Schedules 1–7 and 9–12: 12 Oct 2001 ( <i>see Gazette</i>2001, No. S428) 
-Schedule 8: 13 Oct 2001 ( <i>see Gazette</i>2001, No. S428)</div>
+    <div>Schedules 1–7 and 9–12: 12 Oct 2001 ( <i>see Gazette</i>2001, No. S428) 
+Schedule 8: 13 Oct 2001 ( <i>see Gazette</i>2001, No. S428)</div>
   </td>
   <td>
     <div>—</div>
@@ -924,7 +921,7 @@ Remainder: Royal Assent</div>
     <div>12 Sept 2005</div>
   </td>
   <td>
-    <div>Ss. 4, 5(1), (3), (4) and Schedule 1 (items 8, 9, 11): 9 Mar 2005 
+    <div>Ss. 4, 5(1), (3), (4) and Schedule 1 (items 8, 9, 11): 9 Mar 2005 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -942,7 +939,7 @@ Remainder: Royal Assent</div>
     <div>23 Oct 2006</div>
   </td>
   <td>
-    <div>Schedules 1 and 2: 1 Mar 2007 
+    <div>Schedules 1 and 2: 1 Mar 2007 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -960,7 +957,7 @@ Remainder: Royal Assent</div>
     <div>25 June 2008</div>
   </td>
   <td>
-    <div>Schedule 1 (item 5): 26 June 2008 ( <i>see</i>s. 2(1))</div>
+    <div>Schedule 1 (item 5): 26 June 2008 ( <i>see</i>s. 2(1))</div>
   </td>
   <td>
     <div>—</div>
@@ -994,36 +991,36 @@ Remainder: Royal Assent</div>
     <div>13 July 2010</div>
   </td>
   <td>
-    <div>Schedule 6 (items 1, 70–72, 165): 1 Jan 2011</div>
+    <div>Schedule 6 (items 1, 70–72, 165): 1 Jan 2011</div>
   </td>
   <td>
     <div>—</div>
   </td>
 </tr></table>
 
-_(a)_     The _Jurisdiction of Courts (Cross‑vesting) Act 1987_ was amended by section 4 (Schedule \[in part]) only of the _Law and Justice Legislation Amendment Act (No. 3) 1992_, subsection 2(5) of which provides as follows:
+_(a)_     The _Jurisdiction of Courts (Cross-vesting) Act 1987_ was amended by section 4 (Schedule \[in part]) only of the _Law and Justice Legislation Amendment Act (No. 3) 1992_, subsection 2(5) of which provides as follows:
 
                  (5)   If the amendments mentioned in subsection (4) do not commence under that subsection within the period of 12 months commencing on the day on which the Act receives the Royal Assent, they commence on the first day after the end of that period.
 
-_(b)_     The _Jurisdiction of Courts (Cross‑vesting) Act 1987_ was amended by sections 49–51 only of the _Industrial Relations Reform Act 1993_, subsection 2(6) of which provides as follows:
+_(b)_    The _Jurisdiction of Courts (Cross-vesting) Act 1987_ was amended by sections 49–51 only of the _Industrial Relations Reform Act 1993_, subsection 2(6) of which provides as follows:
 
                  (6)   Subject to subsection (7), the remaining provisions of this Act commence on a day or days to be fixed by Proclamation.
 
-_(c)_     The _Jurisdiction of Courts (Cross‑vesting) Act 1987_ was amended by section 220 only of the _Native Title Act 1993_, subsection 2(2) of which provides as follows:
+_(c)_     The _Jurisdiction of Courts (Cross-vesting) Act 1987_ was amended by section 220 only of the _Native Title Act 1993_, subsection 2(2) of which provides as follows:
 
                  (2)   Subject to subsection (3), the remaining provisions of this Act commence on a day or days to be fixed by Proclamation.
 
-_(d)_     The _Jurisdiction of Courts (Cross‑vesting) Act 1987_ was amended by Schedule 2 (section 32) only of the _Competition Policy Reform Act 1995_, subsection 2(1) of which provides as follows:
+_(d)_     The _Jurisdiction of Courts (Cross-vesting) Act 1987_ was amended by Schedule 2 (section 32) only of the _Competition Policy Reform Act 1995_, subsection 2(1) of which provides as follows:
 
                  (1)   The following provisions commence on the 28th day after the day on which this Act receives the Royal Assent:
 
                               (a)   Parts 1, 2 and 7;
 
-_(e)_     The _Jurisdiction of Courts(Cross‑vesting) Act 1987_ was amended by Schedule 1 (Part 6) only of the _Family Law Reform (Consequential Amendments) Act 1995_, subsection 2(2) of which provides as follows:
+_(e)_     The _Jurisdiction of Courts(Cross-vesting) Act 1987_ was amended by Schedule 1 (Part 6) only of the _Family Law Reform (Consequential Amendments) Act 1995_, subsection 2(2) of which provides as follows:
 
                  (2)   The amendments made in Parts 1, 2, 3, 4, 5, 6, 7, 8, 9 and 10 of Schedule 1 commence on the commencement of section 31 of the _Family Law Reform Act 1995_.
 
-_(f)_      The _Jurisdiction of Courts (Cross‑vesting) Act 1987_ was amended by Schedule 17 (items 12 and 13) and Schedule 19 (item 24) only of the _Workplace Relations and Other Legislation Amendment Act 1996_, subsections 2(1) and (2) of which provide as follows:
+_(f)_      The _Jurisdiction of Courts (Cross-vesting) Act 1987_ was amended by Schedule 17 (items 12 and 13) and Schedule 19 (item 24) only of the _Workplace Relations and Other Legislation Amendment Act 1996_, subsections 2(1) and (2) of which provide as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
@@ -1033,11 +1030,11 @@ _(g)_     The _Workplace Relations and Other Legislation Amendment Act 1
 
                  (4)   The items of Schedule 3 are taken to have commenced immediately after the _Workplace Relations and Other Legislation Amendment Act 1996_ received the Royal Assent.
 
-_(h)_     The _Jurisdiction of Courts (Cross‑vesting) Act 1987_ was amended by Schedule 12 only of the _Law and Justice Legislation Amendment Act 1997_, subsection 2(1) of which provides as follows:
+_(h)_     The _Jurisdiction of Courts (Cross-vesting) Act 1987_ was amended by Schedule 12 only of the _Law and Justice Legislation Amendment Act 1997_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-_(i)_      The _Jurisdiction of Courts (Cross‑vesting) Act 1987_ was amended by Schedule 1 (items 57–69) only of the _Jurisdiction of Courts Legislation Amendment Act 2000_, subsection 2(2) of which provides as follows:
+_(i)_      The _Jurisdiction of Courts (Cross-vesting) Act 1987_ was amended by Schedule 1 (items 57–69) only of the _Jurisdiction of Courts Legislation Amendment Act 2000_, subsection 2(2) of which provides as follows:
 
                  (2)   The items in Schedule 1, other than items 77 to 90, commence on a day or days to be fixed by Proclamation.
 
@@ -1172,13 +1169,14 @@ _(k)_     Subsection 2(1) (item 13) of the _Fair Work (State Referral 
   </td>
   <td>
     <div>
-      Immediately after the commencement of Part 2‑4 of the
+      Immediately after the commencement of Part 2-4 of the
         <i>Fair Work Act 2009</i>.
     </div>
   </td>
   <td>
     <div>
-      1 July 2009
+      1 July 2009 (
+        <i>see</i>F2009L02563)
     </div>
   </td>
 </tr></table>
@@ -1187,8 +1185,8 @@ _(k)_     Subsection 2(1) (item 13) of the _Fair Work (State Referral 
 
 <table>
 <colgroup>
-  <col width="31%">
-  <col width="69%">
+  <col width="32%">
+  <col width="68%">
 </colgroup>
 
 <thead>
@@ -1227,7 +1225,7 @@ _(k)_     Subsection 2(1) (item 13) of the _Fair Work (State Referral 
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 87, 1988; No. 70, 1990; Nos. 98 and 110, 1993; No. 60, 1996; No. 34, 1997; No. 112, 2005; No. 54, 2009; No. 103, 2010; SLI 2012 No. 80</div>
+    <div>am. No. 87, 1988; No. 70, 1990; Nos. 98 and 110, 1993; No. 60, 1996; No. 34, 1997; No. 112, 2005; No. 54, 2009; No. 103, 2010</div>
   </td>
 </tr>
 <tr>
@@ -1319,8 +1317,8 @@ _Petroleum Retail Legislation Repeal Act 2006 (No. 113, 2006)_
 
 ## Schedule 2
 
-## 2  Transitional—pre‑commencement matters arising under the _Petroleum Retail Market Franchise Act 1980_
+## 2  Transitional—pre-commencement matters arising under the _Petroleum Retail Market Franchise Act 1980_
 
-Despite the amendment of the _Jurisdiction of Courts (Cross‑vesting) Act 1987_ made by this Schedule, that Act continues to apply, in relation to a matter arising under the _Petroleum Retail Marketing Franchise Act 1980_ before the commencement of this item, as if that amendment had not been made.
+Despite the amendment of the _Jurisdiction of Courts (Cross-vesting) Act 1987_ made by this Schedule, that Act continues to apply, in relation to a matter arising under the _Petroleum Retail Marketing Franchise Act 1980_ before the commencement of this item, as if that amendment had not been made.
 
  
