@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00694/Html/c2700667-46ca-4d7e-b9aa-60fdb503c488_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00346/Html/ProhibHumanCloningforRep2002_WD02_image001.gif)
 
 # Prohibition of Human Cloning for Reproduction Act 2002
 
 **Act No. 144 of 2002 as amended**
 
-This compilation was prepared on 22 December 2008
- taking into account amendments up to Act No. 144 of 2008
+This compilation was prepared on 12 June 2007
+ taking into account amendments up to Act No. 172 of 2006
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -222,13 +222,13 @@ Note:          This table relates only to the provisions of th
 
                      (c)  by way of the supply of services to the Commonwealth or to a Commonwealth authority.
 
-##### <a id="5"></a>5  Act to bind the Crown
+##### <a id="5"></a>5  Act to bind the Crown
 
              (1)  This Act binds the Crown in each of its capacities.
 
              (2)  Nothing in this Act renders the Crown liable to be prosecuted for an offence.
 
-##### <a id="6"></a>6  External Territories
+##### <a id="6"></a>6  External  Territories
 
                    This Act extends to every external Territory.
 
@@ -300,7 +300,7 @@ and has not yet reached 8 weeks of development since the first mitotic division.
 
                     <a name="precursor-cell"></a>**_precursor cell_** means a cell that has the potential to develop into a human egg or human sperm.
 
-                    <a name="spous"></a>**_spouse_**, in relation to a person, includes a de facto partner of the person within the meaning of the _Acts Interpretation Act 1901_.
+                    <a name="spous"></a>**_spouse_**, in relation to a person, includes a person who, although not legally married to the person, is living with the person as the person’s spouse on a bona fide domestic basis.
 
                     <a name="state"></a>**_State_** includes the Australian Capital   Territory and the Northern Territory.
 
@@ -340,7 +340,7 @@ and has not yet reached 8 weeks of development since the first mitotic division.
 
                    A person commits an offence if the person intentionally places a human embryo clone in the body of a human or the body of an animal.
 
-                    Maximum penalty: Imprisonment for 15 years.
+                    Maximum penalty:    Imprisonment for 15 years.
 
 Note:          The development of a human embryo (including a human embryo clone) outside the body of a woman for more than 14 days is prohibited by section 14.
 
@@ -348,11 +348,11 @@ Note:          The development of a human embryo (including a 
 
              (1)  A person commits an offence if the person intentionally imports a human embryo clone into Australia.
 
-                    Maximum penalty: Imprisonment for 15 years.
+                    Maximum penalty:    Imprisonment for 15 years.
 
              (2)  A person commits an offence if the person intentionally exports a human embryo clone from Australia.
 
-                    Maximum penalty: Imprisonment for 15 years.
+                    Maximum penalty:    Imprisonment for 15 years.
 
 ##### <a id="11"></a>11  No defence that human embryo clone could not survive
 
@@ -362,7 +362,7 @@ Note:          The development of a human embryo (including a 
 
              (1)  A person commits an offence if the person intentionally creates a human embryo by a process of the fertilisation of a human egg by a human sperm outside the body of a woman, unless the person’s intention in creating the embryo is to attempt to achieve pregnancy in a particular woman.
 
-                    Maximum penalty: Imprisonment for 15 years.
+                    Maximum penalty:    Imprisonment for 15 years.
 
              (2)  Despite subsection 13.3(3) of the _Criminal Code_, a defendant does not bear an evidential burden in relation to any matter in subsection (1) of this section.
 
@@ -374,13 +374,13 @@ Note:          The development of a human embryo (including a 
 
                      (b)  the human embryo contains genetic material provided by more than 2 persons.
 
-                    Maximum penalty: Imprisonment for 15 years.
+                    Maximum penalty:    Imprisonment for 15 years.
 
 ##### <a id="14"></a>14  Offence—developing a human embryo outside the body of a woman for more than 14 days
 
                    A person commits an offence if the person intentionally develops a human embryo outside the body of a woman for a period of more than 14 days, excluding any period when development is suspended.
 
-                    Maximum penalty: Imprisonment for 15 years.
+                    Maximum penalty:    Imprisonment for 15 years.
 
 ##### <a id="15"></a>15  Offence—heritable alterations to genome
 
@@ -390,7 +390,7 @@ Note:          The development of a human embryo (including a 
 
                      (b)  in altering the genome, the person intended the alteration to be heritable by descendants of the human whose cell was altered.
 
-                    Maximum penalty: Imprisonment for 15 years.
+                    Maximum penalty:    Imprisonment for 15 years.
 
              (2)  In this section:
 
@@ -400,47 +400,47 @@ Note:          The development of a human embryo (including a 
 
                    A person commits an offence if the person removes a human embryo from the body of a woman, intending to collect a viable human embryo.
 
-                    Maximum penalty: Imprisonment for 15 years.
+                    Maximum penalty:    Imprisonment for 15 years.
 
 ##### <a id="17"></a>17  Offence—creating a chimeric embryo
 
                    A person commits an offence if the person intentionally creates a chimeric embryo.
 
-                    Maximum penalty: Imprisonment for 15 years.
+                    Maximum penalty:    Imprisonment for 15 years.
 
 ##### <a id="18"></a>18  Offence—developing a hybrid embryo
 
                    A person commits an offence if the person intentionally develops a hybrid embryo for a period of more than 14 days, excluding any period when development is suspended.
 
-                    Maximum penalty: Imprisonment for 15 years.
+                    Maximum penalty:    Imprisonment for 15 years.
 
 ##### <a id="19"></a>19  Offence—placing of an embryo
 
              (1)  A person commits an offence if the person intentionally places a human embryo in an animal.
 
-                    Maximum penalty: Imprisonment for 15 years.
+                    Maximum penalty:    Imprisonment for 15 years.
 
              (2)  A person commits an offence if the person intentionally places a human embryo in the body of a human, other than in a woman’s reproductive tract.
 
-                    Maximum penalty: Imprisonment for 15 years.
+                    Maximum penalty:    Imprisonment for 15 years.
 
              (3)  A person commits an offence if the person intentionally places an animal embryo in the body of a human for any period of gestation.
 
-                    Maximum penalty: Imprisonment for 15 years.
+                    Maximum penalty:    Imprisonment for 15 years.
 
 ##### <a id="20"></a>20  Offence—importing, exporting or placing a prohibited embryo
 
              (1)  A person commits an offence if the person intentionally imports an embryo into Australia knowing that, or reckless as to whether, the embryo is a prohibited embryo.
 
-                    Maximum penalty: Imprisonment for 15 years.
+                    Maximum penalty:    Imprisonment for 15 years.
 
              (2)  A person commits an offence if the person intentionally exports an embryo from Australia knowing that, or reckless as to whether, the embryo is a prohibited embryo.
 
-                    Maximum penalty: Imprisonment for 15 years.
+                    Maximum penalty:    Imprisonment for 15 years.
 
              (3)  A person commits an offence if the person intentionally places an embryo in the body of a woman knowing that, or reckless as to whether, the embryo is a prohibited embryo.
 
-                    Maximum penalty: Imprisonment for 15 years.
+                    Maximum penalty:    Imprisonment for 15 years.
 
              (4)  In this section:
 
@@ -466,11 +466,11 @@ Note:          The development of a human embryo (including a 
 
              (1)  A person commits an offence if the person intentionally gives or offers valuable consideration to another person for the supply of a human egg, human sperm or a human embryo.
 
-                    Maximum penalty: Imprisonment for 15 years.
+                    Maximum penalty:    Imprisonment for 15 years.
 
              (2)  A person commits an offence if the person intentionally receives, or offers to receive, valuable consideration from another person for the supply of a human egg, human sperm or a human embryo.
 
-                    Maximum penalty: Imprisonment for 15 years.
+                    Maximum penalty:    Imprisonment for 15 years.
 
              (3)  In this section:
 
@@ -496,7 +496,7 @@ Note:          The development of a human embryo (including a 
 
                      (b)  the creation or development of the human embryo by the person is not authorised by a licence.
 
-                    Maximum penalty: Imprisonment for 10 years.
+                    Maximum penalty:    Imprisonment for 10 years.
 
 Note 1:       The development of a human embryo outside the body of a woman for more than 14 days is prohibited by section 14.
 
@@ -512,7 +512,7 @@ Note 2:       The placement in the body of a woman of a human embryo
 
                      (c)  the creation or development of the human embryo by the person is not authorised by a licence.
 
-                    Maximum penalty: Imprisonment for 10 years.
+                    Maximum penalty:    Imprisonment for 10 years.
 
 Note 1:       The development of a human embryo outside the body of a woman for more than 14 days is prohibited by section 14.
 
@@ -526,7 +526,7 @@ Note 2:       The placement in the body of a woman of a human embryo
 
                      (b)  the person engages in activities mentioned in paragraph (a) without being authorised by a licence, and the person knows or is reckless as to that fact.
 
-                    Maximum penalty: Imprisonment for 10 years.
+                    Maximum penalty:    Imprisonment for 10 years.
 
 ##### <a id="23B"></a>23B  Offence—creating a hybrid embryo
 
@@ -536,7 +536,7 @@ Note 2:       The placement in the body of a woman of a human embryo
 
              (3)  A person does not commit an offence against subsection (1) or (2) if the creation or development of the hybrid embryo by the person is authorised by a licence.
 
-                    Maximum penalty: Imprisonment for 10 years.
+                    Maximum penalty:    Imprisonment for 10 years.
 
 Note:          A licence to create or develop a hybrid embryo can only be issued under section 21 of the _Research Involving Human Embryos Act 2002_:
 
@@ -632,13 +632,13 @@ and the views of the Commonwealth, the States and the persons mentioned in parag
 
 ##### <a id="26"></a>26  Regulations
 
-             (1)  The Governor‑General may make regulations prescribing matters:
+             (1)  The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
-             (2)  Before the Governor‑General makes regulations under this Act, the Minister must be satisfied that:
+             (2)  Before the Governor-General makes regulations under this Act, the Minister must be satisfied that:
 
                      (a)  the States have been consulted in relation to the proposed regulations; and
 
@@ -740,23 +740,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>Schedules 1–4: 12 June 2007 
 Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Same‑Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008</div>
-  </td>
-  <td>
-    <div>144, 2008</div>
-  </td>
-  <td>
-    <div>9 Dec 2008</div>
-  </td>
-  <td>
-    <div>Schedule 9 (item 1): 10 Dec 2008</div>
   </td>
   <td>
     <div>—</div>
@@ -902,7 +885,7 @@ _(a)_ Subsection 2(1) (item 22) of the _Statute Law Revision Act 2005_ provide
     <div>S. 8</div>
   </td>
   <td>
-    <div>am. No. 100, 2005; No. 172, 2006; No. 144, 2008</div>
+    <div>am. No. 100, 2005; No. 172, 2006</div>
   </td>
 </tr>
 <tr>
@@ -985,7 +968,5 @@ _(a)_ Subsection 2(1) (item 22) of the _Statute Law Revision Act 2005_ provide
     <div>ad. No. 172, 2006</div>
   </td>
 </tr></table>
-
- 
 
  
