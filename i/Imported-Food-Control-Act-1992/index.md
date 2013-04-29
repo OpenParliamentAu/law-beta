@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00220/Html/f5bbfac7-9f23-4911-9466-05eae22180c3_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00196/Html/ImportFoodControl1992_image001.gif)
 
 # Imported Food Control Act 1992
 
 **Act No. 221 of 1992 as amended**
 
-This compilation was prepared on 19 April 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 26 May 2009
+ taking into account amendments up to Act No. 33 of 2009
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -72,9 +72,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [19A](#19A).       Forging and uttering
 
-    **Division 3—Treatment, destruction or re‑exportation of failing food**
+    **Division 3—Treatment, destruction or re-exportation of failing food**
 
-[20](#20).          Treatment, destruction or re‑exportation of failing food
+[20](#20).          Treatment, destruction or re-exportation of failing food
 
 **Part 3—Enforcement**
 
@@ -88,11 +88,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [25](#25).          Offence powers—entry and search of premises with occupier’s consent
 
-[26](#26).          Offence‑related warrants
+[26](#26).          Offence-related warrants
 
 [27](#27).          Warrants may be granted by telephone etc 
 
-[28](#28).          Seizures without offence‑related warrant in emergency situations
+[28](#28).          Seizures without offence-related warrant in emergency situations
 
 [29](#29).          Discovery of evidence
 
@@ -252,7 +252,7 @@ whether or not it is in a condition fit for human consumption, but does not incl
 
                     <a name="recognis-qualiti-assur-certif"></a>**_recognised quality assurance certificate_** means a certificate covered by a determination in force under subsection 19(2).
 
-                    <a name="secretari"></a>**_Secretary_** means the Secretary of the Department.
+                    <a name="secretari"></a>**_Secretary_** means the Secretary to the Department.
 
                     <a name="state"></a>**_State_** includes the Australian Capital Territory and the Northern Territory.
 
@@ -264,15 +264,15 @@ whether or not it is in a condition fit for human consumption, but does not incl
 
                      (a)  it contains:
 
-                              (i)  pathogenic micro‑organisms or their toxins; or
+                              (i)  pathogenic micro-organisms or their toxins; or
 
-                             (ii)  micro‑organisms indicating poor handling; or
+                             (ii)  micro-organisms indicating poor handling; or
 
-                            (iii)  non‑approved chemicals or chemical residues; or
+                            (iii)  non-approved chemicals or chemical residues; or
 
                             (iv)  approved chemicals, or chemical residues, at greater levels than permitted; or
 
-                             (v)  non‑approved additives; or
+                             (v)  non-approved additives; or
 
                             (vi)  approved additives at greater levels than permitted; or
 
@@ -292,7 +292,7 @@ whether or not it is in a condition fit for human consumption, but does not incl
 
                      (b)  a reference to permitted levels in relation to such approved standards, approved chemical residues, or approved additives is a reference to levels of those chemicals, chemical residues or additives permitted in such a standard; and
 
-                     (c)  a reference to non‑approved chemicals, non‑approved chemical residues or non‑approved additives is a reference to chemicals, chemical residues or additives that are not approved in such a standard.
+                     (c)  a reference to non-approved chemicals, non-approved chemical residues or non-approved additives is a reference to chemicals, chemical residues or additives that are not approved in such a standard.
 
 ##### <a id="4"></a>4  Application of Act to certain external Territories
 
@@ -308,7 +308,7 @@ whether or not it is in a condition fit for human consumption, but does not incl
 
 ##### <a id="6"></a>6  Saving of other laws
 
-                   This Act is to be construed as being in addition to, and not in derogation of or in substitution for:
+                   This Act is to be construed as being in addition to, and not in derogation of or in substitution for:
 
                      (a)  the _Quarantine Act 1908_; or
 
@@ -546,13 +546,13 @@ stating:
 
                      (a)  must be destroyed in accordance with the requirements of section 20; or
 
-                     (b)  must either be destroyed or re‑exported from Australia in accordance with the requirements of that section; or
+                     (b)  must either be destroyed or re-exported from Australia in accordance with the requirements of that section; or
 
                      (c)  must, if not treated by the owner in accordance with the requirements of that section:
 
                               (i)  be destroyed; or
 
-                             (ii)  be destroyed or re‑exported from Australia;
+                             (ii)  be destroyed or re-exported from Australia;
 
                             in accordance with the requirements of that section. 
 
@@ -564,7 +564,7 @@ stating:
 
                      (b)  the making of an application for a further such advice in respect of the food;
 
-causes the food to cease to be failing food on the basis of the original advice but, if the original advice indicates that the food must be treated, destroyed or re‑exported, the food is not required to be so treated, destroyed or re‑exported unless:
+causes the food to cease to be failing food on the basis of the original advice but, if the original advice indicates that the food must be treated, destroyed or re-exported, the food is not required to be so treated, destroyed or re-exported unless:
 
                      (c)  the circumstances permitting the application for the further advice cease to exist; or
 
@@ -662,7 +662,7 @@ then, without limiting subsection (1), the regulations may:
 
              (3)  An order is not a Statutory Rule within the meaning of the _Statutory Rules Publication Act 1903_, but subsections 5(3) to (3C) (inclusive) of that Act apply in relation to an order in the same way as they apply in relation to a Statutory Rule.
 
-             (4)  For the purposes of the application of subsection 5(3B) of the _Statutory Rules Publication Act 1903_ in accordance with subsection (3), the reference in the first‑mentioned subsection to the Minister specified in that subsection is to be read as a reference to a Minister administering this Act.
+             (4)  For the purposes of the application of subsection 5(3B) of the _Statutory Rules Publication Act 1903_ in accordance with subsection (3), the reference in the first-mentioned subsection to the Minister specified in that subsection is to be read as a reference to a Minister administering this Act.
 
 ##### <a id="18"></a>18  Foreign government certificates
 
@@ -724,7 +724,7 @@ with intent that a computer, a machine or other device should respond to the fal
 
                      (d)  with the result that another person would be induced to do or refrain from doing an act, whether in Australia or elsewhere;
 
-the first‑mentioned person is taken to have **_forged_** the document.
+the first-mentioned person is taken to have **_forged_** the document.
 
 Uttering
 
@@ -736,15 +736,15 @@ Uttering
 
                      (c)  attempts to induce another person to use, deal with, act upon, or accept it.
 
-### Division 3—Treatment, destruction or re‑exportation of failing food
+### Division 3—Treatment, destruction or re-exportation of failing food
 
-##### <a id="20"></a>20  Treatment, destruction or re‑exportation of failing food
+##### <a id="20"></a>20  Treatment, destruction or re-exportation of failing food
 
              (1)  This section applies to food that:
 
                      (a)  has been identified in an imported food inspection advice as failing food; and
 
-                     (b)  is required, under that advice, to be treated, destroyed or re‑ exported from Australia.
+                     (b)  is required, under that advice, to be treated, destroyed or re- exported from Australia.
 
              (2)  If an imported food inspection advice, given in respect of food to which this section applies, permits the treatment of the food so as to bring it into compliance with this Act or to enable its use for a purpose other than human consumption, an authorised officer may, by notice in writing given to the owner of the food:
 
@@ -754,23 +754,23 @@ Uttering
 
                               (i)  the destruction of the food in a manner specified in the notice or to be agreed between the owner and the authorised officer; or
 
-                             (ii)  the destruction of the food in a manner specified in the notice or agreed between the owner and the authorised officer or the re‑exportation of the food.
+                             (ii)  the destruction of the food in a manner specified in the notice or agreed between the owner and the authorised officer or the re-exportation of the food.
 
              (3)  If an imported food inspection advice requires the destruction of food to which this section applies, an authorised officer may, by notice in writing given to the owner of the food, require its destruction in a manner specified in the notice or in a manner to be agreed between the owner and the authorised officer.
 
-             (4)  If an imported food inspection advice requires the destruction or re‑exportation of food to which this section applies, an authorised officer may, by notice in writing given to the owner of the food, require either:
+             (4)  If an imported food inspection advice requires the destruction or re-exportation of food to which this section applies, an authorised officer may, by notice in writing given to the owner of the food, require either:
 
                      (a)  its destruction in a manner specified in the notice or a manner to be agreed between the owner and the authorised officer; or
 
-                     (b)  its re‑exportation.
+                     (b)  its re-exportation.
 
-             (5)  A permission to treat or a requirement to destroy or re‑export failing food in a notice under subsection (2), (3) or (4) must specify a period (having regard to the reasons why the food has been identified as failing food and to any difficulties associated with arranging for its treatment, destruction or re‑exportation) within which that treatment, destruction or re‑exportation is to be completed.
+             (5)  A permission to treat or a requirement to destroy or re-export failing food in a notice under subsection (2), (3) or (4) must specify a period (having regard to the reasons why the food has been identified as failing food and to any difficulties associated with arranging for its treatment, destruction or re-exportation) within which that treatment, destruction or re-exportation is to be completed.
 
-             (6)  If the owner of food arranges for a treatment, destruction or re‑exportation in accordance with a notice under subsection (2), (3) or (4), that treatment, destruction or re‑exportation may be supervised by an authorised officer.
+             (6)  If the owner of food arranges for a treatment, destruction or re-exportation in accordance with a notice under subsection (2), (3) or (4), that treatment, destruction or re-exportation may be supervised by an authorised officer.
 
-             (7)  If the owner of food that is required in a notice under subsection (2), (3) or (4) to be destroyed or re‑exported refuses or fails to arrange for the destruction or re‑exportation of the food in accordance with the notice, the food to which the notice relates is forfeited to the Commonwealth.
+             (7)  If the owner of food that is required in a notice under subsection (2), (3) or (4) to be destroyed or re-exported refuses or fails to arrange for the destruction or re-exportation of the food in accordance with the notice, the food to which the notice relates is forfeited to the Commonwealth.
 
-             (8)  The owner of food that is required in a notice under subsection (2), (3) or (4) to be destroyed or re‑exported must not intentionally refuse or fail to comply with the requirement to destroy or re‑export that food.
+             (8)  The owner of food that is required in a notice under subsection (2), (3) or (4) to be destroyed or re-exported must not intentionally refuse or fail to comply with the requirement to destroy or re-export that food.
 
                     Penalty:  $20,000.
 
@@ -790,11 +790,11 @@ Note:          The defendant bears an evidential burden in rel
 
            (12)  The owner of food seized and destroyed or disposed of under subsection (9) is liable to reimburse the Commonwealth the costs reasonably incurred in seizing and destroying or disposing of the food.
 
-           (13)  If the owner of food that is required in a notice under subsection (2), (3) or (4) to be destroyed or re‑exported fails to comply with the requirement to destroy or re‑export the food, the Secretary may direct, in writing, that authorised officers should not issue a food control certificate in respect of any other food imported into Australia by that owner.
+           (13)  If the owner of food that is required in a notice under subsection (2), (3) or (4) to be destroyed or re-exported fails to comply with the requirement to destroy or re-export the food, the Secretary may direct, in writing, that authorised officers should not issue a food control certificate in respect of any other food imported into Australia by that owner.
 
            (14)  In this section:
 
-                    <a name="owner"></a>**_owner_**, in relation to food that is permitted to be treated or required to be destroyed or re‑exported, means a person having a beneficial interest in the food other than a person who has such an interest only because he or she has been given a mortgage or charge, or has a lien over the goods.
+                    <a name="owner"></a>**_owner_**, in relation to food that is permitted to be treated or required to be destroyed or re-exported, means a person having a beneficial interest in the food other than a person who has such an interest only because he or she has been given a mortgage or charge, or has a lien over the goods.
 
 ## Part 3—Enforcement
 
@@ -982,7 +982,7 @@ contains the information.
 
              (6)  The authorised officer must leave the premises if the occupier asks the authorised officer to do so.
 
-##### <a id="26"></a>26  Offence‑related warrants
+##### <a id="26"></a>26  Offence-related warrants
 
              (1)  An authorised officer may apply to a magistrate for a warrant under this section in relation to particular premises.
 
@@ -1088,7 +1088,7 @@ whichever happens first, send the magistrate who signed the warrant the form of 
 
 the court must assume (unless the contrary is proved) that the entry, search, seizure, or other exercise of power, was not authorised by such a warrant.
 
-##### <a id="28"></a>28  Seizures without offence‑related warrant in emergency situations
+##### <a id="28"></a>28  Seizures without offence-related warrant in emergency situations
 
              (1)  This section applies when an authorised officer is on premises under section 23 or by virtue of a warrant issued under section 24.
 
@@ -1218,7 +1218,7 @@ Note:          For strict liability, see section 6.1 of the 
 
                      (b)  that the servant or agent had the state of mind.
 
-             (4)  Any conduct engaged in on behalf of a person, other than a body corporate, by a servant or agent of the person within the scope of his or her actual or apparent authority is to be taken, for the purposes of a prosecution for an offence against this Act, to have been engaged in also by the first‑mentioned person unless the first‑mentioned person establishes that the first‑mentioned person took reasonable precautions and exercised due diligence to avoid the conduct.
+             (4)  Any conduct engaged in on behalf of a person, other than a body corporate, by a servant or agent of the person within the scope of his or her actual or apparent authority is to be taken, for the purposes of a prosecution for an offence against this Act, to have been engaged in also by the first-mentioned person unless the first-mentioned person establishes that the first-mentioned person took reasonable precautions and exercised due diligence to avoid the conduct.
 
              (5)  If:
 
@@ -1274,7 +1274,7 @@ is admissible as _prima facie_ evidence of the matters in the certificate and of
 
              (4)  A certificate must not be admitted in evidence under subsection (2) in proceedings for an offence unless the person charged with the offence or a solicitor who has appeared for the person in those proceedings has, at least 14 days before the certificate is sought to be so admitted, been given a copy of the certificate together with reasonable notice of the intention to produce the certificate as evidence in the proceedings.
 
-             (5)  Subject to subsection (6), if, under subsection (2), a certificate of an analyst is admitted in evidence in a proceeding for an offence, the person charged with the offence may require the analyst to be called as a witness for the prosecution and the analyst may be cross‑examined as if he or she had given evidence of the matters stated in the certificate.
+             (5)  Subject to subsection (6), if, under subsection (2), a certificate of an analyst is admitted in evidence in a proceeding for an offence, the person charged with the offence may require the analyst to be called as a witness for the prosecution and the analyst may be cross-examined as if he or she had given evidence of the matters stated in the certificate.
 
              (6)  Subsection (5) does not entitle a person to require an analyst to be called as a witness for the prosecution unless:
 
@@ -1296,7 +1296,7 @@ is admissible as _prima facie_ evidence of the matters in the certificate and of
 
                             (ia)  has been identified in an imported food inspection advice as failing food; or
 
-                             (ii)  was treated, destroyed or re‑exported under section 20; and
+                             (ii)  was treated, destroyed or re-exported under section 20; and
 
                      (d)  information relating to health risks associated with that food.
 
@@ -1410,9 +1410,9 @@ until:
 
                      (c)  the issue of relevant documentation in respect of the food; or
 
-                     (d)  the supervision of the treatment, destruction or re‑exportation of the food; or
+                     (d)  the supervision of the treatment, destruction or re-exportation of the food; or
 
-                   (da)  the entering into a compliance agreement in respect of the food; or
+                    (da)  the entering into a compliance agreement in respect of the food; or
 
                      (e)  the provision of any other service that is prescribed for the purpose of this definition.
 
@@ -1552,7 +1552,7 @@ the results of such analysis are not reviewable by the Administrative Appeals Tr
 
 ##### <a id="43"></a>43  Regulations
 
-             (1)  The Governor‑General may make regulations prescribing matters:
+             (1)  The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted to be prescribed by this Act; or
 
@@ -1566,7 +1566,7 @@ the results of such analysis are not reviewable by the Administrative Appeals Tr
 
                              (ii)  the functions and powers of those committees; and
 
-                     (b)  prescribe requirements for the storage and transport of imported food that is required to be treated, destroyed or re‑exported; and
+                     (b)  prescribe requirements for the storage and transport of imported food that is required to be treated, destroyed or re-exported; and
 
                      (c)  prescribe penalties, not exceeding $1,000 for offences against the regulations.
 
@@ -1604,7 +1604,7 @@ For access to the wording of the amendments made by this Division, _see_ Act No.
 
 * * *
 
-# <span style="font-family:">Notes to the </span>_Imported Food Control Act 1992_
+# <span style="font-family:Arial">Notes to the </span>_Imported Food Control Act 1992_
 
 ### Note 1
 
@@ -1741,7 +1741,7 @@ Remainder: 1 July 1996 ( <i>see Gazette</i>1996, No. S230)</div>
     <div>24 Nov 2000</div>
   </td>
   <td>
-    <div>Ss. 1–3 and Schedule 1 (items 1, 4, 6, 7, 9–11, 32): Royal Assent 
+    <div>Ss. 1-3 and Schedule 1 (items 1, 4, 6, 7, 9–11, 32): Royal Assent 
 Remainder: 24 May 2001</div>
   </td>
   <td>
@@ -1816,30 +1816,13 @@ Schedule 3 (items 3–5): 1 July 2002 ( <i>see Gazette</i>2002, No. GN30) <i>(c)
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 7 (item 73): 19 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Imported Food Control Act 1992_ was amended by Schedule 6 (items 1 and 2) only of the _Primary Industries and Energy Legislation Amendment Act (No. 2) 1996_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-_(b)_     The _Imported Food Control Act 1992_ was amended by Schedule 4 only of the _Primary Industries and Energy Legislation Amendment Act (No. 2) 1997_, subsection 2(4) of which provides as follows:
+_(b)_    The _Imported Food Control Act 1992_ was amended by Schedule 4 only of the _Primary Industries and Energy Legislation Amendment Act (No. 2) 1997_, subsection 2(4) of which provides as follows:
 
                  (4)   The items of Schedules 4, 6, 7 and 8 commence on a day or days to be fixed by Proclamation.
 
@@ -1867,19 +1850,21 @@ _(c)_     The _Imported Food Control Act 1992_ was amended by Schedule 3
   <col width="66%">
 </colgroup>
 
-<tr>
-  <td colspan="2">
-    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Provision affected</div>
-  </td>
-  <td>
-    <div>How affected</div>
-  </td>
-</tr>
+<thead>
+  <tr>
+    <td colspan="2">
+      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Provision affected</div>
+    </td>
+    <td>
+      <div>How affected</div>
+    </td>
+  </tr>
+</thead>
 <tr>
   <td>
     <div><b>Part 1</b></div>
@@ -1901,7 +1886,7 @@ _(c)_     The _Imported Food Control Act 1992_ was amended by Schedule 3
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 152, 1995; No. 59, 1996; No. 4, 1999; No. 137, 2000; No. 81, 2001; No. 54, 2004; No. 33, 2009; No. 5, 2011</div>
+    <div>am. No. 152, 1995; No. 59, 1996; No. 4, 1999; No. 137, 2000; No. 81, 2001; No. 54, 2004; No. 33, 2009</div>
   </td>
 </tr>
 <tr>
@@ -2145,9 +2130,9 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000
 
 ## Schedule 2
 
-## 418  Transitional—pre‑commencement offences
+## 418  Transitional—pre-commencement offences
 
-(1)       Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
+(1)        Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
 
                      (a)  an offence committed before the commencement of this item; or
 
@@ -2157,9 +2142,9 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000
 
 as if the amendment or repeal had not been made.
 
-(2)       Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
+(2)        Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
 
-## 419  Transitional—pre‑commencement notices
+## 419  Transitional—pre-commencement notices
 
 If:
 
@@ -2167,9 +2152,9 @@ If:
 
                      (b)  any or all of those other provisions are repealed by this Schedule; and
 
-                     (c)  the first‑mentioned provision is amended by this Schedule;
+                     (c)  the first-mentioned provision is amended by this Schedule;
 
-the amendment of the first‑mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
+the amendment of the first-mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
 
 * * *
 
