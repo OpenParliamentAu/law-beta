@@ -1,48 +1,50 @@
-![](http://www.comlaw.gov.au/Details/C2008C00192/Html/CoralSea69_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00157/Html/98EB4F7F6FBD1120CA257154001553C6/$FILE/image001.gif)
 
 # Coral Sea Islands Act 1969
 
 **Act No. 58 of 1969 as amended**
 
-This compilation was prepared on 1 July 2008
- taking into account amendments up to Act No. 17 of 2006
+This compilation was prepared on 10 April 2006
+taking into account amendments up to Act No. 17 of 2006
 
 The text of any of those amendments not in force
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, Canberra
+
 
 # Contents
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        2
 
-[2](#2).            Interpretation
+[2](#2).            Interpretation                                                                                       2
 
-[3](#3).            Coral Sea Islands Territory
+[3](#3).            Coral Sea Islands Territory                                                                  2
 
-[4](#4).            Continuance of laws
+[4](#4).            Continuance of laws                                                                            2
 
-[5](#5).            Ordinances
+[5](#5).            Ordinances                                                                                           2
 
-[6](#6).            Application of Commonwealth Acts
+[6](#6).            Application of Commonwealth Acts                                                  3
 
-[7](#7).            Tabling of Ordinances
+[7](#7).            Tabling of Ordinances                                                                          3
 
-[7A](#7A).         Ordinance not to be re-made while required to be tabled
+[7A](#7A).         Ordinance not to be re-made while required to be tabled                    4
 
-[7B](#7B).         Ordinance not to be re-made while subject to disallowance
+[7B](#7B).         Ordinance not to be re-made while subject to disallowance                5
 
-[7C](#7C).         Disallowed Ordinance not to be re-made unless resolution rescinded or House approves
+[7C](#7C).         Disallowed Ordinance not to be re-made unless resolution rescinded or House approves     6
 
-[7D](#7D).         Regulations, rules and by-laws
+[7D](#7D).         Regulations, rules and by-laws                                                            6
 
-[8](#8).            Courts having jurisdiction in the Territory
+[8](#8).            Courts having jurisdiction in the Territory                                          7
 
 **Notes** 
+
 
 ## An Act to provide for the Government of certain Islands acquired by the Commonwealth
 
@@ -60,7 +62,7 @@ Preamble
 
                             (iv)  then north along that meridian to its intersection by the parallel of Latitude 22° 00´ South; and
 
-                             (v)  then west along that parallel to its intersection by the line following the outer edge of the Great  Barrier Reef; and
+                             (v)  then west along that parallel to its intersection by the line following the outer edge of the Great Barrier Reef; and
 
                             (vi)  then generally north-westerly along that line to the point of commencement; and
 
@@ -78,7 +80,7 @@ It is desirable to make provision for the government of those islands as one Ter
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
 
-                   This Act may be cited as the _Coral   Sea__Islands__Act 1969_.
+                   This Act may be cited as the _Coral Sea__Islands__Act 1969_.
 
 ##### <a id="2"></a>2  Interpretation
 
@@ -86,7 +88,7 @@ It is desirable to make provision for the government of those islands as one Ter
 
                     <a name="act"></a>**_Act_** does not include an enactment.
 
-                    <a name="enact"></a>**_enactment_** has the same meaning as in the _Australian   Capital Territory__(Self-Government) Act 1988_.
+                    <a name="enact"></a>**_enactment_** has the same meaning as in the _Australian Capital Territory__(Self-Government) Act 1988_.
 
                     <a name="ordin"></a>**_Ordinance_** means an Ordinance made under this Act.
 
@@ -94,7 +96,7 @@ It is desirable to make provision for the government of those islands as one Ter
 
              (2)  Where, for the purposes of this Act, it is necessary to determine the position on the surface of the Earth of a point, line or area, that position must be determined by reference to the Geocentric Datum of Australia (GDA) as defined in the _Gazette_ No. GN 35, 6 September 1995.
 
-##### <a id="3"></a>3  Coral   Sea Islands Territory
+##### <a id="3"></a>3  Coral Sea Islands Territory
 
                    The Coral Sea Islands, that is to say, the islands described in the Preamble, are declared to be a Territory by the name of Coral Sea Islands Territory.
 
@@ -166,7 +168,7 @@ the disallowance of the relevant Ordinance or the operation of subsection (1) 
 
              (3)  If a provision of an Ordinance is made in contravention of this section, the provision has not effect.
 
-##### <a id="7B"></a>7B  Ordinance not to be re-made while subject to disallowance
+##### <a id="7B"></a>7B  Ordinance not to be re-made while subject to disallowance
 
              (1)  Where notice of a motion to disallow an Ordinance has been given in a House of the Parliament within 15 sitting days after the Ordinance has been laid before that House, no Ordinance containing a provision being the same in substance as a provision of the first-mentioned Ordinance shall be made unless:
 
@@ -222,9 +224,10 @@ no Ordinance containing a provision being the same in substance as a provision o
 
              (1)  Subject to subsection (3), the courts of Norfolk Island have jurisdiction in and in relation to the Territory.
 
-             (2)  In the exercise of its jurisdiction under this section a court of Norfolk Island may sit in the Territory, in Norfolk  Island or in Australia.
+             (2)  In the exercise of its jurisdiction under this section a court of Norfolk Island may sit in the Territory, in Norfolk Island or in Australia.
 
-             (3)  Subsection (1) does not confer jurisdiction on the courts of Norfolk Island in relation to matters arising under or by virtue of the provisions of the _Offshore Petroleum Act 2006_.
+             (3)  Subsection (1) does not confer jurisdiction on the courts of Norfolk Island in relation to matters arising under or by virtue of the provisions of the _Petroleum (Submerged Lands) Act 1967_. 
+
 
 # Notes to the _Coral Sea Islands Act 1969_
 
@@ -250,11 +253,13 @@ The _Coral Sea__Islands__Act 1969_ as shown in this compilation comprises Act No
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -264,245 +269,249 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Coral Sea Islands Act 1969</div>
-  </td>
-  <td>
-    <div>58, 1969</div>
-  </td>
-  <td>
-    <div>2 Sept 1969</div>
-  </td>
-  <td>
-    <div>30 Sept 1969</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1973</div>
-  </td>
-  <td>
-    <div>216, 1973</div>
-  </td>
-  <td>
-    <div>19 Dec 1973</div>
-  </td>
-  <td>
-    <div>31 Dec 1973</div>
-  </td>
-  <td>
-    <div>Ss. 9(1) and 10</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Petroleum (Submerged Lands—Miscellaneous Amendments) Act 1981</div>
-  </td>
-  <td>
-    <div>79, 1981</div>
-  </td>
-  <td>
-    <div>18 June 1981</div>
-  </td>
-  <td>
-    <div>Parts III and IV (ss. 9–16): 14 Feb 1983 ( <i>see</i> s. 2(2) and <i>Gazette</i>1983, No.S29) 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Amendments) Act (No. 1) 1982</div>
-  </td>
-  <td>
-    <div>26, 1982</div>
-  </td>
-  <td>
-    <div>7 May 1982</div>
-  </td>
-  <td>
-    <div>Part XIX (ss. 146, 147): 4 June 1982 <i>(a)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i> Statute Law (Miscellaneous Amendments) Act (No. 2) 1982 </i></div>
-  </td>
-  <td>
-    <div>80, 1982</div>
-  </td>
-  <td>
-    <div>22 Sept 1982</div>
-  </td>
-  <td>
-    <div>Part LXXI (ss. 262, 263): <i>(b)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1983</div>
-  </td>
-  <td>
-    <div>39, 1983</div>
-  </td>
-  <td>
-    <div>20 June 1983</div>
-  </td>
-  <td>
-    <div>S. 3: 18 July 1983 <i>(c)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1984</div>
-  </td>
-  <td>
-    <div>72, 1984</div>
-  </td>
-  <td>
-    <div>25 June 1984</div>
-  </td>
-  <td>
-    <div>S. 3: 23 July 1984 <i>(d)</i></div>
-  </td>
-  <td>
-    <div>S. 5(1)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1985</div>
-  </td>
-  <td>
-    <div>65, 1985</div>
-  </td>
-  <td>
-    <div>5 June 1985</div>
-  </td>
-  <td>
-    <div>S. 3: 3 July 1985 <i>(e)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act (No. 2) 1986</div>
-  </td>
-  <td>
-    <div>168, 1986</div>
-  </td>
-  <td>
-    <div>18 Dec 1986</div>
-  </td>
-  <td>
-    <div>S. 3: Royal Assent <i>(f)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statutory Instruments (Tabling and Disallowance) Legislation Amendment Act 1988</div>
-  </td>
-  <td>
-    <div>99, 1988</div>
-  </td>
-  <td>
-    <div>2 Dec 1988</div>
-  </td>
-  <td>
-    <div>2 Dec 1988</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>A.C.T. Self-Government (Consequential Provisions) Act 1988</div>
-  </td>
-  <td>
-    <div>109, 1988</div>
-  </td>
-  <td>
-    <div>6 Dec 1988</div>
-  </td>
-  <td>
-    <div>S. 32 (in part): 11 May 1989 ( <i>see Gazette</i>1989, No. S164) <i>(g)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Environment, Sport and Territories Legislation Amendment Act 1997</div>
-  </td>
-  <td>
-    <div>118, 1997</div>
-  </td>
-  <td>
-    <div>7 July 1997</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 20, 21): Royal Assent <i>(h)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Offshore Petroleum (Repeals and Consequential Amendments) Act 2006</div>
-  </td>
-  <td>
-    <div>17, 2006</div>
-  </td>
-  <td>
-    <div>29 Mar 2006</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 12): 1 July 2008 ( <i>see</i>s. 2(1) and F2008L02273)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Coral Sea Islands Act 1969</div>
+    </td>
+    <td>
+      <div>58, 1969</div>
+    </td>
+    <td>
+      <div>2 Sept 1969</div>
+    </td>
+    <td>
+      <div>30 Sept 1969</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision Act 1973</div>
+    </td>
+    <td>
+      <div>216, 1973</div>
+    </td>
+    <td>
+      <div>19 Dec 1973</div>
+    </td>
+    <td>
+      <div>31 Dec 1973</div>
+    </td>
+    <td>
+      <div>Ss. 9(1) and 10</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Petroleum (Submerged Lands—Miscellaneous Amendments) Act 1981</div>
+    </td>
+    <td>
+      <div>79, 1981</div>
+    </td>
+    <td>
+      <div>18 June 1981</div>
+    </td>
+    <td>
+      <div>Parts III and IV (ss. 9–16): 14 Feb 1983 ( <i>see</i> s. 2(2) and <i>Gazette</i>1983, No.S29) 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Amendments) Act (No. 1) 1982</div>
+    </td>
+    <td>
+      <div>26, 1982</div>
+    </td>
+    <td>
+      <div>7 May 1982</div>
+    </td>
+    <td>
+      <div>Part XIX (ss. 146, 147): 4 June 1982 <i>(a)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>as amended by</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i> Statute Law (Miscellaneous Amendments) Act (No. 2) 1982 </i></div>
+    </td>
+    <td>
+      <div>80, 1982</div>
+    </td>
+    <td>
+      <div>22 Sept 1982</div>
+    </td>
+    <td>
+      <div>Part LXXI (ss. 262, 263): <i>(b)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1983</div>
+    </td>
+    <td>
+      <div>39, 1983</div>
+    </td>
+    <td>
+      <div>20 June 1983</div>
+    </td>
+    <td>
+      <div>S. 3: 18 July 1983 <i>(c)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1984</div>
+    </td>
+    <td>
+      <div>72, 1984</div>
+    </td>
+    <td>
+      <div>25 June 1984</div>
+    </td>
+    <td>
+      <div>S. 3: 23 July 1984 <i>(d)</i></div>
+    </td>
+    <td>
+      <div>S. 5(1)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1985</div>
+    </td>
+    <td>
+      <div>65, 1985</div>
+    </td>
+    <td>
+      <div>5 June 1985</div>
+    </td>
+    <td>
+      <div>S. 3: 3 July 1985 <i>(e)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Provisions) Act (No. 2) 1986</div>
+    </td>
+    <td>
+      <div>168, 1986</div>
+    </td>
+    <td>
+      <div>18 Dec 1986</div>
+    </td>
+    <td>
+      <div>S. 3: Royal Assent <i>(f)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statutory Instruments (Tabling and Disallowance) Legislation Amendment Act 1988</div>
+    </td>
+    <td>
+      <div>99, 1988</div>
+    </td>
+    <td>
+      <div>2 Dec 1988</div>
+    </td>
+    <td>
+      <div>2 Dec 1988</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>A.C.T. Self-Government (Consequential Provisions) Act 1988</div>
+    </td>
+    <td>
+      <div>109, 1988</div>
+    </td>
+    <td>
+      <div>6 Dec 1988</div>
+    </td>
+    <td>
+      <div>S. 32 (in part): 11 May 1989 ( <i>see Gazette</i>1989, No. S164) <i>(g)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Environment, Sport and Territories Legislation Amendment Act 1997</div>
+    </td>
+    <td>
+      <div>118, 1997</div>
+    </td>
+    <td>
+      <div>7 July 1997</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 20, 21): Royal Assent <i>(h)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Offshore Petroleum (Repeals and Consequential Amendments) Act 2006</div>
+    </td>
+    <td>
+      <div>17, 2006</div>
+    </td>
+    <td>
+      <div>29 Mar 2006</div>
+    </td>
+    <td>
+      <div>Schedule 2 (item 12): \[ <i>see</i>Note 2]</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 _(a)_     The _Coral Sea Islands Act 1969_ was amended by Part XIX (sections 146 and 147) only of the _Statute Law (Miscellaneous Amendments) Act (No. 1) 1982_, subsection 2(12) of which provides as follows:
 
@@ -536,6 +545,7 @@ _(h)_     The _Coral Sea__Islands__Act 1969_ was amended by Schedule 1
 
                  (1)   Subject to subsections (2), (3) and (4), this Act commences on the day on which it receives the Royal Assent.
 
+
 ## Table of Amendments
 
 <table>
@@ -559,61 +569,81 @@ _(h)_     The _Coral Sea__Islands__Act 1969_ was amended by Schedule 1
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Preamble</div>
-  </td>
-  <td>
-    <div>am. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 72, 1984; No. 118, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 2</div>
-  </td>
-  <td>
-    <div>am. No. 72, 1984; No. 109, 1988; No. 118, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 216, 1973; No. 72, 1984; No. 65, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7</div>
-  </td>
-  <td>
-    <div>am. No. 26, 1982 (as am. by No. 80, 1982); No. 39, 1983; No. 65, 1985; No. 168, 1986; No. 99, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 7A–7D</div>
-  </td>
-  <td>
-    <div>ad. No. 99, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8</div>
-  </td>
-  <td>
-    <div>am. No. 79, 1981; No. 17, 2006</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Preamble</div>
+    </td>
+    <td>
+      <div>am. No. 216, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 72, 1984; No. 118, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 2</div>
+    </td>
+    <td>
+      <div>am. No. 72, 1984; No. 109, 1988; No. 118, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 3</div>
+    </td>
+    <td>
+      <div>am. No. 216, 1973; No. 72, 1984; No. 65, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 7</div>
+    </td>
+    <td>
+      <div>am. No. 26, 1982 (as am. by No. 80, 1982); No. 39, 1983; No. 65, 1985; No. 168, 1986; No. 99, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 7A–7D</div>
+    </td>
+    <td>
+      <div>ad. No. 99, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 8</div>
+    </td>
+    <td>
+      <div>am. No. 79, 1981</div>
+    </td>
+  </tr>
+</tbody></table>
+
+
+### Note 2
+
+_Offshore Petroleum (Repeals and Consequential Amendments) Act 2006 
+(No. 17, 2006)
+_
+
+The following amendment commences on proclamation:
+
+## Schedule 2
+
+## 12  Subsection 8(3)
+
+Omit “_Petroleum (Submerged Lands) Act 1967_”, substitute “_Offshore Petroleum Act 2006_”.
+
+As at 10 April 2006 the amendment is not incorporated in this compilation.
+
 
  
