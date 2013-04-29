@@ -1,7 +1,7 @@
 
 Health and Other Services (Compensation) Care Charges Act 1995
 Act No. 131 of 1995 as amended
-This compilation was prepared on 1 January 2002 taking into account amendments up to Act No. 150 of 2001
+This compilation was prepared on 15 August 2001 taking into account amendments up to Act No. 113 of 1997
 The text of any of those amendments not in force on that date is appended in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
   
@@ -15,7 +15,7 @@ Contents
 5	Charge on compensation in respect of reimbursements for professional services	2
 6	Charge on compensation amounts in respect of past payments of medicare benefit	2
 7	Charge on compensation in respect of reimbursements for nursing home care or residential care	5
-8	Charge on compensation in respect of past payments of nursing home benefit or residential care subsidy	5
+8	Charge on compensation in respect of past payments of nursing home benefit or residential care subsidy	6
 Notes		9
 An Act relating to charges in respect of certain compensation payments
   
@@ -70,6 +70,7 @@ Note:	So far as this section would not be a law imposing taxation or dealing wit
 	(c)	another judgment or settlement in respect of the claim is made after the end of the period of the bulk payment agreement.
 	(8)	Subsection (6) does not affect the validity of a payment of money pursuant to a notice under section 24 of the Health and Other Services (Compensation) Act 1995 if the payment occurred before the judgment or settlement referred to in that subsection was made.
 	(9)	This section does not apply if:
+	(a)	the judgment or settlement has been made before a notice under section 11 or 12 of the Health and Other Services (Compensation) Act 1995 in relation to the claim for compensation concerned would, apart from section 38 of that Act, have been required to be given to the Commission; and
 	(b)	the amount of compensation fixed by the judgment or settlement is a small amount; and
 	(c)	the amount of compensation so fixed is the entire amount of compensation for the injury to which the claim relates.
 Note:	For small amount see section 38 of the Health and Other Services (Compensation) Act 1995.
@@ -114,6 +115,7 @@ Note:	So far as this section would not be a law imposing taxation or dealing wit
 	(c)	another judgment or settlement in respect of the claim is made after the end of the period of the bulk payment agreement.
 	(8)	Subsection (6) does not affect the validity of a payment of money pursuant to a notice under section 24 of the Health and Other Services (Compensation) Act 1995 if the payment occurred before the judgment or settlement referred to in that subsection was made.
 	(9)	This section does not apply if:
+	(a)	the judgment or settlement has been made before a notice under section 11 or 12 of the Health and Other Services (Compensation) Act 1995 in relation to the claim for compensation concerned would, apart from section 38 of that Act, have been required to be given to the Commission; and
 	(b)	the amount of compensation fixed by the judgment or settlement is a small amount; and
 	(c)	the amount of compensation so fixed is the entire amount of compensation for the injury to which the claim relates.
 Note:	For small amount see section 38 of the Health and Other Services (Compensation) Act 1995.
@@ -134,24 +136,15 @@ Health and Other Services (Compensation) Care Charges Act 1995
 Aged Care (Compensation Amendments) Act 1997
 113, 1997
 7 July 1997
-(a)
+1 Oct 1997 (see Gazette 1997, Nos. GN36 and GN37) (a)
 —
-Health and Other Services (Compensation) Legislation Amendment Act 2001
-150, 2001
-1 Oct 2001
-Schedule 2: 1 Jan 2002 (see Gazette 2001, No. GN49) (b)
-—
-(a)	Section 2 of the Aged Care (Compensation Amendments) Act 1997 provides as follows:
+(a)	The Health and Other Services (Compensation) Care Charges Act 1995 was amended by Schedule 1 only of the Aged Care (Compensation Amendments) Act 1997, section 2 of which provides as follows:
 	2	This Act commences immediately after the commencement of the Aged Care Act 1997 (other than Division 1 of that Act).
-	The Aged Care Act 1997 (other than Division 1) commenced on 1 October 1997 (see Gazette 1997, No. GN37).
-(b)	The Health and Other Services (Compensation) Care Charges Act 1995 was amended by Schedule 2 only of the Health and Other Services (Compensation) Legislation Amendment Act 2001, subsection 2(1) of which provides as follows:
-	(1)	Subject to subsections (2), (3), (4) and (5), this Act commences on a day to be fixed by Proclamation.
+	The Aged Care Act 1997 (other than Division 1) commenced on 1 October 1997 (see Gazette 1997, Nos. GN36 and GN37).
 Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
 How affected
-S. 6	
-am. No. 150, 2001
 Heading to s. 7 	
 am. No. 113, 1997
 S. 7	
@@ -159,5 +152,5 @@ am. No. 113, 1997
 Heading to s. 8	
 am. No. 113, 1997
 S. 8	
-am. No. 113, 1997; No. 150, 2001
+am. No. 113, 1997
 
