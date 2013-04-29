@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00050/Html/Quarantine1908_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00607/Html/Quarantine1908_WD02_image001.gif)
 
 # Quarantine Act 1908
 
 **Act No. 3 of 1908 as amended**
 
-This compilation was prepared on 3 February 2010
- taking into account amendments up to Act No. 131 of 2009
+This compilation was prepared on 26 November 2008
+ taking into account amendments up to Act No. 117 of 2008
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -6527,7 +6527,7 @@ Note:          The pilot will not be guilty of an offence if t
 
 Note:          The master will not be guilty of an offence if the entry of the vessel to the port was due to circumstances of sudden or extraordinary emergency (see section 10.3 of the _Criminal Code_).
 
-##### <a id="78A"></a>78A  Treatment of vessels and installations that are believed to be in an insanitary condition or to be likely to be carrying diseases or pests
+##### <a id="78A"></a>78A  Treatment of vessels and installations that are believed to be in an insanitary condition or to be likely to be carrying diseases or pests
 
              (1)  In this section:
 
@@ -7165,7 +7165,8 @@ the Commonwealth must pay the person the amount of compensation (if any) that is
 
 ### Note 1
 
-The _Quarantine Act 1908_ as shown in this compilation comprises Act No. 3, 1908 amended as indicated in the Tables below.
+The _Quarantine Act 1908_ as shown in this compilation comprises Act No. 
+ 3, 1908 amended as indicated in the Tables below.
 
 All relevant information pertaining to application, saving or transitional provisions prior to 30 June 1997 is not included in this compilation. For subsequent information _see_ Table A.
 
@@ -8482,23 +8483,6 @@ S. 2(1) (am. by 139, 2004, Sch. 3 \[item 7])</div>
   </td>
   <td>
     <div>Schedule 3 (items 55, 56): 22 Nov 2008</div>
-  </td>
-  <td colspan="2">
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Personal Property Securities (Consequential Amendments) Act 2009</div>
-  </td>
-  <td>
-    <div>131, 2009</div>
-  </td>
-  <td>
-    <div>14 Dec 2009</div>
-  </td>
-  <td>
-    <div>Schedule 5 (items 31–36): \[ <i>see</i>Note 2]</div>
   </td>
   <td colspan="2">
     <div>—</div>
@@ -12796,61 +12780,6 @@ _(r)_     Subsection 2(1) (item 4) of the _Agriculture, Fisheries and 
   </td>
 </tr></table>
 
-### Note 2
-
-_Personal Property Securities (Consequential Amendments) Act 2009
- (No. 131, 2009)_
-
-The following amendments commence on 1 February 2012 or an earlier time determined by the Minister (_see_ section 306 of the _Personal Property Securities Act 2009_):
-
-## Schedule 5
-
-## 31  Subsection 5(1)
-
-Insert:
-
-                    <a name="ppsa-secur-interest"></a>**_PPSA security interest_** means a security interest within the meaning of the _Personal Property Securities Act 2009_ and to which that Act applies, other than a transitional security interest within the meaning of that Act.
-
-Note 1:       The _Personal Property Securities Act 2009_ applies to certain security interests in personal property. See the following provisions of that Act:
-
-(a)    section 8 (interests to which the Act does not apply);
-
-(b)    section 12 (meaning of **_security interest_**);
-
-(c)    Chapter 9 (transitional provisions).
-
-Note 2:       For the meaning of **_transitional security interest_**, see section 308 of the _Personal Property Securities Act 2009_.
-
-## 32  Section 65
-
-Before “Any”, insert “(1)”.
-
-## 33  At the end of section 65
-
-Add:
-
-             (2)  While a vessel is detained under subsection (1), a person does not have the power of seizure provided for by section 123 of the _Personal Property Securities Act 2009_ in relation to the vessel.
-
-## 34  Subsection 69A(14)
-
-After “In this section”, insert “and subject to subsection (14A)”.
-
-## 35  Subsection 69A(14)
-
-After “in respect of the goods or premises”, insert “(other than a PPSA security interest)”.
-
-## 36  After subsection 69A(14)
-
-Insert:
-
-        (14A)  For the purposes of the definition of **_owner_** in subsection (14), a person who, or a partnership which, had an interest in the goods or premises at the time of their destruction does not include a person or partnership if the person or partnership:
-
-                     (a)  holds a PPSA security interest in the goods or premises; but
-
-                     (b)  is not in possession or control of the goods or premises at that time.
-
-As at 3 February 2010 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -13213,7 +13142,7 @@ A Proclamation made under paragraph 13(1)(g) or (ga) of the _Quarantine Act 1908
 
 A Proclamation made under paragraph 13(1)(h) of the _Quarantine Act 1908_ that was in force immediately before the date of commencement of item 39 of this Schedule continues in force, on and after that date, as if it had been made under paragraph 13(1)(h) of that Act as amended by that item.
 
-## 70  Saving of Proclamations
+## 70  Saving of Proclamations
 
 A Proclamation made under subsection of 20B(1) of the _Quarantine Act 1908_ that was in force immediately before the date of commencement of item 69 of this Schedule continues in force on and after that date, as if it had been made under subsection 20B(1) of that Act as substituted by that item.
 
@@ -13245,8 +13174,7 @@ The amendment made by item 1 of this Schedule applies to quarantine fees that 
 
 * * *
 
-_Quarantine Amendment (National Health Security) Act 2008 
- (No. 68, 2008)_
+_Quarantine Amendment (National Health Security) Act 2008 (No. 68, 2008)_
 
 ## Schedule 2
 
