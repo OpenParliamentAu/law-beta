@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00396/Html/647ff030-061f-4afc-b25d-611e310c4f3e_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00188/Html/0ee43641-f52f-4814-b614-3ac3e581626c_files/image001.gif)
 
 # Qantas Sale Act 1992
 
 **Act No. 196 of 1992 as amended**
 
-This compilation was prepared on 20 April 2012
+This compilation was prepared on 31 January 2012
  taking into account amendments up to Act No. 127 of 2011
 
 The text of any of those amendments not in force 
@@ -392,7 +392,7 @@ under which the carriage by air of people or goods, or both people and goods, be
 
                      (b)  from a place outside Australia to a place within Australia.
 
-                    <a name="regist-busi-name"></a>**_registered business name_** means a name that is registered under a law of a State or Territory that relates to the registration of business names on the Business Names Register established and maintained under section 22 of the _Business Names Registration Act 2011_.
+                    <a name="regist-busi-name"></a>**_registered business name_** means a name that is registered under a law of a State or Territory that relates to the registration of business names.
 
                     <a name="regular-public-transport-oper"></a>**_regular public transport operation_** means an operation of an aircraft for the purpose of an air service that:
 
@@ -1018,7 +1018,7 @@ cease to apply to the employee on the day on which this section commences.
 
 Australian Airlines is entitled to be paid an amount equal to the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00396/Html/647ff030-061f-4afc-b25d-611e310c4f3e_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00188/Html/0ee43641-f52f-4814-b614-3ac3e581626c_files/image002.gif)
 
 where:
 
@@ -1040,7 +1040,7 @@ where:
 
 then Qantas or the subsidiary, as the case may be, is entitled to be paid the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00396/Html/647ff030-061f-4afc-b25d-611e310c4f3e_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00188/Html/0ee43641-f52f-4814-b614-3ac3e581626c_files/image003.gif)
 
 where:
 
@@ -1521,7 +1521,7 @@ Remainder: Royal Assent</div>
     <div>3 Nov 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (item 25): 20 Apr 2012 ( <i>see</i>s. 2(1))</div>
+    <div>Schedule 2 (item 25): \[ <i>see</i>s. 2(1) and Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -1648,7 +1648,7 @@ _(h)_ The _Qantas Sale Act 1992_ was amended by Schedule 3 (items 444–457)
     <div>S. 7</div>
   </td>
   <td>
-    <div>am. No. 168, 1994; No. 44, 1995; No. 156, 1999; No. 55, 2001; No. 21, 2007; Nos. 46 and 127, 2011</div>
+    <div>am. No. 168, 1994; No. 44, 1995; No. 156, 1999; No. 55, 2001; No. 21, 2007; No. 46, 2011</div>
   </td>
 </tr>
 <tr>
@@ -1923,6 +1923,20 @@ _(h)_ The _Qantas Sale Act 1992_ was amended by Schedule 3 (items 444–457)
     <div>am. Nos. 5 and 168, 1994</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Business Names Registration (Transitional and Consequential Provisions) Act 2011 (No. 127, 2011)_
+
+The following amendment commences at the same time as section 3 of the _Business Names Registration Act 2011_:
+
+## Schedule 2
+
+## 25  Subsection 7(7) (definition of _registered business name_)
+
+After “under a law of a State or Territory that relates to the registration of business names”, substitute “on the Business Names Register established and maintained under section 22 of the _Business Names Registration Act 2011_”.
+
+As at 31 January 2012 the amendment is not incorporated in this compilation.
 
 ## Table A
 
