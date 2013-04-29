@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00278/Html/19add6ec-4a3d-41ae-8681-bfb788269923_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00871/Html/WineAusCorp1980_WD02_image001.gif)
 
 # Wine Australia Corporation Act 1980
 
 **Act No. 161 of 1980 as amended**
 
-This compilation was prepared on 19 April 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 21 December 2010
+ taking into account amendments up to Act No. 148 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -110,9 +110,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [29S](#29S).        Resolutions without meetings
 
-[29T](#29T).        Staff and consultants
+[29T](#29T).       Staff and consultants
 
-[29TA](#29TA).     Annual report
+[29TA](#29TA).    Annual report
 
 **Part IVB—Annual general meeting of the industry**
 
@@ -126,7 +126,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [29Y](#29Y).       Conduct of annual general meeting
 
-[29ZA](#29ZA).     Minister to be notified of resolutions
+[29ZA](#29ZA).    Minister to be notified of resolutions
 
 **Part V—Staff**
 
@@ -200,7 +200,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [39H](#39H).       Details required under section 39F
 
-[39J](#39J).        Offences relating to record‑keeping requirements
+[39J](#39J).        Offences relating to record-keeping requirements
 
 [39K](#39K).       Offences relating to requirement to provide and keep a copy of a record in relation to the supply of wine goods
 
@@ -208,7 +208,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [39M](#39M).      Single wines and blends etc 
 
-[39ZAA](#39ZAA).  Corporation may require records
+[39ZAA](#39ZAA). Corporation may require records
 
 [39ZAB](#39ZAB).  Failure to comply with section 39ZAA notice
 
@@ -216,21 +216,21 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
     **Division 3—Inspection**
 
-[39ZA](#39ZA).     Appointment of inspectors
+[39ZA](#39ZA).    Appointment of inspectors
 
 [39ZB](#39ZB).     Identity cards
 
 [39ZC](#39ZC).     Monitoring powers of inspectors—exercised with consent
 
-[39ZD](#39ZD).     Monitoring warrants
+[39ZD](#39ZD).    Monitoring warrants
 
 [39ZE](#39ZE).     Offence powers of inspectors—exercised with consent
 
 [39ZF](#39ZF).     Offence related warrants
 
-[39ZG](#39ZG).     Discovery of evidence
+[39ZG](#39ZG).    Discovery of evidence
 
-[39ZH](#39ZH).     Power to require persons to answer questions and produce documents
+[39ZH](#39ZH).    Power to require persons to answer questions and produce documents
 
 [39ZI](#39ZI).      Search warrants by telephone and other electronic means
 
@@ -240,7 +240,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [39ZJ](#39ZJ).      Corporation to assist enforcement of laws on description of wine
 
-[39ZK](#39ZK).     Proceedings not to lie against Corporation etc 
+[39ZK](#39ZK).    Proceedings not to lie against Corporation etc 
 
 [39ZL](#39ZL).     Corporation may assist in relation to levy
 
@@ -308,7 +308,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [40R](#40R).       Applications for determinations
 
-        **Subdivision D—Objections to determination of geographical indications based on pre‑existing trade mark rights**
+        **Subdivision D—Objections to determination of geographical indications based on pre-existing trade mark rights**
 
 [40RA](#40RA).    Notice to be given of proposed geographical indication
 
@@ -330,7 +330,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [40S](#40S).        Consultation by the Committee
 
-[40T](#40T).        Making of determinations
+[40T](#40T).       Making of determinations
 
 [40U](#40U).       Interim determination
 
@@ -342,29 +342,29 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [40Y](#40Y).       Review of final determination
 
-[40Z](#40Z).        Date of effect of final determination
+[40Z](#40Z).       Date of effect of final determination
 
     **Division 4A—Omission of Australian registered geographical indications** 
 
         **Subdivision A—What this Division is about**
 
-[40ZAA](#40ZAA).  What this Division is about
+[40ZAA](#40ZAA). What this Division is about
 
-        **Subdivision B—Omission of Australian GIs for non‑use**
+        **Subdivision B—Omission of Australian GIs for non-use**
 
 [40ZAB](#40ZAB).  Power of Committee to determine that an Australian GI should be omitted from the Register
 
 [40ZAC](#40ZAC).  Application
 
-[40ZAD](#40ZAD).  Further information concerning an application
+[40ZAD](#40ZAD). Further information concerning an application
 
 [40ZAE](#40ZAE).  Notice by Committee
 
 [40ZAF](#40ZAF).  Determination by Committee
 
-[40ZAG](#40ZAG).  Notice of determination
+[40ZAG](#40ZAG). Notice of determination
 
-[40ZAH](#40ZAH).  AAT review of a determination
+[40ZAH](#40ZAH). AAT review of a determination
 
 [40ZAI](#40ZAI).   Date of effect of determination to omit GI
 
@@ -372,21 +372,21 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [40ZAJ](#40ZAJ).   Application
 
-[40ZAK](#40ZAK).  Further information concerning an application
+[40ZAK](#40ZAK). Further information concerning an application
 
 [40ZAL](#40ZAL).  Notice by Committee
 
-[40ZAM](#40ZAM). Meaning of interested person
+40ZAM Meaning of interested person
 
-[40ZAN](#40ZAN).  Determination by Committee
+[40ZAN](#40ZAN). Determination by Committee
 
-[40ZAO](#40ZAO).  Notice of determination
+[40ZAO](#40ZAO). Notice of determination
 
 [40ZAP](#40ZAP).  Date of effect of determination to omit Australian GI
 
     **Division 4B—Foreign geographical indications and translations**
 
-[40ZAQ](#40ZAQ).  Determination of foreign geographical indications and translations
+[40ZAQ](#40ZAQ). Determination of foreign geographical indications and translations
 
 [40ZAR](#40ZAR).  Appeals against decisions of Registrar of Trade Marks
 
@@ -396,13 +396,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
     **Division 5—Register of Protected Geographical Indications and Other Terms**
 
-[40ZA](#40ZA).     Registrar
+[40ZA](#40ZA).    Registrar
 
 [40ZB](#40ZB).     Functions of Registrar
 
 [40ZC](#40ZC).     Register of Protected Geographical Indications and Other Terms
 
-[40ZD](#40ZD).     Contents of Register
+[40ZD](#40ZD).    Contents of Register
 
 [40ZE](#40ZE).     Inspection of Register
 
@@ -498,7 +498,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (d)  to improve the production of grape products, and encourage the consumption of grape products, in the Territories; and
 
-                     (e)  to enable Australia to fulfil its obligations under prescribed wine‑trading agreements and other international agreements;
+                     (e)  to enable Australia to fulfil its obligations under prescribed wine-trading agreements and other international agreements;
 
 and this Act shall be construed and administered accordingly.
 
@@ -512,7 +512,7 @@ and this Act shall be construed and administered accordingly.
 
                      (a)  if an agreement relating to trade in wine is in force between the European Community and Australia—an EC country; and
 
-                     (b)  if an agreement relating to trade in wine is in force between a foreign country (other than an EC country) and Australia and is declared by the regulations to be a prescribed wine‑trading agreement—that foreign country.
+                     (b)  if an agreement relating to trade in wine is in force between a foreign country (other than an EC country) and Australia and is declared by the regulations to be a prescribed wine-trading agreement—that foreign country.
 
                     <a name="annual-gener-meet"></a>**_annual general meeting_** means a meeting that the Corporation is required to convene under section 29W.
 
@@ -690,13 +690,13 @@ and this Act shall be construed and administered accordingly.
 
                      (b)  dried grapes; and
 
-                     (c)  grape juice, whether single‑strength or concentrated.
+                     (c)  grape juice, whether single-strength or concentrated.
 
-                    <a name="prescrib-wine-trade-agreem"></a>**_prescribed wine‑trading agreement_** means:
+                    <a name="prescrib-wine-trade-agreem"></a>**_prescribed wine-trading agreement_** means:
 
                      (a)  an agreement relating to trade in wine that is in force between the European Economic Community and Australia; or
 
-                     (b)  an agreement relating to trade in wine that is in force between a foreign country (other than an EC country) and Australia and is declared by the regulations to be a prescribed wine‑trading agreement.
+                     (b)  an agreement relating to trade in wine that is in force between a foreign country (other than an EC country) and Australia and is declared by the regulations to be a prescribed wine-trading agreement.
 
                     <a name="present"></a>**_presentation_**, in relation to wine, has a meaning affected by section 5C.
 
@@ -836,7 +836,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 ## Part II—Wine Australia Corporation
 
-##### <a id="6"></a>6  Establishment of Corporation
+##### <a id="6"></a>6  Establishment of Corporation
 
                    There is established by this Act a corporation by the name of the Wine Australia Corporation.
 
@@ -864,7 +864,7 @@ Specific powers
 
              (2)  Without limiting the generality of subsection (1), the powers of the Corporation referred to in that subsection include power:
 
-                  (aaa)  to do anything for the purpose of giving effect to a prescribed wine‑trading agreement; and
+                  (aaa)  to do anything for the purpose of giving effect to a prescribed wine-trading agreement; and
 
                     (aa)  to determine any conditions of use that are to be applicable to any registered geographical indications and any registered translations of such indications; and
 
@@ -874,7 +874,7 @@ Specific powers
 
                              (ii)  any conditions of use that are to be applicable to any or all of those expressions; and
 
-                   (ad)  to determine:
+                    (ad)  to determine:
 
                               (i)  in relation to Australia—any terms that are to be registered as additional terms in relation to wines originating in Australia (being terms that are required to be protected for the purpose of the description and presentation of wine); and
 
@@ -886,7 +886,7 @@ Specific powers
 
                      (a)  to control the export of grape products from Australia by determining the persons, other than the Corporation, who shall be permitted to export grape products and the conditions under which such exports will be permitted; and
 
-                     (b)  at the request of a person engaging, or proposing to engage, in the export of a grape product, to co‑ordinate activities relating to the promotion of the export of the grape product; and
+                     (b)  at the request of a person engaging, or proposing to engage, in the export of a grape product, to co-ordinate activities relating to the promotion of the export of the grape product; and
 
                      (c)  where a grape product proposed to be exported from Australia to a foreign country meets the requirements of that country for importation into that country, issue certificates that the product meets those requirements; and
 
@@ -924,7 +924,7 @@ Requirements for determinations by the Corporation
 
 Review of determinations
 
-          (2E)  Application may be made to the Administrative Appeals Tribunal for review of a determination.
+           (2E)  Application may be made to the Administrative Appeals Tribunal for review of a determination.
 
            (2F)  Section 29 of the _Administrative Appeals Tribunal Act 1975_ has effect in relation to an application for review of a determination as if the following subsections were inserted after subsection (1):
 
@@ -986,7 +986,7 @@ Note:          The _Commonwealth Authorities and Companies Act
 
              (2)  The members shall be appointed by the Minister in writing.
 
-             (3)  The members shall be appointed as part‑time members.
+             (3)  The members shall be appointed as part-time members.
 
              (4)  The Minister must not appoint a person to be a member referred to in paragraph (1)(c) unless the Minister is satisfied that the person has knowledge of, or experience in, one or more of the following:
 
@@ -1010,7 +1010,7 @@ Note:          The _Commonwealth Authorities and Companies Act
 
 ##### <a id="14"></a>14  Term of office of members
 
-             (1)  Subject to this Act, the Chairperson or a member referred to in paragraph 13(1)(c) holds office for such period, not exceeding 3 years, as is specified in the instrument of appointment, but he or she is eligible for re‑appointment.
+             (1)  Subject to this Act, the Chairperson or a member referred to in paragraph 13(1)(c) holds office for such period, not exceeding 3 years, as is specified in the instrument of appointment, but he or she is eligible for re-appointment.
 
              (5)  Whenever a vacancy occurs in the office of Chairperson or of a member referred to in paragraph 13(1)(c) before the expiration of the person’s term of office, the Minister may, in accordance with, and subject to, section 13, appoint a person to the office for the remainder of that period.
 
@@ -1020,7 +1020,7 @@ Note:          The _Commonwealth Authorities and Companies Act
 
              (2)  The Minister shall not appoint a member as the Deputy Chairperson unless the Minister has consulted with the Chairperson and the Presiding Member of the Selection Committee concerning the appointment.
 
-             (3)  Subject to this Act, the Deputy Chairperson holds office for such period as is specified in the instrument of appointment, but he or she is eligible for re‑appointment.
+             (3)  Subject to this Act, the Deputy Chairperson holds office for such period as is specified in the instrument of appointment, but he or she is eligible for re-appointment.
 
              (4)  The Minister may, at any time, terminate an appointment under subsection (1).
 
@@ -1166,11 +1166,11 @@ the Minister shall terminate the appointment of the member.
 
                      (b)  such other number of members as is determined by the Minister.
 
-             (2)  The members of the Committee shall be appointed in writing by the Minister and, subject to this Act, hold office for such period, not exceeding 3 years, as is specified in the instrument of appointment, but are eligible for re‑appointment.
+             (2)  The members of the Committee shall be appointed in writing by the Minister and, subject to this Act, hold office for such period, not exceeding 3 years, as is specified in the instrument of appointment, but are eligible for re-appointment.
 
              (3)  Each member of the Committee referred to in paragraph (1)(b) shall be a person who has been nominated by a declared winemakers organisation.
 
-             (4)  All members of the Committee shall be appointed as part‑time members.
+             (4)  All members of the Committee shall be appointed as part-time members.
 
              (5)  A person who is a member of the Corporation is not eligible to be appointed under subsection (2) as a member of the Committee.
 
@@ -1342,7 +1342,7 @@ Note:          The annual reporting obligations for the Corpor
 
                     (aa)  wine grapes levy; and
 
-                   (ab)  wine export charge; and
+                    (ab)  wine export charge; and
 
                      (a)  levy imposed under the old Levy Act; and
 
@@ -1438,7 +1438,7 @@ Note:          The annual reporting obligations for the Corpor
 
              (3)  The Minister shall include in the notice of request under paragraph (2)(b) a statement setting out the Minister’s reasons for making the request.
 
-             (4)  Where the Corporation receives a request under paragraph (2)(b), the Corporation shall consider the request and statement of reasons, make such revision of the corporate plan as it considers appropriate and re‑submit the revised plan to the Minister for the Minister’s agreement.
+             (4)  Where the Corporation receives a request under paragraph (2)(b), the Corporation shall consider the request and statement of reasons, make such revision of the corporate plan as it considers appropriate and re-submit the revised plan to the Minister for the Minister’s agreement.
 
              (5)  A corporate plan comes into force:
 
@@ -1504,11 +1504,11 @@ the plan shall continue in force on and after the day on which the Corporation r
 
                      (a)  agree to the plan; or
 
-                     (b)  if the Minister is of the opinion that the plan is inconsistent with the provisions of the corporate plan that relates, or the intended corporate plan that will relate, to a period that includes, or will include, the period to which the first‑mentioned plan will relate—request the Corporation to revise the first‑mentioned plan appropriately.
+                     (b)  if the Minister is of the opinion that the plan is inconsistent with the provisions of the corporate plan that relates, or the intended corporate plan that will relate, to a period that includes, or will include, the period to which the first-mentioned plan will relate—request the Corporation to revise the first-mentioned plan appropriately.
 
              (3)  The Minister shall include in the notice of a request under paragraph (2)(b) a statement setting out the Minister’s reasons for making the request.
 
-             (4)  Where the Corporation receives a request under paragraph (2)(b), the Corporation shall consider the request and statement of reasons, make such revision of the annual operational plan as it considers appropriate and re‑submit the revised plan to the Minister for the Minister’s agreement.
+             (4)  Where the Corporation receives a request under paragraph (2)(b), the Corporation shall consider the request and statement of reasons, make such revision of the annual operational plan as it considers appropriate and re-submit the revised plan to the Minister for the Minister’s agreement.
 
              (5)  An annual operational plan comes into force:
 
@@ -1574,19 +1574,19 @@ whichever is the later.
 
                     (aa)  amounts received by the Commonwealth as the Corporation’s component of wine grapes levy; and
 
-                   (ab)  so much of the amounts (if any) received by the Commonwealth under section 15 of the _Primary Industries Levies and Charges Collection Act 1991_ as is attributable to non‑payment of the Corporation’s component of wine grapes levy; and
+                    (ab)  so much of the amounts (if any) received by the Commonwealth under section 15 of the _Primary Industries Levies and Charges Collection Act 1991_ as is attributable to non-payment of the Corporation’s component of wine grapes levy; and
 
                     (ac)  amounts received by the Commonwealth as wine export charge; and
 
-                   (ad)  so much of the amounts (if any) received by the Commonwealth under section 15 of the _Primary Industries Levies and Charges Collection Act 1991_ as is attributable to non‑payment of wine export charge; and
+                    (ad)  so much of the amounts (if any) received by the Commonwealth under section 15 of the _Primary Industries Levies and Charges Collection Act 1991_ as is attributable to non-payment of wine export charge; and
 
                      (a)  so much of the amounts from time to time received by the Commonwealth as levy under the repealed _Wine Grapes Levy Act 1979_ as is so received by virtue of subsection 6(1), other than paragraph 6(1)(b) of that Act; and
 
-                     (b)  so much of the amounts (if any) received by the Commonwealth under section 5 of the repealed _Wine Grapes Levy Collection Act 1979_ or section 15 of the _Primary Industries Levies and Charges Collection Act 1991_ as is attributable to non‑payment of levy referred to in subsection 6(1), other than paragraph 6(1)(b), of the repealed _Wine Grapes Levy Act 1979_; and
+                     (b)  so much of the amounts (if any) received by the Commonwealth under section 5 of the repealed _Wine Grapes Levy Collection Act 1979_ or section 15 of the _Primary Industries Levies and Charges Collection Act 1991_ as is attributable to non-payment of levy referred to in subsection 6(1), other than paragraph 6(1)(b), of the repealed _Wine Grapes Levy Act 1979_; and
 
                      (c)  so much of the amounts from time to time received by the Commonwealth as charge under the repealed _Wine Export Charge Act 1997_ as is received because of section 6 of that Act; and
 
-                     (d)  so much of the amounts (if any) received by the Commonwealth under section 15 of the _Primary Industries Levies and Charges Collection Act 1991_ as is attributable to non‑payment of charge referred to in section 6 of the repealed _Wine Export Charge Act 1997_.
+                     (d)  so much of the amounts (if any) received by the Commonwealth under section 15 of the _Primary Industries Levies and Charges Collection Act 1991_ as is attributable to non-payment of charge referred to in section 6 of the repealed _Wine Export Charge Act 1997_.
 
 ##### <a id="33"></a>33  Payments by Corporation to Commonwealth
 
@@ -1636,17 +1636,17 @@ on terms and conditions that are specified in, or consistent with, the approval.
 
                              (ii)  the provision of credit;
 
-                            otherwise than in relation to a transaction that is in the ordinary course of the day‑to‑day operations of the Corporation shall be deemed to be a raising by the Corporation, otherwise than by borrowing, of an amount of money equal to the amount of the money paid or deposited or the value of the credit provided, as the case may be; and
+                            otherwise than in relation to a transaction that is in the ordinary course of the day-to-day operations of the Corporation shall be deemed to be a raising by the Corporation, otherwise than by borrowing, of an amount of money equal to the amount of the money paid or deposited or the value of the credit provided, as the case may be; and
 
-                     (b)  the obtaining of credit by the Corporation otherwise than in relation to a transaction that is in the ordinary course of the day‑to‑day operations of the Corporation shall be deemed to be a raising by the Corporation, otherwise than by borrowing, of an amount of money equal to the value of the credit so obtained.
+                     (b)  the obtaining of credit by the Corporation otherwise than in relation to a transaction that is in the ordinary course of the day-to-day operations of the Corporation shall be deemed to be a raising by the Corporation, otherwise than by borrowing, of an amount of money equal to the value of the credit so obtained.
 
              (7)  In this section, **_securities_** includes stocks, debentures, debenture stocks, notes, bonds, promissory notes, bills of exchange and similar instruments or documents.
 
              (8)  A reference in this section to dealing with securities includes a reference to:
 
-                     (a)  creating, executing, entering into, drawing, making, accepting, indorsing, issuing, discounting, selling, purchasing or re‑selling securities;
+                     (a)  creating, executing, entering into, drawing, making, accepting, indorsing, issuing, discounting, selling, purchasing or re-selling securities;
 
-                     (b)  creating, selling, purchasing or re‑selling rights or options in respect of securities; and
+                     (b)  creating, selling, purchasing or re-selling rights or options in respect of securities; and
 
                      (c)  entering into agreements or other arrangements relating to securities.
 
@@ -1670,7 +1670,7 @@ on terms and conditions that are specified in, or consistent with, the approval.
 
                     (aa)  in payment or discharge of the expenses, charges, obligations and liabilities incurred or undertaken by the Presiding Member of the Selection Committee or the Selection Committee in or in connection with the performance of the functions, or the exercise of the powers, of the Selection Committee under this Act;
 
-                   (ab)  in payment to the Commonwealth of amounts equal to the expenses incurred by the Commonwealth in relation to:
+                    (ab)  in payment to the Commonwealth of amounts equal to the expenses incurred by the Commonwealth in relation to:
 
                               (i)  the collection or recovery of amounts referred to in paragraph 32(aa), (ab), (ac), (ad), (a) or (b); or
 
@@ -1882,7 +1882,7 @@ Grape extract
 
                      (b)  the vintage, variety or prescribed geographical indication of each kind of grape.
 
-##### <a id="39J"></a>39J  Offences relating to record‑keeping requirements
+##### <a id="39J"></a>39J  Offences relating to record-keeping requirements
 
 Failure to keep a record in accordance with requirements
 
@@ -2336,7 +2336,7 @@ Offence for giving unexecuted form of warrant
 
 in relation to any loss incurred or damage suffered because of information or assistance given under section 39ZJ.
 
-##### <a id="39ZL"></a>39ZL  Corporation may assist in relation to levy 
+##### <a id="39ZL"></a>39ZL  Corporation may assist in relation to levy 
 
              (1)  The purpose of this section is to:
 
@@ -2346,9 +2346,9 @@ in relation to any loss incurred or damage suffered because of information or as
 
 the calculation and collection of:
 
-                   (ba)  wine grapes levy; or
+                    (ba)  wine grapes levy; or
 
-                   (bb)  wine export charge; or
+                    (bb)  wine export charge; or
 
                      (c)  levy imposed by the repealed _Wine Grapes Levy Act 1979_; or
 
@@ -2382,7 +2382,7 @@ the calculation and collection of:
 
                    The object of this Part is to regulate the sale, export and import of wine:
 
-                     (a)  for the purpose of enabling Australia to fulfil its obligations under prescribed wine‑trading agreements and other international agreements; and
+                     (a)  for the purpose of enabling Australia to fulfil its obligations under prescribed wine-trading agreements and other international agreements; and
 
                      (b)  for certain other purposes for which the Parliament has power to make laws;
 
@@ -2520,7 +2520,7 @@ Inclusion of registered quality wine term
 
 then the description and presentation is not false merely because it includes the registered quality wine term.
 
-Wine originating in non‑agreement country
+Wine originating in non-agreement country
 
              (2)  The description and presentation of wine that originates in a foreign country that is not an agreement country is not false merely because it includes a term that is a registered traditional expression if:
 
@@ -2568,7 +2568,7 @@ Definition of **protection date**
 
                      (a)  if the traditional expression is registered in relation to an agreement country under paragraph 40ZD(2A)(a):
 
-                              (i)  unless subparagraph (ii) applies—the date on which the prescribed wine‑trading agreement to which that country is a party was signed; or
+                              (i)  unless subparagraph (ii) applies—the date on which the prescribed wine-trading agreement to which that country is a party was signed; or
 
                              (ii)  if that agreement is modified after that date to include the traditional expression and paragraph (b) does not apply—the date on which the agreement is so modified; or
 
@@ -2844,11 +2844,11 @@ National food standard modified
 
              (1)  A national food standard that applies to wine has effect, in relation to wine that originates in any foreign country, as if any requirement in the standard to comply with particular oenological practices or processes, or compositional requirements, in relation to wine were replaced by a requirement to comply with the replacement practices, processes or requirements under either subsection (1A) or (1B).
 
-Practices, processes and requirements set out in wine‑trading agreements
+Practices, processes and requirements set out in wine-trading agreements
 
           (1A)  The replacement practices, processes or requirements under this subsection are:
 
-                     (a)  subject to paragraph (b), the oenological practices or processes, or compositional requirements, set out in a prescribed wine‑trading agreement as in force or existing from time to time; or
+                     (a)  subject to paragraph (b), the oenological practices or processes, or compositional requirements, set out in a prescribed wine-trading agreement as in force or existing from time to time; or
 
                      (b)  if, in accordance with such an agreement, Australia has been notified of the authorisation of modifications of the oenological practices or processes, or compositional requirements, set out in the agreement—the oenological practices or processes, or compositional requirements, as so modified.
 
@@ -2906,9 +2906,9 @@ Minister may suspend operation of section
 
              (1)  This Division deals with the determining of geographical indications (**_GIs_**) in relation to a region or locality in Australia.
 
-Note:          Geographical indications, and translations of such indications, in relation to wine originating in a foreign country are not determined under this Division. They are determined by the Committee under regulations made for the purposes of Division 4B (unless they are in a prescribed wine‑trading agreement).
+Note:          Geographical indications, and translations of such indications, in relation to wine originating in a foreign country are not determined under this Division. They are determined by the Committee under regulations made for the purposes of Division 4B (unless they are in a prescribed wine-trading agreement).
 
-             (2)  Subdivisions B and C deal with the powers of the Committee and applications for the determination of GIs. Subdivision D deals with objections to the determination of a GI on the basis of pre‑existing trade mark rights. GIs are determined under Subdivision E.
+             (2)  Subdivisions B and C deal with the powers of the Committee and applications for the determination of GIs. Subdivision D deals with objections to the determination of a GI on the basis of pre-existing trade mark rights. GIs are determined under Subdivision E.
 
              (3)  The regulations may modify the operation of this Division to remove any inconsistency with the operation of regulations made for the purposes of Division 4B.
 
@@ -2942,7 +2942,7 @@ Note:          Geographical indications, and translations of s
 
                       (f)  a grower of wine grapes.
 
-#### Subdivision D—Objections to determination of geographical indications based on pre‑existing trade mark rights
+#### Subdivision D—Objections to determination of geographical indications based on pre-existing trade mark rights
 
 ##### <a id="40RA"></a>40RA  Notice to be given of proposed geographical indication
 
@@ -3132,7 +3132,7 @@ Note:          If the Registrar of Trade Marks makes a decisio
 
                      (a)  admit further evidence orally, or on affidavit or otherwise;
 
-                     (b)  permit the examination and cross‑examination of witnesses, including witnesses who gave evidence before the Registrar of Trade Marks;
+                     (b)  permit the examination and cross-examination of witnesses, including witnesses who gave evidence before the Registrar of Trade Marks;
 
                      (c)  order an issue of fact to be tried as it directs;
 
@@ -3158,7 +3158,7 @@ Note:          If the Registrar of Trade Marks makes a decisio
 
                      (a)  create or affect a right under the _Trade Marks Act 1995_ or at common law in respect of a trade mark; or
 
-                     (b)  in any way pre‑empt or affect a decision of the Registrar of Trade Marks under the _Trade Marks Act 1995_ in respect of a pending application for the registration of a trade mark.
+                     (b)  in any way pre-empt or affect a decision of the Registrar of Trade Marks under the _Trade Marks Act 1995_ in respect of a pending application for the registration of a trade mark.
 
 #### Subdivision E—Determinations of geographical indications
 
@@ -3198,7 +3198,7 @@ If grounds for objection made out and a decision is made under section 40RE
 
                      (c)  the decision standing after the appeals and reviews have been finalised is that the ground no longer exists.
 
-##### <a id="40S"></a>40S  Consultation by the Committee
+##### <a id="40S"></a>40S  Consultation by the Committee
 
                    In determining a geographical indication, the Committee:
 
@@ -3296,7 +3296,7 @@ Note:          Subsection 40ZD(3) also deals with changes to t
 
              (3)  The regulations may modify the operation of this Division to remove any inconsistency with the operation of regulations made for the purposes of Division 4B.
 
-#### Subdivision B—Omission of Australian GIs for non‑use
+#### Subdivision B—Omission of Australian GIs for non-use
 
 ##### <a id="40ZAB"></a>40ZAB  Power of Committee to determine that an Australian GI should be omitted from the Register
 
@@ -3530,7 +3530,7 @@ Role of Registrar of Trade Marks
 
                      (a)  admit further evidence orally, or on affidavit or otherwise;
 
-                     (b)  permit the examination and cross‑examination of witnesses, including witnesses who gave evidence before the Registrar of Trade Marks;
+                     (b)  permit the examination and cross-examination of witnesses, including witnesses who gave evidence before the Registrar of Trade Marks;
 
                      (c)  order an issue of fact to be tried as it directs;
 
@@ -3556,7 +3556,7 @@ Role of Registrar of Trade Marks
 
                      (a)  create or affect a right under the _Trade Marks Act 1995_ or at common law in respect of a trade mark; or
 
-                     (b)  in any way pre‑empt or affect a decision of the Registrar of Trade Marks under the _Trade Marks Act 1995_ in respect of a pending application for the registration of a trade mark.
+                     (b)  in any way pre-empt or affect a decision of the Registrar of Trade Marks under the _Trade Marks Act 1995_ in respect of a pending application for the registration of a trade mark.
 
 ##### <a id="40ZAT"></a>40ZAT  Determinations for the omission from the Register of foreign geographical indications and translations
 
@@ -3638,9 +3638,9 @@ Particulars that must be included in Part 1 of the Register
 
                      (b)  in relation to an agreement country:
 
-                              (i)  each geographical indication that, under a prescribed wine‑trading agreement to which that country is a party, is a geographical indication in relation to wines originating in that country; and
+                              (i)  each geographical indication that, under a prescribed wine-trading agreement to which that country is a party, is a geographical indication in relation to wines originating in that country; and
 
-                             (ii)  any translation, recognised by that wine‑trading agreement, of each such geographical indication; and
+                             (ii)  any translation, recognised by that wine-trading agreement, of each such geographical indication; and
 
                             (iii)  any region or locality in relation to which each such geographical indication is to be registered; and
 
@@ -3662,13 +3662,13 @@ Particulars that must be included in Part 2 of the Register
 
                      (a)  in relation to an agreement country:
 
-                              (i)  each traditional expression that is listed in relation to wines originating in that country in a prescribed wine‑trading agreement to which that country is a party; and
+                              (i)  each traditional expression that is listed in relation to wines originating in that country in a prescribed wine-trading agreement to which that country is a party; and
 
-                             (ii)  each wine originating in that country that is listed in that wine‑trading agreement in relation to each such traditional expression; and
+                             (ii)  each wine originating in that country that is listed in that wine-trading agreement in relation to each such traditional expression; and
 
-                            (iii)  each category of wine that is listed in that wine‑trading agreement in relation to each such traditional expression; and
+                            (iii)  each category of wine that is listed in that wine-trading agreement in relation to each such traditional expression; and
 
-                            (iv)  each language that is listed in that wine‑trading agreement in relation to each such traditional expression; and
+                            (iv)  each language that is listed in that wine-trading agreement in relation to each such traditional expression; and
 
                              (v)  any conditions of use applicable to each such traditional expression;
 
@@ -3688,7 +3688,7 @@ Particulars that must be included in Part 3 of the Register
 
           (2B)  The Registrar must include in Part 3 of the Register (quality wine terms), in accordance with the directions of the Corporation, the following particulars:
 
-                     (a)  each term (a **_quality wine term_**) that, under a prescribed wine‑trading agreement to which Australia is a party, is a quality wine term in relation to wines originating in Australia;
+                     (a)  each term (a **_quality wine term_**) that, under a prescribed wine-trading agreement to which Australia is a party, is a quality wine term in relation to wines originating in Australia;
 
                      (b)  any region or locality in relation to which each such term is to be registered;
 
@@ -3700,7 +3700,7 @@ Particulars that must be included in Part 4 of the Register
 
                      (a)  in relation to Australia:
 
-                              (i)  each term (other than a geographical indication or a quality wine term) that, under a prescribed wine‑trading agreement to which Australia is a party, is required to be protected for the purpose of the description and presentation of wine originating in Australia; and
+                              (i)  each term (other than a geographical indication or a quality wine term) that, under a prescribed wine-trading agreement to which Australia is a party, is required to be protected for the purpose of the description and presentation of wine originating in Australia; and
 
                              (ii)  any other term that the Corporation has determined is required to be protected for the purpose of the description and presentation of wine originating in Australia; and
 
@@ -3710,7 +3710,7 @@ Particulars that must be included in Part 4 of the Register
 
                      (b)  in relation to an agreement country:
 
-                              (i)  each term (other than a geographical indication, a translation of a geographical indication, or a traditional expression) that, under a prescribed wine‑trading agreement to which that country is a party, is required to be protected for the purpose of the description and presentation of wine originating in that country; and
+                              (i)  each term (other than a geographical indication, a translation of a geographical indication, or a traditional expression) that, under a prescribed wine-trading agreement to which that country is a party, is required to be protected for the purpose of the description and presentation of wine originating in that country; and
 
                              (ii)  any region or locality in relation to which each such term is to be registered; and
 
@@ -3750,7 +3750,7 @@ the Corporation may direct the Registrar to omit the entry from the Register, to
 
              (1)  The Registrar must ensure that the Register is available for inspection at the office of the Registrar by any person during ordinary hours of business of that office.
 
-             (2)  To the extent that the Register is kept by use of a computer, subsection (1) is complied with by giving members of the public access to a computer terminal that they can use to inspect the particulars constituting the Register, either on a screen or in the form of a computer print‑out.
+             (2)  To the extent that the Register is kept by use of a computer, subsection (1) is complied with by giving members of the public access to a computer terminal that they can use to inspect the particulars constituting the Register, either on a screen or in the form of a computer print-out.
 
              (3)  The Registrar may supply a copy of the Register or part of the Register to a person on payment of the prescribed fee.
 
@@ -3792,9 +3792,9 @@ the person shall not be paid remuneration or allowances under this Act but shall
 
                      (a)  a member of the Parliament of a State (other than a State referred to in subsection (6)); or
 
-                     (b)  in the service or employment of a State or an authority of a State, or holds or performs the duties of any office or position established by or under a law of a State, on a full‑time basis;
+                     (b)  in the service or employment of a State or an authority of a State, or holds or performs the duties of any office or position established by or under a law of a State, on a full-time basis;
 
-it is a condition of the person’s holding the office under this Act held by the person that the person pay to the State, within one month of receiving an amount of remuneration under this Act, an amount equal to that first‑mentioned amount, and the person:
+it is a condition of the person’s holding the office under this Act held by the person that the person pay to the State, within one month of receiving an amount of remuneration under this Act, an amount equal to that first-mentioned amount, and the person:
 
                      (c)  shall not be paid allowances under this Act; and
 
@@ -3804,7 +3804,7 @@ it is a condition of the person’s holding the office under this Act held by th
 
              (9)  In this section:
 
-                    <a name="parliam"></a>**_Parliament_**, in relation to the Northern Territory, means the Legislative Assembly of the Northern Territory.
+                    <a name="parliam"></a>**_Parliament_**, in relation to the Northern   Territory, means the Legislative Assembly of the Northern Territory.
 
                     <a name="state"></a>**_State_** includes the Northern Territory.
 
@@ -3898,7 +3898,7 @@ Note:          The Federal Court may grant an injunction under
 
                      (b)  that the servant or agent had the state of mind.
 
-             (4)  Any conduct engaged in on behalf of a natural person by a servant or agent of the person within the scope of his or her actual or apparent authority is to be taken, for the purposes of a prosecution for an offence against this Act, to have been engaged in also by the first‑mentioned person unless the first‑mentioned person establishes that the first‑mentioned person took reasonable precautions to avoid the conduct.
+             (4)  Any conduct engaged in on behalf of a natural person by a servant or agent of the person within the scope of his or her actual or apparent authority is to be taken, for the purposes of a prosecution for an offence against this Act, to have been engaged in also by the first-mentioned person unless the first-mentioned person establishes that the first-mentioned person took reasonable precautions to avoid the conduct.
 
              (5)  Where:
 
@@ -3930,7 +3930,7 @@ the person is not liable to be punished by imprisonment for that offence.
 
 ##### <a id="46"></a>46  Regulations
 
-             (1)  The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed or necessary or convenient to be prescribed for carrying out or giving effect to this Act, and, in particular:
+             (1)  The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed or necessary or convenient to be prescribed for carrying out or giving effect to this Act, and, in particular:
 
                      (a)  making provision with respect to annual general meetings including, in particular, provisions in respect of:
 
@@ -3948,7 +3948,7 @@ the person is not liable to be punished by imprisonment for that offence.
 
                             (vi)  the confidentiality of voting at such meetings; and
 
-                     (b)  requiring the doing of acts or things necessary to be done for the purpose of giving effect to a prescribed wine‑trading agreement; and
+                     (b)  requiring the doing of acts or things necessary to be done for the purpose of giving effect to a prescribed wine-trading agreement; and
 
                      (c)  prohibiting the export of a grape product from Australia except subject to and in accordance with prescribed conditions, including, in particular:
 
@@ -4008,7 +4008,7 @@ the person is not liable to be punished by imprisonment for that offence.
 
 ##### <a id="50"></a>50  Instrument etc. not liable to stamp duty etc.
 
-                   An instrument or document that the Secretary of the Department of Primary Industry or an officer of that Department authorized by him or her in writing for the purpose of this section certifies to have been made, executed or given by reason of, or for a purpose connected with or arising out of, the operation of this Part is not liable to stamp duty or other tax under a law of the Commonwealth or of a State or Territory.
+                   An instrument or document that the Secretary to the Department of Primary Industry or an officer of that Department authorized by him or her in writing for the purpose of this section certifies to have been made, executed or given by reason of, or for a purpose connected with or arising out of, the operation of this Part is not liable to stamp duty or other tax under a law of the Commonwealth or of a State or Territory.
 
 ##### <a id="51"></a>51  Application of moneys of Corporation
 
@@ -4062,7 +4062,7 @@ the person is not liable to be punished by imprisonment for that offence.
 
                      (d)  any other member prescribed by the regulations for the purposes of this paragraph.
 
-             (2)  The members of the Committee are to be appointed on a part‑time basis.
+             (2)  The members of the Committee are to be appointed on a part-time basis.
 
              (3)  The appointment of a member of the Committee is not ineffective only because of a defect or irregularity in, or in connection with, the member’s nomination or appointment.
 
@@ -4202,7 +4202,7 @@ The _Wine Australia Corporation Act 1980_ as shown in this compilation comprises
 
 All relevant information pertaining to application, saving or transitional provisions prior to 14 May 1999 is not included in this compilation. For subsequent information _see_ Table A.
 
-The _Wine Australia Corporation Act 1980_ was modified by the A.C.T. Self‑Government (Consequential Provisions) Regulations (1989 No. 3 as amended) _see_ Table B.
+The _Wine Australia Corporation Act 1980_ was modified by the A.C.T. Self-Government (Consequential Provisions) Regulations (1989 No. 3 as amended) _see_ Table B.
 
 ### Table of Acts
 
@@ -4810,36 +4810,19 @@ Schedule 3 (item 18): 1 Sept 2010</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 7 (item 148): 19 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Wine Australia Corporation Act 1980_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1984_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
 
-_(b)_     The _Wine Australia Corporation Act 1980_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1984_, subsection 2(7) of which provides as follows:
+_(b)_    The _Wine Australia Corporation Act 1980_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1984_, subsection 2(7) of which provides as follows:
 
                  (7)   The amendment of the _Australian Wine and Brandy Corporation Act 1980_ made by this Act shall come into operation the day on which this Act receives the Royal Assent.
 
 _(c)_     The _Wine Australia Corporation Act 1980_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
 
 _(d)_     The _Wine Australia Corporation Act 1980_ was amended by section 3 only of the _Primary Industries (Recovery of Levy Collection Expenses) Act 1988_, subsection 2(1) of which provides as follows:
 
@@ -6504,7 +6487,7 @@ _(l)_      The _Wine Australia Corporation Act 1980_ was amended by Sc
 </tr>
 <tr>
   <td>
-    <div>Renumbered s. 41A .......</div>
+    <div>Renumbered s. 41A ........</div>
   </td>
   <td>
     <div>No. 93, 1993</div>
@@ -7477,7 +7460,7 @@ Part VIB</div>
     <div>S. 50</div>
   </td>
   <td>
-    <div>am. No. 73, 2008; No. 5, 2011</div>
+    <div>am. No. 73, 2008</div>
   </td>
 </tr>
 <tr>
@@ -7587,9 +7570,9 @@ _Australian Wine and Brandy Corporation Amendment Act 2010
 
 ## 77  Application of item 37
 
-(1)       Subject to subitem (2), the amendment made by item 37 of this Schedule applies in relation to wine that is sold, exported or imported on or after the commencement of this Schedule.
+(1)        Subject to subitem (2), the amendment made by item 37 of this Schedule applies in relation to wine that is sold, exported or imported on or after the commencement of this Schedule.
 
-(2)       If, before the commencement of this Schedule, wine has been exported from a foreign country for import into Australia, the amendment made by item 37 of this Schedule does not apply in relation to the sale or import of that wine on or after that commencement.
+(2)        If, before the commencement of this Schedule, wine has been exported from a foreign country for import into Australia, the amendment made by item 37 of this Schedule does not apply in relation to the sale or import of that wine on or after that commencement.
 
 ## 78  Application of items 39 to 41
 
@@ -7607,9 +7590,9 @@ The amendment of section 40ZA of the _Australian Wine and Brandy Corporation A
 
 ## 36  Application of amendments
 
-(1)       The amendments made by this Schedule apply in relation to any event, circumstance or state of affairs that is required to be recorded under section 39F of the _Australian Wine and Brandy Corporation Act 1980_ (as inserted by item 28 of this Schedule) that occurs on or after the commencement of this Schedule.
+(1)        The amendments made by this Schedule apply in relation to any event, circumstance or state of affairs that is required to be recorded under section 39F of the _Australian Wine and Brandy Corporation Act 1980_ (as inserted by item 28 of this Schedule) that occurs on or after the commencement of this Schedule.
 
-(2)       Despite the amendments made by this Schedule to provisions of the _Australian Wine and Brandy Corporation Act 1980_, those provisions (as in force immediately before the commencement of this Schedule) continue to apply (after that time) to records that are required to be made and kept under Division 2 of Part VIA of that Act immediately before that time.
+(2)        Despite the amendments made by this Schedule to provisions of the _Australian Wine and Brandy Corporation Act 1980_, those provisions (as in force immediately before the commencement of this Schedule) continue to apply (after that time) to records that are required to be made and kept under Division 2 of Part VIA of that Act immediately before that time.
 
 ## 37  Preservation of instruments
 
@@ -7718,7 +7701,7 @@ The amendment made by item 15 of this Schedule applies to conduct engaged in, 
 
 ### Modifications
 
-_A.C.T. Self‑Government (Consequential Provisions) Regulations _
+_A.C.T. Self-Government (Consequential Provisions) Regulations _
 
 ##### Subsection 40(9) (renumbered section 41A):
 
@@ -7728,9 +7711,9 @@ _A.C.T. Self‑Government (Consequential Provisions) Regulations _
 
                     <a name="parliam"></a>**_Parliament_** means:
 
-                     (a)  in relation to the Australian Capital Territory—the Legislative Assembly for the Territory; and
+                     (a)  in relation to the Australian   Capital Territory—the Legislative Assembly for the Territory; and
 
-                     (b)  in relation to the Northern Ter  ritory—the Legislative Assembly of the Territory;
+                     (b)  in relation to the Northern   Territory—the Legislative Assembly of the Territory;
 
                     <a name="state"></a>**_State_** includes the Australian Capital   Territory and the Northern Territory.
 
