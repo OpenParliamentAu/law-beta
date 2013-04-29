@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00197/Html/EvidenceAct1995_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00005/Html/EvidenceAct1995_WD02_image001.gif)
 
 # Evidence Act 1995
 
 **Act No. 2 of 1995 as amended**
 
-This compilation was prepared on 26 May 2009
- taking into account amendments up to Act No. 33 of 2009
+This compilation was prepared on 1 January 2009
+ taking into account amendments up to Act No. 135 of 2008
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -1548,7 +1548,7 @@ Note 2:       Section 182 gives this section a wider application i
 
 ##### <a id="49"></a>49  Documents in foreign countries
 
-                   No paragraph of subsection 48(1) (other than paragraph 48(1)(a)) applies to a document that is in a foreign country unless:
+                   No paragraph of subsection 48(1) (other than paragraph 48(1)(a)) applies to a document that is in a foreign country unless:
 
                      (a)  the party who adduces evidence of the contents of the document in question has, not less than 28 days (or such other period as may be prescribed by the regulations or by rules of court) before the day on which the evidence is adduced, served on each other party a copy of the document proposed to be tendered; or
 
@@ -1576,7 +1576,7 @@ Note:          Section 182 gives the provisions of this Part
 
 ## Part 2.3—Other evidence
 
-##### <a id="52"></a>52  Adducing of other evidence not affected
+##### <a id="52"></a>52  Adducing of other evidence not affected
 
                    This Act (other than this Part) does not affect the operation of any Australian law or rule of practice so far as it permits evidence to be adduced in a way other than by witnesses giving evidence or documents being tendered in evidence.
 
@@ -1644,7 +1644,7 @@ Part 3.11 provides for the discretionary and mandatory exclusion of evidence e
 
                          The following diagram shows how this Chapter applies to particular evidence:
 
-![](http://www.comlaw.gov.au/Details/C2009C00197/Html/EvidenceAct1995_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00005/Html/EvidenceAct1995_WD02_image002.gif)
 
  
 
@@ -2638,7 +2638,7 @@ credibility evidence about the person who made the representation is not admissi
 
 ##### <a id="109"></a>109  Application
 
-                   This Part applies only in a criminal proceeding.
+                   This Part applies only in a criminal proceeding.
 
 ##### <a id="110"></a>110  Evidence about character of accused persons
 
@@ -3426,7 +3426,7 @@ the court must determine the objection by applying the provisions of Division 
 
                    In a criminal proceeding, the court must refuse to admit evidence adduced by the prosecutor if its probative value is outweighed by the danger of unfair prejudice to the defendant.
 
-##### <a id="138"></a>138  Discretion to exclude improperly or illegally obtained evidence
+##### <a id="138"></a>138  Discretion to exclude improperly or illegally obtained evidence
 
              (1)  Evidence that was obtained:
 
@@ -3944,7 +3944,7 @@ Note:          Section 182 gives this section a wider applic
 
 Note:          Section 182 gives this section a wider application in relation to Commonwealth records.
 
-##### <a id="162"></a>162  Lettergrams and telegrams
+##### <a id="162"></a>162  Lettergrams and telegrams
 
              (1)  If a document purports to contain a record of a message transmitted by means of a lettergram or telegram, it is presumed (unless evidence sufficient to raise doubt about the presumption is adduced) that the message was received by the person to whom it was addressed 24 hours after the message was delivered to a post office for transmission as a lettergram or telegram.
 
@@ -4789,7 +4789,7 @@ unless the court gives leave.
 
                      (e)  the power (if any) of the court to adjourn the hearing or to make another order or to give a direction in relation to the evidence.
 
-##### <a id="192A"></a>192A  Advance rulings and findings
+##### <a id="192A"></a>192A  Advance rulings and findings
 
                    Where a question arises in any proceedings, being a question about:
 
@@ -4975,7 +4975,7 @@ Note:          See clause 9 of Part 2 of the Dictionary fo
 
                      (b)  any of the following documents:
 
-                              (i)  a report of the passengers or crew on a ship or aircraft that has been communicated to Customs under section 64ACA or 64ACB of the _Customs Act 1901_;
+                              (i)  a report of the passengers or crew on a ship or aircraft that has been communicated to the Australian Customs Service under section 64ACA or 64ACB of the _Customs Act 1901_;
 
                             (ia)  a report relating to the passengers or crew on an aircraft or ship that has been communicated to the Department administered by the Minister who administers the _Migration Act 1958_ under Division 12B of Part 2 of that Act;
 
@@ -5710,23 +5710,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>Sch. 1 (items 
 95–99) and Sch. 2 (item 13)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Customs Legislation Amendment (Name Change) Act 2009</div>
-  </td>
-  <td>
-    <div>33, 2009</div>
-  </td>
-  <td>
-    <div>22 May 2009</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 30): 23 May 2009</div>
-  </td>
-  <td>
-    <div>—</div>
   </td>
 </tr></table>
 
@@ -7098,7 +7081,7 @@ of Part 4.6</div>
     <div>Dictionary</div>
   </td>
   <td>
-    <div>am. No. 34, 1997; Nos. 125 and 146, 1999; No. 9, 2000; No. 55, 2001; No. 64, 2002; No. 126, 2003; No. 135, 2008; No. 33, 2009</div>
+    <div>am. No. 34, 1997; Nos. 125 and 146, 1999; No. 9, 2000; No. 55, 2001; No. 64, 2002; No. 126, 2003; No. 135, 2008</div>
   </td>
 </tr></table>
 
