@@ -1,20 +1,23 @@
-![](http://www.comlaw.gov.au/Details/C2009C00305/Html/NavalDefence1910WD02_Version1_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00102/Html/C1B8035BBDC2DD01CA257141001493AD/$FILE/image001.gif)
 
 # Naval Defence Act 1910
 
 **Act No. 30 of 1910 as amended**
 
-This compilation was prepared on 8 July 2009
- taking into account amendments up to Act No. 54 of 2009
+This compilation was prepared on 27 March 2006
+taking into account amendments up to Act No. 3 of 2006
+and SLI 2006 No. 50
 
 The text of any of those amendments not in force 
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, 
+Canberra
+
 
 # Contents
 
@@ -76,11 +79,12 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Notes** 
 
+
 ## An Act relating to Naval Defence
 
 ## Part I—Introductory
 
-##### <a id="1"></a>1  Short title<span style="font-size:9.0pt; font-weight:normal"> [_see_ Note 1]</span>
+##### <a id="1"></a>1  Short title<span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt"> [_see_ Note 1]</span>
 
                    This Act may be cited as the _Naval Defence Act 1910_.
 
@@ -242,13 +246,15 @@ from the obligation to render, during a training period, the whole or part of th
 
              (1)  In this Part, unless the contrary intention appears:
 
+                    <a name="australian-fair-pai-condition-standard"></a>**_Australian Fair Pay and Conditions Standard_** has the meaning given by the _Workplace Relations Act 1996_.
+
                     <a name="authorized-person"></a>**_authorized person_** means a person appointed by the Minister in writing to be an authorized person for the purposes of this Part.
 
                     <a name="commonwealth-author"></a>**_Commonwealth authority_** means a company or other body corporate incorporated under a law of the Commonwealth or of a State or Territory, being a company or body corporate in which the Commonwealth has a controlling interest.
 
                     <a name="determin"></a>**_determination_** means a determination made under section 42A.
 
-                    <a name="nation-employ-standard"></a>**_National Employment Standards_** has the meaning given by the _Fair Work Act 2009_.
+                    <a name="industri-award"></a>**_industrial award_** means an award within the meaning of the _Workplace Relations Act 1996_.
 
 ##### <a id="42"></a>42  Employment of persons in civil capacity
 
@@ -276,7 +282,7 @@ and where, in a determination, provision is made in contravention of this subsec
 
                      (b)  any matter contained in any other instrument or writing as in force or existing at the time when the determination takes effect.
 
-             (7)  Nothing in this section affects the application of the _Fair Work Act 2009_ in relation to persons employed under the last preceding section.
+             (7)  Nothing in this section affects the application of the _Workplace Relations Act 1996_ in relation to persons employed under the last preceding section.
 
 ##### <a id="42C"></a>42C  Public Service Act not to apply
 
@@ -294,11 +300,11 @@ and where, in a determination, provision is made in contravention of this subsec
 
                      (b)  from and including that day, is employed by the Commonwealth authority specified in the declaration.
 
-             (3)  For the purpose of facilitating a transfer of persons to the employment of a Commonwealth authority, the Commonwealth authority may, notwithstanding anything in any other law, but subject to the National Employment Standards and any relevant national minimum wage order or industrial award, determine special terms or conditions of employment that are to apply in relation to the persons (other than terms and conditions with respect to superannuation).
+             (3)  For the purpose of facilitating a transfer of persons to the employment of a Commonwealth authority, the Commonwealth authority may, notwithstanding anything in any other law (other than the Australian Fair Pay and Conditions Standard or an industrial award), determine special terms or conditions of employment that are to apply in relation to the persons (other than terms and conditions with respect to superannuation).
 
 ## Part VII—Miscellaneous
 
-##### <a id="44B"></a>44B  Delegation<span style="font-size:9.0pt; font-weight:normal"> </span>
+##### <a id="44B"></a>44B  Delegation<span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt"> </span>
 
              (3)  The Chief of Navy may, by instrument in writing, delegate to an officer all or any of his powers under section 32A.
 
@@ -352,6 +358,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
              (3)  The power to make regulations contained in this section is in addition to any power to make regulations contained in the Defence Act.
 
+
 # Notes to the _Naval Defence Act 1910_
 
 ### Note 1
@@ -380,11 +387,13 @@ All relevant information pertaining to application, saving or transitional provi
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+</div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+</div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -394,451 +403,459 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Naval Defence Act 1910</div>
-  </td>
-  <td>
-    <div>30, 1910</div>
-  </td>
-  <td>
-    <div>25 Nov 1910</div>
-  </td>
-  <td>
-    <div>25 Nov 1910</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Naval Defence Act 1911</div>
-  </td>
-  <td>
-    <div>16, 1911</div>
-  </td>
-  <td>
-    <div>22 Dec 1911</div>
-  </td>
-  <td>
-    <div>22 Dec 1911</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Naval Defence Act 1912</div>
-  </td>
-  <td>
-    <div>21, 1912</div>
-  </td>
-  <td>
-    <div>24 Dec 1912</div>
-  </td>
-  <td>
-    <div>24 Dec 1912</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Naval Defence Act 1918</div>
-  </td>
-  <td>
-    <div>45, 1918</div>
-  </td>
-  <td>
-    <div>25 Dec 1918</div>
-  </td>
-  <td>
-    <div>25 Dec 1918</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1934</div>
-  </td>
-  <td>
-    <div>45, 1934</div>
-  </td>
-  <td>
-    <div>6 Aug 1934</div>
-  </td>
-  <td>
-    <div>6 Aug 1934</div>
-  </td>
-  <td>
-    <div>S. 8</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Commonwealth Public Service Act 1948</div>
-  </td>
-  <td>
-    <div>35, 1948</div>
-  </td>
-  <td>
-    <div>26 June 1948</div>
-  </td>
-  <td>
-    <div>1 Sept 1948 ( <i>see Gazette</i>1948, p. 3115)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Naval Defence Act 1949</div>
-  </td>
-  <td>
-    <div>72, 1949</div>
-  </td>
-  <td>
-    <div>28 Oct 1949</div>
-  </td>
-  <td>
-    <div>1 Jan 1950</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Naval Defence Act 1952</div>
-  </td>
-  <td>
-    <div>14,1952</div>
-  </td>
-  <td>
-    <div>30 May 1952</div>
-  </td>
-  <td>
-    <div>30 May 1952</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Naval Defence Act 1964</div>
-  </td>
-  <td>
-    <div>93, 1964</div>
-  </td>
-  <td>
-    <div>6 Nov 1964</div>
-  </td>
-  <td>
-    <div>6 Nov 1964</div>
-  </td>
-  <td>
-    <div>Ss. 5, 15(2), 17 and 18</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Naval Defence Act 1965</div>
-  </td>
-  <td>
-    <div>53, 1965</div>
-  </td>
-  <td>
-    <div>7 June 1965</div>
-  </td>
-  <td>
-    <div>7 June 1965</div>
-  </td>
-  <td>
-    <div>S. 2(2)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision (Decimal Currency) Act 1966</div>
-  </td>
-  <td>
-    <div>93, 1966</div>
-  </td>
-  <td>
-    <div>29 Oct 1966</div>
-  </td>
-  <td>
-    <div>1 Dec 1966</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Naval Defence Act 1968</div>
-  </td>
-  <td>
-    <div>24, 1968</div>
-  </td>
-  <td>
-    <div>22 May 1968</div>
-  </td>
-  <td>
-    <div>22 May 1968</div>
-  </td>
-  <td>
-    <div>S. 5(2)–(6)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Naval Defence Act 1971</div>
-  </td>
-  <td>
-    <div>14, 1971</div>
-  </td>
-  <td>
-    <div>5 Apr 1971</div>
-  </td>
-  <td>
-    <div>Ss. 3 and 4: 1 Jan 1973 ( <i>see Gazette</i>1972, No. 125, p 4) 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Ss. 4 and 5</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1973</div>
-  </td>
-  <td>
-    <div>216, 1973</div>
-  </td>
-  <td>
-    <div>19 Dec 1973</div>
-  </td>
-  <td>
-    <div>31 Dec 1973</div>
-  </td>
-  <td>
-    <div>Ss. 9(1) and 10</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Force Re-organization Act 1975</div>
-  </td>
-  <td>
-    <div>96, 1975</div>
-  </td>
-  <td>
-    <div>9 Sept 1975</div>
-  </td>
-  <td>
-    <div>Ss. 62, 63(a), (b), 64, 71, 73–77, 83, 85 and 88: 28 Oct 1975 ( <i>see Gazette</i>1975, No. G42, p. 2) <i>(a)</i> 
+<tbody>
+  <tr>
+    <td>
+      <div>Naval Defence Act 1910</div>
+    </td>
+    <td>
+      <div>30, 1910</div>
+    </td>
+    <td>
+      <div>25 Nov 1910</div>
+    </td>
+    <td>
+      <div>25 Nov 1910</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Naval Defence Act 1911</div>
+    </td>
+    <td>
+      <div>16, 1911</div>
+    </td>
+    <td>
+      <div>22 Dec 1911</div>
+    </td>
+    <td>
+      <div>22 Dec 1911</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Naval Defence Act 1912</div>
+    </td>
+    <td>
+      <div>21, 1912</div>
+    </td>
+    <td>
+      <div>24 Dec 1912</div>
+    </td>
+    <td>
+      <div>24 Dec 1912</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Naval Defence Act 1918</div>
+    </td>
+    <td>
+      <div>45, 1918</div>
+    </td>
+    <td>
+      <div>25 Dec 1918</div>
+    </td>
+    <td>
+      <div>25 Dec 1918</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision Act 1934</div>
+    </td>
+    <td>
+      <div>45, 1934</div>
+    </td>
+    <td>
+      <div>6 Aug 1934</div>
+    </td>
+    <td>
+      <div>6 Aug 1934</div>
+    </td>
+    <td>
+      <div>S. 8</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Commonwealth Public Service Act 1948</div>
+    </td>
+    <td>
+      <div>35, 1948</div>
+    </td>
+    <td>
+      <div>26 June 1948</div>
+    </td>
+    <td>
+      <div>1 Sept 1948 ( <i>see Gazette</i>1948, p. 3115)</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Naval Defence Act 1949</div>
+    </td>
+    <td>
+      <div>72, 1949</div>
+    </td>
+    <td>
+      <div>28 Oct 1949</div>
+    </td>
+    <td>
+      <div>1 Jan 1950</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Naval Defence Act 1952</div>
+    </td>
+    <td>
+      <div>14,1952</div>
+    </td>
+    <td>
+      <div>30 May 1952</div>
+    </td>
+    <td>
+      <div>30 May 1952</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Naval Defence Act 1964</div>
+    </td>
+    <td>
+      <div>93, 1964</div>
+    </td>
+    <td>
+      <div>6 Nov 1964</div>
+    </td>
+    <td>
+      <div>6 Nov 1964</div>
+    </td>
+    <td>
+      <div>Ss. 5, 15(2), 17 and 18</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Naval Defence Act 1965</div>
+    </td>
+    <td>
+      <div>53, 1965</div>
+    </td>
+    <td>
+      <div>7 June 1965</div>
+    </td>
+    <td>
+      <div>7 June 1965</div>
+    </td>
+    <td>
+      <div>S. 2(2)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision (Decimal Currency) Act 1966</div>
+    </td>
+    <td>
+      <div>93, 1966</div>
+    </td>
+    <td>
+      <div>29 Oct 1966</div>
+    </td>
+    <td>
+      <div>1 Dec 1966</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Naval Defence Act 1968</div>
+    </td>
+    <td>
+      <div>24, 1968</div>
+    </td>
+    <td>
+      <div>22 May 1968</div>
+    </td>
+    <td>
+      <div>22 May 1968</div>
+    </td>
+    <td>
+      <div>S. 5(2)–(6)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Naval Defence Act 1971</div>
+    </td>
+    <td>
+      <div>14, 1971</div>
+    </td>
+    <td>
+      <div>5 Apr 1971</div>
+    </td>
+    <td>
+      <div>Ss. 3 and 4: 1 Jan 1973 ( <i>see Gazette</i>1972, No. 125, p 4) 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>Ss. 4 and 5</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision Act 1973</div>
+    </td>
+    <td>
+      <div>216, 1973</div>
+    </td>
+    <td>
+      <div>19 Dec 1973</div>
+    </td>
+    <td>
+      <div>31 Dec 1973</div>
+    </td>
+    <td>
+      <div>Ss. 9(1) and 10</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Force Re-organization Act 1975</div>
+    </td>
+    <td>
+      <div>96, 1975</div>
+    </td>
+    <td>
+      <div>9 Sept 1975</div>
+    </td>
+    <td>
+      <div>Ss. 62, 63(a), (b), 64, 71, 73–77, 83, 85 and 88: 28 Oct 1975 ( <i>see Gazette</i>1975, No. G42, p. 2) <i>(a)</i> 
 Ss. 63(c), (d), 
 65–70, 72, 79–82, 84, 86 and 89: 9 Feb 1976 ( <i>see Gazette</i>1975, No. G42, p. 2) <i>(a)</i> 
-Ss. 78 and 87: 9 Feb 1976 ( <i>see Gazette</i>1976, No. S24) <i>(a)</i></div>
-  </td>
-  <td>
-    <div>Ss. 65(2), (4), (5), 68(2), (3), 69(2), 72(2), 74(2), 76(2), 81(2) and 82(2) 
-S. 65(3) (am. by 164, 1984, s. 120)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment Act 1984</div>
-  </td>
-  <td>
-    <div>164, 1984</div>
-  </td>
-  <td>
-    <div>25 Oct 1984</div>
-  </td>
-  <td>
-    <div>( <i>see</i>164, 1984 below)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Naval Defence Amendment Act 1979</div>
-  </td>
-  <td>
-    <div>133, 1979</div>
-  </td>
-  <td>
-    <div>23 Nov 1979</div>
-  </td>
-  <td>
-    <div>Ss. 4 and 7: 1 Jan 1985 ( <i>see</i>s. 2(2) and <i>Gazette</i>1981, No. S273, p. 2) 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>S. 7</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1981</div>
-  </td>
-  <td>
-    <div>61, 1981</div>
-  </td>
-  <td>
-    <div>12 June 1981</div>
-  </td>
-  <td>
-    <div>Part XV (ss. 
-61–72): 30 Sept 1983 ( <i>see Gazette</i>1983, No. S222) <i>(b)</i></div>
-  </td>
-  <td>
-    <div>S. 72</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Amendments) Act 
-(No. 2) 1982</div>
-  </td>
-  <td>
-    <div>80, 1982</div>
-  </td>
-  <td>
-    <div>22 Sept 1982</div>
-  </td>
-  <td>
-    <div>Part LXXVII (s. 280): Royal Assent <i>(c)</i></div>
-  </td>
-  <td>
-    <div>S. 280(2) and (3)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Force (Miscellaneous Provisions) Act 1982</div>
-  </td>
-  <td>
-    <div>153, 1982</div>
-  </td>
-  <td>
-    <div>31 Dec 1982</div>
-  </td>
-  <td>
-    <div>3 July 1985 ( <i>see</i>s. 2 and <i>Gazette</i>1985, No. S255)</div>
-  </td>
-  <td>
-    <div>S. 96</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment Act 1984</div>
-  </td>
-  <td>
-    <div>164, 1984</div>
-  </td>
-  <td>
-    <div>25 Oct 1984</div>
-  </td>
-  <td>
-    <div>( <i>see</i>164, 1984 below)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1983</div>
-  </td>
-  <td>
-    <div>39, 1983</div>
-  </td>
-  <td>
-    <div>20 June 1983</div>
-  </td>
-  <td>
-    <div>S. 3: 18 July 1983 <i>(d)</i></div>
-  </td>
-  <td>
-    <div>S. 7(1)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Conciliation and Arbitration Amendment Act (No. 2) 1983</div>
-  </td>
-  <td>
-    <div>115, 1983</div>
-  </td>
-  <td>
-    <div>16 Dec 1983</div>
-  </td>
-  <td>
-    <div>S. 41: 1 June 1984 ( <i>see Gazette</i>1984, No. S201) <i>(e)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment Act 1984</div>
-  </td>
-  <td>
-    <div>164, 1984</div>
-  </td>
-  <td>
-    <div>25 Oct 1984</div>
-  </td>
-  <td>
-    <div>Ss. 1, 2, 16–19, 
+Ss. 78 and 87: 9 Feb 1976 ( <i>see Gazette</i>1976, No. S24) <i>(a)</i> 
+
+</div>
+    </td>
+    <td>
+      <div>Ss. 65(2), (4), (5), 68(2), (3), 69(2), 72(2), 74(2), 76(2), 81(2) and 82(2) 
+S. 65(3) (am. by 164, 1984, s. 120) 
+</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>as amended by</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Legislation Amendment Act 1984</div>
+    </td>
+    <td>
+      <div>164, 1984</div>
+    </td>
+    <td>
+      <div>25 Oct 1984</div>
+    </td>
+    <td>
+      <div>( <i>see</i>164, 1984 below)</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Naval Defence Amendment Act 1979</div>
+    </td>
+    <td>
+      <div>133, 1979</div>
+    </td>
+    <td>
+      <div>23 Nov 1979</div>
+    </td>
+    <td>
+      <div>Ss. 4 and 7: 1 Jan 1985 ( <i>see</i>s. 2(2) and <i>Gazette</i>1981, No. S273, p. 2) 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>S. 7</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision Act 1981</div>
+    </td>
+    <td>
+      <div>61, 1981</div>
+    </td>
+    <td>
+      <div>12 June 1981</div>
+    </td>
+    <td>
+      <div>Part XV (ss. 
+61–72): 30 Sept 1983 ( <i>see Gazette</i>1983, No. S222) <i>(b)</i> 
+</div>
+    </td>
+    <td>
+      <div>S. 72</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Amendments) Act 
+(No. 2) 1982 
+</div>
+    </td>
+    <td>
+      <div>80, 1982</div>
+    </td>
+    <td>
+      <div>22 Sept 1982</div>
+    </td>
+    <td>
+      <div>Part LXXVII (s. 280): Royal Assent <i>(c)</i></div>
+    </td>
+    <td>
+      <div>S. 280(2) and (3)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Force (Miscellaneous Provisions) Act 1982</div>
+    </td>
+    <td>
+      <div>153, 1982</div>
+    </td>
+    <td>
+      <div>31 Dec 1982</div>
+    </td>
+    <td>
+      <div>3 July 1985 ( <i>see</i>s. 2 and <i>Gazette</i>1985, No. S255)</div>
+    </td>
+    <td>
+      <div>S. 96</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>as amended by</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Legislation Amendment Act 1984</div>
+    </td>
+    <td>
+      <div>164, 1984</div>
+    </td>
+    <td>
+      <div>25 Oct 1984</div>
+    </td>
+    <td>
+      <div>( <i>see</i>164, 1984 below)</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1983</div>
+    </td>
+    <td>
+      <div>39, 1983</div>
+    </td>
+    <td>
+      <div>20 June 1983</div>
+    </td>
+    <td>
+      <div>S. 3: 18 July 1983 <i>(d)</i></div>
+    </td>
+    <td>
+      <div>S. 7(1)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Conciliation and Arbitration Amendment Act (No. 2) 1983</div>
+    </td>
+    <td>
+      <div>115, 1983</div>
+    </td>
+    <td>
+      <div>16 Dec 1983</div>
+    </td>
+    <td>
+      <div>S. 41: 1 June 1984 ( <i>see Gazette</i>1984, No. S201) <i>(e)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Legislation Amendment Act 1984</div>
+    </td>
+    <td>
+      <div>164, 1984</div>
+    </td>
+    <td>
+      <div>25 Oct 1984</div>
+    </td>
+    <td>
+      <div>Ss. 1, 2, 16–19, 
 Part XIV (ss. 115, 116) and 120: Royal Assent 
 Ss. 23–70 and 72–78: 3 July 1985 ( <i>see</i>s. 2(4) and <i>Gazette</i>1985, No. S255) 
 S. 71: 31 Dec 1982 ( <i>see</i>s. 2(3)) 
@@ -848,575 +865,580 @@ Part XI (ss. 108, 109): 1 Jan 1985
 Part XV (ss. 
 117–119): 1 Aug 1984 ( <i>see</i>s. 2(8)) 
 S. 121: 1 Jan 1982 
-Remainder: 22 Nov 1984</div>
-  </td>
-  <td>
-    <div>Ss. 120(1), (3), 121 and 122</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act (No. 2) 1984</div>
-  </td>
-  <td>
-    <div>165, 1984</div>
-  </td>
-  <td>
-    <div>25 Oct 1984</div>
-  </td>
-  <td>
-    <div>S. 3: 22 Nov 1984 <i>(f)</i></div>
-  </td>
-  <td>
-    <div>S. 6(1)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1985</div>
-  </td>
-  <td>
-    <div>65, 1985</div>
-  </td>
-  <td>
-    <div>5 June 1985</div>
-  </td>
-  <td>
-    <div>S. 3: 3 July 1985 <i>(g)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1986</div>
-  </td>
-  <td>
-    <div>76, 1986</div>
-  </td>
-  <td>
-    <div>24 June 1986</div>
-  </td>
-  <td>
-    <div>S. 3: Royal Assent <i>(h)</i></div>
-  </td>
-  <td>
-    <div>S. 9</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment Act 1987</div>
-  </td>
-  <td>
-    <div>65, 1987</div>
-  </td>
-  <td>
-    <div>5 June 1987</div>
-  </td>
-  <td>
-    <div>Ss. 58, 61(1), 62 and 69(1): Royal Assent ( <i>j</i>) 
-Ss. 59, 60, 61(2), 63–68, 69(2) and 70: 1 July 1988 ( <i>see Gazette</i>1988, No. S173) <i>(j)</i></div>
-  </td>
-  <td>
-    <div>S. 64(2)–(5)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Industrial Relations (Consequential Provisions) Act 1988</div>
-  </td>
-  <td>
-    <div>87, 1988</div>
-  </td>
-  <td>
-    <div>8 Nov 1988</div>
-  </td>
-  <td>
-    <div>Ss. 1 and 2: Royal Assent 
-Remainder: 1 Mar 1989 ( <i>see</i>s. 2(2) and <i>Gazette</i>1989, No. S53)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment Act 1988</div>
-  </td>
-  <td>
-    <div>100, 1988</div>
-  </td>
-  <td>
-    <div>2 Dec 1988</div>
-  </td>
-  <td>
-    <div>Ss. 5 and 16: 1 July 1988 ( <i>see</i>s. 2 and <i>Gazette</i>1987, No. S173) 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Naval Defence Amendment Act 1988</div>
-  </td>
-  <td>
-    <div>101, 1988</div>
-  </td>
-  <td>
-    <div>2 Dec 1988</div>
-  </td>
-  <td>
-    <div>2 Dec 1988</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment Act (No. 2) 1988</div>
-  </td>
-  <td>
-    <div>104, 1988</div>
-  </td>
-  <td>
-    <div>6 Dec 1988</div>
-  </td>
-  <td>
-    <div>S. 18: 1 Sept 1989 ( <i>see Gazette</i>1989, No. S268) 
+Remainder: 22 Nov 1984 
+
+</div>
+    </td>
+    <td>
+      <div>Ss. 120(1), (3), 121 and 122</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Provisions) Act (No. 2) 1984</div>
+    </td>
+    <td>
+      <div>165, 1984</div>
+    </td>
+    <td>
+      <div>25 Oct 1984</div>
+    </td>
+    <td>
+      <div>S. 3: 22 Nov 1984 <i>(f)</i></div>
+    </td>
+    <td>
+      <div>S. 6(1)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1985</div>
+    </td>
+    <td>
+      <div>65, 1985</div>
+    </td>
+    <td>
+      <div>5 June 1985</div>
+    </td>
+    <td>
+      <div>S. 3: 3 July 1985 <i>(g)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1986</div>
+    </td>
+    <td>
+      <div>76, 1986</div>
+    </td>
+    <td>
+      <div>24 June 1986</div>
+    </td>
+    <td>
+      <div>S. 3: Royal Assent <i>(h)</i></div>
+    </td>
+    <td>
+      <div>S. 9</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Legislation Amendment Act 1987</div>
+    </td>
+    <td>
+      <div>65, 1987</div>
+    </td>
+    <td>
+      <div>5 June 1987</div>
+    </td>
+    <td>
+      <div>Ss. 58, 61(1), 62 and 69(1): Royal Assent ( <i>j</i>) 
+Ss. 59, 60, 61(2), 63–68, 69(2) and 70: 1 July 1988 ( <i>see Gazette</i>1988, No. S173) <i>(j)</i> 
+</div>
+    </td>
+    <td>
+      <div>S. 64(2)–(5)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Industrial Relations (Consequential Provisions) Act 1988</div>
+    </td>
+    <td>
+      <div>87, 1988</div>
+    </td>
+    <td>
+      <div>8 Nov 1988</div>
+    </td>
+    <td>
+      <div>Ss. 1 and 2: Royal Assent 
+Remainder: 1 Mar 1989 ( <i>see</i>s. 2(2) and <i>Gazette</i>1989, No. S53) 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Legislation Amendment Act 1988</div>
+    </td>
+    <td>
+      <div>100, 1988</div>
+    </td>
+    <td>
+      <div>2 Dec 1988</div>
+    </td>
+    <td>
+      <div>Ss. 5 and 16: 1 July 1988 ( <i>see</i>s. 2 and <i>Gazette</i>1987, No. S173) 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Naval Defence Amendment Act 1988</div>
+    </td>
+    <td>
+      <div>101, 1988</div>
+    </td>
+    <td>
+      <div>2 Dec 1988</div>
+    </td>
+    <td>
+      <div>2 Dec 1988</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Legislation Amendment Act (No. 2) 1988</div>
+    </td>
+    <td>
+      <div>104, 1988</div>
+    </td>
+    <td>
+      <div>6 Dec 1988</div>
+    </td>
+    <td>
+      <div>S. 18: 1 Sept 1989 ( <i>see Gazette</i>1989, No. S268) 
 S. 25: 1 Oct 1972 
 Ss. 29 and 36: 1 July 1978 
 Part IX (ss. 52, 53): 18 Dec 1987 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment Act 1990</div>
-  </td>
-  <td>
-    <div>75, 1990</div>
-  </td>
-  <td>
-    <div>22 Oct 1990</div>
-  </td>
-  <td>
-    <div>S. 3: <i>(k)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment Act (No. 2) 1990</div>
-  </td>
-  <td>
-    <div>21, 1991</div>
-  </td>
-  <td>
-    <div>5 Feb 1991</div>
-  </td>
-  <td>
-    <div>Ss. 10–13 and 16–18: 1 July 1990 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Prime Minister and Cabinet Legislation Amendment Act 1991</div>
-  </td>
-  <td>
-    <div>199, 1991</div>
-  </td>
-  <td>
-    <div>18 Dec 1991</div>
-  </td>
-  <td>
-    <div>18 Dec 1991</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Qantas Sale Act 1992</div>
-  </td>
-  <td>
-    <div>196, 1992</div>
-  </td>
-  <td>
-    <div>21 Dec 1992</div>
-  </td>
-  <td>
-    <div>Schedule (Part 1): 10 Mar 1993 ( <i>see Gazette</i>1993, No. GN17) <i>(l)</i> 
-Schedule (Part 5): 30 Aug 1995 ( <i>see Gazette</i>1995, No. S324) <i>(l)</i></div>
-  </td>
-  <td>
-    <div>S. 2(6) (am. by 60, 1993, s.4; 168, 1994, s. 3)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Qantas Sale Amendment Act 1993</div>
-  </td>
-  <td>
-    <div>60, 1993</div>
-  </td>
-  <td>
-    <div>3 Nov 1993</div>
-  </td>
-  <td>
-    <div>10 Mar 1993</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Qantas Sale Amendment Act 1994</div>
-  </td>
-  <td>
-    <div>168, 1994</div>
-  </td>
-  <td>
-    <div>16 Dec 1994</div>
-  </td>
-  <td>
-    <div>S. 3 (item 17): Royal Assent <i>(m)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment Act 1995</div>
-  </td>
-  <td>
-    <div>43, 1995</div>
-  </td>
-  <td>
-    <div>15 June 1995</div>
-  </td>
-  <td>
-    <div>Schedule 5: 1 Nov 1995 ( <i>see Gazette</i>1995, No. S361) <i>(n)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Workplace Relations and Other Legislation Amendment Act 1996</div>
-  </td>
-  <td>
-    <div>60, 1996</div>
-  </td>
-  <td>
-    <div>25 Nov 1996</div>
-  </td>
-  <td>
-    <div>Schedule 19 (item 32): Royal Assent <i>(o)</i></div>
-  </td>
-  <td>
-    <div>S. 2(2) and (6) (am. by 77, 1996, Sch. 3 \[items 1, 2])</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Workplace Relations and Other Legislation Amendment Act (No. 2) 1996</div>
-  </td>
-  <td>
-    <div>77, 1996</div>
-  </td>
-  <td>
-    <div>19 Dec 1996</div>
-  </td>
-  <td>
-    <div>Schedule 3 (items 1, 2): <i>(p)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation 
-Amendment Act (No. 1) 1997</div>
-  </td>
-  <td>
-    <div>No. 1, 1997</div>
-  </td>
-  <td>
-    <div>19 Feb 1997</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 14–20) and Schedule 3 (items 3, 4): 30 Apr 1997 ( <i>see</i> <i>Gazette</i>1997, No. S91) <i>(q) 
+Remainder: Royal Assent 
+
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Legislation Amendment Act 1990</div>
+    </td>
+    <td>
+      <div>75, 1990</div>
+    </td>
+    <td>
+      <div>22 Oct 1990</div>
+    </td>
+    <td>
+      <div>S. 3: <i>(k)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Legislation Amendment Act (No. 2) 1990</div>
+    </td>
+    <td>
+      <div>21, 1991</div>
+    </td>
+    <td>
+      <div>5 Feb 1991</div>
+    </td>
+    <td>
+      <div>Ss. 10–13 and 16–18: 1 July 1990 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Prime Minister and Cabinet Legislation Amendment Act 1991</div>
+    </td>
+    <td>
+      <div>199, 1991</div>
+    </td>
+    <td>
+      <div>18 Dec 1991</div>
+    </td>
+    <td>
+      <div>18 Dec 1991</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Qantas Sale Act 1992</div>
+    </td>
+    <td>
+      <div>196, 1992</div>
+    </td>
+    <td>
+      <div>21 Dec 1992</div>
+    </td>
+    <td>
+      <div>Schedule (Part 1): 10 Mar 1993 ( <i>see Gazette</i>1993, No. GN17) <i>(l)</i> 
+Schedule (Part 5): 30 Aug 1995 ( <i>see Gazette</i>1995, No. S324) <i>(l)</i> 
+</div>
+    </td>
+    <td>
+      <div>S. 2(6) (am. by 60, 1993, s.4; 168, 1994, s. 3)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>as amended by</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Qantas Sale Amendment Act 1993</div>
+    </td>
+    <td>
+      <div>60, 1993</div>
+    </td>
+    <td>
+      <div>3 Nov 1993</div>
+    </td>
+    <td>
+      <div>10 Mar 1993</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Qantas Sale Amendment Act 1994</div>
+    </td>
+    <td>
+      <div>168, 1994</div>
+    </td>
+    <td>
+      <div>16 Dec 1994</div>
+    </td>
+    <td>
+      <div>S. 3 (item 17): Royal Assent <i>(m)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Legislation Amendment Act 1995</div>
+    </td>
+    <td>
+      <div>43, 1995</div>
+    </td>
+    <td>
+      <div>15 June 1995</div>
+    </td>
+    <td>
+      <div>Schedule 5: 1 Nov 1995 ( <i>see Gazette</i>1995, No. S361) <i>(n)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Workplace Relations and Other Legislation Amendment Act 1996</div>
+    </td>
+    <td>
+      <div>60, 1996</div>
+    </td>
+    <td>
+      <div>25 Nov 1996</div>
+    </td>
+    <td>
+      <div>Schedule 19 (item 32): Royal Assent <i>(o)</i></div>
+    </td>
+    <td>
+      <div>S. 2(2) and (6) (am. by 77, 1996, Sch. 3 \[items 1, 2])</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>as amended by</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Workplace Relations and Other Legislation Amendment Act (No. 2) 1996</div>
+    </td>
+    <td>
+      <div>77, 1996</div>
+    </td>
+    <td>
+      <div>19 Dec 1996</div>
+    </td>
+    <td>
+      <div>Schedule 3 (items 1, 2): <i>(p)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Legislation 
+Amendment Act (No. 1) 1997 
+</div>
+    </td>
+    <td>
+      <div>No. 1, 1997</div>
+    </td>
+    <td>
+      <div>19 Feb 1997</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 14–20) and Schedule 3 (items 3, 4): 30 Apr 1997 ( <i>see</i> <i>Gazette</i>1997, No. S91) <i>(q) 
+
  </i>Schedule 2 (items 29–46): Royal Assent <i>(q)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment Act (No. 1) 1999</div>
-  </td>
-  <td>
-    <div>116, 1999</div>
-  </td>
-  <td>
-    <div>22 Sept 1999</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 13–24): 22 Mar 2000 <i>(r)</i> 
-Schedule 3 (item 2): Royal Assent <i>(r)</i></div>
-  </td>
-  <td>
-    <div>Sch. 2 (item 24) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
-  </td>
-  <td>
-    <div>146, 1999</div>
-  </td>
-  <td>
-    <div>11 Nov 1999</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 687–691): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(s)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment (Flexible Career Practices) Act 2000</div>
-  </td>
-  <td>
-    <div>113, 2000</div>
-  </td>
-  <td>
-    <div>5 Sept 2000</div>
-  </td>
-  <td>
-    <div>5 Mar 2001</div>
-  </td>
-  <td>
-    <div>S. 4 \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment (Aid to Civilian Authorities) Act 2000</div>
-  </td>
-  <td>
-    <div>119, 2000</div>
-  </td>
-  <td>
-    <div>12 Sept 2000</div>
-  </td>
-  <td>
-    <div>12 Sept 2000</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment (Enhancement of the Reserves and Modernisation) Act 2001</div>
-  </td>
-  <td>
-    <div>10, 2001</div>
-  </td>
-  <td>
-    <div>22 Mar 2001</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 12–15, 19, 27–31, 67, 68, 75–77): 22 Mar 2002 
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Legislation Amendment Act (No. 1) 1999</div>
+    </td>
+    <td>
+      <div>116, 1999</div>
+    </td>
+    <td>
+      <div>22 Sept 1999</div>
+    </td>
+    <td>
+      <div>Schedule 2 (items 13–24): 22 Mar 2000 <i>(r)</i> 
+Schedule 3 (item 2): Royal Assent <i>(r)</i> 
+</div>
+    </td>
+    <td>
+      <div>Sch. 2 (item 24) \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
+    </td>
+    <td>
+      <div>146, 1999</div>
+    </td>
+    <td>
+      <div>11 Nov 1999</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 687–691): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(s)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Legislation Amendment (Flexible Career Practices) Act 2000</div>
+    </td>
+    <td>
+      <div>113, 2000</div>
+    </td>
+    <td>
+      <div>5 Sept 2000</div>
+    </td>
+    <td>
+      <div>5 Mar 2001</div>
+    </td>
+    <td>
+      <div>S. 4 \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Legislation Amendment (Aid to Civilian Authorities) Act 2000</div>
+    </td>
+    <td>
+      <div>119, 2000</div>
+    </td>
+    <td>
+      <div>12 Sept 2000</div>
+    </td>
+    <td>
+      <div>12 Sept 2000</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Legislation Amendment (Enhancement of the Reserves and Modernisation) Act 2001</div>
+    </td>
+    <td>
+      <div>10, 2001</div>
+    </td>
+    <td>
+      <div>22 Mar 2001</div>
+    </td>
+    <td>
+      <div>Schedule 2 (items 12–15, 19, 27–31, 67, 68, 75–77): 22 Mar 2002 
 Schedule 3: 19 Apr 2001 ( <i>see</i>s. 2(4)) 
 Schedule 4: Royal Assent 
-Remainder: 19 Apr 2001</div>
-  </td>
-  <td>
-    <div>Sch. 2 (items 
-91–95) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment (Application of Criminal Code) Act 2001</div>
-  </td>
-  <td>
-    <div>141, 2001</div>
-  </td>
-  <td>
-    <div>1 Oct 2001</div>
-  </td>
-  <td>
-    <div>S. 4: Royal Assent 
-Schedule 1 (items 107–109): 15 Dec 2001</div>
-  </td>
-  <td>
-    <div>S. 4 and Sch. 1 (item 109) \[ <i>see</i>Table A] 
-S. 2(2) (am. by 135, 2003, Sch. 2 \[item 28])</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b> as amended by </b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment Act 2003</div>
-  </td>
-  <td>
-    <div>135, 2003</div>
-  </td>
-  <td>
-    <div>17 Dec 2003</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 28): <i>(t)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment Act 2003</div>
-  </td>
-  <td>
-    <div>135, 2003</div>
-  </td>
-  <td>
-    <div>17 Dec 2003</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 33–38): 17 June 2004</div>
-  </td>
-  <td>
-    <div>Sch. 2 (item 38) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment Act (No. 1) 2005</div>
-  </td>
-  <td>
-    <div>121, 2005</div>
-  </td>
-  <td>
-    <div>6 Oct 2005</div>
-  </td>
-  <td>
-    <div>Schedule 5: <i>(u) 
+Remainder: 19 Apr 2001 
+
+</div>
+    </td>
+    <td>
+      <div>Sch. 2 (items 
+91–95) \[ <i>see</i>Table A] 
+</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Legislation Amendment (Application of Criminal Code) Act 2001</div>
+    </td>
+    <td>
+      <div>141, 2001</div>
+    </td>
+    <td>
+      <div>1 Oct 2001</div>
+    </td>
+    <td>
+      <div>S. 4: Royal Assent 
+Schedule 1 (items 107–109): 15 Dec 2001 
+</div>
+    </td>
+    <td>
+      <div>S. 4 and Sch. 1 (item 109) \[ <i>see</i>Table A] 
+S. 2(2) (am. by 135, 2003, Sch. 2 \[item 28]) 
+</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b> as amended by </b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Legislation Amendment Act 2003</div>
+    </td>
+    <td>
+      <div>135, 2003</div>
+    </td>
+    <td>
+      <div>17 Dec 2003</div>
+    </td>
+    <td>
+      <div>Schedule 2 (item 28): <i>(t)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Legislation Amendment Act 2003</div>
+    </td>
+    <td>
+      <div>135, 2003</div>
+    </td>
+    <td>
+      <div>17 Dec 2003</div>
+    </td>
+    <td>
+      <div>Schedule 2 (items 33–38): 17 June 2004</div>
+    </td>
+    <td>
+      <div>Sch. 2 (item 38) \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Legislation Amendment Act (No. 1) 2005</div>
+    </td>
+    <td>
+      <div>121, 2005</div>
+    </td>
+    <td>
+      <div>6 Oct 2005</div>
+    </td>
+    <td>
+      <div>Schedule 5: <i>(u) 
+
  </i>Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment (Aid to Civilian Authorities) Act 2006</div>
-  </td>
-  <td>
-    <div>3, 2006</div>
-  </td>
-  <td>
-    <div>1 Mar 2006</div>
-  </td>
-  <td>
-    <div>2 Mar 2006</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Fair Work (State Referral and Consequential and Other Amendments) Act 2009</div>
-  </td>
-  <td>
-    <div>54, 2009</div>
-  </td>
-  <td>
-    <div>25 June 2009</div>
-  </td>
-  <td>
-    <div>Schedule 7: <i>(v)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Legislation Amendment (Aid to Civilian Authorities) Act 2006</div>
+    </td>
+    <td>
+      <div>3, 2006</div>
+    </td>
+    <td>
+      <div>1 Mar 2006</div>
+    </td>
+    <td>
+      <div>2 Mar 2006</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+</tbody></table>
+
+ 
+
 
 _(a)_     The _Naval Defence Act 1910_ was amended by sections 62–89 only of the _Defence Force Re-Organization Act 1975_, section 2 of which provides as follows:
 
@@ -1580,25 +1602,27 @@ _(t)_      Subsection 2(1) (item 9) of the _Defence Legislation Amen
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>
-      9\. Schedule 2, item 28
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of section 2 of the
-        <i>Defence Legislation Amendment (Application of Criminal Code) Act 2001</i>
+<tbody>
+  <tr>
+    <td>
+      <div>
+        9\. Schedule 2, item 28
+      </div>
+    </td>
+    <td>
+      <div>
+        Immediately after the commencement of section 2 of the
+          <i>Defence Legislation Amendment (Application of Criminal Code) Act 2001</i>
 
-    </div>
-  </td>
-  <td>
-    <div>
-      1 October 2001
-    </div>
-  </td>
-</tr></table>
+      </div>
+    </td>
+    <td>
+      <div>
+        1 October 2001
+      </div>
+    </td>
+  </tr>
+</tbody></table>
 
 _(u)_     Subsection 2(1) (item 3) of the _Defence Legislation Amendment Act (No. 1) 2005_ provides as follows:
 
@@ -1636,80 +1660,27 @@ _(u)_     Subsection 2(1) (item 3) of the _Defence Legislation Amendme
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>
-      3\. Schedule 5
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of section 3 of the
-        <i>Legislative Instruments Act 2003</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 January 2005
-    </div>
-  </td>
-</tr></table>
-
-_(v)_     Subsection 2(1) (item 23) of the _Fair Work (State Referral and Consequential and Other Amendments) Act 2009_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
+<tbody>
   <tr>
     <td>
       <div>
-        <b>
-          Provision(s)
-        </b>
+        3\. Schedule 5
       </div>
     </td>
     <td>
       <div>
-        <b>
-          Commencement
-        </b>
+        Immediately after the commencement of section 3 of the
+          <i>Legislative Instruments Act 2003</i>.
       </div>
     </td>
     <td>
       <div>
-        <b>
-          Date/Details
-        </b>
+        1 January 2005
       </div>
     </td>
   </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      23\. Schedule 7
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of Part 2-4 of the
-        <i>Fair Work Act 2009</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2009 (
-        <i>see</i>F2009L02563)
-    </div>
-  </td>
-</tr></table>
+</tbody></table>
+
 
 ## Table of Amendments
 
@@ -1734,2159 +1705,2163 @@ _(v)_     Subsection 2(1) (item 23) of the _Fair Work (State Referral 
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div><b>Part I</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 2</div>
-  </td>
-  <td>
-    <div>am. No. 14, 1952</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 93, 1964</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 24, 1968</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 45, 1918; No. 14, 1952</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 93, 1964</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 216, 1973; No. 96, 1975; No. 133, 1979; No. 153,1982; No. 65, 1987; No. 104, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>rep. No. 93, 1964</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5</div>
-  </td>
-  <td>
-    <div>am. No. 45, 1918; No. 14, 1952</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 93, 1964</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 53, 1965; No. 96, 1975; No. 133, 1979</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 153, 1982</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5A</div>
-  </td>
-  <td>
-    <div>ad. No. 93, 1964</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5B</div>
-  </td>
-  <td>
-    <div>ad. No. 141, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7</div>
-  </td>
-  <td>
-    <div>rep. No. 96, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part II</div>
-  </td>
-  <td>
-    <div>rep. No. 10, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 1 of Part II</div>
-  </td>
-  <td>
-    <div>ad. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 10, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8</div>
-  </td>
-  <td>
-    <div>am. No. 45, 1918</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 93, 1964</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 96, 1975; No. 133, 1979; No. 39, 1983</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 10, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9</div>
-  </td>
-  <td>
-    <div>rs. No. 93, 1964; No. 53, 1965</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 96, 1975; No. 61, 1981; No. 39, 1983; No. 65, 1987; No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 10, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10</div>
-  </td>
-  <td>
-    <div>rs. No. 93, 1964</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 153, 1982</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 11</div>
-  </td>
-  <td>
-    <div>am. No. 45, 1918</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 93, 1964</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 96, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 39, 1983</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 1, 1997; No. 113, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 10, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 12</div>
-  </td>
-  <td>
-    <div>rs. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 10, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 12</div>
-  </td>
-  <td>
-    <div>rs. No. 93, 1964</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 76, 1986; No. 43, 1995; No. 1, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 10, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13</div>
-  </td>
-  <td>
-    <div>rs. No. 93, 1964; No. 96, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 133, 1979; No. 39, 1983; No. 65, 1987; Nos. 100 and 104, 1988; No. 1, 1997; No. 113, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 10, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13A</div>
-  </td>
-  <td>
-    <div>ad. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 1, 1997; No. 116, 1999; No. 113, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 10, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 2 of Part II</div>
-  </td>
-  <td>
-    <div>ad. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 10, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13B</div>
-  </td>
-  <td>
-    <div>ad. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 1, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 10, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13C</div>
-  </td>
-  <td>
-    <div>ad. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 116, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 10, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13D</div>
-  </td>
-  <td>
-    <div>ad. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 10, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13E</div>
-  </td>
-  <td>
-    <div>ad. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 10, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 13F</div>
-  </td>
-  <td>
-    <div>am. No. 116, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 10, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13F</div>
-  </td>
-  <td>
-    <div>ad. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 116, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 10, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13G</div>
-  </td>
-  <td>
-    <div>ad. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 10, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13H</div>
-  </td>
-  <td>
-    <div>ad. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 1, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 10, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13J</div>
-  </td>
-  <td>
-    <div>ad. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 10, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13K</div>
-  </td>
-  <td>
-    <div>ad. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 1, 1997; No. 116, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 10, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 13L</div>
-  </td>
-  <td>
-    <div>am. No. 116, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 10, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13L</div>
-  </td>
-  <td>
-    <div>ad. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 1, 1997; No. 116, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 10, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13M</div>
-  </td>
-  <td>
-    <div>ad. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 1, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 116, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 10, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13N</div>
-  </td>
-  <td>
-    <div>ad. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 10, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 14</div>
-  </td>
-  <td>
-    <div>am. No. 45, 1918</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 93, 1964</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 216, 1973; No. 96, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 75, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 15, 16</div>
-  </td>
-  <td>
-    <div>rep. No. 93, 1964</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 17</div>
-  </td>
-  <td>
-    <div>rs. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 10, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 17</div>
-  </td>
-  <td>
-    <div>am. No. 216, 1973; No. 96, 1975; No. 133, 1979; No. 39, 1983; No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 10, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 17A</div>
-  </td>
-  <td>
-    <div>ad. No. 96, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 61, 1981; No. 39, 1983; No. 1, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 10, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 2A of Part II</div>
-  </td>
-  <td>
-    <div>ad. No. 1, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 10, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 17B</div>
-  </td>
-  <td>
-    <div>ad. No. 1, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 113, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 10, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 3 of Part II</div>
-  </td>
-  <td>
-    <div>ad. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 10, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18</div>
-  </td>
-  <td>
-    <div>am. No. 216, 1973; No. 96, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 65, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 10, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part III</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part III</div>
-  </td>
-  <td>
-    <div>am. No. 96, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19</div>
-  </td>
-  <td>
-    <div>rs. No. 93, 1964</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 96, 1975; No. 133, 1979; No. 61, 1981</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 10, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 20</div>
-  </td>
-  <td>
-    <div>rs. No. 93, 1964</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 65, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 1, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 10, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 21</div>
-  </td>
-  <td>
-    <div>am. No. 21, 1912; No. 14, 1952</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 93, 1964</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 216, 1973; No. 61, 1981</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 65, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 1, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 10, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22</div>
-  </td>
-  <td>
-    <div>rs. No. 93, 1964</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 61, 1981; No. 65, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 1, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 10, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 23</div>
-  </td>
-  <td>
-    <div>rep. No. 45, 1934</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 93, 1964</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 96, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 75, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 24</div>
-  </td>
-  <td>
-    <div>am. No. 14, 1952</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 93, 1964; No. 53, 1965</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 96, 1975; No. 133, 1979</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 24A</div>
-  </td>
-  <td>
-    <div>ad. No. 14, 1952</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 96, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 25</div>
-  </td>
-  <td>
-    <div>rs. No. 93, 1964</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 216, 1973; No. 96, 1975; No. 39, 1983</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 65, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 10, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 25A</div>
-  </td>
-  <td>
-    <div>ad. No. 16, 1911</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 96, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 26</div>
-  </td>
-  <td>
-    <div>rs. No. 93, 1964</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 96, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 65, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 10, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 26A</div>
-  </td>
-  <td>
-    <div>ad. No. 113, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 10, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 27</div>
-  </td>
-  <td>
-    <div>am. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 96, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 65, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 10, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 28</div>
-  </td>
-  <td>
-    <div>am. No. 45, 1918</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 93, 1964; No. 53, 1965</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 216, 1973; No. 96, 1975; No. 133, 1979; No. 61, 1981</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 65, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 100, 1988; No. 75, 1990; No. 1, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 10, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 29</div>
-  </td>
-  <td>
-    <div>am. No. 14, 1952</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 93, 1964</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 216, 1973; No. 133, 1979; No. 61, 1981</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 65, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 10, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 29A</div>
-  </td>
-  <td>
-    <div>ad. No. 65, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 10, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 30</div>
-  </td>
-  <td>
-    <div>rs. No. 53, 1965</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 216, 1973; No. 96, 1975; No. 39, 1983; No. 65, 1987; No. 1, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 10, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 30A</div>
-  </td>
-  <td>
-    <div>ad. No. 1, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 10, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part IV</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part IV</div>
-  </td>
-  <td>
-    <div>am. No. 96, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 31</div>
-  </td>
-  <td>
-    <div>am. No. 10, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 31</div>
-  </td>
-  <td>
-    <div>rs. No. 93, 1964; No. 53, 1965</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 61, 1981</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 10, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 32</div>
-  </td>
-  <td>
-    <div>am. No. 14, 1952</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 93, 1964</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 133, 1979; No. 61, 1981; No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 65, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 1, 1997; No. 119, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 10, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 32AA</div>
-  </td>
-  <td>
-    <div>ad. No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 1, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 10, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 32A</div>
-  </td>
-  <td>
-    <div>am. No. 10, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 32A</div>
-  </td>
-  <td>
-    <div>ad. No. 93, 1964</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 96, 1975; No. 61, 1981; No. 164, 1984; No. 65, 1987; No. 1, 1997; No. 119, 2000; No. 10, 2001; No. 3, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 33</div>
-  </td>
-  <td>
-    <div>rs. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 96, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 34</div>
-  </td>
-  <td>
-    <div>rs. No. 93, 1964</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 216, 1973; No. 96, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 153, 1982</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 35</div>
-  </td>
-  <td>
-    <div>rep. No. 93, 1964</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 36</div>
-  </td>
-  <td>
-    <div>am. No. 21, 1912</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 93, 1964</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 37</div>
-  </td>
-  <td>
-    <div>rs. No. 16, 1911</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 21, 1912</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 93, 1964</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part V</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part V</div>
-  </td>
-  <td>
-    <div>rs. No. 14, 1952; No. 14, 1971</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 38</div>
-  </td>
-  <td>
-    <div>am. No. 135, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38</div>
-  </td>
-  <td>
-    <div>rs. No. 14, 1952; No. 14, 1971</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 96, 1975; No. 133, 1979; No. 135, 2003; No. 121, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 39</div>
-  </td>
-  <td>
-    <div>am. No. 135, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 39</div>
-  </td>
-  <td>
-    <div>rs. No. 14, 1952; No. 14, 1971; No. 96, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 133, 1979; No. 1, 1997; No. 135, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part VI</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part VI</div>
-  </td>
-  <td>
-    <div>rs. No. 24, 1968</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 40</div>
-  </td>
-  <td>
-    <div>rep. No. 14, 1952</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 24, 1968</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 96, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 101, 1988; No. 196, 1992; No. 146, 1999; SLI 2006 No. 50; No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 40A, 40B</div>
-  </td>
-  <td>
-    <div>ad. No. 21, 1912</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 14, 1952</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 41</div>
-  </td>
-  <td>
-    <div>am. No. 35, 1948; No. 24, 1968; No. 96, 1975; No. 104, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 21, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 42</div>
-  </td>
-  <td>
-    <div>rep. No. 93, 1964</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 24, 1968</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 96, 1975; No. 133, 1979; No. 146, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 42A</div>
-  </td>
-  <td>
-    <div>ad. No. 24, 1968</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 96, 1975; No. 133, 1979; No. 115, 1983; Nos. 87 and 104, 1988; No. 199, 1992; No. 60, 1996; No. 121, 2005; No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 42B</div>
-  </td>
-  <td>
-    <div>ad. No. 24, 1968</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 216, 1973; No. 96, 1975; No. 133, 1979</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 65, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 42C</div>
-  </td>
-  <td>
-    <div>ad. No. 24, 1968</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 96, 1975; No. 133, 1979; No. 80, 1982; No. 146, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 42D</div>
-  </td>
-  <td>
-    <div>ad. No. 24, 1968</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 101, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. SLI 2006 No. 50; No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 42E</div>
-  </td>
-  <td>
-    <div>ad. No. 24, 1968</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 96, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 39, 1983</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 43</div>
-  </td>
-  <td>
-    <div>rs. No. 93, 1964</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 96, 1975; No. 133, 1979</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 65, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 44</div>
-  </td>
-  <td>
-    <div>rs. No. 93, 1964</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 96, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 153, 1982</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 44A</div>
-  </td>
-  <td>
-    <div>ad. No. 16, 1911</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 93, 1964</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 153, 1982</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part VII</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 44B</div>
-  </td>
-  <td>
-    <div>ad. No. 16, 1911</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 21, 1912</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 93, 1964</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 39, 1983</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 164, 1984; No. 76, 1986; No. 65, 1987; No. 1, 1997; No. 116, 1999; No. 10, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 44C</div>
-  </td>
-  <td>
-    <div>ad. No. 72, 1949</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 44D</div>
-  </td>
-  <td>
-    <div>ad. No. 14, 1952</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 93, 1966; No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 96, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 165, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 44E</div>
-  </td>
-  <td>
-    <div>am. No. 135, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 44E</div>
-  </td>
-  <td>
-    <div>ad. No. 14, 1952</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 93, 1966; No. 96, 1975; No. 133, 1979</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 141, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 135, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 45</div>
-  </td>
-  <td>
-    <div>am. No. 72, 1949; No. 14, 1952; No. 93, 1966; No. 216, 1973; No. 96, 1975; No. 153, 1982; No. 39, 1983; No. 165, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>The First and Second 
-Schedules</div>
-  </td>
-  <td>
-    <div>rep. No. 93, 1964</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>The Schedule</div>
-  </td>
-  <td>
-    <div>ad. No. 93, 1964</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 65, 1987</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div><b>Part I</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 2</div>
+    </td>
+    <td>
+      <div>am. No. 14, 1952</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 93, 1964</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 24, 1968</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 216, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 3</div>
+    </td>
+    <td>
+      <div>am. No. 45, 1918; No. 14, 1952</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 93, 1964</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 216, 1973; No. 96, 1975; No. 133, 1979; No. 153,1982; No. 65, 1987; No. 104, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4</div>
+    </td>
+    <td>
+      <div>rep. No. 93, 1964</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 5</div>
+    </td>
+    <td>
+      <div>am. No. 45, 1918; No. 14, 1952</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 93, 1964</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 53, 1965; No. 96, 1975; No. 133, 1979</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 153, 1982</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 5A</div>
+    </td>
+    <td>
+      <div>ad. No. 93, 1964</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 216, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 5B</div>
+    </td>
+    <td>
+      <div>ad. No. 141, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 7</div>
+    </td>
+    <td>
+      <div>rep. No. 96, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part II</div>
+    </td>
+    <td>
+      <div>rep. No. 10, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Div. 1 of Part II</div>
+    </td>
+    <td>
+      <div>ad. No. 43, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 10, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 8</div>
+    </td>
+    <td>
+      <div>am. No. 45, 1918</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 93, 1964</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 96, 1975; No. 133, 1979; No. 39, 1983</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 10, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 9</div>
+    </td>
+    <td>
+      <div>rs. No. 93, 1964; No. 53, 1965</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 96, 1975; No. 61, 1981; No. 39, 1983; No. 65, 1987; No. 43, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 10, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 10</div>
+    </td>
+    <td>
+      <div>rs. No. 93, 1964</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 216, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 153, 1982</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 11</div>
+    </td>
+    <td>
+      <div>am. No. 45, 1918</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 93, 1964</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 96, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 39, 1983</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 1, 1997; No. 113, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 10, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 12</div>
+    </td>
+    <td>
+      <div>rs. No. 43, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 10, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 12</div>
+    </td>
+    <td>
+      <div>rs. No. 93, 1964</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 76, 1986; No. 43, 1995; No. 1, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 10, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 13</div>
+    </td>
+    <td>
+      <div>rs. No. 93, 1964; No. 96, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 133, 1979; No. 39, 1983; No. 65, 1987; Nos. 100 and 104, 1988; No. 1, 1997; No. 113, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 10, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 13A</div>
+    </td>
+    <td>
+      <div>ad. No. 43, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 1, 1997; No. 116, 1999; No. 113, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 10, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Div. 2 of Part II</div>
+    </td>
+    <td>
+      <div>ad. No. 43, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 10, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 13B</div>
+    </td>
+    <td>
+      <div>ad. No. 43, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 1, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 10, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 13C</div>
+    </td>
+    <td>
+      <div>ad. No. 43, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 116, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 10, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 13D</div>
+    </td>
+    <td>
+      <div>ad. No. 43, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 10, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 13E</div>
+    </td>
+    <td>
+      <div>ad. No. 43, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 10, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 13F</div>
+    </td>
+    <td>
+      <div>am. No. 116, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 10, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 13F</div>
+    </td>
+    <td>
+      <div>ad. No. 43, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 116, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 10, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 13G</div>
+    </td>
+    <td>
+      <div>ad. No. 43, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 10, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 13H</div>
+    </td>
+    <td>
+      <div>ad. No. 43, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 1, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 10, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 13J</div>
+    </td>
+    <td>
+      <div>ad. No. 43, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 10, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 13K</div>
+    </td>
+    <td>
+      <div>ad. No. 43, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 1, 1997; No. 116, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 10, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 13L</div>
+    </td>
+    <td>
+      <div>am. No. 116, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 10, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 13L</div>
+    </td>
+    <td>
+      <div>ad. No. 43, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 1, 1997; No. 116, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 10, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 13M</div>
+    </td>
+    <td>
+      <div>ad. No. 43, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 1, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 116, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 10, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 13N</div>
+    </td>
+    <td>
+      <div>ad. No. 43, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 10, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 14</div>
+    </td>
+    <td>
+      <div>am. No. 45, 1918</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 93, 1964</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 216, 1973; No. 96, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 75, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 15, 16</div>
+    </td>
+    <td>
+      <div>rep. No. 93, 1964</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 17</div>
+    </td>
+    <td>
+      <div>rs. No. 43, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 10, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 17</div>
+    </td>
+    <td>
+      <div>am. No. 216, 1973; No. 96, 1975; No. 133, 1979; No. 39, 1983; No. 43, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 10, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 17A</div>
+    </td>
+    <td>
+      <div>ad. No. 96, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 61, 1981; No. 39, 1983; No. 1, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 10, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Div. 2A of Part II</div>
+    </td>
+    <td>
+      <div>ad. No. 1, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 10, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 17B</div>
+    </td>
+    <td>
+      <div>ad. No. 1, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 113, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 10, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Div. 3 of Part II</div>
+    </td>
+    <td>
+      <div>ad. No. 43, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 10, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 18</div>
+    </td>
+    <td>
+      <div>am. No. 216, 1973; No. 96, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 65, 1987</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>ad. No. 43, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 10, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part III</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part III</div>
+    </td>
+    <td>
+      <div>am. No. 96, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 19</div>
+    </td>
+    <td>
+      <div>rs. No. 93, 1964</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 96, 1975; No. 133, 1979; No. 61, 1981</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 10, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 20</div>
+    </td>
+    <td>
+      <div>rs. No. 93, 1964</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 216, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 65, 1987</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 1, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 10, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 21</div>
+    </td>
+    <td>
+      <div>am. No. 21, 1912; No. 14, 1952</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 93, 1964</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 216, 1973; No. 61, 1981</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 65, 1987</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 1, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 10, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 22</div>
+    </td>
+    <td>
+      <div>rs. No. 93, 1964</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 216, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 61, 1981; No. 65, 1987</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 1, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 10, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 23</div>
+    </td>
+    <td>
+      <div>rep. No. 45, 1934</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>ad. No. 93, 1964</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 96, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 75, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 24</div>
+    </td>
+    <td>
+      <div>am. No. 14, 1952</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 93, 1964; No. 53, 1965</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 96, 1975; No. 133, 1979</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 24A</div>
+    </td>
+    <td>
+      <div>ad. No. 14, 1952</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 216, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 96, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 25</div>
+    </td>
+    <td>
+      <div>rs. No. 93, 1964</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 216, 1973; No. 96, 1975; No. 39, 1983</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 65, 1987</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 10, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 25A</div>
+    </td>
+    <td>
+      <div>ad. No. 16, 1911</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 96, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 26</div>
+    </td>
+    <td>
+      <div>rs. No. 93, 1964</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 96, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 65, 1987</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 10, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 26A</div>
+    </td>
+    <td>
+      <div>ad. No. 113, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 10, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 27</div>
+    </td>
+    <td>
+      <div>am. No. 216, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 96, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>ad. No. 65, 1987</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 10, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 28</div>
+    </td>
+    <td>
+      <div>am. No. 45, 1918</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 93, 1964; No. 53, 1965</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 216, 1973; No. 96, 1975; No. 133, 1979; No. 61, 1981</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 65, 1987</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 100, 1988; No. 75, 1990; No. 1, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 10, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 29</div>
+    </td>
+    <td>
+      <div>am. No. 14, 1952</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 93, 1964</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 216, 1973; No. 133, 1979; No. 61, 1981</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 65, 1987</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 10, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 29A</div>
+    </td>
+    <td>
+      <div>ad. No. 65, 1987</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 10, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 30</div>
+    </td>
+    <td>
+      <div>rs. No. 53, 1965</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 216, 1973; No. 96, 1975; No. 39, 1983; No. 65, 1987; No. 1, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 10, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 30A</div>
+    </td>
+    <td>
+      <div>ad. No. 1, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 10, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part IV</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part IV</div>
+    </td>
+    <td>
+      <div>am. No. 96, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 31</div>
+    </td>
+    <td>
+      <div>am. No. 10, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 31</div>
+    </td>
+    <td>
+      <div>rs. No. 93, 1964; No. 53, 1965</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 216, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 61, 1981</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 10, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 32</div>
+    </td>
+    <td>
+      <div>am. No. 14, 1952</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 93, 1964</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 133, 1979; No. 61, 1981; No. 164, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 65, 1987</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 1, 1997; No. 119, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 10, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 32AA</div>
+    </td>
+    <td>
+      <div>ad. No. 164, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 1, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 10, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 32A</div>
+    </td>
+    <td>
+      <div>am. No. 10, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 32A</div>
+    </td>
+    <td>
+      <div>ad. No. 93, 1964</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 96, 1975; No. 61, 1981; No. 164, 1984; No. 65, 1987; No. 1, 1997; No. 119, 2000; No. 10, 2001; No. 3, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 33</div>
+    </td>
+    <td>
+      <div>rs. No. 216, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 96, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 34</div>
+    </td>
+    <td>
+      <div>rs. No. 93, 1964</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 216, 1973; No. 96, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 153, 1982</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 35</div>
+    </td>
+    <td>
+      <div>rep. No. 93, 1964</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 36</div>
+    </td>
+    <td>
+      <div>am. No. 21, 1912</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 93, 1964</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 37</div>
+    </td>
+    <td>
+      <div>rs. No. 16, 1911</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 21, 1912</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 93, 1964</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part V</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part V</div>
+    </td>
+    <td>
+      <div>rs. No. 14, 1952; No. 14, 1971</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 38</div>
+    </td>
+    <td>
+      <div>am. No. 135, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 38</div>
+    </td>
+    <td>
+      <div>rs. No. 14, 1952; No. 14, 1971</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 96, 1975; No. 133, 1979; No. 135, 2003; No. 121, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 39</div>
+    </td>
+    <td>
+      <div>am. No. 135, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 39</div>
+    </td>
+    <td>
+      <div>rs. No. 14, 1952; No. 14, 1971; No. 96, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 133, 1979; No. 1, 1997; No. 135, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part VI</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part VI</div>
+    </td>
+    <td>
+      <div>rs. No. 24, 1968</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 40</div>
+    </td>
+    <td>
+      <div>rep. No. 14, 1952</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>ad. No. 24, 1968</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 96, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 101, 1988; No. 196, 1992; No. 146, 1999; SLI 2006 No. 50</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 40A, 40B</div>
+    </td>
+    <td>
+      <div>ad. No. 21, 1912</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 14, 1952</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 41</div>
+    </td>
+    <td>
+      <div>am. No. 35, 1948; No. 24, 1968; No. 96, 1975; No. 104, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 21, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 42</div>
+    </td>
+    <td>
+      <div>rep. No. 93, 1964</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>ad. No. 24, 1968</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 96, 1975; No. 133, 1979; No. 146, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 42A</div>
+    </td>
+    <td>
+      <div>ad. No. 24, 1968</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 96, 1975; No. 133, 1979; No. 115, 1983; Nos. 87 and 104, 1988; No. 199, 1992; No. 60, 1996; No. 121, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 42B</div>
+    </td>
+    <td>
+      <div>ad. No. 24, 1968</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 216, 1973; No. 96, 1975; No. 133, 1979</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 65, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 42C</div>
+    </td>
+    <td>
+      <div>ad. No. 24, 1968</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 96, 1975; No. 133, 1979; No. 80, 1982; No. 146, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 42D</div>
+    </td>
+    <td>
+      <div>ad. No. 24, 1968</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 216, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>ad. No. 101, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. SLI 2006 No. 50</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 42E</div>
+    </td>
+    <td>
+      <div>ad. No. 24, 1968</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 96, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 39, 1983</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 43</div>
+    </td>
+    <td>
+      <div>rs. No. 93, 1964</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 96, 1975; No. 133, 1979</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 65, 1987</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 44</div>
+    </td>
+    <td>
+      <div>rs. No. 93, 1964</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 96, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 153, 1982</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 44A</div>
+    </td>
+    <td>
+      <div>ad. No. 16, 1911</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 93, 1964</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 153, 1982</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part VII</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 44B</div>
+    </td>
+    <td>
+      <div>ad. No. 16, 1911</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 21, 1912</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 93, 1964</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>ad. No. 39, 1983</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 164, 1984; No. 76, 1986; No. 65, 1987; No. 1, 1997; No. 116, 1999; No. 10, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 44C</div>
+    </td>
+    <td>
+      <div>ad. No. 72, 1949</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 216, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 44D</div>
+    </td>
+    <td>
+      <div>ad. No. 14, 1952</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 93, 1966; No. 216, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 96, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 165, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 44E</div>
+    </td>
+    <td>
+      <div>am. No. 135, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 44E</div>
+    </td>
+    <td>
+      <div>ad. No. 14, 1952</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 93, 1966; No. 96, 1975; No. 133, 1979</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 141, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 135, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 45</div>
+    </td>
+    <td>
+      <div>am. No. 72, 1949; No. 14, 1952; No. 93, 1966; No. 216, 1973; No. 96, 1975; No. 153, 1982; No. 39, 1983; No. 165, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>The First and Second 
+Schedules 
+</div>
+    </td>
+    <td>
+      <div>rep. No. 93, 1964</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>The Schedule</div>
+    </td>
+    <td>
+      <div>ad. No. 93, 1964</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 216, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 65, 1987</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table A
 
@@ -3900,7 +3875,9 @@ _Defence Legislation Amendment Act (No. 1) 1999 (No. 116, 1999)_
 
 Sections 13K and 13M of the _Naval Defence Act 1910_ as in force before the commencement of this item continue to apply to an officer of the Navy who was given a notice before that commencement under subsection 13K(1) of that Act as so in force.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 1pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Defence Legislation Amendment (Flexible Career Practices) Act 2000 (No. 113, 2000)_
 
@@ -3908,7 +3885,9 @@ _Defence Legislation Amendment (Flexible Career Practices) Act 2000 (No. 113, 
 
                    The amendments made by items 3, 4, 5, 8, 9 and 11 of Schedule 1 do not apply in relation to appointments made before the commencement of this Act.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Defence Legislation Amendment (Enhancement of the Reserves and Modernisation) Act 2001 (No. 10, 2001)_
 
@@ -3948,7 +3927,9 @@ _Example: Assume that, immediately before the commencement of this item, regulat
 
 (3)        Subitem (2) does not limit the scope of subitem (1).
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 1pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Defence Legislation Amendment (Application of Criminal Code) Act 2001 (No. 141, 2001)_
 
@@ -3964,7 +3945,9 @@ _Defence Legislation Amendment (Application of Criminal Code) Act 2001 (No. 14
 
 Regulations that were in effect for the purposes of section 44E of the _Naval Defence Act 1910_ immediately before the commencement of this item continue to have effect after that time as if they had been made for the purposes of section 44E of that Act, as in force after that time.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 1pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Defence Legislation Amendment Act 2003 (No. 135, 2003)_
 
@@ -3977,5 +3960,10 @@ To avoid doubt:
                      (a)  appointments to the Naval Reserve Cadets in force under paragraph 38(2)(a) or (b) of the _Naval Defence Act 1910_ immediately before the commencement of item 33 of this Schedule continue to have effect after that commencement as if they were appointments to the Australian Navy Cadets; and
 
                      (b)  persons who are cadets in the Naval Reserve Cadets under section 38 of the _Naval Defence Act 1910_ immediately before the commencement of item 33 of this Schedule continue as cadets in the Australian Navy Cadets immediately after that commencement, subject to the limitations imposed by that section (as amended).
+
+ 
+
+
+ 
 
  
