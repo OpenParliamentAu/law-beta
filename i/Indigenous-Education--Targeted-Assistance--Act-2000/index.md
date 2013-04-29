@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2010C00139/Html/IndigenousEducTargetAssti2000_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00008/Html/IndigenousEducTargetAssti2000_WD02_image001.gif)
 
 # Indigenous Education (Targeted Assistance) Act 2000
 
 **Act No. 147 of 2000 as amended**
 
-This compilation was prepared on 3 March 2010
+This compilation was prepared on 1 January 2009
  taking into account amendments up to Act No. 142 of 2008
 
 The text of any of those amendments not in force
@@ -60,7 +60,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [11C](#11C).       Certifying agreement payments duly spent or committed
 
-[11D](#11D).       Reporting other funds used to advance the objects of this Act
+[11D](#11D).       Reporting other funds used to advance the objects of this Act [_see_ Note 2]
 
         **Subdivision C—Specific conditions about educational accountability**
 
@@ -386,7 +386,7 @@ Amount of the payments
 
                      (b)  specifying whether the payments to the party for  the funding year have been spent (or committed to be spent) in that year for the purposes specified in the agreement.
 
-##### <a id="11D"></a>11D  Reporting other funds used to advance the objects of this Act
+##### <a id="11D"></a>11D  Reporting other funds used to advance the objects of this Act [_see_ Note 2]
 
              (1)  There must be a condition that each other party report how the party has advanced, and intends to advance, the objects of this Act from funds coming from sources other than the following:
 
@@ -396,9 +396,9 @@ Amount of the payments
 
                      (c)  any Act:
 
-                              (i)  applying to periods ending after the last period covered by the Education Assistance Acts; and
+                              (i)  applying to periods ending after the last period covered by the States Grants Act; and
 
-                             (ii)  having purposes similar to the Education Assistance Acts.
+                             (ii)  having purposes similar to the States Grants Act.
 
              (2)  This condition must require, for each funding year covered by the agreement, a report covering:
 
@@ -942,128 +942,6 @@ Schedule 2 (items 8, 9): 1 Jan 2009 ( <i>see</i>s. 2(1))</div>
   <td>
     <div>Sch. 1 (item 8)</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2010</div>
-  </td>
-  <td>
-    <div>8, 2010</div>
-  </td>
-  <td>
-    <div>1 Mar 2010</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 4): <i>(a)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
-
-_(a)_ Subsection 2(1) (item 7) of the _Statute Law Revision Act 2010_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      7\. Schedule 2, item 4
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the time specified in the
-        <i>Education Legislation Amendment Act 2008</i>for the commencement of item 9
-        of Schedule 2 to that Act.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 January 2009
-    </div>
-  </td>
 </tr></table>
 
 ## Table of Amendments
@@ -1207,7 +1085,7 @@ Part 3</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 142, 2008 (as am. by No. 8, 2010)</div>
+    <div>am. No. 142, 2008</div>
   </td>
 </tr>
 <tr>
@@ -1316,6 +1194,18 @@ Part 3</div>
   </td>
 </tr></table>
 
+### Note 2
+
+Subparagraphs 11D(1)(c)(i) and (ii)—Schedule 2 (item 9) of the _Education Legislation Amendment Act 2008_ (No. 142, 2008) provides as follows: 
+
+## Schedule 2
+
+## 9  Subparagraphs 11D(1)(c)(i) and (ii)
+
+Omit “State Grants Act”, substitute “Education Assistance Acts”.
+
+The proposed amendment was misdescribed and is not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -1335,7 +1225,7 @@ _Education Legislation Amendment Act 2008 (No. 142, 2008)_
 
 ## Schedule 1
 
-## 8  Application
+## 8  Application
 
 The amendment made by item 7 of this Schedule applies in relation to the 2009 funding year and later funding years.
 
