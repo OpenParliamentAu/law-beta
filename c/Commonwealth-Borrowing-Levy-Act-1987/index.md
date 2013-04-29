@@ -1,15 +1,8 @@
-# ![](http://www.comlaw.gov.au/Details/C2004C02860/Html/CWealthBorrowingLevy87_image001.gif)
-
 # Commonwealth Borrowing Levy Act 1987
 
-Act No. 115 of 1987
+REPRINT No. 3
 
-Consolidated as in force on 8 March 1998
-
-(includes amendments up to Act No. 177 of 1997)
-
- Prepared by the Office of Legislative Drafting,
- Attorney-General’s Department, Canberra
+Consolidated to 12 August 1997
 
 # Contents
 
@@ -29,15 +22,13 @@ Consolidated as in force on 8 March 1998
 
 [8](#8).               Regulations                                                                                             
 
-**Schedule—Bodies Liable to Pay Levy**
-
-#  
+**SCHEDULE** 
 
 ## An Act to impose a levy in respect of borrowings of money by certain bodies
 
 **Do not <span class="CharChapText">delete</span> : <span class="CharChapNo">Chapter</span> placeholder**
 
-## <span style="font-size:11.0pt;display:none">Do not delete</span> : <span class="CharPartText">Part placeholder</span>
+## <span style="font-size:11.0pt;display:none">o not delete</span> : <span class="CharPartText">Part placeholder</span>
 
 **Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
 
@@ -85,7 +76,7 @@ The Governor-General may make regulations, not inconsistent with this Act, presc
 
 * * *
 
-<span style="font-size:16.0pt">Schedule</span><span style="font-size:16.0pt">—Bodies Liable to Pay Levy </span><span style="font-weight:normal">\[see Notes 2 and 3]</span>
+SCHEDULE<span style="font-weight:normal">—BODIES LIABLE TO PAY LEVY \[see Note 2]</span>
 
 Section 3
 
@@ -105,7 +96,7 @@ Section 3
 
 15.               Health Insurance Commission 
 
-16.               Housing Loans Insurance Corporation Limited.
+16.               Housing Loans Insurance Corporation 
 
 18.               Pipeline Authority 
 
@@ -254,7 +245,7 @@ Remainder: Royal Assent</div>
     <div>14 Dec 1988</div>
   </td>
   <td>
-    <div>S. 11: 1 July 1989 ( <i>see Gazette</i>1989, No. S210) <i>(a)</i></div>
+    <div>S. 11: 1 July 1989 ( <i>see Gazette</i>1989, No. S210) ( <i>a</i>)</div>
   </td>
   <td>
     <div>—</div>
@@ -275,7 +266,7 @@ Remainder: Royal Assent</div>
 1 Apr 1989 ( <i>see Gazette</i>1989, 
 No. S92) 
 S. 8(1): 16 Mar 1989 ( <i>see Gazette</i>1989, No. S92) 
-S. 8(3): <i>(b)</i> 
+S. 8(3): ( <i>b</i>) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -294,7 +285,7 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Ss. 4, 6(1), 7(1), 8-10, 12, 14(2), 15 and 16: 1 July 1989 ( <i>see Gazette</i>1989, No. S223) 
-S. 7(2): <i>(c)</i> 
+S. 7(2): ( <i>c</i>) 
 S. 14(1): 30 June 1989 ( <i>see Gazette</i>1989, No. S223) 
 Remainder: Royal Assent</div>
   </td>
@@ -333,7 +324,7 @@ Remainder: Royal Assent</div>
     <div>22 Oct 1990</div>
   </td>
   <td>
-    <div>S. 17: 1 Apr 1991 ( <i>see Gazette</i>1991, No. S75) <i>(d)</i></div>
+    <div>S. 17: 1 Apr 1991 ( <i>see Gazette</i>1991, No. S75) ( <i>d</i>)</div>
   </td>
   <td>
     <div>—</div>
@@ -370,7 +361,7 @@ Remainder: Royal Assent</div>
     <div>27 Oct 1993</div>
   </td>
   <td>
-    <div>S. 44: <i>(e)</i></div>
+    <div>S. 44: ( <i>e</i>)</div>
   </td>
   <td>
     <div>S. 42</div>
@@ -392,7 +383,7 @@ ss. 7 and 47:
 Royal Assent 
 Ss. 5 and 6: 
 22 Feb 1991 
-Remainder: <i>(f)</i></div>
+Remainder: ( <i>f</i>)</div>
   </td>
   <td>
     <div>S. 52</div>
@@ -409,7 +400,7 @@ Remainder: <i>(f)</i></div>
     <div>30 May 1994</div>
   </td>
   <td>
-    <div>S. 3(3): Royal Assent <i>(g)</i></div>
+    <div>S. 3(3): Royal Assent ( <i>g</i>)</div>
   </td>
   <td>
     <div>—</div>
@@ -430,7 +421,7 @@ Remainder: <i>(f)</i></div>
 ss. 7-11, Divs. 2 and 3 of Part 2 
 (ss. 14,15) and Part 3 (s. 16): 
 12 Oct 1994 
-Remainder: <i>(h)</i></div>
+Remainder: ( <i>h</i>)</div>
   </td>
   <td>
     <div>S. 20</div>
@@ -447,7 +438,7 @@ Remainder: <i>(h)</i></div>
     <div>30 June 1995</div>
   </td>
   <td>
-    <div>S. 5: 6 July 1995 ( <i>see Gazette</i>1995, No. S270) <i>(i)</i></div>
+    <div>S. 5: 6 July 1995 ( <i>see Gazette</i>1995, No. S270) ( <i>i</i>)</div>
   </td>
   <td>
     <div>—</div>
@@ -464,7 +455,7 @@ Remainder: <i>(h)</i></div>
     <div>5 Dec 1995</div>
   </td>
   <td>
-    <div><i>(j)</i></div>
+    <div>( <i>j</i>)</div>
   </td>
   <td>
     <div>—</div>
@@ -481,7 +472,7 @@ Remainder: <i>(h)</i></div>
     <div>24 June 1996</div>
   </td>
   <td>
-    <div>S. 36: Royal Assent <i> (k)</i></div>
+    <div>S. 36: Royal Assent \[ <i>see</i>( <i>k</i>) and Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -498,90 +489,56 @@ Remainder: <i>(h)</i></div>
     <div>30 June 1997</div>
   </td>
   <td>
-    <div>Schedule 4 (item 2): Royal Assent <i>(l)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Health Insurance Commission (Reform and Separation of Functions) Act 1997</div>
-  </td>
-  <td>
-    <div>159, 1997</div>
-  </td>
-  <td>
-    <div>11 Nov 1997</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 38): \[ <i>see (m)</i>and Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Snowy Hydro Corporatisation (Consequential Amendments) Act 1997</div>
-  </td>
-  <td>
-    <div>177, 1997</div>
-  </td>
-  <td>
-    <div>21 Nov 1997</div>
-  </td>
-  <td>
-    <div>Schedule 3: \[ <i>see (n)</i>and Note 3]</div>
+    <div>Schedule 4 (item 2): Royal Assent ( <i>l</i>)</div>
   </td>
   <td>
     <div>—</div>
   </td>
 </tr></table>
 
-_(a)_     The _Commonwealth Borrowing Levy Act 1987_ was amended by section 11 only of the _ANL (Conversion into Public Company) Act 1988_, subsection 2(3) of which provides as follows:
+(_a_)     The _Commonwealth Borrowing Levy Act 1987_ was amended by section 11 only of the _ANL (Conversion into Public Company) Act 1988_, subsection 2(3) of which provides as follows:
 
                  “(3)   Section 6, subsection 7(2) and sections 9 and 11 commence on a day to be fixed by Proclamation.”
 
-_(b)_    Subsection 2(4) of the _OTC (Conversion into Public Company) Act 1988_ provides as follows:
+(_b_)    Subsection 2(4) of the _OTC (Conversion into Public Company) Act 1988_ provides as follows:
 
                  “(4)   Subsection 8(3) commences immediately after the commencement of section 11.”
 
          Section 11 commenced on 1 April 1989 (_see Gazette_ 1989, No. S92).
 
-_(c)_     Subsection 2(6) of the _Snowy Mountains Engineering Corporation (Conversion into Public Company) Act 1989_ provides as follows:
+(_c_)     Subsection 2(6) of the _Snowy Mountains Engineering Corporation (Conversion into Public Company) Act 1989_ provides as follows:
 
                  “(6)   Subsection 7(2) commences immediately after section 12.”
 
          Section 12 commenced on 1 July 1989 (_see Gazette_ 1989, No. S223).
 
-_(d)_     The _Commonwealth Borrowing Levy Act 1987_ was amended by section 17 only of the _Commonwealth Serum Laboratories (Conversion into Public Company) Act 1990_ , subsection 2(5) of which provides as follows:
+(_d_)     The _Commonwealth Borrowing Levy Act 1987_ was amended by section 17 only of the _Commonwealth Serum Laboratories (Conversion into Public Company) Act 1990_ , subsection 2(5) of which provides as follows:
 
                  “(5)   Subject to subsection (6), sections 6, 10, 13 and 17 commence on a day to be fixed by Proclamation for the purposes of this subsection.”
 
-_(e)_     The _Commonwealth Borrowing Levy Act 1987_ was amended by section 44 only of the _Snowy Mountains Engineering Corporation Limited Sale Act 1993_, subsection 2(2) of which provides as follows:
+(_e_)     The _Commonwealth Borrowing Levy Act 1987_ was amended by section 44 only of the _Snowy Mountains Engineering Corporation Limited Sale Act 1993_, subsection 2(2) of which provides as follows:
 
                  “(2)   Sections 5 to 36 (inclusive) and 39 to 44 (inclusive) commence on the sale day.”
 
          The sale day was 9 November 1993 (_see Gazette_ 1994, No. S334).
 
-_(f)_      Subsection 2(2) of the _CSL Sale Act 1993_ provides as follows:
+(_f_)      Subsection 2(2) of the _CSL Sale Act 1993_ provides as follows:
 
                  “(2)   Sections 8 to 46 (inclusive) and sections 48 to 53 (inclusive) commence on the sale day.”
 
          The sale day was 3 June 1994 (_see Gazette_ 1994, No. S209).
 
-_(g)_     The _Commonwealth Borrowing Levy Act 1987_ was amended by subsection 3(3) only of the _Transport and Communications Legislation Amendment Act 1994_, subsection 2(1) of which provides as follows:
+(_g_)     The _Commonwealth Borrowing Levy Act 1987_ was amended by subsection 3(3) only of the _Transport and Communications Legislation Amendment Act 1994_, subsection 2(1) of which provides as follows:
 
                  “(1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.”
 
-_(h)_     Subsection 2(2) of the _AeroSpace Technologies of Australia Limited Sale Act 1994_ provides as follows:
+(_h_)     Subsection 2(2) of the _AeroSpace Technologies of Australia Limited Sale Act 1994_ provides as follows:
 
                  “(2)   The remaining provisions of this Act commence on the ASTA sale day.”
 
          The ASTA sale day was 27 June 1995 (_see Gazette_ 1995, No. S271).
 
-_(i)_      The _Commonwealth Borrowing Levy Act 1987_ was amended by section 5 only of the _Civil Aviation Legislation Amendment Act 1995_, subsection 2(1) of which provides as follows:
+(_i_)      The _Commonwealth Borrowing Levy Act 1987_ was amended by section 5 only of the _Civil Aviation Legislation Amendment Act 1995_, subsection 2(1) of which provides as follows:
 
                  “(1)   Subject to this section, this Act commences on:
 
@@ -589,29 +546,17 @@ _(i)_      The _Commonwealth Borrowing Levy Act 1987_ was amended by s
 
                              (b)   the first day after the end of the period of 6 months beginning on the day on which this Act receives the Royal Assent;
 
-   whichever is earlier.”
+                         whichever is earlier.”
 
-_(j)_      The _ANL Sale Act 1995_ was repealed by section 79 of that Act before coming into operation.
+(_j_)      The _ANL Sale Act 1995_ was repealed by section 79 of that Act before coming into operation.
 
-_(k)_     The _Commonwealth Borrowing Levy Act 1987_ was amended by section 36 of the _Housing Loans Insurance Corporation (Transfer of Assets and Abolition) Act 1996_, subsection 2(1) of which provides as follows:
+(_k_)     The _Commonwealth Borrowing Levy Act 1987_ was amended by section 36 of the _Housing Loans Insurance Corporation (Transfer of Assets and Abolition) Act 1996_, subsection 2(1) of which provides as follows:
 
-                 “(1)   Parts 1 to 5 commence on the day on which this Act receives the Royal Assent.” 
+                 “(1)   Parts 1 to 5 commence on the day on which this Act receives the Royal Assent.” [_see_ Note 2]
 
-         Section 36 provides that on the transfer day the schedule to the _Commonwealth Borrowing Levy Act_ is amended. 
-
-         The Transfer Day was 12 December 1997 (_see Gazette_ 1997, No. S512).
-
-_(l)_      The _Commonwealth Borrowing Levy Act 1987_ was amended by Schedule 4 (item 2) only of the _Australian National Railways Commission Sale Act 1997_, subsection 2(4) of which provides as follows:
+(_l_)      The _Commonwealth Borrowing Levy Act 1987_ was amended by Schedule 4 (item 2) only of the _Australian National Railways Commission Sale Act 1997_, subsection 2(4) of which provides as follows:
 
                  “(4)   Item 2 of Schedule 4 commences on the day on which it receives the Royal Assent.”
-
-_(m)_    The _Commonwealth Borrowing Levy Act 1987_ was amended by Schedule 1 (item 38) only ofthe _Health Insurance Commission (Reform and Separation of Functions) Act 1997_, subsection 2(2) of which provides as follows:
-
-                 “(2)   Subject to subsection (3), Part 2 of Schedule 1 to this Act commences on the fund-transfer day.” [_see_ Note 2]
-
-_(n)_     The _Commonwealth Borrowing Levy Act 1987_ was amended by Schedule 3 only of the _Snowy Hydro Corporatisation (Consequential Amendments) Act 1997_, section 2 of which provides as follows:
-
-                   “2   This Act  commences on the same day as section 59 of the _Snowy Hydro Corporatisation Act 1997_.” [_see_ Note 3]
 
 ## Table of Amendments
 
@@ -655,47 +600,22 @@ _(n)_     The _Commonwealth Borrowing Levy Act 1987_ was amended by Sche
     <div>Schedule</div>
   </td>
   <td>
-    <div>am. Nos. 22, 121, 126, 127 and 129, 1988; Nos. 66 and 128, 1989; No. 77, 1990; No. 145, 1991; Nos. 54 and 88, 1993; Nos. 64 and 144, 1994; No. 82, 1995; No. 14, 1996; No. 96, 1997</div>
+    <div>am. Nos. 22, 121, 126, 127 and 129, 1988; Nos. 66 and 128, 1989; No. 77, 1990; No. 145, 1991; Nos. 54 and 88, 1993; Nos. 64 and 144, 1994; No. 82, 1995; No. 96, 1997</div>
   </td>
 </tr></table>
 
-2.   The _Commonwealth Borrowing Levy Act 1987_ was amended by Schedule 1 (item 38) only of the _Health Insurance Commission (Reform and Separation of Functions) Act 1997_. The applicable provision provides as follows:
+2.   The _Commonwealth Borrowing Levy Act 1987_ was amended by section 36 of the _Housing Loans Insurance Corporation (Transfer of Assets and Abolition) Act 1996_. The applicable provision provides as follows: 
 
-38  Item 15 of the Schedule
+36  Amendment of the _Commonwealth Borrowing Levy Act 1987_
 
-Repeal the item, substitute:
+      On the transfer day, the Schedule to the _Commonwealth Borrowing Levy Act 1987_ is amended by omitting item 16 and substituting the following item:
 
-<table>
-<colgroup>
-  <col width="10%">
-  <col width="90%">
-</colgroup>
+                  16.   Housing Loans Insurance Corporation Limited.
 
-<tr>
-  <td>
-    <div>15.</div>
-  </td>
-  <td>
-    <div>The nominated company (within the meaning of Part 2 of the <i>Health Insurance Commission (Reform and Separation of Functions) Act 1997</i>)</div>
-  </td>
-</tr></table>
+      Subsection 2(1) of the _Housing Loans Insurance Corporation (Transfer of Assets and Abolition) Act 1996_ provides as follows:
 
-      Subsection 2(2) of the _Health Insurance Commission (Reform and Separation of Functions) Act 1997_ provides as follows:
+                 “(1)   Parts 1 to 5 commence on the day on which this Act receives the Royal Assent.”
 
-                 “(2)   Subject to subsection (3), Part 2 of Schedule 1 to this Act commences on the fund-transfer day.”
-
-      As at 10 February 1997 no date had been fixed for the transfer day and the amendment is not incorporated in this reprint.
-
-3.   The _Commonwealth Borrowing Levy Act 1987_ was amended by Schedule 3 only of the _Snowy Hydro Corporatisation (Consequential Amendments) Act 1997_. The applicable provision provides as follows:
-
-1  Schedule, item 21
-
-Repeal the item.
-
-      Section 2 of the _Snowy Hydro Corporatisation (Consequential Amendments) Act 1997_ provides as follows:
-
-                 “(2)   This Act commences on the same day as section 59 of the _Snowy Hydro Corporatisation Act 1997_.”
-
-      As at 10 February 1998 no date had been fixed and the amendment is not incorporated in this reprint.
+      As at 12 August 1997 no date had been fixed for the transfer day and the amendment is not incorporated in this reprint.
 
  
