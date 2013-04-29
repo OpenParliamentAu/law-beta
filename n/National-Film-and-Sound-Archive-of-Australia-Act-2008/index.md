@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2011C00496/Html/1bdf8a98-2f50-4039-b015-76610594e0c2_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00188/Html/6c41af32-8515-4516-a86a-52d773da0e9d_files/image001.gif)
 
-# National Film and Sound Archive of Australia Act 2008
+# National Film and Sound Archive Act 2008
 
 **Act No. 14 of 2008 as amended**
 
-This compilation was prepared on 1 July 2011
+This compilation was prepared on 15 April 2011
  taking into account amendments up to Act No. 20 of 2011
 
 The text of any of those amendments not in force
@@ -28,7 +28,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [4](#4).            Extended geographic application of this Act
 
-**Part 2—National Film and Sound Archive of Australia**
+**Part 2—National Film and Sound Archive**
 
 [5](#5).            Establishment
 
@@ -36,7 +36,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [7](#7).            Powers
 
-**Part 3—The Board of the National Film and Sound Archive of Australia** 
+**Part 3—The Board of the National Film and Sound Archive** 
 
     **Division 1—The Board**
 
@@ -110,9 +110,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part 6—Finance**
 
-[37](#37).          Money payable to the National Film and Sound Archive of Australia
+[37](#37).          Money payable to the National Film and Sound Archive
 
-[38](#38).          Application of money by the National Film and Sound Archive of Australia
+[38](#38).          Application of money by the National Film and Sound Archive
 
 [39](#39).          Restrictions on financial transactions
 
@@ -128,13 +128,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Notes** 
 
-## An Act to establish the National Film and Sound Archive of Australia, and for related purposes
+## An Act to establish the National Film and Sound Archive, and for related purposes
 
 ## Part 1—Preliminary
 
 ##### <a id="1"></a>1  Short title <span style="font-size:9.0pt; font-weight:normal">[_see_ Note 1]</span>
 
-                   This Act may be cited as the _National Film and Sound Archive of Australia Act 2008_.
+                   This Act may be cited as the _National Film and Sound Archive Act 2008_.
 
 ##### <a id="2"></a>2  Commencement
 
@@ -223,9 +223,9 @@ Note:          This table relates only to the provisions of th
 
                    In this Act:
 
-                    <a name="board"></a>**_Board_** means the Board of the National Film and Sound Archive of Australia.
+                    <a name="board"></a>**_Board_** means the Board of the National Film and Sound Archive.
 
-                    <a name="ceo"></a>**_CEO_** means the Chief Executive Officer of the National Film and Sound Archive of Australia.
+                    <a name="ceo"></a>**_CEO_** means the Chief Executive Officer of the National Film and Sound Archive.
 
                     <a name="chair"></a>**_Chair_** means the Chair of the Board.
 
@@ -249,13 +249,13 @@ Note:          This table relates only to the provisions of th
 
              (2)  This Act applies both within and outside Australia.
 
-## Part 2—National Film and Sound Archive of Australia
+## Part 2—National Film and Sound Archive
 
 ##### <a id="5"></a>5  Establishment
 
-             (1)  The National Film and Sound Archive of Australia is established by this section.
+             (1)  The National Film and Sound Archive is established by this section.
 
-             (2)  The National Film and Sound Archive of Australia:
+             (2)  The National Film and Sound Archive:
 
                      (a)  is a body corporate; and
 
@@ -265,13 +265,13 @@ Note:          This table relates only to the provisions of th
 
                      (d)  may sue and be sued.
 
-Note:          The _Commonwealth Authorities and Companies Act 1997_ applies to the National Film and Sound Archive of Australia. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
+Note:          The _Commonwealth Authorities and Companies Act 1997_ applies to the National Film and Sound Archive. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
 
-             (3)  The seal of the National Film and Sound Archive of Australia is to be kept in such custody as the Board directs, and is not to be used except as authorised by the Board.
+             (3)  The seal of the National Film and Sound Archive is to be kept in such custody as the Board directs, and is not to be used except as authorised by the Board.
 
              (4)  All courts, judges and persons acting judicially must:
 
-                     (a)  take judicial notice of the imprint of the seal of the National Film and Sound Archive of Australia appearing on a document; and
+                     (a)  take judicial notice of the imprint of the seal of the National Film and Sound Archive appearing on a document; and
 
                      (b)  presume that the document was duly sealed.
 
@@ -279,7 +279,7 @@ Note:          The _Commonwealth Authorities and Companies Act
 
 Functions
 
-             (1)  The functions of the National Film and Sound Archive of Australia are to:
+             (1)  The functions of the National Film and Sound Archive are to:
 
                      (a)  develop, preserve, maintain, promote and provide access to a national collection of programs and related material; and
 
@@ -297,7 +297,7 @@ Functions
 
 Ways in which support may be provided
 
-             (2)  The ways in which the National Film and Sound Archive of Australia may provide support as mentioned in subsection (1) include (but are not limited to) doing any of the following:
+             (2)  The ways in which the National Film and Sound Archive may provide support as mentioned in subsection (1) include (but are not limited to) doing any of the following:
 
                      (a)  providing financial assistance (whether by way of loan, grant, investment or otherwise and whether on commercial terms or otherwise);
 
@@ -309,7 +309,7 @@ but does not include providing guarantees.
 
 Considerations governing the performance of functions
 
-             (3)  In performing its functions, the National Film and Sound Archive of Australia is, as far as practical, to:
+             (3)  In performing its functions, the National Film and Sound Archive is, as far as practical, to:
 
                      (a)  place an emphasis on the historical and cultural significance of programs and related material; and
 
@@ -319,23 +319,23 @@ Considerations governing the performance of functions
 
                      (d)  promote the efficient, effective and ethical use of public resources.
 
-National Film and Sound Archive of Australia may charge fees
+National Film and Sound Archive may charge fees
 
-             (4)  The National Film and Sound Archive of Australia may charge fees for things done in performing its functions.
+             (4)  The National Film and Sound Archive may charge fees for things done in performing its functions.
 
-National Film and Sound Archive of Australia may cooperate with others
+National Film and Sound Archive may cooperate with others
 
-             (5)  The National Film and Sound Archive of Australia may perform its functions alone or together with other persons.
+             (5)  The National Film and Sound Archive may perform its functions alone or together with other persons.
 
 Severability
 
-             (6)  Without limiting its effect apart from this subsection, this Act also has the effect it would have if the powers and functions of the National Film and Sound Archive of Australia were confined to powers and functions that were to be exercised and performed:
+             (6)  Without limiting its effect apart from this subsection, this Act also has the effect it would have if the powers and functions of the National Film and Sound Archive were confined to powers and functions that were to be exercised and performed:
 
-                     (a)  in so far as it is appropriate for those powers and functions to be exercised and performed by the National Film and Sound Archive of Australia on behalf of the Government of the Commonwealth as the national Government of Australia; and
+                     (a)  in so far as it is appropriate for those powers and functions to be exercised and performed by the National Film and Sound Archive on behalf of the Government of the Commonwealth as the national Government of Australia; and
 
-                     (b)  for purposes for which it is appropriate for the Parliament, as the national Parliament of Australia, to authorise the National Film and Sound Archive of Australia to exercise powers and perform functions; and
+                     (b)  for purposes for which it is appropriate for the Parliament, as the national Parliament of Australia, to authorise the National Film and Sound Archive to exercise powers and perform functions; and
 
-                     (c)  in relation to expenditure of money that is available for the purposes of the National Film and Sound Archive of Australia in accordance with an appropriation made by the Parliament; and
+                     (c)  in relation to expenditure of money that is available for the purposes of the National Film and Sound Archive in accordance with an appropriation made by the Parliament; and
 
                      (d)  in relation to trade and commerce with other countries, among the States, between Territories or between a Territory and a State; and
 
@@ -353,37 +353,37 @@ Severability
 
 ##### <a id="7"></a>7  Powers
 
-             (1)  The National Film and Sound Archive of Australia has power to do all things necessary or convenient to be done for or in connection with the performance of its functions.
+             (1)  The National Film and Sound Archive has power to do all things necessary or convenient to be done for or in connection with the performance of its functions.
 
-             (2)  The National Film and Sound Archive of Australia’s powers include, but are not limited to, the following powers:
+             (2)  The National Film and Sound Archive’s powers include, but are not limited to, the following powers:
 
                      (a)  to accept gifts, devises, bequests and assignments (whether on trust or otherwise);
 
-                     (b)  to act as trustee of money, programs or other property vested in the National Film and Sound Archive of Australia on trust;
+                     (b)  to act as trustee of money, programs or other property vested in the National Film and Sound Archive on trust;
 
                      (c)  to act on behalf of the Commonwealth or an authority of the Commonwealth in the administration of a trust relating to programs or to matters connected with programs;
 
                      (d)  to do anything incidental to any of its functions.
 
-             (3)  Despite anything contained in this Act, any money, programs or other property held by the National Film and Sound Archive of Australia on trust must be dealt with in accordance with the obligations of the National Film and Sound Archive of Australia as trustee of the trust.
+             (3)  Despite anything contained in this Act, any money, programs or other property held by the National Film and Sound Archive on trust must be dealt with in accordance with the obligations of the National Film and Sound Archive as trustee of the trust.
 
-## Part 3—The Board of the National Film and Sound Archive of Australia
+## Part 3—The Board of the National Film and Sound Archive
 
 ### Division 1—The Board
 
 ##### <a id="8"></a>8  Establishment
 
-                   The Board of the National Film and Sound Archive of Australia is established by this section.
+                   The Board of the National Film and Sound Archive is established by this section.
 
 ##### <a id="9"></a>9  Role
 
-             (1)  The Board is responsible for ensuring the proper and efficient performance of the National Film and Sound Archive of Australia’s functions.
+             (1)  The Board is responsible for ensuring the proper and efficient performance of the National Film and Sound Archive’s functions.
 
              (2)  The Board has power to do all things necessary or convenient to be done for or in connection with the performance of its duties.
 
-             (3)  All acts and things done in the name of, or on behalf of, the National Film and Sound Archive of Australia by the Board, or with the authority of the Board, are taken to have been done by the National Film and Sound Archive of Australia.
+             (3)  All acts and things done in the name of, or on behalf of, the National Film and Sound Archive by the Board, or with the authority of the Board, are taken to have been done by the National Film and Sound Archive.
 
-             (4)  If a function or power of the National Film and Sound Archive of Australia is dependent on the opinion, belief or state of mind of the National Film and Sound Archive of Australia in relation to a matter, the function or power may be exercised upon the opinion, belief or state of mind of a person or body acting as mentioned in subsection (3) in relation to that matter.
+             (4)  If a function or power of the National Film and Sound Archive is dependent on the opinion, belief or state of mind of the National Film and Sound Archive in relation to a matter, the function or power may be exercised upon the opinion, belief or state of mind of a person or body acting as mentioned in subsection (3) in relation to that matter.
 
 ##### <a id="10"></a>10  Membership
 
@@ -571,19 +571,19 @@ those remaining members constitute a quorum for the purposes of any deliberation
 
 ##### <a id="20"></a>20  Establishment
 
-                   There is to be a Chief Executive Officer of the National Film and Sound Archive of Australia.
+                   There is to be a Chief Executive Officer of the National Film and Sound Archive.
 
 ##### <a id="21"></a>21  Role
 
-             (1)  The CEO is responsible for the day‑to‑day administration of the National Film and Sound Archive of Australia.
+             (1)  The CEO is responsible for the day‑to‑day administration of the National Film and Sound Archive.
 
              (2)  The CEO has power to do all things necessary or convenient to be done for or in connection with the performance of his or her duties.
 
              (3)  Except in relation to the CEO’s powers under the _Public Service Act 1999_, the CEO is to act in accordance with any policies determined, and any directions given, by the Board.
 
-             (4)  All acts and things done in the name of, or on behalf of, the National Film and Sound Archive of Australia by the CEO, or with the authority of the CEO, are taken to have been done by the National Film and Sound Archive of Australia.
+             (4)  All acts and things done in the name of, or on behalf of, the National Film and Sound Archive by the CEO, or with the authority of the CEO, are taken to have been done by the National Film and Sound Archive.
 
-             (5)  If a function or power of the National Film and Sound Archive of Australia is dependent on the opinion, belief or state of mind of the National Film and Sound Archive of Australia in relation to a matter, the function or power may be exercised upon the opinion, belief or state of mind of a person or body acting as mentioned in subsection (4) in relation to that matter.
+             (5)  If a function or power of the National Film and Sound Archive is dependent on the opinion, belief or state of mind of the National Film and Sound Archive in relation to a matter, the function or power may be exercised upon the opinion, belief or state of mind of a person or body acting as mentioned in subsection (4) in relation to that matter.
 
              (6)  If a policy or direction under subsection (3) is in writing, the policy or direction is not a legislative instrument.
 
@@ -689,23 +689,23 @@ those remaining members constitute a quorum for the purposes of any deliberation
 
 ##### <a id="31"></a>31  Staff
 
-             (1)  The staff of the National Film and Sound Archive of Australia must be persons engaged under the _Public Service Act 1999_.
+             (1)  The staff of the National Film and Sound Archive must be persons engaged under the _Public Service Act 1999_.
 
              (2)  For the purposes of the _Public Service Act 1999_:
 
-                     (a)  the CEO and the staff of the National Film and Sound Archive of Australia together constitute a Statutory Agency; and
+                     (a)  the CEO and the staff of the National Film and Sound Archive together constitute a Statutory Agency; and
 
                      (b)  the CEO is the Head of that Statutory Agency.
 
 ##### <a id="32"></a>32  Consultants
 
-                   The National Film and Sound Archive of Australia may engage consultants to assist in the performance of its functions.
+                   The National Film and Sound Archive may engage consultants to assist in the performance of its functions.
 
 ## Part 5—Planning
 
 ##### <a id="33"></a>33  Corporate plan
 
-             (1)  The Board must prepare a corporate plan for the National Film and Sound Archive of Australia at least once a year.
+             (1)  The Board must prepare a corporate plan for the National Film and Sound Archive at least once a year.
 
              (2)  The plan must cover a period of at least 3 years.
 
@@ -717,15 +717,15 @@ those remaining members constitute a quorum for the purposes of any deliberation
 
              (1)  The plan must include details of the following matters:
 
-                     (a)  a statement of the objectives that the National Film and Sound Archive of Australia will pursue;
+                     (a)  a statement of the objectives that the National Film and Sound Archive will pursue;
 
-                     (b)  the strategies and policies that the National Film and Sound Archive of Australia will adopt to achieve those objectives;
+                     (b)  the strategies and policies that the National Film and Sound Archive will adopt to achieve those objectives;
 
-                     (c)  performance indicators for the assessment of the National Film and Sound Archive of Australia’s performance of its functions;
+                     (c)  performance indicators for the assessment of the National Film and Sound Archive’s performance of its functions;
 
-                     (d)  the financial targets and projections for the National Film and Sound Archive of Australia;
+                     (d)  the financial targets and projections for the National Film and Sound Archive;
 
-                     (e)  an analysis of factors likely to affect achievement of targets or create significant financial risk for the National Film and Sound Archive of Australia or for the Commonwealth;
+                     (e)  an analysis of factors likely to affect achievement of targets or create significant financial risk for the National Film and Sound Archive or for the Commonwealth;
 
                       (f)  a review of performance since the start of the year previous to the year in which the plan is prepared, measured against the most recent plan for any part of that period;
 
@@ -775,11 +775,11 @@ those remaining members constitute a quorum for the purposes of any deliberation
 
 ## Part 6—Finance
 
-##### <a id="37"></a>37  Money payable to the National Film and Sound Archive of Australia
+##### <a id="37"></a>37  Money payable to the National Film and Sound Archive
 
-             (1)  There is payable to the National Film and Sound Archive of Australia such money as is appropriated by the Parliament for the purposes of the National Film and Sound Archive of Australia.
+             (1)  There is payable to the National Film and Sound Archive such money as is appropriated by the Parliament for the purposes of the National Film and Sound Archive.
 
-             (2)  The Finance Minister may give directions about the amounts in which, and the times at which, money payable under subsection (1) is to be paid to the National Film and Sound Archive of Australia.
+             (2)  The Finance Minister may give directions about the amounts in which, and the times at which, money payable under subsection (1) is to be paid to the National Film and Sound Archive.
 
              (3)  If a direction under subsection (2) is given in writing, the direction is not a legislative instrument.
 
@@ -787,37 +787,37 @@ those remaining members constitute a quorum for the purposes of any deliberation
 
                     <a name="financ-minist"></a>**_Finance Minister_** means the Minister administering the _Financial Management and Accountability Act 1997_.
 
-##### <a id="38"></a>38  Application of money by the National Film and Sound Archive of Australia
+##### <a id="38"></a>38  Application of money by the National Film and Sound Archive
 
-             (1)  The money of the National Film and Sound Archive of Australia is to be applied only:
+             (1)  The money of the National Film and Sound Archive is to be applied only:
 
-                     (a)  in payment or discharge of the costs, expenses and other obligations incurred or undertaken by the National Film and Sound Archive of Australia in the performance of its functions and the exercise of its powers; and
+                     (a)  in payment or discharge of the costs, expenses and other obligations incurred or undertaken by the National Film and Sound Archive in the performance of its functions and the exercise of its powers; and
 
                      (b)  in payment of any remuneration or allowances payable under this Act.
 
-             (2)  Subsection (1) does not prevent investment of surplus money of the National Film and Sound Archive of Australia under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
+             (2)  Subsection (1) does not prevent investment of surplus money of the National Film and Sound Archive under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
 
 ##### <a id="39"></a>39  Restrictions on financial transactions
 
-             (1)  The National Film and Sound Archive of Australia must not, without the approval of the Minister:
+             (1)  The National Film and Sound Archive must not, without the approval of the Minister:
 
                      (a)  acquire any property, right or privilege for a consideration exceeding in amount or value the amount prescribed by the regulations for the purposes of this paragraph; or
 
                      (b)  dispose of any property, right or privilege if the amount or value of the consideration for the disposal, or the value of the property, right or privilege, exceeds the amount prescribed by the regulations for the purposes of this paragraph; or
 
-                     (c)  enter into a contract for the construction of a building for the National Film and Sound Archive of Australia, being a contract under which the National Film and Sound Archive of Australia is to pay an amount exceeding the amount prescribed by the regulations for the purposes of this paragraph; or
+                     (c)  enter into a contract for the construction of a building for the National Film and Sound Archive, being a contract under which the National Film and Sound Archive is to pay an amount exceeding the amount prescribed by the regulations for the purposes of this paragraph; or
 
                      (d)  enter into a lease of land for a period exceeding 10 years.
 
-             (2)  Paragraphs (1)(a) and (b) do not apply to the investment of money by the National Film and Sound Archive of Australia under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
+             (2)  Paragraphs (1)(a) and (b) do not apply to the investment of money by the National Film and Sound Archive under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
 
              (3)  If an approval under subsection (1) is in writing, the approval is not a legislative instrument.
 
 ##### <a id="40"></a>40  Taxation
 
-             (1)  The National Film and Sound Archive of Australia is not subject to taxation under any law of the Commonwealth or of a State or Territory.
+             (1)  The National Film and Sound Archive is not subject to taxation under any law of the Commonwealth or of a State or Territory.
 
-Note:          Despite this subsection, the National Film and Sound Archive of Australia may be subject to taxation under certain laws (see, for example, section 177‑5 of the _A New Tax System (Goods and Services Tax) Act 1999_ and section 66 of the _Fringe Benefits Tax Assessment Act 1986_).
+Note:          Despite this subsection, the National Film and Sound Archive may be subject to taxation under certain laws (see, for example, section 177‑5 of the _A New Tax System (Goods and Services Tax) Act 1999_ and section 66 of the _Fringe Benefits Tax Assessment Act 1986_).
 
              (2)  The regulations may provide that subsection (1) does not apply in relation to taxation under a specified law.
 
@@ -825,15 +825,15 @@ Note:          Despite this subsection, the National Film and 
 
 ##### <a id="41"></a>41  Annual reports
 
-                   The annual report on the National Film and Sound Archive of Australia under section 9 of the _Commonwealth Authorities and Companies Act 1997_ must include particulars of all disposals of items in the national collection referred to in paragraph 6(1)(a), during the period to which the report relates, that the National Film and Sound Archive of Australia considers were significant items in the national collection.
+                   The annual report on the National Film and Sound Archive under section 9 of the _Commonwealth Authorities and Companies Act 1997_ must include particulars of all disposals of items in the national collection referred to in paragraph 6(1)(a), during the period to which the report relates, that the National Film and Sound Archive considers were significant items in the national collection.
 
 ##### <a id="42"></a>42  Ministerial direction
 
              (1)  The Minister may, by legislative instrument, give written directions to the Board:
 
-                     (a)  in relation to the performance of the functions of, and the exercise of powers of, the National Film and Sound Archive of Australia; or
+                     (a)  in relation to the performance of the functions of, and the exercise of powers of, the National Film and Sound Archive; or
 
-                     (b)  requiring the provision of a report or advice on a matter that relates to any of the National Film and Sound Archive of Australia’s functions or powers.
+                     (b)  requiring the provision of a report or advice on a matter that relates to any of the National Film and Sound Archive’s functions or powers.
 
 Note 1:       Section 42 (disallowance) of the _Legislative Instruments Act 2003_ does not apply to the direction—see section 44 of that Act.
 
@@ -853,11 +853,11 @@ Note 2:       Part 6 (sunsetting) of the _Legislative Instruments 
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
-# Notes to the _National Film and Sound Archive of Australia Act 2008_
+# Notes to the _National Film and Sound Archive Act 2008_
 
 ### Note 1
 
-The _National Film and Sound Archive of Australia Act 2008_ as shown in this compilation comprises Act No. 14, 2008 amended as indicated in the Tables below.
+The _National Film and Sound Archive Act 2008_ as shown in this compilation comprises Act No. 14, 2008 amended as indicated in the Tables below. 
 
 For application, saving or transitional provisions made by the _Screen Australia (Transfer of Assets) Act 2011_, _see_ Act No. 20, 2011.
 
@@ -922,8 +922,8 @@ Remainder: Royal Assent</div>
     <div>12 Apr 2011</div>
   </td>
   <td>
-    <div>Schedule 1 (item 3): 1 July 2011 
-Schedule 1 (items 4–7): <i>(a)</i> 
+    <div>Schedule 1 (item 3): \[ <i>see</i>Note 2] 
+Schedule 1 (items 4–7): \[ <i>see</i> <i>(a)</i>and Note 2] 
 Schedule 2: 
 13 Apr 2011</div>
   </td>
@@ -1013,7 +1013,8 @@ _(a)_     Subsection 2(1) (items 2 and 3) of the _Screen Australia (Tran
   </td>
   <td>
     <div>
-      1 July 2011
+      \[
+        <i>see</i>Note 2]
     </div>
   </td>
 </tr>
@@ -1031,265 +1032,60 @@ _(a)_     Subsection 2(1) (items 2 and 3) of the _Screen Australia (Tran
   </td>
   <td>
     <div>
-      1 July 2011
+      \[
+        <i>see</i>Note 2]
     </div>
   </td>
 </tr></table>
 
-## Table of Amendments
+### Note 2
 
-<table>
-<colgroup>
-  <col width="34%">
-  <col width="66%">
-</colgroup>
+_Screen Australia (Transfer of Assets) Act 2011 (No. 20, 2011)_
 
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>Title</div>
-  </td>
-  <td>
-    <div>am. No. 20, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 1</div>
-  </td>
-  <td>
-    <div>am. No. 20, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 20, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part 2</div>
-  </td>
-  <td>
-    <div>rs. No. 20, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5</div>
-  </td>
-  <td>
-    <div>am. No. 20, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 5(2)</div>
-  </td>
-  <td>
-    <div>am. No. 20, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subheads. to s. 6(4), (5)</div>
-  </td>
-  <td>
-    <div>am. No. 20, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 6, 7</div>
-  </td>
-  <td>
-    <div>am. No. 20, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part 3</div>
-  </td>
-  <td>
-    <div>rs. No. 20, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 8, 9</div>
-  </td>
-  <td>
-    <div>am. No. 20, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 20, 21</div>
-  </td>
-  <td>
-    <div>am. No. 20, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 31, 32</div>
-  </td>
-  <td>
-    <div>am. No. 20, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 33, 34</div>
-  </td>
-  <td>
-    <div>am. No. 20, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 6</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 37</div>
-  </td>
-  <td>
-    <div>am. No. 20, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 37</div>
-  </td>
-  <td>
-    <div>am. No. 20, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 38</div>
-  </td>
-  <td>
-    <div>am. No. 20, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 38–40</div>
-  </td>
-  <td>
-    <div>am. No. 20, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 40(1)</div>
-  </td>
-  <td>
-    <div>am. No. 20, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 7</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 41, 42</div>
-  </td>
-  <td>
-    <div>am. No. 20, 2011</div>
-  </td>
-</tr></table>
+The following amendment commences on 1 July 2011:
+
+## Schedule 1
+
+## 3  Bulk amendments
+
+The _National Film and Sound Archive Act 2008_ is amended as follows:
+
+                     (a)  by omitting “National Film and Sound Archive” (wherever occurring) and substituting “National Film and Sound Archive of Australia”;
+
+                     (b)  by omitting “National Film and Sound Archive’s” (wherever occurring) and substituting “National Film and Sound Archive of Australia’s”.
+
+_Note:       The headings to sections and subsections of the National Film and Sound Archive Act 2008 are altered as follows:_
+
+(a)    by omitting “**National Film and Sound Archive**” (wherever occurring) and substituting “**National Film and Sound Archive of Australia**”;
+
+(b)    by omitting “_National Film and Sound Archive_” (wherever occurring) and substituting “_National Film and Sound Archive of Australia_”.
+
+The following amendments commence immediately after 1 July 2011:
+
+## Schedule 1
+
+## 4  Title
+
+Omit “**National Film and Sound Archive**”, substitute “**National Film and Sound Archive of Australia**”.
+
+## 5  Section 1
+
+Omit “_National Film and Sound Archive Act 2008_”, substitute “_National Film and Sound Archive of Australia Act 2008_”.
+
+_Note:       This item amends the short title of the Act. If another amendment of the Act is described by reference to the Act’s previous short title, that other amendment has effect after the commencement of this item as an amendment of the Act under its amended short title (see section 10 of the Acts Interpretation Act 1901)._
+
+## 6  Part 2 (heading)
+
+Repeal the heading, substitute:
+
+## Part 2—National Film and Sound Archive of Australia
+
+## 7  Part 3 (heading)
+
+Repeal the heading, substitute:
+
+## Part 3—The Board of the National Film and Sound Archive of Australia
+
+As at 15 April 2011 the amendments are not incorporated in this compilation.
 
  
