@@ -1,29 +1,21 @@
-![](http://www.comlaw.gov.au/Details/C2010C00233/Html/FamiliesCommServIndAffLegAmChiSuppRefConOthMea2007_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00484/Html/FamiliesCommServIndAffLegAmChiSuppRefConOthMea2007_image001.gif)
 
 # Families, Community Services and Indigenous Affairs Legislation Amendment (Child Support Reform Consolidation and Other Measures) Act 2007
 
 **Act No. 82 of 2007 as amended**
 
-This compilation was prepared on 4 March 2010
+This compilation was prepared on 22 August 2008
 
-**\[This Act was amended by Act No. 73 of 2008; No. 8 of 2010]**
+**\[This Act was amended by Act No. 73 of 2008]**
 
 **Amendments from Act No. 73 of 2008**
 
-\[Schedule 2 (item 16) amended subsection 2(1)<span style="color:black">
+\[Schedule 2 (item 16) amended subsection 2(1)
  Schedule 2 (item 17) repealed item 10 of Schedule 1
- Schedule 2 (item 18) repealed and </span>substituted<span style="color:black"> </span>heading to <span style="color:black">item 11 of Schedule 1</span>
+ Schedule 2 (item 18) repealed and substituted heading to item 11 of Schedule 1
 
 Schedule 2 (item 16) commenced immediately after 21 June 2007
- <span style="color:black">Schedule 2 (items 17 and 18) commenced immediately after </span>22 June 2007<span style="color:black">]</span>
-
-**Amendments from Act No. 8 of 2010**
-
-\[Schedule 2 (item 7) repealed and substituted item 34 of Schedule 3<span style="color:black">
- Schedule 2 (item 8) amended note to item 37 of Schedule 3
- Schedule 2 (item 9) amended item 56 of Schedule 8</span>
-
-Schedule 2 (items 7–9) commenced immediately after 1 July 2008<span style="color:black">]</span>
+ Schedule 2 (items 17 and 18) commenced immediately after 22 June 2007]
 
 Prepared by the Office of Legislative Drafting and Publishing,
  Attorney-General’s Department, Canberra
@@ -106,7 +98,7 @@ Part 2—Amendments commencing on 1 July 2008          �
 
 Child Support (Assessment) Act 1989                                                                 101
 
-Child Support (Registration and Collection) Act 1988                                  105
+Child Support (Registration and Collection) Act 1988                                  106
 
 **Schedule 4—Miscellaneous amendments** 
 
@@ -885,11 +877,11 @@ Omit:
 
 <li class="BoxList" style="margin-left:21.25pt;page-break-after:avoid">•      If a
 
-proceeding has been instituted in a court, or before the Registrar under
+proceeding has been instituted in a court, or before the Registrar under Part 6A,
 
-Part 6A, a court may make an order staying or otherwise affecting the
+a court may make an order staying or otherwise affecting the operation of this
 
-operation of this Act during the proceeding.</li>
+Act during the proceeding.</li>
 
 * * *
 
@@ -999,11 +991,11 @@ Repeal the section, substitute:
 
 make orders in respect of, a frivolous or vexatious proceeding.</li>
 
-<li class="BoxList" style="margin-left:21.25pt">•      A decision of a court
+<li class="BoxList" style="margin-left:21.25pt">•      A decision of a court becomes
 
-becomes final at the end of the period for appealing against the decision if no
+final at the end of the period for appealing against the decision if no appeal
 
-appeal is made.</li>
+is made.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      The Registrar may intervene
 
@@ -1655,7 +1647,7 @@ After “55H”, insert “or 55HA (as the case requires)”.
 
 After “child support case”, insert “by setting that annual rate”.
 
-## 106  Subsection 5(1) (subparagraph (a)(ii) of the definition of _income amount order_)
+## 106  Subsection 5(1) (subparagraph (a)(ii) of the definition of _income amount order_)
 
 Omit “or provides for the calculation of that amount”, substitute “by setting that adjusted taxable income or child support income”.
 
@@ -1687,7 +1679,7 @@ _Step 1A._ Work out the costs of the child for the day under section 55HA.
 
 _Step 1B_. If a parent has a positive child support percentage under step 6 of the method statement in section 35, work out the following rate:
 
-              ![](http://www.comlaw.gov.au/Details/C2010C00233/Html/FamiliesCommServIndAffLegAmChiSuppRefConOthMea2007_image002.gif)
+              ![](http://www.comlaw.gov.au/Details/C2008C00484/Html/FamiliesCommServIndAffLegAmChiSuppRefConOthMea2007_image002.gif)
 
 * * *
 
@@ -1713,7 +1705,7 @@ Insert:
 
           (2B)  If a parent has a positive child support percentage under step 6 of the method statement in section 35, work out the following rate:
 
-![](http://www.comlaw.gov.au/Details/C2010C00233/Html/FamiliesCommServIndAffLegAmChiSuppRefConOthMea2007_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00484/Html/FamiliesCommServIndAffLegAmChiSuppRefConOthMea2007_image003.gif)
 
 ## 115  Paragraph 38(4)(a)
 
@@ -2047,11 +2039,11 @@ substitute:
 
 <li class="BoxList" style="margin-left:21.25pt">•      Payments made under lump
 
-sum payment provisions are credited against the amount payable under the
+sum payment provisions are credited against the amount payable under the liability
 
-liability of a party to the agreement (rather than reducing the annual rate of
+of a party to the agreement (rather than reducing the annual rate of child
 
-child support payable).</li>
+support payable).</li>
 
 * * *
 
@@ -2363,7 +2355,7 @@ Repeal the subsections, substitute:
 
              (5)  The remaining lump sum payment, for 1 July in a year of income, is indexed as follows:
 
-![](http://www.comlaw.gov.au/Details/C2010C00233/Html/FamiliesCommServIndAffLegAmChiSuppRefConOthMea2007_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00484/Html/FamiliesCommServIndAffLegAmChiSuppRefConOthMea2007_image004.gif)
 
 where:
 
@@ -2371,7 +2363,7 @@ where:
 
                     <a name="index-factor"></a>**_indexation factor_** means:
 
-![](http://www.comlaw.gov.au/Details/C2010C00233/Html/FamiliesCommServIndAffLegAmChiSuppRefConOthMea2007_image005.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00484/Html/FamiliesCommServIndAffLegAmChiSuppRefConOthMea2007_image005.gif)
 
                     <a name="index-number"></a>**_index number_** for a quarter is the All Groups Consumer Price Index number that is the weighted average of the 8 capital cities and is published by the Australian Statistician in respect of that quarter.
 
@@ -4153,7 +4145,7 @@ Omit “because the person”, substitute “because a person”.
 
 Omit “the person”, substitute “the applicant or a parent who is to be assessed in respect of the costs of the child”.
 
-34  Section 98W
+## 34  Section 98W
 
 Omit:
 
@@ -4163,7 +4155,7 @@ Omit:
 
 person is, or is not, entitled to administrative assessment of child support
 
-for a child because that person or another person is, or is not, a parent of
+for a child because that person or another person is, or is not, the parent of
 
 the child.</li>
 
@@ -4223,7 +4215,7 @@ Applications for declarations
 
                      (b)  if the reason referred to in paragraph (1)(b) was one of the reasons for the Registrar refusing to accept the application—the Registrar should reconsider the application under Division 2 of Part 4 because a person who was to be assessed in respect of the costs of the child is a parent of the child.
 
-_Note:       The heading to section 106A is altered by omitting “is entitled to administrative assessment” and substituting “should be assessed in respect of the costs of the child”._
+_Note:       The heading to section 106A is altered by omitting “is entitled to administrative assessment—carer applications” and substituting “should be assessed in respect of the costs of the child”._
 
 ## 38  Subsections 106A(4) and (5)
 
@@ -4775,7 +4767,7 @@ the commencement of the item.
 
 Omit “liable parent”, substitute “entitled carer”.
 
-## 25  Subsection 45A(4)
+## 25  Subsection 45A(4)
 
 After “in respect of rental property”, insert “(other than prescribed allowable deductions of that kind)”.
 
@@ -4893,7 +4885,7 @@ Repeal the definition, substitute:
 
 Omit “child support”.
 
-## 42  Paragraphs 72(2)(a), (b) and (c)
+## 42  Paragraphs 72(2)(a), (b) and (c)
 
 Omit “child support”.
 
@@ -5103,7 +5095,7 @@ Add:
 
              (4)  For the purposes of step 1 of the method statement in subclause (2), the **_annualised amount of maintenance income_** received in an income year from a registered entitlement of an individual (or an individual’s partner) is the amount worked out by using this formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00233/Html/FamiliesCommServIndAffLegAmChiSuppRefConOthMea2007_image006.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00484/Html/FamiliesCommServIndAffLegAmChiSuppRefConOthMea2007_image006.gif)
 
 ## 13  Paragraph 24D(1)(a) of Schedule 1
 
@@ -5127,7 +5119,7 @@ Repeal the subclause, substitute:
 
              (4)  For the purposes of step 1 of the method statement in subclause (2), the **_annualised amount of maintenance income_** received in an income year from a registered entitlement, and any related private collection entitlement, of an individual (or an individual’s partner) is the amount worked out by using this formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00233/Html/FamiliesCommServIndAffLegAmChiSuppRefConOthMea2007_image007.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00484/Html/FamiliesCommServIndAffLegAmChiSuppRefConOthMea2007_image007.gif)
 
              (5)  In this clause:
 
@@ -5145,7 +5137,7 @@ Repeal the subparagraphs, substitute:
 
 Repeal the formula, substitute:
 
-![](http://www.comlaw.gov.au/Details/C2010C00233/Html/FamiliesCommServIndAffLegAmChiSuppRefConOthMea2007_image008.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00484/Html/FamiliesCommServIndAffLegAmChiSuppRefConOthMea2007_image008.gif)
 
 ## 19  Paragraph 24D(3)(a) of Schedule 1
 
@@ -5163,7 +5155,7 @@ Repeal the paragraph, substitute:
 
 Repeal the formula, substitute:
 
-![](http://www.comlaw.gov.au/Details/C2010C00233/Html/FamiliesCommServIndAffLegAmChiSuppRefConOthMea2007_image009.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00484/Html/FamiliesCommServIndAffLegAmChiSuppRefConOthMea2007_image009.gif)
 
 ## 21  At the end of clause 24D of Schedule 1
 
@@ -5802,7 +5794,7 @@ Omit “a child of the person, being a child to whom point 1067L-F8 applies”, 
 
 ## 56  Paragraph 1067L-F7(b)
 
-Omit “a child to whom point 1067L-F8 applies”, substitute “an FTB child or a regular care child”.
+Omit “a child to whom point 1067L-F6 applies”, substitute “an FTB child or a regular care child”.
 
 _Note:       The heading to point 1067L-F7 is altered by omitting “a child” and substituting “an FTB or regular care child”._
 
@@ -6405,7 +6397,7 @@ Omit “of subregulation 1.05(4) of the _Superannuation Industry (Supervision) R
 
 Repeal the formula, substitute:
 
-![](http://www.comlaw.gov.au/Details/C2010C00233/Html/FamiliesCommServIndAffLegAmChiSuppRefConOthMea2007_image010.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00484/Html/FamiliesCommServIndAffLegAmChiSuppRefConOthMea2007_image010.gif)
 
 _Note:       The heading to subsection 1099DAA(3) is altered by omitting “limit” and substituting “amount”._
 
@@ -6435,11 +6427,11 @@ Note:          The value of a person’s investment in a super
 
              (2)  Despite paragraph 1118(1)(h), the value of the person’s investment in the superannuation fund includes the following amount:
 
-![](http://www.comlaw.gov.au/Details/C2010C00233/Html/FamiliesCommServIndAffLegAmChiSuppRefConOthMea2007_image011.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00484/Html/FamiliesCommServIndAffLegAmChiSuppRefConOthMea2007_image011.gif)
 
              (3)  However, if it is not possible to work out the person’s interest in the superannuation fund, the value of the person’s investment in the fund includes the following amount:
 
-![](http://www.comlaw.gov.au/Details/C2010C00233/Html/FamiliesCommServIndAffLegAmChiSuppRefConOthMea2007_image012.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00484/Html/FamiliesCommServIndAffLegAmChiSuppRefConOthMea2007_image012.gif)
 
 ## 13  At the end of Part 3 of Schedule 1A
 
@@ -6525,7 +6517,7 @@ Omit “of subregulation 1.05(4) of the _Superannuation Industry (Supervision) R
 
 Repeal the formula, substitute:
 
-![](http://www.comlaw.gov.au/Details/C2010C00233/Html/FamiliesCommServIndAffLegAmChiSuppRefConOthMea2007_image010.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00484/Html/FamiliesCommServIndAffLegAmChiSuppRefConOthMea2007_image010.gif)
 
 _Note:       The heading to subsection 46YA(3) is altered by omitting “limit” and substituting “amount”._
 
@@ -6555,11 +6547,11 @@ Note:          The value of a person’s investment in a super
 
              (2)  Despite paragraph 52(1)(g), the value of the person’s investment in the superannuation fund includes the following amount:
 
-![](http://www.comlaw.gov.au/Details/C2010C00233/Html/FamiliesCommServIndAffLegAmChiSuppRefConOthMea2007_image011.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00484/Html/FamiliesCommServIndAffLegAmChiSuppRefConOthMea2007_image011.gif)
 
              (3)  However, if it is not possible to work out the person’s interest in the superannuation fund, the value of the person’s investment in the fund includes the following amount:
 
-![](http://www.comlaw.gov.au/Details/C2010C00233/Html/FamiliesCommServIndAffLegAmChiSuppRefConOthMea2007_image012.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00484/Html/FamiliesCommServIndAffLegAmChiSuppRefConOthMea2007_image012.gif)
 
 ## 26  At the end of Part 1 of Schedule 5
 
@@ -6762,7 +6754,29 @@ Omit “_Child Support (Assessment) Act 1989_”, substitute “Assessment Act�
 ## 33  Subsection 72A(13) (definition of _child support related debt_)
 
 Omit “_Child Support (Assessment) Act 1989_” (wherever occurring), substitute “Assessment Act”.
-
  
+
+##  
+
+ [_Minister’s second reading speech made in—_
+
+_House of Representatives on 29 March 2007_
+
+_Senate on 9 May 2007_]
+
+<div>
+
+<table hspace="0" vspace="0" align="left">
+<colgroup>
+  <col width="NaN%">
+</colgroup>
+
+<tr>
+  <td align="left">
+    <div>(56/07)</div>
+  </td>
+</tr></table>
+
+</div>
 
  
