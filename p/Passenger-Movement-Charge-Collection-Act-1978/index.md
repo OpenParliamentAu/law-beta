@@ -1,7 +1,7 @@
 
 Passenger Movement Charge Collection Act 1978
 Act No. 119 of 1978 as amended 
-This compilation was prepared on 24 May 2001 taking into account amendments up to Act No. 24 of 2001
+This compilation was prepared on 7 February 2001 taking into account amendments up to Act No. 137 of 2000
 The text of any of those amendments not in force  on that date is appended in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
   
@@ -12,20 +12,18 @@ Contents
 2	Commencement [see Note 1]	1
 3	Interpretation	1
 4	Act binds the Crown	4
-4A	Application of the Criminal Code	4
 5	Persons exempt from passenger movement charge	4
 6	Liability to pay passenger movement charge	5
 7	Powers of authorised officers	5
-8	Offences	6
-9	Refunds of passenger movement charge	7
-10	Special arrangements for payment of passenger movement charge	8
-11	Charge stamps and exemption stamps	8
+8	Offences	5
+9	Refunds of passenger movement charge	6
+10	Special arrangements for payment of passenger movement charge	7
+11	Charge stamps and exemption stamps	7
 12	Recovery of passenger movement charge	9
 13	Averment	9
-14	Delegation	10
+14	Delegation	9
 15	Regulations	10
-Notes		13
-
+Notes		11
 An Act relating to charge imposed in respect of the departure of persons from Australia
 1  Short title [see Note 1]
 		This Act may be cited as the Passenger Movement Charge Collection Act 1978.
@@ -81,9 +79,6 @@ transit passenger means a person who arrives in Australia from a place outside A
 Zone of Cooperation has the same meaning as in the Timor Gap Treaty.
 4  Act binds the Crown
 		This Act binds the Crown in right of the Commonwealth and of each State.
-4A  Application of the Criminal Code
-		Chapter 2 of the Criminal Code applies to all offences against this Act.
-Note:	Chapter 2 of the Criminal Code sets out the general principles of criminal responsibility.
 5  Persons exempt from passenger movement charge
 		A person departing from Australia does not have to pay the charge in relation to his or her departure if, at the time of his or her departure, the person:
 	(a)	is under 12 years old; or
@@ -110,28 +105,18 @@ Note:	Chapter 2 of the Criminal Code sets out the general principles of crimina
 6  Liability to pay passenger movement charge
 	(1)	Charge in respect of the departure of a person from Australia is payable by the person before the departure.
 	(2)	Where charge in respect of the departure of a person from Australia is not paid before the departure, the person is guilty of an offence punishable upon conviction by a fine not exceeding 1 penalty unit.
-	(2A)	Subsection (2) is an offence of strict liability.
-Note:	For strict liability, see section 6.1 of the Criminal Code.
 	(3)	Where a person is convicted of an offence against subsection (2), the court may, in addition to imposing a penalty under that subsection, order the person to pay to the Commonwealth the amount of charge not paid by the person.
 7  Powers of authorised officers
 	(2)	An authorized officer may, for the purpose of ascertaining whether charge has been or will be paid in respect of the departure from Australia of a person who, in the opinion of the authorized officer, is about to depart from Australia for another country or for an external Territory, require that person, or any other person who may, in the opinion of the authorized officer, have information with respect to the matter, to answer questions or produce documents to him or her, or both.
 8  Offences
-	(1)	A person shall not fail to answer a question or produce a document when required to do so in pursuance of subsection 7(2).
+	(1)	A person shall not, without reasonable excuse, refuse to answer a question or produce a document when required to do so in pursuance of subsection 7(2).
 Penalty:	1 penalty unit.
-	(1A)	Subsection (1) does not apply if the person has a reasonable excuse.
-Note:	A defendant bears an evidential burden in relation to the matter in subsection (1A) (see subsection 13.3(3) of the Criminal Code).
-	(1B)	Subsection (1) is an offence of strict liability.
-Note:	For strict liability, see section 6.1 of the Criminal Code.
-	(3)	A person shall not obstruct or hinder an authorized officer acting in the performance of his or her functions or the exercise of his or her powers under this Act.
+	(2)	A person shall not, when required to answer a question or produce a document in pursuance of subsection 7(2), make a statement, or produce a document, that is false or misleading in a material particular.
 Penalty:	5 penalty units.
-	(3A)	Subsection (3) does not apply if the person has a reasonable excuse.
-Note:	A defendant bears an evidential burden in relation to the matter in subsection (3A) (see subsection 13.3(3) of the Criminal Code).
+	(3)	A person shall not, without reasonable excuse, obstruct or hinder an authorized officer acting in the performance of his or her functions or the exercise of his or her powers under this Act.
+Penalty:	5 penalty units.
 	(4)	A person shall not assault or threaten an authorized officer acting in the performance of his or her functions or the exercise of his or her powers under this Act.
 Penalty:	10 penalty units or imprisonment for 6 months, or both.
-	(5)	For the purposes of an offence against subsection (3) or (4), strict liability applies to the following physical elements of circumstance of the offence:
-	(a)	that the person obstructed or hindered is an authorised officer;
-	(b)	that the authorised officer is acting in the performance of his or her functions or the exercise of his or her powers under this Act.
-Note:	For strict liability, see section 6.2 of the Criminal Code.
 9  Refunds of passenger movement charge
 	(1)	A person is entitled to a refund of charge paid by the person if:
 	(a)	the departure in respect of which the charge was paid does not take place;
@@ -141,8 +126,8 @@ Note:	For strict liability, see section 6.2 of the Criminal Code.
 	(2)	If an authorized officer, by instrument in writing, so directs, a refund to which a person is entitled by virtue of subsection (1) shall be applied in discharge of the liability of the person for charge payable by the person in respect of a departure specified in the instrument, and a refund that is so applied shall be deemed to have been paid to the person.
 	(3)	A person shall not:
 	(a)	obtain a refund that is not payable;
-	(b)	make a statement, in or in connection with a claim for a refund, reckless as to the fact that the statement is false or misleading in a material particular; or
-	(c)	present a document, in connection with an application for a refund, reckless as to the fact that the document is false or misleading in a material particular.
+	(b)	make, in or in connection with a claim for a refund, a statement that is false or misleading in a material particular; or
+	(c)	present, in connection with an application for a refund, a document that is false or misleading in a material particular.
 Penalty:	5 penalty units.
 	(4)	Where a person is convicted of an offence against subsection (3), the court may, in addition to imposing a penalty under that subsection, order the person to repay to the Commonwealth the amount of any refund incorrectly paid to the person.
 10  Special arrangements for payment of passenger movement charge
@@ -251,13 +236,8 @@ Ss. 4-6  [see Table A]
 Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000
 137, 2000
 24 Nov 2000
-Ss. 1‑3 and Schedule 1 (items 1, 4, 6, 7, 9‑11, 32): Royal Assent Remainder: 24 May 2001
+Schedule 2 (items 310, 418, 419): [see (d), Note 2 and Table A]
 Sch. 2 (items 418, 419) [see Table A]
-Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001
-24, 2001
-6 Apr 2001
-S. 4(1), (2) and Schedule 39: (d)
-S. 4(1), (2) [see Table A]
 (a)	The Passenger Movement Charge Collection Act 1978 was amended by section 99 only of the Civil Aviation Act 1988, subsection 2(2) of which provides as follows:
 	(2)	Part III, section 98 and Part X, and the amendments made by Part IX, commence on a day or days to be fixed by Proclamation.
 (b)	The Passenger Movement Charge Collection Act 1978 was amended by section 85 only of the Migration Legislation Amendment Act 1994, subsection 2(3) of which provides as follows:
@@ -265,10 +245,9 @@ S. 4(1), (2) [see Table A]
 	Section 3 commenced on 1 September 1994.
 (c)	The Passenger Movement Charge Collection Act 1978 was amended by Schedule 2 (items 38 and 39) only of the Timor Gap Treaty (Transitional Arrangements) Act 2000, subsection 2(2) of which provides as follows:
 	(2)	Sections 3 to 7 and Schedules 1 and 2 (other than items 18 to 25 of Schedule 2) are taken to have commenced at the transition time. [see Table A]
-(d)	The Passenger Movement Charge Collection Act 1978 was amended by Schedule 39 only of the Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001, subsection 2(1)(a) of which provides as follows:
-	(1)	Subject to this section, this Act commences at the later of the following times:
-	(a)	immediately after the commencement of item 15 of Schedule 1 to the Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000;
-	Item 15 commenced on 24 May 2001.
+(d)	The Passenger Movement Charge Collection Act 1978 was amended by Schedule 2 (item 310) only of the Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000, subsections 2(2) and (3) of which provide as follows:
+	(2)	Subject to this section, the provisions of this Act that are not covered by subsection (1) commence on a day to be fixed by Proclamation. [see Note 2]
+	(3)	If item 15 of Schedule 1 to this Act does not commence under subsection (2) within the period of 6 months beginning on the day on which this Act receives the Royal Assent, the provisions of this Act that are not covered by subsection (1) commence on the first day after the end of that period. This subsection has effect subject to the following subsections of this section. [see Note 2]
 Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
@@ -279,20 +258,16 @@ S. 1
 am. No. 159, 1994
 S. 3	
 am. No. 38, 1986; Nos. 48 and 63, 1988; No. 104, 1992; No. 159, 1994; No. 65, 1995; No. 25, 2000
-S. 4A	
-ad. No. 24, 2001
 S. 5	
 am. No. 132, 1981; No. 59, 1989; Nos. 60 and 159, 1994
 
 rs. No. 65, 1995
 S. 6	
-am. No. 159, 1994; No. 24, 2001
-S. 7	
+am. No. 159, 1994
+Ss. 7, 8	
 am. No. 159, 1994; No. 65, 1995
-S. 8	
-am. No. 159, 1994; No. 65, 1995; No. 137, 2000; No. 24, 2001
 S. 9	
-am. Nos. 60 and 159, 1994; No. 24, 2001
+am. Nos. 60 and 159, 1994
 S. 10	
 am. No. 159, 1994; No. 65, 1995
 S. 11	
@@ -308,9 +283,16 @@ am. No. 38, 1986; No. 60, 1994
 S. 15	
 am. No. 48, 1988; No. 159, 1994
 
+Note 2
+Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)
+The following amendment commences on 24 May 2001 unless proclaimed earlier:
+Schedule 2
+310  Subsection 8(2)
+Repeal the subsection.
+As at 7 February 2001 the amendment is not incorporated in this compilation.
 Table A
 Application, saving or transitional provisions
-Timor Gap Treaty (Transitional Arrangements) Act 2000 (No. 25, 2000)
+Timor Gap Treaty (Transitional Arrangements) Act 2000  (No. 25, 2000)
 4  The transition time
 		In this Act:
 transition time means 1.23 am Australian Central Standard Time on 26 October 1999.
@@ -327,6 +309,7 @@ UNTAET means the United Nations Transitional Administration in East Timor.
 		A person does not commit an offence if the person would not have committed the offence had the amendments made by the items in Schedules 1 and 2 (other than items 18 to 25 of Schedule 2) commenced on the day on which this Act received the Royal Assent (rather than commencing at the transition time).
 
 Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)
+The following provisions commence on 24 May 2001 unless proclaimed earlier:
 Schedule 2
 418  Transitional—pre‑commencement offences
 (1)	Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
@@ -341,9 +324,4 @@ If:
 	(b)	any or all of those other provisions are repealed by this Schedule; and
 	(c)	the first‑mentioned provision is amended by this Schedule;
 the amendment of the first‑mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
-
-Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001 (No. 24, 2001)
-4  Application of amendments
-	(1)	Subject to subsection (3), each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
-	(2)	For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
 
