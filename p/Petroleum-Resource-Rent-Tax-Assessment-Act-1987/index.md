@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00938/Html/7733cdce-20a5-4b2e-91b7-6d5550cd5cd1_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00885/Html/20aadd0b-716b-4106-97d8-816cc6e07e18_files/image001.gif)
 
 # Petroleum Resource Rent Tax Assessment Act 1987
 
 **Act No. 142 of 1987 as amended**
 
-This compilation was prepared on 7 December 2011
- taking into account amendments up to Act No. 136 of 2011
+This compilation was prepared on 3 November 2011
+ taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -37,8 +37,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [2C](#2C).         Greater Sunrise apportionments
 
 [2D](#2D).         Future closing‑down expenditure
-
-[2E](#2E).          _Marketable petroleum commodity_
 
 [3](#3).            Petroleum pools
 
@@ -668,7 +666,21 @@ other than exploration expenditure that is incurred in evaluating or delineating
 
                      (h)  in relation to any subsequent financial year—the average, expressed as a decimal fraction, of the assessed secondary market yields in respect of 10‑year non‑rebate Treasury bonds published by the Reserve Bank during that year or, if no assessed secondary market yield in respect of bonds of that kind was published by the Reserve Bank during the year, the decimal fraction determined by the Treasurer by notice in writing published in the _Gazette_ for the purposes of this definition in relation to the financial year.
 
-                    <a name="market-petroleum-commod"></a>**_marketable petroleum commodity_** has the meaning given by section 2E.
+                    <a name="market-petroleum-commod"></a>**_marketable petroleum commodity_** means any of the following products produced from petroleum:
+
+                     (a)  stabilised crude oil;
+
+                     (b)  sales gas;
+
+                     (c)  condensate;
+
+                     (d)  liquefied petroleum gas;
+
+                     (e)  ethane;
+
+                      (f)  any other product declared by the regulations to be a marketable petroleum commodity;
+
+not being a product produced from another product of a kind referred to in paragraphs (a) to (f) (inclusive).
 
                     <a name="market-valu"></a>**_market value_**, of a commodity, at a particular time, is its market value reduced by an amount equal to the amount of the input tax credit (if any) to which a person would be entitled if:
 
@@ -968,7 +980,7 @@ there is taken not to be a designated company group of which:
 
                      (b)  if the current apportionment percentage changed during the year of tax—means the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00938/Html/7733cdce-20a5-4b2e-91b7-6d5550cd5cd1_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00885/Html/20aadd0b-716b-4106-97d8-816cc6e07e18_files/image002.gif)
 
                             where:
 
@@ -994,7 +1006,7 @@ there is taken not to be a designated company group of which:
 
              (2)  The amount of the person’s future closing‑down expenditure is worked out as follows:
 
-![](http://www.comlaw.gov.au/Details/C2011C00938/Html/7733cdce-20a5-4b2e-91b7-6d5550cd5cd1_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00885/Html/20aadd0b-716b-4106-97d8-816cc6e07e18_files/image003.gif)
 
 where:
 
@@ -1020,37 +1032,7 @@ Example:    On the termination of a petroleum project and the coming into 
 
                    The amount of the person’s future closing‑down expenditure is:
 
-![](http://www.comlaw.gov.au/Details/C2011C00938/Html/7733cdce-20a5-4b2e-91b7-6d5550cd5cd1_files/image004.gif)
-
-##### <a id="2E"></a>2E  _Marketable petroleum commodity_
-
-             (1)  A **_marketable petroleum commodity_** is a product listed in subsection (2) that:
-
-                     (a)  is produced from petroleum for the purpose of:
-
-                              (i)  sale; or
-
-                             (ii)  use as a feedstock for conversion to another product (whether a product listed in subsection (2) or not); or
-
-                            (iii)  direct consumption as energy; and
-
-                     (b)  is in its final form for that purpose.
-
-             (2)  The products are as follows:
-
-                     (a)  stabilised crude oil;
-
-                     (b)  sales gas;
-
-                     (c)  condensate;
-
-                     (d)  liquefied petroleum gas;
-
-                     (e)  ethane;
-
-                      (f)  any other product specified in regulations made for the purposes of this paragraph.
-
-             (3)  However, a product cannot be a **_marketable petroleum commodity_** if it has been produced wholly or partly from a product that was a marketable petroleum commodity.
+![](http://www.comlaw.gov.au/Details/C2011C00885/Html/20aadd0b-716b-4106-97d8-816cc6e07e18_files/image004.gif)
 
 ##### <a id="3"></a>3  Petroleum pools
 
@@ -1146,7 +1128,7 @@ Post‑30 June 2008 petroleum project
 
 then, for the purposes of the application of this Act to the petroleum project mentioned in paragraph (a) of this subsection, the amount of the exploration expenditure mentioned in paragraph (d) of this subsection is taken to be the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00938/Html/7733cdce-20a5-4b2e-91b7-6d5550cd5cd1_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00885/Html/20aadd0b-716b-4106-97d8-816cc6e07e18_files/image005.gif)
 
 where:
 
@@ -1482,7 +1464,7 @@ Allowing for Greater Sunrise apportionments
 
              (2)  However, if the petroleum project is a Greater Sunrise project, the person is taken for the purposes of this Act to have a taxable profit in relation to the project and the year of tax of an amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00938/Html/7733cdce-20a5-4b2e-91b7-6d5550cd5cd1_files/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00885/Html/20aadd0b-716b-4106-97d8-816cc6e07e18_files/image006.gif)
 
 where:
 
@@ -1746,7 +1728,7 @@ in relation to that expenditure or liability.
 
                      (c)  where the financial year is the year in which the project combination certificate in relation to the project came into force—any amount of class 1 general project expenditure, or any amount that is taken by subsection (3) or Division 5 to be class 1 augmented bond rate general expenditure, incurred by the person in relation to the pre‑combination projects in relation to the project in the financial year.
 
-             (3)  For the purposes of subsection (1) or (2), where the class 1 augmented bond rate general expenditure incurred by a person in a financial year in relation to a petroleum project exceeds the assessable receipts derived by the person in the financial year in relation to the project, an amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2011C00938/Html/7733cdce-20a5-4b2e-91b7-6d5550cd5cd1_files/image007.gif), where:
+             (3)  For the purposes of subsection (1) or (2), where the class 1 augmented bond rate general expenditure incurred by a person in a financial year in relation to a petroleum project exceeds the assessable receipts derived by the person in the financial year in relation to the project, an amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2011C00885/Html/20aadd0b-716b-4106-97d8-816cc6e07e18_files/image007.gif), where:
 
                     <a name=""></a>**_A_** is the amount of the excess; and
 
@@ -1774,7 +1756,7 @@ shall be taken to be class 1 augmented bond rate general expenditure incurred by
 
                      (c)  where the financial year is the year in which the project combination certificate in relation to the project came into force—any amount of class 1 exploration expenditure, or any amount that is taken by subsection (3), paragraph 36 (1) (b) or Division 5 to be class 1 augmented bond rate exploration expenditure, incurred by the person in relation to the pre‑combination projects in relation to the project in the financial year.
 
-             (3)  For the purposes of subsection (1) or (2), where the sum of the class 1 augmented bond rate general expenditure and the class 1 augmented bond rate exploration expenditure incurred by a person in a financial year in relation to a petroleum project exceeds the assessable receipts derived by the person in the financial year in relation to the project, an amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2011C00938/Html/7733cdce-20a5-4b2e-91b7-6d5550cd5cd1_files/image008.gif), where:
+             (3)  For the purposes of subsection (1) or (2), where the sum of the class 1 augmented bond rate general expenditure and the class 1 augmented bond rate exploration expenditure incurred by a person in a financial year in relation to a petroleum project exceeds the assessable receipts derived by the person in the financial year in relation to the project, an amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2011C00885/Html/20aadd0b-716b-4106-97d8-816cc6e07e18_files/image008.gif), where:
 
                     <a name=""></a>**_A_**is so much of the excess as does not exceed the amount of the class 1 augmented bond rate exploration expenditure; and
 
@@ -1818,7 +1800,7 @@ shall be taken to be class 1 augmented bond rate exploration expenditure incurre
 
 incurred by a person in a financial year (in this subsection called the **_assessable year_**) in relation to a petroleum project exceeds the assessable receipts derived by the person in the assessable year in relation to the project, the person is taken to incur, in relation to the project and on the first day of the next financial year, an amount of class 2 augmented bond rate general expenditure worked out in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00938/Html/7733cdce-20a5-4b2e-91b7-6d5550cd5cd1_files/image009.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00885/Html/20aadd0b-716b-4106-97d8-816cc6e07e18_files/image009.gif)
 
 where:
 
@@ -1986,7 +1968,7 @@ Note:          The expressions **_SES employee_** and **_actin
 
                    For the purposes of this Act, the amount of **_uplifted frontier expenditure_** that a person is taken to have incurred in a financial year in relation to a petroleum project is worked out as follows:
 
-![](http://www.comlaw.gov.au/Details/C2011C00938/Html/7733cdce-20a5-4b2e-91b7-6d5550cd5cd1_files/image010.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00885/Html/20aadd0b-716b-4106-97d8-816cc6e07e18_files/image010.gif)
 
 ##### <a id="37"></a>37  Exploration expenditure
 
@@ -2170,7 +2152,7 @@ the person shall, for the purposes of this Act, be taken to have incurred expend
 
                      (g)  payments to acquire interests in petroleum project profits, receipts or expenditures; or
 
-                     (h)  payments of tax under the _Income Tax Assessment Act 1936_ or the _Income Tax Assessment Act 1997_; or
+                     (h)  payments of tax under the _Income Tax Assessment Act 1936_, or the _Income Tax Assessment Act 1997_; or
 
                       (i)  payments of GST under the GST Act; or
 
@@ -2374,7 +2356,7 @@ Greater Sunrise closing‑down credits
 
              (2)  However, for the purposes of the operation of paragraph (1)(a) in relation to a Greater Sunrise project, the amount that is so much of the excess as does not exceed the amount of the closing‑down expenditure is taken to be the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00938/Html/7733cdce-20a5-4b2e-91b7-6d5550cd5cd1_files/image011.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00885/Html/20aadd0b-716b-4106-97d8-816cc6e07e18_files/image011.gif)
 
 where:
 
@@ -2608,7 +2590,7 @@ and any such determination has effect accordingly.
 
 ##### <a id="55"></a>55  Operation of Subdivision
 
-                   Nothing in the provisions of this Act other than this Subdivision or in the _International Tax Agreements Act 1953_ shall be taken to limit the operation of this Subdivision.
+                   Nothing in the provisions of this Act other than this Subdivision or in the _International Tax Agreements Act 1953_ shall be taken to limit the operation of this Subdivision.
 
 #### Subdivision B—Non‑arm’s length transactions
 
@@ -3514,7 +3496,7 @@ Note:          For provisions about collection and recovery of
 
              (1)  Subject to subsection (2), the notional tax amount of a person, in relation to a petroleum project and an instalment period in a year of tax, is the amount worked out in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00938/Html/7733cdce-20a5-4b2e-91b7-6d5550cd5cd1_files/image012.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00885/Html/20aadd0b-716b-4106-97d8-816cc6e07e18_files/image012.gif)
 
 where:
 
@@ -3642,7 +3624,7 @@ Note:          Subdivision 388‑B in Schedule 1 to the _T
 
              (2)  The rate is:
 
-![](http://www.comlaw.gov.au/Details/C2011C00938/Html/7733cdce-20a5-4b2e-91b7-6d5550cd5cd1_files/image013.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00885/Html/20aadd0b-716b-4106-97d8-816cc6e07e18_files/image013.gif)
 
              (3)  In this section:
 
@@ -3960,7 +3942,7 @@ Note 2:       There is an administrative penalty if you do not keep 
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act;
 
-and, in particular, may make regulations prescribing penalties not exceeding a fine of 5 penalty units for offences against the regulations.
+and, in particular, may make regulations prescribing penalities not exceeding a fine of 5 penalty units for offences against the regulations.
 
 # Schedule—Provisions relating to incurring and transfer of exploration expenditure on or after 1 July 1990
 
@@ -4232,7 +4214,7 @@ Transfers from a Greater Sunrise project
 
              (1)  If, in relation to a year of tax, transferable exploration expenditure is transferred from a Greater Sunrise project to a petroleum project other than a Greater Sunrise project, the amount of that expenditure for the purposes of the other petroleum project is taken to be the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00938/Html/7733cdce-20a5-4b2e-91b7-6d5550cd5cd1_files/image014.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00885/Html/20aadd0b-716b-4106-97d8-816cc6e07e18_files/image014.gif)
 
 where:
 
@@ -4244,7 +4226,7 @@ Transfers to a Greater Sunrise project
 
              (2)  If, in relation to a year of tax, transferable exploration expenditure is transferred to a Greater Sunrise project from a petroleum project other than a Greater Sunrise project, the amount of that expenditure for the purposes of the Greater Sunrise project is taken to be the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00938/Html/7733cdce-20a5-4b2e-91b7-6d5550cd5cd1_files/image015.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00885/Html/20aadd0b-716b-4106-97d8-816cc6e07e18_files/image015.gif)
 
 where:
 
@@ -4302,7 +4284,7 @@ In this Part, the financial year is called the **_assessable year_**.
 
                      (b)  if the ABR expenditure year is an earlier financial year—work out, in relation to the ABR expenditure year and each later financial year ending before the assessable year, an amount in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00938/Html/7733cdce-20a5-4b2e-91b7-6d5550cd5cd1_files/image016.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00885/Html/20aadd0b-716b-4106-97d8-816cc6e07e18_files/image016.gif)
 
                             where:
 
@@ -4322,4 +4304,3556 @@ In this Part, the financial year is called the **_assessable year_**.
 
                      (a)  the person is taken to have incurred an amount of class 2 augmented bond rate exploration expenditure in the assessable year in relation to the project equal to the total of those available exploration expenditure amounts; and
 
-                     (b)  that class 2 augmented bond rate exploration expenditure is attributable to all the
+                     (b)  that class 2 augmented bond rate exploration expenditure is attributable to all the expenditure included in the incurred exploration expenditure amounts for the assessable year and the previous ABR expenditure years; and
+
+                     (c)  none of the expenditure included in the incurred exploration expenditure amounts for the assessable year and the previous ABR expenditure years is transferable by the person in relation to the assessable year.
+
+             (5)  If the total of the available exploration expenditure amounts for the assessable year and the previous ABR expenditure years exceeds the notional taxable profit:
+
+                     (a)  the person is taken to have incurred an amount of class 2 augmented bond rate exploration expenditure in the assessable year in relation to the project equal to the notional taxable profit; and
+
+                     (b)  the expenditure to which that class 2 augmented bond rate exploration expenditure is attributable is to be worked out in accordance with whichever of subclauses (6) and (7) is applicable; and
+
+                     (c)  the expenditure included in the incurred exploration expenditure amounts for the assessable year and the previous ABR expenditure years that is not expenditure to which that class 2 augmented bond rate exploration expenditure is attributable is transferable by the person in relation to the assessable year.
+
+             (6)  If:
+
+                     (a)  class 2 augmented bond rate exploration expenditure is taken to be incurred by subclause (5); and
+
+                     (b)  the available exploration expenditure amount for the earliest of the ABR expenditure years for which there is such an amount equals or exceeds the notional taxable profit;
+
+the class 2 augmented bond rate exploration expenditure is attributable to so much of the expenditure included in the incurred exploration expenditure amount for that ABR expenditure year as, if it had been the only expenditure included in that amount, would have made the available exploration expenditure amount for that ABR expenditure year equal the notional taxable profit.
+
+             (7)  If:
+
+                     (a)  class 2 augmented bond rate exploration expenditure is taken to be incurred by subclause (5); and
+
+                     (b)  the notional taxable profit exceeds the available exploration expenditure amount for the earliest of the ABR expenditure years for which there is such an amount;
+
+the following provisions have effect:
+
+                     (c)  add amounts in accordance with the following rules:
+
+                              (i)  start with the available exploration expenditure amount for the earliest of the ABR expenditure years for which there is such an amount and add to that, in order starting with the next earliest ABR expenditure year, the available exploration expenditure amounts for the later ABR expenditure years;
+
+                             (ii)  if adding the available exploration expenditure amount for an ABR expenditure year would make the total exceed the notional taxable profit, add only so much of that amount as makes the total equal the notional taxable profit and do not add the available exploration expenditure amount for any later ABR expenditure year;
+
+                     (d)  the class 2 augmented bond rate expenditure is attributable to:
+
+                              (i)  all the expenditure included in the incurred exploration expenditure amounts for each ABR expenditure year in relation to which the whole available exploration expenditure amount was added in accordance with subparagraphs (c)(i) and (ii); and
+
+                             (ii)  if, under those subparagraphs, part only of the available exploration expenditure amount for an ABR expenditure year was added—so much of the expenditure included in the incurred exploration expenditure amount for that ABR expenditure year as, if it had been the only expenditure included in that amount, would have made the available exploration expenditure amount for that ABR expenditure year equal the added part.
+
+## Part 3—Class 2 GDP factor expenditure and transferable exploration expenditure
+
+##### <a id="9"></a>9  Interpretation
+
+                   In this Part:
+
+                    <a name="notion-taxabl-profit"></a>**_notional taxable profit_**, in relation to a person, a petroleum project and a financial year, means the amount (if any) that would be the taxable profit in relation to the person, the project and the financial year if:
+
+                     (a)  the person had not incurred any class 2 GDP factor expenditure or closing‑down expenditure in relation to the project and the financial year; and
+
+                     (b)  any expenditure transferred:
+
+                              (i)  to the project in relation to the financial year under section 45A; or
+
+                             (ii)  to the person in relation to the project and the financial year under section 45B;
+
+                            had not been transferred.
+
+##### <a id="10"></a>10  Matters dealt with in this Part
+
+             (1)  This Part deals with:
+
+                     (a)  the calculation of the amount of class 2 GDP factor expenditure that a person is taken to have incurred in a financial year in relation to a petroleum project; and
+
+                     (b)  the calculation of the amount of expenditure incurred by the person in relation to the project in GDP expenditure years that is transferable from the project in relation to the financial year.
+
+In this Part, the financial year is called the **_assessable year_**.
+
+             (2)  For the avoidance of doubt, the assessable year may be a financial year starting after the finishing day in relation to the petroleum project.
+
+##### <a id="11"></a>11  What happens if there is no notional taxable profit
+
+                   If there is no notional taxable profit in relation to the person, the petroleum project and the assessable year:
+
+                     (a)  the person is taken not to have incurred any class 2 GDP factor expenditure in relation to the assessable year and the project; and
+
+                     (b)  all the expenditure included in the incurred exploration expenditure amounts for the GDP expenditure years is transferable by the person in relation to the assessable year.
+
+##### <a id="12"></a>12  What happens if there is a notional taxable profit
+
+             (1)  This clause applies if there is a notional taxable profit in relation to the person, the petroleum project and the assessable year.
+
+             (2)  For the purposes of this clause, the available exploration expenditure amount for a GDP expenditure year is worked out as follows:
+
+                     (a)  work out, in relation to the GDP expenditure year and each later financial year ending before the assessable year, an amount in accordance with the formula:
+
+![](http://www.comlaw.gov.au/Details/C2011C00885/Html/20aadd0b-716b-4106-97d8-816cc6e07e18_files/image017.gif)
+
+                            where:
+
+**_Exploration expenditure amount_** means:
+
+                              (i)  in making the calculation in relation to the GDP expenditure year—the incurred exploration expenditure amount in relation to the GDP expenditure year; or
+
+                             (ii)  in making the calculation in relation to one of the later financial years—the amount calculated under this paragraph in relation to the immediately preceding financial year for the purpose of working out the available exploration expenditure amount for the GDP expenditure year;
+
+**_GDP factor_** means the GDP factor in relation to the financial year in relation to which the calculation is being made;
+
+                     (b)  the available exploration expenditure amount for the GDP expenditure year is the amount worked out under paragraph (a) in relation to the most recent of the later financial years referred to in that paragraph.
+
+             (3)  If the total of the available exploration expenditure amounts for the GDP expenditure years is less than or equal to the notional taxable profit:
+
+                     (a)  the person is taken to have incurred an amount of class 2 GDP factor expenditure in the assessable year in relation to the project equal to the total of those available exploration expenditure amounts; and
+
+                     (b)  that class 2 GDP factor expenditure is attributable to all the expenditure included in the incurred exploration expenditure amounts for the GDP expenditure years; and
+
+                     (c)  none of the expenditure included in the incurred exploration expenditure amounts for the GDP expenditure years is transferable by the person in relation to the assessable year.
+
+             (4)  If the total of the available exploration expenditure amounts for the GDP expenditure years exceeds the notional taxable profit:
+
+                     (a)  the person is taken to have incurred an amount of class 2 GDP factor expenditure in the assessable year in relation to the project equal to the notional taxable profit; and
+
+                     (b)  the expenditure to which that class 2 GDP factor expenditure is attributable is to be worked out in accordance with whichever of subclauses (5) and (6) is applicable; and
+
+                     (c)  the expenditure included in the incurred exploration expenditure amounts for the GDP expenditure years that is not expenditure to which that class 2 GDP factor expenditure is attributable is transferable by the person in relation to the assessable year.
+
+             (5)  If:
+
+                     (a)  class 2 GDP factor expenditure is taken to be incurred by subclause (4); and
+
+                     (b)  the available exploration expenditure amount for the earliest of the GDP expenditure years for which there is such an amount equals or exceeds the notional taxable profit;
+
+the class 2 GDP factor expenditure is attributable to so much of the expenditure included in the incurred exploration expenditure amount for that GDP expenditure year as, if it had been the only expenditure included in that amount, would have made the available exploration expenditure amount for that GDP expenditure year equal the notional taxable profit.
+
+             (6)  If:
+
+                     (a)  class 2 GDP factor expenditure is taken to be incurred by subclause (4); and
+
+                     (b)  the notional taxable profit exceeds the available exploration expenditure amount for the earliest of the GDP expenditure years for which there is such an amount;
+
+the following provisions have effect:
+
+                     (c)  add amounts in accordance with the following rules:
+
+                              (i)  start with the available exploration expenditure amount for the earliest of the GDP expenditure years for which there is such an amount and add to that, in order starting with the next earliest GDP expenditure year, the available exploration expenditure amounts for the later GDP expenditure years;
+
+                             (ii)  if adding the available exploration expenditure amount for a GDP expenditure year would make the total exceed the notional taxable profit, add only so much of that amount as makes the total equal the notional taxable profit and do not add the available exploration expenditure amount for any later GDP expenditure year;
+
+                     (d)  the class 2 GDP factor expenditure is attributable to:
+
+                              (i)  all the expenditure included in the incurred exploration expenditure amounts for each GDP expenditure year for which the whole available exploration expenditure amount was added in accordance with subparagraphs (c)(i) and (ii); and
+
+                             (ii)  if, under those subparagraphs, part only of the available exploration expenditure amount for a GDP expenditure year was added—so much of the expenditure included in the incurred exploration expenditure amount for that GDP expenditure year as, if it had been the only expenditure included in that amount, would have made the available exploration expenditure amount for that GDP expenditure year equal the added part.
+
+## Part 4—Transferable exploration expenditure not incurred in relation to a project
+
+##### <a id="13"></a>13  Matters dealt with in this Part
+
+             (1)  Subject to subclauses (2) and (3), this Part deals with the calculation of the amount of expenditure incurred by a person in relation to an exploration permit or retention lease that is transferable from the permit or lease in relation to a financial year. In this Part, the financial year is called the **_assessable year_**.
+
+          (1A)  For the avoidance of doubt, the assessable year may, subject to subclause (2), be a financial year starting after the finishing day in relation to the exploration permit or retention lease.
+
+             (2)  This Part does not apply to an exploration permit or retention lease in relation to a financial year if a production licence derived from the permit or lease was actually in force at any time during the financial year.
+
+             (3)  This Part does not apply to an exploration permit or retention lease if it is, or is related to, one of the North West Shelf exploration permits.
+
+##### <a id="14"></a>14  Assumptions on which amounts to be worked out
+
+                   Amounts worked out under this Part in relation to the exploration permit or retention lease and a period (including a financial year) are to be worked out on the assumptions that:
+
+                     (a)  a production licence derived from the permit or lease was in force at all times during the period; and
+
+                     (b)  the petroleum project to which that production licence was related consisted only of that production licence.
+
+In this Part, the petroleum project referred to in paragraph (b) is called the **_notional project_**.
+
+##### <a id="15"></a>15  Non‑transferable expenditure
+
+             (1)  For the purposes of this Part, if:
+
+                     (a)  the person incurred exploration expenditure, or is taken to have incurred uplifted frontier expenditure, in relation to the notional project in a financial year; and
+
+                     (b)  the total amount of assessable receipts derived by the person in relation to the notional project in the financial year equals or exceeds the total amount of deductible expenditure actually incurred by the person in relation to the notional project in the financial year;
+
+the total of the amounts of exploration expenditure (other than designated frontier expenditure), and uplifted frontier expenditure, is taken to be non‑transferable expenditure incurred by the person in relation to the notional project.
+
+             (2)  For the purposes of this Part, if:
+
+                     (a)  the total amount of deductible expenditure actually incurred by the person in relation to the notional project in a financial year exceeds the total amount of assessable receipts derived by the person in relation to the notional project and the financial year; and
+
+                     (b)  the total of:
+
+                              (i)  any amounts of exploration expenditure (other than designated frontier expenditure) actually incurred by the person; and
+
+                             (ii)  any amounts of uplifted frontier expenditure taken to be incurred by the person in respect of designated frontier expenditure actually incurred by the person;
+
+                            in relation to the notional project in the financial year exceeds the excess referred to in paragraph (a) by an amount (the **_non‑transferable amount_**);
+
+so much of the expenditure as equals the non‑transferable amount is taken to be non‑transferable expenditure incurred by the person in relation to the notional project.
+
+             (3)  If:
+
+                     (a)  subclause (2) applies; and
+
+                     (b)  the oldest amount of any exploration expenditure (other than designated frontier expenditure) incurred, or any uplifted frontier expenditure taken to be incurred, by the person in the financial year equals or exceeds the non‑transferable amount;
+
+the non‑transferable expenditure consists of so much of that oldest amount as equals the non‑transferable amount.
+
+             (4)  If:
+
+                     (a)  subclause (2) applies; but
+
+                     (b)  subclause (3) does not apply;
+
+the following provisions have effect:
+
+                     (c)  add amounts in accordance with the following rules:
+
+                              (i)  start with the oldest amount of any exploration expenditure (other than designated frontier expenditure) incurred, or any uplifted frontier expenditure taken to be incurred, by the person in the financial year;
+
+                             (ii)  add to that, in order starting with the next oldest amount, each of the other amounts incurred, or taken to be incurred, by the person in the financial year;
+
+                            (iii)  if adding an amount of expenditure would make the total exceed the non‑transferable amount, add only so much of the amount as makes the total equal the non‑transferable amount and do not add any later amount of expenditure;
+
+                     (d)  the non‑transferable expenditure consists of the amounts of expenditure added together in accordance with paragraph (c).
+
+##### <a id="16"></a>16  Amounts to be worked out
+
+                   Work out, in relation to the person, the exploration permit or retention lease and the assessable year, the following amounts:
+
+                     (a)  the total of the assessable receipts derived by the person in relation to the notional project during the period starting on 1 July 1990 and ending at the end of the assessable year;
+
+                     (b)  the total of the deductible expenditure actually incurred by the person in relation to the notional project during the period starting on 1 July 1990 and ending at the end of the assessable year;
+
+                     (c)  the total of:
+
+                              (i)  any amounts of exploration expenditure (other than designated frontier expenditure) actually incurred by the person; and
+
+                             (ii)  any amounts of uplifted frontier expenditure taken to be incurred by the person in respect of designated frontier expenditure actually incurred by the person;
+
+                            in relation to the notional project during the period starting on 1 July 1990 and ending at the end of the assessable year;
+
+                     (d)  the amount worked out under paragraph (c), less the total of the amounts of non‑transferable expenditure incurred by the person in relation to the notional project during the period starting on 1 July 1990 and ending at the end of the assessable year.
+
+In this Part, the amount worked out under paragraph (a) is called the **_notional assessable receipts_**, the amount worked out under paragraph (b) is called the **_notional deductible expenditure_**, the amount worked out under paragraph (c) is called the **_notional exploration expenditure_** and the amount worked out under paragraph (d) is called the **_reduced notional exploration expenditure_**.
+
+Note:          the effect of subsection 45D(3) must be taken into account when working out the notional deductible expenditure and the notional exploration expenditure.
+
+##### <a id="17"></a>17  What happens if the notional assessable receipts equal or exceed the notional deductible expenditure
+
+                   If, in relation to the person, the exploration permit or retention lease and the assessable year, the notional assessable receipts equal or exceed the notional deductible expenditure, none of the expenditure included in the notional exploration expenditure is transferable by the person in relation to the assessable year.
+
+##### <a id="18"></a>18  What happens if the notional deductible expenditure exceeds the notional assessable receipts
+
+             (1)  If, in relation to the person, the exploration permit or retention lease and the assessable year:
+
+                     (a)  the notional deductible expenditure exceeds the notional assessable receipts; and
+
+                     (b)  the excess equals or exceeds the notional exploration expenditure;
+
+all the expenditure included in the reduced notional exploration expenditure is transferable by the person in relation to the assessable year.
+
+             (2)  If, in relation to the person, the exploration permit or retention lease and the assessable year:
+
+                     (a)  the notional deductible expenditure exceeds the notional assessable receipts; and
+
+                     (b)  the excess (in this subclause called the **_notional loss_**) is less than the notional exploration expenditure; and
+
+                     (c)  the oldest amount of expenditure included in the reduced notional exploration expenditure equals or exceeds the notional loss;
+
+so much of that oldest amount as equals the notional loss is transferable by the person in relation to the assessable year.
+
+             (3)  If, in relation to the person, the exploration permit or retention lease and the assessable year:
+
+                     (a)  the notional deductible expenditure exceeds the notional assessable receipts; and
+
+                     (b)  the excess (in this subclause called the **_notional loss_**) is less than the notional exploration expenditure; and
+
+                     (c)  the notional loss exceeds the oldest amount of expenditure included in the reduced notional exploration expenditure;
+
+the following provisions have effect:
+
+                     (d)  add amounts in accordance with the following rules:
+
+                              (i)  start with the oldest amount of expenditure included in the reduced notional exploration expenditure and add to that, in order starting with the next oldest amount, each of the other amounts included in the reduced notional exploration expenditure;
+
+                             (ii)  if adding an amount of expenditure would make the total exceed the notional loss, add only so much of the amount as makes the total equal the notional loss and do not add any later incurred amount of expenditure;
+
+                     (e)  the expenditure added in accordance with subparagraphs (d)(i) and (ii) is transferable by the person in relation to the assessable year.
+
+## Part 5—General rules relating to transfer of exploration expenditure
+
+##### <a id="19"></a>19  Interpretation
+
+                   In this Part:
+
+                    <a name="notion-taxabl-profit"></a>**_notional taxable profit_**, in relation to a person, a petroleum project and a financial year, means the amount (if any) that would be the taxable profit in relation to the person, the project and the financial year if:
+
+                     (a)  all deductible expenditure in relation to the person, the project and the financial year were taken into account; and
+
+                     (b)  any expenditure transferred:
+
+                              (i)  to the project in relation to the financial year under section 45A; or
+
+                             (ii)  to the person in relation to the project and the financial year under section 45B;
+
+                            had not been transferred.
+
+##### <a id="20"></a>20  Matters dealt with in this Part
+
+                   This Part sets out the rules relating to the transfer by a person of transferable exploration expenditure from a petroleum project or an exploration right to another petroleum project in relation to a financial year. In this Part, the project or right from which the expenditure is transferred is called the **_transferring entity_**, the project to which the expenditure is transferred is called the **_receiving project_** and the financial year is called the **_transfer year_**.
+
+Note:          Special rules apply in relation to the transfer of Greater Sunrise exploration expenditure: see Part 1A of this Schedule.
+
+##### <a id="21"></a>21  Rule—must be a notional taxable profit in relation to receiving project
+
+                   The person may only transfer the expenditure to the receiving project in relation to the transfer year if there is a notional taxable profit in relation to the person, the receiving project and the transfer year.
+
+##### <a id="22"></a>22  Rule—person must have held interests in relation to transferring entity and receiving project
+
+             (1)  Subject to subclauses (2), (2AA), (2AB), (2A), (3) and (4), the person may only transfer the expenditure to the receiving project in relation to the transfer year if:
+
+                     (a)  the person held an interest in relation to the transferring entity at all times from the beginning of the financial year in which the expenditure was incurred to the end of the transfer year; and
+
+                     (b)  the person held an interest in relation to the receiving project at all times from the beginning of the financial year in which the expenditure was incurred to the end of the transfer year.
+
+             (2)  Subclause (1) does not require the person to have held an interest in relation to the transferring entity at a time before the starting day in relation to the transferring entity.
+
+       (2AA)  If:
+
+                     (a)  the person started (whether or not for the first time) to hold an interest in relation to the transferring entity during the financial year in which the expenditure was incurred; and
+
+                     (b)  the expenditure was incurred after the time (the **_farm‑in time_**) when the person started to hold the interest; and
+
+                     (c)  the expenditure was actually incurred by the person (rather than taken by section 48 or 48A to have been incurred by the person);
+
+subclause (1) does not require the person to have held an interest in relation to the transferring entity before the farm‑in time.
+
+       (2AB)  If:
+
+                     (a)  at a time (the **_cessation time_**) after the expenditure was incurred and on or after 1 July 1993, the person ceased to hold any interest in relation to the transferring entity; and
+
+                     (b)  the cessation did not occur because of a transaction to which section 48 applies;
+
+subclause (1) does not require the person to have held an interest in relation to the transferring entity at a time after the cessation time.
+
+          (2A)  Subclause (1) does not require the person to have held an interest in relation to the transferring entity at a time after the finishing day in relation to the transferring entity.
+
+             (3)  If the starting days in relation to the transferring entity and the receiving project occurred in the same financial year, subclause (1) does not require the person to have held an interest in relation to the receiving project at a time before the starting day in relation to the receiving project.
+
+             (4)  If the starting day in relation to the receiving project occurred in a later financial year than the financial year in which the expenditure was incurred:
+
+                     (a)  paragraph (1)(b) does not apply in relation to the transfer of the expenditure; and
+
+                     (b)  the person may only transfer the expenditure if (in addition to the requirement in paragraph (1)(a)):
+
+                              (i)  the exploration permit by reference to which the starting day in relation to the receiving project is determined was granted to the person; and
+
+                             (ii)  the person held an interest in relation to the receiving project at all times from the starting day in relation to the receiving project to the end of the transfer year.
+
+##### <a id="23"></a>23  Rule—transfer to project with most recent production licence
+
+                   If the expenditure was incurred before the transfer year, the person may not transfer the expenditure to the receiving project in relation to the transfer year if:
+
+                     (a)  there is another petroleum project to which the expenditure could be transferred in relation to the transfer year under section 45A; and
+
+                     (b)  the other project includes a production licence that was granted more recently than the production licence or licences included in the receiving project.
+
+##### <a id="24"></a>24  Rule—restriction on transfer of ABR expenditure
+
+                   The person may not transfer the expenditure to the receiving project in relation to the transfer year if:
+
+                     (a)  the expenditure was incurred in an ABR expenditure year in relation to the receiving project; and
+
+                     (b)  there is other expenditure that the person could transfer to the receiving project in relation to the transfer year under section 45A; and
+
+                     (c)  that other expenditure was incurred in an earlier ABR expenditure year in relation to the receiving project.
+
+##### <a id="25"></a>25  Rule—restriction on transfer of GDP expenditure
+
+                   The person may not transfer the expenditure to the receiving project in relation to the transfer year if:
+
+                     (a)  the expenditure was incurred in a GDP expenditure year in relation to the receiving project; and
+
+                     (b)  there is other expenditure that the person could transfer to the receiving project in relation to the transfer year under section 45A; and
+
+                     (c)  that other expenditure was incurred in:
+
+                              (i)  an ABR expenditure year in relation to the receiving project; or
+
+                             (ii)  an earlier GDP expenditure year in relation to the receiving project.
+
+##### <a id="26"></a>26  Rule—total transferred not to exceed notional taxable profit
+
+                   The total amount of expenditure transferred by the person under section 45A to the receiving project in relation to the transfer year must not exceed the notional taxable profit in relation to the person, the receiving project and the transfer year.
+
+Note:          because of subsection 45D(2), some transfers of expenditure are taken to be transfers of amounts compounded in accordance with Part 7 of this Schedule.
+
+## Part 6—Rules relating to transfer of exploration expenditure between group companies
+
+##### <a id="27"></a>27  Interpretation
+
+                   In this Part:
+
+                    <a name="notion-taxabl-profit"></a>**_notional taxable profit_**, in relation to a company, a petroleum project and a financial year, means the amount (if any) that would be the taxable profit in relation to the company, the project and the financial year if:
+
+                     (a)  all deductible expenditure in relation to the company, the project and the financial year were taken into account; and
+
+                     (b)  all expenditure to be transferred by the company to the project in relation to the financial year under section 45A had been transferred; and
+
+                     (c)  any expenditure transferred to the company in relation to the project and the financial year under section 45B had not been transferred.
+
+##### <a id="28"></a>28  Situations to which this Part applies
+
+                   This Part applies if:
+
+                     (a)  a number of companies are group companies in relation to each other and a financial year; and
+
+                     (b)  there is unused transferable exploration expenditure, within the meaning of section 45B, in relation to some of the companies and the financial year.
+
+In this Part, each of the companies in relation to which there is unused transferable exploration expenditure is called a **_loss company_**, each of the other companies is called a **_profit company_** and the financial year is called the **_transfer year_**.
+
+##### <a id="29"></a>29  Matters dealt with in this Part
+
+                   This Part sets out the rules relating to the transfer by a loss company of transferable exploration expenditure from a petroleum project or an exploration right to a profit company in relation to a petroleum project and the transfer year. In this Part, the project or right from which the expenditure is transferred is called the **_transferring entity_**and the project in relation to which the expenditure is transferred is called the **_receiving project_.**
+
+Note:          Special rules apply in relation to the transfer of Greater Sunrise exploration expenditure: see Part 1A of this Schedule.
+
+##### <a id="30"></a>30  Rule—must be a notional taxable profit in relation to profit company and receiving project
+
+                   The loss company may only transfer the expenditure to the profit company in relation to the receiving project and the transfer year if there is a notional taxable profit in relation to the profit company, the receiving project and the transfer year.
+
+##### <a id="31"></a>31  Rule—continuity of interest within company group
+
+Main rule
+
+             (1)  The loss company may transfer the expenditure to the profit company in relation to the receiving project and the transfer year only if:
+
+                     (a)  from the start of the financial year in which the expenditure was actually incurred, until the end of the transfer year—the company which held the receiving interest at any particular time was, at that time:
+
+                              (i)  a group company in relation to the company which held the loss interest at that time; or
+
+                             (ii)  unless the time is at the end of the transfer year—the company which held the loss interest at that time; and
+
+                     (b)  when the expenditure was actually incurred:
+
+                              (i)  unless section 41 applies to the expenditure—the company which actually incurred the expenditure held the loss interest in the transferring entity; or
+
+                             (ii)  if section 41 applies to the expenditure—the company taken under paragraph 41(1)(b) to have incurred the liability for making the expenditure held the loss interest in the transferring entity.
+
+Receiving project or transferring entity not in existence at particular time
+
+             (2)  For the purposes of subclause (1):
+
+                     (a)  if the starting day for the receiving project was after the start of the financial year in which the expenditure was incurred—during the period from the start of that year until the start of the starting day, the company which held the receiving interest at the start of the starting day is taken to have held the receiving interest; and
+
+                     (b)  if the finishing day for the receiving project was before the end of the transfer year—during the period from the start of the finishing day until the end of the transfer year, the profit company is taken to have held the receiving interest; and
+
+                     (c)  if the starting day for the transferring entity was after the start of the financial year in which the expenditure was incurred—during the period from the start of that year until the start of the starting day, the company which held the loss interest at the start of the starting day is taken to have held the loss interest; and
+
+                     (d)  if the finishing day for the transferring entity was before the end of the transfer year—during the period from the start of the finishing day until the end of the transfer year, the loss company is taken to have held the loss interest.
+
+Starting day for receiving project in later financial year than when expenditure actually incurred
+
+             (3)  If the starting day for the receiving project was in a later financial year than the financial year in which the expenditure was incurred, the loss company may transfer the expenditure only if (in addition to the other requirements of this clause) the company which held the receiving interest at the start of the starting day was the company which had been granted the exploration permit by reference to which the starting day is determined.
+
+Definitions
+
+             (4)  In this clause:
+
+                    <a name="loss-interest"></a>**_loss interest_** means an interest held in the transferring entity by the loss company:
+
+                     (a)  at the end of the transfer year; or
+
+                     (b)  if the finishing day for the transferring entity was before the end of the transfer year—immediately before the start of the finishing day.
+
+                    <a name="receiv-interest"></a>**_receiving interest_** means an interest held in the receiving project by the profit company:
+
+                     (a)  at the end of the transfer year; or
+
+                     (b)  if the finishing day for the receiving project was before the end of the transfer year—immediately before the start of the finishing day.
+
+##### <a id="32"></a>32  Rule—transfer to project with most recent production licence
+
+                   If the expenditure was incurred before the transfer year, the loss company may not transfer the expenditure to the profit company in relation to the receiving project and the transfer year if:
+
+                     (a)  the expenditure could be transferred in relation to the transfer year under section 45B to:
+
+                              (i)  the profit company in relation to another petroleum project; or
+
+                             (ii)  another profit company in relation to another petroleum project; and
+
+                     (b)  the other project includes a production licence that was granted more recently than the production licence or licences included in the receiving project.
+
+##### <a id="33"></a>33  Rule—restriction on transfer of ABR expenditure
+
+                   The loss company may not transfer the expenditure to the profit company in relation to the receiving project and the transfer year if:
+
+                     (a)  the expenditure was incurred in an ABR expenditure year in relation to the receiving project; and
+
+                     (b)  there is other expenditure that the loss company, or another loss company, could transfer to the profit company in relation to the receiving project and the transfer year under section 45B; and
+
+                     (c)  the other expenditure was incurred in an earlier ABR expenditure year in relation to the receiving project.
+
+##### <a id="34"></a>34  Rule—restriction on transfer of GDP expenditure
+
+                   The loss company may not transfer the expenditure to the profit company in relation to the receiving project and the transfer year if:
+
+                     (a)  the expenditure was incurred in a GDP expenditure year in relation to the receiving project; and
+
+                     (b)  there is other expenditure that the loss company, or another loss company, could transfer to the profit company in relation to the receiving project and the transfer year under section 45B; and
+
+                     (c)  the other expenditure was incurred in:
+
+                              (i)  an ABR expenditure year in relation to the receiving project; or
+
+                             (ii)  an earlier GDP expenditure year in relation to the receiving project.
+
+##### <a id="35"></a>35  Rule—total transferred not to exceed notional taxable profit
+
+                   The total amount of transferable expenditure transferred under section 45B to the profit company in relation to the receiving project and the transfer year must not exceed the notional taxable profit in relation to the profit company, the receiving project and the transfer year.
+
+Note:          because of subsection 45D(2), some transfers of expenditure are taken to be transfers of amounts compounded in accordance with Part 7 of this Schedule.
+
+## Part 7—Compounding of transferred amounts
+
+##### <a id="36"></a>36  Matters dealt with in this Part
+
+                   This Part applies if:
+
+                     (a)  a person transfers an amount of expenditure:
+
+                              (i)  to a petroleum project in relation to a financial year under section 45A; or
+
+                             (ii)  to a company in relation to a petroleum project and a financial year under section 45B; and
+
+                     (b)  the expenditure was incurred in an earlier financial year;
+
+and provides for the compounding of the amount transferred. In this Part, the financial year in relation to which the amount is transferred is called the **_transfer year_**.
+
+##### <a id="37"></a>37  What happens if expenditure was incurred in an ABR expenditure year
+
+             (1)  If the financial year in which the expenditure was incurred:
+
+                     (a)  is an ABR expenditure year in relation to the petroleum project; and
+
+                     (b)  is the financial year immediately before the transfer year;
+
+then, for the purposes of subsection 45D(2), the transfer is taken to be of the amount worked out by multiplying the amount actually transferred by the augmented bond rate for the ABR expenditure year.
+
+             (2)  If the financial year in which the expenditure was incurred:
+
+                     (a)  is an ABR expenditure year in relation to the project; but
+
+                     (b)  is not the financial year immediately before the transfer year;
+
+the following provisions apply:
+
+                     (c)  work out, in relation to the ABR expenditure year and each later financial year ending before the transfer year, an amount in accordance with the formula:
+
+![](http://www.comlaw.gov.au/Details/C2011C00885/Html/20aadd0b-716b-4106-97d8-816cc6e07e18_files/image018.gif)
+
+                            where:
+
+**_Transferred amount_** means:
+
+                              (i)  in making the calculation in relation to the ABR expenditure year—the amount of expenditure actually transferred; and
+
+                             (ii)  in making the calculation in relation to a later financial year—the amount calculated under this paragraph in relation to the expenditure and the immediately preceding financial year;
+
+**_Augmented bond rate_** means the augmented bond rate in relation to the financial year in relation to which the calculation is being made;
+
+                     (d)  for the purposes of subsection 45D(2), the transfer is taken to be of the amount worked out under paragraph (c) in relation to the expenditure and the financial year immediately before the transfer year.
+
+##### <a id="38"></a>38  What happens if expenditure was incurred in a GDP expenditure year
+
+                   If the financial year in which the expenditure was incurred is a GDP expenditure year the following provisions apply:
+
+                     (a)  work out, in relation to the GDP expenditure year and each later financial year ending before the transfer year, an amount in accordance with the formula:
+
+![](http://www.comlaw.gov.au/Details/C2011C00885/Html/20aadd0b-716b-4106-97d8-816cc6e07e18_files/image019.gif)
+
+                            where:
+
+**_Transferred amount_** means:
+
+                              (i)  in making the calculation in relation to the GDP expenditure year—the amount of expenditure actually transferred; and
+
+                             (ii)  in making the calculation in relation to a later financial year—the amount calculated under this paragraph in relation to the expenditure and the immediately preceding financial year;
+
+**_GDP factor_** means the GDP factor in relation to the financial year in relation to which the calculation is being made;
+
+                     (b)  for the purposes of subsection 45D(2), the transfer is taken to be of the amount worked out under paragraph (a) in relation to the expenditure and the financial year immediately before the transfer year.
+
+# Notes to the _Petroleum Resource Rent Tax Assessment Act 1987_
+
+### Note 1
+
+The _Petroleum Resource Rent Tax Assessment Act 1987_ as shown in this compilation comprises Act No. 142, 1987 amended as indicated in the Tables below.
+
+For application, saving or transitional provisions made by the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, _see_ Act No. 55, 2001.
+
+All relevant information pertaining to application, saving or transitional provisions prior to 3 May 2000 is not included in this compilation. For subsequent information _see_ Table A.
+
+### Table of Acts
+
+<table>
+<colgroup>
+  <col width="30%">
+  <col width="15%">
+  <col width="17%">
+  <col width="21%">
+  <col width="17%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>Act</div>
+    </td>
+    <td>
+      <div>Number 
+and year</div>
+    </td>
+    <td>
+      <div>Date 
+of Assent</div>
+    </td>
+    <td>
+      <div>Date of commencement</div>
+    </td>
+    <td>
+      <div>Application, saving or transitional provisions</div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>Petroleum Resource Rent Tax Assessment Act 1987</div>
+  </td>
+  <td>
+    <div>142, 1987</div>
+  </td>
+  <td>
+    <div>18 Dec 1987</div>
+  </td>
+  <td>
+    <div>15 Jan 1988</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Taxation Laws Amendment (Tax File Numbers) Act 1988</div>
+  </td>
+  <td>
+    <div>97, 1988</div>
+  </td>
+  <td>
+    <div>25 Nov 1988</div>
+  </td>
+  <td>
+    <div>S. 29(1): 1 Jan 1989 ( <i>see</i>s. 2(1) and <i>Gazette</i>1988, No. S399) <i>(a)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Training Guarantee (Administration) Act 1990</div>
+  </td>
+  <td>
+    <div>60, 1990</div>
+  </td>
+  <td>
+    <div>16 June 1990</div>
+  </td>
+  <td>
+    <div>S. 43 and Part 10 (ss. 88–95): 31 Oct 1990 ( <i>see Gazette</i>1990, No. S272) 
+Remainder: 1 July 1990</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Petroleum Resource Rent Legislation Amendment Act 1991</div>
+  </td>
+  <td>
+    <div>80, 1991</div>
+  </td>
+  <td>
+    <div>26 June 1991</div>
+  </td>
+  <td>
+    <div>1 July 1991</div>
+  </td>
+  <td>
+    <div>Ss. 32–36 and 44</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Taxation Laws Amendment Act (No. 3) 1991</div>
+  </td>
+  <td>
+    <div>216, 1991</div>
+  </td>
+  <td>
+    <div>24 Dec 1991</div>
+  </td>
+  <td>
+    <div>S. 113: 1 Mar 1992 ( <i>see Gazette</i>1992, No. GN7) 
+Ss. 123 and 124: Royal Assent <i>(b)</i></div>
+  </td>
+  <td>
+    <div>Ss. 114 and 124</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Superannuation Guarantee (Consequential Amendments) Act 1992</div>
+  </td>
+  <td>
+    <div>92, 1992</div>
+  </td>
+  <td>
+    <div>30 June 1992</div>
+  </td>
+  <td>
+    <div>1 July 1992</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Sales Tax Amendment (Transitional) Act 1992</div>
+  </td>
+  <td>
+    <div>118, 1992</div>
+  </td>
+  <td>
+    <div>30 Sept 1992</div>
+  </td>
+  <td>
+    <div>28 Oct 1992</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Corporate Law Reform Act 1992</div>
+  </td>
+  <td>
+    <div>210, 1992</div>
+  </td>
+  <td>
+    <div>24 Dec 1992</div>
+  </td>
+  <td>
+    <div>Part 1 (ss. 1–3): Royal Assent 
+Ss. 26(2) and 28(1): 1 Feb 1994 
+Ss. 29–173 and 177: 23 June 1993 ( <i>see Gazette</i>1993, No. S186) 
+Remainder: 1 Feb 1993 ( <i>see Gazette</i>1993, No. S25)</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Taxation Laws Amendment Act (No. 5) 1992</div>
+  </td>
+  <td>
+    <div>224, 1992</div>
+  </td>
+  <td>
+    <div>24 Dec 1992</div>
+  </td>
+  <td>
+    <div>Part 5 (ss. 
+113–120): 1 July 1991 <i>(c)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Taxation Laws Amendment Act (No. 3) 1993</div>
+  </td>
+  <td>
+    <div>118, 1993</div>
+  </td>
+  <td>
+    <div>24 Dec 1993</div>
+  </td>
+  <td>
+    <div>Ss. 125, 132 and 133: 1 July 1991 <i>(d)</i> 
+Ss. 126–128 and 130: Royal Assent <i>(d)</i> 
+Ss. 129 and 131: 
+1 July 1993 <i>(d)</i></div>
+  </td>
+  <td>
+    <div>Ss. 127(2), 128(2) and 130(2)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Taxation Laws Amendment Act (No. 4) 1994</div>
+  </td>
+  <td>
+    <div>181, 1994</div>
+  </td>
+  <td>
+    <div>19 Dec 1994</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 22–85): 13 Oct 1994 
+Remainder: Royal Assent</div>
+  </td>
+  <td>
+    <div>S. 46(10)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Income Tax (International Agreements) Amendment Act 1995</div>
+  </td>
+  <td>
+    <div>22, 1995</div>
+  </td>
+  <td>
+    <div>29 Mar 1995</div>
+  </td>
+  <td>
+    <div>29 Mar 1995</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Income Tax (Consequential Amendments) Act 1997</div>
+  </td>
+  <td>
+    <div>39, 1997</div>
+  </td>
+  <td>
+    <div>17 Apr 1997</div>
+  </td>
+  <td>
+    <div>Schedule 3 (item 110): 1 July 1997</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Taxation Laws Amendment Act (No. 3) 1999</div>
+  </td>
+  <td>
+    <div>11, 1999</div>
+  </td>
+  <td>
+    <div>31 Mar 1999</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 281–296): 1 July 1999 <i>(e)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999</div>
+  </td>
+  <td>
+    <div>44, 1999</div>
+  </td>
+  <td>
+    <div>17 June 1999</div>
+  </td>
+  <td>
+    <div>Schedule 7 (items 123–125): 1 July 1999 ( <i>see Gazette</i>1999, No. S283) <i>(f)</i></div>
+  </td>
+  <td>
+    <div>S. 3(2)(e) (am. by 160, 2000, Sch. 4 \[item 4])</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>as amended by</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Financial Sector Legislation Amendment Act (No. 1) 2000</div>
+  </td>
+  <td>
+    <div>160, 2000</div>
+  </td>
+  <td>
+    <div>21 Dec 2000</div>
+  </td>
+  <td>
+    <div>Schedule 1 (item 21): Royal Assent 
+Remainder: 18 Jan 2001</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
+  </td>
+  <td>
+    <div>146, 1999</div>
+  </td>
+  <td>
+    <div>11 Nov 1999</div>
+  </td>
+  <td>
+    <div>Schedule 1 (item 732): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(g)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>A New Tax System (Indirect Tax and Consequential Amendments) Act (No. 2) 1999</div>
+  </td>
+  <td>
+    <div>177, 1999</div>
+  </td>
+  <td>
+    <div>22 Dec 1999</div>
+  </td>
+  <td>
+    <div>Schedule 8 (items 7–18) <i>(h)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>A New Tax System (Tax Administration) Act 1999</div>
+  </td>
+  <td>
+    <div>179, 1999</div>
+  </td>
+  <td>
+    <div>22 Dec 1999</div>
+  </td>
+  <td>
+    <div>Schedule 2 (items 48–58): <i>(i)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>A New Tax System (Tax Administration) Act (No. 1) 2000</div>
+  </td>
+  <td>
+    <div>44, 2000</div>
+  </td>
+  <td>
+    <div>3 May 2000</div>
+  </td>
+  <td>
+    <div>Schedule 3 (items 39, 40): 1 July 2000 <i>(j)</i> 
+Schedule 3 (items 41–45) <i>(j)</i></div>
+  </td>
+  <td>
+    <div>Sch. 3 (items 40, 42, 44) \[ <i>see</i>Table A]</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Taxation Laws Amendment Act (No 3) 2000</div>
+  </td>
+  <td>
+    <div>66, 2000</div>
+  </td>
+  <td>
+    <div>22 June 2000</div>
+  </td>
+  <td>
+    <div>Schedule 6: Royal Assent <i>(k)</i></div>
+  </td>
+  <td>
+    <div>Sch. 6 (item 3) \[ <i>see</i>Table A]</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>A New Tax System (Tax Administration) Act (No. 2) 2000</div>
+  </td>
+  <td>
+    <div>91, 2000</div>
+  </td>
+  <td>
+    <div>30 June 2000</div>
+  </td>
+  <td>
+    <div>Schedule 2 (items 54–56): <i>(l)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Corporations (Repeals, Consequentials and Transitionals) Act 2001</div>
+  </td>
+  <td>
+    <div>55, 2001</div>
+  </td>
+  <td>
+    <div>28 June 2001</div>
+  </td>
+  <td>
+    <div>Ss. 4–14 and Schedule 3 (items 413–415): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(m)</i></div>
+  </td>
+  <td>
+    <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Treasury Legislation Amendment (Application of Criminal Code) Act (No. 2) 2001</div>
+  </td>
+  <td>
+    <div>146, 2001</div>
+  </td>
+  <td>
+    <div>1 Oct 2001</div>
+  </td>
+  <td>
+    <div>S. 4 and Schedule 4 (items 102–115): 15 Dec 2001 <i>(n)</i></div>
+  </td>
+  <td>
+    <div>S. 4 \[ <i>see</i>Table A]</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Taxation Laws Amendment Act (No. 6) 2001</div>
+  </td>
+  <td>
+    <div>169, 2001</div>
+  </td>
+  <td>
+    <div>1 Oct 2001</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 1–9): 1 Apr 2002 <i>(o)</i> 
+Schedule 1 (items 10–12, 15): Royal Assent <i>(o)</i></div>
+  </td>
+  <td>
+    <div>Sch. 1 (item 15) \[ <i>see</i>Table A]</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Taxation Laws Amendment Act (No. 3) 2003</div>
+  </td>
+  <td>
+    <div>101, 2003</div>
+  </td>
+  <td>
+    <div>14 Oct 2003</div>
+  </td>
+  <td>
+    <div>Schedule 5: Royal Assent</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Greater Sunrise Unitisation Agreement Implementation Act 2004</div>
+  </td>
+  <td>
+    <div>47, 2004</div>
+  </td>
+  <td>
+    <div>21 Apr 2004</div>
+  </td>
+  <td>
+    <div>Schedule 2 (items 1–18): 7 Feb 2007</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Bankruptcy Legislation Amendment Act 2004</div>
+  </td>
+  <td>
+    <div>80, 2004</div>
+  </td>
+  <td>
+    <div>23 June 2004</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 198, 212, 213, 215): 1 Dec 2004 ( <i>see</i> <i>Gazette</i>2004, No. GN34)</div>
+  </td>
+  <td>
+    <div>Sch. 1 (items 212, 213, 215) \[ <i>see</i>Table A]</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Tax Laws Amendment (2004 Measures No. 7) Act 2005</div>
+  </td>
+  <td>
+    <div>41, 2005</div>
+  </td>
+  <td>
+    <div>1 Apr 2005</div>
+  </td>
+  <td>
+    <div>Schedule 5 and Schedule 10 (items 225–230): Royal Assent</div>
+  </td>
+  <td>
+    <div>Sch. 5 (item 17) and Sch. 10 (item 230) \[ <i>see</i>Table A]</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Offshore Petroleum (Repeals and Consequential Amendments) Act 2006</div>
+  </td>
+  <td>
+    <div>17, 2006</div>
+  </td>
+  <td>
+    <div>29 Mar 2006</div>
+  </td>
+  <td>
+    <div>Schedule 2 (items 73–96): 1 July 2008 ( <i>see</i>s. 2(1) and F2008L02273)</div>
+  </td>
+  <td>
+    <div>Sch. 2 (item 96) 
+Sch. 2 (item 95) (am. by 117, 2008, Sch. 3 \[item 31AB] and Sch. 4 \[item 5]) \[ <i>see</i>Table A]</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>as amended by</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Offshore Petroleum Amendment (Greenhouse Gas Storage) Act 2008</div>
+  </td>
+  <td>
+    <div>117, 2008</div>
+  </td>
+  <td>
+    <div>21 Nov 2008</div>
+  </td>
+  <td>
+    <div>Schedule 3 (item 31AB) and Schedule 4 (item 5): ( <i>see</i>117, 2008 below)</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Petroleum Resource Rent Tax Assessment Amendment Act 2006</div>
+  </td>
+  <td>
+    <div>78, 2006</div>
+  </td>
+  <td>
+    <div>30 June 2006</div>
+  </td>
+  <td>
+    <div>Schedule 3 (item 3): <i>(p)</i> 
+Schedule 4 (items 5, 8): <i>(p)</i> 
+Remainder: 1 July 2006</div>
+  </td>
+  <td>
+    <div>Sch. 1 (item 12), Sch. 2 (items 3, 4), Sch. 3 (item 9), Sch. 4 (item 38) and Sch. 5 (item 23) \[ <i>see</i>Table A]</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006</div>
+  </td>
+  <td>
+    <div>101, 2006</div>
+  </td>
+  <td>
+    <div>14 Sept 2006</div>
+  </td>
+  <td>
+    <div>Schedule 2 (items 1017, 1041–1043) and Schedule 6 (items 1, 6–11): Royal Assent</div>
+  </td>
+  <td>
+    <div>Sch. 6 (items 1, 
+6–11) \[ <i>see</i>Table A]</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Statute Law Revision Act 2007</div>
+  </td>
+  <td>
+    <div>8, 2007</div>
+  </td>
+  <td>
+    <div>15 Mar 2007</div>
+  </td>
+  <td>
+    <div>Schedule 4 (item 22): Royal Assent</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Offshore Petroleum Amendment (Greater Sunrise) Act 2007</div>
+  </td>
+  <td>
+    <div>49, 2007</div>
+  </td>
+  <td>
+    <div>10 Apr 2007</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 88–94, 97): <i>(q)</i></div>
+  </td>
+  <td>
+    <div>Sch. 1 (item 97) (am. by 117, 2008, Sch. 3 \[item 31AA]) \[ <i>see</i>Table A]</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>as amended by</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Offshore Petroleum Amendment (Greenhouse Gas Storage) Act 2008</div>
+  </td>
+  <td>
+    <div>117, 2008</div>
+  </td>
+  <td>
+    <div>21 Nov 2008</div>
+  </td>
+  <td>
+    <div>Schedule 3 (item 31AA): ( <i>see</i>117, 2008 below)</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Offshore Petroleum Amendment (Greenhouse Gas Storage) Act 2008</div>
+  </td>
+  <td>
+    <div>117, 2008</div>
+  </td>
+  <td>
+    <div>21 Nov 2008</div>
+  </td>
+  <td>
+    <div>Schedule 2 (items 59–65): <i>(r) 
+ </i>Schedule 3 (items 31AA, 31AB, 
+34–50, 52–54): 22 Nov 2008 
+Schedule 4 (items 5–9): <i>(r)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Tax Laws Amendment (2009 Measures No. 3) Act 2009</div>
+  </td>
+  <td>
+    <div>47, 2009</div>
+  </td>
+  <td>
+    <div>24 June 2009</div>
+  </td>
+  <td>
+    <div>Schedule 3 (items 1–20): 1 July 2009 
+Schedule 3 (items 21–36): 1 July 2008 
+Schedule 3 (item 37): 12 May 2009</div>
+  </td>
+  <td>
+    <div>Sch. 3 (items 20, 36) \[ <i>see</i>Table A]</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Tax Laws Amendment (2009 Measures No. 4) Act 2009</div>
+  </td>
+  <td>
+    <div>88, 2009</div>
+  </td>
+  <td>
+    <div>18 Sept 2009</div>
+  </td>
+  <td>
+    <div>Schedule 5 (items 209–230): Royal Assent</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Offshore Petroleum and Greenhouse Gas Storage Legislation Amendment Act 2009</div>
+  </td>
+  <td>
+    <div>102, 2009</div>
+  </td>
+  <td>
+    <div>8 Oct 2009</div>
+  </td>
+  <td>
+    <div>Schedule 1 (item 68): 9 Oct 2009</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Tax Laws Amendment (Confidentiality of Taxpayer Information) Act 2010</div>
+  </td>
+  <td>
+    <div>145, 2010</div>
+  </td>
+  <td>
+    <div>16 Dec 2010</div>
+  </td>
+  <td>
+    <div>Schedule 2 (items 59, 60): 17 Dec 2010</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Acts Interpretation Amendment Act 2011</div>
+  </td>
+  <td>
+    <div>46, 2011</div>
+  </td>
+  <td>
+    <div>27 June 2011</div>
+  </td>
+  <td>
+    <div>Schedule 2 (items 909, 910) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
+  </td>
+  <td>
+    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
+  </td>
+</tr></table>
+
+_(a)_     The _Petroleum Resource Rent Tax Assessment Act 1987_ was amended by subsection 29(1) only of the _Taxation Laws Amendment (Tax File Numbers) Act 1988_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to subsection (2), this Act commences on the day on which the _Privacy Act 1988_ commences.
+
+_(b)_     The _Petroleum Resource Rent Tax Assessment Act 1987_ was amended by sections 113, 123 and 124 only of the _Taxation Laws Amendment Act (No. 3) 1991_, subsections 2(1) and (10) of which provide as follows:
+
+                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+
+               (10)   Subject to subsection (11), sections 112 to 117 (inclusive) commence on a day to be fixed by Proclamation.
+
+_(c)_     The _Petroleum Resource Rent Tax Assessment Act 1987_ was amended by Part 5 (sections 113–120) only of the _Taxation Laws Amendment Act (No. 5) 1992_, subsection 2(3) of which provides as follows:
+
+                 (3)   Part 5 is taken to have commenced on 1 July 1991.
+
+_(d)_     The _Petroleum Resource Rent Tax Assessment Act 1987_ was amended by sections 125–133 only of the _Taxation Laws Amendment Act (No. 3) 1993_, subsections 2(1)–(3) of which provide as follows:
+
+                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+
+                 (2)   Sections 125, 132 and 133 are taken to have commenced on 1 July 1991.
+
+                 (3)   Sections 129 and 131 are taken to have commenced on 1 July 1993.
+
+_(e)_     The _Petroleum Resource Rent Tax Assessment Act 1987_ was amended by Schedule 1 (items 281–296) only of the _Taxation Laws Amendment Act (No. 3) 1999_, subsection 2(3) of which provides as follows:
+
+                 (3)   Subject to subsections (4) and (5), Schedule 1 commences on 1 July 1999.
+
+_(f)_ The _Petroleum Resource Rent Tax Assessment Act 1987_ was amended by Schedule 7 (items 123–125) only of the _Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999_, subsections 3(2)(e) and (16) of which provide as follows:
+
+                 (2)   The following provisions commence on the transfer date:
+
+                      (e)   subject to subsection (12), Schedule 7, other than items 43, 44, 118, 205 and 207 (the commencement of those items is covered by subsections (10), (11) and (13)).
+
+               (16)   The Governor‑General may, by Proclamation published in the _Gazette_, specify the date that is to be the transfer date for the purposes of this Act.
+
+_(g)_ The _Petroleum Resource Rent Tax Assessment Act 1987_ was amended by Schedule 1 (item 732) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+
+                 (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
+
+                 (2)   Subject to this section, this Act commences at the commencing time.
+
+_(h)_ The _Petroleum Resource Rent Tax Assessment Act 1987_ was amended by Schedule 8 (items 7–18) only of the _A New Tax System (Indirect Tax and Consequential Amendments) Act (No. 2) 1999_, subsection 2(9) of which provides as follows:
+
+                 (9)   Schedules 7 and 8 (other than items 1 to 6 of Schedule 8) commence immediately after the commencement of the _A New Tax System (Goods and Services Tax) Act 1999_. 
+
+         The _A New Tax System (Goods and Services Tax) Act 1999_ commenced on 1 July 2000.
+
+_(i)_ The _Petroleum Resource Rent Tax Assessment Act 1987_ was amended by Schedule 2 (items 48–58) only of the _A New Tax System (Tax Administration) Act 1999_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to this section, this Act commences, or is taken to have commenced, immediately after the commencement of section 1 of the _A New Tax System (Pay As You Go) Act 1999_.
+
+         Section 1 of the _A New Tax System (Pay As You Go) Act 1999_ commenced on 22 December 1999.
+
+_(j)_ The _Petroleum Resource Rent Tax Assessment Act 1987_ was amended by Schedule 3 (items 39, 41, 43 and 45) only of the _A New Tax System (Tax Administration) Act (No. 1) 2000_, subsections 2(1) and (9) of which provide as follows:
+
+                 (1)   Subject to this section, this Act commences, or is taken to have commenced, immediately after the commencement of section 1 of the _A New Tax System (Tax Administration) Act 1999_.
+
+         Section 1 commenced on 22 December 1999.
+
+                 (9)   Items 39, 40, 52, 53, 73 and 74 of Schedule 3 commence, or are taken to have commenced, on 1 July 2000\. 
+
+_(k)_ The _Petroleum Resource Rent Tax Assessment Act 1987_ was amended by Schedule 6 only of the _Taxation Laws Amendment Act (No. 3) 2000_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+
+_(l)_      The _Petroleum Resource Rent Tax Assessment Act 1987_ was amended by Schedule 2 (items 54–56) only of the _A New Tax System (Tax Administration) Act (No. 2) 2000_, subsection 3(1) of which provides as follows:
+
+                 (1)   Subject to this section, this Act commences, or is taken to have commenced, immediately after the commencement of section 1‑1 of the _A New Tax System (Goods and Services Tax) Act 1999_.
+
+         Section 1‑1 of the _A New Tax System (Goods and Services Tax) Act 1999_ commenced on 1 July 2000.
+
+_(m)_ The _Petroleum Resource Rent Tax Assessment Act 1987_ was amended by Schedule 3 (items 413–415) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
+
+                 (3)   Subject to subsections (4) to (10), Schedule 3 commences, or is taken to have commenced, at the same time as the _Corporations Act 2001_.
+
+_(n)_ The _Petroleum Resource Rent Tax Assessment Act 1987_ was amended by Schedule 4 (items 102–115) only of the _Treasury Legislation Amendment (Application of Criminal Code) Act (No. 2) 2001_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to this section, this Act commences on the day mentioned in subsection 2.2(2) of the _Criminal Code_. 
+
+_(o)_ The _Petroleum Resource Rent Tax Assessment Act 1987_ was amended by Schedule 1 (items 1–12) only of the _Taxation Laws Amendment Act (No. 6) 2001_, subsections 2(1) and (3) of which provide as follows:
+
+                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+
+                 (3)   If Part 1 of Schedule 1 does not commence under subsection (2) within the period of 6 months beginning on the day on which this Act receives the Royal Assent, it commences on the first day after the end of that period.
+
+_(p)_ Subsection 2(1) (items 4, 7, 9 and 11) of the _Petroleum Resource Rent Tax Assessment Amendment Act 2006_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="3">
+      <div>
+        <b>
+          Commencement information
+        </b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Column 1
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Column 2
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Column 3
+        </b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      4\. Schedule 3, item 3
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of Chapter 2 of the
+        <i>Offshore Petroleum Act 2006</i>.
+    </div>
+  </td>
+  <td>
+    <div>
+      1 July 2008
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      7\. Schedule 4, item 5
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of the provisions covered by table
+        item 11.
+    </div>
+  </td>
+  <td>
+    <div>
+      1 July 2006
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      9\. Schedule 4, item 8
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of the provisions covered by table
+        item 11.
+    </div>
+  </td>
+  <td>
+    <div>
+      1 July 2006
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      11\. Schedule 5
+    </div>
+  </td>
+  <td>
+    <div>
+      1 July 2006
+      .
+    </div>
+  </td>
+  <td>
+    <div>
+      1 July 2006
+    </div>
+  </td>
+</tr></table>
+
+_(q)_ Subsection 2(1) (item 2) of the _Offshore Petroleum Amendment (Greater Sunrise) Act 2007_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      2\. Schedule 1
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of section 3 of the
+        <i>Offshore Petroleum Act 2006</i>.
+    </div>
+  </td>
+  <td>
+    <div>
+      1 July 2008
+    </div>
+  </td>
+</tr></table>
+
+_(r)_ Subsection 2(1) (items 2–4 and 6) of the _Offshore Petroleum Amendment (Greenhouse Gas Storage) Act 2008_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      2\. Schedule 1
+    </div>
+  </td>
+  <td>
+    <div>
+      The day after this Act receives the Royal Assent.
+    </div>
+  </td>
+  <td>
+    <div>
+      22 November 2008
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      3\. Schedule 2
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of the provision(s) covered by table
+        item 2.
+    </div>
+  </td>
+  <td>
+    <div>
+      22 November 2008
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      4\. Schedule 3
+    </div>
+  </td>
+  <td>
+    <div>
+      The day after this Act receives the Royal Assent.
+    </div>
+  </td>
+  <td>
+    <div>
+      22 November 2008
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      6\. Schedule 4, Part 2
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of the provision(s) covered by table
+        item 4.
+    </div>
+  </td>
+  <td>
+    <div>
+      22 November 2008
+    </div>
+  </td>
+</tr></table>
+
+## Table of Amendments
+
+<table>
+<colgroup>
+  <col width="34%">
+  <col width="66%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="2">
+      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Provision affected</div>
+    </td>
+    <td>
+      <div>How affected</div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div><b>Part I</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 1A</div>
+  </td>
+  <td>
+    <div>ad. No. 146, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part II</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 2</div>
+  </td>
+  <td>
+    <div>am. Nos. 80 and 216, 1991; No. 210, 1992; Nos. 11, 146 and 177, 1999; Nos. 55 and 169, 2001; No. 101, 2003; No. 47, 2004; No. 41, 2005; Nos. 17 and 78, 2006; Nos. 8 and 49, 2007; No. 117, 2008; Nos. 47, 88 and 102, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 2A</div>
+  </td>
+  <td>
+    <div>ad. No. 80, 1991</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 2B</div>
+  </td>
+  <td>
+    <div>am. No. 47, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 2B(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 47, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 2B(5)</div>
+  </td>
+  <td>
+    <div>ad. No. 47, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 2B</div>
+  </td>
+  <td>
+    <div>ad. No. 80, 1991</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 55, 2001; No. 78, 2006; No. 47, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 2BA</div>
+  </td>
+  <td>
+    <div>ad. No. 47, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 2C</div>
+  </td>
+  <td>
+    <div>ad. No. 47, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 49, 2007; No. 117, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 2D</div>
+  </td>
+  <td>
+    <div>ad. No. 78, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 3</div>
+  </td>
+  <td>
+    <div>am. No. 17, 2006; No. 117, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 4</div>
+  </td>
+  <td>
+    <div>am. No. 80, 1991</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 5(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 47, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 5</div>
+  </td>
+  <td>
+    <div>am. No. 101, 2006; No. 47, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 10</div>
+  </td>
+  <td>
+    <div>rs. No. 47, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part III</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 15</div>
+  </td>
+  <td>
+    <div>ad. No. 145, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 17</div>
+  </td>
+  <td>
+    <div>am. No. 97, 1988; No. 146, 2001; No. 78, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 145, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 17(5)</div>
+  </td>
+  <td>
+    <div>ad. No. 146, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 145, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 18</div>
+  </td>
+  <td>
+    <div>am. No. 88, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 145, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part IV</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 19</div>
+  </td>
+  <td>
+    <div>am. No. 80, 1991; No. 101, 2003; No. 47, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 20</div>
+  </td>
+  <td>
+    <div>am. No. 88, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part V</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 22</div>
+  </td>
+  <td>
+    <div>rs. No. 80, 1991</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 47, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 22B</div>
+  </td>
+  <td>
+    <div>ad. No. 177, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 23</div>
+  </td>
+  <td>
+    <div>am. No. 101, 2003; No. 47, 2004; No. 49, 2007; No. 117, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 24</div>
+  </td>
+  <td>
+    <div>am. No. 169, 2001; No. 101, 2003; No. 78, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 24A</div>
+  </td>
+  <td>
+    <div>ad. No. 101, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 47, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 26</div>
+  </td>
+  <td>
+    <div>am. No. 169, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 27</div>
+  </td>
+  <td>
+    <div>am. No. 78, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 31</div>
+  </td>
+  <td>
+    <div>am. No. 80, 1991</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 31A</div>
+  </td>
+  <td>
+    <div>ad. No. 80, 1991</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 31B</div>
+  </td>
+  <td>
+    <div>ad. No. 177, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 32–34</div>
+  </td>
+  <td>
+    <div>am. No. 80, 1991</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 34A</div>
+  </td>
+  <td>
+    <div>ad. No. 80, 1991</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 169, 2001; No. 17, 2006; No. 117, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 35</div>
+  </td>
+  <td>
+    <div>am. No. 80, 1991</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 35A, 35B</div>
+  </td>
+  <td>
+    <div>ad. No. 80, 1991</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 36</div>
+  </td>
+  <td>
+    <div>am. No. 80, 1991</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 36A</div>
+  </td>
+  <td>
+    <div>ad. No. 41, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 17, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 36B</div>
+  </td>
+  <td>
+    <div>am. No. 47, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 36B</div>
+  </td>
+  <td>
+    <div>ad. No. 41, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 17, 2006; No. 117, 2008; Nos. 47 and 88, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 36C</div>
+  </td>
+  <td>
+    <div>ad. No. 41, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 37, 38</div>
+  </td>
+  <td>
+    <div>am. No. 101, 2003; No. 47, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 39</div>
+  </td>
+  <td>
+    <div>am. No. 78, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 40</div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 41</div>
+  </td>
+  <td>
+    <div>am. No. 101, 2003; No. 47, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 44</div>
+  </td>
+  <td>
+    <div>am. No. 39, 1997; No. 177, 1999; No. 78, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 45</div>
+  </td>
+  <td>
+    <div>rs. No. 80, 1991</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 3A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 3A of Part V</div>
+  </td>
+  <td>
+    <div>ad. No. 80, 1991</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 45A, 45B</div>
+  </td>
+  <td>
+    <div>ad. No. 80, 1991</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 118, 1993; No. 146, 2001; No. 41, 2005; No. 78, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 45C</div>
+  </td>
+  <td>
+    <div>ad. No. 80, 1991</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 41, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 45D</div>
+  </td>
+  <td>
+    <div>ad. No. 80, 1991</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 45E</div>
+  </td>
+  <td>
+    <div>ad. No. 78, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 4</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 46</div>
+  </td>
+  <td>
+    <div>am. No. 47, 2004; No. 47, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 5</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 48</div>
+  </td>
+  <td>
+    <div>am. No. 224, 1992; No. 66, 2000; No. 78, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 48A</div>
+  </td>
+  <td>
+    <div>ad. No. 118, 1993</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 78, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 6</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 53</div>
+  </td>
+  <td>
+    <div>am. No. 216, 1991</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 54</div>
+  </td>
+  <td>
+    <div>rep. No. 78, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 55</div>
+  </td>
+  <td>
+    <div>am. No. 22, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision B</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 57</div>
+  </td>
+  <td>
+    <div>am. No. 169, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 7</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 7 of Part V</div>
+  </td>
+  <td>
+    <div>ad. No. 47, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 58A–58H</div>
+  </td>
+  <td>
+    <div>ad. No. 47, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 58J–58M</div>
+  </td>
+  <td>
+    <div>ad. No. 47, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part VI</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 59</div>
+  </td>
+  <td>
+    <div>am. No. 118, 1993; No. 41, 2005; No. 78, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Notes 1, 2 to s. 59</div>
+  </td>
+  <td>
+    <div>ad. No. 78, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 60</div>
+  </td>
+  <td>
+    <div>am. No. 78, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 60</div>
+  </td>
+  <td>
+    <div>ad. No. 78, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 2 of Part VI</div>
+  </td>
+  <td>
+    <div>rs. No. 78, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 61</div>
+  </td>
+  <td>
+    <div>am. No 146, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 78, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 62, 63</div>
+  </td>
+  <td>
+    <div>rs. No. 78, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 64</div>
+  </td>
+  <td>
+    <div>am. No. 80, 1991</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 78, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 65</div>
+  </td>
+  <td>
+    <div>am. No. 11, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 78, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 65</div>
+  </td>
+  <td>
+    <div>am. No. 216, 1991; No. 181, 1994; No. 11, 1999; No. 44, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 78, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 65(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 11, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 78, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 66</div>
+  </td>
+  <td>
+    <div>ad. No. 78, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 3 of Part VI</div>
+  </td>
+  <td>
+    <div>ad. No. 78, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 67–69</div>
+  </td>
+  <td>
+    <div>rs. No. 78, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 69A</div>
+  </td>
+  <td>
+    <div>ad. No. 216, 1991</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 78, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 70–72</div>
+  </td>
+  <td>
+    <div>rep. No. 216, 1991</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>ad. No. 78, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Part VII</div>
+  </td>
+  <td>
+    <div>rep. No. 216, 1991</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 73–81</div>
+  </td>
+  <td>
+    <div>rep. No. 216, 1991</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part VIII</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 82</div>
+  </td>
+  <td>
+    <div>rs. No. 78, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note s. 82</div>
+  </td>
+  <td>
+    <div>ad. No. 179, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 78, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 83, 84</div>
+  </td>
+  <td>
+    <div>rep. No. 179, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 85</div>
+  </td>
+  <td>
+    <div>am. No. 78, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 85</div>
+  </td>
+  <td>
+    <div>rs. No. 11, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 78, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 85(1)</div>
+  </td>
+  <td>
+    <div>am. No. 101, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 86, 87</div>
+  </td>
+  <td>
+    <div>rep. No. 179, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 88</div>
+  </td>
+  <td>
+    <div>am. No. 60, 1990; Nos. 92 and 118, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 179, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 89</div>
+  </td>
+  <td>
+    <div>rep. No. 179, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 90</div>
+  </td>
+  <td>
+    <div>am. No. 216, 1991</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 179, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 91</div>
+  </td>
+  <td>
+    <div>am. No. 44, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 179, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 92</div>
+  </td>
+  <td>
+    <div>am. No. 78, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 93</div>
+  </td>
+  <td>
+    <div>am. No. 44, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 95</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 97</div>
+  </td>
+  <td>
+    <div>am. No. 80, 1991; No. 169, 2001; No. 78, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 97(1A)</div>
+  </td>
+  <td>
+    <div>ad. No. 78, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 98</div>
+  </td>
+  <td>
+    <div>am. No. 41, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 98A–98D</div>
+  </td>
+  <td>
+    <div>ad. No. 78, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part IX</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 100A</div>
+  </td>
+  <td>
+    <div>ad. No. 91, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part X</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 106</div>
+  </td>
+  <td>
+    <div>am. No. 216, 1991; No. 78, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 106A</div>
+  </td>
+  <td>
+    <div>ad. No. 169, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 107</div>
+  </td>
+  <td>
+    <div>am. No 91, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 108</div>
+  </td>
+  <td>
+    <div>am. No. 88, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 109</div>
+  </td>
+  <td>
+    <div>am. No. 78, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 110, 111</div>
+  </td>
+  <td>
+    <div>rep. No. 179, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 112</div>
+  </td>
+  <td>
+    <div>am. No. 91, 2000; No. 146, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 112(3)</div>
+  </td>
+  <td>
+    <div>ad. No. 146, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 112(4)</div>
+  </td>
+  <td>
+    <div>ad. No. 146, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 114</div>
+  </td>
+  <td>
+    <div>am. No. 78, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Schedule</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Schedule</div>
+  </td>
+  <td>
+    <div>ad. No. 80, 1991</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 224, 1992; No. 118, 1993; No. 169, 2001; No. 47, 2004; No. 41, 2005; Nos. 17 and 78, 2006; No. 117, 2008</div>
+  </td>
+</tr></table>
+
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 909  Subsection 2D(4) (definition of _year_)
+
+Omit “calendar”.
+
+## 910  Subsection 36B(5) (note)
+
+Omit “section 17AA”, substitute “section 2B”.
+
+As at 3 November 2011 the amendments are not incorporated in this compilation.
+
+## Table A
+
+### Application, saving or transitional provisions
+
+_A New Tax System (Tax Administration) Act (No. 1) 2000 (No. 44, 2000)_
+
+## Schedule 3
+
+## 40  Saving
+
+Despite the repeal of subsection 65(5) of the _Petroleum Resource Rent Tax Assessment Act 1987_ by item 39, that subsection continues to have effect in relation to an exercise of the Commissioner’s power under section 84 of that Act before 1 July 2000.
+
+## 42  Saving
+
+A reference to section 83, 84, 86, 88, 89, 110 or 111 of the _Petroleum Resource Rent Tax Assessment Act 1987_(the **_PRRTA Act_**) in an item in Part 3 of Schedule 2 to the _A New Tax System (Tax Administration) Act 1999_ includes a reference to that section as it had effect, before its repeal, because of subsection 65(12) of the PRRTA Act.
+
+## 44  Saving
+
+A reference to section 84, 86, 110 or 111 of the _Petroleum Resource Rent Tax Assessment Act 1987_(the **_PRRTA Act_**) in an item in Part 3 of Schedule 2 to the _A New Tax System (Tax Administration) Act 1999_ includes a reference to that section as it had effect, before its repeal, because of subsection 93(1) of the PRRTA Act.
+
+* * *
+
+_Taxation Laws Amendment Act (No 3) 2000 (No. 66, 2000)_
+
+## Schedule 6
+
+## 3  Application
+
+The amendments made by this Schedule apply to transactions entered into after this Schedule commences.
+
+* * *
+
+_Treasury Legislation Amendment (Application of Criminal Code) Act (No. 2) 2001 (No. 146, 2001)_
+
+##### <a id="4"></a>4  Application of amendments
+
+             (1)  Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
+
+             (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
+
+* * *
+
+_Taxation Laws Amendment Act (No. 6) 2001 (No. 169, 2001)_
+
+## Schedule 1
+
+## 15  Application
+
+The amendments made by this Part apply to projects in respect of which an application was made under section 39A, 40 or 40A of the _Petroleum (Submerged Lands) Act 1967_ after 23 December 1998.
+
+* * *
+
+_Bankruptcy Legislation Amendment Act 2004 (No. 80, 2004)_
+
+## Schedule 1
+
+## 212  Transitional—pre‑commencement deeds and compositions
+
+(1)       For the purposes of this item, if a deed of assignment or a deed of arrangement was executed by a debtor and a trustee under Part X of the _Bankruptcy Act 1966_ before the commencement of this item, the deed is a **_pre‑commencement deed_**.
+
+(2)       For the purposes of this item, if a composition was accepted before the commencement of this item by a special resolution of a meeting of creditors under section 204 of the _Bankruptcy Act 1966_, the composition is a **_pre‑commencement composition_**.
+
+(3)       Despite the repeals and amendments made by Parts 1 and 2 of this Schedule:
+
+                     (a)  the _Bankruptcy Act 1966_ and regulations under that Act; and
+
+                     (b)  the Acts amended by Part 2 of this Schedule;
+
+continue to apply, in relation to:
+
+                     (c)  a pre‑commencement deed; and
+
+                     (d)  a pre‑commencement composition; and
+
+                     (e)  any matter connected with, or arising out of:
+
+                              (i)  a pre‑commencement deed; or
+
+                             (ii)  a pre‑commencement composition;
+
+as if those repeals had not happened and those amendments had not been made.
+
+## 213  Transitional—pre‑commencement authorities
+
+(1)       For the purposes of this item, if:
+
+                     (a)  an authority given by a debtor under section 188 of the _Bankruptcy Act 1966_ became effective before the commencement of this item; and
+
+                     (b)  as at the commencement of this item, none of the following had happened:
+
+                              (i)  the execution by the debtor and the trustee of a deed of assignment under Part X of the _Bankruptcy Act 1966_;
+
+                             (ii)  the execution by the debtor and the trustee of a deed of arrangement under Part X of the _Bankruptcy Act 1966_;
+
+                            (iii)  the acceptance of a composition by a special resolution of a meeting of the debtor’s creditors under section 204 of the _Bankruptcy Act 1966_;
+
+the authority is a **_pre‑commencement authority_**.
+
+(2)       Despite the repeals and amendments made by Parts 1 and 2 of this Schedule:
+
+                     (a)  the _Bankruptcy Act 1966_ and regulations under that Act; and
+
+                     (b)  the Acts amended by Part 2 of this Schedule;
+
+continue to apply, in relation to:
+
+                     (c)  a pre‑commencement authority; and
+
+                     (d)  the control of the debtor’s property following a pre‑commencement authority becoming effective; and
+
+                     (e)  a meeting of the debtor’s creditors called under a pre‑commencement authority; and
+
+                      (f)  whichever of the following is applicable:
+
+                              (i)  a deed of assignment executed after the commencement of this item by the debtor and the trustee under Part X of the _Bankruptcy Act 1966_ in accordance with a special resolution of such a meeting;
+
+                             (ii)  a deed of arrangement executed after the commencement of this item by the debtor and the trustee under Part X of the _Bankruptcy Act 1966_ in accordance with a special resolution of such a meeting;
+
+                            (iii)  a composition accepted after the commencement of this item by a special resolution of such a meeting; and
+
+                     (g)  any other matter connected with, or arising out of:
+
+                              (i)  a pre‑commencement authority; or
+
+                             (ii)  a deed of assignment mentioned in subparagraph (f)(i); or
+
+                            (iii)  a deed of arrangement mentioned in subparagraph (f)(ii); or
+
+                            (iv)  a composition mentioned in subparagraph (f)(iii);
+
+as if those repeals had not happened and those amendments had not been made.
+
+## 215  Transitional—regulations
+
+(1)       The regulations may make provision for matters of a transitional nature arising from the amendments made by Parts 1 and 2 of this Schedule.
+
+(2)       The Governor‑General may make regulations for the purposes of subitem (1).
+
+* * *
+
+_Tax Laws Amendment (2004 Measures No. 7) Act 2005 (No. 41, 2005)_
+
+## Schedule 5
+
+## 17  Application
+
+(1)       The amendments made by this Schedule (other than items 5 and 6) apply in respect of any exploration expenditure incurred (whether before or after this Schedule commences) where the eligible exploration or recovery area is a designated frontier area.
+
+(2)       The amendments made by items 5 and 6 apply in respect of any objection made (whether before or after that item commences) that has not yet been finally determined or otherwise disposed of.
+
+## Schedule 10
+
+## 230  Transitional
+
+An approval of a form for the purposes of the _Petroleum Resource Rent Tax Assessment Act 1987_ that was in force immediately before the commencement of this item has effect after that commencement as if it had been done under section 388‑50 in Schedule 1 to the _Taxation Administration Act 1953_.
+
+* * *
+
+_Offshore Petroleum (Repeals and Consequential Amendments) Act 2006 
+ (No. 17, 2006)_
+
+## Schedule 2
+
+## 95  Transitional—pre‑commencement events and circumstances
+
+For the purposes of the application of:
+
+                     (a)  the _Petroleum Resource Rent Tax Assessment Act 1987_ (the **_PRRTA Act_**); or
+
+                     (b)  an Act with which the PRRTA Act is incorporated;
+
+to events that occurred, and circumstances that arose, before the commencement of this item:
+
+                     (c)  each of the following definitions in section 2 of the PRRTA Act has effect as if the defined expression included anything that was covered by the definition as in force before the commencement of this item:
+
+                              (i)  the definition of **_access authority_**;
+
+                             (ii)  the definition of **_block_**;
+
+                            (iii)  the definition of **_certifying Minister_**;
+
+                            (iv)  the definition of **_designated frontier expenditure_**;
+
+                             (v)  the definition of **_excluded fee_**;
+
+                            (vi)  the definition of **_exploration permit_**;
+
+                           (vii)  the definition of **_exploration permit area_**;
+
+                          (viii)  the definition of **_holder of a registered interest_**;
+
+                            (ix)  the definition of **_petroleum_**;
+
+                             (x)  the definition of **_pipeline licence_**;
+
+                            (xi)  the definition of **_production licence_**;
+
+                           (xii)  the definition of **_production licence area_**;
+
+                          (xiii)  the definition of **_registered holder_**;
+
+                          (xiv)  the definition of **_retention lease_**;
+
+                           (xv)  the definition of **_retention lease area_**; and
+
+                     (d)  section 3 of the PRRTA Act has effect as if:
+
+                              (i)  a reference in that section to the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_ included a reference to the repealed _Petroleum (Submerged Lands) Act 1967_; and
+
+                             (ii)  the reference in that section to Division 3 of Part 1.2 of the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_ included a reference to section 6A of the repealed _Petroleum (Submerged Lands) Act 1967_; and
+
+                     (e)  paragraph 34A(1)(a) of the PRRTA Act has effect as if the reference in that paragraph to subsection 258(7) of the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_ included a reference to subsection 41(3) of the repealed _Petroleum (Submerged Lands) Act 1967_; and
+
+                      (f)  subsection 36B(1) of the PRRTA Act has effect as if the reference in that subsection to the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_ included a reference to the repealed _Petroleum (Submerged Lands) Act 1967_; and
+
+                     (g)  the definition of **_potential exploration permit area_** in subsection 36B(6) of the PRRTA Act has effect as if the reference in that definition to Part 2.2 of the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_ included a reference to Division 2 of Part III of the repealed _Petroleum (Submerged Lands) Act 1967_; and
+
+                     (h)  the definition of **_relevant pre‑commencement day_** in clause 1 of the Schedule to the PRRTA Act has effect as if a reference in that definition to subsection 258(7) of the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_ included a reference to subsection 41(3) of the repealed _Petroleum (Submerged Lands) Act 1967_.
+
+## 96  Transitional—section 36B of the _Petroleum Resource Rent Tax Assessment Act 1987_
+
+(1)       This item applies to an instrument if:
+
+                     (a)  the instrument was in force immediately before the commencement of this item; and
+
+                     (b)  the instrument was made under subsection 36B(1) or (5) of the _Petroleum Resource Rent Tax Assessment Act 1987_(the **_PRRTA Act_**).
+
+(2)       The instrument has effect, after the commencement of this item, as if:
+
+                     (a)  it had been made under the corresponding provision of the PRRTA Act  as amended by this Act; and
+
+                     (b)  any requirement imposed by the PRRTA Act (as amended by this Act) in relation to the making of the instrument had been satisfied.
+
+(3)       Subitem (2) does not prevent the instrument continuing to have effect for the purposes of the application of:
+
+                     (a)  the PRRTA Act; or
+
+                     (b)  an Act with which the PRRTA Act is incorporated;
+
+to events that occurred, and circumstances that arose, before the commencement of this item.
+
+* * *
+
+_Petroleum Resource Rent Tax Assessment Amendment Act 2006 
+ (No. 78, 2006)_
+
+## Schedule 1
+
+## 12  Application
+
+The amendments made by Part 1 of this Schedule apply only in relation to instalment transfers under the _Petroleum Resource Rent Tax Assessment Act 1987_ for financial years that start on or after 1 July 2006.
+
+## Schedule 2
+
+## 3  Application—years of tax that start on or after 1 July 2006
+
+The amendments made by Part 1 of this Schedule apply only in relation to instalments and assessments of tax under the _Petroleum Resource Rent Tax Assessment Act 1987_ for financial years that start on or after 1 July 2006.
+
+## 4  Application—pre‑1 July 2006 expenditure
+
+(1)       Transferable exploration expenditure that was actually incurred before 1 July 2006 may, unless subitem (2), (3) or (4) applies, be transferred in relation to a transfer year that starts on or after 1 July 2006 from one company (the **_loss company_**) to another company (the **_profit company_**) in relation to a petroleum project (the **_receiving project_**) in which the profit company holds (or has held) an interest (the **_receiving interest_**).
+
+(2)       The expenditure cannot be transferred if new clause 31, or any other provision of the _Petroleum Resource Rent Tax Assessment Act 1987_ (as amended by this Act), prevents the transfer.
+
+(3)       If the starting day for the receiving project was before 1 July 2006, the expenditure cannot be transferred if old clause 31 would have prevented the transfer of the expenditure, in relation to the transfer year starting on 1 July 2005, from the company which actually incurred the expenditure to the company which held the receiving interest at the end of that year.
+
+(4)       If the starting day for the receiving project was on or after 1 July 2006, the expenditure cannot be transferred if paragraph 31(1)(a) of the old clause 31, subject to subclauses (2), (2AA), (2AB) and (2A) of that clause, did not, in relation to the transfer year starting on 1 July 2005, apply to the company which actually incurred the expenditure.
+
+(5)       If section 41 of the _Petroleum Resource Rent Tax Assessment Act 1987_ applies to the expenditure, a reference in subitem (3) or (4) to the company which actually incurred the expenditure is taken to be a reference to the company taken under paragraph 41(1)(b) of the Act to have incurred the liability for making the expenditure.
+
+(6)       An expression used in this item has the same meaning as in Part 6 of the Schedule to the _Petroleum Resource Rent Tax Assessment Act 1987_.
+
+(7)       In this item:
+
+**_new clause 31_** means clause 31 of the Schedule to the Petroleum Resource Rent Tax Assessment Act 1987, as amended by Part 1 of this Schedule.
+
+**_old clause 31_** means clause 31 of the Schedule to the Petroleum Resource Rent Tax Assessment Act 1987, as in force immediately before 1 July 2006.
+
+## Schedule 3
+
+## 9  Application
+
+The amendments made by Part 1 of this Schedule apply only in relation to assessments of tax under the _Petroleum Resource Rent Tax Assessment Act 1987_ for financial years that start on or after 1 July 2006.
+
+## Schedule 4
+
+## 38  Application
+
+The amendments made by Part 1 of this Schedule apply only in relation to returns and assessments of tax, and instalments of tax, under the _Petroleum Resource Rent Tax Assessment Act 1987_ for financial years that start on or after 1 July 2006.
+
+## Schedule 5
+
+## 23  Application
+
+(1)       The amendments made by items 13, 14, 16 and 17 apply only in relation to transactions entered into on or after 1 July 2006.
+
+(2)       The other amendments made by this Schedule apply only in relation to returns, assessments, notices and certificates under the _Petroleum Resource Rent Tax Assessment Act 1987_ in relation to financial years that start on or after 1 July 2006.
+
+* * *
+
+_Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006 
+ (No. 101, 2006)_
+
+## Schedule 6
+
+## 1  Application of Schedule 1 and 2 amendments
+
+Except as mentioned in items 2 and 3, the repeals and amendments made by Schedules 1 and 2 apply:
+
+                     (a)  so far as they affect assessments—to assessments for the 2006‑07 income year and all later income years; and
+
+                     (b)  otherwise—to acts done or omitted to be done, or states of affairs existing, after the commencement of the repeals and amendments.
+
+## 6  Object
+
+The object of this Part is to ensure that, despite the repeals and amendments made by this Act, the full legal and administrative consequences of:
+
+                     (a)  any act done or omitted to be done; or
+
+                     (b)  any state of affairs existing; or
+
+                     (c)  any period ending;
+
+before such a repeal or amendment applies, can continue to arise and be carried out, directly or indirectly through an indefinite number of steps, even if some or all of those steps are taken after the repeal or amendment applies.
+
+## 7  Making and amending assessments, and doing other things, in relation to past matters
+
+Even though an Act is repealed or amended by this Act, the repeal or amendment is disregarded for the purpose of doing any of the following under any Act or legislative instrument (within the meaning of the _Legislative Instruments Act 2003_):
+
+                     (a)  making or amending an assessment (including under a provision that is itself repealed or amended);
+
+                     (b)  exercising any right or power, performing any obligation or duty or doing any other thing (including under a provision that is itself repealed or amended);
+
+in relation to any act done or omitted to be done, any state of affairs existing, or any period ending, before the repeal or amendment applies.
+
+Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998‑99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
+
+                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998‑99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
+
+                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998‑99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
+
+                   Despite the repeal of sections 160ARU and 160ARV, item 9 will ensure that the general interest charge will accrue on the unpaid franking deficit tax and penalty until they are paid.
+
+                   Item 7 will also preserve Greg Ltd’s right, under former section 160ART of that Act, to object against the Commissioner’s amended assessment (including the penalty), since the objection is the exercise of a right in relation to a franking year that ended before the repeal of Part IIIAA.
+
+Example 2: During the 1997‑98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
+
+                   Following an audit undertaken after the repeal of those Divisions, the Commissioner discovers that the withheld amounts have not been remitted. The company’s records are incomplete and the Commissioner is unable to completely ascertain the extent of its liability for the withheld amounts. Under section 222AGA of that Act, the Commissioner makes an estimate of the liability.
+
+                   Item 7 will disregard the repeal of section 220AAZA of that Act (which empowered the Commissioner to recover the amount of the estimate). Even though the estimate is made after the repeal, it relates to amounts withheld before the repeal.
+
+## 8  Saving of provisions about effect of assessments
+
+If a provision or part of a provision that is repealed or amended by this Act deals with the effect of an assessment, the repeal or amendment is disregarded in relation to assessments made, before or after the repeal or amendment applies, in relation to any act done or omitted to be done, any state of affairs existing, or any period ending, before the repeal or amendment applies.
+
+## 9  Saving of provisions about general interest charge, failure to notify penalty or late reconciliation statement penalty
+
+If:
+
+                     (a)  a provision or part of a provision that is repealed or amended by this Act provides for the payment of:
+
+                              (i)  general interest charge, failure to notify penalty or late reconciliation statement penalty (all within the meaning of the _Income Tax Assessment Act 1936_); or
+
+                             (ii)  interest under the _Taxation (Interest on Overpayments and Early Payments) Act 1983_; and
+
+                     (b)  in a particular case, the period in respect of which the charge, penalty or interest is payable (whether under the provision or under the _Taxation Administration Act 1953_) has not begun, or has begun but not ended, when the provision is repealed or amended;
+
+then, despite the repeal or amendment, the provision or part continues to apply in the particular case until the end of the period.
+
+## 10  Repeals disregarded for the purposes of dependent provisions
+
+If the operation of a provision (the **_subject provision_**) of any Act or legislative instrument (within the meaning of the _Legislative Instruments Act 2003_) made under any Act depends to any extent on an Act, or a provision of an Act, that is repealed by this Act, the repeal is disregarded so far as it affects the operation of the subject provision.
+
+## 11  Schedule does not limit operation of section 8 of the _Acts Interpretation Act 1901_
+
+This Schedule does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
+
+* * *
+
+_Offshore Petroleum Amendment (Greater Sunrise) Act 2007 (No. 49, 2007)_
+
+## Schedule 1
+
+## 97  Regulations
+
+(1)       The Governor‑General may make regulations in relation to transitional matters arising out of the amendments made by this Act.
+
+(2)       The Governor‑General may make regulations making provision (including provision by way of modification or adaptation of any Act) for or in relation to matters consequential on amendments made by this Act.
+
+(3)       The Governor‑General may make regulations that:
+
+                     (a)  in the Minister’s opinion, are necessary or convenient for giving effect to any provision of the Greater Sunrise unitisation agreement; and
+
+                     (b)  are not inconsistent with any amendment made by this Act.
+
+(4)       In this item:
+
+**_Greater Sunrise unitisation agreement_** has the same meaning as in the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
+
+* * *
+
+_Tax Laws Amendment (2009 Measures No. 3) Act 2009 (No. 47, 2009)_
+
+## Schedule 3
+
+## 20  Application of amendments
+
+The amendments made by this Part apply in relation to instalments and assessments of tax under the _Petroleum Resource Rent Tax Assessment Act 1987_ for years of tax that start on or after 1 July 2009.
+
+## 36  Application of amendments
+
+The amendments made by this Part apply in relation to instalments and assessments of tax under the _Petroleum Resource Rent Tax Assessment Act 1987_ for years of tax that start on or after 1 July 2008.
+
+* * *
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 3
+
+## 10  Saving—appointments
+
+The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
+
+## 11  Transitional regulations
+
+The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
+
+ 
