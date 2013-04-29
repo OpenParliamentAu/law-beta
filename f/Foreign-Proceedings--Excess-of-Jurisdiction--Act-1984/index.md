@@ -1,13 +1,42 @@
 
 Foreign Proceedings (Excess of Jurisdiction) Act 1984
 Act No. 3 of 1984 as amended
-This compilation was prepared on 27 July 2001 taking into account amendments up to Act No. 55 of 2001
+This compilation was prepared on 7 November 2000  taking into account amendments up to Act No. 112 of 1991
 The text of any of those amendments not in force on that date is appended in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
   
   
   
 Contents
+Part I—Preliminary	1
+1	Short title [see Note 1]	1
+2	Extension to external Territories	1
+3	Interpretation	1
+Part II—Foreign proceedings	3
+Division 1—Interpretation and Application	3
+4	Interpretation	3
+5	Application of Part	4
+Division 2—Prohibition of the giving of certain evidence in foreign courts or to foreign authorities	6
+6	Exercise of powers under this Part	6
+7	Orders	6
+8	Injunctions	8
+Division 3—Enforceability of judgments given in foreign antitrust proceedings	10
+9	Enforceability of judgments given in foreign antitrust proceedings	10
+10	Defendant in antitrust proceedings may recover against person who has enforced judgment	11
+11	Defendant may recover reasonable costs and expenses	14
+12	Enforcement of judgments under reciprocal agreement	17
+Part III—Actions and decisions of foreign governments affecting Australia	20
+13	Attorney‑General may make orders relating to actions or decisions	20
+Part IV—Prohibition on giving effect to certain foreign judgments	22
+14	Attorney‑General may prohibit compliance with foreign judgments etc.	22
+Part V—Miscellaneous	24
+15	Parliamentary disallowance of orders and instruments under this Act	24
+16	Jurisdiction of Federal Court	24
+17	Service of notice of orders	25
+18	Offences	25
+19	Regulations	26
+20	Repeal etc.	27
+Notes		29
 An Act to make provision in relation to the evidence that may be given in certain foreign proceedings, to provide a right of action in Australia in respect of the enforcement outside Australia of certain foreign judgments, and for related purposes
 Part I—Preliminary
 1  Short title [see Note 1]
@@ -30,7 +59,7 @@ foreign court means any court, or prescribed authority, of a country other than 
 judgment includes a decree or order.
 	(2)	A reference in this Act to a judgment being given is, in relation to a judgment that is a decree or order, a reference to the decree or order being made.
 	(3)	A reference in this Act to proceedings in which multiple damages may be awarded is a reference to proceedings in which judgment may be given for an amount calculated by doubling, trebling or otherwise multiplying the amount assessed by the court as the amount that would compensate the person who instituted the proceedings for the loss or damage in respect of which the proceedings were instituted, and a reference in this Act to a judgment for multiple damages is a reference to a judgment for an amount that is so calculated.
-	(4)	For the purposes of this Act, the question whether a corporation is related to another corporation shall be determined in the same manner as the question whether a corporation is related to another corporation is determined under the Corporations Act 2001.
+	(4)	For the purposes of this Act, the question whether a corporation is related to another corporation shall be determined in the same manner as the question whether a corporation is related to another corporation is determined under the Companies Act 1981.
 
 Part II—Foreign proceedings
 Division 1—Interpretation and Application
@@ -289,7 +318,6 @@ as if the order had been made under section 7 of this Act.
 Notes to the Foreign Proceedings (Excess of Jurisdiction) Act 1984
 Note 1
 The Foreign Proceedings (Excess of Jurisdiction) Act 1984 as shown in this compilation comprises Act No. 3, 1984 amended as indicated in the Tables below.
-For application, saving or transitional provisions made by the Corporations (Repeals, Consequentials and Transitionals) Act 2001, see Act No. 55, 2001.
 Table of Acts
 Act
 Number  and year
@@ -311,19 +339,15 @@ Foreign Judgments Act 1991
 27 June 1991
 S. 21: 27 Oct 1991 Remainder: Royal Assent
 —
-Corporations (Repeals, Consequentials and Transitionals) Act 2001
-55, 2001
-28 June 2001
-Ss. 4‑14 and Schedule 3 (item 206): 15 July 2001 (see Gazette 2001, No. S285) (a)
-Ss. 4‑14
-(a)	The Foreign Proceedings (Excess of Jurisdiction) Act 1984 was amended by Schedule 3 (item 206) only of the Corporations (Repeals, Consequentials and Transitionals) Act 2001, subsection 2(3) of which provides as follows:
-	(3)	Subject to subsections (4) to (10), Schedule 3 commences, or is taken to have commenced, at the same time as the Corporations Act 2001.
+
+
+
+
+
 Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
 How affected
-S. 3 	
-am. No. 55, 2001 
 S. 12 	
 am. No. 112, 1991 
 S. 15 	
