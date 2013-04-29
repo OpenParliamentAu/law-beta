@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00303/Html/587195d3-316d-4ca9-8570-6283c4817e37_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00844/Html/fa721331-28ae-4300-bab7-9fb97bd20290_files/image001.gif)
 
 # Law Officers Act 1964
 
 **Act No. 91 of 1964 as amended**
 
-This compilation was prepared on 16 March 2012
+This compilation was prepared on 19 October 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
@@ -124,9 +124,25 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (b)  during any period, or during all periods, when the Solicitor‑General is absent from duty or from Australia or is, for any reason, unable to perform the functions of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
              (2)  A person who is appointed to act in the Office of Solicitor‑General must be eligible for appointment to that office.
+
+             (3)  The Governor‑General may:
+
+                     (a)  determine the terms and conditions of appointment of a person acting as Solicitor‑General; and
+
+                     (b)  at any time terminate such an appointment.
+
+             (4)  The validity of anything done by or in relation to a person purporting to act under subsection (1) must not be called into question on the ground that:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there is a defect or irregularity in or in connection with the appointment; or
+
+                     (c)  the appointment has ceased to have effect; or
+
+                     (d)  the occasion for him or her to act had not arisen or had ceased.
+
+Note:          See section 33A of the _Acts Interpretation Act 1901_ for further provisions relating to acting appointments.
 
 ##### <a id="12"></a>12  Functions of Solicitor‑General
 
@@ -268,7 +284,7 @@ reduced by 2.5% for each whole year between:
 
         (11A)  For the purposes of this section, the **_appropriate current salary_** in relation to a person at a particular time (the **_calculation time_**) is calculated as follows:
 
-![](http://www.comlaw.gov.au/Details/C2012C00303/Html/587195d3-316d-4ca9-8570-6283c4817e37_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00844/Html/fa721331-28ae-4300-bab7-9fb97bd20290_files/image002.gif)
 
 For the purposes of the calculation:
 
@@ -325,10 +341,10 @@ All relevant information pertaining to application, saving or transitional provi
 <table>
 <colgroup>
   <col width="30%">
-  <col width="15%">
+  <col width="16%">
   <col width="18%">
   <col width="22%">
-  <col width="16%">
+  <col width="14%">
 </colgroup>
 
 <thead>
@@ -689,7 +705,7 @@ Schedule 2 (items 27, 28): 1 Jan 2009 ( <i>see</i>F2008L04609)</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 752–754) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 752–754) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
@@ -718,7 +734,7 @@ _(e)_     The _Law Officers Act 1964_ was amended by section 3 only of
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-_(f)_      The _Law Officers Act 1964_ was amended by section 3 (item 11) and section 4 (items 151–173) only of the _Law and Justice Legislation Amendment Act (No. 2) 1994_, subsection 2(1) of which provides as follows:
+_(f)_      The _Law Officers Act 1964_ was amended by section 3 (item 11) and section 4 (items 151‑173) only of the _Law and Justice Legislation Amendment Act (No. 2) 1994_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
@@ -835,22 +851,6 @@ _(f)_      The _Law Officers Act 1964_ was amended by section 3 (ite
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 11(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 12</div>
   </td>
   <td>
@@ -962,6 +962,30 @@ _(f)_      The _Law Officers Act 1964_ was amended by section 3 (ite
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 752  At the end of subsection 11(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 753  Subsection 11(3)
+
+Repeal the subsection.
+
+## 754  Subsection 11(4)
+
+Repeal the subsection.
+
+As at 19 October 2011 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -1035,6 +1059,8 @@ The amendments of the _Law Officers Act 1964_ made by this Schedule apply in rel
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
