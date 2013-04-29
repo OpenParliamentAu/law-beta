@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00571/Html/f31573f8-df7c-4698-8d32-cd51160daea7_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C00880/Html/image001.gif)
 
 # Customs Depot Licensing Charges Act 1997
 
 **Act No. 4 of 1997 as amended**
 
-This compilation was prepared on 26 July 2011
- taking into account amendments up to Act No. 63 of 2011
+This compilation was prepared on 16 September 2002
+ taking into account amendments up to Act No. 91 of 2001
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -13,26 +13,26 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+Prepared by the Office of Legislative Drafting,
+ Attorney-General’s Department, Canberra
 
 # Contents
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Definitions
+[3](#3).            Definitions                                                                                           1
 
-[4](#4).            Imposition of charges
+[4](#4).            Imposition of charges                                                                          2
 
-[5](#5).            Amount of depot licence application charge
+[5](#5).            Amount of depot licence application charge                                       2
 
-[6](#6).            Amount of depot licence charge
+[6](#6).            Amount of depot licence charge                                                          3
 
-[6A](#6A).         Amount of depot licence variation charge
+[6A](#6A).         Amount of depot licence variation charge                                           6
 
-[7](#7).            Regulations
+[7](#7).            Regulations                                                                                          6
 
 **Notes** 
 
@@ -114,7 +114,7 @@ is $1,000.
 
                      (b)  the number of transactions handled by the depot during the reference year were worked out to the nearest whole number using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00571/Html/f31573f8-df7c-4698-8d32-cd51160daea7_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2004C00880/Html/image002.gif)
 
              (4)  In subsection (3):
 
@@ -130,7 +130,7 @@ is $1,000.
 
              (5)  If a depot licence is granted for a period that is less than a year, the amount of depot licence charge payable as set out in section 77U in respect of that grant is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00571/Html/f31573f8-df7c-4698-8d32-cd51160daea7_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2004C00880/Html/image003.gif)
 
 where:
 
@@ -156,7 +156,7 @@ where:
 
                      (b)  the number of transactions handled by the place during the reference year were worked out to the nearest whole number using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00571/Html/f31573f8-df7c-4698-8d32-cd51160daea7_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2004C00880/Html/image002.gif)
 
              (8)  In subsection (7):
 
@@ -176,7 +176,7 @@ where:
 
 ##### <a id="7"></a>7  Regulations
 
-                   The Governor‑General may make regulations for the purposes of sections 5, 6 and 6A.
+                   The Governor-General may make regulations for the purposes of sections 5, 6 and 6A.
 
 # Notes to the _Customs Depot Licensing Charges Act 1997_
 
@@ -184,7 +184,7 @@ where:
 
 The _Customs Depot Licensing Charges Act 1997_ as shown in this compilation comprises Act No. 4, 1997 amended as indicated in the Tables below.
 
-For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
+For all relevant information pertaining to application, saving or transitional provisions _see_ Table A. 
 
 ### Table of Acts
 
@@ -217,7 +217,17 @@ of Assent</div>
       <div>Application, saving or transitional provisions</div>
     </td>
   </tr>
-</thead>
+</thead></table>
+
+<table>
+<colgroup>
+  <col width="30%">
+  <col width="16%">
+  <col width="18%">
+  <col width="22%">
+  <col width="14%">
+</colgroup>
+
 <tr>
   <td>
     <div>Customs Depot Licensing Charges Act 1997</div>
@@ -243,63 +253,41 @@ of Assent</div>
     <div>91, 2001</div>
   </td>
   <td>
-    <div>18 July 2001</div>
+    <div>18 July 2001</div>
   </td>
   <td>
-    <div>Schedule 1: 1 July 2002 ( <i>see</i>s. 2(2) and <i>Gazette</i>2002, No. S223) 
+    <div>Schedule 1: 1 July 2002 ( <i>see</i>s. 2(2) and <i>Gazette</i>2002, No. S223) 
 Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>Sch. 1 (item 6)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Customs Amendment (Export Controls and Other Measures) Act 2011</div>
-  </td>
-  <td>
-    <div>63, 2011</div>
-  </td>
-  <td>
-    <div>29 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 33–38): \[ <i>see</i>Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
+    <div>Sch. 1 (item 6)</div>
   </td>
 </tr></table>
 
 ## Table of Amendments
 
+ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
+
 <table>
 <colgroup>
-  <col width="32%">
-  <col width="68%">
+  <col width="34%">
+  <col width="66%">
 </colgroup>
 
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
+<tr>
+  <td>
+    <div>Provision affected</div>
+  </td>
+  <td>
+    <div>How affected</div>
+  </td>
+</tr>
 <tr>
   <td>
     <div>Ss. 3, 4</div>
   </td>
   <td>
-    <div>am. No. 91, 2001</div>
+    <div>am. No. 91, 2001</div>
   </td>
 </tr>
 <tr>
@@ -307,7 +295,7 @@ Remainder: Royal Assent</div>
     <div>S. 6</div>
   </td>
   <td>
-    <div>am. No. 91, 2001</div>
+    <div>am. No. 91, 2001</div>
   </td>
 </tr>
 <tr>
@@ -315,7 +303,7 @@ Remainder: Royal Assent</div>
     <div>S. 6A</div>
   </td>
   <td>
-    <div>ad. No. 91, 2001</div>
+    <div>ad. No. 91, 2001</div>
   </td>
 </tr>
 <tr>
@@ -323,52 +311,17 @@ Remainder: Royal Assent</div>
     <div>S. 7</div>
   </td>
   <td>
-    <div>am. No. 91, 2001</div>
+    <div>am. No. 91, 2001</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Customs Amendment (Export Controls and Other Measures) Act 2011
- (No. 63, 2011)_
-
-The following amendments commence on 29 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 33  Section 3 (definition of _depot licence charge_)
-
-Omit “77M or”.
-
-## 34  Subsections 4(2) and 5(1)
-
-Repeal the subsections.
-
-## 35  Subsection 5(2)
-
-Omit “(2)”.
-
-## 36  Subsection 5(2)
-
-Omit “to whom paragraphs (1)(a) and (b) do not apply”, substitute “for a depot licence”.
-
-## 37  Subsection 6(1)
-
-Omit “or (6)”.
-
-## 38  Subsections 6(6) to (8)
-
-Repeal the subsections.
-
-As at 26 July 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
 ### Application, saving or transitional provisions
 
-_Customs Depot Licensing Charges Amendment Act 2001 (No. 91, 2001)_
+_Customs Depot Licensing Charges Amendment Act 2001 (No. 91, 2001)_
 
-## Schedule 1
+## Schedule 1
 
 ## 6  Application
 
