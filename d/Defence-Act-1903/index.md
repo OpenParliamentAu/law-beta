@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00225/Html/b1787c81-0681-44a0-8b2f-b6a57f10cff6_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00895/Html/75641810-e0d3-456d-adcf-5dcba1bc58a4_files/image001.gif)
 
 # Defence Act 1903
 
 **Act No. 20 of 1903 as amended**
 
-This compilation was prepared on 31 January 2012
- taking into account amendments up to Act No. 183 of 2011
+This compilation was prepared on 8 November 2011
+ taking into account amendments up to Act No. 58 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -1022,13 +1022,23 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 ##### <a id="9C"></a>9C  Acting appointments
 
-                   The Minister may appoint an officer who is eligible for appointment to the office of Chief of the Defence Force, Vice Chief of the Defence Force or an office of service chief of an arm of the Defence Force to act in that office:
+             (1)  The Minister may appoint an officer who is eligible for appointment to the office of Chief of the Defence Force, Vice Chief of the Defence Force or an office of service chief of an arm of the Defence Force to act in that office:
 
                      (a)  during a vacancy in that office; or
 
-                     (b)  during any period, or during all periods, when the holder of that office is absent from duty or from Australia or is, for any other reason, unable to perform the functions of his office.
+                     (b)  during any period, or during all periods, when the holder of that office is absent from duty or from Australia or is, for any other reason, unable to perform the functions of his office;
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+but an officer appointed to act during a vacancy shall not continue so to act for more than 12 months.
+
+             (2)  Anything done by or in relation to an officer purporting to act under an appointment under subsection (1) is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen;
+
+                     (b)  there was a defect or irregularity in connection with the appointment;
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion for the person to act had not arisen or had ceased.
 
 ##### <a id="28"></a>28  Council of Defence
 
@@ -1254,6 +1264,8 @@ but does not include the internal waters of a State or self‑governing Territor
 
                     <a name="authorising-minist"></a>**_authorising Ministers_** means the Prime Minister, the Minister and the Attorney‑General.
 
+                    <a name="continent-shelf"></a>**_continental shelf_** has the same meaning as in the _Seas and Submerged Lands Act 1973_.
+
                     <a name="crimin-act"></a>**_criminal act_** means an act or omission that would, if done or omitted to be done in the Jervis Bay Territory, contravene the substantive criminal law of the Jervis Bay Territory.
 
                     <a name="danger-thing"></a>**_dangerous thing_** means a gun, knife, bomb, chemical weapon or any other thing that is reasonably likely to be used to cause serious damage to property or death or serious injury to persons.
@@ -1263,6 +1275,8 @@ but does not include the internal waters of a State or self‑governing Territor
                     <a name="design-critic-infrastructur"></a>**_designated critical infrastructure_** means infrastructure, or a part of infrastructure, that is declared under section 51CB.
 
                     <a name="domest-violenc"></a>**_domestic violence_** has the same meaning as in section 119 of the Constitution.
+
+                    <a name="exclus-econom-zone"></a>**_exclusive economic zone_** has the same meaning as in the _Seas and Submerged Lands Act 1973_.
 
                     <a name="gener-secur-area"></a>**_general security area_** means an area in relation to which a declaration is in force under section 51K.
 
@@ -1323,6 +1337,8 @@ but does not include:
                      (e)  dealing with other subjects declared by regulation to be within the ambit of the substantive criminal law of the Jervis Bay Territory; or
 
                       (f)  providing for the interpretation of laws of the kinds mentioned above.
+
+                    <a name="territori-sea"></a>**_territorial sea_** has the same meaning as in the _Seas and Submerged Lands Act 1973_.
 
                     <a name="threat-concern"></a>**_threat concerned_** means:
 
@@ -3148,7 +3164,7 @@ Note:          Section 46AA of the _Acts Interpretation Act 
 
              (9)  In this section, a reference to this Act does not include a reference to the regulations.
 
-##### <a id="58E"></a>58E  Delegation
+##### <a id="58E"></a>58E  Delegation
 
                    The regulations may make provision for and in relation to the delegation by the Minister of his power to make determinations with respect to such of the matters with respect to which determinations may be made as are specified in the regulations.
 
@@ -3442,9 +3458,25 @@ Note:          The Permanent Forces are made up of the Permane
 
                      (a)  during a vacancy in the office of that member; or
 
-                     (b)  during any period, or during all periods, when that member is absent from duty or from Australia or is, for any other reason (including the reason that, in the case of a member not being the President, he or she is acting as President), unable to perform the duties of his or her office.
+                     (b)  during any period, or during all periods, when that member is absent from duty or from Australia or is, for any other reason (including the reason that, in the case of a member not being the President, he or she is acting as President), unable to perform the duties of his or her office;
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.
+
+             (2)  While a person is acting as President or as a member of the Tribunal other than the President, the person has and may exercise all the powers, and shall perform all the functions, of the President or that member, as the case may be.
+
+             (3)  An appointment of a person under subsection (1) may be expressed to have effect only in such circumstances as are specified in the instrument of appointment.
+
+             (4)  The Minister may:
+
+                     (a)  determine the terms and conditions of appointment, including fees and allowances, of a person acting as a member of the Tribunal; and
+
+                     (b)  terminate such an appointment at any time.
+
+             (5)  Where a person is acting as a member of the Tribunal in accordance with paragraph (1)(b) and that office becomes vacant while that person is so acting, then, subject to subsection (3), that person may continue so to act until the Minister otherwise directs, the vacancy is filled or a period of 12 months from the date on which the vacancy occurred expires, whichever first happens.
+
+             (6)  The appointment of a person to act as a member of the Tribunal ceases to have effect if the person resigns his or her appointment by writing signed by him or her and delivered to the Minister.
+
+             (7)  The validity of anything done by a person purporting to act under this section shall not be called in question on the ground that the occasion for his or her appointment had not arisen, that there was a defect or irregularity in or in connection with his or her appointment, that the appointment had ceased to have effect or that the occasion for the person to act had not arisen or had ceased.
 
              (8)  A reference in section 58H, 58J, 58K, 58KA, 58KC or 58U to the President or to a member of the Tribunal shall be read as including a reference to a person acting as the President or as a member of the Tribunal, as the case may be.
 
@@ -3508,13 +3540,29 @@ Note:          For rules that apply to acting appointments, se
 
 ##### <a id="58X"></a>58X  Acting Defence Force Advocate
 
-                   The Minister may appoint a person to act as the Advocate:
+             (1)  The Minister may appoint a person to act as the Advocate:
 
                      (a)  during a vacancy in the office of the Advocate; or
 
-                     (b)  during any period, or during all periods, when the Advocate is absent from duty or from Australia or is, for any other reason, unable to perform the duties of his office.
+                     (b)  during any period, or during all periods, when the Advocate is absent from duty or from Australia or is, for any other reason, unable to perform the duties of his office;
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.
+
+             (2)  While a person is acting as the Advocate, he has and may exercise all the powers, and shall perform all the functions, of the Advocate.
+
+             (3)  An appointment of a person under subsection (1) may be expressed to have effect only in such circumstances as are specified in the instrument of appointment.
+
+             (4)  The Minister may:
+
+                     (a)  determine the terms and conditions of appointment, including remuneration and allowances, of a person acting as the Advocate; and
+
+                     (b)  terminate such an appointment at any time.
+
+             (5)  Where a person is acting as the Advocate in accordance with paragraph (1)(b) and the office becomes vacant while that person is so acting, then, subject to subsection (3), that person may continue so to act until the Minister otherwise directs, the vacancy is filled or a period of 12 months from the date on which the vacancy occurred expires, whichever first happens.
+
+             (6)  The appointment of a person to act as the Advocate ceases to have effect if he resigns his appointment by writing signed by him and delivered to the Minister.
+
+             (7)  The validity of anything done by a person purporting to act under this section shall not be called in question on the ground that the occasion for his appointment had not arisen, that there was a defect or irregularity in or in connection with his appointment, that the appointment had ceased to have effect or that the occasion for him to act had not arisen or had ceased.
 
 ##### <a id="58Y"></a>58Y  Fees and allowances
 
@@ -3626,7 +3674,7 @@ are liable, when called upon under section 60, to serve in the Defence Force.
 
              (2)  Subject to this Part, a determination under subsection (1) is final and binding for all purposes.
 
-##### <a id="61CD"></a>61CD  Parties to the hearing of an application
+##### <a id="61CD"></a>61CD  Parties to the hearing of an application
 
                    In this Part, the parties to the hearing of an application by a Conscientious Objection Tribunal are the applicant and the Commonwealth.
 
@@ -3708,11 +3756,7 @@ the following provisions have effect:
 
              (1)  The Minister may appoint a person to act as a full‑time member of a Conscientious Objection Tribunal during any period, or during all periods, when the member is absent from duty or from Australia or is, for any reason, unable to perform the duties of the member’s office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
              (2)  The Minister may appoint a person to act as a part‑time member of a Tribunal during any period, or during all periods, when the member is, for any reason, unable to perform the duties of the member’s office.
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
 
              (3)  Where a person has been appointed under subsection (1) or (2), the Minister may direct that the person is to continue to act in the appointment after the normal terminating event occurs.
 
@@ -3729,6 +3773,16 @@ Note:          For rules that apply to acting appointments, se
              (7)  A person continuing to act under a direction under subsection (3) must not continue to act for more than 12 months after the normal terminating event occurs.
 
              (8)  If a Tribunal includes a person acting or purporting to act under an appointment under this section, any decision of, or any direction given or any other act done by, the Tribunal is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
+
+             (9)  Anything done by or in relation to a person purporting to act under an appointment under this section is not invalid merely because:
 
                      (a)  the occasion for the appointment had not arisen; or
 
@@ -4772,7 +4826,7 @@ Production of identity card as soon as practicable after detaining a person
 
              (5)  A defence security official is not entitled to restrain and detain, or stop and detain, a person under this Part unless, as soon as practicable after restraining and detaining, or stopping and detaining, the person, the official produces his or her identity card for inspection by the person.
 
-##### <a id="72C"></a>72C  Persons to be informed of offence
+##### <a id="72C"></a>72C  Persons to be informed of offence
 
              (1)  A defence security official who, in accordance with this Part, exercises a power on the basis that the official reasonably believes that a person has committed, or may commit, a criminal offence must inform the person of the offence.
 
@@ -4810,7 +4864,7 @@ Production of identity card as soon as practicable after detaining a person
 
                    If a thing is left unattended on defence premises as a result of, or in connection with, the exercise of a power under this Part, a defence security official may move the thing to another place if the defence security official reasonably believes that it is necessary or desirable to do so.
 
-##### <a id="72G"></a>72G  Use of reasonable and necessary force, etc. by defence security officials
+##### <a id="72G"></a>72G  Use of reasonable and necessary force, etc. by defence security officials
 
 Use of force—general rule
 
@@ -5708,7 +5762,15 @@ Note:          The regulations may make provision in relation 
 
                      (b)  during any period, or during all periods, when the Inspector‑General ADF is absent from duty or from Australia, or is, for any other reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+             (2)  Anything done by or in relation to a person purporting to act under an appointment under this section is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
 
              (3)  The Minister must not appoint a person to act as the Inspector‑General ADF unless the person has knowledge of and experience in relation to military justice issues and an understanding of their relevance to the role of the Defence Force.
 
@@ -6226,7 +6288,7 @@ Appointment of acting Chair
 
                              (ii)  is, for any reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+Note:          See also section 33A of the _Acts Interpretation Act 1901_, which contains extra rules about acting appointments.
 
 Appointment of other acting Tribunal members
 
@@ -6242,13 +6304,25 @@ Appointment of other acting Tribunal members
 
                             (iii)  is, for any reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+Note:          See also section 33A of the _Acts Interpretation Act 1901_, which contains extra rules about acting appointments.
 
              (3)  In appointing a person to act as a Tribunal member, the Chair must have regard to the desirability of:
 
                      (a)  reflecting a diversity of expertise, experience and gender among the Tribunal members; and
 
                      (b)  the Tribunal members being independent of those who usually make reviewable decisions.
+
+Protection from invalidity
+
+             (4)  Anything done by or in relation to a person purporting to act under an appointment under this section is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
 
 Determining whether there is a vacancy in an office of Tribunal member
 
@@ -7041,7 +7115,7 @@ the paying officer shall, subject to subsection (13), in relation to each pay�
 
 ##### <a id="122"></a>122  Appointments etc. not invalid because of defect etc. in connection with appointment
 
-                   The appointment of an officer of the Australian Navy, the Australian Army or the Australian Air Force, the enlistment of a sailor, soldier or airman, and any extension of such an appointment or enlistment is not invalid because of a defect or irregularity in connection with the appointment, enlistment or extension, as the case may be.
+                   The appointment of an officer of the Australian Navy, the Australian Army or the Australian Air Force, the enlistment of a sailor, soldier or airman, and any extension of such an appointment or enlistment is not invalid because of a defect or irregularity in connection with the appointment, enlistment or extension, as the case may be.
 
 ##### <a id="122AA"></a>122AA  Taxation consequences of disposals of assets to defence companies
 
@@ -9719,7 +9793,7 @@ Schedule 3: 2 Aug 2010</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 487–509) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 487–509) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 4 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
@@ -9737,23 +9811,6 @@ Schedule 3: 2 Aug 2010</div>
   </td>
   <td>
     <div>Schedule 1 (item 35): <i>(zc)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>183, 2011</div>
-  </td>
-  <td>
-    <div>6 Dec 2011</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 17–35): \[ <i>see</i>Note 4]</div>
   </td>
   <td>
     <div>—</div>
@@ -10666,15 +10723,7 @@ _(zc)_   Subsection 2(1) (item 2) of the _Superannuation Legislation (Conseq
     <div></div>
   </td>
   <td>
-    <div>am. No. 164, 1984; No. 104, 1988; No. 43, 1995; No. 1, 1997; No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 9C</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
+    <div>am. No. 164, 1984; No. 104, 1988; No. 43, 1995; No. 1, 1997</div>
   </td>
 </tr>
 <tr>
@@ -12994,7 +13043,7 @@ _(zc)_   Subsection 2(1) (item 2) of the _Superannuation Legislation (Conseq
     <div></div>
   </td>
   <td>
-    <div>am. No. 3, 2006; No. 46, 2011</div>
+    <div>am. No. 3, 2006</div>
   </td>
 </tr>
 <tr>
@@ -14166,15 +14215,7 @@ Div. 4 of Part IIIAAA</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 109, 1993; No. 127, 2002; No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 58P(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
+    <div>am. No. 109, 1993; No. 127, 2002</div>
   </td>
 </tr>
 <tr>
@@ -14227,34 +14268,10 @@ Div. 4 of Part IIIAAA</div>
 </tr>
 <tr>
   <td>
-    <div>Ss. 58S–58W</div>
+    <div>Ss. 58S–58X</div>
   </td>
   <td>
     <div>ad. No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 58X</div>
-  </td>
-  <td>
-    <div>ad. No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 58X</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
   </td>
 </tr>
 <tr>
@@ -14523,34 +14540,10 @@ Div. 4 of Part IIIAAA</div>
 </tr>
 <tr>
   <td>
-    <div>Ss. 61CF–61CN</div>
+    <div>Ss. 61CF–61CO</div>
   </td>
   <td>
     <div>ad. No. 91, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61CO</div>
-  </td>
-  <td>
-    <div>ad. No. 91, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Notes to s. 61CO(1), (2)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
   </td>
 </tr>
 <tr>
@@ -16444,39 +16437,7 @@ Part VIIIA</div>
 </tr>
 <tr>
   <td>
-    <div>Ss. 110E–110M</div>
-  </td>
-  <td>
-    <div>ad. No. 142, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 110N</div>
-  </td>
-  <td>
-    <div>ad. No. 142, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 110N(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 110O, 110P</div>
+    <div>Ss. 110E–110P</div>
   </td>
   <td>
     <div>ad. No. 142, 2005</div>
@@ -16636,39 +16597,7 @@ Part VIIIA</div>
 </tr>
 <tr>
   <td>
-    <div>Ss. 110YA, 110YB</div>
-  </td>
-  <td>
-    <div>ad. No. 95, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 110YC</div>
-  </td>
-  <td>
-    <div>ad. No. 95, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Notes to s. 110YC(1), (2)</div>
-  </td>
-  <td>
-    <div>rs. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 110YD–110YI</div>
+    <div>Ss. 110YA–110YI</div>
   </td>
   <td>
     <div>ad. No. 95, 2010</div>
@@ -18844,135 +18773,117 @@ Section 63 and subsection 124(1)—Subsection 45(3) of the _Naval Defence Act 
 
 ### Note 4
 
-_Defence Legislation Amendment Act 2011 (No. 183, 2011)_
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
 
-The following amendments commence on 6 June 2012 unless proclaimed earlier:
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
 
-## Schedule 1
+## Schedule 2
 
-## 17  Paragraphs 4(2)(a) to (h)
+## 487  Subsection 9C(1)
 
-Repeal the paragraphs, substitute:
+Omit “(1)”.
 
-                     (a)  a reference to the Naval Forces or the Navy is to be read as a reference to the Australian Navy; and
+## 488  Paragraph 9C(1)(b)
 
-                     (b)  a reference to the Military Forces or the Army is to be read as a reference to the Australian Army; and
+Omit “office;”, substitute “office.”.
 
-                     (c)  a reference to the Air Force is to be read as a reference to the Australian Air Force; and
+## 489  Subsection 9C(1)
 
-                     (d)  a reference to the Chief of the Defence Force is to be read as a reference to the Chief of the Defence Force appointed under section 9; and
+Omit “but an officer appointed to act during a vacancy shall not continue so to act for more than 12 months.”.
 
-                     (e)  a reference to the Vice Chief of the Defence Force is to be read as a reference to the Vice Chief of the Defence Force appointed under section 9AA; and
-
-                      (f)  a reference to the Chief of Navy is to be read as a reference to the Chief of Navy appointed under section 9; and
-
-                     (g)  a reference to the Chief of Army is to be read as a reference to the Chief of Army appointed under section 9; and
-
-                     (h)  a reference to the Chief of Air Force is to be read as a reference to the Chief of Air Force appointed under section 9; and
-
-                      (i)  a reference to a service chief is to be read as a reference to the Chief of Navy, the Chief of Army or the Chief of Air Force, as the case requires.
-
-## 18  Before subsection 62(2)
-
-Insert:
-
-Constitution of the Australian Army Cadets
-
-## 19  Before subsection 62(3)
-
-Insert:
-
-Relationship to the Army
-
-## 20  Before subsection 62(5)
-
-Insert:
-
-Age requirements for cadets
-
-## 21  Subsections 62(5) and (6)
-
-After “he”, insert “or she”.
-
-## 22  Before subsection 62(7)
-
-Insert:
-
-Regulations about the Australian Army Cadets
-
-## 23  Before subsection 62(9)
-
-Insert:
-
-Administration of the Australian Army Cadets
-
-## 24  Subsection 62(9)
-
-Omit “and to the directions of the Minister, the Chief of Army shall”, substitute “, to any directions of the Minister and to any directions of the Chief of the Defence Force, the Chief of Army is to”.
-
-## 25  At the end of section 62
+## 490  At the end of subsection 9C(1)
 
 Add:
 
-           (10)  A direction of the Chief of the Defence Force under subsection (9) is subject to, and must be in accordance with, any directions of the Minister.
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
 
-## 26  Before subsection 120A(2)
+## 491  Subsection 9C(2)
 
-Insert:
+Repeal the subsection.
 
-Delegations by the Governor‑General
+## 492  Subsection 51(1) (definition of _continental shelf_)
 
-## 27  Before subsection 120A(3A)
+Repeal the definition.
 
-Insert:
+## 493  Subsection 51(1) (definition of _exclusive economic zone_)
 
-Delegations of jointly held powers by the Secretary and Chief of the Defence Force
+Repeal the definition.
 
-## 28  After subsection 120A(3D)
+## 494  Subsection 51(1) (definition of _territorial sea_)
 
-Insert:
+Repeal the definition.
 
-Delegations by the Chief of the Defence Force
+## 495  Paragraph 58P(1)(b)
 
-       (3DA)  The Chief of the Defence Force may, by instrument in writing, delegate to the Vice Chief of the Defence Force, his or her power under subsection 62(9).
+Omit “office;”, substitute “office.”.
 
-## 29  Before subsection 120A(4)
+## 496  Subsection 58P(1)
 
-Insert:
+Omit “but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.”.
 
-Delegations by the Chief of Army
+## 497  At the end of subsection 58P(1)
 
-## 30  Subsection 120A(4)
+Add:
 
-After “his”, insert “or her”.
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
 
-## 31  Before subsection 120A(4A)
+## 498  Subsections 58P(2) to (7)
 
-Insert:
+Repeal the subsections.
 
-Delegations by the Chief of Navy
+## 499  Subsection 58X(1)
 
-## 32  Subsection 120A(4A)
+Omit “(1)”.
 
-After “his”, insert “or her”.
+## 500  Paragraph 58X(1)(b)
 
-## 33  Before subsection 120A(4B)
+Omit “office;”, substitute “office.”.
 
-Insert:
+## 501  Subsection 58X(1)
 
-Delegations by the Chief of Air Force
+Omit “but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.”.
 
-## 34  Subsection 120A(4B)
+## 502  At the end of subsection 58X(1)
 
-After “his”, insert “or her”.
+Add:
 
-## 35  Before subsection 120A(5)
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
 
-Insert:
+## 503  Subsections 58X(2) to (7)
 
-General provisions about delegations
+Repeal the subsections.
 
-As at 31 January 2012 the amendments are not incorporated in this compilation.
+## 504  At the end of subsections 61CO(1) and (2)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 505  Subsection 61CO(9)
+
+Repeal the subsection.
+
+## 506  At the end of subsection 110N(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 507  Subsection 110N(2)
+
+Repeal the subsection.
+
+## 508  Subsections 110YC(1) and (2) (note)
+
+Repeal the note, substitute:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 509  Subsection 110YC(4)
+
+Repeal the subsection.
+
+As at 8 November 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -19753,6 +19664,8 @@ The amendments made by this Schedule apply in relation to:
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
