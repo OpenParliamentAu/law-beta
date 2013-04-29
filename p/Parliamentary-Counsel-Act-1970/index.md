@@ -1,133 +1,161 @@
 **<b>
 
-### <center><name>PARLIAMENTARY COUNSEL ACT 1970 - Reprinted as at 31 July 1990 (HISTACT CHAP 673 #DATE 31:07:1990) </name></center>
-</b>** *1*The Parliamentary Counsel Act 1970 as shown in this reprint comprises Act No. 8, 1970 amended as indicated in the Tables below.<lf>                              Table of Acts<lf> Act<lf> Number         Date          Date of                            Application, and year        of Assent    commencement                       saving or<lf>                                                                 transitional<lf>                                                                 provisions<lf> Parliamentary Counsel Act 1970<lf> 8, 1970        15 May 1970   12 June 1970<lf> Salaries Act 1971 (a)<lf> 22, 1971       4 May 1971    14 Jan 1971                        -<lf> Statute Law Revision Act 1973<lf> 216, 1973      19 Dec 1973   31 Dec 1973                        Ss. 9 (1)<lf>                                                                 and 10<lf> Statute Law Revision Act 1981<lf> 61, 1981       12 June       S. 115: Royal Assent (b)           -<lf>                1981<lf> Statute Law (Miscellaneous Provisions) Act (No. 1) 1983<lf> 39, 1983       20 June       S. 3: 18 July 1983 (c)             -<lf>                1983<lf> Public Service Reform Act 1984<lf> 63, 1984       25 June       S. 151 (1): 1 July 1984 (see       S. 151 (9)<lf>                1984          Gazette 1984, No. S245) (d)<lf> Statute Law (Miscellaneous Provisions ) Act 1988<lf> 38, 1988       3 June 1988   S. 3: Royal Assent (e)             S. 5 (1),<lf>                                                                 (5)<lf> ______________________________________________________________________________ __ (a)The Salaries Act 1971 was repealed by section 7 of the Statute Law<lf> Revision Act 1973\. That section provides that the repeal does not affect the operation of any amendment made by the repealed Act or any provision made by it for the citation of an Act as so amended.<lf>    (b)The Parliamentary Counsel Act 1970 was amended by section 115 only of the<lf> Statute Law Revision Act 1981, subsection 2 (1) of which provides as follows:<lf>   '(1) Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.'<lf>    (c)The Parliamentary Counsel Act 1970 was amended by section 3 only of the<lf> Statute Law (Miscellaneous Provisions) Act (No. 1) 1983 , subsection 2 (1) of which provides as follows:<lf>   '(1) Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.'<lf>    (d)The Parliamentary Counsel Act 1970 was amended by subsection 151 (1) of<lf> the Public Service Reform Act 1984, subsection 2 (4) of which provides as follows:<lf>   '(4) The remaining provisions of this Act shall come into operation on such day as is, or on such respective days as are, fixed by Proclamation.'<lf>    (e)The Parliamentary Counsel Act 1970 was amended by section 3 only of the<lf> Statute Law (Miscellaneous Provisions) Act 1988, subsection 2 (1) of which provides as follows:<lf>   '(1) Subject to this section, this Act commences on the day on which it receives the Royal Assent.'<lf>                               Table of Amendments<lf> ad.=added or inserted am.=amended rep.=repealed rs.=repealed and substituted ______________________________________________________________________________ __ Provision affected<lf>           How affected<lf> S. 2<lf>          am. No. 61, 1981; No. 38, 1988<lf> S. 3<lf>          am. No. 216, 1973; No. 39, 1983; No. 38, 1988<lf> S. 4<lf>          am. No. 216, 1973; No. 61, 1981; No. 38, 1988<lf> S. 5<lf>          am. No. 61, 1981; No. 38, 1988<lf> S. 6<lf>          am. No. 22, 1971<lf>          rs. No. 61, 1981<lf> S. 7<lf>          am. No. 38, 1988<lf> S. 8<lf>          rs. No. 38, 1988<lf> S. 9<lf>          am. No. 38, 1988<lf> S. 10<lf>          am. No. 61, 1981; No. 38, 1988<lf> S. 11<lf>          am. No. 216, 1973<lf>          rep. No. 61, 1981<lf> S. 12<lf>          rep. No. 61, 1981<lf> S. 13<lf>          rep. No. 216, 1973<lf> S. 14<lf>          am. No. 61, 1981; No. 38, 1988<lf> S. 15<lf>          rs. No. 61, 1981<lf>          am. No. 38, 1988<lf> S. 16<lf>          am. No. 61, 1981; No. 63, 1984; No. 38, 1988<lf> S. 16A<lf>          ad. No. 39, 1983<lf>          am. No. 38, 1988<lf> </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf>
+### <center><name>PARLIAMENTARY COUNSEL ACT 1970 - Reprinted as at 19 December 1973 (HISTACT2 CHAP 238 #DATE 19:12:1973) </name></center>
+</b>** 
 **<b>
 
-### <name>PARLIAMENTARY COUNSEL ACT 1970 - TABLE OF PROVISIONS </name>
+### <name>PARLIAMENTARY COUNSEL ACT 1970-1973 - TABLE OF PROVISIONS </name>
 </b>** 
 
 ## TABLE
-<tables> <tt>                              TABLE OF PROVISIONS<lf> 
-
-Section<lf> <p>     1\. Short title<lf> <p>     2\. Office of Parliamentary Counsel<lf> <p>     3\. Functions of the Office of Parliamentary Counsel<lf> <p>     4\. Appointment of First and Second Parliamentary Counsel<lf> <p>     5\. Tenure of office<lf> <p>     6\. Remuneration and allowances<lf> <p>     7\. Leave of absence<lf> <p>     8\. Resignation<lf> <p>     9\. First or Second Parliamentary Counsel not to undertake other work<lf> <p>    10\. Termination of appointment<lf> <p>    14\. Oath or affirmation of allegiance and office<lf> <p>    15\. Acting appointments<lf> <p>    16\. Staff<lf> <p>   16A. Annual report<lf> <p>    17\. Regulations<lf>                              THE SCHEDULE<lf>                          OATH AND AFFIRMATION<lf> </lf></lf></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf>
-</lf></tt></tables>
+<tables> <tt><lf>                      PARLIAMENTARY  COUNSEL  ACT  1970-1973<lf> <lf>                              TABLE  OF  PROVISIONS<lf> Section<lf>   1\.        Short title<lf>   2\.        Office of Parliamentary Counsel<lf>   3\.        Functions of the Office of Parliamentary Counsel<lf>   4\.        Appointment of First and Second Parliamentary Counsel<lf>   5\.        Tenure of office<lf>   6\.        Salary and allowances<lf>   7\.        Leave of absence<lf>   8\.        Resignation<lf>   9\.        First or Second Parliamentary Counsel not to undertake other work<lf>   10\.       Termination of appointment<lf>   11\.       Rights of public servant appointed as First or Second Parliamentary <lf>             Counsel<lf>   12\.       Application of Superannuation Act<lf>   13\.       (Repealed)<lf>   14\.       Oath and affirmation of allegiance and office<lf>   15\.       Acting appointments<lf>   16\.       Staff<lf>   17\.       Regulations<lf> <lf>                                  THE  SCHEDULE<lf> <lf>                               Oath and Affirmation<lf> <lf>                                -----------------<lf> </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></tt></tables>
 **<b>
 
-### <name>PARLIAMENTARY COUNSEL ACT 1970 - LONG TITLE </name>
+### <name>PARLIAMENTARY COUNSEL ACT 1970-1973 - SECT. 1\. Short title. </name>
 </b>** 
 
 ## SECT
-<sect> An Act to establish an Office of Parliamentary Counsel, and for purposes<lf>                        connected therewith<lf> </lf></lf></sect>
+<sect> connected therewith.<lf> Short title amended; No. 32, 1918, s. 2.<lf>   1\. This Act may be cited as the Parliamentary Counsel Act 1970-1973.*<lf> </lf></lf></lf></sect>
 **<b>
 
-### <name>PARLIAMENTARY COUNSEL ACT 1970 - SECT 1 Short title </name>
+### <name>PARLIAMENTARY COUNSEL ACT 1970-1973 - SECT. 2\. Office of Parliamentary Counsel. </name>
 </b>** 
 
 ## SECT
-<sect>   1\. This Act may be cited as the Parliamentary Counsel Act 1970.*1* SEE NOTES TO FIRST ARTICLE OF THIS CHAPTER . </sect>
+<sect>   2\. (1) There is hereby established an Office to be known as the Office of Parliamentary Counsel.<lf> 
+
+  (2) There shall be a First Parliamentary Counsel and two Second Parliamentary Counsel.<lf> <p>  (3) The Office of Parliamentary Counsel shall consist of the First Parliamentary Counsel, the Second Parliamentary Counsel and the staff referred to in section 16 of this Act.<lf> <p>  (4) The First Parliamentary Counsel shall, under the Attorney-General, control the Office of Parliamentary Counsel.<lf> </lf></p></lf></p></lf>
+</lf></sect>
 **<b>
 
-### <name>PARLIAMENTARY COUNSEL ACT 1970 - SECT 2 Office of Parliamentary Counsel </name>
+### <name>PARLIAMENTARY COUNSEL ACT 1970-1973 - SECT. 3\. Functions of the Office of Parliamentary Counsel. </name>
 </b>** 
 
 ## SECT
-<sect>   2.(1) There is hereby established an Office to be known as the Office of Parliamentary Counsel.<lf>   (2) There shall be a First Parliamentary Counsel and 2 Second Parliamentary Counsel.<lf>   (3) The Office of Parliamentary Counsel shall consist of the First Parliamentary Counsel, the Second Parliamentary Counsel and the staff referred to in section 16.<lf>   (4) The First Parliamentary Counsel shall, under the Minister, control the Office of Parliamentary Counsel. </lf></lf></lf></sect>
+<sect> Amended by No. 216, 1973, s. 3.<lf>   3\. The functions of the Office of Parliamentary Counsel are-<lf> <lf>   (a)  the drafting of proposed laws for introduction into either House of the Parliament;<lf> <lf>   (b)  the drafting of amendments of proposed laws that are being considered by either House of the Parliament;<lf> <lf>   (c)  the drafting of Ordinances, regulations, rules, proclamations and other legislative instruments;<lf> <lf>   (d)  the drafting of other instruments, being instruments that are to have or be given the force of law or are otherwise related to legislation;<lf> <lf>   (e)  the making of arrangements for the printing of laws of the Commonwealth and Territories including the reprinting of such laws with amendments; and<lf> <lf>   (f)  functions incidental to any of the preceding functions.<lf> </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></sect>
 **<b>
 
-### <name>PARLIAMENTARY COUNSEL ACT 1970 - SECT 3 Functions of the Office of Parliamentary Counsel </name>
+### <name>PARLIAMENTARY COUNSEL ACT 1970-1973 - SECT. 4\. Appointment of First and Second Parliamentary Counsel. </name>
 </b>** 
 
 ## SECT
-<sect>   3\. The functions of the Office of Parliamentary Counsel are:<lf>    (a) the drafting of proposed laws for introduction into either House of the<lf> Parliament;<lf>    (b) the drafting of amendments of proposed laws that are being considered by<lf> either House of the Parliament; and<lf>    (c) functions incidental to the functions referred to in paragraphs (a)<lf> and (b). </lf></lf></lf></lf></lf></lf></sect>
+<sect>   4\. (1) The First Parliamentary Counsel and the Second Parliamentary Counsel shall be appointed by the Governor-General.<lf> Amended by No. 216, 1973, s. 3\. 
+
+  (2) A person is not eligible for appointment as the First Parliamentary Counsel or as a Second Parliamentary Counsel unless he is a barrister, a solicitor, a barrister and solicitor or a legal practitioner of the High Court or of the Supreme Court of a State or Territory of not less than five years' standing.<lf> </lf>
+</lf></sect>
 **<b>
 
-### <name>PARLIAMENTARY COUNSEL ACT 1970 - SECT 4 Appointment of First and Second Parliamentary Counsel </name>
+### <name>PARLIAMENTARY COUNSEL ACT 1970-1973 - SECT. 5\. Tenure of office. </name>
 </b>** 
 
 ## SECT
-<sect>   4.(1) The First Parliamentary Counsel and the Second Parliamentary Counsel shall be appointed by the Governor-General.<lf>   (2) A person is not eligible for appointment as the First Parliamentary Counsel or as a Second Parliamentary Counsel unless the person is a barrister, a solicitor, a barrister and solicitor or a legal practitioner of the High Court or of the Supreme Court of a State or Territory of not less than 5 years' standing. </lf></sect>
+<sect>   5\. (1) Subject to this Act, the First Parliamentary Counsel and the Second Parliamentary Counsel hold office for such periods, not exceeding seven years, as are respectively specified in the instruments of their appointments and on such terms and conditions as the Governor-General determines, but are eligible for re-appointment.<lf> 
+
+  (2) A person who has attained the age of sixty-five years shall not be appointed or re-appointed as the First Parliamentary Counsel or as a Second Parliamentary Counsel, and a person shall not be appointed or re-appointed as the First Parliamentary Counsel or as a Second Parliamentary Counsel for a period that extends beyond the date on which he will attain the age of sixty-five years.<lf> </lf>
+</lf></sect>
 **<b>
 
-### <name>PARLIAMENTARY COUNSEL ACT 1970 - SECT 5 Tenure of office </name>
+### <name>PARLIAMENTARY COUNSEL ACT 1970-1973 - SECT. 6\. Salary and allowances. </name>
 </b>** 
 
 ## SECT
-<sect>   5.(1) Subject to this Act, the First Parliamentary Counsel and the Second Parliamentary Counsel hold office for such periods, not exceeding 7 years, as are respectively specified in the instruments of their appointments and on such terms and conditions as the Governor-General determines, but are eligible for re-appointment.<lf>   (2) A person who has attained the age of 65 years shall not be appointed or re-appointed as the First Parliamentary Counsel or as a Second Parliamentary Counsel, and a person shall not be appointed or re-appointed as the First Parliamentary Counsel or as a Second Parliamentary Counsel for a period that extends beyond the date on which the person will attain the age of 65 years. </lf></sect>
+<sect> Sub-section (1) substituted by No. 22, 1971, s. 3.<lf>   6\. (1) The First Parliamentary Counsel shall be paid such salary, and such annual allowance (if any), as the Parliament provides.*<lf> Inserted by No. 22, 1971, s. 3\. 
+
+  (1A) Each Second Parliamentary Counsel shall be paid salary at the rate of Nineteen thousand six hundred and ten dollars a year and such annual allowance (if any) as the Parliament provides.*<lf> <p>  (2) The First Parliamentary Counsel and the Second Parliamentary Counsel shall be paid such other allowances as are prescribed.<lf> </lf></p></lf>
+</lf></lf></sect>
 **<b>
 
-### <name>PARLIAMENTARY COUNSEL ACT 1970 - SECT 6 Remuneration and allowances </name>
+### <name>PARLIAMENTARY COUNSEL ACT 1970-1973 - SECT. 7\. Leave of absence. </name>
 </b>** 
 
 ## SECT
-<sect>   6.(1) The First Parliamentary Counsel and the Second Parliamentary Counsel shall be paid such remuneration as is determined by the Remuneration Tribunal.<lf>   (2) The First Parliamentary Counsel and the Second Parliamentary Counsel shall be paid such allowances as are prescribed.<lf>   (3) This section has effect subject to the Remuneration Tribunals Act 1973\. </lf></lf></sect>
+<sect>   7\. The Attorney-General may grant leave of absence to the First Parliamentary Counsel or to a Second Parliamentary Counsel upon such terms and conditions as to remuneration or otherwise as the Attorney-General determines.<lf> </lf></sect>
 **<b>
 
-### <name>PARLIAMENTARY COUNSEL ACT 1970 - SECT 7 Leave of absence </name>
+### <name>PARLIAMENTARY COUNSEL ACT 1970-1973 - SECT. 8\. Resignation. </name>
 </b>** 
 
 ## SECT
-<sect>   7\. The Minister may grant leave of absence to the First Parliamentary Counsel or to a Second Parliamentary Counsel upon such terms and conditions as to remuneration or otherwise as the Minister determines. </sect>
+<sect>   8\. The First Parliamentary Counsel or a Second Parliamentary Counsel may resign his office by writing under his hand delivered to the Governor-General but the resignation does not have effect until accepted by the Governor-General. <lf> </lf></sect>
 **<b>
 
-### <name>PARLIAMENTARY COUNSEL ACT 1970 - SECT 8 Resignation </name>
+### <name>PARLIAMENTARY COUNSEL ACT 1970-1973 - SECT. 9\. First or Second Parliamentary Counsel not to undertake other work. </name>
 </b>** 
 
 ## SECT
-<sect>   8\. The First Parliamentary Counsel or a Second Parliamentary Counsel may resign by writing signed and delivered to the Governor-General. </sect>
+<sect>   9\. The First Parliamentary Counsel or a Second Parliamentary Counsel shall not engage in practice as a barrister or solicitor or engage in paid employment outside the duties of his office.<lf> </lf></sect>
 **<b>
 
-### <name>PARLIAMENTARY COUNSEL ACT 1970 - SECT 9 First or Second Parliamentary Counsel not to undertake other work </name>
+### <name>PARLIAMENTARY COUNSEL ACT 1970-1973 - SECT. 10\. Termination of appointment. </name>
 </b>** 
 
 ## SECT
-<sect>   9\. The First Parliamentary Counsel or a Second Parliamentary Counsel shall not engage in practice as a barrister or solicitor or engage in paid employment outside the duties of his or her office. </sect>
+<sect>   10\. (1) The Governor-General may terminate the appointment of the First Parliamentary Counsel or of a Second Parliamentary Counsel for physical or mental incapacity.<lf> 
+
+  (2) The Governor-General shall terminate the appointment of the First Parliamentary Counsel or of a Second Parliamentary Counsel if-<lf> <lf>   (a)  he absents himself from duty for fourteen consecutive days, or for twenty-eight days in any twelve months, except on leave granted by the Attorney-General;<lf> <lf>   (b)  he is guilty of misbehaviour; or<lf> <lf>   (c)  he becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with his creditors or makes an assignment of his remuneration for their benefit.<lf> </lf></lf></lf></lf></lf></lf></lf>
+</lf></sect>
 **<b>
 
-### <name>PARLIAMENTARY COUNSEL ACT 1970 - SECT 10 Termination of appointment </name>
+### <name>PARLIAMENTARY COUNSEL ACT 1970-1973 - SECT. 11\. Rights of public servant appointed as First or Second Parliamentary Counsel. </name>
 </b>** 
 
 ## SECT
-<sect>   10.(1) The Governor-General may terminate the appointment of the First Parliamentary Counsel or of a Second Parliamentary Counsel for physical or mental incapacity.<lf>   (2) The Governor-General shall terminate the appointment of the First Parliamentary Counsel or of a Second Parliamentary Counsel if:<lf>    (a) he or she absents himself from duty for 14 consecutive days, or for 28<lf> days in any 12 months, except on leave granted by the Minister;<lf>    (b) he or she is guilty of misbehaviour; or<lf>    (c) he or she becomes bankrupt, applies to take the benefit of any law for<lf> the relief of bankrupt or insolvent debtors, compounds with his or her creditors or makes an assignment of his or her remuneration for their benefit. </lf></lf></lf></lf></lf></lf></sect>
+<sect> Sub-section (1) amended by No. 216, 1973, s. 3.<lf>   11\. (1) If a person appointed to the office of First Parliamentary Counsel or Second Parliamentary Counsel was, immediately before his appointment, an officer of the Public Service of the Commonwealth-<lf> <lf>   (a)  he retains his existing and accruing rights; and<lf> <lf>   (b)  for the purpose of determining those rights, his service as First Parliamentary Counsel or Second Parliamentary Counsel shall be taken into account as if it were service in the Public Service of the Commonwealth.<lf> Amended by No. 216, 1973, s. 3\. 
+
+  (2) If a person appointed to the office of First Parliamentary Counsel was, immediately before his appointment, a Second Parliamentary Counsel and was, immediately before his appointment as a Second Parliamentary Counsel, an officer of the Public Service of the Commonwealth-<lf> <lf>   (a)  he retains his existing and accruing rights; and<lf> <lf>   (b)  for the purpose of determining those rights, his service as the First Parliamentary Counsel and as a Second Parliamentary Counsel shall be taken into account as if it were service in the Public Service of the Commonwealth.<lf> </lf></lf></lf></lf></lf>
+</lf></lf></lf></lf></lf></lf></sect>
 **<b>
 
-### <name>PARLIAMENTARY COUNSEL ACT 1970 - SECT 14 Oath or affirmation of allegiance and office </name>
+### <name>PARLIAMENTARY COUNSEL ACT 1970-1973 - SECT. 12\. Application of Superannuation Act. </name>
 </b>** 
 
 ## SECT
-<sect>   14.(1) The First Parliamentary Counsel or a Second Parliamentary Counsel shall not perform the duties of the office unless he or she has made an oath or affirmation in relation to that office in accordance with the form of oath or affirmation in the Schedule.<lf>   (2) The oath or affirmation shall be made before a justice of the peace or a commissioner for taking affidavits. </lf></sect>
+<sect>   12\. For the purposes of sub-sections (3A) and (4) of section 4 of the Superannuation Act 1922-1969, the First Parliamentary Counsel and the Second Parliamentary Counsel shall each be deemed to be required, by the terms of his appointment, to give the whole of his time to the duties of his office.<lf> Section 13 repealed by No. 216, 1973, s. 3.<lf>                          *   *   *   *   *   *   *   *<lf> </lf></lf></lf></sect>
 **<b>
 
-### <name>PARLIAMENTARY COUNSEL ACT 1970 - SECT 15 Acting appointments </name>
+### <name>PARLIAMENTARY COUNSEL ACT 1970-1973 - SECT. 14\. Oath or affirmation of allegiance and office. </name>
 </b>** 
 
 ## SECT
-<sect>   15.(1) The Minister may appoint a person who is eligible for appointment as the First Parliamentary Counsel to act in the office of First Parliamentary Counsel:<lf>    (a) during a vacancy in that office; or<lf>    (b) during any period, or during all periods, when the person holding that<lf> office is absent from duty or from Australia or is, for any other reason, unable to perform the functions of that office.<lf>   (2) The Minister may appoint a person who is eligible for appointment as a Second Parliamentary Counsel to act in an office of Second Parliamentary Counsel:<lf>    (a) during a vacancy in that office; or<lf>    (b) during any period, or during all periods, when the person holding an<lf> office of Second Parliamentary Counsel is absent from duty or from Australia, is acting in the office of First Parliamentary Counsel or is, for any other reason, unable to perform the functions of his or her office of Second Parliamentary Counsel.<lf>   (8) The validity of anything done (whether before or after the commencement of this section) by a person who purported to act in the office of First Parliamentary Counsel shall not be called in question on the ground that the occasion for the appointment had not arisen, that there was a defect or irregularity in or in connection with the appointment, that the appointment had ceased to have effect or that the occasion to act had not arisen or had ceased. </lf></lf></lf></lf></lf></lf></lf></lf></sect>
+<sect>   14\. (1) The First Parliamentary Counsel or a Second Parliamentary Counsel shall not perform the duties of his office unless he has made an oath or affirmation in relation to that office in accordance with the form of oath or affirmation in the Schedule to this Act.<lf> 
+
+  (2) The oath or affirmation shall be made before a justice of the peace or a commissioner for taking affidavits.<lf> </lf>
+</lf></sect>
 **<b>
 
-### <name>PARLIAMENTARY COUNSEL ACT 1970 - SECT 16 Staff </name>
+### <name>PARLIAMENTARY COUNSEL ACT 1970-1973 - SECT. 15\. Acting appointments. </name>
 </b>** 
 
 ## SECT
-<sect>   16.(1) The staff required for the purposes of this Act shall be persons appointed or employed under the Public Service Act 1922.<lf>   (2) The First Parliamentary Counsel has all the powers of, or exercisable by, a Secretary under the Public Service Act 1922 so far as those powers relate to the branch of the Australian Public Service comprising the staff referred to in subsection (1) as if that branch were a separate Department of the Australian Public Service.<lf>   (3) For the purposes of section 26 of the Public Service Act 1922, the First Parliamentary Counsel shall be deemed to be a Secretary. </lf></lf></sect>
+<sect>   15\. (1) Where the person holding the office of First Parliamentary Counsel is, or is expected to be, absent from duty or there is a vacancy in that office, the Governor-General may appoint a person who is eligible for appointment to that office to act in that office during the absence or until the filling of the vacancy, as the case may be.<lf> 
+
+  (2) Where a person holding an office of Second Parliamentary Counsel is, or is expected to be, absent from duty or is acting in the office of First Parliamentary Counsel, or there is a vacancy in an office of Second Parliamentary Counsel, the Governor-General may appoint a person who is eligible for appointment as a Second Parliamentary Counsel to act in that office during the absence, while the person who holds that office continues to act in the office of First Parliamentary Counsel or until the filling of the vacancy, as the case may be.<lf> <p>  (3) Where a person has been appointed to act in the office of First Parliamentary Counsel or in an office of Second Parliamentary Counsel otherwise than during a vacancy in that office and the person who holds that office ceases to hold office during the period of the appointment, the appointment shall be deemed to continue until it is terminated by the Governor-General.<lf> <p>  (4) The Governor-General may at any time terminate an appointment under this section.<lf> <p>  (5) Sections 7, 8, 13 and 14 of this Act apply in relation to a person appointed under this section to act in the office of First Parliamentary Counsel or in an office of Second Parliamentary Counsel in like manner as they apply in relation to the First Parliamentary Counsel or a Second Parliamentary Counsel, as the case may be.<lf> <p>  (6) Subject to this section, a person appointed under this section to act in the office of First Parliamentary Counsel or in an office of Second Parliamentary Counsel holds office on such terms and conditions as the Governor-General determines.<lf> </lf></p></lf></p></lf></p></lf></p></lf>
+</lf></sect>
 **<b>
 
-### <name>PARLIAMENTARY COUNSEL ACT 1970 - SECT 16A Annual report </name>
+### <name>PARLIAMENTARY COUNSEL ACT 1970-1973 - SECT. 16\. Staff. </name>
 </b>** 
 
 ## SECT
-<sect>   16A.(1) The First Parliamentary Counsel shall, as soon as practicable after 30 June in each year, prepare and furnish to the Minister a report of the operations of the Office of Parliamentary Counsel during the year that ended on that 30 June.<lf>   (2) The Minister shall cause a copy of a report furnished under subsection (1) to be laid before each House of the Parliament within 15 sitting days of that House after the day on which the Minister receives the report. </lf></sect>
+<sect>   16\. (1) The staff required for the purposes of this Act shall be persons appointed or employed under the Public Service Act 1922-1968.<lf> 
+
+  (2) The First Parliamentary Counsel has all the powers of, or exercisable by, a Permanent Head under the Public Service Act 1922-1968 so far as those powers relate to the branch of the Public Service of the Commonwealth comprising the staff referred to in the last preceding sub-section as if that branch were a separate Department of the Public Service of the Commonwealth.<lf> <p>  (3) For the purposes of sub-sections (5) and (6) of section 25 of the Public Service Act 1922-1968, the First Parliamentary Counsel shall be deemed to be a Permanent Head.<lf> </lf></p></lf>
+</lf></sect>
 **<b>
 
-### <name>PARLIAMENTARY COUNSEL ACT 1970 - SECT 17 Regulations </name>
+### <name>PARLIAMENTARY COUNSEL ACT 1970-1973 - SECT. 17\. Regulations. </name>
 </b>** 
 
 ## SECT
-<sect>   17\. The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed, or necessary or convenient to be prescribed for carrying out or giving effect to this Act. </sect>
+<sect>   17\. The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed, or necessary or convenient to be prescribed for carrying out or giving effect to this Act.<lf> <lf>                                   -----------<lf> </lf></lf></lf></sect>
 **<b>
 
-### <name>PARLIAMENTARY COUNSEL ACT 1970 - SCHEDULE </name>
+### <name>PARLIAMENTARY COUNSEL ACT 1970-1973 - THE SCHEDULE </name>
 </b>** 
 
 ## SCH
-<sch>                            THE  SCHEDULE<lf>                                                      Sections 14 and 15<lf>           OATH<lf>    I, A.B., do swear that I will be faithful and bear true allegiance to Her<lf> Majesty Queen Elizabeth the Second, Her Heirs and Successors according to law<lf> and that I will well and truly serve Her in the office of<lf>                          So help me God]<lf>           AFFIRMATION<lf>    I, A.B., do solemnly and sincerely promise and declare that I will be<lf> faithful and bear true allegiance to Her Majesty Queen Elizabeth the Second,<lf> Her Heirs and Successors according to law and that I will well and truly serve<lf> Her in the<lf> office of </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></sch>
+<sch> <lf>                                  THE  SCHEDULE<lf>                                                               Sections 14 and 15 <lf> <lf>                                       OATH<lf> <lf>   I, A.B., do swear that I will be faithful and bear true allegiance to Her Majesty Queen Elizabeth the Second, Her Heirs and Successors according to law and that I will well and truly serve Her in the office of . <lf> <lf>                                 So help me God)<lf> <lf>                                   AFFIRMATION<lf> <lf>   I, A.B., do solemnly and sincerely promise and declare that I will be faithful and bear true allegiance to Her Majesty Queen Elizabeth the Second, Her Heirs and Successors according to law and that I will well and truly serve Her in the office of . <lf> ------------------------------------------------------------------------------ -- <lf> </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></sch>
+**<b>
+
+### <name>PARLIAMENTARY COUNSEL ACT 1970-1973 - NOTES </name>
+</b>** <lf>                                      NOTES<lf> 1\.  The Parliamentary Counsel Act 1970-1973 comprises the Parliamentary Counsel Act 1970 as amended by the other Acts specified in the following table:<lf> ---------------------------------------------------------------------------- <lf> <lf>                                 Number                       Date of<lf>     Act                         and year        Date of<lf>                                                 Assent       commencement<lf> ---------------------------------------------------------------------------- <lf> <lf>     Parliamentary Counsel<lf>     Act 1970                    No. 8, 1970     15 May 1970  12 June 1970<lf>     Salaries Act 1971 (a)       No. 22, 1971    4 May 1971   14 Jan 1971<lf>     Statute Law Revision Act<lf>     1973                        No. 216, 1973   19 Dec 1973  31 Dec 1973<lf> ---------------------------------------------------------------------------- <lf> <lf>   (a)  The Salaries Act 1971 was repealed by section 7 of the Statute Law Revision Act 1973\. That section provides that the repeal does not affect the operation of any amendment made by the repealed Act or any provision made by it for the citation of an Act as so amended.<lf> 2.-S. 6 (1), (1A)-By section 15 of, and Schedule 4 to, the Remuneration and Allowances Acts 1973, the rate per annum of the salary applicable to the office of First Parliamentary Counsel is $29,250 and that of Second Parliamentary Counsel is $22,758 with an annual allowance applicable to the office of First Parliamentary Counsel of $1,750\. </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf>
