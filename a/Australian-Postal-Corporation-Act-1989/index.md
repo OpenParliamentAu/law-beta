@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00685/Html/78f29f78-b70c-4bbf-b693-a63f11694068_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00269/Html/bac307f1-0d7a-49b6-b215-89c6e894464c_files/image001.gif)
 
 # Australian Postal Corporation Act 1989
 
 **Act No. 64 of 1989 as amended**
 
-This compilation was prepared on 29 August 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 19 April 2011
+ taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -3051,7 +3051,7 @@ the amount shall be paid into an account kept by Australia Post called the Uncla
 
 ##### <a id="102"></a>102  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing matters:
+                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -3105,7 +3105,7 @@ All relevant information pertaining to application, saving or transitional provi
   <col width="16%">
   <col width="17%">
   <col width="21%">
-  <col width="16%">
+  <col width="15%">
 </colgroup>
 
 <thead>
@@ -3666,23 +3666,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 228–233) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Australian Postal Corporation Act 1989_ was amended by Part 5 (sections 11–13) only of the _Transport and Communications Legislation Amendment Act (No. 2) 1989_, subsection 2(1) of which provides as follows:
@@ -3764,44 +3747,6 @@ _(m)_    The _Australian Postal Corporation Act 1989_ was amended by Sched
 _(n)_ The _Australian Postal Corporation Act 1989_ was amended by Schedule 3 (item 62) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
 
                  (3)   Subject to subsections (4) to (10), Schedule 3 commences, or is taken to have commenced, at the same time as the _Corporations Act 2001_.
-
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 228  At the end of subsections 82(1) and (2)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 229  Subsection 82(3)
-
-Repeal the subsection.
-
-## 230  Subsection 88(1)
-
-Omit “(1)”.
-
-## 231  At the end of subsection 88(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 232  Subsection 88(3)
-
-Repeal the subsection.
-
-## 233  Section 90E (definition of _business day_)
-
-Repeal the definition.
-
-As at 29 August 2011 the amendments are not incorporated in this compilation.
 
 ## Table of Amendments
 
@@ -4652,14 +4597,6 @@ As at 29 August 2011 the amendments are not incorporated in this compilation.
 </tr>
 <tr>
   <td>
-    <div>Note to s. 90K(2)</div>
-  </td>
-  <td>
-    <div>ad. No. 144, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 90L</div>
   </td>
   <td>
@@ -5093,21 +5030,5 @@ _Australian Postal Corporation Amendment (Quarantine Inspection and Other Measur
 ## 25  Application
 
 The amendments made by this Schedule apply to articles in the course of post on the date of commencement of this Schedule, regardless of when the articles commenced being in the course of post.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
