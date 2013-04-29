@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00333/Html/dff57cab-399f-4c17-92c7-305048c29b5f_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00745/Html/f8c6e834-0c3d-4869-8dd8-c927ec1ee91a_files/image001.gif)
 
 # Industry Research and Development Act 1986
 
 **Act No. 89 of 1986 as amended**
 
-This compilation was prepared on 26 March 2012
+This compilation was prepared on 9 September 2011
  taking into account amendments up to Act No. 93 of 2011
 
 The text of any of those amendments not in force 
@@ -420,7 +420,7 @@ Sections 49–53
 
 ##### <a id="11"></a>11  Duties of Chairperson
 
-                   It is the duty of the Chairperson to ensure the efficient and orderly conduct of the business of the Board, and for that purpose, the Chairperson:
+                   It is the duty of the Chairperson to ensure the efficient and orderly conduct of the business of the Board, and for that purpose, the Chairperson:
 
                      (a)  must make, or cause to be made, such inquiries as the Chairperson thinks necessary into:
 
@@ -500,19 +500,35 @@ the Governor‑General shall remove the member from office.
 
 but a person so appointed shall not continue so to act for more than 12 months.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
              (2)  Where the number of members referred to in paragraph 9(1)(c) is less than 10, the Minister may appoint a person who is not a member to act as a member, but a person so appointed shall not continue so to act:
 
                      (a)  if and after the number of those members ceases to be less than 10; or
 
                      (b)  for longer than 12 months.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
              (3)  The Minister may appoint a person who is not a member to act in the place of a member referred to in paragraph 9(1)(c) during any period, or during all periods, when the member is acting as Chairperson, is absent from Australia or is, for any other reason, unable to perform the duties of the office of member, but a person so appointed shall not continue so to act for longer than 12 months.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+             (4)  An appointment of a person under subsection (1) or (3) may be expressed to have effect only in such circumstances as are specified in the instrument of appointment.
+
+             (5)  Where a person is acting as the Chairperson otherwise than because of a vacancy in the office of Chairperson and the office of Chairperson becomes vacant while the person is so acting then, subject to subsection (4), the person may continue so to act until the Minister otherwise directs, the vacancy is filled or a period of 12 months from the day on which the vacancy occurred expires, whichever occurs first.
+
+             (6)  The Minister may:
+
+                     (a)  determine the terms and conditions of appointment, including remuneration and allowances, of a person appointed to act as the Chairperson or a member; and
+
+                     (b)  terminate such an appointment at any time.
+
+             (7)  A person appointed to act as the Chairperson or another member may resign by writing signed by the person and delivered to the Minister.
+
+             (9)  Anything done by or in relation to a person purporting to act under subsection (1), (2) or (3) is not invalid on the grounds that:
+
+                     (a)  the occasion for the person’s appointment had not arisen;
+
+                     (b)  there is a defect or irregularity in connection with the person’s appointment;
+
+                     (c)  the person’s appointment had ceased to have effect; or
+
+                     (d)  the occasion for the person to act had not arisen or had ceased.
 
 ##### <a id="18"></a>18  Meetings of Board
 
@@ -664,7 +680,7 @@ Note:          For rules that apply to acting appointments, se
 
 ##### <a id="22A"></a>22A  Delegation by committee
 
-             (1)  A committee may, by resolution, delegate to a member of the committee or to a member of the staff assisting the committee all or any of its functions and powers (including a function or power delegated to the committee by the Board under subsection 21(2), despite paragraph 34AB(1)(b) of the _Acts Interpretation Act 1901_).
+             (1)  A committee may, by resolution, delegate to a member of the committee or to a member of the staff assisting the committee all or any of its functions and powers (including a function or power delegated to the committee by the Board under subsection 21(2), despite paragraph 34AB(b) of the _Acts Interpretation Act 1901_).
 
           (1A)  However, a committee must not delegate a function or power that:
 
@@ -2927,7 +2943,7 @@ Schedule 12 (items 1–52,
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 708–710) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 708–710) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td colspan="2">
     <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
@@ -3178,31 +3194,7 @@ _(e)_ Subsection 2(1) (item 61) of the _Taxation Laws Amendment Act (No. 2) 
 </tr>
 <tr>
   <td>
-    <div>S. 16</div>
-  </td>
-  <td>
-    <div>am. No. 164, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 17</div>
-  </td>
-  <td>
-    <div>am. No. 164, 2007; No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Notes to s. 17(1)–(3)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18</div>
+    <div>Ss. 16–18</div>
   </td>
   <td>
     <div>am. No. 164, 2007</div>
@@ -3293,7 +3285,7 @@ _(e)_ Subsection 2(1) (item 61) of the _Taxation Laws Amendment Act (No. 2) 
     <div></div>
   </td>
   <td>
-    <div>am. No. 224, 1992; No. 164, 2007; No. 46, 2011</div>
+    <div>am. No. 224, 1992; No. 164, 2007</div>
   </td>
 </tr>
 <tr>
@@ -4995,6 +4987,30 @@ No. 164, 2007</div>
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 708  At the end of subsections 17(1), (2) and (3)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 709  Subsections 17(4) to (9)
+
+Repeal the subsections.
+
+## 710  Subsection 22A(1)
+
+Omit “paragraph 34AB(b)”, substitute “paragraph 34AB(1)(b)”.
+
+As at 9 September 2011 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -5333,6 +5349,8 @@ An appointment of a member of a committee under section 22 of the _Industry Re
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
