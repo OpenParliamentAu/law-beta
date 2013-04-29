@@ -1,9 +1,10 @@
 
-Primary Industries Levies and Charges Collection Act 1991
+Primary Industries Levies and Charges Collection Act 1991 
 Act No. 25 of 1991 as amended
-This compilation was prepared on 24 May 2001 taking into account amendments up to Act No. 145 of 2000
+This compilation was prepared on 16 February 2000 taking into account amendments up to Acts No. 170, 1999
 The text of any of those amendments not in force on that date is appended in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
+
   
   
   
@@ -17,7 +18,7 @@ Contents
 7	Liability of intermediaries	11
 8	Liability of intermediaries—ancillary provisions	14
 9	Liability of sellers of prescribed goods or services	16
-10	Collection agreements with States and Territories	20
+10	Collection agreements with States and Territories	19
 11	Collection agreements with collecting organisations	21
 12	Industry consultation	23
 13	Application of Financial Management and Accountability Act	23
@@ -25,27 +26,28 @@ Contents
 15	Penalty for late payment	24
 16	Remission of penalty	26
 17	Recovery of levy, charge and other amounts	26
-18	Refund of levy, charge etc.	27
+18	Refund of levy, charge etc.	26
 19	Powers of authorised person in relation to premises	27
 19A	Offence of obstructing an authorised person acting under a warrant	28
 19B	Persons to assist authorised person acting under a warrant	28
 20	Warrant to enter premises	28
 21	Retention and return of seized property	29
 22	Identity cards	30
-23	Power to call for information	31
-24	Offences in relation to returns etc.	31
-24A	Offences in relation to weighing cattle carcases	32
-25	Conduct of directors, servants and agents	33
+23	Power to call for information	30
+24	Offences in relation to returns etc.	30
+24A	Offences in relation to weighing cattle carcases	31
+25	Conduct of directors, servants and agents	32
 26	Appointment of authorised persons	34
 27	Publishing of information	34
-28	Reconsideration and review of decisions	36
-29	Delegation by Secretary	37
-29A	Associated Acts do not authorise the imposition of a tax on property of a State	38
-30	Regulations	38
-31	Orders	39
-Schedule 1—Acts that impose a charge	41
-Schedule 2—Acts that impose a levy	42
-Notes		43
+28	Reconsideration and review of decisions	35
+29	Delegation by Secretary	36
+29A	Associated Acts do not authorise the imposition of a tax on property of a State	36
+30	Regulations	37
+31	Orders	38
+Schedule 1—Acts that impose a charge	39
+Schedule 2—Acts that impose a levy	40
+Notes to the Primary Industries Levies and Charges Collection Act 1991	41
+
 An Act relating to the collection of primary industries levies and charges imposed by various Acts
   
   
@@ -427,8 +429,10 @@ the magistrate may issue a warrant authorising the authorised person to enter th
 	(1)	A person must not, without reasonable excuse, refuse or fail to give a return or information that the person is required to give by or under this Act.
 Penalty:	60 penalty units.
 	(2)	A person is not excused from submitting a return or information on the ground that the return or information might tend to incriminate the person, but any return or information given, and any information or thing (including any document) obtained as a direct or indirect consequence of the giving of the return or information, is not admissible in evidence against the person in:
-	(a)	criminal proceedings other than proceedings for an offence against subsection (1) of this section or an offence against section 137.1 or 137.2 of the Criminal Code that relates to this Act; or
+	(a)	criminal proceedings other than proceedings for an offence against subsection (1) or (3); or
 	(b)	proceedings for recovery of an amount payable by way of penalty under section 15.
+	(3)	A person must not knowingly present a document, make a statement or give a return or information, that is false or misleading in a material particular, to a person performing duties under this Act.
+Penalty:	Imprisonment for 12 months.
 	(4)	If a person is convicted of an offence under subsection (1):
 	(a)	the court may direct the person to give the return or information that he or she is required to give by or under this Act; and
 	(b)	on being so directed, the person must give the return or information to an authorised person within the time specified in the direction.
@@ -486,14 +490,6 @@ to any of the following:
 	(d)	an industry body that is representative of producers of collection products or is representative of intermediaries in relation to producers of collection products;
 	(e)	a person to whom the Secretary has granted access to such information.
 	(2)	Except for the purposes of regulations made under the Wheat Marketing Act 1989 in relation to the issue to wheat growers of statements of equity in the Wheat Industry Fund established by that Act, nothing in subsection (1) permits the publication of information in a manner that enables an amount of levy or charge paid or payable to be identified with a person (including a deceased person).
-	(3)	An authorised person may provide the following information to an eligible recipient:
-	(a)	the name, address and ABN of any person who has paid, or is liable to pay, wool levy;
-	(b)	details of the amount of wool levy that the person has paid, or is liable to pay.
-	(4)	In this section:
-eligible recipient means:
-	(a)	the research body referred to in Division 7 of Part 2 of the Wool Services Privatisation Act 2000; or
-	(b)	any other person (other than the Commonwealth) who is a party to a contract referred to in section 31 of the Wool Services Privatisation Act 2000.
-wool levy has the same meaning as in Part 2 of the Wool Services Privatisation Act 2000.
 28  Reconsideration and review of decisions
 	(1)	A person affected by a relevant decision who is dissatisfied with the decision may, within 28 days after the day on which the decision first comes to the notice of the person, or within such further period as the Minister (either before or after the end of the period) by notice in writing served on the person allows, by notice in writing given to the Minister, request the Minister to reconsider the decision.
 	(2)	A request under subsection (1) must set out the reasons for making the request.
@@ -561,7 +557,7 @@ Primary Industries (Excise) Levies Act 1999
 Notes to the Primary Industries Levies and Charges Collection Act 1991
 Note 1
 The Primary Industries Levies and Charges Collection Act 1991 as shown in this compilation comprises Act No. 25, 1991 amended as indicated in the Tables below. 
-All relevant information pertaining to application, saving or transitional provisions prior to 17 April 1998 is not included in this compilation. For subsequent information see Table A.
+All relevant information pertaining to application, saving or transitional provisions prior to 17 April 1998 are not included in this compilation. For subsequent information see Table A.
 Table of Acts
 Act
 Number  and year
@@ -657,7 +653,7 @@ Primary Industries Levies and Charges (Consequential Amendments) Act 1999
 32, 1999
 14 May 1999
 Schedule 2 (items 1-36): 1 July 1999 (g) Schedule 2 (Items 37-40): 1 Jan 2000 (g)
-Sch. 2 (items 35, 36, 39, 40) [see Table A]
+Sch. 2 (items 35, 36, 39, 40)
 Statute Stocktake Act 1999
 118, 1999
 22 Sept 1999
@@ -672,17 +668,7 @@ Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 2) 1999
 170, 1999
 10 Dec 1999
 Schedule 2: 1 Jan 2000 Schedule 3 (items 2, 3): 28 June 1996 Schedule 6: 1 Apr 1999 Remainder: Royal Assent
-Sch. 2 (item 27) [see Table A]
-Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000
-137, 2000
-24 Nov 2000
-Ss. 1‑3 and Schedule 1 (items 1, 4, 6, 7, 9‑11, 32): Royal Assent Remainder: 24 May 2001
-Sch. 2 (items 418, 419) [see Table A]
-Wool Services Privatisation Act 2000
-145, 2000
-7 Dec 2000
-Schedule 1: 1 Jan 2001 (see Gazette 2000, No. S638)  Remainder: Royal Assent
-—
+Sch. 2 (item 27)
 
 (a)	The Primary Industries Levies and Charges Collection Act 1991 was amended by Schedule 3 only of the Primary Industries and Energy Legislation Amendment Act (No. 1) 1996, subsection 2(3) of which provides as follows:
 	(3)	Schedules 3, 4 and 8 commence on the day on which a notice is published in the Gazette under subsection 6(6) of the Poultry Industry Assistance Act 1965.
@@ -703,7 +689,7 @@ Schedule 1: 1 Jan 2001 (see Gazette 2000, No. S638)  Remainder: Royal Assent
 	(1)	Subject to this section, this Act commences on the commencement of section 1 of the Primary Industries (Excise) Levies Act 1999.
 	(2)	The following provisions commence on 1 January 2000:
 	(b)	Parts 3 and 4 of Schedule 2;
-(h)	The Primary Industries Levies and Charges Collection Act 1991 was amended by Schedule 1 (item 737) only of the Public Employment (Consequential and Transitional) Amendment Act 1999, subsections 2(1) and (2) of which provide as follows:
+(h)	The Petroleum Resource Rent Tax Assessment Act 1987 was amended by Schedule 1 (item 737) only of the Public Employment (Consequential and Transitional) Amendment Act 1999, subsections 2(1) and (2) of which provide as follows:
 	(1)	In this Act, commencing time means the time when the Public Service Act 1999 commences.
 	(2)	Subject to this section, this Act commences at the commencing time.
 Table of Amendments
@@ -737,7 +723,7 @@ ad. No. 170, 1999
 S. 22 	
 am. No. 170, 1999
 S. 24	
-am. No. 43, 1996; No. 170, 1999; No. 137, 2000
+am. No. 43, 1996; No. 170, 1999
 S. 24A	
 ad. No. 137, 1994
 
@@ -747,7 +733,7 @@ am. No. 32, 1999
 S. 26 	
 am. No. 146, 1999
 S. 27 	
-am. No. 194, 1997; No. 145, 2000
+am. No. 194, 1997
 S. 28	
 am. No. 32, 1992; Nos. 32 and 118, 1999
 S. 29A	
@@ -764,6 +750,8 @@ am. Nos. 20, 32 and 247, 1992; No. 94, 1993; No. 79, 1995; Nos. 194 and 207, 19
 rs. No. 32, 1999
 
 am. No. 32, 1999
+
+
 Table A
 Application, saving or transitional provisions
 National Residue Survey Administration Amendment Act 1998 (No. 31, 1998)
@@ -800,19 +788,5 @@ If, under regulations made for the purposes of section 30 of the Primary Industr
 	(a)	that offence continues to have effect, after that time, as if the amendment made by item 26 had been in force at the time the offence was created and the offence had been duly created for the purposes of section 30 of that Act as so amended; and
 	(b)	if any proceedings have been started but not completed in relation to that offence as at the commencement of this item, those proceedings are unaffected by that amendment of section 30 of that Act.
 
-Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)
-Schedule 2
-418  Transitional—pre‑commencement offences
-(1)	Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
-	(a)	an offence committed before the commencement of this item; or
-	(b)	proceedings for an offence alleged to have been committed before the commencement of this item; or
-	(c)	any matter connected with, or arising out of, such proceedings;
-as if the amendment or repeal had not been made.
-(2)	Subitem (1) does not limit the operation of section 8 of the Acts Interpretation Act 1901.
-419  Transitional—pre‑commencement notices
-If:
-	(a)	a provision in force immediately before the commencement of this item required that a notice set out the effect of one or more other provisions; and
-	(b)	any or all of those other provisions are repealed by this Schedule; and
-	(c)	the first‑mentioned provision is amended by this Schedule;
-the amendment of the first‑mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
+
 
