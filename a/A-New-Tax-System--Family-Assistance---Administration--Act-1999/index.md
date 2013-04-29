@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00900/Html/6face0ed-fa39-4257-8e2a-d9d4f1d35dbf_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00895/Html/f7e00989-c110-48bf-bc2f-a2d9522ea8d2_files/image001.gif)
 
 # A New Tax System (Family Assistance) (Administration) Act 1999
 
 **Act No. 81 of 1999 as amended**
 
-This compilation was prepared on 11 December 2012
- taking into account amendments up to Act No. 169 of 2012
+This compilation was prepared on 30 November 2012
+ taking into account amendments up to Act No. 154 of 2012
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -597,27 +597,31 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
     **Division 4AA—Child care rebate** 
 
-        **Subdivision AAA—Election to have child care rebate paid in various ways** 
+        **Subdivision AAA—Election to have child care rebate paid in various ways**
 
-65EAAAA  Individual may elect to have child care rebate paid in various ways
+65EAAAA Individual may elect to have child care rebate paid in 
+ various ways
 
-65EAAAB  Period in which election has effect
+65EAAAB Period in which election has effect
 
-65EAAAC  Where no election made for an income year
+65EAAAC Where no election made for an income year
 
-        **Subdivision AAB—Weekly payments of child care rebate** 
+        **Subdivision AAB—Weekly payments of child care rebate**
 
-65EAAA  Weekly payments of child care rebate
+65EAAA Weekly payments of child care rebate
 
-65EAAB  Where individual elects to have child care rebate paid weekly to approved child care service
+65EAAB Where individual elects to have child care rebate paid weekly 
+ to approved child care service
 
-65EAAC  Where individual elects to have child care rebate paid weekly into own bank account
+65EAAC Where individual elects to have child care rebate paid weekly 
+ into own bank account
 
-65EAAD  Revising a calculation of weekly child care rebate
+65EAAD Revising a calculation of weekly child care rebate
 
-65EAAE  If weekly payment is to an approved child care service, notice of revised calculation must be given to the service
+65EAAE If weekly payment is to an approved child care service, notice 
+ of revised calculation must be given to the service
 
-65EAAF  Effect of revised calculation—payment to the individual
+65EAAF Effect of revised calculation—payment to the individual
 
         **Subdivision AA—Quarterly payments of child care rebate**
 
@@ -1389,18 +1393,19 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 219TSG Civil evidence and procedure rules for civil penalty orders
 
-219TSGA  Conduct contravening more than one civil penalty 
- provision
+219TSGA Conduct contravening more than one civil penalty provision
 
-219TSGB  Civil proceedings after criminal proceedings
+219TSGB Civil proceedings after criminal proceedings
 
-219TSGC  Criminal proceedings during civil proceedings
+219TSGC Criminal proceedings during civil proceedings
 
-219TSGD  Criminal proceedings after civil proceedings
+219TSGD Criminal proceedings after civil proceedings
 
-219TSGE  Evidence given in proceedings for penalty not admissible in criminal proceedings
+219TSGE Evidence given in proceedings for penalty not admissible in 
+ criminal proceedings
 
-219TSGF  Minister requiring person to assist in applications for civil penalty orders
+219TSGF Minister requiring person to assist in applications for civil 
+ penalty orders
 
     **Division 2—Infringement notices**
 
@@ -2408,7 +2413,7 @@ Note:          Section 20C affects the meaning of paragraph�
 
              (5)  Calculate an indexed estimate (which may be nil) for the individual by multiplying the individual’s current ATI number (see subsection (6)) by the indexation factor, rounding the result to the nearest dollar and rounding 50 cents upwards. The indexation factor is the greater of 1 and the factor worked out to 3 decimal places as follows (increasing the factor by 0.001 if it would, if worked out to 4 decimal places, end in a number greater than 4):
 
-![](http://www.comlaw.gov.au/Details/C2012C00900/Html/6face0ed-fa39-4257-8e2a-d9d4f1d35dbf_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00895/Html/f7e00989-c110-48bf-bc2f-a2d9522ea8d2_files/image002.gif)
 
 where:
 
@@ -2462,7 +2467,7 @@ the Secretary may give the claimant a notice:
 
              (4)  Calculate an indexed actual income (which may be nil) for the individual by multiplying the actual income of the individual which became known to the Secretary by the indexation factor, rounding the result to the nearest dollar and rounding 50 cents upwards. The indexation factor is the greater of 1 and the factor worked out to 3 decimal places as follows (increasing the factor by 0.001 if it would, if worked out to 4 decimal places, end in a number greater than 4):
 
-![](http://www.comlaw.gov.au/Details/C2012C00900/Html/6face0ed-fa39-4257-8e2a-d9d4f1d35dbf_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00895/Html/f7e00989-c110-48bf-bc2f-a2d9522ea8d2_files/image002.gif)
 
 where:
 
@@ -4847,7 +4852,7 @@ the Secretary can only determine the claim concerned if:
 
 the Secretary must determine that the claimant is entitled to be paid the baby bonus and must determine the amount of the baby bonus that the claimant is entitled to be paid.
 
-##### <a id="43"></a>43  Determination of “bereavement” entitlement claim
+##### <a id="43"></a>43  Determination of “bereavement” entitlement claim
 
                    If:
 
@@ -4915,7 +4920,7 @@ Upfront part
 
                      (c)  if the claimant becomes eligible for baby bonus on or after 1 July 2015—the amount worked out as follows:
 
-![](http://www.comlaw.gov.au/Details/C2012C00900/Html/6face0ed-fa39-4257-8e2a-d9d4f1d35dbf_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00895/Html/f7e00989-c110-48bf-bc2f-a2d9522ea8d2_files/image003.gif)
 
 Alternative payment arrangements in certain cases
 
@@ -5119,7 +5124,7 @@ Requirements for claim by individual to be effective
 
                             (iii)  be accompanied by any documents;
 
-                            required by the Secretary; and
+                            required by the Secretary; and
 
                      (b)  the bank account requirement set out in section 49G must be satisfied in relation to the claim; and
 
@@ -6415,7 +6420,7 @@ Note:          Section 55AC affects the meaning of paragraph
 
              (5)  Calculate an indexed estimate (which may be nil) for the individual by multiplying the individual’s current ATI number (see subsection (6)) by the indexation factor, rounding the result to the nearest dollar and rounding 50 cents upwards. The indexation factor is the greater of 1 and the factor worked out to 3 decimal places as follows (increasing the factor by 0.001 if it would, if worked out to 4 decimal places, end in a number greater than 4):
 
-![](http://www.comlaw.gov.au/Details/C2012C00900/Html/6face0ed-fa39-4257-8e2a-d9d4f1d35dbf_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00895/Html/f7e00989-c110-48bf-bc2f-a2d9522ea8d2_files/image002.gif)
 
 where:
 
@@ -6469,7 +6474,7 @@ the Secretary may give the claimant a notice:
 
              (4)  Calculate an indexed actual income (which may be nil) for the individual by multiplying the actual income of the individual which became known to the Secretary by the indexation factor, rounding the result to the nearest dollar and rounding 50 cents upwards. The indexation factor is the greater of 1 and the factor worked out to 3 decimal places as follows (increasing the factor by 0.001 if it would, if worked out to 4 decimal places, end in a number greater than 4):
 
-![](http://www.comlaw.gov.au/Details/C2012C00900/Html/6face0ed-fa39-4257-8e2a-d9d4f1d35dbf_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00895/Html/f7e00989-c110-48bf-bc2f-a2d9522ea8d2_files/image002.gif)
 
 where:
 
@@ -9004,7 +9009,7 @@ Form etc. of claim
 
                      (c)  in the case of a claim for payment of single income family supplement in substitution because of the death of another individual—the tax file number requirement in section 65KC must be satisfied in relation to the claim.
 
-##### <a id="65KB"></a>65KB  Tax file number requirement to be satisfied for claims for a past period
+##### <a id="65KB"></a>65KB  Tax file number requirement to be satisfied for claims for a past period
 
              (1)  This section sets out the tax file number requirement that must be satisfied in relation to a claim for the purposes of paragraph 65KA(2)(b) (which states what is required for certain claims to be effective).
 
@@ -10444,7 +10449,7 @@ the amount of the cheque is a debt due by the person to the Commonwealth.
 
 the recipient and the other person are jointly and severally liable to pay the debt.
 
-##### <a id="76"></a>76  Data‑matching Program (Assistance and Tax) Act debts
+##### <a id="76"></a>76  Data‑matching Program (Assistance and Tax) Act debts
 
                    If:
 
@@ -11278,7 +11283,7 @@ Formula for working out present value of unpaid amount
 
              (6)  For the purposes of subsection (5), the **_present value of the unpaid amount_** is the amount worked out in accordance with the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00900/Html/6face0ed-fa39-4257-8e2a-d9d4f1d35dbf_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00895/Html/f7e00989-c110-48bf-bc2f-a2d9522ea8d2_files/image004.gif)
 
 where:
 
@@ -15512,7 +15517,7 @@ Meaning of **offence against this Act**
 
                     <a name="offenc-against-act"></a>**_offence against this Act_** includes an offence against Chapter 7 of the _Criminal Code_ that relates to this Act.
 
-##### <a id="219G"></a>219G  Former approved child care service to keep records
+##### <a id="219G"></a>219G  Former approved child care service to keep records
 
 Obligation to keep records
 
@@ -15659,12 +15664,6 @@ Note:          For strict liability, see section 6.1 of the 
 Note 1:       This is a civil penalty provision. Part 8C provides for pecuniary penalties for breaches of civil penalty provisions.
 
 Note 2:       Sections 137.1 and 137.2 of the _Criminal Code_ create offences for providing false or misleading information or documents.
-
-          (6A)  However, a person that is registered under the _Australian Charities and Not‑for‑profits Commission Act 2012_ need not comply with a notice given to the person under this section to the extent that:
-
-                     (a)  the notice requires the person to provide particular financial information to the Secretary; and
-
-                     (b)  the person has provided, or provides, that particular financial information to the Commissioner of the ACNC under that Act before the end of the period specified under paragraph (3)(b).
 
              (7)  For the purposes of:
 
@@ -18140,4 +18139,39 @@ Schedule 2 (items 84–86): <i>(g)</i></div>
     <div>26 May 2004</div>
   </td>
   <td>
-    <div>26 May 
+    <div>26 May 2004</div>
+  </td>
+  <td>
+    <div>Sch. 3 (item 1)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family and Community Services and Veterans’ Affairs Legislation Amendment (2004 Election Commitments) Act 2004</div>
+  </td>
+  <td>
+    <div>132, 2004</div>
+  </td>
+  <td>
+    <div>8 Dec 2004</div>
+  </td>
+  <td>
+    <div>Schedule 4 (items 14–44): 1 Jan 2005</div>
+  </td>
+  <td>
+    <div>Sch. 4 (item 44)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family and Community Services and Veterans’ Affairs Legislation Amendment (Further 2004 Election Commitments and Other Measures) Act 2005</div>
+  </td>
+  <td>
+    <div>29, 2005</div>
+  </td
