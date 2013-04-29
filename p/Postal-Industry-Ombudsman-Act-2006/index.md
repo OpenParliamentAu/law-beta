@@ -1,12 +1,12 @@
-![](http://www.comlaw.gov.au/Details/C2008C00423/Html/PostalIndusOmbuds2006_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00618/Html/PostalIndusOmbuds2006_image001.gif)
 
 # Postal Industry Ombudsman Act 2006
 
 **Act No. 25 of 2006 as amended**
 
-This compilation was prepared on 17 July 2008
+This compilation was prepared on 19 October 2006
 
-**\[This Act was amended by Act No. 141 of 2005; No. 73 of 2008]**
+**\[This Act was amended by Act No. 141 of 2005]**
 
 **Amendment from Act No. 141 of 2005**
 
@@ -14,12 +14,6 @@ This compilation was prepared on 17 July 2008
  and repealed item 16 of Schedule 1
 
 Schedule 2 (item 32) commenced immediately before 6 October 2006]
-
-**Amendment from Act No. 73 of 2008**
-
-\[Schedule 2 (item 24) amended item 18 of Schedule 1
-
-Schedule 2 (item 24) commenced immediately after 6 October 2006]
 
 Prepared by the Office of Legislative Drafting and Publishing,
  Attorney-General’s Department, Canberra
@@ -709,9 +703,7 @@ Notice of transferral to be given to complainant
     <div>subsection 35(6A)</div>
   </td>
   <td>
-    <div>
-      paragraph 6(4A)(e) or (4D)(e)
-    </div>
+    <div>paragraph 6(4A)(e) or (4D)(e)</div>
   </td>
   <td>
     <div>paragraph 19P(3)(b)</div>
@@ -1030,7 +1022,7 @@ Add:
 
 ## 18  Subsection 50(2)
 
-Omit “the Human Rights and Equal Opportunity Commission, the Ombudsman or the Public Service Commissioner” (wherever occurring), substitute “the Human Rights and Equal Opportunity Commission, the Ombudsman, the Postal Industry Ombudsman or the Public Service Commissioner”.
+Omit “the Human Rights and Equal Opportunity Commission, the Ombudsman, or the Public Service Commissioner” (wherever occurring), substitute “the Human Rights and Equal Opportunity Commission, the Ombudsman, the Postal Industry Ombudsman or the Public Service Commissioner”.
 
 ## 19  At the end of paragraph 50(3)(a)
 
@@ -1074,8 +1066,33 @@ Omit “subsections 31(2) and (3)”, substitute “subsection 31(2)”.
 
 Repeal the subsection.
 
-## 5  Subsection 35B(2) (paragraph (a) of the definition of _listed disclosure method_)
+## 5  Subsection 35B(2) (paragraph (a) of the definition of _listed disclosure method_)
 
 Omit “Part 2”, substitute “Part II”.
+
+<div style="border:none;border-top:solid windowtext 1.0pt;padding:1.0pt 0cm 0cm 0cm">
+
+</div>
+
+[_Minister’s second reading speech made in—_
+
+_Senate on 17 November 2004_
+
+_House of Representatives on 8 September 2005_]
+
+<div>
+
+<table hspace="0" vspace="0" align="left">
+<colgroup>
+  <col width="NaN%">
+</colgroup>
+
+<tr>
+  <td align="left">
+    <div>(190/04)</div>
+  </td>
+</tr></table>
+
+</div>
 
  
