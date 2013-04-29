@@ -1,18 +1,17 @@
-![](http://www.comlaw.gov.au/Details/C2006C00129/Html/1A90BB39F7F3F01ECA25714D0082CEA0/$FILE/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00492/Html/75EF1B5730454F03CA25704900130E40/$FILE/image001.gif)
 
 # Audit (Transitional and Miscellaneous) Amendment Act 1997
 
-**Act No. 152 of 1997 as amended**
+**Act No. 152 of 1997 as amended** 
 
-This compilation was prepared on 4 April 2006
+This compilation was prepared on 18 July 2005
 
-**\[This Act was amended by Act No. 63 of 2002; No. 100 of 2005;No. 9 of 2006]**
+**\[This Act was amended by Act No. 63 of 2002; No. 100, 2005]** 
 
 **Amendments from Act No. 63 of 2002**
 
 \[Schedule 2 (item 1) repealed items 1306 to 1310 of Schedule 2
-
-Schedule 2 (item 1) commenced immediately after 1 January 1998]
+Schedule 12 (item 1) commenced on 1 January 1998]
 
 **Amendments from Act No. 100 of 2005**
 
@@ -20,15 +19,6 @@ Schedule 2 (item 1) commenced immediately after 1 January 1998]
 \[Schedule 2 (items 5 and 6) amended heading to item 398 of Schedule 2
 
 Schedule 2 (items 4–6) commenced immediately after 1 January 1998]
-
-**Amendments from Act No. 9 of 2006**
-
-\[Schedule 2 (item 3) amended heading to item 1118 of Schedule 2
-Schedule 2 (item 4) amended heading to item 1120 of Schedule 2
-Schedule 2 (item 5) repealed and substituted item 1134 of Schedule 2
-Schedule 2 (item 6) amended heading to item 1135 of Schedule 2
-
-Schedule 2 (items 3–6) commenced immediately after 1 January 1998]
 
 Prepared by the Office of Legislative Drafting and Publishing,
 Attorney-General’s Department, 
@@ -390,7 +380,9 @@ The Parliament of Australia enacts:
 
 ##### <a id="4"></a>4  Some amendments in Schedule 2 may not take effect or may take effect in a modified way
 
-             (1)  If, on or before the commencement of Schedule 2, Part 6 of the _Housing Loans Insurance Corporation (Transfer of Assets and Abolition) Act 1996_ commences or has commenced, the following amendments set out in Schedule 2 to this Act do not take effect:                     (a)  the amendments of the _Housing Loans Insurance Act 1965_;
+             (1)  If, on or before the commencement of Schedule 2, Part 6 of the _Housing Loans Insurance Corporation (Transfer of Assets and Abolition) Act 1996_ commences or has commenced, the following amendments set out in Schedule 2 to this Act do not take effect:
+
+                     (a)  the amendments of the _Housing Loans Insurance Act 1965_;
 
                      (b)  the amendments of the _Housing Loans Insurance Corporation (Transfer of Assets and Abolition) Act 1996_.
 
@@ -752,7 +744,7 @@ Repeal the paragraph, substitute:
 
 Repeal the note.
 
-## 68  Section 193K
+## 68  Section 193K
 
 Repeal the section, substitute:
 
@@ -936,7 +928,7 @@ Omit “Trust Fund”, substitute “Reserve”.
 
 Repeal the subsection.
 
-## 102  Subsection 38(6)
+## 102  Subsection 38(6)
 
 Omit “Trust Fund”, substitute “Reserve”.
 
@@ -954,7 +946,7 @@ Insert:
 
           (7A)  Whenever an amount is credited to the Consolidated Revenue Fund under paragraph (7)(b), an equal amount must be transferred to the Aboriginal Advancement Reserve from the Consolidated Revenue Fund.
 
-## 106  Subsection 38(8)
+## 106  Subsection 38(8)
 
 Omit “Forest Trust Fund”, substitute “Forest Reserve”.
 
@@ -1790,7 +1782,7 @@ Repeal the section, substitute:
 
 ##### <a id="19"></a>19  Application of section 21 of the _Commonwealth Authorities and Companies Act 1997_ to deemed and co-opted Commissioners
 
-                   Section 21 of the _Commonwealth Authorities and Companies Act 1997_ (disclosure of material personal interests) applies to a person deemed to be a Commissioner under subsection 17(3), or to a person who is a co-opted Commissioner, as if the person were a Commissioner.
+                   Section 21 of the _Commonwealth Authorities and Companies Act 1997_ (disclosure of material personal interests) applies to a person deemed to be a Commissioner under subsection 17(3), or to a person who is a co-opted Commissioner, as if the person were a Commissioner.
 
 ## 252  Section 20
 
@@ -2428,7 +2420,7 @@ Note:          Subsection 18(3) of the _Commonwealth Authoriti
 
 Repeal the section.
 
-## 371  Section 19
+## 371  Section 19
 
 Repeal the section.
 
@@ -2461,7 +2453,6 @@ Omit “The Museum must, in each report prepared under section 63M of the _Audit
 Omit “22”, substitute “21 of the _Commonwealth Authorities and Companies Act 1997_”.
 
 ## 378  Section 22
-
 Repeal the section.
 
 ## 379  Subsection 23(6)
@@ -2698,7 +2689,7 @@ Omit “subsection 14(1)”, substitute “section 21 of the _Commonwealth Autho
 
 Repeal the sections.
 
-## 421  Subsection 50(1)
+## 421  Subsection 50(1)
 
 After “this Act” (first occurring), insert “or the _Commonwealth Authorities and Companies Act 1997_”.
 
@@ -2962,7 +2953,7 @@ Repeal the sections.
 
 Omit “subsection 71(2)”, substitute “section 21 of the _Commonwealth Authorities and Companies Act 1997_”.
 
-## 472  Section 71
+## 472  Section 71
 
 Repeal the section, substitute:
 
@@ -3042,7 +3033,7 @@ Repeal the section, substitute:
 
                      (c)  describe any matters that, during that year, have adversely affected the Commission’s effectiveness or have hindered the Commission in pursuing any of those goals and objectives.
 
-## 486  Paragraph 141(a)
+## 486  Paragraph 141(a)
 
 Omit “section 63J of the _Audit Act 1901_”, substitute “subsection 18(2) of the _Commonwealth Authorities and Companies Act 1997_”.
 
@@ -5000,7 +4991,7 @@ Omit “section 49 or 50 of the _Audit Act 1901_”, substitute “section 54 or
 
 <h9 class="ActHead9">Horticultural Research and Development Corporation Act 1987</h9>
 
-## 851  Subsection 7(1)
+## 851  Subsection 7(1)
 
 Omit “Subject to subsection (2), the”, substitute “The”.
 
@@ -6220,7 +6211,7 @@ Omit “40(2)”, substitute “39(2)”.
 
 <h9 class="ActHead9">Natural Resources Management (Financial Assistance) Act 1992</h9>
 
-## 1056  Title
+## 1056  Title
 
 Omit “**Fund**”, substitute “**Reserve**”.
 
@@ -6576,7 +6567,7 @@ Insert:
 
                     <a name="independ-auditor"></a>**_Independent Auditor_** means the Independent Auditor referred to in section 41 of the _Auditor-General Act 1997_.
 
-## 1118 Section 4 (definition of _the Chairman_)
+## 1118 Section 4 (definition of _Chairman_)
 
 Omit “Chairman” (wherever occurring), substitute “Chair”.
 
@@ -6584,7 +6575,7 @@ Omit “Chairman” (wherever occurring), substitute “Chair”.
 
 After “Accounts”, insert “and Audit”.
 
-## 1120  Section 4 (definition of _the Vice-Chairman_)
+## 1120  Section 4 (definition of _Vice-Chairman_)
 
 Omit “Vice-Chairman” (wherever occurring), substitute “Deputy Chair”.
 
@@ -6722,11 +6713,11 @@ Omit “Chairman” (wherever occurring), substitute “Chair”.
 
 Omit “Vice-Chairman” (wherever occurring), substitute “Deputy Chair”.
 
-1134  Schedule, Form C
+## 1134  Schedule, Form A
 
-Omit “Chairman” (wherever occurring), substitute “Chair”.
+Omit “Chairman”, substitute “Chair”.
 
-## 1135  Schedule, Form C
+## 1135  Schedule, Form A
 
 Omit “Vice-Chairman”, substitute “Deputy Chair”.
 
