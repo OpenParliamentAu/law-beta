@@ -1,9 +1,8 @@
 
 Tradex Scheme Act 1999
 Act No. 185 of 1999 as amended
-This compilation was prepared on 12 July 2004 taking into account amendments up to Act No. 80 of 2004
+This compilation was prepared on 17 October 2001  taking into account amendments up to Act No. 140 of 2001
 The text of any of those amendments not in force on that date is appended in the Notes section
-The operation of amendments that have been incorporated may be  affected by application provisions that are set out in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
   
   
@@ -63,15 +62,16 @@ Part 11—Miscellaneous	32
 41	Evidentiary matters	34
 42	Payment by cheque	35
 43	Power of Secretary to extend certain periods	35
-44	Power of Secretary to approve forms	36
+44	Power of Secretary to approve forms	35
 45	Authorised officers	36
-46	Tradex order not transmissible	37
+46	Tradex order not transmissible	36
 47	Application of Criminal Code	37
 48	Delegation	37
 49	Regulations	37
 Part 12—Transitional	38
 50	Existing users under the Texco Scheme	38
-Notes	39
+Notes		39
+
 An Act to establish a scheme, to be known as the Tradex Scheme, for the importation, without payment of duties of customs or other taxes, of goods that are to be subsequently exported, and for related purposes
 Part 1—Preliminary
   
@@ -648,36 +648,17 @@ Tradex Scheme Act 1999
 Corporations (Repeals, Consequentials and Transitionals) Act 2001
 55, 2001
 28 June 2001
-Ss. 4–14 and Schedule 3 (item 558): 15 July 2001 (see Gazette 2001, No. S285) (a)
-Ss. 4–14
+Ss. 4‑14 and Schedule 3 (item 558): 15 July 2001 (see Gazette 2001, No. S285) (a)
+Ss. 4‑14
 Industry, Science and Resources Legislation Amendment (Application of Criminal Code) Act 2001
 140, 2001
 1 Oct 2001
 2 Oct 2001
 S. 4
-Bankruptcy Legislation Amendment Act 2004
-80, 2004
-23 June 2004
-Schedule 1 (items 210, 212, 213, 215): [see (b), Note 2 and Table A]
-Sch. 1 (items 212, 213, 215)
 (a)	The Tradex Scheme Act 1999 was amended by Schedule 3 (item 558) only of the Corporations (Repeals, Consequentials and Transitionals) Act 2001, subsection 2(3) of which provides as follows:
 	(3)	Subject to subsections (4) to (10), Schedule 3 commences, or is taken to have commenced, at the same time as the Corporations Act 2001.
-(b)	Subsection 2(1) (item 2) of the Bankruptcy Legislation Amendment Act 2004 provides as follows:
-	(1)	Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-Commencement information
-Column 1
-Column 2
-Column 3
-Provision(s)
-Commencement
-Date/Details
-2.  Schedules 1, 2, 3 and 4
-A single day to be fixed by Proclamation.
-However, if any of the provision(s) do not commence within the period of 6 months beginning on the day on which this Act receives the Royal Assent, they commence on the first day after the end of that period.
-[see Note 2 and Table A]
 Table of Amendments
-ad. = added or inserted     am. = amended     rep. = repealed     rs. = repealed and substituted
+ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
 How affected
 S. 4	
@@ -686,66 +667,10 @@ Ss. 26, 27
 am. No. 140, 2001
 S. 29	
 am. No. 140, 2001
-Note 2
-Bankruptcy Legislation Amendment Act 2004 (No. 80, 2004)
-The following amendment commences on 23 December 2004 unless proclaimed earlier:
-Schedule 1
-210  Section 4 (definition of insolvent under administration)
-Omit all the words after “and” (first occurring), substitute:
-includes a person who has executed a personal insolvency agreement under:
-	(c)	Part X of the Bankruptcy Act 1966; or
-	(d)	the corresponding provisions of the law of an external Territory or the law of a foreign country;
-where the terms of the agreement have not been fully complied with.
-As at 12 July 2004 the amendment is not incorporated in this compilation.
 Table A
 Application, saving or transitional provisions
 Industry, Science and Resources Legislation Amendment (Application of Criminal Code) Act 2001 (No. 140, 2001)
 4  Application of amendments
 	(1)	Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
 	(2)	For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
-
-Bankruptcy Legislation Amendment Act 2004 (No. 80, 2004)
-The following provisions commence on 23 December 2004 unless proclaimed earlier:
-Schedule 1
-212  Transitional—pre‑commencement deeds and compositions
-(1)	For the purposes of this item, if a deed of assignment or a deed of arrangement was executed by a debtor and a trustee under Part X of the Bankruptcy Act 1966 before the commencement of this item, the deed is a pre‑commencement deed.
-(2)	For the purposes of this item, if a composition was accepted before the commencement of this item by a special resolution of a meeting of creditors under section 204 of the Bankruptcy Act 1966, the composition is a pre‑commencement composition.
-(3)	Despite the repeals and amendments made by Parts 1 and 2 of this Schedule:
-	(a)	the Bankruptcy Act 1966 and regulations under that Act; and
-	(b)	the Acts amended by Part 2 of this Schedule;
-continue to apply, in relation to:
-	(c)	a pre‑commencement deed; and
-	(d)	a pre‑commencement composition; and
-	(e)	any matter connected with, or arising out of:
-	(i)	a pre‑commencement deed; or
-	(ii)	a pre‑commencement composition;
-as if those repeals had not happened and those amendments had not been made.
-213  Transitional—pre‑commencement authorities
-(1)	For the purposes of this item, if:
-	(a)	an authority given by a debtor under section 188 of the Bankruptcy Act 1966 became effective before the commencement of this item; and
-	(b)	as at the commencement of this item, none of the following had happened:
-	(i)	the execution by the debtor and the trustee of a deed of assignment under Part X of the Bankruptcy Act 1966;
-	(ii)	the execution by the debtor and the trustee of a deed of arrangement under Part X of the Bankruptcy Act 1966;
-	(iii)	the acceptance of a composition by a special resolution of a meeting of the debtor’s creditors under section 204 of the Bankruptcy Act 1966;
-the authority is a pre‑commencement authority.
-(2)	Despite the repeals and amendments made by Parts 1 and 2 of this Schedule:
-	(a)	the Bankruptcy Act 1966 and regulations under that Act; and
-	(b)	the Acts amended by Part 2 of this Schedule;
-continue to apply, in relation to:
-	(c)	a pre‑commencement authority; and
-	(d)	the control of the debtor’s property following a pre‑commencement authority becoming effective; and
-	(e)	a meeting of the debtor’s creditors called under a pre‑commencement authority; and
-	(f)	whichever of the following is applicable:
-	(i)	a deed of assignment executed after the commencement of this item by the debtor and the trustee under Part X of the Bankruptcy Act 1966 in accordance with a special resolution of such a meeting;
-	(ii)	a deed of arrangement executed after the commencement of this item by the debtor and the trustee under Part X of the Bankruptcy Act 1966 in accordance with a special resolution of such a meeting;
-	(iii)	a composition accepted after the commencement of this item by a special resolution of such a meeting; and
-	(g)	any other matter connected with, or arising out of:
-	(i)	a pre‑commencement authority; or
-	(ii)	a deed of assignment mentioned in subparagraph (f)(i); or
-	(iii)	a deed of arrangement mentioned in subparagraph (f)(ii); or
-	(iv)	a composition mentioned in subparagraph (f)(iii);
-as if those repeals had not happened and those amendments had not been made.
-215  Transitional—regulations
-(1)	The regulations may make provision for matters of a transitional nature arising from the amendments made by Parts 1 and 2 of this Schedule.
-(2)	The Governor‑General may make regulations for the purposes of subitem (1).
 
