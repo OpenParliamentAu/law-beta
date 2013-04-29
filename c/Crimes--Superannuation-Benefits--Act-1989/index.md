@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00878/Html/649d248e-60f8-4931-a110-3288b0b0b209_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00514/Html/afd1c344-9146-4f99-aa55-3b041c94922f_files/image001.gif)
 
 # Crimes (Superannuation Benefits) Act 1989
 
 **Act No. 145 of 1989 as amended**
 
-This compilation was prepared on 4 December 2012
- taking into account amendments up to Act No. 167 of 2012
+This compilation was prepared on 8 July 2011
+ taking into account amendments up to Act No. 58 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -377,7 +378,7 @@ is to be taken, for the purposes of this Act, to be employed by the Commonwealth
 
                      (b)  where property of the person has been transferred to another person within that period for a consideration whose value is less than the commercial value of the property when the transfer was made—an interest in the property equal to the proportion worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00878/Html/649d248e-60f8-4931-a110-3288b0b0b209_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00514/Html/afd1c344-9146-4f99-aa55-3b041c94922f_files/image002.gif)
 
 where:
 
@@ -551,7 +552,7 @@ is _prima facie_ evidence of the matters stated in the certificate.
 
              (3)  Where:
 
-                     (a)  employer contributions or benefits made or payable by the Commonwealth or a Commonwealth authority in respect of the person under any superannuation scheme for any period of employment (not just a period during which the offence was committed) have been paid into, and are held in, a fund under the scheme; and
+                     (a)  employer contributions or benefits made or payable by the Commonwealth or a Commonwealth authority in respect of the person under any superannuation scheme have been paid into, and are held in, a fund under the scheme; and
 
                      (b)  the person would, but for subsection 21(1), become entitled, subject to and in accordance with the scheme, to the benefit, or to a benefit attributable to the employer contributions, as the case may be;
 
@@ -565,11 +566,11 @@ the court must:
 
                      (a)  specify in the superannuation order the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00878/Html/649d248e-60f8-4931-a110-3288b0b0b209_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00514/Html/afd1c344-9146-4f99-aa55-3b041c94922f_files/image003.gif)
 
 where:
 
-                    <a name="ab"></a>**_AB_**_(amount of benefits)_ is the amount that the court thinks reflects the value of the sum of the benefits paid by the Commonwealth or Commonwealth authority to the person under the scheme for any period of employment (not just a period during which the offence was committed) as at the day on which the order is made. 
+                    <a name="ab"></a>**_AB_**_(amount of benefits)_ is the amount that the court thinks reflects the value of the sum of the benefits paid by the Commonwealth or Commonwealth authority to the person under the scheme as at the day on which the order is made. 
 
                     <a name="ec"></a>**_EC_**_(employee contributions)_ is the amount that the court thinks is equal to the part of **AB** that is attributable to the sum of the employee contributions paid under the scheme by the person as at that day plus the interest on those contributions accrued under the scheme before that day; and
 
@@ -613,7 +614,7 @@ where:
 
 the person is entitled, on the day on which he or she ceases to be a member of the scheme, to payment of an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00878/Html/649d248e-60f8-4931-a110-3288b0b0b209_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00514/Html/afd1c344-9146-4f99-aa55-3b041c94922f_files/image004.gif)
 
 where:
 
@@ -1045,7 +1046,7 @@ whether or not it is constituted in the same way in which it was constituted whe
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
-# Notes to the _Crimes (Superannuation Benefits) Act 1989_
+# Notes to the _Crimes (Superannuation Benefits) Act 1989__ _
 
 ### Note 1
 
@@ -1233,7 +1234,7 @@ Remainder: 1 Feb 1993 ( <i>see Gazette</i>1993, No. GN1)</div>
 Schedule (Part 5): 30 Aug 1995 ( <i>see Gazette</i>1995, No. S324) <i>(b)</i></div>
   </td>
   <td>
-    <div>S. 2(6) (as am. by 60, 1993, s. 4; 168, 1994, s. 3)</div>
+    <div>S. 2(6) (as am. by 60, 1993, s. 4; 168, 1994, s. 3)</div>
   </td>
 </tr>
 <tr>
@@ -1437,7 +1438,7 @@ Schedule (Part 5): 30 Aug 1995 ( <i>see Gazette</i>1995, No. S324) <i>(b)</i
     <div>S. 4 and Schedule 1 (items 124, 125, 496): Royal Assent</div>
   </td>
   <td>
-    <div>S. 4 and Sch. 1 (item 496) \[ <i>see</i>Table A]</div>
+    <div>S. 4 and Sch. 1 (item 496) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -1507,23 +1508,6 @@ Schedule (Part 5): 30 Aug 1995 ( <i>see Gazette</i>1995, No. S324) <i>(b)</i
     </td>
     <td>
       <div>—</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Crimes Legislation Amendment (Serious Drugs, Identity Crime and Other Measures) Act 2012</div>
-    </td>
-    <td>
-      <div>167, 2012</div>
-    </td>
-    <td>
-      <div>28 Nov 2012</div>
-    </td>
-    <td>
-      <div>Schedule 3 (items 12, 13, 15): 29 Nov 2012</div>
-    </td>
-    <td>
-      <div>Sch. 3 (item 15) \[ <i>see</i>Table A]</div>
     </td>
   </tr>
 </thead></table>
@@ -1671,8 +1655,8 @@ _(j)_      Subsection 2(1) (item 2) of the _Superannuation Legislation
 
 <table>
 <colgroup>
-  <col width="32%">
-  <col width="68%">
+  <col width="34%">
+  <col width="66%">
 </colgroup>
 
 <thead>
@@ -1759,7 +1743,7 @@ _(j)_      Subsection 2(1) (item 2) of the _Superannuation Legislation
     <div>S. 19</div>
   </td>
   <td>
-    <div>am. No. 182, 1994; No. 167, 2012</div>
+    <div>am. No. 182, 1994</div>
   </td>
 </tr>
 <tr>
@@ -1930,15 +1914,5 @@ _Same‑Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Re
 ## 42  Application
 
 The amendment of the _Crimes (Superannuation Benefits) Act 1989_ made by this Part applies in relation to an application for a superannuation order or a restraining order made on or after the commencement of this item.
-
-* * *
-
-_Crimes Legislation Amendment (Serious Drugs, Identity Crime and Other Measures) Act 2012 (No. 167, 2012)_
-
-## Schedule 3
-
-## 15  Application of amendments: the _Crimes (Superannuation Benefits) Act 1989_
-
-Section 19 of the _Crimes (Superannuation Benefits) Act 1989_, as amended by this Schedule, applies in relation to a superannuation order applied for on or after the commencement of this item, whether an offence to which the order relates was committed before, on or after that commencement.
 
  
