@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00166/Html/a0fca45f-6328-4f5d-ab32-666dcc8bc5a2_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00017/Html/47d1943d-e51b-4a33-ad09-23cfd1a66d2c_files/image001.gif)
 
 # Admiralty Act 1988
 
 **Act No. 34 of 1988 as amended**
 
-This compilation was prepared on 30 January 2012
+This compilation was prepared on 27 December 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
@@ -318,7 +318,7 @@ the other ship is, in relation to the claim, a surrogate ship.
 
                             (iii)  a person for whose wrongful acts or omissions the owner, charterer or person in possession or control of a ship is liable;
 
-                            being an act or omission in the navigation or management of the ship, including an act or omission in connection with:
+                            being an act or omission in the navigation or management of the ship, including an act or omission in connection with:
 
                             (iv)  the loading of goods on to, or the unloading of goods from, the ship;
 
@@ -716,7 +716,7 @@ then, in addition to any other proceeding that may be taken by the party to enfo
 
 ##### <a id="32"></a>32  Powers of Federal Court in relation to register
 
-                   In a proceeding in the Federal Court on a proprietary maritime claim, the orders that the court may make include orders of the kind that a court may make under section 59 or 59A of the _Shipping Registration Act 1981_.
+                   In a proceeding in the Federal Court on a proprietary maritime claim, the orders that the court may make include orders of the kind that a court may make under section 59 of the _Shipping Registration Act 1981_.
 
 ##### <a id="33"></a>33  Co‑ownership disputes
 
@@ -792,7 +792,7 @@ then, by force of this subsection, the court has power, exercisable in the same 
 
              (5)  The law relating to laches does not apply in relation to a claim brought within a period fixed by or under this section.
 
-##### <a id="38"></a>38  Mode of trial
+##### <a id="38"></a>38  Mode of trial
 
                    A proceeding under this Act commenced as an action _in rem_, a limitation proceeding and a proceeding under this Act that is associated with either shall be tried without a jury.
 
@@ -1241,7 +1241,7 @@ of Assent</div>
     <div>14 Dec 2009</div>
   </td>
   <td>
-    <div>Schedule 3 (item 1): 30 Jan 2012 ( <i>see</i>F2011L02397)</div>
+    <div>Schedule 3 (item 1): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -1269,8 +1269,8 @@ of Assent</div>
 
 <table>
 <colgroup>
-  <col width="32%">
-  <col width="68%">
+  <col width="34%">
+  <col width="66%">
 </colgroup>
 
 <thead>
@@ -1394,20 +1394,27 @@ of Assent</div>
 </tr>
 <tr>
   <td>
-    <div>S. 32</div>
-  </td>
-  <td>
-    <div>am. No. 131, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 41</div>
   </td>
   <td>
     <div>am. No. 23, 2006; No. 46, 2011</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Personal Property Securities (Consequential Amendments) Act 2009
+ (No. 131, 2009)_
+
+The following amendment commences on 30 January 2012 (_see_ section 306 of the _Personal Property Securities Act 2009_ and F2011L02397):
+
+## Schedule 3
+
+## 1  Section 32
+
+After “59”, insert “or 59A”.
+
+As at 27 December 2011 the amendment is not incorporated in this compilation.
 
 ## Table A
 
