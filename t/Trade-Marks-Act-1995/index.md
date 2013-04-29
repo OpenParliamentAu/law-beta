@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00058/Html/6336712a-a582-47e8-b4a6-6be3aaf235c9_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00974/Html/8ca1bce1-1471-4989-b9a7-e7ac23773219_files/image001.gif)
 
 # Trade Marks Act 1995
 
 **Act No. 119 of 1995 as amended**
 
-This compilation was prepared on 27 December 2011
+This compilation was prepared on 21 December 2011
  taking into account amendments up to Act No. 149 of 2011
 
 The text of any of those amendments not in force 
@@ -92,7 +92,7 @@ That Act is repealed by this Act. It contained the legislation that previously a
 
 The list of Acts cited above is not exhaustive. Other Acts may also affect the operation or interpretation of this Act. 
 
-![](http://www.comlaw.gov.au/Details/C2012C00058/Html/6336712a-a582-47e8-b4a6-6be3aaf235c9_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00974/Html/8ca1bce1-1471-4989-b9a7-e7ac23773219_files/image002.gif)
 
 # Contents
 
@@ -228,7 +228,8 @@ The list of Acts cited above is not exhaustive. Other Acts may also affect the o
 
     **Division 2—Grounds for opposing registration**
 
-[57](#57).          Registration may be opposed on same grounds as for rejection
+[57](#57).          Registration may be opposed on same grounds as for 
+ rejection
 
 [58](#58).          Applicant not owner of trade mark
 
@@ -780,7 +781,7 @@ The list of Acts cited above is not exhaustive. Other Acts may also affect the o
 
 **Notes** 
 
-**List of terms defined in section 6**
+List of terms defined in section 6 
 
 <table>
 <colgroup>
@@ -1119,7 +1120,7 @@ Note:          The text of the WTO Agreement is set out in Aus
 
                      (b)  if the relevant subsequent month has no day with the same number—on the last day of the month.
 
-Note:          For example, a period of 3 months from an event on 30 September ends on 30 December under this rule.
+Note:          This provision displaces section 36 of the _Acts Interpretation Act 1901_, and is in accordance with the Madrid Protocol. The difference between the two occurs when the initiating event is on the last day of a calendar month, which has fewer days than the month in which the period ends. For example, a period of 3 months from an event on 30 September ends on 30 December under this rule; it would end on 31 December under the _Acts Interpretation Act 1901_ provision.
 
 ##### <a id="7"></a>7  Use of trade mark
 
@@ -2419,7 +2420,7 @@ Note:          For **_registered owner_** see section 6.
 
 Note:          For **_month_** see section 6.
 
-##### <a id="80G"></a>80G  Renewal within 10 months after end of prescribed period
+##### <a id="80G"></a>80G  Renewal within 10 months after end of prescribed period
 
              (1)  If:
 
@@ -3067,7 +3068,7 @@ Note:          For **_limitations_** see section 6.
 
 ##### <a id="104"></a>104  Appeal
 
-                   An appeal lies to the Federal Court from a decision of the Registrar under section 101 or 102.
+                   An appeal lies to the Federal Court from a decision of the Registrar under section 101 or 102.
 
 ##### <a id="105"></a>105  Certificate—use of trade mark
 
@@ -3291,7 +3292,7 @@ Note 4:       In addition, the regulations may provide for the effec
 
              (4)  In deciding, for the purposes of paragraph (3)(a), whether a trade mark is **_well known in Australia_**, one must take account of the extent to which the trade mark is known within the relevant sector of the public, whether as a result of the promotion of the trade mark or for any other reason.
 
-##### <a id="121"></a>121  Infringement of trade mark by breach of certain restrictions
+##### <a id="121"></a>121  Infringement of trade mark by breach of certain restrictions
 
              (1)  This section applies to a registered trade mark if the registered owner, or an authorised user of the trade mark having power to do so, has caused to be displayed on goods (**_registered goods_**) in respect of which the trade mark is registered, or on their package, or on the container in which they are offered to the public, a notice (**_notice of prohibition_**) prohibiting any act that is under subsection (2) a prohibited act in relation to the goods.
 
@@ -4013,7 +4014,7 @@ Note:          For **_use of a trade mark in relation to goods
 
 ##### <a id="152"></a>152  False entries in Register etc.
 
-                   A person must not intentionally:
+                   A person must not intentionally:
 
                      (a)  make a false entry in the Register; or
 
@@ -4897,7 +4898,7 @@ is the address set out from time to time in the Register as being the address fo
 
              (7)  Subsection (6) does not affect the operation of section 28A of the _Acts Interpretation Act 1901_.
 
-Note:          Subsection 28A(1) of the _Acts Interpretation Act 1901_ provides that a document may be served (this term includes given, or sent, to): 
+Note:          Section 28A of the _Acts Interpretation Act 1901_ provides that a document may be served (this term includes given, or sent, to): 
 
 “(a)   on a natural person: 
 
@@ -5567,7 +5568,7 @@ Note:          For **_pending_** see subsection 11(1).
 
 the applications are called linked applications in this section.
 
-             (2)  This section applies if, immediately before  1 January 1996, a number of linked applications for the registration of a trade mark were pending and had not been accepted.
+             (2)  This section applies if, immediately before 1 January 1996, a number of linked applications for the registration of a trade mark were pending and had not been accepted.
 
 Note:          For **_pending_** see subsection 11(2).
 
@@ -5901,11 +5902,11 @@ The _Trade Marks Act 1995_ was modified by the _Trade Marks Regulations 1995_ (1
 
 <table>
 <colgroup>
-  <col width="30%">
+  <col width="31%">
   <col width="16%">
-  <col width="17%">
-  <col width="21%">
-  <col width="15%">
+  <col width="18%">
+  <col width="22%">
+  <col width="14%">
 </colgroup>
 
 <thead>
@@ -6119,7 +6120,7 @@ Schedule 16 (item 2): <i>(e)</i>
 Schedule 16 (item 3): 5 Dec 1999 ( <i>see</i>s. 2(1))</div>
   </td>
   <td>
-    <div>Sch. 1 (items 2, 9), Sch. 2 (item 2), Sch. 3 (items 2, 5, 9, 11, 14, 16), Sch. 4 (items 2, 4), Sch. 11 (item 4) and Sch. 13 (item 2)</div>
+    <div>Sch. 1 (items 2, 9), Sch. 2 (item 2), Sch. 3 (items 2, 5, 9, 11, 14, 16), Sch. 4 (items 2, 4), Sch. 11 (item 4) and Sch. 13 (item 2)</div>
   </td>
 </tr>
 <tr>
@@ -6185,7 +6186,7 @@ Remainder: Royal Assent</div>
     <div>6 July 2010</div>
   </td>
   <td>
-    <div>Schedule 3 (item 30): \[ <i>see</i> <i>(f)</i>and Note 3]</div>
+    <div>Schedule 3 (item 30): \[ <i>see</i> <i>(f)</i>and Note 3]</div>
   </td>
   <td>
     <div>—</div>
@@ -6202,10 +6203,10 @@ Remainder: Royal Assent</div>
     <div>6 July 2010</div>
   </td>
   <td>
-    <div>Schedule 1 (items 70–76, 81, 82): 1 Sept 2010 ( <i>see</i>F2010L02117)</div>
+    <div>Schedule 1 (items 70–76, 81, 82): 1 Sept 2010 ( <i>see</i>F2010L02117)</div>
   </td>
   <td>
-    <div>Sch. 1 (items 81, 82)</div>
+    <div>Sch. 1 (items 81, 82)</div>
   </td>
 </tr>
 <tr>
@@ -6236,10 +6237,10 @@ Remainder: Royal Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 1163, 1164) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 1163, 1164) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 4 and Table A]</div>
   </td>
   <td>
-    <div>Sch. 3 (items 10, 11)</div>
+    <div>Sch. 3 (items 10, 11)</div>
   </td>
 </tr>
 <tr>
@@ -6253,8 +6254,7 @@ Remainder: Royal Assent</div>
     <div>1 Dec 2011</div>
   </td>
   <td>
-    <div>Schedule 1: 1 Dec 2011 ( <i>see</i>s. 2(1)) 
-Remainder: Royal Assent</div>
+    <div>Schedule 1: 1 Dec 2011 ( <i>see</i>s. 2(1)) Remainder: Royal Assent</div>
   </td>
   <td>
     <div>—</div>
@@ -6505,14 +6505,6 @@ _(f)_      Subsection 2(1) (item 19) of the _Personal Property Securit
   </td>
   <td>
     <div>ad. No. 114, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 6A</div>
-  </td>
-  <td>
-    <div>rs. No. 46, 2011</div>
   </td>
 </tr>
 <tr>
@@ -8019,14 +8011,6 @@ Relocated from s. 155(2)</div>
 </tr>
 <tr>
   <td>
-    <div>Note to s. 215(7)</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 217A</div>
   </td>
   <td>
@@ -8335,7 +8319,7 @@ Note 1:       For **_PPSA security interest_** see section 6.
 
 Note 2:       Certain particulars relating to registrations in respect of PPSA security interests under the _Personal Property Securities Act 2009_ are admissible in evidence: see section 174 of that Act.
 
-As at 27 December 2011 the amendments are not incorporated in this compilation.
+As at 21 December 2011 the amendments are not incorporated in this compilation.
 
 ### Note 3
 
@@ -8363,7 +8347,27 @@ Note 2:       For the meaning of **_transitional security interest_*
 
 _Note:       This amendment replaces the definition inserted by item 18 of Schedule 2 to the Personal Property Securities (Consequential Amendments) Act 2009._
 
-As at 27 December 2011 the amendment is not incorporated in this compilation.
+As at 21 December 2011 the amendment is not incorporated in this compilation.
+
+### Note 4
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 1163  Section 6A (note)
+
+Repeal the note, substitute:
+
+Note:          For example, a period of 3 months from an event on 30 September ends on 30 December under this rule.
+
+## 1164  Subsection 215(7) (note)
+
+Omit “Section 28A”, substitute “Subsection 28A(1)”.
+
+As at 21 December 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -8526,7 +8530,7 @@ Section 226A of the _Trade Marks Act 1995_ applies in relation to information in
 
 ## Schedule 11
 
-## 4  Application
+## 4  Application
 
 The amendment of the _Trade Marks Act 1995_ made by this Schedule applies in relation to applications filed after the commencement of the amendment.
 
@@ -8701,6 +8705,8 @@ The amendment made by item 76 of this Schedule applies in relation to trade ma
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
