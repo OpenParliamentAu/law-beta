@@ -1,17 +1,14 @@
-![](http://www.comlaw.gov.au/Details/C2004C02668/Html/CharterUN45_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C02667/Html/CharterUN45_image001.gif)
 
 # Charter of the United Nations Act 1945
 
 **Act No. 32 of 1945 as amended**
 
-This compilation was prepared on 13 December 2002
+This compilation was prepared on 1 August 2002
  taking into account amendments up to Act No. 66 of 2002
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
-
-The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting,
  Attorney-General’s Department, Canberra
@@ -40,11 +37,11 @@ Prepared by the Office of Legislative Drafting,
 
 [7](#7).            Regulations may have extra-territorial effect                                       3
 
-[8](#8).            Regulations expire when sanctions resolution ceases to bind Australia  3
+[8](#8).            Regulations expire when sanctions resolution ceases to bind Australia       3
 
-[9](#9).            Effect of regulations on earlier Commonwealth Acts and on State and Territory laws           4
+[9](#9).            Effect of regulations on earlier Commonwealth Acts and on State and Territory laws         4
 
-[10](#10).          Later Acts not to be interpreted as overriding this Part or the regulations              4
+[10](#10).          Later Acts not to be interpreted as overriding this Part or the regulations  4
 
 [11](#11).          Other instruments giving effect to Security Council decisions            4
 
@@ -54,41 +51,9 @@ Prepared by the Office of Legislative Drafting,
 
 [13](#13).          Injunctions                                                                                           5
 
-**Part 4—Offences to give effect to Security Council decisions**
-
-[14](#14).          Definitions                                                                                           7
-
-[15](#15).          Listing persons, entities and assets                                                     7
-
-[16](#16).          Minister may revoke the listing                                                           8
-
-[17](#17).          Listed person or entity may apply to have the listing revoked          9
-
-[18](#18).          Proscription by regulation                                                                   9
-
-[19](#19).          Effect of resolution ceasing to bind Australia                                    10
-
-[20](#20).          Offence—dealing with freezable assets                                             10
-
-[21](#21).          Offence—giving an asset to a proscribed person or entity               11
-
-[22](#22).          Authorised dealings                                                                           11
-
-[22A](#22A).                     12
-
-[23](#23).          Part prevails over conflicting legal obligations                                   12
-
-[24](#24).          Indemnity for holder of assets                                                           12
-
-[25](#25).          Compensation for persons wrongly affected                                    13
-
-[26](#26).          Injunctions                                                                                         13
-
 **The Schedule—Charter of the United Nations** 
 
 **Notes** 
-
- 
 
 ## An Act to approve the Charter of the United Nations, and to enable Australia to apply sanctions giving effect to certain decisions of the Security Council
 
@@ -212,248 +177,6 @@ Note:          Articles 39 and 41 of the Charter provide for t
 
                     <a name="superior-court"></a>**_superior court_** means the Federal Court of Australia or the Supreme Court of a State or Territory.
 
-## Part 4—Offences to give effect to Security Council decisions
-
-##### <a id="14"></a>14  Definitions
-
-                   In this Part:
-
-                    <a name="asset"></a>**_asset_** means:
-
-                     (a)  an asset of any kind or property of any kind, whether tangible or intangible, movable or immovable, however acquired; and
-
-                     (b)  a legal document or instrument in any form, including electronic or digital, evidencing title to, or interest in, such an asset or such property, including, but not limited to, bank credits, travellers cheques, bank cheques, money orders, shares, securities, bonds, debt instruments, drafts and letters of credit.
-
-                    <a name="freezabl-asset"></a>**_freezable asset_** means an asset that:
-
-                     (a)  is owned or controlled by a proscribed person or entity; or
-
-                     (b)  is a listed asset; or
-
-                     (c)  is derived or generated from assets mentioned in paragraph (a) or (b).
-
-                    <a name="list-asset"></a>**_listed asset_** means an asset listed by the Minister under section 15.
-
-                    <a name="proscrib-person-entiti"></a>**_proscribed person or entity_** means:
-
-                     (a)  a person or entity listed by the Minister under section 15; or
-
-                     (b)  a person or entity proscribed by regulation under section 18.
-
-                    <a name="superior-court"></a>**_superior court_** means the Federal Court of Australia or the Supreme Court of a State or Territory.
-
-##### <a id="15"></a>15  Listing persons, entities and assets
-
-             (1)  The Minister must list a person or entity under this section if the Minister is satisfied of the prescribed matters.
-
-             (2)  The Governor-General may make regulations prescribing the matters of which the Minister must be satisfied before listing a person or entity under subsection (1).
-
-             (3)  The Minister may list an asset, or class of asset, under this section if the Minister is satisfied of the prescribed matters.
-
-             (4)  The Governor-General may make regulations prescribing the matters of which the Minister must be satisfied before listing an asset under subsection (3).
-
-             (5)  A matter must not be prescribed under subsection (2) or (4) unless the prescription of the matter would give effect to a decision that:
-
-                     (a)  the Security Council has made under Chapter VII of the Charter of the United Nations; and
-
-                     (b)  Article 25 of the Charter requires Australia to carry out; and
-
-                     (c)  relates to terrorism and dealings with assets.
-
-             (6)  A person or entity is listed by notice in the _Gazette_.
-
-             (7)  An asset or class of asset is listed by notice in the _Gazette_.
-
-##### <a id="16"></a>16  Minister may revoke the listing
-
-             (1)  The Minister may revoke a listing under section 15 if the Minister is satisfied that the listing is no longer necessary to give effect to a decision that:
-
-                     (a)  the Security Council has made under Chapter VII of the Charter of the United Nations; and
-
-                     (b)  Article 25 of the Charter requires Australia to carry out; and
-
-                     (c)  relates to terrorism and dealings with assets.
-
-             (2)  The Minister may revoke the listing either at the Minister’s own instigation or on application by the listed person or entity.
-
-             (3)  The listing is revoked by notice in the _Gazette_.
-
-             (4)  The listing is revoked at the start of the day immediately after the day on which notice is published in the _Gazette_.
-
-##### <a id="17"></a>17  Listed person or entity may apply to have the listing revoked
-
-             (1)  A listed person or entity may apply to the Minister to have the listing revoked.
-
-             (2)  The application must:
-
-                     (a)  be in writing; and
-
-                     (b)  set out the circumstances relied upon to justify the application.
-
-             (3)  The Minister is not required to consider an application (the **_current application_**) by a listed person or entity under this section if the listed person or entity has made an application under this section within one year before the current application _._
-
-##### <a id="18"></a>18  Proscription by regulation
-
-             (1)  The Governor-General may make regulations proscribing persons or entities under this section.
-
-             (2)  A person or entity must not be proscribed under subsection (1) unless the proscription would give effect to a decision:
-
-                     (a)  that the Security Council has made under Chapter VII of the Charter of the United Nations; and
-
-                     (b)  that Article 25 of the Charter requires Australia to carry out; and
-
-                     (c)  that relates to terrorism and dealings with assets; and
-
-                     (d)  under which the person or entity is identified (whether in the decision or using a mechanism established under the decision) as a person or entity to which the decision relates.
-
-             (3)  The regulations may proscribe persons or entities under this section by incorporating a list of persons or entities identified, either in the decision itself or using a mechanism established under the decision, as persons or entities to which the decision relates. The list may be incorporated by the regulations as it exists from time to time.
-
-##### <a id="19"></a>19  Effect of resolution ceasing to bind Australia
-
-             (1)  In so far as a listing under section 15 gives effect to a particular decision of the Security Council, the listing is revoked when Article 25 of the Charter of the United Nations ceases to require Australia to carry out that decision.
-
-             (2)  In so far as regulations proscribing a person or entity under section 18 give effect to a particular decision of the Security Council:
-
-                     (a)  the regulations cease to have effect when Article 25 of the Charter of the United Nations ceases to require Australia to carry out that decision; and
-
-                     (b)  they do not revive, even if Australia again becomes required to carry out the decision.
-
-             (3)  However, to avoid doubt, nothing in this section prevents:
-
-                     (a)  the revocation, under section 16, of a listing; or
-
-                     (b)  the repeal of regulations; or
-
-                     (c)  the making of regulations that are the same in substance as regulations that have ceased to have effect because of this section.
-
-##### <a id="20"></a>20  Offence—dealing with freezable assets
-
-             (1)  A person commits an offence if:
-
-                     (a)  the person holds an asset; and
-
-                     (b)  the person:
-
-                              (i)  uses or deals with the asset; or
-
-                             (ii)  allows the asset to be used or dealt with; or
-
-                            (iii)  facilitates the use of the asset or dealing with the asset; and
-
-                     (c)  the asset is a freezable asset; and
-
-                     (d)  the use or dealing is not in accordance with a notice under section 22.
-
-                    Penalty:  Imprisonment for 5 years.
-
-             (2)  Strict liability applies to the circumstance that the use or dealing with the asset is not in accordance with a notice under section 22.
-
-             (3)  It is a defence if the person proves that the use or dealing was solely for the purpose of preserving the value of the asset.
-
-             (4)  Section 15.1 of the _Criminal Code_ (extended geographical jurisdiction—category A) applies to an offence against subsection (1).
-
-##### <a id="21"></a>21  Offence—giving an asset to a proscribed person or entity
-
-             (1)  A person commits an offence if:
-
-                     (a)  the person, directly or indirectly, makes an asset available to a person or entity; and
-
-                     (b)  the person or entity to whom the asset is made available is a proscribed person or entity; and
-
-                     (c)  the making available of the asset is not in accordance with a notice under section 22.
-
-                    Penalty:  Imprisonment for 5 years.
-
-             (2)  Strict liability applies to the circumstance that the making available of the asset is not in accordance with a notice under section 22.
-
-             (3)  Section 15.1 of the _Criminal Code_ (extended geographical jurisdiction—category A) applies to an offence against subsection (1).
-
-##### <a id="22"></a>22  Authorised dealings
-
-             (1)  The owner of a freezable asset may apply in writing to the Minister for permission to use or deal with the asset in a specified way.
-
-             (2)  The owner of an asset may apply in writing to the Minister for permission to make the asset available to a proscribed person or entity specified in the application.
-
-             (3)  The Minister may, by written notice:
-
-                     (a)  permit a freezable asset specified in the notice to be used or dealt with in a specified way; or
-
-                     (b)  permit an asset specified in the notice to be made available to a proscribed person or entity specified in the notice.
-
-             (4)  The notice may be subject to conditions.
-
-             (5)  The notice must be given to the owner of the asset as soon as practicable after it is made.
-
-             (6)  The Minister may delegate the Minister’s powers and functions under this section to:
-
-                     (a)  the Secretary of the Department; or
-
-                     (b)  an SES employee, or acting SES employee, in the Department.
-
-The delegation must be in writing.
-
-             (7)  The delegate must comply with any directions of the Minister in exercising powers or functions under the delegation.
-
-##### <a id="22A"></a>22A  Regulations on procedures relating to freezable assets
-
-             (1)  The Governor-General may make regulations relating to procedures relating to assets that are, may be or may become freezable assets.
-
-             (2)  The regulations may provide for procedures relating to information (including personal information) relating to such assets in circumstances involving:
-
-                     (a)  a listing, or proposed listing, of a person, entity, asset or class of asset under section 15; or
-
-                     (b)  a question whether an asset is or may become a freezable asset; or
-
-                     (c)  an application for, or grant of, permission under section 22.
-
-             (3)  Subsection (2) does not limit subsection (1).
-
-##### <a id="23"></a>23  Part prevails over conflicting legal obligations
-
-                   This Part prevails over provisions in laws of the Commonwealth, or of a State or Territory, that would otherwise require a person to act in contravention of this Part.
-
-##### <a id="24"></a>24  Indemnity for holder of assets
-
-                   A person is not liable to an action, suit or proceeding for anything done or omitted to be done  in good faith and without negligence in compliance or purported compliance with this Part.
-
-##### <a id="25"></a>25  Compensation for persons wrongly affected
-
-                   If:
-
-                     (a)  the owner or controller of an asset instructs a person holding the asset to use or deal with it; and
-
-                     (b)  the holder refuses to comply with the instruction; and
-
-                     (c)  the refusal was in good faith, and without negligence, in purported compliance with this Part; and
-
-                     (d)  the asset was not a freezable asset; and
-
-                     (e)  the owner of the asset suffered loss as a result of the refusal;
-
-the owner of the asset is entitled to be compensated by the Commonwealth for that loss.
-
-##### <a id="26"></a>26  Injunctions
-
-             (1)  If a person has engaged, is engaging, or proposes to engage, in conduct involving a contravention of this Part, a superior court may by order grant an injunction restraining the person from engaging in conduct specified in the order.
-
-             (2)  An injunction may only be granted on application by the Attorney-General.
-
-             (3)  On an application, the court may, if it thinks it appropriate, grant an injunction by consent of all parties to the proceedings, whether or not the court is satisfied that subsection (1) applies.
-
-             (4)  A superior court may, if it thinks it desirable, grant an interim injunction pending its determination of an application.
-
-             (5)  A court is not to require the Attorney-General or anyone else, as a condition of granting an interim injunction, to give an undertaking as to damages.
-
-             (6)  A court may discharge or vary an injunction it has granted.
-
-             (7)  The power to grant or vary an injunction restraining a person from engaging in conduct may be exercised:
-
-                     (a)  whether or not it appears to the court that the person intends to engage again, or to continue to engage, in such conduct; and
-
-                     (b)  whether or not the person has previously engaged in such conduct.
-
- 
-
 # The Schedule—Charter of the United Nations
 
 WE THE PEOPLES OF THE UNITED NATIONS
@@ -488,31 +211,31 @@ _Article 1_
 
 The Purposes of the United Nations are:
 
-1.     To maintain international peace and security, and to that end: to take effective collective measures for the prevention and removal of threats to the peace, and for the suppression of acts of aggression or other breaches of the peace, and to bring about by peaceful means, and in conformity with the principles of justice and international law, adjustment or settlement of international disputes or situations which might lead to a breach of the peace;
+1.  To maintain international peace and security, and to that end: to take effective collective measures for the prevention and removal of threats to the peace, and for the suppression of acts of aggression or other breaches of the peace, and to bring about by peaceful means, and in conformity with the principles of justice and international law, adjustment or settlement of international disputes or situations which might lead to a breach of the peace;
 
-2.     To develop friendly relations among nations based on respect for the principle of equal rights and self-determination of peoples, and to take other appropriate measures to strengthen universal peace;
+2.  To develop friendly relations among nations based on respect for the principle of equal rights and self-determination of peoples, and to take other appropriate measures to strengthen universal peace;
 
-3.     To achieve international cooperation in solving international problems of an economic, social, cultural, or humanitarian character, and in promoting and encouraging respect for human rights and for fundamental freedoms for all without distinction as to race, sex, language, or religion; and
+3.  To achieve international cooperation in solving international problems of an economic, social, cultural, or humanitarian character, and in promoting and encouraging respect for human rights and for fundamental freedoms for all without distinction as to race, sex, language, or religion; and
 
-4.     To be a center for harmonizing the actions of nations in the attainment of these common ends.
+4.  To be a center for harmonizing the actions of nations in the attainment of these common ends.
 
 _Article 2_
 
 The Organization and its Members, in pursuit of the Purposes stated in Article 1, shall act in accordance with the following Principles.
 
-1.     The Organization is based on the principle of the sovereign equality of all its Members.
+1.  The Organization is based on the principle of the sovereign equality of all its Members.
 
-2.     All Members, in order to ensure to all of them the rights and benefits resulting from membership, shall fulfil in good faith the obligations assumed by them in accordance with the present Charter.
+2.  All Members, in order to ensure to all of them the rights and benefits resulting from membership, shall fulfil in good faith the obligations assumed by them in accordance with the present Charter.
 
-3.     All Members shall settle their international disputes by peaceful means in such a manner that international peace and security, and justice, are not endangered.
+3.  All Members shall settle their international disputes by peaceful means in such a manner that international peace and security, and justice, are not endangered.
 
-4.     All Members shall refrain in their international relations from the threat or use of force against the territorial integrity or political independence of any state, or in any other manner inconsistent with the Purposes of the United Nations.
+4.  All Members shall refrain in their international relations from the threat or use of force against the territorial integrity or political independence of any state, or in any other manner inconsistent with the Purposes of the United Nations.
 
-5.     All Members shall give the United Nations every assistance in any action it takes in accordance with the present Charter, and shall refrain from giving assistance to any State against which the United Nations is taking preventive or enforcement action.
+5.  All Members shall give the United Nations every assistance in any action it takes in accordance with the present Charter, and shall refrain from giving assistance to any State against which the United Nations is taking preventive or enforcement action.
 
-6.     The Organization shall ensure that states which are not members of the United Nations act in accordance with these Principles so far as may be necessary for the maintenance of international peace and security.
+6.  The Organization shall ensure that states which are not members of the United Nations act in accordance with these Principles so far as may be necessary for the maintenance of international peace and security.
 
-7.     Nothing contained in the present Charter shall authorize the United Nations to intervene in matters which are essentially within the domestic jurisdiction of any state or shall require the Members to submit such matters to settlement under the present Charter; but this principle shall not prejudice the application of enforcement measures under Chapter VII.
+7.  Nothing contained in the present Charter shall authorize the United Nations to intervene in matters which are essentially within the domestic jurisdiction of any state or shall require the Members to submit such matters to settlement under the present Charter; but this principle shall not prejudice the application of enforcement measures under Chapter VII.
 
 CHAPTER II
 
@@ -524,9 +247,9 @@ The original Members of the United Nations shall be the states which having part
 
 _Article 4_
 
- 1.    Membership in the United Nations is open to all other peace-loving states which accept the obligations contained in the present Charter and, in the judgment of the Organization, are able and willing to carry out these obligations.
+ 1\. Membership in the United Nations is open to all other peace-loving states which accept the obligations contained in the present Charter and, in the judgment of the Organization, are able and willing to carry out these obligations.
 
-2.     The admission of any such state to membership in the United Nations will be effected by a decision of the General Assembly upon the recommendation of the Security Council.
+2.  The admission of any such state to membership in the United Nations will be effected by a decision of the General Assembly upon the recommendation of the Security Council.
 
 _Article 5_
 
@@ -542,9 +265,9 @@ ORGANS
 
 _Article 7_
 
-1.     There are established as the principal organs of the United Nations: a General Assembly, a Security Council, an Economic and Social Council, a Trusteeship Council, an International Court of Justice, and a Secretariat.
+1.  There are established as the principal organs of the United Nations: a General Assembly, a Security Council, an Economic and Social Council, a Trusteeship Council, an International Court of Justice, and a Secretariat.
 
-2.     Such subsidiary organs as may be found necessary may be established in accordance with the present Charter.
+2.  Such subsidiary organs as may be found necessary may be established in accordance with the present Charter.
 
 _Article 8_
 
@@ -558,9 +281,9 @@ _Composition_
 
 _Article 9_
 
-1.     The General Assembly shall consist of all the Members of the United Nations.
+1.  The General Assembly shall consist of all the Members of the United Nations.
 
-2.     Each Member shall have not more than five representatives in the General Assembly.
+2.  Each Member shall have not more than five representatives in the General Assembly.
 
 _Functions and Powers_
 
@@ -570,29 +293,29 @@ The General Assembly may discuss any questions or any matters within the scope o
 
 _Article 11_
 
-1.     The General Assembly may consider the general principles of cooperation in the maintenance of international peace and security, including the principles governing disarmament and the regulation of armaments, and may make recommendations with regard to such principles to the Members or to the Security Council or to both.
+1.  The General Assembly may consider the general principles of cooperation in the maintenance of international peace and security, including the principles governing disarmament and the regulation of armaments, and may make recommendations with regard to such principles to the Members or to the Security Council or to both.
 
-2.     The General Assembly may discuss any questions relating to the maintenance of international peace and security brought before it by any Member of the United Nations, or by the Security Council, or by a state which is not a Member of the United Nations in accordance with Article 35, paragraph 2, and, except as provided in Article 12, may make recommendations with regard to any such questions to the state or states concerned or to the Security Council or to both. Any such question on which action is necessary shall be referred to the Security Council by the General Assembly either before or after discussion.
+2.  The General Assembly may discuss any questions relating to the maintenance of international peace and security brought before it by any Member of the United Nations, or by the Security Council, or by a state which is not a Member of the United Nations in accordance with Article 35, paragraph 2, and, except as provided in Article 12, may make recommendations with regard to any such questions to the state or states concerned or to the Security Council or to both. Any such question on which action is necessary shall be referred to the Security Council by the General Assembly either before or after discussion.
 
-3.     The General Assembly may call the attention of the Security Council to situations which are likely to endanger international peace and security.
+3.  The General Assembly may call the attention of the Security Council to situations which are likely to endanger international peace and security.
 
-4.     The powers of the General Assembly set forth in this Article shall not limit the general scope of Article 10.
+4.  The powers of the General Assembly set forth in this Article shall not limit the general scope of Article 10.
 
 _Article 12_
 
-1.     While the Security Council is exercising in respect of any dispute or situation the functions assigned to it in the present Charter, the General Assembly shall not make any recommendation with regard to that dispute or situation unless the Security Council so requests.
+1.  While the Security Council is exercising in respect of any dispute or situation the functions assigned to it in the present Charter, the General Assembly shall not make any recommendation with regard to that dispute or situation unless the Security Council so requests.
 
-2.     The Secretary-General, with the consent of the Security Council, shall notify the General Assembly at each session of any matters relative to the maintenance of international peace and security which are being dealt with by the Security Council and shall similarly notify the General Assembly, or the Members of the United Nations if the General Assembly is not in session, immediately the Security Council ceases to deal with such matters.
+2.  The Secretary-General, with the consent of the Security Council, shall notify the General Assembly at each session of any matters relative to the maintenance of international peace and security which are being dealt with by the Security Council and shall similarly notify the General Assembly, or the Members of the United Nations if the General Assembly is not in session, immediately the Security Council ceases to deal with such matters.
 
 _Article 13_
 
-1.     The General Assembly shall initiate studies and make recommendations for the purpose of:
+1.  The General Assembly shall initiate studies and make recommendations for the purpose of:
 
 (a)   promoting international cooperation in the political field and encouraging the progressive development of international law and its codification;
 
 (b)   promoting international cooperation in the economic, social, cultural, educational, and health fields, and assisting in the realization of human rights and fundamental freedoms for all without distinction as to race, sex, language, or religion.
 
-2.     The further responsibilities, functions, and powers of the General Assembly with respect to matters mentioned in paragraph 1 (b) above are set forth in Chapters IX and X.
+2.  The further responsibilities, functions, and powers of the General Assembly with respect to matters mentioned in paragraph 1 (b) above are set forth in Chapters IX and X.
 
 _Article 14_
 
@@ -600,9 +323,9 @@ Subject to the provisions of Article 12, the General Assembly may recommend meas
 
 _Article 15_
 
-1.     The General Assembly shall receive and consider annual and special reports from the Security Council; these reports shall include an account of the measures that the Security Council has decided upon or taken to maintain international peace and security.
+1.  The General Assembly shall receive and consider annual and special reports from the Security Council; these reports shall include an account of the measures that the Security Council has decided upon or taken to maintain international peace and security.
 
-2.     The General Assembly shall receive and consider reports from the other organs of the United Nations.
+2.  The General Assembly shall receive and consider reports from the other organs of the United Nations.
 
 _Article 16_
 
@@ -610,21 +333,21 @@ The General Assembly shall perform such functions with respect to the internatio
 
 _Article 17_
 
-1.     The General Assembly shall consider and approve the budget of the Organization.
+1.  The General Assembly shall consider and approve the budget of the Organization.
 
-2.     The expenses of the Organization shall be borne by the Members as apportioned by the General Assembly.
+2.  The expenses of the Organization shall be borne by the Members as apportioned by the General Assembly.
 
-3.     The General Assembly shall consider and approve any financial and budgetary arrangements with specialized agencies referred to in Article 57 and shall examine the administrative budgets of such specialized agencies with a view to making recommendations to the agencies concerned.
+3.  The General Assembly shall consider and approve any financial and budgetary arrangements with specialized agencies referred to in Article 57 and shall examine the administrative budgets of such specialized agencies with a view to making recommendations to the agencies concerned.
 
 _Voting_
 
 _Article 18_
 
-1.     Each member of the General Assembly shall have one vote.
+1.  Each member of the General Assembly shall have one vote.
 
-2.     Decisions of the General Assembly on important questions shall be made by a two-thirds majority of the members present and voting. These questions shall include: recommendations with respect to the maintenance of international peace and security, the election of the non-permanent members of the Security Council, the election of the members of the Economic and Social Council, the election of members of the Trusteeship Council in accordance with paragraph 1 (c) of Article 86, the admission of new Members to the United Nations, the suspension of the rights and privileges of membership, the expulsion of Members, questions relating to the operation of the trusteeship system, and budgetary questions.
+2.  Decisions of the General Assembly on important questions shall be made by a two-thirds majority of the members present and voting. These questions shall include: recommendations with respect to the maintenance of international peace and security, the election of the non-permanent members of the Security Council, the election of the members of the Economic and Social Council, the election of members of the Trusteeship Council in accordance with paragraph 1 (c) of Article 86, the admission of new Members to the United Nations, the suspension of the rights and privileges of membership, the expulsion of Members, questions relating to the operation of the trusteeship system, and budgetary questions.
 
-3.     Decisions on other questions, including the determination of additional categories of questions to be decided by a two-thirds majority, shall be made by a majority of the members present and voting.
+3.  Decisions on other questions, including the determination of additional categories of questions to be decided by a two-thirds majority, shall be made by a majority of the members present and voting.
 
 _Article 19_
 
@@ -652,21 +375,21 @@ _Composition_
 
 _Article 23_ [_see_ Note 2]
 
-1.     The Security Council shall consist of eleven Members of the United Nations. The Republic of China, France, the Union of Soviet Socialist Republics, the United Kingdom of Great Britain and Northern Ireland, and the United States of America shall be permanent members of the Security Council. The General Assembly shall elect six other Members of the United Nations to be non-permanent members of the Security Council, due regard being specially paid, in the first instance to the contribution of Members of the United Nations to the maintenance of international peace and security and to the other purposes of the Organization, and also to equitable geographical distribution.
+1.  The Security Council shall consist of eleven Members of the United Nations. The Republic of China, France, the Union of Soviet Socialist Republics, the United Kingdom of Great Britain and Northern Ireland, and the United States of America shall be permanent members of the Security Council. The General Assembly shall elect six other Members of the United Nations to be non-permanent members of the Security Council, due regard being specially paid, in the first instance to the contribution of Members of the United Nations to the maintenance of international peace and security and to the other purposes of the Organization, and also to equitable geographical distribution.
 
-2.     The non-permanent members of the Security Council shall be elected for a term of two years. In the first election of the non-permanent members, however, three shall be chosen for a term of one year. A retiring member shall not be eligible for immediate re-election.
+2.  The non-permanent members of the Security Council shall be elected for a term of two years. In the first election of the non-permanent members, however, three shall be chosen for a term of one year. A retiring member shall not be eligible for immediate re-election.
 
-3.     Each member of the Security Council shall have one representative.
+3.  Each member of the Security Council shall have one representative.
 
 _Functions and Powers_
 
 _Article 24_
 
-1.     In order to ensure prompt and effective action by the United Nations, its Members confer on the Security Council primary responsibility for the maintenance of international peace and security, and agree that in carrying out its duties under this responsibility the Security Council acts on their behalf.
+1.  In order to ensure prompt and effective action by the United Nations, its Members confer on the Security Council primary responsibility for the maintenance of international peace and security, and agree that in carrying out its duties under this responsibility the Security Council acts on their behalf.
 
-2.     In discharging these duties the Security Council shall act in accordance with the Purposes and Principles of the United Nations. The specific powers granted to the Security Council for the discharge of these duties are laid down in Chapters VI, VII, VIII, and XII.
+2.  In discharging these duties the Security Council shall act in accordance with the Purposes and Principles of the United Nations. The specific powers granted to the Security Council for the discharge of these duties are laid down in Chapters VI, VII, VIII, and XII.
 
-3.     The Security Council shall submit annual and, when necessary, special reports to the General Assembly for its consideration.
+3.  The Security Council shall submit annual and, when necessary, special reports to the General Assembly for its consideration.
 
 _Article 25_
 
@@ -680,21 +403,21 @@ _Voting_
 
 _Article 27_[_see_ Note 2]
 
-1.     Each member of the Security Council shall have one vote.
+1.  Each member of the Security Council shall have one vote.
 
-2.     Decisions of the Security Council on procedural matters shall be made by an affirmative vote of seven members.
+2.  Decisions of the Security Council on procedural matters shall be made by an affirmative vote of seven members.
 
-3.     Decisions of the Security Council on all other matters shall be made by an affirmative vote of seven members including the concurring votes of the permanent members; provided that, in decisions under Chapter VI, and under paragraph 3 of Article 52, a party to a dispute shall abstain from voting.
+3.  Decisions of the Security Council on all other matters shall be made by an affirmative vote of seven members including the concurring votes of the permanent members; provided that, in decisions under Chapter VI, and under paragraph 3 of Article 52, a party to a dispute shall abstain from voting.
 
 _Procedure_
 
 _Article 28_
 
-1.     The Security Council shall be so organized as to be able to function continuously. Each member of the Security Council shall for this purpose be represented at all times at the seat of the Organization.
+1.  The Security Council shall be so organized as to be able to function continuously. Each member of the Security Council shall for this purpose be represented at all times at the seat of the Organization.
 
-2.     The Security Council shall hold periodic meetings at which each of its members may, if it so desires, be represented by a member of the government or by some other specially designated representative.
+2.  The Security Council shall hold periodic meetings at which each of its members may, if it so desires, be represented by a member of the government or by some other specially designated representative.
 
-3.     The Security Council may hold meetings at such places other than the seat of the Organization as in its judgment will best facilitate its work.
+3.  The Security Council may hold meetings at such places other than the seat of the Organization as in its judgment will best facilitate its work.
 
 _Article 29_
 
@@ -718,9 +441,9 @@ PACIFIC SETTLEMENT OF DISPUTES
 
 _Article 33_
 
-1.     The parties to any dispute, the continuance of which is likely to endanger the maintenance of international peace and security, shall, first of all, seek a solution by negotiation, enquiry, mediation, conciliation, arbitration, judicial settlement, resort to regional agencies or arrangements, or other peaceful means of their own choice.
+1.  The parties to any dispute, the continuance of which is likely to endanger the maintenance of international peace and security, shall, first of all, seek a solution by negotiation, enquiry, mediation, conciliation, arbitration, judicial settlement, resort to regional agencies or arrangements, or other peaceful means of their own choice.
 
-2.     The Security Council shall, when it deems necessary, call upon the parties to settle their dispute by such means.
+2.  The Security Council shall, when it deems necessary, call upon the parties to settle their dispute by such means.
 
 _Article 34_
 
@@ -728,25 +451,25 @@ The Security Council may investigate any dispute, or any situation which might l
 
 _Article 35_
 
-1.     Any Member of the United Nations may bring any dispute, or any situation of the nature referred to in Article 34, to the attention of the Security Council or of the General Assembly.
+1.  Any Member of the United Nations may bring any dispute, or any situation of the nature referred to in Article 34, to the attention of the Security Council or of the General Assembly.
 
-2.     A state which is not a Member of the United Nations may bring to the attention of the Security Council or of the General Assembly any dispute to which it is a party if it accepts in advance, for the purposes of the dispute, the obligations of pacific settlement provided in the present Charter.
+2.  A state which is not a Member of the United Nations may bring to the attention of the Security Council or of the General Assembly any dispute to which it is a party if it accepts in advance, for the purposes of the dispute, the obligations of pacific settlement provided in the present Charter.
 
-3.     The proceedings of the General Assembly in respect of matters brought to its attention under this Article will be subject to the provisions of Articles 11 and 12.
+3.  The proceedings of the General Assembly in respect of matters brought to its attention under this Article will be subject to the provisions of Articles 11 and 12.
 
 _Article 36_
 
-1.     The Security Council may, at any stage of a dispute of the nature referred to in Article 33 or of a situation of like nature, recommend appropriate procedures or methods of adjustment.
+1.  The Security Council may, at any stage of a dispute of the nature referred to in Article 33 or of a situation of like nature, recommend appropriate procedures or methods of adjustment.
 
-2.     The Security Council should take into consideration any procedures for the settlement of the dispute which have already been adopted by the parties.
+2.  The Security Council should take into consideration any procedures for the settlement of the dispute which have already been adopted by the parties.
 
-3.     In making recommendations under this Article the Security Council should also take into consideration that legal disputes should as a general rule be referred by the parties to the International Court of Justice in accordance with the provisions of the Statute of the Court.
+3.  In making recommendations under this Article the Security Council should also take into consideration that legal disputes should as a general rule be referred by the parties to the International Court of Justice in accordance with the provisions of the Statute of the Court.
 
 _Article 37_
 
-1.     Should the parties to a dispute of the nature referred to in Article 33 fail to settle it by the means indicated in that Article, they shall refer it to the Security Council.
+1.  Should the parties to a dispute of the nature referred to in Article 33 fail to settle it by the means indicated in that Article, they shall refer it to the Security Council.
 
-2.     If the Security Council deems that the continuance of the dispute is in fact likely to endanger the maintenance of international peace and security, it shall decide whether to take action under Article 36 or to recommend such terms of settlement as it may consider appropriate.
+2.  If the Security Council deems that the continuance of the dispute is in fact likely to endanger the maintenance of international peace and security, it shall decide whether to take action under Article 36 or to recommend such terms of settlement as it may consider appropriate.
 
 _Article 38_
 
@@ -774,11 +497,11 @@ Should the Security Council consider that measures provided for in Article 41 wo
 
 _Article 43_
 
-1.     All Members of the United Nations, in order to contribute to the maintenance of international peace and security, undertake to make available to the Security Council, on its call and in accordance with a special agreement or agreements, armed forces, assistance, and facilities, including rights of passage, necessary for the purpose of maintaining international peace and security.
+1.  All Members of the United Nations, in order to contribute to the maintenance of international peace and security, undertake to make available to the Security Council, on its call and in accordance with a special agreement or agreements, armed forces, assistance, and facilities, including rights of passage, necessary for the purpose of maintaining international peace and security.
 
-2.     Such agreement or agreements shall govern the numbers and types of forces, their degree of readiness and general location, and the nature of the facilities and assistance to be provided.
+2.  Such agreement or agreements shall govern the numbers and types of forces, their degree of readiness and general location, and the nature of the facilities and assistance to be provided.
 
-3.     The agreement or agreements shall be negotiated as soon as possible on the initiative of the Security Council. They shall be concluded between the Security Council and Members or between the Security Council and groups of Members and shall be subject to ratification by the signatory states in accordance with their respective constitutional processes.
+3.  The agreement or agreements shall be negotiated as soon as possible on the initiative of the Security Council. They shall be concluded between the Security Council and Members or between the Security Council and groups of Members and shall be subject to ratification by the signatory states in accordance with their respective constitutional processes.
 
 _Article 44_
 
@@ -794,19 +517,19 @@ Plans for the application of armed force shall be made by the Security Council w
 
 _Article 47_
 
-1.     There shall be established a Military Staff Committee to advise and assist the Security Council on all questions relating to the Security Council’s military requirements for the maintenance of international peace and security, the employment and command of forces placed at its disposal, the regulation of armaments, and possible disarmament.
+1.  There shall be established a Military Staff Committee to advise and assist the Security Council on all questions relating to the Security Council’s military requirements for the maintenance of international peace and security, the employment and command of forces placed at its disposal, the regulation of armaments, and possible disarmament.
 
-2.     The Military Staff Committee shall consist of the Chiefs of Staff of the permanent members of the Security Council or their representatives. Any Member of the United Nations not permanently represented on the Committee shall be invited by the Committee to be associated with it when the efficient discharge of the Committee’s responsibilities requires the participation of that Member in its work.
+2.  The Military Staff Committee shall consist of the Chiefs of Staff of the permanent members of the Security Council or their representatives. Any Member of the United Nations not permanently represented on the Committee shall be invited by the Committee to be associated with it when the efficient discharge of the Committee’s responsibilities requires the participation of that Member in its work.
 
-3.     The Military Staff Committee shall be responsible under the Security Council for the strategic direction of any armed forces placed at the disposal of the Security Council. Questions relating to the command of such forces shall be worked out subsequently.
+3.  The Military Staff Committee shall be responsible under the Security Council for the strategic direction of any armed forces placed at the disposal of the Security Council. Questions relating to the command of such forces shall be worked out subsequently.
 
-4.     The Military Staff Committee, with the authorization of the Security Council and after consultation with appropriate regional agencies, may establish regional sub-committees.
+4.  The Military Staff Committee, with the authorization of the Security Council and after consultation with appropriate regional agencies, may establish regional sub-committees.
 
 _Article 48_
 
-1.     The action required to carry out the decisions of the Security Council for the maintenance of international peace and security shall be taken by all the Members of the United Nations or by some of them, as the Security Council may determine.
+1.  The action required to carry out the decisions of the Security Council for the maintenance of international peace and security shall be taken by all the Members of the United Nations or by some of them, as the Security Council may determine.
 
-2.     Such decisions shall be carried out by the Members of the United Nations directly and through their action in the appropriate international agencies of which they are members.
+2.  Such decisions shall be carried out by the Members of the United Nations directly and through their action in the appropriate international agencies of which they are members.
 
 _Article 49_
 
@@ -826,19 +549,19 @@ REGIONAL ARRANGEMENTS
 
 _Article 52_
 
-1.     Nothing in the present Charter precludes the existence of regional arrangements or agencies for dealing with such matters relating to the maintenance of international peace and security as are appropriate for regional action, provided that such arrangements or agencies and their activities are consistent with the Purposes and Principles of the United Nations.
+1.  Nothing in the present Charter precludes the existence of regional arrangements or agencies for dealing with such matters relating to the maintenance of international peace and security as are appropriate for regional action, provided that such arrangements or agencies and their activities are consistent with the Purposes and Principles of the United Nations.
 
-2.     The Members of the United Nations entering into such arrangements or constituting such agencies shall make every effort to achieve pacific settlement of local disputes through such regional arrangements or by such regional agencies before referring them to the Security Council.
+2.  The Members of the United Nations entering into such arrangements or constituting such agencies shall make every effort to achieve pacific settlement of local disputes through such regional arrangements or by such regional agencies before referring them to the Security Council.
 
-3.     The Security Council shall encourage the development of pacific settlement of local disputes through such regional arrangements or by such regional agencies either on the initiative of the States concerned or by reference from the Security Council.
+3.  The Security Council shall encourage the development of pacific settlement of local disputes through such regional arrangements or by such regional agencies either on the initiative of the States concerned or by reference from the Security Council.
 
-4.     This Article in no way impairs the application of Articles 34 and 35.
+4.  This Article in no way impairs the application of Articles 34 and 35.
 
 _Article 53_
 
-1.     The Security Council shall, where appropriate, utilize such regional arrangements or agencies for enforcement action under its authority. But no enforcement action shall be taken under regional arrangements or by regional agencies without the authorization of the Security Council, with the exception of measures against any enemy state, as defined in paragraph 2 of this Article, provided for pursuant to Article 107 or in regional arrangements directed against renewal of aggressive policy on the part of any such state, until such time as the Organization may, on request of the Governments concerned, be charged with the responsibility for preventing further aggression by such a state.
+1.  The Security Council shall, where appropriate, utilize such regional arrangements or agencies for enforcement action under its authority. But no enforcement action shall be taken under regional arrangements or by regional agencies without the authorization of the Security Council, with the exception of measures against any enemy state, as defined in paragraph 2 of this Article, provided for pursuant to Article 107 or in regional arrangements directed against renewal of aggressive policy on the part of any such state, until such time as the Organization may, on request of the Governments concerned, be charged with the responsibility for preventing further aggression by such a state.
 
-2.     The term enemy state as used in paragraph 1 of this Article applies to any state which during the Second World War has been an enemy of any signatory of the present Charter.
+2.  The term enemy state as used in paragraph 1 of this Article applies to any state which during the Second World War has been an enemy of any signatory of the present Charter.
 
 _Article 54_
 
@@ -864,9 +587,9 @@ All Members pledge themselves to take joint and separate action in cooperation w
 
 _Article 57_
 
-1.     The various specialized agencies, established by intergovernmental agreement and having wide international responsibilities, as defined in their basic instruments, in economic, social, cultural, educational, health, and related fields, shall be brought into relationship with the United Nations in accordance with the provisions of Article 63.
+1.  The various specialized agencies, established by intergovernmental agreement and having wide international responsibilities, as defined in their basic instruments, in economic, social, cultural, educational, health, and related fields, shall be brought into relationship with the United Nations in accordance with the provisions of Article 63.
 
-2.     Such agencies thus brought into relationship with the United Nations are hereinafter referred to as specialized agencies.
+2.  Such agencies thus brought into relationship with the United Nations are hereinafter referred to as specialized agencies.
 
 _Article 58_
 
@@ -888,37 +611,37 @@ _Composition_
 
 _Article 61_ [_see_ Note 2]
 
-1.     The Economic and Social Council shall consist of eighteen Members of the United Nations elected by the General Assembly.
+1.  The Economic and Social Council shall consist of eighteen Members of the United Nations elected by the General Assembly.
 
-2.     Subject to the provisions of paragraph 3, six members of the Economic and Social Council shall be elected each year for a term of three years. A retiring member shall be eligible for immediate re-election.
+2.  Subject to the provisions of paragraph 3, six members of the Economic and Social Council shall be elected each year for a term of three years. A retiring member shall be eligible for immediate re-election.
 
-3.     At the first election, eighteen members of the Economic and Social Council shall be chosen. The term of office of six members so chosen shall expire at the end of one year, and of six other members at the end of two years, in accordance with arrangements made by the General Assembly.
+3.  At the first election, eighteen members of the Economic and Social Council shall be chosen. The term of office of six members so chosen shall expire at the end of one year, and of six other members at the end of two years, in accordance with arrangements made by the General Assembly.
 
-4.     Each member of the Economic and Social Council shall have one representative.
+4.  Each member of the Economic and Social Council shall have one representative.
 
 _Functions and Powers_
 
 _Article 62_
 
-1.     The Economic and Social Council may make or initiate studies and reports with respect to international economic, social, cultural, educational, health, and related matters and may make recommendations with respect to any such matters to the General Assembly, to the Members of the United Nations, and to the specialized agencies concerned.
+1.  The Economic and Social Council may make or initiate studies and reports with respect to international economic, social, cultural, educational, health, and related matters and may make recommendations with respect to any such matters to the General Assembly, to the Members of the United Nations, and to the specialized agencies concerned.
 
-2.     It may make recommendations for the purpose of promoting respect for, and observance of, human rights and fundamental freedoms for all.
+2.  It may make recommendations for the purpose of promoting respect for, and observance of, human rights and fundamental freedoms for all.
 
-3.     It may prepare draft conventions for submission to the General Assembly, with respect to matters falling within its competence.
+3.  It may prepare draft conventions for submission to the General Assembly, with respect to matters falling within its competence.
 
-4.     It may call, in accordance with the rules prescribed by the United Nations, international conferences on matters falling within its competence.
+4.  It may call, in accordance with the rules prescribed by the United Nations, international conferences on matters falling within its competence.
 
 _Article 63_
 
-1.     The Economic and Social Council may enter into agreements with any of the agencies referred to in Article 57, defining the terms on which the agency concerned shall be brought into relationship with the United Nations. Such agreements shall be subject to approval by the General Assembly.
+1.  The Economic and Social Council may enter into agreements with any of the agencies referred to in Article 57, defining the terms on which the agency concerned shall be brought into relationship with the United Nations. Such agreements shall be subject to approval by the General Assembly.
 
-2.     It may coordinate the activities of the specialized agencies through consultation with and recommendations to such agencies and through recommendations to the General Assembly and to the Members of the United Nations.
+2.  It may coordinate the activities of the specialized agencies through consultation with and recommendations to such agencies and through recommendations to the General Assembly and to the Members of the United Nations.
 
 _Article 64_
 
-1.     The Economic and Social Council may take appropriate steps to obtain regular reports from the specialized agencies. It may make arrangements with the Members of the United Nations and with the specialized agencies to obtain reports on the steps taken to give effect to its own recommendations and to recommendations on matters falling within its competence made by the General Assembly.
+1.  The Economic and Social Council may take appropriate steps to obtain regular reports from the specialized agencies. It may make arrangements with the Members of the United Nations and with the specialized agencies to obtain reports on the steps taken to give effect to its own recommendations and to recommendations on matters falling within its competence made by the General Assembly.
 
-2.     It may communicate its observations on these reports to the General Assembly.
+2.  It may communicate its observations on these reports to the General Assembly.
 
 _Article 65_
 
@@ -926,19 +649,19 @@ The Economic and Social Council may furnish information to the Security Council 
 
 _Article 66_
 
-1.     The Economic and Social Council shall perform such functions as fall within its competence in connection with the carrying out of the recommendations of the General Assembly.
+1.  The Economic and Social Council shall perform such functions as fall within its competence in connection with the carrying out of the recommendations of the General Assembly.
 
-2.     It may, with the approval of the General Assembly, perform services at the request of Members of the United Nations and at the request of specialized agencies.
+2.  It may, with the approval of the General Assembly, perform services at the request of Members of the United Nations and at the request of specialized agencies.
 
-3.     It shall perform such other functions as are specified elsewhere in the present Charter or as may be assigned to it by the General Assembly.
+3.  It shall perform such other functions as are specified elsewhere in the present Charter or as may be assigned to it by the General Assembly.
 
 Voting
 
 _Article 67_
 
-1.     Each member of the Economic and Social Council shall have one vote.
+1.  Each member of the Economic and Social Council shall have one vote.
 
-2.     Decisions of the Economic and Social Council shall be made by a majority of the members present and voting.
+2.  Decisions of the Economic and Social Council shall be made by a majority of the members present and voting.
 
 _Procedure_
 
@@ -960,9 +683,9 @@ The Economic and Social Council may make suitable arrangements for consultation 
 
 _Article 72_
 
-1.     The Economic and Social Council shall adopt its own rules of procedure, including the method of selecting its President.
+1.  The Economic and Social Council shall adopt its own rules of procedure, including the method of selecting its President.
 
-2.     The Economic and Social Council shall meet as required in accordance with its rules, which shall include provision for the convening of meetings on the request of a majority of its members.
+2.  The Economic and Social Council shall meet as required in accordance with its rules, which shall include provision for the convening of meetings on the request of a majority of its members.
 
 CHAPTER XI
 
@@ -1008,7 +731,7 @@ d.    to ensure equal treatment in social, economic, and commercial matter
 
 _Article 77_
 
-1.     The trusteeship system shall apply to such territories in the following categories as may be placed thereunder by means of trusteeship agreements:
+1.  The trusteeship system shall apply to such territories in the following categories as may be placed thereunder by means of trusteeship agreements:
 
 a.    territories now held under mandate;
 
@@ -1016,7 +739,7 @@ b.    territories which may be detached from enemy states as a result of t
 
 c.    territories voluntarily placed under the system by states responsible for their administration.
 
-2.     It will be a matter for subsequent agreement as to which territories in the foregoing categories will be brought under the trusteeship system and upon what terms.
+2.  It will be a matter for subsequent agreement as to which territories in the foregoing categories will be brought under the trusteeship system and upon what terms.
 
 _Article 78_
 
@@ -1028,9 +751,9 @@ The terms of trusteeship for each territory to be placed under the trusteeship s
 
 _Article 80_
 
-1.     Except as may be agreed upon in individual trusteeship agreements, made under Articles 77, 79, and 81, placing each territory under the trusteeship system, and until such agreements have been concluded, nothing in this Chapter shall be construed in or of itself to alter in any manner the rights whatsoever of any states or any peoples or the terms of existing international instruments to which Members of the United Nations may respectively be parties.
+1.  Except as may be agreed upon in individual trusteeship agreements, made under Articles 77, 79, and 81, placing each territory under the trusteeship system, and until such agreements have been concluded, nothing in this Chapter shall be construed in or of itself to alter in any manner the rights whatsoever of any states or any peoples or the terms of existing international instruments to which Members of the United Nations may respectively be parties.
 
-2.     Paragraph 1 of this Article shall not be interpreted as giving grounds for delay or postponement of the negotiation and conclusion of agreements for placing mandated and other territories under the trusteeship system as provided for in Article 77.
+2.  Paragraph 1 of this Article shall not be interpreted as giving grounds for delay or postponement of the negotiation and conclusion of agreements for placing mandated and other territories under the trusteeship system as provided for in Article 77.
 
 _Article 81_
 
@@ -1042,11 +765,11 @@ There may be designated, in any trusteeship agreement, a strategic area or areas
 
 _Article 83_
 
-1.     All functions of the United Nations relating to strategic areas, including the approval of the terms of the trusteeship agreements and of their alteration or amendment, shall be exercised by the Security Council.
+1.  All functions of the United Nations relating to strategic areas, including the approval of the terms of the trusteeship agreements and of their alteration or amendment, shall be exercised by the Security Council.
 
-2.     The basic objectives set forth in Article 76 shall be applicable to the people of each strategic area.
+2.  The basic objectives set forth in Article 76 shall be applicable to the people of each strategic area.
 
-3.     The Security Council shall, subject to the provisions of the trusteeship agreements and without prejudice to security considerations, avail itself of the assistance of the Trusteeship Council to perform those functions of the United Nations under the trusteeship system relating to political, economic, social, and educational matters in the strategic areas.
+3.  The Security Council shall, subject to the provisions of the trusteeship agreements and without prejudice to security considerations, avail itself of the assistance of the Trusteeship Council to perform those functions of the United Nations under the trusteeship system relating to political, economic, social, and educational matters in the strategic areas.
 
 _Article 84_
 
@@ -1054,9 +777,9 @@ It shall be the duty of the administering authority to ensure that the trust ter
 
 _Article 85_
 
-1.     The functions of the United Nations with regard to trusteeship agreements for all areas not designated as strategic, including the approval of the terms of the trusteeship agreements and of their alteration or amendment, shall be exercised by the General Assembly.
+1.  The functions of the United Nations with regard to trusteeship agreements for all areas not designated as strategic, including the approval of the terms of the trusteeship agreements and of their alteration or amendment, shall be exercised by the General Assembly.
 
-2.     The Trusteeship Council, operating under the authority of the General Assembly, shall assist the General Assembly in carrying out these functions.
+2.  The Trusteeship Council, operating under the authority of the General Assembly, shall assist the General Assembly in carrying out these functions.
 
 CHAPTER XIII
 
@@ -1066,7 +789,7 @@ _Composition_
 
 _Article 86_
 
-1.     The Trusteeship Council shall consist of the following Members of the United Nations:
+1.  The Trusteeship Council shall consist of the following Members of the United Nations:
 
 a.    those Members administering trust territories;
 
@@ -1074,7 +797,7 @@ b.    such of those Members mentioned by name in Article 23 as are not adm
 
 c.    as many other Members elected for three-year terms by the General Assembly as may be necessary to ensure that the total number of members of the Trusteeship Council is equally divided between those Members of the United Nations which administer trust territories and those which do not.
 
-2.     Each member of the Trusteeship Council shall designate one specially qualified person to represent it therein.
+2.  Each member of the Trusteeship Council shall designate one specially qualified person to represent it therein.
 
 _Functions and Powers_
 
@@ -1098,17 +821,17 @@ _Voting_
 
 _Article 89_
 
-1.     Each member of the Trusteeship Council shall have one vote.
+1.  Each member of the Trusteeship Council shall have one vote.
 
-2.     Decisions of the Trusteeship Council shall be made by a majority of the members present and voting.
+2.  Decisions of the Trusteeship Council shall be made by a majority of the members present and voting.
 
 _Procedure_
 
 _Article 90_
 
-1.     The Trusteeship Council shall adopt its own rules of procedure, including the method of selecting its President.
+1.  The Trusteeship Council shall adopt its own rules of procedure, including the method of selecting its President.
 
-2.     The Trusteeship Council shall meet as required in accordance with its rules, which shall include provision for the convening of meetings on the request of a majority of its members.
+2.  The Trusteeship Council shall meet as required in accordance with its rules, which shall include provision for the convening of meetings on the request of a majority of its members.
 
 _Article 91_
 
@@ -1124,15 +847,15 @@ The International Court of Justice shall be the principal judicial organ of the 
 
 _Article 93_
 
-1.     All members of the United Nations are ipso facto parties to the Statute of the International Court of Justice.
+1.  All members of the United Nations are ipso facto parties to the Statute of the International Court of Justice.
 
-2.     A State which is not a Member of the United Nations may become a party to the Statute of the International Court of Justice on conditions to be determined in each case by the General Assembly upon the recommendation of the Security Council.
+2.  A State which is not a Member of the United Nations may become a party to the Statute of the International Court of Justice on conditions to be determined in each case by the General Assembly upon the recommendation of the Security Council.
 
 _Article 94_
 
-1.     Each Member of the United Nations undertakes to comply with the decision of the International Court of Justice in any case to which it is a party.
+1.  Each Member of the United Nations undertakes to comply with the decision of the International Court of Justice in any case to which it is a party.
 
-2.     If any party to a case fails to perform the obligations incumbent upon it under a judgement rendered by the Court, the other party may have recourse to the Security Council, which may, if it deems necessary, make recommendations or decide upon measures to be taken to give effect to the judgment.
+2.  If any party to a case fails to perform the obligations incumbent upon it under a judgement rendered by the Court, the other party may have recourse to the Security Council, which may, if it deems necessary, make recommendations or decide upon measures to be taken to give effect to the judgment.
 
 _Article 95_
 
@@ -1140,9 +863,9 @@ Nothing in the present Charter shall prevent Members of the United Nations from 
 
 _Article 96_
 
-1.     The General Assembly of the Security Council may request the International Court of Justice to give an advisory opinion on any legal question.
+1.  The General Assembly of the Security Council may request the International Court of Justice to give an advisory opinion on any legal question.
 
-2.     Other organs of the United Nations and specialized agencies, which may at any time be so authorized by the General Assembly, may also request advisory opinions of the Court on legal questions arising within the scope of their activities.
+2.  Other organs of the United Nations and specialized agencies, which may at any time be so authorized by the General Assembly, may also request advisory opinions of the Court on legal questions arising within the scope of their activities.
 
 CHAPTER XV
 
@@ -1162,17 +885,17 @@ The Secretary-General may bring to the attention of the Security Council any mat
 
 _Article 100_
 
-1.     In the performance of their duties the Secretary-General and the staff shall not seek or receive instructions from any Government or from any other authority external to the Organization. They shall refrain from any action which might reflect on their position as international officials responsible only to the Organization.
+1.  In the performance of their duties the Secretary-General and the staff shall not seek or receive instructions from any Government or from any other authority external to the Organization. They shall refrain from any action which might reflect on their position as international officials responsible only to the Organization.
 
-2.     Each Member of the United Nations undertakes to respect the exclusively international character of the responsibilities of the Secretary-General and the staff and not to seek to influence them in the discharge of their responsibilities.
+2.  Each Member of the United Nations undertakes to respect the exclusively international character of the responsibilities of the Secretary-General and the staff and not to seek to influence them in the discharge of their responsibilities.
 
 _Article 101_
 
-1.     The staff shall be appointed by the Secretary-General under regulations established by the General Assembly.
+1.  The staff shall be appointed by the Secretary-General under regulations established by the General Assembly.
 
-2.     Appropriate staffs shall be permanently assigned to the Economic and Social Council, the Trusteeship Council, and ,as required, to other organs of the United Nations. These staffs shall form a part of the Secretariat.
+2.  Appropriate staffs shall be permanently assigned to the Economic and Social Council, the Trusteeship Council, and ,as required, to other organs of the United Nations. These staffs shall form a part of the Secretariat.
 
-3.     The paramount consideration in the employment of the staff and in the determination of the conditions of service shall be the necessity of securing the highest standards of efficiency, competence, and integrity. Due regard shall be paid to the importance of recruiting the staff on as wide a geographical basis as possible.
+3.  The paramount consideration in the employment of the staff and in the determination of the conditions of service shall be the necessity of securing the highest standards of efficiency, competence, and integrity. Due regard shall be paid to the importance of recruiting the staff on as wide a geographical basis as possible.
 
 CHAPTER XVI
 
@@ -1180,9 +903,9 @@ MISCELLANEOUS PROVISIONS
 
 _Article 102_
 
-1.     Every treaty and every international agreement entered into by any Member of the United Nations after the present Charter comes into force shall as soon as possible be registered with the Secretariat and published by it.
+1.  Every treaty and every international agreement entered into by any Member of the United Nations after the present Charter comes into force shall as soon as possible be registered with the Secretariat and published by it.
 
-2.     No party to any such treaty or international agreement which has not been registered in accordance with the provisions of paragraph 1 of this Article may invoke that treaty or agreement before any organ of the United Nations.
+2.  No party to any such treaty or international agreement which has not been registered in accordance with the provisions of paragraph 1 of this Article may invoke that treaty or agreement before any organ of the United Nations.
 
 _Article 103_
 
@@ -1194,11 +917,11 @@ The Organization shall enjoy in the territory of each of its Members such legal 
 
 _Article 105_
 
-1.     The Organization shall enjoy in the territory of each of its Members such privileges and immunities as are necessary for the fulfilment of its purposes.
+1.  The Organization shall enjoy in the territory of each of its Members such privileges and immunities as are necessary for the fulfilment of its purposes.
 
-2.     Representatives of the Members of the United Nations and officials of the Organization shall similarly enjoy such privileges and immunities as are necessary for the independent exercise of their functions in connection with the Organization.
+2.  Representatives of the Members of the United Nations and officials of the Organization shall similarly enjoy such privileges and immunities as are necessary for the independent exercise of their functions in connection with the Organization.
 
-3.     The General Assembly may make recommendations with a view to determining the details of the application of paragraphs 1 and 2 of this Article or may propose conventions to the Members of the United Nations for this purpose.
+3.  The General Assembly may make recommendations with a view to determining the details of the application of paragraphs 1 and 2 of this Article or may propose conventions to the Members of the United Nations for this purpose.
 
 CHAPTER XVII
 
@@ -1222,11 +945,11 @@ Amendments to the present Charter shall come into force for all Members of the U
 
 _Article 109_ [_see_ Note 2]
 
-1.     A General Conference of the Members of the United Nations for the purpose of reviewing the present Charter may be held at a date and place to be fixed by a two-thirds vote of the members of the General Assembly and by a vote of any seven members of the Security Council. Each Member of the United Nations shall have one vote in the conference.
+1.  A General Conference of the Members of the United Nations for the purpose of reviewing the present Charter may be held at a date and place to be fixed by a two-thirds vote of the members of the General Assembly and by a vote of any seven members of the Security Council. Each Member of the United Nations shall have one vote in the conference.
 
-2.     Any alteration of the present Charter recommended by a two-thirds vote of the conference shall take effect when ratified in accordance with their respective constitutional processes by two thirds of the Members of the United Nations including all the permanent members of the Security Council.
+2.  Any alteration of the present Charter recommended by a two-thirds vote of the conference shall take effect when ratified in accordance with their respective constitutional processes by two thirds of the Members of the United Nations including all the permanent members of the Security Council.
 
-3.     If such a conference has not been held before the tenth annual session of the General Assembly following the coming into force of the present Charter, the proposal to call such a conference shall be placed on the agenda of that session of the General Assembly, and the conference shall be held if so decided by a majority vote of the members of the General Assembly and by a vote of any seven members of the Security Council.
+3.  If such a conference has not been held before the tenth annual session of the General Assembly following the coming into force of the present Charter, the proposal to call such a conference shall be placed on the agenda of that session of the General Assembly, and the conference shall be held if so decided by a majority vote of the members of the General Assembly and by a vote of any seven members of the Security Council.
 
 CHAPTER XIX
 
@@ -1234,13 +957,13 @@ RATIFICATION AND SIGNATURE
 
 _Article 110_
 
-1.     The present Charter shall be ratified by the signatory States in accordance with their respective constitutional processes.
+1.  The present Charter shall be ratified by the signatory States in accordance with their respective constitutional processes.
 
-2.     The ratification shall be deposited with the Government of the United States of America, which shall notify all the signatory States of each deposit as well as the Secretary-General of the Organization when he has been appointed.
+2.  The ratification shall be deposited with the Government of the United States of America, which shall notify all the signatory States of each deposit as well as the Secretary-General of the Organization when he has been appointed.
 
-3.     The present Charter shall come into force upon the deposit of ratifications by the Republic of China, France, the Union of Soviet Socialist Republics, the United Kingdom of Great Britain and Northern Ireland, and the United States of America, and by a majority of the other signatory States. A protocol of the ratifications deposited shall thereupon be drawn up by the Government of the United States of America which shall communicate copies thereof to all the signatory states.
+3.  The present Charter shall come into force upon the deposit of ratifications by the Republic of China, France, the Union of Soviet Socialist Republics, the United Kingdom of Great Britain and Northern Ireland, and the United States of America, and by a majority of the other signatory States. A protocol of the ratifications deposited shall thereupon be drawn up by the Government of the United States of America which shall communicate copies thereof to all the signatory states.
 
-4.     The States signatory to the present Charter which ratify it after it has come into force will become original Members of the United Nations on the date of the deposit of their respective ratifications.
+4.  The States signatory to the present Charter which ratify it after it has come into force will become original Members of the United Nations on the date of the deposit of their respective ratifications.
 
 _Article 111_
 
@@ -1266,23 +989,23 @@ The Court shall be composed of a body of independent judges, elected regardless 
 
 _Article 3_
 
-1.     The Court shall consist of fifteen members, no two of whom may be nationals of the same state.
+1.  The Court shall consist of fifteen members, no two of whom may be nationals of the same state.
 
-2.     A person who for the purposes of membership in the Court could be regarded as a national of more than one state shall be deemed to be a national of the one in which he ordinarily exercises civil and political rights.
+2.  A person who for the purposes of membership in the Court could be regarded as a national of more than one state shall be deemed to be a national of the one in which he ordinarily exercises civil and political rights.
 
 _Article 4_
 
-1.     The members of the Court shall be elected by the General Assembly and by the Security Council from a list of persons nominated by the national groups in the Permanent Court of Arbitration, in accordance with the following provisions.
+1.  The members of the Court shall be elected by the General Assembly and by the Security Council from a list of persons nominated by the national groups in the Permanent Court of Arbitration, in accordance with the following provisions.
 
-2.     In the case of Members of the United Nations not represented in the Permanent Court of Arbitration, candidates shall be nominated by national groups appointed for this purpose by their governments under the same conditions as those prescribed for members of the Permanent Court of Arbitration by Article 44 of the Convention of The Hague of 1907 for the pacific settlement of international disputes.
+2.  In the case of Members of the United Nations not represented in the Permanent Court of Arbitration, candidates shall be nominated by national groups appointed for this purpose by their governments under the same conditions as those prescribed for members of the Permanent Court of Arbitration by Article 44 of the Convention of The Hague of 1907 for the pacific settlement of international disputes.
 
-3.     The conditions under which a state which is a party to the present Statute but is not a Member of the United Nations may participate in electing the members of the Court shall, in the absence of a special agreement, be laid down by the General Assembly upon recommendation of the Security Council.
+3.  The conditions under which a state which is a party to the present Statute but is not a Member of the United Nations may participate in electing the members of the Court shall, in the absence of a special agreement, be laid down by the General Assembly upon recommendation of the Security Council.
 
 _Article 5_
 
-1.     At least three months before the date of the election, the Secretary-General of the United Nations shall address a written request to the members of the Permanent Court of Arbitration belonging to the states which are parties to the present Statute, and to the members of the national groups appointed under Article 4, paragraph 2, inviting them to undertake, within a given time, by national groups, the nomination of persons in a position to accept the duties of a member of the Court.
+1.  At least three months before the date of the election, the Secretary-General of the United Nations shall address a written request to the members of the Permanent Court of Arbitration belonging to the states which are parties to the present Statute, and to the members of the national groups appointed under Article 4, paragraph 2, inviting them to undertake, within a given time, by national groups, the nomination of persons in a position to accept the duties of a member of the Court.
 
-2.     No group may nominate more than four persons, not more than two of whom shall be of their own nationality. In no case may the number of candidates nominated by a group be more than double the number of seats to be filled.
+2.  No group may nominate more than four persons, not more than two of whom shall be of their own nationality. In no case may the number of candidates nominated by a group be more than double the number of seats to be filled.
 
 _Article 6_
 
@@ -1290,9 +1013,9 @@ Before making these nominations, each national group is recommended to consult i
 
 _Article 7_
 
-1.     The Secretary-General shall prepare a list in alphabetical order of all the persons thus nominated. Save as provided in Article 12, paragraph 2, these shall be the only persons eligible.
+1.  The Secretary-General shall prepare a list in alphabetical order of all the persons thus nominated. Save as provided in Article 12, paragraph 2, these shall be the only persons eligible.
 
-2.     The Secretary-General shall submit this list to the General Assembly and to the Security Council.
+2.  The Secretary-General shall submit this list to the General Assembly and to the Security Council.
 
 _Article 8_
 
@@ -1304,11 +1027,11 @@ At every election, the electors shall bear in mind not only that the persons to 
 
 _Article 10_
 
-1.     Those candidates who obtain an absolute majority of votes in the General Assembly and in the Security Council shall be considered as elected.
+1.  Those candidates who obtain an absolute majority of votes in the General Assembly and in the Security Council shall be considered as elected.
 
-2.     Any vote of the Security Council, whether for the election of judges or for the appointment of members of the conference envisaged in Article 12, shall be taken without any distinction between permanent and non-permanent members of the Security Council.
+2.  Any vote of the Security Council, whether for the election of judges or for the appointment of members of the conference envisaged in Article 12, shall be taken without any distinction between permanent and non-permanent members of the Security Council.
 
-3.     In the event of more than one national of the same state obtaining an absolute majority of the votes both of the General Assembly and of the Security Council, the eldest of these only shall be considered as elected.
+3.  In the event of more than one national of the same state obtaining an absolute majority of the votes both of the General Assembly and of the Security Council, the eldest of these only shall be considered as elected.
 
 _Article 11_
 
@@ -1316,23 +1039,23 @@ If, after the first meeting held for the purpose of the election, one or more se
 
 _Article 12_
 
-1.     If, after the third meeting, one or more seats still remain unfilled, a joint conference consisting of six members, three appointed by the General Assembly and three by the Security Council, may be formed at any time at the request of either the General Assembly or the Security Council, for the purpose of choosing by the vote of an absolute majority one name for each seat still vacant, to submit to the General Assembly and the Security Council for their respective acceptance.
+1.  If, after the third meeting, one or more seats still remain unfilled, a joint conference consisting of six members, three appointed by the General Assembly and three by the Security Council, may be formed at any time at the request of either the General Assembly or the Security Council, for the purpose of choosing by the vote of an absolute majority one name for each seat still vacant, to submit to the General Assembly and the Security Council for their respective acceptance.
 
-2.     If the joint conference is unanimously agreed upon any person who fulfils the required conditions, he may be included in its list, even though he was not included in the list of nominations referred to in Article 7.
+2.  If the joint conference is unanimously agreed upon any person who fulfils the required conditions, he may be included in its list, even though he was not included in the list of nominations referred to in Article 7.
 
-3.     If the joint conference is satisfied that it will not be successful in procuring an election, those members of the Court who have already been elected shall, within a period to be fixed by the Security Council, proceed to fill the vacant seats by selection from among those candidates who have obtained votes either in the General Assembly or in the Security Council.
+3.  If the joint conference is satisfied that it will not be successful in procuring an election, those members of the Court who have already been elected shall, within a period to be fixed by the Security Council, proceed to fill the vacant seats by selection from among those candidates who have obtained votes either in the General Assembly or in the Security Council.
 
-4.     In the event of an equality of votes among the judges, the eldest judge shall have a casting vote.
+4.  In the event of an equality of votes among the judges, the eldest judge shall have a casting vote.
 
 _Article 13_
 
-1.     The members of the Court shall be elected for nine years and may be re-elected; provided, however, that of the judges elected at the first election, the terms of five judges shall expire at the end of three years and the terms of five more judges shall expire at the end of six years.
+1.  The members of the Court shall be elected for nine years and may be re-elected; provided, however, that of the judges elected at the first election, the terms of five judges shall expire at the end of three years and the terms of five more judges shall expire at the end of six years.
 
-2.     The judges whose terms are to expire at the end of the above-mentioned initial periods of three and six years shall be chosen by lot to be drawn by the Secretary-General immediately after the first election has been completed.
+2.  The judges whose terms are to expire at the end of the above-mentioned initial periods of three and six years shall be chosen by lot to be drawn by the Secretary-General immediately after the first election has been completed.
 
-3.     The members of the Court shall continue to discharge their duties until their places have been filled. Though replaced, they shall finish any cases which they may have begun.
+3.  The members of the Court shall continue to discharge their duties until their places have been filled. Though replaced, they shall finish any cases which they may have begun.
 
-4.     In the case of the resignation of a member of the Court, the resignation shall be addressed to the President of the Court for transmission to the Secretary-General. This last notification makes the place vacant.
+4.  In the case of the resignation of a member of the Court, the resignation shall be addressed to the President of the Court for transmission to the Secretary-General. This last notification makes the place vacant.
 
 _Article 14_
 
@@ -1344,25 +1067,25 @@ A member of the Court elected to replace a member whose term of office has not e
 
 Article 16
 
-1.     No member of the Court may exercise any political or administrative function, or engage in any other occupation of a professional nature.
+1.  No member of the Court may exercise any political or administrative function, or engage in any other occupation of a professional nature.
 
-2.     Any doubt on this point shall be settled by the decision of the Court.
+2.  Any doubt on this point shall be settled by the decision of the Court.
 
 _Article 17_
 
-1.     No member of the Court may act as agent, counsel, or advocate in any case.
+1.  No member of the Court may act as agent, counsel, or advocate in any case.
 
-2.     No member may participate in the decision of any case in which he has previously taken part as agent, counsel, or advocate for one of the parties, or as a member of a national or international court, or of a commission of inquiry, or in any other capacity.
+2.  No member may participate in the decision of any case in which he has previously taken part as agent, counsel, or advocate for one of the parties, or as a member of a national or international court, or of a commission of inquiry, or in any other capacity.
 
-3.     Any doubt on this point shall be settled by the decision of the Court.
+3.  Any doubt on this point shall be settled by the decision of the Court.
 
 _Article 18_
 
-1.     No member of the Court can be dismissed unless, in the unanimous opinion of the other members, he has ceased to fulfil the required conditions.
+1.  No member of the Court can be dismissed unless, in the unanimous opinion of the other members, he has ceased to fulfil the required conditions.
 
-2.     Formal notification thereof shall be made to the Secretary-General by the Registrar.
+2.  Formal notification thereof shall be made to the Secretary-General by the Registrar.
 
-3.     This notification makes the place vacant.
+3.  This notification makes the place vacant.
 
 _Article 19_
 
@@ -1374,47 +1097,47 @@ Every member of the Court shall, before taking up his duties, make a solemn decl
 
 _Article 21_
 
-1.     The Court shall elect its President and Vice-President for three years; they may be re-elected.
+1.  The Court shall elect its President and Vice-President for three years; they may be re-elected.
 
-2.     The Court shall appoint its Registrar and may provide for the appointment of such other officers as may be necessary.
+2.  The Court shall appoint its Registrar and may provide for the appointment of such other officers as may be necessary.
 
 _Article 22_
 
-1.     The seat of the Court shall be established at The Hague. This, however, shall not prevent the Court from sitting and exercising its functions elsewhere whenever the Court considers it desirable.
+1.  The seat of the Court shall be established at The Hague. This, however, shall not prevent the Court from sitting and exercising its functions elsewhere whenever the Court considers it desirable.
 
-2.     The President and the Registrar shall reside at the seat of the Court.
+2.  The President and the Registrar shall reside at the seat of the Court.
 
 _Article 23_
 
-1.     The Court shall remain permanently in session, except during the judicial vacations, the dates and duration of which shall be fixed by the Court.
+1.  The Court shall remain permanently in session, except during the judicial vacations, the dates and duration of which shall be fixed by the Court.
 
-2.     Members of the Court are entitled to periodic leave, the dates and duration of which shall be fixed by the Court, having in mind the distance between The Hague and the home of each judge.
+2.  Members of the Court are entitled to periodic leave, the dates and duration of which shall be fixed by the Court, having in mind the distance between The Hague and the home of each judge.
 
-3.     Members of the Court shall be bound, unless they are on leave or prevented from attending by illness or other serious reasons duly explained to the President, to hold themselves permanently at the disposal of the Court.
+3.  Members of the Court shall be bound, unless they are on leave or prevented from attending by illness or other serious reasons duly explained to the President, to hold themselves permanently at the disposal of the Court.
 
 _Article 24_
 
-1.     If, for some special reason, a member of the Court considers that he should not take part in the decision of a particular case, he shall so inform the President.
+1.  If, for some special reason, a member of the Court considers that he should not take part in the decision of a particular case, he shall so inform the President.
 
-2.     If the President considers that for some special reason one of the members of the Court should not sit in a particular case, he shall give him notice accordingly.
+2.  If the President considers that for some special reason one of the members of the Court should not sit in a particular case, he shall give him notice accordingly.
 
-3.     If in any such case the member of the Court and the President disagree, the matter shall be settled by the decision of the Court.
+3.  If in any such case the member of the Court and the President disagree, the matter shall be settled by the decision of the Court.
 
 _Article 25_
 
-1.     The full Court shall sit except when it is expressly provided otherwise in the present Statute.
+1.  The full Court shall sit except when it is expressly provided otherwise in the present Statute.
 
-2.     Subject to the condition that the number of judges available to constitute the Court is not thereby reduced below eleven, the Rules of the Court may provide for allowing one or more judges, according to circumstances and in rotation, to be dispensed from sitting.
+2.  Subject to the condition that the number of judges available to constitute the Court is not thereby reduced below eleven, the Rules of the Court may provide for allowing one or more judges, according to circumstances and in rotation, to be dispensed from sitting.
 
-3.     A quorum of nine judges shall suffice to constitute the Court.
+3.  A quorum of nine judges shall suffice to constitute the Court.
 
 _Article 26_
 
-1.     The Court may from time to time form one or more chambers, composed of three or more judges as the Court may determine, for dealing with particular categories of cases; for example, labour cases and cases relating to transit and communications.
+1.  The Court may from time to time form one or more chambers, composed of three or more judges as the Court may determine, for dealing with particular categories of cases; for example, labour cases and cases relating to transit and communications.
 
-2.     The Court may at any time form a chamber for dealing with a particular case. The number of judges to constitute such a chamber shall be determined by the Court with the approval of the parties.
+2.  The Court may at any time form a chamber for dealing with a particular case. The number of judges to constitute such a chamber shall be determined by the Court with the approval of the parties.
 
-3.     Cases shall be heard and determined by the chambers provided for in this Article if the parties so request.
+3.  Cases shall be heard and determined by the chambers provided for in this Article if the parties so request.
 
 _Article 27_
 
@@ -1430,41 +1153,41 @@ With a view to the speedy despatch of business, the Court shall form annually a 
 
 _Article 30_
 
-1.     The Court shall frame rules for carrying out its functions. In particular, it shall lay down rules of procedure.
+1.  The Court shall frame rules for carrying out its functions. In particular, it shall lay down rules of procedure.
 
-2.     The Rules of the Court may provide for assessors to sit with the Court or with any of its chambers, without the right to vote.
+2.  The Rules of the Court may provide for assessors to sit with the Court or with any of its chambers, without the right to vote.
 
 _Article 31_
 
-1.     Judges of the nationality of each of the parties shall retain their right to sit in the case before the Court.
+1.  Judges of the nationality of each of the parties shall retain their right to sit in the case before the Court.
 
-2.     If the Court includes upon the Bench a judge of the nationality of one of the parties, any other party may choose a person to sit as judge. Such person shall be chosen preferably from among those persons who have been nominated as candidates as provided in Articles 4 and 5.
+2.  If the Court includes upon the Bench a judge of the nationality of one of the parties, any other party may choose a person to sit as judge. Such person shall be chosen preferably from among those persons who have been nominated as candidates as provided in Articles 4 and 5.
 
-3.     If the Court includes upon the Bench no judge of the nationality of the parties, each of these parties may proceed to choose a judge as provided in paragraph 2 of this Article.
+3.  If the Court includes upon the Bench no judge of the nationality of the parties, each of these parties may proceed to choose a judge as provided in paragraph 2 of this Article.
 
-4.     The provisions of this Article shall apply to the case of Articles 26 and 29\. In such cases, the President shall request one or, if necessary, two of the members of the Court forming the Chamber to give place to the members of the Court of the nationality of the parties concerned, and, failing such, or if they are unable to be present, to the judges specially chosen by the parties.
+4.  The provisions of this Article shall apply to the case of Articles 26 and 29\. In such cases, the President shall request one or, if necessary, two of the members of the Court forming the Chamber to give place to the members of the Court of the nationality of the parties concerned, and, failing such, or if they are unable to be present, to the judges specially chosen by the parties.
 
-5.     Should there be several parties in the same interest, they shall, for the purpose of the preceding provisions, be reckoned as one party only. Any doubt upon this point shall be settled by the decision of the Court.
+5.  Should there be several parties in the same interest, they shall, for the purpose of the preceding provisions, be reckoned as one party only. Any doubt upon this point shall be settled by the decision of the Court.
 
-6.     Judges chosen as laid down in paragraphs 2, 3, and 4 of this Article shall fulfil the conditions required by Articles 2, 17 (paragraph 2), 20, and 24 of the present Statute. They shall take part in the decision on terms of complete equality with their colleagues.
+6.  Judges chosen as laid down in paragraphs 2, 3, and 4 of this Article shall fulfil the conditions required by Articles 2, 17 (paragraph 2), 20, and 24 of the present Statute. They shall take part in the decision on terms of complete equality with their colleagues.
 
 _Article 32_
 
-1.     Each member of the Court shall receive an annual salary.
+1.  Each member of the Court shall receive an annual salary.
 
-2.     The President shall receive a special annual allowance.
+2.  The President shall receive a special annual allowance.
 
-3.     The Vice-President shall receive a special allowance for every day on which he acts as President.
+3.  The Vice-President shall receive a special allowance for every day on which he acts as President.
 
-4.     The judges chosen under Article 31, other than members of the Court, shall receive compensation for each day on which they exercise their functions.
+4.  The judges chosen under Article 31, other than members of the Court, shall receive compensation for each day on which they exercise their functions.
 
-5.     These salaries, allowances, and compensation shall be fixed by the General Assembly. They may not be decreased during the term of office.
+5.  These salaries, allowances, and compensation shall be fixed by the General Assembly. They may not be decreased during the term of office.
 
-6.     The salary of the Registrar shall be fixed by the General Assembly on the proposal of the Court.
+6.  The salary of the Registrar shall be fixed by the General Assembly on the proposal of the Court.
 
-7.     Regulations made by the General Assembly shall fix the conditions under which retirement pensions may be given to members of the Court and to the Registrar, and the conditions under which members of the Court and the Registrar shall have their travelling expenses refunded.
+7.  Regulations made by the General Assembly shall fix the conditions under which retirement pensions may be given to members of the Court and to the Registrar, and the conditions under which members of the Court and the Registrar shall have their travelling expenses refunded.
 
-8.     The above salaries, allowances, and compensation shall be free of all taxation.
+8.  The above salaries, allowances, and compensation shall be free of all taxation.
 
 _Article 33_
 
@@ -1476,25 +1199,25 @@ COMPETENCE OF THE COURT
 
 _Article 34_
 
-1.     Only states may be parties in cases before the Court.
+1.  Only states may be parties in cases before the Court.
 
-2.     The Court, subject to and in conformity with its Rules, may request of public international organizations information relevant to cases before it, and shall receive such information presented by such organizations on their own initiative.
+2.  The Court, subject to and in conformity with its Rules, may request of public international organizations information relevant to cases before it, and shall receive such information presented by such organizations on their own initiative.
 
-3.     Whenever the construction of the constituent instrument of a public international organization or of an international convention adopted thereunder is in question in a case before the Court, the Registrar shall so notify the public international organization concerned and shall communicate to it copies of all the written proceedings.
+3.  Whenever the construction of the constituent instrument of a public international organization or of an international convention adopted thereunder is in question in a case before the Court, the Registrar shall so notify the public international organization concerned and shall communicate to it copies of all the written proceedings.
 
 _Article 35_
 
-1.     The Court shall be open to the states parties to the present Statute.
+1.  The Court shall be open to the states parties to the present Statute.
 
-2.     The conditions under which the Court shall be open to other states shall, subject to the special provisions contained in treaties in force, be laid down by the Security Council, but in no case shall such conditions place the parties in a position of inequality before the Court.
+2.  The conditions under which the Court shall be open to other states shall, subject to the special provisions contained in treaties in force, be laid down by the Security Council, but in no case shall such conditions place the parties in a position of inequality before the Court.
 
-3.     When a state which is not a Member of the United Nations is a party to a case, the Court shall fix the amount which that party is to contribute towards the expense of the Court. This provision shall not apply if such state is bearing a share of the expenses of the Court.
+3.  When a state which is not a Member of the United Nations is a party to a case, the Court shall fix the amount which that party is to contribute towards the expense of the Court. This provision shall not apply if such state is bearing a share of the expenses of the Court.
 
 _Article 36_
 
-1.     The jurisdiction of the Court comprises all cases which the parties refer to it and all matters specially provided for in the Charter of the United Nations or in treaties and conventions in force.
+1.  The jurisdiction of the Court comprises all cases which the parties refer to it and all matters specially provided for in the Charter of the United Nations or in treaties and conventions in force.
 
-2.     The states parties to the present Statute may at any time declare that they recognize as compulsory ipso facto and without special agreement, in relation to any other state accepting the same obligation, the jurisdiction of the Court in all legal disputes concerning:
+2.  The states parties to the present Statute may at any time declare that they recognize as compulsory ipso facto and without special agreement, in relation to any other state accepting the same obligation, the jurisdiction of the Court in all legal disputes concerning:
 
 a.    the interpretation of a treaty;
 
@@ -1504,13 +1227,13 @@ c.    the existence of any fact which, if established, would constitute a 
 
 d.    the nature or extent of the reparation to be made for the breach of an international obligation.
 
-3.     The declarations referred to above may be made unconditionally or on condition of reciprocity on the part of several or certain states, or for a certain time.
+3.  The declarations referred to above may be made unconditionally or on condition of reciprocity on the part of several or certain states, or for a certain time.
 
-4.     Such declarations shall be deposited with the Secretary-General of the United Nations, who shall transmit copies thereof to the parties to the Statute and to the Registrar of the Court.
+4.  Such declarations shall be deposited with the Secretary-General of the United Nations, who shall transmit copies thereof to the parties to the Statute and to the Registrar of the Court.
 
-5.     Declarations made under Article 36 of the Statute of the Permanent Court of International Justice and which are still in force shall be deemed, as between the parties to the present Statute, to be acceptances of the compulsory jurisdiction of the International Court of Justice for the period which they still have to run and in accordance with their terms.
+5.  Declarations made under Article 36 of the Statute of the Permanent Court of International Justice and which are still in force shall be deemed, as between the parties to the present Statute, to be acceptances of the compulsory jurisdiction of the International Court of Justice for the period which they still have to run and in accordance with their terms.
 
-6.     In the event of a dispute as to whether the Court has jurisdiction, the matter shall be settled by the decision of the Court.
+6.  In the event of a dispute as to whether the Court has jurisdiction, the matter shall be settled by the decision of the Court.
 
 _Article 37_
 
@@ -1518,7 +1241,7 @@ Whenever a treaty or convention in force provides for reference of a matter to a
 
 _Article 38_
 
-1.     The Court, whose function is to decide in accordance with international law such disputes as are submitted to it, shall apply:
+1.  The Court, whose function is to decide in accordance with international law such disputes as are submitted to it, shall apply:
 
 a.    international conventions, whether general or particular, establishing rules expressly recognized by the contesting states;
 
@@ -1528,7 +1251,7 @@ c.    the general principles of law recognized by civilized nations;
 
 d.    subject to the provisions of Article 59, judicial decisions and the teachings of the most highly qualified publicists of the various nations, as subsidiary means for the determination of rules of law.
 
-2.     This provision shall not prejudice the power of the Court to decide a case _ex aequo et bono_, if the parties agree thereto.
+2.  This provision shall not prejudice the power of the Court to decide a case _ex aequo et bono_, if the parties agree thereto.
 
 CHAPTER III
 
@@ -1536,51 +1259,51 @@ PROCEDURE
 
 _Article 39_
 
-1.     The official languages of the Court shall be French and English. If the parties agree that the case shall be conducted in French, the judgment shall be delivered in French. If the parties agree that the case shall be conducted in English, the judgment shall be delivered in English.
+1.  The official languages of the Court shall be French and English. If the parties agree that the case shall be conducted in French, the judgment shall be delivered in French. If the parties agree that the case shall be conducted in English, the judgment shall be delivered in English.
 
-2.     In the absence of an agreement as to which language shall be employed, each party may, in the pleadings, use the language which it prefers; the decision of the Court shall be given in French and English. In this case the Court shall at the same time determine which of the two texts shall be considered as authoritative.
+2.  In the absence of an agreement as to which language shall be employed, each party may, in the pleadings, use the language which it prefers; the decision of the Court shall be given in French and English. In this case the Court shall at the same time determine which of the two texts shall be considered as authoritative.
 
-3.     The Court shall, at the request of any party, authorize a language other than French or English to be used by that party.
+3.  The Court shall, at the request of any party, authorize a language other than French or English to be used by that party.
 
 _Article 40_
 
-1.     Cases are brought before the Court, as the case may be, either by the notification of the special agreement or by a written application addressed to the Registrar. In either case the subject of the dispute and the parties shall be indicated.
+1.  Cases are brought before the Court, as the case may be, either by the notification of the special agreement or by a written application addressed to the Registrar. In either case the subject of the dispute and the parties shall be indicated.
 
-2.     The Registrar shall forthwith communicate the application to all concerned.
+2.  The Registrar shall forthwith communicate the application to all concerned.
 
-3.     He shall also notify the Members of the United Nations through the Secretary-General, and also any other states entitled to appear before the Court.
+3.  He shall also notify the Members of the United Nations through the Secretary-General, and also any other states entitled to appear before the Court.
 
 _Article 41_
 
-1.     The Court shall have the power to indicate, if it considers that circumstances so require, any provisional measures which ought to be taken to preserve the respective rights of either party.
+1.  The Court shall have the power to indicate, if it considers that circumstances so require, any provisional measures which ought to be taken to preserve the respective rights of either party.
 
-2.     Pending the final decision, notice of the measures suggested shall forthwith be given to the parties and to the Security Council.
+2.  Pending the final decision, notice of the measures suggested shall forthwith be given to the parties and to the Security Council.
 
 _Article 42_
 
-1.     The parties shall be represented by agents.
+1.  The parties shall be represented by agents.
 
-2.     They may have the assistance of counsel or advocates before the Court.
+2.  They may have the assistance of counsel or advocates before the Court.
 
-3.     The agents, counsel, and advocates of parties before the Court shall enjoy the privileges and immunities necessary to the independent exercise of their duties.
+3.  The agents, counsel, and advocates of parties before the Court shall enjoy the privileges and immunities necessary to the independent exercise of their duties.
 
 _Article 43_
 
-1.     The procedure shall consists of two parts: written and oral.
+1.  The procedure shall consists of two parts: written and oral.
 
-2.     The written proceedings shall consist of the communication to the Court and to the parties of memorials, counter-memorials and, if necessary, replies; also all papers and documents in support.
+2.  The written proceedings shall consist of the communication to the Court and to the parties of memorials, counter-memorials and, if necessary, replies; also all papers and documents in support.
 
-3.     These communications shall be made through the Registrar, in the order and within the time fixed by the Court.
+3.  These communications shall be made through the Registrar, in the order and within the time fixed by the Court.
 
-4.     A certified copy of every document produced by one party shall be communicated to the other party.
+4.  A certified copy of every document produced by one party shall be communicated to the other party.
 
-5.     The oral proceedings shall consist of the hearing by the Court of witnesses, experts, agents, counsel, and advocates.
+5.  The oral proceedings shall consist of the hearing by the Court of witnesses, experts, agents, counsel, and advocates.
 
 _Article 44_
 
-1.     For the service of all notices upon persons other than the agents, counsel, and advocates, the Court shall apply direct to the government of the state upon whose territory the notice has to be served.
+1.  For the service of all notices upon persons other than the agents, counsel, and advocates, the Court shall apply direct to the government of the state upon whose territory the notice has to be served.
 
-2.     The same provision shall apply whenever steps are to be taken to procure evidence on the spot.
+2.  The same provision shall apply whenever steps are to be taken to procure evidence on the spot.
 
 _Article 45_
 
@@ -1592,9 +1315,9 @@ The hearing in Court shall be public, unless the Court shall decide otherwise, o
 
 _Article 47_
 
-1.     Minutes shall be made at each hearing and signed by the Registrar and the President.
+1.  Minutes shall be made at each hearing and signed by the Registrar and the President.
 
-2.     These minutes alone shall be authentic.
+2.  These minutes alone shall be authentic.
 
 _Article 48_
 
@@ -1618,29 +1341,29 @@ After the Court has received the proofs and evidence within the time specified f
 
 _Article 53_
 
-1.     Whenever one of the parties does not appear before the Court, or fails to defend its case, the other party may call upon the Court to decide in favour of its claim.
+1.  Whenever one of the parties does not appear before the Court, or fails to defend its case, the other party may call upon the Court to decide in favour of its claim.
 
-2.     The Court must, before doing so, satisfy itself, not only that it has jurisdiction in accordance with Articles 36 and 37, but also that the claim is well founded in fact and law.
+2.  The Court must, before doing so, satisfy itself, not only that it has jurisdiction in accordance with Articles 36 and 37, but also that the claim is well founded in fact and law.
 
 _Article 54_
 
-1.     When, subject to the control of the Court, the agents, counsel, and advocates have completed their presentation of the case, the President shall declare the hearing closed.
+1.  When, subject to the control of the Court, the agents, counsel, and advocates have completed their presentation of the case, the President shall declare the hearing closed.
 
-2.     The Court shall withdraw to consider the judgment.
+2.  The Court shall withdraw to consider the judgment.
 
-3.     The deliberations of the Court shall take place in private and remain secret.
+3.  The deliberations of the Court shall take place in private and remain secret.
 
 _Article 55_
 
-1.     All questions shall be decided by a majority of the judges present.
+1.  All questions shall be decided by a majority of the judges present.
 
-2.     In the event of an equality of votes, the President or the judge who acts in his place shall have a casting vote.
+2.  In the event of an equality of votes, the President or the judge who acts in his place shall have a casting vote.
 
 _Article 56_
 
-1.     The judgment shall state the reasons on which it is based.
+1.  The judgment shall state the reasons on which it is based.
 
-2.     It shall contain the names of the judges who have taken part in the decision.
+2.  It shall contain the names of the judges who have taken part in the decision.
 
 _Article 57_
 
@@ -1660,27 +1383,27 @@ The judgment is final and without appeal. In the event of dispute as to the mean
 
 _Article 61_
 
-1.     An application for revision of a judgment may be made only when it is based upon the discovery of some fact of such a nature as to be a decisive factor, which fact was, when the judgment was given, unknown to the Court and also to the party claiming revision, always provided that such ignorance was not due to negligence.
+1.  An application for revision of a judgment may be made only when it is based upon the discovery of some fact of such a nature as to be a decisive factor, which fact was, when the judgment was given, unknown to the Court and also to the party claiming revision, always provided that such ignorance was not due to negligence.
 
-2.     The proceedings for revision shall be opened by a judgment of the Court expressly recording the existence of the new fact, recognizing that it has such a character as to lay the case open to revision, and declaring the application admissible on this ground.
+2.  The proceedings for revision shall be opened by a judgment of the Court expressly recording the existence of the new fact, recognizing that it has such a character as to lay the case open to revision, and declaring the application admissible on this ground.
 
-3.     The Court may require previous compliance with the terms of the judgment before it admits proceedings in revision.
+3.  The Court may require previous compliance with the terms of the judgment before it admits proceedings in revision.
 
-4.     The application for revision must be made at latest within six months of the discovery of the new fact.
+4.  The application for revision must be made at latest within six months of the discovery of the new fact.
 
-5.     No application for revision may be made after the lapse of ten years from the date of the judgment.
+5.  No application for revision may be made after the lapse of ten years from the date of the judgment.
 
 _Article 62_
 
-1.     Should a state consider that it has an interest of a legal nature which may be affected by the decision in the case, it may submit a request to the Court to be permitted to intervene.
+1.  Should a state consider that it has an interest of a legal nature which may be affected by the decision in the case, it may submit a request to the Court to be permitted to intervene.
 
-2.     It shall be for the Court to decide upon this request.
+2.  It shall be for the Court to decide upon this request.
 
 _Article 63_
 
-1.     Whenever the construction of a convention to which states other than those concerned in the case are parties is in question, the Registrar shall notify all such states forthwith.
+1.  Whenever the construction of a convention to which states other than those concerned in the case are parties is in question, the Registrar shall notify all such states forthwith.
 
-2.     Every state so notified has the right to intervene in the proceedings; but if it uses this right, the construction given by the judgment will be equally binding upon it.
+2.  Every state so notified has the right to intervene in the proceedings; but if it uses this right, the construction given by the judgment will be equally binding upon it.
 
 _Article 64_
 
@@ -1692,19 +1415,19 @@ ADVISORY OPINIONS
 
 _Article 65_
 
-1.     The Court may give an advisory opinion on any legal question at the request of whatever body may be authorized by or in accordance with the Charter of the United Nations to make such a request.
+1.  The Court may give an advisory opinion on any legal question at the request of whatever body may be authorized by or in accordance with the Charter of the United Nations to make such a request.
 
-2.     Questions upon which the advisory opinion of the Court is asked shall be laid before the Court by means of a written request containing an exact statement of the question upon which an opinion is required, and accompanied by all documents likely to throw light upon the question.
+2.  Questions upon which the advisory opinion of the Court is asked shall be laid before the Court by means of a written request containing an exact statement of the question upon which an opinion is required, and accompanied by all documents likely to throw light upon the question.
 
 _Article 66_
 
-1.     The Registrar shall forthwith give notice of the request for an advisory opinion to all states entitled to appear before the Court.
+1.  The Registrar shall forthwith give notice of the request for an advisory opinion to all states entitled to appear before the Court.
 
-2.     The Registrar shall also, by means of a special and direct communication, notify any state entitled to appear before the Court or international organization considered by the Court, or, should it not be sitting, by the President, as likely to be able to furnish information on the question, that the Court will be prepared to receive, within a time limit to be fixed by the President, written statements, or to hear, at a public sitting to be held for the purpose, oral statements relating to the question.
+2.  The Registrar shall also, by means of a special and direct communication, notify any state entitled to appear before the Court or international organization considered by the Court, or, should it not be sitting, by the President, as likely to be able to furnish information on the question, that the Court will be prepared to receive, within a time limit to be fixed by the President, written statements, or to hear, at a public sitting to be held for the purpose, oral statements relating to the question.
 
-3.     Should any such state entitled to appear before the Court have failed to receive the special communication referred to in paragraph 2 of this Article, such state may express a desire to submit a written statement or to be heard; and the Court will decide.
+3.  Should any such state entitled to appear before the Court have failed to receive the special communication referred to in paragraph 2 of this Article, such state may express a desire to submit a written statement or to be heard; and the Court will decide.
 
-4.     States and organizations having presented written or oral statements or both shall be permitted to comment on the statements made by other states or organizations in the form, to the extent, and within the time limits which the Court, or, should it not be sitting, the President, shall decide in each particular case. Accordingly, the Registrar shall in due time communicate any such written statements to states and organizations having submitted similar statements.
+4.  States and organizations having presented written or oral statements or both shall be permitted to comment on the statements made by other states or organizations in the form, to the extent, and within the time limits which the Court, or, should it not be sitting, the President, shall decide in each particular case. Accordingly, the Registrar shall in due time communicate any such written statements to states and organizations having submitted similar statements.
 
 _Article 67_
 
@@ -2046,7 +1769,7 @@ of Assent</div>
     <div>5 July 2002</div>
   </td>
   <td>
-    <div>13 Dec 2002 ( <i>see</i> <i>Gazette</i>2002, No. S471)</div>
+    <div>Schedule 3: \[ <i>see</i> <i>(b)</i>and Note 4]</div>
   </td>
   <td>
     <div>—</div>
@@ -2056,6 +1779,95 @@ of Assent</div>
 _(a)_ The _Charter of the United Nations Act 1945_ was amended by Schedule 3 (item 96) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
 
                  (3)   Subject to subsections (4) to (10), Schedule 3 commences, or is taken to have commenced, at the same time as the _Corporations Act 2001_.
+
+_(b)_ The _Charter of the United Nations Act 1945_ was amended by Schedule 3 only of the _Suppression of the Financing of Terrorism Act 2002_, subsections 2(1) (item 6) and (5) of which provide as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
+
+<table>
+<colgroup>
+  <col width="27%">
+  <col width="52%">
+  <col width="20%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="3">
+      <div>
+        <b>
+          Commencement information
+        </b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Column 1
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Column 2
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Column 3
+        </b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      6\. Schedule 3
+    </div>
+  </td>
+  <td>
+    <div>
+      A single day to be fixed by Proclamation, subject to subsection (5)
+    </div>
+  </td>
+  <td>
+    <div>
+      \[
+        <i>see</i>Note 4]
+    </div>
+  </td>
+</tr></table>
+
+                 (5)   If a provision covered by item 6 of the table does not commence within the period of 6 months beginning on the day on which this Act receives the Royal Assent, it commences on the first day after the end of that period.
 
 ## Table of Amendments
 
@@ -2096,14 +1908,6 @@ _(a)_ The _Charter of the United Nations Act 1945_ was amended by Schedule 3 (it
 </tr>
 <tr>
   <td>
-    <div><b>Part 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Heading to Part 1</div>
   </td>
   <td>
@@ -2128,14 +1932,6 @@ _(a)_ The _Charter of the United Nations Act 1945_ was amended by Schedule 3 (it
 </tr>
 <tr>
   <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Part 2</div>
   </td>
   <td>
@@ -2152,26 +1948,10 @@ _(a)_ The _Charter of the United Nations Act 1945_ was amended by Schedule 3 (it
 </tr>
 <tr>
   <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Part 3</div>
   </td>
   <td>
     <div>ad. No. 30, 1993</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
@@ -2200,68 +1980,14 @@ _(a)_ The _Charter of the United Nations Act 1945_ was amended by Schedule 3 (it
 </tr>
 <tr>
   <td>
-    <div>Ss. 10, 13</div>
+    <div>Ss. 10-13</div>
   </td>
   <td>
     <div>ad. No. 30, 1993</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 12, 13</div>
-  </td>
-  <td>
-    <div>ad. No. 30, 1993</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 4</div>
-  </td>
-  <td>
-    <div>ad. No. 66, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 14–22</div>
-  </td>
-  <td>
-    <div>ad. No. 66, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22A</div>
-  </td>
-  <td>
-    <div>ad. No. 66, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 23–26</div>
-  </td>
-  <td>
-    <div>ad. No. 66, 2002</div>
-  </td>
 </tr></table>
+
+ 
 
 ### Note 2
 
@@ -2271,37 +1997,37 @@ TEXT OF AMENDED ARTICLES
 
 _Article 23_
 
-1.     The Security Council shall consist of fifteen Members of the United Nations. The Republic of China, France, the Union of Soviet Socialist Republics, the United Kingdom of Great Britain and Northern Ireland, and the United States of America shall be permanent members of the Security Council. The General Assembly shall elect ten other Members of the United Nations to be non-permanent Members of the Security Council, due regard being specially paid, in the first instance to the contribution of Members of the United Nations to the maintenance of international peace and security and to the other purposes of the Organization, and also to equitable geographical distribution.
+1.  The Security Council shall consist of fifteen Members of the United Nations. The Republic of China, France, the Union of Soviet Socialist Republics, the United Kingdom of Great Britain and Northern Ireland, and the United States of America shall be permanent members of the Security Council. The General Assembly shall elect ten other Members of the United Nations to be non-permanent Members of the Security Council, due regard being specially paid, in the first instance to the contribution of Members of the United Nations to the maintenance of international peace and security and to the other purposes of the Organization, and also to equitable geographical distribution.
 
 2\. The non-permanent members of the Security Council shall be elected for a term of two years. In the first election of the non-permanent members after the increase of the membership of the Security Council from eleven to fifteen, two of the four additional members shall be chosen for a term of one year. A retiring member shall not be eligible for immediate re-election. 
 
-3.     Each member of the Security Council shall have one representative. 
+3.  Each member of the Security Council shall have one representative. 
 
 _Article 27_
 
-1.     Each member of the Security Council shall have one vote. 
+1.  Each member of the Security Council shall have one vote. 
 
-2.     Decisions of the Security Council on procedural matters shall be made by an affirmative vote of nine members.
+2.  Decisions of the Security Council on procedural matters shall be made by an affirmative vote of nine members.
 
-3.     Decisions of the Security Council on all other matters shall be made by an affirmative vote of nine members including the concurring votes of the permanent members; provided that, in decisions under Chapter VI, and under paragraph 3 of Article 52, a party to a dispute shall abstain from voting.
+3.  Decisions of the Security Council on all other matters shall be made by an affirmative vote of nine members including the concurring votes of the permanent members; provided that, in decisions under Chapter VI, and under paragraph 3 of Article 52, a party to a dispute shall abstain from voting.
 
 _Article 61_
 
-1.     The Economic and Social Council shall consist of fifty-four Members of the United Nations elected by the General Assembly.
+1.  The Economic and Social Council shall consist of fifty-four Members of the United Nations elected by the General Assembly.
 
-2.     Subject to the provisions of paragraph 3, eighteen members of the Economic and Social Council shall be elected each year for a term of three years. A retiring member shall be eligible for immediate re-election.
+2.  Subject to the provisions of paragraph 3, eighteen members of the Economic and Social Council shall be elected each year for a term of three years. A retiring member shall be eligible for immediate re-election.
 
-3.     At the first election after the increase in the membership of the Economic and Social Council from twenty-seven to fifty-four members, in addition to the members elected in place of the nine members whose term of office expires at the end of that year, twenty-seven additional members shall be elected. Of these twenty-seven additional members, the term of office of nine members so elected shall expire at the end of one year, and of nine other members at the end of two years, in accordance with arrangements made by the General Assembly.
+3.  At the first election after the increase in the membership of the Economic and Social Council from twenty-seven to fifty-four members, in addition to the members elected in place of the nine members whose term of office expires at the end of that year, twenty-seven additional members shall be elected. Of these twenty-seven additional members, the term of office of nine members so elected shall expire at the end of one year, and of nine other members at the end of two years, in accordance with arrangements made by the General Assembly.
 
-4.     Each member of the Economic and Social Council shall have one representative.
+4.  Each member of the Economic and Social Council shall have one representative.
 
 _Article 109_
 
-1.     A General Conference of the Members of the United Nations for the purpose of reviewing the present Charter may be held at a date and place to be fixed by a two-thirds vote of the members of the General Assembly and by a vote of any nine members of the Security Council. Each Member of the United Nations shall have one vote in the conference.
+1.  A General Conference of the Members of the United Nations for the purpose of reviewing the present Charter may be held at a date and place to be fixed by a two-thirds vote of the members of the General Assembly and by a vote of any nine members of the Security Council. Each Member of the United Nations shall have one vote in the conference.
 
-2.     Any alteration of the present Charter recommended by a two-thirds vote of the conference shall take effect when ratified in accordance with their respective constitutional processes by two thirds of the Members of the United Nations including all the permanent members of the Security Council. 
+2.  Any alteration of the present Charter recommended by a two-thirds vote of the conference shall take effect when ratified in accordance with their respective constitutional processes by two thirds of the Members of the United Nations including all the permanent members of the Security Council. 
 
-3.     If such a conference has not been held before the tenth annual session of the General Assembly following the coming into force of the present Charter, the proposal to call such a conference shall be placed on the agenda of that session of the General Assembly, and the conference shall be held if so decided by a majority vote of the members of the General Assembly and by a vote of any seven members of the Security Council.
+3.  If such a conference has not been held before the tenth annual session of the General Assembly following the coming into force of the present Charter, the proposal to call such a conference shall be placed on the agenda of that session of the General Assembly, and the conference shall be held if so decided by a majority vote of the members of the General Assembly and by a vote of any seven members of the Security Council.
 
 NOTES ON AMENDED ARTICLES
 
@@ -2318,5 +2044,259 @@ The amendment to Article 109 provides that a General Conference of Member States
 ### Note 3
 
 The Schedule—Poland, which signed the Charter on 15 October 1945 (being a date subsequent to the date on which the _Charter of the United Nations Act 1945_ received the Royal Assent), is also an original member.
+
+### Note 4
+
+_Suppression of the Financing of Terrorism Act 2002 (No. 66, 2002)_
+
+_The following amendments commence on 6 January 2003 unless proclaimed earlier:_
+
+Schedule 3
+
+1  After Part 3
+
+Insert:
+
+Part 4—Offences to give effect to Security Council decisions
+
+14  Definitions
+
+                   In this Part:
+
+                    <a name="asset"></a>**_asset_** means:
+
+                     (a)  an asset of any kind or property of any kind, whether tangible or intangible, movable or immovable, however acquired; and
+
+                     (b)  a legal document or instrument in any form, including electronic or digital, evidencing title to, or interest in, such an asset or such property, including, but not limited to, bank credits, travellers cheques, bank cheques, money orders, shares, securities, bonds, debt instruments, drafts and letters of credit.
+
+                    <a name="freezabl-asset"></a>**_freezable asset_** means an asset that:
+
+                     (a)  is owned or controlled by a proscribed person or entity; or
+
+                     (b)  is a listed asset; or
+
+                     (c)  is derived or generated from assets mentioned in paragraph (a) or (b).
+
+                    <a name="list-asset"></a>**_listed asset_** means an asset listed by the Minister under section 15.
+
+                    <a name="proscrib-person-entiti"></a>**_proscribed person or entity_** means:
+
+                     (a)  a person or entity listed by the Minister under section 15; or
+
+                     (b)  a person or entity proscribed by regulation under section 18.
+
+                    <a name="superior-court"></a>**_superior court_** means the Federal Court of Australia or the Supreme Court of a State or Territory.
+
+15  Listing persons, entities and assets
+
+             (1)  The Minister must list a person or entity under this section if the Minister is satisfied of the prescribed matters.
+
+             (2)  The Governor-General may make regulations prescribing the matters of which the Minister must be satisfied before listing a person or entity under subsection (1).
+
+             (3)  The Minister may list an asset, or class of asset, under this section if the Minister is satisfied of the prescribed matters.
+
+             (4)  The Governor-General may make regulations prescribing the matters of which the Minister must be satisfied before listing an asset under subsection (3).
+
+             (5)  A matter must not be prescribed under subsection (2) or (4) unless the prescription of the matter would give effect to a decision that:
+
+                     (a)  the Security Council has made under Chapter VII of the Charter of the United Nations; and
+
+                     (b)  Article 25 of the Charter requires Australia to carry out; and
+
+                     (c)  relates to terrorism and dealings with assets.
+
+             (6)  A person or entity is listed by notice in the _Gazette_.
+
+             (7)  An asset or class of asset is listed by notice in the _Gazette_.
+
+16  Minister may revoke the listing
+
+             (1)  The Minister may revoke a listing under section 15 if the Minister is satisfied that the listing is no longer necessary to give effect to a decision that:
+
+                     (a)  the Security Council has made under Chapter VII of the Charter of the United Nations; and
+
+                     (b)  Article 25 of the Charter requires Australia to carry out; and
+
+                     (c)  relates to terrorism and dealings with assets.
+
+             (2)  The Minister may revoke the listing either at the Minister’s own instigation or on application by the listed person or entity.
+
+             (3)  The listing is revoked by notice in the _Gazette_.
+
+             (4)  The listing is revoked at the start of the day immediately after the day on which notice is published in the _Gazette_.
+
+17  Listed person or entity may apply to have the listing revoked
+
+             (1)  A listed person or entity may apply to the Minister to have the listing revoked.
+
+             (2)  The application must:
+
+                     (a)  be in writing; and
+
+                     (b)  set out the circumstances relied upon to justify the application.
+
+             (3)  The Minister is not required to consider an application (the **_current application_**) by a listed person or entity under this section if the listed person or entity has made an application under this section within one year before the current application _._
+
+18  Proscription by regulation
+
+             (1)  The Governor-General may make regulations proscribing persons or entities under this section.
+
+             (2)  A person or entity must not be proscribed under subsection (1) unless the proscription would give effect to a decision:
+
+                     (a)  that the Security Council has made under Chapter VII of the Charter of the United Nations; and
+
+                     (b)  that Article 25 of the Charter requires Australia to carry out; and
+
+                     (c)  that relates to terrorism and dealings with assets; and
+
+                     (d)  under which the person or entity is identified (whether in the decision or using a mechanism established under the decision) as a person or entity to which the decision relates.
+
+             (3)  The regulations may proscribe persons or entities under this section by incorporating a list of persons or entities identified, either in the decision itself or using a mechanism established under the decision, as persons or entities to which the decision relates. The list may be incorporated by the regulations as it exists from time to time.
+
+19  Effect of resolution ceasing to bind Australia
+
+             (1)  In so far as a listing under section 15 gives effect to a particular decision of the Security Council, the listing is revoked when Article 25 of the Charter of the United Nations ceases to require Australia to carry out that decision.
+
+             (2)  In so far as regulations proscribing a person or entity under section 18 give effect to a particular decision of the Security Council:
+
+                     (a)  the regulations cease to have effect when Article 25 of the Charter of the United Nations ceases to require Australia to carry out that decision; and
+
+                     (b)  they do not revive, even if Australia again becomes required to carry out the decision.
+
+             (3)  However, to avoid doubt, nothing in this section prevents:
+
+                     (a)  the revocation, under section 16, of a listing; or
+
+                     (b)  the repeal of regulations; or
+
+                     (c)  the making of regulations that are the same in substance as regulations that have ceased to have effect because of this section.
+
+20  Offence—dealing with freezable assets
+
+             (1)  A person commits an offence if:
+
+                     (a)  the person holds an asset; and
+
+                     (b)  the person:
+
+                              (i)  uses or deals with the asset; or
+
+                             (ii)  allows the asset to be used or dealt with; or
+
+                            (iii)  facilitates the use of the asset or dealing with the asset; and
+
+                     (c)  the asset is a freezable asset; and
+
+                     (d)  the use or dealing is not in accordance with a notice under section 22.
+
+                    Penalty:  Imprisonment for 5 years.
+
+             (2)  Strict liability applies to the circumstance that the use or dealing with the asset is not in accordance with a notice under section 22.
+
+             (3)  It is a defence if the person proves that the use or dealing was solely for the purpose of preserving the value of the asset.
+
+             (4)  Section 15.1 of the _Criminal Code_ (extended geographical jurisdiction—category A) applies to an offence against subsection (1).
+
+21  Offence—giving an asset to a proscribed person or entity
+
+             (1)  A person commits an offence if:
+
+                     (a)  the person, directly or indirectly, makes an asset available to a person or entity; and
+
+                     (b)  the person or entity to whom the asset is made available is a proscribed person or entity; and
+
+                     (c)  the making available of the asset is not in accordance with a notice under section 22.
+
+                    Penalty:  Imprisonment for 5 years.
+
+             (2)  Strict liability applies to the circumstance that the making available of the asset is not in accordance with a notice under section 22.
+
+             (3)  Section 15.1 of the _Criminal Code_ (extended geographical jurisdiction—category A) applies to an offence against subsection (1).
+
+22  Authorised dealings
+
+             (1)  The owner of a freezable asset may apply in writing to the Minister for permission to use or deal with the asset in a specified way.
+
+             (2)  The owner of an asset may apply in writing to the Minister for permission to make the asset available to a proscribed person or entity specified in the application.
+
+             (3)  The Minister may, by written notice:
+
+                     (a)  permit a freezable asset specified in the notice to be used or dealt with in a specified way; or
+
+                     (b)  permit an asset specified in the notice to be made available to a proscribed person or entity specified in the notice.
+
+             (4)  The notice may be subject to conditions.
+
+             (5)  The notice must be given to the owner of the asset as soon as practicable after it is made.
+
+             (6)  The Minister may delegate the Minister’s powers and functions under this section to:
+
+                     (a)  the Secretary of the Department; or
+
+                     (b)  an SES employee, or acting SES employee, in the Department.
+
+The delegation must be in writing.
+
+             (7)  The delegate must comply with any directions of the Minister in exercising powers or functions under the delegation.
+
+22A  Regulations on procedures relating to freezable assets
+
+             (1)  The Governor-General may make regulations relating to procedures relating to assets that are, may be or may become freezable assets.
+
+             (2)  The regulations may provide for procedures relating to information (including personal information) relating to such assets in circumstances involving:
+
+                     (a)  a listing, or proposed listing, of a person, entity, asset or class of asset under section 15; or
+
+                     (b)  a question whether an asset is or may become a freezable asset; or
+
+                     (c)  an application for, or grant of, permission under section 22.
+
+             (3)  Subsection (2) does not limit subsection (1).
+
+23  Part prevails over conflicting legal obligations
+
+                   This Part prevails over provisions in laws of the Commonwealth, or of a State or Territory, that would otherwise require a person to act in contravention of this Part.
+
+24  Indemnity for holder of assets
+
+                   A person is not liable to an action, suit or proceeding for anything done or omitted to be done  in good faith and without negligence in compliance or purported compliance with this Part.
+
+25  Compensation for persons wrongly affected
+
+                   If:
+
+                     (a)  the owner or controller of an asset instructs a person holding the asset to use or deal with it; and
+
+                     (b)  the holder refuses to comply with the instruction; and
+
+                     (c)  the refusal was in good faith, and without negligence, in purported compliance with this Part; and
+
+                     (d)  the asset was not a freezable asset; and
+
+                     (e)  the owner of the asset suffered loss as a result of the refusal;
+
+the owner of the asset is entitled to be compensated by the Commonwealth for that loss.
+
+26  Injunctions
+
+             (1)  If a person has engaged, is engaging, or proposes to engage, in conduct involving a contravention of this Part, a superior court may by order grant an injunction restraining the person from engaging in conduct specified in the order.
+
+             (2)  An injunction may only be granted on application by the Attorney-General.
+
+             (3)  On an application, the court may, if it thinks it appropriate, grant an injunction by consent of all parties to the proceedings, whether or not the court is satisfied that subsection (1) applies.
+
+             (4)  A superior court may, if it thinks it desirable, grant an interim injunction pending its determination of an application.
+
+             (5)  A court is not to require the Attorney-General or anyone else, as a condition of granting an interim injunction, to give an undertaking as to damages.
+
+             (6)  A court may discharge or vary an injunction it has granted.
+
+             (7)  The power to grant or vary an injunction restraining a person from engaging in conduct may be exercised:
+
+                     (a)  whether or not it appears to the court that the person intends to engage again, or to continue to engage, in such conduct; and
+
+          (b)     whether or not the person has previously engaged in such conduct.
+
+As at 1 August 2002 the amendments are not incorporated in this compilation.
 
  
