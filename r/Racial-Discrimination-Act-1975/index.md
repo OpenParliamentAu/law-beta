@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00388/Html/0b71d5fd-60cc-4132-bec1-eb1cd3996450_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00393/Html/RacialDiscrim1975_WD02_image001.gif)
 
 # Racial Discrimination Act 1975
 
 **Act No. 52 of 1975 as amended**
 
-This compilation was prepared on 5 August 2009
- taking into account amendments up to Act No. 70 of 2009
+This compilation was prepared on 11 July 2008
+ taking into account amendments up to Act No. 73 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,113 +14,127 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
 **Part I—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Interpretation
+[3](#3).            Interpretation                                                                                       2
 
-[4](#4).            Extension to external Territories
+[4](#4).            Extension to external Territories                                                          3
 
-[5](#5).            Additional operation of Act
+[5](#5).            Additional operation of Act                                                                3
 
-[6](#6).            Act binds the Crown
+[6](#6).            Act binds the Crown                                                                           4
 
-[6A](#6A).         Operation of State and Territory laws
+[6A](#6A).         Operation of State and Territory laws                                                4
 
-[6B](#6B).         Application of the _Criminal Code_
+[6B](#6B).         Application of the _Criminal Code_                                                       5
 
-[7](#7).            Ratification of Convention
+[7](#7).            Ratification of Convention                                                                  5
 
 **Part II—Prohibition of racial discrimination**
 
-[8](#8).            Exceptions
+[8](#8).            Exceptions                                                                                           6
 
-[9](#9).            Racial discrimination to be unlawful
+[9](#9).            Racial discrimination to be unlawful                                                    6
 
-[10](#10).          Rights to equality before the law
+[10](#10).          Rights to equality before the law                                                         7
 
-[11](#11).          Access to places and facilities
+[11](#11).          Access to places and facilities                                                             8
 
-[12](#12).          Land, housing and other accommodation
+[12](#12).          Land, housing and other accommodation                                             9
 
-[13](#13).          Provision of goods and services
+[13](#13).          Provision of goods and services                                                           9
 
-[14](#14).          Right to join trade unions
+[14](#14).          Right to join trade unions                                                                  10
 
-[15](#15).          Employment
+[15](#15).          Employment                                                                                      10
 
-[16](#16).          Advertisements
+[16](#16).          Advertisements                                                                                  11
 
-[17](#17).          Unlawful to incite doing of unlawful acts
+[17](#17).          Unlawful to incite doing of unlawful acts                                          11
 
-[18](#18).          Acts done for 2 or more reasons
+[18](#18).          Acts done for 2 or more reasons                                                        11
 
-[18A](#18A).       Vicarious liability
+[18A](#18A).       Vicarious liability                                                                               12
 
 **Part IIA—Prohibition of offensive behaviour based on racial hatred**
 
-[18B](#18B).       Reason for doing an act
+[18B](#18B).       Reason for doing an act                                                                      13
 
-[18C](#18C).       Offensive behaviour because of race, colour or national or ethnic origin
+[18C](#18C).       Offensive behaviour because of race, colour or national or ethnic origin 13
 
-[18D](#18D).       Exemptions
+[18D](#18D).       Exemptions                                                                                        14
 
-[18E](#18E).        Vicarious liability
+[18E](#18E).        Vicarious liability                                                                               14
 
-[18F](#18F).        State and Territory laws not affected
+[18F](#18F).        State and Territory laws not affected                                                14
 
 **Part III—Race Discrimination Commissioner and functions of Commission** 
 
     **Division 1—Preliminary**
 
-[19](#19).          Race Discrimination Commissioner
+[19](#19).          Race Discrimination Commissioner                                                   15
 
-[20](#20).          Functions of Commission
+[20](#20).          Functions of Commission                                                                  15
 
 **Part IV—Offences**
 
-[26](#26).          Unlawful acts not offences unless expressly so provided
+[26](#26).          Unlawful acts not offences unless expressly so provided                 16
 
-[27](#27).          Offences relating to administration of Act
+[27](#27).          Offences relating to administration of Act                                        16
 
-[27F](#27F).        Non‑disclosure of private information
+[27F](#27F).        Non-disclosure of private information                                              17
 
-**Part VI—Race Discrimination Commissioner**
+**Part V—Community Relations Council**
 
-[29](#29).          Appointment of Race Discrimination Commissioner
+[28](#28).          Establishment and functions of Council                                            20
 
-[30](#30).          Terms and conditions of appointment
+**Part VI—Administrative provisions** 
 
-[31](#31).          Remuneration of Commissioner
+    **Division 1—Race Discrimination Commissioner**
 
-[32](#32).          Leave of absence
+[29](#29).          Appointment of Race Discrimination Commissioner                       21
 
-[33](#33).          Resignation
+[30](#30).          Terms and conditions of appointment                                              21
 
-[34](#34).          Termination of appointment
+[31](#31).          Remuneration of Commissioner                                                        21
 
-[35](#35).          Outside employment
+[32](#32).          Leave of absence                                                                                21
 
-[36](#36).          Acting Commissioner
+[33](#33).          Resignation                                                                                        22
 
-[40](#40).          Delegation
+[34](#34).          Termination of appointment                                                             22
+
+[35](#35).          Outside employment                                                                         22
+
+[36](#36).          Acting Commissioner                                                                        22
+
+[40](#40).          Delegation                                                                                          23
+
+    **Division 2—Community Relations Council**
+
+[41](#41).          Constitution of Council                                                                     24
+
+[42](#42).          Remuneration of members                                                                 24
+
+[43](#43).          Meetings of Council                                                                          24
 
 **Part VII—Miscellaneous**
 
-[44](#44).          Jurisdiction
+[44](#44).          Jurisdiction                                                                                        26
 
-[45](#45).          Protection from civil actions
+[45](#45).          Protection from civil actions                                                              26
 
-[45A](#45A).       Commissioner to furnish information
+[45A](#45A).       Commissioner to furnish information                                                27
 
-[47](#47).          Regulations
+[47](#47).          Regulations                                                                                        27
 
 **Schedule—International Convention on the elimination of all forms of racial discrimination** 
 
@@ -154,25 +168,35 @@ BE IT THEREFORE ENACTED by the Queen, the Senate and the House of Representative
 
                     <a name="aborigin"></a>**_Aboriginal_** means a person who is a descendant of an indigenous inhabitant of Australia but does not include a Torres Strait Islander.
 
-                    <a name="commiss"></a>**_Commission_** means the Australian Human Rights Commission.
+                    <a name="chair"></a>**_Chair_** means Chair of the Council.
+
+                    <a name="commiss"></a>**_Commission_** means the Human Rights and Equal Opportunity Commission established by the _Human Rights and Equal Opportunity Commission Act 1986_.
 
                     <a name="commission"></a>**_Commissioner_** means the Race Discrimination Commissioner appointed under section 29.
 
                     <a name="commonwealth-agenc"></a>**_Commonwealth agency_** means an agency within the meaning of the _Privacy Act 1988_.
 
+                    <a name="concili-committe"></a>**_conciliation committee_** means a conciliation committee established under the regulations.
+
                     <a name="convent"></a>**_Convention_** means the International Convention on the Elimination of All Forms of Racial Discrimination that was opened for signature on 21 December 1965 and entered into force on 2 January 1969, being the Convention a copy of the English text of which is set out in the Schedule.
 
-                    <a name="dispos"></a>**_dispose_** includes sell, assign, lease, let, sub‑lease, sub‑let, license or mortgage, and also includes agree to dispose and grant consent to the disposal of.
+                    <a name="council"></a>**_Council_** means the Community Relations Council established by section 28.
+
+                    <a name="deputi-chair"></a>**_Deputy Chair_** means Deputy Chair of the Council.
+
+                    <a name="dispos"></a>**_dispose_** includes sell, assign, lease, let, sub-lease, sub-let, license or mortgage, and also includes agree to dispose and grant consent to the disposal of.
 
                     <a name="employ"></a>**_employment_** includes work under a contract for services, and cognate expressions have corresponding meanings.
+
+                    <a name="member"></a>**_member_** means a member of the Council and includes the Chair and the Deputy Chair.
 
                     <a name="presid"></a>**_President_** means President of the Commission.
 
                     <a name="princip-execut"></a>**_principal executive_**, in relation to a Commonwealth agency, has the same meaning as in Part V of the _Privacy Act 1988_.
 
-                    <a name="rel"></a>**_relative_**, in relation to a person, means a person who is related to the first‑mentioned person by blood, marriage, affinity or adoption and includes a person who is wholly or mainly dependent on, or is a member of the household of, the first‑mentioned person.
+                    <a name="rel"></a>**_relative_**, in relation to a person, means a person who is related to the first-mentioned person by blood, marriage, affinity or adoption and includes a person who is wholly or mainly dependent on, or is a member of the household of, the first-mentioned person.
 
-                    <a name="residenti-accommod"></a>**_residential accommodation_** includes accommodation in a dwelling‑house, flat, hotel, motel or boarding‑house or on a camping ground.
+                    <a name="residenti-accommod"></a>**_residential accommodation_** includes accommodation in a dwelling-house, flat, hotel, motel or boarding-house or on a camping ground.
 
                     <a name="servic"></a>**_services_** includes services consisting of the provision of facilities by way of banking or insurance or of facilities for grants, loans, credit or finance.
 
@@ -208,7 +232,7 @@ BE IT THEREFORE ENACTED by the Queen, the Senate and the House of Representative
 
 ##### <a id="6"></a>6  Act binds the Crown
 
-                   This Act binds the Crown in right of the Commonwealth, of each of the States, of the Northern Territory and of Norfolk Island, but nothing in this Act renders the Crown liable to be prosecuted for an offence.
+                   This Act binds the Crown in right of the Commonwealth, of each of the States, of the Northern Territory and of Norfolk  Island, but nothing in this Act renders the Crown liable to be prosecuted for an offence.
 
 ##### <a id="6A"></a>6A  Operation of State and Territory laws
 
@@ -218,9 +242,9 @@ BE IT THEREFORE ENACTED by the Queen, the Senate and the House of Representative
 
                      (a)  a law of a State or Territory that furthers the objects of the Convention deals with a matter dealt with by this Act; and
 
-                     (b)  a person has, whether before or after the commencement of this section, made a complaint, instituted a proceeding or taken any other action under that law in respect of an act or omission in respect of which the person would, but for this subsection, have been entitled to make a complaint under the _Australian Human Rights Commission Act 1986_ alleging that the act or omission is unlawful under a provision of Part II or IIA of this Act;
+                     (b)  a person has, whether before or after the commencement of this section, made a complaint, instituted a proceeding or taken any other action under that law in respect of an act or omission in respect of which the person would, but for this subsection, have been entitled to make a complaint under the _Human Rights and Equal Opportunity Commission Act 1986_ alleging that the act or omission is unlawful under a provision of Part II or IIA of this Act;
 
-the person shall be deemed never to have been, and is not, entitled to make a complaint or institute a proceeding under the _Australian Human Rights Commission Act 1986_ alleging that the act or omission is unlawful under a provision of Part II or IIA of this Act and any proceedings pending under this Act at the commencement of this section in respect of such a complaint made before that commencement are, by force of this subsection, terminated.
+the person shall be deemed never to have been, and is not, entitled to make a complaint or institute a proceeding under the _Human Rights and Equal Opportunity Commission Act 1986_ alleging that the act or omission is unlawful under a provision of Part II or IIA of this Act and any proceedings pending under this Act at the commencement of this section in respect of such a complaint made before that commencement are, by force of this subsection, terminated.
 
              (3)  Where:
 
@@ -276,7 +300,7 @@ the act of requiring such compliance is to be treated, for the purposes of this 
 
 ##### <a id="10"></a>10  Rights to equality before the law
 
-             (1)  If, by reason of, or of a provision of, a law of the Commonwealth or of a State or Territory, persons of a particular race, colour or national or ethnic origin do not enjoy a right that is enjoyed by persons of another race, colour or national or ethnic origin, or enjoy a right to a more limited extent than persons of another race, colour or national or ethnic origin, then, notwithstanding anything in that law, persons of the first‑mentioned race, colour or national or ethnic origin shall, by force of this section, enjoy that right to the same extent as persons of that other race, colour or national or ethnic origin.
+             (1)  If, by reason of, or of a provision of, a law of the Commonwealth or of a State or Territory, persons of a particular race, colour or national or ethnic origin do not enjoy a right that is enjoyed by persons of another race, colour or national or ethnic origin, or enjoy a right to a more limited extent than persons of another race, colour or national or ethnic origin, then, notwithstanding anything in that law, persons of the first-mentioned race, colour or national or ethnic origin shall, by force of this section, enjoy that right to the same extent as persons of that other race, colour or national or ethnic origin.
 
              (2)  A reference in subsection (1) to a right includes a reference to a right of a kind referred to in Article 5 of the Convention.
 
@@ -318,7 +342,7 @@ by reason of the race, colour or national or ethnic origin of that second person
 
              (2)  It is unlawful for a person, whether as a principal or agent, to impose or seek to impose on another person any term or condition that limits, by reference to race, colour or national or ethnic origin, the persons or class of persons who may be the licensees or invitees of the occupier of any land or residential or business accommodation.
 
-             (3)  Nothing in this section renders unlawful an act in relation to accommodation in a dwelling‑house or flat, being accommodation shared or to be shared, in whole or in part, with the person who did the act or a person on whose behalf the act was done or with a relative of either of those persons.
+             (3)  Nothing in this section renders unlawful an act in relation to accommodation in a dwelling-house or flat, being accommodation shared or to be shared, in whole or in part, with the person who did the act or a person on whose behalf the act was done or with a relative of either of those persons.
 
 ##### <a id="13"></a>13  Provision of goods and services
 
@@ -354,9 +378,9 @@ by reason of the race, colour or national or ethnic origin of that second person
 
              (4)  This section does not apply in respect of the employment, or an application for the employment, of a person on a ship or aircraft (not being an Australian ship or aircraft) if that person was engaged, or applied, for that employment outside Australia.
 
-             (5)  Nothing in this section renders unlawful an act in relation to employment, or an application for employment, in a dwelling‑house or flat occupied by the person who did the act or a person on whose behalf the act was done or by a relative of either of those persons.
+             (5)  Nothing in this section renders unlawful an act in relation to employment, or an application for employment, in a dwelling-house or flat occupied by the person who did the act or a person on whose behalf the act was done or by a relative of either of those persons.
 
-##### <a id="16"></a>16  Advertisements
+##### <a id="16"></a>16  Advertisements
 
                    It is unlawful for a person to publish or display, or cause or permit to be published or displayed, an advertisement or notice that indicates, or could reasonably be understood as indicating, an intention to do an act that is unlawful by reason of a provision of this Part or an act that would, but for subsection 12(3) or 15(5), be unlawful by reason of section 12 or 15, as the case may be.
 
@@ -410,7 +434,7 @@ then, for the purposes of this Part, the act is taken to be done because of the 
 
                      (b)  the act is done because of the race, colour or national or ethnic origin of the other person or of some or all of the people in the group.
 
-Note:          Subsection (1) makes certain acts unlawful. Section 46P of the _Australian Human Rights Commission Act 1986_ allows people to make complaints to the Australian Human Rights Commission about unlawful acts. However, an unlawful act is not necessarily a criminal offence. Section 26 says that this Act does not make it an offence to do an act that is unlawful because of this Part, unless Part IV expressly says that the act is an offence.
+Note:          Subsection (1) makes certain acts unlawful. Section 46P of the _Human Rights and Equal Opportunity Commission Act 1986_ allows people to make complaints to the Human Rights and Equal Opportunity Commission about unlawful acts. However, an unlawful act is not necessarily a criminal offence. Section 26 says that this Act does not make it an offence to do an act that is unlawful because of this Part, unless Part IV expressly says that the act is an offence.
 
              (2)  For the purposes of subsection (1), an act is taken not to be done in private if it:
 
@@ -464,7 +488,7 @@ this Act applies in relation to the person as if the person had also done the ac
 
 ##### <a id="20"></a>20  Functions of Commission
 
-                   The following functions are hereby conferred on the Commission:
+             (1)  The following functions are hereby conferred on the Commission:
 
                      (b)  to promote an understanding and acceptance of, and compliance with, this Act;
 
@@ -482,7 +506,7 @@ this Act applies in relation to the person as if the person had also done the ac
 
                       (f)  to inquire into, and make determinations on, matters referred to it by the Minister or the Commissioner.
 
-Note:          For the provisions about inquiries into complaints of discrimination and conciliation of those complaints: see Part IIB of the _Australian Human Rights Commission Act 1986_.
+Note:          For the provisions about inquiries into complaints of discrimination and conciliation of those complaints: see Part IIB of the _Human Rights and Equal Opportunity Commission Act 1986_.
 
 ## Part IV—Offences
 
@@ -494,7 +518,11 @@ Note:          For the provisions about inquiries into complai
 
              (1)  A person shall not hinder, obstruct, molest or interfere with a person exercising or performing any of the powers or functions referred to in this Act.
 
-                    Penalty for an offence against subsection (1): 10 penalty units.
+                    Penalty for an offence against subsection (1):           
+
+                     (a)  in the case of a natural person—$1,000; or
+
+                     (b)  in the case of a body corporate—$5,000.
 
           (1A)  For the purposes of an offence against subsection (1), strict liability applies to the physical element of circumstance, that a person is exercising or performing any of the powers or functions referred to in this Act.
 
@@ -502,9 +530,9 @@ Note:          For **_strict liability_**, see section 6.1 o
 
              (2)  A person shall not:
 
-                     (a)  refuse to employ another person; or
+                     (a)  refuse to employ another person;
 
-                     (b)  dismiss, or threaten to dismiss, another person from the other person’s employment; or
+                     (b)  dismiss, or threaten to dismiss, another person from the other person’s employment;
 
                      (c)  prejudice, or threaten to prejudice, another person in the other person’s employment; or
 
@@ -512,43 +540,43 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 by reason that the other person:
 
-                     (e)  has made, or proposes to make, a complaint under this Act or the _Australian Human Rights Commission Act 1986_; or
+                     (e)  has made, or proposes to make, a complaint under this Act or the _Human Rights and Equal Opportunity Commission Act 1986_;
 
-                      (f)  has furnished, or proposes to furnish, any information or documents to a person exercising or performing any powers or functions under this Act or the _Australian Human Rights Commission Act 1986_; or
+                      (f)  has furnished, or proposes to furnish, any information or documents to a person exercising or performing any powers or functions under this Act or the _Human Rights and Equal Opportunity Commission Act 1986_; or
 
-                     (g)  has attended, or proposes to attend, a conference held under this Act or the _Australian Human Rights Commission Act 1986_.
+                     (g)  has attended, or proposes to attend, a conference held under this Act or the _Human Rights and Equal Opportunity Commission Act 1986_.
 
-                    Penalty for an offence against subsection (2):
+                    Penalty for an offence against subsection (2):           
 
-                     (a)  in the case of a natural person—25 penalty units or imprisonment for 3 months, or both; or
+                     (a)  in the case of a natural person—$2,500 or imprisonment for 3 months, or both; or
 
-                     (b)  in the case of a body corporate—100 penalty units.
+                     (b)  in the case of a body corporate—$10,000.
 
-##### <a id="27F"></a>27F  Non‑disclosure of private information
+##### <a id="27F"></a>27F  Non-disclosure of private information
 
              (1)  A person who is, or has at any time been, the Commissioner, a member of the Commission or a member of the staff assisting the Commission or is, or has at any time been, authorised to perform or exercise any function or power of the Commission or the Commissioner or any function or power on behalf of the Commission or the Commissioner, being a function or power conferred on the Commission or on the Commissioner under this Act, shall not, either directly or indirectly:
 
-                     (a)  make a record of, or divulge or communicate to any person, any information relating to the affairs of another person acquired by the first‑mentioned person by reason of that person’s office or employment under or for the purpose of this Act or by reason of that person being or having been so authorised; or
+                     (a)  make a record of, or divulge or communicate to any person, any information relating to the affairs of another person acquired by the first-mentioned person by reason of that person’s office or employment under or for the purpose of this Act or by reason of that person being or having been so authorised;
 
                      (b)  make use of any such information as is mentioned in paragraph (a); or
 
                      (c)  produce to any person a document relating to the affairs of another person furnished for the purposes of this Act.
 
-                    Penalty:  50 penalty units or imprisonment for 1 year, or both.
+                    Penalty:  $5,000 or imprisonment for 1 year, or both.
 
              (2)  A person who is, or has at any time been, the Commissioner, a member of the Commission or a member of the staff assisting the Commission or is, or has at any time been, authorised to perform or exercise any function or power of the Commission or the Commissioner or any function or power on behalf of the Commission or the Commissioner, being a function or power conferred on the Commission or on the Commissioner under this Act, shall not be required:
 
-                     (a)  to divulge or communicate to a court any information relating to the affairs of another person acquired by the first‑mentioned person by reason of that person’s office or employment under or for the purposes of this Act or by reason of that person being or having been so authorised; or
+                     (a)  to divulge or communicate to a court any information relating to the affairs of another person acquired by the first-mentioned person by reason of that person’s office or employment under or for the purposes of this Act or by reason of that person being or having been so authorised; or
 
-                     (b)  to produce in a court a document relating to the affairs of another person of which the first‑mentioned person has custody, or to which that person has access, by reason of that person’s office or employment under or for the purposes of this Act or by reason of that person being or having been so authorised;
+                     (b)  to produce in a court a document relating to the affairs of another person of which the first-mentioned person has custody, or to which that person has access, by reason of that person’s office or employment under or for the purposes of this Act or by reason of that person being or having been so authorised;
 
 except where it is necessary to do so for the purposes of this Act.
 
              (3)  Nothing in this section prohibits a person from:
 
-                     (a)  making a record of information that is, or is included in a class of information that is, required or permitted by an Act to be recorded, if the record is made for the purposes of or pursuant to that Act; or
+                     (a)  making a record of information that is, or is included in a class of information that is, required or permitted by an Act to be recorded, if the record is made for the purposes of or pursuant to that Act;
 
-                     (b)  divulging or communicating information, or producing a document, to any person in accordance with an arrangement in force under section 16 of the _Australian Human Rights Commission Act 1986_; or
+                     (b)  divulging or communicating information, or producing a document, to any person in accordance with an arrangement in force under section 16 of the _Human Rights and Equal Opportunity Commission Act 1986_; or
 
                      (c)  divulging or communicating information, or producing a document, that is, or is included in a class of information that is or class of documents that are, required or permitted by an Act to be divulged, communicated or produced, as the case may be, if the information is divulged or communicated, or the document is produced, for the purposes of or pursuant to that Act.
 
@@ -570,19 +598,41 @@ Note:          A defendant bears an evidential burden in relat
 
                     <a name="produc"></a>**_produce_** includes permit access to.
 
-## Part VI—Race Discrimination Commissioner
+## Part V—Community Relations Council
+
+##### <a id="28"></a>28  Establishment and functions of Council
+
+             (1)  For the purposes of this Act there is established a Community Relations Council.
+
+             (2)  It is the function of the Council to advise, and make recommendations to, the Minister and the Commission, either of its own motion or upon request made to it by the Minister or the Commission, as the case may be, concerning:
+
+                     (a)  the observance and implementation of the Convention;
+
+                     (b)  the promotion of educational programs with respect to the observance of the Convention;
+
+                     (c)  the promotion of studies and research programs with respect to the observance and implementation of the Convention;
+
+                     (d)  the publication and dissemination of material to assist in the observance and implementation of the Convention;
+
+                     (e)  the promotion of understanding, tolerance and friendship among racial and ethnic groups; and
+
+                      (f)  any other matter related to the observance or implementation of the Convention.
+
+## Part VI—Administrative provisions
+
+### Division 1—Race Discrimination Commissioner
 
 ##### <a id="29"></a>29  Appointment of Race Discrimination Commissioner
 
-             (1)  The Race Discrimination Commissioner shall be appointed by the Governor‑General.
+             (1)  The Race Discrimination Commissioner shall be appointed by the Governor-General.
 
-             (2)  A person is not qualified to be appointed as the Race Discrimination Commissioner unless the Minister is satisfied that the person has appropriate qualifications, knowledge or experience.
+             (2)  A person is not qualified to be appointed as the Race Discrimination Commissioner unless the Governor-General is satisfied that the person has appropriate qualifications, knowledge or experience.
 
 ##### <a id="30"></a>30  Terms and conditions of appointment
 
-             (1)  Subject to this section, the Commissioner holds office for such period, not exceeding 7 years, as is specified in the instrument of his or her appointment, but is eligible for re‑appointment.
+             (1)  Subject to this section, the Commissioner holds office for such period, not exceeding 7 years, as is specified in the instrument of his or her appointment, but is eligible for re-appointment.
 
-             (3)  The Commissioner holds office on such terms and conditions (if any) in respect of matters not provided for by this Act as are determined by the Governor‑General.
+             (3)  The Commissioner holds office on such terms and conditions (if any) in respect of matters not provided for by this Act as are determined by the Governor-General.
 
 ##### <a id="31"></a>31  Remuneration of Commissioner
 
@@ -600,13 +650,13 @@ Note:          A defendant bears an evidential burden in relat
 
 ##### <a id="33"></a>33  Resignation
 
-                   The Commissioner may resign from the office of Commissioner by writing signed by the Commissioner and delivered to the Governor‑General.
+                   The Commissioner may resign from the office of Commissioner by writing signed by the Commissioner and delivered to the Governor-General.
 
 ##### <a id="34"></a>34  Termination of appointment
 
-             (1)  The Governor‑General may terminate the appointment of the Commissioner by reason of misbehaviour or of physical or mental incapacity.
+             (1)  The Governor-General may terminate the appointment of the Commissioner by reason of misbehaviour or of physical or mental incapacity.
 
-             (2)  The Governor‑General shall terminate the appointment of the Commissioner if the Commissioner:
+             (2)  The Governor-General shall terminate the appointment of the Commissioner if the Commissioner:
 
                      (a)  is absent from duty, except on leave of absence, for 14 consecutive days or for 28 days in any period of 12 months; or
 
@@ -630,11 +680,47 @@ Note:          A defendant bears an evidential burden in relat
 
              (2)  The Commissioner may, by writing signed by the Commissioner, delegate to a member of the staff of the Commission approved by the Commission, or to another person approved by the Commission, all or any of the powers exercisable by the Commissioner under this Act.
 
+### Division 2—Community Relations Council
+
+##### <a id="41"></a>41  Constitution of Council
+
+             (1)  The Council shall consist of such members (not being less than 10 or more than 20 in number) as the Minister appoints.
+
+             (2)  One of the members shall be designated in the instrument of the member’s appointment as the Chair of the Council and another of the members shall be designated in the instrument of the member’s appointment as the Deputy Chair of the Council.
+
+             (3)  The performance of the functions or the exercise of the powers of the Council is not affected by the number of members falling below 10 for a period not exceeding 3 months.
+
+##### <a id="42"></a>42  Remuneration of members
+
+             (1)  Members shall be paid such remuneration as is determined by the Remuneration Tribunal, but, if no determination of that remuneration by the Tribunal is in operation, they shall be paid such remuneration as is prescribed.
+
+             (2)  Members shall be paid such allowances as are prescribed.
+
+             (3)  This section has effect subject to the _Remuneration Tribunal Act 1973_.
+
+##### <a id="43"></a>43  Meetings of Council
+
+             (1)  The Chair, or, if the Chair is unavailable, the Deputy Chair, may convene meetings of the Council.
+
+             (2)  At a meeting of the Council, 6 members constitute a quorum.
+
+             (3)  The Chair shall preside at all meetings of the Council at which the Chair is present.
+
+             (4)  If the Chair is not present at a meeting of the Council but the Deputy Chair is present, the Deputy Chair shall preside at the meeting.
+
+             (5)  If the Chair and the Deputy Chair are not present at a meeting of the Council, the members present shall appoint one of their number to preside at the meeting.
+
+             (6)  Questions arising at a meeting of the Council shall be decided by a majority of the votes of the members present and voting.
+
+             (7)  The member presiding at a meeting of the Council has a deliberative vote and, in the event of an equality of votes, also has a casting vote.
+
+             (8)  The Council shall cause records to be kept of its meetings.
+
 ## Part VII—Miscellaneous
 
 ##### <a id="44"></a>44  Jurisdiction
 
-             (1)  The several courts of the States are invested with federal jurisdiction, and jurisdiction is conferred on the several courts of the Territories, within the limits of their several jurisdictions, whether those limits are as to locality, subject‑matter or otherwise, to hear and determine civil and criminal proceedings instituted in those courts under this Act.
+             (1)  The several courts of the States are invested with federal jurisdiction, and jurisdiction is conferred on the several courts of the Territories, within the limits of their several jurisdictions, whether those limits are as to locality, subject-matter or otherwise, to hear and determine civil and criminal proceedings instituted in those courts under this Act.
 
              (2)  No proceedings under this Act shall be instituted in a court of a State or Territory before a day to be fixed by Proclamation as the day on which:
 
@@ -646,23 +732,11 @@ but nothing in this subsection prevents a court from exercising jurisdiction in 
 
 ##### <a id="45"></a>45  Protection from civil actions
 
-          (1A)  Subsection (1) applies in relation to any of the following persons:
+             (1)  The Commission, a member of the Commission, the Commissioner or a person acting under the direction or authority of the Commission or of the Commissioner or under a delegation under section 40 is not liable to an action or other proceeding for damages for or in relation to an act done or omitted to be done in good faith in the performance or purported performance of any function, or in the exercise or purported exercise of any power or authority, conferred on the Commission or the Commissioner.
 
-                     (a)  the Commission;
+             (2)  If a submission has been made, a document or information has been given, or evidence has been given, to the Commission or the Commissioner,
 
-                     (b)  the Commissioner or another member of the Commission;
-
-                     (c)  a person acting under the direction or authority of:
-
-                              (i)  the Commission; or
-
-                             (ii)  the Commissioner or another member of the Commission;
-
-                     (d)  a person acting under a delegation under section 40.
-
-             (1)  The person is not liable to an action or other proceeding for damages for or in relation to an act done, or omitted to be done, in good faith in the performance, or purported performance, of any function, or in the exercise or purported exercise of any power or authority, conferred on the Commission, the Commissioner or the other member of the Commission.
-
-             (2)  If a submission has been made, a document or information has been given, or evidence has been given, to the Commission or the Commissioner, a person is not liable to an action, suit or other proceeding in respect of loss, damage or injury of any kind suffered by another person merely because submission was made, the document or information was furnished or the evidence was given.
+a person is not liable to an action, suit or other proceeding in respect of loss, damage or injury of any kind suffered by another person merely because submission was made, the document or information was furnished or the evidence was given.
 
 ##### <a id="45A"></a>45A  Commissioner to furnish information
 
@@ -670,7 +744,7 @@ but nothing in this subsection prevents a court from exercising jurisdiction in 
 
 ##### <a id="47"></a>47  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed, or necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed, or necessary or convenient to be prescribed for carrying out or giving effect to this Act and, in particular, prescribing the manner in which a member may resign from office and prescribing fees and allowances payable to members of conciliation committees.
 
 # Schedule—International Convention on the elimination of all forms of racial discrimination
 
@@ -678,7 +752,7 @@ _Section 3(1)_
 
 _The States Parties to this Convention_,
 
-_Considering_ that the Charter of the United Nations is based on the principles of the dignity and equality inherent in all human beings, and that all Member States have pledged themselves to take joint and separate action, in co‑operation with the Organization, for the achievement of one of the purposes of the United Nations which is to promote and encourage universal respect for and observance of human rights and fundamental freedoms for all, without distinction as to race, sex, language or religion, 
+_Considering_ that the Charter of the United Nations is based on the principles of the dignity and equality inherent in all human beings, and that all Member States have pledged themselves to take joint and separate action, in co-operation with the Organization, for the achievement of one of the purposes of the United Nations which is to promote and encourage universal respect for and observance of human rights and fundamental freedoms for all, without distinction as to race, sex, language or religion, 
 
 _Considering_ that the Universal Declaration of Human Rights proclaims that all human beings are born free and equal in dignity and rights and that everyone is entitled to all the rights and freedoms set out therein, without distinction of any kind, in particular as to race, colour or national origin,
 
@@ -708,9 +782,9 @@ PART I
 
 _Article_ 1
 
-1.       In this Convention, the term “racial discrimination” shall mean any distinction, exclusion, restriction or preference based on race, colour, descent, or national or ethnic origin which has the purpose or effect of nullifying or impairing the recognition, enjoyment or exercise, on an equal footing, of human rights and fundamental freedoms in the political, economic, social, cultural or any other field of public life.
+1.         In this Convention, the term “racial discrimination” shall mean any distinction, exclusion, restriction or preference based on race, colour, descent, or national or ethnic origin which has the purpose or effect of nullifying or impairing the recognition, enjoyment or exercise, on an equal footing, of human rights and fundamental freedoms in the political, economic, social, cultural or any other field of public life.
 
-2.         This Convention shall not apply to distinctions, exclusions, restrictions or preferences made by a State Party to this Convention between citizens and non‑citizens.
+2.         This Convention shall not apply to distinctions, exclusions, restrictions or preferences made by a State Party to this Convention between citizens and non-citizens.
 
 3.         Nothing in this Convention may be interpreted as affecting in any way the legal provisions of States Parties concerning nationality, citizenship or naturalization, provided that such provisions do not discriminate against any particular nationality.
 
@@ -728,7 +802,7 @@ _Article_ 2
 
 (d)     Each State Party shall prohibit and bring to an end, by all appropriate means, including legislation as required by circumstances, racial discrimination by any persons, group or organization;
 
-(e)     Each State Party undertakes to encourage, where appropriate, integrationist multi‑racial organizations and movements and other means of eliminating barriers between races, and to discourage anything which tends to strengthen racial division.
+(e)     Each State Party undertakes to encourage, where appropriate, integrationist multi-racial organizations and movements and other means of eliminating barriers between races, and to discourage anything which tends to strengthen racial division.
 
 2.       States Parties shall, when the circumstances so warrant, take, in the social, economic, cultural and other fields, special and concrete measures to ensure the adequate development and protection of certain racial groups or individuals belonging to them, for the purpose of guaranteeing them the full and equal enjoyment of human rights and fundamental freedoms. These measures shall in no case entail as a consequence the maintenance of unequal or separate rights for different racial groups after the objectives for which they were taken have been achieved.
 
@@ -758,37 +832,37 @@ In compliance with the fundamental obligations laid down in article 2 of this Co
 
 (d)     Other civil rights, in particular:
 
-                    (i)       The right to freedom of movement and residence within the border of the State;
+                     (i)       The right to freedom of movement and residence within the border of the State;
 
-                   (ii)       The right to leave any country, including one’s own, and to return to one’s country;
+                    (ii)       The right to leave any country, including one’s own, and to return to one’s country;
 
-                  (iii)       The right to nationality;
+                   (iii)       The right to nationality;
 
-                  (iv)       The right to marriage and choice of spouse;
+                   (iv)       The right to marriage and choice of spouse;
 
-                   (v)       The right to own property alone as well as in association with others;
+                    (v)       The right to own property alone as well as in association with others;
 
-                  (vi)       The right to inherit;
+                   (vi)       The right to inherit;
 
-                 (vii)       The right to freedom of thought, conscience and religion;
+                  (vii)       The right to freedom of thought, conscience and religion;
 
-                (viii)       The right to freedom of opinion and expression;
+                 (viii)       The right to freedom of opinion and expression;
 
-                  (ix)       The right to freedom of peaceful assembly and association;
+                   (ix)       The right to freedom of peaceful assembly and association;
 
 (e)     Economic, social and cultural rights, in particular:
 
-                    (i)       The rights to work, to free choice of employment, to just and favourable conditions of work, to protection against unemployment, to equal pay for equal work, to just and favourable remuneration;
+                     (i)       The rights to work, to free choice of employment, to just and favourable conditions of work, to protection against unemployment, to equal pay for equal work, to just and favourable remuneration;
 
-                   (ii)       The right to form and join trade unions;
+                    (ii)       The right to form and join trade unions;
 
-                  (iii)       The right to housing;
+                   (iii)       The right to housing;
 
-                  (iv)       The right to public health, medical care, social security and social services;
+                   (iv)       The right to public health, medical care, social security and social services;
 
-                   (v)       The right to education and training;
+                    (v)       The right to education and training;
 
-                  (vi)       The right to equal participation in cultural activities;
+                   (vi)       The right to equal participation in cultural activities;
 
 (f)      The right of access to any place or service intended for use by the general public such as transport, hotels, restaurants, cafes, theatres and parks.
 
@@ -808,9 +882,9 @@ _Article_ 8
 
 2.         The members of the Committee shall be elected by secret ballot from a list of persons nominated by the States Parties. Each State Party may nominate one person from among its own nationals.
 
-3.         The initial election shall be held six months after the date of the entry into force of this Convention. At least three months before the date of each election the Secretary‑General of the United Nations shall address a letter to the States Parties inviting them to submit their nominations within two months. The Secretary‑General shall prepare a list in alphabetical order of all persons thus nominated, indicating the States Parties which have nominated them, and shall submit it to the States Parties.
+3.         The initial election shall be held six months after the date of the entry into force of this Convention. At least three months before the date of each election the Secretary-General of the United Nations shall address a letter to the States Parties inviting them to submit their nominations within two months. The Secretary-General shall prepare a list in alphabetical order of all persons thus nominated, indicating the States Parties which have nominated them, and shall submit it to the States Parties.
 
-4.         Elections of the members of the Committee shall be held at a meeting of States Parties convened by the Secretary‑General at United Nations Headquarters. At that meeting, for which two‑thirds of the States Parties shall constitute a quorum, the persons elected to the Committee shall be those nominees who obtain the largest number of votes and an absolute majority of the votes of the representatives of States Parties present and voting.
+4.         Elections of the members of the Committee shall be held at a meeting of States Parties convened by the Secretary-General at United Nations Headquarters. At that meeting, for which two-thirds of the States Parties shall constitute a quorum, the persons elected to the Committee shall be those nominees who obtain the largest number of votes and an absolute majority of the votes of the representatives of States Parties present and voting.
 
 5.      (a)           The members of the Committee shall be elected for a term of four years. However, the terms of nine of the members elected at the first election shall expire at the end of two years; immediately after the first election the names of these nine members shall be chosen by lot by the Chairman of the Committee.
 
@@ -820,13 +894,13 @@ _Article_ 8
 
 _Article_ 9 
 
-1.         States Parties undertake to submit to the Secretary‑General of the United Nations, for consideration by the Committee, a report on the legislative, judicial, administrative or other measures which they have adopted and which give effect to the provisions of this Convention:
+1.         States Parties undertake to submit to the Secretary-General of the United Nations, for consideration by the Committee, a report on the legislative, judicial, administrative or other measures which they have adopted and which give effect to the provisions of this Convention:
 
 (a)        within one year after the entry into force of the Convention for the State concerned; and
 
 (b)        thereafter every two years and whenever the Committee so requests. The Committee may request further information from the States Parties.
 
-2.         The Committee shall report annually, through the Secretary‑General, to the General Assembly of the United Nations on its activities and may make suggestions and general recommendations based on the examination of the reports and information received from the States Parties. Such suggestions and general recommendations shall be reported to the General Assembly together with comments, if any, from States Parties.
+2.         The Committee shall report annually, through the Secretary-General, to the General Assembly of the United Nations on its activities and may make suggestions and general recommendations based on the examination of the reports and information received from the States Parties. Such suggestions and general recommendations shall be reported to the General Assembly together with comments, if any, from States Parties.
 
 _Article_ 10
 
@@ -834,7 +908,7 @@ _Article_ 10
 
 2.         The Committee shall elect its officers for a term of two years.
 
-3.         The secretariat of the Committee shall be provided by the Secretary‑General of the United Nations.
+3.         The secretariat of the Committee shall be provided by the Secretary-General of the United Nations.
 
 4.         The meetings of the Committee shall normally be held at United Nations Headquarters.
 
@@ -854,7 +928,7 @@ _Article_ 12
 
 1.     (a)            After the Committee has obtained and collated all the information it deems necessary, the Chairman shall appoint an _ad hoc_ Conciliation Commission (hereafter referred to as the Commission) comprising five persons who may or may not be members of the Committee. The members of the Commission shall be appointed with the unanimous consent of the parties to the dispute, and its good offices shall be made available to the States concerned with a view to an amicable solution of the matter on the basis of respect for this Convention.
 
-         (b)           If the States parties to the dispute fail to reach agreement within three months on all or part of the composition of the Commission, the members of the Commission not agreed upon by the States parties to the dispute shall be elected by secret ballot by a two‑thirds majority vote of the Committee from among its own members.
+         (b)           If the States parties to the dispute fail to reach agreement within three months on all or part of the composition of the Commission, the members of the Commission not agreed upon by the States parties to the dispute shall be elected by secret ballot by a two-thirds majority vote of the Committee from among its own members.
 
 2.         The members of the Commission shall serve in their personal capacity. They shall not be nationals of the States parties to the dispute or of a State not Party to this Convention.
 
@@ -864,9 +938,9 @@ _Article_ 12
 
 5.         The secretariat provided in accordance with article 10, paragraph 3, of this Convention shall also service the Commission whenever a dispute among States Parties brings the Commission into being.
 
-6.         The States Parties to the dispute shall share equally all the expenses of the members of the Commission in accordance with estimates to be provided by the Secretary‑General of the United Nations.
+6.         The States Parties to the dispute shall share equally all the expenses of the members of the Commission in accordance with estimates to be provided by the Secretary-General of the United Nations.
 
-7.         The Secretary‑General shall be empowered to pay the expenses of the members of the Commission, if necessary, before reimbursement by the States parties to the dispute in accordance with paragraph 6 of this article.
+7.         The Secretary-General shall be empowered to pay the expenses of the members of the Commission, if necessary, before reimbursement by the States parties to the dispute in accordance with paragraph 6 of this article.
 
 8.         The information obtained and collated by the Committee shall be made available to the Commission, and the Commission may call upon the States concerned to supply any other relevant information.
 
@@ -884,9 +958,9 @@ _Article_ 14
 
 2.         Any State Party which makes a declaration as provided for in paragraph 1 of this article may establish or indicate a body within its national legal order which shall be competent to receive and consider petitions from individuals and groups of individuals within its jurisdiction who claim to be victims of a violation of any of the rights set forth in this Convention and who have exhausted other available local remedies.
 
-3.         A declaration made in accordance with paragraph 1 of this article and the name of any body established or indicated in accordance with paragraph 2 of this article shall be deposited by the State Party concerned with the Secretary‑General of the United Nations, who shall transmit copies thereof to the other States Parties. A declaration may be withdrawn at any time by notification to the Secretary‑General, but such a withdrawal shall not affect communications pending before the Committee.
+3.         A declaration made in accordance with paragraph 1 of this article and the name of any body established or indicated in accordance with paragraph 2 of this article shall be deposited by the State Party concerned with the Secretary-General of the United Nations, who shall transmit copies thereof to the other States Parties. A declaration may be withdrawn at any time by notification to the Secretary-General, but such a withdrawal shall not affect communications pending before the Committee.
 
-4.         A register of petitions shall be kept by the body established or indicated in accordance with paragraph 2 of this article, and certified copies of the register shall be filed annually through appropriate channels with the Secretary‑General on the understanding that the contents shall not be publicly disclosed.
+4.         A register of petitions shall be kept by the body established or indicated in accordance with paragraph 2 of this article, and certified copies of the register shall be filed annually through appropriate channels with the Secretary-General on the understanding that the contents shall not be publicly disclosed.
 
 5.         In the event of failure to obtain satisfaction from the body established or indicated in accordance with paragraph 2 of this article, the petitioner shall have the right to communicate the matter to the Committee within six months.
 
@@ -906,13 +980,13 @@ _Article_ 15
 
 1.         Pending the achievement of the objectives of the Declaration on the Granting of Independence to Colonial Countries and Peoples, contained in General Assembly resolution 1514 (XV) of 14 December 1960, the provisions of this Convention shall in no way limit the right of petition granted to these peoples by other international instruments or by the United Nations and its specialized agencies.
 
-2.      (a)           The Committee established under article 8, paragraph 1, of this Convention shall receive copies of the petitions from, and submit expressions of opinion and recommendations on these petitions to, the bodies of the United Nations which deal with matters directly related to the principles and objectives of this Convention in their consideration of petitions from the inhabitants of Trust and Non‑Self‑Governing Territories and all other territories to which General Assembly resolution 1514 (XV) applies, relating to matters covered by this Convention which are before these bodies.
+2.      (a)           The Committee established under article 8, paragraph 1, of this Convention shall receive copies of the petitions from, and submit expressions of opinion and recommendations on these petitions to, the bodies of the United Nations which deal with matters directly related to the principles and objectives of this Convention in their consideration of petitions from the inhabitants of Trust and Non-Self-Governing Territories and all other territories to which General Assembly resolution 1514 (XV) applies, relating to matters covered by this Convention which are before these bodies.
 
-         (b)           The Committee shall receive from the competent bodies of the United Nations copies of the reports concerning the legislative, judicial, administrative or other measures directly related to the principles and objectives of this Convention applied by the administering Powers within the territories mentioned in sub‑paragraph (a) of this paragraph, and shall express opinions and make recommendations to these bodies.
+         (b)           The Committee shall receive from the competent bodies of the United Nations copies of the reports concerning the legislative, judicial, administrative or other measures directly related to the principles and objectives of this Convention applied by the administering Powers within the territories mentioned in sub-paragraph (a) of this paragraph, and shall express opinions and make recommendations to these bodies.
 
 3.      The Committee shall include in its report to the General Assembly a summary of the petitions and reports it has received from United Nations bodies, and the expressions of opinion and recommendations of the Committee relating to the said petitions and reports.
 
-4.      The Committee shall request from the Secretary‑General of the United Nations all information relevant to the objectives of this Convention and available to him regarding the Territories mentioned in paragraph 2 (a) of this article.
+4.      The Committee shall request from the Secretary-General of the United Nations all information relevant to the objectives of this Convention and available to him regarding the Territories mentioned in paragraph 2 (a) of this article.
 
 _Article_ 16
 
@@ -924,31 +998,31 @@ _Article_ 17
 
 1.         This Convention is open for signature by any State Member of the United Nations or member of any of its specialized agencies, by any State Party to the Statute of the International Court of Justice, and by any other State which has been invited by the General Assembly of the United Nations to become a Party to this Convention.
 
-2.         This Convention is subject to ratification. Instruments of ratification shall be deposited with the Secretary‑General of the United Nations.
+2.         This Convention is subject to ratification. Instruments of ratification shall be deposited with the Secretary-General of the United Nations.
 
 _Article_ 18 
 
 1.         This Convention shall be open to accession by any State referred to in article 17, paragraph 1, of the Convention.
 
-2.         Accession shall be effected by the deposit of an instrument of accession with the Secretary‑General of the United Nations.
+2.         Accession shall be effected by the deposit of an instrument of accession with the Secretary-General of the United Nations.
 
 _Article_ 19
 
-1.         This Convention shall enter into force on the thirtieth day after the date of the deposit with the Secretary‑General of the United Nations of the twenty‑seventh instrument of ratification or instrument of accession.
+1.         This Convention shall enter into force on the thirtieth day after the date of the deposit with the Secretary-General of the United Nations of the twenty-seventh instrument of ratification or instrument of accession.
 
-2.         For each State ratifying this Convention or acceding to it after the deposit of the twenty‑seventh instrument of ratification or instrument of accession, the Convention shall enter into force on the thirtieth day after the date of the deposit of its own instrument of ratification or instrument of accession.
+2.         For each State ratifying this Convention or acceding to it after the deposit of the twenty-seventh instrument of ratification or instrument of accession, the Convention shall enter into force on the thirtieth day after the date of the deposit of its own instrument of ratification or instrument of accession.
 
 _Article_ 20
 
-1.         The Secretary‑General of the United Nations shall receive and circulate to all States which are or may become Parties to this Convention reservations made by States at the time of ratification or accession. Any State which objects to the reservation shall, within a period of ninety days from the date of the said communication, notify the Secretary‑General that it does not accept it.
+1.         The Secretary-General of the United Nations shall receive and circulate to all States which are or may become Parties to this Convention reservations made by States at the time of ratification or accession. Any State which objects to the reservation shall, within a period of ninety days from the date of the said communication, notify the Secretary-General that it does not accept it.
 
-2.         A reservation incompatible with the object and purpose of this Convention shall not be permitted, nor shall a reservation the effect of which would inhibit the operation of any of the bodies established by this Convention be allowed. A reservation shall be considered incompatible or inhibitive if at least two‑thirds of the States Parties to this Convention object to it.
+2.         A reservation incompatible with the object and purpose of this Convention shall not be permitted, nor shall a reservation the effect of which would inhibit the operation of any of the bodies established by this Convention be allowed. A reservation shall be considered incompatible or inhibitive if at least two-thirds of the States Parties to this Convention object to it.
 
-3.         Reservations may be withdrawn at any time by notification to this effect addressed to the Secretary‑General. Such notification shall take effect on the date on which it is received.
+3.         Reservations may be withdrawn at any time by notification to this effect addressed to the Secretary-General. Such notification shall take effect on the date on which it is received.
 
 _Article_ 21
 
-A State Party may denounce this Convention by written notification to the Secretary‑General of the United Nations. Denunciation shall take effect one year after the date of receipt of the notification by the Secretary‑General.
+A State Party may denounce this Convention by written notification to the Secretary-General of the United Nations. Denunciation shall take effect one year after the date of receipt of the notification by the Secretary-General.
 
 _Article_ 22
 
@@ -956,13 +1030,13 @@ Any dispute between two or more States Parties with respect to the interpretatio
 
 _Article_ 23 
 
-1.         A request for the revision of this Convention may be made at any time by any State Party by means of a notification in writing addressed to the Secretary‑General of the United Nations.
+1.         A request for the revision of this Convention may be made at any time by any State Party by means of a notification in writing addressed to the Secretary-General of the United Nations.
 
 2.         The General Assembly of the United Nations shall decide upon the steps, if any, to be taken in respect of such a request.
 
 _Article_ 24
 
-            The Secretary‑General of the United Nations shall inform all States referred to in article 17, paragraph 1, of this Convention of the following particulars:
+The Secretary-General of the United Nations shall inform all States referred to in article 17, paragraph 1, of this Convention of the following particulars:
 
 (a)     Signatures, ratifications and accessions under articles 17 and 18;
 
@@ -976,7 +1050,7 @@ _Article_ 25
 
 1.      This Convention, of which the Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited in the archives of the United Nations.
 
-2.      The Secretary‑General of the United Nations shall transmit certified copies of this Convention to all States belonging to any of the categories mentioned in article 17, paragraph 1, of the Convention.
+2.      The Secretary-General of the United Nations shall transmit certified copies of this Convention to all States belonging to any of the categories mentioned in article 17, paragraph 1, of the Convention.
 
 # Notes to the _Racial Discrimination Act 1975_
 
@@ -1047,8 +1121,7 @@ Remainder: 31 Oct 1975 ( <i>see Gazette</i>1975, No. S221)</div>
     <div>20 Sept 1976</div>
   </td>
   <td>
-    <div>S. 3: <i>(a) 
- </i>S. 4: Royal Assent</div>
+    <div>S. 3: <i>(a)</i></div>
   </td>
   <td>
     <div>S. 4</div>
@@ -1152,7 +1225,7 @@ p. 2)</div>
     <div>3 June 1988</div>
   </td>
   <td>
-    <div>Ss. 3 and 5(1): Royal Assent</div>
+    <div>S. 3: Royal Assent <i>(b)</i></div>
   </td>
   <td>
     <div>S. 5(1)</div>
@@ -1169,7 +1242,7 @@ p. 2)</div>
     <div>21 Dec 1990</div>
   </td>
   <td>
-    <div>S. 49: Royal Assent</div>
+    <div>S. 49: Royal Assent <i>(c)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1203,8 +1276,7 @@ p. 2)</div>
     <div>11 Dec 1992</div>
   </td>
   <td>
-    <div>S. 3(2): Royal Assent 
-S. 4 (Schedule \[Part 2]): 8 Jan 1993</div>
+    <div>S. 4 (Schedule \[Part 2]): 8 Jan 1993 <i>(d)</i></div>
   </td>
   <td>
     <div>S. 3(2)</div>
@@ -1239,7 +1311,7 @@ and 4</div>
     <div>18 Jan 1994</div>
   </td>
   <td>
-    <div>Part 4 (ss. 17–20): Royal Assent</div>
+    <div>Part 4 (ss. 17–20): Royal Assent <i>(e)</i></div>
   </td>
   <td>
     <div>S. 18(2)</div>
@@ -1256,7 +1328,8 @@ and 4</div>
     <div>28 June 1995</div>
   </td>
   <td>
-    <div>Ss. 4, 5 and Schedule (items 5, 6, 28–30): Royal Assent</div>
+    <div>Schedule (item 25): 30 Oct 1992 
+Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Ss. 4 and 5</div>
@@ -1290,7 +1363,7 @@ and 4</div>
     <div>25 Oct 1996</div>
   </td>
   <td>
-    <div>Schedule 5 (items 133, 134): Royal Assent</div>
+    <div>Schedule 5 (items 133, 134): Royal Assent <i>(f)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1307,9 +1380,9 @@ and 4</div>
     <div>13 Oct 1999</div>
   </td>
   <td>
-    <div>Ss. 4–20 and Schedule 1 (items 63–84): 13 Apr 2000 
-S. 21: Royal Assent 
-S. 22: 10 Dec 1999 ( <i>see Gazette</i>1999, No. S598)</div>
+    <div>Ss. 1–3 and 21: Royal Assent 
+S. 22 and Schedule 1 (items 53, 60): 10 Dec 1999 ( <i>see Gazette</i>1999, No. S598) 
+Remainder: 13 Apr 2000</div>
   </td>
   <td>
     <div>Ss. 4–22 \[ <i>see</i>Table A]</div>
@@ -1326,7 +1399,7 @@ S. 22: 10 Dec 1999 ( <i>see Gazette</i>1999, No. S598)</div>
     <div>11 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 1 (item 760): 5 Dec 1999 ( <i>see</i>s. 2 and <i>Gazette</i>1999, No. S584)</div>
+    <div>Schedule 1 (item 760): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(g)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1343,7 +1416,8 @@ S. 22: 10 Dec 1999 ( <i>see Gazette</i>1999, No. S598)</div>
     <div>24 Nov 2000</div>
   </td>
   <td>
-    <div>Schedule 2 (items 347, 348, 418, 419): 24 May 2001</div>
+    <div>Ss. 1–3 and Schedule 1 (items 1, 4, 6, 7, 9–11, 32): Royal Assent 
+Remainder: 24 May 2001</div>
   </td>
   <td>
     <div>Sch. 2 (items 418, 419) \[ <i>see</i>Table A]</div>
@@ -1360,10 +1434,10 @@ S. 22: 10 Dec 1999 ( <i>see Gazette</i>1999, No. S598)</div>
     <div>6 Apr 2001</div>
   </td>
   <td>
-    <div>S. 4(1), (2) and Schedule 43: <i>(b)</i></div>
+    <div>S. 4(1), (2) and Schedule 43: <i>(h)</i></div>
   </td>
   <td>
-    <div>S. 4(1) and (2) \[ <i>see</i>Table A]</div>
+    <div>S. 4(1), (2) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -1377,7 +1451,7 @@ S. 22: 10 Dec 1999 ( <i>see Gazette</i>1999, No. S598)</div>
     <div>21 Apr 2004</div>
   </td>
   <td>
-    <div>Schedule 2 (item 27): <i>(c)</i></div>
+    <div>Schedule 2 (item 27): \[ <i>see (i)</i>and Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -1399,31 +1473,39 @@ S. 22: 10 Dec 1999 ( <i>see Gazette</i>1999, No. S598)</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Disability Discrimination and Other Human Rights Legislation Amendment Act 2009</div>
-  </td>
-  <td>
-    <div>70, 2009</div>
-  </td>
-  <td>
-    <div>8 July 2009</div>
-  </td>
-  <td>
-    <div>Schedule 3 (items 60–70, 
-167–178) and Schedule 4 (items 1–5): 5 Aug 2009</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Racial Discrimination Act 1975_ was amended by section 3 only of the _Administrative Changes (Consequential Provisions) Act 1976_, subsection 2(7) of which provides as follows:
 
                  (7)   The amendments of each other Act specified in the Schedule made by this Act shall be deemed to have come into operation on 22 December 1975.
 
-_(b)_     The _Racial Discrimination Act 1975_ was amended by Schedule 43 only of the _Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001_, subsection 2(1)(a) of which provides as follows:
+_(b)_    The _Racial Discrimination Act 1975_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act 1988_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+
+_(c)_     The _Racial Discrimination Act 1975_ was amended by section 49 only of the _Law and Justice Legislation Amendment Act 1990_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+
+_(d)_     The _Racial Discrimination Act 1975_ was amended by section 4 (Schedule \[Part 2]) only of the _Law and Justice Legislation Amendment Act (No. 3) 1992_, subsection 2(7) of which provides as follows:
+
+                 (7)   Part 2 of the Schedule commences on the 28th day after the day on which this Act receives the Royal Assent.
+
+_(e)_     The _Racial Discrimination Act 1975_ was amended by Part 4 (sections 17–20) only of the _Law and Justice Legislation Amendment Act 1993_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+
+_(f)_      The _Racial Discrimination Act 1975_ was amended by Schedule 5 (items 133 and 134) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
+
+_(g)_     The _Racial Discrimination Act 1975_ was amended by Schedule 1 (item 760) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+
+                 (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
+
+                 (2)   Subject to this section, this Act commences at the commencing time.
+
+_(h)_     The _Racial Discrimination Act 1975_ was amended by Schedule 43 only of the _Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001_, subsection 2(1)(a) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences at the later of the following times:
 
@@ -1431,7 +1513,7 @@ _(b)_     The _Racial Discrimination Act 1975_ was amended by Schedule�
 
          Item 15 commenced on 24 May 2001.
 
-_(c)_ Subsection 2(1) (item 7) of the _Age Discrimination (Consequential Provisions) Act 2004_ provides as follows:
+_(i)_ Subsection 2(1) (item 7) of the _Age Discrimination (Consequential Provisions) Act 2004_ provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
 
@@ -1521,12 +1603,11 @@ _(c)_ Subsection 2(1) (item 7) of the _Age Discrimination (Consequential Provi
   </td>
   <td>
     <div>
-
+      \[
+        <i>see</i>Note 2] (paragraph (b) applies)
     </div>
   </td>
 </tr></table>
-
- The _Australian Human Rights Commission Legislation Bill 2004_ was not enacted. Therefore the amendment made by Schedule 2 (item 27) did not commence.
 
 ## Table of Amendments
 
@@ -1572,7 +1653,7 @@ _(c)_ Subsection 2(1) (item 7) of the _Age Discrimination (Consequential Provi
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 18, 1980 (as am. by No. 25, 1981); No. 126, 1986; No. 38, 1988; No. 179, 1992; No. 133, 1999; No. 73, 2008; No. 70, 2009</div>
+    <div>am. No. 18, 1980 (as am. by No. 25, 1981); No. 126, 1986; No. 38, 1988; No. 179, 1992; No. 133, 1999; No. 73, 2008</div>
   </td>
 </tr>
 <tr>
@@ -1612,7 +1693,7 @@ _(c)_ Subsection 2(1) (item 7) of the _Age Discrimination (Consequential Provi
     <div></div>
   </td>
   <td>
-    <div>am. No. 126, 1986; No. 133, 1999; No. 70, 2009</div>
+    <div>am. No. 126, 1986; No. 133, 1999</div>
   </td>
 </tr>
 <tr>
@@ -1740,7 +1821,7 @@ _(c)_ Subsection 2(1) (item 7) of the _Age Discrimination (Consequential Provi
     <div>Note to s. 18C(1)</div>
   </td>
   <td>
-    <div>am. No. 133, 1999; No. 70, 2009</div>
+    <div>am. No. 133, 1999</div>
   </td>
 </tr>
 <tr>
@@ -1828,23 +1909,15 @@ _(c)_ Subsection 2(1) (item 7) of the _Age Discrimination (Consequential Provi
     <div></div>
   </td>
   <td>
-    <div>am. No. 101, 1995; No. 133, 1999; No. 70, 2009</div>
+    <div>am. No. 101, 1995; No. 133, 1999</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>Note to s. 20............................</div>
+    <div>Note to s. 20(1)</div>
   </td>
   <td>
     <div>ad. No. 133, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 70, 2009</div>
   </td>
 </tr>
 <tr>
@@ -2494,7 +2567,7 @@ rep. No. 133, 1999</div>
     <div>S. 27</div>
   </td>
   <td>
-    <div>am. No. 18, 1980; No. 126, 1986; No. 133, 1999; No. 24, 2001; No. 70, 2009</div>
+    <div>am. No. 18, 1980; No. 126, 1986; No. 133, 1999; No. 24, 2001</div>
   </td>
 </tr>
 <tr>
@@ -2550,7 +2623,7 @@ rep. No. 133, 1999</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 24, 2001; No. 70, 2009</div>
+    <div>am. No. 24, 2001</div>
   </td>
 </tr>
 <tr>
@@ -2563,10 +2636,10 @@ rep. No. 133, 1999</div>
 </tr>
 <tr>
   <td>
-    <div>Part V</div>
+    <div><b>Part V</b></div>
   </td>
   <td>
-    <div>rep. No. 70, 2009</div>
+    <div></div>
   </td>
 </tr>
 <tr>
@@ -2579,14 +2652,6 @@ rep. No. 133, 1999</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 70, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part VI</b></div>
   </td>
   <td>
@@ -2595,26 +2660,18 @@ rep. No. 133, 1999</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to Part VI</div>
+    <div><b>Division 1</b></div>
   </td>
-  <td>
-    <div>rs. No. 70, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 1 of Part VI</div>
-  </td>
-  <td>
-    <div>rs. No. 126, 1986</div>
-  </td>
-</tr>
-<tr>
   <td>
     <div></div>
   </td>
+</tr>
+<tr>
   <td>
-    <div>rep. No. 70, 2009</div>
+    <div>Heading to Div. 1 of Part VI.</div>
+  </td>
+  <td>
+    <div>rs. No. 126, 1986</div>
   </td>
 </tr>
 <tr>
@@ -2630,7 +2687,7 @@ rep. No. 133, 1999</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 59, 1995; No. 70, 2009</div>
+    <div>am. No. 59, 1995</div>
   </td>
 </tr>
 <tr>
@@ -2755,10 +2812,10 @@ rep. No. 133, 1999</div>
 </tr>
 <tr>
   <td>
-    <div>Div. 2 of Part VI</div>
+    <div><b>Division 2</b></div>
   </td>
   <td>
-    <div>rep. No. 70, 2009</div>
+    <div></div>
   </td>
 </tr>
 <tr>
@@ -2771,14 +2828,6 @@ rep. No. 133, 1999</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 70, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 42</div>
   </td>
   <td>
@@ -2787,26 +2836,10 @@ rep. No. 133, 1999</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 70, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 43</div>
   </td>
   <td>
     <div>am. No. 126, 1986; No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 70, 2009</div>
   </td>
 </tr>
 <tr>
@@ -2862,7 +2895,7 @@ rep. No. 133, 1999</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 133, 1999; No. 70, 2009</div>
+    <div>am. No. 133, 1999</div>
   </td>
 </tr>
 <tr>
@@ -2902,15 +2935,43 @@ rep. No. 133, 1999</div>
     <div>S. 47</div>
   </td>
   <td>
-    <div>am. No. 126, 1986; No. 70, 2009</div>
+    <div>am. No. 126, 1986</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Age Discrimination (Consequential Provisions) Act 2004 (No. 40, 2004)_
+
+The following amendment commences immediately after the commencement of Schedule 1 to the _Australian Human Rights Commission Legislation Act 2004_ (still a Bill):
+
+## Schedule 2
+
+## 27  Paragraph 20(2)(c)
+
+Repeal the paragraph, substitute:
+
+                     (c)  whether, in the Attorney-General’s opinion, the proceedings have significant implications for the administration of any of the following Acts:
+
+                              (i)  this Act;
+
+                             (ii)  the _Age Discrimination Act 2004_;
+
+                            (iii)  the _Australian Human Rights Commission Act 1986_;
+
+                            (iv)  the _Disability Discrimination Act 1992_;
+
+                             (v)  the _Sex Discrimination Act 1984_;
+
+As at 11 July 2008 the amendment is not incorporated in this compilation.
 
 ## Table A
 
 ### Application, saving or transitional provisions
 
 _Human Rights Legislation Amendment Act (No. 1) 1999 (No. 133, 1999)_
+
+### Division 1—Interpretation
 
 ##### <a id="4"></a>4  Interpretation
 
@@ -2945,6 +3006,10 @@ _Human Rights Legislation Amendment Act (No. 1) 1999 (No. 133, 1999)_
                     <a name="purport-complaint"></a>**_purported complaint_** means a document purporting to be a complaint.
 
                     <a name="start-dai"></a>**_starting day_** means the day on which this Part commences.
+
+### Division 2—Treatment of complaints lodged before starting day 
+
+#### Subdivision A—Treatment of complaint depends on the stage it has reached
 
 ##### <a id="5"></a>5  Purported complaint lodged but no decision as to whether it is a complaint
 
@@ -3094,6 +3159,8 @@ Note:          The President is required to give a notice of t
 
              (2)  The amendments made by Schedule 1 to this Act do not apply in relation to the complaint.
 
+#### Subdivision B—Other rules about complaints lodged before starting day
+
 ##### <a id="14"></a>14  Notice of termination
 
              (1)  If the President is taken to have terminated a complaint under section 9, 10, 11 or 12, then the President must notify the complainants in writing of the termination and the reasons for the termination.
@@ -3128,6 +3195,8 @@ if the proceedings started on or after the starting day under:
 
                      (e)  section 83A or 84F of the old SDA.
 
+### Division 3—Other transitional and application provisions
+
 ##### <a id="17"></a>17  Protection from civil actions
 
                    The amendments made by items 30, 31, 83, 84, 119 and 120 of Schedule 1 do not apply to a complaint lodged before the starting day under the old DDA, old RDA or old SDA.
@@ -3150,7 +3219,7 @@ if the proceedings started on or after the starting day under:
 
 ##### <a id="21"></a>21  Regulations 
 
-             (1)  The Governor‑General may make regulations prescribing matters: 
+             (1)  The Governor-General may make regulations prescribing matters: 
 
                      (a)  required or permitted by this Act to be prescribed; or 
 
@@ -3168,9 +3237,9 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 ## Schedule 2
 
-## 418  Transitional—pre‑commencement offences
+## 418  Transitional—pre-commencement offences
 
-(1)       Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
+(1)        Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
 
                      (a)  an offence committed before the commencement of this item; or
 
@@ -3180,9 +3249,9 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 as if the amendment or repeal had not been made.
 
-(2)       Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
+(2)        Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
 
-## 419  Transitional—pre‑commencement notices
+## 419  Transitional—pre-commencement notices
 
 If:
 
@@ -3190,9 +3259,9 @@ If:
 
                      (b)  any or all of those other provisions are repealed by this Schedule; and
 
-                     (c)  the first‑mentioned provision is amended by this Schedule;
+                     (c)  the first-mentioned provision is amended by this Schedule;
 
-the amendment of the first‑mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
+the amendment of the first-mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
 
 * * *
 
@@ -3203,5 +3272,7 @@ _Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001 (
              (1)  Subject to subsection (3), each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
 
              (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
+
+ 
 
  
