@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00239/Html/NativeTitleAmendTechAmend2007_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00306/Html/NativeTitleAmendTechAmend2007_image001.gif)
 
 # Native Title Amendment (Technical Amendments) Act 2007
 
 **Act No. 125 of 2007 as amended**
 
-This compilation was prepared on 4 March 2010
- taking into account amendments up to Act No. 8 of 2010
+This compilation was prepared on 19 April 2010
+ taking into account amendments up to Act No. 33 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -17,11 +17,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 # Contents
 
-[1](#1).            Short title [_see_ Note 1]                                                                        1
+[1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Commencement                                                                                   1
+[2](#2).            Commencement
 
-[3](#3).            Schedule(s)                                                                                           3
+[3](#3).            Schedule(s)
 
 **Schedule 1—Amendment of the Native Title Act 1993** 
 
@@ -637,7 +637,7 @@ Omit “for the area concerned”, substitute “for that part of the area conce
 
 Omit “in the area concerned”, substitute “in that part of the area concerned for which there is no registered native title body corporate”.
 
-## 46  Paragraph 24MD(8)(b)
+## 46  Paragraph 24MD(8)(b)
 
 Repeal the paragraph, substitute:
 
@@ -1210,7 +1210,7 @@ the Registrar must:
 
                      (b)  state that a person who wants to be a party in relation to the amended application must notify the Federal Court, in writing, within the period of 3 months starting on the notification day, or, after that period, get the leave of the Federal Court under subsection 84(5) to become a party.
 
-## 82  Subsection 66B(1)
+## 82  Subsection 66B(1)
 
 Repeal the subsection, substitute:
 
@@ -2280,7 +2280,7 @@ Omit “paragraph 203FB(7)(b)”, substitute “paragraph 203FBA(7)(b) or 203FBB
 
 ## 9  Section 203FI
 
-After “203FB,”, insert “203FBA, 203FBB,”.
+After “203FB”, insert “, 203FBA, 203FBB”.
 
 <h7 class="ActHead7">Part 2—Application provisions</h7>
 
@@ -2827,6 +2827,23 @@ of Assent</div>
   <td>
     <div>—</div>
   </td>
+</tr>
+<tr>
+  <td>
+    <div>Families, Housing, Community Services and Indigenous Affairs and Other Legislation Amendment (Miscellaneous Measures) Act 2010</div>
+  </td>
+  <td>
+    <div>33, 2010</div>
+  </td>
+  <td>
+    <div>13 Apr 2010</div>
+  </td>
+  <td>
+    <div>Schedule 3 (items 4, 5): <i>(b)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
 </tr></table>
 
 _(a)_     Subsection 2(1) (item 18) of the _Statute Law Revision Act 2010_ provides as follows:
@@ -2917,6 +2934,62 @@ _(a)_     Subsection 2(1) (item 18) of the _Statute Law Revision Act 2
   </td>
 </tr></table>
 
+_(b)_    Subsection 2(1) (item 5) of the _Families, Housing, Community Services and Indigenous Affairs and Other Legislation Amendment (Miscellaneous Measures) Act 2010_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      5\. Schedule 3, items 4 and 5
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the time specified in the
+        <i>Native Title Amendment (Technical Amendments) Act 2007</i>for the commencement
+        of item 9 of Schedule 2 to that Act.
+    </div>
+  </td>
+  <td>
+    <div>
+      21 July 2007
+    </div>
+  </td>
+</tr></table>
+
 ## Table of Amendments
 
 <table>
@@ -2940,6 +3013,22 @@ _(a)_     Subsection 2(1) (item 18) of the _Statute Law Revision Act 2
     </td>
   </tr>
 </thead>
+<tr>
+  <td>
+    <div><b>Schedule 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Item 9</div>
+  </td>
+  <td>
+    <div>am. No. 33, 2010</div>
+  </td>
+</tr>
 <tr>
   <td>
     <div><b>Schedule 4</b></div>
