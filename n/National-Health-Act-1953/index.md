@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00377/Html/343bf0ef-0632-49c8-aad3-ceb79c18d887_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00328/Html/e2fd7dc8-0bb0-47c9-9bed-c0a71442b54d_files/image001.gif)
 
 # National Health Act 1953
 
 **Act No. 95 of 1953 as amended**
 
-This compilation was prepared on 1 April 2012
+This compilation was prepared on 23 March 2012
  taking into account amendments up to Act No. 8 of 2012
 
 [**Note:** Subsections 90(3A), (3AA), (3AB), (3AC), (3AD), (3AE), (3AF) 
@@ -172,7 +172,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [86A](#86A).       Pharmaceutical benefits not to be supplied in respect of persons reasonably believed not to be in Australia
 
-[86B](#86B).       Approved supplier may request provision of medicare number
+[86B](#86B).       Approved supplier may request provision of medicare 
+ number
 
 [86C](#86C).       On and after 1 January 2001 approved supplier must request provision of medicare number in certain circumstances
 
@@ -227,8 +228,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [98AA](#98AA).    Cancellation by Minister of approval of hospital
 
 [98AB](#98AB).    Notification by Department of alterations to pharmaceutical benefits scheme
-
-[98AC](#98AC).    Information about supplies
 
     **Division 3—Payment for supply of pharmaceutical benefits**
 
@@ -286,13 +285,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [99ACE](#99ACE).  Flow‑on of 16% price reduction to related brands of combination items
 
-        **Subdivision CA—New brands of pharmaceutical items having drugs with outstanding staged reductions**
+        **Subdivision CA—New brands of pharmaceutical items having drugs with outstanding staged reductions** 
 
-99ACEAPrice reduction for new brand of pharmaceutical item having 
- drug with outstanding staged reductions—new brand bioequivalent or biosimilar to existing listed brand
+99ACEA  Price reduction for new brand of pharmaceutical item having drug with outstanding staged reductions—new brand bioequivalent or biosimilar to existing listed brand
 
-99ACEBNew brands of pharmaceutical items having drug with 
- outstanding staged reductions——new brands not bioequivalent or biosimilar to existing listed brand
+99ACEB  New brands of pharmaceutical items having drug with outstanding staged reductions——new brands not bioequivalent or biosimilar to existing listed brand
 
         **Subdivision D—Other statutory price reductions**
 
@@ -472,7 +469,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [99ZL](#99ZL).     Examination and inspection powers
 
-[99ZM](#99ZM).    Customs may detain some drug like substances and not others
+[99ZM](#99ZM).    Customs may detain some drug like substances and not 
+ others
 
 [99ZN](#99ZN).     Customs treatment of detained substances and retained documents
 
@@ -588,7 +586,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [134](#134).        Effect of suspension or cancellation of approval or authority
 
-[134A](#134A).     Publication of particulars of certain action taken under this Act
+[134A](#134A).     Publication of particulars of certain action taken under this 
+ Act
 
 [134B](#134B).     Time for commencing prosecutions
 
@@ -600,8 +599,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [135A](#135A).     Officers to observe secrecy
 
-135AAAPrescribers and approved suppliers must observe secrecy in 
- relation to medicare numbers and expiry dates provided for pharmaceutical benefit scheme purposes
+135AAA  Prescribers and approved suppliers must 
+ observe secrecy in relation to medicare numbers and expiry dates provided for pharmaceutical benefit scheme purposes
 
 [135AA](#135AA).  Privacy guidelines
 
@@ -1648,7 +1647,7 @@ Note:          Section 105AC requires the person to be notif
 
                     <a name="decision"></a>**_decision_** has the same meaning as in the _Administrative Appeals Tribunal Act 1975_.
 
-##### <a id="84AAE"></a>84AAE  Meaning of _eligible midwife_
+##### <a id="84AAE"></a>84AAE  Meaning of _eligible midwife_
 
              (1)  For the purposes of this Part, a person is an **_eligible midwife_** if the person:
 
@@ -3860,32 +3859,6 @@ the Secretary is taken, immediately after the commencement of section 20 of th
 
                    The Secretary must cause to be made publicly available on the Department’s website information on the outcomes of the changes to the pharmaceutical benefits scheme resulting from the introduction of the _National Health Amendment (Pharmaceutical Benefits Scheme) Act 2007_.
 
-##### <a id="98AC"></a>98AC  Information about supplies
-
-             (1)  An approved supplier that supplies a pharmaceutical benefit (including a supply taken, because of subsection 99(2A), to be a supply otherwise than under this Part):
-
-                     (a)  must give to the Secretary, in relation to the supply of that benefit, the information specified in rules made by the Minister under paragraph (4)(a); and
-
-                     (b)  must give the information in accordance with the rules made by the Minister under paragraph (4)(b).
-
-             (2)  Subsection (1) does not apply if the approved supplier makes, or proposes to make, a claim for payment in relation to the supply of the pharmaceutical benefit under section 99AAA.
-
-             (3)  Subject to the rules made by the Minister under paragraph (4)(b), subsections 99AAA(4) and (5) and section 99AAB (about the procedures for giving information) apply in relation to the giving of information under this section in the same way as they apply in relation to the giving of information under section 99AAA.
-
-             (4)  The Minister must, by legislative instrument, make:
-
-                     (a)  rules specifying the information to be given to the Secretary by approved suppliers in relation to the supply by them of pharmaceutical benefits; and
-
-                     (b)  rules defining the procedures to be followed by approved suppliers in giving information to the Secretary in relation to the supply by them of pharmaceutical benefits.
-
-             (5)  In making rules for the purposes of paragraph (4)(b), the Minister may define different procedures:
-
-                     (a)  for the giving of information by electronic means; and
-
-                     (b)  for the giving of information otherwise than by electronic means.
-
-             (6)  Rules made under this section may be set out in the same document as rules made under subsection 99AAA(8).
-
 ### Division 3—Payment for supply of pharmaceutical benefits
 
 ##### <a id="98A"></a>98A  Establishment of Pharmaceutical Benefits Remuneration Tribunal
@@ -4182,7 +4155,7 @@ to be paid by the Commonwealth for the supply of a pharmaceutical benefit to a p
 
              (7)  Where the Secretary decides not to approve a claim made by an approved supplier under subsection (2), the Secretary must, in writing, inform the approved supplier of the decision and give reasons for the decision.
 
-             (8)  The Minister must, by legislative instrument, make:
+             (8)  The Minister must, by instrument in writing, make:
 
                      (a)  rules defining the procedures to be followed by approved suppliers in making claims for payment in relation to the supply of pharmaceutical benefits; and
 
@@ -4197,6 +4170,8 @@ to be paid by the Commonwealth for the supply of a pharmaceutical benefit to a p
                               (i)  processing and determining claims by approved suppliers for payment relating to the supply of pharmaceutical benefits; and
 
                              (ii)  making the payments.
+
+             (9)  An instrument made by the Minister under subsection (8) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
            (10)  In making rules for the purposes of paragraph (8)(a), the Minister may define different procedures:
 
@@ -4646,7 +4621,7 @@ then the reduction referred to in subsection (5) is to be adjusted so that the
 
 then the reduction referred to in subsection (5) is to be adjusted so that the percentage worked out as follows is taken into account in relation to the component:
 
-![](http://www.comlaw.gov.au/Details/C2012C00377/Html/343bf0ef-0632-49c8-aad3-ceb79c18d887_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00328/Html/e2fd7dc8-0bb0-47c9-9bed-c0a71442b54d_files/image002.gif)
 
 Apportioning if quantities different
 
@@ -4756,7 +4731,7 @@ then the reduction referred to in subsection (3) or (4) is to be adjusted so t
 
 then the reduction referred to in subsection (3) or (4) is to be adjusted so that the percentage worked out as follows is taken into account in relation to the component:
 
-![](http://www.comlaw.gov.au/Details/C2012C00377/Html/343bf0ef-0632-49c8-aad3-ceb79c18d887_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00328/Html/e2fd7dc8-0bb0-47c9-9bed-c0a71442b54d_files/image002.gif)
 
 Section does not limit Minister’s powers
 
@@ -5661,7 +5636,7 @@ Claimed price reduction
 
 then, for the purposes of that determination, on the reduction day the claimed price for the brand of the pharmaceutical item is taken to be reduced by the percentage worked out as follows:
 
-![](http://www.comlaw.gov.au/Details/C2012C00377/Html/343bf0ef-0632-49c8-aad3-ceb79c18d887_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00328/Html/e2fd7dc8-0bb0-47c9-9bed-c0a71442b54d_files/image003.gif)
 
 where:
 
@@ -6309,7 +6284,7 @@ Note:          The Department can tell you what the current in
 
              (3)  Subject to this section, the indexed amount for an amount to be indexed is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00377/Html/343bf0ef-0632-49c8-aad3-ceb79c18d887_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00328/Html/e2fd7dc8-0bb0-47c9-9bed-c0a71442b54d_files/image004.gif)
 
 where:
 
@@ -6323,7 +6298,7 @@ where:
 
              (4)  Subject to subsections (5) and (6), the indexation factor for an amount to be indexed on an indexation day is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00377/Html/343bf0ef-0632-49c8-aad3-ceb79c18d887_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00328/Html/e2fd7dc8-0bb0-47c9-9bed-c0a71442b54d_files/image005.gif)
 
 where:
 
@@ -7437,7 +7412,7 @@ Procedure
 
        (4AC)  For the purposes of subsection (4AA), the designated quantity of a pharmaceutical benefit or pharmaceutical item is the quantity of that pharmaceutical benefit or pharmaceutical item worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00377/Html/343bf0ef-0632-49c8-aad3-ceb79c18d887_files/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00328/Html/e2fd7dc8-0bb0-47c9-9bed-c0a71442b54d_files/image006.gif)
 
 where:
 
@@ -8315,11 +8290,7 @@ Information to which this section applies
 
                      (b)  is held by an agency (whether or not the information was obtained by that agency or any other agency after the commencement of this section); and
 
-                     (c)  was obtained by the agency or any other agency in connection with:
-
-                              (i)  a claim for payment of a benefit under the Medicare Benefits Program or the Pharmaceutical Benefits Program; or
-
-                             (ii)  a supply of a pharmaceutical benefit to which subsection 98AC(1) applies.
+                     (c)  was obtained by that agency or any other agency in connection with a claim for payment of a benefit under the Medicare Benefits Program or the Pharmaceutical Benefits Program.
 
 Information to which this section does not apply
 
@@ -8327,9 +8298,9 @@ Information to which this section does not apply
 
                      (a)  so far as it identifies:
 
-                              (i)  a person who provided the service or goods in connection with which the claim for payment is made, or who provided the pharmaceutical benefit; or
+                              (i)  a person who provided the service or goods in connection with which the claim for payment is made; or
 
-                             (ii)  a person who, in his or her capacity as the provider of services, made a referral or request to another person to provide the service or goods or the pharmaceutical benefit; or
+                             (ii)  a person who, in his or her capacity as the provider of services, made a referral or request to another person to provide the service or goods; or
 
                      (b)  so far as it is contained in a database that:
 
@@ -8386,18 +8357,6 @@ Content of guidelines
                      (a)  as a person covered by a benefit entitlement card; or
 
                      (b)  as a person included within a class identified by the Minister in a determination under subsection 86E(1).
-
-          (5B)  Nothing in this section, or in the guidelines issued by the Information Commissioner, precludes the inclusion, in a database of information:
-
-                     (a)  held by the Chief Executive Medicare; and
-
-                     (b)  relating to supplies of pharmaceutical benefits to which subsection 98AC(1) applies;
-
-of the pharmaceutical entitlements number applicable to the person to whom each such supply relates:
-
-                     (c)  as a person covered by a benefit entitlement card; or
-
-                     (d)  as a person included within a class identified by the Minister in a determination under subsection 86E(1).
 
 Consultation
 
@@ -8771,7 +8730,7 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Ss. 2(2), 8(2) and 25 
-S. 3 (rep. by 16, 1961, s. 10)</div>
+S. 3 (rep. by 16, 1961, s. 10)</div>
   </td>
 </tr>
 <tr>
@@ -9199,7 +9158,7 @@ Remainder: 1 Oct 1976</div>
   </td>
   <td>
     <div>Ss. 25(2), 29(2), 33(2), 35(2), 36(2) and 42 
-S. 43 (am. by 99, 1976, s. 24)</div>
+S. 43 (am. by 99, 1976, s. 24)</div>
   </td>
 </tr>
 <tr>
@@ -10362,7 +10321,7 @@ Remainder: 1 July 1987</div>
   </td>
   <td>
     <div>Ss. 13(2), 30, 32 and 33 
-S. 31 (am. by 79, 1988, s. 33)</div>
+S. 31 (am. by 79, 1988, s. 33)</div>
   </td>
 </tr>
 <tr>
@@ -10893,7 +10852,7 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>S. 2 (am. by 136, 1992, 
-s. 26)</div>
+s. 26)</div>
   </td>
 </tr>
 <tr>
@@ -11228,7 +11187,7 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>S. 2 (am. by 12, 1994, 
-s. 6)</div>
+s. 6)</div>
   </td>
 </tr>
 <tr>
@@ -11767,7 +11726,7 @@ S. 7: 1 July 1997
 Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>S. 6 (item 4) and s. 7(2)</div>
+    <div>S. 6 (item 4) and s. 7(2)</div>
   </td>
 </tr>
 <tr>
@@ -12266,7 +12225,7 @@ Remainder: Royal Assent</div>
     <div>Schedule 6 (item 26) and Schedule 7 (item 122): <i>(zzt)</i></div>
   </td>
   <td>
-    <div>S. 3(2)(e) (am. by 160, 2000, Sch. 4 \[item 4])</div>
+    <div>S. 3(2)(e) (am. by 160, 2000, Sch. 4 \[item 4])</div>
   </td>
 </tr>
 <tr>
@@ -12658,7 +12617,7 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Sch. 1 (items 17, 54, 59, 64, 73) 
-Sch. 1 (item 28A) (ad. by 31, 2005, Sch. 2 \[item 1]) \[ <i>see</i>Table A]</div>
+Sch. 1 (item 28A) (ad. by 31, 2005, Sch. 2 \[item 1]) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -13189,7 +13148,7 @@ Schedule 2: 29 Sept 2007
 Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>Sch. 2 (item 21) \[ <i>see</i>Table A]</div>
+    <div>Sch. 2 (item 21) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -13228,7 +13187,7 @@ Remainder: Royal Assent</div>
 Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>Sch. 1 (item 6), Sch. 3 (item 3) and Sch. 4 (item 6) \[ <i>see</i>Table A]</div>
+    <div>Sch. 1 (item 6), Sch. 3 (item 3) and Sch. 4 (item 6) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -13384,7 +13343,7 @@ Schedule 2 (items 19–21): 1 July 2010 ( <i>see</i>s. 2(1))</div>
 Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>Sch. 1 (item 3) \[ <i>see</i>Table A]</div>
+    <div>Sch. 1 (item 3) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -13401,10 +13360,10 @@ Remainder: Royal Assent</div>
     <div>Schedule 1: 1 Feb 2011 
 Schedules 2–4, Schedule 6 (items 1–27, 
 30–33) and Schedule 7: 1 Dec 2010 
-Schedule 5: 1 Apr 2012</div>
+Schedule 5: \[ <i>see</i>Note 3]</div>
   </td>
   <td>
-    <div>Sch. 4 (item 20) and Sch. 6 (items 
+    <div>Sch. 4 (item 20) and Sch. 6 (items 
 30–33) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
@@ -13437,7 +13396,7 @@ Schedule 5: 1 Apr 2012</div>
   </td>
   <td>
     <div>Schedule 4 (items 419–467): 1 July 2011 
-Schedule 4 (item 654): <i>(zzzh)</i></div>
+Schedule 4 (item 654): \[ <i>see</i> <i>(zzzh)</i>and Note 4]</div>
   </td>
   <td>
     <div>—</div>
@@ -13457,7 +13416,7 @@ Schedule 4 (item 654): <i>(zzzh)</i></div>
     <div>Schedule 2 (items 798–806) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
   </td>
   <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
+    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -13488,7 +13447,7 @@ Schedule 4 (item 654): <i>(zzzh)</i></div>
     <div>20 Mar 2012</div>
   </td>
   <td>
-    <div>Schedules 1–3: \[ <i>see</i>Note 3 and Table A]</div>
+    <div>Schedules 1–3: \[ <i>see</i>Note 5 and Table A]</div>
   </td>
   <td>
     <div>Sch. 1 (item 3) and Sch. 3 (item 4) \[ <i>see</i>Table A]</div>
@@ -14418,7 +14377,8 @@ _(zzzh)_   Subsection 2(1) (item 7) of the _Human Services Legislation Ame
   </td>
   <td>
     <div>
-      1 April 2012
+      \[
+        <i>see</i>Note 4]
     </div>
   </td>
 </tr></table>
@@ -29031,14 +28991,6 @@ Part VII</div>
 </tr>
 <tr>
   <td>
-    <div>S. 98AC</div>
-  </td>
-  <td>
-    <div>ad. No. 126, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Division 3</b></div>
   </td>
   <td>
@@ -29252,14 +29204,6 @@ Part VII</div>
   </td>
   <td>
     <div>rs. No. 119, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 126, 2010</div>
   </td>
 </tr>
 <tr>
@@ -32672,6 +32616,102 @@ The proposed amendment was misdescribed and is not incorporated in this compilat
 
 ### Note 3
 
+_National Health Amendment (Pharmaceutical Benefits Scheme) Act 2010 (No. 126, 2010)_
+
+The following amendments commence on 1 April 2012:
+
+## Schedule 5
+
+## 1  At the end of Division 2 of Part VII
+
+Add:
+
+##### <a id="98AC"></a>98AC  Information about supplies
+
+             (1)  An approved supplier that supplies a pharmaceutical benefit (including a supply taken, because of subsection 99(2A), to be a supply otherwise than under this Part):
+
+                     (a)  must give to the Secretary, in relation to the supply of that benefit, the information specified in rules made by the Minister under paragraph (4)(a); and
+
+                     (b)  must give the information in accordance with the rules made by the Minister under paragraph (4)(b).
+
+             (2)  Subsection (1) does not apply if the approved supplier makes, or proposes to make, a claim for payment in relation to the supply of the pharmaceutical benefit under section 99AAA.
+
+             (3)  Subject to the rules made by the Minister under paragraph (4)(b), subsections 99AAA(4) and (5) and section 99AAB (about the procedures for giving information) apply in relation to the giving of information under this section in the same way as they apply in relation to the giving of information under section 99AAA.
+
+             (4)  The Minister must, by legislative instrument, make:
+
+                     (a)  rules specifying the information to be given to the Secretary by approved suppliers in relation to the supply by them of pharmaceutical benefits; and
+
+                     (b)  rules defining the procedures to be followed by approved suppliers in giving information to the Secretary in relation to the supply by them of pharmaceutical benefits.
+
+             (5)  In making rules for the purposes of paragraph (4)(b), the Minister may define different procedures:
+
+                     (a)  for the giving of information by electronic means; and
+
+                     (b)  for the giving of information otherwise than by electronic means.
+
+             (6)  Rules made under this section may be set out in the same document as rules made under subsection 99AAA(8).
+
+## 2  Subsection 99AAA(8)
+
+Omit “instrument in writing”, substitute “legislative instrument”.
+
+## 3  Subsection 99AAA(9)
+
+Repeal the subsection.
+
+## 4  Paragraph 135AA(1)(c)
+
+Repeal the paragraph, substitute:
+
+                     (c)  was obtained by the agency or any other agency in connection with:
+
+                              (i)  a claim for payment of a benefit under the Medicare Benefits Program or the Pharmaceutical Benefits Program; or
+
+                             (ii)  a supply of a pharmaceutical benefit to which subsection 98AC(1) applies.
+
+## 5  Subparagraph 135AA(2)(a)(i)
+
+After “made”, insert “, or who provided the pharmaceutical benefit”.
+
+## 6  Subparagraph 135AA(2)(a)(ii)
+
+After “goods”, insert “or the pharmaceutical benefit”.
+
+## 7  After subsection 135AA(5A)
+
+Insert:
+
+          (5B)  Nothing in this section, or in the guidelines issued by the Information Commissioner, precludes the inclusion, in a database of information:
+
+                     (a)  held by the Medicare Australia CEO; and
+
+                     (b)  relating to supplies of pharmaceutical benefits to which subsection 98AC(1) applies;
+
+of the pharmaceutical entitlements number applicable to the person to whom each such supply relates:
+
+                     (c)  as a person covered by a benefit entitlement card; or
+
+                     (d)  as a person included within a class identified by the Minister in a determination under subsection 86E(1).
+
+As at 23 March 2012 the amendments are not incorporated in this compilation.
+
+### Note 4
+
+_Human Services Legislation Amendment Act 2011 (No. 32, 2011)_
+
+The following amendment commences immediately after 1 April 2012:
+
+## Schedule 4
+
+## 654  Paragraph 135AA(5B)(a)
+
+Omit “Medicare Australia CEO”, substitute “Chief Executive Medicare”.
+
+As at 23 March 2012 the amendment is not incorporated in this compilation.
+
+### Note 5
+
 _National Health Amendment (Fifth Community Pharmacy Agreement Initiatives) Act 2012 (No. 8, 2012)_
 
 The following amendments commence on 1 July 2012:
@@ -32760,7 +32800,7 @@ Repeal the subsection, substitute:
 
              (4)  A determination made under subsection (1), (2), (2A) or (3A) is a legislative instrument.
 
-As at 1 April 2012 the amendments are not incorporated in this compilation.
+As at 23 March 2012 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -33482,7 +33522,7 @@ the claim is taken, for the purposes of that Act, to be a claim made under secti
 
 (2)       The Commission may, under section 13 of that Act, approve the provision of treatment that was provided before the claim was made, but must not approve the provision of treatment that was provided before 19 June 2006.
 
-## 2  Claims made on or after 19 June 2006—entitlement to travelling expenses
+## 2  Claims made on or after 19 June 2006—entitlement to travelling expenses
 
 (1)       If:
 
