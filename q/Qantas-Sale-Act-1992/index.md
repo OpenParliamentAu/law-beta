@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00854/Html/QantasSale1992_WD02HYP_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00369/Html/QantasSale1992_WD02HYP_image001.gif)
 
 # Qantas Sale Act 1992
 
 **Act No. 196 of 1992 as amended**
 
-This compilation was prepared on 21 December 2010
- taking into account amendments up to Act No. 148 of 2010
+This compilation was prepared on 1 July 2007
+ taking into account amendments up to Act No. 21 of 2007
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -64,6 +64,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [17](#17).          Commonwealth takeover of certain obligations in connection with Qantas other than those referred to in section 16
 
+[18](#18).          Appropriation
+
 [19](#19).          Application of the _Loans Securities Act 1919_
 
     **Division 3—Miscellaneous**
@@ -72,7 +74,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [21](#21).          This Part to have effect despite Corporations Act
 
-    **Part 5—Amendment of the Long Service Leave (Commonwealth Employees) Regulations** 
+**Part 5—Amendment of the Long Service Leave (Commonwealth Employees) Regulations** 
 
 Sections 22, 23
 
@@ -622,6 +624,10 @@ enter into an agreement to take over an obligation to which this section applies
 
                     <a name="princip-amount"></a>**_principal amount_**, in relation to an obligation taken over under this section, means the amount of money in respect of which the obligation originally arose less any part of that amount in respect of which the obligation has been satisfied at the time it is taken over.
 
+##### <a id="18"></a>18  Appropriation
+
+                   A payment under subsection 15(1), 16(3) or 17(3) must be made out of the Consolidated Revenue Fund, which is appropriated accordingly.
+
 ##### <a id="19"></a>19  Application of the _Loans Securities Act 1919_
 
                    Sections 5A, 5B, 5C and 5D (other than paragraphs (1)(c) and (2)(c)) of the _Loans Securities Act 1919_ apply in relation to an obligation that is taken over by the Commonwealth under section 16 or 17 as if that obligation were a borrowing of money outside Australia:
@@ -1018,7 +1024,7 @@ cease to apply to the employee on the day on which this section commences.
 
 Australian Airlines is entitled to be paid an amount equal to the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00854/Html/QantasSale1992_WD02HYP_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00369/Html/QantasSale1992_WD02HYP_image002.gif)
 
 where:
 
@@ -1026,13 +1032,15 @@ where:
 
                     <a name="no-refund-dai"></a>**_No. of refund days_** means the total number of days in the period beginning on the day specified by the Minister under paragraph (a) and ending on the last day of the licence fee year in which the specified day occurs.
 
+             (2)  An amount to which Australian Airlines is entitled under subsection (1) must be paid out of the Consolidated Revenue Fund which is appropriated accordingly.
+
              (3)  In this section:
 
                     <a name="licenc-fee-year"></a>**_licence fee year_** means the year beginning on the date of commencement of a licence granted under section 107J of the SRC Act and ending on the day before the anniversary of that date.
 
 ##### <a id="46"></a>46  Refund of contribution paid under the _Occupational Health and Safety (Commonwealth Employment) Act 1991_
 
-                   If:
+             (1)  If:
 
                      (a)  the Minister for Finance has, for the purposes of this section, specified in writing a day in a financial year (**_the specified day_**) as the day on which Qantas or a Qantas subsidiary ceases to be a Commonwealth authority within the meaning of **_Commonwealth authority_** in the _Occupational Health and Safety (Commonwealth Employment) Act 1991_; and
 
@@ -1040,13 +1048,15 @@ where:
 
 then Qantas or the subsidiary, as the case may be, is entitled to be paid the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00854/Html/QantasSale1992_WD02HYP_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00369/Html/QantasSale1992_WD02HYP_image003.gif)
 
 where:
 
                     <a name="contribut"></a>**_Contribution_** means the contribution referred to in paragraph (b).
 
                     <a name="no-refund-dai"></a>**_No. of refund days_** means the total number of days in the period beginning on the day specified under paragraph (a) and ending on the last day of the financial year in which the specified day occurs.
+
+             (2)  An amount to which Qantas or a Qantas subsidiary is entitled under subsection (1) must be paid out of the Consolidated Revenue Fund, which is appropriated accordingly.
 
 ##### <a id="47"></a>47  Qantas and its subsidiaries not to be eligible or relevant bodies for the purposes of the _Superannuation Benefits (Supervisory Mechanisms) Act 1990_
 
@@ -1472,23 +1482,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Framework Legislation Amendment Act 2010</div>
-  </td>
-  <td>
-    <div>148, 2010</div>
-  </td>
-  <td>
-    <div>17 Dec 2010</div>
-  </td>
-  <td>
-    <div>Schedule 11 (items 14–17): 18 Dec 2010</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     Subsections 2(2) and (6) of the _Qantas Sale Act 1992_ provide as follows:
@@ -1576,14 +1569,6 @@ _(h)_ The _Qantas Sale Act 1992_ was amended by Schedule 3 (items 444–457)
 </thead>
 <tr>
   <td>
-    <div><b>Part 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 2</div>
   </td>
   <td>
@@ -1596,14 +1581,6 @@ _(h)_ The _Qantas Sale Act 1992_ was amended by Schedule 3 (items 444–457)
   </td>
   <td>
     <div>am. No. 168, 1994; No. 55, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
@@ -1656,38 +1633,6 @@ _(h)_ The _Qantas Sale Act 1992_ was amended by Schedule 3 (items 444–457)
 </tr>
 <tr>
   <td>
-    <div><b>Part 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18</div>
-  </td>
-  <td>
-    <div>rep. No. 148, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 20</div>
   </td>
   <td>
@@ -1708,14 +1653,6 @@ _(h)_ The _Qantas Sale Act 1992_ was amended by Schedule 3 (items 444–457)
   </td>
   <td>
     <div>am. No. 55, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 7</b></div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
@@ -1764,14 +1701,6 @@ _(h)_ The _Qantas Sale Act 1992_ was amended by Schedule 3 (items 444–457)
   </td>
   <td>
     <div>am. No. 54, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 8</b></div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
@@ -1835,15 +1764,7 @@ _(h)_ The _Qantas Sale Act 1992_ was amended by Schedule 3 (items 444–457)
     <div>S. 45</div>
   </td>
   <td>
-    <div>am. No. 168, 1994; No. 148, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 46</div>
-  </td>
-  <td>
-    <div>am. No. 148, 2010</div>
+    <div>am. No. 168, 1994</div>
   </td>
 </tr>
 <tr>
@@ -1868,14 +1789,6 @@ _(h)_ The _Qantas Sale Act 1992_ was amended by Schedule 3 (items 444–457)
   </td>
   <td>
     <div>rep. No. 196, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule</b></div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
