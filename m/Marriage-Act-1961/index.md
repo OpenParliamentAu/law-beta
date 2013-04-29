@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00837/Html/9a8c4ac0-59e4-4091-86d4-40cf5619567e_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00192/Html/1c3f939f-2d8b-4e75-9462-307fa8b8f99a_files/image001.gif)
 
 # Marriage Act 1961
 
 **Act No. 12 of 1961 as amended**
 
-This compilation was prepared on 20 November 2012
+This compilation was prepared on 19 April 2011
  taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -455,7 +456,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 ##### <a id="6"></a>6  Act not to exclude operation of certain State and Territory laws
 
-                   This Act shall not be taken to exclude the operation of a law of a State or of a Territory, in so far as that law relates to the registration of marriages, but a marriage solemnised after the commencement of this Act is not invalid by reason of a failure to comply with the requirements of such a law.
+                   This Act shall not be taken to exclude the operation of a law of a State or of a Territory, in so far as that law relates to the registration of marriages, but a marriage solemnised after the commencement of this Act is not invalid by reason of a failure to comply with the requirements of such a law.
 
 ##### <a id="7"></a>7  Validity of certain marriages not affected
 
@@ -1583,7 +1584,7 @@ or words to that effect.
 
 ### Division 3—Marriages of members of the Defence Force overseas
 
-##### <a id="71"></a>71  Marriages of members of the Defence Force overseas
+##### <a id="71"></a>71  Marriages of members of the Defence Force overseas
 
              (1)  Subject to this Part, a marriage between parties of whom one at least is a member of the Defence Force may be solemnised in an overseas country by or in the presence of a chaplain.
 
@@ -1739,7 +1740,7 @@ shall sign each of the certificates so prepared.
 
              (2)  A marriage under this Part is not invalid by reason that the person solemnising it was not a chaplain if either party to the marriage, at the time the marriage was solemnised, believed that that person was lawfully authorised to solemnise it, and in such a case the form and ceremony of the marriage shall be deemed to have been sufficient if they were such as to show an intention on the part of each of the parties to become thereby the lawfully wedded spouse of the other.
 
-##### <a id="84"></a>84  Registration of overseas marriages attended by a chaplain
+##### <a id="84"></a>84  Registration of overseas marriages attended by a chaplain
 
              (1)  Where:
 
@@ -1937,7 +1938,7 @@ is, for all purposes, _prima facie_ evidence of the facts stated in the document
 
              (5)  This section does not apply in relation to a child so as to affect any estate, right or interest in real or personal property to which a person has become, or may become, entitled, either mediately or immediately, in possession or expectancy, by virtue of a disposition that took effect, or by devolution by law on the death of a person who died, before the marriage of the parents of the child or the commencement of this Act, whichever was the later.
 
-##### <a id="90"></a>90  Legitimacy of children of certain foreign marriages
+##### <a id="90"></a>90  Legitimacy of children of certain foreign marriages
 
              (1)  Where:
 
@@ -2732,7 +2733,7 @@ Remainder: 20 June 1977
   </td>
   <td>
     <div>1 July 1982 ( <i>see 
- </i>s. 2 and <i>Gazette</i>1982, No. G26, 
+ </i>s. 2 and <i>Gazette</i> 1982, No. G26, 
 p. 2)</div>
   </td>
   <td>
@@ -2939,49 +2940,13 @@ Remainder: 24 May 2001</div>
     <div>8 Oct 2002</div>
   </td>
   <td>
-    <div>Schedule 2 (items 1–14, 
-16–56): 5 Nov 2002 
+    <div>Schedule 2 (items 1–14, 16–56): 5 Nov 2002 
 Schedule 2 (item 15): 8 Apr 2003 
 Schedule 1: 1 Sept 2003 ( <i>see</i> <i>Gazette</i>2003, No. GN31) 
 Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>Sch. 2 (items 5, 10, 17) 
-Sch. 1 (item 27) (am. by 136, 2012, Sch. 2 \[item 30]) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2012</div>
-  </td>
-  <td>
-    <div>136, 2012</div>
-  </td>
-  <td>
-    <div>22 Sept 2012</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 30): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
+    <div>Sch. 1 (item 27) and Sch. 2 (items 5, 10, 17) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -3047,8 +3012,8 @@ Sch. 1 (item 27) (am. by 136, 2012, Sch. 2 \[item 30]) \[ <i>see</i>Table 
   </td>
   <td>
     <div>Schedule 4 (items 1–24): Royal Assent 
-Schedule 4 (item 25): <i>(j) 
- </i>Schedule 7 (item 92): 19 Apr 2011</div>
+Schedule 4 (item 25): <i>(j) 
+ </i>Schedule 7 (item 92): 19 Apr 2011</div>
   </td>
   <td>
     <div>—</div>
@@ -5285,7 +5250,7 @@ _Marriage Amendment Act 2002 (No. 77, 2002)_
 
 **_existing marriage celebrant_** means a person:
 
-                     (a)  in respect of whom an instrument made under subsection 39(2) of the _Marriage Act 1961_ was in force immediately before the commencement of item 18 of this Schedule; and
+                     (a)  in respect of whom an instrument made under subsection 39(2) of the _Marriage Act 1961_ was in force immediately before the commencehment of item 18 of this Schedule; and
 
                      (b)  who was not authorized by that instrument to solemnize marriages as an officer of a State or Territory.
 
