@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00316/Html/fa69189d-b7ee-4b76-bbd9-fb6fb4b22a6b_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00487/Html/62b25c35-77e7-4e71-962d-62cdec18f98d_files/image001.gif)
 
 # Paid Parental Leave Act 2010
 
 **Act No. 104 of 2010 as amended**
 
-This compilation was prepared on 21 March 2012
+This compilation was prepared on 4 July 2011
  taking into account amendments up to Act No. 52 of 2011
 
 The text of any of those amendments not in force
@@ -1234,7 +1234,7 @@ Division 2 has the Dictionary (see section 6). The Dictionary is a list of e
 
                      (a)  for a natural person:
 
-                              (i)  the person is an insolvent under administration; or
+                              (i)  the person is an insolvent under administration (within the meaning of the _Corporations Act_ _2001_); or
 
                              (ii)  the person is a debtor in relation to a debt agreement under Part IX of the _Bankruptcy Act 1966_ that has not ended or been terminated; and
 
@@ -1920,7 +1920,7 @@ Secondary claimants
 
 ##### <a id="27"></a>27  Assumptions when making the initial eligibility determination
 
-                   In deciding whether to make an initial eligibility determination, the Secretary may act on the assumption that the state of affairs known to the Secretary when making the determination will remain unchanged.
+                   In deciding whether to make an initial eligibility determination, the Secretary may act on the assumption that the state of affairs known to the Secretary when making the determination will remain unchanged.
 
 ##### <a id="28"></a>28  When the initial eligibility determination comes into force
 
@@ -2220,7 +2220,7 @@ Step 4.   Use section 44 to round off the provisional indexed amount: the 
 
              (1)  The **_indexation factor_** is worked out using the following formula and applying subsections (2) and (3):
 
-![](http://www.comlaw.gov.au/Details/C2012C00316/Html/fa69189d-b7ee-4b76-bbd9-fb6fb4b22a6b_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00487/Html/62b25c35-77e7-4e71-962d-62cdec18f98d_files/image002.gif)
 
 where:
 
@@ -4989,7 +4989,7 @@ Interest not payable on debts incurred because of Commonwealth administrative er
 
              (7)  A person is not liable under this section to pay interest on a debt, or the proportion of a debt, that was incurred because of an administrative error made by the Commonwealth or an agent of the Commonwealth.
 
-##### <a id="176"></a>176  Interest on debts—application
+##### <a id="176"></a>176  Interest on debts—application
 
                    An amount of interest payable on a debt under section 175 that has been paid on the debt is to be applied as follows:
 
@@ -5405,7 +5405,7 @@ Working out present value of unpaid amount
 
              (6)  For the purposes of subsection (5), the **_present value of the unpaid amount_** is the amount worked out in accordance with the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00316/Html/fa69189d-b7ee-4b76-bbd9-fb6fb4b22a6b_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00487/Html/62b25c35-77e7-4e71-962d-62cdec18f98d_files/image003.gif)
 
 where:
 
@@ -7565,7 +7565,7 @@ of Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (item 901) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (item 901) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11)</div>
@@ -7641,7 +7641,7 @@ of Assent</div>
     <div>S. 6</div>
   </td>
   <td>
-    <div>am. Nos. 5, 32 and 46, 2011</div>
+    <div>am. Nos. 5 and 32, 2011</div>
   </td>
 </tr>
 <tr>
@@ -8063,11 +8063,27 @@ Part 5-3</div>
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendment commences on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 901  Section 6 (subparagraph (a)(i) of the definition of _insolvent_)
+
+Omit “(within the meaning of the _Corporations Act 2001_)”.
+
+As at 4 July 2011 the amendment is not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
