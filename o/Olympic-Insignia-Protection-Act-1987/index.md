@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00403/Html/5fbf2fc5-7f18-40e1-b2d8-ff8a2035c442_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00189/Html/061c2a1e-eabf-428d-a554-78d9cc0c2af9_files/image001.gif)
 
 # Olympic Insignia Protection Act 1987
 
 **Act No. 27 of 1987 as amended**
 
-This compilation was prepared on 20 April 2012
+This compilation was prepared on 31 January 2012
  taking into account amendments up to Act No. 127 of 2011
 
 The text of any of those amendments not in force 
@@ -454,7 +454,7 @@ the AOC shall, at the end of that period, be deemed to have granted that consent
 
 ##### <a id="9"></a>9  Remedies for infringement of monopoly in protected design
 
-                   The relief that the Federal Court may grant in an action or proceeding for the infringement of the monopoly in a protected design includes an injunction (subject to such terms, if any, as the Court thinks fit) and, at the option of the plaintiff, either damages or an account of profits.
+                   The relief that the Federal Court may grant in an action or proceeding for the infringement of the monopoly in a protected design includes an injunction (subject to such terms, if any, as the Court thinks fit) and, at the option of the plaintiff, either damages or an account of profits.
 
 ##### <a id="9A"></a>9A  Australian Consumer Law  provides further remedies
 
@@ -600,7 +600,7 @@ before the day on which the application was lodged.
 
              (9)  A defendant in an action or proceeding for the infringement of the monopoly in a protected design may apply, by way of counter‑claim in the action or proceeding, for the rectification of the Register of Olympic Designs by the expunging of the entry of the registration of the design from the Register of Olympic Designs.
 
-##### <a id="13"></a>13  Delegation
+##### <a id="13"></a>13  Delegation
 
                    Section 8A of the _Designs Act 1906_ applies in relation to the Registrar’s powers under this Part in the same manner in which it applies in relation to the Registrar’s powers under that Act.
 
@@ -1776,11 +1776,13 @@ Passing off
 
              (4)  This Chapter, so far as it applies to a protected olympic expression, does not affect the use of the expression by a person (the **_first person_**) if, immediately before 20 September 2001, the first person would have been entitled to prevent another person from passing off, by means of the use of the expression or a similar expression, goods or services as the goods or services of the first person.
 
+Business names
+
              (5)  This Chapter does not apply to the use of a business name in connection with a business if:
 
-                     (a)  the name was registered under a law of a State or Territory relating to business names immediately before 20 September 2001 in relation to the business; and
+                     (a)  the name is registered in relation to the business under a law of a State or Territory relating to business names; and
 
-                     (b)  the name is registered in relation to the business under a law of the Commonwealth or a State or Territory relating to business names.
+                     (b)  the name was so registered immediately before 20 September 2001 in relation to the business.
 
 Company names
 
@@ -1846,7 +1848,7 @@ Company names
 
 Subsection 2(1)
 
-![](http://www.comlaw.gov.au/Details/C2012C00403/Html/5fbf2fc5-7f18-40e1-b2d8-ff8a2035c442_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00189/Html/061c2a1e-eabf-428d-a554-78d9cc0c2af9_files/image002.gif)
 
 # Notes to the _Olympic Insignia Protection Act 1987_
 
@@ -2038,7 +2040,7 @@ Schedule 5 (item 137(a)): <i>(a)</i></div>
     <div>3 Nov 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (item 24): 20 Apr 2012 ( <i>see</i>s. 2(1))</div>
+    <div>Schedule 2 (item 24): \[ <i>see</i>s. 2(1) and Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -2809,34 +2811,10 @@ of Chapt. 2</div>
 </tr>
 <tr>
   <td>
-    <div>S. 70</div>
+    <div>Ss. 70–75</div>
   </td>
   <td>
     <div>ad. No. 156, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 71</div>
-  </td>
-  <td>
-    <div>ad. No. 156, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 127, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 72–75</div>
-  </td>
-  <td>
-    <div>ad. No. 156, 2001</div>
   </td>
 </tr>
 <tr>
@@ -2866,7 +2844,7 @@ of Chapt. 2</div>
 <tr>
   <td>
     <div>Heading to Part 4.1 of 
-Chapt. 4</div>
+Chapt.4</div>
   </td>
   <td>
     <div>ad. No. 156, 2001</div>
@@ -2882,6 +2860,26 @@ Renumbered s. 76</div>
 No. 156, 2001</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Business Names Registration (Transitional and Consequential Provisions) Act 2011 (No. 127, 2011)_
+
+The following amendment commences at the same time as section 3 of the _Business Names Registration Act 2011_:
+
+## Schedule 2
+
+## 24  Subsection 71(5)
+
+Repeal the subsection, substitute:
+
+             (5)  This Chapter does not apply to the use of a business name in connection with a business if:
+
+                     (a)  the name was registered under a law of a State or Territory relating to business names immediately before 20 September 2001 in relation to the business; and
+
+                     (b)  the name is registered in relation to the business under a law of the Commonwealth or a State or Territory relating to business names.
+
+As at 31 January 2012 the amendment is not incorporated in this compilation.
 
 ## Table A
 
