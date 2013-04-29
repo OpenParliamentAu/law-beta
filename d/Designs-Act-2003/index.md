@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00474/Html/DesignsAct2003_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00053/Html/DesignsAct2003_image001.gif)
 
 # Designs Act 2003
 
 **Act No. 147 of 2003 as amended**
 
-This compilation was prepared on 7 July 2010
- taking into account amendments up to Act No. 96 of 2010
+This compilation was prepared on 4 February 2010
+ taking into account amendments up to Act No. 131 of 2009
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -1070,7 +1070,7 @@ the applicant may file a design application under section 21 in respect of one
 
 ### Division 3—Filing date and priority date
 
-##### <a id="26"></a>26  Filing date
+##### <a id="26"></a>26  Filing date
 
                    A design application has the filing date determined in accordance with the regulations.
 
@@ -2922,7 +2922,7 @@ the application or registration must be treated as having been restored on the d
 
 ## Part 6—Other
 
-##### <a id="141"></a>141  Powers of agents
+##### <a id="141"></a>141  Powers of agents
 
                    An agent may do any act in connection with the registration of designs, on behalf of any other person.
 
@@ -3249,7 +3249,7 @@ Remainder: Royal Assent</div>
     <div>27 Sept 2006</div>
   </td>
   <td>
-    <div>Schedule 12 (items 1, 2): 27 Mar 2007 
+    <div>Schedule 12 (items 1, 2): 27 Mar 2007 
 Schedule 15 (item 1): 28 Sept 2006</div>
   </td>
   <td>
@@ -3271,111 +3271,6 @@ Schedule 15 (item 1): 28 Sept 2006</div>
   </td>
   <td>
     <div>Sch. 2 (item 7)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Personal Property Securities (Corporations and Other Amendments) Act 2010</div>
-  </td>
-  <td>
-    <div>96, 2010</div>
-  </td>
-  <td>
-    <div>6 July 2010</div>
-  </td>
-  <td>
-    <div>Schedule 3 (item 1): \[ <i>see (a)</i>and Note 3]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
-
-_(a)_ Subsection 2(1) (item 8) of the _Personal Property Securities (Corporations and Other Amendments) Act 2010_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      8\. Schedule 3, item 1
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of item 1 of Schedule 2 to the
-        <i>Personal Property Securities (Consequential Amendments) Act 2009</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      \[
-        <i>see</i>Note 3]
-    </div>
   </td>
 </tr></table>
 
@@ -3536,35 +3431,7 @@ Add:
 
 Note:          Certain particulars relating to registrations in respect of PPSA security interests under the _Personal Property Securities Act 2009_ are admissible in evidence: see section 174 of that Act.
 
-As at 7 July 2010 the amendments are not incorporated in this compilation.
-
-### Note 3
-
-_Personal Property Securities (Corporations and Other Amendments) Act 2010 (No. 96, 2010)_
-
-The following amendment commences immediately after the commencement of item 1 of Schedule 2 to the _Personal Property Securities (Consequential Amendments) Act 2009_:
-
-## Schedule 3
-
-## 1  Section 5 (definition of _PPSA security interest_)
-
-Repeal the definition, substitute:
-
-                    <a name="ppsa-secur-interest"></a>**_PPSA security interest_** (short for Personal Property Securities Act security interest) means a security interest within the meaning of the _Personal Property Securities Act 2009_ and to which that Act applies, other than a transitional security interest within the meaning of that Act.
-
-Note 1:       The _Personal Property Securities Act 2009_ applies to certain security interests in personal property. See the following provisions of that Act:
-
-(a)    section 8 (interests to which the Act does not apply);
-
-(b)    section 12 (meaning of **_security interest_**);
-
-(c)    Chapter 9 (transitional provisions).
-
-Note 2:       For the meaning of **_transitional security interest_**, see section 308 of the _Personal Property Securities Act 2009_.
-
-_Note:       This amendment replaces the definition inserted by item 1 of Schedule 2 to the Personal Property Securities (Consequential Amendments) Act 2009._
-
-As at 7 July 2010 the amendment is not incorporated in this compilation.
+As at 4 February 2010 the amendments are not incorporated in this compilation.
 
 ## Table A
 
