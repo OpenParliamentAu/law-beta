@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00200/Html/TelstraCorpn1991WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00531/Html/TelstraCorpn1991WD02_image001.gif)
 
 # Telstra Corporation Act 1991
 
 **Act No. 79 of 1991 as amended**
 
-This compilation was prepared on 3 March 2010
- taking into account amendments up to Act No. 8 of 2010
+This compilation was prepared on 23 November 2009
+ taking into account amendments up to Act No. 111 of 2009
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -1722,7 +1722,7 @@ all or any of the powers conferred on the Minister for Finance by this Part.
 
 ## Part 2AA—Anti-avoidance
 
-##### <a id="8CCA"></a>8CCA  Anti-avoidance
+##### <a id="8CCA"></a>8CCA  Anti-avoidance
 
              (1)  Telstra must not, either alone or together with one or more other persons, enter into, begin to carry out or carry out a scheme if it would be concluded that Telstra did so for the sole or dominant purpose of avoiding the application of any provision of this Act in relation to Telstra.
 
@@ -2180,7 +2180,7 @@ then, despite paragraph 19(4)(b) of the _Crimes (Superannuation Benefits) Act 19
 
 Comcare must pay Telstra the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00200/Html/TelstraCorpn1991WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00531/Html/TelstraCorpn1991WD02_image002.gif)
 
 where:
 
@@ -2522,7 +2522,7 @@ elements of the social bonus are as follows:</li>
 
                (c)     meeting the telecommunications needs of people in remote island communities, isolated island communities or the Australian Antarctic Territory ($20 million over 3 years);
 
-               (d)     internet access for people in rural or regional areas ($36 million over 3 years);
+               (d)     Internet access for people in rural or regional areas ($36 million over 3 years);
 
                (e)     mobile phone coverage along highways ($25 million over 3 years);
 
@@ -2618,13 +2618,13 @@ elements of the social bonus are as follows:</li>
 
              (2)  Amounts standing to the credit of the Regional Telecommunications Infrastructure Account that represent an amount credited under subsection (1) may only be debited and paid by the Commonwealth for the following purposes:
 
-                     (a)  the purpose of facilitating the provision of internet access for people in rural or regional areas, being access at a reasonable cost and involving a reasonable bandwidth; 
+                     (a)  the purpose of facilitating the provision of Internet access for people in rural or regional areas, being access at a reasonable cost and involving a reasonable bandwidth; 
 
                      (b)  a purpose incidental or ancillary to the above purpose; 
 
                      (c)  the making of grants of financial assistance for either of the above purposes.
 
-Note:          An example of a purpose mentioned in paragraph (a) is increasing the number of internet points of presence in rural or regional areas.
+Note:          An example of a purpose mentioned in paragraph (a) is increasing the number of Internet points of presence in rural or regional areas.
 
              (3)  The purposes of the Regional Telecommunications Infrastructure Account are taken to include each purpose set out in subsection (2).
 
@@ -3100,7 +3100,7 @@ Note:   For specification by class, see subsection 13(3) of the _Legislative
 
 the person is taken to hold that type of direct control interest in the second level company equal to the percentage worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00200/Html/TelstraCorpn1991WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00531/Html/TelstraCorpn1991WD02_image003.gif)
 
 where:
 
@@ -3211,7 +3211,7 @@ Remainder: 1 Feb 1992 ( <i>see Gazette</i>1992, No. S32)</div>
     <div>21 Oct 1991</div>
   </td>
   <td>
-    <div>Part 3 (ss. 8–12): 1 Feb 1992 ( <i>see Gazette</i>1992, No. S46) 
+    <div>Part 3 (ss. 8–12): 1 Feb 1992 ( <i>see Gazette</i>1992, No. S46) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -3349,7 +3349,7 @@ Remainder: Royal Assent</div>
     <div>11 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 1 (items 923–931): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(f)</i></div>
+    <div>Schedule 1 (items 923–931): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(f)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -3724,26 +3724,6 @@ Remainder: Royal Assent</div>
     <div>—</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td colspan="2">
-    <div>Statute Law Revision Act 2010</div>
-  </td>
-  <td colspan="2">
-    <div>8, 2010</div>
-  </td>
-  <td>
-    <div>1 Mar 2010</div>
-  </td>
-  <td>
-    <div>Schedule 5 (items 137(a), 138): <i>(n)</i></div>
-  </td>
-  <td>
-    <div>Sch. 5 (item 138)</div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -4100,77 +4080,6 @@ _(m)_ Subsection 2(1) (item 22) of the _Fair Work (State Referral and Conseque
     <div>
       1 July 2009 (
         <i>see</i>F2009L02563)
-    </div>
-  </td>
-</tr></table>
-
-_(n)_     Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      31\. Schedule 5, items 1 to 51
-    </div>
-  </td>
-  <td>
-    <div>
-      The day this Act receives the Royal Assent.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 March 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      38\. Schedule 5, Parts 2 and 3
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the provision(s) covered by table item 31.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 March 2010
     </div>
   </td>
 </tr></table>
@@ -6000,14 +5909,6 @@ _(n)_     Subsection 2(1) (items 31 and 38) of the _Statute Law Revision
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 44</div>
   </td>
   <td>
@@ -6200,47 +6101,7 @@ _(n)_     Subsection 2(1) (items 31 and 38) of the _Statute Law Revision
 </tr>
 <tr>
   <td>
-    <div>S. 58</div>
-  </td>
-  <td>
-    <div>ad. No. 53, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 59</div>
-  </td>
-  <td>
-    <div>ad. No. 53, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005; No. 8, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 59(2)</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 60–62</div>
+    <div>Ss. 58–62</div>
   </td>
   <td>
     <div>ad. No. 53, 1999</div>
@@ -6535,7 +6396,7 @@ _Telecommunications (Transitional Provisions and Consequential Amendments) Act 1
 
 * * *
 
-_Audit (Transitional and Miscellaneous) Amendment Act 1997 (No. 152, 1997)_
+_Audit (Transitional and Miscellaneous) Amendment Act 1997 (No. 152, 1997)_
 
 ## 4  Some amendments in Schedule 2 may not take effect or may take effect in a modified way
 
@@ -6796,31 +6657,5 @@ the situation is, during the period of 6 months starting on the day on which the
                      (b)  the person would not have been required to do that thing if the amendments had not been made;
 
 the person is, during the period of 6 months starting on the day on which the amendments commence, taken not to be required to do that thing for so long as the person would otherwise have been required to do that thing.
-
-* * *
-
-_Statute Law Revision Act 2010 (No. 8, 2010)_
-
-## Schedule 5
-
-## 138  References to which Part 2 does not apply
-
-Part 2 does not apply to the following provisions of the following Acts:
-
-                     (a)  the heading to Part 2 of Schedule 5 to the _Broadcasting Services Act 1992_;
-
-                     (b)  clause 49 of Schedule 5 to the _Broadcasting Services Act 1992_;
-
-                     (c)  section 29 of the _Interactive Gambling Act 2001_.
-
-_Note:       Headings to the following provisions are not altered by Part 2:_
-
-(a)              clauses 5, 8 and 55 and subclause 60(8A) of Schedule 5 to the _Broadcasting Services Act 1992_;
-
-(b)              subsection 20(3) of the _Interactive Gambling Act 2001_;
-
-(c)              section 123WG and subsection 123WG(2) of the _Social Security (Administration) Act 1999_;
-
-(d)              section 59 of the _Telstra Corporation Act 1991_.
 
  
