@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00875/Html/a5e909c9-5556-454f-a00e-fdb8914323f2_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00537/Html/PrimIndCusomstCharges1999WD02_image001.gif)
 
 # Primary Industries (Customs) Charges Act 1999
 
 **Act No. 30 of 1999 as amended**
 
-This compilation was prepared on 24 December 2010
- taking into account amendments up to Act No. 148 of 2010
+This compilation was prepared on 3 September 2007
+ taking into account amendments up to Act No. 123 of 2007
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -80,7 +80,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [1](#1).            Definitions
 
-[2](#2).            Imposition of charge—re‑importation of exported dairy produce
+[2](#2).            Imposition of charge—re-importation of exported dairy produce
 
 [3](#3).            Imposition of charge—import offset
 
@@ -178,7 +178,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [6](#6).            Transitional—regulations
 
-**Schedule 11—Live‑stock (exporters)**
+**Schedule 11—Live-stock (exporters)**
 
 [1](#1).            Definitions
 
@@ -200,7 +200,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [10](#10).          Transitional—authorisations
 
-**Schedule 12—Live‑stock (producers)**
+**Schedule 12—Live-stock (producers)**
 
 [1](#1).            Definitions
 
@@ -300,11 +300,11 @@ of Schedules 1 to 13 imposes a particular charge and makes provision for:</li>
 
                (a)     the operative rate of the charge; and
 
-              (b)     the maximum rate of the charge; and
+               (b)     the maximum rate of the charge; and
 
                (c)     the person who is liable to pay the charge; and
 
-              (d)     any exemptions from the charge.
+               (d)     any exemptions from the charge.
 
 <li class="BoxList" style="margin-left:21.25pt">•     Schedule 14
 
@@ -314,7 +314,7 @@ charge, regulations under Schedule 14 are to set out:</li>
 
                (a)     the operative rate of the charge; and
 
-              (b)     the person who is liable to pay the charge; and
+               (b)     the person who is liable to pay the charge; and
 
                (c)     any exemptions from the charge.
 
@@ -332,7 +332,7 @@ that Schedule.</li>
 
 ##### <a id="5"></a>5  Act to bind Crown
 
-                   This Act binds the Crown in right of each of the States, of the Australian Capital Territory, of the Northern Territory and of Norfolk Island.
+                   This Act binds the Crown in right of each of the States, of the Australian Capital Territory, of the Northern   Territory and of Norfolk Island.
 
 ##### <a id="6"></a>6  Duties of customs
 
@@ -344,7 +344,7 @@ that Schedule.</li>
 
 ##### <a id="8"></a>8  Regulations
 
-                   The Governor‑General may make regulations prescribing matters:
+                   The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -398,9 +398,9 @@ Note 2:       Paragraph (b) identifies amounts that, under the _Na
 
                     <a name="licens-dairi-premis"></a>**_licensed dairy premises_** means premises that, under the law of the State or Territory in which the premises are situated, are authorised for use as a dairy farm.
 
-                    <a name="live-stock-export-market-bodi"></a>**_live‑stock export marketing body_** has the same meaning as in Part 3 of the _Australian Meat and Live‑stock Industry Act 1997_.
+                    <a name="live-stock-export-market-bodi"></a>**_live-stock export marketing body_** has the same meaning as in Part 3 of the _Australian Meat and Live-stock Industry Act 1997_.
 
-                    <a name="live-stock-export-research-bodi"></a>**_live‑stock export research body_** has the same meaning as in Part 3 of the _Australian Meat and Live‑stock Industry Act 1997_.
+                    <a name="live-stock-export-research-bodi"></a>**_live-stock export research body_** has the same meaning as in Part 3 of the _Australian Meat and Live-stock Industry Act 1997_.
 
 ##### <a id="2"></a>2  Imposition of charge
 
@@ -418,9 +418,9 @@ Note 2:       Paragraph (b) identifies amounts that, under the _Na
 
                      (b)  the prescribed amount (not exceeding 0.5 cent).
 
-Note 1:       Paragraph (1)(a) identifies amounts that, under the _Australian Meat and Live‑stock Industry Act 1997_, are destined for the live‑stock export marketing body _._
+Note 1:       Paragraph (1)(a) identifies amounts that, under the _Australian Meat and Live-stock Industry Act 1997_, are destined for the live-stock export marketing body _._
 
-Note 2:       Paragraph (1)(b) identifies amounts that, under the _Australian Meat and Live‑stock Industry Act 1997_, are destined for the live‑stock export research body _._
+Note 2:       Paragraph (1)(b) identifies amounts that, under the _Australian Meat and Live-stock Industry Act 1997_, are destined for the live-stock export research body _._
 
              (2)  For the purposes of calculating charge imposed by this Schedule, the weight of cattle exported is their liveweight described in the bill of lading, or similar document of title, facilitating the export of such cattle.
 
@@ -434,7 +434,7 @@ Note 2:       Paragraph (1)(b) identifies amounts that, under the 
 
              (1)  The Minister may, by notice in the _Gazette_, declare that the body specified in the declaration is the body whose recommendations about the amount to be prescribed for the purposes of paragraph 3(1)(a) or 3(1)(b) of this Schedule are to be taken into consideration under subclause (2).
 
-             (2)  If a declaration is in force under subclause (1), then, before the Governor‑General makes regulations prescribing an amount for the purposes of the paragraph to which the declaration relates, the Minister must take into consideration any relevant recommendation made to the Minister by the body specified in the declaration in relation to that paragraph.
+             (2)  If a declaration is in force under subclause (1), then, before the Governor-General makes regulations prescribing an amount for the purposes of the paragraph to which the declaration relates, the Minister must take into consideration any relevant recommendation made to the Minister by the body specified in the declaration in relation to that paragraph.
 
 ##### <a id="6"></a>6  Transitional—regulations
 
@@ -474,9 +474,9 @@ Note 2:       Paragraph (1)(b) identifies amounts that, under the 
 
                     <a name="dairi-cattl"></a>**_dairy cattle_** means bovine animals that are, or, if they were not exported from Australia, would be likely to be, held on licensed dairy premises for a purpose related to commercial milk production, including but without limiting the generality of the above, bulls, calves and replacement heifers.
 
-                    <a name="industri-market-bodi"></a>**_industry marketing body_** has the same meaning as in Part 3 of the _Australian Meat and Live‑stock Industry Act 1997_.
+                    <a name="industri-market-bodi"></a>**_industry marketing body_** has the same meaning as in Part 3 of the _Australian Meat and Live-stock Industry Act 1997_.
 
-                    <a name="industri-research-bodi"></a>**_industry research body_** has the same meaning as in Part 3 of the _Australian Meat and Live‑stock Industry Act 1997_.
+                    <a name="industri-research-bodi"></a>**_industry research body_** has the same meaning as in Part 3 of the _Australian Meat and Live-stock Industry Act 1997_.
 
                     <a name="licens-dairi-premis"></a>**_licensed dairy premises_** means premises that, under the law of the State or Territory in which the premises are situated, are authorised for use as a dairy farm.
 
@@ -510,13 +510,13 @@ Note 2:       Paragraph (1)(b) identifies amounts that, under the 
 
                      (d)  13 cents or, if another amount (not exceeding 50 cents) is prescribed by the regulations, the other amount.
 
-Note 1:       Paragraph (1)(a) identifies amounts that, under the _Australian Meat and Live‑stock Industry Act 1997_, are destined for the industry marketing body _._
+Note 1:       Paragraph (1)(a) identifies amounts that, under the _Australian Meat and Live-stock Industry Act 1997_, are destined for the industry marketing body _._
 
-Note 2:       Paragraph (1)(b) identifies amounts that, under the _Australian Meat and Live‑stock Industry Act 1997_, are destined for the industry research body _._
+Note 2:       Paragraph (1)(b) identifies amounts that, under the _Australian Meat and Live-stock Industry Act 1997_, are destined for the industry research body _._
 
 Note 3:       Paragraph (1)(c) identifies amounts that, under the _National Cattle Disease Eradication Account Act 1991_, are destined for the National Cattle Disease Eradication Account _._
 
-Note 4:       Paragraph (1)(d) identifies amounts that, under the _Australian Animal Health Council (Live‑stock Industries) Funding Act 1996_, are destined for the Australian Animal Health Council _._
+Note 4:       Paragraph (1)(d) identifies amounts that, under the _Australian Animal Health Council (Live-stock Industries) Funding Act 1996_, are destined for the Australian Animal Health Council _._
 
              (2)  The rate of each of the charges imposed by this Schedule on the export of each head of cattle that is a chargeable bobby calf is the sum of the following amounts:
 
@@ -528,13 +528,13 @@ Note 4:       Paragraph (1)(d) identifies amounts that, under the 
 
                      (d)  the prescribed amount (not exceeding 50 cents), if any.
 
-Note 1:       Paragraph (2)(a) identifies amounts that, under the _Australian Meat and Live‑stock Industry Act 1997_, are destined for the industry marketing body _._
+Note 1:       Paragraph (2)(a) identifies amounts that, under the _Australian Meat and Live-stock Industry Act 1997_, are destined for the industry marketing body _._
 
-Note 2:       Paragraph (2)(b) identifies amounts that, under the _Australian Meat and Live‑stock Industry Act 1997_, are destined for the industry research body _._
+Note 2:       Paragraph (2)(b) identifies amounts that, under the _Australian Meat and Live-stock Industry Act 1997_, are destined for the industry research body _._
 
 Note 3:       Paragraph (2)(c) identifies amounts that, under the _National Cattle Disease Eradication Account Act 1991_, are destined for the National Cattle Disease Eradication Account _._
 
-Note 4:       Paragraph (2)(d) identifies amounts that, under the _Australian Animal Health Council (Live‑stock Industries) Funding Act 1996_, are destined for the Australian Animal Health Council _._
+Note 4:       Paragraph (2)(d) identifies amounts that, under the _Australian Animal Health Council (Live-stock Industries) Funding Act 1996_, are destined for the Australian Animal Health Council _._
 
              (3)  For the purposes of subclause (1), a cow with a calf at foot are together taken to constitute a single head of cattle.
 
@@ -546,7 +546,7 @@ Note 4:       Paragraph (2)(d) identifies amounts that, under the 
 
              (1)  The Minister may, by notice in the _Gazette_, declare that the body specified in the declaration is the body whose recommendations about the amount to be prescribed for the purposes of paragraph 3(1)(a), 3(1)(b), 3(1)(d), 3(2)(a), 3(2)(b) or 3(2)(d) of this Schedule are to be taken into consideration under subclause (2).
 
-             (2)  If a declaration is in force under subclause (1), then, before the Governor‑General makes regulations prescribing an amount for the purposes of the paragraph to which the declaration relates, the Minister must take into consideration any relevant recommendation made to the Minister by the body specified in the declaration in relation to that paragraph.
+             (2)  If a declaration is in force under subclause (1), then, before the Governor-General makes regulations prescribing an amount for the purposes of the paragraph to which the declaration relates, the Minister must take into consideration any relevant recommendation made to the Minister by the body specified in the declaration in relation to that paragraph.
 
 ##### <a id="6"></a>6  Transitional—regulations
 
@@ -598,7 +598,7 @@ Note:          Clause 6 provides that charge imposed by this
 
              (4)  For the purposes of this Schedule, the question whether a body corporate is related to another body corporate is to be determined in the same way as the question whether bodies corporate are related to each other is determined for the purposes of the _Corporations Act 2001_.
 
-##### <a id="2"></a>2  Imposition of charge—re‑importation of exported dairy produce
+##### <a id="2"></a>2  Imposition of charge—re-importation of exported dairy produce
 
                    If:
 
@@ -628,7 +628,7 @@ charge is imposed on the dairy produce.
 
 ##### <a id="4"></a>4  Rate of charges
 
-Re‑importation of exported dairy produce
+Re-importation of exported dairy produce
 
              (1)  The amount of the charge imposed on dairy produce by clause 2 is an amount equal to the total of:
 
@@ -716,7 +716,7 @@ charge is not imposed by clause 3 on the importation of dairy produce by the p
 
 ##### <a id="5"></a>5  Regulations
 
-                   Before the Governor‑General makes a regulation specifying an amount for the purposes of paragraph 3(1)(a) of this Schedule, the Minister must take into consideration any relevant recommendation made to the Minister by a representative industry organisation.
+                   Before the Governor-General makes a regulation specifying an amount for the purposes of paragraph 3(1)(a) of this Schedule, the Minister must take into consideration any relevant recommendation made to the Minister by a representative industry organisation.
 
 ##### <a id="6"></a>6  Transitional—regulations
 
@@ -808,7 +808,7 @@ Delegation
 
 ##### <a id="5"></a>5  Regulations
 
-                   Before the Governor‑General makes a regulation specifying a percentage for the purposes of paragraph 3(1)(a) of this Schedule, the Minister must take into consideration any relevant recommendation made to the Minister by a representative industry organisation.
+                   Before the Governor-General makes a regulation specifying a percentage for the purposes of paragraph 3(1)(a) of this Schedule, the Minister must take into consideration any relevant recommendation made to the Minister by a representative industry organisation.
 
 ##### <a id="6"></a>6  Transitional—regulations
 
@@ -878,7 +878,7 @@ Delegation
 
 ##### <a id="5"></a>5  Regulations
 
-                   Before the Governor‑General makes regulations for the purposes of this Schedule, the Minister must take into consideration any relevant recommendation made to the Minister by an industry body.
+                   Before the Governor-General makes regulations for the purposes of this Schedule, the Minister must take into consideration any relevant recommendation made to the Minister by an industry body.
 
 ##### <a id="6"></a>6  Transitional—regulations
 
@@ -948,7 +948,7 @@ Delegation
 
 ##### <a id="5"></a>5  Regulations
 
-                   Before the Governor‑General makes regulations for the purposes of this Schedule, the Minister must take into consideration any relevant recommendation made to the Minister by an industry body.
+                   Before the Governor-General makes regulations for the purposes of this Schedule, the Minister must take into consideration any relevant recommendation made to the Minister by an industry body.
 
 ##### <a id="6"></a>6  Transitional—regulations
 
@@ -1018,11 +1018,11 @@ Delegation
 
 ##### <a id="5"></a>5  Regulations
 
-             (1)  Before the Governor‑General makes regulations for the purposes of subclause 2(2), the Minister must take into consideration any relevant recommendation made to the Minister by the producers’ organisation.
+             (1)  Before the Governor-General makes regulations for the purposes of subclause 2(2), the Minister must take into consideration any relevant recommendation made to the Minister by the producers’ organisation.
 
              (2)  The producers’ organisation must not make a recommendation to the Minister under subclause (1) unless it has consulted the industry services body in relation to the recommendation.
 
-             (3)  Before the Governor‑General makes regulations for the purposes of clause 3, the Minister must take into consideration any relevant recommendation made to the Minister by the R&amp;D authority or by the producers’ organisation.
+             (3)  Before the Governor-General makes regulations for the purposes of clause 3, the Minister must take into consideration any relevant recommendation made to the Minister by the R&amp;D authority or by the producers’ organisation.
 
 ##### <a id="6"></a>6  Transitional—regulations
 
@@ -1128,11 +1128,11 @@ Flexibility in relation to rates of charge
 
                      (b)  the state, form or condition of the products, whether by reference to a process or otherwise.
 
-             (2)  Before the Governor‑General makes regulations for the purposes of subclause 2(3), the Minister must take into consideration any relevant recommendation made to the Minister by the industry services body.
+             (2)  Before the Governor-General makes regulations for the purposes of subclause 2(3), the Minister must take into consideration any relevant recommendation made to the Minister by the industry services body.
 
-             (3)  Before the Governor‑General makes regulations for the purposes of subclause 3(3), the Minister must take into consideration any relevant recommendation made to the Minister by the industry services body.
+             (3)  Before the Governor-General makes regulations for the purposes of subclause 3(3), the Minister must take into consideration any relevant recommendation made to the Minister by the industry services body.
 
-             (5)  Before the Governor‑General makes regulations for the purposes of subclause 3(5), the Minister must take into consideration any relevant recommendation made to the Minister by the industry services body.
+             (5)  Before the Governor-General makes regulations for the purposes of subclause 3(5), the Minister must take into consideration any relevant recommendation made to the Minister by the industry services body.
 
              (6)  Before making a recommendation to the Minister for the purposes of subclause (2) or (3), the industry services body must consult with the body that, under the regulations, is the eligible industry body for:
 
@@ -1160,7 +1160,7 @@ as the case requires.
 
 may make recommendations to the Minister in relation to regulations to be made for the purposes of subclause 3(6) in relation to those products or products included in that class or subclass, as the case may be.
 
-           (10)  Before the Governor‑General makes regulations for the purposes of subclause 3(6), the Minister must take into consideration any relevant recommendation made to the Minister under subclause (9).
+           (10)  Before the Governor-General makes regulations for the purposes of subclause 3(6), the Minister must take into consideration any relevant recommendation made to the Minister under subclause (9).
 
 ##### <a id="6"></a>6  Transitional—regulations
 
@@ -1172,7 +1172,7 @@ may make recommendations to the Minister in relation to regulations to be made f
 
              (2)  The regulations have effect, after the commencement of this clause, as if they had been made for the purposes of the corresponding provision of this Schedule.
 
-# Schedule 11—Live‑stock (exporters)
+# Schedule 11—Live-stock (exporters)
 
 ##### <a id="1"></a>1  Definitions
 
@@ -1180,29 +1180,29 @@ may make recommendations to the Minister in relation to regulations to be made f
 
                     <a name="lamb"></a>**_lamb_** means a sheep that has not cut a permanent incisor tooth.
 
-                    <a name="live-stock"></a>**_live‑stock_** means sheep, lambs and goats.
+                    <a name="live-stock"></a>**_live-stock_** means sheep, lambs and goats.
 
-                    <a name="live-stock-export-market-bodi"></a>**_live‑stock export marketing body_** has the same meaning as in Part 3 of the _Australian Meat and Live‑stock Industry Act 1997_.
+                    <a name="live-stock-export-market-bodi"></a>**_live-stock export marketing body_** has the same meaning as in Part 3 of the _Australian Meat and Live-stock Industry Act 1997_.
 
-                    <a name="live-stock-export-research-bodi"></a>**_live‑stock export research body_** has the same meaning as in Part 3 of the _Australian Meat and Live‑stock Industry Act 1997_.
+                    <a name="live-stock-export-research-bodi"></a>**_live-stock export research body_** has the same meaning as in Part 3 of the _Australian Meat and Live-stock Industry Act 1997_.
 
                     <a name="sheep"></a>**_sheep_** does not include lambs.
 
 ##### <a id="2"></a>2  Imposition of charge
 
-             (1)  Charge is imposed on the export of live‑stock from Australia after the commencement of this Schedule.
+             (1)  Charge is imposed on the export of live-stock from Australia after the commencement of this Schedule.
 
-             (2)  Charge is not imposed by this Schedule on the export of live‑stock that is included in a class of live‑stock that is, by notice in the _Gazette_, declared:
+             (2)  Charge is not imposed by this Schedule on the export of live-stock that is included in a class of live-stock that is, by notice in the _Gazette_, declared:
 
                      (a)  by the Minister; or
 
                      (b)  by a person authorised by the Minister, in writing, for the purposes of this clause;
 
-to be a class of live‑stock that is exempt from charge.
+to be a class of live-stock that is exempt from charge.
 
-             (3)  The regulations may provide that no amount of charge is payable by exporters of live‑stock under this Schedule.
+             (3)  The regulations may provide that no amount of charge is payable by exporters of live-stock under this Schedule.
 
-             (4)  Despite anything else in this Schedule, if a regulation of the kind referred to in subclause (3) is made, an amount of charge is not payable under this Schedule on the export of live‑stock from Australia in respect of any period while the regulation is in force.
+             (4)  Despite anything else in this Schedule, if a regulation of the kind referred to in subclause (3) is made, an amount of charge is not payable under this Schedule on the export of live-stock from Australia in respect of any period while the regulation is in force.
 
 ##### <a id="3"></a>3  Rate of charge—sheep
 
@@ -1212,9 +1212,9 @@ to be a class of live‑stock that is exempt from charge.
 
                      (b)  the prescribed amount (not exceeding 25 cents).
 
-Note 1:       Paragraph (a) identifies amounts that, under the _Australian Meat and Live‑stock Industry Act 1997_, are destined for the live‑stock export marketing body _._
+Note 1:       Paragraph (a) identifies amounts that, under the _Australian Meat and Live-stock Industry Act 1997_, are destined for the live-stock export marketing body _._
 
-Note 2:       Paragraph (b) identifies amounts that, under the _Australian Meat and Live‑stock Industry Act 1997_, are destined for the live‑stock export research body _._
+Note 2:       Paragraph (b) identifies amounts that, under the _Australian Meat and Live-stock Industry Act 1997_, are destined for the live-stock export research body _._
 
 ##### <a id="4"></a>4  Rate of charge—lambs
 
@@ -1224,9 +1224,9 @@ Note 2:       Paragraph (b) identifies amounts that, under the _Au
 
                      (b)  the prescribed amount (not exceeding 25 cents).
 
-Note 1:       Paragraph (a) identifies amounts that, under the _Australian Meat and Live‑stock Industry Act 1997_, are destined for the live‑stock export marketing body _._
+Note 1:       Paragraph (a) identifies amounts that, under the _Australian Meat and Live-stock Industry Act 1997_, are destined for the live-stock export marketing body _._
 
-Note 2:       Paragraph (b) identifies amounts that, under the _Australian Meat and Live‑stock Industry Act 1997_, are destined for the live‑stock export research body _._
+Note 2:       Paragraph (b) identifies amounts that, under the _Australian Meat and Live-stock Industry Act 1997_, are destined for the live-stock export research body _._
 
 ##### <a id="5"></a>5  Rate of charge—goats
 
@@ -1236,25 +1236,25 @@ Note 2:       Paragraph (b) identifies amounts that, under the _Au
 
                      (b)  the prescribed amount (not exceeding 25 cents).
 
-Note 1:       Paragraph (a) identifies amounts that, under the _Australian Meat and Live‑stock Industry Act 1997_, are destined for the live‑stock export marketing body _._
+Note 1:       Paragraph (a) identifies amounts that, under the _Australian Meat and Live-stock Industry Act 1997_, are destined for the live-stock export marketing body _._
 
-Note 2:       Paragraph (b) identifies amounts that, under the _Australian Meat and Live‑stock Industry Act 1997_, are destined for the live‑stock export research body _._
+Note 2:       Paragraph (b) identifies amounts that, under the _Australian Meat and Live-stock Industry Act 1997_, are destined for the live-stock export research body _._
 
 ##### <a id="6"></a>6  Who pays the charge
 
-                   Charge imposed by this Schedule on the export of live‑stock from Australia is payable by the exporter of the live‑stock.
+                   Charge imposed by this Schedule on the export of live-stock from Australia is payable by the exporter of the live-stock.
 
 ##### <a id="7"></a>7  Regulations
 
              (1)  The Minister may, by notice in the _Gazette_, declare a body to be the body whose recommendations about the amount to be prescribed for the purposes of paragraph 3(a), 3(b), 4(a), 4(b), 5(a) or 5(b) of this Schedule are to be taken into consideration under subclause (2).
 
-             (2)  If a declaration is in force under subclause (1), then, before the Governor‑General makes regulations prescribing an amount for the purposes of the paragraph to which the declaration relates, the Minister must take into consideration any relevant recommendation made to the Minister by the body specified in the declaration in relation to that paragraph.
+             (2)  If a declaration is in force under subclause (1), then, before the Governor-General makes regulations prescribing an amount for the purposes of the paragraph to which the declaration relates, the Minister must take into consideration any relevant recommendation made to the Minister by the body specified in the declaration in relation to that paragraph.
 
 ##### <a id="8"></a>8  Transitional—regulations
 
              (1)  This clause applies to regulations if:
 
-                     (a)  the regulations were made for the purposes of a particular provision of the _Live‑stock (Exporters) Export Charge Act 1997_; and
+                     (a)  the regulations were made for the purposes of a particular provision of the _Live-stock (Exporters) Export Charge Act 1997_; and
 
                      (b)  the regulations were in force immediately before the commencement of this clause.
 
@@ -1264,7 +1264,7 @@ Note 2:       Paragraph (b) identifies amounts that, under the _Au
 
              (1)  This clause applies to a declaration if:
 
-                     (a)  the declaration was made for the purposes of a particular provision of the _Live‑stock (Exporters) Export Charge Act 1997_; and
+                     (a)  the declaration was made for the purposes of a particular provision of the _Live-stock (Exporters) Export Charge Act 1997_; and
 
                      (b)  the declaration was in force immediately before the commencement of this clause.
 
@@ -1274,45 +1274,45 @@ Note 2:       Paragraph (b) identifies amounts that, under the _Au
 
              (1)  This clause applies to an authorisation if:
 
-                     (a)  the authorisation was made for the purposes of a particular provision of the _Live‑stock (Exporters) Export Charge Act 1997_; and
+                     (a)  the authorisation was made for the purposes of a particular provision of the _Live-stock (Exporters) Export Charge Act 1997_; and
 
                      (b)  the authorisation was in force immediately before the commencement of this clause.
 
              (2)  The authorisation has effect, after the commencement of this clause, as if it had been made for the purposes of the corresponding provision of this Schedule.
 
-# Schedule 12—Live‑stock (producers)
+# Schedule 12—Live-stock (producers)
 
 ##### <a id="1"></a>1  Definitions
 
                    In this Schedule:
 
-                    <a name="industri-market-bodi"></a>**_industry marketing body_** has the same meaning as in Part 3 of the _Australian Meat and Live‑stock Industry Act 1997_.
+                    <a name="industri-market-bodi"></a>**_industry marketing body_** has the same meaning as in Part 3 of the _Australian Meat and Live-stock Industry Act 1997_.
 
-                    <a name="industri-research-bodi"></a>**_industry research body_** has the same meaning as in Part 3 of the _Australian Meat and Live‑stock Industry Act 1997_.
+                    <a name="industri-research-bodi"></a>**_industry research body_** has the same meaning as in Part 3 of the _Australian Meat and Live-stock Industry Act 1997_.
 
                     <a name="lamb"></a>**_lamb_** means a sheep that has not cut a permanent incisor tooth.
 
-                    <a name="live-stock"></a>**_live‑stock_** means sheep, lambs and goats.
+                    <a name="live-stock"></a>**_live-stock_** means sheep, lambs and goats.
 
                     <a name="sheep"></a>**_sheep_** does not include lambs.
 
 ##### <a id="2"></a>2  Imposition of charge
 
-             (1)  Charge is imposed on the export of live‑stock from Australia after the commencement of this Schedule.
+             (1)  Charge is imposed on the export of live-stock from Australia after the commencement of this Schedule.
 
-             (2)  Charge is not imposed by subclause (1) on the export of live‑stock if levy under Schedule 18 to the _Primary Industries (Excise) Levies Act 1999_, or under the repealed _Live‑stock Transactions Levy Act 1997_, has been paid, or is payable, in respect of an act or transaction relating to the live‑stock.
+             (2)  Charge is not imposed by subclause (1) on the export of live-stock if levy under Schedule 18 to the _Primary Industries (Excise) Levies Act 1999_, or under the repealed _Live-stock Transactions Levy Act 1997_, has been paid, or is payable, in respect of an act or transaction relating to the live-stock.
 
-             (3)  Charge is imposed on the export of live‑stock from Australia after the commencement of this Schedule if:
+             (3)  Charge is imposed on the export of live-stock from Australia after the commencement of this Schedule if:
 
-                     (a)  the live‑stock were purchased by the exporter, whether before or after the commencement of this Schedule; and
+                     (a)  the live-stock were purchased by the exporter, whether before or after the commencement of this Schedule; and
 
                      (b)  the period starting on the date of the purchase and ending on the date of the export is longer than the longest of the following periods:
 
                               (i)  30 days;
 
-                             (ii)  the period for which the live‑stock are required under the _Quarantine Act 1908_ to be held in quarantine before being exported;
+                             (ii)  the period for which the live-stock are required under the _Quarantine Act 1908_ to be held in quarantine before being exported;
 
-                            (iii)  the period for which the live‑stock are required under the law of the country to which they are being exported to be held in quarantine before being exported.
+                            (iii)  the period for which the live-stock are required under the law of the country to which they are being exported to be held in quarantine before being exported.
 
 ##### <a id="3"></a>3  Rate of charges—sheep
 
@@ -1324,11 +1324,11 @@ Note 2:       Paragraph (b) identifies amounts that, under the _Au
 
                      (c)  the prescribed amount (not exceeding 15 cents).
 
-Note 1:       Paragraph (a) identifies amounts that, under the _Australian Meat and Live‑stock Industry Act 1997_, are destined for the industry marketing body _._
+Note 1:       Paragraph (a) identifies amounts that, under the _Australian Meat and Live-stock Industry Act 1997_, are destined for the industry marketing body _._
 
-Note 2:       Paragraph (b) identifies amounts that, under the _Australian Meat and Live‑stock Industry Act 1997_, are destined for the industry research body _._
+Note 2:       Paragraph (b) identifies amounts that, under the _Australian Meat and Live-stock Industry Act 1997_, are destined for the industry research body _._
 
-Note 3:       Paragraph (c) identifies amounts that, under the _Australian Animal Health Council (Live‑stock Industries) Funding Act 1996_, are destined for the Australian Animal Health Council _._
+Note 3:       Paragraph (c) identifies amounts that, under the _Australian Animal Health Council (Live-stock Industries) Funding Act 1996_, are destined for the Australian Animal Health Council _._
 
 ##### <a id="4"></a>4  Rate of charges—lambs
 
@@ -1340,11 +1340,11 @@ Note 3:       Paragraph (c) identifies amounts that, under the _Au
 
                      (c)  the prescribed amount (not exceeding 15 cents).
 
-Note 1:       Paragraph (a) identifies amounts that, under the _Australian Meat and Live‑stock Industry Act 1997_, are destined for the industry marketing body _._
+Note 1:       Paragraph (a) identifies amounts that, under the _Australian Meat and Live-stock Industry Act 1997_, are destined for the industry marketing body _._
 
-Note 2:       Paragraph (b) identifies amounts that, under the _Australian Meat and Live‑stock Industry Act 1997_, are destined for the industry research body _._
+Note 2:       Paragraph (b) identifies amounts that, under the _Australian Meat and Live-stock Industry Act 1997_, are destined for the industry research body _._
 
-Note 3:       Paragraph (c) identifies amounts that, under the _Australian Animal Health Council (Live‑stock Industries) Funding Act 1996_, are destined for the Australian Animal Health Council _._
+Note 3:       Paragraph (c) identifies amounts that, under the _Australian Animal Health Council (Live-stock Industries) Funding Act 1996_, are destined for the Australian Animal Health Council _._
 
 ##### <a id="5"></a>5  Rate of charges—goats
 
@@ -1356,27 +1356,27 @@ Note 3:       Paragraph (c) identifies amounts that, under the _Au
 
                      (c)  the prescribed amount (not exceeding 15 cents).
 
-Note 1:       Paragraph (a) identifies amounts that, under the _Australian Meat and Live‑stock Industry Act 1997_, are destined for the industry marketing body _._
+Note 1:       Paragraph (a) identifies amounts that, under the _Australian Meat and Live-stock Industry Act 1997_, are destined for the industry marketing body _._
 
-Note 2:       Paragraph (b) identifies amounts that, under the _Australian Meat and Live‑stock Industry Act 1997_, are destined for the industry research body _._
+Note 2:       Paragraph (b) identifies amounts that, under the _Australian Meat and Live-stock Industry Act 1997_, are destined for the industry research body _._
 
-Note 3:       Paragraph (c) identifies amounts that, under the _Australian Animal Health Council (Live‑stock Industries) Funding Act 1996_, are destined for the Australian Animal Health Council _._
+Note 3:       Paragraph (c) identifies amounts that, under the _Australian Animal Health Council (Live-stock Industries) Funding Act 1996_, are destined for the Australian Animal Health Council _._
 
 ##### <a id="6"></a>6  Who pays the charge
 
-                   Charge imposed by this Schedule on the export of live‑stock from Australia is payable by the producer of the live‑stock.
+                   Charge imposed by this Schedule on the export of live-stock from Australia is payable by the producer of the live-stock.
 
 ##### <a id="7"></a>7  Regulations
 
              (1)  The Minister may, by notice in the _Gazette_, declare a body to be the body whose recommendations about the amount to be prescribed for the purposes of paragraph 3(a), 3(b), 3(c), 4(a), 4(b), 4(c), 5(a), 5(b) or 5(c) of this Schedule are to be taken into consideration under subclause (2).
 
-             (2)  If a declaration is in force under subclause (1), then, before the Governor‑General makes regulations prescribing an amount for the purposes of the paragraph to which the declaration relates, the Minister must take into consideration any relevant recommendation made to the Minister by the body specified in the declaration in relation to that paragraph.
+             (2)  If a declaration is in force under subclause (1), then, before the Governor-General makes regulations prescribing an amount for the purposes of the paragraph to which the declaration relates, the Minister must take into consideration any relevant recommendation made to the Minister by the body specified in the declaration in relation to that paragraph.
 
 ##### <a id="8"></a>8  Transitional—regulations
 
              (1)  This clause applies to regulations if:
 
-                     (a)  the regulations were made for the purposes of a particular provision of the _Live‑stock (Producers) Export Charges Act 1997_; and
+                     (a)  the regulations were made for the purposes of a particular provision of the _Live-stock (Producers) Export Charges Act 1997_; and
 
                      (b)  the regulations were in force immediately before the commencement of this clause.
 
@@ -1386,7 +1386,7 @@ Note 3:       Paragraph (c) identifies amounts that, under the _Au
 
              (1)  This clause applies to a declaration if:
 
-                     (a)  the declaration was made for the purposes of a particular provision of the _Live‑stock (Producers) Export Charges Act 1997_; and
+                     (a)  the declaration was made for the purposes of a particular provision of the _Live-stock (Producers) Export Charges Act 1997_; and
 
                      (b)  the declaration was in force immediately before the commencement of this clause.
 
@@ -1398,13 +1398,13 @@ Note 3:       Paragraph (c) identifies amounts that, under the _Au
 
                    In this Schedule:
 
-                    <a name="corpor"></a>**_Corporation_** means the Wine Australia Corporation established by the _Wine Australia Corporation Act 1980_.
+                    <a name="corpor"></a>**_Corporation_** means the Australian Wine and Brandy Corporation established by the _Australian Wine and Brandy Corporation Act 1980_.
 
                     <a name="wine"></a>**_wine_** means an alcoholic beverage produced by the complete or partial fermentation of fresh grapes or products derived solely from fresh grapes, or both.
 
 ##### <a id="2"></a>2  Imposition of charge
 
-             (1)  Charge is imposed on wine produced in Australia (whether before or after the commencement of this clause) that is exported from Australia after the commencement of this Schedule.
+             (1)  Charge is imposed on wine produced in Australia (whether before or after the commencement of this clause) that is exported from   Australia after the commencement of this Schedule.
 
              (2)  The regulations may exempt from charge imposed by this Schedule:
 
@@ -1426,13 +1426,13 @@ Note 3:       Paragraph (c) identifies amounts that, under the _Au
 
              (1)  The Corporation may make recommendations to the Minister in relation to regulations to be made for the purposes of clause 3.
 
-             (2)  The Corporation must not make a recommendation under subclause (1) unless a motion to endorse the recommendation has been considered at an annual general meeting within the meaning of the _Wine Australia Corporation Act 1980_.
+             (2)  The Corporation must not make a recommendation under subclause (1) unless a motion to endorse the recommendation has been considered at an annual general meeting within the meaning of the _Australian Wine and Brandy Corporation Act 1980_.
 
-             (3)  Before the Governor‑General makes regulations for the purposes of clause 3, the Minister must take into consideration:
+             (3)  Before the Governor-General makes regulations for the purposes of clause 3, the Minister must take into consideration:
 
                      (a)  any relevant recommendation made under subclause (1); and
 
-                     (b)  any relevant matter notified to the Minister under section 29ZA of the _Wine Australia Corporation Act 1980_.
+                     (b)  any relevant matter notified to the Minister under section 29ZA of the _Australian Wine and Brandy Corporation Act 1980_.
 
 ##### <a id="6"></a>6  Transitional—regulations
 
@@ -1590,9 +1590,9 @@ Note:          Products may be specified by name, by inclusion
 
              (1)  This clause applies to regulations made for the purposes of this Schedule.
 
-             (2)  If there is a single body that is a designated body in relation to a particular product, then, before the Governor‑General makes a regulation in relation to the product, the Minister must take into consideration any relevant recommendation made to the Minister by the body.
+             (2)  If there is a single body that is a designated body in relation to a particular product, then, before the Governor-General makes a regulation in relation to the product, the Minister must take into consideration any relevant recommendation made to the Minister by the body.
 
-             (3)  If there are 2 or more bodies that are designated bodies in relation to a particular product, then, before the Governor‑General makes a regulation in relation to the product (other than a regulation that has the effect of reducing the rate of a charge), the Minister must take into consideration any relevant recommendations made to the Minister by those bodies, so long as:
+             (3)  If there are 2 or more bodies that are designated bodies in relation to a particular product, then, before the Governor-General makes a regulation in relation to the product (other than a regulation that has the effect of reducing the rate of a charge), the Minister must take into consideration any relevant recommendations made to the Minister by those bodies, so long as:
 
                      (a)  each body that is a designated body in relation to the product has made a relevant recommendation to the Minister; and
 
@@ -1741,23 +1741,6 @@ of Assent</div>
     <div>Schedule 1: 29 June 2007 
 Schedule 2: 3 Sept 2007 ( <i>see</i>F2007L02639) 
 Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Framework Legislation Amendment Act 2010</div>
-  </td>
-  <td>
-    <div>148, 2010</div>
-  </td>
-  <td>
-    <div>17 Dec 2010</div>
-  </td>
-  <td>
-    <div>Schedule 4 (items 13, 14): 18 Dec 2010</div>
   </td>
   <td>
     <div>—</div>
@@ -2085,30 +2068,6 @@ _(b)_ The _Primary Industries (Customs) Charges Act 1999_ was amended by Schedul
   </td>
   <td>
     <div>am. No. 139, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 13</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C. 1</div>
-  </td>
-  <td>
-    <div>am. No. 148, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C. 5</div>
-  </td>
-  <td>
-    <div>am. No. 148, 2010</div>
   </td>
 </tr>
 <tr>
