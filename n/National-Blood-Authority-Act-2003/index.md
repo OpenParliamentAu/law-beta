@@ -1,72 +1,74 @@
-![](http://www.comlaw.gov.au/Details/C2007C00219/Html/NatBloodAuth_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00188/Html/D36794A4F5DA17E3CA257156001F037D/$FILE/image001.gif)
 
 # National Blood Authority Act 2003
 
 **Act No. 29 of 2003 as amended**
 
-This compilation was prepared on 5 April 2007
- taking into account amendments up to Act No. 32 of 2007
+This compilation was prepared on 12 April 2006
+taking into account amendments up to Act No. 30 of 2006
 
 The text of any of those amendments not in force 
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, 
+Canberra
+
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary**
 
-[1](#1).            Short title \[see Note 1]
+[1](#1).            Short title \[see Note 1]                                                                        1
 
-[2](#2).            Commencement \[see Note 1]
+[2](#2).            Commencement \[see Note 1]                                                               1
 
-[3](#3).            Definitions
+[3](#3).            Definitions                                                                                           2
 
-[4](#4).            Main purpose of this Act
+[4](#4).            Main purpose of this Act                                                                    3
 
-[5](#5).            This Act binds the Crown
+[5](#5).            This Act binds the Crown                                                                   3
 
-[6](#6).            Application to the external Territories
+[6](#6).            Application to the external Territories                                                3
 
 **Part 2—The National Blood Authority**
 
-[7](#7).            Establishment
+[7](#7).            Establishment                                                                                      4
 
-[8](#8).            Functions
+[8](#8).            Functions                                                                                             4
 
-[9](#9).            Policy principles about the NBA’s functions
+[9](#9).            Policy principles about the NBA’s functions                                     5
 
-[10](#10).          General Manager’s power to obtain information and documents
+[10](#10).          General Manager’s power to obtain information and documents       5
 
-[11](#11).          Protecting confidentiality of information
+[11](#11).          Protecting confidentiality of information                                            7
 
 **Part 3—The NBA Board**
 
-[12](#12).          Establishment
+[12](#12).          Establishment                                                                                      8
 
-[13](#13).          Functions
+[13](#13).          Functions                                                                                             8
 
-[14](#14).          Membership
+[14](#14).          Membership                                                                                        8
 
-[15](#15).          Appointing members
+[15](#15).          Appointing members                                                                           8
 
-[16](#16).          Term of appointment
+[16](#16).          Term of appointment                                                                          9
 
-[17](#17).          Acting appointments
+[17](#17).          Acting appointments                                                                           9
 
-[18](#18).          Members’ remuneration
+[18](#18).          Members’ remuneration                                                                    10
 
-[19](#19).          Leave of absence
+[19](#19).          Leave of absence                                                                                11
 
-[20](#20).          Resignation
+[20](#20).          Resignation                                                                                        11
 
-[21](#21).          Termination of appointment
+[21](#21).          Termination of appointment                                                             11
 
-[22](#22).          Board procedures
+[22](#22).          Board procedures                                                                               11
 
 **Part 4—The NBA General Manager, staff and advisory committees** 
 
@@ -74,63 +76,64 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
         **Subdivision A—Establishment and role**
 
-[23](#23).          General Manager
+[23](#23).          General Manager                                                                                13
 
-[24](#24).          Function
+[24](#24).          Function                                                                                             13
 
-[25](#25).          Working with the Board
+[25](#25).          Working with the Board                                                                    13
 
-[26](#26).          Delegation
+[26](#26).          Delegation                                                                                          13
 
         **Subdivision B—Appointing the General Manager**
 
-[27](#27).          Appointing the General Manager
+[27](#27).          Appointing the General Manager                                                      14
 
-[28](#28).          Term of appointment
+[28](#28).          Term of appointment                                                                        14
 
-[29](#29).          Acting appointments
+[29](#29).          Acting appointments                                                                         14
 
-[30](#30).          General Manager’s remuneration
+[30](#30).          General Manager’s remuneration                                                       14
 
-[31](#31).          Outside employment
+[31](#31).          Outside employment                                                                         15
 
-[32](#32).          Leave of absence
+[32](#32).          Leave of absence                                                                                15
 
-[33](#33).          Disclosure of interests
+[33](#33).          Disclosure of interests                                                                       15
 
-[34](#34).          Resignation
+[34](#34).          Resignation                                                                                        15
 
-[35](#35).          Termination of appointment
+[35](#35).          Termination of appointment                                                             15
 
     **Division 2—Staff and consultants**
 
-[36](#36).          Staff
+[36](#36).          Staff                                                                                                   17
 
-[37](#37).          Consultants
+[37](#37).          Consultants                                                                                        17
 
     **Division 3—Advisory committees**
 
-[38](#38).          Advisory committees
+[38](#38).          Advisory committees                                                                        18
 
-[39](#39).          Committee members’ remuneration
+[39](#39).          Committee members’ remuneration                                                   18
 
 **Part 5—The National Blood Account**
 
-[40](#40).          National Blood Account
+[40](#40).          National Blood Account                                                                    20
 
-[41](#41).          Credits to the Account
+[41](#41).          Credits to the Account                                                                      20
 
-[42](#42).          Purposes of the Account
+[42](#42).          Purposes of the Account                                                                   20
 
 **Part 6—Miscellaneous**
 
-[43](#43).          Corporate plans
+[43](#43).          Corporate plans                                                                                 22
 
-[44](#44).          Annual reports
+[44](#44).          Annual reports                                                                                   22
 
-[45](#45).          Regulations
+[45](#45).          Regulations                                                                                        22
 
 **Notes** 
+
 
 An Act to enhance the management of Australia’s blood supply, and for related purposes
 
@@ -194,34 +197,35 @@ An Act to enhance the management of Australia’s blood supply, and for related 
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>1\. Sections 1 and 2 and anything in this Act not elsewhere covered by
-      this table</div>
-  </td>
-  <td>
-    <div>The day on which this Act receives the Royal Assent</div>
-  </td>
-  <td>
-    <div>15 April 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2\. Sections 3 to 45</div>
-  </td>
-  <td>
-    <div>Either:</div>
-    <div>(a) if this Act receives the Royal Assent before 1 July 2003—1 July 2003;
-      or</div>
-    <div>(b) in any other case—a single day to be fixed by Proclamation, subject
-      to subsection (3)</div>
-  </td>
-  <td>
-    <div>1 July 2003</div>
-    <div>(paragraph (a) applies)</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>1\. Sections 1 and 2 and anything in this Act not elsewhere covered by
+        this table</div>
+    </td>
+    <td>
+      <div>The day on which this Act receives the Royal Assent</div>
+    </td>
+    <td>
+      <div>15 April 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>2\. Sections 3 to 45</div>
+    </td>
+    <td>
+      <div>Either:</div>
+      <div>(a) if this Act receives the Royal Assent before 1 July 2003—1 July 2003;
+        or</div>
+      <div>(b) in any other case—a single day to be fixed by Proclamation, subject
+        to subsection (3)</div>
+    </td>
+    <td>
+      <div>1 July 2003 (paragraph (a) applies)</div>
+    </td>
+  </tr>
+</tbody></table>
 
 Note:          This table relates only to the provisions of this Act as originally passed by the Parliament and assented to. It will not be expanded to deal with provisions inserted in this Act after assent.
 
@@ -385,7 +389,7 @@ Who may be required to give information
 
              (3)  A notice may be given under subsection (1) to:
 
-                     (a)  the person who has overall responsibility for the provision of hospital services (as defined in the _Health Insurance Act 1973_) at a private hospital (as defined in that Act); or
+                     (a)  the person who has overall responsibility for the provision of hospital services (as defined in section 23E of the _Health Insurance Act 1973_) at a private hospital (as defined in that Act); or
 
                      (b)  a supplier of blood products and services in Australia; or
 
@@ -845,6 +849,7 @@ Note:          An Appropriation Act provides for amounts to be
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
+
 # Notes to the _National Blood Authority Act 2003_
 
 ### Note 1
@@ -871,11 +876,13 @@ For all relevant information pertaining to application, saving or transitional p
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -885,75 +892,62 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>National Blood Authority Act 2003</div>
-  </td>
-  <td>
-    <div>29, 2003</div>
-  </td>
-  <td>
-    <div>15 Apr 2003</div>
-  </td>
-  <td>
-    <div>Ss. 3–45: 1 July 2003 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Framework Legislation Amendment Act 2005</div>
-  </td>
-  <td>
-    <div>8, 2005</div>
-  </td>
-  <td>
-    <div>22 Feb 2005</div>
-  </td>
-  <td>
-    <div>S. 4 and Schedule 1 (items 173, 496): Royal Assent</div>
-  </td>
-  <td>
-    <div>S. 4 and Sch. 1 (item 496)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Framework Legislation Amendment Act (No. 1) 2006</div>
-  </td>
-  <td>
-    <div>30, 2006</div>
-  </td>
-  <td>
-    <div>6 Apr 2006</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 31, 32): 7 Apr 2006</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Private Health Insurance (Transitional Provisions and Consequential Amendments) Act 2007</div>
-  </td>
-  <td>
-    <div>32, 2007</div>
-  </td>
-  <td>
-    <div>30 Mar 2007</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 80): 1 Apr 2007 ( <i>see</i>s. 2(1))</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>National Blood Authority Act 2003</div>
+    </td>
+    <td>
+      <div>29, 2003</div>
+    </td>
+    <td>
+      <div>15 Apr 2003</div>
+    </td>
+    <td>
+      <div>Ss. 3–45: 1 July 2003 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Financial Framework Legislation Amendment Act 2005</div>
+    </td>
+    <td>
+      <div>8, 2005</div>
+    </td>
+    <td>
+      <div>22 Feb 2005</div>
+    </td>
+    <td>
+      <div>S. 4 and Schedule 1 (items 173, 496): Royal Assent</div>
+    </td>
+    <td>
+      <div>S. 4 and Sch. 1 (item 496)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Financial Framework Legislation Amendment Act (No. 1) 2006</div>
+    </td>
+    <td>
+      <div>30, 2006</div>
+    </td>
+    <td>
+      <div>6 Apr 2006</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 31, 32): 7 Apr 2006</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table of Amendments
 
@@ -978,46 +972,25 @@ Remainder: Royal Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 41</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005; No. 30, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 41</div>
-  </td>
-  <td>
-    <div>ad. No. 30, 2006</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>S. 41</div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005; No. 30, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 41</div>
+    </td>
+    <td>
+      <div>ad. No. 30, 2006</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table A
 
@@ -1044,5 +1017,6 @@ then the thing has the corresponding effect, for the purposes of the Part 2 Ac
 ## 496  Saving provision—Finance Minister’s determinations
 
 If a determination under subsection 20(1) of the _Financial Management and Accountability Act 1997_ is in force immediately before the commencement of this item, the determination continues in force as if it were made under subsection 20(1) of that Act as amended by this Act.
+
 
  
