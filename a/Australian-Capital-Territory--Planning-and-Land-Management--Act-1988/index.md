@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00727/Html/ac1b9092-e2e4-449b-8a3b-0f5be73fd028_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00297/Html/11202e8d-a353-4868-82fe-a0640f6970a3_files/image001.gif)
 
 # Australian Capital Territory (Planning and Land Management) Act 1988
 
 **Act No. 108 of 1988 as amended**
 
-This compilation was prepared on 7 September 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 19 April 2011
+ taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -722,7 +722,7 @@ the liability is vested in the Territory and ceases to be a liability of the Com
 
                    An act done by the Authority is not invalid merely because of a vacancy or vacancies in the membership of the Authority.
 
-##### <a id="35"></a>35  Remuneration
+##### <a id="35"></a>35  Remuneration
 
              (1)  A member shall be paid such remuneration as is determined by the Remuneration Tribunal, but, if no determination of that remuneration by the Tribunal is in operation, shall be paid such remuneration as is prescribed.
 
@@ -1002,7 +1002,7 @@ and includes a part of such a policy.
 
                    Until the Territory planning authority is established, the interim authority may take preliminary steps to prepare the Territory plan in accordance with section 25.
 
-##### <a id="59"></a>59  Procedures before establishment of Executive
+##### <a id="59"></a>59  Procedures before establishment of Executive
 
              (1)  Until the establishment of the Executive on Self‑Government Day:
 
@@ -1338,7 +1338,7 @@ _Section 55_
 
 **Note:**
 
-The amendments made by this Schedule are incorporated in the current compilations on ComLaw.
+The amendments made by this Schedule are incorporated in the current consolidations on ComLaw.
 
 _Canberra Water Supply (Googong Dam) Act 1974_
 
@@ -1633,23 +1633,6 @@ Remainder: Royal Assent</div>
     <div>—</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td colspan="2">
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 120, 121) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -1669,7 +1652,7 @@ _(a)_     Section 2 of the _Australian Capital   Territory__(Planning 
 
                 The date fixed in pursuance of subsection 2(2) was 12 March 1991 (_see Gazette_ 1991, No. S62).
 
-                In pursuance of subsection 2(3) the date fixed for sections 25, 26, 28–32, 51 and 52 was 11 May 1989 (_see Gazette_ 1989, No. S164); for the remaining sections the date fixed was 31 January 1989 (_see Gazette_ 1989, No. S39).
+                In pursuance of subsection 2(3) the date fixed for sections 25, 26, 28‑32, 51 and 52 was 11 May 1989 (_see Gazette_ 1989, No. S164); for the remaining sections the date fixed was 31 January 1989 (_see Gazette_ 1989, No. S39).
 
 _(b)_     The _Australian Capital Territory__(Planning and Land Management) Act 1988_ was amended by Part 3 (sections 5 and 6) only of the _Arts, Environment, Tourism and Territories Legislation Amendment Act 1990_, subsection 2(3) of which provides as follows:
 
@@ -1710,55 +1693,41 @@ _(g)_     Subsection 2(1) (items 2 and 3) of the _Legislative Instrume
   <tr>
     <td colspan="3">
       <div>
-        <b>
-          Commencement information
-        </b>
+        <b>Commencement information</b>
       </div>
     </td>
   </tr>
   <tr>
     <td>
       <div>
-        <b>
-          Column 1
-        </b>
+        <b>Column 1</b>
       </div>
     </td>
     <td>
       <div>
-        <b>
-          Column 2
-        </b>
+        <b>Column 2</b>
       </div>
     </td>
     <td>
       <div>
-        <b>
-          Column 3
-        </b>
+        <b>Column 3</b>
       </div>
     </td>
   </tr>
   <tr>
     <td>
       <div>
-        <b>
-          Provision(s)
-        </b>
+        <b>Provision(s)</b>
       </div>
     </td>
     <td>
       <div>
-        <b>
-          Commencement
-        </b>
+        <b>Commencement</b>
       </div>
     </td>
     <td>
       <div>
-        <b>
-          Date/Details
-        </b>
+        <b>Date/Details</b>
       </div>
     </td>
   </tr>
@@ -2090,26 +2059,6 @@ _(g)_     Subsection 2(1) (items 2 and 3) of the _Legislative Instrume
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 120  At the end of subsections 37(1), (2) and (3)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 121  Subsections 37(4) and (5)
-
-Repeal the subsections.
-
-As at 7 September 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -2173,21 +2122,5 @@ the enabling legislation has effect, on and after the commencing day, as if:
              (5)  In this section:
 
                     <a name="commenc-dai"></a>**_commencing day_** means the commencing day within the meaning of the _Legislative Instruments Act 2003._
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
