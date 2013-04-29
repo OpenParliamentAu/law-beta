@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00085/Html/04deee1e-b6e2-4e7c-8942-4473164b532e_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00708/Html/b2ae1bb8-5e36-4d39-ad18-19338f91f00f_files/image001.gif)
 
 # Australian Institute of Aboriginal and Torres Strait Islander Studies Act 1989
 
 **Act No. 149 of 1989 as amended**
 
-This compilation was prepared on 27 December 2011
+This compilation was prepared on 1 September 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force 
@@ -392,15 +392,11 @@ Note:          The _Commonwealth Authorities and Companies Act
 
                      (b)  during any period, or during all periods, when the Council Chairperson is absent from duty or from Australia or is, for any reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to persons acting as the Council Chairperson, see section 33A of the _Acts Interpretation Act 1901_.
-
              (2)  The Minister may appoint a person to act in the office of an appointed Councillor:
 
                      (a)  during a vacancy in that office, whether or not an appointment has previously been made to the office; or
 
                      (b)  during any period, or during all periods, when the appointed Councillor is absent from duty or from Australia, or is, for any reason, unable to perform the duties of the office.
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
 
              (3)  A person appointed to act during a vacancy in the office of an appointed Councillor under subsection (2):
 
@@ -412,9 +408,17 @@ Note:          For rules that apply to acting appointments, se
 
              (5)  The Minister may appoint a member of the Institute to act in the office of an elected Councillor during any period, or during all periods, when the elected Councillor is absent from duty or from Australia or is, for any reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
              (6)  The appointment of a person to act in the office of a Councillor who is also the Chairperson or Deputy Chairperson of the Council does not constitute an appointment of the person to act as the Chairperson or Deputy Chairperson, as the case may be.
+
+             (7)  Anything done by or in relation to a person purporting to act under an appointment made under this section is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen;
+
+                     (b)  there was a defect or irregularity in connection with the appointment;
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
 
 ##### <a id="20"></a>20  Resignation
 
@@ -1196,7 +1200,7 @@ Remainder: 24 May 2001</div>
     <div>27 June 2011</div>
   </td>
   <td colspan="2">
-    <div>Schedule 2 (items 171–173) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 171–173) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
@@ -1335,30 +1339,6 @@ _(d)_ The _Australian Institute of Aboriginal and Torres Strait Islander Studies
   </td>
   <td>
     <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Notes to s. 18(1), (2)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 18(5)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
   </td>
 </tr>
 <tr>
@@ -1570,11 +1550,37 @@ _(d)_ The _Australian Institute of Aboriginal and Torres Strait Islander Studies
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 171  At the end of subsection 18(1)
+
+Add:
+
+Note:          For rules that apply to persons acting as the Council Chairperson, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 172  At the end of subsections 18(2) and (5)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 173  Subsection 18(7)
+
+Repeal the subsection.
+
+As at 1 September 2011 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
 
-_Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)_
+_Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)_
 
 ## Schedule 2
 
@@ -1606,7 +1612,7 @@ the amendment of the first‑mentioned provision by this Schedule does not affec
 
 * * *
 
-_Reconciliation and Aboriginal and Torres Strait Islander Affairs Legislation Amendment (Application of Criminal Code) Act 2001 (No. 112, 2001)_
+_Reconciliation and Aboriginal and Torres Strait Islander Affairs Legislation Amendment (Application of Criminal Code) Act 2001 (No. 112, 2001)_
 
 ##### <a id="4"></a>4  Application of amendments
 
@@ -1620,7 +1626,7 @@ _Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001 (No.�
 
 ## Schedule 1
 
-## 97  Application of amendments
+## 97  Application of amendments
 
 The amendments made by this Schedule do not apply to an appointment if the term of the appointment began before the commencement of this item.
 
@@ -1713,6 +1719,8 @@ This Schedule does not limit the operation of section 8 of the _Acts Interpret
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
