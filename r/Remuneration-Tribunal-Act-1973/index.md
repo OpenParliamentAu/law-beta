@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00763/Html/ccf2b262-9ee1-4945-9d99-48efa9c3732e_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00283/Html/b2f04893-0b90-410c-a608-c893f498bd58_files/image001.gif)
 
 # Remuneration Tribunal Act 1973
 
 **Act No. 215 of 1973 as amended**
 
-This compilation was prepared on 30 October 2012
- taking into account amendments up to Act No. 136 of 2012
+This compilation was prepared on 9 March 2012
+ taking into account amendments up to Act No. 4 of 2012
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -505,7 +506,7 @@ that should be used as a basis for making grants in relation to recurrent expend
 
                      (b)  a determination under subsection (4) of this section on a matter that is, or is considered by the Tribunal or the Minister to be, significantly related to a matter referred to in subsection (1) or (2) of this section.
 
-          (8A)  If the Legislative Assembly for the Australian Capital Territory, within 30 sitting days of the Assembly after a copy of a determination that relates to an ACT office is given to the Chief Minister, passes a resolution disapproving of the determination, then:
+          (8A)  If the Legislative Assembly of the Australian Capital Territory, within 30 sitting days of the Assembly after a copy of a determination that relates to an ACT office is given to the Chief Minister, passes a resolution disapproving of the determination, then:
 
                      (a)  if the determination has not come into operation—the determination does not come into operation; or
 
@@ -1160,7 +1161,8 @@ S. 151(1): 1 July 1984 ( <i>see Gazette</i>1984, No. S245) <i>(h)</i></div>
     <div>S. 120: Royal Assent <i>(j)</i></div>
   </td>
   <td>
-    <div>S. 120(2) and (3)</div>
+    <div>S. 120(2) 
+and (3)</div>
   </td>
 </tr>
 <tr>
@@ -1613,7 +1615,8 @@ S. 13: 13 Jan 1996
 Remainder: 15 Jan 1996 ( <i>see Gazette</i>1996, No. S16)</div>
   </td>
   <td>
-    <div>Sch. 9 (item 4) \[ <i>see</i>Table A]</div>
+    <div>Sch. 9 
+(item 4) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -1721,7 +1724,8 @@ S. 22 and Schedule 1 (items 53, 60): 10 Dec 1999 ( <i>see Gazette</i>1999,
 Remainder: 13 Apr 2000</div>
   </td>
   <td>
-    <div>Ss. 4–22 \[ <i>see</i>Table A]</div>
+    <div>Ss. 4–22 
+\[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -2098,23 +2102,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Schedule 2 (items 4–9): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2012</div>
-  </td>
-  <td>
-    <div>136, 2012</div>
-  </td>
-  <td>
-    <div>22 Sept 2012</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 112): Royal Assent</div>
   </td>
   <td>
     <div>—</div>
@@ -2587,7 +2574,7 @@ _(y)_     Subsection 2(1) (items 24 and 30) of the _Fair Work (State R
     <div>S. 7</div>
   </td>
   <td>
-    <div>am. No. 80, 1974; No. 178, 1978; No. 160, 1980; No. 74, 1981; Nos. 78 and 111, 1982; Nos. 63 and 73, 1984; No. 87, 1988; Nos. 95, 149, 150 and 152, 1989; No. 122, 1991; No. 104, 1992; No. 109, 1993; Nos. 1 and 92, 1994; Nos. 20 and 168, 1995; No. 43, 1996; No. 120, 1997; No. 146, 1999; Nos. 1 and 22, 2000; No. 27, 2001; No. 127, 2002; No. 32, 2005; SLI 2006 No. 50; No. 32, 2007; Nos. 73 and 123, 2008; No. 54, 2009; No. 75, 2011; Nos. 4 and 136, 2012</div>
+    <div>am. No. 80, 1974; No. 178, 1978; No. 160, 1980; No. 74, 1981; Nos. 78 and 111, 1982; Nos. 63 and 73, 1984; No. 87, 1988; Nos. 95, 149, 150 and 152, 1989; No. 122, 1991; No. 104, 1992; No. 109, 1993; Nos. 1 and 92, 1994; Nos. 20 and 168, 1995; No. 43, 1996; No. 120, 1997; No. 146, 1999; Nos. 1 and 22, 2000; No. 27, 2001; No. 127, 2002; No. 32, 2005; SLI 2006 No. 50; No. 32, 2007; Nos. 73 and 123, 2008; No. 54, 2009; No. 75, 2011; No. 4, 2012</div>
   </td>
 </tr>
 <tr>
@@ -2957,7 +2944,7 @@ The following amendment commences on the designated sale day declared under sect
 
 Repeal the paragraph.
 
-As at 30 October 2012 the amendment is not incorporated in this compilation.
+As at 9 March 2012 the amendment is not incorporated in this compilation.
 
 ## Table A
 
@@ -3432,9 +3419,9 @@ _Remuneration and Other Legislation Amendment Act 2011 (No. 75, 2011)_
 
 ### Modifications
 
-_A.C.T. Self‑Government (Consequential Provisions) Regulations_
+_A.C.T. Self‑Government (Consequential Provisions) Regulations _
 
-## Subsection 3(1):
+## Subsection 3(1):  
 
 Insert the following definition: 
 
@@ -3442,7 +3429,7 @@ Insert the following definition:
 
 Add “or a corporation established for a public purpose by a law of the Australian Capital Territory” at the end of the definition of **_public statutory corporation_**.
 
-## Subsection 3(4):
+## Subsection 3(4):  
 
 Insert in paragraph (b) “(other than an enactment)” after “Territory”.
 
@@ -3466,11 +3453,11 @@ Omit from paragraph (k) “Commonwealth Teaching Service”, substitute “Aus
 
 Omit from paragraph (t) “or (f)”, substitute “(f), (ff) or (fg)”.
 
-## Subsection 7(3):
+## Subsection 7(3):  
 
 Omit “and to the holders of”, substitute “, the offices of Head of Administration and Associate Head of Administration within the meaning of the _Australian Capital Territory__(Self‑Government) Act 1988_ and”.
 
-## Section 7
+## Section 7  
 
 Add at the end the following subsection:
 
@@ -3482,7 +3469,7 @@ Add at the end the following subsection:
 
 may be paid in accordance with the determination out of the public money of the Australian Capital Territory within the meaning of the _Australian Capital Territory__(Self‑Government) Act 1988_.”
 
-## Subsection 8(4):
+## Subsection 8(4):  
 
 After “_1922_” insert “or the office of Head of Administration or Associate Head of Administration within the meaning of the _Australian Capital Territory (Self‑Government) Act 1988_”.
 
