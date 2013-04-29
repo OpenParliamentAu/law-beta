@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2007C00671/Html/53ef766b-9c3e-43c6-8004-f781bf2cbe7b_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00649/Html/CorpNatGuarFundLevies2001_image001.gif)
 
 # Corporations (National Guarantee Fund Levies) Act 2001
 
 **Act No. 54 of 2001 as amended**
 
-This compilation was prepared on 22 October 2007
+This compilation was prepared on 2 October 2007
  taking into account amendments up to Act No. 148 of 2007
 
 The text of any of those amendments not in force 
@@ -14,23 +14,23 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
-[1](#1).            Short title [_see_ Note 1]                                                                         1
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
 [2](#2).            Commencement [_see_ Note 1]                                                               1
 
 [3](#3).            Definitions                                                                                           1
 
-[4](#4).            Imposition of levies in respect of National Guarantee Fund                 1
+[4](#4).            Imposition of levies in respect of National Guarantee Fund               1
 
-[5](#5).            Amount of levy                                                                                    1
+[5](#5).            Amount of levy                                                                                   1
 
-[6](#6).            Transitional matters—implementation of the _Corporations Act 2001_  2
+[6](#6).            Transitional matters—implementation of the _Corporations Act 2001_ 2
 
-[7](#7).            Transitional matters—implementation of the _Financial Services Reform Act 2001_   3
+[7](#7).            Transitional matters—implementation of the _Financial Services Reform Act 2001_                3
 
 **Notes** 
 
@@ -44,7 +44,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                    This Act commences at the same time as the _Corporations Act 2001_.
 
-##### <a id="3"></a>3  Definitions
+##### <a id="3"></a>3  Definitions
 
                    Expressions used in this Act that are defined in a provision of the _Corporations Act 2001_ that applies for the purposes of Division 4 of Part 7.5 of that Act (whether it also applies for other purposes) have the same meanings in this Act as they are given by that provision.
 
@@ -65,8 +65,6 @@ These levies relate to the situation in which the amount in the National Guarant
              (2)  A determination referred to in subsection 889K(1) of the _Corporations Act 2001_ must specify, or specify a method for determining, the amount of levy that is to be payable. The amount of levy imposed by paragraph 4(b) of this Act in relation to the determination is the amount specified in, or worked out in accordance with the method specified in, the determination.
 
              (3)  Different amounts or methods may be specified in the same determination (whether it is a determination referred to in subsection 889J(1) or a determination referred to in subsection 889K(1)) in relation to different classes of matters of things.
-
-             (4)  A determination referred to in subsection 889J(1) of the _Corporations Act 2001_ must not specify an amount of levy, or a method for determining the amount of levy, that results in the total amount in levies that becomes payable to the SEGC in a financial year exceeding 150% of the minimum amount in relation to the NGF on 1 July in the financial year.
 
 ##### <a id="6"></a>6  Transitional matters—implementation of the _Corporations Act 2001_
 
@@ -135,7 +133,7 @@ of Assent</div>
     <div>28 June 2001</div>
   </td>
   <td>
-    <div>15 July 2001 ( <i>see</i>s. 2 and <i>Gazette</i>2001, No. S285)</div>
+    <div>15 July 2001 ( <i>see</i>s. 2 and <i>Gazette</i>2001, No. S285)</div>
   </td>
   <td>
     <div></div>
@@ -152,7 +150,7 @@ of Assent</div>
     <div>17 Sept 2001</div>
   </td>
   <td>
-    <div>11 Mar 2002 ( <i>see</i>s. 2 and <i>Gazette</i>2001, No. GN42)</div>
+    <div>11 Mar 2002 ( <i>see</i>s. 2 and <i>Gazette</i>2001, No. GN42)</div>
   </td>
   <td>
     <div>—</div>
@@ -169,7 +167,7 @@ of Assent</div>
     <div>24 Sept 2007</div>
   </td>
   <td>
-    <div>Schedule 1: 22 Oct 2007 
+    <div>Schedule 1: \[ <i>see</i>Note 2] 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -218,14 +216,6 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 148, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Heading to s. 6</div>
   </td>
   <td>
@@ -248,5 +238,22 @@ Remainder: Royal Assent</div>
     <div>ad. No. 108, 2001</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Corporations (National Guarantee Fund Levies) Amendment Act 2007 
+ (No. 148, 2007)_
+
+The following amendment commences on 22 October 2007:
+
+## Schedule 1
+
+## 1  At the end of section 5
+
+Add:
+
+             (4)  A determination referred to in subsection 889J(1) of the _Corporations Act 2001_ must not specify an amount of levy, or a method for determining the amount of levy, that results in the total amount in levies that becomes payable to the SEGC in a financial year exceeding 150% of the minimum amount in relation to the NGF on 1 July in the financial year.
+
+As at 2 October the amendment is not incorporated in this compilation.
 
  
