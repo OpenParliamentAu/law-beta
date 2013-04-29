@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00542/Html/25353d52-76f1-455b-a82d-0ee0d900e4cf_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00952/Html/c864b15f-0e94-4774-88fb-5d82ebd98967_files/image001.gif)
 
 # National Health Reform Act 2011
 
 **Act No. 9 of 2011 as amended**
 
-This compilation was prepared on 17 July 2012
- taking into account amendments up to Act No. 62 of 2012
+This compilation was prepared on 15 December 2011
+ taking into account amendments up to Act No. 139 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -604,143 +604,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [227](#227).        Pricing Authority CEO not subject to direction by the Pricing Authority on certain matters
 
-**Chapter 5—Administrator of the Funding Pool** 
+**Chapter 5—Miscellaneous**
 
-**Part 5.1—Introduction**
+[228](#228).        Protection of patient confidentiality
 
-[228](#228).        Simplified outline
+[229](#229).        Concurrent operation of State and Territory laws etc 
 
-[229](#229).        Interpreting Part 5 2
+[230](#230).        _Commonwealth Authorities and Companies Act 1997_ does not apply
 
-[230](#230).        Standing Council on Health
-
-**Part 5.2—Administrator of the National Health Funding Pool** 
-
-    **Division 1—Establishment and functions**
-
-[231](#231).        The office of Administrator
-
-[232](#232).        Appointment of Administrator
-
-[233](#233).        Remuneration
-
-[234](#234).        Suspension of Administrator
-
-[235](#235).        Removal or resignation of Administrator
-
-[236](#236).        Acting Administrator
-
-[237](#237).        Provision of staff and facilities for Administrator
-
-[238](#238).        Functions of Administrator
-
-    **Division 2—Financial management and reporting**
-
-[239](#239).        Financial management obligations of Administrator
-
-[240](#240).        Monthly reports by Administrator
-
-[241](#241).        Annual report by Administrator
-
-[242](#242).        Administrator to prepare financial statements for State Pool Accounts
-
-[243](#243).        Audit of financial statements
-
-[244](#244).        Performance audits
-
-[245](#245).        Provision of information generally
-
-[246](#246).        Format and content of reports and statements
-
-    **Division 3—Provisions relating to the functions of the Administrator**
-
-[247](#247).        Constitutional limits
-
-[248](#248).        State laws may confer functions and powers
-
-[249](#249).        How duty is imposed by State laws
-
-[250](#250).        When State laws impose a duty on Funding Body or officer
-
-**Part 5.3—National Health Funding Body** 
-
-    **Division 1—Establishment**
-
-[251](#251).        National Health Funding Body
-
-[252](#252).        Function
-
-    **Division 2—Chief Executive Officer of the Funding Body**
-
-[253](#253).        Establishment
-
-[254](#254).        Role
-
-[255](#255).        Appointment
-
-[256](#256).        Acting appointments
-
-[257](#257).        Outside employment
-
-[258](#258).        Remuneration and allowances
-
-[259](#259).        Leave of absence
-
-[260](#260).        Disclosure of interests
-
-[261](#261).        Resignation
-
-[262](#262).        Termination of appointment
-
-[263](#263).        Other terms and conditions
-
-    **Division 3—Staff, consultants etc.**
-
-[264](#264).        Staff
-
-[265](#265).        Persons assisting the Funding Body
-
-[266](#266).        Consultants
-
-[267](#267).        Annual report
-
-**Part 5.4—Secrecy** 
-
-    **Division 1—The Administrator**
-
-[268](#268).        Secrecy
-
-    **Division 2—Funding Body officials**
-
-[269](#269).        Secrecy
-
-[270](#270).        Disclosure or use for the purposes of this Act
-
-[271](#271).        Disclosure to the Minister
-
-[272](#272).        Disclosure to a State/Territory Health Minister
-
-[273](#273).        Disclosure to the Secretary etc 
-
-[274](#274).        Disclosure to a Royal Commission
-
-[275](#275).        Disclosure to certain agencies, bodies or persons
-
-[276](#276).        Disclosure to researchers
-
-[277](#277).        Disclosure with consent
-
-[278](#278).        Disclosure of publicly available information
-
-**Chapter 6—Miscellaneous**
-
-[279](#279).        Protection of patient confidentiality
-
-[280](#280).        Concurrent operation of State and Territory laws etc 
-
-[281](#281).        _Commonwealth Authorities and Companies Act 1997_ does not apply
-
-[282](#282).        Regulations
+[231](#231).        Regulations
 
 **Notes** 
 
@@ -764,11 +636,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (b)  the National Health Performance Authority; and
 
-                     (c)  the Independent Hospital Pricing Authority; and
-
-                     (d)  the office of Administrator of the National Health Funding Pool; and
-
-                     (e)  the National Health Funding Body.
+                     (c)  the Independent Hospital Pricing Authority.
 
 ##### <a id="4"></a>4  Simplified outline
 
@@ -782,11 +650,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
               (b)     the National Health Performance Authority; and
 
-               (c)     the Independent Hospital Pricing Authority; and
-
-              (d)     the office of Administrator of the National Health Funding Pool; and
-
-               (e)     the National Health Funding Body.
+               (c)     the Independent Hospital Pricing Authority.
 
 <li class="BoxList" style="margin-left:21.25pt">•      The Australian Commission
 
@@ -810,9 +674,9 @@ performance of the following:</li>
 
                (e)     other bodies or organisations that provide health care services.
 
-<li class="BoxList" style="margin-left:21.25pt">•      The main functions of the Independent
+<li class="BoxList" style="margin-left:21.25pt">•      The main functions of the
 
-Hospital Pricing Authority are as follows:</li>
+Independent Hospital Pricing Authority are as follows:</li>
 
                (a)     to determine the national efficient price for health care services provided by public hospitals where the services are funded on an activity basis;
 
@@ -820,25 +684,11 @@ Hospital Pricing Authority are as follows:</li>
 
                (c)     to publish this, and other information, for the purpose of informing decision makers in relation to the funding of public hospitals.
 
-<li class="BoxList" style="margin-left:21.25pt">•      The main function of the
-
-Administrator of the National Health Funding Pool is to administer the National
-
-Health Funding Pool.</li>
-
-<li class="BoxList" style="margin-left:21.25pt">•      The function of the
-
-National Health Funding Body is to assist the Administrator of the National
-
-Health Funding Pool.</li>
-
 * * *
 
 ##### <a id="5"></a>5  Definitions
 
                    In this Act:
-
-                    <a name="administr"></a>**_Administrator_** means the Administrator of the National Health Funding Pool appointed under section 232 and under the corresponding provision of the laws of the States and Territories.
 
                     <a name="clinic-advisori-committe-member"></a>**_Clinical Advisory Committee member_** means a member of the Clinical Advisory Committee, and includes the Chair of the Clinical Advisory Committee.
 
@@ -867,12 +717,6 @@ Health Funding Pool.</li>
                     <a name="cost-shift-disput"></a>**_cost‑shifting dispute_** has the meaning given by subsection 138(1).
 
                     <a name="cross-border-disput"></a>**_cross‑border dispute_** has the meaning given by subsection 138(2).
-
-                    <a name="function"></a>**_function_**, in Part 5.2, includes a power, authority or duty.
-
-                    <a name="fund-bodi"></a>**_Funding Body_** means the National Health Funding Body.
-
-                    <a name="fund-bodi-ceo"></a>**_Funding Body CEO_** means the Chief Executive Officer of the Funding Body.
 
                     <a name="health-care-safeti-qualiti-matter"></a>**_health care safety and quality matter_** means:
 
@@ -906,7 +750,7 @@ Health Funding Pool.</li>
 
                      (b)  a person attending a meeting in place of a Jurisdictional Advisory Committee member.
 
-                    <a name="local-hospit-network"></a>**_local hospital network_**, other than in Part 5.2, means:
+                    <a name="local-hospit-network"></a>**_local hospital network_** means:
 
                      (a)  a body corporate that is:
 
@@ -919,8 +763,6 @@ Health Funding Pool.</li>
 If a body is established by or under a law of a State, the Australian Capital Territory or the Northern Territory, the Minister must not specify the body in an instrument under paragraph (b) without the written agreement of the State/Territory Health Minister of the State or Territory, as the case may be. For the purposes of this definition (other than paragraph (a)), **_body_** includes a part of a body.
 
 Note:          For specification by class, see subsection 13(3) of the _Legislative Instruments Act 2003_.
-
-                    <a name="local-hospit-network"></a>**_local hospital network_**, in Part 5.2, means an organisation that is a local hospital network (however described) for the purposes of the National Health Reform Agreement.
 
                     <a name="perform-author"></a><a name="member"></a>**_member_** **_of the Performance Authority_** includes:
 
@@ -936,11 +778,7 @@ Note:          For specification by class, see subsection 13(3
 
                     <a name="ministeri-confer"></a>**_Ministerial Conference_** means the body known as the Australian Health Ministers’ Conference.
 
-                    <a name="nation-health-fund-pool"></a>**_National Health Funding Pool_** means the combined State Pool Accounts for each State and Territory.
-
-                    <a name="nation-health-reform-agreem"></a>**_National Health Reform Agreement_** means the National Health Reform Agreement between the Commonwealth and the States that was agreed to by COAG on 2 August 2011, as amended from time to time.
-
-                    <a name="nation-health-reform-law"></a>**_National Health Reform law_**, of a State or Territory, means a law of the State or Territory that gives effect to the National Health Reform Agreement.
+                    <a name="nation-health-reform-agreem"></a>**_National Health Reform Agreement_** means the National Health Reform Agreement, as agreed to by the COAG on 2 August 2011, as amended from time to time.
 
                     <a name="offici-commiss"></a>**_official of the Commission_** means:
 
@@ -953,16 +791,6 @@ Note:          For specification by class, see subsection 13(3
                      (d)  a person whose services are made available to the Commission under section 48; or
 
                      (e)  a person engaged as a consultant under section 49.
-
-                    <a name="offici-fund-bodi"></a>**_official of the Funding Body_** means:
-
-                     (a)  the Funding Body CEO; or
-
-                     (b)  a member of the staff of the Funding Body; or
-
-                     (c)  a person whose services are made available to the Funding Body under section 265; or
-
-                     (d)  a person engaged as a consultant under section 266.
 
                     <a name="offici-perform-author"></a>**_official of the Performance Authority_** means:
 
@@ -1028,19 +856,11 @@ the State/Territory Health Minister of the State or Territory is a **_participat
 
                     <a name="privat-hospit"></a>**_private hospital_** means a facility specified in a legislative instrument made by the Minister for the purposes of this definition.
 
-                    <a name="protect-administr-inform"></a>**_protected Administrator information_** means information that was obtained by a person in the person’s capacity as the Administrator.
-
                     <a name="protect-commiss-inform"></a>**_protected Commission information_** means information that:
 
                      (a)  was obtained by a person in the person’s capacity as an official of the Commission; and
 
                      (b)  relates to the affairs of a person other than an official of the Commission.
-
-                    <a name="protect-fund-bodi-inform"></a>**_protected Funding Body information_** means information that:
-
-                     (a)  was obtained by a person in the person’s capacity as an official of the Funding Body; and
-
-                     (b)  relates to the affairs of a person other than an official of the Funding Body.
 
                     <a name="protect-perform-author-inform"></a>**_protected Performance Authority information_** means information that:
 
@@ -1056,27 +876,15 @@ the State/Territory Health Minister of the State or Territory is a **_participat
 
                     <a name="public-hospit"></a>**_public hospital_** means a facility specified in a legislative instrument made by the Minister for the purposes of this definition. If a facility is situated in a State, the Australian Capital Territory or the Northern Territory, the Minister must not specify the facility in such an instrument without the written agreement of the State/Territory Health Minister of the State or Territory, as the case may be.
 
-                    <a name="respons-minist"></a>**_responsible Minister_** for a jurisdiction means the relevant Minister with portfolio responsibility for the administration of the provision of this Act in which the expression occurs (or of the corresponding provision of the laws of the States).
-
                     <a name="royal-commiss"></a>**_Royal Commission_** has the same meaning as in the _Royal Commissions Act 1902_.
 
                     <a name="secretari"></a>**_Secretary_** means the Secretary of the Department.
 
                     <a name="staff-commiss"></a>**_staff of the Commission_** means the staff described in section 47.
 
-                    <a name="staff-fund-bodi"></a>**_staff of the Funding Body_** means the staff described in section 264.
-
                     <a name="staff-perform-author"></a>**_staff of the Performance Authority_** means the staff described in section 102.
 
                     <a name="staff-price-author"></a>**_staff of the Pricing Authority_** means the staff described in section 173.
-
-                    <a name="stand-council-health"></a>**_Standing Council on Health_** has the meaning given by section 230.
-
-                    <a name="state"></a>**_State_**, in Parts 5.1 and 5.2, includes the Australian Capital Territory and the Northern Territory.
-
-                    <a name="state-manag-fund"></a>**_State Managed Fund_** of a State or Territory means a bank account or fund established or designated by the State or Territory for the purposes of health funding under the National Health Reform Agreement that is required to be undertaken in the State or Territory through a State Managed Fund.
-
-                    <a name="state-pool-account"></a>**_State Pool Account_** of a State or Territory means the bank accounts opened under the laws of the States and Territories as State Pool Accounts for the purposes of the National Health Reform Agreement.
 
                     <a name="state-territori-govern-bodi"></a>**_State/Territory government body_** means:
 
@@ -1614,7 +1422,7 @@ Validation
 
 Note:          See sections 20 and 33A of the _Acts Interpretation Act 1901_.
 
-##### <a id="23"></a>23  Remuneration
+##### <a id="23"></a>23  Remuneration
 
              (1)  A Commission Board member is to be paid the remuneration that is determined by the Remuneration Tribunal. If no determination of that remuneration by the Tribunal is in operation, a Commission Board member is to be paid the remuneration that is prescribed by the regulations.
 
@@ -1660,7 +1468,7 @@ Note:          See sections 20 and 33A of the _Acts Interpre
 
 ##### <a id="27"></a>27  Other terms and conditions
 
-                   A Commission Board member holds office on the terms and conditions (if any) in relation to matters not covered by this Act that are determined by the Minister.
+                   A Commission Board member holds office on the terms and conditions (if any) in relation to matters not covered by this Act that are determined by the Minister.
 
 ### Division 3—Procedures of the Commission Board
 
@@ -2088,7 +1896,7 @@ Exceptions
 
 Note:          A defendant bears an evidential burden in relation to a matter in subsection (2) (see subsection 13.3(3) of the _Criminal Code_).
 
-             (3)  Except where it is necessary to do so for the purposes of giving effect to this Act, a person who is, or has been, an official of the Commission is not to be required:
+             (3)  Except where it is necessary to do so for the purposes of giving effect to this Act, an official of the Commission is not to be required:
 
                      (a)  to produce to a court or tribunal a document containing protected Commission information; or
 
@@ -2165,10 +1973,6 @@ Scope
                      (a)  the Performance Authority;
 
                     (aa)  the Pricing Authority;
-
-                   (ab)  the Administrator;
-
-                    (ac)  the Funding Body;
 
                      (b)  the Ministerial Conference;
 
@@ -3226,7 +3030,7 @@ Exceptions
 
 Note:          A defendant bears an evidential burden in relation to a matter in subsection (2) (see subsection 13.3(3) of the _Criminal Code_).
 
-             (3)  Except where it is necessary to do so for the purposes of giving effect to this Act, a person who is, or has been, an official of the Performance Authority is not to be required:
+             (3)  Except where it is necessary to do so for the purposes of giving effect to this Act, an official of the Performance Authority is not to be required:
 
                      (a)  to produce to a court or tribunal a document containing protected Performance Authority information; or
 
@@ -3303,10 +3107,6 @@ Scope
                      (a)  the Commission;
 
                     (aa)  the Pricing Authority;
-
-                   (ab)  the Administrator;
-
-                    (ac)  the Funding Body;
 
                      (b)  the Ministerial Conference;
 
@@ -4718,7 +4518,7 @@ Exceptions
 
 Note:          A defendant bears an evidential burden in relation to a matter in subsection (2) (see subsection 13.3(3) of the _Criminal Code_).
 
-             (3)  Except where it is necessary to do so for the purposes of giving effect to this Act, a person who is, or has been, an official of the Pricing Authority is not to be required:
+             (3)  Except where it is necessary to do so for the purposes of giving effect to this Act, an official of the Pricing Authority is not to be required:
 
                      (a)  to produce to a court or tribunal a document containing protected Pricing Authority information; or
 
@@ -4726,7 +4526,7 @@ Note:          A defendant bears an evidential burden in relat
 
 ##### <a id="214"></a>214  Disclosure or use for the purposes of this Act
 
-                   An official of the Pricing Authority may disclose or use protected Pricing Authority information if:
+                   An official of the Pricing Authority may disclose or use protected Pricing Authority information if:
 
                      (a)  the disclosure or use is for the purposes of this Act; or
 
@@ -4803,10 +4603,6 @@ Scope
                      (a)  the Performance Authority;
 
                      (b)  the Commission;
-
-                   (ba)  the Administrator;
-
-                   (bb)  the Funding Body;
 
                      (c)  the Standing Council on Health;
 
@@ -4902,757 +4698,23 @@ Note:          For variation and revocation, see subsection 33
 
 in relation to the Pricing Authority.
 
-# Chapter 5—Administrator of the Funding Pool
+# Chapter 5—Miscellaneous
 
-## Part 5.1—Introduction
-
-##### <a id="228"></a>228  Simplified outline
-
-                   The following is a simplified outline of this Chapter:
-
-* * *
-
-<li class="BoxList" style="margin-left:21.25pt">•      This Chapter provides for
-
-the appointment of the Administrator of the National Health Funding Pool.</li>
-
-<li class="BoxList" style="margin-left:21.25pt">•      The main function of the
-
-Administrator of the National Health Funding Pool is to administer the National
-
-Health Funding Pool.</li>
-
-<li class="BoxList" style="margin-left:21.25pt">•      This Chapter also sets up
-
-the National Health Funding Body to assist the Administrator.</li>
-
-* * *
-
-##### <a id="229"></a>229  Interpreting Part 5.2
-
-                   Part 5.2 is to be interpreted in accordance with Schedule 7 to the Health Practitioner Regulation National Law set out in the Schedule to the _Health Practitioner Regulation National Law Act 2009_ of Queensland and, for that purpose, Schedule 7 applies as if references to this Law or a Queensland Act were references to Part 5.2 or an Act of this jurisdiction, and with all other necessary modifications.
-
-##### <a id="230"></a>230  Standing Council on Health
-
-             (1)  The **_Standing Council on Health_** is (subject to subsection (2)) the Ministerial Council by that name or, if there is no such Ministerial Council, the standing Ministerial Council established or recognised by COAG whose members include all Ministers in Australia having portfolio responsibility for health.
-
-             (2)  The Standing Council on Health, when acting under Part 5.2, is to be constituted only by a single Minister for the Commonwealth and a single Minister for each of the States, and any reference in this Part to a member of that Council is to be construed as a reference to those Ministerial members only.
-
-             (3)  If there are 2 or more Ministers for the Commonwealth or for a State who are members of the Standing Council on Health, the relevant Minister for the purposes of Part 5.2 is the Minister having primary portfolio responsibility for health in his or her jurisdiction.
-
-             (4)  A reference in Part 5.2 to the agreement of, or a request by, a member of the Standing Council on Health is a reference to an agreement or request in writing.
-
-## Part 5.2—Administrator of the National Health Funding Pool
-
-### Division 1—Establishment and functions
-
-##### <a id="231"></a>231  The office of Administrator
-
-             (1)  The office of Administrator of the National Health Funding Pool is established by this Part.
-
-             (2)  It is the intention of Parliament that the same individual holds the office established under subsection (1) and under the corresponding provision of the laws of the States.
-
-             (3)  The Administrator appointed under this Part  may exercise and perform the functions of the Administrator in relation to:
-
-                     (a)  one jurisdiction; or
-
-                     (b)  2 or more or all jurisdictions collectively.
-
-             (4)  A reference in a provision of this Part (other than in subsection 238(1)) to a function of the Administrator under this Part  includes a reference to a function of the Administrator under the corresponding provision of the laws of the States.
-
-##### <a id="232"></a>232  Appointment of Administrator
-
-             (1)  The Minister for this jurisdiction who is a member of the Standing Council on Health is to appoint an individual to the office of the Administrator of the National Health Funding Pool under this Part.
-
-             (2)  Before the appointment is made, the Chair of the Standing Council on Health is to give each member of the Council an opportunity to nominate an individual for appointment.
-
-             (3)  An appointment is not to be made unless all the members of the Standing Council on Health have agreed on the individual who will be appointed as Administrator, the date that the appointment will take effect, the period of appointment and the conditions of appointment.
-
-             (4)  The appointment is to be made by instrument in writing.
-
-             (5)  The Administrator is to be appointed (subject to subsection (3)) for the period, not exceeding 5 years, and on the conditions specified in his or her instrument of appointment, but is eligible for re‑appointment.
-
-##### <a id="233"></a>233  Remuneration
-
-             (1)  The Administrator is to be paid the remuneration that is determined by the Remuneration Tribunal. If no determination of that remuneration by the Tribunal is in operation, the Administrator is to be paid the remuneration that is prescribed by the regulations.
-
-             (2)  The Administrator is to be paid the allowances that are prescribed by the regulations.
-
-             (3)  This section has effect subject to the _Remuneration Tribunal Act 1973_.
-
-##### <a id="234"></a>234  Suspension of Administrator
-
-             (1)  The Chair of the Standing Council on Health is required to suspend the Administrator from office if requested to do so by:
-
-                     (a)  at least 3 members of the Council who are Ministers of a State; or
-
-                     (b)  the member of the Council who is a Minister of the Commonwealth.
-
-             (2)  A member of the Standing Council on Health is not to request the suspension of the Administrator unless the member is satisfied that the Administrator:
-
-                     (a)  is, because of any physical or mental incapacity or otherwise, unable to perform his or her functions satisfactorily; or
-
-                     (b)  has failed to comply with his or her obligations or duties as Administrator; or
-
-                     (c)  has been accused or convicted of an offence that carries a penalty of imprisonment; or
-
-                     (d)  has or may become bankrupt.
-
-             (3)  A suspension is to be effected by an instrument in writing and is to be notified by the Chair of the Standing Council on Health to all members of the Council.
-
-             (4)  A suspension is terminated after a period of suspension of 60 days unless before the end of that period the Administrator is removed or resigns from office or a majority of the members of the Standing Council on Health:
-
-                     (a)  terminate the suspension; or
-
-                     (b)  extend the suspension for a specified further period.
-
-             (5)  Despite subsection (1), the Chair of the Standing Council on Health is not to suspend the Administrator from office within the period of 90 days after an earlier period of suspension was terminated unless a majority of the members of the Council request the Chair to do so.
-
-##### <a id="235"></a>235  Removal or resignation of Administrator
-
-             (1)  The Minister for this jurisdiction who is a member of the Standing Council on Health is required to remove the Administrator from office if a majority of the members of the Council agree to the Administrator’s removal from office.
-
-             (2)  The Administrator is to be removed from office by an instrument in writing that takes effect on the date agreed to by the majority of the members of the Standing Council on Health.
-
-             (3)  The Administrator may resign as Administrator by notice in writing to the Chair of the Standing Council on Health.
-
-             (4)  The resignation of the Administrator takes effect on the date notified by the Chair of the Standing Council on Health to all members of the Council.
-
-##### <a id="236"></a>236  Acting Administrator
-
-             (1)  The Chair of the Standing Council on Health may, from time to time, appoint an individual to act as the Administrator during any period when the office is vacant or the holder of the office is suspended or absent from duty.
-
-             (2)  Any such appointment may only be made from a panel of persons, and in accordance with the procedure, agreed to by all the members of the Standing Council on Health.
-
-Note:          The applied provisions of Schedule 7 to the Health Practitioner Regulation National Law (clause 27) contain additional provisions relating to acting appointments that have effect subject to this section.
-
-##### <a id="237"></a>237  Provision of staff and facilities for Administrator
-
-             (1)  Staff and facilities to assist the Administrator in exercising or performing his or her functions under this Part are to be provided by the National Health Funding Body.
-
-Note:          See section 252.
-
-             (2)  The Administrator is not entitled to delegate a function conferred on the Administrator under this Part to that body, to any such member of staff or to any other person or body.
-
-##### <a id="238"></a>238  Functions of Administrator
-
-             (1)  The Administrator is:
-
-                     (a)  to calculate and advise the Treasurer of the Commonwealth of the amounts required to be paid by the Commonwealth into each State Pool Account of the National Health Funding Pool under the National Health Reform Agreement (including advice on any reconciliation of those amounts based on subsequent actual service delivery); and
-
-                     (b)  to monitor Commonwealth payments into each State Pool Account for the purposes of Division 2; and
-
-                     (d)  to report publicly on the payments made into and from each State Pool Account and other matters on which the Administrator is required to report under this Part; and
-
-                     (e)  to exercise or perform any other functions conferred on the Administrator under this Part.
-
-Note:          The corresponding legislation of the States will provide that the functions of the Administrator include monitoring State payments into each State Pool Account for the purposes of Division 2 (or equivalent) and making payments from each State Pool Account in accordance with the directions of the State concerned.
-
-             (2)  The Administrator and the officials of the funding body are not subject to the control or direction of any Minister of the Commonwealth in relation to the exercise or performance of the Administrator’s functions under this Act.
-
-             (3)  However, the Administrator is required to comply with any directions given by COAG in relation to the manner in which the Administrator exercises or performs his or her functions under this Part.
-
-             (4)  Directions given by COAG under subsection (3):
-
-                     (a)  are to be given in accordance with a written resolution of COAG passed in accordance with the procedures determined by COAG; and
-
-                     (b)  are to be notified in writing to the Administrator; and
-
-                     (c)  are to be made publicly available by the Administrator.
-
-             (5)  To avoid doubt, this Part is not intended:
-
-                     (a)  to give the Commonwealth ownership or control of money in a State Pool Account; or
-
-                     (b)  to affect the obligation of the Administrator under the law of a State to make payments from the State Pool Account of the State in accordance with the directions of the State.
-
-             (6)  To avoid doubt, the Administrator may have regard to information obtained in the exercise or performance of functions under the law of another jurisdiction in the exercise or performance of the Administrator’s functions under Division 2.
-
-### Division 2—Financial management and reporting
-
-##### <a id="239"></a>239  Financial management obligations of Administrator
-
-                   The Administrator must:
-
-                     (a)  develop and apply appropriate financial management policies and procedures with respect to the State Pool Accounts (including policies and procedures to ensure payments from those Accounts are made in accordance with the directions of the responsible Ministers); and
-
-                     (b)  keep proper records in relation to the administration of the State Pool Accounts, including records of all payments made into and from those Accounts and the basis on which the payments were made; and
-
-                     (c)  prepare the financial statements required by this Part in relation to the State Pool Accounts and arrange for the audit of those financial statements in accordance with this Part.
-
-##### <a id="240"></a>240  Monthly reports by Administrator
-
-             (1)  The Administrator must provide monthly reports to the Commonwealth and each State containing the following information for the relevant month:
-
-                     (a)  the amounts paid into each State Pool Account and State Managed Fund by the relevant State and the basis on which the payments were made;
-
-                     (b)  the amounts paid into each State Pool Account by the Commonwealth and the basis on which the payments were made;
-
-                     (c)  the amounts paid from each State Pool Account to local hospital networks, a State Managed Fund or other organisations or funds and the basis on which the payments were made;
-
-                     (d)  the amounts paid from each State Managed Fund to local hospital networks or other organisations or funds and the basis on which the payments were made;
-
-                     (e)  the number of public hospital services funded for each local hospital network (including as a running financial year total) in accordance with the system of activity based funding;
-
-                      (f)  the number of other public hospital services and functions funded from each State Pool Account or State Managed Fund (including a running financial year total).
-
-             (2)  A monthly report required to be provided to a jurisdiction under this section is to be provided to the responsible Minister for that jurisdiction or to a body or officer notified to the Administrator by that Minister.
-
-             (3)  The Administrator is to make reports provided under this section publicly available.
-
-##### <a id="241"></a>241  Annual report by Administrator
-
-             (1)  The Administrator must, within 4 months after the end of each financial year, provide to the responsible Ministers an annual report on the exercise or performance of his or her functions during the financial year.
-
-             (2)  The annual report must include the following information for the relevant financial year:
-
-                     (a)  the amounts paid into each State Pool Account and State Managed Fund by the relevant State and the basis on which the payments were made;
-
-                     (b)  the amounts paid into each State Pool Account by the Commonwealth and the basis on which the payments were made;
-
-                     (c)  the amounts paid from each State Pool Account to local hospital networks, a State Managed Fund or other organisations or funds and the basis on which the payments were made;
-
-                     (d)  the amounts paid from each State Managed Fund to local hospital networks or other organisations or funds and the basis on which the payments were made;
-
-                     (e)  the number of public hospital services funded for each local hospital network in accordance with the system of activity based funding;
-
-                      (f)  the number of other public hospital services and functions funded from each State Pool Account or State Managed Fund.
-
-             (3)  The annual report is to be accompanied by:
-
-                     (a)  an audited financial statement for each State Pool Account; and
-
-                     (b)  a financial statement that combines the audited financial statements for each State Pool Account.
-
-             (4)  A responsible Minister must, as soon as practicable after receiving an annual report under this section, cause a copy of the report to be tabled in the Parliament of the responsible Minister’s jurisdiction.
-
-##### <a id="242"></a>242  Administrator to prepare financial statements for State Pool Accounts
-
-                   The Administrator must, after each financial year, prepare:
-
-                     (a)  a financial statement for each State Pool Account that details financial transactions during that financial year; and
-
-                     (b)  a combined financial statement that consists of the financial statements for each State Pool Account for the financial year.
-
-##### <a id="243"></a>243  Audit of financial statements
-
-                   A financial statement under this Division for the State Pool Account of a State is to be audited by the Auditor‑General of that State in accordance with the relevant legislation of that State relating to financial audit by the Auditor‑General.
-
-##### <a id="244"></a>244  Performance audits
-
-             (1)  For the purposes of this section, a **_performance audit_** is an audit by the Auditor‑General of a jurisdiction of the exercise or performance of the functions of the Administrator in relation to that jurisdiction to determine whether the Administrator is acting effectively, economically, efficiently and in compliance with all relevant laws.
-
-             (2)  Before the Auditor‑General of this jurisdiction conducts a performance audit, the Auditor‑General must notify the Auditors‑General of all other jurisdictions of his or her intention to conduct the proposed audit.
-
-             (3)  Auditors‑General who are conducting performance audits at the same time are to make arrangements to co‑ordinate the conduct of those audits in relation to any requirements imposed on the Administrator.
-
-             (4)  A performance audit is to be conducted by the Auditor‑General of this jurisdiction in accordance with the _Auditor‑General Act 1997_.
-
-##### <a id="245"></a>245  Provision of information generally
-
-             (1)  The Administrator is required to provide to the responsible Minister for a jurisdiction any information requested by that responsible Minister that relates to that jurisdiction.
-
-             (2)  The information is to be provided by the time requested by that responsible Minister.
-
-             (3)  The Administrator is required to provide to the responsible Ministers of all jurisdictions a copy of advice provided by the Administrator to the Treasurer of the Commonwealth about the basis on which the Administrator has calculated the payments to be made into State Pool Accounts by the Commonwealth.
-
-             (4)  The Administrator may at any time provide any information that relates to a jurisdiction to the responsible Minister for that jurisdiction.
-
-             (5)  Any information relating to a jurisdiction that is provided by the Administrator to another jurisdiction may only be publicly released by that other jurisdiction in accordance with arrangements approved by the responsible Minister for the jurisdiction to which the information relates.
-
-##### <a id="246"></a>246  Format and content of reports and statements
-
-                   Monthly or annual reports and financial or information statements under this Division are to be prepared in accordance with any directions that are given by COAG under subsection 238(3).
-
-### Division 3—Provisions relating to the functions of the Administrator
-
-##### <a id="247"></a>247  Constitutional limits
-
-                   The Administrator may perform his or her functions under this Act only:
-
-                     (a)  for purposes related to:
-
-                              (i)  the provision of pharmaceutical, sickness or hospital benefits; or
-
-                             (ii)  the provision of medical or dental services; or
-
-                     (b)  for purposes related to the granting of financial assistance to a State on such terms and conditions as the Parliament thinks fit; or
-
-                     (c)  for purposes related to the executive power of the Commonwealth; or
-
-                     (d)  for purposes related to statistics; or
-
-                     (e)  in, or for purposes related to, a Territory; or
-
-                      (f)  in or with respect to a Commonwealth place (within the meaning of the _Commonwealth Places (Application of Laws) Act 1970_); or
-
-                     (g)  for purposes related to trade and commerce:
-
-                              (i)  between Australia and places outside Australia; or
-
-                             (ii)  among the States; or
-
-                            (iii)  within a Territory, between a State and a Territory or between 2 Territories; or
-
-                     (h)  for purposes related to a corporation to which paragraph 51(xx) of the Constitution applies; or
-
-                      (i)  by way of the use of a postal, telegraphic, telephonic or other like service within the meaning of paragraph 51(v) of the Constitution; or
-
-                      (j)  by way of the provision of a service to:
-
-                              (i)  the Commonwealth; or
-
-                             (ii)  an authority of the Commonwealth;
-
-                            for a purpose of the Commonwealth; or
-
-                     (k)  for purposes related to matters that are peculiarly adapted to the government of a nation and that cannot otherwise be carried on for the benefit of the nation; or
-
-                      (l)  for purposes related to matters incidental to the execution of any of the legislative powers of the Parliament or the executive power of the Commonwealth.
-
-##### <a id="248"></a>248  State laws may confer functions and powers
-
-             (1)  A National Health Reform law of a State may confer powers or functions, or impose duties, on one or more of the following if the powers, functions or duties relate to the exercise or performance of the functions of the Administrator (including the functions of the Administrator under a National Health Reform law of a State):
-
-                     (a)  the Funding Body;
-
-                     (b)  an officer of the Commonwealth.
-
-Note:          Section 250 sets out when such a law imposes a duty of the Funding Body or an officer of the Commonwealth.
-
-             (2)  Subsection (1) does not authorise the conferral of a power or function, or the imposition of a duty, by a law of a State to the extent to which:
-
-                     (a)  the conferral or imposition, or the authorisation, would contravene any constitutional doctrines restricting the duties that may be imposed on the Funding Body or officer; or
-
-                     (b)  the authorisation would otherwise exceed the legislative power of the Commonwealth.
-
-             (3)  This Act is not intended to exclude or limit:
-
-                     (a)  the operation of a law of a State that confers any functions or powers, or imposes any duties, on the Funding Body or officer to the extent to which that law is capable of operating concurrently with this Act; or
-
-                     (b)  the conferral of a function or power, or the imposition of a duty, on the Funding Body or officer in his or her capacity as a person appointed under a law of a State.
-
-##### <a id="249"></a>249  How duty is imposed by State laws
-
-Application
-
-             (1)  This section applies if a National Health Reform law of a State purports to impose a duty on the Funding Body or an officer of the Commonwealth.
-
-Note:          Section 250 sets out when such a law imposes a duty on the Funding Body or an officer of the Commonwealth.
-
-State legislative power sufficient to support duty
-
-             (2)  The duty is taken not to be imposed by this Act (or any other law of the Commonwealth) to the extent to which:
-
-                     (a)  imposing the duty is within the legislative powers of the State concerned; and
-
-                     (b)  imposing the duty by the law of the State is consistent with the constitutional doctrines restricting the duties that may be imposed on the Funding Body or officer.
-
-Note:          If this subsection applies, the duty will be taken to be imposed by force of the law of the State (the Commonwealth having consented under section 248 to the imposition of the duty by that law).
-
-Commonwealth legislative power sufficient to support duty but State legislative powers are not
-
-             (3)  If, to ensure the validity of the purported imposition of the duty, it is necessary that the duty be imposed by a law of the Commonwealth (rather than by the law of the State), the duty is taken to be imposed by this Act to the extent necessary to ensure that validity.
-
-             (4)  If, because of subsection (3), this Act is taken to impose the duty, it is the intention of the Parliament to rely on all powers available to it under the Constitution to support the imposition of the duty by this Act.
-
-             (5)  The duty is taken to be imposed by this Act in accordance with subsection (3) only to the extent to which imposing the duty:
-
-                     (a)  is within the legislative powers of the Commonwealth; and
-
-                     (b)  is consistent with the constitutional doctrines restricting the duties that may be imposed on the Funding Body or officer.
-
-             (6)  Subsections (1) to (5) do not limit section 248.
-
-##### <a id="250"></a>250  When State laws impose a duty on Funding Body or officer
-
-                   For the purposes of sections 248 and 249, a law of a State imposes a duty on the Funding Body or an officer of the Commonwealth if:
-
-                     (a)  the law confers a power or function on the Funding Body or officer; and
-
-                     (b)  the circumstances in which the power or function is conferred give rise to an obligation on the Funding Body or officer to exercise the power or to perform the function.
-
-## Part 5.3—National Health Funding Body
-
-### Division 1—Establishment
-
-##### <a id="251"></a>251  National Health Funding Body
-
-                   The National Health Funding Body is established by this section.
-
-Note:          In this Act, **_Funding Body_** means the National Health Funding Body—see section 5.
-
-##### <a id="252"></a>252  Function
-
-                   The function of the Funding Body is to assist the Administrator in the performance of the Administrator’s functions (including the Administrator’s functions under a National Health Reform law of a State).
-
-### Division 2—Chief Executive Officer of the Funding Body
-
-##### <a id="253"></a>253  Establishment
-
-                   There is to be a Chief Executive Officer of the Funding Body.
-
-Note:          In this Act, **_Funding Body CEO_** means the Chief Executive Officer of the Funding Body—see section 5.
-
-##### <a id="254"></a>254  Role
-
-                   The Funding Body CEO is responsible for the day‑to‑day administration of the Funding Body.
-
-##### <a id="255"></a>255  Appointment
-
-             (1)  The Funding Body CEO is to be appointed by the Minister.
-
-             (2)  Before making an appointment under subsection (1), the Minister must consult with the Administrator (if appointed).
-
-             (3)  The appointment is to be made by written instrument.
-
-             (4)  The Funding Body CEO holds office on a full‑time basis.
-
-             (5)  The Funding Body CEO holds office for the period specified in the instrument of appointment. The period must not exceed 5 years.
-
-Note:          For reappointment, see the _Acts Interpretation Act 1901_.
-
-             (6)  The Funding Body CEO must not be the Administrator.
-
-##### <a id="256"></a>256  Acting appointments
-
-             (1)  The Minister may appoint a person to act as the Funding Body CEO:
-
-                     (a)  during a vacancy in the office of the Funding Body CEO (whether or not an appointment has previously been made to the office); or
-
-                     (b)  during any period, or during all periods, when the Funding Body CEO:
-
-                              (i)  is absent from duty or from Australia; or
-
-                             (ii)  is, for any reason, unable to perform the duties of the office.
-
-             (2)  Before making an appointment under subsection (1), the Minister must consult with the Administrator (if appointed).
-
-             (3)  An appointment under subsection (1) is to be made by written instrument.
-
-             (4)  Anything done by or in relation to a person purporting to act under an appointment under subsection (1) is not invalid merely because:
-
-                     (a)  the occasion for the appointment had not arisen; or
-
-                     (b)  there was a defect or irregularity in connection with the appointment; or
-
-                     (c)  the appointment had ceased to have effect; or
-
-                     (d)  the occasion to act had not arisen or had ceased.
-
-Note:          See the _Acts Interpretation Act 1901_.
-
-##### <a id="257"></a>257  Outside employment
-
-             (1)  The Funding Body CEO must not engage in paid employment outside the duties of his or her office without the approval of the Minister.
-
-             (2)  Before giving approval for the purposes of subsection (1), the Minister must consult with the Administrator.
-
-##### <a id="258"></a>258  Remuneration and allowances
-
-             (1)  The Funding Body CEO is to be paid the remuneration that is determined by the Remuneration Tribunal. If no determination of that remuneration by the Tribunal is in operation, the Funding Body CEO is to be paid the remuneration that is prescribed by the regulations.
-
-             (2)  The Funding Body CEO is to be paid the allowances that are prescribed by the regulations.
-
-             (3)  This section has effect subject to the _Remuneration Tribunal Act 1973_.
-
-##### <a id="259"></a>259  Leave of absence
-
-             (1)  The Funding Body CEO has the recreation leave entitlements that are determined by the Remuneration Tribunal.
-
-             (2)  The Minister may grant the Funding Body CEO leave of absence, other than recreation leave, on the terms and conditions as to remuneration or otherwise that the Minister determines in writing.
-
-             (3)  Before making a determination under subsection (2), the Minister must consult with the Administrator.
-
-##### <a id="260"></a>260  Disclosure of interests
-
-                   The Funding Body CEO must give written notice to the Minister and the Administrator of all interests, pecuniary or otherwise, that the Funding Body CEO has or acquires and that conflict or could conflict with the proper performance of the Funding Body CEO’s duties.
-
-##### <a id="261"></a>261  Resignation
-
-             (1)  The Funding Body CEO may resign his or her appointment by giving the Minister a written resignation.
-
-             (2)  The resignation takes effect on the day it is received by the Minister or, if a later day is specified in the resignation, on that later day.
-
-##### <a id="262"></a>262  Termination of appointment
-
-             (1)  The Minister may terminate the appointment of the Funding Body CEO for misbehaviour or physical or mental incapacity.
-
-             (2)  The Minister may terminate the appointment of the Funding Body CEO if the Minister is satisfied that the Funding Body CEO’s performance has been unsatisfactory.
-
-             (3)  Before the Minister terminates the appointment of the Funding Body CEO under subsection (1) or (2), the Minister must consult the Administrator.
-
-             (4)  The Minister must terminate the appointment of the Funding Body CEO if:
-
-                     (a)  the Funding Body CEO:
-
-                              (i)  becomes bankrupt; or
-
-                             (ii)  applies to take the benefit of any law for the relief of bankrupt or insolvent debtors; or
-
-                            (iii)  compounds with his or her creditors; or
-
-                            (iv)  makes an assignment of his or her remuneration for the benefit of his or her creditors; or
-
-                     (b)  the Funding Body CEO is absent, except on leave of absence, for 14 consecutive days or for 28 days in any 12 months; or
-
-                     (c)  the Funding Body CEO fails, without reasonable excuse, to comply with section 260; or
-
-                     (d)  the Funding Body CEO engages, except with the approval of the Minister, in paid employment outside the duties of his or her office (see section 257).
-
-##### <a id="263"></a>263  Other terms and conditions
-
-             (1)  The Funding Body CEO holds office on the terms and conditions (if any) in relation to matters not covered by this Act that are determined, in writing, by the Minister.
-
-             (2)  Before making a determination under subsection (1), the Minister must consult with the Administrator.
-
-### Division 3—Staff, consultants etc.
-
-##### <a id="264"></a>264  Staff
-
-             (1)  The staff of the Funding Body are to be persons engaged under the _Public Service Act 1999_.
-
-             (2)  For the purposes of the _Public Service Act 1999_:
-
-                     (a)  the Funding Body CEO and the staff of the Funding Body together constitute a Statutory Agency; and
-
-                     (b)  the Funding Body CEO is the Head of that Statutory Agency.
-
-##### <a id="265"></a>265  Persons assisting the Funding Body
-
-                   The Funding Body may also be assisted:
-
-                     (a)  by officers and employees of Agencies (within the meaning of the _Public Service Act 1999_); or
-
-                     (b)  by officers and employees of authorities of the Commonwealth; or
-
-                     (c)  by officers and employees of a State or Territory; or
-
-                     (d)  by officers and employees of authorities of a State or Territory;
-
-whose services are made available to the Funding Body in connection with the performance of the functions of the Administrator.
-
-##### <a id="266"></a>266  Consultants
-
-             (1)  The Funding Body may engage persons having suitable qualifications and experience as consultants to the Funding Body.
-
-             (2)  The consultants are to be engaged on the terms and conditions that the Funding Body CEO determines in writing.
-
-##### <a id="267"></a>267  Annual report
-
-             (1)  The Funding Body CEO must, as soon as practicable after the end of each financial year, prepare and give to the Minister, for presentation to the Parliament, a report on the operations of the Funding Body during that year.
-
-             (2)  The Funding Body CEO must also give a copy of the report to the responsible Ministers for the States and Territories.
-
-Note:          See also section 34C of the _Acts Interpretation Act 1901_, which contains extra rules about annual reports.
-
-## Part 5.4—Secrecy
-
-### Division 1—The Administrator
-
-##### <a id="268"></a>268  Secrecy
-
-             (1)  A person commits an offence if:
-
-                     (a)  the person is, or has been, the Administrator; and
-
-                     (b)  the person has obtained protected Administrator information in the person’s capacity as the Administrator; and
-
-                     (c)  the person:
-
-                              (i)  discloses the information to another person; or
-
-                             (ii)  uses the information.
-
-                    Penalty:  Imprisonment for 2 years or 120 penalty units, or both.
-
-Exceptions
-
-             (2)  Each of the following is an exception to the prohibition in subsection (1):
-
-                     (a)  the disclosure or use is authorised by this Act or by a National Health Reform law of a State or Territory;
-
-                     (b)  the disclosure or use is in compliance with a law of the Commonwealth or a law of a State or Territory;
-
-                     (c)  the disclosure or use is for the purposes of this Act or a National Health Reform law of a State or Territory;
-
-                     (d)  the disclosure or use is for the purposes of the performance of the functions of the Administrator under this Act or a National Health Reform law of a State or Territory;
-
-                     (e)  the disclosure or use is in the course of the Administrator’s employment or service as the Administrator;
-
-                      (f)  the disclosure or use is in accordance with a direction given by COAG under subsection 238(3);
-
-                     (g)  the disclosure is to the Treasurer of the Commonwealth or a State or Territory, or to the responsible Minister for the Commonwealth or a State or Territory;
-
-                     (h)  the disclosure is of information that relates to the affairs of a person with consent of the person;
-
-                      (i)  the disclosure is of information that has already been lawfully made available to the public.
-
-Note:          A defendant bears an evidential burden in relation to a matter in subsection (2) (see subsection 13.3(3) of the _Criminal Code_).
-
-             (3)  Except where it is necessary to do so for the purposes of giving effect to this Act, the person is not to be required:
-
-                     (a)  to produce to a court or tribunal a document containing protected Administrator information; or
-
-                     (b)  to disclose protected Administrator information to a court or tribunal.
-
-### Division 2—Funding Body officials
-
-##### <a id="269"></a>269  Secrecy
-
-             (1)  A person commits an offence if:
-
-                     (a)  the person is, or has been, an official of the Funding Body; and
-
-                     (b)  the person has obtained protected Funding Body information in the person’s capacity as an official of the Funding Body; and
-
-                     (c)  the person:
-
-                              (i)  discloses the information to another person; or
-
-                             (ii)  uses the information.
-
-                    Penalty:  Imprisonment for 2 years or 120 penalty units, or both.
-
-Exceptions
-
-             (2)  Each of the following is an exception to the prohibition in subsection (1):
-
-                     (a)  the disclosure or use is authorised by this Division;
-
-                     (b)  the disclosure or use is in compliance with a requirement under:
-
-                              (i)  a law of the Commonwealth; or
-
-                             (ii)  a prescribed law of a State or a Territory.
-
-Note:          A defendant bears an evidential burden in relation to a matter in subsection (2) (see subsection 13.3(3) of the _Criminal Code_).
-
-             (3)  Except where it is necessary to do so for the purposes of giving effect to this Act, a person who is, or has been, an official of the Funding Body is not to be required:
-
-                     (a)  to produce to a court or tribunal a document containing protected Funding Body information; or
-
-                     (b)  to disclose protected Funding Body information to a court or tribunal.
-
-##### <a id="270"></a>270  Disclosure or use for the purposes of this Act
-
-                   An official of the Funding Body may disclose or use protected Funding Body information if:
-
-                     (a)  the disclosure or use is for the purposes of this Act; or
-
-                     (b)  the disclosure or use is for the purposes of the performance of the functions of the Funding Body under this Act; or
-
-                     (c)  the disclosure or use is in the course of the official’s employment or service as an official of the Funding Body.
-
-##### <a id="271"></a>271  Disclosure to the Minister
-
-                   An official of the Funding Body may disclose protected Funding Body information to:
-
-                     (a)  the Minister; or
-
-                     (b)  the Treasurer.
-
-##### <a id="272"></a>272  Disclosure to a State/Territory Health Minister
-
-                   An official of the Funding Body may disclose protected Funding Body information to a State/Territory Health Minister.
-
-##### <a id="273"></a>273  Disclosure to the Secretary etc.
-
-                   An official of the Funding Body may disclose protected Funding Body information to:
-
-                     (a)  the Secretary; or
-
-                     (b)  the head (however described) of the Health Department of a State or Territory.
-
-##### <a id="274"></a>274  Disclosure to a Royal Commission
-
-             (1)  An official of the Funding Body may disclose protected Funding Body information to a Royal Commission.
-
-             (2)  The Funding Body CEO may, by writing, impose conditions to be complied with in relation to protected Funding Body information disclosed under subsection (1).
-
-             (3)  An instrument under subsection (2) is not a legislative instrument.
-
-##### <a id="275"></a>275  Disclosure to certain agencies, bodies or persons
+##### <a id="228"></a>228  Protection of patient confidentiality
 
 Scope
 
-             (1)  This section applies if the Administrator or the Funding Body CEO is satisfied that particular protected Funding Body information will enable or assist any of the following agencies, bodies or persons:
+             (1)  This section applies to each of the following bodies:
 
                      (a)  the Commission;
 
                      (b)  the Performance Authority;
 
-                     (c)  the Pricing Authority;
-
-                     (d)  the Administrator;
-
-                     (e)  the Standing Council on Health;
-
-                      (f)  the Australian Health Ministers’ Advisory Council;
-
-                     (g)  the Australian Institute of Health and Welfare;
-
-                     (h)  the Australian Statistician;
-
-                      (i)  a State/Territory government body that has functions relating to health care;
-
-                      (j)  an agency, body or person specified in a legislative instrument made by the Minister with the agreement of COAG;
-
-to perform or exercise any of the functions or powers of the agency, body or person.
-
-             (2)  COAG is to give its agreement for the purposes of paragraph (1)(j) by a written resolution of COAG passed in accordance with the procedures determined by COAG.
-
-Disclosure
-
-             (3)  If an official of the Funding Body is authorised by the Administrator or the Funding Body CEO, in writing, for the purposes of this section, the official may disclose that protected Funding Body information to the agency, body or person concerned.
-
-             (4)  If protected Funding Body information is disclosed under subsection (3) to an agency, body or person, the agency, body or person must not disclose or use the information for a purpose other than the purpose for which the information was given to the agency, body or person.
-
-##### <a id="276"></a>276  Disclosure to researchers
-
-Scope
-
-             (1)  This section applies if the Administrator or the Funding Body CEO is satisfied that particular protected Funding Body information will assist an agency, body or person to conduct research.
-
-Disclosure
-
-             (2)  If an official of the Funding Body is authorised by the Administrator or the Funding Body CEO, in writing, for the purposes of this section, the official may disclose that protected Funding Body information to the agency, body or person concerned.
-
-             (3)  An official of the Funding Body must not disclose information under subsection (2) if the information is likely to enable the identification of a particular patient.
-
-##### <a id="277"></a>277  Disclosure with consent
-
-                   An official of the Funding Body may disclose protected Funding Body information that relates to the affairs of a person if:
-
-                     (a)  the person has consented to the disclosure; and
-
-                     (b)  the disclosure is in accordance with that consent.
-
-##### <a id="278"></a>278  Disclosure of publicly available information
-
-                   An official of the Funding Body may disclose protected Funding Body information if it is already publicly available.
-
-# Chapter 6—Miscellaneous
-
-##### <a id="279"></a>279  Protection of patient confidentiality
-
-Scope
-
-             (1)  This section applies to each of the following persons or bodies:
-
-                     (a)  the Commission;
-
-                     (b)  the Performance Authority;
-
-                     (c)  the Pricing Authority;
-
-                     (d)  the Administrator;
-
-                     (e)  the Funding Body.
+                     (c)  the Pricing Authority.
 
 Protection of confidentiality
 
-             (2)  In the performance of the person or body’s functions, the person or body must not publish or disseminate information that is likely to enable the identification of a particular patient.
+             (2)  In the performance of the body’s functions, the body must not publish or disseminate information that is likely to enable the identification of a particular patient.
 
              (3)  Subsection (2) does not apply if the publication or dissemination of the information takes place with the consent of:
 
@@ -5674,11 +4736,11 @@ Protection of confidentiality
 
                      (b)  illness or infirmity of either or both of them.
 
-##### <a id="280"></a>280  Concurrent operation of State and Territory laws etc.
+##### <a id="229"></a>229  Concurrent operation of State and Territory laws etc.
 
                    This Act is not intended to exclude or limit the operation of a law of a State or Territory that is capable of operating concurrently with this Act.
 
-##### <a id="281"></a>281  _Commonwealth Authorities and Companies Act 1997_ does not apply
+##### <a id="230"></a>230  _Commonwealth Authorities and Companies Act 1997_ does not apply
 
                    The _Commonwealth Authorities and Companies Act 1997_ does not apply in relation to:
 
@@ -5686,27 +4748,13 @@ Protection of confidentiality
 
                      (b)  the Pricing Authority.
 
-##### <a id="282"></a>282  Regulations
+##### <a id="231"></a>231  Regulations
 
-             (1)  The Governor‑General may make regulations prescribing matters:
+                   The Governor‑General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
-
-             (2)  The regulations may modify the operation of the following in relation to things done by, or in relation to, the Administrator, the Funding Body CEO or the Funding Body:
-
-                     (a)  the _Archives Act 1983_;
-
-                     (b)  the _Australian Information Commissioner Act 2010_;
-
-                     (c)  the _Freedom of Information Act 1982_;
-
-                     (d)  the _Ombudsman Act 1976_;
-
-                     (e)  the _Privacy Act 1988_.
-
-             (3)  Regulations under subsection (2) may be made only with the agreement of all of the members of the Standing Council on Health (as constituted for the purposes of Part 5.2).
 
 # Notes to the _National Health Reform Act 2011_
 
@@ -5722,8 +4770,8 @@ For all relevant information pertaining to application, saving or transitional p
 <colgroup>
   <col width="29%">
   <col width="16%">
-  <col width="17%">
-  <col width="20%">
+  <col width="16%">
+  <col width="21%">
   <col width="17%">
 </colgroup>
 
@@ -5799,23 +4847,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Sch. 1 (items 22, 23)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>National Health Reform Amendment (Administrator and National Health Funding Body) Act 2012</div>
-  </td>
-  <td>
-    <div>62, 2012</div>
-  </td>
-  <td>
-    <div>25 June 2012</div>
-  </td>
-  <td>
-    <div>25 June 2012</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 28)</div>
   </td>
 </tr></table>
 
@@ -5895,7 +4926,7 @@ Remainder: Royal Assent</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 139, 2011; No. 62, 2012</div>
+    <div>am. No. 139, 2011</div>
   </td>
 </tr>
 <tr>
@@ -5903,20 +4934,12 @@ Remainder: Royal Assent</div>
     <div>S. 4</div>
   </td>
   <td>
-    <div>rs. Nos. 109 and 139, 2011; No. 62, 2012</div>
+    <div>rs. Nos. 109 and 139, 2011</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 5</div>
-  </td>
-  <td>
-    <div>am. Nos. 109 and 139, 2011; No. 62, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6</div>
+    <div>Ss. 5, 6</div>
   </td>
   <td>
     <div>am. Nos. 109 and 139, 2011</div>
@@ -6421,63 +5444,7 @@ Chapt. 2</div>
 </tr>
 <tr>
   <td>
-    <div>S. 54A</div>
-  </td>
-  <td>
-    <div>ad. No. 109, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 62, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 54B</div>
-  </td>
-  <td>
-    <div>ad. No. 109, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 54C</div>
-  </td>
-  <td>
-    <div>ad. No. 109, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 54D</div>
-  </td>
-  <td>
-    <div>ad. No. 109, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 54E</div>
-  </td>
-  <td>
-    <div>ad. No. 109, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 54F</div>
-  </td>
-  <td>
-    <div>ad. No. 109, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 54G</div>
+    <div>Ss. 54A–54G</div>
   </td>
   <td>
     <div>ad. No. 109, 2011</div>
@@ -6496,7 +5463,7 @@ Chapt. 2</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 139, 2011; No. 62, 2012</div>
+    <div>am. No. 139, 2011</div>
   </td>
 </tr>
 <tr>
@@ -6806,39 +5773,7 @@ Chapt. 2</div>
 </tr>
 <tr>
   <td>
-    <div>S. 113</div>
-  </td>
-  <td>
-    <div>ad. No. 109, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 62, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 114</div>
-  </td>
-  <td>
-    <div>ad. No. 109, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 115</div>
-  </td>
-  <td>
-    <div>ad. No. 109, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 116</div>
+    <div>Ss. 113–116</div>
   </td>
   <td>
     <div>ad. No. 109, 2011</div>
@@ -6873,7 +5808,7 @@ Chapt. 2</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 139, 2011; No. 62, 2012</div>
+    <div>am. No. 139, 2011</div>
   </td>
 </tr>
 <tr>
@@ -7238,111 +6173,7 @@ Chapt. 2</div>
 </tr>
 <tr>
   <td>
-    <div>S. 213</div>
-  </td>
-  <td>
-    <div>ad. No. 139, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 62, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 214</div>
-  </td>
-  <td>
-    <div>ad. No. 139, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 215</div>
-  </td>
-  <td>
-    <div>ad. No. 139, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 216</div>
-  </td>
-  <td>
-    <div>ad. No. 139, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 217</div>
-  </td>
-  <td>
-    <div>ad. No. 139, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 218</div>
-  </td>
-  <td>
-    <div>ad. No. 139, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 219</div>
-  </td>
-  <td>
-    <div>ad. No. 139, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 220</div>
-  </td>
-  <td>
-    <div>ad. No. 139, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 62, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 221</div>
-  </td>
-  <td>
-    <div>ad. No. 139, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 222</div>
-  </td>
-  <td>
-    <div>ad. No. 139, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 223</div>
-  </td>
-  <td>
-    <div>ad. No. 139, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 224</div>
+    <div>Ss. 213–224</div>
   </td>
   <td>
     <div>ad. No. 139, 2011</div>
@@ -7382,594 +6213,10 @@ Chapt. 2</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 62, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 5.1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 228</div>
+    <div>Ss. 228–231</div>
   </td>
   <td>
     <div>ad. No. 139, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 62, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 229</div>
-  </td>
-  <td>
-    <div>ad. No. 139, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 62, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 230</div>
-  </td>
-  <td>
-    <div>ad. No. 139, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 62, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 5.2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 231</div>
-  </td>
-  <td>
-    <div>ad. No. 139, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 62, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 232</div>
-  </td>
-  <td>
-    <div>ad. No. 62, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 233</div>
-  </td>
-  <td>
-    <div>ad. No. 62, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 234</div>
-  </td>
-  <td>
-    <div>ad. No. 62, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 235</div>
-  </td>
-  <td>
-    <div>ad. No. 62, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 236</div>
-  </td>
-  <td>
-    <div>ad. No. 62, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 237</div>
-  </td>
-  <td>
-    <div>ad. No. 62, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 238</div>
-  </td>
-  <td>
-    <div>ad. No. 62, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 239</div>
-  </td>
-  <td>
-    <div>ad. No. 62, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 240</div>
-  </td>
-  <td>
-    <div>ad. No. 62, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 241</div>
-  </td>
-  <td>
-    <div>ad. No. 62, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 242</div>
-  </td>
-  <td>
-    <div>ad. No. 62, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 243</div>
-  </td>
-  <td>
-    <div>ad. No. 62, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 244</div>
-  </td>
-  <td>
-    <div>ad. No. 62, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 245</div>
-  </td>
-  <td>
-    <div>ad. No. 62, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 246</div>
-  </td>
-  <td>
-    <div>ad. No. 62, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 247</div>
-  </td>
-  <td>
-    <div>ad. No. 62, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 248</div>
-  </td>
-  <td>
-    <div>ad. No. 62, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 249</div>
-  </td>
-  <td>
-    <div>ad. No. 62, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 250</div>
-  </td>
-  <td>
-    <div>ad. No. 62, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 5.3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 251</div>
-  </td>
-  <td>
-    <div>ad. No. 62, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 252</div>
-  </td>
-  <td>
-    <div>ad. No. 62, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 253</div>
-  </td>
-  <td>
-    <div>ad. No. 62, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 254</div>
-  </td>
-  <td>
-    <div>ad. No. 62, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 255</div>
-  </td>
-  <td>
-    <div>ad. No. 62, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 256</div>
-  </td>
-  <td>
-    <div>ad. No. 62, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 257</div>
-  </td>
-  <td>
-    <div>ad. No. 62, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 258</div>
-  </td>
-  <td>
-    <div>ad. No. 62, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 259</div>
-  </td>
-  <td>
-    <div>ad. No. 62, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 260</div>
-  </td>
-  <td>
-    <div>ad. No. 62, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 261</div>
-  </td>
-  <td>
-    <div>ad. No. 62, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 262</div>
-  </td>
-  <td>
-    <div>ad. No. 62, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 263</div>
-  </td>
-  <td>
-    <div>ad. No. 62, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 264</div>
-  </td>
-  <td>
-    <div>ad. No. 62, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 265</div>
-  </td>
-  <td>
-    <div>ad. No. 62, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 266</div>
-  </td>
-  <td>
-    <div>ad. No. 62, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 267</div>
-  </td>
-  <td>
-    <div>ad. No. 62, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 5.4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 268</div>
-  </td>
-  <td>
-    <div>ad. No. 62, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 269</div>
-  </td>
-  <td>
-    <div>ad. No. 62, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 270</div>
-  </td>
-  <td>
-    <div>ad. No. 62, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 271</div>
-  </td>
-  <td>
-    <div>ad. No. 62, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 272</div>
-  </td>
-  <td>
-    <div>ad. No. 62, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 273</div>
-  </td>
-  <td>
-    <div>ad. No. 62, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 274</div>
-  </td>
-  <td>
-    <div>ad. No. 62, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 275</div>
-  </td>
-  <td>
-    <div>ad. No. 62, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 276</div>
-  </td>
-  <td>
-    <div>ad. No. 62, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 277</div>
-  </td>
-  <td>
-    <div>ad. No. 62, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 278</div>
-  </td>
-  <td>
-    <div>ad. No. 62, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Chapter 6</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Chapt. 6</div>
-  </td>
-  <td>
-    <div>ad. No. 62, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 279</div>
-  </td>
-  <td>
-    <div>ad. No. 62, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 280</div>
-  </td>
-  <td>
-    <div>ad. No. 62, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 281</div>
-  </td>
-  <td>
-    <div>ad. No. 62, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 282</div>
-  </td>
-  <td>
-    <div>ad. No. 62, 2012</div>
   </td>
 </tr></table>
 
@@ -8060,17 +6307,5 @@ For the purposes of subsection 179(2) of the _National Health Reform Act 2011_, 
                      (c)  before the commencement of this item, the Minister consulted those persons about the appointment of a member of the Clinical Advisory Committee;
 
 the Minister is taken to have consulted the Pricing Authority about the appointment of the Clinical Advisory Committee member.
-
-* * *
-
-_National Health Reform Amendment (Administrator and National Health Funding Body) Act 2012 (No. 62, 2012)_
-
-## Schedule 1
-
-## 28  Transitional and validation provisions
-
-(1)       If, on the commencement of Part 5.2 of the _National Health Reform Act 2011_, corresponding provisions to that Part have not been enacted by another jurisdiction, the responsible Minister for that jurisdiction for the purposes of that Part is the Minister of that jurisdiction with portfolio responsibility for health.
-
-(2)       Any thing done by a Minister of the Commonwealth or of a State before the commencement of Part 5.2 of the _National Health Reform Act 2011_ that would have been validly done if that Part, and the corresponding provisions of other jurisdictions, had been in force at the time is taken to have been validly done.
 
  
