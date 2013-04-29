@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2011C00465/Html/43c1da58-2bba-4b00-b533-8d37b0f7eb51_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00406/Html/aa013104-fab2-4a32-a5a7-97f6b9a88c1c_files/image001.gif)
 
 # Health and Other Services (Compensation) Act 1995
 
 **Act No. 130 of 1995 as amended**
 
-This compilation was prepared on 1 July 2011
+This compilation was prepared on 30 May 2011
  taking into account amendments up to Act No. 32 of 2011
 
 The text of any of those amendments not in force
@@ -140,13 +140,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [39](#39).          General administration of Act
 
-[40](#40).          Additional functions of the Chief Executive Medicare
+[40](#40).          Additional functions of the Medicare Australia CEO
 
 [41](#41).          Delegation
 
     **Division 2—Power to obtain information**
 
-[42](#42).          Chief Executive Medicare etc  may obtain information etc 
+[42](#42).          Medicare Australia CEO etc  may obtain information etc 
 
 [43](#43).          Content of notices
 
@@ -190,8 +190,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="charg-act"></a>**_Charges Act_** means the _Health and Other Services (Compensation) Care Charges Act 1995_.
 
-                    <a name="chief-execut-micar"></a>**_Chief Executive Medicare_** has the same meaning as in the _Human Services (Medicare) Act 1973_.
-
                     <a name="claim"></a>**_claim_** means a claim in writing.
 
                     <a name="claimant"></a>**_claimant_**, in relation to compensation, means the person seeking compensation either on his or her own behalf or on behalf of another person.
@@ -222,6 +220,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (c)  a residential care subsidy.
 
+                    <a name="employe-micar-australia"></a>**_employee of Medicare Australia_** means an employee within the meaning of the _Medicare Australia Act 1973_.
+
                     <a name="fix"></a>**_fixed_**, in relation to an order or agreement relating to an amount of compensation, is defined in subsection (4).
 
                     <a name="injuri"></a>**_injury_** includes a disease.
@@ -239,6 +239,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 Note:          Subsection (6) deals with the question of judgments that are subject to appeal.
 
                     <a name="law"></a>**_law_**, in relation to the Commonwealth, a State or a Territory, means a law (whether written or unwritten) of the Commonwealth, that State or that Territory, and includes a law (whether written or unwritten) in force in the Commonwealth, that State or that Territory or in any part of the Commonwealth, that State or that Territory.
+
+                    <a name="micar-australia-ceo"></a>**_Medicare Australia CEO_** means the Chief Executive Officer of Medicare Australia.
 
                     <a name="micar-benefit"></a>**_medicare benefit_** means a medicare benefit payable under Part II of the _Health Insurance Act 1973_, and includes a provisional payment made in accordance with a direction under subsection 18(4) of that Act (other than such a payment in respect of which the Commonwealth has recovered an amount under subsection 18(6) of that Act).
 
@@ -458,7 +460,7 @@ Note:          So far as this section would be a law imposing 
 
              (6)  Subject to subsections (7) and (8) and section 37, this section does not apply if:
 
-                     (a)  the notifiable person in relation to the claim for compensation concerned has entered into a bulk payment agreement with the Chief Executive Medicare; and
+                     (a)  the notifiable person in relation to the claim for compensation concerned has entered into a bulk payment agreement with the Medicare Australia CEO; and
 
                      (b)  the notifiable person has complied with all the conditions of the bulk payment agreement; and
 
@@ -554,7 +556,7 @@ Note:          So far as this section would be a law imposing 
 
              (6)  Subject to subsections (7) and (8) and section 37, this section does not apply if:
 
-                     (a)  the notifiable person in relation to the claim for compensation concerned has entered into a bulk payment agreement with the Chief Executive Medicare; and
+                     (a)  the notifiable person in relation to the claim for compensation concerned has entered into a bulk payment agreement with the Medicare Australia CEO; and
 
                      (b)  the notifiable person has complied with all the conditions of the bulk payment agreement; and
 
@@ -598,11 +600,11 @@ _Note:       The obligations under this Division will not apply in c
 
                      (b)  a reimbursement arrangement in relation to the claim is or was made after the end of that period;
 
-the person who is liable to reimburse the claimant under the arrangement must, within 28 days after the arrangement is made, give to the Chief Executive Medicare written notice of the arrangement.
+the person who is liable to reimburse the claimant under the arrangement must, within 28 days after the arrangement is made, give to the Medicare Australia CEO written notice of the arrangement.
 
 ##### <a id="14"></a>14  Notice of intention to recover amounts
 
-             (1)  The Chief Executive Medicare may give to the notifiable person written notice that the Chief Executive Medicare may seek:
+             (1)  The Medicare Australia CEO may give to the notifiable person written notice that the Medicare Australia CEO may seek:
 
                      (a)  in relation to the amount of compensation fixed in a judgment or settlement; or
 
@@ -612,11 +614,11 @@ payment to the Commonwealth, under this Act or the Charges Act, of amounts in re
 
              (2)  Without limiting the matters that the notice may include, it may include information about any requirements of this Division relating to the claim for compensation.
 
-             (3)  The Chief Executive Medicare must give a copy of any such notice to the claimant.
+             (3)  The Medicare Australia CEO must give a copy of any such notice to the claimant.
 
 ##### <a id="17"></a>17  Notice to claimant<span style="font-size:9.0pt; font-weight:normal"> </span>
 
-             (1)  The Chief Executive Medicare may, in respect of the claim for compensation, give to the claimant a written notice that requires the claimant to give to the Chief Executive Medicare a written statement specifying:
+             (1)  The Medicare Australia CEO may, in respect of the claim for compensation, give to the claimant a written notice that requires the claimant to give to the Medicare Australia CEO a written statement specifying:
 
                      (a)  the professional services (if any), in respect of which medicare benefit has been paid, that have been rendered in the course of treatment of, or as a result of, the injury the claimant claims to have suffered; and
 
@@ -628,17 +630,17 @@ Note:          A notice under this section can be given before
 
              (3)  The notice must:
 
-                     (a)  state the period within which the claimant is required to give the statement to the Chief Executive Medicare; and
+                     (a)  state the period within which the claimant is required to give the statement to the Medicare Australia CEO; and
 
                      (b)  contain a statement of the claimant’s rights to seek an extension of that period and to apply for reconsideration of decisions about extensions of the period.
 
-             (4)  The Chief Executive Medicare may give more than one notice to the claimant in respect of the same claim for compensation.
+             (4)  The Medicare Australia CEO may give more than one notice to the claimant in respect of the same claim for compensation.
 
-             (5)  The claimant or the notifiable person may request the Chief Executive Medicare to give the claimant a notice under this section.
+             (5)  The claimant or the notifiable person may request the Medicare Australia CEO to give the claimant a notice under this section.
 
-          (5A)  A request under subsection (5) must be made in the form approved in writing by the Chief Executive Medicare.
+          (5A)  A request under subsection (5) must be made in the form approved in writing by the Medicare Australia CEO.
 
-             (6)  The Chief Executive Medicare must comply with such a request:
+             (6)  The Medicare Australia CEO must comply with such a request:
 
                      (a)  if the date on which the claimant suffered the injury is more than 5 years before the request was made—within 60 days after the request was made; or
 
@@ -646,17 +648,17 @@ Note:          A notice under this section can be given before
 
 ##### <a id="18"></a>18  Statement by claimant of past benefits
 
-             (1)  Subject to subsection (3), the claimant must give to the Chief Executive Medicare the statement required by the notice within the period of 28 days after being given the notice.
+             (1)  Subject to subsection (3), the claimant must give to the Medicare Australia CEO the statement required by the notice within the period of 28 days after being given the notice.
 
              (2)  The statement must be verified by statutory declaration.
 
-             (3)  Subject to subsections (4) and (4A) and section 20, the Chief Executive Medicare may, by notice in writing, grant the claimant one or more extensions of the period.
+             (3)  Subject to subsections (4) and (4A) and section 20, the Medicare Australia CEO may, by notice in writing, grant the claimant one or more extensions of the period.
 
              (4)  The period cannot be extended if:
 
                      (a)  the notice in question under subsection 17(1) was given in relation to a claim for compensation in respect of which an amount of compensation under a judgment or settlement had already been fixed; and
 
-                     (b)  the Chief Executive Medicare had not given a notice under section 21, in respect of the claim for compensation, during the 6 months preceding the day on which an amount of compensation was fixed under the judgment or settlement; and
+                     (b)  the Medicare Australia CEO had not given a notice under section 21, in respect of the claim for compensation, during the 6 months preceding the day on which an amount of compensation was fixed under the judgment or settlement; and
 
                      (c)  an advance payment has not been made in respect of the compensation payable under the judgment or settlement.
 
@@ -666,21 +668,21 @@ Note:          A notice under this section can be given before
 
                      (b)  in any other case—beyond the period of 12 months after the claimant received the last notice given to the claimant in relation to the claim for compensation.
 
-             (5)  If the claimant does not give to the Chief Executive Medicare a statement as required by this section, all the professional services specified in the notice under subsection 17(2) are taken for the purposes of this Act and the Charges Act to have been rendered in the course of treatment of, or as a result of, the injury the claimant claims to have suffered.
+             (5)  If the claimant does not give to the Medicare Australia CEO a statement as required by this section, all the professional services specified in the notice under subsection 17(2) are taken for the purposes of this Act and the Charges Act to have been rendered in the course of treatment of, or as a result of, the injury the claimant claims to have suffered.
 
-             (6)  Subsection (5) does not operate, and is taken for the purposes of this Act and the Charges Act never to have operated, in relation to professional services specified in a notice under subsection 17(2) if the Chief Executive Medicare gives the claimant a notice under subsection (7).
+             (6)  Subsection (5) does not operate, and is taken for the purposes of this Act and the Charges Act never to have operated, in relation to professional services specified in a notice under subsection 17(2) if the Medicare Australia CEO gives the claimant a notice under subsection (7).
 
-             (7)  The Chief Executive Medicare must give the claimant a notice for the purposes of subsection (6) if:
+             (7)  The Medicare Australia CEO must give the claimant a notice for the purposes of subsection (6) if:
 
                      (a)  apart from subsection (6), subsection (5) would operate so that all the services specified in a notice under subsection 17(2) would be taken for the purposes of this Act and the Charges Act to have been rendered in the course of treatment of, or as a result of, the injury the claimant claims to have suffered; and
 
                      (b)  an amount of compensation has been fixed under a judgment or settlement; and
 
-                     (c)  the claimant, within the period of 2 years beginning on the day on which the amount of compensation was fixed under the judgment or settlement, satisfies the Chief Executive Medicare that:
+                     (c)  the claimant, within the period of 2 years beginning on the day on which the amount of compensation was fixed under the judgment or settlement, satisfies the Medicare Australia CEO that:
 
                               (i)  not all of those services have been rendered in the course of treatment of, or as a result of, the injury the claimant claims to have suffered; and
 
-                             (ii)  the claimant’s failure to give the Chief Executive Medicare a statement as required by this section was reasonable in the circumstances.
+                             (ii)  the claimant’s failure to give the Medicare Australia CEO a statement as required by this section was reasonable in the circumstances.
 
              (8)  To avoid doubt, if:
 
@@ -688,7 +690,7 @@ Note:          A notice under this section can be given before
 
                      (b)  a person paid that amount to the Commonwealth in relation to the claim; and
 
-                     (c)  the Chief Executive Medicare gave the claimant a notice under subsection (7); and
+                     (c)  the Medicare Australia CEO gave the claimant a notice under subsection (7); and
 
                      (d)  because of subsection (6), the amount paid exceeds the amount properly payable under this Act;
 
@@ -698,11 +700,11 @@ the amount of the excess is payable by the Commonwealth to the person.
 
 Review of decision to refuse to give notice
 
-          (9A)  Application may be made to the Chief Executive Medicare for reconsideration of a decision by the Chief Executive Medicare to refuse to give a notice under subsection (7).
+          (9A)  Application may be made to the Medicare Australia CEO for reconsideration of a decision by the Medicare Australia CEO to refuse to give a notice under subsection (7).
 
           (9B)  The application must be made within 28 days after the claimant is notified of the decision to refuse to give the notice.
 
-          (9C)  If an application for reconsideration is made, the decision must be reconsidered by the Chief Executive Medicare or a delegate of the Chief Executive Medicare.
+          (9C)  If an application for reconsideration is made, the decision must be reconsidered by the Medicare Australia CEO or a delegate of the Medicare Australia CEO.
 
           (9D)  The decision must not be reconsidered by the person who made the decision to refuse to give the notice.
 
@@ -714,11 +716,11 @@ Note:          Section 27A of the _Administrative Appeals Tr
 
 ##### <a id="19"></a>19  Reconsideration of decisions about extensions of the period for giving statements
 
-             (1)  If the claimant is dissatisfied with the Chief Executive Medicare’s decision about extension of the period, the claimant may apply in writing to the Chief Executive Medicare for the decision to be reconsidered.
+             (1)  If the claimant is dissatisfied with the Medicare Australia CEO’s decision about extension of the period, the claimant may apply in writing to the Medicare Australia CEO for the decision to be reconsidered.
 
              (2)  The application must be made within 28 days after the claimant is informed of the decision.
 
-             (3)  Subject to section 20, within 28 days after receiving the application, the Chief Executive Medicare must:
+             (3)  Subject to section 20, within 28 days after receiving the application, the Medicare Australia CEO must:
 
                      (a)  reconsider the decision; and
 
@@ -726,9 +728,9 @@ Note:          Section 27A of the _Administrative Appeals Tr
 
                      (c)  if the decision under reconsideration was a decision granting an extension—affirm the decision or vary the decision by granting a longer period; and
 
-                     (d)  give to the claimant a notice stating the Chief Executive Medicare’s decision on the reconsideration together with a statement of his or her reasons for the decision on the reconsideration.
+                     (d)  give to the claimant a notice stating the Medicare Australia CEO’s decision on the reconsideration together with a statement of his or her reasons for the decision on the reconsideration.
 
-             (4)  The Chief Executive Medicare’s decision on reconsideration of the decision has effect as if it had been made under subsection 18(3).
+             (4)  The Medicare Australia CEO’s decision on reconsideration of the decision has effect as if it had been made under subsection 18(3).
 
 ##### <a id="20"></a>20  Effect of date of hearing on period for giving statement
 
@@ -748,11 +750,11 @@ is taken to be an extension of the period until 28 days after the day on which t
 
              (1)  If, in relation to each notice given to the claimant under section 17 in respect of the claim for compensation, either:
 
-                     (a)  the claimant has given to the Chief Executive Medicare a statement under section 18; or
+                     (a)  the claimant has given to the Medicare Australia CEO a statement under section 18; or
 
                      (b)  the period for giving the statement has expired;
 
-the Chief Executive Medicare may give to the notifiable person a notice under this section.
+the Medicare Australia CEO may give to the notifiable person a notice under this section.
 
              (2)  The notice must set out:
 
@@ -760,11 +762,11 @@ the Chief Executive Medicare may give to the notifiable person a notice under th
 
                      (b)  the total amount of eligible benefits paid by the Commonwealth, during that period, in respect of services and care rendered or provided in the course of treatment of, or as a result of, the injury the claimant claims to have suffered.
 
-             (3)  If the claimant had given to the Chief Executive Medicare a statement under section 18 prior to the Chief Executive Medicare giving the notice, the notice must not, in relation to the period covered by the statement, take account of any eligible benefits that were paid in respect of services or care not specified in the statement.
+             (3)  If the claimant had given to the Medicare Australia CEO a statement under section 18 prior to the Medicare Australia CEO giving the notice, the notice must not, in relation to the period covered by the statement, take account of any eligible benefits that were paid in respect of services or care not specified in the statement.
 
              (4)  Without limiting the matters that the notice may include, it may include information about amounts that may become payable to the Commonwealth under this Act or the Charges Act in respect of the amount of compensation in question.
 
-             (5)  Without limiting the matters that the notice may include, it may include a statement to the effect that, if an amount of compensation is fixed under a judgment or settlement made in respect of the claim within 6 months after the notice was given, the notice is taken to be a notice of charge under section 24, given by the Chief Executive Medicare on the day on which the compensation is fixed.
+             (5)  Without limiting the matters that the notice may include, it may include a statement to the effect that, if an amount of compensation is fixed under a judgment or settlement made in respect of the claim within 6 months after the notice was given, the notice is taken to be a notice of charge under section 24, given by the Medicare Australia CEO on the day on which the compensation is fixed.
 
              (6)  If a notice contains a statement of a kind referred to in subsection (5), it must also contain a statement to the effect that, subject to subsection (7), if:
 
@@ -788,29 +790,29 @@ the amount specified in the notice as payable to the Commonwealth is reduced by 
 
 the past expenses component is taken to be the amount specified in the notice as payable to the Commonwealth.
 
-             (8)  Without limiting the matters that the notice may include, it may include a statement to the effect that if a reimbursement arrangement is made in respect of the claim, the notice is taken to be a notice of charge under section 25, given by the Chief Executive Medicare on:
+             (8)  Without limiting the matters that the notice may include, it may include a statement to the effect that if a reimbursement arrangement is made in respect of the claim, the notice is taken to be a notice of charge under section 25, given by the Medicare Australia CEO on:
 
-                     (a)  if the reimbursement arrangement was made before the Chief Executive Medicare gives the notice to the notifiable person—the day on which the Chief Executive Medicare gives the notice to the notifiable person; or
+                     (a)  if the reimbursement arrangement was made before the Medicare Australia CEO gives the notice to the notifiable person—the day on which the Medicare Australia CEO gives the notice to the notifiable person; or
 
                      (b)  in any other case—the day on which the reimbursement arrangement is made.
 
-             (9)  The Chief Executive Medicare must give a copy of any such notice to the claimant.
+             (9)  The Medicare Australia CEO must give a copy of any such notice to the claimant.
 
-           (10)  The Chief Executive Medicare may give more than one notice to the notifiable person in respect of the same claim for compensation.
+           (10)  The Medicare Australia CEO may give more than one notice to the notifiable person in respect of the same claim for compensation.
 
-           (11)  Subject to subsection (13), the claimant or the notifiable person may request the Chief Executive Medicare to give the notifiable person a notice.
+           (11)  Subject to subsection (13), the claimant or the notifiable person may request the Medicare Australia CEO to give the notifiable person a notice.
 
-           (12)  The Chief Executive Medicare must comply with such a request:
+           (12)  The Medicare Australia CEO must comply with such a request:
 
                      (a)  if, at the time the request was made, the claimant had been given a notice under section 17 with which he or she had not yet complied but the period for compliance had not expired—within 28 days after he or she complies or within 28 days after the period for compliance expires, whichever happens first; or
 
-                     (b)  if the Chief Executive Medicare gives to the claimant a notice under section 17 within 28 days after the request was made—within 28 days after the claimant complies with the notice, or within 28 days after the period for compliance expires, whichever happens first; or
+                     (b)  if the Medicare Australia CEO gives to the claimant a notice under section 17 within 28 days after the request was made—within 28 days after the claimant complies with the notice, or within 28 days after the period for compliance expires, whichever happens first; or
 
                      (c)  in any other case—within 28 days after the request was made.
 
            (13)  Subsection (11) does not apply if:
 
-                     (a)  the Chief Executive Medicare had given the notifiable person a notice within the period of 6 months prior to the request; or
+                     (a)  the Medicare Australia CEO had given the notifiable person a notice within the period of 6 months prior to the request; or
 
                      (b)  a judgment has been made in respect of the claim for compensation.
 
@@ -820,19 +822,19 @@ the past expenses component is taken to be the amount specified in the notice as
 
                      (a)  the notifiable person has informed the compensable person that the compensable person may be liable to pay amounts under this Act or the Charges Act as a result of the settlement being made; or
 
-                     (b)  the Chief Executive Medicare has, within the 6 months prior to the day on which an amount of compensation was fixed under the settlement, given to the notifiable person a notice under section 21 in respect of the claim.
+                     (b)  the Medicare Australia CEO has, within the 6 months prior to the day on which an amount of compensation was fixed under the settlement, given to the notifiable person a notice under section 21 in respect of the claim.
 
              (2)  For the purposes of this section, payment of an amount into a court is taken to constitute the making of a settlement.
 
              (3)  Subsection (1) is taken not to have been complied with in relation to the payment of an amount into a court unless, at the time of the payment, the notifiable person lodges with the court a copy of the notice under section 21 in respect of the claim.
 
-##### <a id="23"></a>23  Notice of judgment or settlement<span style="font-size:9.0pt;font-weight:normal"> </span>
+##### <a id="23"></a>23  Notice of judgment or settlement<span style="font-size:9.0pt;font-weight:normal"> </span>
 
-             (1)  The notifiable person must notify the Chief Executive Medicare in writing if a judgment or settlement has been made in respect of the claim.
+             (1)  The notifiable person must notify the Medicare Australia CEO in writing if a judgment or settlement has been made in respect of the claim.
 
              (2)  The notice must be given within 28 days after the judgment or settlement is made.
 
-             (3)  The notice given to the Chief Executive Medicare under subsection (1) must contain the following information:
+             (3)  The notice given to the Medicare Australia CEO under subsection (1) must contain the following information:
 
                      (a)  the compensable person’s name, address and date of birth; and
 
@@ -854,7 +856,7 @@ the past expenses component is taken to be the amount specified in the notice as
 
                      (h)  such other information as is prescribed by the regulations made for the purposes of this subsection.
 
-          (3A)  If the amount of compensation payable to a claimant is fixed as provided for in paragraph 3(4)(c) then, when that amount is ascertained, the notifiable person must give to the Chief Executive Medicare a further notice in writing that:
+          (3A)  If the amount of compensation payable to a claimant is fixed as provided for in paragraph 3(4)(c) then, when that amount is ascertained, the notifiable person must give to the Medicare Australia CEO a further notice in writing that:
 
                      (a)  states that the amount has been ascertained; and
 
@@ -868,7 +870,7 @@ the past expenses component is taken to be the amount specified in the notice as
 
                      (b)  as a result, the amount of compensation is less than it would have been if liability had not been so apportioned;
 
-a notice given to the Chief Executive Medicare under subsection (1) or (3A) must also state by how much, expressed as a percentage, the amount of compensation has been reduced as a result of the apportionment.
+a notice given to the Medicare Australia CEO under subsection (1) or (3A) must also state by how much, expressed as a percentage, the amount of compensation has been reduced as a result of the apportionment.
 
              (5)  If the amount of compensation is fixed by a judgment that specifies an amount (the **_past expenses component_**), being a portion of the amount of compensation, to be a component for either or both of the following:
 
@@ -876,7 +878,7 @@ a notice given to the Chief Executive Medicare under subsection (1) or (3A) mu
 
                      (b)  the expenses in respect of nursing home care or residential care already incurred relating to the injury;
 
-the notice given to the Chief Executive Medicare under subsection (1) or (3A) as the case may be, must state the past expenses component and (if applicable) the proportion of the past expenses component applicable to expenses of a kind referred to in paragraphs (a) and (b) respectively.
+the notice given to the Medicare Australia CEO under subsection (1) or (3A) as the case may be, must state the past expenses component and (if applicable) the proportion of the past expenses component applicable to expenses of a kind referred to in paragraphs (a) and (b) respectively.
 
           (5A)  If:
 
@@ -884,7 +886,7 @@ the notice given to the Chief Executive Medicare under subsection (1) or (3A) 
 
                      (b)  notice of the judgment or settlement had already been given under subsection (1) before that commencement;
 
-the notifiable person may, within 28 days after that commencement, give to the Chief Executive Medicare a further notice in writing that contains all of the information and other matters that a notice under subsection (1) is required to contain under this section (as in force after that commencement).
+the notifiable person may, within 28 days after that commencement, give to the Medicare Australia CEO a further notice in writing that contains all of the information and other matters that a notice under subsection (1) is required to contain under this section (as in force after that commencement).
 
              (6)  A notice under subsection (1) or (3A) must be signed by the notifiable person and the compensable person.
 
@@ -902,47 +904,47 @@ the notifiable person may, within 28 days after that commencement, give to the C
 
                      (a)  an amount of compensation has been fixed under a judgment or settlement made in respect of the claim; and
 
-                     (b)  the Chief Executive Medicare has received a notice under subsection 23(1) or (3A) in relation to the amount of compensation fixed under the judgment or settlement; and
+                     (b)  the Medicare Australia CEO has received a notice under subsection 23(1) or (3A) in relation to the amount of compensation fixed under the judgment or settlement; and
 
-                     (c)  the Chief Executive Medicare has not given the notifiable person a notice under section 21 in respect of the claim during the 6 month period ending when the amount of compensation was fixed under the judgment or settlement; and
+                     (c)  the Medicare Australia CEO has not given the notifiable person a notice under section 21 in respect of the claim during the 6 month period ending when the amount of compensation was fixed under the judgment or settlement; and
 
                      (d)  either:
 
-                              (i)  the Chief Executive Medicare has not given the notifiable person a notice under section 21 in respect of the claim before the start of the 6 month period and, as at the date that the amount of compensation was fixed under the judgment or settlement, the Commonwealth has paid no eligible benefits  in respect of services and care rendered or provided in the course of treatment of, or as a result of, the injury the claimant claims to have suffered; or
+                              (i)  the Medicare Australia CEO has not given the notifiable person a notice under section 21 in respect of the claim before the start of the 6 month period and, as at the date that the amount of compensation was fixed under the judgment or settlement, the Commonwealth has paid no eligible benefits  in respect of services and care rendered or provided in the course of treatment of, or as a result of, the injury the claimant claims to have suffered; or
 
-                             (ii)  the Chief Executive Medicare has given the notifiable person one or more such notices before the start of the 6 month period and, as at the date that the amount of compensation was fixed under the judgment or settlement, the Commonwealth has paid no eligible benefits  of the kind mentioned in subparagraph (i), other than those set out in the most recent of those notices.
+                             (ii)  the Medicare Australia CEO has given the notifiable person one or more such notices before the start of the 6 month period and, as at the date that the amount of compensation was fixed under the judgment or settlement, the Commonwealth has paid no eligible benefits  of the kind mentioned in subparagraph (i), other than those set out in the most recent of those notices.
 
-             (2)  The claimant  may give a statement under this section to the Chief Executive Medicare specifying that:
+             (2)  The claimant  may give a statement under this section to the Medicare Australia CEO specifying that:
 
                      (a)  if subparagraph (1)(d)(i) applies—as at the day that the amount of compensation was fixed under the judgment or settlement, the Commonwealth has paid no eligible benefits  in respect of services and care rendered or provided in the course of treatment of, or as a result of, the injury the claimant claims to have suffered; or
 
                      (b)  if subparagraph (1)(d)(ii) applies—as at the day that the amount of compensation was fixed under the judgment or settlement, the Commonwealth has paid no eligible benefits  in respect of services and care rendered or provided in the course of treatment of, or as a result of, the injury the claimant claims to have suffered, other than those set out in the most recent of the notices mentioned in that subparagraph.
 
-Note:          The Chief Executive Medicare will take account of the information in the statement in specifying in a notice under section 24 the amount (if any) payable to the Commonwealth.
+Note:          The Medicare Australia CEO will take account of the information in the statement in specifying in a notice under section 24 the amount (if any) payable to the Commonwealth.
 
-             (3)  The statement must also contain any other information specified in a determination in writing made by the Chief Executive Medicare for the purposes of this subsection.
+             (3)  The statement must also contain any other information specified in a determination in writing made by the Medicare Australia CEO for the purposes of this subsection.
 
              (4)  The statement must be verified by statutory declaration.
 
 ##### <a id="23B"></a>23B  Notice of statement that is not substantially correct
 
-             (1)  If the Chief Executive Medicare is satisfied that a statement given to the Chief Executive Medicare under section 18 or 23A or this section is not substantially correct, the Chief Executive Medicare must give to the claimant a written notice:
+             (1)  If the Medicare Australia CEO is satisfied that a statement given to the Medicare Australia CEO under section 18 or 23A or this section is not substantially correct, the Medicare Australia CEO must give to the claimant a written notice:
 
                      (a)  specifying that the statement is not substantially correct; and
 
                      (b)  requiring the claimant to give an amended statement that is substantially correct; and
 
-                     (c)  stating the period within which the claimant is required to give the amended statement to the Chief Executive Medicare.
+                     (c)  stating the period within which the claimant is required to give the amended statement to the Medicare Australia CEO.
 
              (2)  The notice must be given:
 
-                     (a)  unless paragraph (b) applies—within 28 days after the statement under section 18 or 23A or this section was given to the Chief Executive Medicare; or
+                     (a)  unless paragraph (b) applies—within 28 days after the statement under section 18 or 23A or this section was given to the Medicare Australia CEO; or
 
-                     (b)  if an advance payment has been made to the Commonwealth under section 33B in relation to a judgment or settlement in respect of the claim—before the last day on which the Chief Executive Medicare could give the compensable person a notice under section 33C in relation to the payment.
+                     (b)  if an advance payment has been made to the Commonwealth under section 33B in relation to a judgment or settlement in respect of the claim—before the last day on which the Medicare Australia CEO could give the compensable person a notice under section 33C in relation to the payment.
 
-             (3)  The claimant must give to the Chief Executive Medicare the statement required by the notice within the period of 28 days after being given the notice.
+             (3)  The claimant must give to the Medicare Australia CEO the statement required by the notice within the period of 28 days after being given the notice.
 
-             (4)  In deciding whether a statement is substantially correct, the Chief Executive Medicare may have regard to:
+             (4)  In deciding whether a statement is substantially correct, the Medicare Australia CEO may have regard to:
 
                      (a)  the date on which the compensable person suffered the injury; and
 
@@ -954,7 +956,7 @@ Note:          The Chief Executive Medicare will take account 
 
                      (e)  expert medical opinion about the treatment that is usual or may reasonably be expected in relation to injuries of that kind; and
 
-                      (f)  any other matter that the Chief Executive Medicare considers relevant.
+                      (f)  any other matter that the Medicare Australia CEO considers relevant.
 
              (5)  A reference in subsection (4) to the treatment of the injury includes a reference to the provision of nursing home care or residential care as a result of the injury.
 
@@ -962,13 +964,13 @@ Note:          The Chief Executive Medicare will take account 
 
 ##### <a id="23C"></a>23C  Notice of acceptance of amended statement
 
-             (1)  If the Chief Executive Medicare accepts an amended statement under section 23B as being substantially correct, the Chief Executive Medicare must, as soon as practicable after accepting the statement, notify the claimant, in writing, accordingly.
+             (1)  If the Medicare Australia CEO accepts an amended statement under section 23B as being substantially correct, the Medicare Australia CEO must, as soon as practicable after accepting the statement, notify the claimant, in writing, accordingly.
 
-             (2)  An amended statement given to the Chief Executive Medicare under section 23B is taken to have been accepted by the Chief Executive Medicare as being substantially correct if, within 28 days after the Chief Executive Medicare is given the statement, a notice under subsection 23B(1) in relation to the statement is not given to the claimant.
+             (2)  An amended statement given to the Medicare Australia CEO under section 23B is taken to have been accepted by the Medicare Australia CEO as being substantially correct if, within 28 days after the Medicare Australia CEO is given the statement, a notice under subsection 23B(1) in relation to the statement is not given to the claimant.
 
 ##### <a id="23D"></a>23D  Review of decision under section 23B by the Administrative Appeals Tribunal
 
-             (1)  Application may be made to the Administrative Appeals Tribunal for review of a decision by the Chief Executive Medicare that a statement under section 18 or 23A, or an amended statement under section 23B, is not substantially correct.
+             (1)  Application may be made to the Administrative Appeals Tribunal for review of a decision by the Medicare Australia CEO that a statement under section 18 or 23A, or an amended statement under section 23B, is not substantially correct.
 
 Note:          Section 27A of the _Administrative Appeals Tribunal Act 1975_ requires the decision‑maker to notify persons whose interests are affected by the decision of the making of the decision and their right to have the decision reviewed. In so notifying, the decision‑maker must have regard to the Code of Practice determined under section 27B of that Act.
 
@@ -976,7 +978,7 @@ Note:          Section 27A of the _Administrative Appeals Tr
 
 ##### <a id="24"></a>24  Notice of charge—claims resulting in judgments or settlements<span style="font-size:9.0pt;font-weight:normal"> </span>
 
-             (1)  Subject to subsection (1A), if the Chief Executive Medicare receives a notice under subsection 23(1), the Chief Executive Medicare must give to:
+             (1)  Subject to subsection (1A), if the Medicare Australia CEO receives a notice under subsection 23(1), the Medicare Australia CEO must give to:
 
                      (a)  if the notifiable person in relation to the claim for compensation from which the judgment or settlement resulted is an insurer—that insurer; or
 
@@ -990,15 +992,15 @@ written notice specifying the sum of the amounts (if any) that are payable to th
 
              (3)  The notice must not, in relation to any period covered by a notice under section 21 in respect of the claim, take account of any eligible benefits that were paid in respect of services or care not specified in the notice under section 21.
 
-             (4)  The Chief Executive Medicare must give the notice to the notifiable person:
+             (4)  The Medicare Australia CEO must give the notice to the notifiable person:
 
-                     (a)  if the Chief Executive Medicare had not given a notice under section 21, in respect of the claim for compensation, during the 6 months preceding the day on which the amount of compensation was fixed under the judgment or settlement—within 3 months after the Chief Executive Medicare receives the notice under subsection 23(1); or
+                     (a)  if the Medicare Australia CEO had not given a notice under section 21, in respect of the claim for compensation, during the 6 months preceding the day on which the amount of compensation was fixed under the judgment or settlement—within 3 months after the Medicare Australia CEO receives the notice under subsection 23(1); or
 
-                     (b)  otherwise—within 28 days after the Chief Executive Medicare receives the notice under subsection 23(1).
+                     (b)  otherwise—within 28 days after the Medicare Australia CEO receives the notice under subsection 23(1).
 
-             (5)  The Chief Executive Medicare must give a copy of the notice to the compensable person.
+             (5)  The Medicare Australia CEO must give a copy of the notice to the compensable person.
 
-             (6)  A notice under section 21 is taken also to be a notice under this section given by the Chief Executive Medicare to the insurer or compensation payer (as the case requires) on the day on which the amount of compensation is fixed under the judgment or settlement if:
+             (6)  A notice under section 21 is taken also to be a notice under this section given by the Medicare Australia CEO to the insurer or compensation payer (as the case requires) on the day on which the amount of compensation is fixed under the judgment or settlement if:
 
                      (a)  the notice under section 21 includes statements of the kinds referred to in subsections 21(5), (6) and (7); and
 
@@ -1032,7 +1034,7 @@ the past expenses component is taken to be the amount set out for the purpose of
 
 ##### <a id="25"></a>25  Notice of charge—claims resulting in reimbursement arrangements 
 
-             (1)  If the Chief Executive Medicare receives a notice under section 13, the Chief Executive Medicare may give to:
+             (1)  If the Medicare Australia CEO receives a notice under section 13, the Medicare Australia CEO may give to:
 
                      (a)  if the notifiable person in relation to the claim for compensation from which the reimbursement arrangement referred to in section 13 resulted is an insurer—that insurer; or
 
@@ -1044,33 +1046,33 @@ written notice specifying the sum of the amounts (if any) that are payable to th
 
              (3)  The notice must not, in relation to any period covered by a notice under section 21 in respect of the claim, take account of any eligible benefits that were paid in respect of services or care not specified in the notice under section 21.
 
-             (4)  Subject to subsection (5), the Chief Executive Medicare must give any such notice to the notifiable person within 3 months after the Chief Executive Medicare receives the notice under section 13.
+             (4)  Subject to subsection (5), the Medicare Australia CEO must give any such notice to the notifiable person within 3 months after the Medicare Australia CEO receives the notice under section 13.
 
-             (5)  If, under subsection 18(3) or 19(3), the claimant has been granted an extension of the period for making a statement under section 18 in relation to the claim for compensation, the Chief Executive Medicare must give any such notice to the notifiable person:
+             (5)  If, under subsection 18(3) or 19(3), the claimant has been granted an extension of the period for making a statement under section 18 in relation to the claim for compensation, the Medicare Australia CEO must give any such notice to the notifiable person:
 
-                     (a)  within 3 months after the Chief Executive Medicare receives the notice under section 13; or
+                     (a)  within 3 months after the Medicare Australia CEO receives the notice under section 13; or
 
-                     (b)  within 60 days after the claimant has given a statement to the Chief Executive Medicare under section 18;
+                     (b)  within 60 days after the claimant has given a statement to the Medicare Australia CEO under section 18;
 
 whichever period ends later.
 
-             (6)  The Chief Executive Medicare must give a copy of the notice to the compensable person.
+             (6)  The Medicare Australia CEO must give a copy of the notice to the compensable person.
 
-             (7)  A notice under section 21 is taken also to be a notice under this section given by the Chief Executive Medicare to the insurer or compensation payer (as the case requires), on a day worked out in accordance with subsection (8), if:
+             (7)  A notice under section 21 is taken also to be a notice under this section given by the Medicare Australia CEO to the insurer or compensation payer (as the case requires), on a day worked out in accordance with subsection (8), if:
 
                      (a)  the notice under section 21 includes a statement of a kind referred to in subsection 21(8); and
 
                      (b)  a reimbursement arrangement has been made in relation to the claim.
 
-             (8)  If subsection (7) applies, the notice is taken to have been given by the Chief Executive Medicare on:
+             (8)  If subsection (7) applies, the notice is taken to have been given by the Medicare Australia CEO on:
 
-                     (a)  if the reimbursement arrangement was made before the Chief Executive Medicare gives the notice to the notifiable person—the day on which the Chief Executive Medicare gives the notice to the notifiable person; or
+                     (a)  if the reimbursement arrangement was made before the Medicare Australia CEO gives the notice to the notifiable person—the day on which the Medicare Australia CEO gives the notice to the notifiable person; or
 
                      (b)  in any other case—the day on which the reimbursement arrangement is made.
 
 ##### <a id="26"></a>26  Offences
 
-             (1)  A person must not refuse or fail to comply with a requirement of section 13 or 23 that the person give a notice to the Chief Executive Medicare under that section.
+             (1)  A person must not refuse or fail to comply with a requirement of section 13 or 23 that the person give a notice to the Medicare Australia CEO under that section.
 
                     Penalty:  Imprisonment for 6 months.
 
@@ -1082,7 +1084,7 @@ Note:          The defendant bears an evidential burden in rel
 
 Note:          For strict liability, see section 6.1 of the _Criminal Code_.
 
-             (3)  For the purposes of subsection (1A), a person is not taken to have reasonable excuse for refusing or failing to comply with a requirement of section 13 or 23 to give a notice to the Chief Executive Medicare only because:
+             (3)  For the purposes of subsection (1A), a person is not taken to have reasonable excuse for refusing or failing to comply with a requirement of section 13 or 23 to give a notice to the Medicare Australia CEO only because:
 
                      (a)  the information required to be contained in the notice is, or could be, subject to a claim of privilege that would prevent the information being given in evidence in proceedings before a court or tribunal; or
 
@@ -1104,7 +1106,7 @@ cannot be used against the person. However, this subsection does not apply to a 
 
              (6)  If:
 
-                     (a)  a person gives a notice to the Chief Executive Medicare under section 13 or 23; and
+                     (a)  a person gives a notice to the Medicare Australia CEO under section 13 or 23; and
 
                      (b)  in so doing, the person would, apart from this section, contravene an Australian law;
 
@@ -1128,9 +1130,9 @@ the sum of all the amounts that are payable under this Act or the Charges Act in
 
 ##### <a id="28"></a>28  Payments to the Commonwealth
 
-             (1)  If the Chief Executive Medicare gives to a compensation payer a notice under section 24 or 25, the compensation payer must pay to the Commonwealth the amount specified in the notice within 28 days after the day on which the notice was given.
+             (1)  If the Medicare Australia CEO gives to a compensation payer a notice under section 24 or 25, the compensation payer must pay to the Commonwealth the amount specified in the notice within 28 days after the day on which the notice was given.
 
-             (2)  If the Chief Executive Medicare gives to an insurer a notice under section 24 or 25, the insurer must pay to the Commonwealth the amount specified in the notice within 28 days after the day on which the notice was given.
+             (2)  If the Medicare Australia CEO gives to an insurer a notice under section 24 or 25, the insurer must pay to the Commonwealth the amount specified in the notice within 28 days after the day on which the notice was given.
 
                     Penalty:  Imprisonment for 12 months.
 
@@ -1196,11 +1198,11 @@ until the amount is paid to the Commonwealth, or until the end of the 28 day per
 
 ##### <a id="32"></a>32  Offence to make payment before discharging liability to the Commonwealth
 
-             (1)  If a judgment or settlement has been made in respect of an amount of compensation, a compensation payer or insurer must not pay to the compensable person any part of the compensation before the Chief Executive Medicare has issued a notice under section 24 unless:
+             (1)  If a judgment or settlement has been made in respect of an amount of compensation, a compensation payer or insurer must not pay to the compensable person any part of the compensation before the Medicare Australia CEO has issued a notice under section 24 unless:
 
-                     (a)  the time within which the Chief Executive Medicare must issue such a notice has expired; and
+                     (a)  the time within which the Medicare Australia CEO must issue such a notice has expired; and
 
-                     (b)  if the Chief Executive Medicare had given a notice under section 21, in respect of the claim for compensation, during the 6 months preceding the the day on which an amount of compensation was fixed under the judgment or settlement—the insurer or compensation payer withholds from the compensable person an amount of compensation equal to the amount set out in the notice under paragraph 21(2)(b).
+                     (b)  if the Medicare Australia CEO had given a notice under section 21, in respect of the claim for compensation, during the 6 months preceding the the day on which an amount of compensation was fixed under the judgment or settlement—the insurer or compensation payer withholds from the compensable person an amount of compensation equal to the amount set out in the notice under paragraph 21(2)(b).
 
                     Penalty:  Imprisonment for 12 months.
 
@@ -1306,7 +1308,7 @@ Note:          For **_small amount_** see section 38.
 
 ##### <a id="33C"></a>33C  Notice of past benefits
 
-             (1)  If a compensation payer or insurer makes an advance payment, the Chief Executive Medicare must give to the compensable person a written notice setting out the total amount of eligible benefits paid by the Commonwealth in respect of services and care rendered or provided in the course of treatment of, or as a result of, the compensable person’s injury.
+             (1)  If a compensation payer or insurer makes an advance payment, the Medicare Australia CEO must give to the compensable person a written notice setting out the total amount of eligible benefits paid by the Commonwealth in respect of services and care rendered or provided in the course of treatment of, or as a result of, the compensable person’s injury.
 
              (2)  The notice must not, in relation to the period covered by a statement given under section 18, take account of any eligible benefits that were paid in respect of services or care not specified in:
 
@@ -1318,23 +1320,23 @@ Note:          For **_small amount_** see section 38.
 
              (1)  Subject to subsections (2) and (3), the notice under section 33C must be given within 3 months after:
 
-                     (a)  the Chief Executive Medicare receives notice under section 23 indicating that the compensation payer or insurer intends to make an advance payment; or
+                     (a)  the Medicare Australia CEO receives notice under section 23 indicating that the compensation payer or insurer intends to make an advance payment; or
 
                      (b)  the advance payment is made;
 
 whichever is the later.
 
-             (2)  If the Chief Executive Medicare gives a notice under subsection 23B(1) to the compensable person, the notice under section 33C need not be given until:
+             (2)  If the Medicare Australia CEO gives a notice under subsection 23B(1) to the compensable person, the notice under section 33C need not be given until:
 
                      (a)  the end of the 3 month period referred to in subsection (1); or
 
-                     (b)  the end of the period of 28 days after the Chief Executive Medicare accepts an amended statement under section 23B as being substantially correct;
+                     (b)  the end of the period of 28 days after the Medicare Australia CEO accepts an amended statement under section 23B as being substantially correct;
 
 whichever is the later.
 
              (3)  If:
 
-                     (a)  the Chief Executive Medicare has not given a notice under subsection 23B(1) to the compensable person; and
+                     (a)  the Medicare Australia CEO has not given a notice under subsection 23B(1) to the compensable person; and
 
                      (b)  the period for giving a statement under section 18 has been extended under subsection 18(3); and
 
@@ -1346,7 +1348,7 @@ the notice under section 33C must be given within 28 days after that date of e
 
              (1)  If the amount specified in the notice under section 33C is less than the amount of the advance payment, the difference is payable by the Commonwealth to the compensable person.
 
-             (2)  The difference is payable on the last day on which the Chief Executive Medicare is required under section 33D to give the notice to the compensable person.
+             (2)  The difference is payable on the last day on which the Medicare Australia CEO is required under section 33D to give the notice to the compensable person.
 
              (3)  An amount payable under this section is recoverable as a debt due to the compensable person.
 
@@ -1366,7 +1368,7 @@ the notice under section 33C must be given within 28 days after that date of e
 
 ##### <a id="33K"></a>33K  Payment of the whole of the advance payment
 
-             (1)  If the Chief Executive Medicare does not give a notice under section 33C to the compensable person on or before the day on which the Chief Executive Medicare is required to do so, the whole of the advance payment is payable by the Commonwealth to the compensable person on that day.
+             (1)  If the Medicare Australia CEO does not give a notice under section 33C to the compensable person on or before the day on which the Medicare Australia CEO is required to do so, the whole of the advance payment is payable by the Commonwealth to the compensable person on that day.
 
              (2)  The payment of the whole of the advance payment operates as a discharge of the compensable person’s liability to pay to the Commonwealth amounts payable under this Act or the Charges Act in respect of the compensation payable under the judgment or settlement in question.
 
@@ -1402,13 +1404,13 @@ despite that law, the compensation payer or insurer is not liable to pay that in
 
 ##### <a id="34"></a>34  Bulk payment agreements
 
-             (1)  The Chief Executive Medicare may, on behalf of the Commonwealth, at any time after 18 months following the commencement of this Act, enter into an agreement with a person that contains provisions to the effect that:
+             (1)  The Medicare Australia CEO may, on behalf of the Commonwealth, at any time after 18 months following the commencement of this Act, enter into an agreement with a person that contains provisions to the effect that:
 
                      (a)  the person will pay the Commonwealth a specified amount; and
 
                      (b)  the person will:
 
-                              (i)  give the Chief Executive Medicare information of a kind specified in a determination made by the Chief Executive Medicare under subsection (2); and
+                              (i)  give the Medicare Australia CEO information of a kind specified in a determination made by the Medicare Australia CEO under subsection (2); and
 
                              (ii)  give the information in a way specified in the determination; and
 
@@ -1424,7 +1426,7 @@ despite that law, the compensation payer or insurer is not liable to pay that in
 
                              (v)  the compensable person concerned will be, to the extent provided for in subsections 8(6), (7) and (8) of the Charges Act, exempt from section 8 of that Act in respect of the injury to which the claim relates.
 
-             (2)  The Chief Executive Medicare may determine in writing:
+             (2)  The Medicare Australia CEO may determine in writing:
 
                      (a)  the kinds of information that must be given; and
 
@@ -1448,7 +1450,7 @@ for the purposes of provisions of a kind referred to in paragraph (1)(b).
 
              (1)  Subject to this section and section 37, during the period of a bulk payment agreement, Divisions 1 and 2 do not apply in relation to a claim if:
 
-                     (a)  the notifiable person in relation to the claim has entered into the bulk payment agreement with the Chief Executive Medicare; and
+                     (a)  the notifiable person in relation to the claim has entered into the bulk payment agreement with the Medicare Australia CEO; and
 
                      (b)  the notifiable person has complied with all the conditions of the bulk payment agreement.
 
@@ -1460,7 +1462,7 @@ for the purposes of provisions of a kind referred to in paragraph (1)(b).
 
              (1)  Subject to this section and section 37, Divisions 1 and 2 do not apply in relation to a claim for compensation if:
 
-                     (a)  the notifiable person in relation to the claim has entered into a bulk payment agreement with the Chief Executive Medicare; and
+                     (a)  the notifiable person in relation to the claim has entered into a bulk payment agreement with the Medicare Australia CEO; and
 
                      (b)  the notifiable person has complied with all the conditions of the bulk payment agreement; and
 
@@ -1530,37 +1532,37 @@ for the purposes of provisions of a kind referred to in paragraph (1)(b).
 
 ##### <a id="39"></a>39  General administration of Act
 
-                   The Chief Executive Medicare has the general administration of this Act, other than Division 2 of Part 2.
+                   The Medicare Australia CEO has the general administration of this Act, other than Division 2 of Part 2.
 
-##### <a id="40"></a>40  Additional functions of the Chief Executive Medicare
+##### <a id="40"></a>40  Additional functions of the Medicare Australia CEO
 
-             (1)  In addition to the functions of the Chief Executive Medicare under the _Human Services (Medicare) Act 1973_, the Chief Executive Medicare has such additional functions as are conferred on the Chief Executive Medicare under this Act.
+             (1)  In addition to the functions of the Medicare Australia CEO under the _Medicare Australia Act 1973_, the Medicare Australia CEO has such additional functions as are conferred on the Medicare Australia CEO under this Act.
 
-             (2)  Anything done by or on behalf of the Chief Executive Medicare in the performance of such additional functions is taken, for all purposes, to have been done in the performance of his or her functions under the _Human Services (Medicare) Act 1973_.
+             (2)  Anything done by or on behalf of the Medicare Australia CEO in the performance of such additional functions is taken, for all purposes, to have been done in the performance of his or her functions under the _Medicare Australia Act 1973_.
 
 ##### <a id="41"></a>41  Delegation
 
-             (1)  The Chief Executive Medicare may delegate any of his or her powers under this Act to:
+             (1)  The Medicare Australia CEO may delegate any of his or her powers under this Act to:
 
-                     (a)  a Departmental employee (within the meaning of the _Human Services (Medicare) Act 1973_); or
+                     (a)  an employee of Medicare Australia; or
 
                      (b)  a person occupying, or performing the duties of, an office in the Department.
 
-             (2)  The power of delegation under subsection (1) does not affect any power of delegation that the Chief Executive Medicare has under the _Human Services (Medicare) Act 1973_.
+             (2)  The power of delegation under subsection (1) does not affect any power of delegation that the Medicare Australia CEO has under the _Medicare Australia Act 1973_.
 
              (3)  The Secretary may delegate any of the Secretary’s powers under this Act to:
 
                      (a)  a person occupying, or performing the duties of, an office in the Department; or
 
-                     (b)  the Chief Executive Medicare; or
+                     (b)  the Medicare Australia CEO; or
 
-                     (c)  a Departmental employee (within the meaning of the _Human Services (Medicare) Act 1973_).
+                     (c)  an employee of Medicare Australia.
 
 ### Division 2—Power to obtain information
 
-##### <a id="42"></a>42  Chief Executive Medicare etc. may obtain information etc.<span style="font-size:9.0pt;font-weight:normal"> </span>
+##### <a id="42"></a>42  Medicare Australia CEO etc. may obtain information etc.<span style="font-size:9.0pt;font-weight:normal"> </span>
 
-             (1)  The Chief Executive Medicare or an authorised officer may require a person to give information or produce a document that is in the person’s custody, or under the person’s control, if the Chief Executive Medicare or authorised officer believes on reasonable grounds that the information or document may be relevant to the question of:
+             (1)  The Medicare Australia CEO or an authorised officer may require a person to give information or produce a document that is in the person’s custody, or under the person’s control, if the Medicare Australia CEO or authorised officer believes on reasonable grounds that the information or document may be relevant to the question of:
 
                      (a)  whether a claim for compensation has been made; or
 
@@ -1588,9 +1590,9 @@ Note:          Sections 28A and 29 of the _Acts Interpretati
 
                     <a name="authorised-offic"></a>**_authorised officer_** means:
 
-                     (a)  a person who is appointed under section 8M of the _Human Services (Medicare) Act 1973_ and whose powers under that appointment include the powers under Division 2 of Part IID of that Act; or
+                     (a)  a person who is appointed under section 8M of the _Medicare Australia Act 1973_ and whose powers under that appointment include the powers under Division 2 of Part IID of that Act; or
 
-                     (b)  a Departmental employee (within the meaning of the _Human Services (Medicare) Act 1973_), or a person holding or performing the duties of an office in the Department, who is appointed by the Chief Executive Medicare, by signed instrument, to be an authorised officer for the purposes of this section.
+                     (b)  an employee of Medicare Australia, or a person holding or performing the duties of an office in the Department, who is appointed by the Medicare Australia CEO, by signed instrument, to be an authorised officer for the purposes of this section.
 
 ##### <a id="43"></a>43  Content of notices
 
@@ -1600,17 +1602,17 @@ Note:          Sections 28A and 29 of the _Acts Interpretati
 
                      (b)  the period within which the person is to give the information, or to produce the document; and
 
-                     (c)  the Departmental employee (within the meaning of the _Human Services (Medicare) Act 1973_) (if any) to whom the information is to be given or the document is to be produced; and
+                     (c)  the employee of Medicare Australia (if any) to whom the information is to be given or the document is to be produced; and
 
                      (d)  that the notice is given under section 42.
 
              (2)  The period specified under paragraph (1)(b) must end at least 28 days after the notice is given.
 
-             (3)  The notice may require the person to give the information by appearing before a specified Departmental employee (within the meaning of the _Human Services (Medicare) Act 1973_) to answer questions.
+             (3)  The notice may require the person to give the information by appearing before a specified employee of Medicare Australia to answer questions.
 
              (4)  If the notice requires the person to appear before an officer, the notice must specify a time and a place for the person to appear. The time must be at least 28 days after the notice is given.
 
-             (5)  A reference in this section to a Departmental employee (within the meaning of the _Human Services (Medicare) Act 1973_) includes a reference to a person to whom the Chief Executive Medicare or the Secretary has delegated powers under section 41.
+             (5)  A reference in this section to an employee of Medicare Australia includes a reference to a person to whom the Medicare Australia CEO or the Secretary has delegated powers under section 41.
 
 ##### <a id="44"></a>44  Offences
 
@@ -1648,11 +1650,11 @@ cannot be used against the person. However, this subsection does not apply to a 
 
 ##### <a id="46"></a>46  Form of notices etc.
 
-                   A notice or statement given to the Chief Executive Medicare under this Act must be given:
+                   A notice or statement given to the Medicare Australia CEO under this Act must be given:
 
                      (a)  in the form of a document; or
 
-                     (b)  in such other form as the Chief Executive Medicare accepts.
+                     (b)  in such other form as the Medicare Australia CEO accepts.
 
 Note:          For **_document_**, see section 25 of the _Acts Interpretation Act 1901_.
 
@@ -1870,7 +1872,7 @@ Schedule 3 (items 3–7): <i>(c)</i></div>
     <div>25 May 2011</div>
   </td>
   <td>
-    <div>Schedule 4 (items 116–149): 1 July 2011</div>
+    <div>Schedule 4 (items 116–149): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -2025,7 +2027,7 @@ _(d)_ Subsection 2(1) (item 5) of the _Health Legislation Amendment (Podiatric
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 33, 1996; No. 114, 1997; No. 150, 2001; No. 84, 2003; No. 111, 2005; No. 32, 2011</div>
+    <div>am. No. 33, 1996; No. 114, 1997; No. 150, 2001; No. 84, 2003; No. 111, 2005</div>
   </td>
 </tr>
 <tr>
@@ -2065,7 +2067,7 @@ _(d)_ Subsection 2(1) (item 5) of the _Health Legislation Amendment (Podiatric
     <div>S. 8</div>
   </td>
   <td>
-    <div>am. No. 150, 2001; No. 84, 2003; No. 111, 2005; No. 32, 2011</div>
+    <div>am. No. 150, 2001; No. 84, 2003; No. 111, 2005</div>
   </td>
 </tr>
 <tr>
@@ -2113,7 +2115,7 @@ _(d)_ Subsection 2(1) (item 5) of the _Health Legislation Amendment (Podiatric
     <div>S. 10</div>
   </td>
   <td>
-    <div>am. No. 114, 1997; No. 150, 2001; No. 84, 2003; No. 111, 2005; No. 32, 2011</div>
+    <div>am. No. 114, 1997; No. 150, 2001; No. 84, 2003; No. 111, 2005</div>
   </td>
 </tr>
 <tr>
@@ -2177,7 +2179,7 @@ _(d)_ Subsection 2(1) (item 5) of the _Health Legislation Amendment (Podiatric
     <div></div>
   </td>
   <td>
-    <div>am. No. 111, 2005; No. 32, 2011</div>
+    <div>am. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
@@ -2185,7 +2187,7 @@ _(d)_ Subsection 2(1) (item 5) of the _Health Legislation Amendment (Podiatric
     <div>S. 14</div>
   </td>
   <td>
-    <div>am. No. 111, 2005; No. 32, 2011</div>
+    <div>am. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
@@ -2201,7 +2203,7 @@ _(d)_ Subsection 2(1) (item 5) of the _Health Legislation Amendment (Podiatric
     <div>S. 17</div>
   </td>
   <td>
-    <div>am. No. 114, 1997; No. 150, 2001; No. 111, 2005; No. 43, 2006; No. 32, 2011</div>
+    <div>am. No. 114, 1997; No. 150, 2001; No. 111, 2005; No. 43, 2006</div>
   </td>
 </tr>
 <tr>
@@ -2217,7 +2219,7 @@ _(d)_ Subsection 2(1) (item 5) of the _Health Legislation Amendment (Podiatric
     <div>S. 18</div>
   </td>
   <td>
-    <div>am. No. 33, 1996; No. 150, 2001; No. 84, 2003; No. 111, 2005; No. 43, 2006; No. 32, 2011</div>
+    <div>am. No. 33, 1996; No. 150, 2001; No. 84, 2003; No. 111, 2005; No. 43, 2006</div>
   </td>
 </tr>
 <tr>
@@ -2225,7 +2227,7 @@ _(d)_ Subsection 2(1) (item 5) of the _Health Legislation Amendment (Podiatric
     <div>S. 19</div>
   </td>
   <td>
-    <div>am. No. 111, 2005; No. 32, 2011</div>
+    <div>am. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
@@ -2233,7 +2235,7 @@ _(d)_ Subsection 2(1) (item 5) of the _Health Legislation Amendment (Podiatric
     <div>S. 21</div>
   </td>
   <td>
-    <div>am. No. 114, 1997; No. 150, 2001; No. 84, 2003; No. 117, 2004; No. 111, 2005; No. 32, 2011</div>
+    <div>am. No. 114, 1997; No. 150, 2001; No. 84, 2003; No. 117, 2004; No. 111, 2005</div>
   </td>
 </tr>
 <tr>
@@ -2241,7 +2243,7 @@ _(d)_ Subsection 2(1) (item 5) of the _Health Legislation Amendment (Podiatric
     <div>S. 22</div>
   </td>
   <td>
-    <div>am. No. 150, 2001; No. 84, 2003; No. 111, 2005; No. 32, 2011</div>
+    <div>am. No. 150, 2001; No. 84, 2003; No. 111, 2005</div>
   </td>
 </tr>
 <tr>
@@ -2257,7 +2259,7 @@ _(d)_ Subsection 2(1) (item 5) of the _Health Legislation Amendment (Podiatric
     <div>S. 23</div>
   </td>
   <td>
-    <div>am. No. 33, 1996; No. 114, 1997; No. 84, 2003; No. 111, 2005; No. 32, 2011</div>
+    <div>am. No. 33, 1996; No. 114, 1997; No. 84, 2003; No. 111, 2005</div>
   </td>
 </tr>
 <tr>
@@ -2273,7 +2275,7 @@ _(d)_ Subsection 2(1) (item 5) of the _Health Legislation Amendment (Podiatric
     <div></div>
   </td>
   <td>
-    <div>am. No. 84, 2003; No. 111, 2005; No. 32, 2011</div>
+    <div>am. No. 84, 2003; No. 111, 2005</div>
   </td>
 </tr>
 <tr>
@@ -2281,7 +2283,7 @@ _(d)_ Subsection 2(1) (item 5) of the _Health Legislation Amendment (Podiatric
     <div>Note to s. 23A(2)</div>
   </td>
   <td>
-    <div>am. No. 111, 2005; No. 32, 2011</div>
+    <div>am. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
@@ -2297,7 +2299,7 @@ _(d)_ Subsection 2(1) (item 5) of the _Health Legislation Amendment (Podiatric
     <div></div>
   </td>
   <td>
-    <div>am. No. 111, 2005; No. 32, 2011</div>
+    <div>am. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
@@ -2305,7 +2307,7 @@ _(d)_ Subsection 2(1) (item 5) of the _Health Legislation Amendment (Podiatric
     <div>S. 24</div>
   </td>
   <td>
-    <div>am. No. 33, 1996; No. 114, 1997; No. 150, 2001; No. 84, 2003; No. 117, 2004; No. 111, 2005; No. 32, 2011</div>
+    <div>am. No. 33, 1996; No. 114, 1997; No. 150, 2001; No. 84, 2003; No. 117, 2004; No. 111, 2005</div>
   </td>
 </tr>
 <tr>
@@ -2313,7 +2315,7 @@ _(d)_ Subsection 2(1) (item 5) of the _Health Legislation Amendment (Podiatric
     <div>S. 25</div>
   </td>
   <td>
-    <div>am. No. 111, 2005; No. 32, 2011</div>
+    <div>am. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
@@ -2321,7 +2323,7 @@ _(d)_ Subsection 2(1) (item 5) of the _Health Legislation Amendment (Podiatric
     <div>S. 26</div>
   </td>
   <td>
-    <div>am. Nos. 111 and 150, 2001; No. 111, 2005; No. 32, 2011</div>
+    <div>am. Nos. 111 and 150, 2001; No. 111, 2005</div>
   </td>
 </tr>
 <tr>
@@ -2337,7 +2339,7 @@ _(d)_ Subsection 2(1) (item 5) of the _Health Legislation Amendment (Podiatric
     <div>S. 28</div>
   </td>
   <td>
-    <div>am. No. 111, 2005; No. 32, 2011</div>
+    <div>am. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
@@ -2353,7 +2355,7 @@ _(d)_ Subsection 2(1) (item 5) of the _Health Legislation Amendment (Podiatric
     <div>S. 32</div>
   </td>
   <td>
-    <div>am. No. 33, 1996; No. 150, 2001; No. 84, 2003; No. 111, 2005; No. 32, 2011</div>
+    <div>am. No. 33, 1996; No. 150, 2001; No. 84, 2003; No. 111, 2005</div>
   </td>
 </tr>
 <tr>
@@ -2433,7 +2435,7 @@ _(d)_ Subsection 2(1) (item 5) of the _Health Legislation Amendment (Podiatric
     <div></div>
   </td>
   <td>
-    <div>am. No. 150, 2001; No. 111, 2005; No. 32, 2011</div>
+    <div>am. No. 150, 2001; No. 111, 2005</div>
   </td>
 </tr>
 <tr>
@@ -2489,7 +2491,7 @@ _(d)_ Subsection 2(1) (item 5) of the _Health Legislation Amendment (Podiatric
     <div></div>
   </td>
   <td>
-    <div>am. No. 111, 2005; No. 32, 2011</div>
+    <div>am. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
@@ -2513,7 +2515,7 @@ _(d)_ Subsection 2(1) (item 5) of the _Health Legislation Amendment (Podiatric
     <div></div>
   </td>
   <td>
-    <div>am. No. 111, 2005; No. 32, 2011</div>
+    <div>am. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
@@ -2537,7 +2539,7 @@ _(d)_ Subsection 2(1) (item 5) of the _Health Legislation Amendment (Podiatric
     <div>S. 34</div>
   </td>
   <td>
-    <div>am. No. 111, 2005; No. 32, 2011</div>
+    <div>am. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
@@ -2545,7 +2547,7 @@ _(d)_ Subsection 2(1) (item 5) of the _Health Legislation Amendment (Podiatric
     <div>S. 35</div>
   </td>
   <td>
-    <div>am. No. 150, 2001; No. 84, 2003; No. 111, 2005; No. 32, 2011</div>
+    <div>am. No. 150, 2001; No. 84, 2003; No. 111, 2005</div>
   </td>
 </tr>
 <tr>
@@ -2553,7 +2555,7 @@ _(d)_ Subsection 2(1) (item 5) of the _Health Legislation Amendment (Podiatric
     <div>S. 36</div>
   </td>
   <td>
-    <div>am. No. 84, 2003; No. 111, 2005; No. 32, 2011</div>
+    <div>am. No. 84, 2003; No. 111, 2005</div>
   </td>
 </tr>
 <tr>
@@ -2585,7 +2587,7 @@ _(d)_ Subsection 2(1) (item 5) of the _Health Legislation Amendment (Podiatric
     <div>S. 39</div>
   </td>
   <td>
-    <div>am. No. 111, 2005; No. 32, 2011</div>
+    <div>am. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
@@ -2593,7 +2595,7 @@ _(d)_ Subsection 2(1) (item 5) of the _Health Legislation Amendment (Podiatric
     <div>Heading to s. 40</div>
   </td>
   <td>
-    <div>am. No. 111, 2005; No. 32, 2011</div>
+    <div>am. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
@@ -2601,7 +2603,7 @@ _(d)_ Subsection 2(1) (item 5) of the _Health Legislation Amendment (Podiatric
     <div>Ss. 40, 41</div>
   </td>
   <td>
-    <div>am. No. 111, 2005; No. 32, 2011</div>
+    <div>am. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
@@ -2617,7 +2619,7 @@ _(d)_ Subsection 2(1) (item 5) of the _Health Legislation Amendment (Podiatric
     <div>Heading to s. 42</div>
   </td>
   <td>
-    <div>am. No. 111, 2005; No. 32, 2011</div>
+    <div>am. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
@@ -2625,7 +2627,7 @@ _(d)_ Subsection 2(1) (item 5) of the _Health Legislation Amendment (Podiatric
     <div>S. 42</div>
   </td>
   <td>
-    <div>am. No. 114, 1997; No. 150, 2001; No. 111, 2005; No. 32, 2011</div>
+    <div>am. No. 114, 1997; No. 150, 2001; No. 111, 2005</div>
   </td>
 </tr>
 <tr>
@@ -2633,7 +2635,7 @@ _(d)_ Subsection 2(1) (item 5) of the _Health Legislation Amendment (Podiatric
     <div>S. 43</div>
   </td>
   <td>
-    <div>am. No. 111, 2005; No. 32, 2011</div>
+    <div>am. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
@@ -2657,9 +2659,169 @@ _(d)_ Subsection 2(1) (item 5) of the _Health Legislation Amendment (Podiatric
     <div>S. 46</div>
   </td>
   <td>
-    <div>am. No. 111, 2005; No. 32, 2011</div>
+    <div>am. No. 111, 2005</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Human Services Legislation Amendment Act 2011 (No. 32, 2011)_
+
+The following amendments commence on 1 July 2011:
+
+## Schedule 4
+
+## 116  Subsection 3(1)
+
+Insert:
+
+                    <a name="chief-execut-micar"></a>**_Chief Executive Medicare_** has the same meaning as in the _Human Services (Medicare) Act 1973_.
+
+## 117  Subsection 3(1) (definition of _employee of Medicare Australia_)
+
+Repeal the definition.
+
+## 118  Subsection 3(1) (definition of _Medicare Australia CEO_)
+
+Repeal the definition.
+
+## 119  Paragraph 8(6)(a)
+
+Omit “Medicare Australia CEO”, substitute “Chief Executive Medicare”.
+
+## 120  Paragraph 10(6)(a)
+
+Omit “Medicare Australia CEO”, substitute “Chief Executive Medicare”.
+
+## 121  Sections 13 to 18
+
+Omit “Medicare Australia CEO” (wherever occurring), substitute “Chief Executive Medicare”.
+
+## 122  Subsection 19(1)
+
+Omit “Medicare Australia CEO’s”, substitute “Chief Executive Medicare’s”.
+
+## 123  Subsection 19(1)
+
+Omit “Medicare Australia CEO”, substitute “Chief Executive Medicare”.
+
+## 124  Subsection 19(3)
+
+Omit “Medicare Australia CEO must”, substitute “Chief Executive Medicare must”.
+
+## 125  Paragraph 19(3)(d)
+
+Omit “Medicare Australia CEO’s”, substitute “Chief Executive Medicare’s”.
+
+## 126  Subsection 19(4)
+
+Omit “Medicare Australia CEO’s”, substitute “Chief Executive Medicare’s”.
+
+## 127  Sections 21 to 26
+
+Omit “Medicare Australia CEO” (wherever occurring), substitute “Chief Executive Medicare”.
+
+## 128  Section 28
+
+Omit “Medicare Australia CEO” (wherever occurring), substitute “Chief Executive Medicare”.
+
+## 129  Subsection 32(1)
+
+Omit “Medicare Australia CEO” (wherever occurring), substitute “Chief Executive Medicare”.
+
+## 130  Sections 33C to 33H
+
+Omit “Medicare Australia CEO” (wherever occurring), substitute “Chief Executive Medicare”.
+
+## 131  Subsection 33K(1)
+
+Omit “Medicare Australia CEO” (wherever occurring), substitute “Chief Executive Medicare”.
+
+## 132  Sections 34 to 36
+
+Omit “Medicare Australia CEO” (wherever occurring), substitute “Chief Executive Medicare”.
+
+## 133  Section 39
+
+Omit “Medicare Australia CEO”, substitute “Chief Executive Medicare”.
+
+## 134  Subsection 40(1)
+
+Repeal the subsection, substitute:
+
+             (1)  In addition to the functions of the Chief Executive Medicare under the _Human Services (Medicare) Act 1973_, the Chief Executive Medicare has such additional functions as are conferred on the Chief Executive Medicare under this Act.
+
+_Note:       The heading to section 40 is altered by omitting “Medicare Australia CEO” and substituting “Chief Executive Medicare”._
+
+## 135  Subsection 40(2)
+
+Omit “Medicare Australia CEO”, substitute “Chief Executive Medicare”.
+
+## 136  Subsection 40(2)
+
+Omit “_Medicare Australia Act 1973_”, substitute “_Human Services (Medicare) Act 1973_”.
+
+## 137  Subsection 41(1)
+
+Omit “Medicare Australia CEO”, substitute “Chief Executive Medicare”.
+
+## 138  Paragraph 41(1)(a)
+
+Repeal the paragraph, substitute:
+
+                     (a)  a Departmental employee (within the meaning of the _Human Services (Medicare) Act 1973_); or
+
+## 139  Subsection 41(2)
+
+Omit “Medicare Australia CEO has under the _Medicare Australia Act 1973_”, substitute “Chief Executive Medicare has under the _Human Services (Medicare) Act 1973_”.
+
+## 140  Paragraphs 41(3)(b) and (c)
+
+Repeal the paragraphs, substitute:
+
+                     (b)  the Chief Executive Medicare; or
+
+                     (c)  a Departmental employee (within the meaning of the _Human Services (Medicare) Act 1973_).
+
+## 141  Subsection 42(1)
+
+Omit “Medicare Australia CEO” (wherever occurring), substitute “Chief Executive Medicare”.
+
+_Note:       The heading to section 42 is altered by omitting “Medicare Australia CEO” and substituting “Chief Executive Medicare”._
+
+## 142  Subsection 42(3) (paragraph (a) of the definition of _authorised officer_)
+
+Omit “_Medicare Australia Act 1973_”, substitute “_Human Services (Medicare) Act 1973_”.
+
+## 143  Subsection 42(3) (paragraph (b) of the definition of _authorised officer_)
+
+Omit “an employee of Medicare Australia”, substitute “a Departmental employee (within the meaning of the _Human Services (Medicare) Act 1973_)”.
+
+## 144  Subsection 42(3) (paragraph (b) of the definition of _authorised officer_)
+
+Omit “Medicare Australia CEO”, substitute “Chief Executive Medicare”.
+
+## 145  Paragraph 43(1)(c)
+
+Omit “employee of Medicare Australia”, substitute “Departmental employee (within the meaning of the _Human Services (Medicare) Act 1973_)”.
+
+## 146  Subsection 43(3)
+
+Omit “employee of Medicare Australia”, substitute “Departmental employee (within the meaning of the _Human Services (Medicare) Act 1973_)”.
+
+## 147  Subsection 43(5)
+
+Omit “an employee of Medicare Australia”, substitute “a Departmental employee (within the meaning of the _Human Services (Medicare) Act 1973_)”.
+
+## 148  Subsection 43(5)
+
+Omit “Medicare Australia CEO”, substitute “Chief Executive Medicare”.
+
+## 149  Section 46
+
+Omit “Medicare Australia CEO” (wherever occurring), substitute “Chief Executive Medicare”.
+
+As at 30 May 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
