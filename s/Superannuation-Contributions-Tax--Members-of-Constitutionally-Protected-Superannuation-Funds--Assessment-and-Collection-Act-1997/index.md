@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2006C00360/Html/217B2CB47976D3EECA25719D000BD184/$FILE/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00540/Html/BFAE7009F85A6E45CA25705F0024D61B/$FILE/image001.gif)
 
 # Superannuation Contributions Tax (Members of Constitutionally Protected Superannuation Funds) Assessment and Collection Act 1997
 
 **Act No. 185 of 1997 as amended**
 
-This compilation was prepared on 30 June 2006
-taking into account amendments up to Act No. 58 of 2006
+This compilation was prepared on 15 August 2005
+taking into account amendments up to Act No. 102 of 2005
 
 The text of any of those amendments not in force
 on that date is appended in the Notes section
@@ -19,89 +19,91 @@ Attorney-General’s Department, Canberra
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Act to bind Crown
+[3](#3).            Act to bind Crown                                                                               1
 
-[4](#4).            Extension to Norfolk Island
+[4](#4).            Extension to Norfolk Island                                                                 1
 
-[5](#5).            Object of Act
+[5](#5).            Object of Act                                                                                       1
 
-[6](#6).            Simplified outline of Act
+[6](#6).            Simplified outline of Act                                                                     2
 
-[7](#7).            Exclusion of certain members
+[7](#7).            Exclusion of certain members                                                              3
 
 **Part 2—Liability to surcharge**
 
-[8](#8).            Superannuation contributions surcharge
+[8](#8).            Superannuation contributions surcharge                                              4
 
-[9](#9).            Surchargeable contributions
+[9](#9).            Surchargeable contributions                                                                 4
 
-[10](#10).          Surcharge threshold
+[10](#10).          Surcharge threshold                                                                              9
 
-[11](#11).          Member liable to pay surcharge
+[11](#11).          Member liable to pay surcharge                                                        10
 
 **Part 3—Assessment and collection of surcharge**
 
-[12](#12).          Superannuation providers to give statements
+[12](#12).          Superannuation providers to give statements                                    12
 
-[13](#13).          Giving of information in certain form
+[13](#13).          Giving of information in certain form                                                15
 
-[14](#14).          Assessment of liability to pay surcharge
+[14](#14).          Assessment of liability to pay surcharge                                          16
 
-[15](#15).          When surcharge will become payable
+[15](#15).          When surcharge will become payable                                                17
 
-[15A](#15A).       Periods within which assessments may be amended
+[15A](#15A).       Periods within which assessments may be amended                         22
 
-[16](#16).          Amendment of assessment if tax file number quoted or found out after assessment
+[16](#16).          Amendment of assessment if tax file number quoted or found out after assessment              25
 
-[17](#17).          Amendment of assessments
+[17](#17).          Amendment of assessments                                                              26
 
-[18](#18).          Liability to pay the general interest charge if liability increased by an amendment of an assessment
+[18](#18).          Liability to pay the general interest charge if liability increased by an amendment of an assessment    28
 
-[19](#19).          Tax file numbers
+[19](#19).          Tax file numbers                                                                                28
 
-[20](#20).          Objections against assessments
+[20](#20).          Objections against assessments                                                         29
 
 **Part 4—Recovery of unpaid surcharge, general interest charge or late payment penalty**
 
-[21](#21).          Penalty for non-payment of surcharge
+[21](#21).          Penalty for non-payment of surcharge                                              30
 
 **Part 5—Administration**
 
-[26](#26).          General administration of Act
+[26](#26).          General administration of Act                                                           31
 
-[27](#27).          Annual report
+[27](#27).          Annual report                                                                                    31
 
-[28](#28).          Secrecy
+[28](#28).          Secrecy                                                                                               31
 
 **Part 6—Miscellaneous**
 
-[29](#29).          Authorised officers
+[29](#29).          Authorised officers                                                                            35
 
-[30](#30).          Prohibition of avoidance schemes
+[30](#30).          Prohibition of avoidance schemes                                                      35
 
-[31](#31).          Evidence
+[31](#31).          Evidence                                                                                             35
 
-[32](#32).          Access to premises etc 
+[32](#32).          Access to premises etc                                                                      36
 
-[33](#33).          Obtaining information and evidence
+[33](#33).          Obtaining information and evidence                                                  37
 
-[34](#34).          Records to be kept and retained by superannuation provider
+[34](#34).          Records to be kept and retained by superannuation provider           38
 
-[36](#36).          Application of the _Criminal Code_
+[36](#36).          Application of the _Criminal Code_                                                     38
 
-[37](#37).          Regulations
+[37](#37).          Regulations                                                                                        39
 
 **Part 7—Interpretation**
 
-[38](#38).          Definitions
+[38](#38).          Definitions                                                                                         40
 
 **Notes** 
+
+ 
 
 
 ## An Act relating to the assessment and collection of superannuation contributions tax on members of constitutionally protected superannuation funds, and for related purposes
@@ -200,7 +202,7 @@ the **_surchargeable contributions_** of the member for the financial year are t
 
              (3)  If an eligible termination payment within the meaning of subparagraph (2)(c)(iii) has been made or is made to or for a taxpayer after 20 August 1996, surcharge is payable only on the part of the reduced amount of the eligible termination payment that is worked out using the formula:
 
-<sub>![](http://www.comlaw.gov.au/Details/C2006C00360/Html/217B2CB47976D3EECA25719D000BD184/$FILE/image002.gif)</sub>
+![](http://www.comlaw.gov.au/Details/C2005C00540/Html/BFAE7009F85A6E45CA25705F0024D61B/$FILE/image002.gif)
 
 where:
 
@@ -218,7 +220,7 @@ Value of benefits and expenses—financial year earlier than 1999-2000 financial
 
              (5)  The **_actuarial value of the benefits that accrued to, and the value of the administration expenses and risk benefits provided in respect of,_** a member of a defined benefits superannuation scheme for the 1996-97 financial year or for either of the next 2 financial years is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2006C00360/Html/217B2CB47976D3EECA25719D000BD184/$FILE/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00540/Html/BFAE7009F85A6E45CA25705F0024D61B/$FILE/image003.gif)
 
 where:
 
@@ -290,7 +292,7 @@ Surcharge threshold for later financial year
 
              (2)  The **_surcharge threshold_** for a later financial year is the amount calculated using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2006C00360/Html/217B2CB47976D3EECA25719D000BD184/$FILE/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00540/Html/BFAE7009F85A6E45CA25705F0024D61B/$FILE/image004.gif)
 
 where:
 
@@ -310,7 +312,7 @@ Indexation factor
 
              (4)  The **_indexation factor_** for a financial year is the number, calculated to 3 decimal places, using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2006C00360/Html/217B2CB47976D3EECA25719D000BD184/$FILE/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00540/Html/BFAE7009F85A6E45CA25705F0024D61B/$FILE/image005.gif)
 
 where:
 
@@ -462,7 +464,11 @@ Superannuation provider to comply with notice
 
 Exemption
 
-             (4)  The Commissioner may, by legislative instrument, exempt a superannuation provider from subsection (3). 
+             (4)  The Commissioner may, by writing, exempt a superannuation provider from subsection (3). 
+
+Disallowable instrument
+
+             (5)  An exemption under subsection (4) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
 ##### <a id="14"></a>14  Assessment of liability to pay surcharge 
 
@@ -1680,7 +1686,7 @@ Remainder: Royal Assent
       <div>30 June 2004</div>
     </td>
     <td>
-      <div>Sch. 2 (item 11(2), (3))</div>
+      <div>Sch. 2 (item 11(2), (3))</div>
     </td>
   </tr>
   <tr>
@@ -1695,23 +1701,6 @@ Remainder: Royal Assent
     </td>
     <td>
       <div>12 Aug 2005</div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Tax Laws Amendment (2006 Measures No. 2) Act 2006</div>
-    </td>
-    <td>
-      <div>58, 2006</div>
-    </td>
-    <td>
-      <div>22 June 2006</div>
-    </td>
-    <td>
-      <div>Schedule 7 (items 266, 267): Royal Assent</div>
     </td>
     <td>
       <div>—</div>
@@ -1732,7 +1721,9 @@ _(c)_ The _Superannuation Contributions Tax (Members of Constitutionally Protect
 
                  (1)   This Act commences on the day on which it receives the Royal Assent. 
 
-_(d)_ The _Superannuation Contributions Tax (Members of Constitutionally Protected Superannuation Funds) Assessment and Collection Act 1997_ was amended by Schedule 7 (items 221–224) only of the _Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999_, subsections 3(1), (2)(e) and (16) of which provide as follows:                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+_(d)_ The _Superannuation Contributions Tax (Members of Constitutionally Protected Superannuation Funds) Assessment and Collection Act 1997_ was amended by Schedule 7 (items 221–224) only of the _Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999_, subsections 3(1), (2)(e) and (16) of which provide as follows:
+
+                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
                  (2)   The following provisions commence on the transfer date:
 
@@ -1887,14 +1878,6 @@ _(j)_ Section 2 of the _Family Law Legislation Amendment (Superannuation) (Con
     </td>
     <td>
       <div>am. No. 131, 1999; No. 96, 2001; No. 114, 2001 (as am. by No. 51, 2002); No. 102, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 13</div>
-    </td>
-    <td>
-      <div>am. No. 58, 2006</div>
     </td>
   </tr>
   <tr>
