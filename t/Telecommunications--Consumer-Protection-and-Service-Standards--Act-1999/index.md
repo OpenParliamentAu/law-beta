@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00625/Html/978203f2-75aa-43f8-ab36-646406b886dc_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00089/Html/f4f6d2d7-396f-4946-8dfd-3624b9fa69e5_files/image001.gif)
 
 # Telecommunications (Consumer Protection and Service Standards) Act 1999
 
 **Act No. 50 of 1999 as amended**
 
-This compilation was prepared on 20 August 2012
- taking into account amendments up to Act No. 44 of 2012
+This compilation was prepared on 10 January 2012
+ taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -60,23 +60,23 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [8G](#8G).         Meaning of _disability_
 
-[8H](#8H).         Meaning of _designated STS area_
-
-[8J](#8J).          Declaration about alternative contractual arrangements relating to standard telephone services
-
-[8K](#8K).         Declaration about alternative contractual arrangements relating to payphones
-
     **Division 2—Universal service obligation** 
 
         **Subdivision A—What is the universal service obligation?**
 
 [9](#9).            Universal service obligation
 
+[9A](#9A).         Reasonable accessibility of prescribed carriage services
+
 [9B](#9B).         What is a _service obligation_?
 
 [9C](#9C).         Payphones
 
+[9D](#9D).         Prescribed carriage services
+
 [9E](#9E).          Supply of standard telephone services
+
+[9F](#9F).          Supply of prescribed carriage services
 
         **Subdivision B—Universal service areas**
 
@@ -678,13 +678,9 @@ or carry on business, should have reasonable access, on an equitable basis, to:<
 
                (a)     standard telephone services; and
 
-              (b)     payphones.
+              (b)     payphones; and
 
-<li class="BoxList" style="margin-left:21.25pt">•     The
-
-universal service regime established by this Act is to be phased out and
-
-replaced by alternative contractual arrangements under the _Telecommunications Universal Service Management Agency Act 2012_.</li>
+               (c)     prescribed carriage services.
 
 <li class="BoxList" style="margin-left:21.25pt;page-break-after:avoid">•     Provision is made for the National Relay
 
@@ -695,10 +691,6 @@ and/or speech impairment with access to a standard telephone service on terms,
 and in circumstances, that are comparable to the access other Australians have
 
 to a standard telephone service.</li>
-
-<li class="BoxList" style="margin-left:21.25pt;page-break-after:avoid">•     The NRS provisions in this Act are to be
-
-replaced by alternative contractual arrangements under the _Telecommunications Universal Service Management Agency Act 2012_.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•     Local
 
@@ -780,8 +772,6 @@ Telstra complies with this Act.</li>
 
                     <a name="default-arrang"></a>**_default arrangements_** has the meaning given by section 12.
 
-                    <a name="design-st-area"></a>**_designated STS area_** has the meaning given by section 8H.
-
                     <a name="draft-at-market-plan"></a>**_draft ATS marketing plan_**:
 
                      (a)  for a primary universal service provider has the meaning given by subsection 12P(1); and
@@ -811,8 +801,6 @@ Telstra complies with this Act.</li>
                     <a name="levi-crite"></a>**_levy credit_** has the meaning given by subsection 20J(2).
 
                     <a name="levi-debit"></a>**_levy debit_** has the meaning given by subsection 20R(2).
-
-                    <a name="nbn-co"></a>**_NBN Co_** has the same meaning as in the _National Broadband Network Companies Act 2011_.
 
                     <a name="particip-person"></a>**_participating person_** for an eligible revenue period has the meaning given by section 20A.
 
@@ -845,10 +833,6 @@ Telstra complies with this Act.</li>
                     <a name="univers-servic-area"></a>**_universal service area_** has the meaning given by section 9G.
 
                     <a name="univers-servic-charg"></a>**_universal service charge_** has the meaning given by section 18.
-
-                    <a name="univers-servic-contractor"></a>**_universal service contractor_** means a person who is a contractor (within the meaning of the _Telecommunications Universal Service Management Agency Act 2012_).
-
-                    <a name="univers-servic-grant-recipi"></a>**_universal service grant recipient_** means a person who is a grant recipient (within the meaning of the _Telecommunications Universal Service Management Agency Act 2012_).
 
                     <a name="univers-servic-oblig"></a>**_universal service obligation_** has the meaning given by section 9.
 
@@ -894,7 +878,7 @@ where:
 
              (4)  In making a recommendation to the Governor‑General at a particular time about the making of regulations for the purposes of paragraph (1)(c), the Minister must have regard to the following matters:
 
-                     (a)  whether a carriage service for the purpose proposed to be declared by the regulations can be supplied using the same infrastructure as is, at that time, being used by universal service providers, universal service contractors or universal service grant recipients to supply a standard telephone service for the purpose referred to in paragraph (1)(a);
+                     (a)  whether a carriage service for the purpose proposed to be declared by the regulations can be supplied using the same infrastructure as is, at that time, being used by universal service providers to supply a standard telephone service for the purpose referred to in paragraph (1)(a);
 
                      (b)  such other matters (if any) as the Minister considers relevant.
 
@@ -902,11 +886,7 @@ where:
 
              (6)  In this section:
 
-                    <a name="act"></a>**_this Act_** includes:
-
-                     (a)  the _Telecommunications Act 1997_; and
-
-                     (b)  the _Telecommunications Universal Service Management Agency Act 2012_.
+                    <a name="act"></a>**_this Act_** includes the _Telecommunications Act 1997_.
 
 ##### <a id="6A"></a>6A  When a standard telephone service is supplied in fulfilment of the universal service obligation
 
@@ -988,8 +968,6 @@ Note 2:       For criminal liability of corporations under this Act,
 
 This Part establishes a universal service regime.
 
-The universal service regime established by this Part is to be phased out and replaced by alternative contractual arrangements under the _Telecommunications Universal Service Management Agency Act 2012_.
-
 In general terms, the universal service regime involves:
 
                (a)     the universal service obligation and universal service subsidy; and
@@ -1000,7 +978,9 @@ The main object of the universal service regime is to ensure that all people in 
 
                (a)     standard telephone services; and
 
-              (b)     payphones.
+              (b)     payphones; and
+
+               (c)     prescribed carriage services.
 
 The key elements of the universal service regime are as follows:
 
@@ -1030,13 +1010,15 @@ The key elements of the universal service regime are as follows:
 
 ##### <a id="8A"></a>8A  Objects
 
-                   The objects of this Part, when read together with the _Telecommunications Universal Service Management Agency Act 2012_, are to give effect to the following policy principles:
+                   The objects of this Part are to give effect to the following policy principles:
 
                      (a)  all people in Australia, wherever they reside or carry on business, should have reasonable access, on an equitable basis, to:
 
                               (i)  standard telephone services; and
 
-                             (ii)  payphones;
+                             (ii)  payphones; and
+
+                            (iii)  prescribed carriage services;
 
                      (b)  the universal service obligation described in section 9 should be fulfilled:
 
@@ -1090,15 +1072,13 @@ regardless of size.
 
              (1)  For the purposes of this Part, a **_claim period_** is:
 
-                     (a)  the 2000‑2001 financial year and each of the next 11 financial years; or
+                     (a)  the 2000‑2001 financial year and each later financial year; or
 
                      (b)  if the Minister determines in writing another period—the other period.
 
              (2)  The Minister may determine different periods under paragraph (1)(b) in respect of one or more universal service subsidies.
 
              (3)  A period determined by the Minister under paragraph (1)(b) must not be a part of more than one financial year.
-
-          (3A)  A period determined by the Minister under paragraph (1)(b) must not end after 30 June 2012.
 
              (4)  If the Minister determines a period under paragraph (1)(b), the determination may modify the way this Part applies to carriers and carriage service providers. The modifications may include additions, omissions and substitutions.
 
@@ -1120,284 +1100,6 @@ regardless of size.
 
                     <a name="disabl"></a>**_disability_** has the same meaning as in the _Disability Discrimination Act 1992_.
 
-##### <a id="8H"></a>8H  Meaning of _designated STS area_
-
-             (1)  For the purposes of this Act, **_designated STS area_** means:
-
-                     (a)  a non‑fibre designated STS area; or
-
-                     (b)  a fibre designated STS area.
-
-Note 1:       For **_non‑fibre designated STS area_**, see subsection (2).
-
-Note 2:       For **_fibre designated STS area_**, see subsection (6).
-
-Non‑fibre designated STS area
-
-             (2)  The Minister may, by writing, declare that a specified service area is a **_non‑fibre designated STS area_** for the purposes of this Act.
-
-             (3)  The Minister must not make a declaration under subsection (2) in relation to a service area unless:
-
-                     (a)  a final migration plan is in force; and
-
-                     (b)  the Minister is satisfied that no NBN corporation has installed, is installing, or proposes to install, optical fibre lines to premises in the service area; and
-
-                     (c)  the Minister has made a declaration under section 8J that, in the Minister’s opinion, there are satisfactory alternative contractual arrangements relating to standard telephone services.
-
-             (4)  A declaration under subsection (2) comes into force at the later of the following times:
-
-                     (a)  when the declaration is made;
-
-                     (b)  the start of the day immediately after the last day on which a resolution referred to in subsection 42(1) of the _Legislative Instruments Act 2003_ disallowing the section 8J declaration could be passed.
-
-             (5)  Before making a declaration under subsection (2), the Minister must consult NBN Co.
-
-Fibre designated STS area
-
-             (6)  The Minister may, by writing, declare that a specified service area is a **_fibre designated STS area_** for the purposes of this Act.
-
-             (7)  The Minister must not make a declaration under subsection (6) in relation to a service area unless:
-
-                     (a)  a final migration plan is in force; and
-
-                     (b)  the Minister is satisfied that an NBN corporation has installed, or is installing, optical fibre lines to premises in the service area; and
-
-                     (c)  the Minister has made a declaration under section 8J that, in the Minister’s opinion, there are satisfactory alternative contractual arrangements relating to standard telephone services.
-
-             (8)  A declaration under subsection (6) comes into force at the later of the following times:
-
-                     (a)  when the declaration is made;
-
-                     (b)  the start of the day immediately after the last day on which a resolution referred to in subsection 42(1) of the _Legislative Instruments Act 2003_ disallowing the section 8J declaration could be passed.
-
-             (9)  Before making a declaration under subsection (6), the Minister must consult NBN Co.
-
-Duty to make declaration
-
-           (10)  If:
-
-                     (a)  the Minister has made a declaration under section 8J that, in the Minister’s opinion, there are satisfactory alternative contractual arrangements relating to standard telephone services; and
-
-                     (b)  the Minister has the power to make one or more declarations under subsection (2) or (6), or both, of this section;
-
-the Minister must ensure that at least one of those declarations is made within 90 days after the section 8J declaration comes into force.
-
-Consideration of whether to make a declaration
-
-           (11)  The Minister must, at least once every 6 months during the period:
-
-                     (a)  beginning when the first declaration is made under this section; and
-
-                     (b)  ending at the earliest of the following times:
-
-                              (i)  if Telstra has entered into a contract under section 13 of the _Telecommunications Universal Service Management Agency Act 2012_ for a purpose relating to the achievement of the policy objective set out in paragraph 11(a) of that Act—when the contract ceases to be in force;
-
-                             (ii)  if any of the provisions of a final migration plan cease to have effect in compliance with the migration plan principles (see section 577BB of the _Telecommunications Act 1997_)—at the time of that cessation;
-
-                            (iii)  if the Minister makes a declaration under section 48 of the _National Broadband Network Companies Act 2011_ that, in his or her opinion, the national broadband network should be treated as built and fully operational—when the declaration is made;
-
-consider whether to make a declaration under subsection (2) or (6) of this section.
-
-           (12)  Subsection (11) does not limit the power of the Minister to make a declaration under this section at any other time.
-
-Declarations
-
-           (13)  The Minister must cause a declaration under this section to be published on the Department’s website.
-
-           (14)  A declaration under this section cannot be varied or revoked.
-
-           (15)  A declaration under this section is not a legislative instrument.
-
-##### <a id="8J"></a>8J  Declaration about alternative contractual arrangements relating to standard telephone services
-
-Initial declaration
-
-             (1)  During the period:
-
-                     (a)  beginning 18 months after the commencement of this section; and
-
-                     (b)  ending 23 months after the commencement of this section;
-
-the Minister must make either of the following declarations:
-
-                     (c)  a declaration that, in his or her opinion, there are satisfactory alternative contractual arrangements relating to standard telephone services;
-
-                     (d)  a declaration that the 18‑month period starting immediately after the declaration is made is the **_first declaration deferral period_** for the purposes of this section.
-
-             (2)  If:
-
-                     (a)  a declaration is made under paragraph (1)(c) or (d); and
-
-                     (b)  the declaration is not in force as at the later of the following times:
-
-                              (i)  the end of the period of 26 months that began at the commencement of this section;
-
-                             (ii)  the start of the day immediately after the last day on which a resolution referred to in subsection 42(1) of the _Legislative Instruments Act 2003_ disallowing the declaration could be passed;
-
-the 18‑month period starting immediately after the declaration was made is the **_first declaration deferral period_** for the purposes of this section.
-
-Subsequent declarations
-
-             (3)  Before the end of the first declaration deferral period, the Minister must make either of the following declarations:
-
-                     (a)  a declaration that, in his or her opinion, there are satisfactory alternative contractual arrangements relating to standard telephone services;
-
-                     (b)  a declaration that the 18‑month period starting immediately after the declaration is made is the **_second declaration deferral period_** for the purposes of this section.
-
-             (4)  If:
-
-                     (a)  a declaration is made under paragraph (3)(a) or (b); and
-
-                     (b)  the declaration is not in force as at the later of the following times:
-
-                              (i)  the end of the 3‑month period starting immediately after the end of the first declaration deferral period;
-
-                             (ii)  the start of the day immediately after the last day on which a resolution referred to in subsection 42(1) of the _Legislative Instruments Act 2003_ disallowing the declaration could be passed;
-
-the 18‑month period starting immediately after the declaration was made is the **_second declaration deferral period_** for the purposes of this section.
-
-             (5)  Before the end of the second declaration deferral period, the Minister must make either of the following declarations:
-
-                     (a)  a declaration that, in his or her opinion, there are satisfactory alternative contractual arrangements relating to standard telephone services;
-
-                     (b)  a declaration that, in his or her opinion, there are no satisfactory alternative contractual arrangements relating to standard telephone services.
-
-Criteria for making declaration
-
-             (6)  The Minister must not make a declaration under paragraph (1)(c), (3)(a) or (5)(a) unless:
-
-                     (a)  Telstra has entered into a contract under section 13 of the _Telecommunications Universal Service Management Agency Act 2012_; and
-
-                     (b)  the contract was entered into for a purpose relating to the achievement of the policy objective set out in paragraph 11(a) of that Act; and
-
-                     (c)  the contract is in force; and
-
-                     (d)  neither party to the contract has given notice of termination of the contract; and
-
-                     (e)  the Minister is satisfied that Telstra is likely to substantially comply with the contract, having regard to:
-
-                              (i)  Telstra’s record of compliance with its obligations under the contract; and
-
-                             (ii)  the nature of Telstra’s obligations under the contract; and
-
-                            (iii)  Telstra’s record of compliance with its obligations under this Part, to the extent that the obligations relate to the service obligation mentioned in paragraph 9(1)(a); and
-
-                            (iv)  Telstra’s record of compliance with its obligations under Part 5; and
-
-                             (v)  such other matters (if any) as the Minister considers relevant; and
-
-                      (f)  the Minister has obtained advice from:
-
-                              (i)  the ACMA; and
-
-                             (ii)  TUSMA;
-
-                            about the making of the declaration.
-
-             (7)  Subparagraphs (6)(e)(iii) and (iv) do not apply to an act, omission, matter or thing that occurs before the commencement of this section.
-
-             (8)  Subsection (6) does not limit the matters to which the Minister may have regard in making a declaration under this section.
-
-Declarations
-
-             (9)  A declaration under this section cannot be varied or revoked.
-
-           (10)  A declaration under this section is a legislative instrument.
-
-##### <a id="8K"></a>8K  Declaration about alternative contractual arrangements relating to payphones
-
-Initial declaration
-
-             (1)  During the period:
-
-                     (a)  beginning 18 months after the commencement of this section; and
-
-                     (b)  ending 23 months after the commencement of this section;
-
-the Minister must make either of the following declarations:
-
-                     (c)  a declaration that, in his or her opinion, there are satisfactory alternative contractual arrangements relating to payphones;
-
-                     (d)  a declaration that the 18‑month period starting immediately after the declaration is made is the **_first declaration deferral period_** for the purposes of this section.
-
-             (2)  If:
-
-                     (a)  a declaration is made under paragraph (1)(c) or (d); and
-
-                     (b)  the declaration is not in force as at the later of the following times:
-
-                              (i)  the end of the period of 26 months that began at the commencement of this section;
-
-                             (ii)  the start of the day immediately after the last day on which a resolution referred to in subsection 42(1) of the _Legislative Instruments Act 2003_ disallowing the declaration could be passed;
-
-the 18‑month period starting immediately after the declaration was made is the **_first declaration deferral period_** for the purposes of this section.
-
-Subsequent declarations
-
-             (3)  Before the end of the first declaration deferral period, the Minister must make either of the following declarations:
-
-                     (a)  a declaration that, in his or her opinion, there are satisfactory alternative contractual arrangements relating to payphones;
-
-                     (b)  a declaration that the 18‑month period starting immediately after the declaration is made is the **_second declaration deferral period_** for the purposes of this section.
-
-             (4)  If:
-
-                     (a)  a declaration is made under paragraph (3)(a) or (b); and
-
-                     (b)  the declaration is not in force as at the later of the following times:
-
-                              (i)  the end of the 3‑month period starting immediately after the end of the first declaration deferral period;
-
-                             (ii)  the start of the day immediately after the last day on which a resolution referred to in subsection 42(1) of the _Legislative Instruments Act 2003_ disallowing the declaration could be passed;
-
-the 18‑month period starting immediately after the declaration was made is the **_second declaration deferral period_** for the purposes of this section.
-
-             (5)  Before the end of the second declaration deferral period, the Minister must make either of the following declarations:
-
-                     (a)  a declaration that, in his or her opinion, there are satisfactory alternative contractual arrangements relating to payphones;
-
-                     (b)  a declaration that, in his or her opinion, there are no satisfactory alternative contractual arrangements relating to payphones.
-
-Criteria for making declaration
-
-             (6)  The Minister must not make a declaration under paragraph (1)(c), (3)(a) or (5)(a) unless:
-
-                     (a)  Telstra has entered into a contract under section 13 of the _Telecommunications Universal Service Management Agency Act 2012_; and
-
-                     (b)  the contract was entered into for a purpose relating to the achievement of the policy objective set out in paragraph 11(b) of that Act; and
-
-                     (c)  the contract is in force; and
-
-                     (d)  neither party to the contract has given notice of termination of the contract; and
-
-                     (e)  the Minister is satisfied that Telstra is likely to substantially comply with the contract, having regard to:
-
-                              (i)  Telstra’s record of compliance with its obligations under the contract; and
-
-                             (ii)  the nature of Telstra’s obligations under the contract; and
-
-                            (iii)  Telstra’s record of compliance with its obligations under this Part, to the extent that the obligations relate to the service obligation mentioned in paragraph 9(1)(b); and
-
-                            (iv)  such other matters (if any) as the Minister considers relevant; and
-
-                      (f)  the Minister has obtained advice from:
-
-                              (i)  the ACMA; and
-
-                             (ii)  TUSMA;
-
-                            about the making of the declaration.
-
-             (7)  Subparagraph (6)(e)(iii) does not apply to an act, omission, matter or thing that occurs before the commencement of this section.
-
-             (8)  Subsection (6) does not limit the matters to which the Minister may have regard in making a declaration under this section.
-
-Declarations
-
-             (9)  A declaration under this section cannot be varied or revoked.
-
-           (10)  A declaration under this section is a legislative instrument.
-
 ### Division 2—Universal service obligation
 
 #### Subdivision A—What is the universal service obligation?
@@ -1406,21 +1108,17 @@ Declarations
 
              (1)  For the purposes of this Act, the **_universal service obligation_** is the obligation:
 
-                     (a)  to ensure that standard telephone services are reasonably accessible to all people in Australia (other than people in designated STS areas) on an equitable basis, wherever they reside or carry on business; and
+                     (a)  to ensure that standard telephone services are reasonably accessible to all people in Australia on an equitable basis, wherever they reside or carry on business; and
 
-                     (b)  to ensure that payphones are reasonably accessible to all people in Australia on an equitable basis, wherever they reside or carry on business.
+                     (b)  to ensure that payphones are reasonably accessible to all people in Australia on an equitable basis, wherever they reside or carry on business; and
 
-             (2)  The obligation mentioned in paragraph (1)(a) includes the obligation to supply standard telephone services to people in Australia (other than people in designated STS areas) on request.
+                     (c)  to ensure that prescribed carriage services are reasonably accessible to all people in Australia on an equitable basis, wherever they reside or carry on business.
+
+             (2)  The obligation mentioned in paragraph (1)(a) includes the obligation to supply standard telephone services to people in Australia on request.
 
           (2A)  The obligation mentioned in paragraph (1)(b) includes the obligation to supply, install and maintain payphones in Australia.
 
-       (2AA)  If:
-
-                     (a)  the Minister makes a declaration under section 8K that, in the Minister’s opinion, there are satisfactory alternative contractual arrangements relating to payphones; and
-
-                     (b)  neither House of the Parliament passes a resolution under section 42 of the _Legislative Instruments Act 2003_ disallowing the declaration;
-
-an obligation does not arise under paragraph (1)(b) or subsection (2A) of this section after the last day on which such a resolution could have been passed by a House of the Parliament.
+          (2B)  The obligation mentioned in paragraph (1)(c) includes the obligation to supply prescribed carriage services to people in Australia on request.
 
           (2C)  An obligation does not arise under paragraph (1)(a) or subsection (2) in relation to the supply of a standard telephone service to a person on request unless the request complies with the requirements (if any) set out in a determination under subsection (2D).
 
@@ -1432,7 +1130,15 @@ an obligation does not arise under paragraph (1)(b) or subsection (2A) of th
 
              (4)  An obligation does not arise under paragraph (1)(a) or subsection (2) in relation to particular equipment, goods or services the supply of which is treated under section 9E as the supply of a standard telephone service if the customer concerned requests not to be supplied with the equipment, goods or services.
 
+             (5)  An obligation does not arise under paragraph (1)(c) or subsection (2B) in relation to particular equipment, goods or services the supply of which is treated under section 9F as the supply of a prescribed carriage service if the customer concerned requests not to be supplied with the equipment, goods or services.
+
              (6)  To avoid doubt, an obligation arising under paragraph (1)(a) or subsection (2) in relation to customer equipment requires the customer concerned to be given the option of hiring the equipment.
+
+##### <a id="9A"></a>9A  Reasonable accessibility of prescribed carriage services
+
+             (1)  The Minister may determine in writing, for the purpose of paragraph 9(1)(c), what is, or is not, necessary to ensure that prescribed carriage services are reasonably accessible as mentioned in that paragraph.
+
+             (2)  A determination under subsection (1) is a legislative instrument.
 
 ##### <a id="9B"></a>9B  What is a _service obligation_?
 
@@ -1440,7 +1146,9 @@ an obligation does not arise under paragraph (1)(b) or subsection (2A) of th
 
                      (a)  the obligation referred to in paragraph 9(1)(a) (dealing with the standard telephone services);
 
-                     (b)  the obligation referred to in paragraph 9(1)(b) (dealing with payphones).
+                     (b)  the obligation referred to in paragraph 9(1)(b) (dealing with payphones);
+
+                     (c)  the obligation referred to in paragraph 9(1)(c) (dealing with prescribed carriage services).
 
              (2)  The Minister may determine in writing the **_service obligations_** by dividing the universal service obligation in another way.
 
@@ -1461,6 +1169,10 @@ an obligation does not arise under paragraph (1)(b) or subsection (2A) of th
                              (ii)  an identification number, or a code or other information (in numerical or any other form) has been input into a device that forms part of, is attached to, or is located near, the telephone; or
 
                             (iii)  a prescribed act has been done.
+
+##### <a id="9D"></a>9D  Prescribed carriage services
+
+                   For the purposes of this Part, a **_prescribed carriage service_** is a carriage service specified in the regulations.
 
 ##### <a id="9E"></a>9E  Supply of standard telephone services
 
@@ -1494,17 +1206,29 @@ where the equipment, goods or services, as the case may be, are for use in conne
 
 where the equipment, goods or services, as the case may be, are for use in connection with the standard telephone service.
 
+##### <a id="9F"></a>9F  Supply of prescribed carriage services
+
+                   A reference in this Part to the **_supply_** of a prescribed carriage service includes a reference to the supply of:
+
+                     (a)  customer equipment of a kind specified in the regulations; and
+
+                     (b)  other goods of a kind specified in the regulations; and
+
+                     (c)  services of a kind specified in the regulations;
+
+where the equipment, goods or services, as the case may be, are for use in connection with the prescribed carriage service.
+
 #### Subdivision B—Universal service areas
 
 ##### <a id="9G"></a>9G  Universal service areas
 
              (1)  The Minister may make a written determination that a service area, determined in any way the Minister considers appropriate, is a universal service area in respect of one or more specified service obligations.
 
-Note:          In some circumstances, the Minister will be taken to have made a determination under this section: see subsections (3), (4), (5) and (6), and section 12E.
+Note:          In some circumstances, the Minister will be taken to have made a determination under this section: see subsections (3) and (4), and section 12E.
 
              (2)  In determining universal service areas, the Minister must ensure that no universal service area in respect of a service obligation overlaps to any extent with any other universal service area in respect of that service obligation.
 
-             (3)  If, at a particular time, any areas of Australia (other than designated STS areas) are not within a universal service area, covered by a determination under subsection (1), in respect of the service obligation mentioned in paragraph 9B(1)(a):
+             (3)  If, at a particular time, any areas of Australia are not within a universal service area, covered by a determination under subsection (1), in respect of a service obligation:
 
                      (a)  those areas together constitute at that time a single universal service area in respect of that service obligation; and
 
@@ -1512,27 +1236,13 @@ Note:          In some circumstances, the Minister will be tak
 
              (4)  If, at a particular time, one or more of the universal service areas, in respect of which the Minister is taken to have made a determination because of subsection (3), cover the same areas of Australia, then despite that subsection:
 
-                     (a)  those areas together constitute at that time a single universal service area in respect of the service obligation mentioned in paragraph 9B(1)(a); and
+                     (a)  those areas together constitute at that time a single universal service area in respect of all of the service obligations referred to in that subsection; and
 
                      (b)  the Minister is taken to have made a determination under subsection (1) to that effect.
 
-             (5)  If, at a particular time, any areas of Australia are not within a universal service area, covered by a determination under subsection (1), in respect of the service obligation mentioned in paragraph 9B(1)(b):
+             (5)  A determination under this section is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
-                     (a)  those areas together constitute at that time a single universal service area in respect of that service obligation; and
-
-                     (b)  the Minister is taken to have made a determination under subsection (1) to that effect.
-
-             (6)  If, at a particular time, one or more of the universal service areas, in respect of which the Minister is taken to have made a determination because of subsection (5), cover the same areas of Australia, then despite that subsection:
-
-                     (a)  those areas together constitute at that time a single universal service area in respect of the service obligation mentioned in paragraph 9B(1)(b); and
-
-                     (b)  the Minister is taken to have made a determination under subsection (1) to that effect.
-
-             (7)  A determination under this section is a legislative instrument.
-
-             (8)  Despite subsection (7), a determination that the Minister is taken to have made is not a legislative instrument.
-
-             (9)  The Minister must cause a determination that the Minister is taken to have made to be published on the Department’s website.
+Note:          A determination that the Minister is taken to have made under this section because of section 12E is not a disallowable instrument (see subsection 12E(6)).
 
 ##### <a id="9H"></a>9H  Effect of determination
 
@@ -1716,9 +1426,9 @@ Note:          These apply to each universal service area exce
 
              (5)  The Minister must give to the person and to the ACMA a copy of the determination.
 
-             (6)  A determination under this section is a legislative instrument.
+             (6)  A determination under this section is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
-Note:          A determination that the Minister is taken to have made under this section because of section 12D or 12E is not a legislative instrument (see subsections 12D(2) and 12E(6)).
+Note:          A determination that the Minister is taken to have made under this section because of section 12D or 12E is not a disallowable instrument (see subsections 12D(2) and 12E(6)).
 
 ##### <a id="12B"></a>12B  Effect of determination
 
@@ -1766,7 +1476,7 @@ Note 2:       For the meaning of **_approved ATS marketing plan_**, 
 
 takes effect for the first time for a universal service area in respect of a service obligation, the Minister is taken to have made a determination under section 12A that Telstra is the primary universal service provider for that area in respect of that service obligation.
 
-             (2)  Despite subsection 12A(6), the determination that the Minister is taken to have made is not a legislative instrument. Instead, a notice must be published in the _Gazette_ to the effect that Telstra is the primary universal service provider for the area in respect of that service obligation.
+             (2)  Despite subsection 12A(6), the determination that the Minister is taken to have made is not a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_. Instead, a notice must be published in the _Gazette_ to the effect that Telstra is the primary universal service provider for the area in respect of that service obligation.
 
 ##### <a id="12E"></a>12E  Effect of certain agreements under the _Telstra Corporation Act 1991_
 
@@ -1802,13 +1512,13 @@ A commencement date cannot be a date before the agreement is made, or before the
 
              (5)  The Minister may make a written determination specifying a date as the commencement date for the area or areas specified in the agreement as universal service areas. A copy of the determination must be published in the _Gazette_.
 
-             (6)  Despite subsections 9G(7) and 12A(6), the deemed determinations are not legislative instruments. Instead, a notice must be published in the _Gazette_ that:
+             (6)  Despite subsections 9G(5) and 12A(6), the deemed determinations are not disallowable instruments for the purposes of section 46A of the _Acts Interpretation Act 1901_. Instead, a notice must be published in the _Gazette_ that:
 
                      (a)  states that the person is a primary universal service provider for the area or areas concerned, in respect of the service obligation or obligations concerned; and
 
                      (b)  includes the relevant commencement date or dates.
 
-             (7)  However, a variation or revocation of a deemed determination is a legislative instrument.
+             (7)  However, a variation or revocation of a deemed determination is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
              (8)  This section applies to an agreement whether made before, on or after the commencement of Schedule 1 to the _Telecommunications (Consumer Protection and Service Standards) Amendment Act (No. 2) 2000_.
 
@@ -2992,7 +2702,9 @@ and the provider gives the ACMA a draft variation of the current statement or cu
 
                      (a)  the supply of standard telephone services to persons in the area; or
 
-                     (b)  calls made from payphones in the area.
+                     (b)  calls made from payphones in the area; or
+
+                     (c)  the supply of prescribed carriage services to persons in the area.
 
 ##### <a id="18A"></a>18A  Determination subjecting universal service charges to price control arrangements
 
@@ -3102,11 +2814,9 @@ Note:          It is an offence to make a false or misleading 
 
              (1)  For the purposes of this Act, an **_eligible revenue period_** is:
 
-                     (a)  the 1999‑2000 financial year and each of the next 12 financial years; or
+                     (a)  the 1999‑2000 financial year and each later financial year; or
 
                      (b)  if the Minister determines in writing another period—that other period.
-
-          (1A)  A period determined by the Minister under paragraph (1)(b) must not end after 30 June 2012.
 
              (2)  If the Minister determines another period, the Minister may, in the determination, modify the way in which this Part applies to participating persons. The modifications may include additions, omissions and substitutions.
 
@@ -3182,7 +2892,7 @@ Note:          The levy contribution factor is used to work ou
 
              (2)  The **_levy contribution factor_** for an eligible revenue period is the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00625/Html/978203f2-75aa-43f8-ab36-646406b886dc_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00089/Html/f4f6d2d7-396f-4946-8dfd-3624b9fa69e5_files/image002.gif)
 
 where:
 
@@ -3246,7 +2956,7 @@ Note:          It is an offence to make a false or misleading 
 
 ##### <a id="20M"></a>20M  ACMA may inquire into correctness of claim
 
-                   The ACMA may make whatever inquiries it thinks necessary or desirable in order to determine whether or not a claim by a universal service provider for a levy credit for a claim period correctly states the provider’s entitlement to universal service subsidy for the period.
+                   The ACMA may make whatever inquiries it thinks necessary or desirable in order to determine whether or not a claim by a universal service provider for a levy credit for a claim period correctly states the provider’s entitlement to universal service subsidy for the period.
 
 ##### <a id="20N"></a>20N  ACMA to assess levy credit
 
@@ -3288,7 +2998,7 @@ Note:          The assessment may be included in the same docu
 
              (2)  The **_levy debit_** is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00625/Html/978203f2-75aa-43f8-ab36-646406b886dc_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00089/Html/f4f6d2d7-396f-4946-8dfd-3624b9fa69e5_files/image003.gif)
 
 where:
 
@@ -3746,9 +3456,13 @@ is made for the National Relay Service (NRS).</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•     The
 
-NRS provisions in this Part are to be replaced by alternative contractual
+NRS provides persons who are deaf or who have a hearing and/or speech
 
-arrangements under the _Telecommunications Universal Service Management Agency Act 2012_.</li>
+impairment with access to a standard telephone service on terms, and in
+
+circumstances, that are comparable to the access other Australians have to a
+
+standard telephone service.</li>
 
 * * *
 
@@ -3765,6 +3479,8 @@ arrangements under the _Telecommunications Universal Service Management Agency A
                     <a name="nr-levi"></a>**_NRS levy_** means the levy payable in accordance with this Part.
 
                     <a name="nr-provid"></a>**_NRS provider_** means a person who provides the whole, or a part, of the National Relay Service.
+
+                    <a name="nr-servic-plan"></a>**_NRS service plan_** means a plan referred to in subsection 95(2).
 
                     <a name="particip-person"></a>**_participating person_** for a levy quarter has the meaning given by section 94A.
 
@@ -3806,9 +3522,13 @@ arrangements under the _Telecommunications Universal Service Management Agency A
 
                              (ii)  is provided by 2 or more persons under contracts with the Commonwealth (with each of the persons providing a part of the service).
 
-          (1A)  This section does not authorise the entering into of a contract after the commencement of this subsection.
+             (2)  Each NRS contract must provide for the relevant NRS provider to prepare service plans for so much of the NRS as is covered by the contract. The service plan must include at least the following matters:
 
-Note:          After commencement, contracts may be entered into under section 13 of the _Telecommunications Universal Service Management Agency Act 2012_.
+                     (a)  timetables for the supply of so much of the NRS as is covered by the contract;
+
+                     (b)  performance standards to be met by the NRS provider.
+
+             (3)  The Minister must arrange for each NRS service plan to be published in whatever manner the Minister considers appropriate.
 
 ##### <a id="96"></a>96  Publication of costs of providing the NRS
 
@@ -3822,29 +3542,17 @@ Note:          After commencement, contracts may be entered in
 
              (2)  As soon as practicable after the end of each financial year, the ACMA must give a written report to the Minister about the performance by each NRS provider during the financial year of the provider’s obligations under an NRS service plan.
 
-          (2A)  Subsections (1) and (2) do not apply to an obligation of an NRS provider if the obligation arises after the commencement of this subsection.
-
              (3)  The Minister must cause a copy of the report to be laid before each House of the Parliament within 15 sitting days of that House after the Minister receives the report.
 
              (4)  In addition to the report under subsection (2), the ACMA must give the Minister such reports or advice as the Minister requires in relation to the NRS service plan.
 
-             (5)  A reference in this section to a **_financial year_** is a reference to the 1999‑2000 financial year and each of the next 12 financial years.
-
-             (6)  For the purposes of this section, an **_NRS service plan_** is a plan:
-
-                     (a)  referred to in subsection 95(2), as in force immediately before the commencement of this subsection; and
-
-                     (b)  that was prepared before the commencement of this subsection.
+             (5)  A reference in this section to a **_financial year_** is a reference to the 1999‑2000 financial year or a later financial year.
 
 ### Division 3—The NRS levy
 
 ##### <a id="98"></a>98  Levy quarters
 
-                   NRS levy is payable for each of the quarters in:
-
-                     (a)  the 1999‑2000 financial year; and
-
-                     (b)  each of the next 12 financial years.
+                   NRS levy is payable for each of the quarters in a financial year, starting with the 1999‑2000 financial year.
 
 ##### <a id="99"></a>99  Persons liable to pay levy (taxpayers)
 
@@ -3868,7 +3576,7 @@ Note:          The **_most recent eligible revenue assessment_
 
              (2)  Each taxpayer’s NRS contribution amount for the current quarter is calculated as follows:
 
-![](http://www.comlaw.gov.au/Details/C2012C00625/Html/978203f2-75aa-43f8-ab36-646406b886dc_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00089/Html/f4f6d2d7-396f-4946-8dfd-3624b9fa69e5_files/image004.gif)
 
 Note:          Levy is imposed on the NRS contribution amount by the _NRS Levy Imposition Act 1998_.
 
@@ -3956,13 +3664,7 @@ Note:          The Account was established by subsection 5(3) 
 
              (2)  The NRS Account is a Special Account for the purposes of the _Financial Management and Accountability Act 1997_.
 
-             (3)  The purposes of the NRS Account are as follows:
-
-                     (a)  to pay amounts payable by the Commonwealth under a contract entered into under section 13 of the _Telecommunications Universal Service Management Agency Act 2012_ for a purpose relating to the achievement of the policy objective set out in paragraph 11(d) of that Act;
-
-                     (b)  to make grants under section 13 of the _Telecommunications Universal Service Management Agency Act 2012_ for a purpose relating to the achievement of the policy objective set out in paragraph 11(d) of that Act.
-
-Note:          See section 21 of the _Financial Management and Accountability Act 1997_ (debits from Special Accounts).
+             (3)  The purpose of the NRS Account is to make payments to NRS providers under NRS contracts.
 
              (4)  The following amounts must be credited to the NRS Account:
 
@@ -4032,9 +3734,9 @@ Note 2:       **_Untimed basis_** is defined by subsection (2).
 
                               (i)  of a kind that, immediately before 20 September 1996, a general carrier offered to supply, or supplied, on an untimed basis between points in that standard zone; or
 
-                             (ii)  made using a standard telephone service supplied to the customer for a universal service purpose;
+                             (ii)  made using a standard telephone service supplied to the customer in fulfilment of the universal service obligation;
 
-the call is an **_eligible local call_** unless the call involves the use, by at least one party to the call, of a public mobile telecommunications service, or a satellite service, that is not supplied to that party for a universal service purpose.
+the call is an **_eligible local call_** unless the call involves the use, by at least one party to the call, of a public mobile telecommunications service, or a satellite service, that is not supplied to that party in fulfilment of the universal service obligation.
 
 Note 1:       **_Eligible customer_** is defined by section 110.
 
@@ -4054,9 +3756,9 @@ Note 4:**_Untimed basis_** is defined by subsection (3).
 
                               (i)  of a kind that, immediately before 20 September 1996, a general carrier offered to supply, or supplied, on an untimed basis between points in that standard zone; or
 
-                             (ii)  made using a standard telephone service supplied to the customer for a universal service purpose;
+                             (ii)  made using a standard telephone service supplied to the customer in fulfilment of the universal service obligation;
 
-the call is an **_eligible local call_** unless the call involves the use, by at least one party to the call, of a public mobile telecommunications service, or a satellite service, that is not supplied to that party for a universal service purpose.
+the call is an **_eligible local call_** unless the call involves the use, by at least one party to the call, of a public mobile telecommunications service, or a satellite service, that is not supplied to that party in fulfilment of the universal service obligation.
 
 Note 1:       **_Eligible customer_** is defined by section 110.
 
@@ -4067,14 +3769,6 @@ Note 3:       **_Applicable zone_** is defined by section 109.
 Note 4:**_Untimed basis_** is defined by subsection (3).
 
              (3)  For the purposes of this section, calls of a particular kind are supplied on an untimed basis if, and only if, the charges for the calls of that kind are worked out by reference to the number of such calls made during a particular period, regardless of how long each call lasted.
-
-          (3A)  For the purposes of this section, a service is supplied **_for a universal service purpose_** if, and only if, the service is supplied:
-
-                     (a)  in fulfilment of the universal service obligation; or
-
-                     (b)  in compliance with the obligations under a contract entered into under section 13 of the _Telecommunications Universal Service Management Agency Act 2012_ for a purpose relating to the achievement of the policy objective set out in paragraph 11(a) of that Act; or
-
-                     (c)  in compliance with the terms and conditions of a grant made under section 13 of the _Telecommunications Universal Service Management Agency Act 2012_ for a purpose relating to the achievement of the policy objective set out in paragraph 11(a) of that Act.
 
              (4)  In this section:
 
@@ -4146,7 +3840,7 @@ Note:**_Untimed basis_** is defined by subsection (2).
 
                      (a)  if:
 
-                              (i)  the provider is a universal service provider, universal service contractor or universal service grant recipient for the customer; and
+                              (i)  the provider is a universal service provider for the customer; and
 
                              (ii)  there is in force a written notice given to the ACMA by the provider nominating a specified area as a nominated area; and
 
@@ -4156,7 +3850,7 @@ Note:**_Untimed basis_** is defined by subsection (2).
 
                      (b)  if:
 
-                              (i)  the provider is a universal service provider, universal service contractor or universal service grant recipient for the customer; and
+                              (i)  the provider is a universal service provider for the customer; and
 
                              (ii)  paragraph (a) does not apply;
 
@@ -4164,7 +3858,7 @@ Note:**_Untimed basis_** is defined by subsection (2).
 
                      (c)  if:
 
-                              (i)  the provider is not a universal service provider, universal service contractor or universal service grant recipient for the customer; and
+                              (i)  the provider is not a universal service provider for the customer; and
 
                              (ii)  there is in force a written notice given to the ACMA by the provider nominating a specified area as a nominated area; and
 
@@ -4174,7 +3868,7 @@ Note:**_Untimed basis_** is defined by subsection (2).
 
                      (d)  if:
 
-                              (i)  the provider is not a universal service provider, universal service contractor or universal service grant recipient for the customer; and
+                              (i)  the provider is not a universal service provider for the customer; and
 
                              (ii)  paragraph (c) does not apply;
 
@@ -4189,26 +3883,6 @@ Note:**_Untimed basis_** is defined by subsection (2).
                      (b)  the provider is a universal service provider for that area;
 
 the provider is a universal service provider for the customer.
-
-             (4)  For the purposes of this section if:
-
-                     (a)  a customer of a carriage service provider is in a particular area; and
-
-                     (b)  the provider is a universal service contractor in relation to a contract entered into for a purpose relating to the achievement of the policy objective set out in paragraph 11(a) of the _Telecommunications Universal Service Management Agency Act 2012_; and
-
-                     (c)  the contract imposes an obligation on the universal service contractor to supply standard telephone services in the area;
-
-the provider is a universal service contractor for the customer.
-
-             (5)  For the purposes of this section if:
-
-                     (a)  a customer of a carriage service provider is in a particular area; and
-
-                     (b)  the provider is a universal service grant recipient in relation to a grant made for a purpose relating to the achievement of the policy objective set out in paragraph 11(a) of the _Telecommunications Universal Service Management Agency Act 2012_; and
-
-                     (c)  the terms and conditions of the grant require the universal service grant recipient to supply standard telephone services in the area;
-
-the provider is a universal service grant recipient for the customer.
 
 ##### <a id="110"></a>110  Eligible customer
 
@@ -4244,9 +3918,11 @@ providers in relation to customer service.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•     If
 
-a carriage service provider contravenes a performance standard, the carriage service
+a carriage service provider contravenes a performance standard, the carriage
 
-provider is liable to pay damages to the customer for the contravention.</li>
+service provider is liable to pay damages to the customer for the
+
+contravention.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•     The
 
@@ -4610,13 +4286,7 @@ the amount of the secondary damages payable for the acts or omissions is to be r
 
              (6)  A waiver must not be set out in a standard form of agreement formulated by a carriage service provider for the purposes of section 479 of the _Telecommunications Act 1997_.
 
-             (7)  A customer is not entitled to waive, in whole or in part, the customer’s protection and rights under this Part in relation to a particular standard telephone service supplied, or proposed to be supplied, by the carriage service provider concerned if the service is supplied, or proposed to be supplied:
-
-                     (a)  in fulfilment of the universal service obligation; or
-
-                     (b)  in compliance with the obligations under a contract entered into under section 13 of the _Telecommunications Universal Service Management Agency Act 2012_ for a purpose relating to the achievement of the policy objective set out in paragraph 11(a) of that Act; or
-
-                     (c)  in compliance with the terms and conditions of a grant made under section 13 of the _Telecommunications Universal Service Management Agency Act 2012_ for a purpose relating to the achievement of the policy objective set out in paragraph 11(a) of that Act.
+             (7)  A customer is not entitled to waive, in whole or in part, the customer’s protection and rights under this Part in relation to a particular standard telephone service supplied, or proposed to be supplied, by the carriage service provider concerned if the service is supplied, or proposed to be supplied, in fulfilment of the universal service obligation.
 
              (8)  An instrument under subsection (1) is a legislative instrument.
 
@@ -4892,13 +4562,7 @@ Note:          Providers may be specified by name, by inclusio
 
                      (a)  the service is a public mobile telecommunications service; and
 
-                     (b)  the service is neither supplied, nor proposed to be supplied, to the customer:
-
-                              (i)  in fulfilment of the universal service obligation; or
-
-                             (ii)  in compliance with the obligations under a contract entered into under section 13 of the _Telecommunications Universal Service Management Agency Act 2012_ for a purpose relating to the achievement of the policy objective set out in paragraph 11(a) of that Act; or
-
-                            (iii)  in compliance with the terms and conditions of a grant made under section 13 of the _Telecommunications Universal Service Management Agency Act 2012_ for a purpose relating to the achievement of the policy objective set out in paragraph 11(a) of that Act.
+                     (b)  the service is neither supplied, nor proposed to be supplied, to the customer in fulfilment of the universal service obligation.
 
 ##### <a id="137"></a>137  Protected payments
 
@@ -5229,8 +4893,6 @@ This subsection does not, by implication, limit section 589 of the _Telecommun
                      (d)  emergency service organisations;
 
                      (e)  consumers of standard telephone services.
-
-          (9A)  Before making a determination under this section, the ACMA must consult TUSMA.
 
            (10)  A carriage service provider may provide the access referred to in paragraph (2)(a) itself or by arranging with another person for the access to be provided.
 
@@ -6008,7 +5670,7 @@ of Assent</div>
   </td>
   <td>
     <div>Part 3: 1 July 1999 
-Remainder: 2 Aug 1999</div>
+Remainder: 2 Aug 1999</div>
   </td>
   <td>
     <div></div>
@@ -6079,11 +5741,12 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Schedules 1, 2 and Schedule 3 (items 1–9, 12, 14, 15): 1 July 2000 
-Schedule 3 (items 10, 11, 13): 1 Jan 2001 
+Schedule 3 (items 10, 11, 13): 1 Jan 2001 
 Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>Sch. 2, Sch. 3 (items 7, 9) and Sch. 5</div>
+    <div>Sch. 2, 
+Sch. 3 (items 7, 9) and Sch. 5</div>
   </td>
 </tr>
 <tr>
@@ -6098,7 +5761,7 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Schedule 3: Royal Assent 
-Remainder: 21 Dec 2001</div>
+Remainder: 21 Dec 2001</div>
   </td>
   <td>
     <div>—</div>
@@ -6167,7 +5830,7 @@ Remainder: 21 Dec 2001</div>
   </td>
   <td>
     <div>Schedule 2: 27 Mar 2003 
-Remainder: 28 Nov 2003</div>
+Remainder: 28 Nov 2003</div>
   </td>
   <td>
     <div>Sch. 5 (item 13)</div>
@@ -6254,7 +5917,7 @@ Schedule 2: <i>(e)</i></div>
     <div>29 Mar 2006</div>
   </td>
   <td>
-    <div>Schedule 2 (item 112): 1 July 2008 ( <i>see</i>s. 2(1) and F2008L02273)</div>
+    <div>Schedule 2 (item 112): 1 July 2008 ( <i>see</i>s. 2(1) and F2008L02273)</div>
   </td>
   <td>
     <div>—</div>
@@ -6397,23 +6060,6 @@ Schedule 1 (items 227–240): 15 June 2011</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Telecommunications Legislation Amendment (Universal Service Reform) Act 2012</div>
-  </td>
-  <td>
-    <div>44, 2012</div>
-  </td>
-  <td>
-    <div>16 Apr 2012</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 56–106, 112–123): 1 July 2012 ( <i>see</i>s. 2(1))</div>
-  </td>
-  <td>
-    <div>Sch. 1 (items 122, 123)</div>
   </td>
 </tr></table>
 
@@ -6740,7 +6386,7 @@ _(f)_      Subsection 2(1) (items 31 and 38) of the _Statute Law Rev
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 45, 2005; No. 111, 2009; No. 44, 2012</div>
+    <div>am. No. 45, 2005; No. 111, 2009</div>
   </td>
 </tr>
 <tr>
@@ -6748,7 +6394,7 @@ _(f)_      Subsection 2(1) (items 31 and 38) of the _Statute Law Rev
     <div>S. 5</div>
   </td>
   <td>
-    <div>am. Nos. 95 and 142, 2000; No. 117, 2005; No. 111, 2009; No. 140, 2010; No. 44, 2012</div>
+    <div>am. Nos. 95 and 142, 2000; No. 117, 2005; No. 111, 2009; No. 140, 2010</div>
   </td>
 </tr>
 <tr>
@@ -6756,7 +6402,7 @@ _(f)_      Subsection 2(1) (items 31 and 38) of the _Statute Law Rev
     <div>S. 6</div>
   </td>
   <td>
-    <div>am. No. 140, 2010; No. 44, 2012</div>
+    <div>am. No. 140, 2010</div>
   </td>
 </tr>
 <tr>
@@ -6820,7 +6466,7 @@ _(f)_      Subsection 2(1) (items 31 and 38) of the _Statute Law Rev
     <div></div>
   </td>
   <td>
-    <div>am. No. 45, 2005; No. 111, 2009; No. 44, 2012</div>
+    <div>am. No. 45, 2005; No. 111, 2009</div>
   </td>
 </tr>
 <tr>
@@ -6836,7 +6482,7 @@ _(f)_      Subsection 2(1) (items 31 and 38) of the _Statute Law Rev
     <div></div>
   </td>
   <td>
-    <div>am. No. 111, 2009; No. 44, 2012</div>
+    <div>am. No. 111, 2009</div>
   </td>
 </tr>
 <tr>
@@ -6876,7 +6522,7 @@ _(f)_      Subsection 2(1) (items 31 and 38) of the _Statute Law Rev
     <div></div>
   </td>
   <td>
-    <div>am. No. 111, 2009; No. 44, 2012</div>
+    <div>am. No. 111, 2009</div>
   </td>
 </tr>
 <tr>
@@ -6901,30 +6547,6 @@ _(f)_      Subsection 2(1) (items 31 and 38) of the _Statute Law Rev
   </td>
   <td>
     <div>ad. No. 142, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8H</div>
-  </td>
-  <td>
-    <div>ad. No. 44, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8J</div>
-  </td>
-  <td>
-    <div>ad. No. 44, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8K</div>
-  </td>
-  <td>
-    <div>ad. No. 44, 2012</div>
   </td>
 </tr>
 <tr>
@@ -6956,7 +6578,7 @@ _(f)_      Subsection 2(1) (items 31 and 38) of the _Statute Law Rev
     <div></div>
   </td>
   <td>
-    <div>am. No. 140, 2010; No. 44, 2012</div>
+    <div>am. No. 140, 2010</div>
   </td>
 </tr>
 <tr>
@@ -6977,74 +6599,10 @@ _(f)_      Subsection 2(1) (items 31 and 38) of the _Statute Law Rev
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 44, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9B</div>
+    <div>Ss. 9B–9F</div>
   </td>
   <td>
     <div>ad. No. 142, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 44, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9C</div>
-  </td>
-  <td>
-    <div>ad. No. 142, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9D</div>
-  </td>
-  <td>
-    <div>ad. No. 142, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 44, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9E</div>
-  </td>
-  <td>
-    <div>ad. No. 142, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9F</div>
-  </td>
-  <td>
-    <div>ad. No. 142, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 44, 2012</div>
   </td>
 </tr>
 <tr>
@@ -7057,39 +6615,7 @@ _(f)_      Subsection 2(1) (items 31 and 38) of the _Statute Law Rev
 </tr>
 <tr>
   <td>
-    <div>S. 9G</div>
-  </td>
-  <td>
-    <div>ad. No. 142, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 44, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 9G(1)</div>
-  </td>
-  <td>
-    <div>am. No. 44, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9H</div>
-  </td>
-  <td>
-    <div>ad. No. 142, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9J</div>
+    <div>Ss. 9G, 9H, 9J</div>
   </td>
   <td>
     <div>ad. No. 142, 2000</div>
@@ -7260,7 +6786,7 @@ _(f)_      Subsection 2(1) (items 31 and 38) of the _Statute Law Rev
     <div></div>
   </td>
   <td>
-    <div>am. No. 45, 2005; No. 44, 2012</div>
+    <div>am. No. 45, 2005</div>
   </td>
 </tr>
 <tr>
@@ -7289,34 +6815,10 @@ _(f)_      Subsection 2(1) (items 31 and 38) of the _Statute Law Rev
 </tr>
 <tr>
   <td>
-    <div>S. 12D</div>
+    <div>Ss. 12D, 12E</div>
   </td>
   <td>
     <div>ad. No. 142, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 44, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 12E</div>
-  </td>
-  <td>
-    <div>ad. No. 142, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 44, 2012</div>
   </td>
 </tr>
 <tr>
@@ -8035,14 +7537,6 @@ Part 2</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 44, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Ss. 18A–18E</div>
   </td>
   <td>
@@ -8191,14 +7685,6 @@ Part 2</div>
   </td>
   <td>
     <div>ad. No. 142, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 44, 2012</div>
   </td>
 </tr>
 <tr>
@@ -9411,18 +8897,10 @@ Part 2</div>
 </tr>
 <tr>
   <td>
-    <div>S. 93</div>
-  </td>
-  <td>
-    <div>am. No. 44, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 94</div>
   </td>
   <td>
-    <div>am. No. 114, 2003; No. 24, 2005; No. 44, 2012</div>
+    <div>am. No. 114, 2003; No. 24, 2005</div>
   </td>
 </tr>
 <tr>
@@ -9446,7 +8924,7 @@ Part 2</div>
     <div>S. 95</div>
   </td>
   <td>
-    <div>am. No. 24, 2005; No. 44, 2012</div>
+    <div>am. No. 24, 2005</div>
   </td>
 </tr>
 <tr>
@@ -9478,7 +8956,15 @@ Part 2</div>
     <div>S. 97</div>
   </td>
   <td>
-    <div>am. Nos. 24 and 45, 2005; No. 44, 2012</div>
+    <div>am. No. 24, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 45, 2005</div>
   </td>
 </tr>
 <tr>
@@ -9487,14 +8973,6 @@ Part 2</div>
   </td>
   <td>
     <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 98</div>
-  </td>
-  <td>
-    <div>am. No. 44, 2012</div>
   </td>
 </tr>
 <tr>
@@ -9622,7 +9100,7 @@ Part 2</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 24, 2005; No. 44, 2012</div>
+    <div>am. No. 24, 2005</div>
   </td>
 </tr>
 <tr>
@@ -9631,14 +9109,6 @@ Part 2</div>
   </td>
   <td>
     <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 106</div>
-  </td>
-  <td>
-    <div>am. No. 44, 2012</div>
   </td>
 </tr>
 <tr>
@@ -9654,7 +9124,7 @@ Part 2</div>
     <div>S. 109</div>
   </td>
   <td>
-    <div>am. No. 95, 2000; No. 45, 2005; No. 44, 2012</div>
+    <div>am. No. 95, 2000; No. 45, 2005</div>
   </td>
 </tr>
 <tr>
@@ -9806,7 +9276,7 @@ Part 2</div>
     <div>S. 120</div>
   </td>
   <td>
-    <div>am. No. 45, 2005; No. 140, 2010; No. 44, 2012</div>
+    <div>am. No. 45, 2005; No. 140, 2010</div>
   </td>
 </tr>
 <tr>
@@ -9915,14 +9385,6 @@ Part 2</div>
 </tr>
 <tr>
   <td>
-    <div>S. 136</div>
-  </td>
-  <td>
-    <div>am. No. 44, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Ss. 137–142</div>
   </td>
   <td>
@@ -9958,7 +9420,7 @@ Part 2</div>
     <div>S. 147</div>
   </td>
   <td>
-    <div>am. No. 155, 2000; No. 45, 2005; No. 44, 2012</div>
+    <div>am. No. 155, 2000; No. 45, 2005</div>
   </td>
 </tr>
 <tr>
@@ -10791,7 +10253,7 @@ The Governor‑General may make regulations in relation to any matters of a tran
 
 ## Schedule 3
 
-## 7  Application
+## 7  Application
 
 Despite the repeal and substitution of subsection 2(2) of the _Telecommunications (Consumer Protection and Service Standards) Act 1999_ made by item 6, that subsection continues to apply, after this item commences in relation to the financial year that ended on 30 June 2000, as if that repeal and substitution had not happened.
 
@@ -11006,19 +10468,5 @@ The amendments made by Schedule 2 do not affect the validity of an appointment
 ## 11  Transitional regulations
 
 The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
-
-* * *
-
-_Telecommunications Legislation Amendment (Universal Service Reform) Act 2012 (No. 44, 2012)_
-
-## Schedule 1
-
-## 122  Transitional—NRS policy objective
-
-Section 12 of the _Telecommunications Universal Service Management Agency Act 2012_ does not apply, before the commencement of Part 2 of this Schedule, in relation to the objective set out in paragraph 11(d) of that Act.
-
-## 123  Transitional—regulations
-
-The Governor‑General may make regulations in relation to transitional matters arising out of the amendments made by this Schedule.
 
  
