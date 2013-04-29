@@ -1,20 +1,19 @@
-![](http://www.comlaw.gov.au/Details/C2011C00380/Html/7180f16c-38df-4aef-9dd2-f23f60a1048a_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00370/Html/TherapeuticGoodsCharges1989_image001.gif)
 
 # Therapeutic Goods (Charges) Act 1989
 
 **Act No. 22 of 1990 as amended**
 
-This compilation was prepared on 31 May 2011
+This compilation was prepared on 7 June 2010
  taking into account amendments up to Act No. 53 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
 
-The operation of amendments that have been incorporated may be
- affected by application provisions that are set out in the Notes section
+The operation of amendments that have been incorporated may be affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -44,11 +43,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (1)  The _Therapeutic Goods Act 1989_ is incorporated, and is to be read as one, with this Act.
 
-          (1A)  For the purposes of this Act, if a suspension of the registration or listing of therapeutic goods has effect under Part 3‑2 of the _Therapeutic Goods Act 1989_, the goods are taken to be included in the Register under that Part.
-
-          (1B)  For the purposes of this Act, if a suspension of a biological from the Register has effect under Part 3‑2A of the _Therapeutic Goods Act 1989_, the biological is taken to be included in the Register under that Part.
-
-             (2)  For the purposes of this Act, if a suspension of a kind of medical device, or any medical devices of a particular kind, has effect under Chapter 4 of the _Therapeutic Goods Act 1989_, that kind of medical device is taken to be included in the Register under that Chapter.
+             (2)  However, for the purposes of this Act, if a suspension of a kind of medical device, or any medical devices of a particular kind, has effect under Chapter 4 of the _Therapeutic Goods Act 1989_, that kind of medical device is taken to be included in the Register under that Chapter.
 
 ##### <a id="4"></a>4  Charges
 
@@ -56,19 +51,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
           (1A)  If the registration or listing of one or more grouped therapeutic goods, being goods covered by a single registration or listing number, is in force at any time during a financial year, an annual charge of such amount as is prescribed is payable in respect of all of the registrations or listings concerned.
 
-       (1AA)  An annual charge of such amount as is prescribed is payable in respect of the inclusion of a biological in the Register under Part 3‑2A of the Therapeutic Goods Act that has effect at any time during a financial year.
-
           (1B)  Annual charges of such amounts as are prescribed are payable in respect of the inclusion of kinds of medical devices in the Register under Chapter 4 of the Therapeutic Goods Act that has effect at any time during a financial year.
 
              (2)  An annual charge of such amount as is prescribed is payable in respect of a licence that is in force at any time during a financial year.
 
 Corresponding State laws
 
-             (3)  If, because of the operation of section 6AAE of the Therapeutic Goods Act, goods are included in the part of the Register for goods known as registered goods, this section has effect as if the goods had been registered under Part 3‑2 of that Act.
+             (3)  If, because of the operation of section 6AAE of the Therapeutic Goods Act, goods are included in the part of the Register for goods known as registered goods, this section has effect as if the goods had been registered under Part 3-2 of that Act.
 
-             (4)  If, because of the operation of section 6AAE of the Therapeutic Goods Act, goods are included in the part of the Register for goods known as listed goods, this section has effect as if the goods had been listed under Part 3‑2 of that Act.
-
-          (4A)  If, because of the operation of section 6AAE of the Therapeutic Goods Act, a biological is included in the part of the Register for biologicals included under Part 3‑2A, this section has effect as if the biological had been included in the Register under Part 3‑2A of that Act.
+             (4)  If, because of the operation of section 6AAE of the Therapeutic Goods Act, goods are included in the part of the Register for goods known as listed goods, this section has effect as if the goods had been listed under Part 3-2 of that Act.
 
              (5)  If, because of the operation of section 6AAE of the Therapeutic Goods Act, goods are included in the part of the Register for medical devices included under Chapter 4, this section has effect as if the goods had been included in the Register under Chapter 4 of that Act.
 
@@ -76,9 +67,9 @@ Corresponding State laws
 
                      (a)  because of the operation of section 6AAA, 6AAB or 6AAC of the Therapeutic Goods Act, the Secretary issues a licence; and
 
-                     (b)  the licence is issued for the purposes of provisions of a corresponding State law that correspond to Part 3‑3 of the Therapeutic Goods Act;
+                     (b)  the licence is issued for the purposes of provisions of a corresponding State law that correspond to Part 3-3 of the Therapeutic Goods Act;
 
-this section has effect as if the licence had been issued under Part 3‑3 of that Act.
+this section has effect as if the licence had been issued under Part 3-3 of that Act.
 
 Definitions
 
@@ -90,7 +81,7 @@ Definitions
 
 ##### <a id="5"></a>5  Regulations
 
-             (1)  The Governor‑General may make regulations, not inconsistent with this Act, prescribing the amounts of charges.
+             (1)  The Governor-General may make regulations, not inconsistent with this Act, prescribing the amounts of charges.
 
              (2)  The regulations may prescribe different charges in relation to:
 
@@ -236,7 +227,7 @@ Remainder: Royal Assent</div>
     <div>31 May 2010</div>
   </td>
   <td>
-    <div>Schedule 1: 31 May 2011 ( <i>see</i>s. 2(1)) 
+    <div>Schedule 1: \[ <i>see</i>s. 2(1) and Note 2] 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -280,7 +271,7 @@ Remainder: Royal Assent</div>
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 25, 2002; No. 53, 2010</div>
+    <div>am. No. 25, 2002</div>
   </td>
 </tr>
 <tr>
@@ -288,7 +279,7 @@ Remainder: Royal Assent</div>
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 85, 1991; No. 62, 1993; No. 25, 2002; No. 96, 2008; No. 53, 2010</div>
+    <div>am. No. 85, 1991; No. 62, 1993; No. 25, 2002; No. 96, 2008</div>
   </td>
 </tr>
 <tr>
@@ -299,6 +290,40 @@ Remainder: Royal Assent</div>
     <div>am. No. 25, 2002; No. 96, 2008</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Therapeutic Goods (Charges) Amendment Act 2010 (No. 53, 2010)_
+
+The following amendments commence at the same time as Schedule 1 to the _Therapeutic Goods Amendment (2009 Measures No. 3) Act 2010_:
+
+## Schedule 1
+
+## 1  After subsection 3(1)
+
+Insert:
+
+          (1A)  For the purposes of this Act, if a suspension of the registration or listing of therapeutic goods has effect under Part 3-2 of the _Therapeutic Goods Act 1989_, the goods are taken to be included in the Register under that Part.
+
+          (1B)  For the purposes of this Act, if a suspension of a biological from the Register has effect under Part 3-2A of the _Therapeutic Goods Act 1989_, the biological is taken to be included in the Register under that Part.
+
+## 2  Subsection 3(2)
+
+Omit “However, for”, substitute “For”.
+
+## 3  After subsection 4(1A)
+
+Insert:
+
+       (1AA)  An annual charge of such amount as is prescribed is payable in respect of the inclusion of a biological in the Register under Part 3-2A of the Therapeutic Goods Act that has effect at any time during a financial year.
+
+## 4  After subsection 4(4)
+
+Insert:
+
+          (4A)  If, because of the operation of section 6AAE of the Therapeutic Goods Act, a biological is included in the part of the Register for biologicals included under Part 3-2A, this section has effect as if the biological had been included in the Register under Part 3-2A of that Act.
+
+As at 7 June 2010 the amendments are not incorporated in this compilation.
 
 ## Table A
 
