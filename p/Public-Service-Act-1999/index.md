@@ -1,235 +1,233 @@
-![](http://www.comlaw.gov.au/Details/C2006C00087/Html/B0CF5480175F60D5CA25713F0082FEAD/$FILE/image001.gif)
+<?xml:namespace prefix = v ns = "urn:schemas-microsoft-com:vml" /><v:shapetype id="_x0000_t75" coordsize="21600,21600" o:preferrelative="t" o:spt="75" filled="f" stroked="f" path=" m@4@5 l@4@11@9@11@9@5 xe"><v:stroke joinstyle="miter"></v:stroke><v:formulas><v:f eqn="if lineDrawn pixelLineWidth 0 "></v:f><v:f eqn="sum @0 1 0 "></v:f><v:f eqn="sum 0 0 @1 "></v:f><v:f eqn="prod @2 1 2 "></v:f><v:f eqn="prod @3 21600 pixelWidth "></v:f><v:f eqn="prod @3 21600 pixelHeight "></v:f><v:f eqn="sum @0 0 1 "></v:f><v:f eqn="prod @6 1 2 "></v:f><v:f eqn="prod @7 21600 pixelWidth "></v:f><v:f eqn="sum @8 21600 0 "></v:f><v:f eqn="prod @7 21600 pixelHeight "></v:f><v:f eqn="sum @10 21600 0 "></v:f></v:formulas><v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"></v:path><o:lock aspectratio="t" v:ext="edit"></o:lock></v:shapetype><v:shape id="_x0000_i1025" style="WIDTH: 114pt; HEIGHT: 84pt" type="#_x0000_t75" coordsize="21600,21600" fillcolor="winColor(17)"><v:imagedata o:title="" src="20A8CC21FE570DFACA256F82001C14AD/$FILE/image001.png"></v:imagedata></v:shape>
 
-# Public Service Act 1999
+# Public Service Act 1999<o:p></o:p>
 
-**Act No. 147 of 1999 as amended**
+**Act No. 147 of 1999 as amended<o:p></o:p>**
 
-This compilation was prepared on 27 March 2006
-taking into account amendments up to Act No. 140 of 2003
-
-and SLI 2006 No. 50
+This compilation was prepared on 1 January 2005
+taking into account amendments up to Act No. 140 of 2003<o:p></o:p>
 
 The text of any of those amendments not in force 
-on that date is appended in the Notes section
+on that date is appended in the Notes section<o:p></o:p>
 
-The operation of amendments that have been incorporated may be
-affected by application provisions that are set out in the Notes section
+The operation of amendments that have been incorporated may be 
+affected by application provisions that are set out in the Notes section<o:p></o:p>
 
 Prepared by the Office of Legislative Drafting and Publishing,
 Attorney-General’s Department, 
-Canberra
+<?xml:namespace prefix = st1 ns = "urn:schemas-microsoft-com:office:smarttags" /><st1:city><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Canberra</st1:place></st1:city><o:p></o:p>
 
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary<span style="mso-tab-count: 1">                                                                                                               </span>**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]<span style="mso-tab-count: 1 dotted">                                                                        </span>
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]<span style="mso-tab-count: 1 dotted">                                                               </span>
 
-[3](#3).            Objects of this Act
+[3](#3).            Objects of this Act<span style="mso-tab-count: 1 dotted">                                                                              </span>
 
-[4](#4).            This Act binds the Crown
+[4](#4).            This Act binds the Crown<span style="mso-tab-count: 1 dotted">                                                                   </span>
 
-[5](#5).            This Act extends to things outside Australia
+[5](#5).            This Act extends to things outside Australia<span style="mso-tab-count: 1 dotted">                                      </span>
 
-[6](#6).            Engagement of employees in Department or Executive Agency
+[6](#6).            Engagement of employees in Department or Executive Agency<span style="mso-tab-count: 1 dotted">         </span>
 
-**Part 2—Interpretation**
+**Part 2—Interpretation<span style="mso-tab-count: 1">                                                                                                          </span>**
 
-[7](#7).            Interpretation
+[7](#7).            Interpretation<span style="mso-tab-count: 1 dotted">                                                                                       </span>
 
-[8](#8).            Workplace Relations Act
+[8](#8).            Workplace Relations Act<span style="mso-tab-count: 1 dotted">                                                                     </span>
 
-**Part 3—The Australian Public Service**
+**Part 3—The Australian Public Service<span style="mso-tab-count: 1">                                                                       </span>**
 
-[9](#9).            Constitution of the APS
+[9](#9).            Constitution of the APS<span style="mso-tab-count: 1 dotted">                                                                      </span>
 
-[10](#10).          APS Values
+[10](#10).          APS Values<span style="mso-tab-count: 1 dotted">                                                                                          </span>
 
-[11](#11).          Commissioner’s Directions about APS Values
+[11](#11).          Commissioner’s Directions about APS Values<span style="mso-tab-count: 1 dotted">                                   </span>
 
-[12](#12).          Agency Heads must promote APS Values
+[12](#12).          Agency Heads must promote APS Values<span style="mso-tab-count: 1 dotted">                                          </span>
 
-[13](#13).          The APS Code of Conduct
+[13](#13).          The APS Code of Conduct<span style="mso-tab-count: 1 dotted">                                                                  </span>
 
-[14](#14).          Agency Heads bound by Code of Conduct
+[14](#14).          Agency Heads bound by Code of Conduct<span style="mso-tab-count: 1 dotted">                                         </span>
 
-[15](#15).          Breaches of the Code of Conduct
+[15](#15).          Breaches of the Code of Conduct<span style="mso-tab-count: 1 dotted">                                                        </span>
 
-[16](#16).          Protection for whistleblowers
+[16](#16).          Protection for whistleblowers<span style="mso-tab-count: 1 dotted">                                                           </span>
 
-[17](#17).          Prohibition on patronage and favouritism
+[17](#17).          Prohibition on patronage and favouritism<span style="mso-tab-count: 1 dotted">                                         </span>
 
-[18](#18).          Promotion of employment equity
+[18](#18).          Promotion of employment equity<span style="mso-tab-count: 1 dotted">                                                     </span>
 
-[19](#19).          Limitation on Ministerial directions to Agency Head
+[19](#19).          Limitation on Ministerial directions to Agency Head<span style="mso-tab-count: 1 dotted">                       </span>
 
-**Part 4—APS employees** 
+**Part 4—APS employees<span style="mso-tab-count: 1">                                                                                                    </span>** 
 
-    **Division 1—APS employees generally**
+    **Division 1—APS employees generally<span style="mso-tab-count: 1">                                                              </span>**
 
-[20](#20).          Employer powers etc  of Agency Head
+[20](#20).          Employer powers etc  of Agency Head<span style="mso-tab-count: 1 dotted">                                            </span>
 
-[21](#21).          Prime Minister’s directions to Agency Heads
+[21](#21).          Prime Minister’s directions to Agency Heads<span style="mso-tab-count: 1 dotted">                                  </span>
 
-[22](#22).          Engagement of APS employees
+[22](#22).          Engagement of APS employees<span style="mso-tab-count: 1 dotted">                                                         </span>
 
-[23](#23).          Classification Rules
+[23](#23).          Classification Rules<span style="mso-tab-count: 1 dotted">                                                                           </span>
 
-[24](#24).          Remuneration and other conditions
+[24](#24).          Remuneration and other conditions<span style="mso-tab-count: 1 dotted">                                                   </span>
 
-[25](#25).          Assignment of duties
+[25](#25).          Assignment of duties<span style="mso-tab-count: 1 dotted">                                                                         </span>
 
-[26](#26).          Voluntary moves between Agencies
+[26](#26).          Voluntary moves between Agencies<span style="mso-tab-count: 1 dotted">                                                  </span>
 
-[27](#27).          Compulsory moves between Agencies
+[27](#27).          Compulsory moves between Agencies<span style="mso-tab-count: 1 dotted">                                              </span>
 
-[28](#28).          Suspension
+[28](#28).          Suspension<span style="mso-tab-count: 1 dotted">                                                                                         </span>
 
-[29](#29).          Termination of employment
+[29](#29).          Termination of employment<span style="mso-tab-count: 1 dotted">                                                              </span>
 
-[30](#30).          Retirement
+[30](#30).          Retirement<span style="mso-tab-count: 1 dotted">                                                                                         </span>
 
-[31](#31).          Forfeiture of additional remuneration
+[31](#31).          Forfeiture of additional remuneration<span style="mso-tab-count: 1 dotted">                                                </span>
 
-[32](#32).          Right of return for election candidates
+[32](#32).          Right of return for election candidates<span style="mso-tab-count: 1 dotted">                                               </span>
 
-[33](#33).          Review of actions
+[33](#33).          Review of actions<span style="mso-tab-count: 1 dotted">                                                                              </span>
 
-    **Division 2—The Senior Executive Service**
+    **Division 2—The Senior Executive Service<span style="mso-tab-count: 1">                                                    </span>**
 
-[34](#34).          SES employees
+[34](#34).          SES employees<span style="mso-tab-count: 1 dotted">                                                                                  </span>
 
-[35](#35).          Constitution and role of SES
+[35](#35).          Constitution and role of SES<span style="mso-tab-count: 1 dotted">                                                             </span>
 
-[36](#36).          Commissioner’s Directions on SES matters
+[36](#36).          Commissioner’s Directions on SES matters<span style="mso-tab-count: 1 dotted">                                      </span>
 
-[37](#37).          Incentive to retire
+[37](#37).          Incentive to retire<span style="mso-tab-count: 1 dotted">                                                                               </span>
 
-[38](#38).          Commissioner’s certificate required for termination of SES employment
+[38](#38).          Commissioner’s certificate required for termination of SES employment<span style="mso-tab-count: 1">               </span>
 
-    **Division 3—Heads of Mission**
+    **Division 3—Heads of Mission<span style="mso-tab-count: 1">                                                                               </span>**
 
-[39](#39).          Heads of Mission
+[39](#39).          Heads of Mission<span style="mso-tab-count: 1 dotted">                                                                              </span>
 
-**Part 5—The Public Service Commissioner** 
+**Part 5—The Public Service Commissioner<span style="mso-tab-count: 1">                                                             </span>** 
 
-    **Division 1—Commissioner’s functions etc.**
+    **Division 1—Commissioner’s functions etc.<span style="mso-tab-count: 1">                                                   </span>**
 
-[40](#40).          Public Service Commissioner
+[40](#40).          Public Service Commissioner<span style="mso-tab-count: 1 dotted">                                                             </span>
 
-[41](#41).          Commissioner’s functions
+[41](#41).          Commissioner’s functions<span style="mso-tab-count: 1 dotted">                                                                 </span>
 
-[42](#42).          Commissioner’s Directions
+[42](#42).          Commissioner’s Directions<span style="mso-tab-count: 1 dotted">                                                               </span>
 
-[43](#43).          Commissioner’s inquiry powers
+[43](#43).          Commissioner’s inquiry powers<span style="mso-tab-count: 1 dotted">                                                       </span>
 
-[44](#44).          Annual report
+[44](#44).          Annual report<span style="mso-tab-count: 1 dotted">                                                                                    </span>
 
-    **Division 2—Commissioner’s appointment, conditions etc.**
+    **Division 2—Commissioner’s appointment, conditions etc.<span style="mso-tab-count: 1">                   </span>**
 
-[45](#45).          Appointment of Commissioner
+[45](#45).          Appointment of Commissioner<span style="mso-tab-count: 1 dotted">                                                         </span>
 
-[46](#46).          Remuneration etc 
+[46](#46).          Remuneration etc <span style="mso-tab-count: 1 dotted">                                                                              </span>
 
-[47](#47).          Removal from office
+[47](#47).          Removal from office<span style="mso-tab-count: 1 dotted">                                                                          </span>
 
-[48](#48).          Acting Commissioner
+[48](#48).          Acting Commissioner<span style="mso-tab-count: 1 dotted">                                                                        </span>
 
-**Part 6—The Merit Protection Commissioner** 
+**Part 6—The Merit Protection Commissioner<span style="mso-tab-count: 1">                                                       </span>** 
 
-    **Division 1—Merit Protection Commissioner’s functions etc.**
+    **Division 1—Merit Protection Commissioner’s functions etc.<span style="mso-tab-count: 1">             </span>**
 
-[49](#49).          Merit Protection Commissioner
+[49](#49).          Merit Protection Commissioner<span style="mso-tab-count: 1 dotted">                                                        </span>
 
-[50](#50).          Merit Protection Commissioner’s functions
+[50](#50).          Merit Protection Commissioner’s functions<span style="mso-tab-count: 1 dotted">                                     </span>
 
-[51](#51).          Annual report
+[51](#51).          Annual report<span style="mso-tab-count: 1 dotted">                                                                                    </span>
 
-    **Division 2—Merit Protection Commissioner’s appointment, conditions etc.**
+    **Division 2—Merit Protection Commissioner’s appointment, conditions etc.<span style="mso-tab-count: 1">   </span>**
 
-[52](#52).          Appointment of Merit Protection Commissioner
+[52](#52).          Appointment of Merit Protection Commissioner<span style="mso-tab-count: 1 dotted">                             </span>
 
-[53](#53).          Remuneration etc 
+[53](#53).          Remuneration etc <span style="mso-tab-count: 1 dotted">                                                                              </span>
 
-[54](#54).          Removal from office
+[54](#54).          Removal from office<span style="mso-tab-count: 1 dotted">                                                                          </span>
 
-[55](#55).          Acting Merit Protection Commissioner
+[55](#55).          Acting Merit Protection Commissioner<span style="mso-tab-count: 1 dotted">                                            </span>
 
-**Part 7—Secretaries of Departments**
+**Part 7—Secretaries of Departments<span style="mso-tab-count: 1">                                                                          </span>**
 
-[56](#56).          Creation of offices of Secretary
+[56](#56).          Creation of offices of Secretary<span style="mso-tab-count: 1 dotted">                                                         </span>
 
-[57](#57).          Responsibilities of Secretaries
+[57](#57).          Responsibilities of Secretaries<span style="mso-tab-count: 1 dotted">                                                           </span>
 
-[58](#58).          Appointment etc  of Secretary
+[58](#58).          Appointment etc  of Secretary<span style="mso-tab-count: 1 dotted">                                                          </span>
 
-[59](#59).          Termination of appointment
+[59](#59).          Termination of appointment<span style="mso-tab-count: 1 dotted">                                                             </span>
 
-[60](#60).          Engagement of former Secretaries
+[60](#60).          Engagement of former Secretaries<span style="mso-tab-count: 1 dotted">                                                      </span>
 
-[61](#61).          Remuneration and other conditions
+[61](#61).          Remuneration and other conditions<span style="mso-tab-count: 1 dotted">                                                   </span>
 
-[62](#62).          Acting Secretary
+[62](#62).          Acting Secretary<span style="mso-tab-count: 1 dotted">                                                                                </span>
 
-[63](#63).          Annual report
+[63](#63).          Annual report<span style="mso-tab-count: 1 dotted">                                                                                    </span>
 
-**Part 8—Management Advisory Committee**
+**Part 8—Management Advisory Committee<span style="mso-tab-count: 1">                                                          </span>**
 
-[64](#64).          Management Advisory Committee
+[64](#64).          Management Advisory Committee<span style="mso-tab-count: 1 dotted">                                                   </span>
 
-**Part 9—Executive Agencies**
+**Part 9—Executive Agencies<span style="mso-tab-count: 1">                                                                                           </span>**
 
-[65](#65).          Establishment etc  of Executive Agencies
+[65](#65).          Establishment etc  of Executive Agencies<span style="mso-tab-count: 1 dotted">                                          </span>
 
-[66](#66).          Responsibilities of Heads of Executive Agencies
+[66](#66).          Responsibilities of Heads of Executive Agencies<span style="mso-tab-count: 1 dotted">                              </span>
 
-[67](#67).          Appointment etc  of Head
+[67](#67).          Appointment etc  of Head<span style="mso-tab-count: 1 dotted">                                                                 </span>
 
-[68](#68).          Remuneration and other conditions
+[68](#68).          Remuneration and other conditions<span style="mso-tab-count: 1 dotted">                                                   </span>
 
-[69](#69).          Acting Head
+[69](#69).          Acting Head<span style="mso-tab-count: 1 dotted">                                                                                       </span>
 
-[70](#70).          Annual report
+[70](#70).          Annual report<span style="mso-tab-count: 1 dotted">                                                                                    </span>
 
-**Part 10—Administrative arrangements and re-organisations**
+**Part 10—Administrative arrangements and re-organisations<span style="mso-tab-count: 1">                     </span>**
 
-[71](#71).          Arrangements with States and Territories
+[71](#71).          Arrangements with States and Territories<span style="mso-tab-count: 1 dotted">                                         </span>
 
-[72](#72).          Machinery of government changes
+[72](#72).          Machinery of government changes<span style="mso-tab-count: 1 dotted">                                                    </span>
 
-**Part 11—Miscellaneous**
+**Part 11—Miscellaneous<span style="mso-tab-count: 1">                                                                                                    </span>**
 
-[73](#73).          Payments in special circumstances
+[73](#73).          Payments in special circumstances<span style="mso-tab-count: 1 dotted">                                                    </span>
 
-[74](#74).          Locally engaged employees
+[74](#74).          Locally engaged employees<span style="mso-tab-count: 1 dotted">                                                               </span>
 
-[75](#75).          Attachment of salaries to satisfy judgment debts
+[75](#75).          Attachment of salaries to satisfy judgment debts<span style="mso-tab-count: 1 dotted">                             </span>
 
-[76](#76).          Release of personal information
+[76](#76).          Release of personal information<span style="mso-tab-count: 1 dotted">                                                        </span>
 
-[77](#77).          Positions
+[77](#77).          Positions<span style="mso-tab-count: 1 dotted">                                                                                            </span>
 
-[78](#78).          Delegations
+[78](#78).          Delegations<span style="mso-tab-count: 1 dotted">                                                                                        </span>
 
-[79](#79).          Regulations
+[79](#79).          Regulations<span style="mso-tab-count: 1 dotted">                                                                                        </span>
 
-**Notes** 
+**Notes<span style="mso-tab-count: 1">                                                                                                                                            </span>** 
 
 
 ## An Act to provide for the establishment and management of the Australian Public Service, and for other purposes
 
 ## Part 1—Preliminary
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
+##### <a id="1"></a>1  Short title <span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt; mso-bidi-font-size: 13.0pt">[_see_ Note 1]</span>
 
                    This Act may be cited as the _Public Service Act 1999_.
 
 Note:          See also the _Public Employment (Consequential and Transitional) Amendment Act 1999_.
 
-##### <a id="2"></a>2  Commencement [_see_ Note 1]
+##### <a id="2"></a>2  Commencement <span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt; mso-bidi-font-size: 13.0pt">[_see_ Note 1]</span>
 
              (1)  Subject to subsection (2), this Act commences on a day to be fixed by Proclamation.
 
@@ -251,13 +249,13 @@ Note:          See also the _Public Employment (Consequential 
 
                    This Act binds the Crown in right of the Commonwealth, but does not make the Crown liable to be prosecuted for an offence.
 
-##### <a id="5"></a>5  This Act extends to things outside Australia
+##### <a id="5"></a>5  This Act extends to things outside <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>
 
-             (1)  This Act extends to acts, omissions, matters and things outside Australia (unless the contrary intention appears).
+             (1)  This Act extends to acts, omissions, matters and things outside <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> (unless the contrary intention appears).
 
              (2)  This Act extends to all the Territories.
 
-##### <a id="6"></a>6  Engagement of employees in Department or Executive Agency
+##### <a id="6"></a>6  Engagement of employees in Department or Executive Agency<o:p></o:p>
 
              (1)  All persons engaged on behalf of the Commonwealth as employees to perform functions in a Department or Executive Agency must be engaged under this Act, or under the authority of another Act.
 
@@ -268,6 +266,8 @@ Note:          See also the _Public Employment (Consequential 
                      (b)  persons engaged to perform services in the Australian Secret Intelligence Service.
 
              (3)  This section does not, by implication, affect any power that an Agency Head might otherwise have to engage persons as independent contractors.
+
+<o:p> </o:p>
 
 ## Part 2—Interpretation
 
@@ -301,8 +301,6 @@ Note:          See also the _Public Employment (Consequential 
 
                      (c)  in relation to a Statutory Agency—the Minister who administers the provision of the Act that provides for the appointment of the Head of the Agency.
 
-                    <a name="apc"></a>**_APCS_**has the meaning given by the _Workplace Relations Act 1996_.
-
                     <a name="ap"></a>**_APS_** means the Australian Public Service established by section 9.
 
                     <a name="ap-employe"></a>**_APS employee_** means:
@@ -315,9 +313,9 @@ Note:          See also the _Public Employment (Consequential 
 
                     <a name="ap-valu"></a>**_APS Values_** means the values in section 10.
 
-                    <a name="award"></a>**_award_** has the same meaning as in the _Workplace Relations Act 1996_.
+                    <a name="awa"></a>**_AWA_** has the same meaning as in the _Workplace Relations Act 1996_.
 
-                    <a name="australian-fair-pai-condition-standard"></a>**_Australian Fair Pay and Conditions Standard_** has the meaning given by the _Workplace Relations Act 1996_.
+                    <a name="award"></a>**_award_** has the same meaning as in the _Workplace Relations Act 1996_.
 
                     <a name="categori-ap-employe"></a>**_category of APS employee_** means one of the following categories:
 
@@ -327,11 +325,11 @@ Note:          See also the _Public Employment (Consequential 
 
                      (c)  APS employees engaged for duties that are irregular or intermittent.
 
+                    <a name="certifi-agreem"></a>**_certified agreement_** has the same meaning as in the _Workplace Relations Act 1996_.
+
                     <a name="classif-rule"></a>**_Classification Rules_** means rules made under section 23.
 
                     <a name="code-conduct"></a>**_Code of Conduct_** means the rules in section 13.
-
-                    <a name="collect-agreem"></a>**_collective agreement_** has the meaning given by the _Workplace Relations Act 1996_.
 
                     <a name="commission"></a>**_Commissioner_** means the Public Service Commissioner appointed under this Act.
 
@@ -363,11 +361,7 @@ Note:          See also the _Public Employment (Consequential 
 
                     <a name="ongoing-ap-employe"></a>**_ongoing APS employee_** means a person engaged as an ongoing APS employee, as mentioned in paragraph 22(2)(a).
 
-                    <a name="oversea"></a>**_overseas_** means outside Australia and the Territories.
-
-                    <a name="pre-reform-awa"></a>**_pre-reform AWA_** has the meaning given by the _Workplace Relations Act 1996_.
-
-                    <a name="pre-reform-certifi-agreem"></a>**_pre-reform certified agreement_** has the meaning given by the _Workplace Relations Act 1996_.
+                    <a name="oversea"></a>**_overseas_** means outside <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> and the Territories.
 
                     <a name="presid-offic"></a>**_Presiding Officer_** means the President of the Senate or the Speaker of the House of Representatives.
 
@@ -383,13 +377,13 @@ Note:          See also the _Public Employment (Consequential 
 
                     <a name="statutori-agenc"></a>**_Statutory Agency_** means a body or group of persons declared by an Act to be a Statutory Agency for the purposes of this Act.
 
-                    <a name="workplac-agreem"></a>**_workplace agreement_** has the meaning given by the _Workplace Relations Act 1996_.
-
 ##### <a id="8"></a>8  Workplace Relations Act
 
              (1)  This Act has effect subject to the _Workplace Relations Act 1996_.
 
              (2)  Subsection (1) is not intended to imply anything about the relationship between this Act and any Act other than the _Workplace Relations Act 1996_.
+
+<o:p> </o:p>
 
 ## Part 3—The Australian Public Service
 
@@ -427,7 +421,7 @@ Note:          See also the _Public Employment (Consequential 
 
                     (m)  the APS provides a reasonable opportunity to all eligible members of the community to apply for APS employment;
 
-                     (n)  the APS is a career-based service to enhance the effectiveness and cohesion of Australia’s democratic system of government;
+                     (n)  the APS is a career-based service to enhance the effectiveness and cohesion of <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>’s democratic system of government;
 
                      (o)  the APS provides a fair system of review of decisions taken in respect of APS employees.
 
@@ -441,7 +435,7 @@ Note:          See also the _Public Employment (Consequential 
 
                      (d)  the assessment is the primary consideration in making the decision.
 
-##### <a id="11"></a>11  Commissioner’s Directions about APS Values
+##### <a id="11"></a>11  Commissioner’s Directions about APS Values<o:p></o:p>
 
              (1) The Commissioner must issue directions in writing in relation to each of the APS Values for the purpose of:
 
@@ -451,11 +445,11 @@ Note:          See also the _Public Employment (Consequential 
 
              (2)  For the purposes of this Act other than this section, the APS Values have effect subject to the restrictions (if any) in directions made under subsection (1).
 
-##### <a id="12"></a>12  Agency Heads must promote APS Values
+##### <a id="12"></a>12  Agency Heads must promote APS Values<o:p></o:p>
 
                    An Agency Head must uphold and promote the APS Values.
 
-##### <a id="13"></a>13  The APS Code of Conduct
+##### <a id="13"></a>13  The APS Code of Conduct<o:p></o:p>
 
              (1)  An APS employee must behave honestly and with integrity in the course of APS employment.
 
@@ -489,7 +483,7 @@ in order to gain, or seek to gain, a benefit or advantage for the employee or fo
 
            (11)  An APS employee must at all times behave in a way that upholds the APS Values and the integrity and good reputation of the APS.
 
-           (12)  An APS employee on duty overseas must at all times behave in a way that upholds the good reputation of Australia.
+           (12)  An APS employee on duty overseas must at all times behave in a way that upholds the good reputation of <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>.
 
            (13)  An APS employee must comply with any other conduct requirement that is prescribed by the regulations.
 
@@ -503,7 +497,7 @@ in order to gain, or seek to gain, a benefit or advantage for the employee or fo
 
                     <a name="statutori-offic-holder"></a>**_statutory office holder_** means a person who holds any office or appointment under an Act, being an office or appointment that is prescribed by the regulations for the purposes of this definition.
 
-##### <a id="15"></a>15  Breaches of the Code of Conduct
+##### <a id="15"></a>15  Breaches of the Code of Conduct<o:p></o:p>
 
              (1)  An Agency Head may impose the following sanctions on an APS employee in the Agency who is found (under procedures established under subsection (3)) to have breached the Code of Conduct:
 
@@ -533,7 +527,7 @@ in order to gain, or seek to gain, a benefit or advantage for the employee or fo
 
              (5)  An Agency Head must take reasonable steps to ensure that every APS employee in the Agency has ready access to the documents that set out the procedures referred to in subsection (3).
 
-##### <a id="16"></a>16  Protection for whistleblowers
+##### <a id="16"></a>16  Protection for whistleblowers<o:p></o:p>
 
                    A person performing functions in or for an Agency must not victimise, or discriminate against, an APS employee because the APS employee has reported breaches (or alleged breaches) of the Code of Conduct to:
 
@@ -543,7 +537,7 @@ in order to gain, or seek to gain, a benefit or advantage for the employee or fo
 
                      (c)  an Agency Head or a person authorised for the purposes of this section by an Agency Head.
 
-##### <a id="17"></a>17  Prohibition on patronage and favouritism
+##### <a id="17"></a>17  Prohibition on patronage and favouritism<o:p></o:p>
 
              (1)  A person exercising powers under this Act or the regulations:
 
@@ -555,7 +549,7 @@ must do so without patronage or favouritism.
 
              (2)  This section does not apply to giving, or carrying out, a direction under subsection 39(2) about a Head of Mission.
 
-##### <a id="18"></a>18  Promotion of employment equity
+##### <a id="18"></a>18  Promotion of employment equity<o:p></o:p>
 
                    An Agency Head must establish a workplace diversity program to assist in giving effect to the APS Values.
 
@@ -563,23 +557,25 @@ must do so without patronage or favouritism.
 
                    An Agency Head is not subject to direction by any Minister in relation to the exercise of powers by the Agency Head under Division 1 or 2 of Part 4 in relation to particular individuals.
 
+<o:p> </o:p>
+
 ## Part 4—APS employees
 
 ### Division 1—APS employees generally
 
-##### <a id="20"></a>20  Employer powers etc. of Agency Head
+##### <a id="20"></a>20  Employer powers etc. of Agency Head<o:p></o:p>
 
              (1)  An Agency Head, on behalf of the Commonwealth, has all the rights, duties and powers of an employer in respect of APS employees in the Agency.
 
              (2)  Without limiting subsection (1), an Agency Head has, in respect of APS employees in the Agency, the rights, duties and powers that are prescribed by the regulations.
 
-##### <a id="21"></a>21  Prime Minister’s directions to Agency Heads
+##### <a id="21"></a>21  Prime Minister’s directions to Agency Heads<o:p></o:p>
 
              (1)  The Prime Minister may issue general directions in writing to Agency Heads relating to the management and leadership of APS employees.
 
              (2)  A direction under subsection (1) must be published in the _Gazette_ within 14 days after the direction is issued.
 
-##### <a id="22"></a>22  Engagement of APS employees
+##### <a id="22"></a>22  Engagement of APS employees<o:p></o:p>
 
              (1)  An Agency Head, on behalf of the Commonwealth, may engage persons as employees for the purposes of the Agency.
 
@@ -613,11 +609,11 @@ must do so without patronage or favouritism.
 
              (8)  An Agency Head must not engage, as an APS employee, a person who is not an Australian citizen, unless the Agency Head considers it appropriate to do so.
 
-##### <a id="23"></a>23  Classification Rules
+##### <a id="23"></a>23  Classification Rules<o:p></o:p>
 
              (1)  The Public Service Minister may, by notice in the _Gazette_, make rules about classifications of APS employees.
 
-             (2)  The Classification Rules may apply, adopt or incorporate, with or without modification, any of the provisions of an APCS, as in force at a particular time or as in force from time to time.
+             (2)  The Classification Rules may apply, adopt or incorporate, with or without modification, any of the provisions of an award, as in force at a particular time or as in force from time to time.
 
              (3)  Agency Heads must comply with the Classification Rules.
 
@@ -637,41 +633,41 @@ must do so without patronage or favouritism.
 
                      (g)  in other circumstances prescribed by the regulations.
 
-             (5)  If a relevant APCS, workplace agreement, pre-reform certified agreement or pre-reform AWA contains procedures to be followed when reducing the classification, then a reduction is of no effect unless those procedures are followed.
+             (5)  If a relevant award, certified agreement or AWA contains procedures to be followed when reducing the classification, then a reduction is of no effect unless those procedures are followed.
 
-##### <a id="24"></a>24  Remuneration and other conditions
+##### <a id="24"></a>24  Remuneration and other conditions<o:p></o:p>
 
-             (1)  An Agency Head may from time to time determine in writing the remuneration and other terms and conditions of employment applying to an APS employee or employees in the Agency.  A determination is of no effect to the extent that it would reduce the benefit to an employee of any individual term or condition applicable to the employee under the Australian Fair Pay and Conditions Standard or an award, workplace agreement, pre-reform certified agreement or pre-reform AWA.
+             (1)  An Agency Head may from time to time determine in writing the remuneration and other terms and conditions of employment applying to an APS employee or employees in the Agency.  A determination is of no effect to the extent that it would reduce the benefit to an employee of any individual term or condition applicable to the employee under an award, certified agreement or AWA.
 
-Note:          Other Commonwealth laws deal with matters such as superannuation, compensation, long-service leave and maternity leave.
+Note:<span style="mso-tab-count: 1">          </span>Other Commonwealth laws deal with matters such as superannuation, compensation, long-service leave and maternity leave.
 
-             (2)  A determination under subsection (1) may apply, adopt or incorporate, with or without modification, any of the provisions of the Australian Fair Pay and Conditions Standard or an award, collective agreement or pre-reform certified agreement, as in force at a particular time or as in force from time to time.
+<span style="mso-tab-count: 1">             </span>(2)<span style="mso-tab-count: 1">  </span>A determination under subsection (1) may apply, adopt or incorporate, with or without modification, any of the provisions of an award or certified agreement, as in force at a particular time or as in force from time to time.
 
-             (3)  The Public Service Minister may, by notice in the _Gazette_, determine the remuneration and other terms and conditions of employment applying to APS employees, if the Public Service Minister is of the opinion that it is desirable to do so because of exceptional circumstances.
+<span style="mso-tab-count: 1">             </span>(3)<span style="mso-tab-count: 1">  </span>The Public Service Minister may, by notice in the _Gazette_, determine the remuneration and other terms and conditions of employment applying to APS employees, if the Public Service Minister is of the opinion that it is desirable to do so because of exceptional circumstances.
 
-             (4)  A determination under subsection (3) overrides any determination under subsection (1), to the extent of any inconsistency.
+<span style="mso-tab-count: 1">             </span>(4)<span style="mso-tab-count: 1">  </span>A determination under subsection (3) overrides any determination under subsection (1), to the extent of any inconsistency.
 
-##### <a id="25"></a>25  Assignment of duties
+##### <a id="25"></a>25<span style="mso-spacerun: yes">  </span>Assignment of duties<o:p></o:p>
 
                    An Agency Head may from time to time determine the duties of an APS employee in the Agency, and the place or places at which the duties are to be performed.
 
-##### <a id="26"></a>26  Voluntary moves between Agencies
+##### <a id="26"></a>26  Voluntary moves between Agencies<o:p></o:p>
 
              (1)  An Agency Head may enter into an agreement in writing with an APS employee for the employee to move to the Agency Head’s Agency from another Agency.
 
              (2)  Subject to the regulations, the agreement has effect according to its terms, by force of this section.
 
-##### <a id="27"></a>27  Compulsory moves between Agencies
+##### <a id="27"></a>27  Compulsory moves between Agencies<o:p></o:p>
 
              (1)  The Commissioner may, by direction in writing, move an excess APS employee to another Agency, without anyone’s consent.
 
              (2)  For the purposes of this section, an APS employee is an **_excess APS employee_** if, and only if, the Agency Head has notified the Commissioner in writing that the employee is excess to the requirements of the Agency.
 
-##### <a id="28"></a>28  Suspension
+##### <a id="28"></a>28  Suspension<o:p></o:p>
 
                    The regulations may make provision in relation to the suspension from duties of APS employees, with or without remuneration.
 
-##### <a id="29"></a>29  Termination of employment
+##### <a id="29"></a>29  Termination of employment<o:p></o:p>
 
              (1)  An Agency Head may at any time, by notice in writing, terminate the employment of an APS employee in the Agency.
 
@@ -701,13 +697,13 @@ Note:          The _Workplace Relations Act 1996_ has rules an
 
              (5)  Subsection (4) does not, by implication, limit the grounds for termination for a non-ongoing APS employee.
 
-##### <a id="30"></a>30  Retirement
+##### <a id="30"></a>30  Retirement<o:p></o:p>
 
              (1)  An APS employee who has reached the minimum retiring age is entitled to retire at any time by notice in writing to the Agency Head.
 
              (2)  The **_minimum retiring age_** is 55 years, or such higher or lower age as is prescribed by the regulations.
 
-##### <a id="31"></a>31  Forfeiture of additional remuneration
+##### <a id="31"></a>31  Forfeiture of additional remuneration<o:p></o:p>
 
              (1)  If an APS employee receives any non-Commonwealth remuneration for performing duties as an APS employee, then the Agency Head may give a notice in writing to the employee in relation to the whole, or a specified part, of the remuneration.
 
@@ -729,7 +725,7 @@ Note:          The _Workplace Relations Act 1996_ has rules an
 
                     <a name="non-commonwealth-remuner"></a>**_non-Commonwealth remuneration_** means any remuneration from a person other than the Commonwealth.
 
-##### <a id="32"></a>32  Right of return for election candidates
+##### <a id="32"></a>32  Right of return for election candidates<o:p></o:p>
 
              (1)  This section applies to a person if:
 
@@ -741,7 +737,7 @@ Note:          The _Workplace Relations Act 1996_ has rules an
 
              (2)  The person is entitled to be again engaged as an APS employee, in accordance with the regulations and within the time limits prescribed by the regulations.
 
-##### <a id="33"></a>33  Review of actions
+##### 33  Review of actions<o:p></o:p>
 
              (1)  An APS employee is entitled to review, in accordance with the regulations, of any APS action that relates to his or her APS employment. However, an APS employee is not entitled to review under this section of APS action that consists of the termination of the employee’s employment.
 
@@ -777,13 +773,15 @@ Note:          For example, the regulations might provide that
 
                     <a name="respons-agenc"></a>**_responsible Agency_**, in relation to APS action, means the Agency in which the person who did the action was at the time of the action.
 
+<o:p> </o:p>
+
 ### Division 2—The Senior Executive Service
 
-##### <a id="34"></a>34  SES employees
+##### <a id="34"></a>34  SES employees<o:p></o:p>
 
                    SES employees are those APS employees who are classified as SES employees under the Classification Rules.
 
-##### <a id="35"></a>35  Constitution and role of SES
+##### <a id="35"></a>35  Constitution and role of SES<o:p></o:p>
 
              (1)  The Senior Executive Service consists of the SES employees.
 
@@ -801,11 +799,11 @@ Note:          For example, the regulations might provide that
 
                      (c)  by personal example and other appropriate means, promotes the APS Values and compliance with the Code of Conduct.
 
-##### <a id="36"></a>36  Commissioner’s Directions on SES matters
+##### <a id="36"></a>36  Commissioner’s Directions on SES matters<o:p></o:p>
 
                    The Commissioner must issue directions in writing about employment matters relating to SES employees, including engagement, promotion, redeployment, mobility and termination.
 
-##### <a id="37"></a>37  Incentive to retire
+##### <a id="37"></a>37  Incentive to retire<o:p></o:p>
 
              (1)  An Agency Head may give a notice in writing to an SES employee in the Agency, stating that the employee will become entitled to a payment of a specified amount if the employee retires within a period specified in the notice.
 
@@ -823,9 +821,11 @@ Note:          For example, the regulations might provide that
 
                      (b)  the Commissioner is of the opinion that the termination is in the public interest.
 
-### Division 3—Heads of Mission
+<o:p> </o:p>
 
-##### <a id="39"></a>39  Heads of Mission
+### Division 3—Heads of <st1:city><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><span class="CharDivText">Mission</span></st1:place></st1:city>
+
+##### <a id="39"></a>39  Heads of <st1:city><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Mission</st1:place></st1:city><o:p></o:p>
 
              (1)  The appointment of a Head of Mission by the Governor-General cannot take effect unless the person is an APS employee or a person employed under the _Australian Trade Commission Act 1985_.
 
@@ -834,6 +834,8 @@ Note:          For example, the regulations might provide that
                      (a)  directing the Agency Head to engage a particular person as an APS employee so that the person can become a Head of Mission; or
 
                      (b)  directing the Agency Head to assign particular duties to an APS employee who has been appointed as a Head of Mission.
+
+<o:p> </o:p>
 
 ## Part 5—The Public Service Commissioner
 
@@ -901,7 +903,7 @@ Note:          For example, the regulations might provide that
 
              (4)  Commissioner’s directions are disallowable non-legislative instruments for the purposes of section 46B of the _Acts Interpretation Act 1901_.
 
-##### <a id="43"></a>43  Commissioner’s inquiry powers
+##### <a id="43"></a>43  Commissioner’s inquiry powers<o:p></o:p>
 
              (1)  Each of the following is a **_special inquiry_**for the purpose of this section:
 
@@ -926,6 +928,8 @@ Note:          For example, the regulations might provide that
              (3)  An Agency Head must give the Commissioner whatever information the Commissioner requires for the purpose of preparing the report referred to in subsection (2).
 
              (4)  The report must be prepared in accordance with guidelines approved on behalf of the Parliament by the Joint Committee of Public Accounts and Audit.
+
+<o:p> </o:p>
 
 ### Division 2—Commissioner’s appointment, conditions etc.
 
@@ -961,7 +965,7 @@ Note:          For example, the regulations might provide that
 
                      (a)  if there is a vacancy in the office of Commissioner, whether or not an appointment has previously been made to the office; or
 
-                     (b)  during any period, or during all periods, when the Commissioner is absent from duty or from Australia or is, for any reason, unable to perform the duties of the office.
+                     (b)  during any period, or during all periods, when the Commissioner is absent from duty or from <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> or is, for any reason, unable to perform the duties of the office.
 
              (2)  Anything done by or in relation to a person purporting to act under this section is not invalid merely because:
 
@@ -973,6 +977,8 @@ Note:          For example, the regulations might provide that
 
                      (d)  the occasion to act had not arisen or had ceased.
 
+<o:p> </o:p>
+
 ## Part 6—The Merit Protection Commissioner
 
 ### Division 1—Merit Protection Commissioner’s functions etc.
@@ -983,7 +989,7 @@ Note:          For example, the regulations might provide that
 
              (2)  The staff necessary to assist the Merit Protection Commissioner must be persons engaged under this Act and made available by the Public Service Commissioner.
 
-##### 50  Merit Protection Commissioner’s functions
+##### 50  Merit Protection Commissioner’s functions
 
              (1)  The Merit Protection Commissioner’s functions include the following functions:
 
@@ -1019,6 +1025,8 @@ Note:          For example, the regulations might provide that
 
              (3)  The report must be included in the Public Service Commissioner’s report under subsection 44(2).
 
+<o:p> </o:p>
+
 ### Division 2—Merit Protection Commissioner’s appointment, conditions etc.
 
 ##### <a id="52"></a>52  Appointment of Merit Protection Commissioner
@@ -1047,13 +1055,13 @@ Note:          For example, the regulations might provide that
 
                      (d)  assigns his or her remuneration for the benefit of his or her creditors.
 
-##### <a id="55"></a>55  Acting Merit Protection Commissioner
+##### <a id="55"></a>55  Acting Merit Protection Commissioner
 
              (1)  The Public Service Minister may appoint a person to act as Merit Protection Commissioner:
 
                      (a)  if there is a vacancy in the office of Merit Protection Commissioner, whether or not an appointment has previously been made to the office; or
 
-                     (b)  during any period, or during all periods, when the Merit Protection Commissioner is absent from duty or from Australia or is, for any reason, unable to perform the duties of the office.
+                     (b)  during any period, or during all periods, when the Merit Protection Commissioner is absent from duty or from <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> or is, for any reason, unable to perform the duties of the office.
 
              (2)  Anything done by or in relation to a person purporting to act under this section is not invalid merely because:
 
@@ -1065,9 +1073,11 @@ Note:          For example, the regulations might provide that
 
                      (d)  the occasion to act had not arisen or had ceased.
 
+<o:p> </o:p>
+
 ## Part 7—Secretaries of Departments
 
-##### <a id="56"></a>56  Creation of offices of Secretary
+##### <a id="56"></a>56  Creation of offices of Secretary<o:p></o:p>
 
              (1)  On the establishment of a Department, an office of Secretary of that Department is established by force of this subsection.
 
@@ -1083,7 +1093,7 @@ Note:          For example, the regulations might provide that
 
              (2)  The Secretary of a Department must assist the Agency Minister to fulfil the Agency Minister’s accountability obligations to the Parliament to provide factual information, as required by the Parliament, in relation to the operation and administration of the Department.
 
-##### <a id="58"></a>58  Appointment etc. of Secretary
+##### <a id="58"></a>58  Appointment etc. of Secretary<o:p></o:p>
 
              (1)  The Prime Minister may appoint a person to be the Secretary of a Department for a period of up to 5 years specified in the instrument of appointment.
 
@@ -1097,7 +1107,7 @@ Note:          For example, the regulations might provide that
 
              (6)  An appointment under this section is not affected by any defect or irregularity in or in connection with the appointment.
 
-##### <a id="59"></a>59  Termination of appointment
+##### <a id="59"></a>59  Termination of appointment<o:p></o:p>
 
              (1)  The Prime Minister may, by notice in writing, terminate an appointment of Secretary at any time. 
 
@@ -1107,11 +1117,11 @@ Note:          In _Barratt v Howard_ \[1999] FCA 1132, the Fed
 
              (3)  Before terminating any other appointment, the Prime Minister must have received a report about the proposed termination from the Secretary of the Prime Minister’s Department.
 
-##### <a id="60"></a>60  Engagement of former Secretaries
+##### <a id="60"></a>60  Engagement of former Secretaries<o:p></o:p>
 
                    At any time after the appointment of a Secretary is terminated under section 56 or 59, the Prime Minister, on behalf of the Commonwealth, may engage the former Secretary to perform specified duties (otherwise than as an APS employee), on terms and conditions determined by the Prime Minister.
 
-##### <a id="61"></a>61  Remuneration and other conditions
+##### <a id="61"></a>61  Remuneration and other conditions<o:p></o:p>
 
              (1)  The remuneration and other conditions of appointment of a Secretary are as determined in writing by the Prime Minister.
 
@@ -1119,13 +1129,13 @@ Note:          In _Barratt v Howard_ \[1999] FCA 1132, the Fed
 
              (3)  Each determination must be published in the _Gazette_ within 14 days after the determination is made.
 
-##### <a id="62"></a>62  Acting Secretary
+##### <a id="62"></a>62  Acting Secretary<o:p></o:p>
 
              (1)  The Prime Minister may appoint a person to act as the Secretary of a Department:
 
                      (a)  if there is a vacancy in the office of Secretary, whether or not an appointment has previously been made to the office; or
 
-                     (b)  during any period, or during all periods, when the Secretary is absent from duty or from Australia or is, for any reason, unable to perform the duties of the office.
+                     (b)  during any period, or during all periods, when the Secretary is absent from duty or from <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> or is, for any reason, unable to perform the duties of the office.
 
              (2)  Anything done by or in relation to a person purporting to act under this section is not invalid merely because:
 
@@ -1143,9 +1153,11 @@ Note:          In _Barratt v Howard_ \[1999] FCA 1132, the Fed
 
              (2)  The report must be prepared in accordance with guidelines approved on behalf of the Parliament by the Joint Committee of Public Accounts and Audit.
 
+<o:p> </o:p>
+
 ## Part 8—Management Advisory Committee
 
-##### <a id="64"></a>64  Management Advisory Committee
+##### <a id="64"></a>64  Management Advisory Committee<o:p></o:p>
 
              (1)  There is to be an APS Management Advisory Committee, with the function of advising the Government on matters relating to the management of the APS.
 
@@ -1159,9 +1171,11 @@ Note:          In _Barratt v Howard_ \[1999] FCA 1132, the Fed
 
                      (d)  such other persons as are nominated in writing by the Secretary of the Prime Minister’s Department.
 
+<o:p> </o:p>
+
 ## Part 9—Executive Agencies
 
-##### <a id="65"></a>65  Establishment etc. of Executive Agencies
+##### <a id="65"></a>65  Establishment etc. of Executive Agencies<o:p></o:p>
 
              (1)  The Governor-General may do any of the following, by order in the _Gazette_:
 
@@ -1187,7 +1201,7 @@ Note:          In _Barratt v Howard_ \[1999] FCA 1132, the Fed
 
              (3)  The Head of an Executive Agency is accountable to the government, the Parliament and the public in the same way as the Secretary of a Department.
 
-##### <a id="67"></a>67  Appointment etc. of Head
+##### <a id="67"></a>67  Appointment etc. of Head<o:p></o:p>
 
              (1)  The Agency Minister of an Executive Agency may appoint a person to be the Head of the Agency for a period of up to 5 years specified in the instrument of appointment.
 
@@ -1209,13 +1223,13 @@ Note:          In _Barratt v Howard_ \[1999] FCA 1132, the Fed
 
              (3)  Each determination must be published in the _Gazette_ within 14 days after the determination is made.
 
-##### <a id="69"></a>69  Acting Head
+##### <a id="69"></a>69  Acting Head<o:p></o:p>
 
              (1)  The Agency Minister of an Executive Agency may appoint a person to act as Head of the Agency:
 
                      (a)  if there is a vacancy in the office of Head, whether or not an appointment has previously been made to the office; or
 
-                     (b)  during any period, or during all periods, when the Head is absent from duty or from Australia or is, for any reason, unable to perform the duties of the office.
+                     (b)  during any period, or during all periods, when the Head is absent from duty or from <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> or is, for any reason, unable to perform the duties of the office.
 
              (2)  Anything done by or in relation to a person purporting to act under this section is not invalid merely because:
 
@@ -1227,15 +1241,17 @@ Note:          In _Barratt v Howard_ \[1999] FCA 1132, the Fed
 
                      (d)  the occasion to act had not arisen or had ceased.
 
-##### <a id="70"></a>70  Annual report
+##### <a id="70"></a>70  Annual report<o:p></o:p>
 
              (1)  After the end of each financial year, the Head of an Executive Agency must give a report to the Agency Minister, for presentation to the Parliament, on the Agency’s activities during the year.
 
              (2)  The report must be prepared in accordance with guidelines approved on behalf of the Parliament by the Joint Committee of Public Accounts and Audit.
 
+<o:p> </o:p>
+
 ## Part 10—Administrative arrangements and re-organisations
 
-##### <a id="71"></a>71  Arrangements with States and Territories
+##### <a id="71"></a>71  Arrangements with States and Territories<o:p></o:p>
 
              (1)  The Prime Minister may arrange with an appropriate authority of a State:
 
@@ -1247,7 +1263,7 @@ Note:          In _Barratt v Howard_ \[1999] FCA 1132, the Fed
 
                     <a name="state"></a>**_State_** means a State or Territory or an authority of a State or Territory.
 
-##### <a id="72"></a>72  Machinery of government changes
+##### <a id="72"></a>72  Machinery of government changes<o:p></o:p>
 
              (1)  The Commissioner may do any of the following, if the Commissioner is satisfied that it is necessary or desirable in order to give effect to an administrative re-arrangement:
 
@@ -1263,19 +1279,13 @@ Note:          In _Barratt v Howard_ \[1999] FCA 1132, the Fed
 
              (3)  If an APS employee (the **_transferred employee_**) becomes an employee of a Commonwealth authority under paragraph (1)(b), the employee is entitled to remuneration and other conditions of employment that are not less favourable than the terms and conditions to which the employee was entitled as an APS employee, immediately before ceasing to be an APS employee, under:
 
-                     (a)  the Australian Fair Pay and Conditions Standard or an award, workplace agreement, pre-reform certified agreement or pre-reform AWA; or
+                     (a)  an award, certified agreement or AWA; or
 
                      (b)  a determination under this Act.
 
-             (4)  Subsection (3) ceases to have effect on the next occasion when there is a relevant change in remuneration and conditions in the Commonwealth authority. For this purpose, **_relevant variation_** means a change that:
+             (4)  Subsection (3) ceases to have effect on the next occasion when there is a relevant variation in remuneration and conditions in the Commonwealth authority. For this purpose, **_relevant variation_** means a variation that:
 
-                     (a)  results from:
-
-                              (i)  the making or variation of an award or workplace agreement; or
-
-                             (ii)  an adjustment or variation of the Australian Fair Pay and Conditions Standard; or 
-
-                            (iii)  the termination or replacement of a pre-reform certified agreement or pre-reform AWA; and
+                     (a)  results from the making or variation of an award, certified agreement or AWA; and
 
                      (b)  applies to the transferred employee, or to a class of employees that includes the transferred employee.
 
@@ -1293,9 +1303,11 @@ Note:          In _Barratt v Howard_ \[1999] FCA 1132, the Fed
 
                     <a name="non-ap-employe"></a>**_non-APS employee_** means a person who is employed by the Commonwealth or by a Commonwealth authority, but does not include an APS employee.
 
+<o:p> </o:p>
+
 ## Part 11—Miscellaneous
 
-##### <a id="73"></a>73  Payments in special circumstances
+##### <a id="73"></a>73  Payments in special circumstances<o:p></o:p>
 
              (1)  The Public Service Minister may authorise the making of payments to a person under subsection (2) if the Public Service Minister considers it appropriate to do so because of special circumstances that relate to, or arise out of:
 
@@ -1317,7 +1329,7 @@ Note:          In _Barratt v Howard_ \[1999] FCA 1132, the Fed
 
              (6)  Payments under this section are to be made out of money appropriated by the Parliament for the purposes of this section.
 
-##### <a id="74"></a>74  Locally engaged employees
+##### <a id="74"></a>74  Locally engaged employees<o:p></o:p>
 
              (1)  An Agency Head, on behalf of the Commonwealth, may engage persons overseas to perform duties overseas as employees.
 
@@ -1327,7 +1339,7 @@ Note:          In _Barratt v Howard_ \[1999] FCA 1132, the Fed
 
              (4)  This section does not, by implication, limit any other power of an Agency Head to engage persons to work overseas.
 
-##### <a id="75"></a>75  Attachment of salaries to satisfy judgment debts
+##### <a id="75"></a>75  Attachment of salaries to satisfy judgment debts<o:p></o:p>
 
              (1)  The regulations:
 
@@ -1339,7 +1351,7 @@ Note:          In _Barratt v Howard_ \[1999] FCA 1132, the Fed
 
                     <a name="judgment-debt"></a>**_judgment debt_** includes interest on a judgment debt.
 
-##### <a id="76"></a>76  Release of personal information
+##### <a id="76"></a>76  Release of personal information<o:p></o:p>
 
                    The regulations:
 
@@ -1349,7 +1361,7 @@ Note:          In _Barratt v Howard_ \[1999] FCA 1132, the Fed
 
 Note:          The _Freedom of Information Act 1982_ and the _Privacy Act 1988_ have rules about the disclosure of personal information.
 
-##### <a id="77"></a>77  Positions
+##### <a id="77"></a>77  Positions<o:p></o:p>
 
              (1)  An Agency Head may, in writing, create positions in the Agency.
 
@@ -1357,11 +1369,11 @@ Note:          The _Freedom of Information Act 1982_ and the _
 
              (3)  A provision of any Act that applies to APS employees who are nominated under this section to occupy a position applies in the same way to APS employees who are not nominated under this section to occupy a position.
 
-##### <a id="78"></a>78  Delegations
+##### <a id="78"></a>78  Delegations<o:p></o:p>
 
              (1)  The Prime Minister may, in writing, delegate to another Minister any of the Prime Minister’s powers or functions under this Act (other than this section).
 
-             (2)  The Public Service Minister may, in writing, delegate to another Minister any of the Public Service Minister’s powers or functions under this Act (other than this section or section 24).
+     (2)        The Public Service Minister may, in writing, delegate to another Minister any of the Public Service Minister’s powers or functions under this Act (other than this section or section 24).
 
              (3)  The Public Service Minister may, in writing, delegate to a senior official any of the Public Service Minister’s powers or functions under section 23 or 73.
 
@@ -1410,15 +1422,13 @@ Note:          The _Freedom of Information Act 1982_ and the _
                      (c)  prescribing penalties for offences against the regulations by way of fines of up to 10 penalty units.
 
 
-# Notes to the _Public Service Act 1999_
+# Notes to the _<span style="mso-no-proof: yes">Public Service Act 1999</span>_
 
 ### Note 1
 
 The _Public Service Act 1999_ as shown in this compilation comprises Act No. 147, 1999 amended as indicated in the Tables below.
 
-The _Public Service Act 1999_ was amended by the _Workplace Relations Amendment (Work Choices) (Consequential Amendments) Regulations 2006 (No. 1)_ (SLI 2006 No. 50). The amendments are incorporated in this compilation.
-
-For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
+For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
 
 ### Table of Acts
 
@@ -1436,23 +1446,23 @@ For all relevant information pertaining to application, saving or transitional p
 <thead>
   <tr>
     <td>
-      <div>Act</div>
+      <div>Act <o:p></o:p> </div>
     </td>
     <td>
       <div>Number 
-and year 
+and year <o:p></o:p> 
  </div>
     </td>
     <td>
       <div>Date 
-of Assent 
+of Assent <o:p></o:p> 
  </div>
     </td>
     <td>
-      <div>Date of commencement</div>
+      <div>Date of commencement <o:p></o:p> </div>
     </td>
     <td colspan="2">
-      <div>Application, saving or transitional provisions</div>
+      <div>Application, saving or transitional provisions <o:p></o:p> </div>
     </td>
     <td>
       <div></div>
@@ -1468,13 +1478,13 @@ of Assent
       <div>147, 1999</div>
     </td>
     <td>
-      <div>11 Nov 1999</div>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="11" month="11">11 Nov 1999</st1:date></div>
     </td>
     <td>
-      <div>5 Dec 1999 ( <i>see Gazette</i>1999, No. S584)</div>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="5" month="12">5 Dec 1999</st1:date>( <i style="mso-bidi-font-style: normal">see Gazette</i>1999, No. S584)</div>
     </td>
     <td colspan="2">
-      <div></div>
+      <div><o:p> </o:p></div>
     </td>
     <td>
       <div></div>
@@ -1488,17 +1498,17 @@ of Assent
       <div>137, 2000</div>
     </td>
     <td>
-      <div>24 Nov 2000</div>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="24" month="11">24 Nov 2000</st1:date></div>
     </td>
     <td colspan="2">
-      <div>Ss. 1–3 and Schedule 1 (items 1, 4, 6, 7, 
+      <div>Ss. 1–3 and Schedule 1 (items 1, 4, 6, 7, 
 9–11, 32): Royal Assent 
-Remainder: 24 May 2001 
+Remainder: <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2001" day="24" month="5">24 May 2001</st1:date> 
 
 </div>
     </td>
     <td colspan="2">
-      <div>Sch. 2 (items 418, 419)</div>
+      <div>Sch. 2 (items 418, 419)</div>
     </td>
   </tr>
   <tr>
@@ -1509,10 +1519,10 @@ Remainder: 24 May 2001
       <div>63, 2002</div>
     </td>
     <td>
-      <div>3 July 2002</div>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2002" day="3" month="7">3 July 2002</st1:date></div>
     </td>
     <td colspan="2">
-      <div>Schedule 1 (items 26, 27): <i>(a)</i></div>
+      <div>Schedule 1 (items 26, 27): <i style="mso-bidi-font-style: normal">(a) <o:p></o:p> </i></div>
     </td>
     <td colspan="2">
       <div>—</div>
@@ -1526,13 +1536,13 @@ Remainder: 24 May 2001
       <div>140, 2003</div>
     </td>
     <td>
-      <div>17 Dec 2003</div>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2003" day="17" month="12">17 Dec 2003</st1:date></div>
     </td>
     <td colspan="2">
-      <div>S. 4 and Schedule 1 (item 32): <i>(b)</i></div>
+      <div>S. 4 and Schedule 1 (item 32): <i style="mso-bidi-font-style: normal">(b)</i> <o:p></o:p></div>
     </td>
     <td colspan="2">
-      <div>S. 4</div>
+      <div>S. 4 <o:p></o:p></div>
     </td>
   </tr>
   <tr height="0">
@@ -1547,9 +1557,11 @@ Remainder: 24 May 2001
 </tbody></table>
 
 
-_(a)_     Subsection 2(1) (item 21) of the _Statue Law Revision Act 2002_, which provides as follows:
+_(a)_     Subsection 2(1) (item 21) of the _Statue Law Revision Act 2002_, which provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
+
+<o:p> </o:p>
 
 <table>
 <colgroup>
@@ -1562,8 +1574,10 @@ _(a)_     Subsection 2(1) (item 21) of the _Statue Law Revision Act 20
   <tr>
     <td colspan="3">
       <div>
-        <b>
+        <b style="mso-bidi-font-weight: normal">
           Commencement information
+            <o:p></o:p>
+
         </b>
       </div>
     </td>
@@ -1571,22 +1585,28 @@ _(a)_     Subsection 2(1) (item 21) of the _Statue Law Revision Act 20
   <tr>
     <td>
       <div>
-        <b>
+        <b style="mso-bidi-font-weight: normal">
           Column 1
+            <o:p></o:p>
+
         </b>
       </div>
     </td>
     <td>
       <div>
-        <b>
+        <b style="mso-bidi-font-weight: normal">
           Column 2
+            <o:p></o:p>
+
         </b>
       </div>
     </td>
     <td>
       <div>
-        <b>
+        <b style="mso-bidi-font-weight: normal">
           Column 3
+            <o:p></o:p>
+
         </b>
       </div>
     </td>
@@ -1594,22 +1614,28 @@ _(a)_     Subsection 2(1) (item 21) of the _Statue Law Revision Act 20
   <tr>
     <td>
       <div>
-        <b>
+        <b style="mso-bidi-font-weight: normal">
           Provision(s)
+            <o:p></o:p>
+
         </b>
       </div>
     </td>
     <td>
       <div>
-        <b>
+        <b style="mso-bidi-font-weight: normal">
           Commencement
+            <o:p></o:p>
+
         </b>
       </div>
     </td>
     <td>
       <div>
-        <b>
+        <b style="mso-bidi-font-weight: normal">
           Date/Details
+            <o:p></o:p>
+
         </b>
       </div>
     </td>
@@ -1619,26 +1645,38 @@ _(a)_     Subsection 2(1) (item 21) of the _Statue Law Revision Act 20
   <tr>
     <td>
       <div>
-        21\. Schedule 1, items 26 and 27
+        21.
+          <span style="mso-spacerun: yes"></span>Schedule 1, items 26 and 27
+          <o:p></o:p>
+
       </div>
     </td>
     <td>
       <div>
         Immediately after item 1 of Schedule 2 to the
-          <i>Ministers of State and Other Legislation Amendment Act 2000</i>commenced
+          <i style="mso-bidi-font-style: normal">Ministers of State and Other Legislation Amendment Act 2000</i>commenced
+          <o:p></o:p>
+
       </div>
     </td>
     <td>
       <div>
-        10 March 2000
+        <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="10" month="3">
+          10 March 2000
+        </st1:date>
+
+          <o:p></o:p>
+
       </div>
     </td>
   </tr>
 </tbody></table>
 
-_(b)_    Subsection 2(1) (items 2 and 3) of the _Legislative Instruments (Transitional Provisions and Consequential Amendments) Act 2003_ provides as follows:
+_(b)_    Subsection 2(1) (items 2 and 3) of the _Legislative Instruments (Transitional Provisions and Consequential Amendments) Act 2003_ provides as follows:<o:p></o:p>
 
                  (1)   Each provision of this Act specified in column 1 of the table commences on the day or at the time specified in column 2 of the table.
+
+<o:p> </o:p>
 
 <table>
 <colgroup>
@@ -1651,22 +1689,28 @@ _(b)_    Subsection 2(1) (items 2 and 3) of the _Legislative Instruments
   <tr>
     <td>
       <div>
-        <b>
+        <b style="mso-bidi-font-weight: normal">
           Provision(s)
+            <o:p></o:p>
+
         </b>
       </div>
     </td>
     <td>
       <div>
-        <b>
+        <b style="mso-bidi-font-weight: normal">
           Commencement
+            <o:p></o:p>
+
         </b>
       </div>
     </td>
     <td>
       <div>
-        <b>
+        <b style="mso-bidi-font-weight: normal">
           Date/Details
+            <o:p></o:p>
+
         </b>
       </div>
     </td>
@@ -1676,44 +1720,56 @@ _(b)_    Subsection 2(1) (items 2 and 3) of the _Legislative Instruments
   <tr>
     <td>
       <div>
-        2\. Sections 4 and 5
-      </div>
-    </td>
-    <td>
-      <div>
-        Immediately after the commencement of sections 3 to 62 of the
-          <i>Legislative Instruments Act 2003</i>
+        2.
+          <span style="mso-spacerun: yes"></span>Sections 4 and 5
+          <o:p></o:p>
 
       </div>
     </td>
     <td>
       <div>
-        1 January 2005
+        Immediately after the commencement of sections 3 to 62 of the
+          <i style="mso-bidi-font-style: normal">Legislative Instruments Act 2003</i>
+          <o:p></o:p>
+
+      </div>
+    </td>
+    <td>
+      <div>
+        1 January 2005
+          <o:p></o:p>
+
       </div>
     </td>
   </tr>
   <tr>
     <td>
       <div>
-        3\. Schedule 1
+        3.
+          <span style="mso-spacerun: yes"></span>Schedule 1
+          <o:p></o:p>
+
       </div>
     </td>
     <td>
       <div>
         Immediately after the commencement of sections 3 to 62 of the
-          <i>Legislative Instruments Act 2003</i>
+          <i style="mso-bidi-font-style: normal">Legislative Instruments Act 2003</i>
+          <o:p></o:p>
 
       </div>
     </td>
     <td>
       <div>
-        1 January 2005
+        1 January 2005
+          <o:p></o:p>
+
       </div>
     </td>
   </tr>
 </tbody></table>
 
- 
+<o:p> </o:p>
 
 
 ## Table of Amendments
@@ -1724,148 +1780,50 @@ _(b)_    Subsection 2(1) (items 2 and 3) of the _Legislative Instruments
   <col width="68%">
 </colgroup>
 
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
 <tbody>
   <tr>
-    <td>
-      <div><b>Part 2</b></div>
-    </td>
-    <td>
-      <div></div>
+    <td colspan="2">
+      <div>ad. = added or inserted  am. = amended  rep. = repealed  rs. = repealed and substituted <o:p></o:p></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>S. 7</div>
+      <div>Provision affected <o:p></o:p> </div>
     </td>
     <td>
-      <div>am. SLI 2006 No. 50</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Part 4</b></div>
-    </td>
-    <td>
-      <div></div>
+      <div>How affected <o:p></o:p> </div>
     </td>
   </tr>
   <tr>
     <td>
-      <div><b>Division 1</b></div>
+      <div>S. 42 </div>
     </td>
     <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 23, 24</div>
-    </td>
-    <td>
-      <div>am. SLI 2006 No. 50</div>
+      <div>am. No. 140, 2003</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div><b>Part 5</b></div>
+      <div>S. 43 </div>
     </td>
     <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Division 1</b></div>
-    </td>
-    <td>
-      <div></div>
+      <div>am. No. 137, 2000</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>S. 42</div>
+      <div>S. 50 </div>
     </td>
     <td>
-      <div>am. No. 140, 2003</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 43</div>
-    </td>
-    <td>
-      <div>am. No. 137, 2000</div>
+      <div>am. No. 137, 2000</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div><b>Part 6</b></div>
+      <div>S. 78 </div>
     </td>
     <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Division 1</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 50</div>
-    </td>
-    <td>
-      <div>am. No. 137, 2000</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Part 10</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 72</div>
-    </td>
-    <td>
-      <div>am. SLI 2006 No. 50</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Part 11</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 78</div>
-    </td>
-    <td>
-      <div>am. No. 63, 2002</div>
+      <div>am. No. 63, 2002</div>
     </td>
   </tr>
 </tbody></table>
@@ -1875,9 +1833,9 @@ _(b)_    Subsection 2(1) (items 2 and 3) of the _Legislative Instruments
 
 ### Application, saving or transitional provisions
 
-_Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)_
+_Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)_
 
-## Schedule 2
+## Schedule 2
 
 ## 418  Transitional—pre-commencement offences
 
@@ -1891,7 +1849,7 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 as if the amendment or repeal had not been made.
 
-(2)        Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
+(2)        Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
 
 ## 419  Transitional—pre-commencement notices
 
@@ -1905,11 +1863,9 @@ If:
 
 the amendment of the first-mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
 
-<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+* * *
 
- </div>
-
-_Legislative Instruments (Transitional Provisions and Consequential Amendments) Act 2003 (No. 140, 2003)_
+_Legislative Instruments (Transitional Provisions and Consequential Amendments) Act 2003 (No. 140, 2003)<o:p></o:p>_
 
 ##### <a id="4"></a>4  Transitional provisions
 
@@ -1960,6 +1916,4 @@ the enabling legislation has effect, on and after the commencing day, as if:
                     <a name="commenc-dai"></a>**_commencing day_** means the commencing day within the meaning of the _Legislative Instruments Act 2003._
 
 
- 
-
- 
+<o:p> </o:p>
