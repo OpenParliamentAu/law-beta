@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00590/Html/644365d8-428d-40ad-9b10-a875ffdf8297_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00453/Html/c0347685-0677-438d-8273-feca3a1e7c79_files/image001.gif)
 
 # Healthcare Identifiers Act 2010
 
 **Act No. 72 of 2010 as amended**
 
-This compilation was prepared on 7 August 2012
- taking into account amendments up to Act No. 64 of 2012
+This compilation was prepared on 1 July 2011
+ taking into account amendments up to Act No. 32 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -28,8 +28,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [4](#4).            Act to bind the Crown
 
-[4A](#4A).         External Territories
-
 [5](#5).            Definitions
 
 [7](#7).            Meaning of _identifying information_
@@ -50,11 +48,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part 3—Use and disclosure of healthcare identifiers and other information** 
 
-    **Division 1—Use and disclosure of identifying information**
+    **Division 1—Use and disclosure of identifying information for assignment of healthcare identifiers**
 
 [11](#11).          Disclosure by healthcare providers
-
-[11A](#11A).       Use and disclosure of identifying information
 
 [12](#12).          Disclosure by data sources
 
@@ -78,37 +74,17 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [19](#19).          Disclosure to registration authority
 
-[19A](#19A).       Disclosure to PCEHR System Operator
-
-[19B](#19B).       Disclosure to Chief Executive Medicare
-
-[19C](#19C).       Disclosure to other Departments
-
 [20](#20).          Disclosure for authentication of healthcare provider’s identity
 
 [21](#21).          Access controls
 
 [22](#22).          Information about disclosures by service operator
 
-    **Division 2A—Collection, use and disclosure of healthcare identifiers and identifying information for purposes of the PCEHR System**
-
-[22A](#22A).       Collection, use and disclosure by PCEHR System Operator
-
-[22B](#22B).       Adoption by PCEHR System Operator, registered repository operator or registered portal operator
-
-[22C](#22C).       Collection, use and disclosure by registered repository operators or registered portal operators
-
-[22D](#22D).       Collection, use and disclosure by the Chief Executive Medicare and Departments
-
-[22E](#22E).        Regulations may authorise collection, use and disclosure related to the PCEHR system
-
     **Division 3—Use, disclosure and adoption of healthcare identifier by healthcare provider**
 
 [23](#23).          Disclosure to healthcare recipient
 
 [24](#24).          Use and disclosure for other purposes
-
-[24A](#24A).       Collection, use and disclosure of healthcare identifier of healthcare provider with consent
 
 [25](#25).          Adoption by healthcare provider
 
@@ -180,15 +156,9 @@ Note:          The Minister must, in certain circumstances, de
 
              (2)  This Act does not make the Crown liable to be prosecuted for an offence.
 
-##### <a id="4A"></a>4A  External Territories
-
-                   This Act extends to every external Territory.
-
 ##### <a id="5"></a>5  Definitions
 
                    In this Act:
-
-                    <a name="australian-childhood-immunis-regist"></a>**_Australian Childhood Immunisation Register_** means the Australian Childhood Immunisation Register kept under section 46B of the _Health Insurance Act 1973_.
 
                     <a name="chief-execut-micar"></a>**_Chief Executive Medicare_** has the same meaning as in the _Human Services (Medicare) Act 1973_.
 
@@ -208,7 +178,7 @@ to the healthcare provider under a contract with the healthcare provider.
 
                     <a name="defenc-depart"></a>**_Defence Department_** means the Department that:
 
-                     (a)  deals with matters arising under section 1 of the _Defence Act 1903_; and
+                     (a)  deals with matters arising under section 1 of the _Defence Act 1903_; and
 
                      (b)  is administered by the Minister who administers that section.
 
@@ -230,7 +200,7 @@ to the healthcare provider under a contract with the healthcare provider.
 
                      (e)  a part of another entity (under a previous application of this definition).
 
-                    <a name="healthcar"></a>**_healthcare_** means health service within the meaning of subsection 6(1) of the _Privacy Act 1988_.
+                    <a name="healthcar"></a>**_healthcare_** means health service within the meaning of subsection 6(1) of the _Privacy Act 1988_.
 
                     <a name="healthcar-identifi"></a>**_healthcare identifier_** has the meaning given by section 9.
 
@@ -252,7 +222,7 @@ Example:    A public hospital, or a corporation that runs a medical centre
 
                     <a name="human-research-ethic-committe"></a>**_Human Research Ethics Committee_** has the meaning given by:
 
-                     (a)  the National Statement on Ethical Conduct in Human Research issued in March 2007 by the Chief Executive Officer of the National Health and Medical Research Council under the _National Health and Medical Research Council Act 1992_; or
+                     (a)  the National Statement on Ethical Conduct in Human Research issued in March 2007 by the Chief Executive Officer of the National Health and Medical Research Council under the _National Health and Medical Research Council Act 1992_; or
 
                      (b)  if that Statement is amended—that Statement as amended.
 
@@ -278,8 +248,6 @@ Note:          In 2010, the text of the Statement was accessib
 
                      (b)  an Act or legislative instrument of a State or Territory.
 
-                    <a name="micar-benefit-program"></a>**_Medicare Benefits Program_** means the program for providing Medicare benefits under the _Health Insurance Act 1973_.
-
                     <a name="micar-program"></a>**_medicare program_** has the same meaning as in the _Human Services (Medicare) Act 1973_.
 
                     <a name="ministeri-council"></a>**_Ministerial Council_** has the meaning given by:
@@ -298,21 +266,9 @@ Note:          In 2010, the text of the Agreement was accessib
 
                     <a name="organis-mainten-offic"></a>**_organisation maintenance officer_**:
 
-                     (a)  for a seed organisation—has the meaning given by paragraph 9A(3)(c); and
+                     (a)  for a seed organisation—has the meaning given by paragraph 9A(3)(c); and
 
                      (b)  for a network organisation—has the meaning given by paragraph 9A(6)(b).
-
-                    <a name=""></a><a name="particip-pcehr-system"></a>**_participant in the PCEHR system_** has the same meaning as in  the _Personally Controlled Electronic Health Records Act 2012_.
-
-                    <a name=""></a><a name="pcehr"></a>**_PCEHR_** has the same meaning as in  the _Personally Controlled Electronic Health Records Act 2012_.
-
-                    <a name=""></a><a name="pcehr-system"></a>**_PCEHR system_** has the same meaning as in  the _Personally Controlled Electronic Health Records Act 2012_.
-
-                    <a name="pcehr-system-oper"></a>**_PCEHR System Operator_** means the System Operator within the meaning of the _Personally Controlled Electronic Health Records Act 2012_.
-
-                    <a name="pharmaceut-benefit-program"></a>**_Pharmaceutical Benefits Program_** means the program for providing pharmaceutical benefits under the _National Health Act 1953_.
-
-                    <a name="profession-busi-detail"></a>**_professional and business details_** of a healthcare provider includes the healthcare provider’s healthcare identifier.
 
                     <a name="profession-associ"></a>**_professional association_** means an organisation that:
 
@@ -357,10 +313,6 @@ Note:          In 2010, the text of the Agreement was accessib
                      (e)  a member of the Parliament of the State, or of the legislature of the Territory (whichever is applicable).
 
                     <a name="registr-author"></a>**_registration authority_** means an entity that is responsible under a law for registering members of a particular health profession.
-
-                    <a name=""></a><a name="regist-portal-oper"></a>**_registered portal operator_** has the same meaning as in  the _Personally Controlled Electronic Health Records Act 2012_.
-
-                    <a name=""></a><a name="regist-repositori-oper"></a>**_registered repository operator_** has the same meaning as in  the _Personally Controlled Electronic Health Records Act 2012_.
 
                     <a name="respons-offic"></a>**_responsible officer_** has the meaning given by paragraph 9A(3)(b).
 
@@ -630,11 +582,11 @@ Note:          This section does not apply to a decision to as
 
                      (a)  healthcare identifiers that have been assigned; and
 
-                     (b)  the information that the service operator has that relates to those healthcare identifiers, including details of requests made to the service operator for the service operator to disclose those healthcare identifiers under Division 2 or 2A of Part 3.
+                     (b)  the information that the service operator has that relates to those healthcare identifiers, including details of requests made to the service operator for the service operator to disclose those healthcare identifiers under Division 2 of Part 3.
 
 ## Part 3—Use and disclosure of healthcare identifiers and other information
 
-### Division 1—Use and disclosure of identifying information
+### Division 1—Use and disclosure of identifying information for assignment of healthcare identifiers
 
 ##### <a id="11"></a>11  Disclosure by healthcare providers
 
@@ -645,10 +597,6 @@ Note:          This section does not apply to a decision to as
                      (a)  to collect the information; and
 
                      (b)  to use the information for the purpose of assigning a healthcare identifier to the healthcare recipient.
-
-##### <a id="11A"></a>11A  Use and disclosure of identifying information
-
-                   The service operator is authorised to use, and to disclose to the PCEHR System Operator, identifying information for any purpose for which the PCEHR System Operator is authorised to collect, use or disclose the identifying information under Division 2A.
 
 ##### <a id="12"></a>12  Disclosure by data sources
 
@@ -782,7 +730,7 @@ Note 2:       Section 25 authorises a healthcare provider to adopt
 
 ##### <a id="18"></a>18  Disclosure to healthcare recipient
 
-                   The service operator may, if asked to do so by a healthcare recipient or a person who is responsible (within the meaning of subclause 2.5 of National Privacy Principle 2) for a healthcare recipient, disclose to the healthcare recipient or responsible person:
+                   The service operator must, if asked to do so by a healthcare recipient or a person who is responsible (within the meaning of subclause 2.5 of National Privacy Principle 2) for a healthcare recipient, disclose to the healthcare recipient or responsible person:
 
                      (a)  the healthcare recipient’s healthcare identifier (if any); or
 
@@ -806,41 +754,15 @@ Note 2:       Section 25 authorises a healthcare provider to adopt
 
                              (ii)  performing any other function of the registration authority under a law.
 
-##### <a id="19A"></a>19A  Disclosure to PCEHR System Operator
-
-                   The service operator is authorised to use, and to disclose to the PCEHR System Operator, a healthcare identifier for a purpose for which the PCEHR System Operator is authorised to collect, use or disclose the healthcare identifier under Division 2A.
-
-##### <a id="19B"></a>19B  Disclosure to Chief Executive Medicare
-
-                   The service operator is authorised:
-
-                     (a)  to use a healthcare identifier, and identifying information held by the service operator; and
-
-                     (b)  to disclose to the Chief Executive Medicare a healthcare identifier, and identifying information held by the service operator;
-
-for a purpose for which the Chief Executive Medicare is authorised to collect, use or disclose the healthcare identifier under Division 2A.
-
-##### <a id="19C"></a>19C  Disclosure to other Departments
-
-                   The service operator is authorised:
-
-                     (a)  to use a healthcare identifier, and identifying information held by the service operator, of a healthcare recipient; and
-
-                     (b)  to disclose to the Veterans’ Affairs Department, the Defence Department or such other Department as is prescribed, a healthcare identifier, and identifying information held by the service operator, of a healthcare recipient;
-
-for a purpose for which that Department is authorised to collect, use or disclose the healthcare identifier under Division 2A.
-
 ##### <a id="20"></a>20  Disclosure for authentication of healthcare provider’s identity
 
-             (1)  The service operator or a registration authority is authorised to use, and disclose to an entity, an identified healthcare provider’s healthcare identifier and identifying information for the purpose of enabling the healthcare provider’s identity to be authenticated in electronic transmissions (for example, as part of a public key infrastructure).
+             (1)  The service operator is authorised to disclose an identified healthcare provider’s healthcare identifier to an entity for the purpose of enabling the healthcare provider’s identity to be authenticated in electronic transmissions (for example, as part of a public key infrastructure).
 
              (2)  The entity is authorised:
 
                      (a)  to collect the healthcare identifier; and
 
-                     (b)  to use and disclose the healthcare identifier for the purpose of enabling the healthcare provider’s identity to be authenticated in electronic transmissions; and
-
-                     (c)  to adopt the healthcare identifier as the entity’s own identifier of the healthcare provider for the purpose of enabling the healthcare provider’s identity to be authenticated in electronic transmissions.
+                     (b)  to use the healthcare identifier for the purpose of enabling the healthcare provider’s identity to be authenticated in electronic transmissions.
 
 ##### <a id="21"></a>21  Access controls
 
@@ -852,100 +774,6 @@ for a purpose for which that Department is authorised to collect, use or disclos
 
 Note:          The regulations may provide for the imposition of a penalty for contravention of a regulation: see subsection 39(2).
 
-### Division 2A—Collection, use and disclosure of healthcare identifiers and identifying information for purposes of the PCEHR System
-
-##### <a id="22A"></a>22A  Collection, use and disclosure by PCEHR System Operator
-
-             (1)  This section applies if a healthcare recipient or a healthcare provider is applying, or has applied, for registration or is registered under the _Personally Controlled Electronic Health Records Act 2012_.
-
-             (2)  The PCEHR System Operator is authorised:
-
-                     (a)  to collect identifying information of the healthcare recipient or healthcare provider from the service operator; and
-
-                     (b)  to collect the healthcare identifier of the healthcare recipient or healthcare provider; and
-
-                     (c)  to use and disclose the identifying information and healthcare identifier;
-
-for the purpose of verifying the identity of the healthcare recipient or healthcare provider and for other purposes of the PCEHR system, subject to the _Personally Controlled Electronic Health Records Act 2012_.
-
-             (3)  If the healthcare recipient has an authorised representative or a nominated representative, the PCEHR System Operator is authorised:
-
-                     (a)  to collect identifying information of the authorised representative or nominated representative from the service operator; and
-
-                     (b)  to collect the healthcare identifier of the authorised representative or nominated representative; and
-
-                     (c)  to use and disclose the identifying information and healthcare identifier;
-
-for the purpose of verifying the identity of the authorised representative or nominated representative and for other purposes of the PCEHR system, subject to the _Personally Controlled Electronic Health Records Act 2012_.
-
-##### <a id="22B"></a>22B  Adoption by PCEHR System Operator, registered repository operator or registered portal operator
-
-             (1)  The PCEHR System Operator, a registered repository operator or a registered portal operator is authorised to adopt the healthcare identifier of a healthcare recipient or a healthcare provider as its own identifier of the recipient or the provider, so far as is reasonably necessary for the purposes of the PCEHR system.
-
-             (2)  The PCEHR System Operator, a registered repository operator or a registered portal operator is authorised to adopt the healthcare identifier of an authorised representative or a nominated representative of a healthcare recipient as its own identifier of the authorised representative or nominated representative, so far as is reasonably necessary for the purposes of the PCEHR system.
-
-##### <a id="22C"></a>22C  Collection, use and disclosure by registered repository operators or registered portal operators
-
-                   A registered repository operator or a registered portal operator is authorised:
-
-                     (a)  to collect the healthcare identifier of a healthcare recipient or healthcare provider, or an authorised representative or nominated representative of a healthcare recipient; and
-
-                     (b)  to use the healthcare identifier; and
-
-                     (c)  to disclose the healthcare identifier to a participant in the PCEHR system;
-
-for the purposes of the PCEHR system, subject to the _Personally Controlled Electronic Health Records Act 2012_.
-
-##### <a id="22D"></a>22D  Collection, use and disclosure by the Chief Executive Medicare and Departments
-
-             (1)  The Chief Executive Medicare, the Veterans’ Affairs Department, the Defence Department and such other Departments as are prescribed are authorised:
-
-                     (a)  to collect identifying information of a healthcare recipient from the service operator; and
-
-                     (b)  to collect the healthcare identifier of a healthcare recipient; and
-
-                     (c)  to use the healthcare identifier and identifying information; and
-
-                     (d)  to disclose the healthcare identifier and identifying information to a participant in the PCEHR system.
-
-             (2)  The authorisation of the Chief Executive Medicare under subsection (1) is limited to collections, uses and disclosures for the purposes of including, in the healthcare recipient’s PCEHR, information about the healthcare recipient:
-
-                     (a)  that is any of the following:
-
-                              (i)  information that relates to the Medicare Benefits Program or the Pharmaceutical Benefits Program;
-
-                             (ii)  information included on the Australian Childhood Immunisation Register;
-
-                            (iii)  information included on the register administered by the Commonwealth that records the decision made by an individual about whether to become an organ and tissue donor for transplantation after death; and
-
-                     (b)  that the healthcare recipient has consented to being included in his or her PCEHR.
-
-             (3)  The authorisation of a Department under subsection (1) is limited to collections, uses and disclosures for the purposes of including, in the healthcare recipient’s PCEHR, information about the healthcare recipient:
-
-                     (a)  that is information prescribed by the regulations; and
-
-                     (b)  that the healthcare recipient has consented to being included in his or her PCEHR.
-
-             (4)  Despite paragraphs (2)(b) and (3)(b), the consent of the healthcare recipient is not required for the uploading of information by the Chief Executive Medicare in accordance with paragraph 38(2)(a) of the _Personally Controlled Electronic Health Records Act 2012_.
-
-##### <a id="22E"></a>22E  Regulations may authorise collection, use and disclosure related to the PCEHR system
-
-                   The regulations may authorise a person:
-
-                     (a)  to collect identifying information of a healthcare recipient, a healthcare provider, an authorised representative of a healthcare recipient or a nominated representative of a healthcare recipient from the service operator; and
-
-                     (b)  to collect the healthcare identifier of a healthcare recipient, a healthcare provider, an authorised representative of a healthcare recipient or a nominated representative of a healthcare recipient; and
-
-                     (c)  to use the identifying information and healthcare identifier; and
-
-                     (d)  to disclose the identifying information and healthcare identifier to a participant in the PCEHR system;
-
-so far as the collection, use or disclosure:
-
-                     (e)  relates to a collection, use or disclosure of health information that is authorised under the _Personally Controlled Electronic Health Records Act 2012_; or
-
-                      (f)  is reasonably necessary for the performance of a function or the exercise of a power in relation to the PCEHR system.
-
 ### Division 3—Use, disclosure and adoption of healthcare identifier by healthcare provider
 
 ##### <a id="23"></a>23  Disclosure to healthcare recipient
@@ -954,7 +782,7 @@ so far as the collection, use or disclosure:
 
                      (a)  the healthcare recipient; or
 
-                     (b)  a person who is responsible (within the meaning of subclause 2.5 of National Privacy Principle 2) for the healthcare recipient.
+                     (b)  a person who is responsible (within the meaning of subclause 2.5 of National Privacy Principle 2) for the healthcare recipient.
 
 ##### <a id="24"></a>24  Use and disclosure for other purposes
 
@@ -988,7 +816,7 @@ Use and disclosure for other purposes
 
 Note 1:       Subsection (1) authorises the healthcare provider to use, or to disclose, the healthcare identifier. Section 25 authorises the healthcare provider to adopt the healthcare identifier.
 
-Note 2:       An entity may also use, or disclose, a healthcare identifier for a purpose that is authorised under another law: see paragraph 26(2)(b).
+Note 2:       An entity may also use, or disclose, a healthcare identifier for a purpose that is authorised under another law: see paragraph 26(2)(b).
 
 Certain purposes excluded
 
@@ -1001,14 +829,6 @@ Certain purposes excluded
                      (c)  determining whether a contract of insurance covers the healthcare recipient in relation to a particular event; or
 
                      (d)  employing the healthcare recipient.
-
-##### <a id="24A"></a>24A  Collection, use and disclosure of healthcare identifier of healthcare provider with consent
-
-                   The service operator or another entity may collect, use or disclose a healthcare provider’s healthcare identifier for a purpose relating to the provision of healthcare if:
-
-                     (a)  the healthcare provider has consented to the collection, use or disclosure; and
-
-                     (b)  the collection, use or disclosure is in accordance with any limitations to which the consent is subject.
 
 ##### <a id="25"></a>25  Adoption by healthcare provider
 
@@ -1070,7 +890,7 @@ Note:          The regulations may provide for the imposition 
 
 ##### <a id="28"></a>28  Interaction with the _Privacy Act 1988_
 
-                   An authorisation to collect, use or disclose a healthcare identifier or identifying information under this Act is also an authorisation to collect, use or disclose the healthcare identifier or identifying information for the purpose of the _Privacy Act 1988_.
+                   An authorisation to collect, use or disclose a healthcare identifier or identifying information under this Act is also an authorisation to collect, use or disclose the healthcare identifier or identifying information for the purpose of the _Privacy Act 1988_.
 
 ##### <a id="29"></a>29  Functions of Information Commissioner
 
@@ -1126,7 +946,7 @@ Note 2:       Part 6 (sunsetting) of the _Legislative Instruments 
 
 ##### <a id="33"></a>33  Consultation with Ministerial Council about regulations
 
-                   Before the Governor‑General makes a regulation for the purpose of this Act, the Minister must consult with the Ministerial Council.
+                   Before the Governor‑General makes a regulation for the purpose of this Act, the Minister must consult with the Ministerial Council.
 
 ##### <a id="34"></a>34  Annual reports by service operator
 
@@ -1178,17 +998,11 @@ no later than on 30 September after the end of the financial year to which the
 
                              (ii)  the duties of the contracted service provider under a contract with the healthcare provider involve implementing that purpose by providing information technology services relating to the communication of health information, or health information management services, to the healthcare provider; or
 
-                   (ba)  a person (the **_contractor_**) performing services under a contract between the contractor and the first entity, if:
-
-                              (i)  the first entity is a participant in the PCEHR system, other than a healthcare provider or a contracted service provider; and
-
-                             (ii)  the purpose relates to the PCEHR system; or
-
                      (c)  an individual:
 
-                              (i)  who is an employee of a contracted service provider to which paragraph (b) applies or of a contractor to which paragraph (ba) applies; and
+                              (i)  who is an employee of a contracted service provider to which paragraph (b) applies; and
 
-                             (ii)  whose duties involve implementing that purpose as mentioned in whichever of those paragraphs applies.
+                             (ii)  whose duties involve implementing that purpose as mentioned in that paragraph.
 
 ##### <a id="37"></a>37  Relationship to State and Territory laws
 
@@ -1382,24 +1196,7 @@ of Assent</div>
     <div>25 May 2011</div>
   </td>
   <td>
-    <div>Schedule 4 (items 152–158): 1 July 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Personally Controlled Electronic Health Records (Consequential Amendments) Act 2012</div>
-  </td>
-  <td>
-    <div>64, 2012</div>
-  </td>
-  <td>
-    <div>26 June 2012</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 1–25): 29 June 2012 ( <i>see</i>F2012L01398)</div>
+    <div>Schedule 4 (items 152–158): 1 July 2011</div>
   </td>
   <td>
     <div>—</div>
@@ -1439,34 +1236,10 @@ of Assent</div>
 </tr>
 <tr>
   <td>
-    <div>S. 4A</div>
-  </td>
-  <td>
-    <div>ad. No. 64, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 5</div>
   </td>
   <td>
-    <div>am. No. 32, 2011; No. 64, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10</div>
-  </td>
-  <td>
-    <div>am. No. 64, 2012</div>
+    <div>am. No. 32, 2011</div>
   </td>
 </tr>
 <tr>
@@ -1487,155 +1260,10 @@ of Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 1 of 
-Part 3</div>
-  </td>
-  <td>
-    <div>rs. No. 64, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 11A</div>
-  </td>
-  <td>
-    <div>ad. No. 64, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 12</div>
   </td>
   <td>
     <div>am. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision B</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18</div>
-  </td>
-  <td>
-    <div>am. No. 64, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19A</div>
-  </td>
-  <td>
-    <div>ad. No. 64, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19B</div>
-  </td>
-  <td>
-    <div>ad. No. 64, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19C</div>
-  </td>
-  <td>
-    <div>ad. No. 64, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 20</div>
-  </td>
-  <td>
-    <div>am. No. 64, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 2A of Part 3</div>
-  </td>
-  <td>
-    <div>ad. No. 64, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22A</div>
-  </td>
-  <td>
-    <div>ad. No. 64, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22B</div>
-  </td>
-  <td>
-    <div>ad. No. 64, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22C</div>
-  </td>
-  <td>
-    <div>ad. No. 64, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22D</div>
-  </td>
-  <td>
-    <div>ad. No. 64, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22E</div>
-  </td>
-  <td>
-    <div>ad. No. 64, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 24A</div>
-  </td>
-  <td>
-    <div>ad. No. 64, 2012</div>
   </td>
 </tr>
 <tr>
@@ -1683,7 +1311,7 @@ Part 3</div>
     <div>S. 36</div>
   </td>
   <td>
-    <div>am. No. 5, 2011; No. 64, 2012</div>
+    <div>am. No. 5, 2011</div>
   </td>
 </tr></table>
 
