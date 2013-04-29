@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2010C00552/Html/8ba151b0-6bae-407f-8737-b6e93d3e8559_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00511/Html/CwlthElectoral1918_WD02_image001.gif)
 
 # Commonwealth Electoral Act 1918
 
 **Act No. 27 of 1918 as amended**
 
-This compilation was prepared on 9 August 2010
+This compilation was prepared on 23 July 2010
  taking into account amendments up to Act No. 110 of 2010
 
 The text of any of those amendments not in force
@@ -270,9 +270,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [94](#94).          Enrolled voters leaving Australia
 
-[94A](#94A).       Enrolment from outside Australia [_see_ Note 10]
+[94A](#94A).       Enrolment from outside Australia
 
-[95](#95).          Eligibility of spouse, de facto partner or child of eligible overseas elector [_see_ Notes 4 and 10]
+[95](#95).          Eligibility of spouse, de facto partner or child of eligible overseas elector [_see_ Note 4]
 
 [95AA](#95AA).    Norfolk Island electors
 
@@ -280,7 +280,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [95AC](#95AC).    Rolls relating to Norfolk Island electors
 
-[96](#96).          Itinerant electors [_see_ Note 10]
+[96](#96).          Itinerant electors
 
 [96A](#96A).       Enrolment of prisoners
 
@@ -304,7 +304,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [101](#101).        Compulsory enrolment and transfer
 
-[102](#102).        Action on receipt of claim [_see_ Note 10]
+[102](#102).        Action on receipt of claim
 
 [103](#103).        Penalty on officer neglecting to enrol claimants
 
@@ -400,7 +400,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [154](#154).        Writs for election of members of House of Representatives
 
-[155](#155).        Date for close of Rolls [_see_ Note 10]
+[155](#155).        Date for close of Rolls
 
 [156](#156).        Date of nomination
 
@@ -1158,11 +1158,11 @@ Example:    An approved form might have been published by the Electoral Co
 
                      (a)  Norfolk Island; and
 
-                     (b)  the Territory of Cocos (Keeling)  Islands; and
+                     (b)  the Territory of Cocos (Keeling) Islands; and
 
                      (c)  the Territory of Christmas Island.
 
-                    <a name="australian-capit-territori"></a>**_Australian Capital Territory_** includes the Jervis Bay Territory.
+                    <a name="australian-capit-territori"></a>**_Australian Capital Territory_** includes the Jervis  Bay Territory.
 
                     <a name="australian-passport"></a>**_Australian passport_** means a passport issued under the _Australian Passports Act 2005_.
 
@@ -1372,7 +1372,7 @@ Note:          For the places at which pre-poll ordinary votin
 
                      (a)  Norfolk Island; and
 
-                     (b)  the Territory of Cocos (Keeling)  Islands; and
+                     (b)  the Territory of Cocos (Keeling) Islands; and
 
                      (c)  the Territory of Christmas Island.
 
@@ -1554,7 +1554,7 @@ Note:          The effect of this subsection includes (but is 
 
 Note:          The effect of paragraph (a) includes (but is not limited to) an authorisation for the purposes of paragraph (1)(d) of Information Privacy Principle 11 in section 14 of the _Privacy Act 1988_.
 
-          (1E)  A law of a State or Territory has no effect to the extent to which the law in any way prohibits a person or body from, or penalises or discriminates against a person or body for:
+           (1E)  A law of a State or Territory has no effect to the extent to which the law in any way prohibits a person or body from, or penalises or discriminates against a person or body for:
 
                      (a)  entering into, or proposing to enter into, an arrangement under subsection (1); or
 
@@ -1932,7 +1932,7 @@ Note:          The definition of **_officer_** covers Australi
 
 ##### <a id="30"></a>30  Australian Electoral Officer for the Australian Capital Territory
 
-             (1)  The Commission shall, for the purposes of each election, appoint an Australian Electoral Officer for the Australian Capital Territory and such an appointment shall terminate upon the completion of the election.
+             (1)  The Commission shall, for the purposes of each election, appoint an Australian Electoral Officer for the Australian   Capital Territory and such an appointment shall terminate upon the completion of the election.
 
              (2)  The Commission may appoint a person to act as Australian Electoral Officer for the Australian Capital Territory during any period, or during all periods, when the Australian Electoral Officer for the Territory is absent from duty or from Australia or is, for any other reason, unable to perform the functions of the office.
 
@@ -2032,9 +2032,9 @@ and any such appointment shall terminate upon the completion of the election.
 
                    In this Part, unless the contrary intention appears:
 
-                    <a name="northern-territori"></a>**_Northern Territory_** does not include the Territory of Cocos (Keeling) Islands or the Territory of Christmas Island.
+                    <a name="northern-territori"></a>**_Northern Territory_** does not include the Territory  of Cocos (Keeling) Islands or the Territory of Christmas Island.
 
-                    <a name="territori"></a>**_Territory_** means the Australian Capital   Territory, the Northern Territory or an external territory other than Norfolk Island.
+                    <a name="territori"></a>**_Territory_** means the Australian Capital   Territory, the Northern Territory or an external territory other than Norfolk  Island.
 
 ### Division 1—Choosing of senators for Queensland
 
@@ -2048,19 +2048,19 @@ and any such appointment shall terminate upon the completion of the election.
 
 ##### <a id="40"></a>40  Representation of the Territories in the Senate
 
-             (1)  Subject to subsection (2), the Australian Capital Territory and the Northern Territory shall each be represented in the Senate by 2 senators for the Territory directly chosen by the people of the Territory voting as one electorate.
+             (1)  Subject to subsection (2), the Australian   Capital Territory and the Northern Territory shall each be represented in the Senate by 2 senators for the Territory directly chosen by the people of the Territory voting as one electorate.
 
              (2)  Where the number of members of the House of Representatives to be chosen in the Australian Capital Territory or the Northern Territory at a general election is 6 or more, that Territory shall, on and from the day of the general election, be represented in the Senate by one senator for every 2 members of the House of Representatives to be chosen in that Territory.
 
-             (3)  Where the number of members of the House of Representatives to be chosen in the Australian Capital Territory or the Northern Territory at a general election is an odd number, subsection (2) applies as if the number were reduced by one.
+             (3)  Where the number of members of the House of Representatives to be chosen in the Australian Capital Territory or the Northern   Territory at a general election is an odd number, subsection (2) applies as if the number were reduced by one.
 
-             (4)  Subject to subsection (5), a Territory (other than the Australian Capital Territory and the Northern Territory) is not entitled to separate representation in the Senate.
+             (4)  Subject to subsection (5), a Territory (other than the Australian Capital Territory and the Northern   Territory) is not entitled to separate representation in the Senate.
 
              (5)  Where 2 or more members of the House of Representatives are to be chosen in a Territory (other than the Australian Capital Territory or the Northern Territory) at a general election, that Territory shall, on and from the day of the general election, be represented in the Senate by one senator for every 2 members of the House of Representatives to be chosen in that Territory.
 
-             (6)  Where the number of members of the House of Representatives to be chosen in a Territory (other than the Australian Capital Territory or the Northern Territory) at a general election is an odd number, subsection (5) applies as if the number were reduced by one.
+             (6)  Where the number of members of the House of Representatives to be chosen in a Territory (other than the Australian   Capital Territory or the Northern Territory) at a general election is an odd number, subsection (5) applies as if the number were reduced by one.
 
-             (7)  Until the Territory of Cocos (Keeling)  Islands or the Territory of Christmas Island becomes entitled to separate representation in the Senate under subsection (5), this section has effect as if the Territory of Cocos (Keeling) Islands or the Territory of Christmas Island, as the case may be, were a part of the Northern Territory.
+             (7)  Until the Territory of Cocos (Keeling) Islands or the Territory of Christmas Island becomes entitled to separate representation in the Senate under subsection (5), this section has effect as if the Territory of Cocos (Keeling) Islands or the Territory of Christmas   Island, as the case may be, were a part of the Northern Territory.
 
 ##### <a id="41"></a>41  Powers, privileges and immunities of senator for Territory
 
@@ -2102,11 +2102,11 @@ the person shall be deemed not to have been so chosen or appointed and the vacan
 
                      (a)  in the case of a senator for the Australian Capital Territory—the President of the Senate shall notify the Chief Minister for the Australian Capital Territory of the vacancy;
 
-                     (b)  in the case of a senator for the Northern Territory—the President of the Senate shall notify the Administrator of the Northern Territory of the vacancy; and
+                     (b)  in the case of a senator for the Northern   Territory—the President of the Senate shall notify the Administrator of the Northern   Territory of the vacancy; and
 
                      (c)  in the case of a senator for a Territory other than the Northern Territory or the Australian Capital Territory—the President of the Senate shall notify the Governor-General of the vacancy.
 
-             (6)  The name of any senator chosen or appointed under subsection (1) or (2) shall be certified by the Chief Minister for the Australian Capital Territory or the Administrator of the Northern Territory, as the case may be, to the Governor-General.
+             (6)  The name of any senator chosen or appointed under subsection (1) or (2) shall be certified by the Chief Minister for the Australian Capital Territory or the Administrator of the Northern   Territory, as the case may be, to the Governor-General.
 
           (6A)  The name of any senator chosen by the members of the Senate and the House of Representatives under subsection (2A) shall be certified by the President of the Senate to the Governor-General.
 
@@ -2118,7 +2118,7 @@ the person shall be deemed not to have been so chosen or appointed and the vacan
 
              (1)  In this Division, **_people of the Commonwealth_** does not include the people of any Territory that is referred to in section 122 of the Constitution.
 
-             (2)  For the avoidance of doubt, a resident of  Norfolk Island who is one of the people of a State for the purposes of sections 7 and 24 of the Constitution is not one of the people of Norfolk Island for the purposes of subsection (1).
+             (2)  For the avoidance of doubt, a resident of  Norfolk Island who is one of the people of a State for the purposes of sections 7 and 24 of the Constitution is not one of the people of Norfolk  Island for the purposes of subsection (1).
 
 ##### <a id="46"></a>46  Ascertainment of numbers of people of Commonwealth, States and Territories
 
@@ -2132,7 +2132,7 @@ the person shall be deemed not to have been so chosen or appointed and the vacan
 
                      (d)  the Northern Territory;
 
-                     (e)  the Territory of Cocos (Keeling)  Islands;
+                     (e)  the Territory of Cocos (Keeling) Islands;
 
                       (f)  the Territory of Christmas Island;
 
@@ -2142,21 +2142,21 @@ the person shall be deemed not to have been so chosen or appointed and the vacan
 
                      (a)  the first day (the **_reference day_**) after the end of the period of 12 months referred to in that subsection; or
 
-                     (b)  if the reference day is a Saturday, a Sunday or a public holiday in the Australian Capital Territory—the next day that is not a Saturday, a Sunday or a public holiday in the Australian Capital Territory.
+                     (b)  if the reference day is a Saturday, a Sunday or a public holiday in the Australian Capital Territory—the next day that is not a Saturday, a Sunday or a public holiday in the Australian   Capital Territory.
 
           (1B)  The Electoral Commissioner must ascertain the numbers under subsection (1) using the statistics for the following populations that the Australian Statistician has, most recently before the reference day, compiled and published in a regular series under the _Census and Statistics Act 1905_:
 
                      (a)  the population of each State;
 
-                     (b)  the population of the Australian Capital Territory (not including the Jervis Bay Territory);
+                     (b)  the population of the Australian   Capital Territory (not including the Jervis Bay Territory);
 
-                     (c)  the population of the Northern Territory;
+                     (c)  the population of the Northern   Territory;
 
                      (d)  the population of the Jervis Bay Territory;
 
-                     (e)  the population of the Territory of Cocos (Keeling) Islands;
+                     (e)  the population of the Territory of  Cocos (Keeling) Islands;
 
-                      (f)  the population of the Territory of Christmas Island;
+                      (f)  the population of the Territory  of Christmas Island;
 
                      (g)  the population of each of the other Territories.
 
@@ -2220,7 +2220,7 @@ the person shall be deemed not to have been so chosen or appointed and the vacan
 
           (2C)  Subject to subsection (2F), if the Electoral Commissioner determines that, at a general election, no member of the House of Representatives is to be chosen in either or both of the following Territories:
 
-                     (a)  the Territory of Cocos (Keeling)  Islands;
+                     (a)  the Territory of Cocos (Keeling) Islands;
 
                      (b)  the   Territory of Christmas Island;
 
@@ -2228,7 +2228,7 @@ the following provisions shall have effect:
 
                      (c)  the ascertainments under section 46, and the determinations under this section, in respect of that Territory or those Territories, as the case may be, and in respect of the Northern Territory shall be deemed never to have been made;
 
-                     (d)  that Territory, or those Territories, as the case may be, shall be taken to be part of the Northern Territory;
+                     (d)  that Territory, or those Territories, as the case may be, shall be taken to be part of the Northern   Territory;
 
                      (e)  subject to subsection (2G), the Electoral Commissioner shall, as soon as possible:
 
@@ -2240,7 +2240,7 @@ the following provisions shall have effect:
 
 Note:          Subsection 46(1A) might otherwise require the fresh ascertainment of the number of the people of the Northern Territory under subparagraph (2C)(e)(i) of this section to be made immediately after the end of the 12 month period referred to in subsection 46(1).
 
-          (2E)  This subsection applies if:
+           (2E)  This subsection applies if:
 
                      (a)  apart from this subsection and subsection (2F), the result of dividing the number of the people of the Australian Capital Territory or the Northern Territory, as ascertained in accordance with section 46, by the quota ascertained under paragraph (2)(a) is:
 
@@ -2256,7 +2256,7 @@ Note:          Subsection 46(1A) might otherwise require the f
 
                             is less than or equal to twice the standard error of the measure of the Australian Statistician’s estimate of the net undercount for that Territory at the last Census.
 
-           (2F)  If subsection (2E) applies to the Australian Capital Territory or the Northern Territory:
+           (2F)  If subsection (2E) applies to the Australian   Capital Territory or the Northern Territory:
 
                      (a)  the determination made under subsection (1) in accordance with:
 
@@ -2288,7 +2288,7 @@ Note:          In certain circumstances, the number of the peo
 
                     <a name="standard-error"></a>**_standard error_** of the measure of the Australian Statistician’s estimate of the net undercount for a Territory in the last Census means the standard error estimate of the sampling error for that estimate of the net undercount that the Australian Statistician supplies to the Electoral Commissioner under paragraph 47(1)(b).
 
-##### <a id="48A"></a>48A  Northern Territory to elect 2 members of the House of Representatives in the next election
+##### <a id="48A"></a>48A  Northern   Territory to elect 2 members of the House of Representatives in the next election
 
              (1)  The determination made by the Electoral Commissioner under subsection 48(1) on 19 February 2003 (the **_2003 determination_**) is set aside, on and from the day on which this section commences (the **_commencement day_**), to the extent to which that determination relates to the Northern Territory.
 
@@ -2304,9 +2304,9 @@ Note:          In certain circumstances, the number of the peo
 
                      (b)  for the purposes of section 86, 2 new Divisions are taken to be created for the Northern Territory on the commencement day.
 
-Note 1:       The 2003 determination specified that there would be 1 member of the House of Representatives to be chosen in the Northern Territory at a general election.
+Note 1:       The 2003 determination specified that there would be 1 member of the House of Representatives to be chosen in the Northern   Territory at a general election.
 
-Note 2:       The determination the Electoral Commissioner made under subsection 48(1) most recently before the 2003 determination was the determination made on 9 December 1999\. That determination specified that there would be 2 members of the House of Representatives to be chosen in the Northern Territory at a general election.
+Note 2:       The determination the Electoral Commissioner made under subsection 48(1) most recently before the 2003 determination was the determination made on 9 December 1999\. That determination specified that there would be 2 members of the House of Representatives to be chosen in the Northern   Territory at a general election.
 
 ##### <a id="49"></a>49  Notification of determination
 
@@ -2320,13 +2320,13 @@ Note 2:       The determination the Electoral Commissioner made unde
 
                                         (B)  each of the States;
 
-                                        (C)  the Australian Capital Territory;
+                                        (C)  the Australian   Capital Territory;
 
-                                        (D)  the Northern Territory;
+                                        (D)  the Northern   Territory;
 
-                                         (E)  the Territory of Cocos (Keeling) Islands;
+                                         (E)  the Territory  of Cocos (Keeling) Islands;
 
-                                         (F)  the Territory of Christmas Island;
+                                         (F)  the Territory  of Christmas Island;
 
                                         (G)  each of the other Territories; and
 
@@ -2432,7 +2432,7 @@ shall be taken, for the purposes of this Part, not to be an elector.
 
 ##### <a id="59"></a>59  Times at which redistributions are to commence
 
-             (1)  A redistribution of a State or the Australian Capital Territory into Divisions shall commence whenever the Electoral Commission so directs by notice published in the _Gazette_.
+             (1)  A redistribution of a State or the Australian   Capital Territory into Divisions shall commence whenever the Electoral Commission so directs by notice published in the _Gazette_.
 
              (2)  Subject to subsections (3) and (5), a direction under subsection (1) shall be made in relation to a State:
 
@@ -2470,7 +2470,7 @@ the Electoral Commission may, by notice published in the _Gazette_, direct that 
 
 the redistribution of the State into Divisions, being the redistribution referred to in paragraph (a) of this subsection, is, by force of this subsection, terminated.
 
-             (7)  Subject to subsections (8) and (9A), a direction under subsection (1) shall be made in relation to the Australian Capital Territory:
+             (7)  Subject to subsections (8) and (9A), a direction under subsection (1) shall be made in relation to the Australian   Capital Territory:
 
                     (aa)  forthwith after the making of a determination under subsection 48(1) that results in an alteration of the number of members of the House of Representatives to be chosen in the Territory at a general election; and
 
@@ -2506,7 +2506,7 @@ the Electoral Commission may, by notice published in the _Gazette_, direct that 
 
 the redistribution of the Territory into Divisions, being the redistribution referred to in paragraph (a), is, by force of this subsection, terminated.
 
-           (10)  A reference in this section to a malapportioned Division is a reference to a Division in a State or the Australian Capital Territory in which the number of electors enrolled differs from the average divisional enrolment of the State or Territory to a greater extent than one-tenth more or one-tenth less.
+           (10)  A reference in this section to a malapportioned Division is a reference to a Division in a State or the Australian   Capital Territory in which the number of electors enrolled differs from the average divisional enrolment of the State or Territory to a greater extent than one-tenth more or one-tenth less.
 
            (11)  For the purposes of this section, a State or the Australian Capital Territory is undergoing redistribution into Divisions if:
 
@@ -2578,7 +2578,7 @@ as a member of the Redistribution Committee in lieu of the Auditor-General of th
 
              (7)  Where, in pursuance of subsection (6), the Electoral Commission revokes the appointment of a Redistribution Committee for a State and appoints another Redistribution Committee for the State, the provisions of this Part apply as if the first-mentioned Redistribution Committee had never been appointed.
 
-          (7A)  This section applies to the Australian Capital Territory as if:
+          (7A)  This section applies to the Australian   Capital Territory as if:
 
                      (a)  references in this section to a State included references to the Australian Capital Territory; and
 
@@ -2596,7 +2596,7 @@ as a member of the Redistribution Committee in lieu of the Auditor-General of th
 
 ##### <a id="62"></a>62  Proceedings at meetings of Redistribution Committee etc.
 
-             (1)  The Electoral Commissioner may, at any time, convene a meeting of a Redistribution Committee for a State or the Australian Capital Territory.
+             (1)  The Electoral Commissioner may, at any time, convene a meeting of a Redistribution Committee for a State or the Australian   Capital Territory.
 
              (2)  The Electoral Commissioner shall preside at all meetings of a Redistribution Committee at which he or she is present.
 
@@ -2692,7 +2692,7 @@ and subject thereto the quota of electors for the State or Territory shall be th
 
           (3A)  When applying subsection (3), the Redistribution Committee must treat the matter in subparagraph (3)(b)(v) as subordinate to the matters in subparagraphs (3)(b)(i), (ii) and (iv).
 
-             (4)  In a proposed redistribution of the Australian Capital Territory, the whole of the Jervis Bay Territory shall be included in one proposed Electoral Division.
+             (4)  In a proposed redistribution of the Australian   Capital Territory, the whole of the Jervis Bay Territory shall be included in one proposed Electoral Division.
 
 ##### <a id="67"></a>67  Reasons for proposed redistribution
 
@@ -2900,7 +2900,7 @@ and subject thereto the quota of electors for the State or Territory shall be th
 
           (4A)  When applying subsection (4), the augmented Electoral Commission must treat the matter in subparagraph (4)(b)(v) as subordinate to the matters in subparagraphs (4)(b)(i), (ii) and (iv).
 
-             (5)  In a redistribution of the Australian Capital Territory, the whole of the Jervis Bay Territory shall be included in one Electoral Division.
+             (5)  In a redistribution of the Australian   Capital Territory, the whole of the Jervis Bay Territory shall be included in one Electoral Division.
 
              (6)  Until the next following expiration or dissolution of the House of Representatives, the redistribution does not affect the election of a new member to fill a vacancy happening in the House of Representatives.
 
@@ -3018,7 +3018,7 @@ and subject thereto the quota of electors for the State or Territory shall be th
 
            (16)  Two Divisions in a State shall be taken, for the purposes of this section, to be contiguous Divisions if the boundaries of the Divisions actually touch in at least one place.
 
-        (16A)  This section applies to the Australian Capital Territory as if:
+        (16A)  This section applies to the Australian   Capital Territory as if:
 
                      (a)  a reference to a State were a reference to the Australian Capital Territory;
 
@@ -3028,7 +3028,7 @@ and subject thereto the quota of electors for the State or Territory shall be th
 
                            “(2)  For the purposes of the redistribution, the Electoral Commissioner and the senior Divisional Returning Officer for the Territory shall be the Redistribution Commissioners for the Territory.
 
-                        “(2A)  In this section, **_senior Divisional Returning Officer for the Territory_** has the same meaning as in section 60.”.
+                         “(2A)  In this section, **_senior Divisional Returning Officer for the Territory_** has the same meaning as in section 60.”.
 
            (17)  In this section, **_Population Census Collection District_** means an area designated by the Australian Bureau of Statistics as a Population Census Collection District for the purposes of the taking of the Census.
 
@@ -3036,13 +3036,13 @@ and subject thereto the quota of electors for the State or Territory shall be th
 
                    If:
 
-                     (a)  this Part applies to the Northern Territory because of section 55A;
+                     (a)  this Part applies to the Northern   Territory because of section 55A;
 
                      (b)  the Northern Territory constitutes a single Division; and
 
                      (c)  a redistribution of the Territory is required by subsection 76(1);
 
-section 76 has effect, in its application to the Northern Territory, as if:
+section 76 has effect, in its application to the Northern   Territory, as if:
 
                      (d)  subsections (3), (4) and (5) were omitted;
 
@@ -3080,7 +3080,7 @@ section 76 has effect, in its application to the Northern Territory, as if:
 
 ##### <a id="78"></a>78  Improper influence
 
-                   A person shall not improperly seek to influence a member of a Redistribution Committee for a State or the Australian Capital Territory, a member of an augmented Electoral Commission for a State or the Australian Capital Territory or a Redistribution Commissioner for a State or the Australian Capital Territory in the performance of his or her duties under this Part.
+                   A person shall not improperly seek to influence a member of a Redistribution Committee for a State or the Australian   Capital Territory, a member of an augmented Electoral Commission for a State or the Australian Capital Territory or a Redistribution Commissioner for a State or the Australian Capital Territory in the performance of his or her duties under this Part.
 
                     Penalty:  $2,000 or imprisonment for 12 months, or both.
 
@@ -3094,17 +3094,17 @@ section 76 has effect, in its application to the Northern Territory, as if:
 
                      (b)  divide the Northern Territory into such Districts as are specified and set out the boundaries of each District so specified.
 
-             (2)  The Territory of Cocos (Keeling) Islands shall be one District of the Division of the Northern Territory and the Territory of Christmas Island shall be one District of the Division of that Territory.
+             (2)  The Territory of Cocos (Keeling) Islands shall be one District of the Division of the Northern Territory and the Territory  of Christmas Island shall be one District of the Division of that Territory.
 
              (3)  If the Northern Territory is distributed into Electoral Divisions under section 73 or under section 76, as it has effect by virtue of section 76A, this section shall have effect, after the distribution, as if:
 
-                     (a)  a reference in paragraph (1)(a) to a Division were a reference to a Division other than a Division in the Northern Territory;
+                     (a)  a reference in paragraph (1)(a) to a Division were a reference to a Division other than a Division in the Northern   Territory;
 
                      (b)  the words “the Northern Territory” were omitted from paragraph (1)(b) and the words “each Division in the Northern Territory” were substituted; and
 
                      (c)  subsection (2) were omitted and the following subsection substituted:
 
-                           “(2)  The Territory of Christmas Island and the Territory of Cocos (Keeling) Islands shall each be a District of the Division in which they are included.”.
+                           “(2)  The Territory of Christmas  Island and the Territory of Cocos (Keeling) Islands shall each be a District of the Division in which they are included.”.
 
 ##### <a id="80"></a>80  Polling places
 
@@ -3990,7 +3990,7 @@ Definitions
 
           (2D)  For information provided under item 6 of the table in subsection 90B(4), the only permitted purpose in relation to a prescribed person or organisation is for the person or organisation to carry out an applicable customer identification procedure under the _Anti-Money Laundering and Counter-Terrorism Financing Act 2006_.
 
-          (2E)  For information provided under item 7 of the table in subsection 90B(4), the only permitted purpose in relation to a prescribed person or organisation is facilitating the carrying out of an applicable customer identification procedure under the _Anti-Money Laundering and Counter-Terrorism Financing Act 2006_.
+           (2E)  For information provided under item 7 of the table in subsection 90B(4), the only permitted purpose in relation to a prescribed person or organisation is facilitating the carrying out of an applicable customer identification procedure under the _Anti-Money Laundering and Counter-Terrorism Financing Act 2006_.
 
              (3)  In this section:
 
@@ -4052,7 +4052,7 @@ Definitions
 
                                         (A)  on the roll for a Division; or
 
-                                        (B)  on a roll kept for the purposes of the _Australian Capital Territory Representation (House of Representatives) Act 1973_ or the _Northern   Territory__Representation Act 1922_;
+                                        (B)  on a roll kept for the purposes of the _Australian Capital Territory__Representation (House of Representatives) Act 1973_ or the _Northern   Territory__Representation Act 1922_;
 
 shall be entitled to enrolment.
 
@@ -4230,7 +4230,7 @@ the person shall, as soon as practicable, give notice in writing to the Electora
 
                     <a name="australia"></a>**_Australia_** does not include Norfolk Island.
 
-##### <a id="94A"></a>94A  Enrolment from outside Australia [_see_ Note 10]
+##### <a id="94A"></a>94A  Enrolment from outside Australia
 
              (1)  A person may apply to the Electoral Commissioner for enrolment for a Subdivision if, at the time of making the application:
 
@@ -4278,7 +4278,7 @@ the person’s name must not be added to the Roll for the Subdivision until afte
 
              (6)  If the application is granted, the Electoral Commissioner must treat the application as if it were a valid application under subsection 94(1) by the person to be treated as an eligible overseas elector.
 
-##### <a id="95"></a>95  Eligibility of spouse, de facto partner or child of eligible overseas elector [_see_ Notes 4 and 10]
+##### <a id="95"></a>95  Eligibility of spouse, de facto partner or child of eligible overseas elector [_see_ Note 4]
 
              (1)  Where a person:
 
@@ -4406,7 +4406,7 @@ the person shall, as soon as practicable, give notice in writing to the Electora
 
                     <a name="australia"></a>**_Australia_** does not include Norfolk Island.
 
-##### <a id="95AA"></a>95AA  Norfolk Island electors
+##### <a id="95AA"></a>95AA  Norfolk  Island electors
 
              (1)  In this section:
 
@@ -4432,7 +4432,7 @@ under section 4 (if any).
 
                              (ii)  does not include a Territory that, under section 4, is included in that inclusive Territory.
 
-                    <a name="qualifi-norfolk-island"></a>**_qualified Norfolk Islander_** means a person who:
+                    <a name="island"></a><a name="norfolk"></a><a name="qualifi"></a>**_qualified_****_Norfolk_****_Islander_** means a person who:
 
                      (a)  resides in Norfolk Island; and
 
@@ -4480,7 +4480,7 @@ then, for the purposes of section 95AA and subsection 95AC(2), the Electoral C
 
              (2)  The Electoral Commissioner may conduct a review of the Roll for a Subdivision of a Division in relation to electors to whom an annotation under subsection (1) applies. Upon completion of the review, the Electoral Commissioner may make such alterations to the Roll as he or she thinks necessary to ensure that persons on that Roll under section 95AA are entitled to be so.
 
-##### <a id="96"></a>96  Itinerant electors [_see_ Note 10]
+##### <a id="96"></a>96  Itinerant electors
 
              (1)  A person who:
 
@@ -4876,7 +4876,7 @@ Note:          A defendant bears an evidential burden in relat
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-       (6AB)  An offence against subsection (6) relating to a failure to comply with subsection (4) is an offence of absolute liability.
+        (6AB)  An offence against subsection (6) relating to a failure to comply with subsection (4) is an offence of absolute liability.
 
 Note:          For **_absolute liability_**, see section 6.2 of the _Criminal Code_.
 
@@ -4886,7 +4886,7 @@ Note:          A defendant bears an evidential burden in relat
 
              (7)  Where a person sends or delivers a claim for enrolment, or for transfer of enrolment, to the Electoral Commissioner, proceedings shall not be instituted against that person for any offence against subsection (1) or (4) committed before the claim was so sent or delivered.
 
-##### <a id="102"></a>102  Action on receipt of claim [_see_ Note 10]
+##### <a id="102"></a>102  Action on receipt of claim
 
              (1)  Subject to subsections (4) and (4AA), where, pursuant to section 101, the Electoral Commissioner receives a claim for enrolment or transfer of enrolment, the Electoral Commissioner must:
 
@@ -4900,7 +4900,7 @@ Note:          A defendant bears an evidential burden in relat
 
                             (iii)  in the case of a claim for transfer of an enrolment from the Roll for another Subdivision—delete the name of the claimant from the Roll for that other Subdivision; and
 
-                   (ba)  if the claim is in order but the Electoral Commissioner is satisfied that the claimant is already properly enrolled in respect of residence at the address in the Subdivision for which he or she is entitled to be enrolled—notify the claimant, in writing, that he or she has been enrolled for that Subdivision; and
+                    (ba)  if the claim is in order but the Electoral Commissioner is satisfied that the claimant is already properly enrolled in respect of residence at the address in the Subdivision for which he or she is entitled to be enrolled—notify the claimant, in writing, that he or she has been enrolled for that Subdivision; and
 
                      (c)  if the claim is not in order or the Electoral Commissioner is not satisfied that the claimant is entitled, in respect of residence at an address, to be enrolled for a Subdivision—notify the claimant in writing that the claim has been rejected.
 
@@ -4928,7 +4928,7 @@ then the claim must not be considered until after the end of the period.
 
 then the claim must not be considered until after the end of the period.
 
-       (4AB)  A claim that is taken, by subsection 100(2), to be made under section 101:
+        (4AB)  A claim that is taken, by subsection 100(2), to be made under section 101:
 
                      (a)  is to be treated in accordance with subsection (4AA) if the claim is made by a person who will turn 18 years old during the period:
 
@@ -5278,9 +5278,9 @@ the person may, before the expiration of the period of 28 days commencing on the
 
                      (b)  notifies a person under subsection 104(5) that a request made by the person under subsection 104(1) or (2) has been refused; or
 
-                   (ba)  a person is notified under subsection 104(8) of a decision that the person’s address should be entered on a Roll; or
+                    (ba)  a person is notified under subsection 104(8) of a decision that the person’s address should be entered on a Roll; or
 
-                   (bb)  a person is notified of a decision made under section 105 to alter any entry in relation to the person on a Roll (including a decision to add or remove a person’s name from the Roll); or
+                    (bb)  a person is notified of a decision made under section 105 to alter any entry in relation to the person on a Roll (including a decision to add or remove a person’s name from the Roll); or
 
                      (c)  a person is notified under subsection 185(6) that the person has not been registered as a general postal voter; or
 
@@ -5470,7 +5470,7 @@ makes an application for the registration of another party, the Commission must 
 
                      (d)  so nearly resembles the name, or an abbreviation or acronym of the name, of another political party (not being a political party that is related to the party to which the application relates) that is a recognised political party that it is likely to be confused with or mistaken for that name or that abbreviation or acronym, as the case may be; or
 
-                   (da)  is one that a reasonable person would think suggests that a connection or relationship exists between the party and a registered party if that connection or relationship does not in fact exist; or
+                    (da)  is one that a reasonable person would think suggests that a connection or relationship exists between the party and a registered party if that connection or relationship does not in fact exist; or
 
                      (e)  comprises the words “Independent Party” or comprises or contains the word “Independent” and:
 
@@ -5768,7 +5768,7 @@ the Commission must:
 
                              (ii)  was so made within one month of the upholding of the objection, but was later refused; or 
 
-                   (cb)  the registered officer of a registered political party has failed to comply with a notice under section 138A (Review of eligibility of parties to remain in the Register);
+                    (cb)  the registered officer of a registered political party has failed to comply with a notice under section 138A (Review of eligibility of parties to remain in the Register);
 
 the Commission shall:
 
@@ -5876,7 +5876,7 @@ as the case may be.
 
                     (ca)  to uphold an objection under subsection 134A(1); or
 
-                   (cb)  to refuse to uphold an objection under subsection 134A(1); or
+                    (cb)  to refuse to uphold an objection under subsection 134A(1); or
 
                      (d)  to refuse an application under subsection 134(1); or
 
@@ -5998,7 +5998,7 @@ as the case may be.
 
              (5)  Where a writ for an election to be held in a Division or Divisions is received by the Electoral Commissioner under subsection (1), the Commissioner may, where he or she considers it appropriate, advertise receipt of, and particulars of, the writ, in a newspaper or newspapers circulating in the Division or in some or all of the Divisions, as the case requires.
 
-##### <a id="155"></a>155  Date for close of Rolls [_see_ Note 10]
+##### <a id="155"></a>155  Date for close of Rolls
 
              (1)  The date fixed for the close of the Rolls is the third working day after the date of the writ.
 
@@ -6068,7 +6068,7 @@ is qualified to be elected as a Senator or a member of the House of Representati
 
                      (a)  the Parliament of a State;
 
-                     (b)  the Legislative Assembly of the Northern Territory of Australia; or
+                     (b)  the Legislative Assembly of the Northern   Territory of Australia; or
 
                      (c)  the Legislative Assembly for the Australian Capital Territory;
 
@@ -6140,7 +6140,7 @@ the candidate may set out in his or her nomination the address recorded in that 
 
                              (ii)  if the writ for the new election is issued in relation to a dissolution of the Senate—that dissolution of the Senate.
 
-          (1E)  For the purposes of subsection (1C), a candidate for election to the House of Representatives for a Division (the **_seat being contested_**) is a **_sitting independent_** for the new election if:
+           (1E)  For the purposes of subsection (1C), a candidate for election to the House of Representatives for a Division (the **_seat being contested_**) is a **_sitting independent_** for the new election if:
 
                      (a)  the candidate was elected as a member of the House of Representatives in an election (the **_previous election_**) for a particular Division (the **_existing seat_**); and
 
@@ -6782,7 +6782,7 @@ Use of information
 
                      (b)  the use of the information is not for a permitted purpose (see subsections (4) and (5)).
 
-                    Maximum penalty: 100 penalty units.
+                    Maximum penalty:    100 penalty units.
 
 Disclosure of information
 
@@ -6794,7 +6794,7 @@ Disclosure of information
 
                      (c)  the disclosure would not be a use of the information for a permitted purpose (see subsections (4) and (5)).
 
-                    Maximum penalty: 1,000 penalty units.
+                    Maximum penalty:    1,000 penalty units.
 
 Use of information for a commercial purpose
 
@@ -6804,7 +6804,7 @@ Use of information for a commercial purpose
 
                      (b)  the person knows that, or is reckless as to whether, the information has been obtained from an electronic list of postal vote applicants provided by the Electoral Commission.
 
-                    Maximum penalty: 1,000 penalty units.
+                    Maximum penalty:    1,000 penalty units.
 
 Permitted purposes
 
@@ -8014,7 +8014,7 @@ the word “Independent” and the name of the candidate must also be printed on
 
                            (vii)  place all the balls back in the container;
 
-                          (viii)  rotate the container and permit any other person present who wishes to do so to rotate the container;
+                           (viii)  rotate the container and permit any other person present who wishes to do so to rotate the container;
 
                             (ix)  cause a person who is blindfolded and has been blindfolded since before the rotation of the container in accordance with subparagraph (viii) to take the balls, or cause the balls to come, out of the container one by one and, as each ball is taken or comes out, to pass it to another person who shall call out the number on the ball;
 
@@ -8198,7 +8198,7 @@ the presiding officer shall visit the patient for the purpose of taking the pati
 
              (6)  A polling booth at a hospital shall be attended by a polling official at all times when the presiding officer is absent from the booth for the purpose of visiting a patient.
 
-##### <a id="226"></a>226  Provisions related to section 224
+##### <a id="226"></a>226  Provisions related to section 224
 
              (1)  Notwithstanding any arrangement in force under section 224, a visit under that section to a patient in a hospital shall not be made if the presiding officer is informed by a registered medical practitioner or a member of the staff of the hospital that such a visit is forbidden, on medical grounds, by a registered medical practitioner.
 
@@ -8296,9 +8296,9 @@ The literature may include how-to-vote cards.
 
                      (d)  so far as is practicable, a vote under this section shall be taken as if it were taken under the other provisions (not being section 224) of this Act (including such of those other provisions as relate to absent voting);
 
-                   (da)  section 220 applies as if, for paragraph 220(b), there were substituted the following paragraph: 
+                    (da)  section 220 applies as if, for paragraph 220(b), there were substituted the following paragraph: 
 
-“(b)   the polling may be conducted:
+“(b)    the polling may be conducted:
 
 (i)    at any time on a day before polling day; and
 
@@ -8378,7 +8378,7 @@ shall forward the envelope, together with the record made under paragraph 195A(2
 
              (9)  Where envelopes and records relating to a particular Division are forwarded under subsection (8) to a person other than the Divisional Returning Officer for that Division, that person shall, as soon as practicable, deliver them, or cause them to be delivered, to that Divisional Returning Officer.
 
-##### <a id="229"></a>229  Questions to be put to voter
+##### <a id="229"></a>229  Questions to be put to voter
 
              (1)  The presiding officer shall put the following questions to each person attending before the presiding officer and claiming to vote in an election or elections:
 
@@ -8772,11 +8772,11 @@ the DRO must send by post or deliver to the elector, at his or her latest known 
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-        (15B)  Subsection (15) does not apply if the elector has a valid and sufficient reason for the failure.
+         (15B)  Subsection (15) does not apply if the elector has a valid and sufficient reason for the failure.
 
 Note:          A defendant bears an evidential burden in relation to the matter in subsection (15B) (see subsection 13.3(3) of the _Criminal Code_).
 
-        (15C)  An elector who makes a statement in response to a penalty notice or to a notice under subsection (9) that is, to his or her knowledge, false or misleading in a material particular is guilty of an offence.
+         (15C)  An elector who makes a statement in response to a penalty notice or to a notice under subsection (9) that is, to his or her knowledge, false or misleading in a material particular is guilty of an offence.
 
                     Penalty:  $50.
 
@@ -8800,7 +8800,7 @@ Note:          A defendant bears an evidential burden in relat
 
                     <a name="antarctica"></a>**_Antarctica_** means the Australian Antarctic  Territory and includes:
 
-                     (a)  the Territory of Heard Island and McDonald Islands; and
+                     (a)  the Territory of Heard Island and McDonald  Islands; and
 
                      (b)  Macquarie Island.
 
@@ -9218,7 +9218,7 @@ then, to the extent that the preferences shown in each ticket commencing with th
 
                     (aa)  record the condition of the ballot-box when it was received;
 
-                   (ab)  check the accuracy of the statement of the presiding officer, mobile polling team leader or voting officer by:
+                    (ab)  check the accuracy of the statement of the presiding officer, mobile polling team leader or voting officer by:
 
                               (i)  removing the ballot papers from the box; and
 
@@ -9306,7 +9306,7 @@ and any continuing candidate who has received a number of votes equal to or grea
 
 and the ballot papers of the excluded candidate or candidates must be distributed in accordance with subsection (13AA).
 
-     (13AA)  Where a candidate is, or candidates are, excluded in accordance with this section, the ballot papers of the excluded candidate or candidates must be transferred as follows:
+      (13AA)  Where a candidate is, or candidates are, excluded in accordance with this section, the ballot papers of the excluded candidate or candidates must be transferred as follows:
 
                      (a)  the total number of ballot papers:
 
@@ -9348,9 +9348,9 @@ and the ballot papers of the excluded candidate or candidates must be distribute
 
                              (ii)  Candidate C and all other continuing candidates who stand lower in the poll than that candidate may be excluded in a bulk exclusion.
 
-        (13B)  Where, apart from this subsection, the number of continuing candidates after a bulk exclusion under subsection (13A) would be fewer than the number of remaining unfilled vacancies, subsection (13A) shall operate to exclude only the number of candidates, beginning with the candidate who stands lowest in the poll, that would leave sufficient continuing candidates to fill the remaining unfilled vacancies.
+         (13B)  Where, apart from this subsection, the number of continuing candidates after a bulk exclusion under subsection (13A) would be fewer than the number of remaining unfilled vacancies, subsection (13A) shall operate to exclude only the number of candidates, beginning with the candidate who stands lowest in the poll, that would leave sufficient continuing candidates to fill the remaining unfilled vacancies.
 
-        (13C)  Notwithstanding any other provision of this section (other than subsection (18)), where a candidate or candidates has or have been elected and there are surplus votes as a result of that election, paragraphs (13A)(a), (b), (c) and (d) may be applied as if references in those paragraphs to notional votes were references to adjusted notional votes.
+         (13C)  Notwithstanding any other provision of this section (other than subsection (18)), where a candidate or candidates has or have been elected and there are surplus votes as a result of that election, paragraphs (13A)(a), (b), (c) and (d) may be applied as if references in those paragraphs to notional votes were references to adjusted notional votes.
 
            (14)  Any continuing candidate who has received a number of votes equal to or greater than the quota on the completion of a transfer under subsection (13) or (15) of ballot papers of an excluded candidate or candidates, as the case may be, shall be elected, and, unless all the vacancies have been filled, the surplus votes (if any) of the candidate so elected shall be transferred in accordance with paragraphs (9)(a) and (b), except that, where the candidate so elected is elected before all the ballot papers of the excluded candidate or candidates, as the case may be, have been transferred, the surplus votes (if any) of the candidate so elected shall not be transferred until the remaining ballot papers of the excluded candidate or candidates, as the case may be, have been transferred in accordance with paragraphs (13AA)(a) and (b) to continuing candidates.
 
@@ -9542,7 +9542,7 @@ Definitions
 
                     (aa)  record the condition of the ballot-box when it was received;
 
-                   (ab)  check the accuracy of the statement of the presiding officer, mobile polling team leader or voting officer by:
+                    (ab)  check the accuracy of the statement of the presiding officer, mobile polling team leader or voting officer by:
 
                               (i)  removing the ballot papers from the box;
 
@@ -9622,13 +9622,13 @@ in the manner specified in the direction.
 
                      (c)  if subparagraph (b)(ii) applies—count each ballot paper of an excluded candidate to whichever of the first or second ranked candidates is earlier in the order of preference expressed on the ballot paper.
 
-       (7AB)  The ranking of candidates under paragraph (7AA)(a) is to be done as follows: 
+        (7AB)  The ranking of candidates under paragraph (7AA)(a) is to be done as follows: 
 
                      (a)  the candidate with the highest number of first preference votes is to be the first ranked candidate, the candidate with the second-highest number of votes is to be the second ranked candidate, and so on;
 
                      (b)  if 2 or more candidates have an equal number of first preference votes, the ranking as between those candidates is to be decided, by lot, by the Divisional Returning Officer.
 
-       (7AC)  If, following the exclusion of candidates under subparagraph (7AA)(b)(ii) and the count of ballot papers under paragraph (7AA)(c), a candidate has an absolute majority of votes, that candidate is elected.
+        (7AC)  If, following the exclusion of candidates under subparagraph (7AA)(b)(ii) and the count of ballot papers under paragraph (7AA)(c), a candidate has an absolute majority of votes, that candidate is elected.
 
           (7A)  The fresh scrutiny referred to in paragraph (7)(b) shall, if the Australian Electoral Officer for the State or Territory that includes the relevant Division so directs in writing, include a scrutiny of such preferences (other than first preferences), on such of the ballot papers, as are required by the direction, and shall be conducted in the manner specified in the direction.
 
@@ -10136,7 +10136,7 @@ the obligation rests upon each member of the executive committee of the party or
 
                      (b)  if paragraph (a) does not apply and the party is the Liberal Party or a State branch of the Liberal Party—pay the amount to the agent of the Liberal Party; or
 
-                   (ba)  if:
+                    (ba)  if:
 
                               (i)  the party is a designated federal party or a State branch of a designated federal party; and
 
@@ -10144,7 +10144,7 @@ the obligation rests upon each member of the executive committee of the party or
 
                             pay the applicable federal percentage of the amount to the agent of the designated federal party and the applicable State percentage of the amount to the agent of the State branch of the designated federal party mentioned in subparagraph (ii); or
 
-                   (bb)  if:
+                    (bb)  if:
 
                               (i)  paragraph (ba) does not apply; and
 
@@ -10194,7 +10194,7 @@ the obligation rests upon each member of the executive committee of the party or
 
                             pay the amount to the agent of the designated federal party; or
 
-                   (ab)  if paragraphs (a), (aa), (aaa) and (aab) do not apply and the members of the group were endorsed by one registered political party:
+                    (ab)  if paragraphs (a), (aa), (aaa) and (aab) do not apply and the members of the group were endorsed by one registered political party:
 
                               (i)  if the party is the Australian Democrats and there is a principal agent appointed under section 288A—pay the amount to the principal agent; or
 
@@ -10208,7 +10208,7 @@ the obligation rests upon each member of the executive committee of the party or
 
                             (iii)  in the case of the share applicable to the agent of the other party in accordance with that agreement or determination, as the case may be—pay the share to the agent of the other party; or
 
-                   (ad)  if paragraph (ac) does not apply, the members of the group were endorsed by 2 registered political parties, and one of those parties is the Liberal Party or a State branch of the Liberal Party:
+                    (ad)  if paragraph (ac) does not apply, the members of the group were endorsed by 2 registered political parties, and one of those parties is the Liberal Party or a State branch of the Liberal Party:
 
                               (i)  divide the payment into such shares as are agreed upon between the agents of the State branches of those parties that are organised on the basis of the State or Territory in which the members of the group stood for election or, in the absence of agreement, into such shares as the Electoral Commission determines; and
 
@@ -10260,7 +10260,7 @@ the obligation rests upon each member of the executive committee of the party or
 
                      (b)  any balance must be paid as soon as possible after the amount of the full entitlement is known.
 
-          (5E)  The agent of the Liberal Party may, before the polling day for an election, give the Electoral Commission a written notice determining that, for the purposes of the application of this section to the election:
+           (5E)  The agent of the Liberal Party may, before the polling day for an election, give the Electoral Commission a written notice determining that, for the purposes of the application of this section to the election:
 
                      (a)  a specified percentage is the federal percentage applicable to a specified State branch of the Liberal Party; and
 
@@ -10928,7 +10928,7 @@ Note:          The dollar amount mentioned in this subsection 
 
                              (ii)  the title or other description of the trust fund, or the name of the foundation, as the case requires; or
 
-                   (ba)  if the sum was received as a result of a loan—the information required to be kept under subsection 306A(3), or the name of the financial institution, as the case requires; or
+                    (ba)  if the sum was received as a result of a loan—the information required to be kept under subsection 306A(3), or the name of the financial institution, as the case requires; or
 
                      (c)  in any other case—the name and address of the person or organisation.
 
@@ -11008,7 +11008,7 @@ the return must also set out the following details about each person who contrib
 
                             (iii)  the Commonwealth (including a Department of the Commonwealth, an Executive Agency or a Statutory Agency (within the meaning of the _Public Service Act 1999_)); or
 
-                          (iiia)  a member of the House of Representatives or the Senate; or
+                           (iiia)  a member of the House of Representatives or the Senate; or
 
                             (iv)  a candidate in an election; or
 
@@ -11476,13 +11476,13 @@ until February in the calendar year after the return is furnished.
 
              (2)  The dollar amount mentioned in the provision, for an indexation year whose indexation factor is greater than 1, is replaced by the amount worked out using the following formula (rounded to the nearest $100):
 
-![](http://www.comlaw.gov.au/Details/C2010C00552/Html/8ba151b0-6bae-407f-8737-b6e93d3e8559_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00511/Html/CwlthElectoral1918_WD02_image002.gif)
 
              (3)  The dollar amount mentioned in the provision for an indexation year is not replaced in respect of a disclosure period in relation to an election if the indexation year begins between the issue of the writ for the election and the polling day for the election.
 
              (4)  The **_indexation factor_** for an indexation year is the number worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00552/Html/8ba151b0-6bae-407f-8737-b6e93d3e8559_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00511/Html/CwlthElectoral1918_WD02_image003.gif)
 
              (5)  The indexation factor is to be calculated to 3 decimal places, but increased by .001 if the fourth decimal place is more than 4.
 
@@ -11622,9 +11622,9 @@ as a candidate in an election for the House of Representatives or the Senate.
 
           (1A)  A person must not produce, publish or distribute or cause, permit or authorise to be produced, published or distributed an electoral video recording unless the name and address of the person who authorised the video recording appears at the end of it.
 
-       (1AB)  Subject to subsection (1AC), a person must not print, publish or distribute or cause, permit or authorise to be printed, published or distributed an electoral advertisement that takes up the whole or part of each of 2 opposing pages of a newspaper unless, in addition to fulfilling the requirement under paragraph (1)(a) that the name and address of the person who authorised the electoral advertisement appear at the end of it, such name and address also appears on the other page, or the part of the other page, taken up by the electoral advertisement.
+        (1AB)  Subject to subsection (1AC), a person must not print, publish or distribute or cause, permit or authorise to be printed, published or distributed an electoral advertisement that takes up the whole or part of each of 2 opposing pages of a newspaper unless, in addition to fulfilling the requirement under paragraph (1)(a) that the name and address of the person who authorised the electoral advertisement appear at the end of it, such name and address also appears on the other page, or the part of the other page, taken up by the electoral advertisement.
 
-       (1AC)  Subsection (1AB) does not apply to an advertisement of the kind referred to in that subsection:
+        (1AC)  Subsection (1AB) does not apply to an advertisement of the kind referred to in that subsection:
 
                      (a)  that is contained within:
 
@@ -12074,7 +12074,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 and who returns to that room or building while the meeting is in progress, shall be guilty of an offence.
 
-                    Penalty for contravention of this subsection:                    $1,000 or imprisonment for 6 months, or both.
+                    Penalty for contravention of this subsection:             $1,000 or imprisonment for 6 months, or both.
 
              (5)  Subsection (4) does not apply if the person proves that he or she is authorised by the chairperson to return.
 
@@ -12244,7 +12244,7 @@ Note:          A defendant bears an evidential burden in relat
 
              (2)  Paragraphs 355(c) and (d) do not apply in relation to a petition filed by the Electoral Commission disputing an election but such a petition shall be signed by the Electoral Commissioner for and on behalf of the Commission.
 
-##### <a id="358"></a>358  No proceedings unless requirements complied with
+##### <a id="358"></a>358  No proceedings unless requirements complied with
 
              (1)  Subject to subsection (2), no proceedings shall be had on the petition unless the requirements of sections 355, 356 and 357 are complied with.
 
@@ -12266,21 +12266,21 @@ Note:          A defendant bears an evidential burden in relat
 
                       (i)  To adjourn;
 
-                     (ii)  To compel the attendance of witnesses and the production of documents;
+                      (ii)  To compel the attendance of witnesses and the production of documents;
 
-                    (iii)  To grant to any party to a petition leave to inspect in the presence of a prescribed officer the rolls and other documents (except ballot papers) used at or in connexion with any election and to take, in the presence of the prescribed officer, extracts from those rolls and documents;
+                     (iii)  To grant to any party to a petition leave to inspect in the presence of a prescribed officer the rolls and other documents (except ballot papers) used at or in connexion with any election and to take, in the presence of the prescribed officer, extracts from those rolls and documents;
 
-                    (iv)  To examine witnesses on oath;
+                     (iv)  To examine witnesses on oath;
 
                      (v)  To declare that any person who was returned as elected was not duly elected;
 
-                    (vi)  To declare any candidate duly elected who was not returned as elected;
+                     (vi)  To declare any candidate duly elected who was not returned as elected;
 
-                   (vii)  To declare any election absolutely void;
+                    (vii)  To declare any election absolutely void;
 
-                  (viii)  To dismiss or uphold the petition in whole or in part;
+                   (viii)  To dismiss or uphold the petition in whole or in part;
 
-                    (ix)  To award costs;
+                     (ix)  To award costs;
 
                      (x)  To punish any contempt of its authority by fine or imprisonment.
 
@@ -12378,9 +12378,9 @@ on the ground of a failure of the arrangement for delivery.
 
              (2)  In the case of a petition under subsection 357(1A), subsection 360(1) applies as if for subparagraphs (v), (vi), (vii) and (viii) the following subparagraphs were substituted:
 
-                   “(v)  to declare a candidate elected;
+                    “(v)  to declare a candidate elected;
 
-                    (vi)  to declare the election absolutely void;”.
+                     (vi)  to declare the election absolutely void;”.
 
 ##### <a id="368"></a>368  Decisions to be final
 
@@ -12420,9 +12420,9 @@ a copy of the order of the Court.
 
                       (i)  If any person returned is declared not to have been duly elected, the person shall cease to be a Senator or Member of the House of Representatives;
 
-                     (ii)  If any person not returned is declared to have been duly elected, the person may take his or her seat accordingly;
+                      (ii)  If any person not returned is declared to have been duly elected, the person may take his or her seat accordingly;
 
-                    (iii)  If any election is declared absolutely void a new election shall be held.
+                     (iii)  If any election is declared absolutely void a new election shall be held.
 
 ##### <a id="375"></a>375  Power to make Rules of Court
 
@@ -12706,7 +12706,7 @@ shall, during a period of 2 years from the date of the conviction or finding, be
 
                      (b)  certified lists of voters; and
 
-                   (ba)  approved lists of voters; and
+                    (ba)  approved lists of voters; and
 
                      (c)  certified copies of the Roll; and
 
@@ -12788,9 +12788,9 @@ To the Australian Electoral Officer for the State of [_here insert name of State
 
 GREETING.
 
-We command you to cause election to be made according to law of [_here insert number_] Senators for our State of [_here insert name of State_] to serve in the Senate of the Parliament of the Commonwealth of Australia. And we appoint the                                   day of                                    20           as the day for the close of the Rolls. And we appoint the                           day of                                    20           , at twelve o’clock noon to be the day and time before which nominations of Senators at and for the said election are to be made. And we appoint the                                           day of                                    20           , to be the day on which the poll is to be taken in the event of the said election being contested. And we command you to certify the names of the Senators elected and to return this our writ with the certificate attached to our Governor in and over our said State on or before the                   day of                    20           .
+We command you to cause election to be made according to law of [_here insert number_] Senators for our State of [_here insert name of State_] to serve in the Senate of the Parliament of the Commonwealth of Australia. And we appoint the                                            day of                                     20            as the day for the close of the Rolls. And we appoint the                            day of                                     20            , at twelve o’clock noon to be the day and time before which nominations of Senators at and for the said election are to be made. And we appoint the                                            day of                                     20            , to be the day on which the poll is to be taken in the event of the said election being contested. And we command you to certify the names of the Senators elected and to return this our writ with the certificate attached to our Governor in and over our said State on or before the                     day of                     20            .
 
-Witness [_here insert the title of the Governor of the State issuing the writ_] at [_here insert place_] in our said State the                                        day of                                    in the year of our Lord Two thousand and    
+Witness [_here insert the title of the Governor of the State issuing the writ_] at [_here insert place_] in our said State the                                         day of                                     in the year of our Lord Two thousand and      
 
 _Section 152_
 
@@ -12802,10 +12802,10 @@ To the Australian Electoral Officer for the Territory of [_here insert name of T
 
 GREETING.
 
-We command you to cause election to be made according to law of 2 Senators for our Territory of [_here insert name of Territory_] to serve in the Senate of the Parliament of the Commonwealth of Australia from and after the date of their election. And we appoint the                                                                day of                    20           as the day for the close of the Rolls. And we appoint the                                           day of                                    20           , at twelve o’clock noon to be the day and time before which nominations of Senators at and for the said election are to be made. And we appoint the                                                           day of                    20           , to be the day on which the poll is to be taken in the event of the said election being contested. And we command you to certify the names of the Senators elected and to return this our writ with the certificate attached to our Governor-General in and over our said Commonwealth of Australia on or before the                                   day of                                    20           .
+We command you to cause election to be made according to law of 2 Senators for our Territory of [_here insert name of Territory_] to serve in the Senate of the Parliament of the Commonwealth of Australia from and after the date of their election. And we appoint the                                                       day of                     20            as the day for the close of the Rolls. And we appoint the                                            day of                                            20            , at twelve o’clock noon to be the day and time before which nominations of Senators at and for the said election are to be made. And we appoint the                                                  day of                     20            , to be the day on which the poll is to be taken in the event of the said election being contested. And we command you to certify the names of the Senators elected and to return this our writ with the certificate attached to our Governor-General in and over our said Commonwealth of Australia on or before the                                                day of                                     20            .
 
 Witness [_here insert the Governor-General’s title_] at [_here insert place_] the
- day of                                    in the year of our Lord Two thousand and                    
+ day of                                     in the year of our Lord Two thousand and                      
 
 _Section 152_
 
@@ -12821,15 +12821,15 @@ GREETING.
 
 We command you that you cause [_here insert elections or election, as the case requires_], to be made according to law of [_here insert Members of the House of Representatives or one Member of the House of Representatives for the Electoral Division of_ [_here insert name of Division_], _as the case requires_], to serve in the Parliament of our Commonwealth of Australia and we appoint the following dates for the purposes of the said, [_elections or election as the case requires_]
 
-1.     For the close of the Rolls the                             day of                    20           .
+1.     For the close of the Rolls the                             day of                     20            .
 
-2.     For nomination                    the                          day of                    20           .
+2.     For nomination                     the                          day of                     20            .
 
-3.     For taking the poll at the different polling places in the event of the election being contested                            the                          day of                    20           .
+3.     For taking the poll at the different polling places in the event of the election being contested                             the                          day of                    20            .
 
-4.     For the return of the writ on or before             the day of             20           .
+4.     For the return of the writ on or before              the day of              20            .
 
-Witness [_here insert the Governor-General’s title or Speaker’s title, as the case requires_] at [_here insert place_] the                                            day of                                    in the year of our Lord Two thousand and                                    
+Witness [_here insert the Governor-General’s title or Speaker’s title, as the case requires_] at [_here insert place_] the                                           day of                                     in the year of our Lord Two thousand and                                      
 
 _Section 166_
 
@@ -12841,7 +12841,7 @@ To the Australian Electoral Officer for the \[State/Territory] of [_name of Stat
 
 We, electors on the electoral roll for the above \[State/Territory] and entitled to vote at the election of Senators for that \[State/Territory], hereby nominate the person named below as a Senator for the above \[State/Territory] to serve in the Senate of the Parliament of the Commonwealth.
 
-Dated                                                             20           .
+Dated                                                             20            .
 
 Nominators
 
@@ -12942,13 +12942,13 @@ names to appear on ballot paper</div>
 I, the candidate named above, state that:
                                                                                                                      Please tick \[Ö]
 
-·<span style="font:7.0pt " new="">         </span>I am an Australian citizen                                                      Yes \[  ]               No \[  ]
+·<span style="font:7.0pt " new="">         </span>I am an Australian citizen                                                        Yes \[  ]               No \[  ]
 
-·<span style="font:7.0pt " new="">         </span>I am at least 18 years of age                                                  Yes \[  ]               No \[  ]
+·<span style="font:7.0pt " new="">         </span>I am at least 18 years of age                                                    Yes \[  ]               No \[  ]
 
-·<span style="font:7.0pt " new="">         </span>I am an elector or qualified to be an elector                       Yes \[  ]               No \[  ]
+·<span style="font:7.0pt " new="">         </span>I am an elector or qualified to be an elector                          Yes \[  ]               No \[  ]
 
-·<span style="font:7.0pt " new="">         </span>I am not, by virtue of section 44 of the Constitution,       Yes \[  ]               No \[  ]
+·<span style="font:7.0pt " new="">         </span>I am not, by virtue of section 44 of the Constitution,         Yes \[  ]               No \[  ]
  incapable of being chosen or of sitting as a Senator
 
 and I declare that:
@@ -12973,7 +12973,7 @@ To the Australian Electoral Officer for the \[State/Territory] of [_name of Stat
 
 I, [_name_], the registered officer [_or_ deputy registered officer] of the [_name of registered political party_] hereby nominate the person named below as a Senator for the above \[State/Territory] to serve in the Senate of the Parliament of the Commonwealth.
 
-Dated                                                             20           .
+Dated                                                             20            .
 
                                                                     [_Signature_]
 
@@ -13026,13 +13026,13 @@ names to appear on ballot paper</div>
 I, the candidate named above, state that:
                                                                                                                      Please  tick \[Ö]
 
-·<span style="font:7.0pt " new="">         </span>I am an Australian citizen                                                      Yes \[  ]               No \[  ]
+·<span style="font:7.0pt " new="">         </span>I am an Australian citizen                                                        Yes \[  ]               No \[  ]
 
-·<span style="font:7.0pt " new="">         </span>I am at least 18 years of age                                                 Yes \[  ]               No \[  ]
+·<span style="font:7.0pt " new="">         </span>I am at least 18 years of age                                                    Yes \[  ]               No \[  ]
 
-·<span style="font:7.0pt " new="">         </span>I am an elector or qualified to be an elector                       Yes \[  ]               No \[  ]
+·<span style="font:7.0pt " new="">         </span>I am an elector or qualified to be an elector                          Yes \[  ]               No \[  ]
 
-·<span style="font:7.0pt " new="">         </span>I am not, by virtue of section 44 of the                               Yes \[  ]               No \[  ]
+·<span style="font:7.0pt " new="">         </span>I am not, by virtue of section 44 of the                                 Yes \[  ]               No \[  ]
  Constitution, incapable of being chosen or 
  of sitting as a Senator
 
@@ -13058,7 +13058,7 @@ To the Australian Electoral Officer for the \[State/Territory] of [_name of Stat
 
 We, electors on the electoral roll for the above \[State/Territory] and entitled to vote at the election of Senators for that \[State/Territory], hereby nominate the persons named below as Senators for the above \[State/Territory] to serve in the Senate of the Parliament of the Commonwealth.
 
-Dated                                                             20           .
+Dated                                                             20            .
 
 Nominators
 
@@ -13115,13 +13115,13 @@ Birth</div>
 Each of the candidates named below, states that:
                                                                                                                      Please  tick \[Ö]
 
-·<span style="font:7.0pt " new="">         </span>I am an Australian citizen                                                      Yes \[  ]               No \[  ]
+·<span style="font:7.0pt " new="">         </span>I am an Australian citizen                                                        Yes \[  ]               No \[  ]
 
-·<span style="font:7.0pt " new="">         </span>I am at least 18 years of age                                                 Yes \[  ]               No \[  ]
+·<span style="font:7.0pt " new="">         </span>I am at least 18 years of age                                                    Yes \[  ]               No \[  ]
 
-·<span style="font:7.0pt " new="">         </span>I am an elector or qualified to be an elector                       Yes \[  ]               No \[  ]
+·<span style="font:7.0pt " new="">         </span>I am an elector or qualified to be an elector                          Yes \[  ]               No \[  ]
 
-·<span style="font:7.0pt " new="">         </span>I am not, by virtue of section 44 of the                               Yes \[  ]               No \[  ]
+·<span style="font:7.0pt " new="">         </span>I am not, by virtue of section 44 of the                                 Yes \[  ]               No \[  ]
  Constitution, incapable of being chosen or 
  of sitting as a Senator
 
@@ -13234,20 +13234,20 @@ To the Australian Electoral Officer for the \[State/Territory] of [_name of Stat
 
 I, [_name_], the registered officer [_or_ deputy registered officer] of the [_name of registered political party_] hereby nominate the persons named below as Senators for the above \[State/Territory] to serve in the Senate of the Parliament of the Commonwealth.
 
-Dated                                                             20           .
+Dated                                                             20            .
 
                                                                                                                     [_Signature_]
 
 Each of the candidates named below, states that:
                                                                                                                      Please tick \[Ö]
 
-·<span style="font:7.0pt " new="">         </span>I am an Australian citizen                                                      Yes \[  ]               No \[  ]
+·<span style="font:7.0pt " new="">         </span>I am an Australian citizen                                                        Yes \[  ]               No \[  ]
 
-·<span style="font:7.0pt " new="">         </span>I am at least 18 years of age                                                 Yes \[  ]               No \[  ]
+·<span style="font:7.0pt " new="">         </span>I am at least 18 years of age                                                    Yes \[  ]               No \[  ]
 
-·<span style="font:7.0pt " new="">         </span>I am an elector or qualified to be an elector                       Yes \[  ]               No \[  ]
+·<span style="font:7.0pt " new="">         </span>I am an elector or qualified to be an elector                          Yes \[  ]               No \[  ]
 
-·<span style="font:7.0pt " new="">         </span>I am not, by virtue of section 44 of the                               Yes \[  ]               No \[  ]
+·<span style="font:7.0pt " new="">         </span>I am not, by virtue of section 44 of the                                 Yes \[  ]               No \[  ]
  Constitution, incapable of being chosen or
  of sitting as a Senator
 
@@ -13359,7 +13359,7 @@ To the Divisional Returning Officer for the Division of [_name of Division_]
 
 We, electors on the electoral roll for the above Division and entitled to vote at the election of a Member of the House of Representatives for that Division, hereby nominate the person named below as a Member of that House for the above Division.
 
-Dated                                                             20           .
+Dated                                                             20            .
 
 Nominators
 
@@ -13466,13 +13466,13 @@ names to appear on ballot paper</div>
 I, the candidate named above, state that:
                                                                                                                      Please tick \[Ö]
 
-·<span style="font:7.0pt " new="">         </span>I am an Australian citizen                                                      Yes \[  ]               No \[  ]
+·<span style="font:7.0pt " new="">         </span>I am an Australian citizen                                                        Yes \[  ]               No \[  ]
 
-·<span style="font:7.0pt " new="">         </span>I am at least 18 years of age                                                 Yes \[  ]               No \[  ]
+·<span style="font:7.0pt " new="">         </span>I am at least 18 years of age                                                    Yes \[  ]               No \[  ]
 
-·<span style="font:7.0pt " new="">         </span>I am an elector or qualified to be an elector                       Yes \[  ]               No \[  ]
+·<span style="font:7.0pt " new="">         </span>I am an elector or qualified to be an elector                          Yes \[  ]               No \[  ]
 
-·<span style="font:7.0pt " new="">         </span>I am not, by virtue of section 44 of the                               Yes \[  ]               No \[  ]
+·<span style="font:7.0pt " new="">         </span>I am not, by virtue of section 44 of the                                 Yes \[  ]               No \[  ]
  Constitution, incapable of being chosen or
  of sitting as a member of the House of Representatives
 
@@ -13498,7 +13498,7 @@ To the Divisional Returning Officer for the Division of [_name of Division_]
 
 I, [_name_], the registered officer [_or_ deputy registered officer] of the [_name of registered political party_] hereby nominate the person named below as a Member of the House of Representatives for the above Division.
 
-Dated                                                             20           .
+Dated                                                             20            .
 
                                                                                            [_Signature_]
 
@@ -13551,13 +13551,13 @@ names to appear on ballot paper</div>
 I, the candidate named above, state that:
                                                                                                                      Please  tick \[Ö]
 
-·<span style="font:7.0pt " new="">         </span>I am an Australian citizen                                                      Yes \[  ]               No \[  ]
+·<span style="font:7.0pt " new="">         </span>I am an Australian citizen                                                        Yes \[  ]               No \[  ]
 
-·<span style="font:7.0pt " new="">         </span>I am at least 18 years of age                                                  Yes \[  ]               No \[  ]
+·<span style="font:7.0pt " new="">         </span>I am at least 18 years of age                                                    Yes \[  ]               No \[  ]
 
-·<span style="font:7.0pt " new="">         </span>I am an elector or qualified to be an elector                       Yes \[  ]               No \[  ]
+·<span style="font:7.0pt " new="">         </span>I am an elector or qualified to be an elector                          Yes \[  ]               No \[  ]
 
-·<span style="font:7.0pt " new="">         </span>I am not, by virtue of section 44 of the                               Yes \[  ]               No \[  ]
+·<span style="font:7.0pt " new="">         </span>I am not, by virtue of section 44 of the                                  Yes \[  ]               No \[  ]
  Constitution, incapable of being chosen or 
  of sitting as a member of the House of Representatives
 
@@ -13573,7 +13573,7 @@ I wish my Christian or given names to appear on the ballot paper in the form sho
 
                                                                                                [_Signature of candidate_]
 
-Section 209                                                                      
+Section 209                                                                       
 
 FORM E
 
@@ -13585,7 +13585,7 @@ FORM E
 
 <tr>
   <td>
-    <div> <img width="98" height="31" src="http://www.comlaw.gov.au/Details/C2010C00552/Html/8ba151b0-6bae-407f-8737-b6e93d3e8559_files/image004.gif">   <img width="61" height="52" src="http://www.comlaw.gov.au/Details/C2010C00552/Html/8ba151b0-6bae-407f-8737-b6e93d3e8559_files/image005.gif"> </div>
+    <div> <img width="98" height="31" src="http://www.comlaw.gov.au/Details/C2010C00511/Html/CwlthElectoral1918_WD02_image004.gif">   <img width="61" height="52" src="http://www.comlaw.gov.au/Details/C2010C00511/Html/CwlthElectoral1918_WD02_image005.gif"> </div>
   </td>
   <td colspan="8">
     <div>SENATE BALLOT PAPER 
@@ -13621,8 +13621,8 @@ FORM E
 </tr>
 <tr>
   <td colspan="2">
-    <div> <table cellpadding="0" cellspacing="0"> <tr> <td height="25"> <span style="position:absolute;z-index:251629056"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:.25pt .25pt .25pt .25pt"> <p class="MsoNormal" style="line-height:9.0pt"> <span style="font-size:8.0pt">or</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="22"> <span style="position:absolute;z-index:251681280"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:1.5pt 1.5pt 1.5pt 1.5pt"> <p class="MsoNormal" style="margin-right:-1.2pt"> <span style="font-size: 8.0pt">(2)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="26"> <span style="position:absolute;z-index:251680256"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:1.5pt 1.5pt 1.5pt 1.5pt"> <p class="MsoNormal"> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="25"> <span style="position:absolute;z-index:251679232"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:1.5pt 1.5pt 1.5pt 1.5pt"> <p class="MsoNormal" align="center" style="text-align:center"> <span style="font-size:8.0pt">or</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="25"> <span style="position:absolute;z-index:251635200"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:.25pt .25pt .25pt .25pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">or</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="22"> <span style="position:absolute;z-index:251632128"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:.25pt .25pt .25pt .25pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">(4)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="22" height="21" src="http://www.comlaw.gov.au/Details/C2010C00552/Html/8ba151b0-6bae-407f-8737-b6e93d3e8559_files/image006.gif">   <table cellpadding="0" cellspacing="0"> <tr> <td height="25"> <span style="position:absolute;z-index:251636224"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:.25pt .25pt .25pt .25pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">or</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00552/Html/8ba151b0-6bae-407f-8737-b6e93d3e8559_files/image007.gif">   <table cellpadding="0" cellspacing="0"> <tr> <td height="22"> <span style="position:absolute;z-index:251633152"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:.25pt .25pt .25pt .25pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">(2)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="23"> <span style="position:absolute;z-index:251631104"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:.25pt .25pt .25pt .25pt"> <p class="MsoNormal" style="line-height:9.0pt"> <span style="font-size:8.0pt">or</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="22"> <span style="position:absolute;z-index:251630080"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:.25pt .25pt .25pt .25pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">(2)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="22" height="21" src="http://www.comlaw.gov.au/Details/C2010C00552/Html/8ba151b0-6bae-407f-8737-b6e93d3e8559_files/image006.gif">   <img width="12" height="14" src="http://www.comlaw.gov.au/Details/C2010C00552/Html/8ba151b0-6bae-407f-8737-b6e93d3e8559_files/image008.gif">   <img width="12" height="13" src="http://www.comlaw.gov.au/Details/C2010C00552/Html/8ba151b0-6bae-407f-8737-b6e93d3e8559_files/image009.gif">   <table cellpadding="0" cellspacing="0"> <tr> <td height="22"> <span style="position:absolute;z-index:251634176"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:.25pt .25pt .25pt .25pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">(2)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table> </div>
-    <div> <table cellpadding="0" cellspacing="0"> <tr> <td height="28" bgcolor="white"> <span style="position:absolute; z-index:251627008"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.5pt 2.5pt 2.5pt 2.5pt"> <p class="MsoNormal"> <b> <i> <span style="font-size:12.0pt">either</span> </i> </b> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="21" height="22" src="http://www.comlaw.gov.au/Details/C2010C00552/Html/8ba151b0-6bae-407f-8737-b6e93d3e8559_files/image010.gif">  By placing the single figure 1 in one and only one of these squares to indicate the voting ticket you wish to adopt as your vote</div>
+    <div> <table cellpadding="0" cellspacing="0"> <tr> <td height="25"> <span style="position:absolute;z-index:7"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:0pt 0pt 0pt 0pt"> <p class="MsoNormal" style="line-height:9.0pt"> <span style="font-size:8.0pt">or</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="22"> <span style="position:absolute;z-index:58"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:1.0pt 1.0pt 1.0pt 1.0pt"> <p class="MsoNormal" style="margin-right:-1.2pt"> <span style="font-size: 8.0pt">(2)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="26"> <span style="position:absolute;z-index:57"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:1.0pt 1.0pt 1.0pt 1.0pt"> <p class="MsoNormal"> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="25"> <span style="position:absolute;z-index:56"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:1.0pt 1.0pt 1.0pt 1.0pt"> <p class="MsoNormal" align="center" style="text-align:center"> <span style="font-size:8.0pt">or</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="25"> <span style="position:absolute;z-index:13"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:0pt 0pt 0pt 0pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">or</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="22"> <span style="position:absolute;z-index:10"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:0pt 0pt 0pt 0pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">(4)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="22" height="21" src="http://www.comlaw.gov.au/Details/C2010C00511/Html/CwlthElectoral1918_WD02_image006.gif">   <table cellpadding="0" cellspacing="0"> <tr> <td height="25"> <span style="position:absolute;z-index:14"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:0pt 0pt 0pt 0pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">or</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00511/Html/CwlthElectoral1918_WD02_image007.gif">   <table cellpadding="0" cellspacing="0"> <tr> <td height="22"> <span style="position:absolute;z-index:11"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:0pt 0pt 0pt 0pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">(2)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="23"> <span style="position:absolute;z-index:9"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:0pt 0pt 0pt 0pt"> <p class="MsoNormal" style="line-height:9.0pt"> <span style="font-size:8.0pt">or</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="22"> <span style="position:absolute;z-index:8"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:0pt 0pt 0pt 0pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">(2)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="22" height="21" src="http://www.comlaw.gov.au/Details/C2010C00511/Html/CwlthElectoral1918_WD02_image006.gif">   <img width="12" height="14" src="http://www.comlaw.gov.au/Details/C2010C00511/Html/CwlthElectoral1918_WD02_image008.gif">   <img width="12" height="13" src="http://www.comlaw.gov.au/Details/C2010C00511/Html/CwlthElectoral1918_WD02_image009.gif">   <table cellpadding="0" cellspacing="0"> <tr> <td height="22"> <span style="position:absolute;z-index:12"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:0pt 0pt 0pt 0pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">(2)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table> </div>
+    <div> <table cellpadding="0" cellspacing="0"> <tr> <td height="28" bgcolor="white"> <span style="position:absolute; z-index:5"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.0pt 2.0pt 2.0pt 2.0pt"> <p class="MsoNormal"> <b> <i> <span style="font-size:12.0pt">either</span> </i> </b> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="21" height="22" src="http://www.comlaw.gov.au/Details/C2010C00511/Html/CwlthElectoral1918_WD02_image010.gif">  By placing the single figure 1 in one and only one of these squares to indicate the voting ticket you wish to adopt as your vote</div>
   </td>
   <td>
     <div>A</div>
@@ -13705,28 +13705,28 @@ FORM E
 </tr>
 <tr>
   <td colspan="2">
-    <div> <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:251659776"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.25pt 2.25pt 2.25pt 2.25pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
-(3)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="12" height="11" src="http://www.comlaw.gov.au/Details/C2010C00552/Html/8ba151b0-6bae-407f-8737-b6e93d3e8559_files/image011.gif">   <img width="14" height="14" src="http://www.comlaw.gov.au/Details/C2010C00552/Html/8ba151b0-6bae-407f-8737-b6e93d3e8559_files/image012.gif">   <table cellpadding="0" cellspacing="0"> <tr> <td height="28" bgcolor="white"> <span style="position:absolute; z-index:251628032"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.5pt 2.5pt 2.5pt 2.5pt"> <p class="MsoNormal"> <b> <i> <span style="font-size:12.0pt">or</span> </i> </b> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:251678208"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.25pt 2.25pt 2.25pt 2.25pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
-(4)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:251677184"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.25pt 2.25pt 2.25pt 2.25pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
-(4)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:251676160"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.25pt 2.25pt 2.25pt 2.25pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
-(3)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:251675136"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.25pt 2.25pt 2.25pt 2.25pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
-(3)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:251674112"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.25pt 2.25pt 2.25pt 2.25pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
-(3)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:251673088"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.25pt 2.25pt 2.25pt 2.25pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
-(3)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:251672064"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.25pt 2.25pt 2.25pt 2.25pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
-(3)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:251671040"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.25pt 2.25pt 2.25pt 2.25pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
-(4)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:251670016"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.25pt 2.25pt 2.25pt 2.25pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
-(3)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:251668992"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.25pt 2.25pt 2.25pt 2.25pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
-(3)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="34"> <span style="position:absolute;z-index:251667968"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.25pt 2.25pt 2.25pt 2.25pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
-(3)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:251666944"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.25pt 2.25pt 2.25pt 2.25pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
-(3)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:251665920"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.25pt 2.25pt 2.25pt 2.25pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
-(3)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:251664896"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.25pt 2.25pt 2.25pt 2.25pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
-(3)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:251663872"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.25pt 2.25pt 2.25pt 2.25pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
-(3)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:251662848"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.25pt 2.25pt 2.25pt 2.25pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
-(3)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:251661824"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.25pt 2.25pt 2.25pt 2.25pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
-(3)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="22" height="21" src="http://www.comlaw.gov.au/Details/C2010C00552/Html/8ba151b0-6bae-407f-8737-b6e93d3e8559_files/image013.gif">   <img width="21" height="22" src="http://www.comlaw.gov.au/Details/C2010C00552/Html/8ba151b0-6bae-407f-8737-b6e93d3e8559_files/image014.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00552/Html/8ba151b0-6bae-407f-8737-b6e93d3e8559_files/image015.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00552/Html/8ba151b0-6bae-407f-8737-b6e93d3e8559_files/image016.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00552/Html/8ba151b0-6bae-407f-8737-b6e93d3e8559_files/image017.gif">   <img width="21" height="22" src="http://www.comlaw.gov.au/Details/C2010C00552/Html/8ba151b0-6bae-407f-8737-b6e93d3e8559_files/image018.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00552/Html/8ba151b0-6bae-407f-8737-b6e93d3e8559_files/image017.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00552/Html/8ba151b0-6bae-407f-8737-b6e93d3e8559_files/image019.gif">   <img width="21" height="22" src="http://www.comlaw.gov.au/Details/C2010C00552/Html/8ba151b0-6bae-407f-8737-b6e93d3e8559_files/image020.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00552/Html/8ba151b0-6bae-407f-8737-b6e93d3e8559_files/image019.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00552/Html/8ba151b0-6bae-407f-8737-b6e93d3e8559_files/image016.gif">   <img width="22" height="21" src="http://www.comlaw.gov.au/Details/C2010C00552/Html/8ba151b0-6bae-407f-8737-b6e93d3e8559_files/image021.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00552/Html/8ba151b0-6bae-407f-8737-b6e93d3e8559_files/image022.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00552/Html/8ba151b0-6bae-407f-8737-b6e93d3e8559_files/image023.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00552/Html/8ba151b0-6bae-407f-8737-b6e93d3e8559_files/image024.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00552/Html/8ba151b0-6bae-407f-8737-b6e93d3e8559_files/image025.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00552/Html/8ba151b0-6bae-407f-8737-b6e93d3e8559_files/image024.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00552/Html/8ba151b0-6bae-407f-8737-b6e93d3e8559_files/image023.gif">  By placing the numbers 1 to (7) in the order of your preference</div>
+    <div> <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:37"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.0pt 2.0pt 2.0pt 2.0pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
+(3)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="12" height="11" src="http://www.comlaw.gov.au/Details/C2010C00511/Html/CwlthElectoral1918_WD02_image011.gif">   <img width="14" height="14" src="http://www.comlaw.gov.au/Details/C2010C00511/Html/CwlthElectoral1918_WD02_image012.gif">   <table cellpadding="0" cellspacing="0"> <tr> <td height="28" bgcolor="white"> <span style="position:absolute; z-index:6"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.0pt 2.0pt 2.0pt 2.0pt"> <p class="MsoNormal"> <b> <i> <span style="font-size:12.0pt">or</span> </i> </b> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:55"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.0pt 2.0pt 2.0pt 2.0pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
+(4)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:54"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.0pt 2.0pt 2.0pt 2.0pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
+(4)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:53"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.0pt 2.0pt 2.0pt 2.0pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
+(3)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:52"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.0pt 2.0pt 2.0pt 2.0pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
+(3)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:51"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.0pt 2.0pt 2.0pt 2.0pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
+(3)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:50"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.0pt 2.0pt 2.0pt 2.0pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
+(3)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:49"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.0pt 2.0pt 2.0pt 2.0pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
+(3)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:48"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.0pt 2.0pt 2.0pt 2.0pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
+(4)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:47"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.0pt 2.0pt 2.0pt 2.0pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
+(3)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:46"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.0pt 2.0pt 2.0pt 2.0pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
+(3)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="34"> <span style="position:absolute;z-index:45"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.0pt 2.0pt 2.0pt 2.0pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
+(3)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:44"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.0pt 2.0pt 2.0pt 2.0pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
+(3)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:43"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.0pt 2.0pt 2.0pt 2.0pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
+(3)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:42"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.0pt 2.0pt 2.0pt 2.0pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
+(3)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:41"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.0pt 2.0pt 2.0pt 2.0pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
+(3)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:40"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.0pt 2.0pt 2.0pt 2.0pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
+(3)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:39"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.0pt 2.0pt 2.0pt 2.0pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
+(3)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="22" height="21" src="http://www.comlaw.gov.au/Details/C2010C00511/Html/CwlthElectoral1918_WD02_image013.gif">   <img width="21" height="22" src="http://www.comlaw.gov.au/Details/C2010C00511/Html/CwlthElectoral1918_WD02_image014.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00511/Html/CwlthElectoral1918_WD02_image015.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00511/Html/CwlthElectoral1918_WD02_image016.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00511/Html/CwlthElectoral1918_WD02_image017.gif">   <img width="21" height="22" src="http://www.comlaw.gov.au/Details/C2010C00511/Html/CwlthElectoral1918_WD02_image018.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00511/Html/CwlthElectoral1918_WD02_image017.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00511/Html/CwlthElectoral1918_WD02_image019.gif">   <img width="21" height="22" src="http://www.comlaw.gov.au/Details/C2010C00511/Html/CwlthElectoral1918_WD02_image020.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00511/Html/CwlthElectoral1918_WD02_image019.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00511/Html/CwlthElectoral1918_WD02_image016.gif">   <img width="22" height="21" src="http://www.comlaw.gov.au/Details/C2010C00511/Html/CwlthElectoral1918_WD02_image021.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00511/Html/CwlthElectoral1918_WD02_image022.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00511/Html/CwlthElectoral1918_WD02_image023.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00511/Html/CwlthElectoral1918_WD02_image024.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00511/Html/CwlthElectoral1918_WD02_image025.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00511/Html/CwlthElectoral1918_WD02_image024.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00511/Html/CwlthElectoral1918_WD02_image023.gif">  By placing the numbers 1 to (7) in the order of your preference</div>
   </td>
   <td>
-    <div> <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:251660800"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.25pt 2.25pt 2.25pt 2.25pt"> <p class="MsoNormal"> </p> </div> </td> </tr> </table> </span> </td> </tr> </table> </div>
+    <div> <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:38"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.0pt 2.0pt 2.0pt 2.0pt"> <p class="MsoNormal"> </p> </div> </td> </tr> </table> </span> </td> </tr> </table> </div>
   </td>
   <td>
     <div></div>
@@ -13787,7 +13787,7 @@ FORM F
 
 <tr>
   <td colspan="2">
-    <div> <img width="61" height="52" src="http://www.comlaw.gov.au/Details/C2010C00552/Html/8ba151b0-6bae-407f-8737-b6e93d3e8559_files/image005.gif">   <img width="98" height="31" src="http://www.comlaw.gov.au/Details/C2010C00552/Html/8ba151b0-6bae-407f-8737-b6e93d3e8559_files/image026.gif">  BALLOT PAPER</div>
+    <div> <img width="61" height="52" src="http://www.comlaw.gov.au/Details/C2010C00511/Html/CwlthElectoral1918_WD02_image005.gif">   <img width="98" height="31" src="http://www.comlaw.gov.au/Details/C2010C00511/Html/CwlthElectoral1918_WD02_image026.gif">  BALLOT PAPER</div>
     <div>HOUSE OF REPRESENTATIVES</div>
     <div>\[ <i>here insert name of State or Territory as appropriate</i>]</div>
     <div>Electoral Division of \[ <i>here insert name of Division</i>].</div>
@@ -13797,8 +13797,8 @@ FORM F
 </tr>
 <tr>
   <td>
-    <div> <table cellpadding="0" cellspacing="0"> <tr> <td height="44"> <span style="position:absolute;z-index:251688448"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.25pt 2.25pt 2.25pt 2.25pt"> <p class="MsoNormal">1 
-2</p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="11" height="12" src="http://www.comlaw.gov.au/Details/C2010C00552/Html/8ba151b0-6bae-407f-8737-b6e93d3e8559_files/image027.gif"> </div>
+    <div> <table cellpadding="0" cellspacing="0"> <tr> <td height="44"> <span style="position:absolute;z-index:65"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.0pt 2.0pt 2.0pt 2.0pt"> <p class="MsoNormal">1 
+2</p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="11" height="12" src="http://www.comlaw.gov.au/Details/C2010C00511/Html/CwlthElectoral1918_WD02_image027.gif"> </div>
   </td>
   <td>
     <div>\[1 <i> Here insert name of a candidate</i> </div>
@@ -13807,8 +13807,8 @@ FORM F
 </tr>
 <tr>
   <td>
-    <div> <table cellpadding="0" cellspacing="0"> <tr> <td height="44"> <span style="position:absolute;z-index:251689472"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.25pt 2.25pt 2.25pt 2.25pt"> <p class="MsoNormal">1 
-2</p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="11" height="12" src="http://www.comlaw.gov.au/Details/C2010C00552/Html/8ba151b0-6bae-407f-8737-b6e93d3e8559_files/image028.gif"> </div>
+    <div> <table cellpadding="0" cellspacing="0"> <tr> <td height="44"> <span style="position:absolute;z-index:66"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.0pt 2.0pt 2.0pt 2.0pt"> <p class="MsoNormal">1 
+2</p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="11" height="12" src="http://www.comlaw.gov.au/Details/C2010C00511/Html/CwlthElectoral1918_WD02_image028.gif"> </div>
   </td>
   <td>
     <div><i> party, composite name of registered political parties </i></div>
@@ -13817,8 +13817,8 @@ FORM F
 </tr>
 <tr>
   <td>
-    <div> <table cellpadding="0" cellspacing="0"> <tr> <td height="44"> <span style="position:absolute;z-index:251690496"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.25pt 2.25pt 2.25pt 2.25pt"> <p class="MsoNormal">1 
-2</p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="11" height="12" src="http://www.comlaw.gov.au/Details/C2010C00552/Html/8ba151b0-6bae-407f-8737-b6e93d3e8559_files/image027.gif"> </div>
+    <div> <table cellpadding="0" cellspacing="0"> <tr> <td height="44"> <span style="position:absolute;z-index:67"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.0pt 2.0pt 2.0pt 2.0pt"> <p class="MsoNormal">1 
+2</p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="11" height="12" src="http://www.comlaw.gov.au/Details/C2010C00511/Html/CwlthElectoral1918_WD02_image027.gif"> </div>
   </td>
   <td>
     <div></div>
@@ -13826,8 +13826,8 @@ FORM F
 </tr>
 <tr>
   <td>
-    <div> <table cellpadding="0" cellspacing="0"> <tr> <td height="44"> <span style="position:absolute;z-index:251684352"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.25pt 2.25pt 2.25pt 2.25pt"> <p class="MsoNormal">1 
-2</p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="11" height="12" src="http://www.comlaw.gov.au/Details/C2010C00552/Html/8ba151b0-6bae-407f-8737-b6e93d3e8559_files/image027.gif"> </div>
+    <div> <table cellpadding="0" cellspacing="0"> <tr> <td height="44"> <span style="position:absolute;z-index:61"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.0pt 2.0pt 2.0pt 2.0pt"> <p class="MsoNormal">1 
+2</p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="11" height="12" src="http://www.comlaw.gov.au/Details/C2010C00511/Html/CwlthElectoral1918_WD02_image027.gif"> </div>
   </td>
   <td>
     <div></div>
@@ -13849,7 +13849,7 @@ _Sections 183 and 200A_
 
               3.  Throughout the hours of polling on polling day, the elector will be travelling under conditions that will prevent the elector attending a polling booth in the State or Territory for which the elector is enrolled.
 
-           3A.  Throughout the hours of polling on polling day, the elector will be absent from the Division for which the elector is enrolled.
+            3A.  Throughout the hours of polling on polling day, the elector will be absent from the Division for which the elector is enrolled.
 
               4.  The elector will be unable to attend a polling booth on polling day because of:
 
@@ -13865,7 +13865,7 @@ _Sections 183 and 200A_
 
               6.  Throughout the hours of polling on polling day, the elector will be a patient at a hospital and unable to vote at the hospital.
 
-           7A.  The elector will be unable to attend a polling booth on polling day because of a reasonable fear for, or a reasonable apprehension about, his or her personal wellbeing or safety.
+            7A.  The elector will be unable to attend a polling booth on polling day because of a reasonable fear for, or a reasonable apprehension about, his or her personal wellbeing or safety.
 
               8.  Because of the elector’s religious beliefs or membership of a religious order, the elector:
 
@@ -13875,9 +13875,9 @@ _Sections 183 and 200A_
 
               9.  On polling day, the elector will be serving a sentence of imprisonment or otherwise under detention.
 
-            10.  The elector’s address has been excluded from the Roll under section 104.
+             10.  The elector’s address has been excluded from the Roll under section 104.
 
-            11.  Throughout the hours of polling on polling day, the elector will be engaged in his or her employment or occupation and:
+             11.  Throughout the hours of polling on polling day, the elector will be engaged in his or her employment or occupation and:
 
                      (a)  if the elector is an employee, the elector is not entitled to leave of absence under section 345; and
 
@@ -13897,7 +13897,7 @@ _Subsection 266(3)_
 
               3.  The DRO shall compare the signature of the elector on each postal vote application with the signature on the relevant postal vote certificate and allow the scrutineers to inspect both signatures.
 
-           3A.  For each postal vote certificate not dealt with under paragraph 3, the DRO must compare the signature of the elector on the postal vote certificate with the signature of the elector on:
+            3A.  For each postal vote certificate not dealt with under paragraph 3, the DRO must compare the signature of the elector on the postal vote certificate with the signature of the elector on:
 
                      (a)  the elector’s application for registration as a general postal voter; or
 
@@ -13927,13 +13927,13 @@ and allow the scrutineers to inspect both signatures.
 
                     (ca)  in the case of an envelope purporting to contain a provisional vote ballot paper—if the elector (other than an elector to whom subsection 104(4) applies) did not provide evidence of his or her identity in accordance with section 235 at the time of casting the vote, the elector has provided that evidence by the first Friday following the polling day for that election; and
 
-                   (cb)  in the case of an envelope purporting to contain a postal ballot paper, a pre-poll vote ballot paper, an absent vote ballot paper or a provisional vote ballot paper, cast by an elector who is provisionally enrolled—that, by the first Friday following the polling day for that election, the elector has provided an officer with evidence that the elector has become an Australian citizen under the _Australian Citizenship Act 2007_; and
+                    (cb)  in the case of an envelope purporting to contain a postal ballot paper, a pre-poll vote ballot paper, an absent vote ballot paper or a provisional vote ballot paper, cast by an elector who is provisionally enrolled—that, by the first Friday following the polling day for that election, the elector has provided an officer with evidence that the elector has become an Australian citizen under the _Australian Citizenship Act 2007_; and
 
                      (d)  in the case of an envelope purporting to contain a ballot paper recording a vote cast at a station in Antarctica, the envelope is signed in accordance with subsection 260(1); and
 
                      (e)  in the case of an envelope purporting to contain a postal ballot paper, that the vote marked on the ballot paper was recorded prior to the close of the poll.
 
-           6A.  If the DRO is satisfied that more than one envelope that meets the requirements of paragraph 6 purports to contain a declaration vote by the same elector, the DRO must:
+            6A.  If the DRO is satisfied that more than one envelope that meets the requirements of paragraph 6 purports to contain a declaration vote by the same elector, the DRO must:
 
                      (a)  treat only one of the envelopes, as selected by the DRO, as meeting the requirements of paragraph 6; and
 
@@ -13949,7 +13949,7 @@ In applying subparagraph (a), the DRO should, to the extent that it is possibl
 
               7.  Where the envelope purporting to contain a postal ballot paper bears a postmark that includes a date after polling day, the vote marked on the ballot paper shall be taken not to have been recorded prior to the close of the poll.
 
-           7A.  A vote marked on a postal ballot paper must be taken not to have been recorded prior to the close of the poll if:
+            7A.  A vote marked on a postal ballot paper must be taken not to have been recorded prior to the close of the poll if:
 
                      (a)  in the case of a ballot paper taken to be witnessed because of subsection 194(1A)—the envelope purporting to contain the ballot paper does not bear a legible postmark; or
 
@@ -13959,7 +13959,7 @@ In applying subparagraph (a), the DRO should, to the extent that it is possibl
 
               9.  The DRO shall seal up in a parcel the envelopes that do not meet the requirements of paragraph 6 and shall write on the parcel a description of its contents, the name of the Division and the date of commencement of the preliminary scrutiny.
 
-            10.  If the preliminary scrutiny relates to a Senate election held concurrently with a House of Representatives election or a Senate election held alone, the DRO shall divide the envelopes that meet the requirements of paragraph 6 into groups as follows:
+             10.  If the preliminary scrutiny relates to a Senate election held concurrently with a House of Representatives election or a Senate election held alone, the DRO shall divide the envelopes that meet the requirements of paragraph 6 into groups as follows:
 
                      (a)  in one group, the envelopes bearing certificates or declarations by persons who are enrolled for the Division or whose claims for enrolment are claims to which subsection 102(4A) of the Act applies;
 
@@ -13969,7 +13969,7 @@ In applying subparagraph (a), the DRO should, to the extent that it is possibl
 
                      (d)  in another group, the envelopes bearing certificates or declarations by persons who are not enrolled for the Division or for the State or Territory in which the Division is situated.
 
-            11.  If the preliminary scrutiny relates to a House of Representatives election not held concurrently with a Senate election, the DRO shall divide the envelopes that meet the requirements of paragraph 6 into groups as follows: 
+             11.  If the preliminary scrutiny relates to a House of Representatives election not held concurrently with a Senate election, the DRO shall divide the envelopes that meet the requirements of paragraph 6 into groups as follows: 
 
                      (a)  in one group, the envelopes bearing certificates or declarations by persons who are enrolled for the Division or whose claims for enrolment are claims to which subsection 102(4A) of the Act applies; 
 
@@ -13977,7 +13977,7 @@ In applying subparagraph (a), the DRO should, to the extent that it is possibl
 
                      (c)  in another group, the envelopes bearing certificates or declarations by persons who are not enrolled for the Division. 
 
-            12.  This paragraph applies to an envelope if the DRO is satisfied: 
+             12.  This paragraph applies to an envelope if the DRO is satisfied: 
 
                      (a)  that the elector who signed a certificate or declaration on the envelope is not enrolled for the Division; and 
 
@@ -13989,13 +13989,13 @@ In applying subparagraph (a), the DRO should, to the extent that it is possibl
 
                             (iii)  that the omission was not attributable to subsection 118(4A).
 
-            13.  Subparagraph 12(b) does not apply if: 
+             13.  Subparagraph 12(b) does not apply if: 
 
                      (a)  more than one election (excluding the election to which the scrutiny relates) has been held since the error or mistake was made; or 
 
                      (b)  where there has been a redistribution of the State or Territory that includes the Division since the last election but one before the election to which the scrutiny relates, the error or mistake was made before the last such redistribution. 
 
-            14.  In paragraph 13, **_election_** means: 
+             14.  In paragraph 13, **_election_** means: 
 
                      (a)  a general election for the House of Representatives; 
 
@@ -14003,35 +14003,35 @@ In applying subparagraph (a), the DRO should, to the extent that it is possibl
 
                      (c)  a referendum not held concurrently with a general election. 
 
-            15.  The DRO shall, without opening the envelopes, subject to the operation of paragraphs 23 and 25, exclude from further scrutiny the ballot papers contained in envelopes referred to in subparagraphs 10(d) and 11(c). 
+             15.  The DRO shall, without opening the envelopes, subject to the operation of paragraphs 23 and 25, exclude from further scrutiny the ballot papers contained in envelopes referred to in subparagraphs 10(d) and 11(c). 
 
-            16.  The DRO shall seal up in a parcel the envelopes referred to in subparagraphs 10(d) and 11(c) and shall write on the parcel a description of the contents, the name of the Division and the date.
+             16.  The DRO shall seal up in a parcel the envelopes referred to in subparagraphs 10(d) and 11(c) and shall write on the parcel a description of the contents, the name of the Division and the date.
 
-            17.  The DRO shall, after the close of the poll for the Division, without unfolding or inspecting them or allowing any other person to do so, withdraw the ballot papers from the envelopes referred to in paragraph 10 or 11 that still remain in the preliminary scrutiny. 
+             17.  The DRO shall, after the close of the poll for the Division, without unfolding or inspecting them or allowing any other person to do so, withdraw the ballot papers from the envelopes referred to in paragraph 10 or 11 that still remain in the preliminary scrutiny. 
 
-            18.  Ballot papers withdrawn from envelopes referred to in subparagraph 10(a) or (b) or 11(a) or (b) shall be placed in a ballot-box by themselves for further scrutiny. 
+             18.  Ballot papers withdrawn from envelopes referred to in subparagraph 10(a) or (b) or 11(a) or (b) shall be placed in a ballot-box by themselves for further scrutiny. 
 
-            19.  A ballot paper for a Senate election withdrawn from an envelope referred to in subparagraph 10(c) shall be placed in the ballot-box referred to in paragraph 18 for further scrutiny. A ballot paper for a House of Representatives election withdrawn from such an envelope shall be excluded from further scrutiny. 
+             19.  A ballot paper for a Senate election withdrawn from an envelope referred to in subparagraph 10(c) shall be placed in the ballot-box referred to in paragraph 18 for further scrutiny. A ballot paper for a House of Representatives election withdrawn from such an envelope shall be excluded from further scrutiny. 
 
-            20.  The DRO shall seal up in a parcel ballot papers excluded under paragraph 19 and shall write on the parcel a description of its contents, the name of the Division and the date. 
+             20.  The DRO shall seal up in a parcel ballot papers excluded under paragraph 19 and shall write on the parcel a description of its contents, the name of the Division and the date. 
 
-            21.  Where a ballot paper has been finally excluded from further scrutiny, other than because of subparagraph 6A(b), the DRO shall send to the voter a written statement of the reason for the rejection. 
+             21.  Where a ballot paper has been finally excluded from further scrutiny, other than because of subparagraph 6A(b), the DRO shall send to the voter a written statement of the reason for the rejection. 
 
-            22.  For the purposes of paragraph 17, an envelope that contains a ballot paper for a referendum shall be dealt with as if it did not contain that ballot paper. 
+             22.  For the purposes of paragraph 17, an envelope that contains a ballot paper for a referendum shall be dealt with as if it did not contain that ballot paper. 
 
-            23.  In the course of a preliminary scrutiny of declaration votes, the DRO, as soon as practicable after the ballot papers that are required, under that scrutiny, to be placed in a ballot-box under paragraph 18 or 19 are so placed, but not before the close of the poll for the Division, must: 
+             23.  In the course of a preliminary scrutiny of declaration votes, the DRO, as soon as practicable after the ballot papers that are required, under that scrutiny, to be placed in a ballot-box under paragraph 18 or 19 are so placed, but not before the close of the poll for the Division, must: 
 
                      (a)  open the parcel of envelopes that contains the ballot papers that are, under paragraph 5 and subject to the operation of this paragraph and paragraph 24, excluded from scrutiny, and deal further with those declaration votes in accordance with paragraph 24; and 
 
                      (b)  open the parcel of envelopes that contains the ballot papers that are, under paragraph 15 and subject to the operation of this paragraph and paragraph 25, excluded from scrutiny, and deal further with those declaration votes in accordance with paragraph 25\. 
 
-            24.  For the purpose of dealing further with declaration votes referred to in subparagraph 23(a), paragraphs 3 to 22, inclusive, reapply in relation to those votes as if: 
+             24.  For the purpose of dealing further with declaration votes referred to in subparagraph 23(a), paragraphs 3 to 22, inclusive, reapply in relation to those votes as if: 
 
                      (a)  the words “subject to the operation of paragraphs 23 and 24,” were omitted from paragraph 5; and 
 
                      (b)  the words “subject to the operation of paragraphs 23 and 25,” were omitted from paragraph 15\. 
 
-            25.  For the purpose of dealing further with declaration votes referred to in subparagraph 23(b), paragraphs 10 to 22, inclusive, reapply in relation to those votes as if the words “subject to the operation of paragraphs 23 and 25,” were omitted from paragraph 15.
+             25.  For the purpose of dealing further with declaration votes referred to in subparagraph 23(b), paragraphs 10 to 22, inclusive, reapply in relation to those votes as if the words “subject to the operation of paragraphs 23 and 25,” were omitted from paragraph 15.
 
 # Notes to the _Commonwealth Electoral Act 1918_
 
@@ -16077,7 +16077,7 @@ _(a)_     Section 3 of the _Commonwealth Electoral Act 1946_ provides 
 
                    3.   Each section inserted in the _Commonwealth Electoral Act 1918_, or in that Act as amended, by the _Commonwealth Electoral Act 1919_, the _Commonwealth Electoral Act 1921_, the _Commonwealth Electoral Act 1922_, the _Commonwealth Electoral Act 1924_, the _Commonwealth Electoral Act 1925_, the _Commonwealth Electoral Act 1928_, the _Commonwealth Electoral Act 1934_ or the _Commonwealth Electoral Act 1940_, shall be deemed to have commenced on the date of commencement of the section by which it was so inserted.
 
-_(b)_     The _Commonwealth Electoral Act 1918_ was amended by Part IX (sections 31–35) only of the _Statute Law (Miscellaneous Amendments) Act 1981_, subsection 2(5) of which provides that Part IX shall come into operation on a date to be fixed by Proclamation.
+_(b)_    The _Commonwealth Electoral Act 1918_ was amended by Part IX (sections 31–35) only of the _Statute Law (Miscellaneous Amendments) Act 1981_, subsection 2(5) of which provides that Part IX shall come into operation on a date to be fixed by Proclamation.
 
 _(c)_     The _Statute Law (Miscellaneous Amendments) Act 1981_ was amended by Part XXXVII (sections 214 and 215) only of the _Statute Law (Miscellaneous Amendments) Act (No. 1) 1982_, subsection 2(10) of which provides as follows:
 
@@ -26093,9 +26093,9 @@ Section 3—For Proclamations fixing the dates of repeal of these Acts: _see G
 
 Section 93—Section 30FD of the _Crimes Act 1914_ provides as follows:
 
-##### <a id="30FD"></a>30FD  Disqualification from voting of member of unlawful association
+**30FD  Disqualification from voting of member of unlawful association**
 
-                   Any person who, at the date of any declaration made by a court under this Part declaring any body of persons to be an unlawful association, is a member of the Committee or Executive of that association, shall not for a period of 7 years from that date be entitled to have his or her name placed on or retained on any roll of electors for the Senate or House of Representatives, or to vote at any Senate election or House of Representatives election unless so entitled under section 41 of the Constitution.
+                   Any person who, at the date of any declaration made by a court under this Part declaring any body of persons to be an unlawful association, is a member of the Committee or Executive of that association, shall not for a period of 7 years from that date be entitled to have his name placed on or retained on any roll of electors for the Senate or House of Representatives, or to vote at any Senate election or House of Representatives election unless so entitled under section 41 of the Constitution.
 
 ### Note 4
 
@@ -26205,9 +26205,9 @@ Repeal the note.
 
 Insert:
 
-                   (da)  the elector must declare, on the postal vote certificate, that the requirements referred to in paragraphs (a), (b) and (d) were satisfied before the close of the poll;
+                    (da)  the elector must declare, on the postal vote certificate, that the requirements referred to in paragraphs (a), (b) and (d) were satisfied before the close of the poll;
 
-                   (db)  the authorised witness must declare, on the postal vote certificate, that the requirements referred to in paragraphs (a) to (c) were satisfied before the close of the poll;
+                    (db)  the authorised witness must declare, on the postal vote certificate, that the requirements referred to in paragraphs (a) to (c) were satisfied before the close of the poll;
 
 ## 8  Paragraph 194(1A)(a)
 
@@ -26225,19 +26225,13 @@ Repeal the paragraphs, substitute:
 
               7.  A vote marked on a postal ballot paper must be taken not to have been recorded prior to the close of the poll if the date referred to in paragraph 194(1)(c) in relation to the postal vote certificate is a date after polling day.
 
-           7A.  A vote marked on a postal ballot paper must be taken not to have been recorded prior to the close of the poll if:
+            7A.  A vote marked on a postal ballot paper must be taken not to have been recorded prior to the close of the poll if:
 
                      (a)  subsection 194(1A) applies in relation to the vote; and
 
                      (b)  the date referred to in paragraph 194(1A)(a) is a date after polling day.
 
-As at 9 August 2010 the amendments are not incorporated in this compilation.
-
-### Note 10
-
-The High Court of Australia has declared some provisions relating to electoral rolls and voting to be invalid, namely items 20, 24, 28, 41, 42, 43, 44, 45 and 52 of Schedule 1 to the _Electoral and Referendum Amendment (Electoral Integrity and Other Measures) Act 2006_. Those provisions affected paragraph 94A(4)(a), subsections 95(4), 96(4) and 102(4), paragraph 102(4A)(a), subparagraph 102(4A)(b)(ii), subsection 102(4B), paragraphs 102(4B)(a) and (b) and section 155 of the _Commonwealth Electoral Act 1918_. For more information, see the High Court press release of 6 August 2010 as available online at:
-
-http://www.hcourt.gov.au/media/rowe.pdf
+As at 23 July 2010 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -26267,7 +26261,7 @@ the political party is taken to be a Parliamentary party for the period of 6 mon
 
 ## 11  Transitional—applications made before commencement
 
-(1)       If:
+(1)        If:
 
                      (a)  before the commencement of this Schedule a political party had made an application under section 126 of the _Commonwealth Electoral Act 1918_ (application for registration); and
 
@@ -26279,7 +26273,7 @@ the political party is taken to be a Parliamentary party for the period of 6 mon
 
 the political party is taken to be a Parliamentary party for the period of 6 months starting at the commencement of this Schedule.
 
-(2)       For the purposes of subitem (1), an application is **_finally determined_** when the application, and any appeals arising out of it, have been finally determined or otherwise disposed of.
+(2)        For the purposes of subitem (1), an application is **_finally determined_** when the application, and any appeals arising out of it, have been finally determined or otherwise disposed of.
 
 ## 12  Transitional—provision of information to Electoral Commission
 
@@ -26299,7 +26293,7 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 ## 418  Transitional—pre-commencement offences
 
-(1)       Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
+(1)        Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
 
                      (a)  an offence committed before the commencement of this item; or
 
@@ -26309,7 +26303,7 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 as if the amendment or repeal had not been made.
 
-(2)       Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
+(2)        Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
 
 ## 419  Transitional—pre-commencement notices
 
@@ -26331,13 +26325,13 @@ _Electoral and Referendum Amendment Act (No. 1) 2001 (No. 34, 2001)_
 
 ## 80  Abbreviations of party names already included in the Register
 
-(1)       This item applies to a registered political party if:
+(1)        This item applies to a registered political party if:
 
                      (a)  immediately before this item commences, an abbreviation of the party’s name is included in the Register kept under section 125 of the _Commonwealth Electoral Act 1918_; and
 
                      (b)  the abbreviation would not be able to be included in the Register after that time because of the amendment, made by item 1 of this Schedule, of the definition of **_abbreviation_** in subsection 4(1) of that Act.
 
-(2)       For the period of 6 months starting when this item commences, the abbreviation is taken to be within that definition. However, that 6 month period does not include:
+(2)        For the period of 6 months starting when this item commences, the abbreviation is taken to be within that definition. However, that 6 month period does not include:
 
                      (a)  the day of the issue of a writ for a Senate election or a House of Representatives election; and
 
@@ -26345,7 +26339,7 @@ _Electoral and Referendum Amendment Act (No. 1) 2001 (No. 34, 2001)_
 
                      (c)  any day between those days.
 
-(3)       If the abbreviation remains in the Register after the 6 month period ends, the Electoral Commission must remove it from the Register and give written notice to the registered officer of the party.
+(3)        If the abbreviation remains in the Register after the 6 month period ends, the Electoral Commission must remove it from the Register and give written notice to the registered officer of the party.
 
 ## 81  Inappropriate names already included in Rolls
 
@@ -26355,7 +26349,7 @@ _Electoral and Referendum Amendment Act (No. 1) 2001 (No. 34, 2001)_
 
                      (b)  a Divisional Returning Officer (the **_DRO_**) or Australian Electoral Officer (the **_AEO_**) is of the view that if he or she were considering, after sections 93A and 98A of the CEA commence, whether to cause the current name to be included in, or transferred to, the Roll under the same provision, the DRO or AEO would refuse, under either of those sections, to cause the name to be included or transferred.
 
-(2)       If:
+(2)        If:
 
                      (a)  there is another name under which the person has been included in a Roll; and
 
@@ -26363,9 +26357,9 @@ _Electoral and Referendum Amendment Act (No. 1) 2001 (No. 34, 2001)_
 
             the DRO or AEO must cause the person’s current name to be removed from the Roll and replaced with the other name. If there is more than one other name to which paragraphs (a) and (b) apply, the current name must be replaced with the other name that was most recently included in the Roll.
 
-(3)       If there is no name to which paragraphs (2)(a) and (b) apply, the DRO or AEO must request in writing that the person provide, within 20 days after the request is made, written evidence of a name, other than the current name, by which the person is or has been generally known in the community.
+(3)        If there is no name to which paragraphs (2)(a) and (b) apply, the DRO or AEO must request in writing that the person provide, within 20 days after the request is made, written evidence of a name, other than the current name, by which the person is or has been generally known in the community.
 
-(4)       If a person complies with a request under subitem (3) and the DRO or AEO:
+(4)        If a person complies with a request under subitem (3) and the DRO or AEO:
 
                      (a)  is satisfied that the person is or has been generally known in the community by a name other than the current name; and
 
@@ -26373,13 +26367,13 @@ _Electoral and Referendum Amendment Act (No. 1) 2001 (No. 34, 2001)_
 
             the DRO or AEO must cause the person’s current name to be removed from the Roll and replaced with the name by which the person is or has been generally known in the community.
 
-(5)       The DRO or AEO must cause a person’s current name to be removed from the Roll, without being replaced with another name, if:
+(5)        The DRO or AEO must cause a person’s current name to be removed from the Roll, without being replaced with another name, if:
 
                      (a)  the person fails to comply with a request under subitem (3); or
 
                      (b)  the person complies with a request under subitem (3) but either or both of paragraphs (4)(a) and (b) do not apply.
 
-(6)       The DRO or AEO must give written notice to a person if the person’s current name is removed from the Roll under this item and the notice must specify whether it is replaced with another name. For the purposes of sections 120 and 121 of the CEA, the notice is taken to be a notice under subsection 98A(4) of the CEA.
+(6)        The DRO or AEO must give written notice to a person if the person’s current name is removed from the Roll under this item and the notice must specify whether it is replaced with another name. For the purposes of sections 120 and 121 of the CEA, the notice is taken to be a notice under subsection 98A(4) of the CEA.
 
 * * *
 
@@ -26429,13 +26423,13 @@ continue to have effect after that item commences as if they had been made for t
 
 ## 112  Transitional—provision of Rolls and habitation indexes to political parties etc.
 
-(1)       This item applies to:
+(1)        This item applies to:
 
                      (a)  requests made under section 90B of the _Commonwealth Electoral Act 1918_ after the commencement of this item; and
 
                      (b)  requests made under section 91 of the _Commonwealth Electoral Act 1918_ before the commencement of this item that have not been dealt with before the commencement of this item.
 
-(2)       The requests have effect, after the commencement of this item, as if the requests had been made under section 90B of the _Commonwealth Electoral Act 1918_ as amended by this Act.
+(2)        The requests have effect, after the commencement of this item, as if the requests had been made under section 90B of the _Commonwealth Electoral Act 1918_ as amended by this Act.
 
 ## 113  Application of item 4 amendment
 
@@ -26451,9 +26445,9 @@ Subsection 91A(2B) of the _Commonwealth Electoral Act 1918_ applies to informati
 
 ## 115  Application of item 8 amendment
 
-(1)       Section 91B of the _Commonwealth Electoral Act 1918_ applies to information whether given before or after the commencement of item 8 of this Schedule.
+(1)        Section 91B of the _Commonwealth Electoral Act 1918_ applies to information whether given before or after the commencement of item 8 of this Schedule.
 
-(2)       Subsection 91B(1) of the _Commonwealth Electoral Act 1918_ applies to information that was given under section 91AA or 91AB of the _Commonwealth Electoral Act 1918_ before the commencement of item 8 of this Schedule as if the reference in subsection 91B(1) of that Act to section 90B included a reference to sections 91AA and 91AB as in force before the commencement of that item.
+(2)        Subsection 91B(1) of the _Commonwealth Electoral Act 1918_ applies to information that was given under section 91AA or 91AB of the _Commonwealth Electoral Act 1918_ before the commencement of item 8 of this Schedule as if the reference in subsection 91B(1) of that Act to section 90B included a reference to sections 91AA and 91AB as in force before the commencement of that item.
 
 ## 116  Application of amended subsection 94(1B) and paragraph 94A(2)(d)
 
@@ -26487,7 +26481,7 @@ _Electoral and Referendum Amendment (Enrolment Integrity and Other Measures) Act
 
 ## 133  Transitional—enrolment in respect of an address
 
-(1)       If, immediately before the commencement of this item:
+(1)        If, immediately before the commencement of this item:
 
                      (a)  a person’s name was on the Roll for a Subdivision; and
 
@@ -26495,7 +26489,7 @@ _Electoral and Referendum Amendment (Enrolment Integrity and Other Measures) Act
 
 the _Commonwealth Electoral Act 1918_ has effect, after that commencement, as if the person’s name had been placed on the Roll in respect of that address.
 
-(2)       If, immediately before the commencement of this item:
+(2)        If, immediately before the commencement of this item:
 
                      (a)  a person’s name was on the Roll for a Subdivision; and
 
@@ -26507,13 +26501,13 @@ the _Commonwealth Electoral Act 1918_ has effect, after that commencement, as if
 
                      (d)  if the person gives notice of a change of address under subsection 101(5) of that Act—in respect of the new address.
 
-(3)       Subitems (1) and (2) do not prevent:
+(3)        Subitems (1) and (2) do not prevent:
 
                      (a)  the removal or deletion of the person’s name from the Roll in accordance with the _Commonwealth Electoral Act 1918_ as amended by this Schedule; or
 
                      (b)  the alteration of the Roll in accordance with the _Commonwealth Electoral Act 1918_ as amended by this Schedule.
 
-(4)       This item is enacted for the avoidance of doubt.
+(4)        This item is enacted for the avoidance of doubt.
 
 ## 134  Application of subparagraph 134A(1)(a)(ii) of the _Commonwealth Electoral Act 1918_
 
@@ -26545,13 +26539,13 @@ The amendment made by item 84 applies to the 2006-07 financial year and later 
 
 ## 29  Application of this Schedule
 
-(1)       The amendments made by this Schedule (other than item 28) apply to:
+(1)        The amendments made by this Schedule (other than item 28) apply to:
 
                      (a)  that part of the 2005-06 financial year that commences on the day on which the Bill for this Act is introduced into the Parliament; and
 
                      (b)  later financial years.
 
-(2)       The amendment made by item 28 applies to the 2006-07 financial year and later financial years.
+(2)        The amendment made by item 28 applies to the 2006-07 financial year and later financial years.
 
 ## Schedule 3
 
@@ -26573,19 +26567,19 @@ In this Schedule:
 
 ## 2  Deregistration of certain political parties
 
-(1)       A political party that is registered under Part XI of the _Commonwealth Electoral Act 1918_ at the time this item commences is deregistered by force of this item, 6 months after that time, unless the party is covered by subitem 3(1), (2) or (3).
+(1)        A political party that is registered under Part XI of the _Commonwealth Electoral Act 1918_ at the time this item commences is deregistered by force of this item, 6 months after that time, unless the party is covered by subitem 3(1), (2) or (3).
 
-(2)       The Electoral Commission must notify a political party in writing if the party is deregistered by force of this item.
+(2)        The Electoral Commission must notify a political party in writing if the party is deregistered by force of this item.
 
 ## 3  Political parties that are not deregistered
 
-(1)       A political party is not deregistered by force of item 2 if, during the 41st Commonwealth Parliament, but before this item commences:
+(1)        A political party is not deregistered by force of item 2 if, during the 41st Commonwealth Parliament, but before this item commences:
 
                      (a)  the party is a Parliamentary party; and
 
                      (b)  the Electoral Commission has determined that the party is an eligible political party for the purposes of section 138A of the _Commonwealth Electoral Act 1918_.
 
-(2)       A political party is not deregistered by force of item 2 if, during the 41st Commonwealth Parliament:
+(2)        A political party is not deregistered by force of item 2 if, during the 41st Commonwealth Parliament:
 
                      (a)  the party is a Parliamentary party; and
 
@@ -26593,7 +26587,7 @@ In this Schedule:
 
                      (c)  within 6 months of this item commencing, the Electoral Commission has determined that the party is an eligible political party for the purposes of that section.
 
-(3)       A political party is not deregistered by force of item 2 if:
+(3)        A political party is not deregistered by force of item 2 if:
 
                      (a)  within 3 months of this item commencing, the party claims, in accordance with subitem (4), that the party should not be deregistered; and
 
@@ -26603,7 +26597,7 @@ In this Schedule:
 
                              (ii)  a member of a related party was a candidate for the related party at an election and was elected at that time as a member of the Commonwealth Parliament.
 
-(4)       A claim under this item must:
+(4)        A claim under this item must:
 
                      (a)  be made by the person who is the registered officer of the political party; and
 
@@ -26621,13 +26615,13 @@ In this Schedule:
 
                      (e)  if subparagraph (d)(iii) applies—be signed by the party secretaries of the party and the related party.
 
-(5)       A person who was elected as a member of the Commonwealth Parliament must not be relied on by more than one political party for its claim, unless:
+(5)        A person who was elected as a member of the Commonwealth Parliament must not be relied on by more than one political party for its claim, unless:
 
                      (a)  at a time when the person was a member of a political party, the person was a candidate for the party at an election, and was elected at that time as a member of the Commonwealth Parliament; and
 
                      (b)  at another time when the person was a member of another political party, the person was a candidate for the other party at another election, and was elected at that time as a member of the Commonwealth Parliament.
 
-(6)       If more than one political party relies on the same person for its claim in contravention of subitem (5), then:
+(6)        If more than one political party relies on the same person for its claim in contravention of subitem (5), then:
 
                      (a)  if at a time when the person was a member of one of the political parties, the person was a candidate for the party at an election, and was elected at that time as a member of the Commonwealth Parliament—that party may rely on the person; and
 
@@ -26639,9 +26633,9 @@ In this Schedule:
 
                             may rely on the person.
 
-(7)       Before determining a claim made under this item, the Electoral Commission may make any inquiries that it considers appropriate to ascertain facts in relation to the claim.
+(7)        Before determining a claim made under this item, the Electoral Commission may make any inquiries that it considers appropriate to ascertain facts in relation to the claim.
 
-(8)       A determination or decision by the Electoral Commission in respect of a claim made under this item is taken to be a reviewable decision for the purposes of section 141 of the _Commonwealth Electoral Act 1918_.
+(8)        A determination or decision by the Electoral Commission in respect of a claim made under this item is taken to be a reviewable decision for the purposes of section 141 of the _Commonwealth Electoral Act 1918_.
 
 ## 4  Waiver of fee for re-registration
 
@@ -26684,9 +26678,9 @@ _Electoral and Referendum Legislation Amendment Act 2007 (No. 22, 2007)_
 
 ## 4  Saving—regulations under paragraphs 98AA(1)(a) and (b)
 
-(1)       Regulations in force before the commencement of item 3 for the purposes of paragraphs 98AA(1)(a) and (b) of the _Commonwealth Electoral Act 1918_ continue in force after that commencement as if they had been made for the purposes of those paragraphs as in force after that commencement.
+(1)        Regulations in force before the commencement of item 3 for the purposes of paragraphs 98AA(1)(a) and (b) of the _Commonwealth Electoral Act 1918_ continue in force after that commencement as if they had been made for the purposes of those paragraphs as in force after that commencement.
 
-(2)       Subitem (1) does not prevent amendment or repeal of regulations referred to in that subitem.
+(2)        Subitem (1) does not prevent amendment or repeal of regulations referred to in that subitem.
 
 * * *
 
@@ -26712,9 +26706,9 @@ _Electoral and Referendum Amendment (Pre-poll Voting and Other Measures) Act 201
 
 ## 77  Application of amendments
 
-(1)       The amendments made by this Schedule apply in relation to elections and referendums the writs for which are issued on or after the commencement of the amendments.
+(1)        The amendments made by this Schedule apply in relation to elections and referendums the writs for which are issued on or after the commencement of the amendments.
 
-(2)       However, the amendments do not apply to any by-election that is held before the first general election to which the amendments apply.
+(2)        However, the amendments do not apply to any by-election that is held before the first general election to which the amendments apply.
 
 ## Schedule 2
 
@@ -26760,7 +26754,7 @@ The amendments made by this Schedule apply in relation to claims and application
 
 ## 12  Saving provision for approved forms
 
-(1)       In this item:
+(1)        In this item:
 
 **_enrolment claim subsection_** means any of the following provisions of the _Commonwealth Electoral Act 1918_:
 
@@ -26774,15 +26768,15 @@ The amendments made by this Schedule apply in relation to claims and application
 
                      (e)  subsection 99A(4).
 
-(2)       A form that, immediately before the commencement of this Schedule, was an approved form for the purpose of an enrolment claim subsection as in force immediately before that commencement continues to be an approved form for the purpose of that subsection as in force after that commencement, until another form becomes an approved form for the purpose of that subsection.
+(2)        A form that, immediately before the commencement of this Schedule, was an approved form for the purpose of an enrolment claim subsection as in force immediately before that commencement continues to be an approved form for the purpose of that subsection as in force after that commencement, until another form becomes an approved form for the purpose of that subsection.
 
 ## Schedule 3
 
 ## 9  Application of amendments
 
-(1)       The amendments made by items 2, 3, 5, 6, 7 and 8 apply in relation to claims made on or after the commencement of this Schedule.
+(1)        The amendments made by items 2, 3, 5, 6, 7 and 8 apply in relation to claims made on or after the commencement of this Schedule.
 
-(2)       The amendment made by item 4 applies in relation to lists required to be forwarded after the commencement of this Schedule.
+(2)        The amendment made by item 4 applies in relation to lists required to be forwarded after the commencement of this Schedule.
 
 ## Schedule 5
 
@@ -26792,7 +26786,7 @@ The amendments made by this Schedule apply in relation to elections and referend
 
 ## 108  Transitional
 
-(1)       Despite the amendment made by item 1, the definition of **_officer_** in subsection 4(1) of the _Commonwealth Electoral Act 1918_, as in force immediately before the commencement of that item, continues to apply on and after that commencement for the purposes of section 323 of that Act.
+(1)        Despite the amendment made by item 1, the definition of **_officer_** in subsection 4(1) of the _Commonwealth Electoral Act 1918_, as in force immediately before the commencement of that item, continues to apply on and after that commencement for the purposes of section 323 of that Act.
 
 ## Schedule 7
 
