@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00789/Html/78a2518a-9016-4047-8252-226ff045eaf3_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00790/Html/77b0ec48-60f5-4fde-9710-6be6e5c3ebb5_files/image001.gif)
 
 # Commonwealth Banks Restructuring Act 1990
 
 **Act No. 118 of 1990 as amended**
 
-This compilation was prepared on 6 November 2012
- taking into account amendments up to Act No. 136 of 2012
+This compilation was prepared on 27 September 2011
+ taking into account amendments up to Act No. 100 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -28,6 +29,14 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 [4](#4).            Extension to external Territories
 
 [5](#5).            Crown to be bound
+
+**Part 2—Amendments of the Commonwealth Banks Act 1959** 
+
+Sections 6–61
+
+**Part 3—Consequential amendment of other Acts**
+
+[62](#62).          Amendment of other Acts
 
 **Part 4—Transfer of staff of the Commonwealth Banking Corporation to the Commonwealth Bank**
 
@@ -64,6 +73,8 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 [77](#77).          Exemption from taxes and charges
 
 [78](#78).          Franking debit to arise for Commonwealth Bank and Development Bank
+
+**Schedule—Amendment of Acts** 
 
 **Notes** 
 
@@ -102,6 +113,28 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 ##### <a id="5"></a>5  Crown to be bound
 
                    This Act binds the Crown in right of the Commonwealth, of each of the States, of the Australian Capital Territory, of the Northern Territory and of Norfolk Island.
+
+## Part 2—Amendments of the Commonwealth Banks Act 1959
+
+##### Sections <a id="6–61"></a>6–61
+
+* * *
+
+**Note:**
+
+The amendments made by this Part are incorporated in the compilation on ComLaw.
+
+_Commonwealth Banks Act 1959_
+
+For access to the wording of the amendments made by this Part _see_ Act No. 118, 1990.
+
+* * *
+
+## Part 3—Consequential amendment of other Acts
+
+##### <a id="62"></a>62  Amendment of other Acts
+
+                   The Acts specified in the Schedule are amended as set out in the Schedule.
 
 ## Part 4—Transfer of staff of the Commonwealth Banking Corporation to the Commonwealth Bank
 
@@ -321,11 +354,44 @@ but does not include income tax imposed as such by a law of the Commonwealth.
 
                      (b)  for the Development Bank—the day on which the Commonwealth Bank becomes a shareholder of the Development Bank.
 
+# Schedule—Amendment of Acts
+
+_Section 62_
+
+* * *
+
+**Note:**
+
+The amendments made by this Schedule are incorporated in the compilations on ComLaw.
+
+Administrative Decisions (Judicial Review) Act 1977
+
+Banking Act 1959
+
+Banks (Shareholdings) Act 1972
+ \[repealed by Act No. 54, 1998, Sch. 3]
+
+Freedom of Information Act 1982
+
+National Crime Authority Act 1984
+ \[now cited as Australian Crime Commission Act 2002]
+
+Papua New Guinea (Transfer of Banking Business) Act 1973
+
+Reserve Bank Act 1959
+
+Sales Tax Assessment Act (No. 1) 1930
+ \[repealed by Act No. 101, 2006, Sch. 5 (item 1)]
+
+For access to the wording of the amendments made by this Schedule _see_ Act No. 118, 1990.
+
+* * *
+
 # Notes to the _Commonwealth Banks Restructuring Act 1990_
 
 ### Note 1
 
-The _Commonwealth Banks Restructuring Act 1990_ as shown in this compilation comprises Act No. 118, 1990 amended as indicated in the Tables below.
+The _Commonwealth Banks Restructuring Act 1990_ as shown in this consolidation comprises Act No. 118, 1990 amended as indicated in the Tables below.
 
 ### Table of Acts
 
@@ -371,8 +437,8 @@ of Assent</div>
   </td>
   <td>
     <div>Ss. 1–6: Royal Assent 
-Ss. 63–78: ( <i>see</i>s. 2(3) and <i>Gazette</i>1990, No. S346) 
-Remainder: ( <i>see</i>s. 2(2), (3) and <i>Gazettes</i>1990, No. S346, 1991, No. S72, 1991, No. S114, 1992, No. GN45)</div>
+Ss. 63–78: ( <i>see</i>s. 2(3) and <i>Gazette</i>1990, No. S346) 
+Remainder: ( <i>see</i>s. 2(2), (3) and <i>Gazettes</i>1990, No. S346, 1991, No. S72, 1991, No. S114, 1992, No. GN45)</div>
   </td>
   <td>
     <div></div>
@@ -389,7 +455,7 @@ Remainder: ( <i>see</i>s. 2(2), (3) and <i>Gazettes</i>1990, No. S346, 1991,
     <div>22 Sept 1999</div>
   </td>
   <td>
-    <div>Schedule 2 (item 9): 22 Sept 1999</div>
+    <div>22 Sept 1999</div>
   </td>
   <td>
     <div>—</div>
@@ -406,24 +472,7 @@ Remainder: ( <i>see</i>s. 2(2), (3) and <i>Gazettes</i>1990, No. S346, 1991,
     <div>15 Sept 2011</div>
   </td>
   <td>
-    <div>Schedule 1 (item 5): 16 Sept 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2012</div>
-  </td>
-  <td>
-    <div>136, 2012</div>
-  </td>
-  <td>
-    <div>22 Sept 2012</div>
-  </td>
-  <td>
-    <div>Schedule 6 (items 23, 24): Royal Assent</div>
+    <div>Schedule 1 (item 5): 16 Sept 2011</div>
   </td>
   <td>
     <div>—</div>
@@ -455,479 +504,7 @@ Remainder: ( <i>see</i>s. 2(2), (3) and <i>Gazettes</i>1990, No. S346, 1991,
 </thead>
 <tr>
   <td>
-    <div>Part 2</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 11</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 12</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 14</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 16</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 17</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 20</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 21</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 23</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 24</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 25</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 26</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 27</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 28</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 29</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 30</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 31</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 32</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 33</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 34</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 35</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 35A</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 36</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 37</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 39</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 40</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 41</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 42</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 43</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 44</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 46</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 47</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 48</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 49</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 50</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 51</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 52</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 53</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 54</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 55</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 56</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 57</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 58</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 59</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 60</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 3</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 62</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 5</b></div>
+    <div><b>Part 5</b></div>
   </td>
   <td>
     <div></div>
@@ -943,7 +520,7 @@ Remainder: ( <i>see</i>s. 2(2), (3) and <i>Gazettes</i>1990, No. S346, 1991,
 </tr>
 <tr>
   <td>
-    <div><b>Part 6</b></div>
+    <div><b>Part 6</b></div>
   </td>
   <td>
     <div></div>
@@ -955,14 +532,6 @@ Remainder: ( <i>see</i>s. 2(2), (3) and <i>Gazettes</i>1990, No. S346, 1991,
   </td>
   <td>
     <div>am. No. 118, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
   </td>
 </tr></table>
 
