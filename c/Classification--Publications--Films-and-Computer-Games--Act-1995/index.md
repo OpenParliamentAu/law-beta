@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2013C00001/Html/0afe5e26-c738-41dd-892f-03a0a2b0a577_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00921/Html/313efd91-d421-4fcd-a7ed-34b8c79de5da_files/image001.gif)
 
 # Classification (Publications, Films and Computer Games) Act 1995
 
 **Act No. 7 of 1995 as amended**
 
-This compilation was prepared on 1 January 2013
+This compilation was prepared on 19 December 2012
  taking into account amendments up to Act No. 180 of 2012
 
 [**Note**: Part 10 ceases to have effect on 16 July 2022, _see_ section 116]
@@ -975,8 +975,6 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                     **MA** **15+** Mature Accompanied
 
-                    **R 18+** Restricted
-
                     **RC**Refused Classification.
 
              (4)  In subsections (1) to (3), text that is not in bold is included by way of explanation and does not form part of the classification.
@@ -1397,7 +1395,7 @@ Note:          For an applicant that is the Commonwealth, or a
 
                      (a)  classifies a film PG, M, MA 15+, R 18+ or X 18+; or
 
-                     (b)  classifies a computer game PG, M, MA 15+ or R 18+;
+                     (b)  classifies a computer game PG, M or MA 15+;
 
 it must determine consumer advice giving information about the content of the film or game.
 
@@ -2109,7 +2107,7 @@ the Board must not reclassify the publication, film or computer game, or approve
 
                      (b)  to classify a film MA 15+, R 18+, X 18+ or RC; or
 
-                     (c)  to classify a computer game MA 15+, R 18+ or RC.
+                     (c)  to classify a computer game MA 15+ or RC.
 
 ##### <a id="42A"></a>42A  Review Board may refuse to deal with certain applications
 
@@ -3075,7 +3073,7 @@ then this Part continues to apply in relation to that area, after the revocation
 
 Note:          For the liability of a body corporate manager, or a State/Territory body corporate manager, see section 104.
 
-##### <a id="102"></a>102  Possession or control of level 2 prohibited material in prohibited material areas
+##### <a id="102"></a>102  Possession or control of level 2 prohibited material in prohibited material areas
 
                    A person commits an offence if:
 
@@ -3810,7 +3808,7 @@ Schedule 5 (item 137(a)): <i>(d)</i></div>
     <div>6 July 2012</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1–4): 1 Jan 2013</div>
+    <div>Schedule 1 (items 1–4): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 1 (item 4)</div>
@@ -3828,7 +3826,7 @@ Schedule 5 (item 137(a)): <i>(d)</i></div>
   </td>
   <td>
     <div>Schedule 2 (items 158, 159): 3 Dec 2012 ( <i>see</i>s. 2(1)) 
-Schedule 4 (item 13): \[ <i>see (f)</i>and Note 2]</div>
+Schedule 4 (item 13): \[ <i>see (f)</i>and Note 3]</div>
   </td>
   <td>
     <div>—</div>
@@ -4091,7 +4089,7 @@ _(f)_      Subsection 2(1) (item 14) of the _Australian Charities and 
   <td>
     <div>
       \[
-        <i>see</i>Note 2]
+        <i>see</i>Note 3]
     </div>
     <div>
       (paragraph (b) applies)
@@ -4103,8 +4101,8 @@ _(f)_      Subsection 2(1) (item 14) of the _Australian Charities and 
 
 <table>
 <colgroup>
-  <col width="32%">
-  <col width="68%">
+  <col width="34%">
+  <col width="66%">
 </colgroup>
 
 <thead>
@@ -4199,7 +4197,7 @@ _(f)_      Subsection 2(1) (item 14) of the _Australian Charities and 
     <div>S. 7</div>
   </td>
   <td>
-    <div>am. No. 61, 2004; No. 103, 2012</div>
+    <div>am. No. 61, 2004</div>
   </td>
 </tr>
 <tr>
@@ -4407,7 +4405,7 @@ _(f)_      Subsection 2(1) (item 14) of the _Australian Charities and 
     <div>S. 20</div>
   </td>
   <td>
-    <div>am. No. 13, 2001; No. 61, 2004; No. 103, 2012</div>
+    <div>am. No. 13, 2001; No. 61, 2004</div>
   </td>
 </tr>
 <tr>
@@ -4983,7 +4981,7 @@ _(f)_      Subsection 2(1) (item 14) of the _Australian Charities and 
     <div>S. 42</div>
   </td>
   <td>
-    <div>am. No. 13, 2001; No. 61, 2004; No. 69, 2008; No. 103, 2012</div>
+    <div>am. No. 13, 2001; No. 61, 2004; No. 69, 2008</div>
   </td>
 </tr>
 <tr>
@@ -5941,6 +5939,34 @@ _(f)_      Subsection 2(1) (item 14) of the _Australian Charities and 
 
 ### Note 2
 
+_Classification (Publications, Films and Computer Games) Amendment (R 18+ Computer Games) Act 2012 (No. 103, 2012)_
+
+The following amendments commence on 1 January 2013:
+
+## Schedule 1
+
+## 1  Subsection 7(3)
+
+After:
+
+                    **MA 15+** Mature Accompanied
+
+insert:
+
+                    **R 18+** Restricted
+
+## 2  Paragraph 20(1)(b)
+
+Omit “or MA 15+”, substitute “, MA 15+ or R 18+”.
+
+## 3  Subsection 42(5) (paragraph (c) of the definition of _restricted decision_)
+
+After “MA 15+”, insert “, R 18+”.
+
+As at 19 December 2012 the amendments are not incorporated in this compilation.
+
+### Note 3
+
 _Australian Charities and Not‑for‑profits Commission (Consequential and Transitional) Act 2012 (No. 169, 2012)_
 
 The following amendment commences immediately after the commencement of Schedule 1 to the _Tax Laws Amendment (Special Conditions for Not-for-profit Concessions) Act 2012_(still a Bill). However, the amendment may not commence, _see_ subsection 2(1) (item 14):
@@ -5951,7 +5977,7 @@ The following amendment commences immediately after the commencement of Schedule
 
 After “not‑for‑profit entity”, insert “(within the meaning of the _Income Tax Assessment Act 1997_)”.
 
-As at 1 January 2013 the amendment is not incorporated in this compilation.
+As at 19 December 2012 the amendment is not incorporated in this compilation.
 
 ## Table A
 
@@ -6436,6 +6462,8 @@ The amendments made by this Schedule apply in relation to acts or omissions occu
 * * *
 
 _Classification (Publications, Films and Computer Games) Amendment (R 18+ Computer Games) Act 2012 (No. 103, 2012)_
+
+The following provision commences on 1 January 2013:
 
 ## Schedule 1
 
