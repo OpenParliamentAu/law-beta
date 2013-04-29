@@ -1,7 +1,7 @@
 
 Therapeutic Goods (Charges) Act 1989
 Act No. 22 of 1990 as amended
-This compilation was prepared on 18 April 2002  taking into account amendments up to Act No. 25 of 2002
+This compilation was prepared on 20 February 2001  taking into account amendments up to Act No. 62 of 1993
 The text of any of those amendments not in force on that date is appended in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
   
@@ -70,24 +70,6 @@ Therapeutic Goods (Charges) Amendment Act 1993
 3 Nov 1993
 3 Nov 1993
 —
-Therapeutic Goods (Charges) Amendment Act 2002
-25, 2002
-4 Apr 2002
-Schedule 1: [see (a) and Note 2] Remainder: Royal Assent
-—
-(a)	The Therapeutic Goods (Charges) Act 1989 was amended by the Therapeutic Goods (Charges) Amendment Act 2002, subsections 2(1) (provision 2) of which provides as follows:
-	(1)	Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
-
-Commencement information
-Column 1
-Column 2
-Column 3
-Provision(s)
-Commencement
-Date/Details
-2.  Schedule 1
-At the same time as Schedule 1 to the Therapeutic Goods Amendment (Medical Devices) Act 2002 commences [see Note 2]
-
 Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
@@ -96,33 +78,4 @@ S. 4
 am. No. 85, 1991; No. 62, 1993 
 
 
-Note 2
-Therapeutic Goods (Charges) Amendment Act 2002 (No. 25, 2002)
-The following amendments commence on 4 October 2002 unless proclaimed earlier:
-Schedule 1
-1  Title
-Omit “registration and listing”, substitute “registration, listing and inclusion in the Register”.
-2  At the end of section 3
-Add:
-	(2)	However, for the purposes of this Act, if a suspension of a kind of medical device, or any medical devices of a particular kind, has effect under Chapter 4 of the Therapeutic Goods Act 1989, that kind of medical device is taken to be included in the Register under that Chapter.
-3  After subsection 4(1A)
-Insert:
-	(1B)	Annual charges of such amounts as are prescribed are payable in respect of the inclusion of kinds of medical devices in the Register under Chapter 4 of the Therapeutic Goods Act that has effect at any time during a financial year.
-4  Subsections 4(3) and (4)
-Omit “Part 3”, substitute “Part 3‑2”.
-5  After subsection 4(4)
-Insert:
-	(4A)	If:
-	(a)	medical devices are included in the Register under subsection 6A(3) of the Therapeutic Goods Act; and
-	(b)	the devices are so included for the purposes of a provision of a corresponding State law that provides for the inclusion of devices in the Register;
-this section has effect as if the devices had been included in the Register under Chapter 4 of the Therapeutic Goods Act.
-6  Subsection 4(5)
-Omit “Part 4” (wherever occurring), substitute “Part 3‑3”.
-7  Paragraph 5(2)(a)
-After “of goods”, insert “(including medical devices)”.
-8  Subsection 5(3)
-After “therapeutic goods”, insert “, or the inclusion of kinds of medical devices in the Register under Chapter 4 of the Therapeutic Goods Act 1989,”.
-9  Subsection 5(3)
-After “those goods”, insert “or devices”.
-As at 18 April 2002 the amendments are not incorporated in this compilation.
 
