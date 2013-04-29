@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00818/Html/1280b9b1-03d9-4c86-b17d-41c346a42349_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00356/Html/468041a5-d7aa-4071-9795-734b11f41132_files/image001.gif)
 
 # Superannuation (Resolution of Complaints) Act 1993
 
 **Act No. 80 of 1993 as amended**
 
-This compilation was prepared on 4 October 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 9 May 2011
+ taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -2749,9 +2749,9 @@ All relevant information pertaining to application, saving or transitional provi
 <table>
 <colgroup>
   <col width="32%">
-  <col width="14%">
+  <col width="16%">
   <col width="18%">
-  <col width="23%">
+  <col width="21%">
   <col width="14%">
 </colgroup>
 
@@ -2806,7 +2806,7 @@ of Assent</div>
   <td>
     <div>Div. 1 (s. 49) and Div. 2 (ss. 50, 51) of Part 3 (ss. 
 49–51): <i>(a)</i> 
-Div. 5 (ss. 12, 13), Div. 12 (ss. 28–31) and Div. 15 (ss. 36–39) of Part 2: 1 Dec 1993 
+Div. 5 (ss. 12, 13), Div. 12 (ss. 28–31) and Div. 15 (ss. 36–39) of Part 2: 1 Dec 1993 
 Div. 7 (ss. 17, 18), Div. 8 (ss. 19, 20), Div. 11 (ss. 26, 27) and Div. 17 (ss. 42, 43) of Part 2: 26 Dec 1994 
 Remainder: Royal Assent</div>
   </td>
@@ -2825,7 +2825,8 @@ Remainder: Royal Assent</div>
     <div>12 Dec 1995</div>
   </td>
   <td>
-    <div>Schedule 5 (items 1–7, 10–12, 25–71, 
+    <div>Schedule 5 (items 1–7, 
+10–12, 25–71, 
 73–78, 95(a)–(c), 96(a), (b), 97–102): Royal Assent <i>(b)</i> 
 Schedule 5 (items 8, 9, 
 13–24, 72, 79–94, 95(d), 96(c)): 19 Apr 1996 ( <i>see Gazette</i>1996, No. GN15) <i>(b)</i></div>
@@ -2879,7 +2880,7 @@ Schedule 5 (items 8, 9,
     <div>28 May 1997</div>
   </td>
   <td>
-    <div>2 June 1997 ( <i>see</i>s. 2 and <i>Gazette</i>1997, No. S202)</div>
+    <div>2 June 1997 ( <i>see</i>s. 2 and <i>Gazette</i>1997, No. S202)</div>
   </td>
   <td>
     <div>—</div>
@@ -3264,23 +3265,6 @@ Remainder: 1 Jan 2003 ( <i>see</i>s. 2(1) and <i>Gazette</i>2002, No. GN44)</div
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 1096–1098) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
   </td>
 </tr></table>
 
@@ -4451,30 +4435,6 @@ _(j)_      Subsection 2(1) (items 25 and 26)  of the _Statute Law 
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 1096  Subsection 4B(4) (definition of _modifications_)
-
-Repeal the definition.
-
-## 1097  At the end of subsections 54(1), (1A), (2) and (2A)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 1098  Subsection 54(3)
-
-Repeal the subsection.
-
-As at 4 October 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -4525,8 +4485,7 @@ as if the amendments of that Act made by this Schedule had not happened.
 
 * * *
 
-_Family Law Legislation Amendment (Superannuation) Act 2001 
- (No. 61, 2001)_
+_Family Law Legislation Amendment (Superannuation) Act 2001 (No. 61, 2001)_
 
 ##### <a id="4"></a>4  Definitions
 
@@ -4587,21 +4546,5 @@ _Tax Laws Amendment (Simplified Superannuation) Act 2007 (No. 9, 2007)_
             The amendments made by this Schedule apply in relation to things that are done and events that occur on or after 1 July 2007.
 
 _Note:       For transitional rules about provisions related to the application of Division 292 of the Income Tax Assessment Act 1997 in the period from 10 May 2006 to 30 June 2007, see section 292‑80 of the Income Tax (Transitional Provisions) Act 1997._
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
