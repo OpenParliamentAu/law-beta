@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00852/Html/TaxAgentServices2009_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00118/Html/TaxAgentServices2009_image001.gif)
 
 # Tax Agent Services Act 2009
 
 **Act No. 13 of 2009 as amended**
 
-This compilation was prepared on 21 December 2010
- taking into account amendments up to Act No. 145 of 2010
+This compilation was prepared on 1 March 2010
+ taking into account amendments up to Act No. 114 of 2009
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -268,11 +268,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
         **Subdivision 70-E—Miscellaneous**
 
-[70-35](#70-35).     Official information not to be disclosed
+[70-35](#70-35).     Secrecy
 
-[70-40](#70-40).     Exceptions to the prohibition on disclosure of official information
+[70-40](#70-40).     Provision of information by Board to Commissioner
 
-[70-45](#70-45).     On-disclosure of official information
+[70-45](#70-45).     Application of certain secrecy provisions of the _Taxation Administration Act 1953_
 
 [70-50](#70-50).     Legal professional privilege
 
@@ -1759,7 +1759,7 @@ Note:          Section 33B of the _Acts Interpretation Act 1
 
 ##### <a id="60-80"></a>60-80  Administrative support for the Board
 
-                   The Board is to be assisted by APS employees whose services are made available to the Board by the Commissioner.
+                   The Board is to be assisted by APS employees whose services are made available to the Board by the Commissioner.
 
 #### Subdivision 60-D—Committees etc.
 
@@ -2005,11 +2005,9 @@ the Board must, within 30 days of making the decision or finding:
 
 Note:          See also section 34C of the _Acts Interpretation Act 1901_, which contains extra rules about annual reports.
 
-             (2)  The * Chair must also set out in the report, in relation to each general category of offence and in relation to each * law enforcement agency:
+             (2)  The * Chair must also set out in the report the things mentioned in paragraphs 3B(1AA)(b) and (c) of the _Taxation Administration Act 1953_, to the extent that the Board discloses information under section 3E of that Act during the year.
 
-                     (a)  the number of occasions (if any) during the year on which the Board was requested by, or on behalf of, the head of the agency to disclose information under subsection 70-40(4) to * authorised law enforcement agency officers; and
-
-                     (b)  the number of occasions (if any) during the year on which information was disclosed under that subsection to authorised law enforcement agency officers.
+Note:          Section 3E of the _Taxation Administration Act 1953_ applies in relation to the Board: see section 70-45.
 
 ##### <a id="60-135"></a>60-135  Register
 
@@ -2123,7 +2121,7 @@ This Division sets out some miscellaneous provisions, including a provision allo
 
 70-20        Continuity of partnerships
 
-##### <a id="70-15"></a>70-15  How this Act applies to an individual or company in the capacity of a trustee
+##### <a id="70-15"></a>70-15  How this Act applies to an individual or company in the capacity of a trustee
 
                    This Act applies to:
 
@@ -2157,7 +2155,7 @@ in relation to anything done, or omitted to be done, in good faith by the Board 
 
                      (d)  in the exercise, or purported exercise, of the Board’s powers.
 
-##### <a id="70-30"></a>70-30  Delegation by Board
+##### <a id="70-30"></a>70-30  Delegation by Board
 
              (1)  Subject to subsection (2), the Board may, by writing, delegate all or any of its functions and powers to a * Board member or a * committee, other than:
 
@@ -2183,19 +2181,17 @@ in relation to anything done, or omitted to be done, in good faith by the Board 
 
 **Table of sections**
 
-70-35        Official information not to be disclosed
+70-35        Secrecy
 
-70-40        Exceptions to the prohibition on disclosure of official information
+70-40        Provision of information by Board to Commissioner
 
-70-45        On-disclosure of official information
+70-45        Application of certain secrecy provisions of the Taxation Administration Act 1953
 
 70-50        Legal professional privilege
 
 70-55        Regulations
 
-##### <a id="70-35"></a>70-35  Official information not to be disclosed
-
-Offence—recording or disclosing official information
+##### <a id="70-35"></a>70-35  Secrecy
 
              (1)  A person commits an offence if:
 
@@ -2207,125 +2203,41 @@ Offence—recording or disclosing official information
 
                             (iii)  is or has been a person appointed or employed by, or a provider of services for, the Commonwealth; and
 
-                     (b)  the person:
+                     (b)  the person acquires or acquired information relating to a person in the course of, or because of, his or her duties under or in relation to this Act or the regulations; and
 
-                              (i)  makes a record of information; or
+                     (c)  the person:
 
-                             (ii)  discloses information to another person (other than the person to whom the information relates or that person’s * agent in relation to the information) or to a court or tribunal; and
+                              (i)  discloses the information to another person (including a Minister); or
 
-                     (c)  the information is * official information; and
-
-                     (d)  the information was acquired by the first-mentioned person in the course of, or because of, his or her duties under or in relation to this Act or the regulations.
+                             (ii)  makes a record of the information.
 
                     Penalty:  Imprisonment for 2 years.
 
-Consent is not a defence
+             (2)  However, subsection (1) does not apply if the information is disclosed or a record of the information is made:
 
-             (2)  It is not a defence to a prosecution for an offence against subsection (1) that the entity to whom the information relates has consented to:
+                     (a)  under or for the purposes of this Act or the regulations; or
 
-                     (a)  the making of the record; or
-
-                     (b)  the disclosure of the information.
-
-Limits on disclosure to courts and tribunals
-
-             (3)  A person mentioned in paragraph (1)(a) is not required to disclose to a court or tribunal * official information that was acquired by the person in the course of, or because of, his or her duties under or in relation to this Act or the regulations except if it is necessary to do so for the purpose of carrying into effect the provisions of this Act or the regulations.
-
-##### <a id="70-40"></a>70-40  Exceptions to the prohibition on disclosure of official information
-
-Disclosure in the performance of duties
-
-             (1)  Subsection 70-35(1) does not apply if the record or disclosure is made in performing the person’s duties under or in relation to this Act or the regulations.
-
-Note:          A defendant bears an evidential burden in relation to the matters in subsection (1): see subsection 13.3(3) of the _Criminal Code_.
-
-Disclosure of publicly available information
-
-             (2)  Subsection 70-35(1) does not apply if the information was already available to the public (otherwise than as a result of a contravention of subsection 70-35(1) or 70-45(1)).
+                     (b)  in the course of, or because of, the person’s duties under or in relation to this Act or the regulations.
 
 Note:          A defendant bears an evidential burden in relation to the matters in subsection (2): see subsection 13.3(3) of the _Criminal Code_.
 
-Disclosures to the Commissioner of Taxation
+             (3)  A person mentioned in paragraph (1)(a) is not required to disclose information of a kind mentioned in paragraph (1)(b) to a court or tribunal except if it is necessary to do so for the purpose of carrying into effect the provisions of this Act or the regulations.
 
-             (3)  Subsection 70-35(1) does not apply if the record or disclosure:
+##### <a id="70-40"></a>70-40  Provision of information by Board to Commissioner
 
-                     (a)  is to the Commissioner; and
+             (1)  Despite section 70-35, the Board may disclose information to the Commissioner for the purposes of:
 
-                     (b)  is for the purpose of:
+                     (a)  establishing whether a * taxation offence has been, or is being, committed; or
 
-                              (i)  investigating a * taxation offence; or
+                    (aa)  establishing whether a civil penalty provision of a * taxation law has been, or is being, contravened; or
 
-                             (ii)  enforcing a law, the contravention of which is a taxation offence; or
+                     (b)  the making, or proposed or possible making, of a * proceeds of crime order.
 
-                            (iii)  investigating the contravention of, or enforcing a provision of, a * taxation law that imposes a civil penalty; or
+             (2)  A reference in this section to the possible making of a * proceeds of crime order in respect of a person includes a reference to the making of an order that is only a possibility at the time in question because the person has not been convicted (within the meaning of section 331 of the _Proceeds of Crime Act 2002_) of an offence to which the order relates.
 
-                            (iv)  the making, or proposed or possible making, of a * proceeds of crime order relating to a taxation offence.
+##### <a id="70-45"></a>70-45  Application of certain secrecy provisions of the _Taxation Administration Act 1953_
 
-Note:          A defendant bears an evidential burden in relation to the matters in subsection (3): see subsection 13.3(3) of the _Criminal Code_.
-
-Disclosure in relation to serious offences and proceeds of crime orders
-
-             (4)  Subsection 70-35(1) does not apply if:
-
-                     (a)  the record is made for, or the disclosure is to, an * authorised law enforcement agency officer; and
-
-                     (b)  the record or disclosure is for the purpose of:
-
-                              (i)  investigating a * serious offence; or
-
-                             (ii)  enforcing a law, the contravention of which is a serious offence; or
-
-                            (iii)  the making, or proposed or possible making, of a * proceeds of crime order.
-
-Note:          A defendant bears an evidential burden in relation to the matters in subsection (4): see subsection 13.3(3) of the _Criminal Code_.
-
-##### <a id="70-45"></a>70-45  On-disclosure of official information
-
-Offence—on-disclosure of information
-
-             (1)  A person commits an offence if:
-
-                     (a)  the person:
-
-                              (i)  makes a record of information; or
-
-                             (ii)  discloses information to another person (other than a person to whom the information relates or the person’s * agent in relation to the information) or to a court or tribunal; and
-
-                     (b)  the information was acquired by the first-mentioned person under an exception in section 70-40 or in this section; and
-
-                     (c)  the first-mentioned person did not acquire the information in the course of, or because of, his or her duties under or in relation to this Act or the regulations.
-
-                    Penalty:  Imprisonment for 2 years.
-
-Consent is not a defence
-
-             (2)  It is not a defence to a prosecution for an offence against subsection (1) that the entity to whom the information relates has consented to:
-
-                     (a)  the making of the record; or
-
-                     (b)  the disclosure of the information.
-
-Exceptions
-
-             (3)  Subsection (1) does not apply if the information was already available to the public (otherwise than as a result of a contravention of subsection (1) or 70-35(1)).
-
-Note:          A defendant bears an evidential burden in relation to the matters in subsection (3): see subsection 13.3(3) of the _Criminal Code_.
-
-             (4)  Subsection (1) does not apply if:
-
-                     (a)  the information was originally disclosed under an exception in section 70-40 for a purpose specified in that exception (the **_original purpose_**); and
-
-                     (b)  the information was acquired by the person under this section or an exception in section 70-40; and
-
-                     (c)  the record or disclosure is made by the person for the original purpose, or in connection with the original purpose.
-
-Note:          A defendant bears an evidential burden in relation to the matters in subsection (4): see subsection 13.3(3) of the _Criminal Code_.
-
-             (5)  Without limiting subsection (4), a record or disclosure is made by the person in connection with the original purpose if the record or disclosure is for purposes of criminal, civil or administrative proceedings (including merits review or judicial review) that are related to the original purpose.
-
-Limit on on-disclosure to courts or tribunals
-
-             (6)  A person is not to be required to disclose to a court or tribunal information that was acquired by the person under this section, except if it is necessary to do so for the purpose of carrying into effect the provisions of this Act or the regulations.
+                   Sections 3D and 3E of the _Taxation Administration Act 1953_ apply as if the references in those sections to the Commissioner were references to the Board.
 
 ##### <a id="70-50"></a>70-50  Legal professional privilege
 
@@ -2409,15 +2321,17 @@ Limit on on-disclosure to courts or tribunals
 
                     <a name="guid"></a>**_Guide_** has the meaning given by section 80-5.
 
-                    <a name="offici-inform"></a>**_official information_** means information that:
-
-                     (a)  was disclosed or obtained under or for the purposes of this Act; and
-
-                     (b)  relates to the affairs of a person; and
-
-                     (c)  identifies, or is reasonably capable of being used to identify, the person.
-
                     <a name="penalti-unit"></a>**_penalty unit_** has the meaning given by section 4AA of the _Crimes Act 1914_.
+
+                    <a name="proce-crime-order"></a>**_proceeds of crime order_** means an order, relating to a person’s commission of a * taxation offence, under:
+
+                     (a)  Chapter 2 or Division 1 of Part 3-1 of the _Proceeds of Crime Act 2002_; or
+
+                     (b)  Part II or III of the _Proceeds of Crime Act 1987_; or
+
+                     (c)  a law of a State or Territory corresponding to paragraph (a) or (b); or
+
+                     (d)  Division 3 of Part XIII of the _Customs Act 1901_.
 
                     <a name="regist-ba-agent"></a>**_registered BAS agent_** means an entity that is registered under this Act as a registered BAS agent.
 
@@ -2495,9 +2409,7 @@ Note:          For specification by class, see subsection 13(3
 
 The _Tax Agent Services Act 2009_ as shown in this compilation comprises Act No. 13, 2009 amended as indicated in the Tables below.
 
-For application, saving or transitional provisions made by the _Tax Agent Services (Transitional Provisions and Consequential Amendments) Act 2009_, _see_ Act No. 114, 2009.
-
-For all other relevant information pertaining to application, saving or transitional provisions _see_ Table A.
+For application, saving or transitional provisions made by Schedule 2 of the _Tax Agent Services (Transitional Provisions and Consequential Amendments) Act 2009_, _see_ Act No. 114, 2009.
 
 ### Table of Acts
 
@@ -2564,23 +2476,6 @@ Schedule 2: <i>(a)</i></div>
     </td>
     <td>
       <div>Sch. 2 \[ <i>see</i>Note 1]</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Tax Laws Amendment (Confidentiality of Taxpayer Information) Act 2010</div>
-    </td>
-    <td>
-      <div>145, 2010</div>
-    </td>
-    <td>
-      <div>16 Dec 2010</div>
-    </td>
-    <td>
-      <div>Schedule 2 (items 92–95, 123(1)): 17 Dec 2010</div>
-    </td>
-    <td>
-      <div>Sch. 2 (item 123(1))</div>
     </td>
   </tr>
 </thead></table>
@@ -2762,38 +2657,6 @@ _(a)_ Subsection 2(1) (item 4) of the _Tax Agent Services (Transitional Provis
 </tr>
 <tr>
   <td>
-    <div><b>Part 6</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 60</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision 60-F</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 60-130</div>
-  </td>
-  <td>
-    <div>am. No. 145, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part 7</b></div>
   </td>
   <td>
@@ -2818,72 +2681,13 @@ _(a)_ Subsection 2(1) (item 4) of the _Tax Agent Services (Transitional Provis
 </tr>
 <tr>
   <td>
-    <div>S. 70-35</div>
-  </td>
-  <td>
-    <div>rs. No. 145, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 70-40</div>
   </td>
   <td>
     <div>am. No. 114, 2009</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 145, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 70-45</div>
-  </td>
-  <td>
-    <div>rs. No. 145, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 8</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 90</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 90-1</div>
-  </td>
-  <td>
-    <div>am. No. 145, 2010</div>
-  </td>
 </tr></table>
 
-## Table A
-
-### Application, saving or transitional provisions
-
-_Tax Laws Amendment (Confidentiality of Taxpayer Information) Act 2010
- (No. 145, 2010)_
-
-## Schedule 2
-
-## 123  Application of amendments
-
-(1)        The amendments made by items 3, 4 and 93 of this Schedule apply to records and disclosures made on or after the commencement of those items (whenever the information was obtained).
+ 
 
  
