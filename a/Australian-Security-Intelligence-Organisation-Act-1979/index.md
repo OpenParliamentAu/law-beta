@@ -1,13 +1,13 @@
-![](http://www.comlaw.gov.au/Details/C2010C00369/Html/ASIO1979_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00517/Html/ASIO1979_WD02_image001.gif)
 
 # Australian Security Intelligence Organisation Act 1979
 
 **Act No. 113 of 1979 as amended**
 
-This compilation was prepared on 7 June 2010
- taking into account amendments up to Act No. 50 of 2010
+This compilation was prepared on 25 August 2007
+ taking into account amendments up to Act No. 21 of 2007
 
-**\[Note: Division 3 of Part III ceases to be in force on****22 July  2016****,  _see_ section 34ZZ]**
+**\[Note: Division 3 of Part III ceases to be in force on****22 July 2016****,  _see_ section 34ZZ]**
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -457,9 +457,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                             whether directed from, or committed within, Australia or not; and
 
-                    (aa)  the protection of Australia’s territorial and border integrity from serious threats; and
-
-                     (b)  the carrying out of Australia’s responsibilities to any foreign country in relation to a matter mentioned in any of the subparagraphs of paragraph (a) or the matter mentioned in paragraph (aa).
+                     (b)  the carrying out of Australia’s responsibilities to any foreign country in relation to a matter mentioned in any of the subparagraphs of paragraph (a).
 
                     <a name="seizabl-item"></a>**_seizable item_** means anything that could present a danger to a person or that could be used to assist a person to escape from lawful custody.
 
@@ -3303,7 +3301,7 @@ whether or not the matters contained in the assessment would, by themselves, jus
 
 ##### <a id="36"></a>36  Part not to apply to certain assessments
 
-                   This Part (other than subsections 37(1), (3) and (4)) does not apply to or in relation to:
+                   This Part (other than subsections 37(1), (3) and (4)) does not apply to or in relation to:
 
                      (a)  a security assessment in relation to the employment, by engagement outside Australia for duties outside Australia, of a person who is not an Australian citizen or is not normally resident in Australia; or
 
@@ -3677,7 +3675,7 @@ of Assent</div>
   <td>
     <div>Ss. 33, 36 and 37: <i>(b)</i> 
 Ss. 34 and 35: <i>(b)</i> 
-Remainder: 1 Feb 1987 ( <i>see Gazette</i>1987, No. S13)</div>
+Remainder: 1 Feb 1987 ( <i>see Gazette</i>1987, No. S13)</div>
   </td>
   <td>
     <div>—</div>
@@ -3746,7 +3744,7 @@ Remainder: 1 Feb 1987 ( <i>see Gazette</i>1987, No. S13)</div>
   </td>
   <td>
     <div>Ss. 1 and 2: Royal Assent 
-Ss. 5(1)(a), (2), 6 and 8: 16 Dec 1987 ( <i>see</i>s. 2(1A)) 
+Ss. 5(1)(a), (2), 6 and 8: 16 Dec 1987 ( <i>see</i>s. 2(1A)) 
 Remainder: 1 Sept 1988 ( <i>see Gazette</i>1988, No. S256)</div>
   </td>
   <td>
@@ -3905,7 +3903,7 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Ss. 1 and 2: Royal Assent 
-Part 5 (ss. 17, 18): 30 June 1989 ( <i>see</i>s. 2(3)) 
+Part 5 (ss. 17, 18): 30 June 1989 ( <i>see</i>s. 2(3)) 
 Remainder: 1 July 1989 ( <i>see Gazette</i>1989, No. S230)</div>
   </td>
   <td>
@@ -3975,8 +3973,8 @@ Remainder: 1 Jan 1990 ( <i>see Gazette</i>1989, No. S398)</div>
     <div>18 Dec 1989</div>
   </td>
   <td>
-    <div>S. 4: 19 Dec 1989 ( <i>see</i>s. 2(2)) 
-Remainder: 19 Dec 1989 ( <i>see</i>s. 2(1))</div>
+    <div>S. 4: 19 Dec 1989 ( <i>see</i>s. 2(2)) 
+Remainder: 19 Dec 1989 ( <i>see</i>s. 2(1))</div>
   </td>
   <td>
     <div>—</div>
@@ -4029,7 +4027,7 @@ Remainder: 19 Dec 1989 ( <i>see</i>s. 2(1))</div>
   <td>
     <div>Ss. 1, 2 and 
 40–49: Royal Assent 
-Ss. 3, 5, 6, 8, 9, 16, 17, 20–23, 28, 30, 32, 33, 38 and 39: 4 Feb 1991 ( <i>see Gazette</i>1991, No. GN3) 
+Ss. 3, 5, 6, 8, 9, 16, 17, 20–23, 28, 30, 32, 33, 38 and 39: 4 Feb 1991 ( <i>see Gazette</i>1991, No. GN3) 
 Remainder: 21 June 1991</div>
   </td>
   <td>
@@ -4047,7 +4045,7 @@ Remainder: 21 June 1991</div>
     <div>27 June 1991</div>
   </td>
   <td>
-    <div>Ss. 4(1), 10(b) and 15–20: 1 Dec 1988 
+    <div>Ss. 4(1), 10(b) and 15–20: 1 Dec 1988 
 Ss. 28(b)–(e), 30 and 31: 10 Dec 1991 ( <i>see Gazette</i>1991, No. S332) 
 Remainder: Royal Assent</div>
   </td>
@@ -4202,7 +4200,7 @@ Remainder: Royal Assent</div>
     <div>11 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 1 (items 252–258): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(l)</i></div>
+    <div>Schedule 1 (items 252–258): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(l)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -4271,7 +4269,7 @@ Schedule 3 (item 21): <i>(m)</i></div>
     <div>24 Nov 2000</div>
   </td>
   <td>
-    <div>Ss. 1–3 and Schedule 1 (items 1, 4, 6, 7, 9–11, 32): Royal Assent 
+    <div>Ss. 1–3 and Schedule 1 (items 1, 4, 6, 7, 9–11, 32): Royal Assent 
 Remainder: 24 May 2001</div>
   </td>
   <td>
@@ -4375,7 +4373,8 @@ Remainder: 21 Dec 2001</div>
     <div>10 Dec 2002</div>
   </td>
   <td>
-    <div>Schedule 2 (items 2–4): 1 Jan 2003</div>
+    <div>Schedule 2 (items 2–4): 
+1 Jan 2003</div>
   </td>
   <td>
     <div>—</div>
@@ -4446,7 +4445,7 @@ Remainder: Royal Assent</div>
     <div>16 Aug 2004</div>
   </td>
   <td>
-    <div>Schedule 2: 13 Sept 2004</div>
+    <div>Schedule 2: 13 Sept 2004</div>
   </td>
   <td>
     <div>Sch. 2 (item 2) \[ <i>see</i>Table A]</div>
@@ -4607,7 +4606,7 @@ Schedule 3A (items 10–22): <i>(s)</i></div>
     <div>30 June 2006</div>
   </td>
   <td>
-    <div>Schedule 1 (items 6–10): 30 Dec 2006 ( <i>see</i>s. 2(1))</div>
+    <div>Schedule 1 (items 6–10): 30 Dec 2006 ( <i>see</i>s. 2(1))</div>
   </td>
   <td>
     <div>—</div>
@@ -4661,23 +4660,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>Schedules 1–3: 1 July 2007 ( <i>see</i>s. 2(1) and F2007L01653) 
 Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Anti-People Smuggling and Other Measures Act 2010</div>
-  </td>
-  <td>
-    <div>50, 2010</div>
-  </td>
-  <td>
-    <div>31 May 2010</div>
-  </td>
-  <td>
-    <div>Schedule 2: 1 June 2010</div>
   </td>
   <td>
     <div>—</div>
@@ -5084,7 +5066,7 @@ _(s)_     Subsection 2(1) (items 2–4) of the _Law Enforcement (AFP P
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 122, 1986; No. 159, 1989; No. 75, 1990; No. 136, 1991; No. 139, 1991 (as am. by No. 182, 1994); No. 182, 1994; Nos. 146 and 161, 1999; No. 153, 2001; No. 77, 2003; Nos. 118, 128 and 144, 2005; No. 3, 2007; No. 50, 2010</div>
+    <div>am. No. 122, 1986; No. 159, 1989; No. 75, 1990; No. 136, 1991; No. 139, 1991 (as am. by No. 182, 1994); No. 182, 1994; Nos. 146 and 161, 1999; No. 153, 2001; No. 77, 2003; Nos. 118, 128 and 144, 2005; No. 3, 2007</div>
   </td>
 </tr>
 <tr>
