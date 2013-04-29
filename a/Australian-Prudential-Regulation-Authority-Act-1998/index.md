@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00086/Html/d7cc3e23-aff9-4b9d-b426-47bdd130a548_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00879/Html/b2a50c89-42ac-422a-b204-c4b9df642cc9_files/image001.gif)
 
 # Australian Prudential Regulation Authority Act 1998
 
 **Act No. 50 of 1998 as amended**
 
-This compilation was prepared on 27 December 2011
+This compilation was prepared on 1 November 2011
  taking into account amendments up to Act No. 108 of 2011
 
 The text of any of those amendments not in force
@@ -580,15 +580,11 @@ Note:          For information about delegations, see sections
 
                              (ii)  is absent from duty or from Australia oris, for any reason, unable to perform the functions of his or her office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
              (2)  The Minister may appoint an APRA member to act as Chair:
 
                      (a)  during a vacancy in the office of Chair, whether or not an appointment has previously been made to the office; or
 
                      (b)  during any period, or during all periods, when the Chair is absent from duty or from Australia, or is, for any reason, unable to perform the functions of his or her office.
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
 
              (3)  The Minister may appoint an APRA member to act as Deputy Chair:
 
@@ -598,9 +594,19 @@ Note:          For rules that apply to acting appointments, se
 
                      (c)  during any period, or during all periods, when the Deputy Chair is acting as Chair.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
              (4)  A person appointed under paragraph (1)(a), (1)(b), (2)(a) or (3)(a) must not continue to act under the appointment for more than 12 months.
+
+             (5)  Anything done by or in relation to a person purporting to act under an appointment under this section is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
+
+Note:          For further information about acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
 
              (6)  A person is not eligible to be appointed to act in an office under this section if section 17 would prevent the person from being appointed as an APRA member.
 
@@ -870,7 +876,7 @@ Note:          Subsection 33(3) of the _Acts Interpretation Ac
 
                      (b)  if the interest is an expectation to enter into a new business relationship—the interest does not have to be disclosed unless the member can identify the other party, or one or more other parties, to the relationship.
 
-##### <a id="48B"></a>48B  Obligation to disclose interests before deciding a particular matter
+##### <a id="48B"></a>48B  Obligation to disclose interests before deciding a particular matter
 
              (1)  An APRA member who has an interest that could conflict with the proper performance of the functions of his or her office, as they give the member a role in deciding a particular matter, must not perform the role in deciding the matter unless:
 
@@ -1995,7 +2001,7 @@ Remainder: Royal Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 234, 235) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 234, 235) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td colspan="2">
     <div>Sch. 3 (items 10, 11)</div>
@@ -2591,34 +2597,10 @@ _(l)_      Subsection 2(1) (item 2) of the _Superannuation Legislation
 </tr>
 <tr>
   <td>
-    <div>Ss. 16–18</div>
+    <div>Ss. 16–19</div>
   </td>
   <td>
     <div>rs. No. 42, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19</div>
-  </td>
-  <td>
-    <div>rs. No. 42, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Notes to s. 19(1)–(3)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
   </td>
 </tr>
 <tr>
@@ -3338,11 +3320,31 @@ No. 42, 2003</div>
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 234  At the end of subsections 19(1), (2) and (3)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 235  Subsection 19(5)
+
+Repeal the subsection.
+
+As at 1 November 2011 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
 
-_Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999 (No. 44, 1999)_
+_Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999 (No. 44, 1999)_
 
 ## Schedule 8  
 
@@ -3410,7 +3412,7 @@ _Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1)�
 
 * * *
 
-_Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 2000 (No. 24, 2000)_
+_Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 2000 (No. 24, 2000)_
 
 ## Schedule 12
 
@@ -3569,7 +3571,7 @@ _Note:       The reference to a member of APRA’s Board covers APRA
 
 _Note:       Delegations in favour of APRA, or APRA staff members, are not affected by the Schedule 2 amendments._
 
-## 5  Continued effect of determinations of terms and conditions for staff and consultants
+## 5  Continued effect of determinations of terms and conditions for staff and consultants
 
 A determination of terms and conditions in force, immediately before the commencement of the amendments, under subsection 45(2) or 47(2) of the old Act continues to have effect after that commencement as if it were a determination by APRA under that subsection of the amended Act.
 
@@ -3850,6 +3852,8 @@ No stamp duty or other tax is payable under a law of a State or Territory in res
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
 
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
+
 ## Schedule 3
 
 ## 10  Saving—appointments
@@ -3862,7 +3866,7 @@ The Governor‑General may make regulations prescribing matters of a transitiona
 
 * * *
 
-_Superannuation Legislation Amendment (Early Release of Superannuation) Act 2011 (No. 108, 2011)_
+_Superannuation Legislation Amendment (Early Release of Superannuation) Act 2011 (No. 108, 2011)_
 
 ## Schedule 1
 
