@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2007C00330/Html/AbTSIHerProte1984WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00699/Html/AbTSIHerProte1984WD02_image001.gif)
 
 # Aboriginal and Torres Strait Islander Heritage Protection Act 1984
 
 **Act No. 79 of 1984 as amended**
 
-This compilation was prepared on 28 May 2007
+This compilation was prepared on 11 December 2006
  taking into account amendments up to Act No. 152 of 2006
 
 The text of any of those amendments not in force
@@ -20,81 +20,147 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part I—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Interpretation
+[3](#3).            Interpretation                                                                                       1
 
-[4](#4).            Purposes of Act
+[4](#4).            Purposes of Act                                                                                   3
 
-[5](#5).            Extension to Territories
+[5](#5).            Extension to Territories                                                                       3
 
-[6](#6).            Act binds the Crown
+[6](#6).            Act binds the Crown                                                                           3
 
-[6A](#6A).         Application of the _Criminal Code_
+[6A](#6A).         Application of the _Criminal Code_                                                       3
 
-[7](#7).            Application of other laws
+[7](#7).            Application of other laws                                                                    3
 
-[8](#8).            Application of Act
+[8](#8).            Application of Act                                                                              4
+
+[8A](#8A).         Application of Part II to Victoria                                                        5
 
 **Part II—Protection of significant Aboriginal areas and objects** 
 
     **Division 1—Declarations by Minister**
 
-[9](#9).            Emergency declarations in relation to areas
+[9](#9).            Emergency declarations in relation to areas                                         6
 
-[10](#10).          Other declarations in relation to areas
+[10](#10).          Other declarations in relation to areas                                                 6
 
-[11](#11).          Contents of declarations under section 9 or 10
+[11](#11).          Contents of declarations under section 9 or 10                                   8
 
-[12](#12).          Declarations in relation to objects
+[12](#12).          Declarations in relation to objects                                                       8
 
-[13](#13).          Making of declarations
+[13](#13).          Making of declarations                                                                        9
 
-[14](#14).          Publication and commencement of declarations
+[14](#14).          Publication and commencement of declarations                                10
 
-[16](#16).          Refusal to make declaration
+[16](#16).          Refusal to make declaration                                                               10
 
     **Division 2—Declarations by authorized officers**
 
-[17](#17).          Authorised officers
+[17](#17).          Authorised officers                                                                            12
 
-[18](#18).          Emergency declarations in relation to areas or objects
+[18](#18).          Emergency declarations in relation to areas or objects                      12
 
-[19](#19).          Notification of declarations
+[19](#19).          Notification of declarations                                                               13
 
     **Division 3—Discovery and disposal of Aboriginal remains**
 
-[20](#20).          Discovery of Aboriginal remains
+[20](#20).          Discovery of Aboriginal remains                                                       14
 
-[21](#21).          Disposal of Aboriginal remains
+[21](#21).          Disposal of Aboriginal remains                                                         14
+
+**Part IIA—Victorian Aboriginal cultural heritage** 
+
+    **Division 1—Preliminary**
+
+[21A](#21A).       Interpretation                                                                                     15
+
+[21B](#21B).       Delegation                                                                                          16
+
+    **Division 2—Preservation of Victorian Aboriginal cultural property**
+
+[21C](#21C).       Emergency declaration of preservation                                              18
+
+[21D](#21D).       Temporary declaration of preservation                                             19
+
+[21E](#21E).        Declaration of preservation                                                               20
+
+[21EA](#21EA).     Declarations have effect subject to certificates under section 12 of the _Protection of Movable Cultural Heritage Act 1986_                                                                                                   22
+
+[21F](#21F).        Arbitration                                                                                         22
+
+[21G](#21G).       Notices                                                                                               22
+
+[21H](#21H).       Offence to contravene declaration                                                     23
+
+[21J](#21J).        Obligation to protect land                                                                  24
+
+[21K](#21K).       Aboriginal Cultural Heritage Agreements                                          24
+
+[21L](#21L).        Compulsory acquisition                                                                    25
+
+[21M](#21M).      Compensation for acquisition of property                                        25
+
+[21N](#21N).       Compensation may be paid in certain circumstances                        25
+
+    **Division 3—Discovery and disposal of Aboriginal remains**
+
+[21P](#21P).        Discovery of Aboriginal remains                                                       26
+
+[21Q](#21Q).       Disposal of Aboriginal remains                                                         26
+
+    **Division 4—Miscellaneous**
+
+[21R](#21R).       Inspectors                                                                                          27
+
+[21S](#21S).        Power to enter, search etc                                                                  27
+
+[21T](#21T).       Honorary keepers or wardens                                                           29
+
+[21U](#21U).       Defacing property                                                                             29
+
+[21V](#21V).       Register                                                                                              30
+
+[21W](#21W).      General meetings of local Aboriginal communities                            31
+
+[21X](#21X).       Negotiation for return of Aboriginal remains                                     31
+
+[21Y](#21Y).       Indictable offences                                                                             31
+
+[21Z](#21Z).       Evidence                                                                                             32
+
+[21ZA](#21ZA).    Alcoa smelter site exempted                                                              32
 
 **Part III—Offences, penalties and legal proceedings**
 
-[22](#22).          Offences and penalties
+[22](#22).          Offences and penalties                                                                       33
 
-[23](#23).          Indictable offences
+[23](#23).          Indictable offences                                                                             34
 
-[24](#24).          Evidence
+[24](#24).          Evidence                                                                                             34
 
-[25](#25).          Body corporate responsible for acts of servants and agents
+[25](#25).          Body corporate responsible for acts of servants and agents             35
 
-[26](#26).          Injunctions
+[26](#26).          Injunctions                                                                                         35
 
-[27](#27).          Proceedings _in camera_
+[27](#27).          Proceedings _in camera_                                                                       37
 
-[28](#28).          Compensation for acquisition of property
+[28](#28).          Compensation for acquisition of property                                        37
 
-[29](#29).          Powers of courts not limited
+[29](#29).          Powers of courts not limited                                                             37
 
-[30](#30).          Legal assistance
+[30](#30).          Legal assistance                                                                                  37
 
 **Part IV—Miscellaneous**
 
-[31](#31).          Delegation
+[31](#31).          Delegation                                                                                          39
 
-[32](#32).          Regulations
+[32](#32).          Regulations                                                                                        39
+
+**Schedule—Local Aboriginal communities** 
 
 **Notes** 
 
@@ -190,7 +256,15 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 ##### <a id="7"></a>7  Application of other laws
 
-             (1)  This Act is not intended to exclude or limit the operation of a law of a State or Territory that is capable of operating concurrently with this Act.
+             (1)  This Act, except Part IIA, is not intended to exclude or limit the operation of a law of a State or Territory that is capable of operating concurrently with this Act.
+
+          (1A)  Part IIA is not intended to exclude or limit the operation of:
+
+                     (a)  any provision of the _Archeological and Aboriginal Relics Preservation Act_ 1972 of Victoria in so far as it applies to or in relation to an entry made in a register, or a declaration made, under that Act before the commencement of the _Aboriginal and Torres Strait Islander Heritage Protection Amendment Act 1987_; or
+
+                     (b)  any other law of Victoria (other than a law for the preservation or protection of Aboriginal cultural property within the meaning of Part IIA) except as referred to in paragraph (a);
+
+that is capable of operating concurrently with that Part.
 
              (2)  A law of a Territory has effect to the extent to which it is not inconsistent with a provision of the regulations, or of a declaration under this Act, having effect in that Territory, but such a law shall not be taken for the purposes of this subsection to be inconsistent with such a provision to the extent that it is capable of operating concurrently with that provision.
 
@@ -209,6 +283,16 @@ the person may be prosecuted and convicted under that law or under this Act, the
              (1)  Subject to subsection (2), this Act applies, according to its tenor, to all persons, including foreigners, and to all vessels, including foreign vessels, whether or not they are within Australia or Australian waters.
 
              (2)  This Act has effect subject to the obligations of Australia under international law, including obligations under any agreement between Australia and another country or other countries.
+
+##### <a id="8A"></a>8A  Application of Part II to Victoria
+
+             (1)  The Minister shall not make a declaration under Division 1 of Part II in relation to an area or object in Victoria unless the Minister is satisfied that:
+
+                     (a)  the applicant for the declaration has made an application in relation to the area or object under Part IIA and the application has been rejected; or
+
+                     (b)  such an application would be inappropriate or could not be made.
+
+             (2)  An authorised officer shall not make a declaration under Division 2 of Part II in relation to an area or an object in Victoria unless the authorised officer is satisfied that an application in relation to the area or object under Part IIA would be inappropriate or could not be made.
 
 ## Part II—Protection of significant Aboriginal areas and objects
 
@@ -428,13 +512,13 @@ the officer may make a declaration for the purposes of this section.
 
 ##### <a id="20"></a>20  Discovery of Aboriginal remains
 
-             (1)  A person who discovers anything that he or she has reasonable grounds to suspect to be Aboriginal remains shall report his or her discovery to the Minister, giving particulars of the remains and of their location.
+             (1)  A person who, except in Victoria, discovers anything that he or she has reasonable grounds to suspect to be Aboriginal remains shall report his or her discovery to the Minister, giving particulars of the remains and of their location.
 
              (2)  Where the Minister receives a report made under subsection (1) and he or she is satisfied that the report relates to Aboriginal remains, he or she shall take reasonable steps to consult with any Aboriginals that he or she considers may have an interest in the remains, with a view to determining the proper action to be taken in relation to the remains.
 
 ##### <a id="21"></a>21  Disposal of Aboriginal remains
 
-             (1)  Where Aboriginal remains are delivered to the Minister, whether in pursuance of a declaration made under section 12 or otherwise, he or she shall:
+             (1)  Where Aboriginal remains, other than remains discovered in Victoria, are delivered to the Minister, whether in pursuance of a declaration made under section 12 or otherwise, he or she shall:
 
                      (a)  return the remains to an Aboriginal or Aboriginals entitled to, and willing to accept, possession, custody or control of the remains in accordance with Aboriginal tradition;
 
@@ -443,6 +527,498 @@ the officer may make a declaration for the purposes of this section.
                      (c)  if there is or are no such Aboriginal or Aboriginals—transfer the remains to a prescribed authority for safekeeping.
 
              (2)  Nothing in this section shall be taken to derogate from the right of any Aboriginal or Aboriginals accepting possession, custody or control of any Aboriginal remains pursuant to this section to deal with the remains in accordance with Aboriginal tradition.
+
+## Part IIA—Victorian Aboriginal cultural heritage
+
+### Division 1—Preliminary
+
+##### <a id="21A"></a>21A  Interpretation
+
+             (1)  In this Part:
+
+                    <a name="aborigin-cultur-heritag-agreem"></a>**_Aboriginal cultural heritage agreement_** means an agreement made in accordance with section 21K.
+
+                    <a name="aborigin-cultur-properti"></a>**_Aboriginal cultural property_** means Aboriginal places, Aboriginal objects and Aboriginal folklore.
+
+                    <a name="aborigin-folklor"></a>**_Aboriginal folklore_** means traditions or oral histories that are or have been part of, or connected with, the cultural life of Aboriginals (including songs, rituals, ceremonies, dances, art, customs and spiritual beliefs) and that are of particular significance to Aboriginals in accordance with Aboriginal tradition.
+
+                    <a name="aborigin-object"></a>**_Aboriginal object_** means an object (including Aboriginal remains) that is in Victoria and is of particular significance to Aboriginals in accordance with Aboriginal tradition.
+
+                    <a name="aborigin-place"></a>**_Aboriginal place_** means an area in Victoria that is of particular significance to Aboriginals in accordance with Aboriginal tradition.
+
+                    <a name="commun-area"></a>**_community area_**, in relation to a local Aboriginal community, means the area in Victoria declared by the regulations to be the area of that community for the purposes of this Part.
+
+                    <a name="local-aborigin-commun"></a>**_local Aboriginal community_** means an organisation that is specified in the Schedule.
+
+                    <a name="magistr"></a>**_magistrate_** means a magistrate of the State of   Victoria.
+
+                    <a name="polic-offic"></a>**_police officer_** means:
+
+                     (a)  a member or special member of the Australian Federal Police; or
+
+                     (b)  a member of the Police Force of the State of Victoria.
+
+                    <a name="state-minist"></a>**_State Minister_** means a Minister of the Crown of the State of Victoria.
+
+             (2)  The regulations may amend the Schedule by adding, omitting or varying the name of an organisation that is incorporated in, or carries on business in, Victoria.
+
+##### <a id="21B"></a>21B  Delegation
+
+             (1)  The Minister may, either generally or as otherwise provided by the instrument of delegation, by writing signed by the Minister, delegate all or any powers that are conferred on the Minister by or under this Part to:
+
+                     (a)  a State Minister; or
+
+                     (b)  an officer of the Department.
+
+             (2)  A State Minister to whom a power has been delegated under subsection (1) may, by writing signed by that Minister, authorise another person to exercise the power so delegated.
+
+             (3)  An authority under subsection (2) may be given to:
+
+                     (a)  a specified person; or
+
+                     (b)  the person for the time being occupying or performing the duties of a position in the public service of the State of Victoria, being a position specified in the instrument by which the authority is given.
+
+             (4)  Any act or thing done in the exercise of a power by a person to whom that power has been delegated by the Minister under subsection (1) or by a person authorised by a delegate of the Minister under subsection (2) to exercise that power has the same force and effect as if it had been done by the Minister.
+
+             (5)  Where the exercise of a power by the Minister is dependent upon the opinion, belief or state of mind of the Minister in relation to a matter and that power has been delegated under subsection (1), that power may be performed or exercised by the delegate or by a person authorised by the delegate under subsection (2) upon the opinion, belief or state of mind of the delegate or of the authorised person, as the case may be, in relation to that matter.
+
+             (6)  A delegation under subsection (1) does not prevent the exercise of a power by the Minister.
+
+             (7)  The giving of an authority under subsection (2) does not prevent the exercise of a power by the person by whom the authority was given.
+
+             (8)  Where a person purports to exercise a power conferred or expressed to be conferred on the Minister by this Act, it shall be presumed, unless the contrary is established, that the person is duly authorised by a delegation under subsection (1), or by an authority under subsection (2) given pursuant to such a delegation, to exercise the power.
+
+### Division 2—Preservation of Victorian Aboriginal cultural property
+
+##### <a id="21C"></a>21C  Emergency declaration of preservation
+
+             (1)  An emergency declaration in the prescribed form may be made in relation to an Aboriginal place or Aboriginal object:
+
+                     (a)  by:
+
+                              (i)  an inspector appointed under section 21R; or
+
+                             (ii)  the Minister;
+
+                            whether after an application is made to him or her by a local Aboriginal community or any person or on his or her own motion; or
+
+                     (b)  by a magistrate on an application by a local Aboriginal community;
+
+if the inspector, Minister or magistrate has reasonable grounds for believing that the place or object is under threat of injury or desecration of such a nature that it could not properly be protected unless an emergency declaration is made.
+
+             (2)  An emergency declaration ceases to be in force at the end of 30 days after it is made or such longer period, not exceeding 44 days, after it is made as the Minister fixes in any case unless it is sooner revoked or replaced by a temporary declaration under section 21D or a declaration under section 21E.
+
+             (3)  An emergency declaration may be varied or revoked:
+
+                     (a)  if made by an inspector—by the inspector;
+
+                     (b)  if made by the Minister—by the Minister; or
+
+                     (c)  if made by a magistrate—by the magistrate on the application of the local Aboriginal community.
+
+             (4)  If an emergency declaration is made, varied or revoked by an inspector or the Minister, the inspector or Minister shall, without delay, notify:
+
+                     (a)  the local Aboriginal community (if any) of the area where the Aboriginal place or Aboriginal object is found; and
+
+                     (b)  in the case of an emergency declaration made by an inspector—the Minister;
+
+and shall take all reasonable steps to notify any person who is likely to be affected.
+
+             (5)  If an emergency declaration is made by a magistrate on the application of a local Aboriginal community, the community shall, without delay, take all reasonable steps to notify any person who is likely to be affected.
+
+##### <a id="21D"></a>21D  Temporary declaration of preservation
+
+             (1)  If a local Aboriginal community decides, whether after an application is made to it or on its own motion, that:
+
+                     (a)  a place or object in the community area is an Aboriginal place or Aboriginal object; and
+
+                     (b)  that place or object is under threat of injury or desecration;
+
+the community may advise the Minister that it considers a temporary declaration of preservation should be made.
+
+             (2)  On receiving advice under subsection (1) or determining on his or her own motion that a temporary declaration of preservation should be made, the Minister:
+
+                     (a)  shall, within 14 days, cause notice of the advice or determination to be given to any person who is likely to be affected by the making of a declaration; and
+
+                     (b)  shall give any such person an opportunity to be heard.
+
+             (3)  After notice is given under subsection (2) and any objections are heard and the Minister has consulted with any State Minister whose responsibility may be affected by the making of a declaration, the Minister shall:
+
+                     (a)  if the Minister considers that, in all the circumstances of the case, it is reasonable and appropriate that a temporary declaration be made for the preservation of the place or object—make the declaration in writing, and, in the declaration, specify the terms of the declaration and the manner of preservation to be adopted in relation to the place or object, including prohibition of access to, or interference with, the place or object; or
+
+                     (b)  refuse to make the declaration.
+
+             (4)  The Minister may, at any time, on the application of the local Aboriginal community or on his or her own motion, vary or revoke a temporary declaration or any matters specified in it.
+
+             (5)  The Minister shall cause appropriate notice to be given of the making, variation or revocation of a temporary declaration.
+
+             (6)  A person affected or likely to be affected by the making, variation or revocation of a temporary declaration of preservation may request the Minister to appoint an arbitrator to review the Minister’s decision.
+
+             (7)  If the Minister refuses to make, or revokes, a temporary declaration of preservation or makes or varies a declaration, the local Aboriginal community may request the Minister to appoint an arbitrator to review the Minister’s decision.
+
+             (8)  The Minister shall, after receiving a request under subsection (6) or (7), appoint an arbitrator, being a person whom the Minister considers to be in a position to deal with the matter impartially.
+
+             (9)  Subject to section 21F, a temporary declaration of preservation ceases to be in force at the end of 60 days after it is made, or such longer period, not exceeding 120 days, after it is made as the Minister, on the advice of the local Aboriginal community, fixes unless it is sooner revoked or replaced by a declaration under section 21E.
+
+##### <a id="21E"></a>21E  Declaration of preservation
+
+             (1)  If a local Aboriginal community decides, whether after an application is made to it or on its own motion, that:
+
+                     (a)  a place or object in the community area is an Aboriginal place or Aboriginal object; and
+
+                     (b)  it is appropriate, having regard to the importance of maintaining the relationship between Aboriginals and that place or object, that a declaration of preservation should be made in relation to that place or object;
+
+the community may advise the Minister that it considers a declaration of preservation should be made.
+
+             (2)  On receiving advice under subsection (1) or determining on his or her own motion that a declaration of preservation should be made, the Minister:
+
+                     (a)  shall within 14 days cause notice of the advice or determination to be given to any person who is likely to be affected by the making of a declaration; and
+
+                     (b)  shall give any such person an opportunity to be heard.
+
+             (3)  After notice is given under subsection (2) and any objections are heard and the Minister has consulted with any State Minister whose responsibility may be affected by the making of a declaration, the Minister shall:
+
+                     (a)  if the Minister considers that, in all the circumstances of the case, it is reasonable and appropriate that a declaration be made for the preservation of the place or object—make the declaration and, in the declaration, specify the terms of the declaration and the manner of preservation to be adopted in relation to the place or object, including prohibition of access to, or interference with, the place or object; or
+
+                     (b)  refuse to make the declaration.
+
+             (4)  The Minister may, at any time, on the application of the local Aboriginal community or on his or her own motion, vary or revoke a declaration or any matters specified in it.
+
+             (5)  A person likely to be affected by the making, variation or revocation of a declaration of preservation may request the Minister to appoint an arbitrator to review the Minister’s decision.
+
+             (6)  If the Minister refuses to make, or revokes, a declaration of preservation or makes or varies a declaration, the local Aboriginal community may request the Minister to appoint an arbitrator to review the Minister’s decision.
+
+             (7)  The Minister shall, after receiving a request under subsection (5) or (6), appoint an arbitrator, being a person whom the Minister considers to be in a position to deal with the matter impartially.
+
+             (8)  The making, variation or revocation of a declaration under this section:
+
+                     (a)  shall be done by notice published in the _Gazette_; and
+
+                     (b)  comes into operation on the date of publication or such later date as is specified in the notice.
+
+##### <a id="21EA"></a>21EA  Declarations have effect subject to certificates under section 12 of the _Protection of Movable Cultural Heritage Act 1986_
+
+                   A declaration under section 21C, 21D or 21E cannot prevent the export of an object if there is a certificate in force under section 12 of the _Protection of Movable Cultural Heritage Act 1986_ authorising its export.
+
+##### <a id="21F"></a>21F  Arbitration
+
+             (1)  An arbitrator appointed under section 21D or 21E to review a decision of the Minister shall make a decision:
+
+                     (a)  confirming the decision of the Minister;
+
+                     (b)  varying the decision of the Minister; or
+
+                     (c)  setting aside the decision of the Minister and making a decision (being a decision that the Minister could have made under section 21D or 21E, as the case requires) in substitution for the decision of the Minister.
+
+             (2)  Subject to subsection (3), a decision of the Minister as varied by an arbitrator, or a decision made by an arbitrator in substitution for a decision of the Minister, shall, except for the purposes of subsection 21D(7) or 21E(6), be deemed to be a decision of the Minister and has effect, unless the arbitrator otherwise determines, on and from the day on which the decision of the Minister had effect.
+
+             (3)  Where the decision of an arbitrator results in the making of a declaration under section 21D or 21E, or the variation of a declaration made by the Minister under one of those sections, the declaration or variation, as the case may be, has effect on and from the day on which the decision of the arbitrator is made.
+
+##### <a id="21G"></a>21G  Notices
+
+             (1)  A local Aboriginal community may cause notices to be placed on or near an Aboriginal place or Aboriginal object in the community area that is the subject of a declaration indicating that the place or object is subject to a declaration of preservation.
+
+             (2)  A person authorised in writing by the relevant Aboriginal community may at all reasonable times enter upon any land for the purpose of placing a notice under subsection (1).
+
+             (3)  A person is guilty of an offence if:
+
+                     (a)  the person engages in conduct; and
+
+                     (b)  the conduct:
+
+                              (i)  destroys or causes damage to a notice placed under this section; or
+
+                             (ii)  causes interference with or the removal of a notice placed under this section.
+
+                    Penalty:
+
+                     (a)  if the person is a natural person—$500; or
+
+                     (b)  if the person is a body corporate—$2,500.
+
+             (4)  In subsection (3):
+
+                    <a name="engag-conduct"></a>**_engage in conduct_** means:
+
+                     (a)  do an act; or
+
+                     (b)  omit to perform an act.
+
+##### <a id="21H"></a>21H  Offence to contravene declaration
+
+             (1)  A person is guilty of an offence if:
+
+                     (a)  the person engages in conduct; and
+
+                     (b)  the conduct contravenes the terms of a declaration under this Part relating to an Aboriginal place.
+
+                    Penalty:
+
+                     (a)  if the person is a natural person—$10,000 or imprisonment for 5 years, or both; or
+
+                     (b)  if the person is a body corporate—$50,000.
+
+             (2)  A person is guilty of an offence if:
+
+                     (a)  the person engages in conduct; and
+
+                     (b)  the conduct contravenes the terms of a declaration under this Part relating to an Aboriginal object.
+
+                    Penalty:
+
+                     (a)  if the person is a natural person—$5,000 or imprisonment for 2 years, or both; or
+
+                     (b)  if the person is a body corporate—$25,000.
+
+             (3)  In this section:
+
+                    <a name="engag-conduct"></a>**_engage in conduct_** means:
+
+                     (a)  do an act; or
+
+                     (b)  omit to perform an act.
+
+##### <a id="21J"></a>21J  Obligation to protect land
+
+                   The making of a declaration relating to an Aboriginal place does not affect any obligation under any Act or law relating to the protection or conservation of land unless the obligation is inconsistent with the declaration.
+
+##### <a id="21K"></a>21K  Aboriginal Cultural Heritage Agreements
+
+             (1)  A local Aboriginal community may enter into an Aboriginal Cultural Heritage Agreement with a person who owns or possesses any Aboriginal cultural property in Victoria.
+
+             (2)  An agreement may cover the preservation, maintenance, exhibition, sale or use of the property and the rights, needs and wishes of the person and of the Aboriginal and general communities.
+
+             (3)  Subsection (1) does not apply to any Aboriginal cultural property in the possession of an Aboriginal if the property has been handed down from generation to generation to that person unless that person expressly agrees that the property should be the subject of an agreement under this section.
+
+             (4)  If an agreement under this section relating to land contains a provision requiring its registration under this section, the local Aboriginal community shall without delay:
+
+                     (a)  if the land is under the operation of the _Transfer of Land Act_ 1958 of Victoria—lodge with the Registrar of Titles under that Act a notice of the agreement in the prescribed form; or
+
+                     (b)  in the case of other land—lodge with the Registrar-General under the _Property Law Act_ 1958 of Victoria a notice of the agreement in the prescribed form.
+
+             (5)  If the Registrar of Titles receives a notice of an agreement, the Registrar may make such entries in the Register Book as the Registrar thinks appropriate for the purposes of this section.
+
+##### <a id="21L"></a>21L  Compulsory acquisition
+
+             (1)  The Minister may, in accordance with the regulations, compulsorily acquire any Aboriginal cultural property if the Minister is satisfied, whether on the advice of a local Aboriginal community or otherwise, that:
+
+                     (a)  the property is of such religious, historical or cultural significance that it is irreplaceable; and
+
+                     (b)  no other arrangements can be made to ensure its proper continuing preservation and maintenance.
+
+             (2)  Property acquired under this section is, upon acquisition, vested in the local Aboriginal community of the area where the property is found to be held on trust for it or, if there is no such community, in the Minister on trust for Aboriginals in Victoria.
+
+##### <a id="21M"></a>21M  Compensation for acquisition of property
+
+             (1)  Where, but for this section, the operation of this Part would result in the acquisition of property from a person otherwise than on just terms, there is payable to the person by the Commonwealth such reasonable amount of compensation as is agreed upon between the person and the Commonwealth or, failing agreement, as is determined by the Federal Court.
+
+             (2)  In subsection (1), **_acquisition of property_** and **_just terms_** have the same respective meanings as in paragraph 51(xxxi) of the Constitution.
+
+##### <a id="21N"></a>21N  Compensation may be paid in certain circumstances
+
+             (1)  The Minister may, from moneys appropriated by the Parliament for the purpose, pay compensation to a person who is or is likely to be affected by a declaration of preservation under section 21E.
+
+             (2)  The amount of compensation payable is such amount as is agreed upon between the Minister and the person or, failing agreement, as is determined by an arbitrator appointed by the Minister.
+
+### Division 3—Discovery and disposal of Aboriginal remains
+
+##### <a id="21P"></a>21P  Discovery of Aboriginal remains
+
+             (1)  A person who, in Victoria, discovers anything that he or she has reasonable grounds to suspect to be Aboriginal remains shall report the discovery to the Minister, giving particulars of the remains and of their location.
+
+                    Penalty:  $500.
+
+             (2)  Where the Minister receives a report made under subsection (1) and is satisfied that the report relates to Aboriginal remains, the Minister shall take reasonable steps to consult with any local Aboriginal community that he or she considers may have an interest in the remains, with a view to determining the proper action to be taken in relation to the remains.
+
+##### <a id="21Q"></a>21Q  Disposal of Aboriginal remains
+
+             (1)  Where Aboriginal remains discovered in Victoria are delivered to the Minister, he or she shall:
+
+                     (a)  return the remains to a local Aboriginal community entitled to, and willing to accept, possession, custody or control of the remains in accordance with Aboriginal tradition;
+
+                     (b)  otherwise deal with the remains in accordance with any reasonable directions of a local Aboriginal community referred to in paragraph (a); or
+
+                     (c)  if there is or are no such community or communities—transfer the remains to a prescribed authority for safekeeping.
+
+             (2)  Nothing in this section shall be taken to derogate from the right of any local Aboriginal community, Aboriginal or Aboriginals accepting possession, custody or control of any Aboriginal remains pursuant to this section to deal with the remains in accordance with Aboriginal tradition.
+
+### Division 4—Miscellaneous
+
+##### <a id="21R"></a>21R  Inspectors
+
+             (1)  The Minister may, in writing, appoint any person after consultation with a local Aboriginal community to be an inspector for the purposes of this Part if the Minister is satisfied that the person has knowledge and expertise in the identification and preservation of Aboriginal cultural property and is able to undertake the duties of an inspector under this Part.
+
+             (2)  The Minister shall cause to be issued to each inspector an identity card in the form prescribed, containing a photograph of the inspector.
+
+             (3)  An inspector who notifies a person of a declaration made by the inspector under section 21C shall:
+
+                     (a)  if it is reasonably practicable to do so—produce his or her identity card for inspection by that person; or
+
+                     (b)  in any other case—give that person such particulars of his or her identity card as are prescribed.
+
+             (4)  A person who ceases to be an inspector shall forthwith return his or her identity card to the Minister.
+
+                    Penalty:  $100.
+
+##### <a id="21S"></a>21S  Power to enter, search etc.
+
+             (1)  If a Magistrate is satisfied, on information on oath by a police officer, that there are reasonable grounds for suspecting that any Aboriginal objects on or in any land, premises or vehicle are under threat of injury or desecration, the Magistrate may issue a warrant authorising any police officer together with the inspector named in the warrant, by such force as is necessary and reasonable:
+
+                     (a)  to enter the land, premises or vehicle;
+
+                     (b)  to search the land, premises or vehicle;
+
+                     (c)  to take possession of, or secure against desecration, any Aboriginal objects that appear to the inspector to be under threat of injury or desecration; and
+
+                     (d)  to deliver any objects possession of which is so taken into the possession of a person authorised by the Minister to receive them.
+
+             (2)  A police officer, together with an inspector, may:
+
+                     (a)  enter upon land, or upon or into premises;
+
+                     (b)  search the land or premises for Aboriginal objects; and
+
+                     (c)  seize or secure against desecration any property found in the course of the search that the inspector believes, on reasonable grounds, to be an Aboriginal object;
+
+but only if acting:
+
+                     (d)  with the consent of the occupier of the land or premises; or
+
+                     (e)  under a warrant issued under this section.
+
+             (3)  There shall be stated in a warrant issued under this section:
+
+                     (a)  a statement of the purpose for which the warrant is issued;
+
+                     (b)  a description of the kind of property authorised to be seized; and
+
+                     (c)  a date (not being later than 7 days after the issue of the warrant) upon which the warrant ceases to have effect.
+
+             (4)  It shall also be stated in a warrant issued under this section whether entry is authorised to be made at any time of the day or night or during specified hours of the day or night.
+
+             (5)  If possession is taken of an object under this section:
+
+                     (a)  the inspector shall forthwith inform the local Aboriginal community (if any) of the area where the object is found; and
+
+                     (b)  the object shall be returned to the owner within 60 days after the possession was taken (or such longer period, not exceeding 120 days, after possession was taken as the Minister authorises) unless it is compulsorily acquired under section 21M or otherwise becomes the property of the local Aboriginal community.
+
+             (6)  If:
+
+                     (a)  an object is taken into possession under this section;
+
+                     (b)  the object is required to be returned to the owner under paragraph (5)(b); and
+
+                     (c)  the whereabouts of the owner cannot be ascertained after careful inquiry;
+
+the object is vested in the Minister on trust for Aboriginals in Victoria.
+
+             (7)  The powers conferred by this section are in addition to any other powers conferred by law.
+
+##### <a id="21T"></a>21T  Honorary keepers or wardens
+
+             (1)  A local Aboriginal community may, in writing, appoint honorary keepers or wardens for that community.
+
+             (2)  The function of an honorary keeper or warden is to record and maintain Aboriginal cultural property, either generally or as specified by the local Aboriginal community from time to time.
+
+             (3)  If an honorary keeper or warden is an Aboriginal who has the responsibility of being custodian for any Aboriginal cultural property, the local Aboriginal community shall not require the honorary keeper or warden to carry out any function that is inconsistent with the duties of the keeper or warden as the custodian.
+
+##### <a id="21U"></a>21U  Defacing property
+
+             (1)  A person is guilty of an offence if:
+
+                     (a)  the person:
+
+                              (i)  does an act; and
+
+                             (ii)  the act causes damage to, the defacing of, or interference with, an Aboriginal object or an Aboriginal place; or
+
+                     (b)  the person does an act likely to endanger an Aboriginal object or Aboriginal place.
+
+                    Penalty:
+
+                     (a)  if the person is a natural person—$10,000 or imprisonment for 5 years, or both; or
+
+                     (b)  if the person is a body corporate—$50,000.
+
+             (2)  Subsection (1) does not prevent an Aboriginal from entering on or interfering with an Aboriginal place or Aboriginal object in accordance with Aboriginal tradition.
+
+             (3)  A person may apply to a local Aboriginal community for consent for the excavation of any Aboriginal place or Aboriginal object in a community area of that community or for the carrying out of scientific research on Aboriginal objects in that area.
+
+             (4)  A local Aboriginal community may consent, in writing, to the doing of an act referred to in subsection (1) or (3) in its community area and may, in the consent, specify terms and conditions subject to which the consent is given.
+
+             (5)  If:
+
+                     (a)  a local Aboriginal community does not, within 30 days after receiving an application for consent under subsection (4), either grant consent or refuse consent; or
+
+                     (b)  an application is made to the Minister for consent to the doing of an act referred to in subsection (1) in an area in relation to which there is no local Aboriginal community;
+
+the Minister may consent, in writing, to the doing of an act referred to in subsection (1) in the community area or other area, as the case may be, and may, in the consent, specify terms and conditions subject to which the consent is given.
+
+             (6)  The Minister shall not grant consent under subsection (5) unless:
+
+                     (a)  the Minister has sought a recommendation on the matter from any person or body that in the Minister’s opinion should consider the matter; and
+
+                     (b)  the Minister has considered any recommendations made and is of the opinion that, in all the circumstances of the case, consent should be granted.
+
+             (7)  A person is not guilty of an offence if the person does an act referred to in subsection (1) in accordance with consent given under subsection (4) or (5).
+
+##### <a id="21V"></a>21V  Register
+
+             (1)  The Minister shall cause to be kept a register containing a summary of particulars of declarations of preservation made under this Part.
+
+             (2)  The register shall not be open for inspection except by prescribed persons or in prescribed circumstances.
+
+##### <a id="21W"></a>21W  General meetings of local Aboriginal communities
+
+                   There may be convened, in accordance with the regulations, general meetings of representatives of each local Aboriginal community and of prescribed Aboriginal organisations in Victoria for the purpose of:
+
+                     (a)  providing advice to the Minister on issues relating to Aboriginal cultural property in Victoria; or
+
+                     (b)  making recommendations to the Minister on the operation of this Part, including recommendations for its review or amendment.
+
+##### <a id="21X"></a>21X  Negotiation for return of Aboriginal remains
+
+                   If a local Aboriginal community has reason to believe that any Aboriginal remains held by a university, museum or other institution were found or came from its community area, the local Aboriginal community may request the Minister to negotiate with the university, museum or institution for the return of the remains to the community.
+
+##### <a id="21Y"></a>21Y  Indictable offences
+
+             (1)  Subject to subsection (2), the following offences are indictable offences:
+
+                     (a)  an offence against section 21H or 21U; or
+
+                     (b)  an offence against:
+
+                              (i)  section 6 of the _Crimes Act 1914_; or
+
+                             (ii)  section 11.1, 11.4 or 11.5 of the _Criminal Code_;
+
+                            in relation to an offence referred to in paragraph (a) of this subsection.
+
+             (2)  A court of summary jurisdiction may hear and determine proceedings in respect of an offence referred to in subsection (1) if the court is satisfied that it is proper to do so and the defendant and the prosecutor consent.
+
+             (3)  Where, in accordance with subsection (2), a court of summary jurisdiction convicts a person of an offence referred to in that subsection, the penalty that the court may impose is:
+
+                     (a)  if the person is a natural person—a fine not exceeding $2,000 or imprisonment for a period not exceeding 12 months, or both; or
+
+                     (b)  if the person is a body corporate—a fine not exceeding $10,000.
+
+##### <a id="21Z"></a>21Z  Evidence
+
+             (1)  In any proceedings for an offence against section 21H in relation to a declaration under this Part, the proof of the declaration is _prima facie_ evidence that the place or object concerned is an Aboriginal place or Aboriginal object, as the case may be.
+
+             (2)  For the purposes of subsection (1), a declaration made under section 21E may be proved by the production of the _Gazette_ purporting to contain it.
+
+             (3)  In proceedings for an offence against section 21H or 21U, where there is evidence that, at the relevant time, the defendant neither knew, nor had reasonable grounds for knowing:
+
+                     (a)  in the case of an offence against section 21H—of the existence of the declaration alleged to have been contravened; or
+
+                     (b)  in the case of an offence against section 21U—that the object or place concerned was an Aboriginal object or an Aboriginal place, as the case may be;
+
+the defendant shall not be committed for trial or convicted unless the prosecution proves that, at the time, the defendant knew, or ought reasonably to have known, of that fact.
+
+##### <a id="21ZA"></a>21ZA  Alcoa smelter site exempted
+
+                   This Part does not apply to any site, land, act or activity to which section 13 of the _Alcoa (__Portland__Aluminium Smelter) Act_ 1980 of Victoria applies.
 
 ## Part III—Offences, penalties and legal proceedings
 
@@ -520,7 +1096,7 @@ the officer may make a declaration for the purposes of this section.
 
                      (a)  intends to do, or not to do, a particular act; or
 
-                     (b)  knows, or ought reasonably to know, of the existence of a declaration made under Part II;
+                     (b)  knows, or ought reasonably to know, of the existence of a declaration made under Part II or IIA;
 
 paragraph (a) or (b), as the case may be, shall be deemed to apply to the body corporate at that time.
 
@@ -534,7 +1110,7 @@ paragraph (a) or (b), as the case may be, shall be deemed to apply to the body
 
              (1)  Where, on the application of the Minister, the Federal Court is satisfied that a person has engaged, or is proposing to engage, in conduct that constitutes or would constitute:
 
-                     (a)  a contravention of a provision of a declaration made under Part II;
+                     (a)  a contravention of a provision of a declaration made under Part II or IIA;
 
                      (b)  attempting to contravene such a provision;
 
@@ -570,7 +1146,7 @@ the Court may grant an injunction in such terms as the Court determines to be ap
 
 ##### <a id="27"></a>27  Proceedings _in camera_
 
-                   In any proceedings in a court arising under this Act, the court, on application, may, if it is satisfied that it is desirable to do so, having regard to:
+                   In any proceedings in a court arising under this Act, except Part IIA, the court, on application, may, if it is satisfied that it is desirable to do so, having regard to:
 
                      (a)  the interests of justice; and
 
@@ -580,7 +1156,7 @@ order the exclusion of the public, or of persons specified in the order, from a 
 
 ##### <a id="28"></a>28  Compensation for acquisition of property
 
-             (1)  Where, but for this section, the operation of a provision of this Act or of a declaration made under Part II would result in the acquisition of property from a person otherwise than on just terms, there is payable to the person by the Commonwealth such reasonable amount of compensation as is agreed upon between the person and the Commonwealth or, failing agreement, as is determined by the Federal Court.
+             (1)  Where, but for this section, the operation of a provision of this Act (except a provision of Part IIA) or of a declaration made under Part II would result in the acquisition of property from a person otherwise than on just terms, there is payable to the person by the Commonwealth such reasonable amount of compensation as is agreed upon between the person and the Commonwealth or, failing agreement, as is determined by the Federal Court.
 
              (2)  In subsection (1), **_acquisition of property_** and **_just terms_** have the same respective meanings as in paragraph 51(xxxi) of the Constitution.
 
@@ -604,7 +1180,7 @@ order the exclusion of the public, or of persons specified in the order, from a 
 
                               (i)  for an offence referred to in subsection 23(1); or
 
-                             (ii)  under section 26;
+                             (ii)  under section 26 (not being proceedings in relation to a declaration under Part IIA);
 
 may apply to the Attorney-General for a grant of assistance under subsection (2).
 
@@ -612,9 +1188,9 @@ may apply to the Attorney-General for a grant of assistance under subsection (
 
 ## Part IV—Miscellaneous
 
-##### <a id="31"></a>31  Delegation
+##### <a id="31"></a>31  Delegation
 
-             (1)  The Minister may, either generally or as otherwise provided in the instrument of delegation, by writing signed by him or her, delegate to a person all or any of his or her powers and functions under this Act (other than sections 9, 10 and 12, subsection 13(2) and section 26), the regulations, or a declaration, other than this power of delegation.
+             (1)  The Minister may, either generally or as otherwise provided in the instrument of delegation, by writing signed by him or her, delegate to a person all or any of his or her powers and functions under this Act (other than sections 9, 10 and 12, subsection 13(2) Part IIA and section 26), the regulations, or a declaration, other than this power of delegation.
 
              (2)  A power or function delegated under this section, when exercised or performed by the delegate, shall, for the purposes of this Act, the regulations or the declaration, as the case may be, be deemed to have been exercised or performed by the Minister.
 
@@ -632,6 +1208,68 @@ may apply to the Attorney-General for a grant of assistance under subsection (
 
  
 
+# Schedule—Local Aboriginal communities
+
+_Section 21A_
+
+Ballarat and District Aboriginal Co-operative Ltd. 
+
+Bendigo Dja Dja Wrung Aboriginal Association Incorporated 
+
+Brambuk Incorporated 
+
+Camp Jungai Co-operative Ltd. 
+
+Central Gippsland Aboriginal Health and Housing Co-operative Ltd. 
+
+Dandenong and District Aborigines Co-operative Ltd. 
+
+Echuca Aboriginal Co-operative Ltd. 
+
+Far East Gippsland Aboriginal Corporation 
+
+Framlingham Aboriginal Trust 
+
+Gippsland and East Gippsland Aboriginal Co-operative Ltd. 
+
+Goolum-goolum Aboriginal Co-operative Ltd. 
+
+Gunditjmara Aboriginal Co-operative Ltd. 
+
+Healesville and District Aboriginal Co-operative Ltd. 
+
+Kerrup-Jmara Elders Aboriginal Corporation 
+
+Lake Condah Aboriginal Co-operative Ltd. 
+
+Lake Tyers Aboriginal Trust 
+
+Lakes Entrance Aboriginal Corporation 
+
+Moogji Aboriginal Council East Gippsland Incorporated 
+
+Murray Valley Aboriginal Co-operative Ltd. 
+
+Rumbalara Aboriginal Co-operative Ltd. 
+
+Shepparton Aboriginal Arts Council Co-operative Ltd. 
+
+Sunraysia and District Aboriginal Corporation 
+
+Swan Hill and District Aboriginal Co-operative Ltd. 
+
+Wamba-Wamba   Local Aboriginal Land Council 
+
+Wathaurong Aboriginal Co-operative Ltd. 
+
+West Gippsland Aboriginal Co-operative Ltd. 
+
+Wurundjeri Tribe  Land Compensation and Cultural Heritage Council Incorporated 
+
+Yorta-yorta Cultural Heritage Council Incorporated 
+
+Yorta Yorta Murray Goulburn Rivers Clans Incorporated 
+
 # Notes to the _Aboriginal and Torres Strait Islander Heritage Protection Act 1984_
 
 ### Note 1
@@ -647,9 +1285,10 @@ For all relevant information pertaining to application, saving or transitional p
 <table>
 <colgroup>
   <col width="29%">
-  <col width="15%">
   <col width="0%">
-  <col width="18%">
+  <col width="15%">
+  <col width="17%">
+  <col width="0%">
   <col width="21%">
   <col width="17%">
 </colgroup>
@@ -667,7 +1306,7 @@ and year</div>
       <div>Date 
 of Assent</div>
     </td>
-    <td>
+    <td colspan="2">
       <div>Date of commencement</div>
     </td>
     <td>
@@ -685,7 +1324,7 @@ of Assent</div>
   <td>
     <div>25 June 1984</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>25 June 1984</div>
   </td>
   <td>
@@ -702,7 +1341,7 @@ of Assent</div>
   <td>
     <div>24 June 1986</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>24 June 1986</div>
   </td>
   <td>
@@ -719,7 +1358,7 @@ of Assent</div>
   <td>
     <div>5 June 1987</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>10 July 1987 ( <i>see Gazette</i>1987, No. S171)</div>
   </td>
   <td>
@@ -736,7 +1375,7 @@ of Assent</div>
   <td>
     <div>2 Dec 1988</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>2 Dec 1988</div>
   </td>
   <td>
@@ -753,7 +1392,7 @@ of Assent</div>
   <td>
     <div>27 Nov 1989</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>5 Mar 1990 ( <i>see Gazette</i>1990, No. S48)</div>
   </td>
   <td>
@@ -770,7 +1409,7 @@ of Assent</div>
   <td>
     <div>25 Oct 1996</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>Schedule 5 (items 1–3): Royal Assent <i>(a)</i></div>
   </td>
   <td>
@@ -778,7 +1417,7 @@ of Assent</div>
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
   </td>
   <td>
@@ -795,7 +1434,7 @@ of Assent</div>
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div>Environment and Heritage Legislation Amendment (Application of Criminal Code) Act 2001</div>
   </td>
   <td>
@@ -812,7 +1451,7 @@ of Assent</div>
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div>Aboriginal and Torres Strait Islander Commission Amendment Act 2005</div>
   </td>
   <td>
@@ -829,7 +1468,7 @@ of Assent</div>
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div>Aboriginal and Torres Strait Islander Heritage Protection Amendment Act 2006</div>
   </td>
   <td>
@@ -839,15 +1478,16 @@ of Assent</div>
     <div>7 Dec 2006</div>
   </td>
   <td>
-    <div>Schedule 1: 8 Dec 2006 
-Schedule 2: 28 May 2007 ( <i>see</i>F2007L01489) 
-Remainder: Royal Assent</div>
+    <div>Schedule 1: 8 Dec 2006 
+Schedule 2 (items 1–13): \[ <i>see</i>Note 2] 
+Schedule 3: Royal Assent</div>
   </td>
   <td>
     <div>—</div>
   </td>
 </tr>
 <tr height="0">
+  <td></td>
   <td></td>
   <td></td>
   <td></td>
@@ -932,7 +1572,7 @@ _(c)_     The _Aboriginal and Torres Strait Islander Heritage Protection
     <div>S. 7</div>
   </td>
   <td>
-    <div>am. No. 39, 1987; No. 43, 1996; No. 15, 2001; No. 152, 2006</div>
+    <div>am. No. 39, 1987; No. 43, 1996; No. 15, 2001</div>
   </td>
 </tr>
 <tr>
@@ -941,14 +1581,6 @@ _(c)_     The _Aboriginal and Torres Strait Islander Heritage Protection
   </td>
   <td>
     <div>ad. No. 39, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 152, 2006</div>
   </td>
 </tr>
 <tr>
@@ -1068,7 +1700,15 @@ _(c)_     The _Aboriginal and Torres Strait Islander Heritage Protection
     <div>Ss. 20, 21</div>
   </td>
   <td>
-    <div>am. No. 39, 1987; No. 43, 1996; No. 152, 2006</div>
+    <div>am. No. 39, 1987; No. 43, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part IIA</b></div>
+  </td>
+  <td>
+    <div></div>
   </td>
 </tr>
 <tr>
@@ -1081,10 +1721,10 @@ _(c)_     The _Aboriginal and Torres Strait Islander Heritage Protection
 </tr>
 <tr>
   <td>
-    <div></div>
+    <div><b>Division 1</b></div>
   </td>
   <td>
-    <div>rep. No. 152, 2006</div>
+    <div></div>
   </td>
 </tr>
 <tr>
@@ -1093,14 +1733,6 @@ _(c)_     The _Aboriginal and Torres Strait Islander Heritage Protection
   </td>
   <td>
     <div>ad. No. 39, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 152, 2006</div>
   </td>
 </tr>
 <tr>
@@ -1121,10 +1753,10 @@ _(c)_     The _Aboriginal and Torres Strait Islander Heritage Protection
 </tr>
 <tr>
   <td>
-    <div></div>
+    <div><b>Division 2</b></div>
   </td>
   <td>
-    <div>rep. No. 152, 2006</div>
+    <div></div>
   </td>
 </tr>
 <tr>
@@ -1137,14 +1769,6 @@ _(c)_     The _Aboriginal and Torres Strait Islander Heritage Protection
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 152, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 21EA</div>
   </td>
   <td>
@@ -1153,26 +1777,10 @@ _(c)_     The _Aboriginal and Torres Strait Islander Heritage Protection
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 152, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 21F</div>
   </td>
   <td>
     <div>ad. No. 39, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 152, 2006</div>
   </td>
 </tr>
 <tr>
@@ -1193,14 +1801,6 @@ _(c)_     The _Aboriginal and Torres Strait Islander Heritage Protection
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 152, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 21H</div>
   </td>
   <td>
@@ -1217,14 +1817,6 @@ _(c)_     The _Aboriginal and Torres Strait Islander Heritage Protection
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 152, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Ss. 21J–21N</div>
   </td>
   <td>
@@ -1233,10 +1825,10 @@ _(c)_     The _Aboriginal and Torres Strait Islander Heritage Protection
 </tr>
 <tr>
   <td>
-    <div></div>
+    <div><b>Division 3</b></div>
   </td>
   <td>
-    <div>rep. No. 152, 2006</div>
+    <div></div>
   </td>
 </tr>
 <tr>
@@ -1249,10 +1841,10 @@ _(c)_     The _Aboriginal and Torres Strait Islander Heritage Protection
 </tr>
 <tr>
   <td>
-    <div></div>
+    <div><b>Division 4</b></div>
   </td>
   <td>
-    <div>rep. No. 152, 2006</div>
+    <div></div>
   </td>
 </tr>
 <tr>
@@ -1261,14 +1853,6 @@ _(c)_     The _Aboriginal and Torres Strait Islander Heritage Protection
   </td>
   <td>
     <div>ad. No. 39, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 152, 2006</div>
   </td>
 </tr>
 <tr>
@@ -1289,26 +1873,10 @@ _(c)_     The _Aboriginal and Torres Strait Islander Heritage Protection
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 152, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Ss. 21V–21X</div>
   </td>
   <td>
     <div>ad. No. 39, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 152, 2006</div>
   </td>
 </tr>
 <tr>
@@ -1329,14 +1897,6 @@ _(c)_     The _Aboriginal and Torres Strait Islander Heritage Protection
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 152, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 21Z</div>
   </td>
   <td>
@@ -1345,26 +1905,10 @@ _(c)_     The _Aboriginal and Torres Strait Islander Heritage Protection
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 152, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 21ZA</div>
   </td>
   <td>
     <div>ad. No. 39, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 152, 2006</div>
   </td>
 </tr>
 <tr>
@@ -1396,7 +1940,7 @@ _(c)_     The _Aboriginal and Torres Strait Islander Heritage Protection
     <div>Ss. 25–28</div>
   </td>
   <td>
-    <div>am. No. 39, 1987; No. 152, 2006</div>
+    <div>am. No. 39, 1987</div>
   </td>
 </tr>
 <tr>
@@ -1404,7 +1948,7 @@ _(c)_     The _Aboriginal and Torres Strait Islander Heritage Protection
     <div>S. 30</div>
   </td>
   <td>
-    <div>am. No. 39, 1987; No. 43, 1996; 146, 1999; No. 152, 2006</div>
+    <div>am. No. 39, 1987; No. 43, 1996; 146, 1999</div>
   </td>
 </tr>
 <tr>
@@ -1420,7 +1964,7 @@ _(c)_     The _Aboriginal and Torres Strait Islander Heritage Protection
     <div>S. 31</div>
   </td>
   <td>
-    <div>am. No. 39, 1987; No. 43, 1996; No. 152, 2006</div>
+    <div>am. No. 39, 1987; No. 43, 1996</div>
   </td>
 </tr>
 <tr>
@@ -1429,6 +1973,14 @@ _(c)_     The _Aboriginal and Torres Strait Islander Heritage Protection
   </td>
   <td>
     <div>rep. No. 83, 1986</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Schedule</b></div>
+  </td>
+  <td>
+    <div></div>
   </td>
 </tr>
 <tr>
@@ -1446,15 +1998,69 @@ _(c)_     The _Aboriginal and Torres Strait Islander Heritage Protection
   <td>
     <div>am. Statutory Rules 1987 No. 153; 1989 No. 420; 1992 No. 121; 1994 No. 28</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 152, 2006</div>
-  </td>
 </tr></table>
+
+### Note 2
+
+_Aboriginal and Torres  Strait Islander Heritage Protection Amendment Act 2006 (No. 152, 2006)_
+
+The following amendments commence on proclamation. However if not proclaimed before 7 December 2007 they are repealed on that day, _see_ subsection 2(1) (item 3):
+
+## Schedule 2
+
+## 1  Subsection 7(1)
+
+Omit “, except Part IIA,”.
+
+## 2  Subsection 7(1A)
+
+Repeal the subsection.
+
+## 3  Section 8A
+
+Repeal the section.
+
+## 4  Subsection 20(1)
+
+Omit “, except in Victoria,”.
+
+## 5  Subsection 21(1)
+
+Omit “, other than remains discovered in Victoria,”.
+
+## 6  Part IIA
+
+Repeal the Part.
+
+## 7  Paragraph 25(1)(b)
+
+Omit “or IIA”.
+
+## 8  Paragraph 26(1)(a)
+
+Omit “or IIA”.
+
+## 9  Section 27
+
+Omit “except Part IIA,”.
+
+## 10  Subsection 28(1)
+
+Omit “(except a provision of Part IIA)”.
+
+## 11  Subparagraph 30(1)(c)(ii)
+
+Omit “(not being proceedings in relation to a declaration under Part IIA)”.
+
+## 12  Subsection 31(1)
+
+Omit “Part IIA”.
+
+## 13  Schedule
+
+Repeal the Schedule.
+
+As at 11 December 2006 the amendments are not incorporated in this compilation.
 
 ## Table A
 
