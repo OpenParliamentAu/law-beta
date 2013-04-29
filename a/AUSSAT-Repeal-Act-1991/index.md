@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00718/Html/a5ba0eb2-489c-4ef9-a497-22b8a54443a3_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00767/Html/52424472-d766-4889-ba0a-f9aec3db1f29_files/image001.gif)
 
 # AUSSAT Repeal Act 1991
 
 **Act No. 145 of 1991 as amended**
 
-This compilation was prepared on 9 October 2012
- taking into account amendments up to Act No. 136 of 2012
+This compilation was prepared on 22 September 2011
+ taking into account amendments up to Act No. 100 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -13,35 +13,48 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                         1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Interpretation
+[3](#3).            Interpretation                                                                                        2
 
 **Part 2—Preparing for the sale of AUSSAT**
 
-[4](#4).            Commonwealth guarantee of AUSSAT borrowings
+[4](#4).            Commonwealth guarantee of AUSSAT borrowings                           3
 
-[5](#5).            Appropriation of up to $800,000,000 to pay out AUSSAT’s existing obligations
+[5](#5).            Appropriation of up to $800,000,000 to pay out AUSSAT’s existing obligations  3
 
-[6](#6).            AUSSAT not within the shield of the Crown
+[6](#6).            AUSSAT not within the shield of the Crown                                      4
 
-[7](#7).            Clarification of AUSSAT’s status for income tax purposes
+[7](#7).            Clarification of AUSSAT’s status for income tax purposes                4
 
 **Part 3—Effect of the sale of AUSSAT**
 
-[8](#8).            Removal of AUSSAT’s tax losses
+[8](#8).            Removal of AUSSAT’s tax losses                                                      5
 
-[9](#9).            AUSSAT no longer taken to be established for a public purpose
+[9](#9).            AUSSAT no longer taken to be established for a public purpose        5
 
-[12](#12).          Ending AUSSAT’s liability under the _Commonwealth Borrowing Levy Act 1987_
+[10](#10).          Repeal of the _AUSSAT Act 1984_                                                          6
+
+[11](#11).          Consequential amendments of other Acts                                            6
+
+[12](#12).          Ending AUSSAT’s liability under the _Commonwealth Borrowing Levy Act 1987_  6
+
+**Part 4—Amendments of Telecommunications Legislation**
+
+[13](#13).          Schedule 2 amendments                                                                       7
+
+**Schedule 1—Consequential amendments of other Acts** 
+
+**Schedule 2—Amendments of Telecommunications Legislation** 
 
 **Notes** 
 
@@ -173,11 +186,75 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
                      (b)  regulations or any other instrument made under such a law.
 
+##### <a id="10"></a>10  Repeal of the _AUSSAT Act 1984_
+
+                   The _AUSSAT Act 1984_ is repealed.
+
+##### <a id="11"></a>11  Consequential amendments of other Acts
+
+             (1)  The Acts specified in Schedule 1 are amended as set out in that Schedule.
+
+             (2)  If Part 5 of the _Telecommunications (Transitional Provisions and Consequential Amendments) Act 1991_ commenced before the transition, or commences at the transition, Schedule 1 to this Act is taken to have been amended immediately before the transition by omitting the amendments of the _Crimes Act 1914_ and of the first‑mentioned Act.
+
 ##### <a id="12"></a>12  Ending AUSSAT’s liability under the _Commonwealth Borrowing Levy Act 1987_
 
              (1)  AUSSAT is not liable after the transition to pay an amount of levy imposed by the _Commonwealth Borrowing Levy Act 1987_ on a borrowing undertaken before the transition.
 
              (2)  To avoid doubt, subsection (1) does not apply in relation to an amount of levy that was paid before the transition.
+
+## Part 4—Amendments of Telecommunications Legislation
+
+##### <a id="13"></a>13  Schedule 2 amendments
+
+                   The Acts specified in Schedule 2 are amended as set out in that Schedule.
+
+# Schedule 1—Consequential amendments of other Acts
+
+_Section 11_
+
+* * *
+
+**Note:**
+
+The amendments made by this Schedule are incorporated in the compilations on ComLaw.
+
+Broadcasting Act 1942 
+ \[repealed by Act No. 105, 1992, s. 28 as amended by Act No. 120, 2002, 
+ Sch. 3]
+
+Commonwealth Borrowing Levy Act 1987
+
+Crimes Act 1914
+
+Sales Tax (Exemptions and Classifications) Act 1935
+ \[repealed by Act No. 101, 2006, Sch. 5]
+
+Sea Installations Act 1987
+
+Telecommunications (Transitional Provisions and Consequential Amendments) Act 1991
+
+For access to the wording of the amendments made by this Schedule, _see_ Act  No. 145, 1991.
+
+* * *
+
+# Schedule 2—Amendments of Telecommunications Legislation 
+
+_Section 13_
+
+* * *
+
+**Note:**
+
+The amendments made by this Schedule are incorporated in the compilations on ComLaw.
+
+Australian and Overseas Telecommunications Corporation Act 1991 [<span style="font-size:9.0pt; font-style:normal">now cited as</span><span style="font-size:9.0pt"> Telstra Corporation Act 1991</span><span style="font-size:9.0pt;font-style:normal">]</span>
+
+Telecommunications Act 1991
+ \[repealed by Act No. 59, 1997, Sch. 5]
+
+For access to the wording of the amendments made by this Schedule, _see_ Act No. 145, 1991.
+
+* * *
 
 # Notes to the _AUSSAT Repeal Act 1991_
 
@@ -288,23 +365,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2012</div>
-  </td>
-  <td>
-    <div>136, 2012</div>
-  </td>
-  <td>
-    <div>22 Sept 2012</div>
-  </td>
-  <td>
-    <div>Schedule 6 (items 3–5): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 ## Table of Amendments
@@ -361,54 +421,6 @@ Remainder: Royal Assent</div>
       <div>am. No. 39, 1997; No. 101, 2006</div>
     </td>
   </tr>
-  <tr>
-    <td>
-      <div>S. 10</div>
-    </td>
-    <td>
-      <div>rep. No. 136, 2012</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 11</div>
-    </td>
-    <td>
-      <div>rep. No. 136, 2012</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Part 4</div>
-    </td>
-    <td>
-      <div>rep. No. 136, 2012</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 13</div>
-    </td>
-    <td>
-      <div>rep. No. 136, 2012</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Schedule 1</div>
-    </td>
-    <td>
-      <div>rep. No. 136, 2012</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Schedule 2</div>
-    </td>
-    <td>
-      <div>rep. No. 136, 2012</div>
-    </td>
-  </tr>
 </thead></table>
 
 ## Table A
@@ -420,7 +432,7 @@ _Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006
 
 ## Schedule 6
 
-## 1  Application of Schedule 1 and 2 amendments
+## 1  Application of Schedule 1 and 2 amendments
 
 Except as mentioned in items 2 and 3, the repeals and amendments made by Schedules 1 and 2 apply:
 
