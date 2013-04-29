@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00341/Html/2749f7eb-dbfc-4319-90f7-25fb598ceb2e_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00849/Html/f2bf17be-1e5f-4d48-b809-ce181529f8c9_files/image001.gif)
 
 # Small Superannuation Accounts Act 1995
 
 **Act No. 52 of 1995 as amended**
 
-This compilation was prepared on 27 March 2012
+This compilation was prepared on 20 October 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
@@ -452,7 +452,7 @@ Note 2:       Under section 90, unincorporated associations are tr
 
                     <a name="spous"></a>**_spouse_** of a person includes:
 
-                     (a)  another person (whether of the same sex or a different sex) with whom the person is in a relationship that is registered under a law of a State or Territory prescribed for the purposes of section 2E of the _Acts Interpretation Act 1901_ as a kind of relationship prescribed for the purposes of that section; and
+                     (a)  another person (whether of the same sex or a different sex) with whom the person is in a relationship that is registered under a law of a State or Territory prescribed for the purposes of section 22B of the _Acts Interpretation Act 1901_ as a kind of relationship prescribed for the purposes of that section; and
 
                      (b)  another person who, although not legally married to the person, lives with the person on a genuine domestic basis in a relationship as a couple.
 
@@ -478,7 +478,7 @@ Note:          This expression is only used in the definition 
 
 ##### <a id="5"></a>5  Crown to be bound
 
-                   This Act binds the Crown in right of the Commonwealth, of each of the States, of the Australian Capital Territory, of the Northern Territory and of Norfolk Island.
+                   This Act binds the Crown in right of the Commonwealth, of each of the States, of the Australian Capital Territory, of the Northern Territory and of Norfolk Island.
 
 ##### <a id="6"></a>6  Act to be administered by the Commissioner of Taxation
 
@@ -590,7 +590,7 @@ Note:          Section 4 provides that **_account_** means a
 
 ##### <a id="13"></a>13  Outline of credits to accounts
 
-                   The following is a simplified outline of the types of credits that may be made to an individual’s account. 
+                   The following is a simplified outline of the types of credits that may be made to an individual’s account. 
 
 * * *
 
@@ -690,11 +690,11 @@ _Individual at least 55 years old and not an Australian resident_
 
 <li class="BoxList" style="margin-left:21.25pt;page-break-after:avoid">•      Under
 
-section 67, the balance of the amount standing to the credit of the
+section 67, the balance of the amount standing to the credit of the account
 
-account may be debited from the Special Account and paid by the Commonwealth to
+may be debited from the Special Account and paid by the Commonwealth to the
 
-the individual if the individual is at least 55 years old and is  not an
+individual if the individual is at least 55 years old and is  not an
 
 Australian resident for income tax purposes and:</li>
 
@@ -706,9 +706,9 @@ _Former temporary resident_
 
 <li class="BoxList" style="margin-left:21.25pt">•      The balance of the amount
 
-standing to the credit of an individual’s account may be debited from the
+standing to the credit of an individual’s account may be debited from the Special
 
-Special Account if the individual is a former temporary resident.</li>
+Account if the individual is a former temporary resident.</li>
 
 _Death of individual_
 
@@ -978,7 +978,7 @@ trust. </li>
 
                              (ii)  of an amount equal to the deposit.
 
-##### <a id="29"></a>29  Deposit to be consistent with other laws etc.
+##### <a id="29"></a>29  Deposit to be consistent with other laws etc.
 
                    The deposit form must include a declaration that, to the best of the knowledge of the depositor, the making of the deposit does not contravene:
 
@@ -1006,9 +1006,9 @@ Note 1:       A false or misleading statement may result in criminal
 
 Note 2:       A false or misleading declaration may result in an employer being denied: 
 
-(a)    an income tax deduction under section 82AAF of the _Income Tax Assessment Act 1936_; and 
+(a)           an income tax deduction under section 82AAF of the _Income Tax Assessment Act 1936_; and 
 
-(b)    concessional treatment under section 23 of the _Superannuation Guarantee (Administration) Act 1992_.
+(b)           concessional treatment under section 23 of the _Superannuation Guarantee (Administration) Act 1992_.
 
 ##### <a id="32"></a>32  Deposit form may deal with multiple payments
 
@@ -1334,7 +1334,7 @@ Provisional rate
 
              (3)  Calculate the **_provisional rate_** for the quarter as a percentage (to 4 decimal places) using the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2012C00341/Html/2749f7eb-dbfc-4319-90f7-25fb598ceb2e_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00849/Html/f2bf17be-1e5f-4d48-b809-ce181529f8c9_files/image002.gif)
 
 where:
 
@@ -1358,7 +1358,7 @@ Capped rate
 
              (5)  Calculate the **_capped rate_** as a percentage (to 4 decimal places) using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00341/Html/2749f7eb-dbfc-4319-90f7-25fb598ceb2e_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00849/Html/f2bf17be-1e5f-4d48-b809-ce181529f8c9_files/image003.gif)
 
 where:
 
@@ -1430,7 +1430,7 @@ Allocation day event
 
                      (a)  the rate of accrual is the percentage worked out (to 6 decimal places) using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00341/Html/2749f7eb-dbfc-4319-90f7-25fb598ceb2e_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00849/Html/f2bf17be-1e5f-4d48-b809-ce181529f8c9_files/image004.gif)
 
                             where:
 
@@ -1444,7 +1444,7 @@ Withdrawal event
 
                      (a)  the rate of accrual is the percentage worked out (to 6 decimal places) using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00341/Html/2749f7eb-dbfc-4319-90f7-25fb598ceb2e_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00849/Html/f2bf17be-1e5f-4d48-b809-ce181529f8c9_files/image005.gif)
 
                             where:
 
@@ -1458,7 +1458,7 @@ Inactive account debit event
 
                      (a)  the rate of accrual is the percentage worked out (to 6 decimal places) using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00341/Html/2749f7eb-dbfc-4319-90f7-25fb598ceb2e_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00849/Html/f2bf17be-1e5f-4d48-b809-ce181529f8c9_files/image005.gif)
 
                             where:
 
@@ -2352,7 +2352,7 @@ Appropriation
 
 ##### <a id="78"></a>78  Simplified outline
 
-                   The following is a simplified outline of this Part: 
+                   The following is a simplified outline of this Part: 
 
 * * *
 
@@ -2815,7 +2815,7 @@ of Assent</div>
     <div>24 Oct 1997</div>
   </td>
   <td>
-    <div>Schedule 3 (items 19–28): 1 Jan 1998( <i>see Gazette</i>1997, No. GN49) <i>(c)</i></div>
+    <div>Schedule 3 (items 19–28): 1 Jan 1997( <i>see Gazette</i>1997, No. GN49) <i>(c)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -3054,7 +3054,7 @@ of Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (item 1049) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (item 1049) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11)</div>
@@ -3227,7 +3227,7 @@ _(g)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 62, 1997; No. 111, 2003; No. 8, 2005; No. 15, 2007; No. 134, 2008; No. 27, 2009; Nos. 5 and 46, 2011</div>
+    <div>am. No. 62, 1997; No. 111, 2003; No. 8, 2005; No. 15, 2007; No. 134, 2008; No. 27, 2009; No. 5, 2011</div>
   </td>
 </tr>
 <tr>
@@ -4127,6 +4127,20 @@ _(g)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendment commences on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 1049  Section 4 (paragraph (a) of the definition of _spouse_)
+
+Omit “section 22B”, substitute “section 2E”.
+
+As at 20 October 2011 the amendment is not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -4168,7 +4182,7 @@ _Taxation Laws Amendment (Superannuation) Act (No. 1) 2002
 
 ## Schedule 1
 
-## 21  Application
+## 21  Application
 
 The amendments made by this Schedule apply to payments made on or after 1 July 2002.
 
@@ -4238,6 +4252,8 @@ The amendments of the _Small Superannuation Accounts Act 1995_ made by this Sche
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
