@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00242/Html/260cfb5f-011a-4054-9e51-a2cce2fb7102_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00812/Html/a6f352ba-aa55-47fc-acc0-5fe8fc7c4184_files/image001.gif)
 
 # Registration of Deaths Abroad Act 1984
 
 **Act No. 169 of 1984 as amended**
 
-This compilation was prepared on 14 February 2012
+This compilation was prepared on 30 September 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
@@ -240,13 +240,29 @@ the Minister shall appoint that person to be the Registrar.
 
 ##### <a id="6"></a>6  Acting Registrar
 
-                   The Minister may appoint a person who is engaged under the _Public Service Act 1999_ to act as Registrar:
+             (1)  The Minister may appoint a person who is engaged under the _Public Service Act 1999_ to act as Registrar:
 
                      (a)  during a vacancy in the office of Registrar; or
 
-                     (b)  during any period, or during all periods, when the Registrar is absent from duty or from Australia or is, for any other reason, unable to perform the functions of his or her office.
+                     (b)  during any period, or during all periods, when the Registrar is absent from duty or from Australia or is, for any other reason, unable to perform the functions of his or her office;
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.
+
+             (2)  An appointment of a person under subsection (1) may be expressed to have effect only in such circumstances as are specified in the instrument of appointment.
+
+             (3)  The Minister may:
+
+                     (a)  determine the terms and conditions of appointment of a person acting as Registrar; and
+
+                     (b)  terminate such an appointment at any time.
+
+             (4)  Where a person is acting as Registrar in accordance with paragraph (1)(b) and the office of Registrar becomes vacant while that person is so acting then, subject to subsection (2), that person may continue so to act until the Minister otherwise directs, the vacancy is filled or a period of 12 months from the date on which the vacancy occurred expires, whichever first happens.
+
+             (5)  The appointment of a person to act as Registrar ceases to have effect if he or she resigns his or her appointment by writing signed by him or her and delivered to the Minister.
+
+             (6)  While a person is acting as Registrar, he or she has and may exercise all the powers, and shall perform all the functions, of the Registrar and shall be deemed to be the Registrar for the purposes of the provisions of this Act, other than section 4 and this section.
+
+             (7)  The validity of anything done by a person purporting to act under subsection (1) shall not be called in question on the ground that the occasion for his or her appointment had not arisen, that there is a defect or irregularity in or in connection with his or her appointment, that the appointment had ceased to have effect or that the occasion for him or her to act had not arisen or had ceased.
 
 ##### <a id="7"></a>7  Register of Deaths Abroad
 
@@ -890,7 +906,7 @@ Remainder: Royal Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 976–980) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 976–980) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
@@ -962,26 +978,10 @@ _(d)_     The _Registration of Deaths Abroad Act 1984_ was amended by Sc
 </tr>
 <tr>
   <td>
-    <div>S. 5</div>
+    <div>Ss. 5, 6</div>
   </td>
   <td>
     <div>am. No. 146, 1999; No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6</div>
-  </td>
-  <td>
-    <div>am. No. 146, 1999; No. 73, 2008; No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 6</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
   </td>
 </tr>
 <tr>
@@ -1065,6 +1065,38 @@ _(d)_     The _Registration of Deaths Abroad Act 1984_ was amended by Sc
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 976  Subsection 6(1)
+
+Omit “(1)”.
+
+## 977  Paragraph 6(1)(b)
+
+Omit “office;”, substitute “office.”.
+
+## 978  Subsection 6(1)
+
+Omit “but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.”.
+
+## 979  At the end of subsection 6(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 980  Subsections 6(2) to (7)
+
+Repeal the subsections.
+
+As at 30 September 2011 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -1080,6 +1112,8 @@ _Foreign Affairs and Trade Legislation Amendment (Application of Criminal Code) 
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
