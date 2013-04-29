@@ -1,184 +1,234 @@
 **<b>
 
-### <center><name>CENSUS AND STATISTICS ACT 1905 - Reprinted as at 31 December 1989 (#DATE 31:12:1989) </name></center>
-</b>** - Reprinted as at 31 December 1989<lf> *1*The Census and Statistics Act 1905 as shown in this reprint comprises Act No. 15, 1905 amended as indicated in the Tables below.<lf>                                  Table of Acts<lf> Act<lf> Number         Date          Date of                            Application,<lf> and year       of Assent     commencement                       saving or<lf>                                                                 transitional<lf>                                                                 provisions<lf> Census and Statistics Act 1905<lf> 15, 1905        8 Dec 1905       8 Dec 1905<lf> Census and Statistics Act 1920<lf> 33, 1920       11 Oct 1920       11 Oct 1920                        -<lf> Census and Statistics Act 1930<lf> 18, 1930       21 July           21 July 1930                       -<lf>                1930<lf> Census and Statistics Act 1938<lf> 17, 1938       5 July 1938       5 July 1938                        -<lf> Census and Statistics Act 1946<lf> 74, 1946       14 Dec 1946       11 Jan 1947                        -<lf> Census and Statistics Act 1949<lf> 34, 1949       12 July       12 July 1949                       -<lf>                1949<lf> Statute Law Revision (Decimal Currency) Act 1966<lf> 93, 1966       29 Oct 1966   1 Dec 1966                         -<lf> Statute Law Revision Act 1973<lf> 216, 1973      19 Dec 1973   31 Dec 1973                        Ss. 9 (1)<lf>                                                                 and 10<lf> Census and Statistics Amendment Act 1977<lf> 15, 1977       28 Feb 1977   28 Feb 1977 (see  s. 2)            S. 9<lf> Census and Statistics Amendment Act 1981<lf> 48, 1981       25 May 1981   Part I (ss. 1 and 2) and           -<lf>                              s. 4: Royal Assent<lf>                              Remainder: 30 June 1981<lf> Census and Statistics Amendment Act (No. 2) 1981<lf> 177, 1981      8 Dec 1981    1 Mar 1983 (see Gazette 1983,      S. 12<lf>                              No. S36)<lf> Census and Statistics Amendment Act 1985<lf> 195, 1985      16 Dec 1985   13 Jan 1986                        -<lf> Statute Law (Miscellaneous Provisions) Act 1988<lf> 38, 1988       3 June 1988   S. 3: Royal Assent (a)             S. 5 (1)<lf> ______________________________________________________________________________ __ (a) The Census and Statistics Act 1905 was amended by section 3 only of the<lf> Statute Law (Miscellaneous Provisions) Act 1988, subsection 2 (1) of which provides as follows: '(1) Subject to this section, this Act commences on the day on which it receives the Royal Assent.'<lf>                               Table of Amendments<lf> ad.=added or inserted am.=amended rep.=repealed rs.=repealed and substituted ______________________________________________________________________________ __ Provision affected        How affected<lf> Heading to Part I         rs. No. 177, 1981<lf> S. 2                      rep. No. 216, 1973<lf>                           ad. No. 195, 1985<lf> S. 3                      am. No. 33, 1920; No. 15, 1977;<lf>                           Nos. 48 and 177, 1981<lf> Heading to Part II        rep. No. 177, 1981<lf> S. 4                      rep. No. 15, 1977<lf> S. 5                      am. No. 216, 1973<lf>                           rep. No. 177, 1981<lf> S. 6                      am. No. 38, 1988<lf> S. 7                      am. No. 33, 1920; No. 38, 1988<lf> Heading to Part III       rep. No. 177, 1981<lf> Heading to Part II        ad. No. 177, 1981<lf> S. 8                      am. No. 18, 1930; No. 15, 1977; No. 177, 1981<lf> Part III (s. 9)           ad. No. 177, 1981<lf> S. 9                      rs. No. 177, 1981<lf>                           am. No. 38, 1988<lf> Heading to Part IV        ad. No. 177, 1981<lf> S. 10                     am. No. 33, 1920<lf>                           rs. No. 177, 1981<lf> S. 11                     am. No. 93, 1966; No. 48, 1981<lf>                           rs. No. 177, 1981<lf> S. 12                     am. No. 74, 1946<lf>                           rs. No. 177, 1981<lf>                           am. No. 38, 1988<lf> S. 13                     am. No. 33, 1920; No. 48, 1981<lf>                           rs. No. 177, 1981<lf>                           am. No. 38, 1988<lf> S. 14                     am. No. 93, 1966; No. 48, 1981<lf>                           rs. No. 177, 1981<lf>                           am. No. 195, 1985; No. 38, 1988<lf> S. 15                     am. No. 33, 1920; No. 93, 1966; No. 48, 1981<lf>                           rs. No. 177, 1981<lf>                           am. No. 38, 1988<lf> S. 15A                    ad. No. 33, 1920<lf>                           rep. No. 177, 1981<lf> Part IV (ss. 16-20)       rep. No. 177, 1981<lf> S. 16                     am. No. 17, 1938; No. 15, 1977<lf>                           rs. No. 177, 1981<lf> S. 17                     am. No. 17, 1938<lf>                           rs. No. 34, 1949<lf>                           am. No. 93, 1966; No. 48, 1981<lf>                           rs. No. 177, 1981; No. 38, 1988<lf> S. 18                     am. No. 93, 1966<lf>                           rs. No. 216, 1973<lf>                           am. No. 48, 1981<lf>                           rs. No. 177, 1981<lf> S. 19                     am. No. 93, 1966; No. 48, 1981<lf>                           rs. No. 177, 1981<lf>                           am. No. 38, 1988<lf> S. 20                     am. No. 34, 1949; No. 15, 1977<lf>                           rs. No. 177, 1981<lf> Heading to Part V         rep. No. 177, 1981<lf> S. 21                     rs. No. 177, 1981<lf> S. 22                     am. No. 33, 1920; No. 93, 1966; No. 48, 1981<lf>                           rs. No. 177, 1981<lf> S. 23                     am. No. 93, 1966<lf>                           rep. No. 48, 1981<lf> S. 24                     am. No. 33, 1920<lf>                           rs. No. 34, 1949<lf>                           am. No. 93, 1966; No. 48, 1981<lf>                           rep. No. 177, 1981<lf> S. 25                     rep. No. 48, 1981<lf> S. 26                     am. No. 93, 1966; No. 48, 1981<lf>                           rep. No. 177, 1981<lf> S. 27                     am. No. 33, 1920; No. 93, 1966; No. 177, 1981 </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf>
+### <center><name>CENSUS AND STATISTICS ACT 1905 - Reprinted as at 19 December 1973 (HISTACT CHAP 1949 #DATE 19:12:1973) </name></center>
+</b>** 
 **<b>
 
-### <name>CENSUS AND STATISTICS ACT 1905 - TABLE OF PROVISIONS </name>
+### <name>CENSUS AND STATISTICS ACT 1905-1973 - TABLE OF PROVISIONS </name>
 </b>** 
 
 ## TABLE
-<tables> <tt>                              TABLE OF PROVISIONS<lf> 
-
-                               PART I-PRELIMINARY<lf> <p>Section<lf> <p>     1\.    Short title<lf> <p>     2\.    Application to external Territories<lf> <p>     3\.    Interpretation<lf> <p>     6\.    Arrangements with State Governments as to execution of Act<lf> <p>     7\.    Undertaking of fidelity and secrecy<lf> <p>                               PART II-THE CENSUS<lf> <p>     8\.    Taking of Census<lf> <p>                              PART III-STATISTICS<lf> <p>     9\.    Statistical information to be collected<lf> <p>                             PART IV-ADMINISTRATION<lf> <p>    10\.    Forms to be filled up<lf> <p>    11\.    Answering of questions<lf> <p>    12\.    Publication etc. of statistics<lf> <p>    13\.    Release of information<lf> <p>    14\.    Refusal or failure to answer questions etc.<lf> <p>    15\.    False or misleading statements etc.<lf> <p>    16\.    Authorized officers<lf> <p>    17\.    Delegation<lf> <p>    18\.    Powers of entry<lf> <p>    19\.    Secrecy<lf> <p>    20\.    Prosecution of offences<lf> <p>    21\.    Continuing offences<lf> <p>    22\.    Joinder of charges and penalties for certain offences<lf> <p>    27\.    Regulations<lf> </lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf>
-</lf></tt></tables>
+<tables> <tt><lf>                       CENSUS AND STATISTICS ACT 1905-1973<lf> <lf>                              TABLE  OF  PROVISIONS<lf> <lf>                               PART  I-INTRODUCTORY<lf> Section<lf>   1\.        Short title<lf>   2\.        (Repealed)<lf>   3\.        Definitions<lf> <lf>                                   PART  II-ADMINISTRATION<lf> <lf>   4\.        Appointment of Statistician<lf>   5\.        Power of Statistician to delegate<lf>   6\.        Arrangements with State Governments as to execution of Act<lf>   7\.        Undertaking of fidelity and secrecy<lf> <lf>                                    PART  III-THE  CENSUS<lf> <lf>   8\.        Taking of Census<lf>   9\.        Statistician to take steps for collection of census<lf>   10\.       Forms to be left at dwellings<lf>   11\.       Occupiers to fill up Householders' Schedules<lf>   12\.       Particulars in Schedule<lf>   13\.       Collectors to assist in filling up Schedules<lf>   14\.       Duty of persons to supply information to collectors<lf>   15\.       Returns of persons not abiding in dwellings<lf>   15A.      Publication of returns<lf> <lf>                                     PART  IV-STATISTICS<lf> <lf>   16\.       Statistics to be collected<lf>   17\.       Forms to be filled up<lf>   18\.       Duty of persons to answer questions<lf>   19\.       Powers of entry and inspection<lf>   20\.       Publication of statistics<lf> <lf>                                    PART  V-MISCELLANEOUS<lf> <lf>   21\.       Person not bound to state his religion<lf>   22\.       Desertion by officers<lf>   23\.       Untrue returns by officers<lf>   24\.       Officers and occupiers to observe secrecy<lf>   25\.       Forgery of forms<lf>   26\.       Penalty for false returns or answers<lf>   27\.       Regulations </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></tt></tables>
 **<b>
 
-### <name>CENSUS AND STATISTICS ACT 1905 - LONG TITLE </name>
+### <name>CENSUS AND STATISTICS ACT 1905-1973 - SECT. 1\. Short title. </name>
 </b>** 
 
 ## SECT
-<sect>       An Act relating to the Census and Statistics of the Commonwealth<lf> </lf></sect>
+<sect>                     CENSUS  AND  STATISTICS  ACT  1905-1973<lf> <lf>        An Act relating to the Census and Statistics of the Commonwealth.<lf> <lf>                               PART  I-INTRODUCTORY<lf> Short title amended; No. 32, 1918, s. 2.<lf>   1\. This Act may be cited as the Census and Statistics Act 1905-1973.*<lf> Section 2 repealed by No. 216, 1973, s. 3.<lf>                          *   *   *   *   *   *   *   *<lf> </lf></lf></lf></lf></lf></lf></lf></lf></lf></sect>
 **<b>
 
-### <name>CENSUS AND STATISTICS ACT 1905 - PART I  PART I-PRELIMINARY </name>
-</b>** 
-**<b>
-
-### <name>CENSUS AND STATISTICS ACT 1905 - SECT 1 Short title </name>
+### <name>CENSUS AND STATISTICS ACT 1905-1973 - SECT. 3\. Definitions. </name>
 </b>** 
 
 ## SECT
-<sect>   1\. This Act may be cited as the Census and Statistics Act 1905.*1* SEE NOTES TO FIRST ARTICLE OF THIS CHAPTER . </sect>
+<sect> Amended by No. 33, 1920, s. 2.<lf>   3\. In this Act, unless the contrary intention appears-<lf> <lf>   ''Dwelling'' means a building, erection, or tenement, whether permanent or temporary, which is wholly or partly used for the purpose of human habitation and includes any ship or other vessel in any port of the Commonwealth or in any inland waters thereof, or any ship or vessel on a passage between any two Commonwealth ports.<lf> <lf>   ''Factory'' means any work, mill, or establishment, used for the purpose of manufacturing treating or preparing any article.<lf> <lf>   ''Occupier'' includes every governor, superintendent, officer in charge, or keeper, of any gaol, prison, hospital, lunatic asylum, or public or charitable institution.<lf> <lf>   ''The Statistician'' means the Commonwealth Statistician.<lf> </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></sect>
 **<b>
 
-### <name>CENSUS AND STATISTICS ACT 1905 - SECT 2 Application to external Territories </name>
+### <name>CENSUS AND STATISTICS ACT 1905-1973 - SECT. 4\. Appointment of Statistician. </name>
 </b>** 
 
 ## SECT
-<sect>   2\. This Act, other than Part III, extends to such external Territories as are prescribed. </sect>
+<sect>                              PART II-ADMINISTRATION<lf>   4.* The Governor-General may appoint a Commonwealth Statistician, who shall have such powers and perform such duties as are conferred or imposed on him by this Act or the regulations.<lf> </lf></lf></sect>
 **<b>
 
-### <name>CENSUS AND STATISTICS ACT 1905 - SECT 3 Interpretation </name>
+### <name>CENSUS AND STATISTICS ACT 1905-1973 - SECT. 5\. Power of Statistician to delegate. </name>
 </b>** 
 
 ## SECT
-<sect>   3\. In this Act, unless the contrary intention appears:<lf>   'authorized officer' means an officer who, by virtue of an appointment under section 16, is an authorized officer for the purposes of this Act;<lf>   'Bureau' means the Australian Bureau of Statistics established by the Australian Bureau of Statistics Act 1975;<lf>   'determination' means a determination made under section 13;<lf>   'form' means a form prepared by the Statistician under subsection 10 (1);<lf>   'officer' means:<lf>    (a) a member of the staff of the Bureau referred to in subsection 16 (1) of<lf> the Australian Bureau of Statistics Act 1975;<lf>    (b) a person engaged in accordance with the regulations to assist in the<lf> carrying out of the functions of the Statistician;<lf>   'Statistician' means the Australian Statistician referred to in subsection 5 (2) of the Australian Bureau of Statistics Act 1975\. </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></sect>
+<sect> Sub-section (1) amended by No. 216, 1973, s. 3.<lf>   5\. (1) The Statistician, in relation to any particular matters or class of matters or to any particular State or part of the Commonwealth, with the approval of the Minister, may, by instrument under his hand, delegate any of his powers under this Act or the regulations (except this power of delegation) so that the delegated powers may be exercised by the delegate with respect to the matters or class of matters or the State or part of the Commonwealth specified in the instrument of delegation.<lf> 
+
+  (2) Every delegation shall be revocable in writing, at will, and no delegation shall affect the exercise or performance by the Statistician of any power or duty.<lf> </lf>
+</lf></lf></sect>
 **<b>
 
-### <name>CENSUS AND STATISTICS ACT 1905 - SECT 6 Arrangements with State Governments as to execution of Act </name>
+### <name>CENSUS AND STATISTICS ACT 1905-1973 - SECT. 6\. Arrangements with State Governments as to execution of Act. </name>
 </b>** 
 
 ## SECT
-<sect>   6\. (1) The Governor-General may enter into any arrangement with the Governor of any State providing for any matter necessary or convenient for the purpose of carrying out or giving effect to this Act and in particular for all or any of the following matters:<lf>    (a) the execution by State Officers of any power or duty conferred or<lf> imposed on any officer under this Act or the regulations;<lf>    (b) the collection by any State Department or officer of any statistical or<lf> other information required for the purpose of carrying out this Act; and<lf>    (c) the supplying of statistical information by any State Department or<lf> officer to the Statistician.<lf>   (2) All State Officers executing any power or duty conferred or imposed on any officer under this Act or the regulations, in pursuance of any arrangement entered into under this section, shall for the purposes of the execution of that power or duty be deemed to be officers under this Act. </lf></lf></lf></lf></lf></lf></lf></sect>
+<sect>   6.* (1) The Governor-General may enter into any arrangement with the Governor of any State providing for any matter necessary or convenient for the purpose of carrying out or giving effect to this Act and in particular for all or any of the following matters:-<lf> <lf>   (a)  The execution by State Officers of any power or duty conferred or imposed on any officer under this Act or the regulations;<lf> <lf>   (b)  The collection by any State Department or officer of any statistical or other information required for the purpose of carrying out this Act; and<lf> <lf>   (c)  The supplying of statistical information by any State Department or officer to the Statistician.<lf> 
+
+  (2) All State Officers executing any power or duty conferred or imposed on any officer under this Act or the regulations, in pursuance of any arrangement entered into under this section, shall for the purposes of the execution of that power or duty be deemed to be officers under this Act.<lf> </lf>
+</lf></lf></lf></lf></lf></lf></lf></sect>
 **<b>
 
-### <name>CENSUS AND STATISTICS ACT 1905 - SECT 7 Undertaking of fidelity and secrecy </name>
+### <name>CENSUS AND STATISTICS ACT 1905-1973 - SECT. 7\. Undertaking of fidelity and secrecy. </name>
 </b>** 
 
 ## SECT
-<sect>   7\. Every officer executing any power or duty conferred or imposed on any officer under this Act or the regulations, shall, before entering upon his or her duties or exercising any power under this Act, sign, in the presence of a witness, an undertaking of fidelity and secrecy in accordance with the prescribed form. </sect>
+<sect> Amended by No. 33, 1920, s. 3.<lf>   7\. Every officer executing any power or duty conferred or imposed on any officer under this Act or the regulations, shall, before entering upon his duties or exercising any power under this Act, sign, in the presence of a witness, an undertaking of fidelity and secrecy in accordance with the prescribed form.<lf> </lf></lf></sect>
 **<b>
 
-### <name>CENSUS AND STATISTICS ACT 1905 - PART II  PART II-THE CENSUS </name>
-</b>** 
-**<b>
-
-### <name>CENSUS AND STATISTICS ACT 1905 - SECT 8 Taking of Census </name>
+### <name>CENSUS AND STATISTICS ACT 1905-1973 - SECT. 8\. Taking of Census. </name>
 </b>** 
 
 ## SECT
-<sect>   8\. (1) The Census shall be taken in the year 1981 and in every fifth year thereafter, and at such other times as are prescribed.<lf>   (2) The Census day shall be a day appointed for that purpose by proclamation.<lf>   (3) For the purposes of the taking of the Census, the Statistician shall collect statistical information in relation to the matters prescribed for the purposes of this section. </lf></lf></sect>
+<sect>                               PART  III-THE CENSUS<lf> Cf. N.S.W. 1900, No. 65, s. 3\. Sub-section (1) amended by No. 18, 1930, s. 2.<lf>   8.* (1) The Census shall be taken in the year One thousand nine hundred and eleven and in every tenth year thereafter or at such other time as is prescribed.<lf> 
+
+  (2) The Census day shall be a day appointed for that purpose by proclamation. <lf> </lf>
+</lf></lf></lf></sect>
 **<b>
 
-### <name>CENSUS AND STATISTICS ACT 1905 - PART III  PART III-STATISTICS </name>
-</b>** 
-**<b>
-
-### <name>CENSUS AND STATISTICS ACT 1905 - SECT 9 Statistical information to be collected </name>
-</b>** 
-
-## SECT
-<sect>   9\. (1) The Statistician:<lf>    (a) may from time to time collect such statistical information in relation<lf> to the matters prescribed for the purposes of this section as he or she considers appropriate; and<lf>    (b) shall, if the Minister so directs by notice in writing, collect such<lf> statistical information in relation to the matters so prescribed as is specified in the notice.<lf>   (2) The Statistician shall collect such statistical information as is necessary for the purposes of the compilation and analysis, under section 12, of statistics of the number of the people of each State as on the last day of March, June, September and December in each year, but nothing in this subsection shall be taken to limit the generality of subsection (1). </lf></lf></lf></lf></lf></sect>
-**<b>
-
-### <name>CENSUS AND STATISTICS ACT 1905 - PART IV  PART IV-ADMINISTRATION </name>
-</b>** 
-**<b>
-
-### <name>CENSUS AND STATISTICS ACT 1905 - SECT 10 Forms to be filled up </name>
+### <name>CENSUS AND STATISTICS ACT 1905-1973 - SECT. 9\. Statistician to take steps for collection of census. </name>
 </b>** 
 
 ## SECT
-<sect>   10\. (1) The Statistician may prepare forms relating to the collection of statistical information in relation to any matter referred to in section 8 or 9.<lf>   (2) For the purposes of section 8, the Statistician may, by notice published in the Gazette, require persons included in a specified class of persons to fill up and supply, in accordance with instructions contained in or accompanying a specified form, the particulars specified in that form and to cause the form so filled up to be furnished to the Statistician, or to an authorized officer, in accordance with those instructions.<lf>   (3) For the purposes of section 8 or 9, the Statistician or an authorized officer may, either orally or in writing, request a person:<lf>    (a) to fill up and supply, in accordance with instructions contained in or<lf> accompanying a form, the particulars specified in that form; and<lf>    (b) to cause the form so filled up to be furnished to the Statistician, or<lf> to an authorized officer, in accordance with those instructions.<lf>   (4) For the purposes of section 8 or 9, the Statistician may, by notice in writing served either personally or by post on a person, direct the person:<lf>    (a) to fill up and supply, in accordance with instructions contained in or<lf> accompanying a form accompanying the notice, within such period after the service of the notice, being not less than 14 days, as is specified in the notice, the particulars specified in that form; and<lf>    (b) to cause the form so filled up to be furnished to the Statistician, or<lf> to an authorized officer, in accordance with those instructions.<lf>   (5) A notice referred to in subsection (4) shall set out the effect of the provisions of section 14\. </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></sect>
+<sect>   9\. It shall be the duty of the Statistician, subject to the regulations and to the directions of the Minister, to prepare and issue forms and instructions, and take all necessary steps for the taking and collection of the Census.<lf> </lf></sect>
 **<b>
 
-### <name>CENSUS AND STATISTICS ACT 1905 - SECT 11 Answering of questions </name>
+### <name>CENSUS AND STATISTICS ACT 1905-1973 - SECT. 10\. Forms to be left at dwellings. </name>
 </b>** 
 
 ## SECT
-<sect>   11\. (1) For the purposes of section 8 or 9, the Statistician or an authorized officer may, either orally or in writing, request a person to answer a question that is necessary to obtain any statistical information in relation to any matter referred to in section 8 or 9.<lf>   (2) For the purposes of section 8 or 9, the Statistician may, by notice in writing served either personally or by post on a person, direct the person to answer, within such period after service of the notice, being not less than 14 days, as is specified in the notice, a specified question that is necessary to obtain any statistical information in relation to any matter referred to in section 8 or 9.<lf>   (3) A notice referred to in subsection (2) shall set out the effect of the provisions of section 14\. </lf></lf></sect>
+<sect> Cf. ib. ss. 6, 7.<lf>   10\. (1) For the purpose of taking the Census, a form called the Householder's Schedule shall be prepared, and left, in accordance with the regulations, at every dwelling throughout the Commonwealth.<lf> Amended by No. 33, 1920, s. 4\. 
+
+  (2) Where a building is let, sublet, or held in different apartments and occupied by different persons or families, each part so let, sublet, or held and used for the purpose of human habitation shall be deemed a dwelling.<lf> </lf>
+</lf></lf></sect>
 **<b>
 
-### <name>CENSUS AND STATISTICS ACT 1905 - SECT 12 Publication etc. of statistics </name>
+### <name>CENSUS AND STATISTICS ACT 1905-1973 - SECT. 11\. Occupiers to fill up Householders' Schedules. </name>
 </b>** 
 
 ## SECT
-<sect>   12\. (1) The Statistician shall compile and analyse the statistical information collected under this Act and shall publish and disseminate the results of any such compilation and analysis, or abstracts of those results.<lf>   (2) The results or abstracts referred to in subsection (1) shall not be published or disseminated in a manner that is likely to enable the identification of a particular person or organization.<lf>   (3) The Statistician may make charges for results and abstracts published and disseminated under this section. </lf></lf></sect>
+<sect> Cf. ib. s. 8\. Amended by No. 93, 1966, s. 3.<lf>   11\. Every occupier of a dwelling, with or for whom a Householder's Schedule has been left, shall, to the best of his knowledge and belief, fill up and supply therein, in accordance with the instructions contained in or accompanying the Schedule, all the particulars specified therein, and shall sign his name thereto and shall deliver the Schedule so filled up and signed to the Collector authorized to receive it.<lf> <lf>   Penalty: Twenty dollars.<lf> </lf></lf></lf></lf></sect>
 **<b>
 
-### <name>CENSUS AND STATISTICS ACT 1905 - SECT 13 Release of information </name>
+### <name>CENSUS AND STATISTICS ACT 1905-1973 - SECT. 12\. Particulars in Schedule. </name>
 </b>** 
 
 ## SECT
-<sect>   13\. (1) Notwithstanding anything in this Act (other than this section), the Minister may, by instrument in writing, make determinations providing for and in relation to the disclosure, with the approval in writing of the Statistician, of information included in a specified class of information furnished in pursuance of this Act.<lf>   (2) Without limiting the generality of subsection (1), determinations may make provision:<lf>    (a) as to the persons to whom the information may be disclosed;<lf>    (b) as to the persons, being the persons from whom the information has been<lf> obtained, whose consent is required for the disclosure of the information; and<lf>    (c) specifying terms and conditions subject to which the information may be<lf> disclosed, including, but without limiting the generality of the foregoing, terms and conditions as to the requiring of a person to whom the information is, or is to be, disclosed to give an undertaking, in writing with respect to the disclosure of the information by that person, including an undertaking not to disclose any of the information to any person.<lf>   (3) Information of a personal or domestic nature relating to a person shall not be disclosed in accordance with a determination in a manner that is likely to enable the identification of that person.<lf>   (4) Subject to subsection (5), a determination under subsection (1) is a disallowable instrument for the purposes of section 46A of the Acts Interpretation Act 1901.<lf>   (5) Determinations shall be deemed to be statutory rules within the meaning of the Statutory Rules Publication Act 1903\. </lf></lf></lf></lf></lf></lf></lf></lf></lf></sect>
+<sect> Amended by No. 74, 1946, s. 2.<lf>   12\. The particulars to be specified in the Householder's Schedule shall include the particulars following:-<lf> <lf>   (a)  the name, sex, age, condition as to, and duration of, marriage, relation to head of the household, profession or occupation, religion and birthplace, and (where the person was born abroad) length of residence in Australia and nationality of every person abiding in the dwelling during the night of the Census Day;<lf> <lf>   (b)  the material of the dwelling and the number of rooms contained therein;<lf> <lf>   (c)  any other prescribed matters.<lf> </lf></lf></lf></lf></lf></lf></lf></lf></sect>
 **<b>
 
-### <name>CENSUS AND STATISTICS ACT 1905 - SECT 14 Refusal or failure to answer questions etc. </name>
+### <name>CENSUS AND STATISTICS ACT 1905-1973 - SECT. 13\. Collectors to assist in filling up Schedules. </name>
 </b>** 
 
 ## SECT
-<sect>   14\. (1) A person who, without reasonable excuse, refuses or fails to comply with a direction served on the person under subsection 10 (4) or 11 (2) is, in respect of each day during which the person so refuses or fails to comply with the direction (including the day of a conviction under this section or any subsequent day), guilty of an offence punishable on conviction by a fine not exceeding $100.<lf>   (2) Subsection (1) does not apply in relation to a refusal or failure by a person to answer a question, or to supply particulars, relating to the person's religious beliefs. </lf></sect>
+<sect> Cf. N.S.W. 1900, No. 65, s. 9\. Amended by No. 33, 1920, s. 5.<lf>   13\. It shall be the duty of each Collector if requested to assist occupiers of dwellings in filling up the Householder's Schedule, and to satisfy himself by inquiries from occupiers of dwellings or other persons that the Householder's Schedule has been correctly filled up.<lf> </lf></lf></sect>
 **<b>
 
-### <name>CENSUS AND STATISTICS ACT 1905 - SECT 15 False or misleading statements etc. </name>
+### <name>CENSUS AND STATISTICS ACT 1905-1973 - SECT. 14\. Duty of persons to supply information to collectors. </name>
 </b>** 
 
 ## SECT
-<sect>   15\. A person shall not, in connection with:<lf>    (a) a requirement made of the person under subsection 10 (2);<lf>    (b) a request made of the person under subsection 10<lf> (3) or  11 (1); or<lf>    (c) a direction served on the person under subsection<lf> 10 (4) or  11 (2); make a statement, either orally or in writing, or furnish a document containing information, that is to his or her knowledge false or misleading in a material particular.<lf>   Penalty: $1,000\. </lf></lf></lf></lf></lf></lf></sect>
+<sect> Cf. ib. 21 (e). Amended by No. 93, 1966, s. 3.<lf>   14\. Every person shall, to the best of his knowledge and belief, answer all questions asked him by a Collector necessary to obtain any information required to be filled up and supplied in the Householder's Schedule.<lf> <lf>   Penalty: Twenty dollars.<lf> </lf></lf></lf></lf></sect>
 **<b>
 
-### <name>CENSUS AND STATISTICS ACT 1905 - SECT 16 Authorized officers </name>
+### <name>CENSUS AND STATISTICS ACT 1905-1973 - SECT. 15\. Returns of persons not abiding in dwellings. </name>
 </b>** 
 
 ## SECT
-<sect>   16\. The Statistician may, by instrument in writing, appoint a specified officer, or officers included in a specified class of officers, to be an authorized officer or authorized officers, as the case may be, for the purposes of this Act. </sect>
+<sect> Cf. ib. s. 7 (4). Amended by No. 33, 1920, s. 6; and No. 93, 1966, s. 3.<lf>   15\. (1) The Statistician shall obtain such returns and particulars as are prescribed with respect to persons who, during the night of the Census Day were not abiding in any dwelling.<lf> 
+
+  (2) Every person shall, on being required by the Statistician so to do, furnish to the best of his knowledge and belief any prescribed particulars relating to persons who were not abiding on the night of the Census Day in any dwelling.<lf> <lf>   Penalty for any offence against this sub-section: Twenty dollars.<lf> </lf></lf></lf>
+</lf></lf></sect>
 **<b>
 
-### <name>CENSUS AND STATISTICS ACT 1905 - SECT 17 Delegation </name>
+### <name>CENSUS AND STATISTICS ACT 1905-1973 - SECT. 15A. Publication of returns. </name>
 </b>** 
 
 ## SECT
-<sect>   17\. (1) The Statistician may, by signed instrument, delegate to an officer all or any of his or her powers under this Act or any other law.<lf>   (2) A power so delegated, when exercised by the delegate, shall, for the purposes of this Act or that other law, as the case may be, be deemed to have been exercised by the Statistician. </lf></sect>
+<sect> Inserted by No. 33, 1920, s. 7.<lf>   15A. (1) The Statistician shall compile and tabulate the Census returns collected pursuant to this Act and shall publish the results so obtained or abstracts thereof, as the Minister directs, with observations thereon.<lf> 
+
+  (2) All results or abstracts prepared for publication and the Statistician's observations thereon (if any) shall be laid before both Houses of the Parliament.<lf> </lf>
+</lf></lf></sect>
 **<b>
 
-### <name>CENSUS AND STATISTICS ACT 1905 - SECT 18 Powers of entry </name>
+### <name>CENSUS AND STATISTICS ACT 1905-1973 - SECT. 16\. Statistics to be collected. </name>
 </b>** 
 
 ## SECT
-<sect>   18\. (1) The Statistician or an authorized officer may, at all reasonable times, enter any premises included in a prescribed class of premises for the purpose of:<lf>    (a) supplying persons with forms;<lf>    (b) collecting forms that have been supplied to persons; and<lf>    (c) making inquiries for the purposes of this Act.<lf>   (2) In subsection (1), 'premises' means premises other than:<lf>    (a) a dwelling-house (including a flat or home unit); or<lf>    (b) a part of any other premises that is separately occupied or used for the<lf> purposes of the residence or sleeping accommodation of a person or persons. </lf></lf></lf></lf></lf></lf></lf></sect>
+<sect>                               PART  IV-STATISTICS<lf> Amended by No. 17, 1938, s. 3.<lf>   16\. The Statistician shall, subject to the regulations and the directions of the Minister, collect, at least annually, statistics in relation to all or any of the following matters:-<lf> <lf>   (a)  Population;<lf> <lf>   (b)  Vital, social, and industrial matters;<lf> <lf>   (c)  Employment and non-employment;<lf> <lf>   (d)  Imports and exports;<lf> <lf>   (e)  Inter-State trade;<lf> <lf>   (f)  Postal and telegraphic matters;<lf> <lf>   (g)  Factories, mines, and productive industries generally;<lf> <lf>   (h)  Agricultural, horticultural, viticultural, dairying, and pastoral industries;<lf> <lf>   (i)  Banking, insurance, and finance;<lf> <lf>   (j)  Railways, tramways, shipping, and transport;<lf> <lf>   (k)  Land tenure and occupancy; and<lf> <lf>   (l)  Any other prescribed matters.<lf> </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></sect>
 **<b>
 
-### <name>CENSUS AND STATISTICS ACT 1905 - SECT 19 Secrecy </name>
+### <name>CENSUS AND STATISTICS ACT 1905-1973 - SECT. 17\. Forms to be filled up. </name>
 </b>** 
 
 ## SECT
-<sect>   19\. (1) A person who is, or has been, the Statistician or an officer shall not, except:<lf>    (a) in accordance with a determination; or<lf>    (b) for the purposes of this Act; either directly or indirectly, divulge or<lf> communicate any information furnished in pursuance of this Act to any person (other than the person from whom the information was obtained).<lf>   (2) A person who contravenes subsection (1) or fails to comply with an undertaking of the kind referred to in paragraph 13 (2) (c) given by the person in relation to information disclosed to the person in accordance with a determination is guilty of an indictable offence punishable on conviction by a fine not exceeding $5,000 or imprisonment for a period not exceeding 2 years, or both. </lf></lf></lf></lf></sect>
+<sect> Substituted by No. 34, 1949, s. 3\. Sub-section (1) amended by No. 93, 1966, s. 3.<lf>   17\. (1) For the purpose of enabling the statistics referred to in this Part to be collected, the Statistician may require a person to fill up and supply, in accordance with the instructions contained in or accompanying a form supplied to that person by the Statistician, the particulars specified in that form, and that person shall, to the best of his knowledge, comply with the requirement.<lf> <lf>   Penalty: Twenty dollars.<lf> 
+
+  (2) A prosecution for a contravention of this section shall not be instituted without the consent of the Minister.<lf> </lf>
+</lf></lf></lf></lf></sect>
 **<b>
 
-### <name>CENSUS AND STATISTICS ACT 1905 - SECT 20 Prosecution of offences </name>
+### <name>CENSUS AND STATISTICS ACT 1905-1973 - SECT. 18\. Duty of persons to answer questions. </name>
 </b>** 
 
 ## SECT
-<sect>   20\. (1) An offence against this Act, other than an offence against subsection 19 (2), shall be prosecuted summarily.<lf>   (2) Notwithstanding that an offence against subsection 19 (2) is expressed by this Act to be an indictable offence, a court of summary jurisdiction may hear and determine proceedings in respect of such an offence if the court is satisfied that it is proper to do so and the defendant and the prosecutor consent.<lf>   (3) Where, in accordance with subsection (2), a court of summary jurisdiction convicts a person of an offence against subsection 19 (2), the penalty that the court may impose is a fine not exceeding $2,000 or imprisonment for a period not exceeding 12 months, or both. </lf></lf></sect>
+<sect> Substituted by No. 216, 1973, s. 3.<lf>   18\. (1) A person shall, to the best of his knowledge and belief, answer all questions asked him by the Statistician or an officer authorized in writing by the Statistician that are necessary to obtain any information required for the purposes of any statistics authorized by this Act to be collected.<lf> <lf>   Penalty: Twenty dollars.<lf> 
+
+  (2) A prosecution for a contravention of sub-section (1) shall not be instituted without the consent of the Minister.<lf> </lf>
+</lf></lf></lf></lf></sect>
 **<b>
 
-### <name>CENSUS AND STATISTICS ACT 1905 - SECT 21 Continuing offences </name>
+### <name>CENSUS AND STATISTICS ACT 1905-1973 - SECT. 19\. Powers of entry and inspection. </name>
 </b>** 
 
 ## SECT
-<sect>   21\. Where under subsection 10 (4) or 11 (2) an act or thing is required to be done within a particular period or before a particular time, the obligation to do that act or thing continues, notwithstanding that that period has expired or that time has passed, until that act or thing is done. </sect>
+<sect> Cf. N.S.W. 1900, No. 65, s. 19.<lf>   19\. (1) For the purpose of making any inquiries or observations necessary for the proper carrying out of this Act, the Statistician or any officer authorized in writing by him may, at any time during working hours enter any factory, mine, workshop, or place where persons are employed, and may inspect any part of it, and all plant and machinery used in connexion with it, and may make such inquiries as are prescribed or allowed by the regulations.<lf> Amended by No. 93, 1966, s. 3\. 
+
+  (2) No person shall hinder or obstruct the Statistician or any officer authorized in writing by him in the execution of any power conferred by this section.<lf> <lf>   Penalty: Twenty dollars.<lf> </lf></lf></lf>
+</lf></lf></sect>
 **<b>
 
-### <name>CENSUS AND STATISTICS ACT 1905 - SECT 22 Joinder of charges and penalties for certain offences </name>
+### <name>CENSUS AND STATISTICS ACT 1905-1973 - SECT. 20\. Publication of statistics. </name>
 </b>** 
 
 ## SECT
-<sect>   22\. (1) Charges against the same person for any number of offences against section 14 may be joined in the same information or complaint if those offences relate to a failure to do the same act or thing.<lf>   (2) If a person is convicted of 2 or more offences referred to in subsection (1), being offences related to a failure to do the same act or thing, the court may impose one penalty in respect of both or all of those offences, but that penalty shall not exceed the sum of the maximum penalties that could be imposed if a penalty were imposed in respect of each offence separately. </lf></sect>
+<sect> Cf. Canada, 1886, ch. 59, s. 11.<lf>   20\. (1) The Statistician shall compile and tabulate the statistics collected pursuant to this Act and shall publish such statistics or abstracts thereof, as the Minister directs, with observations thereon.*<lf> 
+
+  (2) All statistics or abstracts prepared for publication and the Statistician's observations thereon (if any) shall be laid before both Houses of the Parliament.<lf> Added by No. 34, 1949, s. 4\. <p>  (3) This section shall not authorize the publication of any matter the publication of which by the Statistician otherwise than under this section would be a contravention of section twenty-four of this Act.<lf> </lf></p></lf>
+</lf></lf></sect>
 **<b>
 
-### <name>CENSUS AND STATISTICS ACT 1905 - SECT 27 Regulations </name>
+### <name>CENSUS AND STATISTICS ACT 1905-1973 - SECT. 21\. Person not bound to state his religion. </name>
 </b>** 
 
 ## SECT
-<sect>   27\. The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters and things which, by this Act, are required or permitted to be prescribed, or which are necessary or convenient to be prescribed for carrying out or giving effect to this Act and in particular for prescribing penalties not exceeding $500 for offences against the regulations. </sect>
+<sect>                              PART  V-MISCELLANEOUS<lf> Cf. N.S.W. 1900, s. 21 (2)<lf>   21\. No person shall be liable to any penalty for omitting or refusing to state the religious denomination or sect to which he belongs or adheres.<lf> </lf></lf></lf></sect>
+**<b>
+
+### <name>CENSUS AND STATISTICS ACT 1905-1973 - SECT. 22\. Desertion by officers. </name>
+</b>** 
+
+## SECT
+<sect> Cf. ib. s. 23.<lf> Amended by No. 33, 1920, s. 8; and No. 93, 1966, s. 3.<lf>   22\. No officer, after having signed the prescribed undertaking, shall desert from his duty, or shall refuse or wilfully neglect, without just excuse, to perform the duties of his office.<lf> <lf>   Penalty: Forty dollars.<lf> </lf></lf></lf></lf></lf></sect>
+**<b>
+
+### <name>CENSUS AND STATISTICS ACT 1905-1973 - SECT. 23\. Untrue returns by officers. </name>
+</b>** 
+
+## SECT
+<sect> Cf. ib. s. 23 (b). Amended by No. 93, 1966, s. 3.<lf>   23\. No officer shall wilfully or without lawful authority alter any document or form under this Act or shall wilfully sign any untrue document or form.<lf> <lf>   Penalty: One hundred dollars.<lf> </lf></lf></lf></lf></sect>
+**<b>
+
+### <name>CENSUS AND STATISTICS ACT 1905-1973 - SECT. 24\. Officers and occupiers to observe secrecy. </name>
+</b>** 
+
+## SECT
+<sect> Cf. ib. s. 24.<lf> Substituted by No. 34, 1949, s. 5; amended by No. 93, 1966, s. 3.<lf>   24\. The Statistician, an officer, or the occupier of a dwelling, shall not, except as allowed by this Act, divulge the contents of any form filled up, or any information furnished-<lf> <lf>   (a)  in pursuance of this Act; or<lf> <lf>   (b)  at the request of the Statistician, for statistical purposes.<lf> <lf>   Penalty: One hundred dollars.<lf> </lf></lf></lf></lf></lf></lf></lf></lf></lf></sect>
+**<b>
+
+### <name>CENSUS AND STATISTICS ACT 1905-1973 - SECT. 25\. Forgery of forms. </name>
+</b>** 
+
+## SECT
+<sect>   25\. Any person who forges, or utters knowing it to be forged, any form or document under this Act, shall be guilty of an indictable offence, and liable to imprisonment for a term not exceeding three years.<lf> </lf></sect>
+**<b>
+
+### <name>CENSUS AND STATISTICS ACT 1905-1973 - SECT. 26\. Penalty for false returns or answers. </name>
+</b>** 
+
+## SECT
+<sect> Cf. ib. s. 21 (d).<lf> Amended by No. 93, 1966, s. 3.<lf>   26\. No person shall knowingly make in any form or document filled up or supplied in pursuance of this Act or in answer to any question asked him under the authority of this Act any statement which is untrue in any material particular.<lf> <lf>   Penalty: One hundred dollars.<lf> </lf></lf></lf></lf></lf></sect>
+**<b>
+
+### <name>CENSUS AND STATISTICS ACT 1905-1973 - SECT. 27\. Regulations. </name>
+</b>** 
+
+## SECT
+<sect> Amended by No. 33, 1920, s. 10; and No. 93, 1966, s. 3.<lf>   27\. The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters and things which, by this Act, are required or permitted to be prescribed, or which are necessary or convenient to be prescribed for carrying out or giving effect to this Act and in particular for prescribing penalties not exceeding One hundred dollars for breaches of the regulations.<lf> ------------------------------------------------------------------------------ -- <lf> </lf></lf></lf></sect>
+**<b>
+
+### <name>CENSUS AND STATISTICS ACT 1905-1973 - NOTES </name>
+</b>** <lf>                                      NOTES<lf> 1\.  The Census and Statistics Act 1905-1973 comprises the Census and Statistics Act 1905 as amended by the other Acts specified in the following table:<lf> ---------------------------------------------------------------------------- <lf> <lf>                                Number                     Date of<lf>     Act                        and year     Date of Assent commencement<lf> ---------------------------------------------------------------------------- <lf> <lf>     Census and Statistics Act<lf>     1905                       No. 15, 1905 8 Dec 1905    8 Dec 1905<lf>     Census and Statistics Act<lf>     1920                       No. 33, 1920 11 Oct 1920   11 Oct 1920<lf>     Census and Statistics Act<lf>     1930                       No. 18, 1930 21 July 1930  21 July 1930<lf>     Census and Statistics Act<lf>     1938                       No. 17, 1938 5 July 1938   5 July 1938<lf>     Census and Statistics Act<lf>     1946                       No. 74, 1946 14 Dec 1946   11 Jan 1947<lf>     Census and Statistics Act<lf>     1949                       No. 34, 1949 12 July 1949  12 July 1949<lf>     Statute Law Revision<lf>     (Decimal<lf>      Currency) Act 1966        No. 93, 1966 29 Oct 1966   1 Dec 1966<lf>     Statute Law Revision Act<lf>     1973                       No. 216, 1973 19 Dec 1973  31 Dec 1973<lf> ---------------------------------------------------------------------------- <lf> 2.-S. 4-Sub-section 5 (3) of the Statistics (Arrangements with States) Act 1956-1958 provides that an arrangement may be made between the Commonwealth and a State whereby the Government Statistician of that State may be appointed to the position of Commonwealth Statistician under section 4 of the Census and Statistics Act and may continue to hold his State office.<lf> 3.-S. 6-Section 5 of the Statistics (Arrangements with States) Act 1956-1958 makes provision for arrangements to be made between the Commonwealth and the States relating, inter alia, to the collection of statistics.<lf> 4.-S. 8-The first Census under this Act was taken on 3 April 1911, the second on 4 April 1921, the third on 30 June 1933, the fourth on 30 June 1947, the fifth on 30 June 1954, the sixth on 30 June 1961, the seventh on 30 June 1966 and the eighth on 30 June 1971.<lf> 5.-S. 20 (1)-Section 10A of the Evidence Act 1905-1973 provides as follows:-<lf> <lf>    ''10A. (1) The mere production of a document purporting to be published by the Statistician and to contain statistics or abstracts thereof compiled and tabulated by the Statistician pursuant to the Census and Statistics Act 1905-1930 shall in all Courts be evidence that those statistics or abstracts were compiled and tabulated by the Statistician pursuant to that Act.<lf> <lf>    ''(2) In this section, 'the Statistician' means the Commonwealth Statistician appointed under section four of the Census and Statistics Act 1905-1930, and includes any person to whom the Statistician has, under section five of that Act, delegated the power to compile, tabulate and publish the statistics collected pursuant to that Act.'' </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf>
