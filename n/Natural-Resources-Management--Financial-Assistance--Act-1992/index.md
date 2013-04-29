@@ -1,98 +1,101 @@
-![](http://www.comlaw.gov.au/Details/C2011C00302/Html/0a50e4b4-796a-4da4-a029-a983f7bf6341_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00191/Html/C7FCF1A188026898CA25715600220CE4/$FILE/image001.gif)
 
 # Natural Resources Management (Financial Assistance) Act 1992
 
 **Act No. 242 of 1992 as amended**
 
-This compilation was prepared on 19 April 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 12 April 2006
+taking into account amendments up to Act No. 30 of 2006
 
 The text of any of those amendments not in force 
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+Attorney-General’s Department, 
+Canberra
+
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Objects
+[3](#3).            Objects                                                                                                 1
 
-[4](#4).            Interpretation
+[4](#4).            Interpretation                                                                                       2
 
 **Part 2—Financial assistance**
 
-[5](#5).            Agreements with States
+[5](#5).            Agreements with States                                                                       3
 
-[6](#6).            Agreements with other persons
+[6](#6).            Agreements with other persons                                                           3
 
-[7](#7).            Matters to be provided for in an agreement
+[7](#7).            Matters to be provided for in an agreement                                        4
 
-[8](#8).            Payments to be subject to conditions
+[8](#8).            Payments to be subject to conditions                                                  4
 
-[9](#9).            Conditions relating to audit requirements
+[9](#9).            Conditions relating to audit requirements                                            5
 
-[10](#10).          Other conditions
+[10](#10).          Other conditions                                                                                  7
 
 **Part 3—Natural Resources Management Account**
 
-[11](#11).          Natural Resources Management Account
+[11](#11).          Natural Resources Management Account                                           8
 
-[12](#12).          Application of gifts or bequests
+[12](#12).          Application of gifts or bequests                                                          9
 
-[12A](#12A).       Delegation of trust etc  obligations
+[12A](#12A).       Delegation of trust etc  obligations                                                      9
 
 **Part 4—Australian Landcare Council** 
 
     **Division 1—The Council**
 
-[13](#13).          Australian Landcare Council
+[13](#13).          Australian Landcare Council                                                              11
 
-[14](#14).          Constitution of Council
+[14](#14).          Constitution of Council                                                                     11
 
     **Division 2—Meetings of the Council**
 
-[15](#15).          Convening of meetings
+[15](#15).          Convening of meetings                                                                       12
 
-[16](#16).          Presiding at meetings
+[16](#16).          Presiding at meetings                                                                         12
 
-[17](#17).          Quorum
+[17](#17).          Quorum                                                                                              12
 
-[18](#18).          Voting at meetings
+[18](#18).          Voting at meetings                                                                             12
 
     **Division 3—Provisions relating to members**
 
-[19](#19).          Chairperson
+[19](#19).          Chairperson                                                                                       13
 
-[20](#20).          Deputy member
+[20](#20).          Deputy member                                                                                 13
 
-[21](#21).          Remuneration and allowances
+[21](#21).          Remuneration and allowances                                                            13
 
-[22](#22).          Termination of appointment and resignation
+[22](#22).          Termination of appointment and resignation                                    14
 
-[23](#23).          Disclosure of interests
+[23](#23).          Disclosure of interests                                                                       14
 
 **Part 5—Miscellaneous**
 
-[24](#24).          Repeal of Acts
+[24](#24).          Repeal of Acts                                                                                   16
 
-[25](#25).          Transitional arrangements
+[25](#25).          Transitional arrangements                                                                  16
 
-[26](#26).          Annual report in relation to operation of the Act etc 
+[26](#26).          Annual report in relation to operation of the Act etc                        16
 
-[27](#27).          Annual report of the Council
+[27](#27).          Annual report of the Council                                                             17
 
-[28](#28).          Regulations
+[28](#28).          Regulations                                                                                        17
 
 **Notes** 
+
 
 ## An Act to grant financial assistance in connection with projects relating to natural resources management, to establish a Natural Resources Management Account, to establish an Australian Landcare Council, and for related purposes
 
@@ -138,8 +141,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="council"></a>**_Council_** means the Australian Landcare Council established by section 13.
 
-                    <a name="environ-minist"></a>**_Environment Minister_** means the Minister administering the _Environment Protection and Biodiversity Conservation Act 1999_.
-
                     <a name="member"></a>**_member_** means a member of the Council, and includes the Chairperson.
 
                     <a name="natur-resourc-manag"></a>**_natural resources management_** means:
@@ -158,7 +159,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="project"></a>**_project_** means a project relating to natural resources management.
 
-                    <a name="state"></a>**_State_** includes the Australian Capital   Territory and the Northern Territory.
+                    <a name="state"></a>**_State_** includes the Australian Capital Territory and the Northern Territory.
 
              (2)  A reference in a provision of this Act to an authorised officer is a reference to an officer authorised in writing by the Minister for the purposes of the provision.
 
@@ -250,7 +251,7 @@ the payee must repay to the Commonwealth the whole, or such part as the Minister
 
              (3)  For the purposes of subsection (2), if the agreement is made under section 5, the certificate:
 
-                     (a)  must be given by a person (**_the responsible person_**) who is the Auditor‑General of the State, or the head of the Department or authority of the State responsible for the spending; and
+                     (a)  must be given by a person (**_the responsible person_**) who is the Auditor-General of the State, or the head of the Department or authority of the State responsible for the spending; and
 
                      (b)  is to certify, in relation to each amount shown in the statement as having been spent:
 
@@ -262,7 +263,7 @@ the payee must repay to the Commonwealth the whole, or such part as the Minister
 
                      (a)  must be given by a person (**_the responsible person_**) who is:
 
-                              (i)  if the payee is an association, authority, body, institution or other organisation whose accounts are required by law to be audited by the Auditor‑General of the Commonwealth or of the State—the head of the association, authority, body, institution or other organisation; or
+                              (i)  if the payee is an association, authority, body, institution or other organisation whose accounts are required by law to be audited by the Auditor-General of the Commonwealth or of the State—the head of the association, authority, body, institution or other organisation; or
 
                              (ii)  if subparagraph (i) does not apply—a qualified accountant; and
 
@@ -392,7 +393,7 @@ in accordance with the obligations of the Minister as trustee of the trust or as
 
              (2)  The functions of the Council are:
 
-                     (a)  to make recommendations to the Minister and Environment Minister on:
+                     (a)  to make recommendations to the Minister and the Minister for the Arts, Sport, the Environment and Territories on:
 
                               (i)  matters concerning natural resources management; and
 
@@ -406,7 +407,7 @@ in accordance with the obligations of the Minister as trustee of the trust or as
 
              (2)  The members are to be appointed by the Minister.
 
-             (3)  The members are to hold office on a part‑time basis.
+             (3)  The members are to hold office on a part-time basis.
 
              (4)  A member (other than a member mentioned in subsection (6)) is to be a person with experience in, or special knowledge of, any aspects of natural resources management.
 
@@ -432,7 +433,7 @@ in accordance with the obligations of the Minister as trustee of the trust or as
 
 ##### <a id="17"></a>17  Quorum
 
-                   At a meeting, the number of members equal to two‑thirds of the current membership constitutes a quorum.
+                   At a meeting, the number of members equal to two-thirds of the current membership constitutes a quorum.
 
 ##### <a id="18"></a>18  Voting at meetings
 
@@ -550,11 +551,14 @@ during that financial year.
 
 ##### <a id="28"></a>28  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing matters:
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+
+ 
+
 
 # Notes to the _Natural Resources Management (Financial Assistance) Act 1992_
 
@@ -582,11 +586,13 @@ For all relevant information pertaining to application, saving or transitional p
     </td>
     <td>
       <div>Number 
-and Year</div>
+and Year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -596,132 +602,117 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Natural Resources Management (Financial Assistance) Act 1992</div>
-  </td>
-  <td>
-    <div>242, 1992</div>
-  </td>
-  <td>
-    <div>24 Dec 1992</div>
-  </td>
-  <td>
-    <div>24 Dec 1992</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Audit (Transitional and Miscellaneous) Amendment Act 1997</div>
-  </td>
-  <td>
-    <div>152, 1997</div>
-  </td>
-  <td>
-    <div>24 Oct 1997</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 
-1056–1068): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(a)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
-  </td>
-  <td>
-    <div>146, 1999</div>
-  </td>
-  <td>
-    <div>11 Nov 1999</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 686): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(b)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 2) 1999</div>
-  </td>
-  <td>
-    <div>170, 1999</div>
-  </td>
-  <td>
-    <div>10 Dec 1999</div>
-  </td>
-  <td>
-    <div>Schedule 4: Royal Assent <i>(c)</i></div>
-  </td>
-  <td>
-    <div>Sch. 4 (item 24)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Framework Legislation Amendment Act 2005</div>
-  </td>
-  <td>
-    <div>8, 2005</div>
-  </td>
-  <td>
-    <div>22 Feb 2005</div>
-  </td>
-  <td>
-    <div>S. 4 and Schedule 1 (items 256–263, 496): Royal Assent</div>
-  </td>
-  <td>
-    <div>S. 4 and Sch. 1 (item 496)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Framework Legislation Amendment Act (No. 1) 2006</div>
-  </td>
-  <td>
-    <div>30, 2006</div>
-  </td>
-  <td>
-    <div>6 Apr 2006</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 37–40): 7 Apr 2006</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 40)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 5 (items 168, 169): 19 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Natural Resources Management (Financial Assistance) Act 1992</div>
+    </td>
+    <td>
+      <div>242, 1992</div>
+    </td>
+    <td>
+      <div>24 Dec 1992</div>
+    </td>
+    <td>
+      <div>24 Dec 1992</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Audit (Transitional and Miscellaneous) Amendment Act 1997</div>
+    </td>
+    <td>
+      <div>152, 1997</div>
+    </td>
+    <td>
+      <div>24 Oct 1997</div>
+    </td>
+    <td>
+      <div>Schedule 2 (items 1056–1068): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(a)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
+    </td>
+    <td>
+      <div>146, 1999</div>
+    </td>
+    <td>
+      <div>11 Nov 1999</div>
+    </td>
+    <td>
+      <div>Schedule 1 (item 686): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(b)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 2) 1999</div>
+    </td>
+    <td>
+      <div>170, 1999</div>
+    </td>
+    <td>
+      <div>10 Dec 1999</div>
+    </td>
+    <td>
+      <div>Schedule 4: Royal Assent <i>(c)</i></div>
+    </td>
+    <td>
+      <div>Sch. 4 (item 24)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Financial Framework Legislation Amendment Act 2005</div>
+    </td>
+    <td>
+      <div>8, 2005</div>
+    </td>
+    <td>
+      <div>22 Feb 2005</div>
+    </td>
+    <td>
+      <div>S. 4 and Schedule 1 (items 256–263, 496): Royal Assent</div>
+    </td>
+    <td>
+      <div>S. 4 and Sch. 1 (item 496)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Financial Framework Legislation Amendment Act (No. 1) 2006</div>
+    </td>
+    <td>
+      <div>30, 2006</div>
+    </td>
+    <td>
+      <div>6 Apr 2006</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 37–40): 7 Apr 2006</div>
+    </td>
+    <td>
+      <div>Sch. 1 (item 40)</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 _(a)_     The _Natural Resources Management (Financial Assistance) Act 1992_ was amended by Schedule 2 (items 1056–1068) of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
 
                  (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
 
-_(b)_     The _Natural Resources Management (Financial Assistance) Act 1992_ was amended by Schedule 1 (item 686) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+_(b)_    The _Natural Resources Management (Financial Assistance) Act 1992_ was amended by Schedule 1 (item 686) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
 
                  (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
 
@@ -730,6 +721,7 @@ _(b)_     The _Natural Resources Management (Financial Assistance) Act 1
 _(c)_     The _Natural Resources Management (Financial Assistance) Act 1992_ was amended by Schedule 4 only of the _Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 2) 1999_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+
 
 ## Table of Amendments
 
@@ -774,7 +766,7 @@ _(c)_     The _Natural Resources Management (Financial Assistance) Act 1
       <div>S. 4</div>
     </td>
     <td>
-      <div>am. No. 152, 1997; Nos. 146 and 170, 1999; No. 8, 2005; No. 5, 2011</div>
+      <div>am. No. 152, 1997; Nos. 146 and 170, 1999; No. 8, 2005</div>
     </td>
   </tr>
   <tr>
@@ -886,7 +878,7 @@ _(c)_     The _Natural Resources Management (Financial Assistance) Act 1
       <div>S. 13</div>
     </td>
     <td>
-      <div>am. No. 170, 1999; No. 5, 2011</div>
+      <div>am. No. 170, 1999</div>
     </td>
   </tr>
   <tr>
@@ -977,7 +969,9 @@ _(c)_     The _Natural Resources Management (Financial Assistance) Act 1
       <div>am. No. 170, 1999</div>
     </td>
   </tr>
-</thead></table>
+</thead>
+<tbody></tbody></table>
+
 
 ## Table A
 
@@ -987,7 +981,9 @@ _Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 2) 1999 (N
 
 ## Schedule 4
 
-## 24  Transitional—continuity of membership etc. not affected by amendments
+## Part 3—Transitional
+
+##### <a id="24"></a>24  Transitional—continuity of membership etc. not affected by amendments
 
 The amendments made by this Schedule do not affect:
 
@@ -995,7 +991,9 @@ The amendments made by this Schedule do not affect:
 
                      (b)  the continuing validity of the appointment of the members, the Chairperson, and any deputy members, of the Council.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)_
 
@@ -1019,9 +1017,11 @@ then the thing has the corresponding effect, for the purposes of the Part 2 Ac
 
 If a determination under subsection 20(1) of the _Financial Management and Accountability Act 1997_ is in force immediately before the commencement of this item, the determination continues in force as if it were made under subsection 20(1) of that Act as amended by this Act.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
 
-_Financial Framework Legislation Amendment Act (No. 1) 2006 (No. 30, 2006)_
+ </div>
+
+_Financial Framework Legislation Amendment Act (No. 1) 2006 (No. 30, 2006)_
 
 ## Schedule 1
 
@@ -1038,5 +1038,8 @@ then, for the purposes of section 12 of the _Natural Resources Management (Fin
                      (c)  if paragraph (a) applies—held on trust for the same purposes by the Minister mentioned in that section; or
 
                      (d)  if paragraph (b) applies—held and accepted subject to the same condition by the Minister mentioned in that section.
+
+
+ 
 
  
