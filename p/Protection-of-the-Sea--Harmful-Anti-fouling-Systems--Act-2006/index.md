@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00153/Html/4c2f93b4-624f-4c81-8357-6572cd81c8ba_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00117/Html/1a93b74a-0e0d-4967-b29d-e1decfcdefcd_files/image001.gif)
 
 # Protection of the Sea (Harmful Anti‑fouling Systems) Act 2006
 
 **Act No. 107 of 2006 as amended**
 
-This compilation was prepared on 30 January 2012
+This compilation was prepared on 27 December 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force 
@@ -549,7 +549,7 @@ Status of certificate and endorsement
 
                      (b)  after the coating or treatment is applied, the ship is taken to sea without the certificate having been endorsed in respect of the coating or treatment.
 
-##### <a id="12"></a>12  Cancellation of anti‑fouling certificates
+##### <a id="12"></a>12  Cancellation of anti‑fouling certificates
 
              (1)  The Authority may cancel an anti‑fouling certificate that is in force in respect of an Australian ship if the Authority has reason to believe that:
 
@@ -841,8 +841,6 @@ Note:          For strict liability, see section 6.1 of the 
 
 Note:          For strict liability, see section 6.1 of the _Criminal Code_.
 
-             (6)  While a ship is detained under subsection (1), a person does not have the power of seizure provided for by section 123 of the _Personal Property Securities Act 2009_ in relation to the ship.
-
 ##### <a id="19"></a>19  Compensation for undue detention or delay
 
              (1)  If a ship is unduly detained or delayed under this Act, then the Authority is liable to pay the owner reasonable compensation for any loss or damage suffered by the owner as a result of the undue detention or delay.
@@ -1036,7 +1034,7 @@ Remainder: Royal Assent</div>
     <div>14 Dec 2009</div>
   </td>
   <td>
-    <div>Schedule 3 (item 12): 30 Jan 2012 ( <i>see</i>F2011L02397)</div>
+    <div>Schedule 3 (item 12): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -1118,22 +1116,6 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div><b>Part 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18</div>
-  </td>
-  <td>
-    <div>am. No. 131, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part 5</b></div>
   </td>
   <td>
@@ -1148,6 +1130,23 @@ Remainder: Royal Assent</div>
     <div>am. No. 8, 2010</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Personal Property Securities (Consequential Amendments) Act 2009
+ (No. 131, 2009)_
+
+The following amendment commences on 30 January 2012 (_see_ section 306 of the _Personal Property Securities Act 2009_ and F2011L02397):
+
+## Schedule 3
+
+## 12  At the end of section 18
+
+Add:
+
+             (6)  While a ship is detained under subsection (1), a person does not have the power of seizure provided for by section 123 of the _Personal Property Securities Act 2009_ in relation to the ship.
+
+As at 27 December 2011 the amendment is not incorporated in this compilation.
 
 ## Table A
 
