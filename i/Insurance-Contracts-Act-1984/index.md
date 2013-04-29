@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00415/Html/InsContracts1984WD2002_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00234/Html/InsContracts1984WD2002_image001.gif)
 
 # Insurance Contracts Act 1984
 
 **Act No. 80 of 1984 as amended**
 
-This compilation was prepared on 14 July 2008
- taking into account amendments up to Act No. 73 of 2008
+This compilation was prepared on 2 July 2008
+ taking into account amendments up to Act No. 54 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -840,7 +840,7 @@ but does not apply where:
 
              (4)  If the insurer has not avoided the contract, whether under subsection (2) or (3) or otherwise, the insurer may, by notice in writing given to the insured before the expiration of 3 years after the contract was entered into, vary the contract by substituting for the sum insured (including any bonuses) a sum that is not less than the sum ascertained in accordance with the formula
 
-![](http://www.comlaw.gov.au/Details/C2008C00415/Html/InsContracts1984WD2002_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00234/Html/InsContracts1984WD2002_image002.gif)
 
 where:
 
@@ -858,7 +858,7 @@ where:
 
              (1)  In this section, **_the standard formula_**, in relation to a contract of life insurance means the formula
 
-![](http://www.comlaw.gov.au/Details/C2008C00415/Html/InsContracts1984WD2002_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00234/Html/InsContracts1984WD2002_image002.gif)
 
 where:
 
@@ -1052,7 +1052,7 @@ the provision is void.
 
                      (b)  but for this subsection, an average provision included in the contract would have the effect of reducing the liability of the insurer in respect of loss of or damage to the property to an amount that is less than the amount ascertained in accordance with the formula
 
-![](http://www.comlaw.gov.au/Details/C2008C00415/Html/InsContracts1984WD2002_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00234/Html/InsContracts1984WD2002_image003.gif)
 
                             where:
 
@@ -1098,7 +1098,7 @@ at the time when the relevant contract was entered into.
 
              (2)  Subject to the contract, a person who has such a right:
 
-                     (a)  has, in relation to the person’s claim, the same obligations to the insurer as the person would have if the person were the insured; and
+                     (a)  has, in relation to the person’s claim, the same obligations to the insurer as the person would have if he were the insured; and
 
                      (b)  may discharge the insured’s obligations in relation to the loss.
 
@@ -1350,7 +1350,7 @@ then, by force of this section, there exists between the parties to the original
 
              (6)  If the claim is not for total loss of the property insured, the premium is an amount worked out in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00415/Html/InsContracts1984WD2002_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00234/Html/InsContracts1984WD2002_image004.gif)
 
 where:
 
@@ -1360,7 +1360,7 @@ where:
 
                     period of original contract means the number of days in the period of the original contract.
 
-##### <a id="59"></a>59  Cancellation procedure
+##### <a id="59"></a>59  Cancellation procedure
 
              (1)  An insurer who wishes to exercise a right to cancel a contract of insurance shall give notice in writing of the proposed cancellation to the insured.
 
@@ -1470,7 +1470,7 @@ the insurer may at any time cancel the contract.
 
              (3)  Where the third party is not insured in respect of the third party’s liability to the insured, the insurer does not have the right to be subrogated to the rights of the insured against the third party in respect of the loss.
 
-             (4)  Where the third party is so insured, the insurer may not, in the exercise of the insurer’s rights of subrogation, recover from the third party an amount that exceeds the amount that the third party may recover under the third party’s contract of insurance in respect of the loss.
+             (4)  Where the third party is so insured, the insurer may not, in the exercise of the insurer’s rights of subrogation, recover from the third party an amount that exceeds the amount that the third party may recover under his contract of insurance in respect of the loss.
 
              (5)  An insured need not comply with a condition requiring the insured to assign those rights to the insurer in order to be entitled to payment in respect of the loss and an insurer shall not purport to impose such a condition on the making of such a payment or, before making such a payment, invite the insured so to assign those rights, or suggest that the insured so assign them.
 
@@ -1620,11 +1620,11 @@ Note:          A defendant bears an evidential burden in relat
 
                      (b)  cancels such a contract;
 
-                     (c)  indicates to the insured that the insurer does not propose to renew the insurance cover provided under such a contract; or
+                     (c)  indicates to the insured that he does not propose to renew the insurance cover provided under such a contract; or
 
-                     (d)  by reason of some special risk relating to the life insured, offers life insurance cover to the insured on terms that are less advantageous to the insured than the terms that the insurer would otherwise offer;
+                     (d)  by reason of some special risk relating to the life insured, offers life insurance cover to the insured on terms that are less advantageous to the insured than the terms that he would otherwise offer;
 
-the insurer shall, if the life insured so requests in writing given to the insurer, give to the life insured a statement in writing setting out the insurer’s reasons for not accepting the offer, for cancelling the contract, for not renewing the insurance cover or for offering life insurance cover on less advantageous terms, as the case may be, being reasons that relate to the state of health of the life insured.
+the insurer shall, if the life insured so requests in writing given to the insurer, give to the life insured a statement in writing setting out his reasons for not accepting the offer, for cancelling the contract, for not renewing the insurance cover or for offering life insurance cover on less advantageous terms, as the case may be, being reasons that relate to the state of health of the life insured.
 
                     Penalty:  300 penalty units.
 
@@ -2139,23 +2139,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Schedule 1 (item 5): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2008</div>
-  </td>
-  <td>
-    <div>73, 2008</div>
-  </td>
-  <td>
-    <div>3 July 2008</div>
-  </td>
-  <td>
-    <div>Schedule 4 (items 343–347): 4 July 2008</div>
   </td>
   <td>
     <div>—</div>
@@ -2732,7 +2715,7 @@ _(l)_ The _Insurance Contracts Act 1984_ was amended by Schedule 1 (items 24
     <div>S. 48</div>
   </td>
   <td>
-    <div>am. No. 5, 1995; No. 107, 1997; No. 73, 2008</div>
+    <div>am. No. 5, 1995; No. 107, 1997</div>
   </td>
 </tr>
 <tr>
@@ -2924,7 +2907,7 @@ _(l)_ The _Insurance Contracts Act 1984_ was amended by Schedule 1 (items 24
     <div>S. 65</div>
   </td>
   <td>
-    <div>am. No. 49, 1994; No. 107, 1997; No. 73, 2008</div>
+    <div>am. No. 49, 1994; No. 107, 1997</div>
   </td>
 </tr>
 <tr>
@@ -3028,7 +3011,7 @@ _(l)_ The _Insurance Contracts Act 1984_ was amended by Schedule 1 (items 24
     <div>S. 75</div>
   </td>
   <td>
-    <div>am. No. 49, 1994; Nos. 20 and 107, 1997; No. 73, 2008</div>
+    <div>am. No. 49, 1994; Nos. 20 and 107, 1997</div>
   </td>
 </tr>
 <tr>
