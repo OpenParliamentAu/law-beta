@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00202/Html/0b2aa709-c5df-498f-b703-f05f219b86ca_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00763/Html/6aaad336-71b4-487d-9f0b-5d238b6489dc_files/image001.gif)
 
 # Fisheries Administration Act 1991
 
 **Act No. 161 of 1991 as amended**
 
-This compilation was prepared on 31 January 2012
+This compilation was prepared on 20 September 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
@@ -724,13 +724,23 @@ the Deputy Chairperson is to act as Chairperson.
 
 ##### <a id="14"></a>14  Acting CEO
 
-                   The Minister may appoint a person to act as the CEO:
+             (1)  The Minister may appoint a person to act as the CEO:
 
                      (a)  during a vacancy in the office of CEO (whether or not an appointment has previously been made to the office); or
 
                      (b)  during any period, or during all periods, when the CEO is absent from duty or from Australia, or is, for any reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+             (2)  Anything done by or in relation to a person purporting to act under an appointment is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
+
+Note:          See section 33A of the _Acts Interpretation Act 1901_.
 
 ##### <a id="15"></a>15  Other employment
 
@@ -1050,13 +1060,23 @@ the member must, as soon as practicable after the relevant facts have come to th
 
 ##### <a id="61"></a>61  Acting Chairperson
 
-                   The Authority may appoint a person to act as the Chairperson of a management advisory committee:
+             (1)  The Authority may appoint a person to act as the Chairperson of a management advisory committee:
 
                      (a)  during a vacancy in the office of Chairperson of the committee (whether or not an appointment has previously been made to the office); or
 
-                     (b)  during any period, or during all periods, when the Chairperson of the committee is absent from duty or from Australia or is, for any other reason, unable to perform the duties of the office.
+                     (b)  during any period, or during all periods, when the Chairperson of the committee is absent from duty or from Australia or is, for any other reason, unable to perform the duties of the office;
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+but a person appointed to act during a vacancy must not continue so to act for more than 12 months.
+
+             (2)  Anything done by or in relation to a person purporting to act as Chairperson of a management advisory committee is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion for the person to act as Chairperson had not arisen or had ceased.
 
 ##### <a id="62"></a>62  Appointment of members
 
@@ -1520,7 +1540,7 @@ Note:          An Appropriation Act may contain a provision to
 
              (1)  The **_adjusted levy amounts_** to be credited to the AFMA Special Account under paragraph 94C(a) are the amounts worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00202/Html/0b2aa709-c5df-498f-b703-f05f219b86ca_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00763/Html/6aaad336-71b4-487d-9f0b-5d238b6489dc_files/image002.gif)
 
                    where:
 
@@ -1706,13 +1726,23 @@ other than an amount that is declared by the regulations not to be a levy amount
 
 ##### <a id="103"></a>103  Acting Chairperson
 
-                   The Minister may appoint a person to act in the office of Chairperson:
+             (1)  The Minister may appoint a person to act in the office of Chairperson:
 
                      (a)  during a vacancy in the office of Chairperson (whether or not an appointment has previously been made to the office); or
 
-                     (b)  during any period, or during all periods, when the Chairperson is absent from duty or from Australia or is, for any other reason, unable to perform the duties of the office.
+                     (b)  during any period, or during all periods, when the Chairperson is absent from duty or from Australia or is, for any other reason, unable to perform the duties of the office;
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+but a person appointed to act during a vacancy must not continue so to act for more than 12 months.
+
+             (2)  Anything done by or in relation to a person purporting to act under subsection (1) is not invalid merely because:
+
+                     (a)  the occasion for the person’s appointment had not arisen; or
+
+                     (b)  there is a defect or irregularity in connection with the person’s appointment; or
+
+                     (c)  the person’s appointment had ceased to have effect; or
+
+                     (d)  the occasion for the person to act had not arisen or had ceased.
 
 ##### <a id="104"></a>104  Deputies of members
 
@@ -1896,7 +1926,7 @@ The _Fisheries Administration Act 1991_ as shown in this compilation comprises A
 
 For application, saving or transitional provisions made by the _Fisheries Legislation Amendment (New Governance Arrangements for the Australian Fisheries Management Authority and Other Matters) Act 2008_, _see_ Act No. 36, 2008.
 
-For all other relevant information pertaining to application, saving or transitional provisions _see_ Table A.
+For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
 
 ### Table of Acts
 
@@ -1941,7 +1971,7 @@ of Assent</div>
     <div>10 Nov 1991</div>
   </td>
   <td>
-    <div>3 Feb 1992 ( <i>see Gazette</i>1992, No. GN1)</div>
+    <div>3 Feb 1992 ( <i>see Gazette</i>1992, No. GN1)</div>
   </td>
   <td>
     <div></div>
@@ -1992,7 +2022,7 @@ of Assent</div>
     <div>24 Oct 1997</div>
   </td>
   <td>
-    <div>Schedule 2 (items 784–793): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49)</div>
+    <div>Schedule 2 (items 784–793): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49)</div>
   </td>
   <td>
     <div>—</div>
@@ -2026,8 +2056,8 @@ of Assent</div>
     <div>3 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 1: 16 Dec 1999 ( <i>see Gazette</i>1999, No. S623) 
-Schedule 2: 11 Dec 2001 ( <i>see Gazette</i>2001, No. S485) 
+    <div>Schedule 1: 16 Dec 1999 ( <i>see Gazette</i>1999, No. S623) 
+Schedule 2: 11 Dec 2001 ( <i>see Gazette</i>2001, No. S485) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -2045,7 +2075,7 @@ Remainder: Royal Assent</div>
     <div>24 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 10 (item 84): 13 Mar 2000 ( <i>see</i> <i>Gazette</i>2000,No. S114) <i>(b)</i></div>
+    <div>Schedule 10 (item 84): 13 Mar 2000 ( <i>see</i> <i>Gazette</i>2000,No. S114) <i>(b)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -2062,7 +2092,7 @@ Remainder: Royal Assent</div>
     <div>3 May 2000</div>
   </td>
   <td>
-    <div>Schedules 1 and 2: 1 Aug 2000 ( <i>see Gazette</i>2000, No. S415) 
+    <div>Schedules 1 and 2: 1 Aug 2000 ( <i>see Gazette</i>2000, No. S415) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -2080,7 +2110,7 @@ Remainder: Royal Assent</div>
     <div>1 Apr 2004</div>
   </td>
   <td>
-    <div>Schedule 1: 6 Aug 2004 ( <i>see</i> <i>Gazette</i>2004, No. S321) 
+    <div>Schedule 1: 6 Aug 2004 ( <i>see</i> <i>Gazette</i>2004, No. S321) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -2098,7 +2128,7 @@ Remainder: Royal Assent</div>
     <div>2 Apr 2004</div>
   </td>
   <td>
-    <div>Schedules 1 and 2: 20 Aug 2004 ( <i>see</i> <i>Gazette</i>2004, No. S343) 
+    <div>Schedules 1 and 2: 20 Aug 2004 ( <i>see</i> <i>Gazette</i>2004, No. S343) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -2202,7 +2232,7 @@ Remainder: Royal Assent</div>
     <div>7 Dec 2010</div>
   </td>
   <td>
-    <div>Schedule 1: 4 Jan 2011</div>
+    <div>Schedule 1: 4 Jan 2011</div>
   </td>
   <td>
     <div>—</div>
@@ -2219,10 +2249,10 @@ Remainder: Royal Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 606–618) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 606–618) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
-    <div>Sch. 3 (items 10, 11)</div>
+    <div>Sch. 3 (items 10, 11)</div>
   </td>
 </tr></table>
 
@@ -2445,31 +2475,7 @@ _(b)_     The _Fisheries Administration Act 1991_ was amended by Schedul
 </tr>
 <tr>
   <td>
-    <div>S. 14</div>
-  </td>
-  <td>
-    <div>rs. No. 36, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 14</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15</div>
+    <div>Ss. 14, 15</div>
   </td>
   <td>
     <div>rs. No. 36, 2008</div>
@@ -2737,22 +2743,6 @@ _(b)_     The _Fisheries Administration Act 1991_ was amended by Schedul
   </td>
   <td>
     <div>am. No. 36, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 61</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
   </td>
 </tr>
 <tr>
@@ -3157,22 +3147,6 @@ _(b)_     The _Fisheries Administration Act 1991_ was amended by Schedul
 </tr>
 <tr>
   <td>
-    <div>S. 103</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 103</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Division 5</b></div>
   </td>
   <td>
@@ -3187,6 +3161,74 @@ _(b)_     The _Fisheries Administration Act 1991_ was amended by Schedul
     <div>am. No. 36, 2008</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 606  Subsection 14(1)
+
+Omit “(1)”.
+
+## 607  At the end of subsection 14(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 608  Subsection 14(2)
+
+Repeal the subsection.
+
+## 609  Subsection 61(1)
+
+Omit “(1)”.
+
+## 610  Paragraph 61(1)(b)
+
+Omit “office;”, substitute “office.”.
+
+## 611  Subsection 61(1)
+
+Omit “but a person appointed to act during a vacancy must not continue so to act for more than 12 months.”.
+
+## 612  At the end of subsection 61(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 613  Subsection 61(2)
+
+Repeal the subsection.
+
+## 614  Subsection 103(1)
+
+Omit “(1)”.
+
+## 615  Paragraph 103(1)(b)
+
+Omit “office;”, substitute “office.”.
+
+## 616  Subsection 103(1)
+
+Omit “but a person appointed to act during a vacancy must not continue so to act for more than 12 months.”.
+
+## 617  At the end of subsection 103(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 618  Subsection 103(2)
+
+Repeal the subsection.
+
+As at 20 September 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -3241,6 +3283,8 @@ continues to have effect after the commencing time as if it had been done by the
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
