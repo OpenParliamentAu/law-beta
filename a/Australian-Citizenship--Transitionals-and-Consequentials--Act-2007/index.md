@@ -1,12 +1,12 @@
-![](http://www.comlaw.gov.au/Details/C2009C00455/Html/AusCitizenshipTransCons2007_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00499/Html/AusCitizenshipTransCons2007_image001.gif)
 
 # Australian Citizenship (Transitionals and Consequentials) Act 2007
 
 **Act No. 21 of 2007 as amended**
 
-This compilation was prepared on 24 September 2009
+This compilation was prepared on 23 September 2008
 
-**\[This Act was amended by Act No. 63 of 2007; No. 85 of 2008; No. 90 of 2009]**
+**\[This Act was amended by Act No. 63 of 2007; No. 85 of 2008]**
 
 **Amendments from Act No. 63 of 2007**
 
@@ -23,14 +23,6 @@ Schedule 1 (items 66 and 67) commenced immediately before 1 July 2007]
 Schedule 5 (items 17 and 18) commenced immediately before 1 July 2007]
 
 For application provision _see_ Act No. 85, 2008, Schedule 5 (item 19)
-
-**Amendment from Act No. 90 of 2009**
-
-\[Schedule 2 (item 7) amended item 5B of Schedule 3
-
-Schedule 2 (item 7) commenced on 21 September 2009]
-
-For application provision _see_ Act No. 90, 2009, Schedule 2 (item 8)
 
 Prepared by the Office of Legislative Drafting and Publishing,
  Attorney-General’s Department, Canberra
@@ -421,7 +413,7 @@ Repeal the definition, substitute:
 
                     <a name="perman-resid"></a>**_permanent resident_** has the same meaning as in the _Australian Citizenship Act 2007_.
 
-## 33  Section 3 (definition of _permanent visa_)
+## 33  Section 3 (definition of _permanent visa_)
 
 Repeal the definition, substitute:
 
@@ -652,7 +644,7 @@ _Note:       The effect of this item is that if a person ceases to b
 
 (2)        In applying section 22 of the new Act to an application covered by subitem (1), subsections 22(1) to (2), (4A) and (5A) of the new Act do not apply and the following subsections of section 22 of the new Act apply instead:
 
-             (1)  For the purposes of section 21, a person satisfies the **_general residence requirement_** if the person has been present in Australia as a permanent resident for:
+             (1)  For the purposes of section 21, a person satisfies the **_residence requirement_** if the person has been present in Australia as a permanent resident for:
 
                      (a)  a total period of at least 1 year in the period of 2 years before the day the person made the application; and
 
