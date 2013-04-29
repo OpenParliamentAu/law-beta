@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00305/Html/25c273cb-6d7d-4f3b-807a-6229abe4192b_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00720/Html/83fe27ae-0155-47d7-96a0-2af704cf7cb8_files/image001.gif)
 
 # Commonwealth Electoral Act 1918
 
 **Act No. 27 of 1918 as amended**
 
-This compilation was prepared on 19 March 2012
+This compilation was prepared on 5 September 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
@@ -1634,23 +1634,43 @@ the Governor‑General shall terminate the appointment of the non‑judicial app
 
 ##### <a id="13"></a>13  Acting Chairperson
 
-                   The Governor‑General may appoint a person to act as Chairperson:
+             (1)  The Governor‑General may appoint a person to act as Chairperson:
 
                      (a)  during a vacancy in the office of Chairperson, whether or not an appointment has previously been made to the office; or
 
-                     (b)  during any period, or during all periods, when the Chairperson is absent from duty or from Australia or is, for any other reason, unable to perform the functions of the office.
+                     (b)  during any period, or during all periods, when the Chairperson is absent from duty or from Australia or is, for any other reason, unable to perform the functions of the office;
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.
+
+             (2)  The Governor‑General may at any time terminate an appointment made under subsection (1).
+
+             (3)  Where a person is acting as Chairperson in accordance with paragraph (1)(b) and the office of Chairperson becomes vacant while that person is so acting, that person may continue so to act until the Governor‑General otherwise directs, the vacancy is filled or a period of 12 months from the date on which the vacancy occurred expires, whichever first happens.
+
+             (4)  The appointment of a person to act as Chairperson ceases to have effect if the person delivers to the Governor‑General a signed notice of resignation.
+
+             (5)  A person acting as Chairperson has, and may exercise, all the powers and shall perform all the functions of the Chairperson.
+
+             (6)  The validity of anything done by or in relation to a person purporting to act under subsection (1) shall not be called in question on the ground that the occasion for the appointment had not arisen, that there is a defect or irregularity in or in connection with the appointment, that the appointment had ceased to have effect or that the occasion for the person to act had not arisen or had passed.
 
 ##### <a id="14"></a>14  Acting non‑judicial appointee
 
-                   The Governor‑General may appoint a person to act as the non‑judicial appointee:
+             (1)  The Governor‑General may appoint a person to act as the non‑judicial appointee:
 
                      (a)  during a vacancy in the office of the non‑judicial appointee, whether or not an appointment has previously been made to the office; or
 
-                     (b)  during any period, or during all periods, when the non‑judicial appointee is absent from duty or from Australia or is, for any other reason, unable to perform the functions of the office.
+                     (b)  during any period, or during all periods, when the non‑judicial appointee is absent from duty or from Australia or is, for any other reason, unable to perform the functions of the office;
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.
+
+             (2)  The Governor‑General may at any time terminate an appointment made under subsection (1).
+
+             (3)  Where a person is acting as the non‑judicial appointee in accordance with paragraph (1)(b) and the office of the non‑judicial appointee becomes vacant while that person is so acting, that person may continue so to act until the Governor‑General otherwise directs, the vacancy is filled or a period of 12 months from the date on which the vacancy occurred expires, whichever first happens.
+
+             (4)  The appointment of a person to act as the non‑judicial appointee ceases to have effect if the person delivers to the Governor‑General a signed notice of resignation.
+
+             (5)  A person acting as the non‑judicial appointee has, and may exercise, all the powers and shall perform all the functions of the non‑judicial appointee.
+
+             (6)  The validity of anything done by or in relation to a person purporting to act under subsection (1) shall not be called in question on the ground that the occasion for the appointment had not arisen, that there is a defect or irregularity in or in connection with the appointment, that the appointment had ceased to have effect or that the occasion for the person to act had not arisen or had passed.
 
 ##### <a id="14A"></a>14A  Remuneration
 
@@ -1764,9 +1784,9 @@ prepare and furnish to the Minister a report of the operation of Part XX in re
 
                      (b)  during any period, or during all periods, when the Electoral Commissioner is absent from duty or from Australia or is, for any other reason, unable to perform the functions of the office.
 
-Note:          For rules that apply to persons acting as the Electoral Commissioner, see section 33A of the _Acts Interpretation Act 1901_.
-
              (4)  The Deputy Electoral Commissioner shall not act as the Electoral Commissioner during a vacancy in the office of Electoral Commissioner while a person appointed under section 26 is acting in that office.
+
+             (5)  A person acting as the Electoral Commissioner has, and may exercise, all the powers and shall perform all the functions of the Electoral Commissioner.
 
 ##### <a id="20"></a>20  Australian Electoral Officers for States
 
@@ -1820,7 +1840,7 @@ the Governor‑General shall terminate the appointment of the electoral officer.
 
 ##### <a id="26"></a>26  Acting Electoral Commissioner
 
-                   The Governor‑General may appoint a person to act as the Electoral Commissioner:
+             (1)  The Governor‑General may appoint a person to act as the Electoral Commissioner:
 
                      (a)  during a vacancy in the office of the Electoral Commissioner, whether or not an appointment has previously been made to the office; or
 
@@ -1828,19 +1848,47 @@ the Governor‑General shall terminate the appointment of the electoral officer.
 
                               (i)  the Electoral Commissioner is absent from duty or from Australia or is, for any other reason, unable to perform the functions of the office; and
 
-                             (ii)  no person is acting as the Electoral Commissioner by virtue of holding the office of, or acting as, the Deputy Electoral Commissioner.
+                             (ii)  no person is acting as the Electoral Commissioner by virtue of holding the office of, or acting as, the Deputy Electoral Commissioner;
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.
+
+             (2)  The Governor‑General may:
+
+                     (a)  determine the terms and conditions of appointment, including remuneration and allowances, of a person acting under subsection (1); and
+
+                     (b)  at any time terminate an appointment made under subsection (1).
+
+             (3)  Where a person is acting as the Electoral Commissioner in accordance with paragraph (1)(b) and the office of the Electoral Commissioner becomes vacant while that person is so acting, that person may continue so to act until the Governor‑General otherwise directs, the vacancy is filled or a period of 12 months from the date on which the vacancy occurred expires, whichever first happens.
+
+             (4)  The appointment of a person to act as the Electoral Commissioner ceases to have effect if the person delivers to the Governor‑General a signed notice of resignation.
+
+             (5)  A person acting as the Electoral Commissioner has, and may exercise, all the powers and shall perform all the functions of the Electoral Commissioner.
+
+             (6)  The validity of anything done by or in relation to a person purporting to act under subsection (1) shall not be called in question on the ground that the occasion for the appointment had not arisen, that there is a defect or irregularity in or in connection with the appointment, that the appointment had ceased to have effect or that the occasion for the person to act had not arisen or had passed.
 
 ##### <a id="27"></a>27  Acting Deputy Electoral Commissioner
 
-                   The Governor‑General may appoint a person to act as the Deputy Electoral Commissioner:
+             (1)  The Governor‑General may appoint a person to act as the Deputy Electoral Commissioner:
 
                      (a)  during a vacancy in the office of the Deputy Electoral Commissioner, whether or not an appointment has previously been made to the office; or
 
-                     (b)  during any period, or during all periods, when the Deputy Electoral Commissioner is absent from duty or from Australia or is, for any other reason, unable to perform the functions of the office.
+                     (b)  during any period, or during all periods, when the Deputy Electoral Commissioner is absent from duty or from Australia or is, for any other reason, unable to perform the functions of the office;
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.
+
+             (2)  The Governor‑General may:
+
+                     (a)  determine the terms and conditions of appointment, including remuneration and allowances, of a person acting under subsection (1); and
+
+                     (b)  at any time terminate an appointment made under subsection (1).
+
+             (3)  Where a person is acting as the Deputy Electoral Commissioner in accordance with paragraph (1)(b) and the office of the Deputy Electoral Commissioner becomes vacant while that person is so acting, that person may continue so to act until the Governor‑General otherwise directs, the vacancy is filled or a period of 12 months from the date on which the vacancy occurred expires, whichever first happens.
+
+             (4)  The appointment of a person to act as the Deputy Electoral Commissioner ceases to have effect if the person delivers to the Governor‑General a signed notice of resignation.
+
+             (5)  A person acting as the Deputy Electoral Commissioner has, and may exercise, all the powers and shall perform all the functions of the Deputy Electoral Commissioner.
+
+             (6)  The validity of anything done by or in relation to a person purporting to act under subsection (1) shall not be called in question on the ground that the occasion for the appointment had not arisen, that there is a defect or irregularity in or in connection with the appointment, that the appointment had ceased to have effect or that the occasion for the person to act had not arisen or had passed.
 
 ##### <a id="28"></a>28  Delegation by Electoral Commissioner
 
@@ -1892,7 +1940,11 @@ Note:          The definition of **_officer_** covers Australi
 
              (2)  The Commission may appoint a person to act as Australian Electoral Officer for the Australian Capital Territory during any period, or during all periods, when the Australian Electoral Officer for the Territory is absent from duty or from Australia or is, for any other reason, unable to perform the functions of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+             (3)  The appointment of a person to act as Australian Electoral Officer for the Australian Capital Territory ceases to have effect if the person delivers to the Commission a signed notice of resignation.
+
+             (4)  A person acting as Australian Electoral Officer for the Australian Capital Territory has, and may exercise, all the powers and shall perform all the functions of the Australian Electoral Officer for the Territory.
+
+             (5)  The validity of anything done by or in relation to a person purporting to act under subsection (1) shall not be called in question on the ground that the occasion for the appointment had not arisen, that there is a defect or irregularity in or in connection with the appointment, that the appointment had ceased to have effect or that the occasion for the person to act had not arisen or had passed.
 
 ##### <a id="31"></a>31  Assistant Australian Electoral Officers for States
 
@@ -1906,7 +1958,7 @@ Note:          For rules that apply to acting appointments, se
 
                      (b)  during any period, or during all periods, when the Australian Electoral Officer for the State is absent from duty or from Australia or is, for any other reason, unable to perform the functions of the office.
 
-Note:          For rules that apply to persons acting as the Australian Electoral Officer for a State, see section 33A of the _Acts Interpretation Act 1901_.
+             (4)  A person acting as Australian Electoral Officer for a State has, and may exercise, all the powers and shall perform all the functions of the Australian Electoral Officer for the State.
 
 ##### <a id="32"></a>32  Divisional Returning Officers
 
@@ -3046,7 +3098,7 @@ section 76 has effect, in its application to the Northern Territory, as if:
 
                      (b)  divide the Northern Territory into such Districts as are specified and set out the boundaries of each District so specified.
 
-             (2)  The Territory of Cocos (Keeling) Islands shall be one District of the Division of the Northern Territory and the Territory of Christmas Island shall be one District of the Division of that Territory.
+             (2)  The Territory of Cocos (Keeling) Islands shall be one District of the Division of the Northern Territory and the Territory of  Christmas Island shall be one District of the Division of that Territory.
 
              (3)  If the Northern Territory is distributed into Electoral Divisions under section 73 or under section 76, as it has effect by virtue of section 76A, this section shall have effect, after the distribution, as if:
 
@@ -5018,7 +5070,7 @@ the Electoral Commissioner must enter the elector’s name on the Roll for the S
 
 ##### <a id="107"></a>107  Alterations to be initialled
 
-                   Every alteration of a Roll shall be made in such a manner that the original entry shall not be obliterated, and the reason for each alteration and the date thereof shall be set against the alteration, together with the initials of the person who makes the alteration.
+                   Every alteration of a Roll shall be made in such a manner that the original entry shall not be obliterated, and the reason for each alteration and the date thereof shall be set against the alteration, together with the initials of the person who makes the alteration.
 
 ##### <a id="108"></a>108  Lists of deaths to be forwarded
 
@@ -6592,7 +6644,7 @@ the Electoral Commissioner must register the claimant as a general postal voter 
 
              (2)  The Electoral Commissioner must give the elector written notice of the cancellation and of the elector’s right to apply for review under Part X.
 
-##### <a id="186"></a>186  Dispatch of postal voting papers to registered general postal voters
+##### <a id="186"></a>186  Dispatch of postal voting papers to registered general postal voters
 
              (1)  As soon as a DRO for a Division receives ballot papers for a Senate election or a House of Representatives election, or both, as the case may be, the DRO must send or arrange for the delivery of postal voting papers to each registered general postal voter for the Division.
 
@@ -7430,7 +7482,7 @@ before the ballot‑box is so used again, a voting officer, in the presence of a
 
 ### Division 4—Voting by pre‑poll declaration vote
 
-##### <a id="200DS"></a>200DS  Persons to whom this Division applies
+##### <a id="200DS"></a>200DS  Persons to whom this Division applies
 
                    This Division applies to a person who has, in accordance with Division 2, applied for a pre‑poll vote but who is not, under Division 3, entitled to vote by pre‑poll ordinary vote.
 
@@ -8792,7 +8844,7 @@ Note:          A defendant bears an evidential burden in relat
 
                      (c)  the Antarctic Returning Officer or the Assistant Antarctic Returning Officer shall, at all times at which the poll is open, be present in that part of the station at which the polling is taking place.
 
-             (2)  The polling at a station in relation to an election shall not continue beyond 6 pm in the Australian Capital Territory on the day of polling in the election.
+             (2)  The polling at a station in relation to an election shall not continue beyond 6 o’clock in the afternoon by standard time in the Australian Capital Territory on the day of polling in the election.
 
 ##### <a id="254"></a>254  Entitlement of Antarctic electors to vote
 
@@ -11042,7 +11094,7 @@ the following provisions of this subsection have effect:
 
            (11)  A prosecution in respect of an offence against a provision of this section (being an offence committed on or after the commencement of this subsection) may be started at any time within 3 years after the offence was committed.
 
-##### <a id="315A"></a>315A  Recovery of payments
+##### <a id="315A"></a>315A  Recovery of payments
 
              (1)  An action in a court to recover an amount due to the Commonwealth under subsection 299(6) or 306(5) may be brought in the name of the Commonwealth by the Electoral Commissioner.
 
@@ -11370,13 +11422,13 @@ until February in the calendar year after the return is furnished.
 
              (2)  The dollar amount mentioned in the provision, for an indexation year whose indexation factor is greater than 1, is replaced by the amount worked out using the following formula (rounded to the nearest $100):
 
-![](http://www.comlaw.gov.au/Details/C2012C00305/Html/25c273cb-6d7d-4f3b-807a-6229abe4192b_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00720/Html/83fe27ae-0155-47d7-96a0-2af704cf7cb8_files/image002.gif)
 
              (3)  The dollar amount mentioned in the provision for an indexation year is not replaced in respect of a disclosure period in relation to an election if the indexation year begins between the issue of the writ for the election and the polling day for the election.
 
              (4)  The **_indexation factor_** for an indexation year is the number worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00305/Html/25c273cb-6d7d-4f3b-807a-6229abe4192b_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00720/Html/83fe27ae-0155-47d7-96a0-2af704cf7cb8_files/image003.gif)
 
              (5)  The indexation factor is to be calculated to 3 decimal places, but increased by .001 if the fourth decimal place is more than 4.
 
@@ -12324,7 +12376,7 @@ a copy of the order of the Court.
 
 Note:          Section 86 of the _Judiciary Act 1903_ provides that certain provisions of the _Legislative Instruments Act 2003_ apply, with modifications, to rules of court made by the Court. Section 88 of the _Judiciary Act 1903_ provides that regulations may be made modifying and adapting certain provisions of the _Legislative Instruments Act 2003_ in their application to the Court.
 
-##### <a id="375A"></a>375A  Right of Electoral Commission to have access to documents
+##### <a id="375A"></a>375A  Right of Electoral Commission to have access to documents
 
                    Unless the Court orders otherwise, the filing of a petition does not deprive the Electoral Commission of any right to have access to a document for the purposes of the performance of its functions.
 
@@ -12840,7 +12892,7 @@ I, the candidate named above, state that:
 
 ·<span style="font:7.0pt " new="">         </span>I am at least 18 years of age                                                  Yes \[  ]               No \[  ]
 
-·<span style="font:7.0pt " new="">         </span>I am an elector or qualified to be an elector                       Yes \[  ]               No \[  ]
+·<span style="font:7.0pt " new="">         </span>I am an elector or qualified to be an elector                       Yes \[  ]               No \[  ]
 
 ·<span style="font:7.0pt " new="">         </span>I am not, by virtue of section 44 of the Constitution,       Yes \[  ]               No \[  ]
  incapable of being chosen or of sitting as a Senator
@@ -13011,7 +13063,7 @@ Each of the candidates named below, states that:
 
 ·<span style="font:7.0pt " new="">         </span>I am an Australian citizen                                                      Yes \[  ]               No \[  ]
 
-·<span style="font:7.0pt " new="">         </span>I am at least 18 years of age                                                 Yes \[  ]               No \[  ]
+·<span style="font:7.0pt " new="">         </span>I am at least 18 years of age                                                 Yes \[  ]               No \[  ]
 
 ·<span style="font:7.0pt " new="">         </span>I am an elector or qualified to be an elector                       Yes \[  ]               No \[  ]
 
@@ -13479,7 +13531,7 @@ FORM E
 
 <tr>
   <td>
-    <div> <img width="98" height="31" src="http://www.comlaw.gov.au/Details/C2012C00305/Html/25c273cb-6d7d-4f3b-807a-6229abe4192b_files/image004.gif">   <img width="61" height="52" src="http://www.comlaw.gov.au/Details/C2012C00305/Html/25c273cb-6d7d-4f3b-807a-6229abe4192b_files/image005.gif"> </div>
+    <div> <img width="98" height="31" src="http://www.comlaw.gov.au/Details/C2011C00720/Html/83fe27ae-0155-47d7-96a0-2af704cf7cb8_files/image004.gif">   <img width="61" height="52" src="http://www.comlaw.gov.au/Details/C2011C00720/Html/83fe27ae-0155-47d7-96a0-2af704cf7cb8_files/image005.gif"> </div>
   </td>
   <td colspan="8">
     <div>SENATE BALLOT PAPER 
@@ -13515,8 +13567,8 @@ FORM E
 </tr>
 <tr>
   <td colspan="2">
-    <div> <table cellpadding="0" cellspacing="0"> <tr> <td height="25"> <span style="position:absolute;z-index:251629056"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:.25pt .25pt .25pt .25pt"> <p class="MsoNormal" style="line-height:9.0pt"> <span style="font-size:8.0pt">or</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="22"> <span style="position:absolute;z-index:251681280"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:1.5pt 1.5pt 1.5pt 1.5pt"> <p class="MsoNormal" style="margin-right:-1.2pt"> <span style="font-size: 8.0pt">(2)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="26"> <span style="position:absolute;z-index:251680256"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:1.5pt 1.5pt 1.5pt 1.5pt"> <p class="MsoNormal"> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="25"> <span style="position:absolute;z-index:251679232"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:1.5pt 1.5pt 1.5pt 1.5pt"> <p class="MsoNormal" align="center" style="text-align:center"> <span style="font-size:8.0pt">or</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="25"> <span style="position:absolute;z-index:251635200"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:.25pt .25pt .25pt .25pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">or</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="22"> <span style="position:absolute;z-index:251632128"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:.25pt .25pt .25pt .25pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">(4)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="22" height="21" src="http://www.comlaw.gov.au/Details/C2012C00305/Html/25c273cb-6d7d-4f3b-807a-6229abe4192b_files/image006.gif">   <table cellpadding="0" cellspacing="0"> <tr> <td height="25"> <span style="position:absolute;z-index:251636224"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:.25pt .25pt .25pt .25pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">or</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2012C00305/Html/25c273cb-6d7d-4f3b-807a-6229abe4192b_files/image007.gif">   <table cellpadding="0" cellspacing="0"> <tr> <td height="22"> <span style="position:absolute;z-index:251633152"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:.25pt .25pt .25pt .25pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">(2)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="23"> <span style="position:absolute;z-index:251631104"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:.25pt .25pt .25pt .25pt"> <p class="MsoNormal" style="line-height:9.0pt"> <span style="font-size:8.0pt">or</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="22"> <span style="position:absolute;z-index:251630080"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:.25pt .25pt .25pt .25pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">(2)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="22" height="21" src="http://www.comlaw.gov.au/Details/C2012C00305/Html/25c273cb-6d7d-4f3b-807a-6229abe4192b_files/image006.gif">   <img width="12" height="14" src="http://www.comlaw.gov.au/Details/C2012C00305/Html/25c273cb-6d7d-4f3b-807a-6229abe4192b_files/image008.gif">   <img width="12" height="13" src="http://www.comlaw.gov.au/Details/C2012C00305/Html/25c273cb-6d7d-4f3b-807a-6229abe4192b_files/image009.gif">   <table cellpadding="0" cellspacing="0"> <tr> <td height="22"> <span style="position:absolute;z-index:251634176"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:.25pt .25pt .25pt .25pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">(2)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table> </div>
-    <div> <table cellpadding="0" cellspacing="0"> <tr> <td height="28" bgcolor="white"> <span style="position:absolute; z-index:251627008"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.5pt 2.5pt 2.5pt 2.5pt"> <p class="MsoNormal"> <b> <i> <span style="font-size:12.0pt">either</span> </i> </b> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="21" height="22" src="http://www.comlaw.gov.au/Details/C2012C00305/Html/25c273cb-6d7d-4f3b-807a-6229abe4192b_files/image010.gif">  By placing the single figure 1 in one and only one of these squares to indicate the voting ticket you wish to adopt as your vote</div>
+    <div> <table cellpadding="0" cellspacing="0"> <tr> <td height="25"> <span style="position:absolute;z-index:251629056"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:.25pt .25pt .25pt .25pt"> <p class="MsoNormal" style="line-height:9.0pt"> <span style="font-size:8.0pt">or</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="22"> <span style="position:absolute;z-index:251681280"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:1.5pt 1.5pt 1.5pt 1.5pt"> <p class="MsoNormal" style="margin-right:-1.2pt"> <span style="font-size: 8.0pt">(2)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="26"> <span style="position:absolute;z-index:251680256"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:1.5pt 1.5pt 1.5pt 1.5pt"> <p class="MsoNormal"> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="25"> <span style="position:absolute;z-index:251679232"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:1.5pt 1.5pt 1.5pt 1.5pt"> <p class="MsoNormal" align="center" style="text-align:center"> <span style="font-size:8.0pt">or</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="25"> <span style="position:absolute;z-index:251635200"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:.25pt .25pt .25pt .25pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">or</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="22"> <span style="position:absolute;z-index:251632128"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:.25pt .25pt .25pt .25pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">(4)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="22" height="21" src="http://www.comlaw.gov.au/Details/C2011C00720/Html/83fe27ae-0155-47d7-96a0-2af704cf7cb8_files/image006.gif">   <table cellpadding="0" cellspacing="0"> <tr> <td height="25"> <span style="position:absolute;z-index:251636224"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:.25pt .25pt .25pt .25pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">or</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2011C00720/Html/83fe27ae-0155-47d7-96a0-2af704cf7cb8_files/image007.gif">   <table cellpadding="0" cellspacing="0"> <tr> <td height="22"> <span style="position:absolute;z-index:251633152"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:.25pt .25pt .25pt .25pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">(2)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="23"> <span style="position:absolute;z-index:251631104"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:.25pt .25pt .25pt .25pt"> <p class="MsoNormal" style="line-height:9.0pt"> <span style="font-size:8.0pt">or</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="22"> <span style="position:absolute;z-index:251630080"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:.25pt .25pt .25pt .25pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">(2)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="22" height="21" src="http://www.comlaw.gov.au/Details/C2011C00720/Html/83fe27ae-0155-47d7-96a0-2af704cf7cb8_files/image006.gif">   <img width="12" height="14" src="http://www.comlaw.gov.au/Details/C2011C00720/Html/83fe27ae-0155-47d7-96a0-2af704cf7cb8_files/image008.gif">   <img width="12" height="13" src="http://www.comlaw.gov.au/Details/C2011C00720/Html/83fe27ae-0155-47d7-96a0-2af704cf7cb8_files/image009.gif">   <table cellpadding="0" cellspacing="0"> <tr> <td height="22"> <span style="position:absolute;z-index:251634176"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:.25pt .25pt .25pt .25pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">(2)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table> </div>
+    <div> <table cellpadding="0" cellspacing="0"> <tr> <td height="28" bgcolor="white"> <span style="position:absolute; z-index:251627008"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.5pt 2.5pt 2.5pt 2.5pt"> <p class="MsoNormal"> <b> <i> <span style="font-size:12.0pt">either</span> </i> </b> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="21" height="22" src="http://www.comlaw.gov.au/Details/C2011C00720/Html/83fe27ae-0155-47d7-96a0-2af704cf7cb8_files/image010.gif">  By placing the single figure 1 in one and only one of these squares to indicate the voting ticket you wish to adopt as your vote</div>
   </td>
   <td>
     <div>A</div>
@@ -13600,7 +13652,7 @@ FORM E
 <tr>
   <td colspan="2">
     <div> <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:251659776"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.25pt 2.25pt 2.25pt 2.25pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
-(3)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="12" height="11" src="http://www.comlaw.gov.au/Details/C2012C00305/Html/25c273cb-6d7d-4f3b-807a-6229abe4192b_files/image011.gif">   <img width="14" height="14" src="http://www.comlaw.gov.au/Details/C2012C00305/Html/25c273cb-6d7d-4f3b-807a-6229abe4192b_files/image012.gif">   <table cellpadding="0" cellspacing="0"> <tr> <td height="28" bgcolor="white"> <span style="position:absolute; z-index:251628032"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.5pt 2.5pt 2.5pt 2.5pt"> <p class="MsoNormal"> <b> <i> <span style="font-size:12.0pt">or</span> </i> </b> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:251678208"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.25pt 2.25pt 2.25pt 2.25pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
+(3)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="12" height="11" src="http://www.comlaw.gov.au/Details/C2011C00720/Html/83fe27ae-0155-47d7-96a0-2af704cf7cb8_files/image011.gif">   <img width="14" height="14" src="http://www.comlaw.gov.au/Details/C2011C00720/Html/83fe27ae-0155-47d7-96a0-2af704cf7cb8_files/image012.gif">   <table cellpadding="0" cellspacing="0"> <tr> <td height="28" bgcolor="white"> <span style="position:absolute; z-index:251628032"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.5pt 2.5pt 2.5pt 2.5pt"> <p class="MsoNormal"> <b> <i> <span style="font-size:12.0pt">or</span> </i> </b> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:251678208"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.25pt 2.25pt 2.25pt 2.25pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
 (4)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:251677184"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.25pt 2.25pt 2.25pt 2.25pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
 (4)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:251676160"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.25pt 2.25pt 2.25pt 2.25pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
 (3)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:251675136"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.25pt 2.25pt 2.25pt 2.25pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
@@ -13617,7 +13669,7 @@ FORM E
 (3)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:251663872"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.25pt 2.25pt 2.25pt 2.25pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
 (3)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:251662848"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.25pt 2.25pt 2.25pt 2.25pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
 (3)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:251661824"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.25pt 2.25pt 2.25pt 2.25pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
-(3)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="22" height="21" src="http://www.comlaw.gov.au/Details/C2012C00305/Html/25c273cb-6d7d-4f3b-807a-6229abe4192b_files/image013.gif">   <img width="21" height="22" src="http://www.comlaw.gov.au/Details/C2012C00305/Html/25c273cb-6d7d-4f3b-807a-6229abe4192b_files/image014.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2012C00305/Html/25c273cb-6d7d-4f3b-807a-6229abe4192b_files/image015.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2012C00305/Html/25c273cb-6d7d-4f3b-807a-6229abe4192b_files/image016.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2012C00305/Html/25c273cb-6d7d-4f3b-807a-6229abe4192b_files/image017.gif">   <img width="21" height="22" src="http://www.comlaw.gov.au/Details/C2012C00305/Html/25c273cb-6d7d-4f3b-807a-6229abe4192b_files/image018.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2012C00305/Html/25c273cb-6d7d-4f3b-807a-6229abe4192b_files/image017.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2012C00305/Html/25c273cb-6d7d-4f3b-807a-6229abe4192b_files/image019.gif">   <img width="21" height="22" src="http://www.comlaw.gov.au/Details/C2012C00305/Html/25c273cb-6d7d-4f3b-807a-6229abe4192b_files/image020.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2012C00305/Html/25c273cb-6d7d-4f3b-807a-6229abe4192b_files/image019.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2012C00305/Html/25c273cb-6d7d-4f3b-807a-6229abe4192b_files/image016.gif">   <img width="22" height="21" src="http://www.comlaw.gov.au/Details/C2012C00305/Html/25c273cb-6d7d-4f3b-807a-6229abe4192b_files/image021.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2012C00305/Html/25c273cb-6d7d-4f3b-807a-6229abe4192b_files/image022.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2012C00305/Html/25c273cb-6d7d-4f3b-807a-6229abe4192b_files/image023.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2012C00305/Html/25c273cb-6d7d-4f3b-807a-6229abe4192b_files/image024.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2012C00305/Html/25c273cb-6d7d-4f3b-807a-6229abe4192b_files/image025.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2012C00305/Html/25c273cb-6d7d-4f3b-807a-6229abe4192b_files/image024.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2012C00305/Html/25c273cb-6d7d-4f3b-807a-6229abe4192b_files/image023.gif">  By placing the numbers 1 to (7) in the order of your preference</div>
+(3)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="22" height="21" src="http://www.comlaw.gov.au/Details/C2011C00720/Html/83fe27ae-0155-47d7-96a0-2af704cf7cb8_files/image013.gif">   <img width="21" height="22" src="http://www.comlaw.gov.au/Details/C2011C00720/Html/83fe27ae-0155-47d7-96a0-2af704cf7cb8_files/image014.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2011C00720/Html/83fe27ae-0155-47d7-96a0-2af704cf7cb8_files/image015.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2011C00720/Html/83fe27ae-0155-47d7-96a0-2af704cf7cb8_files/image016.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2011C00720/Html/83fe27ae-0155-47d7-96a0-2af704cf7cb8_files/image017.gif">   <img width="21" height="22" src="http://www.comlaw.gov.au/Details/C2011C00720/Html/83fe27ae-0155-47d7-96a0-2af704cf7cb8_files/image018.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2011C00720/Html/83fe27ae-0155-47d7-96a0-2af704cf7cb8_files/image017.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2011C00720/Html/83fe27ae-0155-47d7-96a0-2af704cf7cb8_files/image019.gif">   <img width="21" height="22" src="http://www.comlaw.gov.au/Details/C2011C00720/Html/83fe27ae-0155-47d7-96a0-2af704cf7cb8_files/image020.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2011C00720/Html/83fe27ae-0155-47d7-96a0-2af704cf7cb8_files/image019.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2011C00720/Html/83fe27ae-0155-47d7-96a0-2af704cf7cb8_files/image016.gif">   <img width="22" height="21" src="http://www.comlaw.gov.au/Details/C2011C00720/Html/83fe27ae-0155-47d7-96a0-2af704cf7cb8_files/image021.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2011C00720/Html/83fe27ae-0155-47d7-96a0-2af704cf7cb8_files/image022.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2011C00720/Html/83fe27ae-0155-47d7-96a0-2af704cf7cb8_files/image023.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2011C00720/Html/83fe27ae-0155-47d7-96a0-2af704cf7cb8_files/image024.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2011C00720/Html/83fe27ae-0155-47d7-96a0-2af704cf7cb8_files/image025.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2011C00720/Html/83fe27ae-0155-47d7-96a0-2af704cf7cb8_files/image024.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2011C00720/Html/83fe27ae-0155-47d7-96a0-2af704cf7cb8_files/image023.gif">  By placing the numbers 1 to (7) in the order of your preference</div>
   </td>
   <td>
     <div> <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:251660800"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.25pt 2.25pt 2.25pt 2.25pt"> <p class="MsoNormal"> </p> </div> </td> </tr> </table> </span> </td> </tr> </table> </div>
@@ -13681,7 +13733,7 @@ FORM F
 
 <tr>
   <td colspan="2">
-    <div> <img width="61" height="52" src="http://www.comlaw.gov.au/Details/C2012C00305/Html/25c273cb-6d7d-4f3b-807a-6229abe4192b_files/image005.gif">   <img width="98" height="31" src="http://www.comlaw.gov.au/Details/C2012C00305/Html/25c273cb-6d7d-4f3b-807a-6229abe4192b_files/image026.gif">  BALLOT PAPER</div>
+    <div> <img width="61" height="52" src="http://www.comlaw.gov.au/Details/C2011C00720/Html/83fe27ae-0155-47d7-96a0-2af704cf7cb8_files/image005.gif">   <img width="98" height="31" src="http://www.comlaw.gov.au/Details/C2011C00720/Html/83fe27ae-0155-47d7-96a0-2af704cf7cb8_files/image026.gif">  BALLOT PAPER</div>
     <div>HOUSE OF REPRESENTATIVES</div>
     <div>\[ <i>here insert name of State or Territory as appropriate</i>]</div>
     <div>Electoral Division of \[ <i>here insert name of Division</i>].</div>
@@ -13692,7 +13744,7 @@ FORM F
 <tr>
   <td>
     <div> <table cellpadding="0" cellspacing="0"> <tr> <td height="44"> <span style="position:absolute;z-index:251688448"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.25pt 2.25pt 2.25pt 2.25pt"> <p class="MsoNormal">1 
-2</p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="11" height="12" src="http://www.comlaw.gov.au/Details/C2012C00305/Html/25c273cb-6d7d-4f3b-807a-6229abe4192b_files/image027.gif"> </div>
+2</p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="11" height="12" src="http://www.comlaw.gov.au/Details/C2011C00720/Html/83fe27ae-0155-47d7-96a0-2af704cf7cb8_files/image027.gif"> </div>
   </td>
   <td>
     <div>\[1 <i> Here insert name of a candidate</i> </div>
@@ -13702,7 +13754,7 @@ FORM F
 <tr>
   <td>
     <div> <table cellpadding="0" cellspacing="0"> <tr> <td height="44"> <span style="position:absolute;z-index:251689472"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.25pt 2.25pt 2.25pt 2.25pt"> <p class="MsoNormal">1 
-2</p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="11" height="12" src="http://www.comlaw.gov.au/Details/C2012C00305/Html/25c273cb-6d7d-4f3b-807a-6229abe4192b_files/image028.gif"> </div>
+2</p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="11" height="12" src="http://www.comlaw.gov.au/Details/C2011C00720/Html/83fe27ae-0155-47d7-96a0-2af704cf7cb8_files/image028.gif"> </div>
   </td>
   <td>
     <div><i> party, composite name of registered political parties </i></div>
@@ -13712,7 +13764,7 @@ FORM F
 <tr>
   <td>
     <div> <table cellpadding="0" cellspacing="0"> <tr> <td height="44"> <span style="position:absolute;z-index:251690496"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.25pt 2.25pt 2.25pt 2.25pt"> <p class="MsoNormal">1 
-2</p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="11" height="12" src="http://www.comlaw.gov.au/Details/C2012C00305/Html/25c273cb-6d7d-4f3b-807a-6229abe4192b_files/image027.gif"> </div>
+2</p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="11" height="12" src="http://www.comlaw.gov.au/Details/C2011C00720/Html/83fe27ae-0155-47d7-96a0-2af704cf7cb8_files/image027.gif"> </div>
   </td>
   <td>
     <div></div>
@@ -13721,7 +13773,7 @@ FORM F
 <tr>
   <td>
     <div> <table cellpadding="0" cellspacing="0"> <tr> <td height="44"> <span style="position:absolute;z-index:251684352"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.25pt 2.25pt 2.25pt 2.25pt"> <p class="MsoNormal">1 
-2</p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="11" height="12" src="http://www.comlaw.gov.au/Details/C2012C00305/Html/25c273cb-6d7d-4f3b-807a-6229abe4192b_files/image027.gif"> </div>
+2</p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="11" height="12" src="http://www.comlaw.gov.au/Details/C2011C00720/Html/83fe27ae-0155-47d7-96a0-2af704cf7cb8_files/image027.gif"> </div>
   </td>
   <td>
     <div></div>
@@ -16062,7 +16114,7 @@ Schedule 6 (items 1, 3–10, 21, 22): 14 Jan 2011</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 381–407) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 381–407) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 8 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
@@ -16991,7 +17043,7 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
 </tr>
 <tr>
   <td>
-    <div>Ss. 10–12</div>
+    <div>Ss. 10–14</div>
   </td>
   <td>
     <div>ad. No. 144, 1983</div>
@@ -17003,54 +17055,6 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
   </td>
   <td>
     <div>am. No. 24, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13</div>
-  </td>
-  <td>
-    <div>ad. No. 144, 1983</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 24, 1990; No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 13</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 14</div>
-  </td>
-  <td>
-    <div>ad. No. 144, 1983</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 24, 1990; No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 14</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
   </td>
 </tr>
 <tr>
@@ -17178,15 +17182,7 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
     <div></div>
   </td>
   <td>
-    <div>am. No. 24, 1990; No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 19(3)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
+    <div>am. No. 24, 1990</div>
   </td>
 </tr>
 <tr>
@@ -17295,7 +17291,7 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
 </tr>
 <tr>
   <td>
-    <div>S. 26</div>
+    <div>Ss. 26, 27</div>
   </td>
   <td>
     <div>ad. No. 144, 1983</div>
@@ -17306,39 +17302,7 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
     <div></div>
   </td>
   <td>
-    <div>am. No. 24, 1990; No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 26</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 27</div>
-  </td>
-  <td>
-    <div>ad. No. 144, 1983</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 24, 1990; No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 27</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
+    <div>am. No. 24, 1990</div>
   </td>
 </tr>
 <tr>
@@ -17410,15 +17374,7 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
     <div></div>
   </td>
   <td>
-    <div>am. No. 24, 1990; No. 167, 1991; No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 30(2)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
+    <div>am. No. 24, 1990; No. 167, 1991</div>
   </td>
 </tr>
 <tr>
@@ -17434,15 +17390,7 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
     <div></div>
   </td>
   <td>
-    <div>am. No. 24, 1990; No. 110, 2010; No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 31(3)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
+    <div>am. No. 24, 1990; No. 110, 2010</div>
   </td>
 </tr>
 <tr>
@@ -22787,31 +22735,7 @@ Part XVB</div>
 </tr>
 <tr>
   <td>
-    <div>Ss. 251, 252</div>
-  </td>
-  <td>
-    <div>ad. No. 144, 1983</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 253</div>
-  </td>
-  <td>
-    <div>ad. No. 144, 1983</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 254</div>
+    <div>Ss. 251–254</div>
   </td>
   <td>
     <div>ad. No. 144, 1983</div>
@@ -26373,6 +26297,138 @@ http://www.hcourt.gov.au/media/rowe.pdf
 
              (2)  Sections 94A, 95, 96, 102 and 155 of the _Commonwealth Electoral Act 1918_ were subsequently amended by the _Electoral and Referendum Amendment (Enrolment and Prisoner Voting) Act 2011_, which commenced on 25 May 2011.
 
+### Note 8
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 381  Subsection 13(1)
+
+Omit “(1)”.
+
+## 382  Paragraph 13(1)(b)
+
+Omit “office;”, substitute “office.”.
+
+## 383  Subsection 13(1)
+
+Omit “but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.”.
+
+## 384  At the end of subsection 13(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 385  Subsections 13(2) to (6)
+
+Repeal the subsections.
+
+## 386  Subsection 14(1)
+
+Omit “(1)”.
+
+## 387  Paragraph 14(1)(b)
+
+Omit “office;”, substitute “office.”.
+
+## 388  Subsection 14(1)
+
+Omit “but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.”.
+
+## 389  At the end of subsection 14(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 390  Subsections 14(2) to (6)
+
+Repeal the subsections.
+
+## 391  At the end of subsection 19(3)
+
+Add:
+
+Note:          For rules that apply to persons acting as the Electoral Commissioner, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 392  Subsection 19(5)
+
+Repeal the subsection.
+
+## 393  Subsection 26(1)
+
+Omit “(1)”.
+
+## 394  Subparagraph 26(1)(b)(ii)
+
+Omit “Deputy Electoral Commissioner;”, substitute “Deputy Electoral Commissioner.”.
+
+## 395  Subsection 26(1)
+
+Omit “but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.”.
+
+## 396  At the end of subsection 26(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 397  Subsections 26(2) to (6)
+
+Repeal the subsections.
+
+## 398  Subsection 27(1)
+
+Omit “(1)”.
+
+## 399  Paragraph 27(1)(b)
+
+Omit “office;”, substitute “office.”.
+
+## 400  Subsection 27(1)
+
+Omit “but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.”.
+
+## 401  At the end of subsection 27(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 402  Subsections 27(2) to (6)
+
+Repeal the subsections.
+
+## 403  At the end of subsection 30(2)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 404  Subsections 30(3) to (5)
+
+Repeal the subsections.
+
+## 405  At the end of subsection 31(3)
+
+Add:
+
+Note:          For rules that apply to persons acting as the Australian Electoral Officer for a State, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 406  Subsection 31(4)
+
+Repeal the subsection.
+
+## 407  Subsection 253(2)
+
+Omit “6 o’clock in the afternoon by standard time”, substitute “6 pm”.
+
+As at 5 September 2011 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -26924,7 +26980,7 @@ The amendments made by this Schedule apply in relation to claims and application
 
 The amendments made by this Schedule apply in relation to elections and referendums the writs for which are issued on or after the commencement of the amendments.
 
-## 108  Transitional
+## 108  Transitional
 
 (1)       Despite the amendment made by item 1, the definition of **_officer_** in subsection 4(1) of the _Commonwealth Electoral Act 1918_, as in force immediately before the commencement of that item, continues to apply on and after that commencement for the purposes of section 323 of that Act.
 
@@ -26998,6 +27054,8 @@ The amendments made by this Schedule apply in relation to elections and referend
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
