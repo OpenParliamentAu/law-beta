@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00250/Html/a3de7b4b-1412-4ee9-9b2c-6198fee58eea_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00360/Html/WarGrave1990_image001.gif)
 
 # War Graves Act 1980
 
 **Act No. 100 of 1980 as amended**
 
-This compilation was prepared on 19 April 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 11 July 2008
+ taking into account amendments up to Act No. 73 of 2008
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -50,7 +50,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
 
-                   This Act may be cited as the _War Graves Act 1980_.
+                   This Act may be cited as the _War__Graves__Act 1980_.
 
 ##### <a id="2"></a>2  Interpretation
 
@@ -58,7 +58,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="director"></a>**_Director_** means the Director of War Graves.
 
-                    <a name="secretari"></a>**_Secretary_** means the Secretary of the Department.
+                    <a name="secretari"></a>**_Secretary_** means the Secretary to the Department.
 
              (2)  A reference in this Act to war graves shall be read as including a reference to all graves, cemeteries and memorials in respect of which the Department has responsibilities.
 
@@ -72,11 +72,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="5"></a>5  Appointment of Director
 
-             (1)  The Director shall be appointed by the Governor‑General.
+             (1)  The Director shall be appointed by the Governor-General.
 
-             (2)  Subject to this Act, the Director holds office for such period, not exceeding 3 years, as is specified in the instrument of his or her appointment, but is eligible for re‑appointment.
+             (2)  Subject to this Act, the Director holds office for such period, not exceeding 3 years, as is specified in the instrument of his or her appointment, but is eligible for re-appointment.
 
-             (4)  The Director holds office on such terms and conditions (if any) in respect of matters not provided for by this Act as are determined by the Governor‑General.
+             (4)  The Director holds office on such terms and conditions (if any) in respect of matters not provided for by this Act as are determined by the Governor-General.
 
 ##### <a id="6"></a>6  Remuneration and allowances of Director
 
@@ -94,11 +94,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="8"></a>8  Resignation of Director
 
-                   The Director may resign his or her office by writing signed by him or her and delivered to the Governor‑General.
+                   The Director may resign his or her office by writing signed by him or her and delivered to the Governor-General.
 
 ##### <a id="9"></a>9  Termination of office of Director
 
-             (1)  The Governor‑General may terminate the appointment of the Director for misbehaviour or physical or mental incapacity.
+             (1)  The Governor-General may terminate the appointment of the Director for misbehaviour or physical or mental incapacity.
 
              (2)  If the Director:
 
@@ -108,7 +108,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (c)  becomes bankrupt or applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with his or her creditors or makes an assignment of his or her remuneration for their benefit;
 
-the Governor‑General shall terminate his or her appointment.
+the Governor-General shall terminate his or her appointment.
 
 ##### <a id="10"></a>10  Acting Director
 
@@ -148,13 +148,13 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
 ##### <a id="14"></a>14  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed, or necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed, or necessary or convenient to be prescribed for carrying out or giving effect to this Act. 
 
 # Notes to the _War Graves Act 1980_
 
 ### Note 1
 
-The _War Graves Act 1980_ as show in this compilation comprises Act No. 100, 1980 amended as indicated in the Tables below.
+The _War__Graves__Act 1980_ as show in this compilation comprises Act No. 100, 1980 amended as indicated in the Tables below.
 
 All relevant information pertaining to application, saving or transitional provisions prior to 1 October 2001 is not included in this compilation. For subsequent information _see_ Table A.
 
@@ -220,7 +220,7 @@ of Assent</div>
     <div>22 Sept 1982</div>
   </td>
   <td colspan="2">
-    <div>Part LXXVII (s. 280): Royal Assent <i>(a)</i></div>
+    <div>Part LXXVII (s. 280): Royal Assent <i>(a)</i></div>
   </td>
   <td>
     <div>S. 280(2) and (3)</div>
@@ -254,8 +254,8 @@ of Assent</div>
     <div>27 June, 1991</div>
   </td>
   <td colspan="2">
-    <div>Ss. 4(1), 10(b) and 15–20: 1 Dec 1988 
-Ss. 28(b)–(e), 30 and 31: 10 Dec 1991 ( <i>see Gazette</i>1991, No. S332) 
+    <div>Ss. 4(1), 10(b) and 15-20: 1 Dec 1988 
+Ss. 28(b)-(e), 30 and 31: 10 Dec 1991 ( <i>see Gazette</i>1991, No. S332) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -331,23 +331,6 @@ Remainder: Royal Assent</div>
       <div>—</div>
     </td>
   </tr>
-  <tr>
-    <td>
-      <div>Statute Law Revision Act 2011</div>
-    </td>
-    <td>
-      <div>5, 2011</div>
-    </td>
-    <td>
-      <div>22 Mar 2011</div>
-    </td>
-    <td colspan="2">
-      <div>Schedule 7 (item 147): 19 Apr 2011</div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
 </thead>
 <tr height="0">
   <td></td>
@@ -358,19 +341,19 @@ Remainder: Royal Assent</div>
   <td></td>
 </tr></table>
 
-_(a)_     The _War Graves Act 1980_ was amended by Part LXXVII (section 280) only of the _Statute Law (Miscellaneous Amendments) Act (No. 2) 1982_, subsection 2(1) of which provides as follows:
+_(a)_     The _War__Graves__Act 1980_ was amended by Part LXXVII (section 280) only of the _Statute Law (Miscellaneous Amendments) Act (No. 2) 1982_, subsection 2(1) of which provides as follows:
 
                  (1)   Sections 1, 2, 166 and 195 and Parts III, VI, VII, XVI, XXXVI, XLIV, LI, LIII, LIV, LXI and LXXVII shall come into operation on the day on which this Act receives the Royal Assent.
 
-_(b)_     The _War Graves Act 1980_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows:
+_(b)_    The _War__Graves__Act 1980_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
 
-_(c)_     The _War Graves Act 1980_ was amended by Schedule 4 (item 151) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows:
+_(c)_     The _War__Graves__Act 1980_ was amended by Schedule 4 (item 151) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
 
-_(d)_     The _War Graves Act 1980_ was amended by Schedule 1 (item 978) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+_(d)_     The _War__Graves__Act 1980_ was amended by Schedule 1 (item 978) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
 
                  (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
 
@@ -404,7 +387,7 @@ _(d)_     The _War Graves Act 1980_ was amended by Schedule 1 (item 
     <div>S. 2</div>
   </td>
   <td>
-    <div>am. No. 80, 1982; No. 5, 2011</div>
+    <div>am. No. 80, 1982</div>
   </td>
 </tr>
 <tr>
