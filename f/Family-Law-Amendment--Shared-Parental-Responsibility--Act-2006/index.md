@@ -1,33 +1,22 @@
-![](http://www.comlaw.gov.au/Details/C2008C00441/Html/9B88C36EECB84AE8CA2574970001F4F7/$FILE/FamilyLawAmendSharParResp2006_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00162/Html/FamilyLawAmendSharParResp2006_image001.gif)
 
 # Family Law Amendment (Shared Parental Responsibility) Act 2006
 
 **Act No. 46 of 2006 as amended**
 
-This compilation was prepared on 19 July 2008
+This compilation was prepared on 23 March 2007
 
-**\[This Act was amended by Act No. 8 of 2007 (as amended by No. 73 of 2008); No. 73 of 2008]**
+**\[This Act was amended by Act No. 8 of 2007]**
 
-**Amendments from Act No. 8 of 2007 (as amended by No. 73 of 2008)**
+**Amendments from Act No. 8 of 2007**
 
 \[Schedule 2 (item 8) repealed and substituted items 38 and 39 of Schedule 8
+ Schedule 2 (item 9) repealed items 1 and 3 of Schedule 9
 
-Schedule 2 (item 8) of No. 8 of 2007 (as am. by No. 73 of 2008, Sch. 2 \[item 26]) repeals and substitutes the heading to item 39 of Schedule 8
-Schedule 2 (item 9) repealed items 1 and 3 of Schedule 9
-
-Schedule 2 (items 8 and 9) commenced immediately after 1 July 2006
-Schedule 2 (item 26) of No. 73 of 2008 commenced immediately after item 8 of Schedule 2]
-
-**Amendments from Act No. 73 of 2008**
-
-\[Schedule 2 (item 19) amended subsection 2(1)
-Schedule 2 (item 20) repealed and substituted heading before item 2 of Schedule 8
-
-Schedule 2 (items 19 and 20) commenced on 15 March 2007]
+Schedule 2 (items 8 and 9) commenced immediately after 1 July 2006]
 
 Prepared by the Office of Legislative Drafting and Publishing,
-Attorney-General’s Department, Canberra
-
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -117,6 +106,8 @@ Part 1—Amendments                   �
 
 Australian Citizenship Act 1948                                                                          145
 
+Australian Citizenship Act 2006                                                                          145
+
 Australian Passports Act 2005                                                                             145
 
 Child Support (Assessment) Act 1989                                                                 146
@@ -142,7 +133,6 @@ Part 2—Savings                    �
 **Schedule 10—Orders of non-judicial officers of State courts of summary jurisdiction** 
 
 Family Law Act 1975                                                                                              181
-
 
 ## An Act to amend the _Family Law Act 1975_, and for related purposes
 
@@ -208,144 +198,141 @@ The Parliament of Australia enacts:
     </td>
   </tr>
 </thead>
-<tbody>
-  <tr>
-    <td>
-      <div>1\. Sections 1 to 3 and anything in this Act not elsewhere covered by this
-        table</div>
-    </td>
-    <td>
-      <div>The day on which this Act receives the Royal Assent.</div>
-    </td>
-    <td>
-      <div>22 May 2006</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>2\. Schedules 1 and 2</div>
-    </td>
-    <td>
-      <div>A single day to be fixed by Proclamation.</div>
-      <div>However, if any of the provision(s) do not commence within the period
-        of 6 months beginning on the day on which this Act receives the Royal Assent,
-        they commence on the first day after the end of that period.</div>
-    </td>
-    <td>
-      <div>1 July 2006</div>
-      <div>(
-        <i>see</i>F2006L01775)</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>3\. Schedule 3</div>
-    </td>
-    <td>
-      <div>1 July 2006.</div>
-    </td>
-    <td>
-      <div>1 July 2006</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>4\. Schedule 4, items 1 to 8</div>
-    </td>
-    <td>
-      <div>The day on which this Act receives the Royal Assent.</div>
-    </td>
-    <td>
-      <div>22 May 2006</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>5\. Schedule 4, items 9 to 139</div>
-    </td>
-    <td>
-      <div>At the same time as the provision(s) covered by table item 2.</div>
-    </td>
-    <td>
-      <div>1 July 2006</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>6\. Schedules 5 to 7</div>
-    </td>
-    <td>
-      <div>At the same time as the provision(s) covered by table item 2.</div>
-    </td>
-    <td>
-      <div>1 July 2006</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>7\. Schedule 8, item 1</div>
-    </td>
-    <td>
-      <div>At the same time as the provision(s) covered by table item 2.</div>
-      <div>However, if section 6 of the
-        <i>Australian Citizenship Act 2006</i>commences before that time, the provision
-        does not commence at all.</div>
-    </td>
-    <td>
-      <div>1 July 2006</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>8\. Schedule 8, item 2</div>
-    </td>
-    <td>
-      <div>The later of:</div>
-      <div>(a) the time that the provision(s) covered by table item 2 commence; and</div>
-      <div>(b) immediately after section 6 of the
-        <i>Australian Citizenship Act 2007</i>commences.</div>
-      <div>However, the provision(s) do not commence at all if the event mentioned
-        in paragraph (b) does not occur.</div>
-    </td>
-    <td>
-      <div>1 July 2007</div>
-      <div>(paragraph (b) applies)</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>9\. Schedule 8, items 3 to 104</div>
-    </td>
-    <td>
-      <div>At the same time as the provision(s) covered by table item 2.</div>
-    </td>
-    <td>
-      <div>1 July 2006</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>10\. Schedule 9</div>
-    </td>
-    <td>
-      <div>At the same time as the provision(s) covered by table item 2.</div>
-    </td>
-    <td>
-      <div>1 July 2006</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>11\. Schedule 10</div>
-    </td>
-    <td>
-      <div>The day on which this Act receives the Royal Assent.</div>
-    </td>
-    <td>
-      <div>22 May 2006</div>
-    </td>
-  </tr>
-</tbody></table>
+<tr>
+  <td>
+    <div>1\. Sections 1 to 3 and anything in this Act not elsewhere covered by this
+      table</div>
+  </td>
+  <td>
+    <div>The day on which this Act receives the Royal Assent.</div>
+  </td>
+  <td>
+    <div>22 May 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>2\. Schedules 1 and 2</div>
+  </td>
+  <td>
+    <div>A single day to be fixed by Proclamation.</div>
+    <div>However, if any of the provision(s) do not commence within the period
+      of 6 months beginning on the day on which this Act receives the Royal Assent,
+      they commence on the first day after the end of that period.</div>
+  </td>
+  <td>
+    <div>1 July 2006</div>
+    <div>(
+      <i>see</i>F2006L01775)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>3\. Schedule 3</div>
+  </td>
+  <td>
+    <div>1 July 2006.</div>
+  </td>
+  <td>
+    <div>1 July 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>4\. Schedule 4, items 1 to 8</div>
+  </td>
+  <td>
+    <div>The day on which this Act receives the Royal Assent.</div>
+  </td>
+  <td>
+    <div>22 May 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>5\. Schedule 4, items 9 to 139</div>
+  </td>
+  <td>
+    <div>At the same time as the provision(s) covered by table item 2.</div>
+  </td>
+  <td>
+    <div>1 July 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>6\. Schedules 5 to 7</div>
+  </td>
+  <td>
+    <div>At the same time as the provision(s) covered by table item 2.</div>
+  </td>
+  <td>
+    <div>1 July 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>7\. Schedule 8, item 1</div>
+  </td>
+  <td>
+    <div>At the same time as the provision(s) covered by table item 2.</div>
+    <div>However, if section 6 of the
+      <i>Australian Citizenship Act 2006</i>commences before that time, the provision
+      does not commence at all.</div>
+  </td>
+  <td>
+    <div>1 July 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>8\. Schedule 8, item 2</div>
+  </td>
+  <td>
+    <div>The later of:</div>
+    <div>(a) the time that the provision(s) covered by table item 2 commence; and</div>
+    <div>(b) immediately after section 6 of the
+      <i>Australian Citizenship Act 2006</i>commences.</div>
+    <div>However, the provision(s) do not commence at all if the event mentioned
+      in paragraph (b) does not occur.</div>
+  </td>
+  <td>
+    <div>(paragraph (b) applies)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>9\. Schedule 8, items 3 to 104</div>
+  </td>
+  <td>
+    <div>At the same time as the provision(s) covered by table item 2.</div>
+  </td>
+  <td>
+    <div>1 July 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>10\. Schedule 9</div>
+  </td>
+  <td>
+    <div>At the same time as the provision(s) covered by table item 2.</div>
+  </td>
+  <td>
+    <div>1 July 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>11\. Schedule 10</div>
+  </td>
+  <td>
+    <div>The day on which this Act receives the Royal Assent.</div>
+  </td>
+  <td>
+    <div>22 May 2006</div>
+  </td>
+</tr></table>
 
 Note:          This table relates only to the provisions of this Act as originally passed by the Parliament and assented to. It will not be expanded to deal with provisions inserted in this Act after assent.
 
@@ -2146,47 +2133,45 @@ continue to have effect on and after commencement as if those regulations had be
     </td>
   </tr>
 </thead>
-<tbody>
-  <tr>
-    <td>
-      <div>1</div>
-    </td>
-    <td>
-      <div>paragraph 70NK(2A)(c)</div>
-    </td>
-    <td>
-      <div>paragraph 70NFC(3)(c)</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>2</div>
-    </td>
-    <td>
-      <div>subsection 70NK(3)</div>
-    </td>
-    <td>
-      <div>subsection 70NFC(4)</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>3</div>
-    </td>
-    <td>
-      <div>definition of
-        <b>
-          <i>maximum period</i>
-        </b>in subsection 70NK(5)</div>
-    </td>
-    <td>
-      <div>definition of
-        <b>
-          <i>maximum period</i>
-        </b>in subsection 70NFC(6)</div>
-    </td>
-  </tr>
-</tbody></table>
+<tr>
+  <td>
+    <div>1</div>
+  </td>
+  <td>
+    <div>paragraph 70NK(2A)(c)</div>
+  </td>
+  <td>
+    <div>paragraph 70NFC(3)(c)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>2</div>
+  </td>
+  <td>
+    <div>subsection 70NK(3)</div>
+  </td>
+  <td>
+    <div>subsection 70NFC(4)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>3</div>
+  </td>
+  <td>
+    <div>definition of
+      <b>
+        <i>maximum period</i>
+      </b>in subsection 70NK(5)</div>
+  </td>
+  <td>
+    <div>definition of
+      <b>
+        <i>maximum period</i>
+      </b>in subsection 70NFC(6)</div>
+  </td>
+</tr></table>
 
 ###### Schedule 3—Amendments relating to the conduct of child-related proceedings
 
@@ -2218,21 +2203,19 @@ Insert:
   <col width="86%">
 </colgroup>
 
-<tbody>
-  <tr>
-    <td>
-      <div>12A</div>
-    </td>
-    <td>
-      <div>
-        <b>Division 12A—Principles for conducting child-related proceedings</b>
-      </div>
-      <div>principles for conducting proceedings under this Part and certain other
-        incidental proceedings</div>
-      <div>duties and powers of the court related to giving effect to the principles</div>
-    </td>
-  </tr>
-</tbody></table>
+<tr>
+  <td>
+    <div>12A</div>
+  </td>
+  <td>
+    <div>
+      <b>Division 12A—Principles for conducting child-related proceedings</b>
+    </div>
+    <div>principles for conducting proceedings under this Part and certain other
+      incidental proceedings</div>
+    <div>duties and powers of the court related to giving effect to the principles</div>
+  </td>
+</tr></table>
 
 ## 4  After Division 12 of Part VII
 
@@ -3624,20 +3607,18 @@ Repeal the table item, substitute:
   <col width="86%">
 </colgroup>
 
-<tbody>
-  <tr>
-    <td>
-      <div>3</div>
-    </td>
-    <td>
-      <div>
-        <b>Division 3—Reports relating to children under 18</b>
-      </div>
-      <div>preparation of reports for use in proceedings relating to children under
-        18</div>
-    </td>
-  </tr>
-</tbody></table>
+<tr>
+  <td>
+    <div>3</div>
+  </td>
+  <td>
+    <div>
+      <b>Division 3—Reports relating to children under 18</b>
+    </div>
+    <div>preparation of reports for use in proceedings relating to children under
+      18</div>
+  </td>
+</tr></table>
 
 ## 50  Division 3 of Part VII (heading)
 
@@ -4213,45 +4194,43 @@ Repeal the item, substitute:
   <col width="0%">
 </colgroup>
 
-<tbody>
-  <tr>
-    <td>
-      <div>8.1.1</div>
-    </td>
-    <td>
-      <div>a public fund established and maintained by a
-        *non-profit company solely for the purpose of providing money to
-        be used in giving or providing marriage education under the
-        <i>Marriage Act 1961</i>to individuals in Australia</div>
-    </td>
-    <td colspan="2">
-      <div>see section 30-75</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>8.1.2</div>
-    </td>
-    <td>
-      <div>a public fund:</div>
-      <div>(a) that is established and maintained by a
-        *non-profit company which receives funding from the Commonwealth
-        to provide family counselling or family dispute resolution within the meaning
-        of the
-        <i>Family Law Act 1975</i>; and</div>
-      <div>(b) that is established and maintained solely for the purpose of providing
-        money to be used in providing family counselling or family dispute resolution
-        within the meaning of the
-        <i>Family Law Act 1975</i>to individuals in Australia</div>
-    </td>
-    <td>
-      <div>none</div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-</tbody></table>
+<tr>
+  <td>
+    <div>8.1.1</div>
+  </td>
+  <td>
+    <div>a public fund established and maintained by a
+      *non-profit company solely for the purpose of providing money to
+      be used in giving or providing marriage education under the
+      <i>Marriage Act 1961</i>to individuals in Australia</div>
+  </td>
+  <td colspan="2">
+    <div>see section 30-75</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>8.1.2</div>
+  </td>
+  <td>
+    <div>a public fund:</div>
+    <div>(a) that is established and maintained by a
+      *non-profit company which receives funding from the Commonwealth
+      to provide family counselling or family dispute resolution within the meaning
+      of the
+      <i>Family Law Act 1975</i>; and</div>
+    <div>(b) that is established and maintained solely for the purpose of providing
+      money to be used in providing family counselling or family dispute resolution
+      within the meaning of the
+      <i>Family Law Act 1975</i>to individuals in Australia</div>
+  </td>
+  <td>
+    <div>none</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr></table>
 
 ## 113B  Section 30-75
 
@@ -4595,20 +4574,18 @@ Repeal the item, substitute:
   <col width="90%">
 </colgroup>
 
-<tbody>
-  <tr>
-    <td>
-      <div>10</div>
-    </td>
-    <td>
-      <div>
-        <b>Division 10—The representation of the child’s interests</b>
-      </div>
-      <div>the representation of a child’s interests in proceedings by an independent
-        children’s lawyer</div>
-    </td>
-  </tr>
-</tbody></table>
+<tr>
+  <td>
+    <div>10</div>
+  </td>
+  <td>
+    <div>
+      <b>Division 10—The representation of the child’s interests</b>
+    </div>
+    <div>the representation of a child’s interests in proceedings by an independent
+      children’s lawyer</div>
+  </td>
+</tr></table>
 
 ## 5  Division 10 of Part VII
 
@@ -5039,41 +5016,39 @@ continue to have effect on and after commencement as if those regulations had be
     </td>
   </tr>
 </thead>
-<tbody>
-  <tr>
-    <td>
-      <div>1</div>
-    </td>
-    <td>
-      <div>subparagraph 68T(3)(a)(iii)</div>
-    </td>
-    <td>
-      <div>paragraph 68S(1)(f)</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>2</div>
-    </td>
-    <td>
-      <div>subparagraph 68T(3)(b)(ii)</div>
-    </td>
-    <td>
-      <div>paragraph 68S(2)(b)</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>3</div>
-    </td>
-    <td>
-      <div>subsection 68T(6)</div>
-    </td>
-    <td>
-      <div>subsection 68R(6)</div>
-    </td>
-  </tr>
-</tbody></table>
+<tr>
+  <td>
+    <div>1</div>
+  </td>
+  <td>
+    <div>subparagraph 68T(3)(a)(iii)</div>
+  </td>
+  <td>
+    <div>paragraph 68S(1)(f)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>2</div>
+  </td>
+  <td>
+    <div>subparagraph 68T(3)(b)(ii)</div>
+  </td>
+  <td>
+    <div>paragraph 68S(2)(b)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>3</div>
+  </td>
+  <td>
+    <div>subsection 68T(6)</div>
+  </td>
+  <td>
+    <div>subsection 68R(6)</div>
+  </td>
+</tr></table>
 
 ###### Schedule 7—Jurisdiction of courts
 
@@ -5105,7 +5080,7 @@ Repeal the paragraphs, substitute:
 
                      (c)  under a parenting order the person has parental responsibility for the child’s long-term or day-to-day care, welfare and development (whether or not the person is a parent of the child); or
 
-Australian Citizenship Act 2007
+<h9 class="ActHead9">Australian Citizenship Act 2006</h9>
 
 ## 2  Paragraphs 6(1)(b) and (c)
 
@@ -5197,7 +5172,7 @@ Omit “**_contact_** with”, substitute “**_care_** of”.
 
 Omit “**_contact_** with”, substitute “**_care_** of”.
 
-## 19  Paragraph 8A(1)(a)
+## 19  Paragraph 8A(1)(a)
 
 Omit “the contact between a child and”, substitute “the time a child is to spend with”.
 
@@ -5297,7 +5272,7 @@ Omit “have contact with”, substitute “care for”.
 
 Omit “sub-subparagraph (2)(b)(i)(A)”, substitute “(2)(b)(i)”.
 
-39  Subsection 117(3B)
+39  Subsections 117(3A) and (3B)
 
 Omit “sub-subparagraph (2)(b)(i)(C)”, substitute “subparagraph (2)(b)(ib)”.
 
@@ -5579,7 +5554,7 @@ Repeal the subsection, substitute:
 
                      (d)  a person is to have parental responsibility for a child.
 
-## 66  Subsection 65Y(1)
+## 66  Subsection 65Y(1)
 
 Omit “If a residence order, a contact order or a care order (the **_Part VII order_**)”, substitute “If a parenting order to which this Subdivision applies”.
 
@@ -5946,47 +5921,45 @@ continue to have effect on and after commencement as if those regulations had be
     </td>
   </tr>
 </thead>
-<tbody>
-  <tr>
-    <td>
-      <div>1</div>
-    </td>
-    <td>
-      <div>definition of
-        <b>
-          <i>overseas child order</i>
-        </b>in section 70F</div>
-    </td>
-    <td>
-      <div>definition of
-        <b>
-          <i>overseas child order</i>
-        </b>in subsection 4(1)</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>2</div>
-    </td>
-    <td>
-      <div>subsection 70N(1)</div>
-    </td>
-    <td>
-      <div>subsection 70N(1)</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>3</div>
-    </td>
-    <td>
-      <div>paragraph 111B(1A)(c)</div>
-    </td>
-    <td>
-      <div>paragraph 111B(1A)(c)</div>
-    </td>
-  </tr>
-</tbody></table>
+<tr>
+  <td>
+    <div>1</div>
+  </td>
+  <td>
+    <div>definition of
+      <b>
+        <i>overseas child order</i>
+      </b>in section 70F</div>
+  </td>
+  <td>
+    <div>definition of
+      <b>
+        <i>overseas child order</i>
+      </b>in subsection 4(1)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>2</div>
+  </td>
+  <td>
+    <div>subsection 70N(1)</div>
+  </td>
+  <td>
+    <div>subsection 70N(1)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>3</div>
+  </td>
+  <td>
+    <div>paragraph 111B(1A)(c)</div>
+  </td>
+  <td>
+    <div>paragraph 111B(1A)(c)</div>
+  </td>
+</tr></table>
 
 ###### Schedule 9—Relocation of defined terms used in Part VII
 
@@ -6561,110 +6534,108 @@ continue to have effect on and after commencement as if those regulations had be
     </td>
   </tr>
 </thead>
-<tbody>
-  <tr>
-    <td>
-      <div>1</div>
-    </td>
-    <td>
-      <div>definition of
-        <b>
-          <i>child welfare law</i>
-        </b>in subsection 60D(1)</div>
-    </td>
-    <td>
-      <div>definition of
-        <b>
-          <i>child welfare law</i>
-        </b>in subsection 4(1)</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>2</div>
-    </td>
-    <td>
-      <div>definition of
-        <b>
-          <i>child welfare officer</i>
-        </b>in subsection 60D(1)</div>
-    </td>
-    <td>
-      <div>definition of
-        <b>
-          <i>child welfare officer</i>
-        </b>in subsection 4(1)</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>3</div>
-    </td>
-    <td>
-      <div>definition of
-        <b>
-          <i>family violence order</i>
-        </b>in subsection 60D(1)</div>
-    </td>
-    <td>
-      <div>definition of
-        <b>
-          <i>family violence order</i>
-        </b>in subsection 4(1)</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>4</div>
-    </td>
-    <td>
-      <div>definition of
-        <b>
-          <i>parentage testing procedure</i>
-        </b>in subsection 60D(1)</div>
-    </td>
-    <td>
-      <div>definition of
-        <b>
-          <i>parentage testing procedure</i>
-        </b>in subsection 4(1)</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>5</div>
-    </td>
-    <td>
-      <div>paragraph (a) or (b) of the definition of
-        <b>
-          <i>prescribed child welfare authority</i>
-        </b>in subsection 60D(1)</div>
-    </td>
-    <td>
-      <div>paragraph (a) or (b) of the definition of
-        <b>
-          <i>prescribed child welfare authority</i>
-        </b>in subsection 4(1)</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>6</div>
-    </td>
-    <td>
-      <div>definition of
-        <b>
-          <i>principal officer</i>
-        </b>in section 67H</div>
-    </td>
-    <td>
-      <div>definition of
-        <b>
-          <i>principal officer</i>
-        </b>in subsection 4(1)</div>
-    </td>
-  </tr>
-</tbody></table>
+<tr>
+  <td>
+    <div>1</div>
+  </td>
+  <td>
+    <div>definition of
+      <b>
+        <i>child welfare law</i>
+      </b>in subsection 60D(1)</div>
+  </td>
+  <td>
+    <div>definition of
+      <b>
+        <i>child welfare law</i>
+      </b>in subsection 4(1)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>2</div>
+  </td>
+  <td>
+    <div>definition of
+      <b>
+        <i>child welfare officer</i>
+      </b>in subsection 60D(1)</div>
+  </td>
+  <td>
+    <div>definition of
+      <b>
+        <i>child welfare officer</i>
+      </b>in subsection 4(1)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>3</div>
+  </td>
+  <td>
+    <div>definition of
+      <b>
+        <i>family violence order</i>
+      </b>in subsection 60D(1)</div>
+  </td>
+  <td>
+    <div>definition of
+      <b>
+        <i>family violence order</i>
+      </b>in subsection 4(1)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>4</div>
+  </td>
+  <td>
+    <div>definition of
+      <b>
+        <i>parentage testing procedure</i>
+      </b>in subsection 60D(1)</div>
+  </td>
+  <td>
+    <div>definition of
+      <b>
+        <i>parentage testing procedure</i>
+      </b>in subsection 4(1)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>5</div>
+  </td>
+  <td>
+    <div>paragraph (a) or (b) of the definition of
+      <b>
+        <i>prescribed child welfare authority</i>
+      </b>in subsection 60D(1)</div>
+  </td>
+  <td>
+    <div>paragraph (a) or (b) of the definition of
+      <b>
+        <i>prescribed child welfare authority</i>
+      </b>in subsection 4(1)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>6</div>
+  </td>
+  <td>
+    <div>definition of
+      <b>
+        <i>principal officer</i>
+      </b>in section 67H</div>
+  </td>
+  <td>
+    <div>definition of
+      <b>
+        <i>principal officer</i>
+      </b>in subsection 4(1)</div>
+  </td>
+</tr></table>
 
 ###### Schedule 10—Orders of non-judicial officers of State courts of summary jurisdiction
 
@@ -6720,7 +6691,7 @@ Insert:
 
              (3)  If a court, or a non-judicial officer of a court of summary jurisdiction of a State, has purported to affirm, vary, revoke, set aside, reverse, revive or suspend an ineffective order, a reference in this Part to the ineffective order is a reference to the order in the form in which, and to the extent to which, it purports or purported to have effect from time to time.
 
-##### <a id="114MI"></a>114MI  Rights and liabilities declared in certain cases
+##### <a id="114MI"></a>114MI  Rights and liabilities declared in certain cases
 
                    The rights and liabilities of all persons are, by force of this section, declared to be, and always to have been, the same as if each ineffective order of a court of summary jurisdiction had been an order made by that court, in the exercise of its federal family jurisdiction, in or in relation to the proceedings for the order.
 
