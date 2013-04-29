@@ -1,31 +1,33 @@
-![](http://www.comlaw.gov.au/Details/C2004C01964/Html/AusAnHeCouLsIFun96_image001.jpg)
+# ![](http://www.comlaw.gov.au/Details/C2004C01963/Html/AusAnHeaCouLIFund96_image001.gif)
 
 # Australian Animal Health Council (Live-stock Industries) Funding Act 1996
 
 **Act No. 45 of 1996 as amended**
 
-Consolidated as in force on 1 July 1999
+Consolidated as in force on 11 February 1999
 
-(includes amendments up to Act No. 32 of 1999)
+(includes amendments up to Act No. 207 of 1997)
 
 Prepared by the Office of Legislative Drafting,
  Attorney-General’s Department, Canberra
 
  
 
+ 
+
 # Contents
 
-1             Short title [_see_ Note 1]                                                                        1
+1             Short title [_see_ Note 1]                                                                        
 
-2             Commencement [_see_ Note 1]                                                               1
+2             Commencement [_see_ Note 1]                                                              
 
-3             Definitions                                                                                           1
+3             Definitions                                                                                           
 
-4             Transfer of funds to Australian Animal Health Council                     2
+4             Transfer of funds to Australian Animal Health Council                     
 
-5             Appropriation                                                                                     2
+5             Appropriation                                                                                     
 
-**Notes** 
+#  
 
 ## An Act to direct funds to the Australian Animal Health Council, and for related purposes
 
@@ -35,11 +37,11 @@ Prepared by the Office of Legislative Drafting,
 
 **Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
+##### <a id="1"></a>1   Short title [_see_ Note 1]
 
-                   This Act may be cited as the Australian Animal Health Council (Live-stock Industries) Funding Act 1996.
+                   This Act may be cited as the _Australian Animal Health Council (Live-stock Industries) Funding Act 1996._
 
-##### <a id="2"></a>2  Commencement [_see_ Note 1]
+##### <a id="2"></a>2   Commencement [_see_ Note 1]
 
                    This Act commences on the day on which it receives the Royal Assent.
 
@@ -51,37 +53,21 @@ Prepared by the Office of Legislative Drafting,
 
                     <a name="australian-anim-health-council-levi"></a>**_Australian Animal Health Council levy_** means a levy or charge the rate of which is set by or under any of the following provisions:
 
-                    (aa)  paragraph 3(1)(d) or (2)(d) of Schedule 3 to the _Primary Industries (Customs) Charges Act 1999_;
+                     (a)  paragraph 5(1)(d) or 5(2)(d) of the _Cattle (Producers) Export Charges Act 1997_;
 
-                    (ab)  paragraph 6(1)(d), (2)(d) or (3)(d) of Schedule 3 to the _Primary Industries (Excise) Levies Act 1999_;
+                     (b)  paragraph 7(1)(d), 7(2)(d) or 7(3)(d) of the _Cattle Transactions Levy Act 1997_;
 
-                    (ac)  subclause 10(1) of Schedule 6 to the _Primary Industries (Excise) Levies Act 1999_, so far as it relates to paragraph 6(1)(g) of that Schedule;
+                     (c)  subsection 9(1) of the _Dairy Produce Levy (No. 1) Act 1986_, so far as it relates to paragraph 5(1)(g) of that Act;
 
-                    (ad)  paragraph 4(b) of Schedule 16 to the _Primary Industries (Excise) Levies Act 1999_;
+                     (d)  paragraph 7(b) of the _Laying Chicken Levy Act 1988_;
 
-                    (ae)  paragraph 3(c), 4(c) or 5(c) of Schedule 12 to the _Primary Industries (Customs) Charges Act 1999_;
+                     (e)  paragraph 5(c), 6(c) or 7(c) of the _Live-stock (Producers) Export Charges Act 1997_;
 
-                    (af)  paragraph 4(1)(c), (3)(c) or (4)(c) of Schedule 18 to the _Primary Industries (Excise) Levies Act 1999_;
+                      (f)  paragraph 6(1)(c), 7(c) or 8(1)(c) of the _Live-stock Transactions Levy Act 1997_;
 
-                    (ag)  paragraph 3(b) of Schedule 19 to the _Primary Industries (Excise) Levies Act 1999_;
+                     (g)  paragraph 7(1)(b) of the _Meat Chicken Levy Act 1969_;
 
-                    (ah)  paragraph 3(c) of Schedule 22 to the _Primary Industries (Excise) Levies Act 1999_;
-
-                     (a)  paragraph 5(1)(d) or 5(2)(d) of the repealed _Cattle (Producers) Export Charges Act 1997_;
-
-                     (b)  paragraph 7(1)(d), 7(2)(d) or 7(3)(d) of the repealed _Cattle Transactions Levy Act 1997_;
-
-                     (c)  subsection 9(1) of the repealed _Dairy Produce Levy (No. 1) Act 1986_, so far as it relates to paragraph 5(1)(g) of that Act;
-
-                     (d)  paragraph 7(b) of the repealed _Laying Chicken Levy Act 1988_;
-
-                     (e)  paragraph 5(c), 6(c) or 7(c) of the repealed _Live-stock (Producers) Export Charges Act 1997_;
-
-                      (f)  paragraph 6(1)(c), 7(c) or 8(1)(c) of the repealed _Live-stock Transactions Levy Act 1997_;
-
-                     (g)  paragraph 7(1)(b) of the repealed _Meat Chicken Levy Act 1969_;
-
-                     (h)  paragraph 6(1)(c) of the repealed _Pig Slaughter Levy Act 1971_.
+                     (h)  paragraph 6(1)(c) of the _Pig Slaughter Levy Act 1971_.
 
 ##### <a id="4"></a>4  Transfer of funds to Australian Animal Health Council
 
@@ -97,11 +83,9 @@ Prepared by the Office of Legislative Drafting,
 
  
 
-# Notes to the _Australian Animal Health Council (Live-stock Industries) Funding Act 1996_
+# NOTE
 
-### Note 1
-
-The _Australian Animal Health Council (Live-stock Industries) Funding Act 1996_ as shown in this consolidation comprises Act No. 45, 1996 amended as indicated in the Tables below.
+1.   The _Australian Animal Health Council (Live-stock Industries) Funding Act 1996_ as shown in this reprint comprises Act No. 45, 1996 amended as indicated in the Tables below.
 
 ### Table of Acts
 
@@ -114,25 +98,27 @@ The _Australian Animal Health Council (Live-stock Industries) Funding Act 1996_ 
   <col width="14%">
 </colgroup>
 
-<tr>
-  <td>
-    <div>Act</div>
-  </td>
-  <td>
-    <div>Number 
+<thead>
+  <tr>
+    <td>
+      <div>Act</div>
+    </td>
+    <td>
+      <div>Number 
 and Year</div>
-  </td>
-  <td>
-    <div>Date 
+    </td>
+    <td>
+      <div>Date 
 of Assent</div>
-  </td>
-  <td>
-    <div>Date of commencement</div>
-  </td>
-  <td>
-    <div>Application, saving or transitional provisions</div>
-  </td>
-</tr>
+    </td>
+    <td>
+      <div>Date of commencement</div>
+    </td>
+    <td>
+      <div>Application, saving or transitional provisions</div>
+    </td>
+  </tr>
+</thead>
 <tr>
   <td>
     <div><i> Australian Animal Health Council (Live-stock Industries) Funding Act 1996 </i></div>
@@ -178,24 +164,7 @@ of Assent</div>
     <div>17 Dec 1997</div>
   </td>
   <td>
-    <div>Schedule 3 (item 1): 1 July 1998 (s <i>ee Gazette</i>1998, No. GN22) <i>(a)</i> </div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Primary Industries Levies and Charges (Consequential Amendments) Act 1999</div>
-  </td>
-  <td>
-    <div>32, 1999</div>
-  </td>
-  <td>
-    <div>14 May 1999</div>
-  </td>
-  <td>
-    <div>Schedule 9: <i>(b)</i> </div>
+    <div>Schedule 3 (item 1): 1 July 1998 ( <i>See Gazette</i>1998, No. GN 22) <i>(a)</i> </div>
   </td>
   <td>
     <div>—</div>
@@ -206,13 +175,7 @@ of Assent</div>
 
 _(a)_     The _Australian Animal Health Council (Live-stock Industries) Funding Act 1996_ was amended by Schedule 3 (item 1) only of the _Australian Meat and Live-stock Industry (Repeals and Consequential Provisions) Act 1997_, subsection 2(4) of which provides as follows:
 
-                  (4)   Subject to this section, the remaining provisions of this Act commence on the same day as Part 3 of the _Australian Meat and Live-stock Industry Act 1997_.
-
-_(b)_    The _Australian Animal Health Council (Live-stock Industries) Funding Act 1996_ was amended by Schedule 9 only of the _Primary Industries Levies and Charges (Consequential Amendments) Act 1999_, subsection 2(1) of which provides as follows:
-
-                  (1)   Subject to this section, this Act commences on the commencement of section 1 of the _Primary Industries (Excise) Levies Act 1999_.
-
-         Section 1 of the _Primary Industries (Excise) Levies Act 1999_ commenced on 1 July 1999.
+                 “(4)   Subject to this section, the remaining provisions of this Act commence on the same day as Part 3 of the _Australian Meat and Live-stock Industry Act 1997_.”.
 
 ## Table of Amendments
 
@@ -222,25 +185,35 @@ _(b)_    The _Australian Animal Health Council (Live-stock Industries) Fun
   <col width="67%">
 </colgroup>
 
-<tr>
-  <td colspan="2">
-    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Provision affected</div>
-  </td>
-  <td>
-    <div>How affected</div>
-  </td>
-</tr>
+<thead>
+  <tr>
+    <td colspan="2">
+      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Provision affected</div>
+    </td>
+    <td>
+      <div>How affected</div>
+    </td>
+  </tr>
+</thead>
 <tr>
   <td>
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. Nos. 83, and 207, 1997; No. 32, 1999</div>
+    <div>am. Nos. 83, and 207, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div> </div>
+  </td>
+  <td>
+    <div> </div>
   </td>
 </tr></table>
 
