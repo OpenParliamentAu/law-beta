@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00599/Html/c9dd63b1-e3ae-4fa9-a6e1-ed9b6c12719e_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00417/Html/e5096435-ae58-4201-8c1b-a5ecc9598267_files/image001.gif)
 
 # Carbon Credits (Carbon Farming Initiative) Act 2011
 
 **Act No. 101 of 2011 as amended**
 
-This compilation was prepared on 30 June 2012
- taking into account amendments up to Act No. 84 of 2012
+This compilation was prepared on 1 May 2012
+ taking into account amendments up to Act No. 132 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -1697,7 +1697,7 @@ Note:          See section 76.
 
 ##### <a id="6"></a>6  Vacancy in the office of a Domestic Offsets Integrity Committee member
 
-                   For the purposes of a reference in:
+                   For the purposes of a reference in:
 
                      (a)  this Act to a **_vacancy_** in the office of a Domestic Offsets Integrity Committee member; or
 
@@ -1749,7 +1749,7 @@ there are taken to be 4 offices of member of the Domestic Offsets Integrity Comm
 
 ### Division 1—Introduction
 
-##### <a id="10"></a>10  Simplified outline
+##### <a id="10"></a>10  Simplified outline
 
                    The following is a simplified outline of this Part:
 
@@ -1817,7 +1817,7 @@ Note 2:       See also section 141 (issue of Australian carbon cre
 
 ### Division 3—Certificate of entitlement
 
-##### <a id="12"></a>12  Application for certificate of entitlement
+##### <a id="12"></a>12  Application for certificate of entitlement
 
                    After the end of a reporting period for an eligible offsets project, a person may apply to the Regulator for the issue to the person of a certificate of entitlement in respect of the project for the reporting period.
 
@@ -1889,7 +1889,7 @@ Issue of certificate
 
                      (d)  if the project is a prescribed native forest protection project—the reporting period is the first reporting period for the project; and
 
-                     (e)  if the relevant section 27 declaration is subject to the condition that all regulatory approvals must be obtained for the project before the end of the first reporting period for the project—that condition has been met; and
+                     (e)  if the relevant section 27 declaration is subject to the condition that all regulatory approvals must be obtained for the project before the end of the first crediting period for the project—that condition has been met; and
 
                       (f)  the applicant is not subject to a requirement under Part 7 to relinquish a number of Australian carbon credit units; and
 
@@ -1937,7 +1937,7 @@ Unit entitlement
 
              (2)  The number to be specified in a certificate of entitlement in respect of the project for a reporting period as the unit entitlement in respect of the certificate is the number worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00599/Html/c9dd63b1-e3ae-4fa9-a6e1-ed9b6c12719e_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00417/Html/e5096435-ae58-4201-8c1b-a5ecc9598267_files/image002.gif)
 
 where:
 
@@ -1979,7 +1979,7 @@ Unit entitlement—prescribed native forest protection projects
 
              (2)  If the project is a prescribed native forest protection project, the number to be specified in a certificate of entitlement in respect of the project for a reporting period as the unit entitlement in respect of the certificate is the number worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00599/Html/c9dd63b1-e3ae-4fa9-a6e1-ed9b6c12719e_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00417/Html/e5096435-ae58-4201-8c1b-a5ecc9598267_files/image003.gif)
 
 where:
 
@@ -2005,7 +2005,7 @@ Unit entitlement—other native forest protection projects
 
              (3)  If the project is not a prescribed native forest protection project, the number to be specified in a certificate of entitlement in respect of the project for a reporting period as the unit entitlement in respect of the certificate is the number worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00599/Html/c9dd63b1-e3ae-4fa9-a6e1-ed9b6c12719e_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00417/Html/e5096435-ae58-4201-8c1b-a5ecc9598267_files/image004.gif)
 
 where:
 
@@ -2419,7 +2419,7 @@ Scope
 
 Condition
 
-             (2)  The Regulator must specify in the declaration that the declaration is subject to the condition that all regulatory approvals must be obtained for the project before the end of the first reporting period for the project.
+             (2)  The Regulator must specify in the declaration that the declaration is subject to the condition that all regulatory approvals must be obtained for the project before the end of the first crediting period for the project.
 
 ### Division 3—Variation of declaration of eligible offsets project
 
@@ -2551,7 +2551,7 @@ References to eligible offsets project
 
 Scope
 
-             (1)  This section applies to a declaration under section 27 in relation to an offsets project if the declaration is subject to a condition that all regulatory approvals must be obtained for the project before the end of the first reporting period for the project.
+             (1)  This section applies to a declaration under section 27 in relation to an offsets project if the declaration is subject to a condition that all regulatory approvals must be obtained for the project before the end of the first crediting period for the project.
 
 Regulations
 
@@ -2673,7 +2673,7 @@ Note 2:       See also section 178 (transfer of certain units inst
 
              (2)  Regulations made for the purposes of subsection (1) must not empower the Regulator to revoke a declaration unless:
 
-                     (a)  the declaration is subject to the condition that all regulatory approvals for the project must be obtained before the end of the first reporting period for the project; and
+                     (a)  the declaration is subject to the condition that all regulatory approvals for the project must be obtained before the end of the first crediting period for the project; and
 
                      (b)  the Regulator is satisfied that the condition has not been met.
 
@@ -2875,7 +2875,7 @@ this Act has effect, and is taken always to have had effect, as if the Minister 
 
                    For the purposes of this Act, the **_net total number_** of Australian carbon credit units issued in relation to an eligible offsets project in accordance with Part 2 is the number worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00599/Html/c9dd63b1-e3ae-4fa9-a6e1-ed9b6c12719e_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00417/Html/e5096435-ae58-4201-8c1b-a5ecc9598267_files/image005.gif)
 
 ### Division 8—Applicable carbon sequestration right
 
@@ -3985,11 +3985,11 @@ Determination is not a legislative instrument
 
 * * *
 
-<li class="BoxList" style="margin-left:21.25pt">•      The project proponent for an
+<li class="BoxList" style="margin-left:21.25pt">•      The project proponent for
 
-eligible offsets project must give the Regulator an offsets report for a period
+an eligible offsets project must give the Regulator an offsets report for a
 
-that is expressed to be a reporting period for the project.</li>
+period that is expressed to be a reporting period for the project.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      The first reporting period
 
@@ -5237,6 +5237,10 @@ the Minister must, as soon as practicable after making the decision, give the ap
 
              (9)  Subsection (8) has effect despite anything in subsection 14(2) of the _Legislative Instruments Act 2003_.
 
+           (10)  If a methodology determination makes provision in relation to a matter by applying, adopting or incorporating, with or without modification, a matter contained in an instrument or writing, the Domestic Offsets Integrity Committee must ensure that the text of the matter applied, adopted or incorporated is published on its website.
+
+           (11)  Subsection (10) does not apply if the publication would infringe copyright.
+
            (12)  If:
 
                      (a)  the Domestic Offsets Integrity Committee:
@@ -5687,13 +5691,7 @@ Advice
 
 Note:          Section 130 deals with approval of the application of a specified methodology determination to a project with effect from the start of a reporting period.
 
-             (3)  If:
-
-                     (a)  a methodology determination is made on or before 30 June 2013; and
-
-                     (b)  an application under section 108 for endorsement of a proposal for the determination was made on or before 30 June 2012;
-
-the determination may be expressed to have come into force at the start of 1 July 2010.
+             (3)  If a methodology determination is made on or before 30 June 2012, the determination may be expressed to have come into force at the start of 1 July 2010.
 
              (4)  If a methodology determination expires, this Act does not prevent the Minister from making a fresh methodology determination in the same terms as the expired determination.
 
@@ -6807,7 +6805,7 @@ Australian carbon credit units relinquished
 
                      (g)  the name of the applicable methodology determination; and
 
-                     (h)  whether the relevant declaration under section 27 is subject to a condition that all relevant regulatory approvals must be obtained before the end of the first reporting period for the project; and
+                     (h)  whether the relevant declaration under section 27 is subject to a condition that all relevant regulatory approvals must be obtained before the end of the first crediting period for the project; and
 
                       (i)  if the project area, or any of the project areas, is covered by a regional natural resource management plan—whether the project is consistent with the plan; and
 
@@ -7311,7 +7309,7 @@ No units relinquished
 
              (2)  If, by the compliance deadline, the person has not relinquished any Australian carbon credit units in order to comply with the requirement, the person is liable to pay to the Commonwealth, by way of penalty, an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00599/Html/c9dd63b1-e3ae-4fa9-a6e1-ed9b6c12719e_files/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00417/Html/e5096435-ae58-4201-8c1b-a5ecc9598267_files/image006.gif)
 
 where:
 
@@ -7333,7 +7331,7 @@ Relinquishment of insufficient units
 
 the person is liable to pay to the Commonwealth, by way of penalty, an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00599/Html/c9dd63b1-e3ae-4fa9-a6e1-ed9b6c12719e_files/image007.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00417/Html/e5096435-ae58-4201-8c1b-a5ecc9598267_files/image007.gif)
 
 where:
 
@@ -7577,9 +7575,11 @@ a person to:</li>
 
               (b)     retain the record.
 
-<li class="BoxList" style="margin-left:21.25pt">•      A person is subject to record‑keeping
+<li class="BoxList" style="margin-left:21.25pt">•      A person is subject to
 
-requirements in relation to the preparation of an offsets report.</li>
+record‑keeping requirements in relation to the preparation of an offsets
+
+report.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      A project proponent must
 
@@ -7591,7 +7591,7 @@ methodology determination.</li>
 
 ### Division 2—Record‑keeping requirements
 
-##### <a id="191"></a>191  Record‑keeping requirements—general
+##### <a id="191"></a>191  Record‑keeping requirements—general
 
              (1)  The regulations may require a person to:
 
@@ -8437,7 +8437,7 @@ Note:          Part 21 provides for pecuniary penalties for 
 
 ##### <a id="219"></a>219  Simplified outline
 
-                   The following is a simplified outline of this Part:
+                   The following is a simplified outline of this Part:
 
 * * *
 
@@ -10466,23 +10466,6 @@ Schedule 5: 8 Dec 2011 ( <i>see</i>s. 2(1))</div>
   <td>
     <div>Sch. 1 (items 215A, 220A)</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Clean Energy Legislation Amendment Act 2012</div>
-  </td>
-  <td>
-    <div>84, 2012</div>
-  </td>
-  <td>
-    <div>28 June 2012</div>
-  </td>
-  <td>
-    <div>Schedule 3: 29 June 2012</div>
-  </td>
-  <td>
-    <div>Sch. 3 (item 8)</div>
-  </td>
 </tr></table>
 
 ## Table of Amendments
@@ -10574,34 +10557,10 @@ Schedule 5: 8 Dec 2011 ( <i>see</i>s. 2(1))</div>
 </tr>
 <tr>
   <td>
-    <div>S. 12</div>
+    <div>Ss. 12–15</div>
   </td>
   <td>
     <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 14</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011; No. 84, 2012</div>
   </td>
 </tr>
 <tr>
@@ -10670,50 +10629,10 @@ Schedule 5: 8 Dec 2011 ( <i>see</i>s. 2(1))</div>
 </tr>
 <tr>
   <td>
-    <div>S. 23</div>
+    <div>Ss. 23–28</div>
   </td>
   <td>
     <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 24</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 25</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 26</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 27</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 28</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011; No. 84, 2012</div>
   </td>
 </tr>
 <tr>
@@ -10726,26 +10645,10 @@ Schedule 5: 8 Dec 2011 ( <i>see</i>s. 2(1))</div>
 </tr>
 <tr>
   <td>
-    <div>S. 29</div>
+    <div>Ss. 29–31</div>
   </td>
   <td>
     <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 30</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 31</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011; No. 84, 2012</div>
   </td>
 </tr>
 <tr>
@@ -10782,39 +10685,7 @@ Schedule 5: 8 Dec 2011 ( <i>see</i>s. 2(1))</div>
 </tr>
 <tr>
   <td>
-    <div>S. 34</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011; No. 84, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 35</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 36</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 37</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38</div>
+    <div>Ss. 34–38</div>
   </td>
   <td>
     <div>am. No. 132, 2011</div>
@@ -11209,23 +11080,7 @@ Schedule 5: 8 Dec 2011 ( <i>see</i>s. 2(1))</div>
     <div>S. 106</div>
   </td>
   <td>
-    <div>am. No. 132, 2011; No. 84, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision C</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 122</div>
-  </td>
-  <td>
-    <div>am. No. 84, 2012</div>
+    <div>am. No. 132, 2011</div>
   </td>
 </tr>
 <tr>
@@ -11486,23 +11341,7 @@ Schedule 5: 8 Dec 2011 ( <i>see</i>s. 2(1))</div>
 </tr>
 <tr>
   <td>
-    <div>S. 167</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 168</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011; No. 84, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 169</div>
+    <div>Ss. 167–169</div>
   </td>
   <td>
     <div>am. No. 132, 2011</div>
@@ -12102,7 +11941,7 @@ Government response to recommendations
 
                      (c)  such other persons as the Minister considers relevant.
 
-As at 30 June 2012 the amendments are not incorporated in this compilation.
+As at 1 May 2012 the amendments are not incorporated in this compilation.
 
 ### Note 3
 
@@ -12161,21 +12000,5 @@ those provisions continue to apply, in relation to protected information obtaine
                      (e)  each reference in sections 271, 274, 275, 276, 277, 281, 282 and 285 of that Act to the Administrator were a reference to the Clean Energy Regulator; and
 
                       (f)  each reference in sections 271, 272, 273, 275, 278, 279, 280 and 284 to an entrusted public official were a reference to an official of the Regulator.
-
-* * *
-
-_Clean Energy Legislation Amendment Act 2012 (No. 84, 2012)_
-
-## Schedule 3
-
-## 8  Transitional—declarations under section 27 of the _Carbon Credits (Carbon Farming Initiative) Act 2011_
-
-If:
-
-                     (a)  before the commencement of this item, a declaration was made under section 27 of the _Carbon Credits (Carbon Farming Initiative) Act 2011_ in relation to an offsets project; and
-
-                     (b)  immediately before the commencement of this item, the declaration was subject to a condition that all regulatory approvals must be obtained for the project before the end of the first crediting period for the project;
-
-the declaration has effect, after the commencement of this item, as if the condition were instead a condition that all regulatory approvals must be obtained for the project before the end of the first reporting period for the project.
 
  
