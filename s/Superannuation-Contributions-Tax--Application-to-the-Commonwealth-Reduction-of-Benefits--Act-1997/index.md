@@ -1,271 +1,261 @@
-![](http://www.comlaw.gov.au/Details/C2005C00531/Html/aee2a4e8-cfff-4aff-9080-bc03fa11e5e5_files/image001.gif)
+**
 
-# Superannuation Contributions Tax (Application to the Commonwealth—Reduction of Benefits) Act 1997
+###  SUPERANNUATION CONTRIBUTIONS TAX (APPLICATION TO THE COMMONWEALTH-REDUCTION OF BENEFITS) ACT 1997 
+**
 
-**Act No. 69 of 1997 as amended**
 
-This compilation was prepared on 16 August 2005
- taking into account amendments up to Act No. 102 of 2005
+**
 
-The text of any of those amendments not in force
- on that date is appended in the Notes section
+###  Compilation Information 
+**
 
-The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
 
-# Contents
 
-[1](#1).            Short title [_see_ Note 1]                                                                         1
 
-[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Interpretation                                                                                        1
 
-[4](#4).            Trustee may reduce member’s benefits on account of surcharge          1
 
-**Notes** 
 
- 
 
-## An Act relating to the reduction of the benefits payable to members of unfunded non‑contributory Commonwealth superannuation schemes on account of superannuation contributions tax, and for related purposes
+**
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
+###  Long Title 
+**
 
-                   This Act may be cited as the _Superannuation Contributions Tax (Application to the Commonwealth—Reduction of Benefits) Act 1997_.
+###  SUPERANNUATION CONTRIBUTIONS TAX (APPLICATION TO THE COMMONWEALTH&#151;REDUCTION OF BENEFITS) ACT 1997- SECT 1  Short title [_see_ Note 1] 
+<dl compact="">
 
-##### <a id="2"></a>2  Commencement [_see_ Note 1]
+		This Act may be cited as the _Superannuation Contributions Tax (Application to the CommonwealthReduction of Benefits) Act 1997_.
 
-                   This Act commences on the day on which it receives the Royal Assent.
+ </dl>
+###  SUPERANNUATION CONTRIBUTIONS TAX (APPLICATION TO THE COMMONWEALTH&#151;REDUCTION OF BENEFITS) ACT 1997- SECT 2  Commencement [_see_ Note 1] 
+<dl compact="">
 
-##### <a id="3"></a>3  Interpretation
+		This Act commences on the day on which it receives the Royal Assent.
 
-                   Any expression that is used in this Act and in the _Superannuation Contributions Tax (Assessment and Collection) Act 1997_ has the same meaning as in that Act.
+ </dl>
+###  SUPERANNUATION CONTRIBUTIONS TAX (APPLICATION TO THE COMMONWEALTH&#151;REDUCTION OF BENEFITS) ACT 1997- SECT 3  Interpretation 
+<dl compact="">
 
-##### <a id="4"></a>4  Trustee may reduce member’s benefits on account of surcharge
+		Any expression that is used in this Act and in the _Superannuation Contributions Tax (Assessment and Collection) Act 1997_ has the same meaning
 
-             (1)  If the liability of the trustee of an unfunded defined benefits superannuation scheme to pay the superannuation contributions surcharge that arose because of the operation of section 5 of the _Superannuation Contributions Tax (Application to the Commonwealth) Act 1997_ is discharged under section 7 of that Act, then, despite anything in any trust instrument, contract or other document or in any legislation, the trustee may reduce any benefits that become payable for the benefit of the member by such amount, subject to subsection (2A), as the trustee considers to be fair and reasonable having regard to the matters specified in subsection (3).
+as in that Act.
 
-             (2)  However, subsection (1) does not apply if its application would or might result in a contravention of the Constitution.
+ </dl>
+###  SUPERANNUATION CONTRIBUTIONS TAX (APPLICATION TO THE COMMONWEALTH&#151;REDUCTION OF BENEFITS) ACT 1997- SECT 4  Trustee may reduce member's benefits on account of surcharge 
+<dl compact="">
 
-          (2A)  The amount of the reduction under subsection (1) may not be more than the total of the following amounts:
+<dt>(1)</dt><dd>If the liability of the trustee of an unfunded defined benefits
 
-                     (a)  15% of the employer‑financed component of any part of the benefits payable to the member that accrued between 20 August 1996 and 1 July 2003;
+superannuation scheme to pay the superannuation contributions surcharge that
 
-                     (b)  14.5% of the employer‑financed component of any part of the benefits payable to the member that accrued in the 2003‑2004 financial year;
+arose because of the operation of section&#160;5 of the _Superannuation Contributions Tax (Application to the Commonwealth) Act 1997_ is discharged
 
-                     (c)  12.5% of the employer‑financed component of any part of the benefits payable to the member that accrued in the 2004‑2005 financial year.
+under section&#160;7 of that Act, then, despite anything in any trust
 
-             (3)  In determining, for the purposes of subsection (1), the amount by which benefits that become payable for the benefit of a member are to be reduced, the trustee is to have regard to the following:
+instrument, contract or other document or in any legislation, the trustee may
 
-                     (a)  the amount by which the surcharge debt account kept by the trustee for the member is in debit when those benefits become payable;
+reduce any benefits that become payable for the benefit of the member by such
 
-                     (b)  the value of the employer‑financed component of those benefits;
+amount, subject to subsection&#160;(2A), as the trustee considers to be fair
 
-                     (c)  the value of the benefits that, for the purpose of working out (under the _Superannuation Contributions Tax (Assessment and Collection) Act 1997_) the notional surchargeable contributions factors applicable to the member, were assumed to be likely to be payable to the member on his or her becoming entitled to them;
+and reasonable having regard to the matters specified in subsection&#160;(3).</dd> <dt>(2)</dt><dd>However, subsection&#160;(1) does not apply if its application would or might result in a contravention of the Constitution.</dd> <dt>(2A)</dt><dd>The amount of the reduction under subsection&#160;(1) may not be more than the total of the following amounts: </dd> </dl>
 
-                     (d)  whether the member has or had qualified for his or her maximum benefit entitlement under the scheme;
 
-                     (e)  any other matter that the trustee considers relevant.
 
-# Notes to the _Superannuation Contributions Tax (Application to the Commonwealth—Reduction of Benefits) Act 1997_
+<dl compact="">
 
-### Note 1
+<dt>(3)</dt><dd>In determining, for the purposes of subsection&#160;(1), the amount by
 
-The _Superannuation Contributions Tax (Application to the Commonwealth—Reduction of Benefits) Act 1997_ as shown in this compilation comprises Act No. 69, 1997 amended as indicated in the Tables below.
+which benefits that become payable for the benefit of a member are to be
 
-For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
+reduced, the trustee is to have regard to the following:
 
-### Table of Acts
+</dd> </dl>
 
-<table>
-<colgroup>
-  <col width="31%">
-  <col width="16%">
-  <col width="17%">
-  <col width="21%">
-  <col width="15%">
-</colgroup>
+Back to Top
 
-<thead>
-  <tr>
-    <td>
-      <div>Act</div>
-    </td>
-    <td>
-      <div>Number 
+
+
+Superannuation Contributions Tax (Assessment and Collection) Act 1997
+
+
+**
+
+###  SUPERANNUATION CONTRIBUTIONS TAX (APPLICATION TO THE COMMONWEALTH&#151;REDUCTION OF BENEFITS) ACT 1997<centreit>Notes to the _Superannuation Contributions Tax (Application to the CommonwealthReduction of Benefits) Act 1997_ </centreit>
+**
+Note 1
+Superannuation Contributions Tax (Application to the CommonwealthReduction of Benefits) Act 1997
+
+see
+Table of Acts
+<tr align="left">
+  <th colspan="1" align="left">
+    <div>Act</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Number 
 and year</div>
-    </td>
-    <td>
-      <div>Date 
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Date 
 of Assent</div>
-    </td>
-    <td>
-      <div>Date of commencement</div>
-    </td>
-    <td>
-      <div>Application, saving or transitional provisions</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>Superannuation Contributions Tax (Application to the Commonwealth—Reduction of Benefits) Act 1997</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Date of commencement</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Application, saving or transitional provisions</div>
+
+  </th>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>_Superannuation Contributions Tax (Application to the Commonwealth&#151;Reduction of Benefits) Act 1997_</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>69, 1997</div>
+
   </td>
-  <td>
-    <div>5 June 1997</div>
+  <td colspan="1" align="left">
+    <div>5&#160;June 1997</div>
+
   </td>
-  <td>
-    <div>5 June 1997</div>
+  <td colspan="1" align="left">
+    <div>5&#160;June 1997</div>
+
   </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Superannuation Legislation Amendment (Superannuation Contributions Tax) Act 1997</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>_Superannuation Legislation Amendment (Superannuation Contributions Tax) Act 1997_</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>187, 1997</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>7 Dec 1997</div>
+
   </td>
-  <td>
-    <div>Schedule 9: 5 June 1997 <i>(a)</i></div>
+  <td colspan="1" align="left">
+    <div>Schedule&#160;9: 5&#160;June 1997 _(a)_</div>
+
   </td>
-  <td>
-    <div>—</div>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Superannuation (Surcharge Rate Reduction) Amendment Act 2003</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>_Superannuation (Surcharge Rate Reduction) Amendment Act 2003_</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>112, 2003</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>12 Nov 2003</div>
+
   </td>
-  <td>
-    <div>Schedule 1: 1 July 2003 
+  <td colspan="1" align="left">
+    <div>Schedule&#160;1: 1&#160;July 2003 
 Remainder: Royal Assent</div>
+
   </td>
-  <td>
-    <div>Sch. 1 (item 33)</div>
+  <td colspan="1" align="left">
+    <div>Sch. 1 (item&#160;33)</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Superannuation Budget Measures Act 2004</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>_Superannuation Budget Measures Act 2004_</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>106, 2004</div>
+
   </td>
-  <td>
-    <div>30 June 2004</div>
+  <td colspan="1" align="left">
+    <div>30 June 2004</div>
+
   </td>
-  <td>
-    <div>30 June 2004</div>
+  <td colspan="1" align="left">
+    <div>30 June 2004</div>
+
   </td>
-  <td>
-    <div>Sch. 2 (item 11(2))</div>
+  <td colspan="1" align="left">
+    <div>Sch. 2 (item&#160;11(2))</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Superannuation Laws Amendment (Abolition of Surcharge) Act 2005</div>
-  </td>
-  <td>
-    <div>102, 2005</div>
-  </td>
-  <td>
-    <div>12 Aug 2005</div>
-  </td>
-  <td>
-    <div>12 Aug 2005</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
+(a)
+Superannuation Contributions Tax (Application to the CommonwealthReduction of Benefits) Act 1997
+Superannuation Legislation Amendment (Superannuation Contributions Tax) Act 1997
+Superannuation Contributions Tax (Application to the CommonwealthReduction of Benefits) Act 1997
+Table of Amendments
+<tr align="left">
+  <th colspan="1" align="left">
+    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
 
-_(a)_     The _Superannuation Contributions Tax (Application to the Commonwealth—Reduction of Benefits) Act 1997_ was amended by Schedule 9 only of the _Superannuation Legislation Amendment (Superannuation Contributions Tax) Act 1997_, subsection 2(2) of which provides as follows:
+  </th>
+</tr>
+<tr align="left">
+  <th colspan="1" align="left">
+    <div>Provision affected</div>
 
-                 (2)   Schedule 9 is taken to have commenced on 5 June 1997, immediately after the commencement of the _Superannuation Contributions Tax (Application to the Commonwealth—Reduction of Benefits) Act 1997_.
+  </th>
+  <th colspan="1" align="left">
+    <div>How affected</div>
 
-## Table of Amendments
-
-<table>
-<colgroup>
-  <col width="34%">
-  <col width="66%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
+  </th>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 4</div>
+
   </td>
-  <td>
-    <div>am. No. 187, 1997; No. 112, 2003; No. 106, 2004; No. 102, 2005</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;187, 1997; No.&#160;112, 2003; No. 106, 2004</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div></div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+
   </td>
-</tr></table>
+</tr>
+**
 
-## Table A
+###  Table A 
+**
+Table A
+Application, saving or transitional provisions
+Superannuation (Surcharge Rate Reduction) Amendment Act 2003
+Schedule&#160;1
+33  Application of items&#160;24 to 30
+Superannuation Budget Measures Act 2004
+Schedule&#160;2
+11  Application of amendments
 
-### Application, saving or transitional provisions
 
-_Superannuation (Surcharge Rate Reduction) Amendment Act 2003 
- (No. 112, 2003)_
 
-## Schedule 1
 
-## 33  Application of items 24 to 30
 
-The amendments made by items 24 to 30 apply in relation to benefits that become payable on or after 1 July 2003.
 
-_Note:       The Acts amended by items 24 to 30 continue to apply in relation to benefits that become payable before 1 July 2003 as if the amendments made by those items had not been made._
-
-* * *
-
-_Superannuation Budget Measures Act 2004 (No. 106, 2004)_
-
-## Schedule 2
-
-## 11  Application of amendments
-
-(2)       The amendments made by items 4 to 9 of this Schedule apply in relation to benefits that become payable on or after 1 July 2004.
-
- 
-
- 
