@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00149/Html/c91ac1f6-e3dc-404b-9dfb-2ac37e4e663e_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00166/Html/GrtBarrierRfMarPk1975WD02_image001.gif)
 
 # Great Barrier Reef Marine Park Act 1975
 
 **Act No. 85 of 1975 as amended**
 
-This compilation was prepared on 29 March 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 5 March 2010
+ taking into account amendments up to Act No. 8 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -34,7 +34,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [3A](#3A).         Interpretation of zoning plans
 
-[3B](#3B).         Interpretation of geographic co‑ordinates
+[3B](#3B).         Interpretation of geographic co-ordinates
 
 [4](#4).            Act to bind Crown
 
@@ -172,7 +172,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [38DD](#38DD).    Discharging waste: offence
 
-[38DE](#38DE).     Pollution‑related approval
+[38DE](#38DE).     Pollution-related approval
 
     **Division 5—Conduct contravening conditions**
 
@@ -200,7 +200,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [38HA](#38HA).    Commencement of certain prosecutions: time limit
 
-[38HB](#38HB).    Commencement of certain prosecutions: Attorney‑General’s consent
+[38HB](#38HB).    Commencement of certain prosecutions: Attorney-General’s consent
 
 [38HC](#38HC).    Conduct in the exclusive economic zone: offences other than Division 6 offences
 
@@ -266,9 +266,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [39N](#39N).       Statements to accompany notification of decisions
 
-    **Division 5—Record‑keeping and returns etc.**
+    **Division 5—Record-keeping and returns etc.**
 
-[39P](#39P).        Record‑keeping and returns etc 
+[39P](#39P).        Record-keeping and returns etc 
 
 [39PA](#39PA).     Custody and banking of collected amounts etc 
 
@@ -282,7 +282,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [39S](#39S).        Power to search aircraft and vessels
 
-[39T](#39T).        Powers of inspector in relation to premises
+[39T](#39T).       Powers of inspector in relation to premises
 
 [39U](#39U).       Warrant to enter premises
 
@@ -296,21 +296,21 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [39Y](#39Y).       Objects of plans of management
 
-[39ZA](#39ZA).     Arrangements with community groups that have special interests in areas of the Marine Park
+[39ZA](#39ZA).    Arrangements with community groups that have special interests in areas of the Marine Park
 
 [39ZB](#39ZB).     Notice of proposal to prepare plan of management
 
 [39ZC](#39ZC).     Moratorium on grant of new permits while plan of management is being prepared
 
-[39ZD](#39ZD).     Preparation of plan of management
+[39ZD](#39ZD).    Preparation of plan of management
 
 [39ZE](#39ZE).     Notice of preparation of plan of management
 
 [39ZF](#39ZF).     Plans of management are legislative instruments
 
-[39ZG](#39ZG).     Amendment of plan of management
+[39ZG](#39ZG).    Amendment of plan of management
 
-[39ZH](#39ZH).     Revocation of plan of management
+[39ZH](#39ZH).    Revocation of plan of management
 
 [39ZI](#39ZI).      Authority to comply with management plans
 
@@ -484,19 +484,19 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [61AKA](#61AKA). Publicity orders
 
-    **Division 2—Other enforcement‑related matters** 
+    **Division 2—Other enforcement-related matters** 
 
         **Subdivision A—Infringement notices**
 
 [61ALA](#61ALA).  Infringement notices
 
-        **Subdivision B—Evidentiary matters**
+        **Subdivision B—Evidentiary matters** 
 
 61AMA Content of evidentiary certificate
 
-[61AMB](#61AMB). Evidentiary effect of certificate
+61AMB Evidentiary effect of certificate
 
-[61AMC](#61AMC). Varying or revoking certificate
+61AMC Varying or revoking certificate
 
 61AMD Offences and contraventions in relation to fishing
 
@@ -546,7 +546,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
 
-                   This Act may be cited as the _Great Barrier Reef__Marine Park__Act 1975_.
+                   This Act may be cited as the _Great   Barrier Reef__Marine__Park__Act 1975_.
 
 ##### <a id="2"></a>2  Commencement [_see_ Note 1]
 
@@ -580,7 +580,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (c)  provides for zoning plans and plans of management; and
 
-                     (d)  regulates, including by a system of permissions, use of the Great Barrier Reef Marine Park in ways consistent with ecosystem‑based management and the principles of ecologically sustainable use; and
+                     (d)  regulates, including by a system of permissions, use of the Great Barrier Reef Marine Park in ways consistent with ecosystem-based management and the principles of ecologically sustainable use; and
 
                      (e)  facilitates partnership with traditional owners in management of marine resources; and
 
@@ -624,9 +624,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="charg"></a>**_charge_** means charge imposed by:
 
-                     (a)  the _Great Barrier Reef__Marine Park__(Environmental Management Charge—General) Act 1993_; or
+                     (a)  the _Great Barrier Reef__Marine__Park__(Environmental Management Charge—General) Act 1993_; or
 
-                     (b)  the _Great Barrier Reef__Marine Park__(Environmental Management Charge—Excise) Act 1993_.
+                     (b)  the _Great Barrier Reef__Marine__Park__(Environmental Management Charge—Excise) Act 1993_.
 
                     <a name="chargeabl-permiss"></a>**_chargeable permission_** means a permission granted under the regulations, where the permission is of a kind declared by the regulations to be a chargeable permission for the purposes of this Act.
 
@@ -656,7 +656,7 @@ Note:          A dory might also be known as a tender commerci
 
                     <a name="ecolog-sustain-us"></a>**_ecologically sustainable use_** has the meaning given by section 3AA.
 
-                    <a name="ecosystem-base-manag"></a>**_ecosystem‑based management_** means an integrated approach to managing an ecosystem and matters affecting that ecosystem, with the main object being to maintain ecological processes, biodiversity and functioning biological communities.
+                    <a name="ecosystem-base-manag"></a>**_ecosystem-based management_** means an integrated approach to managing an ecosystem and matters affecting that ecosystem, with the main object being to maintain ecological processes, biodiversity and functioning biological communities.
 
                     <a name="emerg-direct"></a>**_emergency direction_** has the meaning given by subsection 61ACA(2).
 
@@ -730,7 +730,7 @@ other than any part of such an area that is referred to in section 14 of the _
 
                     <a name="late-payment-penalti"></a>**_late payment penalty_** means an amount payable under subsection 39G(1), (1A) or (1B).
 
-                    <a name="park"></a><a name="marin"></a>**_Marine_****_Park_** means the Great Barrier Reef Marine Park established by this Act.
+                    <a name="park"></a><a name=""></a><a name="marin"></a>**_Marine_****_Park_** means the Great Barrier Reef Marine Park established by this Act.
 
                     <a name="master"></a>**_master_** means a person having command or charge of a vessel.
 
@@ -758,7 +758,7 @@ other than any part of such an area that is referred to in section 14 of the _
 
                     <a name="owner"></a>**_owner_**, in relation to a vessel, has the meaning given by subsection (9) or (10).
 
-                    <a name="part-time-member"></a>**_part‑time member_** means a member appointed as a part‑time member.
+                    <a name="part-time-member"></a>**_part-time member_** means a member appointed as a part-time member.
 
                     <a name="pecuniari-penalti-order"></a>**_pecuniary penalty order_** means an order referred to in subsection 61AIC(2).
 
@@ -856,7 +856,7 @@ other than:
 
                      (b)  who is entitled to undertake activities under Aboriginal or Torres Strait Islander custom or tradition in that site or area.
 
-                    <a name="unzoned-area"></a>**_unzoned area_** means that part (if any) of the Marine Park in respect of which no zoning plan is in force.
+                    <a name="unzoned-area"></a>**_unzoned area_** means that part (if any) of the Marine  Park in respect of which no zoning plan is in force.
 
                     <a name="vessel"></a>**_vessel_** means a ship, boat, raft or pontoon or any other thing capable of carrying persons or goods through or on water, and includes a hovercraft.
 
@@ -934,7 +934,7 @@ other than:
 
                     <a name="world-heritag-valu"></a>**_world heritage values_**
 
-             (2)  In this Act, a reference to the sea‑bed includes a reference to the surface of any coral formation, and a reference to the sub‑soil includes a reference to the coral beneath the surface of any such formation.
+             (2)  In this Act, a reference to the sea-bed includes a reference to the surface of any coral formation, and a reference to the sub-soil includes a reference to the coral beneath the surface of any such formation.
 
              (4)  A reference in this Act (other than in this subsection) to an offence against a provision of this Act includes a reference to an offence against:
 
@@ -954,7 +954,7 @@ that relates to an offence against a provision of this Act.
 
 the vessel under tow is to be treated as if it were navigating with a pilot.
 
-             (7)  Subject to subsection (8), the **_overall length_** of a vessel is 110% of the length as shown on the vessel’s load‑line certification.
+             (7)  Subject to subsection (8), the **_overall length_** of a vessel is 110% of the length as shown on the vessel’s load-line certification.
 
              (8)  If the overall length of a vessel cannot be worked out under subsection (7), the length is taken to be the distance between:
 
@@ -980,21 +980,21 @@ the vessel under tow is to be treated as if it were navigating with a pilot.
 
                               (i)  protecting and conserving the environment, biodiversity and heritage values of the Great Barrier Reef Region; and
 
-                             (ii)  ecosystem‑based management; and
+                             (ii)  ecosystem-based management; and
 
-                     (b)  that is within the capacity of the Region and its natural resources to sustain natural processes while maintaining the life‑support systems of nature and ensuring that the benefit of the use to the present generation does not diminish the potential to meet the needs and aspirations of future generations.
+                     (b)  that is within the capacity of the Region and its natural resources to sustain natural processes while maintaining the life-support systems of nature and ensuring that the benefit of the use to the present generation does not diminish the potential to meet the needs and aspirations of future generations.
 
 ##### <a id="3AB"></a>3AB  Principles of ecologically sustainable use
 
                    For the purposes of this Act, the following principles are **_principles of ecologically sustainable use_**:
 
-                     (a)  decision‑making processes should effectively integrate both long‑term and short‑term environmental, economic, social and equitable considerations;
+                     (a)  decision-making processes should effectively integrate both long-term and short-term environmental, economic, social and equitable considerations;
 
                      (b)  the precautionary principle;
 
-                     (c)  the principle of inter‑generational equity—that the present generation should ensure that the health, diversity and productivity of the environment is maintained or enhanced for the benefit of future generations;
+                     (c)  the principle of inter-generational equity—that the present generation should ensure that the health, diversity and productivity of the environment is maintained or enhanced for the benefit of future generations;
 
-                     (d)  the conservation of biodiversity and ecological integrity should be a fundamental consideration in decision‑making;
+                     (d)  the conservation of biodiversity and ecological integrity should be a fundamental consideration in decision-making;
 
                      (e)  improved valuation, pricing and incentive mechanisms should be promoted.
 
@@ -1034,13 +1034,13 @@ the first provision prevails over the second provision.
 
            (10)  For the purposes of subsection 38BA(5) and regulations made for the purposes of that subsection, this section is not to be regarded as amending a zoning plan.
 
-##### <a id="3B"></a>3B  Interpretation of geographic co‑ordinates
+##### <a id="3B"></a>3B  Interpretation of geographic co-ordinates
 
-             (1)  Where it is necessary for the purposes of this Act to determine the position on the surface of the Earth of a point, line or area that is specified by reference to one or more geographic co‑ordinates, then that position must be determined, unless the contrary intention appears, by reference to the Australian Geodetic Datum as defined in _Gazette_ No. 84 of 6 October 1966.
+             (1)  Where it is necessary for the purposes of this Act to determine the position on the surface of the Earth of a point, line or area that is specified by reference to one or more geographic co-ordinates, then that position must be determined, unless the contrary intention appears, by reference to the Australian Geodetic Datum as defined in _Gazette_ No. 84 of 6 October 1966.
 
              (2)  In this section:
 
-                    <a name="geograph-co-ordin"></a>**_geographic co‑ordinate_** includes:
+                    <a name="geograph-co-ordin"></a>**_geographic co-ordinate_** includes:
 
                      (a)  a meridian of longitude by itself; and
 
@@ -1060,9 +1060,9 @@ the first provision prevails over the second provision.
 
 ##### <a id="4"></a>4  Act to bind Crown
 
-             (1)  This Act binds the Crown in right of the Commonwealth, of each of the States, of the Northern Territory and of Norfolk Island.
+             (1)  This Act binds the Crown in right of the Commonwealth, of each of the States, of the Northern Territory and of Norfolk  Island.
 
-          (1A)  Nothing in this Act renders the Crown in right of the Commonwealth, of a State, of the Northern Territory or of Norfolk Island liable to be prosecuted for an offence or to be subject to civil proceedings for a contravention of a civil penalty provision.
+          (1A)  Nothing in this Act renders the Crown in right of the Commonwealth, of a State, of the Northern Territory or of Norfolk  Island liable to be prosecuted for an offence or to be subject to civil proceedings for a contravention of a civil penalty provision.
 
 ##### <a id="4A"></a>4A  Application of the _Criminal Code_
 
@@ -1116,7 +1116,7 @@ Note:          A reference to Australia or to an external Terr
 
 ## Part II—Establishment, functions and powers of the Great Barrier Reef Marine Park Authority
 
-##### <a id="6"></a>6  Great Barrier Reef Marine Park Authority
+##### <a id="6"></a>6  Great   Barrier Reef Marine Park Authority
 
                    There is established by this Act an Authority by the name of the Great Barrier Reef Marine Park Authority.
 
@@ -1130,9 +1130,9 @@ Note:          A reference to Australia or to an external Terr
 
                              (ii)  the regulations that should be made under this Act;
 
-                     (b)  to carry out, by itself or in co‑operation with other institutions and persons, and to arrange for any other institutions or persons to carry out, research and investigations relevant to the Marine Park;
+                     (b)  to carry out, by itself or in co-operation with other institutions and persons, and to arrange for any other institutions or persons to carry out, research and investigations relevant to the Marine Park;
 
-                     (c)  to prepare zoning plans for the Marine Park in accordance with Division 2 of Part V;
+                     (c)  to prepare zoning plans for the Marine  Park in accordance with Division 2 of Part V;
 
                   (caa)  to make plans of management for the   Marine Park in accordance with Part VB;
 
@@ -1156,7 +1156,7 @@ Note:          A reference to Australia or to an external Terr
 
                                         (C)  the terms and conditions (if any) on which such payment should be given;
 
-                   (cb)  to receive and disburse moneys appropriated by the Parliament for the purpose of payment of the moneys to Queensland by way of financial assistance to Queensland in respect of matters that relate to the Marine Park;
+                    (cb)  to receive and disburse moneys appropriated by the Parliament for the purpose of payment of the moneys to Queensland by way of financial assistance to Queensland in respect of matters that relate to the Marine Park;
 
                     (cc)  to receive and disburse moneys paid to the Authority by Queensland under an agreement between:
 
@@ -1166,9 +1166,9 @@ Note:          A reference to Australia or to an external Terr
 
                             (iii)  the Commonwealth, Queensland and the Authority;
 
-                   (cd)  to provide, and arrange for the provision of, educational, advisory and informational services relating to the Marine Park;
+                    (cd)  to provide, and arrange for the provision of, educational, advisory and informational services relating to the Marine  Park;
 
-                     (d)  such functions relating to the Marine Park as are:
+                     (d)  such functions relating to the Marine  Park as are:
 
                               (i)  conferred on the Authority under this or any other Act; or
 
@@ -1176,7 +1176,7 @@ Note:          A reference to Australia or to an external Terr
 
                   (daa)  to exercise any powers, and perform any functions, relating to the Marine Park that have been delegated to the Authority under this or any other Act;
 
-                   (da)  to provide assistance to other institutions and persons in accordance with section 7A; and
+                    (da)  to provide assistance to other institutions and persons in accordance with section 7A; and
 
                      (e)  to do anything incidental or conducive to the performance of any of the foregoing functions.
 
@@ -1184,7 +1184,7 @@ Note:          A reference to Australia or to an external Terr
 
                      (a)  the use or management of an area (which may be a Queensland national park or a Queensland marine park) the use or management of which would or might affect the Marine Park; or
 
-                     (b)  the use of a place outside the Marine Park for a purpose relating to the Marine Park.
+                     (b)  the use of a place outside the Marine  Park for a purpose relating to the Marine Park.
 
           (1B)  The Authority is responsible for the management of the Marine Park.
 
@@ -1214,7 +1214,7 @@ Note:          A reference to Australia or to an external Terr
 
              (1)  Subject to this section, the Authority may, at the request of another institution or person, provide assistance to the institution or person in matters relating to environmental management.
 
-             (2)  The assistance may be provided by the Authority acting by itself or in co‑operation with other institutions and persons.
+             (2)  The assistance may be provided by the Authority acting by itself or in co-operation with other institutions and persons.
 
              (3)  Without limiting the generality of the assistance that may be provided, the assistance may take any of the following forms:
 
@@ -1246,7 +1246,7 @@ Note:          A reference to Australia or to an external Terr
 
                      (e)  do anything incidental to any of its powers.
 
-             (3)  The Authority has power to perform any of its functions in co‑operation with Queensland, with an authority of that State or with a local governing body in that State.
+             (3)  The Authority has power to perform any of its functions in co-operation with Queensland, with an authority of that State or with a local governing body in that State.
 
              (4)  Any contract, agreement, arrangement or understanding entered into by the Authority is to be entered into on behalf of the Commonwealth.
 
@@ -1300,17 +1300,17 @@ in relation to the Authority.
 
                      (b)  at least 2, but no more than 4, other members.
 
-             (2)  The members shall be appointed by the Governor‑General, the Chairperson being appointed as a full‑time member and the other members being appointed as part‑time members.
+             (2)  The members shall be appointed by the Governor-General, the Chairperson being appointed as a full-time member and the other members being appointed as part-time members.
 
-             (3)  Subject to subsection (4), one of the part‑time members shall be a person appointed on the nomination of the Queensland Government.
+             (3)  Subject to subsection (4), one of the part-time members shall be a person appointed on the nomination of the Queensland Government.
 
              (4)  Where:
 
-                     (a)  the Commonwealth Government has invited the Queensland Government to nominate to the Minister a person to be appointed to a vacant office of part‑time member (whether or not the office has been previously filled); and
+                     (a)  the Commonwealth Government has invited the Queensland Government to nominate to the Minister a person to be appointed to a vacant office of part-time member (whether or not the office has been previously filled); and
 
                      (b)  at the expiration of 3 months after the invitation, the Queensland Government has not nominated a person having the qualifications referred to in subsection (6) for appointment to the office;
 
-a person other than a person nominated by the Queensland Government may be appointed to the office notwithstanding that, upon the appointment, there will not be a part‑time member who is a person appointed on the nomination of the Queensland Government.
+a person other than a person nominated by the Queensland Government may be appointed to the office notwithstanding that, upon the appointment, there will not be a part-time member who is a person appointed on the nomination of the Queensland Government.
 
              (6)  A member shall be a person with qualifications or extensive experience in a field related to the functions of the Authority.
 
@@ -1322,9 +1322,9 @@ a person other than a person nominated by the Queensland Government may be appoi
 
              (8)  The appointment of a member is not invalidated and shall not be called in question by reason of a defect or irregularity in, or in connexion with, his or her selection or appointment.
 
-##### <a id="11"></a>11  Period of appointment of members of Authority
+##### <a id="11"></a>11  Period of appointment of members of Authority
 
-             (1)  A member shall be appointed for such period, not exceeding 5 years, as is specified in the instrument of appointment, but is eligible for re‑appointment.
+             (1)  A member shall be appointed for such period, not exceeding 5 years, as is specified in the instrument of appointment, but is eligible for re-appointment.
 
 ##### <a id="12"></a>12  Remuneration and allowances of members of Authority
 
@@ -1342,11 +1342,11 @@ a person other than a person nominated by the Queensland Government may be appoi
 
 ##### <a id="14"></a>14  Resignation of members of Authority
 
-                   A member may resign his or her office by writing signed by him or her and delivered to the Governor‑General, but the resignation does not have effect until it is accepted by the Governor‑General.
+                   A member may resign his or her office by writing signed by him or her and delivered to the Governor-General, but the resignation does not have effect until it is accepted by the Governor-General.
 
 ##### <a id="15"></a>15  Acting Chairperson and members
 
-             (1)  The Minister may appoint a person, including a part‑time member, to act as Chairperson:
+             (1)  The Minister may appoint a person, including a part-time member, to act as Chairperson:
 
                      (a)  during a vacancy in the office of Chairperson, whether or not an appointment has previously been made to the office; or
 
@@ -1356,29 +1356,29 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
              (2)  Where a person is acting as Chairperson in accordance with paragraph (1)(b) and the office of Chairperson becomes vacant while that person is so acting, the person may continue so to act until the Minister otherwise directs, the vacancy is filled or a period of 12 months from the date on which the vacancy occurred expires, whichever first happens.
 
-             (3)  The Minister may appoint a person to act as a part‑time member:
+             (3)  The Minister may appoint a person to act as a part-time member:
 
-                     (a)  during a vacancy in an office of part‑time member, whether or not an appointment has previously been made to the office; or
+                     (a)  during a vacancy in an office of part-time member, whether or not an appointment has previously been made to the office; or
 
-                     (b)  during any period or during all periods when a part‑time member is acting as Chairperson, is absent from duty or from Australia or, for any other reason, is unable to perform the duties of his or her office;
+                     (b)  during any period or during all periods when a part-time member is acting as Chairperson, is absent from duty or from Australia or, for any other reason, is unable to perform the duties of his or her office;
 
 but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.
 
              (4)  The Minister may:
 
-                     (a)  determine the terms and conditions of appointment, including remuneration and allowances, of a person appointed to act as Chairperson or as a part‑time member; and
+                     (a)  determine the terms and conditions of appointment, including remuneration and allowances, of a person appointed to act as Chairperson or as a part-time member; and
 
                      (b)  at any time terminate an appointment under this section.
 
-             (5)  The appointment of a person to act as Chairperson or as a part‑time member ceases to have effect if he or she resigns the appointment by writing signed by him or her and delivered to the Minister, but the resignation does not have effect until it is accepted by the Minister.
+             (5)  The appointment of a person to act as Chairperson or as a part-time member ceases to have effect if he or she resigns the appointment by writing signed by him or her and delivered to the Minister, but the resignation does not have effect until it is accepted by the Minister.
 
-             (6)  While the appointment of a person to act as Chairperson or as a part‑time member remains in force, he or she has, and may exercise, all the powers and shall perform all the functions of the Chairperson or a part‑time member, as the case may be.
+             (6)  While the appointment of a person to act as Chairperson or as a part-time member remains in force, he or she has, and may exercise, all the powers and shall perform all the functions of the Chairperson or a part-time member, as the case may be.
 
              (7)  The validity of anything done by a person appointed under this section shall not be called in question on the ground that the occasion for his or her appointment had not arisen or that the appointment had ceased to have effect.
 
 ##### <a id="16"></a>16  Termination of appointment of members of Authority
 
-             (1)  The Governor‑General may terminate the appointment of a member by reason of misbehaviour or physical or mental incapacity.
+             (1)  The Governor-General may terminate the appointment of a member by reason of misbehaviour or physical or mental incapacity.
 
              (2)  If a member:
 
@@ -1392,7 +1392,7 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
                      (e)  fails, without reasonable excuse, to comply with section 16A or 16B;
 
-the Governor‑General shall terminate the appointment of the member.
+the Governor-General shall terminate the appointment of the member.
 
 ##### <a id="16A"></a>16A  Disclosure of interests to the Minister
 
@@ -1446,7 +1446,7 @@ Note:          See also section 33B of the _Acts Interpretat
 
              (9)  In relation to a time when a person is acting as Chairperson, references in this section to the Chairperson shall be read as including references to that person.
 
-           (10)  In relation to a time when a person is acting as Chairperson or as a part‑time member, references in this section to a member shall be read as including references to that person.
+           (10)  In relation to a time when a person is acting as Chairperson or as a part-time member, references in this section to a member shall be read as including references to that person.
 
 ##### <a id="18"></a>18  Decisions without meetings
 
@@ -1472,13 +1472,13 @@ Note:          See also section 33B of the _Acts Interpretat
 
 ### Division 1—Great Barrier Reef Marine Park
 
-##### <a id="30"></a>30  Great Barrier Reef Marine Park
+##### <a id="30"></a>30  Great   Barrier Reef Marine Park
 
                    There shall be a marine park, to be known as the Great Barrier Reef Marine Park, consisting of such areas in the Great Barrier Reef Region as are, for the time being, declared under section 31 to be parts of that Marine Park.
 
 ##### <a id="31"></a>31  Areas part of Marine Park
 
-             (1)  Subject to subsection (5), the Governor‑General may, by Proclamation, declare an area specified in the Proclamation, being an area within the Great Barrier Reef Region, to be a part of the Marine Park and assign a name or other designation to that area.
+             (1)  Subject to subsection (5), the Governor-General may, by Proclamation, declare an area specified in the Proclamation, being an area within the Great Barrier Reef Region, to be a part of the Marine Park and assign a name or other designation to that area.
 
 Note:          A Proclamation under subsection (1) is a legislative instrument but is not subject to disallowance or sunsetting (see item 23 of the table in subsection 44(2), and item 22 of the table in subsection 54(2), of the _Legislative Instruments Act 2003_).
 
@@ -1486,27 +1486,27 @@ Note:          A Proclamation under subsection (1) is a legi
 
                      (a)  the waters of any sea within the area;
 
-                     (b)  the sea‑bed beneath any sea within the area;
+                     (b)  the sea-bed beneath any sea within the area;
 
-                     (c)  the subsoil beneath any such sea‑bed, extending to such depth below the sea‑bed as is specified in the Proclamation;
+                     (c)  the subsoil beneath any such sea-bed, extending to such depth below the sea-bed as is specified in the Proclamation;
 
-                     (d)  the sub‑soil beneath any land within the area, extending to such depth below the surface as is specified in the Proclamation; and
+                     (d)  the sub-soil beneath any land within the area, extending to such depth below the surface as is specified in the Proclamation; and
 
                      (e)  the airspace above the area, extending to such height above the surface as is specified in the Proclamation;
 
 shall be taken to be in the Marine Park and, for the purposes of this Act, part of the area.
 
-             (3)  Subject to subsections (4) and (5), the Governor‑General may, by Proclamation, revoke or amend a Proclamation made under subsection (1).
+             (3)  Subject to subsections (4) and (5), the Governor-General may, by Proclamation, revoke or amend a Proclamation made under subsection (1).
 
 Note:          A Proclamation under subsection (3) is a legislative instrument but is not subject to disallowance or sunsetting (see item 23 of the table in subsection 44(2), and item 22 of the table in subsection 54(2), of the _Legislative Instruments Act 2003_).
 
-             (4)  Before the Governor‑General makes a Proclamation causing an area in the Great Barrier Reef Region to cease to be part of the Marine Park, the Minister must be satisfied:
+             (4)  Before the Governor-General makes a Proclamation causing an area in the Great Barrier Reef Region to cease to be part of the Marine Park, the Minister must be satisfied:
 
                      (a)  that the Proclamation, if made, would be in accordance with a resolution passed by each House of the Parliament on a motion; and
 
                      (b)  that notice of the motion was given no less than 15 sitting days of that House before the motion was moved.
 
-             (5)  Before the Governor‑General makes a Proclamation, the Minister must consider a report by the Authority in relation to the matter dealt with by the Proclamation.
+             (5)  Before the Governor-General makes a Proclamation, the Minister must consider a report by the Authority in relation to the matter dealt with by the Proclamation.
 
              (6)  Before preparing the report, the Authority must, by public notice:
 
@@ -1552,7 +1552,7 @@ Note:          A Proclamation under subsection (3) is a legi
 
                      (g)  to reserve some areas of the Great Barrier Reef Region for public enjoyment and appreciation; and
 
-                     (h)  to preserve some areas of the Great Barrier Reef Region in a natural state, undisturbed except for the purposes of scientific research that cannot be undertaken elsewhere in the Marine Park.
+                     (h)  to preserve some areas of the Great Barrier Reef Region in a natural state, undisturbed except for the purposes of scientific research that cannot be undertaken elsewhere in the Marine  Park.
 
              (2)  To achieve these objects, this Division provides for the preparation of zoning plans in respect of areas in the Marine Park.
 
@@ -1754,7 +1754,7 @@ Note:          A zoning plan is a legislative instrument (see 
 
                              (ii)  the motion has been called on, moved and (where relevant) seconded and has not been withdrawn or otherwise disposed of;
 
-the plan is taken, for the purposes of this section, to have been laid before the first‑mentioned House on the first sitting day of that first‑mentioned House after the dissolution, expiry or prorogation, as the case may be.
+the plan is taken, for the purposes of this section, to have been laid before the first-mentioned House on the first sitting day of that first-mentioned House after the dissolution, expiry or prorogation, as the case may be.
 
              (3)  If either House of the Parliament passes a resolution in accordance with subsection (1) disallowing a zoning plan:
 
@@ -1926,9 +1926,9 @@ Note:          A subsequent decision under the _Environment Pr
 
                      (b)  the Minister has not decided under Part 9 of the _Environment Protection and Biodiversity Conservation Act 1999_ to approve the taking of the action by the person for the purposes of each provision that is, for the purposes of that Act, a controlling provision for the action.
 
-##### <a id="37AC"></a>37AC  Great Barrier Reef Region not to be reserved under the _Environment Protection and Biodiversity Conservation Act 1999_
+##### <a id="37AC"></a>37AC  Great  Barrier Reef Region not to be reserved under the _Environment Protection and Biodiversity Conservation Act 1999_
 
-                   The Governor‑General must not make a Proclamation under section 344 of the _Environment Protection and Biodiversity Conservation Act 1999_ declaring an area in the Great Barrier Reef Region to be a Commonwealth reserve under that Act.
+                   The Governor-General must not make a Proclamation under section 344 of the _Environment Protection and Biodiversity Conservation Act 1999_ declaring an area in the Great Barrier Reef Region to be a Commonwealth reserve under that Act.
 
 ## Part VAA—Offences and penalties in relation to Great Barrier Reef Marine Park and Region
 
@@ -1972,7 +1972,7 @@ Note:          For strict liability, see section 6.1 of the 
 
              (5)  This section applies despite any other law of the Commonwealth, a State or a Territory.
 
-##### <a id="38AB"></a>38AB  Mining or geological storage operations in Great Barrier Reef Region: civil penalty provision
+##### <a id="38AB"></a>38AB  Mining or geological storage operations in Great Barrier Reef Region: civil penalty provision
 
              (1)  A person must not engage in mining operations or geological storageoperations in the Great Barrier Reef Region unless the person is authorised to engage in the operations by:
 
@@ -2344,7 +2344,7 @@ unless the person is authorised to engage in the conduct by:
 
 ##### <a id="38CC"></a>38CC  Convictions under former section 38CA
 
-             (1)  Despite any other Commonwealth law or any State law or Territory law, if a person was convicted for an offence under section 38CA of the _Great Barrier Reef__Marine Park__Act 1975_:
+             (1)  Despite any other Commonwealth law or any State law or Territory law, if a person was convicted for an offence under section 38CA of the _Great Barrier Reef__Marine__Park__Act 1975_:
 
                      (a)  that occurred during the period 1 July 2004 to 14 December 2006; and
 
@@ -2428,7 +2428,7 @@ Discharging waste
 
                      (a)  the person discharges waste; and
 
-                     (b)  the waste is discharged in the Marine Park; and
+                     (b)  the waste is discharged in the Marine  Park; and
 
                      (c)  the person is not authorised to discharge the waste by:
 
@@ -2460,7 +2460,7 @@ Discharging waste: strict liability
 
                      (b)  the waste is discharged from a vessel; and
 
-                     (c)  the waste is discharged in the Marine Park; and
+                     (c)  the waste is discharged in the Marine  Park; and
 
                      (d)  the person is not authorised to discharge the waste by:
 
@@ -2512,7 +2512,7 @@ Defence—discharge in zone where discharges do not require permission
 
 Note:          The defendant bears an evidential burden in relation to the matters in this subsection. See subsection 13.3(3) of the _Criminal Code_.
 
-##### <a id="38DE"></a>38DE  Pollution‑related approval
+##### <a id="38DE"></a>38DE  Pollution-related approval
 
                    For the purposes of subparagraphs 38DD(8)(c)(ii), 38EA(7)(c)(ii) and 38EB(3)(c)(ii), the Authority may approve a proposed discharge of waste from a vessel, aircraft or platform if the Authority is satisfied that the discharge is for the purpose of combating a specific incident of pollution in order to minimise the damage from pollution.
 
@@ -2666,7 +2666,7 @@ Note:          For strict liability, see section 6.1 of the 
 
                      (a)  the master of the vessel or the person in charge of the aircraft or platform;
 
-                     (b)  the owner or a co‑owner, or an owner of any part of or share in, the vessel, aircraft or platform;
+                     (b)  the owner or a co-owner, or an owner of any part of or share in, the vessel, aircraft or platform;
 
                      (c)  a party to an agreement with a person referred to in paragraph (a) or (b) under which the party, or the party and the other person, may determine the activities for which the vessel, aircraft or platform is used;
 
@@ -2868,11 +2868,11 @@ Note:          Subsection (2) extends by a year the deadline
 
              (3)  In applying subsection 15B(1) of the _Crimes Act 1914_ to an offence against a provision of this Part, disregard the effect of sections 38HC, 38HD, 38HE and 38HF.
 
-##### <a id="38HB"></a>38HB  Commencement of certain prosecutions: Attorney‑General’s consent
+##### <a id="38HB"></a>38HB  Commencement of certain prosecutions: Attorney-General’s consent
 
-             (1)  Proceedings for an offence committed by a person against a provision of Division 6 of this Part must not be commenced without the Attorney‑General’s written consent if the person is not an Australian citizen, an Australian resident or a body corporate incorporated by or under a law of the Commonwealth or of a State or Territory.
+             (1)  Proceedings for an offence committed by a person against a provision of Division 6 of this Part must not be commenced without the Attorney-General’s written consent if the person is not an Australian citizen, an Australian resident or a body corporate incorporated by or under a law of the Commonwealth or of a State or Territory.
 
-             (2)  In deciding whether to consent for the purposes of this section, the Attorney‑General must have regard to the obligations of Australia under international law, including obligations under any agreement or arrangement between Australia and another country or countries.
+             (2)  In deciding whether to consent for the purposes of this section, the Attorney-General must have regard to the obligations of Australia under international law, including obligations under any agreement or arrangement between Australia and another country or countries.
 
 ##### <a id="38HC"></a>38HC  Conduct in the exclusive economic zone: offences other than Division 6 offences
 
@@ -2958,9 +2958,9 @@ Note:          Subsection (2) extends by a year the deadline
 
                    The object of this Part is to make provision with respect to liability to, and collection of, charge imposed by:
 
-                     (a)  the _Great Barrier Reef__Marine Park__(Environmental Management Charge—General) Act 1993_; and
+                     (a)  the _Great Barrier Reef__Marine__Park__(Environmental Management Charge—General) Act 1993_; and
 
-                     (b)  the _Great Barrier Reef__Marine Park__(Environmental Management Charge—Excise) Act 1993_.
+                     (b)  the _Great Barrier Reef__Marine__Park__(Environmental Management Charge—Excise) Act 1993_.
 
 ##### <a id="39AA"></a>39AA  Definitions
 
@@ -3138,13 +3138,13 @@ Penalty for failing to pay collected amount on time
 
                              (ii)  the amount of any such tax, charge or fee; and
 
-                     (d)  the representation is made in the course of providing a tourism‑related service (see subsection (3)).
+                     (d)  the representation is made in the course of providing a tourism-related service (see subsection (3)).
 
                     Penalty:  1,000 penalty units.
 
              (2)  In a prosecution for an offence against subsection (1), it is not necessary to prove that the representation expressly refers to the Marine Park or to an imposition by the Commonwealth.
 
-             (3)  For the purposes of subsection (1), a **_tourism‑related service_** means:
+             (3)  For the purposes of subsection (1), a **_tourism-related service_** means:
 
                      (a)  a service provided on a commercial basis to or for the benefit of tourists, or in relation to tourism, in Australia; and
 
@@ -3204,7 +3204,7 @@ the notice of the decision must also set out the reasons for the decision.
 
                     (aa)  a collected amount that is due and payable;
 
-                   (ab)  a penalty amount that is due and payable;
+                    (ab)  a penalty amount that is due and payable;
 
                      (b)  late payment penalty that is due and payable.
 
@@ -3274,7 +3274,7 @@ request the Authority to reconsider the decision.
 
                      (a)  the person may, if dissatisfied with the decision, seek a reconsideration of the decision by the Authority in accordance with subsection 39L(1); and
 
-                     (b)  the person may, subject to the _Administrative Appeals Tribunal Act 1975_, if dissatisfied with the decision made by the Authority upon that reconsideration confirming, revoking or varying the first‑mentioned decision, apply to the AAT for review of the decision so confirmed, revoked or varied.
+                     (b)  the person may, subject to the _Administrative Appeals Tribunal Act 1975_, if dissatisfied with the decision made by the Authority upon that reconsideration confirming, revoking or varying the first-mentioned decision, apply to the AAT for review of the decision so confirmed, revoked or varied.
 
              (2)  If:
 
@@ -3286,9 +3286,9 @@ that notice must include a statement to the effect that the person may, subject 
 
              (3)  A failure to comply with this section does not affect the validity of a decision.
 
-### Division 5—Record‑keeping and returns etc.
+### Division 5—Record-keeping and returns etc.
 
-##### <a id="39P"></a>39P  Record‑keeping and returns etc.
+##### <a id="39P"></a>39P  Record-keeping and returns etc.
 
              (1)  The regulations may make provision for and in relation to requiring a person who holds a chargeable permission:
 
@@ -3474,7 +3474,7 @@ any documents that are relevant to ascertaining a person’s liability to charge
 
                      (a)  one or more areas of the Marine Park;
 
-                     (b)  one or more species within the Marine Park or within an area or areas of the Marine Park;
+                     (b)  one or more species within the Marine  Park or within an area or areas of the Marine Park;
 
                      (c)  one or more ecological communities within the Marine Park or within an area or areas of the Marine Park.
 
@@ -3504,15 +3504,15 @@ any documents that are relevant to ascertaining a person’s liability to charge
 
                      (e)  to provide for the management of areas of the Marine Park in conjunction with community groups in circumstances where those groups have a special interest in the areas concerned;
 
-                      (f)  to enable people using the Marine Park to participate in a range of recreational activities.
+                      (f)  to enable people using the Marine  Park to participate in a range of recreational activities.
 
-##### <a id="39ZA"></a>39ZA  Arrangements with community groups that have special interests in areas of the Marine Park
+##### <a id="39ZA"></a>39ZA  Arrangements with community groups that have special interests in areas of the Marine  Park
 
              (1)  The Authority may enter into an agreement or arrangement for the purposes of this Part with a group of people who are representative of a community group that has a special interest in an area of the Marine Park.
 
              (2)  The agreement or arrangement may relate to the development and/or the implementation of a plan of management for, or for a species or ecological community within, the area concerned and may, if the Authority considers it appropriate, provide that, if such a plan of management is prepared, the community group is to manage the area, or the species or ecological community within the area, jointly with the Authority in accordance with the plan.
 
-##### <a id="39ZB"></a>39ZB  Notice of proposal to prepare plan of management
+##### <a id="39ZB"></a>39ZB  Notice of proposal to prepare plan of management
 
              (1)  Before preparing a plan of management, the Authority must, by public notice:
 
@@ -3790,9 +3790,9 @@ Note:          The defendant bears an evidential burden in rel
 
                      (e)  an officer or employee of Queensland, or of an authority of Queensland (including a local government body), in respect of whom an arrangement is in force under subsection 48A(3).
 
-             (2)  The Authority may, by writing under its common seal, sub‑delegate to a person mentioned in subsection (1) a power or function delegated to the Authority under this or any other Act.
+             (2)  The Authority may, by writing under its common seal, sub-delegate to a person mentioned in subsection (1) a power or function delegated to the Authority under this or any other Act.
 
-             (3)  Despite subsection (1) or (2), the Authority must not delegate or sub‑delegate under that subsection a power or function under Part VAA (Offences and penalties) or Part VIII (Enforcement) of this Act or under Part 17 (Enforcement) of the _Environment Protection and Biodiversity Conservation Act 1999_ to a person mentioned in paragraph (1)(b), (c), (d) or (e) unless the person:
+             (3)  Despite subsection (1) or (2), the Authority must not delegate or sub-delegate under that subsection a power or function under Part VAA (Offences and penalties) or Part VIII (Enforcement) of this Act or under Part 17 (Enforcement) of the _Environment Protection and Biodiversity Conservation Act 1999_ to a person mentioned in paragraph (1)(b), (c), (d) or (e) unless the person:
 
                      (a)  is an SES employee or an acting SES employee; or
 
@@ -3804,47 +3804,47 @@ Note:          The defendant bears an evidential burden in rel
 
                              (ii)  holds, or is acting in, an Executive Level 1 or 2, or equivalent, position.
 
-             (4)  Sections 34AA, 34AB and 34A of the _Acts Interpretation Act 1901_ apply to a sub‑delegation under subsection (2) in the same way as they apply to a delegation.
+             (4)  Sections 34AA, 34AB and 34A of the _Acts Interpretation Act 1901_ apply to a sub-delegation under subsection (2) in the same way as they apply to a delegation.
 
              (5)  In exercising powers or performing functions under a delegation, the delegate must comply with any directions of the Authority.
 
-             (6)  In exercising powers or performing functions under a sub‑delegation, the sub‑delegate must comply with any directions of the Authority.
+             (6)  In exercising powers or performing functions under a sub-delegation, the sub-delegate must comply with any directions of the Authority.
 
-             (7)  If the Authority is subject to a direction in relation to the exercise of a power or the performance of a function sub‑delegated under this section, the Authority must give a corresponding direction to the sub‑delegate.
+             (7)  If the Authority is subject to a direction in relation to the exercise of a power or the performance of a function sub-delegated under this section, the Authority must give a corresponding direction to the sub-delegate.
 
 ##### <a id="48"></a>48  Delegation by Chairperson
 
-             (1)  The Chairperson may, by signed writing, sub‑delegate a power or function delegated to the Chairperson under this or any other Act to a member of the staff of the Authority. However, this subsection does not allow the Chairperson to sub‑delegate a power or function that has been sub‑delegated to the Chairperson.
+             (1)  The Chairperson may, by signed writing, sub-delegate a power or function delegated to the Chairperson under this or any other Act to a member of the staff of the Authority. However, this subsection does not allow the Chairperson to sub-delegate a power or function that has been sub-delegated to the Chairperson.
 
-             (2)  Despite subsection (1), the Chairperson must not sub‑delegate under that subsection a power or function under Part VAA (Offences and penalties) or Part VIII (Enforcement) of this Act or under Part 17 (Enforcement) of the _Environment Protection and Biodiversity Conservation Act 1999_ unless the member of staff:
+             (2)  Despite subsection (1), the Chairperson must not sub-delegate under that subsection a power or function under Part VAA (Offences and penalties) or Part VIII (Enforcement) of this Act or under Part 17 (Enforcement) of the _Environment Protection and Biodiversity Conservation Act 1999_ unless the member of staff:
 
-                     (a)  is an SES employee or an acting SES employee; or
+                              (i)  is an SES employee or an acting SES employee; or
 
-                     (b)  holds, or is acting in, an Executive Level 1 or 2, or equivalent, position.
+                             (ii)  holds, or is acting in, an Executive Level 1 or 2, or equivalent, position.6666
 
-             (3)  Sections 34AA, 34AB and 34A of the _Acts Interpretation Act 1901_ apply to a sub‑delegation under subsection (1) in the same way as they apply to a delegation.
+             (3)  Sections 34AA, 34AB and 34A of the _Acts Interpretation Act 1901_ apply to a sub-delegation under subsection (1) in the same way as they apply to a delegation.
 
-             (4)  In exercising powers or performing functions under a sub‑delegation, the sub‑delegate must comply with any directions of the Chairperson.
+             (4)  In exercising powers or performing functions under a sub-delegation, the sub-delegate must comply with any directions of the Chairperson.
 
-             (5)  If the Chairperson is subject to a direction in relation to the exercise of a power or the performance of a function sub‑delegated under this section, the Chairperson must give a corresponding direction to the sub‑delegate.
+             (5)  If the Chairperson is subject to a direction in relation to the exercise of a power or the performance of a function sub-delegated under this section, the Chairperson must give a corresponding direction to the sub-delegate.
 
 ##### <a id="48A"></a>48A  Arrangements for certain delegations
 
 Arrangements with Agency Heads
 
-             (1)  The Authority may enter into an arrangement with an Agency Head (within the meaning of the _Public Service Act 1999_) in relation to officers or employees of the Agency Head’s Agency (within the meaning of the _Public Service Act 1999_) for the purposes of allowing powers or functions to be delegated or sub‑delegated under section 47 to the officers or employees.
+             (1)  The Authority may enter into an arrangement with an Agency Head (within the meaning of the _Public Service Act 1999_) in relation to officers or employees of the Agency Head’s Agency (within the meaning of the _Public Service Act 1999_) for the purposes of allowing powers or functions to be delegated or sub-delegated under section 47 to the officers or employees.
 
 Note:          An arrangement must be in force before a power or function can be delegated to an officer or employee, except for employees of the Department and the Authority (see paragraphs 47(1)(b) and (c)).
 
 Arrangements with Commonwealth authorities
 
-             (2)  The Authority may enter into an arrangement with a Commonwealth authority (within the meaning of the _Commonwealth Authorities and Companies Act 1997_) in relation to officers or employees of the authority for the purposes of allowing powers or functions to be delegated or sub‑delegated under section 47 to the officers or employees.
+             (2)  The Authority may enter into an arrangement with a Commonwealth authority (within the meaning of the _Commonwealth Authorities and Companies Act 1997_) in relation to officers or employees of the authority for the purposes of allowing powers or functions to be delegated or sub-delegated under section 47 to the officers or employees.
 
 Note:          An arrangement must be in force before a power or function can be delegated to an officer or employee (see paragraph 47(1)(d)).
 
 Arrangements with Queensland
 
-             (3)  The Minister may enter into an arrangement with an appropriate Minister of Queensland in relation to officers or employees of Queensland or of an authority of Queensland (including a local government body) for the purposes of allowing powers or functions to be delegated or sub‑delegated under section 47 to the officers or employees.
+             (3)  The Minister may enter into an arrangement with an appropriate Minister of Queensland in relation to officers or employees of Queensland or of an authority of Queensland (including a local government body) for the purposes of allowing powers or functions to be delegated or sub-delegated under section 47 to the officers or employees.
 
 Note:          An arrangement must be in force before a power or function can be delegated to an officer or employee (see paragraph 47(1)(e)).
 
@@ -3912,7 +3912,7 @@ Annual report to be tabled in Parliament
 
              (3)  The Minister must cause a copy of each annual report to be tabled in each House of the Parliament within 15 sitting days of that House after the day on which the Minister receives the report.
 
-##### <a id="54"></a>54  Great Barrier Reef Outlook Report
+##### <a id="54"></a>54  Great  Barrier Reef Outlook Report
 
              (1)  The Authority must prepare and give to the Minister a report in relation to the Great Barrier Reef Region every 5 years. The first report must be given to the Minister by 30 June 2009.
 
@@ -3926,7 +3926,7 @@ Content of report
 
                      (b)  an assessment of the current biodiversity within that region;
 
-                     (c)  an assessment of the commercial and non‑commercial use of that region;
+                     (c)  an assessment of the commercial and non-commercial use of that region;
 
                      (d)  an assessment of the risks to the ecosystem within that region;
 
@@ -3936,13 +3936,13 @@ Content of report
 
                      (g)  an assessment of the factors influencing the current and projected future environmental, economic and social values of that region;
 
-                     (h)  an assessment of the long‑term outlook for the ecosystem within that region;
+                     (h)  an assessment of the long-term outlook for the ecosystem within that region;
 
                       (i)  any other matter prescribed by the regulations for the purposes of this paragraph.
 
-Peer‑review
+Peer-review
 
-             (4)  The Minister must arrange for the content of the report to be peer‑reviewed by at least 3 persons who, in the Minister’s opinion, possess appropriate qualifications to undertake the peer‑review. The peer‑review must occur before the report is given to the Minister.
+             (4)  The Minister must arrange for the content of the report to be peer-reviewed by at least 3 persons who, in the Minister’s opinion, possess appropriate qualifications to undertake the peer-review. The peer-review must occur before the report is given to the Minister.
 
 Report to be tabled in Parliament
 
@@ -4730,7 +4730,7 @@ Relevant matters
 
                      (a)  the nature of the conduct involved in the strikes to which the direction relates; and
 
-                     (b)  the objects of ensuring the person’s future compliance with this Act and preventing harm to the environment in the Marine Park.
+                     (b)  the objects of ensuring the person’s future compliance with this Act and preventing harm to the environment in the Marine  Park.
 
              (5)  The Minister must not make a direction under subsection (2) that is inconsistent with the obligations of Australia under international law, including obligations under any agreement or arrangement between Australia and another country or countries.
 
@@ -4838,7 +4838,7 @@ the Federal Court or the Supreme Court of Queensland may, on application by the 
 
                      (b)  whether or not the person has previously done an act of that kind; and
 
-                     (c)  whether or not there is an imminent danger of substantial harm to a person or to the environment in the Marine Park  if the person does an act of that kind.
+                     (c)  whether or not there is an imminent danger of substantial harm to a person or to the environment in the Marine  Park  if the person does an act of that kind.
 
              (6)  The Court may grant an injunction under subsection (2) requiring a person to do an act:
 
@@ -4846,7 +4846,7 @@ the Federal Court or the Supreme Court of Queensland may, on application by the 
 
                      (b)  whether or not the person has previously refused or failed to do the act; and
 
-                     (c)  whether or not there is an imminent danger of substantial harm to a person or to the environment in the Marine Park if the person refuses or fails to do the act.
+                     (c)  whether or not there is an imminent danger of substantial harm to a person or to the environment in the Marine  Park if the person refuses or fails to do the act.
 
 #### Subdivision H—Remediation orders
 
@@ -5058,7 +5058,7 @@ may make an order that the person take action specified in the order to publicis
 
                      (d)  any penalty imposed.
 
-### Division 2—Other enforcement‑related matters
+### Division 2—Other enforcement-related matters
 
 #### Subdivision A—Infringement notices
 
@@ -5076,7 +5076,7 @@ may make an order that the person take action specified in the order to publicis
 
 to pay a specified penalty to the Commonwealth as an alternative to prosecution.
 
-             (2)  The penalty must not exceed an amount equal to one‑fifth of the maximum fine that a court could impose on the person for that offence.
+             (2)  The penalty must not exceed an amount equal to one-fifth of the maximum fine that a court could impose on the person for that offence.
 
 #### Subdivision B—Evidentiary matters
 
@@ -5118,7 +5118,7 @@ a certificate under section 61AMA is prima facie evidence of the matters in th
 
              (3)  A certificate must not be admitted in evidence under subsection (1) in proceedings in relation to an offence unless the person charged, or a solicitor who has appeared for the person in those proceedings, has, at least 14 days before the certificate is sought to be admitted, been given a copy of the certificate together with reasonable evidence of the intention to produce the certificate as evidence in the proceedings.
 
-             (4)  Subject to subsection (5), if a certificate is admitted in evidence under subsection (1) in proceedings in relation to an offence, the person charged with the offence may require the Chairperson to be called as a witness for the prosecution and cross‑examined as if he or she had given evidence of the matters stated in the certificate.
+             (4)  Subject to subsection (5), if a certificate is admitted in evidence under subsection (1) in proceedings in relation to an offence, the person charged with the offence may require the Chairperson to be called as a witness for the prosecution and cross-examined as if he or she had given evidence of the matters stated in the certificate.
 
              (5)  Subsection (4) does not entitle the person charged to require the Chairperson to be called as a witness for the prosecution unless the court, by order, allows the person charged to require the Chairperson to be so called.
 
@@ -5190,9 +5190,9 @@ Persons other than bodies corporate—conduct
 
                      (a)  by an employee or agent of the person within the scope of his or her actual or apparent authority; or
 
-                     (b)  by any other person at the direction or with the consent or agreement (whether express or implied) of an employee or agent of the first‑mentioned person, where the giving of the direction, consent or agreement is within the scope of the actual or apparent authority of the employee or agent;
+                     (b)  by any other person at the direction or with the consent or agreement (whether express or implied) of an employee or agent of the first-mentioned person, where the giving of the direction, consent or agreement is within the scope of the actual or apparent authority of the employee or agent;
 
-is taken, for the purposes of this Act, to have been engaged in also by the first‑mentioned person unless the first‑mentioned person establishes that the first‑mentioned person took reasonable precautions and exercised due diligence to avoid the conduct.
+is taken, for the purposes of this Act, to have been engaged in also by the first-mentioned person unless the first-mentioned person establishes that the first-mentioned person took reasonable precautions and exercised due diligence to avoid the conduct.
 
 Persons other than bodies corporate—state of mind
 
@@ -5460,7 +5460,7 @@ a proper officer of the court shall issue to the Minister or the Authority, as t
 
                      (a)  a decision by the Authority to make an emergency direction under subsection 61ACA(2) or to vary such a direction;
 
-                     (b)  a decision by the Minister to make a direction under subsection 61AEA(2) (directions limiting access to the Marine Park), or to vary such a direction;
+                     (b)  a decision by the Minister to make a direction under subsection 61AEA(2) (directions limiting access to the Marine  Park), or to vary such a direction;
 
                      (c)  a decision by the Minister prescribed by the regulations for the purposes of this paragraph;
 
@@ -5512,7 +5512,7 @@ Note:          Subsection 28(2) of the _Financial Management a
 
 ##### <a id="66"></a>66  Regulations
 
-             (1)  The Governor‑General may make regulations, not inconsistent with this Act or with a zoning plan, prescribing all matters required or permitted by this Act to be prescribed or necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+             (1)  The Governor-General may make regulations, not inconsistent with this Act or with a zoning plan, prescribing all matters required or permitted by this Act to be prescribed or necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
              (2)  Without limiting the generality of subsection (1), regulations to do any or all of the following may be made:
 
@@ -5520,7 +5520,7 @@ Note:          Subsection 28(2) of the _Financial Management a
 
                      (b)  providing for giving effect to, and enforcing the observance of, zoning plans;
 
-                   (ba)  providing for giving effect to the enforcement provisions of a plan of management or to the enforcement provisions of an amendment of a plan of management;
+                    (ba)  providing for giving effect to the enforcement provisions of a plan of management or to the enforcement provisions of an amendment of a plan of management;
 
                      (c)  conferring functions and powers, and imposing duties upon, inspectors;
 
@@ -5566,15 +5566,15 @@ Note:          Subsection 28(2) of the _Financial Management a
 
                      (u)  providing for the grant or issue of licences, permissions, permits and authorities, the conditions subject to which they are granted or issued (which may include a requirement to enter into an agreement with the Commonwealth) and the charging of fees by the Authority in respect of such licences, permissions, permits and authorities;
 
-                   (ua)  providing for the issue of exemptions by the Minister under section 59F and the conditions subject to which they are issued;
+                    (ua)  providing for the issue of exemptions by the Minister under section 59F and the conditions subject to which they are issued;
 
-                   (ub)  providing for the use of a vessel monitoring system on vessels in the Marine Park and for the use and disclosure of information provided by the vessel monitoring system;
+                    (ub)  providing for the use of a vessel monitoring system on vessels in the Marine Park and for the use and disclosure of information provided by the vessel monitoring system;
 
-                   (uc)  regulating fishing (of any kind, including commercial fishing) in the Marine Park;
+                    (uc)  regulating fishing (of any kind, including commercial fishing) in the Marine Park;
 
-                   (ud)  regulating camping and other activities on islands in the Marine Park;
+                    (ud)  regulating camping and other activities on islands in the Marine Park;
 
-                   (ue)  providing for the protection and conservation of protected species in the Marine Park;
+                    (ue)  providing for the protection and conservation of protected species in the Marine Park;
 
                      (v)  providing for any matter incidental to or connected with any of the foregoing.
 
@@ -5638,13 +5638,13 @@ _Section 3_
 
                      (c)  runs thence southerly along that meridian to its intersection by the parallel of Latitude 13º 00´ South;
 
-                     (d)  runs thence south‑easterly along the geodesic to a point of Latitude 15º 00´ South Longitude 146º 00´ East;
+                     (d)  runs thence south-easterly along the geodesic to a point of Latitude 15º 00´ South Longitude 146º 00´ East;
 
-                     (e)  runs thence south‑easterly along the geodesic to a point of Latitude 17º 30´ South Longitude 147º 00´ East;
+                     (e)  runs thence south-easterly along the geodesic to a point of Latitude 17º 30´ South Longitude 147º 00´ East;
 
-                      (f)  runs thence south‑easterly along the geodesic to a point of Latitude 21º 00´ South Longitude 152º 55´ East;
+                      (f)  runs thence south-easterly along the geodesic to a point of Latitude 21º 00´ South Longitude 152º 55´ East;
 
-                     (g)  runs thence south‑easterly along the geodesic to a point of Latitude 24º 30´ South Longitude 154º 00´ East;
+                     (g)  runs thence south-easterly along the geodesic to a point of Latitude 24º 30´ South Longitude 154º 00´ East;
 
                      (h)  runs thence westerly along the parallel of Latitude 24º 30´ South to its intersection by the coastline of Queensland at low water; and
 
@@ -5654,9 +5654,9 @@ _Section 3_
 
 ### Note 1
 
-The _Great Barrier Reef__Marine Park__Act 1975_ as shown in this compilation comprises Act No. 85, 1975 amended as indicated in the Tables below. 
+The _Great Barrier Reef__Marine__Park__Act 1975_ as shown in this compilation comprises Act No. 85, 1975 amended as indicated in the Tables below. 
 
-For application, saving or transitional provisions made by the   _Great Barrier Reef__Marine Park__Amendment Act 2007_, _see_ Act No. 106, 2007, Schedule 2.
+For application, saving or transitional provisions made by the   _Great Barrier Reef__Marine__Park__Amendment Act 2007_, _see_ Act No. 106, 2007, Schedule 2.
 
 All relevant information pertaining to application, saving or transitional provisions prior to 16 July 1999 is not included in this compilation. For subsequent information _see_ Table A.
 
@@ -6282,59 +6282,42 @@ Schedule 4 (items 38–44), Schedule 5 (items 88–157) and Schedule 6: 25
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 59): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
-_(a)_     The _Great Barrier Reef__Marine Park__Act 1975_ was amended by Part XXXVI (sections 109 and 110) only of the _Statute Law (Miscellaneous Amendments) Act (No. 2) 1982_, subsection 2(1) of which provides as follows:
+_(a)_     The _Great Barrier Reef__Marine__Park__Act 1975_ was amended by Part XXXVI (sections 109 and 110) only of the _Statute Law (Miscellaneous Amendments) Act (No. 2) 1982_, subsection 2(1) of which provides as follows:
 
                  (1)   Sections 1, 2, 166 and 195 and Parts III, VI, VII, XVI, XXXVI, XLIV, LI, LIII, LIV, LXI and LXXVII shall come into operation on the day on which this Act receives the Royal Assent.
 
-_(b)_     The _Great Barrier Reef__Marine Park__Act 1975_ was amended by subsection 151(1) only of the _Public Service Reform Act 1984_, subsection 2(4) of which provides as follows:
+_(b)_    The _Great Barrier Reef__Marine__Park__Act 1975_ was amended by subsection 151(1) only of the _Public Service Reform Act 1984_, subsection 2(4) of which provides as follows:
 
                  (4)   The remaining provisions of this Act shall come into operation on such day as is, or on such respective days as are, fixed by Proclamation.
 
-_(c)_     The _Great Barrier Reef__Marine Park__Act 1975_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows:
+_(c)_     The _Great Barrier Reef__Marine__Park__Act 1975_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
 
-_(d)_     The _Great Barrier Reef__Marine Park__Act 1975_ was amended by section 45 only of the _Public Service and Statutory Authorities Amendment Act 1985_, subsection 2(7) of which provides as follows:
+_(d)_     The _Great Barrier Reef__Marine__Park__Act 1975_ was amended by section 45 only of the _Public Service and Statutory Authorities Amendment Act 1985_, subsection 2(7) of which provides as follows:
 
-                 (7)   The remaining provisions of this Act shall come into operation on the twenty‑eighth day after the day on which this Act receives the Royal Assent.
+                 (7)   The remaining provisions of this Act shall come into operation on the twenty-eighth day after the day on which this Act receives the Royal Assent.
 
-_(e)_     The _Great Barrier Reef__Marine Park__Act 1975_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1985_, subsection 2(1) of which provides as follows:
+_(e)_     The _Great Barrier Reef__Marine__Park__Act 1975_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1985_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
 
-_(f)_      The _Great Barrier Reef__Marine Park__Act 1975_ was amended by Schedule 4 (items 80 and 81) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows:
+_(f)_      The _Great Barrier Reef__Marine__Park__Act 1975_ was amended by Schedule 4 (items 80 and 81) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
 
-_(g)_     The _Great Barrier Reef__Marine Park__Act 1975_ was amended by Schedule 1 (items 37–47) only of the _Environment, Sport and Territories Legislation Amendment Act 1997_, subsection 2(1) of which provides as follows:
+_(g)_     The _Great Barrier Reef__Marine__Park__Act 1975_ was amended by Schedule 1 (items 37–47) only of the _Environment, Sport and Territories Legislation Amendment Act 1997_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to subsections (2), (3) and (4), this Act commences on the day on which it receives the Royal Assent.
 
-_(h)_     The _Great Barrier Reef__Marine Park__Act 1975_ was amended by Schedule 2 (items
+_(h)_     The _Great Barrier Reef__Marine__Park__Act 1975_ was amended by Schedule 2 (items
  795–804) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
 
                  (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997._
 
-_(i)_      The _Great Barrier Reef__Marine Park__Act 1975_ was amended by Schedule 2 (items 11 and 12), Schedule 4 (items 60–63) and Schedule 7 (items 11, 13 and 15) only of the _Environmental Reform (Consequential Provisions) Act 1999_, subsection 2(1) of which provides as follows:
+_(i)_      The _Great Barrier Reef__Marine__Park__Act 1975_ was amended by Schedule 2 (items 11 and 12), Schedule 4 (items 60–63) and Schedule 7 (items 11, 13 and 15) only of the _Environmental Reform (Consequential Provisions) Act 1999_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences when the _Environment Protection and Biodiversity Conservation Act 1999_ commences.
 
@@ -6345,13 +6328,13 @@ _(j)_      The _Great Barrier Reef Marine Park Act 1975_ was amended b
 
                  (2)   Subject to this section, this Act commences at the commencing time.
 
-_(k)_     The _Great Barrier Reef__Marine Park__Act 1975_ was amended by Schedule 10 (item 85) only of the _Corporate Law Economic Reform Program Act 1999_, subsection 2(2)(c) of which provides as follows:
+_(k)_     The _Great   Barrier Reef__Marine__Park__Act 1975_ was amended by Schedule 10 (item 85) only of the _Corporate Law Economic Reform Program Act 1999_, subsection 2(2)(c) of which provides as follows:
 
                  (2)   The following provisions commence on a day or days to be fixed by Proclamation:
 
                               (c)   the items in Schedules 10, 11 and 12.
 
-_(l)_      The _Great Barrier Reef__Marine Park__Act 1975_ was amended by Schedule 1 (items 46–72) only of the _Environment and Heritage Legislation Amendment (Application of Criminal Code) Act 2001_, subsection 2(1)(c) of which provides as follows:
+_(l)_      The _Great   Barrier Reef__Marine__Park__Act 1975_ was amended by Schedule 1 (items 46–72) only of the _Environment and Heritage Legislation Amendment (Application of Criminal Code) Act 2001_, subsection 2(1)(c) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the latest of the following days:
 
@@ -8669,14 +8652,6 @@ _(m)_    Subsection 2(1) (item 34) of the _Statute Law Revision Act 2010_ 
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Ss. 48AA, 48AB</div>
   </td>
   <td>
@@ -9708,7 +9683,7 @@ The amendments of the _Great Barrier Reef Marine Park Act 1975_ made by this Sch
 
 ## 12  Transitional—Proclamations
 
-A Proclamation made under section 31 of the _Great Barrier Reef__Marine Park__Act 1975_ and in force immediately before the commencement of this item has effect after that commencement as if it had been made under that section as amended by this Act.
+A Proclamation made under section 31 of the _Great Barrier   Reef__Marine__Park__Act 1975_ and in force immediately before the commencement of this item has effect after that commencement as if it had been made under that section as amended by this Act.
 
 ## 14  Saving
 
@@ -9720,9 +9695,9 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 ## Schedule 2
 
-## 418  Transitional—pre‑commencement offences
+## 418  Transitional—pre-commencement offences
 
-(1)       Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
+(1)        Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
 
                      (a)  an offence committed before the commencement of this item; or
 
@@ -9732,9 +9707,9 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 as if the amendment or repeal had not been made.
 
-(2)       Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
+(2)        Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
 
-## 419  Transitional—pre‑commencement notices
+## 419  Transitional—pre-commencement notices
 
 If:
 
@@ -9742,9 +9717,9 @@ If:
 
                      (b)  any or all of those other provisions are repealed by this Schedule; and
 
-                     (c)  the first‑mentioned provision is amended by this Schedule;
+                     (c)  the first-mentioned provision is amended by this Schedule;
 
-the amendment of the first‑mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
+the amendment of the first-mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
 
 * * *
 
@@ -9758,13 +9733,13 @@ _Environment and Heritage Legislation Amendment (Application of Criminal Code) A
 
 * * *
 
-_Great Barrier Reef Marine Park Amendment Act 2001 (No. 48, 2001)_
+_Great   Barrier Reef Marine Park Amendment Act 2001 (No. 48, 2001)_
 
-##### <a id="4"></a>4  Application provision—interpretation of geographic co‑ordinates
+##### <a id="4"></a>4  Application provision—interpretation of geographic co-ordinates
 
                    The amendment made by item 3 of Schedule 1 applies to the following instruments (regardless of whether they were made before or after the commencement of this section):
 
-                     (a)  regulations made under the _Great Barrier Reef__Marine Park__Act 1975_;
+                     (a)  regulations made under the _Great   Barrier Reef__Marine__Park__Act 1975_;
 
                      (b)  a Proclamation made under that Act;
 
@@ -9824,25 +9799,25 @@ _Great Barrier Reef Marine Park and Other Legislation Amendment Act 2008 (No. 
 
 ## Schedule 3
 
-## 49  Zoning plans in force under Part V of the _Great Barrier Reef__Marine Park__Act 1975_
+## 49  Zoning plans in force under Part V of the _Great   Barrier Reef__Marine__Park__Act 1975_
 
-(1)       This item applies if, immediately before the commencement of this Schedule, a zoning plan was in force under Part V of the _Great Barrier Reef__Marine Park__Act 1975_.
+(1)        This item applies if, immediately before the commencement of this Schedule, a zoning plan was in force under Part V of the _Great Barrier Reef__Marine__Park__Act 1975_.
 
-(2)       Despite the amendments made by this Schedule, the zoning plan continues in force after the commencement of this Schedule as if the plan had been prepared in accordance with Division 2 of Part V of the _Great Barrier Reef__Marine Park__Act 1975_, as that Division is in force immediately after the commencement of this Schedule.
+(2)        Despite the amendments made by this Schedule, the zoning plan continues in force after the commencement of this Schedule as if the plan had been prepared in accordance with Division 2 of Part V of the _Great Barrier Reef__Marine__Park__Act 1975_, as that Division is in force immediately after the commencement of this Schedule.
 
-(3)       Despite subsection 37(1) of the _Great Barrier Reef Marine Park Act 1975_, and subject to subsection 35A(2) of that Act as in force immediately after the commencement of this Schedule, the Authority may, with the Minister’s approval, amend the zoning plan for the purpose of designating an IUCN category for each zone, or each part of a zone, described in the plan.
+(3)        Despite subsection 37(1) of the _Great Barrier Reef Marine Park Act 1975_, and subject to subsection 35A(2) of that Act as in force immediately after the commencement of this Schedule, the Authority may, with the Minister’s approval, amend the zoning plan for the purpose of designating an IUCN category for each zone, or each part of a zone, described in the plan.
 
-(4)       Subsections 37A(2) and (3) of the _Great Barrier Reef Marine Park Act 1975_, as in force immediately after the commencement of this Schedule, apply to an amendment under subitem (3) in the same way as they apply to amendments under subsection 37A(1) of that Act.
+(4)        Subsections 37A(2) and (3) of the _Great Barrier Reef Marine Park Act 1975_, as in force immediately after the commencement of this Schedule, apply to an amendment under subitem (3) in the same way as they apply to amendments under subsection 37A(1) of that Act.
 
-## 50  Plans of management in force under Part VB of the _Great Barrier Reef__Marine Park__Act 1975_
+## 50  Plans of management in force under Part VB of the _Great   Barrier Reef__Marine__Park__Act 1975_
 
-(1)       This item applies if, immediately before the commencement of this Schedule, a plan of management was in force under Part VB of the _Great Barrier Reef__Marine Park__Act 1975_.
+(1)        This item applies if, immediately before the commencement of this Schedule, a plan of management was in force under Part VB of the _Great Barrier Reef__Marine__Park__Act 1975_.
 
-(2)       Despite the amendments made by this Schedule, the plan of management continues in force after the commencement of this Schedule as if the plan had been prepared in accordance with Part VB of the _Great Barrier Reef__Marine Park__Act 1975_, as that Part is in force immediately after the commencement of this Schedule.
+(2)        Despite the amendments made by this Schedule, the plan of management continues in force after the commencement of this Schedule as if the plan had been prepared in accordance with Part VB of the _Great   Barrier Reef__Marine__Park__Act 1975_, as that Part is in force immediately after the commencement of this Schedule.
 
-## 51  Plans of management etc. prepared under Part VB of the _Great Barrier Reef__Marine Park__Act 1975_
+## 51  Plans of management etc. prepared under Part VB of the _Great Barrier Reef__Marine__Park__Act 1975_
 
-(1)       This item applies if, before the commencement of this Schedule:
+(1)        This item applies if, before the commencement of this Schedule:
 
                      (a)  a plan of management, or an amendment of a plan of management, was prepared under Part VB of the _Great Barrier Reef Marine Park Act 1975_; and
 
@@ -9850,15 +9825,15 @@ _Great Barrier Reef Marine Park and Other Legislation Amendment Act 2008 (No. 
 
                      (c)  the plan or amendment had not yet come into force.
 
-(2)       Despite the amendments made by this Schedule:
+(2)        Despite the amendments made by this Schedule:
 
                      (a)  Part VB of the _Great Barrier Reef Marine Park Act 1975_ continues to apply in relation to the preparation and coming into force of the plan or amendment as if those amendments had not been made; and
 
                      (b)  after the plan or amendment comes into force, it is taken to be, and continues in force as if it were, a plan or amendment prepared in accordance with Part VB of the _Great Barrier Reef Marine Park Act 1975_, as that Part is in force immediately after the commencement of this Schedule.
 
-## 52  Plans of management etc. being prepared under Part VB of the _Great Barrier Reef__Marine Park__Act 1975_
+## 52  Plans of management etc. being prepared under Part VB of the _Great Barrier Reef__Marine__Park__Act 1975_
 
-(1)       If, before the commencement of this Schedule:
+(1)        If, before the commencement of this Schedule:
 
                      (a)  a plan of management, or an amendment of a plan of management, was being prepared under Part VB of the _Great Barrier Reef Marine Park Act 1975_; but
 
@@ -9866,39 +9841,39 @@ _Great Barrier Reef Marine Park and Other Legislation Amendment Act 2008 (No. 
 
 the amendments made by this Schedule apply in relation to the plan or amendment.
 
-(2)       This item does not limit the application that the amendments made by this Schedule have apart from this item.
+(2)        This item does not limit the application that the amendments made by this Schedule have apart from this item.
 
 ## Schedule 4
 
 ## 42  Application of amendments
 
-(1)       The amendments made by this Schedule do not apply in relation to an action that is an exempt action under this item.
+(1)        The amendments made by this Schedule do not apply in relation to an action that is an exempt action under this item.
 
-(2)       An action is an **_exempt action_** if, immediately before the amendments commenced, an approval to take the action was in operation under Part 9 of the _Environment Protection and Biodiversity Conservation Act 1999_.
+(2)        An action is an **_exempt action_** if, immediately before the amendments commenced, an approval to take the action was in operation under Part 9 of the _Environment Protection and Biodiversity Conservation Act 1999_.
 
-(3)       An action is an **_exempt action_** if, immediately before the amendments commenced:
+(3)        An action is an **_exempt action_** if, immediately before the amendments commenced:
 
                      (a)  a person was taking the action; and
 
                      (b)  Part 4 of the _Environment Protection and Biodiversity Conservation Act 1999_ let the person take the action without an approval under Part 9 of that Act.
 
-(4)       An action is an **_exempt action_** if, immediately before the amendments commenced:
+(4)        An action is an **_exempt action_** if, immediately before the amendments commenced:
 
                      (a)  there was in force a decision of the Minister under Division 2 of Part 7 of the _Environment Protection and Biodiversity Conservation Act 1999_ that the action is not a controlled action; and
 
-                     (b)  the action was not an action the taking of which would be an offence under the _Great Barrier Reef__Marine Park__Act 1975_ if taken without a permission having been granted under regulations made under that Act.
+                     (b)  the action was not an action the taking of which would be an offence under the _Great Barrier Reef__Marine__Park__Act 1975_ if taken without a permission having been granted under regulations made under that Act.
 
-(5)       An action that was the subject of an active referral (see item 43) at the time the amendments commenced is an **_exempt action_**:
+(5)        An action that was the subject of an active referral (see item 43) at the time the amendments commenced is an **_exempt action_**:
 
                      (a)  from the time the amendments commence until the time the action ceases to be the subject of an active referral; and
 
                      (b)  if the action ceases to be the subject of an active referral because an approval of the taking of the action starts to operate under Part 9 of the _Environment Protection and Biodiversity Conservation Act 1999_ as a result of the referral—for so long as the approval is in operation.
 
-(6)       An action that was the subject of an active application (see item 44) at the time the amendments commenced is an **_exempt action_**:
+(6)        An action that was the subject of an active application (see item 44) at the time the amendments commenced is an **_exempt action_**:
 
                      (a)  from the time the amendments commenced until the time the action ceases to be the subject of an active application; and
 
-                     (b)  if the action ceases to be the subject of an active application because a permission to take the action is granted in accordance with regulations made under the _Great Barrier Reef__Marine Park__Act 1975_ as a result of the application—for so long as the permission has effect.
+                     (b)  if the action ceases to be the subject of an active application because a permission to take the action is granted in accordance with regulations made under the _Great Barrier Reef__Marine__Park__Act 1975_ as a result of the application—for so long as the permission has effect.
 
 ## 43  Actions that are the subject of an active referral
 
@@ -9934,65 +9909,65 @@ For the purposes of subitem 42(6), an action is, at any particular time, the sub
 
 ## Schedule 5
 
-## 147  Section 42 of the _Great Barrier Reef__Marine Park__Act 1975_
+## 147  Section 42 of the _Great Barrier Reef__Marine__Park__Act 1975_
 
-(1)       This item applies if, immediately before the commencement of this Schedule, an arrangement under section 42 of the _Great Barrier Reef__Marine Park__Act 1975_ was in force in respect of a person.
+(1)        This item applies if, immediately before the commencement of this Schedule, an arrangement under section 42 of the _Great Barrier   Reef__Marine__Park__Act 1975_ was in force in respect of a person.
 
-(2)       Despite the repeal of section 42 by this Schedule, the arrangement in respect of the person continues in force after the commencement of this Schedule as if the arrangement had been made under section 48A as inserted by this Act.
+(2)        Despite the repeal of section 42 by this Schedule, the arrangement in respect of the person continues in force after the commencement of this Schedule as if the arrangement had been made under section 48A as inserted by this Act.
 
-(3)       Subitem (2) applies even if the person is not a person in respect of whom an arrangement under section 48A could be made.
+(3)        Subitem (2) applies even if the person is not a person in respect of whom an arrangement under section 48A could be made.
 
-## 148  Section 46D of the _Great Barrier Reef__Marine Park__Act 1975_
+## 148  Section 46D of the _Great Barrier Reef__Marine__Park__Act 1975_
 
 Despite the repeal of section 46D of the _Great Barrier Reef Marine Park Act 1975_ by this Schedule, that section continues to apply after the commencement of this Schedule in relation to a thing seized before the commencement of this Schedule under section 46A or 46B of that Act.
 
-## 149  Section 47 of the _Great Barrier Reef__Marine Park__Act 1975_
+## 149  Section 47 of the _Great Barrier Reef__Marine__Park__Act 1975_
 
-(1)       Despite the repeal of section 47 of the _Great Barrier Reef__Marine Park__Act 1975_ by this Schedule, subsections 47(3), (4) and (9) continue to apply after the commencement of this Schedule in relation to a vessel, aircraft or article seized before the commencement of this Schedule under subsection 47(2).
+(1)        Despite the repeal of section 47 of the _Great   Barrier Reef__Marine__Park__Act 1975_ by this Schedule, subsections 47(3), (4) and (9) continue to apply after the commencement of this Schedule in relation to a vessel, aircraft or article seized before the commencement of this Schedule under subsection 47(2).
 
-(2)       Despite the repeal of section 47 of the _Great Barrier Reef__Marine Park__Act 1975_ by this Schedule, subsections 47(7), (8) and (9) continue to apply after the commencement of this Schedule in relation to an animal or plant seized before the commencement of this Schedule under subsection 47(6).
+(2)        Despite the repeal of section 47 of the _Great   Barrier Reef__Marine__Park__Act 1975_ by this Schedule, subsections 47(7), (8) and (9) continue to apply after the commencement of this Schedule in relation to an animal or plant seized before the commencement of this Schedule under subsection 47(6).
 
-## 150  Section 47B of the _Great Barrier Reef__Marine Park__Act 1975_
+## 150  Section 47B of the _Great Barrier Reef__Marine__Park__Act 1975_
 
-(1)       This item applies if, immediately before the commencement of this Schedule, an inspector within the meaning of the _Great Barrier Reef__Marine Park__Act 1975_ was authorised to seize a vessel or aircraft, or an article, animal or plant, under that Act.
+(1)        This item applies if, immediately before the commencement of this Schedule, an inspector within the meaning of the _Great   Barrier Reef__Marine__Park__Act 1975_ was authorised to seize a vessel or aircraft, or an article, animal or plant, under that Act.
 
-(2)       After the commencement of this Schedule, the inspector may give a direction under section 447 of the _Environment Protection and Biodiversity Conservation Act 1999_ in relation to the vessel, aircraft, article, animal or plant, as if the inspector were authorised to seize the vessel, aircraft, article, animal or plant under a warrant issued under Division 4 of Part 17 or under section 445 of that Act.
+(2)        After the commencement of this Schedule, the inspector may give a direction under section 447 of the _Environment Protection and Biodiversity Conservation Act 1999_ in relation to the vessel, aircraft, article, animal or plant, as if the inspector were authorised to seize the vessel, aircraft, article, animal or plant under a warrant issued under Division 4 of Part 17 or under section 445 of that Act.
 
-## 151  Section 48AB of the _Great Barrier Reef__Marine Park__Act 1975_
+## 151  Section 48AB of the _Great Barrier Reef__Marine__Park__Act 1975_
 
-Despite the repeal of section 48AB of the _Great Barrier Reef__Marine Park__Act 1975_ by this Schedule, that section continues to apply after the commencement of this Schedule in relation to a weapon or other thing seized before the commencement of this Schedule under that section.
+Despite the repeal of section 48AB of the _Great Barrier   Reef__Marine__Park__Act 1975_ by this Schedule, that section continues to apply after the commencement of this Schedule in relation to a weapon or other thing seized before the commencement of this Schedule under that section.
 
 ## 152  Directions limiting access to the Marine Park
 
-For the purposes of section 61AEA of the _Great Barrier Reef__Marine Park__Act 1975_, as inserted by this Schedule, a reference to a strike against a person includes a reference to a strike against a person that occurred before the commencement of this Schedule.
+For the purposes of section 61AEA of the _Great Barrier   Reef__Marine__Park__Act 1975_, as inserted by this Schedule, a reference to a strike against a person includes a reference to a strike against a person that occurred before the commencement of this Schedule.
 
-## 153  Delegations under section 61 of the _Great Barrier Reef__Marine Park__Act 1975_
+## 153  Delegations under section 61 of the _Great   Barrier Reef__Marine__Park__Act 1975_
 
-Despite the repeal of section 61 of the _Great Barrier Reef__Marine Park__Act 1975_ by this Schedule:
+Despite the repeal of section 61 of the _Great Barrier   Reef__Marine__Park__Act 1975_ by this Schedule:
 
                      (a)  a delegation to a person that was, immediately before the commencement of this Schedule, in force under that section continues in force after that commencement as if it had been made under section 47 of the _Great Barrier Reef Marine Park Act 1975_ as inserted by this Schedule; and
 
                      (b)  a direction to a delegate that was, immediately before the commencement of this Schedule, in force under that section continues in force after that commencement as if it had been made under section 47 of the _Great Barrier Reef Marine Park Act 1975_ as inserted by this Schedule.
 
-## 154  Delegations under subsection 61A(3) of the _Great Barrier Reef__Marine Park__Act 1975_
+## 154  Delegations under subsection 61A(3) of the _Great   Barrier Reef__Marine__Park__Act 1975_
 
-Despite the repeal of subsections 61A(3) and (4) of the _Great Barrier Reef__Marine Park__Act 1975_ by this Schedule:
+Despite the repeal of subsections 61A(3) and (4) of the _Great   Barrier Reef__Marine__Park__Act 1975_ by this Schedule:
 
                      (a)  a delegation to the Authority that was, immediately before the commencement of this Schedule, in force under subsection 61A(3) continues in force after that commencement as if it had been made under subsection 46(1) of the _Great Barrier Reef Marine Park Act 1975_ as inserted by this Schedule; and
 
                      (b)  a direction to the Authority that was, immediately before the commencement of this Schedule, in force under subsection 61A(4) continues in force after that commencement as if it had been made under subsection 46(2) of the _Great Barrier Reef Marine Park Act 1975_ as inserted by this Schedule.
 
-## 155  Averments under section 62 of the _Great Barrier Reef__Marine Park__Act 1975_
+## 155  Averments under section 62 of the _Great Barrier   Reef__Marine__Park__Act 1975_
 
-Despite the repeal of section 62 of the _Great Barrier Reef__Marine Park__Act 1975_ by this Schedule, that section continues to apply after the commencement of this Schedule in relation to an averment made before the commencement of this Schedule.
+Despite the repeal of section 62 of the _Great Barrier   Reef__Marine__Park__Act 1975_ by this Schedule, that section continues to apply after the commencement of this Schedule in relation to an averment made before the commencement of this Schedule.
 
-## 156  Section 64 of the _Great Barrier Reef__Marine Park__Act 1975_
+## 156  Section 64 of the _Great Barrier Reef__Marine__Park__Act 1975_
 
 Despite the repeal of section 64 of the _Great Barrier Reef Marine Park Act 1975_ by this Schedule, that section continues to apply after the commencement of this Schedule in relation to conduct engaged in, or taken by subsection 64(2) of that Act to have been engaged in, before the commencement of this Schedule.
 
 ## 157  Regulations in relation to infringement notices
 
-The repeal of paragraph 66(2)(n) of the _Great Barrier Reef__Marine Park__Act 1975_ by this Schedule does not affect the validity of any regulations in force immediately before the commencement of this Schedule in relation to the matters referred to in that paragraph.
+The repeal of paragraph 66(2)(n) of the _Great Barrier Reef__Marine__Park__Act 1975_ by this Schedule does not affect the validity of any regulations in force immediately before the commencement of this Schedule in relation to the matters referred to in that paragraph.
 
 ## Schedule 6
 
@@ -10000,13 +9975,13 @@ The repeal of paragraph 66(2)(n) of the _Great Barrier Reef__Marine Park__Act 19
 
 In this Part:
 
-**_Marine_****_Park_****_regulations_** means regulations made under the _Great Barrier Reef__Marine Park__Act 1975_.
+**_Marine_****_Park_****_regulations_** means regulations made under the _Great Barrier Reef__Marine__Park__Act 1975_.
 
 ## 36  Mining or drilling in Great Barrier Reef Region (sections 38AA and 38AB)
 
-A reference in section 38AA or 38AB of the _Great Barrier Reef__Marine Park__Act 1975_, as in force after the commencement of this Schedule, to a permission granted under the regulations for the purposes of section 38AA includes a reference to an approval that meets the following conditions:
+A reference in section 38AA or 38AB of the _Great Barrier   Reef__Marine__Park__Act 1975_, as in force after the commencement of this Schedule, to a permission granted under the regulations for the purposes of section 38AA includes a reference to an approval that meets the following conditions:
 
-                     (a)  the approval was given by the Authority under subsection 38(3) of the _Great Barrier Reef__Marine Park__Act 1975_ as in force before the commencement of this Schedule;
+                     (a)  the approval was given by the Authority under subsection 38(3) of the _Great Barrier Reef__Marine__Park__Act 1975_ as in force before the commencement of this Schedule;
 
                      (b)  either:
 
@@ -10020,7 +9995,7 @@ A reference in section 38AA or 38AB of the _Great Barrier Reef__Marine Park__A
 
 ## 37  Conduct in zone (sections 38BA and 38BB)
 
-A reference in section 38BA or 38BB of the _Great Barrier Reef__Marine Park__Act 1975_, as in force after the commencement of this Act, to a permission granted under the regulations for the purposes of the zoning plan includes a reference to a permission that meets the following conditions:
+A reference in section 38BA or 38BB of the _Great Barrier   Reef__Marine__Park__Act 1975_, as in force after the commencement of this Act, to a permission granted under the regulations for the purposes of the zoning plan includes a reference to a permission that meets the following conditions:
 
                      (a)  the permission was granted or transferred to a person under Marine Park regulations before the commencement of this Schedule;
 
@@ -10038,11 +10013,11 @@ A reference in section 38BA or 38BB of the _Great Barrier Reef__Marine Park__A
 
 ## 38  Conduct in unzoned area (sections 38CA and 38CB)
 
-A reference in section 38CA or 38CB of the _Great Barrier Reef__Marine Park__Act 1975_, as in force after the commencement of this Schedule, to a permission granted under the regulations for the purposes of section 38CA includes a reference to a permission that meets the following conditions:
+A reference in section 38CA or 38CB of the _Great Barrier   Reef__Marine__Park__Act 1975_, as in force after the commencement of this Schedule, to a permission granted under the regulations for the purposes of section 38CA includes a reference to a permission that meets the following conditions:
 
                      (a)  the permission was granted or transferred to a person under Marine Park regulations before the commencement of this Schedule;
 
-                     (b)  the permission was, immediately before the commencement of this Schedule, a permission of a kind declared by Marine Park regulations to be a permission to which section 38F of the _Great Barrier Reef__Marine Park__Act 1975_ applied;
+                     (b)  the permission was, immediately before the commencement of this Schedule, a permission of a kind declared by Marine  Park regulations to be a permission to which section 38F of the _Great   Barrier Reef__Marine__Park__Act 1975_ applied;
 
                      (c)  either:
 
@@ -10056,21 +10031,21 @@ A reference in section 38CA or 38CB of the _Great Barrier Reef__Marine Park__A
 
 ## 39  Contravening order or direction (section 38DC)
 
-(1)       A reference in section 38DC of the _Great Barrier Reef__Marine Park__Act 1975_, as in force after the commencement of this Schedule, to an order or direction of a kind declared by the regulations to be an order or direction to which section 38DC applies includes a reference to an order that meets the following conditions:
+(1)        A reference in section 38DC of the _Great   Barrier Reef__Marine__Park__Act 1975_, as in force after the commencement of this Schedule, to an order or direction of a kind declared by the regulations to be an order or direction to which section 38DC applies includes a reference to an order that meets the following conditions:
 
                      (a)  the order was given before the commencement of this Schedule;
 
-                     (b)  the order was, immediately before the commencement of this Schedule, an order of a kind declared by the regulations to be an order to which section 38H of the _Great Barrier Reef__Marine Park__Act 1975_ applied;
+                     (b)  the order was, immediately before the commencement of this Schedule, an order of a kind declared by the regulations to be an order to which section 38H of the _Great Barrier   Reef__Marine__Park__Act 1975_ applied;
 
                      (c)  the order was in force immediately before the commencement of this Schedule;
 
                      (d)  the order has not expired or been revoked.
 
-(2)       A reference in section 38DC of the _Great Barrier Reef__Marine Park__Act 1975_, as in force after the commencement of this Schedule, to an order or direction of a kind declared by the regulations to be an order or direction to which section 38DC applies includes a reference to a direction that meets the following conditions:
+(2)        A reference in section 38DC of the _Great   Barrier Reef__Marine__Park__Act 1975_, as in force after the commencement of this Schedule, to an order or direction of a kind declared by the regulations to be an order or direction to which section 38DC applies includes a reference to a direction that meets the following conditions:
 
                      (a)  the direction was given before the commencement of this Schedule;
 
-                     (b)  the direction was, immediately before the commencement of this Schedule, a direction of a kind declared by Marine Park regulations to be a direction to which section 38E of the _Great Barrier Reef__Marine Park__Act 1975_ applied;
+                     (b)  the direction was, immediately before the commencement of this Schedule, a direction of a kind declared by Marine  Park regulations to be a direction to which section 38E of the _Great   Barrier Reef__Marine__Park__Act 1975_ applied;
 
                      (c)  the direction was in force immediately before the commencement of this Schedule;
 
@@ -10078,7 +10053,7 @@ A reference in section 38CA or 38CB of the _Great Barrier Reef__Marine Park__A
 
 ## 40  Discharging waste (section 38DD)
 
-A reference in section 38DD of the _Great Barrier Reef__Marine Park__Act 1975_, as in force after the commencement of this Schedule, to a permission granted under the regulations for the purposes of that section includes a reference to a permission that meets the following conditions:
+A reference in section 38DD of the _Great Barrier Reef__Marine__Park__Act 1975_, as in force after the commencement of this Schedule, to a permission granted under the regulations for the purposes of that section includes a reference to a permission that meets the following conditions:
 
                      (a)  the permission was granted or transferred to a person under Marine Park regulations before the commencement of this Schedule;
 
