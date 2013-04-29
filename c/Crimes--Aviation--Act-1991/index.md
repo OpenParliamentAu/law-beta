@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2011C00200/Html/9b9d0bb7-9896-4ece-b33d-f297a442f9ca_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00156/Html/e72d0aca-3ea2-4774-9304-d7d0dfdbb1e5_files/image001.gif)
 
 # Crimes (Aviation) Act 1991
 
 **Act No. 139 of 1991 as amended**
 
-This compilation was prepared on 19 April 2011
+This compilation was prepared on 30 March 2011
  taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force 
@@ -28,7 +28,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
     **Division 2—Definitions and interpretation**
 
-[3](#3).            Definitions [_see_ Note 2]
+[3](#3).            Definitions
 
 [4](#4).            Meaning of _threaten_
 
@@ -194,7 +194,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ### Division 2—Definitions and interpretation
 
-##### <a id="3"></a>3  Definitions [_see_ Note 2]
+##### <a id="3"></a>3  Definitions
 
                    In this Act, unless the contrary intention appears:
 
@@ -282,7 +282,7 @@ and includes any building, structure, installation or equipment in that area, or
 
                              (ii)  a flight between a part of Australia and a place outside Australia;
 
-                            (iii)  a flight wholly outside   Australia; or
+                            (iii)  a flight wholly outside Australia; or
 
                      (b)  a Commonwealth aircraft; or
 
@@ -1126,7 +1126,7 @@ and, when so admitted, the evidence recorded in it is evidence in the proceeding
 
 ##### <a id="43"></a>43  Evidence of matters relating to Conventions
 
-             (1)  The Foreign Affairs Minister may give a written certificate stating:
+             (1)  The Minister for Foreign Affairs may give a written certificate stating:
 
                      (a)  that a particular Convention entered into force for a particular country on a particular day; or
 
@@ -2364,7 +2364,7 @@ Schedule 2 (item 3): Royal Assent</div>
     <div>22 Mar 2011</div>
   </td>
   <td colspan="2">
-    <div>Schedule 5 (items 65, 66): 19 Apr 2011</div>
+    <div>Schedule 5 (items 65, 66): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -2899,23 +2899,7 @@ _(h)_ Subsection 2(1) (item 3) of the _Aviation Security Amendment Act 2004_ p
 </tr>
 <tr>
   <td>
-    <div>S. 43</div>
-  </td>
-  <td>
-    <div>rs. No. 182, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 44</div>
+    <div>Ss. 43, 44</div>
   </td>
   <td>
     <div>rs. No. 182, 1994</div>
@@ -2940,7 +2924,9 @@ _(h)_ Subsection 2(1) (item 3) of the _Aviation Security Amendment Act 2004_ p
 
 ### Note 2
 
-Subsection 3(1)—Schedule 5 (item 65) of the _Statute Law Revision Act 2011_ (No. 5, 2011) provides as follows:
+_Statute Law Revision Act 2011 (No. 5, 2011)_
+
+The following amendments commence on 19 April 2011:
 
 ## Schedule 5
 
@@ -2950,7 +2936,11 @@ Insert:
 
                     <a name="foreign-affair-minist"></a>**_Foreign Affairs Minister_** means the Minister administering the _Diplomatic Privileges and Immunities Act 1967_.
 
-The proposed amendment was misdescribed and is not incorporated in this compilation.
+## 66  Subsection 43(1)
+
+Omit “Minister for Foreign Affairs”, substitute “Foreign Affairs Minister”.
+
+As at 30 March 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
