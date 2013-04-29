@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00304/Html/23aafc1f-b9a9-40fd-952d-f4b01a7fb7d8_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00866/Html/ace4068e-3463-4605-9b31-5c65737a555b_files/image001.gif)
 
 # Inspector‑General of Intelligence and Security Act 1986
 
 **Act No. 101 of 1986 as amended**
 
-This compilation was prepared on 16 March 2012
+This compilation was prepared on 26 October 2011
  taking into account amendments up to Act No. 118 of 2011
 
 The text of any of those amendments not in force 
@@ -308,11 +308,21 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (a)  during a vacancy in the office of Inspector‑General; or
 
-                     (b)  during any period, or during all periods, when the Inspector‑General is absent from duty or from Australia or is, for any reason, unable to perform the duties of the office.
+                     (b)  during any period, or during all periods, when the Inspector‑General is absent from duty or from Australia or is, for any reason, unable to perform the duties of the office;
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+but a person appointed to act during a vacancy must not continue so to act for more than 12 months.
 
              (2)  Before appointing a person to act as the Inspector‑General, the Prime Minister must consult with the Leader of the Opposition in the House of Representatives about the appointment.
+
+             (3)  Anything done by or in relation to a person purporting to act under such an appointment is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
 
 ##### <a id="7"></a>7  Appointment of Judge as Inspector‑General not to affect
  tenure etc.
@@ -777,7 +787,7 @@ the Inspector‑General:
 
                      (b)  if the Inspector‑General prepares such a report, he or she must give a copy of the report to the Prime Minister.
 
-##### <a id="25"></a>25  Reports concerning collection or communication of intelligence
+##### <a id="25"></a>25  Reports concerning collection or communication of intelligence
 
                    Where:
 
@@ -1544,7 +1554,7 @@ Remainder: Royal Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 719–722) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 719–722) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 3 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
@@ -1765,22 +1775,6 @@ _(g)_ Subsection 2(1) (item 7) of the _Freedom of Information Amendment (Refor
   </td>
   <td>
     <div>ad. No. 199, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 6A(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
   </td>
 </tr>
 <tr>
@@ -2228,6 +2222,34 @@ Omit “Section 3EC of”, substitute “Subdivision 355‑C in Schedule 1
 
 The proposed amendment was misdescribed and is not incorporated in this compilation.
 
+### Note 3
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 719  Paragraph 6A(1)(b)
+
+Omit “office;”, substitute “office.”.
+
+## 720  Subsection 6A(1)
+
+Omit “but a person appointed to act during a vacancy must not continue so to act for more than 12 months.”.
+
+## 721  At the end of subsection 6A(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 722  Subsection 6A(3)
+
+Repeal the subsection.
+
+As at 26 October 2011 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -2304,6 +2326,8 @@ The amendment of section 22 of the _Inspector‑General of Intelligence and Se
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
