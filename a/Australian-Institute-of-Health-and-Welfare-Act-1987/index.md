@@ -1,2358 +1,1317 @@
-**
+![](http://www.comlaw.gov.au/Details/C2004C02147/Html/AustInstHlthWelfA87_image001.gif)
 
-###  AUSTRALIAN INSTITUTE OF HEALTH AND WELFARE ACT 1987 
-**
+# Australian Institute of Health and Welfare Act 1987
 
+**Act No. 41 of 1987 as amended**
 
-**
+This compilation was prepared on 10 July 2001
+ taking into account amendments up to Act No. 59 of 2001
 
-###  Compilation Information 
-**
+The text of any of those amendments not in force 
+ on that date is appended in the Notes section
 
+Prepared by the Office of Legislative Drafting,
+ Attorney-General’s Department, Canberra
 
+## Contents
 
+**Part I—Preliminary**
 
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
+[3](#3).            Interpretation                                                                                       1
 
-**
+**Part II—Australian Institute of Health and Welfare** 
 
-###  Long Title 
-**
-**
+    **Division 1—Establishment, functions and powers of Institute**
 
-###  AUSTRALIAN INSTITUTE OF HEALTH AND WELFARE ACT 1987<part>Part I&#151;Preliminary </part>
-**
-###  AUSTRALIAN INSTITUTE OF HEALTH AND WELFARE ACT 1987- SECT 1  Short title [_see_ Note 1]  
-This Act may be cited as the _Australian Institute of Health and Welfare Act 1987_.
+[4](#4).            Establishment of Institute                                                                   4
 
- 
-###  AUSTRALIAN INSTITUTE OF HEALTH AND WELFARE ACT 1987- SECT 2  Commencement [_see_ Note 1]  
-This Act shall come into operation on a day to be fixed by Proclamation.
+[5](#5).            Functions of the Institute                                                                    4
 
- 
-###  AUSTRALIAN INSTITUTE OF HEALTH AND WELFARE ACT 1987- SECT 3  Interpretation 
-<dt>(1)</dt><dd>In this Act, unless the contrary intention appears:
+[6](#6).            Powers of Institute                                                                              6
 
-</dd> 
-<dl compact=""><dl compact="">
+[7](#7).            Directions by Minister                                                                        7
 
-_appoint_ includes re-appoint. _Chairperson_ means the Chairperson of the Institute. _Director_ means the Director of the Institute. _Ethics Committee_ means the Australian Institute of Health and Welfare Ethics Committee. _health-related information and statistics_ means information and statistics collected and produced from data relevant to health or health services. _Institute_ means the Australian Institute of Health and Welfare. _member_ means a member of the Institute. _production_ means compilation, analysis and dissemination. _State Health Minister_ means:  </dl></dl>
+    **Division 2—Constitution and meetings of Institute**
 
-<dl compact=""><dl compact=""><dl compact="">
+[8](#8).            Constitution of Institute                                                                      8
 
-<dt>(a)</dt><dd>the Minister of the Crown for a State;</dd>
+[9](#9).            Acting members                                                                                 10
 
-<dt>(b)</dt><dd>the Minister of the Australian Capital Territory; or</dd>
+[10](#10).          Remuneration and allowances                                                            11
 
-<dt>(c)</dt><dd>the Minister of the Northern Territory;
+[11](#11).          Leave of absence                                                                                11
 
-</dd>
+[12](#12).          Resignation                                                                                        12
 
-</dl></dl></dl>
+[13](#13).          Termination of appointment                                                             12
+
+[14](#14).          Disclosure of interests                                                                       13
+
+[15](#15).          Meetings                                                                                            13
+
+    **Division 3—Committees of Institute**
+
+[16](#16).          Committees                                                                                        15
+
+    **Division 4—Director of Institute**
+
+[17](#17).          Director of Institute                                                                           17
+
+[18](#18).          Functions of Director                                                                        17
+
+    **Division 5—Staff**
+
+[19](#19).          Staff                                                                                                   18
+
+**Part III—Finance**
+
+[20](#20).          Money to be appropriated by Parliament                                         19
+
+[22](#22).          Money of Institute                                                                            19
+
+[23](#23).          Contracts                                                                                           19
+
+[24](#24).          Extra matters to be included in annual report                                    20
+
+[25](#25).          Trust money and trust property                                                       20
+
+[26](#26).          Exemption from taxation                                                                   20
+
+**Part IV—Miscellaneous**
+
+[27](#27).          Delegation by Institute                                                                      21
+
+[28](#28).          Delegation by Director                                                                      21
+
+[29](#29).          Confidentiality                                                                                   22
+
+[30](#30).          Restricted application of the _Epidemiological Studies (Confidentiality) Act 1981_    24
+
+[31](#31).          Periodical reports                                                                               25
+
+[32](#32).          Regulations                                                                                        26
+
+**Notes** 
+
+## An Act to establish an Australian Institute of Health and Welfare, and for related purposes
+
+## Part I—Preliminary
+
+##### <a id="1"></a>1  Short title [_see_ Note 1] 
+
+                   This Act may be cited as the _Australian Institute of Health and Welfare Act 1987_.
+
+##### <a id="2"></a>2  Commencement [_see_ Note 1] 
+
+                   This Act shall come into operation on a day to be fixed by Proclamation.
+
+##### <a id="3"></a>3  Interpretation
+
+             (1)  In this Act, unless the contrary intention appears:
+
+                    <a name="appoint"></a>**_appoint_** includes re-appoint.
+
+                    <a name="chairperson"></a>**_Chairperson_** means the Chairperson of the Institute.
+
+                    <a name="director"></a>**_Director_** means the Director of the Institute.
+
+                    <a name="ethic-committe"></a>**_Ethics Committee_** means the Australian Institute of Health and Welfare Ethics Committee.
+
+                    <a name="health-relat-inform-statist"></a>**_health-related information and statistics_** means information and statistics collected and produced from data relevant to health or health services.
+
+                    <a name="institut"></a>**_Institute_** means the Australian Institute of Health and Welfare.
+
+                    <a name="member"></a>**_member_** means a member of the Institute.
+
+                    <a name="product"></a>**_production_** means compilation, analysis and dissemination.
+
+                    <a name="state-health-minist"></a>**_State Health Minister_** means:
+
+                     (a)  the Minister of the Crown for a State;
+
+                     (b)  the Minister of the Australian Capital Territory; or
+
+                     (c)  the Minister of the Northern Territory;
 
 who is responsible, or principally responsible, for the administration of matters relating to health in the State, the Australian Capital Territory or the Northern Territory, as the case may be.
 
-<def><dl compact=""><dl compact="">
+                    <a name="state-hous-depart"></a>**_State Housing Department_** means the Department of State of a State or Territory that deals with matters relating to housing in the State or Territory.
 
-_State Housing Department_ means the Department of State of a State
+                    <a name="state-hous-minist"></a>**_State Housing Minister_** means:
 
-or Territory that deals with matters relating to housing in the State or
+                     (a)  the Minister of the Crown for a State; or
 
-Territory. _State Housing Minister_ means:  </dl></dl>
+                     (b)  the Minister of the Australian Capital Territory; or
 
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>the Minister of the Crown for a State; or</dd>
-
-<dt>(b)</dt><dd>the Minister of the Australian Capital Territory; or</dd>
-
-<dt>(c)</dt><dd>the Minister of the Northern Territory;
-
-</dd>
-
-</dl></dl></dl>
-
-<center>Back to Top</center>
+                     (c)  the Minister of the Northern Territory;
 
 who is responsible, or principally responsible, for the administration of matters relating to housing in the State or Territory, as the case may be.
 
-<def><dl compact=""><dl compact="">
+                    <a name="state-welfar-minist"></a>**_State Welfare Minister_** means:
 
-_State Welfare Minister_ means:
+                     (a)  the Minister of the Crown for a State; or
 
- </dl></dl>
+                     (b)  the Minister of the Australian Capital Territory; or
 
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>the Minister of the Crown for a State; or</dd>
-
-<dt>(b)</dt><dd>the Minister of the Australian Capital Territory; or</dd>
-
-<dt>(c)</dt><dd>the Minister of the Northern Territory;
-
-</dd>
-
-</dl></dl></dl>
+                     (c)  the Minister of the Northern Territory;
 
 who is responsible, or principally responsible, for the administration of matters relating to welfare in the State or Territory, as the case may be.
 
-<def><dl compact=""><dl compact="">
+                    <a name="trust-monei"></a>**_trust money_** means money received or held by the Institute on trust.
 
-_trust money_ means money received or held by the Institute on
+                    <a name="trust-properti"></a>**_trust property_** means property received or held by the Institute on trust.
 
-trust. _trust property_ means property received or held by the Institute on trust. _welfare-related information and statistics_ means information and statistics collected and produced from data relevant to the provision of welfare services. _welfare services_ includes:  </dl></dl>
+                    <a name="welfar-relat-inform-statist"></a>**_welfare-related information and statistics_** means information and statistics collected and produced from data relevant to the provision of welfare services.
 
-<dl compact=""><dl compact=""><dl compact="">
+                    <a name="welfar-servic"></a>**_welfare services_** includes:
 
-<dt>(a)</dt><dd>aged care services; and</dd>
+                     (a)  aged care services; and
 
-<dt>(b)</dt><dd>child care services (including services designed to encourage or support
+                     (b)  child care services (including services designed to encourage or support participation by parents in educational courses, training and the labour force); and
 
-participation by parents in educational courses, training and the labour
+                     (c)  services for people with disabilities; and
 
-force); and</dd>
+                     (d)  housing assistance (including programs designed to provide access to secure housing in the long term and programs to provide access to crisis accommodation in the short term); and
 
-<dt>(c)</dt><dd>services for people with disabilities; and</dd>
+                     (e)  child welfare services (including, in particular, child protection and substitute care services); and
 
-<dt>(d)</dt><dd>housing assistance (including programs designed to provide access to
+                      (f)  other community services.
 
-secure housing in the long term and programs to provide access to crisis
+             (2)  A reference in this Act to the Chairperson, the Director or a member, in relation to a time when a person is acting in the office of Chairperson, Director, or a member, includes a reference to that person.
 
-accommodation in the short term); and</dd>
+Note:          For the manner in which the Chairperson may be referred to, see section 18B of the _Acts Interpretation Act 1901_.
 
-<dt>(e)</dt><dd>child welfare services (including, in particular, child protection and
+## Part II—Australian Institute of Health and Welfare
 
-substitute care services); and</dd>
+### Division 1—Establishment, functions and powers of Institute
 
-<dt>(f)</dt><dd>other community services.
+##### <a id="4"></a>4  Establishment of Institute
 
-</dd>
+             (1)  There is hereby established a body to be known as the Australian Institute of Health and Welfare.
 
-</dl></dl></dl>
+             (2)  The Institute:
 
-<dl compact="">
+                     (a)  is a body corporate with perpetual succession;
 
-<dt>(2)</dt><dd>A reference in this Act to the Chairperson, the Director or a member, in
+                     (b)  shall have a common seal; and
 
-relation to a time when a person is acting in the office of Chairperson,
+                     (c)  may sue and be sued in its corporate name.
 
-Director, or a member, includes a reference to that person.
+Note:          The Commonwealth Authorities and Companies Act 1997 applies to the Institute. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
 
-</dd> </dl>
+             (3)  All courts, judges and persons acting judicially shall take judicial notice of the imprint of the common seal of the Institute affixed to a document and shall presume that it was duly affixed.
 
-<dl compact=""><dl compact="">
+##### <a id="5"></a>5  Functions of the Institute
 
-Note:	For the manner in which the Chairperson may be referred to,
+\[Institute to have health-related and welfare-related functions]
 
-see section 18B of the _Acts Interpretation Act 1901_.
+       (1AA)  The functions of the Institute are:
 
- </dl></dl>
+                     (a)  the health-related functions conferred by subsection (1); and
 
-<center>**
+                     (b)  the welfare-related functions conferred by subsection (1A).
 
-###  AUSTRALIAN INSTITUTE OF HEALTH AND WELFARE ACT 1987<part>Part II&#151;Australian Institute of Health and Welfare </part>
-**</center>
+\[Health-related functions]
 
-<center>**
+             (1)  The Institute’s health-related functions are:
 
-###  AUSTRALIAN INSTITUTE OF HEALTH AND WELFARE ACT 1987<division>Division 1&#151;Establishment, functions and powers of Institute </division> 
-**</center>
+                     (a)  to collect, with the agreement of the Australian Bureau of Statistics and, if necessary, with the Bureau’s assistance, health-related information and statistics, whether by itself or in association with other bodies or persons;
 
-**
+                     (b)  to produce health-related information and statistics, whether by itself or in association with other bodies or persons;
 
-###  AUSTRALIAN INSTITUTE OF HEALTH AND WELFARE ACT 1987- SECT 4  Establishment of Institute 
-**
+                     (c)  to co-ordinate the collection and production of health-related information and statistics by other bodies or persons;
 
- <dl compact="">
+                     (d)  to provide assistance, including financial assistance, for the collection and production of health-related information and statistics by other bodies or persons;
 
-<dt>(1)</dt><dd>There is hereby established a body to be known as the Australian Institute
+                     (e)  to develop methods and undertake studies designed to assess the provision, use, cost and effectiveness of health services and health technologies;
 
-of Health and Welfare.</dd> <dt>(2)</dt><dd>The Institute: </dd> </dl>
+                      (f)  to conduct and promote research into the health of the people of Australia and their health services;
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (g)  to develop, in consultation with the Australian Bureau of Statistics, specialised statistical standards and classifications relevant to health and health services, and advise the Bureau on the data to be used by it for the purposes of health-related statistics;
 
-<dt>(a)</dt><dd>is a body corporate with perpetual succession;</dd>
+                     (h)  subject to section 29, to enable researchers to have access to health-related information and statistics held by the Institute or by bodies or persons with whom contracts or arrangements have been entered into by the Institute;
 
-<dt>(b)</dt><dd>shall have a common seal; and</dd>
+                      (j)  to publish methodological and substantive reports on work carried out by or in association with the Institute under this subsection;
 
-<dt>(c)</dt><dd>may sue and be sued in its corporate name.
+                     (k)  to make recommendations to the Minister on the prevention and treatment of diseases and the improvement and promotion of the health and health awareness of the people of Australia; and
 
-</dd>
+                    (m)  to do anything incidental to any of the foregoing. 
 
-</dl></dl></dl>
+\[Welfare-related functions]
 
-<dl compact=""><dl compact="">
+          (1A)  The Institute’s welfare-related functions are:
 
-Note:	The Commonwealth Authorities and Companies Act 1997 applies
+                     (a)  to collect, with the agreement of the Australian Bureau of Statistics, and, if necessary, with the Bureau’s assistance, welfare-related information and statistics (whether by itself or in association with other bodies or persons); and
 
-to the Institute. That Act deals with matters relating to Commonwealth
+                     (b)  to produce welfare-related information and statistics (whether by itself or in association with other bodies or persons); and
 
-authorities, including reporting and accountability, banking and investment,
+                     (c)  to co-ordinate the collection and production of welfare-related information and statistics by other bodies or persons; and
 
-and conduct of officers.
+                     (d)  to provide assistance (including financial assistance) for the collection and production of welfare-related information and statistics by other bodies or persons; and
 
- </dl></dl>
+                     (e)  to develop, in consultation with the Australian Bureau of Statistics, specialised statistical standards and classifications relevant to welfare services; and
 
-<dl compact="">
+                      (f)  subject to section 29, to enable researchers to have access to welfare-related information and statistics held by the Institute or by bodies or persons with whom contracts or arrangements have been entered into by the Institute; and
 
-<dt>(3)</dt><dd>All courts, judges and persons acting judicially shall take judicial
+                     (g)  to publish methodological and substantive reports on work carried out by or in association with the Institute under this subsection; and
 
-notice of the imprint of the common seal of the Institute affixed to a document
+                     (h)  to do anything incidental to the functions conferred by paragraphs (a) to (g). 
 
-and shall presume that it was duly affixed.
+\[Functions of Australian Bureau of Statistics not limited by this section]
 
-</dd> </dl>
+             (3)  This section is not intended to limit the functions of the Australian Bureau of Statistics.
 
-<center>Back to Top</center>
+##### <a id="6"></a>6  Powers of Institute
 
-**
+                   The Institute has power to do all things necessary or convenient to be done for or in connection with the performance of its functions and, in particular, has power:
 
-###  AUSTRALIAN INSTITUTE OF HEALTH AND WELFARE ACT 1987- SECT 5  Functions of the Institute 
-**
+                     (a)  to enter into contracts or arrangements, including contracts or arrangements with bodies or persons to perform functions on behalf of the Institute;
 
- _\[Institute to have health-related and welfare-related functions]_
+                     (b)  to acquire, hold and dispose of real or personal property;
 
-<dl compact="">
+                     (c)  to occupy, use and control any land or building owned or held under lease by the Commonwealth and made available for the purposes of the Institute;
 
-<dt>(1AA)</dt><dd>The functions of the Institute are:
+                     (d)  to appoint agents and attorneys and act as an agent for other persons;
 
-</dd> </dl>
+                     (e)  to accept gifts, grants, devises and bequests made to the Institute, whether on trust or otherwise, and to act as trustee of money or other property vested in the Institute on trust;
 
-<dl compact=""><dl compact=""><dl compact="">
+                      (f)  subject to section 29, to:
 
-<dt>(a)</dt><dd>the health-related functions conferred by subsection (1); and</dd>
+                              (i)  release data to other bodies or persons; and
 
-<dt>(b)</dt><dd>the welfare-related functions conferred by subsection (1A).
+                             (ii)  publish the results of any of its work; and
 
-</dd>
+                     (g)  to do anything incidental to any of its powers.
 
-</dl></dl></dl>
+##### <a id="7"></a>7  Directions by Minister
 
-_\[Health-related functions]_
+             (1)  The Minister may, by notice in writing delivered to the Chairperson, give a direction to the Institute with respect to the performance of its functions or the exercise of its powers.
 
-<dl compact="">
+          (1A)  The Minister must consult the Chairperson before giving any direction to the Institute.
 
-<dt>(1)</dt><dd>The Institute's health-related functions are:
+          (1B)  The Minister must consult each State Health Minister before giving the direction if the direction relates to the Institute’s health-related functions.
 
-</dd> </dl>
+          (1C)  The Minister must consult each State Welfare Minister before giving the direction if the direction:
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (a)  relates to the Institute’s welfare-related functions; and
 
-<dt>(a)</dt><dd>to collect, with the agreement of the Australian Bureau of Statistics and,
+                     (b)  does not concern housing matters.
 
-if necessary, with the Bureau's assistance, health-related information and
+          (1D)  The Minister must consult each State Housing Minister before giving the direction if the direction:
 
-statistics, whether by itself or in association with other bodies or persons;</dd>
+                     (a)  relates to the Institute’s welfare-related functions; and
 
-<dt>(b)</dt><dd>to produce health-related information and statistics, whether by itself or
+                     (b)  concerns housing matters.
 
-in association with other bodies or persons;</dd>
+             (2)  The Institute shall comply with any direction given under subsection (1).
 
-<dt>(c)</dt><dd>to co-ordinate the collection and production of health-related information
+             (3)  This section does not affect the application of section 28 of the _Commonwealth Authorities and Companies Act 1997_ in relation to the Institute.
 
-and statistics by other bodies or persons;</dd>
+### Division 2—Constitution and meetings of Institute
 
-<dt>(d)</dt><dd>to provide assistance, including financial assistance, for the collection
+##### <a id="8"></a>8  Constitution of Institute
 
-and production of health-related information and statistics by other bodies or
+             (1)  Subject to subsection (2), the Institute shall consist of the following members:
 
-persons;</dd>
+                     (a)  the Chairperson;
 
-<dt>(e)</dt><dd>to develop methods and undertake studies designed to assess the provision,
+                     (b)  the Director;
 
-use, cost and effectiveness of health services and health technologies;</dd>
+                     (c)  a member nominated by the Australian Health Ministers’ Advisory Council;
 
-<dt>(f)</dt><dd>to conduct and promote research into the health of the people of Australia
+                    (ca)  a member nominated by the Standing Committee of Social Welfare Administrators;
 
-and their health services;</dd>
+                    (cb)  a representative of the State Housing Departments nominated in the manner determined by the Minister;
 
-<dt>(g)</dt><dd>to develop, in consultation with the Australian Bureau of Statistics,
+                     (d)  the Australian Statistician;
 
-specialised statistical standards and classifications relevant to health and
+                     (e)  the Secretary to the Department;
 
-health services, and advise the Bureau on the data to be used by it for the
+                      (f)  a person nominated by the Minister who has knowledge of the needs of consumers of health services;
 
-purposes of health-related statistics;</dd>
+                    (fa)  a person nominated by the Minister who has knowledge of the needs of consumers of welfare services;
 
-<dt>(h)</dt><dd>subject to section 29, to enable researchers to have access to
+                    (fb)  a person nominated by the Minister who has knowledge of the needs of consumers of housing assistance services;
 
-health-related information and statistics held by the Institute or by bodies or
+                    (fc)  a person nominated by the Minister who has expertise in research into public health issues;
 
-persons with whom contracts or arrangements have been entered into by the
+                     (g)  3 other members nominated by the Minister;
 
-Institute;</dd>
+                     (h)  a member of the staff of the Institute elected by that staff.
 
-<dt>(j)</dt><dd>to publish methodological and substantive reports on work carried out by
+       (1AA)  Without limiting the persons who may be nominated by the Minister, the Minister must:
 
-or in association with the Institute under this subsection;</dd>
+                     (a)  before nominating the member referred to in paragraph (1)(f), seek recommendations from such bodies (if any) representing consumers of health services as are prescribed for the purpose; and
 
-<dt>(k)</dt><dd>to make recommendations to the Minister on the prevention and treatment of
+                     (b)  before nominating the member referred to in paragraph 8(1)(fa), seek recommendations from such bodies (if any) representing consumers of welfare services as are prescribed for the purpose; and
 
-diseases and the improvement and promotion of the health and health awareness
+                     (c)  before nominating the member referred to in paragraph 8(1)(fb), seek recommendations from such bodies (if any) representing consumers of housing assistance services as are prescribed for the purpose; and
 
-of the people of Australia; and</dd>
+                     (d)  before nominating the member referred to in paragraph 8(1)(fc), seek recommendations from such peak public health research bodies (if any) as are prescribed for the purpose.
 
-<dt>(m)</dt><dd>to do anything incidental to any of the foregoing.
+          (1A)  A recommendation for the purposes of paragraph (1)(f), (fa), (fb) or (fc):
 
-</dd>
+                     (a)  may be made by one or more bodies; and
 
-</dl></dl></dl>
+                     (b)  may contain one or more names.
 
-_\[Welfare-related functions]_
+             (2)  If the person referred to in paragraph (1)(d) or (e) is not available to serve as a member of the Institute, that person shall nominate a person to be a member of the Institute in lieu of himself or herself.
 
-<dl compact="">
+             (3)  The performance of the functions, or the exercise of the powers, of the Institute is not affected by reason only of:
 
-<dt>(1A)</dt><dd>The Institute's welfare-related functions are:
+                     (a)  a vacancy in the office of a member referred to in paragraph (1)(a), (b), (f), (fa), (fb), (fc) or (h);
 
-</dd> </dl>
+                     (b)  the number of members referred to in paragraph (g) falling below 3 for a period of not more than 6 months;
 
-<dl compact=""><dl compact=""><dl compact="">
+                    (ba)  a vacancy of not more than 6 months duration in the office of a member referred to in paragraph (1)(c), (ca) or (cb);
 
-<dt>(a)</dt><dd>to collect, with the agreement of the Australian Bureau of Statistics,
+                     (c)  a vacancy in the office of the member referred to in paragraph (1)(d) or (e) or the member (if any) nominated in lieu of that member under subsection (2).
 
-and, if necessary, with the Bureau's assistance, welfare-related information
+             (4)  The following subsections have effect in relation to a member other than a member referred to in paragraph (1)(b), (d) or (e).
 
-and statistics (whether by itself or in association with other bodies or
+             (5)  Subject to this section, a member shall be appointed by the Governor-General.
 
-persons); and</dd>
+          (5A)  Subject to this Act, a member referred to in paragraph (1)(a), (c), (ca), (cb), (f), (fa), (fb), (fc) or (g) may be appointed on a full-time or a part-time basis and holds office for such period, not exceeding 3 years, as is specified in the instrument of appointment.
 
-<dt>(b)</dt><dd>to produce welfare-related information and statistics (whether by itself
+          (5B)  Subject to this Act, a member elected under paragraph (1)(h) holds office on a part-time basis for a period of one year commencing on:
 
-or in association with other bodies or persons); and</dd>
+                     (a)  the day on which the poll for the election of the member is held; or
 
-<dt>(c)</dt><dd>to co-ordinate the collection and production of welfare-related
+                     (b)  if that day occurs before the expiration of the term of office of the person whose place the member fills—the day after the expiration of that term.
 
-information and statistics by other bodies or persons; and</dd>
+             (6)  A person who has attained the age of 65 years shall not hold office as a member on a full-time basis.
 
-<dt>(d)</dt><dd>to provide assistance (including financial assistance) for the collection
+             (7)  A member holds office on such terms and conditions (if any) in respect of matters not provided for by this Act as are determined by the Governor-General.
 
-and production of welfare-related information and statistics by other bodies or
+             (8)  The appointment of a member is not invalid because of a defect or irregularity in connection with the member’s nomination or appointment.
 
-persons; and</dd>
+##### <a id="9"></a>9  Acting members
 
-<dt>(e)</dt><dd>to develop, in consultation with the Australian Bureau of Statistics,
+             (1)  The Minister may appoint a person to act in the office of Chairperson, of Director, or of member (other than the Chairperson or Director):
 
-specialised statistical standards and classifications relevant to welfare
+                     (a)  during a vacancy in the office, whether or not an appointment has previously been made to the office; or
 
-services; and</dd>
-
-<dt>(f)</dt><dd>subject to section 29, to enable researchers to have access to
-
-welfare-related information and statistics held by the Institute or by bodies
-
-or persons with whom contracts or arrangements have been entered into by the
-
-Institute; and</dd>
-
-<dt>(g)</dt><dd>to publish methodological and substantive reports on work carried out by
-
-or in association with the Institute under this subsection; and</dd>
-
-<dt>(h)</dt><dd>to do anything incidental to the functions conferred by paragraphs (a) to
-
-(g).
-
-</dd>
-
-</dl></dl></dl>
-
-_\[Functions of Australian Bureau of Statistics not limited by this section]_
-
-<center>Back to Top</center>
-
-<dl compact="">
-
-<dt>(3)</dt><dd>This section is not intended to limit the functions of the Australian
-
-Bureau of Statistics.
-
-</dd> </dl>
-
-**
-
-###  AUSTRALIAN INSTITUTE OF HEALTH AND WELFARE ACT 1987- SECT 6  Powers of Institute 
-**
-
- <dl compact="">
-
-		The Institute has power to do all things necessary or convenient to be done
-
-for or in connection with the performance of its functions and, in particular,
-
-has power:
-
- </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>to enter into contracts or arrangements, including contracts or
-
-arrangements with bodies or persons to perform functions on behalf of the
-
-Institute;</dd>
-
-<dt>(b)</dt><dd>to acquire, hold and dispose of real or personal property;</dd>
-
-<dt>(c)</dt><dd>to occupy, use and control any land or building owned or held under lease
-
-by the Commonwealth and made available for the purposes of the Institute;</dd>
-
-<dt>(d)</dt><dd>to appoint agents and attorneys and act as an agent for other persons;</dd>
-
-<dt>(e)</dt><dd>to accept gifts, grants, devises and bequests made to the Institute,
-
-whether on trust or otherwise, and to act as trustee of money or other property
-
-vested in the Institute on trust;</dd>
-
-<dt>(f)</dt><dd>subject to section 29, to:
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
-
-<dt>(i)</dt><dd>release data to other bodies or persons; and</dd>
-
-<dt>(ii)</dt><dd>publish the results of any of its work; and
-
-</dd>
-
-</dl></dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(g)</dt><dd>to do anything incidental to any of its powers.
-
-</dd>
-
-</dl></dl></dl>
-
-**
-
-###  AUSTRALIAN INSTITUTE OF HEALTH AND WELFARE ACT 1987- SECT 7  Directions by Minister 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>The Minister may, by notice in writing delivered to the Chairperson, give
-
-a direction to the Institute with respect to the performance of its functions
-
-or the exercise of its powers.</dd> <dt>(1A)</dt><dd>The Minister must consult the Chairperson before giving any direction to the Institute.</dd> <dt>(1B)</dt><dd>The Minister must consult each State Health Minister before giving the direction if the direction relates to the Institute's health-related functions.</dd> <dt>(1C)</dt><dd>The Minister must consult each State Welfare Minister before giving the direction if the direction: </dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>relates to the Institute's welfare-related functions; and</dd>
-
-<dt>(b)</dt><dd>does not concern housing matters.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact="">
-
-<dt>(1D)</dt><dd>The Minister must consult each State Housing Minister before giving the
-
-direction if the direction:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>relates to the Institute's welfare-related functions; and</dd>
-
-<dt>(b)</dt><dd>concerns housing matters.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact="">
-
-<dt>(2)</dt><dd>The Institute shall comply with any direction given under subsection
-
-(1).</dd> <dt>(3)</dt><dd>This section does not affect the application of section 28 of the _Commonwealth Authorities and Companies Act 1997_ in relation to the Institute. </dd> </dl>
-
-<center>**
-
-###  AUSTRALIAN INSTITUTE OF HEALTH AND WELFARE ACT 1987<division>Division 2&#151;Constitution and meetings of Institute </division> 
-**</center>
-
-**
-
-###  AUSTRALIAN INSTITUTE OF HEALTH AND WELFARE ACT 1987- SECT 8  Constitution of Institute <center>[Back to Top](#top)</center> 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>Subject to subsection (2), the Institute shall consist of the following
-
-members:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>the Chairperson;</dd>
-
-<dt>(b)</dt><dd>the Director;</dd>
-
-<dt>(c)</dt><dd>a member nominated by the Australian Health Ministers' Advisory Council;</dd>
-
-<dt>(ca)</dt><dd>a member nominated by the Standing Committee of Social Welfare
-
-Administrators;</dd>
-
-<dt>(cb)</dt><dd>a representative of the State Housing Departments nominated in the manner
-
-determined by the Minister;</dd>
-
-<dt>(d)</dt><dd>the Australian Statistician;</dd>
-
-<dt>(e)</dt><dd>the Secretary to the Department;</dd>
-
-<dt>(f)</dt><dd>a person nominated by the Minister who has knowledge of the needs of
-
-consumers of health services;</dd>
-
-<dt>(fa)</dt><dd>a person nominated by the Minister who has knowledge of the needs of
-
-consumers of welfare services;</dd>
-
-<dt>(fb)</dt><dd>a person nominated by the Minister who has knowledge of the needs of
-
-consumers of housing assistance services;</dd>
-
-<dt>(fc)</dt><dd>a person nominated by the Minister who has expertise in research into
-
-public health issues;</dd>
-
-<dt>(g)</dt><dd>3 other members nominated by the Minister;</dd>
-
-<dt>(h)</dt><dd>a member of the staff of the Institute elected by that staff.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact="">
-
-<dt>(1AA)</dt><dd>Without limiting the persons who may be nominated by the Minister, the
-
-Minister must:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>before nominating the member referred to in paragraph&#160;(1)(f), seek
-
-recommendations from such bodies (if any) representing consumers of health
-
-services as are prescribed for the purpose; and</dd>
-
-<dt>(b)</dt><dd>before nominating the member referred to in paragraph 8(1)(fa), seek
-
-recommendations from such bodies (if any) representing consumers of welfare
-
-services as are prescribed for the purpose; and</dd>
-
-<dt>(c)</dt><dd>before nominating the member referred to in paragraph 8(1)(fb), seek
-
-recommendations from such bodies (if any) representing consumers of housing
-
-assistance services as are prescribed for the purpose; and</dd>
-
-<dt>(d)</dt><dd>before nominating the member referred to in paragraph 8(1)(fc), seek
-
-recommendations from such peak public health research bodies (if any) as are
-
-prescribed for the purpose.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact="">
-
-<dt>(1A)</dt><dd>A recommendation for the purposes of paragraph (1)(f), (fa), (fb) or (fc):
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>may be made by one or more bodies; and</dd>
-
-<dt>(b)</dt><dd>may contain one or more names.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact="">
-
-<dt>(2)</dt><dd>If the person referred to in paragraph (1)(d) or (e) is not available to
-
-serve as a member of the Institute, that person shall nominate a person to be a
-
-member of the Institute in lieu of himself or herself.</dd> <dt>(3)</dt><dd>The performance of the functions, or the exercise of the powers, of the Institute is not affected by reason only of: </dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>a vacancy in the office of a member referred to in paragraph (1)(a), (b),
-
-(f), (fa), (fb), (fc) or (h);</dd>
-
-<dt>(b)</dt><dd>the number of members referred to in paragraph (g) falling below 3 for a
-
-period of not more than 6 months;</dd>
-
-<dt>(ba)</dt><dd>a vacancy of not more than 6 months duration in the office of a member
-
-referred to in paragraph (1)(c), (ca) or (cb);</dd>
-
-<dt>(c)</dt><dd>a vacancy in the office of the member referred to in paragraph (1)(d) or
-
-<dt>(e)</dt><dd>or the member (if any) nominated in lieu of that member under subsection
-
-(2).
-
-</dd></dd>
-
-</dl></dl></dl>
-
-<dl compact="">
-
-<dt>(4)</dt><dd>The following subsections have effect in relation to a member other than a
-
-member referred to in paragraph (1)(b), (d) or (e).</dd> <dt>(5)</dt><dd>Subject to this section, a member shall be appointed by the Governor-General.</dd> <dt>(5A)</dt><dd>Subject to this Act, a member referred to in paragraph (1)(a), (c), (ca), (cb), (f), (fa), (fb), (fc) or (g) may be appointed on a full-time or a part-time basis and holds office for such period, not exceeding 3 years, as is specified in the instrument of appointment.</dd> <dt>(5B)</dt><dd>Subject to this Act, a member elected under paragraph (1)(h) holds office on a part-time basis for a period of one year commencing on: </dd> </dl>
-
-<center>Back to Top</center>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>the day on which the poll for the election of the member is held; or</dd>
-
-<dt>(b)</dt><dd>if that day occurs before the expiration of the term of office of the
-
-person whose place the member fills&#151;the day after the expiration of that term.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact="">
-
-<dt>(7)</dt><dd>A member holds office on such terms and conditions (if any) in respect of
-
-matters not provided for by this Act as are determined by the
-
-Governor-General.</dd> <dt>(8)</dt><dd>The appointment of a member is not invalid because of a defect or irregularity in connection with the member's nomination or appointment. </dd> </dl>
-
-**
-
-###  AUSTRALIAN INSTITUTE OF HEALTH AND WELFARE ACT 1987- SECT 9  Acting members 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>The Minister may appoint a person to act in the office of Chairperson, of
-
-Director, or of member (other than the Chairperson or Director):
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>during a vacancy in the office, whether or not an appointment has
-
-previously been made to the office; or</dd>
-
-<dt>(b)</dt><dd>during any period, or during all periods, when the holder of the office is
-
-absent from duty or from Australia or is, for any other reason, unable to
-
-perform the functions of the office;
-
-</dd>
-
-</dl></dl></dl>
+                     (b)  during any period, or during all periods, when the holder of the office is absent from duty or from Australia or is, for any other reason, unable to perform the functions of the office;
 
 but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.
 
-<dl compact="">
+             (2)  A person may resign appointment under this section by instrument in writing delivered to the Minister.
 
-<dt>(2)</dt><dd>A person may resign appointment under this section by instrument in
+             (3)  An appointment may be expressed to have effect only in such circumstances as are specified in the instrument of appointment.
 
-writing delivered to the Minister.</dd> <dt>(3)</dt><dd>An appointment may be expressed to have effect only in such circumstances as are specified in the instrument of appointment.</dd> <dt>(4)</dt><dd>The Minister may: </dd> </dl>
+             (4)  The Minister may:
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (a)  determine the terms and conditions of appointment, including remuneration and allowances, if any, of a person acting under subsection (1); and
 
-<dt>(a)</dt><dd>determine the terms and conditions of appointment, including remuneration
+                     (b)  terminate such an appointment at any time.
 
-and allowances, if any, of a person acting under subsection (1); and</dd>
+             (5)  Where a person is acting in an office and the office becomes vacant while that person is so acting, then, subject to subsection (3), the person may continue so to act until the Minister otherwise directs, the vacancy is filled or a period of 12 months from the date on which the vacancy occurred expires, whichever first happens.
 
-<dt>(b)</dt><dd>terminate such an appointment at any time.
+             (6)  While a person is acting in an office, the person has and may exercise all the powers, and shall perform all the functions and duties, of the holder of the office.
 
-</dd>
+             (7)  Anything done by or in relation to a person purporting to act under this section is not invalid by reason only that:
 
-</dl></dl></dl>
+                     (a)  the occasion for the appointment of the person had not arisen;
 
-<dl compact="">
+                     (b)  there was a defect or irregularity in or in connection with the appointment;
 
-<dt>(5)</dt><dd>Where a person is acting in an office and the office becomes vacant while
+                     (c)  the appointment had ceased to have effect; or
 
-that person is so acting, then, subject to subsection (3), the person may
+                     (d)  the occasion for the person to act had not arisen or had ceased.
 
-continue so to act until the Minister otherwise directs, the vacancy is filled
+##### <a id="10"></a>10  Remuneration and allowances
 
-or a period of 12 months from the date on which the vacancy occurred expires,
+             (1)  Unless otherwise prescribed, a member shall be paid such remuneration as is determined by the Remuneration Tribunal.
 
-whichever first happens.</dd> <dt>(6)</dt><dd>While a person is acting in an office, the person has and may exercise all the powers, and shall perform all the functions and duties, of the holder of the office.</dd> <dt>(7)</dt><dd>Anything done by or in relation to a person purporting to act under this section is not invalid by reason only that: </dd> </dl>
+             (2)  A member shall be paid such allowances as are prescribed.
 
-<dl compact=""><dl compact=""><dl compact="">
+             (3)  This section has effect subject to the _Remuneration Tribunal Act 1973_.
 
-<dt>(a)</dt><dd>the occasion for the appointment of the person had not arisen;</dd>
+##### <a id="11"></a>11  Leave of absence
 
-<dt>(b)</dt><dd>there was a defect or irregularity in or in connection with the
+             (1)  A full-time member has such recreation leave entitlements as are determined by the Remuneration Tribunal.
 
-appointment;</dd>
+             (2)  The Minister may:
 
-<dt>(c)</dt><dd>the appointment had ceased to have effect; or</dd>
+                     (a)  grant a full-time member leave of absence, other than recreation leave, on such terms and conditions as to remuneration or otherwise as the Minister determines; and
 
-<dt>(d)</dt><dd>the occasion for the person to act had not arisen or had ceased.
+                     (b)  grant a part-time member leave of absence on such terms and conditions as to remuneration or otherwise as the Minister determines.
 
-</dd>
+##### <a id="12"></a>12  Resignation
 
-</dl></dl></dl>
+                   A member may resign by instrument in writing delivered to the Governor-General.
 
-**
+##### <a id="13"></a>13  Termination of appointment
 
-###  AUSTRALIAN INSTITUTE OF HEALTH AND WELFARE ACT 1987- SECT 10  Remuneration and allowances 
-**
+             (1)  The Governor-General may terminate the appointment of a member because of misbehaviour or physical or mental incapacity.
 
- <dl compact="">
+             (2)  If a member:
 
-<dt>(1)</dt><dd>Unless otherwise prescribed, a member shall be paid such remuneration as
+                     (a)  becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with creditors or assigns remuneration for their benefit;
 
-is determined by the Remuneration Tribunal.</dd> <dt>(2)</dt><dd>A member shall be paid such allowances as are prescribed.</dd> <dt>(3)</dt><dd>This section has effect subject to the _Remuneration Tribunal Act 1973_. </dd> </dl>
+                     (b)  without reasonable excuse, contravenes section 27F or 27J of the _Commonwealth Authorities and Companies Act 1997_;
 
-**
+                     (c)  being a full-time member who is paid remuneration under this Part:
 
-###  AUSTRALIAN INSTITUTE OF HEALTH AND WELFARE ACT 1987- SECT 11  Leave of absence 
-**
+                              (i)  engages in paid employment outside his or her duties without the consent of the Minister; or
 
- <dl compact="">
+                             (ii)  is absent from duty, without leave of absence for 14 consecutive days or for 28 days in any period of 12 months; or
 
-<dt>(1)</dt><dd>A full-time member has such recreation leave entitlements as are
-
-determined by the Remuneration Tribunal.</dd> <dt>(2)</dt><dd>The Minister may: </dd> </dl>
-
-<center>Back to Top</center>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>grant a full-time member leave of absence, other than recreation leave, on
-
-such terms and conditions as to remuneration or otherwise as the Minister
-
-determines; and</dd>
-
-<dt>(b)</dt><dd>grant a part-time member leave of absence on such terms and conditions as
-
-to remuneration or otherwise as the Minister determines.
-
-</dd>
-
-</dl></dl></dl>
-
-**
-
-###  AUSTRALIAN INSTITUTE OF HEALTH AND WELFARE ACT 1987- SECT 12  Resignation 
-**
-
- <dl compact="">
-
-		A member may resign by instrument in writing delivered to the Governor-General.
-
- </dl>
-
-**
-
-###  AUSTRALIAN INSTITUTE OF HEALTH AND WELFARE ACT 1987- SECT 13  Termination of appointment 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>The Governor-General may terminate the appointment of a member because of
-
-misbehaviour or physical or mental incapacity.</dd> <dt>(2)</dt><dd>If a member: </dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>becomes bankrupt, applies to take the benefit of any law for the relief of
-
-bankrupt or insolvent debtors, compounds with creditors or assigns remuneration
-
-for their benefit;</dd>
-
-<dt>(b)</dt><dd>without reasonable excuse, contravenes section 27F or 27J of the
-
-_Commonwealth Authorities and Companies Act 1997_;</dd>
-
-<dt>(c)</dt><dd>being a full-time member who is paid remuneration under this Part:
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
-
-<dt>(i)</dt><dd>engages in paid employment outside his or her duties without the consent
-
-of the Minister; or</dd>
-
-<dt>(ii)</dt><dd>is absent from duty, without leave of absence for 14 consecutive days or
-
-for 28 days in any period of 12 months; or
-
-</dd>
-
-</dl></dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(d)</dt><dd>being a part-time member, is absent, without leave by the Minister, from 3
-
-consecutive meetings of the Institute;
-
-</dd>
-
-</dl></dl></dl>
+                     (d)  being a part-time member, is absent, without leave by the Minister, from 3 consecutive meetings of the Institute;
 
 the Governor-General may terminate the appointment of the member.
 
-<dl compact="">
+             (3)  Where:
 
-<dt>(3)</dt><dd>Where:
+                     (a)  a member has been appointed under paragraph 8(1)(c), (ca) or (cb) or subsection 8(2) on the nomination of a body or person referred to in that paragraph or subsection, as the case may be, and the body or person notifies the Minister in writing that the nomination is withdrawn; or
 
-</dd> </dl>
+                     (b)  a member has been appointed under paragraph 8(1)(g) on the nomination of the Minister and the Minister withdraws his or her nomination of the member; or
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (c)  a member has been elected under paragraph 8(1)(h) and the member ceases to be a member of the staff of the Institute;
 
-<dt>(a)</dt><dd>a member has been appointed under paragraph 8(1)(c), (ca) or (cb) or
+the Governor-General shall terminate the appointment of the member.
 
-subsection 8(2) on the nomination of a body or person referred to in that
+##### <a id="14"></a>14  Disclosure of interests
 
-paragraph or subsection, as the case may be, and the body or person notifies
+             (3)  Sections 27F and 27J of the _Commonwealth Authorities and Companies Act 1997_ do not apply to an interest of a member referred to in paragraph 8(1)(c), (ca), (cb) or (h) or a member nominated under subsection 8(2), being an interest that the member has by reason only of having been nominated by a body or person referred to in that paragraph or subsection.
 
-the Minister in writing that the nomination is withdrawn; or</dd>
+##### <a id="15"></a>15  Meetings
 
-<dt>(b)</dt><dd>a member has been appointed under paragraph 8(1)(g) on the nomination of
+             (1)  Subject to this section, meetings of the Institute shall be held at such times and places as the Institute determines.
 
-the Minister and the Minister withdraws his or her nomination of the member;
+             (2)  The Institute shall meet at least once every 4 months.
 
-or</dd>
+             (3)  The Chairperson:
 
-<dt>(c)</dt><dd>a member has been elected under paragraph 8(1)(h) and the member ceases to
+                     (a)  may at any time convene a meeting; and
 
-be a member of the staff of the Institute;
+                     (b)  shall convene a meeting on receipt of a written request signed by not fewer than 3 members.
 
-</dd>
+             (4)  The Minister may convene such meetings as the Minister considers necessary.
 
-</dl></dl></dl>
+             (5)  At a meeting:
 
-the Governor-General shall terminate the appointment of the member. 
+                     (a)  if the Chairperson is present, the Chairperson shall preside;
 
-**
+                     (b)  if the Chairperson is absent, the members present shall appoint one of their number to preside;
 
-###  AUSTRALIAN INSTITUTE OF HEALTH AND WELFARE ACT 1987- SECT 14  Disclosure of interests 
-**
+                     (c)  a majority of the members for the time being constitute a quorum;
 
- <dl compact="">
+                     (d)  all questions shall be decided by a majority of the votes of the members present and voting; and
 
-<dt>(3)</dt><dd>Sections 27F and 27J of the _Commonwealth Authorities and Companies Act 1997_ do not apply to an interest of a member referred to in paragraph
+                     (e)  the member presiding has a deliberative vote and, if necessary, also has a casting vote.
 
-8(1)(c), (ca), (cb) or (h) or a member nominated under subsection 8(2), being
+             (6)  The Institute shall keep minutes of its proceedings.
 
-an interest that the member has by reason only of having been nominated by a
+             (7)  The Institute shall regulate the procedure of its meetings as it thinks fit.
 
-body or person referred to in that paragraph or subsection.
+### Division 3—Committees of Institute
 
-</dd> </dl>
+##### <a id="16"></a>16  Committees
 
-**
+             (1)  The Institute shall appoint a committee to be known as the Australian Institute of Health and Welfare Ethics Committee.
 
-###  AUSTRALIAN INSTITUTE OF HEALTH AND WELFARE ACT 1987- SECT 15  Meetings 
-**
+             (2)  The functions and composition of the Ethics Committee shall be as prescribed.
 
- <dl compact="">
+             (3)  Regulations for the purpose of subsection (2) must not be inconsistent with recommendations of the National Health and Medical Research Council.
 
-<dt>(1)</dt><dd>Subject to this section, meetings of the Institute shall be held at such
+             (4)  The Institute may appoint such other committees as it thinks fit to assist it in performing its functions.
 
-times and places as the Institute determines.</dd> <dt>(2)</dt><dd>The Institute shall meet at least once every 4 months.</dd> <dt>(3)</dt><dd>The Chairperson: </dd> </dl>
+             (5)  The functions and composition of a committee appointed under subsection (4) shall be as determined from time to time in writing by the Institute.
 
-<center>Back to Top</center>
+             (6)  The succeeding subsections of this section apply in relation to a committee appointed under subsection (1) or (4).
 
-<dl compact=""><dl compact=""><dl compact="">
+             (7)  The members of a committee may include members of the Institute.
 
-<dt>(a)</dt><dd>may at any time convene a meeting; and</dd>
+             (8)  A member of a committee holds office for such period as is specified in the instrument of appointment.
 
-<dt>(b)</dt><dd>shall convene a meeting on receipt of a written request signed by not
+             (9)  A member of a committee may resign by instrument in writing delivered to the Institute.
 
-fewer than 3 members.
+           (10)  Except where the Minister otherwise directs in writing, a member of a committee shall be paid such remuneration as is determined by the Remuneration Tribunal.
 
-</dd>
+           (11)  A member of a committee (other than a member of the Institute) shall be paid such allowances as are prescribed.
 
-</dl></dl></dl>
+           (12)  Subsections (9) and (10) have effect subject to the _Remuneration Tribunal Act 1973_.
 
-<dl compact="">
+           (13)  A member of a committee must disclose at a meeting of the committee any pecuniary or other interest:
 
-<dt>(4)</dt><dd>The Minister may convene such meetings as the Minister considers
+                     (a)  that the member has directly or indirectly in a matter being considered, or about to be considered by the committee; and
 
-necessary.</dd> <dt>(5)</dt><dd>At a meeting: </dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>if the Chairperson is present, the Chairperson shall preside;</dd>
-
-<dt>(b)</dt><dd>if the Chairperson is absent, the members present shall appoint one of
-
-their number to preside;</dd>
-
-<dt>(c)</dt><dd>a majority of the members for the time being constitute a quorum;</dd>
-
-<dt>(d)</dt><dd>all questions shall be decided by a majority of the votes of the members
-
-present and voting; and</dd>
-
-<dt>(e)</dt><dd>the member presiding has a deliberative vote and, if necessary, also has a
-
-casting vote.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact="">
-
-<dt>(6)</dt><dd>The Institute shall keep minutes of its proceedings.</dd> <dt>(7)</dt><dd>The Institute shall regulate the procedure of its meetings as it thinks fit. </dd> </dl>
-
-<center>**
-
-###  AUSTRALIAN INSTITUTE OF HEALTH AND WELFARE ACT 1987<division>Division 3&#151;Committees of Institute </division> 
-**</center>
-
-**
-
-###  AUSTRALIAN INSTITUTE OF HEALTH AND WELFARE ACT 1987- SECT 16  Committees 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>The Institute shall appoint a committee to be known as the Australian
-
-Institute of Health and Welfare Ethics Committee.</dd> <dt>(2)</dt><dd>The functions and composition of the Ethics Committee shall be as prescribed.</dd> <dt>(3)</dt><dd>Regulations for the purpose of subsection&#160;(2) must not be inconsistent with recommendations of the National Health and Medical Research Council.</dd> <dt>(4)</dt><dd>The Institute may appoint such other committees as it thinks fit to assist it in performing its functions.</dd> <dt>(5)</dt><dd>The functions and composition of a committee appointed under subsection <dt>(4)</dt><dd>shall be as determined from time to time in writing by the Institute.</dd>
-
- <dt>(6)</dt><dd>The succeeding subsections of this section apply in relation to a committee appointed under subsection (1) or (4).</dd>
-
- <dt>(7)</dt><dd>The members of a committee may include members of the Institute.</dd>
-
- <dt>(8)</dt><dd>A member of a committee holds office for such period as is specified in the instrument of appointment.</dd>
-
- <dt>(9)</dt><dd>A member of a committee may resign by instrument in writing delivered to the Institute.</dd>
-
- <dt>(10)</dt><dd>Except where the Minister otherwise directs in writing, a member of a committee shall be paid such remuneration as is determined by the Remuneration Tribunal.</dd>
-
- <dt>(11)</dt><dd>A member of a committee (other than a member of the Institute) shall be paid such allowances as are prescribed.</dd>
-
- <dt>(12)</dt><dd>Subsections (9) and (10) have effect subject to the _Remuneration Tribunal Act 1973_.</dd>
-
- <dt>(13)</dt><dd>A member of a committee must disclose at a meeting of the committee any pecuniary or other interest: </dd>
-
-</dd></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>that the member has directly or indirectly in a matter being considered,
-
-or about to be considered by the committee; and</dd>
-
-<dt>(b)</dt><dd>that would conflict with the proper performance of the member's functions
-
-in relation to the consideration of the matter.
-
-</dd>
-
-</dl></dl></dl>
+                     (b)  that would conflict with the proper performance of the member’s functions in relation to the consideration of the matter.
 
 The member must make the disclosure as soon as practicable after he or she knows of the relevant facts.
 
-<dl compact="">
+           (14)  The disclosure must be recorded in the minutes of the meeting.
 
-<dt>(14)</dt><dd>The disclosure must be recorded in the minutes of the meeting.</dd> <dt>(15)</dt><dd>Subsection (13) does not apply to an interest held by a member described in paragraph 8(1)(c), (ca), (cb) or (h) or subsection 8(2) merely because the member was nominated by a body or person mentioned in that paragraph or subsection. </dd> </dl>
+           (15)  Subsection (13) does not apply to an interest held by a member described in paragraph 8(1)(c), (ca), (cb) or (h) or subsection 8(2) merely because the member was nominated by a body or person mentioned in that paragraph or subsection.
 
-<center>Back to Top</center>
+### Division 4—Director of Institute
 
-<center>**
+##### <a id="17"></a>17  Director of Institute
 
-###  AUSTRALIAN INSTITUTE OF HEALTH AND WELFARE ACT 1987<division>Division 4&#151;Director of Institute </division> 
-**</center>
+             (1)  There shall be a Director of the Institute.
 
-**
+             (2)  The Director shall be appointed by the Minister on the recommendation of the Institute.
 
-###  AUSTRALIAN INSTITUTE OF HEALTH AND WELFARE ACT 1987- SECT 17  Director of Institute 
-**
+             (3)  The Director shall be appointed on a full-time or part-time basis for such period, not exceeding 5 years, as is specified in the instrument of appointment.
 
- <dl compact="">
+             (5)  The Director holds office on such terms and conditions (if any) in respect of matters not provided for by this Act as are determined by the Minister.
 
-<dt>(1)</dt><dd>There shall be a Director of the Institute.</dd> <dt>(2)</dt><dd>The Director shall be appointed by the Minister on the recommendation of the Institute.</dd> <dt>(3)</dt><dd>The Director shall be appointed on a full-time or part-time basis for such period, not exceeding 5 years, as is specified in the instrument of appointment.</dd> <dt>(5)</dt><dd>The Director holds office on such terms and conditions (if any) in respect of matters not provided for by this Act as are determined by the Minister.</dd> <dt>(6)</dt><dd>The appointment of the Director is not invalid because of a defect or irregularity in connection with the appointment or the recommendation by the Institute.</dd> <dt>(7)</dt><dd>The Director shall not be present during any deliberation, or take part in any decision, of the Institute with respect to the appointment of the Director.</dd> <dt>(8)</dt><dd>Sections 11 and 14 apply to the Director.</dd> <dt>(9)</dt><dd>Sections 12 and 13 apply to the Director as if references in those sections to the Governor-General were references to the Minister. </dd> </dl>
+             (6)  The appointment of the Director is not invalid because of a defect or irregularity in connection with the appointment or the recommendation by the Institute.
 
-**
+             (7)  The Director shall not be present during any deliberation, or take part in any decision, of the Institute with respect to the appointment of the Director.
 
-###  AUSTRALIAN INSTITUTE OF HEALTH AND WELFARE ACT 1987- SECT 18  Functions of Director 
-**
+             (8)  Sections 11 and 14 apply to the Director.
 
- <dl compact="">
+             (9)  Sections 12 and 13 apply to the Director as if references in those sections to the Governor-General were references to the Minister.
 
-<dt>(1)</dt><dd>The Director shall manage the affairs of the Institute subject to the
+##### <a id="18"></a>18  Functions of Director
 
-directions of, and in accordance with policies determined by, the Institute.</dd> <dt>(2)</dt><dd>All acts and things done in the name of, or on behalf of, the Institute by the Director shall be deemed to have been done by the Institute. </dd> </dl>
+             (1)  The Director shall manage the affairs of the Institute subject to the directions of, and in accordance with policies determined by, the Institute.
 
-<center>**
+             (2)  All acts and things done in the name of, or on behalf of, the Institute by the Director shall be deemed to have been done by the Institute.
 
-###  AUSTRALIAN INSTITUTE OF HEALTH AND WELFARE ACT 1987<division>Division 5&#151;Staff </division> 
-**</center>
+### Division 5—Staff
 
-**
+##### <a id="19"></a>19  Staff
 
-###  AUSTRALIAN INSTITUTE OF HEALTH AND WELFARE ACT 1987- SECT 19  Staff 
-**
+             (1)  The staff required for the purposes of this Act shall be:
 
- <dl compact="">
+                     (a)  persons engaged under the _Public Service Act 1999_; and
 
-<dt>(1)</dt><dd>The staff required for the purposes of this Act shall be:
+                     (b)  persons appointed or employed by the Institute.
 
-</dd> </dl>
+             (2)  For the purposes of the _Public Service Act 1999_:
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (a)  the Director and the APS employees assisting the Director together constitute a Statutory Agency; and
 
-<dt>(a)</dt><dd>persons engaged under the _Public Service Act 1999_; and</dd>
+                     (b)  the Director is the Head of that Statutory Agency.
 
-<dt>(b)</dt><dd>persons appointed or employed by the Institute.
+             (3)  The Institute may engage as advisers or consultants persons having suitable qualifications and experience.
 
-</dd>
+             (4)  The terms and conditions of appointment or employment of members of the staff referred to in paragraph (1)(b) are such as are determined by the Institute.
 
-</dl></dl></dl>
+             (5)  The terms and conditions of engagement of advisers or consultants are such as are determined by the Institute.
 
-<dl compact="">
+## Part III—Finance
 
-<dt>(2)</dt><dd>For the purposes of the _Public Service Act 1999_:
+##### <a id="20"></a>20  Money to be appropriated by Parliament
 
-</dd> </dl>
+             (1)  There is payable to the Institute such money as is appropriated by the Parliament for the purposes of the Institute.
 
-<dl compact=""><dl compact=""><dl compact="">
+             (2)  The Minister for Finance may give directions as to the means in which, and the times at which, money referred to in subsection (1) is to be paid to the Institute.
 
-<dt>(a)</dt><dd>the Director and the APS employees assisting the Director together
+##### <a id="22"></a>22  Money of Institute
 
-constitute a Statutory Agency; and</dd>
+             (1)  The money of the Institute consists of:
 
-<dt>(b)</dt><dd>the Director is the Head of that Statutory Agency.
+                     (a)  money paid to the Institute under section 20; and
 
-</dd>
+                     (b)  any other money, other than trust money, paid to the Institute.
 
-</dl></dl></dl>
+             (2)  The money of the Institute shall be applied only:
 
-<dl compact="">
+                     (a)  in payment or discharge of the expenses, charges, obligations and liabilities incurred or undertaken by the Institute in the performance of its functions and the exercise of its powers;
 
-<dt>(3)</dt><dd>The Institute may engage as advisers or consultants persons having
+                     (b)  in payment of remuneration and allowances payable under this Act; and
 
-suitable qualifications and experience.</dd> <dt>(4)</dt><dd>The terms and conditions of appointment or employment of members of the staff referred to in paragraph (1)(b) are such as are determined by the Institute.</dd> <dt>(5)</dt><dd>The terms and conditions of engagement of advisers or consultants are such as are determined by the Institute. </dd> </dl>
+                     (c)  in making any other payments required or permitted to be made by the Institute.
 
-<center>**
+                     (3)  Subsection (2) does not prevent investment of surplus money of the Institute under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
 
-###  AUSTRALIAN INSTITUTE OF HEALTH AND WELFARE ACT 1987<part>Part III&#151;Finance </part>
-**</center>
+##### <a id="23"></a>23  Contracts
 
-**
+                   The Institute shall not, except with the written approval of the Minister:
 
-###  AUSTRALIAN INSTITUTE OF HEALTH AND WELFARE ACT 1987- SECT 20  Money to be appropriated by Parliament 
-**
+                     (a)  enter into a contract involving the payment or receipt by the Institute of an amount exceeding $200,000 or such higher amount as is prescribed; or
 
- <dl compact="">
+                     (b)  enter into a lease of land for a period of 10 years or more.
 
-<dt>(1)</dt><dd>There is payable to the Institute such money as is appropriated by the
+##### <a id="24"></a>24  Extra matters to be included in annual report
 
-Parliament for the purposes of the Institute.</dd> <dt>(2)</dt><dd>The Minister for Finance may give directions as to the means in which, and the times at which, money referred to in subsection (1) is to be paid to the Institute. </dd> </dl>
+             (2)  A report on the Institute under section 9 of the _Commonwealth Authorities and Companies Act 1997_ must, in respect of each direction given under subsection 7(1) that is applicable to the period to which the report relates, include:
 
-<center>Back to Top</center>
+                     (a)  particulars of the direction; or
 
-**
+                     (b)  where the Institute considers that the particulars contain information concerning a person or are of a confidential nature—a statement that a direction was given.
 
-###  AUSTRALIAN INSTITUTE OF HEALTH AND WELFARE ACT 1987- SECT 22  Money of Institute 
-**
+##### <a id="25"></a>25  Trust money and trust property
 
- <dl compact="">
+             (1)  The Institute:
 
-<dt>(1)</dt><dd>The money of the Institute consists of:
+                     (a)  shall pay trust money into an account or accounts referred to in subsection 18(2) of the _Commonwealth Authorities and Companies Act 1997_ containing no money other than trust money;
 
-</dd> </dl>
+                     (b)  shall apply or deal with trust money and trust property only in accordance with the powers and duties of the Institute as trustee; and
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (c)  may only invest trust money:
 
-<dt>(a)</dt><dd>money paid to the Institute under section 20; and</dd>
+                              (i)  in any manner in which the Institute is authorised to invest the money by the terms of the trust; or
 
-<dt>(b)</dt><dd>any other money, other than trust money, paid to the Institute.
+                             (ii)  in any manner in which trust money may be lawfully invested.
 
-</dd>
+##### <a id="26"></a>26  Exemption from taxation
 
-</dl></dl></dl>
+                   The income, property and transactions of the Institute are not subject to taxation (including taxation under the _Bank Account Debits Tax Act 1982_) under any law of the Commonwealth or of a State or Territory.
 
-<dl compact="">
+## Part IV—Miscellaneous
 
-<dt>(2)</dt><dd>The money of the Institute shall be applied only:
+##### <a id="27"></a>27  Delegation by Institute
 
-</dd> </dl>
+             (1)  The Institute may, either generally or as otherwise provided by the instrument of delegation, by writing under its common seal:
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (a)  delegate to a member;
 
-<dt>(a)</dt><dd>in payment or discharge of the expenses, charges, obligations and
+                     (b)  delegate to a member of the staff of the Institute; and
 
-liabilities incurred or undertaken by the Institute in the performance of its
+                     (c)  with the approval of the Minister—delegate to any other person or body;
 
-functions and the exercise of its powers;</dd>
+all or any of the Institute’s powers or functions under this Act, other than this power of delegation.
 
-<dt>(b)</dt><dd>in payment of remuneration and allowances payable under this Act; and</dd>
+             (2)  A power or function so delegated, when exercised or performed by the delegate, shall, for the purposes of this Act, be deemed to have been exercised or performed by the Institute.
 
-<dt>(c)</dt><dd>in making any other payments required or permitted to be made by the
+             (3)  A delegation does not prevent the exercise of a power or performance of a function by the Institute.
 
-Institute.</dd>
+##### <a id="28"></a>28  Delegation by Director
 
-<dt>(3)</dt><dd>Subsection (2) does not prevent investment of surplus money of the
+             (1)  The Director may, either generally or as otherwise provided by the instrument of delegation, by instrument in writing:
 
-Institute under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
+                     (a)  delegate to a member;
 
-</dd>
+                     (b)  delegate to a member of the staff of the Institute; or
 
-</dl></dl></dl>
+                     (c)  with the approval of the Minister—delegate to any other person or body;
 
-**
+all or any of the Director’s powers and functions under this Act, other than this power of delegation.
 
-###  AUSTRALIAN INSTITUTE OF HEALTH AND WELFARE ACT 1987- SECT 23  Contracts 
-**
+             (2)  A power or function so delegated, when exercised or performed by the delegate, shall, for the purposes of this Act, be deemed to have been exercised or performed by the Director.
 
- <dl compact="">
+             (3)  A delegation does not prevent the exercise of a power or performance of a function by the Director.
 
-		The Institute shall not, except with the written approval of the Minister:
+##### <a id="29"></a>29  Confidentiality
 
- </dl>
+             (1)  Subject to this section, a person (in this subsection called the **_informed person_**) who has:
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (a)  any information concerning another person (which person is in this section called an **_information subject_**), being information acquired by the informed person because of:
 
-<dt>(a)</dt><dd>enter into a contract involving the payment or receipt by the Institute of
+                              (i)  holding an office, engagement or appointment, or being employed, under this Act;
 
-an amount exceeding $200,000 or such higher amount as is prescribed; or</dd>
+                             (ii)  performing a duty or function, or exercising a power, under or in connection with this Act; or
 
-<dt>(b)</dt><dd>enter into a lease of land for a period of 10 years or more.
+                            (iii)  doing any act or thing under an agreement or arrangement entered into by the Institute; or
 
-</dd>
+                     (b)  any document relating to another person (which person is in this section also called an **_information subject_**), being a document furnished for the purposes of this Act;
 
-</dl></dl></dl>
+shall not, except for the purposes of this Act, either directly or indirectly:
 
-**
+                     (c)  make a record of any of that information or divulge or communicate any of that information to any person (including an information subject);
 
-###  AUSTRALIAN INSTITUTE OF HEALTH AND WELFARE ACT 1987- SECT 24  Extra matters to be included in annual report 
-**
+                     (d)  produce that document to any person (including an information subject); or
 
- <dl compact="">
+                     (e)  be required to divulge or communicate any of that information to a court or to produce that document in a court.
 
-<dt>(2)</dt><dd>A report on the Institute under section 9 of the _Commonwealth Authorities and Companies Act 1997_ must, in respect of each direction given
+                    Penalty:  $2,000 or imprisonment for 12 months, or both.
 
-under subsection 7(1) that is applicable to the period to which the report
+             (2)  Subject to subsections (2A) and (2B), nothing in this section prohibits:
 
-relates, include:
+                     (a)  a person from divulging or communicating information, or producing a document, to the Minister if it does not identify an information subject;
 
-</dd> </dl>
+                     (b)  a person from divulging or communicating information, or producing a document, to a person specified in writing by the person (in this subsection called the **_information provider_**) who divulged or communicated the information, or produced the document, directly to the Institute;
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (c)  a person from divulging or communicating information, or producing a document, to a person specified in writing by the Ethics Committee if to do so is not contrary to the written terms and conditions (if any) upon which the information provider divulged or communicated the information, or produced the document, directly to the Institute; or
 
-<dt>(a)</dt><dd>particulars of the direction; or</dd>
+                     (d)  the publication of conclusions based on statistics derived from, or of particulars of procedures used in, the work of the Institute, if:
 
-<dt>(b)</dt><dd>where the Institute considers that the particulars contain information
+                              (i)  to do so is not contrary to the written terms and conditions (if any) upon which an information provider divulged or communicated information relevant to the publication, or produced a document relevant to the publication, directly to the Institute; and
 
-concerning a person or are of a confidential nature&#151;a statement that a
+                             (ii)  the publication does not identify the information subject.
 
-direction was given.
+          (2A)  Paragraph (2)(c) applies only to information that is health-related or welfare-related information and statistics.
 
-</dd>
+          (2B)  Paragraph (2)(c) applies to a document only to the extent to which the document contains health-related or welfare-related information and statistics.
 
-</dl></dl></dl>
+             (3)  A person to whom information is divulged or communicated, or a document is produced, under paragraph (2)(a), (b) or (c), and any person under the control of that person is, in respect of that information or document, subject to subsection (1) as if the person were a person exercising powers, or performing duties or functions, under this Act and had acquired the information or document in the exercise of those powers or the performance of those duties or functions.
 
-**
+             (4)  In this section:
 
-###  AUSTRALIAN INSTITUTE OF HEALTH AND WELFARE ACT 1987- SECT 25  Trust money and trust property 
-**
+                     (a)  **_court_** includes any tribunal, authority or person having power to require the production of documents or the answering of questions;
 
- <dl compact="">
+                     (b)  **_person_** includes a body or association of persons, whether incorporated or not, and also includes:
 
-<dt>(1)</dt><dd>The Institute:
+                              (i)  in the case of an information provider—a body politic; or
 
-</dd> </dl>
+                             (ii)  in the case of an information subject—a deceased person;
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (c)  **_produce_** includes permit access to;
 
-<dt>(a)</dt><dd>shall pay trust money into an account or accounts referred to in
+                     (d)  **_publication_**, in relation to conclusions, statistics or particulars, includes:
 
-subsection 18(2) of the _Commonwealth Authorities and Companies Act 1997_
+                              (i)  the divulging or communication to a court of the conclusions, statistics or particulars; and
 
-containing no money other than trust money;</dd>
+                             (ii)  the production to a court of a document containing the conclusions, statistics or particulars; and
 
-<dt>(b)</dt><dd>shall apply or deal with trust money and trust property only in accordance
+                     (e)  a reference to information concerning a person includes:
 
-with the powers and duties of the Institute as trustee; and</dd>
+                              (i)  a reference to information as to the whereabouts, existence or non-existence of a document concerning a person; and
 
-<dt>(c)</dt><dd>may only invest trust money:
+                             (ii)  a reference to information identifying a person or body providing information concerning a person.
 
-</dd>
+##### <a id="30"></a>30  Restricted application of the _Epidemiological Studies (Confidentiality) Act 1981_
 
-</dl></dl></dl>
+             (1)  The _Epidemiological Studies (Confidentiality) Act 1981_(in this section called the **_Confidentiality Act_**) does not apply to anything done in the exercise of a power or performance of a function under this Act.
 
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+             (2)  Notwithstanding the Confidentiality Act, a person who has assisted, or is assisting in, the conduct of a prescribed study or an epidemiological study may, at the written request of the Institute:
 
-<dt>(i)</dt><dd>in any manner in which the Institute is authorised to invest the money by
+                     (a)  communicate to the Institute any information acquired by the person because of having assisted, or assisting, in the conduct of that study; and
 
-the terms of the trust; or</dd>
+                     (b)  give the Institute access to documents prepared or obtained in the conduct of that study.
 
-<dt>(ii)</dt><dd>in any manner in which trust money may be lawfully invested.
+             (3)  It is a defence to a prosecution under the Confidentiality Act if it is established that the information was communicated or access to a document was given, as the case may be, in accordance with a written request by the Institute.
 
-</dd>
+             (4)  In this section:
 
-</dl></dl></dl></dl>
+                     (a)  **_epidemiological study_** has the same meaning as in the Confidentiality Act; and
 
-**
+                     (b)  **_prescribed study_** has the same meaning as in the Confidentiality Act.
 
-###  AUSTRALIAN INSTITUTE OF HEALTH AND WELFARE ACT 1987- SECT 26  Exemption from taxation 
-**
+##### <a id="31"></a>31  Periodical reports
 
- <dl compact="">
+             (1)  The Institute shall prepare and, as soon as practicable, and in any event within 6 months:
 
-		The income, property and transactions of the Institute are not subject to
+                     (a)  after 31 December 1987—shall submit to the Minister a health report for the period commencing on the commencement of this Act and ending on that date; and
 
-taxation (including taxation under the _Bank Account Debits Tax Act 1982_)
+                     (b)  after 31 December 1989 and every second 31 December thereafter—shall submit to the Minister a health report for the 2 year period ending on that 31 December.
 
-under any law of the Commonwealth or of a State or Territory.
+          (1A)  The Institute must submit to the Minister:
 
- </dl>
+                     (a)  as soon as practicable after (and in any event within 6 months of) 30 June 1993, a welfare report prepared by the Institute for the period:
 
-<center>Back to Top</center>
+                              (i)  beginning on the day on which the _Australian Institute of Health Amendment Act 1992_ commences; and
 
-<center>**
+                             (ii)  ending on 30 June 1993; and
 
-###  AUSTRALIAN INSTITUTE OF HEALTH AND WELFARE ACT 1987<part>Part IV&#151;Miscellaneous </part>
-**</center>
+                     (b)  as soon as practicable after (and in any event within 6 months of) 30 June 1995 and every second 30 June thereafter, a welfare report for the 2 year period ending on that 30 June.
 
-**
+             (2)  The Institute may at any time submit to the Minister:
 
-###  AUSTRALIAN INSTITUTE OF HEALTH AND WELFARE ACT 1987- SECT 27  Delegation by Institute 
-**
+                     (a)  a health or welfare report for any period; or
 
- <dl compact="">
+                     (b)  a report in respect of any matter relating to the exercise of the powers, or the performance of the functions, of the Institute or its committees under this Act.
 
-<dt>(1)</dt><dd>The Institute may, either generally or as otherwise provided by the
+             (3)  A health report shall provide:
 
-instrument of delegation, by writing under its common seal:
+                     (a)  statistics and related information concerning the health of the people of Australia; and
 
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>delegate to a member;</dd>
-
-<dt>(b)</dt><dd>delegate to a member of the staff of the Institute; and</dd>
-
-<dt>(c)</dt><dd>with the approval of the Minister&#151;delegate to any other person or body;
-
-</dd>
-
-</dl></dl></dl>
-
-all or any of the Institute's powers or functions under this Act, other than this power of delegation.
-
-<dl compact="">
-
-<dt>(2)</dt><dd>A power or function so delegated, when exercised or performed by the
-
-delegate, shall, for the purposes of this Act, be deemed to have been exercised
-
-or performed by the Institute.</dd> <dt>(3)</dt><dd>A delegation does not prevent the exercise of a power or performance of a function by the Institute. </dd> </dl>
-
-**
-
-###  AUSTRALIAN INSTITUTE OF HEALTH AND WELFARE ACT 1987- SECT 28  Delegation by Director 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>The Director may, either generally or as otherwise provided by the
-
-instrument of delegation, by instrument in writing:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>delegate to a member;</dd>
-
-<dt>(b)</dt><dd>delegate to a member of the staff of the Institute; or</dd>
-
-<dt>(c)</dt><dd>with the approval of the Minister&#151;delegate to any other person or body;
-
-</dd>
-
-</dl></dl></dl>
-
-all or any of the Director's powers and functions under this Act, other than this power of delegation.
-
-<dl compact="">
-
-<dt>(2)</dt><dd>A power or function so delegated, when exercised or performed by the
-
-delegate, shall, for the purposes of this Act, be deemed to have been exercised
-
-or performed by the Director.</dd> <dt>(3)</dt><dd>A delegation does not prevent the exercise of a power or performance of a function by the Director. </dd> </dl>
-
-**
-
-###  AUSTRALIAN INSTITUTE OF HEALTH AND WELFARE ACT 1987- SECT 29  Confidentiality 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>Subject to this section, a person (in this subsection called the
-
-_informed person_) who has:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>any information concerning another person (which person is in this section
-
-called an _information subject_), being information acquired by the
-
-informed person because of:
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
-
-<dt>(i)</dt><dd>holding an office, engagement or appointment, or being employed, under
-
-this Act;</dd>
-
-<dt>(ii)</dt><dd>performing a duty or function, or exercising a power, under or in
-
-connection with this Act; or</dd>
-
-<dt>(iii)</dt><dd>doing any act or thing under an agreement or arrangement entered into by
-
-the Institute; or
-
-</dd>
-
-</dl></dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(b)</dt><dd>any document relating to another person (which person is in this section
-
-also called an _information subject_), being a document furnished
-
-for the purposes of this Act;
-
-</dd>
-
-</dl></dl></dl>
-
-shall not, except for the purposes of this Act, either directly or 
-<center>Back to Top</center>
- indirectly:
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(c)</dt><dd>make a record of any of that information or divulge or communicate any of
-
-that information to any person (including an information subject);</dd>
-
-<dt>(d)</dt><dd>produce that document to any person (including an information subject);
-
-or</dd>
-
-<dt>(e)</dt><dd>be required to divulge or communicate any of that information to a court
-
-or to produce that document in a court.
-
-</dd>
-
-</dl></dl></dl>
-
-Penalty:	$2,000 or imprisonment for 12 months, or both.
-
-<dl compact="">
-
-<dt>(2)</dt><dd>Subject to subsections (2A) and (2B), nothing in this section prohibits:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>a person from divulging or communicating information, or producing a
-
-document, to the Minister if it does not identify an information subject;</dd>
-
-<dt>(b)</dt><dd>a person from divulging or communicating information, or producing a
-
-document, to a person specified in writing by the person (in this subsection
-
-called the _information provider_) who divulged or communicated the
-
-information, or produced the document, directly to the Institute;</dd>
-
-<dt>(c)</dt><dd>a person from divulging or communicating information, or producing a
-
-document, to a person specified in writing by the Ethics Committee if to do so
-
-is not contrary to the written terms and conditions (if any) upon which the
-
-information provider divulged or communicated the information, or produced the
-
-document, directly to the Institute; or</dd>
-
-<dt>(d)</dt><dd>the publication of conclusions based on statistics derived from, or of
-
-particulars of procedures used in, the work of the Institute, if:
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
-
-<dt>(i)</dt><dd>to do so is not contrary to the written terms and conditions (if any) upon
-
-which an information provider divulged or communicated information relevant to
-
-the publication, or produced a document relevant to the publication, directly
-
-to the Institute; and</dd>
-
-<dt>(ii)</dt><dd>the publication does not identify the information subject.
-
-</dd>
-
-</dl></dl></dl></dl>
-
-<dl compact="">
-
-<dt>(2A)</dt><dd>Paragraph (2)(c) applies only to information that is health-related or
-
-welfare-related information and statistics.</dd> <dt>(2B)</dt><dd>Paragraph (2)(c) applies to a document only to the extent to which the document contains health-related or welfare-related information and statistics.</dd> <dt>(3)</dt><dd>A person to whom information is divulged or communicated, or a document is produced, under paragraph (2)(a), (b) or (c), and any person under the control of that person is, in respect of that information or document, subject to subsection (1) as if the person were a person exercising powers, or performing duties or functions, under this Act and had acquired the information or document in the exercise of those powers or the performance of those duties or functions.</dd> <dt>(4)</dt><dd>In this section: </dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>_court_ includes any tribunal, authority or person having
-
-power to require the production of documents or the answering of questions;</dd>
-
-<dt>(b)</dt><dd>_person_ includes a body or association of persons, whether
-
-incorporated or not, and also includes:
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
-
-<dt>(i)</dt><dd>in the case of an information provider&#151;a body politic; or</dd>
-
-<dt>(ii)</dt><dd>in the case of an information subject&#151;a deceased person;
-
-</dd>
-
-</dl></dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(c)</dt><dd>_produce_ includes permit access to;</dd>
-
-<dt>(d)</dt><dd>_publication_, in relation to conclusions, statistics or
-
-particulars, includes:
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
-
-<dt>(i)</dt><dd>the divulging or communication to a court of the conclusions, statistics
-
-or particulars; and</dd>
-
-<dt>(ii)</dt><dd>the production to a court of a document containing the conclusions,
-
-statistics or particulars; and
-
-</dd>
-
-</dl></dl></dl></dl>
-
-<center>Back to Top</center>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(e)</dt><dd>a reference to information concerning a person includes:
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
-
-<dt>(i)</dt><dd>a reference to information as to the whereabouts, existence or
-
-non-existence of a document concerning a person; and</dd>
-
-<dt>(ii)</dt><dd>a reference to information identifying a person or body providing
-
-information concerning a person.
-
-</dd>
-
-</dl></dl></dl></dl>
-
-**
-
-###  AUSTRALIAN INSTITUTE OF HEALTH AND WELFARE ACT 1987- SECT 30  Restricted application of the _Epidemiological Studies (Confidentiality) Act 1981_ 
-**
-
-<dl compact="">
-
-<dt>(1)</dt><dd>The _Epidemiological Studies (Confidentiality) Act 1981_(in this
-
-section called the _Confidentiality Act_) does not apply to
-
-anything done in the exercise of a power or performance of a function under
-
-this Act.</dd> <dt>(2)</dt><dd>Notwithstanding the Confidentiality Act, a person who has assisted, or is assisting in, the conduct of a prescribed study or an epidemiological study may, at the written request of the Institute: </dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>communicate to the Institute any information acquired by the person
-
-because of having assisted, or assisting, in the conduct of that study; and</dd>
-
-<dt>(b)</dt><dd>give the Institute access to documents prepared or obtained in the conduct
-
-of that study.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact="">
-
-<dt>(3)</dt><dd>It is a defence to a prosecution under the Confidentiality Act if it is
-
-established that the information was communicated or access to a document was
-
-given, as the case may be, in accordance with a written request by the
-
-Institute.</dd> <dt>(4)</dt><dd>In this section: </dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>_epidemiological study_ has the same meaning as in the
-
-Confidentiality Act; and</dd>
-
-<dt>(b)</dt><dd>_prescribed study_ has the same meaning as in the
-
-Confidentiality Act.
-
-</dd>
-
-</dl></dl></dl>
-
-**
-
-###  AUSTRALIAN INSTITUTE OF HEALTH AND WELFARE ACT 1987- SECT 31  Periodical reports 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>The Institute shall prepare and, as soon as practicable, and in any event
-
-within 6 months:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>after 31 December 1987&#151;shall submit to the Minister a health report for
-
-the period commencing on the commencement of this Act and ending on that date;
-
-and</dd>
-
-<dt>(b)</dt><dd>after 31 December 1989 and every second 31 December thereafter&#151;shall
-
-submit to the Minister a health report for the 2 year period ending on that 31
-
-December.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact="">
-
-<dt>(1A)</dt><dd>The Institute must submit to the Minister:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>as soon as practicable after (and in any event within 6 months of) 30 June
-
-1993, a welfare report prepared by the Institute for the period:
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
-
-<dt>(i)</dt><dd>beginning on the day on which the _Australian Institute of Health Amendment Act 1992_ commences; and</dd>
-
-<dt>(ii)</dt><dd>ending on 30 June 1993; and
-
-</dd>
-
-</dl></dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(b)</dt><dd>as soon as practicable after (and in any event within 6 months of) 30 June
-
-1995 and every second 30 June thereafter, a welfare report for the 2 year
-
-period ending on that 30 June.
-
-</dd>
-
-</dl></dl></dl>
-
-<center>Back to Top</center>
-
-<dl compact="">
-
-<dt>(2)</dt><dd>The Institute may at any time submit to the Minister:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>a health or welfare report for any period; or</dd>
-
-<dt>(b)</dt><dd>a report in respect of any matter relating to the exercise of the powers,
-
-or the performance of the functions, of the Institute or its committees under
-
-this Act.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact="">
-
-<dt>(3)</dt><dd>A health report shall provide:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>statistics and related information concerning the health of the people of
-
-Australia; and</dd>
-
-<dt>(b)</dt><dd>an outline of the development of health-related information and statistics
-
-by the Institute, whether by itself or in association with other persons or
-
-bodies;
-
-</dd>
-
-</dl></dl></dl>
+                     (b)  an outline of the development of health-related information and statistics by the Institute, whether by itself or in association with other persons or bodies;
 
 during the period to which the report relates.
 
-<dl compact="">
+          (3A)  A welfare report must provide:
 
-<dt>(3A)</dt><dd>A welfare report must provide:
+                     (a)  statistics and related information concerning the provision of welfare services to the Australian people; and
 
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>statistics and related information concerning the provision of welfare
-
-services to the Australian people; and</dd>
-
-<dt>(b)</dt><dd>an outline of the development of welfare-related information and
-
-statistics by the Institute, whether by itself or in association with other
-
-persons or bodies;
-
-</dd>
-
-</dl></dl></dl>
+                     (b)  an outline of the development of welfare-related information and statistics by the Institute, whether by itself or in association with other persons or bodies;
 
 during the period to which the report relates.
 
-<dl compact="">
+             (4)  The Minister shall cause a copy of a report submitted under subsection (1) or (1A) to be laid before each House of the Parliament within 15 sitting days of that House after the day on which the Minister receives the report.
 
-<dt>(4)</dt><dd>The Minister shall cause a copy of a report submitted under subsection (1)
+             (5)  The Minister may cause a copy of a report submitted under subsection (2) to be laid before each House of the Parliament.
 
-or (1A) to be laid before each House of the Parliament within 15 sitting days
+##### <a id="32"></a>32  Regulations
 
-of that House after the day on which the Minister receives the report.</dd> <dt>(5)</dt><dd>The Minister may cause a copy of a report submitted under subsection (2) to be laid before each House of the Parliament. </dd> </dl>
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing matters required or permitted by this Act to be prescribed 
 
-**
+# Notes to the _Australian Institute of Health and Welfare Act 1987_
 
-###  AUSTRALIAN INSTITUTE OF HEALTH AND WELFARE ACT 1987- SECT 32  Regulations 
-**
-
- <dl compact="">
-
-		The Governor-General may make regulations, not inconsistent with this Act,
-
-prescribing matters required or permitted by this Act to be prescribed
-
- </dl>
-
-<center>**
-
-###  AUSTRALIAN INSTITUTE OF HEALTH AND WELFARE ACT 1987<centreit>Notes to the _Australian Institute of Health and Welfare Act 1987_ </centreit>
-**</center>
-
-**Note 1**
+### Note 1
 
 The _Australian Institute of Health and Welfare Act 1987_ as shown in this compilation comprises Act No. 41, 1987 amended as indicated in the Tables below. 
- All relevant information pertaining to application, saving or transitional provisions prior to 28 June 2001 is not included in this compilation. For subsequent information _see_ Table A.
 
-**Table of Acts**
+All relevant information pertaining to application, saving or transitional provisions prior to 28 June 2001 is not included in this compilation. For subsequent information _see_ Table A.
 
-<table><tr align="left">
-  <td colspan="1" align="left">
+### Table of Acts
+
+<table>
+<colgroup>
+  <col width="30%">
+  <col width="16%">
+  <col width="18%">
+  <col width="22%">
+  <col width="14%">
+</colgroup>
+
+<tr>
+  <td>
     <div>Act</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>Number 
 and year</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>Date 
 of Assent</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>Date of commencement</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>Application, saving or transitional provisions</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Australian Institute of Health Act 1987</i></div>
-
+<tr>
+  <td>
+    <div>Australian Institute of Health Act 1987</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>41, 1987</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>5 June 1987</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>1 July 1987 ( <i>see Gazette</i>1987, No. S144)</div>
-
   </td>
-  <td colspan="1" align="left">
-
+  <td>
+    <div></div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Community Services and Health Legislation Amendment Act 1988</i></div>
-
+<tr>
+  <td>
+    <div>Community Services and Health Legislation Amendment Act 1988</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>79, 1988</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>24 June 1988</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>Part III (ss. 7-9): Royal Assent <i>(a)</i></div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
+  <td>
+    <div>—</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Community Services and Health Legislation Amendment Act 1989</i></div>
-
+<tr>
+  <td>
+    <div>Community Services and Health Legislation Amendment Act 1989</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>95, 1989</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>28 June 1989</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>Part 2 (ss. 3-6): Royal Assent <i>(b)</i></div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
+  <td>
+    <div>—</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Industrial Relations Legislation Amendment Act 1991</i></div>
-
+<tr>
+  <td>
+    <div>Industrial Relations Legislation Amendment Act 1991</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>122, 1991</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>27 June 1991</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>Ss. 4(1), 10(b) and 15-20: 1 Dec 1988 
 Ss. 28(b)-(e), 30 and 31: 10 Dec 1991 ( <i>see Gazette</i>1991, No. S332) 
 Remainder: Royal Assent</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>S. 31(2)</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Prime Minister and Cabinet Legislation Amendment Act 1991</i></div>
-
+<tr>
+  <td>
+    <div>Prime Minister and Cabinet Legislation Amendment Act 1991</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>199, 1991</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>18 Dec 1991</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>18 Dec 1991</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
+  <td>
+    <div>—</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Australian Institute of Health Amendment Act 1992</i></div>
-
+<tr>
+  <td>
+    <div>Australian Institute of Health Amendment Act 1992</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>16, 1992</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>6 Apr 1992</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>4 May 1992</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
+  <td>
+    <div>—</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Audit (Transitional and Miscellaneous) Amendment Act 1997</i></div>
-
+<tr>
+  <td>
+    <div>Audit (Transitional and Miscellaneous) Amendment Act 1997</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>152, 1997</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>24 Oct 1997</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>Schedule 2 (items 324-337): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(c)</i></div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
+  <td>
+    <div>—</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Public Employment (Consequential and Transitional) Amendment Act 1999</i></div>
-
+<tr>
+  <td>
+    <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>146, 1999</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>11 Nov 1999</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>Schedule 1 (items 195-197) 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(d)</i></div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
+  <td>
+    <div>—</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Corporate Law Economic Reform Program Act 1999</i></div>
-
+<tr>
+  <td>
+    <div>Corporate Law Economic Reform Program Act 1999</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>156, 1999</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>24 Nov 1999</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>Schedule 10 (items 35-37): 13 Mar 2000 ( <i>see</i> <i>Gazette</i>2000,No.&#160;S114) <i>(e)</i></div>
-
+  <td>
+    <div>Schedule 10 (items 35-37): 13 Mar 2000 ( <i>see</i> <i>Gazette</i>2000,No. S114) <i>(e)</i></div>
   </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
+  <td>
+    <div>—</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Health Legislation Amendment Act (No. 2) 2001</i></div>
-
+<tr>
+  <td>
+    <div>Health Legislation Amendment Act (No. 2) 2001</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>59, 2001</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>28 June 2001</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>Schedule 3 (items 7-10): 15 Dec 1998 ( <i>see</i>s. 2(2)) 
 Schedule 3 (item 12): 1 Jan 1999 
 Remainder: Royal Assent</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>Sch. 1 (items 4, 9) \[ <i>see</i>Table A]</div>
-
   </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001</i></div>
+</tr></table>
 
-  </td>
-  <td colspan="1" align="left">
-    <div>159, 2001</div>
+_(a)_     The _Australian Institute of Health and Welfare Act 1987_ was amended by Part III (sections 7-9) only of the _Community Services and Health Legislation Amendment Act 1988_, subsection 2(1) of which provides as follows:
 
-  </td>
-  <td colspan="1" align="left">
-    <div>1 Oct 2001</div>
+                  (1)   Sections 1, 2, 7, 8, 9, 10, 13, 15 and 17 and paragraph 20(b) commence on the day on which this Act receives the Royal Assent.
 
-  </td>
-  <td colspan="1" align="left">
-    <div>29 Oct 2001</div>
+_(b)_    The _Australian Institute of Health and Welfare Act 1987_ was amended by Part 2 (sections 3-6) only of the _Community Services and Health Legislation Amendment Act 1989_, subsection 2(1) of which provides as follows:
 
-  </td>
-  <td colspan="1" align="left">
-    <div>Sch 1 (item 97) \[ <i>see</i>Table A]</div>
+                  (1)   Subject to subsections (2), (3), (4), (5), (6), (7), (8), (9) and (10), this Act commences on the day on which it receives the Royal Assent.
 
-  </td>
-</tr></table>_(a)_ 
-<center>Back to Top</center>
- The _Australian Institute of Health and Welfare Act 1987_ was amended by Part III (sections 7-9) only of the _Community Services and Health Legislation Amendment Act 1988_, subsection 2(1) of which provides as follows:
+_(c)_     The _Australian Institute of Health and Welfare Act 1987_ was amended by Schedule 2 (items 324-337) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
 
-	(1)	Sections 1, 2, 7, 8, 9, 10, 13, 15 and 17 and paragraph 20(b) commence on the day on which this Act receives the Royal Assent.
+                  (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
 
-_(b)_	The _Australian Institute of Health and Welfare Act 1987_ was amended by Part 2 (sections 3-6) only of the _Community Services and Health Legislation Amendment Act 1989_, subsection 2(1) of which provides as follows:
+_(d)_     The _Australian Institute of Health and Welfare Act 1987_ was amended by Schedule 1 (items 195-197) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
 
-	(1)	Subject to subsections (2), (3), (4), (5), (6), (7), (8), (9) and (10), this Act commences on the day on which it receives the Royal Assent.
+                  (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
 
-_(c)_	The _Australian Institute of Health and Welfare Act 1987_ was amended by Schedule 2 (items 324-337) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
+                  (2)   Subject to this section, this Act commences at the commencing time.
 
-	(2)	Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
+_(e)_     The _Australian Institute of Health and Welfare Act 1987_ was amended by Schedule 10 (items 35-37) only of the _Corporate Law Economic Reform Program Act 1999_, subsection 2(2)(c) of which provides as follows:
 
-_(d)_	The _Australian Institute of Health and Welfare Act 1987_ was amended by Schedule 1 (items 195-197) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+                  (2)   The following provisions commence on a day or days to be fixed by Proclamation:
 
-	(1)	In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
- 	(2)	Subject to this section, this Act commences at the commencing time.
+                             (c)   the items in Schedules 10, 11 and 12.
 
-_(e)_	The _Australian Institute of Health and Welfare Act 1987_ was amended by Schedule 10 (items 35-37) only of the _Corporate Law Economic Reform Program Act 1999_, subsection 2(2)(c) of which provides as follows:
+## Table of Amendments
 
-	(2)	The following provisions commence on a day or days to be fixed by Proclamation:
+<table>
+<colgroup>
+  <col width="34%">
+  <col width="66%">
+</colgroup>
 
-	(c)	the items in Schedules 10, 11 and 12.
-
-**Table of Amendments**
-
-<table><tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td colspan="2">
     <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>Provision affected</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>How affected</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>Title</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>am. No. 16, 1992</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 1</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>am. No. 16, 1992</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 3</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>am. No. 95, 1989; No. 16, 1992; No. 152, 1997; No. 59, 2001</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>Note to s. 3</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>ad. No. 152, 1997</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>Heading to Part II</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>am. No. 16, 1992</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 4</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>am. No. 16, 1992; No. 152, 1997</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 5</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>am. No. 16, 1992</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 7</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>am. No. 95, 1989; No. 16, 1992; No. 152, 1997</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 8</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>am. No. 16, 1992; Nos. 59 and 159, 2001</div>
-
+  <td>
+    <div>am. No. 16, 1992; No. 59, 2001</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 10</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>am. No. 16, 1992</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 11</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>rs. No. 122, 1991</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
+<tr>
+  <td>
+    <div></div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>am. No. 146, 1999</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 13</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>am. No. 122, 1991; No. 16, 1992; No. 152, 1997; No. 156, 1999</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 14</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>am. No. 79, 1988; No. 16, 1992; No. 152, 1997; No. 156, 1999</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 16</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>am. No. 16, 1992; No. 152, 1997; No. 59, 2001</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 17</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>am. No. 16, 1992</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 19</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>am. No. 199, 1991; No. 146, 1999</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 21</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>rep. No. 152, 1997</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 22</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>am. No. 152, 1997</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>Heading to s. 24</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>rs. No. 152, 1997</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 24</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>am. No. 79, 1988; No. 152, 1997</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 25</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>am. No. 152, 1997</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 29</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>am. No. 95, 1989; No. 16, 1992; No. 59, 2001</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 31</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>am. No. 16, 1992</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>Schedule</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>ad. No. 16, 1992</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
+<tr>
+  <td>
+    <div></div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>rep. No. 59, 2001</div>
-
   </td>
-</tr></table>**Table A**
+</tr></table>
 
-**Application, saving or transitional provisions**
+Table A
 
-_Health Legislation Amendment Act (No. 2) 2001_(No. 59, 2001)
+### Application, saving or transitional provisions
 
-**Schedule 1** **4  Application** The amendments made by this Part apply to appointments made after the commencement of this Part.
+_Health Legislation Amendment Act (No. 2) 2001 (No. 59, 2001)_
 
-**9  Transitional provision**
+## Schedule 1
 
-(1)	Immediately after the commencement of this item, the Institute is taken to have appointed each member of the former Ethics Committee as a member of the Australian Institute of Health and Welfare Ethics Committee.
- (2)	The appointment of each such member is taken to end at the time when the member's term of appointment as a member of the former Ethics Committee would have ended under the instrument appointing the person as a member of that Committee.
- (3)	In this item:
+## 4  Application
+
+The amendments made by this Part apply to appointments made after the commencement of this Part.
+
+## 9  Transitional provision
+
+(1)        Immediately after the commencement of this item, the Institute is taken to have appointed each member of the former Ethics Committee as a member of the Australian Institute of Health and Welfare Ethics Committee.
+
+(2)        The appointment of each such member is taken to end at the time when the member’s term of appointment as a member of the former Ethics Committee would have ended under the instrument appointing the person as a member of that Committee.
+
+(3)        In this item:
 
 **_former Ethics Committee_** means the Health Ethics Committee of the Australian Institute of Health and Welfare, within the meaning of the _Australian Institute of Health and Welfare Act 1987_ as in force immediately before the commencement of this item.
 
-_Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001_(No.&#160;159, 2001)
-
-**Schedule 1** **97  Application of amendments** The amendments made by this Schedule do not apply to an appointment if the term of the appointment began before the commencement of this item.
-
-</def></def>
-
-</def>
-
-
+ 
