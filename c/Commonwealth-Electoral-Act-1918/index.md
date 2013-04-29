@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00511/Html/CwlthElectoral1918_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00273/Html/CwlthElectoral1918_WD02_image001.gif)
 
 # Commonwealth Electoral Act 1918
 
 **Act No. 27 of 1918 as amended**
 
-This compilation was prepared on 23 July 2010
- taking into account amendments up to Act No. 110 of 2010
+This compilation was prepared on 4 March 2010
+ taking into account amendments up to Act No. 8 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -121,6 +121,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
     **Division 5—Miscellaneous**
 
 [36](#36).          Candidates not to be officers
+
+[37](#37).          Keeping of forms
 
 [38](#38).          Offices of Divisional Returning Officers
 
@@ -250,6 +252,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [88](#88).          Objections and notices to have effect in relation to new Rolls
 
+[89](#89).          Printing of Rolls
+
 [90](#90).          Commission to determine manner and form of access to Rolls etc 
 
 [90A](#90A).       Inspection etc  of Rolls
@@ -284,11 +288,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [96A](#96A).       Enrolment of prisoners
 
-[97](#97).          Application of Part to Australian Capital Territory and Northern Territory
+[97](#97).          Application of Part
 
 **Part VIII—Enrolment**
 
-[98AA](#98AA).    Evidence of identity requirements
+[98AA](#98AA).    Regulations
 
 [98](#98).          Addition of names to Rolls
 
@@ -300,7 +304,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [99B](#99B).       Provisional enrolment by applicant for citizenship
 
-[100](#100).        Claims for age 16 enrolment
+[100](#100).        Claims for age 17 enrolment
 
 [101](#101).        Compulsory enrolment and transfer
 
@@ -320,11 +324,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [109](#109).        Lists of convictions to be forwarded
 
-[110](#110).        Electoral Commissioner to act on receipt of information
+[110](#110).        Officers to act on receipt of information
 
 [111](#111).        Computer records relating to Roll
 
-[112](#112).        Application of Part to Australian Capital Territory and Northern Territory
+[111A](#111A).     Claims may be sent by fax
+
+[112](#112).        Application of Part
 
 **Part IX—Objections**
 
@@ -336,15 +342,17 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [116](#116).        Notice of objection
 
+[117](#117).        Answer to objection
+
 [118](#118).        Determination of objection
 
 **Part X—Review of decisions**
 
-[120](#120).        Internal review [_see_ Note 8]
+[120](#120).        Review by Australian Electoral Officer
 
 [121](#121).        Review by Administrative Appeals Tribunal
 
-[122](#122).        Application of Part to Australian Capital Territory and Northern Territory
+[122](#122).        Application of Part
 
 **Part XI—Registration of political parties**
 
@@ -366,7 +374,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [132](#132).        Procedure for dealing with application
 
-[132A](#132A).     Electoral Commission to give reasons for decisions under this Part
+[132A](#132A).     Commission to give reasons for decisions under this Part
 
 [133](#133).        Registration
 
@@ -516,13 +524,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [200](#200).        Mistakes
 
-**Part XVA—Pre-poll voting** 
-
-    **Division 1—Introduction**
-
-[200AA](#200AA).  Guide to this Part
-
-    **Division 2—General matters**
+**Part XVA—Pre-poll voting**
 
 [200A](#200A).     Grounds of application for pre-poll vote
 
@@ -538,53 +540,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [200DB](#200DB).  Provisions relating to scrutineers at pre-poll voting office
 
-    **Division 3—Voting by pre-poll ordinary vote** 
+[200E](#200E).      Pre-poll voting
 
-        **Subdivision A—Preliminary**
-
-[200DC](#200DC).  Definitions
-
-[200DD](#200DD).  Where is pre-poll ordinary voting available?
-
-[200DE](#200DE).   Separate voting compartments
-
-[200DF](#200DF).   Ballot-boxes
-
-        **Subdivision B—Voting by pre-poll ordinary vote**
-
-[200DG](#200DG).  When is a person entitled to vote by pre-poll ordinary vote?
-
-[200DH](#200DH).  Voter to complete and sign pre-poll vote certificate for ordinary voting
-
-[200DI](#200DI).    Questions to be put to voter
-
-[200DJ](#200DJ).   Right of voter to receive ballot paper
-
-[200DK](#200DK).  Voter to mark vote on ballot paper
-
-[200DL](#200DL).   Assistance to certain voters
-
-[200DM](#200DM). Voter not entitled to vote again etc 
-
-        **Subdivision C—Requirements relating to ballot-boxes**
-
-[200DN](#200DN).  Subdivision sets out requirements to be complied with
-
-[200DO](#200DO).  Requirements to be complied with before first use of ballot-box
-
-[200DP](#200DP).   Requirements to be complied with at end of each day of use of ballot-box
-
-[200DQ](#200DQ).  Requirements to be complied with before ballot-box used again on later day
-
-[200DR](#200DR).  Forwarding of ballot-boxes for purposes of scrutiny
-
-    **Division 4—Voting by pre-poll declaration vote**
-
-[200DS](#200DS).   Persons to whom this Division applies
-
-[200E](#200E).      Pre-poll declaration voting
-
-[200F](#200F).      Form of pre-poll vote certificate for declaration voting
+[200F](#200F).      Form of pre-poll vote certificate
 
 [200G](#200G).     Record of issue of pre-poll voting papers
 
@@ -596,7 +554,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [202](#202).        Mistakes
 
-**Part XVB—Electronically assisted voting for sight-impaired people**
+**Part XVB—Trials of electronic voting methods** 
+
+    **Division 1—Trial of electronically assisted voting for sight-impaired people**
 
 [202AA](#202AA).  Definitions
 
@@ -604,11 +564,27 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [202AC](#202AC).  There must be a record of who has voted using the electronically assisted voting method
 
-[202AD](#202AD).  There must be a record of the vote
+[202AD](#202AD).  There must be a printed record of the vote
 
 [202AE](#202AE).   How this Act applies in relation to voting using the electronically assisted voting method
 
-[202AF](#202AF).   Electoral Commissioner may decide that electronically assisted voting method is not to be used
+[202AF](#202AF).   Minister may decide that electronically assisted voting trial is not to proceed
+
+    **Division 2—Trial of remote electronic voting for defence personnel serving outside Australia**
+
+[202AG](#202AG).  Definitions
+
+[202AH](#202AH).  Regulations may provide for remote electronic voting by defence personnel serving outside Australia
+
+[202AI](#202AI).    Regulations must provide for registration of remote electronic voters
+
+[202AJ](#202AJ).   There must be a record of who has voted using the remote electronic voting method
+
+[202AK](#202AK).  Transmission of electronic votes to the Electoral Commission and scrutiny of votes
+
+[202AL](#202AL).   How this Act applies in relation to voting using the remote electronic voting method
+
+[202AM](#202AM). Minister may decide that remote electronic voting trial is not to proceed
 
 **Part XVI—The polling**
 
@@ -625,8 +601,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [207](#207).        Ballot-boxes
 
 [208](#208).        Certified lists of voters [_see_ Note 7]
-
-[208A](#208A).     Approved list of voters
 
 [209](#209).        Ballot papers
 
@@ -664,11 +638,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [223](#223).        Interpretation
 
-[224](#224).        Hospitals that are polling places
+[224](#224).        Mobile booths—hospitals that are polling places
 
-[226](#226).        Provisions related to section 224
+[225](#225).        Mobile booths—other hospitals
 
-[227](#227).        Mobile booths
+[226](#226).        Provisions related to sections 224 and 225
+
+[226A](#226A).     Mobile booths—prisons
+
+[227](#227).        Mobile booths—Remote Divisions
 
 [228](#228).        Forwarding of declaration votes
 
@@ -944,8 +922,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [328A](#328A).     Publication of electoral advertisements on the internet
 
-[328B](#328B).     Requirements relating to how-to-vote cards
-
 [329](#329).        Misleading or deceptive publications etc 
 
 [330](#330).        False statements in relation to Rolls
@@ -1062,8 +1038,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [381A](#381A).     Extension of time for acts by officers
 
-[382](#382).        General provisions about enrolment-related claims etc 
-
 [383](#383).        Injunctions
 
 [384](#384).        Prosecution of offences
@@ -1140,19 +1114,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="antarct-elector"></a>**_Antarctic elector_** means an elector who is entitled under Part XVII to be treated as an Antarctic elector.
 
-                    <a name="approved-form"></a>**_approved form_** means a form that:
-
-                     (a)  is approved by the Electoral Commissioner in writing; and
-
-                     (b)  has been published by the Electoral Commissioner.
-
-Example:    An approved form might have been published by the Electoral Commissioner on the Electoral Commission’s website.
-
-                    <a name="approved-list"></a>**_approved list_** of voters for a Division means a list in electronic form that:
-
-                     (a)  contains the same information as the certified list of voters for the Division most recently prepared before the preparation of the list in electronic form; and
-
-                     (b)  is approved by the Electoral Commissioner for use in connection with voting under this Act.
+                    <a name="approved"></a>**_Approved_** means approved by the Electoral Commission by notice published in the _Gazette_.
 
                     <a name="australia"></a>**_Australia_** includes:
 
@@ -1180,13 +1142,7 @@ Example:    An approved form might have been published by the Electoral Co
 
                      (c)  a child of the person within the meaning of the _Family Law Act 1975_.
 
-                    <a name="compart"></a>**_compartment_** means:
-
-                     (a)  in relation to a polling booth—a compartment constructed in the polling booth pursuant to section 206; and
-
-                     (b)  in relation to a place at which pre-poll ordinary voting is available—a compartment constructed in the place pursuant to section 200DE.
-
-Note:          For the places at which pre-poll ordinary voting is available, see section 200DD.
+                    <a name="compart"></a>**_Compartment_**, in relation to a polling booth, means a compartment constructed in the polling booth in pursuance of section 206.
 
                     <a name="control-gener-prison"></a>**_Controller-General of Prisons_** means the Controller-General or other principal officer of a State or Territory having control of the prisons and gaols of the State or Territory.
 
@@ -1196,7 +1152,7 @@ Note:          For the places at which pre-poll ordinary votin
 
                      (a)  a postal vote;
 
-                     (b)  a pre-poll declaration vote;
+                     (b)  a pre-poll vote;
 
                      (c)  an absent vote; or
 
@@ -1236,22 +1192,6 @@ Note:          For the places at which pre-poll ordinary votin
 
                     <a name="hous-repres-elect"></a>**_House of Representatives election_** means an election of a member of the House of Representatives.
 
-                    <a name="vote-card"></a>**_how-to-vote card_** means a card, handbill or pamphlet:
-
-                     (a)  that:
-
-                              (i)  is, or includes, a representation of a ballot paper or part of a ballot paper for an election (or something apparently intended to represent a ballot paper or part of a ballot paper for an election); and
-
-                             (ii)  is apparently intended to affect, or is likely to affect, how votes are cast for any or all of the candidates in the election; or
-
-                     (b)  that lists the names of 2 or more of the candidates or registered political parties in an election, with a number indicating the order of voting preference in conjunction with the names of 2 or more of the candidates or parties; or
-
-                     (c)  that otherwise directs or encourages the casting of votes in an election in a particular way, other than a card, handbill or pamphlet:
-
-                              (i)  that only relates to first preference votes; or
-
-                             (ii)  that only relates to last preference votes.
-
                     <a name="immigr-depart"></a>**_Immigration Department_** means the Department administered by the Minister who administers the _Migration Act 1958_.
 
                     <a name="issuing-point"></a>**_Issuing point_**, in relation to a polling booth, means a place within the polling booth at which ballot papers are issued to persons voting at the booth.
@@ -1266,7 +1206,7 @@ Note:          For the places at which pre-poll ordinary votin
 
                     <a name="nurs-home"></a>**_nursing home_** means an institution (other than a hospital) in which infirm, ill or disabled persons needing continuing nursing care are provided with accommodation and nursing care.
 
-                    <a name="offic"></a>**_officer_** includes the Electoral Commissioner, the Deputy Electoral Commissioner, the Australian Electoral Officer for a State or Territory, a Divisional Returning Officer, an Assistant Returning Officer, an Assistant Divisional Returning Officer, an Antarctic Returning Officer, an Assistant Antarctic Returning Officer, a presiding officer, a deputy presiding officer, a substitute presiding officer, an assistant presiding officer, a pre-poll voting officer, a mobile polling team leader and a mobile polling team member, and any other member of the staff of the Electoral Commission who is a delegate of the Electoral Commissioner under subsection 28(2).
+                    <a name="offic"></a>**_officer_** includes the Electoral Commissioner, the Deputy Electoral Commissioner, the Australian Electoral Officer for a State or Territory, a Divisional Returning Officer, an Assistant Returning Officer, an Assistant Divisional Returning Officer, an Antarctic Returning Officer, an Assistant Antarctic Returning Officer, a presiding officer, a deputy presiding officer, a substitute presiding officer, an assistant presiding officer, a pre-poll voting officer, an electoral visitor, a mobile polling team leader and a mobile polling team member.
 
                     <a name="organ"></a>**_Organization_** includes:
 
@@ -1293,10 +1233,6 @@ Note:          For the places at which pre-poll ordinary votin
                     <a name="poll-offici"></a>**_polling official_** means a deputy presiding officer or an assistant presiding officer.
 
                     <a name="poll-place"></a>**_Polling place_** means a place appointed as a polling place in pursuance of section 80.
-
-                    <a name="pre-poll-declar-vote"></a>**_pre-poll declaration vote_**: see subsection 200AA(2).
-
-                    <a name="pre-poll-ordinari-vote"></a>**_pre-poll ordinary vote_**: see subsection 200AA(2).
 
                     <a name="pre-poll-vote-offic"></a>**_pre-poll voting office_** for an election means a place declared by the Electoral Commission under subsection 200BA(1) to be a pre-poll voting office for the election.
 
@@ -1334,6 +1270,8 @@ Note:          For the places at which pre-poll ordinary votin
 
                     <a name="sentenc-imprison"></a>**_sentence of imprisonment_** has the meaning given subsection (1A).
 
+                    <a name="special-hospit"></a>**_Special hospital_** means a special hospital within the meaning of section 225.
+
                     <a name="subdivis"></a>**_Subdivision_** means a subdivision of a Division.
 
                     <a name="substitut-presid-offic"></a>**_substitute presiding officer_** means a person holding an appointment under section 204.
@@ -1352,7 +1290,7 @@ Note:          For the places at which pre-poll ordinary votin
 
              (2)  For the purposes of this Act, an organization shall be taken to endorse a candidate in an election if a part of the organization, or an organization of which the first-mentioned organization is a part, endorses the candidate in that election.
 
-             (3)  A reference in this Act to age 16 enrolment shall be read as a reference to enrolment in pursuance of section 100.
+             (3)  A reference in this Act to age 17 enrolment shall be read as a reference to enrolment in pursuance of section 100.
 
              (4)  Where a Division is not divided into Subdivisions, a reference in this Act to a Subdivision shall, in relation to that Division, be read as a reference to that Division.
 
@@ -1726,9 +1664,9 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
           (1A)  A report under subsection (1) in relation to the operations of the Commission for the year ending on 30 June 2001, and for each subsequent year, must include particulars for that year of:
 
-                     (a)  each person or organisation to whom the Commission has provided a copy of a Roll under subsection 90B(1); and
+                     (a)  each person or organisation to whom the Commission has provided a copy of a Roll under subsection 91(4A); and
 
-                     (b)  each person or organisation to whom the Commission has given a copy of a Roll, or an extract of a Roll, under subsection 90B(4).
+                     (b)  in respect of any Roll provided under paragraph 91(4A)(e)—the purpose for which the information was provided.
 
              (2)  The Commission shall, as soon as practicable after the polling day in:
 
@@ -1784,7 +1722,7 @@ prepare and furnish to the Minister a report of the operation of Part XX in re
 
              (5)  A person acting as the Electoral Commissioner has, and may exercise, all the powers and shall perform all the functions of the Electoral Commissioner.
 
-##### <a id="20"></a>20  Australian Electoral Officers for States
+##### <a id="20"></a>20  Australian Electoral Officers for States
 
              (1)  There shall be an Australian Electoral Officer for each State who shall, subject to the directions of the Electoral Commissioner, be the principal electoral officer in the State.
 
@@ -1888,31 +1826,7 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
 ##### <a id="28"></a>28  Delegation by Electoral Commissioner
 
-             (1)  The Electoral Commissioner may by signed instrument delegate to the Deputy Electoral Commissioner or an Australian Electoral Officer for a State or Territory all or any of the powers of the Electoral Commissioner under this Act, other than the powers conferred by Parts III and IV.
-
-Delegation of enrolment powers and functions
-
-             (2)  The Electoral Commissioner may, in writing, delegate all or any of his or her enrolment powers and functions to any of the following:
-
-                     (a)  any officer;
-
-                     (b)  any other member of the staff of the Electoral Commission.
-
-Note:          The definition of **_officer_** covers Australian Electoral Officers and Divisional Returning Officers, as well as various other people.
-
-             (3)  In exercising powers or performing functions delegated under subsection (2), the delegate must comply with any directions of the Electoral Commissioner.
-
-             (4)  In subsection (2):
-
-                    <a name="enrol-power-function"></a>**_enrolment powers and functions_** means the powers and functions of the Electoral Commissioner under the following provisions:
-
-                     (a)  sections 86 and 87;
-
-                     (b)  the provisions of Parts VII, VIII, IX and X;
-
-                     (c)  sections 184A to 185C;
-
-                     (d)  section 249.
+                   The Electoral Commissioner may by signed instrument delegate to the Deputy Electoral Commissioner or an Australian Electoral Officer for a State or Territory all or any of the powers of the Electoral Commissioner under this Act, other than the powers conferred by Parts III and IV.
 
 ### Division 4—Staff of the Commission
 
@@ -1954,7 +1868,7 @@ Note:          The definition of **_officer_** covers Australi
 
                      (b)  during any period, or during all periods, when the Australian Electoral Officer for the State is absent from duty or from Australia or is, for any other reason, unable to perform the functions of the office.
 
-             (4)  A person acting as Australian Electoral Officer for a State has, and may exercise, all the powers and shall perform all the functions of the Australian Electoral Officer for the State.
+             (4)  A person acting as Australian Electoral Officer for the Australian Capital Territory has, and may exercise, all the powers and shall perform all the functions of the Australian Electoral Officer for the State.
 
 ##### <a id="32"></a>32  Divisional Returning Officers
 
@@ -2007,6 +1921,10 @@ and any such appointment shall terminate upon the completion of the election.
 ##### <a id="36"></a>36  Candidates not to be officers
 
                    No candidate shall be appointed an officer, and an officer who becomes a candidate shall thereby vacate his or her office.
+
+##### <a id="37"></a>37  Keeping of forms
+
+                   All Divisional Returning Officers and Assistant Divisional Returning Officers shall keep forms of claim for enrolment and transfer and such other forms as are prescribed, and shall without fee supply them to the public and assist the public in their proper use.
 
 ##### <a id="38"></a>38  Offices of Divisional Returning Officers
 
@@ -3108,9 +3026,9 @@ section 76 has effect, in its application to the Northern   Territory, as if:
 
 ##### <a id="80"></a>80  Polling places
 
-             (1)  The Electoral Commissioner may in writing:
+             (1)  The Electoral Commission may, by notice published in the _Gazette_:
 
-                     (a)  appoint, by name, such polling places for each Division as he or she considers necessary;
+                     (a)  appoint, by name, such polling places for each Division as it considers necessary;
 
                      (b)  declare polling places appointed under paragraph (a) in respect of a Division to be polling places for a specified Subdivision of that Division; and
 
@@ -3118,11 +3036,7 @@ section 76 has effect, in its application to the Northern   Territory, as if:
 
              (2)  No polling place for a Division shall be abolished after the issue of a writ relating, in whole or in part, to the taking of a poll in that Division and before the time appointed for its return.
 
-          (2A)  The Electoral Commissioner must cause to be published, on the Electoral Commission’s website and in any other way he or she considers appropriate, notice of an appointment, declaration or abolition made under subsection (1).
-
-          (2B)  Failure to publish notice of an appointment, declaration or abolition made under subsection (1), as required by subsection (2A), does not affect the validity of the appointment, declaration or abolition.
-
-             (3)  The Electoral Commissioner shall, on at least one occasion after the issue of a writ relating, in whole or in part, to the taking of a poll in a Division but before the date fixed for the polling, if it is practicable to do so, publish in a newspaper circulating in that Division a notice:
+             (3)  The Electoral Commission shall, on at least one occasion after the issue of a writ relating, in whole or in part, to the taking of a poll in a Division but before the date fixed for the polling, if it is practicable to do so, publish in a newspaper circulating in that Division a notice:
 
                      (a)  setting out all polling places in that Division; and
 
@@ -3194,17 +3108,23 @@ new Rolls shall be prepared in respect of each Division or Subdivision created o
 
              (3)  Where, for the purposes of subsection (1), electors are transferred between Rolls:
 
-                     (a)  in a case where, in the opinion of the Electoral Commissioner, a reasonably effective notification of that transfer can be given by notice published in a newspaper—the Electoral Commissioner shall cause notice of that transfer to be so published in that newspaper; and
+                     (a)  in a case where, in the opinion of the relevant officer, a reasonably effective notification of that transfer can be given by notice published in a newspaper—the relevant officer shall cause notice of that transfer to be so published in that newspaper; and
 
-                     (b)  in a case to which paragraph (a) does not apply—the Electoral Commissioner:
+                     (b)  in a case to which paragraph (a) does not apply—the relevant officer:
 
                               (i)  must cause a notice of that transfer to be delivered to the address of each elector affected by the transfer; and
 
                              (ii)  may cause a notice of that transfer to be delivered to other addresses.
 
+             (4)  In subsection (3), **_relevant officer_**, in relation to an elector transferred for the purposes of subsection (1), means:
+
+                     (a)  where the transfer is a transfer between Rolls for Divisions or Subdivisions in a State or the Northern   Territory—the Australian Electoral Officer for that State or the Northern   Territory; and
+
+                     (b)  where the transfer is a transfer between Rolls for Divisions or Subdivisions in the Australian Capital Territory—the Electoral Commissioner.
+
 ##### <a id="87"></a>87  Additions etc. to new Rolls
 
-                   If a new Roll for a Subdivision is prepared, the Electoral Commissioner must:
+                   Upon the receipt by the Divisional Returning Officer of a new Roll for a Subdivision, the Divisional Returning Officer, or if there is an Assistant Divisional Returning Officer for the Subdivision, the Assistant Divisional Returning Officer, shall:
 
                      (a)  make additions, alterations, and corrections therein; and
 
@@ -3215,6 +3135,12 @@ pursuant to claims or notifications received between the date of the proclamatio
 ##### <a id="88"></a>88  Objections and notices to have effect in relation to new Rolls
 
                    Where objections have been lodged or notices of objection have been issued and action in respect of those objections or notices has not been completed prior to the notification of the preparation, pursuant to section 85 or 86, of new Rolls, the objections or notices shall have effect in relation to the new Rolls as if such Rolls had been in existence at the time of the lodging of the objections or the issuing of the notices.
+
+##### <a id="89"></a>89  Printing of Rolls
+
+             (1)  Rolls shall be printed whenever the Electoral Commission so directs but so that the Rolls are printed at least once during the period of 2 years after the commencement of the first session of the Parliament after a general election.
+
+             (2)  Supplemental Rolls, setting out additions since the latest print of the Rolls, shall be prepared and printed at such times as the Electoral Commission directs.
 
 ##### <a id="90"></a>90  Commission to determine manner and form of access to Rolls etc.
 
@@ -3269,10 +3195,6 @@ Access at capital city office of the Electoral Commission
 Other access
 
              (4)  The Electoral Commission may make a copy of a Roll available for public inspection without fee in any other way that the Electoral Commission considers appropriate.
-
-Limitation
-
-             (5)  A right of inspection under this section does not include the right to copy or record by electronic means the Roll or a part of the Roll.
 
 ##### <a id="90B"></a>90B  Information on Rolls and certified lists of voters to be provided to particular people and organisations
 
@@ -3329,8 +3251,12 @@ Limitation
       candidate is seeking election</div>
   </td>
   <td>
-    <div>(a) as soon as practicable after the close of the Rolls; and</div>
-    <div>(b) without charge.</div>
+    <div>
+      (a) as soon as practicable after the close of the Rolls; and
+    </div>
+    <div>
+      (b) without charge.
+    </div>
   </td>
 </tr>
 <tr>
@@ -3341,12 +3267,24 @@ Limitation
     <div>a registered political party</div>
   </td>
   <td>
-    <div>a copy of the Roll for each State and Territory</div>
+    <div>
+      (a) a copy of the latest print of the Roll for each State and Territory;
+        and
+    </div>
+    <div>
+      (b) a copy of the Roll for each State and Territory
+    </div>
   </td>
   <td>
-    <div>(a) as soon as practicable after a general election; and</div>
-    <div>(b) without charge; and</div>
-    <div>(c) subject to subsection (3).</div>
+    <div>
+      (a) as soon as practicable after a general election; and
+    </div>
+    <div>
+      (b) without charge; and
+    </div>
+    <div>
+      (c) subject to subsection (3).
+    </div>
   </td>
 </tr>
 <tr>
@@ -3360,9 +3298,15 @@ Limitation
     <div>a copy of the habitation index for each Division</div>
   </td>
   <td>
-    <div>(a) as soon as practicable after a general election; and</div>
-    <div>(b) without charge; and</div>
-    <div>(c) subject to subsection (3).</div>
+    <div>
+      (a) as soon as practicable after a general election; and
+    </div>
+    <div>
+      (b) without charge; and
+    </div>
+    <div>
+      (c) subject to subsection (3).
+    </div>
   </td>
 </tr>
 <tr>
@@ -3376,9 +3320,15 @@ Limitation
     <div>a copy of a habitation index</div>
   </td>
   <td>
-    <div>(a) on request by the party; and</div>
-    <div>(b) without charge; and</div>
-    <div>(c) subject to subsection (3).</div>
+    <div>
+      (a) on request by the party; and
+    </div>
+    <div>
+      (b) without charge; and
+    </div>
+    <div>
+      (c) subject to subsection (3).
+    </div>
   </td>
 </tr>
 <tr>
@@ -3393,9 +3343,15 @@ Limitation
       election</div>
   </td>
   <td>
-    <div>(a) on request by the party; and</div>
-    <div>(b) without charge; and</div>
-    <div>(c) subject to subsection (3).</div>
+    <div>
+      (a) on request by the party; and
+    </div>
+    <div>
+      (b) without charge; and
+    </div>
+    <div>
+      (c) subject to subsection (3).
+    </div>
   </td>
 </tr>
 <tr>
@@ -3411,9 +3367,15 @@ Limitation
     <div>See also subsection (2).</div>
   </td>
   <td>
-    <div>(a) on request by the party; and</div>
-    <div>(b) without charge; and</div>
-    <div>(c) subject to subsection (3).</div>
+    <div>
+      (a) on request by the party; and
+    </div>
+    <div>
+      (b) without charge; and
+    </div>
+    <div>
+      (c) subject to subsection (3).
+    </div>
   </td>
 </tr>
 <tr>
@@ -3428,9 +3390,15 @@ Limitation
     <div>See also subsection (2).</div>
   </td>
   <td>
-    <div>(a) on request by the party; and</div>
-    <div>(b) on payment of the fee (if any) payable under subsection (9); and</div>
-    <div>(c) subject to subsection (3).</div>
+    <div>
+      (a) on request by the party; and
+    </div>
+    <div>
+      (b) on payment of the fee (if any) payable under subsection (9); and
+    </div>
+    <div>
+      (c) subject to subsection (3).
+    </div>
   </td>
 </tr>
 <tr>
@@ -3445,9 +3413,13 @@ Limitation
       or Territory used in a Senate election</div>
   </td>
   <td>
-    <div>(a) as soon as practicable after the result of the Senate election is
-      declared under section 283; and</div>
-    <div>(b) without charge.</div>
+    <div>
+      (a) as soon as practicable after the result of the Senate election is
+        declared under section 283; and
+    </div>
+    <div>
+      (b) without charge.
+    </div>
   </td>
 </tr>
 <tr>
@@ -3458,11 +3430,21 @@ Limitation
     <div>a Senator for a State or Territory</div>
   </td>
   <td>
-    <div>3 copies of the Roll for the State or Territory</div>
+    <div>
+      (a) 3 copies of the latest print of the Roll for the State or Territory;
+        and
+    </div>
+    <div>
+      (b) a copy of the Roll for the State or Territory
+    </div>
   </td>
   <td>
-    <div>(a) as soon as practicable after a general election; and</div>
-    <div>(b) without charge.</div>
+    <div>
+      (a) as soon as practicable after a general election; and
+    </div>
+    <div>
+      (b) without charge.
+    </div>
   </td>
 </tr>
 <tr>
@@ -3477,10 +3459,16 @@ Limitation
       the House of Representatives for a Division in the State or Territory</div>
   </td>
   <td>
-    <div>(a) as soon as practicable after the member of the House of Representatives
-      is declared elected for the Division under section 284; and</div>
-    <div>(b) without charge; and</div>
-    <div>(c) the Senator is not entitled to a copy of the same list under item 7.</div>
+    <div>
+      (a) as soon as practicable after the member of the House of Representatives
+        is declared elected for the Division under section 284; and
+    </div>
+    <div>
+      (b) without charge; and
+    </div>
+    <div>
+      (c) the Senator is not entitled to a copy of the same list under item 7.
+    </div>
   </td>
 </tr>
 <tr>
@@ -3495,8 +3483,12 @@ Limitation
     <div>See also subsection (2).</div>
   </td>
   <td>
-    <div>(a) on request by the Senator; and</div>
-    <div>(b) without charge.</div>
+    <div>
+      (a) on request by the Senator; and
+    </div>
+    <div>
+      (b) without charge.
+    </div>
   </td>
 </tr>
 <tr>
@@ -3512,8 +3504,12 @@ Limitation
       election in which the Senator was elected</div>
   </td>
   <td>
-    <div>(a) on request by the Senator; and</div>
-    <div>(b) without charge.</div>
+    <div>
+      (a) on request by the Senator; and
+    </div>
+    <div>
+      (b) without charge.
+    </div>
   </td>
 </tr>
 <tr>
@@ -3528,9 +3524,13 @@ Limitation
       member is elected</div>
   </td>
   <td>
-    <div>(a) as soon as practicable after the member is declared elected under
-      section 284; and</div>
-    <div>(b) without charge.</div>
+    <div>
+      (a) as soon as practicable after the member is declared elected under
+        section 284; and
+    </div>
+    <div>
+      (b) without charge.
+    </div>
   </td>
 </tr>
 <tr>
@@ -3541,11 +3541,21 @@ Limitation
     <div>a member of the House of Representatives</div>
   </td>
   <td>
-    <div>3 copies of the Roll for the Division for which the member is elected</div>
+    <div>
+      (a) 3 copies of the latest print of the Roll for the Division for which
+        the member was elected; and
+    </div>
+    <div>
+      (b) a copy of the Roll for the Division for which the member is elected
+    </div>
   </td>
   <td>
-    <div>(a) as soon as practicable after a general election; and</div>
-    <div>(b) without charge.</div>
+    <div>
+      (a) as soon as practicable after a general election; and
+    </div>
+    <div>
+      (b) without charge.
+    </div>
   </td>
 </tr>
 <tr>
@@ -3561,10 +3571,16 @@ Limitation
       for a Senate election</div>
   </td>
   <td>
-    <div>(a) as soon as practicable after the result of the Senate election is
-      declared under section 283; and</div>
-    <div>(b) without charge; and</div>
-    <div>(c) the member is not entitled to a copy of the same list under item 11.</div>
+    <div>
+      (a) as soon as practicable after the result of the Senate election is
+        declared under section 283; and
+    </div>
+    <div>
+      (b) without charge; and
+    </div>
+    <div>
+      (c) the member is not entitled to a copy of the same list under item 11.
+    </div>
   </td>
 </tr>
 <tr>
@@ -3579,8 +3595,12 @@ Limitation
     <div>See also subsection (2).</div>
   </td>
   <td>
-    <div>(a) on request by the member; and</div>
-    <div>(b) without charge.</div>
+    <div>
+      (a) on request by the member; and
+    </div>
+    <div>
+      (b) without charge.
+    </div>
   </td>
 </tr>
 <tr>
@@ -3596,8 +3616,12 @@ Limitation
       election in which the member was elected</div>
   </td>
   <td>
-    <div>(a) on request by the member; and</div>
-    <div>(b) without charge.</div>
+    <div>
+      (a) on request by the member; and
+    </div>
+    <div>
+      (b) without charge.
+    </div>
   </td>
 </tr>
 <tr>
@@ -3614,8 +3638,12 @@ Limitation
     <div>See also subsection (2).</div>
   </td>
   <td>
-    <div>(a) on request by the member; and</div>
-    <div>(b) without charge.</div>
+    <div>
+      (a) on request by the member; and
+    </div>
+    <div>
+      (b) without charge.
+    </div>
   </td>
 </tr>
 <tr>
@@ -3626,14 +3654,22 @@ Limitation
     <div>an electoral authority of a State or Territory</div>
   </td>
   <td>
-    <div>(a) any information on a Roll; and</div>
-    <div>(b) any other information that an arrangement under section 84 allows
-      or requires the Electoral Commission to provide to the authority</div>
+    <div>
+      (a) any information on a Roll; and
+    </div>
+    <div>
+      (b) any other information that an arrangement under section 84 allows
+        or requires the Electoral Commission to provide to the authority
+    </div>
   </td>
   <td>
-    <div>(a) an arrangement under section 84 allows or requires the information
-      to be provided to the authority; and</div>
-    <div>(b) on payment of the fee (if any) payable under subsection (9).</div>
+    <div>
+      (a) an arrangement under section 84 allows or requires the information
+        to be provided to the authority; and
+    </div>
+    <div>
+      (b) on payment of the fee (if any) payable under subsection (9).
+    </div>
   </td>
 </tr></table>
 
@@ -3646,24 +3682,6 @@ Note:          For **_additional information_**, see subsectio
 Registered political parties for a State or Territory only if the party has branch or division for that State or Territory
 
              (3)  In spite of subsection (1), the Electoral Commission need not give a registered political party information in relation to persons enrolled in a State or Territory unless a branch or division of the party is organised on the basis of that State or Territory.
-
-Giving parliamentarians electronic copies on request
-
-          (3A)  On request by the Senator or member of the House of Representatives to whom item 7, 9, 11 or 13 of the table in subsection (1) relates, the Electoral Commission may comply with the item by giving the Senator or member:
-
-                     (a)  a single electronic copy of the relevant certified list; and
-
-                     (b)  if the Senator or member requests 1 or 2 other copies of the list, that number of other copies of the list.
-
-          (3B)  On request by the Senator or member of the House of Representatives to whom item 8 or 12 of the table in subsection (1) relates, the Electoral Commission may comply with the item by giving the Senator or member:
-
-                     (a)  a single electronic copy of the relevant Roll; and
-
-                     (b)  if the Senator or member requests 1 or 2 other copies of that Roll, that number of other copies of that Roll.
-
-          (3C)  On request by the Senator or member of the House of Representatives to whom item 10, 14 or 15 of the table in subsection (1) relates, the Electoral Commission may comply with the item by giving the Senator or member an electronic copy of the relevant Roll.
-
-          (3D)  Subsections (3A), (3B) and (3C) do not limit the operation of subsections 90(1) and (2) or the _Electronic Transactions Act 1999_ in relation to subsection (1) of this section.
 
 Information on Rolls may be provided to particular people and organisations
 
@@ -3720,8 +3738,12 @@ Information on Rolls may be provided to particular people and organisations
     <div>a copy of a Roll</div>
   </td>
   <td>
-    <div>(a) as soon as practicable after a general election; and</div>
-    <div>(b) without charge.</div>
+    <div>
+      (a) as soon as practicable after a general election; and
+    </div>
+    <div>
+      (b) without charge.
+    </div>
   </td>
 </tr>
 <tr>
@@ -3733,16 +3755,26 @@ Information on Rolls may be provided to particular people and organisations
       a health screening program</div>
   </td>
   <td>
-    <div>(a) a copy of a Roll (or an extract of a Roll); and</div>
-    <div>(b) if the Electoral Commission wishes—information about:</div>
+    <div>
+      (a) a copy of a Roll (or an extract of a Roll); and
+    </div>
+    <div>
+      (b) if the Electoral Commission wishes—information about:
+    </div>
     <div>(i) the sex of; or</div>
     <div>(ii) the age range that covers;</div>
-    <div>a person included on the Roll</div>
+    <div>
+      a person included on the Roll
+    </div>
     <div>See also subsection (5).</div>
   </td>
   <td>
-    <div>(a) on request by the person or organisation; and</div>
-    <div>(b) on payment of the fee (if any) payable under subsection (9).</div>
+    <div>
+      (a) on request by the person or organisation; and
+    </div>
+    <div>
+      (b) on payment of the fee (if any) payable under subsection (9).
+    </div>
   </td>
 </tr>
 <tr>
@@ -3756,8 +3788,12 @@ Information on Rolls may be provided to particular people and organisations
     <div>a copy of a Roll (or an extract of a Roll)</div>
   </td>
   <td>
-    <div>(a) on request by the person or organisation; and</div>
-    <div>(b) on payment of the fee (if any) payable under subsection (9).</div>
+    <div>
+      (a) on request by the person or organisation; and
+    </div>
+    <div>
+      (b) on payment of the fee (if any) payable under subsection (9).
+    </div>
   </td>
 </tr>
 <tr>
@@ -3768,17 +3804,27 @@ Information on Rolls may be provided to particular people and organisations
     <div>a prescribed authority</div>
   </td>
   <td>
-    <div>(a) any information on a Roll; and</div>
-    <div>(b) if the Electoral Commission wishes—information about:</div>
+    <div>
+      (a) any information on a Roll; and
+    </div>
+    <div>
+      (b) if the Electoral Commission wishes—information about:
+    </div>
     <div>(i) the sex of; or</div>
     <div>(ii) the date of birth of; or</div>
     <div>(iii) the occupation of;</div>
-    <div>a person whose name is included on the Roll</div>
+    <div>
+      a person whose name is included on the Roll
+    </div>
   </td>
   <td>
-    <div>(a) the provision of the information is authorised by the regulations;
-      and</div>
-    <div>(b) on payment of the fee (if any) payable under subsection (9).</div>
+    <div>
+      (a) the provision of the information is authorised by the regulations;
+        and
+    </div>
+    <div>
+      (b) on payment of the fee (if any) payable under subsection (9).
+    </div>
   </td>
 </tr>
 <tr>
@@ -3795,8 +3841,12 @@ Information on Rolls may be provided to particular people and organisations
     <div>a copy of a Roll (or an extract of a Roll)</div>
   </td>
   <td>
-    <div>(a) on request by the person or organisation; and</div>
-    <div>(b) on payment of the fee (if any) payable under subsection (9).</div>
+    <div>
+      (a) on request by the person or organisation; and
+    </div>
+    <div>
+      (b) on payment of the fee (if any) payable under subsection (9).
+    </div>
   </td>
 </tr>
 <tr>
@@ -3805,17 +3855,25 @@ Information on Rolls may be provided to particular people and organisations
   </td>
   <td>
     <div>a prescribed person or organisation that:</div>
-    <div>(a) is a reporting entity or an agent of a reporting entity; and</div>
-    <div>(b) carries out applicable customer identification procedures under the
-      <i>Anti-Money Laundering and Counter-Terrorism Financing Act 2006</i>
+    <div>
+      (a) is a reporting entity or an agent of a reporting entity; and
+    </div>
+    <div>
+      (b) carries out applicable customer identification procedures under the
+        <i>Anti-Money Laundering and Counter-Terrorism Financing Act 2006</i>
+
     </div>
   </td>
   <td>
     <div>a copy of a Roll (or an extract of a Roll)</div>
   </td>
   <td>
-    <div>(a) on request by the person or organisation; and</div>
-    <div>(b) on payment of the fee (if any) payable under subsection (9).</div>
+    <div>
+      (a) on request by the person or organisation; and
+    </div>
+    <div>
+      (b) on payment of the fee (if any) payable under subsection (9).
+    </div>
   </td>
 </tr>
 <tr>
@@ -3824,8 +3882,12 @@ Information on Rolls may be provided to particular people and organisations
   </td>
   <td>
     <div>a prescribed person or organisation that, under an arrangement with:</div>
-    <div>(a) a reporting entity; or</div>
-    <div>(b) an agent of a reporting entity;</div>
+    <div>
+      (a) a reporting entity; or
+    </div>
+    <div>
+      (b) an agent of a reporting entity;
+    </div>
     <div>provides information for the purpose of facilitating the carrying out
       of applicable customer identification procedures under the
       <i>Anti-Money Laundering and Counter-Terrorism Financing Act 2006</i>
@@ -3835,8 +3897,12 @@ Information on Rolls may be provided to particular people and organisations
     <div>a copy of a Roll (or an extract of a Roll)</div>
   </td>
   <td>
-    <div>(a) on request by the person or organisation; and</div>
-    <div>(b) on payment of the fee (if any) payable under subsection (9).</div>
+    <div>
+      (a) on request by the person or organisation; and
+    </div>
+    <div>
+      (b) on payment of the fee (if any) payable under subsection (9).
+    </div>
   </td>
 </tr></table>
 
@@ -3871,8 +3937,6 @@ Certain information about defence and AFP personnel not to be disclosed
                      (d)  without limiting any of the preceding paragraphs—the postal address of a person  who is serving outside Australia in a capacity referred to in subparagraph (a)(i) or (ii);
 
                      (e)  any other information of a kind specified in the regulations, being information that relates to persons who have been, are or will be serving outside Australia in a capacity referred to in subparagraph (a)(i) or (ii).
-
-          (8B)  Paragraph (8A)(d) does not apply in relation to the postal address of a person who is a general postal voter.
 
 Fee
 
@@ -3982,9 +4046,7 @@ Definitions
 
                      (a)  any purpose in connection with an election or referendum; and
 
-                     (b)  monitoring the accuracy of information contained in a Roll; and
-
-                     (c)  any other purpose that is prescribed by the regulations for the purposes of this paragraph.
+                     (b)  monitoring the accuracy of information contained in a Roll.
 
           (2C)  For information provided under item 5 of the table in subsection 90B(4), the only permitted purpose in relation to a prescribed person or organisation is for the person or organisation to verify, or contribute to the verification of, the identity of persons for the purposes of the _Financial Transaction Reports Act 1988_.
 
@@ -4102,7 +4164,7 @@ Note:          For the definition of **_sentence of imprisonme
 
              (1)  This section applies to the inclusion of a person’s name in a Roll under a provision of this Part.
 
-             (2)  The Electoral Commissioner may refuse to include a person’s name in a Roll if the Electoral Commissioner considers that the name:
+             (2)  A Divisional Returning Officer or Australian Electoral Officer may refuse to include a person’s name in a Roll if the Divisional Returning Officer or Australian Electoral Officer considers that the name:
 
                      (a)  is fictitious, frivolous, offensive or obscene; or
 
@@ -4110,9 +4172,9 @@ Note:          For the definition of **_sentence of imprisonme
 
                      (c)  is not written in the alphabet used for the English language.
 
-             (3)  The Electoral Commissioner may refuse to include a person’s name in a Roll if including the name in the Roll would be contrary to the public interest.
+             (3)  A Divisional Returning Officer or Australian Electoral Officer may refuse to include a person’s name in a Roll if including the name in the Roll would be contrary to the public interest.
 
-             (4)  If the Electoral Commissioner decides under this section to refuse to include a person’s name in a Roll, the Electoral Commissioner must notify the person in writing of that decision.
+             (4)  A Divisional Returning Officer or Australian Electoral Officer who decides under this section to refuse to include a person’s name in a Roll must notify the person in writing of that decision.
 
 ##### <a id="94"></a>94  Enrolled voters leaving Australia
 
@@ -4124,7 +4186,7 @@ Note:          For the definition of **_sentence of imprisonme
 
                      (c)  intends to resume residing in Australia (whether in that Subdivision or elsewhere) not later than 6 years after ceasing to reside in Australia;
 
-may apply to be treated as an eligible overseas elector. The application must be in the approved form and signed by the elector, and must be made to the Electoral Commissioner.
+may apply to be treated as an eligible overseas elector. The application must be in the approved form and signed by the elector, and must be made to the Divisional Returning Officer for that Division.
 
           (1A)  An application that is made while the elector still resides in Australia must be made within 3 months before the elector intends to cease to reside in Australia.
 
@@ -4132,7 +4194,7 @@ may apply to be treated as an eligible overseas elector. The application must be
 
              (2)  Where an application is made under subsection (1):
 
-                     (a)  the Electoral Commissioner must annotate the Roll so as to indicate that the elector is an eligible overseas elector; and
+                     (a)  the Divisional Returning Officer must annotate the Roll so as to indicate that the elector is an eligible overseas elector; and
 
                      (b)  subject to this section, the elector is entitled to be treated as an eligible overseas elector from the time when the annotation is made until it is cancelled.
 
@@ -4142,9 +4204,9 @@ may apply to be treated as an eligible overseas elector. The application must be
 
                      (b)  vote as an elector of the Subdivision.
 
-             (4)  Where a person applies under subsection (1) to the Electoral Commissioner to be treated as an eligible overseas elector and the person’s name is not on the Roll for a Subdivision of the Division, the Electoral Commissioner shall refuse the application and give notice in writing of the decision to the person making the application.
+             (4)  Where a person applies under subsection (1) to the Divisional Returning Officer for a Division to be treated as an eligible overseas elector and the person’s name is not on the Roll for a Subdivision of the Division, the Divisional Returning Officer shall refuse the application and give notice in writing of the decision to the person making the application.
 
-             (5)  A person who has applied under subsection (1) shall, as soon as practicable, give written notice to the Electoral Commissioner of the occurrence of any of the following circumstances:
+             (5)  A person who has applied under subsection (1) shall, as soon as practicable, give written notice to the Divisional Returning Officer to whom the application was made of the occurrence of any of the following circumstances:
 
                      (a)  the person does not cease to reside in Australia within 3 months after the day on which the application was made;
 
@@ -4166,7 +4228,7 @@ may apply to be treated as an eligible overseas elector. The application must be
 
                      (b)  intends to resume residing in Australia at some time after the expiration of the relevant period;
 
-and applies, within 3 months before the expiration of the relevant period, to the Electoral Commissioner to be treated as an eligible overseas elector for a further period of 1 year commencing on the expiration of the relevant period, the Electoral Commissioner shall annotate the Roll for that Subdivision so as to indicate that the eligible overseas elector is to be treated as an eligible overseas elector for that further period of 1 year.
+and applies, within 3 months before the expiration of the relevant period, to the Divisional Returning Officer for the Division for which he or she is enrolled to be treated as an eligible overseas elector for a further period of 1 year commencing on the expiration of the relevant period, the Divisional Returning Officer to whom the application is made shall annotate the Roll for that Subdivision so as to indicate that the eligible overseas elector is to be treated as an eligible overseas elector for that further period of 1 year.
 
              (9)  Where a person who:
 
@@ -4174,7 +4236,7 @@ and applies, within 3 months before the expiration of the relevant period, to th
 
                      (b)  intends to resume residing in Australia;
 
-applies, within 3 months before the expiration of the relevant period, to the Electoral Commissioner to be treated as an eligible overseas elector for a further period of 1 year commencing on the expiration of the relevant period, the Electoral Commissioner shall annotate the Roll for that Subdivision so as to indicate that the eligible overseas elector is to be treated as an eligible overseas elector for that further period of 1 year.
+applies, within 3 months before the expiration of the relevant period, to the Divisional Returning Officer for the Division for which he or she is enrolled to be treated as an eligible overseas elector for a further period of 1 year commencing on the expiration of the relevant period, the Divisional Returning Officer to whom the application is made shall annotate the Roll for that Subdivision so as to indicate that the eligible overseas elector is to be treated as an eligible overseas elector for that further period of 1 year.
 
            (10)  An application under subsection (8) or (9) shall be in writing and signed by the applicant.
 
@@ -4184,7 +4246,7 @@ applies, within 3 months before the expiration of the relevant period, to the El
 
                      (b)  ceases to have the intention to resume residing in Australia;
 
-the person shall, as soon as practicable, give notice in writing to the Electoral Commissioner of the happening of the event referred to in paragraph (a) or (b), as the case may be.
+the person shall, as soon as practicable, give notice in writing to the Divisional Returning Officer for the Division for which he or she is enrolled of the happening of the event referred to in paragraph (a) or (b), as the case may be.
 
            (12)  Subject to subsection (13), where a person who is being treated as an eligible overseas elector in pursuance of an application made under subsection (8) or (9) resumes residing in Australia, the person ceases to be entitled to be treated as an eligible overseas elector under this section on the expiration of 1 month after the day on which he or she resumes residing in Australia.
 
@@ -4214,7 +4276,7 @@ the person shall, as soon as practicable, give notice in writing to the Electora
 
                             the relevant period expires.
 
-           (14)  Where the Electoral Commissioner has annotated a Roll for a Subdivision of a Division in relation to a person under subsection (2) and the Electoral Commissioner becomes aware that the person has ceased to be entitled to be treated as an eligible overseas elector under this section by virtue of subsection (6), (7), (12) or (13), the Electoral Commissioner shall:
+           (14)  Where the Divisional Returning Officer for the Division on the Roll for a Subdivision of which an annotation in relation to a person under subsection (2) has been made becomes aware that the person has ceased to be entitled to be treated as an eligible overseas elector under this section by virtue of subsection (6), (7), (12) or (13), the DRO shall:
 
                      (a)  if the person ceases to be eligible otherwise than by virtue of paragraph (13)(d) and the person resides in the Division at the time when he or she ceases to be entitled to be treated as an eligible overseas elector under this section—cancel the annotation made in relation to the person under subsection (2); or
 
@@ -4222,7 +4284,7 @@ the person shall, as soon as practicable, give notice in writing to the Electora
 
            (15)  If, after an application is made by a person under subsection (1) to be treated as an eligible overseas elector and before an annotation under subsection (2) is made in relation to the person, an event occurs by reason of which, if the annotation had been made, the person would have ceased to be entitled to be treated as an eligible overseas elector under subsection (6), (7) or (13), whether immediately or otherwise, then:
 
-                     (a)  where the annotation was not made before the Electoral Commissioner became aware of the happening of the event—the Electoral Commissioner shall not make the annotation; or
+                     (a)  where the annotation was not made before the Divisional Returning Officer to whom the application was made became aware of the happening of the event—the Divisional Returning Officer shall not make the annotation; or
 
                      (b)  where the annotation is made—the annotation or the enrolment of the person, as the case requires, ceases to be in force immediately after the annotation is made.
 
@@ -4232,7 +4294,7 @@ the person shall, as soon as practicable, give notice in writing to the Electora
 
 ##### <a id="94A"></a>94A  Enrolment from outside Australia
 
-             (1)  A person may apply to the Electoral Commissioner for enrolment for a Subdivision if, at the time of making the application:
+             (1)  A person may apply to the Australian Electoral Officer for a State for enrolment for a Subdivision in that State if, at the time of making the application:
 
                      (a)  the person has ceased to reside in   Australia; and
 
@@ -4242,17 +4304,37 @@ the person shall, as soon as practicable, give notice in writing to the Electora
 
                      (d)  the person intends to resume residing in Australia not later than 6 years after he or she ceased to reside in Australia.
 
-             (2)  An application:
+             (2)  The application:
 
                      (a)  must be in the approved form; and
 
-                     (b)  must be signed by the applicant; and
+                     (b)  must be signed by the person; and
 
-                     (c)  must be made within 3 years of the day on which the applicant ceased to reside in Australia; and
+                     (c)  must be attested to by a person referred to in paragraph 98(2)(c) (but see subsections (2AA) and (2A)); and
 
-                     (d)  must comply with section 98AA (evidence of identity requirements).
+                     (d)  must be made within 3 years of the day on which the person making the application ceased to reside in Australia; and
 
-             (3)  The Electoral Commissioner must add the person’s name to the Roll:
+                     (e)  must be supported by the evidence of the person’s identity that is required by the regulations (but see subsection (2AB)).
+
+       (2AA)  The requirement in paragraph (2)(c) does not apply once the regulations in relation to evidentiary requirements for enrolment are in operation.
+
+        (2AB)  To avoid doubt, the requirement in paragraph (2)(e) does not apply unless regulations are in operation for the purposes of that paragraph when the application is made.
+
+          (2A)  An application that does not meet the requirement in paragraph (2)(c) is taken to meet that requirement for the purposes of this Act if:
+
+                     (a)  the application is accompanied by a signed statement by the person making the application setting out why the person was unable to meet the requirement; and
+
+                     (b)  the Australian Electoral Officer is satisfied that the person made reasonable efforts to comply with the requirement; and
+
+                     (c)  the application is accompanied by a photocopy, that is certified by the person to be a true copy, of a part of the person’s passport that includes:
+
+                              (i)  the country and date of issue and the number of the passport; and
+
+                             (ii)  the person’s name, date of birth and signature; and
+
+                            (iii)  a photograph of the person.
+
+             (3)  The Australian Electoral Officer must cause the person’s name to be added to the Roll:
 
                      (a)  for the Subdivision for which the person last had an entitlement to be enrolled; or
 
@@ -4264,19 +4346,25 @@ the person shall, as soon as practicable, give notice in writing to the Electora
 
              (4)  If:
 
-                     (a)  the application was received by the Electoral Commissioner after 8 pm on the date of the writ for an election to be held in a Division; and
+                     (a)  the application was received by an Australian Electoral Officer after 8 pm on the date of the writ for an election to be held in a Division; and
 
                      (b)  the application relates to a Subdivision of that Division;
 
 the person’s name must not be added to the Roll for the Subdivision until after the close of the poll for that election.
 
-             (5)  The Electoral Commissioner must notify the person in writing:
+             (5)  The Australian Electoral Officer must notify the person in writing:
 
                      (a)  of a decision to grant or refuse the application; or
 
-                     (b)  of the Electoral Commissioner’s opinion that the application cannot be proceeded with because of subsection (4).
+                    (aa)  of a decision to refuse the application because it:
 
-             (6)  If the application is granted, the Electoral Commissioner must treat the application as if it were a valid application under subsection 94(1) by the person to be treated as an eligible overseas elector.
+                              (i)  does not meet the requirement in paragraph (2)(c); and
+
+                             (ii)  is not taken to meet that requirement because of subsection (2A); or
+
+                     (b)  of the Australian Electoral Officer’s opinion that the application cannot be proceeded with because of subsection (4).
+
+             (6)  If the application is granted, the Australian Electoral Officer must forward the application to the relevant Divisional Returning Officer, who must treat the application as if it were a valid application under subsection 94(1) by the person to be treated as an eligible overseas elector.
 
 ##### <a id="95"></a>95  Eligibility of spouse, de facto partner or child of eligible overseas elector [_see_ Note 4]
 
@@ -4294,7 +4382,7 @@ the person’s name must not be added to the Roll for the Subdivision until afte
 
                       (f)  who intends to resume residing in Australia not later than 6 years after the day on which he or she attained 18 years of age;
 
-applies to the Electoral Commissioner to have his or her name placed on the Roll for the relevant Subdivision and to be treated as an eligible overseas elector, the Electoral Commissioner shall, subject to subsection (4):
+applies to the Divisional Returning Officer for the Division that includes the relevant Subdivision to have his or her name placed on the Roll for the relevant Subdivision and to be treated as an eligible overseas elector, the Divisional Returning Officer to whom the application is made shall, subject to subsection (4):
 
                      (g)  add the name of the person to the Roll for the relevant Subdivision; and
 
@@ -4302,13 +4390,33 @@ applies to the Electoral Commissioner to have his or her name placed on the Roll
 
 and, subject to subsections (7), (12) and (13), the person is entitled to be treated as an eligible overseas elector from the time when the annotation is made until it is cancelled.
 
-             (2)  An application:
+             (2)  The application must be:
 
-                     (a)  must be in the approved form; and
+                     (a)  in the approved form; and
 
-                     (b)  must be signed by the applicant; and
+                     (b)  signed by the person; and
 
-                     (c)  must comply with section 98AA (evidence of identity requirements).
+                     (c)  attested to by a person referred to in paragraph 98(2)(c) (but see subsections (2AA) and (2A)); and
+
+                     (d)  supported by the evidence of the person’s identity that is required by the regulations (but see subsection (2AB)).
+
+       (2AA)  The requirement in paragraph (2)(c) does not apply once the regulations in relation to evidentiary requirements for enrolment are in operation.
+
+        (2AB)  To avoid doubt, the requirement in paragraph (2)(d) does not apply unless regulations are in operation for the purposes of that paragraph when the application is made.
+
+          (2A)  An application that does not meet the requirement in paragraph (2)(c) is taken to meet that requirement for the purposes of this Act if:
+
+                     (a)  the application is accompanied by a signed statement by the person making the application setting out why the person was unable to meet the requirement; and
+
+                     (b)  the Divisional Returning Officer is satisfied that the person made reasonable efforts to comply with the requirement; and
+
+                     (c)  the application is accompanied by a photocopy, that is certified by the person to be a true copy, of a part of the person’s passport that includes:
+
+                              (i)  the country and date of issue and the number of the passport; and
+
+                             (ii)  the person’s name, date of birth and signature; and
+
+                            (iii)  a photograph of the person.
 
              (3)  Notwithstanding anything contained in subsection 99(1) or (2), while a person is entitled to be treated as an eligible overseas elector by virtue of an annotation under subsection (1) to the Roll for a Subdivision, the person is entitled to:
 
@@ -4316,13 +4424,19 @@ and, subject to subsections (7), (12) and (13), the person is entitled to be t
 
                      (b)  vote as an elector of the Subdivision.
 
-             (4)  Where an application under this section is received by the Electoral Commissioner after 8 p.m. on the date of the writ for an election to be held in a Division, the name of the applicant shall not be added to the Roll for a Subdivision of that Division, and the annotation of the Roll under subsection (1) in relation to the applicant shall not be made, until after the close of the polling at that election.
+             (4)  Where an application under this section is received by a Divisional Returning Officer after 8 p.m. on the date of the writ for an election to be held in the Division, the name of the applicant shall not be added to the Roll for a Subdivision, and the annotation of the Roll under subsection (1) in relation to the applicant shall not be made, until after the close of the polling at that election.
 
-             (5)  The Electoral Commissioner must notify the person in writing:
+             (5)  The Divisional Returning Officer must notify the person in writing:
 
                      (a)  of a decision to grant or refuse the application; or
 
-                     (c)  of the Electoral Commissioner’s opinion that the application cannot be proceeded with because of subsection (4).
+                     (b)  of a decision to refuse the application because it:
+
+                              (i)  does not meet the requirement in paragraph (2)(c); and
+
+                             (ii)  is not taken to meet that requirement because of subsection (2A); or
+
+                     (c)  of the Divisional Returning Officer’s opinion that the application cannot be proceeded with because of subsection (4).
 
              (6)  Where a person who has applied under subsection (1) to be treated as an eligible overseas elector:
 
@@ -4332,7 +4446,7 @@ and, subject to subsections (7), (12) and (13), the person is entitled to be t
 
                      (c)  ceases to be qualified for enrolment;
 
-the person shall, as soon as practicable, give notice in writing to the Electoral Commissioner of the happening of the event referred to in paragraph (a), (b) or (c), as the case may be.
+the person shall, as soon as practicable, give notice in writing to the Divisional Returning Officer to whom the application under subsection (1) to be treated as an eligible overseas elector was made of the happening of the event referred to in paragraph (a), (b) or (c), as the case may be.
 
              (7)  Subject to subsection (13), where a person who is being treated as an eligible overseas elector under this section resumes residing in Australia within 6 years after the day on which he or she attained 18 years of age, the person ceases to be eligible to be treated as an eligible overseas elector under this section on the expiration of 1 month after the day on which he or she resumes residing in Australia.
 
@@ -4342,7 +4456,7 @@ the person shall, as soon as practicable, give notice in writing to the Electora
 
                      (b)  intends to resume residing in Australia at some time after the expiration of the relevant period;
 
-applies, within 3 months before the expiration of the relevant period, to the Electoral Commissioner to be treated as an eligible overseas elector for a further period of 1 year commencing on the expiration of the relevant period, the Electoral Commissioner shall annotate the Roll for that Subdivision so as to indicate that the eligible overseas elector is to be treated as an eligible overseas elector for that further period of 1 year.
+applies, within 3 months before the expiration of the relevant period, to the Divisional Returning Officer for the Division for which he or she is enrolled to be treated as an eligible overseas elector for a further period of 1 year commencing on the expiration of the relevant period, the Divisional Returning Officer to whom the application is made shall annotate the Roll for that Subdivision so as to indicate that the eligible overseas elector is to be treated as an eligible overseas elector for that further period of 1 year.
 
              (9)  Where a person who:
 
@@ -4350,7 +4464,7 @@ applies, within 3 months before the expiration of the relevant period, to the El
 
                      (b)  intends to resume residing in Australia;
 
-applies, within 3 months before the expiration of the relevant period, to the Electoral Commissioner to be treated as an eligible overseas elector for a further period of 1 year commencing on the expiration of the relevant period, the Electoral Commissioner shall annotate the Roll for that Subdivision so as to indicate that the eligible overseas elector is to be treated as an eligible overseas elector for that further period of 1 year.
+applies, within 3 months before the expiration of the relevant period, to the Divisional Returning Officer for the Division for which he or she is enrolled to be treated as an eligible overseas elector for a further period of 1 year commencing on the expiration of the relevant period, the Divisional Returning Officer to whom the application is made shall annotate the Roll for that Subdivision so as to indicate that the eligible overseas elector is to be treated as an eligible overseas elector for that further period of 1 year.
 
            (10)  An application under subsection (8) or (9) shall be in writing and signed by the applicant.
 
@@ -4360,7 +4474,7 @@ applies, within 3 months before the expiration of the relevant period, to the El
 
                      (b)  ceases to have the intention to resume residing in Australia;
 
-the person shall, as soon as practicable, give notice in writing to the Electoral Commissioner of the happening of the event referred to in paragraph (a) or (b), as the case may be.
+the person shall, as soon as practicable, give notice in writing to the Divisional Returning Officer for the Division for which he or she is enrolled of the happening of the event referred to in paragraph (a) or (b), as the case may be.
 
            (12)  Subject to subsection (13), where a person who is being treated as an eligible overseas elector in pursuance of an application made under subsection (8) or (9) resumes residing in Australia, the person ceases to be entitled to be treated as an eligible overseas elector under this section on the expiration of 1 month after the day on which he or she resumes residing in Australia.
 
@@ -4390,7 +4504,7 @@ the person shall, as soon as practicable, give notice in writing to the Electora
 
                             the relevant period expires.
 
-           (14)  Where the Electoral Commissioner has annotated a Roll for a Subdivision of a Division in relation to a person under subsection (1) and the Electoral Commissioner becomes aware that the person has ceased to be entitled to be treated as an eligible overseas elector under this section by virtue of subsection (7), (12) or (13), the Electoral Commissioner shall:
+           (14)  Where the Divisional Returning Officer for the Division on the Roll for a Subdivision of which an annotation in relation to a person under subsection (1) has been made becomes aware that the person has ceased to be entitled to be treated as an eligible overseas elector under this section by virtue of subsection (7), (12) or (13), the DRO shall:
 
                      (a)  if the person ceases to be eligible otherwise than by virtue of paragraph (13)(d) and the person resides in the Division at the time when he or she ceases to be entitled to be treated as an eligible overseas elector under this section—cancel the annotation made in relation to the person under subsection (1); or
 
@@ -4398,7 +4512,7 @@ the person shall, as soon as practicable, give notice in writing to the Electora
 
            (15)  If, after an application is made by a person under subsection (1) to be treated as an eligible overseas elector and before the person’s name is added to the Roll and an annotation under paragraph (1)(h) is made in relation to the person, an event occurs by reason of which, if the name had been so added and the annotation so made, the person would have ceased to be entitled to be treated as an eligible overseas elector under subsection (7) or (13), whether immediately or otherwise, then:
 
-                     (a)  where the name was not added to the Roll, and the annotation was not made, before the Electoral Commissioner became aware of the happening of the event—the Electoral Commissioner shall not add the name to the Roll under this section or make the annotation; or
+                     (a)  where the name was not added to the Roll, and the annotation was not made, before the Divisional Returning Officer to whom the application was made became aware of the happening of the event—the Divisional Returning Officer shall not add the name to the Roll under this section or make the annotation; or
 
                      (b)  where the name is added to the Roll and the annotation is made—the person ceases to be entitled to be treated as an eligible overseas elector immediately after the name is added and the annotation is made.
 
@@ -4472,13 +4586,13 @@ under section 4 (if any).
 
                      (c)  there is no decision by a court that the claimant is not one of those people;
 
-then, for the purposes of section 95AA and subsection 95AC(2), the Electoral Commissioner must take the claimant to be one of those people.
+then, for the purposes of section 95AA and subsection 95AC(2), a Divisional Returning Officer must take the claimant to be one of those people.
 
 ##### <a id="95AC"></a>95AC  Rolls relating to Norfolk Island electors
 
-             (1)  If the Electoral Commissioner adds the name of a person to the Roll for a Subdivision of a Division under section 95AA, the Electoral Commissioner must annotate the Roll so as to indicate that the person is enrolled under that section.
+             (1)  A Divisional Returning Officer who, under section 95AA, causes the name of a person to be added to the Roll must annotate the Roll so as to indicate that the person is enrolled under that section.
 
-             (2)  The Electoral Commissioner may conduct a review of the Roll for a Subdivision of a Division in relation to electors to whom an annotation under subsection (1) applies. Upon completion of the review, the Electoral Commissioner may make such alterations to the Roll as he or she thinks necessary to ensure that persons on that Roll under section 95AA are entitled to be so.
+             (2)  A Divisional Returning Officer for a Division must conduct a review of the Roll for a Subdivision of that Division in relation to electors to whom an annotation under subsection (1) applies if directed to do so by the Electoral Commission and, upon completion of the review, make such alterations to the Roll as he or she thinks necessary to ensure that persons on that Roll under section 95AA are entitled to be so.
 
 ##### <a id="96"></a>96  Itinerant electors
 
@@ -4486,23 +4600,25 @@ then, for the purposes of section 95AA and subsection 95AC(2), the Electoral C
 
                      (a)  is in Australia; and
 
-                     (b)  is not entitled to be enrolled for any Subdivision because:
+                     (b)  because the person does not reside in any Subdivision, is not entitled to be enrolled for any Subdivision;
 
-                              (i)  the person does not reside in any Subdivision; or
+may apply to the Australian Electoral Officer for a State for enrolment under this section for a Subdivision in that State.
 
-                             (ii)  the person is a homeless person;
+             (2)  The application must be:
 
-may apply to the Electoral Commissioner for enrolment under this section for a Subdivision.
+                     (a)  in the approved form; and
 
-             (2)  An application:
+                     (b)  signed by the applicant; and
 
-                     (a)  must be in the approved form; and
+                     (c)  attested to by a person referred to in paragraph 98(2)(c) (but see subsection (2AA)); and
 
-                     (b)  must be signed by the applicant; and
+                     (d)  supported by the evidence of the applicant’s identity that is required by the regulations (but see subsection (2AB)).
 
-                     (c)  must comply with section 98AA (evidence of identity requirements), if that section applies to the application.
+       (2AA)  The requirement in paragraph (2)(c) does not apply once the regulations in relation to evidentiary requirements for enrolment are in operation.
 
-          (2A)  The Electoral Commissioner must add the name of the applicant to the Roll:
+        (2AB)  To avoid doubt, the requirement in paragraph (2)(d) does not apply unless regulations are in operation for the purposes of that paragraph when the application is made.
+
+          (2A)  The Australian Electoral Officer shall cause the name of the applicant to be added to the Roll:
 
                      (a)  for the Subdivision for which the applicant last had an entitlement to be enrolled;
 
@@ -4512,7 +4628,7 @@ may apply to the Electoral Commissioner for enrolment under this section for a S
 
                      (d)  if none of paragraphs (a), (b) and (c) applies, the Subdivision with which the applicant has the closest connection.
 
-          (2B)  The Electoral Commissioner shall also annotate the Roll so as to indicate that the person is an itinerant elector.
+          (2B)  The Australian Electoral Officer shall also annotate the Roll so as to indicate that the person is an itinerant elector.
 
           (2C)  Until an annotation under subsection (2B) is cancelled, the person to whom the annotation relates is entitled to be treated as an itinerant elector.
 
@@ -4522,57 +4638,47 @@ may apply to the Electoral Commissioner for enrolment under this section for a S
 
                      (b)  vote as an elector of the Subdivision.
 
-             (4)  Where an application under this section is received by the Electoral Commissioner after 8 p.m. on the date of the writ for an election to be held in the Division to a Subdivision of which the application relates, the name of the applicant shall not be added to the Roll for the Subdivision, and the annotation of the Roll under subsection (2B) in relation to the applicant shall not be made, until after the close of the polling at that election.
+             (4)  Where an application under this section is received by an Australian Electoral Officer after 8 p.m. on the date of the writ for an election to be held in the Division to a Subdivision of which the application relates, the name of the applicant shall not be added to the Roll for the Subdivision, and the annotation of the Roll under subsection (2B) in relation to the applicant shall not be made, until after the close of the polling at that election.
 
-             (5)  Where the Electoral Commissioner:
+             (5)  Where an Australian Electoral Officer:
 
                      (a)  grants or refuses an application made under subsection (1); or
 
                      (b)  is of the opinion that an application made under that subsection cannot be proceeded with because of the operation of subsection (4);
 
-the Electoral Commissioner shall notify the applicant in writing of that decision or opinion, as the case may be.
+the Australian Electoral Officer shall notify the applicant in writing of that decision or opinion, as the case may be.
 
-             (6)  If the Electoral Commissioner refuses an application made by a person under subsection (1), the notice under subsection (5) must also include notice of the person’s right to apply for review under Part X.
+             (6)  Where an Australian Electoral Officer notifies a person under subsection (5) of a decision to refuse an application made under subsection (1), the notice shall include a statement to the effect that a person whose interests are affected by the decision may, subject to the _Administrative Appeals Tribunal Act 1975_, if he or she is dissatisfied with the decision, make an application to the Administrative Appeals Tribunal for review of the decision.
 
              (7)  Where a person who has applied under subsection (1) to be treated as an itinerant elector:
 
-                     (a)  resides in a Subdivision for a period of 1 month or longer; or
-
-                    (aa)  if subparagraph (1)(b)(ii) applied in relation to the application—ceases to be a homeless person; or
+                     (a)  resides in a Subdivision for a period of 1 month or longer;
 
                      (b)  forms the intention to depart from   Australia and to remain outside Australia for a period of 1 month or longer; or
 
                      (c)  ceases to be entitled to enrolment;
 
-the person shall, as soon as practicable, give notice in writing to the Electoral Commissioner of the happening of the event referred to in paragraph (a), (aa), (b) or (c), as the case may be.
+the person shall, as soon as practicable, give notice in writing to the Australian Electoral Officer to whom the application under subsection (1) was made of the happening of the event referred to in paragraph (a), (b) or (c), as the case may be.
 
              (8)  Subject to subsection (9), where a person who is being treated as an itinerant elector under this section resides in a Subdivision for a period of 1 month or longer, the person ceases to be eligible to be treated as an itinerant elector under this section on the expiration of that period of 1 month.
 
-          (8A)  Paragraph (7)(a) and subsection (8) do not apply in relation to a homeless person.
-
-          (8B)  Subject to subsection (9), if:
-
-                     (a)  a person is being treated as an itinerant elector under this section because the person is a homeless person; and
-
-                     (b)  the person ceases to be a homeless person;
-
-the person ceases to be eligible to be treated as an itinerant elector under this section upon ceasing to be a homeless person.
-
              (9)  A person ceases to be entitled to be treated as an itinerant elector under this section if:
+
+                     (a)  while the person is being so treated, a general election is held at which the person neither votes nor applies for a postal vote;
 
                      (b)  the person ceases to be entitled to enrolment; or
 
                      (c)  the person departs from Australia and remains outside Australia for a period of 1 month or longer.
 
-           (10)  If the Electoral Commissioner adds the name of a person to the Roll for a Subdivision of a Division under this section and the Electoral Commissioner becomes aware that the person has ceased to be entitled to be treated as an itinerant elector under this section by virtue of subsection (8), (8B) or (9), he or she must:
+           (10)  Where the Australian Electoral Officer who has caused the name of a person to be added to the Roll for a Subdivision of a Division under this section becomes aware that the person has ceased to be entitled to be treated as an itinerant elector under this section by virtue of subsection (8) or (9), he or she must:
 
-                     (a)  if the person ceases to be entitled otherwise than because of paragraph (9)(b) and the Electoral Commissioner is aware that the person resides in the Division—cancel the annotation made in relation to the person under subsection (2B); or
+                     (a)  if the person ceases to be entitled otherwise than because of paragraph (9)(b) and the Australian Electoral Officer is aware that the person resides in the Division—cause the annotation made in relation to the person under subsection (2B) to be cancelled; or
 
-                     (b)  in any other case—cancel the enrolment of the person on the Roll for the Subdivision.
+                     (b)  in any other case—cause the enrolment of the person on the Roll for the Subdivision to be cancelled.
 
            (11)  If, after an application is made by a person under this section to be treated as an itinerant elector and before the person’s name is added to the Roll and an annotation under subsection (2B) is made in relation to the person, an event occurs by reason of which, if the name had been so added and the annotation so made, the person would cease to be entitled to be treated as an itinerant elector under this section, whether immediately or otherwise, then:
 
-                     (a)  where the name was not added to the Roll, and the annotation was not made, before the Electoral Commissioner became aware of the happening of the event—the Electoral Commissioner must not add the name to the Roll under this section or make the annotation; or
+                     (a)  where the name was not added to the Roll, and the annotation was not made, before the Australian Electoral Officer to whom the application was made became aware of the happening of the event—the Australian Electoral Officer shall not cause the name to be added to the Roll under this section or cause the annotation to be made; or
 
                      (b)  where the name is added to the Roll and the annotation is made—the person ceases to be entitled to be treated as an itinerant elector immediately after the name is added and the annotation is made.
 
@@ -4581,16 +4687,6 @@ the person ceases to be eligible to be treated as an itinerant elector under thi
            (13)  In this section:
 
                     <a name="australia"></a>**_Australia_** does not include Norfolk Island.
-
-                    <a name="homeless-person"></a>**_homeless person_** includes:
-
-                     (a)  a person living in:
-
-                              (i)  crisis accommodation; or
-
-                             (ii)  transitional accommodation; and
-
-                     (b)  a person who has inadequate access to safe and secure housing within the meaning of section 4 of the _Supported Accommodation Assistance Act 1994_.
 
 ##### <a id="96A"></a>96A  Enrolment of prisoners
 
@@ -4608,51 +4704,65 @@ the person ceases to be eligible to be treated as an itinerant elector under thi
 
              (3)  In subsection (2), **_eligible person_** means a person who, under section 93, is entitled to enrolment.
 
-##### <a id="97"></a>97  Application of Part to Australian Capital Territory and Northern Territory
+##### <a id="97"></a>97  Application of Part
 
-                   This Part applies in relation to the Australian Capital Territory or the Northern Territory as if references in this Part to a State were references to that Territory.
+             (1)  This Part applies in relation to the Australian   Capital Territory as if:
+
+                     (a)  references in the preceding sections of this Part to a State were references to the Australian Capital   Territory; and
+
+                     (b)  references in the preceding sections of this Part to an Australian Electoral Officer for a State were references to the Electoral Commissioner.
+
+          (1A)  This Part applies to the Northern Territory as if the Territory were a State.
+
+             (2)  This Part applies in relation to a Subdivision in relation to which an Assistant Divisional Returning Officer is appointed as if references in the preceding sections of this Part, in relation to a Subdivision, to a Divisional Returning Officer were references to an Assistant Divisional Returning Officer.
 
 ## Part VIII—Enrolment
 
-##### <a id="98AA"></a>98AA  Evidence of identity requirements
+##### <a id="98AA"></a>98AA  Regulations
 
-             (1)  This section applies to:
+             (1)  If regulations are made to implement a requirement of this Part or Part VII, in relation to identification for enrolment, the regulations must require an applicant for enrolment to:
 
-                     (a)  an application or claim that a person makes under section 94A, 95 or 99A; or
+                     (a)  provide documentary evidence of his or her name by providing:
 
-                     (b)  an application or claim that a person makes under section 96 or 98, if:
+                              (i)  in the case of an applicant for enrolment under section 94A or 95—his or her driver’s licence number or Australian passport number; or
 
-                              (i)  the person is not already enrolled; or
+                             (ii)  in any other case—his or her driver’s licence number; or
 
-                             (ii)  the person is already enrolled, but the person’s name is no longer the same as the name under which he or she is enrolled.
+                     (b)  if:
 
-             (2)  The person’s claim or application must include or be accompanied by  any of the following:
+                              (i)  in the case of an applicant for enrolment under section 94A or 95—the applicant does not possess a driver’s licence or an Australian passport; or
 
-                     (a)  if the person holds a driver’s licence issued under the law of a State or Territory—the number of that driver’s licence;
+                             (ii)  in any other case—the applicant does not possess a driver’s licence;
 
-                     (b)  if the person holds an Australian passport—the number of that Australian passport;
+                            show to an elector in a prescribed class of electors a prescribed kind of document that identifies the applicant; or
 
-                     (c)  an attestation as to the person’s identity that is:
+                     (c)  otherwise—have the application countersigned by two electors who:
 
-                              (i)  in the approved form; and
+                              (i)  can confirm the applicant’s name; and
 
-                             (ii)  signed by another person who is enrolled;
+                             (ii)  have known the applicant for at least one month.
 
-                     (d)  any other evidence of the person’s identity that is of a kind prescribed by the regulations for the purpose of this paragraph.
+             (2)  The regulations may impose additional requirements in relation to identification for enrolment.
 
 ##### <a id="98"></a>98  Addition of names to Rolls
 
-             (1)  Names may be added to Rolls pursuant to claims for enrolment or transfer of enrolment or claims for age 16 enrolment.
+             (1)  Names may be added to Rolls pursuant to claims for enrolment or transfer of enrolment or claims for age 17 enrolment.
 
-             (2)  A claim:
+             (2)  A claim shall:
 
-                     (a)  must be in the approved form; and
+                     (a)  be in the approved form;
 
-                     (b)  subject to subsection (3), must be signed by the claimant; and
+                     (b)  subject to subsection (3), be signed by the claimant; and
 
-                     (c)  must comply with section 98AA (evidence of identity requirements), if that section applies to the claim.
+                     (c)  be attested by an elector or a person entitled to enrolment, who shall sign the claim as witness in his or her own handwriting (but see subsection (2AA)); and
 
-             (3)  Where a person wishes to make a claim for enrolment, for transfer of enrolment or for age 16 enrolment and a registered medical practitioner has certified, in writing, that the person is so physically incapacitated that the person cannot sign the claim, another person may, on behalf of the person, fill out and sign the claim in accordance with the directions of the first-mentioned person.
+                     (d)  be supported by the evidence of the claimant’s identity that is required by the regulations (but see subsection (2AB)).
+
+       (2AA)  The requirement in paragraph (2)(c) does not apply once the regulations in relation to evidentiary requirements for enrolment are in operation.
+
+        (2AB)  To avoid doubt, the requirement in paragraph (2)(d) does not apply unless regulations are in operation for the purposes of that paragraph when the application is made.
+
+             (3)  Where a person wishes to make a claim for enrolment, for transfer of enrolment or for age 17 enrolment and a registered medical practitioner has certified, in writing, that the person is so physically incapacitated that the person cannot sign the claim, another person may, on behalf of the person, fill out and sign the claim in accordance with the directions of the first-mentioned person.
 
              (4)  A claim shall be completed in accordance with the directions contained in the form approved for the purposes of subsection (2).
 
@@ -4662,7 +4772,7 @@ the person ceases to be eligible to be treated as an itinerant elector under thi
 
              (1)  This section applies to the inclusion in a Roll, or transfer to a Roll, of a person’s name under a provision of this Part.
 
-             (2)  The Electoral Commissioner may refuse to include in a Roll, or transfer to a Roll, a person’s name if the Electoral Commissioner considers that the name:
+             (2)  A Divisional Returning Officer or Australian Electoral Officer may refuse to include in a Roll, or transfer to a Roll, a person’s name if the Divisional Returning Officer or Australian Electoral Officer considers that the name:
 
                      (a)  is fictitious, frivolous, offensive or obscene; or
 
@@ -4670,9 +4780,9 @@ the person ceases to be eligible to be treated as an itinerant elector under thi
 
                      (c)  is not written in the alphabet used for the English language.
 
-             (3)  The Electoral Commissioner may refuse to include in a Roll, or transfer to a Roll, a person’s name if including the name in the Roll, or transferring it to the Roll, would be contrary to the public interest.
+             (3)  A Divisional Returning Officer or Australian Electoral Officer may refuse to include in a Roll, or transfer to a Roll, a person’s name if including the name in the Roll, or transferring it to the Roll, would be contrary to the public interest.
 
-             (4)  If the Electoral Commissioner decides under this section to refuse to include a person’s name in a Roll, the Electoral Commissioner must notify the person in writing of that decision.
+             (4)  A Divisional Returning Officer or Australian Electoral Officer who decides under this section to refuse to include a person’s name in a Roll must notify the person in writing of that decision.
 
 ##### <a id="99"></a>99  Claims for enrolment or transfer of enrolment
 
@@ -4718,19 +4828,25 @@ the person may make a provisional claim for enrolment for that other subdivision
 
              (3)  If a person makes a provisional claim for enrolment under subsection (2), any previous provisional claim for enrolment by that person has no effect.
 
-             (4)  A claim:
+             (4)  A claim must be:
 
-                     (a)  must be in the approved form; and
+                     (a)  in the approved form; and
 
-                     (b)  subject to subsection (5), must be signed by the claimant; and
+                     (b)  subject to subsection (5), signed by the claimant; and
 
-                     (c)  must be lodged:
+                     (c)  attested to by an elector or a person entitled to enrolment, who must sign the claim as witness in his or her own handwriting (but see subsection (4A)); and
+
+                     (d)  lodged:
 
                               (i)  if the claim is made under subsection (1)—together with the claimant’s application to become an Australian citizen; or
 
-                             (ii)  if the claim is made under subsection (2)—with the Electoral Commissioner; and
+                             (ii)  if the claim is made under subsection (2)—with any Australian Electoral Officer or DRO; and
 
-                     (d)  must comply with section 98AA (evidence of identity requirements).
+                     (e)  supported by the evidence of the claimant’s identity that is required by the regulations (but see subsection (4B)).
+
+          (4A)  The requirement in paragraph (4)(c) does not apply once the regulations in relation to evidentiary requirements for enrolment are in operation.
+
+          (4B)  To avoid doubt, the requirement in paragraph (4)(e) does not apply unless regulations are in operation for the purposes of that paragraph when the application is made.
 
              (5)  If:
 
@@ -4742,7 +4858,7 @@ another person may, on behalf of the person, fill out and sign the claim in acco
 
              (6)  The Secretary of the Department of Immigration, Local Government and Ethnic Affairs must:
 
-                     (a)  send to the Electoral Commissioner, as soon as practicable, any provisional claim for enrolment lodged by a person under subparagraph (4)(c)(i); and
+                     (a)  send to the Electoral Commissioner, as soon as practicable, any provisional claim for enrolment lodged by a person under subparagraph (4)(d)(i); and
 
                      (b)  if the person becomes an Australian citizen as a result of the person’s application to become an Australian citizen—inform the Electoral Commissioner, as soon as practicable, that the person has become an Australian citizen.
 
@@ -4754,7 +4870,7 @@ another person may, on behalf of the person, fill out and sign the claim in acco
 
 Application by those about to become Australian citizens
 
-             (1)  A person may apply to the Electoral Commissioner for provisional enrolment for a Subdivision if, at the time of making the application:
+             (1)  A person may apply to a Divisional Returning Officer for provisional enrolment for a Subdivision if, at the time of making the application:
 
                      (a)  either:
 
@@ -4772,7 +4888,7 @@ Application by those about to become Australian citizens
 
                      (d)  the person is not qualified for enrolment, but would be so qualified if he or she were an Australian citizen.
 
-Note:          A person who is provisionally enrolled under this section is not immediately added to a Roll but can cast a postal vote, a pre-poll declaration vote, an absent vote or a provisional vote. However, the vote is excluded from further scrutiny if the person does not provide evidence of citizenship by the first Friday following the polling day (see paragraph 6 of Schedule 3).
+Note:          A person who is provisionally enrolled under this section is not immediately added to a Roll but can cast a postal, pre-poll, absent or provisional vote. However, the vote is excluded from further scrutiny if the person does not provide evidence of citizenship by the first Friday following the polling day (see paragraph 6 of Schedule 3).
 
 Requirements for application
 
@@ -4814,13 +4930,13 @@ Requirements for application
 
                             (iii)  the elector attests that he or she is satisfied that the notification relates to the person making the application.
 
-Electoral Commissioner to keep records
+Divisional Returning Officer to keep records
 
              (5)  If a person makes an application in accordance with this section, then:
 
                      (a)  the person is provisionally enrolled under this section for the Subdivision to which the application relates; and
 
-                     (b)  the Electoral Commissioner must keep a record of the details of the application.
+                     (b)  the Divisional Returning Officer for the relevant Division must keep a record of the details of the application.
 
 Confirmation of citizenship
 
@@ -4832,17 +4948,17 @@ Confirmation of citizenship
 
                      (c)  sections 102, 103 and 104 apply to the application as if it were a claim made under section 101.
 
-             (7)  Otherwise, the Electoral Commissioner must notify the person, in writing, that the person’s provisional enrolment has ceased.
+             (7)  Otherwise, the Divisional Returning Officer for the relevant Division must notify the person, in writing, that the person’s provisional enrolment has ceased.
 
-##### <a id="100"></a>100  Claims for age 16 enrolment
+##### <a id="100"></a>100  Claims for age 17 enrolment
 
              (1)  A person who:
 
-                     (a)  is 16 years of age; and
+                     (a)  is 17 years of age; and
 
                      (b)  would be entitled, in respect of residence at an address, to be enrolled for a Subdivision if he or she were 18 years of age;
 
-may send or deliver a claim to have his or her name placed on the Roll for that Subdivision to the Electoral Commissioner.
+may send or deliver a claim to have his or her name placed on the Roll for that Subdivision to any Divisional Returning Officer or Australian Electoral Officer.
 
              (2)  A claim made under subsection (1) shall be treated as a claim for enrolment for the Subdivision to which the claim relates and the provisions of sections 102, 103 and 104 apply in relation to the claim as if the person making the claim were 18 years of age and the claim were made pursuant to section 101.
 
@@ -4850,11 +4966,15 @@ may send or deliver a claim to have his or her name placed on the Roll for that 
 
 ##### <a id="101"></a>101  Compulsory enrolment and transfer
 
-             (1)  Subject to subsection (5A), every person who is entitled to be enrolled for any Subdivision, otherwise than by virtue of section 94, 94A, 95, 96 or 100, whether by way of enrolment or transfer of enrolment, and whose name is not on the Roll, shall forthwith fill in and sign a claim and send or deliver the claim to the Electoral Commissioner.
+             (1)  Subject to subsection (5A), every person who is entitled to be enrolled for any Subdivision, otherwise than by virtue of section 94, 94A, 95, 96 or 100, whether by way of enrolment or transfer of enrolment, and whose name is not on the Roll, shall forthwith fill in and sign a claim and send or deliver the claim to any Divisional Returning Officer or Australian Electoral Officer.
 
-          (1A)  A person who is entitled to be enrolled for any Subdivision under section 95AA may fill in and sign a claim and send or deliver it to the Electoral Commissioner.
+          (1A)  A person who is entitled to be enrolled for any Subdivision under section 95AA may fill in and sign a claim and send or deliver it to any Divisional Returning Officer or Australian Electoral Officer.
 
-             (4)  Subject to subsection (5A), every person who is entitled to have his or her name placed on the Roll for any Subdivision whether by way of enrolment or transfer of enrolment, and whose name is not on the Roll upon the expiration of 21 days from the date upon which the person became so entitled, or at any subsequent date while the person continues to be so entitled, shall be guilty of an offence unless he or she proves that the non-enrolment is not in consequence of his or her failure to send or deliver to the Electoral Commissioner, a claim, duly filled in and signed in accordance with the directions printed thereon.
+             (2)  Where a person sends or delivers a claim for enrolment (including a claim for age 17 enrolment), or for transfer of enrolment, to a Divisional Returning Officer for a Division other than the Division (in this subsection referred to as the **_proper Division_**) on the Roll for a Subdivision of which the person is entitled to be enrolled, the Divisional Returning Officer shall note on the claim the date of its receipt, subject to subsection 102(2A), and forthwith send the claim and any documents sent or delivered by the person with the claim to the Divisional Returning Officer for the proper Division.
+
+             (3)  Where a person sends or delivers a claim for enrolment (including a claim for age 17 enrolment), or for transfer of enrolment, to an Australian Electoral Officer, the Australian Electoral Officer shall note on the claim the date of its receipt and, subject to subsection 102(2A), forthwith send the claim and any documents sent or delivered by the person with the claim to the Divisional Returning Officer for the Division on the Roll for a Subdivision of which the person is entitled to be enrolled.
+
+             (4)  Subject to subsection (5A), every person who is entitled to have his or her name placed on the Roll for any Subdivision whether by way of enrolment or transfer of enrolment, and whose name is not on the Roll upon the expiration of 21 days from the date upon which the person became so entitled, or at any subsequent date while the person continues to be so entitled, shall be guilty of an offence unless he or she proves that the non-enrolment is not in consequence of his or her failure to send or deliver to a Divisional Returning Officer or an Australian Electoral Officer, a claim, duly filled in and signed in accordance with the directions printed thereon.
 
 Note:          A defendant bears a legal burden in relation to the defence in subsection (4) (see section 13.4 of the _Criminal Code_).
 
@@ -4864,7 +4984,7 @@ Note:          A defendant bears a legal burden in relation to
 
                      (b)  has lived at the new address for a period of one month;
 
-the person must, within 21 days after the end of the period referred to in paragraph (b), give written notice of the new address to the Electoral Commissioner.
+the person must, within 21 days after the end of the period referred to in paragraph (b), give written notice of the new address to the Divisional Returning Officer for the Division that includes that Subdivision.
 
           (5A)  Subsections (1), (4) and (5) do not apply to a qualified Norfolk Islander within the meaning of section 95AA.
 
@@ -4884,29 +5004,43 @@ Note:          For **_absolute liability_**, see section 6.2
 
 Note:          A defendant bears an evidential burden in relation to the defence in subsection (6A) (see subsection 13.3(3) of the _Criminal Code_).
 
-             (7)  Where a person sends or delivers a claim for enrolment, or for transfer of enrolment, to the Electoral Commissioner, proceedings shall not be instituted against that person for any offence against subsection (1) or (4) committed before the claim was so sent or delivered.
+             (7)  Where a person sends or delivers a claim for enrolment, or for transfer of enrolment, to a Divisional Returning Officer or an Australian Electoral Officer, proceedings shall not be instituted against that person for any offence against subsection (1) or (4) committed before the claim was so sent or delivered.
 
 ##### <a id="102"></a>102  Action on receipt of claim
 
-             (1)  Subject to subsections (4) and (4AA), where, pursuant to section 101, the Electoral Commissioner receives a claim for enrolment or transfer of enrolment, the Electoral Commissioner must:
+             (1)  Subject to subsections (4) and (4AA), where, pursuant to section 101, a Divisional Returning Officer for a Division receives a claim for enrolment or transfer of enrolment for that Division, the Divisional Returning Officer shall:
 
                      (a)  note on the claim the date of its receipt;
 
-                     (b)  if the claim is in order and the Electoral Commissioner is satisfied that the claimant is entitled, in respect of residence at an address, to be enrolled for a Subdivision, without delay:
+                     (b)  if the claim is in order and the officer is satisfied that the claimant is entitled, in respect of residence at an address, to be enrolled for a Subdivision of that Division, forthwith:
 
-                              (i)  enter on the Roll for the Subdivision the name of the claimant and the other particulars required by section 83; and
+                              (i)  enter on the Roll for the Subdivision the name of the claimant and the other particulars required by section 83;
 
-                             (ii)  notify the claimant in writing that he or she has been enrolled for that Subdivision; and
+                             (ii)  notify the claimant in writing that he or she has been enrolled for that Subdivision;
 
-                            (iii)  in the case of a claim for transfer of an enrolment from the Roll for another Subdivision—delete the name of the claimant from the Roll for that other Subdivision; and
+                            (iii)  in the case of a claim for transfer of an enrolment from the Roll for another Subdivision in that Division—delete the name of the claimant from the Roll for the last-mentioned Subdivision; and
 
-                    (ba)  if the claim is in order but the Electoral Commissioner is satisfied that the claimant is already properly enrolled in respect of residence at the address in the Subdivision for which he or she is entitled to be enrolled—notify the claimant, in writing, that he or she has been enrolled for that Subdivision; and
+                            (iv)  in the case of a claim for transfer of enrolment from a Subdivision not included in that Division—give notice of the transfer to the Divisional Returning Officer for the Division that includes the last-mentioned Subdivision; and
 
-                     (c)  if the claim is not in order or the Electoral Commissioner is not satisfied that the claimant is entitled, in respect of residence at an address, to be enrolled for a Subdivision—notify the claimant in writing that the claim has been rejected.
+                    (ba)  if the claim is in order but the officer is satisfied that the claimant is already properly enrolled in respect of residence at the address in the Subdivision for which he or she is entitled to be enrolled—notify the claimant, in writing, that he or she has been enrolled for that Subdivision; and
 
-          (1A)  Before dealing with a claim under paragraph (1)(b), (ba) or (c), the Electoral Commissioner may make any inquiries that he or she thinks necessary.
+                     (c)  if the claim is not in order or the officer is not satisfied that the claimant is entitled, in respect of residence at an address, to be enrolled in a Subdivision of that Division—notify the claimant in writing that the claim has been rejected.
 
-             (3)  Notice of a decision given to a claimant by the Electoral Commissioner under paragraph (1)(c) shall include:
+          (1A)  Before dealing with a claim under paragraph (1)(b), (ba) or (c), a Divisional Returning Officer may make any inquiries the officer thinks necessary.
+
+             (2)  Where a Divisional Returning Officer for a Division receives notice, pursuant to subparagraph (1)(b)(iv), of the transfer of a person’s enrolment from a Subdivision in that Division, the Divisional Returning Officer shall delete the name of, and particulars relating to, the person from the Roll for the Subdivision.
+
+          (2A)  This subsection applies during the period commencing on a public announcement that an election will be held or the issue of the writ or writs for the election, whichever is the earlier, and ending at 8 p.m. on the date of the writ or writs for the election.
+
+          (2B)  At any time when subsection (2A) applies, a Divisional Returning Officer may, with the concurrence of the Australian Electoral Officer for the State, and in accordance with such directions (if any) as are given by the Electoral Commissioner, deal with a claim for enrolment or transfer of enrolment received by the Divisional Returning Officer or by another Divisional Returning Officer for a Division in the same State.
+
+          (2C)  Where a claim for enrolment or transfer of enrolment for a Division is dealt with by the Divisional Returning Officer for another Division, subsection (1) applies as if the Divisional Returning Officer were the Divisional Returning Officer for the first-mentioned Division.
+
+          (2D)  At any time when subsection (2A) applies, the Australian Electoral Officer for a State may, in accordance with such directions (if any) as are given by the Electoral Commissioner, deal with a claim for enrolment or transfer of enrolment received by the Australian Electoral Officer, by any Divisional Returning Officer in that State or by an Australian Electoral Officer or Divisional Returning Officer in another State.
+
+           (2E)  Where a claim for enrolment or transfer of enrolment is dealt with by an Australian Electoral Officer, subsection (1) applies as if the Australian Electoral Officer were the Divisional Returning Officer for the Division for which the claim is made.
+
+             (3)  Notice of a decision given to a claimant by a Divisional Returning Officer under paragraph (1)(c) shall include:
 
                      (a)  a statement of the reasons for the decision; and
 
@@ -4978,7 +5112,7 @@ Note:          A defendant bears an evidential burden in relat
 
                      (b)  the person considers that having his or her address so shown places the personal safety of the person or of members of his or her family at risk;
 
-the person may lodge with the Electoral Commissioner a request, in the approved form, that his or her address be deleted from the particulars that are entered on that Roll.
+the person may lodge with the DRO keeping the Roll for the Subdivision a request, in the approved form, that his or her address be deleted from the particulars that are entered on that Roll.
 
              (3)  A request under subsection (1) or (2) shall give particulars of the relevant risk and shall be verified by statutory declaration by the person making the request or some other person.
 
@@ -4986,21 +5120,21 @@ the person may lodge with the Electoral Commissioner a request, in the approved 
 
                      (a)  a request has been made under subsection (1) or (2); and
 
-                     (b)  the Electoral Commissioner is satisfied that having the address of the person making the request shown on the Roll for the Subdivision would place or places the personal safety of the person or members of the person’s family at risk;
+                     (b)  the DRO for the Division that includes the Subdivision on the Roll for which the person making the request is to be or has been enrolled, as the case may be, is satisfied that having the address of the person making the request shown on the Roll for the Subdivision would place or places the personal safety of the person or members of the person’s family at risk;
 
-the Electoral Commissioner:
+the DRO:
 
                      (c)  in a case where the request was lodged under subsection (1)—shall not include the address of the person in the particulars relating to the person that are entered on the Roll for the Subdivision; and
 
                      (d)  in a case where the request is lodged under subsection (2)—shall delete the address of the person from the particulars relating to the person that are entered on the Roll for the Subdivision.
 
-             (5)  Where the Electoral Commissioner grants or refuses a request made by a person under subsection (1) or (2), the Electoral Commissioner shall notify the person in writing of the decision.
+             (5)  Where a DRO grants or refuses a request made by a person under subsection (1) or (2), the DRO shall notify the person in writing of the decision.
 
              (6)  Notwithstanding anything contained in section 107, where an address is deleted from a Roll in pursuance of subsection (4), the address so deleted shall be obliterated.
 
-             (7)  The Electoral Commissioner may conduct a review of the Roll for a Subdivision of a Division in relation to electors whose addresses are not shown on the Roll by virtue of this section.
+             (7)  A DRO for a Division shall, when directed to do so by the Electoral Commission, conduct a review of the Roll for a Subdivision of that Division in relation to electors whose addresses are not shown on the Roll by virtue of this section.
 
-             (8)  If, after such a review, the Electoral Commissioner is not satisfied that the personal safety of a elector whose address is not shown on the Roll, or of the elector’s family, would be at risk if the elector’s address were shown on the Roll, the Electoral Commissioner must notify the elector in writing that the Electoral Commissioner has decided that the elector’s address should be entered on the Roll.
+             (8)  If, after such a review, the DRO is not satisfied that the personal safety of a elector whose address is not shown on the Roll, or of the elector’s family, would be at risk if the elector’s address were shown on the Roll, the DRO must notify the elector in writing that the DRO has decided that the elector’s address should be entered on the Roll.
 
              (9)  If:
 
@@ -5008,7 +5142,7 @@ the Electoral Commissioner:
 
                      (b)  it is no longer possible for the decision to be so set aside;
 
-the Electoral Commissioner must enter the elector’s address on the Roll.
+the DRO must enter the elector’s address on the Roll.
 
            (10)  For the purposes of this Act, if the address of a person is not shown on the Roll for a Subdivision because of a request made by the person under subsection (1) or (2), the name of the person is taken to have been placed on the Roll:
 
@@ -5026,7 +5160,7 @@ the Electoral Commissioner must enter the elector’s address on the Roll.
 
 ##### <a id="105"></a>105  Alteration of Rolls
 
-             (1)  In addition to other powers of alteration conferred by this Act, the Electoral Commissioner may alter any Roll by:
+             (1)  In addition to other powers of alteration conferred by this Act, a Divisional Returning Officer may alter any Roll kept by the officer by:
 
                      (a)  correcting any mistake or omission in the particulars of the enrolment of an elector;
 
@@ -5036,7 +5170,7 @@ the Electoral Commissioner must enter the elector’s address on the Roll.
 
                      (e)  reinstating any name removed by mistake as the name of a deceased elector;
 
-                      (f)  where the Electoral Commissioner is satisfied that an objection against the enrolment of an elector whose name has been deleted from the Roll as a result of the objection was based on a mistake of fact and that the person objected to still retains and has continuously retained his or her right to the enrolment in respect of which the objection was made—reinstating on the Roll the name of the elector;
+                      (f)  where the officer is satisfied that an objection against the enrolment of an elector whose name has been deleted from the Roll as a result of the objection was based on a mistake of fact and that the person objected to still retains and has continuously retained his or her right to the enrolment in respect of which the objection was made—reinstating on the Roll the name of the elector;
 
                      (g)  reinstating any other name removed by mistake; and
 
@@ -5044,13 +5178,11 @@ the Electoral Commissioner must enter the elector’s address on the Roll.
 
           (1A)  If the address of an elector is altered under paragraph (1)(h), then, after the alteration, this Act has effect as if the elector’s name had been placed on the Roll in respect of the address as altered.
 
-             (2)  If:
+             (2)  Where the name of an elector has, pursuant to a claim, been incorrectly placed on the Roll for a Subdivision other than the Subdivision in which the elector was living at the date of the claim, and the elector was entitled on that date to be enrolled for the Subdivision in which he or she was living:
 
-                     (a)  the name of an elector has, pursuant to a claim, been incorrectly placed on the Roll for a Subdivision (other than the Subdivision in which the elector was living at the date of the claim); and
+                     (a)  if the 2 Subdivisions are both in the same Division, the Divisional Returning Officer may remove the name of the elector from the Roll on which the elector is enrolled and place the name of the elector on the Roll for the Subdivision in which the elector is living and notify the elector of the change of enrolment; and
 
-                     (b)  the elector was entitled on that date to be enrolled for the Subdivision in which he or she was living;
-
-the Electoral Commissioner may remove the name of the elector from the Roll on which the elector is enrolled and place the name of the elector on the Roll for the Subdivision in which the elector is living and notify the elector of the change of enrolment.
+                     (b)  if the 2 Subdivisions are not in the same Division, the Australian Electoral Officer shall forward a certificate setting forth the facts to the Divisional Returning Officer for the Division for which the elector is enrolled, and the Divisional Returning Officer for the Division in which the elector is living, and thereupon the Divisional Returning Officer for the Division for which the elector is enrolled shall remove the name of the elector from that Roll and the Divisional Returning Officer for the Division in which the elector is living shall place the name of the elector on the Roll for the Subdivision in which the elector is living and notify the elector of the change of enrolment.
 
              (3)  An alteration to a Roll in pursuance of subsection (1) or (2) may be made at any time.
 
@@ -5060,27 +5192,27 @@ the Electoral Commissioner may remove the name of the elector from the Roll on w
 
                      (b)  admitted to further scrutiny at a preliminary scrutiny conducted under section 89A of the _Referendum (Machinery Provisions) Act 1984_ because of paragraph 11 of Schedule 4 to that Act;
 
-the Electoral Commissioner must enter the elector’s name on the Roll for the Subdivision for which, but for the error or mistake, the name would have appeared.
+the Divisional Returning Officer for the relevant Division must enter the elector’s name on the Roll for the Subdivision for which, but for the error or mistake, the name would have appeared.
 
 ##### <a id="106"></a>106  Incorrect enrolment
 
-                   Where a person, whose name has been placed on the Roll for a Division, is not entitled to enrol for that Division and that person secured enrolment pursuant to a claim in which the person made a false statement, the Electoral Commissioner, upon receipt of a certificate from the Australian Electoral Officer setting forth the facts, may, at any time between the date of the issue of the writ for an election for that Division, and before the close of the polling at that election, remove the name of that person from that Roll.
+                   Where a person, whose name has been placed on the Roll for a Division, is not entitled to enrol for that Division and that person secured enrolment pursuant to a claim in which the person made a false statement, the Divisional Returning Officer for that Division, upon receipt of a certificate from the Australian Electoral Officer setting forth the facts, may, at any time between the date of the issue of the writ for an election for that Division, and before the close of the polling at that election, remove the name of that person from that Roll.
 
 ##### <a id="107"></a>107  Alterations to be initialled
 
-                   Every alteration of a Roll shall be made in such a manner that the original entry shall not be obliterated, and the reason for each alteration and the date thereof shall be set against the alteration, together with the initials of the person who makes the alteration.
+                   Every alteration of a Roll shall be made in such a manner that the original entry shall not be obliterated, and the reason for each alteration and the date thereof shall be set against the alteration, together with the initials of the Divisional Returning Officer or of the person who makes the alteration on behalf of the Divisional Returning Officer.
 
 ##### <a id="108"></a>108  Lists of deaths to be forwarded
 
                    The Registrar-General shall as soon as practicable after the beginning of each month or at such other times as are arranged with the Electoral Commissioner:
 
-                     (a)  forward to the Electoral Commissioner (or to an officer nominated by the Electoral Commissioner) a list of the names, addresses, occupations, ages, sexes and dates of death of all persons of the age of 16 years or upwards whose deaths have been registered during the preceding month for the State; and
+                     (a)  forward to each Divisional Returning Officer in the State (either direct or through the Australian Electoral Officer for the State as may be arranged) a list of the names, addresses, occupations, ages, and sexes and dates of death of all persons of the age of 17 years or upwards whose deaths have been registered during the preceding month in respect of the Division for which the Divisional Returning Officer has been appointed;
 
-                     (b)  forward to the Electoral Commissioner (or to an officer nominated by the Electoral Commissioner) any information that the Registrar-General is required to forward under an agreement entered into for the purposes of this Act between the Electoral Commission and a Minister of the State or the Registrar-General.
+                     (b)  forward to the Australian Electoral Officer for the State any information that the Registrar-General is required to forward under an agreement entered into for the purposes of this Act between the Electoral Commission and a Minister of the State or the Registrar-General.
 
 ##### <a id="109"></a>109  Lists of convictions to be forwarded
 
-             (1)  The Controller-General of Prisons must, as soon as practicable after the beginning of each month, forward to the Electoral Commissioner (or to an officer nominated by the Electoral Commissioner) a list of:
+             (1)  The Controller-General of Prisons must, as soon as practicable after the beginning of each month, forward to the Australian Electoral Officer a list of:
 
                      (a)  the names, addresses, occupations and sexes of all persons who:
 
@@ -5094,7 +5226,7 @@ during the preceding month.
 
 Note:          For the definition of **_sentence of imprisonment_**, see subsection 4(1A).
 
-             (2)  Within 4 days of the date of the writ for an election for a Division in a State, the Controller-General of Prisons must forward to the Electoral Commissioner (or to an officer nominated by the Electoral Commissioner) a list of:
+             (2)  Within 4 days of the date of the writ for an election for a Division in a State, the Controller-General of Prisons must forward to the Australian Electoral Officer a list of:
 
                      (a)  the names, addresses, occupations and sexes of all persons who:
 
@@ -5106,43 +5238,61 @@ Note:          For the definition of **_sentence of imprisonme
 
 between the time the last list was forwarded by the Controller-General under subsection (1) and the date of the writ.
 
-##### <a id="110"></a>110  Electoral Commissioner to act on receipt of information
+##### <a id="110"></a>110  Officers to act on receipt of information
 
-             (1)  The Electoral Commissioner shall, upon receipt (whether by the Commissioner or by an officer nominated by the Commissioner) of information pursuant to sections 108 and 109, take action under this Act to effect such alterations of the Rolls as are necessary.
+             (1)  The Australian Electoral Officer or the Divisional Returning Officer, as the case requires, shall, upon receipt of information pursuant to sections 108 and 109, take action under this Act to effect such alterations of the Rolls as are necessary.
 
-             (2)  The Electoral Commissioner shall not take action under subsection (1) to remove the name of an elector, other than a deceased elector, from the Roll otherwise than by way of an objection under Part IX.
+             (2)  An officer shall not take action under subsection (1) to remove the name of an elector, other than a deceased elector, from the Roll otherwise than by way of an objection under Part IX.
 
 ##### <a id="111"></a>111  Computer records relating to Roll
 
-             (1)  Where, but for this subsection, the Electoral Commissioner is required or permitted under this Act or the regulations to record particulars (including make an annotation) in a written form on a Roll, the Electoral Commissioner may do so by recording or storing those particulars, or causing those particulars to be recorded or stored, on a mechanical, electrical or other device approved by the Commission.
+             (1)  Where, but for this subsection, a Divisional Returning Officer is required or permitted under this Act or the regulations to record particulars (including make an annotation) in a written form on a Roll, the officer may do so by recording or storing those particulars, or causing those particulars to be recorded or stored, on a mechanical, electrical or other device approved by the Commission.
 
-             (2)  Where the Electoral Commissioner is required or permitted under this Act or the regulations to vary or remove particulars which, but for this section, would be on a Roll but which have been recorded or stored in accordance with this section, the Electoral Commissioner shall do so by varying or removing the particulars so recorded or stored, or causing the particulars so recorded or stored to be varied or removed, as the case may be.
+             (2)  Where a Divisional Returning Officer is required or permitted under this Act or the regulations to vary or remove particulars which, but for this section, would be on a Roll but which have been recorded or stored in accordance with this section, the officer shall do so by varying or removing the particulars so recorded or stored, or causing the particulars so recorded or stored to be varied or removed, as the case may be.
 
-             (4)  Where the Electoral Commissioner is required under this Act or the regulations to enter particulars on, vary particulars on, or remove particulars from, a Roll and the Electoral Commissioner complies with the requirement by taking action in accordance with this section, the Electoral Commissioner shall, for the purposes of this Act, including any provisions imposing obligations on the Electoral Commissioner, be taken to have entered those particulars on the Roll, varied those particulars or removed those particulars, as the case may be.
+             (4)  Where a Divisional Returning Officer who is required under this Act or the regulations to enter particulars on, vary particulars on, or remove particulars from, a Roll complies with the requirement by taking action in accordance with this section, the officer shall, for the purposes of this Act, including any provisions imposing obligations on the officer, be taken to have entered those particulars on the Roll, varied those particulars or removed those particulars, as the case may be.
 
              (5)  Section 107 does not apply to alterations of a Roll made in pursuance of this section.
 
-##### <a id="112"></a>112  Application of Part to Australian Capital Territory and Northern Territory
+##### <a id="111A"></a>111A  Claims may be sent by fax
 
-                   This Part applies in relation to the Australian Capital Territory or the Northern Territory as if references in this Part to a State were references to that Territory.
+             (1)  A claim under this Part that is to be sent to an Australian Electoral Officer or a DRO may be sent by fax machine. This subsection does not apply to a provisional claim under section 99A or to a claim that is accompanied by a request under section 104.
+
+             (2)  If a claim is sent by a fax machine in accordance with subsection (1), references in this Act to the claim include references to the fax received by the Australian Electoral Officer or the DRO.
+
+##### <a id="112"></a>112  Application of Part
+
+             (1)  This Part applies in relation to the Australian   Capital Territory as if:
+
+                     (a)  references in the preceding sections of this Part to a State were references to the Australian Capital   Territory; and
+
+                     (b)  references in the preceding sections of this Part to an Australian Electoral Officer for a State were references to the Electoral Commissioner.
+
+          (1A)  This Part applies to the Northern Territory as if the Territory were a State.
+
+             (2)  This Part applies in relation to a Subdivision in relation to which an Assistant Divisional Returning Officer is appointed as if references in the preceding sections of this Part, in relation to a Subdivision, to a Divisional Returning Officer were references to an Assistant Divisional Returning Officer.
 
 ## Part IX—Objections
 
 ##### <a id="113"></a>113  Interpretation
 
-                   In this Part:
+             (1)  In this Part:
 
                     <a name="antarct-elector"></a>**_Antarctic elector_** means an elector whose name has been retained on the relevant Roll under Part XVII.
+
+                    <a name="appropri-dro"></a>**_appropriate DRO_** means the DRO for the Division for which the challenged elector is enrolled.
 
                     <a name="challeng-elector"></a>**_challenged elector_** means the person to whose enrolment an objection relates.
 
                     <a name="challeng-enrol"></a>**_challenged enrolment_** means the enrolment to which an objection relates.
 
-                    <a name="offici-object"></a>**_official objection_** means an objection by the Electoral Commissioner under subsection 114(2) or (4).
+                    <a name="offici-object"></a>**_official objection_** means an objection by a DRO under subsection 114(2) or (4).
 
                     <a name="privat-object"></a>**_private objection_** means an objection under subsection 114(1), (1A) or (1B).
 
                     <a name="relev-subdivis"></a>**_relevant Subdivision_** means the Subdivision for which the challenged elector is enrolled.
+
+             (2)  Where there is an Assistant Divisional Returning Officer for a Subdivision, a reference in this Part to the DRO for the Division that includes the Subdivision shall be read as a reference to the Assistant Divisional Returning Officer.
 
 ##### <a id="114"></a>114  Objection to enrolment
 
@@ -5160,11 +5310,11 @@ between the time the last list was forwarded by the Controller-General under sub
 
           (1C)  A person must not object under subsection (1) to the enrolment of another person if the person could object under subsection (1B) to the enrolment of the other person.
 
-             (2)  The Electoral Commissioner shall object to the enrolment of a person for a Subdivision of a Division if there are reasonable grounds for believing that the person is not entitled to be enrolled for that Subdivision.
+             (2)  The DRO for a Division shall object to the enrolment of a person for a Subdivision of that Division if there are reasonable grounds for believing that the person is not entitled to be enrolled for that Subdivision.
 
-             (3)  The Electoral Commissioner shall not object on the ground set out in paragraph 93(8)(a).
+             (3)  A DRO shall not object on the ground set out in paragraph 93(8)(a).
 
-             (4)  The Electoral Commissioner must object to the enrolment of a person for a Subdivision of a Division if:
+             (4)  The DRO for a Division must object to the enrolment of a person for a Subdivision of that Division if:
 
                      (a)  the person’s name has been placed on the Roll for that Subdivision in respect of a particular address; and
 
@@ -5172,17 +5322,17 @@ between the time the last list was forwarded by the Controller-General under sub
 
                      (c)  the person is not an Antarctic elector.
 
-             (5)  The Electoral Commissioner must not object under subsection (2) to the enrolment of a person if the Electoral Commissioner could object under subsection (4) to the enrolment of the person.
+             (5)  The DRO for a Division must not object under subsection (2) to the enrolment of a person if the DRO could object under subsection (4) to the enrolment of the person.
 
 ##### <a id="115"></a>115  Form and manner of objection
 
              (1)  An objection shall be in writing in the approved form.
 
-             (2)  A private objection must be lodged with the Electoral Commissioner together, in the case of an objection under subsection 114(1) or (1B), with an amount of $2.
+             (2)  A private objection must be lodged with the appropriate DRO together, in the case of an objection under subsection 114(1) or (1B), with an amount of $2.
 
 ##### <a id="116"></a>116  Notice of objection
 
-             (1)  The Electoral Commissioner shall give notice of an objection to the challenged elector.
+             (1)  The DRO shall give notice of an objection to the challenged elector.
 
              (2)  A notice under subsection (1):
 
@@ -5196,17 +5346,17 @@ between the time the last list was forwarded by the Controller-General under sub
 
                             (iii)  set out the ground or grounds of the objection; and
 
-                            (iv)  advise the elector of what he or she must do if he or she wishes to answer the objection; and
+                            (iv)  set out the steps to be taken by the elector if the elector wishes to answer the objection; and
 
                      (c)  may be given to the challenged elector by posting it to that elector at:
 
-                              (i)  a place notified by that elector to the Electoral Commissioner as the place to which notices under this Act may be sent;
+                              (i)  a place notified by that elector to the DRO as the place to which notices under this Act may be sent;
 
-                             (ii)  if there is no such place, the place at which the Electoral Commissioner believes the elector to be living; or
+                             (ii)  if there is no such place, the place at which the DRO believes the elector to be living; or
 
                             (iii)  if neither of subparagraphs (i) and (ii) applies, the place shown on the Roll as the elector’s place of residence.
 
-             (3)  If the Electoral Commissioner is satisfied that an objection is frivolous or vexatious, the Electoral Commissioner may dismiss the objection without giving notice to the challenged elector.
+             (3)  If the DRO is satisfied that an objection is frivolous or vexatious, the DRO may dismiss the objection without giving notice to the challenged elector.
 
              (4)  If:
 
@@ -5214,25 +5364,33 @@ between the time the last list was forwarded by the Controller-General under sub
 
                      (b)  the objection is not supported by a certificate of a medical practitioner;
 
-the Electoral Commissioner shall dismiss the objection without giving notice to the challenged elector.
+the DRO shall dismiss the objection without giving notice to the challenged elector.
+
+##### <a id="117"></a>117  Answer to objection
+
+                   The challenged elector may answer an objection:
+
+                     (a)  orally to the DRO at the office of the DRO or by telephone to the DRO; or
+
+                     (b)  in writing.
 
 ##### <a id="118"></a>118  Determination of objection
 
-             (1)  The Electoral Commissioner shall determine an objection as soon as practicable after:
+             (1)  A DRO shall determine an objection as soon as practicable after:
 
-                     (a)  the receipt by the Electoral Commissioner of the answer of the challenged elector; or
+                     (a)  the receipt by the officer of the answer of the challenged elector; or
 
                      (b)  the end of 20 days after the giving of the notice;
 
 whichever is the earlier.
 
-             (2)  Before determining an objection, the Electoral Commissioner may make any inquiries the Electoral Commissioner considers necessary to ascertain the facts in relation to the objection.
+             (2)  Before determining an objection, a DRO may make any inquiries the officer considers necessary to ascertain the facts in relation to the objection.
 
-             (3)  In the case of an objection under subsection 114(1), (1A) or (2), if it appears to the Electoral Commissioner that the challenged elector is not entitled to be enrolled for the relevant Subdivision, the Electoral Commissioner shall remove the elector’s name from the Roll for that Subdivision.
+             (3)  In the case of an objection under subsection 114(1), (1A) or (2), if it appears to the DRO that the challenged elector is not entitled to be enrolled for the relevant Subdivision, the DRO shall remove the elector’s name from the Roll for that Subdivision.
 
-             (4)  The Electoral Commissioner shall not remove an elector’s name from the Roll on the ground specified in paragraph 93(8)(a) unless the objection is accompanied by a certificate of a medical practitioner stating that, in the opinion of the medical practitioner, the elector, because of unsoundness of mind, is incapable of understanding the nature and significance of enrolment and voting.
+             (4)  The DRO shall not remove an elector’s name from the Roll on the ground specified in paragraph 93(8)(a) unless the objection is accompanied by a certificate of a medical practitioner stating that, in the opinion of the medical practitioner, the elector, because of unsoundness of mind, is incapable of understanding the nature and significance of enrolment and voting.
 
-          (4A)  In the case of an objection under subsection 114(1B) or (4), if it appears to the Electoral Commissioner that:
+          (4A)  In the case of an objection under subsection 114(1B) or (4), if it appears to the DRO that:
 
                      (a)  the challenged elector’s name has been placed on the Roll for the relevant Subdivision in respect of a particular address; and
 
@@ -5240,11 +5398,11 @@ whichever is the earlier.
 
                      (c)  the challenged elector is not an Antarctic elector;
 
-the Electoral Commissioner must remove the elector’s name from the Roll for that Subdivision.
+the DRO must remove the elector’s name from the Roll for that Subdivision.
 
-             (5)  The Electoral Commissioner shall not remove an elector’s name from the Roll for a Subdivision in accordance with the requirements of subsection (3) or (4A) during the period between 8 pm on the date of the writ for an election in the Subdivision and the close of the polling at the election.
+             (5)  The DRO shall not remove an elector’s name from the Roll for a Subdivision in accordance with the requirements of subsection (3) or (4A) during the period between 8 pm on the date of the writ for an election in the Subdivision and the close of the polling at the election.
 
-             (6)  The Electoral Commissioner shall give to the objector and to the challenged elector written notice in the approved form of the decision of the Electoral Commissioner on an objection.
+             (6)  The DRO shall give to the objector and to the challenged elector written notice in the approved form of the decision of the DRO on an objection.
 
              (7)  Notice under subsection (6) may be given to the challenged elector by posting it to the elector at the address to which notice of the objection was posted.
 
@@ -5252,117 +5410,127 @@ the Electoral Commissioner must remove the elector’s name from the Roll for th
 
 ## Part X—Review of decisions
 
-##### <a id="120"></a>120  Internal review [_see_ Note 8]
+##### <a id="120"></a>120  Review by Australian Electoral Officer
 
-          (1A)  This section only applies in relation to decisions made by a delegate of the Electoral Commissioner who is not:
+             (1)  Where a Divisional Returning Officer for a Division:
 
-                     (a)  the Deputy Electoral Commissioner; or
+                     (a)  notifies a person under section 102 that a claim by the person for enrolment, for transfer of enrolment or for age 17 enrolment has been rejected; or
 
-                     (b)  an Australian Electoral Officer.
+                     (b)  notifies a person under section 118 that the person’s name has been removed from a Roll in pursuance of an objection;
 
-             (1)  Where:
+the person may, before the expiration of the period of 28 days commencing on the day on which the notification is given, request the Divisional Returning Officer, in writing, to refer the claim or the objection, as the case may be, to the Australian Electoral Officer for the State that includes that Division for review.
 
-                     (a)  a person is notified under section 102 that a claim by the person for enrolment, for transfer of enrolment or for age 16 enrolment has been rejected; or
+             (2)  Where a Divisional Returning Officer for a Division notifies a person who has objected, under section 114, to an enrolment that the objection has been dismissed, the person objecting may, before the expiration of the period of 28 days commencing on the day on which the notification is given, request the Divisional Returning Officer, in writing, to refer the objection to the Australian Electoral Officer for the State that includes that Division for review.
 
-                     (b)  a person is notified under section 118 that the person’s name has been removed from a Roll in pursuance of an objection;
+             (3)  Where a Divisional Returning Officer for a Division:
 
-the person may, before the expiration of the period of 28 days commencing on the day on which the notification is given, apply, in writing, to the Electoral Commissioner for review of the claim or objection, as the case may be.
-
-             (2)  Where a person who has objected to an enrolment is notified, under section 114, that the objection has been dismissed, the person objecting may, before the expiration of the period of 28 days commencing on the day on which the notification is given, apply, in writing, to the Electoral Commissioner for review of the objection.
-
-             (3)  Where:
-
-                    (aa)  a person is notified under subsection 93A(4) or 98A(4) of a decision to refuse to include in a Roll, or to transfer to a Roll, the person’s name; or
+                    (aa)  notifies a person under subsection 93A(4) or 98A(4) that the Divisional Returning Officer has refused to include in a Roll, or transfer to a Roll, the person’s name; or
 
                      (a)  notifies a person under subsection 95(5) that an application made by the person under subsection 95(1) has been refused; or
 
                      (b)  notifies a person under subsection 104(5) that a request made by the person under subsection 104(1) or (2) has been refused; or
 
-                    (ba)  a person is notified under subsection 104(8) of a decision that the person’s address should be entered on a Roll; or
+                    (ba)  notifies a person under subsection 104(8) that the Divisional Returning Officer has decided that the person’s address should be entered on the Roll; or
 
-                    (bb)  a person is notified of a decision made under section 105 to alter any entry in relation to the person on a Roll (including a decision to add or remove a person’s name from the Roll); or
+                    (bb)  notifies a person of a decision made by the Divisional Returning Officer under section 105 to alter any entry in relation to the person on a Roll kept by the officer (including a decision to add or remove a person’s name from the Roll); or
 
-                     (c)  a person is notified under subsection 185(6) that the person has not been registered as a general postal voter; or
+                     (c)  notifies a person under subsection 185(6) that the person has not been registered as a general postal voter; or
 
-                    (ca)  a person is notified under subsection 185C(2) that the registration of the person as a general postal voter has been cancelled;
+                    (ca)  notifies a person under subsection 185C(2) that the registration of the person as a general postal voter has been cancelled;
 
-the person may, before the expiration of the period of 28 days commencing on the day on which the notification is given, apply, in writing, to the Electoral Commissioner for review of:
+the person may, before the expiration of the period of 28 days commencing on the day on which the notification is given, request the Divisional Returning Officer, in writing, to refer:
 
-                     (d)  the decision under section 93A or 98A to refuse to include in a Roll, or transfer to a Roll, the person’s name; or
+                     (d)  the decision by the Divisional Returning Officer under section 93A or 98A to refuse to include in a Roll, or transfer to a Roll, the person’s name; or
 
                      (e)  the application made by the person under subsection 95(1); or
 
                       (f)  the request made by the person under subsection 104(1) or (2); or
 
-                    (fa)  the decision under subsection 104(8) that the person’s address should be entered on the Roll; or
+                    (fa)  the decision by the Divisional Returning Officer under subsection 104(8) that the person’s address should be entered on the Roll; or
 
-                    (fb)  the decision under section 105 to alter the entry on the Roll; or
+                    (fb)  the decision made by the Divisional Returning Officer under section 105 to alter the entry on the Roll; or
 
                      (g)  the application made by the person under subsection 184A(1); or
 
                      (h)  the cancellation of the person’s registration as a general postal voter;
 
-as the case may be.
+as the case may be, to the Australian Electoral Officer for the State that includes that Division for review.
 
-             (4)  After receiving an application under subsection (1), (2) or (3), the Electoral Commissioner must:
+             (4)  Where a Divisional Returning Officer for a Division in a State receives a request under subsection (1), (2) or (3), the officer shall forthwith forward to the Australian Electoral Officer for the State a copy of the request, together with:
 
-                     (a)  personally review the decision (the **_reviewable decision_**) to which the request relates; or
+                     (a)  any relevant application made under subsection 95(1); and
 
-                     (b)  cause the reviewable decision to be reviewed by a person to whom the Commissioner’s powers and functions under this section are delegated and who was not involved in making the reviewable decision.
+                     (b)  any relevant claim form lodged under section 98; and
 
-             (5)  After the person mentioned in paragraph (4)(a) or (b) (the **_reviewer_**) has reviewed the reviewable decision, the reviewer must make a decision (an **_internal review decision_**):
+                     (c)  any relevant notice under section 102; and
 
-                     (a)  confirming the reviewable decision; or
+                     (d)  any relevant request made under subsection 104(1) or (2); and
 
-                     (b)  varying the reviewable decision; or
+                    (da)  a written statement of the reasons for the decision under subsection 104(8) that the person’s address should be entered on the Roll; and
 
-                     (c)  setting aside the reviewable decision and substituting a new decision.
+                    (db)  a written statement of the reasons for the decision under section 105 to alter the entry on the Roll; and
 
-Note:          An internal review decision is reviewable by the Administrative Appeals Tribunal (see section 121). Under the _Administrative Appeals Tribunal Act 1975_, notice must be given to persons whose interests are affected by an internal review decision.
+                     (e)  any relevant objection lodged under section 114; and
 
-             (6)  For the purpose of the review, the reviewer may exercise all the powers and discretions conferred by this Act on the person who made the reviewable decision.
+                      (f)  any relevant notice given under section 116; and
+
+                     (g)  any relevant answer to an objection under section 117; and
+
+                     (h)  any relevant notice given under section 117; and
+
+                      (j)  any relevant application made under section 184A, and a written statement of the reasons for not registering the person as a general postal voter; and
+
+                     (ja)  if the request relates to the cancellation of the registration of a person as a general postal voter, a written statement of the reasons for the cancellation; and
+
+                     (k)  such other information as the officer thinks relevant to the review of the claim or objection, as the case may be.
+
+             (5)  Where an Australian Electoral Officer receives a copy of a request under subsection (4), the Australian Electoral Officer shall, without delay, review the decision of the Divisional Returning Officer to which the request relates.
+
+             (6)  For the purpose of reviewing a decision made by a Divisional Returning Officer, the Australian Electoral Officer may exercise all of the powers and discretions that are conferred by this Act on the Divisional Returning Officer and shall make a decision in writing:
+
+                     (a)  affirming the decision under review; or
+
+                     (b)  setting aside the decision under review and making a decision in substitution for the decision so set aside.
+
+             (7)  Where an Australian Electoral Officer makes a decision under subsection (6) in relation to a request made under subsection (1), (2) or (3), the officer shall cause a copy of the decision to be given to:
+
+                     (a)  the person who made the request;
+
+                     (b)  the Divisional Returning Officer in relation to whose decision the request was made;
+
+                     (c)  in a case where an objector made the request in relation to a decision upon an objection—the person objected to; and
+
+                     (d)  in a case where a person objected to made the request in relation to a decision upon an objection—the objector.
+
+             (8)  Where an Australian Electoral Officer causes a copy of a decision made under subsection (6) to be given to a person under subsection (7), the copy shall be accompanied by a written statement to the effect that a person whose interests are affected by the decision may, subject to the _Administrative Appeals Tribunal Act 1975_, if the person is dissatisfied with the decision, make an application to the Administrative Appeals Tribunal for review of the decision.
+
+             (9)  Any failure to comply with the requirement of subsection (8) in relation to a decision does not affect the validity of the decision.
 
 ##### <a id="121"></a>121  Review by Administrative Appeals Tribunal
 
-          (1A)  Except for decisions described in paragraph (1)(k), this section only applies in relation to:
-
-                     (a)  a decision made by the Electoral Commissioner personally; or
-
-                     (b)  a decision made by a delegate of the Electoral Commissioner who is:
-
-                              (i)  the Deputy Electoral Commissioner; or
-
-                             (ii)  an Australian Electoral Officer.
-
              (1)  Application may be made to the Administrative Appeals Tribunal for review of:
 
-                     (a)  a decision under section 93A or 98A to refuse to include in a Roll, or transfer to a Roll, a person’s name; or
+                     (a)  a decision made by an Australian Electoral Officer refusing an application made under subsection 94A(1) or 96(1); or
 
-                     (b)  a decision to refuse an application made under subsection 94A(1), 95(1) or 96(1); or
+                     (b)  a decision made by an Australian Electoral Officer under subsection 120(6); or
 
-                     (c)  a decision under section 102 to reject a claim for enrolment, for transfer of enrolment or for age 16 enrolment; or
+                     (c)  a decision made by an Australian Electoral Officer under section 93A or 98A to refuse to include in a Roll, or transfer to a Roll, the person’s name; or
 
-                     (d)  a decision to refuse a request made under subsection 104(1) or (2); or
-
-                     (e)  a decision under subsection 104(8) that a person’s address should be entered on a Roll; or
-
-                      (f)  a decision under section 105 to alter a Roll (including a decision to add or remove a person’s name from the Roll); or
-
-                     (g)  a decision under section 118 to dismiss an objection; or
-
-                     (h)  a decision under section 118 to remove a person’s name from a Roll pursuant to an objection; or
-
-                      (i)  a decision to refuse an application made under subsection 184A(1); or
-
-                      (j)  a decision to cancel a person’s registration as a general postal voter; or
-
-                     (k)  an internal review decision made under subsection 120(5).
+                     (d)  a decision made by a Divisional Returning Officer under section 105 to alter a Roll kept by the officer (including a decision to add or remove a person’s name from the Roll).
 
              (2)  In this section, **_decision_** has the same meaning as it has in the _Administrative Appeals Tribunal Act 1975_.
 
-##### <a id="122"></a>122  Application of Part to Australian Capital Territory and Northern Territory
+##### <a id="122"></a>122  Application of Part
 
-                   This Part applies in relation to the Australian Capital Territory or the Northern Territory as if references in this Part to a State were references to that Territory.
+             (1)  This Part applies in relation to the Australian   Capital Territory as if:
+
+                     (a)  references in the preceding sections of this Part to a State were references to the Australian Capital   Territory; and
+
+                     (b)  references in the preceding sections of this Part to an Australian Electoral Officer were references to the Electoral Commissioner.
+
+          (1A)  This Part applies to the Northern Territory as if the Territory were a State.
+
+             (2)  This Part applies in relation to a Subdivision in relation to which an Assistant Divisional Returning Officer is appointed as if references in this Part, in relation to a Subdivision, to a Divisional Returning Officer were references to an Assistant Divisional Returning Officer.
 
 ## Part XI—Registration of political parties
 
@@ -5371,6 +5539,8 @@ Note:          An internal review decision is reviewable by th
              (1)  In this Part, unless the contrary intention appears:
 
                     <a name="address"></a>**_address_** does not include a postal address that consists of a post office box number.
+
+                    <a name="commiss"></a>**_Commission_** means the Electoral Commission.
 
                     <a name="elig-polit-parti"></a>**_eligible political party_** means a political party that:
 
@@ -5404,11 +5574,11 @@ Note:          An internal review decision is reviewable by th
 
 ##### <a id="125"></a>125  Register of Political Parties
 
-                   The Electoral Commission shall establish and maintain a Register, to be known as the Register of Political Parties, containing a list of the political parties that are registered under this Part.
+                   The Commission shall establish and maintain a Register, to be known as the Register of Political Parties, containing a list of the political parties that are registered under this Part.
 
 ##### <a id="126"></a>126  Application for registration
 
-             (1)  An application for the registration of an eligible political party may be made to the Electoral Commission by:
+             (1)  An application for the registration of an eligible political party may be made to the Commission by:
 
                      (a)  in the case of a Parliamentary party:
 
@@ -5446,21 +5616,21 @@ makes an application for the registration of another party, the Commission must 
 
           (2A)  Two or more parties cannot rely on the same member for the purpose of qualifying or continuing to qualify as an eligible political party.  The following provisions apply accordingly:
 
-                     (a)  a member who is relied on by 2 or more parties may nominate the party entitled to rely on the member, but if a party is not nominated after the Electoral Commission has given the member at least 30 days to do so, the member is not entitled to be relied on by any of those parties;
+                     (a)  a member who is relied on by 2 or more parties may nominate the party entitled to rely on the member, but if a party is not nominated after the Commission has given the member at least 30 days to do so, the member is not entitled to be relied on by any of those parties;
 
                      (b)  the members on whom a registered party relies may be changed at any time by an amendment of the Register of Political Parties;
 
-                     (c)  the registration of a party is not to be cancelled because of this subsection unless the Electoral Commission has taken action to determine whether the party should be deregistered because of paragraph 137(1)(a), (b) or (c).
+                     (c)  the registration of a party is not to be cancelled because of this subsection unless the Commission has taken action to determine whether the party should be deregistered because of paragraph 137(1)(a), (b) or (c).
 
-             (3)  Upon receipt of an application for the registration of a political party, the Electoral Commission shall deal with the application in accordance with this Part and determine whether the party can be registered.
+             (3)  Upon receipt of an application for the registration of a political party, the Commission shall deal with the application in accordance with this Part and determine whether the party can be registered.
 
 ##### <a id="127"></a>127  Party not to be registered during election
 
-                   During the period commencing on the day of the issue of the writ for a Senate election or a House of Representatives election and ending on the day on which the writ is returned, no action shall be taken in relation to any application for the registration of a political party, including any action by the Administrative Appeals Tribunal in respect of a decision of the Electoral Commission that relates to such an application.
+                   During the period commencing on the day of the issue of the writ for a Senate election or a House of Representatives election and ending on the day on which the writ is returned, no action shall be taken in relation to any application for the registration of a political party, including any action by the Administrative Appeals Tribunal in respect of a decision of the Commission that relates to such an application.
 
 ##### <a id="129"></a>129  Parties with certain names not to be registered
 
-             (1)  The Electoral Commission shall refuse an application for the registration of a political party if, in its opinion, the name of the party or the abbreviation of its name that it wishes to be able to use for the purposes of this Act (if any):
+             (1)  The Commission shall refuse an application for the registration of a political party if, in its opinion, the name of the party or the abbreviation of its name that it wishes to be able to use for the purposes of this Act (if any):
 
                      (a)  comprises more than 6 words;
 
@@ -5490,15 +5660,15 @@ makes an application for the registration of another party, the Commission must 
 
 ##### <a id="130"></a>130  Different levels of party may be registered
 
-                   The Electoral Commission may register an eligible political party notwithstanding that a political party that is related to it has been registered.
+                   The Commission may register an eligible political party notwithstanding that a political party that is related to it has been registered.
 
 ##### <a id="131"></a>131  Variation of application
 
-             (1)  Where, after initial consideration of an application for the registration of a political party, the Electoral Commission is of the opinion that it is required to refuse the application but that the applicant or applicants might be prepared to vary the application in such a way that it would not be so required, the Commission shall give the applicant or applicants written notice that it is of that opinion, setting out the reasons for its opinion and the terms of the provisions of subsections (2) and (3).
+             (1)  Where, after initial consideration of an application for the registration of a political party, the Commission is of the opinion that it is required to refuse the application but that the applicant or applicants might be prepared to vary the application in such a way that it would not be so required, the Commission shall give the applicant or applicants written notice that it is of that opinion, setting out the reasons for its opinion and the terms of the provisions of subsections (2) and (3).
 
-             (2)  Where notice is given under subsection (1) in relation to an application, the Electoral Commission is not required to give further consideration to the application unless and until notice is lodged with it under subsection (3).
+             (2)  Where notice is given under subsection (1) in relation to an application, the Commission is not required to give further consideration to the application unless and until notice is lodged with it under subsection (3).
 
-             (3)  Where notice is given under subsection (1) in relation to an application for the registration of a political party, the applicant or applicants may lodge with the Electoral Commission a written request, signed by the applicant or applicants, to:
+             (3)  Where notice is given under subsection (1) in relation to an application for the registration of a political party, the applicant or applicants may lodge with the Commission a written request, signed by the applicant or applicants, to:
 
                      (a)  vary the application in a manner specified in the request; or
 
@@ -5512,7 +5682,7 @@ and the Commission shall comply with the request.
 
              (1)  If:
 
-                     (a)  an application for registration is lodged with the Electoral Commission; and
+                     (a)  an application for registration is lodged with the Commission; and
 
                      (b)  the Commission does not give a notice under subsection 131(1) in respect of that application;
 
@@ -5530,21 +5700,21 @@ the Commission must, as soon as practicable, publish in the _Gazette_ and in eac
 
                             (iv)  should be refused under section 129;
 
-                            to submit written particulars of the grounds for that belief to the Electoral Commission within 1 month after the date of the publication of the notice in the _Gazette_.
+                            to submit written particulars of the grounds for that belief to the Commission within 1 month after the date of the publication of the notice in the _Gazette_.
 
              (3)  Particulars submitted by a person under subsection (2) shall be signed by, and specify an address of, that person.
 
-             (4)  Particulars submitted under paragraph (2)(b) shall, as soon as practicable, be made available at the principal office of the Electoral Commission in Canberra for inspection by members of the public.
+             (4)  Particulars submitted under paragraph (2)(b) shall, as soon as practicable, be made available at the principal office of the Commission in Canberra for inspection by members of the public.
 
-             (5)  The Electoral Commission shall:
+             (5)  The Commission shall:
 
                      (a)  give a copy of all of the particulars (if any) submitted under paragraph (2)(b) to the person who is to be the registered officer of the party concerned; and
 
                      (b)  at the same time, give to the person a notice inviting the person to submit a reply to the particulars to the Commission within the time specified in the notice.
 
-             (6)  A reply submitted under subsection (5) shall, as soon as practicable, be made available at the principal office of the Electoral Commission in Canberra for inspection by members of the public.
+             (6)  A reply submitted under subsection (5) shall, as soon as practicable, be made available at the principal office of the Commission in Canberra for inspection by members of the public.
 
-             (7)  The Electoral Commission shall not register a political party unless:
+             (7)  The Commission shall not register a political party unless:
 
                      (a)  it has published notice of the application for registration in accordance with this section;
 
@@ -5558,9 +5728,9 @@ the Commission must, as soon as practicable, publish in the _Gazette_ and in eac
 
                      (d)  the Commission has considered those particulars (if any) and any reply to the particulars.
 
-##### <a id="132A"></a>132A  Electoral Commission to give reasons for decisions under this Part
+##### <a id="132A"></a>132A  Commission to give reasons for decisions under this Part
 
-             (1)  The Electoral Commission must:
+             (1)  The Commission must:
 
                      (a)  give the parties to an application under section 126 written notice of the reasons for its decision in relation to the application if it decides not to register the party concerned; and
 
@@ -5574,7 +5744,7 @@ the Commission must, as soon as practicable, publish in the _Gazette_ and in eac
 
 ##### <a id="133"></a>133  Registration
 
-             (1)  Where the Electoral Commission determines that a political party an application for the registration of which has been made should be registered, it shall:
+             (1)  Where the Commission determines that a political party an application for the registration of which has been made should be registered, it shall:
 
                      (a)  register the party by entering in the Register:
 
@@ -5594,11 +5764,11 @@ the Commission must, as soon as practicable, publish in the _Gazette_ and in eac
 
              (2)  Where a statement is entered in the Register that a political party wishes to receive moneys under Division 3 of Part XX, that party shall, for the purposes of Part XX, be taken to have been registered for public funding.
 
-             (3)  Where the Electoral Commission determines that an application for the registration of a political party should be refused, it shall give the applicant or applicants written notice that it has refused the application, setting out the reasons for its so refusing.
+             (3)  Where the Commission determines that an application for the registration of a political party should be refused, it shall give the applicant or applicants written notice that it has refused the application, setting out the reasons for its so refusing.
 
 ##### <a id="134"></a>134  Changes to Register
 
-             (1)  Where a political party is registered under this Part, an application may be made to the Electoral Commission, by:
+             (1)  Where a political party is registered under this Part, an application may be made to the Commission, by:
 
                      (a)  in the case of a Parliamentary party—either the secretary of the party or all the members of the Commonwealth Parliament who are members of, or the member of that Parliament who is a member of, the party; or
 
@@ -5616,7 +5786,7 @@ to change the Register by:
 
                      (g)  substituting for the name of the registered officer entered in the Register the name of a person specified in the application.
 
-          (1A)  Where a political party is registered under this Part, the registered officer of the party may apply to the Electoral Commission to change the Register by substituting for the address of the registered officer entered in the Register the address specified in the application.
+          (1A)  Where a political party is registered under this Part, the registered officer of the party may apply to the Commission to change the Register by substituting for the address of the registered officer entered in the Register the address specified in the application.
 
              (2)  An application under subsection (1):
 
@@ -5630,7 +5800,7 @@ to change the Register by:
 
           (2A)  An application under subsection (1A) shall be signed by the applicant.
 
-             (3)  Upon receipt of an application under subsection (1) or (1A), the Electoral Commission shall deal with the application in accordance with this Part and determine whether the change requested in the application should be made.
+             (3)  Upon receipt of an application under subsection (1) or (1A), the Commission shall deal with the application in accordance with this Part and determine whether the change requested in the application should be made.
 
              (4)  In respect of an application under subsection (1) for a change referred to in paragraph (1)(c), (d) or (e), sections 127, 129, 131 and 132 apply in relation to the application as if:
 
@@ -5640,13 +5810,13 @@ to change the Register by:
 
                      (c)  a reference in subparagraph 132(2)(b)(ii) to section 126 were a reference to this section.
 
-             (5)  Where an application under subsection (1) to substitute the name of a person for the name of the registered officer of a political party is not signed by the registered officer, the Electoral Commission shall:
+             (5)  Where an application under subsection (1) to substitute the name of a person for the name of the registered officer of a political party is not signed by the registered officer, the Commission shall:
 
                      (a)  give the registered officer written notice of the application for the change and invite the registered officer, if he or she considers that there are reasons why the change should not be made, to submit written particulars of those reasons to the Commission within 7 days after the date on which the notice was given; and
 
                      (b)  consider any particulars submitted in response to the invitation referred to in paragraph (a).
 
-             (6)  Where the Electoral Commission determines that an application under subsection (1) or (1A) should be granted, it shall:
+             (6)  Where the Commission determines that an application under subsection (1) or (1A) should be granted, it shall:
 
                      (a)  change the Register accordingly;
 
@@ -5658,9 +5828,9 @@ to change the Register by:
 
                      (e)  publish in the _Gazette_ notice of the change.
 
-             (7)  Where the Electoral Commission determines that an application under subsection (1) or (1A) should be refused it shall give the applicant or applicants written notice that it has so determined.
+             (7)  Where the Commission determines that an application under subsection (1) or (1A) should be refused it shall give the applicant or applicants written notice that it has so determined.
 
-             (8)  The Electoral Commission must:
+             (8)  The Commission must:
 
                      (a)  give an applicant who makes an application under subsection (1) to change the Register in the way referred to in paragraph (1)(c), (d) or (e) written notice of the reasons for its decision in relation to the application if it refuses to grant the application; and
 
@@ -5672,7 +5842,7 @@ to change the Register by:
 
                     (aa)  one registered political party (the **_parent party_**) was registered under section 126 before another registered party (the **_second party_**); and
 
-                     (a)  the Electoral Commission is satisfied that:
+                     (a)  the Commission is satisfied that:
 
                               (i)  the name of the parent party is the same as, or relevantly similar to, the name of the second party and the parties are not related at the time of the objection; or
 
@@ -5692,9 +5862,9 @@ the Commission must:
 
                              (ii)  it makes such an application, but the application is refused.
 
-             (2)  For the purposes of paragraph (1)(a), the name of a party is **_relevantly similar_** to the name of another party if, in the opinion of the Electoral Commission, the name so nearly resembles the name of the other party that it is likely to be confused with or mistaken for that name.
+             (2)  For the purposes of paragraph (1)(a), the name of a party is **_relevantly similar_** to the name of another party if, in the opinion of the Commission, the name so nearly resembles the name of the other party that it is likely to be confused with or mistaken for that name.
 
-          (2A)  The Electoral Commission must:
+          (2A)  The Commission must:
 
                      (a)  give the parties to an objection under this section written notice of the reasons for its decision in relation to the objection if it upholds the objection; and
 
@@ -5716,7 +5886,7 @@ the Commission must:
 
 ##### <a id="135"></a>135  Voluntary deregistration
 
-             (1)  A political party that is registered under this Part shall be deregistered by the Electoral Commission if an application to do so is made to the Commission by a person or persons who are entitled to make an application for a change to the Register under section 134 in relation to the party.
+             (1)  A political party that is registered under this Part shall be deregistered by the Commission if an application to do so is made to the Commission by a person or persons who are entitled to make an application for a change to the Register under section 134 in relation to the party.
 
              (2)  An application under subsection (1) shall:
 
@@ -5740,7 +5910,7 @@ the Commission must:
 
                              (ii)  the party has fewer than 500 members.
 
-          (1A)  If a party becomes liable to deregistration, the Electoral Commission shall:
+          (1A)  If a party becomes liable to deregistration, the Commission shall:
 
                      (a)  deregister the party;
 
@@ -5754,7 +5924,7 @@ the Commission must:
 
 ##### <a id="137"></a>137  Deregistration of political party on other grounds
 
-             (1)  If the Electoral Commission is satisfied on reasonable grounds that:
+             (1)  If the Commission is satisfied on reasonable grounds that:
 
                      (a)  a political party registered under this Part has ceased to exist (whether by amalgamation with another political party or otherwise); or
 
@@ -5776,15 +5946,15 @@ the Commission shall:
 
                      (e)  publish a notice in the _Gazette_ that it is considering deregistering the party under this section, specifying the paragraph of this subsection by reason of which it is considering doing so.
 
-             (2)  Where a notice is given under paragraph (1)(d) in relation to a political party, the registered officer of the party or 10 members of the party may, within 1 month after the date on which the notice was given, lodge with the Electoral Commission a statement, in writing, signed by the registered officer or by those members of the party, as the case may be, setting out reasons why the party should not be deregistered under this section.
+             (2)  Where a notice is given under paragraph (1)(d) in relation to a political party, the registered officer of the party or 10 members of the party may, within 1 month after the date on which the notice was given, lodge with the Commission a statement, in writing, signed by the registered officer or by those members of the party, as the case may be, setting out reasons why the party should not be deregistered under this section.
 
              (3)  Where a statement lodged under subsection (2) is signed by 10 members of a political party, the statement shall set out the names and addresses of those members and contain a statement that they are members of that party.
 
-             (4)  Where a notice is given under paragraph (1)(d) in relation to a political party and a statement is not lodged under subsection (2) in response to that notice, the Electoral Commission shall deregister the party and publish a notice of the deregistration in the _Gazette_.
+             (4)  Where a notice is given under paragraph (1)(d) in relation to a political party and a statement is not lodged under subsection (2) in response to that notice, the Commission shall deregister the party and publish a notice of the deregistration in the _Gazette_.
 
-             (5)  Where, in response to a notice given under paragraph (1)(d) in relation to a political party, a statement is lodged under subsection (2), the Electoral Commission shall consider that statement and determine whether the political party should be deregistered for the reason set out in that notice.
+             (5)  Where, in response to a notice given under paragraph (1)(d) in relation to a political party, a statement is lodged under subsection (2), the Commission shall consider that statement and determine whether the political party should be deregistered for the reason set out in that notice.
 
-             (6)  Where, under subsection (5), the Electoral Commission determines that a political party should be deregistered, it shall:
+             (6)  Where, under subsection (5), the Commission determines that a political party should be deregistered, it shall:
 
                      (a)  deregister the party;
 
@@ -5792,11 +5962,11 @@ the Commission shall:
 
                      (c)  publish a notice of the deregistration in the _Gazette_.
 
-             (7)  Where, under subsection (5), the Electoral Commission determines that a political party should not be deregistered under this section, it shall give the registered officer of the party written notice of its determination.
+             (7)  Where, under subsection (5), the Commission determines that a political party should not be deregistered under this section, it shall give the registered officer of the party written notice of its determination.
 
 ##### <a id="138"></a>138  Deregistration
 
-                   Where a political party is deregistered under section 135, 136 or 137, the Electoral Commission shall cause the particulars on the Register that relate to that party to be cancelled.
+                   Where a political party is deregistered under section 135, 136 or 137, the Commission shall cause the particulars on the Register that relate to that party to be cancelled.
 
 ##### <a id="138A"></a>138A  Review of eligibility of parties to remain in the Register
 
@@ -5822,11 +5992,11 @@ Note:          A failure to comply with the notice may lead to
 
 ##### <a id="139"></a>139  Inspection of Register
 
-                   The Register shall be open for public inspection, without fee, during ordinary office hours at the principal office of the Electoral Commission in Canberra.
+                   The Register shall be open for public inspection, without fee, during ordinary office hours at the principal office of the Commission in Canberra.
 
 ##### <a id="140"></a>140  Service of documents
 
-             (1)  Where the Electoral Commission is required by this Part to give a written notice to:
+             (1)  Where the Commission is required by this Part to give a written notice to:
 
                      (a)  an applicant or applicants for registration;
 
@@ -5852,21 +6022,21 @@ that notice shall be given by being posted by pre-paid post as a letter addresse
 
 as the case may be.
 
-             (2)  Where a person is, or persons are, entitled by this Part to make an application to the Electoral Commission, the person or persons shall do so by causing the application to be lodged at the principal office of the Commission in Canberra, in the capital city of a State or in Darwin.
+             (2)  Where a person is, or persons are, entitled by this Part to make an application to the Commission, the person or persons shall do so by causing the application to be lodged at the principal office of the Commission in Canberra, in the capital city of a State or in Darwin.
 
-             (3)  Where a person is, or persons are, entitled by this Part to lodge a document (other than an application) with the Electoral Commission, the person or persons shall do so by causing the documents to be lodged at the principal office of the Commission in Canberra.
+             (3)  Where a person is, or persons are, entitled by this Part to lodge a document (other than an application) with the Commission, the person or persons shall do so by causing the documents to be lodged at the principal office of the Commission in Canberra.
 
 ##### <a id="141"></a>141  Review of certain decisions
 
              (1)  In this section:
 
-                    <a name="decision"></a>**_decision_** has the same meaning as it has in the _Administrative Appeals Tribunal Act 1975_.
+                    <a name="commiss"></a>**_Commission_** does not include a delegate of the Commission.
 
-                    <a name="elector-commiss"></a>**_Electoral Commission_** does not include a delegate of the Electoral Commission.
+                    <a name="decision"></a>**_decision_** has the same meaning as it has in the _Administrative Appeals Tribunal Act 1975_.
 
                     <a name="person"></a>**_person_** includes a political party.
 
-                    <a name="review-decision"></a>**_reviewable decision_** means a decision of the Electoral Commission, or of a delegate of the Electoral Commission:
+                    <a name="review-decision"></a>**_reviewable decision_** means a decision of the Commission, or of a delegate of the Commission:
 
                      (a)  to register a political party under this Part; or
 
@@ -5882,11 +6052,11 @@ as the case may be.
 
                      (e)  to deregister a political party under subsection 137(6).
 
-             (2)  Where a delegate of the Electoral Commission makes a reviewable decision, a person affected by the decision who is dissatisfied with the decision may, within the period of 28 days after the day on which the decision first comes to the notice of the person, or within such further period as the Commission (either before or after the expiration of that period) allows, make a written application to the Commission for the review of the decision by the Commission, specifying in the application an address of the applicant.
+             (2)  Where a delegate of the Commission makes a reviewable decision, a person affected by the decision who is dissatisfied with the decision may, within the period of 28 days after the day on which the decision first comes to the notice of the person, or within such further period as the Commission (either before or after the expiration of that period) allows, make a written application to the Commission for the review of the decision by the Commission, specifying in the application an address of the applicant.
 
              (3)  There shall be set out in the application under subsection (2) the reasons for making the application.
 
-             (4)  Upon the receipt of an application under subsection (2) for the review of a reviewable decision, the Electoral Commission shall review that decision and shall make a decision:
+             (4)  Upon the receipt of an application under subsection (2) for the review of a reviewable decision, the Commission shall review that decision and shall make a decision:
 
                      (a)  affirming the decision under review;
 
@@ -5894,25 +6064,25 @@ as the case may be.
 
                      (c)  setting aside the decision under review and making a decision in substitution for the decision so set aside.
 
-             (5)  Application may be made to the Administrative Appeals Tribunal for review of a reviewable decision made by the Electoral Commission or a decision under subsection (2) or (4).
+             (5)  Application may be made to the Administrative Appeals Tribunal for review of a reviewable decision made by the Commission or a decision under subsection (2) or (4).
 
              (6)  For the purposes of a review referred to in subsection (5), the Administrative Appeals Tribunal is to be constituted by 3 members, at least one of whom is a Judge of the Federal Court of Australia.
 
           (6A)  Subsection 21(1AA) of the _Administrative Appeals Tribunal Act 1975_ does not apply in relation to a review referred to in subsection (5) of this section.
 
-             (7)  Where the Electoral Commission makes a decision under subsection (4), it shall give written notice of that decision to:
+             (7)  Where the Commission makes a decision under subsection (4), it shall give written notice of that decision to:
 
                      (a)  the person, or each person, to whom written notice of the reviewable decision to which the decision of the Commission relates was given under this Part; and
 
                      (b)  the person who made the application for the review of that reviewable decision.
 
-             (8)  Where a delegate of the Electoral Commission makes a reviewable decision, a written notice of the decision given to a person or persons under this Part shall include a statement to the effect that:
+             (8)  Where a delegate of the Commission makes a reviewable decision, a written notice of the decision given to a person or persons under this Part shall include a statement to the effect that:
 
                      (a)  a person affected by the decision may, if dissatisfied with the decision, seek a review of the decision by the Commission in accordance with subsection (2); and
 
                      (b)  a person whose interests are affected by the decision may, subject to the _Administrative Appeals Tribunal Act 1975_, if dissatisfied with a decision made by the Commission upon that review make application to the Administrative Appeals Tribunal for review of the decision made by the Commission.
 
-             (9)  Where the Electoral Commission makes a reviewable decision or a decision under subsection (2) or (4), a written notice of the decision given to a person or persons under this Part shall include a statement to the effect that a person whose interests are affected by the decision may, subject to the _Administrative Appeals Tribunal Act 1975_, if dissatisfied with the decision, make an application to the Administrative Appeals Tribunal for review of the decision.
+             (9)  Where the Commission makes a reviewable decision or a decision under subsection (2) or (4), a written notice of the decision given to a person or persons under this Part shall include a statement to the effect that a person whose interests are affected by the decision may, subject to the _Administrative Appeals Tribunal Act 1975_, if dissatisfied with the decision, make an application to the Administrative Appeals Tribunal for review of the decision.
 
            (10)  Any failure to comply with the requirement of subsection (8) or (9) in relation to a decision does not affect the validity of the decision.
 
@@ -6088,7 +6258,7 @@ each of those nominations is invalid.
 
 ##### <a id="166"></a>166  Mode of nomination
 
-             (1)  Subject to subsections (1A), (1AA), (1B) and (1C), a nomination may be in Form C, CA, CB, CC, D or DA in the Schedule, as the case requires, and shall:
+             (1)  Subject to subsections (1A), (1B) and (1C), a nomination may be in Form C, CA, CB, CC, D or DA in the Schedule, as the case requires, and shall:
 
                      (a)  set out the name, place of residence and occupation of the candidate or each candidate; and
 
@@ -6109,10 +6279,6 @@ each of those nominations is invalid.
                      (b)  the candidate’s name is, under subsection 99(4), enrolled on the Roll for any Subdivision of a Division of the State or Territory that he or she represents or represented;
 
 the candidate may set out in his or her nomination the address recorded in that enrolment rather than his or her place of residence.
-
-       (1AA)  For a House of Representatives election for a particular Division, the registered officer of a particular registered political party must not sign nominations under subparagraph 166(1)(b)(ii) for that election for more than one candidate.
-
-Note:          This does not prevent an amendment of a nomination under section 177 (withdrawal of consent to a nomination) or 180 (death of candidate after nomination).
 
           (1B)  Where:
 
@@ -6320,19 +6486,7 @@ in legal tender or in a cheque drawn by a bank or other financial institution on
 
 ##### <a id="172"></a>172  Rejection of nominations and requests
 
-             (1)  Subject to subsections (1A) and (2), a nomination shall be rejected by the officer to whom it is made if, and only if, the provisions of section 166, 167, 170 or 171 have not been complied with in relation to the nomination.
-
-          (1A)  If:
-
-                     (a)  contrary to subsection 166(1AA), the registered officer of a party signs nominations for 2 or more candidates (the **_same Division candidates_**) for a single Division; and
-
-                     (b)  the same Division candidates are nominated by the registered officer under subsection 167(3) together with a number of other candidates for other Divisions;
-
-then:
-
-                     (c)  the nomination of the same Division candidates must be rejected; but
-
-                     (d)  the nomination of the other candidates must not be rejected merely because subsection 166(1AA) was not complied with in relation to the same Division candidates.
+             (1)  Subject to subsection (2), a nomination shall be rejected by the officer to whom it is made if, and only if, the provisions of section 166, 167, 170 or 171 have not been complied with in relation to the nomination.
 
              (2)  No nomination shall be rejected by reason of any formal defect or error in the nomination if the officer to whom the nomination is made is satisfied that the provisions of sections 166, 167, 170 and 171 have been substantially complied with.
 
@@ -6540,7 +6694,7 @@ An amendment must be in the approved form and signed by the registered officer.
 
 ##### <a id="184A"></a>184A  Application for registration as general postal voter
 
-             (1)  An elector may apply to the Electoral Commissioner for registration as a general postal voter for a Division.
+             (1)  An elector may apply to the appropriate DRO for registration as a general postal voter.
 
              (2)  An application shall be made on one of the following grounds:
 
@@ -6552,7 +6706,7 @@ An amendment must be in the approved form and signed by the registered officer.
 
                      (b)  the applicant:
 
-                              (i)  is a patient at a hospital (other than a hospital that is a polling place); and
+                              (i)  is a patient at a hospital (other than a special hospital or a hospital that is a polling place); and
 
                              (ii)  because of serious illness or infirmity, is unable to travel from the hospital to a polling place;
 
@@ -6596,39 +6750,41 @@ An amendment must be in the approved form and signed by the registered officer.
 
 ##### <a id="184B"></a>184B  Register of General Postal Voters
 
-             (1)  The Electoral Commissioner must, for each Division, keep a Register of General Postal Voters for the Division.
+             (1)  The DRO for a Division shall keep a Register of General Postal Voters in respect of the Division.
 
-             (2)  The Register for a Division must be available for inspection, without fee, by members of the public at the office of the DRO for the Division during ordinary office hours.
+             (2)  The Register shall be available at the office of the DRO during ordinary office hours for inspection, without fee, by members of the public.
 
 ##### <a id="185"></a>185  Registration as general postal voter
 
-             (1)  Subject to subsection (1A), if the Electoral Commissioner is satisfied that an application has been made in accordance with section 184A, the Electoral Commissioner must register the applicant as a general postal voter for the Division to which the application relates.
+             (1)  Subject to subsection (1A), if the DRO to whom an application has been made is satisfied that the application has been made in accordance with section 184A, the DRO shall register the applicant as a general postal voter.
 
-          (1A)  If, as permitted by subsection 184A(5), an elector applies to be registered as a general postal voter on the ground referred to in paragraph 184A(2)(i) or (j) before he or she has left Australia, the Electoral Commissioner must not register the applicant as a general postal voter until the Electoral Commissioner believes, on reasonable grounds, that the elector has left Australia.
+          (1A)  If, as permitted by subsection 184A(5), an elector applies to be registered as a general postal voter on the ground referred to in paragraph 184A(2)(i) or (j) before he or she has left Australia, the DRO to whom the application is made must not register the applicant as a general postal voter until the DRO believes, on reasonable grounds, that the elector has left Australia.
 
-          (1B)  For the purposes of subsection (1A), in considering whether he or she believes, on reasonable grounds, that an elector has left Australia, the Electoral Commissioner:
+          (1B)  For the purposes of subsection (1A), in considering whether he or she believes, on reasonable grounds, that an elector has left Australia, the DRO:
 
                      (a)  may have regard to information included in the elector’s application relating to his or her likely date of departure; and
 
-                     (b)  is not required to obtain, or have regard to, other information, but may obtain, and have regard to, other information if the Electoral Commissioner considers it appropriate to do so.
+                     (b)  is not required to obtain, or have regard to, other information, but may obtain, and have regard to, other information if the DRO considers it appropriate to do so.
 
-             (2)  If:
+             (2)  Where:
 
-                     (a)  a claim for enrolment or transfer of enrolment is made to the Electoral Commissioner; and
+                     (a)  a claim for enrolment or transfer of enrolment is made to the appropriate DRO;
 
                      (b)  the claim is signed under subsection 98(3); and
 
-                     (c)  the claim indicates that the claimant wishes to be registered as a general postal voter for a Division;
+                     (c)  the claim indicates that the claimant wishes to be registered as a general postal voter;
 
-the Electoral Commissioner must register the claimant as a general postal voter for the Division.
+the DRO shall register the claimant as a general postal voter.
 
-             (3)  If an elector who is registered as a general postal voter for a Division (in this subsection called the **_original Division_**) makes a claim for transfer of enrolment to another Division (the **_new Division_**), the Electoral Commissioner must:
+             (3)  Where an elector who is registered as a general postal voter for a Division (in this subsection called the **_original Division_**) makes a claim for transfer of enrolment to another Division (the **_new Division_**), the matter shall be dealt with as follows:
 
-                     (a)  cancel the registration of the elector as a general postal voter for the original Division; and
+                     (a)  when notified of the transfer of enrolment, the DRO for the original Division shall notify the DRO for the new Division that the elector was so registered;
 
-                     (b)  except in the case of an elector whose address has been excluded from the Roll under section 104—register the elector as a general postal voter for the new Division, unless the Electoral Commissioner is satisfied that the elector would not be entitled to registration on application under subsection 184A(1).
+                     (b)  the DRO for the original Division shall cancel the registration of the elector; and
 
-             (4)  Registration of an elector as a general postal voter for a Division is effected by entering in the Register for the Division the following particulars of the elector:
+                     (c)  except in the case of an elector whose address has been excluded from the Roll under section 104, the DRO for the new Division shall register the elector unless the DRO is satisfied that the elector would not be entitled to registration on application under subsection 184A(1).
+
+             (4)  Registration of an elector as a general postal voter for a Division is effected by entering in the Register the following particulars of the elector:
 
                      (a)  full name;
 
@@ -6636,7 +6792,7 @@ the Electoral Commissioner must register the claimant as a general postal voter 
 
                      (c)  such other particulars (if any) as the Electoral Commission determines.
 
-          (4A)  Nothing in paragraphs (4)(b) and (c) allows or requires the Electoral Commissioner to include in the Register for a Division information that the Electoral Commissioner is aware  would or might enable any of the following to be ascertained:
+          (4A)  Nothing in paragraphs (4)(b) and (c) allows or requires a DRO to include in the Register information that the DRO is aware  would or might enable any of the following to be ascertained:
 
                      (a)  the fact that a particular person has been, is or will be serving outside Australia as:
 
@@ -6652,13 +6808,13 @@ the Electoral Commissioner must register the claimant as a general postal voter 
 
                      (e)  any other information of a kind specified in the regulations, being information that relates to persons who have been, are or will be serving outside Australia in a capacity referred to in subparagraph (a)(i) or (ii).
 
-             (5)  If the Electoral Commissioner registers an elector as a general postal voter for a Division, the Electoral Commissioner must notify the elector, in writing, of the registration.
+             (5)  A DRO who registers an elector as a general postal voter shall notify the elector in writing of the registration.
 
-             (6)  If the Electoral Commissioner decides not to register an elector as a general postal voter for a Division, the Electoral Commissioner must notify the elector, in writing, of the decision and of the reasons for it.
+             (6)  A DRO who decides not to register an elector as a general postal voter shall notify the elector in writing of the decision and of the reasons for it.
 
 ##### <a id="185B"></a>185B  Review of Registers
 
-                   The Electoral Commissioner may review the Register for a Division and make such alterations as are necessary to ensure that:
+                   The DRO for a Division shall, when so directed by the Electoral Commission, examine the Register for the Division and make such alterations to the Register as are necessary to ensure that:
 
                      (a)  only electors entitled to be registered as general postal voters for the Division are so registered; and
 
@@ -6666,9 +6822,9 @@ the Electoral Commissioner must register the claimant as a general postal voter 
 
 ##### <a id="185C"></a>185C  Cancellation of registration
 
-             (1)  The Electoral Commissioner may cancel the registration of an elector as a general postal voter for a Division if the Electoral Commissioner is satisfied that the ground on which the elector applied for registration no longer exists.
+             (1)  The DRO for a Division may cancel the registration of an elector as a general postal voter for the Division if the DRO is satisfied that the ground on which the elector applied for registration no longer exists.
 
-             (2)  The Electoral Commissioner must give the elector written notice of the cancellation and of the elector’s right to apply for review under Part X.
+             (2)  The DRO shall give to the elector, personally or by post, written notice of the cancellation and of the elector’s right to request the DRO to refer the cancellation to the Australian Electoral Officer for the State for which the elector is enrolled for review under section 120.
 
 ##### <a id="186"></a>186  Dispatch of postal voting papers to registered general postal voters
 
@@ -6924,7 +7080,13 @@ the envelope containing the ballot paper may:
 
                      (e)  be delivered, on polling day and before the close of the poll, to a presiding officer (other than an electoral visitor or mobile polling team leader who is deemed to be a presiding officer); or
 
-                     (g)  be handed to a mobile polling team leader when the team is at a place for the purpose of taking votes under section 227; or
+                      (f)  be handed to an electoral visitor when the electoral visitor:
+
+                              (i)  is visiting a special hospital for the purpose of taking votes under section 225; or
+
+                             (ii)  is visiting a prison for the purpose of taking votes under section 226A; or
+
+                     (g)  be handed to a mobile polling team leader when the team is at a station for the purpose of taking votes under section 227; or
 
                      (h)  be handed, before the close of the poll, to a person who is at a capital city office of the Electoral Commission and who is:
 
@@ -6956,11 +7118,13 @@ the envelope containing the ballot paper may:
 
                      (c)  the holder of a particular office (other than a DRO) provided for by Division 3 or 4 of Part II; or
 
+                     (d)  an electoral visitor; or
+
                      (e)  a mobile polling team leader; or
 
                       (f)  a member of the staff of the Electoral Commission referred to in subparagraph 194(2)(h)(ii).
 
-                    <a name="presid-offic"></a>**_presiding officer_** does not include a mobile polling team leader who is deemed to be a presiding officer.
+                    <a name="presid-offic"></a>**_presiding officer_** does not include an electoral visitor or mobile polling team leader who is deemed to be a presiding officer.
 
              (2)  Where:
 
@@ -7041,6 +7205,17 @@ the DRO or officer shall:
 </tr>
 <tr>
   <td>
+    <div>4</div>
+  </td>
+  <td>
+    <div>an electoral visitor</div>
+  </td>
+  <td>
+    <div>the words “Electoral Visitor”.</div>
+  </td>
+</tr>
+<tr>
+  <td>
     <div>5</div>
   </td>
   <td>
@@ -7088,13 +7263,13 @@ the DRO or officer must (after complying with the other requirements of subsecti
 
                      (e)  keep the envelope in the ballot-box until the envelope is dealt with in accordance with section 228.
 
-             (5)  If an envelope purporting to bear a postal vote is received as mentioned in subsection (2) by an officer who is a mobile polling team leader, the officer must (after complying with the other requirements of subsection (2)):
+             (5)  If an envelope purporting to bear a postal vote is received as mentioned in subsection (2) by an officer who is an electoral visitor or a mobile polling team leader, the officer must (after complying with the other requirements of subsection (2)):
 
                      (a)  place the envelope in a ballot-box; and
 
-                     (b)  keep the envelope in the ballot-box until the ballot-box is forwarded to the designated Assistant Returning Officer as required by subsection 227(10); and
+                     (b)  keep the envelope in the ballot-box until the ballot-box is forwarded to the designated Assistant Returning Officer as required by whichever of subsections 225(8), 226A(7) and 227(10) is applicable; and
 
-                     (c)  when so forwarding the ballot-box to the designated Assistant Returning Officer, also forward to that Assistant Returning Officer the record made by the mobile polling team leader under paragraph (2)(e).
+                     (c)  when so forwarding the ballot-box to the designated Assistant Returning Officer, also forward to that Assistant Returning Officer the record made by the electoral visitor or mobile polling team leader under paragraph (2)(e).
 
              (6)  If an envelope purporting to bear a postal vote is received as mentioned in subsection (2) by an officer (other than an officer referred to in subsection (4) or (5)) who is at a capital city office of the Electoral Commission:
 
@@ -7160,31 +7335,13 @@ is satisfied that the application or certificate contains a formal error, the of
 
 ## Part XVA—Pre-poll voting
 
-### Division 1—Introduction
-
-##### <a id="200AA"></a>200AA  Guide to this Part
-
-             (1)  This Part deals with pre-poll votes.
-
-             (2)  There are 2 different kinds of pre-poll vote:
-
-                     (a)  a **_pre-poll ordinary vote_**, which is a vote made in accordance with Division 3; and
-
-                     (b)  a **_pre-poll declaration vote_**, which is a vote made in accordance with Division 4.
-
-             (3)  General matters relevant to both kinds of pre-poll vote are set out in Division 2.
-
-### Division 2—General matters
-
 ##### <a id="200A"></a>200A  Grounds of application for pre-poll vote
 
              (1)  An elector may apply for a pre-poll vote on any of the grounds set out in Schedule 2.
 
              (2)  A person who is provisionally enrolled may apply for a pre-poll vote.
 
-Note:          A person who is provisionally enrolled is not entitled to vote by pre-poll ordinary vote: see paragraph 200DG(2)(f).
-
-             (3)  In this Part (other than Division 3) and in Schedule 3:
+             (3)  In this Part and in Schedule 3:
 
                      (a)  a reference to an elector includes a reference to a person who has applied for a pre-poll vote under subsection (2); and
 
@@ -7196,27 +7353,23 @@ Note:          A person who is provisionally enrolled is not e
 
 ##### <a id="200BA"></a>200BA  Pre-poll voting offices
 
-             (1)  The Electoral Commissioner may declare, in writing, for an election:
+             (1)  The Electoral Commission may declare, in writing, for an election:
 
                      (a)  a specified place to be a pre-poll voting office; and
 
                      (b)  the day or days on which, and the hours during which, applications for pre-poll votes may be made to a pre-poll voting officer at that place.
 
-          (1A)  The Electoral Commissioner may, in a declaration under subsection (1) or in a separate written declaration under this subsection, specify that a particular pre-poll voting office located in a Division is a place at which pre-poll ordinary voting is available to voters enrolled for one or more specified other Divisions.
+             (2)  If the Electoral Commission makes a declaration under subsection (1), the Electoral Commission must:
 
-Note:          For voters enrolled for a particular Division, pre-poll ordinary voting is also available at pre-poll voting offices located in the Division or in the office of the DRO for the Division (see section 200DD).
+                     (a)  unless paragraph (b) applies, cause a copy of the declaration to be published in the _Gazette_ before the first day (the **_first pre-poll voting day_**) specified in the declaration under paragraph (1)(b); or
 
-             (2)  If the Electoral Commissioner makes a declaration under subsection (1), the Electoral Commissioner must:
-
-                     (a)  unless paragraph (b) applies, cause a copy of the declaration to be published, on the Electoral Commission’s website and in any other way the Electoral Commissioner considers appropriate, before the first day (the **_first pre-poll voting day_**) specified in the declaration under paragraph (1)(b); or
-
-                     (b)  if, because of exceptional circumstances, the declaration is made on the first pre-poll voting day, or so close to the first pre-poll voting day that the Electoral Commissioner is not able to cause a copy of the declaration to be published, on the Electoral Commission’s website and in any other way the Electoral Commissioner considers appropriate, before that day:
+                     (b)  if, because of exceptional circumstances, the declaration is made on the first pre-poll voting day, or so close to the first pre-poll voting day that the Electoral Commission is not able to cause a copy of the declaration to be published in the _Gazette_ before that day:
 
                               (i)  comply with subsection (3); and
 
-                             (ii)  cause a copy of the declaration to be published, on the Electoral Commission’s website and in any other way the Electoral Commissioner considers appropriate, as soon as practicable after making the declaration.
+                             (ii)  cause a copy of the declaration to be published in the _Gazette_ as soon as practicable after making the declaration.
 
-             (3)  For the purposes of subparagraph (2)(b)(i), the Electoral Commissioner must, as soon as practicable after making the declaration:
+             (3)  For the purposes of subparagraph (2)(b)(i), the Electoral Commission must, as soon as practicable after making the declaration:
 
                      (a)  take all reasonable steps to inform the following persons of the place, the day or days, and the hours specified in the declaration:
 
@@ -7226,17 +7379,13 @@ Note:          For voters enrolled for a particular Division, 
 
                             (iii)  if a candidate referred to in subparagraph (i) or (ii) has been endorsed by a registered political party—that political party; and
 
-                     (b)  if the Electoral Commissioner considers it appropriate to do so, publish in a newspaper circulating in the Division in which the place specified in the declaration is located a notice stating:
+                     (b)  if it considers it appropriate to do so, publish in a newspaper circulating in the Division in which the place specified in the declaration is located a notice stating:
 
                               (i)  that the place has been declared to be a pre-poll voting office; and
 
                              (ii)  the day or days on which, and the hours during which, applications for pre-poll votes may be made to a pre-poll voting officer at that place.
 
-          (3A)  If the Electoral Commissioner makes a declaration under subsection (1A), he or she must cause a copy of the declaration to be published on the Electoral Commission’s website and in any other way he or she considers appropriate.
-
-             (4)  A declaration made under subsection (1) or (1A) is not a legislative instrument.
-
-             (5)  Failure to publish in accordance with this section a copy of a declaration made under subsection (1) or (1A) does not affect the validity of the declaration.
+             (4)  A declaration made under subsection (1) is not a legislative instrument.
 
 ##### <a id="200C"></a>200C  Application for pre-poll vote
 
@@ -7247,8 +7396,6 @@ Note:          For voters enrolled for a particular Division, 
                      (b)  any pre-poll voting officer; or
 
                      (c)  an Assistant Returning Officer at a place outside Australia.
-
-Note:          Pre-poll voting at the office of an Assistant Returning Officer outside Australia must be by pre-poll declaration vote. Voting by pre-poll ordinary vote is not available at such offices (see section 200DD).
 
              (2)  The application must be made by the elector in person.
 
@@ -7273,8 +7420,6 @@ Note:          Pre-poll voting at the office of an Assistant R
                      (a)  at the office of the Assistant Returning Officer; and
 
                      (b)  during ordinary office hours or during such other hours as the Assistant Returning Officer fixes.
-
-Note:          Pre-poll voting at the office of an Assistant Returning Officer outside Australia must be by pre-poll declaration vote. Voting by pre-poll ordinary vote is not available at such offices (see section 200DD).
 
              (4)  An application that relates to:
 
@@ -7336,203 +7481,11 @@ cannot be made earlier than the second day after the day on which nominations fo
 
 may be removed from the pre-poll voting office by a member of the Australian Federal Police or of the police force of a State or Territory.
 
-### Division 3—Voting by pre-poll ordinary vote
+##### <a id="200E"></a>200E  Pre-poll voting
 
-#### Subdivision A—Preliminary
+             (1)  The officer to whom an application for a pre-poll vote is made (in this section called **_the issuing officer_**) shall issue to the elector:
 
-##### <a id="200DC"></a>200DC  Definitions
-
-                   In this Division:
-
-                    <a name="issuing-offic"></a>**_issuing officer_**: see subsection 200DH(2).
-
-                    <a name="pre-poll-ordinari-ballot-box"></a>**_pre-poll ordinary ballot-box_**: see section 200DN.
-
-                    <a name="voter"></a>**_voter_**: see subsection 200DG(1).
-
-                    <a name="voter-division"></a>**_voter’s Division_**: see paragraph 200DG(1)(b).
-
-                    <a name="vote-offic"></a>**_voting officer_**, in relation to a place at which pre-poll ordinary voting is available, means a DRO, or a pre-poll voting officer, at the place.
-
-                    <a name="vote-place"></a>**_voting place_**: see paragraph 200DG(1)(b).
-
-##### <a id="200DD"></a>200DD  Where is pre-poll ordinary voting available?
-
-             (1)  Subject to subsections (2) and (4), for voters enrolled for a particular Division, pre-poll ordinary voting is available at the following places:
-
-                     (a)  any pre-poll voting office that is located within the Division;
-
-                     (b)  any other pre-poll voting office that is specified, as mentioned in subsection 200BA(1A), as a place at which pre-poll ordinary voting is available to voters enrolled for the Division;
-
-                     (c)  the office of the DRO for the Division.
-
-             (2)  The Electoral Commissioner may, in writing, determine that pre-poll ordinary voting is not available at one or more specified places, either generally or as specified in the determination.
-
-             (3)  A determination made under subsection (2) is not a legislative instrument.
-
-             (4)  For voters enrolled for a particular Division, pre-poll ordinary voting is not available at a particular place referred to in subsection (1) unless a copy of the certified list of voters for the Division has been delivered to the place (see subsection 208(4)) or an approved list of voters for the Division is available to an officer at the place (see subsection 208A(2)).
-
-##### <a id="200DE"></a>200DE  Separate voting compartments
-
-                   Each place at which pre-poll ordinary voting is available must have separate voting compartments, constructed so as to screen the voters from observation while they are marking their ballot papers. There must be a pencil in each compartment for use by voters.
-
-##### <a id="200DF"></a>200DF  Ballot-boxes
-
-             (1)  Each place at which pre-poll ordinary voting is available must be provided with the necessary ballot-boxes.
-
-             (2)  Each of those ballot-boxes must be capable of being securely fastened.
-
-#### Subdivision B—Voting by pre-poll ordinary vote
-
-##### <a id="200DG"></a>200DG  When is a person entitled to vote by pre-poll ordinary vote?
-
-             (1)  Subject to subsection (2), a person (the **_voter_**) is entitled to vote by pre-poll ordinary vote if:
-
-                     (a)  the voter has, in accordance with Division 2, applied for a pre-poll vote; and
-
-                     (b)  the voter’s name is on a copy of the certified list of voters, or on an approved list of voters, for a particular Division (the **_voter’s_** **_Division_**) that has been delivered to, or is available to an officer at, the place (the **_voting place_**) at which the application is made; and
-
-                     (c)  the voting place is a place at which pre-poll ordinary voting is available to voters enrolled for the voter’s Division.
-
-Note:          If the voter is not entitled to vote by pre-poll ordinary vote, the voter may instead be able to vote by pre-poll declaration vote under Division 4.
-
-             (2)  The voter is not entitled to vote by pre-poll ordinary vote if:
-
-                     (a)  the voter does not comply with the requirements of section 200DH relating to the pre-poll certificate for ordinary voting; or
-
-                     (b)  the voter:
-
-                              (i)  refuses to answer fully any question he or she is asked under section 200DI; or
-
-                             (ii)  answers a question specified in paragraph 200DI(1)(c) in the affirmative; or
-
-                     (c)  the issuing officer has asked the voter one or more questions under subsection 200DI(2) about matters shown, for a particular person, on a copy of the certified list of voters, or on an approved list of voters, for the voter’s Division to establish whether the voter is that particular person, and one of the following applies:
-
-                              (i)  the voter’s answers do not accord with the relevant information shown for that particular person on the list;
-
-                             (ii)  the voter’s answers accord with the relevant information shown for that particular person on the list but the issuing officer is not satisfied that the person is that particular person; or
-
-                     (d)  the voter’s name is on a copy of the certified list of voters, or on an approved list of voters, for the voter’s Division but his or her address does not appear on the list; or
-
-                     (e)  a mark on a copy of the certified list of voters, or a record against an approved list of voters, for the voter’s Division indicates that the voter has already voted; or
-
-                      (f)  the voter is provisionally enrolled.
-
-##### <a id="200DH"></a>200DH  Voter to complete and sign pre-poll vote certificate for ordinary voting
-
-             (1)  If, under subsection 200DG(1) (but disregarding subsection 200DG(2)), the voter is entitled to vote by pre-poll ordinary vote, a voting officer must give the voter a pre-poll vote certificate for ordinary voting.
-
-             (2)  The voter must complete and sign the certificate and give it to a voting officer (the **_issuing officer_**).
-
-             (3)  A pre-poll vote certificate for ordinary voting must be in the approved form.
-
-##### <a id="200DI"></a>200DI  Questions to be put to voter
-
-             (1)  The issuing officer must ask the voter the following questions:
-
-                     (a)  What is your full name?
-
-                     (b)  Where do you live?
-
-                     (c)  Have you voted before in this election? or Have you voted before in these elections? (as the case requires).
-
-             (2)  If the answers the voter gives to the questions in paragraphs (1)(a) and (b) do not satisfy the issuing officer that the applicant is a particular person on a copy of the certified list of voters, or on an approved list of voters, for a particular Division, the officer may ask the voter one or more other questions about matters shown on the list for the particular person, to establish whether the voter is that particular person.
-
-##### <a id="200DJ"></a>200DJ  Right of voter to receive ballot paper
-
-             (1)  If, under section 200DG, the voter is entitled to vote by pre-poll ordinary vote, the issuing officer must give the voter a ballot paper, duly initialled by the officer.
-
-             (2)  The issuing officer, at the request of a scrutineer, must note any objection by the scrutineer to the right of the voter to vote by pre-poll ordinary vote, and must keep that record.
-
-             (3)  Immediately after giving the ballot paper to the voter, the issuing officer must:
-
-                     (a)  place a mark against the person’s name on a copy of the certified list of voters for the voter’s Division; or
-
-                     (b)  record electronically against an approved list of voters for the voter’s Division the fact that the voter has been given a ballot paper.
-
-##### <a id="200DK"></a>200DK  Voter to mark vote on ballot paper
-
-                   Except as otherwise prescribed by the regulations, the voter, upon receipt of a ballot paper under section 200DJ, must without delay:
-
-                     (a)  go to an unoccupied compartment of the voting place and mark his or her ballot paper in private; and
-
-                     (b)  fold the ballot paper so as to conceal his or her vote and deposit it in a ballot-box; and
-
-                     (c)  leave the voting place.
-
-##### <a id="200DL"></a>200DL  Assistance to certain voters
-
-             (1)  If the voter satisfies a voting officer that the voter cannot read or is so disabled as to be unable to vote without assistance, a person chosen by the voter may, according to the directions of the voter, do any of the following acts:
-
-                     (a)  complete (but not sign) the pre-poll vote certificate for ordinary voting;
-
-                     (b)  read the certificate to the voter;
-
-                     (c)  give the completed certificate to a voting officer;
-
-                     (d)  enter an unoccupied compartment of the voting place with the voter and mark the voter’s vote on the ballot paper;
-
-                     (e)  fold the ballot paper and deposit it in a ballot-box.
-
-Note:          Subject to section 336, the pre-poll vote certificate for ordinary voting must still be signed by the voter.
-
-             (2)  Directions under subsection (1) may be given by reference to a how-to-vote card.
-
-             (3)  The other provisions of this Division have effect subject to this section.
-
-##### <a id="200DM"></a>200DM  Voter not entitled to vote again etc.
-
-                   After the voter has, under sections 200DH and 200DJ, been given a pre-poll vote certificate for ordinary voting and a ballot paper:
-
-                     (a)  the voter is not entitled to remove the certificate or the ballot paper from the voting place; and
-
-                     (b)  the voter is not entitled to vote again in the same election.
-
-#### Subdivision C—Requirements relating to ballot-boxes
-
-##### <a id="200DN"></a>200DN  Subdivision sets out requirements to be complied with
-
-                   This Subdivision sets out requirements to be complied with in relation to each ballot-box (a **_pre-poll ordinary ballot-box_**) that is used for pre-poll ordinary voting at a particular place.
-
-##### <a id="200DO"></a>200DO  Requirements to be complied with before first use of ballot-box
-
-                   Before a ballot-box is first used for pre-poll ordinary voting at the place, a voting officer, in the presence of any scrutineers, must exhibit the ballot-box empty at the place, and then securely fasten its cover.
-
-##### <a id="200DP"></a>200DP  Requirements to be complied with at end of each day of use of ballot-box
-
-             (1)  At the end of each day when pre-poll ordinary voting is available at the place, and in the presence of any scrutineers, each pre-poll ordinary ballot-box used on that day must be closed, fastened and sealed by a voting officer.
-
-             (2)  After a pre-poll ordinary ballot-box has been sealed, it must on no account be opened except as allowed by this Act.
-
-##### <a id="200DQ"></a>200DQ  Requirements to be complied with before ballot-box used again on later day
-
-                   If:
-
-                     (a)  a pre-poll ordinary ballot-box has been sealed after use at the place on a day; and
-
-                     (b)  the ballot-box is to be used again on a later day for pre-poll ordinary voting at the place;
-
-before the ballot-box is so used again, a voting officer, in the presence of any scrutineers, must examine the ballot-box, and make it ready to receive ballot papers.
-
-##### <a id="200DR"></a>200DR  Forwarding of ballot-boxes for purposes of scrutiny
-
-             (1)  Subject to any directions under subsection (2), at the close of the poll, a voting officer must, with the least possible delay, forward each sealed pre-poll ordinary ballot-box for the purposes of scrutiny.
-
-             (2)  The DRO for the Division in which the place is located may direct that one or more sealed pre-poll ordinary ballot-boxes at the place are to be forwarded, for the purposes of scrutiny, before the close of the poll.
-
-             (3)  If a direction made under subsection (2) is in writing, the direction is not a legislative instrument.
-
-### Division 4—Voting by pre-poll declaration vote
-
-##### <a id="200DS"></a>200DS  Persons to whom this Division applies
-
-                   This Division applies to a person who has, in accordance with Division 2, applied for a pre-poll vote but who is not, under Division 3, entitled to vote by pre-poll ordinary vote.
-
-##### <a id="200E"></a>200E  Pre-poll declaration voting
-
-             (1)  If this Division applies to a person (the **_elector_**) who has applied for a pre-poll vote, the officer to whom the application was made (in this section called **_the issuing officer_**) shall issue to the elector:
-
-                     (a)  a pre-poll vote certificate for declaration voting; and
+                     (a)  a pre-poll vote certificate; and
 
                      (b)  one ballot paper for a Senate election or one ballot paper for a House of Representatives election, or both, as the case requires.
 
@@ -7560,15 +7513,15 @@ before the ballot-box is so used again, a voting officer, in the presence of any
 
              (8)  Directions under subsection (7) may be given by reference to a how-to-vote card.
 
-             (9)  An elector to whom a pre-poll vote certificate for declaration voting and ballot paper have been issued is not entitled:
+             (9)  An elector to whom a pre-poll vote certificate and ballot paper have been issued is not entitled:
 
                      (a)  to vote at a polling booth; or
 
                      (b)  to remove the certificate or ballot paper from the office of the officer who issued it.
 
-##### <a id="200F"></a>200F  Form of pre-poll vote certificate for declaration voting
+##### <a id="200F"></a>200F  Form of pre-poll vote certificate
 
-                   A pre-poll vote certificate for declaration voting shall:
+                   A pre-poll vote certificate shall:
 
                      (a)  be in the approved form;
 
@@ -7578,9 +7531,9 @@ before the ballot-box is so used again, a voting officer, in the presence of any
 
 ##### <a id="200G"></a>200G  Record of issue of pre-poll voting papers
 
-             (1)  Where, under subsection 200E(1), the DRO for a Division issues a pre-poll vote certificate for declaration voting and ballot paper to a person enrolled for the Division, the DRO shall make a record of the date of issue of the certificate and ballot paper and the name of the person and shall allocate a number to the record.
+             (1)  Where the DRO for a Division issues a pre-poll vote certificate and ballot paper to a person enrolled for the Division, the DRO shall make a record of the date of issue of the certificate and ballot paper and the name of the person and shall allocate a number to the record.
 
-             (2)  Where, under subsection 200E(1):
+             (2)  Where:
 
                      (a)  any other DRO;
 
@@ -7588,7 +7541,7 @@ before the ballot-box is so used again, a voting officer, in the presence of any
 
                      (c)  an Assistant Returning Officer at a place outside Australia;
 
-issues a pre-poll vote certificate for declaration voting and ballot paper, he or she shall:
+issues a pre-poll vote certificate and ballot paper, he or she shall:
 
                      (d)  make a record of the date of issue of the certificate and ballot paper, the name of the person to whom the certificate and ballot paper were issued and the name of the Division for which the person is enrolled and shall allocate a number to the record; and
 
@@ -7600,7 +7553,7 @@ issues a pre-poll vote certificate for declaration voting and ballot paper, he o
 
              (1)  A person other than:
 
-                     (a)  the DRO for the Division in respect of which a pre-poll vote ballot paper has been issued under subsection 200E(1); or
+                     (a)  the DRO for the Division in respect of which a pre-poll vote ballot paper has been issued; or
 
                      (b)  an officer acting at the direction of the DRO;
 
@@ -7614,7 +7567,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 ##### <a id="200K"></a>200K  Obligations of persons present when pre-poll vote cast
 
-                   A person who is present when, under section 200E, an elector signs a pre-poll vote certificate for declaration voting or marks a ballot paper in the presence of an officer:
+                   A person who is present when an elector signs a pre-poll vote certificate or marks a ballot paper in the presence of an officer:
 
                      (a)  shall obey all directions of the officer; and
 
@@ -7630,29 +7583,29 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 ##### <a id="201"></a>201  Correction of formal errors
 
-                   If an officer who receives a pre-poll vote certificate for declaration voting under subsection 200E(5) is satisfied that the certificate contains a formal error, the officer may amend the certificate to correct the error.
+                   If an officer who receives a pre-poll vote certificate under subsection 200E(5) is satisfied that the certificate contains a formal error, the officer may amend the certificate to correct the error.
 
 ##### <a id="202"></a>202  Mistakes
 
-             (1)  A pre-poll declaration vote shall not be rejected because only the surname of a candidate has been written on the ballot paper if no other candidate has the same surname.
+             (1)  A pre-poll vote shall not be rejected because only the surname of a candidate has been written on the ballot paper if no other candidate has the same surname.
 
-             (2)  A pre-poll declaration vote shall not be rejected because of a mistake in spelling if the elector’s intention is clear.
+             (2)  A pre-poll vote shall not be rejected because of a mistake in spelling if the elector’s intention is clear.
 
-## Part XVB—Electronically assisted voting for sight-impaired people
+## Part XVB—Trials of electronic voting methods
+
+### Division 1—Trial of electronically assisted voting for sight-impaired people
 
 ##### <a id="202AA"></a>202AA  Definitions
 
-                   In this Part:
-
-                    <a name="elect"></a>**_by-election_** means an election of a member of the House of Representatives that is not part of a general election.
+                   In this Division:
 
                     <a name="sight-impaired-person"></a>**_sight-impaired person_** means a person whose sight is impaired to the extent  that he or she is unable to vote without assistance.
 
-                    <a name="vote-record"></a>**_vote record_** has the meaning given by section 202AD.
+                    <a name="vote-record"></a>**_vote record_** has the meaning given by subsection 202AD(1).
 
 ##### <a id="202AB"></a>202AB  Regulations may provide for voting by an electronically assisted voting method
 
-             (1)  The regulations may provide for sight-impaired people to vote by an electronically assisted voting method at general elections, Senate elections and by-elections.
+             (1)  The regulations may provide for sight-impaired people to vote by an electronically assisted voting method at the first general election, and the first Senate election, held after the commencement of this section.
 
              (2)  Without limiting the generality of subsection (1), the regulations may:
 
@@ -7664,9 +7617,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                             (iii)  the number of places where the electronically assisted voting method is to be available, where those places are, and the days and hours when the method is to be available;
 
-                            (iv)  which persons may use the electronically assisted voting method; and
-
-                    (aa)  make provision for, and in relation to, the appointment by the Electoral Commissioner of officers in relation to the conduct of the electronically assisted voting method; and
+                            (iv)  which persons may use the electronically assisted voting method, including a process of applying to use the method; and
 
                      (b)  allow the electronically assisted voting method to be used in a particular period before polling day, as well as on polling day; and
 
@@ -7674,47 +7625,167 @@ Note:          For **_strict liability_**, see section 6.1 o
 
              (3)  The electronically assisted voting method must be such that a person using the method:
 
-                     (a)  for a Senate election:
+                     (a)  for the Senate election referred to in subsection (1):
 
                               (i)  receives the same information (in the same order), and has the same voting options, as would appear in the ballot paper for the Senate election that the person would be given if he or she were instead voting under Part XVI; and
 
                              (ii)  is able to indicate his or her vote in a way that, if he or she were instead marking a ballot paper, would satisfy the requirements of section 239; and
 
-                     (b)  for a general election or by-election:
+                     (b)  for the general election referred to in subsection (1):
 
-                              (i)  receives the same information (in the same order), and has the same voting options, as would appear in the ballot paper for the general election or by-election that the person would be given if he or she were instead voting under Part XVI; and
+                              (i)  receives the same information (in the same order), and has the same voting options, as would appear in the ballot paper for the general election that the person would be given if he or she were instead voting under Part XVI; and
 
                              (ii)  is able to indicate his or her vote in a way that, if he or she were instead marking a ballot paper, would satisfy the requirements of section 240.
 
              (4)  The regulations may provide for offences in relation to the electronically assisted voting method, and may prescribe penalties for those offences. A prescribed penalty must not exceed 50 penalty units.
 
-             (5)  Nothing in this Part or in regulations made for the purposes of this Part authorises any person to vote more than once at an election.
+             (5)  Nothing in this Division or in regulations made for the purposes of this Division authorises any person to vote more than once at an election.
 
 ##### <a id="202AC"></a>202AC  There must be a record of who has voted using the electronically assisted voting method
 
                    The regulations must require the making of a record of each person who has voted using the electronically assisted voting method. The regulations may specify the information that is to be included in the record.
 
-##### <a id="202AD"></a>202AD  There must be a record of the vote
+##### <a id="202AD"></a>202AD  There must be a printed record of the vote
 
-                   The regulations must provide, in relation to each vote cast by a person using the electronically assisted voting method, for the production of a record (a **_vote record_**) of the vote the person has cast. The vote record must not contain any means of identifying the person who cast the vote.
+             (1)  The regulations must provide, in relation to each vote cast by a person using the electronically assisted voting method, for the production of a printed record (a **_vote record_**) of the vote the person has cast. The vote record must not contain any means of identifying the person who cast the vote.
+
+             (2)  The regulations must provide for each vote record to be placed, by a DRO or a pre-poll voting officer, in an envelope that bears a declaration in the approved form. The regulations may specify other requirements relating to the envelope or the declaration.
 
 ##### <a id="202AE"></a>202AE  How this Act applies in relation to voting using the electronically assisted voting method
 
-             (1)  This Act (other than Part XVA and Schedule 2) applies in relation to a vote cast using the electronically assisted voting method as if the vote were a pre-poll ordinary vote.
+             (1)  This Act (other than Part XVA and Schedule 2) applies in relation to a vote cast using the electronically assisted voting method as if the vote were a pre-poll vote.
 
-             (2)  For the purposes of this Act as it applies because of subsection (1), a vote record is to be treated as if it were a ballot paper.
+Note:          Pre-poll votes are a kind of declaration vote. This Act will therefore apply to votes cast using the electronically assisted voting method as if they were that kind of declaration vote.
+
+             (2)  For the purposes of this Act as it applies because of subsection (1):
+
+                     (a)  a vote record is to be treated as if it were a pre-poll vote ballot paper; and
+
+                     (b)  the placing of a vote record in an envelope as mentioned in subsection 202AD(2) is to be treated as if it were the placing of a ballot paper in an envelope under subsection 200E(6); and
+
+                     (c)  a declaration on an envelope as mentioned in subsection 202AD(2) is to be treated as if it were a pre-poll vote certificate; and
+
+                     (d)  a record made as mentioned in section 202AC is to be treated as if it were a record made under subsection 200G(2).
 
              (3)  If a person casts a vote using the electronically assisted voting method, the requirements of this Act relating to the person’s right to receive a ballot paper are taken to have been satisfied.
 
              (4)  The regulations may make additional provisions relating to how this Act applies in relation to votes cast using the electronically assisted voting method.
 
-##### <a id="202AF"></a>202AF  Electoral Commissioner may decide that electronically assisted voting method is not to be used
+##### <a id="202AF"></a>202AF  Minister may decide that electronically assisted voting trial is not to proceed
 
-             (1)  The Electoral Commissioner may, in writing, determine that the electronically assisted voting method is not to be used either generally or at one or more specified places.
+             (1)  The Minister may decide in writing that, for any reason that the Minister considers appropriate, the electronically assisted voting trial provided for by this Division is not to proceed.
 
-             (2)  The determination must specify the election to which the determination applies.
+             (2)  If the Minister makes a decision under subsection (1), any regulations that are in force for the purposes of this Division cease to have effect on the day on which the Minister’s decision takes effect.
 
-             (3)  A determination under subsection (1) is not a legislative instrument.
+             (3)  An instrument made under subsection (1) is a legislative instrument, but section 42 of the _Legislative Instruments Act 2003_ does not apply to the instrument.
+
+### Division 2—Trial of remote electronic voting for defence personnel serving outside Australia
+
+##### <a id="202AG"></a>202AG  Definitions
+
+                   In this Division:
+
+                    <a name="electron-vote-record"></a>**_electronic vote record_** has the meaning given by subsection 202AK(1).
+
+                    <a name="print-vote-record"></a>**_printed vote record_** has the meaning given by subsection 202AK(2).
+
+##### <a id="202AH"></a>202AH  Regulations may provide for remote electronic voting by defence personnel serving outside Australia
+
+             (1)  The regulations may provide for defence members and defence civilians who:
+
+                     (a)  are registered as remote electronic voters (see section 202AI); and
+
+                     (b)  are serving outside Australia at the time of the first general election, and the first Senate election, held after the commencement of this section;
+
+to vote by a remote electronic voting method at those elections.
+
+             (2)  Without limiting the generality of subsection (1), the regulations may:
+
+                     (a)  determine, or provide for the determination of, the following:
+
+                              (i)  the remote electronic voting method;
+
+                             (ii)  a method for verifying the identity of persons using the remote electronic voting method;
+
+                            (iii)  matters relating to the voting using the remote electronic voting method, including what has to be done after a person has used the method, and matters of privacy and secrecy;
+
+                            (iv)  the number of places where the remote electronic voting method is to be available, where those places are, and the days and hours when the method is to be available; and
+
+                     (b)  allow the remote electronic voting method to be used in a particular period before polling day, as well as on polling day; and
+
+                     (c)  provide for any other matters related to the integrity of the use of the remote electronic voting method.
+
+             (3)  The remote electronic voting method must be such that a person using the method:
+
+                     (a)  for the Senate election referred to in subsection (1):
+
+                              (i)  receives the same information (in the same order), and has the same voting options, as would appear in the ballot paper for the Senate election that the person would be given if he or she were instead voting under Part XVI; and
+
+                             (ii)  is able to indicate his or her vote in a way that, if he or she were instead marking a ballot paper, would satisfy the requirements of section 239; and
+
+                     (b)  for the general election referred to in subsection (1):
+
+                              (i)  receives the same information (in the same order), and has the same voting options, as would appear in the ballot paper for the general election that the person would be given if he or she were instead voting under Part XVI; and
+
+                             (ii)  is able to indicate his or her vote in a way that, if he or she were instead marking a ballot paper, would satisfy the requirements of section 240.
+
+             (4)  The regulations may provide for offences in relation to the remote electronic voting method, and may prescribe penalties for those offences. A prescribed penalty must not exceed 50 penalty units.
+
+             (5)  Nothing in this Division or in regulations made for the purposes of this Division authorises any person to vote more than once at an election.
+
+##### <a id="202AI"></a>202AI  Regulations must provide for registration of remote electronic voters
+
+             (1)  The regulations must:
+
+                     (a)  provide for the Electoral Commission to keep and maintain a Register of Remote Electronic Voters; and
+
+                     (b)  provide for which defence members and defence civilians may apply to the Electoral Commission for registration as remote electronic voters; and
+
+                     (c)  provide for a process for those defence members and defence civilians to apply for registration as remote electronic voters; and
+
+                     (d)  provide for a process for dealing with applications for registration as a remote electronic voter; and
+
+                     (e)  provide for when a person’s registration as a remote electronic voter may be cancelled.
+
+             (2)  The regulations may provide for any other matters relating to the registration of defence members and defence civilians as remote electronic voters.
+
+##### <a id="202AJ"></a>202AJ  There must be a record of who has voted using the remote electronic voting method
+
+                   The regulations must require the making of a record of each person who has voted using the remote electronic voting method. The regulations may specify the information that is to be included in the record.
+
+##### <a id="202AK"></a>202AK  Transmission of electronic votes to the Electoral Commission and scrutiny of votes
+
+             (1)  The regulations must provide, in relation to each vote cast by a person using the remote electronic voting method:
+
+                     (a)  for the secure transmission of an electronic record of the vote (an **_electronic vote record_**) to the Electoral Commission; and
+
+                     (b)  for the secure keeping of the electronic vote record until it is so transmitted.
+
+             (2)  The regulations must provide for the production, for the purposes of the scrutiny, of a printed record (a **_printed vote record_**) of each electronic vote record transmitted to the Electoral Commission. The printed vote record must not contain any means of identifying the person who cast the vote.
+
+             (3)  The regulations may specify other requirements relating to any of the following:
+
+                     (a)  the secure keeping and secure transmission of electronic vote records;
+
+                     (b)  printed vote records;
+
+                     (c)  the scrutiny of votes cast using the remote electronic voting method.
+
+##### <a id="202AL"></a>202AL  How this Act applies in relation to voting using the remote electronic voting method
+
+             (1)  This Act applies to a printed vote record in the same way as it would apply if that vote record were a ballot paper.
+
+             (2)  If a person casts a vote using the remote electronic voting method, the requirements of this Act relating to the person’s right to receive a ballot paper are taken to have been satisfied.
+
+             (3)  The regulations may make additional provisions relating to how this Act applies in relation to votes cast using the remote electronic voting method.
+
+##### <a id="202AM"></a>202AM  Minister may decide that remote electronic voting trial is not to proceed
+
+             (1)  The Minister may decide in writing that, for security reasons or any other reason that the Minister considers appropriate, the remote electronic voting trial provided for by this Division is not to proceed.
+
+             (2)  If the Minister makes a decision under subsection (1), any regulations that are in force for the purposes of this Division cease to have effect on the day on which the Minister’s decision takes effect.
+
+             (3)  An instrument made under subsection (1) is a legislative instrument, but section 42 of the _Legislative Instruments Act 2003_ does not apply to the instrument.
 
 ## Part XVI—The polling
 
@@ -7742,6 +7813,8 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                       (j)  an Assistant Antarctic Returning Officer;
 
+                     (k)  an electoral visitor;
+
                     (m)  a mobile polling team leader;
 
                      (n)  a mobile polling team member;
@@ -7760,7 +7833,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                      (a)  provide and furnish proper polling booths and ballot-boxes; and
 
-                     (b)  provide ballot papers and all necessary certified lists of voters and approved lists of voters.
+                     (b)  provide ballot papers and all necessary certified lists of voters.
 
              (2)  If the proceedings on the day of nomination stand adjourned to polling day, the Electoral Commission, in pursuance of its powers under section 35, shall immediately appoint a presiding officer to preside at each polling place and all necessary deputy presiding officers and assistant presiding officers.
 
@@ -7812,14 +7885,6 @@ Note:          For **_strict liability_**, see section 6.1 o
 
              (3)  The Electoral Commissioner must arrange for the delivery to the presiding officer at each polling place, before the start of voting, a copy of the certified list of voters for the Division for which the polling place is appointed.
 
-             (4)  The Electoral Commissioner must also arrange for a copy of the certified list of voters for a Division to be delivered to each place at which pre-poll ordinary voting is, under section 200DD (but disregarding subsection 200DD(4)), available to voters enrolled for the Division.
-
-##### <a id="208A"></a>208A  Approved list of voters
-
-             (1)  The Electoral Commissioner may arrange for the preparation of an approved list of voters for a Division.
-
-             (2)  If the Electoral Commissioner thinks an approved list of voters for a Division should be available for an officer to use in connection with voting under this Act, the Electoral Commissioner must arrange for the list to be made available to the officer in time for that use.
-
 ##### <a id="209"></a>209  Ballot papers
 
              (1)  Ballot papers to be used in a Senate election shall be in Form E in Schedule 1.
@@ -7862,7 +7927,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                      (a)  a water mark consisting of a representation of a shield having within it the letters “CA” intertwined; or
 
-                     (b)  a feature of the ballot paper approved by the Electoral Commissioner.
+                     (b)  an overprinting of the paper in a particular manner, and using words, a design or a logo, approved by the Electoral Commission.
 
 ##### <a id="210"></a>210  Printing of Senate ballot papers
 
@@ -8142,7 +8207,7 @@ Provided that, where the scrutiny is proceeded with immediately after the close 
 
              (2)  In the case of a House of Representatives election, an elector shall only be admitted to vote for the election of a member for the Division for which he or she is enrolled.
 
-             (3)  For the purposes of this section, the electoral Rolls in force at the time of the election shall be conclusive evidence of the right of each person enrolled thereon (other than a person whose name has been placed on a Roll in pursuance of a claim made under section 100 and who will not have attained 18 years of age on the date fixed for the polling in the election, or a person who is covered by subsection 93(8AA) (sentences of imprisonment)) to vote as an elector, unless a person shows by his or her answers to the questions prescribed by section 229 or 200DI that he or she is not entitled to vote.
+             (3)  For the purposes of this section, the electoral Rolls in force at the time of the election shall be conclusive evidence of the right of each person enrolled thereon (other than a person whose name has been placed on a Roll in pursuance of a claim made under section 100 and who will not have attained 18 years of age on the date fixed for the polling in the election, or a person who is covered by subsection 93(8AA) (sentences of imprisonment)) to vote as an elector, unless a person shows by his or her answers to the questions prescribed by section 229 that he or she is not entitled to vote.
 
 ##### <a id="222"></a>222  Where electors may vote
 
@@ -8168,9 +8233,9 @@ Provided that, where the scrutiny is proceeded with immediately after the close 
 
 ##### <a id="223"></a>223  Interpretation
 
-                   In sections 224 and 226, **_patient_**, in relation to a hospital, does not include a person attending the hospital as an out-patient.
+                   In sections 224, 225 and 226, **_patient_**, in relation to a hospital, does not include a person attending the hospital as an out-patient.
 
-##### <a id="224"></a>224  Hospitals that are polling places
+##### <a id="224"></a>224  Mobile booths—hospitals that are polling places
 
              (1)  In this section, **_hospital_** means a hospital that is a polling place.
 
@@ -8198,13 +8263,47 @@ the presiding officer shall visit the patient for the purpose of taking the pati
 
              (6)  A polling booth at a hospital shall be attended by a polling official at all times when the presiding officer is absent from the booth for the purpose of visiting a patient.
 
-##### <a id="226"></a>226  Provisions related to section 224
+##### <a id="225"></a>225  Mobile booths—other hospitals
 
-             (1)  Notwithstanding any arrangement in force under section 224, a visit under that section to a patient in a hospital shall not be made if the presiding officer is informed by a registered medical practitioner or a member of the staff of the hospital that such a visit is forbidden, on medical grounds, by a registered medical practitioner.
+             (1)  The Electoral Commission may, by notice published in the _Gazette_, at any time, declare the whole or a specified part of a hospital, not being a hospital that is a polling place, to be a special hospital for the purposes of this section.
 
-             (2)  Literature relating to an election or political parties may be supplied to the general office of a hospital to which section 224 applies, and any literature so supplied shall be made available on request to patients entitled to vote under that section.
+             (2)  The Electoral Commission may appoint electoral visitors for the purposes of this section in relation to a specified election.
 
-          (2A)  A presiding officer who visits a patient under section 224 must:
+             (3)  Where:
+
+                     (a)  a patient at a special hospital wishes to vote at the hospital; and
+
+                     (b)  the patient is:
+
+                              (i)  in the case of a by-election—entitled to vote in that election; or
+
+                             (ii)  in any other case—an elector for the State or Territory in which the hospital is situated;
+
+an electoral visitor shall visit the patient for the purpose of taking the patient’s vote.
+
+             (4)  When visiting the patient, the electoral visitor shall:
+
+                     (a)  take to the patient a ballot-box, a ballot paper, and anything else necessary to enable the patient to vote; and
+
+                     (b)  be accompanied by a polling official and such scrutineers (if any) as wish to attend.
+
+          (4A)  While the electoral visitor is in the same room, ward or other place as the patient, this Act applies in relation to the taking of the patient’s vote as if the room, ward or other place were part of a polling booth at a polling place.
+
+             (5)  A visit or visits to a special hospital shall be made at such time or times between 8 o’clock in the morning and 6 o’clock in the afternoon, and on such day or days, being any of the 5 days preceding polling day, polling day, or a day to which the polling is adjourned, as are determined by the Electoral Commission in relation to the special hospital.
+
+             (6)  At any time when an electoral visitor is visiting a special hospital for the purposes of this section, the special hospital shall, for purposes of, and in connection with, the taking of votes under this section, be deemed to be a polling booth at a polling place and the electoral visitor shall, for those purposes, be deemed to be the presiding officer at that booth.
+
+             (7)  Paragraph 220(a) does not apply to an electoral visitor after the first visit made by the visitor for the purposes of this section.
+
+             (8)  At the end of the last visit made by an electoral visitor for the purposes of this section, the visitor shall, in the presence of a polling official and any scrutineers who may be in attendance, publicly close, fasten, seal and take charge of each ballot-box used by the visitor for the purposes of this section and, with the least possible delay, forward it for the purposes of scrutiny to the appropriate Assistant Returning Officer designated for the purposes of this subsection by the Divisional Returning Officer.
+
+##### <a id="226"></a>226  Provisions related to sections 224 and 225
+
+             (1)  Notwithstanding any arrangement in force under section 224 or 225, a visit under that section to a patient in a hospital shall not be made if the presiding officer or electoral visitor, as the case may be, is informed by a registered medical practitioner or a member of the staff of the hospital that such a visit is forbidden, on medical grounds, by a registered medical practitioner.
+
+             (2)  Literature relating to an election or political parties may be supplied to the general office of a hospital to which section 224 or 225 applies, and any literature so supplied shall be made available on request to patients entitled to vote under that section.
+
+          (2A)  A presiding officer or electoral visitor who visits a patient under section 224 or 225 must:
 
                      (a)  advise the patient that literature relating to the election supplied by candidates or political parties is available; and
 
@@ -8212,9 +8311,9 @@ the presiding officer shall visit the patient for the purpose of taking the pati
 
 The literature may include how-to-vote cards.
 
-             (3)  A presiding officer who visits a patient under section 224 for the purposes of a Senate election shall display to the patient each group voting ticket registered for the purposes of the election.
+             (3)  A presiding officer or electoral visitor who visits a patient under section 224 or 225 for the purposes of a Senate election shall display to the patient each group voting ticket registered for the purposes of the election.
 
-             (4)  So far as is practicable, a vote under section 224 shall be taken as if it were taken under the other provisions of this Act (including such of those provisions as relate to absent voting) and, in particular, in the application of this Act for the purposes of subsection 224(5), this Act has effect as if:
+             (4)  So far as is practicable, a vote under section 224 or 225 shall be taken as if it were taken under the other provisions of this Act (including such of those provisions as relate to absent voting) and, in particular, in the application of this Act for the purposes of subsection 224(5) or 225(4A), this Act has effect as if:
 
                      (a)  a person who, with the approval of an appropriate person on the staff of the hospital, enters or remains in a room, ward or other place in the hospital at a time when, under that subsection, it is to be treated as if it were a part of a polling booth were, for the purposes of section 348, doing so by permission of the presiding officer there present;
 
@@ -8228,73 +8327,143 @@ The literature may include how-to-vote cards.
 
              (5)  Subject to subsection (2A), subsection 340(1) applies in relation to a hospital that is a polling place as if the references in that subsection to a polling booth were references to the hospital.
 
-             (6)  Where an elector has voted under section 224 in an election, any postal ballot paper received by the Divisional Returning Officer that is, or that purports to be, a postal ballot paper of the voter shall not be admitted in the scrutiny in relation to the election.
+          (5A)  Subject to subsection (2A), subsection 340(1) applies in relation to a special hospital as if:
+
+                     (a)  the reference in that subsection to polling day and to all days to which the polling is adjourned were a reference to the period starting 5 days before polling day and ending:
+
+                              (i)  at the end of polling day; or
+
+                             (ii)  if the poll is adjourned, at the end of the last day to which polling is adjourned; and
+
+                     (b)  the references in that subsection to a polling booth were references to the special hospital.
+
+             (6)  Where an elector has voted under section 224 or 225 in an election, any postal ballot paper received by the Divisional Returning Officer that is, or that purports to be, a postal ballot paper of the voter shall not be admitted in the scrutiny in relation to the election.
 
              (7)  The Divisional Returning Officer for a Division shall, not later than 4 p.m. on the day before polling day, display prominently in his or her office a notice specifying the hospitals in the Division that are polling places and indicating the periods during which votes will be taken under section 224 at each hospital.
 
-             (8)  As far as is reasonably practicable, votes taken under section 224 shall be taken on the day or days and at the time or times specified in the relevant notice under subsection (7), but any failure to take those votes in that manner does not invalidate the result of the election.
+          (7A)  The Divisional Returning Officer for a Division shall, at least 7 days before the day, or the first day, on which votes are to be taken under section 225 at a hospital in the Division, display prominently in his or her office a notice specifying:
 
-##### <a id="227"></a>227  Mobile booths
+                     (a)  the hospitals in the Division at which votes are to be taken under section 225; and
+
+                     (b)  the days on which, and the times at which, votes will be taken at each of those hospitals.
+
+          (7B)  If it is not practicable for votes to be taken under section 225 on a day, or a time, specified in a notice under subsection (7A), the electoral visitor shall inform the Divisional Returning Officer accordingly.
+
+          (7C)  On being so informed, the Divisional Returning Officer shall:
+
+                     (a)  take such steps as he or she thinks fit to give public notice of another day on which, or another time at which, the votes will be taken; and
+
+                     (b)  take such steps as are reasonably practicable to inform:
+
+                              (i)  in the case of a House of Representatives election—all of the candidates; and
+
+                             (ii)  in the case of a Senate election—such of the candidates as have requested that they be so notified;
+
+                            of the substituted day or time.
+
+             (8)  As far as is reasonably practicable, votes taken under section 224 or 225 shall be taken on the day or days and at the time or times specified in the relevant notice under subsection (7), (7A) or (7C), but any failure to take those votes in that manner does not invalidate the result of the election.
+
+##### <a id="226A"></a>226A  Mobile booths—prisons
+
+             (1)  The Electoral Commission may make arrangements with the Controller-General of Prisons for a State or Territory for the taking of the votes of persons confined in prisons in the State or Territory who are entitled to vote in an election.
+
+Note:          Subsections 93(8), (8AA) and (9) deal with who is entitled to vote in an election.
+
+             (2)  The Electoral Commission may appoint electoral visitors for the purposes of this section.
+
+             (3)  If arrangements in force under subsection (1) are applicable to a prison, an electoral visitor must visit the prison for the purpose of taking the votes of persons who:
+
+                     (a)  are confined in the prison; and
+
+                     (b)  are entitled to vote in an election; and
+
+                     (c)  are:
+
+                              (i)  in the case of a by-election—entitled to vote in that election; or
+
+                             (ii)  in any other case—electors for the State or Territory in which the prison is situated.
+
+             (4)  When visiting a prison, an electoral visitor shall:
+
+                     (a)  take to the prison a ballot-box, ballot papers and anything else necessary for the taking of votes at the prison; and
+
+                     (b)  subject to subsection (5), be accompanied by a polling official and such scrutineers (if any) as wish to attend.
+
+             (5)  A visit to a prison shall be made:
+
+                     (a)  on such day;
+
+                     (b)  at such time; and
+
+                     (c)  in accordance with such conditions;
+
+as are fixed by or under the arrangements applicable to the prison.
+
+             (6)  In spite of arrangements in force under subsection (1), a visit to a prison may not be made if the electoral visitor is informed by the officer in charge of the prison or a member of the staff of the prison that the visit is forbidden by the officer in charge because of circumstances related to the security of the prison.
+
+             (7)  At the end of a visit by an electoral visitor to a prison, the visitor shall, in the presence of the polling official and any scrutineers who are in attendance at the prison, close, fasten, seal and take charge of each ballot-box used in the visit and, without delay, forward it to the Assistant Returning Officer designated for the purposes of this subsection by the DRO.
+
+             (8)  An electoral visitor who visits a prison may, at the request of an elector confined in the prison, give the elector literature including how-to-vote cards, made available for the purpose by candidates in the election.
+
+##### <a id="227"></a>227  Mobile booths—Remote Divisions
 
              (1)  In this section:
 
                     <a name="leader"></a>**_leader_** means a person appointed under this section to be the leader of a team.
 
+                    <a name="station"></a>**_station_** means a place at which a visit is being made by a team under this section.
+
                     <a name="team"></a>**_team_** means a mobile polling team appointed under this section.
 
-             (2)  The Electoral Commissioner may appoint persons to be members of mobile polling teams for the purposes of this section and, in respect of each team, a person to be the leader.
+             (2)  The Electoral Commission may appoint persons to be members of mobile polling teams for the purposes of this section and, in respect of each team, a person to be the leader.
 
-             (3)  The following provisions of this section apply in addition to, and without derogation from, the application of any other provision of this Act.
+             (3)  In relation to a Division declared by the Electoral Commission, by notice published in the _Gazette_, to be a remote Division, the following provisions of this section apply in addition to, and without derogation from, the application of any other provision of this Act.
 
-             (4)  The Electoral Commissioner:
+             (4)  The Electoral Commission:
 
-                     (a)  may determine in writing the places that teams will visit for the purposes of taking votes under this section in an election; and
+                     (a)  may, by notice published in the _Gazette_, determine the places that teams will visit for the purposes of this section; and
 
-                     (b)  must give notice to the public on the Electoral Commission’s website and by any other means that the Electoral Commissioner thinks fit of:
+                     (b)  must take such steps as it thinks fit to give public notice of:
 
                               (i)  the places determined under paragraph (a); and
 
                              (ii)  the days and times when teams will visit for the purposes of this section.
 
-          (4A)  Before determining a prison under subsection (4), the Electoral Commissioner must consult the Controller-General of Prisons for the State or Territory in which the prison is located.
-
              (5)  A day notified under paragraph (4)(b) shall be any of the 12 days preceding polling day, polling day, or a day to which the polling is adjourned.
 
-             (6)  Subject to subsection (6A), a team shall make a visit or visits as notified under paragraph (4)(b), but, if, for reasonable cause, the team is unable, or the leader considers it inappropriate, to make such a visit, the leader may substitute another place, day or time for the visit and, in that event, shall:
+             (6)  A team shall make a visit or visits as notified under paragraph (4)(b), but, if, for reasonable cause, the team is unable, or the leader considers it inappropriate, to make such a visit, the leader may substitute another place, day or time for the visit and, in that event, shall:
 
-                     (a)  give notice to the public on the Electoral Commission’s website and by any other means that he or she thinks fit of the substituted place, day or time; and
+                     (a)  take such steps as he or she thinks fit to give public notice of the substituted place, day or time; and
 
-                     (b)  inform the Divisional Returning Officer for the Division in which the visit is to occur.
-
-          (6A)  A visit to a prison must not be made if the Australian Electoral Officer for the State or Territory in which the prison is located is informed by the officer in charge of the prison, or a member of the staff of the prison, that the visit is forbidden by the officer in charge because of circumstances related to the security of the prison.
+                     (b)  inform the Divisional Returning Officer.
 
              (7)  Any failure by a team to make a visit in accordance with this section does not invalidate the result of the election.
 
-             (8)  At any time when a team is at a place for the purposes of taking votes under this section in an election:
+             (8)  At any time when a team is at a station for the purposes of taking votes under this section in an election:
 
                      (a)  the team shall have:
 
-                              (i)  ballot-boxes, ballot papers, group voting tickets registered for the purposes of the election and such other things as are necessary for the votes of electors to be taken at the place; and
+                              (i)  ballot-boxes, ballot papers, group voting tickets registered for the purposes of the election and such other things as are necessary for the votes of electors to be taken at the station; and
 
                              (ii)  the “how-to-vote” cards (if any) supplied to it by the candidates;
 
-                     (b)  every person at the place who is:
+                     (b)  every person at the station who is:
 
                               (i)  in the case of a by-election—entitled to vote in the election; or
 
-                             (ii)  in any other case—an elector for the State or Territory in which the place is situated;
+                             (ii)  in any other case—an elector for the State or Territory in which the station is situated;
 
                             is entitled to have his or her vote taken under this section;
 
                      (c)  for purposes of, and in connection with, the taking of votes under this section:
 
-                              (i)  the place shall be deemed to be a polling place;
+                              (i)  the station shall be deemed to be a polling place;
 
                              (ii)  the building, structure, vehicle or enclosure used by the leader for the purposes of taking votes under this section shall be deemed to be a polling booth at that polling place; and
 
                             (iii)  the leader shall be deemed to be the presiding officer at that polling booth;
 
-                     (d)  so far as is practicable, a vote under this section shall be taken as if it were taken under the other provisions (not being section 224) of this Act (including such of those other provisions as relate to absent voting);
+                     (d)  so far as is practicable, a vote under this section shall be taken as if it were taken under the other provisions (not being sections 224 and 225) of this Act (including such of those other provisions as relate to absent voting);
 
                     (da)  section 220 applies as if, for paragraph 220(b), there were substituted the following paragraph: 
 
@@ -8312,11 +8481,9 @@ The literature may include how-to-vote cards.
 
              (9)  Paragraph 220(a) does not apply to a leader after the first visit made by the leader for the purposes of this section.
 
-           (10)  At the end of the last visit made by a leader for the purposes of this section, the leader shall, in the presence of a member of his or her team and any scrutineers who may be in attendance, publicly close, fasten, seal and take charge of each ballot-box used by the leader for the purposes of this section and, with the least possible delay, forward it for the purposes of scrutiny to the appropriate Assistant Returning Officer designated for the purposes of this subsection by the Australian Electoral Officer for the State or Territory in which that last visit occurred.
+           (10)  At the end of the last visit made by a leader for the purposes of this section, the leader shall, in the presence of a member of his or her team and any scrutineers who may be in attendance, publicly close, fasten, seal and take charge of each ballot-box used by the leader for the purposes of this section and, with the least possible delay, forward it for the purposes of scrutiny to the appropriate Assistant Returning Officer designated for the purposes of this subsection by the Divisional Returning Officer.
 
-           (11)  Where an elector has voted under this section in an election, any postal ballot paper received by a Divisional Returning Officer that is, or that purports to be, a postal ballot paper of the voter shall not be admitted in the scrutiny in relation to the election.
-
-           (12)  A determination under paragraph (4)(a) is not a legislative instrument.
+           (11)  Where an elector has voted under this section in an election, any postal ballot paper received by the Divisional Returning Officer that is, or that purports to be, a postal ballot paper of the voter shall not be admitted in the scrutiny in relation to the election.
 
 ##### <a id="228"></a>228  Forwarding of declaration votes
 
@@ -8332,7 +8499,7 @@ shall forward the envelope, together with the record made under paragraph 195A(2
 
           (1B)  Envelopes and records required to be forwarded under subsection (1A) shall be so forwarded according to the instructions of the Divisional Returning Officer.
 
-             (2)  An Assistant Returning Officer to whom a ballot-box is forwarded under subsection (1) or subsection 227(10) shall:
+             (2)  An Assistant Returning Officer to whom a ballot-box is forwarded under subsection (1) or subsection 225(8), 226A(7) or 227(10) shall:
 
                      (a)  compare the particulars on the envelopes with the particulars appearing in the relevant records forwarded to the Assistant Returning Officer under this Act, note the number of envelopes and report any discrepancy to the Divisional Returning Officer;
 
@@ -8378,7 +8545,7 @@ shall forward the envelope, together with the record made under paragraph 195A(2
 
              (9)  Where envelopes and records relating to a particular Division are forwarded under subsection (8) to a person other than the Divisional Returning Officer for that Division, that person shall, as soon as practicable, deliver them, or cause them to be delivered, to that Divisional Returning Officer.
 
-##### <a id="229"></a>229  Questions to be put to voter
+##### <a id="229"></a>229  Questions to be put to voter
 
              (1)  The presiding officer shall put the following questions to each person attending before the presiding officer and claiming to vote in an election or elections:
 
@@ -8390,7 +8557,7 @@ shall forward the envelope, together with the record made under paragraph 195A(2
 
              (2)  In addition to the questions put under subsection (1), the presiding officer shall ask each person claiming to vote as an absent voter in an election to identify the Division for which the person is enrolled.
 
-             (4)  If the answers a person (the **_claimant_**) claiming to vote gives to the questions in paragraphs (1)(a) and (b) do not satisfy the presiding officer that the claimant is a particular person on the certified list of voters or an approved list of voters for the relevant Division, the officer may ask the claimant one or more other questions about matters shown on the list for the particular person, to establish whether the claimant is that particular person.
+             (4)  If the answers a person (the **_claimant_**) claiming to vote gives to the questions in paragraphs (1)(a) and (b) do not satisfy the presiding officer that the claimant is a particular person on the certified list of voters, the officer may ask the claimant one or more other questions about matters shown on the list for the particular person, to establish whether the claimant is that particular person.
 
              (5)  Subject to section 235, if a person claiming to vote to whom questions are put under this section:
 
@@ -8402,13 +8569,13 @@ the person’s claim to vote shall be rejected.
 
 ##### <a id="230"></a>230  Errors not to forfeit vote
 
-                   No omission in the Roll or in the certified list of voters or an approved list of voters of any Christian or given name, or entry of a wrong Christian or given name, sex, date of birth or address and no mistake in the spelling of any surname, shall warrant the rejection at any polling of any claim to vote if the voter is sufficiently identified in the opinion of the presiding officer, or the issuing officer within the meaning of Division 3 of Part XVA, and no elector shall be disqualified from voting under the name appearing on the Roll because his or her surname has been changed by marriage.
+                   No omission in the Roll or in the certified list of voters of any Christian or given name, or entry of a wrong Christian or given name, sex, date of birth or address and no mistake in the spelling of any surname, shall warrant the rejection at any polling of any claim to vote if the voter is sufficiently identified in the opinion of the presiding officer, and no female elector shall be disqualified from voting under the name appearing on the Roll because her surname has been changed by marriage.
 
 ##### <a id="231"></a>231  Right of elector to receive ballot paper
 
              (1)  The presiding officer or a polling official shall at the polling hand to each person claiming to vote a ballot paper duly initialled by the presiding officer:
 
-                     (a)  if the name under which the person claims to vote is on the certified list of voters or an approved list of voters for the polling place and the person’s answers to the prescribed questions show that he or she is entitled to vote; or
+                     (a)  if the name under which the person claims to vote is on the certified list of voters for the polling place and the person’s answers to the prescribed questions show that he or she is entitled to vote; or
 
                      (b)  if the person claims to vote under the provisions relating to absent voting and complies with those provisions.
 
@@ -8416,11 +8583,7 @@ the person’s claim to vote shall be rejected.
 
 ##### <a id="232"></a>232  Voters to be recorded
 
-             (1)  Immediately after handing a ballot paper to a person whose name is on the certified list of voters, or an approved list of voters, available at a polling place, the presiding officer or a polling official at the place must:
-
-                     (a)  place a mark against the person’s name on the certified list; or
-
-                     (b)  record electronically against the approved list the fact that the person has been handed a ballot paper.
+             (1)  The presiding officer or a polling official at a polling place shall, immediately upon handing a ballot paper to a person whose name is on the certified list of voters for the polling place, place a mark against the person’s name on that list.
 
              (2)  The presiding officer at a polling place shall make a record of the name of each elector who casts a declaration vote at the polling place and, in the case of an absent voter, of the Division for which the elector declares under subsection 222(1) or (1A) that he or she is enrolled, and shall, at the close of the poll, forward the record, duly certified by the presiding officer, in accordance with section 228.
 
@@ -8444,7 +8607,7 @@ the person’s claim to vote shall be rejected.
 
              (1)  If any voter satisfies the presiding officer that his or her sight is so impaired or that the voter is so physically incapacitated or illiterate that he or she is unable to vote without assistance, the presiding officer shall permit a person appointed by the voter to enter an unoccupied compartment of the booth with the voter, and mark, fold, and deposit the voter’s ballot paper.
 
-          (1A)  A presiding officer who is visiting a patient under section 224 for the purpose of taking the patient’s vote must explain to the patient the effect of subsection (1) of this section.
+          (1A)  A presiding officer who is visiting a patient under section 224 or 225 for the purpose of taking the patient’s vote must explain to the patient the effect of subsection (1) of this section.
 
              (2)  If any such voter fails to appoint a person in pursuance of subsection (1) the presiding officer, in the presence of such scrutineers as are present, or, if there be no scrutineers present, then in the presence of:
 
@@ -8504,11 +8667,11 @@ shall mark, fold, and deposit his or her ballot paper.
 
              (1)  This section applies to a person claiming to vote if:
 
-                     (a)  the person’s name cannot be found on the certified list of voters, or an approved list of voters, for the Division for which the person claims to vote; or
+                     (a)  the person’s name cannot be found on the certified list of voters for the Division for which the person claims to vote; or
 
-                     (b)  the person’s name is on the certified list of voters, or an approved list of voters, for the Division but his or her address does not appear on the list; or
+                     (b)  the person’s name is on the certified list of voters for the Division but his or her address does not appear on the list; or
 
-                     (c)  the presiding officer has asked the person one or more questions under subsection 229(4) about matters shown on the certified list of voters, or an approved list of voters, for a particular person to establish whether the person is that particular person and one of the following applies:
+                     (c)  the presiding officer has asked the person one or more questions under subsection 229(4) about matters shown on the certified list of voters for a particular person to establish whether the person is that particular person and one of the following applies:
 
                               (i)  the person’s answers do not accord with the relevant information shown for that particular person on the list;
 
@@ -8516,7 +8679,7 @@ shall mark, fold, and deposit his or her ballot paper.
 
                             (iii)  the person refused to answer fully; or
 
-                     (d)  a mark on the certified list of voters, or a record against an approved list of voters, used at the polling place indicates that the person has already voted at that polling place; or
+                     (d)  a mark on the certified list of voters used at the polling place indicates that the person has already voted at that polling place; or
 
                      (e)  the person is provisionally enrolled.
 
@@ -8560,7 +8723,7 @@ Regulations
 
 ##### <a id="238"></a>238  Spoilt ballot papers
 
-             (1)  If any voter before depositing a ballot paper in the ballot-box satisfies the presiding officer, or the issuing officer within the meaning of Division 3 of Part XVA, that he or she has spoilt the ballot paper by mistake or accident, the voter may, on giving it up, receive a new ballot paper from the presiding officer or issuing officer, who shall there and then cancel the spoilt ballot paper.
+             (1)  If any voter before depositing a ballot paper in the ballot-box satisfies the presiding officer that he or she has spoilt the ballot paper by mistake or accident, the voter may, on giving it up, receive a new ballot paper from the presiding officer, who shall there and then cancel the spoilt ballot paper.
 
              (2)  If any voter voting in a manner that will involve a ballot paper being placed in an envelope satisfies the officer who issued the ballot paper that, before the ballot paper was placed in the relevant envelope, he or she spoilt the ballot paper by mistake or accident, the voter may, on giving up the spoilt ballot paper to the officer, receive a new ballot paper from the officer, who shall there and then cancel the spoilt ballot paper.
 
@@ -8572,7 +8735,7 @@ Regulations
 
                      (c)  sign the envelope.
 
-             (4)  The envelopes containing spoilt ballot papers that have been cancelled under subsection (1) or (2) shall be sealed up in a parcel which shall be given to the Divisional Returning Officer for the Division after the close of the poll.
+             (4)  The envelopes containing spoilt ballot papers cancelled at a polling place shall be sealed up in a parcel which shall be given to the Divisional Returning Officer for the Division after the close of the poll.
 
 ##### <a id="239"></a>239  Marking of votes in Senate election
 
@@ -8848,11 +9011,13 @@ Note:          A defendant bears an evidential burden in relat
 
 ##### <a id="249"></a>249  Antarctic electors
 
-             (1)  An elector who is, or expects to be, in the course of employment, in Antarctica may, by notice given to the Electoral Commissioner, request that he or she be treated, while in Antarctica, as an Antarctic elector in relation to any election the polling day of which occurs while the elector is in Antarctica.
+             (1)  An elector who is, or expects to be, in the course of employment, in Antarctica may, by notice given to the Divisional Returning Officer for the Division for which the elector is enrolled, request that he or she be treated, while in Antarctica, as an Antarctic elector in relation to any election the polling day of which occurs while the elector is in Antarctica.
 
-             (3)  A notice under subsection (1) is not effective, in relation to an election, unless it is received by the Electoral Commissioner before the hour of nomination for the election.
+             (2)  A notice under subsection (1) shall be given to a Divisional Returning Officer by lodging it with or sending it by post to the Divisional Returning Officer.
 
-             (4)  Upon the receipt of a request made by an elector under subsection (1), the Electoral Commissioner must annotate the Roll for the Subdivision for which the elector is enrolled so as to indicate that the elector is an Antarctic elector.
+             (3)  A notice under subsection (1) is not effective, in relation to an election, unless it is received by a Divisional Returning Officer before the hour of nomination for the election.
+
+             (4)  Upon the receipt of a request made by an elector under subsection (1), the DRO must annotate the Roll for the Subdivision for which the elector is enrolled so as to indicate that the elector is an Antarctic elector.
 
              (5)  Notwithstanding anything in subsection 99(1) or (2), while a person is entitled to be treated as an Antarctic elector by virtue of an annotation under subsection (4) to the Roll for a Subdivision, the person is entitled to:
 
@@ -8860,7 +9025,7 @@ Note:          A defendant bears an evidential burden in relat
 
                      (b)  vote as an elector of the Subdivision.
 
-             (6)  The Electoral Commissioner shall delete an annotation made under subsection (4) in relation to an elector immediately after he or she becomes aware that the elector has ceased to be in Antarctica.
+             (6)  A Divisional Returning Officer shall delete an annotation made under subsection (4) in relation to an elector immediately after he or she becomes aware that the elector has ceased to be in Antarctica.
 
 ##### <a id="250"></a>250  Arrangements for the polling in Antarctica
 
@@ -9068,7 +9233,7 @@ whichever last occurs.
 
              (1)  A ballot paper shall (except as otherwise provided by section 239, and by the regulations relating to voting by post) be informal if:
 
-                     (a)  subject to subsection (2), it is not authenticated by the initials of the presiding officer or the issuing officer (within the meaning of Division 3 of Part XVA), or by the presence of the official mark;
+                     (a)  subject to subsection (2), it is not authenticated by the initials of the presiding officer or by the presence of the official mark;
 
                      (b)  subject to section 269 and subsection 270(1), in a Senate election, it has no vote indicated on it, or it does not indicate the voter’s first preference for 1 candidate and the order of his or her preference for all the remaining candidates;
 
@@ -9084,7 +9249,7 @@ whichever last occurs.
 
                      (e)  in the case of an absent vote—the ballot paper is not contained in an envelope bearing a declaration made by the elector under subsection 222(1) or (1A).
 
-             (2)  A ballot paper to which paragraph (1)(a) applies shall not be informal by virtue of that paragraph if the Divisional Returning Officer responsible for considering the question of the formality of the ballot paper is satisfied that it is an authentic ballot paper on which a voter has marked a vote and the officer has endorsed the ballot paper with the words ‘I am satisfied that this ballot paper is an authentic ballot paper on which a voter has marked a vote.’.
+             (2)  A ballot paper to which paragraph (1)(a) applies shall not be informal by virtue of that paragraph if the Divisional Returning Officer responsible for considering the question of the formality of the ballot paper is satisfied that it is an authentic ballot paper on which a voter has marked a vote.
 
              (3)  A ballot paper shall not be informal for any reason other than the reasons specified in this section, but shall be given effect to according to the voter’s intention so far as that intention is clear.
 
@@ -9210,17 +9375,13 @@ then, to the extent that the preferences shown in each ticket commencing with th
 
              (2)  Each Assistant Returning Officer shall, in the presence of a polling official, and of such authorized scrutineers as may attend:
 
-                     (a)  exhibit for the inspection of the scrutineers:
-
-                              (i)  each ballot-box received from a presiding officer or mobile polling team leader; and
-
-                             (ii)  each pre-poll ordinary ballot-box (within the meaning of Division 3 of Part XVA) received from a voting officer (within the meaning of that Division);
+                     (a)  exhibit for the inspection of the scrutineers each ballot-box received from a presiding officer, electoral visitor or mobile polling team leader;
 
                     (aa)  record the condition of the ballot-box when it was received;
 
-                    (ab)  check the accuracy of the statement of the presiding officer, mobile polling team leader or voting officer by:
+                    (ab)  check the accuracy of the statement forwarded with the ballot-box by the presiding officer, electoral visitor or mobile polling team leader by:
 
-                              (i)  removing the ballot papers from the box; and
+                              (i)  removing the ballot papers from the box;
 
                              (ii)  counting, but not inspecting, them; and
 
@@ -9534,15 +9695,11 @@ Definitions
 
              (2)  Each Assistant Returning Officer shall, in the presence of a polling official, and of such authorized scrutineers as may attend:
 
-                     (a)  exhibit for the inspection of the scrutineers:
-
-                              (i)  each ballot-box received from a presiding officer or mobile polling team leader; and
-
-                             (ii)  each pre-poll ordinary ballot-box (within the meaning of Division 3 of Part XVA) received from a voting officer (within the meaning of that Division);
+                     (a)  exhibit for the inspection of the scrutineers each ballot-box received from a presiding officer, electoral visitor, or mobile polling team leader;
 
                     (aa)  record the condition of the ballot-box when it was received;
 
-                    (ab)  check the accuracy of the statement of the presiding officer, mobile polling team leader or voting officer by:
+                    (ab)  check the accuracy of the statement of the presiding officer, electoral visitor or mobile polling team leader by:
 
                               (i)  removing the ballot papers from the box;
 
@@ -9646,7 +9803,7 @@ the candidate to be excluded is the candidate with less votes than any of the ot
 
           (9C)  If, after the fresh scrutinies referred to in subsection (9A), 2 or more candidates have an equal number of votes, the Divisional Returning Officer shall give to the Electoral Commissioner written notice that the election cannot be decided.
 
-           (10)  In this section an absolute majority of votes means a greater number than one-half of the whole number of ballot papers other than informal ballot papers.
+           (10)  Subject to subsection (11), in this section an absolute majority of votes means a greater number than one-half of the whole number of ballot papers other than informal ballot papers.
 
            (12)  The Divisional Returning Officer shall:
 
@@ -9802,7 +9959,7 @@ the Divisional Returning Officer may, subject to the concurrence of the Electora
 
 ##### <a id="285"></a>285  Correction of errors
 
-             (1)  Any delay, error, or omission in the printing, preparation, issue, transmission, or return of any roll, writ, ballot papers, certified list of voters or approved list of voters may be remedied, removed, rectified, and supplied by proclamation specifying the matter dealt with, and providing for the course to be followed, and such course shall be valid and sufficient.
+             (1)  Any delay, error, or omission in the printing, preparation, issue, transmission, or return of any roll, writ, ballot papers, or certified list of voters, may be remedied, removed, rectified, and supplied by proclamation specifying the matter dealt with, and providing for the course to be followed, and such course shall be valid and sufficient.
 
              (2)  For the purposes of subsection (1), a certificate attached to a writ under section 283 or 284 is taken to form part of the writ.
 
@@ -10790,7 +10947,7 @@ Note 3:       The dollar amount mentioned in this section is indexed
 
                      (d)  the production of an advertisement relating to the election, being an advertisement that is broadcast, published or displayed as mentioned in paragraph (a), (b) or (c); or
 
-                     (e)  the production of any material (not being material referred to in paragraph (a), (b) or (c)) that is required under section 328, 328A or 328B to include the name and address of the author of the material or of the person authorizing the material and that is used during the election period; or
+                     (e)  the production of any material (not being material referred to in paragraph (a), (b) or (c)) that is required under section 328, 328A or 332 to include the name and address of the author of the material or of the person authorizing the material and that is used during the election period; or
 
                       (f)  the production and distribution of electoral matter that is addressed to particular persons or organisations and is distributed during the election period; or
 
@@ -10992,7 +11149,7 @@ the return must also set out the following details about each person who contrib
 
                              (ii)  the public expression of views on an issue in an election by any means;
 
-                            (iii)  the printing, production, publication or distribution of any material (not being material referred to in subparagraph (i) or (ii)) that is required under section 328, 328A or 328B to include a name, address or place of business;
+                            (iii)  the printing, production, publication or distribution of any material (not being material referred to in subparagraph (i) or (ii)) that is required under section 328 or 328A to include a name, address or place of business;
 
                             (iv)  the broadcast of political matter in relation to which particulars are required to be announced under subclause 4(2) of Schedule 2 to the _Broadcasting Services Act 1992_;
 
@@ -11476,13 +11633,13 @@ until February in the calendar year after the return is furnished.
 
              (2)  The dollar amount mentioned in the provision, for an indexation year whose indexation factor is greater than 1, is replaced by the amount worked out using the following formula (rounded to the nearest $100):
 
-![](http://www.comlaw.gov.au/Details/C2010C00511/Html/CwlthElectoral1918_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00273/Html/CwlthElectoral1918_WD02_image002.gif)
 
              (3)  The dollar amount mentioned in the provision for an indexation year is not replaced in respect of a disclosure period in relation to an election if the indexation year begins between the issue of the writ for the election and the polling day for the election.
 
              (4)  The **_indexation factor_** for an indexation year is the number worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00511/Html/CwlthElectoral1918_WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00273/Html/CwlthElectoral1918_WD02_image003.gif)
 
              (5)  The indexation factor is to be calculated to 3 decimal places, but increased by .001 if the fourth decimal place is more than 4.
 
@@ -11644,8 +11801,6 @@ as a candidate in an election for the House of Representatives or the Senate.
 
              (3)  Subsection (1) does not apply in relation to:
 
-                    (aa)  a how-to-vote card; or
-
                      (a)  T-shirt, lapel button, lapel badge, pen, pencil or balloon; or
 
                      (b)  business or visiting cards that promote the candidacy of any person in an election for the Parliament; or
@@ -11658,7 +11813,7 @@ as a candidate in an election for the House of Representatives or the Senate.
 
                      (d)  an article included in a prescribed class of articles.
 
-             (4)  Nothing in paragraph (3)(aa), (a), (b) or (c) is taken, by implication, to limit the generality of regulations that may be made by virtue of paragraph (3)(d).
+             (4)  Nothing in paragraph (3)(a), (b) or (c) is taken, by implication, to limit the generality of regulations that may be made by virtue of paragraph (3)(d).
 
              (5)  In this section:
 
@@ -11696,76 +11851,6 @@ Note:          A defendant bears an evidential burden in relat
 
                     <a name="address"></a>**_address_** of a person means an address, including a full street address and suburb or locality, that is located in Australia at which the person can usually be contacted during the day. It does not include a post office box.
 
-##### <a id="328B"></a>328B  Requirements relating to how-to-vote cards
-
-Authorisation details must be included on how-to-vote card
-
-             (1)  The following information (the **_authorisation details_**) must be included at the top or bottom of each printed face of a how-to-vote card:
-
-                     (a)  the name and address of the person who authorised the how-to-vote card;
-
-                     (b)  the following information (to the extent that it is not already required by paragraph (a)):
-
-                              (i)  if the card is authorised by or on behalf of a registered political party, or by or on behalf of a candidate who is endorsed by a registered political party—the name of the registered political party;
-
-                             (ii)  if the card is authorised by or on behalf of a candidate who is not endorsed by a registered political party—the candidate’s name, and the word “candidate”.
-
-             (2)  The font size of the authorisation details must be at least:
-
-                     (a)  10 point, if the size of the how-to-vote card is A6 or smaller; or
-
-                     (b)  14 point, if the size of the how-to-vote card is larger than A6 but smaller than A3; or
-
-                     (c)  20 point, if the size of the how-to-vote card is A3 or larger.
-
-             (3)  For the purpose of subsection (2), the comparison between the size of a how-to-vote card and a standard paper size mentioned in that subsection is to be done by comparing the area of the how-to-vote card with the area of the standard paper size (regardless of the shape of the how-to-vote card).
-
-Offence of publishing etc. how-to-vote card that does not contain required authorisation details
-
-             (4)  A person (the **_first person_**) commits an offence if:
-
-                     (a)  the first person:
-
-                              (i)  publishes or distributes a document; or
-
-                             (ii)  causes, permits or authorises another person to publish or distribute a document; and
-
-                     (b)  that conduct of the first person occurs during the relevant period for an election; and
-
-                     (c)  the document is a how-to-vote card; and
-
-                     (d)  the how-to-vote card does not comply with the requirements of subsections (1) and (2) relating to authorisation details; and
-
-                     (e)  if regulations made for the purpose of this paragraph provide that this subsection does not apply to prescribed kinds of articles—the how-to-vote card is not an article of any of those kinds.
-
-                    Penalty:  50 penalty units.
-
-Offence of publishing etc. how-to-vote card that contains false authorisation details
-
-             (5)  A person (the **_first person_**) commits an offence if:
-
-                     (a)  the first person:
-
-                              (i)  publishes or distributes a document; or
-
-                             (ii)  causes, permits or authorises another person to publish or distribute a document; and
-
-                     (b)  that conduct of the first person occurs during the relevant period for an election; and
-
-                     (c)  the document is a how-to-vote card; and
-
-                     (d)  some or all of the authorisation details on the how-to-vote card are false; and
-
-                     (e)  if regulations made for the purpose of this paragraph provide that this subsection does not apply to prescribed kinds of article—the how-to-vote card is not an article of any of those kinds.
-
-                    Penalty:  50 penalty units.
-
-Definition
-
-             (6)  In this section:
-
-                    <a name="address-person"></a>**_address of a person_** means an address, including a full street address and suburb or locality, at which the person can usually be contacted during the day. It does not include a post office box.
-
 ##### <a id="329"></a>329  Misleading or deceptive publications etc.
 
              (1)  A person shall not, during the relevant period in relation to an election under this Act, print, publish or distribute, or cause, permit or authorize to be printed, published or distributed, any matter or thing that is likely to mislead or deceive an elector in relation to the casting of a vote.
@@ -11780,9 +11865,7 @@ Definition
 
 Note:          A defendant bears a legal burden in relation to the defence in subsection (5) (see section 13.4 of the _Criminal Code_).
 
-          (5A)  Section 15.2 of the _Criminal Code_ (extended geographical jurisdiction—category B) applies to an offence against subsection (4).
-
-             (6)  In this section, **_publish_** includes publish by radio, television, internet or telephone.
+             (6)  In this section, **_publish_** includes publish by radio or television.
 
 ##### <a id="330"></a>330  False statements in relation to Rolls
 
@@ -11882,7 +11965,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 Note:          The _Criminal Code Act 1995_ contains defences for offences involving mistake or ignorance.
 
-##### <a id="338"></a>338  Unlawfully marking ballot papers
+##### <a id="338"></a>338  Unlawfully marking ballot papers
 
                    Except where expressly authorized by this Act, a person (other than the elector to whom the ballot paper has been lawfully issued) shall not mark a vote or make any mark or writing on the ballot paper of any elector.
 
@@ -12010,13 +12093,13 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 ##### <a id="342"></a>342  Duty of witness to claim
 
-                   The person witnessing any claim for age 16 enrolment or any claim for enrolment or transfer of enrolment shall, before signing the claim as witness, satisfy himself or herself, by inquiry from the claimant or otherwise, that the statements contained in the claim are true unless he or she knows that the statements contained in the claim are true.
+                   The person witnessing any claim for age 17 enrolment or any claim for enrolment or transfer of enrolment shall, before signing the claim as witness, satisfy himself or herself, by inquiry from the claimant or otherwise, that the statements contained in the claim are true unless he or she knows that the statements contained in the claim are true.
 
                     Penalty:  $1,000.
 
 ##### <a id="343"></a>343  Failure to transmit claim
 
-             (1)  Any person who accepts, for transmission to the Electoral Commissioner, the custody of, a claim for age 16 enrolment or a claim for enrolment or transfer of enrolment shall forthwith transmit the claim to the Electoral Commissioner.
+             (1)  Any person who accepts, for transmission to a Divisional Returning Officer, the custody of, a claim for age 17 enrolment or a claim for enrolment or transfer of enrolment shall forthwith transmit the claim to the Divisional Returning Officer.
 
                     Penalty:  $1,000.
 
@@ -12160,7 +12243,7 @@ Note:          A defendant bears a legal burden in relation to
 
              (4)  Nothing in the foregoing provisions of this section shall apply to or in relation to any announcement or publication made or authorized by any _bona fide_ political party or by any _bona fide_ branch thereof respecting a candidate who, by public announcement, has declared his or her candidature to be a candidature on behalf of or in the interests of that party.
 
-             (5)  The person whose name and address appears at the top, bottom or end of any matter as the person who authorised the matter under section 328, 328A or 328B, in the absence of evidence to the contrary, is taken to have announced or published the matter, or caused it to be announced or published, for the purpose of this section.
+             (5)  The person whose name and address appears at the end of any matter as the person who authorised the matter under section 328 or 328A, in the absence of evidence to the contrary, is taken to have announced or published the matter, or caused it to be announced or published, for the purpose of this section.
 
 Note:          A defendant bears an evidential burden in relation to evidence to the contrary under subsection (5) (see subsection 13.3(3) of the _Criminal Code_).
 
@@ -12478,66 +12561,6 @@ Note:          Section 86 of the _Judiciary Act 1903_ provid
 
 the Commission may determine that the act may be done within such further time, not exceeding 48 hours, as the Commission fixes.
 
-##### <a id="382"></a>382  General provisions about enrolment-related claims etc.
-
-Definitions
-
-             (1)  In this section:
-
-                    <a name="enrol-relat-claim-notic"></a>**_enrolment-related claim or notice_** means a claim, application, notice, objection, request or other communication that is required or permitted to be sent to the Electoral Commissioner by any of the following:
-
-                     (a)  a provision of Part VII, VIII, IX or X;
-
-                     (b)  section 184A;
-
-                     (c)  section 249.
-
-                    <a name="sent"></a>**_sent to_** includes given, made or delivered to, or lodged with.
-
-Addresses to which enrolment-related claims or notices may be sent
-
-             (2)  The Electoral Commissioner may, in writing, determine one or more addresses to which enrolment-related claims or notices may be sent.
-
-             (3)  A determination under subsection (2) may specify different addresses for the purposes of different provisions or for use in different circumstances.
-
-             (4)  To avoid doubt, an address determined under subsection (2) may be an electronic address.
-
-             (5)  If a person sends an enrolment-related claim or notice to an address in accordance with a determination under subsection (2), the person is taken to have sent the enrolment-related claim or notice to the Electoral Commissioner.
-
-Note:          Requirements relating to the form, content etc. of the enrolment-related claim or notice must still be complied with (subject to subsections (7) and (8)).
-
-             (6)  A determination under subsection (2) is not a legislative instrument.
-
-Enrolment-related claims or notices do not have to be signed in certain circumstances
-
-             (7)  Subject to subsection (8), if:
-
-                     (a)  an enrolment-related claim or notice is required to be signed by a person; and
-
-                     (b)  the person is already enrolled; and
-
-                     (c)  the person’s name is still the same as the name under which he or she is enrolled;
-
-the requirement that the claim or application be signed is (despite section 336) taken to be satisfied if the person instead satisfies the requirements prescribed by the regulations for the purpose of this subsection.
-
-             (8)  Subsection (7) does not apply to:
-
-                     (a)  an enrolment-related claim or notice that is required or permitted to be sent to the Electoral Commissioner by a provision of Part IX or X; or
-
-                     (b)  any of the following requirements for a signature:
-
-                            (ia)  the requirement in subparagraph 98AA(2)(c)(ii);
-
-                              (i)  the requirement in subsection 98(3);
-
-                             (ii)  the requirement in subsection 99A(5);
-
-                            (iii)  the requirement in subsection 99B(3);
-
-                            (iv)  the requirement that a statutory declaration referred to in subsection 104(3) be signed;
-
-                             (v)  any other requirement for a signature that is prescribed by the regulations for the purpose of this subparagraph.
-
 ##### <a id="383"></a>383  Injunctions
 
              (1)  Where a person has engaged, is engaging or is proposing to engage in any conduct that constituted, constitutes or would constitute a contravention of, or an offence against, this Act or any other law of the Commonwealth in its application to elections, the Federal Court of Australia (the **_Federal Court_**) may, on the application of:
@@ -12612,7 +12635,7 @@ grant an injunction requiring the first-mentioned person to do that act or thing
 
              (2)  In this section:
 
-                    <a name="articl"></a>**_article_** means an article, report, letter or other matter.
+                    <a name="articl"></a>**_article_** means an article, report, letter or other matter to which section 332 applies.
 
                     <a name="elector-video-record"></a><a name="elector-advertis-handbil-pamphlet-notic"></a>**_electoral advertisement, handbill, pamphlet or notice_** and **_electoral video recording_** have the same meaning as in section 328.
 
@@ -12706,15 +12729,13 @@ shall, during a period of 2 years from the date of the conviction or finding, be
 
                      (b)  certified lists of voters; and
 
-                    (ba)  approved lists of voters; and
-
                      (c)  certified copies of the Roll; and
 
                      (d)  declarations; and
 
                      (e)  postal vote certificates; and
 
-                      (f)  pre-poll vote certificates (both for ordinary voting and for declaration voting); and
+                      (f)  pre-poll vote certificates; and
 
                      (g)  lists prepared under section 245.
 
@@ -12722,9 +12743,9 @@ shall, during a period of 2 years from the date of the conviction or finding, be
 
              (3)  The DRO for a Division is responsible for the safe custody, in accordance with the directions of the Electoral Commissioner, of electoral documents used in the Division in connection with an election until the documents are destroyed.
 
-             (4)  An officer who conducts a scrutiny shall, after the completion of the scrutiny, parcel up and seal all electoral documents (except approved lists of voters) dealt with or used in the scrutiny.
+             (4)  An officer who conducts a scrutiny shall, after the completion of the scrutiny, parcel up and seal all electoral documents dealt with or used in the scrutiny.
 
-             (5)  Each Assistant Returning Officer shall send to the DRO, in parcels fastened and sealed, all electoral documents (except approved lists of voters) used in an election in that portion of the Division for which he or she was appointed.
+             (5)  Each Assistant Returning Officer shall send to the DRO, in parcels fastened and sealed, all electoral documents used in an election in that portion of the Division for which he or she was appointed.
 
              (6)  A DRO may open a parcel sent to the DRO by an Assistant Returning Officer.
 
@@ -12775,6 +12796,8 @@ shall, during a period of 2 years from the date of the conviction or finding, be
                      (d)  requiring electors who are registered in accordance with section 185 as general postal voters for a Division to notify the Divisional Returning Officer for the Division of any change in address or of any other circumstances relevant to the elector’s registration under that section as a general postal voter for the Division; and
 
                      (e)  providing for how the Commission is to supply goods or services under an arrangement under section 7A.
+
+ 
 
 # Schedule 1—Forms
 
@@ -13585,7 +13608,7 @@ FORM E
 
 <tr>
   <td>
-    <div> <img width="98" height="31" src="http://www.comlaw.gov.au/Details/C2010C00511/Html/CwlthElectoral1918_WD02_image004.gif">   <img width="61" height="52" src="http://www.comlaw.gov.au/Details/C2010C00511/Html/CwlthElectoral1918_WD02_image005.gif"> </div>
+    <div> <img width="98" height="31" src="http://www.comlaw.gov.au/Details/C2010C00273/Html/CwlthElectoral1918_WD02_image004.gif">   <img width="61" height="52" src="http://www.comlaw.gov.au/Details/C2010C00273/Html/CwlthElectoral1918_WD02_image005.gif"> </div>
   </td>
   <td colspan="8">
     <div>SENATE BALLOT PAPER 
@@ -13621,8 +13644,8 @@ FORM E
 </tr>
 <tr>
   <td colspan="2">
-    <div> <table cellpadding="0" cellspacing="0"> <tr> <td height="25"> <span style="position:absolute;z-index:7"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:0pt 0pt 0pt 0pt"> <p class="MsoNormal" style="line-height:9.0pt"> <span style="font-size:8.0pt">or</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="22"> <span style="position:absolute;z-index:58"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:1.0pt 1.0pt 1.0pt 1.0pt"> <p class="MsoNormal" style="margin-right:-1.2pt"> <span style="font-size: 8.0pt">(2)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="26"> <span style="position:absolute;z-index:57"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:1.0pt 1.0pt 1.0pt 1.0pt"> <p class="MsoNormal"> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="25"> <span style="position:absolute;z-index:56"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:1.0pt 1.0pt 1.0pt 1.0pt"> <p class="MsoNormal" align="center" style="text-align:center"> <span style="font-size:8.0pt">or</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="25"> <span style="position:absolute;z-index:13"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:0pt 0pt 0pt 0pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">or</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="22"> <span style="position:absolute;z-index:10"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:0pt 0pt 0pt 0pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">(4)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="22" height="21" src="http://www.comlaw.gov.au/Details/C2010C00511/Html/CwlthElectoral1918_WD02_image006.gif">   <table cellpadding="0" cellspacing="0"> <tr> <td height="25"> <span style="position:absolute;z-index:14"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:0pt 0pt 0pt 0pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">or</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00511/Html/CwlthElectoral1918_WD02_image007.gif">   <table cellpadding="0" cellspacing="0"> <tr> <td height="22"> <span style="position:absolute;z-index:11"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:0pt 0pt 0pt 0pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">(2)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="23"> <span style="position:absolute;z-index:9"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:0pt 0pt 0pt 0pt"> <p class="MsoNormal" style="line-height:9.0pt"> <span style="font-size:8.0pt">or</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="22"> <span style="position:absolute;z-index:8"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:0pt 0pt 0pt 0pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">(2)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="22" height="21" src="http://www.comlaw.gov.au/Details/C2010C00511/Html/CwlthElectoral1918_WD02_image006.gif">   <img width="12" height="14" src="http://www.comlaw.gov.au/Details/C2010C00511/Html/CwlthElectoral1918_WD02_image008.gif">   <img width="12" height="13" src="http://www.comlaw.gov.au/Details/C2010C00511/Html/CwlthElectoral1918_WD02_image009.gif">   <table cellpadding="0" cellspacing="0"> <tr> <td height="22"> <span style="position:absolute;z-index:12"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:0pt 0pt 0pt 0pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">(2)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table> </div>
-    <div> <table cellpadding="0" cellspacing="0"> <tr> <td height="28" bgcolor="white"> <span style="position:absolute; z-index:5"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.0pt 2.0pt 2.0pt 2.0pt"> <p class="MsoNormal"> <b> <i> <span style="font-size:12.0pt">either</span> </i> </b> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="21" height="22" src="http://www.comlaw.gov.au/Details/C2010C00511/Html/CwlthElectoral1918_WD02_image010.gif">  By placing the single figure 1 in one and only one of these squares to indicate the voting ticket you wish to adopt as your vote</div>
+    <div> <table cellpadding="0" cellspacing="0"> <tr> <td height="25"> <span style="position:absolute;z-index:7"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:0pt 0pt 0pt 0pt"> <p class="MsoNormal" style="line-height:9.0pt"> <span style="font-size:8.0pt">or</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="22"> <span style="position:absolute;z-index:58"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:1.0pt 1.0pt 1.0pt 1.0pt"> <p class="MsoNormal" style="margin-right:-1.2pt"> <span style="font-size: 8.0pt">(2)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="26"> <span style="position:absolute;z-index:57"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:1.0pt 1.0pt 1.0pt 1.0pt"> <p class="MsoNormal"> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="25"> <span style="position:absolute;z-index:56"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:1.0pt 1.0pt 1.0pt 1.0pt"> <p class="MsoNormal" align="center" style="text-align:center"> <span style="font-size:8.0pt">or</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="25"> <span style="position:absolute;z-index:13"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:0pt 0pt 0pt 0pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">or</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="22"> <span style="position:absolute;z-index:10"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:0pt 0pt 0pt 0pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">(4)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="22" height="21" src="http://www.comlaw.gov.au/Details/C2010C00273/Html/CwlthElectoral1918_WD02_image006.gif">   <table cellpadding="0" cellspacing="0"> <tr> <td height="25"> <span style="position:absolute;z-index:14"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:0pt 0pt 0pt 0pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">or</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00273/Html/CwlthElectoral1918_WD02_image007.gif">   <table cellpadding="0" cellspacing="0"> <tr> <td height="22"> <span style="position:absolute;z-index:11"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:0pt 0pt 0pt 0pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">(2)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="23"> <span style="position:absolute;z-index:9"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:0pt 0pt 0pt 0pt"> <p class="MsoNormal" style="line-height:9.0pt"> <span style="font-size:8.0pt">or</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="22"> <span style="position:absolute;z-index:8"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:0pt 0pt 0pt 0pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">(2)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="22" height="21" src="http://www.comlaw.gov.au/Details/C2010C00273/Html/CwlthElectoral1918_WD02_image006.gif">   <img width="12" height="14" src="http://www.comlaw.gov.au/Details/C2010C00273/Html/CwlthElectoral1918_WD02_image008.gif">   <img width="12" height="13" src="http://www.comlaw.gov.au/Details/C2010C00273/Html/CwlthElectoral1918_WD02_image009.gif">   <table cellpadding="0" cellspacing="0"> <tr> <td height="22"> <span style="position:absolute;z-index:12"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:0pt 0pt 0pt 0pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">(2)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table> </div>
+    <div> <table cellpadding="0" cellspacing="0"> <tr> <td height="28" bgcolor="white"> <span style="position:absolute; z-index:5"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.0pt 2.0pt 2.0pt 2.0pt"> <p class="MsoNormal"> <b> <i> <span style="font-size:12.0pt">either</span> </i> </b> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="21" height="22" src="http://www.comlaw.gov.au/Details/C2010C00273/Html/CwlthElectoral1918_WD02_image010.gif">  By placing the single figure 1 in one and only one of these squares to indicate the voting ticket you wish to adopt as your vote</div>
   </td>
   <td>
     <div>A</div>
@@ -13706,7 +13729,7 @@ FORM E
 <tr>
   <td colspan="2">
     <div> <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:37"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.0pt 2.0pt 2.0pt 2.0pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
-(3)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="12" height="11" src="http://www.comlaw.gov.au/Details/C2010C00511/Html/CwlthElectoral1918_WD02_image011.gif">   <img width="14" height="14" src="http://www.comlaw.gov.au/Details/C2010C00511/Html/CwlthElectoral1918_WD02_image012.gif">   <table cellpadding="0" cellspacing="0"> <tr> <td height="28" bgcolor="white"> <span style="position:absolute; z-index:6"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.0pt 2.0pt 2.0pt 2.0pt"> <p class="MsoNormal"> <b> <i> <span style="font-size:12.0pt">or</span> </i> </b> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:55"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.0pt 2.0pt 2.0pt 2.0pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
+(3)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="12" height="11" src="http://www.comlaw.gov.au/Details/C2010C00273/Html/CwlthElectoral1918_WD02_image011.gif">   <img width="14" height="14" src="http://www.comlaw.gov.au/Details/C2010C00273/Html/CwlthElectoral1918_WD02_image012.gif">   <table cellpadding="0" cellspacing="0"> <tr> <td height="28" bgcolor="white"> <span style="position:absolute; z-index:6"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.0pt 2.0pt 2.0pt 2.0pt"> <p class="MsoNormal"> <b> <i> <span style="font-size:12.0pt">or</span> </i> </b> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:55"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.0pt 2.0pt 2.0pt 2.0pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
 (4)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:54"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.0pt 2.0pt 2.0pt 2.0pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
 (4)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:53"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.0pt 2.0pt 2.0pt 2.0pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
 (3)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:52"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.0pt 2.0pt 2.0pt 2.0pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
@@ -13723,7 +13746,7 @@ FORM E
 (3)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:41"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.0pt 2.0pt 2.0pt 2.0pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
 (3)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:40"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.0pt 2.0pt 2.0pt 2.0pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
 (3)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:39"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.0pt 2.0pt 2.0pt 2.0pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
-(3)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="22" height="21" src="http://www.comlaw.gov.au/Details/C2010C00511/Html/CwlthElectoral1918_WD02_image013.gif">   <img width="21" height="22" src="http://www.comlaw.gov.au/Details/C2010C00511/Html/CwlthElectoral1918_WD02_image014.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00511/Html/CwlthElectoral1918_WD02_image015.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00511/Html/CwlthElectoral1918_WD02_image016.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00511/Html/CwlthElectoral1918_WD02_image017.gif">   <img width="21" height="22" src="http://www.comlaw.gov.au/Details/C2010C00511/Html/CwlthElectoral1918_WD02_image018.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00511/Html/CwlthElectoral1918_WD02_image017.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00511/Html/CwlthElectoral1918_WD02_image019.gif">   <img width="21" height="22" src="http://www.comlaw.gov.au/Details/C2010C00511/Html/CwlthElectoral1918_WD02_image020.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00511/Html/CwlthElectoral1918_WD02_image019.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00511/Html/CwlthElectoral1918_WD02_image016.gif">   <img width="22" height="21" src="http://www.comlaw.gov.au/Details/C2010C00511/Html/CwlthElectoral1918_WD02_image021.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00511/Html/CwlthElectoral1918_WD02_image022.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00511/Html/CwlthElectoral1918_WD02_image023.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00511/Html/CwlthElectoral1918_WD02_image024.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00511/Html/CwlthElectoral1918_WD02_image025.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00511/Html/CwlthElectoral1918_WD02_image024.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00511/Html/CwlthElectoral1918_WD02_image023.gif">  By placing the numbers 1 to (7) in the order of your preference</div>
+(3)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="22" height="21" src="http://www.comlaw.gov.au/Details/C2010C00273/Html/CwlthElectoral1918_WD02_image013.gif">   <img width="21" height="22" src="http://www.comlaw.gov.au/Details/C2010C00273/Html/CwlthElectoral1918_WD02_image014.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00273/Html/CwlthElectoral1918_WD02_image015.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00273/Html/CwlthElectoral1918_WD02_image016.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00273/Html/CwlthElectoral1918_WD02_image017.gif">   <img width="21" height="22" src="http://www.comlaw.gov.au/Details/C2010C00273/Html/CwlthElectoral1918_WD02_image018.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00273/Html/CwlthElectoral1918_WD02_image017.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00273/Html/CwlthElectoral1918_WD02_image019.gif">   <img width="21" height="22" src="http://www.comlaw.gov.au/Details/C2010C00273/Html/CwlthElectoral1918_WD02_image020.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00273/Html/CwlthElectoral1918_WD02_image019.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00273/Html/CwlthElectoral1918_WD02_image016.gif">   <img width="22" height="21" src="http://www.comlaw.gov.au/Details/C2010C00273/Html/CwlthElectoral1918_WD02_image021.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00273/Html/CwlthElectoral1918_WD02_image022.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00273/Html/CwlthElectoral1918_WD02_image023.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00273/Html/CwlthElectoral1918_WD02_image024.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00273/Html/CwlthElectoral1918_WD02_image025.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00273/Html/CwlthElectoral1918_WD02_image024.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2010C00273/Html/CwlthElectoral1918_WD02_image023.gif">  By placing the numbers 1 to (7) in the order of your preference</div>
   </td>
   <td>
     <div> <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:38"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.0pt 2.0pt 2.0pt 2.0pt"> <p class="MsoNormal"> </p> </div> </td> </tr> </table> </span> </td> </tr> </table> </div>
@@ -13787,7 +13810,7 @@ FORM F
 
 <tr>
   <td colspan="2">
-    <div> <img width="61" height="52" src="http://www.comlaw.gov.au/Details/C2010C00511/Html/CwlthElectoral1918_WD02_image005.gif">   <img width="98" height="31" src="http://www.comlaw.gov.au/Details/C2010C00511/Html/CwlthElectoral1918_WD02_image026.gif">  BALLOT PAPER</div>
+    <div> <img width="61" height="52" src="http://www.comlaw.gov.au/Details/C2010C00273/Html/CwlthElectoral1918_WD02_image005.gif">   <img width="98" height="31" src="http://www.comlaw.gov.au/Details/C2010C00273/Html/CwlthElectoral1918_WD02_image026.gif">  BALLOT PAPER</div>
     <div>HOUSE OF REPRESENTATIVES</div>
     <div>\[ <i>here insert name of State or Territory as appropriate</i>]</div>
     <div>Electoral Division of \[ <i>here insert name of Division</i>].</div>
@@ -13798,7 +13821,7 @@ FORM F
 <tr>
   <td>
     <div> <table cellpadding="0" cellspacing="0"> <tr> <td height="44"> <span style="position:absolute;z-index:65"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.0pt 2.0pt 2.0pt 2.0pt"> <p class="MsoNormal">1 
-2</p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="11" height="12" src="http://www.comlaw.gov.au/Details/C2010C00511/Html/CwlthElectoral1918_WD02_image027.gif"> </div>
+2</p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="11" height="12" src="http://www.comlaw.gov.au/Details/C2010C00273/Html/CwlthElectoral1918_WD02_image027.gif"> </div>
   </td>
   <td>
     <div>\[1 <i> Here insert name of a candidate</i> </div>
@@ -13808,7 +13831,7 @@ FORM F
 <tr>
   <td>
     <div> <table cellpadding="0" cellspacing="0"> <tr> <td height="44"> <span style="position:absolute;z-index:66"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.0pt 2.0pt 2.0pt 2.0pt"> <p class="MsoNormal">1 
-2</p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="11" height="12" src="http://www.comlaw.gov.au/Details/C2010C00511/Html/CwlthElectoral1918_WD02_image028.gif"> </div>
+2</p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="11" height="12" src="http://www.comlaw.gov.au/Details/C2010C00273/Html/CwlthElectoral1918_WD02_image028.gif"> </div>
   </td>
   <td>
     <div><i> party, composite name of registered political parties </i></div>
@@ -13818,7 +13841,7 @@ FORM F
 <tr>
   <td>
     <div> <table cellpadding="0" cellspacing="0"> <tr> <td height="44"> <span style="position:absolute;z-index:67"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.0pt 2.0pt 2.0pt 2.0pt"> <p class="MsoNormal">1 
-2</p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="11" height="12" src="http://www.comlaw.gov.au/Details/C2010C00511/Html/CwlthElectoral1918_WD02_image027.gif"> </div>
+2</p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="11" height="12" src="http://www.comlaw.gov.au/Details/C2010C00273/Html/CwlthElectoral1918_WD02_image027.gif"> </div>
   </td>
   <td>
     <div></div>
@@ -13827,7 +13850,7 @@ FORM F
 <tr>
   <td>
     <div> <table cellpadding="0" cellspacing="0"> <tr> <td height="44"> <span style="position:absolute;z-index:61"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.0pt 2.0pt 2.0pt 2.0pt"> <p class="MsoNormal">1 
-2</p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="11" height="12" src="http://www.comlaw.gov.au/Details/C2010C00511/Html/CwlthElectoral1918_WD02_image027.gif"> </div>
+2</p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="11" height="12" src="http://www.comlaw.gov.au/Details/C2010C00273/Html/CwlthElectoral1918_WD02_image027.gif"> </div>
   </td>
   <td>
     <div></div>
@@ -13849,8 +13872,6 @@ _Sections 183 and 200A_
 
               3.  Throughout the hours of polling on polling day, the elector will be travelling under conditions that will prevent the elector attending a polling booth in the State or Territory for which the elector is enrolled.
 
-            3A.  Throughout the hours of polling on polling day, the elector will be absent from the Division for which the elector is enrolled.
-
               4.  The elector will be unable to attend a polling booth on polling day because of:
 
                      (a)  serious illness;
@@ -13859,13 +13880,13 @@ _Sections 183 and 200A_
 
                      (c)  approaching childbirth.
 
-(In the case of an elector who will be a patient at a hospital on polling day, this paragraph applies regardless of the operation of sections 224 and 227.)
+(In the case of an elector who will be a patient at a hospital on polling day, this paragraph applies regardless of the operation of sections 224 and 225.)
 
               5.  On polling day, the elector will be unable to attend a polling booth because the elector will be at a place (other than a hospital) caring for a person who is seriously ill or infirm or who is expected shortly to give birth.
 
-              6.  Throughout the hours of polling on polling day, the elector will be a patient at a hospital and unable to vote at the hospital.
+              6.  Throughout the hours of polling on polling day, the elector will be a patient at a hospital (other than a special hospital) and unable to vote at the hospital.
 
-            7A.  The elector will be unable to attend a polling booth on polling day because of a reasonable fear for, or a reasonable apprehension about, his or her personal wellbeing or safety.
+              7.  Throughout the hours of polling on polling day, the elector will be a patient at a special hospital but will be unable to have his or her vote taken under section 225.
 
               8.  Because of the elector’s religious beliefs or membership of a religious order, the elector:
 
@@ -14045,7 +14066,7 @@ The _Commonwealth Electoral Act 1918_ was amended by the _Public Employment (Con
 
 For application, saving or transitional provisions made by the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, _see_ Act No. 55, 2001.
 
-All relevant information pertaining to application, saving or transitional provisions prior to 13 October 1999 is not included in this compilation. For subsequent information _see_ Table A.
+All other relevant information pertaining to application, saving or transitional provisions prior to 13 October 1999 is not included in this compilation. For subsequent information _see_ Table A.
 
 ### Table of Acts
 
@@ -16016,61 +16037,6 @@ Schedule 4 (items 6–175) and Schedule 5 (item 137): <i>(y)</i></div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Electoral and Referendum Amendment (How-to-Vote Cards and Other Measures) Act 2010</div>
-  </td>
-  <td>
-    <div>108, 2010</div>
-  </td>
-  <td>
-    <div>14 July 2010</div>
-  </td>
-  <td>
-    <div>Schedule 1 and Schedule 2 (items 1, 2, 5): 23 July 2010 ( <i>see</i>F2010L02127)</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 9) and Sch. 2 (item 5) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Electoral and Referendum Amendment (Pre-poll Voting and Other Measures) Act 2010</div>
-  </td>
-  <td>
-    <div>109, 2010</div>
-  </td>
-  <td>
-    <div>14 July 2010</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 1–39, 77), Schedule 3 and Schedule 4 (items 1–20, 40): Royal Assent 
-Schedule 2 (items 1–181, 189): 19 July 2010 ( <i>see</i>F2010L02126)</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 77), Sch. 2 (item 189), Sch. 3 (item 5) and Sch. 4 (item 40) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Electoral and Referendum Amendment (Modernisation and Other Measures) Act 2010</div>
-  </td>
-  <td>
-    <div>110, 2010</div>
-  </td>
-  <td>
-    <div>14 July 2010</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 1–18, 34–36), Schedule 4 (items 1–17, 32–38, 46, 47), Schedule 8 (items 1, 2, 5) and Schedule 9 (items 1–46, 49): 15 July 2010 
-Schedules 2 and 3: <i>(z) 
- </i>Schedule 5 (items 1–54, 107, 108(1)) and Schedule 7: 23 July 2010 ( <i>see</i>F2010L02128) 
-Schedule 6 (items 1, 3–10, 21, 22): \[ <i>see</i>Note 9 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 1 (items 3, 9, 18), Sch. 2 (items 11, 12), Sch. 3 (item 9), Sch. 5 (items 107, 108(1)), Sch. 6 (items 21, 22), Sch. 7 (item 12), Sch. 8 (item 5) and Sch. 9 (item 49) \[ <i>see</i>Table A]</div>
-  </td>
 </tr></table>
 
 _(a)_     Section 3 of the _Commonwealth Electoral Act 1946_ provides as follows:
@@ -16603,75 +16569,6 @@ _(y)_ Subsection 2(1) (items 29–31 and 38) of the _Statute Law Revision Act 
   </td>
 </tr></table>
 
-_(z)_ Subsection 2(1) (item 4) of the _Electoral and Referendum Amendment (Modernisation and Other Measures) Act 2010_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      4\. Schedules 2 and 3
-    </div>
-  </td>
-  <td>
-    <div>
-      The later of:
-    </div>
-    <div>
-      (a) the start of the day after this Act receives the Royal Assent; and
-    </div>
-    <div>
-      (b) immediately after the commencement of Schedule 2 to the
-        <i>Electoral and Referendum Amendment (Pre-poll Voting and Other Measures)
-          Act 2010</i>.
-    </div>
-    <div>
-      However, the provision(s) do not commence at all if the event mentioned
-        in paragraph (b) does not occur.
-    </div>
-  </td>
-  <td>
-    <div>
-      19 July 2010
-    </div>
-    <div>
-      (paragraph (b) applies)
-    </div>
-  </td>
-</tr></table>
-
 The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering by the _Commonwealth Electoral Legislation Amendment Act 1984_ (No. 45, 1984) appears in the Table below. For repealed provisions up to and including Act No. 45, 1984 _see_ the Repeal Table.
 
 ## Table of Amendments
@@ -16718,7 +16615,7 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 144, 1983; Nos. 45, 46 and 120, 1984; No. 35, 1987; No. 24, 1990; No. 167, 1991; No. 121, 1992; No. 94, 1998; No. 34, 2001; Nos. 34 and 78, 2004; No. 65, 2006; No. 22, 2007; No. 144, 2008; Nos. 8, 108, 109 and 110, 2010</div>
+    <div>am. No. 144, 1983; Nos. 45, 46 and 120, 1984; No. 35, 1987; No. 24, 1990; No. 167, 1991; No. 121, 1992; No. 94, 1998; No. 34, 2001; Nos. 34 and 78, 2004; No. 65, 2006; No. 22, 2007; No. 144, 2008; No. 8, 2010</div>
   </td>
 </tr>
 <tr>
@@ -17022,7 +16919,7 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
     <div></div>
   </td>
   <td>
-    <div>am. No. 24, 1990; No. 203, 1991; No. 219, 1992; No. 126, 2000; No. 65, 2006; No. 110, 2010</div>
+    <div>am. No. 24, 1990; No. 203, 1991; No. 219, 1992; No. 126, 2000; No. 65, 2006</div>
   </td>
 </tr>
 <tr>
@@ -17219,14 +17116,6 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 109, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Division 4</b></div>
   </td>
   <td>
@@ -17286,7 +17175,7 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
     <div></div>
   </td>
   <td>
-    <div>am. No. 24, 1990; No. 110, 2010</div>
+    <div>am. No. 24, 1990</div>
   </td>
 </tr>
 <tr>
@@ -17367,14 +17256,6 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
   </td>
   <td>
     <div>am. No. 144, 1983</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 110, 2010</div>
   </td>
 </tr>
 <tr>
@@ -18182,7 +18063,7 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
     <div>S. 80</div>
   </td>
   <td>
-    <div>am. No. 144, 1983; No. 78, 2004; No. 110, 2010</div>
+    <div>am. No. 144, 1983; No. 78, 2004</div>
   </td>
 </tr>
 <tr>
@@ -18246,20 +18127,12 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
     <div></div>
   </td>
   <td>
-    <div>am. No. 24, 1990; No. 219, 1992; No. 109, 2010</div>
+    <div>am. No. 24, 1990; No. 219, 1992</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 87</div>
-  </td>
-  <td>
-    <div>am. No. 144, 1983; No. 109, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 88</div>
+    <div>Ss. 87, 88</div>
   </td>
   <td>
     <div>am. No. 144, 1983</div>
@@ -18271,14 +18144,6 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
   </td>
   <td>
     <div>am. No. 19, 1940; No. 144, 1983; No. 45, 1984; No. 24, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 110, 2010</div>
   </td>
 </tr>
 <tr>
@@ -18315,14 +18180,6 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 110, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 90B</div>
   </td>
   <td>
@@ -18334,7 +18191,7 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
     <div></div>
   </td>
   <td>
-    <div>am. No. 115, 2004; Nos. 65 and 170, 2006; Nos. 22 and 52, 2007; Nos. 8 and 110, 2010</div>
+    <div>am. No. 115, 2004; Nos. 65 and 170, 2006; Nos. 22 and 52, 2007; No. 8, 2010</div>
   </td>
 </tr>
 <tr>
@@ -18406,7 +18263,7 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
     <div></div>
   </td>
   <td>
-    <div>am. No. 219, 1992; No. 94, 1998; No. 134, 1999; No. 126, 2000; No. 78, 2004; Nos. 65 and 170, 2006; No. 52, 2007; No. 110, 2010</div>
+    <div>am. No. 219, 1992; No. 94, 1998; No. 134, 1999; No. 126, 2000; No. 78, 2004; Nos. 65 and 170, 2006; No. 52, 2007</div>
   </td>
 </tr>
 <tr>
@@ -18483,14 +18340,6 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 109, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 94</div>
   </td>
   <td>
@@ -18518,7 +18367,7 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
     <div></div>
   </td>
   <td>
-    <div>am. No. 45, 1984; No. 24, 1990; No. 121, 1992; No. 166, 1995; No. 94, 1998; No. 34, 2001; No. 78, 2004; No. 109, 2010</div>
+    <div>am. No. 45, 1984; No. 24, 1990; No. 121, 1992; No. 166, 1995; No. 94, 1998; No. 34, 2001; No. 78, 2004</div>
   </td>
 </tr>
 <tr>
@@ -18534,7 +18383,7 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
     <div></div>
   </td>
   <td>
-    <div>am. No. 34, 2001; Nos. 78 and 115, 2004; No. 65, 2006; Nos. 109 and 110, 2010</div>
+    <div>am. No. 34, 2001; Nos. 78 and 115, 2004; No. 65, 2006</div>
   </td>
 </tr>
 <tr>
@@ -18566,7 +18415,7 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
     <div></div>
   </td>
   <td>
-    <div>am. No. 45, 1984; No. 24, 1990; No. 121, 1992; No. 166, 1995; No. 94, 1998; No. 34, 2001; Nos. 78 and 115, 2004; No. 65, 2006; No. 144, 2008; Nos. 109 and 110, 2010</div>
+    <div>am. No. 45, 1984; No. 24, 1990; No. 121, 1992; No. 166, 1995; No. 94, 1998; No. 34, 2001; Nos. 78 and 115, 2004; No. 65, 2006; No. 144, 2008</div>
   </td>
 </tr>
 <tr>
@@ -18587,7 +18436,7 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
 </tr>
 <tr>
   <td>
-    <div>Ss. 95AB, 95AC</div>
+    <div>S. 95AB</div>
   </td>
   <td>
     <div>ad. No. 121, 1992</div>
@@ -18595,10 +18444,10 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
 </tr>
 <tr>
   <td>
-    <div></div>
+    <div>S. 95AC</div>
   </td>
   <td>
-    <div>am. No. 109, 2010</div>
+    <div>ad. No. 121, 1992</div>
   </td>
 </tr>
 <tr>
@@ -18614,7 +18463,7 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
     <div></div>
   </td>
   <td>
-    <div>am. No. 35, 1987; No. 24, 1990; No. 167, 1991; No. 121, 1992; No. 166, 1995; No. 34, 2001; No. 65, 2006; Nos. 109 and 110, 2010</div>
+    <div>am. No. 35, 1987; No. 24, 1990; No. 167, 1991; No. 121, 1992; No. 166, 1995; No. 34, 2001; No. 65, 2006</div>
   </td>
 </tr>
 <tr>
@@ -18651,14 +18500,6 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 109, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part VIII</b></div>
   </td>
   <td>
@@ -18683,18 +18524,10 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 110, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 98</div>
   </td>
   <td>
-    <div>am. No. 144, 1983; No. 45, 1984; No. 24, 1990; No. 65, 2006; No. 110, 2010</div>
+    <div>am. No. 144, 1983; No. 45, 1984; No. 24, 1990; No. 65, 2006</div>
   </td>
 </tr>
 <tr>
@@ -18703,14 +18536,6 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
   </td>
   <td>
     <div>ad. No. 34, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 109, 2010</div>
   </td>
 </tr>
 <tr>
@@ -18734,15 +18559,7 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
     <div></div>
   </td>
   <td>
-    <div>am. No. 115, 2004; No. 65, 2006; No. 21, 2007; Nos. 109 and 110, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 99B(5)</div>
-  </td>
-  <td>
-    <div>am. No. 109, 2010</div>
+    <div>am. No. 115, 2004; No. 65, 2006; No. 21, 2007</div>
   </td>
 </tr>
 <tr>
@@ -18758,23 +18575,7 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
     <div></div>
   </td>
   <td>
-    <div>am. No. 65, 2006 (as am. by No. 73, 2008); No. 109, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 99B(1)</div>
-  </td>
-  <td>
-    <div>am. No. 109, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 100</div>
-  </td>
-  <td>
-    <div>am. No. 110, 2010</div>
+    <div>am. No. 65, 2006 (as am. by No. 73, 2008)</div>
   </td>
 </tr>
 <tr>
@@ -18790,7 +18591,7 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
     <div></div>
   </td>
   <td>
-    <div>am. No. 45, 1984; No. 24, 1990; No. 167, 1991; No. 115, 2004; Nos. 109 and 110, 2010</div>
+    <div>am. No. 45, 1984; No. 24, 1990; No. 167, 1991; No. 115, 2004</div>
   </td>
 </tr>
 <tr>
@@ -18798,7 +18599,7 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
     <div>S. 101</div>
   </td>
   <td>
-    <div>am. No. 26, 1961; No. 31, 1962; No. 48, 1965; No. 93, 1966; No. 144, 1983; No. 45, 1984; No. 35, 1987; No. 24, 1990; No. 121, 1992; No. 94, 1998; No. 109, 2001; No. 115, 2004; No. 109, 2010</div>
+    <div>am. No. 26, 1961; No. 31, 1962; No. 48, 1965; No. 93, 1966; No. 144, 1983; No. 45, 1984; No. 35, 1987; No. 24, 1990; No. 121, 1992; No. 94, 1998; No. 109, 2001; No. 115, 2004</div>
   </td>
 </tr>
 <tr>
@@ -18846,7 +18647,7 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
     <div></div>
   </td>
   <td>
-    <div>am. No. 35, 1987; No. 24, 1990; No. 167, 1991; No. 219, 1992; No. 166, 1995; No. 94, 1998; No. 115, 2004; No. 65, 2006; No. 109, 2010</div>
+    <div>am. No. 35, 1987; No. 24, 1990; No. 167, 1991; No. 219, 1992; No. 166, 1995; No. 94, 1998; No. 115, 2004; No. 65, 2006</div>
   </td>
 </tr>
 <tr>
@@ -18870,7 +18671,7 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
     <div></div>
   </td>
   <td>
-    <div>am. No. 24, 1990; No. 167, 1991; No. 219, 1992; No. 115, 2004; No. 144, 2008; No. 109, 2010</div>
+    <div>am. No. 24, 1990; No. 167, 1991; No. 219, 1992; No. 115, 2004; No. 144, 2008</div>
   </td>
 </tr>
 <tr>
@@ -18878,7 +18679,7 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
     <div>S. 105</div>
   </td>
   <td>
-    <div>am. No. 9, 1934; No. 19, 1940; No. 144, 1983; No. 24, 1990; No. 115, 2004; No. 65, 2006; No. 109, 2010</div>
+    <div>am. No. 9, 1934; No. 19, 1940; No. 144, 1983; No. 24, 1990; No. 115, 2004; No. 65, 2006</div>
   </td>
 </tr>
 <tr>
@@ -18894,7 +18695,7 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
     <div></div>
   </td>
   <td>
-    <div>am. No. 144, 1983; No. 24, 1990; No. 109, 2010</div>
+    <div>am. No. 144, 1983; No. 24, 1990</div>
   </td>
 </tr>
 <tr>
@@ -18902,7 +18703,7 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
     <div>S. 107</div>
   </td>
   <td>
-    <div>am. No. 26, 1961; No. 144, 1983; No. 109, 2010</div>
+    <div>am. No. 26, 1961; No. 144, 1983</div>
   </td>
 </tr>
 <tr>
@@ -18910,7 +18711,7 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
     <div>S. 108</div>
   </td>
   <td>
-    <div>am. No. 7, 1973; No. 144, 1983; No. 24, 1990; Nos. 109 and 110, 2010</div>
+    <div>am. No. 7, 1973; No. 144, 1983; No. 24, 1990</div>
   </td>
 </tr>
 <tr>
@@ -18931,26 +18732,10 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 109, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 110</div>
-  </td>
-  <td>
-    <div>am. No. 109, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 110</div>
   </td>
   <td>
-    <div>am. No. 144, 1983 (as am. by No. 45, 1984); No. 109, 2010</div>
+    <div>am. No. 144, 1983 (as am. by No. 45, 1984)</div>
   </td>
 </tr>
 <tr>
@@ -18966,7 +18751,7 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
     <div></div>
   </td>
   <td>
-    <div>am. No. 45, 1984; No. 24, 1990; No. 78, 2004; No. 109, 2010</div>
+    <div>am. No. 45, 1984; No. 24, 1990; No. 78, 2004</div>
   </td>
 </tr>
 <tr>
@@ -18975,14 +18760,6 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
   </td>
   <td>
     <div>ad. No. 166, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 109, 2010</div>
   </td>
 </tr>
 <tr>
@@ -18999,14 +18776,6 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
   </td>
   <td>
     <div>am. No. 24, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 109, 2010</div>
   </td>
 </tr>
 <tr>
@@ -19046,7 +18815,7 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
     <div></div>
   </td>
   <td>
-    <div>am. No. 94, 1998; No. 115, 2004; No. 109, 2010</div>
+    <div>am. No. 94, 1998; No. 115, 2004</div>
   </td>
 </tr>
 <tr>
@@ -19070,7 +18839,7 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
     <div></div>
   </td>
   <td>
-    <div>am. No. 94, 1998; No. 115, 2004; No. 109, 2010</div>
+    <div>am. No. 94, 1998; No. 115, 2004</div>
   </td>
 </tr>
 <tr>
@@ -19094,7 +18863,7 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
     <div></div>
   </td>
   <td>
-    <div>am. No. 94, 1998; No. 115, 2004; No. 109, 2010</div>
+    <div>am. No. 94, 1998; No. 115, 2004</div>
   </td>
 </tr>
 <tr>
@@ -19115,26 +18884,10 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 109, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 117</div>
   </td>
   <td>
     <div>rs. No. 24, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 109, 2010</div>
   </td>
 </tr>
 <tr>
@@ -19158,7 +18911,7 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
     <div></div>
   </td>
   <td>
-    <div>am. No. 167, 1991; No. 94, 1998; No. 115, 2004; No. 65, 2006; No. 109, 2010</div>
+    <div>am. No. 167, 1991; No. 94, 1998; No. 115, 2004; No. 65, 2006</div>
   </td>
 </tr>
 <tr>
@@ -19195,14 +18948,6 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 120</div>
-  </td>
-  <td>
-    <div>rs. No. 109, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 120</div>
   </td>
   <td>
@@ -19214,7 +18959,7 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
     <div></div>
   </td>
   <td>
-    <div>am. No. 24, 1990; No. 167, 1991; No. 219, 1992; No. 34, 2001; No. 78, 2004; Nos. 109 and 110, 2010</div>
+    <div>am. No. 24, 1990; No. 167, 1991; No. 219, 1992; No. 34, 2001; No. 78, 2004</div>
   </td>
 </tr>
 <tr>
@@ -19230,7 +18975,7 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
     <div></div>
   </td>
   <td>
-    <div>am. No. 94, 1998; No. 34, 2001; No. 78, 2004; Nos. 109 and 110, 2010</div>
+    <div>am. No. 94, 1998; No. 34, 2001; No. 78, 2004</div>
   </td>
 </tr>
 <tr>
@@ -19247,14 +18992,6 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
   </td>
   <td>
     <div>am. No. 24, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 109, 2010</div>
   </td>
 </tr>
 <tr>
@@ -19286,31 +19023,15 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
     <div></div>
   </td>
   <td>
-    <div>am. No. 109, 1988; No. 24, 1990; No. 126, 2000; No. 110, 2010</div>
+    <div>am. No. 109, 1988; No. 24, 1990; No. 126, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 124</div>
+    <div>Ss. 124, 125</div>
   </td>
   <td>
     <div>ad. No. 144, 1983</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 125</div>
-  </td>
-  <td>
-    <div>ad. No. 144, 1983</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 110, 2010</div>
   </td>
 </tr>
 <tr>
@@ -19326,7 +19047,7 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
     <div></div>
   </td>
   <td>
-    <div>am. No. 24, 1990; No. 126, 2000; No. 110, 2010</div>
+    <div>am. No. 24, 1990; No. 126, 2000</div>
   </td>
 </tr>
 <tr>
@@ -19335,14 +19056,6 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
   </td>
   <td>
     <div>ad. No. 144, 1983</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 110, 2010</div>
   </td>
 </tr>
 <tr>
@@ -19374,7 +19087,7 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
     <div></div>
   </td>
   <td>
-    <div>am. No. 126, 2000; No. 115, 2004; No. 110, 2010</div>
+    <div>am. No. 126, 2000; No. 115, 2004</div>
   </td>
 </tr>
 <tr>
@@ -19383,14 +19096,6 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
   </td>
   <td>
     <div>ad. No. 144, 1983</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 110, 2010</div>
   </td>
 </tr>
 <tr>
@@ -19406,7 +19111,7 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
     <div></div>
   </td>
   <td>
-    <div>am. No. 219, 1992; No. 110, 2010</div>
+    <div>am. No. 219, 1992</div>
   </td>
 </tr>
 <tr>
@@ -19422,15 +19127,7 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
     <div></div>
   </td>
   <td>
-    <div>am. No. 24, 1990; No. 219, 1992; No. 110, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 132A</div>
-  </td>
-  <td>
-    <div>am. No. 110, 2010</div>
+    <div>am. No. 24, 1990; No. 219, 1992</div>
   </td>
 </tr>
 <tr>
@@ -19443,26 +19140,10 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 110, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 133</div>
   </td>
   <td>
     <div>ad. No. 144, 1983</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 110, 2010</div>
   </td>
 </tr>
 <tr>
@@ -19478,7 +19159,7 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
     <div></div>
   </td>
   <td>
-    <div>am. No. 24, 1990; No. 126, 2000; No. 78, 2004; No. 110, 2010</div>
+    <div>am. No. 24, 1990; No. 126, 2000; No. 78, 2004</div>
   </td>
 </tr>
 <tr>
@@ -19494,7 +19175,7 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
     <div></div>
   </td>
   <td>
-    <div>am. Nos. 78 and 115, 2004; No. 110, 2010</div>
+    <div>am. Nos. 78 and 115, 2004</div>
   </td>
 </tr>
 <tr>
@@ -19518,7 +19199,7 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
     <div></div>
   </td>
   <td>
-    <div>am. No. 94, 1998; No. 110, 2010</div>
+    <div>am. No. 94, 1998</div>
   </td>
 </tr>
 <tr>
@@ -19534,7 +19215,7 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
     <div></div>
   </td>
   <td>
-    <div>am. No. 24, 1990; No. 219, 1992; No. 94, 1998; No. 110, 2010</div>
+    <div>am. No. 24, 1990; No. 219, 1992; No. 94, 1998</div>
   </td>
 </tr>
 <tr>
@@ -19558,7 +19239,7 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
     <div></div>
   </td>
   <td>
-    <div>am. No. 94, 1998; No. 34, 2001; No. 110, 2010</div>
+    <div>am. No. 94, 1998; No. 34, 2001</div>
   </td>
 </tr>
 <tr>
@@ -19582,7 +19263,7 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
     <div></div>
   </td>
   <td>
-    <div>am. No. 94, 1998; No. 110, 2010</div>
+    <div>am. No. 94, 1998</div>
   </td>
 </tr>
 <tr>
@@ -19603,14 +19284,6 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 110, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 140</div>
   </td>
   <td>
@@ -19622,7 +19295,7 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
     <div></div>
   </td>
   <td>
-    <div>am. No. 24, 1990; No. 94, 1998; No. 110, 2010</div>
+    <div>am. No. 24, 1990; No. 94, 1998</div>
   </td>
 </tr>
 <tr>
@@ -19638,7 +19311,7 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
     <div></div>
   </td>
   <td>
-    <div>am. No. 24, 1990; No. 94, 1998; No. 38, 2005; No. 110, 2010</div>
+    <div>am. No. 24, 1990; No. 94, 1998; No. 38, 2005</div>
   </td>
 </tr>
 <tr>
@@ -19943,7 +19616,7 @@ rep. No. 35, 1987</div>
     <div>S. 166</div>
   </td>
   <td>
-    <div>am. No. 144, 1983; No. 45, 1984; No. 35, 1987; No. 24, 1990; No. 167, 1991; No. 219, 1992; No. 94, 1998; No. 78, 2004; Nos. 8 and 109, 2010</div>
+    <div>am. No. 144, 1983; No. 45, 1984; No. 35, 1987; No. 24, 1990; No. 167, 1991; No. 219, 1992; No. 94, 1998; No. 78, 2004; No. 8, 2010</div>
   </td>
 </tr>
 <tr>
@@ -20119,7 +19792,7 @@ rep. No. 35, 1987</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 35, 1987; No. 109, 2010</div>
+    <div>am. No. 35, 1987</div>
   </td>
 </tr>
 <tr>
@@ -20311,7 +19984,7 @@ rep. No. 35, 1987</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 167, 1991; No. 166, 1995; No. 137, 2000; Nos. 115 and 123, 2004; No. 22, 2007; Nos. 109 and 110, 2010</div>
+    <div>am. No. 167, 1991; No. 166, 1995; No. 137, 2000; Nos. 115 and 123, 2004; No. 22, 2007</div>
   </td>
 </tr>
 <tr>
@@ -20328,14 +20001,6 @@ rep. No. 35, 1987</div>
   </td>
   <td>
     <div>ad. No. 24, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 109, 2010</div>
   </td>
 </tr>
 <tr>
@@ -20375,7 +20040,7 @@ rep. No. 35, 1987</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 22, 2007; No. 109, 2010</div>
+    <div>am. No. 22, 2007</div>
   </td>
 </tr>
 <tr>
@@ -20396,34 +20061,10 @@ rep. No. 35, 1987</div>
 </tr>
 <tr>
   <td>
-    <div>S. 185B</div>
+    <div>Ss. 185B, 185C</div>
   </td>
   <td>
     <div>ad. No. 24, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 109, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 185C</div>
-  </td>
-  <td>
-    <div>ad. No. 24, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 109, 2010</div>
   </td>
 </tr>
 <tr>
@@ -20679,7 +20320,7 @@ rep. No. 35, 1987</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 34, 2001; No. 78, 2004; No. 22, 2007; Nos. 8 and 110, 2010</div>
+    <div>am. No. 34, 2001; No. 78, 2004; No. 22, 2007; No. 8, 2010</div>
   </td>
 </tr>
 <tr>
@@ -20719,7 +20360,7 @@ rep. No. 35, 1987</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 22, 2007; Nos. 8 and 110, 2010</div>
+    <div>am. No. 22, 2007; No. 8, 2010</div>
   </td>
 </tr>
 <tr>
@@ -20884,47 +20525,6 @@ rep. No. 35, 1987</div>
 </tr>
 <tr>
   <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 1 of Part XVA</div>
-  </td>
-  <td>
-    <div>ad. No. 109, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 200AA</div>
-  </td>
-  <td>
-    <div>ad. No. 109, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 2 of 
-Part XVA</div>
-  </td>
-  <td>
-    <div>ad. No. 109, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 200A</div>
   </td>
   <td>
@@ -20936,15 +20536,7 @@ Part XVA</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 65, 2006; No. 109, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 200A(2)</div>
-  </td>
-  <td>
-    <div>ad. No. 109, 2010</div>
+    <div>am. No. 65, 2006</div>
   </td>
 </tr>
 <tr>
@@ -20965,26 +20557,10 @@ Part XVA</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. Nos. 109 and 110, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 200C</div>
   </td>
   <td>
     <div>ad. No. 24, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 200C(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 109, 2010</div>
   </td>
 </tr>
 <tr>
@@ -21001,14 +20577,6 @@ Part XVA</div>
   </td>
   <td>
     <div>am. No. 166, 1995; No. 94, 1998; No. 22, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 200D(3)</div>
-  </td>
-  <td>
-    <div>ad. No. 109, 2010</div>
   </td>
 </tr>
 <tr>
@@ -21037,167 +20605,6 @@ Part XVA</div>
 </tr>
 <tr>
   <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 3 of Part XVA</div>
-  </td>
-  <td>
-    <div>ad. No. 109, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 200DC</div>
-  </td>
-  <td>
-    <div>ad. No. 109, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 200DD</div>
-  </td>
-  <td>
-    <div>ad. No. 109, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 110, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 200DE, 200DF</div>
-  </td>
-  <td>
-    <div>ad. No. 109, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision B</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 200DG</div>
-  </td>
-  <td>
-    <div>ad. No. 109, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 110, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 200DH</div>
-  </td>
-  <td>
-    <div>ad. No. 109, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 200DI, 200DJ</div>
-  </td>
-  <td>
-    <div>ad. No. 109, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 110, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 200DK–200DM</div>
-  </td>
-  <td>
-    <div>ad. No. 109, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision C</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 200DN–200DR</div>
-  </td>
-  <td>
-    <div>ad. No. 109, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 4 of 
-Part XVA</div>
-  </td>
-  <td>
-    <div>ad. No. 109, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 200DS</div>
-  </td>
-  <td>
-    <div>ad. No. 109, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 200E</div>
-  </td>
-  <td>
-    <div>rs. No. 109, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 200E</div>
   </td>
   <td>
@@ -21209,15 +20616,7 @@ Part XVA</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 34, 2001; Nos. 8 and 109, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 200F</div>
-  </td>
-  <td>
-    <div>am. No. 109, 2010</div>
+    <div>am. No. 34, 2001; No. 8, 2010</div>
   </td>
 </tr>
 <tr>
@@ -21233,7 +20632,7 @@ Part XVA</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 167, 1991; No. 109, 2010</div>
+    <div>am. No. 167, 1991</div>
   </td>
 </tr>
 <tr>
@@ -21249,7 +20648,7 @@ Part XVA</div>
     <div></div>
   </td>
   <td>
-    <div>am. Nos. 8 and 109, 2010</div>
+    <div>am. No. 8, 2010</div>
   </td>
 </tr>
 <tr>
@@ -21281,7 +20680,7 @@ Part XVA</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 109, 2001; Nos. 8 and 109, 2010</div>
+    <div>am. No. 109, 2001; No. 8, 2010</div>
   </td>
 </tr>
 <tr>
@@ -21297,7 +20696,7 @@ Part XVA</div>
     <div></div>
   </td>
   <td>
-    <div>am. Nos. 8 and 109, 2010</div>
+    <div>am. No. 8, 2010</div>
   </td>
 </tr>
 <tr>
@@ -21326,14 +20725,6 @@ Part XVA</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 109, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 202</div>
   </td>
   <td>
@@ -21353,7 +20744,7 @@ Part XVA</div>
     <div></div>
   </td>
   <td>
-    <div>am. Nos. 8 and 109, 2010</div>
+    <div>am. No. 8, 2010</div>
   </td>
 </tr>
 <tr>
@@ -21366,14 +20757,6 @@ Part XVA</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to Part XVB</div>
-  </td>
-  <td>
-    <div>rs. No. 109, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Part XVB</div>
   </td>
   <td>
@@ -21382,11 +20765,10 @@ Part XVA</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 1 of 
-Part XVB</div>
+    <div><b>Division 1</b></div>
   </td>
   <td>
-    <div>rep. No. 109, 2010</div>
+    <div></div>
   </td>
 </tr>
 <tr>
@@ -21395,14 +20777,6 @@ Part XVB</div>
   </td>
   <td>
     <div>ad. No. 22, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 109, 2010</div>
   </td>
 </tr>
 <tr>
@@ -21418,39 +20792,15 @@ Part XVB</div>
     <div></div>
   </td>
   <td>
-    <div>am. Nos. 8 and 109, 2010</div>
+    <div>am. No. 8, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 202AC</div>
+    <div>Ss. 202AC, 202AD</div>
   </td>
   <td>
     <div>ad. No. 22, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 202AD</div>
-  </td>
-  <td>
-    <div>am. No. 109, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 202AD</div>
-  </td>
-  <td>
-    <div>ad. No. 22, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 109, 2010</div>
   </td>
 </tr>
 <tr>
@@ -21466,15 +20816,7 @@ Part XVB</div>
     <div></div>
   </td>
   <td>
-    <div>am. Nos. 8 and 109, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 202AE(1)</div>
-  </td>
-  <td>
-    <div>rep. No. 109, 2010</div>
+    <div>am. No. 8, 2010</div>
   </td>
 </tr>
 <tr>
@@ -21487,18 +20829,10 @@ Part XVB</div>
 </tr>
 <tr>
   <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
     <div></div>
-  </td>
-  <td>
-    <div>rs. No. 109, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 2 of Part XVB</div>
-  </td>
-  <td>
-    <div>rep. No. 109, 2010</div>
   </td>
 </tr>
 <tr>
@@ -21507,14 +20841,6 @@ Part XVB</div>
   </td>
   <td>
     <div>ad. No. 22, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 109, 2010</div>
   </td>
 </tr>
 <tr>
@@ -21535,26 +20861,10 @@ Part XVB</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 109, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Ss. 202AI–202AK</div>
   </td>
   <td>
     <div>ad. No. 22, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 109, 2010</div>
   </td>
 </tr>
 <tr>
@@ -21575,26 +20885,10 @@ Part XVB</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 109, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 202AM</div>
   </td>
   <td>
     <div>ad. No. 22, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 109, 2010</div>
   </td>
 </tr>
 <tr>
@@ -21615,18 +20909,10 @@ Part XVB</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 110, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 203</div>
   </td>
   <td>
-    <div>am. No. 144, 1983; No. 24, 1990; No. 219, 1992; Nos. 8 and 110, 2010</div>
+    <div>am. No. 144, 1983; No. 24, 1990; No. 219, 1992; No. 8, 2010</div>
   </td>
 </tr>
 <tr>
@@ -21690,15 +20976,7 @@ Part XVB</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 115, 2004; No. 65, 2006; No. 109, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 208A</div>
-  </td>
-  <td>
-    <div>ad. No. 110, 2010</div>
+    <div>am. No. 115, 2004; No. 65, 2006</div>
   </td>
 </tr>
 <tr>
@@ -21746,7 +21024,7 @@ Part XVB</div>
     <div></div>
   </td>
   <td>
-    <div>am. Nos. 8 and 110, 2010</div>
+    <div>am. No. 8, 2010</div>
   </td>
 </tr>
 <tr>
@@ -22026,7 +21304,7 @@ Part XVB</div>
     <div>S. 221</div>
   </td>
   <td>
-    <div>am. No. 144, 1983; No. 24, 1990; No. 65, 2006; No. 109, 2010</div>
+    <div>am. No. 144, 1983; No. 24, 1990; No. 65, 2006</div>
   </td>
 </tr>
 <tr>
@@ -22043,22 +21321,6 @@ Part XVB</div>
   </td>
   <td>
     <div>ad. No. 144, 1983</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 110, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 224</div>
-  </td>
-  <td>
-    <div>am. No. 110, 2010</div>
   </td>
 </tr>
 <tr>
@@ -22103,22 +21365,6 @@ Part XVB</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 110, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 226</div>
-  </td>
-  <td>
-    <div>am. No. 110, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 226</div>
   </td>
   <td>
@@ -22130,7 +21376,7 @@ Part XVB</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 45, 1984; No. 24, 1990; No. 94, 1998; Nos. 8 and 110, 2010</div>
+    <div>am. No. 45, 1984; No. 24, 1990; No. 94, 1998; No. 8, 2010</div>
   </td>
 </tr>
 <tr>
@@ -22151,14 +21397,6 @@ Part XVB</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 110, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Note to s. 226A(1)</div>
   </td>
   <td>
@@ -22175,22 +21413,6 @@ Part XVB</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 110, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 227</div>
-  </td>
-  <td>
-    <div>rs. No. 110, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 227</div>
   </td>
   <td>
@@ -22202,7 +21424,7 @@ Part XVB</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 45, 1984; No. 24, 1990 (as am. by No. 167, 1991); No. 167, 1991; No. 166, 1995; Nos. 8 and 110, 2010</div>
+    <div>am. No. 45, 1984; No. 24, 1990 (as am. by No. 167, 1991); No. 167, 1991; No. 166, 1995; No. 8, 2010</div>
   </td>
 </tr>
 <tr>
@@ -22226,7 +21448,7 @@ Part XVB</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 24, 1990; No. 94, 1998; No. 78, 2004; No. 22, 2007; Nos. 8 and 110, 2010</div>
+    <div>am. No. 24, 1990; No. 94, 1998; No. 78, 2004; No. 22, 2007; No. 8, 2010</div>
   </td>
 </tr>
 <tr>
@@ -22258,7 +21480,7 @@ Part XVB</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 45, 1984; No. 35, 1987; No. 24, 1990; No. 167, 1991; No. 94, 1998; No. 115, 2004; No. 110, 2010</div>
+    <div>am. No. 45, 1984; No. 35, 1987; No. 24, 1990; No. 167, 1991; No. 94, 1998; No. 115, 2004</div>
   </td>
 </tr>
 <tr>
@@ -22266,7 +21488,7 @@ Part XVB</div>
     <div>S. 230</div>
   </td>
   <td>
-    <div>am. No. 144, 1983; No. 115, 2004; Nos. 109 and 110, 2010</div>
+    <div>am. No. 144, 1983; No. 115, 2004</div>
   </td>
 </tr>
 <tr>
@@ -22282,7 +21504,7 @@ Part XVB</div>
     <div>S. 231</div>
   </td>
   <td>
-    <div>am. No. 144, 1983; No. 45, 1984; No. 24, 1990; Nos. 8 and 110, 2010</div>
+    <div>am. No. 144, 1983; No. 45, 1984; No. 24, 1990; No. 8, 2010</div>
   </td>
 </tr>
 <tr>
@@ -22298,7 +21520,7 @@ Part XVB</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 35, 1987; No. 24, 1990; No. 65, 2006; Nos. 8 and 110, 2010</div>
+    <div>am. No. 35, 1987; No. 24, 1990; No. 65, 2006; No. 8, 2010</div>
   </td>
 </tr>
 <tr>
@@ -22322,7 +21544,7 @@ Part XVB</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 144, 1983; No. 45, 1984; No. 24, 1990; No. 166, 1995; No. 65, 2006; Nos. 8 and 110, 2010</div>
+    <div>am. No. 144, 1983; No. 45, 1984; No. 24, 1990; No. 166, 1995; No. 65, 2006; No. 8, 2010</div>
   </td>
 </tr>
 <tr>
@@ -22362,7 +21584,7 @@ Part XVB</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 167, 1991; No. 115, 2004; No. 65, 2006; Nos. 8 and 110, 2010</div>
+    <div>am. No. 167, 1991; No. 115, 2004; No. 65, 2006; No. 8, 2010</div>
   </td>
 </tr>
 <tr>
@@ -22426,7 +21648,7 @@ Part XVB</div>
     <div>S. 238</div>
   </td>
   <td>
-    <div>am. No. 144, 1983; No. 24, 1990 (as am. by No. 167, 1991); Nos. 8 and 109, 2010</div>
+    <div>am. No. 144, 1983; No. 24, 1990 (as am. by No. 167, 1991); No. 8, 2010</div>
   </td>
 </tr>
 <tr>
@@ -22570,7 +21792,7 @@ Part XVB</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 45, 1984; No. 24, 1990; No. 167, 1991; No. 94, 1998; No. 109, 2010</div>
+    <div>am. No. 45, 1984; No. 24, 1990; No. 167, 1991; No. 94, 1998</div>
   </td>
 </tr>
 <tr>
@@ -22794,7 +22016,7 @@ Part XVB</div>
     <div>S. 268</div>
   </td>
   <td>
-    <div>am. No. 31, 1919; No. 14, 1922; No. 9, 1934; No. 19, 1940; No. 144, 1983; No. 45, 1984; No. 24, 1990; No. 94, 1998; No. 65, 2006; Nos. 8, 109 and 110, 2010</div>
+    <div>am. No. 31, 1919; No. 14, 1922; No. 9, 1934; No. 19, 1940; No. 144, 1983; No. 45, 1984; No. 24, 1990; No. 94, 1998; No. 65, 2006; No. 8, 2010</div>
   </td>
 </tr>
 <tr>
@@ -22882,7 +22104,7 @@ Part XVB</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 14, 1922; No. 17, 1928; No. 9, 1934; No. 17, 1948; No. 144, 1983; Nos. 45 and 133, 1984; No. 35, 1987; No. 24, 1990; No. 167, 1991; No. 94, 1998; No. 78, 2004; Nos. 8, 109 and 110, 2010</div>
+    <div>am. No. 14, 1922; No. 17, 1928; No. 9, 1934; No. 17, 1948; No. 144, 1983; Nos. 45 and 133, 1984; No. 35, 1987; No. 24, 1990; No. 167, 1991; No. 94, 1998; No. 78, 2004; No. 8, 2010</div>
   </td>
 </tr>
 <tr>
@@ -22931,7 +22153,7 @@ s. 273A(2)–(4)</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 14, 1922; No. 17, 1928; No. 144, 1983; No. 45, 1984; No. 35, 1987; No. 24, 1990; No. 167, 1991; No. 219, 1992; No. 94, 1998; No. 78, 2004; Nos. 8, 109 and 110, 2010</div>
+    <div>am. No. 14, 1922; No. 17, 1928; No. 144, 1983; No. 45, 1984; No. 35, 1987; No. 24, 1990; No. 167, 1991; No. 219, 1992; No. 94, 1998; No. 78, 2004; No. 8, 2010</div>
   </td>
 </tr>
 <tr>
@@ -23099,7 +22321,7 @@ s. 273A(2)–(4)</div>
     <div>S. 285</div>
   </td>
   <td>
-    <div>am. No. 78, 2004; Nos. 8 and 110, 2010</div>
+    <div>am. No. 78, 2004; No. 8, 2010</div>
   </td>
 </tr>
 <tr>
@@ -23875,7 +23097,7 @@ s. 273A(2)–(4)</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 45, 1984; No. 203, 1991; No. 45, 1992; No. 42, 1995; No. 65, 2006; No. 108, 2010</div>
+    <div>am. No. 45, 1984; No. 203, 1991; No. 45, 1992; No. 42, 1995; No. 65, 2006</div>
   </td>
 </tr>
 <tr>
@@ -24178,23 +23400,7 @@ rs. No. 65, 2006</div>
 </tr>
 <tr>
   <td>
-    <div>S. 314AEB</div>
-  </td>
-  <td>
-    <div>ad. No. 65, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 108, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 314AEC</div>
+    <div>Ss. 314AEB, 314AEC</div>
   </td>
   <td>
     <div>ad. No. 65, 2006</div>
@@ -24581,7 +23787,7 @@ rs. No. 65, 2006</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 35, 1987; No. 167, 1991; No. 94, 1998; No. 34, 2001; No. 78, 2004; Nos. 8 and 108, 2010</div>
+    <div>am. No. 35, 1987; No. 167, 1991; No. 94, 1998; No. 34, 2001; No. 78, 2004; No. 8, 2010</div>
   </td>
 </tr>
 <tr>
@@ -24610,14 +23816,6 @@ rs. No. 65, 2006</div>
 </tr>
 <tr>
   <td>
-    <div>S. 328B</div>
-  </td>
-  <td>
-    <div>ad. No. 108, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 329</div>
   </td>
   <td>
@@ -24637,7 +23835,7 @@ rs. No. 65, 2006</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 133, 1984; No. 24, 1990; No. 94, 1998; No. 108, 2010</div>
+    <div>am. No. 133, 1984; No. 24, 1990; No. 94, 1998</div>
   </td>
 </tr>
 <tr>
@@ -24869,7 +24067,7 @@ rs. No. 65, 2006</div>
     <div>S. 342</div>
   </td>
   <td>
-    <div>am. No. 93, 1966; No. 144, 1983; No. 24, 1990; No. 110, 2010</div>
+    <div>am. No. 93, 1966; No. 144, 1983; No. 24, 1990</div>
   </td>
 </tr>
 <tr>
@@ -24877,7 +24075,7 @@ rs. No. 65, 2006</div>
     <div>S. 343</div>
   </td>
   <td>
-    <div>am. No. 93, 1966; No. 144, 1983; No. 24, 1990; No. 109, 2001; Nos. 109 and 110, 2010</div>
+    <div>am. No. 93, 1966; No. 144, 1983; No. 24, 1990; No. 109, 2001</div>
   </td>
 </tr>
 <tr>
@@ -24989,7 +24187,7 @@ rs. No. 65, 2006</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 93, 1966; No. 144, 1983; No. 24, 1990; No. 167, 1991; No. 109, 2001; No. 65, 2006; Nos. 8 and 108, 2010</div>
+    <div>am. No. 93, 1966; No. 144, 1983; No. 24, 1990; No. 167, 1991; No. 109, 2001; No. 65, 2006; No. 8, 2010</div>
   </td>
 </tr>
 <tr>
@@ -25370,22 +24568,6 @@ rs. No. 65, 2006</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 109, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 110, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 383</div>
   </td>
   <td>
@@ -25429,7 +24611,7 @@ rs. No. 65, 2006</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 65, 2006; Nos. 8 and 110, 2010</div>
+    <div>am. No. 65, 2006; No. 8, 2010</div>
   </td>
 </tr>
 <tr>
@@ -25589,7 +24771,7 @@ rs. No. 65, 2006</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 94, 1998; Nos. 8, 109 and 110, 2010</div>
+    <div>am. No. 94, 1998; No. 8, 2010</div>
   </td>
 </tr>
 <tr>
@@ -25677,7 +24859,7 @@ rs. No. 65, 2006</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 167, 1991; Nos. 115 and 123, 2004; No. 110, 2010</div>
+    <div>am. No. 167, 1991; Nos. 115 and 123, 2004</div>
   </td>
 </tr>
 <tr>
@@ -26159,80 +25341,6 @@ or the full judgment Roach v Electoral Commissioner \[2007] HCA 43 as avai
 
 http://www.austlii.edu.au/au/cases/cth/high_ct/2007/43.html
 
-### Note 8
-
-Paragraphs 120(3)(a) and (b)—Schedule 2 (item 151) of the _Electoral and Referendum Amendment (Pre-poll Voting and Other Measures) Act 2010_(No. 109, 2010) provides as follows:
-
-## Schedule 2
-
-## 151  Paragraphs 120(3)(a) and (b)
-
-Omit “notifies the person”, substitute “a person is notified”.
-
-The proposed amendment was misdescribed and is not incorporated in this compilation.
-
-### Note 9
-
-_Electoral and Referendum Amendment (Modernisation and Other Measures) Act 2010 (No. 110, 2010)_
-
-The following amendments commence on 14 January 2011 unless proclaimed earlier:
-
-## Schedule 6
-
-## 1  Subsection 184(1)
-
-Repeal the subsection, substitute:
-
-             (1)  An application must be in writing in the approved form and must contain a declaration by the applicant that he or she is an elector entitled to apply for a postal vote.
-
-## 3  Subsection 184(3A)
-
-Repeal the subsection.
-
-## 4  Section 187
-
-Repeal the section.
-
-## 5  Subsection 188(1)
-
-Omit “, properly signed and witnessed, for a postal vote”, substitute “for a postal vote that is in accordance with subsection 184(1)”.
-
-## 6  Subsection 188(1) (note)
-
-Repeal the note.
-
-## 7  After paragraph 194(1)(d)
-
-Insert:
-
-                    (da)  the elector must declare, on the postal vote certificate, that the requirements referred to in paragraphs (a), (b) and (d) were satisfied before the close of the poll;
-
-                    (db)  the authorised witness must declare, on the postal vote certificate, that the requirements referred to in paragraphs (a) to (c) were satisfied before the close of the poll;
-
-## 8  Paragraph 194(1A)(a)
-
-After “signed”, insert “and dated”.
-
-## 9  Paragraphs 3 and 3A of Schedule 3
-
-Repeal the paragraphs, substitute:
-
-              3.  If the DRO has reason to doubt that the signature on the postal vote certificate that purports to be the elector’s signature is the elector’s signature, the DRO must check the signature against the most recent record (if any) of the elector’s signature that is available to the DRO.
-
-## 10  Paragraphs 7 and 7A of Schedule 3
-
-Repeal the paragraphs, substitute:
-
-              7.  A vote marked on a postal ballot paper must be taken not to have been recorded prior to the close of the poll if the date referred to in paragraph 194(1)(c) in relation to the postal vote certificate is a date after polling day.
-
-            7A.  A vote marked on a postal ballot paper must be taken not to have been recorded prior to the close of the poll if:
-
-                     (a)  subsection 194(1A) applies in relation to the vote; and
-
-                     (b)  the date referred to in paragraph 194(1A)(a) is a date after polling day.
-
-As at 23 July 2010 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -26681,148 +25789,6 @@ _Electoral and Referendum Legislation Amendment Act 2007 (No. 22, 2007)_
 (1)        Regulations in force before the commencement of item 3 for the purposes of paragraphs 98AA(1)(a) and (b) of the _Commonwealth Electoral Act 1918_ continue in force after that commencement as if they had been made for the purposes of those paragraphs as in force after that commencement.
 
 (2)        Subitem (1) does not prevent amendment or repeal of regulations referred to in that subitem.
-
-* * *
-
-_Electoral and Referendum Amendment (How-to-Vote Cards and Other Measures) Act 2010 (No. 108, 2010)_
-
-## Schedule 1
-
-## 9  Application of amendments
-
-The amendments made by this Schedule apply in relation to elections the writs for which are issued on or after the commencement of this Schedule.
-
-## Schedule 2
-
-## 5  Application of amendments
-
-The amendments made by this Schedule apply in relation to elections and referendums the writs for which are issued on or after the commencement of this Schedule.
-
-* * *
-
-_Electoral and Referendum Amendment (Pre-poll Voting and Other Measures) Act 2010 (No. 109, 2010)_
-
-## Schedule 1
-
-## 77  Application of amendments
-
-(1)        The amendments made by this Schedule apply in relation to elections and referendums the writs for which are issued on or after the commencement of the amendments.
-
-(2)        However, the amendments do not apply to any by-election that is held before the first general election to which the amendments apply.
-
-## Schedule 2
-
-## 189  Regulations
-
-The Governor-General may make regulations of a transitional, application or saving nature in relation to the amendments and repeals made by this Schedule.
-
-## Schedule 3
-
-## 5  Application of amendments
-
-The amendments made by this Schedule apply in relation to elections the writs for which are issued on or after the commencement of the amendments.
-
-## Schedule 4
-
-## 40  Application of amendments
-
-The amendments made by this Schedule apply in relation to elections and referendums the writs for which are issued on or after the commencement of the amendments.
-
-* * *
-
-_Electoral and Referendum Amendment (Modernisation and Other Measures) Act 2010 (No. 110, 2010)_
-
-## Schedule 1
-
-## 3  Saving provision for approved forms
-
-A form that, immediately before the commencement of this Part, was an approved form for any purpose of the _Commonwealth Electoral Act 1918_ continues to be an approved form for that purpose until another form becomes an approved form (as defined in subsection 4(1) of that Act as amended by this Part) for that purpose.
-
-## 9  Saving provision for polling places
-
-The amendments of section 80 of the _Commonwealth Electoral Act 1918_ made by this Part do not affect the appointment of a polling place under that section that was made before the commencement of this Part.
-
-## 18  Saving provision for pre-poll voting offices
-
-The amendments of section 200BA of the _Commonwealth Electoral Act 1918_ made by this Part do not affect the declaration of a place as a pre-poll voting office under that section that was made before the commencement of this Part.
-
-## Schedule 2
-
-## 11  Application of amendments
-
-The amendments made by this Schedule apply in relation to claims and applications made on or after the commencement of this Schedule.
-
-## 12  Saving provision for approved forms
-
-(1)        In this item:
-
-**_enrolment claim subsection_** means any of the following provisions of the _Commonwealth Electoral Act 1918_:
-
-                     (a)  subsection 94A(2);
-
-                     (b)  subsection 95(2);
-
-                     (c)  subsection 96(2);
-
-                     (d)  subsection 98(2);
-
-                     (e)  subsection 99A(4).
-
-(2)        A form that, immediately before the commencement of this Schedule, was an approved form for the purpose of an enrolment claim subsection as in force immediately before that commencement continues to be an approved form for the purpose of that subsection as in force after that commencement, until another form becomes an approved form for the purpose of that subsection.
-
-## Schedule 3
-
-## 9  Application of amendments
-
-(1)        The amendments made by items 2, 3, 5, 6, 7 and 8 apply in relation to claims made on or after the commencement of this Schedule.
-
-(2)        The amendment made by item 4 applies in relation to lists required to be forwarded after the commencement of this Schedule.
-
-## Schedule 5
-
-## 107  Application of amendments
-
-The amendments made by this Schedule apply in relation to elections and referendums the writs for which are issued on or after the commencement of the amendments.
-
-## 108  Transitional
-
-(1)        Despite the amendment made by item 1, the definition of **_officer_** in subsection 4(1) of the _Commonwealth Electoral Act 1918_, as in force immediately before the commencement of that item, continues to apply on and after that commencement for the purposes of section 323 of that Act.
-
-## Schedule 7
-
-## 12  Application of amendments
-
-The amendments made by items 2 and 3 apply in relation to information provided on or after the commencement of those items.
-
-## Schedule 8
-
-## 5  Application of amendments
-
-The amendments made by this Schedule apply in relation to elections and referendums the writs for which are issued on or after the commencement of the amendments.
-
-## Schedule 9
-
-## 49  Application of amendments
-
-The amendments made by items 1 and 2 apply in relation to financial years ending on or after the commencement of those items (whether the copy or extract was given before, on or after that commencement).
-
-The following provisions commence on 14 January 2011 unless proclaimed earlier:
-
-## Schedule 6
-
-## 21  Application of amendments
-
-The amendments made by this Part apply in relation to elections and referendums the writs for which are issued on or after the commencement of the amendments.
-
-## 22  Saving provision for approved forms
-
-A form that, immediately before the commencement of this Part, was an approved form for the purpose of:
-
-                     (a)  subsection 184(1) of the _Commonwealth Electoral Act 1918_ (as in force immediately before that commencement); or
-
-                     (b)  subsection 55(1) of the _Referendum (Machinery Provisions) Act 1984_ (as in force immediately before that commencement);
-
-continues to be an approved form for the purpose of that subsection as in force after that commencement, until another form becomes an approved form for the purpose of that subsection.
 
 Table showing new part and section numbers of the _Commonwealth Electoral Act 1918_ after renumbering by the _Commonwealth Electoral Legislation Amendment Act 1984_ (No. 45, 1984).
 
