@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00351/Html/7d1148ec-856f-482b-9a22-27d804a688c6_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00809/Html/86b88105-1b75-470b-aee0-080e95b66c68_files/image001.gif)
 
 # Rural Adjustment Act 1992
 
 **Act No. 240 of 1992 as amended**
 
-This compilation was prepared on 28 March 2012
+This compilation was prepared on 30 September 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of these amendments not in force
@@ -292,17 +292,25 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 the Minister may appoint another member to act as the Chairperson during the vacancy, absence or inability.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
              (2)  The Minister may appoint a person to act in the office of a member (other than the Chairperson):
 
                      (a)  during a vacancy in the office, whether or not an appointment has previously been made to the office; or
 
                      (b)  during any period, or during all periods, when the occupant of the office is absent from duty or from Australia or is otherwise unable to perform the duties of the office, including a period when the member is acting as the Chairperson.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+             (3)  A person appointed to act during a vacancy must not continue to act for more than 12 months.
 
              (4)  A person acting in an office under this section is entitled to the same remuneration and allowances that are payable to the holder of the office in lieu of his or her own remuneration and allowances.
+
+             (5)  Anything done by a person purporting to act under an appointment under this section is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion for the person to act had not arisen or had ceased.
 
 ##### <a id="16"></a>16  Disclosure of interests
 
@@ -626,7 +634,7 @@ of Assent</div>
     <div>29 June 1994</div>
   </td>
   <td>
-    <div>S. 11: 1 July 1993 <i>(a)</i></div>
+    <div>S. 11: 1 July 1993 <i>(a)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -660,7 +668,7 @@ of Assent</div>
     <div>31 Mar 1999</div>
   </td>
   <td>
-    <div>Schedule 1 (items 11, 12): <i>(c)</i> 
+    <div>Schedule 1 (items 11, 12): <i>(c)</i> 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -695,10 +703,10 @@ Remainder: Royal Assent</div>
     <div>11 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 1 (item 800): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(d)</i></div>
+    <div>Schedule 1 (item 800): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(d)</i></div>
   </td>
   <td>
-    <div>S. 2 (as am. by 146, 1999, Sch. 1 \[item 800])</div>
+    <div>S. 2 (as am. by 146, 1999, Sch. 1 \[item 800])</div>
   </td>
 </tr>
 <tr>
@@ -712,7 +720,7 @@ Remainder: Royal Assent</div>
     <div>11 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 1 (items 798, 799): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(e)</i></div>
+    <div>Schedule 1 (items 798, 799): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(e)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -729,10 +737,10 @@ Remainder: Royal Assent</div>
     <div>10 Dec 1999</div>
   </td>
   <td>
-    <div>Schedule 6: 1 Apr 1999 <i>(f)</i></div>
+    <div>Schedule 6: 1 Apr 1999 <i>(f)</i></div>
   </td>
   <td>
-    <div>Sch. 6 (item 7) \[ <i>see</i>Table A]</div>
+    <div>Sch. 6 (item 7) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -780,10 +788,10 @@ Remainder: Royal Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 995, 996) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 995, 996) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
+    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
   </td>
 </tr></table>
 
@@ -966,22 +974,6 @@ _(f)_      The _Rural Adjustment Act 1992_ was amended by Schedule 6 o
   </td>
   <td>
     <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Notes to s. 15(1), (2)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
   </td>
 </tr>
 <tr>
@@ -1305,6 +1297,26 @@ _(f)_      The _Rural Adjustment Act 1992_ was amended by Schedule 6 o
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 995  At the end of subsections 15(1) and (2)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 996  Subsections 15(3) and (5)
+
+Repeal the subsections.
+
+As at 30 September 2011 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -1334,6 +1346,8 @@ The amendments made by this Schedule do not affect the continuity, after this Sc
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
