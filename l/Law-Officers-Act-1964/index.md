@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00243/Html/LawOfficers64_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00197/Html/LawOfficers64_WD02_image001.gif)
 
 # Law Officers Act 1964
 
 **Act No. 91 of 1964 as amended**
 
-This compilation was prepared on 3 July 2008
- taking into account amendments up to Act No. 40 of 2008
+This compilation was prepared on 26 June 2008
+ taking into account amendments up to Act No. 26 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -30,8 +30,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [7](#7).            Remuneration and allowances of Solicitor-General
 
-[7A](#7A).         Effect of sections 6 and 7—long service leave
-
 [8](#8).            Resignation
 
 [9](#9).            Solicitor-General not to undertake other work
@@ -47,6 +45,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [14](#14).          Commonwealth officer appointed as Solicitor-General
 
 [16](#16).          Pension of Solicitor-General
+
+[16A](#16A).       Payment to Solicitor-General in lieu of long leave
 
 [17](#17).          Delegation by Attorney-General
 
@@ -91,10 +91,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
              (2)  The Solicitor-General shall be paid such allowances as are prescribed.
 
              (3)  This section has effect subject to the _Remuneration Tribunal Act 1973_ and section 7 of the _Judicial and Statutory Officers (Remuneration and Allowances) Act 1984_.
-
-##### <a id="7A"></a>7A  Effect of sections 6 and 7—long service leave
-
-                   Sections 6 and 7 have effect subject to the _Long Service Leave (Commonwealth Employees) Act 1976_.
 
 ##### <a id="8"></a>8  Resignation
 
@@ -284,7 +280,7 @@ reduced by 2.5% for each whole year between:
 
         (11A)  For the purposes of this section, the **_appropriate current salary_** in relation to a person at a particular time (the **_calculation time_**) is calculated as follows:
 
-![](http://www.comlaw.gov.au/Details/C2008C00243/Html/LawOfficers64_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00197/Html/LawOfficers64_WD02_image002.gif)
 
 For the purposes of the calculation:
 
@@ -301,6 +297,56 @@ For the purposes of the calculation:
                     <a name="relev-provision-judg-pension-act-1968"></a>**_relevant provisions of the Judges’ Pensions Act 1968_** means the provisions of that Act referred to in subsection (1).
 
            (13)  Pensions under or by virtue of this section are payable out of the Consolidated Revenue Fund, which is appropriated accordingly.
+
+##### <a id="16A"></a>16A  Payment to Solicitor-General in lieu of long leave
+
+       (1AA)  This section does not apply in relation to a person appointed as Solicitor-General after 31 December 1997.
+
+             (1)  On:
+
+                     (a)  the retirement of the Solicitor-General after having completed a period of service of 10 years or more; or
+
+                     (b)  the death of the Solicitor-General, whether or not he or she has completed a period of service of 10 years;
+
+an amount calculated in accordance with subsection (2) is payable in accordance with this section.
+
+             (2)  The amount payable under subsection (1) in respect of the Solicitor-General is an amount equal to his or her salary as Solicitor-General for:
+
+                     (a)  a period of 52 weeks; or
+
+                     (b)  a period of weeks calculated at the rate of 5.2 weeks for each completed year of his or her qualifying service;
+
+whichever is the lesser period.
+
+             (3)  An amount payable under paragraph (1)(a) is payable to the Solicitor-General.
+
+             (4)  An amount payable under paragraph (1)(b) is payable to:
+
+                     (a)  where the Solicitor-General leaves a person or persons determined by the Attorney-General in writing to be a dependant or dependants—the person or persons; or
+
+                     (b)  in any other case—the legal personal representative of the Solicitor-General.
+
+             (5)  An application may be made to the Administrative Appeals Tribunal for review of a refusal of the Attorney-General to determine a person to be a dependant for the purposes of paragraph (4)(a).
+
+             (6)  Where an amount is payable under paragraph (4)(a) to 2 or more dependants of the Solicitor-General, the Attorney-General may give a direction in writing as to the distribution of the amount between or among those dependants.
+
+             (7)  Where an amount is payable under this section to a person who is under a legal disability, the Attorney-General may, instead of authorizing payment of the amount to the person, authorize payment of the amount to such trustee or trustees as the Attorney-General appoints to be held by the trustee or trustees upon such trusts for the benefit of the person as the Attorney-General directs in writing.
+
+             (8)  For the purposes of this section, a period of service does not include any period in respect of which the Solicitor-General has exercised a right of election under subsection 10(4) of the _Long Service Leave (Commonwealth Employees) Act 1976_.
+
+             (9)  Subject to subsection (8), the period of service of the Solicitor-General includes any prior period (whether continuous or not) during which he or she acted as Solicitor-General under section 11.
+
+           (10)  An entitlement to payment under this section commences to accrue from the commencement of the period of service in respect of which the amount of the entitlement is calculated.
+
+           (11)  In this section, unless the contrary intention appears:
+
+                    <a name="period-servic"></a>**_period of service_** means a period (whether continuous or not) of service as Solicitor-General.
+
+                    <a name="qualifi-servic"></a>**_qualifying service_**, in relation to the Solicitor-General, means his or her period of service, other than any period of service in respect of which he or she has taken long leave or has been paid in lieu of such leave.
+
+                    <a name="retir"></a>**_retirement_**, in relation to the Solicitor-General, means ceasing to be the Solicitor-General otherwise than by death or by removal from office under section 10.
+
+                    <a name="salari-solicitor-gener"></a>**_salary as Solicitor-General_** means salary at a weekly rate equal to one fifty-second of the annual rate of salary that was payable to the Solicitor-General immediately before his or her retirement or death.
 
 ##### <a id="17"></a>17  Delegation by Attorney-General
 
@@ -622,23 +668,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Law Officers Legislation Amendment Act 2008</div>
-  </td>
-  <td>
-    <div>40, 2008</div>
-  </td>
-  <td>
-    <div>24 June 2008</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 1, 2): 25 June 2008</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Law Officers Act 1964_ was amended by sections 3 and 4 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1983_, subsections 2(1) and (9) of which provide as follows:
@@ -728,14 +757,6 @@ _(f)_      The _Law Officers Act 1964_ was amended by section 3 (ite
   </td>
   <td>
     <div>am. No. 141, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7A</div>
-  </td>
-  <td>
-    <div>ad. No. 40, 2008</div>
   </td>
 </tr>
 <tr>
@@ -856,14 +877,6 @@ _(f)_      The _Law Officers Act 1964_ was amended by section 3 (ite
   </td>
   <td>
     <div>am. No. 141, 1994; No. 39, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 40, 2008</div>
   </td>
 </tr>
 <tr>
