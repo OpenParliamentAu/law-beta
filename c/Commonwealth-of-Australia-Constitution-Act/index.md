@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2004C03002/Html/Constitution_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C03001/Html/Constitution_image001.gif)
 
 # Commonwealth of Australia Constitution Act
 
 **(The Constitution)**
 
-This compilation was prepared on 16 May 2002
+This compilation was prepared on 1 July 2001
  taking into account alterations up to Act No. 84 of 1977
 
 **\[Note: This compilation contains all amendments to the Constitution made by the Constitution Alterations specified in Note 1 Additions to the text are shown in bold type Omitted text is shown as ruled through]**
@@ -1366,7 +1366,7 @@ the High Court shall have original jurisdiction.
 
 ##### <a id="102"></a>102  Parliament may forbid preferences by State
 
-                   The Parliament may by any law with respect to trade or commerce forbid, as to railways, any preference or discrimination by any State, or by any authority constituted under a State, if such preference or discrimination is undue and unreasonable, or unjust to any State; due regard being had to the financial responsibilities incurred by any State in connexion with the construction and maintenance of its railways. But no preference or discrimination shall, within the meaning of this section, be taken to be undue and unreasonable, or unjust to any State, unless so adjudged by the Inter-State Commission.
+                   The Parliament may by any law with respect to trade or commerce forbid, as to railways, any preference or discrimination by any State, or by any authority constituted under a State, if such preference or discrimination is undue and unreasonable, or unjust to any State; due regard being had to the financial responsibilities incurred by any State in connexion with the construction and maintenance of its railways. But no preference or discrimination shall, within the meaning of this section, be taken to be undue and unreasonable, or unjust to any State, unless so adjudged by the Inter-State Commission.
 
 ##### <a id="103"></a>103  Commissioners’ appointment, tenure, and remuneration
 
@@ -2034,7 +2034,7 @@ Section 9—The following State Acts have been passed in pursuance of the powers
     <div>Senate Elections Act 1935</div>
   </td>
   <td>
-    <div><i>(still in force)</i></div>
+    <div>Amended by No. 63, 1984</div>
   </td>
 </tr></table>
 
@@ -2269,20 +2269,6 @@ Section 51 (xxxvii)—The following Acts have been passed by the Parliaments of 
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>No. 1, 2001</div>
-  </td>
-  <td>
-    <div>Corporations (Commonwealth Powers) Act 2001</div>
-  </td>
-  <td>
-    <div><i>(still in force)</i></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Victoria</div>
   </td>
   <td>
@@ -2360,34 +2346,6 @@ Section 51 (xxxvii)—The following Acts have been passed by the Parliaments of 
   </td>
   <td>
     <div>Mutual Recognition (Victoria) Act 1993</div>
-  </td>
-  <td>
-    <div><i>(still in force)</i></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>No. 59, 1996</div>
-  </td>
-  <td>
-    <div>Commonwealth Powers (Industrial Relations) Act 1996</div>
-  </td>
-  <td>
-    <div><i>(still in force)</i></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>No. 6, 2001</div>
-  </td>
-  <td>
-    <div>Corporations (Commonwealth Powers) Act 2001</div>
   </td>
   <td>
     <div><i>(still in force)</i></div>
@@ -2479,20 +2437,6 @@ Section 51 (xxxvii)—The following Acts have been passed by the Parliaments of 
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>No. 43, 2001</div>
-  </td>
-  <td>
-    <div>Corporations (Commonwealth Powers) Act 2001</div>
-  </td>
-  <td>
-    <div><i>(still in force)</i></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>South Australia</div>
   </td>
   <td>
@@ -2556,20 +2500,6 @@ Section 51 (xxxvii)—The following Acts have been passed by the Parliaments of 
   </td>
   <td>
     <div>Mutual Recognition (South Australia) Act 1993</div>
-  </td>
-  <td>
-    <div><i>(still in force)</i></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>No. 21, 2001</div>
-  </td>
-  <td>
-    <div>Corporations (Commonwealth Powers) Act 2001</div>
   </td>
   <td>
     <div><i>(still in force)</i></div>
@@ -2675,20 +2605,6 @@ Section 51 (xxxvii)—The following Acts have been passed by the Parliaments of 
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>No. 7, 2001</div>
-  </td>
-  <td>
-    <div>Corporations (Commonwealth Powers) Act 2001</div>
-  </td>
-  <td>
-    <div><i>(still in force)</i></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Tasmania</div>
   </td>
   <td>
@@ -2766,20 +2682,6 @@ Section 51 (xxxvii)—The following Acts have been passed by the Parliaments of 
   </td>
   <td>
     <div>Commonwealth Powers (Family Law) Amendment Act 1994</div>
-  </td>
-  <td>
-    <div><i>(still in force)</i></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>No. 39, 2001</div>
-  </td>
-  <td>
-    <div>Corporations (Commonwealth Powers) Act 2001</div>
   </td>
   <td>
     <div><i>(still in force)</i></div>
