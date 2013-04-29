@@ -1,20 +1,21 @@
-![](http://www.comlaw.gov.au/Details/C2006C00663/Html/AbLndLkConFramFo87WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00176/Html/20068963FD6EF7E5CA25715500812AE5/$FILE/image001.gif)
 
-# Aboriginal Land (Lake Condah and Framlingham  Forest) Act 1987
+# Aboriginal Land (Lake Condah and Framlingham Forest) Act 1987
 
 **Act No. 34 of 1987 as amended**
 
-This compilation was prepared on 14 November 2006
- taking into account amendments up to Act No. 125 of 2006
+This compilation was prepared on 11 April 2006
+taking into account amendments up to Act No. 30 of 2006
 
 The text of any of those amendments not in force
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, Canberra
+
 
 # Contents
 
@@ -128,6 +129,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Notes** 
 
+
 ## An Act to provide for the vesting in certain Aboriginal communities of certain land at Lake Condah and Framlingham owned by the State of Victoria, and for related purposes
 
                    WHEREAS Condah land and Framlingham Forest are situated in the State of Victoria:
@@ -156,19 +158,20 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                              (ii)  Framlingham Forest was traditionally owned, occupied, used and enjoyed by Aboriginals in accordance with Aboriginal laws, customs, traditions and practices;
 
-                            (iii)  the traditional Aboriginal rights of ownership, occupation, use and enjoyment concerning Framlingham  Forest are deemed never to have been extinguished;
+                            (iii)  the traditional Aboriginal rights of ownership, occupation, use and enjoyment concerning Framlingham Forest are deemed never to have been extinguished;
 
                             (iv)  Framlingham Forest has been taken by force from the Kirrae Whurrong (Pertobe) Clan without consideration as to compensation under common law or without regard to Kirrae Whurrong Law;
 
-                             (v)  Aboriginals residing at   Framlingham Forest and other Aboriginals are considered to be the inheritors in title from Aboriginals who owned, occupied, used and enjoyed Framlingham Forest since time immemorial;
+                             (v)  Aboriginals residing at Framlingham Forest and other Aboriginals are considered to be the inheritors in title from Aboriginals who owned, occupied, used and enjoyed Framlingham Forest since time immemorial;
 
                             (vi)  Framlingham Forest is of spiritual, social, historical, cultural and economic importance to the Kirrae Whurrong community and to local and other Aboriginals;
 
-                           (vii)  it is expedient to acknowledge, recognise and assert the traditional rights of Aboriginals to Framlingham  Forest and the continuous association they have with Framlingham Forest:
+                           (vii)  it is expedient to acknowledge, recognise and assert the traditional rights of Aboriginals to Framlingham Forest and the continuous association they have with Framlingham Forest:
 
                    AND WHEREAS the Government of Victoria has requested the Parliament of the Commonwealth to enact an Act in the terms of this Act:
 
                    AND WHEREAS the Commonwealth does not acknowledge the matters acknowledged by the Government of Victoria, but has agreed to the enactment of such an Act:
+
 
                    BE IT THEREFORE ENACTED by the Queen, and the Senate and the House of Representatives of the Commonwealth of Australia, as follows:
 
@@ -318,7 +321,7 @@ to the intent that the legal estate in the land and all rights and powers incide
 
 ##### <a id="7"></a>7  Vesting of Framlingham Forest
 
-             (1)  On the commencement of this section, Framlingham  Forest, other than minerals in Framlingham Forest, is, by force of this Act:
+             (1)  On the commencement of this section, Framlingham Forest, other than minerals in Framlingham Forest, is, by force of this Act:
 
                      (a)  vested in the Kirrae Whurrong Aboriginal Corporation; and
 
@@ -534,21 +537,21 @@ service on that owner may be effected by causing a copy of the notice of vesting
 
              (1)  The Kirrae Whurrong Aboriginal Corporation may make by-laws, not inconsistent with any law of the Commonwealth or the State of Victoria, for or with respect to:
 
-                     (a)  economic enterprise in Framlingham  Forest;
+                     (a)  economic enterprise in Framlingham Forest;
 
-                     (b)  cultural activities in Framlingham  Forest;
+                     (b)  cultural activities in Framlingham Forest;
 
                      (c)  the management, access, conservation, fire protection, development and use of Framlingham Forest;
 
-                     (d)  the declaration of sacred or significant sites or other areas of significance to Aboriginal people in Framlingham  Forest;
+                     (d)  the declaration of sacred or significant sites or other areas of significance to Aboriginal people in Framlingham Forest;
 
-                     (e)  the activities to be permitted in Framlingham  Forest or any part of it;
+                     (e)  the activities to be permitted in Framlingham Forest or any part of it;
 
                       (f)  protection and conservation of flora and fauna found in Framlingham Forest;
 
                      (g)  in relation to Framlingham Forest, the cutting, removal and sale of timber, the granting of revocable licences and the payment of royalties for timber to the Corporation;
 
-                     (h)  hunting, shooting and fishing in Framlingham  Forest;
+                     (h)  hunting, shooting and fishing in Framlingham Forest;
 
                       (j)  control of visitors in, and charging fees (to be paid to the Corporation) for entrance to, Framlingham Forest;
 
@@ -642,7 +645,7 @@ service on that owner may be effected by causing a copy of the notice of vesting
 
                      (a)  by force of this Act, that interest in Framlingham Forest is, subject to paragraph (b), vested in the Commonwealth on trust for the benefit of the Aboriginal people of Victoria; and
 
-                     (b)  the Governor-General shall, to the extent of that interest, execute a deed of grant of an estate in Framlingham  Forest:
+                     (b)  the Governor-General shall, to the extent of that interest, execute a deed of grant of an estate in Framlingham Forest:
 
                               (i)  to another Aboriginal group which is approved by the Minister and is incorporated under the _Aboriginal Councils and Associations Act 1976_ and the members of which are the descendants of the Kirrae Whurrong (Pertobe) Clan; or
 
@@ -798,7 +801,7 @@ the Minister shall appoint an arbitrator, being a person whom the Minister consi
 
                      (a)  the Minister shall give the applicant any information about the site and its location that the Minister considers appropriate; and
 
-                     (b)  the Corporation shall be deemed to have advised the Minister under Part IIA of the _Aboriginal and__Torres  Strait__Islanders Heritage Protection Act 1984_ that it considers that a declaration under section 21E of that Act should be made.
+                     (b)  the Corporation shall be deemed to have advised the Minister under Part IIA of the _Aboriginal and__Torres Strait__Islanders Heritage Protection Act 1984_ that it considers that a declaration under section 21E of that Act should be made.
 
              (3)  Unless the Minister otherwise determines in a particular case, this section does not apply in relation to the renewal or extension of a mining tenement.
 
@@ -878,23 +881,25 @@ shall be deemed, for the purposes of any proceedings for an offence against this
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act. 
 
+
 # Schedule 1—Land in the Parish of Condah to be vested in the Kerrup-Jmara Elders Aboriginal Corporation
 
 _Section 6_
 
 ## Part A
 
-![](http://www.comlaw.gov.au/Details/C2006C00663/Html/AbLndLkConFramFo87WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00176/Html/20068963FD6EF7E5CA25715500812AE5/$FILE/image002.gif)
 
 ## Part B 
 
-![](http://www.comlaw.gov.au/Details/C2006C00663/Html/AbLndLkConFramFo87WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00176/Html/20068963FD6EF7E5CA25715500812AE5/$FILE/image003.gif)
 
 # Schedule 2—Land in the Parish of Purnim to be vested in the Kirrae Whurrong Aboriginal Corporation
 
 _Section 7_
 
-![](http://www.comlaw.gov.au/Details/C2006C00663/Html/AbLndLkConFramFo87WD02_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00176/Html/20068963FD6EF7E5CA25715500812AE5/$FILE/image004.gif)
+
 
 # Notes to the _Aboriginal Land (Lake Condah and Framlingham Forest) Act 1987_
 
@@ -922,11 +927,13 @@ For all other relevant information pertaining to application, saving or transiti
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -936,216 +943,205 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Aboriginal Land (Lake Condah and Framlingham Forest) Act 1987</div>
-  </td>
-  <td>
-    <div>34, 1987</div>
-  </td>
-  <td>
-    <div>2 June 1987</div>
-  </td>
-  <td>
-    <div>Part 1 (ss. 1–5): Royal Assent 
-Remainder: 1 July 1987 ( <i>see Gazette</i>1987, No. S157)</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statutory Instruments (Tabling and Disallowance) Legislation Amendment Act 1988</div>
-  </td>
-  <td>
-    <div>99, 1988</div>
-  </td>
-  <td>
-    <div>2 Dec 1988</div>
-  </td>
-  <td>
-    <div>2 Dec 1988</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Lands Acquisition (Repeal and Consequential Provisions) Act 1989</div>
-  </td>
-  <td>
-    <div>21, 1989</div>
-  </td>
-  <td>
-    <div>20 Apr 1989</div>
-  </td>
-  <td>
-    <div>9 June 1989 ( <i>see</i>s. 2 and <i>Gazette</i>1989, No. S186)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Aboriginal and Torres Strait Islander Commission Act 1989</div>
-  </td>
-  <td>
-    <div>150, 1989</div>
-  </td>
-  <td>
-    <div>27 Nov 1989</div>
-  </td>
-  <td>
-    <div>5 Mar 1990 ( <i>see Gazette</i>1990, No. S48)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Aboriginal Land (Lake Condah and Framlingham Forest) Amendment Act 1994</div>
-  </td>
-  <td>
-    <div>99, 1994</div>
-  </td>
-  <td>
-    <div>30 June 1994</div>
-  </td>
-  <td>
-    <div>30 June 1994</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Audit (Transitional and Miscellaneous) Amendment Act 1997</div>
-  </td>
-  <td>
-    <div>152, 1997</div>
-  </td>
-  <td>
-    <div>24 Oct 1997</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 94–112): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(a)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Judiciary Amendment Act 1999</div>
-  </td>
-  <td>
-    <div>7, 1999</div>
-  </td>
-  <td>
-    <div>31 Mar 1999</div>
-  </td>
-  <td>
-    <div>Schedules 1–3: 1 Sept 1999 ( <i>see Gazette</i>1999, No. S395) 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Reconciliation and Aboriginal and Torres Strait Islander Affairs Legislation Amendment (Application of Criminal Code) Act 2001</div>
-  </td>
-  <td>
-    <div>112, 2001</div>
-  </td>
-  <td>
-    <div>17 Sept 2001</div>
-  </td>
-  <td>
-    <div>15 Oct 2001</div>
-  </td>
-  <td>
-    <div>S. 4</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Framework Legislation Amendment Act 2005</div>
-  </td>
-  <td>
-    <div>8, 2005</div>
-  </td>
-  <td>
-    <div>22 Feb 2005</div>
-  </td>
-  <td>
-    <div>S. 4 and Schedule 1 (items 58, 496): Royal Assent</div>
-  </td>
-  <td>
-    <div>S. 4 and Sch. 1 (item 496)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Aboriginal and Torres Strait Islander Commission Amendment Act 2005</div>
-  </td>
-  <td>
-    <div>32, 2005</div>
-  </td>
-  <td>
-    <div>22 Mar 2005</div>
-  </td>
-  <td>
-    <div>Schedule 4 (items 5, 6): 24 Mar 2005</div>
-  </td>
-  <td>
-    <div>Sch. 4 (item 6)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Framework Legislation Amendment Act (No. 1) 2006</div>
-  </td>
-  <td>
-    <div>30, 2006</div>
-  </td>
-  <td>
-    <div>6 Apr 2006</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 20): 7 Apr 2006</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Corporations (Aboriginal and Torres Strait Islander) Consequential, Transitional and Other Measures Act 2006</div>
-  </td>
-  <td>
-    <div>125, 2006</div>
-  </td>
-  <td>
-    <div>4 Nov 2006</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 4–34): \[ <i>see</i>s. 2(1) and Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Aboriginal Land (Lake Condah and Framlingham Forest) Act 1987</div>
+    </td>
+    <td>
+      <div>34, 1987</div>
+    </td>
+    <td>
+      <div>2 June 1987</div>
+    </td>
+    <td>
+      <div>Part 1 (ss. 1–5): Royal Assent 
+Remainder: 1 July 1987 ( <i>see Gazette</i>1987, No. S157) 
+</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statutory Instruments (Tabling and Disallowance) Legislation Amendment Act 1988</div>
+    </td>
+    <td>
+      <div>99, 1988</div>
+    </td>
+    <td>
+      <div>2 Dec 1988</div>
+    </td>
+    <td>
+      <div>2 Dec 1988</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Lands Acquisition (Repeal and Consequential Provisions) Act 1989</div>
+    </td>
+    <td>
+      <div>21, 1989</div>
+    </td>
+    <td>
+      <div>20 Apr 1989</div>
+    </td>
+    <td>
+      <div>9 June 1989 ( <i>see</i>s. 2 and <i>Gazette</i>1989, No. S186)</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Aboriginal and Torres Strait Islander Commission Act 1989</div>
+    </td>
+    <td>
+      <div>150, 1989</div>
+    </td>
+    <td>
+      <div>27 Nov 1989</div>
+    </td>
+    <td>
+      <div>5 Mar 1990 ( <i>see Gazette</i>1990, No. S48)</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Aboriginal Land (Lake Condah and Framlingham Forest) Amendment Act 1994</div>
+    </td>
+    <td>
+      <div>99, 1994</div>
+    </td>
+    <td>
+      <div>30 June 1994</div>
+    </td>
+    <td>
+      <div>30 June 1994</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Audit (Transitional and Miscellaneous) Amendment Act 1997</div>
+    </td>
+    <td>
+      <div>152, 1997</div>
+    </td>
+    <td>
+      <div>24 Oct 1997</div>
+    </td>
+    <td>
+      <div>Schedule 2 (items 94–112): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(a)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Judiciary Amendment Act 1999</div>
+    </td>
+    <td>
+      <div>7, 1999</div>
+    </td>
+    <td>
+      <div>31 Mar 1999</div>
+    </td>
+    <td>
+      <div>Schedules 1–3: 1 Sept 1999 ( <i>see Gazette</i>1999, No. S395) 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Reconciliation and Aboriginal and Torres Strait Islander Affairs Legislation Amendment (Application of Criminal Code) Act 2001</div>
+    </td>
+    <td>
+      <div>112, 2001</div>
+    </td>
+    <td>
+      <div>17 Sept 2001</div>
+    </td>
+    <td>
+      <div>15 Oct 2001</div>
+    </td>
+    <td>
+      <div>S. 4</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Financial Framework Legislation Amendment Act 2005</div>
+    </td>
+    <td>
+      <div>8, 2005</div>
+    </td>
+    <td>
+      <div>22 Feb 2005</div>
+    </td>
+    <td>
+      <div>S. 4 and Schedule 1 (items 58, 496): Royal Assent</div>
+    </td>
+    <td>
+      <div>S. 4 and Sch. 1 (item 496)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Aboriginal and Torres Strait Islander Commission Amendment Act 2005</div>
+    </td>
+    <td>
+      <div>32, 2005</div>
+    </td>
+    <td>
+      <div>22 Mar 2005</div>
+    </td>
+    <td>
+      <div>Schedule 4 (items 5, 6): 24 Mar 2005</div>
+    </td>
+    <td>
+      <div>Sch. 4 (item 6)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Financial Framework Legislation Amendment Act (No. 1) 2006</div>
+    </td>
+    <td>
+      <div>30, 2006</div>
+    </td>
+    <td>
+      <div>6 Apr 2006</div>
+    </td>
+    <td>
+      <div>Schedule 1 (item 20): 7 Apr 2006</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 _(a)_     The _Aboriginal__Land__(__Lake__Condah__and__Framlingham__Forest__) Act 1987_ was amended by Schedule 2 (items 94–112) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
 
                  (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
+
 
 ## Table of Amendments
 
@@ -1170,330 +1166,177 @@ _(a)_     The _Aboriginal__Land__(__Lake__Condah__and__Framlingham__Fore
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div><b>Part I</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 99, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4A</div>
-  </td>
-  <td>
-    <div>ad. No. 112, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5</div>
-  </td>
-  <td>
-    <div>am. No. 150, 1989; No. 32, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part II</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10</div>
-  </td>
-  <td>
-    <div>am. No. 7, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 11, 12</div>
-  </td>
-  <td>
-    <div>am. No. 21, 1989</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part III</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15</div>
-  </td>
-  <td>
-    <div>am. No. 99, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part IV</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 23</div>
-  </td>
-  <td>
-    <div>am. No. 99, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part V</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 30</div>
-  </td>
-  <td>
-    <div>am. No. 21, 1989; No. 112, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 35</div>
-  </td>
-  <td>
-    <div>am. No. 112, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 36</div>
-  </td>
-  <td>
-    <div>am. No. 99, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part VI</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part VI</div>
-  </td>
-  <td>
-    <div>rs. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 38</div>
-  </td>
-  <td>
-    <div>rs. No. 152, 1997; No. 8, 2005; No. 30, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 8, 2005; No. 30, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38A</div>
-  </td>
-  <td>
-    <div>ad. No. 30, 2006</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div><b>Part I</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 3</div>
+    </td>
+    <td>
+      <div>am. No. 99, 1994</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4A</div>
+    </td>
+    <td>
+      <div>ad. No. 112, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 5</div>
+    </td>
+    <td>
+      <div>am. No. 150, 1989; No. 32, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part II</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 10</div>
+    </td>
+    <td>
+      <div>am. No. 7, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 11, 12</div>
+    </td>
+    <td>
+      <div>am. No. 21, 1989</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part III</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 15</div>
+    </td>
+    <td>
+      <div>am. No. 99, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part IV</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 23</div>
+    </td>
+    <td>
+      <div>am. No. 99, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part V</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 30</div>
+    </td>
+    <td>
+      <div>am. No. 21, 1989; No. 112, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 35</div>
+    </td>
+    <td>
+      <div>am. No. 112, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 36</div>
+    </td>
+    <td>
+      <div>am. No. 99, 1994</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part VI</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part VI</div>
+    </td>
+    <td>
+      <div>rs. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 38</div>
+    </td>
+    <td>
+      <div>rs. No. 152, 1997; No. 8, 2005; No. 30, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 38</div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 8, 2005; No. 30, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 38A</div>
+    </td>
+    <td>
+      <div>ad. No. 30, 2006</div>
+    </td>
+  </tr>
+</tbody></table>
 
-### Note 2
-
-_Corporations (Aboriginal and Torres Strait Islander) Consequential, Transitional and Other Measures Act 2006 (No. 125, 2006)_
-
-The following amendments commence on 1 July 2007 (_see_ s. 2(1)):
-
-## Schedule 2
-
-## 4  Subsection 3(1)
-
-Insert:
-
-                    <a name="aborigin-torr-strait-island-corpor"></a>**_Aboriginal and Torres Strait Islander corporation_** means a corporation registered under the _Corporations (Aboriginal and__Torres  Strait__Islander) Act 2006_.
-
-## 5  Subsection 3(1) (definition of _Community Council_)
-
-Omit “governing committee”, substitute “directors”.
-
-## 6  Subsection 3(1) (definition of _Governing Committee_)
-
-Repeal the definition.
-
-## 7  Subsection 3(1) (definition of _Kerrup-Jmara Elders Aboriginal Corporation_)
-
-Repeal the definition, substitute:
-
-                    <a name="kerrup-jmara-elder-aborigin-corpor"></a>**_Kerrup-Jmara Elders Aboriginal Corporation_** means the Aboriginal and Torres Strait Islander corporation of that name.
-
-## 8  Subsection 3(1) (definition of _Kirrae Whurrong Aboriginal Corporation_)
-
-Repeal the definition, substitute:
-
-                    <a name="kirra-whurrong-aborigin-corpor"></a>**_Kirrae Whurrong Aboriginal Corporation_** means the Aboriginal and Torres Strait Islander corporation of that name.
-
-## 9  Paragraph 13(1)(b)
-
-Omit “Aboriginal group which is incorporated under the _Aboriginal Councils and Associations Act 1976_”, substitute “Aboriginal and Torres Strait Islander corporation”.
-
-## 10  Subsection 13(2)
-
-Omit “Aboriginal group”, substitute “Aboriginal and Torres Strait Islander corporation”.
-
-## 11  Subsection 15(5)
-
-Omit “Governing Committee shall”, substitute “directors of the Corporation must”.
-
-## 12  Subsection 16(2)
-
-Omit “Governing Committee”, substitute “directors of the Corporation”.
-
-## 13  Subsection 16(3)
-
-Omit “Governing Committee shall”, substitute “directors of the Corporation must”.
-
-## 14  Paragraph 18(1)(a)
-
-Omit “_Aboriginal Councils and Associations Act 1976_”, substitute “_Corporations (Aboriginal and__Torres Strait__Islander) Act 2006_”.
-
-## 15  Subsection 18(5)
-
-Omit “_Aboriginal Councils and Associations Act 1976_”, substitute “_Corporations (Aboriginal and__Torres Strait__Islander) Act 2006_”.
-
-## 16  Section 19
-
-Omit “Aboriginal group under this Act”, substitute “Aboriginal and Torres Strait Islander corporation under this Act”.
-
-## 17  Subparagraphs 19(b)(i) and (ii)
-
-Repeal the subparagraphs, substitute:
-
-                              (i)  to another Aboriginal and Torres Strait Islander corporation that is approved by the Minister and whose members are the descendants of the Kerrup-Jmara Clan; or
-
-                             (ii)  if there is no Aboriginal and Torres Strait Islander corporation as described in subparagraph (i)—to any appropriate Aboriginal and Torres Strait Islander corporation.
-
-## 18  Section 20
-
-Omit “another Aboriginal group”, substitute “another Aboriginal and Torres Strait Islander corporation (the **_transferee corporation_**)”.
-
-## 19  Paragraph 20(a)
-
-Omit “the group” (wherever occurring), substitute “the transferee corporation”.
-
-## 20  Subparagraph 20(a)(ii)
-
-Repeal the subparagraph, substitute:
-
-                             (ii)  references to the Committee of Elders were references to such Committee of Elders as is declared by the Governor-General by Proclamation for the purposes of this section; and
-
-                            (iii)  references to the directors of the Corporation were references to the directors of the transferee corporation; and
-
-## 21  Paragraph 20(b)
-
-Omit “the group to which the land is transferred or granted”, substitute “the transferee corporation”.
-
-## 22  Paragraph 20(b)
-
-Omit “or group” (wherever occurring), substitute “or Aboriginal and Torres Strait Islander corporation”.
-
-## 23  Paragraph 21(1)(b)
-
-Omit “Aboriginal group which is incorporated under the _Aboriginal Councils and Associations Act 1976_”, substitute “Aboriginal and Torres Strait Islander corporation”.
-
-## 24  Subsection 21(2)
-
-Omit “Aboriginal group”, substitute “Aboriginal and Torres Strait Islander corporation”.
-
-## 25  Subsection 25(3)
-
-Omit “_Aboriginal Councils and Associations Act 1976_”, substitute “_Corporations (Aboriginal and__Torres Strait__Islander) Act 2006_”.
-
-## 26  Paragraph 27(1)(a)
-
-Omit “_Aboriginal Councils and Associations Act 1976_”, substitute “_Corporations (Aboriginal and__Torres Strait__Islander) Act 2006_”.
-
-## 27  Subsection 27(5)
-
-Omit “_Aboriginal Councils and Associations Act 1976_”, substitute “_Corporations (Aboriginal and__Torres Strait__Islander) Act 2006_”.
-
-## 28  Section 28
-
-Omit “Aboriginal group under this Act”, substitute “Aboriginal and Torres Strait Islander corporation under this Act”.
-
-## 29  Subparagraphs 28(b)(i) and (ii)
-
-Repeal the subparagraphs, substitute:
-
-                              (i)  to another Aboriginal and Torres Strait Islander corporation that is approved by the Minister and whose members are the descendants of the Kirrae Whurrong (Pertobe) Clan; or
-
-                             (ii)  if there is no Aboriginal and Torres Strait Islander corporation as described in subparagraph (i)—to any appropriate Aboriginal and Torres Strait Islander corporation.
-
-## 30  Section 29
-
-Omit “another Aboriginal group”, substitute “another Aboriginal and Torres Strait Islander corporation (the **_transferee corporation_**)”.
-
-## 31  Paragraph 29(a)
-
-Omit “the group” (wherever occurring), substitute “the transferee corporation”.
-
-## 32  Subparagraph 29(a)(ii)
-
-Repeal the subparagraph, substitute:
-
-                             (ii)  references to the Committee of Elders were references to such Committee of Elders as is declared by the Governor-General by Proclamation for the purposes of this section; and
-
-                            (iii)  references to the directors of the Corporation were references to the directors of the transferee corporation; and
-
-## 33  Paragraph 29(b)
-
-Omit “the group to which the land is transferred or granted”, substitute “the transferee corporation”.
-
-## 34  Paragraph 29(b)
-
-Omit “or group” (wherever occurring), substitute “or Aboriginal and Torres Strait Islander corporation”.
-
-As at 14 November 2006 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -1507,7 +1350,9 @@ _Reconciliation and Aboriginal and Torres Strait Islander Affairs Legislation Am
 
              (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 1pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)_
 
@@ -1531,16 +1376,20 @@ then the thing has the corresponding effect, for the purposes of the Part 2 Ac
 
 If a determination under subsection 20(1) of the _Financial Management and Accountability Act 1997_ is in force immediately before the commencement of this item, the determination continues in force as if it were made under subsection 20(1) of that Act as amended by this Act.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 1pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
 
-_Aboriginal and Torres  Strait Islander Commission Amendment Act 2005 
- (No. 32, 2005)_
+ </div>
+
+_Aboriginal and Torres Strait Islander Commission Amendment Act 2005 
+
+(No. 32, 2005)_
 
 ## Schedule 4
 
 ## 6  Saving provision
 
 Despite the amendment of section 5 of the _Aboriginal Land (Lake Condah and Framlingham Forest) Act 1987_, any delegation by the Minister to an officer of the Department that was in force under that section immediately before the day Schedules 1 and 2 to this Act commence continues in force on and after that day as if it were a delegation made by the Minister under that section as amended by this Act.
+
 
  
 
