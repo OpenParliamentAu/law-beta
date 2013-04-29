@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00551/Html/FoodStandAusNZ1991_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00194/Html/FoodStandAusNZ1991_image001.gif)
 
 # Food Standards Australia New Zealand Act 1991
 
 **Act No. 118 of 1991 as amended**
 
-This compilation was prepared on 5 August 2010
- taking into account amendments up to Act No. 103 of 2010
+This compilation was prepared on 5 March 2010
+ taking into account amendments up to Act No. 8 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -229,29 +229,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [83](#83).          Authority to complete its consideration of the proposal within prescribed period
 
-    **Division 3—Council review of draft standards and draft variations of standards**
+    **Division 3—Council may request a review of approved draft standard etc.**
 
-[84](#84).          Council may request a review
+[84](#84).          Council may request a first review
 
-[85](#85).          Review not requested
+[85](#85).          Council may request a second review
 
-[86](#86).          Review requested
+[86](#86).          Council may amend or reject draft after second review
 
-[87](#87).          Authority to respond to request
-
-[88](#88).          Council may amend or reject draft after review
-
-[89](#89).          Council does not intend to amend or reject the draft
-
-[90](#90).          Council amends the draft
-
-[91](#91).          Council rejects the draft
-
-[92](#92).          Publication requirements
-
-[93](#93).          When a standard or variation takes effect
-
-[94](#94).          Standards are legislative instruments, but not subject to disallowance or sunsetting
+[87](#87).          Publication of standard or variation
 
     **Division 4—Urgent applications and proposals** 
 
@@ -278,6 +264,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [103](#103).        Review requested
 
 [104](#104).        Authority to respond to request
+
+[105](#105).        Council may request second review
 
 [106](#106).        Council may revoke or amend standard or variation
 
@@ -409,7 +397,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="3"></a>3  Object of Act
 
-                   The object of this Act is to ensure a high standard of public health protection throughout Australia and New Zealand by means of the establishment and operation of a joint body to be known as Food Standards Australia New Zealand to achieve the following goals:
+                   The object of this Act is to ensure a high standard of public health protection throughout Australia and New Zealand by means of the establishment and operation of a joint body to be known as Food Standards Australia New Zealand to achieve the following goals:
 
                      (a)  a high degree of consumer confidence in the quality and safety of food produced, processed, sold or exported from Australia and New Zealand;
 
@@ -1223,9 +1211,7 @@ the Authority must give the applicant notice in writing of that fact and state i
 
                      (b)  prepare a report under this section.
 
-Note 1:       The Board must not delegate its powers to act on behalf of the Authority under paragraph (a)—see section 150.
-
-Note 2:       The draft does not take effect except in accordance with a notice under section 92—see section 93.
+Note:          The Board must not delegate its powers to act on behalf of the Authority under paragraph (a)—see section 150.
 
              (2)  The Authority must have regard to all submissions made during the submission period in making a decision under subsection (1).
 
@@ -1807,9 +1793,7 @@ Note:          See also section 18, which sets out the objec
 
                      (b)  prepare a report under this section.
 
-Note 1:       The Board must not delegate its powers to act on behalf of the Authority under paragraph (a)—see section 150.
-
-Note 2:       The draft does not take effect except in accordance with a notice under section 93.
+Note:          The Board must not delegate its powers to act on behalf of the Authority under paragraph (a)—see section 150.
 
              (2)  The Authority must have regard to all submissions made during the submission period in making a decision under subsection (1).
 
@@ -2161,121 +2145,199 @@ Note:          The process followed by the Council after recei
 
                    The Authority must complete the general procedure within the prescribed period.
 
-### Division 3—Council review of draft standards and draft variations of standards
+### Division 3—Council may request a review of approved draft standard etc.
 
-##### <a id="84"></a>84  Council may request a review
+##### <a id="84"></a>84  Council may request a first review
 
-             (1)  If the Authority notifies the Council under section 34, 41, 64 or 69 that the Authority has approved a draft standard or draft variation (with or without amendments), the Council must, within 60 days after the notification:
+             (1)  If the Authority notifies the Council under section 34, 41, 53, 64, 69 or 79 that the Authority has approved a draft standard or variation (with or without amendments), the Council must, within 60 days after the notification:
 
                      (a)  request the Authority to review the draft; or
 
                      (b)  inform the Authority that the Council does not intend to request the Authority to review the draft.
 
-             (2)  In exercising its powers under this section in relation to a draft standard or variation, the Council must comply with:
+             (2)  If the Council requests the Authority to review a draft standard or variation, the Council must inform the Authority of the Council’s concerns with the draft.
 
-                     (a)  the Food Regulation Agreement; and
+             (3)  The Council may give to the Authority such directions as it thinks fit in relation to the conduct of a review of a draft standard or variation. A direction given under this subsection is not a legislative instrument.
 
-                     (b)  the Australia New Zealand Joint Food Standards Agreement.
+             (4)  Subject to any directions under subsection (3), a review is to be conducted in such manner as the Authority considers appropriate.
 
-##### <a id="85"></a>85  Review not requested
+             (5)  If the Council requests the Authority to review a draft standard or variation, the Authority must complete that review, and make a decision under subsection (6):
 
-                   If the Council informs the Authority under paragraph 84(1)(b) that the Council does not intend to request the Authority to review a draft standard or draft variation then, as soon as practicable, the Authority must comply with the publication requirements set out in section 92.
+                     (a)  within 3 months after the request was made; or
 
-##### <a id="86"></a>86  Review requested
+                     (b)  if the Council allows a longer period—within that longer period.
 
-             (1)  If the Council requests the Authority to review a draft standard or draft variation, the Council must inform the Authority of the Council’s concerns with the draft.
-
-             (2)  The Council may give to the Authority such directions as it thinks fit in relation to the conduct of a review of a draft standard or draft variation.
-
-             (3)  A direction under subsection (2) is not a legislative instrument.
-
-##### <a id="87"></a>87  Authority to respond to request
-
-             (1)  If the Council requests the Authority to review a draft standard or draft variation:
-
-                     (a)  a review is to be conducted, subject to any directions given under subsection 86(2), in such manner as the Authority considers appropriate; and
-
-                     (b)  the Authority must complete the review, and make a decision under subsection (2):
-
-                              (i)  within 3 months after the request was made; or
-
-                             (ii)  if the Council allows a longer period—within that longer period.
-
-             (2)  After completing a review under this section of a draft standard or draft variation, the Authority must:
+             (6)  After completing a review under this section of a draft standard or variation, the Authority must:
 
                      (a)  decide to re-affirm its approval of the draft; or
 
                      (b)  decide to re-affirm its approval of the draft, subject to such amendments as the Authority considers necessary; or
 
-                     (c)  decide to withdraw its approval of the draft.
+                     (c)  decide to withdraw its approval of the draft;
 
-Note:          The Board must not delegate its powers to act on behalf of the Authority under this subsection—see section 150.
+and give the Council, within 10 business days after making its decision:
 
-             (3)  The Authority must give to the Council, within 10 business days of making its decision:
+                     (d)  written notification of the terms of the Authority’s decision; and
 
-                     (a)  written notice of the terms of the Authority’s decision; and
+                     (e)  the Authority’s reasons for making that decision.
 
-                     (b)  the Authority’s reasons for making that decision.
+Note:          The Board must not delegate its powers to act on behalf of the Authority under paragraphs (a), (b) or (c)—see section 150.
 
-##### <a id="88"></a>88  Council may amend or reject draft after review
+             (7)  In exercising its powers under this section in relation to a draft standard or variation, the Council must comply with:
 
-             (1)  If the Authority notifies the Council of a decision made under paragraph  87(2)(a) or (b), the Council must, within 60 days after the notification:
+                     (a)  the Food Regulation Agreement; and
 
-                     (a)  inform the Authority that the Council does not intend to amend or reject the draft; or
+                     (b)  the Australia New Zealand Joint Food Standards Agreement.
 
-                     (b)  by written instrument, amend the draft; or
+##### <a id="85"></a>85  Council may request a second review
 
-                     (c)  reject the draft.
+             (1)  If the Authority notifies the Council that the Authority has:
 
-             (2)  An instrument made under paragraph (1)(b) is not a legislative instrument.
+                     (a)  made a decision under paragraph 84(6)(a) to re-affirm the Authority’s approval of a draft standard or variation; or
 
-##### <a id="89"></a>89  Council does not intend to amend or reject the draft
+                     (b)  made a decision under paragraph 84(6)(b) to re-affirm the Authority’s approval of a draft standard or variation, subject to amendments;
 
-                   If the Council informs the Authority under paragraph 88(1)(a) that it does not intend to amend or reject a draft standard or draft variation then, as soon as practicable, the Authority must comply with the publication requirements set out in section 92.
+the Council must, within 60 days after the notification:
 
-##### <a id="90"></a>90  Council amends the draft
+                     (c)  request the Authority to review the draft; or
 
-             (1)  Before amending a draft standard or draft variation under paragraph 88(1)(b), the Council must give the Authority an opportunity to submit to the Council a draft of the text of the amendment.
+                     (d)  inform the Authority that the Council does not intend to request the Authority to review the draft.
 
-             (2)  As soon as practicable after the Council decides to amend a draft standard or draft variation, the Council must inform the Authority that the Council has amended the draft, and give the Authority a copy of the amended draft.
+             (2)  If the Council requests the Authority to review a draft standard or variation, the Council must inform the Authority of the Council’s concerns with the draft.
 
-             (3)  The Authority must, as soon as practicable after being informed of the amendment, comply with the publication requirements set out in section 92.
+             (3)  The Council may give to the Authority such directions as it thinks fit in relation to the conduct of a review of a draft standard or variation. A direction under this subsection is not a legislative instrument.
 
-##### <a id="91"></a>91  Council rejects the draft
+             (4)  Subject to any directions under subsection (3), a review is to be conducted in such manner as the Authority considers appropriate.
 
-                   If the Council decides to reject a draft standard or draft variation under paragraph 88(1)(c), the Council must:
+             (5)  If the Council requests the Authority to review a draft standard or variation, the Authority must complete that review, and make a decision under subsection (6):
 
-                     (a)  prepare a notice setting out that decision and reasons for that decision; and
+                     (a)  within 3 months after the request was made; or
+
+                     (b)  if the Council allows a longer period—within that longer period.
+
+             (6)  After completing a review under this section of a draft standard or variation, the Authority must:
+
+                     (a)  decide to re-affirm its approval of the draft; or
+
+                     (b)  decide to re-affirm its approval of the draft, subject to such amendments as the Authority considers necessary; or
+
+                     (c)  decide to withdraw its approval of the draft;
+
+and give the Council, within 10 business days after making its decision:
+
+                     (d)  written notification of the terms of the Authority’s decision; and
+
+                     (e)  the Authority’s reasons for making that decision.
+
+Note:          The Board must not delegate its powers to act on behalf of the Authority under paragraphs (a), (b) or (c)—see section 150.
+
+             (7)  In exercising its powers under this section in relation to a draft standard or variation, the Council must comply with the Food Regulation Agreement.
+
+##### <a id="86"></a>86  Council may amend or reject draft after second review
+
+             (1)  If the Authority notifies the Council that the Authority has:
+
+                     (a)  made a decision under paragraph 85(6)(a) to re-affirm the Authority’s approval of a draft standard or variation; or
+
+                     (b)  made a decision under paragraph 85(6)(b) to re-affirm the Authority’s approval of a draft standard or variation, subject to amendments;
+
+the Council must, within 60 days after the notification:
+
+                     (c)  inform the Authority that the Council does not intend to amend or reject the draft; or
+
+                     (d)  by written instrument, amend the draft; or
+
+                     (e)  reject the draft.
+
+             (2)  Before amending the draft standard or variation, the Council must give the Authority an opportunity to submit to the Council a draft of the text of the amendment.
+
+             (3)  As soon as practicable after the Council decides to amend a draft standard or variation, the Council must inform the Authority that the Council has amended the draft, and give the Authority a copy of the amended draft standard or variation.
+
+             (4)  An instrument made under paragraph (1)(d) is not a legislative instrument.
+
+             (5)  If the Council decides to reject the draft, the Council must:
+
+                     (a)  prepare a notice setting out that decision and the reasons for that decision; and
 
                      (b)  give the Authority a copy of the notice; and
 
-                     (c)  publish a copy of the notice:
+                     (c)  publish a copy of the notice on the internet and in a newspaper circulating in each State or Territory and in New   Zealand.
 
-                              (i)  on the internet; and
+##### <a id="87"></a>87  Publication of standard or variation
 
-                             (ii)  in a generally circulating newspaper, in each State or Territory and in New Zealand.
+Standard or variation not subject to review at the request of the Council
 
-##### <a id="92"></a>92  Publication requirements
+             (1)  If:
 
-                   The **_publication requirements_** for the purposes of sections 85 and 89 and subsection 90(3) are as follows:
+                     (a)  the Authority notifies the Council under section 34, 41, 64 or 69 that the Authority has approved a draft standard or variation (with or without amendments); and
 
-                     (a)  the Authority must prepare a notice stating that the draft or amended draft, as the case requires, is to come into effect on a day specified in the notice;
+                     (b)  the Council informs the Authority that the Council does not intend to request the Authority to review the draft;
+
+then, as soon as practicable, the Authority must comply with the publication requirements set out in subsection (5) in relation to the draft or the draft as so amended.
+
+Standard or variation subject to a first review at the request of the Council
+
+             (2)  If:
+
+                     (a)  the Authority notifies the Council under subsection 84(6) that the Authority has:
+
+                              (i)  made a decision under paragraph 84(6)(a) to re-affirm the Authority’s approval of a draft standard or variation; or
+
+                             (ii)  made a decision under paragraph 84(6)(b) to re-affirm the Authority’s approval of a draft standard or variation, subject to amendments; and
+
+                     (b)  the Council informs the Authority that the Council does not intend to request the Authority to review the draft;
+
+then, as soon as practicable, the Authority must comply with the publication requirements set out in subsection (5) in relation to the draft or the draft as so amended.
+
+Standard or variation subject to a second review at the request of the Council
+
+             (3)  If:
+
+                     (a)  the Authority notifies the Council under subsection 85(6) that the Authority has:
+
+                              (i)  made a decision under paragraph 85(6)(a) to re-affirm the Authority’s approval of a draft standard or variation; or
+
+                             (ii)  made a decision under paragraph 85(6)(b) to re-affirm the Authority’s approval of a draft standard or variation, subject to amendments; and
+
+                     (b)  the Council informs the Authority that the Council does not intend to amend or reject the draft;
+
+then, as soon as practicable, the Authority must comply with the publication requirements set out in subsection (5) in relation to the draft or the draft as so amended.
+
+Standard or variation amended by the Council at the second review
+
+             (4)  If:
+
+                     (a)  the Authority notifies the Council under subsection 85(6) that the Authority has:
+
+                              (i)  made a decision under paragraph 85(6)(a) to re-affirm the Authority’s approval of a draft standard or variation; or
+
+                             (ii)  made a decision under paragraph 85(6)(b) to re-affirm the Authority’s approval of a draft standard or variation, subject to amendments; and
+
+                     (b)  the Council informs the Authority that the Council has amended the draft;
+
+then, as soon as practicable, the Authority must comply with the publication requirements set out in subsection (5) in relation to the draft as so amended.
+
+Publication requirements
+
+             (5)  The publication requirements applicable to a draft or draft as amended are as follows:
+
+                     (a)  the Authority must prepare a notice stating that the draft or the draft as so amended is to come into effect on a date specified in the notice;
 
                      (b)  the Authority must cause a copy of the notice to be published:
 
                               (i)  in the _Gazette_; and
 
-                             (ii)  in the New Zealand Gazette; and
+(ii)  in the New Zealand Gazette; and
 
                             (iii)  in a generally circulating newspaper, in each State or Territory and in New Zealand;
 
-                            together with information about where a copy of the draft or amended draft may be obtained or inspected;
+                            together with information about where a copy of the draft or draft as amended may be obtained or inspected;
 
                      (c)  the Authority must make a copy of:
 
                               (i)  the notice; and
 
-                             (ii)  the text of the draft or the amended draft;
+                             (ii)  the text of the draft or the draft as so amended;
 
                             available for inspection by the public;
 
@@ -2283,15 +2345,19 @@ Note:          The Board must not delegate its powers to act o
 
                               (i)  the notice; and
 
-                             (ii)  the text of the draft or the amended draft.
+                             (ii)  the text of the draft or the draft as so amended.
 
-##### <a id="93"></a>93  When a standard or variation takes effect
+When standard or variation made under this Act
 
-                   A standard, or variation of a standard, takes effect on the day specified in the notice given under section 92.
+             (6)  If a standard or variation is the subject of a notice under subsection (5), the standard or variation is taken to have been **_made_** **_under this Act_** if and when the standard or variation comes into effect in accordance with the notice.
 
-##### <a id="94"></a>94  Standards are legislative instruments, but not subject to disallowance or sunsetting
+Draft as so amended
 
-                   A standard, or a variation of a standard, in relation to which a notice is published under section 92 is a legislative instrument, but section 42 and Part 6 of the _Legislative Instruments Act 2003_ do not apply to the standard or variation.
+             (7)  To avoid doubt, a reference in this section to a **_draft as so amended_** does not imply that a reference in another provision of this Act to a draft does not include a reference to an amended draft.
+
+Standards are legislative instruments, but not subject to disallowance or sunsetting
+
+             (8)  A standard, or a variation of a standard, in relation to which a notice is published under this section is a legislative instrument, but section 42 and Part 6 of the _Legislative Instruments Act 2003_ do not apply to the standard or variation.
 
 ### Division 4—Urgent applications and proposals
 
@@ -2545,9 +2611,21 @@ Note:          The Board must not delegate its powers to act o
 
                      (b)  the Authority’s reasons for making that decision.
 
+##### <a id="105"></a>105  Council may request second review
+
+             (1)  If the Authority notifies the Council under section 104 that the Authority re-affirmed its decision to approve the standard or variation, the Council must, within 60 days after the notification:
+
+                     (a)  request the Authority to review the standard or variation; or
+
+                     (b)  inform the Authority that the Council does not intend to request the Authority to review the standard or variation.
+
+             (2)  In exercising its powers under this section in relation to the standard or variation, the Council must comply with the Food Regulation Agreement.
+
+             (3)  Sections 103 and 104 apply in the same way in relation to the second review as they apply in relation to the first.
+
 ##### <a id="106"></a>106  Council may revoke or amend standard or variation
 
-             (1)  If the Authority notifies the Council that the Authority has decided under paragraph 104(2)(a) to re-affirm the standard or variation, the Council must, within 60 days after the notification:
+             (1)  If, after a second review, the Authority notifies the Council that the Authority has decided under paragraph 104(2)(a) to re-affirm the standard or variation, the Council must, within 60 days after the notification:
 
                      (a)  inform the Authority that the Council does not intend to revoke or amend the standard or variation; or
 
@@ -3297,7 +3375,7 @@ the Minister may terminate the appointment of the member.
 
                      (h)  paragraph 78(1)(a); or
 
-                      (i)  subsection 87(2); or
+                      (i)  subsection 84(6) or 85(6); or
 
                       (j)  subsection 97(1); or
 
@@ -3567,7 +3645,7 @@ on the amount unpaid computed from that time.
 
                      (h)  paragraph 78(1)(a); or
 
-                      (i)  subsection 87(2); or
+                      (i)  paragraphs 84(6)(a), (b) or (c) or 85(6)(a), (b) or (c); or
 
                       (j)  subsection 97(1); or
 
@@ -3707,9 +3785,9 @@ in respect of that food and that the food complies with the standard.
 
 The _Food Standards__Australia__New   Zealand__Act 1991_ as shown in this compilation comprises Act No. 118, 1991 amended as indicated in the Tables below. 
 
-For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
-
 The _Food Standards__Australia__New   Zealand__Act 1991_ was modified by the _National Food Authority Regulations 1994_(1994 No. 286 as amended). The modifications made by the Regulations are not incorporated in this compilation.
+
+For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
 
 ### Table of Acts
 
@@ -4060,8 +4138,8 @@ Remainder: Royal Assent</div>
   <td>
     <div>Schedule 1 (items 1–63): 1 July 2007 ( <i>see</i>F2007L01822) 
 Schedule 1 (items 64–78): <i>(g)</i> 
-Schedule 2: 28 Dec 2008 
-Schedule 3 (items 1–9): 6 July 2010 
+Schedule 2: 28 Dec 2008 
+Schedule 3 (items 1–9): \[ <i>see</i> <i>(g)</i>and Note 2] 
 Schedule 3 (item 10): <i>(g)</i> 
 Remainder: Royal Assent</div>
   </td>
@@ -4081,25 +4159,8 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Schedule 5 (items 49–51, 53, 54): Royal Assent 
-Schedule 5 (item 52): <i>(h)</i> 
+Schedule 5 (item 52): \[ <i>see (h)</i>and Note 3] 
 Schedule 5 (item 137(a)): <i>(h)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010</div>
-  </td>
-  <td>
-    <div>103, 2010</div>
-  </td>
-  <td>
-    <div>13 July 2010</div>
-  </td>
-  <td>
-    <div>Schedule 6 (items 162, 163): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -4442,7 +4503,8 @@ _(g)_     Subsection 2(1) (items 2–6, 8 and 9) of the _Food Standard
   </td>
   <td>
     <div>
-      6 July 2010
+      \[
+        <i>see</i>Note 2]
     </div>
   </td>
 </tr>
@@ -4535,7 +4597,8 @@ _(h)_     Subsection 2(1) (items 31, 32 and 38) of the _Statute Law Revi
   </td>
   <td>
     <div>
-      6 July 2010
+      \[
+        <i>see</i>Note 3]
     </div>
   </td>
 </tr>
@@ -5288,24 +5351,6 @@ The amendment history of the _Food Standards__Australia__New Zealand__Act 1991_ 
 </tr>
 <tr>
   <td>
-    <div>Note to s. 33(1) 
-Renumbered Note 1</div>
-  </td>
-  <td>
-    <div>
-No. 98, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note 2 to s. 33(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 98, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 34</div>
   </td>
   <td>
@@ -5580,41 +5625,7 @@ No. 81, 2001</div>
 </tr>
 <tr>
   <td>
-    <div>Ss. 58–62</div>
-  </td>
-  <td>
-    <div>ad. No. 98, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 63</div>
-  </td>
-  <td>
-    <div>ad. No. 98, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 63(1) 
-Renumbered Note 1</div>
-  </td>
-  <td>
-    <div>
-No. 98, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note 2 to s. 63(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 98, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 64, 65</div>
+    <div>Ss. 58–65</div>
   </td>
   <td>
     <div>ad. No. 98, 2007</div>
@@ -5726,26 +5737,10 @@ No. 98, 2007</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 98, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 85</div>
   </td>
   <td>
     <div>ad. No. 98, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 98, 2007</div>
   </td>
 </tr>
 <tr>
@@ -5762,46 +5757,6 @@ No. 98, 2007</div>
   </td>
   <td>
     <div>am. No. 8, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 98, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 88–90</div>
-  </td>
-  <td>
-    <div>ad. No. 98, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 91, 92</div>
-  </td>
-  <td>
-    <div>ad. No. 98, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 93, 94</div>
-  </td>
-  <td>
-    <div>ad. No. 98, 2007</div>
   </td>
 </tr>
 <tr>
@@ -5870,26 +5825,10 @@ No. 98, 2007</div>
 </tr>
 <tr>
   <td>
-    <div>Ss. 98–104</div>
+    <div>Ss. 98–105</div>
   </td>
   <td>
     <div>ad. No. 98, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 105</div>
-  </td>
-  <td>
-    <div>ad. No. 98, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 98, 2007</div>
   </td>
 </tr>
 <tr>
@@ -5905,7 +5844,7 @@ No. 98, 2007</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 98, 2007; No. 8, 2010</div>
+    <div>am. No. 8, 2010</div>
   </td>
 </tr>
 <tr>
@@ -7459,22 +7398,206 @@ Certain provisions of the _Food Standards Australia New Zealand Act 1991_, as am
 
 ### Note 2
 
-_Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010
- (No. 103, 2010)_
+_Food Standards Australia New Zealand Amendment Act 2007
+ (No. 98, 2007) (as amended by the Statute Law Revision Act 2010 (No. 8, 2010))_
 
-The following amendments commence on the start of 1 January 2011:
+The amendment made by the _Statute Law Revision Act 2010_ commenced on 1 March 2010 and has been incorporated into this Note.
 
-## Schedule 6
+The following amendments commence on the day on which an amendment of the Agreement between the Government of Australia and the Government of New Zealand Establishing a System for the Development of Joint Food Standards, signed at Wellington on 5 December 1995, enters into force to reduce from two to one the number of occasions on which the Council may request the Authority to review a draft standard or a draft variation of a standard. However, the amendments may not commence at all, _see_ subsection 2(1) (item 8):
 
-## 162  Paragraph 13(1)(j)
+## Schedule 3
 
-Omit “Division 1A of Part V of the _Trade Practices Act 1974_”, substitute “Part 3-3 of Schedule 2 to the _Competition and Consumer Act 2010_, as that Part applies as a law of the Commonwealth”.
+## 1  Subsection 33(1) (note)
 
-## 163  Paragraph 13(1)(j)
+Omit “Note”, substitute “Note 1”.
 
-Omit “that Division”, substitute “that Part”.
+## 2  At the end of subsection 33(1)
 
-As at 5 August 2010 the amendments are not incorporated in this compilation.
+Add:
+
+Note 2:       The draft does not take effect except in accordance with a notice under section 92—see section 93.
+
+## 3  Subsection 63(1)(note)
+
+Omit “Note”, substitute “Note 1”.
+
+## 4  At the end of subsection 63(1)
+
+Add:
+
+Note 2:       The draft does not take effect except in accordance with a notice under section 93.
+
+## 5  Division 3 of Part 3
+
+Repeal the Division, substitute:
+
+### Division 3—Council review of draft standards and draft variations of standards
+
+##### <a id="84"></a>84  Council may request a review
+
+             (1)  If the Authority notifies the Council under section 34, 41, 64 or 69 that the Authority has approved a draft standard or draft variation (with or without amendments), the Council must, within 60 days after the notification:
+
+                     (a)  request the Authority to review the draft; or
+
+                     (b)  inform the Authority that the Council does not intend to request the Authority to review the draft.
+
+             (2)  In exercising its powers under this section in relation to a draft standard or variation, the Council must comply with:
+
+                     (a)  the Food Regulation Agreement; and
+
+                     (b)  the Australia New Zealand Joint Food Standards Agreement.
+
+##### <a id="85"></a>85  Review not requested
+
+                   If the Council informs the Authority under paragraph 84(1)(b) that the Council does not intend to request the Authority to review a draft standard or draft variation then, as soon as practicable, the Authority must comply with the publication requirements set out in section 92.
+
+##### <a id="86"></a>86  Review requested
+
+             (1)  If the Council requests the Authority to review a draft standard or draft variation, the Council must inform the Authority of the Council’s concerns with the draft.
+
+             (2)  The Council may give to the Authority such directions as it thinks fit in relation to the conduct of a review of a draft standard or draft variation.
+
+             (3)  A direction under subsection (2) is not a legislative instrument.
+
+##### <a id="87"></a>87  Authority to respond to request
+
+             (1)  If the Council requests the Authority to review a draft standard or draft variation:
+
+                     (a)  a review is to be conducted, subject to any directions given under subsection 86(2), in such manner as the Authority considers appropriate; and
+
+                     (b)  the Authority must complete the review, and make a decision under subsection (2):
+
+                              (i)  within 3 months after the request was made; or
+
+                             (ii)  if the Council allows a longer period—within that longer period.
+
+             (2)  After completing a review under this section of a draft standard or draft variation, the Authority must:
+
+                     (a)  decide to re-affirm its approval of the draft; or
+
+                     (b)  decide to re-affirm its approval of the draft, subject to such amendments as the Authority considers necessary; or
+
+                     (c)  decide to withdraw its approval of the draft.
+
+Note:          The Board must not delegate its powers to act on behalf of the Authority under this subsection—see section 150.
+
+             (3)  The Authority must give to the Council, within 10 business days of making its decision:
+
+                     (a)  written notice of the terms of the Authority’s decision; and
+
+                     (b)  the Authority’s reasons for making that decision.
+
+##### <a id="88"></a>88  Council may amend or reject draft after review
+
+             (1)  If the Authority notifies the Council of a decision made under paragraph  87(2)(a) or (b), the Council must, within 60 days after the notification:
+
+                     (a)  inform the Authority that the Council does not intend to amend or reject the draft; or
+
+                     (b)  by written instrument, amend the draft; or
+
+                     (c)  reject the draft.
+
+             (2)  An instrument made under paragraph (1)(b) is not a legislative instrument.
+
+##### <a id="89"></a>89  Council does not intend to amend or reject the draft
+
+                   If the Council informs the Authority under paragraph 88(1)(a) that it does not intend to amend or reject a draft standard or draft variation then, as soon as practicable, the Authority must comply with the publication requirements set out in section 92.
+
+##### <a id="90"></a>90  Council amends the draft
+
+             (1)  Before amending a draft standard or draft variation under paragraph 88(1)(b), the Council must give the Authority an opportunity to submit to the Council a draft of the text of the amendment.
+
+             (2)  As soon as practicable after the Council decides to amend a draft standard or draft variation, the Council must inform the Authority that the Council has amended the draft, and give the Authority a copy of the amended draft.
+
+             (3)  The Authority must, as soon as practicable after being informed of the amendment, comply with the publication requirements set out in section 92.
+
+##### <a id="91"></a>91  Council rejects the draft
+
+                   If the Council decides to reject a draft standard or draft variation under paragraph 88(1)(c), the Council must:
+
+                     (a)  prepare a notice setting out that decision and reasons for that decision; and
+
+                     (b)  give the Authority a copy of the notice; and
+
+                     (c)  publish a copy of the notice:
+
+                              (i)  on the internet; and
+
+                             (ii)  in a generally circulating newspaper, in each State or Territory and in New Zealand.
+
+##### <a id="92"></a>92  Publication requirements
+
+                   The **_publication requirements_** for the purposes of sections 85 and 89 and subsection 90(3) are as follows:
+
+                     (a)  the Authority must prepare a notice stating that the draft or amended draft, as the case requires, is to come into effect on a day specified in the notice;
+
+                     (b)  the Authority must cause a copy of the notice to be published:
+
+                              (i)  in the _Gazette_; and
+
+                             (ii)  in the New Zealand Gazette; and
+
+                            (iii)  in a generally circulating newspaper, in each State or Territory and in New Zealand;
+
+                            together with information about where a copy of the draft or amended draft may be obtained or inspected;
+
+                     (c)  the Authority must make a copy of:
+
+                              (i)  the notice; and
+
+                             (ii)  the text of the draft or the amended draft;
+
+                            available for inspection by the public;
+
+                     (d)  the Authority must publish on the Authority’s Internet site a copy of:
+
+                              (i)  the notice; and
+
+                             (ii)  the text of the draft or the amended draft.
+
+##### <a id="93"></a>93  When a standard or variation takes effect
+
+                   A standard, or variation of a standard, takes effect on the day specified in the notice given under section 92.
+
+##### <a id="94"></a>94  Standards are legislative instruments, but not subject to disallowance or sunsetting
+
+                   A standard, or a variation of a standard, in relation to which a notice is published under section 92 is a legislative instrument, but section 42 and Part 6 of the _Legislative Instruments Act 2003_ do not apply to the standard or variation.
+
+## 6  Section 105
+
+Repeal the section.
+
+## 7  Subsection 106(1)
+
+Omit “, after a second review,”.
+
+## 8  Paragraph 129(3)(i)
+
+Repeal the paragraph, substitute:
+
+                      (i)  subsection 87(2); or
+
+## 9  Paragraph 150(1)(i)
+
+Repeal the paragraph, substitute:
+
+                      (i)  subsection 87(2); or
+
+As at 5 March 2010 the amendments are not incorporated in this compilation.
+
+### Note 3
+
+_Statute Law Revision Act 2010 (No. 8, 2010)_
+
+The following amendment commences immediately after the commencement of item 5 of Schedule 3 to the _Food Standards Australia New Zealand Amendment Act 2007_:
+
+## Schedule 5
+
+## 52  Paragraph 92(d)
+
+Omit “Internet site”, substitute “website”.
+
+As at 5 March 2010 the amendment is not incorporated in this compilation.
 
 ## Table A
 
@@ -7483,7 +7606,7 @@ As at 5 August 2010 the amendments are not incorporated in this compilation.
 _Australia New Zealand Food Authority Amendment Act (No. 2) 1997 
  (No. 201, 1997)_
 
-## Schedule 1
+## Schedule 1  
 
 ## 48  Application of amendment made by item 35
 
