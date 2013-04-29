@@ -1,14 +1,13 @@
-![](http://www.comlaw.gov.au/Details/C2011C00498/Html/e8588c0e-3d77-40cf-861b-15e4443b7de0_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00055/Html/043220be-0a8e-4e93-9e3c-650bc241bf39_files/image001.gif)
 
 # Aboriginal Land Rights (Northern Territory) Act 1976
 
 **Act No. 191 of 1976 as amended**
 
-This compilation was prepared on 4 July 2011
- taking into account amendments up to Act No. 52 of 2011
+This compilation was prepared on 31 December 2010
+ taking into account amendments up to Act No. 38 of 2010
 
-[**Note**: Subsections 70(2BA), (2BB), (2BC) cease to have effect on 
-  18 August 2012, _see_ section 70]
+[**Note**: Subsections 70(2BA), (2BB), (2BC) cease to have effect on 18 August 2012, _see_ section 70]
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -17,7 +16,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -48,8 +47,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [4](#4).            Land Trusts
 
 [5](#5).            Functions of Land Trusts
-
-[5A](#5A).         Public Works Committee Act
 
 [6](#6).            Land Trust not empowered to accept moneys
 
@@ -135,7 +132,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [20D](#20D).       Appointment of Executive Director
 
-[20E](#20E).        Appointment to be full‑time or part‑time
+[20E](#20E).        Appointment to be full-time or part-time
 
 [20F](#20F).        Terms and conditions—general
 
@@ -711,7 +708,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (d)  a right to explore for minerals under:
 
-                              (i)  if subsection 53(2A) of the _Lands Acquisition Act 1955_ applies by virtue of subsection 124(8) of the _Lands Acquisition Act 1989_—the first‑mentioned subsection; or
+                              (i)  if subsection 53(2A) of the _Lands Acquisition Act 1955_ applies by virtue of subsection 124(8) of the _Lands Acquisition Act 1989_—the first-mentioned subsection; or
 
                              (ii)  if subparagraph (i) does not apply—regulations made for the purposes of subsection 124(1) of the _Lands Acquisition Act 1989_.
 
@@ -739,7 +736,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (b)  a person who:
 
-                              (i)  if subsections 51(1A) and 53(2A) of the _Lands Acquisition Act 1955_ apply by virtue of subsection 124(8) of the _Lands Acquisition Act 1989_—makes an application, under subsection 51(1A) of the first‑mentioned Act for the grant of a lease or licence to mine for minerals on that land, while the person holds, under subsection 53(2A) of that Act, a right to explore for minerals on that land; or
+                              (i)  if subsections 51(1A) and 53(2A) of the _Lands Acquisition Act 1955_ apply by virtue of subsection 124(8) of the _Lands Acquisition Act 1989_—makes an application, under subsection 51(1A) of the first-mentioned Act for the grant of a lease or licence to mine for minerals on that land, while the person holds, under subsection 53(2A) of that Act, a right to explore for minerals on that land; or
 
                              (ii)  if subparagraph (i) does not apply—makes an application for the grant, under regulations made for the purposes of subsection 124(1) of the _Lands Acquisition Act 1989_, of a right to mine for, or recover, minerals on that land, while the person holds, under the regulations, a right to explore for minerals on that land.
 
@@ -747,7 +744,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="land-trust"></a>**_Land Trust_** means an Aboriginal Land Trust established under this Act.
 
-                    <a name="law-northern-territori"></a>**_law of the Northern Territory_** means a law made under, or having effect in the Northern Territory by virtue of, the _Northern Territory__(Self‑Government) Act 1978_.
+                    <a name="law-northern-territori"></a>**_law of the Northern Territory_** means a law made under, or having effect in the Northern Territory by virtue of, the _Northern Territory__(Self-Government) Act 1978_.
 
                     <a name="miner-royalti"></a>**_mineral royalties_** means royalties payable to the Commonwealth or the Northern Territory in respect of the mining of minerals.
 
@@ -779,7 +776,7 @@ but does not include, when the expression is used in Part IV, any such lease, li
 
                     <a name="mission"></a>**_mission_** means a religious society or association the purposes of which are, or include, furthering the spiritual, cultural or economic welfare of Aboriginals, and includes a trustee or trustees empowered to hold land on behalf of such a society or association.
 
-                    <a name="northern-territori-mine-minist"></a>**_Northern Territory Mining Minister_** means the person holding ministerial office under section 36 of the _Northern Territory__(Self‑Government) Act 1978_ who is responsible for the administration of the law of the Northern Territory relating to mining for minerals.
+                    <a name="northern-territori-mine-minist"></a>**_Northern Territory Mining Minister_** means the person holding ministerial office under section 36 of the _Northern Territory__(Self-Government) Act 1978_ who is responsible for the administration of the law of the Northern Territory relating to mining for minerals.
 
                     <a name="nt-entiti"></a>**_NT entity_** means a person approved by the Chief Minister of the Northern Territory under subsection 3AA(1).
 
@@ -847,7 +844,7 @@ Executive authority
 
                      (b)  exercise all the powers of a lessee (including granting a sublease).
 
-             (3)  The power of the Legislative Assembly of the Northern Territory under the _Northern Territory__(Self‑Government) Act 1978_ in relation to the making of laws extends to the making of laws providing for the establishment and operation of an authority or body for the purpose of the authority or body being approved under subsection (1) of this section.
+             (3)  The power of the Legislative Assembly of the Northern Territory under the _Northern Territory__(Self-Government) Act 1978_ in relation to the making of laws extends to the making of laws providing for the establishment and operation of an authority or body for the purpose of the authority or body being approved under subsection (1) of this section.
 
 ##### <a id="3AB"></a>3AB  Townships
 
@@ -911,7 +908,7 @@ the Land Council or Land Councils in the area or areas of which the areas of lan
 
           (1C)  Where the Minister, upon receiving a request to take action under this subsection to effect the amalgamation of the whole or parts of 2 or more areas of affected land, is of the opinion that, in all the circumstances of the case, it is appropriate to do so, the Minister may:
 
-                     (a)  by notice published in the _Gazette_ vary the specifications of the boundaries of a Land Trust established to hold affected land, with effect from the day upon which a new deed of grant, or new deeds of grants, relating to the land that that Land Trust was established to hold is or are delivered by the Governor‑General in accordance with the recommendations of the Minister under subsection 10(2A) or 11(1B), so that the boundaries as so varied of the land to be held by that Land Trust relate:
+                     (a)  by notice published in the _Gazette_ vary the specifications of the boundaries of a Land Trust established to hold affected land, with effect from the day upon which a new deed of grant, or new deeds of grants, relating to the land that that Land Trust was established to hold is or are delivered by the Governor-General in accordance with the recommendations of the Minister under subsection 10(2A) or 11(1B), so that the boundaries as so varied of the land to be held by that Land Trust relate:
 
                               (i)  to all the land that is proposed to be amalgamated; or
 
@@ -995,10 +992,6 @@ Notices are not legislative instruments
 
              (3)  The _Lands Acquisition Act 1989_ does not apply to the acquisition by a Land Trust, under this Act, of an estate or interest in land.
 
-##### <a id="5A"></a>5A  Public Works Committee Act
-
-                   The _Public Works Committee Act 1969_ does not apply to a Land Trust.
-
 ##### <a id="6"></a>6  Land Trust not empowered to accept moneys
 
                    A Land Trust is not empowered to accept moneys due and owing to it or to give a valid discharge for such moneys, but such moneys may be paid to the Land Council for the area in which the Land Trust holds, or is established to hold, land.
@@ -1019,13 +1012,13 @@ and, where a determination is so made in relation to a Land Trust, the Land Trus
 
              (3)  For the purposes of subsection (2), the Minister may request a nomination of a person from the Land Council for the area in which the Land Trust is to hold land.
 
-             (4)  A member of a Land Trust shall be appointed as a part‑time member.
+             (4)  A member of a Land Trust shall be appointed as a part-time member.
 
              (5)  The exercise or performance of a power or function by a Land Trust is not affected by reason only of there being a vacancy in the office of a member of the Land Trust.
 
              (6)  All members of a Land Trust shall be Aboriginals living in the area of the Land Council in the area of which the land of the Land Trust is situated or whose names are set out in the register maintained by that Land Council in accordance with section 24.
 
-             (7)  Subject to this Act, a member of a Land Trust holds office for such period, not exceeding 5 years, as is specified in the instrument of his or her appointment and on such terms and conditions as the Minister determines, but is eligible for re‑appointment.
+             (7)  Subject to this Act, a member of a Land Trust holds office for such period, not exceeding 5 years, as is specified in the instrument of his or her appointment and on such terms and conditions as the Minister determines, but is eligible for re-appointment.
 
              (8)  Where a member of a Land Trust is, or is about to be, unable, whether on account of illness or otherwise, to perform the duties of his or her office, the Minister may appoint an Aboriginal to act in the place of that member during the period during which that member is unable to perform the duties of his or her office.
 
@@ -1051,7 +1044,7 @@ and, where a determination is so made in relation to a Land Trust, the Land Trus
 
                      (b)  subsection (2) does not apply in relation to that land or applies in relation to a part only of that land;
 
-the Minister shall recommend to the Governor‑General that a grant of an estate of fee simple in that land, or in the part of that land to which subsection (2) does not apply, be made to that Land Trust.
+the Minister shall recommend to the Governor-General that a grant of an estate of fee simple in that land, or in the part of that land to which subsection (2) does not apply, be made to that Land Trust.
 
              (2)  Where:
 
@@ -1063,25 +1056,25 @@ the Minister shall recommend to the Governor‑General that a grant of an estate
 
                      (b)  a person (other than the Crown) has an estate or interest in the whole or a part of that land;
 
-the Minister shall recommend to the Governor‑General that the Governor‑General execute a deed of grant of an estate in fee simple in that land, or that part of that land, to that Land Trust and deliver it to the Land Council for the area in which that land, or that part of that land, is situated to be held in escrow until all of the estates and interests in that land, or that part of that land, held by a person (other than the Crown) have come to an end, whether by surrender to the Crown or otherwise, and then to be delivered by the Land Council to that Land Trust.
+the Minister shall recommend to the Governor-General that the Governor-General execute a deed of grant of an estate in fee simple in that land, or that part of that land, to that Land Trust and deliver it to the Land Council for the area in which that land, or that part of that land, is situated to be held in escrow until all of the estates and interests in that land, or that part of that land, held by a person (other than the Crown) have come to an end, whether by surrender to the Crown or otherwise, and then to be delivered by the Land Council to that Land Trust.
 
        (2AA)  The Minister may, by a determination in writing, specify an existing Land Trust, and an area of land described in Schedule 1, for the purposes of subparagraph (1)(a)(ii) or (2)(a)(ii). The determination is not a legislative instrument.
 
-          (2A)  Where an amalgamation in respect of which the Minister has taken action under subsection 4(1C) involves an area of land that was the subject of a deed of grant (in this subsection referred to as the **_former deed_**) to an existing Land Trust, not being a deed of grant that is held in escrow by a Land Council, the Minister shall recommend to the Governor‑General that the Governor‑General execute, in lieu of the former deed:
+          (2A)  Where an amalgamation in respect of which the Minister has taken action under subsection 4(1C) involves an area of land that was the subject of a deed of grant (in this subsection referred to as the **_former deed_**) to an existing Land Trust, not being a deed of grant that is held in escrow by a Land Council, the Minister shall recommend to the Governor-General that the Governor-General execute, in lieu of the former deed:
 
                      (a)  if that area of land is wholly to be held by another Land Trust—a new deed of grant of an estate in fee simple in that area to that other Land Trust; or
 
                      (b)  if that area of land is to be held, as to part of that area, by that existing Land Trust and as to part of that area, by another Land Trust—new deeds of grant of estates in fee simple in the respective parts of that area to the respective Land Trusts that are to hold those respective parts of that area.
 
-          (2B)  Where an amalgamation in respect of which the Minister has taken action under subsection 4(1C) involves an area of land that was the subject of a deed of grant (in this subsection referred to as the **_former deed_**) to an existing Land Trust, being a deed of grant that is held in escrow by a Land Council, the Minister shall recommend to the Governor‑General:
+          (2B)  Where an amalgamation in respect of which the Minister has taken action under subsection 4(1C) involves an area of land that was the subject of a deed of grant (in this subsection referred to as the **_former deed_**) to an existing Land Trust, being a deed of grant that is held in escrow by a Land Council, the Minister shall recommend to the Governor-General:
 
-                     (a)  that the Governor‑General execute, in lieu of the former deed:
+                     (a)  that the Governor-General execute, in lieu of the former deed:
 
                               (i)  if that area of land is wholly to be held by another Land Trust—a new deed of grant of an estate in fee simple in that area to that other Land Trust; or
 
                              (ii)  if that area of land is to be held, as to part of that area, by that existing Land Trust and as to part of that area, by another Land Trust—new deeds of grant of estates in fee simple in the respective parts of that area to the respective Land Trusts that are to hold those respective parts of that area; and
 
-                     (b)  that the Governor‑General deliver the new deed or the new deeds to that Land Council upon the same terms as the former deed was delivered.
+                     (b)  that the Governor-General deliver the new deed or the new deeds to that Land Council upon the same terms as the former deed was delivered.
 
              (3)  For the purposes of this section, a lease of land granted under a law of the Northern Territory relating to mining for minerals shall be deemed to be an estate or interest in that land if the lease was granted before the date of commencement of this section or in pursuance of an agreement entered into by the Commonwealth before that date.
 
@@ -1101,15 +1094,15 @@ the Minister shall:
 
                              (ii)  make a determination in writing specifying the one or more existing Land Trusts;
 
-                            that are to hold the divisible land or parts of the divisible land for the benefit of Aboriginals who are the relevant Aboriginals in relation to the divisible land or the parts of the divisible land; and
+                            that are to hold the divisible land or parts of the divisible land for the benefit of Aboriginals who are the relevant Aboriginals in relation to the divisible land or the parts of the divisible land; and
 
-                     (d)  if the divisible land or a part of the divisible land proposed to be held by a Land Trust referred to in paragraph (c) is not, and does not include, alienated Crown land—recommend to the Governor‑General that a grant of an estate in fee simple in that land or part be made to that Land Trust; and
+                     (d)  if the divisible land or a part of the divisible land proposed to be held by a Land Trust referred to in paragraph (c) is not, and does not include, alienated Crown land—recommend to the Governor-General that a grant of an estate in fee simple in that land or part be made to that Land Trust; and
 
                      (e)  if the divisible land or a part of the divisible land proposed to be held by a Land Trust referred to in paragraph (c) is, or includes, alienated Crown land:
 
                               (i)  ensure that the estates and interests in that land or part of persons (other than the Crown) are acquired by the Crown by surrender or otherwise; and
 
-                             (ii)  after any acquisition referred to in subparagraph (i) has been effected, recommend to the Governor‑General that a grant of an estate in fee simple in that land or part be made to that Land Trust.
+                             (ii)  after any acquisition referred to in subparagraph (i) has been effected, recommend to the Governor-General that a grant of an estate in fee simple in that land or part be made to that Land Trust.
 
        (1AA)  Where the Minister has, before the commencement of this subsection, taken action, or, after that commencement, takes action, in pursuance of subsection (1) in relation to a part or parts of the area of land to which a recommendation that is contained in a report made to the Minister by a Commissioner under paragraph 50(1)(a) relates, the taking of that action does not preclude the Minister from taking further action in pursuance of subsection (1) in relation to any other part or parts of the land to which the recommendation relates.
 
@@ -1125,7 +1118,7 @@ is satisfied that the Land Trust (in this subsection referred to as the **_previ
 
                      (d)  where the land to be held by the previously established Land Trust is, or includes, alienated Crown land, ensure that the estates and interests in that alienated Crown land of persons (other than the Crown) are acquired by the Crown by surrender or otherwise; and
 
-                     (e)  after any acquisition referred to in paragraph (d) has been effected in relation to the land to be held by the previously established Land Trust, recommend to the Governor‑General that a grant of an estate in fee simple in that land be made to that previously established Land Trust.
+                     (e)  after any acquisition referred to in paragraph (d) has been effected in relation to the land to be held by the previously established Land Trust, recommend to the Governor-General that a grant of an estate in fee simple in that land be made to that previously established Land Trust.
 
        (1AC)  Upon the publication in the _Gazette_ of a notice under paragraph (1AB)(c) the declaration contained in that notice has effect according to its tenor.
 
@@ -1147,13 +1140,13 @@ the Minister shall, if he or she is satisfied that it is appropriate to do so:
 
                             that are to hold the recommended land or a part or parts of the recommended land for the benefit of Aboriginals who are the relevant Aboriginals in relation to the recommended land or the part or parts of the recommended land; and
 
-                     (e)  if the recommended land or a part of the recommended land proposed to be held by a Land Trust referred to in paragraph (d) is not, and does not include, alienated Crown land—recommend to the Governor‑General that a grant of an estate in fee simple in that land or part be made to that Land Trust; and
+                     (e)  if the recommended land or a part of the recommended land proposed to be held by a Land Trust referred to in paragraph (d) is not, and does not include, alienated Crown land—recommend to the Governor-General that a grant of an estate in fee simple in that land or part be made to that Land Trust; and
 
                       (f)  if the recommended land or a part of the recommended land proposed to be held by a Land Trust referred to in paragraph (d) is, or includes, alienated Crown land:
 
                               (i)  ensure that the estates and interests in that land or part of persons (other than the Crown) are acquired by the Crown by surrender or otherwise; and
 
-                             (ii)  after any acquisition referred to in subparagraph (i) has been effected, recommend to the Governor‑General that a grant of an estate in fee simple in that land or part be made to that Land Trust.
+                             (ii)  after any acquisition referred to in subparagraph (i) has been effected, recommend to the Governor-General that a grant of an estate in fee simple in that land or part be made to that Land Trust.
 
         (1AE)  Where:
 
@@ -1171,19 +1164,19 @@ the Minister shall:
 
                             that is to hold those areas or those parts of those areas for the benefit of Aboriginals who are the relevant Aboriginals in relation to those areas or parts; and
 
-                     (d)  if those areas or those parts of those areas are not, and do not include, alienated Crown land—recommend to the Governor‑General that a grant of an estate in fee simple in those areas or parts be made to the Land Trust; and
+                     (d)  if those areas or those parts of those areas are not, and do not include, alienated Crown land—recommend to the Governor-General that a grant of an estate in fee simple in those areas or parts be made to the Land Trust; and
 
                      (e)  if those areas or those parts of those areas are, or include, alienated Crown land:
 
                               (i)  ensure that the estates and interests in those areas or parts of persons (other than the Crown) are acquired by the Crown by surrender or otherwise; and
 
-                             (ii)  after any acquisition referred to in subparagraph (i) has been effected, recommend to the Governor‑General that a grant of an estate in fee simple in those areas or parts be made to that Land Trust.
+                             (ii)  after any acquisition referred to in subparagraph (i) has been effected, recommend to the Governor-General that a grant of an estate in fee simple in those areas or parts be made to that Land Trust.
 
-        (1AF)  Where land that is contiguous to Aboriginal land would have been the subject of a recommendation by the Minister under subsection (1), (1AB), (1AD) or (1AE) but for the existence on that land of a stock route (other than a stock route to which subsection 50(2E) applies), then, if the land ceases to be a stock route, the Minister may, on the application of the Land Council for the area in which the land is situated, recommend to the Governor‑General that a grant of an estate in fee simple in that land or part of that land be made to the Land Trust that holds, or to one of the Land Trusts that hold, contiguous Aboriginal land.
+        (1AF)  Where land that is contiguous to Aboriginal land would have been the subject of a recommendation by the Minister under subsection (1), (1AB), (1AD) or (1AE) but for the existence on that land of a stock route (other than a stock route to which subsection 50(2E) applies), then, if the land ceases to be a stock route, the Minister may, on the application of the Land Council for the area in which the land is situated, recommend to the Governor-General that a grant of an estate in fee simple in that land or part of that land be made to the Land Trust that holds, or to one of the Land Trusts that hold, contiguous Aboriginal land.
 
           (1A)  Notwithstanding anything to the contrary in this section, where land the subject of a recommendation contained in a report made to the Minister under paragraph 50(1)(a) is land in a Commonwealth reserve under the _Environment Protection and Biodiversity Conservation Act 1999_, being land in which all the estates and interests not held by the Crown are held by the Director, the Minister is not required to ensure that the estates and interests of the Director in the land are acquired by the Crown.
 
-          (1B)  Where an amalgamation in respect of which the Minister has taken action under subsection 4(1C) involves an area of land that was the subject of a deed of grant (in this subsection referred to as the **_former deed_**) to an existing Land Trust, the Minister shall recommend to the Governor‑General that the Governor‑General execute, in lieu of the former deed:
+          (1B)  Where an amalgamation in respect of which the Minister has taken action under subsection 4(1C) involves an area of land that was the subject of a deed of grant (in this subsection referred to as the **_former deed_**) to an existing Land Trust, the Minister shall recommend to the Governor-General that the Governor-General execute, in lieu of the former deed:
 
                      (a)  if that area of land is wholly to be held by another Land Trust—a new deed of grant of an estate in fee simple in that area to that other Land Trust; or
 
@@ -1233,19 +1226,19 @@ the Minister shall:
 
                      (c)  that public right of way ceases to exist.
 
-             (2)  On application by the Land Council for the area in which the land is situated, the Minister may recommend that the Governor‑General grant an estate in fee simple for the whole or a part of that land to a Land Trust that holds contiguous Aboriginal land.
+             (2)  On application by the Land Council for the area in which the land is situated, the Minister may recommend that the Governor-General grant an estate in fee simple for the whole or a part of that land to a Land Trust that holds contiguous Aboriginal land.
 
 ##### <a id="12"></a>12  Grants of land to Land Trusts
 
-             (1)  Subject to this section, on the receipt of a recommendation under section 10, 11 or 11B with respect to land, the Governor‑General may:
+             (1)  Subject to this section, on the receipt of a recommendation under section 10, 11 or 11B with respect to land, the Governor-General may:
 
                      (a)  in the case of a recommendation under subsection 10(1) or (2A), section 11 or 11B, not being a recommendation that includes a recommendation under subsection 11(5)—execute a deed of grant of an estate in the land in accordance with the recommendation and deliver it to the grantee;
 
-                    (aa)  in the case of a recommendation under section 11 that includes a recommendation under subsection 11(5)—execute a deed of grant of an estate in the land in accordance with the recommendation and, if the Governor‑General is satisfied that the condition specified in the recommendation has been complied with, deliver it to the grantee; or
+                    (aa)  in the case of a recommendation under section 11 that includes a recommendation under subsection 11(5)—execute a deed of grant of an estate in the land in accordance with the recommendation and, if the Governor-General is satisfied that the condition specified in the recommendation has been complied with, deliver it to the grantee; or
 
                      (b)  in the case of a recommendation under subsection 10(2) or (2B)—execute a deed of grant of an estate in the land in accordance with the recommendation and deliver it to the Land Council referred to in the recommendation on the condition that it be held by the Land Council in escrow, and subsequently delivered to the grantee, in accordance with the recommendation.
 
-          (1A)  Where the Governor‑General, pursuant to a recommendation made under subsection 10(2A) or (2B) or 11(1B), executes a new deed of grant or new deeds of grant under this section in lieu of an existing deed of grant and delivers that new deed of grant or each of those new deeds of grant to a Land Trust or to a Land Council in accordance with this section then, with effect from the date of delivery of that new deed or of each of those new deeds to that Land Trust or to that Land Council:
+          (1A)  Where the Governor-General, pursuant to a recommendation made under subsection 10(2A) or (2B) or 11(1B), executes a new deed of grant or new deeds of grant under this section in lieu of an existing deed of grant and delivers that new deed of grant or each of those new deeds of grant to a Land Trust or to a Land Council in accordance with this section then, with effect from the date of delivery of that new deed or of each of those new deeds to that Land Trust or to that Land Council:
 
                      (a)  that existing deed of grant shall be taken, by force of this subsection, to have been revoked;
 
@@ -1255,7 +1248,7 @@ the Minister shall:
 
                      (d)  any reference in any document to the existing deed shall be read as a reference to the new deed or to the new deeds, as the case requires.
 
-          (1B)  Any agreement in respect to an area of land that is entered into by a Land Trust that has been dissolved shall have the same force and effect, with effect from the date of dissolution of the Land Trust, as the agreement would have had if it had been entered into by the Land Trust that, after the dissolution of the first‑mentioned Land Trust held the land or by each of the Land Trusts that, after the dissolution of the first‑mentioned Land Trust, held part of the land, to which the agreement related.
+          (1B)  Any agreement in respect to an area of land that is entered into by a Land Trust that has been dissolved shall have the same force and effect, with effect from the date of dissolution of the Land Trust, as the agreement would have had if it had been entered into by the Land Trust that, after the dissolution of the first-mentioned Land Trust held the land or by each of the Land Trusts that, after the dissolution of the first-mentioned Land Trust, held part of the land, to which the agreement related.
 
              (2)  A deed of grant under this section shall be expressed to be subject to the reservation that:
 
@@ -1305,11 +1298,11 @@ not being land constituting, or forming part of, the land described in Schedule�
 
              (4)  A deed of grant under this section takes effect:
 
-                     (a)  where a deed is delivered by the Governor‑General to the grantee—on the date on which it is so delivered; or
+                     (a)  where a deed is delivered by the Governor-General to the grantee—on the date on which it is so delivered; or
 
-                     (b)  in any other case—on the date on which it is delivered by a Land Council to the grantee in accordance with the condition subject to which it was delivered to the Land Council by the Governor‑General.
+                     (b)  in any other case—on the date on which it is delivered by a Land Council to the grantee in accordance with the condition subject to which it was delivered to the Land Council by the Governor-General.
 
-             (5)  On the application of a Land Trust to which has been delivered a deed of grant of an estate in land executed by the Governor‑General under this section, whether the delivery was by the Governor‑General or by a Land Council, the Registrar‑General or other appropriate officer under the law of the Northern Territory relating to the transfer of land shall register and otherwise deal with that deed of grant under that law according to its tenor.
+             (5)  On the application of a Land Trust to which has been delivered a deed of grant of an estate in land executed by the Governor-General under this section, whether the delivery was by the Governor-General or by a Land Council, the Registrar-General or other appropriate officer under the law of the Northern Territory relating to the transfer of land shall register and otherwise deal with that deed of grant under that law according to its tenor.
 
              (6)  In this section, a reference to a delivery of a deed by a person shall be read as including a reference to a delivery of the deed by the duly authorized agent of the person.
 
@@ -1317,13 +1310,13 @@ not being land constituting, or forming part of, the land described in Schedule�
 
 ##### <a id="12AAA"></a>12AAA  Additional grant to Tiwi Land Trust
 
-             (1)  The Governor‑General may execute a deed of grant to the Tiwi Land Trust of an estate in fee simple in so much of the land as was included in the description of Bathurst Island appearing in Schedule 1 as was not included in the description of Bathurst Island that appeared in Schedule 1 as in force immediately before the commencement of this section and may deliver that deed of grant to the Tiwi Land Trust.
+             (1)  The Governor-General may execute a deed of grant to the Tiwi Land Trust of an estate in fee simple in so much of the land as was included in the description of Bathurst Island appearing in Schedule 1 as was not included in the description of Bathurst Island that appeared in Schedule 1 as in force immediately before the commencement of this section and may deliver that deed of grant to the Tiwi Land Trust.
 
              (2)  The provisions of this Act apply to a grant made in pursuance of subsection (1) as if it were a grant made under subsection 12(1).
 
              (3)  The Tiwi Land Trust shall be taken for all purposes of this Act or of any other law of the Commonwealth, of a State or of a Territory to hold title both to land granted to it under subsection (1) and to land previously granted to it under this Act, for the benefit of Aboriginals entitled by Aboriginal tradition to the use or occupation of the area of land comprising all the lands so granted whether or not the traditional entitlement is qualified as to place, time, circumstance, purpose or permission.
 
-             (4)  On the application of the Tiwi Land Trust, the Registrar‑General of the Northern Territory shall take such measures as are necessary under the law of the Northern Territory relating to the transfer of land to issue to the Tiwi Land Trust one certificate for the whole of the land granted under this Act to the Tiwi Land Trust and held under separate certificates and, upon the issue of the certificate, to cancel those separate certificates.
+             (4)  On the application of the Tiwi Land Trust, the Registrar-General of the Northern Territory shall take such measures as are necessary under the law of the Northern Territory relating to the transfer of land to issue to the Tiwi Land Trust one certificate for the whole of the land granted under this Act to the Tiwi Land Trust and held under separate certificates and, upon the issue of the certificate, to cancel those separate certificates.
 
              (5)  Except to the extent that subsection (4) expressly provides, nothing in that subsection shall be taken to affect the application to land granted under this Act to a Land Trust of any provision of the law of the Northern Territory relating to the transfer of land.
 
@@ -1335,7 +1328,7 @@ not being land constituting, or forming part of, the land described in Schedule�
 
 Immediate grant of land to Anindilyakwa Land Trust
 
-             (1)  The Governor‑General may:
+             (1)  The Governor-General may:
 
                      (a)  execute a deed of grant to the Anindilyakwa Land Trust of an estate in fee simple in so much of the land in the area of the Anindilyakwa Land Council as was included in any Arnhem Land type 1 deed (regardless of whether the deed also included other land); and
 
@@ -1347,7 +1340,7 @@ Note:          See subsection (9) for the definition of **_Arn
 
 Delayed grant of land to Anindilyakwa Land Trust
 
-             (2)  The Governor‑General may:
+             (2)  The Governor-General may:
 
                      (a)  execute a deed of grant to the Anindilyakwa Land Trust of an estate in fee simple in so much of the land in the area of the Anindilyakwa Land Council as was included in any Arnhem Land type 2 deed; and
 
@@ -1452,7 +1445,7 @@ Land no longer held by Arnhem Land Aboriginal Land Trust
   </td>
 </tr></table>
 
-             (5)  If the Registrar‑General or other appropriate officer under the law of the Northern Territory relating to the transfer of land is required to register the deed of grant executed under subsection (1), he or she must also take such measures as are necessary to take account of the effect on the deeds of grant mentioned in item 1 or 2 of the table in subsection (4).
+             (5)  If the Registrar-General or other appropriate officer under the law of the Northern Territory relating to the transfer of land is required to register the deed of grant executed under subsection (1), he or she must also take such measures as are necessary to take account of the effect on the deeds of grant mentioned in item 1 or 2 of the table in subsection (4).
 
 Note:          Subsection 12(5) deals with registration of deeds of grant.
 
@@ -1707,7 +1700,7 @@ Note:          See subsection 12(4) for when a deed of grant u
 
              (1)  On the publication in the _Gazette_ of an agreement in accordance with section 12AA or the coming into effect of an order under section 12AB, not being an agreement or order relating to a deed of grant that has been registered in accordance with subsection 12(5), the land the subject of the agreement or order shall, for all purposes, be deemed to be, and always to have been, land coming within the terms of the exclusion set out, in accordance with subsection 12(3A), in the deed of grant to which the agreement or order relates.
 
-             (2)  Where an agreement under section 12AA that has been published in the _Gazette_ or an order under section 12AB that has come into effect relates to a deed of grant that has been registered in accordance with subsection 12(5), a party to the agreement or the person who obtained the order may lodge the agreement or order, as the case may be, with the Registrar‑General or other appropriate officer under the law of the Northern Territory relating to the transfer of land, and, on that lodgement, the Registrar‑General or other appropriate officer shall:
+             (2)  Where an agreement under section 12AA that has been published in the _Gazette_ or an order under section 12AB that has come into effect relates to a deed of grant that has been registered in accordance with subsection 12(5), a party to the agreement or the person who obtained the order may lodge the agreement or order, as the case may be, with the Registrar-General or other appropriate officer under the law of the Northern Territory relating to the transfer of land, and, on that lodgement, the Registrar-General or other appropriate officer shall:
 
                      (a)  call in the deed of grant; and
 
@@ -2079,7 +2072,7 @@ Subleases
 
            (14)  A lease granted under this section must not contain any provision requiring the consent of any person to the grant of a sublease of the lease.
 
-           (15)  A lease granted under this section must not contain any provision relating to the payment of rent, or the non‑payment of rent, in relation to a sublease of the lease.
+           (15)  A lease granted under this section must not contain any provision relating to the payment of rent, or the non-payment of rent, in relation to a sublease of the lease.
 
            (16)  The Commonwealth or a Commonwealth authority (within the meaning of the _Lands Acquisition Act 1989_) is authorised to acquire, or grant, a sublease of a lease granted under this section in accordance with the terms and conditions of the lease.
 
@@ -2107,7 +2100,7 @@ Taxes
 
 Registration
 
-             (3)  On the application of the Commonwealth entity or the NT entity, the Registrar‑General or other appropriate officer under the law of the Northern Territory relating to the transfer of land must register the instrument of grant, extension or transfer as if it were duly executed under that law.
+             (3)  On the application of the Commonwealth entity or the NT entity, the Registrar-General or other appropriate officer under the law of the Northern Territory relating to the transfer of land must register the instrument of grant, extension or transfer as if it were duly executed under that law.
 
 ##### <a id="19D"></a>19D  Modification of NT subdivision law for grant of a township lease to a Commonwealth entity
 
@@ -2171,7 +2164,7 @@ the Minister may, after consultation with the Land Council and with the person, 
 
              (3)  The procedures for the subdivision of land under the law of the Northern Territory relating to the transfer of land do not apply in respect of a transfer of an estate or interest in any part of land under subsection 19(4).
 
-             (4)  On the application of a Land Trust that has had an estate or interest in any part of land transferred to it under subsection 19(4), the Registrar‑General or other appropriate officer under the law of the Northern Territory relating to the transfer of land must register the instrument of transfer as if it were duly executed under that law.
+             (4)  On the application of a Land Trust that has had an estate or interest in any part of land transferred to it under subsection 19(4), the Registrar-General or other appropriate officer under the law of the Northern Territory relating to the transfer of land must register the instrument of transfer as if it were duly executed under that law.
 
 ## Part IIA—Executive Director of Township Leasing
 
@@ -2255,17 +2248,17 @@ Note:          The reference to the _Special Purposes Leases A
 
 ##### <a id="20D"></a>20D  Appointment of Executive Director
 
-             (1)  The Executive Director is to be appointed by the Governor‑General by written instrument.
+             (1)  The Executive Director is to be appointed by the Governor-General by written instrument.
 
              (2)  The Executive Director holds office for the period specified in the instrument of appointment. The period must not exceed 5 years.
 
-##### <a id="20E"></a>20E  Appointment to be full‑time or part‑time
+##### <a id="20E"></a>20E  Appointment to be full-time or part-time
 
-                   The Executive Director may be appointed on a full‑time basis or on a part‑time basis.
+                   The Executive Director may be appointed on a full-time basis or on a part-time basis.
 
 ##### <a id="20F"></a>20F  Terms and conditions—general
 
-                   The Executive Director holds office on the terms and conditions (if any) in relation to matters not covered by this Division that are determined by the Governor‑General.
+                   The Executive Director holds office on the terms and conditions (if any) in relation to matters not covered by this Division that are determined by the Governor-General.
 
 ##### <a id="20G"></a>20G  Remuneration and allowances
 
@@ -2277,13 +2270,13 @@ Note:          The reference to the _Special Purposes Leases A
 
 ##### <a id="20H"></a>20H  Restrictions on outside employment
 
-Full‑time Executive Director
+Full-time Executive Director
 
-             (1)  If the Executive Director is appointed on a full‑time basis, he or she must not engage in paid employment outside the duties of his or her office without the Minister’s approval.
+             (1)  If the Executive Director is appointed on a full-time basis, he or she must not engage in paid employment outside the duties of his or her office without the Minister’s approval.
 
-Part‑time Executive Director
+Part-time Executive Director
 
-             (2)  If the Executive Director is appointed on a part‑time basis, he or she must not engage in any paid employment that conflicts or may conflict with the proper performance of his or her duties.
+             (2)  If the Executive Director is appointed on a part-time basis, he or she must not engage in any paid employment that conflicts or may conflict with the proper performance of his or her duties.
 
 ##### <a id="20J"></a>20J  Acting Executive Director
 
@@ -2307,27 +2300,27 @@ Note:          Section 33A of the _Acts Interpretation Act 1
 
 ##### <a id="20K"></a>20K  Leave of absence
 
-Full‑time Executive Director
+Full-time Executive Director
 
-             (1)  If the Executive Director is appointed on a full‑time basis:
+             (1)  If the Executive Director is appointed on a full-time basis:
 
                      (a)  he or she has the recreation leave entitlements that are determined by the Remuneration Tribunal; and
 
                      (b)  the Minister may grant the Executive Director leave of absence, other than recreation leave, on the terms and conditions as to remuneration or otherwise that the Minister determines.
 
-Part‑time Executive Director
+Part-time Executive Director
 
-             (2)  If the Executive Director is appointed on a part‑time basis, the Minister may grant leave of absence to the Executive Director on the terms and conditions that the Minister determines.
+             (2)  If the Executive Director is appointed on a part-time basis, the Minister may grant leave of absence to the Executive Director on the terms and conditions that the Minister determines.
 
-##### <a id="20L"></a>20L  Resignation
+##### <a id="20L"></a>20L  Resignation
 
-                   The Executive Director may resign his or her appointment by giving the Governor‑General a written resignation.
+                   The Executive Director may resign his or her appointment by giving the Governor-General a written resignation.
 
 ##### <a id="20M"></a>20M  Termination of appointment
 
-             (1)  The Governor‑General may terminate the appointment of the Executive Director for misbehaviour or physical or mental incapacity.
+             (1)  The Governor-General may terminate the appointment of the Executive Director for misbehaviour or physical or mental incapacity.
 
-             (2)  The Governor‑General must terminate the appointment of the Executive Director if:
+             (2)  The Governor-General must terminate the appointment of the Executive Director if:
 
                      (a)  the Executive Director:
 
@@ -2341,9 +2334,9 @@ Part‑time Executive Director
 
                      (b)  the Executive Director is absent, except on leave of absence, for 14 consecutive days or for 28 days in any 12 months; or
 
-                     (c)  the Executive Director is appointed on a full‑time basis and engages, except with the Minister’s approval, in paid employment outside the duties of his or her office; or
+                     (c)  the Executive Director is appointed on a full-time basis and engages, except with the Minister’s approval, in paid employment outside the duties of his or her office; or
 
-                     (d)  the Executive Director is appointed on a part‑time basis and engages in paid employment that conflicts or may conflict with the proper performance of his or her duties; or
+                     (d)  the Executive Director is appointed on a part-time basis and engages in paid employment that conflicts or may conflict with the proper performance of his or her duties; or
 
                      (e)  the Executive Director fails, without reasonable excuse, to comply with section 20N.
 
@@ -2405,7 +2398,7 @@ Taxes
 
 Registration
 
-             (3)  On the application of the Commonwealth, the Registrar‑General or other appropriate officer under the law of the Northern Territory relating to the transfer of land must register the instrument of grant as if it were duly executed under that law.
+             (3)  On the application of the Commonwealth, the Registrar-General or other appropriate officer under the law of the Northern Territory relating to the transfer of land must register the instrument of grant as if it were duly executed under that law.
 
 Subdivision of land
 
@@ -3511,7 +3504,7 @@ the Land Council must, as soon as practicable, advise the corporation in writing
 
              (1)  The members of a Land Council shall be Aboriginals living in the area of the Land Council, or whose names are set out in the register maintained by the Land Council in accordance with section 24, chosen by Aboriginals living in the area of the Land Council in accordance with such method or methods of choice, and holding office on such terms and conditions, as is, or are, approved by the Minister from time to time.
 
-             (2)  A Land Council may, with the approval of the Minister, co‑opt Aboriginals living in the area of the Land Council as additional members, but not more than 5 such members may hold office at any one time.
+             (2)  A Land Council may, with the approval of the Minister, co-opt Aboriginals living in the area of the Land Council as additional members, but not more than 5 such members may hold office at any one time.
 
 Eligibility requirements
 
@@ -3607,13 +3600,13 @@ to inspect, at any reasonable time without charge:
 
              (4)  A Land Council shall, as soon as practicable after its establishment, elect a member of that Council as the Deputy Chair of that Council and shall, thereafter, whenever the position of Deputy Chair is vacant, elect a new Deputy Chair.
 
-             (5)  Subject to subsection (6), a person elected as the Chair or the Deputy Chair of a Land Council under this section holds office for a period of 3 years, and is eligible for re‑election.
+             (5)  Subject to subsection (6), a person elected as the Chair or the Deputy Chair of a Land Council under this section holds office for a period of 3 years, and is eligible for re-election.
 
              (6)  A Land Council may, at any time, by resolution, elect a new Chair or Deputy Chair and, on the passing of such a resolution, the person who held that office immediately before that resolution was passed ceases to hold that office.
 
-             (7)  A co‑opted member of a Land Council is not eligible to be elected as the Chair or the Deputy Chair of the Land Council.
+             (7)  A co-opted member of a Land Council is not eligible to be elected as the Chair or the Deputy Chair of the Land Council.
 
-##### <a id="31"></a>31  Meetings of Land Council
+##### <a id="31"></a>31  Meetings of Land Council
 
              (1)  The Chair shall convene such meetings of a Land Council as are, in his or her opinion, necessary for the efficient conduct of its affairs and, at such a meeting, the Chair shall preside if he or she is present and, if the Chair is not present, the Deputy Chair shall preside.
 
@@ -3623,9 +3616,9 @@ to inspect, at any reasonable time without charge:
 
              (4)  The quorum for a meeting of a Land Council is such number of members as is equal to:
 
-                     (a)  where the number of members of the Land Council at the time of the meeting is an even number—one‑half of that last‑mentioned number; or
+                     (a)  where the number of members of the Land Council at the time of the meeting is an even number—one-half of that last-mentioned number; or
 
-                     (b)  any other case—one‑half of the number that is less by 1 than the number of members of the Land Council at the time of the meeting;
+                     (b)  any other case—one-half of the number that is less by 1 than the number of members of the Land Council at the time of the meeting;
 
 and, except where the meeting has been convened under subsection (3), includes the Chair or the Deputy Chair.
 
@@ -4003,7 +3996,7 @@ Details of consultants
 
                              (ii)  the Minister gives consent under subsection 42(8) to the grant of the licence; or
 
-                     (b)  the Governor‑General has, by Proclamation, declared that the national interest requires that the licence be granted;
+                     (b)  the Governor-General has, by Proclamation, declared that the national interest requires that the licence be granted;
 
 and the Land Council and the person have entered into an agreement under this Part as to the terms and conditions to which the grant of the licence will be subject.
 
@@ -4231,7 +4224,7 @@ Determination not a legislative instrument
 
 ##### <a id="43"></a>43  National interest cases
 
-             (1)  Where the Governor‑General has, under paragraph 40(b), issued a Proclamation relating to the grant of an exploration licence to a person in respect of Aboriginal land, the person (in this section called the **_applicant_**) and the relevant Land Council must, within the negotiating period, try to agree upon the terms and conditions to which the grant will be subject.
+             (1)  Where the Governor-General has, under paragraph 40(b), issued a Proclamation relating to the grant of an exploration licence to a person in respect of Aboriginal land, the person (in this section called the **_applicant_**) and the relevant Land Council must, within the negotiating period, try to agree upon the terms and conditions to which the grant will be subject.
 
              (2)  The Land Council shall not agree upon the terms and conditions unless:
 
@@ -4457,7 +4450,7 @@ is held by the applicant or by the heirs, successors or assigns of that person a
 
                      (b)  the intending miner has withdrawn the application for the grant of the mining interest because the intending miner is unwilling to accept the terms and conditions so determined;
 
-the Minister shall not consent to the grant to another intending miner of a mining interest that will enable the mining of a mineral deposit on the same land, being a deposit that was delineated by a previous intending miner (whether the first‑mentioned intending miner or not), unless the Minister is satisfied that the other intending miner has entered into an agreement described in subsection (17).
+the Minister shall not consent to the grant to another intending miner of a mining interest that will enable the mining of a mineral deposit on the same land, being a deposit that was delineated by a previous intending miner (whether the first-mentioned intending miner or not), unless the Minister is satisfied that the other intending miner has entered into an agreement described in subsection (17).
 
            (17)  For the purposes of subsection (16), the agreement shall be an agreement with the previous intending miner or with the heirs, successors or assigns of the previous intending miner to reimburse the previous intending miner, or the heirs, successors or assigns of the previous intending miner, an amount equal to the sum of the exploration expenditure reported by the previous intending miner in accordance with the conditions of the exploration licence or exploration retention licence held by the previous intending miner in respect of the land under a law of the Northern Territory relating to mining for minerals.
 
@@ -4473,7 +4466,7 @@ Exploration works
 
                      (b)  the Council, by notice in writing to the Minister, states that:
 
-                              (i)  the licence‑holder is conducting, or is likely to conduct, exploration works otherwise than in accordance with the proposed exploration program referred to in the application for that consent; and
+                              (i)  the licence-holder is conducting, or is likely to conduct, exploration works otherwise than in accordance with the proposed exploration program referred to in the application for that consent; and
 
                              (ii)  the exploration works are causing, or are likely to cause, a significant impact on the affected land and on Aboriginals, to the extent that the Council would not have consented to the grant of the licence;
 
@@ -4487,7 +4480,7 @@ the Minister must, within 90 days after receiving the notice:
 
              (2)  If the Minister determines that he or she is satisfied of the matters in paragraphs (1)(d) and (e):
 
-                     (a)  the Minister must inform the Land Council and the licence‑holder; and
+                     (a)  the Minister must inform the Land Council and the licence-holder; and
 
                      (b)  the exploration licence is cancelled under this subsection.
 
@@ -4535,7 +4528,7 @@ Determination not a legislative instrument
 
              (1)  Where a Land Council refuses to consent to the grant of an exploration licence in respect of particular land, a further application under section 41 shall not be made in respect of that land, or an area within that land, by any person except as provided in subsection (2), (3), (4) or (4A).
 
-             (2)  Where a Land Council has refused to consent to the grant of an exploration licence, the applicant may, during the re‑application period, make a further application under section 41 to the Land Council in respect of the same land or an area within that land.
+             (2)  Where a Land Council has refused to consent to the grant of an exploration licence, the applicant may, during the re-application period, make a further application under section 41 to the Land Council in respect of the same land or an area within that land.
 
 Note:          See also the requirement in subsection (4B) (about having a consent to negotiate).
 
@@ -4575,11 +4568,11 @@ then the Minister may, under subsection (3), authorise an application in respe
 
                      (b)  the applicant:
 
-                              (i)  has failed during the re‑application period to make an application under subsection (2); or
+                              (i)  has failed during the re-application period to make an application under subsection (2); or
 
                              (ii)  has notified the Minister in writing within that period of the intention not to make such an application;
 
-a person other than the applicant may apply to the Land Council for consent under section 41 in respect of the first‑mentioned land or an area within that land.
+a person other than the applicant may apply to the Land Council for consent under section 41 in respect of the first-mentioned land or an area within that land.
 
 Note:          See also the requirement in subsection (4B) (about having a consent to negotiate).
 
@@ -4587,7 +4580,7 @@ Note:          See also the requirement in subsection (4B) (
 
                      (a)  the refusal under paragraph (4)(a) is in relation to a body corporate; and
 
-                     (b)  at the start of the re‑application period, the body corporate has been wound up and has not assigned its rights in relation to this section;
+                     (b)  at the start of the re-application period, the body corporate has been wound up and has not assigned its rights in relation to this section;
 
 then an application in respect of the land concerned or an area within that land may be made by any person under section 41 within the period applicable under subsection 41(2).
 
@@ -4607,7 +4600,7 @@ Note:          See also the requirement in subsection (4B) (
 
                      (a)  a reference to a person, in the case of a person who has died or been wound up or has assigned his or her rights under this Part, includes a reference to the heirs, successors or assigns of the person; and
 
-                     (b)  a reference to the re‑application period, in relation to a refusal by a Land Council to consent to the grant of an exploration licence, means the period of 30 days commencing 5 years after the day on which the refusal decision was made.
+                     (b)  a reference to the re-application period, in relation to a refusal by a Land Council to consent to the grant of an exploration licence, means the period of 30 days commencing 5 years after the day on which the refusal decision was made.
 
 Note:          Paragraph 42(1)(b) requires the Land Council to notify the applicant, the Minister and the Northern Territory Mining Minister of its refusal decision and of the day on which the refusal decision is made.
 
@@ -4705,9 +4698,9 @@ either or both of them may, by writing, request the Minister to arrange for a pe
 
              (1)  The _Atomic Energy Act 1953_ or any other Act authorising mining for minerals does not apply in relation to Aboriginal land so as to authorise a person to enter or remain, or do any act, on the land unless:
 
-                     (a)  the Governor‑General has, by Proclamation, declared that both the Minister and the Land Council for the area in which the land is situated have consented to the application of that Act in relation to entry on that land; or
+                     (a)  the Governor-General has, by Proclamation, declared that both the Minister and the Land Council for the area in which the land is situated have consented to the application of that Act in relation to entry on that land; or
 
-                     (b)  the Governor‑General has, by Proclamation, declared that the national interest requires the application of that Act in relation to entry on that land.
+                     (b)  the Governor-General has, by Proclamation, declared that the national interest requires the application of that Act in relation to entry on that land.
 
 ##### <a id="48D"></a>48D  Payments in respect of mining under Acts
 
@@ -4745,7 +4738,7 @@ the Minister may, after consultation with the Land Council, arrange for a person
 
                      (d)  a person prescribed by the regulations.
 
-             (2)  If a Mining Commissioner is to be appointed for purposes relating to a mining interest, the Minister shall notify the Attorney‑General who shall, after consultation with the Commonwealth Ministers respectively responsible for Aboriginal affairs matters and mineral resources matters, appoint a person who holds, or has held office, as a Judge of the Federal Court of Australia.
+             (2)  If a Mining Commissioner is to be appointed for purposes relating to a mining interest, the Minister shall notify the Attorney-General who shall, after consultation with the Commonwealth Ministers respectively responsible for Aboriginal affairs matters and mineral resources matters, appoint a person who holds, or has held office, as a Judge of the Federal Court of Australia.
 
              (3)  The Minister shall not appoint a Mining Commissioner for a purpose relating to an exploration licence unless the Minister has submitted the names of not less than 3 persons having the qualifications set out in subsection (1) to the Land Council and the applicant referred in section 42 or 44, or to the Land Council and the person referred to in section 48B, as the case may be.
 
@@ -4789,15 +4782,15 @@ the Proclamation takes effect on the day immediately following the last day upon
 
                      (a)  the House of Representatives is dissolved or expires, or the Parliament is prorogued; and
 
-                     (b)  a resolution for the disapproval of the declaration in the Proclamation has not been passed by the first‑mentioned House;
+                     (b)  a resolution for the disapproval of the declaration in the Proclamation has not been passed by the first-mentioned House;
 
-the copy of the Proclamation shall, for the purposes of this section, be deemed to have been laid before that first‑mentioned House on the first sitting day of that first‑mentioned House after the dissolution, expiry or prorogation, as the case may be.
+the copy of the Proclamation shall, for the purposes of this section, be deemed to have been laid before that first-mentioned House on the first sitting day of that first-mentioned House after the dissolution, expiry or prorogation, as the case may be.
 
 ##### <a id="48H"></a>48H  Agreements for entry on Aboriginal land
 
-             (1)  An agreement made, or deemed to have been made, under section 44 or 46 may include provisions regulating or authorising the entry of persons on Aboriginal land for purposes relating to the subject‑matter of the agreement.
+             (1)  An agreement made, or deemed to have been made, under section 44 or 46 may include provisions regulating or authorising the entry of persons on Aboriginal land for purposes relating to the subject-matter of the agreement.
 
-             (2)  Without affecting the generality of subsection (1), an agreement referred to in that subsection may provide for the issue of permits by the Land Council concerned to persons wishing to enter on Aboriginal land for purposes relating to the subject‑matter of the agreement.
+             (2)  Without affecting the generality of subsection (1), an agreement referred to in that subsection may provide for the issue of permits by the Land Council concerned to persons wishing to enter on Aboriginal land for purposes relating to the subject-matter of the agreement.
 
              (3)  The issuing and revocation of permits referred to in subsection (2) shall be in accordance with the terms of the relevant agreement and not otherwise.
 
@@ -4861,7 +4854,7 @@ the copy of the Proclamation shall, for the purposes of this section, be deemed 
 
                      (c)  the report made under subparagraph (1)(a)(ii) in relation to the earlier application made no recommendation as mentioned in that subparagraph in relation to that land;
 
-the Commissioner shall not perform, or continue to perform, a function under paragraph (1)(a) in relation to the land (in this subsection referred to as the **_common land_**) to which both the first‑mentioned application and the earlier application relate unless the Commissioner finds:
+the Commissioner shall not perform, or continue to perform, a function under paragraph (1)(a) in relation to the land (in this subsection referred to as the **_common land_**) to which both the first-mentioned application and the earlier application relate unless the Commissioner finds:
 
                      (d)  that the basis on which the applicants contend that the applicants, or specified Aboriginals, are the traditional Aboriginal owners of the common land is substantially different from the basis on which the like contention was made in relation to the previous claim;
 
@@ -4915,11 +4908,11 @@ the Commissioner shall not perform, or continue to perform, a function under par
 
 ##### <a id="52"></a>52  Appointment of Commissioner
 
-             (1)  A Commissioner shall be appointed by the Governor‑General.
+             (1)  A Commissioner shall be appointed by the Governor-General.
 
-             (2)  Subject to this Act, a Commissioner holds office for such period, not exceeding 3 years, as is specified in his or her instrument of appointment and on such terms and conditions as the Governor‑General determines, but is eligible for re‑appointment.
+             (2)  Subject to this Act, a Commissioner holds office for such period, not exceeding 3 years, as is specified in his or her instrument of appointment and on such terms and conditions as the Governor-General determines, but is eligible for re-appointment.
 
-             (4)  Where the period of office of a Commissioner has expired, the Commissioner shall, unless the Governor‑General otherwise directs, be deemed to continue to hold the office of Commissioner for the purpose only of completing the performance of a function under this Act commenced but not completed before the period of office expired.
+             (4)  Where the period of office of a Commissioner has expired, the Commissioner shall, unless the Governor-General otherwise directs, be deemed to continue to hold the office of Commissioner for the purpose only of completing the performance of a function under this Act commenced but not completed before the period of office expired.
 
 ##### <a id="53"></a>53  Judge or former Judge to be appointed as Commissioner
 
@@ -5031,15 +5024,15 @@ Note:          For strict liability, see section 6.1 of the _C
 
                      (b)  a person (not being a person by whom, or on whose behalf, the application referred to in paragraph (a) has been made) or an unincorporated association of persons wishes to be, or is, legally represented at the inquiry by the Commissioner into the claim;
 
-that person or association may apply to the Attorney‑General for the provision of assistance under this section in respect of the cost of such representation at that inquiry.
+that person or association may apply to the Attorney-General for the provision of assistance under this section in respect of the cost of such representation at that inquiry.
 
              (2)  Where:
 
-                     (a)  an application is made to the Attorney‑General under subsection (1); and
+                     (a)  an application is made to the Attorney-General under subsection (1); and
 
-                     (b)  the Attorney‑General, or a person appointed or engaged under the _Public Service Act 1999_ (the **_public servant_**) authorized in writing by the Attorney‑General, is satisfied that, in all the circumstances of the case, it is reasonable that the Commonwealth should provide assistance in respect of the whole or a part of the cost of the representation to which the application relates;
+                     (b)  the Attorney-General, or a person appointed or engaged under the _Public Service Act 1999_ (the **_public servant_**) authorized in writing by the Attorney-General, is satisfied that, in all the circumstances of the case, it is reasonable that the Commonwealth should provide assistance in respect of the whole or a part of the cost of the representation to which the application relates;
 
-the Attorney‑General or the public servant may authorize, either unconditionally or subject to such conditions as the Attorney‑General or the public servant determines, the provision by the Commonwealth of assistance under this section in respect of the whole or that part of the cost of that representation.
+the Attorney-General or the public servant may authorize, either unconditionally or subject to such conditions as the Attorney-General or the public servant determines, the provision by the Commonwealth of assistance under this section in respect of the whole or that part of the cost of that representation.
 
              (3)  The reference in subsection (2) to all the circumstances of the case shall be read as including a reference to any hardship that the refusal of the application in question would cause to the applicant or, if the applicant is an unincorporated association of persons, to any of those persons.
 
@@ -5089,7 +5082,7 @@ the Attorney‑General or the public servant may authorize, either unconditional
 
 ##### <a id="58"></a>58  Resignation
 
-                   A Commissioner may resign his or her office by signed writing delivered to the Governor‑General, but the resignation does not have effect until it is accepted by the Governor‑General.
+                   A Commissioner may resign his or her office by signed writing delivered to the Governor-General, but the resignation does not have effect until it is accepted by the Governor-General.
 
 ##### <a id="59"></a>59  Staff to assist Commissioner
 
@@ -5221,7 +5214,7 @@ Note:          The activities or operations of any individual 
 
              (1)  The Minister may, in his or her discretion, from time to time, by written instrument, direct the debit from the Account of such amounts as he or she specifies in the direction.
 
-             (2)  If the Minister directs, under subsection (1), the debit of a specified amount from the Account, section 12‑320 in Schedule 1 to the _Taxation Administration Act 1953_ does not apply in relation to the debit of that amount. But there must also be debited from the Account such additional amount as would be necessary to discharge any liability for mining withholding tax in accordance with Division 11C of Part III of the _Income Tax Assessment Act 1936_ in respect of the first‑mentioned amount. The debit of that additional amount discharges that liability.
+             (2)  If the Minister directs, under subsection (1), the debit of a specified amount from the Account, section 12-320 in Schedule 1 to the _Taxation Administration Act 1953_ does not apply in relation to the debit of that amount. But there must also be debited from the Account such additional amount as would be necessary to discharge any liability for mining withholding tax in accordance with Division 11C of Part III of the _Income Tax Assessment Act 1936_ in respect of the first-mentioned amount. The debit of that additional amount discharges that liability.
 
              (3)  The Minister must, in a direction under subsection (1), specify, in relation to each amount that he or she directs be debited from the Account:
 
@@ -5243,11 +5236,11 @@ Note:          The activities or operations of any individual 
 
                      (a)  any amount that is paid to that Land Council under an agreement under subsection 44(1) or (2); or
 
-                     (b)  any amount that is paid to that Land Council out of the appropriation made by item 07 of subdivision 3 of Division 640 of the _Appropriation Act (No. 1) 1978‑79_; or
+                     (b)  any amount that is paid to that Land Council out of the appropriation made by item 07 of subdivision 3 of Division 640 of the _Appropriation Act (No. 1) 1978-79_; or
 
-                     (c)  any amount that is paid to that Land Council out of the appropriation made by subdivision 1 of Division 815 of the _Appropriation Act (No. 4) 1980‑81_; or
+                     (c)  any amount that is paid to that Land Council out of the appropriation made by subdivision 1 of Division 815 of the _Appropriation Act (No. 4) 1980-81_; or
 
-                     (d)  any amount that is paid to that Land Council out of the appropriation made by item 09 of subdivision 3 of Division 120 of the _Appropriation Act (No. 1) 1981‑82_; or
+                     (d)  any amount that is paid to that Land Council out of the appropriation made by item 09 of subdivision 3 of Division 120 of the _Appropriation Act (No. 1) 1981-82_; or
 
                      (e)  any other amount that is paid to that Land Council for that purpose by the Commonwealth and that the Minister determines, by written instrument, should not be taken into account for the purposes of this section.
 
@@ -5287,9 +5280,9 @@ Note:          The activities or operations of any individual 
 
                      (b)  business or financial management.
 
-             (6)  A member of the Committee may be re‑appointed or re‑elected.
+             (6)  A member of the Committee may be re-appointed or re-elected.
 
-             (7)  The period of any appointment or election (or any re‑appointment or re‑election) must not exceed 3 years.
+             (7)  The period of any appointment or election (or any re-appointment or re-election) must not exceed 3 years.
 
 ## Part VII—Miscellaneous
 
@@ -5333,7 +5326,7 @@ Note:          Subsection (2) does not apply to certain grants
 
                      (a)  the claim, or the claim, in so far as it relates to the area of land, is withdrawn; or
 
-                     (b)  the Governor‑General executes a deed of grant of an estate in fee simple in the area of land, or in an area of land that includes the area of land, under section 12; or
+                     (b)  the Governor-General executes a deed of grant of an estate in fee simple in the area of land, or in an area of land that includes the area of land, under section 12; or
 
                      (c)  the Commissioner informs the Minister, in the Commissioner’s report to the Minister in respect of the claim:
 
@@ -5341,7 +5334,7 @@ Note:          Subsection (2) does not apply to certain grants
 
                              (ii)  that the Commissioner is unable to make a finding that there are Aboriginals who are the traditional Aboriginal owners of the area of land; or
 
-                     (d)  where the Commissioner finds that there are Aboriginals who are the traditional Aboriginal owners of the area of land, or of an area of land that includes the area of land—the Minister determines, in writing, that the Minister does not propose to recommend to the Governor‑General that a grant of estate in fee simple in the area of land, or in an area of land that includes the area of land, be made to a Land Trust.
+                     (d)  where the Commissioner finds that there are Aboriginals who are the traditional Aboriginal owners of the area of land, or of an area of land that includes the area of land—the Minister determines, in writing, that the Minister does not propose to recommend to the Governor-General that a grant of estate in fee simple in the area of land, or in an area of land that includes the area of land, be made to a Land Trust.
 
              (6)  If:
 
@@ -5503,7 +5496,7 @@ Commissioner to continue to assess land claim application
 
 Estates or interests preserved
 
-             (9)  If the Governor‑General executes a deed of grant of an estate in fee simple in the area (the **_claim area_**) of land concerned, or in an area of land that includes the claim area, under section 12, any estate or interest granted in the claim area after the relevant requirements of subsection (1) of this section have been satisfied is preserved as an estate or interest in the claim area after the deed is executed.
+             (9)  If the Governor-General executes a deed of grant of an estate in fee simple in the area (the **_claim area_**) of land concerned, or in an area of land that includes the claim area, under section 12, any estate or interest granted in the claim area after the relevant requirements of subsection (1) of this section have been satisfied is preserved as an estate or interest in the claim area after the deed is executed.
 
 Consent of Minister not a legislative instrument
 
@@ -5569,7 +5562,7 @@ Note:          A defendant bears an evidential burden in relat
 
           (2A)  In proceedings against a person for an offence against subsection (1), it is a defence if the person enters or remains on the land:
 
-                     (a)  in performing duties as the Governor‑General or as a person appointed to administer the Government of the Commonwealth under section 4 of the Constitution; or
+                     (a)  in performing duties as the Governor-General or as a person appointed to administer the Government of the Commonwealth under section 4 of the Constitution; or
 
                      (b)  in performing duties as the Administrator, an Acting Administrator, or a Deputy Administrator, of the Northern Territory; or
 
@@ -6063,7 +6056,7 @@ Note:          See section 70A for the definition of **_vest
 
 ##### <a id="73"></a>73  Reciprocal legislation of the Northern Territory
 
-             (1)  The power of the Legislative Assembly of the Northern Territory under the _Northern Territory__(Self‑Government) Act 1978_ in relation to the making of laws extends to the making of:
+             (1)  The power of the Legislative Assembly of the Northern Territory under the _Northern Territory__(Self-Government) Act 1978_ in relation to the making of laws extends to the making of:
 
                      (a)  laws providing for the protection of, and the prevention of the desecration of, sacred sites in the Northern Territory, including sacred sites on Aboriginal land, and, in particular, laws regulating or authorizing the entry of persons on those sites, but so that any such laws shall provide for the right of Aboriginals to have access to those sites in accordance with Aboriginal tradition and shall take into account the wishes of Aboriginals relating to the extent to which those sites should be protected;
 
@@ -6099,9 +6092,9 @@ Note:          The reference to the _Aboriginal Land Act_ of t
 
                      (c)  a person (not being a person by whom, or on whose behalf, the application referred to in paragraph (a) has been made) or an unincorporated association of persons wishes to be, or is, legally represented at the inquiry held by the Commissioner into the matter so referred to him or her;
 
-that person or association may apply to the Attorney‑General for the provision of assistance under this section in respect of the costs of such representation at that inquiry.
+that person or association may apply to the Attorney-General for the provision of assistance under this section in respect of the costs of such representation at that inquiry.
 
-             (2)  Where a person or association makes application to the Attorney‑General in accordance with subsection (1), the provisions of subsections 54C(2) and (3) apply to and in relation to the application so made as if it were an application made by that person or association under and in accordance with the provisions of subsection 54C(1).
+             (2)  Where a person or association makes application to the Attorney-General in accordance with subsection (1), the provisions of subsections 54C(2) and (3) apply to and in relation to the application so made as if it were an application made by that person or association under and in accordance with the provisions of subsection 54C(1).
 
 ##### <a id="75"></a>75  Application of miner’s right in relation to Aboriginal land
 
@@ -6203,7 +6196,7 @@ shall be deemed, for the purposes of this Act, to have been engaged in also by t
 
 ##### <a id="78"></a>78  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed, or necessary or convenient to be prescribed for carrying out or giving effect to this Act and, in particular, prescribing penalties, not exceeding a fine of 6 penalty units, for offences against the regulations.
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed, or necessary or convenient to be prescribed for carrying out or giving effect to this Act and, in particular, prescribing penalties, not exceeding a fine of 6 penalty units, for offences against the regulations.
 
  
 
@@ -6223,7 +6216,7 @@ All that piece of land in the Northern Territory of Australia containing an area
 
 AMOONGUNA
 
-All those pieces of land near Alice Springs in the Northern Territory of Australia containing an area of 530.5 hectares more or less being Northern Territory Portions 461 and 568 and being more particularly delineated on Survey Plans A 127 and Diagram 492 respectively lodged with the Surveyor‑General for the Northern Territory.
+All those pieces of land near Alice Springs in the Northern Territory of Australia containing an area of 530.5 hectares more or less being Northern Territory Portions 461 and 568 and being more particularly delineated on Survey Plans A 127 and Diagram 492 respectively lodged with the Surveyor-General for the Northern Territory.
 
 ARNHEM LAND (ISLANDS)
 
@@ -6247,7 +6240,7 @@ All that piece of land in the Northern Territory of Australia containing an area
 
 DELISSAVILLE
 
-All that piece of land in the Hundred of Bray County of Palmerston Northern Territory of Australia containing an area of 4091 hectares more or less being Section 25 and being more particularly delineated on Survey Plan OP 1413 lodged with the Surveyor‑General for the Northern Territory.
+All that piece of land in the Hundred of Bray County of Palmerston Northern Territory of Australia containing an area of 4091 hectares more or less being Section 25 and being more particularly delineated on Survey Plan OP 1413 lodged with the Surveyor-General for the Northern Territory.
 
 HAASTS BLUFF
 
@@ -6311,11 +6304,11 @@ Commencing at the intersection of the southern boundary of the Hundred of Milne 
 
 WARRABRI
 
-All that piece of land in the Northern Territory of Australia containing an area of 440 square kilometres more or less being Northern Territory Portion 599 and being more particularly delineated on Survey Plan A125 lodged with the Surveyor‑General for the Northern Territory.
+All that piece of land in the Northern Territory of Australia containing an area of 440 square kilometres more or less being Northern Territory Portion 599 and being more particularly delineated on Survey Plan A125 lodged with the Surveyor-General for the Northern Territory.
 
 WOOLWONGA
 
-All that piece of land in the Northern Territory of Australia containing an area of 505 square kilometres more or less: Commencing at the intersection of the right bank of the South Alligator River with the southern boundary of Pastoral Lease 737 (Munmarlary); thence easterly by the said boundary to the southeastern corner of the said Pastoral Lease; thence easterly by part of the southern boundary of Pastoral Lease 739 (Mudginberri) to a point on a line on the western side of the road to Oenpelli parallel to and 30.175 metres distant from the centreline of the said road; thence generally southwesterly by the said line to its intersection with the surveyed line as shown on Survey Plan A.429 lodged with the Surveyor‑General for the Northern Territory; thence westerly by the said line and the surveyed line as shown on Survey Plan A913 lodged with the Surveyor‑General for the Northern Territory; to the intersection with the right bank of the South Alligator River; thence generally northerly by the said bank of the said River to the point of commencement.
+All that piece of land in the Northern Territory of Australia containing an area of 505 square kilometres more or less: Commencing at the intersection of the right bank of the South Alligator River with the southern boundary of Pastoral Lease 737 (Munmarlary); thence easterly by the said boundary to the southeastern corner of the said Pastoral Lease; thence easterly by part of the southern boundary of Pastoral Lease 739 (Mudginberri) to a point on a line on the western side of the road to Oenpelli parallel to and 30.175 metres distant from the centreline of the said road; thence generally southwesterly by the said line to its intersection with the surveyed line as shown on Survey Plan A.429 lodged with the Surveyor-General for the Northern Territory; thence westerly by the said line and the surveyed line as shown on Survey Plan A913 lodged with the Surveyor-General for the Northern Territory; to the intersection with the right bank of the South Alligator River; thence generally northerly by the said bank of the said River to the point of commencement.
 
 YUENDUMU
 
@@ -6325,65 +6318,65 @@ All the piece of land in the Northern Territory of Australia containing an area 
 
 AMMAROO LOCALITY
 
-All that parcel of land in the Northern Territory containing an area of 2771 hectares more or less, being all of Northern Territory Portion 3834 and being more particularly delineated on Survey Plan S.89/77 lodged with the Northern Territory Surveyor‑General, Darwin.
+All that parcel of land in the Northern Territory containing an area of 2771 hectares more or less, being all of Northern Territory Portion 3834 and being more particularly delineated on Survey Plan S.89/77 lodged with the Northern Territory Surveyor-General, Darwin.
 
 BIRDUM (JOMMET BLOCK) LOCALITY
 
-All that parcel of land in the Northern Territory containing an area of 83,980 hectares more or less, being all of Northern Territory portion 2016 and being more particularly delineated on Survey Plans S89/299A to S89/299J lodged with the Surveyor‑General, Darwin.
+All that parcel of land in the Northern Territory containing an area of 83,980 hectares more or less, being all of Northern Territory portion 2016 and being more particularly delineated on Survey Plans S89/299A to S89/299J lodged with the Surveyor-General, Darwin.
 
 DRY RIVER STOCK RESERVE LOCALITY
 
-All that parcel of land in the Northern Territory containing an area of 20,720 hectares more or less, being all of Northern Territory Portion 2119 and being more particularly delineated on Survey Plan S.89/295 lodged with the Surveyor‑General, Darwin.
+All that parcel of land in the Northern Territory containing an area of 20,720 hectares more or less, being all of Northern Territory Portion 2119 and being more particularly delineated on Survey Plan S.89/295 lodged with the Surveyor-General, Darwin.
 
 ELLIOTT LOCALITY
 
-All of the two parcels of land in the Northern Territory containing a combined area of 2,774.8 hectares more or less, being all of Northern Territory portions 3720 and 3869 and being more particularly delineated on Survey Plans S.89/38A to S.89/38C lodged with the Surveyor‑General, Darwin.
+All of the two parcels of land in the Northern Territory containing a combined area of 2,774.8 hectares more or less, being all of Northern Territory portions 3720 and 3869 and being more particularly delineated on Survey Plans S.89/38A to S.89/38C lodged with the Surveyor-General, Darwin.
 
 MITTIEBAH LOCALITY
 
-All that parcel of land in the Northern Territory containing an area of 3,050 hectares more or less, being all of Northern Territory portion 562 and being more particularly delineated on Survey Plan S.89/76 lodged with the Surveyor‑General, Darwin.
+All that parcel of land in the Northern Territory containing an area of 3,050 hectares more or less, being all of Northern Territory portion 562 and being more particularly delineated on Survey Plan S.89/76 lodged with the Surveyor-General, Darwin.
 
 MT PEACHY (MARYVALE) LOCALITY
 
-All that parcel of land in the Northern Territory containing an area of 8474 hectares more or less being all of Northern Territory portion 3815 and being more particularly delineated on Survey Plans S.89/82A to S.89/82E lodged with the Surveyor‑General, Darwin.
+All that parcel of land in the Northern Territory containing an area of 8474 hectares more or less being all of Northern Territory portion 3815 and being more particularly delineated on Survey Plans S.89/82A to S.89/82E lodged with the Surveyor-General, Darwin.
 
 MT SOLITAIRE (HAMILTON DOWNS) LOCALITY
 
-All that parcel of land in the Northern Territory containing an area of 2750 hectares more or less, being all of Northern Territory portion 3810 and being more particularly delineated on Survey Plans S.89/87A to S.89/87C lodged with the Surveyor‑General, Darwin.
+All that parcel of land in the Northern Territory containing an area of 2750 hectares more or less, being all of Northern Territory portion 3810 and being more particularly delineated on Survey Plans S.89/87A to S.89/87C lodged with the Surveyor-General, Darwin.
 
 OORATIPPRA LOCALITY
 
-All that parcel of land in the Northern Territory containing an area of 22,000 hectares more or less being all of Northern Territory portion 3823 and being more particularly delineated on Survey Plans S.89/71A to S.89/71D lodged with the Surveyor‑General, Darwin.
+All that parcel of land in the Northern Territory containing an area of 22,000 hectares more or less being all of Northern Territory portion 3823 and being more particularly delineated on Survey Plans S.89/71A to S.89/71D lodged with the Surveyor-General, Darwin.
 
 RANKEN RIVER LOCALITY
 
-All those parcels of land in the Northern Territory containing an area of 3707 hectares more or less, being all of Northern Territory portions 3826 and 3827 and being more particularly delineated on Survey Plans S.89/68A to S.89/68E lodged with the Surveyor‑General, Darwin.
+All those parcels of land in the Northern Territory containing an area of 3707 hectares more or less, being all of Northern Territory portions 3826 and 3827 and being more particularly delineated on Survey Plans S.89/68A to S.89/68E lodged with the Surveyor-General, Darwin.
 
 SOUDAN LOCALITY
 
-All that parcel of land in the Northern Territory containing an area of 1553 hectares more or less, being all of Northern Territory Portion 3829 and being more particularly delineated on Survey Plan S.89/66 lodged with the Surveyor‑General, Darwin.
+All that parcel of land in the Northern Territory containing an area of 1553 hectares more or less, being all of Northern Territory Portion 3829 and being more particularly delineated on Survey Plan S.89/66 lodged with the Surveyor-General, Darwin.
 
 TARLTON DOWNS LOCALITY
 
-All that parcel of land in the Northern Territory containing an area of 20,150 hectares more or less, being all of Northern Territory portion 1815 and being more particularly delineated on Survey Plans S.89/72A to S.89/72D lodged with the Surveyor‑General, Darwin.
+All that parcel of land in the Northern Territory containing an area of 20,150 hectares more or less, being all of Northern Territory portion 1815 and being more particularly delineated on Survey Plans S.89/72A to S.89/72D lodged with the Surveyor-General, Darwin.
 
 UNDOOLYA BORE LOCALITY
 
-All that parcel of land in the Northern Territory containing an area of 1355 hectares more or less, being all of Northern Territory Portion 3821 and being more particularly delineated on Survey Plan S.89/74 lodged with the Surveyor‑General, Darwin.
+All that parcel of land in the Northern Territory containing an area of 1355 hectares more or less, being all of Northern Territory Portion 3821 and being more particularly delineated on Survey Plan S.89/74 lodged with the Surveyor-General, Darwin.
 
 ## Part 3
 
 16 MILE (BOND SPRINGS) LOCALITY
 
-All that parcel of land in the Northern Territory containing a total area of 3754 hectares more or less, being all of Northern Territory Portion No 3806 and being more particularly delineated on Survey Plan S89/91 lodged with the Surveyor‑General, Darwin.
+All that parcel of land in the Northern Territory containing a total area of 3754 hectares more or less, being all of Northern Territory Portion No 3806 and being more particularly delineated on Survey Plan S89/91 lodged with the Surveyor-General, Darwin.
 
 ALICE WELL LOCALITY
 
-All that parcel of land in the Northern Territory containing an area of 1,013 hectares more or less, being all of Northern Territory portion 3830 and being more particularly delineated on Survey Plan S.89/65 lodged with the Surveyor‑General, Darwin.
+All that parcel of land in the Northern Territory containing an area of 1,013 hectares more or less, being all of Northern Territory portion 3830 and being more particularly delineated on Survey Plan S.89/65 lodged with the Surveyor-General, Darwin.
 
 BLACK TANK BORE (BOND SPRINGS) LOCALITY
 
-All that parcel of land in the Northern Territory containing an area of 3,640 hectares more or less, being all of Northern Territory portion 3805 and being more particularly delineated on Survey Plans S.89/92A and S.89/92B lodged with the Surveyor‑General, Darwin.
+All that parcel of land in the Northern Territory containing an area of 3,640 hectares more or less, being all of Northern Territory portion 3805 and being more particularly delineated on Survey Plans S.89/92A and S.89/92B lodged with the Surveyor-General, Darwin.
 
 FINKE LOCALITY
 
@@ -6391,19 +6384,19 @@ All those parcels of land in the Northern Territory containing an area of 13,605
 
 Firstly:
 
-All that parcel of land containing an area of 7,562 hectares more or less, being all of Northern Territory portion 3819 and being more particularly delineated on Survey Plans S.89/78A to S.89/78E lodged with the Surveyor‑General, Darwin.
+All that parcel of land containing an area of 7,562 hectares more or less, being all of Northern Territory portion 3819 and being more particularly delineated on Survey Plans S.89/78A to S.89/78E lodged with the Surveyor-General, Darwin.
 
 Secondly:
 
-All that parcel of land containing an area of 2,520 hectares more or less, being all of Northern Territory portion 3817 and being more particularly delineated on Survey Plan S.89/80 lodged with the Surveyor‑General, Darwin.
+All that parcel of land containing an area of 2,520 hectares more or less, being all of Northern Territory portion 3817 and being more particularly delineated on Survey Plan S.89/80 lodged with the Surveyor-General, Darwin.
 
 Thirdly:
 
-All that parcel of land containing an area of 2,558 hectares more or less, being all of Northern Territory portion 3816 and being more particularly delineated on Survey Plans S.89/81A to S.89/81C lodged with the Surveyor‑General, Darwin.
+All that parcel of land containing an area of 2,558 hectares more or less, being all of Northern Territory portion 3816 and being more particularly delineated on Survey Plans S.89/81A to S.89/81C lodged with the Surveyor-General, Darwin.
 
 Fourthly:
 
-All that parcel of land containing an area of 965.6 hectares more or less, being all of Northern Territory portion 3818 and being more particularly delineated on Survey Plan S.89/79 lodged with the Surveyor‑General, Darwin.
+All that parcel of land containing an area of 965.6 hectares more or less, being all of Northern Territory portion 3818 and being more particularly delineated on Survey Plan S.89/79 lodged with the Surveyor-General, Darwin.
 
 FORSTER RANGE (STIRLING) LOCALITY
 
@@ -6411,11 +6404,11 @@ All those parcels of land in the Northern Territory containing an area of 3,690�
 
 Firstly:
 
-All that parcel of land containing an area of 1,458 hectares more or less, being all of Northern Territory portion 3822 and being more particularly delineated on Survey Plan S.89/73A lodged with the Surveyor‑General, Darwin.
+All that parcel of land containing an area of 1,458 hectares more or less, being all of Northern Territory portion 3822 and being more particularly delineated on Survey Plan S.89/73A lodged with the Surveyor-General, Darwin.
 
 Secondly:
 
-All that parcel of land containing an area of 2,232 hectares more or less, being all of Northern Territory portion 3831 and being more particularly delineated on Survey Plan S.89/73B lodged with the Surveyor‑General, Darwin.
+All that parcel of land containing an area of 2,232 hectares more or less, being all of Northern Territory portion 3831 and being more particularly delineated on Survey Plan S.89/73B lodged with the Surveyor-General, Darwin.
 
 HENBURY/ORANGE CREEK LOCALITY
 
@@ -6423,51 +6416,51 @@ All those parcels of land in the Northern Territory containing an area of 9,215 
 
 Firstly:
 
-All that parcel of land containing an area of 2,363 hectares more or less, being all of Northern Territory portion 3814 and being more particularly delineated on Survey Plans S.89/83A and S.89/83B lodged with the Surveyor‑General, Darwin.
+All that parcel of land containing an area of 2,363 hectares more or less, being all of Northern Territory portion 3814 and being more particularly delineated on Survey Plans S.89/83A and S.89/83B lodged with the Surveyor-General, Darwin.
 
 Secondly:
 
-All that parcel of land containing an area of 2,886 hectares more or less, being all of Northern Territory portion 3813 and being more particularly delineated on Survey Plans S.89/84A and S.89/84B lodged with the Surveyor‑General, Darwin.
+All that parcel of land containing an area of 2,886 hectares more or less, being all of Northern Territory portion 3813 and being more particularly delineated on Survey Plans S.89/84A and S.89/84B lodged with the Surveyor-General, Darwin.
 
 Thirdly:
 
-All that parcel of land containing an area of 2,024 hectares more or less, being all of Northern Territory portion 3812 and being more particularly delineated on Survey Plans S.89/85A and S.89/85B lodged with the Surveyor‑General, Darwin.
+All that parcel of land containing an area of 2,024 hectares more or less, being all of Northern Territory portion 3812 and being more particularly delineated on Survey Plans S.89/85A and S.89/85B lodged with the Surveyor-General, Darwin.
 
 Fourthly:
 
-All that parcel of land containing an area of 1,942 hectares more or less, being all of Northern Territory portion 3811 and being more particularly delineated on Survey Plan S.89/86 lodged with the Surveyor‑General, Darwin.
+All that parcel of land containing an area of 1,942 hectares more or less, being all of Northern Territory portion 3811 and being more particularly delineated on Survey Plan S.89/86 lodged with the Surveyor-General, Darwin.
 
 JINKA LOCALITY
 
-All that parcel of land in the Northern Territory containing an area of 1,376 hectares more or less, being all of Northern Territory portion 3803 and being more particularly delineated on Survey Plan S.89/94 lodged with the Surveyor‑General, Darwin.
+All that parcel of land in the Northern Territory containing an area of 1,376 hectares more or less, being all of Northern Territory portion 3803 and being more particularly delineated on Survey Plan S.89/94 lodged with the Surveyor-General, Darwin.
 
 LORNE CREEK LOCALITY
 
-All that parcel of land in the Northern Territory containing an area of 3,344 hectares more or less, being all of Northern Territory portion 3828 and being more particularly delineated on Survey Plans S.89/67A to S.89/67E lodged with the Surveyor‑General, Darwin.
+All that parcel of land in the Northern Territory containing an area of 3,344 hectares more or less, being all of Northern Territory portion 3828 and being more particularly delineated on Survey Plans S.89/67A to S.89/67E lodged with the Surveyor-General, Darwin.
 
 MT KATHLEEN (LOVES CREEK) LOCALITY
 
-All that parcel of land in the Northern Territory containing an area of 5,291 hectares more or less, being all of Northern Territory portion 3824 and being more particularly delineated on Survey Plans S.89/70A to S.89/70C lodged with the Surveyor‑General, Darwin.
+All that parcel of land in the Northern Territory containing an area of 5,291 hectares more or less, being all of Northern Ter  ritory portion 3824 and being more particularly delineated on Survey Plans S.89/70A to S.89/70C lodged with the Surveyor-General, Darwin.
 
 NEWCASTLE WATERS LOCALITY
 
-All that parcel of land situated near the town of Newcastle Waters in the Northern Territory of Australia containing an area of 214 hectares more or less, being all of Northern Territory portion 3624 and being more particularly delineated on Survey Plan S.89/37 lodged with the Surveyor‑General, Darwin.
+All that parcel of land situated near the town of Newcastle Waters in the Northern Territory of Australia containing an area of 214 hectares more or less, being all of Northern Territory portion 3624 and being more particularly delineated on Survey Plan S.89/37 lodged with the Surveyor-General, Darwin.
 
 NO 47 BORE (ALEXANDRIA) LOCALITY
 
-All that parcel of land in the Northern Territory containing an area of 1,549 hectares more or less, being all of Northern Territory portion 3825 and being more particularly delineated on Survey Plans S.89/69A and S.89/69B lodged with the Surveyor‑General, Darwin.
+All that parcel of land in the Northern Territory containing an area of 1,549 hectares more or less, being all of Northern Territory portion 3825 and being more particularly delineated on Survey Plans S.89/69A and S.89/69B lodged with the Surveyor-General, Darwin.
 
 SANDOVER RIVER (AMMAROO) LOCALITY
 
-All that parcel of land in the Northern Territory containing an area of 1569 hectares more or less, being all of Northern Territory Portion 3802 and being more particularly delineated on Survey Plans S.89/95A to S.89/95E lodged with the Northern Territory Surveyor‑General, Darwin.
+All that parcel of land in the Northern Territory containing an area of 1569 hectares more or less, being all of Northern Territory Portion 3802 and being more particularly delineated on Survey Plans S.89/95A to S.89/95E lodged with the Northern Territory Surveyor-General, Darwin.
 
 WILLIAMS BORE (UNDOOLYA) LOCALITY
 
-All that parcel of land in the Northern Territory containing an area of 2,469 hectares more or less, being all of Northern Territory portion 3820 and being more particularly delineated on Survey Plans S.89/75A and S.89/75B lodged with the Surveyor‑General, Darwin.
+All that parcel of land in the Northern Territory containing an area of 2,469 hectares more or less, being all of Northern Territory portion 3820 and being more particularly delineated on Survey Plans S.89/75A and S.89/75B lodged with the Surveyor-General, Darwin.
 
 WYCLIFFE WELL LOCALITY
 
-All that parcel of land in the Northern Territory containing an area of 809.2 hectares more or less, being all of Northern Territory portion 3804 and being more particularly delineated on Survey Plan S.89/93 lodged with the Surveyor‑General, Darwin.
+All that parcel of land in the Northern Territory containing an area of 809.2 hectares more or less, being all of Northern Territory portion 3804 and being more particularly delineated on Survey Plan S.89/93 lodged with the Surveyor-General, Darwin.
 
 YAMBAH LOCALITY
 
@@ -6475,29 +6468,29 @@ All those parcels of land in the Northern Territory containing an area of 5,333�
 
 Firstly:
 
-All that parcel of land containing an area of 1,340 hectares more or less, being all of Northern Territory portion 3807 and being more particularly delineated on Survey Plans S.89/90A and S.89/90B lodged with the Surveyor‑General, Darwin.
+All that parcel of land containing an area of 1,340 hectares more or less, being all of Northern Territory portion 3807 and being more particularly delineated on Survey Plans S.89/90A and S.89/90B lodged with the Surveyor-General, Darwin.
 
 Secondly:
 
-All that parcel of land containing an area of 1,494 hectares more or less, being all of Northern Territory portion 3808 and being more particularly delineated on Survey Plans S.89/88A to S.89/88C lodged with the Surveyor‑General, Darwin.
+All that parcel of land containing an area of 1,494 hectares more or less, being all of Northern Territory portion 3808 and being more particularly delineated on Survey Plans S.89/88A to S.89/88C lodged with the Surveyor-General, Darwin.
 
 Thirdly:
 
-All that parcel of land containing an area of 2,499 hectares more or less, being all of Northern Territory portion 3809 and being more particularly delineated on Survey Plans S.89/88D to S.89/88E lodged with the Surveyor‑General, Darwin.
+All that parcel of land containing an area of 2,499 hectares more or less, being all of Northern Territory portion 3809 and being more particularly delineated on Survey Plans S.89/88D to S.89/88E lodged with the Surveyor-General, Darwin.
 
 ## Part 4
 
 BAUHINIA DOWNS
 
-All that piece of land being Northern Territory Portion 1203 containing an area of approximately 1449 square kilometres and being more particularly registered as Volume 365 Folio 123 with the Northern Territory Registrar‑General, but excluding all of the land within 50 metres from either side of the centre line of the road known as the Borroloola to Roper Bar Road.
+All that piece of land being Northern Territory Portion 1203 containing an area of approximately 1449 square kilometres and being more particularly registered as Volume 365 Folio 123 with the Northern Territory Registrar-General, but excluding all of the land within 50 metres from either side of the centre line of the road known as the Borroloola to Roper Bar Road.
 
 BRUMBY PLAINS
 
-All that piece of land being Northern Territory Portion 4091 containing an area of approximately 117,000 hectares and being more particularly delineated on Survey Plan S92/164 lodged with the Surveyor‑General, Darwin, but excluding all of the land within 50 metres from either side of the centre line of the access road between Northern Territory Portion 2989 and the northernmost boundary of Northern Territory Portion 2929.
+All that piece of land being Northern Territory Portion 4091 containing an area of approximately 117,000 hectares and being more particularly delineated on Survey Plan S92/164 lodged with the Surveyor-General, Darwin, but excluding all of the land within 50 metres from either side of the centre line of the access road between Northern Territory Portion 2989 and the northernmost boundary of Northern Territory Portion 2929.
 
 CATFISH DREAMING
 
-All that parcel of land being Northern Territory Portion 4324 containing an area of 42.41 hectares more or less and being more particularly delineated on Survey Plan S93/160 lodged with the Northern Territory Surveyor‑General, Darwin.
+All that parcel of land being Northern Territory Portion 4324 containing an area of 42.41 hectares more or less and being more particularly delineated on Survey Plan S93/160 lodged with the Northern Territory Surveyor-General, Darwin.
 
 EVA VALLEY
 
@@ -6505,7 +6498,7 @@ Pastoral lease number 705—known as Eva Valley Station containing approximately
 
 HARRY CREEK EAST
 
-All that parcel of land being Northern Territory Portion 5624 containing an area of 450.3 hectares more or less and being more particularly delineated on Survey Plan S.98/24 lodged with the Surveyor‑General, Darwin.
+All that parcel of land being Northern Territory Portion 5624 containing an area of 450.3 hectares more or less and being more particularly delineated on Survey Plan S.98/24 lodged with the Surveyor-General, Darwin.
 
 HODGSON DOWNS
 
@@ -6513,29 +6506,29 @@ Pastoral lease number 613—known as Hodgson Downs containing an area of approxi
 
 INNESVALE
 
-All that piece of land in the Northern Territory of Australia containing an area of 283,700 hectares more or less, being Northern Territory Portion 5120 and being more particularly delineated on Survey Plans S97/172 (A to E) lodged with the Surveyor‑General, Darwin, but excluding two roads 100 metres wide and one road 50 metres wide as delineated on Survey Plan S97/172E.
+All that piece of land in the Northern Territory of Australia containing an area of 283,700 hectares more or less, being Northern Territory Portion 5120 and being more particularly delineated on Survey Plans S97/172 (A to E) lodged with the Surveyor-General, Darwin, but excluding two roads 100 metres wide and one road 50 metres wide as delineated on Survey Plan S97/172E.
 
 KANTURRPA—KANTTAJI
 
-All that parcel of land being Northern Territory Portion 4236 containing an area of 15,180 hectares more or less and being more particularly delineated on Survey Plan S92/95A lodged with the Northern Territory Surveyor‑General, Darwin.
+All that parcel of land being Northern Territory Portion 4236 containing an area of 15,180 hectares more or less and being more particularly delineated on Survey Plan S92/95A lodged with the Northern Territory Surveyor-General, Darwin.
 
 LOVES CREEK
 
-All that land being the whole of Northern Territory Portion 744 delineated on Survey Plans S2004/007A to H inclusive and S2004/007J lodged with the Surveyor‑General, Darwin, known as Loves Creek in the Northern Territory and containing an area of approximately 378,400 hectares.
+All that land being the whole of Northern Territory Portion 744 delineated on Survey Plans S2004/007A to H inclusive and S2004/007J lodged with the Surveyor-General, Darwin, known as Loves Creek in the Northern Territory and containing an area of approximately 378,400 hectares.
 
 PATTA
 
 All that land near Tennant Creek in the Northern Territory comprising:
 
-   (a)   the whole of Northern Territory Portion 2441 delineated on Survey Plan S2007/18 lodged with the Surveyor‑General, Darwin, and containing an area of approximately 1,247 hectares; and
+   (a)   the whole of Northern Territory Portion 2441 delineated on Survey Plan S2007/18 lodged with the Surveyor-General, Darwin, and containing an area of approximately 1,247 hectares; and
 
-   (b)   the whole of Northern Territory Portion 4071 delineated on Survey Plans S91/86A and B lodged with the Surveyor‑General, Darwin, and containing an area of approximately 5,582 hectares; and
+   (b)   the whole of Northern Territory Portion 4071 delineated on Survey Plans S91/86A and B lodged with the Surveyor-General, Darwin, and containing an area of approximately 5,582 hectares; and
 
-   (c)   the whole of Northern Territory Portion 4073 delineated on Survey Plan S91/87 lodged with the Surveyor‑General, Darwin, and containing an area of approximately 1,826 hectares; and
+   (c)   the whole of Northern Territory Portion 4073 delineated on Survey Plan S91/87 lodged with the Surveyor-General, Darwin, and containing an area of approximately 1,826 hectares; and
 
-   (d)   the whole of Northern Territory Portion 4096 delineated on Survey Plan S92/85 lodged with the Surveyor‑General, Darwin, and containing an area of approximately 80.19 hectares; and
+   (d)   the whole of Northern Territory Portion 4096 delineated on Survey Plan S92/85 lodged with the Surveyor-General, Darwin, and containing an area of approximately 80.19 hectares; and
 
-   (e)   the whole of Northern Territory Portion 4428 delineated on Survey Plan S93/36 lodged with the Surveyor‑General, Darwin, and containing an area of approximately 334.9 hectares.
+   (e)   the whole of Northern Territory Portion 4428 delineated on Survey Plan S93/36 lodged with the Surveyor-General, Darwin, and containing an area of approximately 334.9 hectares.
 
 ROCKHAMPTON DOWNS
 
@@ -6561,23 +6554,23 @@ Four parcels of land in the Northern Territory together containing an area of 10
 
 Firstly:
 
-all that parcel of land containing an area of 55,850 hectares more or less, being all of Northern Territory Portion 4200 and being more particularly delineated on Survey Plan S.2000/186A lodged with the Surveyor‑General, Darwin.
+all that parcel of land containing an area of 55,850 hectares more or less, being all of Northern Territory Portion 4200 and being more particularly delineated on Survey Plan S.2000/186A lodged with the Surveyor-General, Darwin.
 
 Secondly:
 
-all that parcel of land containing an area of 501.4 hectares more or less, being all of Northern Territory Portion 5990 and being more particularly delineated on Survey Plan S.2000/212B lodged with the Surveyor‑General, Darwin.
+all that parcel of land containing an area of 501.4 hectares more or less, being all of Northern Territory Portion 5990 and being more particularly delineated on Survey Plan S.2000/212B lodged with the Surveyor-General, Darwin.
 
 Thirdly:
 
-all that parcel of land containing an area of 25,160 hectares more or less, being all of Northern Territory Portion 5919 and being more particularly delineated on Survey Plan S.2000/186B lodged with the Surveyor‑General, Darwin.
+all that parcel of land containing an area of 25,160 hectares more or less, being all of Northern Territory Portion 5919 and being more particularly delineated on Survey Plan S.2000/186B lodged with the Surveyor-General, Darwin.
 
 Fourthly:
 
-all that parcel of land containing an area of 27,880 hectares more or less, being all of Northern Territory Portion 5920 and being more particularly delineated on Survey Plan S.2000/186C lodged with the Surveyor‑General, Darwin.
+all that parcel of land containing an area of 27,880 hectares more or less, being all of Northern Territory Portion 5920 and being more particularly delineated on Survey Plan S.2000/186C lodged with the Surveyor-General, Darwin.
 
 URRPANTYENYE
 
-All that piece of land in the Northern Territory of Australia containing an area of 6,554 hectares more or less, being Northern Territory Portion 1084 and being more particularly delineated on Survey Plan S98/203 lodged with the Surveyor‑General, Darwin.
+All that piece of land in the Northern Territory of Australia containing an area of 6,554 hectares more or less, being Northern Territory Portion 1084 and being more particularly delineated on Survey Plan S98/203 lodged with the Surveyor-General, Darwin.
 
 WAVE HILL LOCALITY
 
@@ -6585,11 +6578,11 @@ All that parcel of land in the Wave Hill Locality of the Northern Territory of A
 
 WESTERN DESERT LOCALITY
 
-All that parcel of land being Northern Territory Portion 4199 containing an area of 236,000 hectares more or less and being more particularly delineated on Survey Plan S95/170 lodged with the Northern Territory Surveyor‑General, Darwin, but excluding all that land within 75 metres from either side of the centre line of the road that is known as the Tanami Road and that is more particularly shown on that Survey Plan.
+All that parcel of land being Northern Territory Portion 4199 containing an area of 236,000 hectares more or less and being more particularly delineated on Survey Plan S95/170 lodged with the Northern Territory Surveyor-General, Darwin, but excluding all that land within 75 metres from either side of the centre line of the road that is known as the Tanami Road and that is more particularly shown on that Survey Plan.
 
 WESTERN DESERT (NORTH) LOCALITY
 
-All that piece of land being Northern Territory Portion 4198 containing an area of approximately 239,200 hectares and being more particularly delineated on Survey Plan S96/175 lodged with the Surveyor‑General, Darwin.
+All that piece of land being Northern Territory Portion 4198 containing an area of approximately 239,200 hectares and being more particularly delineated on Survey Plan S96/175 lodged with the Surveyor-General, Darwin.
 
 ## Part 5
 
@@ -6617,7 +6610,7 @@ EMILY AND JESSIE GAPS   NATURE PARK AND HEAVITREE RANGE EXTENSION
 
 1)    Emily and Jessie Gaps   Nature Park
 
-All that parcel of land near Alice Springs in the Northern Territory of Australia containing an area of 670.2 hectares more or less being the whole of Northern Territory Portion 6624 more particularly delineated on Survey Plan S2005/23B lodged with the Surveyor General, Darwin.
+All that parcel of land near  Alice Springs in the Northern Territory of Australia containing an area of 670.2 hectares more or less being the whole of Northern Territory Portion 6624 more particularly delineated on Survey Plan S2005/23B lodged with the Surveyor General, Darwin.
 
 2)    Heavitree Range Extension
 
@@ -6665,7 +6658,7 @@ All that parcel of land near Owen Springs in the Northern Territory of Australia
 
 2A) Alice Valley Extension (East)
 
-All that land being the whole of Northern Territory Portion 6991 delineated on Survey Plans S2008/18A and B lodged with the Surveyor‑General, Darwin, being near Owen Springs in the Northern Territory of Australia and containing an area of approximately 24,890 hectares.
+All that land being the whole of Northern Territory Portion 6991 delineated on Survey Plans S2008/18A and B lodged with the Surveyor-General, Darwin, being near Owen Springs in the Northern Territory of Australia and containing an area of approximately 24,890 hectares.
 
 3)    Chewings Range Extension
 
@@ -6741,7 +6734,7 @@ _Section 3_
 
 ALLIGATOR RIVERS AREA (No. 3)
 
-Firstly, all those pieces of land in the Northern Territory of Australia containing an area of 7000 square kilometres more or less bounded by lines described as follows: Commencing at the northwestern corner of Pastoral Lease 739 (Mudginberri); thence southerly by part of the western boundary of the said Pastoral Lease to the northeastern corner of Pastoral Lease 737 (Munmarlary); thence northwesterly by a line to the intersection of the parallel of south latitude 12 degrees 5 minutes 30 seconds with the meridian of east longitude 132 degrees 33 minutes 28 seconds; thence northwesterly by the northwesterly prolongation of the said line to its intersection with the sea coast of Van Diemen Gulf at Point Farewell; thence generally southwesterly by the said sea coast to the left bank of the Wildman River, but excluding therefrom those parts along the sea coast of all intersecting rivers, streams and estuaries inland from a straight line joining the seaward extremity of each of the opposite banks of each of the said rivers, streams and estuaries so that the aforesaid boundary line shall follow that part below the sea coast of each of the aforesaid straight lines across each of the aforesaid intersecting rivers, streams and estuaries; thence generally southeasterly by the said bank of the said river to its intersection with the eastern boundary of Pastoral Lease 785 (Point Stuart); thence southerly, southwesterly and westerly by eastern, southeastern and southern boundaries of the said Pastoral Lease to the southwestern corner of the said Pastoral Lease; thence southerly by the eastern boundary of Pastoral Lease 786 (Point Stuart) to the southeastern corner of the said Pastoral Lease; thence easterly and southerly by part of the northern boundary and the eastern boundary of Pastoral Lease 766 (Wildman River) to the southeastern corner of the said Pastoral Lease; thence easterly and southerly by part of the northern boundary and an eastern boundary of Pastoral Lease 747 (Annaburro) to the southeastern corner of the said Pastoral Lease; thence easterly by part of a northern boundary of Pastoral Lease 561 (Mt. Bundey) and a northern boundary of Pastoral Lease 612 (Goodparla) to the most northern northeastern corner of Pastoral Lease 612 (Goodparla); thence northeasterly by a line to the intersection of the right bank of the South Alligator River with the westerly prolongation of a surveyed line as shown on Survey Plan A.913 lodged with the Surveyor‑General for the Northern Territory; thence generally northerly by the right bank of the South Alligator River to the southwestern corner of Pastoral Lease 737 (Munmarlary); thence easterly by the southern boundary of the said Pastoral Lease and part of the southern boundary of Pastoral Lease 739 (Mudginberri) to the meridian of east longitude 132 degrees 53 minutes; thence north to the parallel of south latitude 12 degrees 38 minutes 12.227 seconds; thence northeasterly to the intersection of the parallel of south latitude 12 degrees 38 minutes and the meridian of east longitude 132 degrees 53 minutes 30 seconds; thence north to the parallel of south latitude 12 degrees 36 minutes; thence west to the meridian of east longitude 132 degrees 53 minutes; thence north to the parallel of south latitude 12 degrees 35 minutes; thence east to the meridian of east longitude 132 degrees 54 minutes 25.7 seconds; thence southeasterly to the intersection of the parallel of south latitude 12 degrees 36 minutes and the meridian of east longitude 132 degrees 55 minutes; thence northeasterly to the intersection of the parallel of south latitude 12 degrees 35 minutes 16.28 seconds and the meridian of east longitude 132 degrees 56 minutes 22 seconds; thence north to the left bank of the East Alligator River; thence generally westerly by the said bank of the said river and the northern boundary of Pastoral Lease 739 (Mudginberri) to the point of commencement and including those parts above the sea coast of Field and Barren islands.
+Firstly, all those pieces of land in the Northern Territory of Australia containing an area of 7000 square kilometres more or less bounded by lines described as follows: Commencing at the northwestern corner of Pastoral Lease 739 (Mudginberri); thence southerly by part of the western boundary of the said Pastoral Lease to the northeastern corner of Pastoral Lease 737 (Munmarlary); thence northwesterly by a line to the intersection of the parallel of south latitude 12 degrees 5 minutes 30 seconds with the meridian of east longitude 132 degrees 33 minutes 28 seconds; thence northwesterly by the northwesterly prolongation of the said line to its intersection with the sea coast of Van Diemen Gulf at Point Farewell; thence generally southwesterly by the said sea coast to the left bank of the Wildman River, but excluding therefrom those parts along the sea coast of all intersecting rivers, streams and estuaries inland from a straight line joining the seaward extremity of each of the opposite banks of each of the said rivers, streams and estuaries so that the aforesaid boundary line shall follow that part below the sea coast of each of the aforesaid straight lines across each of the aforesaid intersecting rivers, streams and estuaries; thence generally southeasterly by the said bank of the said river to its intersection with the eastern boundary of Pastoral Lease 785 (Point Stuart); thence southerly, southwesterly and westerly by eastern, southeastern and southern boundaries of the said Pastoral Lease to the southwestern corner of the said Pastoral Lease; thence southerly by the eastern boundary of Pastoral Lease 786 (Point Stuart) to the southeastern corner of the said Pastoral Lease; thence easterly and southerly by part of the northern boundary and the eastern boundary of Pastoral Lease 766 (Wildman River) to the southeastern corner of the said Pastoral Lease; thence easterly and southerly by part of the northern boundary and an eastern boundary of Pastoral Lease 747 (Annaburro) to the southeastern corner of the said Pastoral Lease; thence easterly by part of a northern boundary of Pastoral Lease 561 (Mt. Bundey) and a northern boundary of Pastoral Lease 612 (Goodparla) to the most northern northeastern corner of Pastoral Lease 612 (Goodparla); thence northeasterly by a line to the intersection of the right bank of the South Alligator River with the westerly prolongation of a surveyed line as shown on Survey Plan A.913 lodged with the Surveyor-General for the Northern Territory; thence generally northerly by the right bank of the South Alligator River to the southwestern corner of Pastoral Lease 737 (Munmarlary); thence easterly by the southern boundary of the said Pastoral Lease and part of the southern boundary of Pastoral Lease 739 (Mudginberri) to the meridian of east longitude 132 degrees 53 minutes; thence north to the parallel of south latitude 12 degrees 38 minutes 12.227 seconds; thence northeasterly to the intersection of the parallel of south latitude 12 degrees 38 minutes and the meridian of east longitude 132 degrees 53 minutes 30 seconds; thence north to the parallel of south latitude 12 degrees 36 minutes; thence west to the meridian of east longitude 132 degrees 53 minutes; thence north to the parallel of south latitude 12 degrees 35 minutes; thence east to the meridian of east longitude 132 degrees 54 minutes 25.7 seconds; thence southeasterly to the intersection of the parallel of south latitude 12 degrees 36 minutes and the meridian of east longitude 132 degrees 55 minutes; thence northeasterly to the intersection of the parallel of south latitude 12 degrees 35 minutes 16.28 seconds and the meridian of east longitude 132 degrees 56 minutes 22 seconds; thence north to the left bank of the East Alligator River; thence generally westerly by the said bank of the said river and the northern boundary of Pastoral Lease 739 (Mudginberri) to the point of commencement and including those parts above the sea coast of Field and Barren islands.
 
 Secondly, all that piece of land in the Northern Territory of Australia containing an area of 324 square kilometres more or less bounded by lines described as follows: Commencing at the most eastern northeastern corner of Pastoral Lease 668 (Gimbat); thence westerly and northerly by northern and eastern boundaries of the said Pastoral Lease to the most northern northeastern corner of the said Pastoral Lease; thence easterly by the easterly prolongation of the most northern boundary of Pastoral Lease 668 (Gimbat) to its intersection with the meridian of east longitude 133 degrees; thence south to the point of commencement.
 
@@ -6753,7 +6746,7 @@ NABARLEK PROJECT AREA
 
 All that piece or parcel of land in the Northern Territory of Australia containing an area of 1279 hectares, the boundary of which is described as follows:
 
-Commencing at the datum peg in the south‑west corner of the land hence proceed on a bearing of 270° for a distance of 1000 metres; hence on a bearing of 360° for a distance of 1000 metres; hence on a bearing of 90° for a distance of 500 metres; hence on a bearing of 45° for a distance of 2827.97 metres; hence on a bearing of 80° for a distance of 1999.59 metres; hence on a bearing of 180° for a distance of 1850 metres; hence on a bearing of 90° for a distance of 150 metres; hence on a bearing of 167° 16¢ 30² for a distance of 1589.02 metres; hence on a bearing of 270° for a distance of 1500 metres; hence on a bearing of 180° for a distance of 700 metres; hence on a bearing of 270° for a distance of 721.16 metres; hence on a bearing of 18° 0¢ 30² for a distance of 163.18 metres; hence on a bearing of 
+Commencing at the datum peg in the south-west corner of the land hence proceed on a bearing of 270° for a distance of 1000 metres; hence on a bearing of 360° for a distance of 1000 metres; hence on a bearing of 90° for a distance of 500 metres; hence on a bearing of 45° for a distance of 2827.97 metres; hence on a bearing of 80° for a distance of 1999.59 metres; hence on a bearing of 180° for a distance of 1850 metres; hence on a bearing of 90° for a distance of 150 metres; hence on a bearing of 167° 16¢ 30² for a distance of 1589.02 metres; hence on a bearing of 270° for a distance of 1500 metres; hence on a bearing of 180° for a distance of 700 metres; hence on a bearing of 270° for a distance of 721.16 metres; hence on a bearing of 18° 0¢ 30² for a distance of 163.18 metres; hence on a bearing of 
  327° 40¢ 30² for a distance of 542.37 metres; hence on a bearing of 
  57° 40¢ 30² for a distance of 195.07 metres; hence on a bearing of 
  327° 40¢ 30² for a distance of 219.46 metres; hence on a bearing of
@@ -6761,7 +6754,7 @@ Commencing at the datum peg in the south‑west corner of the land hence proceed
  327° 40¢ 30² for a distance of 474.76 metres; hence on a bearing of 
  259° 30¢ for a distance of 258.25 metres; hence on a bearing of 252° 32¢ 30² for a distance of 276.58 metres; hence on a bearing of 251° 16¢ 30² for a distance of 256.25 metres; hence on a bearing of 257° 2¢ for a distance of 134.36 metres; hence on a bearing of 252° 41¢ for a distance of 140.96 metres; hence on a bearing of 255° 45¢ for a distance of 113.8 metres; hence on a bearing of 254° 27¢ 30² for a distance of 31.04 metres; hence on a bearing of 360° for a distance of 321.26 metres to the point of commencement.
 
-The Datum is located 1500 metres in a direction true west of the Queensland Mines Limited Survey Monument which has the Australian Metric Grid co‑ordinates 317,101.15mE 8,638,680.56mN, and latitude 12° 18¢ 33.042² south, longitude 133° 19¢ 05.314² east.
+The Datum is located 1500 metres in a direction true west of the Queensland Mines Limited Survey Monument which has the Australian Metric Grid co-ordinates 317,101.15mE 8,638,680.56mN, and latitude 12° 18¢ 33.042² south, longitude 133° 19¢ 05.314² east.
 
 All Bearings referred to in this Schedule are true bearings.
 
@@ -6824,7 +6817,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>1</div>
   </td>
   <td>
-    <div>‑12° 48' 59&quot;</div>
+    <div>-12° 48' 59&quot;</div>
   </td>
   <td>
     <div>131° 10' 58&quot;</div>
@@ -6835,7 +6828,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>2</div>
   </td>
   <td>
-    <div>‑12° 49' 28&quot;</div>
+    <div>-12° 49' 28&quot;</div>
   </td>
   <td>
     <div>131° 10' 58&quot;</div>
@@ -6846,7 +6839,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>3</div>
   </td>
   <td>
-    <div>‑12° 49' 28&quot;</div>
+    <div>-12° 49' 28&quot;</div>
   </td>
   <td>
     <div>131° 10' 00&quot;</div>
@@ -6857,7 +6850,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>4</div>
   </td>
   <td>
-    <div>‑12° 48' 16&quot;</div>
+    <div>-12° 48' 16&quot;</div>
   </td>
   <td>
     <div>131° 10' 00&quot;</div>
@@ -6868,7 +6861,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>5</div>
   </td>
   <td>
-    <div>‑12° 48' 16&quot;</div>
+    <div>-12° 48' 16&quot;</div>
   </td>
   <td>
     <div>131° 10' 58&quot;</div>
@@ -6879,7 +6872,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>6</div>
   </td>
   <td>
-    <div>‑12° 48' 45&quot;</div>
+    <div>-12° 48' 45&quot;</div>
   </td>
   <td>
     <div>131° 10' 58&quot;</div>
@@ -6890,7 +6883,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>7</div>
   </td>
   <td>
-    <div>‑12° 48' 45&quot;</div>
+    <div>-12° 48' 45&quot;</div>
   </td>
   <td>
     <div>131° 11' 07&quot;</div>
@@ -6901,7 +6894,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>8</div>
   </td>
   <td>
-    <div>‑12° 48' 59&quot;</div>
+    <div>-12° 48' 59&quot;</div>
   </td>
   <td>
     <div>131° 11' 07&quot;</div>
@@ -6951,7 +6944,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>9</div>
   </td>
   <td>
-    <div>‑12° 48' 18&quot;</div>
+    <div>-12° 48' 18&quot;</div>
   </td>
   <td>
     <div>131° 11' 10&quot;</div>
@@ -6962,7 +6955,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>10</div>
   </td>
   <td>
-    <div>‑12° 48' 09&quot;</div>
+    <div>-12° 48' 09&quot;</div>
   </td>
   <td>
     <div>131° 11' 10&quot;</div>
@@ -6973,7 +6966,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>11</div>
   </td>
   <td>
-    <div>‑12° 48' 09&quot;</div>
+    <div>-12° 48' 09&quot;</div>
   </td>
   <td>
     <div>131° 11' 20&quot;</div>
@@ -6984,7 +6977,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>12</div>
   </td>
   <td>
-    <div>‑12° 48' 18&quot;</div>
+    <div>-12° 48' 18&quot;</div>
   </td>
   <td>
     <div>131° 11' 20&quot;</div>
@@ -7034,7 +7027,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>13</div>
   </td>
   <td>
-    <div>‑12° 48' 35&quot;</div>
+    <div>-12° 48' 35&quot;</div>
   </td>
   <td>
     <div>131° 11' 04&quot;</div>
@@ -7045,7 +7038,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>14</div>
   </td>
   <td>
-    <div>‑12° 48' 23&quot;</div>
+    <div>-12° 48' 23&quot;</div>
   </td>
   <td>
     <div>131° 11' 04&quot;</div>
@@ -7056,7 +7049,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>15</div>
   </td>
   <td>
-    <div>‑12° 48' 23&quot;</div>
+    <div>-12° 48' 23&quot;</div>
   </td>
   <td>
     <div>131° 11' 17&quot;</div>
@@ -7067,7 +7060,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>16</div>
   </td>
   <td>
-    <div>‑12° 48' 35&quot;</div>
+    <div>-12° 48' 35&quot;</div>
   </td>
   <td>
     <div>131° 11' 17&quot;</div>
@@ -7121,7 +7114,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>1</div>
   </td>
   <td>
-    <div>‑21° 00' 15&quot;</div>
+    <div>-21° 00' 15&quot;</div>
   </td>
   <td>
     <div>134° 23' 31&quot;</div>
@@ -7132,7 +7125,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>2</div>
   </td>
   <td>
-    <div>‑21° 00' 05&quot;</div>
+    <div>-21° 00' 05&quot;</div>
   </td>
   <td>
     <div>134° 23' 31&quot;</div>
@@ -7143,7 +7136,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>3</div>
   </td>
   <td>
-    <div>‑21° 00' 05&quot;</div>
+    <div>-21° 00' 05&quot;</div>
   </td>
   <td>
     <div>134° 23' 38&quot;</div>
@@ -7154,7 +7147,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>4</div>
   </td>
   <td>
-    <div>‑21° 00' 00&quot;</div>
+    <div>-21° 00' 00&quot;</div>
   </td>
   <td>
     <div>134° 23' 38&quot;</div>
@@ -7165,7 +7158,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>5</div>
   </td>
   <td>
-    <div>‑20° 59' 47&quot;</div>
+    <div>-20° 59' 47&quot;</div>
   </td>
   <td>
     <div>134° 23' 21&quot;</div>
@@ -7176,7 +7169,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>6</div>
   </td>
   <td>
-    <div>‑20° 59' 38&quot;</div>
+    <div>-20° 59' 38&quot;</div>
   </td>
   <td>
     <div>134° 23' 28&quot;</div>
@@ -7187,7 +7180,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>7</div>
   </td>
   <td>
-    <div>‑20° 59' 49&quot;</div>
+    <div>-20° 59' 49&quot;</div>
   </td>
   <td>
     <div>134° 23' 43&quot;</div>
@@ -7198,7 +7191,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>8</div>
   </td>
   <td>
-    <div>‑20° 59' 39&quot;</div>
+    <div>-20° 59' 39&quot;</div>
   </td>
   <td>
     <div>134° 23' 43&quot;</div>
@@ -7209,7 +7202,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>9</div>
   </td>
   <td>
-    <div>‑20° 59' 39&quot;</div>
+    <div>-20° 59' 39&quot;</div>
   </td>
   <td>
     <div>134° 25' 05&quot;</div>
@@ -7220,7 +7213,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>10</div>
   </td>
   <td>
-    <div>‑21° 00' 40&quot;</div>
+    <div>-21° 00' 40&quot;</div>
   </td>
   <td>
     <div>134° 25' 05&quot;</div>
@@ -7231,7 +7224,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>11</div>
   </td>
   <td>
-    <div>‑21° 00' 40&quot;</div>
+    <div>-21° 00' 40&quot;</div>
   </td>
   <td>
     <div>134° 23' 51&quot;</div>
@@ -7242,7 +7235,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>12</div>
   </td>
   <td>
-    <div>‑21° 00' 15&quot;</div>
+    <div>-21° 00' 15&quot;</div>
   </td>
   <td>
     <div>134° 23' 51&quot;</div>
@@ -7292,7 +7285,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>13</div>
   </td>
   <td>
-    <div>‑21° 01' 09&quot;</div>
+    <div>-21° 01' 09&quot;</div>
   </td>
   <td>
     <div>134° 24' 49&quot;</div>
@@ -7303,7 +7296,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>14</div>
   </td>
   <td>
-    <div>‑21° 01' 09&quot;</div>
+    <div>-21° 01' 09&quot;</div>
   </td>
   <td>
     <div>134° 25' 08&quot;</div>
@@ -7314,7 +7307,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>15</div>
   </td>
   <td>
-    <div>‑21° 01' 25&quot;</div>
+    <div>-21° 01' 25&quot;</div>
   </td>
   <td>
     <div>134° 25' 08&quot;</div>
@@ -7325,7 +7318,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>16</div>
   </td>
   <td>
-    <div>‑21° 01' 25&quot;</div>
+    <div>-21° 01' 25&quot;</div>
   </td>
   <td>
     <div>134° 24' 49&quot;</div>
@@ -7375,7 +7368,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>17</div>
   </td>
   <td>
-    <div>‑21° 01' 14&quot;</div>
+    <div>-21° 01' 14&quot;</div>
   </td>
   <td>
     <div>134° 23' 42&quot;</div>
@@ -7386,7 +7379,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>18</div>
   </td>
   <td>
-    <div>‑21° 00' 56&quot;</div>
+    <div>-21° 00' 56&quot;</div>
   </td>
   <td>
     <div>134° 23' 42&quot;</div>
@@ -7397,7 +7390,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>19</div>
   </td>
   <td>
-    <div>‑21° 00' 56&quot;</div>
+    <div>-21° 00' 56&quot;</div>
   </td>
   <td>
     <div>134° 24' 00&quot;</div>
@@ -7408,7 +7401,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>20</div>
   </td>
   <td>
-    <div>‑21° 01' 14&quot;</div>
+    <div>-21° 01' 14&quot;</div>
   </td>
   <td>
     <div>134° 24' 00&quot;</div>
@@ -7462,7 +7455,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>1</div>
   </td>
   <td>
-    <div>‑16° 26' 18&quot;</div>
+    <div>-16° 26' 18&quot;</div>
   </td>
   <td>
     <div>129° 36' 38&quot;</div>
@@ -7473,7 +7466,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>2</div>
   </td>
   <td>
-    <div>‑16° 25' 18&quot;</div>
+    <div>-16° 25' 18&quot;</div>
   </td>
   <td>
     <div>129° 36' 38&quot;</div>
@@ -7484,7 +7477,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>3</div>
   </td>
   <td>
-    <div>‑16° 25' 18&quot;</div>
+    <div>-16° 25' 18&quot;</div>
   </td>
   <td>
     <div>129° 37' 05&quot;</div>
@@ -7495,7 +7488,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>4</div>
   </td>
   <td>
-    <div>‑16° 25' 05&quot;</div>
+    <div>-16° 25' 05&quot;</div>
   </td>
   <td>
     <div>129° 37' 05&quot;</div>
@@ -7506,7 +7499,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>5</div>
   </td>
   <td>
-    <div>‑16° 25' 05&quot;</div>
+    <div>-16° 25' 05&quot;</div>
   </td>
   <td>
     <div>129° 37' 15&quot;</div>
@@ -7517,7 +7510,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>6</div>
   </td>
   <td>
-    <div>‑16° 25' 18&quot;</div>
+    <div>-16° 25' 18&quot;</div>
   </td>
   <td>
     <div>129° 37' 15&quot;</div>
@@ -7528,7 +7521,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>7</div>
   </td>
   <td>
-    <div>‑16° 25' 18&quot;</div>
+    <div>-16° 25' 18&quot;</div>
   </td>
   <td>
     <div>129° 37' 39&quot;</div>
@@ -7539,7 +7532,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>8</div>
   </td>
   <td>
-    <div>‑16° 26' 18&quot;</div>
+    <div>-16° 26' 18&quot;</div>
   </td>
   <td>
     <div>129° 37' 39&quot;</div>
@@ -7589,7 +7582,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>9</div>
   </td>
   <td>
-    <div>‑16° 26' 29&quot;</div>
+    <div>-16° 26' 29&quot;</div>
   </td>
   <td>
     <div>129° 37' 22&quot;</div>
@@ -7600,7 +7593,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>10</div>
   </td>
   <td>
-    <div>‑16° 26' 21&quot;</div>
+    <div>-16° 26' 21&quot;</div>
   </td>
   <td>
     <div>129° 37' 22&quot;</div>
@@ -7611,7 +7604,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>11</div>
   </td>
   <td>
-    <div>‑16° 26' 21&quot;</div>
+    <div>-16° 26' 21&quot;</div>
   </td>
   <td>
     <div>129° 37' 30&quot;</div>
@@ -7622,7 +7615,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>12</div>
   </td>
   <td>
-    <div>‑16° 26' 29&quot;</div>
+    <div>-16° 26' 29&quot;</div>
   </td>
   <td>
     <div>129° 37' 30&quot;</div>
@@ -7676,7 +7669,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>1</div>
   </td>
   <td>
-    <div>‑23° 46' 39&quot;</div>
+    <div>-23° 46' 39&quot;</div>
   </td>
   <td>
     <div>133° 55' 59&quot;</div>
@@ -7687,7 +7680,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>2</div>
   </td>
   <td>
-    <div>‑23° 46' 22&quot;</div>
+    <div>-23° 46' 22&quot;</div>
   </td>
   <td>
     <div>133° 55' 41&quot;</div>
@@ -7698,7 +7691,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>3</div>
   </td>
   <td>
-    <div>‑23° 45' 25&quot;</div>
+    <div>-23° 45' 25&quot;</div>
   </td>
   <td>
     <div>133° 55' 41&quot;</div>
@@ -7709,7 +7702,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>4</div>
   </td>
   <td>
-    <div>‑23° 45' 25&quot;</div>
+    <div>-23° 45' 25&quot;</div>
   </td>
   <td>
     <div>133° 55' 56&quot;</div>
@@ -7720,7 +7713,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>5</div>
   </td>
   <td>
-    <div>‑23° 45' 31&quot;</div>
+    <div>-23° 45' 31&quot;</div>
   </td>
   <td>
     <div>133° 55' 56&quot;</div>
@@ -7731,7 +7724,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>6</div>
   </td>
   <td>
-    <div>‑23° 45' 31&quot;</div>
+    <div>-23° 45' 31&quot;</div>
   </td>
   <td>
     <div>133° 56' 38&quot;</div>
@@ -7742,7 +7735,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>7</div>
   </td>
   <td>
-    <div>‑23° 46' 32&quot;</div>
+    <div>-23° 46' 32&quot;</div>
   </td>
   <td>
     <div>133° 56' 38&quot;</div>
@@ -7753,7 +7746,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>8</div>
   </td>
   <td>
-    <div>‑23° 46' 32&quot;</div>
+    <div>-23° 46' 32&quot;</div>
   </td>
   <td>
     <div>133° 56' 18&quot;</div>
@@ -7764,7 +7757,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>9</div>
   </td>
   <td>
-    <div>‑23° 46' 39&quot;</div>
+    <div>-23° 46' 39&quot;</div>
   </td>
   <td>
     <div>133° 56' 18&quot;</div>
@@ -7814,7 +7807,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>10</div>
   </td>
   <td>
-    <div>‑23° 45' 21&quot;</div>
+    <div>-23° 45' 21&quot;</div>
   </td>
   <td>
     <div>133° 56' 24&quot;</div>
@@ -7825,7 +7818,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>11</div>
   </td>
   <td>
-    <div>‑23° 45' 08&quot;</div>
+    <div>-23° 45' 08&quot;</div>
   </td>
   <td>
     <div>133° 56' 24&quot;</div>
@@ -7836,7 +7829,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>12</div>
   </td>
   <td>
-    <div>‑23° 45' 08&quot;</div>
+    <div>-23° 45' 08&quot;</div>
   </td>
   <td>
     <div>133° 56' 39&quot;</div>
@@ -7847,7 +7840,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>13</div>
   </td>
   <td>
-    <div>‑23° 45' 21&quot;</div>
+    <div>-23° 45' 21&quot;</div>
   </td>
   <td>
     <div>133° 56' 39&quot;</div>
@@ -7899,7 +7892,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>1</div>
   </td>
   <td>
-    <div>‑21° 39' 51&quot;</div>
+    <div>-21° 39' 51&quot;</div>
   </td>
   <td>
     <div>135° 12' 58&quot;</div>
@@ -7910,7 +7903,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>2</div>
   </td>
   <td>
-    <div>‑21° 38' 52&quot;</div>
+    <div>-21° 38' 52&quot;</div>
   </td>
   <td>
     <div>135° 12' 58&quot;</div>
@@ -7921,7 +7914,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>3</div>
   </td>
   <td>
-    <div>‑21° 38' 52&quot;</div>
+    <div>-21° 38' 52&quot;</div>
   </td>
   <td>
     <div>135° 13' 27&quot;</div>
@@ -7932,7 +7925,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>4</div>
   </td>
   <td>
-    <div>‑21° 38' 39&quot;</div>
+    <div>-21° 38' 39&quot;</div>
   </td>
   <td>
     <div>135° 13' 27&quot;</div>
@@ -7943,7 +7936,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>5</div>
   </td>
   <td>
-    <div>‑21° 38' 39&quot;</div>
+    <div>-21° 38' 39&quot;</div>
   </td>
   <td>
     <div>135° 13' 38&quot;</div>
@@ -7954,7 +7947,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>6</div>
   </td>
   <td>
-    <div>‑21° 38' 52&quot;</div>
+    <div>-21° 38' 52&quot;</div>
   </td>
   <td>
     <div>135° 13' 38&quot;</div>
@@ -7965,7 +7958,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>7</div>
   </td>
   <td>
-    <div>‑21° 38' 52&quot;</div>
+    <div>-21° 38' 52&quot;</div>
   </td>
   <td>
     <div>135° 13' 58&quot;</div>
@@ -7976,7 +7969,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>8</div>
   </td>
   <td>
-    <div>‑21° 39' 17&quot;</div>
+    <div>-21° 39' 17&quot;</div>
   </td>
   <td>
     <div>135° 13' 58&quot;</div>
@@ -7987,7 +7980,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>9</div>
   </td>
   <td>
-    <div>‑21° 39' 38&quot;</div>
+    <div>-21° 39' 38&quot;</div>
   </td>
   <td>
     <div>135° 14' 15&quot;</div>
@@ -7998,7 +7991,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>10</div>
   </td>
   <td>
-    <div>‑21° 39' 44&quot;</div>
+    <div>-21° 39' 44&quot;</div>
   </td>
   <td>
     <div>135° 14' 06&quot;</div>
@@ -8009,7 +8002,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>11</div>
   </td>
   <td>
-    <div>‑21° 39' 34&quot;</div>
+    <div>-21° 39' 34&quot;</div>
   </td>
   <td>
     <div>135° 13' 58&quot;</div>
@@ -8020,7 +8013,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>12</div>
   </td>
   <td>
-    <div>‑21° 39' 51&quot;</div>
+    <div>-21° 39' 51&quot;</div>
   </td>
   <td>
     <div>135° 13' 58&quot;</div>
@@ -8072,7 +8065,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>1</div>
   </td>
   <td>
-    <div>‑13° 59' 13&quot;</div>
+    <div>-13° 59' 13&quot;</div>
   </td>
   <td>
     <div>136° 28' 04&quot;</div>
@@ -8083,7 +8076,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>2</div>
   </td>
   <td>
-    <div>‑13° 58' 38&quot;</div>
+    <div>-13° 58' 38&quot;</div>
   </td>
   <td>
     <div>136° 28' 04&quot;</div>
@@ -8094,7 +8087,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>3</div>
   </td>
   <td>
-    <div>‑13° 58' 35&quot;</div>
+    <div>-13° 58' 35&quot;</div>
   </td>
   <td>
     <div>136° 27' 44&quot;</div>
@@ -8105,7 +8098,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>4</div>
   </td>
   <td>
-    <div>‑13° 58' 30&quot;</div>
+    <div>-13° 58' 30&quot;</div>
   </td>
   <td>
     <div>136° 27' 44&quot;</div>
@@ -8116,7 +8109,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>5</div>
   </td>
   <td>
-    <div>‑13° 58' 27&quot;</div>
+    <div>-13° 58' 27&quot;</div>
   </td>
   <td>
     <div>136° 27' 34&quot;</div>
@@ -8127,7 +8120,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>6</div>
   </td>
   <td>
-    <div>‑13° 58' 30&quot;</div>
+    <div>-13° 58' 30&quot;</div>
   </td>
   <td>
     <div>136° 27' 34&quot;</div>
@@ -8138,7 +8131,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>7</div>
   </td>
   <td>
-    <div>‑13° 58' 32&quot;</div>
+    <div>-13° 58' 32&quot;</div>
   </td>
   <td>
     <div>136° 27' 31&quot;</div>
@@ -8149,7 +8142,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>8</div>
   </td>
   <td>
-    <div>‑13° 58' 30&quot;</div>
+    <div>-13° 58' 30&quot;</div>
   </td>
   <td>
     <div>136° 27' 18&quot;</div>
@@ -8160,7 +8153,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>9</div>
   </td>
   <td>
-    <div>‑13° 59' 08&quot;</div>
+    <div>-13° 59' 08&quot;</div>
   </td>
   <td>
     <div>136° 27' 18&quot;</div>
@@ -8171,7 +8164,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>10</div>
   </td>
   <td>
-    <div>‑13° 59' 08&quot;</div>
+    <div>-13° 59' 08&quot;</div>
   </td>
   <td>
     <div>136° 27' 23&quot;</div>
@@ -8182,7 +8175,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>11</div>
   </td>
   <td>
-    <div>‑13° 59' 13&quot;</div>
+    <div>-13° 59' 13&quot;</div>
   </td>
   <td>
     <div>136° 27' 23&quot;</div>
@@ -8236,7 +8229,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>1</div>
   </td>
   <td>
-    <div>‑24° 05' 13&quot;</div>
+    <div>-24° 05' 13&quot;</div>
   </td>
   <td>
     <div>132° 15' 58&quot;</div>
@@ -8247,7 +8240,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>2</div>
   </td>
   <td>
-    <div>‑24° 05' 36&quot;</div>
+    <div>-24° 05' 36&quot;</div>
   </td>
   <td>
     <div>132° 16' 40&quot;</div>
@@ -8258,7 +8251,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>3</div>
   </td>
   <td>
-    <div>‑24° 05' 44&quot;</div>
+    <div>-24° 05' 44&quot;</div>
   </td>
   <td>
     <div>132° 16' 35&quot;</div>
@@ -8269,7 +8262,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>4</div>
   </td>
   <td>
-    <div>‑24° 05' 10&quot;</div>
+    <div>-24° 05' 10&quot;</div>
   </td>
   <td>
     <div>132° 15' 32&quot;</div>
@@ -8280,7 +8273,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>5</div>
   </td>
   <td>
-    <div>‑24° 05' 10&quot;</div>
+    <div>-24° 05' 10&quot;</div>
   </td>
   <td>
     <div>132° 15' 18&quot;</div>
@@ -8291,7 +8284,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>6</div>
   </td>
   <td>
-    <div>‑24° 04' 35&quot;</div>
+    <div>-24° 04' 35&quot;</div>
   </td>
   <td>
     <div>132° 15' 18&quot;</div>
@@ -8302,7 +8295,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>7</div>
   </td>
   <td>
-    <div>‑24° 04' 35&quot;</div>
+    <div>-24° 04' 35&quot;</div>
   </td>
   <td>
     <div>132° 15' 41&quot;</div>
@@ -8313,7 +8306,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>8</div>
   </td>
   <td>
-    <div>‑24° 04' 02&quot;</div>
+    <div>-24° 04' 02&quot;</div>
   </td>
   <td>
     <div>132° 15' 41&quot;</div>
@@ -8324,7 +8317,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>9</div>
   </td>
   <td>
-    <div>‑24° 04' 02&quot;</div>
+    <div>-24° 04' 02&quot;</div>
   </td>
   <td>
     <div>132° 16' 39&quot;</div>
@@ -8335,7 +8328,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>10</div>
   </td>
   <td>
-    <div>‑24° 04' 24&quot;</div>
+    <div>-24° 04' 24&quot;</div>
   </td>
   <td>
     <div>132° 16' 39&quot;</div>
@@ -8346,7 +8339,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>11</div>
   </td>
   <td>
-    <div>‑24° 04' 24&quot;</div>
+    <div>-24° 04' 24&quot;</div>
   </td>
   <td>
     <div>132° 17' 06&quot;</div>
@@ -8357,7 +8350,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>12</div>
   </td>
   <td>
-    <div>‑24° 04' 37&quot;</div>
+    <div>-24° 04' 37&quot;</div>
   </td>
   <td>
     <div>132° 17' 06&quot;</div>
@@ -8368,7 +8361,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>13</div>
   </td>
   <td>
-    <div>‑24° 04' 37&quot;</div>
+    <div>-24° 04' 37&quot;</div>
   </td>
   <td>
     <div>132° 16' 39&quot;</div>
@@ -8379,7 +8372,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>14</div>
   </td>
   <td>
-    <div>‑24° 04' 46&quot;</div>
+    <div>-24° 04' 46&quot;</div>
   </td>
   <td>
     <div>132° 16' 39&quot;</div>
@@ -8390,7 +8383,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>15</div>
   </td>
   <td>
-    <div>‑24° 04' 46&quot;</div>
+    <div>-24° 04' 46&quot;</div>
   </td>
   <td>
     <div>132° 15' 58&quot;</div>
@@ -8440,7 +8433,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>16</div>
   </td>
   <td>
-    <div>‑24° 03' 33&quot;</div>
+    <div>-24° 03' 33&quot;</div>
   </td>
   <td>
     <div>132° 13' 59&quot;</div>
@@ -8451,7 +8444,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>17</div>
   </td>
   <td>
-    <div>‑24° 03' 23&quot;</div>
+    <div>-24° 03' 23&quot;</div>
   </td>
   <td>
     <div>132° 13' 59&quot;</div>
@@ -8462,7 +8455,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>18</div>
   </td>
   <td>
-    <div>‑24° 03' 23&quot;</div>
+    <div>-24° 03' 23&quot;</div>
   </td>
   <td>
     <div>132° 14' 10&quot;</div>
@@ -8473,7 +8466,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>19</div>
   </td>
   <td>
-    <div>‑24° 03' 33&quot;</div>
+    <div>-24° 03' 33&quot;</div>
   </td>
   <td>
     <div>132° 14' 10&quot;</div>
@@ -8523,7 +8516,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>20</div>
   </td>
   <td>
-    <div>‑24° 04' 39&quot;</div>
+    <div>-24° 04' 39&quot;</div>
   </td>
   <td>
     <div>132° 14' 23&quot;</div>
@@ -8534,7 +8527,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>21</div>
   </td>
   <td>
-    <div>‑24° 04' 09&quot;</div>
+    <div>-24° 04' 09&quot;</div>
   </td>
   <td>
     <div>132° 14' 23&quot;</div>
@@ -8545,7 +8538,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>22</div>
   </td>
   <td>
-    <div>‑24° 04' 09&quot;</div>
+    <div>-24° 04' 09&quot;</div>
   </td>
   <td>
     <div>132° 15' 00&quot;</div>
@@ -8556,7 +8549,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>23</div>
   </td>
   <td>
-    <div>‑24° 04' 39&quot;</div>
+    <div>-24° 04' 39&quot;</div>
   </td>
   <td>
     <div>132° 15' 00&quot;</div>
@@ -8610,7 +8603,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>1</div>
   </td>
   <td>
-    <div>‑14° 31' 47&quot;</div>
+    <div>-14° 31' 47&quot;</div>
   </td>
   <td>
     <div>132° 52' 22&quot;</div>
@@ -8621,7 +8614,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>2</div>
   </td>
   <td>
-    <div>‑14° 32' 04&quot;</div>
+    <div>-14° 32' 04&quot;</div>
   </td>
   <td>
     <div>132° 52' 22&quot;</div>
@@ -8632,7 +8625,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>3</div>
   </td>
   <td>
-    <div>‑14° 32' 04&quot;</div>
+    <div>-14° 32' 04&quot;</div>
   </td>
   <td>
     <div>132° 51' 20&quot;</div>
@@ -8643,7 +8636,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>4</div>
   </td>
   <td>
-    <div>‑14° 30' 58&quot;</div>
+    <div>-14° 30' 58&quot;</div>
   </td>
   <td>
     <div>132° 51' 20&quot;</div>
@@ -8654,7 +8647,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>5</div>
   </td>
   <td>
-    <div>‑14° 30' 58&quot;</div>
+    <div>-14° 30' 58&quot;</div>
   </td>
   <td>
     <div>132° 52' 10&quot;</div>
@@ -8665,7 +8658,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>6</div>
   </td>
   <td>
-    <div>‑14° 30' 52&quot;</div>
+    <div>-14° 30' 52&quot;</div>
   </td>
   <td>
     <div>132° 52' 10&quot;</div>
@@ -8676,7 +8669,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>7</div>
   </td>
   <td>
-    <div>‑14° 30' 52&quot;</div>
+    <div>-14° 30' 52&quot;</div>
   </td>
   <td>
     <div>132° 52' 19&quot;</div>
@@ -8687,7 +8680,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>8</div>
   </td>
   <td>
-    <div>‑14° 30' 58&quot;</div>
+    <div>-14° 30' 58&quot;</div>
   </td>
   <td>
     <div>132° 52' 19&quot;</div>
@@ -8698,7 +8691,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>9</div>
   </td>
   <td>
-    <div>‑14° 30' 58&quot;</div>
+    <div>-14° 30' 58&quot;</div>
   </td>
   <td>
     <div>132° 52' 34&quot;</div>
@@ -8709,7 +8702,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>10</div>
   </td>
   <td>
-    <div>‑14° 30' 56&quot;</div>
+    <div>-14° 30' 56&quot;</div>
   </td>
   <td>
     <div>132° 52' 36&quot;</div>
@@ -8720,7 +8713,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>11</div>
   </td>
   <td>
-    <div>‑14° 31' 03&quot;</div>
+    <div>-14° 31' 03&quot;</div>
   </td>
   <td>
     <div>132° 52' 51&quot;</div>
@@ -8731,7 +8724,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>12</div>
   </td>
   <td>
-    <div>‑14° 30' 48&quot;</div>
+    <div>-14° 30' 48&quot;</div>
   </td>
   <td>
     <div>132° 52' 58&quot;</div>
@@ -8742,7 +8735,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>13</div>
   </td>
   <td>
-    <div>‑14° 30' 59&quot;</div>
+    <div>-14° 30' 59&quot;</div>
   </td>
   <td>
     <div>132° 53' 21&quot;</div>
@@ -8753,7 +8746,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>14</div>
   </td>
   <td>
-    <div>‑14° 31' 25&quot;</div>
+    <div>-14° 31' 25&quot;</div>
   </td>
   <td>
     <div>132° 53' 09&quot;</div>
@@ -8764,7 +8757,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>15</div>
   </td>
   <td>
-    <div>‑14° 31' 25&quot;</div>
+    <div>-14° 31' 25&quot;</div>
   </td>
   <td>
     <div>132° 52' 23&quot;</div>
@@ -8775,7 +8768,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>16</div>
   </td>
   <td>
-    <div>‑14° 31' 34&quot;</div>
+    <div>-14° 31' 34&quot;</div>
   </td>
   <td>
     <div>132° 52' 34&quot;</div>
@@ -8825,7 +8818,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>17</div>
   </td>
   <td>
-    <div>‑14° 32' 30&quot;</div>
+    <div>-14° 32' 30&quot;</div>
   </td>
   <td>
     <div>132° 53' 01&quot;</div>
@@ -8836,7 +8829,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>18</div>
   </td>
   <td>
-    <div>‑14° 32' 18&quot;</div>
+    <div>-14° 32' 18&quot;</div>
   </td>
   <td>
     <div>132° 53' 01&quot;</div>
@@ -8847,7 +8840,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>19</div>
   </td>
   <td>
-    <div>‑14° 32' 18&quot;</div>
+    <div>-14° 32' 18&quot;</div>
   </td>
   <td>
     <div>132° 53' 15&quot;</div>
@@ -8858,7 +8851,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>20</div>
   </td>
   <td>
-    <div>‑14° 32' 30&quot;</div>
+    <div>-14° 32' 30&quot;</div>
   </td>
   <td>
     <div>132° 53' 15&quot;</div>
@@ -8912,7 +8905,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>1</div>
   </td>
   <td>
-    <div>‑12° 34' 01&quot;</div>
+    <div>-12° 34' 01&quot;</div>
   </td>
   <td>
     <div>130° 41' 48&quot;</div>
@@ -8923,7 +8916,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>2</div>
   </td>
   <td>
-    <div>‑12° 32' 48&quot;</div>
+    <div>-12° 32' 48&quot;</div>
   </td>
   <td>
     <div>130° 40' 11&quot;</div>
@@ -8934,7 +8927,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>3</div>
   </td>
   <td>
-    <div>‑12° 31' 50&quot;</div>
+    <div>-12° 31' 50&quot;</div>
   </td>
   <td>
     <div>130° 40' 57&quot;</div>
@@ -8945,7 +8938,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>4</div>
   </td>
   <td>
-    <div>‑12° 31' 50&quot;</div>
+    <div>-12° 31' 50&quot;</div>
   </td>
   <td>
     <div>130° 42' 28&quot;</div>
@@ -8956,7 +8949,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>5</div>
   </td>
   <td>
-    <div>‑12° 33' 11&quot;</div>
+    <div>-12° 33' 11&quot;</div>
   </td>
   <td>
     <div>130° 42' 28&quot;</div>
@@ -9006,7 +8999,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>6</div>
   </td>
   <td>
-    <div>‑12° 31' 42&quot;</div>
+    <div>-12° 31' 42&quot;</div>
   </td>
   <td>
     <div>130° 42' 34&quot;</div>
@@ -9017,7 +9010,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>7</div>
   </td>
   <td>
-    <div>‑12° 31' 32&quot;</div>
+    <div>-12° 31' 32&quot;</div>
   </td>
   <td>
     <div>130° 42' 34&quot;</div>
@@ -9028,7 +9021,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>8</div>
   </td>
   <td>
-    <div>‑12° 31' 32&quot;</div>
+    <div>-12° 31' 32&quot;</div>
   </td>
   <td>
     <div>130° 42' 45&quot;</div>
@@ -9039,7 +9032,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>9</div>
   </td>
   <td>
-    <div>‑12° 31' 42&quot;</div>
+    <div>-12° 31' 42&quot;</div>
   </td>
   <td>
     <div>130° 42' 45&quot;</div>
@@ -9089,7 +9082,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>10</div>
   </td>
   <td>
-    <div>‑12° 31' 55&quot;</div>
+    <div>-12° 31' 55&quot;</div>
   </td>
   <td>
     <div>130° 42' 57&quot;</div>
@@ -9100,7 +9093,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>11</div>
   </td>
   <td>
-    <div>‑12° 31' 42&quot;</div>
+    <div>-12° 31' 42&quot;</div>
   </td>
   <td>
     <div>130° 42' 57&quot;</div>
@@ -9111,7 +9104,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>12</div>
   </td>
   <td>
-    <div>‑12° 31' 42&quot;</div>
+    <div>-12° 31' 42&quot;</div>
   </td>
   <td>
     <div>130° 43' 12&quot;</div>
@@ -9122,7 +9115,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>13</div>
   </td>
   <td>
-    <div>‑12° 31' 55&quot;</div>
+    <div>-12° 31' 55&quot;</div>
   </td>
   <td>
     <div>130° 43' 12&quot;</div>
@@ -9172,7 +9165,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>14</div>
   </td>
   <td>
-    <div>‑12° 31' 18&quot;</div>
+    <div>-12° 31' 18&quot;</div>
   </td>
   <td>
     <div>130° 42' 52&quot;</div>
@@ -9183,7 +9176,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>15</div>
   </td>
   <td>
-    <div>‑12° 31' 01&quot;</div>
+    <div>-12° 31' 01&quot;</div>
   </td>
   <td>
     <div>130° 42' 52&quot;</div>
@@ -9194,7 +9187,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>16</div>
   </td>
   <td>
-    <div>‑12° 31' 01&quot;</div>
+    <div>-12° 31' 01&quot;</div>
   </td>
   <td>
     <div>130° 43' 10&quot;</div>
@@ -9205,7 +9198,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>17</div>
   </td>
   <td>
-    <div>‑12° 31' 18&quot;</div>
+    <div>-12° 31' 18&quot;</div>
   </td>
   <td>
     <div>130° 43' 10&quot;</div>
@@ -9255,7 +9248,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>18</div>
   </td>
   <td>
-    <div>‑12° 35' 04&quot;</div>
+    <div>-12° 35' 04&quot;</div>
   </td>
   <td>
     <div>130° 41' 00&quot;</div>
@@ -9266,7 +9259,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>19</div>
   </td>
   <td>
-    <div>‑12° 34' 41&quot;</div>
+    <div>-12° 34' 41&quot;</div>
   </td>
   <td>
     <div>130° 41' 00&quot;</div>
@@ -9277,7 +9270,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>20</div>
   </td>
   <td>
-    <div>‑12° 34' 41&quot;</div>
+    <div>-12° 34' 41&quot;</div>
   </td>
   <td>
     <div>130° 41' 19&quot;</div>
@@ -9288,7 +9281,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>21</div>
   </td>
   <td>
-    <div>‑12° 35' 04&quot;</div>
+    <div>-12° 35' 04&quot;</div>
   </td>
   <td>
     <div>130° 41' 19&quot;</div>
@@ -9338,7 +9331,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>22</div>
   </td>
   <td>
-    <div>‑12° 34' 56&quot;</div>
+    <div>-12° 34' 56&quot;</div>
   </td>
   <td>
     <div>130° 41' 42&quot;</div>
@@ -9349,7 +9342,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>23</div>
   </td>
   <td>
-    <div>‑12° 34' 43&quot;</div>
+    <div>-12° 34' 43&quot;</div>
   </td>
   <td>
     <div>130° 41' 42&quot;</div>
@@ -9360,7 +9353,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>24</div>
   </td>
   <td>
-    <div>‑12° 34' 43&quot;</div>
+    <div>-12° 34' 43&quot;</div>
   </td>
   <td>
     <div>130° 41' 58&quot;</div>
@@ -9371,7 +9364,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>25</div>
   </td>
   <td>
-    <div>‑12° 34' 56&quot;</div>
+    <div>-12° 34' 56&quot;</div>
   </td>
   <td>
     <div>130° 41' 58&quot;</div>
@@ -9425,7 +9418,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>1</div>
   </td>
   <td>
-    <div>‑14° 33' 21&quot;</div>
+    <div>-14° 33' 21&quot;</div>
   </td>
   <td>
     <div>133° 06' 27&quot;</div>
@@ -9436,7 +9429,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>2</div>
   </td>
   <td>
-    <div>‑14° 32' 27&quot;</div>
+    <div>-14° 32' 27&quot;</div>
   </td>
   <td>
     <div>133° 06' 27&quot;</div>
@@ -9447,7 +9440,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>3</div>
   </td>
   <td>
-    <div>‑14° 32' 27&quot;</div>
+    <div>-14° 32' 27&quot;</div>
   </td>
   <td>
     <div>133° 07' 26&quot;</div>
@@ -9458,7 +9451,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>4</div>
   </td>
   <td>
-    <div>‑14° 34' 03&quot;</div>
+    <div>-14° 34' 03&quot;</div>
   </td>
   <td>
     <div>133° 07' 26&quot;</div>
@@ -9469,7 +9462,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>5</div>
   </td>
   <td>
-    <div>‑14° 34' 03&quot;</div>
+    <div>-14° 34' 03&quot;</div>
   </td>
   <td>
     <div>133° 05' 59&quot;</div>
@@ -9480,7 +9473,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>6</div>
   </td>
   <td>
-    <div>‑14° 33' 21&quot;</div>
+    <div>-14° 33' 21&quot;</div>
   </td>
   <td>
     <div>133° 05' 59&quot;</div>
@@ -9530,7 +9523,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>7</div>
   </td>
   <td>
-    <div>‑14° 34' 12&quot;</div>
+    <div>-14° 34' 12&quot;</div>
   </td>
   <td>
     <div>133° 08' 42&quot;</div>
@@ -9541,7 +9534,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>8</div>
   </td>
   <td>
-    <div>‑14° 34' 02&quot;</div>
+    <div>-14° 34' 02&quot;</div>
   </td>
   <td>
     <div>133° 08' 42&quot;</div>
@@ -9552,7 +9545,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>9</div>
   </td>
   <td>
-    <div>‑14° 34' 02&quot;</div>
+    <div>-14° 34' 02&quot;</div>
   </td>
   <td>
     <div>133° 08' 54&quot;</div>
@@ -9563,7 +9556,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>10</div>
   </td>
   <td>
-    <div>‑14° 34' 12&quot;</div>
+    <div>-14° 34' 12&quot;</div>
   </td>
   <td>
     <div>133° 08' 54&quot;</div>
@@ -9617,7 +9610,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>1</div>
   </td>
   <td>
-    <div>‑13° 40' 54&quot;</div>
+    <div>-13° 40' 54&quot;</div>
   </td>
   <td>
     <div>134° 20' 28&quot;</div>
@@ -9628,7 +9621,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>2</div>
   </td>
   <td>
-    <div>‑13° 40' 54&quot;</div>
+    <div>-13° 40' 54&quot;</div>
   </td>
   <td>
     <div>134° 20' 06&quot;</div>
@@ -9639,7 +9632,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>3</div>
   </td>
   <td>
-    <div>‑13° 40' 20&quot;</div>
+    <div>-13° 40' 20&quot;</div>
   </td>
   <td>
     <div>134° 20' 06&quot;</div>
@@ -9650,7 +9643,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>4</div>
   </td>
   <td>
-    <div>‑13° 40' 20&quot;</div>
+    <div>-13° 40' 20&quot;</div>
   </td>
   <td>
     <div>134° 19' 31&quot;</div>
@@ -9661,7 +9654,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>5</div>
   </td>
   <td>
-    <div>‑13° 39' 33&quot;</div>
+    <div>-13° 39' 33&quot;</div>
   </td>
   <td>
     <div>134° 19' 31&quot;</div>
@@ -9672,7 +9665,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>6</div>
   </td>
   <td>
-    <div>‑13° 39' 33&quot;</div>
+    <div>-13° 39' 33&quot;</div>
   </td>
   <td>
     <div>134° 20' 28&quot;</div>
@@ -9722,7 +9715,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>7</div>
   </td>
   <td>
-    <div>‑13° 39' 55&quot;</div>
+    <div>-13° 39' 55&quot;</div>
   </td>
   <td>
     <div>134° 20' 50&quot;</div>
@@ -9733,7 +9726,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>8</div>
   </td>
   <td>
-    <div>‑13° 39' 42&quot;</div>
+    <div>-13° 39' 42&quot;</div>
   </td>
   <td>
     <div>134° 20' 50&quot;</div>
@@ -9744,7 +9737,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>9</div>
   </td>
   <td>
-    <div>‑13° 39' 42&quot;</div>
+    <div>-13° 39' 42&quot;</div>
   </td>
   <td>
     <div>134° 21' 04&quot;</div>
@@ -9755,7 +9748,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>10</div>
   </td>
   <td>
-    <div>‑13° 39' 55&quot;</div>
+    <div>-13° 39' 55&quot;</div>
   </td>
   <td>
     <div>134° 21' 04&quot;</div>
@@ -9805,7 +9798,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>11</div>
   </td>
   <td>
-    <div>‑13° 39' 41&quot;</div>
+    <div>-13° 39' 41&quot;</div>
   </td>
   <td>
     <div>134° 21' 06&quot;</div>
@@ -9816,7 +9809,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>12</div>
   </td>
   <td>
-    <div>‑13° 39' 31&quot;</div>
+    <div>-13° 39' 31&quot;</div>
   </td>
   <td>
     <div>134° 21' 06&quot;</div>
@@ -9827,7 +9820,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>13</div>
   </td>
   <td>
-    <div>‑13° 39' 31&quot;</div>
+    <div>-13° 39' 31&quot;</div>
   </td>
   <td>
     <div>134° 21' 18&quot;</div>
@@ -9838,7 +9831,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>14</div>
   </td>
   <td>
-    <div>‑13° 39' 41&quot;</div>
+    <div>-13° 39' 41&quot;</div>
   </td>
   <td>
     <div>134° 21' 18&quot;</div>
@@ -9892,7 +9885,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>1</div>
   </td>
   <td>
-    <div>‑17° 24' 27&quot;</div>
+    <div>-17° 24' 27&quot;</div>
   </td>
   <td>
     <div>130° 48' 49&quot;</div>
@@ -9903,7 +9896,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>2</div>
   </td>
   <td>
-    <div>‑17° 24' 27&quot;</div>
+    <div>-17° 24' 27&quot;</div>
   </td>
   <td>
     <div>130° 47' 50&quot;</div>
@@ -9914,7 +9907,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>3</div>
   </td>
   <td>
-    <div>‑17° 23' 40&quot;</div>
+    <div>-17° 23' 40&quot;</div>
   </td>
   <td>
     <div>130° 47' 50&quot;</div>
@@ -9925,7 +9918,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>4</div>
   </td>
   <td>
-    <div>‑17° 23' 40&quot;</div>
+    <div>-17° 23' 40&quot;</div>
   </td>
   <td>
     <div>130° 48' 49&quot;</div>
@@ -9975,7 +9968,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>5</div>
   </td>
   <td>
-    <div>‑17° 26' 12&quot;</div>
+    <div>-17° 26' 12&quot;</div>
   </td>
   <td>
     <div>130° 48' 24&quot;</div>
@@ -9986,7 +9979,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>6</div>
   </td>
   <td>
-    <div>‑17° 26' 05&quot;</div>
+    <div>-17° 26' 05&quot;</div>
   </td>
   <td>
     <div>130° 48' 12&quot;</div>
@@ -9997,7 +9990,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>7</div>
   </td>
   <td>
-    <div>‑17° 25' 11&quot;</div>
+    <div>-17° 25' 11&quot;</div>
   </td>
   <td>
     <div>130° 48' 48&quot;</div>
@@ -10008,7 +10001,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>8</div>
   </td>
   <td>
-    <div>‑17° 25' 18&quot;</div>
+    <div>-17° 25' 18&quot;</div>
   </td>
   <td>
     <div>130° 49' 00&quot;</div>
@@ -10058,7 +10051,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>9</div>
   </td>
   <td>
-    <div>‑17° 24' 16&quot;</div>
+    <div>-17° 24' 16&quot;</div>
   </td>
   <td>
     <div>130° 47' 28&quot;</div>
@@ -10069,7 +10062,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>10</div>
   </td>
   <td>
-    <div>‑17° 24' 03&quot;</div>
+    <div>-17° 24' 03&quot;</div>
   </td>
   <td>
     <div>130° 47' 28&quot;</div>
@@ -10080,7 +10073,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>11</div>
   </td>
   <td>
-    <div>‑17° 24' 03&quot;</div>
+    <div>-17° 24' 03&quot;</div>
   </td>
   <td>
     <div>130° 47' 40&quot;</div>
@@ -10091,7 +10084,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>12</div>
   </td>
   <td>
-    <div>‑17° 24' 16&quot;</div>
+    <div>-17° 24' 16&quot;</div>
   </td>
   <td>
     <div>130° 47' 40&quot;</div>
@@ -10141,7 +10134,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>13</div>
   </td>
   <td>
-    <div>‑17° 24' 44&quot;</div>
+    <div>-17° 24' 44&quot;</div>
   </td>
   <td>
     <div>130° 48' 14&quot;</div>
@@ -10152,7 +10145,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>14</div>
   </td>
   <td>
-    <div>‑17° 24' 31&quot;</div>
+    <div>-17° 24' 31&quot;</div>
   </td>
   <td>
     <div>130° 48' 14&quot;</div>
@@ -10163,7 +10156,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>15</div>
   </td>
   <td>
-    <div>‑17° 24' 31&quot;</div>
+    <div>-17° 24' 31&quot;</div>
   </td>
   <td>
     <div>130° 48' 27&quot;</div>
@@ -10174,7 +10167,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>16</div>
   </td>
   <td>
-    <div>‑17° 24' 44&quot;</div>
+    <div>-17° 24' 44&quot;</div>
   </td>
   <td>
     <div>130° 48' 27&quot;</div>
@@ -10224,7 +10217,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>17</div>
   </td>
   <td>
-    <div>‑17° 25' 02&quot;</div>
+    <div>-17° 25' 02&quot;</div>
   </td>
   <td>
     <div>130° 48' 31&quot;</div>
@@ -10235,7 +10228,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>18</div>
   </td>
   <td>
-    <div>‑17° 24' 52&quot;</div>
+    <div>-17° 24' 52&quot;</div>
   </td>
   <td>
     <div>130° 48' 31&quot;</div>
@@ -10246,7 +10239,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>19</div>
   </td>
   <td>
-    <div>‑17° 24' 52&quot;</div>
+    <div>-17° 24' 52&quot;</div>
   </td>
   <td>
     <div>130° 48' 42&quot;</div>
@@ -10257,7 +10250,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>20</div>
   </td>
   <td>
-    <div>‑17° 25' 02&quot;</div>
+    <div>-17° 25' 02&quot;</div>
   </td>
   <td>
     <div>130° 48' 42&quot;</div>
@@ -10307,7 +10300,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>21</div>
   </td>
   <td>
-    <div>‑17° 26' 06&quot;</div>
+    <div>-17° 26' 06&quot;</div>
   </td>
   <td>
     <div>130° 49' 21&quot;</div>
@@ -10318,7 +10311,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>22</div>
   </td>
   <td>
-    <div>‑17° 25' 55&quot;</div>
+    <div>-17° 25' 55&quot;</div>
   </td>
   <td>
     <div>130° 49' 21&quot;</div>
@@ -10329,7 +10322,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>23</div>
   </td>
   <td>
-    <div>‑17° 25' 55&quot;</div>
+    <div>-17° 25' 55&quot;</div>
   </td>
   <td>
     <div>130° 49' 33&quot;</div>
@@ -10340,7 +10333,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>24</div>
   </td>
   <td>
-    <div>‑17° 26' 06&quot;</div>
+    <div>-17° 26' 06&quot;</div>
   </td>
   <td>
     <div>130° 49' 33&quot;</div>
@@ -10390,7 +10383,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>25</div>
   </td>
   <td>
-    <div>‑17° 24' 21&quot;</div>
+    <div>-17° 24' 21&quot;</div>
   </td>
   <td>
     <div>130° 49' 06&quot;</div>
@@ -10401,7 +10394,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>26</div>
   </td>
   <td>
-    <div>‑17° 24' 04&quot;</div>
+    <div>-17° 24' 04&quot;</div>
   </td>
   <td>
     <div>130° 49' 06&quot;</div>
@@ -10412,7 +10405,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>27</div>
   </td>
   <td>
-    <div>‑17° 24' 04&quot;</div>
+    <div>-17° 24' 04&quot;</div>
   </td>
   <td>
     <div>130° 49' 23&quot;</div>
@@ -10423,7 +10416,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>28</div>
   </td>
   <td>
-    <div>‑17° 24' 21&quot;</div>
+    <div>-17° 24' 21&quot;</div>
   </td>
   <td>
     <div>130° 49' 23&quot;</div>
@@ -10450,7 +10443,7 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of Australia 19 94 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -10477,7 +10470,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>1</div>
   </td>
   <td>
-    <div>‑12° 01' 19&quot;</div>
+    <div>-12° 01' 19&quot;</div>
   </td>
   <td>
     <div>135° 34' 36&quot;</div>
@@ -10488,7 +10481,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>2</div>
   </td>
   <td>
-    <div>‑12° 02' 11&quot;</div>
+    <div>-12° 02' 11&quot;</div>
   </td>
   <td>
     <div>135° 34' 36&quot;</div>
@@ -10499,7 +10492,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>3</div>
   </td>
   <td>
-    <div>‑12° 02' 11&quot;</div>
+    <div>-12° 02' 11&quot;</div>
   </td>
   <td>
     <div>135° 33' 37&quot;</div>
@@ -10510,7 +10503,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>4</div>
   </td>
   <td>
-    <div>‑12° 00' 54&quot;</div>
+    <div>-12° 00' 54&quot;</div>
   </td>
   <td>
     <div>135° 33' 44&quot;</div>
@@ -10521,7 +10514,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>5</div>
   </td>
   <td>
-    <div>‑12° 00' 54&quot;</div>
+    <div>-12° 00' 54&quot;</div>
   </td>
   <td>
     <div>135° 34' 36&quot;</div>
@@ -10532,7 +10525,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>6</div>
   </td>
   <td>
-    <div>‑12° 01' 02&quot;</div>
+    <div>-12° 01' 02&quot;</div>
   </td>
   <td>
     <div>135° 34' 36&quot;</div>
@@ -10543,7 +10536,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>7</div>
   </td>
   <td>
-    <div>‑12° 01' 09&quot;</div>
+    <div>-12° 01' 09&quot;</div>
   </td>
   <td>
     <div>135° 35' 20&quot;</div>
@@ -10554,7 +10547,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>8</div>
   </td>
   <td>
-    <div>‑12° 01' 26&quot;</div>
+    <div>-12° 01' 26&quot;</div>
   </td>
   <td>
     <div>135° 35' 17&quot;</div>
@@ -10604,7 +10597,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>9</div>
   </td>
   <td>
-    <div>‑12° 00' 20&quot;</div>
+    <div>-12° 00' 20&quot;</div>
   </td>
   <td>
     <div>135° 34' 01&quot;</div>
@@ -10615,7 +10608,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>10</div>
   </td>
   <td>
-    <div>‑12° 00' 06&quot;</div>
+    <div>-12° 00' 06&quot;</div>
   </td>
   <td>
     <div>135° 34' 01&quot;</div>
@@ -10626,7 +10619,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>11</div>
   </td>
   <td>
-    <div>‑12° 00' 06&quot;</div>
+    <div>-12° 00' 06&quot;</div>
   </td>
   <td>
     <div>135° 34' 12&quot;</div>
@@ -10637,7 +10630,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>12</div>
   </td>
   <td>
-    <div>‑12° 00' 06&quot;</div>
+    <div>-12° 00' 06&quot;</div>
   </td>
   <td>
     <div>135° 34' 17&quot;</div>
@@ -10648,7 +10641,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>13</div>
   </td>
   <td>
-    <div>‑12° 00' 20&quot;</div>
+    <div>-12° 00' 20&quot;</div>
   </td>
   <td>
     <div>135° 34' 17&quot;</div>
@@ -10698,7 +10691,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>14</div>
   </td>
   <td>
-    <div>‑12° 00' 45&quot;</div>
+    <div>-12° 00' 45&quot;</div>
   </td>
   <td>
     <div>135° 35' 19&quot;</div>
@@ -10709,7 +10702,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>15</div>
   </td>
   <td>
-    <div>‑12° 00' 20&quot;</div>
+    <div>-12° 00' 20&quot;</div>
   </td>
   <td>
     <div>135° 35' 19&quot;</div>
@@ -10720,7 +10713,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>16</div>
   </td>
   <td>
-    <div>‑12° 00' 20&quot;</div>
+    <div>-12° 00' 20&quot;</div>
   </td>
   <td>
     <div>135° 35' 41&quot;</div>
@@ -10731,7 +10724,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>17</div>
   </td>
   <td>
-    <div>‑12° 00' 45&quot;</div>
+    <div>-12° 00' 45&quot;</div>
   </td>
   <td>
     <div>135° 35' 41&quot;</div>
@@ -10781,7 +10774,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>18</div>
   </td>
   <td>
-    <div>‑12° 01' 49&quot;</div>
+    <div>-12° 01' 49&quot;</div>
   </td>
   <td>
     <div>135° 34' 54&quot;</div>
@@ -10792,7 +10785,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>19</div>
   </td>
   <td>
-    <div>‑12° 01' 36&quot;</div>
+    <div>-12° 01' 36&quot;</div>
   </td>
   <td>
     <div>135° 34' 54&quot;</div>
@@ -10803,7 +10796,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>20</div>
   </td>
   <td>
-    <div>‑12° 01' 36&quot;</div>
+    <div>-12° 01' 36&quot;</div>
   </td>
   <td>
     <div>135° 35' 07&quot;</div>
@@ -10814,7 +10807,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>21</div>
   </td>
   <td>
-    <div>‑12° 01' 49&quot;</div>
+    <div>-12° 01' 49&quot;</div>
   </td>
   <td>
     <div>135° 35' 07&quot;</div>
@@ -10864,7 +10857,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>22</div>
   </td>
   <td>
-    <div>‑12° 02' 23&quot;</div>
+    <div>-12° 02' 23&quot;</div>
   </td>
   <td>
     <div>135° 35' 15&quot;</div>
@@ -10875,7 +10868,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>23</div>
   </td>
   <td>
-    <div>‑12° 01' 53&quot;</div>
+    <div>-12° 01' 53&quot;</div>
   </td>
   <td>
     <div>135° 35' 15&quot;</div>
@@ -10886,7 +10879,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>24</div>
   </td>
   <td>
-    <div>‑12° 01' 53&quot;</div>
+    <div>-12° 01' 53&quot;</div>
   </td>
   <td>
     <div>135° 35' 30&quot;</div>
@@ -10897,7 +10890,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>25</div>
   </td>
   <td>
-    <div>‑12° 02' 23&quot;</div>
+    <div>-12° 02' 23&quot;</div>
   </td>
   <td>
     <div>135° 35' 30&quot;</div>
@@ -10947,7 +10940,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>26</div>
   </td>
   <td>
-    <div>‑12° 02' 44&quot;</div>
+    <div>-12° 02' 44&quot;</div>
   </td>
   <td>
     <div>135° 35' 21&quot;</div>
@@ -10958,7 +10951,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>27</div>
   </td>
   <td>
-    <div>‑12° 02' 35&quot;</div>
+    <div>-12° 02' 35&quot;</div>
   </td>
   <td>
     <div>135° 35' 21&quot;</div>
@@ -10969,7 +10962,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>28</div>
   </td>
   <td>
-    <div>‑12° 02' 35&quot;</div>
+    <div>-12° 02' 35&quot;</div>
   </td>
   <td>
     <div>135° 35' 32&quot;</div>
@@ -10980,7 +10973,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>29</div>
   </td>
   <td>
-    <div>‑12° 02' 44&quot;</div>
+    <div>-12° 02' 44&quot;</div>
   </td>
   <td>
     <div>135° 35' 32&quot;</div>
@@ -11030,7 +11023,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>30</div>
   </td>
   <td>
-    <div>‑12° 03' 20&quot;</div>
+    <div>-12° 03' 20&quot;</div>
   </td>
   <td>
     <div>135° 35' 21&quot;</div>
@@ -11041,7 +11034,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>31</div>
   </td>
   <td>
-    <div>‑12° 02' 59&quot;</div>
+    <div>-12° 02' 59&quot;</div>
   </td>
   <td>
     <div>135° 35' 21&quot;</div>
@@ -11052,7 +11045,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>32</div>
   </td>
   <td>
-    <div>‑12° 02' 59&quot;</div>
+    <div>-12° 02' 59&quot;</div>
   </td>
   <td>
     <div>135° 35' 35&quot;</div>
@@ -11063,7 +11056,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>33</div>
   </td>
   <td>
-    <div>‑12° 03' 20&quot;</div>
+    <div>-12° 03' 20&quot;</div>
   </td>
   <td>
     <div>135° 35' 32&quot;</div>
@@ -11113,7 +11106,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>34</div>
   </td>
   <td>
-    <div>‑12° 03' 09&quot;</div>
+    <div>-12° 03' 09&quot;</div>
   </td>
   <td>
     <div>135° 33' 32&quot;</div>
@@ -11124,7 +11117,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>35</div>
   </td>
   <td>
-    <div>‑12° 03' 01&quot;</div>
+    <div>-12° 03' 01&quot;</div>
   </td>
   <td>
     <div>135° 33' 32&quot;</div>
@@ -11135,7 +11128,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>36</div>
   </td>
   <td>
-    <div>‑12° 03' 01&quot;</div>
+    <div>-12° 03' 01&quot;</div>
   </td>
   <td>
     <div>135° 33' 50&quot;</div>
@@ -11146,7 +11139,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>37</div>
   </td>
   <td>
-    <div>‑12° 03' 21&quot;</div>
+    <div>-12° 03' 21&quot;</div>
   </td>
   <td>
     <div>135° 33' 50&quot;</div>
@@ -11157,7 +11150,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>38</div>
   </td>
   <td>
-    <div>‑12° 03' 21&quot;</div>
+    <div>-12° 03' 21&quot;</div>
   </td>
   <td>
     <div>135° 33' 41&quot;</div>
@@ -11207,7 +11200,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>39</div>
   </td>
   <td>
-    <div>‑12° 02' 57&quot;</div>
+    <div>-12° 02' 57&quot;</div>
   </td>
   <td>
     <div>135° 33' 17&quot;</div>
@@ -11218,7 +11211,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>40</div>
   </td>
   <td>
-    <div>‑12° 02' 49&quot;</div>
+    <div>-12° 02' 49&quot;</div>
   </td>
   <td>
     <div>135° 33' 17&quot;</div>
@@ -11229,7 +11222,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>41</div>
   </td>
   <td>
-    <div>‑12° 02' 44&quot;</div>
+    <div>-12° 02' 44&quot;</div>
   </td>
   <td>
     <div>135° 33' 22&quot;</div>
@@ -11240,7 +11233,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>42</div>
   </td>
   <td>
-    <div>‑12° 02' 44&quot;</div>
+    <div>-12° 02' 44&quot;</div>
   </td>
   <td>
     <div>135° 33' 30&quot;</div>
@@ -11251,7 +11244,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>43</div>
   </td>
   <td>
-    <div>‑12° 02' 57&quot;</div>
+    <div>-12° 02' 57&quot;</div>
   </td>
   <td>
     <div>135° 33' 30&quot;</div>
@@ -11301,7 +11294,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>44</div>
   </td>
   <td>
-    <div>‑11° 59' 45&quot;</div>
+    <div>-11° 59' 45&quot;</div>
   </td>
   <td>
     <div>135° 34' 21&quot;</div>
@@ -11312,7 +11305,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>45</div>
   </td>
   <td>
-    <div>‑11° 59' 42&quot;</div>
+    <div>-11° 59' 42&quot;</div>
   </td>
   <td>
     <div>135° 34' 21&quot;</div>
@@ -11323,7 +11316,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>46</div>
   </td>
   <td nowrap="">
-    <div>‑11° 59' 34&quot;</div>
+    <div>-11° 59' 34&quot;</div>
   </td>
   <td nowrap="">
     <div>135° 34' 24&quot;</div>
@@ -11334,7 +11327,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>47</div>
   </td>
   <td nowrap="">
-    <div>‑11° 59' 34&quot;</div>
+    <div>-11° 59' 34&quot;</div>
   </td>
   <td nowrap="">
     <div>135° 34' 34&quot;</div>
@@ -11345,7 +11338,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>48</div>
   </td>
   <td nowrap="">
-    <div>‑11° 59' 45&quot;</div>
+    <div>-11° 59' 45&quot;</div>
   </td>
   <td nowrap="">
     <div>135° 34' 34&quot;</div>
@@ -11399,7 +11392,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>1</div>
   </td>
   <td>
-    <div>‑12° 30' 04&quot;</div>
+    <div>-12° 30' 04&quot;</div>
   </td>
   <td>
     <div>135° 49' 21&quot;</div>
@@ -11410,7 +11403,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>2</div>
   </td>
   <td>
-    <div>‑12° 30' 16&quot;</div>
+    <div>-12° 30' 16&quot;</div>
   </td>
   <td>
     <div>135° 49' 21&quot;</div>
@@ -11421,7 +11414,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>3</div>
   </td>
   <td>
-    <div>‑12° 30' 16&quot;</div>
+    <div>-12° 30' 16&quot;</div>
   </td>
   <td>
     <div>135° 48' 56&quot;</div>
@@ -11432,7 +11425,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>4</div>
   </td>
   <td>
-    <div>‑12° 30' 45&quot;</div>
+    <div>-12° 30' 45&quot;</div>
   </td>
   <td>
     <div>135° 48' 56&quot;</div>
@@ -11443,7 +11436,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>5</div>
   </td>
   <td>
-    <div>‑12° 30' 45&quot;</div>
+    <div>-12° 30' 45&quot;</div>
   </td>
   <td>
     <div>135° 47' 43&quot;</div>
@@ -11454,7 +11447,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>6</div>
   </td>
   <td>
-    <div>‑12° 29' 35&quot;</div>
+    <div>-12° 29' 35&quot;</div>
   </td>
   <td>
     <div>135° 47' 43&quot;</div>
@@ -11465,7 +11458,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>7</div>
   </td>
   <td>
-    <div>‑12° 29' 35&quot;</div>
+    <div>-12° 29' 35&quot;</div>
   </td>
   <td>
     <div>135° 49' 02&quot;</div>
@@ -11476,7 +11469,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>8</div>
   </td>
   <td>
-    <div>‑12° 30' 04&quot;</div>
+    <div>-12° 30' 04&quot;</div>
   </td>
   <td>
     <div>135° 49' 02&quot;</div>
@@ -11526,7 +11519,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>9</div>
   </td>
   <td>
-    <div>‑12° 30' 19&quot;</div>
+    <div>-12° 30' 19&quot;</div>
   </td>
   <td>
     <div>135° 49' 39&quot;</div>
@@ -11537,7 +11530,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>10</div>
   </td>
   <td>
-    <div>‑12° 30' 05&quot;</div>
+    <div>-12° 30' 05&quot;</div>
   </td>
   <td>
     <div>135° 49' 39&quot;</div>
@@ -11548,7 +11541,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>11</div>
   </td>
   <td>
-    <div>‑12° 30' 05&quot;</div>
+    <div>-12° 30' 05&quot;</div>
   </td>
   <td>
     <div>135° 49' 55&quot;</div>
@@ -11559,7 +11552,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>12</div>
   </td>
   <td>
-    <div>‑12° 30' 19&quot;</div>
+    <div>-12° 30' 19&quot;</div>
   </td>
   <td>
     <div>135° 49' 55&quot;</div>
@@ -11609,7 +11602,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>13</div>
   </td>
   <td>
-    <div>‑12° 31' 23&quot;</div>
+    <div>-12° 31' 23&quot;</div>
   </td>
   <td>
     <div>135° 48' 10&quot;</div>
@@ -11620,7 +11613,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>14</div>
   </td>
   <td>
-    <div>‑12° 31' 04&quot;</div>
+    <div>-12° 31' 04&quot;</div>
   </td>
   <td>
     <div>135° 48' 10&quot;</div>
@@ -11631,7 +11624,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>15</div>
   </td>
   <td>
-    <div>‑12° 31' 04&quot;</div>
+    <div>-12° 31' 04&quot;</div>
   </td>
   <td>
     <div>135° 48' 27&quot;</div>
@@ -11642,7 +11635,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>16</div>
   </td>
   <td>
-    <div>‑12° 31' 23&quot;</div>
+    <div>-12° 31' 23&quot;</div>
   </td>
   <td>
     <div>135° 48' 27&quot;</div>
@@ -11692,7 +11685,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>17</div>
   </td>
   <td>
-    <div>‑12° 29' 04&quot;</div>
+    <div>-12° 29' 04&quot;</div>
   </td>
   <td>
     <div>135° 46' 43&quot;</div>
@@ -11703,7 +11696,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>18</div>
   </td>
   <td>
-    <div>‑12° 28' 53&quot;</div>
+    <div>-12° 28' 53&quot;</div>
   </td>
   <td>
     <div>135° 46' 43&quot;</div>
@@ -11714,7 +11707,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>19</div>
   </td>
   <td>
-    <div>‑12° 28' 53&quot;</div>
+    <div>-12° 28' 53&quot;</div>
   </td>
   <td>
     <div>135° 46' 53&quot;</div>
@@ -11725,14 +11718,14 @@ _Note:       See paragraph 70A(2)(a)._
     <div>20</div>
   </td>
   <td>
-    <div>‑12° 29' 04&quot;</div>
+    <div>-12° 29' 04&quot;</div>
   </td>
   <td>
     <div>135° 46' 53&quot;</div>
   </td>
 </tr></table>
 
-##### <a id="15"></a>15  Gunbalanya
+##### <a id="15"></a>15  Gunbalanya
 
                    All that area of land contained within the 4 separate areas of land outlined below having a total area of approximately 12.135 square kilometres, to the extent that it is Aboriginal land within the meaning of paragraph (a) of the definition of **_Aboriginal land_** in subsection 3(1), being:
 
@@ -11779,7 +11772,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>1</div>
   </td>
   <td>
-    <div>‑12° 19' 55&quot;</div>
+    <div>-12° 19' 55&quot;</div>
   </td>
   <td>
     <div>133° 02' 18&quot;</div>
@@ -11790,7 +11783,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>2</div>
   </td>
   <td>
-    <div>‑12° 19' 55&quot;</div>
+    <div>-12° 19' 55&quot;</div>
   </td>
   <td>
     <div>133° 01' 46&quot;</div>
@@ -11801,7 +11794,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>3</div>
   </td>
   <td>
-    <div>‑12° 18' 43&quot;</div>
+    <div>-12° 18' 43&quot;</div>
   </td>
   <td>
     <div>133° 01' 46&quot;</div>
@@ -11812,7 +11805,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>4</div>
   </td>
   <td>
-    <div>‑12° 18' 43&quot;</div>
+    <div>-12° 18' 43&quot;</div>
   </td>
   <td>
     <div>133° 03' 49&quot;</div>
@@ -11823,7 +11816,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>5</div>
   </td>
   <td>
-    <div>‑12° 20' 26&quot;</div>
+    <div>-12° 20' 26&quot;</div>
   </td>
   <td>
     <div>133° 03' 49&quot;</div>
@@ -11834,7 +11827,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>6</div>
   </td>
   <td>
-    <div>‑12° 20' 26&quot;</div>
+    <div>-12° 20' 26&quot;</div>
   </td>
   <td>
     <div>133° 02' 18&quot;</div>
@@ -11884,7 +11877,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>7</div>
   </td>
   <td>
-    <div>‑12° 20' 20&quot;</div>
+    <div>-12° 20' 20&quot;</div>
   </td>
   <td>
     <div>133° 04' 33&quot;</div>
@@ -11895,7 +11888,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>8</div>
   </td>
   <td>
-    <div>‑12° 20' 05&quot;</div>
+    <div>-12° 20' 05&quot;</div>
   </td>
   <td>
     <div>133° 04' 33&quot;</div>
@@ -11906,7 +11899,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>9</div>
   </td>
   <td>
-    <div>‑12° 20' 05&quot;</div>
+    <div>-12° 20' 05&quot;</div>
   </td>
   <td>
     <div>133° 04' 48&quot;</div>
@@ -11917,7 +11910,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>10</div>
   </td>
   <td>
-    <div>‑12° 20' 20&quot;</div>
+    <div>-12° 20' 20&quot;</div>
   </td>
   <td>
     <div>133° 04' 48&quot;</div>
@@ -11967,7 +11960,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>11</div>
   </td>
   <td>
-    <div>‑12° 20' 20&quot;</div>
+    <div>-12° 20' 20&quot;</div>
   </td>
   <td>
     <div>133° 00' 56&quot;</div>
@@ -11978,7 +11971,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>12</div>
   </td>
   <td>
-    <div>‑12° 20' 04&quot;</div>
+    <div>-12° 20' 04&quot;</div>
   </td>
   <td>
     <div>133° 00' 56&quot;</div>
@@ -11989,7 +11982,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>13</div>
   </td>
   <td>
-    <div>‑12° 20' 04&quot;</div>
+    <div>-12° 20' 04&quot;</div>
   </td>
   <td>
     <div>133° 01' 12&quot;</div>
@@ -12000,7 +11993,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>14</div>
   </td>
   <td>
-    <div>‑12° 20' 20&quot;</div>
+    <div>-12° 20' 20&quot;</div>
   </td>
   <td>
     <div>133° 01' 12&quot;</div>
@@ -12050,7 +12043,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>15</div>
   </td>
   <td>
-    <div>‑12° 19' 11&quot;</div>
+    <div>-12° 19' 11&quot;</div>
   </td>
   <td>
     <div>133° 00' 01&quot;</div>
@@ -12061,7 +12054,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>16</div>
   </td>
   <td>
-    <div>‑12° 19' 43&quot;</div>
+    <div>-12° 19' 43&quot;</div>
   </td>
   <td>
     <div>133° 00' 59&quot;</div>
@@ -12072,7 +12065,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>17</div>
   </td>
   <td>
-    <div>‑12° 19' 55&quot;</div>
+    <div>-12° 19' 55&quot;</div>
   </td>
   <td>
     <div>133° 00' 52&quot;</div>
@@ -12083,7 +12076,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>18</div>
   </td>
   <td>
-    <div>‑12° 19' 24&quot;</div>
+    <div>-12° 19' 24&quot;</div>
   </td>
   <td>
     <div>132° 59' 53&quot;</div>
@@ -12135,7 +12128,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>1</div>
   </td>
   <td>
-    <div>‑12° 12' 46&quot;</div>
+    <div>-12° 12' 46&quot;</div>
   </td>
   <td>
     <div>136° 41' 58&quot;</div>
@@ -12146,7 +12139,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>2</div>
   </td>
   <td>
-    <div>‑12° 12' 29&quot;</div>
+    <div>-12° 12' 29&quot;</div>
   </td>
   <td>
     <div>136° 41' 58&quot;</div>
@@ -12157,7 +12150,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>3</div>
   </td>
   <td>
-    <div>‑12° 12' 29&quot;</div>
+    <div>-12° 12' 29&quot;</div>
   </td>
   <td>
     <div>136° 42' 37&quot;</div>
@@ -12168,7 +12161,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>4</div>
   </td>
   <td>
-    <div>‑12° 13' 26&quot;</div>
+    <div>-12° 13' 26&quot;</div>
   </td>
   <td>
     <div>136° 42' 36&quot;</div>
@@ -12179,7 +12172,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>5</div>
   </td>
   <td>
-    <div>‑12° 13' 26&quot;</div>
+    <div>-12° 13' 26&quot;</div>
   </td>
   <td>
     <div>136° 42' 21&quot;</div>
@@ -12190,7 +12183,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>6</div>
   </td>
   <td>
-    <div>‑12° 13' 42&quot;</div>
+    <div>-12° 13' 42&quot;</div>
   </td>
   <td>
     <div>136° 42' 13&quot;</div>
@@ -12244,7 +12237,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>1</div>
   </td>
   <td>
-    <div>‑23° 27' 18&quot;</div>
+    <div>-23° 27' 18&quot;</div>
   </td>
   <td>
     <div>131° 52' 18&quot;</div>
@@ -12255,7 +12248,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>2</div>
   </td>
   <td>
-    <div>‑23° 26' 57&quot;</div>
+    <div>-23° 26' 57&quot;</div>
   </td>
   <td>
     <div>131° 52' 18&quot;</div>
@@ -12266,7 +12259,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>3</div>
   </td>
   <td>
-    <div>‑23° 26' 57&quot;</div>
+    <div>-23° 26' 57&quot;</div>
   </td>
   <td>
     <div>131° 52' 22&quot;</div>
@@ -12277,7 +12270,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>4</div>
   </td>
   <td>
-    <div>‑23° 26' 27&quot;</div>
+    <div>-23° 26' 27&quot;</div>
   </td>
   <td>
     <div>131° 52' 22&quot;</div>
@@ -12288,7 +12281,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>5</div>
   </td>
   <td>
-    <div>‑23° 26' 27&quot;</div>
+    <div>-23° 26' 27&quot;</div>
   </td>
   <td>
     <div>131° 53' 23&quot;</div>
@@ -12299,7 +12292,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>6</div>
   </td>
   <td>
-    <div>‑23° 27' 18&quot;</div>
+    <div>-23° 27' 18&quot;</div>
   </td>
   <td>
     <div>131° 53' 23&quot;</div>
@@ -12349,7 +12342,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>7</div>
   </td>
   <td>
-    <div>‑23° 26' 53&quot;</div>
+    <div>-23° 26' 53&quot;</div>
   </td>
   <td>
     <div>131° 50' 34&quot;</div>
@@ -12360,7 +12353,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>8</div>
   </td>
   <td>
-    <div>‑23° 26' 43&quot;</div>
+    <div>-23° 26' 43&quot;</div>
   </td>
   <td>
     <div>131° 50' 41&quot;</div>
@@ -12371,7 +12364,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>9</div>
   </td>
   <td>
-    <div>‑23° 27' 22&quot;</div>
+    <div>-23° 27' 22&quot;</div>
   </td>
   <td>
     <div>131° 51' 43&quot;</div>
@@ -12382,7 +12375,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>10</div>
   </td>
   <td>
-    <div>‑23° 27' 32&quot;</div>
+    <div>-23° 27' 32&quot;</div>
   </td>
   <td>
     <div>131° 51' 35&quot;</div>
@@ -12432,7 +12425,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>11</div>
   </td>
   <td>
-    <div>‑23° 27' 58&quot;</div>
+    <div>-23° 27' 58&quot;</div>
   </td>
   <td>
     <div>131° 52' 42&quot;</div>
@@ -12443,7 +12436,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>12</div>
   </td>
   <td>
-    <div>‑23° 27' 47&quot;</div>
+    <div>-23° 27' 47&quot;</div>
   </td>
   <td>
     <div>131° 52' 42&quot;</div>
@@ -12454,7 +12447,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>13</div>
   </td>
   <td>
-    <div>‑23° 27' 47&quot;</div>
+    <div>-23° 27' 47&quot;</div>
   </td>
   <td>
     <div>131° 52' 53&quot;</div>
@@ -12465,7 +12458,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>14</div>
   </td>
   <td>
-    <div>‑23° 27' 58&quot;</div>
+    <div>-23° 27' 58&quot;</div>
   </td>
   <td>
     <div>131° 52' 53&quot;</div>
@@ -12515,7 +12508,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>15</div>
   </td>
   <td>
-    <div>‑23° 29' 26&quot;</div>
+    <div>-23° 29' 26&quot;</div>
   </td>
   <td>
     <div>131° 52' 16&quot;</div>
@@ -12526,7 +12519,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>16</div>
   </td>
   <td>
-    <div>‑23° 29' 12&quot;</div>
+    <div>-23° 29' 12&quot;</div>
   </td>
   <td>
     <div>131° 52' 16&quot;</div>
@@ -12537,7 +12530,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>17</div>
   </td>
   <td>
-    <div>‑23° 29' 12&quot;</div>
+    <div>-23° 29' 12&quot;</div>
   </td>
   <td>
     <div>131° 52' 34&quot;</div>
@@ -12548,7 +12541,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>18</div>
   </td>
   <td>
-    <div>‑23° 29' 26&quot;</div>
+    <div>-23° 29' 26&quot;</div>
   </td>
   <td>
     <div>131° 52' 34&quot;</div>
@@ -12598,7 +12591,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>19</div>
   </td>
   <td>
-    <div>‑23° 31' 04&quot;</div>
+    <div>-23° 31' 04&quot;</div>
   </td>
   <td>
     <div>131° 52' 14&quot;</div>
@@ -12609,7 +12602,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>20</div>
   </td>
   <td>
-    <div>‑23° 30' 41&quot;</div>
+    <div>-23° 30' 41&quot;</div>
   </td>
   <td>
     <div>131° 52' 14&quot;</div>
@@ -12620,7 +12613,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>21</div>
   </td>
   <td>
-    <div>‑23° 30' 41&quot;</div>
+    <div>-23° 30' 41&quot;</div>
   </td>
   <td>
     <div>131° 52' 40&quot;</div>
@@ -12631,7 +12624,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>22</div>
   </td>
   <td>
-    <div>‑23° 31' 04&quot;</div>
+    <div>-23° 31' 04&quot;</div>
   </td>
   <td>
     <div>131° 52' 40&quot;</div>
@@ -12685,7 +12678,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>1</div>
   </td>
   <td>
-    <div>‑23° 57' 10&quot;</div>
+    <div>-23° 57' 10&quot;</div>
   </td>
   <td>
     <div>132° 46' 49&quot;</div>
@@ -12696,7 +12689,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>2</div>
   </td>
   <td>
-    <div>‑23° 57' 10&quot;</div>
+    <div>-23° 57' 10&quot;</div>
   </td>
   <td>
     <div>132° 46' 02&quot;</div>
@@ -12707,7 +12700,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>3</div>
   </td>
   <td>
-    <div>‑23° 56' 15&quot;</div>
+    <div>-23° 56' 15&quot;</div>
   </td>
   <td>
     <div>132° 46' 02&quot;</div>
@@ -12718,7 +12711,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>4</div>
   </td>
   <td>
-    <div>‑23° 56' 15&quot;</div>
+    <div>-23° 56' 15&quot;</div>
   </td>
   <td>
     <div>132° 45' 46&quot;</div>
@@ -12729,7 +12722,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>5</div>
   </td>
   <td>
-    <div>‑23° 56' 03&quot;</div>
+    <div>-23° 56' 03&quot;</div>
   </td>
   <td>
     <div>132° 45' 46&quot;</div>
@@ -12740,7 +12733,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>6</div>
   </td>
   <td>
-    <div>‑23° 56' 03&quot;</div>
+    <div>-23° 56' 03&quot;</div>
   </td>
   <td>
     <div>132° 46' 02&quot;</div>
@@ -12751,7 +12744,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>7</div>
   </td>
   <td>
-    <div>‑23° 55' 49&quot;</div>
+    <div>-23° 55' 49&quot;</div>
   </td>
   <td>
     <div>132° 46' 02&quot;</div>
@@ -12762,7 +12755,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>8</div>
   </td>
   <td>
-    <div>‑23° 55' 49&quot;</div>
+    <div>-23° 55' 49&quot;</div>
   </td>
   <td>
     <div>132° 46' 29&quot;</div>
@@ -12773,7 +12766,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>9</div>
   </td>
   <td>
-    <div>‑23° 56' 04&quot;</div>
+    <div>-23° 56' 04&quot;</div>
   </td>
   <td>
     <div>132° 46' 29&quot;</div>
@@ -12784,7 +12777,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>10</div>
   </td>
   <td>
-    <div>‑23° 56' 04&quot;</div>
+    <div>-23° 56' 04&quot;</div>
   </td>
   <td>
     <div>132° 47' 35&quot;</div>
@@ -12795,7 +12788,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>11</div>
   </td>
   <td>
-    <div>‑23° 57' 06&quot;</div>
+    <div>-23° 57' 06&quot;</div>
   </td>
   <td>
     <div>132° 47' 35&quot;</div>
@@ -12806,7 +12799,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>12</div>
   </td>
   <td>
-    <div>‑23° 57' 06&quot;</div>
+    <div>-23° 57' 06&quot;</div>
   </td>
   <td>
     <div>132° 47' 05&quot;</div>
@@ -12817,7 +12810,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>13</div>
   </td>
   <td>
-    <div>‑23° 57' 20&quot;</div>
+    <div>-23° 57' 20&quot;</div>
   </td>
   <td>
     <div>132° 47' 05&quot;</div>
@@ -12828,7 +12821,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>14</div>
   </td>
   <td>
-    <div>‑23° 57' 20&quot;</div>
+    <div>-23° 57' 20&quot;</div>
   </td>
   <td>
     <div>132° 46' 49&quot;</div>
@@ -12878,7 +12871,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>15</div>
   </td>
   <td>
-    <div>‑23° 57' 23&quot;</div>
+    <div>-23° 57' 23&quot;</div>
   </td>
   <td>
     <div>132° 45' 52&quot;</div>
@@ -12889,7 +12882,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>16</div>
   </td>
   <td>
-    <div>‑23° 57' 11&quot;</div>
+    <div>-23° 57' 11&quot;</div>
   </td>
   <td>
     <div>132° 45' 52&quot;</div>
@@ -12900,7 +12893,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>17</div>
   </td>
   <td>
-    <div>‑23° 57' 11&quot;</div>
+    <div>-23° 57' 11&quot;</div>
   </td>
   <td>
     <div>132° 46' 05&quot;</div>
@@ -12911,7 +12904,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>18</div>
   </td>
   <td>
-    <div>‑23° 57' 23&quot;</div>
+    <div>-23° 57' 23&quot;</div>
   </td>
   <td>
     <div>132° 46' 05&quot;</div>
@@ -12961,7 +12954,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>19</div>
   </td>
   <td>
-    <div>‑23° 55' 58&quot;</div>
+    <div>-23° 55' 58&quot;</div>
   </td>
   <td>
     <div>132° 47' 53&quot;</div>
@@ -12972,7 +12965,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>20</div>
   </td>
   <td>
-    <div>‑23° 55' 56&quot;</div>
+    <div>-23° 55' 56&quot;</div>
   </td>
   <td>
     <div>132° 47' 53&quot;</div>
@@ -12983,7 +12976,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>21</div>
   </td>
   <td>
-    <div>‑23° 55' 56&quot;</div>
+    <div>-23° 55' 56&quot;</div>
   </td>
   <td>
     <div>132° 47' 56&quot;</div>
@@ -12994,7 +12987,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>22</div>
   </td>
   <td>
-    <div>‑23° 55' 58&quot;</div>
+    <div>-23° 55' 58&quot;</div>
   </td>
   <td>
     <div>132° 47' 56&quot;</div>
@@ -13044,7 +13037,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>23</div>
   </td>
   <td>
-    <div>‑23° 55' 29&quot;</div>
+    <div>-23° 55' 29&quot;</div>
   </td>
   <td>
     <div>132° 47' 59&quot;</div>
@@ -13055,7 +13048,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>24</div>
   </td>
   <td>
-    <div>‑23° 55' 18&quot;</div>
+    <div>-23° 55' 18&quot;</div>
   </td>
   <td>
     <div>132° 48' 05&quot;</div>
@@ -13066,7 +13059,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>25</div>
   </td>
   <td>
-    <div>‑23° 55' 42&quot;</div>
+    <div>-23° 55' 42&quot;</div>
   </td>
   <td>
     <div>132° 48' 59&quot;</div>
@@ -13077,7 +13070,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>26</div>
   </td>
   <td>
-    <div>‑23° 55' 53&quot;</div>
+    <div>-23° 55' 53&quot;</div>
   </td>
   <td>
     <div>132° 48' 53&quot;</div>
@@ -13088,7 +13081,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>27</div>
   </td>
   <td>
-    <div>‑23° 56' 03&quot;</div>
+    <div>-23° 56' 03&quot;</div>
   </td>
   <td>
     <div>132° 48' 08&quot;</div>
@@ -13142,7 +13135,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>1</div>
   </td>
   <td>
-    <div>‑24° 51' 58&quot;</div>
+    <div>-24° 51' 58&quot;</div>
   </td>
   <td>
     <div>129° 05' 28&quot;</div>
@@ -13153,7 +13146,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>2</div>
   </td>
   <td>
-    <div>‑24° 51' 58&quot;</div>
+    <div>-24° 51' 58&quot;</div>
   </td>
   <td>
     <div>129° 05' 41&quot;</div>
@@ -13164,7 +13157,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>3</div>
   </td>
   <td>
-    <div>‑24° 52' 58&quot;</div>
+    <div>-24° 52' 58&quot;</div>
   </td>
   <td>
     <div>129° 05' 41&quot;</div>
@@ -13175,7 +13168,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>4</div>
   </td>
   <td>
-    <div>‑24° 52' 58&quot;</div>
+    <div>-24° 52' 58&quot;</div>
   </td>
   <td>
     <div>129° 04' 28&quot;</div>
@@ -13186,7 +13179,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>5</div>
   </td>
   <td>
-    <div>‑24° 53' 09&quot;</div>
+    <div>-24° 53' 09&quot;</div>
   </td>
   <td>
     <div>129° 04' 28&quot;</div>
@@ -13197,7 +13190,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>6</div>
   </td>
   <td>
-    <div>‑24° 53' 09&quot;</div>
+    <div>-24° 53' 09&quot;</div>
   </td>
   <td>
     <div>129° 04' 15&quot;</div>
@@ -13208,7 +13201,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>7</div>
   </td>
   <td>
-    <div>‑24° 52' 32&quot;</div>
+    <div>-24° 52' 32&quot;</div>
   </td>
   <td>
     <div>129° 04' 15&quot;</div>
@@ -13219,7 +13212,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>8</div>
   </td>
   <td>
-    <div>‑24° 52' 32&quot;</div>
+    <div>-24° 52' 32&quot;</div>
   </td>
   <td>
     <div>129° 04' 01&quot;</div>
@@ -13230,7 +13223,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>9</div>
   </td>
   <td>
-    <div>‑24° 52' 15&quot;</div>
+    <div>-24° 52' 15&quot;</div>
   </td>
   <td>
     <div>129° 04' 01&quot;</div>
@@ -13241,7 +13234,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>10</div>
   </td>
   <td>
-    <div>‑24° 52' 15&quot;</div>
+    <div>-24° 52' 15&quot;</div>
   </td>
   <td>
     <div>129° 04' 29&quot;</div>
@@ -13252,7 +13245,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>11</div>
   </td>
   <td>
-    <div>‑24° 51' 58&quot;</div>
+    <div>-24° 51' 58&quot;</div>
   </td>
   <td>
     <div>129° 04' 29&quot;</div>
@@ -13263,7 +13256,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>12</div>
   </td>
   <td>
-    <div>‑24° 51' 58&quot;</div>
+    <div>-24° 51' 58&quot;</div>
   </td>
   <td>
     <div>129° 05' 15&quot;</div>
@@ -13274,7 +13267,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>13</div>
   </td>
   <td>
-    <div>‑24° 51' 45&quot;</div>
+    <div>-24° 51' 45&quot;</div>
   </td>
   <td>
     <div>129° 05' 15&quot;</div>
@@ -13285,7 +13278,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>14</div>
   </td>
   <td>
-    <div>‑24° 51' 45&quot;</div>
+    <div>-24° 51' 45&quot;</div>
   </td>
   <td>
     <div>129° 05' 28&quot;</div>
@@ -13335,7 +13328,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>15</div>
   </td>
   <td>
-    <div>‑24° 53' 11&quot;</div>
+    <div>-24° 53' 11&quot;</div>
   </td>
   <td>
     <div>129° 04' 41&quot;</div>
@@ -13346,7 +13339,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>16</div>
   </td>
   <td>
-    <div>‑24° 53' 02&quot;</div>
+    <div>-24° 53' 02&quot;</div>
   </td>
   <td>
     <div>129° 04' 41&quot;</div>
@@ -13357,7 +13350,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>17</div>
   </td>
   <td>
-    <div>‑24° 53' 02&quot;</div>
+    <div>-24° 53' 02&quot;</div>
   </td>
   <td>
     <div>129° 04' 52&quot;</div>
@@ -13368,7 +13361,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>18</div>
   </td>
   <td>
-    <div>‑24° 53' 11&quot;</div>
+    <div>-24° 53' 11&quot;</div>
   </td>
   <td>
     <div>129° 04' 52&quot;</div>
@@ -13418,7 +13411,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>19</div>
   </td>
   <td>
-    <div>‑24° 53' 18&quot;</div>
+    <div>-24° 53' 18&quot;</div>
   </td>
   <td>
     <div>129° 03' 48&quot;</div>
@@ -13429,7 +13422,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>20</div>
   </td>
   <td>
-    <div>‑24° 53' 10&quot;</div>
+    <div>-24° 53' 10&quot;</div>
   </td>
   <td>
     <div>129° 03' 48&quot;</div>
@@ -13440,7 +13433,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>21</div>
   </td>
   <td>
-    <div>‑24° 53' 10&quot;</div>
+    <div>-24° 53' 10&quot;</div>
   </td>
   <td>
     <div>129° 03' 57&quot;</div>
@@ -13451,7 +13444,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>22</div>
   </td>
   <td>
-    <div>‑24° 53' 18&quot;</div>
+    <div>-24° 53' 18&quot;</div>
   </td>
   <td>
     <div>129° 03' 57&quot;</div>
@@ -13501,7 +13494,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>23</div>
   </td>
   <td>
-    <div>‑24° 53' 42&quot;</div>
+    <div>-24° 53' 42&quot;</div>
   </td>
   <td>
     <div>129° 03' 40&quot;</div>
@@ -13512,7 +13505,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>24</div>
   </td>
   <td>
-    <div>‑24° 53' 33&quot;</div>
+    <div>-24° 53' 33&quot;</div>
   </td>
   <td>
     <div>129° 03' 40&quot;</div>
@@ -13523,7 +13516,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>25</div>
   </td>
   <td>
-    <div>‑24° 53' 33&quot;</div>
+    <div>-24° 53' 33&quot;</div>
   </td>
   <td>
     <div>129° 03' 51&quot;</div>
@@ -13534,7 +13527,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>26</div>
   </td>
   <td>
-    <div>‑24° 53' 42&quot;</div>
+    <div>-24° 53' 42&quot;</div>
   </td>
   <td>
     <div>129° 03' 51&quot;</div>
@@ -13584,7 +13577,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>27</div>
   </td>
   <td>
-    <div>‑24° 51' 39&quot;</div>
+    <div>-24° 51' 39&quot;</div>
   </td>
   <td>
     <div>129° 03' 25&quot;</div>
@@ -13595,7 +13588,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>28</div>
   </td>
   <td>
-    <div>‑24° 51' 25&quot;</div>
+    <div>-24° 51' 25&quot;</div>
   </td>
   <td>
     <div>129° 03' 25&quot;</div>
@@ -13606,7 +13599,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>29</div>
   </td>
   <td>
-    <div>‑24° 51' 25&quot;</div>
+    <div>-24° 51' 25&quot;</div>
   </td>
   <td>
     <div>129° 03' 43&quot;</div>
@@ -13617,7 +13610,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>30</div>
   </td>
   <td>
-    <div>‑24° 51' 39&quot;</div>
+    <div>-24° 51' 39&quot;</div>
   </td>
   <td>
     <div>129° 03' 43&quot;</div>
@@ -13667,7 +13660,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>31</div>
   </td>
   <td>
-    <div>‑24° 51' 58&quot;</div>
+    <div>-24° 51' 58&quot;</div>
   </td>
   <td>
     <div>129° 06' 00&quot;</div>
@@ -13678,7 +13671,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>32</div>
   </td>
   <td>
-    <div>‑24° 51' 39&quot;</div>
+    <div>-24° 51' 39&quot;</div>
   </td>
   <td>
     <div>129° 06' 00&quot;</div>
@@ -13689,7 +13682,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>33</div>
   </td>
   <td>
-    <div>‑24° 51' 39&quot;</div>
+    <div>-24° 51' 39&quot;</div>
   </td>
   <td>
     <div>129° 06' 15&quot;</div>
@@ -13700,7 +13693,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>34</div>
   </td>
   <td>
-    <div>‑24° 51' 58&quot;</div>
+    <div>-24° 51' 58&quot;</div>
   </td>
   <td>
     <div>129° 06' 15&quot;</div>
@@ -13750,7 +13743,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>35</div>
   </td>
   <td>
-    <div>‑24° 51' 43&quot;</div>
+    <div>-24° 51' 43&quot;</div>
   </td>
   <td>
     <div>129° 06' 44&quot;</div>
@@ -13761,7 +13754,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>36</div>
   </td>
   <td>
-    <div>‑24° 51' 27&quot;</div>
+    <div>-24° 51' 27&quot;</div>
   </td>
   <td>
     <div>129° 06' 44&quot;</div>
@@ -13772,7 +13765,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>37</div>
   </td>
   <td>
-    <div>‑24° 51' 27&quot;</div>
+    <div>-24° 51' 27&quot;</div>
   </td>
   <td>
     <div>129° 07' 54&quot;</div>
@@ -13783,7 +13776,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>38</div>
   </td>
   <td>
-    <div>‑24° 51' 43&quot;</div>
+    <div>-24° 51' 43&quot;</div>
   </td>
   <td>
     <div>129° 07' 54&quot;</div>
@@ -13837,7 +13830,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>1</div>
   </td>
   <td>
-    <div>‑23° 16' 27&quot;</div>
+    <div>-23° 16' 27&quot;</div>
   </td>
   <td>
     <div>129° 22' 31&quot;</div>
@@ -13848,7 +13841,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>2</div>
   </td>
   <td>
-    <div>‑23° 16' 27&quot;</div>
+    <div>-23° 16' 27&quot;</div>
   </td>
   <td>
     <div>129° 22' 06&quot;</div>
@@ -13859,7 +13852,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>3</div>
   </td>
   <td>
-    <div>‑23° 15' 46&quot;</div>
+    <div>-23° 15' 46&quot;</div>
   </td>
   <td>
     <div>129° 22' 06&quot;</div>
@@ -13870,7 +13863,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>4</div>
   </td>
   <td>
-    <div>‑23° 15' 46&quot;</div>
+    <div>-23° 15' 46&quot;</div>
   </td>
   <td>
     <div>129° 23' 30&quot;</div>
@@ -13881,7 +13874,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>5</div>
   </td>
   <td>
-    <div>‑23° 15' 43&quot;</div>
+    <div>-23° 15' 43&quot;</div>
   </td>
   <td>
     <div>129° 23' 30&quot;</div>
@@ -13892,7 +13885,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>6</div>
   </td>
   <td>
-    <div>‑23° 15' 43&quot;</div>
+    <div>-23° 15' 43&quot;</div>
   </td>
   <td>
     <div>129° 23' 43&quot;</div>
@@ -13903,7 +13896,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>7</div>
   </td>
   <td>
-    <div>‑23° 16' 03&quot;</div>
+    <div>-23° 16' 03&quot;</div>
   </td>
   <td>
     <div>129° 23' 43&quot;</div>
@@ -13914,7 +13907,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>8</div>
   </td>
   <td>
-    <div>‑23° 16' 03&quot;</div>
+    <div>-23° 16' 03&quot;</div>
   </td>
   <td>
     <div>129° 23' 54&quot;</div>
@@ -13925,7 +13918,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>9</div>
   </td>
   <td>
-    <div>‑23° 17' 14&quot;</div>
+    <div>-23° 17' 14&quot;</div>
   </td>
   <td>
     <div>129° 23' 54&quot;</div>
@@ -13936,7 +13929,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>10</div>
   </td>
   <td>
-    <div>‑23° 17' 14&quot;</div>
+    <div>-23° 17' 14&quot;</div>
   </td>
   <td>
     <div>129° 23' 12&quot;</div>
@@ -13947,7 +13940,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>11</div>
   </td>
   <td>
-    <div>‑23° 17' 05&quot;</div>
+    <div>-23° 17' 05&quot;</div>
   </td>
   <td>
     <div>129° 23' 12&quot;</div>
@@ -13958,7 +13951,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>12</div>
   </td>
   <td>
-    <div>‑23° 17' 05&quot;</div>
+    <div>-23° 17' 05&quot;</div>
   </td>
   <td>
     <div>129° 22' 31&quot;</div>
@@ -14008,7 +14001,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>13</div>
   </td>
   <td>
-    <div>‑23° 17' 31&quot;</div>
+    <div>-23° 17' 31&quot;</div>
   </td>
   <td>
     <div>129° 23' 21&quot;</div>
@@ -14019,7 +14012,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>14</div>
   </td>
   <td>
-    <div>‑23° 17' 23&quot;</div>
+    <div>-23° 17' 23&quot;</div>
   </td>
   <td>
     <div>129° 23' 21&quot;</div>
@@ -14030,7 +14023,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>15</div>
   </td>
   <td>
-    <div>‑23° 17' 23&quot;</div>
+    <div>-23° 17' 23&quot;</div>
   </td>
   <td>
     <div>129° 23' 29&quot;</div>
@@ -14041,7 +14034,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>16</div>
   </td>
   <td>
-    <div>‑23° 17' 31&quot;</div>
+    <div>-23° 17' 31&quot;</div>
   </td>
   <td>
     <div>129° 23' 29&quot;</div>
@@ -14091,7 +14084,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>17</div>
   </td>
   <td>
-    <div>‑23° 15' 36&quot;</div>
+    <div>-23° 15' 36&quot;</div>
   </td>
   <td>
     <div>129° 23' 08&quot;</div>
@@ -14102,7 +14095,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>18</div>
   </td>
   <td>
-    <div>‑23° 14' 58&quot;</div>
+    <div>-23° 14' 58&quot;</div>
   </td>
   <td>
     <div>129° 23' 08&quot;</div>
@@ -14113,7 +14106,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>19</div>
   </td>
   <td>
-    <div>‑23° 14' 58&quot;</div>
+    <div>-23° 14' 58&quot;</div>
   </td>
   <td>
     <div>129° 23' 54&quot;</div>
@@ -14124,7 +14117,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>20</div>
   </td>
   <td>
-    <div>‑23° 15' 36&quot;</div>
+    <div>-23° 15' 36&quot;</div>
   </td>
   <td>
     <div>129° 23' 54&quot;</div>
@@ -14178,7 +14171,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>1</div>
   </td>
   <td>
-    <div>‑18° 20' 39&quot;</div>
+    <div>-18° 20' 39&quot;</div>
   </td>
   <td>
     <div>130° 39' 42&quot;</div>
@@ -14189,7 +14182,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>2</div>
   </td>
   <td>
-    <div>‑18° 20' 39&quot;</div>
+    <div>-18° 20' 39&quot;</div>
   </td>
   <td>
     <div>130° 39' 20&quot;</div>
@@ -14200,7 +14193,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>3</div>
   </td>
   <td>
-    <div>‑18° 20' 34&quot;</div>
+    <div>-18° 20' 34&quot;</div>
   </td>
   <td>
     <div>130° 39' 20&quot;</div>
@@ -14211,7 +14204,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>4</div>
   </td>
   <td>
-    <div>‑18° 20' 34&quot;</div>
+    <div>-18° 20' 34&quot;</div>
   </td>
   <td>
     <div>130° 38' 56&quot;</div>
@@ -14222,7 +14215,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>5</div>
   </td>
   <td>
-    <div>‑18° 20' 45&quot;</div>
+    <div>-18° 20' 45&quot;</div>
   </td>
   <td>
     <div>130° 38' 56&quot;</div>
@@ -14233,7 +14226,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>6</div>
   </td>
   <td>
-    <div>‑18° 20' 45&quot;</div>
+    <div>-18° 20' 45&quot;</div>
   </td>
   <td>
     <div>130° 37' 37&quot;</div>
@@ -14244,7 +14237,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>7</div>
   </td>
   <td>
-    <div>‑18° 19' 24&quot;</div>
+    <div>-18° 19' 24&quot;</div>
   </td>
   <td>
     <div>130° 37' 37&quot;</div>
@@ -14255,7 +14248,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>8</div>
   </td>
   <td>
-    <div>‑18° 19' 24&quot;</div>
+    <div>-18° 19' 24&quot;</div>
   </td>
   <td>
     <div>130° 37' 46&quot;</div>
@@ -14266,7 +14259,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>9</div>
   </td>
   <td>
-    <div>‑18° 19' 29&quot;</div>
+    <div>-18° 19' 29&quot;</div>
   </td>
   <td>
     <div>130° 37' 46&quot;</div>
@@ -14277,7 +14270,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>10</div>
   </td>
   <td>
-    <div>‑18° 19' 29&quot;</div>
+    <div>-18° 19' 29&quot;</div>
   </td>
   <td>
     <div>130° 37' 53&quot;</div>
@@ -14288,7 +14281,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>11</div>
   </td>
   <td>
-    <div>‑18° 19' 39&quot;</div>
+    <div>-18° 19' 39&quot;</div>
   </td>
   <td>
     <div>130° 37' 53&quot;</div>
@@ -14299,7 +14292,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>12</div>
   </td>
   <td>
-    <div>‑18° 19' 39&quot;</div>
+    <div>-18° 19' 39&quot;</div>
   </td>
   <td>
     <div>130° 38' 07&quot;</div>
@@ -14310,7 +14303,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>13</div>
   </td>
   <td>
-    <div>‑18° 19' 43&quot;</div>
+    <div>-18° 19' 43&quot;</div>
   </td>
   <td>
     <div>130° 38' 07&quot;</div>
@@ -14321,7 +14314,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>14</div>
   </td>
   <td>
-    <div>‑18° 19' 43&quot;</div>
+    <div>-18° 19' 43&quot;</div>
   </td>
   <td>
     <div>130° 38' 57&quot;</div>
@@ -14332,7 +14325,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>15</div>
   </td>
   <td>
-    <div>‑18° 20' 02&quot;</div>
+    <div>-18° 20' 02&quot;</div>
   </td>
   <td>
     <div>130° 38' 57&quot;</div>
@@ -14343,7 +14336,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>16</div>
   </td>
   <td>
-    <div>‑18° 20' 02&quot;</div>
+    <div>-18° 20' 02&quot;</div>
   </td>
   <td>
     <div>130° 39' 42&quot;</div>
@@ -14393,7 +14386,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>17</div>
   </td>
   <td>
-    <div>‑18° 19' 40&quot;</div>
+    <div>-18° 19' 40&quot;</div>
   </td>
   <td>
     <div>130° 37' 03&quot;</div>
@@ -14404,7 +14397,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>18</div>
   </td>
   <td>
-    <div>‑18° 19' 31&quot;</div>
+    <div>-18° 19' 31&quot;</div>
   </td>
   <td>
     <div>130° 37' 03&quot;</div>
@@ -14415,7 +14408,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>19</div>
   </td>
   <td>
-    <div>‑18° 19' 31&quot;</div>
+    <div>-18° 19' 31&quot;</div>
   </td>
   <td>
     <div>130° 37' 14&quot;</div>
@@ -14426,7 +14419,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>20</div>
   </td>
   <td>
-    <div>‑18° 19' 40&quot;</div>
+    <div>-18° 19' 40&quot;</div>
   </td>
   <td>
     <div>130° 37' 14&quot;</div>
@@ -14476,7 +14469,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>21</div>
   </td>
   <td>
-    <div>‑18° 19' 16&quot;</div>
+    <div>-18° 19' 16&quot;</div>
   </td>
   <td>
     <div>130° 37' 22&quot;</div>
@@ -14487,7 +14480,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>22</div>
   </td>
   <td>
-    <div>‑18° 19' 07&quot;</div>
+    <div>-18° 19' 07&quot;</div>
   </td>
   <td>
     <div>130° 37' 22&quot;</div>
@@ -14498,7 +14491,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>23</div>
   </td>
   <td>
-    <div>‑18° 19' 07&quot;</div>
+    <div>-18° 19' 07&quot;</div>
   </td>
   <td>
     <div>130° 37' 31&quot;</div>
@@ -14509,7 +14502,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>24</div>
   </td>
   <td>
-    <div>‑18° 19' 16&quot;</div>
+    <div>-18° 19' 16&quot;</div>
   </td>
   <td>
     <div>130° 37' 31&quot;</div>
@@ -14559,7 +14552,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>25</div>
   </td>
   <td>
-    <div>‑18° 18' 59&quot;</div>
+    <div>-18° 18' 59&quot;</div>
   </td>
   <td>
     <div>130° 37' 13&quot;</div>
@@ -14570,7 +14563,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>26</div>
   </td>
   <td>
-    <div>‑18° 18' 50&quot;</div>
+    <div>-18° 18' 50&quot;</div>
   </td>
   <td>
     <div>130° 37' 13&quot;</div>
@@ -14581,7 +14574,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>27</div>
   </td>
   <td>
-    <div>‑18° 18' 50&quot;</div>
+    <div>-18° 18' 50&quot;</div>
   </td>
   <td>
     <div>130° 37' 22&quot;</div>
@@ -14592,7 +14585,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>28</div>
   </td>
   <td>
-    <div>‑18° 18' 59&quot;</div>
+    <div>-18° 18' 59&quot;</div>
   </td>
   <td>
     <div>130° 37' 22&quot;</div>
@@ -14642,7 +14635,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>29</div>
   </td>
   <td>
-    <div>‑18° 18' 47&quot;</div>
+    <div>-18° 18' 47&quot;</div>
   </td>
   <td>
     <div>130° 36' 53&quot;</div>
@@ -14653,7 +14646,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>30</div>
   </td>
   <td>
-    <div>‑18° 18' 34&quot;</div>
+    <div>-18° 18' 34&quot;</div>
   </td>
   <td>
     <div>130° 36' 53&quot;</div>
@@ -14664,7 +14657,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>31</div>
   </td>
   <td>
-    <div>‑18° 18' 34&quot;</div>
+    <div>-18° 18' 34&quot;</div>
   </td>
   <td>
     <div>130° 37' 07&quot;</div>
@@ -14675,7 +14668,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>32</div>
   </td>
   <td>
-    <div>‑18° 18' 47&quot;</div>
+    <div>-18° 18' 47&quot;</div>
   </td>
   <td>
     <div>130° 37' 07&quot;</div>
@@ -14725,7 +14718,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>33</div>
   </td>
   <td>
-    <div>‑18° 19' 03&quot;</div>
+    <div>-18° 19' 03&quot;</div>
   </td>
   <td>
     <div>130° 38' 30&quot;</div>
@@ -14736,7 +14729,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>34</div>
   </td>
   <td>
-    <div>‑18° 18' 46&quot;</div>
+    <div>-18° 18' 46&quot;</div>
   </td>
   <td>
     <div>130° 38' 30&quot;</div>
@@ -14747,7 +14740,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>35</div>
   </td>
   <td>
-    <div>‑18° 18' 46&quot;</div>
+    <div>-18° 18' 46&quot;</div>
   </td>
   <td>
     <div>130° 39' 00&quot;</div>
@@ -14758,7 +14751,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>36</div>
   </td>
   <td>
-    <div>‑18° 19' 03&quot;</div>
+    <div>-18° 19' 03&quot;</div>
   </td>
   <td>
     <div>130° 39' 00&quot;</div>
@@ -14808,7 +14801,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>37</div>
   </td>
   <td>
-    <div>‑18° 19' 26&quot;</div>
+    <div>-18° 19' 26&quot;</div>
   </td>
   <td>
     <div>130° 39' 03&quot;</div>
@@ -14819,7 +14812,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>38</div>
   </td>
   <td>
-    <div>‑18° 19' 15&quot;</div>
+    <div>-18° 19' 15&quot;</div>
   </td>
   <td>
     <div>130° 39' 03&quot;</div>
@@ -14830,7 +14823,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>39</div>
   </td>
   <td>
-    <div>‑18° 19' 15&quot;</div>
+    <div>-18° 19' 15&quot;</div>
   </td>
   <td>
     <div>130° 39' 15&quot;</div>
@@ -14841,14 +14834,14 @@ _Note:       See paragraph 70A(2)(a)._
     <div>40</div>
   </td>
   <td>
-    <div>‑18° 19' 26&quot;</div>
+    <div>-18° 19' 26&quot;</div>
   </td>
   <td>
     <div>130° 39' 15&quot;</div>
   </td>
 </tr></table>
 
-##### <a id="22"></a>22  Maningrida
+##### <a id="22"></a>22  Maningrida
 
                    All that area of land contained within the 5 separate areas of land outlined below having a total area of approximately 10.456 square kilometres, to the extent that it is Aboriginal land within the meaning of paragraph (a) of the definition of **_Aboriginal land_** in subsection 3(1), being:
 
@@ -14895,7 +14888,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>1</div>
   </td>
   <td>
-    <div>‑12° 04' 53&quot;</div>
+    <div>-12° 04' 53&quot;</div>
   </td>
   <td>
     <div>134° 14' 22&quot;</div>
@@ -14906,7 +14899,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>2</div>
   </td>
   <td>
-    <div>‑12° 04' 33&quot;</div>
+    <div>-12° 04' 33&quot;</div>
   </td>
   <td>
     <div>134° 14' 10&quot;</div>
@@ -14917,7 +14910,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>3</div>
   </td>
   <td>
-    <div>‑12° 04' 22&quot;</div>
+    <div>-12° 04' 22&quot;</div>
   </td>
   <td>
     <div>134° 14' 28&quot;</div>
@@ -14928,7 +14921,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>4</div>
   </td>
   <td>
-    <div>‑12° 03' 53&quot;</div>
+    <div>-12° 03' 53&quot;</div>
   </td>
   <td>
     <div>134° 14' 10&quot;</div>
@@ -14939,7 +14932,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>5</div>
   </td>
   <td>
-    <div>‑12° 03' 53&quot;</div>
+    <div>-12° 03' 53&quot;</div>
   </td>
   <td>
     <div>134° 12' 48&quot;</div>
@@ -14950,7 +14943,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>6</div>
   </td>
   <td>
-    <div>‑12° 03' 20&quot;</div>
+    <div>-12° 03' 20&quot;</div>
   </td>
   <td>
     <div>134° 12' 48&quot;</div>
@@ -14961,7 +14954,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>7</div>
   </td>
   <td>
-    <div>‑12° 02' 15&quot;</div>
+    <div>-12° 02' 15&quot;</div>
   </td>
   <td>
     <div>134° 13' 44&quot;</div>
@@ -14972,7 +14965,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>8</div>
   </td>
   <td>
-    <div>‑12° 02' 15&quot;</div>
+    <div>-12° 02' 15&quot;</div>
   </td>
   <td>
     <div>134° 13' 53&quot;</div>
@@ -14983,7 +14976,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>9</div>
   </td>
   <td>
-    <div>‑12° 02' 22&quot;</div>
+    <div>-12° 02' 22&quot;</div>
   </td>
   <td>
     <div>134° 13' 53&quot;</div>
@@ -14994,7 +14987,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>10</div>
   </td>
   <td>
-    <div>‑12° 02' 22&quot;</div>
+    <div>-12° 02' 22&quot;</div>
   </td>
   <td>
     <div>134° 14' 12&quot;</div>
@@ -15005,7 +14998,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>11</div>
   </td>
   <td>
-    <div>‑12° 02' 55&quot;</div>
+    <div>-12° 02' 55&quot;</div>
   </td>
   <td>
     <div>134° 14' 12&quot;</div>
@@ -15016,7 +15009,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>12</div>
   </td>
   <td>
-    <div>‑12° 02' 55&quot;</div>
+    <div>-12° 02' 55&quot;</div>
   </td>
   <td>
     <div>134° 14' 36&quot;</div>
@@ -15027,7 +15020,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>13</div>
   </td>
   <td>
-    <div>‑12° 03' 56&quot;</div>
+    <div>-12° 03' 56&quot;</div>
   </td>
   <td>
     <div>134° 14' 36&quot;</div>
@@ -15038,7 +15031,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>14</div>
   </td>
   <td>
-    <div>‑12° 04' 31&quot;</div>
+    <div>-12° 04' 31&quot;</div>
   </td>
   <td>
     <div>134° 14' 57&quot;</div>
@@ -15088,7 +15081,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>15</div>
   </td>
   <td>
-    <div>‑12° 04' 13&quot;</div>
+    <div>-12° 04' 13&quot;</div>
   </td>
   <td>
     <div>134° 12' 43&quot;</div>
@@ -15099,7 +15092,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>16</div>
   </td>
   <td>
-    <div>‑12° 04' 02&quot;</div>
+    <div>-12° 04' 02&quot;</div>
   </td>
   <td>
     <div>134° 12' 43&quot;</div>
@@ -15110,7 +15103,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>17</div>
   </td>
   <td>
-    <div>‑12° 04' 02&quot;</div>
+    <div>-12° 04' 02&quot;</div>
   </td>
   <td>
     <div>134° 12' 55&quot;</div>
@@ -15121,7 +15114,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>18</div>
   </td>
   <td>
-    <div>‑12° 04' 13&quot;</div>
+    <div>-12° 04' 13&quot;</div>
   </td>
   <td>
     <div>134° 12' 55&quot;</div>
@@ -15171,7 +15164,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>19</div>
   </td>
   <td>
-    <div>‑12° 05' 22&quot;</div>
+    <div>-12° 05' 22&quot;</div>
   </td>
   <td>
     <div>134° 13' 46&quot;</div>
@@ -15182,7 +15175,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>20</div>
   </td>
   <td>
-    <div>‑12° 05' 03&quot;</div>
+    <div>-12° 05' 03&quot;</div>
   </td>
   <td>
     <div>134° 13' 46&quot;</div>
@@ -15193,7 +15186,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>21</div>
   </td>
   <td>
-    <div>‑12° 05' 03&quot;</div>
+    <div>-12° 05' 03&quot;</div>
   </td>
   <td>
     <div>134° 14' 11&quot;</div>
@@ -15204,7 +15197,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>22</div>
   </td>
   <td>
-    <div>‑12° 05' 22&quot;</div>
+    <div>-12° 05' 22&quot;</div>
   </td>
   <td>
     <div>134° 14' 11&quot;</div>
@@ -15254,7 +15247,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>23</div>
   </td>
   <td>
-    <div>‑12° 06' 26&quot;</div>
+    <div>-12° 06' 26&quot;</div>
   </td>
   <td>
     <div>134° 15' 29&quot;</div>
@@ -15265,7 +15258,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>24</div>
   </td>
   <td>
-    <div>‑12° 05' 55&quot;</div>
+    <div>-12° 05' 55&quot;</div>
   </td>
   <td>
     <div>134° 15' 29&quot;</div>
@@ -15276,7 +15269,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>25</div>
   </td>
   <td>
-    <div>‑12° 05' 55&quot;</div>
+    <div>-12° 05' 55&quot;</div>
   </td>
   <td>
     <div>134° 16' 04&quot;</div>
@@ -15287,7 +15280,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>26</div>
   </td>
   <td>
-    <div>‑12° 06' 26&quot;</div>
+    <div>-12° 06' 26&quot;</div>
   </td>
   <td>
     <div>134° 16' 04&quot;</div>
@@ -15337,7 +15330,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>27</div>
   </td>
   <td>
-    <div>‑12° 07' 27&quot;</div>
+    <div>-12° 07' 27&quot;</div>
   </td>
   <td>
     <div>134° 16' 28&quot;</div>
@@ -15348,7 +15341,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>28</div>
   </td>
   <td>
-    <div>‑12° 07' 11&quot;</div>
+    <div>-12° 07' 11&quot;</div>
   </td>
   <td>
     <div>134° 16' 28&quot;</div>
@@ -15359,7 +15352,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>29</div>
   </td>
   <td>
-    <div>‑12° 07' 11&quot;</div>
+    <div>-12° 07' 11&quot;</div>
   </td>
   <td>
     <div>134° 16' 46&quot;</div>
@@ -15370,7 +15363,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>30</div>
   </td>
   <td>
-    <div>‑12° 07' 27&quot;</div>
+    <div>-12° 07' 27&quot;</div>
   </td>
   <td>
     <div>134° 16' 46&quot;</div>
@@ -15424,7 +15417,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>1</div>
   </td>
   <td>
-    <div>‑14° 16' 19&quot;</div>
+    <div>-14° 16' 19&quot;</div>
   </td>
   <td>
     <div>132° 49' 46&quot;</div>
@@ -15435,7 +15428,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>2</div>
   </td>
   <td>
-    <div>‑14° 16' 19&quot;</div>
+    <div>-14° 16' 19&quot;</div>
   </td>
   <td>
     <div>132° 49' 17&quot;</div>
@@ -15446,7 +15439,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>3</div>
   </td>
   <td>
-    <div>‑14° 15' 38&quot;</div>
+    <div>-14° 15' 38&quot;</div>
   </td>
   <td>
     <div>132° 49' 17&quot;</div>
@@ -15457,7 +15450,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>4</div>
   </td>
   <td>
-    <div>‑14° 15' 38&quot;</div>
+    <div>-14° 15' 38&quot;</div>
   </td>
   <td>
     <div>132° 50' 05&quot;</div>
@@ -15468,7 +15461,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>5</div>
   </td>
   <td>
-    <div>‑14° 15' 58&quot;</div>
+    <div>-14° 15' 58&quot;</div>
   </td>
   <td>
     <div>132° 50' 05&quot;</div>
@@ -15479,7 +15472,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>6</div>
   </td>
   <td>
-    <div>‑14° 16' 02&quot;</div>
+    <div>-14° 16' 02&quot;</div>
   </td>
   <td>
     <div>132° 50' 13&quot;</div>
@@ -15490,7 +15483,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>7</div>
   </td>
   <td>
-    <div>‑14° 16' 05&quot;</div>
+    <div>-14° 16' 05&quot;</div>
   </td>
   <td>
     <div>132° 50' 12&quot;</div>
@@ -15501,7 +15494,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>8</div>
   </td>
   <td>
-    <div>‑14° 16' 23&quot;</div>
+    <div>-14° 16' 23&quot;</div>
   </td>
   <td>
     <div>132° 50' 12&quot;</div>
@@ -15512,7 +15505,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>9</div>
   </td>
   <td>
-    <div>‑14° 16' 23&quot;</div>
+    <div>-14° 16' 23&quot;</div>
   </td>
   <td>
     <div>132° 50' 02&quot;</div>
@@ -15523,7 +15516,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>10</div>
   </td>
   <td>
-    <div>‑14° 16' 30&quot;</div>
+    <div>-14° 16' 30&quot;</div>
   </td>
   <td>
     <div>132° 50' 02&quot;</div>
@@ -15534,7 +15527,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>11</div>
   </td>
   <td>
-    <div>‑14° 16' 30&quot;</div>
+    <div>-14° 16' 30&quot;</div>
   </td>
   <td>
     <div>132° 49' 55&quot;</div>
@@ -15545,7 +15538,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>12</div>
   </td>
   <td>
-    <div>‑14° 16' 34&quot;</div>
+    <div>-14° 16' 34&quot;</div>
   </td>
   <td>
     <div>132° 49' 55&quot;</div>
@@ -15556,7 +15549,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>13</div>
   </td>
   <td>
-    <div>‑14° 16' 34&quot;</div>
+    <div>-14° 16' 34&quot;</div>
   </td>
   <td>
     <div>132° 49' 46&quot;</div>
@@ -15606,7 +15599,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>14</div>
   </td>
   <td>
-    <div>‑14° 16' 54&quot;</div>
+    <div>-14° 16' 54&quot;</div>
   </td>
   <td>
     <div>132° 49' 59&quot;</div>
@@ -15617,7 +15610,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>15</div>
   </td>
   <td>
-    <div>‑14° 16' 46&quot;</div>
+    <div>-14° 16' 46&quot;</div>
   </td>
   <td>
     <div>132° 49' 59&quot;</div>
@@ -15628,7 +15621,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>16</div>
   </td>
   <td>
-    <div>‑14° 16' 46&quot;</div>
+    <div>-14° 16' 46&quot;</div>
   </td>
   <td>
     <div>132° 50' 09&quot;</div>
@@ -15639,7 +15632,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>17</div>
   </td>
   <td>
-    <div>‑14° 16' 54&quot;</div>
+    <div>-14° 16' 54&quot;</div>
   </td>
   <td>
     <div>132° 50' 09&quot;</div>
@@ -15693,7 +15686,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>1</div>
   </td>
   <td>
-    <div>‑11° 24' 43&quot;</div>
+    <div>-11° 24' 43&quot;</div>
   </td>
   <td>
     <div>130° 39' 57&quot;</div>
@@ -15704,7 +15697,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>2</div>
   </td>
   <td>
-    <div>‑11° 25' 56&quot;</div>
+    <div>-11° 25' 56&quot;</div>
   </td>
   <td>
     <div>130° 40' 54&quot;</div>
@@ -15715,7 +15708,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>3</div>
   </td>
   <td>
-    <div>‑11° 25' 56&quot;</div>
+    <div>-11° 25' 56&quot;</div>
   </td>
   <td>
     <div>130° 40' 26&quot;</div>
@@ -15726,7 +15719,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>4</div>
   </td>
   <td>
-    <div>‑11° 26' 05&quot;</div>
+    <div>-11° 26' 05&quot;</div>
   </td>
   <td>
     <div>130° 40' 26&quot;</div>
@@ -15737,7 +15730,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>5</div>
   </td>
   <td>
-    <div>‑11° 26' 05&quot;</div>
+    <div>-11° 26' 05&quot;</div>
   </td>
   <td>
     <div>130° 40' 15&quot;</div>
@@ -15748,7 +15741,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>6</div>
   </td>
   <td>
-    <div>‑11° 25' 56&quot;</div>
+    <div>-11° 25' 56&quot;</div>
   </td>
   <td>
     <div>130° 40' 15&quot;</div>
@@ -15759,7 +15752,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>7</div>
   </td>
   <td>
-    <div>‑11° 25' 56&quot;</div>
+    <div>-11° 25' 56&quot;</div>
   </td>
   <td>
     <div>130° 39' 54&quot;</div>
@@ -15770,7 +15763,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>8</div>
   </td>
   <td>
-    <div>‑11° 25' 36&quot;</div>
+    <div>-11° 25' 36&quot;</div>
   </td>
   <td>
     <div>130° 39' 54&quot;</div>
@@ -15781,7 +15774,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>9</div>
   </td>
   <td>
-    <div>‑11° 25' 36&quot;</div>
+    <div>-11° 25' 36&quot;</div>
   </td>
   <td>
     <div>130° 39' 19&quot;</div>
@@ -15792,7 +15785,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>10</div>
   </td>
   <td>
-    <div>‑11° 24' 37&quot;</div>
+    <div>-11° 24' 37&quot;</div>
   </td>
   <td>
     <div>130° 38' 03&quot;</div>
@@ -15803,7 +15796,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>11</div>
   </td>
   <td>
-    <div>‑11° 24' 22&quot;</div>
+    <div>-11° 24' 22&quot;</div>
   </td>
   <td>
     <div>130° 38' 15&quot;</div>
@@ -15814,7 +15807,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>12</div>
   </td>
   <td>
-    <div>‑11° 25' 03&quot;</div>
+    <div>-11° 25' 03&quot;</div>
   </td>
   <td>
     <div>130° 39' 07&quot;</div>
@@ -15825,7 +15818,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>13</div>
   </td>
   <td>
-    <div>‑11° 25' 03&quot;</div>
+    <div>-11° 25' 03&quot;</div>
   </td>
   <td>
     <div>130° 39' 54&quot;</div>
@@ -15836,7 +15829,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>14</div>
   </td>
   <td>
-    <div>‑11° 24' 43&quot;</div>
+    <div>-11° 24' 43&quot;</div>
   </td>
   <td>
     <div>130° 39' 54&quot;</div>
@@ -15886,7 +15879,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>15</div>
   </td>
   <td>
-    <div>‑11° 25' 49&quot;</div>
+    <div>-11° 25' 49&quot;</div>
   </td>
   <td>
     <div>130° 39' 34&quot;</div>
@@ -15897,7 +15890,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>16</div>
   </td>
   <td>
-    <div>‑11° 25' 49&quot;</div>
+    <div>-11° 25' 49&quot;</div>
   </td>
   <td>
     <div>130° 39' 44&quot;</div>
@@ -15908,7 +15901,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>17</div>
   </td>
   <td>
-    <div>‑11° 26' 04&quot;</div>
+    <div>-11° 26' 04&quot;</div>
   </td>
   <td>
     <div>130° 39' 44&quot;</div>
@@ -15919,7 +15912,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>18</div>
   </td>
   <td>
-    <div>‑11° 26' 04&quot;</div>
+    <div>-11° 26' 04&quot;</div>
   </td>
   <td>
     <div>130° 39' 34&quot;</div>
@@ -15969,7 +15962,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>19</div>
   </td>
   <td>
-    <div>‑11° 27' 04&quot;</div>
+    <div>-11° 27' 04&quot;</div>
   </td>
   <td>
     <div>130° 39' 57&quot;</div>
@@ -15980,7 +15973,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>20</div>
   </td>
   <td>
-    <div>‑11° 26' 34&quot;</div>
+    <div>-11° 26' 34&quot;</div>
   </td>
   <td>
     <div>130° 39' 57&quot;</div>
@@ -15991,7 +15984,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>21</div>
   </td>
   <td>
-    <div>‑11° 26' 34&quot;</div>
+    <div>-11° 26' 34&quot;</div>
   </td>
   <td>
     <div>130° 40' 18&quot;</div>
@@ -16002,7 +15995,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>22</div>
   </td>
   <td>
-    <div>‑11° 27' 04&quot;</div>
+    <div>-11° 27' 04&quot;</div>
   </td>
   <td>
     <div>130° 40' 18&quot;</div>
@@ -16056,7 +16049,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>1</div>
   </td>
   <td>
-    <div>‑12° 06' 18&quot;</div>
+    <div>-12° 06' 18&quot;</div>
   </td>
   <td>
     <div>134° 54' 23&quot;</div>
@@ -16067,7 +16060,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>2</div>
   </td>
   <td>
-    <div>‑12° 06' 18&quot;</div>
+    <div>-12° 06' 18&quot;</div>
   </td>
   <td>
     <div>134° 53' 39&quot;</div>
@@ -16078,7 +16071,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>3</div>
   </td>
   <td>
-    <div>‑12° 06' 34&quot;</div>
+    <div>-12° 06' 34&quot;</div>
   </td>
   <td>
     <div>134° 53' 39&quot;</div>
@@ -16089,7 +16082,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>4</div>
   </td>
   <td>
-    <div>‑12° 06' 34&quot;</div>
+    <div>-12° 06' 34&quot;</div>
   </td>
   <td>
     <div>134° 53' 07&quot;</div>
@@ -16100,7 +16093,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>5</div>
   </td>
   <td>
-    <div>‑12° 05' 40&quot;</div>
+    <div>-12° 05' 40&quot;</div>
   </td>
   <td>
     <div>134° 53' 07&quot;</div>
@@ -16111,7 +16104,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>6</div>
   </td>
   <td>
-    <div>‑12° 05' 33&quot;</div>
+    <div>-12° 05' 33&quot;</div>
   </td>
   <td>
     <div>134° 52' 53&quot;</div>
@@ -16122,7 +16115,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>7</div>
   </td>
   <td>
-    <div>‑12° 05' 15&quot;</div>
+    <div>-12° 05' 15&quot;</div>
   </td>
   <td>
     <div>134° 53' 01&quot;</div>
@@ -16133,7 +16126,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>8</div>
   </td>
   <td>
-    <div>‑12° 05' 27&quot;</div>
+    <div>-12° 05' 27&quot;</div>
   </td>
   <td>
     <div>134° 53' 27&quot;</div>
@@ -16144,7 +16137,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>9</div>
   </td>
   <td>
-    <div>‑12° 05' 07&quot;</div>
+    <div>-12° 05' 07&quot;</div>
   </td>
   <td>
     <div>134° 53' 29&quot;</div>
@@ -16155,7 +16148,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>10</div>
   </td>
   <td>
-    <div>‑12° 05' 09&quot;</div>
+    <div>-12° 05' 09&quot;</div>
   </td>
   <td>
     <div>134° 53' 45&quot;</div>
@@ -16166,7 +16159,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>11</div>
   </td>
   <td>
-    <div>‑12° 05' 34&quot;</div>
+    <div>-12° 05' 34&quot;</div>
   </td>
   <td>
     <div>134° 53' 43&quot;</div>
@@ -16177,7 +16170,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>12</div>
   </td>
   <td>
-    <div>‑12° 05' 47&quot;</div>
+    <div>-12° 05' 47&quot;</div>
   </td>
   <td>
     <div>134° 54' 12&quot;</div>
@@ -16188,7 +16181,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>13</div>
   </td>
   <td>
-    <div>‑12° 05' 39&quot;</div>
+    <div>-12° 05' 39&quot;</div>
   </td>
   <td>
     <div>134° 54' 12&quot;</div>
@@ -16199,7 +16192,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>14</div>
   </td>
   <td>
-    <div>‑12° 05' 39&quot;</div>
+    <div>-12° 05' 39&quot;</div>
   </td>
   <td>
     <div>134° 54' 27&quot;</div>
@@ -16210,7 +16203,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>15</div>
   </td>
   <td>
-    <div>‑12° 05' 45&quot;</div>
+    <div>-12° 05' 45&quot;</div>
   </td>
   <td>
     <div>134° 54' 27&quot;</div>
@@ -16221,7 +16214,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>16</div>
   </td>
   <td>
-    <div>‑12° 05' 45&quot;</div>
+    <div>-12° 05' 45&quot;</div>
   </td>
   <td>
     <div>134° 55' 48&quot;</div>
@@ -16232,7 +16225,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>17</div>
   </td>
   <td>
-    <div>‑12° 06' 50&quot;</div>
+    <div>-12° 06' 50&quot;</div>
   </td>
   <td>
     <div>134° 55' 07&quot;</div>
@@ -16243,7 +16236,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>18</div>
   </td>
   <td>
-    <div>‑12° 06' 50&quot;</div>
+    <div>-12° 06' 50&quot;</div>
   </td>
   <td>
     <div>134° 54' 42&quot;</div>
@@ -16254,7 +16247,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>19</div>
   </td>
   <td>
-    <div>‑12° 07' 30&quot;</div>
+    <div>-12° 07' 30&quot;</div>
   </td>
   <td>
     <div>134° 54' 42&quot;</div>
@@ -16265,7 +16258,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>20</div>
   </td>
   <td>
-    <div>‑12° 07' 30&quot;</div>
+    <div>-12° 07' 30&quot;</div>
   </td>
   <td>
     <div>134° 54' 23&quot;</div>
@@ -16315,7 +16308,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>21</div>
   </td>
   <td>
-    <div>‑12° 04' 43&quot;</div>
+    <div>-12° 04' 43&quot;</div>
   </td>
   <td>
     <div>134° 53' 41&quot;</div>
@@ -16326,7 +16319,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>22</div>
   </td>
   <td>
-    <div>‑12° 04' 31&quot;</div>
+    <div>-12° 04' 31&quot;</div>
   </td>
   <td>
     <div>134° 53' 41&quot;</div>
@@ -16337,7 +16330,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>23</div>
   </td>
   <td>
-    <div>‑12° 04' 31&quot;</div>
+    <div>-12° 04' 31&quot;</div>
   </td>
   <td>
     <div>134° 53' 53&quot;</div>
@@ -16348,7 +16341,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>24</div>
   </td>
   <td>
-    <div>‑12° 04' 43&quot;</div>
+    <div>-12° 04' 43&quot;</div>
   </td>
   <td>
     <div>134° 53' 53&quot;</div>
@@ -16398,7 +16391,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>25</div>
   </td>
   <td>
-    <div>‑12° 05' 30&quot;</div>
+    <div>-12° 05' 30&quot;</div>
   </td>
   <td>
     <div>134° 52' 29&quot;</div>
@@ -16409,7 +16402,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>26</div>
   </td>
   <td>
-    <div>‑12° 05' 18&quot;</div>
+    <div>-12° 05' 18&quot;</div>
   </td>
   <td>
     <div>134° 52' 29&quot;</div>
@@ -16420,7 +16413,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>27</div>
   </td>
   <td>
-    <div>‑12° 05' 18&quot;</div>
+    <div>-12° 05' 18&quot;</div>
   </td>
   <td>
     <div>134° 52' 41&quot;</div>
@@ -16431,7 +16424,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>28</div>
   </td>
   <td>
-    <div>‑12° 05' 30&quot;</div>
+    <div>-12° 05' 30&quot;</div>
   </td>
   <td>
     <div>134° 52' 41&quot;</div>
@@ -16483,7 +16476,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>1</div>
   </td>
   <td>
-    <div>‑13° 46' 18&quot;</div>
+    <div>-13° 46' 18&quot;</div>
   </td>
   <td>
     <div>136° 11' 25&quot;</div>
@@ -16494,7 +16487,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>2</div>
   </td>
   <td>
-    <div>‑13° 46' 16&quot;</div>
+    <div>-13° 46' 16&quot;</div>
   </td>
   <td>
     <div>136° 11' 26&quot;</div>
@@ -16505,7 +16498,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>3</div>
   </td>
   <td>
-    <div>‑13° 46' 34&quot;</div>
+    <div>-13° 46' 34&quot;</div>
   </td>
   <td>
     <div>136° 11' 56&quot;</div>
@@ -16516,7 +16509,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>4</div>
   </td>
   <td>
-    <div>‑13° 46' 34&quot;</div>
+    <div>-13° 46' 34&quot;</div>
   </td>
   <td>
     <div>136° 12' 15&quot;</div>
@@ -16527,7 +16520,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>5</div>
   </td>
   <td>
-    <div>‑13° 46' 45&quot;</div>
+    <div>-13° 46' 45&quot;</div>
   </td>
   <td>
     <div>136° 12' 15&quot;</div>
@@ -16538,7 +16531,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>6</div>
   </td>
   <td>
-    <div>‑13° 47' 12&quot;</div>
+    <div>-13° 47' 12&quot;</div>
   </td>
   <td>
     <div>136° 13' 01&quot;</div>
@@ -16549,7 +16542,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>7</div>
   </td>
   <td>
-    <div>‑13° 47' 29&quot;</div>
+    <div>-13° 47' 29&quot;</div>
   </td>
   <td>
     <div>136° 12' 50&quot;</div>
@@ -16560,7 +16553,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>8</div>
   </td>
   <td>
-    <div>‑13° 47' 05&quot;</div>
+    <div>-13° 47' 05&quot;</div>
   </td>
   <td>
     <div>136° 12' 09&quot;</div>
@@ -16571,7 +16564,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>9</div>
   </td>
   <td>
-    <div>‑13° 47' 28&quot;</div>
+    <div>-13° 47' 28&quot;</div>
   </td>
   <td>
     <div>136° 12' 09&quot;</div>
@@ -16582,7 +16575,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>10</div>
   </td>
   <td>
-    <div>‑13° 47' 28&quot;</div>
+    <div>-13° 47' 28&quot;</div>
   </td>
   <td>
     <div>136° 11' 27&quot;</div>
@@ -16636,7 +16629,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>1</div>
   </td>
   <td>
-    <div>‑11° 08' 25&quot;</div>
+    <div>-11° 08' 25&quot;</div>
   </td>
   <td>
     <div>132° 34' 41&quot;</div>
@@ -16647,7 +16640,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>2</div>
   </td>
   <td>
-    <div>‑11° 08' 25&quot;</div>
+    <div>-11° 08' 25&quot;</div>
   </td>
   <td>
     <div>132° 35' 07&quot;</div>
@@ -16658,7 +16651,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>3</div>
   </td>
   <td>
-    <div>‑11° 08' 36&quot;</div>
+    <div>-11° 08' 36&quot;</div>
   </td>
   <td>
     <div>132° 35' 07&quot;</div>
@@ -16669,7 +16662,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>4</div>
   </td>
   <td>
-    <div>‑11° 09' 33&quot;</div>
+    <div>-11° 09' 33&quot;</div>
   </td>
   <td>
     <div>132° 34' 48&quot;</div>
@@ -16680,7 +16673,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>5</div>
   </td>
   <td>
-    <div>‑11° 09' 33&quot;</div>
+    <div>-11° 09' 33&quot;</div>
   </td>
   <td>
     <div>132° 33' 44&quot;</div>
@@ -16691,7 +16684,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>6</div>
   </td>
   <td>
-    <div>‑11° 09' 20&quot;</div>
+    <div>-11° 09' 20&quot;</div>
   </td>
   <td>
     <div>132° 33' 44&quot;</div>
@@ -16702,7 +16695,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>7</div>
   </td>
   <td>
-    <div>‑11° 09' 20&quot;</div>
+    <div>-11° 09' 20&quot;</div>
   </td>
   <td>
     <div>132° 33' 30&quot;</div>
@@ -16713,7 +16706,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>8</div>
   </td>
   <td>
-    <div>‑11° 09' 09&quot;</div>
+    <div>-11° 09' 09&quot;</div>
   </td>
   <td>
     <div>132° 33' 30&quot;</div>
@@ -16724,7 +16717,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>9</div>
   </td>
   <td>
-    <div>‑11° 09' 09&quot;</div>
+    <div>-11° 09' 09&quot;</div>
   </td>
   <td>
     <div>132° 33' 55&quot;</div>
@@ -16735,7 +16728,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>10</div>
   </td>
   <td>
-    <div>‑11° 08' 37&quot;</div>
+    <div>-11° 08' 37&quot;</div>
   </td>
   <td>
     <div>132° 33' 55&quot;</div>
@@ -16746,7 +16739,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>11</div>
   </td>
   <td>
-    <div>‑11° 08' 37&quot;</div>
+    <div>-11° 08' 37&quot;</div>
   </td>
   <td>
     <div>132° 34' 12&quot;</div>
@@ -16757,7 +16750,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>12</div>
   </td>
   <td>
-    <div>‑11° 08' 25&quot;</div>
+    <div>-11° 08' 25&quot;</div>
   </td>
   <td>
     <div>132° 34' 12&quot;</div>
@@ -16768,7 +16761,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>13</div>
   </td>
   <td>
-    <div>‑11° 08' 25&quot;</div>
+    <div>-11° 08' 25&quot;</div>
   </td>
   <td>
     <div>132° 34' 31&quot;</div>
@@ -16779,7 +16772,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>14</div>
   </td>
   <td>
-    <div>‑11° 08' 21&quot;</div>
+    <div>-11° 08' 21&quot;</div>
   </td>
   <td>
     <div>132° 34' 32&quot;</div>
@@ -16790,7 +16783,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>15</div>
   </td>
   <td>
-    <div>‑11° 08' 23&quot;</div>
+    <div>-11° 08' 23&quot;</div>
   </td>
   <td>
     <div>132° 34' 41&quot;</div>
@@ -16840,7 +16833,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>16</div>
   </td>
   <td>
-    <div>‑11° 09' 52&quot;</div>
+    <div>-11° 09' 52&quot;</div>
   </td>
   <td>
     <div>132° 32' 05&quot;</div>
@@ -16851,7 +16844,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>17</div>
   </td>
   <td>
-    <div>‑11° 09' 43&quot;</div>
+    <div>-11° 09' 43&quot;</div>
   </td>
   <td>
     <div>132° 31' 59&quot;</div>
@@ -16862,7 +16855,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>18</div>
   </td>
   <td>
-    <div>‑11° 09' 18&quot;</div>
+    <div>-11° 09' 18&quot;</div>
   </td>
   <td>
     <div>132° 32' 44&quot;</div>
@@ -16873,7 +16866,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>19</div>
   </td>
   <td>
-    <div>‑11° 09' 28&quot;</div>
+    <div>-11° 09' 28&quot;</div>
   </td>
   <td>
     <div>132° 32' 49&quot;</div>
@@ -16923,7 +16916,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>20</div>
   </td>
   <td>
-    <div>‑11° 11' 24&quot;</div>
+    <div>-11° 11' 24&quot;</div>
   </td>
   <td>
     <div>132° 33' 31&quot;</div>
@@ -16934,7 +16927,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>21</div>
   </td>
   <td>
-    <div>‑11° 11' 11&quot;</div>
+    <div>-11° 11' 11&quot;</div>
   </td>
   <td>
     <div>132° 33' 31&quot;</div>
@@ -16945,7 +16938,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>22</div>
   </td>
   <td>
-    <div>‑11° 11' 11&quot;</div>
+    <div>-11° 11' 11&quot;</div>
   </td>
   <td>
     <div>132° 33' 41&quot;</div>
@@ -16956,7 +16949,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>23</div>
   </td>
   <td>
-    <div>‑11° 11' 24&quot;</div>
+    <div>-11° 11' 24&quot;</div>
   </td>
   <td>
     <div>132° 33' 41&quot;</div>
@@ -17006,7 +16999,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>24</div>
   </td>
   <td>
-    <div>‑11° 11' 29&quot;</div>
+    <div>-11° 11' 29&quot;</div>
   </td>
   <td>
     <div>132° 33' 59&quot;</div>
@@ -17017,7 +17010,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>25</div>
   </td>
   <td>
-    <div>‑11° 11' 20&quot;</div>
+    <div>-11° 11' 20&quot;</div>
   </td>
   <td>
     <div>132° 33' 59&quot;</div>
@@ -17028,7 +17021,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>26</div>
   </td>
   <td>
-    <div>‑11° 11' 20&quot;</div>
+    <div>-11° 11' 20&quot;</div>
   </td>
   <td>
     <div>132° 34' 09&quot;</div>
@@ -17039,7 +17032,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>27</div>
   </td>
   <td>
-    <div>‑11° 11' 29&quot;</div>
+    <div>-11° 11' 29&quot;</div>
   </td>
   <td>
     <div>132° 34' 09&quot;</div>
@@ -17089,7 +17082,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>28</div>
   </td>
   <td>
-    <div>‑11° 12' 35&quot;</div>
+    <div>-11° 12' 35&quot;</div>
   </td>
   <td>
     <div>132° 34' 41&quot;</div>
@@ -17100,7 +17093,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>29</div>
   </td>
   <td>
-    <div>‑11° 12' 18&quot;</div>
+    <div>-11° 12' 18&quot;</div>
   </td>
   <td>
     <div>132° 34' 41&quot;</div>
@@ -17111,7 +17104,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>30</div>
   </td>
   <td>
-    <div>‑11° 12' 18&quot;</div>
+    <div>-11° 12' 18&quot;</div>
   </td>
   <td>
     <div>132° 34' 58&quot;</div>
@@ -17122,7 +17115,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>31</div>
   </td>
   <td>
-    <div>‑11° 12' 35&quot;</div>
+    <div>-11° 12' 35&quot;</div>
   </td>
   <td>
     <div>132° 34' 58&quot;</div>
@@ -17172,7 +17165,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>32</div>
   </td>
   <td>
-    <div>‑11° 10' 53&quot;</div>
+    <div>-11° 10' 53&quot;</div>
   </td>
   <td>
     <div>132° 35' 11&quot;</div>
@@ -17183,7 +17176,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>33</div>
   </td>
   <td>
-    <div>‑11° 10' 38&quot;</div>
+    <div>-11° 10' 38&quot;</div>
   </td>
   <td>
     <div>132° 35' 11&quot;</div>
@@ -17194,7 +17187,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>34</div>
   </td>
   <td>
-    <div>‑11° 10' 38&quot;</div>
+    <div>-11° 10' 38&quot;</div>
   </td>
   <td>
     <div>132° 35' 12&quot;</div>
@@ -17205,7 +17198,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>35</div>
   </td>
   <td>
-    <div>‑11° 10' 47&quot;</div>
+    <div>-11° 10' 47&quot;</div>
   </td>
   <td>
     <div>132° 35' 27&quot;</div>
@@ -17216,7 +17209,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>36</div>
   </td>
   <td>
-    <div>‑11° 10' 52&quot;</div>
+    <div>-11° 10' 52&quot;</div>
   </td>
   <td>
     <div>132° 35' 27&quot;</div>
@@ -17266,7 +17259,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>37</div>
   </td>
   <td>
-    <div>‑11° 10' 12&quot;</div>
+    <div>-11° 10' 12&quot;</div>
   </td>
   <td>
     <div>132° 29' 11&quot;</div>
@@ -17277,7 +17270,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>38</div>
   </td>
   <td>
-    <div>‑11° 09' 25&quot;</div>
+    <div>-11° 09' 25&quot;</div>
   </td>
   <td>
     <div>132° 28' 25&quot;</div>
@@ -17288,7 +17281,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>39</div>
   </td>
   <td>
-    <div>‑11° 09' 14&quot;</div>
+    <div>-11° 09' 14&quot;</div>
   </td>
   <td>
     <div>132° 28' 36&quot;</div>
@@ -17299,7 +17292,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>40</div>
   </td>
   <td>
-    <div>‑11° 10' 02&quot;</div>
+    <div>-11° 10' 02&quot;</div>
   </td>
   <td>
     <div>132° 29' 22&quot;</div>
@@ -17353,7 +17346,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>1</div>
   </td>
   <td>
-    <div>‑23° 15' 33&quot;</div>
+    <div>-23° 15' 33&quot;</div>
   </td>
   <td>
     <div>131° 15' 57&quot;</div>
@@ -17364,7 +17357,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>2</div>
   </td>
   <td>
-    <div>‑23° 15' 33&quot;</div>
+    <div>-23° 15' 33&quot;</div>
   </td>
   <td>
     <div>131° 16' 50&quot;</div>
@@ -17375,7 +17368,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>3</div>
   </td>
   <td>
-    <div>‑23° 16' 21&quot;</div>
+    <div>-23° 16' 21&quot;</div>
   </td>
   <td>
     <div>131° 16' 50&quot;</div>
@@ -17386,7 +17379,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>4</div>
   </td>
   <td>
-    <div>‑23° 16' 21&quot;</div>
+    <div>-23° 16' 21&quot;</div>
   </td>
   <td>
     <div>131° 15' 57&quot;</div>
@@ -17436,7 +17429,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>5</div>
   </td>
   <td>
-    <div>‑23° 17' 12&quot;</div>
+    <div>-23° 17' 12&quot;</div>
   </td>
   <td>
     <div>131° 16' 03&quot;</div>
@@ -17447,7 +17440,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>6</div>
   </td>
   <td>
-    <div>‑23° 16' 58&quot;</div>
+    <div>-23° 16' 58&quot;</div>
   </td>
   <td>
     <div>131° 16' 03&quot;</div>
@@ -17458,7 +17451,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>7</div>
   </td>
   <td>
-    <div>‑23° 16' 58&quot;</div>
+    <div>-23° 16' 58&quot;</div>
   </td>
   <td>
     <div>131° 16' 24&quot;</div>
@@ -17469,7 +17462,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>8</div>
   </td>
   <td>
-    <div>‑23° 17' 12&quot;</div>
+    <div>-23° 17' 12&quot;</div>
   </td>
   <td>
     <div>131° 16' 24&quot;</div>
@@ -17519,7 +17512,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>9</div>
   </td>
   <td>
-    <div>‑23° 15' 57&quot;</div>
+    <div>-23° 15' 57&quot;</div>
   </td>
   <td>
     <div>131° 15' 06&quot;</div>
@@ -17530,7 +17523,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>10</div>
   </td>
   <td>
-    <div>‑23° 15' 47&quot;</div>
+    <div>-23° 15' 47&quot;</div>
   </td>
   <td>
     <div>131° 15' 06&quot;</div>
@@ -17541,7 +17534,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>11</div>
   </td>
   <td>
-    <div>‑23° 15' 47&quot;</div>
+    <div>-23° 15' 47&quot;</div>
   </td>
   <td>
     <div>131° 15' 17&quot;</div>
@@ -17552,7 +17545,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>12</div>
   </td>
   <td>
-    <div>‑23° 15' 57&quot;</div>
+    <div>-23° 15' 57&quot;</div>
   </td>
   <td>
     <div>131° 15' 17&quot;</div>
@@ -17602,7 +17595,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>13</div>
   </td>
   <td>
-    <div>‑23° 14' 42&quot;</div>
+    <div>-23° 14' 42&quot;</div>
   </td>
   <td>
     <div>131° 15' 28&quot;</div>
@@ -17613,7 +17606,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>14</div>
   </td>
   <td>
-    <div>‑23° 14' 47&quot;</div>
+    <div>-23° 14' 47&quot;</div>
   </td>
   <td>
     <div>131° 15' 04&quot;</div>
@@ -17624,7 +17617,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>15</div>
   </td>
   <td>
-    <div>‑23° 14' 37&quot;</div>
+    <div>-23° 14' 37&quot;</div>
   </td>
   <td>
     <div>131° 15' 02&quot;</div>
@@ -17635,7 +17628,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>16</div>
   </td>
   <td>
-    <div>‑23° 14' 26&quot;</div>
+    <div>-23° 14' 26&quot;</div>
   </td>
   <td>
     <div>131° 16' 01&quot;</div>
@@ -17646,7 +17639,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>17</div>
   </td>
   <td>
-    <div>‑23° 14' 36&quot;</div>
+    <div>-23° 14' 36&quot;</div>
   </td>
   <td>
     <div>131° 16' 03&quot;</div>
@@ -17657,7 +17650,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>18</div>
   </td>
   <td>
-    <div>‑23° 14' 40&quot;</div>
+    <div>-23° 14' 40&quot;</div>
   </td>
   <td>
     <div>131° 15' 40&quot;</div>
@@ -17668,7 +17661,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>19</div>
   </td>
   <td>
-    <div>‑23° 14' 51&quot;</div>
+    <div>-23° 14' 51&quot;</div>
   </td>
   <td>
     <div>131° 15' 40&quot;</div>
@@ -17679,7 +17672,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>20</div>
   </td>
   <td>
-    <div>‑23° 14' 51&quot;</div>
+    <div>-23° 14' 51&quot;</div>
   </td>
   <td>
     <div>131° 15' 28&quot;</div>
@@ -17729,7 +17722,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>21</div>
   </td>
   <td>
-    <div>‑23° 15' 21&quot;</div>
+    <div>-23° 15' 21&quot;</div>
   </td>
   <td>
     <div>131° 16' 31&quot;</div>
@@ -17740,7 +17733,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>22</div>
   </td>
   <td>
-    <div>‑23° 15' 10&quot;</div>
+    <div>-23° 15' 10&quot;</div>
   </td>
   <td>
     <div>131° 16' 31&quot;</div>
@@ -17751,7 +17744,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>23</div>
   </td>
   <td>
-    <div>‑23° 15' 10&quot;</div>
+    <div>-23° 15' 10&quot;</div>
   </td>
   <td>
     <div>131° 16' 43&quot;</div>
@@ -17762,7 +17755,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>24</div>
   </td>
   <td>
-    <div>‑23° 15' 21&quot;</div>
+    <div>-23° 15' 21&quot;</div>
   </td>
   <td>
     <div>131° 16' 43&quot;</div>
@@ -17812,7 +17805,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>25</div>
   </td>
   <td>
-    <div>‑23° 13' 46&quot;</div>
+    <div>-23° 13' 46&quot;</div>
   </td>
   <td>
     <div>131° 17' 43&quot;</div>
@@ -17823,7 +17816,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>26</div>
   </td>
   <td>
-    <div>‑23° 13' 33&quot;</div>
+    <div>-23° 13' 33&quot;</div>
   </td>
   <td>
     <div>131° 17' 43&quot;</div>
@@ -17834,7 +17827,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>27</div>
   </td>
   <td>
-    <div>‑23° 13' 33&quot;</div>
+    <div>-23° 13' 33&quot;</div>
   </td>
   <td>
     <div>131° 17' 59&quot;</div>
@@ -17845,7 +17838,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>28</div>
   </td>
   <td>
-    <div>‑23° 13' 46&quot;</div>
+    <div>-23° 13' 46&quot;</div>
   </td>
   <td>
     <div>131° 17' 59&quot;</div>
@@ -17897,7 +17890,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>1</div>
   </td>
   <td>
-    <div>‑25° 20' 25&quot;</div>
+    <div>-25° 20' 25&quot;</div>
   </td>
   <td>
     <div>131° 03' 40&quot;</div>
@@ -17908,7 +17901,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>2</div>
   </td>
   <td>
-    <div>‑25° 20' 25&quot;</div>
+    <div>-25° 20' 25&quot;</div>
   </td>
   <td>
     <div>131° 04' 00&quot;</div>
@@ -17919,7 +17912,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>3</div>
   </td>
   <td>
-    <div>‑25° 21' 25&quot;</div>
+    <div>-25° 21' 25&quot;</div>
   </td>
   <td>
     <div>131° 04' 00&quot;</div>
@@ -17930,7 +17923,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>4</div>
   </td>
   <td>
-    <div>‑25° 21' 25&quot;</div>
+    <div>-25° 21' 25&quot;</div>
   </td>
   <td>
     <div>131° 03' 40&quot;</div>
@@ -17988,7 +17981,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>1</div>
   </td>
   <td>
-    <div>‑14° 43' 05&quot;</div>
+    <div>-14° 43' 05&quot;</div>
   </td>
   <td>
     <div>134° 44' 22&quot;</div>
@@ -17999,7 +17992,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>2</div>
   </td>
   <td>
-    <div>‑14° 43' 43&quot;</div>
+    <div>-14° 43' 43&quot;</div>
   </td>
   <td>
     <div>134° 45' 53&quot;</div>
@@ -18010,7 +18003,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>3</div>
   </td>
   <td>
-    <div>‑14° 44' 44&quot;</div>
+    <div>-14° 44' 44&quot;</div>
   </td>
   <td>
     <div>134° 45' 53&quot;</div>
@@ -18021,7 +18014,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>4</div>
   </td>
   <td>
-    <div>‑14° 44' 44&quot;</div>
+    <div>-14° 44' 44&quot;</div>
   </td>
   <td>
     <div>134° 44' 46&quot;</div>
@@ -18032,7 +18025,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>5</div>
   </td>
   <td>
-    <div>‑14° 44' 37&quot;</div>
+    <div>-14° 44' 37&quot;</div>
   </td>
   <td>
     <div>134° 44' 46&quot;</div>
@@ -18043,7 +18036,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>6</div>
   </td>
   <td>
-    <div>‑14° 44' 37&quot;</div>
+    <div>-14° 44' 37&quot;</div>
   </td>
   <td>
     <div>134° 43' 19&quot;</div>
@@ -18054,7 +18047,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>7</div>
   </td>
   <td>
-    <div>‑14° 43' 18&quot;</div>
+    <div>-14° 43' 18&quot;</div>
   </td>
   <td>
     <div>134° 43' 19&quot;</div>
@@ -18065,7 +18058,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>8</div>
   </td>
   <td>
-    <div>‑14° 43' 18&quot;</div>
+    <div>-14° 43' 18&quot;</div>
   </td>
   <td>
     <div>134° 44' 16&quot;</div>
@@ -18115,7 +18108,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>9</div>
   </td>
   <td>
-    <div>‑14° 42' 57&quot;</div>
+    <div>-14° 42' 57&quot;</div>
   </td>
   <td>
     <div>134° 44' 17&quot;</div>
@@ -18126,7 +18119,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>10</div>
   </td>
   <td>
-    <div>‑14° 42' 23&quot;</div>
+    <div>-14° 42' 23&quot;</div>
   </td>
   <td>
     <div>134° 44' 17&quot;</div>
@@ -18137,7 +18130,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>11</div>
   </td>
   <td>
-    <div>‑14° 42' 23&quot;</div>
+    <div>-14° 42' 23&quot;</div>
   </td>
   <td>
     <div>134° 44' 47&quot;</div>
@@ -18148,7 +18141,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>12</div>
   </td>
   <td>
-    <div>‑14° 42' 57&quot;</div>
+    <div>-14° 42' 57&quot;</div>
   </td>
   <td>
     <div>134° 44' 47&quot;</div>
@@ -18202,7 +18195,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>1</div>
   </td>
   <td>
-    <div>‑22° 07' 01&quot;</div>
+    <div>-22° 07' 01&quot;</div>
   </td>
   <td>
     <div>133° 16' 21&quot;</div>
@@ -18213,7 +18206,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>2</div>
   </td>
   <td>
-    <div>‑22° 07' 49&quot;</div>
+    <div>-22° 07' 49&quot;</div>
   </td>
   <td>
     <div>133° 16' 21&quot;</div>
@@ -18224,7 +18217,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>3</div>
   </td>
   <td>
-    <div>‑22° 07' 49&quot;</div>
+    <div>-22° 07' 49&quot;</div>
   </td>
   <td>
     <div>133° 15' 27&quot;</div>
@@ -18235,7 +18228,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>4</div>
   </td>
   <td>
-    <div>‑22° 07' 14&quot;</div>
+    <div>-22° 07' 14&quot;</div>
   </td>
   <td>
     <div>133° 15' 27&quot;</div>
@@ -18246,7 +18239,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>5</div>
   </td>
   <td>
-    <div>‑22° 07' 14&quot;</div>
+    <div>-22° 07' 14&quot;</div>
   </td>
   <td>
     <div>133° 15' 23&quot;</div>
@@ -18257,7 +18250,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>6</div>
   </td>
   <td>
-    <div>‑22° 07' 01&quot;</div>
+    <div>-22° 07' 01&quot;</div>
   </td>
   <td>
     <div>133° 15' 23&quot;</div>
@@ -18307,7 +18300,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>7</div>
   </td>
   <td>
-    <div>‑22° 08' 26&quot;</div>
+    <div>-22° 08' 26&quot;</div>
   </td>
   <td>
     <div>133° 19' 10&quot;</div>
@@ -18318,7 +18311,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>8</div>
   </td>
   <td>
-    <div>‑22° 07' 58&quot;</div>
+    <div>-22° 07' 58&quot;</div>
   </td>
   <td>
     <div>133° 19' 10&quot;</div>
@@ -18329,7 +18322,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>9</div>
   </td>
   <td>
-    <div>‑22° 07' 58&quot;</div>
+    <div>-22° 07' 58&quot;</div>
   </td>
   <td>
     <div>133° 19' 49&quot;</div>
@@ -18340,7 +18333,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>10</div>
   </td>
   <td>
-    <div>‑22° 08' 26&quot;</div>
+    <div>-22° 08' 26&quot;</div>
   </td>
   <td>
     <div>133° 19' 49&quot;</div>
@@ -18390,7 +18383,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>11</div>
   </td>
   <td>
-    <div>‑22° 05' 29&quot;</div>
+    <div>-22° 05' 29&quot;</div>
   </td>
   <td>
     <div>133° 13' 28&quot;</div>
@@ -18401,7 +18394,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>12</div>
   </td>
   <td>
-    <div>‑22° 05' 21&quot;</div>
+    <div>-22° 05' 21&quot;</div>
   </td>
   <td>
     <div>133° 13' 28&quot;</div>
@@ -18412,7 +18405,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>13</div>
   </td>
   <td>
-    <div>‑22° 05' 21&quot;</div>
+    <div>-22° 05' 21&quot;</div>
   </td>
   <td>
     <div>133° 13' 40&quot;</div>
@@ -18423,7 +18416,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>14</div>
   </td>
   <td>
-    <div>‑22° 05' 29&quot;</div>
+    <div>-22° 05' 29&quot;</div>
   </td>
   <td>
     <div>133° 13' 40&quot;</div>
@@ -18477,7 +18470,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>1</div>
   </td>
   <td>
-    <div>‑14° 16' 01&quot;</div>
+    <div>-14° 16' 01&quot;</div>
   </td>
   <td>
     <div>135° 45' 01&quot;</div>
@@ -18488,7 +18481,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>2</div>
   </td>
   <td>
-    <div>‑14° 16' 30&quot;</div>
+    <div>-14° 16' 30&quot;</div>
   </td>
   <td>
     <div>135° 45' 01&quot;</div>
@@ -18499,7 +18492,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>3</div>
   </td>
   <td>
-    <div>‑14° 17' 03&quot;</div>
+    <div>-14° 17' 03&quot;</div>
   </td>
   <td>
     <div>135° 43' 20&quot;</div>
@@ -18510,7 +18503,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>4</div>
   </td>
   <td>
-    <div>‑14° 15' 48&quot;</div>
+    <div>-14° 15' 48&quot;</div>
   </td>
   <td>
     <div>135° 42' 31&quot;</div>
@@ -18521,7 +18514,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>5</div>
   </td>
   <td>
-    <div>‑14° 15' 41&quot;</div>
+    <div>-14° 15' 41&quot;</div>
   </td>
   <td>
     <div>135° 42' 42&quot;</div>
@@ -18532,7 +18525,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>6</div>
   </td>
   <td>
-    <div>‑14° 15' 41&quot;</div>
+    <div>-14° 15' 41&quot;</div>
   </td>
   <td>
     <div>135° 43' 13&quot;</div>
@@ -18543,7 +18536,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>7</div>
   </td>
   <td>
-    <div>‑14° 16' 29&quot;</div>
+    <div>-14° 16' 29&quot;</div>
   </td>
   <td>
     <div>135° 43' 13&quot;</div>
@@ -18554,7 +18547,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>8</div>
   </td>
   <td>
-    <div>‑14° 16' 36&quot;</div>
+    <div>-14° 16' 36&quot;</div>
   </td>
   <td>
     <div>135° 43' 18&quot;</div>
@@ -18565,7 +18558,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>9</div>
   </td>
   <td>
-    <div>‑14° 16' 36&quot;</div>
+    <div>-14° 16' 36&quot;</div>
   </td>
   <td>
     <div>135° 43' 46&quot;</div>
@@ -18576,7 +18569,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>10</div>
   </td>
   <td>
-    <div>‑14° 16' 01&quot;</div>
+    <div>-14° 16' 01&quot;</div>
   </td>
   <td>
     <div>135° 43' 46&quot;</div>
@@ -18626,7 +18619,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>11</div>
   </td>
   <td>
-    <div>‑14° 15' 27&quot;</div>
+    <div>-14° 15' 27&quot;</div>
   </td>
   <td>
     <div>135° 42' 47&quot;</div>
@@ -18637,7 +18630,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>12</div>
   </td>
   <td>
-    <div>‑14° 15' 11&quot;</div>
+    <div>-14° 15' 11&quot;</div>
   </td>
   <td>
     <div>135° 42' 47&quot;</div>
@@ -18648,7 +18641,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>13</div>
   </td>
   <td>
-    <div>‑14° 15' 11&quot;</div>
+    <div>-14° 15' 11&quot;</div>
   </td>
   <td>
     <div>135° 43' 11&quot;</div>
@@ -18659,7 +18652,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>14</div>
   </td>
   <td>
-    <div>‑14° 15' 27&quot;</div>
+    <div>-14° 15' 27&quot;</div>
   </td>
   <td>
     <div>135° 43' 11&quot;</div>
@@ -18709,7 +18702,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>15</div>
   </td>
   <td>
-    <div>‑14° 15' 22&quot;</div>
+    <div>-14° 15' 22&quot;</div>
   </td>
   <td>
     <div>135° 43' 41&quot;</div>
@@ -18720,7 +18713,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>16</div>
   </td>
   <td>
-    <div>‑14° 15' 06&quot;</div>
+    <div>-14° 15' 06&quot;</div>
   </td>
   <td>
     <div>135° 43' 41&quot;</div>
@@ -18731,7 +18724,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>17</div>
   </td>
   <td>
-    <div>‑14° 15' 06&quot;</div>
+    <div>-14° 15' 06&quot;</div>
   </td>
   <td>
     <div>135° 43' 55&quot;</div>
@@ -18742,7 +18735,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>18</div>
   </td>
   <td>
-    <div>‑14° 15' 22&quot;</div>
+    <div>-14° 15' 22&quot;</div>
   </td>
   <td>
     <div>135° 43' 55&quot;</div>
@@ -18792,7 +18785,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>19</div>
   </td>
   <td>
-    <div>‑14° 14' 07&quot;</div>
+    <div>-14° 14' 07&quot;</div>
   </td>
   <td>
     <div>135° 43' 01&quot;</div>
@@ -18803,7 +18796,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>20</div>
   </td>
   <td>
-    <div>‑14° 13' 40&quot;</div>
+    <div>-14° 13' 40&quot;</div>
   </td>
   <td>
     <div>135° 43' 01&quot;</div>
@@ -18814,7 +18807,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>21</div>
   </td>
   <td>
-    <div>‑14° 13' 40&quot;</div>
+    <div>-14° 13' 40&quot;</div>
   </td>
   <td>
     <div>135° 43' 39&quot;</div>
@@ -18825,7 +18818,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>22</div>
   </td>
   <td>
-    <div>‑14° 14' 07&quot;</div>
+    <div>-14° 14' 07&quot;</div>
   </td>
   <td>
     <div>135° 43' 39&quot;</div>
@@ -18877,7 +18870,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>1</div>
   </td>
   <td>
-    <div>‑22° 39' 39&quot;</div>
+    <div>-22° 39' 39&quot;</div>
   </td>
   <td>
     <div>130° 33' 06&quot;</div>
@@ -18888,7 +18881,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>2</div>
   </td>
   <td>
-    <div>‑22° 39' 39&quot;</div>
+    <div>-22° 39' 39&quot;</div>
   </td>
   <td>
     <div>130° 32' 53&quot;</div>
@@ -18899,7 +18892,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>3</div>
   </td>
   <td>
-    <div>‑22° 39' 28&quot;</div>
+    <div>-22° 39' 28&quot;</div>
   </td>
   <td>
     <div>130° 32' 53&quot;</div>
@@ -18910,7 +18903,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>4</div>
   </td>
   <td>
-    <div>‑22° 39' 28&quot;</div>
+    <div>-22° 39' 28&quot;</div>
   </td>
   <td>
     <div>130° 32' 39&quot;</div>
@@ -18921,7 +18914,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>5</div>
   </td>
   <td>
-    <div>‑22° 38' 36&quot;</div>
+    <div>-22° 38' 36&quot;</div>
   </td>
   <td>
     <div>130° 32' 39&quot;</div>
@@ -18932,7 +18925,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>6</div>
   </td>
   <td>
-    <div>‑22° 38' 36&quot;</div>
+    <div>-22° 38' 36&quot;</div>
   </td>
   <td>
     <div>130° 33' 53&quot;</div>
@@ -18943,7 +18936,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>7</div>
   </td>
   <td>
-    <div>‑22° 38' 25&quot;</div>
+    <div>-22° 38' 25&quot;</div>
   </td>
   <td>
     <div>130° 34' 47&quot;</div>
@@ -18954,7 +18947,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>8</div>
   </td>
   <td>
-    <div>‑22° 38' 38&quot;</div>
+    <div>-22° 38' 38&quot;</div>
   </td>
   <td>
     <div>130° 34' 50&quot;</div>
@@ -18965,7 +18958,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>9</div>
   </td>
   <td>
-    <div>‑22° 38' 51&quot;</div>
+    <div>-22° 38' 51&quot;</div>
   </td>
   <td>
     <div>130° 33' 49&quot;</div>
@@ -18976,7 +18969,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>10</div>
   </td>
   <td>
-    <div>‑22° 38' 51&quot;</div>
+    <div>-22° 38' 51&quot;</div>
   </td>
   <td>
     <div>130° 33' 38&quot;</div>
@@ -18987,7 +18980,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>11</div>
   </td>
   <td>
-    <div>‑22° 39' 28&quot;</div>
+    <div>-22° 39' 28&quot;</div>
   </td>
   <td>
     <div>130° 33' 38&quot;</div>
@@ -18998,7 +18991,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>12</div>
   </td>
   <td>
-    <div>‑22° 39' 28&quot;</div>
+    <div>-22° 39' 28&quot;</div>
   </td>
   <td>
     <div>130° 33' 06&quot;</div>
@@ -19052,7 +19045,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>1</div>
   </td>
   <td>
-    <div>‑14° 21' 05&quot;</div>
+    <div>-14° 21' 05&quot;</div>
   </td>
   <td>
     <div>129° 52' 09&quot;</div>
@@ -19063,7 +19056,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>2</div>
   </td>
   <td>
-    <div>‑14° 21' 05&quot;</div>
+    <div>-14° 21' 05&quot;</div>
   </td>
   <td>
     <div>129° 51' 17&quot;</div>
@@ -19074,7 +19067,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>3</div>
   </td>
   <td>
-    <div>‑14° 20' 28&quot;</div>
+    <div>-14° 20' 28&quot;</div>
   </td>
   <td>
     <div>129° 51' 17&quot;</div>
@@ -19085,7 +19078,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>4</div>
   </td>
   <td>
-    <div>‑14° 20' 28&quot;</div>
+    <div>-14° 20' 28&quot;</div>
   </td>
   <td>
     <div>129° 51' 41&quot;</div>
@@ -19096,7 +19089,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>5</div>
   </td>
   <td>
-    <div>‑14° 19' 51&quot;</div>
+    <div>-14° 19' 51&quot;</div>
   </td>
   <td>
     <div>129° 51' 41&quot;</div>
@@ -19107,7 +19100,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>6</div>
   </td>
   <td>
-    <div>‑14° 19' 51&quot;</div>
+    <div>-14° 19' 51&quot;</div>
   </td>
   <td>
     <div>129° 52' 00&quot;</div>
@@ -19118,7 +19111,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>7</div>
   </td>
   <td>
-    <div>‑14° 20' 17&quot;</div>
+    <div>-14° 20' 17&quot;</div>
   </td>
   <td>
     <div>129° 52' 00&quot;</div>
@@ -19129,7 +19122,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>8</div>
   </td>
   <td>
-    <div>‑14° 20' 17&quot;</div>
+    <div>-14° 20' 17&quot;</div>
   </td>
   <td>
     <div>129° 52' 52&quot;</div>
@@ -19140,7 +19133,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>9</div>
   </td>
   <td>
-    <div>‑14° 20' 27&quot;</div>
+    <div>-14° 20' 27&quot;</div>
   </td>
   <td>
     <div>129° 52' 52&quot;</div>
@@ -19151,7 +19144,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>10</div>
   </td>
   <td>
-    <div>‑14° 20' 27&quot;</div>
+    <div>-14° 20' 27&quot;</div>
   </td>
   <td>
     <div>129° 53' 24&quot;</div>
@@ -19162,7 +19155,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>11</div>
   </td>
   <td>
-    <div>‑14° 21' 36&quot;</div>
+    <div>-14° 21' 36&quot;</div>
   </td>
   <td>
     <div>129° 53' 24&quot;</div>
@@ -19173,7 +19166,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>12</div>
   </td>
   <td>
-    <div>‑14° 21' 36&quot;</div>
+    <div>-14° 21' 36&quot;</div>
   </td>
   <td>
     <div>129° 52' 09&quot;</div>
@@ -19223,7 +19216,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>13</div>
   </td>
   <td>
-    <div>‑14° 22' 22&quot;</div>
+    <div>-14° 22' 22&quot;</div>
   </td>
   <td>
     <div>129° 52' 39&quot;</div>
@@ -19234,7 +19227,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>14</div>
   </td>
   <td>
-    <div>‑14° 22' 10&quot;</div>
+    <div>-14° 22' 10&quot;</div>
   </td>
   <td>
     <div>129° 52' 39&quot;</div>
@@ -19245,7 +19238,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>15</div>
   </td>
   <td>
-    <div>‑14° 22' 10&quot;</div>
+    <div>-14° 22' 10&quot;</div>
   </td>
   <td>
     <div>129° 52' 50&quot;</div>
@@ -19256,7 +19249,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>16</div>
   </td>
   <td>
-    <div>‑14° 22' 22&quot;</div>
+    <div>-14° 22' 22&quot;</div>
   </td>
   <td>
     <div>129° 52' 50&quot;</div>
@@ -19306,7 +19299,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>17</div>
   </td>
   <td>
-    <div>‑14° 22' 35&quot;</div>
+    <div>-14° 22' 35&quot;</div>
   </td>
   <td>
     <div>129° 52' 52&quot;</div>
@@ -19317,7 +19310,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>18</div>
   </td>
   <td>
-    <div>‑14° 22' 25&quot;</div>
+    <div>-14° 22' 25&quot;</div>
   </td>
   <td>
     <div>129° 52' 52&quot;</div>
@@ -19328,7 +19321,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>19</div>
   </td>
   <td>
-    <div>‑14° 22' 25&quot;</div>
+    <div>-14° 22' 25&quot;</div>
   </td>
   <td>
     <div>129° 53' 02&quot;</div>
@@ -19339,7 +19332,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>20</div>
   </td>
   <td>
-    <div>‑14° 22' 35&quot;</div>
+    <div>-14° 22' 35&quot;</div>
   </td>
   <td>
     <div>129° 53' 02&quot;</div>
@@ -19389,7 +19382,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>21</div>
   </td>
   <td>
-    <div>‑14° 23' 01&quot;</div>
+    <div>-14° 23' 01&quot;</div>
   </td>
   <td>
     <div>129° 52' 52&quot;</div>
@@ -19400,7 +19393,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>22</div>
   </td>
   <td>
-    <div>‑14° 22' 51&quot;</div>
+    <div>-14° 22' 51&quot;</div>
   </td>
   <td>
     <div>129° 52' 52&quot;</div>
@@ -19411,7 +19404,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>23</div>
   </td>
   <td>
-    <div>‑14° 22' 51&quot;</div>
+    <div>-14° 22' 51&quot;</div>
   </td>
   <td>
     <div>129° 53' 02&quot;</div>
@@ -19422,7 +19415,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>24</div>
   </td>
   <td>
-    <div>‑14° 23' 01&quot;</div>
+    <div>-14° 23' 01&quot;</div>
   </td>
   <td>
     <div>129° 53' 02&quot;</div>
@@ -19472,7 +19465,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>25</div>
   </td>
   <td>
-    <div>‑14° 22' 08&quot;</div>
+    <div>-14° 22' 08&quot;</div>
   </td>
   <td>
     <div>129° 53' 59&quot;</div>
@@ -19483,7 +19476,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>26</div>
   </td>
   <td>
-    <div>‑14° 21' 54&quot;</div>
+    <div>-14° 21' 54&quot;</div>
   </td>
   <td>
     <div>129° 53' 59&quot;</div>
@@ -19494,7 +19487,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>27</div>
   </td>
   <td>
-    <div>‑14° 21' 54&quot;</div>
+    <div>-14° 21' 54&quot;</div>
   </td>
   <td>
     <div>129° 54' 13&quot;</div>
@@ -19505,7 +19498,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>28</div>
   </td>
   <td>
-    <div>‑14° 22' 08&quot;</div>
+    <div>-14° 22' 08&quot;</div>
   </td>
   <td>
     <div>129° 54' 13&quot;</div>
@@ -19559,7 +19552,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>1</div>
   </td>
   <td>
-    <div>‑23° 11' 43&quot;</div>
+    <div>-23° 11' 43&quot;</div>
   </td>
   <td>
     <div>131° 54' 07&quot;</div>
@@ -19570,7 +19563,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>2</div>
   </td>
   <td>
-    <div>‑23° 11' 43&quot;</div>
+    <div>-23° 11' 43&quot;</div>
   </td>
   <td>
     <div>131° 55' 27&quot;</div>
@@ -19581,7 +19574,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>3</div>
   </td>
   <td>
-    <div>‑23° 12' 05&quot;</div>
+    <div>-23° 12' 05&quot;</div>
   </td>
   <td>
     <div>131° 55' 27&quot;</div>
@@ -19592,7 +19585,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>4</div>
   </td>
   <td>
-    <div>‑23° 12' 05&quot;</div>
+    <div>-23° 12' 05&quot;</div>
   </td>
   <td>
     <div>131° 55' 20&quot;</div>
@@ -19603,7 +19596,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>5</div>
   </td>
   <td>
-    <div>‑23° 12' 51&quot;</div>
+    <div>-23° 12' 51&quot;</div>
   </td>
   <td>
     <div>131° 55' 20&quot;</div>
@@ -19614,7 +19607,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>6</div>
   </td>
   <td>
-    <div>‑23° 12' 51&quot;</div>
+    <div>-23° 12' 51&quot;</div>
   </td>
   <td>
     <div>131° 54' 07&quot;</div>
@@ -19625,7 +19618,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>7</div>
   </td>
   <td>
-    <div>‑23° 12' 42&quot;</div>
+    <div>-23° 12' 42&quot;</div>
   </td>
   <td>
     <div>131° 54' 07&quot;</div>
@@ -19636,7 +19629,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>8</div>
   </td>
   <td>
-    <div>‑23° 12' 42&quot;</div>
+    <div>-23° 12' 42&quot;</div>
   </td>
   <td>
     <div>131° 54' 01&quot;</div>
@@ -19647,7 +19640,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>9</div>
   </td>
   <td>
-    <div>‑23° 12' 29&quot;</div>
+    <div>-23° 12' 29&quot;</div>
   </td>
   <td>
     <div>131° 54' 01&quot;</div>
@@ -19658,7 +19651,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>10</div>
   </td>
   <td>
-    <div>‑23° 12' 29&quot;</div>
+    <div>-23° 12' 29&quot;</div>
   </td>
   <td>
     <div>131° 53' 42&quot;</div>
@@ -19669,7 +19662,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>11</div>
   </td>
   <td>
-    <div>‑23° 12' 04&quot;</div>
+    <div>-23° 12' 04&quot;</div>
   </td>
   <td>
     <div>131° 53' 42&quot;</div>
@@ -19680,7 +19673,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>12</div>
   </td>
   <td>
-    <div>‑23° 12' 04&quot;</div>
+    <div>-23° 12' 04&quot;</div>
   </td>
   <td>
     <div>131° 54' 07&quot;</div>
@@ -19730,7 +19723,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>13</div>
   </td>
   <td>
-    <div>‑23° 11' 34&quot;</div>
+    <div>-23° 11' 34&quot;</div>
   </td>
   <td>
     <div>131° 55' 14&quot;</div>
@@ -19741,7 +19734,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>14</div>
   </td>
   <td>
-    <div>‑23° 11' 19&quot;</div>
+    <div>-23° 11' 19&quot;</div>
   </td>
   <td>
     <div>131° 55' 14&quot;</div>
@@ -19752,7 +19745,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>15</div>
   </td>
   <td>
-    <div>‑23° 11' 19&quot;</div>
+    <div>-23° 11' 19&quot;</div>
   </td>
   <td>
     <div>131° 55' 29&quot;</div>
@@ -19763,7 +19756,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>16</div>
   </td>
   <td>
-    <div>‑23° 11' 34&quot;</div>
+    <div>-23° 11' 34&quot;</div>
   </td>
   <td>
     <div>131° 55' 29&quot;</div>
@@ -19813,7 +19806,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>17</div>
   </td>
   <td>
-    <div>‑23° 14' 07&quot;</div>
+    <div>-23° 14' 07&quot;</div>
   </td>
   <td>
     <div>131° 58' 45&quot;</div>
@@ -19824,7 +19817,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>18</div>
   </td>
   <td>
-    <div>‑23° 13' 40&quot;</div>
+    <div>-23° 13' 40&quot;</div>
   </td>
   <td>
     <div>131° 58' 45&quot;</div>
@@ -19835,7 +19828,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>19</div>
   </td>
   <td>
-    <div>‑23° 13' 40&quot;</div>
+    <div>-23° 13' 40&quot;</div>
   </td>
   <td>
     <div>131° 59' 10&quot;</div>
@@ -19846,7 +19839,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>20</div>
   </td>
   <td>
-    <div>‑23° 14' 07&quot;</div>
+    <div>-23° 14' 07&quot;</div>
   </td>
   <td>
     <div>131° 59' 10&quot;</div>
@@ -19896,7 +19889,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>21</div>
   </td>
   <td>
-    <div>‑23° 14' 14&quot;</div>
+    <div>-23° 14' 14&quot;</div>
   </td>
   <td>
     <div>131° 53' 56&quot;</div>
@@ -19907,7 +19900,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>22</div>
   </td>
   <td>
-    <div>‑23° 13' 58&quot;</div>
+    <div>-23° 13' 58&quot;</div>
   </td>
   <td>
     <div>131° 54' 14&quot;</div>
@@ -19918,7 +19911,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>23</div>
   </td>
   <td>
-    <div>‑23° 14' 42&quot;</div>
+    <div>-23° 14' 42&quot;</div>
   </td>
   <td>
     <div>131° 55' 01&quot;</div>
@@ -19929,7 +19922,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>24</div>
   </td>
   <td>
-    <div>‑23° 14' 58&quot;</div>
+    <div>-23° 14' 58&quot;</div>
   </td>
   <td>
     <div>131° 54' 43&quot;</div>
@@ -19979,7 +19972,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>25</div>
   </td>
   <td>
-    <div>‑23° 15' 48&quot;</div>
+    <div>-23° 15' 48&quot;</div>
   </td>
   <td>
     <div>131° 53' 30&quot;</div>
@@ -19990,7 +19983,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>26</div>
   </td>
   <td>
-    <div>‑23° 15' 35&quot;</div>
+    <div>-23° 15' 35&quot;</div>
   </td>
   <td>
     <div>131° 53' 30&quot;</div>
@@ -20001,7 +19994,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>27</div>
   </td>
   <td>
-    <div>‑23° 15' 35&quot;</div>
+    <div>-23° 15' 35&quot;</div>
   </td>
   <td>
     <div>131° 53' 53&quot;</div>
@@ -20012,7 +20005,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>28</div>
   </td>
   <td>
-    <div>‑23° 15' 48&quot;</div>
+    <div>-23° 15' 48&quot;</div>
   </td>
   <td>
     <div>131° 53' 53&quot;</div>
@@ -20062,7 +20055,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>29</div>
   </td>
   <td>
-    <div>‑23° 16' 45&quot;</div>
+    <div>-23° 16' 45&quot;</div>
   </td>
   <td>
     <div>131° 55' 33&quot;</div>
@@ -20073,7 +20066,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>30</div>
   </td>
   <td>
-    <div>‑23° 16' 32&quot;</div>
+    <div>-23° 16' 32&quot;</div>
   </td>
   <td>
     <div>131° 55' 33&quot;</div>
@@ -20084,7 +20077,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>31</div>
   </td>
   <td>
-    <div>‑23° 16' 32&quot;</div>
+    <div>-23° 16' 32&quot;</div>
   </td>
   <td>
     <div>131° 55' 46&quot;</div>
@@ -20095,7 +20088,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>32</div>
   </td>
   <td>
-    <div>‑23° 16' 45&quot;</div>
+    <div>-23° 16' 45&quot;</div>
   </td>
   <td>
     <div>131° 55' 46&quot;</div>
@@ -20145,7 +20138,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>33</div>
   </td>
   <td>
-    <div>‑23° 11' 16&quot;</div>
+    <div>-23° 11' 16&quot;</div>
   </td>
   <td>
     <div>131° 58' 20&quot;</div>
@@ -20156,7 +20149,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>34</div>
   </td>
   <td>
-    <div>‑23° 10' 59&quot;</div>
+    <div>-23° 10' 59&quot;</div>
   </td>
   <td>
     <div>131° 58' 20&quot;</div>
@@ -20167,7 +20160,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>35</div>
   </td>
   <td>
-    <div>‑23° 10' 59&quot;</div>
+    <div>-23° 10' 59&quot;</div>
   </td>
   <td>
     <div>131° 58' 38&quot;</div>
@@ -20178,7 +20171,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>36</div>
   </td>
   <td>
-    <div>‑23° 11' 16&quot;</div>
+    <div>-23° 11' 16&quot;</div>
   </td>
   <td>
     <div>131° 58' 38&quot;</div>
@@ -20232,7 +20225,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>1</div>
   </td>
   <td>
-    <div>‑14° 09' 44&quot;</div>
+    <div>-14° 09' 44&quot;</div>
   </td>
   <td>
     <div>130° 05' 18&quot;</div>
@@ -20243,7 +20236,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>2</div>
   </td>
   <td>
-    <div>‑14° 08' 53&quot;</div>
+    <div>-14° 08' 53&quot;</div>
   </td>
   <td>
     <div>130° 05' 18&quot;</div>
@@ -20254,7 +20247,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>3</div>
   </td>
   <td>
-    <div>‑14° 08' 53&quot;</div>
+    <div>-14° 08' 53&quot;</div>
   </td>
   <td>
     <div>130° 05' 21&quot;</div>
@@ -20265,7 +20258,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>4</div>
   </td>
   <td>
-    <div>‑14° 08' 49&quot;</div>
+    <div>-14° 08' 49&quot;</div>
   </td>
   <td>
     <div>130° 05' 21&quot;</div>
@@ -20276,7 +20269,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>5</div>
   </td>
   <td>
-    <div>‑14° 08' 42&quot;</div>
+    <div>-14° 08' 42&quot;</div>
   </td>
   <td>
     <div>130° 05' 54&quot;</div>
@@ -20287,7 +20280,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>6</div>
   </td>
   <td>
-    <div>‑14° 08' 29&quot;</div>
+    <div>-14° 08' 29&quot;</div>
   </td>
   <td>
     <div>130° 05' 51&quot;</div>
@@ -20298,7 +20291,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>7</div>
   </td>
   <td>
-    <div>‑14° 08' 35&quot;</div>
+    <div>-14° 08' 35&quot;</div>
   </td>
   <td>
     <div>130° 05' 18&quot;</div>
@@ -20309,7 +20302,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>8</div>
   </td>
   <td>
-    <div>‑14° 08' 25&quot;</div>
+    <div>-14° 08' 25&quot;</div>
   </td>
   <td>
     <div>130° 05' 18&quot;</div>
@@ -20320,7 +20313,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>9</div>
   </td>
   <td>
-    <div>‑14° 08' 25&quot;</div>
+    <div>-14° 08' 25&quot;</div>
   </td>
   <td>
     <div>130° 04' 49&quot;</div>
@@ -20331,7 +20324,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>10</div>
   </td>
   <td>
-    <div>‑14° 08' 19&quot;</div>
+    <div>-14° 08' 19&quot;</div>
   </td>
   <td>
     <div>130° 04' 49&quot;</div>
@@ -20342,7 +20335,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>11</div>
   </td>
   <td>
-    <div>‑14° 08' 19&quot;</div>
+    <div>-14° 08' 19&quot;</div>
   </td>
   <td>
     <div>130° 04' 39&quot;</div>
@@ -20353,7 +20346,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>12</div>
   </td>
   <td>
-    <div>‑14° 08' 25&quot;</div>
+    <div>-14° 08' 25&quot;</div>
   </td>
   <td>
     <div>130° 04' 39&quot;</div>
@@ -20364,7 +20357,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>13</div>
   </td>
   <td>
-    <div>‑14° 08' 25&quot;</div>
+    <div>-14° 08' 25&quot;</div>
   </td>
   <td>
     <div>130° 03' 52&quot;</div>
@@ -20375,7 +20368,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>14</div>
   </td>
   <td>
-    <div>‑14° 09' 44&quot;</div>
+    <div>-14° 09' 44&quot;</div>
   </td>
   <td>
     <div>130° 03' 52&quot;</div>
@@ -20425,7 +20418,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>15</div>
   </td>
   <td>
-    <div>‑14° 08' 24&quot;</div>
+    <div>-14° 08' 24&quot;</div>
   </td>
   <td>
     <div>130° 05' 30&quot;</div>
@@ -20436,7 +20429,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>16</div>
   </td>
   <td>
-    <div>‑14° 08' 14&quot;</div>
+    <div>-14° 08' 14&quot;</div>
   </td>
   <td>
     <div>130° 05' 30&quot;</div>
@@ -20447,7 +20440,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>17</div>
   </td>
   <td>
-    <div>‑14° 08' 14&quot;</div>
+    <div>-14° 08' 14&quot;</div>
   </td>
   <td>
     <div>130° 05' 39&quot;</div>
@@ -20458,7 +20451,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>18</div>
   </td>
   <td>
-    <div>‑14° 08' 24&quot;</div>
+    <div>-14° 08' 24&quot;</div>
   </td>
   <td>
     <div>130° 05' 39&quot;</div>
@@ -20508,7 +20501,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>19</div>
   </td>
   <td>
-    <div>‑14° 09' 34&quot;</div>
+    <div>-14° 09' 34&quot;</div>
   </td>
   <td>
     <div>130° 06' 39&quot;</div>
@@ -20519,7 +20512,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>20</div>
   </td>
   <td>
-    <div>‑14° 09' 21&quot;</div>
+    <div>-14° 09' 21&quot;</div>
   </td>
   <td>
     <div>130° 06' 39&quot;</div>
@@ -20530,7 +20523,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>21</div>
   </td>
   <td>
-    <div>‑14° 09' 21&quot;</div>
+    <div>-14° 09' 21&quot;</div>
   </td>
   <td>
     <div>130° 06' 51&quot;</div>
@@ -20541,7 +20534,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>22</div>
   </td>
   <td>
-    <div>‑14° 09' 34&quot;</div>
+    <div>-14° 09' 34&quot;</div>
   </td>
   <td>
     <div>130° 06' 51&quot;</div>
@@ -20591,7 +20584,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>23</div>
   </td>
   <td>
-    <div>‑14° 10' 11&quot;</div>
+    <div>-14° 10' 11&quot;</div>
   </td>
   <td>
     <div>130° 03' 55&quot;</div>
@@ -20602,7 +20595,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>24</div>
   </td>
   <td>
-    <div>‑14° 09' 59&quot;</div>
+    <div>-14° 09' 59&quot;</div>
   </td>
   <td>
     <div>130° 03' 55&quot;</div>
@@ -20613,7 +20606,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>25</div>
   </td>
   <td>
-    <div>‑14° 09' 59&quot;</div>
+    <div>-14° 09' 59&quot;</div>
   </td>
   <td>
     <div>130° 04' 07&quot;</div>
@@ -20624,7 +20617,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>26</div>
   </td>
   <td>
-    <div>‑14° 10' 11&quot;</div>
+    <div>-14° 10' 11&quot;</div>
   </td>
   <td>
     <div>130° 04' 07&quot;</div>
@@ -20676,7 +20669,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>1</div>
   </td>
   <td>
-    <div>‑16° 49' 15&quot;</div>
+    <div>-16° 49' 15&quot;</div>
   </td>
   <td>
     <div>131° 12' 24&quot;</div>
@@ -20687,7 +20680,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>2</div>
   </td>
   <td>
-    <div>‑16° 47' 38&quot;</div>
+    <div>-16° 47' 38&quot;</div>
   </td>
   <td>
     <div>131° 12' 24&quot;</div>
@@ -20698,7 +20691,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>3</div>
   </td>
   <td>
-    <div>‑16° 47' 38&quot;</div>
+    <div>-16° 47' 38&quot;</div>
   </td>
   <td>
     <div>131° 13' 35&quot;</div>
@@ -20709,7 +20702,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>4</div>
   </td>
   <td>
-    <div>‑16° 49' 15&quot;</div>
+    <div>-16° 49' 15&quot;</div>
   </td>
   <td>
     <div>131° 13' 35&quot;</div>
@@ -20763,7 +20756,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>1</div>
   </td>
   <td>
-    <div>‑11° 23' 46&quot;</div>
+    <div>-11° 23' 46&quot;</div>
   </td>
   <td>
     <div>130° 24' 52&quot;</div>
@@ -20774,7 +20767,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>2</div>
   </td>
   <td>
-    <div>‑11° 23' 42&quot;</div>
+    <div>-11° 23' 42&quot;</div>
   </td>
   <td>
     <div>130° 24' 52&quot;</div>
@@ -20785,7 +20778,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>3</div>
   </td>
   <td>
-    <div>‑11° 23' 42&quot;</div>
+    <div>-11° 23' 42&quot;</div>
   </td>
   <td>
     <div>130° 25' 35&quot;</div>
@@ -20796,7 +20789,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>4</div>
   </td>
   <td>
-    <div>‑11° 23' 22&quot;</div>
+    <div>-11° 23' 22&quot;</div>
   </td>
   <td>
     <div>130° 25' 53&quot;</div>
@@ -20807,7 +20800,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>5</div>
   </td>
   <td>
-    <div>‑11° 23' 44&quot;</div>
+    <div>-11° 23' 44&quot;</div>
   </td>
   <td>
     <div>130° 26' 23&quot;</div>
@@ -20818,7 +20811,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>6</div>
   </td>
   <td>
-    <div>‑11° 24' 02&quot;</div>
+    <div>-11° 24' 02&quot;</div>
   </td>
   <td>
     <div>130° 25' 58&quot;</div>
@@ -20829,7 +20822,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>7</div>
   </td>
   <td>
-    <div>‑11° 23' 54&quot;</div>
+    <div>-11° 23' 54&quot;</div>
   </td>
   <td>
     <div>130° 25' 47&quot;</div>
@@ -20840,7 +20833,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>8</div>
   </td>
   <td>
-    <div>‑11° 24' 16&quot;</div>
+    <div>-11° 24' 16&quot;</div>
   </td>
   <td>
     <div>130° 25' 29&quot;</div>
@@ -20851,7 +20844,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>9</div>
   </td>
   <td>
-    <div>‑11° 24' 29&quot;</div>
+    <div>-11° 24' 29&quot;</div>
   </td>
   <td>
     <div>130° 25' 29&quot;</div>
@@ -20862,7 +20855,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>10</div>
   </td>
   <td>
-    <div>‑11° 24' 29&quot;</div>
+    <div>-11° 24' 29&quot;</div>
   </td>
   <td>
     <div>130° 25' 45&quot;</div>
@@ -20873,7 +20866,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>11</div>
   </td>
   <td>
-    <div>‑11° 24' 39&quot;</div>
+    <div>-11° 24' 39&quot;</div>
   </td>
   <td>
     <div>130° 25' 45&quot;</div>
@@ -20884,7 +20877,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>12</div>
   </td>
   <td>
-    <div>‑11° 24' 39&quot;</div>
+    <div>-11° 24' 39&quot;</div>
   </td>
   <td>
     <div>130° 25' 32&quot;</div>
@@ -20895,7 +20888,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>13</div>
   </td>
   <td>
-    <div>‑11° 24' 52&quot;</div>
+    <div>-11° 24' 52&quot;</div>
   </td>
   <td>
     <div>130° 25' 32&quot;</div>
@@ -20906,7 +20899,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>14</div>
   </td>
   <td>
-    <div>‑11° 24' 52&quot;</div>
+    <div>-11° 24' 52&quot;</div>
   </td>
   <td>
     <div>130° 25' 21&quot;</div>
@@ -20917,7 +20910,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>15</div>
   </td>
   <td>
-    <div>‑11° 24' 47&quot;</div>
+    <div>-11° 24' 47&quot;</div>
   </td>
   <td>
     <div>130° 25' 21&quot;</div>
@@ -20928,7 +20921,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>16</div>
   </td>
   <td>
-    <div>‑11° 24' 47&quot;</div>
+    <div>-11° 24' 47&quot;</div>
   </td>
   <td>
     <div>130° 25' 12&quot;</div>
@@ -20978,7 +20971,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>17</div>
   </td>
   <td>
-    <div>‑11° 24' 50&quot;</div>
+    <div>-11° 24' 50&quot;</div>
   </td>
   <td>
     <div>130° 25' 47&quot;</div>
@@ -20989,7 +20982,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>18</div>
   </td>
   <td>
-    <div>‑11° 24' 38&quot;</div>
+    <div>-11° 24' 38&quot;</div>
   </td>
   <td>
     <div>130° 25' 47&quot;</div>
@@ -21000,7 +20993,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>19</div>
   </td>
   <td>
-    <div>‑11° 24' 38&quot;</div>
+    <div>-11° 24' 38&quot;</div>
   </td>
   <td>
     <div>130° 25' 59&quot;</div>
@@ -21011,7 +21004,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>20</div>
   </td>
   <td>
-    <div>‑11° 24' 50&quot;</div>
+    <div>-11° 24' 50&quot;</div>
   </td>
   <td>
     <div>130° 25' 59&quot;</div>
@@ -21065,7 +21058,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>1</div>
   </td>
   <td>
-    <div>‑22° 12' 57&quot;</div>
+    <div>-22° 12' 57&quot;</div>
   </td>
   <td>
     <div>133° 26' 18&quot;</div>
@@ -21076,7 +21069,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>2</div>
   </td>
   <td>
-    <div>‑22° 12' 06&quot;</div>
+    <div>-22° 12' 06&quot;</div>
   </td>
   <td>
     <div>133° 26' 18&quot;</div>
@@ -21087,7 +21080,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>3</div>
   </td>
   <td>
-    <div>‑22° 12' 06&quot;</div>
+    <div>-22° 12' 06&quot;</div>
   </td>
   <td>
     <div>133° 25' 21&quot;</div>
@@ -21098,7 +21091,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>4</div>
   </td>
   <td>
-    <div>‑22° 12' 04&quot;</div>
+    <div>-22° 12' 04&quot;</div>
   </td>
   <td>
     <div>133° 25' 21&quot;</div>
@@ -21109,7 +21102,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>5</div>
   </td>
   <td>
-    <div>‑22° 12' 04&quot;</div>
+    <div>-22° 12' 04&quot;</div>
   </td>
   <td>
     <div>133° 25' 11&quot;</div>
@@ -21120,7 +21113,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>6</div>
   </td>
   <td>
-    <div>‑22° 12' 13&quot;</div>
+    <div>-22° 12' 13&quot;</div>
   </td>
   <td>
     <div>133° 25' 11&quot;</div>
@@ -21131,7 +21124,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>7</div>
   </td>
   <td>
-    <div>‑22° 12' 13&quot;</div>
+    <div>-22° 12' 13&quot;</div>
   </td>
   <td>
     <div>133° 25' 23&quot;</div>
@@ -21142,7 +21135,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>8</div>
   </td>
   <td>
-    <div>‑22° 12' 57&quot;</div>
+    <div>-22° 12' 57&quot;</div>
   </td>
   <td>
     <div>133° 25' 23&quot;</div>
@@ -21192,7 +21185,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>9</div>
   </td>
   <td>
-    <div>‑22° 13' 28&quot;</div>
+    <div>-22° 13' 28&quot;</div>
   </td>
   <td>
     <div>133° 25' 48&quot;</div>
@@ -21203,7 +21196,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>10</div>
   </td>
   <td>
-    <div>‑22° 13' 12&quot;</div>
+    <div>-22° 13' 12&quot;</div>
   </td>
   <td>
     <div>133° 25' 48&quot;</div>
@@ -21214,7 +21207,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>11</div>
   </td>
   <td>
-    <div>‑22° 13' 12&quot;</div>
+    <div>-22° 13' 12&quot;</div>
   </td>
   <td>
     <div>133° 26' 06&quot;</div>
@@ -21225,7 +21218,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>12</div>
   </td>
   <td>
-    <div>‑22° 13' 28&quot;</div>
+    <div>-22° 13' 28&quot;</div>
   </td>
   <td>
     <div>133° 26' 06&quot;</div>
@@ -21275,7 +21268,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>13</div>
   </td>
   <td>
-    <div>‑22° 11' 05&quot;</div>
+    <div>-22° 11' 05&quot;</div>
   </td>
   <td>
     <div>133° 26' 55&quot;</div>
@@ -21286,7 +21279,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>14</div>
   </td>
   <td>
-    <div>‑22° 10' 55&quot;</div>
+    <div>-22° 10' 55&quot;</div>
   </td>
   <td>
     <div>133° 26' 55&quot;</div>
@@ -21297,7 +21290,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>15</div>
   </td>
   <td>
-    <div>‑22° 10' 55&quot;</div>
+    <div>-22° 10' 55&quot;</div>
   </td>
   <td>
     <div>133° 27' 06&quot;</div>
@@ -21308,7 +21301,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>16</div>
   </td>
   <td>
-    <div>‑22° 11' 05&quot;</div>
+    <div>-22° 11' 05&quot;</div>
   </td>
   <td>
     <div>133° 27' 06&quot;</div>
@@ -21358,7 +21351,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>17</div>
   </td>
   <td>
-    <div>‑22° 11' 33&quot;</div>
+    <div>-22° 11' 33&quot;</div>
   </td>
   <td>
     <div>133° 27' 39&quot;</div>
@@ -21369,7 +21362,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>18</div>
   </td>
   <td>
-    <div>‑22° 11' 23&quot;</div>
+    <div>-22° 11' 23&quot;</div>
   </td>
   <td>
     <div>133° 27' 39&quot;</div>
@@ -21380,7 +21373,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>19</div>
   </td>
   <td>
-    <div>‑22° 11' 23&quot;</div>
+    <div>-22° 11' 23&quot;</div>
   </td>
   <td>
     <div>133° 27' 50&quot;</div>
@@ -21391,7 +21384,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>20</div>
   </td>
   <td>
-    <div>‑22° 11' 33&quot;</div>
+    <div>-22° 11' 33&quot;</div>
   </td>
   <td>
     <div>133° 27' 50&quot;</div>
@@ -21445,7 +21438,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>1</div>
   </td>
   <td>
-    <div>‑12° 21' 04&quot;</div>
+    <div>-12° 21' 04&quot;</div>
   </td>
   <td>
     <div>134° 55' 09&quot;</div>
@@ -21456,7 +21449,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>2</div>
   </td>
   <td>
-    <div>‑12° 19' 09&quot;</div>
+    <div>-12° 19' 09&quot;</div>
   </td>
   <td>
     <div>134° 55' 09&quot;</div>
@@ -21467,7 +21460,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>3</div>
   </td>
   <td>
-    <div>‑12° 19' 09&quot;</div>
+    <div>-12° 19' 09&quot;</div>
   </td>
   <td>
     <div>134° 56' 29&quot;</div>
@@ -21478,7 +21471,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>4</div>
   </td>
   <td>
-    <div>‑12° 19' 42&quot;</div>
+    <div>-12° 19' 42&quot;</div>
   </td>
   <td>
     <div>134° 56' 29&quot;</div>
@@ -21489,7 +21482,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>5</div>
   </td>
   <td>
-    <div>‑12° 19' 42&quot;</div>
+    <div>-12° 19' 42&quot;</div>
   </td>
   <td>
     <div>134° 56' 13&quot;</div>
@@ -21500,7 +21493,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>6</div>
   </td>
   <td>
-    <div>‑12° 21' 04&quot;</div>
+    <div>-12° 21' 04&quot;</div>
   </td>
   <td>
     <div>134° 56' 13&quot;</div>
@@ -21550,7 +21543,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>7</div>
   </td>
   <td>
-    <div>‑12° 21' 36&quot;</div>
+    <div>-12° 21' 36&quot;</div>
   </td>
   <td>
     <div>134° 52' 43&quot;</div>
@@ -21561,7 +21554,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>8</div>
   </td>
   <td>
-    <div>‑12° 21' 12&quot;</div>
+    <div>-12° 21' 12&quot;</div>
   </td>
   <td>
     <div>134° 52' 43&quot;</div>
@@ -21572,7 +21565,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>9</div>
   </td>
   <td>
-    <div>‑12° 21' 12&quot;</div>
+    <div>-12° 21' 12&quot;</div>
   </td>
   <td>
     <div>134° 54' 28&quot;</div>
@@ -21583,7 +21576,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>10</div>
   </td>
   <td>
-    <div>‑12° 21' 36&quot;</div>
+    <div>-12° 21' 36&quot;</div>
   </td>
   <td>
     <div>134° 54' 28&quot;</div>
@@ -21633,7 +21626,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>11</div>
   </td>
   <td>
-    <div>‑12° 16' 43&quot;</div>
+    <div>-12° 16' 43&quot;</div>
   </td>
   <td>
     <div>134° 54' 53&quot;</div>
@@ -21644,7 +21637,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>12</div>
   </td>
   <td>
-    <div>‑12° 16' 18&quot;</div>
+    <div>-12° 16' 18&quot;</div>
   </td>
   <td>
     <div>134° 54' 53&quot;</div>
@@ -21655,7 +21648,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>13</div>
   </td>
   <td>
-    <div>‑12° 16' 18&quot;</div>
+    <div>-12° 16' 18&quot;</div>
   </td>
   <td>
     <div>134° 55' 38&quot;</div>
@@ -21666,7 +21659,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>14</div>
   </td>
   <td>
-    <div>‑12° 16' 43&quot;</div>
+    <div>-12° 16' 43&quot;</div>
   </td>
   <td>
     <div>134° 55' 38&quot;</div>
@@ -21716,7 +21709,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>15</div>
   </td>
   <td>
-    <div>‑12° 18' 07&quot;</div>
+    <div>-12° 18' 07&quot;</div>
   </td>
   <td>
     <div>134° 57' 07&quot;</div>
@@ -21727,7 +21720,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>16</div>
   </td>
   <td>
-    <div>‑12° 17' 53&quot;</div>
+    <div>-12° 17' 53&quot;</div>
   </td>
   <td>
     <div>134° 57' 07&quot;</div>
@@ -21738,7 +21731,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>17</div>
   </td>
   <td>
-    <div>‑12° 17' 53&quot;</div>
+    <div>-12° 17' 53&quot;</div>
   </td>
   <td>
     <div>134° 57' 22&quot;</div>
@@ -21749,7 +21742,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>18</div>
   </td>
   <td>
-    <div>‑12° 18' 07&quot;</div>
+    <div>-12° 18' 07&quot;</div>
   </td>
   <td>
     <div>134° 57' 22&quot;</div>
@@ -21799,7 +21792,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>19</div>
   </td>
   <td>
-    <div>‑12° 17' 53&quot;</div>
+    <div>-12° 17' 53&quot;</div>
   </td>
   <td>
     <div>134° 58' 27&quot;</div>
@@ -21810,7 +21803,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>20</div>
   </td>
   <td>
-    <div>‑12° 17' 40&quot;</div>
+    <div>-12° 17' 40&quot;</div>
   </td>
   <td>
     <div>134° 58' 27&quot;</div>
@@ -21821,7 +21814,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>21</div>
   </td>
   <td>
-    <div>‑12° 17' 40&quot;</div>
+    <div>-12° 17' 40&quot;</div>
   </td>
   <td>
     <div>134° 58' 41&quot;</div>
@@ -21832,7 +21825,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>22</div>
   </td>
   <td>
-    <div>‑12° 17' 53&quot;</div>
+    <div>-12° 17' 53&quot;</div>
   </td>
   <td>
     <div>134° 58' 41&quot;</div>
@@ -21882,7 +21875,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>23</div>
   </td>
   <td>
-    <div>‑12° 19' 53&quot;</div>
+    <div>-12° 19' 53&quot;</div>
   </td>
   <td>
     <div>134° 57' 37&quot;</div>
@@ -21893,7 +21886,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>24</div>
   </td>
   <td>
-    <div>‑12° 19' 32&quot;</div>
+    <div>-12° 19' 32&quot;</div>
   </td>
   <td>
     <div>134° 57' 37&quot;</div>
@@ -21904,7 +21897,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>25</div>
   </td>
   <td>
-    <div>‑12° 19' 32&quot;</div>
+    <div>-12° 19' 32&quot;</div>
   </td>
   <td>
     <div>134° 58' 01&quot;</div>
@@ -21915,7 +21908,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>26</div>
   </td>
   <td>
-    <div>‑12° 19' 53&quot;</div>
+    <div>-12° 19' 53&quot;</div>
   </td>
   <td>
     <div>134° 58' 01&quot;</div>
@@ -21969,7 +21962,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>1</div>
   </td>
   <td>
-    <div>‑16° 45' 03&quot;</div>
+    <div>-16° 45' 03&quot;</div>
   </td>
   <td>
     <div>136° 58' 23&quot;</div>
@@ -21980,7 +21973,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>2</div>
   </td>
   <td>
-    <div>‑16° 45' 03&quot;</div>
+    <div>-16° 45' 03&quot;</div>
   </td>
   <td>
     <div>136° 59' 10&quot;</div>
@@ -21991,7 +21984,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>3</div>
   </td>
   <td>
-    <div>‑16° 44' 59&quot;</div>
+    <div>-16° 44' 59&quot;</div>
   </td>
   <td>
     <div>136° 59' 10&quot;</div>
@@ -22002,7 +21995,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>4</div>
   </td>
   <td>
-    <div>‑16° 44' 59&quot;</div>
+    <div>-16° 44' 59&quot;</div>
   </td>
   <td>
     <div>136° 59' 30&quot;</div>
@@ -22013,7 +22006,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>5</div>
   </td>
   <td>
-    <div>‑16° 46' 02&quot;</div>
+    <div>-16° 46' 02&quot;</div>
   </td>
   <td>
     <div>136° 59' 30&quot;</div>
@@ -22024,7 +22017,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>6</div>
   </td>
   <td>
-    <div>‑16° 46' 02&quot;</div>
+    <div>-16° 46' 02&quot;</div>
   </td>
   <td>
     <div>136° 58' 23&quot;</div>
@@ -22074,7 +22067,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>7</div>
   </td>
   <td>
-    <div>‑16° 44' 28&quot;</div>
+    <div>-16° 44' 28&quot;</div>
   </td>
   <td>
     <div>136° 58' 08&quot;</div>
@@ -22085,7 +22078,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>8</div>
   </td>
   <td>
-    <div>‑16° 44' 06&quot;</div>
+    <div>-16° 44' 06&quot;</div>
   </td>
   <td>
     <div>136° 57' 43&quot;</div>
@@ -22096,7 +22089,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>9</div>
   </td>
   <td>
-    <div>‑16° 43' 56&quot;</div>
+    <div>-16° 43' 56&quot;</div>
   </td>
   <td>
     <div>136° 57' 53&quot;</div>
@@ -22107,7 +22100,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>10</div>
   </td>
   <td>
-    <div>‑16° 44' 17&quot;</div>
+    <div>-16° 44' 17&quot;</div>
   </td>
   <td>
     <div>136° 58' 17&quot;</div>
@@ -22157,7 +22150,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>11</div>
   </td>
   <td>
-    <div>‑16° 44' 55&quot;</div>
+    <div>-16° 44' 55&quot;</div>
   </td>
   <td>
     <div>136° 57' 55&quot;</div>
@@ -22168,7 +22161,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>12</div>
   </td>
   <td>
-    <div>‑16° 44' 41&quot;</div>
+    <div>-16° 44' 41&quot;</div>
   </td>
   <td>
     <div>136° 57' 55&quot;</div>
@@ -22179,7 +22172,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>13</div>
   </td>
   <td>
-    <div>‑16° 44' 41&quot;</div>
+    <div>-16° 44' 41&quot;</div>
   </td>
   <td>
     <div>136° 58' 10&quot;</div>
@@ -22190,7 +22183,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>14</div>
   </td>
   <td>
-    <div>‑16° 44' 55&quot;</div>
+    <div>-16° 44' 55&quot;</div>
   </td>
   <td>
     <div>136° 58' 10&quot;</div>
@@ -22244,7 +22237,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>1</div>
   </td>
   <td>
-    <div>‑24° 08' 29&quot;</div>
+    <div>-24° 08' 29&quot;</div>
   </td>
   <td>
     <div>134° 22' 09&quot;</div>
@@ -22255,7 +22248,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>2</div>
   </td>
   <td>
-    <div>‑24° 08' 48&quot;</div>
+    <div>-24° 08' 48&quot;</div>
   </td>
   <td>
     <div>134° 22' 09&quot;</div>
@@ -22266,7 +22259,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>3</div>
   </td>
   <td>
-    <div>‑24° 08' 48&quot;</div>
+    <div>-24° 08' 48&quot;</div>
   </td>
   <td>
     <div>134° 21' 47&quot;</div>
@@ -22277,7 +22270,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>4</div>
   </td>
   <td>
-    <div>‑24° 07' 10&quot;</div>
+    <div>-24° 07' 10&quot;</div>
   </td>
   <td>
     <div>134° 21' 47&quot;</div>
@@ -22288,7 +22281,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>5</div>
   </td>
   <td>
-    <div>‑24° 07' 10&quot;</div>
+    <div>-24° 07' 10&quot;</div>
   </td>
   <td>
     <div>134° 22' 52&quot;</div>
@@ -22299,7 +22292,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>6</div>
   </td>
   <td>
-    <div>‑24° 06' 36&quot;</div>
+    <div>-24° 06' 36&quot;</div>
   </td>
   <td>
     <div>134° 23' 03&quot;</div>
@@ -22310,7 +22303,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>7</div>
   </td>
   <td>
-    <div>‑24° 06' 36&quot;</div>
+    <div>-24° 06' 36&quot;</div>
   </td>
   <td>
     <div>134° 24' 25&quot;</div>
@@ -22321,7 +22314,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>8</div>
   </td>
   <td>
-    <div>‑24° 06' 58&quot;</div>
+    <div>-24° 06' 58&quot;</div>
   </td>
   <td>
     <div>134° 24' 25&quot;</div>
@@ -22332,7 +22325,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>9</div>
   </td>
   <td>
-    <div>‑24° 06' 58&quot;</div>
+    <div>-24° 06' 58&quot;</div>
   </td>
   <td>
     <div>134° 23' 58&quot;</div>
@@ -22343,7 +22336,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>10</div>
   </td>
   <td>
-    <div>‑24° 07' 15&quot;</div>
+    <div>-24° 07' 15&quot;</div>
   </td>
   <td>
     <div>134° 23' 53&quot;</div>
@@ -22354,7 +22347,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>11</div>
   </td>
   <td>
-    <div>‑24° 07' 15&quot;</div>
+    <div>-24° 07' 15&quot;</div>
   </td>
   <td>
     <div>134° 23' 06&quot;</div>
@@ -22365,7 +22358,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>12</div>
   </td>
   <td>
-    <div>‑24° 08' 29&quot;</div>
+    <div>-24° 08' 29&quot;</div>
   </td>
   <td>
     <div>134° 23' 06&quot;</div>
@@ -22415,7 +22408,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>13</div>
   </td>
   <td>
-    <div>‑24° 06' 33&quot;</div>
+    <div>-24° 06' 33&quot;</div>
   </td>
   <td>
     <div>134° 24' 49&quot;</div>
@@ -22426,7 +22419,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>14</div>
   </td>
   <td>
-    <div>‑24° 06' 23&quot;</div>
+    <div>-24° 06' 23&quot;</div>
   </td>
   <td>
     <div>134° 24' 49&quot;</div>
@@ -22437,7 +22430,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>15</div>
   </td>
   <td>
-    <div>‑24° 06' 23&quot;</div>
+    <div>-24° 06' 23&quot;</div>
   </td>
   <td>
     <div>134° 25' 01&quot;</div>
@@ -22448,7 +22441,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>16</div>
   </td>
   <td>
-    <div>‑24° 06' 33&quot;</div>
+    <div>-24° 06' 33&quot;</div>
   </td>
   <td>
     <div>134° 25' 01&quot;</div>
@@ -22498,7 +22491,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>17</div>
   </td>
   <td>
-    <div>‑24° 06' 24&quot;</div>
+    <div>-24° 06' 24&quot;</div>
   </td>
   <td>
     <div>134° 22' 43&quot;</div>
@@ -22509,7 +22502,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>18</div>
   </td>
   <td>
-    <div>‑24° 06' 12&quot;</div>
+    <div>-24° 06' 12&quot;</div>
   </td>
   <td>
     <div>134° 22' 43&quot;</div>
@@ -22520,7 +22513,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>19</div>
   </td>
   <td>
-    <div>‑24° 06' 12&quot;</div>
+    <div>-24° 06' 12&quot;</div>
   </td>
   <td>
     <div>134° 22' 58&quot;</div>
@@ -22531,7 +22524,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>20</div>
   </td>
   <td>
-    <div>‑24° 06' 24&quot;</div>
+    <div>-24° 06' 24&quot;</div>
   </td>
   <td>
     <div>134° 22' 58&quot;</div>
@@ -22585,7 +22578,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>1</div>
   </td>
   <td>
-    <div>‑13° 52' 03&quot;</div>
+    <div>-13° 52' 03&quot;</div>
   </td>
   <td>
     <div>136° 48' 46&quot;</div>
@@ -22596,7 +22589,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>2</div>
   </td>
   <td>
-    <div>‑13° 52' 22&quot;</div>
+    <div>-13° 52' 22&quot;</div>
   </td>
   <td>
     <div>136° 48' 46&quot;</div>
@@ -22607,7 +22600,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>3</div>
   </td>
   <td>
-    <div>‑13° 52' 22&quot;</div>
+    <div>-13° 52' 22&quot;</div>
   </td>
   <td>
     <div>136° 48' 34&quot;</div>
@@ -22618,7 +22611,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>4</div>
   </td>
   <td>
-    <div>‑13° 52' 09&quot;</div>
+    <div>-13° 52' 09&quot;</div>
   </td>
   <td>
     <div>136° 48' 34&quot;</div>
@@ -22629,7 +22622,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>5</div>
   </td>
   <td>
-    <div>‑13° 52' 09&quot;</div>
+    <div>-13° 52' 09&quot;</div>
   </td>
   <td>
     <div>136° 48' 01&quot;</div>
@@ -22640,7 +22633,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>6</div>
   </td>
   <td>
-    <div>‑13° 52' 47&quot;</div>
+    <div>-13° 52' 47&quot;</div>
   </td>
   <td>
     <div>136° 46' 46&quot;</div>
@@ -22651,7 +22644,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>7</div>
   </td>
   <td>
-    <div>‑13° 52' 36&quot;</div>
+    <div>-13° 52' 36&quot;</div>
   </td>
   <td>
     <div>136° 46' 40&quot;</div>
@@ -22662,7 +22655,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>8</div>
   </td>
   <td>
-    <div>‑13° 52' 03&quot;</div>
+    <div>-13° 52' 03&quot;</div>
   </td>
   <td>
     <div>136° 47' 44&quot;</div>
@@ -22673,7 +22666,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>9</div>
   </td>
   <td>
-    <div>‑13° 51' 45&quot;</div>
+    <div>-13° 51' 45&quot;</div>
   </td>
   <td>
     <div>136° 47' 44&quot;</div>
@@ -22684,7 +22677,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>10</div>
   </td>
   <td>
-    <div>‑13° 51' 45&quot;</div>
+    <div>-13° 51' 45&quot;</div>
   </td>
   <td>
     <div>136° 48' 11&quot;</div>
@@ -22695,7 +22688,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>11</div>
   </td>
   <td>
-    <div>‑13° 51' 20&quot;</div>
+    <div>-13° 51' 20&quot;</div>
   </td>
   <td>
     <div>136° 48' 11&quot;</div>
@@ -22706,7 +22699,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>12</div>
   </td>
   <td>
-    <div>‑13° 51' 14&quot;</div>
+    <div>-13° 51' 14&quot;</div>
   </td>
   <td>
     <div>136° 49' 08&quot;</div>
@@ -22717,7 +22710,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>13</div>
   </td>
   <td>
-    <div>‑13° 52' 03&quot;</div>
+    <div>-13° 52' 03&quot;</div>
   </td>
   <td>
     <div>136° 49' 08&quot;</div>
@@ -22767,7 +22760,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>14</div>
   </td>
   <td>
-    <div>‑13° 52' 00&quot;</div>
+    <div>-13° 52' 00&quot;</div>
   </td>
   <td>
     <div>136° 46' 37&quot;</div>
@@ -22778,7 +22771,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>15</div>
   </td>
   <td>
-    <div>‑13° 51' 43&quot;</div>
+    <div>-13° 51' 43&quot;</div>
   </td>
   <td>
     <div>136° 46' 37&quot;</div>
@@ -22789,7 +22782,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>16</div>
   </td>
   <td>
-    <div>‑13° 51' 43&quot;</div>
+    <div>-13° 51' 43&quot;</div>
   </td>
   <td>
     <div>136° 46' 52&quot;</div>
@@ -22800,7 +22793,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>17</div>
   </td>
   <td>
-    <div>‑13° 52' 00&quot;</div>
+    <div>-13° 52' 00&quot;</div>
   </td>
   <td>
     <div>136° 46' 52&quot;</div>
@@ -22850,7 +22843,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>18</div>
   </td>
   <td>
-    <div>‑13° 52' 51&quot;</div>
+    <div>-13° 52' 51&quot;</div>
   </td>
   <td>
     <div>136° 46' 01&quot;</div>
@@ -22861,7 +22854,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>19</div>
   </td>
   <td>
-    <div>‑13° 52' 40&quot;</div>
+    <div>-13° 52' 40&quot;</div>
   </td>
   <td>
     <div>136° 46' 01&quot;</div>
@@ -22872,7 +22865,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>20</div>
   </td>
   <td>
-    <div>‑13° 52' 40&quot;</div>
+    <div>-13° 52' 40&quot;</div>
   </td>
   <td>
     <div>136° 46' 14&quot;</div>
@@ -22883,7 +22876,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>21</div>
   </td>
   <td>
-    <div>‑13° 52' 51&quot;</div>
+    <div>-13° 52' 51&quot;</div>
   </td>
   <td>
     <div>136° 46' 14&quot;</div>
@@ -22933,7 +22926,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>22</div>
   </td>
   <td>
-    <div>‑13° 54' 35&quot;</div>
+    <div>-13° 54' 35&quot;</div>
   </td>
   <td>
     <div>136° 51' 24&quot;</div>
@@ -22944,7 +22937,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>23</div>
   </td>
   <td>
-    <div>‑13° 54' 26&quot;</div>
+    <div>-13° 54' 26&quot;</div>
   </td>
   <td>
     <div>136° 51' 24&quot;</div>
@@ -22955,7 +22948,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>24</div>
   </td>
   <td>
-    <div>‑13° 54' 26&quot;</div>
+    <div>-13° 54' 26&quot;</div>
   </td>
   <td>
     <div>136° 51' 33&quot;</div>
@@ -22966,7 +22959,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>25</div>
   </td>
   <td>
-    <div>‑13° 54' 35&quot;</div>
+    <div>-13° 54' 35&quot;</div>
   </td>
   <td>
     <div>136° 51' 33&quot;</div>
@@ -23020,7 +23013,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>1</div>
   </td>
   <td>
-    <div>‑14° 13' 43&quot;</div>
+    <div>-14° 13' 43&quot;</div>
   </td>
   <td>
     <div>129° 31' 22&quot;</div>
@@ -23031,7 +23024,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>2</div>
   </td>
   <td>
-    <div>‑14° 13' 43&quot;</div>
+    <div>-14° 13' 43&quot;</div>
   </td>
   <td>
     <div>129° 31' 48&quot;</div>
@@ -23042,7 +23035,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>3</div>
   </td>
   <td>
-    <div>‑14° 13' 55&quot;</div>
+    <div>-14° 13' 55&quot;</div>
   </td>
   <td>
     <div>129° 31' 48&quot;</div>
@@ -23053,7 +23046,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>4</div>
   </td>
   <td>
-    <div>‑14° 13' 55&quot;</div>
+    <div>-14° 13' 55&quot;</div>
   </td>
   <td>
     <div>129° 32' 10&quot;</div>
@@ -23064,7 +23057,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>5</div>
   </td>
   <td>
-    <div>‑14° 14' 09&quot;</div>
+    <div>-14° 14' 09&quot;</div>
   </td>
   <td>
     <div>129° 32' 10&quot;</div>
@@ -23075,7 +23068,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>6</div>
   </td>
   <td>
-    <div>‑14° 14' 09&quot;</div>
+    <div>-14° 14' 09&quot;</div>
   </td>
   <td>
     <div>129° 32' 05&quot;</div>
@@ -23086,7 +23079,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>7</div>
   </td>
   <td>
-    <div>‑14° 14' 47&quot;</div>
+    <div>-14° 14' 47&quot;</div>
   </td>
   <td>
     <div>129° 32' 05&quot;</div>
@@ -23097,7 +23090,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>8</div>
   </td>
   <td>
-    <div>‑14° 14' 47&quot;</div>
+    <div>-14° 14' 47&quot;</div>
   </td>
   <td>
     <div>129° 31' 48&quot;</div>
@@ -23108,7 +23101,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>9</div>
   </td>
   <td>
-    <div>‑14° 15' 26&quot;</div>
+    <div>-14° 15' 26&quot;</div>
   </td>
   <td>
     <div>129° 32' 01&quot;</div>
@@ -23119,7 +23112,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>10</div>
   </td>
   <td>
-    <div>‑14° 15' 29&quot;</div>
+    <div>-14° 15' 29&quot;</div>
   </td>
   <td>
     <div>129° 32' 14&quot;</div>
@@ -23130,7 +23123,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>11</div>
   </td>
   <td>
-    <div>‑14° 15' 29&quot;</div>
+    <div>-14° 15' 29&quot;</div>
   </td>
   <td>
     <div>129° 32' 29&quot;</div>
@@ -23141,7 +23134,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>12</div>
   </td>
   <td>
-    <div>‑14° 15' 50&quot;</div>
+    <div>-14° 15' 50&quot;</div>
   </td>
   <td>
     <div>129° 32' 29&quot;</div>
@@ -23152,7 +23145,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>13</div>
   </td>
   <td>
-    <div>‑14° 15' 50&quot;</div>
+    <div>-14° 15' 50&quot;</div>
   </td>
   <td>
     <div>129° 32' 14&quot;</div>
@@ -23163,7 +23156,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>14</div>
   </td>
   <td>
-    <div>‑14° 15' 58&quot;</div>
+    <div>-14° 15' 58&quot;</div>
   </td>
   <td>
     <div>129° 31' 54&quot;</div>
@@ -23174,7 +23167,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>15</div>
   </td>
   <td>
-    <div>‑14° 15' 58&quot;</div>
+    <div>-14° 15' 58&quot;</div>
   </td>
   <td>
     <div>129° 31' 41&quot;</div>
@@ -23185,7 +23178,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>16</div>
   </td>
   <td>
-    <div>‑14° 15' 46&quot;</div>
+    <div>-14° 15' 46&quot;</div>
   </td>
   <td>
     <div>129° 31' 41&quot;</div>
@@ -23196,7 +23189,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>17</div>
   </td>
   <td>
-    <div>‑14° 15' 29&quot;</div>
+    <div>-14° 15' 29&quot;</div>
   </td>
   <td>
     <div>129° 31' 50&quot;</div>
@@ -23207,7 +23200,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>18</div>
   </td>
   <td>
-    <div>‑14° 15' 00&quot;</div>
+    <div>-14° 15' 00&quot;</div>
   </td>
   <td>
     <div>129° 31' 40&quot;</div>
@@ -23218,7 +23211,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>19</div>
   </td>
   <td>
-    <div>‑14° 15' 00&quot;</div>
+    <div>-14° 15' 00&quot;</div>
   </td>
   <td>
     <div>129° 30' 28&quot;</div>
@@ -23229,7 +23222,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>20</div>
   </td>
   <td>
-    <div>‑14° 14' 20&quot;</div>
+    <div>-14° 14' 20&quot;</div>
   </td>
   <td>
     <div>129° 30' 28&quot;</div>
@@ -23240,7 +23233,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>21</div>
   </td>
   <td>
-    <div>‑14° 14' 20&quot;</div>
+    <div>-14° 14' 20&quot;</div>
   </td>
   <td>
     <div>129° 30' 10&quot;</div>
@@ -23251,7 +23244,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>22</div>
   </td>
   <td>
-    <div>‑14° 13' 38&quot;</div>
+    <div>-14° 13' 38&quot;</div>
   </td>
   <td>
     <div>129° 30' 10&quot;</div>
@@ -23262,7 +23255,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>23</div>
   </td>
   <td>
-    <div>‑14° 13' 38&quot;</div>
+    <div>-14° 13' 38&quot;</div>
   </td>
   <td>
     <div>129° 30' 43&quot;</div>
@@ -23273,7 +23266,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>24</div>
   </td>
   <td>
-    <div>‑14° 13' 22&quot;</div>
+    <div>-14° 13' 22&quot;</div>
   </td>
   <td>
     <div>129° 30' 43&quot;</div>
@@ -23284,7 +23277,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>25</div>
   </td>
   <td>
-    <div>‑14° 13' 22&quot;</div>
+    <div>-14° 13' 22&quot;</div>
   </td>
   <td>
     <div>129° 31' 22&quot;</div>
@@ -23334,7 +23327,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>26</div>
   </td>
   <td>
-    <div>‑14° 13' 32&quot;</div>
+    <div>-14° 13' 32&quot;</div>
   </td>
   <td>
     <div>129° 30' 28&quot;</div>
@@ -23345,7 +23338,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>27</div>
   </td>
   <td>
-    <div>‑14° 13' 22&quot;</div>
+    <div>-14° 13' 22&quot;</div>
   </td>
   <td>
     <div>129° 30' 28&quot;</div>
@@ -23356,7 +23349,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>28</div>
   </td>
   <td>
-    <div>‑14° 13' 22&quot;</div>
+    <div>-14° 13' 22&quot;</div>
   </td>
   <td>
     <div>129° 30' 37&quot;</div>
@@ -23367,7 +23360,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>29</div>
   </td>
   <td>
-    <div>‑14° 13' 32&quot;</div>
+    <div>-14° 13' 32&quot;</div>
   </td>
   <td>
     <div>129° 30' 37&quot;</div>
@@ -23417,7 +23410,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>30</div>
   </td>
   <td>
-    <div>‑14° 15' 53&quot;</div>
+    <div>-14° 15' 53&quot;</div>
   </td>
   <td>
     <div>129° 30' 53&quot;</div>
@@ -23428,7 +23421,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>31</div>
   </td>
   <td>
-    <div>‑14° 15' 33&quot;</div>
+    <div>-14° 15' 33&quot;</div>
   </td>
   <td>
     <div>129° 30' 53&quot;</div>
@@ -23439,7 +23432,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>32</div>
   </td>
   <td>
-    <div>‑14° 15' 33&quot;</div>
+    <div>-14° 15' 33&quot;</div>
   </td>
   <td>
     <div>129° 31' 14&quot;</div>
@@ -23450,7 +23443,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>33</div>
   </td>
   <td>
-    <div>‑14° 15' 53&quot;</div>
+    <div>-14° 15' 53&quot;</div>
   </td>
   <td>
     <div>129° 31' 14&quot;</div>
@@ -23500,7 +23493,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>34</div>
   </td>
   <td>
-    <div>‑14° 16' 33&quot;</div>
+    <div>-14° 16' 33&quot;</div>
   </td>
   <td>
     <div>129° 31' 44&quot;</div>
@@ -23511,7 +23504,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>35</div>
   </td>
   <td>
-    <div>‑14° 16' 06&quot;</div>
+    <div>-14° 16' 06&quot;</div>
   </td>
   <td>
     <div>129° 31' 44&quot;</div>
@@ -23522,7 +23515,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>36</div>
   </td>
   <td>
-    <div>‑14° 16' 06&quot;</div>
+    <div>-14° 16' 06&quot;</div>
   </td>
   <td>
     <div>129° 32' 03&quot;</div>
@@ -23533,7 +23526,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>37</div>
   </td>
   <td>
-    <div>‑14° 16' 33&quot;</div>
+    <div>-14° 16' 33&quot;</div>
   </td>
   <td>
     <div>129° 32' 03&quot;</div>
@@ -23587,7 +23580,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>1</div>
   </td>
   <td>
-    <div>‑24° 07' 56&quot;</div>
+    <div>-24° 07' 56&quot;</div>
   </td>
   <td>
     <div>133° 06' 05&quot;</div>
@@ -23598,7 +23591,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>2</div>
   </td>
   <td>
-    <div>‑24° 07' 56&quot;</div>
+    <div>-24° 07' 56&quot;</div>
   </td>
   <td>
     <div>133° 05' 52&quot;</div>
@@ -23609,7 +23602,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>3</div>
   </td>
   <td>
-    <div>‑24° 07' 53&quot;</div>
+    <div>-24° 07' 53&quot;</div>
   </td>
   <td>
     <div>133° 05' 52&quot;</div>
@@ -23620,7 +23613,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>4</div>
   </td>
   <td>
-    <div>‑24° 07' 53&quot;</div>
+    <div>-24° 07' 53&quot;</div>
   </td>
   <td>
     <div>133° 04' 45&quot;</div>
@@ -23631,7 +23624,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>5</div>
   </td>
   <td>
-    <div>‑24° 08' 02&quot;</div>
+    <div>-24° 08' 02&quot;</div>
   </td>
   <td>
     <div>133° 04' 45&quot;</div>
@@ -23642,7 +23635,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>6</div>
   </td>
   <td>
-    <div>‑24° 08' 02&quot;</div>
+    <div>-24° 08' 02&quot;</div>
   </td>
   <td>
     <div>133° 04' 36&quot;</div>
@@ -23653,7 +23646,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>7</div>
   </td>
   <td>
-    <div>‑24° 07' 23&quot;</div>
+    <div>-24° 07' 23&quot;</div>
   </td>
   <td>
     <div>133° 04' 36&quot;</div>
@@ -23664,7 +23657,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>8</div>
   </td>
   <td>
-    <div>‑24° 07' 23&quot;</div>
+    <div>-24° 07' 23&quot;</div>
   </td>
   <td>
     <div>133° 04' 30&quot;</div>
@@ -23675,7 +23668,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>9</div>
   </td>
   <td>
-    <div>‑24° 07' 13&quot;</div>
+    <div>-24° 07' 13&quot;</div>
   </td>
   <td>
     <div>133° 04' 30&quot;</div>
@@ -23686,7 +23679,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>10</div>
   </td>
   <td>
-    <div>‑24° 07' 13&quot;</div>
+    <div>-24° 07' 13&quot;</div>
   </td>
   <td>
     <div>133° 04' 44&quot;</div>
@@ -23697,7 +23690,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>11</div>
   </td>
   <td>
-    <div>‑24° 07' 05&quot;</div>
+    <div>-24° 07' 05&quot;</div>
   </td>
   <td>
     <div>133° 04' 44&quot;</div>
@@ -23708,7 +23701,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>12</div>
   </td>
   <td>
-    <div>‑24° 07' 05&quot;</div>
+    <div>-24° 07' 05&quot;</div>
   </td>
   <td>
     <div>133° 04' 58&quot;</div>
@@ -23719,7 +23712,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>13</div>
   </td>
   <td>
-    <div>‑24° 06' 48&quot;</div>
+    <div>-24° 06' 48&quot;</div>
   </td>
   <td>
     <div>133° 04' 58&quot;</div>
@@ -23730,7 +23723,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>14</div>
   </td>
   <td>
-    <div>‑24° 06' 48&quot;</div>
+    <div>-24° 06' 48&quot;</div>
   </td>
   <td>
     <div>133° 05' 15&quot;</div>
@@ -23741,7 +23734,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>15</div>
   </td>
   <td>
-    <div>‑24° 07' 05&quot;</div>
+    <div>-24° 07' 05&quot;</div>
   </td>
   <td>
     <div>133° 05' 15&quot;</div>
@@ -23752,7 +23745,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>16</div>
   </td>
   <td>
-    <div>‑24° 07' 05&quot;</div>
+    <div>-24° 07' 05&quot;</div>
   </td>
   <td>
     <div>133° 05' 44&quot;</div>
@@ -23763,7 +23756,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>17</div>
   </td>
   <td>
-    <div>‑24° 07' 28&quot;</div>
+    <div>-24° 07' 28&quot;</div>
   </td>
   <td>
     <div>133° 06' 05&quot;</div>
@@ -23813,7 +23806,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>18</div>
   </td>
   <td>
-    <div>‑24° 07' 39&quot;</div>
+    <div>-24° 07' 39&quot;</div>
   </td>
   <td>
     <div>133° 06' 24&quot;</div>
@@ -23824,7 +23817,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>19</div>
   </td>
   <td>
-    <div>‑24° 07' 24&quot;</div>
+    <div>-24° 07' 24&quot;</div>
   </td>
   <td>
     <div>133° 06' 24&quot;</div>
@@ -23835,7 +23828,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>20</div>
   </td>
   <td>
-    <div>‑24° 07' 24&quot;</div>
+    <div>-24° 07' 24&quot;</div>
   </td>
   <td>
     <div>133° 06' 51&quot;</div>
@@ -23846,7 +23839,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>21</div>
   </td>
   <td>
-    <div>‑24° 07' 39&quot;</div>
+    <div>-24° 07' 39&quot;</div>
   </td>
   <td>
     <div>133° 06' 51&quot;</div>
@@ -23900,7 +23893,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>1</div>
   </td>
   <td>
-    <div>‑11° 39' 15&quot;</div>
+    <div>-11° 39' 15&quot;</div>
   </td>
   <td>
     <div>133° 22' 19&quot;</div>
@@ -23911,7 +23904,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>2</div>
   </td>
   <td>
-    <div>‑11° 39' 35&quot;</div>
+    <div>-11° 39' 35&quot;</div>
   </td>
   <td>
     <div>133° 22' 19&quot;</div>
@@ -23922,7 +23915,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>3</div>
   </td>
   <td>
-    <div>‑11° 39' 35&quot;</div>
+    <div>-11° 39' 35&quot;</div>
   </td>
   <td>
     <div>133° 21' 58&quot;</div>
@@ -23933,7 +23926,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>4</div>
   </td>
   <td>
-    <div>‑11° 39' 12&quot;</div>
+    <div>-11° 39' 12&quot;</div>
   </td>
   <td>
     <div>133° 21' 58&quot;</div>
@@ -23944,7 +23937,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>5</div>
   </td>
   <td>
-    <div>‑11° 39' 10&quot;</div>
+    <div>-11° 39' 10&quot;</div>
   </td>
   <td>
     <div>133° 21' 49&quot;</div>
@@ -23955,7 +23948,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>6</div>
   </td>
   <td>
-    <div>‑11° 38' 47&quot;</div>
+    <div>-11° 38' 47&quot;</div>
   </td>
   <td>
     <div>133° 21' 53&quot;</div>
@@ -23966,7 +23959,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>7</div>
   </td>
   <td>
-    <div>‑11° 38' 55&quot;</div>
+    <div>-11° 38' 55&quot;</div>
   </td>
   <td>
     <div>133° 22' 43&quot;</div>
@@ -23977,7 +23970,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>8</div>
   </td>
   <td>
-    <div>‑11° 38' 23&quot;</div>
+    <div>-11° 38' 23&quot;</div>
   </td>
   <td>
     <div>133° 22' 43&quot;</div>
@@ -23988,7 +23981,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>9</div>
   </td>
   <td>
-    <div>‑11° 38' 23&quot;</div>
+    <div>-11° 38' 23&quot;</div>
   </td>
   <td>
     <div>133° 22' 09&quot;</div>
@@ -23999,7 +23992,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>10</div>
   </td>
   <td>
-    <div>‑11° 38' 03&quot;</div>
+    <div>-11° 38' 03&quot;</div>
   </td>
   <td>
     <div>133° 22' 09&quot;</div>
@@ -24010,7 +24003,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>11</div>
   </td>
   <td>
-    <div>‑11° 38' 03&quot;</div>
+    <div>-11° 38' 03&quot;</div>
   </td>
   <td>
     <div>133° 22' 54&quot;</div>
@@ -24021,7 +24014,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>12</div>
   </td>
   <td>
-    <div>‑11° 38' 22&quot;</div>
+    <div>-11° 38' 22&quot;</div>
   </td>
   <td>
     <div>133° 22' 54&quot;</div>
@@ -24032,7 +24025,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>13</div>
   </td>
   <td>
-    <div>‑11° 38' 22&quot;</div>
+    <div>-11° 38' 22&quot;</div>
   </td>
   <td>
     <div>133° 23' 07&quot;</div>
@@ -24043,7 +24036,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>14</div>
   </td>
   <td>
-    <div>‑11° 39' 43&quot;</div>
+    <div>-11° 39' 43&quot;</div>
   </td>
   <td>
     <div>133° 24' 04&quot;</div>
@@ -24054,7 +24047,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>15</div>
   </td>
   <td>
-    <div>‑11° 39' 43&quot;</div>
+    <div>-11° 39' 43&quot;</div>
   </td>
   <td>
     <div>133° 23' 45&quot;</div>
@@ -24065,7 +24058,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>16</div>
   </td>
   <td>
-    <div>‑11° 39' 25&quot;</div>
+    <div>-11° 39' 25&quot;</div>
   </td>
   <td>
     <div>133° 23' 45&quot;</div>
@@ -24076,7 +24069,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>17</div>
   </td>
   <td>
-    <div>‑11° 39' 25&quot;</div>
+    <div>-11° 39' 25&quot;</div>
   </td>
   <td>
     <div>133° 22' 52&quot;</div>
@@ -24087,7 +24080,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>18</div>
   </td>
   <td>
-    <div>‑11° 39' 21&quot;</div>
+    <div>-11° 39' 21&quot;</div>
   </td>
   <td>
     <div>133° 22' 52&quot;</div>
@@ -24137,7 +24130,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>19</div>
   </td>
   <td>
-    <div>‑11° 36' 58&quot;</div>
+    <div>-11° 36' 58&quot;</div>
   </td>
   <td>
     <div>133° 24' 12&quot;</div>
@@ -24148,7 +24141,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>20</div>
   </td>
   <td>
-    <div>‑11° 36' 43&quot;</div>
+    <div>-11° 36' 43&quot;</div>
   </td>
   <td>
     <div>133° 24' 12&quot;</div>
@@ -24159,7 +24152,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>21</div>
   </td>
   <td>
-    <div>‑11° 36' 43&quot;</div>
+    <div>-11° 36' 43&quot;</div>
   </td>
   <td>
     <div>133° 24' 30&quot;</div>
@@ -24170,7 +24163,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>22</div>
   </td>
   <td>
-    <div>‑11° 36' 58&quot;</div>
+    <div>-11° 36' 58&quot;</div>
   </td>
   <td>
     <div>133° 24' 30&quot;</div>
@@ -24220,7 +24213,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>23</div>
   </td>
   <td>
-    <div>‑11° 36' 49&quot;</div>
+    <div>-11° 36' 49&quot;</div>
   </td>
   <td>
     <div>133° 24' 41&quot;</div>
@@ -24231,7 +24224,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>24</div>
   </td>
   <td>
-    <div>‑11° 36' 32&quot;</div>
+    <div>-11° 36' 32&quot;</div>
   </td>
   <td>
     <div>133° 24' 41&quot;</div>
@@ -24242,7 +24235,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>25</div>
   </td>
   <td>
-    <div>‑11° 36' 32&quot;</div>
+    <div>-11° 36' 32&quot;</div>
   </td>
   <td>
     <div>133° 24' 57&quot;</div>
@@ -24253,7 +24246,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>26</div>
   </td>
   <td>
-    <div>‑11° 36' 49&quot;</div>
+    <div>-11° 36' 49&quot;</div>
   </td>
   <td>
     <div>133° 24' 57&quot;</div>
@@ -24303,7 +24296,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>27</div>
   </td>
   <td>
-    <div>‑11° 36' 56&quot;</div>
+    <div>-11° 36' 56&quot;</div>
   </td>
   <td>
     <div>133° 26' 02&quot;</div>
@@ -24314,7 +24307,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>28</div>
   </td>
   <td>
-    <div>‑11° 36' 56&quot;</div>
+    <div>-11° 36' 56&quot;</div>
   </td>
   <td>
     <div>133° 25' 24&quot;</div>
@@ -24325,7 +24318,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>29</div>
   </td>
   <td>
-    <div>‑11° 36' 40&quot;</div>
+    <div>-11° 36' 40&quot;</div>
   </td>
   <td>
     <div>133° 25' 24&quot;</div>
@@ -24336,7 +24329,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>30</div>
   </td>
   <td>
-    <div>‑11° 36' 40&quot;</div>
+    <div>-11° 36' 40&quot;</div>
   </td>
   <td>
     <div>133° 25' 35&quot;</div>
@@ -24347,7 +24340,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>31</div>
   </td>
   <td>
-    <div>‑11° 36' 12&quot;</div>
+    <div>-11° 36' 12&quot;</div>
   </td>
   <td>
     <div>133° 25' 35&quot;</div>
@@ -24358,7 +24351,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>32</div>
   </td>
   <td>
-    <div>‑11° 36' 12&quot;</div>
+    <div>-11° 36' 12&quot;</div>
   </td>
   <td>
     <div>133° 26' 02&quot;</div>
@@ -24412,7 +24405,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>1</div>
   </td>
   <td>
-    <div>‑13° 38' 57&quot;</div>
+    <div>-13° 38' 57&quot;</div>
   </td>
   <td>
     <div>134° 18' 55&quot;</div>
@@ -24423,7 +24416,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>2</div>
   </td>
   <td>
-    <div>‑13° 38' 57&quot;</div>
+    <div>-13° 38' 57&quot;</div>
   </td>
   <td>
     <div>134° 18' 00&quot;</div>
@@ -24434,7 +24427,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>3</div>
   </td>
   <td>
-    <div>‑13° 39' 08&quot;</div>
+    <div>-13° 39' 08&quot;</div>
   </td>
   <td>
     <div>134° 18' 00&quot;</div>
@@ -24445,7 +24438,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>4</div>
   </td>
   <td>
-    <div>‑13° 39' 08&quot;</div>
+    <div>-13° 39' 08&quot;</div>
   </td>
   <td>
     <div>134° 17' 47&quot;</div>
@@ -24456,7 +24449,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>5</div>
   </td>
   <td>
-    <div>‑13° 38' 19&quot;</div>
+    <div>-13° 38' 19&quot;</div>
   </td>
   <td>
     <div>134° 17' 47&quot;</div>
@@ -24467,7 +24460,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>6</div>
   </td>
   <td>
-    <div>‑13° 38' 19&quot;</div>
+    <div>-13° 38' 19&quot;</div>
   </td>
   <td>
     <div>134° 18' 55&quot;</div>
@@ -24517,7 +24510,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>7</div>
   </td>
   <td>
-    <div>‑13° 39' 41&quot;</div>
+    <div>-13° 39' 41&quot;</div>
   </td>
   <td>
     <div>134° 17' 46&quot;</div>
@@ -24528,7 +24521,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>8</div>
   </td>
   <td>
-    <div>‑13° 39' 30&quot;</div>
+    <div>-13° 39' 30&quot;</div>
   </td>
   <td>
     <div>134° 17' 46&quot;</div>
@@ -24539,7 +24532,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>9</div>
   </td>
   <td>
-    <div>‑13° 39' 30&quot;</div>
+    <div>-13° 39' 30&quot;</div>
   </td>
   <td>
     <div>134° 17' 58&quot;</div>
@@ -24550,7 +24543,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>10</div>
   </td>
   <td>
-    <div>‑13° 39' 41&quot;</div>
+    <div>-13° 39' 41&quot;</div>
   </td>
   <td>
     <div>134° 17' 58&quot;</div>
@@ -24600,7 +24593,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>11</div>
   </td>
   <td>
-    <div>‑13° 39' 40&quot;</div>
+    <div>-13° 39' 40&quot;</div>
   </td>
   <td>
     <div>134° 18' 23&quot;</div>
@@ -24611,7 +24604,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>12</div>
   </td>
   <td>
-    <div>‑13° 39' 24&quot;</div>
+    <div>-13° 39' 24&quot;</div>
   </td>
   <td>
     <div>134° 18' 23&quot;</div>
@@ -24622,7 +24615,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>13</div>
   </td>
   <td>
-    <div>‑13° 39' 24&quot;</div>
+    <div>-13° 39' 24&quot;</div>
   </td>
   <td>
     <div>134° 18' 37&quot;</div>
@@ -24633,7 +24626,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>14</div>
   </td>
   <td>
-    <div>‑13° 39' 40&quot;</div>
+    <div>-13° 39' 40&quot;</div>
   </td>
   <td>
     <div>134° 18' 37&quot;</div>
@@ -24683,7 +24676,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>15</div>
   </td>
   <td>
-    <div>‑13° 40' 10&quot;</div>
+    <div>-13° 40' 10&quot;</div>
   </td>
   <td>
     <div>134° 17' 07&quot;</div>
@@ -24694,7 +24687,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>16</div>
   </td>
   <td>
-    <div>‑13° 39' 57&quot;</div>
+    <div>-13° 39' 57&quot;</div>
   </td>
   <td>
     <div>134° 17' 09&quot;</div>
@@ -24705,7 +24698,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>17</div>
   </td>
   <td>
-    <div>‑13° 40' 07&quot;</div>
+    <div>-13° 40' 07&quot;</div>
   </td>
   <td>
     <div>134° 18' 00&quot;</div>
@@ -24716,7 +24709,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>18</div>
   </td>
   <td>
-    <div>‑13° 40' 20&quot;</div>
+    <div>-13° 40' 20&quot;</div>
   </td>
   <td>
     <div>134° 17' 57&quot;</div>
@@ -24770,7 +24763,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>1</div>
   </td>
   <td>
-    <div>‑21° 15' 15&quot;</div>
+    <div>-21° 15' 15&quot;</div>
   </td>
   <td>
     <div>132° 36' 05&quot;</div>
@@ -24781,7 +24774,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>2</div>
   </td>
   <td>
-    <div>‑21° 15' 21&quot;</div>
+    <div>-21° 15' 21&quot;</div>
   </td>
   <td>
     <div>132° 35' 53&quot;</div>
@@ -24792,7 +24785,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>3</div>
   </td>
   <td>
-    <div>‑21° 15' 29&quot;</div>
+    <div>-21° 15' 29&quot;</div>
   </td>
   <td>
     <div>132° 35' 53&quot;</div>
@@ -24803,7 +24796,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>4</div>
   </td>
   <td>
-    <div>‑21° 15' 29&quot;</div>
+    <div>-21° 15' 29&quot;</div>
   </td>
   <td>
     <div>132° 35' 39&quot;</div>
@@ -24814,7 +24807,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>5</div>
   </td>
   <td>
-    <div>‑21° 15' 18&quot;</div>
+    <div>-21° 15' 18&quot;</div>
   </td>
   <td>
     <div>132° 35' 39&quot;</div>
@@ -24825,7 +24818,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>6</div>
   </td>
   <td>
-    <div>‑21° 15' 18&quot;</div>
+    <div>-21° 15' 18&quot;</div>
   </td>
   <td>
     <div>132° 35' 46&quot;</div>
@@ -24836,7 +24829,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>7</div>
   </td>
   <td>
-    <div>‑21° 14' 20&quot;</div>
+    <div>-21° 14' 20&quot;</div>
   </td>
   <td>
     <div>132° 35' 46&quot;</div>
@@ -24847,7 +24840,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>8</div>
   </td>
   <td>
-    <div>‑21° 14' 20&quot;</div>
+    <div>-21° 14' 20&quot;</div>
   </td>
   <td>
     <div>132° 37' 21&quot;</div>
@@ -24858,7 +24851,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>9</div>
   </td>
   <td>
-    <div>‑21° 15' 02&quot;</div>
+    <div>-21° 15' 02&quot;</div>
   </td>
   <td>
     <div>132° 37' 21&quot;</div>
@@ -24869,7 +24862,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>10</div>
   </td>
   <td>
-    <div>‑21° 15' 17&quot;</div>
+    <div>-21° 15' 17&quot;</div>
   </td>
   <td>
     <div>132° 37' 47&quot;</div>
@@ -24880,7 +24873,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>11</div>
   </td>
   <td>
-    <div>‑21° 15' 28&quot;</div>
+    <div>-21° 15' 28&quot;</div>
   </td>
   <td>
     <div>132° 37' 39&quot;</div>
@@ -24891,7 +24884,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>12</div>
   </td>
   <td>
-    <div>‑21° 15' 15&quot;</div>
+    <div>-21° 15' 15&quot;</div>
   </td>
   <td>
     <div>132° 37' 17&quot;</div>
@@ -24941,7 +24934,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>13</div>
   </td>
   <td>
-    <div>‑21° 15' 57&quot;</div>
+    <div>-21° 15' 57&quot;</div>
   </td>
   <td>
     <div>132° 37' 28&quot;</div>
@@ -24952,7 +24945,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>14</div>
   </td>
   <td>
-    <div>‑21° 15' 57&quot;</div>
+    <div>-21° 15' 57&quot;</div>
   </td>
   <td>
     <div>132° 37' 59&quot;</div>
@@ -24963,7 +24956,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>15</div>
   </td>
   <td>
-    <div>‑21° 16' 23&quot;</div>
+    <div>-21° 16' 23&quot;</div>
   </td>
   <td>
     <div>132° 37' 59&quot;</div>
@@ -24974,7 +24967,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>16</div>
   </td>
   <td>
-    <div>‑21° 16' 23&quot;</div>
+    <div>-21° 16' 23&quot;</div>
   </td>
   <td>
     <div>132° 37' 28&quot;</div>
@@ -25024,7 +25017,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>17</div>
   </td>
   <td>
-    <div>‑21° 16' 32&quot;</div>
+    <div>-21° 16' 32&quot;</div>
   </td>
   <td>
     <div>132° 37' 16&quot;</div>
@@ -25035,7 +25028,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>18</div>
   </td>
   <td>
-    <div>‑21° 16' 24&quot;</div>
+    <div>-21° 16' 24&quot;</div>
   </td>
   <td>
     <div>132° 37' 21&quot;</div>
@@ -25046,7 +25039,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>19</div>
   </td>
   <td>
-    <div>‑21° 16' 58&quot;</div>
+    <div>-21° 16' 58&quot;</div>
   </td>
   <td>
     <div>132° 38' 19&quot;</div>
@@ -25057,7 +25050,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>20</div>
   </td>
   <td>
-    <div>‑21° 17' 06&quot;</div>
+    <div>-21° 17' 06&quot;</div>
   </td>
   <td>
     <div>132° 38' 14&quot;</div>
@@ -25111,7 +25104,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>1</div>
   </td>
   <td>
-    <div>‑12° 16' 38&quot;</div>
+    <div>-12° 16' 38&quot;</div>
   </td>
   <td>
     <div>136° 54' 05&quot;</div>
@@ -25122,7 +25115,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>2</div>
   </td>
   <td>
-    <div>‑12° 16' 38&quot;</div>
+    <div>-12° 16' 38&quot;</div>
   </td>
   <td>
     <div>136° 52' 47&quot;</div>
@@ -25133,7 +25126,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>3</div>
   </td>
   <td>
-    <div>‑12° 14' 36&quot;</div>
+    <div>-12° 14' 36&quot;</div>
   </td>
   <td>
     <div>136° 52' 47&quot;</div>
@@ -25144,7 +25137,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>4</div>
   </td>
   <td>
-    <div>‑12° 14' 36&quot;</div>
+    <div>-12° 14' 36&quot;</div>
   </td>
   <td>
     <div>136° 53' 02&quot;</div>
@@ -25194,7 +25187,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>5</div>
   </td>
   <td>
-    <div>‑12° 17' 26&quot;</div>
+    <div>-12° 17' 26&quot;</div>
   </td>
   <td>
     <div>136° 49' 59&quot;</div>
@@ -25205,7 +25198,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>6</div>
   </td>
   <td>
-    <div>‑12° 16' 12&quot;</div>
+    <div>-12° 16' 12&quot;</div>
   </td>
   <td>
     <div>136° 48' 25&quot;</div>
@@ -25216,7 +25209,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>7</div>
   </td>
   <td>
-    <div>‑12° 15' 31&quot;</div>
+    <div>-12° 15' 31&quot;</div>
   </td>
   <td>
     <div>136° 48' 58&quot;</div>
@@ -25227,7 +25220,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>8</div>
   </td>
   <td>
-    <div>‑12° 16' 45&quot;</div>
+    <div>-12° 16' 45&quot;</div>
   </td>
   <td>
     <div>136° 50' 32&quot;</div>
@@ -25281,7 +25274,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>1</div>
   </td>
   <td>
-    <div>‑22° 16' 52&quot;</div>
+    <div>-22° 16' 52&quot;</div>
   </td>
   <td>
     <div>132° 12' 35&quot;</div>
@@ -25292,7 +25285,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>2</div>
   </td>
   <td>
-    <div>‑22° 15' 57&quot;</div>
+    <div>-22° 15' 57&quot;</div>
   </td>
   <td>
     <div>132° 12' 25&quot;</div>
@@ -25303,7 +25296,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>3</div>
   </td>
   <td>
-    <div>‑22° 15' 57&quot;</div>
+    <div>-22° 15' 57&quot;</div>
   </td>
   <td>
     <div>132° 11' 56&quot;</div>
@@ -25314,7 +25307,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>4</div>
   </td>
   <td>
-    <div>‑22° 15' 43&quot;</div>
+    <div>-22° 15' 43&quot;</div>
   </td>
   <td>
     <div>132° 11' 56&quot;</div>
@@ -25325,7 +25318,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>5</div>
   </td>
   <td>
-    <div>‑22° 15' 43&quot;</div>
+    <div>-22° 15' 43&quot;</div>
   </td>
   <td>
     <div>132° 11' 46&quot;</div>
@@ -25336,7 +25329,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>6</div>
   </td>
   <td>
-    <div>‑22° 15' 21&quot;</div>
+    <div>-22° 15' 21&quot;</div>
   </td>
   <td>
     <div>132° 11' 46&quot;</div>
@@ -25347,7 +25340,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>7</div>
   </td>
   <td>
-    <div>‑22° 15' 21&quot;</div>
+    <div>-22° 15' 21&quot;</div>
   </td>
   <td>
     <div>132° 11' 56&quot;</div>
@@ -25358,7 +25351,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>8</div>
   </td>
   <td>
-    <div>‑22° 15' 00&quot;</div>
+    <div>-22° 15' 00&quot;</div>
   </td>
   <td>
     <div>132° 11' 56&quot;</div>
@@ -25369,7 +25362,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>9</div>
   </td>
   <td>
-    <div>‑22° 15' 00&quot;</div>
+    <div>-22° 15' 00&quot;</div>
   </td>
   <td>
     <div>132° 13' 01&quot;</div>
@@ -25380,7 +25373,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>10</div>
   </td>
   <td>
-    <div>‑22° 14' 53&quot;</div>
+    <div>-22° 14' 53&quot;</div>
   </td>
   <td>
     <div>132° 13' 01&quot;</div>
@@ -25391,7 +25384,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>11</div>
   </td>
   <td>
-    <div>‑22° 14' 53&quot;</div>
+    <div>-22° 14' 53&quot;</div>
   </td>
   <td>
     <div>132° 13' 29&quot;</div>
@@ -25402,7 +25395,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>12</div>
   </td>
   <td>
-    <div>‑22° 15' 58&quot;</div>
+    <div>-22° 15' 58&quot;</div>
   </td>
   <td>
     <div>132° 13' 29&quot;</div>
@@ -25413,7 +25406,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>13</div>
   </td>
   <td>
-    <div>‑22° 15' 58&quot;</div>
+    <div>-22° 15' 58&quot;</div>
   </td>
   <td>
     <div>132° 12' 59&quot;</div>
@@ -25424,7 +25417,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>14</div>
   </td>
   <td>
-    <div>‑22° 16' 11&quot;</div>
+    <div>-22° 16' 11&quot;</div>
   </td>
   <td>
     <div>132° 12' 59&quot;</div>
@@ -25435,7 +25428,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>15</div>
   </td>
   <td>
-    <div>‑22° 16' 11&quot;</div>
+    <div>-22° 16' 11&quot;</div>
   </td>
   <td>
     <div>132° 12' 44&quot;</div>
@@ -25446,7 +25439,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>16</div>
   </td>
   <td>
-    <div>‑22° 16' 49&quot;</div>
+    <div>-22° 16' 49&quot;</div>
   </td>
   <td>
     <div>132° 12' 51&quot;</div>
@@ -25496,7 +25489,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>17</div>
   </td>
   <td>
-    <div>‑22° 16' 22&quot;</div>
+    <div>-22° 16' 22&quot;</div>
   </td>
   <td>
     <div>132° 11' 23&quot;</div>
@@ -25507,7 +25500,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>18</div>
   </td>
   <td>
-    <div>‑22° 15' 43&quot;</div>
+    <div>-22° 15' 43&quot;</div>
   </td>
   <td>
     <div>132° 10' 30&quot;</div>
@@ -25518,7 +25511,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>19</div>
   </td>
   <td>
-    <div>‑22° 15' 32&quot;</div>
+    <div>-22° 15' 32&quot;</div>
   </td>
   <td>
     <div>132° 10' 39&quot;</div>
@@ -25529,7 +25522,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>20</div>
   </td>
   <td>
-    <div>‑22° 16' 11&quot;</div>
+    <div>-22° 16' 11&quot;</div>
   </td>
   <td>
     <div>132° 11' 32&quot;</div>
@@ -25583,7 +25576,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>1</div>
   </td>
   <td>
-    <div>‑22° 14' 36&quot;</div>
+    <div>-22° 14' 36&quot;</div>
   </td>
   <td>
     <div>131° 48' 21&quot;</div>
@@ -25594,7 +25587,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>2</div>
   </td>
   <td>
-    <div>‑22° 14' 36&quot;</div>
+    <div>-22° 14' 36&quot;</div>
   </td>
   <td>
     <div>131° 48' 42&quot;</div>
@@ -25605,7 +25598,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>3</div>
   </td>
   <td>
-    <div>‑22° 14' 52&quot;</div>
+    <div>-22° 14' 52&quot;</div>
   </td>
   <td>
     <div>131° 48' 42&quot;</div>
@@ -25616,7 +25609,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>4</div>
   </td>
   <td>
-    <div>‑22° 14' 52&quot;</div>
+    <div>-22° 14' 52&quot;</div>
   </td>
   <td>
     <div>131° 48' 30&quot;</div>
@@ -25627,7 +25620,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>5</div>
   </td>
   <td>
-    <div>‑22° 15' 47&quot;</div>
+    <div>-22° 15' 47&quot;</div>
   </td>
   <td>
     <div>131° 48' 30&quot;</div>
@@ -25638,7 +25631,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>6</div>
   </td>
   <td>
-    <div>‑22° 15' 47&quot;</div>
+    <div>-22° 15' 47&quot;</div>
   </td>
   <td>
     <div>131° 47' 02&quot;</div>
@@ -25649,7 +25642,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>7</div>
   </td>
   <td>
-    <div>‑22° 15' 27&quot;</div>
+    <div>-22° 15' 27&quot;</div>
   </td>
   <td>
     <div>131° 47' 02&quot;</div>
@@ -25660,7 +25653,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>8</div>
   </td>
   <td>
-    <div>‑22° 14' 58&quot;</div>
+    <div>-22° 14' 58&quot;</div>
   </td>
   <td>
     <div>131° 46' 21&quot;</div>
@@ -25671,7 +25664,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>9</div>
   </td>
   <td>
-    <div>‑22° 14' 46&quot;</div>
+    <div>-22° 14' 46&quot;</div>
   </td>
   <td>
     <div>131° 46' 30&quot;</div>
@@ -25682,7 +25675,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>10</div>
   </td>
   <td>
-    <div>‑22° 15' 09&quot;</div>
+    <div>-22° 15' 09&quot;</div>
   </td>
   <td>
     <div>131° 47' 02&quot;</div>
@@ -25693,7 +25686,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>11</div>
   </td>
   <td>
-    <div>‑22° 14' 35&quot;</div>
+    <div>-22° 14' 35&quot;</div>
   </td>
   <td>
     <div>131° 47' 02&quot;</div>
@@ -25704,7 +25697,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>12</div>
   </td>
   <td>
-    <div>‑22° 14' 35&quot;</div>
+    <div>-22° 14' 35&quot;</div>
   </td>
   <td>
     <div>131° 47' 30&quot;</div>
@@ -25715,7 +25708,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>13</div>
   </td>
   <td>
-    <div>‑22° 14' 26&quot;</div>
+    <div>-22° 14' 26&quot;</div>
   </td>
   <td>
     <div>131° 47' 30&quot;</div>
@@ -25726,7 +25719,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>14</div>
   </td>
   <td>
-    <div>‑22° 14' 26&quot;</div>
+    <div>-22° 14' 26&quot;</div>
   </td>
   <td>
     <div>131° 47' 37&quot;</div>
@@ -25737,7 +25730,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>15</div>
   </td>
   <td>
-    <div>‑22° 14' 10&quot;</div>
+    <div>-22° 14' 10&quot;</div>
   </td>
   <td>
     <div>131° 47' 37&quot;</div>
@@ -25748,7 +25741,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>16</div>
   </td>
   <td>
-    <div>‑22° 14' 10&quot;</div>
+    <div>-22° 14' 10&quot;</div>
   </td>
   <td>
     <div>131° 47' 51&quot;</div>
@@ -25759,7 +25752,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>17</div>
   </td>
   <td>
-    <div>‑22° 14' 26&quot;</div>
+    <div>-22° 14' 26&quot;</div>
   </td>
   <td>
     <div>131° 47' 51&quot;</div>
@@ -25770,7 +25763,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>18</div>
   </td>
   <td>
-    <div>‑22° 14' 26&quot;</div>
+    <div>-22° 14' 26&quot;</div>
   </td>
   <td>
     <div>131° 48' 21&quot;</div>
@@ -25820,7 +25813,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>19</div>
   </td>
   <td>
-    <div>‑22° 13' 28&quot;</div>
+    <div>-22° 13' 28&quot;</div>
   </td>
   <td>
     <div>131° 49' 08&quot;</div>
@@ -25831,7 +25824,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>20</div>
   </td>
   <td>
-    <div>‑22° 13' 48&quot;</div>
+    <div>-22° 13' 48&quot;</div>
   </td>
   <td>
     <div>131° 49' 08&quot;</div>
@@ -25842,7 +25835,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>21</div>
   </td>
   <td>
-    <div>‑22° 13' 48&quot;</div>
+    <div>-22° 13' 48&quot;</div>
   </td>
   <td>
     <div>131° 49' 36&quot;</div>
@@ -25853,7 +25846,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>22</div>
   </td>
   <td>
-    <div>‑22° 13' 28&quot;</div>
+    <div>-22° 13' 28&quot;</div>
   </td>
   <td>
     <div>131° 49' 36&quot;</div>
@@ -25903,7 +25896,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>23</div>
   </td>
   <td>
-    <div>‑22° 16' 48&quot;</div>
+    <div>-22° 16' 48&quot;</div>
   </td>
   <td>
     <div>131° 47' 36&quot;</div>
@@ -25914,7 +25907,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>24</div>
   </td>
   <td>
-    <div>‑22° 16' 22&quot;</div>
+    <div>-22° 16' 22&quot;</div>
   </td>
   <td>
     <div>131° 47' 36&quot;</div>
@@ -25925,7 +25918,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>25</div>
   </td>
   <td>
-    <div>‑22° 16' 22&quot;</div>
+    <div>-22° 16' 22&quot;</div>
   </td>
   <td>
     <div>131° 48' 10&quot;</div>
@@ -25936,7 +25929,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>26</div>
   </td>
   <td>
-    <div>‑22° 16' 48&quot;</div>
+    <div>-22° 16' 48&quot;</div>
   </td>
   <td>
     <div>131° 48' 10&quot;</div>
@@ -25986,7 +25979,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>27</div>
   </td>
   <td>
-    <div>‑22° 16' 56&quot;</div>
+    <div>-22° 16' 56&quot;</div>
   </td>
   <td>
     <div>131° 46' 42&quot;</div>
@@ -25997,7 +25990,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>28</div>
   </td>
   <td>
-    <div>‑22° 16' 40&quot;</div>
+    <div>-22° 16' 40&quot;</div>
   </td>
   <td>
     <div>131° 46' 42&quot;</div>
@@ -26008,7 +26001,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>29</div>
   </td>
   <td>
-    <div>‑22° 16' 40&quot;</div>
+    <div>-22° 16' 40&quot;</div>
   </td>
   <td>
     <div>131° 47' 01&quot;</div>
@@ -26019,7 +26012,7 @@ _Note:       See paragraph 70A(2)(a)._
     <div>30</div>
   </td>
   <td>
-    <div>‑22° 16' 56&quot;</div>
+    <div>-22° 16' 56&quot;</div>
   </td>
   <td>
     <div>131° 47' 01&quot;</div>
@@ -26219,7 +26212,7 @@ Remainder: 26 Jan 1977 ( <i>see Gazette</i>1977, No. S6)</div>
     <div>28 May 1980</div>
   </td>
   <td>
-    <div>Ss. 3 and 6‑9: 26 Jan 1977 
+    <div>Ss. 3 and 6-9: 26 Jan 1977 
 Remainder: Royal 
 Assent</div>
   </td>
@@ -27220,53 +27213,19 @@ Ss. 4 and 5 (rep. by 93, 2010, Sch. 1 \[item 1]) \[ <i>see</i>Table A]</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 26–31) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Family Assistance and Other Legislation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>52, 2011</div>
-  </td>
-  <td>
-    <div>28 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 5: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Public Service Reform Act 1984_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1984_, paragraph 2(21)(b) of which provides as follows:
 
                (21)   The amendments of the _Public Service Reform Act 1984_ made by this Act shall:
 
-                              (b)   in the case of the amendments of Items 1 and 3 of Schedule 4 to the first‑mentioned Act—be deemed to have come into operation on 1 July 1984.
+                              (b)   in the case of the amendments of Items 1 and 3 of Schedule 4 to the first-mentioned Act—be deemed to have come into operation on 1 July 1984.
 
 _(b)_     The _Aboriginal__Land__Rights (Northern Territory) Amendment Act (No. 2) 1987_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act 1988_, subsection 2(2) of which provides as follows:
 
-                 (2)   The amendment of the _Aboriginal__Land__Rights (Northern Territory) Amendment Act (No. 2) 1987_ made by this Act shall be taken to have commenced immediately after the commencement of the first‑mentioned Act.
+                 (2)   The amendment of the _Aboriginal__Land__Rights (Northern Territory) Amendment Act (No. 2) 1987_ made by this Act shall be taken to have commenced immediately after the commencement of the first-mentioned Act.
 
-_(c)_     Section 34 of the _Aboriginal__Land__Rights (Northern Territory) Amendment Act 1987_ provided for the amendment of section 74 of the _Aboriginal__Land__Rights (Northern Territory) Act 1976_. The last‑mentioned section was repealed by the _Aboriginal__Land__Rights (Northern Territory) Amendment Act 1989_ before a date was fixed for the commencement of section 34.
+_(c)_     Section 34 of the _Aboriginal__Land__Rights (Northern Territory) Amendment Act 1987_ provided for the amendment of section 74 of the _Aboriginal__Land__Rights (Northern Territory) Act 1976_. The last-mentioned section was repealed by the _Aboriginal__Land__Rights (Northern Territory) Amendment Act 1989_ before a date was fixed for the commencement of section 34.
 
 _(d)_     Subsection 2(1) (items 3–5) of the _Aboriginal__Land__Rights (Northern Territory) Amendment (Township Leasing) Act 2007_ provides as follows:
 
@@ -27585,14 +27544,6 @@ _(e)_     Subsection 2(1) (items 3 and 9) of the _Families, Community 
   </td>
   <td>
     <div>am. No. 21, 1978; No. 21, 1989</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5A</div>
-  </td>
-  <td>
-    <div>ad. No. 52, 2011</div>
   </td>
 </tr>
 <tr>
@@ -30262,42 +30213,6 @@ No. 93, 2006</div>
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 26  Section 3AAA (note)
-
-Omit “Paragraph 22(1)(a)”, substitute “Subsection 2C(1)”.
-
-## 27  Subsection 3AA(1) (note)
-
-Omit “Paragraph 22(1)(a)”, substitute “Subsection 2C(1)”.
-
-## 28  Subsection 20J(1)
-
-Omit “(1)”.
-
-## 29  Subsection 20J(1) (note)
-
-Repeal the note, substitute:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 30  Subsection 20J(2)
-
-Repeal the subsection.
-
-## 31  Subsection 28D(2)
-
-Omit “paragraph 34AB(d)”, substitute “paragraph 34AB(1)(d)”.
-
-As at 4 July 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -30320,7 +30235,7 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000
 
 ## Schedule 2
 
-## 418  Transitional—pre‑commencement offences
+## 418  Transitional—pre-commencement offences
 
 (1)       Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
 
@@ -30334,7 +30249,7 @@ as if the amendment or repeal had not been made.
 
 (2)       Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
 
-## 419  Transitional—pre‑commencement notices
+## 419  Transitional—pre-commencement notices
 
 If:
 
@@ -30342,9 +30257,9 @@ If:
 
                      (b)  any or all of those other provisions are repealed by this Schedule; and
 
-                     (c)  the first‑mentioned provision is amended by this Schedule;
+                     (c)  the first-mentioned provision is amended by this Schedule;
 
-the amendment of the first‑mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
+the amendment of the first-mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
 
 * * *
 
@@ -30670,7 +30585,7 @@ A delegation in force under subsection 76(1) of the _Aboriginal__Land__Rights (N
 
 ## 233  Transitional regulations
 
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments made by this Act.
+The Governor-General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments made by this Act.
 
 ## 234  Review of mining provisions
 
@@ -30690,7 +30605,7 @@ _Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006 (No. 101, 20
 
 Except as mentioned in items 2 and 3, the repeals and amendments made by Schedules 1 and 2 apply:
 
-                     (a)  so far as they affect assessments—to assessments for the 2006‑07 income year and all later income years; and
+                     (a)  so far as they affect assessments—to assessments for the 2006-07 income year and all later income years; and
 
                      (b)  otherwise—to acts done or omitted to be done, or states of affairs existing, after the commencement of the repeals and amendments.
 
@@ -30716,17 +30631,17 @@ Even though an Act is repealed or amended by this Act, the repeal or amendment i
 
 in relation to any act done or omitted to be done, any state of affairs existing, or any period ending, before the repeal or amendment applies.
 
-Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998‑99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
+Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998-99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
 
-                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998‑99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
+                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998-99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
 
-                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998‑99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
+                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998-99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
 
                    Despite the repeal of sections 160ARU and 160ARV, item 9 will ensure that the general interest charge will accrue on the unpaid franking deficit tax and penalty until they are paid.
 
                    Item 7 will also preserve Greg Ltd’s right, under former section 160ART of that Act, to object against the Commissioner’s amended assessment (including the penalty), since the objection is the exercise of a right in relation to a franking year that ended before the repeal of Part IIIAA.
 
-Example 2: During the 1997‑98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
+Example 2: During the 1997-98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
 
                    Following an audit undertaken after the repeal of those Divisions, the Commissioner discovers that the withheld amounts have not been remitted. The company’s records are incomplete and the Commissioner is unable to completely ascertain the extent of its liability for the withheld amounts. Under section 222AGA of that Act, the Commissioner makes an estimate of the liability.
 
@@ -30762,9 +30677,9 @@ This Schedule does not limit the operation of section 8 of the _Acts Interpretat
 
 _Families, Community Services and Indigenous Affairs and Other Legislation Amendment (Northern Territory National Emergency Response and Other Measures) Act 2007 (No. 128, 2007)_
 
-##### <a id="3"></a>3  Northern Territory (Self‑Government) Act
+##### <a id="3"></a>3  Northern Territory (Self-Government) Act
 
-                   Section 49 of the _Northern   Territory__(Self‑Government) Act 1978_ does not apply in relation to the provisions of this Act.
+                   Section 49 of the _Northern   Territory__(Self-Government) Act 1978_ does not apply in relation to the provisions of this Act.
 
 ## Schedule 4
 
@@ -30778,11 +30693,11 @@ The amendment made by item 14 applies in relation to:
 
 ## 17  No fundamental breach of Director’s lease
 
-The operation of this Schedule does not result in a fundamental breach of a lease of a kind referred to in subsection 12(2C) of the _Aboriginal Land Rights (Northern Territory) Act 1976_ that was granted by the Uluru‑Katatjuta Aboriginal Land Trust to the Director.
+The operation of this Schedule does not result in a fundamental breach of a lease of a kind referred to in subsection 12(2C) of the _Aboriginal Land Rights (Northern Territory) Act 1976_ that was granted by the Uluru-Katatjuta Aboriginal Land Trust to the Director.
 
 ## 18  Compensation for acquisition of property
 
-(1)       Subsection 50(2) of the _Northern Territory (Self‑Government) Act 1978_ does not apply in relation to any acquisition of property referred to in that subsection that occurs as a result of:
+(1)       Subsection 50(2) of the _Northern Territory (Self-Government) Act 1978_ does not apply in relation to any acquisition of property referred to in that subsection that occurs as a result of:
 
                      (a)  the operation of this Schedule; or
 
@@ -30833,21 +30748,5 @@ To avoid doubt:
                      (a)  the repeal of sections of an Act by this Schedule does not have retrospective effect; and
 
                      (b)  section 8 of the _Acts Interpretation Act 1901_ applies to the repeal (unaffected by any contrary intention).
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
