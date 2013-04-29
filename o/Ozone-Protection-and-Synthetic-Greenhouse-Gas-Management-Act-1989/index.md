@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00151/Html/8641beef-aa7b-4713-85a0-93bd445d75cc_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00767/Html/OzoneProSynthGrnhouseGasMang89_WD02_image001.gif)
 
 # Ozone Protection and Synthetic Greenhouse Gas Management Act 1989
 
 **Act No. 7 of 1989 as amended**
 
-This compilation was prepared on 29 March 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 25 November 2010
+ taking into account amendments up to Act No. 125 of 2010
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -126,9 +126,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [41](#41).          Montreal Protocol countries
 
-[44](#44).          Import of products containing scheduled substances from non‑Montreal Protocol countries
+[44](#44).          Import of products containing scheduled substances from non-Montreal Protocol countries
 
-[45](#45).          Import of products manufactured using scheduled substances from non‑Montreal Protocol countries
+[45](#45).          Import of products manufactured using scheduled substances from non-Montreal Protocol countries
 
 **Part VIA—Controls on disposal, use etc. of scheduled substances**
 
@@ -138,7 +138,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part VII—Reports and records**
 
-[46](#46).          Quarterly reports by manufacturers, importers and exporters of scheduled substances and pre‑charged equipment
+[46](#46).          Quarterly reports by manufacturers, importers and exporters of scheduled substances and pre-charged equipment
 
 [48](#48).          Records to be kept by licensees
 
@@ -154,7 +154,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [51](#51).          Searches to monitor compliance with Act etc 
 
-[52](#52).          Offence‑related searches and seizures
+[52](#52).          Offence-related searches and seizures
 
 [53](#53).          Warrants may be granted by telephone
 
@@ -220,9 +220,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part I** 
 
-    **Division 1—Stage‑1 CFCs** 
+    **Division 1—Stage-1 CFCs** 
 
-    **Division 2—Stage‑2 CFCs** 
+    **Division 2—Stage-2 CFCs** 
 
 **Part II—Halons** 
 
@@ -318,7 +318,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (1)  This Act binds the Crown in right of the Commonwealth, of each of the States, of an internal Territory that has been established as a body politic and of Norfolk Island.
 
-             (2)  Nothing in this Act renders the Crown in right of the Commonwealth, of a State, of an internal Territory or of Norfolk Island liable to be prosecuted for an offence.
+             (2)  Nothing in this Act renders the Crown in right of the Commonwealth, of a State, of an internal Territory or of Norfolk  Island liable to be prosecuted for an offence.
 
 ##### <a id="6"></a>6  Extension to external Territories
 
@@ -348,7 +348,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                     <a name="distribut"></a>**_distribution_** includes sale and supply, whether for consideration or not.
 
-                    <a name="essenti-us"></a>**_essential use_**, in relation to a stage‑1 or stage‑2 scheduled substance, means an essential use identified in relation to the substance by a decision adopted and in force under the Montreal Protocol.
+                    <a name="essenti-us"></a>**_essential use_**, in relation to a stage-1 or stage-2 scheduled substance, means an essential use identified in relation to the substance by a decision adopted and in force under the Montreal Protocol.
 
                     <a name="essenti-us-licenc"></a>**_essential uses licence_** means a licence referred to in subsection 13A(3).
 
@@ -384,7 +384,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                     <a name="methyl-bromid"></a>**_methyl bromide_** means the substance referred to in Part VII of Schedule 1, whether existing alone or in a mixture.
 
-                    <a name="methyl-chloroform"></a>**_methyl chloroform_** means the substance referred to in Part IV of Schedule 1 (that is, 1,1,1‑trichloroethane), whether existing alone or in a mixture.
+                    <a name="methyl-chloroform"></a>**_methyl chloroform_** means the substance referred to in Part IV of Schedule 1 (that is, 1,1,1-trichloroethane), whether existing alone or in a mixture.
 
                     <a name="montreal-protocol"></a>**_Montreal Protocol_** means the Montreal Protocol on Substances that Deplete the Ozone Layer, as in force for Australia, an English text version of which is set out in Schedule 3, being that Protocol as affected by:
 
@@ -398,9 +398,9 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                     <a name="pfc"></a>**_PFC_** means a perfluorocarbon referred to in Part X of Schedule 1, whether existing alone or in a mixture.
 
-                    <a name="pre-charg-equip"></a>**_pre‑charged equipment_** means air‑conditioning equipment, or refrigeration equipment, that contains a substance that is an HFC or HCFC or, but for section 9, would be an HFC or HCFC.
+                    <a name="pre-charg-equip"></a>**_pre-charged equipment_** means air-conditioning equipment, or refrigeration equipment, that contains a substance that is an HFC or HCFC or, but for section 9, would be an HFC or HCFC.
 
-                    <a name="pre-charg-equip-licenc"></a>**_pre‑charged equipment licence_** means a pre‑charged equipment licence under section 13A.
+                    <a name="pre-charg-equip-licenc"></a>**_pre-charged equipment licence_** means a pre-charged equipment licence under section 13A.
 
                     <a name="premis"></a>**_premises_** includes:
 
@@ -420,19 +420,19 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (a)  collected from machinery, equipment or containers during servicing or before disposal of the machinery, equipment or containers; and
 
-                     (b)  intended to be re‑used after undergoing a cleaning process.
+                     (b)  intended to be re-used after undergoing a cleaning process.
 
                     <a name="recycl-used-methyl-bromid"></a>**_recycled or used methyl bromide_** means methyl bromide that is:
 
                      (a)  collected from machinery, equipment or containers during servicing or before disposal of the machinery, equipment or containers; and
 
-                     (b)  intended to be re‑used after undergoing a cleaning process.
+                     (b)  intended to be re-used after undergoing a cleaning process.
 
-                    <a name="recycl-stage-stage-schuled-substanc"></a>**_recycled stage‑1 or stage‑2 scheduled substances_** means stage‑1 or stage‑2 scheduled substances that are:
+                    <a name="recycl-stage-stage-schuled-substanc"></a>**_recycled stage-1 or stage-2 scheduled substances_** means stage-1 or stage-2 scheduled substances that are:
 
                      (a)  collected from machinery, equipment or containers during servicing or before disposal of the machinery, equipment or containers; and
 
-                     (b)  intended to be re‑used after undergoing a cleaning process.
+                     (b)  intended to be re-used after undergoing a cleaning process.
 
                     <a name="regul-hcfc-activ"></a>**_regulated HCFC activity_** means the following:
 
@@ -452,19 +452,19 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                     <a name="sgg-licenc"></a>**_SGG licence_** means a controlled substances licence that relates to SGGs.
 
-                    <a name="stage-cfc"></a>**_stage‑1 CFC_** means a substance referred to in Division 1 of Part I of Schedule 1, whether existing alone or in a mixture.
+                    <a name="stage-cfc"></a>**_stage-1 CFC_** means a substance referred to in Division 1 of Part I of Schedule 1, whether existing alone or in a mixture.
 
-                    <a name="stage-cfc"></a>**_stage‑2 CFC_** means a substance referred to in Division 2 of Part I of Schedule 1, whether existing alone or in a mixture.
+                    <a name="stage-cfc"></a>**_stage-2 CFC_** means a substance referred to in Division 2 of Part I of Schedule 1, whether existing alone or in a mixture.
 
-                    <a name="stage-schuled-substanc"></a>**_stage‑1 scheduled substance_** means:
+                    <a name="stage-schuled-substanc"></a>**_stage-1 scheduled substance_** means:
 
-                     (a)   a stage‑1 CFC; or
+                     (a)   a stage-1 CFC; or
 
                      (b)   a halon.
 
-                    <a name="stage-schuled-substanc"></a>**_stage‑2 scheduled substance_** means:
+                    <a name="stage-schuled-substanc"></a>**_stage-2 scheduled substance_** means:
 
-                     (a)  a stage‑2 CFC; or
+                     (a)  a stage-2 CFC; or
 
                      (b)  carbon tetrachloride; or
 
@@ -554,7 +554,7 @@ Note:          For example, paragraph (1)(a) would apply to 
 
        (1AA)  A person must not import or export an HCFC (other than a recycled or used HCFC) or methyl bromide (other than recycled or used methyl bromide) unless the person holds a controlled substances licence that allows the person to do so.
 
-       (1AB)  A person must not import or export a recycled or used HCFC or recycled or used methyl bromide unless the person holds a used substances licence that allows the person to do so.
+        (1AB)  A person must not import or export a recycled or used HCFC or recycled or used methyl bromide unless the person holds a used substances licence that allows the person to do so.
 
           (1A)  A person must not manufacture, import or export an SGG unless:
 
@@ -566,15 +566,15 @@ Note:          For example, paragraph (1)(a) would apply to 
 
              (3)  A person must not import an HBFC unless the person holds an essential uses licence that allows the person to do so.
 
-             (4)  A person must not manufacture a stage‑1 or stage‑2 scheduled substance unless the person holds an essential uses licence that allows the person to do so.
+             (4)  A person must not manufacture a stage-1 or stage-2 scheduled substance unless the person holds an essential uses licence that allows the person to do so.
 
-             (5)  A person must not import or export a stage‑1 or stage‑2 scheduled substance (other than a recycled or used substance) unless the person holds an essential uses licence that allows the person to do so.
+             (5)  A person must not import or export a stage-1 or stage-2 scheduled substance (other than a recycled or used substance) unless the person holds an essential uses licence that allows the person to do so.
 
-             (6)  A person must not import or export a recycled or used stage‑1 or stage‑2 scheduled substance unless the person holds a used substances licence that allows the person to do so.
+             (6)  A person must not import or export a recycled or used stage-1 or stage-2 scheduled substance unless the person holds a used substances licence that allows the person to do so.
 
-          (6A)  A person must not import pre‑charged equipment unless:
+          (6A)  A person must not import pre-charged equipment unless:
 
-                     (a)  the person holds a pre‑charged equipment licence; or
+                     (a)  the person holds a pre-charged equipment licence; or
 
                      (b)  the equipment is covered by paragraph 68(1)(d) of the _Customs Act 1901_.
 
@@ -596,7 +596,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                      (c)  a used substances licence;
 
-                     (d)  a pre‑charged equipment licence.
+                     (d)  a pre-charged equipment licence.
 
              (2)  A controlled substances licence allows the licensee to do one of the following:
 
@@ -626,23 +626,23 @@ Note:          For **_strict liability_**, see section 6.1 o
 
              (3)  An essential uses licence allows the licensee to carry out whichever of the following activities is specified in it:
 
-                     (a)  manufacture specified stage‑1 or stage‑2 scheduled substances for essential uses;
+                     (a)  manufacture specified stage-1 or stage-2 scheduled substances for essential uses;
 
-                     (b)  import specified stage‑1 or stage‑2 scheduled substances, or specified HBFCs, for essential uses;
+                     (b)  import specified stage-1 or stage-2 scheduled substances, or specified HBFCs, for essential uses;
 
-                     (c)  export specified stage‑1 or stage‑2 scheduled substances for essential uses.
+                     (c)  export specified stage-1 or stage-2 scheduled substances for essential uses.
 
              (4)  A used substances licence allows the licensee to carry out whichever of the following activities is specified in it:
 
-                     (a)  import specified recycled or used stage‑1 or stage‑2 scheduled substances;
+                     (a)  import specified recycled or used stage-1 or stage-2 scheduled substances;
 
-                     (b)  export specified recycled or used stage‑1 or stage‑2 scheduled substances;
+                     (b)  export specified recycled or used stage-1 or stage-2 scheduled substances;
 
                      (c)  import specified recycled or used HCFCs or recycled or used methyl bromide;
 
                      (d)  export specified recycled or used HCFCs or recycled or used methyl bromide.
 
-             (5)  A pre‑charged equipment licence allows the licensee to import pre‑charged equipment.
+             (5)  A pre-charged equipment licence allows the licensee to import pre-charged equipment.
 
 ##### <a id="14"></a>14  Application for licence
 
@@ -664,7 +664,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
              (1)  Subject to subsections (3A) and (4), the Minister may grant a licence to a person who has applied for it in accordance with section 14.
 
-             (3)  A licence (other than an HCFC licence, an SGG licence or a pre‑charged equipment licence) must specify:
+             (3)  A licence (other than an HCFC licence, an SGG licence or a pre-charged equipment licence) must specify:
 
                      (a)  the substance or substances to which it relates; and
 
@@ -780,7 +780,7 @@ Note:          The defendant bears an evidential burden in rel
 
              (1)  The Minister may, by written notice given to a licensee, terminate all licences of the kind specified in the notice that are held by the licensee.
 
-             (2)  The Minister must not terminate a licence (other than an SGG licence or a pre‑charged equipment licence) unless satisfied that it is necessary to do so for the purpose of giving effect to an adjustment or amendment of the Montreal Protocol.
+             (2)  The Minister must not terminate a licence (other than an SGG licence or a pre-charged equipment licence) unless satisfied that it is necessary to do so for the purpose of giving effect to an adjustment or amendment of the Montreal Protocol.
 
              (3)  A notice terminating a specified kind of licence takes effect on the day specified in the notice.
 
@@ -1281,7 +1281,7 @@ Note:          Section 18 deals with variation of the condit
 
              (1)  The size of an HCFC quota allocated to a licensee for a quota period is to be worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00151/Html/8641beef-aa7b-4713-85a0-93bd445d75cc_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00767/Html/OzoneProSynthGrnhouseGasMang89_WD02_image002.gif)
 
 where:
 
@@ -1469,17 +1469,17 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                      (c)  products manufactured using scheduled substances.
 
-             (3)  For the purposes of this Part, a country is a **_non‑Montreal Protocol country_** at a particular time for a particular substance if the country is not listed in the Register at that time for that substance.
+             (3)  For the purposes of this Part, a country is a **_non-Montreal Protocol country_** at a particular time for a particular substance if the country is not listed in the Register at that time for that substance.
 
-Example:    If a country is listed in the Register for substance A but not for substance B (both being stage‑1 scheduled substances), then subsection 44(1) prohibits the import of substance B from that country but does not apply to the import of substance A from that country.
+Example:    If a country is listed in the Register for substance A but not for substance B (both being stage-1 scheduled substances), then subsection 44(1) prohibits the import of substance B from that country but does not apply to the import of substance A from that country.
 
              (4)  The Minister must ensure that the Register is accessible to the public through the internet.
 
              (5)  The Minister may give a written certificate stating that a specified country was, or was not, on a specified date, listed in the Register for a specified substance. The certificate is prima facie evidence of the matters stated in the certificate.
 
-##### <a id="44"></a>44  Import of products containing scheduled substances from non‑Montreal Protocol countries
+##### <a id="44"></a>44  Import of products containing scheduled substances from non-Montreal Protocol countries
 
-             (1)  On and after the implementation day for this subsection, a person shall not import from a non‑Montreal Protocol country a product containing a stage‑1 scheduled substance.
+             (1)  On and after the implementation day for this subsection, a person shall not import from a non-Montreal Protocol country a product containing a stage-1 scheduled substance.
 
                     Penalty:  100 penalty units.
 
@@ -1493,7 +1493,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
              (4)  The fixing of a day under subsection (2) or the declaration of a product under subsection (3) shall be by notice published in the _Gazette_.
 
-             (5)  On and after the 3rd anniversary of the commencement of this subsection, a person must not import from a non‑Montreal Protocol country a product containing a stage‑2 scheduled substance.
+             (5)  On and after the 3rd anniversary of the commencement of this subsection, a person must not import from a non-Montreal Protocol country a product containing a stage-2 scheduled substance.
 
                     Penalty:  100 penalty units.
 
@@ -1505,9 +1505,9 @@ Note:          For **_strict liability_**, see section 6.1 o
 
              (7)  The declaration of a product under subsection (6) is to be by notice published in the _Gazette_.
 
-##### <a id="45"></a>45  Import of products manufactured using scheduled substances from non‑Montreal Protocol countries
+##### <a id="45"></a>45  Import of products manufactured using scheduled substances from non-Montreal Protocol countries
 
-             (1)  On and after the implementation day for this subsection, a person shall not import from a non‑Montreal Protocol country a product in the manufacture of which a stage‑1 scheduled substance was used.
+             (1)  On and after the implementation day for this subsection, a person shall not import from a non-Montreal Protocol country a product in the manufacture of which a stage-1 scheduled substance was used.
 
                     Penalty:  100 penalty units.
 
@@ -1519,7 +1519,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
              (3)  Subsection (1) applies to a product declared by the Minister to be a product to which subsection (1) applies, being a product listed in the annex referred to in paragraph 4 of Article 4 of the Montreal Protocol.
 
-          (3A)  On and after the 5th anniversary of the commencement of this subsection, a person must not import from a non‑Montreal Protocol country a product in the manufacture of which a stage‑2 scheduled substance was used.
+          (3A)  On and after the 5th anniversary of the commencement of this subsection, a person must not import from a non-Montreal Protocol country a product in the manufacture of which a stage-2 scheduled substance was used.
 
                     Penalty:  100 penalty units.
 
@@ -1539,7 +1539,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
              (8)  Section 48 of the _Acts Interpretation Act 1901_ applies to a notice under subsection (4) as if paragraph (1)(b) of section 48 were omitted and the following paragraph substituted:
 
-                   “(b)  subject to this section, shall take effect on the first day on which the notice is no longer liable to be disallowed, or to be deemed to be disallowed, under this section; and”.
+                    “(b)  subject to this section, shall take effect on the first day on which the notice is no longer liable to be disallowed, or to be deemed to be disallowed, under this section; and”.
 
 ## Part VIA—Controls on disposal, use etc. of scheduled substances
 
@@ -1553,7 +1553,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                      (c)  labelling requirements for scheduled substances and for products that contain or use scheduled substances;
 
-                     (d)  conferring functions on persons or bodies (including non‑government bodies) in relation to matters covered by paragraph (a), (b) or (c);
+                     (d)  conferring functions on persons or bodies (including non-government bodies) in relation to matters covered by paragraph (a), (b) or (c);
 
                      (e)  matters incidental to matters covered by paragraph (a), (b), (c) or (d).
 
@@ -1593,7 +1593,7 @@ Note:          A defendant bears an evidential burden in relat
 
 ## Part VII—Reports and records
 
-##### <a id="46"></a>46  Quarterly reports by manufacturers, importers and exporters of scheduled substances and pre‑charged equipment
+##### <a id="46"></a>46  Quarterly reports by manufacturers, importers and exporters of scheduled substances and pre-charged equipment
 
              (1)  Each person who manufactured, imported or exported a scheduled substance during a quarter occurring after the commencement of this section must, within 15 days after the end of the quarter, give the Minister a report, in accordance with a form approved by the Minister, specifying the following:
 
@@ -1617,15 +1617,15 @@ Note:          A defendant bears an evidential burden in relat
 
                      (a)  an SGG; or
 
-                     (b)  a scheduled substance in pre‑charged equipment.
+                     (b)  a scheduled substance in pre-charged equipment.
 
           (1B)  If a person imports or exports an SGG in a quarter commencing more than 3 months after the commencement of this subsection, the person must, within 15 days after the end of the quarter, give the Minister a report in accordance with the regulations.
 
-       (1BA)  A person who manufactures an SGG in a quarter commencing more than 3 months after the commencement of this subsection must, within 15 days after the end of the quarter, give the Minister a report in accordance with the regulations.
+        (1BA)  A person who manufactures an SGG in a quarter commencing more than 3 months after the commencement of this subsection must, within 15 days after the end of the quarter, give the Minister a report in accordance with the regulations.
 
           (1C)  If:
 
-                     (a)  a person imports pre‑charged equipment in a quarter commencing more than 3 months after the commencement of this subsection; and
+                     (a)  a person imports pre-charged equipment in a quarter commencing more than 3 months after the commencement of this subsection; and
 
                      (b)  the equipment is not covered by paragraph 68(1)(d) of the _Customs Act 1901_;
 
@@ -1709,7 +1709,7 @@ the person’s report must say so.
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-##### <a id="51"></a>51  Searches to monitor compliance with Act etc.
+##### <a id="51"></a>51  Searches to monitor compliance with Act etc.
 
              (1)  Subject to subsections (2) and (3), an inspector may, to the extent that it is reasonably necessary for the purpose of ascertaining whether this Act or the regulations have been complied with, enter, at any time during the day or night, any premises that the inspector has reasonable cause to believe are premises to which this section applies and:
 
@@ -1737,7 +1737,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                      (c)  records relating to any such activities are kept.
 
-##### <a id="52"></a>52  Offence‑related searches and seizures
+##### <a id="52"></a>52  Offence-related searches and seizures
 
              (1)  Where an inspector has reasonable grounds for suspecting that there may be on any premises a particular thing that may afford evidence as to the commission of an offence against this Act or the regulations, the inspector may:
 
@@ -1835,7 +1835,7 @@ that there are reasonable grounds for issuing the warrant, the Magistrate shall 
 
                      (b)  the refusal or failure was, is, or would be a contravention of this Act or the regulations;
 
-the Federal Court may, on the application of the Minister or any other person, grant an injunction requiring the first‑mentioned person to do that act or thing.
+the Federal Court may, on the application of the Minister or any other person, grant an injunction requiring the first-mentioned person to do that act or thing.
 
              (3)  Where an application is made to the court for an injunction under this section, the court may, if in the court’s opinion it is desirable to do so, before considering the application, grant an interim injunction restraining a person from engaging in conduct of the kind referred to in that subsection pending the determination of the application.
 
@@ -1845,13 +1845,13 @@ the Federal Court may, on the application of the Minister or any other person, g
 
                      (a)  if the court is satisfied that the person has engaged in conduct of that kind—whether or not it appears to the court that the person intends to engage again, or to continue to engage, in conduct of that kind; or
 
-                     (b)  if it appears to the court that, in the event that an injunction is not granted, it is likely that the person will engage in conduct of that kind—whether or not the person has previously engaged in conduct of that kind and whether or not there is an imminent danger of substantial damage to any person if the first‑mentioned person engages in conduct of that kind.
+                     (b)  if it appears to the court that, in the event that an injunction is not granted, it is likely that the person will engage in conduct of that kind—whether or not the person has previously engaged in conduct of that kind and whether or not there is an imminent danger of substantial damage to any person if the first-mentioned person engages in conduct of that kind.
 
              (6)  The power of the court to grant an injunction requiring a person to do a particular act or thing may be exercised:
 
                      (a)  if the court is satisfied that the person has refused or failed to do that act or thing—whether or not it appears to the court that the person intends to refuse or fail again, or to continue to refuse or fail, to do that act or thing; or
 
-                     (b)  if it appears to the court that, in the event that an injunction is not granted, it is likely that the person will refuse or fail to do that act or thing—whether or not the person has previously refused or failed to do that act or thing and whether or not there is an imminent danger of substantial damage to any person if the first‑mentioned person refuses or fails to do that act or thing.
+                     (b)  if it appears to the court that, in the event that an injunction is not granted, it is likely that the person will refuse or fail to do that act or thing—whether or not the person has previously refused or failed to do that act or thing and whether or not there is an imminent danger of substantial damage to any person if the first-mentioned person refuses or fails to do that act or thing.
 
              (7)  Where the Minister makes an application to the court for the grant of an injunction under this section, the court shall not require the Minister or any other person, as a condition of the granting of an interim injunction, to give any undertakings as to damages.
 
@@ -1939,7 +1939,7 @@ Note:          The defendant bears an evidential burden in rel
 
                               (i)  indicating to the Minister or other person that the document is false or misleading and the respect in which the document is false or misleading; and
 
-                             (ii)  providing correct information to the Minister or other person if the first‑mentioned person is in possession of, or can reasonably acquire, the correct information.
+                             (ii)  providing correct information to the Minister or other person if the first-mentioned person is in possession of, or can reasonably acquire, the correct information.
 
                     Penalty:  imprisonment for 2 years.
 
@@ -2017,9 +2017,9 @@ that the answer to the question, or producing the document, as the case may be, 
 
              (5)  An inspector may recommend to the Director of Public Prosecutions that a person who has been, or is to be, required under this Act to answer a question or produce a document be given an undertaking under subsection (4).
 
-             (6)  Subsection (2) does not apply in relation to a failure or refusal by a person to answer a question, or to produce a document, on the ground that the answer to the question or producing the document might tend to prove his or her guilt of an offence against, or make him or her liable to forfeiture or a penalty under, a law of a State, if the Attorney‑General of the State, or a person authorised by that Attorney‑General (being the person holding the office of Director of Public Prosecutions, or a similar office, of the State) has given the person a written undertaking under subsection (7).
+             (6)  Subsection (2) does not apply in relation to a failure or refusal by a person to answer a question, or to produce a document, on the ground that the answer to the question or producing the document might tend to prove his or her guilt of an offence against, or make him or her liable to forfeiture or a penalty under, a law of a State, if the Attorney-General of the State, or a person authorised by that Attorney-General (being the person holding the office of Director of Public Prosecutions, or a similar office, of the State) has given the person a written undertaking under subsection (7).
 
-             (7)  An undertaking by the Attorney‑General of the State, or authorised person, shall:
+             (7)  An undertaking by the Attorney-General of the State, or authorised person, shall:
 
                      (a)  be an undertaking that:
 
@@ -2033,7 +2033,7 @@ that the answer to the question, or producing the document, as the case may be, 
 
                      (c)  state the general nature of those reasons.
 
-             (8)  An inspector may recommend to the Attorney‑General of a State that a person who has been, or is to be, required under this Act to give information or produce a document be given an undertaking under subsection (7).
+             (8)  An inspector may recommend to the Attorney-General of a State that a person who has been, or is to be, required under this Act to give information or produce a document be given an undertaking under subsection (7).
 
              (9)  For the purposes of subsection (1A):
 
@@ -2061,7 +2061,7 @@ that the answer to the question, or producing the document, as the case may be, 
 
                      (b)  that the servant or agent had the state of mind.
 
-             (4)  Any conduct engaged in on behalf of a person other than a body corporate by a servant or agent of the person within the scope of his or her actual or apparent authority shall be taken, for the purposes of a prosecution for an offence against this Act, to have been engaged in also by the first‑mentioned person unless the first‑mentioned person establishes that the first‑mentioned person took reasonable precautions and exercised due diligence to avoid the conduct.
+             (4)  Any conduct engaged in on behalf of a person other than a body corporate by a servant or agent of the person within the scope of his or her actual or apparent authority shall be taken, for the purposes of a prosecution for an offence against this Act, to have been engaged in also by the first-mentioned person unless the first-mentioned person establishes that the first-mentioned person took reasonable precautions and exercised due diligence to avoid the conduct.
 
              (5)  Where:
 
@@ -2165,11 +2165,11 @@ the person is not liable to be punished by imprisonment for that offence.
 
                      (b)  a decision imposing, revoking or varying a condition under section 18;
 
-                   (ba)  a decision terminating a licence under section 19A;
+                    (ba)  a decision terminating a licence under section 19A;
 
-                   (bb)  a decision refusing to transfer a licence under section 19B;
+                    (bb)  a decision refusing to transfer a licence under section 19B;
 
-                   (bc)  a decision refusing to make an amendment under section 19C;
+                    (bc)  a decision refusing to make an amendment under section 19C;
 
                      (c)  a decision to cancel a licence under section 20;
 
@@ -2257,7 +2257,7 @@ and includes any amount payable under either of those Acts as in force before th
 
 ##### <a id="70"></a>70  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing matters:
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -2271,7 +2271,7 @@ _Section 7_
 
 ## Part I
 
-### Division 1—Stage‑1 CFCs
+### Division 1—Stage-1 CFCs
 
 <table>
 <colgroup>
@@ -2315,7 +2315,7 @@ _Section 7_
 </tr>
 <tr>
   <td>
-    <div>(CFC‑11)</div>
+    <div>(CFC-11)</div>
   </td>
   <td>
     <div> </div>
@@ -2331,7 +2331,7 @@ _Section 7_
 </tr>
 <tr>
   <td>
-    <div>(CFC‑12)</div>
+    <div>(CFC-12)</div>
   </td>
   <td>
     <div> </div>
@@ -2347,7 +2347,7 @@ _Section 7_
 </tr>
 <tr>
   <td>
-    <div>(CFC‑113)</div>
+    <div>(CFC-113)</div>
   </td>
   <td>
     <div> </div>
@@ -2363,7 +2363,7 @@ _Section 7_
 </tr>
 <tr>
   <td>
-    <div>(CFC‑114)</div>
+    <div>(CFC-114)</div>
   </td>
   <td>
     <div> </div>
@@ -2379,14 +2379,14 @@ _Section 7_
 </tr>
 <tr>
   <td>
-    <div>(CFC‑115)</div>
+    <div>(CFC-115)</div>
   </td>
   <td>
     <div> </div>
   </td>
 </tr></table>
 
-### Division 2—Stage‑2 CFCs
+### Division 2—Stage-2 CFCs
 
 <table>
 <colgroup>
@@ -2431,7 +2431,7 @@ _Section 7_
 </tr>
 <tr>
   <td>
-    <div>(CFC‑13)</div>
+    <div>(CFC-13)</div>
   </td>
   <td>
     <div> </div>
@@ -2450,7 +2450,7 @@ _Section 7_
 </tr>
 <tr>
   <td>
-    <div>(CFC‑111)</div>
+    <div>(CFC-111)</div>
   </td>
   <td>
     <div> </div>
@@ -2470,7 +2470,7 @@ _Section 7_
 </tr>
 <tr>
   <td>
-    <div>(CFC‑112)</div>
+    <div>(CFC-112)</div>
   </td>
   <td>
     <div> </div>
@@ -2489,7 +2489,7 @@ _Section 7_
 </tr>
 <tr>
   <td>
-    <div>(CFC‑211)</div>
+    <div>(CFC-211)</div>
   </td>
   <td>
     <div> </div>
@@ -2509,7 +2509,7 @@ _Section 7_
 </tr>
 <tr>
   <td>
-    <div>(CFC‑212)</div>
+    <div>(CFC-212)</div>
   </td>
   <td>
     <div> </div>
@@ -2529,7 +2529,7 @@ _Section 7_
 </tr>
 <tr>
   <td>
-    <div>(CFC‑213)</div>
+    <div>(CFC-213)</div>
   </td>
   <td>
     <div> </div>
@@ -2549,7 +2549,7 @@ _Section 7_
 </tr>
 <tr>
   <td>
-    <div>(CFC‑214)</div>
+    <div>(CFC-214)</div>
   </td>
   <td>
     <div> </div>
@@ -2569,7 +2569,7 @@ _Section 7_
 </tr>
 <tr>
   <td>
-    <div>(CFC‑215)</div>
+    <div>(CFC-215)</div>
   </td>
   <td>
     <div> </div>
@@ -2589,7 +2589,7 @@ _Section 7_
 </tr>
 <tr>
   <td>
-    <div>(CFC‑216)</div>
+    <div>(CFC-216)</div>
   </td>
   <td>
     <div> </div>
@@ -2607,7 +2607,7 @@ _Section 7_
 </tr>
 <tr>
   <td>
-    <div>(CFC‑217)</div>
+    <div>(CFC-217)</div>
   </td>
   <td>
     <div> </div>
@@ -2658,7 +2658,7 @@ _Section 7_
 </tr>
 <tr>
   <td>
-    <div>(Halon‑1211)</div>
+    <div>(Halon-1211)</div>
   </td>
   <td>
     <div> </div>
@@ -2674,7 +2674,7 @@ _Section 7_
 </tr>
 <tr>
   <td>
-    <div>(Halon‑1301)</div>
+    <div>(Halon-1301)</div>
   </td>
   <td>
     <div> </div>
@@ -2690,7 +2690,7 @@ _Section 7_
 </tr>
 <tr>
   <td>
-    <div>(Halon‑2402)</div>
+    <div>(Halon-2402)</div>
   </td>
   <td>
     <div> </div>
@@ -2785,7 +2785,7 @@ _Section 7_
 </thead>
 <tr>
   <td>
-    <div>1,1,1‑trichloroethane</div>
+    <div>1,1,1-trichloroethane</div>
   </td>
   <td>
     <div>0.1</div>
@@ -2805,7 +2805,7 @@ _Section 7_
   </td>
 </tr></table>
 
-* This formula does not refer to 1,1,2‑trichloroethane
+* This formula does not refer to 1,1,2-trichloroethane
 
 ## Part V—HCFCs
 
@@ -2853,7 +2853,7 @@ _Section 7_
 </tr>
 <tr>
   <td>
-    <div>(HCFC‑21)</div>
+    <div>(HCFC-21)</div>
   </td>
   <td>
     <div> </div>
@@ -2870,7 +2870,7 @@ _Section 7_
 </tr>
 <tr>
   <td>
-    <div>(HCFC‑22)</div>
+    <div>(HCFC-22)</div>
   </td>
   <td>
     <div> </div>
@@ -2887,7 +2887,7 @@ _Section 7_
 </tr>
 <tr>
   <td>
-    <div>(HCFC‑31)</div>
+    <div>(HCFC-31)</div>
   </td>
   <td>
     <div> </div>
@@ -2906,7 +2906,7 @@ _Section 7_
 </tr>
 <tr>
   <td>
-    <div>(HCFC‑121)</div>
+    <div>(HCFC-121)</div>
   </td>
   <td>
     <div> </div>
@@ -2926,7 +2926,7 @@ _Section 7_
 </tr>
 <tr>
   <td>
-    <div>(HCFC‑122)</div>
+    <div>(HCFC-122)</div>
   </td>
   <td>
     <div> </div>
@@ -2946,7 +2946,7 @@ _Section 7_
 </tr>
 <tr>
   <td>
-    <div>(HCFC‑123)</div>
+    <div>(HCFC-123)</div>
   </td>
   <td>
     <div> </div>
@@ -2965,7 +2965,7 @@ _Section 7_
 </tr>
 <tr>
   <td>
-    <div>(HCFC‑123)</div>
+    <div>(HCFC-123)</div>
   </td>
   <td>
     <div> </div>
@@ -2983,7 +2983,7 @@ _Section 7_
 </tr>
 <tr>
   <td>
-    <div>(HCFC‑124)</div>
+    <div>(HCFC-124)</div>
   </td>
   <td>
     <div> </div>
@@ -3001,7 +3001,7 @@ _Section 7_
 </tr>
 <tr>
   <td>
-    <div>(HCFC‑124)</div>
+    <div>(HCFC-124)</div>
   </td>
   <td>
     <div> </div>
@@ -3021,7 +3021,7 @@ _Section 7_
 </tr>
 <tr>
   <td>
-    <div>(HCFC‑131)</div>
+    <div>(HCFC-131)</div>
   </td>
   <td>
     <div> </div>
@@ -3042,7 +3042,7 @@ _Section 7_
 </tr>
 <tr>
   <td>
-    <div>(HCFC‑132)</div>
+    <div>(HCFC-132)</div>
   </td>
   <td>
     <div> </div>
@@ -3061,7 +3061,7 @@ _Section 7_
 </tr>
 <tr>
   <td>
-    <div>(HCFC‑133)</div>
+    <div>(HCFC-133)</div>
   </td>
   <td>
     <div> </div>
@@ -3081,7 +3081,7 @@ _Section 7_
 </tr>
 <tr>
   <td>
-    <div>(HCFC‑141)</div>
+    <div>(HCFC-141)</div>
   </td>
   <td>
     <div> </div>
@@ -3100,7 +3100,7 @@ _Section 7_
 </tr>
 <tr>
   <td>
-    <div> (HCFC‑141b)</div>
+    <div> (HCFC-141b)</div>
   </td>
   <td>
     <div> </div>
@@ -3119,7 +3119,7 @@ _Section 7_
 </tr>
 <tr>
   <td>
-    <div>(HCFC‑142)</div>
+    <div>(HCFC-142)</div>
   </td>
   <td>
     <div> </div>
@@ -3137,7 +3137,7 @@ _Section 7_
 </tr>
 <tr>
   <td>
-    <div>(HCFC‑142b)</div>
+    <div>(HCFC-142b)</div>
   </td>
   <td>
     <div> </div>
@@ -3155,7 +3155,7 @@ _Section 7_
 </tr>
 <tr>
   <td>
-    <div>(HCFC‑151)</div>
+    <div>(HCFC-151)</div>
   </td>
   <td>
     <div> </div>
@@ -3174,7 +3174,7 @@ _Section 7_
 </tr>
 <tr>
   <td>
-    <div>(HCFC‑221)</div>
+    <div>(HCFC-221)</div>
   </td>
   <td>
     <div> </div>
@@ -3194,7 +3194,7 @@ _Section 7_
 </tr>
 <tr>
   <td>
-    <div>(HCFC‑222)</div>
+    <div>(HCFC-222)</div>
   </td>
   <td>
     <div> </div>
@@ -3214,7 +3214,7 @@ _Section 7_
 </tr>
 <tr>
   <td>
-    <div>(HCFC‑223)</div>
+    <div>(HCFC-223)</div>
   </td>
   <td>
     <div> </div>
@@ -3234,7 +3234,7 @@ _Section 7_
 </tr>
 <tr>
   <td>
-    <div>(HCFC‑224)</div>
+    <div>(HCFC-224)</div>
   </td>
   <td>
     <div> </div>
@@ -3254,7 +3254,7 @@ _Section 7_
 </tr>
 <tr>
   <td>
-    <div>(HCFC‑225)</div>
+    <div>(HCFC-225)</div>
   </td>
   <td>
     <div> </div>
@@ -3274,7 +3274,7 @@ _Section 7_
 </tr>
 <tr>
   <td>
-    <div>(HCFC‑225ca)</div>
+    <div>(HCFC-225ca)</div>
   </td>
   <td>
     <div> </div>
@@ -3292,7 +3292,7 @@ _Section 7_
 </tr>
 <tr>
   <td>
-    <div>(HCFC‑225cb)</div>
+    <div>(HCFC-225cb)</div>
   </td>
   <td>
     <div> </div>
@@ -3310,7 +3310,7 @@ _Section 7_
 </tr>
 <tr>
   <td>
-    <div>(HCFC‑226)</div>
+    <div>(HCFC-226)</div>
   </td>
   <td>
     <div> </div>
@@ -3330,7 +3330,7 @@ _Section 7_
 </tr>
 <tr>
   <td>
-    <div>(HCFC‑231)</div>
+    <div>(HCFC-231)</div>
   </td>
   <td>
     <div> </div>
@@ -3351,7 +3351,7 @@ _Section 7_
 </tr>
 <tr>
   <td>
-    <div>(HCFC‑232)</div>
+    <div>(HCFC-232)</div>
   </td>
   <td>
     <div> </div>
@@ -3372,7 +3372,7 @@ _Section 7_
 </tr>
 <tr>
   <td>
-    <div>(HCFC‑233)</div>
+    <div>(HCFC-233)</div>
   </td>
   <td>
     <div> </div>
@@ -3393,7 +3393,7 @@ _Section 7_
 </tr>
 <tr>
   <td>
-    <div>(HCFC‑234)</div>
+    <div>(HCFC-234)</div>
   </td>
   <td>
     <div> </div>
@@ -3412,7 +3412,7 @@ _Section 7_
 </tr>
 <tr>
   <td>
-    <div>(HCFC‑235)</div>
+    <div>(HCFC-235)</div>
   </td>
   <td>
     <div> </div>
@@ -3432,7 +3432,7 @@ _Section 7_
 </tr>
 <tr>
   <td>
-    <div>(HCFC‑241)</div>
+    <div>(HCFC-241)</div>
   </td>
   <td>
     <div> </div>
@@ -3453,7 +3453,7 @@ _Section 7_
 </tr>
 <tr>
   <td>
-    <div>(HCFC‑242)</div>
+    <div>(HCFC-242)</div>
   </td>
   <td>
     <div> </div>
@@ -3474,7 +3474,7 @@ _Section 7_
 </tr>
 <tr>
   <td>
-    <div>(HCFC‑243)</div>
+    <div>(HCFC-243)</div>
   </td>
   <td>
     <div> </div>
@@ -3493,7 +3493,7 @@ _Section 7_
 </tr>
 <tr>
   <td>
-    <div>(HCFC‑244)</div>
+    <div>(HCFC-244)</div>
   </td>
   <td>
     <div> </div>
@@ -3513,7 +3513,7 @@ _Section 7_
 </tr>
 <tr>
   <td>
-    <div>(HCFC‑251)</div>
+    <div>(HCFC-251)</div>
   </td>
   <td>
     <div> </div>
@@ -3534,7 +3534,7 @@ _Section 7_
 </tr>
 <tr>
   <td>
-    <div>(HCFC‑252)</div>
+    <div>(HCFC-252)</div>
   </td>
   <td>
     <div> </div>
@@ -3553,7 +3553,7 @@ _Section 7_
 </tr>
 <tr>
   <td>
-    <div>(HCFC‑253)</div>
+    <div>(HCFC-253)</div>
   </td>
   <td>
     <div> </div>
@@ -3573,7 +3573,7 @@ _Section 7_
 </tr>
 <tr>
   <td>
-    <div>(HCFC‑261)</div>
+    <div>(HCFC-261)</div>
   </td>
   <td>
     <div> </div>
@@ -3592,7 +3592,7 @@ _Section 7_
 </tr>
 <tr>
   <td>
-    <div>(HCFC‑262)</div>
+    <div>(HCFC-262)</div>
   </td>
   <td>
     <div> </div>
@@ -3610,7 +3610,7 @@ _Section 7_
 </tr>
 <tr>
   <td>
-    <div>(HCFC‑271)</div>
+    <div>(HCFC-271)</div>
   </td>
   <td>
     <div> </div>
@@ -3666,7 +3666,7 @@ _Section 7_
     <div>CHF
       2Br
 
-(HBFC‑22B1)</div>
+(HBFC-22B1)</div>
   </td>
   <td>
     <div>0.74</div>
@@ -4137,92 +4137,92 @@ _Section 7_
 </thead>
 <tr>
   <td>
-    <div>CHF 3 (HFC‑23)</div>
+    <div>CHF 3 (HFC-23)</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>CH 2 F 2 (HFC‑32)</div>
+    <div>CH 2 F 2 (HFC-32)</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>CH 3 F  (HFC‑41)</div>
+    <div>CH 3 F  (HFC-41)</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>CHF 2 CF 3 (HFC‑125)</div>
+    <div>CHF 2 CF 3 (HFC-125)</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>CHF 2 CHF 2 (HFC‑134)</div>
+    <div>CHF 2 CHF 2 (HFC-134)</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>CH 2 FCF 3 (HFC‑134a)</div>
+    <div>CH 2 FCF 3 (HFC-134a)</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>CHF 2 CH 2 F  (HFC‑143)</div>
+    <div>CHF 2 CH 2 F  (HFC-143)</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>CF 3 CH 3 (HFC‑143a)</div>
+    <div>CF 3 CH 3 (HFC-143a)</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>CH 2 FCH 2 F  (HFC‑152)</div>
+    <div>CH 2 FCH 2 F  (HFC-152)</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>CH 3 CHF 2 (HFC‑152a)</div>
+    <div>CH 3 CHF 2 (HFC-152a)</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>CH 3 CH 2 F  (HFC‑161)</div>
+    <div>CH 3 CH 2 F  (HFC-161)</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>CF 3 CHFCF 3 (HFC‑227ea)</div>
+    <div>CF 3 CHFCF 3 (HFC-227ea)</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>CH 2 FCF 2 CF 3 (HFC‑236cb)</div>
+    <div>CH 2 FCF 2 CF 3 (HFC-236cb)</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>CHF 2 CHFCF 3 (HFC‑236ea)</div>
+    <div>CHF 2 CHFCF 3 (HFC-236ea)</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>CF 3 CH 2 CF 3 (HFC‑236fa)</div>
+    <div>CF 3 CH 2 CF 3 (HFC-236fa)</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>CH 2 FCF 2 CHF 2 (HFC‑245ca)</div>
+    <div>CH 2 FCF 2 CHF 2 (HFC-245ca)</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>CHF 2 CH 2 CF 3 (HFC‑245fa)</div>
+    <div>CHF 2 CH 2 CF 3 (HFC-245fa)</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>CF 3 CH 2 CF 2 CH 3 (HFC‑365mfc)</div>
+    <div>CF 3 CH 2 CF 2 CH 3 (HFC-365mfc)</div>
   </td>
 </tr>
 <tr>
@@ -4230,7 +4230,7 @@ _Section 7_
     <div>CF
       3CHFCHFCF
       2CF
-      3(HFC‑43‑10mee)</div>
+      3(HFC-43-10mee)</div>
   </td>
 </tr></table>
 
@@ -4283,7 +4283,7 @@ _Section 7_
 </tr>
 <tr>
   <td>
-    <div>c‑C
+    <div>c-C
       4F
       8
     </div>
@@ -4324,7 +4324,7 @@ The Parties to this Convention,
 
 <u>Mindful also</u> of the precautionary measures for the protection of the ozone layer which have already been taken at the national and international levels,
 
-<u>Aware</u> that measures to protect the ozone layer from modifications due to human activities require international co‑operation and action, and should be based on relevant scientific and technical considerations,
+<u>Aware</u> that measures to protect the ozone layer from modifications due to human activities require international co-operation and action, and should be based on relevant scientific and technical considerations,
 
 <u>Aware</u> also of the need for further research and systematic observations to further develop scientific knowledge of the ozone layer and possible adverse effects resulting from its modification,
 
@@ -4360,13 +4360,13 @@ GENERAL OBLIGATIONS
 
 2.  To this end the Parties shall, in accordance with the means at their disposal and their capabilities:
 
-(a)   Co‑operate by means of systematic observations, research and information exchange in order to better understand and assess the effects of human activities on the ozone layer and the effects on human health and the environment from modification of the ozone layer;
+(a)   Co-operate by means of systematic observations, research and information exchange in order to better understand and assess the effects of human activities on the ozone layer and the effects on human health and the environment from modification of the ozone layer;
 
-(b)   Adopt appropriate legislative or administrative measures and co‑operate in harmonising appropriate policies to control, limit, reduce or prevent human activities under their jurisdiction or control should it be found that these activities have or are likely to have adverse effects resulting from modification or likely modification of the ozone layer;
+(b)   Adopt appropriate legislative or administrative measures and co-operate in harmonising appropriate policies to control, limit, reduce or prevent human activities under their jurisdiction or control should it be found that these activities have or are likely to have adverse effects resulting from modification or likely modification of the ozone layer;
 
-(c)   Co‑operate in the formulation of agreed measures, procedures and standards for the implementation of this Convention, with a view to the adoption of protocols and annexes;
+(c)   Co-operate in the formulation of agreed measures, procedures and standards for the implementation of this Convention, with a view to the adoption of protocols and annexes;
 
-(d)   Co‑operate with competent international bodies to implement effectively this Convention and protocols to which they are party. 
+(d)   Co-operate with competent international bodies to implement effectively this Convention and protocols to which they are party. 
 
 3.  The provisions of this Convention shall in no way affect the right of Parties to adopt, in accordance with international law, domestic measures additional to those referred to in paragraphs 1 and 2 above, nor shall they affect additional domestic measures already taken by a Party, provided that these measures are not incompatible with their obligations under this Convention.
 
@@ -4376,35 +4376,35 @@ GENERAL OBLIGATIONS
 
 RESEARCH AND SYSTEMATIC OBSERVATIONS
 
-1.  The Parties undertake, as appropriate, to initiate and co‑operate in, directly or through competent international bodies, the conduct of research and scientific assessments on:
+1.  The Parties undertake, as appropriate, to initiate and co-operate in, directly or through competent international bodies, the conduct of research and scientific assessments on:
 
 (a)   The physical and chemical processes that may affect the ozone layer;
 
-(b)   The human health and other biological effects deriving from any modifications of the ozone layer, particularly those resulting from changes in ultra‑violet solar radiation having biological effects (UV‑B);
+(b)   The human health and other biological effects deriving from any modifications of the ozone layer, particularly those resulting from changes in ultra-violet solar radiation having biological effects (UV-B);
 
 (c)   Climatic effects deriving from any modifications of the ozone layer;
 
-(d)   Effects deriving from any modifications of the ozone layer and any consequent change in UV‑B radiation on natural and synthetic materials useful to mankind;
+(d)   Effects deriving from any modifications of the ozone layer and any consequent change in UV-B radiation on natural and synthetic materials useful to mankind;
 
 (e)   Substances, practices, processes and activities that may affect the ozone layer, and their cumulative effects;
 
-(f)   Alternative substances and technologies;
+(f)    Alternative substances and technologies;
 
-(g)   Related socio‑economic matters;
+(g)   Related socio-economic matters;
 
 and as further elaborated in annexes I and II.
 
 2.  The Parties undertake to promote or establish, as appropriate, directly or through competent international bodies and taking fully into account national legislation and relevant ongoing activities at both the national and international levels, joint or complementary programmes for systematic observation of the state of the ozone layer and other relevant parameters, as elaborated in annex I.
 
-3.  The Parties undertake to co‑operate, directly or through competent international bodies, in ensuring the collection, validation and transmission of research and observational data through appropriate world data centres in a regular and timely fashion.
+3.  The Parties undertake to co-operate, directly or through competent international bodies, in ensuring the collection, validation and transmission of research and observational data through appropriate world data centres in a regular and timely fashion.
 
 <u>Article 4</u>
 
-CO‑OPERATION IN THE LEGAL, SCIENTIFIC AND TECHNICAL FIELDS
+CO-OPERATION IN THE LEGAL, SCIENTIFIC AND TECHNICAL FIELDS
 
-1.  The Parties shall facilitate and encourage the exchange of scientific, technical, socio‑economic, commercial and legal information relevant to this Convention as further elaborated in annex II. Such information shall be supplied to bodies agreed upon by the Parties. Any such body receiving information regarded as confidential by the supplying Party shall ensure that such information is not disclosed and shall aggregate it to protect its confidentiality before it is made available to all Parties.
+1.  The Parties shall facilitate and encourage the exchange of scientific, technical, socio-economic, commercial and legal information relevant to this Convention as further elaborated in annex II. Such information shall be supplied to bodies agreed upon by the Parties. Any such body receiving information regarded as confidential by the supplying Party shall ensure that such information is not disclosed and shall aggregate it to protect its confidentiality before it is made available to all Parties.
 
-2.  The Parties shall co‑operate, consistent with their national laws, regulations and practices and taking into account in particular the needs of the developing countries, in promoting, directly or through competent international bodies, the development and transfer of technology and knowledge. Such co‑operation shall be carried out particularly through:
+2.  The Parties shall co-operate, consistent with their national laws, regulations and practices and taking into account in particular the needs of the developing countries, in promoting, directly or through competent international bodies, the development and transfer of technology and knowledge. Such co-operation shall be carried out particularly through:
 
 (a)   Facilitation of the acquisition of alternative technologies by other Parties;
 
@@ -4438,11 +4438,11 @@ CONFERENCE OF THE PARTIES
 
 (c)   Promote, in accordance with article 2, the harmonization of appropriate policies, strategies and measures for minimizing the release of substances causing or likely to cause modification of the ozone layer, and make recommendations on any other measures relating to this Convention;
 
-(d)   Adopt, in accordance with articles 3 and 4, programmes for research, systematic observations, scientific and technological co‑operation, the exchange of information and the transfer of technology and knowledge;
+(d)   Adopt, in accordance with articles 3 and 4, programmes for research, systematic observations, scientific and technological co-operation, the exchange of information and the transfer of technology and knowledge;
 
 (e)   Consider and adopt, as required, in accordance with articles 9 and 10, amendments to this Convention and its annexes;
 
-(f)   Consider amendments to any protocol, as well as to any annexes thereto, and, if so decided, recommend their adoption to the parties to the protocol concerned;
+(f)    Consider amendments to any protocol, as well as to any annexes thereto, and, if so decided, recommend their adoption to the parties to the protocol concerned;
 
 (g)   Consider and adopt, as required, in accordance with article 10, additional annexes to this Convention;
 
@@ -4450,11 +4450,11 @@ CONFERENCE OF THE PARTIES
 
 (i)    Establish such subsidiary bodies as are deemed necessary for the implementation of this Convention;
 
-(j)    Seek, where appropriate, the services of competent international bodies and scientific committees, in particular the World Meteorological Organization and the World Health Organization, as well as the Co‑ordinating Committee on the Ozone Layer, in scientific research, systematic observations and other activities pertinent to the objectives of this Convention, and make use as appropriate of information from these bodies and committees;
+(j)    Seek, where appropriate, the services of competent international bodies and scientific committees, in particular the World Meteorological Organization and the World Health Organization, as well as the Co-ordinating Committee on the Ozone Layer, in scientific research, systematic observations and other activities pertinent to the objectives of this Convention, and make use as appropriate of information from these bodies and committees;
 
 (k)   Consider and undertake any additional action that may be required for the achievement of the purposes of this Convention.
 
-5.  The United Nations, its specialized agencies and the International Atomic Energy Agency, as well as any State not party to this Convention, may be represented at meetings of the Conference of the Parties by observers. Any body or agency, whether national or international, governmental or non‑governmental, qualified in fields relating to the protection of the ozone layer which has informed the secretariat of its wish to be represented at a meeting of the Conference of the Parties as an observer may be admitted unless at least one‑third of the Parties present object. The admission and participation of observers shall be subject to the rules of procedure adopted by the Conference of the Parties.
+5.  The United Nations, its specialized agencies and the International Atomic Energy Agency, as well as any State not party to this Convention, may be represented at meetings of the Conference of the Parties by observers. Any body or agency, whether national or international, governmental or non-governmental, qualified in fields relating to the protection of the ozone layer which has informed the secretariat of its wish to be represented at a meeting of the Conference of the Parties as an observer may be admitted unless at least one-third of the Parties present object. The admission and participation of observers shall be subject to the rules of procedure adopted by the Conference of the Parties.
 
 <u>Article 7</u>
 
@@ -4470,9 +4470,9 @@ SECRETARIAT
 
 (d)   To prepare reports on its activities carried out in implementation of its functions under this Convention and present them to the Conference of the Parties;
 
-(e)   To ensure the necessary co‑ordination with other relevant international bodies, and in particular to enter into such administrative and contractual arrangements as may be required for the effective discharge of its functions;
+(e)   To ensure the necessary co-ordination with other relevant international bodies, and in particular to enter into such administrative and contractual arrangements as may be required for the effective discharge of its functions;
 
-(f)   To perform such other functions as may be determined by the Conference of the Parties.
+(f)    To perform such other functions as may be determined by the Conference of the Parties.
 
 2.  The secretariat functions will be carried out on an interim basis by the United Nations Environment Programme until the completion of the first ordinary meeting of the Conference of the Parties held pursuant to article 6\. At its first ordinary meeting, the Conference of the Parties shall designate the secretariat from amongst those existing competent international organizations which have signified their willingness to carry out the secretariat functions under this Convention.
 
@@ -4492,11 +4492,11 @@ AMENDMENT OF THE CONVENTION OR PROTOCOLS
 
 2.  Amendments to this Convention shall be adopted at a meeting of the Conference of the Parties. Amendments to any protocol shall be adopted at a meeting of the Parties to the protocol in question. The text of any proposed amendment to this Convention or to any protocol, except as may otherwise be provided in such protocol, shall be communicated to the Parties by the secretariat at least six months before the meeting at which it is proposed for adoption. The secretariat shall also communicate proposed amendments to the signatories to this Convention for information.
 
-3.  The Parties shall make every effort to reach agreement on any proposed amendment to this Convention by consensus. If all efforts at consensus have been exhausted, and no agreement reached, the amendment shall as a last resort be adopted by a three‑fourths majority vote of the Parties present and voting at the meeting, and shall be submitted by the Depositary to all Parties for ratification, approval or acceptance.
+3.  The Parties shall make every effort to reach agreement on any proposed amendment to this Convention by consensus. If all efforts at consensus have been exhausted, and no agreement reached, the amendment shall as a last resort be adopted by a three-fourths majority vote of the Parties present and voting at the meeting, and shall be submitted by the Depositary to all Parties for ratification, approval or acceptance.
 
-4.  The procedure mentioned in paragraph 3 above shall apply to amendments to any protocol, except that a two‑thirds majority of the parties to that protocol present and voting at the meeting shall suffice for their adoption.
+4.  The procedure mentioned in paragraph 3 above shall apply to amendments to any protocol, except that a two-thirds majority of the parties to that protocol present and voting at the meeting shall suffice for their adoption.
 
-5.  Ratification, approval or acceptance of amendments shall be notified to the Depositary in writing. Amendments adopted in accordance with paragraphs 3 or 4 above shall enter into force between parties having accepted them on the ninetieth day after the receipt by the Depositary of notification of their ratification, approval or acceptance by at least three‑fourths of the Parties to this Convention or by at least two‑thirds of the parties to the protocol concerned, except as may otherwise be provided in such protocol. Thereafter the amendments shall enter into force for any other Party on the ninetieth day after that Party deposits its instrument of ratification, approval or acceptance of the amendments.
+5.  Ratification, approval or acceptance of amendments shall be notified to the Depositary in writing. Amendments adopted in accordance with paragraphs 3 or 4 above shall enter into force between parties having accepted them on the ninetieth day after the receipt by the Depositary of notification of their ratification, approval or acceptance by at least three-fourths of the Parties to this Convention or by at least two-thirds of the parties to the protocol concerned, except as may otherwise be provided in such protocol. Thereafter the amendments shall enter into force for any other Party on the ninetieth day after that Party deposits its instrument of ratification, approval or acceptance of the amendments.
 
 6.  For the purposes of this article, “Parties present and voting” means Parties present and casting an affirmative or negative vote.
 
@@ -4542,7 +4542,7 @@ SETTLEMENT OF DISPUTES
 
 SIGNATURE
 
-This Convention shall be open for signature by States and by regional economic integration organizations at the Federal Ministry for Foreign Affairs of the Republic of   Austria in Vienna from 22 March 1985 to 21 September 1985, and at United Nations Headquarters in New York from 22 September 1985 to 21 March 1986.
+This Convention shall be open for signature by States and by regional economic integration organizations at the Federal Ministry for Foreign Affairs of the Republic  of Austria in Vienna from 22 March 1985 to 21 September 1985, and at United Nations Headquarters in New York from 22 September 1985 to 21 March 1986.
 
 <u>Article 13</u>
 
@@ -4616,7 +4616,7 @@ WITHDRAWAL
 
 DEPOSITARY
 
-1.  The Secretary‑General of the United Nations shall assume the functions of depositary of this Convention and any protocols.
+1.  The Secretary-General of the United Nations shall assume the functions of depositary of this Convention and any protocols.
 
 2.  The Depositary shall inform the Parties, in particular, of:
 
@@ -4630,7 +4630,7 @@ DEPOSITARY
 
 (e)   All communications relating to the adoption and approval of annexes and to the amendment of annexes in accordance with article 10;
 
-(f)   Notifications by regional economic integration organizations of the extent of their competence with respect to matters governed by this Convention and any protocols, and of any modifications thereof;
+(f)    Notifications by regional economic integration organizations of the extent of their competence with respect to matters governed by this Convention and any protocols, and of any modifications thereof;
 
 (g)   Declarations made in accordance with article 11, paragraph 3.
 
@@ -4638,11 +4638,11 @@ DEPOSITARY
 
 AUTHENTIC TEXTS
 
-The original of this Convention, of which the Arabic, Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited with the Secretary‑General of the United Nations.
+The original of this Convention, of which the Arabic, Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited with the Secretary-General of the United Nations.
 
 IN WITNESS WHEREOF the undersigned, being duly authorized to that effect, have signed this Convention.
 
-Done at Vienna                                         on the 22nd day of March 1985
+Done at Vienna                                               on the 22nd day of March 1985
 
 <u>Annex I</u>
 
@@ -4650,81 +4650,81 @@ RESEARCH AND SYSTEMATIC OBSERVATIONS
 
 1.  The Parties to the Convention recognize that the major scientific issues are:
 
-(a)   Modification of the ozone layer which would result in a change in the amount of solar ultra‑violet radiation having biological effects (UV‑B) that reaches the Earth’s surface and the potential consequences for human health, for organisms, ecosystems and materials useful to mankind;
+(a)   Modification of the ozone layer which would result in a change in the amount of solar ultra-violet radiation having biological effects (UV-B) that reaches the Earth’s surface and the potential consequences for human health, for organisms, ecosystems and materials useful to mankind;
 
 (b)   Modification of the vertical distribution of ozone, which could change the temperature structure of the atmosphere and the potential consequences for weather and climate.
 
-2.  The Parties to the Convention, in accordance with article 3, shall co‑operate in conducting research and systematic observations and in formulating recommendations for future research and observation in such areas as:
+2.  The Parties to the Convention, in accordance with article 3, shall co-operate in conducting research and systematic observations and in formulating recommendations for future research and observation in such areas as:
 
 (a)   <u>Research into the physics and chemistry of the atmosphere</u>
 
-                           (i)     Comprehensive theoretical models: further development of models which consider the interaction between radiative, dynamic and chemical processes; studies of the simultaneous effects of various man‑made and naturally occurring species upon atmospheric ozone; interpretation of satellite and non‑satellite measurement data sets; evaluation of trends in atmospheric and geophysical parameters, and the development of methods for attributing changes in these parameters to specific causes;
+                           (i)     Comprehensive theoretical models: further development of models which consider the interaction between radiative, dynamic and chemical processes; studies of the simultaneous effects of various man-made and naturally occurring species upon atmospheric ozone; interpretation of satellite and non-satellite measurement data sets; evaluation of trends in atmospheric and geophysical parameters, and the development of methods for attributing changes in these parameters to specific causes;
 
-                          (ii)     Laboratory studies of: rate coefficients, absorption cross‑sections and mechanisms of tropospheric and stratospheric chemical and photochemical processes; spectroscopic data to support field measurements in all relevant spectral regions;
+                          (ii)     Laboratory studies of: rate coefficients, absorption cross-sections and mechanisms of tropospheric and stratospheric chemical and photochemical processes; spectroscopic data to support field measurements in all relevant spectral regions;
 
-                         (iii)     Field measurements: the concentration and fluxes of key source gases of both natural and anthropogenic origin; atmospheric dynamics studies; simultaneous measurements of photochemically‑related species down to the planetary boundary layer, using <u>in situ</u> and remote sensing instruments; intercomparison of different sensors, including co‑ordinated correlative measurements for satellite instrumentation; three‑dimensional fields of key atmospheric trace constituents, solar spectral flux and meteorological parameters;
+                          (iii)     Field measurements: the concentration and fluxes of key source gases of both natural and anthropogenic origin; atmospheric dynamics studies; simultaneous measurements of photochemically-related species down to the planetary boundary layer, using <u>in situ</u> and remote sensing instruments; intercomparison of different sensors, including co-ordinated correlative measurements for satellite instrumentation; three-dimensional fields of key atmospheric trace constituents, solar spectral flux and meteorological parameters;
 
-                         (iv)     Instrument development, including satellite and non‑satellite sensors for atmospheric trace constituents, solar flux and meteorological parameters;
+                         (iv)     Instrument development, including satellite and non-satellite sensors for atmospheric trace constituents, solar flux and meteorological parameters;
 
 (b)   <u>Research into health, biological and photodegradation effects</u>
 
-             (i)     The relationship between human exposure to visible and ultra‑violet solar radiation and (a) the development of both non‑melanoma and melanoma skin cancer and (b) the effects on the immunological system;
+             (i)     The relationship between human exposure to visible and ultra-violet solar radiation and (a) the development of both non-melanoma and melanoma skin cancer and (b) the effects on the immunological system;
 
-            (ii)     Effects of UV‑B radiation, including the wavelength dependence, upon (a) agricultural crops, forests and other terrestial ecosystems and (b) the aquatic food web and fisheries, as well as possible inhibition of oxygen production by marine phytoplankton;
+             (ii)     Effects of UV-B radiation, including the wavelength dependence, upon (a) agricultural crops, forests and other terrestial ecosystems and (b) the aquatic food web and fisheries, as well as possible inhibition of oxygen production by marine phytoplankton;
 
-           (iii)     The mechanisms by which UV‑B radiation acts on biological materials, species and ecosystems, including: the relationship between dose, dose rate, and response; photorepair, adaptation, and protection;
+            (iii)     The mechanisms by which UV-B radiation acts on biological materials, species and ecosystems, including: the relationship between dose, dose rate, and response; photorepair, adaptation, and protection;
 
-           (iv)     Studies of biological action spectra and the spectral response using polychromatic radiation in order to include possible interactions of the various wavelength regions;
+            (iv)     Studies of biological action spectra and the spectral response using polychromatic radiation in order to include possible interactions of the various wavelength regions;
 
-            (v)     The influence of UV‑B radiation on: the sensitivities and activities of biological species important to the biospheric balance; primary processes such as photosynthesis and biosynthesis;
+            (v)     The influence of UV-B radiation on: the sensitivities and activities of biological species important to the biospheric balance; primary processes such as photosynthesis and biosynthesis;
 
-           (vi)     The influence of UV‑B radiation on the photodegradation of pollutants, agricultural chemicals and other materials;
+            (vi)     The influence of UV-B radiation on the photodegradation of pollutants, agricultural chemicals and other materials;
 
 (c)   <u>Research on effects on climate</u>
 
              (i)     Theoretical and observational studies of the radiative effects of ozone and other trace species and the impact on climate parameters, such as land and ocean surface temperatures, precipitation patterns, the exchange between the troposphere and stratosphere;
 
-            (ii)     the investigation of the effects of such climate impacts on various aspects of human activity;
+             (ii)     the investigation of the effects of such climate impacts on various aspects of human activity;
 
 (d)   <u>Systematic observations on:</u>
 
-                (i)  The status of the ozone layer (i.e. the spatial and temporal variability of the total column content and vertical distribution) by making the Global Ozone Observing System, based on the integration of satellite and ground‑based systems, fully operational;
+                (i)  The status of the ozone layer (i.e. the spatial and temporal variability of the total column content and vertical distribution) by making the Global Ozone Observing System, based on the integration of satellite and ground-based systems, fully operational;
 
-               (ii)  The tropospheric and stratospheric concentrations of source gases for the HOx, NOx, ClOx and carbon families;
+               (ii)  The tropospheric and stratospheric concentrations of source gases for the HOx, NOx, C1Ox and carbon families;
 
-              (iii)  The temperature from the ground to the mesosphere, utilizing both ground‑based and satellite systems;
+              (iii)  The temperature from the ground to the mesosphere, utilizing both ground-based and satellite systems;
 
-              (iv)  Wavelength‑resolved solar flux reaching, and thermal radiation leaving, the Earth’s atmosphere, utilizing satellite measurements;
+              (iv)  Wavelength-resolved solar flux reaching, and thermal radiation leaving, the Earth’s atmosphere, utilizing satellite measurements;
 
-               (v)  Wavelength‑resolved solar flux reaching the Earth’s surface in the ultra‑violet range having biological effects (UV‑B);
+               (v)  Wavelength-resolved solar flux reaching the Earth’s surface in the ultra-violet range having biological effects (UV-B);
 
-              (vi)  Aerosol properties and distribution from the ground to the mesosphere, utilizing ground‑based, airborne and satellite systems;
+              (vi)  Aerosol properties and distribution from the ground to the mesosphere, utilizing ground-based, airborne and satellite systems;
 
-             (vii)  Climatically important variables by the maintenance of programmes of high‑quality meteorological surface measurements;
+             (vii)  Climatically important variables by the maintenance of programmes of high-quality meteorological surface measurements;
 
-            (viii)  Trace species, temperatures, solar flux and aerosols utilizing impoved methods for analysing global data.
+             (viii)  Trace species, temperatures, solar flux and aerosols utilizing impoved methods for analysing global data.
 
-3.  The Parties to the Convention shall co‑operate, taking into account the particular needs of the developing countries, in promoting the appropriate scientific and technical training required to participate in the research and systematic observations outlined in this annex. Particular emphasis should be given to the intercalibration of observational instrumentation and methods with a view to generating comparable or standardized scientific data sets.
+3.  The Parties to the Convention shall co-operate, taking into account the particular needs of the developing countries, in promoting the appropriate scientific and technical training required to participate in the research and systematic observations outlined in this annex. Particular emphasis should be given to the intercalibration of observational instrumentation and methods with a view to generating comparable or standardized scientific data sets.
 
 4.  The following chemical substances of natural and anthropogenic origin, not listed in order of priority, are thought to have the potential to modify the chemical and physical properties of the ozone layer.
 
 (a)   Carbon substances
 
-             (i)  <u>Carbon monoxide (CO)</u>
+              (i)  <u>Carbon monoxide (CO)</u>
 
 Carbon monoxide has significant natural and anthropogenic sources, and is thought to play a major direct role in tropospheric photochemistry, and an indirect role in stratospheric photochemistry.
 
-            (ii)  <u>Carbon dioxide (CO</u><u>2)</u>
+             (ii)  <u>Carbon dioxide (CO</u><u>2)</u>
 
 Carbon dioxide has significant natural and anthropogenic sources, and affects stratospheric ozone by influencing the thermal structure of the atmosphere.
 
-           (iii)  <u>Methane (CH</u><u>4)</u>
+            (iii)  <u>Methane (CH</u><u>4)</u>
 
 Methane has both natural and anthropogenic sources, and affects both tropospheric and stratospheric ozone.
 
-           (iv)  <u>Non‑methane hydrocarbon species</u>
+            (iv)  <u>Non-methane hydrocarbon species</u>
 
-Non‑methane hydrocarbon species, which consist of a large number of chemical substances, have both natural and anthropogenic sources, and play a direct role in tropospheric photochemistry and an indirect role in stratospheric photochemistry.
+Non-methane hydrocarbon species, which consist of a large number of chemical substances, have both natural and anthropogenic sources, and play a direct role in tropospheric photochemistry and an indirect role in stratospheric photochemistry.
 
 (b)   Nitrogen substances
 
@@ -4734,23 +4734,23 @@ The dominant sources of N2O are natural, but anthropogenic contributions are bec
 
                (ii)  <u>Nitrogen oxides (NO</u><u>x)</u>
 
-Ground‑level sources of NOx play a major direct role only in tropospheric photochemical processes and an indirect role in stratosphere photochemistry, whereas injection of NOx close to the tropopause may lead directly to a change in upper tropospheric and stratospheric ozone.
+Ground-level sources of NOx play a major direct role only in tropospheric photochemical processes and an indirect role in stratosphere photochemistry, whereas injection of NOx close to the tropopause may lead directly to a change in upper tropospheric and stratospheric ozone.
 
 (c)   Chlorine substances
 
-                (i)  <u>Fully halogenated alkanes, e.g. CCl</u><u>4, CFCl</u><u>3 (CFC‑11), CF</u><u>2Cl</u><u>2 (CFC‑12), C</u><u>2F</u><u>3Cl</u><u>3 (CFC‑113), C</u><u>2F</u><u>4Cl</u><u>2 (CFC‑114)</u>
+                (i)  <u>Fully halogenated alkanes, e.g. CC1</u><u>4, CFC1</u><u>3 (CFC-11), CF</u><u>2C1</u><u>2 (CFC-12), C</u><u>2F</u><u>3C1</u><u>3 (CFC-113), C</u><u>2F</u><u>4C1</u><u>2 (CFC-114)</u>
 
-Fully halogenated alkanes are anthropogenic and act as a source of ClOx, which plays a vital role in ozone photochemistry, especially in the 30‑50 km altitude region.
+Fully halogenated alkanes are anthropogenic and act as a source of C10x, which plays a vital role in ozone photochemistry, especially in the 30-50 km altitude region.
 
-               (ii)  <u>Partially halogenated alkanes, e.g. CH</u><u>3Cl, CHF</u><u>2Cl (CFC‑22), CH</u><u>3CCl</u><u>3, CHFCl</u><u>2 (CFC‑21)</u>
+               (ii)  <u>Partially halogenated alkanes, e.g. CH</u><u>3C1, CHF</u><u>2C1 (CFC-22), CH</u><u>3CC1</u><u>3, CHFC1</u><u>2 (CFC-21)</u>
 
-The sources of CH3Cl are natural, whereas the other partially halogenated alkanes mentioned above are anthropogenic in origin. These gases also act as a source of stratospheric ClOx.
+The sources of CH3C1 are natural, whereas the other partially halogenated alkanes mentioned above are anthropogenic in origin. These gases also act as a source of stratospheric C10x.
 
 (d)   Bromine substances
 
 <u>Fully halogenated alkanes, e.g. CF</u><u>3Br</u>
 
-These gases are anthropogenic and act as a source of BrOx, which behaves in a manner similar to ClOx.
+These gases are anthropogenic and act as a source of Br0x, which behaves in a manner similar to C10x.
 
 (e)   Hydrogen substances
 
@@ -4758,7 +4758,7 @@ These gases are anthropogenic and act as a source of BrOx, which behaves in a ma
 
 Hydrogen, the source of which is natural and anthropogenic, plays a minor role in stratospheric photochemistry.
 
-               (ii)  Water (H2O)
+               (ii)  Water (H20)
 
 Water, the source of which is natural, plays a vital role in both tropospheric and stratospheric photochemistry. Local sources of water vapour in the stratosphere include the oxidation of methane and, to a lesser extent, of hydrogen.
 
@@ -4766,19 +4766,19 @@ Water, the source of which is natural, plays a vital role in both tropospheric a
 
 INFORMATION EXCHANGE
 
-1.  The Parties to the Convention recognize that the collection and sharing of information is an important means of implementing the objectives of this Convention and of assuring that any actions that may be taken are appropriate and equitable. Therefore, Parties shall exchange scientific, technical, socio‑economic, business, commercial and legal information.
+1.  The Parties to the Convention recognize that the collection and sharing of information is an important means of implementing the objectives of this Convention and of assuring that any actions that may be taken are appropriate and equitable. Therefore, Parties shall exchange scientific, technical, socio-economic, business, commercial and legal information.
 
-2.  The Parties to the Convention, in deciding what information is to be collected and exchanged, should take into account the usefulness of the information and the costs of obtaining it. The Parties further recognize that co‑operation under this annex has to be consistent with national laws, regulations and practices regarding patents, trade secrets, and protection of confidential and proprietary information.
+2.  The Parties to the Convention, in deciding what information is to be collected and exchanged, should take into account the usefulness of the information and the costs of obtaining it. The Parties further recognize that co-operation under this annex has to be consistent with national laws, regulations and practices regarding patents, trade secrets, and protection of confidential and proprietary information.
 
 3.  <u>Scientific information</u>
 
 This includes information on:
 
-(a)   Planned and ongoing research, both governmental and private, to facilitate the co‑ordination of research programmes so as to make the most effective use of available national and international resources;
+(a)   Planned and ongoing research, both governmental and private, to facilitate the co-ordination of research programmes so as to make the most effective use of available national and international resources;
 
 (b)   The emission data needed for research;
 
-(c)   Scientific results published in peer‑reviewed literature on the understanding of the physics and chemistry of the Earth’s atmosphere and of its susceptibility to change, in particular on the state of the ozone layer and effects on human health, environment and climate which would result from changes on all time‑scales in either the total column content or the vertical distribution of ozone;
+(c)   Scientific results published in peer-reviewed literature on the understanding of the physics and chemistry of the Earth’s atmosphere and of its susceptibility to change, in particular on the state of the ozone layer and effects on human health, environment and climate which would result from changes on all time-scales in either the total column content or the vertical distribution of ozone;
 
 (d)   The assessment of research results and the recommendations for future research.
 
@@ -4786,11 +4786,11 @@ This includes information on:
 
 This includes information on:
 
-(a)   The availability and cost of chemical substitutes and of alternative technologies to reduce the emissions of ozone‑modifying substances and related planned and ongoing research;
+(a)   The availability and cost of chemical substitutes and of alternative technologies to reduce the emissions of ozone-modifying substances and related planned and ongoing research;
 
 (b)   The limitations and any risks involved in using chemical or other substitutes and alternative technologies.
 
-5.  <u>Socio‑economic and commercial information on the substances referred to in annex I</u>
+5.  <u>Socio-economic and commercial information on the substances referred to in annex I</u>
 
 This includes information on:
 
@@ -4816,7 +4816,7 @@ This includes information on:
 
 _Section 7_
 
-MONTREAL PROTOCOL ON SUBSTANCES THAT DEPLETE THE OZONE LAYER AS ADJUSTED AND AMENDED BY THE SECOND MEETING OF THE PARTIES LONDON, 27‑29 JUNE 1990 AND FURTHER AMENDED BY THE THIRD MEETING OF THE PARTIES NAIROBI, 19‑21 JUNE 1991 AND BY THE FOURTH MEETING OF THE PARTIES COPENHAGEN, 23‑25 NOVEMBER 1992
+MONTREAL PROTOCOL ON SUBSTANCES THAT DEPLETE THE OZONE LAYER AS ADJUSTED AND AMENDED BY THE SECOND MEETING OF THE PARTIES LONDON, 27-29 JUNE 1990 AND FURTHER AMENDED BY THE THIRD MEETING OF THE PARTIES NAIROBI, 19-21 JUNE 1991 AND BY THE FOURTH MEETING OF THE PARTIES COPENHAGEN, 23-25 NOVEMBER 1992
 
 The Parties to this Protocol,
 
@@ -4824,7 +4824,7 @@ The Parties to this Protocol,
 
 <u>Mindful</u> of their obligation under that Convention to take appropriate measures to protect human health and the environment against adverse effects resulting or likely to result from human activities which modify or are likely to modify the ozone layer,
 
-<u>Recognising</u> that world‑wide emissions of certain substances can significantly deplete and otherwise modify the ozone layer in a manner that is likely to result in adverse effects on human health and the environment,
+<u>Recognising</u> that world-wide emissions of certain substances can significantly deplete and otherwise modify the ozone layer in a manner that is likely to result in adverse effects on human health and the environment,
 
 <u>Conscious</u> of the potential climatic effects of emissions of these substances,
 
@@ -4836,7 +4836,7 @@ The Parties to this Protocol,
 
 <u>Noting</u> the precautionary measures for controlling emissions of certain chlorofluorocarbons that have already been taken at national and regional levels,
 
-<u>Considering</u> the importance of promoting international co‑operation in the research, development and transfer of alternative technologies relating to the control and reduction of emissions of substances that deplete the ozone layer, bearing in mind in particular the needs of developing countries,
+<u>Considering</u> the importance of promoting international co-operation in the research, development and transfer of alternative technologies relating to the control and reduction of emissions of substances that deplete the ozone layer, bearing in mind in particular the needs of developing countries,
 
 HAVE AGREED AS FOLLOWS:
 
@@ -4866,11 +4866,11 @@ For the purposes of this Protocol:
 
 2.  Replaced by Article 2B.
 
-3 and 4.       Replaced in Article 2A.
+3 and 4.        Replaced in Article 2A.
 
 5.  Any Party may, for one or more control periods, transfer to another Party any portion of its calculated level of production set out in Articles 2A to 2E, and Article 2H provided that the total combined calculated levels of production of the Parties concerned for any group of controlled substances do not exceed the production limits set out in those Articles for that group. Such transfer of production shall be notified to the Secretariat by each of the Parties concerned, stating the terms of such transfer and the period for which it is to apply.
 
-5 bis. Any Party not operating under paragraph 1 of Article 5 may, for one or more control periods, transfer to another such Party any portion of its calculated level of consumption set out in Article 2F, provided that the calculated level of consumption of controlled substances in Group I of Annex A of the Party transferring the portion of its calculated level of consumption did not exceed 0.25 kilograms per capita in 1989 and that the total combined calculated levels of consumption of the Parties concerned do not exceed the consumption limits set out in Article 2F. Such transfer of consumption shall be notified to the Secretariat by each of the Parties concerned, stating the terms of such transfer and the period for which it is to apply.
+5 bis.  Any Party not operating under paragraph 1 of Article 5 may, for one or more control periods, transfer to another such Party any portion of its calculated level of consumption set out in Article 2F, provided that the calculated level of consumption of controlled substances in Group I of Annex A of the Party transferring the portion of its calculated level of consumption did not exceed 0.25 kilograms per capita in 1989 and that the total combined calculated levels of consumption of the Parties concerned do not exceed the consumption limits set out in Article 2F. Such transfer of consumption shall be notified to the Secretariat by each of the Parties concerned, stating the terms of such transfer and the period for which it is to apply.
 
 6.  Any Party not operating under Article 5, that has facilities for the production of Annex A or Annex B controlled substances under construction, or contracted for, prior to 16 September 1987, and provided for in national legislation prior to 1 January 1987, may add the production from such facilities to its 1986 production of such substances for the purposes of determining its calculated level of production for 1986, provided that such facilities are completed by 31 December 1990 and that such production does not raise that Party’s annual calculated level of consumption of the controlled substances above 0.5 kilograms per capita.
 
@@ -4890,17 +4890,17 @@ For the purposes of this Protocol:
 
 (b)   Proposals for such adjustments shall be communicated to the Parties by the Secretariat at least six months before the meeting of the Parties at which they are proposed for adoption;
 
-(c)   In taking such decisions, the Parties shall make every effort to reach agreement by consensus. If all efforts at consensus have been exhausted, and no agreement reached, such decisions shall, as a last resort, be adopted by a two‑thirds majority vote of the Parties present and voting representing a majority of the Parties operating under Paragraph 1 of Article 5 present and voting and a majority of the Parties not so operating present and voting;
+(c)   In taking such decisions, the Parties shall make every effort to reach agreement by consensus. If all efforts at consensus have been exhausted, and no agreement reached, such decisions shall, as a last resort, be adopted by a two-thirds majority vote of the Parties present and voting representing a majority of the Parties operating under Paragraph 1 of Article 5 present and voting and a majority of the Parties not so operating present and voting;
 
 (d)   The decisions, which shall be binding on all Parties, shall forthwith be communicated to the Parties by the Depositary. Unless otherwise provided in the decisions, they shall enter into force on the expiry of six months from the date of the circulation of the communication by the Depositary.
 
-10.  Based on the assessments made pursuant to Article 6 of this Protocol and in accordance with the procedure set out in Article 9 of the Convention, the Parties may decide:
+10.   Based on the assessments made pursuant to Article 6 of this Protocol and in accordance with the procedure set out in Article 9 of the Convention, the Parties may decide:
 
 (i)    whether any substances, and if so which, should be added to or removed from any annex to this Protocol, and
 
 (ii)   the mechanism, scope and timing of the control measures that should apply to those substances.
 
-11.  Notwithstanding the provisions contained in this Article and Articles 2A to 2H Parties may take more stringent measures than those required by this Article and Articles 2A to 2H.
+11.   Notwithstanding the provisions contained in this Article and Articles 2A to 2H Parties may take more stringent measures than those required by this Article and Articles 2A to 2H.
 
 <u>INTRODUCTION TO THE ADJUSTMENTS</u>
 
@@ -4914,61 +4914,61 @@ The Second Meeting of the Parties to the Montreal Protocol on Substances that De
 
 <u>ARTICLE 2A: CFCs</u>
 
-1.    Each Party shall ensure that for the twelve‑month period commencing on the first day of the seventh month following the date of entry into force of this Protocol, and in each twelve‑month period thereafter, its calculated level of consumption of the controlled substances in Group I of Annex A does not exceed its calculated level of consumption in 1986\. By the end of the same period, each Party producing one or more of these substances shall ensure that its calculated level of production of the substances does not exceed its calculated level of production in 1986, except that such level may have increased by no more than ten per cent based on the 1986 level. Such increase shall be permitted only so as to satisfy the basic domestic needs of the Parties operating under Article 5 and for the purposes of industrial rationalization between Parties.
+1.    Each Party shall ensure that for the twelve-month period commencing on the first day of the seventh month following the date of entry into force of this Protocol, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substances in Group I of Annex A does not exceed its calculated level of consumption in 1986\. By the end of the same period, each Party producing one or more of these substances shall ensure that its calculated level of production of the substances does not exceed its calculated level of production in 1986, except that such level may have increased by no more than ten per cent based on the 1986 level. Such increase shall be permitted only so as to satisfy the basic domestic needs of the Parties operating under Article 5 and for the purposes of industrial rationalization between Parties.
 
-2.    Each Party shall ensure that for the period from 1 July 1991 to 31 December 1992 its calculated levels of consumption and production of the controlled substances in Group I of Annex A do not exceed 150 per cent of its calculated levels of production and consumption of those substances in 1986; with effect from 1 January 1993, the twelve‑month control period for these controlled substances shall run from 1 January to 31 December each year.
+2.    Each Party shall ensure that for the period from 1 July 1991 to 31 December 1992 its calculated levels of consumption and production of the controlled substances in Group I of Annex A do not exceed 150 per cent of its calculated levels of production and consumption of those substances in 1986; with effect from 1 January 1993, the twelve-month control period for these controlled substances shall run from 1 January to 31 December each year.
 
-3.    Each Party shall ensure that for the twelve‑month period commencing on 1 January 1994, and in each twelve‑month period thereafter, its calculated level of consumption of the controlled substances in Group I of Annex A does not exceed, annually, twenty‑five per cent of its calculated level of consumption in 1986\. Each Party producing one or more of these substances shall, for the same periods, ensure that its calculated level of production of the substances does not exceed, annually, twenty‑five per cent of its calculated level of production in 1986\. However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to ten per cent of its calculated level of production in 1986.
+3.    Each Party shall ensure that for the twelve-month period commencing on 1 January 1994, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substances in Group I of Annex A does not exceed, annually, twenty-five per cent of its calculated level of consumption in 1986\. Each Party producing one or more of these substances shall, for the same periods, ensure that its calculated level of production of the substances does not exceed, annually, twenty-five per cent of its calculated level of production in 1986\. However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to ten per cent of its calculated level of production in 1986.
 
-4.    Each Party shall ensure that for the twelve‑month period commencing on 1 January 1996, and in each twelve‑month period thereafter, its calculated level of consumption of the controlled substances in Group I of Annex A does not exceed zero. Each Party producing one or more of these substances shall, for the same periods, ensure that its calculated level of production of the substances does not exceed zero. However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to fifteen per cent of its calculated level of production in 1986\. This paragraph will apply save to the extent that the Parties decide to permit the level of production or consumption that is necessary to satisfy uses agreed by them to be essential.
+4.    Each Party shall ensure that for the twelve-month period commencing on 1 January 1996, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substances in Group I of Annex A does not exceed zero. Each Party producing one or more of these substances shall, for the same periods, ensure that its calculated level of production of the substances does not exceed zero. However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to fifteen per cent of its calculated level of production in 1986\. This paragraph will apply save to the extent that the Parties decide to permit the level of production or consumption that is necessary to satisfy uses agreed by them to be essential.
 
 <u>ARTICLE 2B: HALONS</u>
 
-1.    Each Party shall ensure that for the twelve‑month period commencing on 1 January 1992, and in each twelve‑month period thereafter, its calculated level of consumption of the controlled substances in Group II of Annex A does not exceed, annually, its calculated level of consumption in 1986\. Each Party producing one or more of these substances shall, for the same periods, ensure that its calculated level of production of the substances does not exceed, annually, its calculated level of production in 1986\. However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to ten per cent of its calculated level of production in 1986.
+1.    Each Party shall ensure that for the twelve-month period commencing on 1 January 1992, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substances in Group II of Annex A does not exceed, annually, its calculated level of consumption in 1986\. Each Party producing one or more of these substances shall, for the same periods, ensure that its calculated level of production of the substances does not exceed, annually, its calculated level of production in 1986\. However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to ten per cent of its calculated level of production in 1986.
 
-2.    Each Party shall ensure that for the twelve‑month period commencing on 1 January 1994, and in each twelve‑month period thereafter, its calculated level of consumption of the controlled substances in Group II of Annex A does not exceed zero. Each Party producing one or more of these substances shall, for the same periods, ensure that its calculated level of production of the substances does not exceed zero. However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to fifteen per cent of its calculated level of production in 1986\. This paragraph will apply save to the extent that the Parties decide to permit the level of production or consumption that is necessary to satisfy uses agreed by them to be essential.
+2.    Each Party shall ensure that for the twelve-month period commencing on 1 January 1994, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substances in Group II of Annex A does not exceed zero. Each Party producing one or more of these substances shall, for the same periods, ensure that its calculated level of production of the substances does not exceed zero. However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to fifteen per cent of its calculated level of production in 1986\. This paragraph will apply save to the extent that the Parties decide to permit the level of production or consumption that is necessary to satisfy uses agreed by them to be essential.
 
 <u>ARTICLE 2C: OTHER FULLY HALOGENATED CFCs</u>
 
-1.    Each Party shall ensure that for the twelve‑month period commencing on 1 January 1993, its calculated level of consumption of the controlled substances in Group I of Annex B does not exceed, annually, eighty per cent of its calculated level of consumption in 1989\. Each Party producing one or more of these substances shall, for the same period, ensure that its calculated level of production of the substances does not exceed, annually, eighty per cent of its calculated level of production in 1989\. However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to ten per cent of its calculated level of production in 1989.
+1.    Each Party shall ensure that for the twelve-month period commencing on 1 January 1993, its calculated level of consumption of the controlled substances in Group I of Annex B does not exceed, annually, eighty per cent of its calculated level of consumption in 1989\. Each Party producing one or more of these substances shall, for the same period, ensure that its calculated level of production of the substances does not exceed, annually, eighty per cent of its calculated level of production in 1989\. However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to ten per cent of its calculated level of production in 1989.
 
-2.    Each Party shall ensure that for the twelve‑month period commencing on 1 January 1994, and in each twelve‑month period thereafter, its calculated level of consumption of the controlled substances in Group I of Annex B does not exceed, annually, twenty‑five per cent of its calculated level of consumption in 1989\. Each Party producing one or more of these substances shall, for the same periods, ensure that its calculated level of production of the substances does not exceed, annually, twenty‑five per cent of its calculated level of production in 1989\. However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to ten per cent of its calculated level of production in 1989.
+2.    Each Party shall ensure that for the twelve-month period commencing on 1 January 1994, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substances in Group I of Annex B does not exceed, annually, twenty-five per cent of its calculated level of consumption in 1989\. Each Party producing one or more of these substances shall, for the same periods, ensure that its calculated level of production of the substances does not exceed, annually, twenty-five per cent of its calculated level of production in 1989\. However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to ten per cent of its calculated level of production in 1989.
 
-3.    Each Party shall ensure that for the twelve‑month period commencing on 1 January 1996, and in each twelve‑month period thereafter, its calculated level of consumption of the controlled substances in Group I of Annex B does not exceed zero. Each Party producing one or more of these substances shall, for the same periods, ensure that its calculated level of production of the substances does not exceed zero. However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to fifteen per cent of its calculated level of production in 1989\. This paragraph will apply save to the extent that the Parties decide to permit the level of production or consumption that is necessary to satisfy uses agreed by them to be essential.
+3.    Each Party shall ensure that for the twelve-month period commencing on 1 January 1996, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substances in Group I of Annex B does not exceed zero. Each Party producing one or more of these substances shall, for the same periods, ensure that its calculated level of production of the substances does not exceed zero. However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to fifteen per cent of its calculated level of production in 1989\. This paragraph will apply save to the extent that the Parties decide to permit the level of production or consumption that is necessary to satisfy uses agreed by them to be essential.
 
 <u>ARTICLE 2D: CARBON TETRACHLORIDE</u>
 
-1.    Each Party shall ensure that for the twelve‑month period commencing on 1 January 1995, its calculated level of consumption of the controlled substance in Group II of Annex B does not exceed, annually, fifteen per cent of its calculated level of consumption in 1989\. Each Party producing the substance shall, for the same period, ensure that its calculated level of production of the substance does not exceed, annually, fifteen per cent of its calculated level of production in 1989.
+1.    Each Party shall ensure that for the twelve-month period commencing on 1 January 1995, its calculated level of consumption of the controlled substance in Group II of Annex B does not exceed, annually, fifteen per cent of its calculated level of consumption in 1989\. Each Party producing the substance shall, for the same period, ensure that its calculated level of production of the substance does not exceed, annually, fifteen per cent of its calculated level of production in 1989.
 
 However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to ten per cent of its calculated level of production in 1989.
 
-2.    Each Party shall ensure that for the twelve‑month period commencing on 1 January 1996, and in each twelve‑month period thereafter, its calculated level of consumption of the controlled substance in Group II of Annex B does not exceed zero. Each Party producing the substance shall, for the same periods, ensure that its calculated level of production of the substance does not exceed zero. However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to fifteen per cent of its calculated level of production in 1989\. This paragraph will apply save to the extent that the Parties decide to permit the level of production or consumption that is necessary to satisfy uses agreed by them to be essential.
+2.    Each Party shall ensure that for the twelve-month period commencing on 1 January 1996, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substance in Group II of Annex B does not exceed zero. Each Party producing the substance shall, for the same periods, ensure that its calculated level of production of the substance does not exceed zero. However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to fifteen per cent of its calculated level of production in 1989\. This paragraph will apply save to the extent that the Parties decide to permit the level of production or consumption that is necessary to satisfy uses agreed by them to be essential.
 
 <u>ARTICLE 2E: 1,1,1—TRICHLOROETHANE (METHYL CHLOROFORM)</u>
 
-1.    Each Party shall ensure that for the twelve‑month period commencing on 1 January 1993, its calculated level of consumption of the controlled substance in Group III of Annex B does not exceed, annually, its calculated level of consumption in 1989\. Each Party producing the substance shall, for the same period, ensure that its calculated level of production of the substance does not exceed, annually, its calculated level of production in 1989\. However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to ten per cent of its calculated level of production in 1989.
+1.    Each Party shall ensure that for the twelve-month period commencing on 1 January 1993, its calculated level of consumption of the controlled substance in Group III of Annex B does not exceed, annually, its calculated level of consumption in 1989\. Each Party producing the substance shall, for the same period, ensure that its calculated level of production of the substance does not exceed, annually, its calculated level of production in 1989\. However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to ten per cent of its calculated level of production in 1989.
 
-2.    Each Party shall ensure that for the twelve‑month period commencing on 1 January 1994, and in each twelve‑month period thereafter, its calculated level of consumption of the controlled substance in Group III of Annex B does not exceed, annually, fifty per cent of its calculated level of consumption in 1989\. Each Party producing the substance shall, for the same periods, ensure that its calculated level of production of the substance does not exceed, annually, fifty per cent of its calculated level of production in 1989\. However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to ten per cent of its calculated level of production in 1989.
+2.    Each Party shall ensure that for the twelve-month period commencing on 1 January 1994, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substance in Group III of Annex B does not exceed, annually, fifty per cent of its calculated level of consumption in 1989\. Each Party producing the substance shall, for the same periods, ensure that its calculated level of production of the substance does not exceed, annually, fifty per cent of its calculated level of production in 1989\. However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to ten per cent of its calculated level of production in 1989.
 
-3.    Each Party shall ensure that for the twelve‑month period commencing on 1 January 1996, and in each twelve‑month period thereafter, its calculated level of consumption of the controlled substance in Group III of Annex B does not exceed zero. Each Party producing the substance shall, for the same periods, ensure that its calculated level of production of the substance does not exceed zero. However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to fifteen per cent of its calculated level of production for 1989\. This paragraph will apply save to the extent that the Parties decide to permit the level of production or consumption that is necessary to satisfy uses agreed by them to be essential.
+3.    Each Party shall ensure that for the twelve-month period commencing on 1 January 1996, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substance in Group III of Annex B does not exceed zero. Each Party producing the substance shall, for the same periods, ensure that its calculated level of production of the substance does not exceed zero. However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to fifteen per cent of its calculated level of production for 1989\. This paragraph will apply save to the extent that the Parties decide to permit the level of production or consumption that is necessary to satisfy uses agreed by them to be essential.
 
 <u>ARTICLE 2F: HYDROCHLOROFLUOROCARBONS</u>
 
-1.    Each Party shall ensure that for the twelve‑month period commencing on 1 January 1996, and in each twelve‑month period thereafter, its calculated level of consumption of the controlled substances in Group I of Annex C does not exceed, annually, the sum of:
+1.    Each Party shall ensure that for the twelve-month period commencing on 1 January 1996, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substances in Group I of Annex C does not exceed, annually, the sum of:
 
 (a)   Three point one per cent of its calculated level of consumption in 1989 of the controlled substances in Group I of Annex A; and
 
 (b)   Its calculated level of consumption in 1989 of the controlled substances in Group I of Annex C.
 
-2.    Each Party shall ensure that for the twelve‑month period commencing on 1 January 2004, and in each twelve‑month period thereafter, its calculated level of consumption of the controlled substances in Group I of Annex C does not exceed, annually, sixty‑five per cent of the sum referred to in paragraph 1 of this Article.
+2.    Each Party shall ensure that for the twelve-month period commencing on 1 January 2004, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substances in Group I of Annex C does not exceed, annually, sixty-five per cent of the sum referred to in paragraph 1 of this Article.
 
-3.    Each Party shall ensure that for the twelve‑month period commencing on 1 January 2010, and in each twelve‑month period thereafter, its calculated level of consumption of the controlled substances in Group I of Annex C does not exceed, annually, thirty‑five per cent of the sum referred to in paragraph 1 of this Article.
+3.    Each Party shall ensure that for the twelve-month period commencing on 1 January 2010, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substances in Group I of Annex C does not exceed, annually, thirty-five per cent of the sum referred to in paragraph 1 of this Article.
 
-4.    Each Party shall ensure that for the twelve‑month period commencing on 1 January 2015, and in each twelve‑month period thereafter, its calculated level of consumption of the controlled substances in Group I of Annex C does not exceed, annually, ten per cent of the sum referred to in paragraph 1 of this Article.
+4.    Each Party shall ensure that for the twelve-month period commencing on 1 January 2015, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substances in Group I of Annex C does not exceed, annually, ten per cent of the sum referred to in paragraph 1 of this Article.
 
-5.    Each Party shall ensure that for the twelve‑month period commencing on 1 January 2020, and in each twelve‑month period thereafter, its calculated level of consumption of the controlled substances in Group I of Annex C does not exceed, annually, zero point five per cent of the sum referred to in paragraph 1 of this Article.
+5.    Each Party shall ensure that for the twelve-month period commencing on 1 January 2020, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substances in Group I of Annex C does not exceed, annually, zero point five per cent of the sum referred to in paragraph 1 of this Article.
 
-6.    Each Party shall ensure that for the twelve‑month period commencing on 1 January 2030, and in each twelve‑month period thereafter, its calculated level of consumption of the controlled substances in Group I of Annex C does not exceed zero.
+6.    Each Party shall ensure that for the twelve-month period commencing on 1 January 2030, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substances in Group I of Annex C does not exceed zero.
 
 7.    As of 1 January 1996, each Party shall endeavour to ensure that:
 
@@ -4980,11 +4980,11 @@ However, in order to satisfy the basic domestic needs of the Parties operating u
 
 <u>ARTICLE 2G: HYDROBROMOFLUOROCARBONS</u>
 
-Each Party shall ensure that for the twelve‑month period commencing on 1 January 1996, and in each twelve‑month period thereafter, its calculated level of consumption of the controlled substances in Group II of Annex C does not exceed zero. Each Party producing the substances shall, for the same periods, ensure that its calculated level of production of the substances does not exceed zero. This paragraph will apply save to the extent that the Parties decide to permit the level of production or consumption that is necessary to satisfy uses agreed by them to be essential.
+Each Party shall ensure that for the twelve-month period commencing on 1 January 1996, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substances in Group II of Annex C does not exceed zero. Each Party producing the substances shall, for the same periods, ensure that its calculated level of production of the substances does not exceed zero. This paragraph will apply save to the extent that the Parties decide to permit the level of production or consumption that is necessary to satisfy uses agreed by them to be essential.
 
 <u>ARTICLE 2H: METHYL BROMIDE</u>
 
-Each Party shall ensure that for the twelve‑month period commencing on 1 January 1995, and in each twelve‑month period thereafter, its calculated level of consumption of the controlled substance in Annex E does not exceed, annually, its calculated level of consumption in 1991\. Each Party producing the substance shall, for the same periods, ensure that its calculated level of production of the substance does not exceed, annually, its calculated level of production in 1991\. However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to ten per cent of its calculated level of production in 1991\. The calculated levels of consumption and production under this Article shall not include the amounts used by the Party for quarantine and pre‑shipment applications.
+Each Party shall ensure that for the twelve-month period commencing on 1 January 1995, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substance in Annex E does not exceed, annually, its calculated level of consumption in 1991\. Each Party producing the substance shall, for the same periods, ensure that its calculated level of production of the substance does not exceed, annually, its calculated level of production in 1991\. However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to ten per cent of its calculated level of production in 1991\. The calculated levels of consumption and production under this Article shall not include the amounts used by the Party for quarantine and pre-shipment applications.
 
 <u>ARTICLE 3: CALCULATION OF CONTROL LEVELS</u>
 
@@ -4998,31 +4998,31 @@ For the purposes of Articles 2, 2A to 2H and 5, each Party shall, for each group
 
 (b)   Imports and exports, respectively, by following, mutatis mutandis, the procedure set out in subparagraph (a); and
 
-(c)   Consumption by adding together its calculated levels of production and imports and subtracting its calculated level of exports as determined in accordance with subparagraphs (a) and (b). However, beginning on 1 January 1993, any export of controlled substances to non‑Parties shall not be subtracted in calculating the consumption level of the exporting Party.
+(c)   Consumption by adding together its calculated levels of production and imports and subtracting its calculated level of exports as determined in accordance with subparagraphs (a) and (b). However, beginning on 1 January 1993, any export of controlled substances to non-Parties shall not be subtracted in calculating the consumption level of the exporting Party.
 
-<u>ARTICLE 4: CONTROL OF TRADE WITH NON‑PARTIES</u>
+<u>ARTICLE 4: CONTROL OF TRADE WITH NON-PARTIES</u>
 
 1.    As of 1 January 1990, each Party shall ban the import of the controlled substances in Annex A from any State not party to this Protocol.
 
-1 bis. Within one year of the date of the entry into force of this paragraph, each Party shall ban the import of the controlled substances in Annex B from any State not party to this Protocol.
+1 bis.  Within one year of the date of the entry into force of this paragraph, each Party shall ban the import of the controlled substances in Annex B from any State not party to this Protocol.
 
 1 ter.  Within one year of the date of entry into force of this paragraph, each Party shall ban the import of any controlled substances in Group II of Annex C from any State not party to this Protocol.
 
 2.    As of 1 January 1993, each Party shall ban the export of any controlled substances in Annex A to any State not party to this Protocol.
 
-2 bis. Commencing one year after the date of entry into force of this paragraph, each Party shall ban the export of any controlled substances in Annex B to any State not party to this Protocol.
+2 bis.  Commencing one year after the date of entry into force of this paragraph, each Party shall ban the export of any controlled substances in Annex B to any State not party to this Protocol.
 
 2 ter.  Commencing one year after the date of entry into force of this paragraph, each Party shall ban the export of any controlled substances in Group II of Annex C to any State not party to this Protocol.
 
 3.    By 1 January 1992, the Parties shall, following the procedures in Article 10 of the Convention, elaborate in an annex a list of products containing controlled substances in Annex A. Parties that have not objected to the annex in accordance with those procedures shall ban, within one year of the annex having become effective, the import of those products from any State not party to this Protocol.
 
-3 bis. Within three years of the date of the entry into force of this paragraph, the Parties shall, following the procedures in Article 10 of the Convention, elaborate in an annex a list of products containing controlled substances in Annex B. Parties that have not objected to the annex in accordance with those procedures shall ban, within one year of the annex having become effective, the import of those products from any State not party to this Protocol.
+3 bis.  Within three years of the date of the entry into force of this paragraph, the Parties shall, following the procedures in Article 10 of the Convention, elaborate in an annex a list of products containing controlled substances in Annex B. Parties that have not objected to the annex in accordance with those procedures shall ban, within one year of the annex having become effective, the import of those products from any State not party to this Protocol.
 
 3 ter.  Within three years of the date of entry into force of this paragraph, the Parties shall, following the procedures in Article 10 of the Convention, elaborate in an annex a list of products containing controlled substances in Group II of Annex C. Parties that have not objected to the annex in accordance with those procedures shall ban, within one year of the annex having become effective, the import of those products from any State not party to this Protocol.
 
 4.    By 1 January 1994, the Parties shall determine the feasibility of banning or restricting, from States not party to this Protocol, the import of products produced with, but not containing, controlled substances in Annex A. If determined feasible, the Parties shall, following the procedures in Article 10 of the Convention, elaborate in an annex a list of such products. Parties that have not objected to the annex in accordance with those procedures shall ban, within one year of the annex having become effective, the import of those products from any State not party to this Protocol.
 
-4 bis. Within five years of the date of the entry into force of this paragraph, the Parties shall determine the feasibility of banning or restricting, from States not party to this Protocol, the import of products produced with, but not containing, controlled substances in Annex B. If determined feasible, the Parties shall, following the procedures in Article 10 of the Convention, elaborate in an annex a list of such products. Parties that have not objected to the annex in accordance with those procedures shall ban or restrict, within one year of the annex having become effective, the import of those products from any State not party to this Protocol.
+4 bis.  Within five years of the date of the entry into force of this paragraph, the Parties shall determine the feasibility of banning or restricting, from States not party to this Protocol, the import of products produced with, but not containing, controlled substances in Annex B. If determined feasible, the Parties shall, following the procedures in Article 10 of the Convention, elaborate in an annex a list of such products. Parties that have not objected to the annex in accordance with those procedures shall ban or restrict, within one year of the annex having become effective, the import of those products from any State not party to this Protocol.
 
 4 ter.  Within five years of the date of entry into force of this paragraph, the Parties shall determine the feasibility of banning or restricting, from States not party to this Protocol, the import of products produced with, but not containing, controlled substances in Group II of Annex C. If determined feasible, the Parties shall, following the procedures in Article 10 of the Convention, elaborate in an annex a list of such products. Parties that have not objected to the annex in accordance with those procedures shall ban or restrict, within one year of the annex having become effective, the import of those products from any State not party to this Protocol.
 
@@ -5036,17 +5036,17 @@ For the purposes of Articles 2, 2A to 2H and 5, each Party shall, for each group
 
 9.    For the purposes of this Article, the term “State not party to this Protocol” shall include, with respect to a particular controlled substance, a State or regional economic integration organization that has not agreed to be bound by the control measures in effect for that substance.
 
-10.  By 1 January 1996, the Parties shall consider whether to amend this Protocol in order to extend the measures in this Article to trade in controlled substances in Group I of Annex C and in Annex E with States not party to the Protocol.
+10.   By 1 January 1996, the Parties shall consider whether to amend this Protocol in order to extend the measures in this Article to trade in controlled substances in Group I of Annex C and in Annex E with States not party to the Protocol.
 
 <u>ARTICLE 5: SPECIAL SITUATION OF DEVELOPING COUNTRIES</u>
 
 1.    Any Party that is a developing country and whose annual calculated level of consumption of the controlled substances in Annex A is less than 0.3 kilograms per capita on the date of the entry into force of the Protocol for it, or any time thereafter until 1 January 1999, shall, in order to meet its basic domestic needs, be entitled to delay for ten years its compliance with the control measures set out in Articles 2A to 2E, provided that any further amendments to the adjustments or Amendment adopted at the Second Meeting of the Parties in London, 29 June 1990, shall apply to the Parties operating under this paragraph after the review provided for in paragraph 8 of this Article has taken place and shall be based on the conclusions of that review.
 
-1 bis. The Parties shall, taking into account the review referred to in paragraph 8 of this Article, the assessments made pursuant to Article 6 and any other relevant information, decide by 1 January 1996, through the procedure set forth in paragraph 9 of Article 2:
+1 bis.  The Parties shall, taking into account the review referred to in paragraph 8 of this Article, the assessments made pursuant to Article 6 and any other relevant information, decide by 1 January 1996, through the procedure set forth in paragraph 9 of Article 2:
 
-(a)   With respect to paragraphs 1 to 6 of Article 2F, what base year, initial levels, control schedules and phase‑out date for consumption of the controlled substances in Group I of Annex C will apply to Parties operating under paragraph 1 of this Article;
+(a)   With respect to paragraphs 1 to 6 of Article 2F, what base year, initial levels, control schedules and phase-out date for consumption of the controlled substances in Group I of Annex C will apply to Parties operating under paragraph 1 of this Article;
 
-(b)   With respect to Article 2G, what phase‑out date for production and consumption of the controlled substances in Group II of Annex C will apply to Parties operating under paragraph 1 of this Article; and
+(b)   With respect to Article 2G, what phase-out date for production and consumption of the controlled substances in Group II of Annex C will apply to Parties operating under paragraph 1 of this Article; and
 
 (c)   With respect to Article 2H, what base year, initial levels and control schedules for consumption and production of the controlled substance in Annex E will apply to Parties operating under paragraph 1 of this Article.
 
@@ -5060,15 +5060,15 @@ For the purposes of Articles 2, 2A to 2H and 5, each Party shall, for each group
 
 4.    If a Party operating under paragraph 1 of this Article, at any time before the control measures obligations in Articles 2A to 2H become applicable to it, finds itself unable to obtain an adequate supply of controlled substances, it may notify this to the Secretariat. The Secretariat shall forthwith transmit a copy of such notification to the Parties, which shall consider the matter at their next Meeting, and decide upon appropriate action to be taken.
 
-5.    Developing the capacity to fulfil the obligations of the Parties operating under paragraph 1 of this Article to comply with the control measures set out in Articles 2A to 2E, and any control measures in Articles 2F to 2H that are decided pursuant to paragraph 1 bis of this Article, and their implementation by those same Parties will depend upon the effective implementation of the financial co‑operation as provided by Article 10 and the transfer of technology as provided by Article 10A.
+5.    Developing the capacity to fulfil the obligations of the Parties operating under paragraph 1 of this Article to comply with the control measures set out in Articles 2A to 2E, and any control measures in Articles 2F to 2H that are decided pursuant to paragraph 1 bis of this Article, and their implementation by those same Parties will depend upon the effective implementation of the financial co-operation as provided by Article 10 and the transfer of technology as provided by Article 10A.
 
 6.    Any Party operating under paragraph 1 of this Article may, at any time, notify the Secretariat in writing that, having taken all practicable steps it is unable to implement any or all of the obligations laid down in Articles 2A to 2E, or any or all obligations in Articles 2F to 2H that are decided pursuant to paragraph 1 bis of this Article, due to the inadequate implementation of Articles 10 and 10A. The Secretariat shall forthwith transmit a copy of the notification to the Parties, which shall consider the matter at their next Meeting, giving due recognition to paragraph 5 of this Article and shall decide upon appropriate action to be taken.
 
-7.    During the period between notification and the Meeting of the Parties at which the appropriate action referred to in paragraph 6 above is to be decided, or for a further period if the Meeting of the Parties so decides, the non‑compliance procedures referred to in Article 8 shall not be invoked against the notifying Party.
+7.    During the period between notification and the Meeting of the Parties at which the appropriate action referred to in paragraph 6 above is to be decided, or for a further period if the Meeting of the Parties so decides, the non-compliance procedures referred to in Article 8 shall not be invoked against the notifying Party.
 
-8.    A Meeting of the Parties shall review, not later than 1995, the situation of the Parties operating under paragraph 1 of this Article, including the effective implementation of financial co‑operation and transfer of technology to them, and adopt such revisions that may be deemed necessary regarding the schedule of control measures applicable to those Parties.
+8.    A Meeting of the Parties shall review, not later than 1995, the situation of the Parties operating under paragraph 1 of this Article, including the effective implementation of financial co-operation and transfer of technology to them, and adopt such revisions that may be deemed necessary regarding the schedule of control measures applicable to those Parties.
 
-9.    Decisions of the Parties referred to in paragraph 4, 6 and 7 of this Article shall be taken according to the same procedure applied to decision‑making under Article 10.
+9.    Decisions of the Parties referred to in paragraph 4, 6 and 7 of this Article shall be taken according to the same procedure applied to decision-making under Article 10.
 
 <u>ARTICLE 6: ASSESSMENT AND REVIEW OF CONTROL MEASURES</u>
 
@@ -5092,21 +5092,21 @@ or the best possible estimates of such data where actual data are not available,
 
 — amounts destroyed by technologies approved by the Parties, and
 
-— imports from and exports to Parties and non‑Parties respectively,
+— imports from and exports to Parties and non-Parties respectively,
 
 for the year during which provisions concerning the substances in Annexes A, B, C and E respectively entered into force for that Party and for each year thereafter. Data shall be forwarded not later than nine months after the end of the year to which the data relate.
 
-3 bis. Each Party shall provide to the Secretariat separate statistical data of its annual imports and exports of each of the controlled substances listed in Group II of Annex A and Group I of Annex C that have been recycled.
+3 bis.  Each Party shall provide to the Secretariat separate statistical data of its annual imports and exports of each of the controlled substances listed in Group II of Annex A and Group I of Annex C that have been recycled.
 
 4.    For Parties operating under the provisions of paragraph 8 (a) of Article 2, the requirements in paragraphs 1, 2, 3 and 3 bis of this Article in respect of statistical data on imports and exports shall be satisfied if the regional economic integration organization concerned provides data on imports and exports between the organization and States that are not members of that organization.
 
-<u>ARTICLE 8: NON‑COMPLIANCE</u>
+<u>ARTICLE 8: NON-COMPLIANCE</u>
 
-The Parties, at their first meeting, shall consider and approve procedures and institutional mechanisms for determining non‑compliance with the provisions of this Protocol and for treatment of Parties found to be in non‑compliance.
+The Parties, at their first meeting, shall consider and approve procedures and institutional mechanisms for determining non-compliance with the provisions of this Protocol and for treatment of Parties found to be in non-compliance.
 
 <u>ARTICLE 9: RESEARCH, DEVELOPMENT, PUBLIC AWARENESS AND EXCHANGE OF INFORMATION</u>
 
-1.    The Parties shall co‑operate, consistent with their national laws, regulations and practices and taking into account in particular the needs of developing countries, in promoting, directly or through competent international bodies, research, development and exchange of information on:
+1.    The Parties shall co-operate, consistent with their national laws, regulations and practices and taking into account in particular the needs of developing countries, in promoting, directly or through competent international bodies, research, development and exchange of information on:
 
 (a)   best technologies for improving the containment, recovery, recycling, or destruction of controlled substances or otherwise reducing their emissions;
 
@@ -5114,37 +5114,37 @@ The Parties, at their first meeting, shall consider and approve procedures and i
 
 (c)   costs and benefits of relevant control strategies.
 
-2.    The Parties, individually, jointly or through competent international bodies, shall co‑operate in promoting public awareness of the environmental effects of the emissions of controlled substances and other substances that deplete the ozone layer.
+2.    The Parties, individually, jointly or through competent international bodies, shall co-operate in promoting public awareness of the environmental effects of the emissions of controlled substances and other substances that deplete the ozone layer.
 
 3.    Within two years of the entry into force of this Protocol and every two years thereafter, each Party shall submit to the Secretariat a summary of the activities it has conducted pursuant to this Article.
 
 <u>ARTICLE 10: FINANCIAL MECHANISM</u>
 
-1.    The Parties shall establish a mechanism for the purposes of providing financial and technical co‑operation, including the transfer of technologies, to Parties operating under paragraph 1 of Article 5 of this Protocol to enable their compliance with the control measures set out in Articles 2A to 2E, and any control measures in Articles 2F to 2H that are decided pursuant to paragraph 1 bis of Article 5 of the Protocol. The mechanism, contributions to which shall be additional to other financial transfers to Parties operating under that paragraph, shall meet all agreed incremental costs of such Parties in order to enable their compliance with the control measures of the Protocol. An indicative list of the categories of incremental costs shall be decided by the meeting of the Parties.
+1.    The Parties shall establish a mechanism for the purposes of providing financial and technical co-operation, including the transfer of technologies, to Parties operating under paragraph 1 of Article 5 of this Protocol to enable their compliance with the control measures set out in Articles 2A to 2E, and any control measures in Articles 2F to 2H that are decided pursuant to paragraph 1 bis of Article 5 of the Protocol. The mechanism, contributions to which shall be additional to other financial transfers to Parties operating under that paragraph, shall meet all agreed incremental costs of such Parties in order to enable their compliance with the control measures of the Protocol. An indicative list of the categories of incremental costs shall be decided by the meeting of the Parties.
 
-2.    The mechanism established under paragraph 1 shall include a Multilateral Fund. It may also include other means of multilateral, regional and bilateral co‑operation.
+2.    The mechanism established under paragraph 1 shall include a Multilateral Fund. It may also include other means of multilateral, regional and bilateral co-operation.
 
 3.    The Multilateral Fund shall:
 
 (a)   Meet, on a grant or concessional basis as appropriate, and according to criteria to be decided upon by the Parties, the agreed incremental costs;
 
-(b)   Finance clearing‑house functions to:
+(b)   Finance clearing-house functions to:
 
-(i)    Assist Parties operating under paragraph 1 of Article 5, through country specific studies and other technical co‑operation, to identify their needs for co‑operation;
+(i)    Assist Parties operating under paragraph 1 of Article 5, through country specific studies and other technical co-operation, to identify their needs for co-operation;
 
-(ii)   Facilitate technical co‑operation to meet these identified needs;
+(ii)   Facilitate technical co-operation to meet these identified needs;
 
 (iii)  Distribute, as provided for in Article 9, information and relevant materials, and hold workshops, training sessions, and other related activities, for the benefit of Parties that are developing countries; and
 
-(iv)  Facilitate and monitor other multilateral, regional and bilateral co‑operation available to Parties that are developing countries;
+(iv)  Facilitate and monitor other multilateral, regional and bilateral co-operation available to Parties that are developing countries;
 
 (c)   Finance the secretarial services of the Multilateral Fund and related support costs.
 
 4.    The Multilateral Fund shall operate under the authority of the Parties who shall decide on its overall policies.
 
-5.    The Parties shall establish an Executive Committee to develop and monitor the implementation of specific operational policies, guidelines and administrative arrangements, including the disbursement of resources, for the purpose of achieving the objectives of the Multilateral Fund. The Executive Committee shall discharge its tasks and responsibilities, specified in its terms of reference as agreed by the Parties, with the co‑operation and assistance of the International Bank for Reconstruction and Development (World Bank), the United Nations Environment Programme, the United Nations Development Programme or other appropriate agencies depending on their respective areas of expertise. The members of the Executive Committee, which shall be selected on the basis of a balanced representation of the Parties operating under paragraph 1 of Article 5 and of the Parties not so operating, shall be endorsed by the Parties.
+5.    The Parties shall establish an Executive Committee to develop and monitor the implementation of specific operational policies, guidelines and administrative arrangements, including the disbursement of resources, for the purpose of achieving the objectives of the Multilateral Fund. The Executive Committee shall discharge its tasks and responsibilities, specified in its terms of reference as agreed by the Parties, with the co-operation and assistance of the International Bank for Reconstruction and Development (World Bank), the United Nations Environment Programme, the United Nations Development Programme or other appropriate agencies depending on their respective areas of expertise. The members of the Executive Committee, which shall be selected on the basis of a balanced representation of the Parties operating under paragraph 1 of Article 5 and of the Parties not so operating, shall be endorsed by the Parties.
 
-6.    The Multilateral Fund shall be financed by contributions from Parties not operating under paragraph 1 of Article 5 in convertible currency or, in certain circumstances, in kind and/or in national currency, on the basis of the United Nations scale of assessments. Contributions by other Parties shall be encouraged. Bilateral and, in particular cases agreed by a decision of the Parties, regional co‑operation may, up to a percentage and consistent with any criteria to be specified by decision of the Parties, be considered as a contribution to the Multilateral Fund, provided that such co‑operation, as a minimum:
+6.    The Multilateral Fund shall be financed by contributions from Parties not operating under paragraph 1 of Article 5 in convertible currency or, in certain circumstances, in kind and/or in national currency, on the basis of the United Nations scale of assessments. Contributions by other Parties shall be encouraged. Bilateral and, in particular cases agreed by a decision of the Parties, regional co-operation may, up to a percentage and consistent with any criteria to be specified by decision of the Parties, be considered as a contribution to the Multilateral Fund, provided that such co-operation, as a minimum:
 
 (a)   Strictly relates to compliance with the provisions of this Protocol;
 
@@ -5156,9 +5156,9 @@ The Parties, at their first meeting, shall consider and approve procedures and i
 
 8.    Resources under the Multilateral Fund shall be disbursed with the concurrence of the beneficiary Party.
 
-9.    Decisions by the Parties under this Article shall be taken by consensus whenever possible. If all efforts at consensus have been exhausted and no agreement reached, decisions shall be adopted by a two‑thirds majority vote of the Parties present and voting, representing a majority of the Parties operating under paragraph 1 of Article 5 present and voting and a majority of the Parties not so operating present and voting.
+9.    Decisions by the Parties under this Article shall be taken by consensus whenever possible. If all efforts at consensus have been exhausted and no agreement reached, decisions shall be adopted by a two-thirds majority vote of the Parties present and voting, representing a majority of the Parties operating under paragraph 1 of Article 5 present and voting and a majority of the Parties not so operating present and voting.
 
-10.  The financial mechanism set out in this Article is without prejudice to any future arrangements that may be developed with respect to other environmental issues.
+10.   The financial mechanism set out in this Article is without prejudice to any future arrangements that may be developed with respect to other environmental issues.
 
 <u>ARTICLE 10A: TRANSFER OF TECHNOLOGY</u>
 
@@ -5206,7 +5206,7 @@ Each Party shall take every practicable step, consistent with the programmes sup
 
 (j)    consider and undertake any additional action that may be required for the achievement of the purposes of this Protocol.
 
-5.    The United Nations, its specialized agencies and the International Atomic Energy Agency, as well as any State not party to this Protocol, may be represented at meetings of the Parties as observers. Any body or agency, whether national or international, governmental or non‑governmental, qualified in fields relating to the protection of the ozone layer which has informed the secretariat of its wish to be represented at a meeting of the Parties as an observer may be admitted unless at least one third of the Parties present object. The admission and participation of observers shall be subject to the rules of procedure adopted by the Parties.
+5.    The United Nations, its specialized agencies and the International Atomic Energy Agency, as well as any State not party to this Protocol, may be represented at meetings of the Parties as observers. Any body or agency, whether national or international, governmental or non-governmental, qualified in fields relating to the protection of the ozone layer which has informed the secretariat of its wish to be represented at a meeting of the Parties as an observer may be admitted unless at least one third of the Parties present object. The admission and participation of observers shall be subject to the rules of procedure adopted by the Parties.
 
 <u>ARTICLE 12: SECRETARIAT</u>
 
@@ -5220,9 +5220,9 @@ For the purposes of this Protocol, the Secretariat shall:
 
 (d)   notify the Parties of any request for technical assistance received pursuant to Article 10 so as to facilitate the provision of such assistance;
 
-(e)   encourage non‑Parties to attend the meetings of the Parties as observers and to act in accordance with the provisions of this Protocol;
+(e)   encourage non-Parties to attend the meetings of the Parties as observers and to act in accordance with the provisions of this Protocol;
 
-(f)   provide, as appropriate, the information and requests referred to in subparagraphs (c) and (d) to such non‑party observers; and
+(f)   provide, as appropriate, the information and requests referred to in subparagraphs (c) and (d) to such non-party observers; and
 
 (g)   perform such other functions for the achievement of the purposes of this Protocol as may be assigned to it by the Parties.
 
@@ -5242,7 +5242,7 @@ This Protocol shall be open for signature by States and by regional economic int
 
 <u>ARTICLE 16: ENTRY INTO FORCE</u>
 
-1.    This Protocol shall enter into force on 1 January 1989, provided that at least eleven instruments of ratification, acceptance, approval of the Protocol or accession thereto have been deposited by States or regional economic integration organizations representing at least two‑thirds of 1986 estimated global consumption of the controlled substances, and the provisions of paragraph 1 of Article 17 of the Convention have been fulfilled. In the event that these conditions have not been fulfilled by that date, the Protocol shall enter into force on the ninetieth day following the date on which the conditions have been fulfilled.
+1.    This Protocol shall enter into force on 1 January 1989, provided that at least eleven instruments of ratification, acceptance, approval of the Protocol or accession thereto have been deposited by States or regional economic integration organizations representing at least two-thirds of 1986 estimated global consumption of the controlled substances, and the provisions of paragraph 1 of Article 17 of the Convention have been fulfilled. In the event that these conditions have not been fulfilled by that date, the Protocol shall enter into force on the ninetieth day following the date on which the conditions have been fulfilled.
 
 2.    For the purposes of paragraph 1, any such instrument deposited by a regional economic integration organization shall not be counted as additional to those deposited by member States of such organization.
 
@@ -5262,7 +5262,7 @@ Any Party may withdraw from this Protocol by giving written notification to the 
 
 <u>ARTICLE 20: AUTHENTIC TEXTS</u>
 
-The original of this Protocol, of which the Arabic, Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited with the Secretary‑General of the United Nations.
+The original of this Protocol, of which the Arabic, Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited with the Secretary-General of the United Nations.
 
 IN WITNESS WHEREOF THE UNDERSIGNED, BEING DULY AUTHORIZED TO THAT EFFECT, HAVE SIGNED THIS PROTOCOL.
 
@@ -5309,7 +5309,7 @@ CONTROLLED SUBSTANCES
     </div>
   </td>
   <td>
-    <div>(CFC‑11)</div>
+    <div>(CFC-11)</div>
   </td>
   <td>
     <div>1.0</div>
@@ -5323,7 +5323,7 @@ CONTROLLED SUBSTANCES
     </div>
   </td>
   <td>
-    <div>(CFC‑12)</div>
+    <div>(CFC-12)</div>
   </td>
   <td>
     <div>1.0</div>
@@ -5338,7 +5338,7 @@ CONTROLLED SUBSTANCES
     </div>
   </td>
   <td>
-    <div>(CFC‑113)</div>
+    <div>(CFC-113)</div>
   </td>
   <td>
     <div>0.8</div>
@@ -5353,7 +5353,7 @@ CONTROLLED SUBSTANCES
     </div>
   </td>
   <td>
-    <div>(CFC‑114)</div>
+    <div>(CFC-114)</div>
   </td>
   <td>
     <div>1.0</div>
@@ -5366,7 +5366,7 @@ CONTROLLED SUBSTANCES
       5Cl</div>
   </td>
   <td>
-    <div>(CFC‑115)</div>
+    <div>(CFC-115)</div>
   </td>
   <td>
     <div>0.6</div>
@@ -5389,7 +5389,7 @@ CONTROLLED SUBSTANCES
       2BrCl</div>
   </td>
   <td>
-    <div>(halon‑1211)</div>
+    <div>(halon-1211)</div>
   </td>
   <td>
     <div>3.0</div>
@@ -5401,7 +5401,7 @@ CONTROLLED SUBSTANCES
       3Br</div>
   </td>
   <td>
-    <div>(halon‑1301)</div>
+    <div>(halon-1301)</div>
   </td>
   <td>
     <div>10.0</div>
@@ -5416,7 +5416,7 @@ CONTROLLED SUBSTANCES
     </div>
   </td>
   <td>
-    <div>(halon‑2402)</div>
+    <div>(halon-2402)</div>
   </td>
   <td>
     <div>6.0</div>
@@ -5445,7 +5445,7 @@ CONTROLLED SUBSTANCES
       <div>Substance</div>
     </td>
     <td>
-      <div>Ozone‑depleting potential</div>
+      <div>Ozone-depleting potential</div>
     </td>
   </tr>
 </thead>
@@ -5466,7 +5466,7 @@ CONTROLLED SUBSTANCES
       3Cl</div>
   </td>
   <td>
-    <div>(CFC‑13)</div>
+    <div>(CFC-13)</div>
   </td>
   <td>
     <div>1.0</div>
@@ -5480,7 +5480,7 @@ CONTROLLED SUBSTANCES
     </div>
   </td>
   <td>
-    <div>(CFC‑111)</div>
+    <div>(CFC-111)</div>
   </td>
   <td>
     <div>1.0</div>
@@ -5495,7 +5495,7 @@ CONTROLLED SUBSTANCES
     </div>
   </td>
   <td>
-    <div>(CFC‑112)</div>
+    <div>(CFC-112)</div>
   </td>
   <td>
     <div>1.0</div>
@@ -5509,7 +5509,7 @@ CONTROLLED SUBSTANCES
     </div>
   </td>
   <td>
-    <div>(CFC‑211)</div>
+    <div>(CFC-211)</div>
   </td>
   <td>
     <div>1.0</div>
@@ -5524,7 +5524,7 @@ CONTROLLED SUBSTANCES
     </div>
   </td>
   <td>
-    <div>(CFC‑212)</div>
+    <div>(CFC-212)</div>
   </td>
   <td>
     <div>1.0</div>
@@ -5539,7 +5539,7 @@ CONTROLLED SUBSTANCES
     </div>
   </td>
   <td>
-    <div>(CFC‑213)</div>
+    <div>(CFC-213)</div>
   </td>
   <td>
     <div>1.0</div>
@@ -5554,7 +5554,7 @@ CONTROLLED SUBSTANCES
     </div>
   </td>
   <td>
-    <div>(CFC‑214)</div>
+    <div>(CFC-214)</div>
   </td>
   <td>
     <div>1.0</div>
@@ -5569,7 +5569,7 @@ CONTROLLED SUBSTANCES
     </div>
   </td>
   <td>
-    <div>(CFC‑215)</div>
+    <div>(CFC-215)</div>
   </td>
   <td>
     <div>1.0</div>
@@ -5584,7 +5584,7 @@ CONTROLLED SUBSTANCES
     </div>
   </td>
   <td>
-    <div>(CFC‑216)</div>
+    <div>(CFC-216)</div>
   </td>
   <td>
     <div>1.0</div>
@@ -5597,7 +5597,7 @@ CONTROLLED SUBSTANCES
       7Cl</div>
   </td>
   <td>
-    <div>(CFC‑217)</div>
+    <div>(CFC-217)</div>
   </td>
   <td>
     <div>1.0</div>
@@ -5648,14 +5648,14 @@ CONTROLLED SUBSTANCES
        </div>
   </td>
   <td>
-    <div>1,1,1‑trichloroethane (methyl chloroform)</div>
+    <div>1,1,1-trichloroethane (methyl chloroform)</div>
   </td>
   <td>
     <div>0.1</div>
   </td>
 </tr></table>
 
-*    This formula does not refer to 1,1,2‑trichloroethane.
+*    This formula does not refer to 1,1,2-trichloroethane.
 
 <u>Annex C</u>
 
@@ -5708,7 +5708,7 @@ CONTROLLED SUBSTANCES
     </div>
   </td>
   <td>
-    <div>(HCFC‑21)
+    <div>(HCFC-21)
       ** </div>
   </td>
   <td>
@@ -5724,7 +5724,7 @@ CONTROLLED SUBSTANCES
       2Cl</div>
   </td>
   <td>
-    <div>(HCFC‑22)
+    <div>(HCFC-22)
       ** </div>
   </td>
   <td>
@@ -5740,7 +5740,7 @@ CONTROLLED SUBSTANCES
       2FCl</div>
   </td>
   <td>
-    <div>(HCFC‑31)</div>
+    <div>(HCFC-31)</div>
   </td>
   <td>
     <div>1</div>
@@ -5757,7 +5757,7 @@ CONTROLLED SUBSTANCES
     </div>
   </td>
   <td>
-    <div>(HCFC‑121)</div>
+    <div>(HCFC-121)</div>
   </td>
   <td>
     <div>2</div>
@@ -5775,7 +5775,7 @@ CONTROLLED SUBSTANCES
     </div>
   </td>
   <td>
-    <div>(HCFC‑122)</div>
+    <div>(HCFC-122)</div>
   </td>
   <td>
     <div>3</div>
@@ -5793,7 +5793,7 @@ CONTROLLED SUBSTANCES
     </div>
   </td>
   <td>
-    <div>(HCFC‑123)</div>
+    <div>(HCFC-123)</div>
   </td>
   <td>
     <div>3</div>
@@ -5810,7 +5810,7 @@ CONTROLLED SUBSTANCES
     </div>
   </td>
   <td>
-    <div>(HCFC‑123)
+    <div>(HCFC-123)
       ** </div>
   </td>
   <td>
@@ -5827,7 +5827,7 @@ CONTROLLED SUBSTANCES
       4Cl</div>
   </td>
   <td>
-    <div>(HCFC‑124)</div>
+    <div>(HCFC-124)</div>
   </td>
   <td>
     <div>2</div>
@@ -5843,7 +5843,7 @@ CONTROLLED SUBSTANCES
     </div>
   </td>
   <td>
-    <div>(HCFC‑124)
+    <div>(HCFC-124)
       ** </div>
   </td>
   <td>
@@ -5862,7 +5862,7 @@ CONTROLLED SUBSTANCES
     </div>
   </td>
   <td>
-    <div>(HCFC‑131)</div>
+    <div>(HCFC-131)</div>
   </td>
   <td>
     <div>3</div>
@@ -5881,7 +5881,7 @@ CONTROLLED SUBSTANCES
     </div>
   </td>
   <td>
-    <div>(HCFC‑132)</div>
+    <div>(HCFC-132)</div>
   </td>
   <td>
     <div>4</div>
@@ -5898,7 +5898,7 @@ CONTROLLED SUBSTANCES
       3Cl</div>
   </td>
   <td>
-    <div>(HCFC‑133)</div>
+    <div>(HCFC-133)</div>
   </td>
   <td>
     <div>3</div>
@@ -5916,7 +5916,7 @@ CONTROLLED SUBSTANCES
     </div>
   </td>
   <td>
-    <div>(HCFC‑141)</div>
+    <div>(HCFC-141)</div>
   </td>
   <td>
     <div>3</div>
@@ -5933,7 +5933,7 @@ CONTROLLED SUBSTANCES
     </div>
   </td>
   <td>
-    <div>(HCFC‑141b)
+    <div>(HCFC-141b)
       ** </div>
   </td>
   <td>
@@ -5951,7 +5951,7 @@ CONTROLLED SUBSTANCES
       2Cl</div>
   </td>
   <td>
-    <div>(HCFC‑142)</div>
+    <div>(HCFC-142)</div>
   </td>
   <td>
     <div>3</div>
@@ -5967,7 +5967,7 @@ CONTROLLED SUBSTANCES
       2Cl</div>
   </td>
   <td>
-    <div>(HCFC‑142b)
+    <div>(HCFC-142b)
       ** </div>
   </td>
   <td>
@@ -5984,7 +5984,7 @@ CONTROLLED SUBSTANCES
       4FCl</div>
   </td>
   <td>
-    <div>(HCFC‑151)</div>
+    <div>(HCFC-151)</div>
   </td>
   <td>
     <div>2</div>
@@ -6001,7 +6001,7 @@ CONTROLLED SUBSTANCES
     </div>
   </td>
   <td>
-    <div>(HCFC‑221)</div>
+    <div>(HCFC-221)</div>
   </td>
   <td>
     <div>5</div>
@@ -6019,7 +6019,7 @@ CONTROLLED SUBSTANCES
     </div>
   </td>
   <td>
-    <div>(HCFC‑222)</div>
+    <div>(HCFC-222)</div>
   </td>
   <td>
     <div>9</div>
@@ -6037,7 +6037,7 @@ CONTROLLED SUBSTANCES
     </div>
   </td>
   <td>
-    <div>(HCFC‑223)</div>
+    <div>(HCFC-223)</div>
   </td>
   <td>
     <div>12</div>
@@ -6055,7 +6055,7 @@ CONTROLLED SUBSTANCES
     </div>
   </td>
   <td>
-    <div>(HCFC‑224)</div>
+    <div>(HCFC-224)</div>
   </td>
   <td>
     <div>12</div>
@@ -6073,7 +6073,7 @@ CONTROLLED SUBSTANCES
     </div>
   </td>
   <td>
-    <div>(HCFC‑225)</div>
+    <div>(HCFC-225)</div>
   </td>
   <td>
     <div>9</div>
@@ -6091,7 +6091,7 @@ CONTROLLED SUBSTANCES
     </div>
   </td>
   <td>
-    <div>(HCFC‑225ca)
+    <div>(HCFC-225ca)
       **
     </div>
   </td>
@@ -6109,7 +6109,7 @@ CONTROLLED SUBSTANCES
       2CHClF</div>
   </td>
   <td>
-    <div>(HCFC‑225cb)
+    <div>(HCFC-225cb)
       **
     </div>
   </td>
@@ -6127,7 +6127,7 @@ CONTROLLED SUBSTANCES
       6Cl</div>
   </td>
   <td>
-    <div>(HCFC‑226)</div>
+    <div>(HCFC-226)</div>
   </td>
   <td>
     <div>5</div>
@@ -6145,7 +6145,7 @@ CONTROLLED SUBSTANCES
     </div>
   </td>
   <td>
-    <div>(HCFC‑231)</div>
+    <div>(HCFC-231)</div>
   </td>
   <td>
     <div>9</div>
@@ -6164,7 +6164,7 @@ CONTROLLED SUBSTANCES
     </div>
   </td>
   <td>
-    <div>(HCFC‑232)</div>
+    <div>(HCFC-232)</div>
   </td>
   <td>
     <div>16</div>
@@ -6183,7 +6183,7 @@ CONTROLLED SUBSTANCES
     </div>
   </td>
   <td>
-    <div>(HCFC‑233)</div>
+    <div>(HCFC-233)</div>
   </td>
   <td>
     <div>18</div>
@@ -6202,7 +6202,7 @@ CONTROLLED SUBSTANCES
     </div>
   </td>
   <td>
-    <div>(HCFC‑234)</div>
+    <div>(HCFC-234)</div>
   </td>
   <td>
     <div>16</div>
@@ -6219,7 +6219,7 @@ CONTROLLED SUBSTANCES
       5Cl</div>
   </td>
   <td>
-    <div>(HCFC‑235)</div>
+    <div>(HCFC-235)</div>
   </td>
   <td>
     <div>9</div>
@@ -6237,7 +6237,7 @@ CONTROLLED SUBSTANCES
     </div>
   </td>
   <td>
-    <div>(HCFC‑241)</div>
+    <div>(HCFC-241)</div>
   </td>
   <td>
     <div>12</div>
@@ -6256,7 +6256,7 @@ CONTROLLED SUBSTANCES
     </div>
   </td>
   <td>
-    <div>(HCFC‑242)</div>
+    <div>(HCFC-242)</div>
   </td>
   <td>
     <div>18</div>
@@ -6275,7 +6275,7 @@ CONTROLLED SUBSTANCES
     </div>
   </td>
   <td>
-    <div>(HCFC‑243)</div>
+    <div>(HCFC-243)</div>
   </td>
   <td>
     <div>18</div>
@@ -6292,7 +6292,7 @@ CONTROLLED SUBSTANCES
       4Cl</div>
   </td>
   <td>
-    <div>(HCFC‑244)</div>
+    <div>(HCFC-244)</div>
   </td>
   <td>
     <div>12</div>
@@ -6310,7 +6310,7 @@ CONTROLLED SUBSTANCES
     </div>
   </td>
   <td>
-    <div>(HCFC‑251)</div>
+    <div>(HCFC-251)</div>
   </td>
   <td>
     <div>12</div>
@@ -6329,7 +6329,7 @@ CONTROLLED SUBSTANCES
     </div>
   </td>
   <td>
-    <div>(HCFC‑252)</div>
+    <div>(HCFC-252)</div>
   </td>
   <td>
     <div>16</div>
@@ -6346,7 +6346,7 @@ CONTROLLED SUBSTANCES
       3Cl</div>
   </td>
   <td>
-    <div>(HCFC‑253)</div>
+    <div>(HCFC-253)</div>
   </td>
   <td>
     <div>12</div>
@@ -6364,7 +6364,7 @@ CONTROLLED SUBSTANCES
     </div>
   </td>
   <td>
-    <div>(HCFC‑261)</div>
+    <div>(HCFC-261)</div>
   </td>
   <td>
     <div>9</div>
@@ -6381,7 +6381,7 @@ CONTROLLED SUBSTANCES
       2Cl</div>
   </td>
   <td>
-    <div>(HCFC‑262)</div>
+    <div>(HCFC-262)</div>
   </td>
   <td>
     <div>9</div>
@@ -6397,7 +6397,7 @@ CONTROLLED SUBSTANCES
       6FCl</div>
   </td>
   <td>
-    <div>(HCFC‑271)</div>
+    <div>(HCFC-271)</div>
   </td>
   <td>
     <div>5</div>
@@ -6442,7 +6442,7 @@ CONTROLLED SUBSTANCES
       2Br</div>
   </td>
   <td>
-    <div>(HBFC‑22B1)</div>
+    <div>(HBFC-22B1)</div>
   </td>
   <td>
     <div>1</div>
@@ -7173,7 +7173,7 @@ A LIST OF PRODUCTS** CONTAINING CONTROLLED
     <div>6.</div>
   </td>
   <td>
-    <div>Pre‑polymers</div>
+    <div>Pre-polymers</div>
   </td>
   <td>
     <div>.........................</div>
@@ -7182,7 +7182,7 @@ A LIST OF PRODUCTS** CONTAINING CONTROLLED
 
 *       This Annex was adopted by the Third Meeting of the Parties in Nairobi, 21 June 1991 as required by paragraph 3 of Article 4 of the Protocol.
 
-**    Though not when transported in consignments of personal or household effects or in similar non‑commercial situations normally exempted from customs attention.
+**    Though not when transported in consignments of personal or household effects or in similar non-commercial situations normally exempted from customs attention.
 
 ***   When containing controlled substances in Annex A as a refrigerant and/or in insulating material of the product.
 
@@ -7281,25 +7281,25 @@ Article 2H of the Protocol shall read as follows:
 
 Article 2H:  Methyl bromide
 
-1.            Each Party shall ensure that for the twelve‑month period commencing on 1 January 1995, and in each twelve‑month period thereafter, its calculated level of consumption of the controlled substance in Annex E does not exceed, annually, its calculated level of consumption in 1991.  Each Party producing the substance shall, for the same periods, ensure that its calculated level of production of the substance does not exceed, annually, its calculated level of production in 1991.  However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to ten per cent of its calculated level of production in 1991.
+1.            Each Party shall ensure that for the twelve-month period commencing on 1 January 1995, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substance in Annex E does not exceed, annually, its calculated level of consumption in 1991.  Each Party producing the substance shall, for the same periods, ensure that its calculated level of production of the substance does not exceed, annually, its calculated level of production in 1991.  However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to ten per cent of its calculated level of production in 1991.
 
-2.            Each Party shall ensure that for the twelve‑month period commencing on 1 January 2001, and in each twelve‑month period thereafter, its calculated level of consumption of the controlled substance in Annex E does not exceed, annually, seventy‑five per cent of its calculated level of consumption in 1991.  Each Party producing the substance shall, for the same periods, ensure that its calculated level of production of the substance does not exceed, annually, seventy‑five per cent of its calculated level of production in 1991.  However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to ten per cent of its calculated level of production in 1991.
+2.            Each Party shall ensure that for the twelve-month period commencing on 1 January 2001, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substance in Annex E does not exceed, annually, seventy-five per cent of its calculated level of consumption in 1991.  Each Party producing the substance shall, for the same periods, ensure that its calculated level of production of the substance does not exceed, annually, seventy-five per cent of its calculated level of production in 1991.  However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to ten per cent of its calculated level of production in 1991.
 
-3.            Each Party shall ensure that for the twelve‑month period commencing on 1 January 2005, and in each twelve‑month period thereafter, its calculated level of consumption of the controlled substance in Annex E does not exceed, annually, fifty per cent of its calculated level of consumption in 1991.  Each Party producing the substance shall, for the same periods, ensure that its calculated level of production of the substance does not exceed, annually, fifty per cent of its calculated level of production in 1991.  However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to ten per cent of its calculated level of production in 1991.
+3.            Each Party shall ensure that for the twelve-month period commencing on 1 January 2005, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substance in Annex E does not exceed, annually, fifty per cent of its calculated level of consumption in 1991.  Each Party producing the substance shall, for the same periods, ensure that its calculated level of production of the substance does not exceed, annually, fifty per cent of its calculated level of production in 1991.  However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to ten per cent of its calculated level of production in 1991.
 
-4.            Each Party shall ensure that for the twelve‑month period commencing on 1 January 2010, and in each twelve‑month period thereafter, its calculated level of consumption of the controlled substance in Annex E does not exceed zero.  Each Party producing the substance shall, for the same periods, ensure that its calculated level of production of the substance does not exceed zero.  However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to fifteen per cent of its calculated level of production in 1991.  This paragraph will apply save to the extent that the Parties decide to permit the level of production or consumption that is necessary to satisfy uses agreed by them to be critical agricultural uses.
+4.            Each Party shall ensure that for the twelve-month period commencing on 1 January 2010, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substance in Annex E does not exceed zero.  Each Party producing the substance shall, for the same periods, ensure that its calculated level of production of the substance does not exceed zero.  However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to fifteen per cent of its calculated level of production in 1991.  This paragraph will apply save to the extent that the Parties decide to permit the level of production or consumption that is necessary to satisfy uses agreed by them to be critical agricultural uses.
 
-5.            The calculated levels of consumption and production under this Article shall not include the amounts used by the Party for quarantine and pre‑shipment applications.
+5.            The calculated levels of consumption and production under this Article shall not include the amounts used by the Party for quarantine and pre-shipment applications.
 
 Article 5, paragraph 8 _ter_:  Special situation of developing countries
 
 The following paragraph 8 _ter_ shall be inserted after paragraph 8 _bis_ of Article 5 of the Protocol:
 
-8 _ter_.       Pursuant to paragraph 1 _bis_ above:
+8 _ter_.        Pursuant to paragraph 1 _bis_ above:
 
-(a)     Each Party operating under paragraph 1 of this Article shall ensure that for the twelve‑month period commencing on 1 January 2016, and in each twelve‑month period thereafter, its calculated level of consumption of the controlled substances in Group I of Annex C does not exceed, annually, its calculated level of consumption in 2015;
+(a)     Each Party operating under paragraph 1 of this Article shall ensure that for the twelve-month period commencing on 1 January 2016, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substances in Group I of Annex C does not exceed, annually, its calculated level of consumption in 2015;
 
-(b)     Each Party operating under paragraph 1 of this Article shall ensure that for the twelve‑month period commencing on 1 January 2040, and in each twelve‑month period thereafter, its calculated level of consumption of the controlled substances in Group I of Annex C does not exceed zero;
+(b)     Each Party operating under paragraph 1 of this Article shall ensure that for the twelve-month period commencing on 1 January 2040, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substances in Group I of Annex C does not exceed zero;
 
 (c)     Each Party operating under paragraph 1 of this Article shall comply with Article 2G:
 
@@ -7307,7 +7307,7 @@ The following paragraph 8 _ter_ shall be inserted after paragraph 8 _bis_ of Art
 
 (i)      As of 1 January 2002 each Party operating under paragraph 1 of this Article shall comply with the control measures set out in paragraph 1 of Article 2H and, as the basis for its compliance with these control measures, it shall use the average of its annual calculated level of consumption and production, respectively, for the period of 1995 to 1998 inclusive;
 
-(ii)     The calculated levels of consumption and production under this subparagraph shall not include the amounts used by the Party for quarantine and pre‑shipment applications.
+(ii)     The calculated levels of consumption and production under this subparagraph shall not include the amounts used by the Party for quarantine and pre-shipment applications.
 
 Annex E:  Methyl bromide
 
@@ -7367,17 +7367,17 @@ ANNEX III
 
 ADJUSTMENTS AGREED AT THE NINTH MEETING OF THE PARTIES RELATING TO THE CONTROLLED SUBSTANCE IN ANNEX E
 
-A.  Article 2H: Methyl bromide
+A.  Article 2H: Methyl bromide
 
 1.         Paragraphs 2 to 4 of Article 2H of the Protocol shall be replaced by the following paragraphs:
 
-2.         Each Party shall ensure that for the twelve‑month period commencing on 1 January 1999, and in the twelve‑month period thereafter, its calculated level of consumption of the controlled substance in Annex E does not exceed, annually, seventy‑five percent of its calculated level of consumption in 1991.  Each Party producing the substance shall, for the same periods, ensure that its calculated level of production of the substance does not exceed, annually, seventy‑five percent of its calculated level of production in 1991.  However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to ten percent of its calculated level of production in 1991.
+2.         Each Party shall ensure that for the twelve-month period commencing on 1 January 1999, and in the twelve-month period thereafter, its calculated level of consumption of the controlled substance in Annex E does not exceed, annually, seventy-five percent of its calculated level of consumption in 1991.  Each Party producing the substance shall, for the same periods, ensure that its calculated level of production of the substance does not exceed, annually, seventy-five percent of its calculated level of production in 1991.  However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to ten percent of its calculated level of production in 1991.
 
-3.         Each Party shall ensure that for the twelve‑month period commencing on 1 January 2001, and in the twelve‑month period thereafter, its calculated level of consumption of the controlled substance in Annex E does not exceed, annually, fifty percent of its calculated level of consumption in 1991.  Each Party producing the substance shall, for the same periods, ensure that its calculated level of production of the substance does not exceed, annually, fifty percent of its calculated level of production in 1991.  However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to ten percent of its calculated level of production in 1991.
+3.         Each Party shall ensure that for the twelve-month period commencing on 1 January 2001, and in the twelve-month period thereafter, its calculated level of consumption of the controlled substance in Annex E does not exceed, annually, fifty percent of its calculated level of consumption in 1991.  Each Party producing the substance shall, for the same periods, ensure that its calculated level of production of the substance does not exceed, annually, fifty percent of its calculated level of production in 1991.  However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to ten percent of its calculated level of production in 1991.
 
-4.         Each Party shall ensure that for the twelve‑month period commencing on 1 January 2003, and in the twelve‑month period thereafter, its calculated level of consumption of the controlled substance in Annex E does not exceed, annually, thirty percent of its calculated level of consumption in 1991.  Each Party producing the substance shall, for the same periods, ensure that its calculated level of production of the substance does not exceed, annually, thirty percent of its calculated level of production in 1991.  However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to ten percent of its calculated level of production in 1991.
+4.         Each Party shall ensure that for the twelve-month period commencing on 1 January 2003, and in the twelve-month period thereafter, its calculated level of consumption of the controlled substance in Annex E does not exceed, annually, thirty percent of its calculated level of consumption in 1991.  Each Party producing the substance shall, for the same periods, ensure that its calculated level of production of the substance does not exceed, annually, thirty percent of its calculated level of production in 1991.  However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to ten percent of its calculated level of production in 1991.
 
-5.         Each Party shall ensure that for the twelve‑month period commencing on 1 January 2005, and in each twelve‑month period thereafter, its calculated level of consumption of the controlled substance in Annex E does not exceed zero.  Each Party producing the substance shall, for the same periods, ensure that its calculated level of production of the substance does not exceed zero.  However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to fifteen percent of its calculated level of production in 1991.  This paragraph will apply save to the extent that the Parties decide to permit the level of production or consumption that is necessary to satisfy uses agreed by them to be critical uses.
+5.         Each Party shall ensure that for the twelve-month period commencing on 1 January 2005, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substance in Annex E does not exceed zero.  Each Party producing the substance shall, for the same periods, ensure that its calculated level of production of the substance does not exceed zero.  However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to fifteen percent of its calculated level of production in 1991.  This paragraph will apply save to the extent that the Parties decide to permit the level of production or consumption that is necessary to satisfy uses agreed by them to be critical uses.
 
 2.         Paragraph 5 of Article 2H of the Protocol shall become paragraph 6.
 
@@ -7385,9 +7385,9 @@ B.  Article 5, paragraph 8ter(d)
 
 1.         The following shall be inserted after paragraph 8ter(d)(i) of Article 5 of the Protocol:
 
-(ii)        Each Party operating under paragraph 1 of this Article shall ensure that for the twelve‑month period commencing on 1 January 2005, and in each twelve‑month period thereafter, its calculated levels of consumption and production of the controlled substance in Annex E do not exceed, annually, eighty percent of the average of its annual calculated levels of consumption and production, respectively, for the period of 1995 to 1998 inclusive;
+(ii)        Each Party operating under paragraph 1 of this Article shall ensure that for the twelve-month period commencing on 1 January 2005, and in each twelve-month period thereafter, its calculated levels of consumption and production of the controlled substance in Annex E do not exceed, annually, eighty percent of the average of its annual calculated levels of consumption and production, respectively, for the period of 1995 to 1998 inclusive;
 
-(iii)       Each Party operating under paragraph 1 of this Article shall ensure that for the twelve‑month period commencing on 1 January 2015 and in each twelve‑month period thereafter, its calculated levels of consumption and production of the controlled substance in Annex E do not exceed zero.  This paragraph will apply save to the extent that the Parties decide to permit the level of production or consumption that is necessary to satisfy uses agreed by them to be critical uses;
+(iii)       Each Party operating under paragraph 1 of this Article shall ensure that for the twelve-month period commencing on 1 January 2015 and in each twelve-month period thereafter, its calculated levels of consumption and production of the controlled substance in Annex E do not exceed zero.  This paragraph will apply save to the extent that the Parties decide to permit the level of production or consumption that is necessary to satisfy uses agreed by them to be critical uses;
 
 2.         Paragraph 8ter(d)(ii) of Article 5 of the Protocol shall become paragraph 8 ter(d)(iv).
 
@@ -7417,13 +7417,13 @@ A.  Article 4, paragraph 1qua
 
 The following paragraph shall be inserted after paragraph 1ter of Article 4 of the Protocol:
 
-1qua    Within one year of the date of entry into force of this paragraph, each Party shall ban the import of the controlled substance in Annex E from any State not party to this Protocol.
+1qua     Within one year of the date of entry into force of this paragraph, each Party shall ban the import of the controlled substance in Annex E from any State not party to this Protocol.
 
 B.  Article 4, paragraph 2qua
 
 The following paragraph shall be inserted after paragraph 2ter of Article 4 of the Protocol:
 
-2qua    Commencing one year after the date of entry into force of this paragraph, each Party shall ban the export of the controlled substance in Annex E to any State not party to this Protocol.
+2qua     Commencing one year after the date of entry into force of this paragraph, each Party shall ban the export of the controlled substance in Annex E to any State not party to this Protocol.
 
 C.  Article 4, paragraphs 5, 6 and 7
 
@@ -7449,9 +7449,9 @@ E.  Article 4A: Control of trade with Parties
 
 The following Article shall be added to the Protocol as Article 4A:
 
-1.         Where, after the phase‑out date applicable to it for a controlled substance, a Party is unable, despite having taken all practicable steps to comply with its obligation under the Protocol, to cease production of that substance for domestic consumption, other than for uses agreed by the Parties to be essential, it shall ban the export of used, recycled and reclaimed quantities of that substance, other than for the purpose of destruction.
+1.         Where, after the phase-out date applicable to it for a controlled substance, a Party is unable, despite having taken all practicable steps to comply with its obligation under the Protocol, to cease production of that substance for domestic consumption, other than for uses agreed by the Parties to be essential, it shall ban the export of used, recycled and reclaimed quantities of that substance, other than for the purpose of destruction.
 
-2.         Paragraph 1 of this Article shall apply without prejudice to the operation of Article 11 of the Convention and the non‑compliance procedure developed under Article 8 of the Protocol.
+2.         Paragraph 1 of this Article shall apply without prejudice to the operation of Article 11 of the Convention and the non-compliance procedure developed under Article 8 of the Protocol.
 
 **F.  Article 4B: Licensing**
 
@@ -7485,7 +7485,7 @@ No State or regional economic integration organization may deposit an instrument
 
 _Note:       See the definition of Montreal Protocol in subsection 7(1)._
 
-**AMENDMENT TO THE MONTREAL PROTOCOL ON SUBSTANCES THAT DEPLETE THE OZONE LAYER**
+**AMENDMENT TO THE****MONTREAL****PROTOCOL ON SUBSTANCES THAT DEPLETE THE OZONE LAYER**
 
 **Article 1: Amendment**
 
@@ -7513,7 +7513,7 @@ Articles 2A to 2I
 
 The following paragraph shall be added after paragraph 7 of Article 2F of the Protocol:
 
-Each Party producing one or more of these substances shall ensure that for the twelve‑month period commencing on 1 January 2004, and in each twelve‑month period thereafter, its calculated level of production of the controlled substances in Group I of Annex C does not exceed, annually, the average of:
+Each Party producing one or more of these substances shall ensure that for the twelve-month period commencing on 1 January 2004, and in each twelve-month period thereafter, its calculated level of production of the controlled substances in Group I of Annex C does not exceed, annually, the average of:
 
 (a)        The sum of its calculated level of consumption in 1989 of the controlled substances in Group I of Annex C and two point eight per cent of its calculated level of consumption in 1989 of the controlled substances in Group I of Annex A; and
 
@@ -7527,7 +7527,7 @@ The following Article shall be inserted after Article 2H of the Protocol:
 
 _Article 2I: Bromochloromethane_
 
-Each Party shall ensure that for the twelve‑month period commencing on 1 January 2002, and in each twelve‑month period thereafter, its calculated level of consumption and production of the controlled substance in Group III of Annex C does not exceed zero. This paragraph will apply save to the extent that the Parties decide to permit the level of production or consumption that is necessary to satisfy uses agreed by them to be essential.
+Each Party shall ensure that for the twelve-month period commencing on 1 January 2002, and in each twelve-month period thereafter, its calculated level of consumption and production of the controlled substance in Group III of Annex C does not exceed zero. This paragraph will apply save to the extent that the Parties decide to permit the level of production or consumption that is necessary to satisfy uses agreed by them to be essential.
 
 **_E. Article 3_**
 
@@ -7539,7 +7539,7 @@ there shall be substituted:
 
 Articles 2, 2A to 2I
 
-**_F. Article 4, paragraphs 1 quin. and 1 sex._**
+**_F. Article 4, paragraph_****_s 1_****_quin. and 1 sex._**
 
 The following paragraphs shall be added to Article 4 of the Protocol after paragraph 1 _qua_:
 
@@ -7625,7 +7625,7 @@ Annex B and Groups I and II of Annex C
 
 The following sentence shall be added after the first sentence of paragraph 3 of Article 7 of the Protocol:
 
-Each Party shall provide to the Secretariat statistical data on the annual amount of the controlled substance listed in Annex E used for quarantine and pre‑shipment applications.
+Each Party shall provide to the Secretariat statistical data on the annual amount of the controlled substance listed in Annex E used for quarantine and pre-shipment applications.
 
 **_P. Article 10_**
 
@@ -7653,11 +7653,11 @@ The following group shall be added to Annex C to the Protocol:
 
 Group
 
-Substance                    Number of Isomers      Ozone‑Depleting Potential
+Substance                     Number of Isomers       Ozone-Depleting Potential
 
 Group III
 
-CH<sub>2</sub>BrCl bromochloromethane                        1                      0.12
+CH<sub>2</sub>BrCl bromochloromethane               1                      0.12
 
 **Article 2: Relationship to the 1997 Amendment**
 
@@ -7701,7 +7701,7 @@ UNITED NATIONS FRAMEWORK CONVENTION ON CLIMATE CHANGE
 
 <u>Recalling</u> the provisions of General Assembly resolution 44/228 of 22 December 1989 on the United Nations Conference on Environment and Development, and resolutions 43/53 of 6 December 1988, 44/207 of 22 December 1989, 45/212 of 21 December 1990 and 46/169 of 19 December 1991 on protection of global climate for present and future generations of mankind,
 
-<u>Recalling  also</u> the provisions of General Assembly resolution 44/206 of 22 December 1989 on the possible adverse effects of sealevel rise on islands and coastal areas, particularly low‑lying coastal areas and the pertinent provisions of General Assembly resolution 44/172 of 19 December 1989 on the implementation of the Plan of Action to Combat Desertification,
+<u>Recalling  also</u> the provisions of General Assembly resolution 44/206 of 22 December 1989 on the possible adverse effects of sealevel rise on islands and coastal areas, particularly low-lying coastal areas and the pertinent provisions of General Assembly resolution 44/172 of 19 December 1989 on the implementation of the Plan of Action to Combat Desertification,
 
 <u>Recalling  further</u> the Vienna Convention for the Protection of the Ozone Layer, 1985, and the Montreal Protocol on Substances that Deplete the Ozone Layer, 1987, as adjusted and amended on 29 June 1990,
 
@@ -7709,13 +7709,13 @@ UNITED NATIONS FRAMEWORK CONVENTION ON CLIMATE CHANGE
 
 <u>Conscious</u> of the valuable analytical work being conducted by many States on climate change and of the important contributions of the World Meteorological Organization, the United Nations Environment Programme and other organs, organizations and bodies of the United Nations system, as well as other international and intergovernmental bodies, to the exchange of results of scientific research and the coordination of research,
 
-<u>Recognizing</u> that steps required to understand and address climate change will be environmentally, socially and economically most effective if they are based on relevant scientific, technical and economic considerations and continually re‑evaluated in the light of new findings in these areas,
+<u>Recognizing</u> that steps required to understand and address climate change will be environmentally, socially and economically most effective if they are based on relevant scientific, technical and economic considerations and continually re-evaluated in the light of new findings in these areas,
 
 <u>Recognizing</u> that various actions to address climate change can be justified economically in their own right and can also help in solving other environmental problems,
 
 <u>Recognizing  also</u> the need for developed countries to take immediate action in a flexible manner on the basis of clear priorities, as a first step towards comprehensive response strategies at the global, national and, where agreed, regional levels that take into account all greenhouse gases, with due consideration of their relative contributions to the enhancement of the greenhouse effect,
 
-<u>Recognizing</u> further that low‑lying and other small island countries, countries with low‑lying coastal, arid and semi‑arid areas or areas liable to floods, drought and desertification, and developing countries with fragile mountainous ecosystems are particularly vulnerable to the adverse effects of climate change,
+<u>Recognizing</u> further that low-lying and other small island countries, countries with low-lying coastal, arid and semi-arid areas or areas liable to floods, drought and desertification, and developing countries with fragile mountainous ecosystems are particularly vulnerable to the adverse effects of climate change,
 
 <u>Recognizing</u> the special difficulties of those countries, especially developing countries, whose economies are particularly dependent on fossil fuel production, use and exportation, as a consequence of action taken on limiting greenhouse gas emissions,
 
@@ -7733,7 +7733,7 @@ DEFINITIONS*
 
 For the purposes of this Convention:
 
-1.         “Adverse effects of climate change” means changes in the physical environment or biota resulting from climate change which have significant deleterious effects on the composition, resilience or productivity of natural and managed ecosystems or on the operation of socio‑economic systems or on human health and welfare.
+1.         “Adverse effects of climate change” means changes in the physical environment or biota resulting from climate change which have significant deleterious effects on the composition, resilience or productivity of natural and managed ecosystems or on the operation of socio-economic systems or on human health and welfare.
 
 2.         “Climate change” means a change of climate which is attributed directly or indirectly to human activity that alters the composition of the global atmosphere and which is in addition to natural climate variability observed over comparable time periods.
 
@@ -7741,7 +7741,7 @@ For the purposes of this Convention:
 
 4.         “Emissions” means the release of greenhouse gases and/or their precursors into the atmosphere over a specified area and period of time.
 
-5.         “Greenhouse gases” means those gaseous constituents of the atmosphere, both natural and anthropogenic, that absorb and re‑emit infrared radiation.
+5.         “Greenhouse gases” means those gaseous constituents of the atmosphere, both natural and anthropogenic, that absorb and re-emit infrared radiation.
 
 6.         “Regional economic integration organization” means an organization constituted by sovereign States of a given region which has competence in respect of matters governed by this Convention or its protocols and has been duly authorized, in accordance with its internal procedures, to sign, ratify, accept, approve or accede to the instruments concerned.
 
@@ -7767,9 +7767,9 @@ In their actions to achieve the objective of the Convention and to implement its
 
 2.         The specific needs and special circumstances of developing country Parties, especially those that are particularly vulnerable to the adverse effects of climate change, and of those Parties, especially developing country Parties, that would have to bear a disproportionate or abnormal burden under the Convention, should be given full consideration.
 
-3.         The Parties should take precautionary measures to anticipate, prevent or minimize the causes of climate change and mitigate its adverse effects. Where there are threats of serious or irreversible damage, lack of full scientific certainty should not be used as a reason for postponing such measures, taking into account that policies and measures to deal with climate change should be cost‑effective so as to ensure global benefits at the lowest possible cost. To achieve this, such policies and measures should take into account different socio‑economic contexts, be comprehensive, cover all relevant sources, sinks and reservoirs of greenhouse gases and adaptation, and comprise all economic sectors. Efforts to address climate change may be carried out cooperatively by interested Parties.
+3.         The Parties should take precautionary measures to anticipate, prevent or minimize the causes of climate change and mitigate its adverse effects. Where there are threats of serious or irreversible damage, lack of full scientific certainty should not be used as a reason for postponing such measures, taking into account that policies and measures to deal with climate change should be cost-effective so as to ensure global benefits at the lowest possible cost. To achieve this, such policies and measures should take into account different socio-economic contexts, be comprehensive, cover all relevant sources, sinks and reservoirs of greenhouse gases and adaptation, and comprise all economic sectors. Efforts to address climate change may be carried out cooperatively by interested Parties.
 
-4.         The Parties have a right to, and should, promote sustainable development. Policies and measures to protect the climate system against human‑induced change should be appropriate for the specific conditions of each Party and should be integrated with national development programmes, taking into account that economic development is essential for adopting measures to address climate change.
+4.         The Parties have a right to, and should, promote sustainable development. Policies and measures to protect the climate system against human-induced change should be appropriate for the specific conditions of each Party and should be integrated with national development programmes, taking into account that economic development is essential for adopting measures to address climate change.
 
 5.         The Parties should cooperate to promote a supportive and open international economic system that would lead to sustainable economic growth and development in all Parties, particularly developing country Parties, thus enabling them better to address the problems of climate change. Measures taken to combat climate change, including unilateral ones, should not constitute a means of arbitrary or unjustifiable discrimination or a disguised restriction on international trade.
 
@@ -7791,17 +7791,17 @@ COMMITMENTS
 
 (f)        Take climate change considerations into account, to the extent feasible, in their relevant social, economic and environmental policies and actions, and employ appropriate methods, for example impact assessments, formulated and determined nationally, with a view to minimizing adverse effects on the economy, on public health and on the quality of the environment, of projects or measures undertaken by them to mitigate or adapt to climate change;
 
-(g)        Promote and cooperate in scientific, technological, technical, socio‑economic and other research, systematic observation and development of data archives related to the climate system and intended to further the understanding and to reduce or eliminate the remaining uncertainties regarding the causes, effects, magnitude and timing of climate change and the economic and social consequences of various response strategies;
+(g)        Promote and cooperate in scientific, technological, technical, socio-economic and other research, systematic observation and development of data archives related to the climate system and intended to further the understanding and to reduce or eliminate the remaining uncertainties regarding the causes, effects, magnitude and timing of climate change and the economic and social consequences of various response strategies;
 
-(h)        Promote and cooperate in the full, open and prompt exchange of relevant scientific, technological, technical, socio‑economic and legal information related to the climate system and climate change, and to the economic and social consequences of various response strategies;
+(h)        Promote and cooperate in the full, open and prompt exchange of relevant scientific, technological, technical, socio-economic and legal information related to the climate system and climate change, and to the economic and social consequences of various response strategies;
 
-(i)         Promote and cooperate in education, training and public awareness related to climate change and encourage the widest participation in this process, including that of non‑governmental organizations; and
+(i)         Promote and cooperate in education, training and public awareness related to climate change and encourage the widest participation in this process, including that of non-governmental organizations; and
 
 (j)         Communicate to the Conference of the Parties information related to implementation, in accordance with Article 12.
 
 2.         The developed country Parties and other Parties included in annex I commit themselves specifically as provided for in the following:
 
-(a)        Each of these Parties shall adopt national <u><sup>1</sup></u><sup>/</sup> policies and take corresponding measures on the mitigation of climate change, by limiting its anthropogenic emissions of greenhouse gases and protecting and enhancing its greenhouse gas sinks and reservoirs. These policies and measures will demonstrate that developed countries are taking the lead in modifying longer‑term trends in anthropogenic emissions consistent with the objective of the Convention, recognizing that the return by the end of the present decade to earlier levels of anthropogenic emissions of carbon dioxide and other greenhouse gases not controlled by the Montreal Protocol would contribute to such modification, and taking into account the differences in these Parties’ starting points and approaches, economic structures and resource bases, the need to maintain strong and sustainable economic growth, available technologies and other individual circumstances, as well as the need for equitable and appropriate contributions by each of these Parties to the global effort regarding that objective. These Parties may implement such policies and measures jointly with other Parties and may assist other Parties in contributing to the achievement of the objective of the Convention and, in particular, that of this subparagraph;
+(a)        Each of these Parties shall adopt national <u><sup>1</sup></u><sup>/</sup> policies and take corresponding measures on the mitigation of climate change, by limiting its anthropogenic emissions of greenhouse gases and protecting and enhancing its greenhouse gas sinks and reservoirs. These policies and measures will demonstrate that developed countries are taking the lead in modifying longer-term trends in anthropogenic emissions consistent with the objective of the Convention, recognizing that the return by the end of the present decade to earlier levels of anthropogenic emissions of carbon dioxide and other greenhouse gases not controlled by the Montreal Protocol would contribute to such modification, and taking into account the differences in these Parties’ starting points and approaches, economic structures and resource bases, the need to maintain strong and sustainable economic growth, available technologies and other individual circumstances, as well as the need for equitable and appropriate contributions by each of these Parties to the global effort regarding that objective. These Parties may implement such policies and measures jointly with other Parties and may assist other Parties in contributing to the achievement of the objective of the Convention and, in particular, that of this subparagraph;
 
 (b)        In order to promote progress to this end, each of these Parties shall communicate, within six months of the entry into force of the Convention for it and periodically thereafter, and in accordance with Article 12, detailed information on its policies and measures referred to in subparagraph (a) above, as well as on its resulting projected anthropogenic emissions by sources and removals by sinks of greenhouse gases not controlled by the Montreal Protocol for the period referred to in subparagraph (a), with the aim of returning individually or jointly to their 1990 levels these anthropogenic emissions of carbon dioxide and other greenhouse gases not controlled by the Montreal Protocol. This information will be reviewed by the Conference of the Parties, at its first session and periodically thereafter, in accordance with Article 7;
 
@@ -7823,7 +7823,7 @@ COMMITMENTS
 
 4.         The developed country Parties and other developed Parties included in annex II shall also assist the developing country Parties that are particularly vulnerable to the adverse effects of climate change in meeting costs of adaptation to those adverse effects.
 
-5.         The developed country Parties and other developed Parties included in annex II shall take all practicable steps to promote, facilitate and finance, as appropriate, the transfer of, or access to, environmentally sound technologies and know‑how to other Parties, particularly developing country Parties, to enable them to implement the provisions of the Convention. In this process, the developed country Parties shall support the development and enhancement of endogenous capacities and technologies of developing country Parties. Other Parties and organizations in a position to do so may also assist in facilitating the transfer of such technologies.
+5.         The developed country Parties and other developed Parties included in annex II shall take all practicable steps to promote, facilitate and finance, as appropriate, the transfer of, or access to, environmentally sound technologies and know-how to other Parties, particularly developing country Parties, to enable them to implement the provisions of the Convention. In this process, the developed country Parties shall support the development and enhancement of endogenous capacities and technologies of developing country Parties. Other Parties and organizations in a position to do so may also assist in facilitating the transfer of such technologies.
 
 6.         In the implementation of their commitments under paragraph 2 above, a certain degree of flexibility shall be allowed by the Conference of the Parties to the Parties included in annex I undergoing the process of transition to a market economy, in order to enhance the ability of these Parties to address climate change, including with regard to the historical level of anthropogenic emissions of greenhouse gases not controlled by the Montreal Protocol chosen as a reference.
 
@@ -7833,9 +7833,9 @@ COMMITMENTS
 
 (a)        Small island countries;
 
-(b)        Countries with low‑lying coastal areas;
+(b)        Countries with low-lying coastal areas;
 
-(c)        Countries with arid and semi‑arid areas, forested areas and areas liable to forest decay;
+(c)        Countries with arid and semi-arid areas, forested areas and areas liable to forest decay;
 
 (d)        Countries with areas prone to natural disasters;
 
@@ -7845,15 +7845,15 @@ COMMITMENTS
 
 (g)        Countries with areas with fragile ecosystems, including mountainous ecosystems;
 
-(h)        Countries whose economies are highly dependent on income generated from the production, processing and export, and/or on consumption of fossil fuels and associated energy‑intensive products; and
+(h)        Countries whose economies are highly dependent on income generated from the production, processing and export, and/or on consumption of fossil fuels and associated energy-intensive products; and
 
-(i)         Land‑locked and transit countries.
+(i)         Land-locked and transit countries.
 
 Further, the Conference of the Parties may take actions, as appropriate, with respect to this paragraph.
 
 9.         The Parties shall take full account of the specific needs and special situations of the least developed countries in their actions with regard to funding and transfer of technology.
 
-10.       The Parties shall, in accordance with Article 10, take into consideration in the implementation of the commitments of the Convention the situation of Parties, particularly developing country Parties, with economies that are vulnerable to the adverse effects of the implementation of measures to respond to climate change. This applies notably to Parties with economies that are highly dependent on income generated from the production, processing and export, and/or consumption of fossil fuels and associated energy‑intensive products and/or the use of fossil fuels for which such Parties have serious difficulties in switching to alternatives.
+10.        The Parties shall, in accordance with Article 10, take into consideration in the implementation of the commitments of the Convention the situation of Parties, particularly developing country Parties, with economies that are vulnerable to the adverse effects of the implementation of measures to respond to climate change. This applies notably to Parties with economies that are highly dependent on income generated from the production, processing and export, and/or consumption of fossil fuels and associated energy-intensive products and/or the use of fossil fuels for which such Parties have serious difficulties in switching to alternatives.
 
 ARTICLE 5
 
@@ -7919,17 +7919,17 @@ CONFERENCE OF THE PARTIES
 
 (k)        Agree upon and adopt, by consensus, rules of procedure and financial rules for itself and for any subsidiary bodies;
 
-(l)         Seek and utilize, where appropriate, the services and cooperation of, and information provided by, competent international organizations and intergovernmental and non‑governmental bodies; and
+(l)         Seek and utilize, where appropriate, the services and cooperation of, and information provided by, competent international organizations and intergovernmental and non-governmental bodies; and
 
 (m)       Exercise such other functions as are required for the achievement of the objective of the Convention as well as all other functions assigned to it under the Convention.
 
-3.         The Conference of the Parties shall, at its first session, adopt its own rules of procedure as well as those of the subsidiary bodies established by the Convention, which shall include decision‑making procedures for matters not already covered by decision‑making procedures stipulated in the Convention. Such procedures may include specified majorities required for the adoption of particular decisions.
+3.         The Conference of the Parties shall, at its first session, adopt its own rules of procedure as well as those of the subsidiary bodies established by the Convention, which shall include decision-making procedures for matters not already covered by decision-making procedures stipulated in the Convention. Such procedures may include specified majorities required for the adoption of particular decisions.
 
 4.         The first session of the Conference of the Parties shall be convened by the interim secretariat referred to in Article 21 and shall take place not later than one year after the date of entry into force of the Convention. Thereafter, ordinary sessions of the Conference of the Parties shall be held every year unless otherwise decided by the Conference of the Parties.
 
-5.         Extraordinary sessions of the Conference of the Parties shall be held at such other times as may be deemed necessary by the Conference, or at the written request of any Party, provided that, within six months of the request being communicated to the Parties by the secretariat, it is supported by at least one‑third of the Parties.
+5.         Extraordinary sessions of the Conference of the Parties shall be held at such other times as may be deemed necessary by the Conference, or at the written request of any Party, provided that, within six months of the request being communicated to the Parties by the secretariat, it is supported by at least one-third of the Parties.
 
-6.         The United Nations, its specialized agencies and the International Atomic Energy Agency, as well as any State member thereof or observers thereto not Party to the Convention, may be represented at sessions of the Conference of the Parties as observers. Any body or agency, whether national or international, governmental or non‑governmental, which is qualified in matters covered by the Convention, and which has informed the secretariat of its wish to be represented at a session of the Conference of the Parties as an observer, may be so admitted unless at least one‑third of the Parties present object. The admission and participation of observers shall be subject to the rules of procedure adopted by the Conference of the Parties.
+6.         The United Nations, its specialized agencies and the International Atomic Energy Agency, as well as any State member thereof or observers thereto not Party to the Convention, may be represented at sessions of the Conference of the Parties as observers. Any body or agency, whether national or international, governmental or non-governmental, which is qualified in matters covered by the Convention, and which has informed the secretariat of its wish to be represented at a session of the Conference of the Parties as an observer, may be so admitted unless at least one-third of the Parties present object. The admission and participation of observers shall be subject to the rules of procedure adopted by the Conference of the Parties.
 
 ARTICLE 8
 
@@ -7967,9 +7967,9 @@ SUBSIDIARY BODY FOR SCIENTIFIC AND TECHNOLOGICAL ADVICE
 
 (b)        Prepare scientific assessments on the effects of measures taken in the implementation of the Convention;
 
-(c)        Identify innovative, efficient and state‑of‑the‑art technologies and know‑how and advise on the ways and means of promoting development and/or transferring such technologies;
+(c)        Identify innovative, efficient and state-of-the-art technologies and know-how and advise on the ways and means of promoting development and/or transferring such technologies;
 
-(d)        Provide advice on scientific programmes, international cooperation in research and development related to climate change, as well as on ways and means of supporting endogenous capacity‑building in developing countries; and
+(d)        Provide advice on scientific programmes, international cooperation in research and development related to climate change, as well as on ways and means of supporting endogenous capacity-building in developing countries; and
 
 (e)        Respond to scientific, technological and methodological questions that the Conference of the Parties and its subsidiary bodies may put to the body.
 
@@ -8007,7 +8007,7 @@ FINANCIAL MECHANISM
 
 (d)        Determination in a predictable and identifiable manner of the amount of funding necessary and available for the implementation of this Convention and the conditions under which that amount shall be periodically reviewed.
 
-4.         The Conference of the Parties shall make arrangements to implement the above‑mentioned provisions at its first session, reviewing and taking into account the interim arrangements referred to in Article 21, paragraph 3, and shall decide whether these interim arrangements shall be maintained. Within four years thereafter, the Conference of the Parties shall review the financial mechanism and take appropriate measures.
+4.         The Conference of the Parties shall make arrangements to implement the above-mentioned provisions at its first session, reviewing and taking into account the interim arrangements referred to in Article 21, paragraph 3, and shall decide whether these interim arrangements shall be maintained. Within four years thereafter, the Conference of the Parties shall review the financial mechanism and take appropriate measures.
 
 5.         The developed country Parties may also provide and developing country Parties avail themselves of, financial resources related to the implementation of the Convention through bilateral, regional and other multilateral channels.
 
@@ -8043,7 +8043,7 @@ COMMUNICATION OF INFORMATION RELATED TO IMPLEMENTATION
 
 9.         Information received by the secretariat that is designated by a Party as confidential, in accordance with criteria to be established by the Conference of the Parties, shall be aggregated by the secretariat to protect its confidentiality before being made available to any of the bodies involved in the communication and review of information.
 
-10.       Subject to paragraph 9 above, and without prejudice to the ability of any Party to make public its communication at any time, the secretariat shall make communications by Parties under this Article publicly available at the time they are submitted to the Conference of the Parties.
+10.        Subject to paragraph 9 above, and without prejudice to the ability of any Party to make public its communication at any time, the secretariat shall make communications by Parties under this Article publicly available at the time they are submitted to the Conference of the Parties.
 
 ARTICLE 13
 
@@ -8085,9 +8085,9 @@ AMENDMENTS TO THE CONVENTION
 
 2.         Amendments to the Convention shall be adopted at an ordinary session of the Conference of the Parties. The text of any proposed amendment to the Convention shall be communicated to the Parties by the secretariat at least six months before the meeting at which it is proposed for adoption. The secretariat shall also communicate proposed amendments to the signatories to the Convention and, for information, to the Depositary.
 
-3.         The Parties shall make every effort to reach agreement on any proposed amendment to the Convention by consensus. If all efforts at consensus have been exhausted, and no agreement reached, the amendment shall as a last resort be adopted by a three‑fourths majority vote of the Parties present and voting at the meeting. The adopted amendment shall be communicated by the secretariat to the Depositary, who shall circulate it to all Parties for their acceptance.
+3.         The Parties shall make every effort to reach agreement on any proposed amendment to the Convention by consensus. If all efforts at consensus have been exhausted, and no agreement reached, the amendment shall as a last resort be adopted by a three-fourths majority vote of the Parties present and voting at the meeting. The adopted amendment shall be communicated by the secretariat to the Depositary, who shall circulate it to all Parties for their acceptance.
 
-4.         Instruments of acceptance in respect of an amendment shall be deposited with the Depositary. An amendment adopted in accordance with paragraph 3 above shall enter into force for those Parties having accepted it on the ninetieth day after the date of receipt by the Depositary of an instrument of acceptance by at least three‑fourths of the Parties to the Convention.
+4.         Instruments of acceptance in respect of an amendment shall be deposited with the Depositary. An amendment adopted in accordance with paragraph 3 above shall enter into force for those Parties having accepted it on the ninetieth day after the date of receipt by the Depositary of an instrument of acceptance by at least three-fourths of the Parties to the Convention.
 
 5.         The amendment shall enter into force for any other Party on the ninetieth day after the date on which that Party deposits with the Depositary its instrument of acceptance of the said amendment.
 
@@ -8101,7 +8101,7 @@ ADOPTION AND AMENDMENT OF ANNEXES TO THE CONVENTION
 
 2.         Annexes to the Convention shall be proposed and adopted in accordance with the procedure set forth in Article 15, paragraphs 2, 3, and 4.
 
-3.         An annex that has been adopted in accordance with paragraph 2 above shall enter into force for all Parties to the Convention six months after the date of the communication by the Depositary to such Parties of the adoption of the annex, except for those Parties that have notified the Depositary, in writing, within that period of their non‑acceptance of the annex. The annex shall enter into force for Parties which withdraw their notification of non‑acceptance on the ninetieth day after the date on which withdrawal of such notification has been received by the Depositary.
+3.         An annex that has been adopted in accordance with paragraph 2 above shall enter into force for all Parties to the Convention six months after the date of the communication by the Depositary to such Parties of the adoption of the annex, except for those Parties that have notified the Depositary, in writing, within that period of their non-acceptance of the annex. The annex shall enter into force for Parties which withdraw their notification of non-acceptance on the ninetieth day after the date on which withdrawal of such notification has been received by the Depositary.
 
 4.         The proposal, adoption and entry into force of amendments to annexes to the Convention shall be subject to the same procedure as that for the proposal, adoption and entry into force of annexes to the Convention in accordance with paragraphs 2 and 3 above.
 
@@ -8133,7 +8133,7 @@ ARTICLE 19
 
 DEPOSITARY
 
-The Secretary‑General of the United Nations shall be the Depositary of the Convention and of protocols adopted in accordance with Article 17.
+The Secretary-General of the United Nations shall be the Depositary of the Convention and of protocols adopted in accordance with Article 17.
 
 ARTICLE 20
 
@@ -8191,11 +8191,11 @@ ARTICLE 26
 
 AUTHENTIC TEXTS
 
-The original of this Convention, of which the Arabic, Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited with the Secretary‑General of the United Nations.
+The original of this Convention, of which the Arabic, Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited with the Secretary-General of the United Nations.
 
 IN WITNESS WHEREOF the undersigned, being duly authorized to that effect, have signed this Convention.
 
-DONE at New York this ninth day of May one thousand nine hundred and ninety‑two.
+DONE at New York this ninth day of May one thousand nine hundred and ninety-two.
 
 \[Signatures omitted]
 
@@ -8277,7 +8277,7 @@ Ukraine <u>a</u>/
 
 United Kingdom of Great Britain and Northern Ireland
 
-United States of America
+United   States of America
 
 ___________
 
@@ -8345,9 +8345,9 @@ _Section 38_
 
              (2)  This clause applies as follows:
 
-                     (a)  in the case of a stage‑1 scheduled substance—to the manufacture or import of machinery after the commencement of this Act;
+                     (a)  in the case of a stage-1 scheduled substance—to the manufacture or import of machinery after the commencement of this Act;
 
-                     (b)  in the case of a stage‑2 scheduled substance—to the manufacture or import of machinery after the commencement of the _Ozone Protection Amendment Act 1992_.
+                     (b)  in the case of a stage-2 scheduled substance—to the manufacture or import of machinery after the commencement of the _Ozone Protection Amendment Act 1992_.
 
 ##### <a id="2"></a>2  Automotive air conditioning maintenance kits
 
@@ -8355,7 +8355,7 @@ _Section 38_
 
                      (a)  is intended for use as, or as a part of, a kit for the maintenance of automotive air conditioning units; and
 
-                     (b)  consists, wholly or partly, of a non‑refillable container:
+                     (b)  consists, wholly or partly, of a non-refillable container:
 
                               (i)  that encloses a scheduled substance (whether alone or with another substance); and
 
@@ -8363,9 +8363,9 @@ _Section 38_
 
              (2)  This clause applies as follows:
 
-                     (a)  in the case of a stage‑1 scheduled substance—to the manufacture or import of equipment after 31 January 1989;
+                     (a)  in the case of a stage-1 scheduled substance—to the manufacture or import of equipment after 31 January 1989;
 
-                     (b)  in the case of a stage‑2 scheduled substance—to the manufacture or import of equipment after the commencement of the _Ozone Protection Amendment Act 1992_.
+                     (b)  in the case of a stage-2 scheduled substance—to the manufacture or import of equipment after the commencement of the _Ozone Protection Amendment Act 1992_.
 
 ##### <a id="4"></a>4  Extruded polystyrene packaging and insulation
 
@@ -8381,9 +8381,9 @@ _Section 38_
 
              (2)  This clause applies as follows:
 
-                     (a)  in the case of a stage‑1 scheduled substance—to the manufacture or import of products after 31 December 1989;
+                     (a)  in the case of a stage-1 scheduled substance—to the manufacture or import of products after 31 December 1989;
 
-                     (b)  in the case of a stage‑2 scheduled substance—to the manufacture or import of products after the commencement of the _Ozone Protection Amendment Act 1992_.
+                     (b)  in the case of a stage-2 scheduled substance—to the manufacture or import of products after the commencement of the _Ozone Protection Amendment Act 1992_.
 
 ##### <a id="5"></a>5  Aerosol products
 
@@ -8391,9 +8391,9 @@ _Section 38_
 
        (2)        This clause applies as follows:
 
-                     (a)  in the case of a stage‑1 scheduled substance—to the manufacture or import of products after 31 December 1989;
+                     (a)  in the case of a stage-1 scheduled substance—to the manufacture or import of products after 31 December 1989;
 
-                     (b)  in the case of a stage‑2 scheduled substance (other than methyl chloroform)—to the manufacture or import of products after the commencement of the _Ozone Protection Amendment Act 1992_;
+                     (b)  in the case of a stage-2 scheduled substance (other than methyl chloroform)—to the manufacture or import of products after the commencement of the _Ozone Protection Amendment Act 1992_;
 
                      (c)  in the case of methyl chloroform—to the manufacture or import of products after whichever is the later of the following times:
 
@@ -8409,21 +8409,21 @@ _Section 38_
 
 A person must not manufacture or import a rigid polyurethane foam product if the product is intended for use as packaging and:
 
-                     (a)  the product contains a stage‑1 or stage‑2 scheduled substance; or
+                     (a)  the product contains a stage-1 or stage-2 scheduled substance; or
 
-                     (b)  a stage‑1 or stage‑2 scheduled substance was used in the manufacture of the product.
+                     (b)  a stage-1 or stage-2 scheduled substance was used in the manufacture of the product.
 
 ##### <a id="8"></a>8  Moulded flexible polyurethane foam
 
                    A person must not manufacture moulded flexible polyurethane foam if:
 
-                     (a)  the foam contains a stage‑1 or stage‑2 scheduled substance; or
+                     (a)  the foam contains a stage-1 or stage-2 scheduled substance; or
 
-                     (b)  a stage‑1 or stage‑2 scheduled substance is used in the manufacture of the foam.
+                     (b)  a stage-1 or stage-2 scheduled substance is used in the manufacture of the foam.
 
 ##### <a id="9"></a>9  Disposable containers of refrigerants
 
-                   A person must not manufacture or import a product consisting wholly or partly of a non‑refillable container if:
+                   A person must not manufacture or import a product consisting wholly or partly of a non-refillable container if:
 
                      (a)  the product contains a CFC; and
 
@@ -8760,30 +8760,13 @@ Remainder: Royal Assent</div>
     <div>Sch. 1 (items 
 109–118) \[ <i>see</i>Table A]</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 87–91): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Ozone Protection Amendment Act 1995_ was amended by Schedule 3 (items 11–17) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 3(f) of which provides as follows:
 
-              (3)(f)   the amendments of the _Ozone Protection Amendment Act 1995_ are taken to have commenced on the day on which that Act received the Royal Assent;.
+             (3)(f)   the amendments of the _Ozone Protection Amendment Act 1995_ are taken to have commenced on the day on which that Act received the Royal Assent;.
 
-_(b)_     The _Ozone Protection and Synthetic Greenhouse Gas Management Act 1989_ was amended by Schedule 7 (item 17) only of the _Environmental Reform (Consequential Provisions) Act 1999_, subsection 2(1) of which provides as follows:
+_(b)_    The _Ozone Protection and Synthetic Greenhouse Gas Management Act 1989_ was amended by Schedule 7 (item 17) only of the _Environmental Reform (Consequential Provisions) Act 1999_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences when the _Environment Protection and Biodiversity Conservation Act 1999_ commences. 
 
@@ -9963,22 +9946,6 @@ _(f)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
 </tr>
 <tr>
   <td>
-    <div><b>Schedule 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule 2</div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Schedule 3</b></div>
   </td>
   <td>
@@ -10293,11 +10260,11 @@ Insert:
 
 Insert:
 
-                   (ba)  if the person is a body corporate—any civil penalty order made against an executive officer of the body corporate for a contravention of a civil penalty provision, where the contravention occurred within the 10 years immediately preceding the making of the application; and
+                    (ba)  if the person is a body corporate—any civil penalty order made against an executive officer of the body corporate for a contravention of a civil penalty provision, where the contravention occurred within the 10 years immediately preceding the making of the application; and
 
-                   (bb)  if the person is a body corporate—any conviction of an executive officer of the body corporate for an offence against this Act or the regulations committed within the 10 years immediately preceding the making of the application; and
+                    (bb)  if the person is a body corporate—any conviction of an executive officer of the body corporate for an offence against this Act or the regulations committed within the 10 years immediately preceding the making of the application; and
 
-                   (bc)  if the person is a body corporate—any conviction of an executive officer of the body corporate for an offence against a law of the Commonwealth, of a State or of a Territory that is punishable by imprisonment for a period of 6 months or longer, where the offence was committed within the 10 years immediately preceding the making of the application; and
+                    (bc)  if the person is a body corporate—any conviction of an executive officer of the body corporate for an offence against a law of the Commonwealth, of a State or of a Territory that is punishable by imprisonment for a period of 6 months or longer, where the offence was committed within the 10 years immediately preceding the making of the application; and
 
 ## 21  After paragraph 16(5)(c)
 
@@ -10319,7 +10286,7 @@ Insert:
 
                     (ea)  if the person is a body corporate—any statement made by an executive officer of the body corporate in an application under this Act or the regulations that was false or misleading in a material particular; and
 
-                   (eb)  if:
+                    (eb)  if:
 
                               (i)  the person is a body corporate; and
 
@@ -10337,7 +10304,7 @@ Insert:
 
 Add:
 
-            ; and (h)  if the person is a body corporate—whether an executive officer of the body corporate held a licence that was cancelled under section 20.
+             ; and (h)  if the person is a body corporate—whether an executive officer of the body corporate held a licence that was cancelled under section 20.
 
 ## 27  After subsection 18(7B)
 
@@ -10351,7 +10318,7 @@ Note 1:       Division 7 of Part VIII provides for pecuniary pen
 
 Note 2:       For maximum penalty, see subsection 65AC(4).
 
-          (7E)  Subsection (7C) does not apply if the licensee has a reasonable excuse.
+           (7E)  Subsection (7C) does not apply if the licensee has a reasonable excuse.
 
            (7F)  A person who wishes to rely on subsection (7E) in proceedings for a civil penalty order bears an evidential burden in relation to that matter.
 
@@ -10359,7 +10326,7 @@ Note 2:       For maximum penalty, see subsection 65AC(4).
 
 Add:
 
-             (4)  A pre‑charged equipment licence stays in force:
+             (4)  A pre-charged equipment licence stays in force:
 
                      (a)  for a period of 2 years beginning at the start of the day the licence comes into force; or
 
@@ -10385,11 +10352,11 @@ Add “and”.
 
 Insert:
 
-                   (ba)  if the person is a body corporate—any civil penalty order made against an executive officer of the body corporate for a contravention of a civil penalty provision, where the contravention occurred within the immediately preceding 10 years; and
+                    (ba)  if the person is a body corporate—any civil penalty order made against an executive officer of the body corporate for a contravention of a civil penalty provision, where the contravention occurred within the immediately preceding 10 years; and
 
-                   (bb)  if the person is a body corporate—any conviction of an executive officer of the body corporate for an offence against this Act or the regulations committed within the immediately preceding 10 years; and
+                    (bb)  if the person is a body corporate—any conviction of an executive officer of the body corporate for an offence against this Act or the regulations committed within the immediately preceding 10 years; and
 
-                   (bc)  if the person is a body corporate—any conviction of an executive officer of the body corporate for an offence against a law of the Commonwealth, of a State or of a Territory that is punishable by imprisonment for a period of 6 months or longer, where the offence was committed within the immediately preceding 10 years; and
+                    (bc)  if the person is a body corporate—any conviction of an executive officer of the body corporate for an offence against a law of the Commonwealth, of a State or of a Territory that is punishable by imprisonment for a period of 6 months or longer, where the offence was committed within the immediately preceding 10 years; and
 
 ## 33  At the end of paragraph 20(2)(c)
 
@@ -10409,7 +10376,7 @@ After “this Act”, insert “or the regulations”.
 
 Add:
 
-             ; and (f)  if the person is a body corporate—any statement made by an executive officer of the body corporate in an application under this Act or the regulations that was false or misleading in a material particular; and
+              ; and (f)  if the person is a body corporate—any statement made by an executive officer of the body corporate in an application under this Act or the regulations that was false or misleading in a material particular; and
 
                      (g)  if:
 
@@ -10473,7 +10440,7 @@ Omit “100 penalty units”, substitute “300 penalty units”.
 
 Insert:
 
-          (2A)  A person must not import from a non‑Montreal Protocol country a product containing a stage‑1 scheduled substance.
+          (2A)  A person must not import from a non-Montreal Protocol country a product containing a stage-1 scheduled substance.
 
           (2B)  Subsection (2A) is a **_civil penalty provision_**.
 
@@ -10501,7 +10468,7 @@ Omit “100 penalty units”, substitute “300 penalty units”.
 
 Insert:
 
-          (5B)  A person must not import from a non‑Montreal Protocol country a product containing a stage‑2 scheduled substance.
+          (5B)  A person must not import from a non-Montreal Protocol country a product containing a stage-2 scheduled substance.
 
           (5C)  Subsection (5B) is a **_civil penalty provision_**.
 
@@ -10531,7 +10498,7 @@ Omit “100 penalty units”, substitute “300 penalty units”.
 
 Insert:
 
-          (2A)  A person must not import from a non‑Montreal Protocol country a product in the manufacture of which a stage‑1 scheduled substance was used.
+          (2A)  A person must not import from a non-Montreal Protocol country a product in the manufacture of which a stage-1 scheduled substance was used.
 
           (2B)  Subsection (2A) is a **_civil penalty provision_**.
 
@@ -10555,9 +10522,9 @@ Omit “100 penalty units”, substitute “300 penalty units”.
 
 Insert:
 
-       (3AB)  A person must not import from a non‑Montreal Protocol country a product in the manufacture of which a stage‑2 scheduled substance was used.
+        (3AB)  A person must not import from a non-Montreal Protocol country a product in the manufacture of which a stage-2 scheduled substance was used.
 
-       (3AC)  Subsection (3AB) is a **_civil penalty provision_**.
+        (3AC)  Subsection (3AB) is a **_civil penalty provision_**.
 
 Note 1:       Division 7 of Part VIII provides for pecuniary penalties for breaches of civil penalty provisions.
 
@@ -10657,7 +10624,7 @@ Insert:
 
           (2D)  A person must not contravene subsection (1B), (1BA) or (1C).
 
-          (2E)  Subsections (2C) and (2D) are **_civil penalty provisions_**.
+           (2E)  Subsections (2C) and (2D) are **_civil penalty provisions_**.
 
 Note 1:       Division 7 of Part VIII provides for pecuniary penalties for breaches of civil penalty provisions.
 
@@ -10797,9 +10764,9 @@ Offence
 
                      (c)  the person moves, alters or interferes with the thing specified in the notice.
 
-                    Penalty for contravention of this subsection:        Imprisonment for 2 years.
+                    Penalty for contravention of this subsection: Imprisonment for 2 years.
 
-##### <a id="51B"></a>51B  Persons assisting inspectors—monitoring powers
+##### <a id="51B"></a>51B  Persons assisting inspectors—monitoring powers
 
 Inspectors may be assisted by other persons
 
@@ -11579,7 +11546,7 @@ the court must assume, unless the contrary is proved, that the exercise of the p
 
                      (c)  the form of enforcement warrant is not the form of enforcement warrant that the inspector purported to execute.
 
-                    Penalty for contravention of this subsection:        Imprisonment for 2 years.
+                    Penalty for contravention of this subsection: Imprisonment for 2 years.
 
 #### Subdivision G—Powers of magistrates
 
@@ -11937,7 +11904,7 @@ Determining amount of pecuniary penalty
 
                      (d)  whether the person has previously been found by a court in proceedings under this Act or the regulations to have engaged in any similar conduct; and
 
-                     (e)  the extent to which the person has co‑operated with the authorities; and
+                     (e)  the extent to which the person has co-operated with the authorities; and
 
                       (f)  if the person is a body corporate:
 
@@ -12217,7 +12184,7 @@ Repeal the paragraph, substitute:
 
 Add “or an HCFC”.
 
-As at 29 March 2011 the amendments are not incorporated in this compilation.
+As at 25 November 2010 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -12265,51 +12232,51 @@ The following provisions commence on 18 May 2011 unless proclaimed earlier:
 
 ## 109  Transitional—declarations under subsection 44(3) of the _Ozone Protection and Synthetic Greenhouse Gas Management Act 1989_
 
-(1)       This item applies to a declaration that:
+(1)        This item applies to a declaration that:
 
                      (a)  was made under subsection 44(3) of the _Ozone Protection and Synthetic Greenhouse Gas Management Act 1989_; and
 
                      (b)  was in force immediately before the commencement of this item.
 
-(2)       The declaration has effect, after the commencement of this item, as if a reference in the declaration to subsection 44(1) of that Act included a reference to subsection 44(2A) of that Act as amended by this Schedule.
+(2)        The declaration has effect, after the commencement of this item, as if a reference in the declaration to subsection 44(1) of that Act included a reference to subsection 44(2A) of that Act as amended by this Schedule.
 
 ## 110  Transitional—declarations under subsection 44(6) of the _Ozone Protection and Synthetic Greenhouse Gas Management Act 1989_
 
-(1)       This item applies to a declaration that:
+(1)        This item applies to a declaration that:
 
                      (a)  was made under subsection 44(6) of the _Ozone Protection and Synthetic Greenhouse Gas Management Act 1989_; and
 
                      (b)  was in force immediately before the commencement of this item.
 
-(2)       The declaration has effect, after the commencement of this item, as if a reference in the declaration to subsection 44(5) of that Act included a reference to subsection 44(5B) of that Act as amended by this Schedule.
+(2)        The declaration has effect, after the commencement of this item, as if a reference in the declaration to subsection 44(5) of that Act included a reference to subsection 44(5B) of that Act as amended by this Schedule.
 
 ## 111  Transitional—declarations under subsection 45(3) of the _Ozone Protection and Synthetic Greenhouse Gas Management Act 1989_
 
-(1)       This item applies to a declaration that:
+(1)        This item applies to a declaration that:
 
                      (a)  was made under subsection 45(3) of the _Ozone Protection and Synthetic Greenhouse Gas Management Act 1989_; and
 
                      (b)  was in force immediately before the commencement of this item.
 
-(2)       The declaration has effect, after the commencement of this item, as if a reference in the declaration to subsection 45(1) of that Act included a reference to subsection 45(2A) of that Act as amended by this Schedule.
+(2)        The declaration has effect, after the commencement of this item, as if a reference in the declaration to subsection 45(1) of that Act included a reference to subsection 45(2A) of that Act as amended by this Schedule.
 
 ## 112  Transitional—declarations under subsection 45(3B) of the _Ozone Protection and Synthetic Greenhouse Gas Management Act 1989_
 
-(1)       This item applies to a declaration that:
+(1)        This item applies to a declaration that:
 
                      (a)  was made under subsection 45(3B) of the _Ozone Protection and Synthetic Greenhouse Gas Management Act 1989_; and
 
                      (b)  was in force immediately before the commencement of this item.
 
-(2)       The declaration has effect, after the commencement of this item, as if a reference in the declaration to subsection 45(3A) of that Act included a reference to subsection 45(3AB) of that Act as amended by this Schedule.
+(2)        The declaration has effect, after the commencement of this item, as if a reference in the declaration to subsection 45(3A) of that Act included a reference to subsection 45(3AB) of that Act as amended by this Schedule.
 
 ## 113  Application—reports under section 46 of the _Ozone Protection and Synthetic Greenhouse Gas Management Act 1989_
 
 The amendments of section 46 of the _Ozone Protection and Synthetic Greenhouse Gas Management Act 1989_ made by this Schedule apply in relation to a quarter starting after the commencement of this item.
 
-## 114  Application—licence periods of pre‑charged equipment licences
+## 114  Application—licence periods of pre-charged equipment licences
 
-The amendments of section 19 of the _Ozone Protection and Synthetic Greenhouse Gas Management Act 1989_ made by this Schedule apply in relation to a pre‑charged equipment licence granted after the commencement of this item.
+The amendments of section 19 of the _Ozone Protection and Synthetic Greenhouse Gas Management Act 1989_ made by this Schedule apply in relation to a pre-charged equipment licence granted after the commencement of this item.
 
 ## 115  Application—appointment of inspectors
 
@@ -12317,7 +12284,7 @@ Subsection 49(3) of the _Ozone Protection and Synthetic Greenhouse Gas Managemen
 
 ## 116  Transitional—books, records or documents seized, removed or produced before commencement
 
-(1)       This item applies to a book, record or document that was:
+(1)        This item applies to a book, record or document that was:
 
                      (a)  removed from premises under subsection 51(1) of the _Ozone Protection and Synthetic Greenhouse Gas Management Act 1989_; or
 
@@ -12327,13 +12294,13 @@ Subsection 49(3) of the _Ozone Protection and Synthetic Greenhouse Gas Managemen
 
 before the commencement of this item.
 
-(2)       Despite the repeal of section 55 of the _Ozone Protection and Synthetic Greenhouse Gas Management Act 1989_ by this Schedule, that section continues to apply to the book, record or document, as if that repeal had not happened.
+(2)        Despite the repeal of section 55 of the _Ozone Protection and Synthetic Greenhouse Gas Management Act 1989_ by this Schedule, that section continues to apply to the book, record or document, as if that repeal had not happened.
 
 ## 117  Transitional—things seized before commencement
 
-(1)       This item applies to a thing that was seized under section 52 before the commencement of this item.
+(1)        This item applies to a thing that was seized under section 52 before the commencement of this item.
 
-(2)       Despite the repeal of subsections 52(6) and (7) of the _Ozone Protection and Synthetic Greenhouse Gas Management Act 1989_ by this Schedule, those subsections continue to apply to the thing, as if that repeal had not happened.
+(2)        Despite the repeal of subsections 52(6) and (7) of the _Ozone Protection and Synthetic Greenhouse Gas Management Act 1989_ by this Schedule, those subsections continue to apply to the thing, as if that repeal had not happened.
 
 ## 118  Transitional—forfeitable goods
 
