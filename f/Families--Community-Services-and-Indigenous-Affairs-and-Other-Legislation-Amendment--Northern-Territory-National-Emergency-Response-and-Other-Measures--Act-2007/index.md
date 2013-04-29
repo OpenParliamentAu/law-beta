@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2011C00065/Html/FamiliesCommServIndAffLegAmNTNatEmergResOtherMeas2007_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00484/Html/FamiliesCommServIndAffLegAmNTNatEmergResOtherMeas2007_image001.gif)
 
 # Families, Community Services and Indigenous Affairs and Other Legislation Amendment (Northern Territory National Emergency Response and Other Measures) Act 2007
 
 **Act No. 128 of 2007 as amended**
 
-This compilation was prepared on 12 January 2011
+This compilation was prepared on 12 July 2010
  taking into account amendments up to Act No. 93 of 2010
 
 The text of any of those amendments not in force
@@ -24,45 +24,49 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [3](#3).            Northern Territory (Self-Government) Act
 
+[4](#4).            Racial Discrimination Act
+
+[5](#5).            Some Northern Territory laws excluded
+
 [6](#6).            Schedule(s)
 
 **Schedule 1—Prohibited material** 
 
-Classification (Publications, Films and Computer Games) Act 1995              4
+Classification (Publications, Films and Computer Games) Act 1995              5
 
 **Schedule 2—Law enforcement** 
 
-Part 1—Australian Crime Commission                                                                   13
+Part 1—Australian Crime Commission                                                                   14
 
-Division 1—Indigenous violence or child abuse                                                  13
+Division 1—Indigenous violence or child abuse                                                  14
 
-Australian Crime Commission Act 2002                                                               13
+Australian Crime Commission Act 2002                                                               14
 
-Division 2—Information etc. from State agencies                                                 15
+Division 2—Information etc. from State agencies                                                 16
 
-Australian Crime Commission Act 2002                                                               15
+Australian Crime Commission Act 2002                                                               16
 
-Division 3—Appointment of examiners                                                                  20
+Division 3—Appointment of examiners                                                                  21
 
-Australian Crime Commission Act 2002                                                               20
+Australian Crime Commission Act 2002                                                               21
 
-Part 2—Australian Federal Police                                                                            21
+Part 2—Australian Federal Police                                                                            22
 
-Australian Federal Police Act 1979                                                                      21
+Australian Federal Police Act 1979                                                                      22
 
 **Schedule 3—Infrastructure** 
 
-Aboriginal Land Rights (Northern Territory) Act 1976                                    22
+Aboriginal Land Rights (Northern Territory) Act 1976                                    23
 
 **Schedule 4—Access to Aboriginal land** 
 
-Aboriginal Land Rights (Northern Territory) Act 1976                                    37
+Aboriginal Land Rights (Northern Territory) Act 1976                                    38
 
 **Schedule 5—Miscellaneous** 
 
-Aboriginal Land Rights (Northern Territory) Act 1976                                  152
+Aboriginal Land Rights (Northern Territory) Act 1976                                  153
 
-Northern Territory National Emergency Response Act 2007                         154
+Northern Territory National Emergency Response Act 2007                         155
 
 **Notes** 
 
@@ -257,6 +261,42 @@ Note:          This table relates only to the provisions of th
 ##### <a id="3"></a>3  Northern Territory (Self-Government) Act
 
                    Section 49 of the _Northern Territory (Self-Government) Act 1978_ does not apply in relation to the provisions of this Act.
+
+##### <a id="4"></a>4  Racial Discrimination Act
+
+             (1)  Subject to subsection (3), the provisions of this Act, and any acts done under or for the purposes of those provisions, are, for the purposes of the _Racial Discrimination Act 1975_, special measures.
+
+             (2)  Subject to subsection (3), the provisions of this Act, and any acts done under or for the purposes of those provisions, are excluded from the operation of Part II of the _Racial Discrimination Act 1975_.
+
+             (3)  Subsections (1) and (2) do not apply to amendments or repeals made by Division 2 or 3 of Part 1 of Schedule 2 (law enforcement) to this Act.
+
+             (4)  In this section, a reference to:
+
+                     (a)  any acts done includes a reference to any failure to do an act; and
+
+                     (b)  provisions of this Act includes a reference to provisions of other Acts that are inserted, amended or repealed by the provisions of this Act.
+
+##### <a id="5"></a>5  Some Northern Territory laws excluded
+
+             (1)  Subject to subsections (3) and (4), the provisions of this Act are intended to apply to the exclusion of a law of the Northern Territory that deals with discrimination so far as it would otherwise apply.
+
+             (2)  Subject to subsections (3) and (4), any acts done under or for the purposes of the provisions of this Act have effect despite any law of the Northern Territory that deals with discrimination.
+
+Northern Territory laws that are not excluded
+
+             (3)  Subsections (1) and (2) do not apply to a law of the Northern Territory so far as the Minister determines, by legislative instrument, that the law is a law to which subsections (1) and (2) do not apply.
+
+Provisions of this Act that are not excluded
+
+             (4)  Subsections (1) and (2) do not apply to amendments or repeals made by Division 2 or 3 of Part 1 of Schedule 2 (law enforcement) to this Act.
+
+Interpretation
+
+             (5)  In this section, a reference to:
+
+                     (a)  any acts done includes a reference to any failure to do an act; and
+
+                     (b)  provisions of this Act includes a reference to provisions of other Acts that are inserted, amended or repealed by the provisions of this Act.
 
 ##### <a id="6"></a>6  Schedule(s)
 
@@ -1240,7 +1280,7 @@ No other section 19 leases to be granted
 
 the Land Trust concerned must not grant a lease under section 19 of the construction area unless the lease is of the kind referred to in subsection (1) or (3) of this section.
 
-##### <a id="20ZO"></a>20ZO  Effect of leases on statutory rights
+##### <a id="20ZO"></a>20ZO  Effect of leases on statutory rights
 
 Section 19 leases
 
@@ -2648,7 +2688,7 @@ _Note:       See paragraph 70A(2)(a)._
   </td>
 </tr></table>
 
-##### <a id="4"></a>4  Amoonguna
+##### <a id="4"></a>4  Amoonguna
 
                    All that area of land contained within the 2 separate areas of land outlined below having a total area of approximately 3.390 square kilometres, to the extent that it is Aboriginal land within the meaning of paragraph (a) of the definition of **_Aboriginal land_** in subsection 3(1), being:
 
@@ -21257,50 +21297,34 @@ of Assent</div>
     <div>29 June 2010</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1, 4): 31 Dec 2010</div>
+    <div>Schedule 1 (items 1, 4): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 1 (item 4)</div>
   </td>
 </tr></table>
 
-## Table of Amendments
+### Note 2
 
-<table>
-<colgroup>
-  <col width="34%">
-  <col width="66%">
-</colgroup>
+_Social Security and Other Legislation Amendment (Welfare Reform and Reinstatement of Racial Discrimination Act) Act 2010 (No. 93, 2010)_
 
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>Ss. 4, 5</div>
-  </td>
-  <td>
-    <div>rep. No. 93, 2010</div>
-  </td>
-</tr></table>
+The following amendment commences at the end of 31 December 2010:
+
+## Schedule 1
+
+## 1  Sections 4 and 5
+
+Repeal the sections.
+
+As at 12 July 2010 the amendment is not incorporated in this compilation.
 
 ## Table A
 
 ### Application, saving or transitional provisions
 
 _Social Security and Other Legislation Amendment (Welfare Reform and Reinstatement of Racial Discrimination Act) Act 2010 (No. 93, 2010)_
+
+The following provision commences at the end of 31 December 2010:
 
 ## Schedule 1
 
