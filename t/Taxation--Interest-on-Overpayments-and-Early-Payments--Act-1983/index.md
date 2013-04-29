@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00637/Html/8cb1788c-96d1-4080-93df-118464cb4d6d_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00627/Html/e8ac00c8-1ace-46e3-b905-aa8ae00a4792_files/image001.gif)
 
 # Taxation (Interest on Overpayments and Early Payments) Act 1983
 
 **Act No. 12 of 1983 as amended**
 
-This compilation was prepared on 28 August 2012
+This compilation was prepared on 30 June 2012
  taking into account amendments up to Act No. 99 of 2012
 
 The text of any of those amendments not in force
@@ -196,15 +196,13 @@ Note:       Section 18‑130 in Schedule 1 to the _Taxation Admi
 
                     (ca)  in a case where the expression is used in relation to relevant tax of a kind referred to in items 5 to 50 of the table in section 3C—a decision of the Commissioner to amend an assessment made in relation to a taxpayer reducing the liability of the taxpayer to tax other than a decision to give effect to a determination under section 292‑467 of the _Income Tax Assessment Act 1997_; or
 
-                (caaa)  in a case where the expression is used in relation to relevant tax of a kind referred to in item 60 of the table in section 3C—a decision of the Commissioner to give a notice under subsection 282‑18(4) of the _Private Health Insurance Act 2007_; or
-
                    (cb)  in a case where the expression is used in relation to fringe benefits tax imposed by the _Fringe Benefits Tax Act 1986_—a decision of the Commissioner to amend an assessment made in relation to an employer reducing the liability of the employer to tax, other than:
 
                               (i)  a decision to give effect to an application or request by or on behalf of the employer for an amendment of the assessment; or
 
                              (ii)  a decision made in consequence of another decision of the Commissioner to amend another assessment (whether of or by the employer or of another person), being another decision that was made to give effect to an application or request by or on behalf of the employer or the other person, as the case may be, for the amendment of the other assessment; or
 
-                     (d)  in a case where the expression is used in relation to relevant tax of a kind referred to in item 120 or 160 of the table in section 3C—a decision of the Commissioner to amend an assessment made in relation to a person reducing the liability of the person to tax, other than:
+                     (d)  in a case where the expression is used in relation to relevant tax of a kind referred to in item 120 of the table in section 3C—a decision of the Commissioner to amend an assessment made in relation to a person reducing the liability of the person to tax, other than:
 
                               (i)  a decision to give effect to an application or request by or on behalf of the person for an amendment of the assessment; or
 
@@ -318,7 +316,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 ##### <a id="3C"></a>3C  Meaning of _relevant tax_
 
-             (1)  In this Act:
+                   In this Act:
 
                     <a name="relev-tax"></a>**_relevant tax_** means any of these:
 
@@ -407,16 +405,6 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
   </td>
   <td>
     <div>Withholding tax as defined in subsection 6(1) of the Tax Act</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>60</div>
-  </td>
-  <td>
-    <div>Liabilities under section 282‑18 of the
-      <i>Private Health Insurance Act 2007</i>
-    </div>
   </td>
 </tr>
 <tr>
@@ -529,25 +517,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
       <i>A New Tax System (Goods and Services Tax) Act 1999</i>
     </div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>160</div>
-  </td>
-  <td>
-    <div>assessed MRRT within the meaning of the
-      <i>Minerals Resource Rent Tax Act 2012</i>
-    </div>
-  </td>
 </tr></table>
-
-             (2)  Without limiting subsection (1), a reference in item 160 of the table to assessed MRRT includes:
-
-                     (a)  any general interest charge due and payable in relation to such an amount; and
-
-                     (b)  a quarterly MRRT instalment that is due under section 115‑25 in Schedule 1 to the _Taxation Administration Act 1953_; and
-
-                     (c)  any general interest charge due and payable in relation to such an instalment.
 
 ## Part II—Administration
 
@@ -653,8 +623,6 @@ then interest is not payable under this Part on the whole or part of the payment
 
                             (iv)  an FS assessment debt that is notified in the notice of assessment;
 
-                          (iva)  a liability under section 282‑18 of the _Private Health Insurance Act 2007_ that is notified in the notice of assessment;
-
                              (v)  interest for the year of income payable by the person under section 102AAM of the Tax Act immediately before the notice crediting; and
 
                      (e)  the notice crediting occurs more than 30 days or more after the day on which the person furnishes the return of income;
@@ -680,8 +648,6 @@ Note:         This is the amount payable under the assessment fo
                             (iii)  a compulsory repayment amount, worked out by reference to the person’s taxable income of the year of income, payable by the person immediately before the post‑notice crediting;
 
                             (iv)  an FS assessment debt, worked out by reference to the person’s taxable income of the year of income, payable by the person immediately before the post‑notice crediting;
-
-                          (iva)  a liability under section 282‑18 of the _Private Health Insurance Act 2007_, payable by the person immediately before the post‑notice crediting;
 
                              (v)  interest for the year of income payable by the person under section 102AAM of the Tax Act immediately before the post‑notice crediting;
 
@@ -1022,26 +988,6 @@ the amount so refunded or applied shall, for the purposes of section 10, be at
 the amount paid by the company shall be taken to have been applied, at the offset time, against a liability of the company to the Commonwealth as a result of that decision.
 
              (7)  In subsection (6), **_franking deficit tax_** and **_tax offset_** have the meanings given by subsection 995‑1(1) of the _Income Tax Assessment Act 1997_.
-
-Liabilities under section 282‑18 of the Private Health Insurance Act 2007
-
-             (8)  For the purposes of this section, if:
-
-                     (a)  the Commissioner gives a notice to a person under subsection 282‑18(4) of the _Private Health Insurance Act 2007_; and
-
-                     (b)  the notice states that the person is liable to pay an amount to the Commonwealth under section 282‑18 of that Act; and
-
-                     (c)  the person pays the stated amount to the Commissioner; and
-
-                     (d)  the stated amount exceeds the amount the person is liable to pay under that section; and
-
-                     (e)  the excess is refunded to the person or applied against any liability of the person to the Commonwealth;
-
-treat the excess as being overpaid by the person, and so refunded or applied, as a result of the decision of the Commissioner to give the notice.
-
-Note 1:       The decision of the Commissioner to give the notice is a decision to which this Act applies. See section 3.
-
-Note 2:       Liabilities under section 282‑18 of the _Private Health Insurance Act 2007_ are relevant tax. See section 3C.
 
 ##### <a id="10"></a>10  Amount of interest 
 
@@ -2546,7 +2492,7 @@ Schedule 16 (items 20–37): <i>(v)</i></div>
     <div>29 Mar 2012</div>
   </td>
   <td>
-    <div>Schedule 3 (items 86–89): 1 July 2012 ( <i>see</i>s. 2(1))</div>
+    <div>Schedule 3 (items 86–89): \[ <i>see</i>s. 2(1) and Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -2563,7 +2509,7 @@ Schedule 16 (items 20–37): <i>(v)</i></div>
     <div>4 Apr 2012</div>
   </td>
   <td>
-    <div>Schedule 1 (items 43–47, 48(1)): 1 July 2012</div>
+    <div>Schedule 1 (items 43–47, 48(1)): \[ <i>see</i>Note 3 and Table A]</div>
   </td>
   <td>
     <div>Sch. 1 (item 48(1)) \[ <i>see</i>Table A]</div>
@@ -3104,7 +3050,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 123, 1984; Nos. 4, 47 and 49, 1985; Nos. 41, 46, 48 and 154, 1986; Nos. 58, 62 and 145, 1987; No. 2, 1989; No. 60, 1990; No. 216, 1991; Nos. 118 and 138, 1992; Nos. 116 and 118, 1993; Nos. 138 and 181, 1994; Nos. 169 and 170, 1995; Nos. 39 and 152, 1997; Nos. 45, 47 and 85, 1998; No. 11, 1999 (as am. by No. 178, 1999); Nos. 118, 176, 178 and 179, 1999; Nos. 92, 106 and 156, 2000; No. 170, 2001; Nos. 123 and 150, 2003; No. 75, 2005; Nos. 58, 73, 100 and 101, 2006; No. 143, 2007; Nos. 14 and 42, 2009; No. 56, 2010; Nos. 12, 14, 26, 75 and 99, 2012</div>
+    <div>am. No. 123, 1984; Nos. 4, 47 and 49, 1985; Nos. 41, 46, 48 and 154, 1986; Nos. 58, 62 and 145, 1987; No. 2, 1989; No. 60, 1990; No. 216, 1991; Nos. 118 and 138, 1992; Nos. 116 and 118, 1993; Nos. 138 and 181, 1994; Nos. 169 and 170, 1995; Nos. 39 and 152, 1997; Nos. 45, 47 and 85, 1998; No. 11, 1999 (as am. by No. 178, 1999); Nos. 118, 176, 178 and 179, 1999; Nos. 92, 106 and 156, 2000; No. 170, 2001; Nos. 123 and 150, 2003; No. 75, 2005; Nos. 58, 73, 100 and 101, 2006; No. 143, 2007; Nos. 14 and 42, 2009; No. 56, 2010; Nos. 12, 75 and 99, 2012</div>
   </td>
 </tr>
 <tr>
@@ -3144,7 +3090,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div></div>
   </td>
   <td>
-    <div>am. Nos. 100 and 101, 2006; No. 56, 2010; No. 41, 2011; Nos. 14, 26 and 99, 2012</div>
+    <div>am. Nos. 100 and 101, 2006; No. 56, 2010; No. 41, 2011; No. 99, 2012</div>
   </td>
 </tr>
 <tr>
@@ -3296,7 +3242,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div></div>
   </td>
   <td>
-    <div>am. No. 179, 1999; No. 170, 2001; No. 150, 2003; No. 101, 2006; No. 56, 2010; No. 26, 2012</div>
+    <div>am. No. 179, 1999; No. 170, 2001; No. 150, 2003; No. 101, 2006; No. 56, 2010</div>
   </td>
 </tr>
 <tr>
@@ -3672,7 +3618,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div>S. 9</div>
   </td>
   <td>
-    <div>am. No. 123, 1984; Nos. 58 and 61, 1987; No. 181, 1994; No. 43, 1996, No. 11, 1999; No. 101, 2006; No. 143, 2007; No. 14, 2009; No. 26, 2012</div>
+    <div>am. No. 123, 1984; Nos. 58 and 61, 1987; No. 181, 1994; No. 43, 1996, No. 11, 1999; No. 101, 2006; No. 143, 2007; No. 14, 2009</div>
   </td>
 </tr>
 <tr>
@@ -3932,6 +3878,130 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
   </td>
 </tr></table>
 
+### Note 2
+
+_Minerals Resource Rent Tax (Consequential Amendments and Transitional Provisions) Act 2012 (No. 14, 2012)_
+
+The following amendments commence on 1 July 2012:
+
+## Schedule 3
+
+## 86  Subsection 3(1) (paragraph (d) of the definition of _decision to which this Act applies_)
+
+After “item 120”, insert “or 160”.
+
+## 87  Section 3C
+
+Before “In”, insert “(1)”.
+
+## 88  Section 3C (at the end of the table)
+
+Add:
+
+<table>
+<colgroup>
+  <col width="9%">
+  <col width="91%">
+</colgroup>
+
+<tr>
+  <td>
+    <div>160</div>
+  </td>
+  <td>
+    <div>assessed MRRT within the meaning of the
+      <i>Minerals Resource Rent Tax Act 2012</i>
+    </div>
+  </td>
+</tr></table>
+
+## 89  At the end of section 3C
+
+Add:
+
+             (2)  Without limiting subsection (1), a reference in item 160 of the table to assessed MRRT includes:
+
+                     (a)  any general interest charge due and payable in relation to such an amount; and
+
+                     (b)  a quarterly MRRT instalment that is due under section 115‑25 in Schedule 1 to the _Taxation Administration Act 1953_; and
+
+                     (c)  any general interest charge due and payable in relation to such an instalment.
+
+As at 30 June 2012 the amendments are not incorporated in this compilation.
+
+### Note 3
+
+_Fairer Private Health Insurance Incentives Act 2012 (No. 26, 2012)_
+
+The following amendments commence on 1 July 2012:
+
+## Schedule 1
+
+## 43  Subsection 3(1) (after paragraph (ca) of the definition of _decision to which this Act applies_)
+
+Insert:
+
+                (caaa)  in a case where the expression is used in relation to relevant tax of a kind referred to in item 60 of the table in section 3C—a decision of the Commissioner to give a notice under subsection 282‑18(4) of the _Private Health Insurance Act 2007_; or
+
+## 44  Section 3C (after item 55 of the table)
+
+Insert:
+
+<table>
+<colgroup>
+  <col width="10%">
+  <col width="90%">
+</colgroup>
+
+<tr>
+  <td>
+    <div>60</div>
+  </td>
+  <td>
+    <div>Liabilities under section 282‑18 of the
+      <i>Private Health Insurance Act 2007</i>
+    </div>
+  </td>
+</tr></table>
+
+## 45  After subparagraph 8E(1)(d)(iv)
+
+Insert:
+
+                          (iva)  a liability under section 282‑18 of the _Private Health Insurance Act 2007_ that is notified in the notice of assessment;
+
+## 46  After subparagraph 8E(2)(d)(iv)
+
+Insert:
+
+                          (iva)  a liability under section 282‑18 of the _Private Health Insurance Act 2007_, payable by the person immediately before the post‑notice crediting;
+
+## 47  At the end of section 9
+
+Add:
+
+Liabilities under section 282‑18 of the Private Health Insurance Act 2007
+
+             (8)  For the purposes of this section, if:
+
+                     (a)  the Commissioner gives a notice to a person under subsection 282‑18(4) of the _Private Health Insurance Act 2007_; and
+
+                     (b)  the notice states that the person is liable to pay an amount to the Commonwealth under section 282‑18 of that Act; and
+
+                     (c)  the person pays the stated amount to the Commissioner; and
+
+                     (d)  the stated amount exceeds the amount the person is liable to pay under that section; and
+
+                     (e)  the excess is refunded to the person or applied against any liability of the person to the Commonwealth;
+
+treat the excess as being overpaid by the person, and so refunded or applied, as a result of the decision of the Commissioner to give the notice.
+
+Note 1:       The decision of the Commissioner to give the notice is a decision to which this Act applies. See section 3.
+
+Note 2:       Liabilities under section 282‑18 of the _Private Health Insurance Act 2007_ are relevant tax. See section 3C.
+
+As at 30 June 2012 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -3940,7 +4010,7 @@ _Taxation Laws Amendment Act (No. 3) 1999 (No. 11, 1999)_
 
 ## Schedule 1  
 
-## 398  Application
+## 398  Application
 
 (1)       This item applies to amendments made by items 1 to 3, 11, 12, 14, 18 to 27, 29, 37 to 42, 69 to 75, 77 to 80, 88 to 101, 107, 111, 113, 118, 120, 121, 127, 128, 130, 140, 148, 149, 153, 156, 158, 161 to 169, 175, 178, 179, 185, 187 to 189, 191, 192, 195, 200 to 204, 212, 214 to 217, 221, 223, 225, 226 to 228, 234, 236 to 242, 245, 252, 254 to 278, 280, 281, 296 to 298, 301, 304, 306, 309, 310, 314, 315 to 320, 322 to 328, 331, 332 to 335, 337 to 341, 344, 345, 346, 348, 352, 355 to 360, 373, 375 to 377, 379 to 385, 387 to 394, 396 and 397.
 
@@ -4280,6 +4350,8 @@ The amendments made by this Part apply to income years starting on or after 1 
 * * *
 
 _Fairer Private Health Insurance Incentives Act 2012 (No. 26, 2012)_
+
+The following provision commences on 1 July 2012:
 
 ## Schedule 1
 
