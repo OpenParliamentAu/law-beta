@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00953/Html/f5b1c8a5-7015-479c-a663-18f9d6456424_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00458/Html/9cc944c1-7058-48f0-a22f-241f4a512f16_files/image001.gif)
 
 # Disability Services Act 1986
 
 **Act No. 129 of 1986 as amended**
 
-This compilation was prepared on 14 December 2011
- taking into account amendments up to Act No. 145 of 2011
+This compilation was prepared on 1 July 2011
+ taking into account amendments up to Act No. 32 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -44,9 +44,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [6C](#6C).         Accrediting authority may grant accreditation to certification bodies
 
-[6D](#6D).         Accredited certification body may give certificates of compliance to providers of employment services
-
-[6DA](#6DA).      Accredited certification body may give certificates of compliance to providers of advocacy services
+[6D](#6D).         Accredited certification body may give certificates of compliance to States or eligible organisations
 
 [6E](#6E).          Accredited certification body may give certificates of compliance to providers of rehabilitation programs
 
@@ -61,8 +59,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [9](#9).            Approval of additional eligible services
 
 [9A](#9A).         Approval of additional employment services
-
-[9B](#9B).         Approval of additional advocacy services
 
     **Division 2—Grants for eligible services and research and development activities**
 
@@ -88,12 +84,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [12AE](#12AE).     Ancillary provisions relating to grants in respect of employment services
 
-    **Division 3—Grants for advocacy services**
-
-[13](#13).          Financial assistance for advocacy services
-
-[14](#14).          Ancillary provisions relating to grants in respect of advocacy services
-
     **Division 3A—Disability Standards Review Panels**
 
 [14B](#14B).       Establishment
@@ -110,7 +100,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [14G](#14G).       Declaration of failure to meet standards
 
-[14GA](#14GA).    Consequences of failure to hold certificate
+[14GA](#14GA).    Declaration of failure to hold certificate
 
 [14H](#14H).       Certain matters to occur before Minister makes a declaration or takes action
 
@@ -118,7 +108,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
     **Division 4—Miscellaneous**
 
-[14K](#14K).       Review of services funded under Part II
+[14K](#14K).       Review of services funded under Division 2, or Subdivision A of Division 2A, of Part II
 
 [15](#15).          Agreements in respect of terms and conditions of grants
 
@@ -268,11 +258,9 @@ the guidelines take effect in the form so approved from the day on which that ot
 
                      (b)  disability employment standards to be observed in the provision of an employment service referred to in that Part; and
 
-                   (ba)  disability advocacy standards to be observed in the provision of an advocacy service referred to in that Part; and
-
                      (c)  rehabilitation program standards to be observed in the provision of rehabilitation programs referred to in Part III.
 
-             (2)  When the Minister determines disability employment standards under paragraph (1)(b), disability advocacy standards under paragraph (1)(ba) or rehabilitation program standards under paragraph (1)(c), the Minister must, by legislative instrument, also approve key performance indicators to be applied in assessing whether the standards have been observed.
+             (2)  When the Minister determines disability employment standards under paragraph (1)(b) or rehabilitation program standards under paragraph (1)(c), the Minister must, by legislative instrument, also approve key performance indicators to be applied in assessing whether the standards have been observed.
 
 ##### <a id="6"></a>6  Extension of Act to certain external Territories
 
@@ -290,7 +278,7 @@ the guidelines take effect in the form so approved from the day on which that ot
 
                     <a name="accrediting-author"></a>**_accrediting authority_** means an authority approved by the Secretary under section 6B for the purpose of granting accreditation to certification bodies.
 
-                    <a name="certif-complianc"></a>**_certificate of compliance_** has the meaning given by section 6D, 6DA or 6E, as the case requires.
+                    <a name="certif-complianc"></a>**_certificate of compliance_** has the meaning given by section 6D or 6E, as the case requires.
 
                     <a name="certif-bodi"></a>**_certification body_** means a body that carries out certifying functions.
 
@@ -300,11 +288,9 @@ the guidelines take effect in the form so approved from the day on which that ot
 
                               (i)  whether an employment service meets the disability employment standards; and
 
-                            (ia)  whether an advocacy service meets the disability advocacy standards; and
-
                              (ii)  whether the provision of rehabilitation programs meets the rehabilitation program standards; and
 
-                     (b)  giving certificates of compliance in respect of employment services or advocacy services, or in respect of the provision of rehabilitation programs, that meet the relevant standards.
+                     (b)  giving certificates of compliance in respect of employment services, or in respect of the provision of rehabilitation programs, that meet the relevant standards.
 
                     <a name="current-accredit"></a>**_current accreditation_** means an accreditation that has not been withdrawn.
 
@@ -344,7 +330,7 @@ the guidelines take effect in the form so approved from the day on which that ot
 
 whichever first occurs.
 
-##### <a id="6D"></a>6D  Accredited certification body may give certificates of compliance to providers of employment services
+##### <a id="6D"></a>6D  Accredited certification body may give certificates of compliance to States or eligible organisations
 
              (1)  If:
 
@@ -365,50 +351,6 @@ the accredited certification body must give to the State or organisation a certi
                      (b)  if the accredited certification body that gave the certificate ceases to be accredited—the end of the period of 3 months after the cessation;
 
 whichever first occurs.
-
-##### <a id="6DA"></a>6DA  Accredited certification body may give certificates of compliance to providers of advocacy services
-
-             (1)  If:
-
-                     (a)  an accredited certification body is requested by a State or eligible organisation to give the State or organisation a certificate under this section in respect of an advocacy service provided by the State or organisation; and
-
-                     (b)  the accredited certification body is satisfied that the service meets the disability advocacy standards;
-
-the accredited certification body must give to the State or organisation a certificate (a **_certificate of compliance_**) stating that the service meets those standards.
-
-Revocation of certificate
-
-             (2)  If:
-
-                     (a)  an accredited certification body has given a certificate of compliance to a State or eligible organisation in respect of an advocacy service; and
-
-                     (b)  the accredited certification body ceases to be satisfied that the service meets the disability advocacy standards;
-
-the accredited certification body must, by written notice given to the State or organisation, revoke the certificate.
-
-Notification to Secretary
-
-             (3)  If:
-
-                     (a)  an accredited certification body gives a certificate of compliance to a State or eligible organisation; or
-
-                     (b)  an accredited certification body revokes a certificate of compliance;
-
-the accredited certification body must, as soon as practicable, notify the Secretary in writing of the giving or revocation of the certificate and of its reasons for giving or revoking the certificate.
-
-Period certificate of compliance is in force
-
-             (4)  A certificate of compliance continues in force until:
-
-                     (a)  it is revoked; or
-
-                     (b)  if the accredited certification body that gave the certificate ceases to be accredited—the end of the period of 3 months after the cessation;
-
-whichever occurs first.
-
-Certificates are not legislative instruments
-
-             (5)  A certificate under subsection (1) is not a legislative instrument.
 
 ##### <a id="6E"></a>6E  Accredited certification body may give certificates of compliance to providers of rehabilitation programs
 
@@ -442,17 +384,19 @@ whichever first occurs.
 
                     <a name="accommod-support-servic"></a>**_accommodation support services_** means services to assist persons with disabilities to develop or maintain suitable residential arrangements in the community and, without limiting the generality of the foregoing, includes attendant care services, namely, services to persons with disabilities to assist them with personal administration, transport, mobility, transfers, personal hygiene, bathing, grooming, dressing, eating and drinking, and similar personal activities.
 
-                    <a name="advocaci-servic"></a>**_advocacy service_** means:
+                    <a name="advocaci-servic"></a>**_advocacy services_** means:
 
-                     (a)  a service that seeks to support persons with disabilities to exercise their rights and freedoms, being rights and freedoms recognised or declared by the Disabilities Convention, through:
+                     (a)  self‑advocacy services, namely, services to assist persons with disabilities to develop or maintain the personal skills and self‑confidence necessary to enable them to represent their own interests in the community;
 
-                              (i)  one‑to‑one support; or
+                     (b)  citizen‑advocacy services, namely, services to facilitate persons in the community to assist:
 
-                             (ii)  supporting them to advocate for themselves, whether individually, through a third party or on a group basis; or
+                              (i)  persons with disabilities; or
 
-                     (b)  a service that seeks to introduce and influence long‑term changes to ensure that the rights and freedoms of persons with disabilities, being rights and freedoms recognised or declared by the Disabilities Convention, are attained and upheld so as to positively affect the quality of their lives; or
+                             (ii)  the families of, and other persons who provide care for or assistance to, persons with disabilities;
 
-                     (c)  a service included in a class of services approved by the Minister under section 9B.
+                            to represent their interests in the community; or
+
+                     (c)  group‑advocacy services, namely, services to facilitate community organisations to represent the interests of groups of persons with disabilities.
 
                     <a name="applic-standard"></a>**_applicable standards_** for a service means:
 
@@ -467,12 +411,6 @@ whichever first occurs.
                      (b)  employment preparation, and employment and vocational training services; and
 
                      (c)  services to assist the transition of persons with disabilities from special education, or employment in supported work settings, to paid employment in the work‑force.
-
-                    <a name="disabl-convent"></a>**_Disabilities Convention_** means the Convention on the Rights of Persons with Disabilities done at New York on 13 December 2006.
-
-Note:          The text of the Convention is set out in Australian Treaty Series 2008 No. 12 (\[2008] ATS 12). In 2011, the text of a Convention in the Australian Treaty Series was accessible through the Australian Treaties Library on the AustLII website (www.austlii.edu.au).
-
-                    <a name="disabl-advocaci-standard"></a>**_disability advocacy standards_** means the standards determined by the Minister under paragraph 5A(1)(ba) in relation to the provision of an advocacy service.
 
                     <a name="disabl-employ-standard"></a>**_disability employment standards_** means the standards determined by the Minister under paragraph 5A(1)(b) in relation to the provision of an employment service.
 
@@ -491,6 +429,8 @@ Note:          The text of the Convention is set out in Austra
                     <a name="elig-servic"></a>**_eligible service_** means a service of any of the following kinds:
 
                      (a)  accommodation support services;
+
+                     (b)  advocacy services;
 
                      (c)  independent living training services;
 
@@ -623,14 +563,6 @@ and includes:
                      (a)  further the objects of this Act set out in section 3 and the principles and objectives formulated under section 5; and
 
                      (b)  comply with the guidelines formulated under section 5 that are applicable to the giving of approvals under this section.
-
-##### <a id="9B"></a>9B  Approval of additional advocacy services
-
-                   The Minister may, by legislative instrument, approve a class of services for the purposes of paragraph (c) of the definition of **_advocacy service_** in section 7 if the Minister is satisfied that the provision of a service included in that class of services would:
-
-                     (a)  further the objects of this Act set out in section 3 and the principles and objectives formulated under section 5; and
-
-                     (b)  further the implementation of the Disabilities Convention.
 
 ### Division 2—Grants for eligible services and research and development activities
 
@@ -920,117 +852,7 @@ whether or not the grant is still being received at the relevant time.
 
                             as a result of the application of the financial assistance or of the financial assistance and other money.
 
-             (4)  If a grant of financial assistance under this Division is to be paid in instalments, the instalments must be paid within 5 years after the approval of the making of the grant.
-
-### Division 3—Grants for advocacy services
-
-##### <a id="13"></a>13  Financial assistance for advocacy services
-
-             (1)  The Minister may approve:
-
-                     (a)  the making of a grant of financial assistance to a State in relation to the provision by the State of an advocacy service for persons included in the target group; or
-
-                     (b)  the making of a grant of financial assistance to an eligible organisation in relation to the provision by the organisation of an advocacy service for persons included in the target group.
-
-             (2)  However, the Minister must not approve the making of a grant under subsection (1) unless:
-
-                     (a)  the Minister is satisfied that the making of the grant would:
-
-                              (i)  further the objects of this Act set out in section 3 and the principles and objectives formulated under section 5; and
-
-                             (ii)  comply with the guidelines formulated under section 5 that are applicable to the making of grants under subsection (1); and
-
-                     (b)  either of the following applies:
-
-                              (i)  the State or organisation holds a current certificate of compliance in respect of the advocacy service;
-
-                             (ii)  the Minister has, under this section, specified a day by which the State or organisation must obtain a certificate of compliance in respect of the advocacy service and the State or organisation has given a written notice to the Minister stating its intention to seek to obtain such a certificate on or before that day.
-
-Ministerial determinations
-
-             (3)  The Minister may make a determination specifying a day for the purposes of subparagraph (2)(b)(ii). The day cannot be later than 18 months after the day on which the determination is made.
-
-             (4)  If subparagraph (2)(b)(ii) applies in respect of a grant, the Minister may vary the determination under subsection (3) to specify a later day. The later day cannot be later than 18 months after the day on which the grant is approved.
-
-Statutory conditions
-
-             (5)  A grant of financial assistance under this section to a State or eligible organisation in relation to the provision of an advocacy service is subject to the condition that the State or organisation holds a current certificate of compliance in respect of the service:
-
-                     (a)  if subparagraph (2)(b)(i) applies in respect of the grant—at all times during the period to which the grant relates; or
-
-                     (b)  if subparagraph (2)(b)(ii) applies in respect of the grant—at all times on and after:
-
-                              (i)  the day specified in relation to the service under whichever of subsections (3) and (4) applies; or
-
-                             (ii)  the day on which the State or organisation receives a certificate of compliance in respect of the service;
-
-                            whichever is the earlier, and before the end of the period to which the grant relates.
-
-Note:          See section 14 for other conditions.
-
-Approvals and determinations are not legislative instruments
-
-             (6)  The following are not legislative instruments:
-
-                     (a)  an approval under subsection (1);
-
-                     (b)  a determination under subsection (3).
-
-##### <a id="14"></a>14  Ancillary provisions relating to grants in respect of advocacy services
-
-             (1)  Without limiting subsection 13(1), the Minister may, under that subsection, approve the making of a grant of financial assistance, in relation to the provision of an advocacy service, about any of the following:
-
-                     (a)  recurrent expenditure incurred or to be incurred;
-
-                     (b)  the cost of acquiring land (with or without buildings);
-
-                     (c)  the cost of acquiring, erecting, altering or extending buildings;
-
-                     (d)  the cost of acquiring, altering or installing equipment.
-
-             (2)  If the Minister approves the making of a grant of financial assistance under subsection 13(1), the Minister must, subject to subsection (4) of this section and to the regulations:
-
-                     (a)  determine the amount of the financial assistance or the manner in which the amount of the financial assistance is to be worked out; and
-
-                     (b)  determine the time or times at which, and the instalments (if any) in which, the financial assistance is to be paid; and
-
-                     (c)  determine any other terms and conditions on which the financial assistance is granted.
-
-Examples of conditions
-
-             (3)  Without limiting paragraph (2)(c), the terms and conditions that may be determined include terms and conditions about any of the following:
-
-                     (a)  the purposes for which the financial assistance may be applied;
-
-                     (b)  the amounts to be applied by the State or organisation for those purposes or any other purpose, and the source of amounts to be so applied;
-
-                     (c)  the outcomes to be achieved by persons included in the target group by the provision of the advocacy service, and the rights of those persons in relation to the provision of the advocacy service or otherwise;
-
-                     (d)  the provision of information;
-
-                     (e)  the provision of certificates with respect to the fulfilment of terms and conditions;
-
-                      (f)  the repayment of financial assistance;
-
-                     (g)  the giving of security for the fulfilment of terms and conditions;
-
-                     (h)  the use and disposal of, and the recovery of amounts that under the terms and conditions are to be taken as representing the Commonwealth’s interest in:
-
-                              (i)  land acquired (with or without buildings); and
-
-                             (ii)  buildings acquired, erected, altered or extended; and
-
-                            (iii)  equipment acquired, altered or installed;
-
-                            as a result of the application of the financial assistance or of the financial assistance and other money.
-
-Instalment payments
-
-             (4)  If a grant of financial assistance under this Division is to be paid in instalments, the instalments must be paid within 5 years after the approval of the making of the grant.
-
-Determinations are not legislative instruments
-
-             (5)  A determination under subsection (2) is not a legislative instrument.
+             (4)  If a grant of financial assistance under this Part is to be paid in instalments, the instalments must be paid within 5 years after the approval of the making of the grant.
 
 ### Division 3A—Disability Standards Review Panels
 
@@ -1140,31 +962,33 @@ and, in either case, the organisation is not meeting the applicable standards in
 
              (4)  The Minister must provide a copy of the declaration to the eligible organisation concerned.
 
-##### <a id="14GA"></a>14GA  Consequences of failure to hold certificate
+##### <a id="14GA"></a>14GA  Declaration of failure to hold certificate
 
              (1)  This section applies if:
 
-                     (a)  an eligible organisation is receiving a grant of financial assistance in relation to the provision of an employment service or an advocacy service; and
+                     (a)  at any time (the **_relevant time_**) an eligible organisation is receiving a grant of financial assistance in respect of the provision of an employment service; and
 
-                     (b)  the organisation is in breach of the condition of the grant referred to in subsection 12AD(5) or 13(5), as the case requires.
+                     (b)  the relevant time is a time after the day determined by the Minister for the purposes of subparagraph 12AB(2)(b)(i) or 12AD(2)(b)(ii), as the case may be; and
+
+                     (c)  where the organisation received a certificate of compliance in respect of the service before that day—the relevant time is a time on or after the day on which the certificate was received; and
+
+                     (d)  at the relevant time the organisation does not hold a current certificate of compliance in respect of the service.
 
              (2)  The Minister may make a declaration:
 
-                     (a)  stating that the organisation is in breach of that condition of the grant; and
+                     (a)  stating that the organisation does not hold a current certificate of compliance in respect of the service and, consequently, is in breach of the condition of the grant in paragraph 12AB(4)(b) or subsection 12AD(5), as the case may be; and
 
-                     (b)  specifying the actions that will be taken as a result of that breach.
+                     (b)  specifying the actions that will be taken as a result of a failure to comply with the condition.
 
              (3)  The actions specified under paragraph (2)(b) may be either or both of the following:
 
-                     (a)  all or any of the actions that, under the terms and conditions of the grant of financial assistance, may be taken as a result of a breach of the condition referred to in subsection 12AD(5) or 13(5), as the case requires;
+                     (a)  all or any of the actions that, under the terms and conditions of the grant of financial assistance, may be taken as a result of the failure to comply with the condition specified under paragraph (2)(a);
 
                      (b)  action taken under section 14J.
 
              (4)  Actions of a kind referred to in subsection (3) may only be taken if they are specified under paragraph (2)(b).
 
              (5)  The Minister must provide a copy of the declaration to the eligible organisation concerned.
-
-             (6)  A declaration made under subsection (2) is not a legislative instrument.
 
 ##### <a id="14H"></a>14H  Certain matters to occur before Minister makes a declaration or takes action
 
@@ -1184,7 +1008,7 @@ and, in either case, the organisation is not meeting the applicable standards in
 
              (1)  If:
 
-                     (a)  an eligible organisation is receiving a grant of financial assistance under this Part in respect of the provision by it of an eligible service, an employment service or an advocacy service; and
+                     (a)  an eligible organisation is receiving a grant of financial assistance under this Part in respect of the provision by it of an eligible service or an employment service; and
 
                      (b)  the Minister has made a declaration under section 14G or 14GA in respect of the organisation’s provision of the service;
 
@@ -1204,9 +1028,21 @@ the Minister may make available to the public, in any way the Minister thinks fi
 
 ### Division 4—Miscellaneous
 
-##### <a id="14K"></a>14K  Review of services funded under Part II
+##### <a id="14K"></a>14K  Review of services funded under Division 2, or Subdivision A of Division 2A, of Part II
 
-                   The Minister must ensure that, at intervals of not more than 5 years, a review is conducted of the extent to which a State or an eligible organisation that has received a grant of financial assistance under this Part in respect of the provision of an eligible service, an employment service or an advocacy service has fulfiled the terms and conditions on which the grant was made.
+             (1)  The Minister must ensure that, at intervals of not more than 5 years, a review is conducted of the extent to which a State or an eligible organisation that has received a grant of financial assistance under this Part in respect of the provision of an eligible service or an employment service has fulfiled the terms and conditions on which the grant was made.
+
+             (2)  In conducting a review, particular attention must be paid to:
+
+                     (a)  the extent to which outcomes required by the terms and conditions have been achieved by those persons included in the target group who receive the service; and
+
+                     (b)  in relation to:
+
+                              (i)  an eligible service; or
+
+                             (ii)  an employment service, in so far as a transitional grant was made in respect of the service;
+
+                            the extent to which the State or eligible organisation complied with the applicable standards in respect of the provision of the service.
 
 ##### <a id="15"></a>15  Agreements in respect of terms and conditions of grants
 
@@ -1216,7 +1052,7 @@ the Minister may make available to the public, in any way the Minister thinks fi
 
              (4)  If:
 
-                     (a)  the Minister has made a declaration under section 14G or 14GA in respect of the provision, by an eligible organisation, of an eligible service, an employment service or an advocacy service; and
+                     (a)  the Minister has made a declaration under section 14G or 14GA in respect of the provision, by an eligible organisation, of an eligible service or an employment service; and
 
                      (b)  the Minister wishes to take action in respect of the eligible organisation’s failure to comply with the terms and conditions of the grant of financial assistance made in respect of the provision of the service;
 
@@ -1645,8 +1481,6 @@ a person may be required:
                      (c)  the power to give approvals under section 9; and
 
                     (ca)  the power to give approvals under section 9A; and
-
-                  (caa)  the power to give approvals under section 9B; and
 
                    (cb)  the power to make orders under section 14F; and
 
@@ -2133,7 +1967,7 @@ Remainder: Royal Assent</div>
     <div>22 Mar 2011</div>
   </td>
   <td>
-    <div>Schedule 7 (item 53): 19 Apr 2011</div>
+    <div>Schedule 7 (item 53): 19 Apr 2011</div>
   </td>
   <td>
     <div>—</div>
@@ -2154,24 +1988,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Social Security and Other Legislation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>145, 2011</div>
-  </td>
-  <td>
-    <div>29 Nov 2011</div>
-  </td>
-  <td>
-    <div>Schedule 4: 30 Nov 2011</div>
-  </td>
-  <td>
-    <div>Sch. 4 (items 
-24–26) \[ <i>see</i>Table A]</div>
   </td>
 </tr></table>
 
@@ -2483,7 +2299,7 @@ _(p)_     Subsection 2(1) (item 8) of the _Social Security and Family 
     <div></div>
   </td>
   <td>
-    <div>am. No. 108, 2006; No. 145, 2011</div>
+    <div>am. No. 108, 2006</div>
   </td>
 </tr>
 <tr>
@@ -2504,55 +2320,7 @@ _(p)_     Subsection 2(1) (item 8) of the _Social Security and Family 
 </tr>
 <tr>
   <td>
-    <div>S. 6A</div>
-  </td>
-  <td>
-    <div>ad. No. 28, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 145, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 6B, 6C</div>
-  </td>
-  <td>
-    <div>ad. No. 28, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 6D</div>
-  </td>
-  <td>
-    <div>am. No. 145, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6D</div>
-  </td>
-  <td>
-    <div>ad. No. 28, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6DA</div>
-  </td>
-  <td>
-    <div>ad. No. 145, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6E</div>
+    <div>Ss. 6A–6E</div>
   </td>
   <td>
     <div>ad. No. 28, 2002</div>
@@ -2579,7 +2347,7 @@ _(p)_     Subsection 2(1) (item 8) of the _Social Security and Family 
     <div>S. 7</div>
   </td>
   <td>
-    <div>am. No. 80, 1988; No. 141, 1990; No. 88, 1992; No. 28, 2002; No. 108, 2006; No. 145, 2011</div>
+    <div>am. No. 80, 1988; No. 141, 1990; No. 88, 1992; No. 28, 2002; No. 108, 2006</div>
   </td>
 </tr>
 <tr>
@@ -2624,31 +2392,7 @@ _(p)_     Subsection 2(1) (item 8) of the _Social Security and Family 
 </tr>
 <tr>
   <td>
-    <div>S. 9B</div>
-  </td>
-  <td>
-    <div>ad. No. 88, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 28, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 145, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9C</div>
+    <div>Ss. 9B, 9C</div>
   </td>
   <td>
     <div>ad. No. 88, 1992</div>
@@ -2760,28 +2504,10 @@ _(p)_     Subsection 2(1) (item 8) of the _Social Security and Family 
 </tr>
 <tr>
   <td>
-    <div></div>
+    <div>Heading to Div. 3 of Part II</div>
   </td>
   <td>
-    <div>am. No. 145, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 3 of 
-Part II</div>
-  </td>
-  <td>
-    <div>rs. No. 88, 1992 
-rep. No. 28, 2002</div>
+    <div>rs. No. 88, 1992</div>
   </td>
 </tr>
 <tr>
@@ -2789,7 +2515,7 @@ rep. No. 28, 2002</div>
     <div></div>
   </td>
   <td>
-    <div>ad. No. 145, 2011</div>
+    <div>rep. No. 28, 2002</div>
   </td>
 </tr>
 <tr>
@@ -2798,14 +2524,6 @@ rep. No. 28, 2002</div>
   </td>
   <td>
     <div>rep. No. 28, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 145, 2011</div>
   </td>
 </tr>
 <tr>
@@ -2842,14 +2560,6 @@ rep. No. 28, 2002</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 145, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 14</div>
   </td>
   <td>
@@ -2862,14 +2572,6 @@ rep. No. 28, 2002</div>
   </td>
   <td>
     <div>rep. No. 28, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 145, 2011</div>
   </td>
 </tr>
 <tr>
@@ -2962,8 +2664,7 @@ rep. No. 28, 2002</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 3B of 
-Part II</div>
+    <div>Heading to Div. 3B of Part II</div>
   </td>
   <td>
     <div>rs. No. 28, 2002</div>
@@ -2995,26 +2696,10 @@ Part II</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 14GA</div>
-  </td>
-  <td>
-    <div>am. No. 145, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 14GA</div>
   </td>
   <td>
     <div>ad. No. 28, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 145, 2011</div>
   </td>
 </tr>
 <tr>
@@ -3046,7 +2731,7 @@ Part II</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 76, 1993; No. 28, 2002; No. 145, 2011</div>
+    <div>am. No. 76, 1993; No. 28, 2002</div>
   </td>
 </tr>
 <tr>
@@ -3067,14 +2752,6 @@ Part II</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 145, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 14K</div>
   </td>
   <td>
@@ -3086,7 +2763,7 @@ Part II</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 28, 2002; No. 145, 2011</div>
+    <div>am. No. 28, 2002</div>
   </td>
 </tr>
 <tr>
@@ -3102,7 +2779,7 @@ Part II</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 28, 2002; No. 145, 2011</div>
+    <div>am. No. 28, 2002</div>
   </td>
 </tr>
 <tr>
@@ -3190,7 +2867,7 @@ Part II</div>
     <div>S. 22</div>
   </td>
   <td>
-    <div>am. Nos. 70 and 73, 1991; No. 88, 1992; Nos. 164 and 184, 1994; No. 1, 1996; No. 45, 1998; No. 28, 2002; No. 150, 2003; No. 65, 2007</div>
+    <div>am. Nos. 70 and 73, 1991; No. 88, 1992; Nos. 164 and 184,1994; No. 1, 1996; No. 45, 1998; No. 28, 2002; No. 150, 2003; No. 65, 2007</div>
   </td>
 </tr>
 <tr>
@@ -3286,7 +2963,7 @@ Part II</div>
     <div>S. 33</div>
   </td>
   <td>
-    <div>am. No. 88, 1992; No. 28, 2002; No. 65, 2007; No. 145, 2011</div>
+    <div>am. No. 88, 1992; No. 28, 2002; No. 65, 2007</div>
   </td>
 </tr>
 <tr>
@@ -3383,24 +3060,5 @@ Subsections 5(2), (3) and (4) of the _Disability Services Act 1986_ do not apply
                      (a)  that relate to Part III of that Act as amended by this Act; and
 
                      (b)  that are formulated under subsection 5(1) of that Act on or after the day on which this Act receives the Royal Assent and before 1 July 2007.
-
-* * *
-
-_Social Security and Other Legislation Amendment Act 2011
- (No. 145, 2011)_
-
-## Schedule 4
-
-## 24  Saving—accreditations
-
-The amendments made by items 4 and 5 do not affect the validity of an approval in force under section 6B, or an accreditation in force under section 6C, of the _Disability Services Act 1986_ immediately before the commencement of those items.
-
-## 25  Saving—existing grants in respect of advocacy services
-
-Despite the amendments and repeals made by this Schedule, the _Disability Services Act 1986_, as in force immediately before the commencement of this Schedule, continues to apply on and after that commencement in relation to grants of financial assistance approved before that commencement in respect of advocacy services.
-
-## 26  Saving—existing declarations of failure to hold certificate
-
-A declaration made under subsection 14GA(2) of the _Disability Services Act 1986_ before the commencement of this item has effect, on and after that commencement, as if it had been made under subsection 14GA(2) of that Act as amended by this Act.
 
  
