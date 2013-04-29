@@ -1,2825 +1,2690 @@
-<?xml:namespace prefix = v ns = "urn:schemas-microsoft-com:vml" /><v:shapetype id="_x0000_t75" coordsize="21600,21600" o:preferrelative="t" o:spt="75" filled="f" stroked="f" path=" m@4@5 l@4@11@9@11@9@5 xe"><v:stroke joinstyle="miter"></v:stroke><v:formulas><v:f eqn="if lineDrawn pixelLineWidth 0 "></v:f><v:f eqn="sum @0 1 0 "></v:f><v:f eqn="sum 0 0 @1 "></v:f><v:f eqn="prod @2 1 2 "></v:f><v:f eqn="prod @3 21600 pixelWidth "></v:f><v:f eqn="prod @3 21600 pixelHeight "></v:f><v:f eqn="sum @0 0 1 "></v:f><v:f eqn="prod @6 1 2 "></v:f><v:f eqn="prod @7 21600 pixelWidth "></v:f><v:f eqn="sum @8 21600 0 "></v:f><v:f eqn="prod @7 21600 pixelHeight "></v:f><v:f eqn="sum @10 21600 0 "></v:f></v:formulas><v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"></v:path><o:lock aspectratio="t" v:ext="edit"></o:lock></v:shapetype><v:shape id="_x0000_i1025" style="WIDTH: 114pt; HEIGHT: 84pt" type="#_x0000_t75" coordsize="21600,21600" fillcolor="winColor(17)"><v:imagedata o:title="" src="TextClothFootStratInvProg%201999_WD02_files/image001.png"></v:imagedata></v:shape>
+**
 
-# Textile, Clothing and Footwear Strategic Investment Program Act 1999
+###  TEXTILE, CLOTHING AND FOOTWEAR STRATEGIC INVESTMENT PROGRAM ACT 1999 
+**
 
-Act No. 182 of 1999 as amended 
 
-This compilation was prepared on <?xml:namespace prefix = st1 ns = "urn:schemas-microsoft-com:office:smarttags" /><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2004" day="17" month="12">17 December 2004</st1:date>
-taking into account amendments up to Act No. 146 of 2004
+**
 
-The text of any of those amendments not in force
-on that date is appended in the Notes section
+###  Compilation Information 
+**
 
-The operation of amendments that have been incorporated may be 
-affected by application provisions that are set out in the Notes section<o:p></o:p>
 
-Prepared by the Office of Legislative Drafting and Publishing,
-Attorney-General’s Department, <st1:city><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Canberra</st1:place></st1:city>
 
 
-# Contents
 
-**Part 1—Introduction<span style="mso-tab-count: 1">                                                                                                              </span>**
 
-[1](#1).            Short title [_see_ Note 1]<span style="mso-tab-count: 1 dotted">                                                                        </span>
 
-[2](#2).            Commencement [_see_ Note 1]<span style="mso-tab-count: 1 dotted">                                                               </span>
 
-[3](#3).            Simplified outline<span style="mso-tab-count: 1 dotted">                                                                                 </span>
 
-[4](#4).            Definitions<span style="mso-tab-count: 1 dotted">                                                                                           </span>
 
-[5](#5).            Continuity of partnerships<span style="mso-tab-count: 1 dotted">                                                                  </span>
+**
 
-[6](#6).            Crown to be bound<span style="mso-tab-count: 1 dotted">                                                                              </span>
+###  Long Title 
+**
+**
 
-[7](#7).            External Territories<span style="mso-tab-count: 1 dotted">                                                                              </span>
+###  TEXTILE, CLOTHING AND FOOTWEAR STRATEGIC INVESTMENT PROGRAM ACT 1999<part>Part 1&#151;Introduction </part>
+**
+###  TEXTILE, CLOTHING AND FOOTWEAR STRATEGIC INVESTMENT PROGRAM ACT 1999- SECT 1  Short title [_see_ Note 1] 
+<dl compact="">
 
-**Part 2—TCF (SIP) scheme<span style="mso-tab-count: 1">                                                                                                </span>** 
+		This Act may be cited as the _Textile, Clothing and Footwear Strategic Investment Program Act 1999_.
 
-    **Division 1A—Preliminary<span style="mso-tab-count: 1">                                                                                           </span>**
+ </dl>
+###  TEXTILE, CLOTHING AND FOOTWEAR STRATEGIC INVESTMENT PROGRAM ACT 1999- SECT 2  Commencement [_see_ Note 1] 
+<dl compact="">
 
-[7A](#7A).         Simplified outline<span style="mso-tab-count: 1 dotted">                                                                                 </span>
+		This Act commences on the day on which it receives the Royal Assent.
 
-[7B](#7B).         Definitions<span style="mso-tab-count: 1 dotted">                                                                                           </span>
+ </dl>
+###  TEXTILE, CLOTHING AND FOOTWEAR STRATEGIC INVESTMENT PROGRAM ACT 1999- SECT 3  Simplified outline 
+<dl compact="">
 
-    **Division 1—General provisions<span style="mso-tab-count: 1">                                                                              </span>**
+		The following is a simplified outline of this Act:
 
-[8](#8).            TCF (SIP) scheme<span style="mso-tab-count: 1 dotted">                                                                               </span>
+ </dl>
 
-[9](#9).            $700 million cap<span style="mso-tab-count: 1 dotted">                                                                                  </span>
 
-    **Division 2—General policy objectives for the grants provisions of the scheme<span style="mso-tab-count: 1">              </span>**
 
-[10](#10).          General policy objectives for the grants provisions of the scheme<span style="mso-tab-count: 1 dotted">     </span>
+TCF
+(SIP)
+scheme
 
-[11](#11).          Types of grants<span style="mso-tab-count: 1 dotted">                                                                                   </span>
 
-[12](#12).          Duration of scheme<span style="mso-tab-count: 1 dotted">                                                                              </span>
 
-[13](#13).          Grants to be made in arrears<span style="mso-tab-count: 1 dotted">                                                              </span>
 
-[14](#14).          Cap for grants in respect of TCF value-adding<span style="mso-tab-count: 1 dotted">                                 </span>
 
-[14A](#14A).       Alternative cap for certain grants in respect of TCF value-adding<span style="mso-tab-count: 1 dotted">    </span>
 
-[15](#15).          Grants cap based on eligible revenue and eligible start-up investment amount<span style="mso-tab-count: 1">       </span>
 
-    **Division 3—Registration for the purposes of the scheme<span style="mso-tab-count: 1">                      </span>**
 
-[16](#16).          Registration for the purposes of the scheme<span style="mso-tab-count: 1 dotted">                                     </span>
 
-    **Division 4—Strategic business plans and accounts<span style="mso-tab-count: 1">                                    </span>**
 
-[17](#17).          Strategic business plans<span style="mso-tab-count: 1 dotted">                                                                     </span>
 
-[18](#18).          Accounts<span style="mso-tab-count: 1 dotted">                                                                                            </span>
 
-    **Division 4A—Conditional grants<span style="mso-tab-count: 1">                                                                          </span>**
 
-[18A](#18A).       Conditional grants<span style="mso-tab-count: 1 dotted">                                                                              </span>
+###  TEXTILE, CLOTHING AND FOOTWEAR STRATEGIC INVESTMENT PROGRAM ACT 1999- SECT 4  Definitions 
+<dl compact="">
 
-[18B](#18B).       Operation of electronic equipment by authorised officers<span style="mso-tab-count: 1 dotted">                </span>
+		In this Act:
 
-[18C](#18C).       Operation of electronic equipment by experts<span style="mso-tab-count: 1 dotted">                                  </span>
+ </dl>
+<dl compact=""><dl compact="">
 
-[18D](#18D).       Pre-condition to operating electronic equipment<span style="mso-tab-count: 1 dotted">                               </span>
+_Australia_, when used in a geographical sense, includes all the
 
-[18E](#18E).        Compensation for damage to electronic equipment<span style="mso-tab-count: 1 dotted">                           </span>
+external Territories. _bounty_ means bounty to which paragraph 51(iii) of the Constitution applies. _claim_ means a claim for a grant. _designated industry program_ means a program or scheme that is:  </dl></dl>
 
-[18F](#18F).        Identity cards<span style="mso-tab-count: 1 dotted">                                                                                     </span>
+<center>Back to Top</center>
 
-    **Division 5—Other matters relating to the scheme<span style="mso-tab-count: 1">                                    </span>**
+<dl compact=""><dl compact=""><dl compact="">
 
-[19](#19).          Loans<span style="mso-tab-count: 1 dotted">                                                                                                 </span>
+<dt>(a)</dt><dd>administered by the Commonwealth; and</dd>
 
-[20](#20).          Advances on account of grants<span style="mso-tab-count: 1 dotted">                                                          </span>
+<dt>(b)</dt><dd>specified in the regulations.
 
-[21](#21).          Scheme may confer administrative powers on the Minister or the Secretary<span style="mso-tab-count: 1">         </span>
+</dd>
 
-[22](#22).          Reconsideration and review of decisions<span style="mso-tab-count: 1 dotted">                                           </span>
+</dl></dl></dl>
 
-[23](#23).          Statement to accompany notification of decisions<span style="mso-tab-count: 1 dotted">                            </span>
+<def><dl compact=""><dl compact="">
 
-[24](#24).          Guarantees relating to payment of scheme debts connected with grants<span style="mso-tab-count: 1">                </span>
+_entity_ has the same meaning as in the _Income Tax Assessment Act 1997_. _grant_ means a grant under the TCF (SIP) scheme. _importation into Australia_ has the same meaning as in section 50 of the _Customs Act 1901_. _income year_ has the same meaning as in the _Income Tax Assessment Act 1997_. _loan_ means a loan under the TCF (SIP) scheme. _manufacture_ includes make a physical or chemical transformation or conversion. _scheme debt_ means:  </dl></dl>
 
-[25](#25).          Guarantees relating to payment of scheme debts connected with loans<span style="mso-tab-count: 1">  </span>
+<dl compact=""><dl compact=""><dl compact="">
 
-[26](#26).          Non-arm’s length transactions<span style="mso-tab-count: 1 dotted">                                                           </span>
+<dt>(a)</dt><dd>so much of an amount paid, or purportedly paid, to an entity by way of a
 
-[27](#27).          Participation in accredited benchmarking/management-improvement studies<span style="mso-tab-count: 1">         </span>
+grant as represents an overpayment; or</dd>
 
-[28](#28).          Grant by way of bounty<span style="mso-tab-count: 1 dotted">                                                                   </span>
+<dt>(b)</dt><dd>an amount due and payable by an entity to the Commonwealth under a loan;
 
-[29](#29).          Grants and advances to be inalienable<span style="mso-tab-count: 1 dotted">                                               </span>
+or</dd>
 
-[30](#30).          Miscellaneous matters<span style="mso-tab-count: 1 dotted">                                                                       </span>
+<dt>(c)</dt><dd>an amount that is payable as mentioned in subsection 20(2) (which deals
 
-[31](#31).          Ancillary or incidental provisions<span style="mso-tab-count: 1 dotted">                                                     </span>
+with advances); or</dd>
 
-[32](#32).          Scheme-making power not limited<span style="mso-tab-count: 1 dotted">                                                     </span>
+<dt>(d)</dt><dd>an amount that is repayable as mentioned in section 43 (which deals with
 
-[33](#33).          Fee must not amount to taxation<span style="mso-tab-count: 1 dotted">                                                       </span>
+conditional grants).
 
-[34](#34).          Variation of scheme<span style="mso-tab-count: 1 dotted">                                                                           </span>
+</dd>
 
-[35](#35).          Scheme to be a disallowable instrument<span style="mso-tab-count: 1 dotted">                                            </span>
+</dl></dl></dl>
 
-[36](#36).          Appropriation<span style="mso-tab-count: 1 dotted">                                                                                   </span>
+<def><dl compact=""><dl compact="">
 
-**Part 3—Supplementation of the Regional Assistance Program<span style="mso-tab-count: 1">                 </span>**
+_Secretary_ means the Secretary to the Department. _strategic business plan_ means a strategic business plan that incorporates a strategic investment plan. _TCF (SIP) scheme_ means the scheme in force under section 8\.  </dl></dl>
 
-[37](#37).          Supplementation of the Regional Assistance Program<span style="mso-tab-count: 1 dotted">                      </span>
+**
 
-**Part 3A—TCF Post-2005 (SIP) scheme<span style="mso-tab-count: 1">                                                                   </span>** 
+###  TEXTILE, CLOTHING AND FOOTWEAR STRATEGIC INVESTMENT PROGRAM ACT 1999- SECT 5  Continuity of partnerships 
+**
 
-    **Division 1—Preliminary<span style="mso-tab-count: 1">                                                                                            </span>**
+ <dl compact=""><dl compact="">
 
-[37A](#37A).       Object of Part and simplified outline of Part<span style="mso-tab-count: 1 dotted">                                     </span>
+		For the purposes of this Act, a change in the composition of a partnership
 
-[37B](#37B).       Definitions<span style="mso-tab-count: 1 dotted">                                                                                         </span>
+does not affect the continuity of the partnership.
 
-    **Division 2—Formulation of TCF Post-2005 (SIP) scheme<span style="mso-tab-count: 1">                     </span>**
+ </dl></dl>
 
-[37C](#37C).       TCF Post-2005 (SIP) scheme<span style="mso-tab-count: 1 dotted">                                                            </span>
+**
 
-[37D](#37D).       Caps<span style="mso-tab-count: 1 dotted">                                                                                                   </span>
+###  TEXTILE, CLOTHING AND FOOTWEAR STRATEGIC INVESTMENT PROGRAM ACT 1999- SECT 6  Crown to be bound 
+**
 
-    **Division 3—General policy objectives<span style="mso-tab-count: 1">                                                              </span>**
+ <dl compact=""><dl compact="">
 
-[37E](#37E).        General policy objectives<span style="mso-tab-count: 1 dotted">                                                                  </span>
+<dt>(1)</dt><dd>This Act binds the Crown in each of its capacities.</dd> <dt>(2)</dt><dd>This Act does not make the Crown liable to be prosecuted for an offence. </dd> </dl></dl>
 
-[37F](#37F).        2 types of grants<span style="mso-tab-count: 1 dotted">                                                                                </span>
+**
 
-[37G](#37G).       Provisions relating to grants in respect of TCF capital investment expenditure<span style="mso-tab-count: 1">     </span>
+###  TEXTILE, CLOTHING AND FOOTWEAR STRATEGIC INVESTMENT PROGRAM ACT 1999- SECT 7  External Territories 
+**
 
-[37H](#37H).       Provisions relating to grants in respect of TCF research and development expenditure<span style="mso-tab-count: 1">         </span>
+ <dl compact=""><dl compact="">
 
-[37J](#37J).        Grants to be made in arrears<span style="mso-tab-count: 1 dotted">                                                              </span>
+		This Act extends to all the external Territories.
 
-[37K](#37K).       Grants cap based on eligible revenue and eligible start-up investment amount<span style="mso-tab-count: 1">       </span>
+ </dl></dl>
 
-    **Division 4—Registration for the purposes of the scheme<span style="mso-tab-count: 1">                      </span>**
+<center>**
 
-[37L](#37L).        Registration for the purposes of the scheme<span style="mso-tab-count: 1 dotted">                                     </span>
+###  TEXTILE, CLOTHING AND FOOTWEAR STRATEGIC INVESTMENT PROGRAM ACT 1999<part>Part 2&#151;TCF (SIP) scheme </part>
+**</center>
 
-    **Division 5—Strategic business plans and accounts<span style="mso-tab-count: 1">                                    </span>**
+<center>**
 
-[37M](#37M).      Strategic business plans<span style="mso-tab-count: 1 dotted">                                                                     </span>
+###  TEXTILE, CLOTHING AND FOOTWEAR STRATEGIC INVESTMENT PROGRAM ACT 1999<division>Division 1&#151;General provisions </division> 
+**</center>
 
-[37N](#37N).       Accounts<span style="mso-tab-count: 1 dotted">                                                                                            </span>
+**
 
-    **Division 6—Conditional grants<span style="mso-tab-count: 1">                                                                             </span>**
+###  TEXTILE, CLOTHING AND FOOTWEAR STRATEGIC INVESTMENT PROGRAM ACT 1999- SECT 8  TCF (SIP) scheme 
+**
 
-[37P](#37P).        Conditional grants<span style="mso-tab-count: 1 dotted">                                                                              </span>
+ <dl compact=""><dl compact="">
 
-[37Q](#37Q).       Operation of electronic equipment by authorised officers<span style="mso-tab-count: 1 dotted">                </span>
+		By the end of the period of 14 days beginning on the day on which this Act
 
-[37R](#37R).       Operation of electronic equipment by experts<span style="mso-tab-count: 1 dotted">                                  </span>
+receives the Royal Assent, the Minister must, by writing, formulate a scheme
 
-[37S](#37S).        Pre-condition to operating electronic equipment<span style="mso-tab-count: 1 dotted">                               </span>
+(the _TCF (SIP) scheme_) for the making of grants and/or loans in
 
-[37T](#37T).       Compensation for damage to electronic equipment<span style="mso-tab-count: 1 dotted">                           </span>
+connection with, or incidental to, any or all of the following:
 
-[37U](#37U).       Identity cards<span style="mso-tab-count: 1 dotted">                                                                                     </span>
+ </dl></dl>
 
-    **Division 7—Other matters relating to the scheme<span style="mso-tab-count: 1">                                    </span>**
+<dl compact=""><dl compact=""><dl compact="">
 
-[37V](#37V).       Advances on account of grants<span style="mso-tab-count: 1 dotted">                                                          </span>
+<dt>(a)</dt><dd>the manufacture in Australia of products that, under the scheme, are taken
 
-[37W](#37W).      Scheme may confer administrative powers on the Secretary<span style="mso-tab-count: 1 dotted">            </span>
+to be eligible TCF products;</dd>
 
-[37X](#37X).       Reconsideration and review of decisions<span style="mso-tab-count: 1 dotted">                                           </span>
+<dt>(b)</dt><dd>the design in Australia, for manufacture in Australia, of products:
 
-[37Y](#37Y).       Guarantees relating to payment of scheme debts<span style="mso-tab-count: 1 dotted">                              </span>
+</dd>
 
-[37Z](#37Z).       Non-arm’s length transactions<span style="mso-tab-count: 1 dotted">                                                           </span>
+</dl></dl></dl>
 
-[37ZA](#37ZA).    Grants and advances to be inalienable<span style="mso-tab-count: 1 dotted">                                               </span>
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-[37ZB](#37ZB).     Other matters<span style="mso-tab-count: 1 dotted">                                                                                     </span>
+<dt>(i)</dt><dd>that, under the scheme, are taken to be eligible TCF products; and</dd>
 
-[37ZC](#37ZC).     Ancillary or incidental provisions<span style="mso-tab-count: 1 dotted">                                                     </span>
+<dt>(ii)</dt><dd>some or all of which are intended to be sold in Australia;
 
-[37ZD](#37ZD).    Scheme-making power not limited<span style="mso-tab-count: 1 dotted">                                                     </span>
+</dd>
 
-[37ZE](#37ZE).     Fee must not amount to taxation<span style="mso-tab-count: 1 dotted">                                                       </span>
+</dl></dl></dl></dl>
 
-[37ZF](#37ZF).     Variation of scheme<span style="mso-tab-count: 1 dotted">                                                                           </span>
+<center>Back to Top</center>
 
-[37ZG](#37ZG).    Scheme to be a disallowable instrument<span style="mso-tab-count: 1 dotted">                                            </span>
+<dl compact=""><dl compact=""><dl compact="">
 
-[37ZH](#37ZH).    Appropriation<span style="mso-tab-count: 1 dotted">                                                                                   </span>
+<dt>(c)</dt><dd>the design in Australia, for manufacture outside Australia, of products:
 
-[37ZI](#37ZI).      Publication of grant totals<span style="mso-tab-count: 1 dotted">                                                                  </span>
+</dd>
 
-**Part 3B—TCF Small Business Program<span style="mso-tab-count: 1">                                                                  </span>**
+</dl></dl></dl>
 
-[37ZJ](#37ZJ).      TCF Small Business Program<span style="mso-tab-count: 1 dotted">                                                            </span>
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-**Part 4—Information-gathering powers<span style="mso-tab-count: 1">                                                                     </span>**
+<dt>(i)</dt><dd>that, under the scheme, are taken to be eligible TCF products; and</dd>
 
-[38](#38).          Minister or Secretary may obtain information and documents<span style="mso-tab-count: 1 dotted">         </span>
+<dt>(ii)</dt><dd>some or all of which are intended to be sold in Australia;
 
-[39](#39).          Copying documents—reasonable compensation<span style="mso-tab-count: 1 dotted">                               </span>
+</dd>
 
-[40](#40).          Self-incrimination<span style="mso-tab-count: 1 dotted">                                                                               </span>
+</dl></dl></dl></dl>
 
-[41](#41).          Copies of documents<span style="mso-tab-count: 1 dotted">                                                                         </span>
+<dl compact=""><dl compact=""><dl compact="">
 
-[42](#42).          Minister or Secretary may retain documents<span style="mso-tab-count: 1 dotted">                                    </span>
+		where the importation into Australia of some or all of the products is or
 
-**Part 5—Recovery of scheme debts<span style="mso-tab-count: 1">                                                                            </span>**
+will be covered by a designated industry program.
 
-[43](#43).          Recovery of conditional grants<span style="mso-tab-count: 1 dotted">                                                          </span>
+</dl></dl></dl>
 
-[44](#44).          Scheme debts are debts due to the Commonwealth<span style="mso-tab-count: 1 dotted">                           </span>
+**
 
-[45](#45).          Recovery by legal proceedings<span style="mso-tab-count: 1 dotted">                                                          </span>
+###  TEXTILE, CLOTHING AND FOOTWEAR STRATEGIC INVESTMENT PROGRAM ACT 1999- SECT 9  $700 million cap 
+**
 
-[46](#46).          Recovery by set-off<span style="mso-tab-count: 1 dotted">                                                                           </span>
+ <dl compact=""><dl compact="">
 
-[47](#47).          Commonwealth may collect money from a person who owes money to an entity<span style="mso-tab-count: 1">                </span>
+<dt>(1)</dt><dd>The TCF (SIP) scheme must make provision for ensuring that the total of
 
-**Part 6—Offences<span style="mso-tab-count: 1">                                                                                                                   </span>**
+the grants paid, and loans made, under the scheme does not exceed the amount
 
-[48](#48).          Application of _Criminal Code_<span style="mso-tab-count: 1 dotted">                                                           </span>
+worked out using the formula:
 
-[49](#49).          False or misleading information<span style="mso-tab-count: 1 dotted">                                                         </span>
+</dd> </dl></dl>
 
-[50](#50).          False or misleading evidence<span style="mso-tab-count: 1 dotted">                                                              </span>
-
-[51](#51).          False or misleading documents<span style="mso-tab-count: 1 dotted">                                                          </span>
-
-**Part 7—Miscellaneous<span style="mso-tab-count: 1">                                                                                                       </span>**
-
-[52](#52).          Delegation<span style="mso-tab-count: 1 dotted">                                                                                          </span>
-
-[53](#53).          Availability of grants<span style="mso-tab-count: 1 dotted">                                                                         </span>
-
-[54](#54).          Uniformity of bounties<span style="mso-tab-count: 1 dotted">                                                                      </span>
-
-[55](#55).          International obligations<span style="mso-tab-count: 1 dotted">                                                                    </span>
-
-[56](#56).          Regulations<span style="mso-tab-count: 1 dotted">                                                                                        </span>
-
-**Notes<span style="mso-tab-count: 1">                                                                                                                                            </span>** 
-
-
-## An Act about the Textile, Clothing and Footwear Strategic Investment Program, and for other purposes
-
-## Part 1—Introduction
-
-##### <a id="1"></a>1  Short title<span class="superscriptstyle"><span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt; mso-bidi-font-family: Arial"> [_see_ Note 1]</span></span>
-
-                   This Act may be cited as the _Textile, Clothing and Footwear Strategic Investment Program Act 1999_.
-
-##### <a id="2"></a>2  Commencement<span class="superscriptstyle"><span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt; mso-bidi-font-family: Arial"> [_see_ Note 1]</span></span>
-
-                   This Act commences on the day on which it receives the Royal Assent.
-
-##### <a id="3"></a>3  Simplified outline
-
-                   The following is a simplified outline of this Act:
-
-<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid; mso-border-alt: solid windowtext .75pt">
-
-<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      This Act provides a framework for the implementation of the Textile, Clothing and Footwear Strategic Investment Program.</li>
-
-<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      There are 2 schemes under the program.</li>
-
-<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      The TCF (SIP) scheme provides for 5 grants in respect of expenditure incurred in the 2000-2001 to 2004-2005 income years. The scheme also provides for the making of some of those grants in respect of expenditure incurred in the 1998-1999 or 1999-2000 income year. The scheme also covers loans. Part 2 deals with this scheme.</li>
-
-<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      The TCF Post-2005 (SIP) scheme will provide for 2 grants in respect of expenditure incurred in the 2005-2006 to 2014-2015 income years. The scheme will not cover loans. Part 3A deals with this scheme.</li>
-
-<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      This Act also provides funding for the purposes of the Regional Assistance Program (see Part 3) and the TCF Small Business Program (see Part 3B).</li></div>
-
-##### <a id="4"></a>4  Definitions
-
-                   In this Act:
-
-                    <a name="australia"></a><st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">**_Australia_**</st1:place></st1:country-region>, when used in a geographical sense, includes all the external Territories.
-
-                    <a name="bounti"></a>**_bounty_** means bounty to which paragraph 51(iii) of the Constitution applies.
-
-                    <a name="design-industri-program"></a>**_designated industry program_** means a program or scheme that is:
-
-                     (a)  administered by the Commonwealth; and
-
-                     (b)  specified in the regulations.
-
-                    <a name="entiti"></a>**_entity_** has the same meaning as in the _Income Tax Assessment Act 1997_.
-
-                    <a name="australia"></a><a name="import"></a>**_importation into_**<st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">**_Australia_**</st1:place></st1:country-region> has the same meaning as in section 50 of the _Customs Act 1901_.
-
-                    <a name="incom-year"></a>**_income year_** has the same meaning as in the _Income Tax Assessment Act 1997_.
-
-                    <a name="loan"></a>**_loan_** means a loan under the TCF (SIP) scheme.
-
-                    <a name="manufactur"></a>**_manufacture_** includes make a physical or chemical transformation or conversion.
-
-                    <a name="occupi"></a>**_occupier_**, in relation to premises, includes a person present at the premises who apparently represents the occupier.
-
-                    <a name="scheme-debt"></a>**_scheme debt_** means:
-
-                     (a)  so much of an amount paid, or purportedly paid, to an entity by way of a grant under a scheme under Part 2 or 3A as represents an overpayment; or
-
-                     (b)  an amount due and payable by an entity to the Commonwealth under a loan; or
-
-                     (c)  an amount that is payable as mentioned in subsection 20(2) or 37V(2) (which deals with advances); or
-
-                     (d)  an amount that is recoverable as mentioned in section 43 (which deals with conditional grants).
-
-                    <a name="secretari"></a>**_Secretary_** means the Secretary to the Department.
-
-                    <a name="strateg-busi-plan"></a>**_strategic business plan_** means a strategic business plan that incorporates a strategic investment plan.
-
-                    <a name="tcf-post-2005-sip-scheme"></a>**_TCF Post-2005 (SIP) scheme_** means the scheme in force under section 37C.
-
-                    <a name="tcf-sip-scheme"></a>**_TCF (SIP) scheme_** means the scheme in force under section 8.
-
-##### <a id="5"></a>5  Continuity of partnerships
-
-                   For the purposes of this Act, a change in the composition of a partnership does not affect the continuity of the partnership.
-
-##### <a id="6"></a>6  Crown to be bound
-
-             (1)  This Act binds the Crown in each of its capacities.
-
-             (2)  This Act does not make the Crown liable to be prosecuted for an offence.
-
-##### <a id="7"></a>7  <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename>External</st1:placename> <st1:placetype>Territories</st1:placetype></st1:place>
-
-                   This Act extends to all the external Territories.
-
-<o:p> </o:p>
-
-## Part 2—TCF (SIP) scheme
-
-### Division 1A—Preliminary
-
-##### <a id="7A"></a>7A  Simplified outline
-
-                   The following is a simplified outline of this Part:
-
-<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid; mso-border-alt: solid windowtext .75pt">
-
-<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      The TCF (SIP) scheme provides for the making of grants and loans in connection with the design and manufacture, in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>, of eligible TCF products.</li>
-
-<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      The total of the grants paid, and loans made, under the TCF (SIP) scheme must not exceed $700 million, reduced by any Regional Assistance Program supplementation payments (see section 37).</li>
-
-<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      The TCF (SIP) scheme provides for 5 types of grants:</li>
-
-               (a)     grants in respect of new TCF plant/building expenditure; and
-
-               (b)     grants in respect of TCF research and development expenditure; and
-
-               (c)     grants in respect of TCF value-adding; and
-
-               (d)     special grants in respect of second-hand TCF plant expenditure; and
-
-               (e)     special miscellaneous grants in respect of TCF-dependent communities.
-
-<li class="BoxList" style="MARGIN-LEFT: 21.25pt; mso-pagination: widow-orphan lines-together">•      The TCF (SIP) scheme provides for the making of those grants in respect of expenditure incurred in the 2000-2001 to 2004-2005 income years. It also provides that grants in respect of new TCF plant or buildings may be made for expenditure incurred in the 1998-1999 or 1999-2000 income year and special grants may be made for expenditure incurred in the 1999-2000 income year.</li>
-
-<li class="BoxList" style="MARGIN-LEFT: 21.25pt; tab-stops: list 74.7pt">•     Grants under the TCF (SIP) scheme are to be made in arrears.</li>
-
-<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      Entities who wish to obtain grants under the TCF (SIP) scheme may be required to register under the scheme and to submit strategic business plans and accounts.</li></div>
-
-##### <a id="7B"></a>7B  Definitions
-
-                   In this Part:
-
-                    <a name="authorised-offic"></a>**_authorised officer_** means a person appointed under subsection 18A(6) as an authorised officer of the Department.
-
-                    <a name="claim"></a>**_claim_** means a claim for a grant.
-
-                    <a name="grant"></a>**_grant_** means a grant under the TCF (SIP) scheme.
-
-<o:p> </o:p>
-
-### Division 1—General provisions
-
-##### <a id="8"></a>8  TCF (SIP) scheme
-
-                   By the end of the period of 14 days beginning on the day on which this Act receives the Royal Assent, the Minister must, by writing, formulate a scheme (the **_TCF (SIP) scheme_**) for the making of grants and/or loans in connection with, or incidental to, any or all of the following:
-
-                     (a)  the manufacture in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> of products that, under the scheme, are taken to be eligible TCF products;
-
-                     (b)  the design in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>, for manufacture in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>, of products:
-
-                              (i)  that, under the scheme, are taken to be eligible TCF products; and
-
-                             (ii)  some or all of which are intended to be sold in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>;
-
-                     (c)  the design in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>, for manufacture outside <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>, of products:
-
-                              (i)  that, under the scheme, are taken to be eligible TCF products; and
-
-                             (ii)  some or all of which are intended to be sold in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>;
-
-                            where the importation into <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> of some or all of the products is or will be covered by a designated industry program.
-
-##### <a id="9"></a>9  $700 million cap
-
-             (1)  The TCF (SIP) scheme must make provision for ensuring that the total of the grants paid, and loans made, under the scheme does not exceed the amount worked out using the formula:
-
-<v:shape id="_x0000_i1026" style="WIDTH: 189pt; HEIGHT: 30.75pt" o:ole="" type="#_x0000_t75" coordsize="21600,21600"><v:imagedata o:title="" src="TextClothFootStratInvProg%201999_WD02_files/image003.wmz"></v:imagedata></v:shape>
+<sub> ![A graphic exists here.](http://www.comlaw.gov.au/Details/C2004C01088/Html/C44644FF06DA442BCA256F710053DF86/$FILE/1202.gif)</sub>
 
 where:
 
-                    <a name="region-assist-program-supplement-payment"></a>**_Regional Assistance Program supplementation payments_** means the total of the amounts determined under section 37.
+<def><dl compact=""><dl compact="">
 
-             (2)  If a loan under the TCF (SIP) scheme is repaid at a particular time, subsection (1) has effect after that time as if the loan had never been made.
+_Regional Assistance Program supplementation payments_ means the
 
-<o:p> </o:p>
+total of the amounts determined under section 37.
 
-### Division 2—General policy objectives for the grants provisions of the scheme
+ </dl></dl>
 
-##### <a id="10"></a>10  General policy objectives for the grants provisions of the scheme
+<dl compact=""><dl compact="">
 
-                   The TCF (SIP) scheme, to the extent to which it deals with grants, must be directed towards ensuring the achievement of the policy objectives set out in the following sections:
+<dt>(2)</dt><dd>If a loan under the TCF (SIP) scheme is repaid at a particular time,
 
-                     (a)  section 11 (which deals with types of grants);
+subsection (1) has effect after that time as if the loan had never been made.
 
-                     (b)  section 12 (which deals with the duration of the scheme);
+</dd> </dl></dl>
 
-                     (c)  section 13 (which deals with making grants in arrears);
+<center>**
 
-                     (d)  section 14 (which deals with the cap for grants in respect of TCF value-adding);
+###  TEXTILE, CLOTHING AND FOOTWEAR STRATEGIC INVESTMENT PROGRAM ACT 1999<division>Division 2&#151;General policy objectives for the grants provisions of the scheme </division> 
+**</center>
 
-                    (da)  section 14A (which provides an alternative cap for certain grants in respect of TCF value-adding);
+**
 
-                     (e)  section 15 (which deals with the sales-based cap for grants).
+###  TEXTILE, CLOTHING AND FOOTWEAR STRATEGIC INVESTMENT PROGRAM ACT 1999- SECT 10  General policy objectives for the grants provisions of the scheme 
+**
 
-##### <a id="11"></a>11  Types of grants
+<dl compact=""><dl compact="">
 
-             (1)  This section sets out a policy objective for the TCF (SIP) scheme.
+		The TCF (SIP) scheme, to the extent to which it deals with grants, must be
 
-             (2)  The objective is that there are to be 5 types of grants, as follows:
+directed towards ensuring the achievement of the policy objectives set out in
 
-                     (a)  the first type of grants are to be known as **_grants in respect of new TCF plant/building expenditure_**;
+the following sections:
 
-                     (b)  the second type of grants are to be known as **_grants in respect of TCF research and development expenditure_**;
+ </dl></dl>
 
-                     (c)  the third type of grants are to be known as **_grants in respect of TCF value-adding_**;
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (d)  the fourth type of grants are to be known as **_special grants in respect of second-hand TCF plant expenditure_**;
+<dt>(a)</dt><dd>section 11 (which deals with types of grants);</dd>
 
-                     (e)  the fifth type of grants are to be known as **_special miscellaneous grants in respect of TCF-dependent communities_**.
+<dt>(b)</dt><dd>section 12 (which deals with the duration of the scheme);</dd>
 
-             (3)  To avoid doubt, paragraphs (2)(a), (b), (c), (d) and (e) do not limit the range of matters in respect of which grants may be made.
+<dt>(c)</dt><dd>section 13 (which deals with making grants in arrears);</dd>
 
-##### <a id="12"></a>12  Duration of scheme
+<dt>(d)</dt><dd>section 14 (which deals with the cap for grants in respect of TCF
 
-             (1)  This section sets out policy objectives for the TCF (SIP) scheme.
+value-adding);</dd>
 
-             (2)  The objectives are as follows:
+<dt>(da)</dt><dd>section&#160;14A (which provides an alternative cap for certain grants in
 
-                     (a)  the objective that grants in respect of new TCF plant/building expenditure may only be made to an entity in respect of amounts that, under the scheme, are taken to be eligible expenditure incurred by the entity during:
+respect of TCF value-adding);</dd>
 
-                              (i)  the entity’s 1998-1999 income year; or
+<dt>(e)</dt><dd>section 15 (which deals with the sales-based cap for grants).
 
-                             (ii)  the entity’s 1999-2000 income year; or
+</dd>
 
-                            (iii)  the entity’s 2000-2001 income year; or
+</dl></dl></dl>
 
-                            (iv)  the entity’s 2001-2002 income year; or
+**
 
-                             (v)  the entity’s 2002-2003 income year; or
+###  TEXTILE, CLOTHING AND FOOTWEAR STRATEGIC INVESTMENT PROGRAM ACT 1999- SECT 11  Types of grants 
+**
 
-                            (vi)  the entity’s 2003-2004 income year; or
+ <dl compact=""><dl compact="">
 
-                           (vii)  the entity’s 2004-2005 income year;
+<dt>(1)</dt><dd>This section sets out a policy objective for the TCF (SIP) scheme.</dd> <dt>(2)</dt><dd>The objective is that there are to be 5 types of grants, as follows: </dd> </dl></dl>
 
-                     (b)  the objective that grants in respect of TCF research and development expenditure may only be made to an entity in respect of amounts that, under the scheme, are taken to be eligible expenditure incurred by the entity during:
+<dl compact=""><dl compact=""><dl compact="">
 
-                              (i)  the entity’s 2000-2001 income year; or
+<dt>(a)</dt><dd>the first type of grants are to be known as _grants in respect of new TCF plant/building expenditure_;</dd>
 
-                             (ii)  the entity’s 2001-2002 income year; or
+<dt>(b)</dt><dd>the second type of grants are to be known as _grants in respect of TCF research and development expenditure_;</dd>
 
-                            (iii)  the entity’s 2002-2003 income year; or
+<dt>(c)</dt><dd>the third type of grants are to be known as _grants in respect of TCF value-adding_;</dd>
 
-                            (iv)  the entity’s 2003-2004 income year; or
+<dt>(d)</dt><dd>the fourth type of grants are to be known as _special grants in respect of second-hand TCF plant expenditure_;</dd>
 
-                             (v)  the entity’s 2004-2005 income year;
+<dt>(e)</dt><dd>the fifth type of grants are to be known as _special miscellaneous grants in respect of TCF-dependent communities_.
 
-                     (c)  the objective that:
+</dd>
 
-                              (i)  special grants in respect of second-hand TCF plant expenditure; and
+</dl></dl></dl>
 
-                             (ii)  special miscellaneous grants in respect of TCF-dependent communities;
+<center>Back to Top</center>
 
-                            may only be made to an entity in respect of amounts that, under the scheme, are taken to be eligible expenditure incurred by the entity during:
+<dl compact=""><dl compact="">
 
-                            (iii)  the entity’s 1999-2000 income year; or
+<dt>(3)</dt><dd>To avoid doubt, paragraphs (2)(a), (b), (c), (d) and (e) do not limit the
 
-                            (iv)  the entity’s 2000-2001 income year; or
+range of matters in respect of which grants may be made.
 
-                             (v)  the entity’s 2001-2002 income year; or
+</dd> </dl></dl>
 
-                            (vi)  the entity’s 2002-2003 income year; or
+**
 
-                           (vii)  the entity’s 2003-2004 income year; or
+###  TEXTILE, CLOTHING AND FOOTWEAR STRATEGIC INVESTMENT PROGRAM ACT 1999- SECT 12  Duration of scheme 
+**
 
-                           (viii)  the entity’s 2004-2005 income year;
+ <dl compact=""><dl compact="">
 
-                     (d)  the objective that grants in respect of TCF value-adding may only be made to an entity in respect of activities that, under the scheme, are taken to be eligible activities carried on by the entity during:
+<dt>(1)</dt><dd>This section sets out policy objectives for the TCF (SIP) scheme.</dd> <dt>(2)</dt><dd>The objectives are as follows: </dd> </dl></dl>
 
-                              (i)  the entity’s 2000-2001 income year; or
+<dl compact=""><dl compact=""><dl compact="">
 
-                             (ii)  the entity’s 2001-2002 income year; or
+<dt>(a)</dt><dd>the objective that grants in respect of new TCF plant/building expenditure
 
-                            (iii)  the entity’s 2002-2003 income year; or
+may only be made to an entity in respect of amounts that, under the scheme, are
 
-                            (iv)  the entity’s 2003-2004 income year; or
+taken to be eligible expenditure incurred by the entity during:
 
-                             (v)  the entity’s 2004-2005 income year.
+</dd>
 
-##### <a id="13"></a>13  Grants to be made in arrears
+</dl></dl></dl>
 
-             (1)  This section sets out policy objectives for the TCF (SIP) scheme.
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-             (2)  The objectives are as follows:
+<dt>(i)</dt><dd>the entity's 1998-1999 income year; or</dd>
 
-                     (a)  the objective that grants in respect of new TCF plant/building expenditure must not be made to an entity in respect of amounts that, under the scheme, are taken to be eligible expenditure incurred by the entity during:
+<dt>(ii)</dt><dd>the entity's 1999-2000 income year; or</dd>
 
-                              (i)  the entity’s 1998-1999 income year; or
+<dt>(iii)</dt><dd>the entity's 2000-2001 income year; or</dd>
 
-                             (ii)  the entity’s 1999-2000 income year;
+<dt>(iv)</dt><dd>the entity's 2001-2002 income year; or</dd>
 
-                            unless the entity makes a claim for the grant after the end of the entity’s 2000-2001 income year;
+<dt>(v)</dt><dd>the entity's 2002-2003 income year; or</dd>
 
-                     (b)  the objective that:
+<dt>(vi)</dt><dd>the entity's 2003-2004 income year; or</dd>
 
-                              (i)  special grants in respect of second-hand TCF plant expenditure; and
+<dt>(vii)</dt><dd>the entity's 2004-2005 income year;
 
-                             (ii)  special miscellaneous grants in respect of TCF-dependent communities;
+</dd>
 
-                            must not be made to an entity in respect of amounts that, under the scheme, are taken to be eligible expenditure incurred by the entity during the entity’s 1999-2000 income year unless the entity makes a claim for the grant after the end of the entity’s 2000-2001 income year;
+</dl></dl></dl></dl>
 
-                     (c)  the objective that:
+<dl compact=""><dl compact=""><dl compact="">
 
-                              (i)  grants in respect of new TCF plant/building expenditure; and
+<dt>(b)</dt><dd>the objective that grants in respect of TCF research and development
 
-                             (ii)  grants in respect of TCF research and development expenditure; and
+expenditure may only be made to an entity in respect of amounts that, under the
 
-                            (iii)  special grants in respect of second-hand TCF plant expenditure; and
+scheme, are taken to be eligible expenditure incurred by the entity during:
 
-                            (iv)  special miscellaneous grants in respect of TCF-dependent communities;
+</dd>
 
-                            must not be made to an entity in respect of amounts that, under the scheme, are taken to be eligible expenditure incurred by the entity during:
+</dl></dl></dl>
 
-                             (v)  the entity’s 2000-2001 income year; or
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-                            (vi)  the entity’s 2001-2002 income year; or
+<dt>(i)</dt><dd>the entity's 2000-2001 income year; or</dd>
 
-                           (vii)  the entity’s 2002-2003 income year; or
+<dt>(ii)</dt><dd>the entity's 2001-2002 income year; or</dd>
 
-                           (viii)  the entity’s 2003-2004 income year; or
+<dt>(iii)</dt><dd>the entity's 2002-2003 income year; or</dd>
 
-                            (ix)  the entity’s 2004-2005 income year;
+<dt>(iv)</dt><dd>the entity's 2003-2004 income year; or</dd>
 
-                            unless the entity makes a claim for the grant after the end of the income year concerned;
+<dt>(v)</dt><dd>the entity's 2004-2005 income year;
 
-                     (d)  the objective that grants in respect of TCF value-adding must not be made to an entity in respect of activities that, under the scheme, are taken to be eligible activities carried on by the entity during:
+</dd>
 
-                              (i)  the entity’s 2000-2001 income year; or
+</dl></dl></dl></dl>
 
-                             (ii)  the entity’s 2001-2002 income year; or
+<dl compact=""><dl compact=""><dl compact="">
 
-                            (iii)  the entity’s 2002-2003 income year; or
+<dt>(c)</dt><dd>the objective that:
 
-                            (iv)  the entity’s 2003-2004 income year; or
+</dd>
 
-                             (v)  the entity’s 2004-2005 income year;
+</dl></dl></dl>
 
-                            unless the entity makes a claim for the grant after the end of the income year concerned.
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-##### <a id="14"></a>14  Cap for grants in respect of TCF value-adding
+<dt>(i)</dt><dd>special grants in respect of second-hand TCF plant expenditure; and</dd>
 
-             (1)  This section sets out a policy objective for the TCF (SIP) scheme.
+<dt>(ii)</dt><dd>special miscellaneous grants in respect of TCF-dependent communities;
 
-             (2)  The objective is that the total grants in respect of TCF value-adding that are made to an entity in respect of activities that, under the scheme, are taken to be eligible activities carried on by the entity during a particular income year of the entity must not exceed whichever is the lesser of:
+</dd>
 
-                     (a)  5% of the amount that, under the scheme, is taken to be the total eligible TCF value added by the entity during that income year; and
+</dl></dl></dl></dl>
 
-                     (b)  the sum of:
+<dl compact=""><dl compact=""><dl compact="">
 
-                              (i)  the total grants in respect of new TCF plant/building expenditure made to the entity in respect of amounts that, under the scheme, are taken to be eligible expenditure incurred by the entity during that income year; and
+		may only be made to an entity in respect of amounts that, under the scheme,
 
-                             (ii)  the total grants in respect of TCF research and development expenditure made to the entity in respect of amounts that, under the scheme, are taken to be eligible expenditure incurred by the entity during that income year; and
+are taken to be eligible expenditure incurred by the entity during:
 
-                            (iii)  the total special grants in respect of second-hand TCF plant expenditure made to the entity in respect of amounts that, under the scheme, are taken to be eligible expenditure incurred by the entity during that income year.
+</dl></dl></dl>
 
-##### <a id="14A"></a>14A  Alternative cap for certain grants in respect of TCF value-adding
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-             (1)  This section sets out a policy objective for the TCF (SIP) Scheme that applies instead of the policy objective in section 14.
+<dt>(iii)</dt><dd>the entity's 1999-2000 income year; or</dd>
 
-The objective
+<dt>(iv)</dt><dd>the entity's 2000-2001 income year; or</dd>
 
-             (2)  The objective is that the total of the grants that are made to a section 14A entity in respect of activities that, under the scheme, are taken to be eligible activities carried on by the entity during the entity’s 2003-2004 income year or 2004-2005 income year must not exceed the sum of:
+<dt>(v)</dt><dd>the entity's 2001-2002 income year; or</dd>
 
-                     (a)  the total grants in respect of new TCF plant/building expenditure made to the entity in respect of amounts that, under the scheme, are taken to be eligible expenditure incurred by the entity during that income year; and
+<dt>(vi)</dt><dd>the entity's 2002-2003 income year; or</dd>
 
-                     (b)  the total grants in respect of TCF research and development expenditure made to the entity in respect of amounts that, under the scheme, are taken to be eligible expenditure incurred by the entity during that income year; and
+<dt>(vii)</dt><dd>the entity's 2003-2004 income year; or</dd>
 
-                     (c)  the total special grants in respect of second-hand TCF plant expenditure made to the entity in respect of amounts that, under the scheme, are taken to be eligible expenditure incurred by the entity during that income year.
+<dt>(viii)</dt><dd>the entity's 2004-2005 income year;
 
-Cap on grants to which the objective applies
+</dd>
 
-             (3)  The TCF (SIP) Scheme must make provision for ensuring that the total of the grants paid in respect of TCF value-adding to section 14A entities in a financial year does not exceed, by more than $3,900,000, the total of the grants in respect of TCF value-adding that would have been made to those entities in the financial year if the policy objective in section 14 had applied instead of the policy objective in this section.
+</dl></dl></dl></dl>
 
-Section 14A entities
+<dl compact=""><dl compact=""><dl compact="">
 
-             (4)  In this section:
+<dt>(d)</dt><dd>the objective that grants in respect of TCF value-adding may only be made
 
-                    <a name="section-14a-entiti"></a>**_section 14A entity_** means an entity:
+to an entity in respect of activities that, under the scheme, are taken to be
 
-                     (a)  that carries on, in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>, the following leather and leather product manufacturing activities:
+eligible activities carried on by the entity during:
 
-                              (i)  post full substance activities (including sammying, splitting, shaving, tanning, currying, dressing, dyeing, embossing or japanning leather, animal skins or fur);
+</dd>
 
-                             (ii)  fur dressing and dyeing;
+</dl></dl></dl>
 
-                            (iii)  hide and skin tanning, currying, dressing, crusting, dyeing or finishing;
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-                            (iv)  leather manufacturing;
+<dt>(i)</dt><dd>the entity's 2000-2001 income year; or</dd>
 
-                             (v)  leather tanning; or
+<dt>(ii)</dt><dd>the entity's 2001-2002 income year; or</dd>
 
-                     (b)  that manufactures, in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>, eligible TCF products to which any of the following headings of Schedule 3 to the _Customs Tariff Act 1995_ apply:
+<dt>(iii)</dt><dd>the entity's 2002-2003 income year; or</dd>
 
-                              (i)  heading 5601 of Chapter 56;
+<dt>(iv)</dt><dd>the entity's 2003-2004 income year; or</dd>
 
-                             (ii)  heading 5602 of Chapter 56;
+<dt>(v)</dt><dd>the entity's 2004-2005 income year.
 
-                            (iii)  heading 5603 of Chapter 56;
+</dd>
 
-                            (iv)  heading 5911 of Chapter 59.
+</dl></dl></dl></dl>
 
-##### <a id="15"></a>15  Grants cap based on eligible revenue and eligible start-up investment amount
+<center>Back to Top</center>
 
-             (1)  This section sets out policy objectives for the TCF (SIP) scheme.
+**
 
-Cap based on eligible revenue
+###  TEXTILE, CLOTHING AND FOOTWEAR STRATEGIC INVESTMENT PROGRAM ACT 1999- SECT 13  Grants to be made in arrears 
+**
 
-             (2)  The first objective is that the total of the following grants that become payable to an entity during a particular income year of the entity (the **_claim year_**):
+ <dl compact=""><dl compact="">
 
-                     (a)  grants in respect of new TCF plant/building expenditure made in respect of amounts that, under the scheme, are taken to be eligible expenditure incurred by the entity otherwise than during a period that, under the scheme, is taken to be an eligible start-up period of the entity;
+<dt>(1)</dt><dd>This section sets out policy objectives for the TCF (SIP) scheme.</dd> <dt>(2)</dt><dd>The objectives are as follows: </dd> </dl></dl>
 
-                     (b)  grants in respect of TCF research and development expenditure made in respect of amounts that, under the scheme, are taken to be eligible expenditure incurred by the entity otherwise than during a period that, under the scheme, is taken to be an eligible start-up period of the entity;
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (c)  special grants in respect of second-hand TCF plant expenditure made in respect of amounts that, under the scheme, are taken to be eligible expenditure incurred by the entity otherwise than during a period that, under the scheme, is taken to be an eligible start-up period of the entity;
+<dt>(a)</dt><dd>the objective that grants in respect of new TCF plant/building expenditure
 
-                     (d)  special miscellaneous grants in respect of TCF-dependent communities made in respect of amounts that, under the scheme, are taken to be eligible expenditure incurred by the entity otherwise than during a period that, under the scheme, is taken to be an eligible start-up period of the entity;
+must not be made to an entity in respect of amounts that, under the scheme, are
 
-                     (e)  grants in respect of TCF value-adding made in respect of activities carried on by the entity otherwise than during a period that, under the scheme, is taken to be an eligible start-up period of the entity;
+taken to be eligible expenditure incurred by the entity during:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>the entity's 1998-1999 income year; or</dd>
+
+<dt>(ii)</dt><dd>the entity's 1999-2000 income year;
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+		unless the entity makes a claim for the grant after the end of the entity's
+
+2000-2001 income year;
+
+<dt>(b)</dt><dd>the objective that:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>special grants in respect of second-hand TCF plant expenditure; and</dd>
+
+<dt>(ii)</dt><dd>special miscellaneous grants in respect of TCF-dependent communities;
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+		must not be made to an entity in respect of amounts that, under the scheme,
+
+are taken to be eligible expenditure incurred by the entity during the entity's
+
+1999-2000 income year unless the entity makes a claim for the grant after the
+
+end of the entity's 2000-2001 income year;
+
+<dt>(c)</dt><dd>the objective that:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>grants in respect of new TCF plant/building expenditure; and</dd>
+
+<dt>(ii)</dt><dd>grants in respect of TCF research and development expenditure; and</dd>
+
+<dt>(iii)</dt><dd>special grants in respect of second-hand TCF plant expenditure; and</dd>
+
+<dt>(iv)</dt><dd>special miscellaneous grants in respect of TCF-dependent communities;
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+		must not be made to an entity in respect of amounts that, under the scheme,
+
+are taken to be eligible expenditure incurred by the entity during:
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(v)</dt><dd>the entity's 2000-2001 income year; or</dd>
+
+<dt>(vi)</dt><dd>the entity's 2001-2002 income year; or</dd>
+
+<dt>(vii)</dt><dd>the entity's 2002-2003 income year; or</dd>
+
+<dt>(viii)</dt><dd>the entity's 2003-2004 income year; or</dd>
+
+<dt>(ix)</dt><dd>the entity's 2004-2005 income year;
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+		unless the entity makes a claim for the grant after the end of the income
+
+year concerned;
+
+<dt>(d)</dt><dd>the objective that grants in respect of TCF value-adding must not be made
+
+to an entity in respect of activities that, under the scheme, are taken to be
+
+eligible activities carried on by the entity during:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>the entity's 2000-2001 income year; or</dd>
+
+<dt>(ii)</dt><dd>the entity's 2001-2002 income year; or</dd>
+
+<dt>(iii)</dt><dd>the entity's 2002-2003 income year; or</dd>
+
+<dt>(iv)</dt><dd>the entity's 2003-2004 income year; or</dd>
+
+<dt>(v)</dt><dd>the entity's 2004-2005 income year;
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+		unless the entity makes a claim for the grant after the end of the income
+
+year concerned.
+
+</dl></dl></dl>
+
+**
+
+###  TEXTILE, CLOTHING AND FOOTWEAR STRATEGIC INVESTMENT PROGRAM ACT 1999- SECT 14  Cap for grants in respect of TCF value-adding 
+**
+
+ <dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>This section sets out a policy objective for the TCF (SIP) scheme.</dd> <dt>(2)</dt><dd>The objective is that the total grants in respect of TCF value-adding that are made to an entity in respect of activities that, under the scheme, are taken to be eligible activities carried on by the entity during a particular income year of the entity must not exceed whichever is the lesser of: </dd> </dl></dl>
+
+<center>Back to Top</center>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>5% of the amount that, under the scheme, is taken to be the total eligible
+
+TCF value added by the entity during that income year; and</dd>
+
+<dt>(b)</dt><dd>the sum of:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>the total grants in respect of new TCF plant/building expenditure made to
+
+the entity in respect of amounts that, under the scheme, are taken to be
+
+eligible expenditure incurred by the entity during that income year; and</dd>
+
+<dt>(ii)</dt><dd>the total grants in respect of TCF research and development expenditure
+
+made to the entity in respect of amounts that, under the scheme, are taken to
+
+be eligible expenditure incurred by the entity during that income year; and</dd>
+
+<dt>(iii)</dt><dd>the total special grants in respect of second-hand TCF plant expenditure
+
+made to the entity in respect of amounts that, under the scheme, are taken to
+
+be eligible expenditure incurred by the entity during that income year.
+
+</dd>
+
+</dl></dl></dl></dl>
+
+**
+
+###  TEXTILE, CLOTHING AND FOOTWEAR STRATEGIC INVESTMENT PROGRAM ACT 1999- SECT 14A  Alternative cap for certain grants in respect of TCF value-adding 
+**
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>This section sets out a policy objective for the TCF (SIP) Scheme that
+
+applies instead of the policy objective in section&#160;14.
+
+</dd> </dl></dl>
+
+_The objective_
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>The objective is that the total of the grants that are made to a
+
+section&#160;14A entity in respect of activities that, under the scheme, are
+
+taken to be eligible activities carried on by the entity during the entity's
+
+2003-2004 income year or 2004-2005 income year must not exceed the sum of:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the total grants in respect of new TCF plant/building expenditure made to
+
+the entity in respect of amounts that, under the scheme, are taken to be
+
+eligible expenditure incurred by the entity during that income year; and</dd>
+
+<dt>(b)</dt><dd>the total grants in respect of TCF research and development expenditure
+
+made to the entity in respect of amounts that, under the scheme, are taken to
+
+be eligible expenditure incurred by the entity during that income year; and</dd>
+
+<dt>(c)</dt><dd>the total special grants in respect of second-hand TCF plant expenditure
+
+made to the entity in respect of amounts that, under the scheme, are taken to
+
+be eligible expenditure incurred by the entity during that income year.
+
+</dd>
+
+</dl></dl></dl>
+
+_Cap on grants to which the objective applies_
+
+<dl compact=""><dl compact="">
+
+<dt>(3)</dt><dd>The TCF (SIP) Scheme must make provision for ensuring that the total of
+
+the grants paid in respect of TCF value-adding to section&#160;14A entities in
+
+a financial year does not exceed, by more than $3,900,000, the total of the
+
+grants in respect of TCF value-adding that would have been made to those
+
+entities in the financial year if the policy objective in section&#160;14 had
+
+applied instead of the policy objective in this section.
+
+</dd> </dl></dl>
+
+_Section 14A entities_
+
+<dl compact=""><dl compact="">
+
+<dt>(4)</dt><dd>In this section:
+
+</dd> </dl></dl>
+
+<def><dl compact=""><dl compact="">
+
+_section 14A entity_ means an entity:
+
+ </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>that carries on, in Australia, the following leather and leather product
+
+manufacturing activities:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>post full substance activities (including sammying, splitting, shaving,
+
+tanning, currying, dressing, dyeing, embossing or japanning leather, animal
+
+skins or fur);</dd>
+
+<dt>(ii)</dt><dd>fur dressing and dyeing;</dd>
+
+<dt>(iii)</dt><dd>hide and skin tanning, currying, dressing, crusting, dyeing or
+
+finishing;</dd>
+
+<dt>(iv)</dt><dd>leather manufacturing;</dd>
+
+<dt>(v)</dt><dd>leather tanning; or
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<center>Back to Top</center>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(b)</dt><dd>that manufactures, in Australia, eligible TCF products to which any of the
+
+following headings of Schedule&#160;3 to the _Customs Tariff Act 1995_
+
+apply:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>heading 5601 of Chapter&#160;56;</dd>
+
+<dt>(ii)</dt><dd>heading 5602 of Chapter&#160;56;</dd>
+
+<dt>(iii)</dt><dd>heading 5603 of Chapter&#160;56;</dd>
+
+<dt>(iv)</dt><dd>heading 5911 of Chapter&#160;59.
+
+</dd>
+
+</dl></dl></dl></dl>
+
+**
+
+###  TEXTILE, CLOTHING AND FOOTWEAR STRATEGIC INVESTMENT PROGRAM ACT 1999- SECT 15  Grants cap based on eligible revenue and eligible start-up investment amount 
+**
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>This section sets out policy objectives for the TCF (SIP) scheme.
+
+</dd> </dl></dl>
+
+_Cap based on eligible revenue_
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>The first objective is that the total of the following grants that become
+
+payable to an entity during a particular income year of the entity (the
+
+_claim year_):
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>grants in respect of new TCF plant/building expenditure made in respect of
+
+amounts that, under the scheme, are taken to be eligible expenditure incurred
+
+by the entity otherwise than during a period that, under the scheme, is taken
+
+to be an eligible start-up period of the entity;</dd>
+
+<dt>(b)</dt><dd>grants in respect of TCF research and development expenditure made in
+
+respect of amounts that, under the scheme, are taken to be eligible expenditure
+
+incurred by the entity otherwise than during a period that, under the scheme,
+
+is taken to be an eligible start-up period of the entity;</dd>
+
+<dt>(c)</dt><dd>special grants in respect of second-hand TCF plant expenditure made in
+
+respect of amounts that, under the scheme, are taken to be eligible expenditure
+
+incurred by the entity otherwise than during a period that, under the scheme,
+
+is taken to be an eligible start-up period of the entity;</dd>
+
+<dt>(d)</dt><dd>special miscellaneous grants in respect of TCF-dependent communities made
+
+in respect of amounts that, under the scheme, are taken to be eligible
+
+expenditure incurred by the entity otherwise than during a period that, under
+
+the scheme, is taken to be an eligible start-up period of the entity;</dd>
+
+<dt>(e)</dt><dd>grants in respect of TCF value-adding made in respect of activities
+
+carried on by the entity otherwise than during a period that, under the scheme,
+
+is taken to be an eligible start-up period of the entity;
+
+</dd>
+
+</dl></dl></dl>
 
 must not exceed 5% of the amount that, under the scheme, is taken to be the total eligible revenue derived by the entity, during the income year of the entity preceding the claim year, from sales of products that, under the scheme, are taken to be eligible TCF products.
 
-Cap based on eligible start-up investment amount
+_Cap based on eligible start-up investment amount_
 
-             (3)  The second objective is that the total of the following grants that become payable to an entity during a particular income year of the entity (the **_claim year_**) and any income years of the entity that are earlier than the claim year:
+<dl compact=""><dl compact="">
 
-                     (a)  grants in respect of new TCF plant/building expenditure made in respect of amounts that, under the scheme, are taken to be eligible expenditure incurred by the entity during a period that, under the scheme, is taken to be an eligible start-up period of the entity;
+<dt>(3)</dt><dd>The second objective is that the total of the following grants that become
 
-                     (b)  grants in respect of TCF research and development expenditure made in respect of amounts that, under the scheme, are taken to be eligible expenditure incurred by the entity during a period that, under the scheme, is taken to be an eligible start-up period of the entity;
+payable to an entity during a particular income year of the entity (the
 
-                     (c)  grants in respect of TCF value-adding made in respect of activities carried on by the entity during a period that, under the scheme, is taken to be an eligible start-up period of the entity;
+_claim year_) and any income years of the entity that are earlier
+
+than the claim year:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>grants in respect of new TCF plant/building expenditure made in respect of
+
+amounts that, under the scheme, are taken to be eligible expenditure incurred
+
+by the entity during a period that, under the scheme, is taken to be an
+
+eligible start-up period of the entity;</dd>
+
+<dt>(b)</dt><dd>grants in respect of TCF research and development expenditure made in
+
+respect of amounts that, under the scheme, are taken to be eligible expenditure
+
+incurred by the entity during a period that, under the scheme, is taken to be
+
+an eligible start-up period of the entity;</dd>
+
+<dt>(c)</dt><dd>grants in respect of TCF value-adding made in respect of activities
+
+carried on by the entity during a period that, under the scheme, is taken to be
+
+an eligible start-up period of the entity;
+
+</dd>
+
+</dl></dl></dl>
 
 must not exceed 15% of the amount that, under the scheme, is taken to be the total of the eligible start-up investment amounts of the entity for each of the income years of the entity that are earlier than the claim year.
 
-When grant becomes payable
+_When grant becomes payable_
 
-             (4)  For the purposes of this section, a grant becomes payable to an entity when a determination is made under the scheme that the entity is entitled to be paid the grant.
+<dl compact=""><dl compact="">
 
-<o:p> </o:p>
+<dt>(4)</dt><dd>For the purposes of this section, a grant becomes payable to an entity
 
-### Division 3—Registration for the purposes of the scheme
+when a determination is made under the scheme that the entity is entitled to be
 
-##### <a id="16"></a>16  Registration for the purposes of the scheme
+paid the grant.
 
-             (1)  For the purposes of the application of the TCF (SIP) scheme to a type of grant that, under the scheme, is taken to be a registration-linked grant, the scheme may impose requirements relating to the registration of entities.
+</dd> </dl></dl>
 
-             (2)  The requirements relating to registration imposed by the TCF (SIP) scheme may include (but are not limited to) any or all of the following requirements:
+<center>Back to Top</center>
 
-                     (a)  a requirement that an entity must apply for registration;
+<center>**
 
-                     (b)  a requirement that an entity’s application for registration be accompanied by a statement issued by a specified person as to the entity’s future financial viability;
+###  TEXTILE, CLOTHING AND FOOTWEAR STRATEGIC INVESTMENT PROGRAM ACT 1999<division>Division 3&#151;Registration for the purposes of the scheme </division> 
+**</center>
 
-                     (c)  a requirement that an entity’s application for registration be accompanied by such information about the entity as is specified in the scheme;
+**
 
-                     (d)  a requirement that an entity’s application for registration be accompanied by such a fee as is ascertained in accordance with the scheme.
+###  TEXTILE, CLOTHING AND FOOTWEAR STRATEGIC INVESTMENT PROGRAM ACT 1999- SECT 16  Registration for the purposes of the scheme 
+**
 
-             (3)  The TCF (SIP) scheme may provide for any or all of the following consequences for entities that do not comply with a particular requirement relating to registration:
+ <dl compact=""><dl compact="">
 
-                     (a)  the consequence that the entity is not eligible for a registration-linked grant;
+<dt>(1)</dt><dd>For the purposes of the application of the TCF (SIP) scheme to a type of
 
-                     (b)  the consequence that the entity’s eligibility for a registration-linked grant is subject to restriction or reduction;
+grant that, under the scheme, is taken to be a registration-linked grant, the
 
-                     (c)  the consequence that the time of payment of a registration-linked grant to the entity is deferred.
+scheme may impose requirements relating to the registration of entities.</dd> <dt>(2)</dt><dd>The requirements relating to registration imposed by the TCF (SIP) scheme may include (but are not limited to) any or all of the following requirements: </dd> </dl></dl>
 
-             (4)  The information referred to in paragraph (2)(c) may include (but is not limited to) statistical information.
+<dl compact=""><dl compact=""><dl compact="">
 
-<o:p> </o:p>
+<dt>(a)</dt><dd>a requirement that an entity must apply for registration;</dd>
 
-### Division 4—Strategic business plans and accounts
+<dt>(b)</dt><dd>a requirement that an entity's application for registration be accompanied
 
-##### <a id="17"></a>17  Strategic business plans
+by a statement issued by a specified person as to the entity's future financial
 
-                   The TCF (SIP) scheme must provide that an entity is not eligible for a grant unless the entity has complied with such requirements (if any) as are imposed by the scheme in relation to the content and submission of:
+viability;</dd>
 
-                     (a)  strategic business plans; and
+<dt>(c)</dt><dd>a requirement that an entity's application for registration be accompanied
 
-                     (b)  variations of strategic business plans.
+by such information about the entity as is specified in the scheme;</dd>
 
-##### <a id="18"></a>18  Accounts
+<dt>(d)</dt><dd>a requirement that an entity's application for registration be accompanied
 
-             (1)  The TCF (SIP) scheme may provide that an entity ascertained in accordance with the scheme is not eligible for a grant unless the entity has complied with such requirements as are imposed by the scheme in relation to the submission of audited accounts and audited financial statements.
+by such a fee as is ascertained in accordance with the scheme.
 
-             (2)  The TCF (SIP) scheme may provide that an entity ascertained in accordance with the scheme is not eligible for a grant unless the entity has complied with such requirements as are imposed by the scheme in relation to the submission of unaudited accounts and unaudited financial statements.
+</dd>
 
-<o:p> </o:p>
+</dl></dl></dl>
 
-### Division 4A—Conditional grants
+<dl compact=""><dl compact="">
 
-##### <a id="18A"></a>18A  Conditional grants
+<dt>(3)</dt><dd>The TCF (SIP) scheme may provide for any or all of the following
 
-             (1)  The TCF (SIP) scheme may make provision for and in relation to the payment of grants subject to conditions (whether conditions precedent or conditions subsequent).
+consequences for entities that do not comply with a particular requirement
 
-Note:          Section 43 deals with the recovery of a conditional grant if there has been a breach of a condition.
+relating to registration:
 
-Condition—compliance with information gathering notice
+</dd> </dl></dl>
 
-             (2)  A grant paid to an entity is subject to the condition that the entity comply with any notice given to the entity under section 38.
+<dl compact=""><dl compact=""><dl compact="">
 
-Note:          Section 43 deals with the recovery of a conditional grant if there has been a breach of a condition.
+<dt>(a)</dt><dd>the consequence that the entity is not eligible for a registration-linked
 
-Condition—no false or misleading statements
+grant;</dd>
 
-             (3)  A grant paid to an entity is subject to the condition that:
+<dt>(b)</dt><dd>the consequence that the entity's eligibility for a registration-linked
 
-                     (a)  a false or misleading statement has not been made by, or on behalf of, the entity in connection with a claim for the grant; and
+grant is subject to restriction or reduction;</dd>
 
-                     (b)  false or misleading information or evidence is not given by, or on behalf of, the entity in compliance or purported compliance with section 38; and
+<dt>(c)</dt><dd>the consequence that the time of payment of a registration-linked grant to
 
-                     (c)  a false or misleading document is not produced by, or on behalf of, the entity in compliance or purported compliance with section 38.
+the entity is deferred.
 
-Note:          Section 43 deals with the recovery of a conditional grant if there has been a breach of a condition.
+</dd>
 
-Condition—entry to premises etc. to monitor compliance with other conditions
+</dl></dl></dl>
 
-             (4)  A grant paid to an entity is subject to the condition that in relation to the following premises:
+<dl compact=""><dl compact="">
 
-                     (a)  business premises specified in the notice that is given to the entity notifying the entity that the entity is entitled to be paid the grant;
+<dt>(4)</dt><dd>The information referred to in paragraph (2)(c) may include (but is not
 
-                     (b)  business premises specified in a later notice given to the entity by the Secretary under subsection (5);
+limited to) statistical information.
 
-the entity:
+</dd> </dl></dl>
 
-                     (c)  allow authorised officers of the Department, and any authorised employees of an authorised Commonwealth contractor accompanying those officers, access to the premises at any reasonable time of a business day for the purpose of monitoring compliance with other conditions that the grant is subject to; and
+<center>**
 
-                     (d)  allow authorised officers of the Department during that access to inspect and search the premises and any thing on the premises for the purpose of that monitoring; and
+###  TEXTILE, CLOTHING AND FOOTWEAR STRATEGIC INVESTMENT PROGRAM ACT 1999<division>Division 4&#151;Strategic business plans and accounts </division> 
+**</center>
 
-<span style="mso-tab-count: 1">                     </span>(e)<span style="mso-tab-count: 1">  </span>allow authorised officers of the Department to operate electronic equipment at the premises to see whether documents in electronic form relevant to that monitoring are accessible by doing so; and<o:p></o:p>
+**
 
-Note:       See also sections 18B to 18E (which contain provisions relating to the operation of electronic equipment at the premises).
+###  TEXTILE, CLOTHING AND FOOTWEAR STRATEGIC INVESTMENT PROGRAM ACT 1999- SECT 17  Strategic business plans 
+**
 
-                      (f)  allow authorised officers of the Department to make copies of any documents in hard copy form found on the premises that are relevant to that monitoring; and
+ <dl compact=""><dl compact="">
 
-                     (g)  provide authorised officers of the Department with all reasonable facilities and assistance in connection with that monitoring.
+		The TCF (SIP) scheme must provide that an entity is not eligible for a grant
 
-Note:          Section 43 deals with the recovery of a conditional grant if there has been a breach of a condition.
+unless the entity has complied with such requirements (if any) as are imposed
 
-Secretary’s powers
+by the scheme in relation to the content and submission of:
 
-             (5)  The Secretary may, by written notice given to an entity, specify business premises for the purposes of paragraph (4)(b).
+ </dl></dl>
 
-             (6)  The Secretary may, by writing, appoint an APS employee in the Department to be an authorised officer of the Department for the purposes of this Division. The Secretary may do so only if the Secretary is satisfied that the employee has suitable qualifications for such an appointment.
+<dl compact=""><dl compact=""><dl compact="">
 
-             (7)  The Secretary may, by writing, appoint an employee of an authorised Commonwealth contractor to be an authorised employee of the contractor for the purposes of this Division. The Secretary may do so only if the Secretary is satisfied that the employee has suitable qualifications for such an appointment.
+<dt>(a)</dt><dd>strategic business plans; and</dd>
 
-Definitions
+<dt>(b)</dt><dd>variations of strategic business plans.
 
-             (8)  In this section:
+</dd>
 
-                    <a name="authorised-commonwealth-contractor"></a>**_authorised Commonwealth contractor_** has the same meaning as in section 52.
+</dl></dl></dl>
 
-                    <a name="busi-dai"></a>**_business day_** means a day that is not a Saturday, a Sunday or a public holiday in the place concerned.
+**
 
-##### <a id="18B"></a>18B  Operation of electronic equipment by authorised officers
+###  TEXTILE, CLOTHING AND FOOTWEAR STRATEGIC INVESTMENT PROGRAM ACT 1999- SECT 18  Accounts 
+**
 
-             (1)  If:
+ <dl compact=""><dl compact="">
 
-                     (a)  an authorised officer has obtained access to premises for the purpose of monitoring compliance with the conditions of a grant; and<o:p></o:p>
+<dt>(1)</dt><dd>The TCF (SIP) scheme may provide that an entity ascertained in accordance
 
-<span style="mso-tab-count: 1">                     </span>(b)<span style="mso-tab-count: 1">  </span>the officer finds that documents in electronic form, relevant to that monitoring, are accessible by operating electronic equipment at the premises;
+with the scheme is not eligible for a grant unless the entity has complied with
 
-the officer may do only 1 of 2 things.
+such requirements as are imposed by the scheme in relation to the submission of
 
-Removal of documents
+audited accounts and audited financial statements.</dd> <dt>(2)</dt><dd>The TCF (SIP) scheme may provide that an entity ascertained in accordance with the scheme is not eligible for a grant unless the entity has complied with such requirements as are imposed by the scheme in relation to the submission of unaudited accounts and unaudited financial statements. </dd> </dl></dl>
 
-             (2)  One thing the officer may do is operate the equipment or other facilities at the premises to put the documents in hard copy form and remove the documents so produced.<o:p></o:p>
+<center>**
 
-Removal of disk, tape or other storage device
+###  TEXTILE, CLOTHING AND FOOTWEAR STRATEGIC INVESTMENT PROGRAM ACT 1999<division>Division 5&#151;Other matters relating to the scheme </division> <center>[Back to Top](#top)</center> 
+**</center>
 
-<span style="mso-tab-count: 1">             </span>(3)<span style="mso-tab-count: 1">  </span>The other thing the officer may do is operate the equipment or other facilities at the premises to transfer the documents to a disk, tape or other storage device that:<o:p></o:p>
+**
 
-                     (a)  is brought to the premises for the exercise of the power; or
+###  TEXTILE, CLOTHING AND FOOTWEAR STRATEGIC INVESTMENT PROGRAM ACT 1999- SECT 19  Loans 
+**
 
-                     (b)  is at the premises and the use of which for the purpose has been agreed to in writing by the occupier of the premises;
+ <dl compact=""><dl compact="">
 
-and remove the disk, tape or other storage device from the premises.
+		A loan must not be made to an entity after the end of the entity's 2004-2005
 
-##### <a id="18C"></a>18C  Operation of electronic equipment by experts
+income year.
 
-             (1)  This section applies if:
+ </dl></dl>
 
-                     (a)  an authorised officer has obtained access to premises for the purpose of monitoring compliance with the conditions of a grant; and<o:p></o:p>
+**
 
-                     (b)  the officer believes on reasonable grounds that:
+###  TEXTILE, CLOTHING AND FOOTWEAR STRATEGIC INVESTMENT PROGRAM ACT 1999- SECT 20  Advances on account of grants 
+**
 
-                              (i)  documents in electronic form, relevant to that monitoring, may be accessible by operating electronic equipment at the premises; and
+ <dl compact=""><dl compact="">
 
-                             (ii)  expert assistance is required to operate the equipment; and
+<dt>(1)</dt><dd>The TCF (SIP) scheme may provide for advances on account of grants that
 
-                            (iii)  an authorised employee (the **_expert_**) of an authorised Commonwealth contractor accompanying the officer in relation to that monitoring has the expertise to operate the equipment.
+may become payable.</dd> <dt>(2)</dt><dd>If: </dd> </dl></dl>
 
-Expert may operate equipment
+<dl compact=""><dl compact=""><dl compact="">
 
-             (2)  The expert may operate the equipment to determine whether such documents are accessible. If they are, the expert may do only 1 of 2 things.
+<dt>(a)</dt><dd>an entity receives an amount by way of an advance on account of a grant
 
-Produce documents in hard copy form
+that may become payable to the entity; and</dd>
 
-             (3)  One thing the expert may do is operate the equipment or other facilities at the premises to put the documents in hard copy form.<o:p></o:p>
+<dt>(b)</dt><dd>that amount is greater than the amount of the grant;
 
-Transfer documents to a disk, tape or other storage device
+</dd>
 
-<span style="mso-tab-count: 1">             </span>(4)<span style="mso-tab-count: 1">  </span>The other thing the expert may do is operate the equipment or other facilities at the premises to transfer the documents to a disk, tape or other storage device that:<o:p></o:p>
+</dl></dl></dl>
 
-                     (a)  is brought to the premises for the exercise of the power; or
+the entity is liable to pay to the Commonwealth the amount of the excess. 
 
-                     (b)  is at the premises and the use of which for the purpose has been agreed to in writing by the occupier of the premises.
+**
 
-Removal
+###  TEXTILE, CLOTHING AND FOOTWEAR STRATEGIC INVESTMENT PROGRAM ACT 1999- SECT 21  Scheme may confer administrative powers on the Minister or the Secretary 
+**
 
-             (5)  The authorised officer may then remove the documents in hard copy form or remove the disk, tape or other storage device.
+<dl compact=""><dl compact="">
 
-Section 70 of the Crimes Act 1914
+<dt>(1)</dt><dd>The TCF (SIP) scheme may make provision with respect to a matter by
 
-             (6)  For the purposes of the application of the definition of **_Commonwealth officer_** in subsection 3(1) of the _Crimes Act 1914_ to section 70 of that Act, an authorised employee of an authorised Commonwealth contractor who exercises a power referred to in this section is taken to be a person who performs services for the Commonwealth.
+conferring on the Minister a power to make a decision of an administrative
 
-##### <a id="18D"></a>18D  Pre-condition to operating electronic equipment
+character.</dd> <dt>(2)</dt><dd>The TCF (SIP) scheme may make provision with respect to a matter by conferring on the Secretary a power to make a decision of an administrative character. </dd> </dl></dl>
 
-<span style="mso-tab-count: 2">                   </span>A person may operate electronic equipment at premises as mentioned in this Division only if he or she believes on reasonable grounds that the operation of the equipment can be carried out without damage to the equipment.<o:p></o:p>
+**
 
-##### <a id="18E"></a>18E  Compensation for damage to electronic equipment
+###  TEXTILE, CLOTHING AND FOOTWEAR STRATEGIC INVESTMENT PROGRAM ACT 1999- SECT 22  Reconsideration and review of decisions 
+**
 
-             (1)  This section applies if:
+ <dl compact=""><dl compact="">
 
-                     (a)  as a result of electronic equipment being operated as mentioned in section 18A, 18B or 18C:
+<dt>(1)</dt><dd>The TCF (SIP) scheme must contain provisions under which:
 
-                              (i)  damage is caused to the equipment; or
+</dd> </dl></dl>
 
-                             (ii)  the data recorded on the equipment is damaged; or
+<dl compact=""><dl compact=""><dl compact="">
 
-                            (iii)  programs associated with the use of the equipment, or with the use of the data, are damaged or corrupted; and
+<dt>(a)</dt><dd>an entity who is affected by a decision of the Secretary under the scheme
 
-                     (b)  the damage or corruption occurs because:
+may, if dissatisfied with the decision, by notice given to the Secretary within
 
-                              (i)  insufficient care was exercised in selecting the person who was to operate the equipment; or
+such period as is ascertained in accordance with the scheme, request the
 
-                             (ii)  insufficient care was exercised by the person operating the equipment.
+Secretary to reconsider the decision; and</dd>
 
-             (2)  The Commonwealth must pay the owner of the equipment, or the user of the data or programs, such reasonable compensation for the damage or corruption as the Commonwealth and the owner or user agree on.
+<dt>(b)</dt><dd>the Secretary is required to reconsider the decision and is empowered to
 
-             (3)  However, if the owner or user and the Commonwealth fail to agree, the owner or user may institute proceedings in the Federal Court of Australia for such reasonable amount of compensation as the Court determines.
+confirm or revoke the decision or to vary the decision in such manner as the
 
-             (4)  In determining the amount of compensation payable, regard is to be had to whether the occupier of the premises, or the occupier’s employees and agents, if they were available at the time, provided any appropriate warning or guidance on the operation of the equipment.
+Secretary thinks fit; and</dd>
 
-             (5)  Compensation is payable out of money appropriated by the Parliament.
+<dt>(c)</dt><dd>applications may be made to the Administrative Appeals Tribunal for review
 
-             (6)  For the purposes of subsection (1):
+of decisions of the Secretary that have been confirmed or varied as mentioned
 
-                    <a name="damag"></a>**_damage_**, in relation to data, includes damage by erasure of data or addition of other data.
+in paragraph (b).
 
-##### <a id="18F"></a>18F  Identity cards
+</dd>
 
-             (1)  The Secretary must issue an identity card to an authorised officer.
+</dl></dl></dl>
 
-Form of identity card
+<dl compact=""><dl compact="">
 
-             (2)  The identity card must:
+<dt>(2)</dt><dd>The period mentioned in paragraph (1)(a) must not be shorter than 30 days
 
-                     (a)  be in the form prescribed by the regulations; and
+after the day on which the decision first comes to the attention of the entity
 
-                     (b)  contain a recent photograph of the authorised officer.
+concerned.</dd> <dt>(3)</dt><dd>The TCF (SIP) scheme must provide that the reasons for making a request mentioned in paragraph (1)(a) must be set out in the request.</dd> <dt>(4)</dt><dd>If a request is made as mentioned in paragraph (1)(a) in respect of a decision, section 41 of the _Administrative Appeals Tribunal Act 1975_ applies as if the making of the request were the making of an application to the Administrative Appeals Tribunal for a review of that decision.</dd> <dt>(5)</dt><dd>The TCF (SIP) scheme must provide that, if the Secretary does not confirm, revoke or vary a decision before the end of the period of 30 days after the day on which the Secretary received the request to reconsider the decision, the Secretary is taken, at the end of that period, to have confirmed the decision.</dd> <dt>(6)</dt><dd>The TCF (SIP) scheme must provide that, if the Secretary confirms, revokes or varies the decision before the end of the period referred to in subsection (5), the Secretary must, by notice given to the applicant, inform the applicant of the result of the reconsideration of the decision and the reasons for confirming, revoking or varying the decision, as the case may be.</dd> <dt>(7)</dt><dd>If, because of the operation of a provision covered by subsection (5), a decision is taken to be confirmed, section 29 of the _Administrative Appeals Tribunal Act 1975_ applies as if the prescribed time for making application for review of the decision were the period: </dd> </dl></dl>
 
-Offence
+<dl compact=""><dl compact=""><dl compact="">
 
-             (3)  A person commits an offence if:
+<dt>(a)</dt><dd>commencing on the day on which the decision is taken to have been
 
-                     (a)  the person has been issued with an identity card; and
+confirmed; and</dd>
 
-                     (b)  the person ceases to be an authorised officer; and
+<dt>(b)</dt><dd>ending on the 28th day after that day.
 
-                     (c)  the person does not return the identity card to the Secretary as soon as practicable.
+</dd>
 
-                    Penalty:  1 penalty unit.
+</dl></dl></dl>
 
-             (4)  An offence against subsection (3) is an offence of strict liability.
+<center>Back to Top</center>
 
-Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
+**
 
-Card lost or destroyed
+###  TEXTILE, CLOTHING AND FOOTWEAR STRATEGIC INVESTMENT PROGRAM ACT 1999- SECT 23  Statement to accompany notification of decisions 
+**
 
-             (5)  Subsection (3) does not apply if the identity card was lost or destroyed.
+ <dl compact=""><dl compact="">
 
-Note:          A defendant bears an evidential burden in relation to the matter in this subsection: see subsection 13.3(3) of the _Criminal Code_.
+<dt>(1)</dt><dd>The TCF (SIP) scheme must provide that, if:
 
-Authorised officer must carry card
+</dd> </dl></dl>
 
-             (6)  An authorised officer must carry his or her identity card at all times when exercising powers as an authorised officer.
+<dl compact=""><dl compact=""><dl compact="">
 
-Authorised officer must produce card on request
+<dt>(a)</dt><dd>written notice is given to an entity affected by a decision of the
 
-             (7)  An authorised officer is not entitled to exercise any powers referred to in this Division in relation to premises if:
+Secretary under the scheme; and</dd>
 
-                     (a)  the occupier of the premises has requested the officer to produce the officer’s identity card for inspection by the occupier; and
+<dt>(b)</dt><dd>that notice is to the effect that the decision has been made;
 
-                     (b)  the officer fails to comply with the request.
+</dd>
 
-<o:p> </o:p>
-
-### Division 5—Other matters relating to the scheme
-
-##### <a id="19"></a>19  Loans
-
-                   A loan must not be made to an entity after the end of the entity’s 2004-2005 income year.
-
-##### <a id="20"></a>20  Advances on account of grants
-
-             (1)  The TCF (SIP) scheme may provide for advances on account of grants that may become payable.
-
-             (2)  If:
-
-                     (a)  an entity receives an amount by way of an advance on account of a grant that may become payable to the entity; and
-
-                     (b)  that amount is greater than the amount of the grant;
-
-the entity is liable to pay to the Commonwealth the amount of the excess.
-
-##### <a id="21"></a>21  Scheme may confer administrative powers on the Minister or the Secretary
-
-             (1)  The TCF (SIP) scheme may make provision with respect to a matter by conferring on the Minister a power to make a decision of an administrative character.
-
-             (2)  The TCF (SIP) scheme may make provision with respect to a matter by conferring on the Secretary a power to make a decision of an administrative character.
-
-##### <a id="22"></a>22  Reconsideration and review of decisions
-
-             (1)  The TCF (SIP) scheme must contain provisions under which:
-
-                     (a)  an entity who is affected by a decision of the Secretary under the scheme may, if dissatisfied with the decision, by notice given to the Secretary within such period as is ascertained in accordance with the scheme, request the Secretary to reconsider the decision; and
-
-                     (b)  the Secretary is required to reconsider the decision and is empowered to confirm or revoke the decision or to vary the decision in such manner as the Secretary thinks fit; and
-
-                     (c)  applications may be made to the Administrative Appeals Tribunal for review of decisions of the Secretary that have been confirmed or varied as mentioned in paragraph (b).
-
-             (2)  The period mentioned in paragraph (1)(a) must not be shorter than 30 days after the day on which the decision first comes to the attention of the entity concerned.
-
-             (3)  The TCF (SIP) scheme must provide that the reasons for making a request mentioned in paragraph (1)(a) must be set out in the request.
-
-             (4)  If a request is made as mentioned in paragraph (1)(a) in respect of a decision, section 41 of the _Administrative Appeals Tribunal Act 1975_ applies as if the making of the request were the making of an application to the Administrative Appeals Tribunal for a review of that decision.
-
-             (5)  The TCF (SIP) scheme must provide that, if the Secretary does not confirm, revoke or vary a decision before the end of the period of 30 days after the day on which the Secretary received the request to reconsider the decision, the Secretary is taken, at the end of that period, to have confirmed the decision.
-
-             (6)  The TCF (SIP) scheme must provide that, if the Secretary confirms, revokes or varies the decision before the end of the period referred to in subsection (5), the Secretary must, by notice given to the applicant, inform the applicant of the result of the reconsideration of the decision and the reasons for confirming, revoking or varying the decision, as the case may be.
-
-             (7)  If, because of the operation of a provision covered by subsection (5), a decision is taken to be confirmed, section 29 of the _Administrative Appeals Tribunal Act 1975_ applies as if the prescribed time for making application for review of the decision were the period:
-
-                     (a)  commencing on the day on which the decision is taken to have been confirmed; and
-
-                     (b)  ending on the 28th day after that day.
-
-##### <a id="23"></a>23  Statement to accompany notification of decisions
-
-             (1)  The TCF (SIP) scheme must provide that, if:
-
-                     (a)  written notice is given to an entity affected by a decision of the Secretary under the scheme; and
-
-                     (b)  that notice is to the effect that the decision has been made;
+</dl></dl></dl>
 
 that notice must include a statement to the effect that:
 
-                     (c)  the entity may, if dissatisfied with the decision, seek a reconsideration of the decision by the Secretary; and
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (d)  the entity may, subject to the _Administrative Appeals Tribunal Act 1975_, if dissatisfied with a decision made by the Secretary upon that reconsideration confirming or varying the first-mentioned decision, make application to the Administrative Appeals Tribunal for review of the decision so confirmed or varied.
+<dt>(c)</dt><dd>the entity may, if dissatisfied with the decision, seek a reconsideration
 
-             (2)  The TCF (SIP) scheme must provide that, if:
+of the decision by the Secretary; and</dd>
 
-                     (a)  the Secretary confirms or varies a decision as mentioned in paragraph 22(1)(b); and
+<dt>(d)</dt><dd>the entity may, subject to the _Administrative Appeals Tribunal Act 1975_, if dissatisfied with a decision made by the Secretary upon that
 
-                     (b)  gives to the entity written notice of the confirmation or variation of the decision;
+reconsideration confirming or varying the first-mentioned decision, make
+
+application to the Administrative Appeals Tribunal for review of the decision
+
+so confirmed or varied.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>The TCF (SIP) scheme must provide that, if:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the Secretary confirms or varies a decision as mentioned in paragraph
+
+22(1)(b); and</dd>
+
+<dt>(b)</dt><dd>gives to the entity written notice of the confirmation or variation of the
+
+decision;
+
+</dd>
+
+</dl></dl></dl>
 
 that notice must include a statement to the effect that the entity may, subject to the _Administrative Appeals Tribunal Act 1975_, if dissatisfied with the decision so confirmed or varied, make application to the Administrative Appeals Tribunal for review of the decision.
 
-             (3)  A failure to include a statement in a notice as mentioned in subsection (1) or (2) does not affect the validity of a decision.
+<dl compact=""><dl compact="">
 
-##### <a id="24"></a>24  Guarantees relating to payment of scheme debts connected with grants
+<dt>(3)</dt><dd>A failure to include a statement in a notice as mentioned in subsection
 
-             (1)  The TCF (SIP) scheme may provide that an entity ascertained in accordance with the scheme is not eligible for a grant unless another entity ascertained in accordance with the scheme gives a guarantee to the Commonwealth that any scheme debts owed by the first-mentioned entity will be paid.
+<dt>(1)</dt><dd>or (2) does not affect the validity of a decision.
 
-             (2)  The TCF (SIP) scheme may provide that an entity ascertained in accordance with the scheme is not entitled to request an advance on account of a grant unless another entity ascertained in accordance with the scheme gives a guarantee to the Commonwealth that any scheme debts owed by the first-mentioned entity will be paid.
+</dd></dd> </dl></dl>
 
-##### <a id="25"></a>25  Guarantees relating to payment of scheme debts connected with loans
+**
 
-                   The TCF (SIP) scheme may provide that an entity ascertained in accordance with the scheme is not entitled to apply for a loan unless another entity ascertained in accordance with the scheme gives a guarantee to the Commonwealth that any scheme debts owed by the first-mentioned entity will be paid.
+###  TEXTILE, CLOTHING AND FOOTWEAR STRATEGIC INVESTMENT PROGRAM ACT 1999- SECT 24  Guarantees relating to payment of scheme debts connected with grants 
+**
 
-##### <a id="26"></a>26  Non-arm’s length transactions
+<dl compact=""><dl compact="">
 
-                   The TCF (SIP) scheme may provide that, if an entity incurs expenditure under a transaction that is not at arm’s length, the amount of that expenditure is taken to be the amount that would reasonably have been expected to be incurred if the parties had been dealing with each other at arm’s length.
+<dt>(1)</dt><dd>The TCF (SIP) scheme may provide that an entity ascertained in accordance
 
-##### <a id="27"></a>27  Participation in accredited benchmarking/management-improvement studies
+with the scheme is not eligible for a grant unless another entity ascertained
 
-                   The TCF (SIP) scheme may provide that an entity is not eligible for any of the following grants:
+in accordance with the scheme gives a guarantee to the Commonwealth that any
 
-                     (a)  grants in respect of new TCF plant/building expenditure;
+scheme debts owed by the first-mentioned entity will be paid.</dd> <dt>(2)</dt><dd>The TCF (SIP) scheme may provide that an entity ascertained in accordance with the scheme is not entitled to request an advance on account of a grant unless another entity ascertained in accordance with the scheme gives a guarantee to the Commonwealth that any scheme debts owed by the first-mentioned entity will be paid. </dd> </dl></dl>
 
-                     (b)  grants in respect of TCF research and development expenditure;
+**
 
-                     (c)  grants in respect of TCF value-adding;
+###  TEXTILE, CLOTHING AND FOOTWEAR STRATEGIC INVESTMENT PROGRAM ACT 1999- SECT 25  Guarantees relating to payment of scheme debts connected with loans 
+**
+
+<dl compact=""><dl compact="">
+
+		The TCF (SIP) scheme may provide that an entity ascertained in accordance
+
+with the scheme is not entitled to apply for a loan unless another entity
+
+ascertained in accordance with the scheme gives a guarantee to the Commonwealth
+
+that any scheme debts owed by the first-mentioned entity will be paid.
+
+ </dl></dl>
+
+**
+
+###  TEXTILE, CLOTHING AND FOOTWEAR STRATEGIC INVESTMENT PROGRAM ACT 1999- SECT 26  Non-arm's length transactions 
+**
+
+ <dl compact=""><dl compact="">
+
+		The TCF (SIP) scheme may provide that, if an entity incurs expenditure under
+
+a transaction that is not at arm's length, the amount of that expenditure is
+
+taken to be the amount that would reasonably have been expected to be incurred
+
+if the parties had been dealing with each other at arm's length.
+
+ </dl></dl>
+
+**
+
+###  TEXTILE, CLOTHING AND FOOTWEAR STRATEGIC INVESTMENT PROGRAM ACT 1999- SECT 27  Participation in accredited benchmarking/management-improvement studies 
+**
+
+<center>Back to Top</center>
+
+<dl compact=""><dl compact="">
+
+		The TCF (SIP) scheme may provide that an entity is not eligible for any of
+
+the following grants:
+
+ </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>grants in respect of new TCF plant/building expenditure;</dd>
+
+<dt>(b)</dt><dd>grants in respect of TCF research and development expenditure;</dd>
+
+<dt>(c)</dt><dd>grants in respect of TCF value-adding;
+
+</dd>
+
+</dl></dl></dl>
 
 unless the entity has complied with such requirements as are imposed by the scheme in relation to participation in a study that, under the scheme, is taken to be:
 
-                     (d)  an accredited benchmarking study; or
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (e)  an accredited management-improvement study.
+<dt>(d)</dt><dd>an accredited benchmarking study; or</dd>
 
-##### <a id="28"></a>28  Grant by way of bounty
+<dt>(e)</dt><dd>an accredited management-improvement study.
 
-                   This Act does not prevent a grant from being a grant by way of bounty.
+</dd>
 
-##### <a id="29"></a>29  Grants and advances to be inalienable
+</dl></dl></dl>
 
-                   The TCF (SIP) scheme may provide for grants, and advances on account of grants, to be absolutely inalienable (whether by way of, or in consequence of, sale, assignment, charge, execution, bankruptcy or otherwise) except with the approval of the Secretary.
+**
 
-##### <a id="30"></a>30  Miscellaneous matters
+###  TEXTILE, CLOTHING AND FOOTWEAR STRATEGIC INVESTMENT PROGRAM ACT 1999- SECT 28  Grant by way of bounty 
+**
 
-                   The TCF (SIP) scheme may make provision for and in relation to the following matters:
+ <dl compact=""><dl compact="">
 
-                     (a)  the times within which claims for grants are to be lodged;
+		This Act does not prevent a grant from being a grant by way of bounty.
 
-                     (b)  requiring that a claim made by an entity ascertained in accordance with the scheme be accompanied by an audited statement relating to specified activities;
+ </dl></dl>
 
-                     (c)  requiring that a claim made by an entity ascertained in accordance with the scheme be accompanied by an unaudited statement relating to specified activities;
+**
 
-                     (d)  requiring that a claim be accompanied by such a fee as is ascertained in accordance with the scheme;
+###  TEXTILE, CLOTHING AND FOOTWEAR STRATEGIC INVESTMENT PROGRAM ACT 1999- SECT 29  Grants and advances to be inalienable 
+**
 
-                     (e)  requiring that an application for a loan be accompanied by such a fee as is ascertained in accordance with the scheme;
+ <dl compact=""><dl compact="">
 
-                      (f)  the apportionment of expenditure;
+		The TCF (SIP) scheme may provide for grants, and advances on account of
 
-                     (g)  the adjustment of eligibility for grants in relation to the transfer of the whole or a part of a business, including (but not limited to):
+grants, to be absolutely inalienable (whether by way of, or in consequence of,
 
-                              (i)  treating the transferee as if the transferee had incurred particular expenditure, had derived particular revenue and had done particular acts or things; and
+sale, assignment, charge, execution, bankruptcy or otherwise) except with the
 
-                             (ii)  treating the transferor as if the transferor had not incurred particular expenditure, had not derived particular revenue and had not done particular acts or things;
+approval of the Secretary.
 
-                     (h)  the times when grants become payable;
+ </dl></dl>
 
-                      (i)  specifying different categories of eligible expenditure for the purposes of working out eligibility for different types of grants.
+**
 
-##### <a id="31"></a>31  Ancillary or incidental provisions
+###  TEXTILE, CLOTHING AND FOOTWEAR STRATEGIC INVESTMENT PROGRAM ACT 1999- SECT 30  Miscellaneous matters 
+**
 
-                   The TCF (SIP) scheme may contain such ancillary or incidental provisions as the Minister considers appropriate.
+ <dl compact=""><dl compact="">
 
-##### <a id="32"></a>32  Scheme-making power not limited
+		The TCF (SIP) scheme may make provision for and in relation to the following
 
-                   Sections 9 to 31 (inclusive) do not, by implication, limit section 8.
+matters:
 
-##### <a id="33"></a>33  Fee must not amount to taxation
+ </dl></dl>
 
-                   The amount of a fee under the TCF (SIP) scheme must not be such as to amount to taxation.
+<dl compact=""><dl compact=""><dl compact="">
 
-##### <a id="34"></a>34  Variation of scheme
+<dt>(a)</dt><dd>the times within which claims for grants are to be lodged;</dd>
 
-             (1)  The TCF (SIP) scheme may be varied, but not revoked, in accordance with subsection 33(3) of the _Acts Interpretation Act 1901_.
+<dt>(b)</dt><dd>requiring that a claim made by an entity ascertained in accordance with
 
-             (2)  Subsection (1) does not limit the application of subsection 33(3) of the _Acts Interpretation Act 1901_ to other instruments under this Act.
+the scheme be accompanied by an audited statement relating to specified
 
-             (3)  To avoid doubt, the TCF (SIP) scheme may be varied after the end of the period of 14 days beginning on the day on which this Act receives the Royal Assent.
+activities;</dd>
 
-##### <a id="35"></a>35  Scheme to be a disallowable instrument
+<dt>(c)</dt><dd>requiring that a claim made by an entity ascertained in accordance with
 
-                   An instrument under section 8 is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
+the scheme be accompanied by an unaudited statement relating to specified
 
-##### <a id="36"></a>36  Appropriation
+activities;</dd>
 
-             (1)  Grants, and advances on account of grants, are to be paid out of the Consolidated Revenue Fund, which is appropriated accordingly.
+<dt>(d)</dt><dd>requiring that a claim be accompanied by such a fee as is ascertained in
 
-             (2)  Loans are to be made out of the Consolidated Revenue Fund, which is appropriated accordingly.
+accordance with the scheme;</dd>
 
-<o:p> </o:p>
+<dt>(e)</dt><dd>requiring that an application for a loan be accompanied by such a fee as
 
-## Part 3—Supplementation of the Regional Assistance Program
+is ascertained in accordance with the scheme;</dd>
 
-##### <a id="37"></a>37  Supplementation of the Regional Assistance Program
+<dt>(f)</dt><dd>the apportionment of expenditure;</dd>
 
-             (1)  The object of this section is to allow the diversion to the Regional Assistance Program of a portion of the $700 million that is available for the TCF (SIP) scheme.
+<dt>(g)</dt><dd>the adjustment of eligibility for grants in relation to the transfer of
 
-Note:          See also section 9.
+the whole or a part of a business, including (but not limited to):
 
-             (2)  Before <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2005" day="1" month="7">1 July 2005</st1:date>, the Minister may, by writing, determine that a specified amount is appropriated from the Consolidated Revenue Fund for the purposes of the Regional Assistance Program.
+</dd>
 
-             (3)  A determination under subsection (2) has effect accordingly.
+</dl></dl></dl>
 
-             (4)  The Minister must cause a copy of a determination under subsection (2) to be laid before each House of the Parliament within 15 sitting days of that House after the day on which the determination was made.
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-             (5)  In this section:
+<dt>(i)</dt><dd>treating the transferee as if the transferee had incurred particular
 
-                    <a name="region-assist-program"></a>**_Regional Assistance Program_** means the program administered by the Commonwealth and known as the Regional Assistance Program.
+expenditure, had derived particular revenue and had done particular acts or
 
-<o:p> </o:p>
+things; and</dd>
 
-## Part 3A—TCF Post-2005 (SIP) scheme
+<dt>(ii)</dt><dd>treating the transferor as if the transferor had not incurred particular
 
-### Division 1—Preliminary
+expenditure, had not derived particular revenue and had not done particular
 
-##### <a id="37A"></a>37A  Object of Part and simplified outline of Part
+acts or things;
 
-Object
+</dd>
 
-             (1)  The object of this Part is to foster the development of a sustainable and internationally competitive TCF manufacturing industry and TCF design industry in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> by providing incentives which will promote investment and innovation.
+</dl></dl></dl></dl>
 
-Simplified outline
+<dl compact=""><dl compact=""><dl compact="">
 
-             (2)  The following is a simplified outline of this Part:
+<dt>(h)</dt><dd>the times when grants become payable;</dd>
 
-<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid; mso-border-alt: solid windowtext .75pt">
+<dt>(i)</dt><dd>specifying different categories of eligible expenditure for the purposes
 
-<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      The Minister must formulate a scheme (the **_TCF_** **_Post-2005 (SIP)_** **_scheme_**) for the making of grants in connection with the design and manufacture, in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>, of eligible TCF products.</li>
+of working out eligibility for different types of grants.
 
-<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      The total of the grants paid under the TCF Post-2005 (SIP) scheme must not exceed $575 million.</li>
+</dd>
 
-<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      The TCF Post-2005 (SIP) scheme will provide for 2 types of grants:</li>
+</dl></dl></dl>
 
-               (a)     grants in respect of TCF capital investment expenditure on new TCF plant or buildings, brand support for TCF products or non-production related information technology; and
+**
 
-               (b)     grants in respect of TCF research and development expenditure.
+###  TEXTILE, CLOTHING AND FOOTWEAR STRATEGIC INVESTMENT PROGRAM ACT 1999- SECT 31  Ancillary or incidental provisions 
+**
 
-<li class="BoxList" style="MARGIN-LEFT: 21.25pt; mso-pagination: widow-orphan lines-together">•      The TCF Post-2005 (SIP) scheme will provide for the making of those grants in respect of expenditure incurred in the 2005-2006 to 2014-2015 income years.</li>
+ <dl compact=""><dl compact="">
 
-<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      Grants under the TCF Post-2005 (SIP) scheme are to be made in arrears.</li>
+		The TCF (SIP) scheme may contain such ancillary or incidental provisions as
 
-<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      Entities who wish to obtain grants under the TCF Post-2005 (SIP) scheme will be required to register under the scheme and to submit strategic business plans and accounts.</li></div>
+the Minister considers appropriate.
 
-##### <a id="37B"></a>37B  Definitions
+ </dl></dl>
 
-                   In this Part:
+<center>Back to Top</center>
 
-                    <a name="authorised-offic"></a>**_authorised officer_** means a person appointed under subsection 37P(6) as an authorised officer of the Department.
+**
 
-                    <a name="claim"></a>**_claim_** means a claim for a grant.
+###  TEXTILE, CLOTHING AND FOOTWEAR STRATEGIC INVESTMENT PROGRAM ACT 1999- SECT 32  Scheme-making power not limited 
+**
 
-                    <a name="cloth-finish-textil-expenditur"></a>**_clothing/finished textile expenditure_** means expenditure in connection with, or incidental to, the manufacture in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>, or the design in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>, of products that, under the TCF Post-2005 (SIP) scheme, are taken to be:
+ <dl compact=""><dl compact="">
 
-                     (a)  clothing products; or
+		Sections 9 to 31 (inclusive) do not, by implication, limit section 8.
 
-                     (b)  finished textile products.
+ </dl></dl>
 
-                    <a name="grant"></a>**_grant_** means a grant under the TCF Post-2005 (SIP) scheme.
+**
 
-                    <a name="leather-technic-textil-expenditur"></a>**_leather/technical textile expenditure_** means expenditure in connection with, or incidental to, the manufacture in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>, or the design in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>, of products that, under the TCF Post-2005 (SIP) scheme, are taken to be:
+###  TEXTILE, CLOTHING AND FOOTWEAR STRATEGIC INVESTMENT PROGRAM ACT 1999- SECT 33  Fee must not amount to taxation 
+**
 
-                     (a)  leather products; or
+ <dl compact=""><dl compact="">
 
-                     (b)  technical textile products.
+		The amount of a fee under the TCF (SIP) scheme must not be such as to amount
 
-<o:p> </o:p>
+to taxation.
 
-### Division 2—Formulation of TCF Post-2005 (SIP) scheme
+ </dl></dl>
 
-##### <a id="37C"></a>37C  TCF Post-2005 (SIP) scheme
+**
 
-                   The Minister must, by writing, formulate a scheme (the **_TCF Post-2005 (SIP) scheme_**) for the making of grants in connection with, or incidental to, the following:
+###  TEXTILE, CLOTHING AND FOOTWEAR STRATEGIC INVESTMENT PROGRAM ACT 1999- SECT 34  Variation of scheme 
+**
 
-                     (a)  the manufacture in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> of products that, under the scheme, are taken to be eligible TCF products;
+ <dl compact=""><dl compact="">
 
-                     (b)  the design in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>, for manufacture in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>, of products:
+<dt>(1)</dt><dd>The TCF (SIP) scheme may be varied, but not revoked, in accordance with
 
-                              (i)  that, under the scheme, are taken to be eligible TCF products; and
+subsection 33(3) of the _Acts Interpretation Act 1901_.</dd> <dt>(2)</dt><dd>Subsection (1) does not limit the application of subsection 33(3) of the _Acts Interpretation Act 1901_ to other instruments under this Act.</dd> <dt>(3)</dt><dd>To avoid doubt, the TCF (SIP) scheme may be varied after the end of the period of 14 days beginning on the day on which this Act receives the Royal Assent. </dd> </dl></dl>
 
-                             (ii)  some or all of which are intended to be sold in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>;
+**
 
-                     (c)  the design in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>, for manufacture outside <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>, of products:
+###  TEXTILE, CLOTHING AND FOOTWEAR STRATEGIC INVESTMENT PROGRAM ACT 1999- SECT 35  Scheme to be a disallowable instrument 
+**
 
-                              (i)  that, under the scheme, are taken to be eligible TCF products; and
+ <dl compact=""><dl compact="">
 
-                             (ii)  some or all of which are intended to be sold in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>;
+		An instrument under section 8 is a disallowable instrument for the purposes
 
-                            where the importation into <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> of some or all of the products is or will be covered by a designated industry program.
+of section 46A of the _Acts Interpretation Act 1901_.
 
-##### <a id="37D"></a>37D  Caps
+ </dl></dl>
 
-Total cap
+**
 
-             (1)  The TCF Post-2005 (SIP) scheme must make provision for ensuring that the total of the grants (including advances on account of grants) paid under the scheme does not exceed $575,000,000.
+###  TEXTILE, CLOTHING AND FOOTWEAR STRATEGIC INVESTMENT PROGRAM ACT 1999- SECT 36  Appropriation 
+**
 
-Note:          Section 37V deals with advances on account of grants.
+ <dl compact=""><dl compact="">
 
-Cap for 2005-2006 to 2009-2010 income years
+<dt>(1)</dt><dd>Grants, and advances on account of grants, are to be paid out of the
 
-             (2)  The scheme must also make provision for ensuring that the total of the grants (including advances on account of grants) paid under the scheme in respect of expenditure incurred in the 2005-2006 to 2009-2010 income years does not exceed $487,500,000.
+Consolidated Revenue Fund, which is appropriated accordingly.</dd> <dt>(2)</dt><dd>Loans are to be made out of the Consolidated Revenue Fund, which is appropriated accordingly. </dd> </dl></dl>
 
-Cap for 2010-2011 to 2014-2015 income years
+<center>**
 
-             (3)  The scheme must also make provision for ensuring that the total of the grants (including advances on account of grants) paid under the scheme in respect of expenditure incurred in the 2010-2011 to 2014-2015 income years does not exceed $87,500,000.
+###  TEXTILE, CLOTHING AND FOOTWEAR STRATEGIC INVESTMENT PROGRAM ACT 1999<part>Part 3&#151;Supplementation of the Regional Assistance Program </part>
+**</center>
 
-<o:p> </o:p>
+**
 
-### Division 3—General policy objectives
+###  TEXTILE, CLOTHING AND FOOTWEAR STRATEGIC INVESTMENT PROGRAM ACT 1999- SECT 37  Supplementation of the Regional Assistance Program 
+**
 
-##### <a id="37E"></a>37E  General policy objectives
+ <dl compact=""><dl compact="">
 
-                   The TCF Post-2005 (SIP) scheme must be directed towards ensuring the achievement of the policy objectives set out in this Division.
+<dt>(1)</dt><dd>The object of this section is to allow the diversion to the Regional
 
-##### <a id="37F"></a>37F  2 types of grants
+Assistance Program of a portion of the $700 million that is available for the
 
-                   It is a policy objective for the TCF Post-2005 (SIP) scheme that there are to be 2 types of grants, as follows:
+TCF (SIP) scheme.
 
-                     (a)  the first type of grants are to be known as **_grants in respect of TCF capital investment expenditure_**;
+</dd> </dl></dl>
 
-                     (b)  the second type of grants are to be known as **_grants in respect of TCF research and development expenditure_**.
+<dl compact=""><dl compact="">
 
-##### <a id="37G"></a>37G  Provisions relating to grants in respect of TCF capital investment expenditure
+Note:	See also section 9.
 
-             (1)  It is a policy objective for the TCF Post-2005 (SIP) scheme that grants in respect of TCF capital investment expenditure are only to be made as set out in this section.
+ </dl></dl>
 
-New TCF plant/building expenditure
+<dl compact=""><dl compact="">
 
-             (2)  The grants are to be made in respect of expenditure that:
+<dt>(2)</dt><dd>Before 1 July 2005, the Minister may, by writing, determine that a
 
-                     (a)  under the scheme, is taken to be new TCF plant/building expenditure; and
+specified amount is appropriated from the Consolidated Revenue Fund for the
 
-                     (b)  is incurred by an entity during any of the 2005-2006 to 2014-2015 income years of the entity; and
+purposes of the Regional Assistance Program.</dd> <dt>(3)</dt><dd>A determination under subsection (2) has effect accordingly.</dd> <dt>(4)</dt><dd>The Minister must cause a copy of a determination under subsection (2) to be laid before each House of the Parliament within 15 sitting days of that House after the day on which the determination was made.</dd> <dt>(5)</dt><dd>In this section: </dd> </dl></dl>
 
-                     (c)  if the expenditure is incurred by the entity during any of the 2010-2011 to 2014-2015 income years of the entity—is also clothing/finished textile expenditure.
+<def><dl compact=""><dl compact="">
 
-Note:          For **_clothing/finished textile expenditure_**, see section 37B.
+_Regional Assistance Program_ means the program administered by the
 
-             (3)  It is a policy objective for the scheme that expenditure is only to be taken to be new TCF plant/building expenditure under the scheme if the expenditure is of the kind for which, at the commencement of this Part, a Type 1 grant could be made under the TCF (SIP) scheme.
+Commonwealth and known as the Regional Assistance Program.
 
-Brand support for TCF products expenditure
+ </dl></dl>
 
-             (4)  The grants are to be made in respect of expenditure that:
+<center>**
 
-                     (a)  under the scheme, is taken to be brand support for TCF products expenditure; and
+###  TEXTILE, CLOTHING AND FOOTWEAR STRATEGIC INVESTMENT PROGRAM ACT 1999<part>Part 4&#151;Information-gathering powers </part>
+**</center>
 
-                     (b)  is incurred by an entity during any of the 2005-2006 to 2014-2015 income years of the entity; and
+<center>Back to Top</center>
 
-                     (c)  if the expenditure is incurred by the entity during any of the 2010-2011 to 2014-2015 income years of the entity—is also clothing/finished textile expenditure.
+**
 
-Note:          For **_clothing/finished textile expenditure_**, see section 37B.
+###  TEXTILE, CLOTHING AND FOOTWEAR STRATEGIC INVESTMENT PROGRAM ACT 1999- SECT 38  Minister or Secretary may obtain information and documents  
+**
 
-Non-production related information technology expenditure
+<dl compact=""><dl compact="">
 
-             (5)  The grants are to be made in respect of expenditure that:
+<dt>(1)</dt><dd>This section applies to a person if the Minister or the Secretary has
 
-                     (a)  under the scheme, is taken to be non-production related information technology expenditure; and
+reason to believe that the person:
 
-                     (b)  is incurred by an entity during any of the 2005-2006 to 2014-2015 income years of the entity; and
+</dd> </dl></dl>
 
-                     (c)  is also clothing/finished textile expenditure.
+<dl compact=""><dl compact=""><dl compact="">
 
-Note:          For **_clothing/finished textile expenditure_**, see section 37B.
+<dt>(a)</dt><dd>has information or a document that is relevant to the operation of the TCF
 
-##### <a id="37H"></a>37H  Provisions relating to grants in respect of TCF research and development expenditure
+<dt>(SIP)</dt><dd>scheme; or</dd></dd>
 
-             (1)  It is a policy objective for the TCF Post-2005 (SIP) scheme that grants in respect of TCF research and development expenditure are only to be made in respect of expenditure that:
+<dt>(b)</dt><dd>is capable of giving evidence which the Minister or the Secretary has
 
-                     (a)  under the scheme, is taken to be TCF research and development expenditure; and
+reason to believe is relevant to the operation of the TCF (SIP) scheme.
 
-                     (b)  is incurred by an entity during any of the 2005-2006 to 2014-2015 income years of the entity; and
+</dd>
 
-                     (c)  if the expenditure is incurred by the entity during any of the 2010-2011 to 2014-2015 income years of the entity—is also clothing/finished textile expenditure.
+</dl></dl></dl>
 
-Note:          For **_clothing/finished textile expenditure_**, see section 37B.
+<dl compact=""><dl compact="">
 
-             (2)  It is a policy objective for the scheme that:
+<dt>(2)</dt><dd>The Minister or the Secretary may, by written notice given to the person,
 
-                     (a)  leather/technical textile expenditure is not to be taken, under the scheme, to be expenditure on TCF research and development; and
+require the person:
 
-                     (b)  expenditure in obtaining industrial property rights may be taken, under the scheme, to be expenditure on TCF research and development.
+</dd> </dl></dl>
 
-Note:          For **_leather/technical textile expenditure_**, see section 37B.
+<dl compact=""><dl compact=""><dl compact="">
 
-##### <a id="37J"></a>37J  Grants to be made in arrears
+<dt>(a)</dt><dd>to give to the Minister or the Secretary, within the period and in the
 
-                   It is a policy objective for the TCF Post-2005 (SIP) scheme that grants must not be made to an entity in respect of expenditure incurred by the entity during an income year of the entity unless the entity makes a claim after the end of the income year.
+manner and form specified in the notice, any such information; or</dd>
 
-##### <a id="37K"></a>37K  Grants cap based on eligible revenue and eligible start-up investment amount
+<dt>(b)</dt><dd>to produce to the Minister or the Secretary, within the period and in the
 
-Cap based on eligible revenue
+manner specified in the notice, any such documents; or</dd>
 
-             (1)  It is a policy objective for the TCF Post-2005 (SIP) scheme that there be a cap on the total of the grants that become payable to an entity during an income year (the **_claim year_**) of the entity in respect of expenditure incurred by the entity otherwise than during a period that, under the scheme, is taken to be an eligible start-up period of the entity.
+<dt>(c)</dt><dd>to make copies of any such documents and to produce to the Minister or the
 
-             (2)  The total of the grants must not exceed 5% of the amount that, under the scheme, is taken to be the total eligible revenue derived by the entity, during the income year of the entity before the claim year, from sales of products that, under the scheme, are taken to be eligible TCF products.
+Secretary, within the period and in the manner specified in the notice, those
 
-Cap based on eligible start-up investment amount
+copies; or</dd>
 
-             (3)  It is a policy objective for the TCF Post-2005 (SIP) scheme that there be a cap on the total of the grants that become payable to an entity during an income year (the **_claim year_**) of the entity and any income years of the entity that are earlier than the claim year in respect of expenditure incurred by the entity during a period that, under the scheme, is taken to be an eligible start-up period of the entity.
+<dt>(d)</dt><dd>if the person is an individual&#151;to appear before the Minister or the
 
-             (4)  The total of the grants must not exceed 15% of the amount that, under the scheme, is taken to be the total of the eligible start-up investment amounts of the entity for each of the income years of the entity that is earlier than the claim year.
+Secretary at a time and place specified in the notice to give any such
 
-When grant becomes payable
+evidence, either orally or in writing, and produce any such documents; or</dd>
 
-             (5)  For the purposes of this section, a grant becomes payable to an entity when a determination is made under the scheme that the entity is entitled to be paid the grant.
+<dt>(e)</dt><dd>if the person is a body corporate&#151;to cause a competent officer of the
 
-<o:p> </o:p>
+body to appear before the Minister or the Secretary at a time and place
 
-### Division 4—Registration for the purposes of the scheme
+specified in the notice to give any such evidence, either orally or in writing,
 
-##### <a id="37L"></a>37L  Registration for the purposes of the scheme
+and produce any such documents.
 
-Registration requirements
+</dd>
 
-             (1)  The TCF Post-2005 (SIP) scheme may impose requirements relating to the registration of entities.
+</dl></dl></dl>
 
-             (2)  The requirements may include (but are not limited to) any or all of the following requirements:
+<dl compact=""><dl compact="">
 
-                     (a)  a requirement that an entity must apply for registration;
+<dt>(3)</dt><dd>A person is guilty of an offence if:
 
-                     (b)  a requirement that an entity’s application for registration be accompanied by a statement issued by a specified person as to the entity’s future financial viability;
+</dd> </dl></dl>
 
-                     (c)  a requirement that an entity’s application for registration be accompanied by specified information about the entity (which may include statistical information);
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (d)  a requirement that an entity’s application for registration be accompanied by such a fee as is ascertained in accordance with the scheme.
+<dt>(a)</dt><dd>the person is subject to a requirement under subsection (2); and</dd>
 
-Consequences of non-compliance with registration requirements
+<dt>(b)</dt><dd>the person contravenes the requirement.
 
-             (3)  The scheme may provide for one or more of the following consequences for an entity that does not comply with a particular requirement relating to registration:
+</dd>
 
-                     (a)  the consequence that the entity is not eligible for a grant;
+</dl></dl></dl>
 
-                     (b)  the consequence that the entity’s eligibility for a grant is subject to restriction or reduction;
+Penalty:	20 penalty units.
 
-                     (c)  the consequence that the time of payment of a grant to the entity is deferred.
+<dl compact=""><dl compact="">
 
-<o:p> </o:p>
+<dt>(4)</dt><dd>A notice under subsection (2) must set out the effect of the following
 
-### Division 5—Strategic business plans and accounts
+provisions:
 
-##### <a id="37M"></a>37M  Strategic business plans
+</dd> </dl></dl>
 
-                   The TCF Post-2005 (SIP) scheme must provide that an entity is not eligible for a grant unless the entity has complied with such requirements (if any) as are imposed by the scheme in relation to the content and submission of:
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (a)  strategic business plans; and
+<dt>(a)</dt><dd>subsection (3);</dd>
 
-                     (b)  variations of strategic business plans.
+<dt>(b)</dt><dd>section 49;</dd>
 
-##### <a id="37N"></a>37N  Accounts
+<dt>(c)</dt><dd>section 50;</dd>
 
-                   The TCF Post-2005 (SIP) scheme may provide that an entity ascertained in accordance with the scheme is not eligible for a grant unless the entity has complied with such requirements as are imposed by the scheme in relation to:
+<dt>(d)</dt><dd>section 51.
 
-                     (a)  the submission of audited accounts and audited financial statements; or
+</dd>
 
-                     (b)  the submission of unaudited accounts and unaudited financial statements.
+</dl></dl></dl>
 
-<o:p> </o:p>
+**
 
-### Division 6—Conditional grants
+###  TEXTILE, CLOTHING AND FOOTWEAR STRATEGIC INVESTMENT PROGRAM ACT 1999- SECT 39  Copying documents&#151;reasonable compensation 
+**
 
-##### <a id="37P"></a>37P  Conditional grants
+ <dl compact=""><dl compact="">
 
-             (1)  The TCF Post-2005 (SIP) scheme may make provision for and in relation to the payment of grants subject to conditions (whether conditions precedent or conditions subsequent).
+		A person is entitled to be paid reasonable compensation for complying with a
 
-Note:          Section 43 deals with the recovery of a conditional grant if there has been a breach of a condition.
+requirement covered by paragraph 38(2)(c).
 
-Condition—compliance with information gathering notice
+ </dl></dl>
 
-             (2)  A grant paid to an entity is subject to the condition that the entity comply with any notice given to the entity under section 38.
+**
 
-Note:          Section 43 deals with the recovery of a conditional grant if there has been a breach of a condition.
+###  TEXTILE, CLOTHING AND FOOTWEAR STRATEGIC INVESTMENT PROGRAM ACT 1999- SECT 40  Self-incrimination  
+**
 
-Condition—no false or misleading statements
+ <dl compact=""><dl compact="">
 
-             (3)  A grant paid to an entity is subject to the condition that:
+<dt>(1)</dt><dd>An individual is not excused from giving information or evidence or
 
-                     (a)  a false or misleading statement has not been made by, or on behalf of, the entity in connection with a claim for the grant; and
+producing a document or a copy of a document under this Part on the ground that
 
-                     (b)  false or misleading information or evidence is not given by, or on behalf of, the entity in compliance or purported compliance with section 38; and
+the information or evidence or the production of the document or copy might
 
-                     (c)  a false or misleading document is not produced by, or on behalf of, the entity in compliance or purported compliance with section 38.
+tend to incriminate the individual or expose the individual to a penalty.</dd> <dt>(2)</dt><dd>However: </dd> </dl></dl>
 
-Note:          Section 43 deals with the recovery of a conditional grant if there has been a breach of a condition.
+<dl compact=""><dl compact=""><dl compact="">
 
-Condition—entry to premises etc. to monitor compliance with other conditions
+<dt>(a)</dt><dd>giving the information or evidence or producing the document or copy; or</dd>
 
-             (4)  A grant paid to an entity is subject to the condition that in relation to the following premises:
+<dt>(b)</dt><dd>any information, document or thing obtained as a direct or indirect
 
-                     (a)  business premises specified in the notice that is given to the entity notifying the entity that the entity is entitled to be paid the grant;
+consequence of giving the information or evidence or producing the document or
 
-                     (b)  business premises specified in a later notice given to the entity by the Secretary under subsection (5);
+copy;
 
-the entity:
+</dd>
 
-                     (c)  allow authorised officers of the Department, and any authorised employees of an authorised Commonwealth contractor accompanying those officers, access to the premises at any reasonable time of a business day for the purpose of monitoring compliance with other conditions that the grant is subject to; and
+</dl></dl></dl>
 
-                     (d)  allow authorised officers of the Department during that access to inspect and search the premises and any thing on the premises for the purpose of that monitoring; and
-
-<span style="mso-tab-count: 1">                     </span>(e)<span style="mso-tab-count: 1">  </span>allow authorised officers of the Department to operate electronic equipment at the premises to see whether documents in electronic form relevant to that monitoring are accessible by doing so; and<o:p></o:p>
-
-Note:       See also sections 37Q to 37T (which contain provisions relating to the operation of electronic equipment at the premises).
-
-                      (f)  allow authorised officers of the Department to make copies of any documents in hard copy form found on the premises that are relevant to that monitoring; and
-
-                     (g)  provide authorised officers of the Department with all reasonable facilities and assistance in connection with that monitoring.
-
-Note:          Section 43 deals with the recovery of a conditional grant if there has been a breach of a condition.
-
-Secretary’s powers
-
-             (5)  The Secretary may, by written notice given to an entity, specify business premises for the purposes of paragraph (4)(b).
-
-             (6)  The Secretary may, by writing, appoint an APS employee in the Department to be an authorised officer of the Department for the purposes of this Division. The Secretary may do so only if the Secretary is satisfied that the employee has suitable qualifications for such an appointment.
-
-             (7)  The Secretary may, by writing, appoint an employee of an authorised Commonwealth contractor to be an authorised employee of the contractor for the purposes of this Division. The Secretary may do so only if the Secretary is satisfied that the employee has suitable qualifications for such an appointment.
-
-Definitions
-
-             (8)  In this section:
-
-                    <a name="authorised-commonwealth-contractor"></a>**_authorised Commonwealth contractor_** has the same meaning as in section 52.
-
-                    <a name="busi-dai"></a>**_business day_** means a day that is not a Saturday, a Sunday or a public holiday in the place concerned.
-
-##### <a id="37Q"></a>37Q  Operation of electronic equipment by authorised officers
-
-             (1)  If:
-
-                     (a)  an authorised officer has obtained access to premises for the purpose of monitoring compliance with the conditions of a grant; and<o:p></o:p>
-
-<span style="mso-tab-count: 1">                     </span>(b)<span style="mso-tab-count: 1">  </span>the officer finds that documents in electronic form, relevant to that monitoring, are accessible by operating electronic equipment at the premises;
-
-the officer may do only 1 of 2 things.
-
-Removal of documents
-
-             (2)  One thing the officer may do is operate the equipment or other facilities at the premises to put the documents in hard copy form and remove the documents so produced.<o:p></o:p>
-
-Removal of disk, tape or other storage device
-
-<span style="mso-tab-count: 1">             </span>(3)<span style="mso-tab-count: 1">  </span>The other thing the officer may do is operate the equipment or other facilities at the premises to transfer the documents to a disk, tape or other storage device that:<o:p></o:p>
-
-                     (a)  is brought to the premises for the exercise of the power; or
-
-                     (b)  is at the premises and the use of which for the purpose has been agreed to in writing by the occupier of the premises;
-
-and remove the disk, tape or other storage device from the premises.
-
-##### <a id="37R"></a>37R  Operation of electronic equipment by experts
-
-             (1)  This section applies if:
-
-                     (a)  an authorised officer has obtained access to premises for the purpose of monitoring compliance with the conditions of a grant; and<o:p></o:p>
-
-                     (b)  the officer believes on reasonable grounds that:
-
-                              (i)  documents in electronic form, relevant to that monitoring, may be accessible by operating electronic equipment at the premises; and
-
-                             (ii)  expert assistance is required to operate the equipment; and
-
-                            (iii)  an authorised employee (the **_expert_**) of an authorised Commonwealth contractor accompanying the officer in relation to that monitoring has the expertise to operate the equipment.
-
-Expert may operate equipment
-
-             (2)  The expert may operate the equipment to determine whether such documents are accessible. If they are, the expert may do only 1 of 2 things.
-
-Produce documents in hard copy form
-
-             (3)  One thing the expert may do is operate the equipment or other facilities at the premises to put the documents in hard copy form.<o:p></o:p>
-
-Transfer documents to a disk, tape or other storage device
-
-<span style="mso-tab-count: 1">             </span>(4)<span style="mso-tab-count: 1">  </span>The other thing the expert may do is operate the equipment or other facilities at the premises to transfer the documents to a disk, tape or other storage device that:<o:p></o:p>
-
-                     (a)  is brought to the premises for the exercise of the power; or
-
-                     (b)  is at the premises and the use of which for the purpose has been agreed to in writing by the occupier of the premises.
-
-Removal
-
-             (5)  The authorised officer may then remove the documents in hard copy form or remove the disk, tape or other storage device.
-
-Section 70 of the Crimes Act 1914
-
-             (6)  For the purposes of the application of the definition of **_Commonwealth officer_** in subsection 3(1) of the _Crimes Act 1914_ to section 70 of that Act, an authorised employee of an authorised Commonwealth contractor who exercises a power referred to in this section is taken to be a person who performs services for the Commonwealth.
-
-##### <a id="37S"></a>37S  Pre-condition to operating electronic equipment
-
-<span style="mso-tab-count: 2">                   </span>A person may operate electronic equipment at premises as mentioned in this Division only if he or she believes on reasonable grounds that the operation of the equipment can be carried out without damage to the equipment.<o:p></o:p>
-
-##### <a id="37T"></a>37T  Compensation for damage to electronic equipment
-
-             (1)  This section applies if:
-
-                     (a)  as a result of electronic equipment being operated as mentioned in section 37P, 37Q or 37R:
-
-                              (i)  damage is caused to the equipment; or
-
-                             (ii)  the data recorded on the equipment is damaged; or
-
-                            (iii)  programs associated with the use of the equipment, or with the use of the data, are damaged or corrupted; and
-
-                     (b)  the damage or corruption occurs because:
-
-                              (i)  insufficient care was exercised in selecting the person who was to operate the equipment; or
-
-                             (ii)  insufficient care was exercised by the person operating the equipment.
-
-             (2)  The Commonwealth must pay the owner of the equipment, or the user of the data or programs, such reasonable compensation for the damage or corruption as the Commonwealth and the owner or user agree on.
-
-             (3)  However, if the owner or user and the Commonwealth fail to agree, the owner or user may institute proceedings in the Federal Court of Australia for such reasonable amount of compensation as the Court determines.
-
-             (4)  In determining the amount of compensation payable, regard is to be had to whether the occupier of the premises, or the occupier’s employees and agents, if they were available at the time, provided any appropriate warning or guidance on the operation of the equipment.
-
-             (5)  Compensation is payable out of money appropriated by the Parliament.
-
-             (6)  For the purposes of subsection (1):
-
-                    <a name="damag"></a>**_damage_**, in relation to data, includes damage by erasure of data or addition of other data.
-
-##### <a id="37U"></a>37U  Identity cards
-
-             (1)  The Secretary must issue an identity card to an authorised officer.
-
-Form of identity card
-
-             (2)  The identity card must:
-
-                     (a)  be in the form prescribed by the regulations; and
-
-                     (b)  contain a recent photograph of the authorised officer.
-
-Offence
-
-             (3)  A person commits an offence if:
-
-                     (a)  the person has been issued with an identity card; and
-
-                     (b)  the person ceases to be an authorised officer; and
-
-                     (c)  the person does not return the identity card to the Secretary as soon as practicable.
-
-                    Penalty:  1 penalty unit.
-
-             (4)  An offence against subsection (3) is an offence of strict liability.
-
-Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
-
-Card lost or destroyed
-
-             (5)  Subsection (3) does not apply if the identity card was lost or destroyed.
-
-Note:          A defendant bears an evidential burden in relation to the matter in this subsection: see subsection 13.3(3) of the _Criminal Code_.
-
-Authorised officer must carry card
-
-             (6)  An authorised officer must carry his or her identity card at all times when exercising powers as an authorised officer.
-
-Authorised officer must produce card on request
-
-             (7)  An authorised officer is not entitled to exercise any powers referred to in this Division in relation to premises if:
-
-                     (a)  the occupier of the premises has requested the officer to produce the officer’s identity card for inspection by the occupier; and
-
-                     (b)  the officer fails to comply with the request.
-
-<o:p> </o:p>
-
-### Division 7—Other matters relating to the scheme
-
-##### <a id="37V"></a>37V  Advances on account of grants
-
-Advances
-
-             (1)  The TCF Post-2005 (SIP) scheme may provide for advances on account of grants that may become payable.
-
-Repayments
-
-             (2)  If:
-
-                     (a)  an entity receives an amount by way of an advance on account of a grant that may become payable to the entity; and
-
-                     (b)  that amount exceeds the amount of the grant (if any);
-
-the entity is liable to pay to the Commonwealth the amount of the excess.
-
-##### <a id="37W"></a>37W  Scheme may confer administrative powers on the Secretary
-
-                   The TCF Post-2005 (SIP) scheme may make provision with respect to a matter by conferring on the Secretary a power to make a decision of an administrative character.
-
-##### <a id="37X"></a>37X  Reconsideration and review of decisions
-
-             (1)  The TCF Post-2005 (SIP) scheme must contain provisions for and in relation to the review of decisions of the Secretary under the scheme that affect an entity.
-
-             (2)  The scheme must contain provisions under which:
-
-                     (a)  an entity who is affected by a decision (the **_initial decision_**) of the Secretary under the scheme may, if dissatisfied with the decision, request the Secretary to reconsider the decision; and
-
-                     (b)  the Secretary is required to reconsider the initial decision and to confirm, revoke or vary the decision; and
-
-                     (c)  an application may be made to the Administrative Appeals Tribunal for review of an initial decision that has been confirmed or varied.
-
-             (3)  If the scheme provides that the Secretary is taken to have confirmed an initial decision after a specified period, the scheme must specify the prescribed time for making an application for review of the initial decision as so confirmed for the purposes of section 29 of the _Administrative Appeals Tribunal Act 1975_.
-
-##### <a id="37Y"></a>37Y  Guarantees relating to payment of scheme debts
-
-                   The TCF Post-2005 (SIP) scheme may provide that an entity (the **_eligible entity_**) ascertained in accordance with the scheme:
-
-                     (a)  is not eligible for a grant; or
-
-                     (b)  is not entitled to request an advance on account of a grant;
-
-unless another entity ascertained in accordance with the scheme gives a guarantee to the Commonwealth that any scheme debts owed by the eligible entity will be paid.
-
-##### <a id="37Z"></a>37Z  Non-arm’s length transactions
-
-                   The TCF Post-2005 (SIP) scheme may provide that, if an entity incurs expenditure under a transaction that is not at arm’s length, the amount of that expenditure is taken to be the amount that would reasonably have been expected to be incurred if the parties had been dealing with each other at arm’s length.
-
-##### <a id="37ZA"></a>37ZA  Grants and advances to be inalienable
-
-                   The TCF Post-2005 (SIP) scheme may provide for grants (including advances on account of grants) to be absolutely inalienable (whether by way of, or in consequence of, sale, assignment, charge, execution, bankruptcy or otherwise) except with the approval of the Secretary.
-
-##### <a id="37ZB"></a>37ZB  Other matters
-
-                   The TCF Post-2005 (SIP) scheme may make provision for and in relation to the following matters:
-
-                     (a)  the making of claims for grants;
-
-                     (b)  the times within which claims for grants are to be made;
-
-                     (c)  requiring that a claim made by an entity ascertained in accordance with the scheme be accompanied by an audited statement relating to specified activities;
-
-                     (d)  requiring that a claim made by an entity ascertained in accordance with the scheme be accompanied by an unaudited statement relating to specified activities;
-
-                     (e)  requiring that a claim be accompanied by such a fee as is ascertained in accordance with the scheme;
-
-                      (f)  the assessment of claims;
-
-                     (g)  the apportionment of expenditure;
-
-                     (h)  the adjustment of eligibility for grants in relation to the transfer of the whole or a part of a business, including (but not limited to):
-
-                              (i)  treating the transferee as if the transferee had incurred particular expenditure, had derived particular revenue and had done particular acts or things; and
-
-                             (ii)  treating the transferor as if the transferor had not incurred particular expenditure, had not derived particular revenue and had not done particular acts or things;
-
-                      (i)  the times when grants become payable.
-
-##### <a id="37ZC"></a>37ZC  Ancillary or incidental provisions
-
-                   The TCF Post-2005 (SIP) scheme may contain such ancillary or incidental provisions as the Minister considers appropriate.
-
-##### <a id="37ZD"></a>37ZD  Scheme-making power not limited
-
-                   Sections 37D to 37ZC do not, by implication, limit section 37C.
-
-##### <a id="37ZE"></a>37ZE  Fee must not amount to taxation
-
-                   The amount of a fee under the TCF Post-2005 (SIP) scheme must not be such as to amount to taxation.
-
-##### <a id="37ZF"></a>37ZF  Variation of scheme
-
-             (1)  The TCF Post-2005 (SIP) scheme may be varied, but not revoked, in accordance with subsection 33(3) of the _Acts Interpretation Act 1901_.
-
-             (2)  Subsection (1) does not limit the application of subsection 33(3) of the _Acts Interpretation Act 1901_ to other instruments under this Act.
-
-##### <a id="37ZG"></a>37ZG  Scheme to be a disallowable instrument
-
-                   An instrument under section 37C is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
-
-##### <a id="37ZH"></a>37ZH  Appropriation
-
-                   Grants (including advances on account of grants) are to be paid out of the Consolidated Revenue Fund, which is appropriated accordingly.
-
-##### <a id="37ZI"></a>37ZI  Publication of grant totals
-
-                   As soon as practicable after the end of each of the 2006-2007 to 2015-2016 financial years, the Minister must publish the following information:
-
-                     (a)  the name of each entity paid a grant (including an advance on account of a grant) during the financial year;
-
-                     (b)  the total of the grants (including advances on account of grants) paid to the entity during the financial year.
-
-<o:p> </o:p>
-
-## Part 3B—TCF Small Business Program
-
-##### <a id="37ZJ"></a>37ZJ  TCF Small Business Program
-
-             (1)  The object of this section is to fund the TCF Small Business Program.
-
-             (2)  The Department is responsible for administering the program. This includes (but is not limited to) responsibility for determining the following:
-
-                     (a)  the recipients of payments (including the eligibility criteria);
-
-                     (b)  the amounts of payments;
-
-                     (c)  the timing of payments;
-
-                     (d)  the terms and conditions of payments.
-
-             (3)  The Consolidated Revenue Fund is appropriated for the purpose of payments under the program, to the extent of $25,000,000.
-
-             (4)  In this section:
-
-                    <a name="tcf-small-busi-program"></a>**_TCF Small Business Program_** means the program administered by the Commonwealth and known as the TCF Small Business Program.
-
-<o:p> </o:p>
-
-## Part 4—Information-gathering powers
-
-##### <a id="38"></a>38  Minister or Secretary may obtain information and documents 
-
-             (1)  This section applies to a person if the Minister or the Secretary has reason to believe that the person:
-
-                     (a)  has information or a document that is relevant to the operation of the TCF (SIP) scheme or the TCF Post-2005 (SIP) scheme; or
-
-                     (b)  is capable of giving evidence which the Minister or the Secretary has reason to believe is relevant to the operation of the TCF (SIP) scheme or the TCF Post-2005 (SIP) scheme.
-
-             (2)  The Minister or the Secretary may, by written notice given to the person, require the person:
-
-                     (a)  to give to the Minister or the Secretary, within the period and in the manner and form specified in the notice, any such information; or
-
-                     (b)  to produce to the Minister or the Secretary, within the period and in the manner specified in the notice, any such documents; or
-
-                     (c)  to make copies of any such documents and to produce to the Minister or the Secretary, within the period and in the manner specified in the notice, those copies; or
-
-                     (d)  if the person is an individual—to appear before the Minister or the Secretary at a time and place specified in the notice to give any such evidence, either orally or in writing, and produce any such documents; or
-
-                     (e)  if the person is a body corporate—to cause a competent officer of the body to appear before the Minister or the Secretary at a time and place specified in the notice to give any such evidence, either orally or in writing, and produce any such documents.
-
-             (3)  A person is guilty of an offence if:
-
-                     (a)  the person is subject to a requirement under subsection (2); and
-
-                     (b)  the person contravenes the requirement.
-
-                    Penalty:  20 penalty units.
-
-             (4)  A notice under subsection (2) must set out the effect of the following provisions:
-
-                     (a)  subsection (3);
-
-                     (b)  section 49;
-
-                     (c)  section 50;
-
-                     (d)  section 51.
-
-##### <a id="39"></a>39  Copying documents—reasonable compensation
-
-                   A person is entitled to be paid reasonable compensation for complying with a requirement covered by paragraph 38(2)(c).
-
-##### <a id="40"></a>40  Self-incrimination 
-
-             (1)  An individual is not excused from giving information or evidence or producing a document or a copy of a document under this Part on the ground that the information or evidence or the production of the document or copy might tend to incriminate the individual or expose the individual to a penalty.
-
-             (2)  However:
-
-                     (a)  giving the information or evidence or producing the document or copy; or
-
-                     (b)  any information, document or thing obtained as a direct or indirect consequence of giving the information or evidence or producing the document or copy;
+<center>Back to Top</center>
 
 is not admissible in evidence against the individual in criminal proceedings other than:
 
-                     (c)  proceedings for an offence against subsection 38(3) or section 50 or 51; or
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (d)  proceedings for an offence against section 49 that relates to this Part.
+<dt>(c)</dt><dd>proceedings for an offence against subsection 38(3) or section 50 or 51;
 
-##### <a id="41"></a>41  Copies of documents
+or</dd>
 
-             (1)  The Minister or the Secretary may inspect a document or copy produced under this Part and may make and retain copies of, or take and retain extracts from, such a document.
+<dt>(d)</dt><dd>proceedings for an offence against section 49 that relates to this Part.
 
-             (2)  The Minister or the Secretary may retain possession of a copy of a document produced in accordance with a requirement covered by paragraph 38(2)(c).
+</dd>
 
-##### <a id="42"></a>42  Minister or Secretary may retain documents
+</dl></dl></dl>
 
-             (1)  The Minister or the Secretary may take, and retain for as long as is necessary, possession of a document produced under this Part.
+**
 
-             (2)  The person otherwise entitled to possession of the document is entitled to be supplied, as soon as practicable, with a copy certified by the Minister or the Secretary to be a true copy.
+###  TEXTILE, CLOTHING AND FOOTWEAR STRATEGIC INVESTMENT PROGRAM ACT 1999- SECT 41  Copies of documents 
+**
 
-             (3)  The certified copy must be received in all courts and tribunals as evidence as if it were the original.
+ <dl compact=""><dl compact="">
 
-             (4)  Until a certified copy is supplied, the Minister or the Secretary must, at such times and places as the Minister or the Secretary thinks appropriate, permit the person otherwise entitled to possession of the document, or a person authorised by that person, to inspect and make copies of, or take extracts from, the document.
+<dt>(1)</dt><dd>The Minister or the Secretary may inspect a document or copy produced
 
-<o:p> </o:p>
+under this Part and may make and retain copies of, or take and retain extracts
 
-## Part 5—Recovery of scheme debts
+from, such a document.</dd> <dt>(2)</dt><dd>The Minister or the Secretary may retain possession of a copy of a document produced in accordance with a requirement covered by paragraph 38(2)(c). </dd> </dl></dl>
 
-##### <a id="43"></a>43  Recovery of conditional grants
+**
 
-                   If:
+###  TEXTILE, CLOTHING AND FOOTWEAR STRATEGIC INVESTMENT PROGRAM ACT 1999- SECT 42  Minister or Secretary may retain documents 
+**
 
-                     (a)  a grant under a scheme under Part 2 or 3A is paid to an entity; and
+ <dl compact=""><dl compact="">
 
-                     (b)  the grant is paid subject to a condition (whether a condition precedent or a condition subsequent); and
+<dt>(1)</dt><dd>The Minister or the Secretary may take, and retain for as long as is
 
-                     (c)  the condition is not fulfilled;
+necessary, possession of a document produced under this Part.</dd> <dt>(2)</dt><dd>The person otherwise entitled to possession of the document is entitled to be supplied, as soon as practicable, with a copy certified by the Minister or the Secretary to be a true copy.</dd> <dt>(3)</dt><dd>The certified copy must be received in all courts and tribunals as evidence as if it were the original.</dd> <dt>(4)</dt><dd>Until a certified copy is supplied, the Minister or the Secretary must, at such times and places as the Minister or the Secretary thinks appropriate, permit the person otherwise entitled to possession of the document, or a person authorised by that person, to inspect and make copies of, or take extracts from, the document. </dd> </dl></dl>
 
-the Commonwealth may recover from the entity the whole or a part of the grant.
+<center>**
 
-##### <a id="44"></a>44  Scheme debts are debts due to the Commonwealth
+###  TEXTILE, CLOTHING AND FOOTWEAR STRATEGIC INVESTMENT PROGRAM ACT 1999<part>Part 5&#151;Recovery of scheme debts </part>
+**</center>
 
-                   A scheme debt is a debt due to the Commonwealth.
+**
 
-##### <a id="45"></a>45  Recovery by legal proceedings
+###  TEXTILE, CLOTHING AND FOOTWEAR STRATEGIC INVESTMENT PROGRAM ACT 1999- SECT 43  Repayments of conditional grants 
+**
 
-                   A scheme debt may be recovered by the Commonwealth by action in a court of competent jurisdiction.
+ <dl compact=""><dl compact="">
 
-##### <a id="46"></a>46  Recovery by set-off
+		If:
 
-                   If an entity is liable to pay a scheme debt, the scheme debt may be deducted from one or more grants that are payable to the entity under a scheme under Part 2 or 3A, and if the scheme debt is so deducted, the grant is taken to have been paid in full to the entity.
+ </dl></dl>
 
-Example:    An entity has a scheme debt of $500 in relation to a grant paid under the TCF (SIP) scheme. A grant of $10,000 then becomes payable to the entity under the TCF Post-2005 (SIP) scheme. The $500 scheme debt may be deducted from the $10,000 grant.
+<dl compact=""><dl compact=""><dl compact="">
 
-##### <a id="47"></a>47  Commonwealth may collect money from a person who owes money to an entity
+<dt>(a)</dt><dd>a grant is paid to an entity; and</dd>
 
-What this section does
+<dt>(b)</dt><dd>the grant is paid subject to a condition (whether a condition precedent or
 
-             (1)  This section allows the Commonwealth to collect money from a person who owes money to an entity that has a scheme debt.
+a condition subsequent); and</dd>
 
-The Secretary may give direction
+<dt>(c)</dt><dd>the condition was not fulfilled;
 
-             (2)  The Secretary may direct a person (the **_third party_**) who owes, or may later owe, money (the **_available money_**) to the entity to pay some or all of the available money to the Commonwealth in accordance with the direction. The Secretary must give a copy of the direction to the entity.
+</dd>
 
-Limit on directions
+</dl></dl></dl>
 
-             (3)  The direction cannot require an amount to be paid to the Commonwealth at a time before it becomes owing by the third party to the entity.
+the entity is liable to repay to the Commonwealth:
 
-Third party to comply
+<dl compact=""><dl compact=""><dl compact="">
 
-             (4)  The third party must comply with the direction, so far as the third party is able to do so.
+<dt>(d)</dt><dd>the whole of the grant; or</dd>
 
-                    Penalty:  20 penalty units.
+<dt>(e)</dt><dd>if, under the TCF (SIP) scheme, a part of the grant ascertained in
 
-Court orders
+accordance with the scheme is taken to be subject to this section&#151;that part of
 
-             (5)  If a person is convicted of an offence in relation to a refusal or failure of the third party to comply with subsection (4), the court may (in addition to imposing a penalty on the convicted person) order the convicted person to pay to the Commonwealth an amount up to the amount involved in the refusal or failure of the third party.
+the grant.
 
-Indemnity
+</dd>
 
-             (6)  Any payment made by the third party under this section is taken to have been made with the authority of the entity and of all other persons concerned, and the third party is indemnified for the payment.
+</dl></dl></dl>
 
-Notice
+**
 
-             (7)  If the whole of the scheme debt of the entity is discharged before any payment is made by the third party, the Secretary must immediately give notice to the third party of that fact.
+###  TEXTILE, CLOTHING AND FOOTWEAR STRATEGIC INVESTMENT PROGRAM ACT 1999- SECT 44  Scheme debts are debts due to the Commonwealth 
+**
 
-When third party is taken to owe money
+ <dl compact=""><dl compact="">
 
-             (8)  The third party is taken to owe money to the entity if:
+		A scheme debt is a debt due to the Commonwealth.
 
-                     (a)  money is due or accruing by the third party to the entity; or
+ </dl></dl>
 
-                     (b)  the third party holds money for or on account of the entity; or
+**
 
-                     (c)  the third party holds money on account of some other person for payment to the entity; or
+###  TEXTILE, CLOTHING AND FOOTWEAR STRATEGIC INVESTMENT PROGRAM ACT 1999- SECT 45  Recovery by legal proceedings 
+**
 
-                     (d)  the third party has authority from some other person to pay money to the entity;
+ <dl compact=""><dl compact="">
+
+		A scheme debt may be recovered by the Commonwealth by action in a court of
+
+competent jurisdiction.
+
+ </dl></dl>
+
+**
+
+###  TEXTILE, CLOTHING AND FOOTWEAR STRATEGIC INVESTMENT PROGRAM ACT 1999- SECT 46  Recovery by set-off 
+**
+
+ <dl compact=""><dl compact="">
+
+		If an entity is liable to pay a scheme debt, the scheme debt may be deducted
+
+from one or more grants that are payable to the entity, and if the scheme debt
+
+is so deducted, the grant is taken to have been paid in full to the entity.
+
+ </dl></dl>
+
+<center>Back to Top</center>
+
+**
+
+###  TEXTILE, CLOTHING AND FOOTWEAR STRATEGIC INVESTMENT PROGRAM ACT 1999- SECT 47  Commonwealth may collect money from a person who owes money to an entity 
+**
+
+_What this section does_
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>This section allows the Commonwealth to collect money from a person who
+
+owes money to an entity that has a scheme debt.
+
+</dd> </dl></dl>
+
+_The Secretary may give direction_
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>The Secretary may direct a person (the _third party_) who
+
+owes, or may later owe, money (the _available money_) to the entity
+
+to pay some or all of the available money to the Commonwealth in accordance
+
+with the direction. The Secretary must give a copy of the direction to the
+
+entity.
+
+</dd> </dl></dl>
+
+_Limit on directions_
+
+<dl compact=""><dl compact="">
+
+<dt>(3)</dt><dd>The direction cannot require an amount to be paid to the Commonwealth at a
+
+time before it becomes owing by the third party to the entity.
+
+</dd> </dl></dl>
+
+_Third party to comply_
+
+<dl compact=""><dl compact="">
+
+<dt>(4)</dt><dd>The third party must comply with the direction, so far as the third party
+
+is able to do so.
+
+</dd> </dl></dl>
+
+Penalty:	20 penalty units.
+
+_Court orders_
+
+<dl compact=""><dl compact="">
+
+<dt>(5)</dt><dd>If a person is convicted of an offence in relation to a refusal or failure
+
+of the third party to comply with subsection (4), the court may (in addition to
+
+imposing a penalty on the convicted person) order the convicted person to pay
+
+to the Commonwealth an amount up to the amount involved in the refusal or
+
+failure of the third party.
+
+</dd> </dl></dl>
+
+_Indemnity_
+
+<dl compact=""><dl compact="">
+
+<dt>(6)</dt><dd>Any payment made by the third party under this section is taken to have
+
+been made with the authority of the entity and of all other persons concerned,
+
+and the third party is indemnified for the payment.
+
+</dd> </dl></dl>
+
+_Notice_
+
+<dl compact=""><dl compact="">
+
+<dt>(7)</dt><dd>If the whole of the scheme debt of the entity is discharged before any
+
+payment is made by the third party, the Secretary must immediately give notice
+
+to the third party of that fact.
+
+</dd> </dl></dl>
+
+_When third party is taken to owe money_
+
+<dl compact=""><dl compact="">
+
+<dt>(8)</dt><dd>The third party is taken to owe money to the entity if:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>money is due or accruing by the third party to the entity; or</dd>
+
+<dt>(b)</dt><dd>the third party holds money for or on account of the entity; or</dd>
+
+<dt>(c)</dt><dd>the third party holds money on account of some other person for payment to
+
+the entity; or</dd>
+
+<dt>(d)</dt><dd>the third party has authority from some other person to pay money to the
+
+entity;
+
+</dd>
+
+</dl></dl></dl>
 
 whether or not the payment of the money to the entity is dependent on a pre-condition that has not been fulfilled.
 
-Building societies—withdrawable shares
+_Building societieswithdrawable shares_
 
-             (9)  For the purposes of this section, money that has been paid by a person to a building society for the issue of withdrawable shares in the capital of the society, but has not been repaid, is taken to be:
+<dl compact=""><dl compact="">
 
-                     (a)  if the money is payable on demand—money due by the building society to the person; or
+<dt>(9)</dt><dd>For the purposes of this section, money that has been paid by a person to
 
-                     (b)  if the money is repayable on demand—money that may become due by the building society to the person.
+a building society for the issue of withdrawable shares in the capital of the
 
-Definition
+society, but has not been repaid, is taken to be:
 
-           (10)  In this section:
+</dd> </dl></dl>
 
-                    <a name="build-societi"></a>**_building society_** means a society registered or incorporated as a building society, co-operative housing society or other similar society under the law in force in a State or Territory.
+<dl compact=""><dl compact=""><dl compact="">
 
-<o:p> </o:p>
+<dt>(a)</dt><dd>if the money is payable on demand&#151;money due by the building society to
 
-## Part 6—Offences
+the person; or</dd>
 
-##### <a id="48"></a>48  Application of _Criminal Code_
+<dt>(b)</dt><dd>if the money is repayable on demand&#151;money that may become due by the
 
-                   Chapter 2 of the _Criminal Code_ applies to all offences against this Act.
+building society to the person.
 
-##### <a id="49"></a>49  False or misleading information
+</dd>
 
-                   A person is guilty of an offence if:
+</dl></dl></dl>
 
-                     (a)  the person gives information to another person; and
+<center>Back to Top</center>
 
-                     (b)  the person does so knowing that the information is false or misleading in a material particular; and
+_Definition_
 
-                     (c)  either of the following subparagraphs applies:
+<dl compact=""><dl compact="">
 
-                              (i)  the information is given to a person who is exercising powers or performing functions under, or in connection with, the TCF (SIP) scheme or the TCF Post-2005 (SIP) scheme;
+<dt>(10)</dt><dd>In this section:
 
-                             (ii)  the information is given in compliance or purported compliance with section 38.
+</dd> </dl></dl>
 
-                    Penalty:  Imprisonment for 12 months.
+<def><dl compact=""><dl compact="">
 
-##### <a id="50"></a>50  False or misleading evidence
+_building society_ means a society registered or incorporated as a
 
-                   A person is guilty of an offence if:
+building society, co-operative housing society or other similar society under
 
-                     (a)  the person gives evidence to another person; and
+the law in force in a State or Territory.
 
-                     (b)  the person does so knowing that the evidence is false or misleading in a material particular; and
+ </dl></dl>
 
-                     (c)  the evidence is given under section 38.
+<center>**
 
-                    Penalty:  Imprisonment for 12 months.
+###  TEXTILE, CLOTHING AND FOOTWEAR STRATEGIC INVESTMENT PROGRAM ACT 1999<part>Part 6&#151;Offences </part>
+**</center>
 
-##### <a id="51"></a>51  False or misleading documents
+**
 
-             (1)  A person is guilty of an offence if:
+###  TEXTILE, CLOTHING AND FOOTWEAR STRATEGIC INVESTMENT PROGRAM ACT 1999- SECT 48  Application of _Criminal Code_ 
+**
 
-                     (a)  the person produces a document to another person; and
+ <dl compact=""><dl compact="">
 
-                     (b)  the person does so knowing that the document is false or misleading in a material particular; and
+		Chapter 2 of the _Criminal Code_ applies to all offences against this Act.
 
-                     (c)  the document is produced in compliance or purported compliance with section 38.
+ </dl></dl>
 
-                    Penalty:  Imprisonment for 12 months.
+**
 
-             (2)  Subsection (1) does not apply to a person who produces a document if the document is accompanied by a written statement signed by the person or, in the case of a body corporate, by a competent officer of the body corporate:
+###  TEXTILE, CLOTHING AND FOOTWEAR STRATEGIC INVESTMENT PROGRAM ACT 1999- SECT 49  False or misleading information 
+**
 
-                     (a)  stating that the document is, to the knowledge of the first-mentioned person, false or misleading in a material particular; and
+ <dl compact=""><dl compact="">
 
-                     (b)  setting out, or referring to, the material particular in which the document is, to the knowledge of the first-mentioned person, false or misleading.
+		A person is guilty of an offence if:
 
-<o:p> </o:p>
+ </dl></dl>
 
-## Part 7—Miscellaneous
+<dl compact=""><dl compact=""><dl compact="">
 
-##### <a id="52"></a>52  Delegation
+<dt>(a)</dt><dd>the person gives information to another person; and</dd>
 
-Delegation to senior officers of the Department
+<dt>(b)</dt><dd>the person does so knowing that the information is false or misleading in
 
-             (1)  The Secretary may, by writing, delegate to one or more senior officers of the Department any or all of the Secretary’s functions or powers under this Act or the TCF (SIP) scheme or the TCF Post-2005 (SIP) scheme.
+a material particular; and</dd>
 
-          (1A)  Subsection (1) does not apply in relation to the powers under subsections 18A(6) and (7) and 37P(6) and (7) (about authorising persons in relation to entry to premises).
+<dt>(c)</dt><dd>either of the following subparagraphs applies:
 
-             (2)  A delegate is, in the performance of a function delegated under subsection (1), or in the exercise of a power delegated under subsection (1), subject to the directions of the Secretary.
+</dd>
 
-Delegation to senior employees of an authorised Commonwealth contractor
+</dl></dl></dl>
 
-             (3)  The Secretary may, by writing, delegate to one or more senior employees of an authorised Commonwealth contractor any or all of the Secretary’s functions or powers under the TCF (SIP) scheme, other than the function referred to in paragraph 22(1)(b) (which deals with the reconsideration of decisions).
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-          (3A)  The Secretary may, by writing, delegate to one or more senior employees of an authorised Commonwealth contractor any or all of the Secretary’s functions or powers under the TCF Post-2005 (SIP) scheme, other than the function referred to in paragraph 37X(2)(b) (which deals with the reconsideration of decisions).
+<dt>(i)</dt><dd>the information is given to a person who is exercising powers or
 
-             (4)  A delegate is, in the performance of a function delegated under subsection (3) or (3A), or in the exercise of a power delegated under subsection (3) or (3A), subject to the directions of the Secretary.
+performing functions under, or in connection with, the TCF (SIP) scheme;</dd>
 
-Section 70 of the Crimes Act 1914
+<dt>(ii)</dt><dd>the information is given in compliance or purported compliance with
 
-             (5)  For the purposes of the application of the definition of **_Commonwealth officer_** in subsection 3(1) of the _Crimes Act 1914_ to section 70 of that Act, a person who performs functions, or exercises powers, under a delegation under this section is taken to be a person who performs services for the Commonwealth.
+section 38.
 
-Definitions
+</dd>
 
-             (6)  In this section:
+</dl></dl></dl></dl>
 
-                    <a name="contractor"></a><a name="authorised-commonwealth"></a>**_authorised Commonwealth_** **_contractor_** means a person who:
+Penalty:	Imprisonment for 12 months. 
 
-                     (a)  provides, or proposes to provide, services to the Commonwealth under a contract; and
+**
 
-                     (b)  is authorised, in writing, by the Secretary for the purposes of this definition.
+###  TEXTILE, CLOTHING AND FOOTWEAR STRATEGIC INVESTMENT PROGRAM ACT 1999- SECT 50  False or misleading evidence 
+**
 
-                    <a name="senior-employe"></a>**_senior employee_**, in relation to an authorised Commonwealth contractor, means an employee of the contractor, where the skills and responsibilities that are expected of the employee are equivalent to, or exceed, the skills and responsibilities expected of at least one of the senior officers of the Department.
+ <dl compact=""><dl compact="">
 
-                    <a name="senior-offic"></a>**_senior officer_**, in relation to the Department, means:
+		A person is guilty of an offence if:
 
-                     (a)  an SES employee, or acting SES employee, in the Department; or
+ </dl></dl>
 
-                     (b)  a person who holds or performs the duties of an Executive Officer (Level 2) office or position in the Department.
+<dl compact=""><dl compact=""><dl compact="">
 
-##### <a id="53"></a>53  Availability of grants
+<dt>(a)</dt><dd>the person gives evidence to another person; and</dd>
 
-                   To avoid doubt, nothing in this Act implies that grants under a scheme under Part 2 or 3A must be available in respect of a particular income year.
+<dt>(b)</dt><dd>the person does so knowing that the evidence is false or misleading in a
 
-##### <a id="54"></a>54  Uniformity of bounties
+material particular; and</dd>
 
-             (1)  A function or power conferred on the Minister by this Act must not be performed or exercised in such a manner that any bounty under the TCF (SIP) scheme would not be uniform throughout the Commonwealth within the meaning of paragraph 51(iii) of the Constitution.
+<dt>(c)</dt><dd>the evidence is given under section 38.
 
-             (2)  A function or power conferred on the Minister or the Secretary by the TCF (SIP) scheme must not be performed or exercised in such a manner that any bounty under the scheme would not be uniform throughout the Commonwealth within the meaning of paragraph 51(iii) of the Constitution.
+</dd>
 
-##### <a id="55"></a>55  International obligations
+</dl></dl></dl>
 
-             (1)  In performing a function, or exercising a power, conferred by this Act, the Minister must have regard to <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>’s obligations under:
+Penalty:	Imprisonment for 12 months. 
 
-                     (a)  the Agreement Establishing the World Trade Organization; and
+**
 
-                     (b)  the <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">New Zealand</st1:place></st1:country-region> Closer Economic Relations Trade Agreement; and
+###  TEXTILE, CLOTHING AND FOOTWEAR STRATEGIC INVESTMENT PROGRAM ACT 1999- SECT 51  False or misleading documents 
+**
 
-                     (c)  an international agreement specified in the regulations.
+ <dl compact=""><dl compact="">
 
-             (2)  Subsection (1) does not limit the matters to which the Minister may have regard.
+<dt>(1)</dt><dd>A person is guilty of an offence if:
 
-             (3)  In performing a function, or exercising a power, conferred by the TCF (SIP) scheme or the TCF Post-2005 (SIP) scheme, the Minister or the Secretary must have regard to <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>’s obligations under:
+</dd> </dl></dl>
 
-                     (a)  the Agreement Establishing the World Trade Organization; and
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (b)  the <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">New Zealand</st1:place></st1:country-region> Closer Economic Relations Trade Agreement; and
+<dt>(a)</dt><dd>the person produces a document to another person; and</dd>
 
-                     (c)  an international agreement specified in the regulations.
+<dt>(b)</dt><dd>the person does so knowing that the document is false or misleading in a
 
-             (4)  Subsection (3) does not limit the matters to which the Minister or the Secretary may have regard.
+material particular; and</dd>
 
-             (5)  In this section:
+<dt>(c)</dt><dd>the document is produced in compliance or purported compliance with
 
-                    <a name="australia-new-zealand-closer-econom-relat-trade-agreem"></a>**_Australia New Zealand Closer Economic Relations Trade Agreement_** includes:
+section 38.
 
-                     (a)  a Protocol relating to that agreement; and
+</dd>
 
-                     (b)  an instrument under that agreement or under such a Protocol.
+</dl></dl></dl>
 
-                    <a name="intern-agreem"></a>**_international agreement_** means:
+Penalty:	Imprisonment for 12 months.
 
-                     (a)  a convention to which <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> is a party; or
+<dl compact=""><dl compact="">
 
-                     (b)  an agreement between <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> and a foreign country.
+<dt>(2)</dt><dd>Subsection (1) does not apply to a person who produces a document if the
 
-##### <a id="56"></a>56  Regulations
+document is accompanied by a written statement signed by the person or, in the
 
-                   The Governor-General may make regulations prescribing matters:
+case of a body corporate, by a competent officer of the body corporate:
 
-                     (a)  required or permitted by this Act to be prescribed; or
+</dd> </dl></dl>
 
-                     (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+<center>Back to Top</center>
 
+<dl compact=""><dl compact=""><dl compact="">
 
-# Notes to the _<span style="mso-no-proof: yes">Textile, Clothing and Footwear Strategic Investment Program Act 1999</span>_
+<dt>(a)</dt><dd>stating that the document is, to the knowledge of the first-mentioned
 
-### Note 1
+person, false or misleading in a material particular; and</dd>
+
+<dt>(b)</dt><dd>setting out, or referring to, the material particular in which the
+
+document is, to the knowledge of the first-mentioned person, false or
+
+misleading.
+
+</dd>
+
+</dl></dl></dl>
+
+<center>**
+
+###  TEXTILE, CLOTHING AND FOOTWEAR STRATEGIC INVESTMENT PROGRAM ACT 1999<part>Part 7&#151;Miscellaneous </part>
+**</center>
+
+**
+
+###  TEXTILE, CLOTHING AND FOOTWEAR STRATEGIC INVESTMENT PROGRAM ACT 1999- SECT 52  Delegation 
+**
+
+ _Delegation to senior officers of the Department_
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>The Secretary may, by writing, delegate to one or more senior officers of
+
+the Department any or all of the Secretary's functions or powers under this Act
+
+or the TCF (SIP) scheme.</dd> <dt>(2)</dt><dd>A delegate is, in the performance of a function delegated under subsection (1), or in the exercise of a power delegated under subsection (1), subject to the directions of the Secretary. </dd> </dl></dl>
+
+_Delegation to senior employees of an authorised Commonwealth contractor_
+
+<dl compact=""><dl compact="">
+
+<dt>(3)</dt><dd>The Secretary may, by writing, delegate to one or more senior employees of
+
+an authorised Commonwealth contractor any or all of the Secretary's functions
+
+or powers under the TCF (SIP) scheme, other than the function referred to in
+
+paragraph 22(1)(b) (which deals with the reconsideration of decisions).</dd> <dt>(4)</dt><dd>A delegate is, in the performance of a function delegated under subsection (3), or in the exercise of a power delegated under subsection (3), subject to the directions of the Secretary. </dd> </dl></dl>
+
+_Section 70 of the Crimes Act 1914_
+
+<dl compact=""><dl compact="">
+
+<dt>(5)</dt><dd>For the purposes of the application of the definition of
+
+_Commonwealth officer_ in subsection 3(1) of the _Crimes Act 1914_ to section 70 of that Act, a person who performs functions, or
+
+exercises powers, under a delegation under this section is taken to be a person
+
+who performs services for the Commonwealth.
+
+</dd> </dl></dl>
+
+_Definitions_
+
+<dl compact=""><dl compact="">
+
+<dt>(6)</dt><dd>In this section:
+
+</dd> </dl></dl>
+
+<def><dl compact=""><dl compact="">
+
+_authorised Commonwealth_ _contractor_ means a person
+
+who:
+
+ </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>provides, or proposes to provide, services to the Commonwealth under a
+
+contract; and</dd>
+
+<dt>(b)</dt><dd>is authorised, in writing, by the Secretary for the purposes of this
+
+definition.
+
+</dd>
+
+</dl></dl></dl>
+
+<def><dl compact=""><dl compact="">
+
+_senior employee_, in relation to an authorised Commonwealth
+
+contractor, means an employee of the contractor, where the skills and
+
+responsibilities that are expected of the employee are equivalent to, or
+
+exceed, the skills and responsibilities expected of at least one of the senior
+
+officers of the Department. _senior officer_, in relation to the Department, means:  </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>an SES employee, or acting SES employee, in the Department; or</dd>
+
+<dt>(b)</dt><dd>a person who holds or performs the duties of an Executive Officer (Level
+
+2) office or position in the Department.
+
+</dd>
+
+</dl></dl></dl>
+
+**
+
+###  TEXTILE, CLOTHING AND FOOTWEAR STRATEGIC INVESTMENT PROGRAM ACT 1999- SECT 53  Availability of grants <center>[Back to Top](#top)</center> 
+**
+
+ <dl compact=""><dl compact="">
+
+		To avoid doubt, nothing in this Act implies that grants must be available in
+
+respect of a particular income year.
+
+ </dl></dl>
+
+**
+
+###  TEXTILE, CLOTHING AND FOOTWEAR STRATEGIC INVESTMENT PROGRAM ACT 1999- SECT 54  Uniformity of bounties 
+**
+
+ <dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>A function or power conferred on the Minister by this Act must not be
+
+performed or exercised in such a manner that any bounty under the TCF (SIP)
+
+scheme would not be uniform throughout the Commonwealth within the meaning of
+
+paragraph 51(iii) of the Constitution.</dd> <dt>(2)</dt><dd>A function or power conferred on the Minister or the Secretary by the TCF <dt>(SIP)</dt><dd>scheme must not be performed or exercised in such a manner that any bounty under the scheme would not be uniform throughout the Commonwealth within the meaning of paragraph 51(iii) of the Constitution. </dd></dd> </dl></dl>
+
+**
+
+###  TEXTILE, CLOTHING AND FOOTWEAR STRATEGIC INVESTMENT PROGRAM ACT 1999- SECT 55  International obligations 
+**
+
+ <dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>In performing a function, or exercising a power, conferred by this Act,
+
+the Minister must have regard to Australia's obligations under:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the Agreement Establishing the World Trade Organization; and</dd>
+
+<dt>(b)</dt><dd>the Australia New Zealand Closer Economic Relations Trade Agreement; and</dd>
+
+<dt>(c)</dt><dd>an international agreement specified in the regulations.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>Subsection (1) does not limit the matters to which the Minister may have
+
+regard.</dd> <dt>(3)</dt><dd>In performing a function, or exercising a power, conferred by the TCF <dt>(SIP)</dt><dd>scheme, the Minister or the Secretary must have regard to Australia's obligations under: </dd></dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the Agreement Establishing the World Trade Organization; and</dd>
+
+<dt>(b)</dt><dd>the Australia New Zealand Closer Economic Relations Trade Agreement; and</dd>
+
+<dt>(c)</dt><dd>an international agreement specified in the regulations.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(4)</dt><dd>Subsection (3) does not limit the matters to which the Minister or the
+
+Secretary may have regard.</dd> <dt>(5)</dt><dd>In this section: </dd> </dl></dl>
+
+<def><dl compact=""><dl compact="">
+
+_Australia New Zealand Closer Economic Relations Trade Agreement_
+
+includes:
+
+ </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>a Protocol relating to that agreement; and</dd>
+
+<dt>(b)</dt><dd>an instrument under that agreement or under such a Protocol.
+
+</dd>
+
+</dl></dl></dl>
+
+<def><dl compact=""><dl compact="">
+
+_international agreement_ means:
+
+ </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>a convention to which Australia is a party; or</dd>
+
+<dt>(b)</dt><dd>an agreement between Australia and a foreign country.
+
+</dd>
+
+</dl></dl></dl>
+
+**
+
+###  TEXTILE, CLOTHING AND FOOTWEAR STRATEGIC INVESTMENT PROGRAM ACT 1999- SECT 56  Regulations 
+**
+
+ <dl compact=""><dl compact="">
+
+		The Governor-General may make regulations prescribing matters:
+
+ </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>required or permitted by this Act to be prescribed; or</dd>
+
+<dt>(b)</dt><dd>necessary or convenient to be prescribed for carrying out or giving effect
+
+to this Act.
+
+</dd>
+
+</dl></dl></dl>
+
+<center>Back to Top</center>
+
+<center>**
+
+###  TEXTILE, CLOTHING AND FOOTWEAR STRATEGIC INVESTMENT PROGRAM ACT 1999<centreit>Notes to the _Textile, Clothing and Footwear Strategic Investment Program Act 1999_ </centreit>
+**</center>
+
+**Note 1**
 
 The _Textile, Clothing and Footwear Strategic Investment Program Act 1999_ as shown in this compilation comprises Act No. 182, 1999 amended as indicated in the Tables below.
+ For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
 
-For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
+**Table of Acts**
 
-### Table of Acts
+<table><tr align="left">
+  <th colspan="1" align="left">
+    <div>Act</div>
 
-<table>
-<colgroup>
-  <col width="31%">
-  <col width="16%">
-  <col width="18%">
-  <col width="22%">
-  <col width="14%">
-</colgroup>
+  </th>
+  <th colspan="1" align="left">
+    <div>Number 
+and year</div>
 
-<thead>
-  <tr>
-    <td>
-      <div>Act <o:p></o:p> </div>
-    </td>
-    <td>
-      <div>Number 
-and year <o:p></o:p> 
- </div>
-    </td>
-    <td>
-      <div>Date 
-of Assent <o:p></o:p> 
- </div>
-    </td>
-    <td>
-      <div>Date of commencement <o:p></o:p> </div>
-    </td>
-    <td>
-      <div>Application, saving or transitional provisions <o:p></o:p> </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Textile, Clothing and Footwear Strategic Investment Program Act 1999</div>
-    </td>
-    <td>
-      <div>182, 1999</div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="22" month="12">22 Dec 1999</st1:date></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="22" month="12">22 Dec 1999</st1:date></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
-    </td>
-    <td>
-      <div>146, 1999</div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="11" month="11">11 Nov 1999</st1:date></div>
-    </td>
-    <td>
-      <div>Schedule 1 (item 935): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="22" month="12">22 Dec 1999</st1:date> <i style="mso-bidi-font-style: normal">(a)</i></div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>
-      <div>as amended by <o:p></o:p> </div>
-    </td>
-    <td>
-      <div> <o:p> </o:p> </div>
-    </td>
-    <td>
-      <div> <o:p> </o:p> </div>
-    </td>
-    <td>
-      <div> <o:p> </o:p> </div>
-    </td>
-    <td>
-      <div> <o:p> </o:p> </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Statute Law Revision Act 2002  <o:p></o:p> </div>
-    </td>
-    <td>
-      <div>63, 2002  <o:p></o:p> </div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2002" day="3" month="7">3 July 2002</st1:date>  <o:p></o:p> </div>
-    </td>
-    <td>
-      <div>Schedule 2 (item 29): <i style="mso-bidi-font-style: normal">(b)</i>  <o:p></o:p> </div>
-    </td>
-    <td>
-      <div>—  <o:p></o:p> </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Textile, Clothing and Footwear Strategic Investment Program Amendment Act 2004</div>
-    </td>
-    <td>
-      <div>36, 2004</div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2004" day="20" month="4">20 Apr 2004</st1:date></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2004" day="20" month="4">20 Apr 2004</st1:date></div>
-    </td>
-    <td>
-      <div>S. 4</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Textile, Clothing and Footwear Strategic Investment Program Amendment (Post-2005 Scheme) Act 2004</div>
-    </td>
-    <td>
-      <div>146, 2004</div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2004" day="14" month="12">14 Dec 2004</st1:date></div>
-    </td>
-    <td>
-      <div>Schedule 1: <i style="mso-bidi-font-style: normal">(c)</i> 
-Remainder: Royal Assent <o:p></o:p> 
-</div>
-    </td>
-    <td>
-      <div>Sch. 1 (item 11)</div>
-    </td>
-  </tr>
-</tbody></table>
+  </th>
+  <th colspan="1" align="left">
+    <div>Date 
+of Assent</div>
 
+  </th>
+  <th colspan="1" align="left">
+    <div>Date of commencement</div>
 
-_(a)_     The _Textile, Clothing and Footwear Strategic Investment Program Act 1999_ was amended by Schedule 1 (item 935) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) to (3) of which provide as follows:
+  </th>
+  <th colspan="1" align="left">
+    <div>Application, saving or transitional provisions</div>
 
-                 (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
+  </th>
+</tr>
+<tr align="left">
+  <th colspan="1" align="left">
+    <div><i>Textile, Clothing and Footwear Strategic Investment Program Act 1999</i></div>
 
-                 (2)   Subject to this section, this Act commences at the commencing time.
+  </th>
+  <th colspan="1" align="left">
+    <div>182, 1999</div>
 
-                 (3)   If:
+  </th>
+  <th colspan="1" align="left">
+    <div>22 Dec 1999</div>
 
-                              (a)   an item (the **_amending item_**) of a Schedule to this Act is expressed to amend another Act (the **_amended Act_**); and
+  </th>
+  <th colspan="1" align="left">
+    <div>22 Dec 1999</div>
 
-                              (b)   the whole of the amended Act is expressed to commence at one time; and
+  </th>
+  <th colspan="1" align="left">
 
-                              (c)   at the time when the _Public Service Act 1999_ commences, the amended Act:
+  </th>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Public Employment (Consequential and Transitional) Amendment Act 1999</i></div>
 
-                                      (i)   has not yet been enacted; or
+  </td>
+  <td colspan="1" align="left">
+    <div>146, 1999</div>
 
-                                     (ii)   has been enacted but has not yet commenced;
+  </td>
+  <td colspan="1" align="left">
+    <div>11 Nov 1999</div>
 
-                         then the amending item commences immediately after the commencement of the amended Act.
+  </td>
+  <td colspan="1" align="left">
+    <div>Schedule 1 (item&#160;935): 22 Dec 1999 <i>(a)</i></div>
 
-_(b)_<span style="mso-tab-count: 1">    </span>Subsection 2(1) (item 58) of the _Statute Law Revision Act 2002_ provides as follows:<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
 
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><b>as amended by</b></div>
 
-<o:p> </o:p>
+  </td>
+  <td colspan="1" align="left">
 
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
+  </td>
+  <td colspan="1" align="left">
 
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b style="mso-bidi-font-weight: normal">
-          Commencement information
-            <o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
 
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b style="mso-bidi-font-weight: normal">
-          Column 1
-            <o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
 
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b style="mso-bidi-font-weight: normal">
-          Column 2
-            <o:p></o:p>
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Statute Law Revision Act 2002</i></div>
 
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b style="mso-bidi-font-weight: normal">
-          Column 3
-            <o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>63, 2002</div>
 
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b style="mso-bidi-font-weight: normal">
-          Provision(s)
-            <o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>3 July 2002</div>
 
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b style="mso-bidi-font-weight: normal">
-          Commencement
-            <o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>Schedule 2 (item&#160;29): <i>(b)</i></div>
 
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b style="mso-bidi-font-weight: normal">
-          Date/Details
-            <o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
 
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>
-      <div>
-        58.
-          <span style="mso-spacerun: yes"></span>Schedule 2, item 29
-          <o:p></o:p>
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Textile, Clothing and Footwear Strategic Investment Program Amendment Act 2004</i></div>
 
-      </div>
-    </td>
-    <td>
-      <div>
-        Immediately after the time specified in the
-          <i style="mso-bidi-font-style: normal">Public Employment (Consequential and Transitional) Amendment Act 1999</i>for
-          the commencement of item 935 of Schedule 1 to that Act
-          <o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>36, 2004</div>
 
-      </div>
-    </td>
-    <td>
-      <div>
-        <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="22" month="12">
-          22 December 1999
-        </st1:date>
+  </td>
+  <td colspan="1" align="left">
+    <div>20 Apr 2004</div>
 
-          <o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>20 Apr 2004</div>
 
-      </div>
-    </td>
-  </tr>
-</tbody></table>
+  </td>
+  <td colspan="1" align="left">
+    <div>S. 4</div>
 
-_(c)_<span style="mso-tab-count: 1">     </span>Subsection 2(1) (item 2) of the _Textile, Clothing and Footwear Strategic Investment Program Amendment (Post-2005 Scheme) Act 2004_ provides as follows:<o:p></o:p>
+  </td>
+</tr></table>_(a)_ 
+<center>Back to Top</center>
+ The _Textile, Clothing and Footwear Strategic Investment Program Act 1999_ was amended by Schedule 1 (item 935) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) to (3) of which provide as follows:
 
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+	(1)	In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
+ 	(2)	Subject to this section, this Act commences at the commencing time.
+ 	(3)	If:
 
-<o:p> </o:p>
+	(a)	an item (the **_amending item_**) of a Schedule to this Act is expressed to amend another Act (the **_amended Act_**); and
+ 	(b)	the whole of the amended Act is expressed to commence at one time; and
+ 	(c)	at the time when the _Public Service Act 1999_ commences, the amended Act:
 
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
+	(i)	has not yet been enacted; or
+ 	(ii)	has been enacted but has not yet commenced;
 
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b style="mso-bidi-font-weight: normal">
-          Provision(s)
-            <o:p></o:p>
+		then the amending item commences immediately after the commencement of the amended Act.
 
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b style="mso-bidi-font-weight: normal">
-          Commencement
-            <o:p></o:p>
+_(b)_	Subsection 2(1) (item 58) of the _Statute Law Revision Act 2002_ provides as follows:
 
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b style="mso-bidi-font-weight: normal">
-          Date/Details
-            <o:p></o:p>
+<table><tr align="left">
+  <th colspan="1" align="left">
+    <div><b>Commencement information</b></div>
 
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>
-      <div>
-        2.
-          <span style="mso-spacerun: yes"></span>Schedule 1
-          <o:p></o:p>
+  </th>
+</tr>
+<tr align="left">
+  <th colspan="1" align="left">
+    <div><b>Column 1</b></div>
 
-      </div>
-    </td>
-    <td>
-      <div>
-        Immediately after the commencement of the
-          <i style="mso-bidi-font-style: normal">Customs Tariff Amendment (Textile, Clothing and Footwear Post-2005 Arrangements)
-            Act 2004</i>.
-          <o:p></o:p>
+  </th>
+  <th colspan="1" align="left">
+    <div><b>Column 2</b></div>
 
-      </div>
-    </td>
-    <td>
-      <div>
-        <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2004" day="14" month="12">
-          14 December 2004
-        </st1:date>
+  </th>
+  <th colspan="1" align="left">
+    <div><b>Column 3</b></div>
 
-          <o:p></o:p>
+  </th>
+</tr>
+<tr align="left">
+  <th colspan="1" align="left">
+    <div><b>Provision(s)</b></div>
 
-      </div>
-    </td>
-  </tr>
-</tbody></table>
+  </th>
+  <th colspan="1" align="left">
+    <div><b>Commencement</b></div>
 
-<o:p> </o:p>
+  </th>
+  <th colspan="1" align="left">
+    <div><b>Date/Details</b></div>
+
+  </th>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>58\. Schedule&#160;2, item&#160;29</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Immediately after the time specified in the <i>Public Employment (Consequential and Transitional) Amendment Act 1999</i>for the commencement of item&#160;935 of Schedule&#160;1 to that Act</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>22 December 1999</div>
+
+  </td>
+</tr></table>
+
+Table of Amendments 
+
+<table><tr align="left">
+  <th colspan="1" align="left">
+    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+
+  </th>
+</tr>
+<tr align="left">
+  <th colspan="1" align="left">
+    <div>Provision affected</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>How affected</div>
+
+  </th>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 10</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No. 36, 2004</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 14A</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>ad. No. 36, 2004</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 52</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No. 146, 1999 (as am. by No. 63, 2002)</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+</tr></table>  <center>**
+
+###  Table A 
+**</center>  **Table A**
+
+**Application, saving or transitional provisions**
+
+_Textile, Clothing and Footwear Strategic Investment Program Amendment Act 2004_ (No.&#160;36, 2004) 
+
+**4  Application**
+
+<dl compact=""><dl compact="">
+
+		The amendments made by Schedule&#160;1 to this Act apply in respect of grants
+
+made both before and after the commencement of this Act.
+
+ </dl></dl>
+
+</def></def></def></def>
+
+</def>
+
+</def>
+
+</def>
+
+</def>
+
+</def></def>
 
 
-## Table of Amendments
-
-<table>
-<colgroup>
-  <col width="34%">
-  <col width="66%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted  am. = amended  rep. = repealed  rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected <o:p></o:p> </div>
-    </td>
-    <td>
-      <div>How affected <o:p></o:p> </div>
-    </td>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>
-      <div><b style="mso-bidi-font-weight: normal">Part 1 <o:p></o:p> </b></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 3, 4 </div>
-    </td>
-    <td>
-      <div>am. No. 146, 2004</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b style="mso-bidi-font-weight: normal">Part 2 <o:p></o:p> </b></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b style="mso-bidi-font-weight: normal">Division 1A <o:p></o:p> </b></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Div. 1A of Part 2 </div>
-    </td>
-    <td>
-      <div>ad. No. 146, 2004</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 7A, 7B </div>
-    </td>
-    <td>
-      <div>ad. No. 146, 2004</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b style="mso-bidi-font-weight: normal">Division 2 <o:p></o:p> </b></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 10 </div>
-    </td>
-    <td>
-      <div>am. No. 36, 2004</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 14A </div>
-    </td>
-    <td>
-      <div>ad. No. 36, 2004</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b style="mso-bidi-font-weight: normal">Division 4A <o:p></o:p> </b></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Div. 4A of Part 2 </div>
-    </td>
-    <td>
-      <div>ad. No. 146, 2004</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 18A–18F </div>
-    </td>
-    <td>
-      <div>ad. No. 146, 2004</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b style="mso-bidi-font-weight: normal">Part 3A <o:p></o:p> </b></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Part 3A </div>
-    </td>
-    <td>
-      <div>ad. No. 146, 2004</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b style="mso-bidi-font-weight: normal">Division 1 <o:p></o:p> </b></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 37A, 37B </div>
-    </td>
-    <td>
-      <div>ad. No. 146, 2004</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b style="mso-bidi-font-weight: normal">Division 2 <o:p></o:p> </b></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 37C, 37D </div>
-    </td>
-    <td>
-      <div>ad. No. 146, 2004</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b style="mso-bidi-font-weight: normal">Division 3 <o:p></o:p> </b></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 37E–37K </div>
-    </td>
-    <td>
-      <div>ad. No. 146, 2004</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b style="mso-bidi-font-weight: normal">Division 4 <o:p></o:p> </b></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 37L </div>
-    </td>
-    <td>
-      <div>ad. No. 146, 2004</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b style="mso-bidi-font-weight: normal">Division 5 <o:p></o:p> </b></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 37M, 37N </div>
-    </td>
-    <td>
-      <div>ad. No. 146, 2004</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b style="mso-bidi-font-weight: normal">Division 6 <o:p></o:p> </b></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 37P–37U </div>
-    </td>
-    <td>
-      <div>ad. No. 146, 2004</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b style="mso-bidi-font-weight: normal">Division 7 <o:p></o:p> </b></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 37V–37Z </div>
-    </td>
-    <td>
-      <div>ad. No. 146, 2004</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss.  37ZA–37ZI </div>
-    </td>
-    <td>
-      <div>ad. No. 146, 2004</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b style="mso-bidi-font-weight: normal">Part 3B <o:p></o:p> </b></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 37ZJ </div>
-    </td>
-    <td>
-      <div>ad. No. 146, 2004</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b style="mso-bidi-font-weight: normal">Part 4 <o:p></o:p> </b></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 38 </div>
-    </td>
-    <td>
-      <div>am. No. 146, 2004</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b style="mso-bidi-font-weight: normal">Part 5 <o:p></o:p> </b></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 43 </div>
-    </td>
-    <td>
-      <div>rs. No. 146, 2004</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 46 </div>
-    </td>
-    <td>
-      <div>am. No. 146, 2004</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Note to s. 46 </div>
-    </td>
-    <td>
-      <div>ad. No. 146, 2004</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b style="mso-bidi-font-weight: normal">Part 6 <o:p></o:p> </b></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 49 </div>
-    </td>
-    <td>
-      <div>am. No. 146, 2004</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b style="mso-bidi-font-weight: normal">Part 7 <o:p></o:p> </b></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 52  <span style="mso-tab-count: 1 dotted"></span> </div>
-    </td>
-    <td>
-      <div>am. No. 146, 1999 (as am. by No. 63, 2002); No. 146, 2004</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 53 </div>
-    </td>
-    <td>
-      <div>am. No. 146, 2004</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 55 </div>
-    </td>
-    <td>
-      <div>am. No. 146, 2004</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-  </tr>
-</tbody></table>
-
-
-## Table A
-
-### Application, saving or transitional provisions
-
-_Textile, Clothing and Footwear Strategic Investment Program Amendment Act 2004 (No. 36, 2004)<o:p></o:p>_
-
-##### <a id="4"></a>4  Application
-
-                   The amendments made by Schedule 1 to this Act apply in respect of grants made both before and after the commencement of this Act.
-
-* * *
-
-_Textile, Clothing and Footwear Strategic Investment Program Amendment (Post-2005 Scheme) Act 2004 (No. 146, 2004)<o:p></o:p>_
-
-## Schedule 1
-
-## 11  Application—conditional grants
-
-The amendment made by item 10 applies in relation to grants paid on or after the commencement of this item.
-
-
-<o:p> </o:p>
