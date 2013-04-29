@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00175/Html/56936c23-4d1a-4618-9bda-9168b64aea1d_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00839/Html/08467322-769f-479a-a499-bb086753a0ea_files/image001.gif)
 
 # Motor Vehicle Standards Act 1989
 
 **Act No. 65 of 1989 as amended**
 
-This compilation was prepared on 1 February 2012
+This compilation was prepared on 19 October 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
@@ -396,7 +396,7 @@ Note:          Part 6 of the _Legislative Instruments Act 20
 
                    In determining vehicle standards, the Minister may incorporate documents that set out standards:
 
-                     (a)  produced by the Economic Commission for Europe, the International Electrotechnical Commission, the International Organization for Standardization or Standards Australia or by any other organisation that is determined, by legislative instrument, by the Minister; and
+                     (a)  produced by the Economic Commission for Europe, the International Electrotechnical Commission, the International Organization for Standardization or Standards Australia International Limited or by any other organisation that is determined, by legislative instrument, by the Minister; and
 
                      (b)  in force from time to time.
 
@@ -1858,7 +1858,7 @@ Remainder: 24 May 2001</div>
       <div>27 June 2011</div>
     </td>
     <td>
-      <div>Schedule 2 (item 773) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+      <div>Schedule 2 (item 773) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
     </td>
     <td>
       <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
@@ -2050,7 +2050,7 @@ _(h)_     The _Motor Vehicle Standards Act 1989_ was amended by Schedule
     <div></div>
   </td>
   <td>
-    <div>am. No. 109, 2006; No. 46, 2011</div>
+    <div>am. No. 109, 2006</div>
   </td>
 </tr>
 <tr>
@@ -2718,6 +2718,20 @@ _(h)_     The _Motor Vehicle Standards Act 1989_ was amended by Schedule
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendment commences on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 773  Paragraph 7A(a)
+
+Omit “Standards Australia International Limited”, substitute “Standards Australia”.
+
+As at 19 October 2011 the amendment is not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -2829,6 +2843,8 @@ Definition
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
