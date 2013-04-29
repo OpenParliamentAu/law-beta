@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00372/Html/b95df450-2986-49f1-bd3e-e8a747d6c812_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00114/Html/SupSelfManSuperFndsSLIA91_image001.gif)
 
 # Superannuation (Self Managed Superannuation Funds) Supervisory Levy Imposition Act 1991
 
 **Act No. 61 of 1991 as amended**
 
-This compilation was prepared on 28 March 2012
- taking into account amendments up to Act No. 12 of 2012
+This compilation was prepared on 22 March 2007
+ taking into account amendments up to Act No. 14 of 2007
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,21 +14,21 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
-[1](#1).            Short title [_see_ Note 1]
+[1  Short title \[see Note 1]](#1  Short title \[see Note 1]).                                                                                  1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2  Commencement \[see Note 1]](#2  Commencement \[see Note 1]).                                                                         1
 
-[3](#3).            Application of the Superannuation Industry (Supervision) Act
+[3  Application of the Superannuation Industry (Supervision) Act](#3  Application of the Superannuation Industry (Supervision) Act).                   1
 
-[5](#5).            Imposition of superannuation supervisory levy
+[5  Imposition of superannuation supervisory levy](#5  Imposition of superannuation supervisory levy).                                           1
 
-[6](#6).            Amount of levy
+[6  Amount of levy](#6  Amount of levy).                                                                                             1
 
-[7](#7).            Regulations
+[7  Regulations](#7  Regulations).                                                                                                    1
 
 **Notes** 
 
@@ -56,7 +56,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="7  "></a>7  Regulations
 
-                   The Governor‑General may make regulations for the purposes of section 6.
+             (1)  The Governor-General may make regulations for the purposes of section 6.
 
 # Notes to the _Superannuation (Self Managed Superannuation Funds) Supervisory Levy Imposition Act 1991_
 
@@ -64,7 +64,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 The _Superannuation (Self Managed Superannuation Funds) Supervisory Levy Imposition Act 1991_ as shown in this compilation comprises Act No. 61, 1991 amended as indicated in the Tables below.
 
-All relevant information pertaining to application, saving or transitional provisions prior to 29 June 1998 is not included in this compilation. For subsequent information _see_ Table A.
+All relevant information pertaining to application, saving or transitional provisions prior to 29 June 1998 is not included in this compilation . For subsequent information _see_ Table A.
 
 ### Table of Acts
 
@@ -177,7 +177,7 @@ of Assent</div>
     <div>8 Oct 1999</div>
   </td>
   <td>
-    <div>Schedule 2 (items 7–12): Royal Assent</div>
+    <div>Schedule 2 (items 7-12): Royal Assent <i>(b)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -199,23 +199,6 @@ of Assent</div>
   <td>
     <div>Sch. 1 (item 2) \[ <i>see</i>Table A]</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Tax Laws Amendment (2011 Measures No. 9) Act 2012</div>
-  </td>
-  <td>
-    <div>12, 2012</div>
-  </td>
-  <td>
-    <div>21 Mar 2012</div>
-  </td>
-  <td>
-    <div>Schedule 6 (item 24): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Superannuation (Self Managed Superannuation Funds) Supervisory Levy Imposition Act 1991_ was amended by Schedule 18 (items 36–39) only of the _Financial Sector Reform (Amendments and Transitional Provisions) Act 1998_, subsection 2(2)(p) of which provides as follows:
@@ -224,12 +207,18 @@ _(a)_     The _Superannuation (Self Managed Superannuation Funds) Superv
 
                               (p)   Schedule 18, other than the items amending the _Australian Prudential Regulation Authority Act 1998_.
 
+_(b)_    The _Superannuation (Self Managed Superannuation Funds) Supervisory Levy Imposition Act 1991_ was amended by Schedule 2 (items 7–12) only of the _Superannuation Legislation Amendment Act (No. 3) 1999_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+
+ 
+
 ## Table of Amendments
 
 <table>
 <colgroup>
-  <col width="32%">
-  <col width="68%">
+  <col width="34%">
+  <col width="66%">
 </colgroup>
 
 <thead>
@@ -316,7 +305,7 @@ _(a)_     The _Superannuation (Self Managed Superannuation Funds) Superv
     <div>S. 7</div>
   </td>
   <td>
-    <div>am. No. 54, 1998; No. 121, 1999; No. 12, 2012</div>
+    <div>am. No. 54, 1998; No. 121, 1999</div>
   </td>
 </tr></table>
 
@@ -330,13 +319,13 @@ _Financial Sector Reform (Amendments and Transitional Provisions) Act 1998 (No.�
 
 ## 45  Regulations may deal with transitional matters arising out of changes to levy legislation
 
-(1)       The regulations may deal with transitional matters arising out of:
+(1)        The regulations may deal with transitional matters arising out of:
 
                      (b)  the amendment of the following Acts:
 
                              (ii)  the _Superannuation Supervisory Levy Act 1991_; and
 
-(2)       Without limiting subitem (1), the regulations may provide for:
+(2)        Without limiting subitem (1), the regulations may provide for:
 
                      (a)  the crediting of an amount paid by way of one kind of levy against a liability to pay an amount of another kind of levy; and
 
@@ -352,6 +341,8 @@ _Superannuation (Self Managed Superannuation Funds) Supervisory Levy Amendment A
 
 ## 2  Application
 
-The amendment made by this Schedule applies to the 2007‑2008 income year and later years.
+The amendment made by this Schedule applies to the 2007-2008 income year and later years.
+
+ 
 
  
