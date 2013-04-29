@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00335/Html/377e60a9-9174-405d-97d4-b68618367a5c_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00843/Html/8526a209-c004-494b-a5a8-1c42b73e03be_files/image001.gif)
 
 # Inspector of Transport Security Act 2006
 
 **Act No. 149 of 2006 as amended**
 
-This compilation was prepared on 26 March 2012
+This compilation was prepared on 19 October 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force 
@@ -503,6 +503,8 @@ Note:          **_OBR_** is short for on‑board recording.
 
                     <a name="surfac-transport-aspect"></a>**_surface transport aspect_** of a transport security matter has the meaning given by section 22.
 
+                    <a name="territori-sea"></a>**_territorial sea_** has the same meaning as in the _Seas and Submerged Lands Act 1973_.
+
                     <a name="transport"></a>**_transport_** means transport by means of a transport vehicle.
 
                     <a name="transport-minist"></a>**_Transport Minister_** of a State or Territory means a Minister of that State or Territory responsible for transport or a type of transport.
@@ -701,7 +703,7 @@ Note:          Under subsection 33(3) of the _Acts Interpretat
 
 ##### <a id="17"></a>17  Constitutional limitations—road transport
 
-                   The Minister must not direct the Inspector to inquire into a transport security matter in relation to a road vehicle or road transport unless:
+                   The Minister must not direct the Inspector to inquire into a transport security matter in relation to a road vehicle or road transport unless:
 
                      (a)  the matter relates to a road vehicle engaged in, or road transport conducted in the course of, trade or commerce among the States; or
 
@@ -897,19 +899,27 @@ Offshore security matters
 
 ##### <a id="29"></a>29  Acting appointments
 
-                   The Minister may appoint a person to act as the Inspector:
+             (1)  The Minister may appoint a person to act as the Inspector:
 
                      (a)  during a vacancy in the office of Inspector (whether or not an appointment has previously been made to the office); or
 
                      (b)  during any period, or during all periods, when the Inspector is absent from duty or from Australia, or is, for any reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+             (2)  Anything done by or in relation to a person purporting to act under an appointment is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
 
 ##### <a id="30"></a>30  Resignation
 
                    The Inspector may resign his or her appointment by giving the Minister a written resignation.
 
-##### <a id="31"></a>31  Termination
+##### <a id="31"></a>31  Termination
 
              (1)  The Minister may terminate the appointment of the Inspector for misbehaviour or physical or mental incapacity.
 
@@ -2452,10 +2462,10 @@ Remainder: Royal Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 726–729) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 726–729) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
-    <div>Sch. 3 (items 10, 11)</div>
+    <div>Sch. 3 (items 10, 11)</div>
   </td>
 </tr></table>
 
@@ -2600,39 +2610,7 @@ _(a)_ Subsection 2(1) (items 21 and 22) of the _Statute Law Revision Act 2008_
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 20, 2009; No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 29</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 29</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
+    <div>am. No. 20, 2009</div>
   </td>
 </tr>
 <tr>
@@ -2884,11 +2862,41 @@ _(a)_ Subsection 2(1) (items 21 and 22) of the _Statute Law Revision Act 2008_
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 726  Section 3 (definition of _territorial sea_)
+
+Repeal the definition.
+
+## 727  Subsection 29(1)
+
+Omit “(1)”.
+
+## 728  At the end of subsection 29(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 729  Subsection 29(2)
+
+Repeal the subsection.
+
+As at 19 October 2011 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
