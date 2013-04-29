@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00255/Html/1d0252df-8b8f-4ba3-83c4-a7e42328a943_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00820/Html/cff6a291-98a7-4201-8141-2f2e374765d8_files/image001.gif)
 
 # National Health and Medical Research Council Act 1992
 
 **Act No. 225 of 1992 as amended**
 
-This compilation was prepared on 27 December 2011
+This compilation was prepared on 5 October 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
@@ -66,8 +66,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [14](#14).          Interim regulatory recommendations and guidelines
 
-[14AA](#14AA).    Consultation requirements do not apply to revoking 
- guidelines
+[14AA](#14AA).    Consultation requirements do not apply to revoking guidelines
 
         **Subdivision B—Guidelines approved by CEO**
 
@@ -288,6 +287,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
                      (b)  of a committee—includes the Chair of that committee.
 
                     <a name="nhmrc"></a>**_NHMRC_** means the National Health and Medical Research Council.
+
+                    <a name="nhmrc-offic"></a>**_NHMRC officer_** has the meaning given by subsection 80(1).
 
                     <a name="nhmrc-offic"></a>**_NHMRC officer_** has the meaning given by subsection 80(1).
 
@@ -999,7 +1000,7 @@ Term of office
 
                      (b)  in any other case—3 years.
 
-Note:          The person is eligible for reappointment: see section 33AA of the _Acts Interpretation Act 1901_.
+Note:          The person is eligible for reappointment: see subsection 33(4A) of the _Acts Interpretation Act 1901_.
 
 ##### <a id="42"></a>42  Acting appointments
 
@@ -1020,8 +1021,6 @@ Note:          The person is eligible for reappointment: see s
                      (a)  during a vacancy in the office, whether or not an appointment has previously been made to the office; or
 
                      (b)  during any period, or during all periods, when the holder of the office is absent from duty or from Australia, or is, for any reason, unable to perform the duties of the office.
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
 
              (3)  However, the Minister may only appoint a person to act in an office if the person is:
 
@@ -1048,6 +1047,16 @@ Note:          For rules that apply to acting appointments, se
                      (g)  in the case of the Commissioner—a person having appropriate expertise.
 
 Note:          The Minister may appoint any person to act in the office of the CEO.
+
+             (4)  Anything done by or in relation to a person purporting to act under an appointment is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
 
 ##### <a id="42A"></a>42A  Disclosures of interests
 
@@ -1251,7 +1260,7 @@ Note:          An Appropriation Act provides for amounts to be
 
                      (b)  any other purpose that is prescribed for the purpose of this section.
 
-Note:          Subsection 2C(1) of the _Acts Interpretation Act 1901_ provides that **_person_** includes a body politic or corporate as well as an individual.
+Note:          Paragraph 22(1)(a) of the _Acts Interpretation Act 1901_ provides that **_person_** includes a body politic or corporate as well as an individual.
 
              (2)  Assistance under subsection (1) is to be provided in such cases and subject to such conditions as the Minister, acting on the advice of the CEO, determines.
 
@@ -1489,7 +1498,7 @@ the Commissioner:
 
                      (a)  take whatever action the CEO considers appropriate; and
 
-                     (b)  inform the complainant of the action the CEO has taken and of the CEO’s reasons for taking the action.
+                     (b)  inform the complainant of the action the CEO has taken and of its reasons for taking the action.
 
 ##### <a id="68"></a>68  Annual report of Commissioner
 
@@ -2025,7 +2034,7 @@ Remainder: Royal Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 807–810) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 807–810) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11)</div>
@@ -2044,7 +2053,7 @@ _(c)_     The _National Health and Medical Research Council Act 1992_ wa
 
                  (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
 
-_(d)_     The _National Health and Medical Research Council Act 1992_ was amended by Schedule 1 (items 638–644) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+_(d)_     The _National Health and Medical Research Council Act 1992_ was amended by Schedule 1 (items 638–644) only of the _Public Employment (Consequential and Transitional) Amendment Act 19997_, subsections 2(1) and (2) of which provide as follows:
 
                  (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
 
@@ -2495,7 +2504,7 @@ _(e)_Subsection 2(1) (item 7) of the _Freedom of Information Amendment (Reform
 </tr>
 <tr>
   <td>
-    <div>Part 4</div>
+    <div>Part 24</div>
   </td>
   <td>
     <div>rs. No. 50, 2006</div>
@@ -2887,14 +2896,6 @@ _(e)_Subsection 2(1) (item 7) of the _Freedom of Information Amendment (Reform
 </tr>
 <tr>
   <td>
-    <div>Note to s. 41(5)</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 42</div>
   </td>
   <td>
@@ -2907,22 +2908,6 @@ _(e)_Subsection 2(1) (item 7) of the _Freedom of Information Amendment (Reform
   </td>
   <td>
     <div>rs. No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 42(2)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
   </td>
 </tr>
 <tr>
@@ -3107,14 +3092,6 @@ _(e)_Subsection 2(1) (item 7) of the _Freedom of Information Amendment (Reform
   </td>
   <td>
     <div>ad. No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
   </td>
 </tr>
 <tr>
@@ -3373,6 +3350,34 @@ _(e)_Subsection 2(1) (item 7) of the _Freedom of Information Amendment (Reform
     <div>rep. No. 50, 2006</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 807  Subsection 41(5) (note)
+
+Omit “subsection 33(4A)”, substitute “section 33AA”.
+
+## 808  At the end of subsection 42(2)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 809  Subsection 42(4)
+
+Repeal the subsection.
+
+## 810  Subsection 51(1) (note)
+
+Omit “Paragraph 22(1)(a)”, substitute “Subsection 2C(1)”.
+
+As at 5 October 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -4112,6 +4117,8 @@ unless the contrary is established.
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
