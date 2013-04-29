@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00328/Html/RoyalComm1902_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00006/Html/RoyalComm1902_WD02_image001.gif)
 
 # Royal Commissions Act 1902
 
 **Act No. 12 of 1902 as amended**
 
-This compilation was prepared on 11 July 2008
- taking into account amendments up to Act No. 73 of 2008
+This compilation was prepared on 30 December 2006
+ taking into account amendments up to Act No. 167 of 2006
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -108,7 +108,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="1A"></a>1A  Power to issue Royal Commission
 
-                   Without in any way prejudicing, limiting, or derogating from the power of the King, or of the Governor-General, to make or authorize any inquiry, or to issue any commission to make any inquiry, it is hereby enacted and declared that the Governor-General may, by Letters Patent in the name of the King, issue such commissions, directed to such person or persons, as he or she thinks fit, requiring or authorizing him or her or them or any of them to make inquiry into and report upon any matter specified in the Letters Patent, and which relates to or is connected with the peace, order, and good government of the Commonwealth, or any public purpose or any power of the Commonwealth.
+                   Without in any way prejudicing, limiting, or derogating from the power of the King, or of the Governor-General, to make or authorize any inquiry, or to issue any commission to make any inquiry, it is hereby enacted and declared that the Governor-General may, by Letters Patent in the name of the King, issue such commissions, directed to such person or persons, as he thinks fit, requiring or authorizing him or them or any of them to make inquiry into and report upon any matter specified in the Letters Patent, and which relates to or is connected with the peace, order, and good government of the Commonwealth, or any public purpose or any power of the Commonwealth.
 
 ##### <a id="1B"></a>1B  Definitions
 
@@ -170,7 +170,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
           (3A)  A member of a Commission may, by written notice served (as prescribed) on a person, require the person to produce a document or thing specified in the notice to a person, and at the time and place, specified in the notice.
 
-             (4)  In this section, a reference to a person who is an authorized person in relation to a Commission is a reference to a person authorized in writing, or a person included in a class of persons authorized in writing, for the purposes of this section by the President or Chair of that Commission, or by the sole Commissioner, as the case may be.
+             (4)  In this section, a reference to a person who is an authorized person in relation to a Commission is a reference to a person authorized in writing, or a person included in a class of persons authorized in writing, for the purposes of this section by the President or Chairman of that Commission, or by the sole Commissioner, as the case may be.
 
              (5)  For the purposes of sections 3, 6AA and 6AB, the power of a member of a Commission under this section to require or summon a person to produce a document includes the power to require or summon the person to produce a document that is subject to legal professional privilege.
 
@@ -382,9 +382,9 @@ Note:          A defendant bears an evidential burden in relat
 
 ##### <a id="6B"></a>6B  Arrest of witness failing to appear
 
-             (1)  If any person served with a summons to attend a Royal Commission as a witness fails to attend the Commission in answer to the summons, the President or Chair may, on proof by statutory declaration of the service of the summons, issue a warrant for the person’s apprehension.
+             (1)  If any person served with a summons to attend a Royal Commission as a witness fails to attend the Commission in answer to the summons, the President or Chairman may, on proof by statutory declaration of the service of the summons, issue a warrant for the person’s apprehension.
 
-             (2)  The warrant shall authorize the apprehension of the witness and the witness being brought before the Commission, and the witness’ detention in custody for that purpose until he or she is released by order of the President or Chair.
+             (2)  The warrant shall authorize the apprehension of the witness and the witness being brought before the Commission, and the witness’ detention in custody for that purpose until he or she is released by order of the President or Chairman.
 
              (3)  The warrant may be executed by any member of the Australian Federal Police or of the Police Force of a State or of the Northern   Territory, or by any person to whom it is addressed, and the person executing it shall have power to break and enter any place building or vessel for the purpose of executing it.
 
@@ -452,7 +452,7 @@ shall not be published, or shall not be published except in such manner, and to 
 
           (2A)  Subsection (2) has effect subject to subsection 9(10).
 
-             (3)  In subsection (1), a reference to a person who is an authorized person in relation to a Commission is a reference to a person authorized in writing, or a person included in a class of persons authorized in writing, for the purposes of that subsection by the President or Chair of that Commission, or by the sole Commissioner, as the case may be.
+             (3)  In subsection (1), a reference to a person who is an authorized person in relation to a Commission is a reference to a person authorized in writing, or a person included in a class of persons authorized in writing, for the purposes of that subsection by the President or Chairman of that Commission, or by the sole Commissioner, as the case may be.
 
 ##### <a id="6FA"></a>6FA  Examination of witnesses by counsel etc.
 
@@ -462,7 +462,7 @@ shall not be published, or shall not be published except in such manner, and to 
 
              (1)  Any witness appearing before a Royal Commission shall be paid a reasonable sum for the expenses of his or her attendance in accordance with the prescribed scale.
 
-             (2)  In the absence of a prescribed scale, the President or Chair of the Commission, or the sole Commissioner, may authorize the payment of such sum as he or she deems reasonable.
+             (2)  In the absence of a prescribed scale, the President or Chairman of the Commission, or the sole Commissioner, may authorize the payment of such sum as he or she deems reasonable.
 
 ##### <a id="6H"></a>6H  False or misleading evidence
 
@@ -482,7 +482,7 @@ shall not be published, or shall not be published except in such manner, and to 
 
                      (b)  attempts by any means to induce a person called or to be called as a witness before any Royal Commission to give false testimony, or to withhold true testimony; or
 
-                     (c)  asks, receives or obtains, or agrees to receive or obtain any property or benefit of any kind for himself or herself, or any other person, upon any agreement or understanding that any person shall as a witness before any Royal Commission give false testimony or withhold true testimony;
+                     (c)  asks, receives or obtains, or agrees to receive or obtain any property or benefit of any kind for himself, or any other person, upon any agreement or understanding that any person shall as a witness before any Royal Commission give false testimony or withhold true testimony;
 
 shall be guilty of an indictable offence.
 
@@ -494,7 +494,7 @@ shall be guilty of an indictable offence.
 
                      (b)  attempts by any means to induce any person who is required to produce a document or other thing pursuant to a summons, requirement or notice under section 2 not to comply with the requirement; or
 
-                     (c)  asks, receives or obtains, or agrees to receive or obtain any property or benefit of any kind for himself or herself, or any other person, upon any agreement or understanding that any person who is required to produce a document or other thing pursuant to a summons, requirement or notice under section 2 will not comply with the requirement;
+                     (c)  asks, receives or obtains, or agrees to receive or obtain any property or benefit of any kind for himself, or any other person, upon any agreement or understanding that any person who is required to produce a document or other thing pursuant to a summons, requirement or notice under section 2 will not comply with the requirement;
 
 is guilty of an indictable offence.
 
@@ -584,7 +584,7 @@ Note:          A defendant bears an evidential burden in relat
 
                     Penalty:  Two hundred dollars, or imprisonment for three months.
 
-             (2)  If the President or Chair of a Royal Commission or the sole Commissioner is a Justice of the High Court, or a Judge of any other Federal Court, of the Supreme Court of a Territory or of the Supreme Court or County Court or District Court of a State, he or she shall, in relation to any offence against subsection (1) of this section committed in the face of the Commission, have all the powers of a Justice of the High Court sitting in open Court in relation to a contempt committed in face of the Court, except that any punishment inflicted shall not exceed the punishment provided by subsection (1) of this section.
+             (2)  If the President or Chairman of a Royal Commission or the sole Commissioner is a Justice of the High Court, or a Judge of any other Federal Court, of the Supreme Court of a Territory or of the Supreme Court or County Court or District Court of a State, he or she shall, in relation to any offence against subsection (1) of this section committed in the face of the Commission, have all the powers of a Justice of the High Court sitting in open Court in relation to a contempt committed in face of the Court, except that any punishment inflicted shall not exceed the punishment provided by subsection (1) of this section.
 
 ##### <a id="6P"></a>6P  Commission may communicate information
 
@@ -722,7 +722,7 @@ the Commission may, in that other country, subject to any provision of the arran
 
              (1)  The Governor-General may make regulations prescribing a scale of allowances to be paid to any witness summoned under this Act for his or her travelling expenses and maintenance while absent from his or her usual place of abode.
 
-             (2)  The claim to allowance of any such witness, certified by the President or Chair of the Commission or by the sole Commissioner as the case may be, shall be paid by the Minister for Finance out of moneys to be provided by the Parliament for the purposes of the Commission.
+             (2)  The claim to allowance of any such witness, certified by the President or Chairman of the Commission or by the sole Commissioner as the case may be, shall be paid by the Minister for Finance out of moneys to be provided by the Parliament for the purposes of the Commission.
 
 ##### <a id="9"></a>9  Custody and use of records of Royal Commission
 
@@ -952,7 +952,7 @@ Legal professional privilege not affected
 
                      (a)  of a document purporting to be Letters Patent in the name of the King, and purporting to be signed by the Governor-General and to be sealed with the seal of the Commonwealth, and purporting to be directed to any person or persons and to appoint the person or persons to be a Commissioner or Commissioners to make inquiry into any matter, or to authorize or require the person or persons to make inquiry into any matter, or
 
-                     (b)  of a document purporting to be a copy of any such Letters Patent and certified in writing by the person named therein as President or Chair of the Commission or sole Commissioner, as the case may be, to be a true copy of the Letters Patent;
+                     (b)  of a document purporting to be a copy of any such Letters Patent and certified in writing by the person named therein as President or Chairman of the Commission or sole Commissioner, as the case may be, to be a true copy of the Letters Patent;
 
 shall be evidence that the Governor-General has issued the Commission.
 
@@ -1397,23 +1397,6 @@ Remainder: Royal Assent</div>
     <div>Sch. 1 (item 3) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2008</div>
-  </td>
-  <td>
-    <div>73, 2008</div>
-  </td>
-  <td>
-    <div>3 July 2008</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 4 (items 452–463): 4 July 2008</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -1480,14 +1463,6 @@ _(f)_      The _Royal Commissions Act 1902_ was amended by sections 
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 1B</div>
   </td>
   <td>
@@ -1531,7 +1506,7 @@ _(f)_      The _Royal Commissions Act 1902_ was amended by sections 
     <div></div>
   </td>
   <td>
-    <div>am. No. 166, 2001; No. 52, 2006; No. 73, 2008</div>
+    <div>am. No. 166, 2001; No. 52, 2006</div>
   </td>
 </tr>
 <tr>
@@ -1667,7 +1642,7 @@ _(f)_      The _Royal Commissions Act 1902_ was amended by sections 
     <div></div>
   </td>
   <td>
-    <div>am. No. 139, 1982; No. 49, 2001; No. 73, 2008</div>
+    <div>am. No. 139, 1982; No. 49, 2001</div>
   </td>
 </tr>
 <tr>
@@ -1787,7 +1762,7 @@ _(f)_      The _Royal Commissions Act 1902_ was amended by sections 
     <div></div>
   </td>
   <td>
-    <div>am. Nos. 91 and 114, 1983; No. 42, 1984; No. 33, 1994; No. 166, 2001; Nos. 52, 86 and 167, 2006; No. 73, 2008</div>
+    <div>am. Nos. 91 and 114, 1983; No. 42, 1984; No. 33, 1994; No. 166, 2001; Nos. 52, 86 and 167, 2006</div>
   </td>
 </tr>
 <tr>
@@ -1819,7 +1794,7 @@ _(f)_      The _Royal Commissions Act 1902_ was amended by sections 
     <div></div>
   </td>
   <td>
-    <div>am. No. 49, 2001; No. 73, 2008</div>
+    <div>am. No. 49, 2001</div>
   </td>
 </tr>
 <tr>
@@ -1848,23 +1823,7 @@ _(f)_      The _Royal Commissions Act 1902_ was amended by sections 
 </tr>
 <tr>
   <td>
-    <div>S. 6I</div>
-  </td>
-  <td>
-    <div>ad. No. 4, 1912</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. Nos. 49 and 166, 2001; No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6J</div>
+    <div>Ss. 6I, 6J</div>
   </td>
   <td>
     <div>ad. No. 4, 1912</div>
@@ -1971,7 +1930,7 @@ _(f)_      The _Royal Commissions Act 1902_ was amended by sections 
     <div></div>
   </td>
   <td>
-    <div>am. No. 93, 1966; No. 19, 1979; No. 49, 2001; No. 73, 2008</div>
+    <div>am. No. 93, 1966; No. 19, 1979; No. 49, 2001</div>
   </td>
 </tr>
 <tr>
@@ -2051,7 +2010,7 @@ _(f)_      The _Royal Commissions Act 1902_ was amended by sections 
     <div>S. 8</div>
   </td>
   <td>
-    <div>am. No. 36, 1978; No. 49, 2001; No. 73, 2008</div>
+    <div>am. No. 36, 1978; No. 49, 2001</div>
   </td>
 </tr>
 <tr>
@@ -2155,7 +2114,7 @@ _(f)_      The _Royal Commissions Act 1902_ was amended by sections 
     <div></div>
   </td>
   <td>
-    <div>am. No. 26, 1982; No. 49, 2001; No. 73, 2008</div>
+    <div>am. No. 26, 1982; No. 49, 2001</div>
   </td>
 </tr>
 <tr>
