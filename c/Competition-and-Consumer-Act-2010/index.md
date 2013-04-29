@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00198/Html/a82a0f88-abde-4951-a76c-62361090a1ee_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00103/Html/90c5e55a-cba1-44c0-bef3-f66277c91f6f_files/image001.gif)
 
 # Competition and Consumer Act 2010
 
 **Act No. 51 of 1974 as amended**
 
-This compilation was prepared on 6 February 2012
+This compilation was prepared on 1 January 2012
  taking into account amendments up to Act No. 185 of 2011
 
 **Volume 1** includes:     Table of Contents
@@ -16,7 +16,7 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-**Volume 2** includes:Table of ContentsSections 10.01 – 179
+**Volume 2** includes:Table of ContentsSections 10.01 – 178
 
 **Volume 3** includes:      Table of Contents
                                      Schedules 1 and 2
@@ -24,7 +24,7 @@ The operation of amendments that have been incorporated may be
                                      Table of Acts
                                      Act Notes
                                      Table of Amendments
-                                     Notes 2 – 7
+                                     Notes 2 – 8
                                      Table A
 
 Prepared by the Office of Legislative Drafting and Publishing,
@@ -286,7 +286,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [44AAE](#44AAE).  Resolutions without meetings
 
-44AAEAArbitration
+44AAEA  Arbitration
 
         **Subdivision D—Miscellaneous**
 
@@ -294,8 +294,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [44AAG](#44AAG). Federal Court may make certain orders
 
-44AAGAFederal Court may order disconnection if an event specified 
- in the National Electricity Rules occurs
+44AAGA  Federal Court may order disconnection if an event specified in the National Electricity Rules occurs
 
 [44AAH](#44AAH). Delegation by the AER
 
@@ -565,11 +564,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [44ZZA](#44ZZA).  Access undertakings by providers
 
-44ZZAAAProposed amendments to access undertakings
+44ZZAAA  Proposed amendments to access undertakings
 
-44ZZAABAccess undertakings containing fixed principles
+44ZZAAB  Access undertakings containing fixed principles
 
-44ZZAAAccess codes prepared by industry bodies
+44ZZAA  Access codes prepared by industry bodies
 
 44ZZAB Commission may rely on industry body consultations
 
@@ -585,7 +584,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 44ZZBC Time limit for Commission decisions
 
-44ZZBCACommission may request information
+44ZZBCA  Commission may request information
 
 44ZZBD Commission may invite public submissions
 
@@ -607,7 +606,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 44ZZCB Deferring access disputes or access undertakings
 
-44ZZCBADeferral of arbitration if review is underway
+44ZZCBA  Deferral of arbitration if review is underway
 
 44ZZCC Overlap between determinations and access undertakings
 
@@ -637,21 +636,21 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [44ZZM](#44ZZM).  Commonwealth consent to conferral of functions etc  on the Commission or Tribunal by State or Territory laws
 
-44ZZMAHow duty is imposed
+44ZZMA  How duty is imposed
 
-44ZZMBWhen a law of a State or Territory imposes a duty
+44ZZMB  When a law of a State or Territory imposes a duty
 
 [44ZZN](#44ZZN).  Compensation for acquisition of property
 
-44ZZNAOperation of Parts IV and VII not affected by this Part
+44ZZNA  Operation of Parts IV and VII not affected by this Part
 
 [44ZZO](#44ZZO).  Conduct by directors, servants or agents
 
-44ZZOAAAInformation to be given to Tribunal
+44ZZOAAA  Information to be given to Tribunal
 
-44ZZOAATribunal only to consider particular material
+44ZZOAA  Tribunal only to consider particular material
 
-44ZZOATime limit for Tribunal decisions
+44ZZOA  Time limit for Tribunal decisions
 
 [44ZZP](#44ZZP).   Regulations about review by the Tribunal
 
@@ -695,7 +694,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 44ZZRL Conduct notified
 
-44ZZRMCartel provision subject to grant of authorisation
+44ZZRM  Cartel provision subject to grant of authorisation
 
 44ZZRN Contracts, arrangements or understandings between related bodies corporate
 
@@ -811,7 +810,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [77A](#77A).       Indemnification of officers
 
-[77B](#77B).       Certain indemnities not authorised and certain documents void
+[77B](#77B).       Certain indemnities not authorised and certain documents 
+ void
 
 [77C](#77C).       Application of section 77A to a person other than a body corporate
 
@@ -1069,11 +1069,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [95AZE](#95AZE).  Applicant may withdraw application
 
-95AZEATribunal must require Commission to give report
+95AZEA  Tribunal must require Commission to give report
 
 [95AZF](#95AZF).  Commission to assist Tribunal
 
-95AZFACommission may make enquiries
+95AZFA  Commission may make enquiries
 
 [95AZG](#95AZG).  Tribunal to make determination on application
 
@@ -4150,7 +4150,7 @@ Note:          There are limits on the information to which th
 
                              (ii)  if no period is so specified—the decision of the Tribunal on the application for review comes into operation.
 
-##### <a id="44KB"></a>44KB  Tribunal may order costs be awarded
+##### <a id="44KB"></a>44KB  Tribunal may order costs be awarded
 
              (1)  If the Tribunal is satisfied that it is appropriate to do so, the Tribunal may order that a person who has been made a party to proceedings for a review of a declaration under section 44K pay all or a specified part of the costs of another person who has been made a party to the proceedings.
 
@@ -4611,7 +4611,7 @@ Decision is not a legislative instrument
 
 #### Subdivision E—Review of decisions
 
-##### <a id="44LJ"></a>44LJ  Review of ineligibility decisions
+##### <a id="44LJ"></a>44LJ  Review of ineligibility decisions
 
 Application for review
 
@@ -8189,7 +8189,7 @@ Note:          **_Party_** has an extended meaning—see secti
 
                      (b)  a finding of guilt would be inconsistent with their acquittal.
 
-##### <a id="44ZZRI"></a>44ZZRI  Court may make related civil orders
+##### <a id="44ZZRI"></a>44ZZRI  Court may make related civil orders
 
                    If a prosecution against a person for an offence against section 44ZZRF or 44ZZRG is being, or has been, heard by a court, the court may:
 
@@ -9371,7 +9371,7 @@ together have or are likely to have that effect.
 
                      (b)  acquire any assets of a person;
 
-if the acquisition would have the effect, or be likely to have the effect, of substantially lessening competition in any market.
+if the acquisition would have the effect, or be likely to have the effect, of substantially lessening competition in a market.
 
 Note:          The corporation will not be prevented from making the acquisition if the corporation is granted a clearance or an authorisation for the acquisition under Division 3 of Part VII: see subsections 95AC(2) and 95AT(2).
 
@@ -9381,7 +9381,7 @@ Note:          The corporation will not be prevented from maki
 
                      (b)  acquire any assets of a corporation;
 
-if the acquisition would have the effect, or be likely to have the effect, of substantially lessening competition in any market.
+if the acquisition would have the effect, or be likely to have the effect, of substantially lessening competition in a market.
 
 Note:          The person will not be prevented from making the acquisition if the person is granted a clearance or an authorisation for the acquisition under Division 3 of Part VII: see subsections 95AC(2) and 95AT(2).
 
@@ -9431,7 +9431,7 @@ whichever first happens.
 
              (6)  In this section:
 
-                    <a name="market"></a>**_market_** means a market for goods or services in:
+                    <a name="market"></a>**_market_** means a substantial market for goods or services in:
 
                      (a)  Australia; or
 
@@ -10113,7 +10113,7 @@ the relevant offence is taken to be punishable on conviction by a fine not excee
 
                       (f)  has conspired with others to contravene such a provision.
 
-##### <a id="79"></a>79  Offences against section 44ZZRF or 44ZZRG
+##### <a id="79"></a>79  Offences against section 44ZZRF or 44ZZRG
 
              (1)  A person who:
 
@@ -11095,7 +11095,7 @@ the court hearing the proceedings may order that the defendant pay all or any of
 
              (2)  This diagram shows when this Division prevents an award of personal injury damages.
 
-![](http://www.comlaw.gov.au/Details/C2012C00198/Html/a82a0f88-abde-4951-a76c-62361090a1ee_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00103/Html/90c5e55a-cba1-44c0-bef3-f66277c91f6f_files/image002.gif)
 
 ##### <a id="87G"></a>87G  Date of discoverability
 
@@ -11207,7 +11207,7 @@ in working out whether the period of 3 years after the date of discoverability, 
 
                      (b)  during a later year—the amount worked out (to the nearest multiple of $10) as follows:
 
-![](http://www.comlaw.gov.au/Details/C2012C00198/Html/a82a0f88-abde-4951-a76c-62361090a1ee_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00103/Html/90c5e55a-cba1-44c0-bef3-f66277c91f6f_files/image003.gif)
 
                             where:
 
@@ -11640,7 +11640,7 @@ the court must not award as personal injury damages for the services:
 
                    A court must not, in a proceeding to which this Part applies, award personal injury damages for economic loss due to the loss of employer superannuation contributions an amount that exceeds the following amount:
 
-![](http://www.comlaw.gov.au/Details/C2012C00198/Html/a82a0f88-abde-4951-a76c-62361090a1ee_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00103/Html/90c5e55a-cba1-44c0-bef3-f66277c91f6f_files/image004.gif)
 
 where:
 
@@ -12798,7 +12798,7 @@ Note:          Section 93AE deals with the withdrawal of a c
   </td>
 </tr></table>
 
-##### <a id="93AE"></a>93AE  Withdrawal of collective bargaining notice
+##### <a id="93AE"></a>93AE  Withdrawal of collective bargaining notice
 
 Withdrawal by corporation
 
@@ -13042,9 +13042,9 @@ taken to be refused;</li>
 
 <li class="BoxList" style="margin-left:21.25pt;page-break-after:avoid">•      it
 
-cannot grant the authorisation unless it is satisfied that the acquisition
+cannot grant the authorisation unless it is satisfied that the acquisition would
 
-would result, or be likely to result, in such a benefit to the public that the
+result, or be likely to result, in such a benefit to the public that the
 
 acquisition should be allowed to take place.</li>
 
@@ -13186,7 +13186,7 @@ When Commission may exclude information—no request made
 
              (2)  The Commission may consult with such persons as it considers reasonable and appropriate for the purposes of making its determination on the application.
 
-##### <a id="95AL"></a>95AL  Applicant may withdraw application
+##### <a id="95AL"></a>95AL  Applicant may withdraw application
 
                    The applicant may, by notice in writing to the Commission, withdraw the application at any time.
 
