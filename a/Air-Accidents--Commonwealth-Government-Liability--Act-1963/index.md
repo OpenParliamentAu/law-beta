@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2009C00058/Html/48889c8a-1e7f-4837-9d4b-d9eb0d0e2a2b_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00452/Html/AirAccidentCwlthGovtLiabili63_WD02_image001.gif)
 
 # Air Accidents (Commonwealth Government Liability) Act 1963
 
 **Act No. 74 of 1963 as amended**
 
-This compilation was prepared on 24 January 2009
+This compilation was prepared on 29 July 2008 
  taking into account amendments up to Act No. 79 of 2008
 
 The text of any of those amendments not in force
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -138,11 +138,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (1)  Subject to the provisions of section 37 of the _Civil Aviation (Carriers’ Liability) Act 1959_, in its application by virtue of this Part, the liability of the Commonwealth or a Commonwealth authority under this Part in respect of the death of a passenger, or personal injury to a passenger that has not resulted in his or her death, is in substitution for any other civil liability of the Commonwealth or the Commonwealth authority in respect of that death or injury other than:
 
-                     (a)  a liability under Part IA, Part II or Part III of the _Civil Aviation (Carriers’ Liability) Act 1959_; or
+                     (a)  a liability under Part II or Part III of the _Civil Aviation (Carriers’ Liability) Act 1959_; or
 
                      (b)  a liability arising otherwise than by reason of the operation of the aircraft by the Commonwealth or the Commonwealth authority.
 
-             (2)  Notwithstanding anything contained in Part IA, Part II or Part III of the _Civil Aviation (Carriers’ Liability) Act 1959_, but without prejudice to the operation of section 10, any liability of the Commonwealth or a Commonwealth authority under this Part is not excluded by reason of the existence of any liability of the Commonwealth or of that Commonwealth authority under any of those Parts.
+             (2)  Notwithstanding anything contained in Part II or Part III of the _Civil Aviation (Carriers’ Liability) Act 1959_, but without prejudice to the operation of section 10, any liability of the Commonwealth or a Commonwealth authority under this Part is not excluded by reason of the existence of any liability of the Commonwealth or of that Commonwealth authority under either of those Parts.
 
 ##### <a id="10"></a>10  Liability of Commonwealth etc. independently of this Part
 
@@ -254,7 +254,7 @@ in relation to damages recovered or recoverable under this Part.
 
                      (c)  has refused to comply with a request under subsection (2).
 
-             (2)  The Commonwealth or a Commonwealth authority may, in writing, request a person who appears to be entitled to recover damages in respect of a death or injury to which this Part applies against a person other than the Commonwealth or the Commonwealth authority, or a person lawfully acting or entitled to act on behalf of such a person, to take or continue proceedings (whether in the Commonwealth or elsewhere) to recover those damages and, where proceedings are so taken or continued, the proceedings shall be conducted on behalf of the first‑mentioned person at the expense of the Commonwealth or the Commonwealth authority.
+             (2)  The Commonwealth or a Commonwealth authority may, in writing, request a person who appears to be entitled to recover damages in respect of a death or injury to which this Part applies against a person other than the Commonwealth or the Commonwealth authority, or a person lawfully acting or entitled to act on behalf of such a person, to take or continue proceedings (whether in the Commonwealth or elsewhere) to recover those damages and, where proceedings are so taken or continued, the proceedings shall be conducted on behalf of the first-mentioned person at the expense of the Commonwealth or the Commonwealth authority.
 
              (3)  The Commonwealth or a Commonwealth authority may, at any time, by notice in writing, revoke a request made under subsection (2), and, in that event, is not liable for any costs or expenses incurred in respect of the continuance of the proceedings after the revocation.
 
@@ -266,7 +266,7 @@ in relation to damages recovered or recoverable under this Part.
 
 ##### <a id="18"></a>18  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed, or necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed, or necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
 # Notes to the _Air Accidents (Commonwealth Government Liability) Act 1963_
 
@@ -274,7 +274,7 @@ in relation to damages recovered or recoverable under this Part.
 
 The _Air Accidents (Commonwealth Government Liability) Act 1963_ as shown in this compilation comprises Act No. 74, 1963 amended as indicated in the Tables below.
 
-The _Air Accidents (Commonwealth Government Liability) Act 1963_ was modified by the A.C.T. Self‑Government (Consequential Provisions) Regulations (1989 No. 3 as amended) _see_ Table A.
+The _Air Accidents (Commonwealth Government Liability) Act 1963_ was modified by the A.C.T. Self-Government (Consequential Provisions) Regulations (1989 No. 3 as amended) _see_ Table A.
 
 ### Table of Acts
 
@@ -597,7 +597,7 @@ Remainder: 1 Dec 1988 ( <i>see Gazette</i>1988, No. S196)</div>
     <div>12 July 2008</div>
   </td>
   <td colspan="2">
-    <div>Schedule 1 (items 11–13): 24 Jan 2009 ( <i>see</i>F2008L04662)</div>
+    <div>Schedule 1 (items 11–13): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -614,7 +614,7 @@ Remainder: 1 Dec 1988 ( <i>see Gazette</i>1988, No. S196)</div>
 
 _(a)_ Section 7 of the _Statute Law Revision (Decimal Currency) Act 1966_ amended the _Air Accidents (Commonwealth Liability) Act 1963_. That section was repealed by the _Air Accidents (Commonwealth Liability) Act 1970_ before it came into operation.
 
-_(b)_     The _Air Accidents (Commonwealth Government Liability) Act 1963_ was amended by section 61 only of the _Social Security Legislation Amendment Act 1988_ subsections 2(1) and (2) of which provide as follows:
+_(b)_    The _Air Accidents (Commonwealth Government Liability) Act 1963_ was amended by section 61 only of the _Social Security Legislation Amendment Act 1988_ subsections 2(1) and (2) of which provide as follows:
 
                  (1)   Subject to this section, each provision of this Act commences, or shall be taken to have commenced, as the case requires, on the day shown by the note in italics at the foot of that provision.
 
@@ -645,23 +645,7 @@ _(b)_     The _Air Accidents (Commonwealth Government Liability) Act 196
 </thead>
 <tr>
   <td>
-    <div><b>Part I</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 1</div>
-  </td>
-  <td>
-    <div>am. No. 134, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
   </td>
   <td>
     <div>rs. No. 69, 1978</div>
@@ -693,14 +677,6 @@ _(b)_     The _Air Accidents (Commonwealth Government Liability) Act 196
 </tr>
 <tr>
   <td>
-    <div><b>Part II</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 6</div>
   </td>
   <td>
@@ -728,7 +704,7 @@ _(b)_     The _Air Accidents (Commonwealth Government Liability) Act 196
     <div>S. 9</div>
   </td>
   <td>
-    <div>am. No. 134, 1973; No. 70, 1982; Nos. 73 and 79, 2008</div>
+    <div>am. No. 134, 1973; No. 70, 1982; No. 73, 2008</div>
   </td>
 </tr>
 <tr>
@@ -737,14 +713,6 @@ _(b)_     The _Air Accidents (Commonwealth Government Liability) Act 196
   </td>
   <td>
     <div>am. No. 50, 1971; Nos. 134 and 216, 1973; No. 70, 1982; No. 28, 1986; No. 75, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part III</b></div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
@@ -796,11 +764,33 @@ _(b)_     The _Air Accidents (Commonwealth Government Liability) Act 196
   </td>
 </tr></table>
 
+### Note 2
+
+_Civil Aviation Legislation Amendment (1999 Montreal Convention and Other Measures) Act 2008 (No. 79, 2008)_
+
+The following amendments commence 6 months after the Convention for the Unification of Certain Rules for International Carriage by Air, done at Montreal on 28 May 1999, enters into force for Australia unless proclaimed before this 6 month period:
+
+## Schedule 1
+
+## 11  Paragraph 9(1)(a)
+
+After “a liability under”, insert “Part IA,”.
+
+## 12  Subsection 9(2)
+
+After “anything contained in”, insert “Part IA,”.
+
+## 13  Subsection 9(2)
+
+Omit “either”, substitute “any”.
+
+As at 29 July 2008 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Modifications
 
-_A.C.T. Self‑Government (Consequential Provisions) Regulations_
+_A.C.T. Self-Government (Consequential Provisions) Regulations_
 
 ## Schedule 1
 
