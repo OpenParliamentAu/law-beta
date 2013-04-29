@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00126/Html/4dbd372a-f780-4def-ab03-1a1e14ed270b_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00715/Html/a5899e36-04ea-4afd-a5fd-be0217a8c3ff_files/image001.gif)
 
 # Australian Information Commissioner Act 2010
 
 **Act No. 52 of 2010 as amended**
 
-This compilation was prepared on 27 December 2011
+This compilation was prepared on 1 September 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
@@ -568,7 +568,7 @@ Appointment of the Privacy Commissioner
 
              (4)  The Privacy Commissioner is to be appointed by the Governor‑General by written instrument.
 
-Note:          The information officers are all eligible for reappointment: see section 33AA of the _Acts Interpretation Act 1901_.
+Note:          The information officers are all eligible for reappointment: see subsection 33(4A) of the _Acts Interpretation Act 1901_.
 
 ##### <a id="15"></a>15  General terms and conditions of appointment
 
@@ -636,9 +636,21 @@ Note:          The information officers are all eligible for r
 
                              (ii)  is, for any reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+             (2)  A person appointed to act during a vacancy mentioned in paragraph (1)(a) must not act for more than 12 months.
 
              (3)  A person must not be appointed to act as the Freedom of Information Commissioner unless he or she is qualified, as mentioned in subsection 14(3), to be appointed as the Freedom of Information Commissioner.
+
+             (4)  Anything done by or in relation to a person purporting to act under an appointment is not invalid merely because of any of the following:
+
+                     (a)  the occasion for the appointment had not arisen;
+
+                     (b)  there was a defect or irregularity in connection with the appointment;
+
+                     (c)  the appointment had ceased to have effect;
+
+                     (d)  the occasion to act had not arisen or had ceased.
+
+Note:          See sections 20 and 33A of the _Acts Interpretation Act 1901_.
 
 ##### <a id="22"></a>22  Disclosure of interests
 
@@ -965,82 +977,44 @@ Remainder: Royal Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 168–170) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 168–170) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11)</div>
   </td>
 </tr></table>
 
-## Table of Amendments
+### Note 2
 
-<table>
-<colgroup>
-  <col width="32%">
-  <col width="68%">
-</colgroup>
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
 
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 14(4)</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 21</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 21(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
-  </td>
-</tr></table>
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 168  Subsection 14(4) (note)
+
+Omit “subsection 33(4A)”, substitute “section 33AA”.
+
+## 169  At the end of subsection 21(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 170  Subsections 21(2) and (4)
+
+Repeal the subsections.
+
+As at 1 September 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
 ### Application, saving or transitional provisions
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
