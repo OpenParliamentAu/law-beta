@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00180/Html/d4694f52-599b-4995-8755-e04f2577debf_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00438/Html/IndigenousEducTargetAssti2000_WD02_image001.gif)
 
 # Indigenous Education (Targeted Assistance) Act 2000
 
 **Act No. 147 of 2000 as amended**
 
-This compilation was prepared on 14 April 2011
- taking into account amendments up to Act No. 14 of 2011
+This compilation was prepared on 5 July 2010
+ taking into account amendments up to Act No. 87 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -66,7 +66,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [11E](#11E).        Reporting on performance
 
-[11F](#11F).        Minister may intervene if under‑performance
+[11F](#11F).        Minister may intervene if under-performance
 
 [11G](#11G).       Participation in evaluation and data validation exercises
 
@@ -78,11 +78,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [13](#13).          Appropriations for ABSTUDY payments
 
-[14](#14).          Appropriations for non‑ABSTUDY payments—2001 to 2004 quadrennium
+[14](#14).          Appropriations for non-ABSTUDY payments—2001 to 2004 quadrennium
 
-[14A](#14A).       Appropriations for non‑ABSTUDY payments—2005 to 2008 quadrennium
+[14A](#14A).       Appropriations for non-ABSTUDY payments—2005 to 2008 quadrennium
 
-[14B](#14B).       Appropriations for non‑ABSTUDY payments—2009 to 2012 quadrennium
+[14B](#14B).       Appropriations for non-ABSTUDY payments—2009 to 2012 quadrennium
 
 [15](#15).          Appropriations operate separately
 
@@ -144,11 +144,11 @@ Recovery of payments
 
                               (i)  residential education;
 
-                             (ii)  face‑to‑face education; and
+                             (ii)  face-to-face education; and
 
                      (b)  is provided at a higher education provider or a vocational education and training institution; and
 
-                     (c)  is approved as a mixed mode away‑from‑base course under the ABSTUDY Scheme.
+                     (c)  is approved as a mixed mode away-from-base course under the ABSTUDY Scheme.
 
                     <a name="abstudi-payment"></a>**_ABSTUDY payment_** means a payment of the kind mentioned in paragraph 10(1)(b) that is made under an agreement made under section 10.
 
@@ -164,7 +164,7 @@ Recovery of payments
 
                      (a)  a State or Territory; or
 
-                     (b)  a university or other institution providing post‑secondary education; or
+                     (b)  a university or other institution providing post-secondary education; or
 
                      (c)  a person or body conducting, or associated with, an educational system or educational institution; or
 
@@ -174,7 +174,7 @@ Recovery of payments
 
                     <a name="fund-year"></a>**_funding year_** means the 2001 calendar year, the 2013 calendar year, or any calendar year between those years.
 
-                    <a name="higher-educ-provid"></a>**_higher education provider_** has the same meaning as in section 16‑1 of the _Higher Education Support Act 2003_.
+                    <a name="higher-educ-provid"></a>**_higher education provider_** has the same meaning as in section 16-1 of the _Higher Education Support Act 2003_.
 
                     <a name="indigen-person"></a>**_Indigenous person_** means:
 
@@ -182,7 +182,7 @@ Recovery of payments
 
                      (b)  a descendant of the Indigenous inhabitants of the Torres Strait Islands.
 
-                    <a name="non-abstudi-payment"></a>**_non‑ABSTUDY payment_** means a payment (other than an ABSTUDY payment) that is made under an agreement made under this Act.
+                    <a name="non-abstudi-payment"></a>**_non-ABSTUDY payment_** means a payment (other than an ABSTUDY payment) that is made under an agreement made under this Act.
 
                     <a name="parti"></a>**_other party_**, in relation to an agreement made under section 10, means the party, or each party, making the agreement with the Commonwealth.
 
@@ -216,7 +216,7 @@ Note:          If there is only one such party, references in 
 
                      (c)  arrangements enabling Indigenous secondary students to attain the same rate of successful completion of Year 12, or its equivalents, as that attained by other Australian secondary students; and
 
-                     (d)  arrangements enabling Indigenous students participating in post‑secondary education to attain the same graduation rates as those attained by other students so participating; and
+                     (d)  arrangements enabling Indigenous students participating in post-secondary education to attain the same graduation rates as those attained by other students so participating; and
 
                      (e)  developing programs to support the maintenance and continued use of the languages of Indigenous people; and
 
@@ -238,7 +238,7 @@ Note:          If there is only one such party, references in 
 
                      (b)  that all Indigenous children have local access to compulsory primary and secondary schooling; and
 
-                     (c)  that Indigenous people have equitable access to other secondary and post‑secondary education.
+                     (c)  that Indigenous people have equitable access to other secondary and post-secondary education.
 
 ##### <a id="7"></a>7  Object of Act—equity of participation by Indigenous people in education
 
@@ -248,15 +248,15 @@ Note:          If there is only one such party, references in 
 
                      (b)  that all Indigenous children participate in compulsory primary and secondary schooling; and
 
-                     (c)  that the rate of participation of Indigenous people in other secondary and post‑secondary education is equivalent to that of other Australians.
+                     (c)  that the rate of participation of Indigenous people in other secondary and post-secondary education is equivalent to that of other Australians.
 
-##### <a id="8"></a>8  Object of Act—increasing involvement of Indigenous people in educational decisions
+##### <a id="8"></a>8  Object of Act—increasing involvement of Indigenous people in educational decisions
 
                    It is an object of this Act to increase the involvement of Indigenous people in the making of decisions concerning education by:
 
                      (a)  the establishment of effective arrangements for the participation of Indigenous parents and other Indigenous people in decisions concerning the planning, delivery and evaluation of preschool, primary and secondary education for Indigenous children; and
 
-                     (b)  the establishment of effective arrangements for the participation of Indigenous students and other Indigenous people in decisions concerning the planning, delivery and evaluation of post‑school education to Indigenous people; and
+                     (b)  the establishment of effective arrangements for the participation of Indigenous students and other Indigenous people in decisions concerning the planning, delivery and evaluation of post-school education to Indigenous people; and
 
                      (c)  an increase in the number of Indigenous people who are employed or otherwise involved in education:
 
@@ -416,7 +416,7 @@ Amount of the payments
 
              (2)  This condition may include a requirement to report on performance against the performance indicators in a way that gives data for different geographical regions. This subsection does not limit subsection (1).
 
-##### <a id="11F"></a>11F  Minister may intervene if under‑performance
+##### <a id="11F"></a>11F  Minister may intervene if under-performance
 
              (1)  If the Minister thinks one of the other parties is not achieving the performance targets, the Minister may direct the party to take the action specified in the direction.
 
@@ -472,33 +472,33 @@ less:
 
                    ABSTUDY payments are to be made out of the Consolidated Revenue Fund, which is appropriated accordingly.
 
-##### <a id="14"></a>14  Appropriations for non‑ABSTUDY payments—2001 to 2004 quadrennium
+##### <a id="14"></a>14  Appropriations for non-ABSTUDY payments—2001 to 2004 quadrennium
 
 1 January 2001 to 30 June 2002
 
-             (1)  $129,897,000 is appropriated out of the Consolidated Revenue Fund in respect of the period that starts on 1 January 2001 and ends on 30 June 2002 for the purpose of making non‑ABSTUDY payments during that period.
+             (1)  $129,897,000 is appropriated out of the Consolidated Revenue Fund in respect of the period that starts on 1 January 2001 and ends on 30 June 2002 for the purpose of making non-ABSTUDY payments during that period.
 
 1 January 2002 to 30 June 2003
 
-             (2)  $128,605,000 is appropriated out of the Consolidated Revenue Fund in respect of the period that starts on 1 January 2002 and ends on 30 June 2003 for the purpose of making non‑ABSTUDY payments during that period.
+             (2)  $128,605,000 is appropriated out of the Consolidated Revenue Fund in respect of the period that starts on 1 January 2002 and ends on 30 June 2003 for the purpose of making non-ABSTUDY payments during that period.
 
 1 January 2003 to 30 June 2004
 
-             (3)  $132,942,000 is appropriated out of the Consolidated Revenue Fund in respect of the period that starts on 1 January 2003 and ends on 30 June 2004 for the purpose of making non‑ABSTUDY payments during that period.
+             (3)  $132,942,000 is appropriated out of the Consolidated Revenue Fund in respect of the period that starts on 1 January 2003 and ends on 30 June 2004 for the purpose of making non-ABSTUDY payments during that period.
 
 1 January 2004 to 30 June 2005
 
-             (4)  $134,005,000 is appropriated out of the Consolidated Revenue Fund in respect of the period that starts on 1 January 2004 and ends on 30 June 2005 for the purpose of making non‑ABSTUDY payments during that period.
+             (4)  $134,005,000 is appropriated out of the Consolidated Revenue Fund in respect of the period that starts on 1 January 2004 and ends on 30 June 2005 for the purpose of making non-ABSTUDY payments during that period.
 
 Increasing the amount of the appropriations
 
              (5)  The regulations may make provision for increasing the amounts mentioned in this section by reference to changes in an index determined in writing by the Finance Minister for the purposes of this section.
 
-##### <a id="14A"></a>14A  Appropriations for non‑ABSTUDY payments—2005 to 2008 quadrennium
+##### <a id="14A"></a>14A  Appropriations for non-ABSTUDY payments—2005 to 2008 quadrennium
 
 Appropriations—starting amounts
 
-             (1)  Each amount specified in the following table (as increased in accordance with subsection (2)) is appropriated out of the Consolidated Revenue Fund for the purpose of making non‑ABSTUDY payments during the specified period.
+             (1)  Each amount specified in the following table (as increased in accordance with subsection (2)) is appropriated out of the Consolidated Revenue Fund for the purpose of making non-ABSTUDY payments during the specified period.
 
 <table>
 <colgroup>
@@ -512,7 +512,7 @@ Appropriations—starting amounts
   <tr>
     <td colspan="4">
       <div>
-        <b>Appropriations for non‑ABSTUDY payments</b>
+        <b>Appropriations for non-ABSTUDY payments</b>
       </div>
     </td>
   </tr>
@@ -600,11 +600,11 @@ Increasing starting amounts
 
              (2)  The regulations may make provision for increasing an amount mentioned in subsection (1) by reference to changes in a specified index.
 
-##### <a id="14B"></a>14B  Appropriations for non‑ABSTUDY payments—2009 to 2012 quadrennium
+##### <a id="14B"></a>14B  Appropriations for non-ABSTUDY payments—2009 to 2012 quadrennium
 
 Appropriations—starting amounts
 
-             (1)  Each amount specified in the following table (as increased in accordance with subsection (2)) is appropriated out of the Consolidated Revenue Fund for the purpose of making non‑ABSTUDY payments during the specified period.
+             (1)  Each amount specified in the following table (as increased in accordance with subsection (2)) is appropriated out of the Consolidated Revenue Fund for the purpose of making non-ABSTUDY payments during the specified period.
 
 <table>
 <colgroup>
@@ -618,7 +618,7 @@ Appropriations—starting amounts
   <tr>
     <td colspan="4">
       <div>
-        <b>Appropriations for non‑ABSTUDY payments</b>
+        <b>Appropriations for non-ABSTUDY payments</b>
       </div>
     </td>
   </tr>
@@ -726,7 +726,7 @@ Increasing starting amounts
 
 ##### <a id="18"></a>18  Regulations
 
-                   The Governor‑General may make regulations prescribing matters:
+                   The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -993,23 +993,6 @@ Schedule 2 (items 8, 9): 1 Jan 2009 ( <i>see</i>s. 2(1))</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>National Vocational Education and Training Regulator (Consequential Amendments) Act 2011</div>
-  </td>
-  <td>
-    <div>14, 2011</div>
-  </td>
-  <td>
-    <div>12 Apr 2011</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 55): \[ <i>see</i> <i>(b)</i>and Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_ Subsection 2(1) (item 7) of the _Statute Law Revision Act 2010_ provides as follows:
@@ -1096,62 +1079,6 @@ _(a)_ Subsection 2(1) (item 7) of the _Statute Law Revision Act 2010_ provides a
   <td>
     <div>
       1 January 2009
-    </div>
-  </td>
-</tr></table>
-
-_(b)_ Subsection 2(1) (item 10) of the _National Vocational Education and Training Regulator (Consequential Amendments) Act 2011_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      10\. Schedule 1, items 36 to 55
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of section 3 of the
-        <i>National Vocational Education and Training Regulator Act 2011</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      \[
-        <i>see</i>Note 2]
     </div>
   </td>
 </tr></table>
@@ -1413,28 +1340,6 @@ Part 3</div>
     <div>rs. No. 142, 2008</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_National Vocational Education and Training Regulator (Consequential Amendments) Act 2011 (No. 14, 2011)_
-
-The following amendment commences immediately after the commencement of section 3 of the _National Vocational Education and Training Regulator Act 2011_:
-
-## Schedule 1
-
-## 55  Section 4 (definition of _vocational education and training institution_)
-
-Repeal the definition, substitute:
-
-                    <a name="vocat-educ-train-institut"></a>**_vocational education and training institution_** means an institution in a State or Territory that:
-
-                            (a)   is a registered training organisation (within the meaning of the _National Vocational Education and Training Regulator Act 2011_); and
-
-                            (b)   provides VET courses (within the meaning of that Act); and
-
-                            (c)   is not conducted for profit.
-
-As at 14 April 2011 the amendment is not incorporated in this compilation.
 
 ## Table A
 
