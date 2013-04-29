@@ -1,102 +1,82 @@
-![](http://www.comlaw.gov.au/Details/C2004C00524/Html/internatmonetaryagree60_image001.gif)
+**<b>
 
-# International Monetary Agreements Act 1960
+### <center><name>INTERNATIONAL MONETARY AGREEMENTS ACT 1960 - Reprinted as at 31 July 1983 (HISTACT CHAP 327 #DATE 31:07:1983) </name></center>
+</b>** *1* Act No. 14, 1960; assented to and commenced 14 May 1960.<lf> </lf>
+**<b>
 
-**Act No. 14 of 1960**
+### <name>INTERNATIONAL MONETARY AGREEMENTS ACT 1960 - TABLE OF PROVISIONS </name>
+</b>** 
 
-This Act was prepared on 15 November 2000
+## TABLE
+<tables> <tt>                             TABLE  OF  PROVISIONS<lf> 
 
-Prepared by the Office of Legislative Drafting,
- Attorney-General’s Department, Canberra
+Section<lf> <p>  1\.       Short title<lf> <p>  2\.       Commencement<lf> <p>  3\.       Consent to increases in quota and subscription to capital stock<lf> <p>  4\.       Appropriation<lf> <p>  5\.       Issue of securities<lf>                                  THE  SCHEDULES<lf> <p>                                FIRST  SCHEDULE<lf> <p>RESOLUTION  OF  THE  BOARD  OF  GOVERNORS  OF  THE  INTERNATIONAL  MONETARY<lf>                                       FUND<lf> <p>                                SECOND  SCHEDULE<lf> <p>RESOLUTION  OF  THE  BOARD  OF  GOVERNORS  OF  THE  INTERNATIONAL  BANK  FOR<lf>                         RECONSTRUCTION  AND  DEVELOPMENT<lf> <p>                                ----------------<lf> <p></p></lf></p></lf></lf></p></lf></p></lf></lf></p></lf></p></lf></lf></p></lf></p></lf></p></lf></p></lf></p></lf>
+</lf></tt></tables>
+**<b>
 
-# Contents
+### <name>INTERNATIONAL MONETARY AGREEMENTS ACT 1960 - LONG TITLE </name>
+</b>** 
 
-[1](#1).            Short title [_see_ Note 1]                                                                        1
+## SECT
+<sect> An Act relating to Matters connected with the Agreements referred to in the International Monetary Agreements Act 1947<lf> </lf></sect>
+**<b>
 
-[2](#2).            Commencement [_see_ Note 1]                                                               1
+### <name>INTERNATIONAL MONETARY AGREEMENTS ACT 1960 - SECT 1 Short title </name>
+</b>** 
 
-[3](#3).            Consent to increases in quota and subscription to capital stock         1
+## SECT
+<sect>   1\. This Act may be cited as the International Monetary Agreements Act 1960.*1* 
 
-[4](#4).            Appropriation                                                                                     1
+SEE NOTES TO FIRST ARTICLE OF THIS CHAPTER . 
+</sect>
+**<b>
 
-[5](#5).            Issue of securities                                                                                2
+### <name>INTERNATIONAL MONETARY AGREEMENTS ACT 1960 - SECT 2 Commencement </name>
+</b>** 
 
-**The Schedules** 
+## SECT
+<sect>   2\. This Act shall come into operation on the day on which it receives the Royal Assent.*1* 
 
-**First Schedule—Resolution of the Board of Governors of the International Monetary Fund** 
+SEE NOTES TO FIRST ARTICLE OF THIS CHAPTER . 
+</sect>
+**<b>
 
-**Second Schedule—Resolution of the Board of Governors of the International Bank for reconstruction and development** 
+### <name>INTERNATIONAL MONETARY AGREEMENTS ACT 1960 - SECT 3 Consent to increases in quota and subscription to capital stock </name>
+</b>** 
 
-**Notes** 
+## SECT
+<sect>   3\. The approval of the Parliament is hereby given-<lf>   (a)  to Australia consenting to the change in the quota of Australia in the International Monetary Fund referred to in the Resolution of the Board of Governors of the Fund a copy of which is set out in the First Schedule to this Act and the effective date of which is the sixth day of April, One thousand nine hundred and sixty; and<lf>          (b)  to Australia subscribing One thousand three hundred and thirty additional shares of the capital stock of the International Bank for Reconstruction and Development in accordance with the conditions specified in the Resolution of the Board of Governors of the Bank a copy of which is set out in the Second Schedule to this Act and the effective date of which is the sixth day of April, One thousand nine hundred and sixty. </lf></lf></sect>
+**<b>
 
- 
+### <name>INTERNATIONAL MONETARY AGREEMENTS ACT 1960 - SECT 4 Appropriation </name>
+</b>** 
 
-## An Act relating to Matters connected with the Agreements referred to in the _International Monetary Agreements Act 1947_
+## SECT
+<sect>   4\. There may be paid out of the Consolidated Revenue Fund, which is appropriated accordingly, any moneys required for the purpose of making-<lf>   (a)  any payment required to be made by Australia to the International Monetary Fund by reason of the change in the quota of Australia in the Fund referred to in paragraph (a) of the last preceding section; and<lf>          (b)  any payment required to be made by Australia to the International Bank for Reconstruction and Development by reason of sub-paragraph (ii) of paragraph (c) of the conditions specified in the Resolution referred to in paragraph (b) of the last preceding section. </lf></lf></sect>
+**<b>
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
+### <name>INTERNATIONAL MONETARY AGREEMENTS ACT 1960 - SECT 5 Issue of securities </name>
+</b>** 
 
-                   This Act may be cited as the _International Monetary Agreements Act 1960_.
+## SECT
+<sect>   5\. Section seven of the International Monetary Agreements Act 1947 applies to any payment referred to in the last preceding section as it applies to payments under that Act. 
 
-##### <a id="2"></a>2  Commencement [_see_ Note 1]
+                                ----------------<lf> </lf>
+</sect>
+**<b>
 
-                   This Act shall come into operation on the day on which it receives the Royal Assent.
+### <name>INTERNATIONAL MONETARY AGREEMENTS ACT 1960 - SCHEDULE 1 </name>
+</b>** 
 
-##### <a id="3"></a>3  Consent to increases in quota and subscription to capital stock
+## SCH
+<sch>                                  THE  SCHEDULES<lf>                                 FIRST  SCHEDULE<lf>                                                                    Section 3 (a) <lf> RESOLUTION  OF  THE  BOARD  OF  GOVERNORS  OF  THE  INTERNATIONAL  MONETARY<lf>                                       FUND<lf>   That the quota of Australia shall be changed to $400 million, provided that<lf> Australia consents to the change on or before June 6, 1960, and provided further <lf> that, if extraordinary circumstances are deemed by the Executive Directors to<lf> warrant an extension of the period in which consent is required pursuant to this <lf> Resolution, the Executive Directors may extend such period until such later date <lf> or dates as they may determine. Not less than 25 per cent of the increase shall<lf> be paid in gold and the balance in the currency of Australia. The change shall<lf> become effective on the date the Fund receives notice in writing that Australia<lf> consents to the change but not sooner than the date of this Resolution. Such<lf> written consent shall be signed by a competent official whose authority and<lf> signature are duly authenticated.<lf> 
 
-                   The approval of the Parliament is hereby given:
+                                ----------------<lf> </lf>
+</lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></sch>
+**<b>
 
-                     (a)  to Australia consenting to the change in the quota of Australia in the International Monetary Fund referred to in the Resolution of the Board of Governors of the Fund a copy of which is set out in the First Schedule to this Act and the effective date of which is the sixth day of April, One thousand nine hundred and sixty; and
+### <name>INTERNATIONAL MONETARY AGREEMENTS ACT 1960 - SCHEDULE 2 </name>
+</b>** 
 
-                     (b)  to Australia subscribing One thousand three hundred and thirty additional shares of the capital stock of the International Bank for Reconstruction and Development in accordance with the conditions specified in the Resolution of the Board of Governors of the Bank a copy of which is set out in the Second Schedule to this Act and the effective date of which is the sixth day of April, One thousand nine hundred and sixty.
-
-##### <a id="4"></a>4  Appropriation
-
-                   There may be paid out of the Consolidated Revenue Fund, which is appropriated accordingly, any moneys required for the purpose of making:
-
-                     (a)  any payment required to be made by Australia to the International Monetary Fund by reason of the change in the quota of Australia in the Fund referred to in paragraph (a) of the last preceding section; and
-
-                     (b)  any payment required to be made by   Australia to the International Bank for Reconstruction and Development by reason of sub-paragraph (ii) of paragraph (c) of the conditions specified in the Resolution referred to in paragraph (b) of the last preceding section.
-
-##### <a id="5"></a>5  Issue of securities
-
-                   Section seven of the _International Monetary Agreements Act 1947_ applies to any payment referred to in the last preceding section as it applies to payments under that Act. 
-
-# The Schedules
-
-# First Schedule—Resolution of the Board of Governors of the International Monetary Fund
-
-_Section 3(a)_
-
-That the quota of Australia shall be changed to $400 million, provided that Australia consents to the change on or before June 6, 1960, and provided further that, if extraordinary circumstances are deemed by the Executive Directors to warrant an extension of the period in which consent is required pursuant to this Resolution, the Executive Directors may extend such period until such later date or dates as they may determine. Not less than 25 per cent of the increase shall be paid in gold and the balance in the currency of Australia. The change shall become effective on the date the Fund receives notice in writing that Australia consents to the change but not sooner than the date of this Resolution. Such written consent shall be signed by a competent official whose authority and signature are duly authenticated.
-
-# Second Schedule—Resolution of the Board of Governors of the International Bank for reconstruction and development
-
-_Section 3(b)_
-
-THAT, pursuant to Article II, Section 3 (b) of the Articles of Agreement of
-
- the Bank, the Board of Governors hereby authorizes the acceptance by the Bank of the subscription of Australia to 1,330 shares of the capital stock of the Bank
-
- in addition to the 4,000 shares of said capital stock heretofore subscribed by
-
- Australia, upon the following conditions:
-
-                     (a)  That the subscription price per share shall be $100,000 in terms of United States dollars of the weight and fineness in effect on July 1, 1944;
-
-                     (b)  That Australia’s subscription shall be received by the Bank on or before June 6, 1960, provided, however, that if extraordinary circumstances are deemed by the Executive Directors to warrant an extension of this date, the Executive Directors may extend it;
-
-                     (c)  That before such subscription shall be accepted by the Bank, (i) Australia shall have taken all action which may be necessary to authorize such subscription and shall have furnished to the Bank such information thereon as the Bank may request, and (ii) Australia shall have paid to the Bank, on account of the subscription price of one-half of such additional shares, 2% in gold or United States dollars and 18% in currency of Australia; and 
-
-                     (d)  With respect to the subscription price of the other one-half of such shares, the 2% portion payable in gold or United States dollars and the 18% portion payable in the currency of Australia shall be left uncalled, as set forth in Resolution No. 129, on the same basis as the 2% and 18% portions of subscriptions made pursuant to Resolution No. 128 of the Board of Governors.
-
-# Notes to the _International Monetary Agreements Act 1960_
-
-### Note 1
-
-Act No. 14, 1960; assented to and commenced 14 May 1960.
-
- 
-
- 
-
- 
+## SCH
+<sch>                                 SECOND  SCHEDULE<lf>                                                                    Section 3 (b) <lf> RESOLUTION  OF  THE  BOARD  OF  GOVERNORS  OF  THE  INTERNATIONAL  BANK  FOR<lf>                         RECONSTRUCTION  AND  DEVELOPMENT<lf>   THAT, pursuant to Article II, Section 3 (b) of the Articles of Agreement of<lf> the Bank, the Board of Governors hereby authorizes the acceptance by the Bank of <lf> the subscription of Australia to 1,330 shares of the capital stock of the Bank<lf> in addition to the 4,000 shares of said capital stock heretofore subscribed by<lf> Australia, upon the following conditions:<lf>   (a)  That the subscription price per share shall be $100,000 in terms of<lf> United States dollars of the weight and fineness in effect on July 1, 1944;<lf>   (b)  That Australia's subscription shall be received by the Bank on or before<lf>        June 6, 1960, provided, however, that if extraordinary circumstances are deemed<lf>        by the Executive Directors to warrant an extension of this date, the Executive<lf>        Directors may extend it;<lf>          (c)  That before such subscription shall be accepted by the Bank, (i)<lf>        Australia shall have taken all action which may be necessary to authorize such<lf>        subscription and shall have furnished to the Bank such information thereon as<lf>        the Bank may request, and (ii) Australia shall have paid to the Bank, on account<lf>        of the subscription price of one-half of such additional shares, 2% in gold or<lf>        United States dollars and 18% in currency of Australia; and<lf>          (d)  With respect to the subscription price of the other one-half of such<lf>        shares, the 2% portion payable in gold or United States dollars and the 18%<lf>        portion payable in the currency of Australia shall be left uncalled, as set<lf>        forth in Resolution No. 129, on the same basis as the 2% and 18% portions of<lf>        subscriptions made pursuant to Resolution No. 128 of the Board of Governors.<lf> </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></sch>
