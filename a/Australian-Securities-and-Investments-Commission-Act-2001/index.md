@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00892/Html/d3a97bec-48a2-4e16-9990-e186aa659ce2_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00694/Html/a112253a-4319-40d7-8188-b03399015184_files/image001.gif)
 
 # Australian Securities and Investments Commission Act 2001
 
 **Act No. 51 of 2001 as amended**
 
-This compilation was prepared on 4 December 2012
- taking into account amendments up to Act No. 169 of 2012
+This compilation was prepared on 1 October 2012
+ taking into account amendments up to Act No. 118 of 2012
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -1150,7 +1150,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (c)  an audit company;
 
-that is conducting, or that has conducted, audits undertaken for the purposes of the _Australian Charities and Not‑for‑profits Commission Act 2012_ or the Corporations Act and includes a registered company auditor who is participating in, or has participated in, audits of that kind.
+that is conducting, or that has conducted, audits undertaken for the purposes of the Corporations Act and includes a registered company auditor who is participating in, or has participated in, audits of that kind.
 
                     <a name="book"></a>**_books_** includes:
 
@@ -3468,7 +3468,7 @@ the Court may order the person to pay to the Commonwealth such pecuniary penalty
 
                      (b)  a person is not liable to more than one pecuniary penalty under this section in respect of the same conduct.
 
-##### <a id="12GBB"></a>12GBB  Pecuniary penalties and offences
+##### <a id="12GBB"></a>12GBB  Pecuniary penalties and offences
 
              (1)  The Court must not make an order under section 12GBA against a person in relation to either of the following matters (a **_consumer protection breach_**):
 
@@ -3882,7 +3882,7 @@ the Federal Court may, on the application of a party to the proceeding or of its
 
              (5)  An appeal does not lie from a decision of the Federal Court in relation to the transfer of a proceeding under this Division to the Family Court.
 
-##### <a id="12GLA"></a>12GLA  Non‑punitive orders
+##### <a id="12GLA"></a>12GLA  Non‑punitive orders
 
              (1)  The Court may, on application by ASIC, make one or more of the orders mentioned in subsection (2) in relation to a person who has engaged in contravening conduct.
 
@@ -4116,7 +4116,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 State or Territory professional standards law limits liability
 
-             (1)  A professional standards law of a State, the Australian Capital Territory or the Northern Territory applies to limit occupational liability relating to an action for contravention of section 12DA in the same way as it limits occupational liability arising under a law of the State or Territory.
+             (1)  A professional standards law of a State, the   Australian Capital Territory or the Northern Territory applies to limit occupational liability relating to an action for contravention of section 12DA in the same way as it limits occupational liability arising under a law of the State or Territory.
 
 Note:          Section 12DA prohibits misleading or deceptive conduct by a person in relation to financial services.
 
@@ -5095,19 +5095,17 @@ Note:          Failure to comply with a requirement made under
 
                               (i)  audit‑related matters (**_Corporations Act audit requirements_**) under Chapter 2M or Part 9.2 or 9.2A of the Corporations Act or under other provisions of that Act that relate to that Chapter or that Part; or
 
-                            (ia)  audit‑related matters (**_ACNC audit requirements_**) under the _Australian Charities and Not‑for‑profits Commission Act 2012_; or
-
                              (ii)  audit requirements (**_overseas audit requirements_**) referred to in subsection 11(10); or
 
                      (b)  for the purposes of:
 
-                              (i)  ascertaining compliance with Corporations Act audit requirements or ACNC audit requirements; or
+                              (i)  ascertaining compliance with Corporations Act audit requirements; or
 
                              (ii)  assisting in ascertaining compliance with overseas audit requirements; or
 
                      (c)  in relation to:
 
-                              (i)  an alleged or suspected contravention of Corporations Act audit requirements or ACNC audit requirements; or
+                              (i)  an alleged or suspected contravention of Corporations Act audit requirements; or
 
                              (ii)  an alleged or suspected contravention of a law of the Commonwealth, or of a State or Territory in this jurisdiction, being a contravention that relates to an audit matter and that either concerns the management or affairs of a body corporate or involves fraud or dishonesty and relates to a body corporate; or
 
@@ -5189,7 +5187,7 @@ Note:          Failure to comply with a requirement made under
 
 Note:          Failure to comply with a requirement made under this section is an offence (see section 63).
 
-             (2)  ASIC may give to a person a written notice requiring the production to a specified member or staff member, at a specified place and time, of specified books that are in the person’s possession and that relate to the question whether an auditor has complied with Corporations Act audit requirements, ACNC audit requirements, or overseas audit requirements, within the meaning of subsection 30A(2).
+             (2)  ASIC may give to a person a written notice requiring the production to a specified member or staff member, at a specified place and time, of specified books that are in the person’s possession and that relate to the question whether an auditor has complied with Corporations Act audit requirements, or overseas audit requirements, within the meaning of subsection 30A(2).
 
 ##### <a id="34"></a>34  ASIC may authorise persons to require production of books, giving of information etc.
 
@@ -11518,23 +11516,6 @@ Schedule 1 (item 256A): 1 July 2012</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Charities and Not‑for‑profits Commission (Consequential and Transitional) Act 2012</div>
-  </td>
-  <td>
-    <div>169, 2012</div>
-  </td>
-  <td>
-    <div>3 Dec 2012</div>
-  </td>
-  <td>
-    <div>Schedule 3 (items 20–23): 3 Dec 2012 ( <i>see</i>s. 2(1))</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_ Subsection 2(1) (item 34) of the _Statute Law Revision Act 2005_ provides as follows:
@@ -12026,7 +12007,7 @@ _(f)_      Subsection 2(1) (item 2) of the _Superannuation Legislation
     <div>S. 5</div>
   </td>
   <td>
-    <div>am. Nos. 122 and 123, 2001; No. 103, 2004; No. 74, 2007; No. 61, 2008; No. 108, 2009; No. 66, 2010; No. 58, 2011; Nos. 72 and 169, 2012</div>
+    <div>am. Nos. 122 and 123, 2001; No. 103, 2004; No. 74, 2007; No. 61, 2008; No. 108, 2009; No. 66, 2010; No. 58, 2011; No. 72, 2012</div>
   </td>
 </tr>
 <tr>
@@ -13181,14 +13162,6 @@ Part 2</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 169, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Heading to s. 31</div>
   </td>
   <td>
@@ -13232,7 +13205,7 @@ Part 2</div>
     <div>S. 33</div>
   </td>
   <td>
-    <div>am. No. 122, 2001; No. 1, 2007; No. 169, 2012</div>
+    <div>am. No. 122, 2001; No. 1, 2007</div>
   </td>
 </tr>
 <tr>
