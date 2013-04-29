@@ -1,111 +1,115 @@
-![](http://www.comlaw.gov.au/Details/C2004C02406/Html/BankInt91_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C02405/Html/BankInteg91_image001.gif)
+
+#  
 
 # Bank Integration Act 1991
 
 **Act No. 210 of 1991 as amended**
 
-This compilation was prepared on 1 February 2000 
- taking into account amendments up to Act No. 146, 1999
+Consolidated as in force on 22 March 1999
 
-The text of any of those amendments not in force 
- on that date is appended in the Notes section
+(includes amendments up to Act No. 46 of 1998
 
 Prepared by the Office of Legislative Drafting,
  Attorney-General’s Department, Canberra
 
  
 
-## Contents
+# Contents
 
 **Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]                                                                        1
+1             Short title [_see_ Note 1]                                                                        
 
-[2](#2).            Commencement [_see_ Note 1]                                                               1
+2             Commencement [_see_ Note 1]                                                              
 
-[3](#3).            Extension to external Territories                                                          1
+3             Extension to external Territories                                                         
 
-[4](#4).            Crown to be bound                                                                              1
+4             Crown to be bound                                                                              
 
-[5](#5).            Interpretation                                                                                       1
+5             Interpretation                                                                                      
 
-[6](#6).            Extra-territorial operation of Act                                                         5
+6             Extra-territorial operation of Act                                                        
 
-**Part 2—Steps leading to bank reorganisations**
+**Part 2—Steps leading to bank reorganisations** 
 
-[7](#7).            Notice of proposed bank reorganisation                                              6
+7             Notice of proposed bank reorganisation                                             
 
-[8](#8).            Reserve Bank certification                                                                   6
+8             Reserve Bank certification                                                                   
 
-[9](#9).            Treasurer may fix succession day for a particular receiving bank and transferring bank       7
+9             Treasurer may fix succession day for a particular receiving bank and transferring bank       
 
-[10](#10).          Interests of depositors of transferring banks to be protected             7
+10           Interests of depositors of transferring banks to be protected             
 
-[11](#11).          Complementary legislation to be enacted                                            7
+11           Complementary legislation to be enacted                                            
 
-**Part 3—Bank reorganisations**
+**Part 3—Bank reorganisations** 
 
-[12](#12).          Consequence of succession day                                                           9
+12           Consequence of succession day                                                          
 
-[13](#13).          Assets and liabilities                                                                            9
+13           Assets and liabilities                                                                            
 
-[14](#14).          Translated instruments                                                                      10
+14           Translated instruments                                                                      
 
-[15](#15).          Places of business                                                                              10
+15           Places of business                                                                              
 
-[16](#16).          Transferring banks to lose authority to carry on banking business   10
+16           Transferring banks to lose authority to carry on banking business  
 
-[17](#17).          Legal proceedings and evidence                                                         10
+17           Legal proceedings and evidence                                                         
 
-[18](#18).          Permitted business names                                                                  11
+18           Permitted business names                                                                 
 
-[19](#19).          Employment unaffected                                                                    12
+19           Employment unaffected                                                                    
 
-[20](#20).          Receiving banks to do what is necessary to carry out reorganisation 12
+20           Receiving banks to do what is necessary to carry out reorganisation 
 
-**Part 4—Taxation matters**
+**Part 4—Taxation matters** 
 
-[21](#21).          Exemptions from certain taxes and charges                                       13
+21           Exemptions from certain taxes and charges                                       
 
-[22](#22).          Application of the Income Tax Assessment Acts                             13
+22           Application of the Income Tax Assessment Acts                            
 
 **Part 5—Miscellaneous**
 
-[23](#23).          Certificates evidencing operation of Act etc                                      17
+[23           Certificates evidencing operation of Act etc](#23           Certificates evidencing operation of Act etc).                                    
 
-[24](#24).          Certificates in relation to land and interests in land                           17
+24           Certificates in relation to land and interests in land                          
 
-[25](#25).          Certificates in relation to other assets                                               18
+25           Certificates in relation to other assets                                               
 
-[26](#26).          Documents purporting to be certificates                                           18
+26           Documents purporting to be certificates                                           
 
-[27](#27).          Compensation for acquisition of property                                        18
+27           Compensation for acquisition of property                                       
 
-[28](#28).          Act to have effect despite other laws                                                19
+28           Act to have effect despite other laws                                                
 
-[29](#29).          Regulations                                                                                        19
+29           Regulations                                                                                        
 
-**Part 6—Consequential amendments of the Commonwealth Banks Act 1959 and other Acts**
+**Part 6—Consequential amendments of the Commonwealth Banks Act 1959 and other Acts** 
 
-[30](#30).          Principal Act                                                                                      20
+30           Principal Act                                                                                     
 
-[31](#31).          Repeal of Part V                                                                                20
+31           Repeal of Part V                                                                                
 
-[32](#32).          Consequential amendments                                                               20
+32           Consequential amendments                                                               
 
 **Schedule 1—Receiving and transferring banks** 
 
 **Schedule 2—Permitted business names** 
 
-**Schedule 3—Consequential amendments** 
+**Schedule 3—Consequential amendments**
 
-**Notes** 
+#  
 
  
 
 ## An Act to facilitate the integration of certain banks, and for related purposes
 
+**Do not <span class="CharChapText">delete</span> : <span class="CharChapNo">Chapter</span> placeholder**
+
 ## Part 1—Preliminary
+
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
 
@@ -147,7 +151,7 @@ Prepared by the Office of Legislative Drafting,
 
                               (i)  the chief executive officer or another senior executive of the receiving bank; or
 
-                             (ii)  an SES employee or acting SES employee;
+                             (ii)  a member of the senior executive service of the Australian Public Service;
 
                             as an authorised officer in relation to that provision and those banks—the officer so designated.
 
@@ -241,6 +245,8 @@ Prepared by the Office of Legislative Drafting,
 
 ## Part 2—Steps leading to bank reorganisations
 
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
+
 ##### <a id="7"></a>7  Notice of proposed bank reorganisation
 
              (1)  Where, having regard to Commonwealth Government policy concerning integration of banks, a receiving bank (other than BNZ) and the relevant transferring bank agree to seek the statutory vesting of the business of the transferring bank in the receiving bank, the receiving bank may give notice in writing of their agreement:
@@ -306,6 +312,8 @@ by notice published in the _Gazette_, fix a day on which the business of the rel
                     <a name="tax"></a>**_tax_**, in relation to the complementary legislation of a particular State, does not include any fee or tax prescribed by the Corporations Regulations of that State.
 
 ## Part 3—Bank reorganisations
+
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
 
 ##### <a id="12"></a>12  Consequence of succession day
 
@@ -385,6 +393,8 @@ by notice published in the _Gazette_, fix a day on which the business of the rel
 
 ## Part 4—Taxation matters
 
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
+
 ##### <a id="21"></a>21  Exemptions from certain taxes and charges
 
              (1)  Tax is not payable under a law of the Commonwealth or of a State or Territory in respect of:
@@ -454,6 +464,8 @@ are taken to have been derived or incurred by, or to have occurred in relation t
            (10)  In this section, **_complementary legislation_** includes parallel New Zealand legislation.
 
 ## Part 5—Miscellaneous
+
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
 
 ##### <a id="23"></a>23  Certificates evidencing operation of Act etc.
 
@@ -553,6 +565,8 @@ that person or authority may:
 
 ## Part 6—Consequential amendments of the Commonwealth Banks Act 1959 and other Acts
 
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
+
 ##### <a id="30"></a>30  Principal Act
 
                    In this Part, **Principal Act** means the _Commonwealth Banks Act 1959_.
@@ -564,6 +578,8 @@ that person or authority may:
 ##### <a id="32"></a>32  Consequential amendments
 
                    On the succession day for the Commonwealth Bank and the Commonwealth Savings Bank, the Acts referred to in Schedule 3 are amended as set out in that Schedule.
+
+ 
 
 # Schedule 1—Receiving and transferring banks
 
@@ -667,6 +683,8 @@ Limited</div>
   </td>
 </tr></table>
 
+ 
+
 # Schedule 2—Permitted business names
 
 _Section 18_
@@ -763,35 +781,29 @@ Limited</div>
   </td>
 </tr></table>
 
+ 
+
 # Schedule 3—Consequential amendments
 
 _Section 32_
 
-* * *
+Banking Act 1958 \[published separately]
 
-**Note:**
+Banks (Shareholding) Act 1972   \[published separately]
 
-The amendments made by this Schedule are incorporated in the current compilations on SCALEplus.
+Commonwealth Banks Act 1959 \[published separately]
 
-_Banking Act 1959_
+ 
 
-_Banks (Shareholding) Act 1972_
+# NOTE
 
-_Commonwealth Banks Act 1959_
+1.   The _Bank Integration Act 1991_ as shown in this consolidation comprises Act No. 210, 1991 amended as indicated in the Tables below.
 
-For access to the wording of the amendments made by this Schedule, click here [_Bank Integration Act 1991_ No. 210, 1991]
-
-* * *
-
-# Notes to the _Bank Integration Act 1991_
-
-### Note 1
-
-The _Bank Integration Act 1991_ as shown in this compilation comprises Act No. 210, 1991 amended as indicated in the Tables below.
-
-For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
+      For all relevant information pertaining to application, saving or transitional provisions _see_ Table-A.
 
 ### Table of Acts
+
+* * *
 
 <table>
 <colgroup>
@@ -804,25 +816,27 @@ For all relevant information pertaining to application, saving or transitional p
   <col width="14%">
 </colgroup>
 
-<tr>
-  <td>
-    <div>Act</div>
-  </td>
-  <td>
-    <div>Number 
+<thead>
+  <tr>
+    <td>
+      <div>Act</div>
+    </td>
+    <td>
+      <div>Number 
 and year</div>
-  </td>
-  <td colspan="2">
-    <div>Date 
+    </td>
+    <td colspan="2">
+      <div>Date 
 of Assent</div>
-  </td>
-  <td colspan="2">
-    <div>Date of commencement</div>
-  </td>
-  <td>
-    <div>Application, saving or transitional provisions</div>
-  </td>
-</tr>
+    </td>
+    <td colspan="2">
+      <div>Date of commencement</div>
+    </td>
+    <td>
+      <div>Application, saving or transitional provisions</div>
+    </td>
+  </tr>
+</thead>
 <tr>
   <td>
     <div>Bank Integration Act 1991</div>
@@ -891,23 +905,6 @@ of Assent</div>
     <div>S. 4</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
-  </td>
-  <td>
-    <div>146, 1999</div>
-  </td>
-  <td>
-    <div>11 Nov 1999</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 1 (item 279): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(c)</i></div>
-  </td>
-  <td colspan="2">
-    <div>—</div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -918,23 +915,34 @@ of Assent</div>
   <td></td>
 </tr></table>
 
+ 
+
 _(a)_     The _Bank Integration Act 1991_ was amended by Schedule 3 (item 6) only of the _Statute Law Revision Act 1996_, subsection 2(3) of which provides as follows:
 
-                  (3)   Each item in Schedule 3 is taken to have commenced when the Act containing the provision amended by the item received the Royal Assent.
+                 “(3)   Each item in Schedule 3 is taken to have commenced when the Act containing the provision amended by the item received the Royal Assent.”.
 
-_(b)_    The _Bank Integration Act 1991_ was amended by Schedule 2 (item 527) only of the _Tax Law Improvement Act (No. 2) 1998_, subsections 2(1) and (2) of which provide as follows:
+_(b)_    The _Bank Integration Act 1991_ was amended by Schedule 2 (item 527) only of the _Tax Law Improvement Act (No. 2) 1998_, subsections (1) and (2) of which provide as follows:
 
-                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+                 “(1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-                  (2)   Schedule 2 (except item 3 of it) commences immediately after the commencement of Schedule 1.
+                  (2)   Schedule 2 (except item 3 of it) commences immediately after the commencement of Schedule 1.”.
 
-_(c)_     The _Bank Integration Act 1991_ was amended by Schedule 1 (item 279) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
-
-                  (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
-
-                  (2)   Subject to this section, this Act commences at the commencing time.
+ 
 
 ## Table of Amendments
+
+<table>
+<colgroup>
+  <col width="100%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+    </td>
+  </tr>
+</thead></table>
 
 <table>
 <colgroup>
@@ -942,11 +950,6 @@ _(c)_     The _Bank Integration Act 1991_ was amended by Schedule 1 (ite
   <col width="66%">
 </colgroup>
 
-<tr>
-  <td colspan="2">
-    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-  </td>
-</tr>
 <tr>
   <td>
     <div>Provision affected</div>
@@ -960,7 +963,7 @@ _(c)_     The _Bank Integration Act 1991_ was amended by Schedule 1 (ite
     <div>S. 5</div>
   </td>
   <td>
-    <div>am. No. 46, 1998; No. 146, 1999</div>
+    <div>am. No. 46, 1998</div>
   </td>
 </tr>
 <tr>
@@ -996,14 +999,16 @@ _(c)_     The _Bank Integration Act 1991_ was amended by Schedule 1 (ite
   </td>
 </tr></table>
 
+ 
+
 Table A
 
-### Application, saving or transitional provisions
+### Application, Saving or Transitional Provisions
 
-_Bank Integration Act 1991 (No. 46, 1998)_
+_Bank Integration Act 1991_ (No. 46, 1998)
 
 ## <a id="4"></a>4  Application of amendments
 
-An amendment made by an item in a Schedule (except an item in Schedule 1 or in Part 1 of any of Schedules 2 to 8) applies to assessments for the 1998-99 income year and later income years, unless otherwise indicated in the Schedule in which the item appears.
+                   An amendment made by an item in a Schedule (except an item in Schedule 1 or in Part 1 of any of Schedules 2 to 8) applies to assessments for the 1998-99 income year and later income years, unless otherwise indicated in the Schedule in which the item appears.
 
  
