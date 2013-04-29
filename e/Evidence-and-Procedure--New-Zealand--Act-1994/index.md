@@ -1,4 +1,4 @@
-![](http://www.comlaw.gov.au/Details/C2011C00027/Html/2ccd60df-8691-407b-bbeb-cc19a68ee136_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00592/Html/EvidenceandProcNZ1994_image001.gif)
 
 # Evidence and Procedure (New Zealand) Act 1994
 
@@ -8,7 +8,7 @@
 
 **For saving provision _see_ Act No. 36, 2010, Schedule 2 (item 2)]**
 
-This compilation was prepared on 1 January 2011
+This compilation was prepared on 16 August 2010
  taking into account amendments up to Act No. 103 of 2010
 
 The text of any of those amendments not in force
@@ -18,123 +18,123 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Definitions
+[3](#3).            Definitions                                                                                           1
 
-[4](#4).            Extended definitions of _court_ etc 
+[4](#4).            Extended definitions of _court_ etc                                                         3
 
-[5](#5).            External Territories
+[5](#5).            External Territories                                                                              4
 
-[6](#6).            Act to bind Crown
+[6](#6).            Act to bind Crown                                                                               4
 
-[6A](#6A).         Application of the _Criminal Code_
+[6A](#6A).         Application of the _Criminal Code_                                                       4
 
 **Part 2—Australian subpoenas**
 
-[7](#7).            Application of this Part
+[7](#7).            Application of this Part                                                                       5
 
-[8](#8).            Service of subpoenas in New Zealand
+[8](#8).            Service of subpoenas in New Zealand                                                 5
 
-[9](#9).            Subpoenas not to be served without leave
+[9](#9).            Subpoenas not to be served without leave                                          5
 
-[10](#10).          How subpoenas are to be served in New Zealand
+[10](#10).          How subpoenas are to be served in New Zealand                               6
 
-[11](#11).          Expenses
+[11](#11).          Expenses                                                                                              6
 
-[12](#12).          Subpoenas not requiring attendance
+[12](#12).          Subpoenas not requiring attendance                                                    7
 
-[13](#13).          Applications to set subpoenas aside
+[13](#13).          Applications to set subpoenas aside                                                   7
 
-[14](#14).          Setting aside subpoenas
+[14](#14).          Setting aside subpoenas                                                                       8
 
-[15](#15).          Entitlement to expenses
+[15](#15).          Entitlement to expenses                                                                       9
 
-[16](#16).          Non‑compliance with subpoenas
+[16](#16).          Non-compliance with subpoenas                                                        9
 
-[17](#17).          Courts’ other powers unaffected
+[17](#17).          Courts’ other powers unaffected                                                       10
 
 **Part 3—New Zealand subpoenas**
 
-[18](#18).          Application of this Part
+[18](#18).          Application of this Part                                                                     11
 
-[19](#19).          Service of subpoenas in Australia
+[19](#19).          Service of subpoenas in Australia                                                      11
 
-[20](#20).          Obligation to comply with subpoenas
+[20](#20).          Obligation to comply with subpoenas                                              11
 
-[21](#21).          Non‑compliance with subpoenas
+[21](#21).          Non-compliance with subpoenas                                                      12
 
-[22](#22).          Documents etc  for transmission to a New Zealand court
+[22](#22).          Documents etc  for transmission to a New Zealand court                13
 
-[23](#23).          Other powers to serve subpoenas unaffected
+[23](#23).          Other powers to serve subpoenas unaffected                                   13
 
 **Part 4—Use of video links or telephones in Australian proceedings**
 
-[24](#24).          Application of this Part
+[24](#24).          Application of this Part                                                                     14
 
-[25](#25).          Australian courts may take evidence etc  from New Zealand
+[25](#25).          Australian courts may take evidence etc  from New Zealand           14
 
-[26](#26).          Taking evidence by video link
+[26](#26).          Taking evidence by video link                                                           14
 
-[27](#27).          Taking evidence by telephone
+[27](#27).          Taking evidence by telephone                                                           15
 
-[28](#28).          Expenses
+[28](#28).          Expenses                                                                                            15
 
-[29](#29).          New Zealand counsel entitled to practise in Australia during video links etc 
+[29](#29).          New Zealand counsel entitled to practise in Australia during video links etc         15
 
 **Part 5—Use of video links or telephones in New Zealand proceedings**
 
-[30](#30).          New Zealand courts may take evidence etc  from Australia
+[30](#30).          New Zealand courts may take evidence etc  from Australia             17
 
-[31](#31).          Powers of New Zealand courts
+[31](#31).          Powers of New Zealand courts                                                         17
 
-[32](#32).          Orders made by New Zealand courts
+[32](#32).          Orders made by New Zealand courts                                                17
 
-[33](#33).          Enforcement of orders
+[33](#33).          Enforcement of orders                                                                       18
 
-[34](#34).          Privileges, protection and immunity of participants in New Zealand proceedings
+[34](#34).          Privileges, protection and immunity of participants in New Zealand proceedings 18
 
-[35](#35).          New Zealand courts may administer oath in Australia
+[35](#35).          New Zealand courts may administer oath in Australia                     18
 
-[36](#36).          Assistance to New Zealand courts
+[36](#36).          Assistance to New Zealand courts                                                    19
 
-[37](#37).          Contempt of New Zealand courts
+[37](#37).          Contempt of New Zealand courts                                                     19
 
 **Part 6—Evidence of certain New Zealand matters**
 
-[38](#38).          Application of this Part
+[38](#38).          Application of this Part                                                                     21
 
-[39](#39).          Faxes
+[39](#39).          Faxes                                                                                                  21
 
-[40](#40).          Matters of law
+[40](#40).          Matters of law                                                                                   21
 
-[41](#41).          Evidence of New Zealand official instruments
+[41](#41).          Evidence of New Zealand official instruments                                  22
 
-[42](#42).          Evidence of New Zealand acts of state
+[42](#42).          Evidence of New Zealand acts of state                                              22
 
-[43](#43).          Evidence of public documents admissible in New Zealand under New Zealand Acts
+[43](#43).          Evidence of public documents admissible in New Zealand under New Zealand Acts            23
 
-[44](#44).          Evidence of other New Zealand public documents
+[44](#44).          Evidence of other New Zealand public documents                           23
 
-[45](#45).          Evidence of New Zealand documents of a public nature
+[45](#45).          Evidence of New Zealand documents of a public nature                   23
 
-[46](#46).          Part not to derogate from existing Australian laws
+[46](#46).          Part not to derogate from existing Australian laws                            24
 
 **Part 7—Miscellaneous**
 
-[47](#47).          Application of the _Foreign Judgments Act 1991_
+[47](#47).          Application of the _Foreign Judgments Act 1991_                               25
 
-[48](#48).          Rules of Court
+[48](#48).          Rules of Court                                                                                   25
 
-[49](#49).          Regulations
+[49](#49).          Regulations                                                                                        26
 
 **Notes** 
 
@@ -144,7 +144,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
 
-                   This Act may be cited as the _Evidence and Procedure (New Zealand) Act 1994_.
+                   This Act may be cited as the _Evidence and Procedure (__New Zealand__) Act 1994_.
 
 ##### <a id="2"></a>2  Commencement [_see_ Note 1]
 
@@ -202,7 +202,7 @@ Note:          The text of the Convention referred to in parag
 
                      (b)  an entry in a public register or book; or
 
-                     (c)  a certificate issued by a New Zealand officer under New Zealand law.
+                     (c)  a certificate issued by a New   Zealand officer under New Zealand law.
 
                     <a name="spous"></a>**_spouse_** includes de facto spouse.
 
@@ -240,7 +240,7 @@ Note:          The text of the Convention referred to in parag
 
                      (b)  a person exercising a power conferred on the person as a judge, magistrate, coroner or officer of a court.
 
-##### <a id="5"></a>5  External Territories
+##### <a id="5"></a>5  External  Territories
 
                    This Act extends to each external Territory.
 
@@ -342,7 +342,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (a)  the solicitor on the record for the person who obtained leave to serve the subpoena in New Zealand; or
 
-                     (b)  if there is no solicitor on the record‑that person.
+                     (b)  if there is no solicitor on the record-that person.
 
              (6)  Without limiting the ways in which the application may be made under the law and rules applicable to the court to which the application is made, it may be made by transmitting the application to the court by fax.
 
@@ -362,7 +362,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                             (iii)  the person is liable to a prosecution, or is being prosecuted for an offence, in Australia; or
 
-                            (iv)  the person is liable to the imposition of a penalty in civil proceedings in Australia (other than proceedings under the _Competition and Consumer Act 2010_); or
+                            (iv)  the person is liable to the imposition of a penalty in civil proceedings in Australia (other than proceedings under the _Trade Practices Act 1974_); or
 
                      (b)  the court is satisfied that the person is subject to a restriction on his or her movements, imposed by law or by order of a court, that is inconsistent with the person complying with the subpoena.
 
@@ -398,15 +398,15 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
              (4)  The court out of which the subpoena was issued may make orders to ensure that the person complying with the subpoena receives the amount of the person’s reasonable expenses in so complying.
 
-##### <a id="16"></a>16  Non‑compliance with subpoenas
+##### <a id="16"></a>16  Non-compliance with subpoenas
 
                    If the person named in the subpoena fails to comply with it, the court out of which it was issued may issue a certificate under the seal of the court stating that:
 
                      (a)  leave to serve the subpoena was given by:
 
-                              (i)  if the court is a superior court‑a judge of the court; or
+                              (i)  if the court is a superior court-a judge of the court; or
 
-                             (ii)  if the court is an inferior court‑a judge of the Federal Court of Australia, or a judge of the Supreme Court in the State or Territory in which the application for leave to issue the subpoena was made, as the case requires; and
+                             (ii)  if the court is an inferior court-a judge of the Federal Court of Australia, or a judge of the Supreme Court in the State or Territory in which the application for leave to issue the subpoena was made, as the case requires; and
 
                      (b)  the person named failed to comply with the subpoena.
 
@@ -452,7 +452,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
              (3)  The reference in paragraph (1)(d) to allowances and travelling expenses includes a reference to vouchers tendered in substitution for the whole or part of those allowances and travelling expenses.
 
-##### <a id="21"></a>21  Non‑compliance with subpoenas
+##### <a id="21"></a>21  Non-compliance with subpoenas
 
              (1)  A person who contravenes section 20:
 
@@ -470,7 +470,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (b)  any other matters to which the Federal Court of Australia would have had regard if it had issued the subpoena.
 
-             (3)  A certificate under a seal of the New Zealand court out of which the subpoena was issued stating that:
+             (3)  A certificate under a seal of the New   Zealand court out of which the subpoena was issued stating that:
 
                      (a)  a judge of the High Court of New Zealand granted leave to serve the subpoena in Australia; and
 
@@ -538,17 +538,17 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
              (2)  Regulations made for the purposes of subsection 4(1) that provide that a particular tribunal (within the meaning of section 4) established by a law of the Commonwealth is a court for the purposes of this Part may also provide that the tribunal cannot make an order under this section against a person other than the Commonwealth.
 
-##### <a id="29"></a>29  New Zealand counsel entitled to practise in Australia during video links etc.
+##### <a id="29"></a>29  New   Zealand counsel entitled to practise in Australia during video links etc.
 
                    A person who is entitled to practise as a barrister, solicitor or both before the High Court of New Zealand is entitled to practise as a barrister, solicitor or both:
 
-                     (a)  in relation to the examination‑in‑chief, cross‑examination or re‑examination of a witness in New Zealand whose evidence is being given by video link or telephone in a proceeding before a court sitting in Australia; or
+                     (a)  in relation to the examination-in-chief, cross-examination or re-examination of a witness in New Zealand whose evidence is being given by video link or telephone in a proceeding before a court sitting in Australia; or
 
                      (b)  in relation to the making of submissions by video link or telephone from New Zealand in a proceeding before a court sitting in Australia.
 
 ## Part 5—Use of video links or telephones in New Zealand proceedings
 
-##### <a id="30"></a>30  New Zealand courts may take evidence etc. from Australia
+##### <a id="30"></a>30  New   Zealand courts may take evidence etc. from Australia
 
                    A New Zealand court may, for the purposes of a proceeding in New Zealand, take evidence or receive submissions, by video link or telephone, from a person in Australia.
 
@@ -588,7 +588,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 unless the person establishes that the contravention should be excused.
 
-##### <a id="34"></a>34  Privileges, protection and immunity of participants in New Zealand proceedings
+##### <a id="34"></a>34  Privileges, protection and immunity of participants in New Zealand proceedings
 
              (1)  A judge or master presiding at or otherwise taking part in the proceeding has, in connection with evidence being taken or submissions being received by video link or telephone from a person in Australia, the same privileges, protection and immunity as a Judge of the Federal Court of Australia.
 
@@ -596,7 +596,7 @@ unless the person establishes that the contravention should be excused.
 
              (3)  A person appearing as a witness in the proceeding by video link or telephone from Australia has the same protection as a witness in a proceeding in the Federal Court of Australia.
 
-##### <a id="35"></a>35  New Zealand courts may administer oath in Australia
+##### <a id="35"></a>35  New   Zealand courts may administer oath in Australia
 
              (1)  The court may, for the purpose of obtaining in the proceeding, by video link or telephone, the testimony of a person in Australia, administer an oath or affirmation in accordance with the practice and procedure of the court.
 
@@ -608,7 +608,7 @@ unless the person establishes that the contravention should be excused.
 
                      (a)  attend at the place in Australia where evidence is to be or is being taken, or submissions are to be or are being made, in the proceeding; and
 
-                     (b)  take such action as the New Zealand court directs to facilitate the proceeding; and
+                     (b)  take such action as the New   Zealand court directs to facilitate the proceeding; and
 
                      (c)  assist with the administering by the New Zealand court of an oath or affirmation.
 
@@ -632,7 +632,7 @@ unless the person establishes that the contravention should be excused.
 
                      (b)  threaten, intimidate or intentionally insult:
 
-                              (i)  a judge of the New Zealand court who is taking part in the proceeding; or
+                              (i)  a judge of the New   Zealand court who is taking part in the proceeding; or
 
                              (ii)  a Master, Registrar, Deputy Registrar or other officer of that court who is taking part in or assisting in the proceeding; or
 
@@ -684,9 +684,9 @@ unless the person establishes that the contravention should be excused.
 
                      (a)  a New Zealand Act or an Imperial Act in force in New Zealand; or
 
-                     (b)  a regulation, rule or by‑law made, or purporting to be made, under such an Act; or
+                     (b)  a regulation, rule or by-law made, or purporting to be made, under such an Act; or
 
-                     (c)  a Proclamation or order made, or purporting to be made, by the Governor‑General of New Zealand under such an Act; or
+                     (c)  a Proclamation or order made, or purporting to be made, by the Governor-General of New Zealand under such an Act; or
 
                      (d)  an instrument of a legislative character (for example, a rule of court) made, or purporting to be made, under such an Act, being an instrument that is required by or under a law to be published, or the making of which is required by or under a law to be notified, in the New Zealand Gazette.
 
@@ -694,9 +694,9 @@ unless the person establishes that the contravention should be excused.
 
 ##### <a id="41"></a>41  Evidence of New Zealand official instruments
 
-                   Evidence of an official instrument issued by the Governor‑General of New Zealand, or by or under the authority of a New Zealand Minister, may be adduced by producing:
+                   Evidence of an official instrument issued by the Governor-General of New Zealand, or by or under the authority of a New Zealand Minister, may be adduced by producing:
 
-                     (a)  if the instrument was made by the Governor‑General in Council of New Zealand‑a copy of, or an extract from, the instrument purporting to have been certified as a true copy or extract by the Clerk of the Executive Council of New Zealand; or
+                     (a)  if the instrument was made by the Governor-General in Council of New Zealand-a copy of, or an extract from, the instrument purporting to have been certified as a true copy or extract by the Clerk of the Executive Council of New Zealand; or
 
                      (b)  a copy of, or an extract from, the instrument purporting to have been certified as a true copy or extract by a New Zealand Minister.
 
@@ -762,7 +762,7 @@ unless the person establishes that the contravention should be excused.
 
                      (a)  Part 2 of that Act is taken to apply to the order; and
 
-                     (b)  unless the order was made by the High Court of New Zealand‑the court that made the order is taken to have been an inferior court (within the meaning of that Act) to which that Part applies; and
+                     (b)  unless the order was made by the High Court of New Zealand-the court that made the order is taken to have been an inferior court (within the meaning of that Act) to which that Part applies; and
 
                      (c)  the court is taken to have had jurisdiction to make the order; and
 
@@ -784,17 +784,17 @@ unless the person establishes that the contravention should be excused.
 
 ##### <a id="49"></a>49  Regulations
 
-             (1)  The Governor‑General may make regulations prescribing matters:
+             (1)  The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
-             (2)  The Governor‑General must not make regulations for the purposes of subsection 22(1) or paragraph 36(2)(b) specifying a court of a State unless the Governor of the State has requested in writing that the court be so specified.
+             (2)  The Governor-General must not make regulations for the purposes of subsection 22(1) or paragraph 36(2)(b) specifying a court of a State unless the Governor of the State has requested in writing that the court be so specified.
 
-             (3)  The Governor‑General must not make regulations for the purposes of subsection 22(1) or paragraph 36(2)(b) specifying a court of the Australian Capital Territory unless the Chief Minister of the Australian Capital Territory has requested in writing that the court be so specified.
+             (3)  The Governor-General must not make regulations for the purposes of subsection 22(1) or paragraph 36(2)(b) specifying a court of the Australian Capital Territory unless the Chief Minister of the Australian Capital Territory has requested in writing that the court be so specified.
 
-             (4)  The Governor‑General must not make regulations for the purposes of subsection 22(1) or paragraph 36(2)(b) specifying a court of any other Territory unless the Administrator of the Territory has requested in writing that the court be so specified.
+             (4)  The Governor-General must not make regulations for the purposes of subsection 22(1) or paragraph 36(2)(b) specifying a court of any other Territory unless the Administrator of the Territory has requested in writing that the court be so specified.
 
 # Notes to the _Evidence and Procedure (New Zealand) Act 1994_
 
@@ -899,7 +899,7 @@ Remainder: 1 Apr 1995 ( <i>see Gazette</i>1995, No. GN8)</div>
     <div>13 July 2010</div>
   </td>
   <td>
-    <div>Schedule 6 (items 1, 56): 1 Jan 2011</div>
+    <div>Schedule 6 (items 1, 56): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -979,14 +979,6 @@ _(a)_     The _Evidence and Procedure (New Zealand) Act 1994_ was amende
 </tr>
 <tr>
   <td>
-    <div>S. 14</div>
-  </td>
-  <td>
-    <div>am. No. 103, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part 3</b></div>
   </td>
   <td>
@@ -1033,6 +1025,25 @@ _(a)_     The _Evidence and Procedure (New Zealand) Act 1994_ was amende
     <div>am. No. 24, 2001</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010
+ (No. 103, 2010)_
+
+The following amendment commences on the start of 1 January 2011:
+
+## Schedule 6
+
+## 1  Amendment of Acts
+
+The specified provisions of the Acts listed in this Part are amended by omitting “_Trade Practices Act 1974_” and substituting “_Competition and Consumer Act 2010_”.
+
+<h9 class="ActHead9">Evidence and Procedure (New Zealand) Act 1994</h9>
+
+## 56  Subparagraph 14(2)(a)(iv)
+
+As at 16 August 2010 the amendment is not incorporated in the compilation.
 
 ## Table A
 
