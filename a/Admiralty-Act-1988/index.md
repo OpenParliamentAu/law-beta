@@ -1,20 +1,21 @@
-![](http://www.comlaw.gov.au/Details/C2008C00387/Html/AdmiraltyAct88WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00230/Html/C09245056CE5DAD2CA25716300189E7F/$FILE/image001.gif)
 
 # Admiralty Act 1988
 
 **Act No. 34 of 1988 as amended**
 
-This compilation was prepared on 11 July 2008
- taking into account amendments up to Act No. 73 of 2008
+This compilation was prepared on 4 May 2006
+taking into account amendments up to Act No. 23 of 2006
 
 The text of any of those amendments not in force
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, Canberra
+
 
 # Contents
 
@@ -137,6 +138,7 @@ Sections 49–57
 Sections 58, 59
 
 **Notes** 
+
 
 ## An Act relating to Admiralty and maritime jurisdiction
 
@@ -332,7 +334,7 @@ the other ship is, in relation to the claim, a surrogate ship.
 
                              (ii)  an amount that a person, as employer, is under an obligation to pay to a person as employee, whether the obligation arose out of the contract of employment or by operation of law, including the operation of the law of a foreign country;
 
-                     (u)  a claim for the enforcement of, or a claim arising out of, an arbitral award (including a foreign award within the meaning of the _International Arbitration Act 1974_) made in respect of a proprietary maritime claim or a claim referred to in one of the preceding paragraphs;
+                     (u)  a claim for the enforcement of, or a claim arising out of, an arbitral award (including a foreign award within the meaning of the _Arbitration (Foreign Awards and Agreements) Act 1974_) made in respect of a proprietary maritime claim or a claim referred to in one of the preceding paragraphs;
 
                     (w)  a claim for interest in respect of a claim referred to in one of the preceding paragraphs.
 
@@ -362,7 +364,7 @@ the other ship is, in relation to the claim, a surrogate ship.
 
                      (b)  a cause of action that would not have existed if this Act had not been passed.
 
-##### <a id="7"></a>7  External  Territories
+##### <a id="7"></a>7  External Territories
 
                    This Act extends to each external Territory.
 
@@ -859,75 +861,77 @@ then, by force of this subsection, the court has power, exercisable in the same 
   <col width="33%">
 </colgroup>
 
-<tr>
-  <td>
-    <div>Reign and chapter</div>
-  </td>
-  <td>
-    <div>Citation or description</div>
-  </td>
-  <td>
-    <div>Extent of repeal</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>13 Richard II, Statutes I, chapter 5</div>
-  </td>
-  <td>
-    <div>Jurisdiction of the Admiral and his Deputy</div>
-  </td>
-  <td>
-    <div>The whole</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>15 Richard II, chapter 3</div>
-  </td>
-  <td>
-    <div>Jurisdiction of the Admiral</div>
-  </td>
-  <td>
-    <div>The whole</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>17 Edward II, chapter 13</div>
-  </td>
-  <td>
-    <div>
-      <i>Prerogativa Regis</i>
-    </div>
-  </td>
-  <td>
-    <div>The paragraph commencing Also the King shall have Wreck”</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2 Henry IV, chapter 11</div>
-  </td>
-  <td>
-    <div>Statute of 13 Richard II, Statutes 1, chapter 5 as to the Admiral’s Jurisdiction
-      confirmed</div>
-  </td>
-  <td>
-    <div>The whole</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2 William and Mary, Session 2, chapter 2</div>
-  </td>
-  <td>
-    <div>Admiralty Act, 1690</div>
-  </td>
-  <td>
-    <div>The whole</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Reign and chapter</div>
+    </td>
+    <td>
+      <div>Citation or description</div>
+    </td>
+    <td>
+      <div>Extent of repeal</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>13 Richard II, Statutes I, chapter 5</div>
+    </td>
+    <td>
+      <div>Jurisdiction of the Admiral and his Deputy</div>
+    </td>
+    <td>
+      <div>The whole</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>15 Richard II, chapter 3</div>
+    </td>
+    <td>
+      <div>Jurisdiction of the Admiral</div>
+    </td>
+    <td>
+      <div>The whole</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>17 Edward II, chapter 13</div>
+    </td>
+    <td>
+      <div>
+        <i>Prerogativa Regis</i>
+      </div>
+    </td>
+    <td>
+      <div>The paragraph commencing Also the King shall have Wreck”</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>2 Henry IV, chapter 11</div>
+    </td>
+    <td>
+      <div>Statute of 13 Richard II, Statutes 1, chapter 5 as to the Admiral’s Jurisdiction
+        confirmed</div>
+    </td>
+    <td>
+      <div>The whole</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>2 William and Mary, Session 2, chapter 2</div>
+    </td>
+    <td>
+      <div>Admiralty Act, 1690</div>
+    </td>
+    <td>
+      <div>The whole</div>
+    </td>
+  </tr>
+</tbody></table>
 
 ##### <a id="46"></a>46  Merchant Shipping Act
 
@@ -949,33 +953,31 @@ then, by force of this subsection, the court has power, exercisable in the same 
 
              (2)  This section binds the Crown in all its capacities.
 
+
 ## Part VIII—Amendments of the Navigation Act 1912
 
 ##### Sections 49–57
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 4pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 4pt; PADDING-BOTTOM: 1pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 1pt; BORDER-BOTTOM: windowtext 1pt solid">
 
 **Note:**
 
 The amendments made by this Part are incorporated in the compilation on ComLaw.
 
-For access to the wording of the amendments made by this Part, _see_ Act No. 34, 1988.
-
-* * *
+For access to the wording of the amendments made by this Part, _see_ Act No. 34, 1988.</div>
 
 ## Part IX—Amendment of the Shipping Registration Act 1981
 
 ##### Sections 58, 59
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 4pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 4pt; PADDING-BOTTOM: 1pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 1pt; BORDER-BOTTOM: windowtext 1pt solid">
 
 **Note:**
 
 The amendments made by this Part are incorporated in the compilation on ComLaw.
 
-For access to the wording of the amendments made by this Part, _see_ Act No. 34, 1988.
+For access to the wording of the amendments made by this Part, _see_ Act No. 34, 1988.</div>
 
-* * *
 
 # Notes to the _Admiralty Act 1988_
 
@@ -1003,11 +1005,13 @@ For all relevant information pertaining to application, saving or transitional p
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -1017,142 +1021,128 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Admiralty Act 1988</div>
-  </td>
-  <td>
-    <div>34, 1988</div>
-  </td>
-  <td>
-    <div>22 May 1988</div>
-  </td>
-  <td>
-    <div>1 Jan 1989 ( <i>see Gazette</i>1988, No. S359)</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Limitation of Liability for Maritime Claims Act 1989</div>
-  </td>
-  <td>
-    <div>151, 1989</div>
-  </td>
-  <td>
-    <div>30 Nov 1989</div>
-  </td>
-  <td>
-    <div>30 May 1991</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Service and Execution of Process (Transitional Provisions and Consequential Amendments) Act 1992</div>
-  </td>
-  <td>
-    <div>166, 1992</div>
-  </td>
-  <td>
-    <div>11 Dec 1992</div>
-  </td>
-  <td>
-    <div>10 Apr 1993 ( <i>see</i>s. 2 and <i>Gazette</i>1993, No. GN13)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Maritime Legislation Amendment Act 1994</div>
-  </td>
-  <td>
-    <div>20, 1994</div>
-  </td>
-  <td>
-    <div>15 Feb 1994</div>
-  </td>
-  <td>
-    <div>1 Aug 1994 ( <i>see Gazette</i>1994, No. S289)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>International Maritime Conventions Legislation Amendment Act 2001</div>
-  </td>
-  <td>
-    <div>149, 2001</div>
-  </td>
-  <td>
-    <div>1 Oct 2001</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 1): 13 May 2004 ( <i>see</i> <i>Gazette</i>2004, No. S157)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Law and Justice Legislation Amendment Act 2004</div>
-  </td>
-  <td>
-    <div>62, 2004</div>
-  </td>
-  <td>
-    <div>26 May 2004</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 5): 27 May 2004</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Jurisdiction of the Federal Magistrates Court Legislation Amendment Act 2006</div>
-  </td>
-  <td>
-    <div>23, 2006</div>
-  </td>
-  <td>
-    <div>6 Apr 2006</div>
-  </td>
-  <td>
-    <div>Schedule 3: 4 May 2006</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 2, 6, 8)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2008</div>
-  </td>
-  <td>
-    <div>73, 2008</div>
-  </td>
-  <td>
-    <div>3 July 2008</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 3): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Admiralty Act 1988</div>
+    </td>
+    <td>
+      <div>34, 1988</div>
+    </td>
+    <td>
+      <div>22 May 1988</div>
+    </td>
+    <td>
+      <div>1 Jan 1989 ( <i>see Gazette</i>1988, No. S359)</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Limitation of Liability for Maritime Claims Act 1989</div>
+    </td>
+    <td>
+      <div>151, 1989</div>
+    </td>
+    <td>
+      <div>30 Nov 1989</div>
+    </td>
+    <td>
+      <div>30 May 1991</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Service and Execution of Process (Transitional Provisions and Consequential Amendments) Act 1992</div>
+    </td>
+    <td>
+      <div>166, 1992</div>
+    </td>
+    <td>
+      <div>11 Dec 1992</div>
+    </td>
+    <td>
+      <div>10 Apr 1993 ( <i>see</i>s. 2 and <i>Gazette</i>1993, No. GN13)</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Maritime Legislation Amendment Act 1994</div>
+    </td>
+    <td>
+      <div>20, 1994</div>
+    </td>
+    <td>
+      <div>15 Feb 1994</div>
+    </td>
+    <td>
+      <div>1 Aug 1994 ( <i>see Gazette</i>1994, No. S289)</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>International Maritime Conventions Legislation Amendment Act 2001</div>
+    </td>
+    <td>
+      <div>149, 2001</div>
+    </td>
+    <td>
+      <div>1 Oct 2001</div>
+    </td>
+    <td>
+      <div>Schedule 1 (item 1): 13 May 2004 ( <i>see</i> <i>Gazette</i>2004, No. S157)</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Law and Justice Legislation Amendment Act 2004</div>
+    </td>
+    <td>
+      <div>62, 2004</div>
+    </td>
+    <td>
+      <div>26 May 2004</div>
+    </td>
+    <td>
+      <div>Schedule 1 (item 5): 27 May 2004</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Jurisdiction of the Federal Magistrates Court Legislation Amendment Act 2006</div>
+    </td>
+    <td>
+      <div>23, 2006</div>
+    </td>
+    <td>
+      <div>6 Apr 2006</div>
+    </td>
+    <td>
+      <div>Schedule 3: 4 May 2006</div>
+    </td>
+    <td>
+      <div>Sch. 3 (items 2, 6, 8)</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table of Amendments
 
@@ -1177,109 +1167,65 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div><b>Part I</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 151, 1989; No. 149, 2001; No. 62, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>am. No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part II</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9</div>
-  </td>
-  <td>
-    <div>am. No. 23, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part III</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22</div>
-  </td>
-  <td>
-    <div>am. No. 20, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 23</div>
-  </td>
-  <td>
-    <div>am. No. 166, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part IV</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 27, 28</div>
-  </td>
-  <td>
-    <div>am. No. 23, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part V</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 41</div>
-  </td>
-  <td>
-    <div>am. No. 23, 2006</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>S. 3</div>
+    </td>
+    <td>
+      <div>am. No. 151, 1989; No. 149, 2001; No. 62, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 9</div>
+    </td>
+    <td>
+      <div>am. No. 23, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 22</div>
+    </td>
+    <td>
+      <div>am. No. 20, 1994</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 23</div>
+    </td>
+    <td>
+      <div>am. No. 166, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 27, 28</div>
+    </td>
+    <td>
+      <div>am. No. 23, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 41</div>
+    </td>
+    <td>
+      <div>am. No. 23, 2006</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table A
 
 ### Application, saving or transitional provisions
 
-_Jurisdiction of the Federal Magistrates   Court Legislation Amendment Act 2006
- (No. 23, 2006)_
+_Jurisdiction of the Federal Magistrates Court Legislation Amendment Act 2006
+(No. 23, 2006)
+_
 
 ## Schedule 3
 
@@ -1294,6 +1240,7 @@ The amendments of sections 27 and 28 of the _Admiralty Act 1988_ made by this 
 ## 8  Application of amendment of section 41
 
 The amendment of section 41 of the _Admiralty Act 1988_ made by this Schedule applies in relation to matters arising before, on or after the commencement of this Schedule.
+
 
  
 
