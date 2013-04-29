@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2006C00022/Html/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00466/Html/F45395DAE3F00086CA25703F001AA56A/$FILE/image001.gif)
 
 # Primary Industries (Excise) Levies Act 1999
 
 **Act No. 31 of 1999 as amended**
 
-This compilation was prepared on 1 January 2006
+This compilation was prepared on 14 July 2005
 taking into account amendments up to Act No. 84 of 2005
 
 The text of any of those amendments not in force
@@ -19,521 +19,525 @@ Attorney-General’s Department, Canberra
 
 # Contents
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Simplified outline
+[3](#3).            Simplified outline                                                                                 1
 
-[4](#4).            Definitions
+[4](#4).            Definitions                                                                                           2
 
-[5](#5).            Act to bind Crown
+[5](#5).            Act to bind Crown                                                                               2
 
-[6](#6).            Duties of excise
+[6](#6).            Duties of excise                                                                                    2
 
-[7](#7).            Imposition of levy
+[7](#7).            Imposition of levy                                                                               2
 
-[8](#8).            Regulations
+[8](#8).            Regulations                                                                                          2
 
 **Schedule 1—Beef production**
 
-[1](#1).            Definitions
+[1](#1).            Definitions                                                                                           3
 
-[2](#2).            Imposition of levy
+[2](#2).            Imposition of levy                                                                               3
 
-[3](#3).            Rate of levy
+[3](#3).            Rate of levy                                                                                         4
 
-[4](#4).            Who pays the levy
+[4](#4).            Who pays the levy                                                                              5
 
-[5](#5).            Regulations
+[5](#5).            Regulations                                                                                          5
 
-[6](#6).            Transitional—regulations
+[6](#6).            Transitional—regulations                                                                    6
 
-[7](#7).            Transitional—declarations
+[7](#7).            Transitional—declarations                                                                   6
 
 **Schedule 2—Buffalo slaughter**
 
-[1](#1).            Imposition of levy
+[1](#1).            Imposition of levy                                                                               7
 
-[2](#2).            Rate of levy
+[2](#2).            Rate of levy                                                                                         7
 
-[3](#3).            Who pays the levy
+[3](#3).            Who pays the levy                                                                              7
 
-[4](#4).            Transitional—regulations
+[4](#4).            Transitional—regulations                                                                    7
 
 **Schedule 3—Cattle transactions**
 
-[1](#1).            Definitions
+[1](#1).            Definitions                                                                                           9
 
-[2](#2).            Intermediary
+[2](#2).            Intermediary                                                                                      10
 
-[3](#3).            Determining the weight of a carcase
+[3](#3).            Determining the weight of a carcase                                                  10
 
-[4](#4).            Related companies
+[4](#4).            Related companies                                                                             10
 
-[5](#5).            Imposition of levy
+[5](#5).            Imposition of levy                                                                             10
 
-[6](#6).            Rate of levy
+[6](#6).            Rate of levy                                                                                       12
 
-[7](#7).            Who pays the levy
+[7](#7).            Who pays the levy                                                                            14
 
-[8](#8).            Regulations
+[8](#8).            Regulations                                                                                        14
 
-[9](#9).            Transitional—regulations
+[9](#9).            Transitional—regulations                                                                  14
 
-[10](#10).          Transitional—declarations
+[10](#10).          Transitional—declarations                                                                 15
 
 **Schedule 4—Coarse grains**
 
-[1](#1).            Definitions
+[1](#1).            Definitions                                                                                         16
 
-[2](#2).            Delivery
+[2](#2).            Delivery                                                                                             17
 
-[3](#3).            Producer
+[3](#3).            Producer                                                                                             17
 
-[4](#4).            Application of regulations
+[4](#4).            Application of regulations                                                                 17
 
-[5](#5).            Imposition of levy
+[5](#5).            Imposition of levy                                                                             18
 
-[6](#6).            Rate of levy
+[6](#6).            Rate of levy                                                                                       19
 
-[7](#7).            Who pays the levy
+[7](#7).            Who pays the levy                                                                            19
 
-[8](#8).            Regulations
+[8](#8).            Regulations                                                                                        19
 
-[9](#9).            Transitional—regulations
+[9](#9).            Transitional—regulations                                                                  19
 
 **Schedule 5—Cotton**
 
-[1](#1).            Definitions
+[1](#1).            Definitions                                                                                         21
 
-[2](#2).            Imposition of levy
+[2](#2).            Imposition of levy                                                                             21
 
-[3](#3).            Rate of levy
+[3](#3).            Rate of levy                                                                                       21
 
-[4](#4).            Who pays the levy
+[4](#4).            Who pays the levy                                                                            21
 
-[5](#5).            Regulations
+[5](#5).            Regulations                                                                                        21
 
-[6](#6).            Transitional—regulations
+[6](#6).            Transitional—regulations                                                                  22
 
 **Schedule 6—Dairy produce**
 
-[1](#1).            Definitions
+[1](#1).            Definitions                                                                                         23
 
-[2](#2).            Persons taken to use dairy produce
+[2](#2).            Persons taken to use dairy produce                                                   24
 
-[3](#3).            Prescribed exporter
+[3](#3).            Prescribed exporter                                                                            24
 
-[4](#4).            Relevant export
+[4](#4).            Relevant export                                                                                  24
 
-[5](#5).            Related bodies corporate
+[5](#5).            Related bodies corporate                                                                   24
 
-[6](#6).            Imposition of levies
+[6](#6).            Imposition of levies                                                                           25
 
-[7](#7).            Rate of market milk levy
+[7](#7).            Rate of market milk levy                                                                   26
 
-[8](#8).            Rate of manufacturing milk levy
+[8](#8).            Rate of manufacturing milk levy                                                        27
 
-[9](#9).            Rate of acquisition offset levy
+[9](#9).            Rate of acquisition offset levy                                                           28
 
-[10](#10).          Rate of other levies on relevant dairy produce
+[10](#10).          Rate of other levies on relevant dairy produce                                  30
 
-[11](#11).          Milk fat rate
+[11](#11).          Milk fat rate                                                                                       30
 
-[12](#12).          Protein rate
+[12](#12).          Protein rate                                                                                        30
 
-[13](#13).          Who pays the levy
+[13](#13).          Who pays the levy                                                                            31
 
-[14](#14).          Regulations
+[14](#14).          Regulations                                                                                        31
 
-[15](#15).          Transitional—regulations
+[15](#15).          Transitional—regulations                                                                  31
 
 **Schedule 7—Deer slaughter**
 
-[1](#1).            Definitions
+[1](#1).            Definitions                                                                                         33
 
-[2](#2).            Imposition of levy
+[2](#2).            Imposition of levy                                                                             33
 
-[3](#3).            Rate of levy
+[3](#3).            Rate of levy                                                                                       33
 
-[4](#4).            Who pays the levy
+[4](#4).            Who pays the levy                                                                            34
 
-[5](#5).            Regulations
+[5](#5).            Regulations                                                                                        34
 
-[6](#6).            Transitional—regulations
+[6](#6).            Transitional—regulations                                                                  34
 
 **Schedule 8—Deer velvet**
 
-[1](#1).            Definitions
+[1](#1).            Definitions                                                                                         36
 
-[2](#2).            Imposition of levy—sale of deer velvet
+[2](#2).            Imposition of levy—sale of deer velvet                                            37
 
-[3](#3).            Imposition of levy—deer velvet used in producing other goods
+[3](#3).            Imposition of levy—deer velvet used in producing other goods       37
 
-[4](#4).            Rate of levy—sale of deer velvet
+[4](#4).            Rate of levy—sale of deer velvet                                                       37
 
-[5](#5).            Rate of levy—deer velvet used in producing other goods
+[5](#5).            Rate of levy—deer velvet used in producing other goods                 37
 
-[6](#6).            Who pays the levy
+[6](#6).            Who pays the levy                                                                            38
 
-[7](#7).            Regulations
+[7](#7).            Regulations                                                                                        38
 
-[8](#8).            Transitional—regulations
+[8](#8).            Transitional—regulations                                                                  39
 
-[9](#9).            Transitional—determinations
+[9](#9).            Transitional—determinations                                                            39
 
-[10](#10).          Transitional—delegations
+[10](#10).          Transitional—delegations                                                                  39
 
 **Schedule 9—Dried fruits**
 
-[1](#1).            Definitions
+[1](#1).            Definitions                                                                                         40
 
-[2](#2).            Receipt of dried fruits for processing
+[2](#2).            Receipt of dried fruits for processing                                                40
 
-[3](#3).            Imposition of levy
+[3](#3).            Imposition of levy                                                                             41
 
-[4](#4).            Rate of levy
+[4](#4).            Rate of levy                                                                                       41
 
-[5](#5).            Who pays the levy
+[5](#5).            Who pays the levy                                                                            41
 
-[6](#6).            Regulations
+[6](#6).            Regulations                                                                                        41
 
-[7](#7).            Transitional—regulations
+[7](#7).            Transitional—regulations                                                                  41
 
 **Schedule 10—Forest industries products**
 
-[1](#1).            Definitions
+[1](#1).            Definitions                                                                                         43
 
-[2](#2).            Imposition of levy
+[2](#2).            Imposition of levy                                                                             43
 
-[3](#3).            Rate of levy
+[3](#3).            Rate of levy                                                                                       44
 
-[4](#4).            Who pays the levy
+[4](#4).            Who pays the levy                                                                            44
 
-[5](#5).            Regulations
+[5](#5).            Regulations                                                                                        45
 
-[6](#6).            Transitional—regulations
+[6](#6).            Transitional—regulations                                                                  45
 
 **Schedule 11—Goat fibre**
 
-[1](#1).            Definitions
+[1](#1).            Definitions                                                                                         46
 
-[2](#2).            Imposition of levy
+[2](#2).            Imposition of levy                                                                             46
 
-[3](#3).            Rate of levy
+[3](#3).            Rate of levy                                                                                       47
 
-[4](#4).            Who pays the levy
+[4](#4).            Who pays the levy                                                                            47
 
-[5](#5).            Regulations
+[5](#5).            Regulations                                                                                        47
 
-[6](#6).            Transitional—regulations
+[6](#6).            Transitional—regulations                                                                  48
 
-[7](#7).            Transitional—determinations
+[7](#7).            Transitional—determinations                                                            48
 
 **Schedule 12—Grain legumes**
 
-[1](#1).            Definitions
+[1](#1).            Definitions                                                                                         49
 
-[2](#2).            Delivery
+[2](#2).            Delivery                                                                                             49
 
-[3](#3).            Producer
+[3](#3).            Producer                                                                                             50
 
-[4](#4).            Application of regulations
+[4](#4).            Application of regulations                                                                 50
 
-[5](#5).            Imposition of levy
+[5](#5).            Imposition of levy                                                                             50
 
-[6](#6).            Rate of levy
+[6](#6).            Rate of levy                                                                                       52
 
-[7](#7).            Who pays the levy
+[7](#7).            Who pays the levy                                                                            52
 
-[8](#8).            Regulations
+[8](#8).            Regulations                                                                                        52
 
-[9](#9).            Transitional—regulations
+[9](#9).            Transitional—regulations                                                                  52
 
 **Schedule 13—Grapes**
 
-[1](#1).            Definitions
+[1](#1).            Definitions                                                                                         53
 
-[2](#2).            Quantity of fresh grapes equivalent to a quantity of other prescribed goods
+[2](#2).            Quantity of fresh grapes equivalent to a quantity of other prescribed goods         53
 
-[3](#3).            Processing establishments
+[3](#3).            Processing establishments                                                                 54
 
-[4](#4).            Imposition of levy
+[4](#4).            Imposition of levy                                                                             54
 
-[5](#5).            Rate of levy
+[5](#5).            Rate of levy                                                                                       55
 
-[6](#6).            Who pays the levy
+[6](#6).            Who pays the levy                                                                            55
 
-[7](#7).            Regulations
+[7](#7).            Regulations                                                                                        55
 
-[8](#8).            Transitional—regulations
+[8](#8).            Transitional—regulations                                                                  55
 
 **Schedule 14—Honey**
 
-[1](#1).            Definitions
+[1](#1).            Definitions                                                                                         57
 
-[2](#2).            Imposition of levy—sale of honey
+[2](#2).            Imposition of levy—sale of honey                                                    57
 
-[3](#3).            Imposition of levy—use of honey in the production of other goods
+[3](#3).            Imposition of levy—use of honey in the production of other goods 58
 
-[4](#4).            Rate of levy
+[4](#4).            Rate of levy                                                                                       59
 
-[5](#5).            Who pays the levy
+[5](#5).            Who pays the levy                                                                            59
 
-[6](#6).            Regulations
+[6](#6).            Regulations                                                                                        60
 
-[7](#7).            Transitional—regulations (sale)
+[7](#7).            Transitional—regulations (sale)                                                         60
 
-[8](#8).            Transitional—regulations (use)
+[8](#8).            Transitional—regulations (use)                                                         60
 
 **Schedule 15—Horticultural products**
 
-[1](#1).            Definitions
+[1](#1).            Definitions                                                                                         62
 
-[2](#2).            Imposition of levy
+[2](#2).            Imposition of levy                                                                             62
 
-[3](#3).            Rate of levy
+[3](#3).            Rate of levy                                                                                       63
 
-[4](#4).            Rates of levy destined for particular bodies etc 
+[4](#4).            Rates of levy destined for particular bodies etc                                64
 
-[5](#5).            Who pays the levy
+[5](#5).            Who pays the levy                                                                            64
 
-[6](#6).            Regulations
+[6](#6).            Regulations                                                                                        65
 
-[7](#7).            Transitional—regulations
+[7](#7).            Transitional—regulations                                                                  66
 
 **Schedule 16—Laying chickens**
 
-[1](#1).            Definitions
+[1](#1).            Definitions                                                                                         68
 
-[2](#2).            Number of chickens not exceeding 106 may be taken to be 100 chickens
+[2](#2).            Number of chickens not exceeding 106 may be taken to be 100 chickens               68
 
-[3](#3).            Imposition of levy
+[3](#3).            Imposition of levy                                                                             68
 
-[4](#4).            Rate of levy
+[4](#4).            Rate of levy                                                                                       69
 
-[5](#5).            Who pays the levy
+[5](#5).            Who pays the levy                                                                            69
 
-[6](#6).            Regulations
+[6](#6).            Regulations                                                                                        69
 
-[7](#7).            Transitional—regulations
+[7](#7).            Transitional—regulations                                                                  69
 
-[8](#8).            Transitional—declarations
+[8](#8).            Transitional—declarations                                                                 70
 
 **Schedule 17—Live-stock slaughter**
 
-[1](#1).            Definitions
+[1](#1).            Definitions                                                                                         71
 
-[2](#2).            Imposition of levy
+[2](#2).            Imposition of levy                                                                             71
 
-[3](#3).            Rate of levy
+[3](#3).            Rate of levy                                                                                       72
 
-[4](#4).            Who pays the levy
+[4](#4).            Who pays the levy                                                                            73
 
-[5](#5).            Regulations
+[5](#5).            Regulations                                                                                        73
 
-[6](#6).            Transitional—regulations
+[6](#6).            Transitional—regulations                                                                  73
 
-[7](#7).            Transitional—declarations
+[7](#7).            Transitional—declarations                                                                 73
 
 **Schedule 18—Live-stock transactions**
 
-[1](#1).            Definitions
+[1](#1).            Definitions                                                                                         75
 
-[2](#2).            Related companies
+[2](#2).            Related companies                                                                             75
 
-[3](#3).            Imposition of levy
+[3](#3).            Imposition of levy                                                                             75
 
-[4](#4).            Rate of levy
+[4](#4).            Rate of levy                                                                                       77
 
-[5](#5).            Who pays the levy
+[5](#5).            Who pays the levy                                                                            78
 
-[6](#6).            Regulations
+[6](#6).            Regulations                                                                                        78
 
-[8](#8).            Transitional—regulations
+[8](#8).            Transitional—regulations                                                                  79
 
-[9](#9).            Transitional—declarations
+[9](#9).            Transitional—declarations                                                                 79
 
 **Schedule 19—Meat chickens**
 
-[1](#1).            Definitions
+[1](#1).            Definitions                                                                                         80
 
-[2](#2).            Imposition of levy
+[2](#2).            Imposition of levy                                                                             80
 
-[3](#3).            Rate of levy
+[3](#3).            Rate of levy                                                                                       81
 
-[4](#4).            Who pays the levy
+[4](#4).            Who pays the levy                                                                            81
 
-[5](#5).            Regulations
+[5](#5).            Regulations                                                                                        81
 
-[6](#6).            Transitional—regulations
+[6](#6).            Transitional—regulations                                                                  82
 
-[7](#7).            Transitional—declarations
+[7](#7).            Transitional—declarations                                                                 82
 
 **Schedule 20—Oilseeds**
 
-[1](#1).            Definitions
+[1](#1).            Definitions                                                                                         83
 
-[2](#2).            Levy year
+[2](#2).            Levy year                                                                                           83
 
-[3](#3).            Delivery
+[3](#3).            Delivery                                                                                             83
 
-[4](#4).            Producer
+[4](#4).            Producer                                                                                             84
 
-[5](#5).            Application of regulations
+[5](#5).            Application of regulations                                                                 84
 
-[6](#6).            Imposition of levy
+[6](#6).            Imposition of levy                                                                             84
 
-[7](#7).            Rate of levy
+[7](#7).            Rate of levy                                                                                       86
 
-[8](#8).            Who pays the levy
+[8](#8).            Who pays the levy                                                                            86
 
-[9](#9).            Regulations
+[9](#9).            Regulations                                                                                        86
 
-[10](#10).          Transitional—regulations
+[10](#10).          Transitional—regulations                                                                  86
 
 **Schedule 21—Pasture seeds**
 
-[1](#1).            Definitions
+[1](#1).            Definitions                                                                                         87
 
-[2](#2).            Imposition of levy
+[2](#2).            Imposition of levy                                                                             87
 
-[3](#3).            Rate of levy
+[3](#3).            Rate of levy                                                                                       87
 
-[4](#4).            Who pays the levy
+[4](#4).            Who pays the levy                                                                            87
 
-[5](#5).            Pasture seed species
+[5](#5).            Pasture seed species                                                                          87
 
-[6](#6).            Transitional—instruments
+[6](#6).            Transitional—instruments                                                                 89
 
 **Schedule 22—Pig slaughter**
 
-[1](#1).            Definitions
+[1](#1).            Definitions                                                                                         91
 
-[2](#2).            Imposition of levy
+[2](#2).            Imposition of levy                                                                             91
 
-[3](#3).            Rate of levy
+[3](#3).            Rate of levy                                                                                       91
 
-[4](#4).            Who pays the levy
+[4](#4).            Who pays the levy                                                                            91
 
-[5](#5).            Regulations
+[5](#5).            Regulations                                                                                        92
 
-[6](#6).            Transitional—regulations
+[6](#6).            Transitional—regulations                                                                  92
 
-[7](#7).            Transitional—declarations
+[7](#7).            Transitional—declarations                                                                 93
 
 **Schedule 23—Rice**
 
-[1](#1).            Definitions
+[1](#1).            Definitions                                                                                         94
 
-[2](#2).            Imposition of levy
+[2](#2).            Imposition of levy                                                                             94
 
-[3](#3).            Rate of levy
+[3](#3).            Rate of levy                                                                                       95
 
-[4](#4).            Who pays the levy
+[4](#4).            Who pays the levy                                                                            96
 
-[6](#6).            Regulations
+[5](#5).            Leviable rice varieties                                                                         96
 
-[7](#7).            Transitional—regulations
+[6](#6).            Regulations                                                                                        97
 
-[9](#9).            Transitional—authorisations
+[7](#7).            Transitional—regulations                                                                  97
+
+[8](#8).            Transitional—instruments                                                                 97
+
+[9](#9).            Transitional—authorisations                                                             98
 
 **Schedule 24—Sugar cane**
 
-[1](#1).            Definitions
+[1](#1).            Definitions                                                                                         99
 
-[2](#2).            Grower
+[2](#2).            Grower                                                                                               99
 
-[3](#3).            Imposition of levy
+[3](#3).            Imposition of levy                                                                             99
 
-[4](#4).            Rate of levy
+[4](#4).            Rate of levy                                                                                       99
 
-[5](#5).            Who pays the levy
+[5](#5).            Who pays the levy                                                                          100
 
-[6](#6).            Regulations
+[6](#6).            Regulations                                                                                      100
 
-[7](#7).            Transitional—regulations
+[7](#7).            Transitional—regulations                                                                100
 
 **Schedule 25—Wheat**
 
-[1](#1).            Definitions
+[1](#1).            Definitions                                                                                       101
 
-[2](#2).            Delivery
+[2](#2).            Delivery                                                                                           101
 
-[3](#3).            Producer
+[3](#3).            Producer                                                                                           101
 
-[4](#4).            Imposition of levy
+[4](#4).            Imposition of levy                                                                           101
 
-[5](#5).            Rate of levy
+[5](#5).            Rate of levy                                                                                     102
 
-[6](#6).            Who pays the levy
+[6](#6).            Who pays the levy                                                                          102
 
-[7](#7).            Regulations
+[7](#7).            Regulations                                                                                      102
 
-[8](#8).            Transitional—regulations
+[8](#8).            Transitional—regulations                                                                102
 
 **Schedule 26—Wine grapes**
 
-[1](#1).            Definitions
+[1](#1).            Definitions                                                                                       104
 
-[2](#2).            Use of prescribed goods in manufacture of wine
+[2](#2).            Use of prescribed goods in manufacture of wine                             105
 
-[3](#3).            Day on which prescribed goods used in manufacture of wine
+[3](#3).            Day on which prescribed goods used in manufacture of wine        105
 
-[4](#4).            Quantity of fresh grapes equivalent to quantity of other prescribed goods
+[4](#4).            Quantity of fresh grapes equivalent to quantity of other prescribed goods            105
 
-[5](#5).            Wineries
+[5](#5).            Wineries                                                                                           106
 
-[6](#6).            Imposition of levy
+[6](#6).            Imposition of levy                                                                           106
 
-[7](#7).            Rate of levy
+[7](#7).            Rate of levy                                                                                     106
 
-[8](#8).            Who pays the levy
+[8](#8).            Who pays the levy                                                                          107
 
-[9](#9).            Regulations
+[9](#9).            Regulations                                                                                      107
 
-[10](#10).          Transitional—regulations
+[10](#10).          Transitional—regulations                                                                107
 
-[11](#11).          Transitional—determinations
+[11](#11).          Transitional—determinations                                                          108
 
 **Schedule 27—Regulations may impose primary industries levies** 
 
 **Part 1—Definitions**
 
-[1](#1).            Definitions
+[1](#1).            Definitions                                                                                       109
 
 **Part 2—Regulations may impose levies on primary industry products**
 
-[2](#2).            Imposition of levy
+[2](#2).            Imposition of levy                                                                           111
 
-[3](#3).            Imposition of 2 or more levies
+[3](#3).            Imposition of 2 or more levies                                                         111
 
-[4](#4).            This Part does not authorise imposition of National Residue Survey Levy
+[4](#4).            This Part does not authorise imposition of National Residue Survey Levy           111
 
-[5](#5).            Additional levies
+[5](#5).            Additional levies                                                                              111
 
 **Part 3—Rate of levy**
 
-[6](#6).            Rate of levy
+[6](#6).            Rate of levy                                                                                     112
 
-[7](#7).            Composite rate of levy
+[7](#7).            Composite rate of levy                                                                    112
 
-[8](#8).            Flexibility in relation to rates of levy
+[8](#8).            Flexibility in relation to rates of levy                                              112
 
-[9](#9).            Maximum rate of levy for animal products
+[9](#9).            Maximum rate of levy for animal products                                     112
 
-[10](#10).          Maximum rate of levy for plant products
+[10](#10).          Maximum rate of levy for plant products                                       113
 
 **Part 4—Miscellaneous**
 
-[11](#11).          Person liable to pay levy
+[11](#11).          Person liable to pay levy                                                                 114
 
-[12](#12).          Exemptions from levy
+[12](#12).          Exemptions from levy                                                                     114
 
-[13](#13).          Designated bodies
+[13](#13).          Designated bodies                                                                            114
 
-[14](#14).          Regulations
+[14](#14).          Regulations                                                                                      114
 
 **Notes** 
 
@@ -1077,7 +1081,7 @@ a reference in this Schedule to the **_producer_** is, in relation to the grain,
 
 does not include a reference to any grain of the kind or kinds prescribed by that regulation that was delivered or processed, as the case may be, before the date of commencement of that regulation.
 
-##### <a id="5"></a>5  Imposition of levy
+##### <a id="5"></a>5  Imposition of levy
 
              (1)  Levy is imposed on leviable coarse grain produced in Australia (whether before or after the commencement of this clause) if the producer of the grain:
 
@@ -1265,7 +1269,7 @@ the Minister must take into consideration any relevant recommendation made to th
 
                      (b)  a levy to be known as the manufacturing milk levy is imposed on relevant dairy produce:
 
-                              (i)  delivered to a manufacturer by the producer during a month ending after 30 June 1999 and before 1 July 2000; or
+                              (i)  delivered to a manufacturer by the producer during a month ending after 30 June 1999 and before 1  July 2000; or
 
                              (ii)  produced by a manufacturer and used by the manufacturer, during a month ending after 30 June 1999 and before 1 July 2000, in the manufacture of dairy produce;
 
@@ -3057,7 +3061,7 @@ the Minister must take into consideration any relevant recommendation made to th
 
                     <a name="leviabl-seed"></a>**_leviable seed_** means seed of a plant of a species specified in the table in subclause 5(1).
 
-##### <a id="2"></a>2  Imposition of levy
+##### <a id="2"></a>2  Imposition of levy
 
                    Levy is imposed on leviable seed:
 
@@ -3548,7 +3552,11 @@ Note 3:       Paragraph (c) identifies amounts that, under the _Au
 
                    In this Schedule:
 
-                    <a name="leviabl-rice"></a>**_leviable rice_** means rice of a variety that is specified by the regulations as leviable rice for the purposes of this Schedule.
+                    <a name="leviabl-rice"></a>**_leviable rice_** means rice of a variety that is:
+
+                     (a)  specified in the table in clause 5; or
+
+                     (b)  prescribed by the regulations as leviable rice for the purposes of this Schedule.
 
                     <a name="rice-industri-bodi"></a>**_rice industry body_** means:
 
@@ -3588,11 +3596,11 @@ Note 3:       Paragraph (c) identifies amounts that, under the _Au
 
 ##### <a id="3"></a>3  Rate of levy
 
-             (1)  The rate of levy imposed by this Schedule is the amount per tonne specified by the regulations for the purposes of this subclause. This subclause has effect subject to subclause (7).
+             (1)  The rate of levy imposed by this Schedule is the amount per tonne specified by the Minister by instrument published in the _Gazette_. This subclause has effect subject to subclause (7).
 
-             (2)  The regulations must not specify a rate of levy that exceeds $3.00 per tonne.
+             (2)  The instrument must not specify a rate of levy that exceeds $2.00 per tonne.
 
-             (3)  The regulations may specify:
+             (3)  The instrument may specify:
 
                      (a)  different rates for different varieties of rice; and
 
@@ -3600,15 +3608,15 @@ Note 3:       Paragraph (c) identifies amounts that, under the _Au
 
              (4)  Subclause (3) does not, by implication, limit the application of subsection 33(3A) of the _Acts Interpretation Act 1901_. 
 
-             (5)  The regulations must not specify a rate of levy imposed by this Schedule for a variety of rice that is harvested in a State that has a State marketing authority unless the rate is recommended to the Minister by the State marketing authority for the State.
+             (5)  The Minister must not specify a rate of levy imposed by this Schedule for a variety of rice that is harvested in a State that has a State marketing authority unless the rate is recommended by the State marketing authority for the State.
 
              (6)  If a variety of rice is harvested in 2 or more States each of which has a State marketing authority, the State marketing authorities for those States must, for the purposes of subclause (5), make a joint recommendation as to the rate of levy for that variety.
 
              (7)  If:
 
-                     (a)  the regulations have specified a rate of levy imposed by this Schedule for a variety of rice harvested in a particular season; and
+                     (a)  the Minister has specified a rate of levy imposed by this Schedule for a variety of rice harvested in a particular season; and
 
-                     (b)  the regulations have not later specified another rate of levy imposed by this Schedule for that variety;
+                     (b)  the Minister has not later specified another rate of levy imposed by this Schedule for that variety;
 
 the rate of levy imposed by this Schedule for rice of that variety harvested in a later season is the rate referred to in paragraph (a).
 
@@ -3618,9 +3626,293 @@ the rate of levy imposed by this Schedule for rice of that variety harvested in 
 
                      (b)  who is authorised by the authority to make a recommendation on behalf of the authority under this clause.
 
+             (9)  An instrument under subclause (1) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
+
 ##### <a id="4"></a>4  Who pays the levy
 
                    Levy imposed by this Schedule on leviable rice is payable by the producer of the rice.
+
+##### <a id="5"></a>5  Leviable rice varieties
+
+                   The following table sets out leviable rice varieties for the purposes of the definition of **_leviable rice_** in clause 1:
+
+<table>
+<colgroup>
+  <col width="12%">
+  <col width="88%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="2">
+      <div>
+        <b>Leviable rice</b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>Item</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>Leviable rice varieties</b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>
+      <div>1</div>
+    </td>
+    <td>
+      <div>Oryza sativa L. cv. Amaroo</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>2</div>
+    </td>
+    <td>
+      <div>Oryza sativa L. cv. Bogan</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>3</div>
+    </td>
+    <td>
+      <div>Oryza sativa L. cv. Echuca</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>4</div>
+    </td>
+    <td>
+      <div>Oryza sativa L. cv. Bahia</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>5</div>
+    </td>
+    <td>
+      <div>Oryza sativa L. cv. Calrose</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>6</div>
+    </td>
+    <td>
+      <div>Oryza sativa L. cv. YRB 1</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>7</div>
+    </td>
+    <td>
+      <div>Oryza sativa L. cv. Pelde</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>8</div>
+    </td>
+    <td>
+      <div>Oryza sativa L. cv. Doongara</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>9</div>
+    </td>
+    <td>
+      <div>Oryza sativa L. cv. Goolarah</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>10</div>
+    </td>
+    <td>
+      <div>Oryza sativa L. cv. Blue Bonnet 50</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>11</div>
+    </td>
+    <td>
+      <div>Oryza sativa L. cv. Star Bonnet</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>12</div>
+    </td>
+    <td>
+      <div>Oryza sativa L. cv. Lemont</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>13</div>
+    </td>
+    <td>
+      <div>Oryza sativa L. cv. Fin</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>14</div>
+    </td>
+    <td>
+      <div>Oryza sativa L. cv. Harra</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>15</div>
+    </td>
+    <td>
+      <div>Oryza sativa L. cv. Illabong</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>16</div>
+    </td>
+    <td>
+      <div>Oryza sativa L. cv. Jarrah</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>17</div>
+    </td>
+    <td>
+      <div>Oryza sativa L. cv. Koshihikari</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>18</div>
+    </td>
+    <td>
+      <div>Oryza sativa L. cv. Kyeema</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>19</div>
+    </td>
+    <td>
+      <div>Oryza sativa L. cv. Langi</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>20</div>
+    </td>
+    <td>
+      <div>Oryza sativa L. cv. Millin</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>21</div>
+    </td>
+    <td>
+      <div>Oryza sativa L. cv. Namaga</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>22</div>
+    </td>
+    <td>
+      <div>Oryza sativa L. cv. YK 4</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>23</div>
+    </td>
+    <td>
+      <div>Oryza sativa L. cv. YRF 9</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>24</div>
+    </td>
+    <td>
+      <div>Oryza sativa L. cv. YRF 10</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>25</div>
+    </td>
+    <td>
+      <div>Oryza sativa L. cv. YRF 203</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>26</div>
+    </td>
+    <td>
+      <div>Oryza sativa L. cv. YRL 34</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>27</div>
+    </td>
+    <td>
+      <div>Oryza sativa L. cv. YRL 37</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>28</div>
+    </td>
+    <td>
+      <div>Oryza sativa L. cv. YRM 34</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>29</div>
+    </td>
+    <td>
+      <div>Oryza sativa L. cv. YRM 39</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>30</div>
+    </td>
+    <td>
+      <div>Oryza sativa L. cv. YRM 41</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>31</div>
+    </td>
+    <td>
+      <div>Oryza sativa L. cv. YRW 4</div>
+    </td>
+  </tr>
+</tbody></table>
 
 ##### <a id="6"></a>6  Regulations
 
@@ -3635,6 +3927,16 @@ the rate of levy imposed by this Schedule for rice of that variety harvested in 
                      (b)  the regulations were in force immediately before the commencement of this clause.
 
              (2)  The regulations have effect, after the commencement of this clause, as if they had been made for the purposes of the corresponding provision of this Schedule.
+
+##### <a id="8"></a>8  Transitional—instruments
+
+             (1)  This clause applies to an instrument (other than regulations) if:
+
+                     (a)  the instrument was made for the purposes of a particular provision of the _Rice Levy Act 1991_; and
+
+                     (b)  the instrument was in force immediately before the commencement of this clause.
+
+             (2)  The instrument has effect, after the commencement of this clause, as if it had been made for the purposes of the corresponding provision of this Schedule.
 
 ##### <a id="9"></a>9  Transitional—authorisations
 
@@ -4324,7 +4626,7 @@ Remainder: Royal Assent
       <div>6 July 2005</div>
     </td>
     <td>
-      <div>Schedule 1: 1 Jan 2006 ( <i>see</i>F2005L03468) 
+      <div>Schedule 1: \[ <i>see</i>Note 2 and Table A] 
 Remainder: Royal Assent 
 </div>
     </td>
@@ -4889,46 +5191,6 @@ _(e)_     Subsection 2(1) (item 2) of the _Egg Industry Service Provis
   </tr>
   <tr>
     <td>
-      <div><b>Schedule 23</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>C. 1</div>
-    </td>
-    <td>
-      <div>am. No. 84, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>C. 3</div>
-    </td>
-    <td>
-      <div>am. No. 84, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>C. 5</div>
-    </td>
-    <td>
-      <div>rep. No. 84, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>C. 8</div>
-    </td>
-    <td>
-      <div>rep. No. 84, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
       <div><b>Schedule 26</b></div>
     </td>
     <td>
@@ -4960,6 +5222,59 @@ _(e)_     Subsection 2(1) (item 2) of the _Egg Industry Service Provis
     </td>
   </tr>
 </tbody></table>
+
+
+### Note 2
+
+_Primary Industries (Excise) Levies Amendment (Rice) Act 2005 (No. 84, 2005)_
+
+The following amendments commence on 6 January 2006 unless proclaimed earlier:
+
+## Schedule 1
+
+## 1  Clause 1 of Schedule 23 (definition of _leviable rice_)
+
+Repeal the definition, substitute:
+
+                    <a name="leviabl-rice"></a>**_leviable rice_** means rice of a variety that is specified by the regulations as leviable rice for the purposes of this Schedule.
+
+## 2  Subclause 3(1) of Schedule 23
+
+Omit all the words from and including “specified by” to and including “the _Gazette_”, substitute “specified by the regulations for the purposes of this subclause”.
+
+## 3  Subclause 3(2) of Schedule 23
+
+Omit “instrument”, substitute “regulations”.
+
+## 4  Subclause 3(2) of Schedule 23
+
+Omit “$2.00”, substitute “$3.00”.
+
+## 5  Subclause 3(3) of Schedule 23
+
+Omit “instrument”, substitute “regulations”.
+
+## 6  Subclause 3(5) of Schedule 23
+
+Omit “Minister”, substitute “regulations”.
+
+## 7  Subclause 3(5) of Schedule 23
+
+After “rate is recommended”, insert “to the Minister”.
+
+## 8  Subclause 3(7) of Schedule 23
+
+Omit “Minister has” (wherever occurring), substitute “regulations have”.
+
+## 9  Subclause 3(9) of Schedule 23
+
+Repeal the subclause.
+
+## 10  Clauses 5 and 8 of Schedule 23
+
+Repeal the clauses.
+
+As at 14 July 2005 the amendments are not incorporated in this compilation.
 
 
 ## Table A
@@ -5023,6 +5338,8 @@ If a determination under subsection 20(1) of the _Financial Management and Accou
  </div>
 
 _Primary Industries (Excise) Levies Amendment (Rice) Act 2005 (No. 84, 2005)_
+
+The following provision commences on 6 January 2006 unless proclaimed earlier:
 
 ## Schedule 1
 
