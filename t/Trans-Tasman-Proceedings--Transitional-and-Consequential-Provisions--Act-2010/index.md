@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00751/Html/450ac3fb-1bbc-458a-a954-d1d364fdd0f6_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00631/Html/a4aafd61-daa2-4632-954b-ccbb70791762_files/image001.gif)
 
 # Trans‑Tasman Proceedings (Transitional and Consequential Provisions) Act 2010
 
 **Act No. 36 of 2010 as amended**
 
-This compilation was prepared on 25 October 2012
- taking into account amendments up to Act No. 136 of 2012
+This compilation was prepared on 8 August 2011
+ taking into account amendments up to Act No. 64 of 2011
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -43,11 +44,11 @@ Defence Force Discipline Act 1982               �
 
 Family Law Act 1975                                                                                                10
 
-Federal Magistrates Act 1999                                                                                11
+Federal Magistrates Act 1999                                                                                10
 
 Foreign Judgments Act 1991                                                                                  11
 
-Law and Justice Legislation Amendment (Identity Crimes and Other Measures) Act 2010              12
+Law and Justice Legislation Amendment (Identity Crimes and Other Measures) Act 2010              11
 
 Service and Execution of Process Act 1992                                                         12
 
@@ -158,15 +159,15 @@ Trans‑Tasman Proceedings Act 2010               
   <td>
     <div>Immediately after the commencement of item 22 of Schedule 2 to the
       <i>Law and Justice Legislation Amendment (Identity Crimes and Other Measures)
-        Act 2011</i>.</div>
+        Act 2010</i>.</div>
     <div>However, the provision(s) do not commence at all if item 22 of Schedule 2
       to the
       <i>Law and Justice Legislation Amendment (Identity Crimes and Other Measures)
-        Act 2011</i>commences before the commencement of the provision(s) covered
+        Act 2010</i>commences before the commencement of the provision(s) covered
       by table item 3.</div>
   </td>
   <td>
-    <div>Does not commence</div>
+    <div> </div>
   </td>
 </tr>
 <tr>
@@ -191,7 +192,7 @@ Trans‑Tasman Proceedings Act 2010               
       table item 3; and</div>
     <div>(b) immediately after the commencement of item 22 of Schedule 2 to the
       <i>Law and Justice Legislation Amendment (Identity Crimes and Other Measures)
-        Act 2011</i>.</div>
+        Act 2010</i>.</div>
     <div>However, the provision(s) do not commence at all if the event mentioned
       in paragraph (b) does not occur.</div>
   </td>
@@ -217,6 +218,8 @@ Note:          This table relates only to the provisions of th
                     <a name="tran-tasman-act"></a>**_Trans‑Tasman Act_** means the _Trans‑Tasman Proceedings Act 2010_.
 
              (2)  In this Act, expressions that are defined in the Trans‑Tasman Act have the same meanings as they have in that Act.
+
+ 
 
 ###### Schedule 1—Application of the Trans‑Tasman Act
 
@@ -398,7 +401,7 @@ Note:          See Part 6 of the _Trans‑Tasman Proceedings
 
 Omit “the _Evidence and Procedure (New Zealand) Act 1994_”, substitute “the _Trans‑Tasman Proceedings Act 2010_”.
 
-<h9 class="ActHead9" style="page-break-after:avoid">Federal Magistrates Act 1999</h9>
+<h9 class="ActHead9">Federal Magistrates Act 1999</h9>
 
 ## 17  Subsection 66(5) (note)
 
@@ -534,28 +537,11 @@ of Assent</div>
     <div>29 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (item 12): \[ <i>see (a)</i>and Note 2] 
+    <div>Schedule 2 (item 12): \[ <i>see (a)</i>and Note 2] 
 Schedule 3: 30 June 2011</div>
   </td>
   <td>
     <div>Sch. 3</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2012</div>
-  </td>
-  <td>
-    <div>136, 2012</div>
-  </td>
-  <td>
-    <div>22 Sept 2012</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 44): 2 Mar 2011 ( <i>see</i>s. 2(1))</div>
-  </td>
-  <td>
-    <div>—</div>
   </td>
 </tr></table>
 
@@ -647,38 +633,6 @@ _(a)_ Subsection 2(1) (item 2) of the _Trans‑Tasman Proceedings Amendment an
   </td>
 </tr></table>
 
-## Table of Amendments
-
-<table>
-<colgroup>
-  <col width="32%">
-  <col width="68%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>S. 2</div>
-  </td>
-  <td>
-    <div>am. No. 136, 2012</div>
-  </td>
-</tr></table>
-
 ### Note 2
 
 _Trans‑Tasman Proceedings Amendment and Other Measures Act 2011
@@ -698,7 +652,7 @@ applies to an application made under that Part on or after commencement by a def
 
                             (b)   was commenced in an Australian court before commencement, but only if an initiating document for the proceeding was served on the defendant in New Zealand after commencement under Part 2 of that Act.
 
-As at 25 October 2012 the amendment is not incorporated in this compilation.
+As at 8 August 2011 the amendment is not incorporated in this compilation.
 
 ## Table A
 
