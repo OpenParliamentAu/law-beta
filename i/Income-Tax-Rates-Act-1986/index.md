@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2010C00555/Html/IncomeTaxRates1986_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00427/Html/IncomeTaxRates1986_WD02_image001.gif)
 
 # Income Tax Rates Act 1986
 
 **Act No. 107 of 1986 as amended**
 
-This compilation was prepared on 3 August 2010
+This compilation was prepared on 1 July 2010
  taking into account amendments up to Act No. 14 of 2009
 
 The text of any of those amendments not in force
@@ -348,7 +348,7 @@ being compensation or a pension, allowance or benefit in respect of which the pe
 
              (7)  The rate of further tax payable by a person under subsection 94(9) of the Assessment Act is:
 
-                     (a)  in respect of the part of the taxable income of the person that is the relevant part of that taxable income for the purposes of subsections 94(10A) and (10B) of the Assessment Act—the amount (if any) per dollar ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2010C00555/Html/IncomeTaxRates1986_WD02_image002.gif) where:
+                     (a)  in respect of the part of the taxable income of the person that is the relevant part of that taxable income for the purposes of subsections 94(10A) and (10B) of the Assessment Act—the amount (if any) per dollar ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2010C00427/Html/IncomeTaxRates1986_WD02_image002.gif) where:
 
 **_A_**   is an amount equal to 45% of the taxable income of the person;
 
@@ -356,7 +356,7 @@ being compensation or a pension, allowance or benefit in respect of which the pe
 
 **_C_**   is the number of whole dollars in the taxable income of the person; and
 
-                     (b)  in respect of the part of the taxable income of the person that is the prescribed part of that taxable income for the purposes of subsection 94(10B) of the Assessment Act—the amount (if any) per dollar ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2010C00555/Html/IncomeTaxRates1986_WD02_image002.gif) where:
+                     (b)  in respect of the part of the taxable income of the person that is the prescribed part of that taxable income for the purposes of subsection 94(10B) of the Assessment Act—the amount (if any) per dollar ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2010C00427/Html/IncomeTaxRates1986_WD02_image002.gif) where:
 
 **_A_**   is an amount equal to 45% of the taxable income of the person;
 
@@ -372,7 +372,7 @@ being compensation or a pension, allowance or benefit in respect of which the pe
 
              (8)  The rate of further tax payable by a trustee under subsection 94(11) or (12) of the Assessment Act is:
 
-                     (a)  in respect of the part of the net income of the trust estate that is the relevant part of that net income for the purposes of subsections 94(12A) and (12B) of the Assessment Act—the amount (if any) per dollar ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2010C00555/Html/IncomeTaxRates1986_WD02_image002.gif) where:
+                     (a)  in respect of the part of the net income of the trust estate that is the relevant part of that net income for the purposes of subsections 94(12A) and (12B) of the Assessment Act—the amount (if any) per dollar ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2010C00427/Html/IncomeTaxRates1986_WD02_image002.gif) where:
 
 **_A_**   is an amount equal to 45% of the net income of the trust estate in respect of which the trustee is liable to be assessed and to pay tax under section 98 or 99 of the Assessment Act;
 
@@ -380,7 +380,7 @@ being compensation or a pension, allowance or benefit in respect of which the pe
 
 **_C_**   is the number of whole dollars in that net income; and
 
-                     (b)  in respect of the part of the net income of the trust estate that is the prescribed part of that net income for the purposes of subsection 94(12B) of the Assessment Act—the amount (if any) per dollar ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2010C00555/Html/IncomeTaxRates1986_WD02_image002.gif) where:
+                     (b)  in respect of the part of the net income of the trust estate that is the prescribed part of that net income for the purposes of subsection 94(12B) of the Assessment Act—the amount (if any) per dollar ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2010C00427/Html/IncomeTaxRates1986_WD02_image002.gif) where:
 
 **_A_**   is an amount equal to 45% of the net income of the trust estate in respect of which the trustee is liable to be assessed and to pay tax under section 98 or 99 of the Assessment Act;
 
@@ -396,7 +396,7 @@ being compensation or a pension, allowance or benefit in respect of which the pe
 
              (2)  The rate is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00555/Html/IncomeTaxRates1986_WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00427/Html/IncomeTaxRates1986_WD02_image003.gif)
 
 Rate if taxable income is less than tax-free threshold adjusted by family tax assistance
 
@@ -660,7 +660,7 @@ being compensation or a pension, allowance or benefit in respect of which the pe
 
              (1)  If there are one or more part-year residency periods in relation to a person in relation to a year of income, this Act applies in relation to the person and the year of income as if the reference in the table in Part I of Schedule 7 to $6,000 were a reference to the amount calculated in accordance with the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00555/Html/IncomeTaxRates1986_WD02_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00427/Html/IncomeTaxRates1986_WD02_image004.gif)
 
              (2)  Subsection (1) does not apply in calculating the tax payable by the trustee of a trust estate under section 98 of the Assessment Act in respect of a share of a beneficiary of the net income of the trust estate of a year of income but, where there are one or more part-year residency periods in relation to the beneficiary in relation to the year of income, this Act applies in calculating the tax payable by the trustee in respect of that share as if the reference in the table in Part I of Schedule 7 to $6,000 were a reference to the amount calculated in accordance with the formula **_AB_**, where:
 
@@ -914,7 +914,7 @@ _Subsection 12(1)_
 
                      (c)  Division 392 (Long-term averaging of primary producers’ tax liability) of the _Income Tax Assessment Act 1997_ does not apply to the taxpayer’s assessment;
 
-the rate of tax for every $1 of the taxable income is the amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2010C00555/Html/IncomeTaxRates1986_WD02_image005.gif) where:
+the rate of tax for every $1 of the taxable income is the amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2010C00427/Html/IncomeTaxRates1986_WD02_image005.gif) where:
 
 **_A_**  is the amount of tax that would be payable by the taxpayer           under clause 1 on a taxable income equal to the reduced taxable        income;
 
@@ -938,7 +938,7 @@ In applying the formula, component **_B_** is to be worked out on the assumption
 
                      (b)  Division 16 of Part III of the Assessment Act applies to the income of the taxpayer or Division 392 (Long-term averaging of primary producers’ tax liability) of the _Income Tax Assessment Act 1997_ applies to the taxpayer’s assessment;
 
-the rate of tax for every $1 of the taxable income is the amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2010C00555/Html/IncomeTaxRates1986_WD02_image005.gif) where:
+the rate of tax for every $1 of the taxable income is the amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2010C00427/Html/IncomeTaxRates1986_WD02_image005.gif) where:
 
 **_A_**  is the amount of tax that would be payable by the taxpayer under clause 1 on a taxable income equal to the reduced taxable income;
 
@@ -1052,7 +1052,7 @@ In applying the formula, component **_B_** is to be worked out on the assumption
 
                      (c)  Division 392 (Long-term averaging of primary producers’ tax liability) of the _Income Tax Assessment Act 1997_ does not apply to the taxpayer’s assessment;
 
-the rate of tax for every $1 of the taxable income is the amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2010C00555/Html/IncomeTaxRates1986_WD02_image005.gif) where:
+the rate of tax for every $1 of the taxable income is the amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2010C00427/Html/IncomeTaxRates1986_WD02_image005.gif) where:
 
 **_A_**  is the amount of tax that would be payable by the taxpayer under clause 1 on a taxable income equal to the reduced taxable income;
 
@@ -1076,7 +1076,7 @@ In applying the formula, component **_B_** is to be worked out on the assumption
 
                      (b)  Division 16 of Part III of the Assessment Act applies to the income of the taxpayer or Division 392 (Long-term averaging of primary producers’ tax liability) of the _Income Tax Assessment Act 1997_ applies to the taxpayer’s assessment;
 
-the rate of tax for every $1 of the taxable income is the amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2010C00555/Html/IncomeTaxRates1986_WD02_image005.gif) where:
+the rate of tax for every $1 of the taxable income is the amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2010C00427/Html/IncomeTaxRates1986_WD02_image005.gif) where:
 
 **_A_**  is the amount of tax that would be payable by the taxpayer under clause 1 on a taxable income equal to the reduced taxable income;
 
@@ -1214,7 +1214,7 @@ _Subsections 13(1) and 15(1)_
 
                      (b)  whose taxable income consists of or includes a special income component;
 
-the rate of tax is the amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2010C00555/Html/IncomeTaxRates1986_WD02_image006.gif) where:
+the rate of tax is the amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2010C00427/Html/IncomeTaxRates1986_WD02_image006.gif) where:
 
 **_A_**  is the amount of tax that would be payable by the taxpayer under clauses 1 and 2 on a taxable income equal to the reduced taxable income;
 
@@ -1250,7 +1250,7 @@ In applying the formula, component **_B_** is to be worked out on the assumption
 
                      (b)  whose taxable income consists of or includes a special income component; 
 
-the rate of tax is the amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2010C00555/Html/IncomeTaxRates1986_WD02_image006.gif) where:
+the rate of tax is the amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2010C00427/Html/IncomeTaxRates1986_WD02_image006.gif) where:
 
 **_A_**  is the amount of tax that would be payable by the taxpayer under clauses 1 and 2 on a taxable income equal to the reduced taxable income;
 
@@ -1379,42 +1379,7 @@ of Assent</div>
 53–62): Royal Assent <i>(a)</i></div>
   </td>
   <td>
-    <div>S. 61 
-S. 62 (rep. by 75, 2010, Sch. 6 \[item 70])</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Tax Laws Amendment (2010 Measures No. 2) Act 2010</div>
-  </td>
-  <td>
-    <div>75, 2010</div>
-  </td>
-  <td>
-    <div>28 June 2010</div>
-  </td>
-  <td>
-    <div>Schedule 6 (item 70): 29 June 2010</div>
-  </td>
-  <td>
-    <div>—</div>
+    <div>Ss. 61 and 62</div>
   </td>
 </tr>
 <tr>
@@ -1566,42 +1531,7 @@ Remainder: Royal Assent</div>
 Ss. 93(2), 96 and 97(3): 1 July 1991 <i>(c)</i></div>
   </td>
   <td>
-    <div>Ss. 97 and 98 
-S. 99 (rep. by 75, 2010, Sch. 6 \[item 27])</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Tax Laws Amendment (2010 Measures No. 2) Act 2010</div>
-  </td>
-  <td>
-    <div>75, 2010</div>
-  </td>
-  <td>
-    <div>28 June 2010</div>
-  </td>
-  <td>
-    <div>Schedule 6 (item 27): 29 June 2010</div>
-  </td>
-  <td>
-    <div>—</div>
+    <div>Ss. 97–99</div>
   </td>
 </tr>
 <tr>
@@ -3784,7 +3714,7 @@ Part II</div>
     <div></div>
   </td>
   <td>
-    <div>rep. No. 70, 1989</div>
+    <div>rep. No. 70, 1987</div>
   </td>
 </tr>
 <tr>
@@ -3792,7 +3722,7 @@ Part II</div>
     <div>Schedule 6</div>
   </td>
   <td>
-    <div>rep. No. 70, 1989</div>
+    <div>rep. No. 70, 1987</div>
   </td>
 </tr>
 <tr>
@@ -4096,13 +4026,13 @@ Working out your modified net capital gain amount
 
 (1)        The amount of the reduction in your basic income tax liability is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00555/Html/IncomeTaxRates1986_WD02_image007.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00427/Html/IncomeTaxRates1986_WD02_image007.gif)
 
 Working out your capital gain adjustment percentage
 
 (2)        Your **_capital gain adjustment percentage_** is the percentage worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00555/Html/IncomeTaxRates1986_WD02_image008.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00427/Html/IncomeTaxRates1986_WD02_image008.gif)
 
 ## 25  Choices
 
