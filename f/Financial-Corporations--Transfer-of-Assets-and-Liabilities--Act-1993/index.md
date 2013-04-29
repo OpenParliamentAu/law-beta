@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2006C00531/Html/FinCorTraOfAssAndLiaAct1993_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00002/Html/image001.gif)
 
 # Financial Corporations (Transfer of Assets and Liabilities) Act 1993
 
 **Act No. 97 of 1993 as amended**
 
-This compilation was prepared on 25 September 2006
- taking into account amendments up to Act No. 101 of 2006
+This compilation was prepared on 23 December 2005
+ taking into account amendments up to Act No. 162 of 2005
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -72,6 +72,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [19](#19).          For the receiving corporation, asset has necessary connection with Australia
 
+[20](#20).          Transfer of net capital loss
+
     **Division 5—Trading stock**
 
 [21](#21).          Transfers of trading stock
@@ -86,15 +88,107 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
     **Division 8—Tax losses** 
 
+        **Subdivision A—Tax losses and the Income Tax Assessment Act 1936**
+
+[24](#24).          Transfer of tax loss from transferring corporation to receiving corporation
+
+[25](#25).          Transfer of tax loss—modification of _substantial continuity of ownership_ test
+
+[26](#26).          Deduction for tax loss—modification of _substantial continuity of ownership_ test etc 
+
         **Subdivision B—Tax losses and the Income Tax Assessment Act 1997**
 
 [26A](#26A).       Application of this Subdivision
+
+[26B](#26B).       Transfer of tax loss from transferring corporation to receiving corporation
 
 [26C](#26C).       Deduction for tax loss—easing of restrictions on transferring corporation
 
     **Division 9—Continuity of partnerships**
 
 [27](#27).          Transfer of an interest in a partnership does not affect continuity of partnership
+
+**Schedule 1—Tax losses and the Income Tax Assessment Act 1997** 
+
+        **Subdivision 170-A—Transfer of tax losses from a transferring corporation to a receiving corporation** 
+
+        **Guide to Subdivision 170-A**
+
+[170-1](#170-1).     What this Subdivision is about
+
+[170-5](#170-5).     Basic principles for transferring tax losses
+
+        **Effect of transferring a tax loss**
+
+[170-10](#170-10).   When a corporation can transfer a tax loss
+
+[170-15](#170-15).   Income company is taken to have incurred transferred loss
+
+[170-20](#170-20).   Who can deduct transferred loss
+
+[170-23](#170-23).   When income company must maintain same owners and control
+
+[170-25](#170-25).   Tax treatment of consideration for transferred tax loss
+
+        **Conditions for transfer**
+
+[170-28](#170-28).   _Financial Corporations (Transfer of Assets and Liabilities) Act 1993_ must apply to asset transfer from loss company to income company
+
+[170-32](#170-32).   The loss year
+
+[170-33](#170-33).   The transfer year
+
+[170-35](#170-35).   The loss company
+
+[170-50](#170-50).   Transfer by written agreement
+
+[170-55](#170-55).   Losses must be transferred in order they are incurred
+
+[170-60](#170-60).   Income company cannot transfer transferred tax loss
+
+        **Effect of agreement to transfer more than can be transferred**
+
+[170-65](#170-65).   Agreement transfers as much as can be transferred
+
+[170-70](#170-70).   Amendment of assessments
+
+        **Special rules for transfer from head company of consolidated group or MEC group**
+
+[170-75](#170-75).   Transfer of a tax loss incurred by the head company because of Subdivision 707-A
+
+**Schedule 2—Net capital losses and the Income Tax Assessment Act 1997** 
+
+**Part 1—Replacement of sections 170-110 to 170-145** 
+
+        **Effect of transferring a net capital loss**
+
+[170-110](#170-110). When a corporation can transfer a net capital loss
+
+[170-115](#170-115). Who can apply transferred loss
+
+[170-120](#170-120). Gain company is taken to have made transferred loss
+
+[170-125](#170-125). Tax treatment of consideration for transferred net capital loss
+
+        **Conditions for transfer**
+
+[170-128](#170-128). _Financial Corporations (Transfer of Assets and Liabilities) Act 1993_ must apply to asset transfer from loss company to gain company
+
+[170-132](#170-132). The loss year
+
+[170-133](#170-133). The transfer year
+
+[170-135](#170-135). The loss company
+
+[170-140](#170-140). The gain company
+
+[170-145](#170-145). Maximum amount that can be transferred
+
+**Part 2—Addition of provisions at the end of Subdivision 170-B** 
+
+        **Special rules for transfer from head company of consolidated group or MEC group**
+
+[170-175](#170-175). Transfer of a net capital loss made by the head company because of Subdivision 707-A
 
 **Notes** 
 
@@ -129,6 +223,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
                      (b)  any chose in action; and
 
                      (c)  any right, interest or claim of any kind including rights, interests or claims in or in relation to property (whether arising under an instrument or otherwise, and whether liquidated or unliquidated, certain or contingent, accrued or accruing); and
+
+                     (d)  any asset within the meaning of Part IIIA of the _Income Tax Assessment Act 1936_; and 
 
                      (e)  a CGT asset within the meaning of the _Income Tax Assessment Act 1997_.
 
@@ -386,6 +482,8 @@ Provisions whose operation is not modified
 
              (5)  To avoid doubt, this section does not affect the operation of the following provisions:
 
+                     (a)  section 20;
+
                      (b)  section 23;
 
                      (c)  Division 8.
@@ -398,23 +496,23 @@ Tax treatment of transferring corporation
 
              (1)  In determining:
 
-                     (a)  whether an amount is included in the assessable income of the transferring corporation under section 25A, 26BB, 26C or 159GS of the _Income Tax Assessment Act 1936_ or section 6-5, 15-15 or 775-15 of the _Income Tax Assessment Act 1997_; or
+                     (a)  whether an amount is included in the assessable income of the transferring corporation under section 25, 25A, 26BB, 26C or 159GS of the _Income Tax Assessment Act 1936_ or section 6-5, 15-15 or 775-15 of the _Income Tax Assessment Act 1997_; or
 
-                     (b)  whether an amount is allowable as a deduction to the transferring corporation under section 52, 70B or 159GS of the _Income Tax Assessment Act 1936_ or section 8-1 or 775-30 of the _Income Tax Assessment Act 1997_;
+                     (b)  whether an amount is allowable as a deduction to the transferring corporation under section 51, 52, 70B or 159GS of the _Income Tax Assessment Act 1936_ or section 8-1 or 775-30 of the _Income Tax Assessment Act 1997_;
 
 in respect of a transfer of an asset, the transferring corporation is to be treated as if the transfer had not occurred.
 
 Receiving corporation not entitled to a deduction for expenditure incurred in acquiring asset
 
-             (2)  A deduction is not allowable to the receiving corporation under section 8-1 of the _Income Tax Assessment Act 1997_ in respect of expenditure incurred in the acquisition of an asset as the result of a transfer. However, this subsection does not apply to the acquisition of trading stock.
+             (2)  A deduction is not allowable to the receiving corporation under section 51 of the _Income Tax Assessment Act 1936_ or section 8-1 of the _Income Tax Assessment Act 1997_ in respect of expenditure incurred in the acquisition of an asset as the result of a transfer. However, this subsection does not apply to the acquisition of trading stock.
 
 Receiving corporation to inherit transferring corporation’s cost base
 
              (3)  If an asset is transferred, then, in determining:
 
-                     (a)  whether an amount is included in the assessable income of the receiving corporation under section 25A, 26BB, 26C or Division 16E of Part III of the _Income Tax Assessment Act 1936_ or section 6-5, 15-15 or 775-15 of the _Income Tax Assessment Act 1997_; or
+                     (a)  whether an amount is included in the assessable income of the receiving corporation under section 25, 25A, 26BB, 26C or Division 16E of Part III of the _Income Tax Assessment Act 1936_ or section 6-5, 15-15 or 775-15 of the _Income Tax Assessment Act 1997_; or
 
-                     (b)  whether an amount is allowable as a deduction to the receiving corporation under section 52, 70B or Division 16E of Part III of the _Income Tax Assessment Act 1936_ or section 8-1 or 775-30 of the _Income Tax Assessment Act 1997_;
+                     (b)  whether an amount is allowable as a deduction to the receiving corporation under section 51, 52, 70B or Division 16E of Part III of the _Income Tax Assessment Act 1936_ or section 8-1 or 775-30 of the _Income Tax Assessment Act 1997_;
 
 in respect of the holding, or any subsequent disposal, of the asset, the receiving corporation is to be treated as if it had acquired the asset for an amount equal to what would have been the asset’s cost base to the transferring corporation for the purposes of working out under the _Income Tax Assessment Act 1997_ whether the transferring corporation made a capital gain from the transfer.
 
@@ -426,23 +524,23 @@ Tax treatment of transferring corporation
 
              (1)  In determining:
 
-                     (a)  whether an amount is included in the assessable income of the transferring corporation under section 6-5 or 775-15 of the _Income Tax Assessment Act 1997_; or
+                     (a)  whether an amount is included in the assessable income of the transferring corporation under section 25 of the _Income Tax Assessment Act 1936_ or section 6-5 or 775-15 of the _Income Tax Assessment Act 1997_; or
 
-                     (b)  whether an amount is allowable as a deduction to the transferring corporation under section 8-1 or 775-30 of the _Income Tax Assessment Act 1997_;
+                     (b)  whether an amount is allowable as a deduction to the transferring corporation under section 51 of the _Income Tax Assessment Act 1936_ or section 8-1 or 775-30 of the _Income Tax Assessment Act 1997_;
 
 in respect of a transfer of a liability, the transferring corporation is to be treated as if the transfer had not occurred.
 
 Receiving corporation not assessable in respect of assumption of liability
 
-             (2)  An amount is not to be included in the assessable income of the receiving corporation under section 6-5 or 775-15 of the _Income Tax Assessment Act 1997_ in respect of the assumption of the liability as a result of the transfer.
+             (2)  An amount is not to be included in the assessable income of the receiving corporation under section 25 of the _Income Tax Assessment Act 1936_ or section 6-5 or 775-15 of the _Income Tax Assessment Act 1997_ in respect of the assumption of the liability as a result of the transfer.
 
 Assumption of liability by receiving corporation
 
              (3)  If a liability is transferred, then, in determining:
 
-                     (a)  whether an amount is included in the assessable income of the receiving corporation under Division 16E of Part III of the _Income Tax Assessment Act 1936_ or section 6-5 or 775-15 of the _Income Tax Assessment Act 1997_; or
+                     (a)  whether an amount is included in the assessable income of the receiving corporation under section 25 or Division 16E of Part III of the _Income Tax Assessment Act 1936_ or section 6-5 or 775-15 of the _Income Tax Assessment Act 1997_; or
 
-                     (b)  whether an amount is allowable as a deduction to the receiving corporation under Division 16E of Part III of the _Income Tax Assessment Act 1936_ or section 8-1 or 775-30 of the _Income Tax Assessment Act 1997_;
+                     (b)  whether an amount is allowable as a deduction to the receiving corporation under section 51 or Division 16E of Part III of the _Income Tax Assessment Act 1936_ or section 8-1 or 775-30 of the _Income Tax Assessment Act 1997_;
 
 in respect of the subsistence, or any subsequent transfer, of the liability, the receiving corporation is to be treated as if:
 
@@ -464,9 +562,9 @@ Adjustment where security is transferred
 
                      (b)  either:
 
-                              (i)  one or more amounts (other than periodic interest) are or were included in the transferring corporation’s assessable income under former section 25, or under Division 16E of Part III, of the _Income Tax Assessment Act 1936_ or under section 6-5 of the _Income Tax Assessment Act 1997_ in respect of the security; or
+                              (i)  one or more amounts (other than periodic interest) are or were included in the transferring corporation’s assessable income under section 25 or Division 16E of Part III of the _Income Tax Assessment Act 1936_ or section 6-5 of the _Income Tax Assessment Act 1997_ in respect of the security; or
 
-                             (ii)  one or more amounts (other than periodic interest) are or were allowable as deductions to the transferring corporation under former section 51, or under Division 16E of Part III, of the _Income Tax Assessment Act 1936_ or under section 8-1 of the _Income Tax Assessment Act 1997_ in respect of the security;
+                             (ii)  one or more amounts (other than periodic interest) are or were allowable as deductions to the transferring corporation under section 51 or Division 16E of Part III of the _Income Tax Assessment Act 1936_ or section 8-1 of the _Income Tax Assessment Act 1997_ in respect of the security;
 
 those Acts have effect as if the amount that, apart from this subsection, would have been the consideration paid or given by the receiving corporation in respect of the acquisition of the security as the result of the transfer were:
 
@@ -480,7 +578,7 @@ Adjustment where liability under security is transferred
 
                      (a)  a liability under a security is transferred; and
 
-                     (b)  one or more amounts (other than periodic interest) are or were allowable as deductions to the transferring corporation under former section 51, or under Division 16E of Part III, of the _Income Tax Assessment Act 1936_ or under section 8-1 of the _Income Tax Assessment Act 1997_ in respect of the security;
+                     (b)  one or more amounts (other than periodic interest) are or were allowable as deductions to the transferring corporation under section 51 or Division 16E of Part III of the _Income Tax Assessment Act 1936_ or section 8-1 of the _Income Tax Assessment Act 1997_ in respect of the security;
 
 those Acts have effect as if the amount that, apart from this subsection, would have been the consideration paid or given to the receiving corporation in respect of the assumption of the liability as the result of the transfer were increased by the amount, or the sum of the amounts, covered by paragraph (b).
 
@@ -512,6 +610,48 @@ This is in addition to that Subdivision’s effect apart from this section.
 
                    Parts 3-1 and 3-3 of the _Income Tax Assessment Act 1997_ apply to an asset acquired by the receiving corporation as a result of a transfer as if the asset had, while it is an asset of the receiving corporation, the necessary connection with Australia.
 
+##### <a id="20"></a>20  Transfer of net capital loss 
+
+          (1A)  In addition to its effect apart from this section, the _Income Tax Assessment Act 1997_ also has the effect it would have if sections 170-110 to 170-145 (which are about transferring net capital losses within wholly-owned company groups) of that Act were replaced by the provisions in Part 1 of Schedule 2 to this Act (which are a modified version of the rules in those sections) and the provisions in Part 2 of that Schedule were added at the end of Subdivision 170-B of that Act.
+
+          (1B)  Subsection (1) does not enable a net capital loss to be transferred in the 1998-99 year of income or a later year of income.
+
+             (1)  In addition to its effect apart from this section, section 160ZP of the _Income Tax Assessment Act 1936_ also has the effect it would have if both of the changes set out in subsections (2) and (3) of this section were made.
+
+             (2)  The first change is that paragraphs 160ZP(7)(a), (b) and (ba) of the _Income_ _Tax Assessment Act 1936_ are to be replaced by the following paragraphs:
+
+                    “(a)  assuming that:
+
+                              (i)  an asset (within the meaning of the _Financial Corporations (Transfer of Assets and Liabilities) Act 1993_) had been transferred by a transferring corporation within the meaning of that Act (the **_loss company_**) to a receiving corporation within the meaning of that Act (the **_gain company_**) on the last day of a particular year of income of the loss company (the **_notional transfer year_**); and
+
+                             (ii)  the requirements of paragraphs 7(6)(a) and (b) of that Act were satisfied in relation to that transfer;
+
+                            that Act would have applied to that transfer; and
+
+                     (b)  the loss company incurred in respect of a year of income (the **_loss year_**) a net capital loss that, apart from this section, would be taken into account in ascertaining whether a net capital gain accrued to the loss company, or the loss company incurred a net capital loss, in respect of the next succeeding year of income; and
+
+                    (ba)  the loss year is:
+
+                              (i)  the year of income in which that Act commenced; or
+
+                             (ii)  an earlier year of income; and
+
+                    (bb)  both the following conditions are satisfied in relation to a year of income (the **_gain year_**) of the gain company:
+
+                              (i)  either:
+
+                                        (A)  the gain year ends at the end of the notional transfer year; or
+
+                                        (B)  the gain year corresponds to the year of income of the loss company next following the notional transfer year;
+
+                             (ii)  the gain year is:
+
+                                        (A)  the year of income in which that Act commenced; or
+
+                                        (B)  one of the 10 following years of income; and”.
+
+             (3)  The second change is that paragraphs 160ZP(7)(d) and (e) and subsection 160ZP(8) of the _Income Tax Assessment Act 1936_ are to be omitted.
+
 ### Division 5—Trading stock
 
 ##### <a id="21"></a>21  Transfers of trading stock 
@@ -526,17 +666,17 @@ Trading stock on hand at beginning of year of income
 
 then:
 
-                     (c)  section 70-35 of the _Income Tax Assessment Act 1997_ has effect as if the trading stock were not on hand at the beginning of the year of income; and
+                     (c)  section 28 of the _Income Tax Assessment Act 1936_ or section 70-35 of the _Income Tax Assessment Act 1997_ has effect as if the trading stock were not on hand at the beginning of the year of income; and
 
-                     (d)  section 8-1 of the _Income Tax Assessment Act 1997_ has effect as if:
+                     (d)  section 51 of the _Income Tax Assessment Act 1936_ or section 8-1 of the _Income Tax Assessment Act 1997_ has effect as if:
 
                               (i)  the receiving corporation had incurred expenditure in the acquisition of the trading stock; and
 
-                             (ii)  the amount of that expenditure were equal to the value of the trading stock as at the end of the immediately preceding year of income of the transferring corporation (being the value that applies for the purposes of section 70-45 of the _Income Tax Assessment Act 1997_); and
+                             (ii)  the amount of that expenditure were equal to the value of the trading stock as at the end of the immediately preceding year of income of the transferring corporation (being the value that applies for the purposes of section 31 of the _Income Tax Assessment Act 1936_ or section 70-45 of the _Income Tax Assessment Act 1997_); and
 
                             (iii)  that expenditure had been so incurred immediately after the transfer; and
 
-                     (e)  sections 70-90 and 70-95 of the _Income Tax Assessment Act 1997_ do not apply in relation to the transfer of the trading stock.
+                     (e)  section 36 of the _Income Tax Assessment Act 1936_ and sections 70-90 and 70-95 of the _Income Tax Assessment Act 1997_ do not apply in relation to the transfer of the trading stock.
 
 Trading stock not on hand at beginning of year of income
 
@@ -548,9 +688,9 @@ Trading stock not on hand at beginning of year of income
 
 then:
 
-                     (c)  a deduction is not allowable under the _Income Tax Assessment Act 1997_ to the transferring corporation in respect of expenditure incurred in the acquisition of the trading stock; and
+                     (c)  a deduction is not allowable under the _Income Tax Assessment Act 1936_ or the _Income Tax Assessment Act 1997_ to the transferring corporation in respect of expenditure incurred in the acquisition of the trading stock; and
 
-                     (d)  section 8-1 of the _Income Tax Assessment Act 1997_ has effect as if:
+                     (d)  section 51 of the _Income Tax Assessment Act 1936_ or section 8-1 of the _Income Tax Assessment Act 1997_ has effect as if:
 
                               (i)  the receiving corporation had incurred expenditure in the acquisition of the trading stock; and
 
@@ -558,7 +698,7 @@ then:
 
                             (iii)  that expenditure had been so incurred immediately after the transfer; and
 
-                     (e)  sections 70-90 and 70-95 of the _Income Tax Assessment Act 1997_ do not apply in relation to the transfer of the trading stock.
+                     (e)  section 36 of the _Income Tax Assessment Act 1936_ and sections 70-90 and 70-95 of the _Income Tax Assessment Act 1997_ do not apply in relation to the transfer of the trading stock.
 
 ### Division 6—Bad debts
 
@@ -675,7 +815,7 @@ Limit on deductions for partly written-off debt
 
              (4)  If this Act applies to the transfer of a debt that has been partly written off, the maximum that the receiving corporation can deduct for the debt for one or more years of income under section 8-1 or 25-35 of the _Income Tax Assessment Act 1997_ is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2006C00531/Html/FinCorTraOfAssAndLiaAct1993_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00002/Html/image002.gif)
 
 where:
 
@@ -683,13 +823,13 @@ where:
 
                      (a)  section 8-1 or 25-35 of the _Income Tax Assessment Act 1997_; or
 
-                     (b)  section 63 or former section 51 of the _Income Tax Assessment Act 1936_;
+                     (b)  section 51 or 63 of the _Income Tax Assessment Act 1936_;
 
 reduced by the total of any amounts included in its assessable income in respect of the debt under:
 
                      (c)  Subdivision 20-A of the _Income Tax Assessment Act 1997_; or
 
-                     (d)  former subsection 63(3) of the _Income Tax Assessment Act 1936_.
+                     (d)  subsection 63(3) of the _Income Tax Assessment Act 1936_.
 
 ### Division 7—Interest withholding tax
 
@@ -709,11 +849,99 @@ reduced by the total of any amounts included in its assessable income in respect
 
 ### Division 8—Tax losses
 
+#### Subdivision A—Tax losses and the Income Tax Assessment Act 1936
+
+##### <a id="24"></a>24  Transfer of tax loss from transferring corporation to receiving corporation 
+
+          (1A)  This section does not enable a right to a deduction for an amount of a loss to be transferred in the 1997-98 year of income or a later year of income.
+
+             (1)  In addition to its effect apart from this section, section 80G of the _Income Tax Assessment Act 1936_ also has the effect it would have if all of the changes set out in subsections (2), (3) and (4) of this section were made.
+
+             (2)  The first change is that paragraphs 80G(6)(a), (b) and (ba) of the _Income Tax Assessment Act 1936_ are to be replaced by the following paragraphs:
+
+                    “(a)  assuming that:
+
+                              (i)  an asset (within the meaning of the _Financial Corporations (Transfer of Assets and Liabilities) Act 1993_) had been transferred by a transferring corporation within the meaning of that Act (the **_loss company_**) to a receiving corporation within the meaning of that Act (the **_income company_**) on the last day of a particular year of income of the loss company (the **_notional transfer year_**); and
+
+                             (ii)  the requirements of paragraphs 7(6)(a) and (b) of that Act were satisfied in relation to that transfer;
+
+                            that Act would have applied to that transfer; and
+
+                     (b)  the loss company is taken to have incurred a loss for the purposes of section 79E or 80 in a year of income (the **_loss year_**); and
+
+                    (ba)  the loss year is:
+
+                              (i)  the year of income in which that Act commenced; or
+
+                             (ii)  an earlier year of income; and
+
+                    (bb)  both the following conditions are satisfied in relation to a year of income (the **_income year_**) of the income company:
+
+                              (i)  either:
+
+                                        (A)  the income year ends at the end of the notional transfer year; or
+
+                                        (B)  the income year corresponds to the year of income of the loss company next following the notional transfer year;
+
+                             (ii)  the income year is:
+
+                                        (A)  the year of income in which that Act commenced; or
+
+                                        (B)  one of the 10 following years of income; and”.
+
+             (3)  The second change is that paragraphs 80G(6)(d) and (e) and subsections 80G(7), (8), (10) and (14) of the _Income Tax Assessment Act 1936_ are to be omitted.
+
+             (4)  The third change is that paragraphs 80G(6)(f) and (g) of the _Income Tax Assessment Act 1936_ are to be replaced by the following paragraphs:
+
+                    “(f)  if the loss year is the same year of income as the income year—the year of income immediately preceding the loss year; or
+
+                     (g)  if the income year is a year of income later than the loss year—the loss year.”.
+
+##### <a id="25"></a>25  Transfer of tax loss—modification of _substantial continuity of ownership_ test
+
+             (1)  This section applies if, under subsection 80G(6) of the _Income Tax Assessment Act 1936_(as that subsection has effect because of this Division), a loss, or a part of a loss, is taken to have been incurred by the income company in a particular year of income (the **_normal year_**).
+
+             (2)  For the purposes of the application of section 80A of the _Income Tax Assessment Act 1936_ to the income company, the loss, or the part of the loss, as the case may be, is to be treated as if it had been incurred in the income year instead of in the normal year.
+
+             (3)  In this section:
+
+                    <a name="incom-compani"></a>**_income company_** has the same meaning as in section 80G of the _Income Tax Assessment Act 1936_(as that section has effect because of this Division).
+
+                    <a name="incom-year"></a>**_income year_** has the same meaning as in section 80G of the _Income Tax Assessment Act 1936_(as that section has effect because of this Division).
+
+##### <a id="26"></a>26  Deduction for tax loss—modification of _substantial continuity of ownership_ test etc. 
+
+             (1)  If:
+
+                     (a)  this Act applies to one or more transfers by the transferring corporation to the receiving corporation; and
+
+                     (b)  the transferring corporation is taken (otherwise than because of section 80G of the _Income Tax Assessment Act 1936_) to have incurred a loss in a year of income (the **_loss year_**) for the purposes of section 79E, 79F, 80, 80AAA or 80AA of that Act; and
+
+                     (c)  the loss year is the year of income in which this section commenced or an earlier year of income; and
+
+                     (d)  section 80A or 80DA, or both, of that Act prevent a deduction from being allowable under that Act to the transferring corporation for a year of income (the **_deduction year_**) in respect of that loss; and
+
+                     (e)  the transferring corporation did not, at any time in the deduction year, derive income from:
+
+                              (i)  a business of a kind that it did not carry on; or
+
+                             (ii)  a transaction of a kind that it had not entered into in the course of its business operations;
+
+                            before the transfer, or the earliest of the transfers, occurred;
+
+sections 80A and 80DA of the _Income Tax Assessment Act 1936_ do not prevent a deduction from being allowable to the transferring corporation in respect of that loss.
+
+             (2)  This section does not apply to assessments for the 1997-98 year of income and later years of income.
+
 #### Subdivision B—Tax losses and the Income Tax Assessment Act 1997
 
 ##### <a id="26A"></a>26A  Application of this Subdivision
 
                    This Subdivision applies to assessments for the 1997-98 income year or a later income year.
+
+##### <a id="26B"></a>26B  Transfer of tax loss from transferring corporation to receiving corporation
+
+                   In addition to its effect apart from this section, the _Income Tax Assessment Act 1997_ also has the effect it would have if Subdivision 170-A (which is about transferring tax losses within wholly-owned company groups) of that Act were replaced by Subdivision 170-A (which is a modified version of the rules in that Subdivision) in Schedule 1 to this Act.
 
 ##### <a id="26C"></a>26C  Deduction for tax loss—easing of restrictions on transferring corporation
 
@@ -721,9 +949,9 @@ reduced by the total of any amounts included in its assessable income in respect
 
                      (a)  this Act applies to one or more transfers by the transferring corporation to the receiving corporation; and
 
-                     (b)  the transferring corporation is taken (otherwise than because of a transfer of a tax loss under former section 80G of the _Income Tax Assessment Act 1936_ or under Subdivision 170-A of the _Income Tax Assessment Act 1997_) to have incurred a tax loss for a year of income (the **_loss year_**); and
+                     (b)  the transferring corporation is taken (otherwise than because of a transfer of a tax loss under section 80G of the _Income Tax Assessment Act 1936_ or Subdivision 170-A of the _Income Tax Assessment Act 1997_) to have incurred a tax loss for a year of income (the **_loss year_**); and
 
-                     (c)  the loss year is the income year in which former section 26 of this Act commenced or an earlier income year; and
+                     (c)  the loss year is the income year in which section 26 of this Act commenced or an earlier income year; and
 
                      (d)  Subdivision 165-A or 175-A, or both, of the _Income Tax Assessment Act 1997_ prevent the transferring corporation from deducting an amount of that tax loss for an income year (the **_deduction year_**); and
 
@@ -772,6 +1000,398 @@ Note 2:       Subdivision 719-F of the _Income Tax Assessment Act 
              (1)  This section applies if an interest in a partnership is transferred.
 
              (2)  For the purposes of the _Income Tax Assessment Act 1936_, the transfer does not affect the continuity of the partnership. 
+
+# Schedule 1—Tax losses and the Income Tax Assessment Act 1997
+
+#### <span style="font-size:8.0pt"> </span><span style="font-size:8.0pt"> </span>
+
+#### <span style="font-size:8.0pt"> </span><span style="font-size:8.0pt"> </span>
+
+#### Subdivision 170-A—Transfer of tax losses from a transferring corporation to a receiving corporation
+
+#### Guide to Subdivision 170-A
+
+##### <a id="170-1"></a>170-1  What this Subdivision is about
+
+* * *
+
+A transferring corporation (within the meaning of the _Financial Corporations (Transfer of Assets and Liabilities) Act 1993_) can transfer a tax loss to a receiving corporation (within the meaning of that Act) so that the receiving corporation can deduct it. The corporations must be related in such a way that that Act would apply to a transfer of assets from the transferring corporation to the receiving corporation.
+
+* * *
+
+Table of sections
+
+170-5        Basic principles for transferring tax losses
+
+Effect of transferring a tax loss
+
+170-10      When a company can transfer a tax loss
+
+170-15      Income company is taken to have incurred transferred loss
+
+170-20      Who can deduct transferred loss
+
+170-23      When income company must maintain same owners and control
+
+170-25      Tax treatment of payment for transferred tax loss
+
+Conditions for transfer
+
+170-28      The _Financial Corporations (Transfer of Assets and Liabilities) Act 1993_ must apply to asset transfer from loss company to income company
+
+170-32      The loss year
+
+170-33      The transfer year
+
+170-35      The loss company
+
+170-50      Transfer by written agreement
+
+170-55      Losses must be transferred in order they are incurred
+
+170-60      Income company cannot transfer transferred tax loss
+
+Effect of agreement to transfer more than can be transferred
+
+170-65      Agreement transfers as much as can be transferred 
+
+170-70      Amendment of assessments
+
+Special rules for transfer from head company of consolidated group or MEC group
+
+<a id="170-75"></a>170-75  Transfer of a tax loss incurred by the head company because of Subdivision 707-A
+
+##### <a id="170-5"></a>170-5  Basic principles for transferring tax losses
+
+             (1)  A transferring corporation (within the meaning of the _Financial Corporations (Transfer of Assets and Liabilities) Act 1993_) can transfer a tax loss to a receiving corporation (within the meaning of that Act) so that the receiving corporation can deduct it.
+
+             (2)  The corporations must be related in such a way that that Act would apply to a transfer of assets from the transferring corporation to the receiving corporation.
+
+             (3)  The receiving corporation need not have enough assessable income to offset the transferred tax loss.
+
+             (4)  The tax loss is transferred by an agreement between the 2 corporations. 
+
+             (5)  Special rules extend the scope of this Subdivision to let the head company of a consolidated group or MEC group transfer in some cases a tax loss the company incurred because of Subdivision 707-A. The rules do this by modifying the basis on which other provisions of this Subdivision operate.
+
+#### Effect of transferring a tax loss
+
+##### <a id="170-10"></a>170-10  When a corporation can transfer a tax loss
+
+               (1)  A transferring corporation within the meaning of the _Financial Corporations (Transfer of Assets and Liabilities) Act 1993_ (the **_loss company_**) can transfer an amount of its * tax loss for an income year of the loss company (the **_loss year_**) to a receiving corporation within the meaning of that Act (the **_income company_**) if the conditions in this Subdivision are met.
+
+             (2)  The amount transferred can be the whole or part of the * tax loss.
+
+Note:          A PDF cannot transfer a tax loss, except one for a period before it became a PDF: see section 195-10.
+
+             (3)  However, the * loss company cannot transfer so much of the * tax loss as the loss company has deducted, or can deduct, for an income year before the one in which the amount is transferred.
+
+##### <a id="170-15"></a>170-15  Income company is taken to have incurred transferred loss
+
+             (1)  If an amount of a * tax loss is transferred, the * amount is taken to be a tax loss incurred by the * income company in the * loss year.
+
+             (2)  However, if the * loss year is the same as the income year of the * income company for which the amount is transferred (the **_transfer year_**), the * income company is taken to have incurred the * tax loss in the income year before the loss year.
+
+Note:          This rule is needed because Division 36 allows a tax loss to be deducted only if it was incurred in an _earlier_ income year.
+
+##### <a id="170-20"></a>170-20  Who can deduct transferred loss
+
+             (1)  If an amount of a * tax loss is transferred, the * income company can deduct the amount in accordance with section 36-15 (which is about how to deduct a tax loss), but only if Subdivision 165-A (as modified by section 170-23) and Subdivision 175-A do not prevent it from doing so.
+
+Note:          Subdivision 165-A is about the conditions that a company needs to satisfy before it can deduct a tax loss from an earlier income year.
+
+                   Subdivision 175-A is about the Commissioner preventing a company from getting certain tax benefits through its unused tax losses.
+
+             (2)  The * loss company can no longer deduct the transferred amount and is taken not to have incurred the * tax loss to the extent of that amount.
+
+##### <a id="170-23"></a>170-23  When income company must maintain same owners and control
+
+             (1)  Ordinarily, Subdivision 165-A prevents a company from deducting for an income year (the **_deduction year_**) a tax loss if there has been a change in the ownership or control of the company between the _loss year_ and the deduction year.
+
+Note:          Subdivision 165-A is about the conditions that a company needs to satisfy before it can deduct a tax loss from an earlier income year.
+
+             (2)  However, subsection (3) modifies that Subdivision so that the * income company is prevented from deducting for the deduction year a transferred amount of a * tax loss only if there has been a change in ownership or control in the income company between the _transfer year_ and the deduction year.
+
+             (3)  That Subdivision applies to the transferred amount as if all references to “* loss year” in that Subdivision were references to “* transfer year”.
+
+##### <a id="170-25"></a>170-25  Tax treatment of consideration for transferred tax loss
+
+             (1)  If the loss company receives any consideration from the income company for the amount of the tax loss:
+
+                     (a)  that consideration is neither assessable income nor exempt income of the loss company; and
+
+                     (b)  the loss company does not make a capital gain because of the receipt of the consideration.
+
+Note:          However, the consideration may affect how section 170-210 modifies the cost base of direct and indirect interests in the loss company.
+
+             (2)  If the income company gives any consideration to the loss company for the amount of the tax loss:
+
+                     (a)  the income company cannot deduct the amount or value of the consideration; and
+
+                     (b)  the income company does not make a capital loss because of the giving of the consideration.
+
+Note:          However, the consideration may affect how section 170-215 modifies the cost base of direct and indirect interests in the income company.
+
+#### Conditions for transfer
+
+##### <a id="170-28"></a>170-28  _Financial Corporations (Transfer of Assets and Liabilities) Act 1993_ must apply to asset transfer from loss company to income company
+
+                   If it were assumed that:
+
+                     (a)  an asset (within the meaning of the _Financial Corporations (Transfer of Assets and Liabilities) Act 1993_) had been transferred by the * loss company to the * income company on the last day of a particular income year of the * loss company (the **_notional transfer year_**); and 
+
+                     (b)  the requirements of paragraphs 7(6)(a) and (b) of that Act were satisfied in relation to that transfer;
+
+then it must be the case that that Act would have applied to that transfer.
+
+##### <a id="170-32"></a>170-32  The loss year
+
+                   The * loss year must be either:
+
+                     (a)  the income year in which the _Financial Corporations (Transfer of Assets and Liabilities) Act 1993_ commenced; or
+
+                     (b)  an earlier income year.
+
+##### <a id="170-33"></a>170-33  The transfer year
+
+             (1)  The * transfer year must either:
+
+                     (a)  end at the end of the * notional transfer year; or
+
+                     (b)  correspond to the income year of the * loss company that next follows the * notional transfer year.
+
+             (2)  Also, the * transfer year must be one of the 10 income years after the income year in which the _Financial Corporations (Transfer of Assets and Liabilities) Act 1993_ commenced.
+
+##### <a id="170-35"></a>170-35  The loss company
+
+                   If the * loss year and the * transfer year are the same, it must be the case that the * loss company was _not_ required to calculate the * tax loss under section 165-70 or 175-35.
+
+##### <a id="170-50"></a>170-50  Transfer by written agreement
+
+(1)The transfer must be made by a written agreementbetween the * loss company and the * income company.
+
+             (2)The agreement must:
+
+                     (a)  specify the * transfer year (which may be earlier than the income year in which the agreement is made); and
+
+                     (b)  specify the amount of the * tax loss being transferred; and
+
+                     (c)  be signed by the public officer of each company; and
+
+                     (d)  be made on or before the day of lodgment of the * income company’s * income tax return for the * transfer year, or within such further time as the Commissioner allows.
+
+Note:          The agreement will usually be made in the next income year _after_ the one in which the tax loss is transferred.
+
+##### <a id="170-55"></a>170-55  Losses must be transferred in order they are incurred
+
+             (1)  If the * loss company has 2 or more * tax losses (other than * film losses) that it can transfer in the * transfer year, it can transfer them only in the order in which it incurred them.
+
+             (2)  If the * loss company has 2 or more * film losses that it can transfer in the * transfer year, it can transfer them only in the order in which it incurred them.
+
+##### <a id="170-60"></a>170-60  Income company cannot transfer transferred tax loss
+
+                   The * income company cannot transfer an amount of a * tax loss transferred to it, or any part of the amount.
+
+#### Effect of agreement to transfer more than can be transferred
+
+##### <a id="170-65"></a>170-65  Agreement transfers as much as can be transferred
+
+             (1)  If the amount specified in an agreement exceeds the maximum amount that the * loss company can transfer to the * income company in the * transfer year, only that maximum amount is taken to have been transferred.
+
+             (2)  One reason why an agreement might specify more than can be transferred is that an assessment has been amended since the agreement.
+
+##### <a id="170-70"></a>170-70  Amendment of assessments
+
+                   The Commissioner may amend an assessment to disallow a deduction for a transferred amount of a * tax loss:
+
+                     (a)  if the agreement to transfer the tax loss is ineffective because the * loss company did not actually incur the loss; or
+
+                     (b)  to the extent that section 170-65 reduces the transferred amount of a tax loss because the loss company did not actually incur some of it.
+
+The Commissioner may do so despite section 170 (Amendment of assessments) of the _Income Tax Assessment Act 1936_.
+
+#### Special rules for transfer from head company of consolidated group or MEC group
+
+##### <a id="170-75"></a>170-75  Transfer of a tax loss incurred by the head company because of Subdivision 707-A
+
+             (1)  The other sections of this Subdivision operate in relation to the actual or proposed transfer of a * tax loss on the basis described in this section if:
+
+                     (a)  the * head company of a * consolidated group or * MEC group incurred the tax loss because of Subdivision 707-A; and
+
+                     (b)  the company (the **_real loss-maker_**) that incurred the tax loss apart from Subdivision 707-A is a * member of the group at the end of the income year for which it is proposed to transfer the loss under this Subdivision.
+
+             (2)  The other sections of this Subdivision, except section 170-28, operate as if:
+
+                     (a)  the * head company were a transferring corporation within the meaning of the _Financial Corporations (Transfer of Assets and Liabilities) Act 1993_; and
+
+                     (b)  the head company had incurred the * tax loss for the income year for which the real loss-maker incurred the tax loss (apart from Subdivision 707-A).
+
+Note:          This has the effect that (because of subsection 170-10(1)) those sections operate as if the head company were the loss company and the loss year were the income year for which the real loss-maker incurred the loss.
+
+             (3)  Section 170-28 operates as if:
+
+                     (a)  the real loss-maker were the * loss company; and
+
+                     (b)  section 701-1 (the single entity rule) could not affect whether the _Financial Corporations (Transfer of Assets and Liabilities) Act 1993_ would have applied to the transfer described in section 170-28.
+
+# Schedule 2—Net capital losses and the Income Tax Assessment Act 1997
+
+## Part 1—Replacement of sections 170-110 to 170-145
+
+#### <span style="font-size:8.0pt"> </span><span style="font-size:8.0pt"> </span>
+
+#### Effect of transferring a net capital loss
+
+##### <a id="170-110"></a>170-110  When a corporation can transfer a net capital loss
+
+             (1)  A transferring corporation within the meaning of the _Financial Corporations (Transfer of Assets and Liabilities) Act 1993_ (the _loss company_) can transfer an amount of its * net capital loss for an income year of the loss company (the **_capital loss year_**) to a receiving corporation within the meaning of that Act (the **_gain company_**) if the conditions in this Subdivision are met.
+
+             (2)  The amount transferred can be the whole or part of the * net capital loss.
+
+Note:          A PDF cannot transfer a net capital loss, except one for a period before it became a PDF: see section 195-30 of the _Income Tax Assessment Act 1997_.
+
+             (3)  However, the * loss company cannot transfer so much of the * net capital loss as the loss company has applied, or can apply, in working out its * net capital gain or * net capital loss for an income year before the one in which the amount is transferred.
+
+##### <a id="170-115"></a>170-115  Who can apply transferred loss
+
+             (1)  If an amount of a * net capital loss is transferred, the gain company can apply the amount in working out its * net capital gain for the income year of the gain company for which the amount is transferred or for a later income year. The income year for which the gain company applies the amount is called the **_application year_**.
+
+Note:          A company’s net capital gain or net capital loss for an income year is usually worked out under section 102-5.
+
+             (2)  The loss company can no longer apply the transferred amount and is taken not to have made the * net capital loss to the extent of that amount.
+
+##### <a id="170-120"></a>170-120  Gain company is taken to have made transferred loss
+
+             (1)  If an amount of a * net capital loss is transferred, the amount is taken to be a * net capital loss of the gain company for the capital loss year.
+
+             (2)  However, if the capital loss year is the same as the application year, the amount is taken to be a * capital loss of the gain company for the application year.
+
+##### <a id="170-125"></a>170-125  Tax treatment of consideration for transferred net capital loss
+
+             (1)  If the loss company receives consideration from the gain company for the transferred amount:
+
+                     (a)  the consideration is neither assessable income nor exempt income of the loss company; and
+
+                     (b)  the loss company does not make a * capital gain because of receiving the consideration.
+
+Note:          However, the consideration may affect how section 170-220 modifies the cost base of direct and indirect interests in the loss company.
+
+             (2)  If the gain company gives consideration to the loss company for the transferred amount:
+
+                     (a)  the gain company cannot deduct the consideration; and
+
+                     (b)  the gain company does not make a * capital loss because of giving the consideration.
+
+Note:          However, the consideration may affect how section 170-225 modifies the cost base of direct and indirect interests in the gain company.
+
+#### Conditions for transfer
+
+##### <a id="170-128"></a>170-128 _Financial Corporations (Transfer of Assets and Liabilities) Act 1993_ must apply to asset transfer from loss company to gain company
+
+                   If it were assumed that:
+
+                     (a)  an asset (within the meaning of the _Financial Corporations (Transfer of Assets and Liabilities) Act 1993_) had been transferred by the loss company to the gain company on the last day of a particular income year of the loss company (the **_notional transfer year)_**; and 
+
+                     (b)  the requirements of paragraphs 7(6)(a) and (b) of that Act were satisfied in relation to that transfer;
+
+then it must be the case that that Act would have applied to that transfer.
+
+##### <a id="170-132"></a>170-132  The loss year
+
+                   The * loss year must be either:
+
+                     (a)  the income year in which the _Financial Corporations (Transfer of Assets and Liabilities) Act 1993_ commenced; or
+
+                     (b)  an earlier income year.
+
+##### <a id="170-133"></a>170-133  The transfer year
+
+             (1)  The * transfer year must either:
+
+                     (a)  end at the end of the * notional transfer year; or
+
+                     (b)  correspond to the income year of the * loss company that next follows the * notional transfer year.
+
+             (2)  Also, the * transfer year must be one of the 10 income years after the income year in which the _Financial Corporations (Transfer of Assets and Liabilities) Act 1993_ commenced.
+
+##### <a id="170-135"></a>170-135  The loss company
+
+             (1)  It must be the case that the loss company was _not_ required to calculate the * net capital loss:
+
+                     (a)  under section 165-114 (because of a change in ownership or control); or 
+
+                     (b)  under section 175-75 (because of an injected capital gain or loss).
+
+             (2)  Also, it must be the case that neither Subdivision 165-CA nor Subdivision 175-CA would have prevented the loss company from applying the * net capital loss in working out its * net capital gain for the application year if it had made enough capital gains in that year.
+
+Note 1:       Subdivision 165-CA deals with the consequences of changing ownership or control of a company. Subdivision 175-CA deals with using a company’s net capital losses to avoid income tax.
+
+Note 2:       A company’s net capital gain or net capital loss for an income year is usually worked out under section 102-5.
+
+##### <a id="170-140"></a>170-140  The gain company
+
+             (1)  If the capital loss year and the application year are _not_ the same, the gain company must not be prevented by Subdivision 165-CA or 175-CA from applying the transferred amount in working out its * net capital gain for the application year. 
+
+Note 1:       Subdivision 165-CA deals with the consequences of changing ownership or control of a company. Subdivision 175-CA deals with using a company’s net capital losses to avoid income tax.
+
+Note 2:       A company’s net capital gain or net capital loss for an income year is usually worked out under section 102-5.
+
+             (2)  If the capital loss year and the application year _are_ the same, it must be the case that the gain company was _not_ required to calculate its own * net capital gain or * net capital loss for the application year:
+
+                     (a)  under Subdivision 165-CB (because of a change in ownership or control); or 
+
+                     (b)  under section 175-75 (because of an injected capital gain or loss).
+
+Note:          In deciding whether paragraph (b) applies, remember that the transferred amount is taken to be a capital loss of the gain company for the application year (because of subsection 170-120(2)).
+
+##### <a id="170-145"></a>170-145  Maximum amount that can be transferred
+
+Loss company can only transfer what it cannot use itself
+
+             (1)  The amount transferred cannot exceed the amount of the loss company’s * net capital loss that, apart from the transfer, the loss company would carry forward to the next income year after the application year.
+
+Note:          If the capital loss year and the application year are the same, the loss company would carry forward the whole of the net capital loss, because section 102-5 does not allow a net capital loss to be applied in the income year in which it was made.
+
+Example:    In the application year the loss company has:
+
+·<span style="font:7.0pt " new="">    </span>a net capital loss from an earlier income year of $25,000; and
+
+·<span style="font:7.0pt " new="">    </span>other capital losses totalling $10,000; and
+
+·<span style="font:7.0pt " new="">    </span>capital gains totalling $20,000;
+
+                   Of the $25,000 loss, the loss company can transfer to the gain company no more than:
+
+![](http://www.comlaw.gov.au/Details/C2006C00002/Html/image003.gif)
+
+## Part 2—Addition of provisions at the end of Subdivision 170-B
+
+#### Special rules for transfer from head company of consolidated group or MEC group
+
+##### <a id="170-175"></a>170-175  Transfer of a net capital loss made by the head company because of Subdivision 707-A
+
+             (1)  The other sections of this Subdivision operate in relation to the actual or proposed transfer of a * net capital loss on the basis described in this section if:
+
+                     (a)  the * head company of a * consolidated group or * MEC group made the net capital loss because of Subdivision 707-A; and
+
+                     (b)  the company (the **_real loss-maker_**) that made the net capital loss apart from Subdivision 707-A is a * member of the group at the end of the income year for which it is proposed to transfer the loss under this Subdivision.
+
+             (2)  The other sections of this Subdivision, except section 170-128, operate as if:
+
+                     (a)  the * head company were a transferring corporation within the meaning of the _Financial Corporations (Transfer of Assets and Liabilities) Act 1993_; and
+
+                     (b)  the head company had made the * net capital loss for the income year for which the real loss-maker made the net capital loss (apart from Subdivision 707-A).
+
+Note:          This has the effect that (because of subsection 170-110(1)) those sections operate as if the head company were the loss company and the capital loss year were the income year for which the real loss-maker made the loss.
+
+             (3)  Section 170-128 operates as if:
+
+                     (a)  the real loss-maker were the * loss company; and
+
+                     (b)  section 701-1 (the single entity rule) could not affect whether the _Financial Corporations (Transfer of Assets and Liabilities) Act 1993_ would have applied to the transfer described in section 170-28.
+
+             (4)  Subsection 170-135(2) operates as if the reference in it to Subdivision 165-CA were a reference to that Subdivision as it operates given the effect of Subdivision 707-B, and Subdivision 719-F if relevant, on the operation of Subdivision 165-A.
+
+Note:          Subdivision 165-CA determines whether a net capital loss can be applied by reference to whether Subdivision 165-A would permit the deduction of a tax loss for the same income year as the net capital loss. Subdivisions 707-B and 719-F affect the operation of Subdivision 165-A in relation to losses made by a company because of Subdivision 707-A.
 
 # Notes to the _Financial Corporations (Transfer of Assets and Liabilities) Act 1993_
 
@@ -1061,7 +1681,7 @@ Schedule 4 (item 7): Royal Assent <i>(j)
     <div>Ss. 4–14 and Schedule 3 (items 187–189): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(k)</i></div>
   </td>
   <td>
-    <div>Ss. 4–14 \[ <i>see</i>Note 1</div>
+    <div>Ss. 4–14</div>
   </td>
 </tr>
 <tr>
@@ -1219,24 +1839,6 @@ Remainder: Royal Assent</div>
     <div>—</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006</div>
-  </td>
-  <td>
-    <div>101, 2006</div>
-  </td>
-  <td colspan="2">
-    <div>14 Sept 2006</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 2 (items 50–79) and Schedule 6 (items 1, 6–11): 
-Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 6 (items 1, 6–11)</div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -1273,7 +1875,7 @@ _(e)_     The _Financial Corporations (Transfer of Assets and Liabilitie
 
                  (1)   Subject to subsection (2), this Act commences on the day on which it receives the Royal Assent.
 
-_(f)_      The _Financial Corporations (Transfer of Assets and Liabilities) Act 1993_ was amended by Schedule 2 (items 540–544) and Schedule 3 (items 22 and 23) only of the _Tax Law Improvement Act (No. 1) 1998_, subsections 2(1)–(3) of which provide as follows:
+_(f)_      The _Financial Corporations (Transfer of Assets and Liabilities) Act 1993_ was amended by Schedule 2 (items 540–544) and Schedule 3 (items 22, 23) only of the _Tax Law Improvement Act (No. 1) 1998_, subsections 2(1)–(3) of which provide as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
@@ -1503,7 +2105,7 @@ _(m)_ Subsection 2(1) (item 13) of the _New Business Tax System (Consolidation
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 107, 1997 (as am. by No. 24, 2000); Nos. 46 and 48, 1998; No. 24, 2000; Nos. 55 and 121, 2001; No. 33, 2002; No. 101, 2006</div>
+    <div>am. No. 107, 1997 (as am. by No. 24, 2000); Nos. 46 and 48, 1998; No. 24, 2000; Nos. 55 and 121, 2001; No. 33, 2002</div>
   </td>
 </tr>
 <tr>
@@ -1580,14 +2182,6 @@ _(m)_ Subsection 2(1) (item 13) of the _New Business Tax System (Consolidation
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 101, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Division 2</b></div>
   </td>
   <td>
@@ -1599,7 +2193,7 @@ _(m)_ Subsection 2(1) (item 13) of the _New Business Tax System (Consolidation
     <div>S. 15</div>
   </td>
   <td>
-    <div>am. Nos. 39 and 121, 1997; No. 46, 1998; No. 133, 2003; No. 101, 2006</div>
+    <div>am. Nos. 39 and 121, 1997; No. 46, 1998; No. 133, 2003</div>
   </td>
 </tr>
 <tr>
@@ -1615,7 +2209,7 @@ _(m)_ Subsection 2(1) (item 13) of the _New Business Tax System (Consolidation
     <div>S. 16</div>
   </td>
   <td>
-    <div>am. No. 39, 1997; No. 133, 2003; No. 101, 2006</div>
+    <div>am. No. 39, 1997; No. 133, 2003</div>
   </td>
 </tr>
 <tr>
@@ -1639,7 +2233,7 @@ _(m)_ Subsection 2(1) (item 13) of the _New Business Tax System (Consolidation
     <div>S. 17</div>
   </td>
   <td>
-    <div>am. No. 39, 1997; No. 101, 2006</div>
+    <div>am. No. 39, 1997</div>
   </td>
 </tr>
 <tr>
@@ -1692,14 +2286,6 @@ _(m)_ Subsection 2(1) (item 13) of the _New Business Tax System (Consolidation
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Division 5</b></div>
   </td>
   <td>
@@ -1711,7 +2297,7 @@ _(m)_ Subsection 2(1) (item 13) of the _New Business Tax System (Consolidation
     <div>S. 21</div>
   </td>
   <td>
-    <div>am. Nos. 39 and 121, 1997; No. 101, 2006</div>
+    <div>am. Nos. 39 and 121, 1997</div>
   </td>
 </tr>
 <tr>
@@ -1727,7 +2313,7 @@ _(m)_ Subsection 2(1) (item 13) of the _New Business Tax System (Consolidation
     <div>S. 22</div>
   </td>
   <td>
-    <div>am. No. 121, 1997; Nos. 16 and 46, 1998; No. 162, 2005; No. 101, 2006</div>
+    <div>am. No. 121, 1997; Nos. 16 and 46, 1998; No. 162, 2005</div>
   </td>
 </tr>
 <tr>
@@ -1772,20 +2358,11 @@ _(m)_ Subsection 2(1) (item 13) of the _New Business Tax System (Consolidation
 </tr>
 <tr>
   <td>
-    <div>Subdiv. A of Div 8</div>
-  </td>
-  <td>
-    <div>rep. No. 101, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Heading to Subdiv. A of 
 Div. 8</div>
   </td>
   <td>
-    <div>ad. No. 39, 1997 
-rep. No. 101, 2006</div>
+    <div>ad. No. 39, 1997</div>
   </td>
 </tr>
 <tr>
@@ -1798,34 +2375,10 @@ rep. No. 101, 2006</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 26</div>
   </td>
   <td>
     <div>am. No. 39, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 25</div>
-  </td>
-  <td>
-    <div>rep. No. 101, 2006</div>
   </td>
 </tr>
 <tr>
@@ -1846,26 +2399,10 @@ rep. No. 101, 2006</div>
 </tr>
 <tr>
   <td>
-    <div>S. 26A</div>
+    <div>Ss. 26A, 26B</div>
   </td>
   <td>
     <div>ad. No. 39, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 26B</div>
-  </td>
-  <td>
-    <div>ad. No. 39, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 2006</div>
   </td>
 </tr>
 <tr>
@@ -1881,7 +2418,7 @@ rep. No. 101, 2006</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 16, 2003; No. 101, 2006</div>
+    <div>am. No. 16, 2003</div>
   </td>
 </tr>
 <tr>
@@ -1910,14 +2447,6 @@ rep. No. 101, 2006</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Subdivision 170–A</b></div>
   </td>
   <td>
@@ -1930,14 +2459,6 @@ rep. No. 101, 2006</div>
   </td>
   <td>
     <div>ad. No. 39, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 2006</div>
   </td>
 </tr>
 <tr>
@@ -1958,26 +2479,10 @@ rep. No. 101, 2006</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 170-10</div>
   </td>
   <td>
     <div>ad. No. 39, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 2006</div>
   </td>
 </tr>
 <tr>
@@ -1990,14 +2495,6 @@ rep. No. 101, 2006</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 170-20</div>
   </td>
   <td>
@@ -2006,26 +2503,10 @@ rep. No. 101, 2006</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 170-23</div>
   </td>
   <td>
     <div>ad. No. 39, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 2006</div>
   </td>
 </tr>
 <tr>
@@ -2046,14 +2527,6 @@ rep. No. 101, 2006</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 170-28</div>
   </td>
   <td>
@@ -2062,26 +2535,10 @@ rep. No. 101, 2006</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 170-32</div>
   </td>
   <td>
     <div>ad. No. 39, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 2006</div>
   </td>
 </tr>
 <tr>
@@ -2102,26 +2559,10 @@ rep. No. 101, 2006</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 170-35</div>
   </td>
   <td>
     <div>ad. No. 39, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 2006</div>
   </td>
 </tr>
 <tr>
@@ -2134,26 +2575,10 @@ rep. No. 101, 2006</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 170-55</div>
   </td>
   <td>
     <div>ad. No. 39, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 2006</div>
   </td>
 </tr>
 <tr>
@@ -2166,26 +2591,10 @@ rep. No. 101, 2006</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 170-65</div>
   </td>
   <td>
     <div>ad. No. 39, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 2006</div>
   </td>
 </tr>
 <tr>
@@ -2198,26 +2607,10 @@ rep. No. 101, 2006</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 170-75</div>
   </td>
   <td>
     <div>ad. No. 16, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 2006</div>
   </td>
 </tr>
 <tr>
@@ -2246,14 +2639,6 @@ rep. No. 101, 2006</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part 1</b></div>
   </td>
   <td>
@@ -2270,26 +2655,10 @@ rep. No. 101, 2006</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 170-110</div>
   </td>
   <td>
     <div>ad. No. 46, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 2006</div>
   </td>
 </tr>
 <tr>
@@ -2302,14 +2671,6 @@ rep. No. 101, 2006</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 170-120</div>
   </td>
   <td>
@@ -2318,26 +2679,10 @@ rep. No. 101, 2006</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Heading to s. 170-125</div>
   </td>
   <td>
     <div>am. No. 169, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 2006</div>
   </td>
 </tr>
 <tr>
@@ -2358,14 +2703,6 @@ rep. No. 101, 2006</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 170-128</div>
   </td>
   <td>
@@ -2374,26 +2711,10 @@ rep. No. 101, 2006</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 170-132</div>
   </td>
   <td>
     <div>ad. No. 46, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 2006</div>
   </td>
 </tr>
 <tr>
@@ -2414,14 +2735,6 @@ rep. No. 101, 2006</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 170-135</div>
   </td>
   <td>
@@ -2430,26 +2743,10 @@ rep. No. 101, 2006</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 170-140</div>
   </td>
   <td>
     <div>ad. No. 46, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 2006</div>
   </td>
 </tr>
 <tr>
@@ -2470,14 +2767,6 @@ rep. No. 101, 2006</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part 2</b></div>
   </td>
   <td>
@@ -2494,26 +2783,10 @@ rep. No. 101, 2006</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 170-175</div>
   </td>
   <td>
     <div>ad. No. 16, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 2006</div>
   </td>
 </tr></table>
 
@@ -2764,85 +3037,6 @@ _New International Tax Arrangements (Managed Funds and Other Measures) Act 2005 
                      (a)  are issued after 18 June 1993; and
 
                      (b)  are transferred on or after the Assent day.
-
-* * *
-
-_Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006 
- (No. 101, 2006)_
-
-## Schedule 6
-
-## 1  Application of Schedule 1 and 2 amendments
-
-Except as mentioned in items 2 and 3, the repeals and amendments made by Schedules 1 and 2 apply:
-
-                     (a)  so far as they affect assessments—to assessments for the 2006-07 income year and all later income years; and
-
-                     (b)  otherwise—to acts done or omitted to be done, or states of affairs existing, after the commencement of the repeals and amendments.
-
-## 6  Object
-
-The object of this Part is to ensure that, despite the repeals and amendments made by this Act, the full legal and administrative consequences of:
-
-                     (a)  any act done or omitted to be done; or
-
-                     (b)  any state of affairs existing; or
-
-                     (c)  any period ending;
-
-before such a repeal or amendment applies, can continue to arise and be carried out, directly or indirectly through an indefinite number of steps, even if some or all of those steps are taken after the repeal or amendment applies.
-
-## 7  Making and amending assessments, and doing other things, in relation to past matters
-
-Even though an Act is repealed or amended by this Act, the repeal or amendment is disregarded for the purpose of doing any of the following under any Act or legislative instrument (within the meaning of the _Legislative Instruments Act 2003_):
-
-                     (a)  making or amending an assessment (including under a provision that is itself repealed or amended);
-
-                     (b)  exercising any right or power, performing any obligation or duty or doing any other thing (including under a provision that is itself repealed or amended);
-
-in relation to any act done or omitted to be done, any state of affairs existing, or any period ending, before the repeal or amendment applies.
-
-Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998-99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
-
-                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998-99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
-
-                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998-99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
-
-                   Despite the repeal of sections 160ARU and 160ARV, item 9 will ensure that the general interest charge will accrue on the unpaid franking deficit tax and penalty until they are paid.
-
-                   Item 7 will also preserve Greg Ltd’s right, under former section 160ART of that Act, to object against the Commissioner’s amended assessment (including the penalty), since the objection is the exercise of a right in relation to a franking year that ended before the repeal of Part IIIAA.
-
-Example 2: During the 1997-98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
-
-                   Following an audit undertaken after the repeal of those Divisions, the Commissioner discovers that the withheld amounts have not been remitted. The company’s records are incomplete and the Commissioner is unable to completely ascertain the extent of its liability for the withheld amounts. Under section 222AGA of that Act, the Commissioner makes an estimate of the liability.
-
-                   Item 7 will disregard the repeal of section 220AAZA of that Act (which empowered the Commissioner to recover the amount of the estimate). Even though the estimate is made after the repeal, it relates to amounts withheld before the repeal.
-
-## 8  Saving of provisions about effect of assessments
-
-If a provision or part of a provision that is repealed or amended by this Act deals with the effect of an assessment, the repeal or amendment is disregarded in relation to assessments made, before or after the repeal or amendment applies, in relation to any act done or omitted to be done, any state of affairs existing, or any period ending, before the repeal or amendment applies.
-
-## 9  Saving of provisions about general interest charge, failure to notify penalty or late reconciliation statement penalty
-
-If:
-
-                     (a)  a provision or part of a provision that is repealed or amended by this Act provides for the payment of:
-
-                              (i)  general interest charge, failure to notify penalty or late reconciliation statement penalty (all within the meaning of the _Income Tax Assessment Act 1936_); or
-
-                             (ii)  interest under the _Taxation (Interest on Overpayments and Early Payments) Act 1983_; and
-
-                     (b)  in a particular case, the period in respect of which the charge, penalty or interest is payable (whether under the provision or under the _Taxation Administration Act 1953_) has not begun, or has begun but not ended, when the provision is repealed or amended;
-
-then, despite the repeal or amendment, the provision or part continues to apply in the particular case until the end of the period.
-
-## 10  Repeals disregarded for the purposes of dependent provisions
-
-If the operation of a provision (the **_subject provision_**) of any Act or legislative instrument (within the meaning of the _Legislative Instruments Act 2003_) made under any Act depends to any extent on an Act, or a provision of an Act, that is repealed by this Act, the repeal is disregarded so far as it affects the operation of the subject provision.
-
-## 11  Schedule does not limit operation of section 8 of the _Acts Interpretation Act 1901_
-
-This Schedule does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
 
  
 
