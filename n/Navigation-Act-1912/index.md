@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00069/Html/Navigationvol1_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00362/Html/Navigationvol1_WD02_image001.gif)
 
 # Navigation Act 1912
 
 **Act No. 4 of 1913 as amended**
 
-This compilation was prepared on 10 February 2010
- taking into account amendments up to Act No. 131 of 2009
+This compilation was prepared on 16 July 2009
+ taking into account amendments up to Act No. 54 of 2009
 
 **Volume 1** includes:        Table of Contents
  Sections 1–427
@@ -26,7 +26,6 @@ The operation of amendments that have been incorporated may be
  Table of Acts
  Act Notes
  Table of Amendments
- Note 2
  Table A
 
 Prepared by the Office of Legislative Drafting and Publishing,
@@ -1136,7 +1135,7 @@ or in relation to its owner, master or crew.
 
                      (b)  ends at a port in that Territory.
 
-##### <a id="2A"></a>2A  Act to bind the Crown
+##### <a id="2A"></a>2A  Act to bind the Crown
 
                    This Act binds the Crown in right of the Commonwealth, of each of the States and of the Northern Territory.
 
@@ -1580,7 +1579,7 @@ Note:          In relation to subparagraph (1)(d)(i), see al
 
                      (b)  is used or intended for use in, or in any operations or activities associated with or incidental to, exploring or exploiting the natural resources of any or all of the following, namely:
 
-                              (i)  the continental shelf of Australia;
+                              (i)  the continental shelf of   Australia;
 
                              (ii)  the seabed of the Australian coastal sea; and
 
@@ -1806,7 +1805,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
           (1A)  Without limiting the generality of subsection (1), regulations may give effect to the STCW Convention.
 
-          (1B)  Regulations giving effect to the STCW Convention are not intended to exclude the operation of a law of a State or of the Northern Territory that gives effect to that Convention.
+          (1B)  Regulations giving effect to the STCW Convention are not intended to exclude the operation of a law of a State or of the Northern   Territory that gives effect to that Convention.
 
              (2)  Without limiting the generality of subsection (1), the conditions specified in regulations made for the purposes of that subsection may include conditions as to age, character, health, nationality, citizenship or residence, and regulations made for the purposes of that subsection may make provision for and in relation to:
 
@@ -2802,7 +2801,7 @@ the Marine Council is to inquire into the question and make such order as it con
 
 ##### <a id="138B"></a>138B  Interpretation
 
-                   In this Division:
+                   In this Division:
 
                     <a name="accommod"></a>**_accommodation_** includes sleeping rooms, mess rooms, duty rooms, recreation rooms, store rooms, change rooms, oilskin lockers, galleys, refrigerating chambers, sanitary and lavatory accommodation, hospital accommodation, office accommodation and catering accommodation.
 
@@ -2982,4 +2981,4 @@ a proper authority may take into his or her charge that money and those effects.
 
 ##### <a id="154"></a>154  Recovery of wages of seaman lost with ship
 
-             (1)  Where a seaman is lost with his or her ship, the Authority may recover the wages d
+             (1)  Where a seaman is lost with his or her ship, the Authority may recover the wages due to t
