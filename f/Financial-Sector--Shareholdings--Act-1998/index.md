@@ -1,7 +1,7 @@
 
 Financial Sector (Shareholdings) Act 1998
 Act No. 55 of 1998 as amended
-This compilation was prepared on 24 May 2001 taking into account amendments up to Act No. 31 of 2001
+This compilation was prepared on 19 December 2000  taking into account amendments up to Act No. 137 of 2000
 The text of any of those amendments not in force on that date is appended in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
   
@@ -55,10 +55,11 @@ Part 4—Injunctions	23
 35	Certain limits on granting injunctions not to apply	25
 36	Other powers of the court unaffected	26
 Part 5—Offences	27
+37	False or misleading statements	27
 38	Incorrect records	27
-39	Indictable offences	27
-40	Application of Criminal Code	27
-41	Service of summons or process on foreign corporations—criminal proceedings	27
+39	Indictable offences	28
+40	Application of Criminal Code	28
+41	Service of summons or process on foreign corporations—criminal proceedings	28
 Part 6—Civil liability	29
 42	Civil liability of corporations	29
 43	Civil liability of persons other than corporations	30
@@ -81,7 +82,7 @@ Schedule 1—Ownership definitions	36
 9	Voting power	42
 10	Stake in a company	43
 11	Direct control interests in a company	43
-Notes		45
+Notes to the Financial Sector (Shareholdings) Act 1998	45
 An Act relating to shareholdings in certain financial sector companies, and for related purposes
 Part 1—Preliminary
   
@@ -318,13 +319,9 @@ Note:	Practical control has the meaning given by section 23.
 	(b)	if the Treasurer, by written notice given to the person, allows a longer period for compliance—before the end of that longer period.
 	(3)	A person is guilty of an offence if:
 	(a)	the person is subject to a requirement under this section; and
-	(b)	the person intentionally or recklessly contravenes the requirement.
+	(b)	the person recklessly contravenes the requirement.
 Penalty:	400 penalty units.
 Note:	Chapter 2 of the Criminal Code sets out the general principles of criminal responsibility.
-	(4)	For the purposes of subsection (3), a person is taken to be reckless if:
-	(a)	the person is aware of a substantial risk that anything done or not done by the person will constitute a contravention of a requirement under this section; and
-	(b)	having regard to the circumstances known to the person, it is unjustifiable to take the risk.
-	(5)	The question whether taking a risk is unjustifiable is one of fact.
 25  Remedial orders
 	(1)	If:
 	(a)	a declaration under section 23 is in force in relation to a person and in relation to a financial sector company; and
@@ -366,13 +363,9 @@ No self‑incrimination
 Offence
 	(4)	A person is guilty of an offence if:
 	(a)	the person is subject to a requirement covered by paragraph (1)(a), (b) or (c); and
-	(b)	the person intentionally or recklessly contravenes the requirement.
+	(b)	the person recklessly contravenes the requirement.
 Penalty:	50 penalty units.
 Note:	Chapter 2 of the Criminal Code sets out the general principles of criminal responsibility.
-	(4A)	For the purposes of subsection (4), a person is taken to be reckless if:
-	(a)	the person is aware of a substantial risk that anything done or not done by the person will constitute a contravention of a requirement covered by paragraph (1)(a), (b) or (c); and
-	(b)	having regard to the circumstances known to the person, it is unjustifiable to take the risk.
-	(4B)	The question whether taking a risk is unjustifiable is one of fact.
 Regulations may confer discretionary powers on the Treasurer
 	(5)	Regulations made for the purposes of this section may make provision for or in relation to a matter by conferring a power on the Treasurer. For example, the regulations could provide that the Treasurer may, by written notice given to a financial sector company, require the company to give the Treasurer, within the period and in the manner specified in the notice, specified information about an ownership matter relating to the company.
 Definition
@@ -478,6 +471,17 @@ Performance injunctions
 
 Part 5—Offences
   
+37  False or misleading statements
+		A person is guilty of an offence if:
+	(a)	the person makes a statement (whether orally, in a document or in any other way); and
+	(b)	the statement:
+	(i)	is false or misleading in a material particular; or
+	(ii)	omits any matter or thing without which the statement is misleading in a material particular; and
+	(c)	either:
+	(i)	the statement is made to a person who is exercising powers or performing functions under, or in connection with, this Act; or
+	(ii)	the statement is made in purported compliance with a requirement covered by paragraph 26(1)(c).
+Penalty:	Imprisonment for 6 months.
+Note:	Chapter 2 of the Criminal Code sets out the general principles of criminal responsibility.
 38  Incorrect records
 		A person is guilty of an offence if:
 	(a)	the person is subject to a requirement covered by paragraph 26(1)(a); and
@@ -729,7 +733,7 @@ second level percentage means the percentage of the direct control interest held
 Notes to the Financial Sector (Shareholdings) Act 1998
 Note 1
 The Financial Sector (Shareholdings) Act 1998 as shown in this compilation comprises Act No. 55, 1998 amended as indicated in the Tables below.
-For all relevent information pertaining to application, saving or transitional provisions see Table A.
+All relevent information pertaining to application, saving or transitional provisions see Table A.
 Table of Acts
 Act
 Number  and year
@@ -745,47 +749,33 @@ Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 19
 44, 1999
 17 June 1999
 Schedule 7 (item 45): 1 July 1999 (see Gazette 1999, No. S283) (a) Schedule 8: Royal Assent (a)
-Sch. 8 (items 22, 23) S. 3(2)(e) (am. by 160, 2000, Sch. 4 [item 4])
-as amended by
-
-
-
-
-Financial Sector Legislation Amendment Act (No. 1) 2000
-160, 2000
-21 Dec 2000
-Schedule 1 (item 21): Royal Assent Remainder: 18 Jan 2001
-—
+Sch. 8 (items 22, 23)
 Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000
 137, 2000
 24 Nov 2000
-Ss. 1‑3 and Schedule 1 (items 1, 4, 6, 7, 9‑11, 32): Royal Assent Remainder: 24 May 2001
+Schedule 2 (items 204, 418, 419): [see (b), Note 2 and Table A]
 Sch. 2 (items 418, 419)
-Treasury Legislation Amendment (Application of Criminal Code) Act (No. 1) 2001
-31, 2001
-28 Apr 2001
-Schedule 1 (items 1-4): 28 Apr 2001 (b)
-—
 (a)	The Financial Sector (Shareholdings) Act 1998 was amended by Schedule 7 (item 45) only of the Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999, subsections 3(1), (2)(e) and (16) of which provide as follows:
 	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 	(2)	The following provisions commence on the transfer date:
-	(e)	subject to subsection (12), Schedule 7, other than items 43, 44, 118, 205 and 207 (the commencement of those items is covered by subsections (10), (11) and (13)).
+	(e)	subject to subsections (12), (14) and (15), Schedule 7, other than items 43, 44, 118, 205 and 207 (the commencement of those items is covered by subsections (10), (11) and (13)). 
 	(16)	The Governor‑General may, by Proclamation published in the Gazette, specify the date that is to be the transfer date for the purposes of this Act.
-
-(b)	The Financial Sector (Shareholdings) Act 1998 was amended by Schedule 1 (items 1-4) only of the Treasury Legislation Amendment (Application of Criminal Code) Act (No. 1) 2001, subsection 2(1) of which provides as follows:
-	(1)	Sections 1, 2 and 3 and items 1 to 4 (inclusive) of Schedule 1, and Schedule 2, to this Act commence on the day on which this Act receives the Royal Assent.
+(b)	The Financial Sector (Shareholdings) Act 1998 was amended by Schedule 2 (item 204) only of the Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000, subsections 2(2) and (3) of which provide as follows:
+	(2)	Subject to this section, the provisions of this Act that are not covered by subsection (1) commence on a day to be fixed by Proclamation. [see Note 2]
+	(3)	If item 15 of Schedule 1 to this Act does not commence under subsection (2) within the period of 6 months beginning on the day on which this Act receives the Royal Assent, the provisions of this Act that are not covered by subsection (1) commence on the first day after the end of that period. This subsection has effect subject to the following subsections of this section. [see Note 2]
 Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
 How affected
-S. 24	
-am. No. 31, 2001
-S. 26	
-am. No. 31, 2001
-S. 37	
-rep. No. 137, 2000
 Ss. 48, 49	
 ad. No. 44, 1999
+Note 2
+Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)
+The following amendment commences on 24 May 2001 unless proclaimed earlier:
+Schedule 2
+204  Section 37
+Repeal the section.
+As at 19 December 2000 the amendments are not incorporated in this compilation.
 Table A 
 Applications, saving or transitional provisions
 Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999 (No. 44, 1999)
@@ -825,6 +815,7 @@ replaced legislation means:
 	The Governor‑General may make regulations, not inconsistent with this Act, prescribing matters required or permitted by this Act to be prescribed.
 
 Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)
+The following provisions commence on 24 May 2001 unless proclaimed earlier:
 Schedule 2
 418  Transitional—pre‑commencement offences
 (1)	Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
