@@ -1,11 +1,12 @@
-![](http://www.comlaw.gov.au/Details/C2011C00257/Html/6f8718c2-0a4f-4b13-8e46-631b3e03957b_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00342/Html/HighEdFund1988_WD02HYP_image001.gif)
 
 # Higher Education Funding Act 1988
 
 **Act No. 2 of 1989 as amended**
 
-This compilation was prepared on 19 April 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 4 May 2010
+ taking into account amendments up to Act No. 8 of 2010
+ and Declaration under subsection 4(2) of the _Higher Education Funding  Act 1988_ (_see_ F2010L00709)
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +15,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -52,7 +53,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [12](#12).          Institutions to which provisions apply
 
-[13](#13).          Undergraduate and post‑graduate fees
+[13](#13).          Undergraduate and post-graduate fees
 
 [14](#14).          Educational profiles
 
@@ -90,7 +91,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [23B](#23B).       Conditions of grants for advanced engineering centres
 
-[23BA](#23BA).    Grants to co‑operative multimedia centres
+[23BA](#23BA).    Grants to co-operative multimedia centres
 
 [23C](#23C).       Limit on total funds available for certain grants
 
@@ -102,7 +103,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [25B](#25B).       Grants to support student organisations—direct payments
 
-[26](#26).          Guidelines for non‑building capital projects
+[26](#26).          Guidelines for non-building capital projects
 
 [27](#27).          Guidelines for special capital projects
 
@@ -212,19 +213,19 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part 4.5—Abolition of Higher Education Administration Charge** 
 
-    **Divisions 1–3** 
+    **Divisions 1–3**
 
-90–95
+[90–95](#90–95).    
 
     **Division 4—Canberra Institute of the Arts**
 
 [96](#96).          Charges not to be imposed
 
-    **Division 5—Amount of charge not fixed beyond year 1988** 
+    **Division 5—Amount of charge not fixed beyond year 1988**
 
-97, 98
+[97, 98](#97, 98).    
 
-**Chapter 4A—Post‑graduate education loan scheme** 
+**Chapter 4A—Post-graduate education loan scheme** 
 
 **Part 4A.1—Preliminary**
 
@@ -254,7 +255,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [98H](#98H).       Commonwealth not liable where person does not have a tax file number
 
-[98J](#98J).        Institution to provide information to Minister about post‑graduate students
+[98J](#98J).        Institution to provide information to Minister about post-graduate students
 
 [98JA](#98JA).     Eligible private institution to report information
 
@@ -266,7 +267,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [98M](#98M).      Electronic communications between students and institutions
 
-**Chapter 4B—Bridging for overseas‑trained professionals (BOTP) loan scheme** 
+**Chapter 4B—Bridging for overseas-trained professionals (BOTP) loan scheme** 
 
 **Part 4B.1—Introduction**
 
@@ -282,7 +283,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [98S](#98S).        Listed professional occupations and relevant assessing bodies
 
-[98T](#98T).        Assessment statement given by relevant assessing body
+[98T](#98T).       Assessment statement given by relevant assessing body
 
 [98U](#98U).       BOTP course
 
@@ -300,13 +301,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [98Y](#98Y).       Tax file number of student
 
-[98Z](#98Z).        Notice by institution
+[98Z](#98Z).       Notice by institution
 
     **Division 2—Discharge by the Commonwealth of students’ liability for fees**
 
-[98ZAA](#98ZAA).  Application of Division
+[98ZAA](#98ZAA). Application of Division
 
-[98ZA](#98ZA).     Commonwealth to discharge students’ liabilities
+[98ZA](#98ZA).    Commonwealth to discharge students’ liabilities
 
 [98ZB](#98ZB).     Commonwealth not liable where person does not have a tax file number
 
@@ -314,7 +315,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part 4B.4—Miscellaneous**
 
-[98ZD](#98ZD).     Secrecy
+[98ZD](#98ZD).    Secrecy
 
 [98ZE](#98ZE).     Annual statement
 
@@ -416,7 +417,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [106R](#106R).     Agency etc  to provide information to Commissioner
 
-[106T](#106T).      Assessment
+[106T](#106T).     Assessment
 
 [106U](#106U).     Application of tax legislation
 
@@ -432,9 +433,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [106YA](#106YA).  Effect of bankruptcy
 
-[106Z](#106Z).      Indebtedness discharged by death
+[106Z](#106Z).     Indebtedness discharged by death
 
-[106ZA](#106ZA).   Secrecy
+[106ZA](#106ZA).  Secrecy
 
 **Chapter 5B—Limit on student debt to Commonwealth** 
 
@@ -448,7 +449,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part 5B.3—Maximum permitted debt**
 
-[106ZD](#106ZD).   Minister may determine maximum permitted debt
+[106ZD](#106ZD).  Minister may determine maximum permitted debt
 
 **Part 5B.4—Loan limit notices**
 
@@ -456,17 +457,17 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [106ZF](#106ZF).   Cancelling loan limit notice
 
-[106ZG](#106ZG).   Consequences of loan limit notice—no amounts payable by Commonwealth
+[106ZG](#106ZG).  Consequences of loan limit notice—no amounts payable by Commonwealth
 
 **Part 5B.5—Suspension notices**
 
-[106ZH](#106ZH).   Commissioner must give suspension notice
+[106ZH](#106ZH).  Commissioner must give suspension notice
 
 [106ZJ](#106ZJ).    Consequences of suspension notice—HECS courses
 
 **Part 5B.6—Secrecy**
 
-[106ZK](#106ZK).   Secrecy
+[106ZK](#106ZK).  Secrecy
 
 **Chapter 6—Miscellaneous**
 
@@ -510,7 +511,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 # Chapter 1—Introductory
 
-##### <a id="1"></a>1  Short title <span style="font-size:9.0pt;font-weight: normal">[_see_ Note 1]</span>
+##### <a id="1"></a>1  Short title <span style="font-size:9.0pt; font-weight:normal">[_see_ Note 1]</span>
 
                    This Act may be cited as the _Higher Education Funding Act 1988_.
 
@@ -558,9 +559,9 @@ and includes:
 
                     <a name="capit-expenditur"></a>**_capital expenditure_** means expenditure on a capital project.
 
-                    <a name="capit-project"></a>**_capital project_** means a building project (other than a minor building project), or a non‑building capital project.
+                    <a name="capit-project"></a>**_capital project_** means a building project (other than a minor building project), or a non-building capital project.
 
-                    <a name="co-oper-multimia-centr"></a>**_co‑operative multimedia centre_** means a body corporate established, ordinarily by a consortium of persons or organisations with interests that relate to the multimedia industry, for purposes that include:
+                    <a name="co-oper-multimia-centr"></a>**_co-operative multimedia centre_** means a body corporate established, ordinarily by a consortium of persons or organisations with interests that relate to the multimedia industry, for purposes that include:
 
                      (a)  arranging for, or providing services relating to, education and training; and
 
@@ -612,9 +613,9 @@ that will assist in the development of that industry.
 
                     <a name="minor-build-project"></a>**_minor building project_**, in relation to an institution, means a building project of the institution that is determined by the institution to be a minor building project.
 
-                    <a name="multimia-industri"></a>**_multimedia industry_** means the industry concerned with all aspects of the presentation of information through a single format by making co‑ordinated use of a range of different means of communication.
+                    <a name="multimia-industri"></a>**_multimedia industry_** means the industry concerned with all aspects of the presentation of information through a single format by making co-ordinated use of a range of different means of communication.
 
-                    <a name="non-build-capit-project"></a>**_non‑building capital project_**, in relation to an institution, means a project that satisfies the criteria set out in guidelines issued by the Minister under section 26.
+                    <a name="non-build-capit-project"></a>**_non-building capital project_**, in relation to an institution, means a project that satisfies the criteria set out in guidelines issued by the Minister under section 26.
 
                     <a name="open-learn-organis"></a>**_open learning organisation_** means a body corporate established by one or more institutions for the purposes of providing access, by clients of the organisation to tertiary education courses, or units of study, for which particular institutions or other tertiary education providers undertake to grant credit towards accredited tertiary awards.
 
@@ -656,13 +657,13 @@ but does not include:
 
                      (a)  a person registered as a company auditor or a public accountant under a law in force in a State or Territory;
 
-                     (b)  a member of the Institute of Chartered Accountants in Australia or of the Australian Society of Certified Practising Accountants; or
+                     (b)  a member of the Institute of Chartered   Accountants in Australia or of the Australian Society of Certified Practising Accountants; or
 
                      (c)  a person approved by the Minister as a qualified accountant for the purposes of this Act.
 
                     <a name="qualifi-auditor"></a>**_qualified auditor_** means:
 
-                     (a)  the Auditor‑General of a State; or
+                     (a)  the Auditor-General of a State; or
 
                      (b)  a qualified accountant.
 
@@ -672,7 +673,7 @@ but does not include:
 
                      (b)  the installation of water, electricity or other services.
 
-                    <a name="secretari"></a>**_Secretary_** means the Secretary of the Department.
+                    <a name="secretari"></a>**_Secretary_** means Secretary to the Department.
 
                     <a name="state"></a>**_State_** includes the Australian Capital   Territory and the Northern Territory.
 
@@ -688,7 +689,7 @@ but does not include:
 
                     (aa)  in Chapter 4A—the year 2002 or any subsequent year up to and including the year 2004; or
 
-                   (ab)  in Chapter 5—the year 1994 or any subsequent year up to and including the year 2004; or
+                    (ab)  in Chapter 5—the year 1994 or any subsequent year up to and including the year 2004; or
 
                      (b)  otherwise—the year 1989 or any subsequent year up to and including the year 2004.
 
@@ -1212,13 +1213,13 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                    The Minister may specify the institutions to which the several provisions of this Chapter respectively apply.
 
-##### <a id="13"></a>13  Undergraduate and post‑graduate fees
+##### <a id="13"></a>13  Undergraduate and post-graduate fees
 
-             (1)  The Minister may issue guidelines in relation to the provision by institutions of undergraduate or post‑graduate courses for which fees may be charged.
+             (1)  The Minister may issue guidelines in relation to the provision by institutions of undergraduate or post-graduate courses for which fees may be charged.
 
              (2)  A person undertaking a course provided in accordance with guidelines issued under subsection (1) may be charged fees in respect of the undertaking of that course.
 
-             (3)  Guidelines issued under subsection (1) must ensure that, on an equivalent full‑time student unit basis, the number of domestic students who may be charged fees for a particular undergraduate course does not exceed 25% of the total number of places available for domestic students in that course.
+             (3)  Guidelines issued under subsection (1) must ensure that, on an equivalent full-time student unit basis, the number of domestic students who may be charged fees for a particular undergraduate course does not exceed 25% of the total number of places available for domestic students in that course.
 
              (4)  Guidelines issued under subsection (1) must:
 
@@ -1320,7 +1321,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
              (1)  The Minister may determine, for the purposes of this section, that expenditure of a specified kind by institutions to which this section applies, being expenditure in relation to the provision of superannuation benefits for staff of such institutions whose salaries are funded from grants provided under this Act for operating purposes or limited operating purposes, is to be relevant superannuation expenditure.
 
-             (2)  Where the Minister is satisfied that an institution has incurred, or will incur, relevant superannuation expenditure, the Minister may determine an amount of additional financial assistance payable to the institution in respect of a year to which this Chapter applies, and, subject to subsection (3), as from 1 January in that year, the amount determined under section 15 or 16, as the case requires, in relation to the institution in respect of that year shall be taken to be increased by the first‑mentioned amount.
+             (2)  Where the Minister is satisfied that an institution has incurred, or will incur, relevant superannuation expenditure, the Minister may determine an amount of additional financial assistance payable to the institution in respect of a year to which this Chapter applies, and, subject to subsection (3), as from 1 January in that year, the amount determined under section 15 or 16, as the case requires, in relation to the institution in respect of that year shall be taken to be increased by the first-mentioned amount.
 
              (3)  The total of the amounts determined under subsection (2) in respect of a year shall not exceed:
 
@@ -1540,11 +1541,11 @@ to be undertaken by the body as a proposal deserving financial assistance under 
 
           (1D)  For the purposes of paragraph (1B)(b), an institution or body is an accredited higher education institution or body if (and only if) the institution or body is included as a higher education institution on both of the following registers (as in force when the relevant expenditure proposal is being considered by the Minister):
 
-                     (a)  the Australian Qualifications Framework Register of Authorities empowered by Government to Accredit Post‑Compulsory Education and Training Courses;
+                     (a)  the Australian Qualifications Framework Register of Authorities empowered by Government to Accredit Post-Compulsory Education and Training Courses;
 
                      (b)  the Australian Qualifications Framework Register of Bodies with Authority to Issue Qualifications.
 
-          (1E)  The Minister may, by instrument in writing, determine requirements to be satisfied for a plan to be approved under paragraph (1C)(b).
+           (1E)  The Minister may, by instrument in writing, determine requirements to be satisfied for a plan to be approved under paragraph (1C)(b).
 
 Note:          A determination under this subsection is a legislative instrument—see paragraph 110(b).
 
@@ -1576,7 +1577,7 @@ is not less than:
 
              (2)  In forming his or her opinion under paragraph (1)(b), the Minister must have regard to the following matters:
 
-                     (a)  the quality of the undergraduate and post‑graduate training courses offered by the proposed centre;
+                     (a)  the quality of the undergraduate and post-graduate training courses offered by the proposed centre;
 
                      (b)  whether the functions of the proposed centre include the provision of:
 
@@ -1584,7 +1585,7 @@ is not less than:
 
                              (ii)  continuing education and retraining in engineering; or
 
-                            (iii)  short courses in engineering for post‑secondary teachers, including teachers of technical and further education;
+                            (iii)  short courses in engineering for post-secondary teachers, including teachers of technical and further education;
 
                      (c)  the extent to which the proposed centre is able and willing to provide, under contract, engineering research and design services for industry;
 
@@ -1616,9 +1617,9 @@ is not less than:
 
              (4)  For the purposes of subsection (3), the total amount spent by the institution includes amounts spent by the institution after the end of the year in respect of commitments entered into before the end of the year.
 
-##### <a id="23BA"></a>23BA  Grants to co‑operative multimedia centres
+##### <a id="23BA"></a>23BA  Grants to co-operative multimedia centres
 
-             (1)  The Minister may approve a proposal for expenditure by a co‑operative multimedia centre if the Minister is satisfied that the purposes of the proposal include:
+             (1)  The Minister may approve a proposal for expenditure by a co-operative multimedia centre if the Minister is satisfied that the purposes of the proposal include:
 
                      (a)  arranging for, or providing services related to, education and training; and
 
@@ -1628,17 +1629,17 @@ that will assist in the development of the multimedia industry.
 
              (2)  If the Minister approves a proposal under subsection (1), the Minister must, subject to section 23C, determine an amount of approved expenditure in respect of the proposal in respect of the year commencing on the date of the approval and each of the 2 succeeding years.
 
-             (3)  Financial assistance is granted to a co‑operative multimedia centre in respect of a proposal approved under subsection (1) on condition that the centre enters into an agreement with the Commonwealth that sets out the terms on which money is provided by the Commonwealth and accepted by the centre.
+             (3)  Financial assistance is granted to a co-operative multimedia centre in respect of a proposal approved under subsection (1) on condition that the centre enters into an agreement with the Commonwealth that sets out the terms on which money is provided by the Commonwealth and accepted by the centre.
 
-             (4)  After the start of the third year of funding of a co‑operative multimedia centre the Minister must arrange for a review of the operations of the centre to be conducted. The review is to be completed not later than 6 months before the end of the third year of funding.
+             (4)  After the start of the third year of funding of a co-operative multimedia centre the Minister must arrange for a review of the operations of the centre to be conducted. The review is to be completed not later than 6 months before the end of the third year of funding.
 
              (5)  If the Minister is satisfied, on the basis of the review, that the multimedia centre has substantially assisted in the development of the multimedia industry, the Minister may approve a further proposal for expenditure by the centre that meets the criteria specified in subsection (1).
 
              (6)  If the Minister approves a further proposal under subsection (5), the Minister must determine an amount of approved expenditure in respect of the proposal in respect of each of the 4 years following the end of the third year of funding or in respect of each of such lesser number of years as the Minister thinks appropriate.
 
-             (7)  Financial assistance is granted to a co‑operative multimedia centre in respect of a further proposal approved under subsection (5) on condition that the centre enters into a further agreement with the Commonwealth that sets out the terms on which money is provided by the Commonwealth and accepted by the centre.
+             (7)  Financial assistance is granted to a co-operative multimedia centre in respect of a further proposal approved under subsection (5) on condition that the centre enters into a further agreement with the Commonwealth that sets out the terms on which money is provided by the Commonwealth and accepted by the centre.
 
-             (8)  There is payable to a co‑operative multimedia centre in respect of a year an amount equal to the approved expenditure determined by the Minister under subsection (2) or (6) in respect of that centre and that year.
+             (8)  There is payable to a co-operative multimedia centre in respect of a year an amount equal to the approved expenditure determined by the Minister under subsection (2) or (6) in respect of that centre and that year.
 
 ##### <a id="23C"></a>23C  Limit on total funds available for certain grants
 
@@ -1654,7 +1655,7 @@ that will assist in the development of the multimedia industry.
 
                      (e)  the amounts determined by the Minister under section 23A (Grants for advanced engineering centres); and
 
-                      (f)  the amounts determined by the Minister under section 23BA (Grants for co‑operative multimedia centres);
+                      (f)  the amounts determined by the Minister under section 23BA (Grants for co-operative multimedia centres);
 
 must not exceed the consolidated amount prescribed for that year.
 
@@ -1820,9 +1821,9 @@ being lawful purposes.
 
                      (b)  an incorporated body or an unincorporated body of any other kind.
 
-##### <a id="26"></a>26  Guidelines for non‑building capital projects
+##### <a id="26"></a>26  Guidelines for non-building capital projects
 
-                   The Minister may issue guidelines setting out criteria that are to be applied in deciding whether a proposal is a proposal for a non‑building capital project.
+                   The Minister may issue guidelines setting out criteria that are to be applied in deciding whether a proposal is a proposal for a non-building capital project.
 
 ##### <a id="27"></a>27  Guidelines for special capital projects
 
@@ -1940,11 +1941,11 @@ the Minister may, for the purposes of this Chapter, give directions to the insti
 
              (3)  If the actual enrolment number in relation to a relevant higher education institution in a State in respect of the year 1988 is less than the estimated enrolment number in relation to the institution in respect of that year, there is payable to the State in relation to the institution the amount ascertained in accordance with the formula 
 
-![](http://www.comlaw.gov.au/Details/C2011C00257/Html/6f8718c2-0a4f-4b13-8e46-631b3e03957b_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00342/Html/HighEdFund1988_WD02HYP_image002.gif)
 
              (4)  Payment of an amount to a State under Part 2.2 in relation to a relevant higher education institution in respect of the year 1989 is subject to the additional condition that, if the estimated enrolment number in relation to the institution in respect of the year 1988 is less than the actual enrolment number in relation to the institution in respect of that year, the State will pay to the Commonwealth the amount ascertained in accordance with the formula 
 
-![](http://www.comlaw.gov.au/Details/C2011C00257/Html/6f8718c2-0a4f-4b13-8e46-631b3e03957b_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00342/Html/HighEdFund1988_WD02HYP_image002.gif)
 
              (5)  For the purposes of the formulae in subsections (3) and (4):
 
@@ -2020,7 +2021,7 @@ the Minister may give a direction in accordance with subsection (9) or (10), a
 
                     <a name="hec-semest-debt"></a>**_HEC semester debt_** has the meaning given by section 106J.
 
-                    <a name="post-graduat-award-student"></a>**_post‑graduate award student_**, in relation to a post‑graduate course of study at an institution in respect of a year, means a student who holds an award, granted in accordance with guidelines issued by the Minister for the purposes of this definition, in respect of that course of study in respect of that year.
+                    <a name="post-graduat-award-student"></a>**_post-graduate award student_**, in relation to a post-graduate course of study at an institution in respect of a year, means a student who holds an award, granted in accordance with guidelines issued by the Minister for the purposes of this definition, in respect of that course of study in respect of that year.
 
                     <a name="semest"></a>**_semester_** means a semester in a year to which this Chapter applies.
 
@@ -2054,7 +2055,7 @@ the Minister may give a direction in accordance with subsection (9) or (10), a
 
              (1)  This section has effect for the purposes of this Chapter.
 
-             (2)  A post‑graduate award student in relation to a post‑graduate course of study at an institution in respect of a semester is an exempt student in relation to that course of study in respect of that semester.
+             (2)  A post-graduate award student in relation to a post-graduate course of study at an institution in respect of a semester is an exempt student in relation to that course of study in respect of that semester.
 
              (3)  A person who proposes to attend or participate in but not to enrol for, is attending or participating in but is not enrolled for, or has attended or participated in but was not enrolled for, a course of study is, and shall be taken to have been at all times, an exempt student in relation to that course of study.
 
@@ -2094,7 +2095,7 @@ is an exempt student.
 
              (7)  A student is an exempt student in relation to a course of study at an institution in respect of a semester if:
 
-                     (a)  the institution has awarded the student a merit‑based equity scholarship for the course; and
+                     (a)  the institution has awarded the student a merit-based equity scholarship for the course; and
 
                      (b)  the institution awarded the scholarship in accordance with guidelines issued by the Minister for the purposes of this subsection.
 
@@ -2128,7 +2129,7 @@ then, for the purposes of this Chapter, the student’s student load for that co
 
              (1)  If a year to which this Chapter applies in which an institution provides a course of study is not divided into semesters for the purposes of the institution, the Minister may, after consulting the institution, determine that, subject to this section, that year is, in relation to that course of study at that institution, to be taken for the purposes of this Chapter to be divided into 2 semesters and specify the dates on which those semesters respectively start and end.
 
-             (2)  Where an institution provides a course or courses of study during a period that starts during or after the period that would, but for this subsection, be the last semester to end at the institution in a year to which this Chapter applies and ends before the period that would, but for this subsection, be the first semester at the institution in the next following year, the first‑mentioned period shall be taken for the purposes of this Chapter to be a separate semester for the purposes of the institution and to occur in that last‑mentioned year.
+             (2)  Where an institution provides a course or courses of study during a period that starts during or after the period that would, but for this subsection, be the last semester to end at the institution in a year to which this Chapter applies and ends before the period that would, but for this subsection, be the first semester at the institution in the next following year, the first-mentioned period shall be taken for the purposes of this Chapter to be a separate semester for the purposes of the institution and to occur in that last-mentioned year.
 
              (3)  Where an institution provides a course or courses of study during a period that does not fully coincide with a period that is otherwise, for the purposes of this Chapter a semester for the purposes of the institution, that period is taken for the purposes of this Chapter (other than subsection (2)) to be a separate semester for the purposes of the institution.
 
@@ -2150,11 +2151,11 @@ then, for the purposes of this Chapter, the student’s student load for that co
 
              (2)  Each institution shall determine, in accordance with guidelines issued by the Minister, in respect of each designated course of study that may be undertaken at the institution in a year to which this Chapter applies, a standard student load that represents an equivalent full time student unit.
 
-Amount of contribution for pre‑1997 student
+Amount of contribution for pre-1997 student
 
-             (3)  The contribution for a pre‑1997 student is worked out using the formula:
+             (3)  The contribution for a pre-1997 student is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00257/Html/6f8718c2-0a4f-4b13-8e46-631b3e03957b_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00342/Html/HighEdFund1988_WD02HYP_image003.gif)
 
 where:
 
@@ -2162,19 +2163,19 @@ where:
 
                     <a name="student-load"></a>**_student load_** means the student’s student load for the course in the semester, expressed as a proportion of the standard student load for the course in the year in which the semester occurs.
 
-             (4)  For the purposes of this section, a student is a **_pre‑1997 student_** in relation to a course of study if:
+             (4)  For the purposes of this section, a student is a **_pre-1997 student_** in relation to a course of study if:
 
                      (a)  the student commenced the course before 1997, as a contributing student; or
 
-                     (b)  the institution that provides the course has determined that the student is to be treated as a pre‑1997 student in relation to the course, and that determination is made in accordance with guidelines issued by the Minister for the purposes of this subsection.
+                     (b)  the institution that provides the course has determined that the student is to be treated as a pre-1997 student in relation to the course, and that determination is made in accordance with guidelines issued by the Minister for the purposes of this subsection.
 
 Amount of contribution for other students
 
-             (5)  The contribution for a student (other than a pre‑1997 student) is the total of the amounts worked out under subsection (6) for each of the Bands.
+             (5)  The contribution for a student (other than a pre-1997 student) is the total of the amounts worked out under subsection (6) for each of the Bands.
 
              (6)  The amount for a Band is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00257/Html/6f8718c2-0a4f-4b13-8e46-631b3e03957b_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00342/Html/HighEdFund1988_WD02HYP_image004.gif)
 
 where:
 
@@ -2282,7 +2283,7 @@ For this purpose, **_relevant unit of study_** means any unit of study that may 
 
                                         (A)  to lend to the student an amount (the **_formula amount_**) worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00257/Html/6f8718c2-0a4f-4b13-8e46-631b3e03957b_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00342/Html/HighEdFund1988_WD02HYP_image005.gif)
 
                                         (B)  to apply the money lent in paying to the institution, in discharge of the student’s liability to pay the remainder of the assessed contribution (see subsection (1B)), the amount of that assessed contribution outstanding after deducting from that assessed contribution the amount of the student payment; and
 
@@ -2296,17 +2297,17 @@ For this purpose, **_relevant unit of study_** means any unit of study that may 
 
 Example:    If the student’s assessed contribution for the course of study is $2,350 and the student makes a payment of $1,000, the amount that the Commonwealth will lend to the student is $1,017, ie:
 
-![](http://www.comlaw.gov.au/Details/C2011C00257/Html/6f8718c2-0a4f-4b13-8e46-631b3e03957b_files/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00342/Html/HighEdFund1988_WD02HYP_image006.gif)
 
                    This amount is the **_formula amount_**(see sub-subparagraph (1A)(c)(i)(A)).
 
                    The amount that the Commonwealth will pay to the institution to discharge the student’s liability is $1350, ie:
 
-![](http://www.comlaw.gov.au/Details/C2011C00257/Html/6f8718c2-0a4f-4b13-8e46-631b3e03957b_files/image007.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00342/Html/HighEdFund1988_WD02HYP_image007.gif)
 
                    The value to the student of the discount for making the student payment of $1,000 is $333 (this amount forms part of the amount the Commonwealth pays to the institution to discharge the student’s liability), ie:
 
-![](http://www.comlaw.gov.au/Details/C2011C00257/Html/6f8718c2-0a4f-4b13-8e46-631b3e03957b_files/image008.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00342/Html/HighEdFund1988_WD02HYP_image008.gif)
 
           (1B)  For the purposes of subsection (1A):
 
@@ -2342,11 +2343,11 @@ Example:    If the student’s assessed contribution for the course of stu
 
                             (iii)  first satisfied the prescribed residency requirements on a day more than one year before enrolment day; or
 
-                     (c)  a student (other than a New Zealand citizen) who:
+                     (c)  a student (other than a New   Zealand citizen) who:
 
                               (i)  is a permanent resident; and
 
-                             (ii)  will be resident outside   Australia for the duration of a course in that semester for a reason other than a requirement of the course;
+                             (ii)  will be resident outside Australia for the duration of a course in that semester for a reason other than a requirement of the course;
 
 but does not include a student who has been granted an approval to become an Australian citizen under section 24 of the _Australian Citizenship Act 2007_ and who has yet to make the pledge referred to in section 26 of that Act.
 
@@ -2768,27 +2769,27 @@ but the student has:
 
 the Commonwealth must, as a benefit to the student:
 
-                     (e)  lend to the student an amount worked out using the formula in sub‑subparagraph 41(1A)(c)(i)(A) (the **_formula amount_**) and apply the amount so lent in making a payment to the institution in partial discharge of the student’s liability to pay the unpaid part of the contribution; and
+                     (e)  lend to the student an amount worked out using the formula in sub-subparagraph 41(1A)(c)(i)(A) (the **_formula amount_**) and apply the amount so lent in making a payment to the institution in partial discharge of the student’s liability to pay the unpaid part of the contribution; and
 
                       (f)  pay to the institution, in discharge of the remainder of the student’s liability, an amount (the **_discount amount_**) worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00257/Html/6f8718c2-0a4f-4b13-8e46-631b3e03957b_files/image009.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00342/Html/HighEdFund1988_WD02HYP_image009.gif)
 
 Example: If the student’s contribution for the course of study is $2,350 and the student makes a payment of $1,000, the amount that the Commonwealth will lend to the student is $1,017, ie:
 
-![](http://www.comlaw.gov.au/Details/C2011C00257/Html/6f8718c2-0a4f-4b13-8e46-631b3e03957b_files/image010.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00342/Html/HighEdFund1988_WD02HYP_image010.gif)
 
                 This amount is the**_formula amount_**(seeparagraph (3A)(e)).
 
                 The amount that the Commonwealth will pay to the institution to discharge the student’s liability is $1,350, ie:
 
-![](http://www.comlaw.gov.au/Details/C2011C00257/Html/6f8718c2-0a4f-4b13-8e46-631b3e03957b_files/image007.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00342/Html/HighEdFund1988_WD02HYP_image007.gif)
 
                 The amount that the Commonwealth will pay to the institution comprises the sum of the amount the Commonwealth will lend to the student, ie $1,017 (the formula amount) and the student discount that the student receives for making the student payment ($333).
 
                 The value of the discount to the student for making the student payment is calculated as follows:
 
-![](http://www.comlaw.gov.au/Details/C2011C00257/Html/6f8718c2-0a4f-4b13-8e46-631b3e03957b_files/image008.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00342/Html/HighEdFund1988_WD02HYP_image008.gif)
 
                 This amount is the **_discount amount_** (see paragraph (3A)(f)).
 
@@ -2880,7 +2881,7 @@ as the case may be.
 
              (7)  Nothing in an Act of which the Commissioner of Taxation has the general administration shall be taken to prohibit the Commissioner, or a person authorised by the Commissioner, from communicating any information to a person performing, as an officer, duties arising under this Chapter for the purpose of enabling the person to perform those duties.
 
-             (8)  Nothing in subsection (4) shall be taken to prohibit a person referred to in paragraph (a) or (b) of the definition of **_officer_** in subsection (1) from communicating any information to an officer of the Department for the purpose of the provision by that officer of assistance to the person in the performance of duties arising under this Chapter.
+             (8)  Nothing in subsection (4) shall be taken to prohibit a person referred to in paragraph (a) or (b) of the definition of **_officer_** in subsection (1) from communicating any information to an officer of the Department of Employment, Education and Training for the purpose of the provision by that officer of assistance to the person in the performance of duties arising under this Chapter.
 
              (9)  For the purposes of subsection (4), an officer shall be taken to have communicated information to another person in contravention of that subsection if the officer communicates the information to any Minister.
 
@@ -2955,7 +2956,7 @@ For access to the wording of the amendments made by this Division, _see_ Act No.
 
 * * *
 
-# Chapter 4A—Post‑graduate education loan scheme
+# Chapter 4A—Post-graduate education loan scheme
 
 ## Part 4A.1—Preliminary
 
@@ -2969,17 +2970,17 @@ For access to the wording of the amendments made by this Division, _see_ Act No.
 
                      (b)  if the institution is an eligible private institution—a person, or a person included in a class of persons, appointed by the chief executive officer of the institution or the chief executive officer’s delegate to be an appropriate officer of the institution for the purposes of this Chapter.
 
-                    <a name="elig-post-graduat-cours-studi"></a>**_eligible post‑graduate course of study_** at an institution means a course of study at the institution that:
+                    <a name="elig-post-graduat-cours-studi"></a>**_eligible post-graduate course of study_** at an institution means a course of study at the institution that:
 
-                     (a)  is a post‑graduate course for which fees may be charged; and
+                     (a)  is a post-graduate course for which fees may be charged; and
 
-                     (b)  is not a post‑graduate research award course of study; and
+                     (b)  is not a post-graduate research award course of study; and
 
-                     (c)  if the institution is a non‑self accrediting private institution:
+                     (c)  if the institution is a non-self accrediting private institution:
 
                               (i)  is a course that is accredited by a State or Territory accreditation agency listed in the Australian Qualifications Framework Register of Bodies with Authority to Issue Qualifications; and
 
-                             (ii)  is a course which the Minister is satisfied meets the criteria in place in the National Protocol for the Accreditation of Higher Education Courses to be offered by non‑self accrediting providers, based on the advice of the State or Territory accreditation agency listed in the Australian Qualifications Framework Register of Bodies with Authority to Issue Qualifications.
+                             (ii)  is a course which the Minister is satisfied meets the criteria in place in the National Protocol for the Accreditation of Higher Education Courses to be offered by non-self accrediting providers, based on the advice of the State or Territory accreditation agency listed in the Australian Qualifications Framework Register of Bodies with Authority to Issue Qualifications.
 
                             For the purposes of paragraph (c), a part of an agency is taken to be an agency in its own right.
 
@@ -2995,19 +2996,19 @@ For access to the wording of the amendments made by this Division, _see_ Act No.
 
                     <a name="nation-protocol-higher-educ-approv-process"></a><a name="nation-protocol"></a>**_National Protocols_** means the **_National Protocols for Higher Education Approval Processes_**(first endorsed by the Ministerial Council on Education, Employment, Training and Youth Affairs on 31 March 2000), as in force from time to time.
 
-                    <a name="non-self-accrediting-privat-institut"></a>**_non‑self accrediting private institution_** is an eligible private institution which appears in column 2 of the table in subsection 98AA(1).
+                    <a name="non-self-accrediting-privat-institut"></a>**_non-self accrediting private institution_** is an eligible private institution which appears in column 2 of the table in subsection 98AA(1).
 
                     <a name="semest"></a>**_semester_** means a semester in a year to which this Chapter applies, and has a meaning affected by subsection (3).
 
                     <a name="student"></a>**_student_** means:
 
-                     (a)  a person who proposes to undertake on or after 1 January 2002, or is undertaking or has undertaken on or after that date, an eligible post‑graduate course of study at an institution (other than an eligible private institution); and
+                     (a)  a person who proposes to undertake on or after 1 January 2002, or is undertaking or has undertaken on or after that date, an eligible post-graduate course of study at an institution (other than an eligible private institution); and
 
-                     (b)  when used in relation to a particular eligible post‑graduate course of study at an institution (other than an eligible private institution)—a person who proposes to undertake on or after 1 January 2002, or is undertaking or has undertaken on or after that date, the eligible post‑graduate course of study at that institution; and
+                     (b)  when used in relation to a particular eligible post-graduate course of study at an institution (other than an eligible private institution)—a person who proposes to undertake on or after 1 January 2002, or is undertaking or has undertaken on or after that date, the eligible post-graduate course of study at that institution; and
 
-                     (c)  a person who proposes to undertake on or after 1 January 2003, or is undertaking or has undertaken on or after that date, an eligible post‑graduate course of study at an eligible private institution; and
+                     (c)  a person who proposes to undertake on or after 1 January 2003, or is undertaking or has undertaken on or after that date, an eligible post-graduate course of study at an eligible private institution; and
 
-                     (d)  when used in relation to a particular eligible post‑graduate course of study at an eligible private institution—a person who proposes to undertake on or after 1 January 2003, or is undertaking or has undertaken on or after that date, the eligible post‑graduate course of study at that institution.
+                     (d)  when used in relation to a particular eligible post-graduate course of study at an eligible private institution—a person who proposes to undertake on or after 1 January 2003, or is undertaking or has undertaken on or after that date, the eligible post-graduate course of study at that institution.
 
              (2)  Expressions used in this Chapter that are defined in Chapter 4 have in this Chapter, unless the contrary intention appears, the same meanings as in Chapter 4.
 
@@ -3015,7 +3016,7 @@ For access to the wording of the amendments made by this Division, _see_ Act No.
 
                      (a)  the references in section 37 and subsection 39(2) to institution were references to institution within the meaning of Chapter 4A; and
 
-                     (b)  the reference in subsection 39(2) to each designated course of study were a reference to each eligible post‑graduate course of study.
+                     (b)  the reference in subsection 39(2) to each designated course of study were a reference to each eligible post-graduate course of study.
 
           (3A)  For the purposes of this Chapter, the definition of **_census date_** in subsection 34(1) applies as if the reference in that definition to institution were a reference to institution within the meaning of Chapter 4A.
 
@@ -3060,12 +3061,12 @@ For access to the wording of the amendments made by this Division, _see_ Act No.
 <tr>
   <td>
     <div>
-      <b>self‑accrediting private institutions</b>
+      <b>self-accrediting private institutions</b>
     </div>
   </td>
   <td>
     <div>
-      <b>non‑self accrediting private institutions</b>
+      <b>non-self accrediting private institutions</b>
     </div>
   </td>
 </tr>
@@ -3160,7 +3161,7 @@ Note:          If subsection (3) applies to the student, the
 
              (1)  A person may make an application under this section if he or she:
 
-                     (a)  has enrolled in or proposes to enrol in an eligible post‑graduate course of study for a semester at an institution; and
+                     (a)  has enrolled in or proposes to enrol in an eligible post-graduate course of study for a semester at an institution; and
 
                      (b)  is or will be an eligible student for the semester.
 
@@ -3168,7 +3169,7 @@ Note:          If subsection (3) applies to the student, the
 
              (3)  The application must state that the applicant asks the Commonwealth if:
 
-                     (a)  on the census date for the eligible post‑graduate course of study for any semester the applicant:
+                     (a)  on the census date for the eligible post-graduate course of study for any semester the applicant:
 
                               (i)  is an eligible student for that semester; and
 
@@ -3202,7 +3203,7 @@ Note:          The applicant makes only one application for ea
 
                      (d)  the references in paragraph 41A(1)(b), subsection 41A(2) and paragraph 41B(1)(b) to the document were references to the application; and
 
-                     (e)  the reference in paragraph 41B(1)(a) to a designated course of study were a reference to an eligible post‑graduate course of study; and
+                     (e)  the reference in paragraph 41B(1)(a) to a designated course of study were a reference to an eligible post-graduate course of study; and
 
                       (f)  the references in subsection 50(4), paragraph 52(1A)(a) and subsection 53(1A) to this Chapter were references to Chapter 4A.
 
@@ -3210,7 +3211,7 @@ Note:          The applicant makes only one application for ea
 
              (1)  An institution must give a written notice under this subsection to each student who:
 
-                     (a)  is enrolled in an eligible post‑graduate course of study at the institution on the census date for that course of study for a semester; and
+                     (a)  is enrolled in an eligible post-graduate course of study at the institution on the census date for that course of study for a semester; and
 
                      (b)  has made an application under section 98D on or before that date in relation to that course of study.
 
@@ -3260,9 +3261,9 @@ Note:          The applicant makes only one application for ea
 
              (1)  This section operates if an eligible student for a semester:
 
-                     (a)  has made an application under section 98D before the census date for the student’s eligible post‑graduate course of study for the semester, being the course specified in the application; and
+                     (a)  has made an application under section 98D before the census date for the student’s eligible post-graduate course of study for the semester, being the course specified in the application; and
 
-                     (b)  is enrolled in the eligible post‑graduate course of study for the semester at the institution, as specified in the application; and
+                     (b)  is enrolled in the eligible post-graduate course of study for the semester at the institution, as specified in the application; and
 
                      (c)  has not, on or  before the census date for the course of study for the semester, paid the full amount of the fees charged by the institution for so much of the course of study as is being undertaken by the student for the semester, leaving part of those fees outstanding.
 
@@ -3290,13 +3291,13 @@ Note:          The applicant makes only one application for ea
 
              (3)  The regulations may set out procedures for the institution to notify persons who may be affected by subsection (2).
 
-##### <a id="98J"></a>98J  Institution to provide information to Minister about post‑graduate students
+##### <a id="98J"></a>98J  Institution to provide information to Minister about post-graduate students
 
-                   An institution must give to the Minister, if and when required by the Minister to do so, any statistical and other information relating to students in relation to eligible post‑graduate courses of study (not being information as to the name or address of a student) that the Minister reasonably requires for the purposes of this Part.
+                   An institution must give to the Minister, if and when required by the Minister to do so, any statistical and other information relating to students in relation to eligible post-graduate courses of study (not being information as to the name or address of a student) that the Minister reasonably requires for the purposes of this Part.
 
 ##### <a id="98JA"></a>98JA  Eligible private institution to report information
 
-             (1)  The Minister must, as soon as practicable after 31 December in each year, require each eligible private institution that offers an eligible post‑graduate course of study to report to the Minister, in an approved form, information regarding their operations during that year.
+             (1)  The Minister must, as soon as practicable after 31 December in each year, require each eligible private institution that offers an eligible post-graduate course of study to report to the Minister, in an approved form, information regarding their operations during that year.
 
              (2)  The eligible private institution must comply with a requirement under subsection (1) as soon as practicable.
 
@@ -3324,7 +3325,7 @@ Note 2:       The Minister may require statistical and other informa
 
                      (a)  as to whether the institution has complied with the requirements of this Chapter in respect of the year ending on that 31 December; and
 
-                     (b)  if the institution has not complied with such a requirement in respect of that year, setting out particulars of the non‑compliance.
+                     (b)  if the institution has not complied with such a requirement in respect of that year, setting out particulars of the non-compliance.
 
 ##### <a id="98M"></a>98M  Electronic communications between students and institutions
 
@@ -3421,7 +3422,7 @@ Note 2:       The Minister may require statistical and other informa
 
              (2)  This section does not affect the way in which sections 56C, 56D and 56E apply apart from this section.
 
-# Chapter 4B—Bridging for overseas‑trained professionals (BOTP) loan scheme
+# Chapter 4B—Bridging for overseas-trained professionals (BOTP) loan scheme
 
 ## Part 4B.1—Introduction
 
@@ -3433,9 +3434,11 @@ Note 2:       The Minister may require statistical and other informa
 
 <li class="BoxList" style="margin-left:21.25pt">•      This Chapter sets up a
 
-scheme for the Commonwealth to make loans to overseas‑trained professional
+scheme for the Commonwealth to make loans to overseas-trained
 
-people who do not meet the requirements for entry to their professions in Australia.</li>
+professional people who do not meet the requirements for entry to their
+
+professions in Australia.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      The loans will be applied
 
@@ -3445,11 +3448,11 @@ those people to meet those entry requirements.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      To be eligible for a loan,
 
-an overseas‑trained professional person must:</li>
+an overseas-trained professional person must:</li>
 
                (a)     meet certain citizenship/residency requirements; and
 
-              (b)     obtain an **_assessment statement_** from a relevant assessing body; and
+               (b)     obtain an **_assessment statement_** from a relevant assessing body; and
 
                (c)     enrol in a course that relates to the assessment statement.
 
@@ -3513,7 +3516,7 @@ For the purposes of paragraph (b), the expression **_student_** has its ordina
 
                     <a name="list-profession-occup"></a>**_listed professional occupation_** has the meaning given by section 98S.
 
-                    <a name="non-award-basi"></a>**_non‑award basis_**, in relation to enrolment in:
+                    <a name="non-award-basi"></a>**_non-award basis_**, in relation to enrolment in:
 
                      (a)  a subject unit at an institution; or
 
@@ -3547,7 +3550,7 @@ means the basis that the completion of the unit, course or program will not lead
 
                      (c)  in any other case—the period during which the course is undertaken.
 
-                    <a name="unit"></a><a name="subject"></a>**_subject_** **_unit_**, in relation to an institution, means a subject unit that is ordinarily offered by the institution as part of a course of study at the institution, but that is also offered, on a non‑award basis, to persons who are not undertaking that course of study.
+                    <a name="unit"></a><a name="subject"></a>**_subject_** **_unit_**, in relation to an institution, means a subject unit that is ordinarily offered by the institution as part of a course of study at the institution, but that is also offered, on a non-award basis, to persons who are not undertaking that course of study.
 
 Expressions defined in Chapter 4
 
@@ -3621,7 +3624,7 @@ Note 2:       A determination under this subsection is a legislative
 
                               (i)  the Occupational English Test administered by Language Australia; or
 
-                             (ii)  any other English language test, where that test does not form an integral part of an occupation‑related study unit, an occupation‑related course of instruction or an occupation‑related tuition and training program.
+                             (ii)  any other English language test, where that test does not form an integral part of an occupation-related study unit, an occupation-related course of instruction or an occupation-related tuition and training program.
 
              (2)  For the purposes of this Chapter, a requirement for entry to a listed professional occupation may:
 
@@ -3659,7 +3662,7 @@ Note:          A determination under this subsection is a legi
 
 ##### <a id="98T"></a>98T  Assessment statement given by relevant assessing body
 
-Post‑commencement assessment statement
+Post-commencement assessment statement
 
              (1)  If:
 
@@ -3685,7 +3688,7 @@ Note:          A statement could specify one of the things men
 
              (3)  This section does not affect the power of a relevant assessing body to charge fees for an assessment statement under subsection (1).
 
-Pre‑commencement assessment statement
+Pre-commencement assessment statement
 
              (4)  If, at a time before the commencement of this section:
 
@@ -3721,7 +3724,7 @@ Subject units
 
                      (b)  the statement is to the effect that, in the opinion of the body, if the person were to successfully undertake additional studies of a kind specified in the statement, the person would meet the requirements for entry to that occupation in Australia; and
 
-                     (c)  the person undertakes, or proposes to undertake, those additional studies by enrolling, or proposing to enrol, on a non‑award basis, in one or more subject units at an institution; and
+                     (c)  the person undertakes, or proposes to undertake, those additional studies by enrolling, or proposing to enrol, on a non-award basis, in one or more subject units at an institution; and
 
                      (d)  the total student load imposed on the person in relation to those subject units does not exceed the institution’s maximum BOTP student load determined under subsection (4);
 
@@ -3739,7 +3742,7 @@ Courses of instruction
 
                      (b)  the statement is to the effect that, in the opinion of the body, if the person were to be successful in one or more examinations specified in the statement, the person would meet the requirements for entry to that occupation in Australia; and
 
-                     (c)  the person prepares, or proposes to prepare, for those examinations by enrolling, or proposing to enrol, on a non‑award basis, in one or more occupation‑related courses of instruction provided by or on behalf of an institution; and
+                     (c)  the person prepares, or proposes to prepare, for those examinations by enrolling, or proposing to enrol, on a non-award basis, in one or more occupation-related courses of instruction provided by or on behalf of an institution; and
 
                      (d)  the total student load imposed on the person in relation to those courses does not exceed the institution’s maximum BOTP student load determined under subsection (4);
 
@@ -3757,7 +3760,7 @@ Tuition and training program
 
                      (b)  the statement is to the effect that, in the opinion of the body, if the person were to undertake a tuition and training program of a kind specified in the statement, the person would meet the requirements for entry to that occupation in Australia; and
 
-                     (c)  the person undertakes, or proposes to undertake, such a program by enrolling, or proposing to enrol, on a non‑award basis, in a tuition and training program provided by or on behalf of an institution; and
+                     (c)  the person undertakes, or proposes to undertake, such a program by enrolling, or proposing to enrol, on a non-award basis, in a tuition and training program provided by or on behalf of an institution; and
 
                      (d)  the total student load imposed on the person in relation to that program does not exceed the institution’s maximum BOTP student load determined under subsection (4);
 
@@ -3771,9 +3774,9 @@ Maximum BOTP student load
 
              (4)  For the purposes of this section, the **_maximum BOTP student_** **_load_** for an institution is the student load determined by the institution, in accordance with guidelines issued by the Minister, to represent:
 
-                     (a)  the load imposed on a full‑time student for one year; or
+                     (a)  the load imposed on a full-time student for one year; or
 
-                     (b)  the part‑time equivalent of that load.
+                     (b)  the part-time equivalent of that load.
 
 Repeats
 
@@ -3959,9 +3962,9 @@ to lend to the applicant the amount of those fees outstanding and to use the amo
 
                      (a)  as to whether the institution has complied with the requirements of this Chapter in respect of the year ending on that 31 December; and
 
-                     (b)  if the institution has not complied with such a requirement in respect of that year—setting out particulars of the non‑compliance.
+                     (b)  if the institution has not complied with such a requirement in respect of that year—setting out particulars of the non-compliance.
 
-##### <a id="98ZF"></a>98ZF  Electronic communications between students and institutions
+##### <a id="98ZF"></a>98ZF  Electronic communications between students and institutions
 
              (1)  Sections 56C, 56D and 56E apply for the purposes of this Chapter as if a reference in those sections to a person, thing or provision mentioned in the second column of an item of the table were a reference to the person, thing or provision mentioned in the third column of the item.
 
@@ -4138,7 +4141,7 @@ to lend to the applicant the amount of those fees outstanding and to use the amo
 
                                         (B)  if, on enrolment day, he or she satisfies the prescribed residency requirements—first satisfied those requirements on a day within the period of 12 months immediately preceding enrolment day; or
 
-                            (iv)  a person (other than a New Zealand citizen) who is a permanent resident, is present in Australia and:
+                            (iv)  a person (other than a New   Zealand citizen) who is a permanent resident, is present in Australia and:
 
                                         (A)  does not satisfy the prescribed residency requirements; or
 
@@ -4152,7 +4155,7 @@ to lend to the applicant the amount of those fees outstanding and to use the amo
 
 ##### <a id="103"></a>103  Standard study load
 
-                   The standard study load of an eligible client of the Agency for a study period for which the client enrols for the purposes of the course of study he or she is undertaking is the number of units of study that, together with the number of other units of study (if any) for which he or she was enrolled for the purposes of the course in previous study periods having census dates occurring in the same calendar year as the census date for the first‑mentioned study period, equals 8.
+                   The standard study load of an eligible client of the Agency for a study period for which the client enrols for the purposes of the course of study he or she is undertaking is the number of units of study that, together with the number of other units of study (if any) for which he or she was enrolled for the purposes of the course in previous study periods having census dates occurring in the same calendar year as the census date for the first-mentioned study period, equals 8.
 
 ## Part 5.2—Charges
 
@@ -4442,13 +4445,13 @@ the Agency must not permit the client, as an eligible client, to continue to be 
 
                      (a)  as to whether the Agency has complied with the requirements of this Chapter in respect of the year ending on that 31 December; and
 
-                     (b)  if the Agency has not complied with such a requirement in respect of that year, setting out particulars of the non‑compliance.
+                     (b)  if the Agency has not complied with such a requirement in respect of that year, setting out particulars of the non-compliance.
 
 # Chapter 5A—Repayment of loans made under Chapters 4, 4A, 4B and 5
 
 ## Part 5A.1—Preliminary
 
-##### <a id="106H"></a>106H  Interpretation
+##### <a id="106H"></a>106H  Interpretation
 
              (1)  In this Chapter, unless the contrary intention appears:
 
@@ -4480,17 +4483,17 @@ the Agency must not permit the client, as an eligible client, to continue to be 
 
                              (ii)  if, in respect of that year of income, a deduction has been allowed from the assessable income of the person under former section 51 of the _Income Tax Assessment Act 1936_ for interest on money borrowed by the person to finance rental property investments and that deduction or, if another deduction has been allowed (otherwise than for interest on money borrowed) from the assessable income of the person under that Act in respect of the rental property investments, the total of those deductions exceeds the rental income of the person—the amount of the excess; and
 
-                     (c)  in relation to the 1997‑98 or 1998‑99 year of income—the sum of:
+                     (c)  in relation to the 1997-98 or 1998-99 year of income—the sum of:
 
                               (i)  the person’s taxable income for that year of income; and
 
-                             (ii)  if the person has deducted under section 8‑1 of the _Income Tax Assessment Act 1997_ for that year of income an amount for interest on money the person borrowed to finance rental property investments, and the total of that amount and any other amounts the person has deducted under that Act or the _Income Tax Assessment Act 1936_ (otherwise than for interest on money borrowed) in respect of the rental property exceeds the rental income of the person—the amount of the excess; and
+                             (ii)  if the person has deducted under section 8-1 of the _Income Tax Assessment Act 1997_ for that year of income an amount for interest on money the person borrowed to finance rental property investments, and the total of that amount and any other amounts the person has deducted under that Act or the _Income Tax Assessment Act 1936_ (otherwise than for interest on money borrowed) in respect of the rental property exceeds the rental income of the person—the amount of the excess; and
 
-                     (d)  in relation to the 1999‑2000 year of income or any later year of income—the sum of:
+                     (d)  in relation to the 1999-2000 year of income or any later year of income—the sum of:
 
                               (i)  the person’s taxable income for that year of income; and
 
-                             (ii)  if the person has deducted under section 8‑1 of the _Income Tax Assessment Act 1997_ for that year of income an amount for interest on money the person borrowed to finance rental property investments, and the total of that amount and any other amounts the person has deducted under that Act or the _Income Tax Assessment Act 1936_ (otherwise than for interest on money borrowed) in respect of the rental property exceeds the rental income of the person—the amount of the excess; and
+                             (ii)  if the person has deducted under section 8-1 of the _Income Tax Assessment Act 1997_ for that year of income an amount for interest on money the person borrowed to finance rental property investments, and the total of that amount and any other amounts the person has deducted under that Act or the _Income Tax Assessment Act 1936_ (otherwise than for interest on money borrowed) in respect of the rental property exceeds the rental income of the person—the amount of the excess; and
 
                             (iii)  if the person is an employee (within the meaning of the _Fringe Benefits Tax Assessment Act 1986_) who has a reportable fringe benefits total (as defined in that Act) for the year of income—the reportable fringe benefits total for the year of income.
 
@@ -4528,7 +4531,7 @@ the Agency must not permit the client, as an eligible client, to continue to be 
 
                     (aa)  to students under Chapter 4A; or
 
-                   (ab)  to students under Chapter 4B; or
+                    (ab)  to students under Chapter 4B; or
 
                      (b)  to eligible clients of the Agency under Chapter 5.
 
@@ -4638,7 +4641,7 @@ Note:          For meaning of **_census date_**, see sections�
 
                             the last day of the semester; or
 
-                   (ba)  if the person:
+                    (ba)  if the person:
 
                               (i)  has incurred a BOTP semester debt for the BOTP course; and
 
@@ -4648,7 +4651,7 @@ Note:          For meaning of **_census date_**, see sections�
 
                             the day specified by the institution in the notice as the day the withdrawal takes effect; or
 
-                   (bb)  if:
+                    (bb)  if:
 
                               (i)  the person has incurred a BOTP semester debt; and
 
@@ -4790,11 +4793,11 @@ the person incurs on the relevant date an accumulated HEC debt that is made up o
 
           (2A)  A person cannot incur an accumulated HEC debt on 1 June 2006 or on 1 June in any later year.
 
-Note:          A person’s accumulated HELP debt, worked out under section 140‑25 of the _Higher Education Support Act 2003_, for the financial year starting on 1 July 2005 can include an amount for the person’s accumulated HEC debt incurred on 1 June 2005: see Part 3 of Schedule 1 to the _Higher Education Support (Transitional Provisions and Consequential Amendments) Act 2003_.
+Note:          A person’s accumulated HELP debt, worked out under section 140-25 of the _Higher Education Support Act 2003_, for the financial year starting on 1 July 2005 can include an amount for the person’s accumulated HEC debt incurred on 1 June 2005: see Part 3 of Schedule 1 to the _Higher Education Support (Transitional Provisions and Consequential Amendments) Act 2003_.
 
              (3)  For the purposes of paragraph (2)(c), the **adjusted accumulated HEC debt of the person at the earlier date** is the amount worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00257/Html/6f8718c2-0a4f-4b13-8e46-631b3e03957b_files/image011.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00342/Html/HighEdFund1988_WD02HYP_image011.gif)
 
 where:
 
@@ -4824,7 +4827,7 @@ by the sum of:
 
                      (c)  the index number in respect of the March quarter immediately preceding 1 June in the year that next preceded that year; and
 
-                     (d)  the index numbers in respect of the 3 quarters that immediately preceded that last‑mentioned quarter.
+                     (d)  the index numbers in respect of the 3 quarters that immediately preceded that last-mentioned quarter.
 
              (6)  Subject to subsection (7), if at any time, whether before or after the commencement of this section, the Australian Statistician has published or publishes an index number in respect of a quarter in substitution for an index number previously published by the Australian Statistician in respect of that quarter, the publication of the later index number is to be disregarded for the purposes of this section.
 
@@ -4854,7 +4857,7 @@ by the sum of:
 
 ### Division 1—Voluntary discharge of indebtedness
 
-##### <a id="106P"></a>106P  Voluntary payments in respect of debts
+##### <a id="106P"></a>106P  Voluntary payments in respect of debts
 
              (1)  Subject to this Division, if a person owes a debt to the Commonwealth under this Chapter, the person may at any time make a payment in respect of that debt.
 
@@ -4866,11 +4869,11 @@ by the sum of:
 
              (3)  The debtor is taken to pay off the total debt if he or she pays in respect of the debt an amount worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00257/Html/6f8718c2-0a4f-4b13-8e46-631b3e03957b_files/image012.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00342/Html/HighEdFund1988_WD02HYP_image012.gif)
 
              (4)  Subject to subsection (5), if a person pays an amount of $500 or more in part settlement of a debt, the outstanding amount of the debt is to be reduced by the amount worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00257/Html/6f8718c2-0a4f-4b13-8e46-631b3e03957b_files/image013.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00342/Html/HighEdFund1988_WD02HYP_image013.gif)
 
 Example:    If a person owes a semester debt of $1,700, and the person makes a payment of $600, the debt is to be reduced by an amount of $660 (i.e. $600 x 1.1), leaving a balance of $1,040 ($1,700 – $660) to be paid.
 
@@ -4892,7 +4895,7 @@ Example:    If a person owes a semester debt of $1,700, and the person mak
 
 ##### <a id="106PC"></a>106PC  Voluntary payments in respect of accumulated HEC debt
 
-          (1A)  Subsection (1) does not apply in relation to the 1997‑98 year of income or any later year of income.
+          (1A)  Subsection (1) does not apply in relation to the 1997-98 year of income or any later year of income.
 
              (1)  If:
 
@@ -4926,7 +4929,7 @@ the person is liable to pay in accordance with this Chapter to the Commonwealth 
 
                      (b)  in the case of a subsequent year of income—the number of whole dollars of the amount worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00257/Html/6f8718c2-0a4f-4b13-8e46-631b3e03957b_files/image014.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00342/Html/HighEdFund1988_WD02HYP_image014.gif)
 
                             where:
 
@@ -5097,61 +5100,61 @@ the person is liable to pay in accordance with this Chapter to the Commonwealth 
 
                      (a)  the **_minimum prescribed amount_**or **_MPA_** for a year of income is:
 
-                              (i)  for the 1997‑98 year of income—$20,700; or
+                              (i)  for the 1997-98 year of income—$20,700; or
 
-                             (ii)  for a later year of income (other than the 2004‑05 year of income)—the amount worked out using the formula:
+                             (ii)  for a later year of income (other than the 2004-05 year of income)—the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00257/Html/6f8718c2-0a4f-4b13-8e46-631b3e03957b_files/image015.gif); or
+![](http://www.comlaw.gov.au/Details/C2010C00342/Html/HighEdFund1988_WD02HYP_image015.gif); or
 
-                            (iii)  for the 2004‑05 year of income—$35,000;
+                            (iii)  for the 2004-05 year of income—$35,000;
 
                      (b)  the **_first intermediate prescribed amount_** for a year of income is:
 
-                              (i)  for the 1997‑98 year of income—$21,830; or
+                              (i)  for the 1997-98 year of income—$21,830; or
 
                              (ii)  for a later year of income—the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00257/Html/6f8718c2-0a4f-4b13-8e46-631b3e03957b_files/image016.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00342/Html/HighEdFund1988_WD02HYP_image016.gif)
 
                      (c)  the **_second intermediate prescribed amount_** for a year of income is:
 
-                              (i)  for the 1997‑98 year of income—$23,524; or
+                              (i)  for the 1997-98 year of income—$23,524; or
 
                              (ii)  for a later year of income—the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00257/Html/6f8718c2-0a4f-4b13-8e46-631b3e03957b_files/image017.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00342/Html/HighEdFund1988_WD02HYP_image017.gif)
 
                      (d)  the **_third intermediate prescribed amount_** for a year of income is:
 
-                              (i)  for the 1997‑98 year of income—$27,288; or
+                              (i)  for the 1997-98 year of income—$27,288; or
 
                              (ii)  for a later year of income—the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00257/Html/6f8718c2-0a4f-4b13-8e46-631b3e03957b_files/image018.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00342/Html/HighEdFund1988_WD02HYP_image018.gif)
 
                      (e)  the **_fourth intermediate prescribed amount_** for a year of income is:
 
-                              (i)  for the 1997‑98 year of income—$32,934; or
+                              (i)  for the 1997-98 year of income—$32,934; or
 
                              (ii)  for a later year of income—the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00257/Html/6f8718c2-0a4f-4b13-8e46-631b3e03957b_files/image019.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00342/Html/HighEdFund1988_WD02HYP_image019.gif)
 
                       (f)  the **_fifth intermediate prescribed amount_** for a year of income is:
 
-                              (i)  for the 1997‑98 year of income—$34,665; or
+                              (i)  for the 1997-98 year of income—$34,665; or
 
                              (ii)  for a later year of income—the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00257/Html/6f8718c2-0a4f-4b13-8e46-631b3e03957b_files/image020.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00342/Html/HighEdFund1988_WD02HYP_image020.gif)
 
                      (g)  the **_maximum prescribed amount_** for a year of income is:
 
-                              (i)  for the 1997‑98 year of income—$37,262; or
+                              (i)  for the 1997-98 year of income—$37,262; or
 
                              (ii)  for a later year of income—the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00257/Html/6f8718c2-0a4f-4b13-8e46-631b3e03957b_files/image021.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00342/Html/HighEdFund1988_WD02HYP_image021.gif)
 
 (4A)  For the purposes of paragraph (4)(a), **_AWE_** for a year of income is the number of dollars in the sum of:
 
@@ -5167,7 +5170,7 @@ the person is liable to pay in accordance with this Chapter to the Commonwealth 
 
                      (a)  as soon as possible after the commencement of this section, the minimum prescribed amount, the intermediate prescribed amounts and the maximum prescribed amount, in respect of the year of income ending on 30 June 1997; and
 
-                     (b)  before the start of the 1998‑99 year of income or a later year of income, the minimum prescribed amount, the intermediate prescribed amounts and the maximum prescribed amount in respect of that year of income.
+                     (b)  before the start of the 1998-99 year of income or a later year of income, the minimum prescribed amount, the intermediate prescribed amounts and the maximum prescribed amount in respect of that year of income.
 
              (7)  Subsection (1) does not require a person to pay an amount for a year of income if, under section 8 of the _Medicare Levy Act 1986_:
 
@@ -5175,7 +5178,7 @@ the person is liable to pay in accordance with this Chapter to the Commonwealth 
 
                      (b)  the amount of Medicare levy payable by the person on the person’s taxable income for the year of income is reduced.
 
-             (8)  This section applies in relation to the 2004‑05 year of income as if the table in subsection (1) were omitted and the following table were substituted:
+             (8)  This section applies in relation to the 2004-05 year of income as if the table in subsection (1) were omitted and the following table were substituted:
 
 <table>
 <colgroup>
@@ -5188,7 +5191,7 @@ the person is liable to pay in accordance with this Chapter to the Commonwealth 
   <tr>
     <td colspan="3">
       <div>
-        <b>HEC repayment thresholds for the 2004‑05 year of income</b>
+        <b>HEC repayment thresholds for the 2004-05 year of income</b>
       </div>
     </td>
   </tr>
@@ -5318,7 +5321,7 @@ the person is liable to pay in accordance with this Chapter to the Commonwealth 
 
              (3)  An institution must give to the Commissioner, if asked by the Commissioner to do so, any information in its possession relating to students in relation to designated courses of study at the institution that the Commissioner reasonably requires for the purposes of this Chapter.
 
-             (4)  An institution must give to the Commissioner, if asked by the Commissioner to do so, any information in its possession relating to students in relation to eligible post‑graduate courses of study at the institution that the Commissioner reasonably requires for the purposes of this Chapter.
+             (4)  An institution must give to the Commissioner, if asked by the Commissioner to do so, any information in its possession relating to students in relation to eligible post-graduate courses of study at the institution that the Commissioner reasonably requires for the purposes of this Chapter.
 
              (5)  An institution must give to the Commissioner, if asked by the Commissioner to do so, any information in its possession relating to students in relation to BOTP courses at the institution that the Commissioner reasonably requires for the purposes of this Chapter.
 
@@ -5332,11 +5335,11 @@ the person is liable to pay in accordance with this Chapter to the Commonwealth 
 
 ##### <a id="106U"></a>106U  Application of tax legislation
 
-             (1)  Subject to this Part, Part IV, and Division 1 of Part VI, of the _Income Tax Assessment Act 1936_(**_Assessment Act_**), and Part 4‑15 in Schedule 1 to the _Taxation Administration Act 1953_, apply, so far as they are capable of application, in relation to an HEC assessment debt of a person as if it were income tax assessed to be payable by a taxpayer by an assessment made under Part IV of the Assessment Act.
+             (1)  Subject to this Part, Part IV, and Division 1 of Part VI, of the _Income Tax Assessment Act 1936_(**_Assessment Act_**), and Part 4-15 in Schedule 1 to the _Taxation Administration Act 1953_, apply, so far as they are capable of application, in relation to an HEC assessment debt of a person as if it were income tax assessed to be payable by a taxpayer by an assessment made under Part IV of the Assessment Act.
 
-Note:          Part 4‑15 in Schedule 1 to the _Taxation Administration Act 1953_ deals with collection and recovery of amounts on and after 1 July 2000, replacing some provisions in Division 1 of Part VI of the _Income Tax Assessment Act 1936_.
+Note:          Part 4-15 in Schedule 1 to the _Taxation Administration Act 1953_ deals with collection and recovery of amounts on and after 1 July 2000, replacing some provisions in Division 1 of Part VI of the _Income Tax Assessment Act 1936_.
 
-          (2A)  Part 4‑25 in Schedule 1 to the _Taxation Administration Act 1953_ has effect as if:
+          (2A)  Part 4-25 in Schedule 1 to the _Taxation Administration Act 1953_ has effect as if:
 
                      (a)  any HEC assessment debt of a person were income tax payable by the person in respect of the year of income in respect of which the assessment of that debt was made; and
 
@@ -5344,7 +5347,7 @@ Note:          Part 4‑15 in Schedule 1 to the _Taxation 
 
           (2B)  Subsection (2A) does not have the effect of making a person liable to a penalty for any act or omission that happened before the commencement of this subsection.
 
-             (3)  Part 2‑5 (other than section 12‑55 and Subdivisions 12‑E, 12‑F and 12‑G) in Schedule 1 to the _Taxation Administration Act 1953_ applies, so far as it is capable of application, in relation to the collection by instalments of an HEC assessment debt of a person as if the HEC assessment debt were income tax.
+             (3)  Part 2-5 (other than section 12-55 and Subdivisions 12-E, 12-F and 12-G) in Schedule 1 to the _Taxation Administration Act 1953_ applies, so far as it is capable of application, in relation to the collection by instalments of an HEC assessment debt of a person as if the HEC assessment debt were income tax.
 
              (5)  Division 45 in Schedule 1 to the _Taxation Administration Act 1953_ applies, so far as it is capable of application, in relation to the collection of an HEC assessment debt of a person as if the HEC assessment debt were income tax.
 
@@ -5444,11 +5447,11 @@ any money available is to be applied as follows:
 
                      (b)  that debt or those debts had not been discharged before the bankruptcy date.
 
-Debts related to pre‑bankruptcy period are provable
+Debts related to pre-bankruptcy period are provable
 
              (2)  Subject to subsection (5), the following are taken to be provable debts for the purposes of the Bankruptcy Act:
 
-                     (a)  the pre‑bankruptcy part of the bankrupt’s accumulated HEC debt;
+                     (a)  the pre-bankruptcy part of the bankrupt’s accumulated HEC debt;
 
                      (b)  the unpaid part of the semester debt, or of each of the semester debts.
 
@@ -5460,13 +5463,13 @@ Note 2:       If an accumulated HEC debt, or a semester debt that th
 
 (b)           subsections (6) and (7) of this section can apply to the new accumulated HEC debt; and
 
-(c)           for that purpose, a pre‑bankruptcy part for the bankrupt’s new accumulated HEC debt is calculated under subsections (8) and (9).
+(c)           for that purpose, a pre-bankruptcy part for the bankrupt’s new accumulated HEC debt is calculated under subsections (8) and (9).
 
-Debts related to post‑bankruptcy period not provable
+Debts related to post-bankruptcy period not provable
 
              (3)  To avoid doubt, the following are taken not to be provable debts for the purposes of the Bankruptcy Act:
 
-                     (a)  the bankrupt’s accumulated HEC debt (apart from the pre‑bankruptcy part of that debt);
+                     (a)  the bankrupt’s accumulated HEC debt (apart from the pre-bankruptcy part of that debt);
 
                      (b)  any semester debt incurred by the bankrupt on or after the bankrupt’s bankruptcy date.
 
@@ -5474,7 +5477,7 @@ Dividend taken to be voluntary payment
 
              (4)  A dividend paid under the Bankruptcy Act to the Commonwealth in respect of:
 
-                     (a)  the pre‑bankruptcy part of the bankrupt’s accumulated HEC debt; or
+                     (a)  the pre-bankruptcy part of the bankrupt’s accumulated HEC debt; or
 
                      (b)  a semester debt mentioned in subsection (1);
 
@@ -5502,9 +5505,9 @@ then:
 
                      (d)  for that purpose:
 
-                              (i)  a proof of debt under the Bankruptcy Act in relation to the pre‑bankruptcy part of the old HEC debt (including because of a previous application of this subsection or subsection (7)) is taken to relate, to the extent of that proof, to the pre‑bankruptcy part of the replacement HEC debt; and
+                              (i)  a proof of debt under the Bankruptcy Act in relation to the pre-bankruptcy part of the old HEC debt (including because of a previous application of this subsection or subsection (7)) is taken to relate, to the extent of that proof, to the pre-bankruptcy part of the replacement HEC debt; and
 
-                             (ii)  if at the time the old HEC debt is discharged under section 106O, a semester debt of the bankrupt is also discharged under that section—a proof of debt under the Bankruptcy Act in relation to the semester debt is taken to relate, to the extent of that proof, to the pre‑bankruptcy part of the replacement HEC debt.
+                             (ii)  if at the time the old HEC debt is discharged under section 106O, a semester debt of the bankrupt is also discharged under that section—a proof of debt under the Bankruptcy Act in relation to the semester debt is taken to relate, to the extent of that proof, to the pre-bankruptcy part of the replacement HEC debt.
 
 Replacement of semester debt only
 
@@ -5522,9 +5525,9 @@ then:
 
                      (c)  after the new HEC debt is incurred, subsections (2) to (5) apply (subject to any later application of subsection (6)) to the new HEC debt instead of the old semester debt; and
 
-                     (d)  for that purpose, a proof of debt under the Bankruptcy Act in relation to the old semester debt is taken to relate to the pre‑bankruptcy part of the new HEC debt.
+                     (d)  for that purpose, a proof of debt under the Bankruptcy Act in relation to the old semester debt is taken to relate to the pre-bankruptcy part of the new HEC debt.
 
-             (8)  Subject to subsection (9), the **_pre‑bankruptcy part_** of a bankrupt’s accumulated HEC debt is the amount that would be the bankrupt’s relevant debt calculated in accordance with subsections 106Q(2) and (3), if:
+             (8)  Subject to subsection (9), the **_pre-bankruptcy part_** of a bankrupt’s accumulated HEC debt is the amount that would be the bankrupt’s relevant debt calculated in accordance with subsections 106Q(2) and (3), if:
 
                      (a)  that amount was calculated as at the time immediately before the bankrupt’s bankruptcy date; and
 
@@ -5538,9 +5541,9 @@ then:
 
 then:
 
-                     (c)  if the bankrupt did not have an accumulated HEC debt immediately before the discharge time—the **_pre‑bankruptcy part_** of the bankrupt’s accumulated HEC debt is equal to the discharged amount; or
+                     (c)  if the bankrupt did not have an accumulated HEC debt immediately before the discharge time—the **_pre-bankruptcy part_** of the bankrupt’s accumulated HEC debt is equal to the discharged amount; or
 
-                     (d)  otherwise—the **_pre‑bankruptcy part_** of the bankrupt’s accumulated HEC debt is taken to be increased at the discharge time by an amount equal to the discharged amount.
+                     (d)  otherwise—the **_pre-bankruptcy part_** of the bankrupt’s accumulated HEC debt is taken to be increased at the discharge time by an amount equal to the discharged amount.
 
            (10)  In this section:
 
@@ -5554,7 +5557,7 @@ then:
 
                     <a name="dividend"></a>**_dividend_** has the same meaning as in the Bankruptcy Act.
 
-                    <a name="pre-bankruptci-part"></a>**_pre‑bankruptcy part_**, in relation to a bankrupt’s accumulated HEC debt, has the meaning given by subsections (8) and (9).
+                    <a name="pre-bankruptci-part"></a>**_pre-bankruptcy part_**, in relation to a bankrupt’s accumulated HEC debt, has the meaning given by subsections (8) and (9).
 
                     <a name="provabl-debt"></a>**_provable debt_** has the same meaning as in the Bankruptcy Act.
 
@@ -5644,7 +5647,7 @@ reduced by any payments made after that 1 June in reduction of the debts menti
 
              (4)  The Commissioner must give a copy of the notice to:
 
-                     (a)  each institution at which, according to information that the institution has given the Commissioner, the person to whom the notice relates is enrolled in or undertaking a designated course of study, an eligible post‑graduate course of study or a BOTP course; and
+                     (a)  each institution at which, according to information that the institution has given the Commissioner, the person to whom the notice relates is enrolled in or undertaking a designated course of study, an eligible post-graduate course of study or a BOTP course; and
 
                      (b)  if the Agency has given information to the Commissioner indicating that the person to whom the notice relates is an eligible client of the Agency for a study period—the Agency;
 
@@ -5692,7 +5695,7 @@ HECS and PELS
 
                               (i)  a designated course of study; or
 
-                             (ii)  an eligible post‑graduate course of study; and
+                             (ii)  an eligible post-graduate course of study; and
 
                      (b)  the census date for the course of study for the semester is:
 
@@ -5920,7 +5923,7 @@ because of information given to an institution by the person after the commencem
 
 ##### <a id="120"></a>120  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters:
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -6328,7 +6331,7 @@ The _Higher Education Funding Act 1988_ as shown in this compilation comprises A
 
 For application, saving or transitional provisions made by the _Higher Education Support (Transitional Provisions and Consequential Amendments) Act 2003_, _see_ Act No. 150, 2003 as amended.
 
-All relevant information pertaining to application, saving or transitional provisions prior to 5 December 1996 is not included in this compilation. For subsequent information _see_ Table A.
+All other relevant information pertaining to application, saving or transitional provisions prior to 5 December 1996 is not included in this compilation. For subsequent information _see_ Table A.
 
 ### Table of Acts
 
@@ -7541,23 +7544,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 6 (item 47) and Schedule 7 (item 72): 19 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 ### Table of Instruments
@@ -7712,7 +7698,7 @@ Remainder: Royal Assent</div>
 
 _(a)_     Chapter 5 (sections 99–106) of the _Higher Education Funding Act 1988_ was repealed by section 67 of the _Higher Education Funding Amendment Act (No. 2) 1992_ before a date was fixed for the commencement.
 
-_(b)_     The _Higher Education Funding Act 1988_ was amended by section 113 only of the _Taxation Laws Amendment Act (No. 3) 1991_, subsection 2(10) of which provides as follows:
+_(b)_    The _Higher Education Funding Act 1988_ was amended by section 113 only of the _Taxation Laws Amendment Act (No. 3) 1991_, subsection 2(10) of which provides as follows:
 
                (10)   Subject to subsection (11), sections 112 to 117 (inclusive) commence on a day to be fixed by Proclamation. 
 
@@ -7933,10 +7919,12 @@ _(p)_ Subsection 2(1) (items 2–4, 7, 14 and 16) of the _Higher Education Sup
       The later of:
     </div>
     <div>
-      (a) 1 January 2004; and
+      (a)
+      1 January 2004
+      ; and
     </div>
     <div>
-      (b) immediately after the commencement of sections 1‑10 to 238‑15 of the
+      (b) immediately after the commencement of sections 1-10 to 238-15 of the
         <i>Higher Education Support Act 2003</i>.
     </div>
   </td>
@@ -7959,10 +7947,12 @@ _(p)_ Subsection 2(1) (items 2–4, 7, 14 and 16) of the _Higher Education Sup
       The later of:
     </div>
     <div>
-      (a) 1 January 2004; and
+      (a)
+      1 January 2004
+      ; and
     </div>
     <div>
-      (b) immediately after the commencement of sections 1‑10 to 238‑15 of the
+      (b) immediately after the commencement of sections 1-10 to 238-15 of the
         <i>Higher Education Support Act 2003</i>.
     </div>
   </td>
@@ -7985,10 +7975,12 @@ _(p)_ Subsection 2(1) (items 2–4, 7, 14 and 16) of the _Higher Education Sup
       The later of:
     </div>
     <div>
-      (a) 1 January 2004; and
+      (a)
+      1 January 2004
+      ; and
     </div>
     <div>
-      (b) immediately after the commencement of sections 1‑10 to 238‑15 of the
+      (b) immediately after the commencement of sections 1-10 to 238-15 of the
         <i>Higher Education Support Act 2003</i>.
     </div>
   </td>
@@ -8011,10 +8003,12 @@ _(p)_ Subsection 2(1) (items 2–4, 7, 14 and 16) of the _Higher Education Sup
       The later of:
     </div>
     <div>
-      (a) 1 January 2004; and
+      (a)
+      1 January 2004
+      ; and
     </div>
     <div>
-      (b) immediately after the commencement of sections 1‑10 to 238‑15 of the
+      (b) immediately after the commencement of sections 1-10 to 238-15 of the
         <i>Higher Education Support Act 2003</i>.
     </div>
   </td>
@@ -8037,10 +8031,12 @@ _(p)_ Subsection 2(1) (items 2–4, 7, 14 and 16) of the _Higher Education Sup
       The later of:
     </div>
     <div>
-      (a) 1 January 2004; and
+      (a)
+      1 January 2004
+      ; and
     </div>
     <div>
-      (b) immediately after the commencement of sections 1‑10 to 238‑15 of the
+      (b) immediately after the commencement of sections 1-10 to 238-15 of the
         <i>Higher Education Support Act 2003</i>.
     </div>
   </td>
@@ -8063,10 +8059,12 @@ _(p)_ Subsection 2(1) (items 2–4, 7, 14 and 16) of the _Higher Education Sup
       The later of:
     </div>
     <div>
-      (a) 1 January 2004; and
+      (a)
+      1 January 2004
+      ; and
     </div>
     <div>
-      (b) immediately after the commencement of sections 1‑10 to 238‑15 of the
+      (b) immediately after the commencement of sections 1-10 to 238-15 of the
         <i>Higher Education Support Act 2003</i>.
     </div>
   </td>
@@ -8394,7 +8392,7 @@ _(t)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. Nos. 80 and 168, 1989; No. 122, 1990; No. 177, 1991; No. 158, 1992; No. 116, 1993; Nos. 24 and 147, 1994; Nos. 135 and 163, 1995; No. 72, 1996; No. 130, 2000; No. 116, 2001; No. 150, 2003; No. 21, 2007; No. 5, 2011</div>
+    <div>am. Nos. 80 and 168, 1989; No. 122, 1990; No. 177, 1991; No. 158, 1992; No. 116, 1993; Nos. 24 and 147, 1994; Nos. 135 and 163, 1995; No. 72, 1996; No. 130, 2000; No. 116, 2001; No. 150, 2003; No. 21, 2007</div>
   </td>
 </tr>
 <tr>
@@ -9618,7 +9616,7 @@ _(t)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
     <div>S. 78</div>
   </td>
   <td>
-    <div>am. No. 147, 2001; No. 5, 2011</div>
+    <div>am. No. 147, 2001</div>
   </td>
 </tr>
 <tr>
@@ -11438,11 +11436,11 @@ _Higher Education Legislation Amendment Act 1996 (No. 74, 1996)_
 
 ## 29  Application of amendments made by items 27 and 28
 
-The amendments made by items 27 and 28 apply to the 1997‑98 year of income and later years of income.
+The amendments made by items 27 and 28 apply to the 1997-98 year of income and later years of income.
 
 ## 32  Application of amendments made by items 26 and 31
 
-The amendments made by items 26 and 31 apply to the 1997‑98 year of income and later years of income.
+The amendments made by items 26 and 31 apply to the 1997-98 year of income and later years of income.
 
 * * *
 
@@ -11480,7 +11478,7 @@ In this Schedule:
 
 **_old ARC_**means the body established by section 23 of the old EET Act.
 
-**_old ARC‑administered scheme_** means a research scheme in relation to which a reference under paragraph 27(1)(a) of the old EET Act was in force immediately before the commencement.
+**_old ARC-administered scheme_** means a research scheme in relation to which a reference under paragraph 27(1)(a) of the old EET Act was in force immediately before the commencement.
 
 **_old EET Act_** means the _Employment, Education and Training Act 1988_ as in force immediately before the commencement.
 
@@ -11494,27 +11492,27 @@ If, before the commencement, the Minister referred a matter to the old ARC under
 
 A direction or guideline in force under subsection 29(1) of the old EET Act immediately before the commencement has effect after the commencement as if it were a direction under subsection 7(1) of the new Act.
 
-## 4  Continued effect of funding approvals given in relation to old ARC‑administered schemes
+## 4  Continued effect of funding approvals given in relation to old ARC-administered schemes
 
-If, in relation to an old ARC‑administered scheme, an approval under subsection 23(1) or (1A) of the old HEF Act was in force immediately before the commencement in respect of a year to which Division 1 of Part 7 of the new Act applies, that approval has effect after the commencement as if it were an approval under section 51 of the new Act that was made in accordance with the requirements of that Act.
+If, in relation to an old ARC-administered scheme, an approval under subsection 23(1) or (1A) of the old HEF Act was in force immediately before the commencement in respect of a year to which Division 1 of Part 7 of the new Act applies, that approval has effect after the commencement as if it were an approval under section 51 of the new Act that was made in accordance with the requirements of that Act.
 
-## 5  Continued effect of funding recommendations made in relation to old ARC‑administered schemes
+## 5  Continued effect of funding recommendations made in relation to old ARC-administered schemes
 
-(1)       If:
+(1)        If:
 
-                     (a)  in relation to an old ARC‑administered scheme, the old ARC made a recommendation to the Minister before the commencement in relation to whether a particular approval under subsection 23(1) or (1A) of the old HEF Act should be given in respect of a year to which Division 1 of Part 7 of the new Act applies; and
+                     (a)  in relation to an old ARC-administered scheme, the old ARC made a recommendation to the Minister before the commencement in relation to whether a particular approval under subsection 23(1) or (1A) of the old HEF Act should be given in respect of a year to which Division 1 of Part 7 of the new Act applies; and
 
                      (b)  the Minister has not given the approval, or refused to give the approval, before the commencement;
 
 the Minister must deal with the recommendation after the commencement as if the old HEF Act (and instruments made under it) were still in force.
 
-(2)       If, after the commencement, the Minister decides to give the approval, that approval has effect as if it were an approval under section 51 of the new Act that was made in accordance with the requirements of that Act.
+(2)        If, after the commencement, the Minister decides to give the approval, that approval has effect as if it were an approval under section 51 of the new Act that was made in accordance with the requirements of that Act.
 
 ## 6  Funding rules for 2001
 
-(1)       If, in relation to an old ARC‑administered scheme, guidelines developed by the old ARC and approved by the Minister for the year 2001 (whether those guidelines also cover a later year or years) were in force immediately before the commencement, those guidelines have effect after the commencement as if they were funding rules made by the Board and approved by the Minister under and in accordance with Subdivision D of Division 1 of Part 7 of the new Act.
+(1)        If, in relation to an old ARC-administered scheme, guidelines developed by the old ARC and approved by the Minister for the year 2001 (whether those guidelines also cover a later year or years) were in force immediately before the commencement, those guidelines have effect after the commencement as if they were funding rules made by the Board and approved by the Minister under and in accordance with Subdivision D of Division 1 of Part 7 of the new Act.
 
-(2)       Subsection 59(1) does not apply to require the new ARC to make guidelines under that section for the year 2001.
+(2)        Subsection 59(1) does not apply to require the new ARC to make guidelines under that section for the year 2001.
 
 ## 7  Funding split determination for 2001
 
@@ -11522,13 +11520,13 @@ The Minister’s obligation under section 50 of the new Act applies in relatio
 
 ## 8  Final report on operations of old ARC
 
-(1)       The first report under section 46 of the new Act must include a report on the operations of the old ARC during the period:
+(1)        The first report under section 46 of the new Act must include a report on the operations of the old ARC during the period:
 
                      (a)  starting at the beginning of the financial year after the last financial year for which a report has been given to the Minister under subsection 30(1) of the old EET Act; and
 
                      (b)  ending on the commencement.
 
-(2)       The report required by subitem (1) must include the information that would have been required for that period by subsections 30(1) and (2) of the old EET Act.
+(2)        The report required by subitem (1) must include the information that would have been required for that period by subsections 30(1) and (2) of the old EET Act.
 
 ## 9  References in other Commonwealth laws to kinds of institution defined in the old EET Act
 
@@ -11542,9 +11540,9 @@ _Higher Education Funding Amendment Act 2001 (No. 86, 2001)_
 
 ## 4  Application
 
-(1)       Subject to subitem (2), the amendments made by this Schedule apply to bankruptcies for which the date of the bankruptcy is after the introduction day.
+(1)        Subject to subitem (2), the amendments made by this Schedule apply to bankruptcies for which the date of the bankruptcy is after the introduction day.
 
-(2)       The amendments made by this Schedule do not apply to a bankruptcy if:
+(2)        The amendments made by this Schedule do not apply to a bankruptcy if:
 
                      (a)  a declaration was presented by the debtor under section 54A of the _Bankruptcy Act 1966_ on or before the introduction day; and
 
@@ -11552,9 +11550,9 @@ _Higher Education Funding Amendment Act 2001 (No. 86, 2001)_
 
                      (c)  the date of the bankruptcy is after the introduction day, but within the period of 6 days after the day on which the declaration was accepted.
 
-(3)       To avoid doubt, the amendments made by this Schedule do not affect the interpretation of the _Bankruptcy Act 1966_ or the _Higher Education Funding Act 1988_ in relation to bankruptcies to which those amendments do not apply.
+(3)        To avoid doubt, the amendments made by this Schedule do not affect the interpretation of the _Bankruptcy Act 1966_ or the _Higher Education Funding Act 1988_ in relation to bankruptcies to which those amendments do not apply.
 
-(4)       In this item:
+(4)        In this item:
 
 **_introduction day_** means the day on which the Bill that became the _Higher Education Funding Amendment Act 2001_ was introduced into the House of Representatives.
 
@@ -11569,11 +11567,11 @@ _Innovation and Education Legislation Amendment Act (No. 2) 2001
 
 ## 22  Transitional provision for Commissioner’s guidelines
 
-(1)       This item operates if guidelines issued by the Commissioner under paragraph 42A(1)(b) of the _Higher Education Funding Act 1988_ are in force immediately before the commencement of this Schedule.
+(1)        This item operates if guidelines issued by the Commissioner under paragraph 42A(1)(b) of the _Higher Education Funding Act 1988_ are in force immediately before the commencement of this Schedule.
 
-(2)       The guidelines operate on and after that commencement in relation to paragraph 98H(1)(b) of the _Higher Education Funding Act 1988_ as if they had been made under that paragraph and paragraph 42A(1)(b) of that Act.
+(2)        The guidelines operate on and after that commencement in relation to paragraph 98H(1)(b) of the _Higher Education Funding Act 1988_ as if they had been made under that paragraph and paragraph 42A(1)(b) of that Act.
 
-(3)       This item does not prevent the amendment or repeal of the guidelines.
+(3)        This item does not prevent the amendment or repeal of the guidelines.
 
 * * *
 
@@ -11601,7 +11599,7 @@ The amendments made by this Part apply in relation to financial assistance grant
 
 ## 29  Transitional—subsection 106U(2) of the _Higher Education Funding Act 1988_
 
-Despite the repeal of subsection 106U(2) of the _Higher Education Funding Act 1988_ by this Part, that subsection continues to apply, in relation to the 1999‑2000 year of income or an earlier year of income, as if that repeal had not happened.
+Despite the repeal of subsection 106U(2) of the _Higher Education Funding Act 1988_ by this Part, that subsection continues to apply, in relation to the 1999-2000 year of income or an earlier year of income, as if that repeal had not happened.
 
 * * *
 
@@ -11611,7 +11609,7 @@ _Higher Education Funding Amendment Act 2002 (No. 87, 2002)_
 
 ## 23  Transitional—paragraph 23(1C)(b) of the _Higher Education Funding Act 1988_
 
-(1)       This item applies to a purported declaration that:
+(1)        This item applies to a purported declaration that:
 
                      (a)  was made under paragraph 23(1C)(b) of the _Higher Education Funding Act 1988_ before the day on which the _Higher Education Funding Amendment Act 2002_ received the Royal Assent; and
 
@@ -11619,7 +11617,7 @@ _Higher Education Funding Amendment Act 2002 (No. 87, 2002)_
 
                      (c)  related to a particular plan.
 
-(2)       The declaration is as effective as it would have been if:
+(2)        The declaration is as effective as it would have been if:
 
                      (a)  the Minister had been satisfied that the plan met the requirements in force under subsection 23(1E) of the _Higher Education Funding Act 1988_; and
 
@@ -11665,7 +11663,7 @@ _Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006
 
 Except as mentioned in items 2 and 3, the repeals and amendments made by Schedules 1 and 2 apply:
 
-                     (a)  so far as they affect assessments—to assessments for the 2006‑07 income year and all later income years; and
+                     (a)  so far as they affect assessments—to assessments for the 2006-07 income year and all later income years; and
 
                      (b)  otherwise—to acts done or omitted to be done, or states of affairs existing, after the commencement of the repeals and amendments.
 
@@ -11691,17 +11689,17 @@ Even though an Act is repealed or amended by this Act, the repeal or amendment i
 
 in relation to any act done or omitted to be done, any state of affairs existing, or any period ending, before the repeal or amendment applies.
 
-Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998‑99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
+Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998-99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
 
-                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998‑99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
+                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998-99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
 
-                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998‑99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
+                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998-99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
 
                    Despite the repeal of sections 160ARU and 160ARV, item 9 will ensure that the general interest charge will accrue on the unpaid franking deficit tax and penalty until they are paid.
 
                    Item 7 will also preserve Greg Ltd’s right, under former section 160ART of that Act, to object against the Commissioner’s amended assessment (including the penalty), since the objection is the exercise of a right in relation to a franking year that ended before the repeal of Part IIIAA.
 
-Example 2: During the 1997‑98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
+Example 2: During the 1997-98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
 
                    Following an audit undertaken after the repeal of those Divisions, the Commissioner discovers that the withheld amounts have not been remitted. The company’s records are incomplete and the Commissioner is unable to completely ascertain the extent of its liability for the withheld amounts. Under section 222AGA of that Act, the Commissioner makes an estimate of the liability.
 
