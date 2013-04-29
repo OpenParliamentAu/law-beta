@@ -1,12 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2006C00102/Html/C1B8035BBDC2DD01CA257141001493AD/$FILE/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00055/Html/79B147C883C0D25CCA25712B001D0C28/$FILE/image001.gif)
 
 # Naval Defence Act 1910
 
 **Act No. 30 of 1910 as amended**
 
-This compilation was prepared on 27 March 2006
+This compilation was prepared on 6 March 2006
 taking into account amendments up to Act No. 3 of 2006
-and SLI 2006 No. 50
 
 The text of any of those amendments not in force 
 on that date is appended in the Notes section
@@ -240,13 +239,11 @@ from the obligation to render, during a training period, the whole or part of th
 
                    Subject to the regulations, to any determinations in force under section 58B of the Defence Act and to the directions of the Minister, the Chief of Navy shall administer the Australian Navy Cadets.
 
-## Part VI—Special powers in relation to Naval ships, Naval establishments and civil employment
+##  Part VI—Special powers in relation to Naval ships, Naval establishments and civil employment
 
 ##### <a id="40"></a>40  Interpretation
 
              (1)  In this Part, unless the contrary intention appears:
-
-                    <a name="australian-fair-pai-condition-standard"></a>**_Australian Fair Pay and Conditions Standard_** has the meaning given by the _Workplace Relations Act 1996_.
 
                     <a name="authorized-person"></a>**_authorized person_** means a person appointed by the Minister in writing to be an authorized person for the purposes of this Part.
 
@@ -300,7 +297,7 @@ and where, in a determination, provision is made in contravention of this subsec
 
                      (b)  from and including that day, is employed by the Commonwealth authority specified in the declaration.
 
-             (3)  For the purpose of facilitating a transfer of persons to the employment of a Commonwealth authority, the Commonwealth authority may, notwithstanding anything in any other law (other than the Australian Fair Pay and Conditions Standard or an industrial award), determine special terms or conditions of employment that are to apply in relation to the persons (other than terms and conditions with respect to superannuation).
+             (3)  For the purpose of facilitating a transfer of persons to the employment of a Commonwealth authority, the Commonwealth authority may, notwithstanding anything in any other law (other than an industrial award), determine special terms or conditions of employment that are to apply in relation to the persons (other than terms and conditions with respect to superannuation).
 
 ## Part VII—Miscellaneous
 
@@ -364,8 +361,6 @@ Note:          For **_strict liability_**, see section 6.1 o
 ### Note 1
 
 The _Naval Defence Act 1910_ as shown in this compilation comprises Act No. 30, 1910 amended as indicated in the Tables below.
-
-The _Naval Defence Act 1910_ was amended by the _Workplace Relations Amendment (Work Choices) (Consequential Amendments) Regulations 2006 (No. 1)_ (SLI 2006 No. 50). The amendments are incorporated in this compilation.
 
 All relevant information pertaining to application, saving or transitional provisions prior to 22 September 1999 is not included in this compilation. For subsequent information _see_ Table A.
 
@@ -3439,7 +3434,7 @@ _(u)_     Subsection 2(1) (item 3) of the _Defence Legislation Amendme
       <div></div>
     </td>
     <td>
-      <div>am. No. 101, 1988; No. 196, 1992; No. 146, 1999; SLI 2006 No. 50</div>
+      <div>am. No. 101, 1988; No. 196, 1992; No. 146, 1999</div>
     </td>
   </tr>
   <tr>
@@ -3576,14 +3571,6 @@ _(u)_     Subsection 2(1) (item 3) of the _Defence Legislation Amendme
     </td>
     <td>
       <div>ad. No. 101, 1988</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>am. SLI 2006 No. 50</div>
     </td>
   </tr>
   <tr>
