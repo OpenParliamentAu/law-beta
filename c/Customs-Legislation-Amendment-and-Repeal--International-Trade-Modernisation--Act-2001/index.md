@@ -1,151 +1,146 @@
-![](http://www.comlaw.gov.au/Details/C2008C00449/Html/CustomsLegAmendRepInternTradeModern2001_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00473/Html/A65BE8E5CC73E10FCA257042001B75D3/$FILE/image001.gif)
 
 # Customs Legislation Amendment and Repeal (International Trade Modernisation) Act 2001
 
-**Act No. 95 of 2001 as amended**
+**Act No. 95 of 2001 as amended** 
 
-This compilation was prepared on 25 July 2008
+This compilation was prepared on 19 July 2005
 
-**\[This Act was amended by Act Nos. 63, 64 and 82 of 2002;  No. 136 of 2003; No. 25 of 2004]**
+**\[This Act was amended by Act Nos. 63, 64 and 82 of 2002; No. 136 of 2003; No. 25 of 2004]**
 
 **Amendment from Act No. 63 of 2002**
 
-\[Schedule 2 (item 8) amended heading to item 158 of Schedule 3
+\[Schedule 2 (item 8) amended heading to Item 158 of Schedule 3
 
 Schedule 2 (item 8) commenced on 20 July 2001]
 
 **Amendments from Act No. 64 of 2002**
 
-\[Schedule 6 (item 10) repealed item 92 of Schedule 3
- Schedule 6 (item 11) repealed item 95 of Schedule 3
- Schedule 6 (item 12) repealed item 102 of Schedule 3
- Schedule 6 (item 13) repealed item 107 of Schedule 3
- Schedule 6 (item 14) repealed and substituted item 122 of Schedule 3
- and added item 122A to Schedule 3
- Schedule 6 (item 15) repealed and substituted items 124 and 125 
- of Schedule 3
+\[Schedule 6 (item 10) repealed Item 92 of Schedule 3
+Schedule 6 (item 11) repealed Item 95 of Schedule 3
+Schedule 6 (item 12) repealed Item 102 of Schedule 3
+Schedule 6 (item 13) repealed Item 107 of Schedule 3
+Schedule 6 (item 14) repealed and substituted Item 122 of Schedule 3 
+and added Item 122A to Schedule 3
+Schedule 6 (item 15) repealed and substituted Items 124 and 125 
+of Schedule 3
 
 Schedule 6 (items 10–15) commenced on 19 July 2005]
 
 **Amendments from Act No. 82 of 2002**
 
 \[Schedule 3 (items 56–65) amended section 2
- Schedule 3 (item 66) added section 4
- Schedule 3 (item 67) repealed item 4 of Schedule 3
- Schedule 3 (item 68) repealed and substituted item 27 of Schedule 3
- and added item 27A to Schedule 3
- Schedule 3 (item 69) added item 30A to Schedule 3
- Schedule 3 (items 70 and 71) amended item 82 of Schedule 3
- Schedule 3 (item 72) repealed and substituted item 111 of Schedule 3
- Schedule 3 (item 73) repealed and substituted item 116 of Schedule 3
- and added items 116A–116C to Schedule 3
+Schedule 3 (item 66) added section 4
+Schedule 3 (item 67) repealed Item 4 of Schedule 3
+Schedule 3 (item 68) repealed and substituted Item 27 of Schedule 3
+and added Item 27A to Schedule 3
+Schedule 3 (item 69) added Item 30A to Schedule 3
+Schedule 3 (items 70 and 71) amended Item 82 of Schedule 3
+Schedule 3 (item 72) repealed and substituted Item 111 of Schedule 3
+Schedule 3 (item 73) repealed and substituted Item 116 of Schedule 3
+and added Items 116A–116C to Schedule 3
 
+Schedule 3 (items 70 and 71) commenced on 20 July 2001
 Schedule 3 (items 56–65) commenced on 10 October 2002
- Schedule 3 (items 66–69, 72 and 73) commenced on 19 July 2005
- Schedule 3 (items 70 and 71) commenced on 20 July 2001]
+Schedule 3 (items 66–69, 72, 73) commenced on 19 July 2005]
 
 **Amendments from Act No. 136 of 2003**
 
 \[Schedule 1 (item 33A) amended subsection 2(7)
- Schedule 1 (item 34) added item 8 to Schedule 2
- Schedule 1 (item 35) added note to item 62 to Schedule 3
- Schedule 1 (item 36) repealed item 84 of Schedule 3
+Schedule 1 (item 34) added Item 8 to Schedule 2
+Schedule 1 (item 35) added note to Item 62 to Schedule 3
+Schedule 1 (item 36) repealed Item 84 of Schedule 3
 
-Schedule 1 (items 33A and 34–36) commenced on 17 December 2003]
+Schedule 1 (items 33A, 34–36) commenced on 17 December 2003]
 
 **Amendments from Act No. 25 of 2004**
 
 \[Schedule 2 (item 28) amended subsection 2(3)
- Schedule 2 (item 29) added subsection 2(3A)
- Schedule 2 (item 30) amended subsection 2(7)
- Schedule 2 (item 31) repealed item 82 of Schedule 3
+Schedule 2 (item 29) added subsection 2(3A)
+Schedule 2 (item 30) amended subsection 2(7)
+Schedule 2 (item 31) repealed Item 82 of Schedule 3
 
 Schedule 2 (items 28–31) commenced on 25 March 2004]
 
-**\[This Act is to be amended by Act No. 75 of 2008]**
-
-**Amendment from Act No. 75 of 2008**
-
-\[Schedule 3 (item 9) repeals item 45 of Schedule 3
-
-Schedule 3 (item 9) commences on 9 August 2008
-
-The amendment made by Schedule 3 (item 9) has not been incorporated in this compilation]
+**The amendments have been incorporated in this compilation.**
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, 
+Canberra
+
 
 # Contents
 
-[1](#1).            Short title
+[1](#1).            Short title                                                                                             5
 
-[2](#2).            Commencement
+[2](#2).            Commencement                                                                                   5
 
-[3](#3).            Schedule(s)
+[3](#3).            Schedule(s)                                                                                           6
 
-[4](#4).            Transitional—liability for cargo report processing charge during moratorium period
+[4](#4).            Transitional—liability for cargo report processing charge during moratorium period             6
 
 **Schedule 1—Provisions for improving customs compliance** 
 
-Part 1—Goods subject to Customs control                                                            3
-
-Customs Act 1901                                                                                                        3
-
-Part 2—Goods to be entered for export                                                                  6
-
-Customs Act 1901                                                                                                        6
-
-Part 3—Powers relating to goods for export that are not yet subject to Customs control       7
+Part 1—Goods subject to Customs control                                                            7
 
 Customs Act 1901                                                                                                        7
 
-Part 4—Time to recover short-paid duty etc.                                                      11
+Part 2—Goods to be entered for export                                                                10
+
+Customs Act 1901                                                                                                      10
+
+Part 3—Powers relating to goods for export that are not yet subject to Customs control       11
 
 Customs Act 1901                                                                                                      11
 
-Part 5—Powers to monitor and audit                                                                      12
+Part 4—Time to recover short-paid duty etc.                                                      15
 
-Customs Act 1901                                                                                                      12
+Customs Act 1901                                                                                                      15
 
-Part 6—Keeping commercial documents and records verifying communications to Customs                23
+Part 5—Powers to monitor and audit                                                                      16
 
-Customs Act 1901                                                                                                      23
+Customs Act 1901                                                                                                      16
+
+Part 6—Keeping commercial documents and records verifying communications to Customs                27
+
+Customs Act 1901                                                                                                      27
 
 **Schedule 2—Penalties** 
 
-Customs Act 1901                                                                                                      28
+Customs Act 1901                                                                                                      32
 
 **Schedule 3—Communicating import and export information to Customs** 
 
-Part 1—Maintenance of electronic communications systems by Customs 40
+Part 1—Maintenance of electronic communications systems by Customs 44
 
-Customs Act 1901                                                                                                      40
+Customs Act 1901                                                                                                      44
 
-Part 2—Importation of goods                                                                                    43
+Part 2—Importation of goods                                                                                    47
 
-Customs Act 1901                                                                                                      43
+Customs Act 1901                                                                                                      47
 
-Part 3—Exportation of goods                                                                                    79
+Part 3—Exportation of goods                                                                                    66
 
-Customs Act 1901                                                                                                      79
+Customs Act 1901                                                                                                      66
 
-Part 4—Abolition of existing computer systems                                                100
+Part 4—Abolition of existing computer systems                                                  66
 
-Customs Act 1901                                                                                                    100
+Customs Act 1901                                                                                                      66
 
-Part 5—Matters relating to importation and exportation of goods            103
+Part 5—Matters relating to importation and exportation of goods              66
 
-Customs Act 1901                                                                                                    103
+Customs Act 1901                                                                                                      66
 
-Part 6—Reports and other compliance measures                                            106
+Part 6—Reports and other compliance measures                                              66
 
-Customs Act 1901                                                                                                    106
+Customs Act 1901                                                                                                      66
 
-Customs Administration Act 1985                                                                        129
+Customs Administration Act 1985                                                                          66
 
 **Schedule 4—Repeal of the Import Processing Charges Act 1997** 
 
-Import Processing Charges Act 1997                                                                  134
+Import Processing Charges Act 1997                                                                    66
+
 
 ## An Act to amend and repeal certain legislation relating to Customs, and for related purposes
 
@@ -202,6 +197,7 @@ The Parliament of Australia enacts:
                      (b)  the definition of **_cargo report processing charge_** in subsection 4(1) of that Act;
 
 those provisions continue to apply, in relation to the cargo report, as if those repeals had not happened.
+
 
 ###### Schedule 1—Provisions for improving customs compliance
 
@@ -851,7 +847,7 @@ Note 2:       Failure to produce a commercial document following a r
 
 the person commits an offence punishable, on conviction, by a penalty not exceeding 30 penalty units.
 
-##### <a id="240AC"></a>240AC  Authorised officer may require person to produce record
+##### <a id="240AC"></a>240AC  Authorised officer may require person to produce record
 
              (1)  An authorised officer may, by written notice given to a person who is required under section 240AB to keep a record, require the person to produce, either at the business premises in Australia of the person or at a place in Australia specified in the notice, and within a period specified in the notice, for inspection by an authorised officer:
 
@@ -1433,7 +1429,7 @@ Insert:
 
                     <a name="self-assessed-clearanc-declar-charg"></a>**_self-assessed clearance declaration charge_** means a self-assessed clearance declaration charge payable as set out in section 71AAA.
 
-## 20  Subsection 4(1) (definition of _visual examination application_)
+## 20  Subsection 4(1) (definition of _visual examination application_)
 
 Omit “71C”, substitute “71D or 71DK”.
 
@@ -1603,7 +1599,7 @@ as the regulations specify.
 
                              (ii)  setting out the reasons for the suspension;
 
-                            and serving a copy of the notice on the owner of the goods or, if the owner does not have possession of the goods, on the person who has possession of the goods; or
+                            and serving a copy of the notice on the owner of the goods or, if the owner does not have possession of the goods, on the person who has possession of the goods; or
 
                      (b)  by sending electronically to the person who made the self-assessed clearance declaration a message stating that the authority is so suspended and setting out the reasons for the suspension.
 
@@ -1837,7 +1833,7 @@ Note:          Subsection 132AA(1) provides that import duty o
 
            (14)  A cancellation or suspension of an authority, or a revocation of a suspension of an authority, has effect from the time when the relevant notice is served or the relevant message is sent, as the case may be.
 
-##### <a id="71D"></a>71D  Visual examination in presence of officer
+##### <a id="71D"></a>71D  Visual examination in presence of officer
 
              (1)  If a person who is permitted or required to make an import declaration in respect of goods to which section 68 applies does not have the information to complete the declaration, the person may apply to Customs, by document or electronically, for permission to examine the goods in the presence of an officer.
 
@@ -3007,7 +3003,7 @@ After “cancel”, insert “or suspend”.
 
 <h9 class="ActHead9">Customs Act 1901</h9>
 
-## 67  Subsection 4(1) (definition of _Air Cargo Automation System_)
+## 67  Subsection 4(1) (definition of _Air Cargo Automation System_)
 
 Repeal the definition.
 
@@ -4021,7 +4017,7 @@ Omit “an authorised person while the authorised person”, substitute “a per
 
 Repeal the definition, substitute:
 
-                    <a name="state"></a>**_State_** includes the Australian Capital Territory, the Northern   Territory and Norfolk Island.
+                    <a name="state"></a>**_State_** includes the Australian Capital Territory, the Northern Territory and Norfolk Island.
 
 ## 162  Subsection 16(2)
 
@@ -4109,11 +4105,12 @@ Omit “or another country”, substitute “and another country”.
 
 Repeal the Act.
 
-<div style="border:none;border-top:solid windowtext 1.0pt;padding:1.0pt 0cm 0cm 0cm">
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 0cm; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; PADDING-TOP: 1pt; BORDER-BOTTOM: medium none">
 
-</div>
+ </div>
 
  
+
 
  
 
