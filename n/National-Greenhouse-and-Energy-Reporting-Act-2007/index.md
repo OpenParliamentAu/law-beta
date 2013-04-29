@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2011C00939/Html/217cff5a-eba4-41b6-a264-573fc8796926_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00920/Html/85e08016-b66a-4d1b-ac8c-c01f9b5dc3a6_files/image001.gif)
 
 # National Greenhouse and Energy Reporting Act 2007
 
 **Act No. 175 of 2007 as amended**
 
-This compilation was prepared on 8 December 2011
+This compilation was prepared on 30 November 2011
  taking into account amendments up to Act No. 132 of 2011
 
 The text of any of those amendments not in force
@@ -256,7 +256,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [74A](#74A).       Audits of persons providing information under section 20—other
 
-[75](#75).          Conduct of audits
+[75](#75).          Conduct of greenhouse and energy audits
 
 [75A](#75A).       Register of greenhouse and energy auditors
 
@@ -429,30 +429,6 @@ Note:          **_Innocent passage_** is defined in section 
                     <a name="busi-unit"></a>**_business unit_** has the meaning given by the regulations.
 
                     <a name="carbon-dioxid-equival"></a>**_carbon dioxide equivalence_**, of an amount of greenhouse gas, means the amount of the gas multiplied by a value specified in the regulations in relation to that kind of greenhouse gas.
-
-                    <a name="cfi-audit"></a>**_CFI audit_** means:
-
-                     (a)  an audit under section 214 or 215 of the _Carbon Credits (Carbon Farming Initiative) Act 2011_; or
-
-                     (b)  an audit carried out for the purposes of preparing an audit report prescribed for the purposes of any of the following provisions of the _Carbon Credits (Carbon Farming Initiative) Act 2011_:
-
-                              (i)  paragraph 13(1)(e);
-
-                             (ii)  paragraph 23(1)(d);
-
-                            (iii)  paragraph 76(4)(c).
-
-                    <a name="cfi-audit-report"></a>**_CFI audit report_** means:
-
-                     (a)  an audit report under section 214 or 215 of the _Carbon Credits (Carbon Farming Initiative) Act 2011_; or
-
-                     (b)  an audit report prescribed for the purposes of any of the following provisions of the _Carbon Credits (Carbon Farming Initiative) Act 2011_:
-
-                              (i)  paragraph 13(1)(e);
-
-                             (ii)  paragraph 23(1)(d);
-
-                            (iii)  paragraph 76(4)(c).
 
                     <a name="civil-penalti-provision"></a>**_civil penalty provision_** has the meaning given by section 29.
 
@@ -732,7 +708,7 @@ On 30 June 2010 the corporation is still registered under Division 3\. The c
 
              (2)  If a member of a controlling corporation’s group has operational control of a facility for a number of, but not all, days in a financial year (the **_control days_**), subparagraphs (1)(d)(i) to (iii) have effect as though each threshold were replaced by the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00939/Html/217cff5a-eba4-41b6-a264-573fc8796926_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00920/Html/85e08016-b66a-4d1b-ac8c-c01f9b5dc3a6_files/image002.gif)
 
 Reporting transfer certificate
 
@@ -1268,7 +1244,7 @@ Refusal
 
                      (b)  the certificate is cancelled under section 22P.
 
-##### <a id="22N"></a>22N  Surrender of reporting transfer certificate
+##### <a id="22N"></a>22N  Surrender of reporting transfer certificate
 
 Scope
 
@@ -1551,8 +1527,6 @@ if the person is responsible for administering a program or collecting statistic
 for the purposes of, or in connection with, court or tribunal proceedings, or proposed or possible court or tribunal proceedings under this Act.
 
              (4)  The Greenhouse and Energy Data Officer, or a person authorised by the Greenhouse and Energy Data Officer, may disclose greenhouse and energy information to another person for the purposes of facilitating reviews of Australia’s compliance with its international obligations relating to reporting of greenhouse gas emissions, production of energy and consumption of energy.
-
-          (4A)  The Greenhouse and Energy Data Officer, or a person authorised by the Greenhouse and Energy Data Officer, may disclose greenhouse and energy information to the Carbon Credits Administrator for the purposes of, or in connection with, the performance of the functions, or the exercise of the powers, of the Carbon Credits Administrator.
 
              (5)  The Greenhouse and Energy Data Officer may make disclosure of information under subsection (2) subject to conditions, including:
 
@@ -2478,29 +2452,17 @@ Note:          Under section 30, a person may be liable for 
 
                      (b)  otherwise—250 penalty units.
 
-##### <a id="75"></a>75  Conduct of audits
+##### <a id="75"></a>75  Conduct of greenhouse and energy audits
 
-             (1)  The Minister may determine, by legislative instrument, requirements to be met by registered greenhouse and energy auditors in:
+             (1)  The Minister may determine, by legislative instrument, requirements to be met by audit team leaders in preparing for and carrying out greenhouse and energy audits and in preparing audit reports.
 
-                     (a)  preparing for and carrying out greenhouse and energy audits; and
+             (2)  The determination may set out different requirements for different types of audits.
 
-                     (b)  preparing audit reports in relation to greenhouse and energy audits; and
-
-                     (c)  preparing for and carrying out CFI audits; and
-
-                     (d)  preparing CFI audit reports.
-
-             (2)  The determination may set out different requirements for:
-
-                     (a)  different types of audits; and
-
-                     (b)  different types of audit reports.
-
-             (3)  A registered greenhouse and energy auditor must comply with requirements determined under subsection (1).
+             (3)  An audit team leader must comply with requirements determined under subsection (1).
 
 ##### <a id="75A"></a>75A  Register of greenhouse and energy auditors
 
-             (1)  The Greenhouse and Energy Data Officer must cause a register of greenhouse and energy auditors to be kept for the purposes of this Act and the _Carbon Credits (Carbon Farming Initiative) Act 2011_.
+             (1)  The Greenhouse and Energy Data Officer must cause a register of greenhouse and energy auditors to be kept for the purposes of this Act.
 
              (2)  The Greenhouse and Energy Data Officer must register an individual in the register if the individual:
 
@@ -2631,9 +2593,8 @@ Remainder: Royal Assent</div>
     <div>15 Sept 2008</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1, 8–10, 12, 23): 15 Mar 2009 
-Schedule 1 (items 2–7, 11, 13–22, 
-24–35): 16 Sept 2008 
+    <div>Schedule 1 (items 1, 8–10, 12, 23): 15 Mar 2009 
+Schedule 1 (items 2–7, 11, 13–22, 24–35): 16 Sept 2008 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -2688,7 +2649,7 @@ Remainder: Royal Assent</div>
     <div>15 Sept 2011</div>
   </td>
   <td>
-    <div>Schedule 1 (items 12–16, 19): 8 Dec 2011 ( <i>see</i>s. 2(1)) 
+    <div>Schedule 1 (items 12–16, 19): \[ <i>see</i>s. 2(1), Note 3 and Table A] 
 Schedule 2: 16 Sept 2011</div>
   </td>
   <td>
@@ -2706,12 +2667,12 @@ Schedule 2: 16 Sept 2011</div>
     <div>18 Nov 2011</div>
   </td>
   <td>
-    <div>Schedule 1 (items 106–155, 158–192, 214, 219): \[ <i>see</i>s. 2(1), Note 3 and Table A] 
+    <div>Schedule 1 (items 106–155, 158–192, 214, 219): \[ <i>see</i>s. 2(1), Note 4 and Table A] 
 Schedule 1 (items 261A–278, 
 280–301, 303–305, 
 307–310, 312–316, 319–334, 336–371, 375–381, 
 384–415A, 
-452–455): \[ <i>see</i>Note 3 and Table A]</div>
+452–455): \[ <i>see</i>Note 4 and Table A]</div>
   </td>
   <td>
     <div>Sch. 1 (items 214, 219, 452–455)</div>
@@ -3203,14 +3164,6 @@ _(a)_     Subsection 2(1) (items 4 and 5) of the _National Greenhouse an
 </tr>
 <tr>
   <td>
-    <div>S. 26</div>
-  </td>
-  <td>
-    <div>am. No. 102, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 28</div>
   </td>
   <td>
@@ -3367,7 +3320,7 @@ Div. 4 of Part 6</div>
     <div>S. 75</div>
   </td>
   <td>
-    <div>rs. No. 87, 2009; No. 102, 2011</div>
+    <div>rs. No. 87, 2009</div>
   </td>
 </tr>
 <tr>
@@ -3376,14 +3329,6 @@ Div. 4 of Part 6</div>
   </td>
   <td>
     <div>ad. No. 87, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 102, 2011</div>
   </td>
 </tr></table>
 
@@ -3399,9 +3344,85 @@ The following amendment commences on 27 December 2011 unless proclaimed earlier:
 
 Repeal the definition.
 
-As at 8 December 2011 the amendment is not incorporated in this compilation.
+As at 30 November 2011 the amendment is not incorporated in this compilation.
 
 ### Note 3
+
+_Carbon Credits (Consequential Amendments) Act 2011 (No. 102, 2011)_
+
+The following amendments commence at the same time as section 3 of the _Carbon Credits (Carbon Farming Initiative) Act 2011_:
+
+## Schedule 1
+
+## 12  Section 7
+
+Insert:
+
+                    <a name="cfi-audit"></a>**_CFI audit_** means:
+
+                     (a)  an audit under section 214 or 215 of the _Carbon Credits (Carbon Farming Initiative) Act 2011_; or
+
+                     (b)  an audit carried out for the purposes of preparing an audit report prescribed for the purposes of any of the following provisions of the _Carbon Credits (Carbon Farming Initiative) Act 2011_:
+
+                              (i)  paragraph 13(1)(e);
+
+                             (ii)  paragraph 23(1)(d);
+
+                            (iii)  paragraph 76(4)(c).
+
+## 13  Section 7
+
+Insert:
+
+                    <a name="cfi-audit-report"></a>**_CFI audit report_** means:
+
+                     (a)  an audit report under section 214 or 215 of the _Carbon Credits (Carbon Farming Initiative) Act 2011_; or
+
+                     (b)  an audit report prescribed for the purposes of any of the following provisions of the _Carbon Credits (Carbon Farming Initiative) Act 2011_:
+
+                              (i)  paragraph 13(1)(e);
+
+                             (ii)  paragraph 23(1)(d);
+
+                            (iii)  paragraph 76(4)(c).
+
+## 14  After subsection 26(4)
+
+Insert:
+
+          (4A)  The Greenhouse and Energy Data Officer, or a person authorised by the Greenhouse and Energy Data Officer, may disclose greenhouse and energy information to the Carbon Credits Administrator for the purposes of, or in connection with, the performance of the functions, or the exercise of the powers, of the Carbon Credits Administrator.
+
+## 15  Section 75
+
+Repeal the section, substitute:
+
+##### <a id="75"></a>75  Conduct of audits
+
+             (1)  The Minister may determine, by legislative instrument, requirements to be met by registered greenhouse and energy auditors in:
+
+                     (a)  preparing for and carrying out greenhouse and energy audits; and
+
+                     (b)  preparing audit reports in relation to greenhouse and energy audits; and
+
+                     (c)  preparing for and carrying out CFI audits; and
+
+                     (d)  preparing CFI audit reports.
+
+             (2)  The determination may set out different requirements for:
+
+                     (a)  different types of audits; and
+
+                     (b)  different types of audit reports.
+
+             (3)  A registered greenhouse and energy auditor must comply with requirements determined under subsection (1).
+
+## 16  At the end of subsection 75A(1)
+
+Add “and the _Carbon Credits (Carbon Farming Initiative) Act 2011_”.
+
+As at 30 November 2011 the amendments are not incorporated in this compilation.
+
+### Note 4
 
 _Clean Energy (Consequential Amendments) Act 2011 (No. 132, 2011)_
 
@@ -4740,7 +4761,7 @@ Omit all the words from and including “but” to the end of the subsection.
 
 Repeal the subsection.
 
-## 333  Subsection 10(1)
+## 333  Subsection 10(1)
 
 After “References”, insert “in this Act or the _Clean Energy Act 2011_”.
 
@@ -4898,7 +4919,7 @@ Operational control—nomination not made
 
              (9)  The formula is:
 
-![](http://www.comlaw.gov.au/Details/C2011C00939/Html/217cff5a-eba4-41b6-a264-573fc8796926_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00920/Html/85e08016-b66a-4d1b-ac8c-c01f9b5dc3a6_files/image003.gif)
 
 where:
 
@@ -4964,7 +4985,7 @@ Operational control
 
              (7)  The formula is:
 
-![](http://www.comlaw.gov.au/Details/C2011C00939/Html/217cff5a-eba4-41b6-a264-573fc8796926_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00920/Html/85e08016-b66a-4d1b-ac8c-c01f9b5dc3a6_files/image004.gif)
 
 where:
 
@@ -5032,7 +5053,7 @@ Operational control—nomination not made
 
              (9)  The formula is:
 
-![](http://www.comlaw.gov.au/Details/C2011C00939/Html/217cff5a-eba4-41b6-a264-573fc8796926_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00920/Html/85e08016-b66a-4d1b-ac8c-c01f9b5dc3a6_files/image005.gif)
 
 where:
 
@@ -5094,7 +5115,7 @@ Operational control
 
              (7)  The formula is:
 
-![](http://www.comlaw.gov.au/Details/C2011C00939/Html/217cff5a-eba4-41b6-a264-573fc8796926_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00920/Html/85e08016-b66a-4d1b-ac8c-c01f9b5dc3a6_files/image004.gif)
 
 where:
 
@@ -5322,7 +5343,7 @@ Repeal the heading, substitute:
 
 ## Part 3—Reporting obligations of registered corporations etc.
 
-## 358  Subsection 19(1)
+## 358  Subsection 19(1)
 
 Omit “registered corporation”, substitute “corporation registered under Division 3 of Part 2”.
 
@@ -5846,7 +5867,7 @@ Insert:
 
            (1J)  If the person was the holder of the relevant reporting transfer certificate or financial control liability transfer certificate in relation to the facility for a number of, but not all, days in the financial year (the **_control days_**), paragraphs (1H)(a), (b) and (c) have effect as though each amount mentioned in the relevant paragraph were replaced by the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00939/Html/217cff5a-eba4-41b6-a264-573fc8796926_files/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00920/Html/85e08016-b66a-4d1b-ac8c-c01f9b5dc3a6_files/image006.gif)
 
           (1K)  Subsection (1H) does not apply to:
 
@@ -6002,7 +6023,7 @@ Repeal the heading, substitute:
 
 ##### <a id="54"></a>54  Regulator may declare facility—group
 
-## 404  Subsection 54(5)
+## 404  Subsection 54(5)
 
 Omit “corporation, joint venture or partnership”, substitute “person”.
 
@@ -6408,7 +6429,7 @@ Government response to recommendations
 
                      (c)  such other persons as the Minister considers relevant.
 
-As at 8 December 2011 the amendments are not incorporated in this compilation.
+As at 30 November 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -6450,6 +6471,8 @@ The Governor‑General may make regulations prescribing matters of a transitiona
 * * *
 
 _Carbon Credits (Consequential Amendments) Act 2011 (No. 102, 2011)_
+
+The following provision commences at the same time as section 3 of the _Carbon Credits (Carbon Farming Initiative) Act 2011_:
 
 ## Schedule 1
 
