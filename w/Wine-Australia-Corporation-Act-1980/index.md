@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2010C00631/Html/AusWineBrandyCorp1980_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00547/Html/AusWineBrandyCorp1980_WD02_image001.gif)
 
 # Australian Wine and Brandy Corporation Act 1980
 
 **Act No. 161 of 1980 as amended**
 
-This compilation was prepared on 1 September 2010
+This compilation was prepared on 3 August 2010
  taking into account amendments up to Act No. 98 of 2010
 
 The text of any of those amendments not in force
@@ -38,7 +38,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [5C](#5C).         Meaning of _description and presentation_
 
-[5D](#5D).         Where wine or grape extract originates
+[5D](#5D).         Where wine originates
 
 **Part II—The Australian Wine and Brandy Corporation**
 
@@ -190,23 +190,55 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [39B](#39B).       Operation of Part
 
-[39C](#39C).       Persons to whom this Part applies
+[39C](#39C).       Interpretation
+
+[39D](#39D).       Sales with a label claim
+
+[39E](#39E).        Penalties
+
+[39EA](#39EA).     Time for bringing prosecutions
 
     **Division 2—Records relating to label claims**
 
-[39F](#39F).        Obligation to keep records
+[39F](#39F).        Wine manufacturers to keep records of receipt of wine goods
 
-[39G](#39G).       When certain details are not required to be kept
+[39G](#39G).       Wine manufacturers to keep records of manufacture of certain single wines
 
-[39H](#39H).       Details required under section 39F
+[39H](#39H).       Wine manufacturers to keep records of manufacture of certain blends
 
-[39J](#39J).        Offences relating to record-keeping requirements
+[39J](#39J).        Wine manufacturers to keep records of sales of certain wine
 
-[39K](#39K).       Offences relating to requirement to provide and keep a copy of a record in relation to the supply of wine goods
+[39K](#39K).       Wine manufacturers to keep records of disposals of certain wine
 
-[39L](#39L).        Time for bringing prosecutions
+[39L](#39L).        Direct sales
 
-[39M](#39M).      Single wines and blends etc 
+[39M](#39M).      Wine manufacturers to keep records of transfers of certain wine
+
+[39N](#39N).       Wine manufacturers to keep records of production of certain grape extract
+
+[39P](#39P).        Wine manufacturers to keep records of sales of certain grape extract
+
+[39Q](#39Q).       Wine manufacturers to keep records of disposal of certain grape extract
+
+[39R](#39R).       Wine manufacturers to keep records of transfers of certain grape extract
+
+[39S](#39S).        Making of records
+
+[39T](#39T).       Records to relate to a winery
+
+[39U](#39U).       Keeping of records
+
+[39V](#39V).       Record of person
+
+[39W](#39W).      Characteristics to be recorded
+
+[39X](#39X).       Record of variety
+
+[39Y](#39Y).       Record of geographical indication
+
+[39Z](#39Z).       Record of blends etc 
+
+39ZAAAOffences in relation to record-keeping
 
 [39ZAA](#39ZAA). Corporation may require records
 
@@ -244,7 +276,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [39ZL](#39ZL).     Corporation may assist in relation to levy
 
-**Part VIB—Protection of geographical indications and other terms** 
+**Part VIB—Protection of certain names and expressions** 
 
     **Division 1—Preliminary**
 
@@ -254,37 +286,25 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [40B](#40B).       Additional operation of Part
 
-    **Division 2—Provisions relating to sale, export or import of wine** 
+    **Division 2—Provisions relating to sale, export or import of wine**
 
-        **Subdivision A—Sale, export or import of wine with a false description and presentation**
+[40C](#40C).       Sale, export or import of wine with a false description and presentation
 
-[40C](#40C).       Offence—sale, export or import of wine with a false description and presentation
-
-[40D](#40D).       False descriptions and presentations
-
-[40DA](#40DA).    Circumstances in which description and presentation is not false—general
-
-[40DB](#40DB).    Circumstances in which description and presentation is not false—inclusion of registered traditional expressions
-
-        **Subdivision B—Sale, export or import of wine with a misleading description and presentation**
+[40D](#40D).       Meaning of _false description and presentation_
 
 [40E](#40E).        Sale, export or import of wine with a misleading description and presentation
 
-[40F](#40F).        Misleading descriptions and presentations
+[40F](#40F).        Meaning of _misleading description and presentation_
 
-[40FA](#40FA).     Circumstances in which description and presentation is not misleading—general
+[40G](#40G).       Sale, export or import of wine in contravention of certain registered conditions
 
-[40FB](#40FB).     Circumstances in which description and presentation is not misleading—inclusion of registered traditional expressions
-
-        **Subdivision C—Other provisions relating to sale, export or import of wine**
-
-[40G](#40G).       Sale, export or import of wine in contravention of registered conditions of use
+[40H](#40H).       Blending requirements, oenological practices and processes and compositional or other requirements
 
 [40J](#40J).        Exception for certain wines
 
 [40K](#40K).       Prosecution of offences
 
-[40M](#40M).      Application of national food standards to wines imported from foreign countries
+[40M](#40M).      Application of national food standards to wines imported from agreement countries
 
     **Division 3—Establishment, function and powers of Geographical Indications Committee**
 
@@ -344,7 +364,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [40Z](#40Z).       Date of effect of final determination
 
-        **Division 4A—Omission of Australian registered geographical indications** 
+    **Division 4A—Omission of registered geographical indications** 
 
         **Subdivision A—What this Division is about**
 
@@ -384,23 +404,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [40ZAP](#40ZAP).  Date of effect of determination to omit Australian GI
 
-    **Division 4B—Foreign geographical indications and translations**
-
-[40ZAQ](#40ZAQ). Determination of foreign geographical indications and translations
-
-[40ZAR](#40ZAR).  Appeals against decisions of Registrar of Trade Marks
-
-[40ZAS](#40ZAS).  Decisions not to affect rights under Trade Marks Act
-
-[40ZAT](#40ZAT).  Determinations for the omission from the Register of foreign geographical indications and translations
-
-    **Division 5—Register of Protected Geographical Indications and Other Terms**
+    **Division 5—Register of Protected Names**
 
 [40ZA](#40ZA).    Registrar
 
 [40ZB](#40ZB).     Functions of Registrar
 
-[40ZC](#40ZC).     Register of Protected Geographical Indications and Other Terms
+[40ZC](#40ZC).     Register of Protected Names
 
 [40ZD](#40ZD).    Contents of Register
 
@@ -498,7 +508,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (d)  to improve the production of grape products, and encourage the consumption of grape products, in the Territories; and
 
-                     (e)  to enable Australia to fulfil its obligations under prescribed wine-trading agreements and other international agreements;
+                     (e)  to enable Australia to fulfil its obligations under prescribed wine-trading agreements; and
+
+                      (f)  for the purpose of achieving any of the objects set out in the preceding paragraphs:
+
+                              (i)  to determine the boundaries of the various regions and localities in Australia in which wine is produced; and
+
+                             (ii)  to give identifying names to those regions and localities; and
+
+                            (iii)  to determine the varieties of grapes that may be used in the manufacture of wine in   Australia;
 
 and this Act shall be construed and administered accordingly.
 
@@ -510,7 +528,7 @@ and this Act shall be construed and administered accordingly.
 
                     <a name="agreem-countri"></a>**_agreement country_** means:
 
-                     (a)  if an agreement relating to trade in wine is in force between the European Community and Australia—an EC country; and
+                     (a)  if an agreement relating to trade in wine is in force between the European Economic Community and Australia—an EC country; and
 
                      (b)  if an agreement relating to trade in wine is in force between a foreign country (other than an EC country) and Australia and is declared by the regulations to be a prescribed wine-trading agreement—that foreign country.
 
@@ -519,8 +537,6 @@ and this Act shall be construed and administered accordingly.
                     <a name="annual-oper-plan"></a>**_annual operational plan_** means a plan developed by the Corporation and approved by the Minister in accordance with Division 2 of Part VA.
 
                     <a name="australia"></a>**_Australia_** includes all the external Territories.
-
-                    <a name="blend"></a>**_blend_** means wine manufactured by blending wines of different vintages, varieties or geographical indications.
 
                     <a name="blend-requir"></a>**_blending requirements_** means requirements relating to the blending of wines of different varieties, geographical indications or vintages, or any combination of the above.
 
@@ -542,8 +558,6 @@ and this Act shall be construed and administered accordingly.
 
                     <a name="corpor-compon-wine-grape-levi"></a>**_Corporation’s component of wine grapes levy_** has the meaning given by section 31L.
 
-                    <a name="countri"></a>**_country_** has a meaning affected by subsection (2).
-
                     <a name="declar-wine-grape-grower-organis"></a>**_declared wine grape growers organisation_** means an organisation in relation to which a declaration is in force under section 5B.
 
                     <a name="declar-winemak-organis"></a>**_declared winemakers organisation_** means an organisation declared to be a declared winemakers organisation by a declaration in force under section 5A.
@@ -552,29 +566,9 @@ and this Act shall be construed and administered accordingly.
 
                     <a name="descript"></a>**_description_**, in relation to wine, has a meaning affected by section 5C.
 
-                    <a name="design-foreign-countri"></a>**_designated foreign country_** has the meaning given by subsection 40K(3).
-
-                    <a name="direct-sale"></a>**_direct sale_** means a sale of wine goods to a consumer.
-
                     <a name="dri-grape"></a>**_dried grapes_** means grapes containing less than 60% of moisture.
 
-                    <a name="ec-countri"></a>**_EC country_** means a country that is a member of the European Community.
-
-                    <a name="examin-docum"></a>**_examinable document_** means:
-
-                     (a)  any document required to be kept:
-
-                              (i)  in relation to Part VIA—under Part VIA; or
-
-                             (ii)  in relation to Part VIB—under Part VIB; or
-
-                            (iii)  in relation to Part VII—under Part VII; or
-
-                     (b)  any wine label or other document relating to the vintage, variety or geographical indication of wine goods; or
-
-                     (c)  any document relating to advertising the vintage, variety or geographical indication of wine goods; or
-
-                     (d)  any other document that is relevant to monitoring or enforcing compliance with a label law.
+                    <a name="ec-countri"></a>**_EC country_** means a country that is a member of the European Economic Community.
 
                     <a name="export"></a>**_export_** means export from Australia.
 
@@ -582,9 +576,11 @@ and this Act shall be construed and administered accordingly.
 
                     <a name="fresh-grape"></a>**_fresh grapes_** means grapes containing not less than 60% of moisture.
 
-                    <a name="geograph-indic"></a>**_geographical indication_**, in relation to wine goods, means an indication that identifies the goods as originating in a country, or in a region or locality in that country, where a given quality, reputation or other characteristic of the goods is essentially attributable to their geographical origin.
+                    <a name="geograph-indic"></a>**_geographical indication_**, in relation to wine, means:
 
-                    <a name="grape-extract"></a>**_grape extract_** means grape juice, must, or concentrate obtained from grapes.
+                     (a)  a word or expression used in the description and presentation of the wine to indicate the country, region or locality in which the wine originated; or
+
+                     (b)  a word or expression used in the description and presentation of the wine to suggest that a particular quality, reputation or characteristic of the wine is attributable to the wine having originated in the country, region or locality indicated by the word or expression.
 
                     <a name="grape-product"></a>**_grape product_** means:
 
@@ -598,91 +594,23 @@ and this Act shall be construed and administered accordingly.
 
                     <a name="industri"></a>**_industry_** means the grape products industry in   Australia.
 
-                    <a name="inspect-power"></a>**_inspection power_**, in relation to wine premises, means:
-
-                     (a)  power to search any part of the premises; or
-
-                     (b)  power to inspect, examine, take measurements of, or conduct tests (including by the taking of samples) concerning, any wine goods or other thing on the premises; or
-
-                     (c)  power to take extracts from, and make copies of, any examinable documents on the premises; or
-
-                     (d)  power to take onto the premises such equipment and materials as the inspector requires for the purpose of exercising any other inspection power on the premises.
-
-                    <a name="inspector"></a>**_inspector_** means a person appointed under section 39ZA.
-
-                    <a name="label-claim"></a>**_label claim_**, in relation to wine goods:
-
-                     (a)  means a written claim that is made or implied about the wine goods’ vintage, variety or prescribed  geographical indication, including such a claim that is made or implied:
-
-                              (i)  on a label; or
-
-                             (ii)  in a record that is required to be kept under section 39F; or
-
-                            (iii)  in any other commercial document; or
-
-                            (iv)  in an advertisement; and
-
-                     (b)  includes such a claim about the vintage, variety or prescribed geographical indication of any other wine goods from which the wine goods were manufactured.
-
-                    <a name="label-law"></a>**_label law_** means:
-
-                     (a)  in relation to Part VIA:
-
-                              (i)  that Part; and
-
-                             (ii)  regulations made for the purposes of that Part; and
-
-                            (iii)  another law of the Commonwealth relating to the description of wine goods; and
-
-                            (iv)  a law of a State or an internal Territory relating to the description of wine goods; and
-
-                     (b)  in relation to Part VIB:
-
-                              (i)  Part VIB; and
-
-                             (ii)  regulations made for the purposes of Part VIB; and
-
-                     (c)  in relation to Part VII—regulations made under this Act relating to the export of grape products from Australia.
-
-                    <a name="label-offenc"></a>**_label offence_** means:
-
-                     (a)  in relation to Part VIA—an offence against a label law (within the meaning of paragraph (a) of the definition of **_label law_**); and
-
-                     (b)  in relation to Part VIB—an offence against a label law (within the meaning of paragraph (b) of the definition of **_label law_**); and
-
-                     (c)  in relation to Part VII—an offence against section 44.
-
-                    <a name="manufactur"></a>**_manufacture_** wine includes making a blend.
-
-                    <a name="manufactur"></a>**_manufacturer_** of wine goods means a person who operates an establishment at which:
-
-                     (a)  wine is manufactured; or
-
-                     (b)  grape extract is manufactured, being grape extract that is used or intended to be used in manufacturing wine; or
-
-                     (c)  wine goods are otherwise processed, modified or packaged.
-
                     <a name="member"></a>**_member_** means a member of the Corporation and includes the Chairperson.
 
-                    <a name="modifi"></a>**_modify_**, in relation to oenological practices and processes, or compositional requirements, includes:
+                    <a name="modifi"></a>**_modify_**, in relation to oenological practices and processes, or compositional or other requirements, includes:
 
-                     (a)  add one or more practices or processes, or compositional requirements; and
+                     (a)  add one or more practices or processes, or compositional or other requirements; and
 
-                     (b)  vary any one or more of the practices or processes, or of the compositional requirements; and
+                     (b)  vary any one or more of the practices or processes, or of the compositional or other requirements; and
 
-                     (c)  omit any one or more of the practices or processes, or of the compositional requirements.
+                     (c)  omit any one or more of the practices or processes, or of the compositional or other requirements.
 
                     <a name="nation-food-standard"></a>**_national food standard_** means a national standard within the meaning of the _Imported Food Control Act 1992_.
 
                     <a name="organis"></a>**_organisation_** means any body of persons, whether a body corporate or an unincorporated body.
 
-                    <a name="origin"></a>**_originate_**, in relation to wine or grape extract that is used or intended to be used in manufacturing wine, has the meaning given by section 5D.
-
-                    <a name="packag"></a>**_package_**, in relation to wine, means a container in which the wine is sold or transferred for sale.
+                    <a name="origin"></a>**_originate_**, in relation to wine, has the meaning given by section 5D.
 
                     <a name="pend"></a>**_pending_**, in relation to an application for the registration of a trade mark under the _Trade Marks Act 1995_, has the meaning given in that Act.
-
-                    <a name="prescrib-geograph-indic"></a>**_prescribed geographical indication_** means a geographical indication that is prescribed by the regulations for the purposes of this definition.
 
                     <a name="prescrib-good"></a>**_prescribed goods_** means:
 
@@ -700,47 +628,33 @@ and this Act shall be construed and administered accordingly.
 
                     <a name="present"></a>**_presentation_**, in relation to wine, has a meaning affected by section 5C.
 
-                    <a name="princip-employe"></a>**_principal employee_** means the person holding the position of principal employee (however described) of the Corporation.
-
-                    <a name="protect-date"></a>**_protection date_** for a registered traditional expression has the meaning given by subsection 40DB(6).
-
-                    <a name="regist"></a>**_Register_** means the Register of Protected Geographical Indications and Other Terms kept under section 40ZC.
+                    <a name="regist"></a>**_Register_** means the Register of Protected Names kept under section 40ZC.
 
                     <a name="regist"></a>**_registered_** means included in the Register.
 
-                    <a name="regist-addition-term"></a>**_registered additional term_** means a term that is included in Part 4 of the Register.
+                    <a name="regist-ancillari-protect-express"></a>**_registered ancillary protected expression_** means a word or expression, other than a geographical indication or traditional expression, that is included in the Register in relation to a particular country.
 
-                    <a name="regist-condition-us"></a>**_registered conditions of use_**, in relation to:
+                    <a name="regist-condition"></a>**_registered condition_**, in relation to:
 
-                     (a)  a registered geographical indication; or
+                     (a)  a geographical indication, a traditional expression, or any other word or expression, relating to wine; or
 
-                     (b)  a registered translation of such an indication; or
+                     (b)  a variety of grapes for use in the manufacture of wine in Australia;
 
-                     (c)  a registered traditional expression; or
+means a condition included in the Register that is applicable to the geographical indication, traditional expression or other word or expression, or is applicable to the description and presentation of wine manufactured from, or from grapes that include, that variety of grapes, as the case may be.
 
-                     (d)  a registered quality wine term; or
-
-                     (e)  a registered additional term;
-
-means a condition of use included in the Register that is applicable to the geographical indication, translation, traditional expression, quality wine term or additional term (as the case may be).
-
-                    <a name="regist-geograph-indic"></a>**_registered geographical indication_** means a geographical indication that is included in Part 1 of the Register.
+                    <a name="regist-geograph-indic"></a>**_registered geographical indication_** means a geographical indication that is included in the Register in relation to a particular country.
 
                     <a name="regist-owner"></a>**_registered owner_**, in relation to a trade mark, means the person in whose name the trade mark is registered under the _Trade Marks Act 1995_.
 
-                    <a name="regist-qualiti-wine-term"></a>**_registered quality wine term_** means a term that is included in Part 3 of the Register.
-
                     <a name="regist-trade-mark"></a>**_registered trade mark_** means a trade mark whose particulars are entered in the Register of Trade Marks under the _Trade Marks Act 1995_.
 
-                    <a name="regist-tradition-express"></a>**_registered traditional expression_** means a traditional expression that is included in Part 2 of the Register.
+                    <a name="regist-tradition-express"></a>**_registered traditional expression_** means a traditional expression that is included in the Register in relation to a particular country.
 
-                    <a name="regist-translat"></a>**_registered translation_** of a registered geographical indication means a translation, included in Part 1 of the Register, of the registered geographical indication.
+                    <a name="regist-varieti-grape"></a>**_registered variety of grapes_** means a variety of grapes that is included in the Register.
 
                     <a name="regist-trade-mark"></a>**_Register of Trade Marks_** means the register kept under section 207 of the _Trade Marks Act 1995_.
 
-                    <a name="registrar"></a>**_Registrar_** means the Registrar of Protected Geographical Indications and Other Terms established under subsection 40ZA(1).
-
-                    <a name="relev-agenc"></a>**_relevant agency_** has the meaning given by section 39ZL.
+                    <a name="registrar"></a>**_Registrar_** means the Registrar of Protected Names.
 
                     <a name="select-committe"></a>**_Selection Committee_** means the Australian Wine and Brandy Corporation Selection Committee.
 
@@ -748,51 +662,17 @@ means a condition of use included in the Register that is applicable to the geog
 
                     <a name="trade-mark"></a>**_trade mark_** has the meaning given in the _Trade Marks Act 1995_.
 
-                    <a name="tradition-express"></a>**_traditional expression_**, in relation to wine originating in a foreign country, means a traditionally used name referring, in particular, to the method of production or to the quality, colour or type of the wine.
-
-                    <a name="varieti"></a>**_variety_**, in relation to wine or grape extract, means the variety of the grapes from which the wine or grape extract was obtained.
-
-                    <a name="vintag"></a>**_vintage_** means:
-
-                     (a)  in relation to grapes—the year (within the ordinary meaning of the term, as affected by subsection (2A)) in which the grapes were harvested; or
-
-                     (b)  in relation to wine or grape extract—the year (within the ordinary meaning of the term, as affected by subsection (2A)) in which the grapes from which the wine or extract was manufactured or obtained were harvested.
+                    <a name="tradition-express"></a>**_traditional expression_**, in relation to wine, means a word or expression used in the description and presentation of the wine to refer to the method of production, or to the quality, colour or type, of the wine.
 
                     <a name="wine"></a>**_wine_** means an alcoholic beverage produced by the complete or partial fermentation of fresh grapes or products derived solely from fresh grapes, or both, and includes a grape product declared by the regulations to be wine for the purposes of this Act.
 
                     <a name="wine-export-charg"></a>**_wine export charge_** means charge imposed by Schedule 13 to the _Primary Industries (Customs) Charges Act 1999_.
 
-                    <a name="wine-good"></a>**_wine goods_** means:
-
-                     (a)  wine; or
-
-                     (b)  grapes, or grape extract, used or intended to be used in manufacturing wine.
-
                     <a name="wine-grape-levi"></a>**_wine grapes levy_** means levy imposed by Schedule 26 to the _Primary Industries (Excise) Levies Act 1999_.
-
-                    <a name="wine-label"></a>**_wine label_** means a label attached to, or writing or other sign appearing on, a bottle or other package of wine.
-
-                    <a name="wine-premis"></a>**_wine premises_** means any premises, place or conveyance where it is reasonable to assume that wine goods or examinable documents are or might be located.
-
-                    <a name="world-trade-organ"></a>**_World Trade Organization_** means the body of that name established by the WTO Agreement, done at Marrakesh on 15 April 1994.
-
-Note:          The text of the WTO Agreement is set out in Australian Treaty Series 1995 No. 8 (\[1995] ATS 8). In 2009, the text of an Agreement in the Australian Treaty Series was accessible through the Australian Treaties Library on the AustLII website (www.austlii.edu.au).
 
                     <a name="year"></a>**_year_** means a period of 12 months commencing on 1 July.
 
-Note:          This definition does not apply in relation to the definition of **_vintage_**(see that definition and subsection (2A)).
-
-References to country
-
-             (2)  For the purposes of this Act, a reference to a country includes a reference to a member of the World Trade Organization.
-
-Harvesting grapes
-
-          (2A)  For the purposes of the definition of **_vintage_**, grapes that are harvested on or after 1 July in a calendar year, and before or on 31 December of that calendar year, are taken to have been harvested in the next calendar year.
-
-Parties to prescribed wine trading agreements
-
-             (3)  If a prescribed wine trading agreement is in force between the European Community and Australia, each EC country is taken, for the purposes of this Act, to be a party to the agreement. 
+             (3)  If a prescribed wine trading agreement is in force between the European Economic Community and Australia, each EC country is taken, for the purposes of this Act, to be a party to the agreement. 
 
 Note:          For the manner in which the Chairperson and Deputy Chairperson may be referred to, see section 18B of the _Acts Interpretation Act 1901_.
 
@@ -816,7 +696,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 ##### <a id="5C"></a>5C  Meaning of _description and presentation_ 
 
-                   In this Act, a reference to the description and presentation with which wine is sold, exported or imported is a reference to all names (including business names) or other descriptions, references (including addresses), indications, signs, designs and trade marks used to distinguish the wine and appearing:
+                   In this Act, a reference to the description and presentation with which wine is sold, exported or imported is a reference to all names (including business names) or other descriptions, references (including addresses), signs, designs and trade marks used to distinguish the wine and appearing:
 
                      (a)  on the container (including on the device used to seal the container or on a label affixed to the container), on any tag attached to the container or, if the container is a bottle, on the sheathing covering the neck of the bottle; or
 
@@ -826,13 +706,13 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (d)  in advertisements relating to the wine.
 
-##### <a id="5D"></a>5D  Where wine or grape extract originates
+##### <a id="5D"></a>5D  Where wine originates
 
                    For the purposes of this Act:
 
-                     (a)  a wine, or a grape extract that is used or intended to be used in manufacturing wine, is taken to have originated in a country only if the wine or extract is made from grapes grown within the territory of that country; and
+                     (a)  a wine is taken to have originated in a foreign country or Australia only if the wine is made from grapes grown within the territory of that country or of Australia, as the case may be; and
 
-                     (b)  a wine, or a grape extract that is used or intended to be used in manufacturing wine, is taken to have originated in a particular region or locality of a country only if the wine or extract is made from grapes grown in that region or locality.
+                     (b)  a wine is taken to have originated in a particular region or locality of a foreign country or of Australia only if the wine is made from grapes grown in that region or locality.
 
 ## Part II—The Australian Wine and Brandy Corporation
 
@@ -856,33 +736,21 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 ##### <a id="8"></a>8  Powers of Corporation
 
-General power
-
              (1)  Subject to this Act, the Corporation has power to do all things necessary or convenient to be done for, or in connection with, the performance of its functions.
-
-Specific powers
 
              (2)  Without limiting the generality of subsection (1), the powers of the Corporation referred to in that subsection include power:
 
                   (aaa)  to do anything for the purpose of giving effect to a prescribed wine-trading agreement; and
 
-                    (aa)  to determine any conditions of use that are to be applicable to any registered geographical indications and any registered translations of such indications; and
+                    (aa)  to determine any conditions that are to be applicable to registered geographical indications in relation to wines manufactured in Australia or an agreement country; and
 
-                    (ac)  to determine in relation to a foreign country:
+                    (ab)  to determine any conditions that are to be applicable to registered traditional expressions in relation to wines manufactured in Australia or an agreement country; and
 
-                              (i)  any traditional expressions that are to be registered in relation to wines originating in that country (being traditional expressions that are recognised in the laws and regulations of that country for the purpose of the description and presentation of wine); and
+                    (ac)  to determine any conditions that are to be applicable to registered ancillary protected expressions in relation to wines manufactured in Australia or an agreement country; and
 
-                             (ii)  any conditions of use that are to be applicable to any or all of those expressions; and
+                    (ad)  to determine any geographical indications or traditional expressions that are to be registered in relation to a foreign country that is not an agreement country and to determine any conditions that are to be applicable to those indications or expressions; and
 
-                    (ad)  to determine:
-
-                              (i)  in relation to Australia—any terms that are to be registered as additional terms in relation to wines originating in Australia (being terms that are required to be protected for the purpose of the description and presentation of wine); and
-
-                             (ii)  in relation to a foreign country—any terms that are to be registered as additional terms in relation to wines originating in that country (being terms that are recognised in the laws and regulations of that country for the purpose of the description and presentation of wine); and
-
-                            (iii)  in relation to a particular wine (regardless of origin)—any terms that are to be registered as additional terms in relation to that wine; and
-
-                            (iv)  any conditions of use that are to be applicable to any or all of the terms referred to in subparagraphs (i) to (iii); and
+                    (ae)  to determine the varieties of grapes from which wine may be manufactured in Australia and to determine any conditions that are to be applicable to the description and presentation of wine manufactured from grapes of those varieties; and
 
                      (a)  to control the export of grape products from Australia by determining the persons, other than the Corporation, who shall be permitted to export grape products and the conditions under which such exports will be permitted; and
 
@@ -898,19 +766,9 @@ Specific powers
 
                      (g)  to charge for the provision of services, or the performance of work, by, or on behalf of, the Corporation; and
 
-                    (ga)  without limiting paragraph (g), to charge fees for the provision of services, or the performance of work, by or on behalf of:
-
-                              (i)  the Corporation; or
-
-                             (ii)  the Geographical Indications Committee established by section 40N;
-
-                            in relation to the determination of geographical indications and translations of such indications by the Geographical Indications Committee (including determinations for the omission of such indications and translations); and
-
                      (h)  to waive the payment of fees and charges payable to the Corporation.
 
-Requirements for determinations by the Corporation
-
-          (2A)  A determination under paragraph (2)(aa), (ac) or (ad) is to be in writing under the Corporation’s common seal.
+          (2A)  A determination under paragraph (2)(aa), (ab), (ac), (ad) or (ae) is to be in writing under the Corporation’s common seal.
 
           (2B)  When the Corporation makes a determination referred to in subsection (2A), the Chairperson must cause a notice stating that the determination has been made and setting out the terms of the determination to be published in any manner that the Corporation thinks appropriate.
 
@@ -922,17 +780,13 @@ Requirements for determinations by the Corporation
 
           (2D)  Any failure to comply with subsection (2C) in relation to a determination does not affect the validity of the determination.
 
-Review of determinations
-
            (2E)  Application may be made to the Administrative Appeals Tribunal for review of a determination.
 
            (2F)  Section 29 of the _Administrative Appeals Tribunal Act 1975_ has effect in relation to an application for review of a determination as if the following subsections were inserted after subsection (1):
 
-                 “(1A)  Despite paragraph (1)(d) and subsection (2), an application to the Tribunal for review of a determination made under paragraph 8(2)(aa), (ac) or (ad) of the _Australian Wine and Brandy Corporation Act 1980_ must be made within 28 days after notice of the determination is published in accordance with subsection 8(2B) of that Act.
+                 “(1A)  Despite paragraph (1)(d) and subsection (2), an application to the Tribunal for review of a determination made under paragraph 8(2)(aa), (ab), (ac), (ad) or (ae) of the _Australian Wine and Brandy Corporation Act 1980_ must be made within 28 days after notice of the determination is published in accordance with subsection 8(2B) of that Act.
 
-                 “(1B)  Despite subsection (8), an application under subsection (7) in respect of a determination under paragraph 8(2)(aa), (ac) or (ad) of the _Australian Wine and Brandy Corporation Act 1980_ must be made before the time fixed by subsection (1A) ends.”.
-
-Inclusion of particulars in the Register
+                 “(1B)  Despite subsection (8), an application under subsection (7) in respect of a determination under paragraph 8(2)(aa), (ab), (ac), (ad) or (ae) of the _Australian Wine and Brandy Corporation Act 1980_ must be made before the time fixed by subsection (1A) ends.”.
 
           (2G)  The Chairperson must give a copy of the determination to the Registrar so that particulars of the determination can be included in the Register:
 
@@ -941,8 +795,6 @@ Inclusion of particulars in the Register
                      (b)  otherwise—as soon as practicable after the 28th day after notice of the determination is published in accordance with subsection (2B).
 
           (2H)  The determination takes effect on the day on which particulars of the determination are included in the Register.
-
-Consistency with corporate and operational plans
 
              (3)  Subject to subsection 31K(4), the Corporation shall endeavour to ensure, to the extent that it is practicable to do so, that the performance at any time of its functions and the exercise at any time of its powers is consistent with, and designed to give effect to, the provisions of any corporate plan and of any annual operational plan in force at that time.
 
@@ -1232,7 +1084,7 @@ but a person appointed to act during a vacancy shall not continue to act for mor
 
              (2)  The Presiding Member may grant leave of absence to another member of the Committee from a meeting of the Committee.
 
-##### <a id="29N"></a>29N  Resignation
+##### <a id="29N"></a>29N  Resignation
 
                    A member of the Committee may resign from office by writing signed by the member and delivered to the Minister.
 
@@ -1400,9 +1252,9 @@ Note:          The annual reporting obligations for the Corpor
 
              (1)  The Corporation may engage such employees as it thinks necessary for the purposes of this Act.
 
-             (2)  The terms and conditions of employment (including remuneration) of the principal employee are to be such as are determined by the Corporation.
+             (2)  The terms and conditions of employment (including remuneration) of the person holding the position of principal employee (however described) of the Corporation shall be such as are determined by the Corporation.
 
-             (3)  The terms and conditions of employment (including remuneration) of an employee, other than the principal employee, are to be such as are determined by the Corporation.
+             (3)  The terms and conditions of employment (including remuneration) of an employee, other than the employee referred to in subsection (2), shall be such as are determined by the Corporation.
 
 ## Part VA—Operation of Corporation
 
@@ -1684,7 +1536,7 @@ on terms and conditions that are specified in, or consistent with, the approval.
 
 ##### <a id="38"></a>38  Extra matters to be included in annual report
 
-                   The report prepared by the members under section 9 of the _Commonwealth Authorities and Companies Act 1997_ on the operations of the Corporation during a year must include a report of the operations of the Geographical Indications Committee during the year and must set out all final determinations of geographical indications, and translations of such indications, made by the Committee during the year.
+             (4)  The report prepared by the members under section 9 of the _Commonwealth Authorities and Companies Act 1997_ on the operations of the Corporation during a year must include a report of the operations of the Geographical Indications Committee during the year and must set out all final determinations of geographical indications made by the Committee during the year.
 
 ##### <a id="39"></a>39  Liability to taxation
 
@@ -1706,283 +1558,459 @@ Note:          The Federal Court may grant an injunction under
 
 ##### <a id="39B"></a>39B  Operation of Part
 
-                   Without prejudice to its effect apart from this section, this Part has the effect it would have if the references in it to a person (the **_record keeper_**) to whom this Part applies were, by express provision, confined to:
+                   Without prejudice to its effect apart from this subsection, this Part has the effect it would have if the references in it to a wine manufacturer were, by express provision, confined to a wine manufacturer who is:
 
-                     (a)  a record keeper who is one of the following (a **_constitutional corporation or partnership_**):
+                     (a)  a foreign corporation, within the meaning of paragraph 51(xx) of the Constitution; or
 
-                              (i)  a foreign corporation, within the meaning of paragraph 51(xx) of the Constitution;
+                     (b)  a trading or financial corporation formed within the limits of the Commonwealth, within the meaning of that paragraph; or
 
-                             (ii)  a trading or financial corporation formed within the limits of the Commonwealth, within the meaning of that paragraph;
+                     (c)  a corporation that is controlled by a corporation described by paragraph (a) or (b); or
 
-                            (iii)  a corporation that is controlled by a corporation described in subparagraph (i) or (ii);
+                     (d)  a partnership at least one of the partners in which is a corporation described by paragraph (a), (b) or (c).
 
-                            (iv)  a partnership in which at least one of the partners is a corporation described in subparagraph (i), (ii) or (iii); or
+##### <a id="39C"></a>39C  Interpretation
 
-                     (b)  a record keeper by or through whom a constitutional corporation or partnership carries out its business functions and activities; or
+                   In this Part, unless the contrary intention appears:
 
-                     (c)  a record keeper who (whether directly or indirectly) supplies wine goods to a constitutional corporation or partnership.
+                    <a name="approved"></a>**_approved_** means approved by the Corporation in writing.
 
-##### <a id="39C"></a>39C  Persons to whom this Part applies
+                    <a name="blend"></a>**_blend_** means wine manufactured by blending different wines.
 
-             (1)  This Part applies to the following persons, except as provided by subsection (3):
+                    <a name="differ-wine"></a>**_different wines_** means wines that are different because at least one of their characteristics of vintage, variety or geographical indication is different.
 
-                     (a)  a person who grows grapes that are wine goods;
+                    <a name="direct-sale"></a>**_direct sale_** means a sale of wine to a consumer visiting a winery or ordering the wine from its manufacturer.
 
-                     (b)  a manufacturer of wine goods;
+                    <a name="examin-docum"></a>**_examinable document_** means:
 
-                     (c)  a person who supplies or receives wine goods (including a person who sells the wine goods wholesale or retail or who exports the wine goods);
+                     (a)  any document required to be kept under this Part; or
 
-                     (d)  a person specified by the regulations for the purposes of this section;
+                     (b)  any wine label or other document relating to the vintage, variety or geographical indication of wine goods; or
 
-                     (e)  an agent who takes possession of wine goods on behalf of a person mentioned in any of paragraphs (a) to (d).
+                     (c)  any document relating to advertising the vintage, variety or geographical indication of wine goods; or
 
-Note:          This Part applies only to the extent that the wine goods originate in Australia (see subsection (4)).
+                     (d)  any other document that is relevant to monitoring or enforcing compliance with a label law.
 
-             (2)  For the purposes of paragraph (1)(d), the regulations may specify:
+                    <a name="geograph-area"></a>**_geographical area_** includes a vineyard, a district and a State, but does not include Australia or a larger area.
 
-                     (a)  a class of person to whom this Part applies; or
+                    <a name="grape-extract"></a>**_grape extract_** means grape juice, must, or concentrate obtained from grapes.
 
-                     (b)  circumstances in which this Part applies to a specified class of person.
+                    <a name="inspect-power"></a>**_inspection power_**, in relation to wine premises, means:
 
-             (3)  The regulations may specify that, despite subsection (1), this Part does not apply to:
+                     (a)  power to search any part of the premises; or
 
-                     (a)  a specified class of person; or
+                     (b)  power to inspect, examine, take measurements of, or conduct tests (including by the taking of samples) concerning, any wine goods or other thing on the premises; or
 
-                     (b)  a specified class of person in specified circumstances.
+                     (c)  power to take extracts from, and make copies of, any examinable documents on the premises; or
 
-             (4)  This Part applies only to the extent that the wine goods originate in Australia.
+                     (d)  power to take onto the premises such equipment and materials as the inspector requires for the purpose of exercising any other inspection power on the premises.
+
+                    <a name="inspector"></a>**_inspector_** means a person appointed under section 39ZA.
+
+                    <a name="label-claim"></a>**_label claim_**, in relation to wine goods, means a claim about their vintage, variety or geographical indication made on a wine label, in a commercial document or in an advertisement, and includes a claim so made about the vintage, variety or geographical indication of wine goods from which they were manufactured.
+
+                    <a name="label-law"></a>**_label law_** means:
+
+                     (a)  this Part; or
+
+                     (b)  the regulations; or
+
+                     (c)  another law of the Commonwealth relating to the description of wine; or
+
+                     (d)  a law of a State or an internal Territory relating to the description of wine.
+
+                    <a name="label-offenc"></a>**_label offence_** means an offence against a label law.
+
+                    <a name="made"></a>**_made_**, in relation to a claim, includes implied.
+
+                    <a name="manufactur"></a>**_manufacturer_**, in relation to wine, means the wine manufacturer who operates the winery where the wine is made.
+
+                    <a name="manufactur-wine"></a>**_manufacturing wine_** includes blending different wines.
+
+                    <a name="packag"></a>**_package_**, in relation to wine, means a container in which the wine is sold or transferred for sale.
+
+                    <a name="princip-employe"></a>**_principal employee_** means the person holding the position of principal employee (however described) of the Corporation.
+
+                    <a name="singl-wine"></a>**_single wine_** means a wine other than a blend.
+
+                    <a name="supplier"></a>**_supplier_**, in relation to wine goods received by a wine manufacturer, means:
+
+                     (a)  where the wine manufacturer produced them—the wine manufacturer; or
+
+                     (b)  where another person produced them—the person who supplied them to the wine manufacturer.
+
+                    <a name="varieti"></a>**_variety_**, in relation to wine or grape extract, means the variety of the grapes from which it was obtained.
+
+                    <a name="vintag"></a>**_vintage_** means:
+
+                     (a)  in relation to grapes—the year in which they were harvested; or
+
+                     (b)  in relation to wine or grape extract—the year in which the grapes from which it was obtained were harvested.
+
+                    <a name="wine-good"></a>**_wine goods_** means wine, grapes or grape extract.
+
+                    <a name="wine-label"></a>**_wine label_** means a label attached to a bottle or other package of wine and includes that part of a package of wine on which there is writing.
+
+                    <a name="wine-manufactur"></a>**_wine manufacturer_** means a person who operates a winery.
+
+                    <a name="wine-premis"></a>**_wine premises_** means any premises, place or conveyance where it is reasonable to assume that wine goods or examinable documents are or might be located.
+
+                    <a name="wineri"></a>**_winery_** means an establishment at which:
+
+                     (a)  wine is manufactured for commercial purposes; or
+
+                     (b)  grape extract is manufactured for use in the manufacture of wine for commercial purposes;
+
+and, in relation to a wine manufacturer, means a winery operated by the manufacturer.
+
+##### <a id="39D"></a>39D  Sales with a label claim
+
+             (1)  For the purposes of this Part, wine is sold with a label claim if a label claim is made in relation to the wine when or before it is sold.
+
+             (2)  For the purposes of this Part, where a blend is sold with a label claim, the claim not only relates to the blend but also relates to a wine used in the blend unless:
+
+                     (a)  the claim is one that the blend, or wine used in the blend, has a particular characteristic; and
+
+                     (b)  the first-mentioned wine does not have, but another wine used in the blend does have, that characteristic.
+
+##### <a id="39E"></a>39E  Penalties
+
+             (1)  Penalties of $15,000 specified in this Part are for offences committed by corporations.
+
+             (2)  Where a natural person is convicted of any offence against this Part for which such a penalty is specified, the maximum penalty for the offence is $3,000.
+
+##### <a id="39EA"></a>39EA  Time for bringing prosecutions
+
+                   Despite section 15B of the _Crimes Act 1914_, a prosecution for an offence against section 39ZAAA may be brought at any time within 7 years after the requirement to make the relevant record arose.
 
 ### Division 2—Records relating to label claims
 
-##### <a id="39F"></a>39F  Obligation to keep records
+##### <a id="39F"></a>39F  Wine manufacturers to keep records of receipt of wine goods
 
-             (1)  A person (the **_record keeper_**) to whom this Part applies (under section 39C) must keep written records that show the following details in relation to wine goods:
+                   A wine manufacturer who receives wine goods for processing at the manufacturer’s winery must make and keep a record in writing of their receipt showing:
 
-                     (a)  the identity of the record keeper;
+                     (a)  the date of their receipt; and
 
-                     (b)  the kind of wine goods to which the record relates;
+                     (b)  their quantity; and
 
-                     (c)  the date the record keeper receives the wine goods;
+                     (c)  their vintage, variety and geographical indication; and
 
-                     (d)  the identity of the person from whom the wine goods are received by the record keeper;
+                     (d)  the identity of their supplier.
 
-                     (e)  the quantity of the wine goods received by the record keeper;
+##### <a id="39G"></a>39G  Wine manufacturers to keep records of manufacture of certain single wines
 
-                      (f)  the vintage, variety and prescribed geographical indication of the wine goods received by the record keeper;
+             (1)  This section applies to a single wine if its manufacturer:
 
-                     (g)  details of steps taken by the record keeper that changed or affected any of the following:
+                     (a)  intends to sell the wine with a label claim; or
 
-                              (i)  the vintage, variety or prescribed geographical indication of the wine goods;
+                     (b)  where the wine was manufactured on behalf of another person—knows that that person intends to sell the wine with a label claim; or
 
-                             (ii)  the tank or other place or thing in which the wine goods were stored;
+                     (c)  intends to use the wine in manufacturing a blend on the manufacturer’s behalf and sell the blend with a label claim relating to the wine; or
 
-                            (iii)  the volume of the wine goods stored in any such tank, place or thing;
+                     (d)  intends to use the wine in manufacturing a blend on behalf of another person and knows that that person intends to sell the blend with a label claim relating to the wine.
 
-                     (h)  the date the record keeper supplies the wine goods;
+             (2)  A wine manufacturer who manufactures a single wine to which this section applies must make and keep a record in writing of its manufacture showing:
 
-                      (i)  the identity of the person to whom the wine goods are supplied by the record keeper;
+                     (a)  the date of its manufacture; and
 
-                      (j)  the quantity of the wine goods that are supplied by the record keeper;
+                     (b)  its quantity; and
 
-                     (k)  the vintage, variety and prescribed geographical indication of the wine goods supplied by the record keeper;
+                     (c)  such of its characteristics and other details as are required by section 39W.
 
-                      (l)  any other details in relation to the wine goods that are prescribed by the regulations for the purposes of this section.
+##### <a id="39H"></a>39H  Wine manufacturers to keep records of manufacture of certain blends
 
-Note 1:       Records are required to be kept only to the extent that wine goods originate in Australia (see subsection 39C(4)).
+             (1)  This section applies to a blend if its manufacturer:
 
-Note 2:       See sections 39G and 39H for additional rules relating to the requirements of this section.
+                     (a)  intends to sell the blend with a label claim; or
 
-Note 3:       A person commits an offence if the person fails to keep a record in accordance with this subsection (see section 39J).
+                     (b)  where the blend was manufactured on behalf of another person—knows that that person intends to sell the blend with a label claim.
 
-Period for keeping records
+             (2)  A wine manufacturer who manufactures a blend to which this section applies must make and keep a record in writing of its manufacture showing:
 
-             (2)  A record must be kept under subsection (1) for the period:
+                     (a)  the date of its manufacture; and
 
-                     (a)  beginning:
+                     (b)  its quantity; and
 
-                              (i)  when the event, circumstance or state of affairs that is required to be recorded occurs; or
+                     (c)  such of its characteristics and other details as are required by section 39W.
 
-                             (ii)  if a record is required to be made before it can be kept—at the end of 3 days after the day that such an event, circumstance or state of affairs occurs; and
+##### <a id="39J"></a>39J  Wine manufacturers to keep records of sales of certain wine
 
-                     (b)  ending 7 years after that time.
+             (1)  This section applies to the sale of wine by a wine manufacturer if the manufacturer makes a label claim in relation to the wine.
 
-Note:          A person commits an offence if the person fails to keep a record in accordance with this subsection (see section 39J).
+             (2)  A wine manufacturer who sells wine in a sale to which this section applies must make and keep a record in writing of the sale showing:
 
-Requirement to provide and keep a copy of a record in relation to supply of wine goods
+                     (a)  subject to section 39L, the date of the sale; and
 
-             (3)  A person who is required to keep a record under subsection (1) must, on the day the person supplies the wine goods, provide a copy of the record kept under paragraphs (1)(h), (j) and (k) to the person to whom the wine goods are supplied (except as provided by subsection 39G(2)).
+                     (b)  subject to section 39L, the wine’s quantity; and
 
-Note:          A person commits an offence if the person fails to provide a copy of a record in accordance with this subsection (see section 39K).
+                     (c)  such of the wine’s characteristics and other details as are required by section 39W; and
 
-             (4)  A person to whom wine goods are supplied must keep the copy of the record provided under subsection (3) for the period:
+                     (d)  subject to subsections (3) and (4), the identity of the purchaser.
 
-                     (a)  beginning on the day the person receives the copy; and
+             (3)  Where:
 
-                     (b)  ending 7 years after that time.
+                     (a)  a wine manufacturer sells wine packaged for sale to consumers; and
 
-Note:          A person commits an offence if the person fails to keep a copy of a record in accordance with this subsection (see section 39K).
+                     (b)  the package has a wine label showing that the wine was made by, and setting out the name and address of, the manufacturer;
 
-             (5)  To avoid doubt, the same copy of a record may be kept for the purposes of paragraphs (1)(c), (e) and (f) and subsection (4).
+the manufacturer is not required to make and keep a record of the identity of the purchaser.
 
-##### <a id="39G"></a>39G  When certain details are not required to be kept
+             (4)  Where a wine manufacturer sells wine in a direct sale, the manufacturer is not required to make and keep a record of the identity of the purchaser.
 
-Grape growers not required to keep certain records
+##### <a id="39K"></a>39K  Wine manufacturers to keep records of disposals of certain wine
 
-             (1)  A person who grows grapes is not required to keep a record showing details required under paragraphs 39F(1)(c) to (f) in relation to the grapes grown.
+             (1)  Where a wine manufacturer:
 
-Direct sales
+                     (a)  manufactures wine on behalf of another person at the manufacturer’s winery; and
 
-             (2)  A person is not required to keep a record showing details required under paragraphs 39F(1)(h) to (k) in relation to wine goods that are sold by the person in direct sales. However, if the person does not keep such a record, the person must instead keep a record showing:
+                     (b)  disposes of the wine in accordance with the instructions of that person;
 
-                     (a)  the period during which wine goods were sold by the person in direct sales; and
+this section applies to the disposal if the manufacturer:
 
-                     (b)  the total quantity of those wine goods sold by the person during the period; and
+                     (c)  makes a label claim in relation to the wine; or
 
-                     (c)  the vintage, variety and prescribed geographical indication of those wine goods sold by the person during the period.
+                     (d)  knows that that person intends to sell the wine with a label claim.
 
-A copy of a record kept in accordance with this section is not required to be provided under subsection 39F(3).
+             (2)  A wine manufacturer who disposes of wine by a disposal to which this section applies must make and keep a record in writing of the disposal showing:
 
-             (3)  The period referred to in paragraph (2)(a) of this section must not be longer than one year.
+                     (a)  subject to section 39L, the date of the disposal; and
 
-##### <a id="39H"></a>39H  Details required under section 39F
+                     (b)  subject to section 39L, the wine’s quantity; and
 
-Variety of wines
+                     (c)  such of the wine’s characteristics and other details as are required by section 39W; and
 
-             (1)  Details required under paragraph 39F(1)(f) or (k) or subparagraph 39F(1)(g)(i) may show any name by which a variety of wine goods is known (if the variety is known by more than one name).
+                     (d)  the identity of that person; and
 
-Identity of a person
+                     (e)  subject to subsections (3) and (4), where it is disposed of by being delivered to a person other than that person—the identity of the person to whom it is delivered.
 
-             (2)  Details required under paragraph 39F(1)(a),(d) or (i) must include:
+             (3)  Where:
 
-                     (a)  sufficient particulars of a person’s name and address to identify the person; and
+                     (a)  a wine manufacturer disposes of wine by delivering the wine to a person other than the person on whose behalf it was manufactured; and
 
-                     (b)  if the person receives wine goods from or at, or supplies wine goods from or to, a winery—sufficient particulars of the name and address of the winery to identify the winery.
+                     (b)  the wine is packaged for sale to consumers; and
 
-Manufacturing wine
+                     (c)  the package has a wine label showing that the wine was made by, and setting out the name and address of, the manufacturer;
 
-             (3)  Details required under paragraph 39F(1)(g) in relation to wine goods must be in a form that allows:
+the manufacturer is not required to make and keep a record of the identity of the person to whom it is delivered.
 
-                     (a)  an audit trail containing a history of the changes to the wine goods to be readily traced from the record; and
+             (4)  Where a wine manufacturer disposes of wine in a direct sale, the manufacturer is not required to make and keep a record of the identity of the person to whom it is delivered.
 
-                     (b)  details of the steps taken and the results of the steps to be readily checked for discrepancies by following the sequence of the steps recorded.
+##### <a id="39L"></a>39L  Direct sales
 
-Blends
+                   Where wine manufactured at a winery is sold in direct sales, then, in respect of such wine:
 
-             (4)  Details required under subsection 39F(1) in relation to wine that is a blend of wines (the **_blended wines_**) of different vintages, varieties or prescribed geographical indications, must show:
+                     (a)  in relation to which identical label claims are made by the wine manufacturer who operates the winery; and
 
-                     (a)  what proportions of the blend are represented by each blended wine; and
+                     (b)  sold during a particular period (not being longer than a year);
 
-                     (b)  the vintage, variety or prescribed geographical indication of each blended wine.
+the manufacturer may, instead of making and keeping a record of the date of sales and quantities, make and keep a record of the period and of the total quantity of the wine sold in the period.
 
-Grape extract
+##### <a id="39M"></a>39M  Wine manufacturers to keep records of transfers of certain wine
 
-             (5)  Details required under subsection 39F(1) in relation to grape extract derived from grapes of different vintages, varieties or prescribed geographical indications must show:
+             (1)  Where a wine manufacturer transfers wine from a winery of the manufacturer to another winery of the manufacturer for use in manufacturing a blend, this section applies to the transfer if the manufacturer:
 
-                     (a)  what proportions of the wine goods are derived from each kind of grape; and
+                     (a)  makes a label claim in relation to the wine; or
 
-                     (b)  the vintage, variety or prescribed geographical indication of each kind of grape.
+                     (b)  intends to sell the blend with a label claim relating to the wine; or
 
-##### <a id="39J"></a>39J  Offences relating to record-keeping requirements
+                     (c)  where the blend is to be manufactured on behalf of another person—knows that that person intends to sell the blend with a label claim relating to the wine.
 
-Failure to keep a record in accordance with requirements
+             (2)  A wine manufacturer who transfers wine in a transfer to which this section applies must make and keep a record in writing of the transfer showing:
 
-             (1)  A person commits an offence if:
+                     (a)  the date of the transfer; and
 
-                     (a)  the person is a person to whom this Part applies; and
+                     (b)  the wine’s quantity; and
 
-                     (b)  the person is required to keep records in relation to wine goods under subsections 39F(1) and (2); and
+                     (c)  the winery from which the wine is transferred; and
 
-                     (c)  the person has not kept a record in accordance with subsection 39F(1) or (2), or section 39G or 39H, in relation to the wine goods.
+                     (d)  the winery to which the wine is transferred; and
 
-                    Penalty:  2 years imprisonment.
+                     (e)  such of the wine’s characteristics and other details as are required by section 39W.
 
-Label claims not supported by records
+##### <a id="39N"></a>39N  Wine manufacturers to keep records of production of certain grape extract
 
-             (2)  A person commits an offence if:
+             (1)  Where grape extract is produced by a wine manufacturer at a winery of the manufacturer for use in the manufacture of wine at another winery of the manufacturer, this section applies to the extract if the manufacturer:
 
-                     (a)  the person is a person to whom this Part applies; and
+                     (a)  where the wine is to be a single wine made on the manufacturer’s behalf—intends to sell the wine with a label claim; or
 
-                     (b)  the person is required to keep records in relation to wine goods under subsections 39F(1) and (2); and
+                     (b)  where the wine is to be a blend made on the manufacturer’s behalf—intends to sell the blend with a label claim relating to wine manufactured from the extract; or
 
-                     (c)  the person makes a label claim in relation to the wine goods; and
+                     (c)  where the wine is to be a single wine made on behalf of another person—knows that that person intends to sell the wine with a label claim; or
 
-                     (d)  either:
+                     (d)  where the wine is to be a blend made on behalf of another person—knows that that person intends to sell the blend with a label claim relating to wine manufactured from the extract.
 
-                              (i)  a record kept by the person under those subsections in relation to the wine goods conflicts with the label claim; or
+             (2)  Where grape extract is produced by a wine manufacturer at a winery of the manufacturer for use in the manufacture of wine at a winery of another person, this section applies to the extract if the manufacturer makes a label claim relating to the extract.
 
-                             (ii)  the records kept by the person under those subsections are inadequate to support the label claim.
+             (3)  A wine manufacturer who produces grape extract to which this section applies must make and keep a record in writing of its production showing:
 
-                    Penalty:  2 years imprisonment.
+                     (a)  the date of its production; and
 
-Keeping a false or misleading record
+                     (b)  its quantity; and
 
-             (3)  A person commits an offence if:
+                     (c)  such of its characteristics and other details as are required by section 39W.
 
-                     (a)  the person is a person to whom this Part applies; and
+##### <a id="39P"></a>39P  Wine manufacturers to keep records of sales of certain grape extract
 
-                     (b)  the person is required to keep records under subsections 39F(1) and (2) in relation to wine goods; and
+             (1)  Where grape extract produced by a wine manufacturer at the manufacturer’s winery is sold by the manufacturer for use in manufacturing wine, this section applies to the extract if the manufacturer makes a label claim in relation to the extract.
 
-                     (c)  a record kept by the person under those subsections is false or misleading; and
+             (2)  A wine manufacturer who sells grape extract in a sale to which this section relates must make and keep a record in writing of the sale showing:
 
-                     (d)  the person knows the record is false or misleading.
+                     (a)  the date of the sale; and
 
-                    Penalty:  2 years imprisonment.
+                     (b)  the extract’s quantity; and
 
-             (4)  Subsection (3) does not apply if the record is not false or misleading in a material particular.
+                     (c)  such of the extract’s characteristics and other details as are required by section 39W; and
 
-Note:          A defendant bears an evidential burden in relation to the matter in subsection (4). (See subsection 13.3(3) of the _Criminal Code_.)
+                     (d)  the identity of the purchaser.
 
-##### <a id="39K"></a>39K  Offences relating to requirement to provide and keep a copy of a record in relation to the supply of wine goods
+##### <a id="39Q"></a>39Q  Wine manufacturers to keep records of disposal of certain grape extract
 
-Failure to provide a copy of a record in relation to the supply of wine goods
+             (1)  Where a wine manufacturer:
 
-             (1)  A person commits an offence if:
+                     (a)  produces grape extract at the manufacturer’s winery on behalf of another person; and
 
-                     (a)  the person is a person to whom this Part applies; and
+                     (b)  disposes of the extract in accordance with the instructions of that person;
 
-                     (b)  the person is required to provide a copy of a record in relation to wine goods under subsection 39F(3); and
+this section applies to the disposal if the manufacturer makes a label claim in relation to the extract.
 
-                     (c)  the person does not provide a copy in accordance with that subsection in relation to the wine goods.
+             (2)  A wine manufacturer who disposes of grape extract by a disposal to which this section applies must make and keep a record in writing of the disposal showing:
 
-                    Penalty:  2 years imprisonment.
+                     (a)  the date of the disposal; and
 
-Failure to keep a copy of a record in relation to the supply of wine goods
+                     (b)  the extract’s quantity; and
 
-             (2)  A person commits an offence if:
+                     (c)  such of the extract’s characteristics and other details as are required by section 39W; and
 
-                     (a)  the person is a person to whom this Part applies; and
+                     (d)  the identity of that person; and
 
-                     (b)  the person is provided with a copy of a record in relation to wine goods under subsection 39F(4); and
+                     (e)  where the extract is disposed of by being delivered to yet another person—the identity of the person to whom it is delivered.
 
-                     (c)  the person does not keep the copy in accordance with that subsection in relation to the wine goods.
+##### <a id="39R"></a>39R  Wine manufacturers to keep records of transfers of certain grape extract
 
-                    Penalty:  2 years imprisonment.
+             (1)  Where a wine manufacturer transfers grape extract from a winery of the manufacturer to another winery of the manufacturer for use in manufacturing wine, this section applies to the transfer if the manufacturer:
 
-##### <a id="39L"></a>39L  Time for bringing prosecutions
+                     (a)  where the wine is to be a single wine—intends to sell the wine with a label claim; or
 
-                   Despite section 15B of the _Crimes Act 1914_, a prosecution for an offence under:
+                     (b)  where the wine is to be a blend—intends to sell the blend with a label claim relating to wine manufactured from the extract.
 
-                     (a)  section 39J may be brought at any time within 7 years after the requirement to keep the relevant record arose; and
+             (2)  Where a wine manufacturer transfers grape extract from a winery of the manufacturer to a winery of another person for use in manufacturing wine, this section applies to the transfer if the manufacturer makes a label claim in relation to the extract.
 
-                     (b)  section 39K may be brought at any time within 7 years after the requirement to provide or keep a copy of the relevant record arose.
+             (3)  A wine manufacturer who transfers grape extract in a transfer to which this section applies must make and keep a record in writing of:
 
-##### <a id="39M"></a>39M  Single wines and blends etc.
+                     (a)  the date of the transfer; and
 
-                   The prosecution does not have to prove, in relation to wine goods, that the wine goods are:
+                     (b)  the extract’s quantity; and
 
-                     (a)  a blend; or
+                     (c)  the winery from which the extract is transferred; and
 
-                     (b)  grape extract derived from grapes of different vintages, varieties or prescribed geographical indications;
+                     (d)  the winery to which the extract is transferred; and
 
-in order to prove an offence under section 39J if the prosecution proves that, in either case, the defendant would have committed an offence against that section.
+                     (e)  such of its characteristics and other details as are required by section 39W.
+
+##### <a id="39S"></a>39S  Making of records
+
+             (1)  A requirement of this Division to make a record is a requirement to make the record not later than 3 months after the happening of the event, circumstance or state of affairs required to be recorded.
+
+             (2)  A reference in this Part to the time when a requirement to make a record arose is a reference to the end of the period of 3 months that, under subsection (1), is applicable to the requirement.
+
+##### <a id="39T"></a>39T  Records to relate to a winery
+
+                   A requirement of this Division (other than sections 39M and 39R) to make a record includes a requirement to make a record that shows the winery to which the record relates.
+
+##### <a id="39U"></a>39U  Keeping of records
+
+                   A requirement of this Division to keep a record is a requirement to keep the record for 7 years, or a shorter approved period, after the record is made.
+
+##### <a id="39V"></a>39V  Record of person
+
+                   For the purposes of this Division, a record of the identity of a person is a record of particulars of the person’s name and address that are enough to identify the person.
+
+##### <a id="39W"></a>39W  Characteristics to be recorded
+
+             (1)  Where, under section 39G, 39H, 39J, 39K, 39M, 39N, 39P, 39Q, or 39R, a record relating to wine or grape extract is to show such characteristics of the wine or extract as are required by this section, the requirement is for the record to show:
+
+                     (a)  where the section requiring the record applies because of a claim about vintage—the vintage of the wine or extract; or
+
+                     (b)  where that section applies because of a claim about variety—the variety of the wine or extract; or
+
+                     (c)  where that section applies because of a claim about region of origin—the geographical indication of the wine or extract.
+
+             (2)  Also, the record must show details of every step the wine manufacturer who must make the record took, in manufacturing the wine or extract, that changed or affected:
+
+                     (a)  if the section requiring the record applies because of a claim about vintage—the vintage of the wine or extract; or
+
+                     (b)  if that section applies because of a claim about variety—the variety of the wine or extract; or
+
+                     (c)  if that section applies because of a claim about region of origin—the geographical indication of the wine or extract; or
+
+                     (d)  in any case—the tank or other place or thing in which the wine or extract was stored; or
+
+                     (e)  in any case—the volume of the wine or extract stored in any such tank, place or thing.
+
+             (3)  The details required under subsection (2) in relation to a wine or extract must be in a form that allows an audit trail containing its history of the wine’s manufacture to be readily traced from the record. It must be possible for the details of the steps taken and the results of the steps to be readily checked for discrepancies by following the sequence of the steps recorded.
+
+##### <a id="39X"></a>39X  Record of variety
+
+             (1)  For the purposes of this Division, where there is uncertainty about the variety of wine goods, a record showing their variety is a record showing whichever variety the wine manufacturer making the record considers on reasonable grounds most likely to be their variety.
+
+             (2)  For the purposes of this Division, where a variety of wine goods is known by more than one name, a record showing the variety is a record showing any one of those names.
+
+##### <a id="39Y"></a>39Y  Record of geographical indication
+
+                   For the purposes of this Division, a record showing the geographical indication of wine goods is a record showing the name or description of any geographical area that is a geographical indication of the goods.
+
+##### <a id="39Z"></a>39Z  Record of blends etc.
+
+             (1)  For the purposes of this Division, where:
+
+                     (a)  a wine manufacturer makes only one label claim about wine; and
+
+                     (b)  the wine is a blend manufactured by blending wine with the characteristic claimed and other wine;
+
+a record showing the characteristic of the blend required because of the claim is a record showing what proportion of the blend is represented by wine with the characteristic claimed.
+
+             (2)  For the purposes of this Division, where:
+
+                     (a)  a wine manufacturer makes label claims about 2 or more of the characteristics of wine; and
+
+                     (b)  the wine is a blend manufactured by blending wine with all the characteristics claimed and other wine;
+
+a record showing the characteristics of the blend required because of the claims is a record showing what proportion of the blend is represented by wine with the characteristics claimed.
+
+             (3)  Subject to subsections (1) and (2), for the purposes of this Division, a record showing the vintage, variety or geographical indication of a blend is:
+
+                     (a)  a record showing what proportions of the blend are represented by each different wine in the blend; and
+
+                     (b)  a record, in respect of each of those wines, showing its vintage, variety or geographical indication, as the case may be.
+
+             (4)  For the purposes of this Division, a record showing the vintage, variety or geographical indication of grape extract derived from grapes of different vintages, varieties or geographical indications is:
+
+                     (a)  a record showing what proportions of the goods are derived from each kind of grape; and
+
+                     (b)  a record, in respect of each kind of grape, showing its vintage, variety or geographical indication, as the case may be.
+
+##### <a id="39ZAAA"></a>39ZAAA  Offences in relation to record-keeping
+
+             (1)  If a wine manufacturer who is required by this Division to make and keep a record of a matter:
+
+                     (a)  intentionally fails to make or keep the record as required by this Division; or
+
+                     (b)  intentionally makes or keeps a record of the matter that is false, misleading or incomplete in a material particular;
+
+the manufacturer is guilty of an offence.
+
+                    Penalty:  $15,000.
+
+             (2)  In proceedings for an offence against this section, if the prosecution:
+
+                     (a)  does not prove whether the wine concerned was a single wine or a blend; but
+
+                     (b)  does prove that, in either case, the defendant would have committed an offence against this section;
+
+the prosecution does not have to prove whether the wine was a single wine or a blend in order to prove the offence.
 
 ##### <a id="39ZAA"></a>39ZAA  Corporation may require records
 
-             (1)  The Corporation may give a written notice to a person requiring the person, within a specified period and in a specified manner, to do either or both of the following:
-
-                     (a)  if the person’s name and address appears on a wine label as the supplier (within the meaning of the Australia New Zealand Food Standards Code (as defined by the _Food Standards Australia New Zealand Act 1991_)) of the wine—provide specified information in relation to records that this Division requires to be kept;
-
-                     (b)  if the Corporation has reason to believe that the person holds or controls a record that this Division requires to be kept—produce the record to the Corporation.
+             (1)  If the Corporation has reason to believe that a wine manufacturer or other person holds or controls a record required by this Division to be made and kept, the Corporation may, by notice in writing served on the person, require the person to produce the record to the Corporation, within the period and in the manner specified in the notice.
 
              (2)  The period specified in the notice must not be less than 14 days from the day on which it is served.
 
@@ -1990,17 +2018,19 @@ in order to prove an offence under section 39J if the prosecution proves that,
 
 ##### <a id="39ZAB"></a>39ZAB  Failure to comply with section 39ZAA notice
 
-             (1)  A person commits an offence if:
+             (1)  A person must not refuse or fail to comply with a notice under section 39ZAA.
 
-                     (a)  the person is given a notice under section 39ZAA; and
+                    Penalty:  $15,000.
 
-                     (b)  the person refuses or fails to comply with the notice.
+          (1A)  Subsection (1) does not apply if the person has a reasonable excuse.
 
-                    Penalty:  2 years imprisonment.
+Note:          The defendant bears an evidential burden in relation to the matter in subsection (1A). See subsection 13.3(3) of the _Criminal Code_.
 
-             (2)  Subsection (1) does not apply if complying with the notice would tend to incriminate the person.
+             (2)  It is a reasonable excuse for a person to refuse or fail to comply with a notice if complying would tend to incriminate the person.
 
-Note:          A defendant bears an evidential burden in relation to the matters in subsection (2). (See subsection 13.3(3) of the _Criminal Code_.)
+             (3)  In subsection (1), strict liability applies to the physical element of circumstance, that the notice is under section 39ZAA.
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
 
 ##### <a id="39ZAC"></a>39ZAC  Corporation may retain records
 
@@ -2046,7 +2076,7 @@ Note:          A defendant bears an evidential burden in relat
 
                      (a)  contain a recent photograph of the inspector to whom it is issued; and
 
-                     (b)  be in a form approved by the Corporation.
+                     (b)  be in an approved form.
 
              (3)  An inspector whose appointment ceases must, as soon as practicable, return his or her identity card to the Corporation.
 
@@ -2318,7 +2348,7 @@ Offence for giving unexecuted form of warrant
 
                      (b)  a Department of, or an authority or other body established for a public purpose by, the Commonwealth, a State or a Territory with responsibilities relating to the labelling, description or quality of wine; or
 
-                     (c)  a person who is prosecuting (or proposing to prosecute), or taking (or proposing to take) other proceedings against, a person under section 39J or 39K.
+                     (c)  a person prosecuting, or taking other proceedings against, or proposing to prosecute or take other proceedings against, a person in relation to the false description of the vintage, variety or geographical indication of any wine.
 
              (2)  This section does not limit any powers and duties of the Corporation.
 
@@ -2356,19 +2386,11 @@ the calculation and collection of:
 
                      (e)  charge imposed by the repealed _Wine Export Charge Act 1997_.
 
-             (2)  The Corporation may, with a person’s consent, give to a relevant agency information that is:
+          (1A)  The Corporation may, with the consent of a wine manufacturer or wine exporter, give to an Agency (within the meaning of the _Public Service Act 1999_), with responsibilities relating to the levy or charge, information kept by, or held on behalf of, the manufacturer that is obtained by the Corporation under this Part.
 
-                     (a)  kept by, or held on behalf of, the person; and
+             (2)  A wine manufacturer is to be taken to have consented to the giving of information under subsection (1A) where the occupier of the wine premises where the information is kept or held gave such consent.
 
-                     (b)  obtained by the Corporation under this Part.
-
-             (3)  A person is taken to have consented to giving information under subsection (2) if the occupier of the wine premises where the information is kept or held gave such consent.
-
-             (4)  In this Act:
-
-                    <a name="relev-agenc"></a>**_relevant agency_** means an Agency (within the meaning of the _Public Service Act 1999_) with responsibilities relating to the levy or charge.
-
-## Part VIB—Protection of geographical indications and other terms
+## Part VIB—Protection of certain names and expressions
 
 ### Division 1—Preliminary
 
@@ -2382,7 +2404,7 @@ the calculation and collection of:
 
                    The object of this Part is to regulate the sale, export and import of wine:
 
-                     (a)  for the purpose of enabling Australia to fulfil its obligations under prescribed wine-trading agreements and other international agreements; and
+                     (a)  for the purpose of enabling Australia to fulfil its obligations under prescribed wine-trading agreements; and
 
                      (b)  for certain other purposes for which the Parliament has power to make laws;
 
@@ -2408,239 +2430,91 @@ Note:          The Federal Court may grant an injunction under
 
 ### Division 2—Provisions relating to sale, export or import of wine
 
-#### Subdivision A—Sale, export or import of wine with a false description and presentation
+##### <a id="40C"></a>40C  Sale, export or import of wine with a false description and presentation
 
-##### <a id="40C"></a>40C  Offence—sale, export or import of wine with a false description and presentation
+             (1)  A person must not, in trade or commerce, intentionally sell wine with a false description and presentation.
 
-             (1)  A person commits an offence if:
+             (2)  A person must not, in trade or commerce, intentionally export wine with a false description and presentation.
 
-                     (a)  the person sells, exports or imports wine; and
+             (3)  A person must not, in trade or commerce, intentionally import wine with a false description and presentation.
 
-                     (b)  the wine is sold, exported or imported by the person:
-
-                              (i)  in trade or commerce; and
-
-                             (ii)  with a false description and presentation.
+             (4)  It is not a defence to a prosecution for an offence against subsection (1), (2) or (3) that the description and presentation indicated the country, region or locality, as the case may be, in which the wine originated.
 
                     Penalty:  Imprisonment for 2 years.
 
-Note:          A court may impose a maximum fine of 120 penalty units instead of, or in addition to, a term of imprisonment. A body corporate that is convicted of an offence may be fined up to 5 times that maximum fine. (See subsections 4B(2) and (3) of the _Crimes Act 1914._)
+Note:          Subsection 4B(2) of the _Crimes Act 1914_ allows a court to impose an appropriate fine instead of, or in addition to, a term of imprisonment. If, as is the case for an offence against section 40C, the maximum term of imprisonment is 2 years, the maximum fine that may be imposed is 120 penalty units. The current value of a penalty unit is fixed by section 4AA of that Act. If a body corporate is convicted of the offence, subsection 4B(3) of that Act allows a court to impose a fine of an amount that is not greater than 5 times the maximum fine that could be imposed by the court on an individual convicted of the same offence.
 
-             (2)  The description and presentation may be false even if it indicates the country, region or locality (as the case may be) in which the wine originated.
-
-##### <a id="40D"></a>40D  False descriptions and presentations
+##### <a id="40D"></a>40D  Meaning of _false description and presentation_ 
 
              (1)  This section has effect for the purposes of section 40C.
 
-             (2)  Subject to sections 40DA and 40DB, the description and presentation of wine is false if:
+             (2)  Subject to this section, the description and presentation of wine is false if:
 
                      (a)  it includes the name of a country, or any other indication that the wine originated in a particular country, and the wine did not originate in that country; or
 
-                     (b)  it includes a registered geographical indication, and the wine did not originate in a country, region or locality in relation to which the geographical indication is registered; or
+                     (b)  it includes a registered geographical indication and the wine did not originate in a country, region or locality in relation to which the geographical indication is registered; or
 
-                     (c)  it includes a registered translation of a registered geographical indication, and the wine did not originate in a country, region or locality in relation to which the geographical indication is registered; or
+                     (c)  it includes a registered traditional expression and the wine did not originate in a country, region or locality in relation to which the expression is registered; or
 
-                     (d)  it includes a registered traditional expression, and:
+                     (d)  it includes a registered ancillary protected expression and the wine did not originate in a country, region or locality in relation to which the expression is registered; or
 
-                              (i)  the wine is not a wine in relation to which the expression is registered; and
-
-                             (ii)  the wine is in a category of wine in relation to which the expression is registered; and
-
-                            (iii)  the expression is in a language in relation to which the expression is registered; or
-
-                     (e)  it is not in accordance with any provisions relating to the description and presentation of wine as are prescribed for the purposes of this paragraph.
+                     (e)  it is not in accordance with such provisions (if any) relating to the description and presentation of wine as are prescribed for the purposes of this paragraph.
 
              (3)  Subsection (2) does not limit what, apart from that subsection, is a false description and presentation of wine.
 
-             (4)  For the purposes of paragraphs (2)(b), (c) and (d):
+             (4)  For the purposes of subsection (2), a registered geographical indication, a registered traditional expression or a registered ancillary protected expression is taken to be included in the description and presentation of wine even if the indication or expression is accompanied by another word or expression such as “kind”, “type”, “style”, “imitation” or “method”, or any similar word or expression.
 
-                     (a)  a registered geographical indication; or
+             (5)  If:
 
-                     (b)  a registered translation of such an indication; or
-
-                     (c)  a registered traditional expression;
-
-is included in the description and presentation of wine even if the indication, translation or expression is accompanied by an expression such as “kind”, “type”, “style”, “imitation”, “method”, or any similar expression.
-
-##### <a id="40DA"></a>40DA  Circumstances in which description and presentation is not false—general
-
-Inclusion of geographical indication, translation or traditional expression registered for more than one place
-
-             (1)  If:
-
-                     (a)  the description and presentation of wine includes an indication or term that is a registered geographical indication, a registered translation of such an indication, or a registered traditional expression, in relation to a country, region or locality; and
+                     (a)  the description and presentation of wine includes a word or expression that is a registered geographical indication, a registered traditional expression, or a registered ancillary protected expression, in relation to a country, region or locality; and
 
                      (b)  the wine originated in that country, region or locality; and
 
                      (c)  the description and presentation indicates that the wine originated in that country, region or locality;
 
-then the description and presentation is not false merely because the indication or term is also a registered geographical indication, a registered translation of such an indication, or a registered traditional expression, in relation to another country, region or locality.
+the description and presentation is not false merely because the word or expression included in the description and presentation is also a registered geographical indication, a registered traditional expression, or a registered ancillary protected expression, in relation to another country, region or locality.
 
-Inclusion of common English word or term
-
-             (2)  If:
-
-                     (a)  the description and presentation of wine includes a word or term that is a registered geographical indication, a registered translation of such an indication, or a registered traditional expression, in relation to a country, region or locality; and
-
-                     (b)  the word or term is a common English word or term; and
-
-                     (c)  the word or term is not used in such a way as to indicate that the wine originated in the country, region or locality in relation to which the geographical indication, translation or traditional expression is registered; and
-
-                     (d)  the description and presentation indicates the country, region or locality in which the wine originated; and
-
-                     (e)  the word or term is used in good faith;
-
-then the description and presentation is not false merely because it includes the word or term.
-
-Inclusion of name of individual or address of winery
-
-             (3)  The description and presentation of wine is not false merely because it includes:
+             (6)  The description and presentation of wine is not false merely because it includes:
 
                      (a)  the name of an individual who manufactured, sold, exported or imported the wine; or
 
-                     (b)  if a person who manufactured, sold, exported or imported the wine is, apart from this subsection, lawfully permitted to use the name of an individual who previously manufactured, sold, exported or imported the wine—the name of that individual; or
+                     (b)  if an individual who manufactured, sold, exported or imported the wine lawfully carries on business under the name of another individual who previously carried on the business—the name of that other individual; or
 
                      (c)  the address of the winery at which the wine was manufactured.
 
-##### <a id="40DB"></a>40DB  Circumstances in which description and presentation is not false—inclusion of registered traditional expressions
-
-Inclusion of registered quality wine term
-
-             (1)  If:
-
-                     (a)  the description and presentation of wine includes a registered quality wine term; and
-
-                     (b)  the wine originated in Australia; and
-
-                     (c)  the description and presentation indicates that the wine originated in Australia or in a region or locality in Australia; and
-
-                     (d)  the registered quality wine term is also a registered traditional expression; and
-
-                     (e)  the wine is in a category of wine in relation to which the expression is registered;
-
-then the description and presentation is not false merely because it includes the registered quality wine term.
-
-Wine originating in non-agreement country
-
-             (2)  The description and presentation of wine that originates in a foreign country that is not an agreement country is not false merely because it includes a term that is a registered traditional expression if:
-
-                     (a)  the term is not used in such a way as to be likely to mislead as to the country, region or locality in which the wine originated; and
-
-                     (b)  the description and presentation indicates the country, region or locality in which the wine originated; and
-
-                     (c)  the inclusion of the term in the description and presentation does not constitute unfair competition within the meaning of Article 10 _bis_ of the Paris Convention for the Protection of Industrial Property of 20 March 1883 as amended.
-
-Note:          The text of the Convention is set out in Australian Treaty Series 1972 No. 12 (\[1972] ATS 12). In 2009, the text of a Convention in the Australian Treaty Series was accessible through the Australian Treaties Library on the AustLII website (www.austlii.edu.au).
-
-Inclusion of trade mark
-
-             (3)  If:
-
-                     (a)  the description and presentation of wine includes a trade mark; and
-
-                     (b)  the trade mark contains or consists of a registered traditional expression; and
-
-                     (c)  before the protection date for the traditional expression:
-
-                              (i)  the trade mark had been entered in good faith in the Register of Trade Marks; or
-
-                             (ii)  the owner of the trade mark had acquired rights in the trade mark through use in good faith;
-
-then the description and presentation is not false merely because it includes that trade mark.
-
-Inclusion of business name
-
-             (4)  If:
-
-                     (a)  the description and presentation of wine includes a business name; and
-
-                     (b)  the business name contains or consists of a registered traditional expression; and
-
-                     (c)  before the protection date for the traditional expression, the business name was registered in good faith under the law of a State or Territory;
-
-then the description and presentation is not false merely because it includes that business name.
-
-             (5)  Subsection (4) does not limit subsection 40DA(3).
-
-Definition of **protection date**
-
-             (6)  In this Act, the **_protection date_** for a registered traditional expression is:
-
-                     (a)  if the traditional expression is registered in relation to an agreement country under paragraph 40ZD(2A)(a):
-
-                              (i)  unless subparagraph (ii) applies—the date on which the prescribed wine-trading agreement to which that country is a party was signed; or
-
-                             (ii)  if that agreement is modified after that date to include the traditional expression and paragraph (b) does not apply—the date on which the agreement is so modified; or
-
-                     (b)  if the traditional expression is registered in relation to a foreign country (whether or not an agreement country) under paragraph 40ZD(2A)(b)—the date on which the traditional expression is registered.
-
-#### Subdivision B—Sale, export or import of wine with a misleading description and presentation
-
 ##### <a id="40E"></a>40E  Sale, export or import of wine with a misleading description and presentation
 
-             (1)  A person commits an offence if:
+             (1)  A person must not, in trade or commerce, intentionally sell wine with a misleading description and presentation.
 
-                     (a)  the person sells, exports or imports wine; and
+             (2)  A person must not, in trade or commerce, intentionally export wine with a misleading description and presentation.
 
-                     (b)  the wine is sold, exported or imported by the person:
-
-                              (i)  in trade or commerce; and
-
-                             (ii)  with a misleading description and presentation.
+             (3)  A person must not, in trade or commerce, intentionally import wine with a misleading description and presentation.
 
                     Penalty:  Imprisonment for 2 years.
 
-Note:          A court may impose a maximum fine of 120 penalty units instead of, or in addition to, a term of imprisonment. A body corporate that is convicted of an offence may be fined up to 5 times that maximum fine. (See subsections 4B(2) and (3) of the _Crimes Act 1914._)
+Note:          Subsection 4B(2) of the _Crimes Act 1914_ allows a court to impose an appropriate fine instead of, or in addition to, a term of imprisonment. If, as is the case for an offence against section 40E, the maximum term of imprisonment is 2 years, the maximum fine that may be imposed is 120 penalty units. The current value of a penalty unit is fixed by section 4AA of that Act. If a body corporate is convicted of the offence, subsection 4B(3) of that Act allows a court to impose a fine of an amount that is not greater than 5 times the maximum fine that could be imposed by the court on an individual convicted of the same offence.
 
-             (2)  The description and presentation may be misleading even if it indicates the country, region or locality (as the case may be) in which the wine originated.
-
-##### <a id="40F"></a>40F  Misleading descriptions and presentations
+##### <a id="40F"></a>40F  Meaning of _misleading description and presentation_ 
 
              (1)  This section has effect for the purposes of section 40E.
 
-Inclusion of geographical indication, translation or traditional expression
+             (2)  Subject to subsection (7), the description and presentation of wine is misleading if:
 
-             (2)  Subject to sections 40FA and 40FB, the description and presentation of wine is misleading if:
+                     (a)  it includes a registered geographical indication, a registered traditional expression or a registered ancillary protected expression; and
 
-                     (a)  it includes a registered geographical indication, and the indication is used in such a way as to be likely to mislead as to the country, region or locality in which the wine originated; or
+                     (b)  the indication or expression is used in such a way in the description and presentation as to be likely to mislead as to the country, region or locality in which the wine originated.
 
-                     (b)  it includes a registered translation of a registered geographical indication, and the translation is used in such a way as to be likely to mislead as to the country, region or locality in which the wine originated; or
+             (3)  Subject to subsection (7), the description and presentation of wine is misleading if:
 
-                     (c)  it includes a registered traditional expression, and:
+                     (a)  it includes a translation of a registered geographical indication, of a registered traditional expression or of a registered ancillary protected expression; and
 
-                              (i)  the wine is not a wine in relation to which the expression is registered; and
+                     (b)  the inclusion of the translation is likely to mislead as to the country, region or locality in which the wine originated.
 
-                             (ii)  the wine is not in a category of wine in relation to which the expression is registered; and
+             (4)  Subject to subsection (7), the description and presentation of wine is misleading if:
 
-                            (iii)  the expression is in a language in relation to which the expression is registered; and
+                     (a)  it includes a word or expression that so resembles a registered geographical indication, a registered traditional expression or a registered ancillary protected expression as to be likely to be mistaken for the registered geographical indication, the registered traditional expression or the registered ancillary protected expression, as the case may be; and
 
-                            (iv)  the expression is used in such a way as to be likely to mislead that the wine originated in a country, region or locality in relation to which the expression is registered or that the wine is in a category of wine in relation to which the expression is registered.
-
-             (3)  For the purposes of subsection (2):
-
-                     (a)  a registered geographical indication; or
-
-                     (b)  a registered translation of such an indication; or
-
-                     (c)  a registered traditional expression;
-
-is included in the description and presentation of wine even if the indication, translation or expression is accompanied by an expression such as “kind”, “type”, “style”, “imitation”, “method”, or any similar expression.
-
-Inclusion of word resembling geographical indication, translation or traditional expression
-
-             (4)  Subject to sections 40FA and 40FB, the description and presentation of wine is misleading if:
-
-                     (a)  it includes an indication or term that so resembles a registered geographical indication as to be likely to mislead that the wine originated in a country, region or locality in relation to which the indication is registered; or
-
-                     (b)  it includes a term that so resembles a registered translation of a registered geographical indication as to be likely to mislead that the wine originated in a country, region or locality in relation to which the indication is registered; or
-
-                     (c)  both of the following apply:
-
-                              (i)  it includes a term that so resembles a registered traditional expression as to be likely to mislead that the wine originated in a country, region or locality in relation to which the expression is registered or that the wine is in a category of wine in relation to which the expression is registered;
-
-                             (ii)  the wine originated in a foreign country that is not an agreement country.
-
-Inclusion of name of individual or address of winery
+                     (b)  the wine did not originate in the country, region or locality in relation to which the indication or expression is registered.
 
              (5)  The description and presentation of wine is misleading if:
 
@@ -2648,153 +2522,85 @@ Inclusion of name of individual or address of winery
 
                               (i)  the name of an individual who manufactured, sold, exported or imported the wine; or
 
-                             (ii)  if a person who manufactured, sold, exported or imported the wine is, apart from this subsection, lawfully permitted to use the name of an individual who previously manufactured, sold, exported or imported the wine—the name of that individual; or
+                             (ii)  if an individual who manufactured, sold, exported or imported the wine lawfully carried on business under the name of another individual who previously carried on the business—the name of that other individual; or
 
                             (iii)  the name or address of the winery at which the wine was manufactured; and
 
                      (b)  the name or address, as the case may be, is used in such a way in the description and presentation as to be likely to mislead as to the country, region or locality in which the wine originated.
 
-Not in accordance with prescribed provisions
+          (5A)  The description and presentation of wine is misleading if it is not in accordance with such provisions (if any) relating to the description and presentation of wine as are prescribed for the purposes of this subsection.
 
-             (6)  The description and presentation of wine is misleading if it is not in accordance with any provisions relating to the description and presentation of wine as are prescribed for the purposes of this subsection.
+             (6)  Subsections (2), (3), (4), (5) and (5A) do not limit what, apart from those subsections, is a misleading description and presentation of wine.
 
-Ordinary meaning of misleading not affected
+             (7)  If:
 
-             (7)  Subsections (2), (3), (4), (5) and (6) do not limit what, apart from those subsections, is a misleading description and presentation of wine.
+                     (a)  the description and presentation of wine includes a word or expression that:
 
-##### <a id="40FA"></a>40FA  Circumstances in which description and presentation is not misleading—general
+                              (i)  is a registered geographical indication, a registered traditional expression, or a registered ancillary protected expression, in relation to a country, region or locality; or
 
-Inclusion of geographical indication, translation or traditional expression registered for more than one place
+                             (ii)  is a translation of an indication or expression referred to in subparagraph (i); or
 
-             (1)  If:
-
-                     (a)  the description and presentation of wine includes an indication or term that is a registered geographical indication, a registered translation of such an indication, or a registered traditional expression, in relation to a country, region or locality; and
+                            (iii)  resembles an indication or expression referred to in subparagraph (i); and
 
                      (b)  the wine originated in that country, region or locality; and
 
                      (c)  the description and presentation indicates that the wine originated in that country, region or locality;
 
-then the description and presentation is not misleading merely because the indication or term is, or resembles, a registered geographical indication, a registered translation of such an indication, or a registered traditional expression, in relation to another country, region or locality. 
+the description and presentation is not misleading merely because the indication or expression referred to in subparagraph (a)(i) is also registered in relation to another country, region or locality.
 
-Inclusion of common English word or term
+##### <a id="40G"></a>40G  Sale, export or import of wine in contravention of certain registered conditions
 
-             (2)  If:
+             (1)  If any registered conditions are applicable to a registered geographical indication, a registered traditional expression or a registered ancillary protected expression, a person must not, in trade or commerce, sell, export or import wine with a description and presentation that includes that geographical indication, traditional expression or ancillary protected expression and does not comply with those conditions if the person knows:
 
-                     (a)  the description and presentation of wine includes a word or term that is a registered geographical indication, a registered translation of such an indication, or a registered traditional expression, in relation to a country, region or locality; and
+                     (a)  that the wine is sold, exported or imported with that description and presentation; and
 
-                     (b)  the word or term is a common English word or term; and
+                     (b)  that the description and presentation does not comply with those conditions.
 
-                     (c)  the word or term is not used in such a way as to indicate that the wine originated in the country, region or locality in relation to which the geographical indication, translation or traditional expression is registered; and
-
-                     (d)  the description and presentation indicates the country, region or locality in which the wine originated; and
-
-                     (e)  the word or term is used in good faith;
-
-then the description and presentation is not misleading merely because it includes the word or term.
-
-##### <a id="40FB"></a>40FB  Circumstances in which description and presentation is not misleading—inclusion of registered traditional expressions
-
-Inclusion of registered quality wine term
-
-             (1)  If:
-
-                     (a)  the description and presentation of wine includes a registered quality wine term; and
-
-                     (b)  the wine originated in Australia; and
-
-                     (c)  the description and presentation indicates that the wine originated in Australia or in a region or locality in Australia; and
-
-                     (d)  the registered quality wine term is also a registered traditional expression; and
-
-                     (e)  the wine is in a category of wine in relation to which the expression is registered;
-
-then the description and presentation is not misleading merely because it includes the registered quality wine term.
-
-Inclusion of trade mark
-
-             (2)  If:
-
-                     (a)  the description and presentation of wine includes a trade mark; and
-
-                     (b)  the trade mark contains or consists of a registered traditional expression; and
-
-                     (c)  before the protection date for the traditional expression:
-
-                              (i)  the trade mark had been entered in good faith in the Register of Trade Marks; or
-
-                             (ii)  the owner of the trade mark had acquired rights in the trade mark through use in good faith;
-
-then the description and presentation is not misleading merely because it includes that trade mark.
-
-Inclusion of business name
+             (2)  If a variety or varieties of grapes are included in the Register, a person must not, in trade or commerce, sell or export wine manufactured in Australia if the person knows that the wine is not manufactured exclusively from grapes of that variety or one or more of those varieties.
 
              (3)  If:
 
-                     (a)  the description and presentation of wine includes a business name; and
+                     (a)  a variety of grapes is included in the Register; and
 
-                     (b)  the business name contains or consists of a registered traditional expression; and
+                     (b)  any registered conditions are applicable to the description and presentation of wine manufactured from, or from grapes that include, that variety of grapes;
 
-                     (c)  the business name was registered in good faith under the law of a State or Territory before the protection date for the traditional expression;
+a person must not, in trade or commerce, sell or export wine that is manufactured in Australia from, or from grapes that include, that variety of grapes and the description and presentation of which does not comply with those conditions if the person knows:
 
-then the description and presentation is not misleading merely because it includes that business name.
+                     (c)  that the wine is manufactured in Australia from, or from grapes that include, that variety of grapes; and
 
-             (4)  Subsection (3) does not limit subsection 40F(5).
+                     (d)  that the wine is sold or exported with that description and presentation; and
 
-#### Subdivision C—Other provisions relating to sale, export or import of wine
+                     (e)  that the description and presentation does not comply with those conditions.
 
-##### <a id="40G"></a>40G  Sale, export or import of wine in contravention of registered conditions of use
+             (4)  For the purposes of establishing a contravention of subsection (1), (2) or (3), if, having regard to:
 
-             (1)  A person commits an offence if:
+                     (a)  a person’s abilities, experience, qualifications and other attributes; and
 
-                     (a)  the person sells, exports or imports wine; and
+                     (b)  all the circumstances surrounding the alleged contravention of that subsection;
 
-                     (b)  the wine is sold, exported or imported by the person in trade or commerce with a description and presentation that:
-
-                              (i)  includes an indication or term that is a registered geographical indication, a registered translation of such an indication, a registered traditional expression, a registered quality wine term or a registered additional term; and
-
-                             (ii)  does not comply with any registered conditions of use applicable to that geographical indication, translation, traditional expression, quality wine term or additional term (as the case may be).
+the person ought reasonably to have known a particular matter referred to in that subsection, the person is taken to have known that matter.
 
                     Penalty:  Imprisonment for 1 year.
 
-Note:          A court may impose a maximum fine of 60 penalty units instead of, or in addition to, a term of imprisonment. A body corporate that is convicted of an offence may be fined up to 5 times that maximum fine. (See subsections 4B(2) and (3) of the _Crimes Act 1914_.)
+Note:          Subsection 4B(2) of the _Crimes Act 1914_ allows a court to impose an appropriate fine instead of, or in addition to, a term of imprisonment. If, as is the case for an offence against section 40G, the maximum term of imprisonment is 1 year, the maximum fine that may be imposed is 60 penalty units. The current value of a penalty unit is fixed by section 4AA of that Act. If a body corporate is convicted of the offence, subsection 4B(3) of that Act allows a court to impose a fine of an amount that is not greater than 5 times the maximum fine that could be imposed by the court on an individual convicted of the same offence.
 
-Indication or term registered for more than one place
+##### <a id="40H"></a>40H  Blending requirements, oenological practices and processes and compositional or other requirements
 
-             (2)  Subsection (1) does not apply if:
+             (1)  If the regulations make provision for or in relation to blending requirements applicable to the manufacture of wine, a person must not, in trade or commerce, sell, export or import wine to which those blending requirements are applicable if the person knows that the wine was not manufactured in accordance with those requirements.
 
-                     (a)  the indication or term is registered in one or more Parts of the Register in relation to one or more countries, regions or localities; and
+             (2)  If the regulations make provision for or in relation to oenological practices or processes, or compositional or other requirements, applicable to the manufacture of wine in Australia, a person must not, in trade or commerce, intentionally export wine to which those practices or processes, or those compositional or other requirements, are applicable if the person knows that the wine was not manufactured in accordance with those practices or processes, or those compositional or other requirements, as the case may be.
 
-                     (b)  the description and presentation complies with the registered conditions of use applicable to the indication or term as registered in one of those Parts for one of those countries, regions or localities; and
+             (3)  For the purposes of establishing a contravention of subsection (1) or (2), if, having regard to:
 
-                     (c)  the wine originated in that country, region or locality; and
+                     (a)  a person’s abilities, experience, qualifications and other attributes; and
 
-                     (d)  the description and presentation indicates that the wine originated in that country, region or locality.
+                     (b)  all the circumstances surrounding the alleged contravention of that subsection;
 
-Note:          The defendant bears an evidential burden in relation to the matters in this subsection. (See subsection 13.3(3) of the _Criminal Code_.)
+the person ought reasonably to have known a particular matter referred to in that subsection, the person is taken to have known that matter.
 
-Indication or term is registered additional term for particular wine
+                    Penalty:  Imprisonment for 2 years.
 
-             (3)  Subsection (1) also does not apply if:
-
-                     (a)  the indication or term is a registered additional term for a particular wine and is also either or both of the following:
-
-                              (i)  a registered additional term for another particular wine;
-
-                             (ii)  registered in one or more Parts of the Register in relation to one or more countries, regions or localities; and
-
-                     (b)  the description and presentation complies with the registered conditions of use that are applicable to the indication or term as registered:
-
-                              (i)  for one of those particular wines; or
-
-                             (ii)  in one of those Parts for one of those countries, regions or localities; and
-
-                     (c)  either:
-
-                              (i)  if subparagraph (b)(i) applies—the wine is the particular wine; or
-
-                             (ii)  if subparagraph (b)(ii) applies—the wine originated in that country, region or locality, and the description and presentation indicates that the wine originated in that country, region or locality.
-
-Note:          The defendant bears an evidential burden in relation to the matters in this subsection. (See subsection 13.3(3) of the _Criminal Code_.)
+Note:          Subsection 4B(2) of the _Crimes Act 1914_ allows a court to impose an appropriate fine instead of, or in addition to, a term of imprisonment. If, as is the case for an offence against section 40H, the maximum term of imprisonment is 2 years, the maximum fine that may be imposed is 120 penalty units. The current value of a penalty unit is fixed by section 4AA of that Act. If a body corporate is convicted of the offence, subsection 4B(3) of that Act allows a court to impose a fine of an amount that is not greater than 5 times the maximum fine that could be imposed by the court on an individual convicted of the same offence.
 
 ##### <a id="40J"></a>40J  Exception for certain wines
 
@@ -2802,7 +2608,7 @@ Note:          The defendant bears an evidential burden in rel
 
                     <a name="small-quantiti"></a>**_small quantities_**, in relation to wines, means quantities declared by the regulations to be small quantities of wines for the purposes of this section.
 
-                    <a name="offenc-provision"></a>**_the offence provisions_** means subsections 40C(1), 40E(1) and 40G(1).
+                    <a name="offenc-provision"></a>**_the offence provisions_** means subsections 40C(1), (2) and (3), section 40E and subsections 40G(1), (2) and (3) and 40H(1) and (2).
 
              (2)  The offence provisions do not apply in relation to wines manufactured before the commencement of this Part.
 
@@ -2818,13 +2624,13 @@ Note:          The defendant bears an evidential burden in rel
 
 ##### <a id="40K"></a>40K  Prosecution of offences
 
-             (1)  To avoid doubt, it is declared that any of the following may institute a proceeding for an offence against section 40C, 40E or 40G:
+             (1)  To avoid doubt, it is declared that any of the following may institute a proceeding for an offence against section 40C, 40E, 40G or 40H:
 
                      (a)  the Corporation;
 
-                     (b)  a person engaged in the manufacture of wine or the growing of wine grapes in Australia or in a designated foreign country;
+                     (b)  a person engaged in the manufacture of wine or the growing of wine grapes in Australia or in an agreement country;
 
-                     (c)  an organisation established under the law of Australia or of a designated foreign country whose objects or purposes include any of the following:
+                     (c)  an organisation established under the law of Australia or of an agreement country whose objects or purposes include any of the following:
 
                               (i)  the promotion of the manufacture of wine, the growing of wine grapes or the marketing of wine;
 
@@ -2834,41 +2640,15 @@ Note:          The defendant bears an evidential burden in rel
 
              (2)  This section does not limit the operation of section 13 of the _Crimes Act 1914_.
 
-             (3)  In this Act:
+##### <a id="40M"></a>40M  Application of national food standards to wines imported from agreement countries
 
-                    <a name="design-foreign-countri"></a>**_designated foreign country_** means a foreign country in relation to which a geographical indication, translation of such an indication, traditional expression, or additional term is registered.
+             (1)  A national food standard applying to wine has effect in relation to wine that originated in an agreement country as if any requirement in the standard to comply with particular oenological practices or processes, or compositional or other requirements, in relation to wine were replaced by a requirement to comply with:
 
-##### <a id="40M"></a>40M  Application of national food standards to wines imported from foreign countries
+                     (a)  subject to paragraph (b), the oenological practices and processes, and the compositional and other requirements, set out in the prescribed wine-trading agreement to which Australia and that country are parties; or
 
-National food standard modified
+                     (b)  if that agreement has been amended so as to modify any of those practices or processes or compositional or other requirements—those practices or processes, or compositional or other requirements, as so modified from time to time.
 
-             (1)  A national food standard that applies to wine has effect, in relation to wine that originates in any foreign country, as if any requirement in the standard to comply with particular oenological practices or processes, or compositional requirements, in relation to wine were replaced by a requirement to comply with the replacement practices, processes or requirements under either subsection (1A) or (1B).
-
-Practices, processes and requirements set out in wine-trading agreements
-
-          (1A)  The replacement practices, processes or requirements under this subsection are:
-
-                     (a)  subject to paragraph (b), the oenological practices or processes, or compositional requirements, set out in a prescribed wine-trading agreement as in force or existing from time to time; or
-
-                     (b)  if, in accordance with such an agreement, Australia has been notified of the authorisation of modifications of the oenological practices or processes, or compositional requirements, set out in the agreement—the oenological practices or processes, or compositional requirements, as so modified.
-
-Practices, processes and requirements prescribed by the regulations
-
-          (1B)  The replacement practices, processes or requirements under this subsection are the oenological practices or processes, or compositional requirements, prescribed by the regulations in relation to wine originating in any foreign country.
-
-          (1C)  Regulations made for the purposes of subsection (1B):
-
-                     (a)  must not prescribe oenological practices or processes, or compositional requirements, in relation to wine originating in any foreign country unless the oenological practices or processes, or compositional requirements, apply to wine under the laws and regulations of a foreign country; and
-
-                     (b)  may prescribe oenological practices or processes, or compositional requirements, by applying, adopting or incorporating (with or without modification) a written instrument or other document:
-
-                              (i)  as in force or existing at a particular time; or
-
-                             (ii)  as in force or existing from time to time.
-
-Minister may suspend operation of section
-
-             (2)  The Minister may suspend the operation of this section in relation to wine of a particular kind or description if the Minister is satisfied that there are reasonable grounds for believing that continued compliance with an oenological practice or process, or a compositional requirement, that was used in the manufacture of the wine would endanger human health.
+             (2)  The Minister may suspend the operation of this section in relation to wine of a particular kind or description if the Minister is satisfied that there are reasonable grounds for believing that continued compliance with an oenological practice or process, or a compositional or other requirement, that was used in the manufacture of the wine would endanger human health.
 
              (3)  A suspension under subsection (2):
 
@@ -2890,11 +2670,11 @@ Minister may suspend operation of section
 
                      (a)  to deal with applications for the determination of geographical indications for wine in relation to regions and localities in Australia (**_Australian GIs_**) in accordance with this Part; and
 
-                     (b)  to make determinations of Australian GIs in accordance with this Part (including determining any conditions of use applicable to such GIs); and
+                     (b)  to make determinations of Australian GIs in accordance with this Part; and
 
                      (c)  to make determinations for the omission of Australian GIs in accordance with this Part; and
 
-                     (d)  any other functions conferred on the Committee under this Part or under the regulations.
+                     (d)  any other functions conferred on the Committee under this Part.
 
              (2)  The Committee has power to do all things that are necessary or convenient to be done by, or in connection with, the performance of its functions.
 
@@ -2906,11 +2686,9 @@ Minister may suspend operation of section
 
              (1)  This Division deals with the determining of geographical indications (**_GIs_**) in relation to a region or locality in Australia.
 
-Note:          Geographical indications, and translations of such indications, in relation to wine originating in a foreign country are not determined under this Division. They are determined by the Committee under regulations made for the purposes of Division 4B (unless they are in a prescribed wine-trading agreement).
+Note:          Geographical indications in relation to wine manufactured in an agreement country are not determined under this Division. They are determined in the agreement between Australia and the agreement country.
 
              (2)  Subdivisions B and C deal with the powers of the Committee and applications for the determination of GIs. Subdivision D deals with objections to the determination of a GI on the basis of pre-existing trade mark rights. GIs are determined under Subdivision E.
-
-             (3)  The regulations may modify the operation of this Division to remove any inconsistency with the operation of regulations made for the purposes of Division 4B.
 
 #### Subdivision B—Powers of Committee to determine geographical indications
 
@@ -2968,23 +2746,23 @@ Registered owner of a registered trade mark
 
              (1)  The registered owner of a registered trade mark may object to the determination of a proposed GI on one of the following grounds:
 
-                     (a)  that the trade mark consists of a word, expression or other indication that is identical to the proposed GI;
+                     (a)  that the trade mark consists of a word or expression that is identical to the proposed GI;
 
                      (b)  that:
 
-                              (i)  the trade mark consists of a word, expression or other indication; and
+                              (i)  the trade mark consists of a word or expression; and
 
-                             (ii)  the proposed GI is  likely to cause confusion with that word, expression or other indication;
+                             (ii)  the proposed GI is  likely to cause confusion with that word or expression;
 
                      (c)  that:
 
-                              (i)  the trade mark contains a word, expression or other indication; and
+                              (i)  the trade mark contains a word or expression; and
 
-                             (ii)  the proposed GI is likely to cause confusion with that word, expression or other indication; and
+                             (ii)  the proposed GI is likely to cause confusion with that word or expression; and
 
-                            (iii)  the owner has trade mark rights in that word, expression or other indication.
+                            (iii)  the owner has trade mark rights in that word or expression.
 
-             (2)  The owner may object on the ground specified in paragraph (1)(c) even if there are conditions or limitations entered on the Register of Trade Marks suggesting that the owner does not have trade mark rights to that word, expression or other indication.
+             (2)  The owner may object on the ground specified in paragraph (1)(c) even if there are conditions or limitations entered on the Register of Trade Marks suggesting that the owner does not have trade mark rights to that word or expression.
 
 Trade mark pending
 
@@ -2994,7 +2772,7 @@ Trade mark pending
 
                               (i)  the application was made in good faith; and
 
-                             (ii)  the trade mark consists of a word, expression or other indication that is identical to the proposed GI; and
+                             (ii)  the trade mark consists of a word or expression that is identical to the proposed GI; and
 
                             (iii)  prima facie, the requirements under the _Trade Marks Act 1995_ for accepting an application for registration of a trade mark would be satisfied in respect of the trade mark applied for;
 
@@ -3002,9 +2780,9 @@ Trade mark pending
 
                               (i)  the application was made in good faith; and
 
-                             (ii)  the trade mark consists of a word, expression or other indication; and
+                             (ii)  the trade mark consists of a word or expression; and
 
-                            (iii)  the proposed GI is  likely to cause confusion with that word, expression or other indication; and
+                            (iii)  the proposed GI is  likely to cause confusion with that word or expression; and
 
                             (iv)  prima facie, the requirements under the _Trade Marks Act 1995_ for accepting an application for registration of a trade mark would be satisfied in respect of the trade mark applied for;
 
@@ -3012,13 +2790,13 @@ Trade mark pending
 
                               (i)  the application was made in good faith; and
 
-                             (ii)  the trade mark contains a word, expression or other indication; and
+                             (ii)  the trade mark contains a word or expression; and
 
-                            (iii)  the proposed GI is  likely to cause confusion with that word, expression or other indication; and
+                            (iii)  the proposed GI is  likely to cause confusion with that word or expression; and
 
                             (iv)  prima facie, the requirements under the _Trade Marks Act 1995_ for accepting an application for registration of a trade mark would be satisfied in respect of the trade mark applied for; and
 
-                             (v)  after registration, the applicant would have trade mark rights in the word, expression or other indication.
+                             (v)  after registration, the applicant would have trade mark rights in the word or expression.
 
 Trade mark not registered
 
@@ -3026,19 +2804,19 @@ Trade mark not registered
 
                      (a)  that:
 
-                              (i)  the trade mark consists of a word, expression or other indication that is identical to the proposed GI; and
+                              (i)  the trade mark consists of a word or expression that is identical to the proposed GI; and
 
-                             (ii)  the person has trade mark rights in that word, expression or other indication; and
+                             (ii)  the person has trade mark rights in that word or expression; and
 
                             (iii)  the rights were acquired through use in good faith;
 
                      (b)  that:
 
-                              (i)  the trade mark consists of or contains a word, expression or other indication; and
+                              (i)  the trade mark consists of or contains a word or expression; and
 
-                             (ii)  the proposed GI is  likely to cause confusion with that word, expression or other indication; and
+                             (ii)  the proposed GI is  likely to cause confusion with that word or expression; and
 
-                            (iii)  the person has trade mark rights in that word, expression or other indication; and
+                            (iii)  the person has trade mark rights in that word or expression; and
 
                             (iv)  the rights were acquired through use in good faith.
 
@@ -3212,9 +2990,7 @@ If grounds for objection made out and a decision is made under section 40RE
 
                      (a)  identify in the determination the boundaries of the area or areas in the region or locality to which the determination relates; and
 
-                     (b)  determine the indication to be used to indicate that area or those areas; and
-
-                     (c)  determine any conditions of use that are to be applicable to the geographical indication.
+                     (b)  determine the word or expression to be used to indicate that area or those areas.
 
              (2)  If the regulations prescribe criteria for use by the Committee in determining a geographical indication, the Committee is to have regard to those criteria.
 
@@ -3222,7 +2998,7 @@ If grounds for objection made out and a decision is made under section 40RE
 
                      (a)  determine an area or areas having boundaries different from those stated in the application;
 
-                     (b)  determine an indication to be used to indicate the area or areas constituting the geographical indication that is different from an indication proposed in the application.
+                     (b)  determine a word or expression to be used to indicate the area or areas constituting the geographical indication that is different from a word or expression proposed in the application.
 
              (4)  In determining a geographical indication, the Committee must not  consider any submission to the extent that the submission asserts a trade mark right in respect of the proposed geographical indication.
 
@@ -3280,7 +3056,7 @@ Note:          Under section 40RF, an appeal lies to the Fed
 
              (3)  A final determination of the Committee takes effect on the day on which particulars of the determination are included in the Register.
 
-### Division 4A—Omission of Australian registered geographical indications
+### Division 4A—Omission of registered geographical indications
 
 #### Subdivision A—What this Division is about
 
@@ -3288,13 +3064,9 @@ Note:          Under section 40RF, an appeal lies to the Fed
 
              (1)  This Division deals with determining the omission from the Register of geographical indications (**_Australian GIs_**) determined under Division 4.
 
-Note:          Determinations for the omission of geographical indications, and translations of such indications, in relation to wine originating in a foreign country are not made under this Division. They are made by the Committee under regulations made for the purposes of Division 4B.
-
              (2)  The grounds for omission are that an Australian GI is not in use (see Subdivision B) or is no longer required (see Subdivision C).
 
 Note:          Subsection 40ZD(3) also deals with changes to the Register.
-
-             (3)  The regulations may modify the operation of this Division to remove any inconsistency with the operation of regulations made for the purposes of Division 4B.
 
 #### Subdivision B—Omission of Australian GIs for non-use
 
@@ -3490,93 +3262,11 @@ Submission made
 
              (3)  The determination of the Committee takes effect on the day on which particulars of the GI are omitted from the Register.
 
-### Division 4B—Foreign geographical indications and translations
-
-##### <a id="40ZAQ"></a>40ZAQ  Determination of foreign geographical indications and translations
-
-             (1)  The regulations may make provision for and in relation to the determination of geographical indications, and translations of geographical indications, in relation to wine originating in a foreign country.
-
-Role of Committee
-
-             (2)  Without limiting subsection (1), the regulations may:
-
-                     (a)  provide for the Committee to deal with applications for the determination of geographical indications, and translations of such indications, in relation to wine originating in a foreign country or a region or locality in a foreign country; and
-
-                     (b)  provide for the Committee to make determinations of such indications and translations (including determining any conditions of use applicable to such indications and translations); and
-
-                     (c)  set out criteria for use by the Committee in making such determinations; and
-
-                     (d)  provide for review by the Administrative Appeals Tribunal of such determinations.
-
-Role of Registrar of Trade Marks
-
-             (3)  Without limiting subsection (1), the regulations may also:
-
-                     (a)  provide for objections to be made to the Registrar of Trade Marks in relation to the determination of proposed geographical indications, and translations of such indications, in relation to wine originating in a foreign country or a region or locality in a foreign country; and
-
-                     (b)  set out the grounds on which such objections may be made; and
-
-                     (c)  set out the procedure to be followed in dealing with such objections (including the charging of fees, the holding of hearings and the taking of evidence); and
-
-                     (d)  provide for the Registrar of Trade Marks to make recommendations to the Committee in relation to the determination of the proposed indications and translations.
-
-##### <a id="40ZAR"></a>40ZAR  Appeals against decisions of Registrar of Trade Marks
-
-             (1)  An appeal lies to the Federal Court against such decisions of the Registrar of Trade Marks as are prescribed by the regulations (being decisions under regulations made for the purposes of subsection 40ZAQ(3)).
-
-             (2)  The jurisdiction of the Federal Court to hear and determine appeals against prescribed decisions is exclusive of the jurisdiction of any other court except the jurisdiction of the High Court under section 75 of the Constitution.
-
-             (3)  On hearing an appeal against a prescribed decision, the Federal Court may do any one or more of the following:
-
-                     (a)  admit further evidence orally, or on affidavit or otherwise;
-
-                     (b)  permit the examination and cross-examination of witnesses, including witnesses who gave evidence before the Registrar of Trade Marks;
-
-                     (c)  order an issue of fact to be tried as it directs;
-
-                     (d)  affirm, reverse or vary the prescribed decision;
-
-                     (e)  give any judgment, or make any order, that, in all the circumstances, it thinks fit;
-
-                      (f)  order a party to pay costs to another party.
-
-             (4)  The Registrar of Trade Marks may appear and be heard at the hearing of an appeal to the Federal Court against a prescribed decision.
-
-             (5)  Except with the leave of the Federal Court, an appeal does not lie to the Full Court of the Federal Court against a decision of a single judge of the Federal Court in the exercise of its jurisdiction to hear and determine appeals against prescribed decisions.
-
-             (6)  The regulations may make provision about the practice and procedure of the Federal Court in a proceeding under this section, including provision:
-
-                     (a)  prescribing the time for starting the action or proceeding or for doing any other act or thing; or
-
-                     (b)  for an extension of that time.
-
-##### <a id="40ZAS"></a>40ZAS  Decisions not to affect rights under Trade Marks Act
-
-                   A decision made under section 40ZAR, or under regulations made for the purposes of section 40ZAQ, does not:
-
-                     (a)  create or affect a right under the _Trade Marks Act 1995_ or at common law in respect of a trade mark; or
-
-                     (b)  in any way pre-empt or affect a decision of the Registrar of Trade Marks under the _Trade Marks Act 1995_ in respect of a pending application for the registration of a trade mark.
-
-##### <a id="40ZAT"></a>40ZAT  Determinations for the omission from the Register of foreign geographical indications and translations
-
-             (1)  The regulations may make provision for and in relation to the omission from the Register of registered geographical indications, and registered translations of such indications, in relation to a foreign country or a region or locality in a foreign country.
-
-             (2)  Without limiting subsection (1), the regulations may:
-
-                     (a)  provide for the Committee to deal with applications for the omission from the Register of registered geographical indications, and registered translations of such indications, in relation to a foreign country or a region or locality in a foreign country; and
-
-                     (b)  provide for the Committee to make determinations for the omission from the Register of such indications and translations; and
-
-                     (c)  set out the grounds on which such determinations may be made; and
-
-                     (d)  provide for review by the Administrative Appeals Tribunal of such determinations.
-
-### Division 5—Register of Protected Geographical Indications and Other Terms
+### Division 5—Register of Protected Names
 
 ##### <a id="40ZA"></a>40ZA  Registrar
 
-             (1)  There is to be a Registrar of Protected Geographical Indications and Other Terms.
+             (1)  There is to be a Registrar of Protected Names.
 
              (2)  The Registrar is to be an employee of the Corporation.
 
@@ -3586,145 +3276,69 @@ Role of Registrar of Trade Marks
 
                    The Registrar has the following functions:
 
-                     (a)  to keep the Register of Protected Geographical Indications and Other Terms;
+                     (a)  to keep the Register of Protected Names;
 
-                     (b)  to include particulars in the Register in accordance with section 40ZD;
+                     (b)  to enter particulars in the Register in accordance with section 40ZD;
 
                      (c)  to provide administrative assistance to the Committee;
 
                      (d)  in accordance with the directions of the Committee, to prepare and cause to be published maps or other documents showing the boundaries of regions and localities in relation to which geographical indications have been determined by the Committee;
 
-                     (e)  in accordance with the directions of the Corporation or the Committee, to notify authorities and organisations in foreign countries of the geographical indications, translations of such indications, traditional expressions and additional terms included in the Register.
+                     (e)  in accordance with the directions of the Committee, to notify authorities and organisations in foreign countries of the geographical indications and traditional expressions included in the Register in relation to wines manufactured in Australia.
 
-##### <a id="40ZC"></a>40ZC  Register of Protected Geographical Indications and Other Terms
+##### <a id="40ZC"></a>40ZC  Register of Protected Names
 
-             (1)  The Registrar is to keep a register to be known as the Register of Protected Geographical Indications and Other Terms.
+             (1)  The Registrar is to keep a register to be known as the Register of Protected Names.
 
              (2)  The Register may be kept wholly or partly by means of a computer.
 
 ##### <a id="40ZD"></a>40ZD  Contents of Register
 
-Parts of the Register
+             (1)  The Register is to be divided into the following parts:
 
-             (1)  The Register is to be divided into 4 parts as follows:
+                     (a)  a part containing geographical indications in relation to wines manufactured in Australia and the conditions (if any) applicable to those indications;
 
-                     (a)  Part 1 is to include:
+                     (b)  a part containing traditional expressions in relation to wines manufactured in Australia and the conditions (if any) applicable to those expressions;
 
-                              (i)  geographical indications in relation to wines originating in Australia, and any conditions of use applicable to those indications; and
+                     (c)  a part containing geographical indications in relation to wines manufactured in an agreement country and the conditions (if any) applicable to those indications;
 
-                             (ii)  geographical indications in relation to wines originating in a foreign country, any translations of those indications, and any conditions of use applicable to those indications or translations;
+                     (d)  a part containing traditional expressions in relation to wines manufactured in an agreement country and the conditions (if any) applicable to those expressions;
 
-                     (b)  Part 2 is to include traditional expressions in relation to wines originating in a foreign country, and any conditions of use applicable to those expressions;
+                     (e)  a part containing words or expressions, other than geographical indications or traditional expressions, in relation to wines manufactured in an agreement country and the conditions (if any) applicable to those words or expressions;
 
-                     (c)  Part 3 is to include quality wine terms in relation to wines originating in Australia, and any conditions of use applicable to those terms;
+                      (f)  a part containing the names of varieties of grapes for use in the manufacture of wines in Australia and the conditions (if any) applicable to the description and presentation of wines manufactured in Australia from grapes of those varieties;
 
-                     (d)  Part 4 is to include other terms (not being geographical indications, translations of geographical indications, traditional expressions, or terms referred to in paragraph (c)), in relation to wines, and any conditions of use applicable to those terms.
+                     (g)  a part containing geographical indications in relation to wines manufactured in foreign countries that are not agreement countries and the conditions (if any) applicable to those indications;
 
-Particulars that must be included in Part 1 of the Register
+                     (h)  a part containing traditional expressions in relation to wines manufactured in foreign countries that are not agreement countries and the conditions (if any) applicable to those traditional expressions.
 
-             (2)  The Registrar must include in Part 1 of the Register (geographical indications), in accordance with the directions of the Corporation, the following particulars:
+             (2)  The Registrar is to enter in the appropriate part of the Register, in accordance with the directions of the Corporation, the following particulars:
 
-                     (a)  in relation to Australia:
+                     (a)  in relation to Australia—the following geographical indications:
 
-                              (i)  Australia; and
+                              (i)  Australia;
 
-                             (ii)  the name of each State and internal Territory; and
+                             (ii)  Australian;
 
-                            (iii)  any geographical indication determined by the Committee under Division 4 to be a geographical indication in relation to wines originating in Australia; and
+                            (iii)  the name of each State and internal Territory;
 
-                            (iv)  any region or locality in relation to which such a geographical indication is determined; and
+                            (iv)  each geographical indication determined by the Committee under Division 4;
 
-                             (v)  any conditions of use applicable to such a geographical indication;
+                            and the conditions (if any) applicable to those indications;
 
-                     (b)  in relation to an agreement country:
+                     (b)  in relation to Australia—each word or expression that, under a prescribed wine-trading agreement, is a traditional expression in relation to wines manufactured in Australia and the conditions (if any) applicable to those traditional expressions;
 
-                              (i)  each geographical indication that, under a prescribed wine-trading agreement to which that country is a party, is a geographical indication in relation to wines originating in that country; and
+                     (c)  in relation to an agreement country—each geographical indication that, under a prescribed wine-trading agreement to which that country is a party, is a geographical indication in relation to wines manufactured in that country and the conditions (if any) applicable to those indications;
 
-                             (ii)  any translation, recognised by that wine-trading agreement, of each such geographical indication; and
+                     (d)  in relation to an agreement country—each word or expression that, under a prescribed wine-trading agreement to which that country is a party, is a traditional expression in relation to wines manufactured in that country and the conditions (if any) applicable to those traditional expressions;
 
-                            (iii)  any region or locality in relation to which each such geographical indication is to be registered; and
+                     (e)  in relation to an agreement country—each word or expression (other than a word or expression to which paragraph (c) or (d) applies) that, under a prescribed wine-trading agreement to which that country is a party, is required to be protected in relation to wines manufactured in that country and the conditions (if any) applicable to those words or expressions;
 
-                            (iv)  any conditions of use applicable to a geographical indication referred to in subparagraph (i) or a translation referred to in subparagraph (ii);
+                      (f)  particulars of varieties of grapes that may be used in the manufacture of wine in Australia and the conditions (if any) applicable to the description and presentation of wines manufactured in Australia from grapes of those varieties;
 
-                     (c)  in relation to a foreign country (whether or not an agreement country):
+                     (g)  in relation to a foreign country that is not an agreement country—geographical indications in relation to wines manufactured in that country and the conditions (if any) applicable to those indications;
 
-                              (i)  any geographical indication determined by the Committee, under regulations made for the purposes of Division 4B, to be a geographical indication in relation to wines originating in that country; and
-
-                             (ii)  any translation determined by the Committee, under regulations made for the purposes of Division 4B, to be a translation of such a geographical indication; and
-
-                            (iii)  any region or locality in relation to which each such geographical indication is determined; and
-
-                            (iv)  any conditions of use applicable to a geographical indication referred to in subparagraph (i) or a translation referred to in subparagraph (ii).
-
-Particulars that must be included in Part 2 of the Register
-
-          (2A)  The Registrar must include in Part 2 of the Register (traditional expressions), in accordance with the directions of the Corporation, the following particulars:
-
-                     (a)  in relation to an agreement country:
-
-                              (i)  each traditional expression that is listed in relation to wines originating in that country in a prescribed wine-trading agreement to which that country is a party; and
-
-                             (ii)  each wine originating in that country that is listed in that wine-trading agreement in relation to each such traditional expression; and
-
-                            (iii)  each category of wine that is listed in that wine-trading agreement in relation to each such traditional expression; and
-
-                            (iv)  each language that is listed in that wine-trading agreement in relation to each such traditional expression; and
-
-                             (v)  any conditions of use applicable to each such traditional expression;
-
-                     (b)  in relation to a foreign country (whether or not an agreement country):
-
-                              (i)  each traditional expression that is listed in the laws and regulations of that country for the purpose of the description and presentation of wines originating in that country, and that is determined by the Corporation; and
-
-                             (ii)  each wine originating in that country that is listed in those laws and regulations in relation to such a traditional expression; and
-
-                            (iii)  each category of wine that is listed in those laws and regulations in relation to such a traditional expression; and
-
-                            (iv)  each language that is listed in those laws and regulations in relation to such a traditional expression; and
-
-                             (v)  any conditions of use applicable to each such traditional expression.
-
-Particulars that must be included in Part 3 of the Register
-
-          (2B)  The Registrar must include in Part 3 of the Register (quality wine terms), in accordance with the directions of the Corporation, the following particulars:
-
-                     (a)  each term (a **_quality wine term_**) that, under a prescribed wine-trading agreement to which Australia is a party, is a quality wine term in relation to wines originating in Australia;
-
-                     (b)  any region or locality in relation to which each such term is to be registered;
-
-                     (c)  any conditions of use applicable to each such term.
-
-Particulars that must be included in Part 4 of the Register
-
-          (2C)  The Registrar must include in Part 4 of the Register (additional terms), in accordance with the directions of the Corporation, the following particulars:
-
-                     (a)  in relation to Australia:
-
-                              (i)  each term (other than a geographical indication or a quality wine term) that, under a prescribed wine-trading agreement to which Australia is a party, is required to be protected for the purpose of the description and presentation of wine originating in Australia; and
-
-                             (ii)  any other term that the Corporation has determined is required to be protected for the purpose of the description and presentation of wine originating in Australia; and
-
-                            (iii)  any region or locality in relation to which a term referred to in subparagraph (i) or (ii) is to be registered; and
-
-                            (iv)  any conditions of use applicable to a term referred to in subparagraph (i) or (ii);
-
-                     (b)  in relation to an agreement country:
-
-                              (i)  each term (other than a geographical indication, a translation of a geographical indication, or a traditional expression) that, under a prescribed wine-trading agreement to which that country is a party, is required to be protected for the purpose of the description and presentation of wine originating in that country; and
-
-                             (ii)  any region or locality in relation to which each such term is to be registered; and
-
-                            (iii)  any conditions of use applicable to each such term;
-
-                     (c)  in relation to a foreign country (whether or not an agreement country):
-
-                              (i)  each term (other than a geographical indication, a translation of a geographical indication, or a traditional expression) that is recognised in the laws and regulations of that country for the purpose of the description and presentation of wine originating in that country, and that is determined by the Corporation; and
-
-                             (ii)  any region or locality in relation to which each such term is to be registered; and
-
-                            (iii)  any conditions of use applicable to each such term;
-
-                     (d)  any other term (not being a geographical indication, a translation of a geographical indication, a traditional expression or a quality wine term) that the Corporation has determined is required to be protected in relation to particular wines, and any conditions of use applicable to those terms.
+                     (h)  in relation to a foreign country that is not an agreement country—traditional expressions in relation to wines manufactured in that country and the conditions (if any) applicable to those expressions.
 
              (3)  If:
 
@@ -3734,7 +3348,7 @@ Particulars that must be included in Part 4 of the Register
 
                              (ii)  an entry in the Register is included in the wrong part of the Register;
 
-                            and the inclusion of the entry in the Register, or in that part of the Register, did not result from a determination made by the Committee under Division 4 or under regulations made for the purposes of Division 4B; or
+                            and the inclusion of the entry in the Register, or in that part of the Register, did not result from a determination made by the Committee under Division 4; or
 
                      (b)  it appears to the Corporation that an entry should not have been included in the Register, or an entry in the Register is incorrect, because of a clerical or similar error;
 
@@ -3758,7 +3372,11 @@ the Corporation may direct the Registrar to omit the entry from the Register, to
 
 ##### <a id="40ZF"></a>40ZF  Inspection powers
 
-                   The provisions of Part VIA relating to inspections, including Division 4 of that Part, apply in relation to this Part in the same way as they apply in relation to Part VIA.
+                   The provisions of Part VIA relating to inspections, including Division 4 of that Part, apply in relation to this Part in the same way as they apply in relation to Part VIA, with the following modifications:
+
+                     (a)  references in that Part to **_label laws_** are treated as references to the requirements of this Part and of regulations made for the purposes of this Part;
+
+                     (b)  references in that Part to **_label offences_** are treated as references to offences against this Part and against regulations made for the purposes of this Part.
 
 ## Part VII—Miscellaneous
 
@@ -3828,7 +3446,11 @@ it is a condition of the person’s holding the office under this Act held by th
 
 Note:          The Federal Court may grant an injunction under section 44AB if a person has engaged, is engaging or proposes to engage in conduct that contravenes this section.
 
-             (2)  The provisions of Part VIA relating to inspections, including Division 4 of that Part, apply in relation to this section in the same way as they apply in relation to that Part.
+             (2)  The provisions of Part VIA relating to inspections, including Division 4 of that Part, apply in relation to this section in the same way as they apply in relation to that Part, with the following modifications:
+
+                     (a)  references in that Part to **_label laws_** are treated as references to the requirements of the regulations relating to the export of grape products from Australia;
+
+                     (b)  references in that Part to **_label offences_** are treated as references to offences against this section.
 
 ##### <a id="44AA"></a>44AA  Time for bringing prosecutions
 
@@ -3860,9 +3482,9 @@ Note:          The Federal Court may grant an injunction under
 
                      (c)  a declared wine grape growers organisation;
 
-                     (d)  a person who is a manufacturer of wine, or a grower of wine grapes, in Australia or a designated foreign country;
+                     (d)  a person who is a manufacturer of wine, or a grower of wine grapes, in Australia or an agreement country;
 
-                     (e)  an organisation established under the law of Australia or of a designated foreign country whose objects or purposes include any of the following:
+                     (e)  an organisation established under the law of Australia or of an agreement country whose objects or purposes include any of the following:
 
                               (i)  the promotion of the manufacture of wine, the growing of wine grapes or the marketing of wine;
 
@@ -4046,21 +3668,19 @@ the person is not liable to be punished by imprisonment for that offence.
 
                     <a name="member"></a>**_member_** means the Presiding Member or a nominated member of the Committee. 
 
-                    <a name="nomin-member"></a>**_nominated member_** means a member of the Committee referred to in paragraph 2(1)(b), (c) or (d).
+                    <a name="nomin-member"></a>**_nominated member_** means a member of the Committee referred to in paragraph 2(1)(b) or (c).
 
                     <a name="presid-member"></a>**_Presiding Member_** means the Presiding Member of the Committee.
 
 ##### <a id="2"></a>2  Membership of Committee 
 
-             (1)  The Committee is to consist of the following members:
+             (1)  The Committee is to consist of 3 members as follows: 
 
                      (a)  a Presiding Member appointed by the Chairperson of the Corporation in accordance with a resolution of the Corporation; 
 
                      (b)  one member appointed by the Chairperson of the Corporation on the nomination of a declared winemakers organisation; 
 
-                     (c)  one member appointed by the Chairperson of the Corporation on the nomination of a declared wine grape growers organisation;
-
-                     (d)  any other member prescribed by the regulations for the purposes of this paragraph.
+                     (c)  one member appointed by the Chairperson of the Corporation on the nomination of a declared wine grape growers organisation.
 
              (2)  The members of the Committee are to be appointed on a part-time basis.
 
@@ -4160,8 +3780,6 @@ the Corporation must terminate the appointment of the member.
 
              (3)  Two members constitute a quorum at the meeting of the Committee. 
 
-Note:          A different quorum may be prescribed by the regulations if the Committee has more than 3 members. (See subclause (10).)
-
              (4)  The presiding Member is to preside at all meetings of the Committee at which he or she is present. 
 
              (5)  If the Presiding Member is not present at a meeting of the Committee, the members of the Committee who are present must elect one of them to preside at the meeting. 
@@ -4170,17 +3788,9 @@ Note:          A different quorum may be prescribed by the reg
 
              (7)  If only 2 members are present at a meeting of the Committee and those members are unable to agree on a question, the question is to be deferred until a meeting at which 3 members are present. 
 
-Note:          A different process for resolving questions may be prescribed by the regulations if the Committee has more than 3 members. (See subclause (10).)
-
              (8)  The Committee must keep minutes of its proceedings. 
 
              (9)  The minutes must record each decision made by the Committee and the reasons for the decision. 
-
-           (10)  If one or more members are prescribed by the regulations for the purposes of paragraph 2(1)(d):
-
-                     (a)  the number of members that constitutes a quorum at a meeting of the Committee is the number (being a number greater than 2) prescribed by the regulations for the purposes of this paragraph; and
-
-                     (b)  if members who are present at a meeting of the Committee are unable to agree on a question, the process that is to apply is the process prescribed by the regulations for the purposes of this paragraph.
 
 ##### <a id="11"></a>11  Staff and consultants 
 
@@ -4784,9 +4394,9 @@ Remainder: 5 Dec 2000 ( <i>see Gazette</i>2000, No. S612)</div>
     <div>6 July 2010</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1–69, 77–80) and Schedule 2: 1 Sept 2010 ( <i>see</i>F2010L02117) 
+    <div>Schedule 1 (items 1–69, 77–80) and Schedule 2: \[ <i>see</i>Note 2 and Table A] 
 Schedule 3 (items 1–17, 19–21): 3 Aug 2010 
-Schedule 3 (item 18): 1 Sept 2010</div>
+Schedule 3 (item 18): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>Sch. 1 (items 
@@ -4897,15 +4507,7 @@ _(l)_      The _Australian Wine and Brandy Corporation Act 1980_ was a
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 93, 1993; No. 98, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 4(3)</div>
-  </td>
-  <td>
-    <div>ad. No. 98, 2010</div>
+    <div>am. No. 93, 1993</div>
   </td>
 </tr>
 <tr>
@@ -4913,7 +4515,7 @@ _(l)_      The _Australian Wine and Brandy Corporation Act 1980_ was a
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 60, 1986; No. 26, 1991; No. 93, 1993; No. 152, 1997; Nos. 32 and 170, 1999; No. 120, 2004; No. 98, 2010</div>
+    <div>am. No. 60, 1986; No. 26, 1991; No. 93, 1993; No. 152, 1997; Nos. 32 and 170, 1999; No. 120, 2004</div>
   </td>
 </tr>
 <tr>
@@ -4950,26 +4552,10 @@ _(l)_      The _Australian Wine and Brandy Corporation Act 1980_ was a
 </tr>
 <tr>
   <td>
-    <div>S. 5B</div>
+    <div>Ss. 5B, 5C</div>
   </td>
   <td>
     <div>ad. No. 93, 1993</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5C</div>
-  </td>
-  <td>
-    <div>ad. No. 93, 1993</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 98, 2010</div>
   </td>
 </tr>
 <tr>
@@ -4990,14 +4576,6 @@ _(l)_      The _Australian Wine and Brandy Corporation Act 1980_ was a
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 98, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part II</b></div>
   </td>
   <td>
@@ -5014,50 +4592,10 @@ _(l)_      The _Australian Wine and Brandy Corporation Act 1980_ was a
 </tr>
 <tr>
   <td>
-    <div>Subheads. to s. 8(1), (2)</div>
-  </td>
-  <td>
-    <div>ad. No. 98, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 8(2A)</div>
-  </td>
-  <td>
-    <div>ad. No. 98, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 8(2E)</div>
-  </td>
-  <td>
-    <div>ad. No. 98, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 8(2G)</div>
-  </td>
-  <td>
-    <div>ad. No. 98, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 8(3)</div>
-  </td>
-  <td>
-    <div>ad. No. 98, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 8</div>
   </td>
   <td>
-    <div>am. No. 60, 1986; No. 93, 1993; No. 38, 2003; No. 98, 2010</div>
+    <div>am. No. 60, 1986; No. 93, 1993; No. 38, 2003</div>
   </td>
 </tr>
 <tr>
@@ -5425,7 +4963,7 @@ _(l)_      The _Australian Wine and Brandy Corporation Act 1980_ was a
     <div>S. 30</div>
   </td>
   <td>
-    <div>am. No. 60, 1986; No. 102, 1998; No. 98, 2010</div>
+    <div>am. No. 60, 1986; No. 102, 1998</div>
   </td>
 </tr>
 <tr>
@@ -5617,7 +5155,7 @@ _(l)_      The _Australian Wine and Brandy Corporation Act 1980_ was a
     <div>S. 38</div>
   </td>
   <td>
-    <div>am. No. 60, 1986; No. 93, 1993; No. 152, 1997; No. 98, 2010</div>
+    <div>am. No. 60, 1986; No. 93, 1993; No. 152, 1997</div>
   </td>
 </tr>
 <tr>
@@ -5694,14 +5232,6 @@ _(l)_      The _Australian Wine and Brandy Corporation Act 1980_ was a
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 98, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 39C</div>
   </td>
   <td>
@@ -5718,14 +5248,6 @@ _(l)_      The _Australian Wine and Brandy Corporation Act 1980_ was a
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 98, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Ss. 39D, 39E</div>
   </td>
   <td>
@@ -5734,26 +5256,10 @@ _(l)_      The _Australian Wine and Brandy Corporation Act 1980_ was a
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 98, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 39EA</div>
   </td>
   <td>
     <div>ad. No. 93, 1993</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 98, 2010</div>
   </td>
 </tr>
 <tr>
@@ -5782,15 +5288,7 @@ _(l)_      The _Australian Wine and Brandy Corporation Act 1980_ was a
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 98, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 39G, 39H</div>
+    <div>Ss. 39G–39K</div>
   </td>
   <td>
     <div>ad. No. 144, 1989</div>
@@ -5802,38 +5300,6 @@ _(l)_      The _Australian Wine and Brandy Corporation Act 1980_ was a
   </td>
   <td>
     <div>am. No. 137, 1992; No. 170, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 98, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 39J, 39K</div>
-  </td>
-  <td>
-    <div>ad. No. 144, 1989</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 137, 1992; No. 170, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 98, 2010</div>
   </td>
 </tr>
 <tr>
@@ -5846,15 +5312,7 @@ _(l)_      The _Australian Wine and Brandy Corporation Act 1980_ was a
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 98, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 39M</div>
+    <div>Ss. 39M–39R</div>
   </td>
   <td>
     <div>ad. No. 144, 1989</div>
@@ -5866,62 +5324,6 @@ _(l)_      The _Australian Wine and Brandy Corporation Act 1980_ was a
   </td>
   <td>
     <div>am. No. 137, 1992; No. 170, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 98, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 39N</div>
-  </td>
-  <td>
-    <div>ad. No. 144, 1989</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 137, 1992; No. 170, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 98, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 39P–39R</div>
-  </td>
-  <td>
-    <div>ad. No. 144, 1989</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 137, 1992; No. 170, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 98, 2010</div>
   </td>
 </tr>
 <tr>
@@ -5942,26 +5344,10 @@ _(l)_      The _Australian Wine and Brandy Corporation Act 1980_ was a
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 98, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Ss. 39T–39V</div>
   </td>
   <td>
     <div>ad. No. 144, 1989</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 98, 2010</div>
   </td>
 </tr>
 <tr>
@@ -5982,14 +5368,6 @@ _(l)_      The _Australian Wine and Brandy Corporation Act 1980_ was a
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 98, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 39X</div>
   </td>
   <td>
@@ -5998,26 +5376,10 @@ _(l)_      The _Australian Wine and Brandy Corporation Act 1980_ was a
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 98, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Heading to s. 39Y</div>
   </td>
   <td>
     <div>am. No. 93, 1993</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 98, 2010</div>
   </td>
 </tr>
 <tr>
@@ -6038,14 +5400,6 @@ _(l)_      The _Australian Wine and Brandy Corporation Act 1980_ was a
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 98, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 39Z</div>
   </td>
   <td>
@@ -6058,14 +5412,6 @@ _(l)_      The _Australian Wine and Brandy Corporation Act 1980_ was a
   </td>
   <td>
     <div>am. No. 93, 1993; No. 43, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 98, 2010</div>
   </td>
 </tr>
 <tr>
@@ -6086,26 +5432,10 @@ _(l)_      The _Australian Wine and Brandy Corporation Act 1980_ was a
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 98, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 39ZAA</div>
   </td>
   <td>
     <div>ad. No. 137, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 98, 2010</div>
   </td>
 </tr>
 <tr>
@@ -6122,14 +5452,6 @@ _(l)_      The _Australian Wine and Brandy Corporation Act 1980_ was a
   </td>
   <td>
     <div>am. No. 115, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 98, 2010</div>
   </td>
 </tr>
 <tr>
@@ -6366,14 +5688,6 @@ _(l)_      The _Australian Wine and Brandy Corporation Act 1980_ was a
 </tr>
 <tr>
   <td>
-    <div>Heading to Part VIB</div>
-  </td>
-  <td>
-    <div>rs. No. 98, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Part VIB</div>
   </td>
   <td>
@@ -6422,14 +5736,6 @@ _(l)_      The _Australian Wine and Brandy Corporation Act 1980_ was a
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 98, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Note to s. 40A</div>
   </td>
   <td>
@@ -6454,23 +5760,6 @@ _(l)_      The _Australian Wine and Brandy Corporation Act 1980_ was a
 </tr>
 <tr>
   <td>
-    <div><b>Subdivision A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subdiv. A of Div. 2 
-of Part VIB</div>
-  </td>
-  <td>
-    <div>ad. No. 98, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 40C</div>
   </td>
   <td>
@@ -6483,14 +5772,6 @@ of Part VIB</div>
   </td>
   <td>
     <div>am. No. 115, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 98, 2010</div>
   </td>
 </tr>
 <tr>
@@ -6511,39 +5792,6 @@ of Part VIB</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 98, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 40DA, 40DB</div>
-  </td>
-  <td>
-    <div>ad. No. 98, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision B</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subdiv. B of Div. 2 
-of Part VIB</div>
-  </td>
-  <td>
-    <div>ad. No. 98, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 40E</div>
   </td>
   <td>
@@ -6556,14 +5804,6 @@ of Part VIB</div>
   </td>
   <td>
     <div>am. No. 115, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 98, 2010</div>
   </td>
 </tr>
 <tr>
@@ -6584,51 +5824,10 @@ of Part VIB</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 98, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 40FA, 40FB</div>
-  </td>
-  <td>
-    <div>ad. No. 98, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision C</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Subdiv. C of 
-Div. 2 of Part VIB</div>
-  </td>
-  <td>
-    <div>ad. No. 98, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 40G</div>
   </td>
   <td>
     <div>ad. No. 93, 1993</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 98, 2010</div>
   </td>
 </tr>
 <tr>
@@ -6649,26 +5848,10 @@ Div. 2 of Part VIB</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 98, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Ss. 40J, 40K</div>
   </td>
   <td>
     <div>ad. No. 93, 1993</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 98, 2010</div>
   </td>
 </tr>
 <tr>
@@ -6689,34 +5872,10 @@ Div. 2 of Part VIB</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 40M</div>
-  </td>
-  <td>
-    <div>am. No. 98, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 40M(2)</div>
-  </td>
-  <td>
-    <div>ad. No. 98, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 40M</div>
   </td>
   <td>
     <div>ad. No. 93, 1993</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 98, 2010</div>
   </td>
 </tr>
 <tr>
@@ -6748,7 +5907,7 @@ Div. 2 of Part VIB</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 120, 2004; No. 98, 2010</div>
+    <div>am. No. 120, 2004</div>
   </td>
 </tr>
 <tr>
@@ -6782,22 +5941,6 @@ Part VIB</div>
   </td>
   <td>
     <div>ad. No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 98, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 40PA(1)</div>
-  </td>
-  <td>
-    <div>rs. No. 98, 2010</div>
   </td>
 </tr>
 <tr>
@@ -6877,31 +6020,7 @@ Part VIB</div>
 </tr>
 <tr>
   <td>
-    <div>S. 40RA</div>
-  </td>
-  <td>
-    <div>ad. No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 40RB</div>
-  </td>
-  <td>
-    <div>ad. No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 98, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 40RC–40RG</div>
+    <div>Ss. 40RA–40RG</div>
   </td>
   <td>
     <div>ad. No. 120, 2004</div>
@@ -6953,7 +6072,7 @@ Div. 4 of Part VIB</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 120, 2004; No. 98, 2010</div>
+    <div>am. No. 120, 2004</div>
   </td>
 </tr>
 <tr>
@@ -7014,15 +6133,6 @@ Div. 4 of Part VIB</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 4A of 
-Part VIB</div>
-  </td>
-  <td>
-    <div>rs. No. 98, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Div. 4A of Part VIB</div>
   </td>
   <td>
@@ -7043,22 +6153,6 @@ Part VIB</div>
   </td>
   <td>
     <div>ad. No. 120, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 98, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 40ZAA(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 98, 2010</div>
   </td>
 </tr>
 <tr>
@@ -7095,30 +6189,6 @@ Part VIB</div>
 </tr>
 <tr>
   <td>
-    <div><b>Division 4B</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 4B of Part VIB</div>
-  </td>
-  <td>
-    <div>ad. No. 98, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 40ZAQ–40ZAT</div>
-  </td>
-  <td>
-    <div>ad. No. 98, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Division 5</b></div>
   </td>
   <td>
@@ -7127,51 +6197,10 @@ Part VIB</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 5 of 
-Part VIB</div>
-  </td>
-  <td>
-    <div>rs. No. 98, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 40ZA, 40ZB</div>
+    <div>Ss. 40ZA–40ZC</div>
   </td>
   <td>
     <div>ad. No. 93, 1993</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 98, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 40ZC</div>
-  </td>
-  <td>
-    <div>rs. No. 98, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 40ZC</div>
-  </td>
-  <td>
-    <div>ad. No. 93, 1993</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 98, 2010</div>
   </td>
 </tr>
 <tr>
@@ -7187,7 +6216,7 @@ Part VIB</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 38, 2003; No. 98, 2010</div>
+    <div>am. No. 38, 2003</div>
   </td>
 </tr>
 <tr>
@@ -7220,14 +6249,6 @@ Part VIB</div>
   </td>
   <td>
     <div>ad. No. 170, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 98, 2010</div>
   </td>
 </tr>
 <tr>
@@ -7312,14 +6333,6 @@ Part VIB</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 98, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 44A</div>
   </td>
   <td>
@@ -7397,15 +6410,1624 @@ Part VIB</div>
   <td>
     <div>rs. No. 93, 1993</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 98, 2010</div>
-  </td>
 </tr></table>
+
+### Note 2
+
+_Australian Wine and Brandy Corporation Amendment Act 2010 
+ (No. 98, 2010)_
+
+The following amendments commence on 1 September 2010 (_see_ F2010L02117):
+
+## Schedule 1
+
+## 1  Paragraph 3(1)(e)
+
+Omit “; and”, substitute “and other international agreements;”.
+
+## 2  Paragraph 3(1)(f)
+
+Repeal the paragraph.
+
+## 3  Subsection 4(1) (paragraph (a) of the definition of _agreement country_)
+
+Omit “European Economic Community”, substitute “European Community”.
+
+## 4  Subsection 4(1)
+
+Insert:
+
+                    <a name="countri"></a>**_country_** has a meaning affected by subsection (2).
+
+## 5  Subsection 4(1)
+
+Insert:
+
+                    <a name="design-foreign-countri"></a>**_designated foreign country_** has the meaning given by subsection 40K(3).
+
+## 6  Subsection 4(1) (definition of _EC country_)
+
+Omit “European Economic Community”, substitute “European Community”.
+
+## 7  Subsection 4(1) (definition of _geographical indication_)
+
+Repeal the definition, substitute:
+
+                    <a name="geograph-indic"></a>**_geographical indication_**, in relation to wine goods, means an indication that identifies the goods as originating in a country, or in a region or locality in that country, where a given quality, reputation or other characteristic of the goods is essentially attributable to their geographical origin.
+
+## 8  Subsection 4(1) (definition of _modify_)
+
+Omit “or other” (wherever occurring).
+
+## 9  Subsection 4(1)
+
+Insert:
+
+                    <a name="protect-date"></a>**_protection date_** for a registered traditional expression has the meaning given by subsection 40DB(6).
+
+## 10  Subsection 4(1) (definition of _Register_)
+
+Repeal the definition, substitute:
+
+                    <a name="regist"></a>**_Register_** means the Register of Protected Geographical Indications and Other Terms kept under section 40ZC.
+
+## 11  Subsection 4(1)
+
+Insert:
+
+                    <a name="regist-addition-term"></a>**_registered additional term_** means a term that is included in Part 4 of the Register.
+
+## 12  Subsection 4(1) (definition of _registered ancillary protected expression_)
+
+Repeal the definition.
+
+## 13  Subsection 4(1) (definition of _registered condition_)
+
+Repeal the definition.
+
+## 14  Subsection 4(1)
+
+Insert:
+
+                    <a name="regist-condition-us"></a>**_registered conditions of use_**, in relation to:
+
+                     (a)  a registered geographical indication; or
+
+                     (b)  a registered translation of such an indication; or
+
+                     (c)  a registered traditional expression; or
+
+                     (d)  a registered quality wine term; or
+
+                     (e)  a registered additional term;
+
+means a condition of use included in the Register that is applicable to the geographical indication, translation, traditional expression, quality wine term or additional term (as the case may be).
+
+## 15  Subsection 4(1) (definition of _registered geographical indication_)
+
+Omit all the words after “included”, substitute “in Part 1 of the Register”.
+
+## 16  Subsection 4(1)
+
+Insert:
+
+                    <a name="regist-qualiti-wine-term"></a>**_registered quality wine term_** means a term that is included in Part 3 of the Register.
+
+## 17  Subsection 4(1) (definition of _registered traditional expression_)
+
+Omit all the words after “included”, substitute “in Part 2 of the Register”.
+
+## 18  Subsection 4(1)
+
+Insert:
+
+                    <a name="regist-translat"></a>**_registered translation_** of a registered geographical indication means a translation, included in Part 1 of the Register, of the registered geographical indication.
+
+## 19  Subsection 4(1) (definition of _registered variety of grapes_)
+
+Repeal the definition.
+
+## 20  Subsection 4(1) (definition of _Registrar_)
+
+Repeal the definition, substitute:
+
+                    <a name="registrar"></a>**_Registrar_** means the Registrar of Protected Geographical Indications and Other Terms established under subsection 40ZA(1).
+
+## 21  Subsection 4(1) (definition of _traditional expression_)
+
+Repeal the definition, substitute:
+
+                    <a name="tradition-express"></a>**_traditional expression_**, in relation to wine originating in a foreign country, means a traditionally used name referring, in particular, to the method of production or to the quality, colour or type of the wine.
+
+## 22  Subsection 4(1)
+
+Insert:
+
+                    <a name="world-trade-organ"></a>**_World Trade Organization_** means the body of that name established by the WTO Agreement, done at Marrakesh on 15 April 1994.
+
+Note:          The text of the WTO Agreement is set out in Australian Treaty Series 1995 No. 8 (\[1995] ATS 8). In 2009, the text of an Agreement in the Australian Treaty Series was accessible through the Australian Treaties Library on the AustLII website (www.austlii.edu.au).
+
+## 23  After subsection 4(1)
+
+Insert:
+
+References to country
+
+             (2)  For the purposes of this Act, a reference to a country includes a reference to a member of the World Trade Organization.
+
+## 24  Subsection 4(3)
+
+Omit “European Economic Community”, substitute “European Community”.
+
+_Note:       The following heading to subsection 4(3) is inserted “Parties to prescribed wine trading agreements”._
+
+## 25  Section 5C
+
+After “addresses)”, insert “, indications”.
+
+## 26  Paragraph 8(2)(aa)
+
+Repeal the paragraph, substitute:
+
+                    (aa)  to determine any conditions of use that are to be applicable to any registered geographical indications and any registered translations of such indications; and
+
+_Note 1:    The following heading to subsection 8(1) is inserted “General power”._
+
+_Note 2:    The following heading to subsection 8(2) is inserted “Specific powers”._
+
+## 27  Paragraph 8(2)(ab)
+
+Repeal the paragraph.
+
+## 28  Paragraphs 8(2)(ac) and (ad)
+
+Repeal the paragraphs, substitute:
+
+                    (ac)  to determine in relation to a foreign country:
+
+                              (i)  any traditional expressions that are to be registered in relation to wines originating in that country (being traditional expressions that are recognised in the laws and regulations of that country for the purpose of the description and presentation of wine); and
+
+                             (ii)  any conditions of use that are to be applicable to any or all of those expressions; and
+
+                    (ad)  to determine:
+
+                              (i)  in relation to Australia—any terms that are to be registered as additional terms in relation to wines originating in Australia (being terms that are required to be protected for the purpose of the description and presentation of wine); and
+
+                             (ii)  in relation to a foreign country—any terms that are to be registered as additional terms in relation to wines originating in that country (being terms that are recognised in the laws and regulations of that country for the purpose of the description and presentation of wine); and
+
+                            (iii)  in relation to a particular wine (regardless of origin)—any terms that are to be registered as additional terms in relation to that wine; and
+
+                            (iv)  any conditions of use that are to be applicable to any or all of the terms referred to in subparagraphs (i) to (iii); and
+
+## 29  Paragraph 8(2)(ae)
+
+Repeal the paragraph.
+
+## 30  After paragraph 8(2)(g)
+
+Insert:
+
+                    (ga)  without limiting paragraph (g), to charge fees for the provision of services, or the performance of work, by or on behalf of:
+
+                              (i)  the Corporation; or
+
+                             (ii)  the Geographical Indications Committee established by section 40N;
+
+                            in relation to the determination of geographical indications and translations of such indications by the Geographical Indications Committee (including determinations for the omission of such indications and translations); and
+
+## 31  Subsection 8(2A)
+
+Omit “(ab), (ac), (ad) or (ae)”, substitute “(ac) or (ad)”.
+
+_Note 1:    The following heading to subsection 8(2A) is inserted “Requirements for determinations by the Corporation”._
+
+_Note 2:    The following heading to subsection 8(2E) is inserted “Review of determinations”._
+
+## 32  Subsection 8(2F)
+
+Omit “(ab), (ac), (ad) or (ae)” (wherever occurring), substitute “(ac) or (ad)”.
+
+_Note 1:    The following heading to subsection 8(2G) is inserted “Inclusion of particulars in the Register”._
+
+_Note 2:    The following heading to subsection 8(3) is inserted “Consistency with corporate and operational plans”._
+
+## 33  Subsection 38(4)
+
+Omit “(4)”.
+
+## 34  Subsection 38(4)
+
+After “geographical indications”, insert “, and translations of such indications,”.
+
+## 35  Part VIB (heading)
+
+Repeal the heading, substitute:
+
+## Part VIB—Protection of geographical indications and other terms
+
+## 36  Paragraph 40A(a)
+
+After “agreements”, insert “and other international agreements”.
+
+## 37  Sections 40C to 40H
+
+Repeal the sections, substitute:
+
+#### Subdivision A—Sale, export or import of wine with a false description and presentation
+
+##### <a id="40C"></a>40C  Offence—sale, export or import of wine with a false description and presentation
+
+             (1)  A person commits an offence if:
+
+                     (a)  the person sells, exports or imports wine; and
+
+                     (b)  the wine is sold, exported or imported by the person:
+
+                              (i)  in trade or commerce; and
+
+                             (ii)  with a false description and presentation.
+
+                    Penalty:  Imprisonment for 2 years.
+
+Note:          A court may impose a maximum fine of 120 penalty units instead of, or in addition to, a term of imprisonment. A body corporate that is convicted of an offence may be fined up to 5 times that maximum fine. (See subsections 4B(2) and (3) of the _Crimes Act 1914._)
+
+             (2)  The description and presentation may be false even if it indicates the country, region or locality (as the case may be) in which the wine originated.
+
+##### <a id="40D"></a>40D  False descriptions and presentations
+
+             (1)  This section has effect for the purposes of section 40C.
+
+             (2)  Subject to sections 40DA and 40DB, the description and presentation of wine is false if:
+
+                     (a)  it includes the name of a country, or any other indication that the wine originated in a particular country, and the wine did not originate in that country; or
+
+                     (b)  it includes a registered geographical indication, and the wine did not originate in a country, region or locality in relation to which the geographical indication is registered; or
+
+                     (c)  it includes a registered translation of a registered geographical indication, and the wine did not originate in a country, region or locality in relation to which the geographical indication is registered; or
+
+                     (d)  it includes a registered traditional expression, and:
+
+                              (i)  the wine is not a wine in relation to which the expression is registered; and
+
+                             (ii)  the wine is in a category of wine in relation to which the expression is registered; and
+
+                            (iii)  the expression is in a language in relation to which the expression is registered; or
+
+                     (e)  it is not in accordance with any provisions relating to the description and presentation of wine as are prescribed for the purposes of this paragraph.
+
+             (3)  Subsection (2) does not limit what, apart from that subsection, is a false description and presentation of wine.
+
+             (4)  For the purposes of paragraphs (2)(b), (c) and (d):
+
+                     (a)  a registered geographical indication; or
+
+                     (b)  a registered translation of such an indication; or
+
+                     (c)  a registered traditional expression;
+
+is included in the description and presentation of wine even if the indication, translation or expression is accompanied by an expression such as “kind”, “type”, “style”, “imitation”, “method”, or any similar expression.
+
+##### <a id="40DA"></a>40DA  Circumstances in which description and presentation is not false—general
+
+Inclusion of geographical indication, translation or traditional expression registered for more than one place
+
+             (1)  If:
+
+                     (a)  the description and presentation of wine includes an indication or term that is a registered geographical indication, a registered translation of such an indication, or a registered traditional expression, in relation to a country, region or locality; and
+
+                     (b)  the wine originated in that country, region or locality; and
+
+                     (c)  the description and presentation indicates that the wine originated in that country, region or locality;
+
+then the description and presentation is not false merely because the indication or term is also a registered geographical indication, a registered translation of such an indication, or a registered traditional expression, in relation to another country, region or locality.
+
+Inclusion of common English word or term
+
+             (2)  If:
+
+                     (a)  the description and presentation of wine includes a word or term that is a registered geographical indication, a registered translation of such an indication, or a registered traditional expression, in relation to a country, region or locality; and
+
+                     (b)  the word or term is a common English word or term; and
+
+                     (c)  the word or term is not used in such a way as to indicate that the wine originated in the country, region or locality in relation to which the geographical indication, translation or traditional expression is registered; and
+
+                     (d)  the description and presentation indicates the country, region or locality in which the wine originated; and
+
+                     (e)  the word or term is used in good faith;
+
+then the description and presentation is not false merely because it includes the word or term.
+
+Inclusion of name of individual or address of winery
+
+             (3)  The description and presentation of wine is not false merely because it includes:
+
+                     (a)  the name of an individual who manufactured, sold, exported or imported the wine; or
+
+                     (b)  if a person who manufactured, sold, exported or imported the wine is, apart from this subsection, lawfully permitted to use the name of an individual who previously manufactured, sold, exported or imported the wine—the name of that individual; or
+
+                     (c)  the address of the winery at which the wine was manufactured.
+
+##### <a id="40DB"></a>40DB  Circumstances in which description and presentation is not false—inclusion of registered traditional expressions
+
+Inclusion of registered quality wine term
+
+             (1)  If:
+
+                     (a)  the description and presentation of wine includes a registered quality wine term; and
+
+                     (b)  the wine originated in Australia; and
+
+                     (c)  the description and presentation indicates that the wine originated in Australia or in a region or locality in Australia; and
+
+                     (d)  the registered quality wine term is also a registered traditional expression; and
+
+                     (e)  the wine is in a category of wine in relation to which the expression is registered;
+
+then the description and presentation is not false merely because it includes the registered quality wine term.
+
+Wine originating in non-agreement country
+
+             (2)  The description and presentation of wine that originates in a foreign country that is not an agreement country is not false merely because it includes a term that is a registered traditional expression if:
+
+                     (a)  the term is not used in such a way as to be likely to mislead as to the country, region or locality in which the wine originated; and
+
+                     (b)  the description and presentation indicates the country, region or locality in which the wine originated; and
+
+                     (c)  the inclusion of the term in the description and presentation does not constitute unfair competition within the meaning of Article 10 _bis_ of the Paris Convention for the Protection of Industrial Property of 20 March 1883 as amended.
+
+Note:          The text of the Convention is set out in Australian Treaty Series 1972 No. 12 (\[1972] ATS 12). In 2009, the text of a Convention in the Australian Treaty Series was accessible through the Australian Treaties Library on the AustLII website (www.austlii.edu.au).
+
+Inclusion of trade mark
+
+             (3)  If:
+
+                     (a)  the description and presentation of wine includes a trade mark; and
+
+                     (b)  the trade mark contains or consists of a registered traditional expression; and
+
+                     (c)  before the protection date for the traditional expression:
+
+                              (i)  the trade mark had been entered in good faith in the Register of Trade Marks; or
+
+                             (ii)  the owner of the trade mark had acquired rights in the trade mark through use in good faith;
+
+then the description and presentation is not false merely because it includes that trade mark.
+
+Inclusion of business name
+
+             (4)  If:
+
+                     (a)  the description and presentation of wine includes a business name; and
+
+                     (b)  the business name contains or consists of a registered traditional expression; and
+
+                     (c)  before the protection date for the traditional expression, the business name was registered in good faith under the law of a State or Territory;
+
+then the description and presentation is not false merely because it includes that business name.
+
+             (5)  Subsection (4) does not limit subsection 40DA(3).
+
+Definition of **protection date**
+
+             (6)  In this Act, the **_protection date_** for a registered traditional expression is:
+
+                     (a)  if the traditional expression is registered in relation to an agreement country under paragraph 40ZD(2A)(a):
+
+                              (i)  unless subparagraph (ii) applies—the date on which the prescribed wine-trading agreement to which that country is a party was signed; or
+
+                             (ii)  if that agreement is modified after that date to include the traditional expression and paragraph (b) does not apply—the date on which the agreement is so modified; or
+
+                     (b)  if the traditional expression is registered in relation to a foreign country (whether or not an agreement country) under paragraph 40ZD(2A)(b)—the date on which the traditional expression is registered.
+
+#### Subdivision B—Sale, export or import of wine with a misleading description and presentation
+
+##### <a id="40E"></a>40E  Sale, export or import of wine with a misleading description and presentation
+
+             (1)  A person commits an offence if:
+
+                     (a)  the person sells, exports or imports wine; and
+
+                     (b)  the wine is sold, exported or imported by the person:
+
+                              (i)  in trade or commerce; and
+
+                             (ii)  with a misleading description and presentation.
+
+                    Penalty:  Imprisonment for 2 years.
+
+Note:          A court may impose a maximum fine of 120 penalty units instead of, or in addition to, a term of imprisonment. A body corporate that is convicted of an offence may be fined up to 5 times that maximum fine. (See subsections 4B(2) and (3) of the _Crimes Act 1914._)
+
+             (2)  The description and presentation may be misleading even if it indicates the country, region or locality (as the case may be) in which the wine originated.
+
+##### <a id="40F"></a>40F  Misleading descriptions and presentations
+
+             (1)  This section has effect for the purposes of section 40E.
+
+Inclusion of geographical indication, translation or traditional expression
+
+             (2)  Subject to sections 40FA and 40FB, the description and presentation of wine is misleading if:
+
+                     (a)  it includes a registered geographical indication, and the indication is used in such a way as to be likely to mislead as to the country, region or locality in which the wine originated; or
+
+                     (b)  it includes a registered translation of a registered geographical indication, and the translation is used in such a way as to be likely to mislead as to the country, region or locality in which the wine originated; or
+
+                     (c)  it includes a registered traditional expression, and:
+
+                              (i)  the wine is not a wine in relation to which the expression is registered; and
+
+                             (ii)  the wine is not in a category of wine in relation to which the expression is registered; and
+
+                            (iii)  the expression is in a language in relation to which the expression is registered; and
+
+                            (iv)  the expression is used in such a way as to be likely to mislead that the wine originated in a country, region or locality in relation to which the expression is registered or that the wine is in a category of wine in relation to which the expression is registered.
+
+             (3)  For the purposes of subsection (2):
+
+                     (a)  a registered geographical indication; or
+
+                     (b)  a registered translation of such an indication; or
+
+                     (c)  a registered traditional expression;
+
+is included in the description and presentation of wine even if the indication, translation or expression is accompanied by an expression such as “kind”, “type”, “style”, “imitation”, “method”, or any similar expression.
+
+Inclusion of word resembling geographical indication, translation or traditional expression
+
+             (4)  Subject to sections 40FA and 40FB, the description and presentation of wine is misleading if:
+
+                     (a)  it includes an indication or term that so resembles a registered geographical indication as to be likely to mislead that the wine originated in a country, region or locality in relation to which the indication is registered; or
+
+                     (b)  it includes a term that so resembles a registered translation of a registered geographical indication as to be likely to mislead that the wine originated in a country, region or locality in relation to which the indication is registered; or
+
+                     (c)  both of the following apply:
+
+                              (i)  it includes a term that so resembles a registered traditional expression as to be likely to mislead that the wine originated in a country, region or locality in relation to which the expression is registered or that the wine is in a category of wine in relation to which the expression is registered;
+
+                             (ii)  the wine originated in a foreign country that is not an agreement country.
+
+Inclusion of name of individual or address of winery
+
+             (5)  The description and presentation of wine is misleading if:
+
+                     (a)  it includes:
+
+                              (i)  the name of an individual who manufactured, sold, exported or imported the wine; or
+
+                             (ii)  if a person who manufactured, sold, exported or imported the wine is, apart from this subsection, lawfully permitted to use the name of an individual who previously manufactured, sold, exported or imported the wine—the name of that individual; or
+
+                            (iii)  the name or address of the winery at which the wine was manufactured; and
+
+                     (b)  the name or address, as the case may be, is used in such a way in the description and presentation as to be likely to mislead as to the country, region or locality in which the wine originated.
+
+Not in accordance with prescribed provisions
+
+             (6)  The description and presentation of wine is misleading if it is not in accordance with any provisions relating to the description and presentation of wine as are prescribed for the purposes of this subsection.
+
+Ordinary meaning of misleading not affected
+
+             (7)  Subsections (2), (3), (4), (5) and (6) do not limit what, apart from those subsections, is a misleading description and presentation of wine.
+
+##### <a id="40FA"></a>40FA  Circumstances in which description and presentation is not misleading—general
+
+Inclusion of geographical indication, translation or traditional expression registered for more than one place
+
+             (1)  If:
+
+                     (a)  the description and presentation of wine includes an indication or term that is a registered geographical indication, a registered translation of such an indication, or a registered traditional expression, in relation to a country, region or locality; and
+
+                     (b)  the wine originated in that country, region or locality; and
+
+                     (c)  the description and presentation indicates that the wine originated in that country, region or locality;
+
+then the description and presentation is not misleading merely because the indication or term is, or resembles, a registered geographical indication, a registered translation of such an indication, or a registered traditional expression, in relation to another country, region or locality. 
+
+Inclusion of common English word or term
+
+             (2)  If:
+
+                     (a)  the description and presentation of wine includes a word or term that is a registered geographical indication, a registered translation of such an indication, or a registered traditional expression, in relation to a country, region or locality; and
+
+                     (b)  the word or term is a common English word or term; and
+
+                     (c)  the word or term is not used in such a way as to indicate that the wine originated in the country, region or locality in relation to which the geographical indication, translation or traditional expression is registered; and
+
+                     (d)  the description and presentation indicates the country, region or locality in which the wine originated; and
+
+                     (e)  the word or term is used in good faith;
+
+then the description and presentation is not misleading merely because it includes the word or term.
+
+##### <a id="40FB"></a>40FB  Circumstances in which description and presentation is not misleading—inclusion of registered traditional expressions
+
+Inclusion of registered quality wine term
+
+             (1)  If:
+
+                     (a)  the description and presentation of wine includes a registered quality wine term; and
+
+                     (b)  the wine originated in Australia; and
+
+                     (c)  the description and presentation indicates that the wine originated in Australia or in a region or locality in Australia; and
+
+                     (d)  the registered quality wine term is also a registered traditional expression; and
+
+                     (e)  the wine is in a category of wine in relation to which the expression is registered;
+
+then the description and presentation is not misleading merely because it includes the registered quality wine term.
+
+Inclusion of trade mark
+
+             (2)  If:
+
+                     (a)  the description and presentation of wine includes a trade mark; and
+
+                     (b)  the trade mark contains or consists of a registered traditional expression; and
+
+                     (c)  before the protection date for the traditional expression:
+
+                              (i)  the trade mark had been entered in good faith in the Register of Trade Marks; or
+
+                             (ii)  the owner of the trade mark had acquired rights in the trade mark through use in good faith;
+
+then the description and presentation is not misleading merely because it includes that trade mark.
+
+Inclusion of business name
+
+             (3)  If:
+
+                     (a)  the description and presentation of wine includes a business name; and
+
+                     (b)  the business name contains or consists of a registered traditional expression; and
+
+                     (c)  the business name was registered in good faith under the law of a State or Territory before the protection date for the traditional expression;
+
+then the description and presentation is not misleading merely because it includes that business name.
+
+             (4)  Subsection (3) does not limit subsection 40F(5).
+
+#### Subdivision C—Other provisions relating to sale, export or import of wine
+
+##### <a id="40G"></a>40G  Sale, export or import of wine in contravention of registered conditions of use
+
+             (1)  A person commits an offence if:
+
+                     (a)  the person sells, exports or imports wine; and
+
+                     (b)  the wine is sold, exported or imported by the person in trade or commerce with a description and presentation that:
+
+                              (i)  includes an indication or term that is a registered geographical indication, a registered translation of such an indication, a registered traditional expression, a registered quality wine term or a registered additional term; and
+
+                             (ii)  does not comply with any registered conditions of use applicable to that geographical indication, translation, traditional expression, quality wine term or additional term (as the case may be).
+
+                    Penalty:  Imprisonment for 1 year.
+
+Note:          A court may impose a maximum fine of 60 penalty units instead of, or in addition to, a term of imprisonment. A body corporate that is convicted of an offence may be fined up to 5 times that maximum fine. (See subsections 4B(2) and (3) of the _Crimes Act 1914_.)
+
+Indication or term registered for more than one place
+
+             (2)  Subsection (1) does not apply if:
+
+                     (a)  the indication or term is registered in one or more Parts of the Register in relation to one or more countries, regions or localities; and
+
+                     (b)  the description and presentation complies with the registered conditions of use applicable to the indication or term as registered in one of those Parts for one of those countries, regions or localities; and
+
+                     (c)  the wine originated in that country, region or locality; and
+
+                     (d)  the description and presentation indicates that the wine originated in that country, region or locality.
+
+Note:          The defendant bears an evidential burden in relation to the matters in this subsection. (See subsection 13.3(3) of the _Criminal Code_.)
+
+Indication or term is registered additional term for particular wine
+
+             (3)  Subsection (1) also does not apply if:
+
+                     (a)  the indication or term is a registered additional term for a particular wine and is also either or both of the following:
+
+                              (i)  a registered additional term for another particular wine;
+
+                             (ii)  registered in one or more Parts of the Register in relation to one or more countries, regions or localities; and
+
+                     (b)  the description and presentation complies with the registered conditions of use that are applicable to the indication or term as registered:
+
+                              (i)  for one of those particular wines; or
+
+                             (ii)  in one of those Parts for one of those countries, regions or localities; and
+
+                     (c)  either:
+
+                              (i)  if subparagraph (b)(i) applies—the wine is the particular wine; or
+
+                             (ii)  if subparagraph (b)(ii) applies—the wine originated in that country, region or locality, and the description and presentation indicates that the wine originated in that country, region or locality.
+
+Note:          The defendant bears an evidential burden in relation to the matters in this subsection. (See subsection 13.3(3) of the _Criminal Code_.)
+
+## 38  Subsection 40J(1) (definition of _the offence provisions_)
+
+Repeal the definition, substitute:
+
+                    <a name="offenc-provision"></a>**_the offence provisions_** means subsections 40C(1), 40E(1) and 40G(1).
+
+## 39  Subsection 40K(1)
+
+Omit “, 40G or 40H”, substitute “or 40G”.
+
+## 40  Paragraphs 40K(1)(b) and (c)
+
+Omit “an agreement country”, substitute “a designated foreign country”.
+
+## 41  At the end of section 40K
+
+Add:
+
+             (3)  In this Act:
+
+                    <a name="design-foreign-countri"></a>**_designated foreign country_** means a foreign country in relation to which a geographical indication, translation of such an indication, traditional expression, or additional term is registered.
+
+## 42  Subsection 40M(1)
+
+Repeal the subsection, substitute:
+
+National food standard modified
+
+             (1)  A national food standard that applies to wine has effect, in relation to wine that originates in any foreign country, as if any requirement in the standard to comply with particular oenological practices or processes, or compositional requirements, in relation to wine were replaced by a requirement to comply with the replacement practices, processes or requirements under either subsection (1A) or (1B).
+
+Practices, processes and requirements set out in wine-trading agreements
+
+          (1A)  The replacement practices, processes or requirements under this subsection are:
+
+                     (a)  subject to paragraph (b), the oenological practices or processes, or compositional requirements, set out in a prescribed wine-trading agreement as in force or existing from time to time; or
+
+                     (b)  if, in accordance with such an agreement, Australia has been notified of the authorisation of modifications of the oenological practices or processes, or compositional requirements, set out in the agreement—the oenological practices or processes, or compositional requirements, as so modified.
+
+Practices, processes and requirements prescribed by the regulations
+
+          (1B)  The replacement practices, processes or requirements under this subsection are the oenological practices or processes, or compositional requirements, prescribed by the regulations in relation to wine originating in any foreign country.
+
+          (1C)  Regulations made for the purposes of subsection (1B):
+
+                     (a)  must not prescribe oenological practices or processes, or compositional requirements, in relation to wine originating in any foreign country unless the oenological practices or processes, or compositional requirements, apply to wine under the laws and regulations of a foreign country; and
+
+                     (b)  may prescribe oenological practices or processes, or compositional requirements, by applying, adopting or incorporating (with or without modification) a written instrument or other document:
+
+                              (i)  as in force or existing at a particular time; or
+
+                             (ii)  as in force or existing from time to time.
+
+_Note:       The heading to section 40M is altered by omitting “agreement” and substituting “foreign”._
+
+## 43  Subsection 40M(2)
+
+Omit “or other”.
+
+_Note:       The following heading to subsection 40M(2) is inserted “Minister may suspend operation of section”._
+
+## 44  Paragraph 40P(1)(b)
+
+After “Part”, insert “(including determining any conditions of use applicable to such GIs)”.
+
+## 45  At the end of paragraph 40P(1)(d)
+
+Add “or under the regulations”.
+
+## 46  Subsection 40PA(1) (note)
+
+Repeal the note, substitute:
+
+Note:          Geographical indications, and translations of such indications, in relation to wine originating in a foreign country are not determined under this Division. They are determined by the Committee under regulations made for the purposes of Division 4B (unless they are in a prescribed wine-trading agreement).
+
+## 47  At the end of section 40PA
+
+Add:
+
+             (3)  The regulations may modify the operation of this Division to remove any inconsistency with the operation of regulations made for the purposes of Division 4B.
+
+## 48  Section 40RB
+
+Omit “word or expression” (wherever occurring), substitute “word, expression or other indication”.
+
+## 49  Paragraph 40T(1)(b)
+
+Omit “word or expression”, substitute “indication”.
+
+## 50  At the end of subsection 40T(1)
+
+Add:
+
+             ; and (c)  determine any conditions of use that are to be applicable to the geographical indication.
+
+## 51  Paragraph 40T(3)(b)
+
+Omit “a word or expression” (wherever occurring), substitute “an indication”.
+
+## 52  Division 4A of Part VIB (heading)
+
+Repeal the heading, substitute:
+
+#### Division 4A—Omission of Australian registered geographical indications
+
+## 53  At the end of subsection 40ZAA(1)
+
+Add:
+
+Note:          Determinations for the omission of geographical indications, and translations of such indications, in relation to wine originating in a foreign country are not made under this Division. They are made by the Committee under regulations made for the purposes of Division 4B.
+
+## 54  At the end of section 40ZAA
+
+Add:
+
+             (3)  The regulations may modify the operation of this Division to remove any inconsistency with the operation of regulations made for the purposes of Division 4B.
+
+## 55  After Division 4A of Part VIB
+
+Insert:
+
+#### Division 4B—Foreign geographical indications and translations
+
+##### <a id="40ZAQ"></a>40ZAQ  Determination of foreign geographical indications and translations
+
+             (1)  The regulations may make provision for and in relation to the determination of geographical indications, and translations of geographical indications, in relation to wine originating in a foreign country.
+
+Role of Committee
+
+             (2)  Without limiting subsection (1), the regulations may:
+
+                     (a)  provide for the Committee to deal with applications for the determination of geographical indications, and translations of such indications, in relation to wine originating in a foreign country or a region or locality in a foreign country; and
+
+                     (b)  provide for the Committee to make determinations of such indications and translations (including determining any conditions of use applicable to such indications and translations); and
+
+                     (c)  set out criteria for use by the Committee in making such determinations; and
+
+                     (d)  provide for review by the Administrative Appeals Tribunal of such determinations.
+
+Role of Registrar of Trade Marks
+
+             (3)  Without limiting subsection (1), the regulations may also:
+
+                     (a)  provide for objections to be made to the Registrar of Trade Marks in relation to the determination of proposed geographical indications, and translations of such indications, in relation to wine originating in a foreign country or a region or locality in a foreign country; and
+
+                     (b)  set out the grounds on which such objections may be made; and
+
+                     (c)  set out the procedure to be followed in dealing with such objections (including the charging of fees, the holding of hearings and the taking of evidence); and
+
+                     (d)  provide for the Registrar of Trade Marks to make recommendations to the Committee in relation to the determination of the proposed indications and translations.
+
+##### <a id="40ZAR"></a>40ZAR  Appeals against decisions of Registrar of Trade Marks
+
+             (1)  An appeal lies to the Federal Court against such decisions of the Registrar of Trade Marks as are prescribed by the regulations (being decisions under regulations made for the purposes of subsection 40ZAQ(3)).
+
+             (2)  The jurisdiction of the Federal Court to hear and determine appeals against prescribed decisions is exclusive of the jurisdiction of any other court except the jurisdiction of the High Court under section 75 of the Constitution.
+
+             (3)  On hearing an appeal against a prescribed decision, the Federal Court may do any one or more of the following:
+
+                     (a)  admit further evidence orally, or on affidavit or otherwise;
+
+                     (b)  permit the examination and cross-examination of witnesses, including witnesses who gave evidence before the Registrar of Trade Marks;
+
+                     (c)  order an issue of fact to be tried as it directs;
+
+                     (d)  affirm, reverse or vary the prescribed decision;
+
+                     (e)  give any judgment, or make any order, that, in all the circumstances, it thinks fit;
+
+                      (f)  order a party to pay costs to another party.
+
+             (4)  The Registrar of Trade Marks may appear and be heard at the hearing of an appeal to the Federal Court against a prescribed decision.
+
+             (5)  Except with the leave of the Federal Court, an appeal does not lie to the Full Court of the Federal Court against a decision of a single judge of the Federal Court in the exercise of its jurisdiction to hear and determine appeals against prescribed decisions.
+
+             (6)  The regulations may make provision about the practice and procedure of the Federal Court in a proceeding under this section, including provision:
+
+                     (a)  prescribing the time for starting the action or proceeding or for doing any other act or thing; or
+
+                     (b)  for an extension of that time.
+
+##### <a id="40ZAS"></a>40ZAS  Decisions not to affect rights under Trade Marks Act
+
+                   A decision made under section 40ZAR, or under regulations made for the purposes of section 40ZAQ, does not:
+
+                     (a)  create or affect a right under the _Trade Marks Act 1995_ or at common law in respect of a trade mark; or
+
+                     (b)  in any way pre-empt or affect a decision of the Registrar of Trade Marks under the _Trade Marks Act 1995_ in respect of a pending application for the registration of a trade mark.
+
+##### <a id="40ZAT"></a>40ZAT  Determinations for the omission from the Register of foreign geographical indications and translations
+
+             (1)  The regulations may make provision for and in relation to the omission from the Register of registered geographical indications, and registered translations of such indications, in relation to a foreign country or a region or locality in a foreign country.
+
+             (2)  Without limiting subsection (1), the regulations may:
+
+                     (a)  provide for the Committee to deal with applications for the omission from the Register of registered geographical indications, and registered translations of such indications, in relation to a foreign country or a region or locality in a foreign country; and
+
+                     (b)  provide for the Committee to make determinations for the omission from the Register of such indications and translations; and
+
+                     (c)  set out the grounds on which such determinations may be made; and
+
+                     (d)  provide for review by the Administrative Appeals Tribunal of such determinations.
+
+## 56  Division 5 of Part VIB (heading)
+
+Repeal the heading, substitute:
+
+### Division 5—Register of Protected Geographical Indications and Other Terms
+
+## 57  Subsection 40ZA(1)
+
+Repeal the subsection, substitute:
+
+             (1)  There is to be a Registrar of Protected Geographical Indications and Other Terms.
+
+## 58  Paragraph 40ZB(a)
+
+Omit “Register of Protected Names”, substitute “Register of Protected Geographical Indications and Other Terms”.
+
+## 59  Paragraph 40ZB(b)
+
+Omit “enter”, substitute “include”.
+
+## 60  Paragraph 40ZB(e)
+
+Repeal the paragraph, substitute:
+
+                     (e)  in accordance with the directions of the Corporation or the Committee, to notify authorities and organisations in foreign countries of the geographical indications, translations of such indications, traditional expressions and additional terms included in the Register.
+
+## 61  Subsection 40ZC(1)
+
+Omit “Register of Protected Names”, substitute “Register of Protected Geographical Indications and Other Terms”.
+
+_Note:       The heading to section 40ZC is replaced by the heading “Register of Protected Geographical Indications and Other Terms”._
+
+## 62  Subsections 40ZD(1) and (2)
+
+Repeal the subsections, substitute:
+
+Parts of the Register
+
+             (1)  The Register is to be divided into 4 parts as follows:
+
+                     (a)  Part 1 is to include:
+
+                              (i)  geographical indications in relation to wines originating in Australia, and any conditions of use applicable to those indications; and
+
+                             (ii)  geographical indications in relation to wines originating in a foreign country, any translations of those indications, and any conditions of use applicable to those indications or translations;
+
+                     (b)  Part 2 is to include traditional expressions in relation to wines originating in a foreign country, and any conditions of use applicable to those expressions;
+
+                     (c)  Part 3 is to include quality wine terms in relation to wines originating in Australia, and any conditions of use applicable to those terms;
+
+                     (d)  Part 4 is to include other terms (not being geographical indications, translations of geographical indications, traditional expressions, or terms referred to in paragraph (c)), in relation to wines, and any conditions of use applicable to those terms.
+
+Particulars that must be included in Part 1 of the Register
+
+             (2)  The Registrar must include in Part 1 of the Register (geographical indications), in accordance with the directions of the Corporation, the following particulars:
+
+                     (a)  in relation to Australia:
+
+                              (i)  Australia; and
+
+                             (ii)  the name of each State and internal Territory; and
+
+                            (iii)  any geographical indication determined by the Committee under Division 4 to be a geographical indication in relation to wines originating in Australia; and
+
+                            (iv)  any region or locality in relation to which such a geographical indication is determined; and
+
+                             (v)  any conditions of use applicable to such a geographical indication;
+
+                     (b)  in relation to an agreement country:
+
+                              (i)  each geographical indication that, under a prescribed wine-trading agreement to which that country is a party, is a geographical indication in relation to wines originating in that country; and
+
+                             (ii)  any translation, recognised by that wine-trading agreement, of each such geographical indication; and
+
+                            (iii)  any region or locality in relation to which each such geographical indication is to be registered; and
+
+                            (iv)  any conditions of use applicable to a geographical indication referred to in subparagraph (i) or a translation referred to in subparagraph (ii);
+
+                     (c)  in relation to a foreign country (whether or not an agreement country):
+
+                              (i)  any geographical indication determined by the Committee, under regulations made for the purposes of Division 4B, to be a geographical indication in relation to wines originating in that country; and
+
+                             (ii)  any translation determined by the Committee, under regulations made for the purposes of Division 4B, to be a translation of such a geographical indication; and
+
+                            (iii)  any region or locality in relation to which each such geographical indication is determined; and
+
+                            (iv)  any conditions of use applicable to a geographical indication referred to in subparagraph (i) or a translation referred to in subparagraph (ii).
+
+Particulars that must be included in Part 2 of the Register
+
+          (2A)  The Registrar must include in Part 2 of the Register (traditional expressions), in accordance with the directions of the Corporation, the following particulars:
+
+                     (a)  in relation to an agreement country:
+
+                              (i)  each traditional expression that is listed in relation to wines originating in that country in a prescribed wine-trading agreement to which that country is a party; and
+
+                             (ii)  each wine originating in that country that is listed in that wine-trading agreement in relation to each such traditional expression; and
+
+                            (iii)  each category of wine that is listed in that wine-trading agreement in relation to each such traditional expression; and
+
+                            (iv)  each language that is listed in that wine-trading agreement in relation to each such traditional expression; and
+
+                             (v)  any conditions of use applicable to each such traditional expression;
+
+                     (b)  in relation to a foreign country (whether or not an agreement country):
+
+                              (i)  each traditional expression that is listed in the laws and regulations of that country for the purpose of the description and presentation of wines originating in that country, and that is determined by the Corporation; and
+
+                             (ii)  each wine originating in that country that is listed in those laws and regulations in relation to such a traditional expression; and
+
+                            (iii)  each category of wine that is listed in those laws and regulations in relation to such a traditional expression; and
+
+                            (iv)  each language that is listed in those laws and regulations in relation to such a traditional expression; and
+
+                             (v)  any conditions of use applicable to each such traditional expression.
+
+Particulars that must be included in Part 3 of the Register
+
+          (2B)  The Registrar must include in Part 3 of the Register (quality wine terms), in accordance with the directions of the Corporation, the following particulars:
+
+                     (a)  each term (a **_quality wine term_**) that, under a prescribed wine-trading agreement to which Australia is a party, is a quality wine term in relation to wines originating in Australia;
+
+                     (b)  any region or locality in relation to which each such term is to be registered;
+
+                     (c)  any conditions of use applicable to each such term.
+
+Particulars that must be included in Part 4 of the Register
+
+          (2C)  The Registrar must include in Part 4 of the Register (additional terms), in accordance with the directions of the Corporation, the following particulars:
+
+                     (a)  in relation to Australia:
+
+                              (i)  each term (other than a geographical indication or a quality wine term) that, under a prescribed wine-trading agreement to which Australia is a party, is required to be protected for the purpose of the description and presentation of wine originating in Australia; and
+
+                             (ii)  any other term that the Corporation has determined is required to be protected for the purpose of the description and presentation of wine originating in Australia; and
+
+                            (iii)  any region or locality in relation to which a term referred to in subparagraph (i) or (ii) is to be registered; and
+
+                            (iv)  any conditions of use applicable to a term referred to in subparagraph (i) or (ii);
+
+                     (b)  in relation to an agreement country:
+
+                              (i)  each term (other than a geographical indication, a translation of a geographical indication, or a traditional expression) that, under a prescribed wine-trading agreement to which that country is a party, is required to be protected for the purpose of the description and presentation of wine originating in that country; and
+
+                             (ii)  any region or locality in relation to which each such term is to be registered; and
+
+                            (iii)  any conditions of use applicable to each such term;
+
+                     (c)  in relation to a foreign country (whether or not an agreement country):
+
+                              (i)  each term (other than a geographical indication, a translation of a geographical indication, or a traditional expression) that is recognised in the laws and regulations of that country for the purpose of the description and presentation of wine originating in that country, and that is determined by the Corporation; and
+
+                             (ii)  any region or locality in relation to which each such term is to be registered; and
+
+                            (iii)  any conditions of use applicable to each such term;
+
+                     (d)  any other term (not being a geographical indication, a translation of a geographical indication, a traditional expression or a quality wine term) that the Corporation has determined is required to be protected in relation to particular wines, and any conditions of use applicable to those terms.
+
+## 63  Paragraph 40ZD(3)(a)
+
+After “Division 4”, insert “or under regulations made for the purposes of Division 4B”.
+
+## 64  Clause 1 of the Schedule (definition of _nominated member_)
+
+Omit “or (c)”, substitute “, (c) or (d)”.
+
+## 65  Subclause 2(1) of the Schedule
+
+Omit “3 members as follows”, substitute “the following members”.
+
+## 66  At the end of subclause 2(1) of the Schedule
+
+Add:
+
+                   ; (d)  any other member prescribed by the regulations for the purposes of this paragraph.
+
+## 67  At the end of subclause 10(3) of the Schedule
+
+Add:
+
+Note:          A different quorum may be prescribed by the regulations if the Committee has more than 3 members. (See subclause (10).)
+
+## 68  At the end of subclause 10(7) of the Schedule
+
+Add:
+
+Note:          A different process for resolving questions may be prescribed by the regulations if the Committee has more than 3 members. (See subclause (10).)
+
+## 69  At the end of clause 10 of the Schedule
+
+Add:
+
+           (10)  If one or more members are prescribed by the regulations for the purposes of paragraph 2(1)(d):
+
+                     (a)  the number of members that constitutes a quorum at a meeting of the Committee is the number (being a number greater than 2) prescribed by the regulations for the purposes of this paragraph; and
+
+                     (b)  if members who are present at a meeting of the Committee are unable to agree on a question, the process that is to apply is the process prescribed by the regulations for the purposes of this paragraph.
+
+## Schedule 2
+
+## 1  Subsection 4(1)
+
+Insert:
+
+                    <a name="blend"></a>**_blend_** means wine manufactured by blending wines of different vintages, varieties or geographical indications.
+
+## 2  Subsection 4(1)
+
+Insert:
+
+                    <a name="direct-sale"></a>**_direct sale_** means a sale of wine goods to a consumer.
+
+## 3  Subsection 4(1)
+
+Insert:
+
+                    <a name="examin-docum"></a>**_examinable document_** means:
+
+                     (a)  any document required to be kept:
+
+                              (i)  in relation to Part VIA—under Part VIA; or
+
+                             (ii)  in relation to Part VIB—under Part VIB; or
+
+                            (iii)  in relation to Part VII—under Part VII; or
+
+                     (b)  any wine label or other document relating to the vintage, variety or geographical indication of wine goods; or
+
+                     (c)  any document relating to advertising the vintage, variety or geographical indication of wine goods; or
+
+                     (d)  any other document that is relevant to monitoring or enforcing compliance with a label law.
+
+## 4  Subsection 4(1)
+
+Insert:
+
+                    <a name="grape-extract"></a>**_grape extract_** means grape juice, must, or concentrate obtained from grapes.
+
+## 5  Subsection 4(1)
+
+Insert:
+
+                    <a name="inspect-power"></a>**_inspection power_**, in relation to wine premises, means:
+
+                     (a)  power to search any part of the premises; or
+
+                     (b)  power to inspect, examine, take measurements of, or conduct tests (including by the taking of samples) concerning, any wine goods or other thing on the premises; or
+
+                     (c)  power to take extracts from, and make copies of, any examinable documents on the premises; or
+
+                     (d)  power to take onto the premises such equipment and materials as the inspector requires for the purpose of exercising any other inspection power on the premises.
+
+## 6  Subsection 4(1)
+
+Insert:
+
+                    <a name="inspector"></a>**_inspector_** means a person appointed under section 39ZA.
+
+## 7  Subsection 4(1)
+
+Insert:
+
+                    <a name="label-claim"></a>**_label claim_**, in relation to wine goods:
+
+                     (a)  means a written claim that is made or implied about the wine goods’ vintage, variety or prescribed  geographical indication, including such a claim that is made or implied:
+
+                              (i)  on a label; or
+
+                             (ii)  in a record that is required to be kept under section 39F; or
+
+                            (iii)  in any other commercial document; or
+
+                            (iv)  in an advertisement; and
+
+                     (b)  includes such a claim about the vintage, variety or prescribed geographical indication of any other wine goods from which the wine goods were manufactured.
+
+## 8  Subsection 4(1)
+
+Insert:
+
+                    <a name="label-law"></a>**_label law_** means:
+
+                     (a)  in relation to Part VIA:
+
+                              (i)  that Part; and
+
+                             (ii)  regulations made for the purposes of that Part; and
+
+                            (iii)  another law of the Commonwealth relating to the description of wine goods; and
+
+                            (iv)  a law of a State or an internal Territory relating to the description of wine goods; and
+
+                     (b)  in relation to Part VIB:
+
+                              (i)  Part VIB; and
+
+                             (ii)  regulations made for the purposes of Part VIB; and
+
+                     (c)  in relation to Part VII—regulations made under this Act relating to the export of grape products from Australia.
+
+## 9  Subsection 4(1)
+
+Insert:
+
+                    <a name="label-offenc"></a>**_label offence_** means:
+
+                     (a)  in relation to Part VIA—an offence against a label law (within the meaning of paragraph (a) of the definition of **_label law_**); and
+
+                     (b)  in relation to Part VIB—an offence against a label law (within the meaning of paragraph (b) of the definition of **_label law_**); and
+
+                     (c)  in relation to Part VII—an offence against section 44.
+
+## 10  Subsection 4(1)
+
+Insert:
+
+                    <a name="manufactur"></a>**_manufacture_** wine includes making a blend.
+
+## 11  Subsection 4(1)
+
+Insert:
+
+                    <a name="manufactur"></a>**_manufacturer_** of wine goods means a person who operates an establishment at which:
+
+                     (a)  wine is manufactured; or
+
+                     (b)  grape extract is manufactured, being grape extract that is used or intended to be used in manufacturing wine; or
+
+                     (c)  wine goods are otherwise processed, modified or packaged.
+
+## 12  Subsection 4(1) (definition of _originate_)
+
+After “wine”, insert “or grape extract that is used or intended to be used in manufacturing wine”.
+
+## 13  Subsection 4(1)
+
+Insert:
+
+                    <a name="packag"></a>**_package_**, in relation to wine, means a container in which the wine is sold or transferred for sale.
+
+## 14  Subsection 4(1)
+
+Insert:
+
+                    <a name="prescrib-geograph-indic"></a>**_prescribed geographical indication_** means a geographical indication that is prescribed by the regulations for the purposes of this definition.
+
+## 15  Subsection 4(1)
+
+Insert:
+
+                    <a name="princip-employe"></a>**_principal employee_** means the person holding the position of principal employee (however described) of the Corporation.
+
+## 16  Subsection 4(1)
+
+Insert:
+
+                    <a name="relev-agenc"></a>**_relevant agency_** has the meaning given by section 39ZL.
+
+## 17  Subsection 4(1)
+
+Insert:
+
+                    <a name="varieti"></a>**_variety_**, in relation to wine or grape extract, means the variety of the grapes from which the wine or grape extract was obtained.
+
+## 18  Subsection 4(1)
+
+Insert:
+
+                    <a name="vintag"></a>**_vintage_** means:
+
+                     (a)  in relation to grapes—the year (within the ordinary meaning of the term, as affected by subsection (2A)) in which the grapes were harvested; or
+
+                     (b)  in relation to wine or grape extract—the year (within the ordinary meaning of the term, as affected by subsection (2A)) in which the grapes from which the wine or extract was manufactured or obtained were harvested.
+
+## 19  Subsection 4(1)
+
+Insert:
+
+                    <a name="wine-good"></a>**_wine goods_** means:
+
+                     (a)  wine; or
+
+                     (b)  grapes, or grape extract, used or intended to be used in manufacturing wine.
+
+## 20  Subsection 4(1)
+
+Insert:
+
+                    <a name="wine-label"></a>**_wine label_** means a label attached to, or writing or other sign appearing on, a bottle or other package of wine.
+
+## 21  Subsection 4(1)
+
+Insert:
+
+                    <a name="wine-premis"></a>**_wine premises_** means any premises, place or conveyance where it is reasonable to assume that wine goods or examinable documents are or might be located.
+
+## 22  Subsection 4(1) (at the end of the definition of _year_)
+
+Add:
+
+Note:          This definition does not apply in relation to the definition of **_vintage_**(see that definition and subsection (2A)).
+
+## 23  Before subsection 4(3)
+
+Insert:
+
+Harvesting grapes
+
+          (2A)  For the purposes of the definition of **_vintage_**, grapes that are harvested on or after 1 July in a calendar year, and before or on 31 December of that calendar year, are taken to have been harvested in the next calendar year.
+
+## 24  Section 5D
+
+Repeal the section, substitute:
+
+##### <a id="5D"></a>5D  Where wine or grape extract originates
+
+                   For the purposes of this Act:
+
+                     (a)  a wine, or a grape extract that is used or intended to be used in manufacturing wine, is taken to have originated in a country only if the wine or extract is made from grapes grown within the territory of that country; and
+
+                     (b)  a wine, or a grape extract that is used or intended to be used in manufacturing wine, is taken to have originated in a particular region or locality of a country only if the wine or extract is made from grapes grown in that region or locality.
+
+## 25  Subsection 30(2)
+
+Omit “person holding the position of principal employee (however described) of the Corporation shall”, substitute “principal employee are to”.
+
+## 26  Subsection 30(3)
+
+Omit “employee referred to in subsection (2), shall”, substitute “principal employee, are to”.
+
+## 27  Sections 39B to 39EA
+
+Repeal the sections, substitute:
+
+##### <a id="39B"></a>39B  Operation of Part
+
+                   Without prejudice to its effect apart from this section, this Part has the effect it would have if the references in it to a person (the **_record keeper_**) to whom this Part applies were, by express provision, confined to:
+
+                     (a)  a record keeper who is one of the following (a **_constitutional corporation or partnership_**):
+
+                              (i)  a foreign corporation, within the meaning of paragraph 51(xx) of the Constitution;
+
+                             (ii)  a trading or financial corporation formed within the limits of the Commonwealth, within the meaning of that paragraph;
+
+                            (iii)  a corporation that is controlled by a corporation described in subparagraph (i) or (ii);
+
+                            (iv)  a partnership in which at least one of the partners is a corporation described in subparagraph (i), (ii) or (iii); or
+
+                     (b)  a record keeper by or through whom a constitutional corporation or partnership carries out its business functions and activities; or
+
+                     (c)  a record keeper who (whether directly or indirectly) supplies wine goods to a constitutional corporation or partnership.
+
+##### <a id="39C"></a>39C  Persons to whom this Part applies
+
+             (1)  This Part applies to the following persons, except as provided by subsection (3):
+
+                     (a)  a person who grows grapes that are wine goods;
+
+                     (b)  a manufacturer of wine goods;
+
+                     (c)  a person who supplies or receives wine goods (including a person who sells the wine goods wholesale or retail or who exports the wine goods);
+
+                     (d)  a person specified by the regulations for the purposes of this section;
+
+                     (e)  an agent who takes possession of wine goods on behalf of a person mentioned in any of paragraphs (a) to (d).
+
+Note:          This Part applies only to the extent that the wine goods originate in Australia (see subsection (4)).
+
+             (2)  For the purposes of paragraph (1)(d), the regulations may specify:
+
+                     (a)  a class of person to whom this Part applies; or
+
+                     (b)  circumstances in which this Part applies to a specified class of person.
+
+             (3)  The regulations may specify that, despite subsection (1), this Part does not apply to:
+
+                     (a)  a specified class of person; or
+
+                     (b)  a specified class of person in specified circumstances.
+
+             (4)  This Part applies only to the extent that the wine goods originate in Australia.
+
+## 28  Sections 39F to 39ZAAA
+
+Repeal the sections, substitute:
+
+##### <a id="39F"></a>39F  Obligation to keep records
+
+             (1)  A person (the **_record keeper_**) to whom this Part applies (under section 39C) must keep written records that show the following details in relation to wine goods:
+
+                     (a)  the identity of the record keeper;
+
+                     (b)  the kind of wine goods to which the record relates;
+
+                     (c)  the date the record keeper receives the wine goods;
+
+                     (d)  the identity of the person from whom the wine goods are received by the record keeper;
+
+                     (e)  the quantity of the wine goods received by the record keeper;
+
+                      (f)  the vintage, variety and prescribed geographical indication of the wine goods received by the record keeper;
+
+                     (g)  details of steps taken by the record keeper that changed or affected any of the following:
+
+                              (i)  the vintage, variety or prescribed geographical indication of the wine goods;
+
+                             (ii)  the tank or other place or thing in which the wine goods were stored;
+
+                            (iii)  the volume of the wine goods stored in any such tank, place or thing;
+
+                     (h)  the date the record keeper supplies the wine goods;
+
+                      (i)  the identity of the person to whom the wine goods are supplied by the record keeper;
+
+                      (j)  the quantity of the wine goods that are supplied by the record keeper;
+
+                     (k)  the vintage, variety and prescribed geographical indication of the wine goods supplied by the record keeper;
+
+                      (l)  any other details in relation to the wine goods that are prescribed by the regulations for the purposes of this section.
+
+Note 1:       Records are required to be kept only to the extent that wine goods originate in Australia (see subsection 39C(4)).
+
+Note 2:       See sections 39G and 39H for additional rules relating to the requirements of this section.
+
+Note 3:       A person commits an offence if the person fails to keep a record in accordance with this subsection (see section 39J).
+
+Period for keeping records
+
+             (2)  A record must be kept under subsection (1) for the period:
+
+                     (a)  beginning:
+
+                              (i)  when the event, circumstance or state of affairs that is required to be recorded occurs; or
+
+                             (ii)  if a record is required to be made before it can be kept—at the end of 3 days after the day that such an event, circumstance or state of affairs occurs; and
+
+                     (b)  ending 7 years after that time.
+
+Note:          A person commits an offence if the person fails to keep a record in accordance with this subsection (see section 39J).
+
+Requirement to provide and keep a copy of a record in relation to supply of wine goods
+
+             (3)  A person who is required to keep a record under subsection (1) must, on the day the person supplies the wine goods, provide a copy of the record kept under paragraphs (1)(h), (j) and (k) to the person to whom the wine goods are supplied (except as provided by subsection 39G(2)).
+
+Note:          A person commits an offence if the person fails to provide a copy of a record in accordance with this subsection (see section 39K).
+
+             (4)  A person to whom wine goods are supplied must keep the copy of the record provided under subsection (3) for the period:
+
+                     (a)  beginning on the day the person receives the copy; and
+
+                     (b)  ending 7 years after that time.
+
+Note:          A person commits an offence if the person fails to keep a copy of a record in accordance with this subsection (see section 39K).
+
+             (5)  To avoid doubt, the same copy of a record may be kept for the purposes of paragraphs (1)(c), (e) and (f) and subsection (4).
+
+##### <a id="39G"></a>39G  When certain details are not required to be kept
+
+Grape growers not required to keep certain records
+
+             (1)  A person who grows grapes is not required to keep a record showing details required under paragraphs 39F(1)(c) to (f) in relation to the grapes grown.
+
+Direct sales
+
+             (2)  A person is not required to keep a record showing details required under paragraphs 39F(1)(h) to (k) in relation to wine goods that are sold by the person in direct sales. However, if the person does not keep such a record, the person must instead keep a record showing:
+
+                     (a)  the period during which wine goods were sold by the person in direct sales; and
+
+                     (b)  the total quantity of those wine goods sold by the person during the period; and
+
+                     (c)  the vintage, variety and prescribed geographical indication of those wine goods sold by the person during the period.
+
+A copy of a record kept in accordance with this section is not required to be provided under subsection 39F(3).
+
+             (3)  The period referred to in paragraph (2)(a) of this section must not be longer than one year.
+
+##### <a id="39H"></a>39H  Details required under section 39F
+
+Variety of wines
+
+             (1)  Details required under paragraph 39F(1)(f) or (k) or subparagraph 39F(1)(g)(i) may show any name by which a variety of wine goods is known (if the variety is known by more than one name).
+
+Identity of a person
+
+             (2)  Details required under paragraph 39F(1)(a),(d) or (i) must include:
+
+                     (a)  sufficient particulars of a person’s name and address to identify the person; and
+
+                     (b)  if the person receives wine goods from or at, or supplies wine goods from or to, a winery—sufficient particulars of the name and address of the winery to identify the winery.
+
+Manufacturing wine
+
+             (3)  Details required under paragraph 39F(1)(g) in relation to wine goods must be in a form that allows:
+
+                     (a)  an audit trail containing a history of the changes to the wine goods to be readily traced from the record; and
+
+                     (b)  details of the steps taken and the results of the steps to be readily checked for discrepancies by following the sequence of the steps recorded.
+
+Blends
+
+             (4)  Details required under subsection 39F(1) in relation to wine that is a blend of wines (the **_blended wines_**) of different vintages, varieties or prescribed geographical indications, must show:
+
+                     (a)  what proportions of the blend are represented by each blended wine; and
+
+                     (b)  the vintage, variety or prescribed geographical indication of each blended wine.
+
+Grape extract
+
+             (5)  Details required under subsection 39F(1) in relation to grape extract derived from grapes of different vintages, varieties or prescribed geographical indications must show:
+
+                     (a)  what proportions of the wine goods are derived from each kind of grape; and
+
+                     (b)  the vintage, variety or prescribed geographical indication of each kind of grape.
+
+##### <a id="39J"></a>39J  Offences relating to record-keeping requirements
+
+Failure to keep a record in accordance with requirements
+
+             (1)  A person commits an offence if:
+
+                     (a)  the person is a person to whom this Part applies; and
+
+                     (b)  the person is required to keep records in relation to wine goods under subsections 39F(1) and (2); and
+
+                     (c)  the person has not kept a record in accordance with subsection 39F(1) or (2), or section 39G or 39H, in relation to the wine goods.
+
+                    Penalty:  2 years imprisonment.
+
+Label claims not supported by records
+
+             (2)  A person commits an offence if:
+
+                     (a)  the person is a person to whom this Part applies; and
+
+                     (b)  the person is required to keep records in relation to wine goods under subsections 39F(1) and (2); and
+
+                     (c)  the person makes a label claim in relation to the wine goods; and
+
+                     (d)  either:
+
+                              (i)  a record kept by the person under those subsections in relation to the wine goods conflicts with the label claim; or
+
+                             (ii)  the records kept by the person under those subsections are inadequate to support the label claim.
+
+                    Penalty:  2 years imprisonment.
+
+Keeping a false or misleading record
+
+             (3)  A person commits an offence if:
+
+                     (a)  the person is a person to whom this Part applies; and
+
+                     (b)  the person is required to keep records under subsections 39F(1) and (2) in relation to wine goods; and
+
+                     (c)  a record kept by the person under those subsections is false or misleading; and
+
+                     (d)  the person knows the record is false or misleading.
+
+                    Penalty:  2 years imprisonment.
+
+             (4)  Subsection (3) does not apply if the record is not false or misleading in a material particular.
+
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (4). (See subsection 13.3(3) of the _Criminal Code_.)
+
+##### <a id="39K"></a>39K  Offences relating to requirement to provide and keep a copy of a record in relation to the supply of wine goods
+
+Failure to provide a copy of a record in relation to the supply of wine goods
+
+             (1)  A person commits an offence if:
+
+                     (a)  the person is a person to whom this Part applies; and
+
+                     (b)  the person is required to provide a copy of a record in relation to wine goods under subsection 39F(3); and
+
+                     (c)  the person does not provide a copy in accordance with that subsection in relation to the wine goods.
+
+                    Penalty:  2 years imprisonment.
+
+Failure to keep a copy of a record in relation to the supply of wine goods
+
+             (2)  A person commits an offence if:
+
+                     (a)  the person is a person to whom this Part applies; and
+
+                     (b)  the person is provided with a copy of a record in relation to wine goods under subsection 39F(4); and
+
+                     (c)  the person does not keep the copy in accordance with that subsection in relation to the wine goods.
+
+                    Penalty:  2 years imprisonment.
+
+##### <a id="39L"></a>39L  Time for bringing prosecutions
+
+                   Despite section 15B of the _Crimes Act 1914_, a prosecution for an offence under:
+
+                     (a)  section 39J may be brought at any time within 7 years after the requirement to keep the relevant record arose; and
+
+                     (b)  section 39K may be brought at any time within 7 years after the requirement to provide or keep a copy of the relevant record arose.
+
+##### <a id="39M"></a>39M  Single wines and blends etc.
+
+                   The prosecution does not have to prove, in relation to wine goods, that the wine goods are:
+
+                     (a)  a blend; or
+
+                     (b)  grape extract derived from grapes of different vintages, varieties or prescribed geographical indications;
+
+in order to prove an offence under section 39J if the prosecution proves that, in either case, the defendant would have committed an offence against that section.
+
+## 29  Subsection 39ZAA(1)
+
+Repeal the subsection, substitute:
+
+             (1)  The Corporation may give a written notice to a person requiring the person, within a specified period and in a specified manner, to do either or both of the following:
+
+                     (a)  if the person’s name and address appears on a wine label as the supplier (within the meaning of the Australia New Zealand Food Standards Code (as defined by the _Food Standards Australia New Zealand Act 1991_)) of the wine—provide specified information in relation to records that this Division requires to be kept;
+
+                     (b)  if the Corporation has reason to believe that the person holds or controls a record that this Division requires to be kept—produce the record to the Corporation.
+
+## 30  Section 39ZAB
+
+Repeal the section, substitute:
+
+##### <a id="39ZAB"></a>39ZAB  Failure to comply with section 39ZAA notice
+
+             (1)  A person commits an offence if:
+
+                     (a)  the person is given a notice under section 39ZAA; and
+
+                     (b)  the person refuses or fails to comply with the notice.
+
+                    Penalty:  2 years imprisonment.
+
+             (2)  Subsection (1) does not apply if complying with the notice would tend to incriminate the person.
+
+Note:          A defendant bears an evidential burden in relation to the matters in subsection (2). (See subsection 13.3(3) of the _Criminal Code_.)
+
+## 31  Paragraph 39ZB(2)(b)
+
+Omit “an approved form”, substitute “a form approved by the Corporation”.
+
+## 32  Paragraph 39ZJ(1)(c)
+
+Repeal the paragraph, substitute:
+
+                     (c)  a person who is prosecuting (or proposing to prosecute), or taking (or proposing to take) other proceedings against, a person under section 39J or 39K.
+
+## 33  Subsections 39ZL(1A) and (2)
+
+Repeal the subsections, substitute:
+
+             (2)  The Corporation may, with a person’s consent, give to a relevant agency information that is:
+
+                     (a)  kept by, or held on behalf of, the person; and
+
+                     (b)  obtained by the Corporation under this Part.
+
+             (3)  A person is taken to have consented to giving information under subsection (2) if the occupier of the wine premises where the information is kept or held gave such consent.
+
+             (4)  In this Act:
+
+                    <a name="relev-agenc"></a>**_relevant agency_** means an Agency (within the meaning of the _Public Service Act 1999_) with responsibilities relating to the levy or charge.
+
+## 34  Section 40ZF
+
+Repeal the section, substitute:
+
+##### <a id="40ZF"></a>40ZF  Inspection powers
+
+                   The provisions of Part VIA relating to inspections, including Division 4 of that Part, apply in relation to this Part in the same way as they apply in relation to Part VIA.
+
+## 35  Subsection 44(2)
+
+Repeal the subsection, substitute:
+
+             (2)  The provisions of Part VIA relating to inspections, including Division 4 of that Part, apply in relation to this section in the same way as they apply in relation to that Part.
+
+The following amendment commences on 1 September 2010:
+
+## Schedule 3
+
+## 18  Paragraphs 44AB(3)(d) and (e)
+
+Omit “an agreement”, substitute “a designated foreign”.
+
+As at 3 August 2010 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -7476,6 +8098,22 @@ The amendment made by item 7  applies in relation to the operations of the Com
 
 _Australian Wine and Brandy Corporation Amendment Act 2010 
  (No. 98, 2010)_
+
+## Schedule 3
+
+## 19  Preservation of injunctions
+
+The repeal of section 40L of the _Australian Wine and Brandy Corporation Act 1980_ by item 12 of this Schedule does not affect the continuity of any injunction that is in force under that section immediately before the commencement of this Part.
+
+## 20  Application of item 14
+
+The amendment made by item 14 of this Schedule applies to the export of a grape product from Australia after the commencement of this Part.
+
+## 21  Application of item 15
+
+The amendment made by item 15 of this Schedule applies to conduct engaged in, or proposed to be engaged in, after the commencement of this Part.
+
+The following provisions commence on 1 September 2010 (_see_ F2010L02117):
 
 ## Schedule 1
 
@@ -7594,20 +8232,6 @@ The amendment made by the item of this Schedule listed in column 1 of the table 
   </td>
 </tr></table>
 
-## Schedule 3
-
-## 19  Preservation of injunctions
-
-The repeal of section 40L of the _Australian Wine and Brandy Corporation Act 1980_ by item 12 of this Schedule does not affect the continuity of any injunction that is in force under that section immediately before the commencement of this Part.
-
-## 20  Application of item 14
-
-The amendment made by item 14 of this Schedule applies to the export of a grape product from Australia after the commencement of this Part.
-
-## 21  Application of item 15
-
-The amendment made by item 15 of this Schedule applies to conduct engaged in, or proposed to be engaged in, after the commencement of this Part.
-
 ## Table B
 
 ### Modifications
@@ -7626,6 +8250,6 @@ _A.C.T. Self-Government (Consequential Provisions) Regulations _
 
                      (b)  in relation to the Northern   Territory—the Legislative Assembly of the Territory;
 
-                    <a name="state"></a>**_State_** includes the Australian Capital Territory and the Northern Territory.
+                    <a name="state"></a>**_State_** includes the Australian Capital   Territory and the Northern Territory.
 
  
