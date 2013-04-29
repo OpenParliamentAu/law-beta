@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00049/Html/d6f3f6b7-5a71-4f20-9941-e472829d12e6_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00729/Html/c0536b5f-ef9b-422d-b7fc-ff6a80976924_files/image001.gif)
 
 # Criminology Research Act 1971
 
 **Act No. 15 of 1971 as amended**
 
-This compilation was prepared on 27 December 2011
+This compilation was prepared on 8 September 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force 
@@ -20,61 +20,61 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part I—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                         1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[4](#4).            Interpretation
+[4](#4).            Interpretation                                                                                        1
 
 **Part II—The Australian Institute of Criminology** 
 
     **Division 1—Establishment, functions and powers of Institute**
 
-[5](#5).            Establishment of Institute
+[5](#5).            Establishment of Institute                                                                     3
 
-[6](#6).            Functions of Institute
+[6](#6).            Functions of Institute                                                                           3
 
-[6A](#6A).         Power of Attorney‑General to request Institute to perform certain functions
+[6A](#6A).         Power of Attorney‑General to request Institute to perform certain functions           3
 
     **Division 3—Director, Acting Director and staff of Institute**
 
-[15](#15).          Director of Institute
+[15](#15).          Director of Institute                                                                              5
 
-[16](#16).          Functions of Director
+[16](#16).          Functions of Director                                                                           5
 
-[17](#17).          Tenure of office of Director
+[17](#17).          Tenure of office of Director                                                                 6
 
-[18](#18).          Remuneration and allowances of Director
+[18](#18).          Remuneration and allowances of Director                                            6
 
-[19](#19).          Leave of absence of Director
+[19](#19).          Leave of absence of Director                                                                7
 
-[20](#20).          Termination of appointment of Director
+[20](#20).          Termination of appointment of Director                                               7
 
-[21](#21).          Vacation of office of Director
+[21](#21).          Vacation of office of Director                                                              7
 
-[22](#22).          Acting Director
+[22](#22).          Acting Director                                                                                    7
 
-[23](#23).          Staff of the Institute
+[23](#23).          Staff of the Institute                                                                              8
 
-[24](#24).          Consultants
+[24](#24).          Consultants                                                                                          9
 
 **Part III—Criminology Research Advisory Council**
 
-[33](#33).          Criminology Research Advisory Council
+[33](#33).          Criminology Research Advisory Council                                          10
 
-[34](#34).          Meetings of the Advisory Council
+[34](#34).          Meetings of the Advisory Council                                                     10
 
 **Part V—Miscellaneous**
 
-[46](#46).          Criminology Research Special Account
+[46](#46).          Criminology Research Special Account                                             11
 
-[47](#47).          Institute may charge for services
+[47](#47).          Institute may charge for services                                                        12
 
-[48](#48).          Delegation by Director
+[48](#48).          Delegation by Director                                                                       12
 
-[49](#49).          Annual report
+[49](#49).          Annual report                                                                                     12
 
-[51](#51).          Regulations
+[51](#51).          Regulations                                                                                        12
 
 **Notes** 
 
@@ -244,13 +244,29 @@ the Attorney‑General shall remove the Director from office.
 
 ##### <a id="22"></a>22  Acting Director
 
-                   The Attorney‑General may appoint a person to act as Director:
+             (1)  The Attorney‑General may appoint a person to act as Director:
 
                      (a)  during a vacancy in the office of Director; or
 
-                     (b)  during any period, or during all periods, when the Director is absent from duty or from Australia or is, for any other reason, unable to perform the functions of the office of Director.
+                     (b)  during any period, or during all periods, when the Director is absent from duty or from Australia or is, for any other reason, unable to perform the functions of the office of Director;
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.
+
+             (2)  An appointment of a person under subsection (1) may be expressed to have effect only in such circumstances as are specified in the instrument of appointment.
+
+             (3)  The Attorney‑General may:
+
+                     (a)  determine the terms and conditions of appointment, including remuneration and allowances, of a person acting as Director; and
+
+                     (b)  terminate such an appointment at any time.
+
+             (4)  Where a person is acting as Director in accordance with paragraph (1)(b) and the office of Director becomes vacant while that person is so acting, then, subject to subsection (2), that person may continue so to act until the Attorney‑General otherwise directs, the vacancy is filled or a period of 12 months from the date on which the vacancy occurred expires, whichever first happens.
+
+             (5)  The appointment of a person to act as Director ceases to have effect if the person resigns the appointment by writing signed by the person and delivered to the Attorney‑General.
+
+             (6)  While a person is acting as Director, the person may exercise all the powers, and shall perform all the functions, of the Director under this Act.
+
+             (7)  The validity of anything done by or in relation to a person purporting to act under subsection (1) shall not be called in question on the ground that the occasion for the appointment had not arisen, that there is a defect or irregularity in or in connection with the appointment, that the appointment had ceased to have effect or that the occasion for the person to act had not arisen or had ceased.
 
 ##### <a id="23"></a>23  Staff of the Institute
 
@@ -348,7 +364,7 @@ Note:          See section 21 of the _Financial Management a
 
              (2)  The charge must be an amount that is reasonably related to the cost of providing the services.
 
-##### <a id="48"></a>48  Delegation by Director
+##### <a id="48"></a>48  Delegation by Director
 
              (1)  The Director, by signed instrument, may delegate all or any of the Director’s functions or powers to an SES employee, or acting SES employee, of the Institute.
 
@@ -566,7 +582,7 @@ Remainder: Royal Assent</div>
     <div>24 Oct 1997</div>
   </td>
   <td colspan="2">
-    <div>Schedule 2 (items 639–656): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(c)</i></div>
+    <div>Schedule 2 (items 639–656): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(c)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -703,7 +719,7 @@ Remainder: Royal Assent</div>
     <div>27 June 2011</div>
   </td>
   <td colspan="2">
-    <div>Schedule 2 (items 462–466) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 462–466) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
@@ -1045,22 +1061,6 @@ _(d)_     The _Criminology Research Act 1971_ was amended by Schedule 
   </td>
   <td>
     <div>rs. No. 123, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 22</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
   </td>
 </tr>
 <tr>
@@ -1552,6 +1552,38 @@ _(d)_     The _Criminology Research Act 1971_ was amended by Schedule 
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 462  Subsection 22(1)
+
+Omit “(1)”.
+
+## 463  Paragraph 22(1)(b)
+
+Omit “Director;”, substitute “Director.”.
+
+## 464  Subsection 22(1)
+
+Omit “but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.”.
+
+## 465  At the end of subsection 22(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 466  Subsections 22(2) to (7)
+
+Repeal the subsections.
+
+As at 8 September 2011 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -1779,6 +1811,8 @@ the Institute may meet the requirements in a single report for the period.
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
