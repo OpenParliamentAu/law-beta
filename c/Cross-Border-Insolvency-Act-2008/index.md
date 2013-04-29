@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00039/Html/2d9db3d0-45b1-4aa8-9928-e31793ad9049_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00737/Html/7c396edd-2ba9-49b0-8868-c7efe0091868_files/image001.gif)
 
 # Cross‑Border Insolvency Act 2008
 
 **Act No. 24 of 2008 as amended**
 
-This compilation was prepared on 27 December 2011
+This compilation was prepared on 12 September 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
@@ -182,7 +182,7 @@ Note:          This table relates only to the provisions of th
 
              (2)  Column 3 of the table contains additional information that is not part of this Act. Information in this column may be added to or edited in any published version of this Act.
 
-##### <a id="3"></a>3  Crown to be bound
+##### <a id="3"></a>3  Crown to be bound
 
                    This Act binds the Crown in each of its capacities.
 
@@ -192,7 +192,7 @@ Note:          This table relates only to the provisions of th
 
 ## Part 2—Model Law on Cross‑Border Insolvency
 
-##### <a id="5"></a>5  Definitions
+##### <a id="5"></a>5  Definitions
 
              (1)  In this Act:
 
@@ -216,7 +216,7 @@ Note:          See also section 19 for references to laws/la
 
              (2)  If, because of subsection (1), the Model Law refers to Australia in a geographical sense, the reference does not include an external Territory.
 
-Note:          Section 2B of the _Acts Interpretation Act 1901_ would otherwise provide that **_Australia_** includes the Territory of Christmas Island and the Territory of Cocos (Keeling) Islands.
+Note:          Paragraph 17(a) of the _Acts Interpretation Act 1901_ would otherwise provide that **_Australia_** includes the Territory of Christmas Island and the Territory of Cocos (Keeling) Islands.
 
 ##### <a id="8"></a>8  Identifying Australian laws relating to insolvency
 
@@ -655,7 +655,7 @@ _Relief that may be granted upon recognition of a  foreign proceeding_
 
             (_c_)  Suspending the right to transfer, encumber or otherwise dispose of any assets of the debtor to the extent this right has not been suspended under paragraph 1 (_c_) of article 20;
 
-            (_d_)  Providing for the examination of witnesses, the taking of evidence or the delivery of information concerning the debtor’s assets, affairs, rights, obligations or liabilities;
+            (_d_)  Providing for the examination of witnesses, the taking of evidence or the delivery of information concerning the debtor’s assets, affairs, rights, obligations or liabilities;
 
             (_e_)  Entrusting the administration or realization of all or part of the debtor’s assets located in this State to the foreign representative or another person designated by the court;
 
@@ -870,7 +870,7 @@ Remainder: Royal Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (item 467) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (item 467) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11)</div>
@@ -915,21 +915,29 @@ Remainder: Royal Assent</div>
   <td>
     <div>am. No. 8, 2010</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 7(2)</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
 </tr></table>
+
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendment commences on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 467  Subsection 7(2) (note)
+
+Omit “Paragraph 17(a)”, substitute “Section 2B”.
+
+As at 12 September 2011 the amendment is not incorporated in this compilation.
 
 ## Table A
 
 ### Application, saving or transitional provisions
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
