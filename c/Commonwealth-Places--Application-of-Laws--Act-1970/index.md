@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00135/Html/879d502b-2868-4f61-950a-abe2a0da251a_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00698/Html/CwlthPlacesAL1970_WD02_image001.gif)
 
 # Commonwealth Places (Application of Laws) Act 1970
 
 **Act No. 121 of 1970 as amended**
 
-This compilation was prepared on 4 March 2011
- taking into account amendments up to Act No. 1 of 2011
+This compilation was prepared on 11 December 2006
+ taking into account amendments up to Act No. 151 of 2006
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -174,13 +174,13 @@ that authority is empowered to do that act under that part of the applied provis
 
              (1)  Except as provided by the regulations made for the purpose of subsection (6) of section 4 of this Act, nothing in this Act has the effect of creating an office, body, court or other tribunal.
 
-             (2)  The Governor‑General may make an arrangement with the Governor of a State for or in relation to the exercise or performance of a power, duty or function (not being a power, duty or function involving the exercise of judicial power) by an authority of the State under the applied provisions having effect in or in relation to a Commonwealth place in that State and, where such an arrangement is in force, the power, duty or function may or shall, as the case may be, be exercised or performed accordingly.
+             (2)  The Governor-General may make an arrangement with the Governor of a State for or in relation to the exercise or performance of a power, duty or function (not being a power, duty or function involving the exercise of judicial power) by an authority of the State under the applied provisions having effect in or in relation to a Commonwealth place in that State and, where such an arrangement is in force, the power, duty or function may or shall, as the case may be, be exercised or performed accordingly.
 
-             (3)  The Governor‑General may make an arrangement with the Governor of a State with respect to any matter necessary or convenient for the purpose of carrying out or giving effect to this Act in or in relation to the State.
+             (3)  The Governor-General may make an arrangement with the Governor of a State with respect to any matter necessary or convenient for the purpose of carrying out or giving effect to this Act in or in relation to the State.
 
-             (4)  An arrangement under this section may contain such incidental or supplementary provisions as the Governor‑General and the Governor of the State think necessary.
+             (4)  An arrangement under this section may contain such incidental or supplementary provisions as the Governor-General and the Governor of the State think necessary.
 
-             (5)  The Governor‑General may arrange with the Governor of a State with whom an arrangement is in force under this section for the variation or revocation of the arrangement.
+             (5)  The Governor-General may arrange with the Governor of a State with whom an arrangement is in force under this section for the variation or revocation of the arrangement.
 
              (6)  A copy of each instrument by which an arrangement under this section has been made, varied or revoked shall be published in the _Gazette_.
 
@@ -198,13 +198,13 @@ that authority is empowered to do that act under that part of the applied provis
 
                      (b)  where the law of a State prohibits any appeal from such a court, an appeal does not lie to the High Court from a decision of that court unless the High Court grants special leave to appeal.
 
-             (2)  Sections 39 and 68 of the _Judiciary Act 1903‑1969_, and any other law of the Commonwealth that was passed or made before the commencement of this Act, do not, and, unless the contrary intention appears, any law of the Commonwealth that is passed or made after the commencement of this Act does not, operate so as to invest a court of a State with federal jurisdiction in a matter arising under the applied provisions.
+             (2)  Sections 39 and 68 of the _Judiciary Act 1903-1969_, and any other law of the Commonwealth that was passed or made before the commencement of this Act, do not, and, unless the contrary intention appears, any law of the Commonwealth that is passed or made after the commencement of this Act does not, operate so as to invest a court of a State with federal jurisdiction in a matter arising under the applied provisions.
 
-             (3)  Nothing in this Act affects the operation of section 38 of the _Judiciary Act 1903‑1969_.
+             (3)  Nothing in this Act affects the operation of section 38 of the _Judiciary Act 1903-1969_.
 
-             (4)  Sections 38A and 40A of the _Judiciary Act 1903‑1969_ do not apply in relation to a matter arising under the applied provisions or under a law of a State by reason only that it involves the application or interpretation of section 52 of the Constitution in relation to Commonwealth places.
+             (4)  Sections 38A and 40A of the _Judiciary Act 1903-1969_ do not apply in relation to a matter arising under the applied provisions or under a law of a State by reason only that it involves the application or interpretation of section 52 of the Constitution in relation to Commonwealth places.
 
-             (6)  Sections 72 to 76 (inclusive) of the _Judiciary Act 1903‑1969_ do not apply to or in relation to a trial in a court of a State for an offence against any part of the applied provisions.
+             (6)  Sections 72 to 76 (inclusive) of the _Judiciary Act 1903-1969_ do not apply to or in relation to a trial in a court of a State for an offence against any part of the applied provisions.
 
 ##### <a id="9"></a>9  Causes of action
 
@@ -232,7 +232,7 @@ that reference has effect as if it were a reference to that part of the applied 
 
 ##### <a id="12"></a>12  Procedure in proceedings under the applied provisions
 
-             (1)  Subject to this Act, proceedings (whether civil or criminal and whether original or appellate) under any part of the applied provisions shall be instituted and conducted in the same manner as though they were proceedings under the law of the State to which that part corresponds and all other proceedings in relation to any such proceedings (including declining to proceed further in a prosecution) shall also be taken as though the first‑mentioned proceedings were proceedings under that law.
+             (1)  Subject to this Act, proceedings (whether civil or criminal and whether original or appellate) under any part of the applied provisions shall be instituted and conducted in the same manner as though they were proceedings under the law of the State to which that part corresponds and all other proceedings in relation to any such proceedings (including declining to proceed further in a prosecution) shall also be taken as though the first-mentioned proceedings were proceedings under that law.
 
              (2)  Where there is not in force an arrangement with the Governor of a State under subsection (2) of section 6 of this Act, the last preceding subsection does not prevent the institution or conduct, in accordance with a law of the Commonwealth other than this Act, of proceedings under any part of the applied provisions having effect in or in relation to Commonwealth places in that State.
 
@@ -262,7 +262,7 @@ the proceedings shall be continued as though that person had been charged with t
 
 the court shall deal with the appeal as though the proceedings in relation to which the appeal was brought had been brought under that part of the applied provisions and the judgment, decree, order or sentence had been given or made in proceedings so brought.
 
-##### <a id="16"></a>16  Exceptions to appellate jurisdiction of High Court
+##### <a id="16"></a>16  Exceptions to appellate jurisdiction of High Court
 
                    Unless the High Court gives special leave to appeal, an appeal does not lie to the High Court from a judgment, decree, order or sentence of:
 
@@ -294,7 +294,7 @@ is, in proceedings under, or purporting to be under, any part of the applied pro
 
              (1)  Where there is in force an arrangement with the Governor of a State under subsection (2) of section 6 of this Act, an authority of that State may exercise or perform, in relation to a person convicted under any of the applied provisions having, or having had, effect in or in relation to a Commonwealth place in that State, the same powers and functions as it would have been empowered to exercise or perform under the laws of the State if the offence had been committed in the State otherwise than in a Commonwealth place.
 
-             (2)  Nothing in this section affects any power or function of the Governor‑General.
+             (2)  Nothing in this section affects any power or function of the Governor-General.
 
 ##### <a id="19"></a>19  Savings
 
@@ -340,7 +340,7 @@ is, in proceedings under, or purporting to be under, any part of the applied pro
 
 ##### <a id="22"></a>22  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters that by this Act are required or permitted to be prescribed or are necessary or convenient to be prescribed for carrying out or giving effect to this Act. 
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters that by this Act are required or permitted to be prescribed or are necessary or convenient to be prescribed for carrying out or giving effect to this Act. 
 
 # The Schedule—Inapplicable provisions of certain Acts
 
@@ -348,7 +348,7 @@ _Section 5(3)_
 
               1.  Part IAA (other than section 3Z), and sections 9, 13, 15, 15A, 15B and 15C, and, all the provisions of Divisions 1 to 9 (inclusive) of Part IB, sections 20C, 21B and 21E and Part ID of the _Crimes Act 1914_. 
 
-              2.  Sections 69, 70, 71 and 71A of the _Judiciary Act 1903‑1969_. 
+              2.  Sections 69, 70, 71 and 71A of the _Judiciary Act 1903-1969_. 
 
               3.  Paragraphs 6(1)(a), (b), (baa), (ba) and (f), subsections 9(1), (3), (3A), (4) and (5) and section 11 of the _Director of Public Prosecutions Act 1983_.
 
@@ -356,7 +356,7 @@ _Section 5(3)_
 
 ### Note 1
 
-The _Commonwealth Places (Application of Laws) Act 1970_ as shown in this compilation comprises Act No. 121, 1970 amended as indicated in the Tables below.
+The _Commonwealth Places (Application of Laws) Act 1970_ as shown in this compilation comprises Act No. 121, 1970 amended as indicated in the Tables below. 
 
 All relevant information pertaining to application, saving or transitional provisions prior to 24 November 2000 is not included in this compilation. For subsequent information _see_ Table A.
 
@@ -748,32 +748,15 @@ Schedule 3 (item 15): <i>(j)</i></div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Aviation Crimes and Policing Legislation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>1, 2011</div>
-  </td>
-  <td>
-    <div>2 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 2–8): \[ <i>see</i>Note 3 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 2 (item 8) \[ <i>see</i>Table A]</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Commonwealth Places (Application of Laws) Act 1970_ was amended by Part XVII (sections 45 and 46) only of the _Statute Law (Miscellaneous Amendments) Act (No. 2) 1982_, subsection 2(6) of which provides as follows:
 
                  (6)    Part XVII, Division 2 of Part XVIII and Parts XXII, XXIII and LXIV shall come into operation, or shall be deemed to have come into operation, as the case requires, immediately after the commencement of section 8 of the _Crimes Amendment Act 1982_.
 
-_(b)_     The _Commonwealth Places (Application of Laws) Act 1970_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1984_, subsection 2(1) of which provides as follows:
+_(b)_    The _Commonwealth Places (Application of Laws) Act 1970_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1984_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
 
 _(c)_     The _Commonwealth Places (Application of Laws) Act 1970_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1986_, subsection 2(1) of which provides as follows:
 
@@ -998,7 +981,7 @@ _(j)_      The _Commonwealth Places (Application of Laws) Act 1970_ wa
     <div>Schedule</div>
   </td>
   <td colspan="2">
-    <div>am. No. 80, 1982; No. 114, 1983; No. 165, 1984 ; No.168, 1986; No. 4, 1990; No. 65, 1994; No. 96, 1998; No. 24, 2001; No. 41, 2003</div>
+    <div>am. No. 80, 1982; No. 114, 1983; No. 165, 1984 ;No.168, 1986; No. 4, 1990; No. 65, 1994; No. 96, 1998; No. 24, 2001; No. 41, 2003</div>
   </td>
 </tr>
 <tr height="0">
@@ -1011,69 +994,6 @@ _(j)_      The _Commonwealth Places (Application of Laws) Act 1970_ wa
 
 Subsection 2(2)—This Act came into effect in all States from and including 30 November 1970 (_see Gazette_ 1970, p. 7941).
 
-### Note 3
-
-_Aviation Crimes and Policing Legislation Amendment Act 2011 
- (No. 1, 2011)_
-
-The following amendments commence on 30 March 2011:
-
-## Schedule 2
-
-## 2  Section 3
-
-Insert:
-
-                    <a name="airport"></a>**_airport_** has the same meaning as in the _Aviation Transport Security Act 2004_.
-
-## 3  Section 3
-
-Insert:
-
-                    <a name="design-state-airport"></a>**_designated State airport_** means an airport, to the extent that it is a Commonwealth place, that is:
-
-                     (a)  situated in a State or States; and
-
-                     (b)  prescribed by the regulations for the purposes of this definition.
-
-## 4  Section 3
-
-Insert:
-
-                    <a name="member-australian-feral-polic"></a>**_member of the Australian Federal Police_** has the same meaning as in the _Australian Federal Police Act 1979_.
-
-## 5  Section 3
-
-Insert:
-
-                    <a name="relev-crime-act-provision"></a>**_relevant Crimes Act provision_** means any of the following provisions of the _Crimes Act 1914_:
-
-                     (a)  Part IAA (which deals with search, information gathering, arrest and related powers);
-
-                     (b)  section 9 (which provides for the seizure and condemnation of forfeitable goods);
-
-                     (c)  section 13 (which allows the institution of proceedings in respect of offences);
-
-                     (d)  section 15 (which deals with the remand and discharge of defendants);
-
-                     (e)  Part ID (which deals with forensic procedures).
-
-## 6  Section 3
-
-Insert:
-
-                    <a name="pecial-member"></a>**_s pecial member_** has the same meaning as in the _Australian Federal Police Act 1979_.
-
-## 7  After subsection 5(3)
-
-Insert:
-
-          (3A)  However, subsection (3) does not prevent the application of a relevant Crimes Act provision in relation to an investigation by a member of the Australian Federal Police, or a special member, if the Commonwealth Place is a designated State airport.
-
-_Note:       The heading to section 5 is replaced by the heading “Application of certain provisions of Commonwealth Acts to applied provisions”._
-
-As at 4 March 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -1082,9 +1002,9 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 ## Schedule 2
 
-## 418  Transitional—pre‑commencement offences
+## 418  Transitional—pre-commencement offences
 
-(1)       Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
+(1)        Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
 
                      (a)  an offence committed before the commencement of this item; or
 
@@ -1094,9 +1014,9 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 as if the amendment or repeal had not been made.
 
-(2)       Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
+(2)        Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
 
-## 419  Transitional—pre‑commencement notices
+## 419  Transitional—pre-commencement notices
 
 If:
 
@@ -1104,9 +1024,9 @@ If:
 
                      (b)  any or all of those other provisions are repealed by this Schedule; and
 
-                     (c)  the first‑mentioned provision is amended by this Schedule;
+                     (c)  the first-mentioned provision is amended by this Schedule;
 
-the amendment of the first‑mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
+the amendment of the first-mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
 
 * * *
 
@@ -1126,25 +1046,12 @@ _Crimes Legislation Enhancement Act 2003 (No. 41, 2003)_
 
 ## 42  Saving provision
 
-(1)       The amendments made by this Schedule do not invalidate:
+(1)        The amendments made by this Schedule do not invalidate:
 
                      (a)  an instrument made under, or referring to, a Part of the _Crimes Act 1914_ whose heading is repealed and substituted by this Schedule; or
 
                      (b)  anything done under such an instrument or such a Part.
 
-(2)       Subitem (1) has effect whether the instrument was made, or the thing was done, before or after this Act received the Royal Assent.
-
-* * *
-
-_Aviation Crimes and Policing Legislation Amendment Act 2011 
- (No. 1, 2011)_
-
-The following provision commences on 30 March 2011:
-
-## Schedule 2
-
-## 8  Application
-
-The amendment made by item 7 applies, on and after the day the item commences, in relation to offences committed, or suspected to have been committed, before, on or after that day.
+(2)        Subitem (1) has effect whether the instrument was made, or the thing was done, before or after this Act received the Royal Assent.
 
  
