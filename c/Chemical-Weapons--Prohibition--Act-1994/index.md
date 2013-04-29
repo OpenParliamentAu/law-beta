@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00716/Html/277c1472-2cc0-4fd4-a6ed-913c625cdc1e_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00287/Html/f347533f-be60-43d4-ae84-1acc7ed5bc79_files/image001.gif)
 
 # Chemical Weapons (Prohibition) Act 1994
 
 **Act No. 26 of 1994 as amended**
 
-This compilation was prepared on 2 September 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 19 April 2011
+ taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -114,8 +114,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [35](#35).          Compliance inspections by national inspectors
 
-[36](#36).          Period within which compliance inspection may be carried 
- out
+[36](#36).          Period within which compliance inspection may be carried out
 
     **Division 2—International compliance inspections**
 
@@ -195,8 +194,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [70](#70).          Compensation for damage to electronic equipment
 
-[71](#71).          Offence of making false statements in applications for 
- warrant
+[71](#71).          Offence of making false statements in applications for warrant
 
 [72](#72).          Offences relating to telephone warrants
 
@@ -1596,7 +1594,7 @@ if the national inspector or person assisting believes, on reasonable grounds, t
 
                      (b)  paragraph (4)(e) referred to 48 hours rather than 7 days.
 
-##### <a id="59"></a>59  The things that are authorised by search warrant
+##### <a id="59"></a>59  The things that are authorised by search warrant
 
              (1)  A warrant that is in force in relation to premises authorises the national inspector executing the warrant and a person assisting:
 
@@ -8422,23 +8420,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 323, 324) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11)</div>
-  </td>
 </tr></table>
 
 _(a)_ Subsections 2(2)–(4) of the _Chemical Weapons (Prohibition) Act 1994_ provide as follows:
@@ -8979,24 +8960,6 @@ _(c)_     The _Chemical Weapons (Prohibition) Act 1994_ was amended by S
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 323  Subsection 8B(3) (note)
-
-Omit “section 46 of the _Acts Interpretation Act 1901_”, substitute “subsection 13(3) of the _Legislative Instruments Act 2003_”.
-
-## 324  Subsection 10(9) (note)
-
-Omit “section 46 of the _Acts Interpretation Act 1901_”, substitute “subsection 13(3) of the _Legislative Instruments Act 2003_”.
-
-As at 2 September 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -9030,21 +8993,5 @@ _Foreign Affairs and Trade Legislation Amendment (Application of Criminal Code) 
              (1)  Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
 
              (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
