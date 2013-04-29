@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2004C02363/Html/AusTradeC85_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C02362/Html/AusTradeComm85_image001.gif)
 
 # Australian Trade Commission Act 1985
 
-**Act No. 186 of 1985 as amended**
+**Act No. 186 of 1985 as amended**
 
-This compilation was prepared on 13 December 2000
- taking into account amendments up to Act No. 137 of 2000
+This compilation was prepared on 30 March 2000
+ taking into account amendments up to Act No. 156 of 1999
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -15,7 +15,7 @@ Prepared by the Office of Legislative Drafting,
 
 # Contents
 
-**Part I—Preliminary**
+**Part I—Preliminary**
 
 [1](#1).            Short title [_see_ Note 1]                                                                        1
 
@@ -29,7 +29,7 @@ Prepared by the Office of Legislative Drafting,
 
 [6](#6).            Application of _Export Market Development Grants Act 1997_ not affected 6
 
-**Part II—Establishment and functions of Australian Trade Commission**
+**Part II—Establishment and functions of Australian Trade Commission**
 
 [7](#7).            Australian Trade Commission                                                             7
 
@@ -39,7 +39,7 @@ Prepared by the Office of Legislative Drafting,
 
 [10](#10).          Power of Minister to give directions                                                   9
 
-**Part III—Establishment and functions of Australian Trade Commission Board**
+**Part III—Establishment and functions of Australian Trade Commission Board**
 
 [11](#11).          Establishment of Australian Trade Commission Board                    11
 
@@ -63,13 +63,13 @@ Prepared by the Office of Legislative Drafting,
 
 [21](#21).          Meetings of Board                                                                             17
 
-**Part IV—General powers and duties of Commission**
+**Part IV—General powers and duties of Commission**
 
 [23](#23).          General powers of Commission                                                        19
 
 [24](#24).          Commission may establish offices in Australia and in foreign countries     19
 
-[25](#25).          Trading powers of Commission                                                        19
+[25](#25).          Trading powers of Commission                                                        20
 
 [26](#26).          Powers in relation to carrying out overseas development projects   20
 
@@ -77,13 +77,13 @@ Prepared by the Office of Legislative Drafting,
 
 [28](#28).          Powers in relation to provision of services and performance of work 21
 
-[29](#29).          Commission may form, or join in the formation of, companies, partnerships, consortiums or other business associations                                                                                        21
+[29](#29).          Commission may form, or join in the formation of, companies, partnerships, consortiums or other business associations                                                                                        22
 
 [30](#30).          Export market development schemes                                                22
 
-**Part VI—Staff** 
+**Part VI—Staff** 
 
-    **Division 1—Managing Director and Deputy Managing Director**
+    **Division 1—Managing Director and Deputy Managing Director**
 
 [51](#51).          Appointment of Managing Director and Deputy Managing Director 25
 
@@ -101,7 +101,7 @@ Prepared by the Office of Legislative Drafting,
 
 [58](#58).          Resignation                                                                                        28
 
-    **Division 2—Other staff**
+    **Division 2—Other staff**
 
 [60](#60).          Employment of other staff                                                                29
 
@@ -109,9 +109,9 @@ Prepared by the Office of Legislative Drafting,
 
 [62](#62).          Application of _Merit Protection (Australian Government_ Employees) Act 1984 to persons employed       29
 
-**Part VII—Corporate plans and annual operational plans** 
+**Part VII—Corporate plans and annual operational plans** 
 
-    **Division 1—Corporate plans**
+    **Division 1—Corporate plans**
 
 [64](#64).          Commission to develop corporate plans                                           30
 
@@ -119,7 +119,7 @@ Prepared by the Office of Legislative Drafting,
 
 [66](#66).          Variation of corporate plans                                                              31
 
-    **Division 2—Annual operational plans**
+    **Division 2—Annual operational plans**
 
 [67](#67).          Managing Director to develop annual operational plans                   32
 
@@ -127,7 +127,7 @@ Prepared by the Office of Legislative Drafting,
 
 [69](#69).          Variation of annual operational plans at request of Commission      33
 
-**Part VIII—Finance**
+**Part VIII—Finance**
 
 [71](#71).          Money of the Commission                                                                34
 
@@ -149,7 +149,7 @@ Prepared by the Office of Legislative Drafting,
 
 [89](#89).          Extra matters to be included in annual report                                    37
 
-**Part IX—Miscellaneous**
+**Part IX—Miscellaneous**
 
 [90](#90).          Delegations by Minister and Managing Director                              39
 
@@ -157,7 +157,7 @@ Prepared by the Office of Legislative Drafting,
 
 [92](#92).          Annual Reports                                                                                 40
 
-[94](#94).          Secrecy                                                                                               40
+[94](#94).          Secrecy                                                                                               41
 
 [95](#95).          Offences                                                                                             42
 
@@ -171,7 +171,7 @@ Prepared by the Office of Legislative Drafting,
 
 ## An Act to establish an Australian Trade Commission for the purpose of facilitating and promoting trade between Australia and foreign countries, and for related purposes
 
-## Part I—Preliminary
+## Part I—Preliminary
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
 
@@ -179,7 +179,7 @@ Prepared by the Office of Legislative Drafting,
 
 ##### <a id="2"></a>2  Commencement [_see_ Note 1]
 
-             (1)  Sections 1, 2, 3 and 97 shall come into operation on the day on which this Act receives the Royal Assent.
+             (1)  Sections 1, 2, 3 and 97 shall come into operation on the day on which this Act receives the Royal Assent.
 
              (2)  The remaining provisions of this Act shall come into operation on a day to be fixed by Proclamation.
 
@@ -203,7 +203,7 @@ Prepared by the Office of Legislative Drafting,
 
                      (c)  a person appointed under subsection 17(1).
 
-                    <a name="annual-oper-plan"></a>**_annual operational plan_** means a plan developed by the Managing Director in accordance with section 67 and includes such a plan as varied under section 69.
+                    <a name="annual-oper-plan"></a>**_annual operational plan_** means a plan developed by the Managing Director in accordance with section 67 and includes such a plan as varied under section 69.
 
                     <a name="appoint"></a>**_appoint_** includes re-appoint.
 
@@ -229,23 +229,23 @@ and includes an Agency (within the meaning of the _Public Service Act 1999_) and
 
                      (a)  a natural person;
 
-                     (b)  a partnership, other than a partnership in the formation of which the Commission has joined, pursuant to section 29; or
+                     (b)  a partnership, other than a partnership in the formation of which the Commission has joined, pursuant to section 29; or
 
                      (c)  a company, other than a Commission company, incorporated or formed in Australia;
 
 carrying on business in Australia.
 
-                    <a name="board"></a>**_Board_** means the Australian Trade Commission Board established by section 11.
+                    <a name="board"></a>**_Board_** means the Australian Trade Commission Board established by section 11.
 
                     <a name="chairperson"></a>**_Chairperson_** means the Chairperson of the Board.
 
                     <a name="commenc-dai"></a>**_commencing day_** means the day fixed by Proclamation for the purposes of subsection 2(2).
 
-                    <a name="commiss"></a>**_Commission_** means the Australian Trade Commission established by section 7.
+                    <a name="commiss"></a>**_Commission_** means the Australian Trade Commission established by section 7.
 
-                    <a name="commiss-compani"></a>**_Commission company_** means a company formed by the Commission, or in the formation of which the Commission has joined, pursuant to section 29.
+                    <a name="commiss-compani"></a>**_Commission company_** means a company formed by the Commission, or in the formation of which the Commission has joined, pursuant to section 29.
 
-                    <a name="corpor-plan"></a>**_corporate plan_** means a plan developed by the Commission in accordance with section 64 and includes such a plan as varied in accordance with section 66.
+                    <a name="corpor-plan"></a>**_corporate plan_** means a plan developed by the Commission in accordance with section 64 and includes such a plan as varied in accordance with section 66.
 
                     <a name="deputi-chairperson"></a>**_Deputy Chairperson_** means the Deputy Chairperson of the Board.
 
@@ -283,7 +283,7 @@ and includes any necessary preliminary studies, investigations or planning.
 
                      (a)  a person who is engaged by the Commission, outside Australia, to assist in the performance, outside Australia, of the functions of the Commission; or
 
-                     (b)  a Trade Commissioner Office employee who is deemed, by virtue of section 10 of the Transitional Provisions Act, to have been employed by the Commission.
+                     (b)  a Trade Commissioner Office employee who is deemed, by virtue of section 10 of the Transitional Provisions Act, to have been employed by the Commission.
 
                     <a name="secur"></a>**_securities_** includes stocks, debentures, debenture stocks, notes, bonds, promissory notes, bills of exchange and similar instruments or documents.
 
@@ -321,11 +321,11 @@ and includes any necessary preliminary studies, investigations or planning.
 
                      (b)  a reference to the functions, or to the powers, of the Commission under this Act includes a reference to any functions, or any powers, as the case may be, conferred on the Commission by the _Export Market Development Grants Act 1997_ or any other Act.
 
-             (4)  Unless the contrary intention appears, a reference in this Act to the _Export Market Development Grants Act 1997_ includes a reference to the _Export Market Development Grants Act 1974_ to the extent that that Act continues to apply because of item 2 of Schedule 1 to the _Export Market Development Grants (Repeal and Consequential Provisions) Act 1997_.
+             (4)  Unless the contrary intention appears, a reference in this Act to the _Export Market Development Grants Act 1997_ includes a reference to the _Export Market Development Grants Act 1974_ to the extent that that Act continues to apply because of item 2 of Schedule 1 to the _Export Market Development Grants (Repeal and Consequential Provisions) Act 1997_.
 
 ##### <a id="4"></a>4  Extension to Territories
 
-             (1)  Subject to subsection (2), this Act extends to all the Territories.
+             (1)  Subject to subsection (2), this Act extends to all the Territories.
 
              (2)  The Minister may, by notice published in the Gazette, declare that, on a day specified in the notice, this Act ceases to extend to an external Territory specified in the notice, and, where such a notice is published:
 
@@ -341,9 +341,9 @@ and includes any necessary preliminary studies, investigations or planning.
 
 ##### <a id="6"></a>6  Application of _Export Market Development Grants Act 1997_ not affected
 
-                   Nothing in section 4 or 5 shall be taken to affect the application of the _Export Market Development Grants Act 1997_.
+                   Nothing in section 4 or 5 shall be taken to affect the application of the _Export Market Development Grants Act 1997_.
 
-## Part II—Establishment and functions of Australian Trade Commission
+## Part II—Establishment and functions of Australian Trade Commission
 
 ##### <a id="7"></a>7  Australian Trade Commission
 
@@ -399,7 +399,7 @@ Note:          The _Commonwealth Authorities and Companies Act
 
              (2)  In performing its functions, the Commission shall:
 
-                     (a)  comply with any directions given to it under section 10; and
+                     (a)  comply with any directions given to it under section 10; and
 
                      (b)  have regard to:
 
@@ -413,7 +413,7 @@ Note:          The _Commonwealth Authorities and Companies Act
 
              (1)  The Minister may give to the Commission, in writing, such directions with respect to the performance of its functions, and the exercise of its powers, under this Act, as appear to the Minister to be necessary.
 
-             (2)  Nothing in subsection (1) shall be construed:
+             (2)  Nothing in subsection (1) shall be construed:
 
                      (a)  as requiring the approval of the Minister to the entry by the Commission into a particular contract or other agreement or arrangement under this Act or to the giving by the Commission of any particular guarantee under this Act; or
 
@@ -421,13 +421,13 @@ Note:          The _Commonwealth Authorities and Companies Act
 
 but the Commission shall not enter into a particular contract or other agreement or arrangement, or give a particular guarantee, contrary to a direction by the Minister under this section.
 
-             (3)  Nothing in subsection (1) shall be construed as empowering the Minister to determine that the Commission should deal in a particular manner with a particular person, or with a particular claim or application for a grant or other benefit, under the _Export Market Development Grants Act 1997_ or under a scheme approved by the Minister under section 30 of this Act.
+             (3)  Nothing in subsection (1) shall be construed as empowering the Minister to determine that the Commission should deal in a particular manner with a particular person, or with a particular claim or application for a grant or other benefit, under the _Export Market Development Grants Act 1997_ or under a scheme approved by the Minister under section 30 of this Act.
 
              (4)  A direction of the Minister under this section shall not operate so as to affect prejudicially an application under the _Export Market Development Grants Act 1997_ in relation to a grant year (within the meaning of that Act) that commenced before the day on which the direction was given.
 
              (5)  This section does not affect the operation of any other provision of this Act or of any other Act that confers a power upon the Minister to give directions to the Commission.
 
-## Part III—Establishment and functions of Australian Trade Commission Board
+## Part III—Establishment and functions of Australian Trade Commission Board
 
 ##### <a id="11"></a>11  Establishment of Australian Trade Commission Board
 
@@ -449,7 +449,7 @@ but the Commission shall not enter into a particular contract or other agreement
 
                      (e)  such number of other members, being not fewer than 4 nor more than 6, as the Minister determines, in writing, to be appropriate.
 
-          (1A)  Nothing in subsection (1) prevents the appointment of the Managing Director as Chairperson.
+          (1A)  Nothing in subsection (1) prevents the appointment of the Managing Director as Chairperson.
 
           (1B)  The Managing Director, and the Deputy Managing Director, of EFIC may not be appointed as Chairperson or Deputy Chairperson.
 
@@ -463,11 +463,11 @@ but the Commission shall not enter into a particular contract or other agreement
 
              (9)  Appointed members hold office on such terms and conditions (if any) in respect of matters not provided for by this Act as are determined, in writing, by the Minister.
 
-           (10)  The exercise of a power or the performance of a function of the Board is not affected by reason of there being a vacancy or vacancies in the membership of the Board or by reason of the number of appointed members referred to in paragraph (1)(e) falling below 4 for not longer than 6 months.
+           (10)  The exercise of a power or the performance of a function of the Board is not affected by reason of there being a vacancy or vacancies in the membership of the Board or by reason of the number of appointed members referred to in paragraph (1)(e) falling below 4 for not longer than 6 months.
 
 ##### <a id="13"></a>13  Functions of Board in relation to Commission
 
-             (1)  Subject to section 10, the Board shall determine the policy to be followed in the conduct of the affairs of the Commission under this Act.
+             (1)  Subject to section 10, the Board shall determine the policy to be followed in the conduct of the affairs of the Commission under this Act.
 
              (2)  Without derogating, by implication, from the responsibility of the Managing Director for the day-to-day conduct of the affairs of the Commission under this Act, those affairs shall be conducted by the Board.
 
@@ -509,7 +509,7 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
 but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.
 
-             (3)  An appointment of a person under subsection (1) or (2) may be expressed to have effect only in such circumstances as are specified in the instrument of appointment.
+             (3)  An appointment of a person under subsection (1) or (2) may be expressed to have effect only in such circumstances as are specified in the instrument of appointment.
 
              (4)  The Minister may:
 
@@ -517,7 +517,7 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
                      (b)  at any time terminate such an appointment.
 
-             (5)  Where a person is acting as Chairperson in accordance with paragraph (1)(b) or as Deputy Chairperson in accordance with paragraph (2)(b) and the office in which the person is acting becomes vacant while that person is so acting, that person may continue so to act until the Minister otherwise directs, the vacancy is filled or a period of 12 months from the date on which the vacancy occurred expires, whichever first happens.
+             (5)  Where a person is acting as Chairperson in accordance with paragraph (1)(b) or as Deputy Chairperson in accordance with paragraph (2)(b) and the office in which the person is acting becomes vacant while that person is so acting, that person may continue so to act until the Minister otherwise directs, the vacancy is filled or a period of 12 months from the date on which the vacancy occurred expires, whichever first happens.
 
              (6)  The appointment of a person to act as Chairperson or as Deputy Chairperson ceases to have effect if the person resigns the appointment by writing signed by the person and delivered to the Minister.
 
@@ -525,7 +525,7 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
              (8)  While a person is acting as Deputy Chairperson, the person may exercise all the powers, and shall perform all the functions, of the Deputy Chairperson.
 
-             (9)  The validity of anything done by, or in relation to, a person purporting to act under subsection (1) or (2) shall not be called in question on the ground that the occasion for the appointment of the person had not arisen, that there was a defect or irregularity in or in connection with the appointment, that the appointment had ceased to have effect or that the occasion for the person to act had not arisen or had ceased.
+             (9)  The validity of anything done by, or in relation to, a person purporting to act under subsection (1) or (2) shall not be called in question on the ground that the occasion for the appointment of the person had not arisen, that there was a defect or irregularity in or in connection with the appointment, that the appointment had ceased to have effect or that the occasion for the person to act had not arisen or had ceased.
 
 ##### <a id="17"></a>17  Acting member
 
@@ -545,13 +545,13 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
                      (b)  terminate such an appointment at any time.
 
-             (4)  Where a person is acting as a member in accordance with paragraph (1)(b), and the office in which the person is acting becomes vacant while that person is so acting, that person may continue so to act until the Minister otherwise directs, the vacancy is filled or a period of 12 months from the date on which the vacancy occurred expires, whichever first happens.
+             (4)  Where a person is acting as a member in accordance with paragraph (1)(b), and the office in which the person is acting becomes vacant while that person is so acting, that person may continue so to act until the Minister otherwise directs, the vacancy is filled or a period of 12 months from the date on which the vacancy occurred expires, whichever first happens.
 
              (5)  The appointment of a person to act as a member ceases to have effect if the person resigns the appointment by writing signed by the person and delivered to the Minister.
 
              (6)  While a person is acting as a member, the person may exercise all the powers, and shall perform all the functions, of the member in whose office the person is acting.
 
-             (7)  The validity of anything done by, or in relation to, a person purporting to act under subsection (1) shall not be called in question on the ground that the occasion for the appointment of the person had not arisen, that there was a defect or irregularity in or in connection with the appointment, that the appointment had ceased to have effect or that the occasion for the person to act had not arisen or had ceased.
+             (7)  The validity of anything done by, or in relation to, a person purporting to act under subsection (1) shall not be called in question on the ground that the occasion for the appointment of the person had not arisen, that there was a defect or irregularity in or in connection with the appointment, that the appointment had ceased to have effect or that the occasion for the person to act had not arisen or had ceased.
 
              (8)  A reference in this section to a member does not include a reference to the Chairperson, the Deputy Chairperson, the Managing Director or the Managing Director of EFIC.
 
@@ -577,7 +577,7 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
                      (c)  an appointed member other than the Chairperson is absent, except on leave granted by the Chairperson, from 3 consecutive meetings of the Board; or
 
-                     (d)  an appointed member fails to comply with his or her obligations under section 27F or 27J of the _Commonwealth Authorities and Companies Act 1997_;
+                     (d)  an appointed member fails to comply with his or her obligations under section 27F or 27J of the _Commonwealth Authorities and Companies Act 1997_;
 
 the Minister shall terminate the appointment of the appointed member concerned.
 
@@ -615,19 +615,19 @@ the Minister shall terminate the appointment of the appointed member concerned.
 
              (9)  The member presiding at a meeting of the Board has a deliberative vote and, in the event of an equality of votes, also has a casting vote.
 
-## Part IV—General powers and duties of Commission
+## Part IV—General powers and duties of Commission
 
 ##### <a id="23"></a>23  General powers of Commission
 
              (1)  Subject to this Act, the Commission has power to do all things necessary or convenient to be done for or in connection with, or as incidental to, the performance of its functions under this Act.
 
-             (2)  The generality of subsection (1) shall not be taken to be limited, by implication, by any other provision of this Act, or of any other Act, that confers a power on the Commission.
+             (2)  The generality of subsection (1) shall not be taken to be limited, by implication, by any other provision of this Act, or of any other Act, that confers a power on the Commission.
 
              (3)  To the extent that is practicable to do so, the Commission shall ensure that the exercise at any time of the powers conferred on it by this Act or by the _Export Market Development Grants Act 1997_ is consistent with, and designed to give effect to, the provisions of any corporate plan, and of any annual operational plan, in force at that time.
 
              (4)  The powers of the Commission may be exercised in Australia or elsewhere.
 
-             (5)  Sections 117 and 119 of the _Lands Acquisition Act 1989_ do not apply to the disposal of interests in land vested in the Australian Trade Commission.
+             (5)  Sections 117 and 119 of the _Lands Acquisition Act 1989_ do not apply to the disposal of interests in land vested in the Australian Trade Commission.
 
 ##### <a id="24"></a>24  Commission may establish offices in Australia and in foreign countries
 
@@ -641,7 +641,7 @@ the Minister shall terminate the appointment of the appointed member concerned.
 
                      (b)  in the provision of services for reward.
 
-             (2)  Nothing in subsection (1) shall be construed as preventing:
+             (2)  Nothing in subsection (1) shall be construed as preventing:
 
                      (a)  the acquisition by the Commission, whether by purchase or otherwise, of goods in the day-to-day operations of the Commission; or
 
@@ -649,7 +649,7 @@ the Minister shall terminate the appointment of the appointed member concerned.
 
 or the sale or other disposal of such goods, whether or not such goods have been used for the purpose for which they were acquired.
 
-             (3)  Nothing in subsection (1) shall be construed as preventing:
+             (3)  Nothing in subsection (1) shall be construed as preventing:
 
                      (a)  the provision for reward of services by the Commission in the day-to-day operations of the Commission; or
 
@@ -659,13 +659,13 @@ or the sale or other disposal of such goods, whether or not such goods have been
 
              (1)  The Commission may do all things necessary to facilitate the involvement of an Australian organisation, either directly or indirectly, and either alone or as a member of a partnership, consortium or other business association, (whether or not that partnership, consortium or business association involves the Commission) in a contract to carry out the whole, or a part, of an overseas development project.
 
-             (2)  Subject to section 88, the Commission may, for the purposes of subsection (1), enter into a contract to carry out the whole, or a part, of an overseas development project, being a contract in pursuance of which the Commission arranges for an Australian organisation, acting on behalf of the Commission, to provide some or all of the services, or to carry out some or all of the work, required under that contract to be provided or carried out in relation to that project or that part of that project.
+             (2)  Subject to section 88, the Commission may, for the purposes of subsection (1), enter into a contract to carry out the whole, or a part, of an overseas development project, being a contract in pursuance of which the Commission arranges for an Australian organisation, acting on behalf of the Commission, to provide some or all of the services, or to carry out some or all of the work, required under that contract to be provided or carried out in relation to that project or that part of that project.
 
 ##### <a id="27"></a>27  Commission may provide advice to promote trade
 
              (1)  The Commission may provide information or advice to any person in relation to any matter likely to assist in the development of trade between Australia and foreign countries.
 
-             (2)  Without limiting the generality of subsection (1), the information or advice provided by the Commission may relate to:
+             (2)  Without limiting the generality of subsection (1), the information or advice provided by the Commission may relate to:
 
                      (a)  financial arrangements available to support trade between Australia and foreign countries; and
 
@@ -695,7 +695,7 @@ or the sale or other disposal of such goods, whether or not such goods have been
 
                      (b)  for any other purpose connected with, or incidental to, the performance of its functions.
 
-             (2)  The Commission shall not exercise a power under subsection (1):
+             (2)  The Commission shall not exercise a power under subsection (1):
 
                      (a)  if the exercise of that power would not be consistent with the objectives of the Commission as set out in the corporate plan in force at the time when it is proposed to exercise that power; or
 
@@ -703,7 +703,7 @@ or the sale or other disposal of such goods, whether or not such goods have been
 
              (3)  Nothing in this section shall be taken to authorise the Commission to form a company, or to join in the formation of a company, partnership, consortium or other business association, for the purpose of entering into a contract to carry out the whole or a part of an overseas development project if, were that company, partnership, consortium or other business association to be formed, the entry into that contract would cause the assessed net commercial risk of the Commission in relation to its business in respect of overseas development projects to exceed the amount specified in, or prescribed for the purposes of, subsection 88(2).
 
-             (4)  For the purposes of subsection (3), the assessed net commercial risk of the Commission in relation to its business in respect of overseas development projects shall be calculated in the same manner as for the purposes of section 88.
+             (4)  For the purposes of subsection (3), the assessed net commercial risk of the Commission in relation to its business in respect of overseas development projects shall be calculated in the same manner as for the purposes of section 88.
 
 ##### <a id="30"></a>30  Export market development schemes
 
@@ -719,13 +719,13 @@ or the sale or other disposal of such goods, whether or not such goods have been
 
 and submit that proposal to the Minister for the Minister’s approval.
 
-             (2)  If the Minister approves a proposal submitted under subsection (1), the Commission shall develop, in writing, detailed guidelines for the administration of the scheme to which the proposal relates and shall submit those guidelines to the Minister for approval.
+             (2)  If the Minister approves a proposal submitted under subsection (1), the Commission shall develop, in writing, detailed guidelines for the administration of the scheme to which the proposal relates and shall submit those guidelines to the Minister for approval.
 
-             (3)  Where guidelines are submitted under subsection (2) and the Minister is of the opinion that the guidelines should be revised in some respect, the Minister may request the Commission to revise the guidelines and, where the Minister does so, the Minister shall include in that request a statement setting out the reasons for making that request.
+             (3)  Where guidelines are submitted under subsection (2) and the Minister is of the opinion that the guidelines should be revised in some respect, the Minister may request the Commission to revise the guidelines and, where the Minister does so, the Minister shall include in that request a statement setting out the reasons for making that request.
 
-             (4)  Upon the Commission’s receiving a request under subsection (3), the Commission shall consider the request and statement of reasons and shall make such revision of the guidelines as it considers appropriate and shall resubmit the guidelines, as so revised, to the Minister for approval.
+             (4)  Upon the Commission’s receiving a request under subsection (3), the Commission shall consider the request and statement of reasons and shall make such revision of the guidelines as it considers appropriate and shall resubmit the guidelines, as so revised, to the Minister for approval.
 
-             (5)  Where the Minister approves guidelines submitted under subsection (2) or resubmitted under subsection (4), the Minister shall specify a day, being the day on which the Minister gives that approval, or a later day, as the day with effect from which the guidelines take effect, and, on that day, the guidelines take effect accordingly.
+             (5)  Where the Minister approves guidelines submitted under subsection (2) or resubmitted under subsection (4), the Minister shall specify a day, being the day on which the Minister gives that approval, or a later day, as the day with effect from which the guidelines take effect, and, on that day, the guidelines take effect accordingly.
 
              (6)  Where guidelines have been approved by the Minister under this section, the Commission shall take such steps as it considers necessary to publicise the scheme to which the guidelines relate and to implement the scheme in accordance with the guidelines.
 
@@ -733,13 +733,13 @@ and submit that proposal to the Minister for the Minister’s approval.
 
              (8)  Where, at any time, the Commission considers that a variation to the guidelines for the administration of a scheme, whether or not it has commenced to implement that scheme, is desirable, the Commission may, with the approval of the Minister, vary those guidelines.
 
-             (9)  Where the Minister approves a variation of guidelines under subsection (7) or (8), the Minister shall specify a day, being the day on which the Minister gives that approval or a later day, as the day with effect from which the variation takes effect.
+             (9)  Where the Minister approves a variation of guidelines under subsection (7) or (8), the Minister shall specify a day, being the day on which the Minister gives that approval or a later day, as the day with effect from which the variation takes effect.
 
            (10)  Where a variation of guidelines has been approved by the Minister under this section, the Commission shall take such steps as it considers necessary to publicise the variation of those guidelines.
 
-## Part VI—Staff
+## Part VI—Staff
 
-### Division 1—Managing Director and Deputy Managing Director
+### Division 1—Managing Director and Deputy Managing Director
 
 ##### <a id="51"></a>51  Appointment of Managing Director and Deputy Managing Director
 
@@ -767,7 +767,7 @@ and submit that proposal to the Minister for the Minister’s approval.
 
              (1)  The affairs of the Commission shall, to the extent determined by the Board, be managed by the Managing Director.
 
-             (2)  There are conferred upon the Managing Director by this section all powers necessary to enable the performance of the duty imposed upon the Managing Director by subsection (1).
+             (2)  There are conferred upon the Managing Director by this section all powers necessary to enable the performance of the duty imposed upon the Managing Director by subsection (1).
 
              (3)  The Managing Director shall, in managing the affairs of the Commission, act in accordance with the policy of, and any directions given by, the Board.
 
@@ -787,7 +787,7 @@ and submit that proposal to the Minister for the Minister’s approval.
 
 ##### <a id="56"></a>56  Acting Managing Director and acting Deputy Managing Director
 
-             (1)  At any time when there is a vacancy in the office of Managing Director (whether or not an appointment has previously been made to the office) or the Managing Director is absent from duty or from Australia or is, for any other reason, unable to perform the functions of Managing Director, the Deputy Managing Director or a person acting as Deputy Managing Director under subsection (2) shall act as Managing Director.
+             (1)  At any time when there is a vacancy in the office of Managing Director (whether or not an appointment has previously been made to the office) or the Managing Director is absent from duty or from Australia or is, for any other reason, unable to perform the functions of Managing Director, the Deputy Managing Director or a person acting as Deputy Managing Director under subsection (2) shall act as Managing Director.
 
              (2)  The Board may appoint a person to act as Deputy Managing Director:
 
@@ -797,7 +797,7 @@ and submit that proposal to the Minister for the Minister’s approval.
 
 but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.
 
-             (3)  An appointment of a person under subsection (2) may be expressed to have effect only in such circumstances as are specified in the instrument of appointment.
+             (3)  An appointment of a person under subsection (2) may be expressed to have effect only in such circumstances as are specified in the instrument of appointment.
 
              (4)  The Board may:
 
@@ -805,7 +805,7 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
                      (b)  terminate an appointment under this section at any time.
 
-             (5)  Where a person is acting as Deputy Managing Director in accordance with paragraph (2)(b) and the office in which the person is acting becomes vacant while that person is so acting, that person may continue so to act until the Board otherwise directs, the vacancy is filled or a period of 12 months from the date on which the vacancy occurred expires, whichever first happens.
+             (5)  Where a person is acting as Deputy Managing Director in accordance with paragraph (2)(b) and the office in which the person is acting becomes vacant while that person is so acting, that person may continue so to act until the Board otherwise directs, the vacancy is filled or a period of 12 months from the date on which the vacancy occurred expires, whichever first happens.
 
              (6)  The appointment of a person to act as Managing Director or Deputy Managing Director ceases to have effect if the person resigns by giving the Chairperson a signed notice of resignation.
 
@@ -813,7 +813,7 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
              (8)  While a person is acting as Deputy Managing Director, the person may exercise all the powers, and shall perform all the functions, of the Deputy Managing Director.
 
-             (9)  The validity of anything done by, or in relation to, a person purporting to act under subsection (1) or (2) shall not be called in question on the ground that:
+             (9)  The validity of anything done by, or in relation to, a person purporting to act under subsection (1) or (2) shall not be called in question on the ground that:
 
                      (a)  in the case of a person purporting to act under subsection (1)—the occasion for the person to act had not arisen or had ceased; or
 
@@ -829,13 +829,13 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
                    The Managing Director or the Deputy Managing Director may resign from office by writing signed by the Managing Director or the Deputy Managing Director, as the case requires, and delivered to the Chairperson.
 
-### Division 2—Other staff
+### Division 2—Other staff
 
 ##### <a id="60"></a>60  Employment of other staff
 
              (1)  The Commission may employ such persons as the Board considers necessary in connection with the performance of the functions and duties, and the exercise of the powers, of the Commission.
 
-             (2)  A person employed by the Commission under subsection (1) shall, subject to the other provisions of this Division, be employed on such terms and conditions as are determined in writing by the Commission.
+             (2)  A person employed by the Commission under subsection (1) shall, subject to the other provisions of this Division, be employed on such terms and conditions as are determined in writing by the Commission.
 
 ##### <a id="61"></a>61  Location and designation of persons employed
 
@@ -847,25 +847,25 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
 ##### <a id="62"></a>62  Application of _Merit Protection (Australian Government_ Employees) Act 1984 to persons employed
 
-             (1)  The regulations may provide for the application of the provisions, or of specified provisions, of the _Merit Protection (Australian Government Employees) Act 1984_, subject to such modifications and adaptations (if any) as are prescribed, to and in relation to persons employed by the Commission under section 60.
+             (1)  The regulations may provide for the application of the provisions, or of specified provisions, of the _Merit Protection (Australian Government Employees) Act 1984_, subject to such modifications and adaptations (if any) as are prescribed, to and in relation to persons employed by the Commission under section 60.
 
-             (2)  In subsection (1), **_modification_** includes the addition or omission of a provision or a substitution of a provision for another provision.
+             (2)  In subsection (1), **_modification_** includes the addition or omission of a provision or a substitution of a provision for another provision.
 
-             (3)  A reference in subsection (1) to persons employed by the Commission under section 60 does not include a reference to overseas engaged employees.
+             (3)  A reference in subsection (1) to persons employed by the Commission under section 60 does not include a reference to overseas engaged employees.
 
-## Part VII—Corporate plans and annual operational plans
+## Part VII—Corporate plans and annual operational plans
 
-### Division 1—Corporate plans
+### Division 1—Corporate plans
 
 ##### <a id="64"></a>64  Commission to develop corporate plans
 
-             (1)  The Commission shall develop, and prepare in written form, for each period determined in accordance with subsection (3), for the purpose of the more effective performance by the Commission of its functions under this Act, a corporate plan defining the principal objectives of the Commission in performing those functions during that period and giving a broad outline of the strategies to be pursued by the Commission to achieve those objectives.
+             (1)  The Commission shall develop, and prepare in written form, for each period determined in accordance with subsection (3), for the purpose of the more effective performance by the Commission of its functions under this Act, a corporate plan defining the principal objectives of the Commission in performing those functions during that period and giving a broad outline of the strategies to be pursued by the Commission to achieve those objectives.
 
-             (2)  A corporate plan prepared in accordance with this Division shall, in addition to the matters referred to in subsection (1), specify, in broad terms, in relation to each financial year to which the plan relates, the resources that are to be applied during that financial year to achieve the objectives set out in that plan.
+             (2)  A corporate plan prepared in accordance with this Division shall, in addition to the matters referred to in subsection (1), specify, in broad terms, in relation to each financial year to which the plan relates, the resources that are to be applied during that financial year to achieve the objectives set out in that plan.
 
-             (3)  The first corporate plan prepared in accordance with this Division shall be expressed to relate to the period of 3 years commencing on 1 July 1986 and ending on 30 June 1989 and each subsequent corporate plan shall be expressed to relate to the period of 3 years commencing on 1 July next following the end of the first year of the period to which the immediately preceding plan relates.
+             (3)  The first corporate plan prepared in accordance with this Division shall be expressed to relate to the period of 3 years commencing on 1 July 1986 and ending on 30 June 1989 and each subsequent corporate plan shall be expressed to relate to the period of 3 years commencing on 1 July next following the end of the first year of the period to which the immediately preceding plan relates.
 
-             (4)  Notwithstanding subsection 3(3), the reference in subsection (1) to the functions of the Commission under this Act does not include a reference to any functions conferred upon the Commission by the _Export Expansion Grants Act 1978_.
+             (4)  Notwithstanding subsection 3(3), the reference in subsection (1) to the functions of the Commission under this Act does not include a reference to any functions conferred upon the Commission by the _Export Expansion Grants Act 1978_.
 
 ##### <a id="65"></a>65  Approval of corporate plans
 
@@ -877,9 +877,9 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
 whichever is the later.
 
-             (2)  Upon the coming into force of a corporate plan under subsection (1), any corporate plan that is already in force ceases to be in force.
+             (2)  Upon the coming into force of a corporate plan under subsection (1), any corporate plan that is already in force ceases to be in force.
 
-##### <a id="66"></a>66  Variation of corporate plans
+##### <a id="66"></a>66  Variation of corporate plans
 
              (1)  The Commission may, at any time, review a corporate plan, whether or not it has come into force, and consider whether a variation to the plan is necessary.
 
@@ -891,17 +891,17 @@ whichever is the later.
 
              (5)  Where a variation of a corporate plan is approved by the Minister after the plan has come into force, the plan as so varied shall continue in force on and after the day on which the variation is so approved.
 
-### Division 2—Annual operational plans
+### Division 2—Annual operational plans
 
 ##### <a id="67"></a>67  Managing Director to develop annual operational plans
 
              (1)  The Managing Director shall develop, and prepare in written form, for each financial year, an annual operational plan that sets out the details of the strategies the Commission proposes to pursue, the programs the Commission proposes to carry out, and the resources the Commission proposes to allocate to each such program, during that financial year, in giving effect to the corporate plan that relates, or the intended corporate plan that will relate, to that financial year.
 
-             (2)  The first annual operational plan prepared in accordance with this Division shall be expressed to relate to the financial year commencing on 1 July 1986.
+             (2)  The first annual operational plan prepared in accordance with this Division shall be expressed to relate to the financial year commencing on 1 July 1986.
 
 ##### <a id="68"></a>68  Approval of annual operational plans
 
-             (1)  Each annual operational plan prepared in accordance with section 67 shall be submitted by the Managing Director to the Commission for approval not less than 2 months, or such longer period as is prescribed, before the day of commencement of the financial year to which the plan relates and the plan shall not come into force until:
+             (1)  Each annual operational plan prepared in accordance with section 67 shall be submitted by the Managing Director to the Commission for approval not less than 2 months, or such longer period as is prescribed, before the day of commencement of the financial year to which the plan relates and the plan shall not come into force until:
 
                      (a)  the day on which it is approved by the Commission; or
 
@@ -909,27 +909,27 @@ whichever is the later.
 
 whichever is the later.
 
-             (2)  The Commission shall approve an annual operational plan submitted to it under subsection (1) unless the Commission is of the opinion that it is inconsistent with the provisions of the corporate plan that relates, or the intended corporate plan that will relate, to the period of 3 years commencing on the day of commencement of the financial year to which the annual operational plan relates.
+             (2)  The Commission shall approve an annual operational plan submitted to it under subsection (1) unless the Commission is of the opinion that it is inconsistent with the provisions of the corporate plan that relates, or the intended corporate plan that will relate, to the period of 3 years commencing on the day of commencement of the financial year to which the annual operational plan relates.
 
 ##### <a id="69"></a>69  Variation of annual operational plans at request of Commission
 
              (1)  The Commission may, at any time, request the Managing Director to vary an annual operational plan, whether or not it has come into force.
 
-             (2)  Where the Commission requests a variation of an annual operational plan under subsection (1), the Managing Director shall, with the approval of the Commission, vary that plan accordingly.
+             (2)  Where the Commission requests a variation of an annual operational plan under subsection (1), the Managing Director shall, with the approval of the Commission, vary that plan accordingly.
 
              (3)  The Commission shall not request a variation of an annual operational plan unless it is satisfied that the annual operational plan as varied would be consistent with the provisions of the corporate plan that relates, or the intended corporate plan that will relate, to the period that includes, or will include, the financial year to which the annual operational plan relates.
 
-## Part VIII—Finance
+## Part VIII—Finance
 
 ##### <a id="71"></a>71  Money of the Commission
 
              (1)  There are to be available to the Commission such amounts as are, from time to time, appropriated by the Parliament for the purposes of the Commission, including, but without limiting the generality of the foregoing, amounts for the purpose of making payments of grants under the _Export Market Development Grants Act 1997_.
 
-             (2)  Money appropriated under subsection (1) is payable to the Commission at such times, and in such amounts, as the Minister for Finance determines in writing.
+             (2)  Money appropriated under subsection (1) is payable to the Commission at such times, and in such amounts, as the Minister for Finance determines in writing.
 
-             (3)  In making a determination under subsection (2) in relation to money appropriated under subsection (1), the Minister for Finance shall have regard to any advice that is given to that Minister by the Commission in relation to its financial affairs.
+             (3)  In making a determination under subsection (2) in relation to money appropriated under subsection (1), the Minister for Finance shall have regard to any advice that is given to that Minister by the Commission in relation to its financial affairs.
 
-             (4)  In subsection (1), the reference to the purposes of the Commission under this Act includes a reference to the purposes of the Commission in performing the functions conferred upon the Commission by the _Export Expansion Grants Act 1978_.
+             (4)  In subsection (1), the reference to the purposes of the Commission under this Act includes a reference to the purposes of the Commission in performing the functions conferred upon the Commission by the _Export Expansion Grants Act 1978_.
 
 ##### <a id="72"></a>72  Application of money of Commission other than money standing to credit of Fund
 
@@ -941,7 +941,7 @@ whichever is the later.
 
                      (c)  in payment of any expenses of an administrative nature incurred by the Commission in the performance of its functions or the exercise of its powers; or
 
-                     (e)  in making investments that the Commission is authorised to make under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
+                     (e)  in making investments that the Commission is authorised to make under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
 
 ##### <a id="78"></a>78  Borrowings from Commonwealth
 
@@ -957,23 +957,23 @@ whichever is the later.
 
 on such terms and conditions as are specified in the approval.
 
-             (2)  Without limiting the generality of subsection (1), the Commission may, under that subsection, borrow money, or raise money otherwise than by borrowing, by dealing with securities.
+             (2)  Without limiting the generality of subsection (1), the Commission may, under that subsection, borrow money, or raise money otherwise than by borrowing, by dealing with securities.
 
-             (3)  An approval may be given under subsection (1) in relation to a particular transaction or in relation to a transaction included in a class of transactions.
+             (3)  An approval may be given under subsection (1) in relation to a particular transaction or in relation to a transaction included in a class of transactions.
 
-             (4)  An approval under subsection (1) shall be given in writing.
+             (4)  An approval under subsection (1) shall be given in writing.
 
 ##### <a id="80"></a>80  Commission may give security
 
              (1)  The Commission may give security over the whole or any part of its assets:
 
-                     (a)  for the repayment by the Commission of money borrowed by virtue of section 78 or of paragraph 79(1)(a) and the payment by the Commission of interest on money so borrowed; or
+                     (a)  for the repayment by the Commission of money borrowed by virtue of section 78 or of paragraph 79(1)(a) and the payment by the Commission of interest on money so borrowed; or
 
                      (b)  for the payment by the Commission of money (including any interest) that the Commission is liable to pay in respect of money raised by virtue of paragraph 79(1)(b).
 
 ##### <a id="81"></a>81  Borrowings not otherwise permitted
 
-                   The Commission shall not borrow money or raise money otherwise than by borrowing, except in accordance with section 78 or 79.
+                   The Commission shall not borrow money or raise money otherwise than by borrowing, except in accordance with section 78 or 79.
 
 ##### <a id="82"></a>82  Guarantee by Commonwealth
 
@@ -981,13 +981,13 @@ on such terms and conditions as are specified in the approval.
 
 ##### <a id="83"></a>83  Exemption from taxation
 
-             (1)  Subject to subsection (3) the Commission is not subject to taxation under any law of the Commonwealth or of a State or Territory.
+             (1)  Subject to subsection (3) the Commission is not subject to taxation under any law of the Commonwealth or of a State or Territory.
 
-             (2)  The exemption from taxation conferred by subsection (1) does not extend to any company, partnership, consortium or other business association formed by the Commission, or in the formation of which the Commission has joined, pursuant to section 29, by reason only of the involvement of the Commission in its formation.
+             (2)  The exemption from taxation conferred by subsection (1) does not extend to any company, partnership, consortium or other business association formed by the Commission, or in the formation of which the Commission has joined, pursuant to section 29, by reason only of the involvement of the Commission in its formation.
 
-             (3)  The regulations may provide that subsection (1) does not apply in relation to a specified law of the Commonwealth or of a State or Territory or laws included in a specified class of laws of the Commonwealth or of a State or Territory.
+             (3)  The regulations may provide that subsection (1) does not apply in relation to a specified law of the Commonwealth or of a State or Territory or laws included in a specified class of laws of the Commonwealth or of a State or Territory.
 
-             (4)  If regulations made by virtue of subsection (3) provide that subsection (1) does not apply in relation to the laws of the Commonwealth that impose income tax, the Commission shall be deemed not to be a public authority for the purposes of paragraph 23(d) of the _Income Tax Assessment Act 1936_ or section 50-25 of the _Income Tax Assessment Act 1997_.
+             (4)  If regulations made by virtue of subsection (3) provide that subsection (1) does not apply in relation to the laws of the Commonwealth that impose income tax, the Commission shall be deemed not to be a public authority for the purposes of paragraph 23(d) of the _Income Tax Assessment Act 1936_ or section 50-25 of the _Income Tax Assessment Act 1997_.
 
              (5)  Securities issued by the Commission are not public securities or Commonwealth securities for the purposes of the _Income Tax Assessment Act 1936_.
 
@@ -1003,9 +1003,9 @@ on such terms and conditions as are specified in the approval.
 
              (2)  The Commission shall ensure, at all times, that the assessed net commercial risk of the Commission in relation to its business in respect of overseas development projects does not at any time exceed the prescribed amount.
 
-             (3)  Without limiting the generality of subsection (2), the Commission shall make an assessment under subsection (1) of the assessed net commercial risk of the Commission in relation to its business in respect of overseas development projects whenever it is considering a proposal that is likely to result in a relevant contract being entered into by a party referred to in paragraph (1)(a), (b) or (c).
+             (3)  Without limiting the generality of subsection (2), the Commission shall make an assessment under subsection (1) of the assessed net commercial risk of the Commission in relation to its business in respect of overseas development projects whenever it is considering a proposal that is likely to result in a relevant contract being entered into by a party referred to in paragraph (1)(a), (b) or (c).
 
-             (4)  In making an assessment for the purposes of subsection (1) of the maximum financial liability of the Commission that is referred to in that subsection, the Commission shall:
+             (4)  In making an assessment for the purposes of subsection (1) of the maximum financial liability of the Commission that is referred to in that subsection, the Commission shall:
 
                      (a)  act in accordance with generally accepted commercial practice; and
 
@@ -1013,51 +1013,51 @@ on such terms and conditions as are specified in the approval.
 
 ##### <a id="89"></a>89  Extra matters to be included in annual report
 
-                   The financial statements in an annual report on the Commission under section 9 of the _Commonwealth Authorities and Companies Act 1997_ must show separately the financial effect on the Commission’s operations of each direction that:
+                   The financial statements in an annual report on the Commission under section 9 of the _Commonwealth Authorities and Companies Act 1997_ must show separately the financial effect on the Commission’s operations of each direction that:
 
                      (a)  was given to the Commission by the Minister under subsection 10(1) of this Act; and
 
                      (b)  was in force for all or part of the year to which the report relates.
 
-## Part IX—Miscellaneous
+## Part IX—Miscellaneous
 
 ##### <a id="90"></a>90  Delegations by Minister and Managing Director
 
              (1)  The Minister may, either generally or as otherwise provided in the instrument of delegation, by writing signed by the Minister, delegate to the Board all or any of the powers of the Minister:
 
-                     (a)  under this Act other than this power of delegation or the Minister’s powers under sections 65 and 66; and
+                     (a)  under this Act other than this power of delegation or the Minister’s powers under sections 65 and 66; and
 
                      (b)  under the _Export Market Development Grants Act 1997_.
 
              (2)  The Managing Director may, either generally or as otherwise provided in the instrument of delegation, by writing signed by the Managing Director, delegate to the Deputy Managing Director or a person employed by the Commission all or any of the powers of the Managing Director under this Act other than this power of delegation.
 
-             (3)  A power under this Act or under the _Export Market Development Grants Act 1997_ that is delegated under subsection (1) or (2), when exercised by the delegate, shall, for the purposes of this Act or the _Export Market Development Grants Act 1997_, as the case requires, be deemed to have been exercised by the person who gave the delegation.
+             (3)  A power under this Act or under the _Export Market Development Grants Act 1997_ that is delegated under subsection (1) or (2), when exercised by the delegate, shall, for the purposes of this Act or the _Export Market Development Grants Act 1997_, as the case requires, be deemed to have been exercised by the person who gave the delegation.
 
              (4)  A delegation of a power by a person under this section does not prevent the exercise of that power by that person.
 
 ##### <a id="91"></a>91  Delegation by Commission
 
-             (1)  Subject to subsection (2), the Commission may, either generally or as otherwise provided in the instrument of delegation, by writing, delegate all or any of its powers and functions under this Act, other than this power of delegation, to:
+             (1)  Subject to subsection (2), the Commission may, either generally or as otherwise provided in the instrument of delegation, by writing, delegate all or any of its powers and functions under this Act, other than this power of delegation, to:
 
-                     (a)  a committee appointed under section 14;
+                     (a)  a committee appointed under section 14;
 
                      (b)  the Managing Director or the Deputy Managing Director; or
 
-                     (c)  any person employed by the Commission under section 60.
+                     (c)  any person employed by the Commission under section 60.
 
-             (2)  The Minister may, if the Minister thinks it appropriate to do so, give directions to the Commission concerning the exercise of its power of delegation under subsection (1).
+             (2)  The Minister may, if the Minister thinks it appropriate to do so, give directions to the Commission concerning the exercise of its power of delegation under subsection (1).
 
-             (3)  A power or function that is delegated pursuant to subsection (1) when exercised or performed by the delegate, shall be deemed to have been exercised or performed by the Commission.
+             (3)  A power or function that is delegated pursuant to subsection (1) when exercised or performed by the delegate, shall be deemed to have been exercised or performed by the Commission.
 
              (4)  A delegation of a power or a function by the Commission under this section does not prevent the exercise of that power or the performance of that function by the Commission.
 
 ##### <a id="92"></a>92  Annual Reports
 
-             (1)  The report of operations in the annual report on the Commission under section 9 of the _Commonwealth Authorities and Companies Act 1997_ must include information about the Commission’s operations under the _Export Market Development Grants Act 1974_, but not the Commission’s operations under the _Export Expansion Grants Act 1978_.
+             (1)  The report of operations in the annual report on the Commission under section 9 of the _Commonwealth Authorities and Companies Act 1997_ must include information about the Commission’s operations under the _Export Market Development Grants Act 1974_, but not the Commission’s operations under the _Export Expansion Grants Act 1978_.
 
-             (2)  The Commission shall include in each annual report referred to in subsection (1), particulars of all directions given by the Minister to the Commission under subsection 10(1) other than any direction that includes a statement to the effect that the direction is not to be disclosed for reasons of national security or because its disclosure would have an adverse effect on the financial interests or property interests of the Commonwealth or of an instrumentality of the Commonwealth.
+             (2)  The Commission shall include in each annual report referred to in subsection (1), particulars of all directions given by the Minister to the Commission under subsection 10(1) other than any direction that includes a statement to the effect that the direction is not to be disclosed for reasons of national security or because its disclosure would have an adverse effect on the financial interests or property interests of the Commonwealth or of an instrumentality of the Commonwealth.
 
-             (3)  The Commission shall include in each annual report referred to in subsection (1):
+             (3)  The Commission shall include in each annual report referred to in subsection (1):
 
                      (a)  a statement of the principal objectives of the Commission for the period to which the report relates; and
 
@@ -1073,7 +1073,7 @@ on such terms and conditions as are specified in the approval.
 
                      (c)  Managing Director, Deputy Managing Director, acting Managing Director or acting Deputy Managing Director; or
 
-                     (d)  employed by the Commission under section 60.
+                     (d)  employed by the Commission under section 60.
 
              (2)  Subject to this section, a person to whom this section applies shall not, either directly or indirectly, except for the purposes of this Act:
 
@@ -1083,9 +1083,9 @@ on such terms and conditions as are specified in the approval.
 
                     Penalty:  $2,000 or imprisonment for 1 year, or both.
 
-             (3)  Subsection (2) does not apply to the disclosure of information, or the production of a document, to the Minister, to the Secretary to the Department, or to an officer of the Department designated by the Secretary.
+             (3)  Subsection (2) does not apply to the disclosure of information, or the production of a document, to the Minister, to the Secretary to the Department, or to an officer of the Department designated by the Secretary.
 
-             (4)  Subsection (2) does not prevent the Commission from communicating, or making available to another person:
+             (4)  Subsection (2) does not prevent the Commission from communicating, or making available to another person:
 
                      (b)  the following information relating to payments of grants authorised by the Commission under the _Export Market Development Grants Act 1997_ or the _Export Market Development Grants Act 1974_:
 
@@ -1097,9 +1097,9 @@ on such terms and conditions as are specified in the approval.
 
                      (c)  any information of a statistical nature relating to the making of grants under the _Export Market Development Grants Act 1974_ or the _Export Market Development Grants Act 1997_.
 
-             (5)  A person to whom this section applies shall not be required to divulge or communicate to a court any information referred to in subsection (2) or to produce in a court any document referred to in that subsection, except when it is necessary to do so for the purposes of, or of a prosecution for an offence against, this Act, the _Export Market Development Grants Act 1974_ or the _Export Market Development Grants Act 1997_.
+             (5)  A person to whom this section applies shall not be required to divulge or communicate to a court any information referred to in subsection (2) or to produce in a court any document referred to in that subsection, except when it is necessary to do so for the purposes of, or of a prosecution for an offence against, this Act, the _Export Market Development Grants Act 1974_ or the _Export Market Development Grants Act 1997_.
 
-             (6)  A person to whom information is communicated under subsection (3) and an employee or other person under that person’s control are, in respect of that information, entitled to rights and privileges, and subject to obligations and liabilities, under subsections (2) and (5) as if they were persons referred to in subsection (1).
+             (6)  A person to whom information is communicated under subsection (3) and an employee or other person under that person’s control are, in respect of that information, entitled to rights and privileges, and subject to obligations and liabilities, under subsections (2) and (5) as if they were persons referred to in subsection (1).
 
              (7)  In this section:
 
@@ -1131,11 +1131,11 @@ on such terms and conditions as are specified in the approval.
 
                      (b)  the knowledge of any person employed by, or concerned in the management of, the corporation shall be deemed to be knowledge of the corporation.
 
-             (4)  An offence against subsection (1) is an indictable offence.
+             (4)  An offence against subsection (1) is an indictable offence.
 
-             (5)  Notwithstanding that an offence against subsection (1) is expressed to be an indictable offence, a court of summary jurisdiction may hear and determine proceedings in respect of such an offence if the court is satisfied that it is proper to do so and the defendant and the prosecutor consent.
+             (5)  Notwithstanding that an offence against subsection (1) is expressed to be an indictable offence, a court of summary jurisdiction may hear and determine proceedings in respect of such an offence if the court is satisfied that it is proper to do so and the defendant and the prosecutor consent.
 
-             (6)  Where, in accordance with subsection (5), a court of summary jurisdiction convicts a person of an offence against subsection (1), the penalty that the court may impose is:
+             (6)  Where, in accordance with subsection (5), a court of summary jurisdiction convicts a person of an offence against subsection (1), the penalty that the court may impose is:
 
                      (a)  in the case of a corporation—$10,000; or
 
@@ -1161,9 +1161,7 @@ and in particular:
 
 ### Note 1
 
-The _Australian Trade Commission Act 1985_ as shown in this compilation comprises Act No. 186, 1985 amended as indicated in the Tables below.
-
-All relevant information pertaining to application, saving or transitional provisions prior to 24 November 2000 is not included in this compilation. For subsequent information _see_ Table A.
+The _Australian Trade Commission Act 1985_ as shown in this compilation comprises Act No. 186, 1985 amended as indicated in the Tables below.
 
 ### Table of Acts
 
@@ -1215,7 +1213,7 @@ Remainder: 6 Jan 1986 ( <i>see Gazette</i>1985, No. S551)</div>
 </tr>
 <tr>
   <td>
-    <div>Statute Law (Miscellaneous Provisions) Act (No. 2) 1986</div>
+    <div>Statute Law (Miscellaneous Provisions) Act (No. 2) 1986</div>
   </td>
   <td>
     <div>168, 1986</div>
@@ -1258,7 +1256,7 @@ Remainder: 6 Jan 1986 ( <i>see Gazette</i>1985, No. S551)</div>
     <div>20 Apr 1989</div>
   </td>
   <td>
-    <div>9 June 1989 ( <i>see</i>s. 2 and <i>Gazette</i>1989, No. S185)</div>
+    <div>9 June 1989 ( <i>see</i>s. 2 and <i>Gazette</i>1989, No. S185)</div>
   </td>
   <td>
     <div>—</div>
@@ -1272,12 +1270,12 @@ Remainder: 6 Jan 1986 ( <i>see Gazette</i>1985, No. S551)</div>
     <div>91, 1989</div>
   </td>
   <td>
-    <div>27 June 1989</div>
+    <div>27 June 1989</div>
   </td>
   <td>
     <div>S. 15: 14 Dec 1988 
-Part 4 (ss. 20-25): 30 Nov 1989 ( <i>see Gazette</i>1989, No. S371) 
-Part 5 (ss. 26, 27): 1 Aug 1989 ( <i>see Gazette</i>1989, No. S262) 
+Part 4 (ss. 20-25): 30 Nov 1989 ( <i>see Gazette</i>1989, No. S371) 
+Part 5 (ss. 26, 27): 1 Aug 1989 ( <i>see Gazette</i>1989, No. S262) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -1295,8 +1293,8 @@ Remainder: Royal Assent</div>
     <div>7 Nov 1989</div>
   </td>
   <td>
-    <div>Part 1 (ss. 1, 2), ss. 3, 26, 29-33, 35, 38 and 40: Royal Assent 
-S. 23(1): 4 May 1989 
+    <div>Part 1 (ss. 1, 2), ss. 3, 26, 29-33, 35, 38 and 40: Royal Assent 
+S. 23(1): 4 May 1989 
 S. 39: 23 Jan 1988 
 Remainder: 28 Dec 1989 ( <i>see Gazette</i>1989, No. S383)</div>
   </td>
@@ -1312,7 +1310,7 @@ Remainder: 28 Dec 1989 ( <i>see Gazette</i>1989, No. S383)</div>
     <div>122, 1991</div>
   </td>
   <td>
-    <div>27 June 1991</div>
+    <div>27 June 1991</div>
   </td>
   <td>
     <div>Ss. 4(1), 10(b) and 15-20: 1 Dec 1988 
@@ -1385,7 +1383,7 @@ Remainder: Royal Assent</div>
     <div>22 Apr 1997</div>
   </td>
   <td>
-    <div>1 July 1997</div>
+    <div>1 July 1997</div>
   </td>
   <td>
     <div>—</div>
@@ -1399,10 +1397,10 @@ Remainder: Royal Assent</div>
     <div>121, 1997</div>
   </td>
   <td>
-    <div>8 July 1997</div>
+    <div>8 July 1997</div>
   </td>
   <td>
-    <div>Schedule 3 (item 65): <i>(c)</i></div>
+    <div>Schedule 3 (item 65): <i>(c)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1419,7 +1417,7 @@ Remainder: Royal Assent</div>
     <div>24 Oct 1997</div>
   </td>
   <td>
-    <div>Schedule 2 (items 533-541): 1 Jan 1998 ( <i>see</i> <i>Gazette</i>1997, No. GN49) <i>(d)</i></div>
+    <div>Schedule 2 (items 533-541): 1 Jan 1998 ( <i>see</i> <i>Gazette</i>1997, No. GN49) <i>(d)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1433,10 +1431,10 @@ Remainder: Royal Assent</div>
     <div>100, 1999</div>
   </td>
   <td>
-    <div>16 July 1999</div>
+    <div>16 July 1999</div>
   </td>
   <td>
-    <div>16 July 1999</div>
+    <div>16 July 1999</div>
   </td>
   <td>
     <div>—</div>
@@ -1453,7 +1451,7 @@ Remainder: Royal Assent</div>
     <div>11 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 1 (items 270-272): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(e)</i></div>
+    <div>Schedule 1 (items 270-272): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(e)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1470,67 +1468,44 @@ Remainder: Royal Assent</div>
     <div>24 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 10 (item 61): 13 Mar 2000 ( <i>see</i> <i>Gazette</i>2000,No. S114) <i>(f)</i></div>
+    <div>Schedule 10 (item 61): 13 Mar 2000 ( <i>see</i> <i>Gazette</i>2000,No. S114) <i>(f)</i></div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000</div>
-  </td>
-  <td>
-    <div>137, 2000</div>
-  </td>
-  <td>
-    <div>24 Nov 2000</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 51, 418, 419): \[ <i>see (g)</i>, Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 2 (items 418, 419)</div>
   </td>
 </tr></table>
 
  
 
-_(a)_     The _Australian Trade Commission Act 1985_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1986_, subsection 2(1) of which provides as follows:
+_(a)_     The _Australian Trade Commission Act 1985_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1986_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
+                  (1)   Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
 
-_(b)_    The _Australian Trade Commission Act 1985_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act 1987_, subsection 2(1) of which provides as follows:
+_(b)_    The _Australian Trade Commission Act 1985_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act 1987_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
+                  (1)   Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
 
-_(c)_ The _Australian Trade Commission Act 1985_ was amended by Schedule 3 (item 65) only of the _Tax Law Improvement Act 1997_, subsections 2(2) and (3) of which provide as follows:
+_(c)_ The _Australian Trade Commission Act 1985_ was amended by Schedule 3 (item 65) only of the _Tax Law Improvement Act 1997_, subsections 2(2) and (3) of which provide as follows:
 
-                 (2)   Schedule 1 commences on 1 July 1997 immediately after the commencement of the _Income Tax Assessment Act 1997_.
+                  (2)   Schedule 1 commences on 1 July 1997 immediately after the commencement of the _Income Tax Assessment Act 1997_.
 
-                 (3)   Each of the other Schedules (except Schedule 12) commences immediately after the commencement of the immediately preceding Schedule.
+                  (3)   Each of the other Schedules (except Schedule 12) commences immediately after the commencement of the immediately preceding Schedule.
 
-_(d)_ The _Australian Trade Commission Act 1985_ was amended by Schedule 2 (items 533-541) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
+_(d)_ The _Australian Trade Commission Act 1985_ was amended by Schedule 2 (items 533-541) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
 
-                 (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
+                  (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
 
-_(e)_ The _Australian Trade Commission Act 1985_ was amended by Schedule 1 (items 270-272) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+_(e)_ The _Australian Trade Commission Act 1985_ was amended by Schedule 1 (items 270-272) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
 
-                 (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
+                  (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
 
-                 (2)   Subject to this section, this Act commences at the commencing time.
+                  (2)   Subject to this section, this Act commences at the commencing time.
 
-_(f)_ The _Australian Trade Commission Act 1985_ was amended by Schedule 10 (item 61) only of the _Corporate Law Economic Reform Program Act 1999_, subsection 2(2)(c) of which provides as follows:
+_(f)_ The _Australian Trade Commission Act 1985_ was amended by Schedule 10 (item 61) only of the _Corporate Law Economic Reform Program Act 1999_, subsection 2(2)(c) of which provides as follows:
 
-                 (2)   The following provisions commence on a day or days to be fixed by Proclamation:
+                  (2)   The following provisions commence on a day or days to be fixed by Proclamation:
 
-                              (c)   the items in Schedules 10, 11 and 12.
-
-_(g)_     The _Australian Trade Commission Act 1985_ was amended by Schedule 2 (item 51) only of the _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000_, subsections 2(2) and (3) of which provide as follows:
-
-                 (2)   Subject to this section, the provisions of this Act that are not covered by subsection (1) commence on a day to be fixed by Proclamation. [_see_ Note 2]
-
-                 (3)   If item 15 of Schedule 1 to this Act does not commence under subsection (2) within the period of 6 months beginning on the day on which this Act receives the Royal Assent, the provisions of this Act that are not covered by subsection (1) commence on the first day after the end of that period. This subsection has effect subject to the following subsections of this section. [_see_ Note 2]
+                             (c)   the items in Schedules 10, 11 and 12.
 
 ## Table of Amendments
 
@@ -1558,7 +1533,7 @@ _(g)_     The _Australian Trade Commission Act 1985_ was amended by Sche
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 129, 1989; No. 149, 1991; Nos. 44 and 152; 1997; No. 146, 1999</div>
+    <div>am. No. 129, 1989; No. 149, 1991; Nos. 44 and 152; 1997; No. 146, 1999</div>
   </td>
 </tr>
 <tr>
@@ -1566,7 +1541,7 @@ _(g)_     The _Australian Trade Commission Act 1985_ was amended by Sche
     <div>Heading to s. 6</div>
   </td>
   <td>
-    <div>am. No. 44, 1997</div>
+    <div>am. No. 44, 1997</div>
   </td>
 </tr>
 <tr>
@@ -1574,7 +1549,7 @@ _(g)_     The _Australian Trade Commission Act 1985_ was amended by Sche
     <div>S. 6</div>
   </td>
   <td>
-    <div>am. No. 44 1997</div>
+    <div>am. No. 44 1997</div>
   </td>
 </tr>
 <tr>
@@ -1582,7 +1557,7 @@ _(g)_     The _Australian Trade Commission Act 1985_ was amended by Sche
     <div>Note to s. 7(2)</div>
   </td>
   <td>
-    <div>ad. No. 152, 1997</div>
+    <div>ad. No. 152, 1997</div>
   </td>
 </tr>
 <tr>
@@ -1590,7 +1565,7 @@ _(g)_     The _Australian Trade Commission Act 1985_ was amended by Sche
     <div>S. 8</div>
   </td>
   <td>
-    <div>am. No. 149, 1991; No. 44, 1997</div>
+    <div>am. No. 149, 1991; No. 44, 1997</div>
   </td>
 </tr>
 <tr>
@@ -1598,7 +1573,7 @@ _(g)_     The _Australian Trade Commission Act 1985_ was amended by Sche
     <div>S. 10</div>
   </td>
   <td>
-    <div>am. No. 44, 1997</div>
+    <div>am. No. 44, 1997</div>
   </td>
 </tr>
 <tr>
@@ -1606,7 +1581,7 @@ _(g)_     The _Australian Trade Commission Act 1985_ was amended by Sche
     <div>S. 12</div>
   </td>
   <td>
-    <div>am. No. 141, 1987; No. 91, 1989; No. 149, 1991; No. 127, 1994</div>
+    <div>am. No. 141, 1987; No. 91, 1989; No. 149, 1991; No. 127, 1994</div>
   </td>
 </tr>
 <tr>
@@ -1614,7 +1589,7 @@ _(g)_     The _Australian Trade Commission Act 1985_ was amended by Sche
     <div>S. 13</div>
   </td>
   <td>
-    <div>am. No. 44, 1997</div>
+    <div>am. No. 44, 1997</div>
   </td>
 </tr>
 <tr>
@@ -1622,7 +1597,7 @@ _(g)_     The _Australian Trade Commission Act 1985_ was amended by Sche
     <div>Ss. 15-17</div>
   </td>
   <td>
-    <div>am. No. 149, 1991</div>
+    <div>am. No. 149, 1991</div>
   </td>
 </tr>
 <tr>
@@ -1630,7 +1605,7 @@ _(g)_     The _Australian Trade Commission Act 1985_ was amended by Sche
     <div>S. 20</div>
   </td>
   <td>
-    <div>am. No. 149, 1991; No. 152, 1997; No. 156, 1999</div>
+    <div>am. No. 149, 1991; No. 152, 1997; No. 156, 1999</div>
   </td>
 </tr>
 <tr>
@@ -1638,7 +1613,7 @@ _(g)_     The _Australian Trade Commission Act 1985_ was amended by Sche
     <div>S. 22</div>
   </td>
   <td>
-    <div>rep. No. 152, 1997</div>
+    <div>rep. No. 152, 1997</div>
   </td>
 </tr>
 <tr>
@@ -1646,7 +1621,7 @@ _(g)_     The _Australian Trade Commission Act 1985_ was amended by Sche
     <div>S. 23</div>
   </td>
   <td>
-    <div>am. No. 21, 1989; No. 44, 1997</div>
+    <div>am. No. 21, 1989; No. 44, 1997</div>
   </td>
 </tr>
 <tr>
@@ -1654,7 +1629,7 @@ _(g)_     The _Australian Trade Commission Act 1985_ was amended by Sche
     <div>S. 30</div>
   </td>
   <td>
-    <div>am. No. 44, 1997</div>
+    <div>am. No. 44, 1997</div>
   </td>
 </tr>
 <tr>
@@ -1662,16 +1637,16 @@ _(g)_     The _Australian Trade Commission Act 1985_ was amended by Sche
     <div>Ss. 31, 32</div>
   </td>
   <td>
-    <div>rep. No. 149, 1991</div>
+    <div>rep. No. 149, 1991</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>Part V 
+    <div>Part V 
 (ss. 33-50)</div>
   </td>
   <td>
-    <div>rep. No. 149, 1991</div>
+    <div>rep. No. 149, 1991</div>
   </td>
 </tr>
 <tr>
@@ -1679,7 +1654,7 @@ _(g)_     The _Australian Trade Commission Act 1985_ was amended by Sche
     <div>S. 33</div>
   </td>
   <td>
-    <div>am. No. 168, 1986</div>
+    <div>am. No. 168, 1986</div>
   </td>
 </tr>
 <tr>
@@ -1687,7 +1662,7 @@ _(g)_     The _Australian Trade Commission Act 1985_ was amended by Sche
     <div></div>
   </td>
   <td>
-    <div>rep. No. 149, 1991</div>
+    <div>rep. No. 149, 1991</div>
   </td>
 </tr>
 <tr>
@@ -1695,7 +1670,7 @@ _(g)_     The _Australian Trade Commission Act 1985_ was amended by Sche
     <div>Ss. 34-45</div>
   </td>
   <td>
-    <div>rep. No. 149, 1991</div>
+    <div>rep. No. 149, 1991</div>
   </td>
 </tr>
 <tr>
@@ -1703,7 +1678,7 @@ _(g)_     The _Australian Trade Commission Act 1985_ was amended by Sche
     <div>S. 46</div>
   </td>
   <td>
-    <div>am. No. 168, 1986</div>
+    <div>am. No. 168, 1986</div>
   </td>
 </tr>
 <tr>
@@ -1711,7 +1686,7 @@ _(g)_     The _Australian Trade Commission Act 1985_ was amended by Sche
     <div></div>
   </td>
   <td>
-    <div>rep. No. 149, 1991</div>
+    <div>rep. No. 149, 1991</div>
   </td>
 </tr>
 <tr>
@@ -1719,7 +1694,7 @@ _(g)_     The _Australian Trade Commission Act 1985_ was amended by Sche
     <div>Ss. 47-50</div>
   </td>
   <td>
-    <div>rep. No. 149, 1991</div>
+    <div>rep. No. 149, 1991</div>
   </td>
 </tr>
 <tr>
@@ -1727,7 +1702,7 @@ _(g)_     The _Australian Trade Commission Act 1985_ was amended by Sche
     <div>Ss. 51, 52</div>
   </td>
   <td>
-    <div>rs. No. 149, 1991</div>
+    <div>rs. No. 149, 1991</div>
   </td>
 </tr>
 <tr>
@@ -1735,7 +1710,7 @@ _(g)_     The _Australian Trade Commission Act 1985_ was amended by Sche
     <div>S. 54</div>
   </td>
   <td>
-    <div>am. No. 149, 1991</div>
+    <div>am. No. 149, 1991</div>
   </td>
 </tr>
 <tr>
@@ -1743,7 +1718,7 @@ _(g)_     The _Australian Trade Commission Act 1985_ was amended by Sche
     <div>S. 56</div>
   </td>
   <td>
-    <div>am. No. 149, 1991</div>
+    <div>am. No. 149, 1991</div>
   </td>
 </tr>
 <tr>
@@ -1751,7 +1726,7 @@ _(g)_     The _Australian Trade Commission Act 1985_ was amended by Sche
     <div>S. 57</div>
   </td>
   <td>
-    <div>rs. No. 122, 1991</div>
+    <div>rs. No. 122, 1991</div>
   </td>
 </tr>
 <tr>
@@ -1759,7 +1734,7 @@ _(g)_     The _Australian Trade Commission Act 1985_ was amended by Sche
     <div></div>
   </td>
   <td>
-    <div>am. No. 146, 1999</div>
+    <div>am. No. 146, 1999</div>
   </td>
 </tr>
 <tr>
@@ -1767,7 +1742,7 @@ _(g)_     The _Australian Trade Commission Act 1985_ was amended by Sche
     <div>S. 58</div>
   </td>
   <td>
-    <div>am. No. 149, 1991</div>
+    <div>am. No. 149, 1991</div>
   </td>
 </tr>
 <tr>
@@ -1775,7 +1750,7 @@ _(g)_     The _Australian Trade Commission Act 1985_ was amended by Sche
     <div>S. 59</div>
   </td>
   <td>
-    <div>am. No. 122, 1991</div>
+    <div>am. No. 122, 1991</div>
   </td>
 </tr>
 <tr>
@@ -1783,7 +1758,7 @@ _(g)_     The _Australian Trade Commission Act 1985_ was amended by Sche
     <div></div>
   </td>
   <td>
-    <div>rep. No. 149, 1991</div>
+    <div>rep. No. 149, 1991</div>
   </td>
 </tr>
 <tr>
@@ -1791,7 +1766,7 @@ _(g)_     The _Australian Trade Commission Act 1985_ was amended by Sche
     <div>S. 60</div>
   </td>
   <td>
-    <div>am. No. 199, 1991</div>
+    <div>am. No. 199, 1991</div>
   </td>
 </tr>
 <tr>
@@ -1799,7 +1774,7 @@ _(g)_     The _Australian Trade Commission Act 1985_ was amended by Sche
     <div>S. 63</div>
   </td>
   <td>
-    <div>rep. No. 146, 1999</div>
+    <div>rep. No. 146, 1999</div>
   </td>
 </tr>
 <tr>
@@ -1807,7 +1782,7 @@ _(g)_     The _Australian Trade Commission Act 1985_ was amended by Sche
     <div>S. 64</div>
   </td>
   <td>
-    <div>am. No. 149, 1991</div>
+    <div>am. No. 149, 1991</div>
   </td>
 </tr>
 <tr>
@@ -1815,7 +1790,7 @@ _(g)_     The _Australian Trade Commission Act 1985_ was amended by Sche
     <div>S. 70</div>
   </td>
   <td>
-    <div>rep. No. 149, 1991</div>
+    <div>rep. No. 149, 1991</div>
   </td>
 </tr>
 <tr>
@@ -1823,7 +1798,7 @@ _(g)_     The _Australian Trade Commission Act 1985_ was amended by Sche
     <div>S. 71</div>
   </td>
   <td>
-    <div>am. No. 149, 1991; No. 44, 1997</div>
+    <div>am. No. 149, 1991; No. 44, 1997</div>
   </td>
 </tr>
 <tr>
@@ -1831,7 +1806,7 @@ _(g)_     The _Australian Trade Commission Act 1985_ was amended by Sche
     <div>S. 72</div>
   </td>
   <td>
-    <div>am. No. 168, 1986; No. 149, 1991; No. 152, 1997</div>
+    <div>am. No. 168, 1986; No. 149, 1991; No. 152, 1997</div>
   </td>
 </tr>
 <tr>
@@ -1839,7 +1814,7 @@ _(g)_     The _Australian Trade Commission Act 1985_ was amended by Sche
     <div>S. 73</div>
   </td>
   <td>
-    <div>am. No. 168, 1986</div>
+    <div>am. No. 168, 1986</div>
   </td>
 </tr>
 <tr>
@@ -1847,7 +1822,7 @@ _(g)_     The _Australian Trade Commission Act 1985_ was amended by Sche
     <div></div>
   </td>
   <td>
-    <div>rep. No. 149, 1991</div>
+    <div>rep. No. 149, 1991</div>
   </td>
 </tr>
 <tr>
@@ -1855,7 +1830,7 @@ _(g)_     The _Australian Trade Commission Act 1985_ was amended by Sche
     <div>Ss. 74, 75</div>
   </td>
   <td>
-    <div>rep. No. 149, 1991</div>
+    <div>rep. No. 149, 1991</div>
   </td>
 </tr>
 <tr>
@@ -1863,7 +1838,7 @@ _(g)_     The _Australian Trade Commission Act 1985_ was amended by Sche
     <div>Ss. 76, 77</div>
   </td>
   <td>
-    <div>rep. No. 152, 1997</div>
+    <div>rep. No. 152, 1997</div>
   </td>
 </tr>
 <tr>
@@ -1871,7 +1846,7 @@ _(g)_     The _Australian Trade Commission Act 1985_ was amended by Sche
     <div>S. 80</div>
   </td>
   <td>
-    <div>am. No. 149, 1991</div>
+    <div>am. No. 149, 1991</div>
   </td>
 </tr>
 <tr>
@@ -1879,7 +1854,7 @@ _(g)_     The _Australian Trade Commission Act 1985_ was amended by Sche
     <div>S. 83</div>
   </td>
   <td>
-    <div>am. No. 121, 1997</div>
+    <div>am. No. 121, 1997</div>
   </td>
 </tr>
 <tr>
@@ -1887,7 +1862,7 @@ _(g)_     The _Australian Trade Commission Act 1985_ was amended by Sche
     <div>Ss. 84-87</div>
   </td>
   <td>
-    <div>rep. No. 149, 1991</div>
+    <div>rep. No. 149, 1991</div>
   </td>
 </tr>
 <tr>
@@ -1895,7 +1870,7 @@ _(g)_     The _Australian Trade Commission Act 1985_ was amended by Sche
     <div>S. 89</div>
   </td>
   <td>
-    <div>rs. No. 152, 1997</div>
+    <div>rs. No. 152, 1997</div>
   </td>
 </tr>
 <tr>
@@ -1903,7 +1878,7 @@ _(g)_     The _Australian Trade Commission Act 1985_ was amended by Sche
     <div>S. 90</div>
   </td>
   <td>
-    <div>am. No. 149, 1991; No. 44, 1997</div>
+    <div>am. No. 149, 1991; No. 44, 1997</div>
   </td>
 </tr>
 <tr>
@@ -1919,7 +1894,7 @@ _(g)_     The _Australian Trade Commission Act 1985_ was amended by Sche
     <div>S. 93</div>
   </td>
   <td>
-    <div>rep. No. 152, 1997</div>
+    <div>rep. No. 152, 1997</div>
   </td>
 </tr>
 <tr>
@@ -1927,7 +1902,7 @@ _(g)_     The _Australian Trade Commission Act 1985_ was amended by Sche
     <div>S. 94</div>
   </td>
   <td>
-    <div>am. No. 149, 1991; No. 44, 1997; No. 100, 1999</div>
+    <div>am. No. 149, 1991; No. 44, 1997; No. 100, 1999</div>
   </td>
 </tr>
 <tr>
@@ -1935,60 +1910,10 @@ _(g)_     The _Australian Trade Commission Act 1985_ was amended by Sche
     <div>S. 97</div>
   </td>
   <td>
-    <div>am. No. 149, 1991</div>
+    <div>am. No. 149, 1991</div>
   </td>
 </tr></table>
 
  
-
-### Note 2
-
-_Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)_
-
-The following amendment commences on 24 May 2001 unless proclaimed earlier:
-
-## Schedule 2
-
-## 51  Subsection 95(2)
-
-Repeal the subsection.
-
-As at 13 December 2000 the amendment is not incorporated in this compilation.
-
-Table A
-
-### Application, saving or transitional provisions
-
-_Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)_
-
-The following provisions commence on 24 May 2001 unless proclaimed earlier:
-
-## Schedule 2
-
-## 418  Transitional—pre-commencement offences
-
-(1)        Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
-
-                     (a)  an offence committed before the commencement of this item; or
-
-                     (b)  proceedings for an offence alleged to have been committed before the commencement of this item; or
-
-                     (c)  any matter connected with, or arising out of, such proceedings;
-
-as if the amendment or repeal had not been made.
-
-(2)        Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
-
-## 419  Transitional—pre-commencement notices
-
-If:
-
-                     (a)  a provision in force immediately before the commencement of this item required that a notice set out the effect of one or more other provisions; and
-
-                     (b)  any or all of those other provisions are repealed by this Schedule; and
-
-                     (c)  the first-mentioned provision is amended by this Schedule;
-
-the amendment of the first-mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
 
  
