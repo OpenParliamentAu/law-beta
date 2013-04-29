@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2004C02943/Html/CwlthPlacesAL70_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C02942/Html/ComPlaAL70_image001.gif)
 
 # Commonwealth Places (Application of Laws) Act 1970
 
 **Act No. 121 of 1970 as amended**
 
-This compilation was prepared on 15 December 2001
- taking into account amendments up to Act No. 24 of 2001
+This compilation was prepared on 19 December 2000 
+ taking into account amendments up to Act No. 137 of 2000
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -63,8 +63,6 @@ Prepared by the Office of Legislative Drafting,
 
 **Notes** 
 
- 
-
 ## An Act relating to the application and administration of laws in places acquired by the Commonwealth for public purposes
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
@@ -99,7 +97,7 @@ Prepared by the Office of Legislative Drafting,
 
                     <a name="law-state"></a><a name="law-state"></a>**_the laws of a State_**, in relation to a State, means the laws in force in that State, whether written or unwritten, and instruments made or having effect under those laws, but does not include a law of the Commonwealth, whether written or unwritten, or an instrument made or having effect under such a law, and **_law of a State_** has a corresponding meaning.
 
-##### <a id="4"></a>4  Application of laws in Commonwealth places
+##### <a id="4"></a>4  Application of laws in Commonwealth places
 
              (1)  The provisions of the laws of a State as in force at a time (whether before or after the commencement of this Act) apply, or shall be deemed to have applied, in accordance with their tenor, at that time in and in relation to each place in that State that is or was a Commonwealth place at that time.
 
@@ -153,11 +151,9 @@ that authority is empowered to do that act under that part of the applied provis
 
              (1)  The _Acts Interpretation Act 1901_ does not apply in relation to the applied provisions.
 
-             (2)  Sections 4A, 4AA, 4AB, 4B, 4D to 4K (inclusive) and 6 of the _Crimes Act 1914_ do not apply in relation to, or in relation to matters arising under, the applied provisions.
+             (2)  Sections 4A, 4AA, 4AB, 4B, 4D to 4K (inclusive), 5, 6, 7, 7A and 86 of the _Crimes Act 1914_ do not apply in relation to, or in relation to matters arising under, the applied provisions.
 
           (2A)  Part 1C of the _Crimes Act 1914_ does not apply to a member of the police force of a State in relation to, or in relation to matters arising under, the applied provisions.
-
-          (2B)  Chapter 2 of the _Criminal Code_ does not apply in relation to, or in relation to matters arising under, the applied provisions.
 
              (3)  Where there is in force an arrangement with the Governor of a State under subsection (2) of the next succeeding section, the provisions of the Acts set out in the Schedule to this Act do not apply to or in relation to matters arising under the applied provisions having effect in or in relation to a Commonwealth place in that State.
 
@@ -189,7 +185,7 @@ that authority is empowered to do that act under that part of the applied provis
 
              (2)  The regulations that may be made for the purpose of subsection (6) of section 4 of this Act include regulations having the effect that provisions as modified by the regulations make provision for and in relation to investing a court of a State with federal jurisdiction, whether within the limits of its jurisdiction or otherwise.
 
-##### <a id="8"></a>8  Conditions subject to which State courts are invested with federal jurisdiction
+##### <a id="8"></a>8  Conditions subject to which State courts are invested with federal jurisdiction
 
              (1)  The jurisdiction with which courts are invested by the last preceding section or by regulations made for the purpose of subsection (6) of section 4 of this Act is invested subject to the following conditions and restrictions and no others:
 
@@ -347,7 +343,7 @@ is, in proceedings under, or purporting to be under, any part of the applied pro
 
 _Section 5(3)_
 
-              1.  Part 1AA (other than section 3Z), and sections 9, 13, 15, 15A, 15B and 15C, and all the provisions of Divisions 1 to 9 (inclusive) of Part 1B, sections 20C, 21B and 21E and Part 1D of the _Crimes Act 1914_. 
+              1.  Part 1AA (other than section 3Z), and sections 9, 13, 14, 15, 15A, 15B, 15C and 15D all the provisions of Divisions 1 to 9 (inclusive) of Part 1B, sections 20C, 21B and 21E and Part1D of the _Crimes Act 1914_. 
 
               2.  Sections 69, 70, 71 and 71A of the _Judiciary Act 1903-1969_. 
 
@@ -568,7 +564,7 @@ Remainder: 14 Dec 1988</div>
     <div>13 Apr 1992</div>
   </td>
   <td>
-    <div><i>(e)</i></div>
+    <div>13 Apr 1992 <i>(e)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -671,7 +667,7 @@ Remainder: 1 Feb 1993 ( <i>see Gazette</i>1993, No. GN1)</div>
     <div>23 July 1998</div>
   </td>
   <td>
-    <div>Schedule 3 (item 1): 23 Jan 1999 <i>(h)</i></div>
+    <div>Schedule 3 (item 1): 24 Jan 1998 <i>(h)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -688,29 +684,10 @@ Remainder: 1 Feb 1993 ( <i>see Gazette</i>1993, No. GN1)</div>
     <div>24 Nov 2000</div>
   </td>
   <td>
-    <div>Ss. 1-3 and Schedule 1 (items 1, 4, 6, 7, 9-11, 32): Royal Assent 
-Remainder: 24 May 2001</div>
+    <div>Schedule 2 (items 142, 143, 418, 419): \[ <i>see (i)</i>, Note 3 and Table A]</div>
   </td>
   <td>
     <div>Sch. 2 (items 418, 419) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001</div>
-  </td>
-  <td>
-    <div>24, 2001</div>
-  </td>
-  <td>
-    <div>6 Apr 2001</div>
-  </td>
-  <td>
-    <div>S. 4(1) and (2): <i>(i)</i> 
-Schedule 51 (items 1-3): 15 Dec 2001 <i>(i)</i></div>
-  </td>
-  <td>
-    <div>S. 4(1) and (2) \[ <i>see</i>Table A]</div>
   </td>
 </tr></table>
 
@@ -730,9 +707,7 @@ _(d)_     The _Commonwealth Places (Application of Laws) Act 1990_ was a
 
                (14)   If a provision referred to in subsection (13) does not commence under that subsection within the period of 6 months beginning on the day it receives the Royal Assent, it commences on the first day after the end of that period.
 
-_(e)_     Section 2 of the _Law and Justice Legislation Amendment Act 1992_ provides as follows:
-
-                 (1)   Subject to this section this Act commences on the day on which it receives the Royal Assent.
+_(e)_     Subsection 2 of the _Law and Justice Legislation Amendment Act 1992_ provides as follows:
 
                  (2)   The amendment of the _Commonwealth Places (Application of Laws) Act 1970_ made by this Act is taken to have commenced on 1 November 1991.
 
@@ -744,19 +719,17 @@ _(g)_     The _Commonwealth Places (Application of Laws) Act 1970_ was a
 
                  (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
 
-_(h)_     The _Commonwealth Places (Application of Laws) Act 1970_ was amended by Schedule 3 (item 1) only of the _Crimes Amendment (Forensic Procedures) Act 1998_., subsection 2(4) of which provides as follows:
+_(h)_     The _Commonwealth Places (Application of Laws) Act 1970_ was amended by Schedule 3 (item 1) only of the _Crimes Amendment (Forensic Procedures) Act 1998_., subsection 2(3) and 2(4) of which provides as follows:
+
+                 (3)   Subject to subsection (4), Schedules 1 and 3, and the remaining items of Schedule 2, commence on a day to be fixed by Proclamation.
 
                  (4)   If the provisions specified in subsection (3) have not commenced under that subsection within the period of 6 months beginning on the day on which this Act receives the Royal Assent, those provisions commence on the first day after the end of that period.
 
-_(i)_      The _Commonwealth Places (Application of Laws) Act 1970_ was amended by Schedule 51 (items 1-3) only of the _Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001_, subsections 2(1)(a) and (3) of which provide as follows:
+_(i)_      The _Commonwealth Places (Application of Laws) Act 1970_ was amended by Schedule 2 (items 142 and 143) only of the _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000_, subsections 2(2) and (3) of which provide as follows:
 
-                 (1)   Subject to this section, this Act commences at the later of the following times:
+                 (2)   Subject to this section, the provisions of this Act that are not covered by subsection (1) commence on a day to be fixed by Proclamation. [_see_ Note 3]
 
-                              (a)   immediately after the commencement of item 15 of Schedule 1 to the _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000_;
-
-                 (3)   Schedules 21 and 51 commence on the day mentioned in subsection 2.2(2) of the _Criminal Code_.
-
-         Item 15 commenced on 24 May 2001.
+                 (3)   If item 15 of Schedule 1 to this Act does not commence under subsection (2) within the period of 6 months beginning on the day on which this Act receives the Royal Assent, the provisions of this Act that are not covered by subsection (1) commence on the first day after the end of that period. This subsection has effect subject to the following subsections of this section. [_see_ Note 3]
 
 ## Table of Amendments
 
@@ -799,7 +772,7 @@ _(i)_      The _Commonwealth Places (Application of Laws) Act 1970_ wa
     <div>S. 5</div>
   </td>
   <td colspan="2">
-    <div>am. No. 168, 1986; No. 120, 1988; Nos. 22 and 164, 1992; No. 137, 2000; No. 24, 2001</div>
+    <div>am. No. 168, 1986; No. 120, 1988; Nos. 22 and 164, 1992</div>
   </td>
 </tr>
 <tr>
@@ -847,7 +820,7 @@ _(i)_      The _Commonwealth Places (Application of Laws) Act 1970_ wa
     <div>Schedule</div>
   </td>
   <td colspan="2">
-    <div>am. No. 80, 1982; No. 114, 1983; No. 165, 1984 ;No.168, 1986; No. 4, 1990; No. 65, 1994; No. 96, 1998; No. 24, 2001</div>
+    <div>am. No. 80, 1982; No. 114, 1983; No. 165, 1984 ;No.168, 1986; No. 4, 1990; No. 65, 1994; No. 96, 1998</div>
   </td>
 </tr>
 <tr height="0">
@@ -858,13 +831,35 @@ _(i)_      The _Commonwealth Places (Application of Laws) Act 1970_ wa
 
 ### Note 2
 
-Subsection 2(2)—This Act came into effect in all States from and including 30 November 1970 (_see Gazette_ 1970, p. 7941).
+Subsection 2(2)—The Act came into effect in all States from and including 30 November 1970 (_see Gazette_ 1970, p. 7941).
+
+### Note 3
+
+_Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)_
+
+The following amendments commence on 24 May 2001 unless proclaimed earlier:
+
+Schedule 2
+
+142  Subsection 5(2)
+
+After “Sections”, insert “4,”.
+
+143  After subsection 5(2A)
+
+Insert:
+
+          (2B)  Chapter 2 of the _Criminal Code_ does not apply in relation to, or in relation to matters arising under, the applied provisions.
+
+As at 19 December 2000 the amendments are not incorporated in this compilation.
 
 Table A
 
 ### Application, saving or transitional provisions
 
 _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)_
+
+The following provisions commence on 24 May 2001 unless proclaimed earlier:
 
 Schedule 2
 
@@ -893,15 +888,5 @@ If:
                      (c)  the first-mentioned provision is amended by this Schedule;
 
 the amendment of the first-mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
-
-* * *
-
-_Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001 (No. 24, 2001)_
-
-4  Application of amendments
-
-             (1)  Subject to subsection (3), each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
-
-             (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
 
  
