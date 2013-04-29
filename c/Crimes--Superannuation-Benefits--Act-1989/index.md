@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00652/Html/CrimesSuperBen89WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00216/Html/CrimesSuperBen89WD02_image001.gif)
 
-# Crimes (Superannuation Benefits) Act 1989
+# Crimes (Superannuation Benefits) Act 1989
 
-**Act No. 145 of 1989 as amended**
+**Act No. 145 of 1989 as amended**
 
-This compilation was prepared on 15 December 2008
- taking into account amendments up to Act No. 144 of 2008
+This compilation was prepared on 26 June 2008
+ taking into account amendments up to Act No. 26 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -20,111 +20,111 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part 1—Introductory**
 
-[1](#1).            Short title [_see_ Note 1]                                                                        1
+[1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Interpretation                                                                                       1
+[2](#2).            Interpretation
 
-[3](#3).            Related offences                                                                                   6
+[3](#3).            Related offences
 
-[4](#4).            Abscond                                                                                               6
+[4](#4).            Abscond
 
-[5](#5).            Charge with offence                                                                             7
+[5](#5).            Charge with offence
 
-[6](#6).            Conviction and quashing of conviction                                                7
+[6](#6).            Conviction and quashing of conviction
 
-[7](#7).            Employee                                                                                             8
+[7](#7).            Employee
 
-[8](#8).            Property of a person                                                                           8
+[8](#8).            Property of a person
 
-[9](#9).            Dealing with property                                                                         9
+[9](#9).            Dealing with property
 
-[10](#10).          Effective control of property                                                            10
+[10](#10).          Effective control of property
 
-[11](#11).          Sufficient consideration                                                                     11
+[11](#11).          Sufficient consideration
 
-[12](#12).          Application to convictions and offences                                           11
+[12](#12).          Application to convictions and offences
 
-[12A](#12A).       Application of the _Criminal Code_                                                     11
+[12A](#12A).       Application of the _Criminal Code_
 
-[13](#13).          Act binds the Crown                                                                         11
+[13](#13).          Act binds the Crown
 
-[14](#14).          Application and extension of Act                                                      11
+[14](#14).          Application and extension of Act
 
-**Part 2—Superannuation orders**
+**Part 2—Superannuation orders**
 
-[15](#15).          Notice of charge etc                                                                           12
+[15](#15).          Notice of charge etc 
 
-[16](#16).          Authority to apply for superannuation order                                   12
+[16](#16).          Authority to apply for superannuation order
 
-[17](#17).          Application for superannuation order                                               13
+[17](#17).          Application for superannuation order
 
-[18](#18).          Application for superannuation order: evidence                               13
+[18](#18).          Application for superannuation order: evidence
 
-[19](#19).          Superannuation orders: making                                                          15
+[19](#19).          Superannuation orders: making
 
-[20](#20).          When does a superannuation order take effect?                                16
+[20](#20).          When does a superannuation order take effect?
 
-[21](#21).          Effect of superannuation orders                                                        17
+[21](#21).          Effect of superannuation orders
 
-[22](#22).          Superannuation orders: variation                                                       18
+[22](#22).          Superannuation orders: variation
 
-[23](#23).          Superannuation orders: revocation                                                    19
+[23](#23).          Superannuation orders: revocation
 
-**Part 3—Restraining orders**
+**Part 3—Restraining orders**
 
-[24](#24).          Application for restraining order                                                       21
+[24](#24).          Application for restraining order
 
-[25](#25).          Making of restraining orders                                                              21
+[25](#25).          Making of restraining orders
 
-[26](#26).          Restraining order may be subject to conditions                                 22
+[26](#26).          Restraining order may be subject to conditions
 
-[27](#27).          Affidavit of police officer needed in certain cases                             23
+[27](#27).          Affidavit of police officer needed in certain cases
 
-[28](#28).          Notice of application for restraining order                                        23
+[28](#28).          Notice of application for restraining order
 
-[28A](#28A).       Extension of certain restraining orders                                               24
+[28A](#28A).       Extension of certain restraining orders
 
-[29](#29).          Persons who may appear and adduce evidence                                 24
+[29](#29).          Persons who may appear and adduce evidence
 
-[30](#30).          Witnesses not required to answer questions etc  in certain cases      25
+[30](#30).          Witnesses not required to answer questions etc  in certain cases
 
-[31](#31).          Notice of restraining orders                                                               25
+[31](#31).          Notice of restraining orders
 
-[32](#32).          Ancillary orders                                                                                 25
+[32](#32).          Ancillary orders
 
-[33](#33).          Charge on property subject to restraining order                                27
+[33](#33).          Charge on property subject to restraining order
 
-[34](#34).          Registration of restraining orders                                                       28
+[34](#34).          Registration of restraining orders
 
-[35](#35).          Contravention of restraining orders                                                   28
+[35](#35).          Contravention of restraining orders
 
-[36](#36).          Restraining orders: revocation                                                           29
+[36](#36).          Restraining orders: revocation
 
-[37](#37).          When do restraining orders cease to have effect?                              29
+[37](#37).          When do restraining orders cease to have effect?
 
-[38](#38).          Extension of period of effect of restraining orders                            30
+[38](#38).          Extension of period of effect of restraining orders
 
-[39](#39).          Notice of applications                                                                       31
+[39](#39).          Notice of applications
 
-**Part 4—Miscellaneous**
+**Part 4—Miscellaneous**
 
-[40](#40).          Court may lift corporate veil etc                                                       32
+[40](#40).          Court may lift corporate veil etc 
 
-[41](#41).          Amounts payable under section 19, 21 or 23                                    32
+[41](#41).          Amounts payable under section 19, 21 or 23
 
-[42](#42).          Multiple payments in respect of same employee contributions not allowed         33
+[42](#42).          Multiple payments in respect of same employee contributions not allowed
 
-[43](#43).          Possible superannuation order not to be taken into account in sentencing              34
+[43](#43).          Possible superannuation order not to be taken into account in sentencing
 
-[44](#44).          Constitution of appropriate courts                                                   34
+[44](#44).          Constitution of appropriate courts
 
-[45](#45).          Regulations                                                                                        34
+[45](#45).          Regulations
 
 **Notes** 
 
 ## An Act relating to certain superannuation benefits paid or payable to or in respect of certain persons convicted of corruption offences, and for related purposes
 
-## Part 1—Introductory
+## Part 1—Introductory
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
 
@@ -134,7 +134,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (1)  In this Act, unless the contrary intention appears:
 
-                    <a name="abscond"></a>**_abscond_** has the meaning given in section 4.
+                    <a name="abscond"></a>**_abscond_** has the meaning given in section 4.
 
                     <a name="afp"></a>**_AFP_** means the Australian Federal Police.
 
@@ -158,11 +158,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                               (i)  incorporated (whether before, on or after the commencing day) under a law of the Commonwealth or a law in force in a State or Territory; and
 
-                             (ii)  in which the Commonwealth or a body corporate mentioned in paragraph (a) has the controlling interest; or
+                             (ii)  in which the Commonwealth or a body corporate mentioned in paragraph (a) has the controlling interest; or
 
                      (c)  a body corporate, whether incorporated before, on or after the commencing day:
 
-                              (i)  that is a subsidiary of another body corporate mentioned in paragraph (a) or (b); and
+                              (i)  that is a subsidiary of another body corporate mentioned in paragraph (a) or (b); and
 
                              (ii)  in which that other body corporate has the controlling interest; or
 
@@ -172,7 +172,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="control-interest"></a>**_controlling interest_**, in relation to a body corporate, means an interest that derives from ownership of at least 50% of the shares in the body corporate that confer voting rights.
 
-                    <a name="convict"></a>**_convicted_** has the meaning given in section 6.
+                    <a name="convict"></a>**_convicted_** has the meaning given in section 6.
 
                     <a name="corrupt-offenc"></a>**_corruption offence_** means an offence by a person who was an employee at the time when it was committed, being an offence:
 
@@ -182,11 +182,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (c)  that was committed for the purpose of perverting, or attempting to pervert, the course of justice.
 
-                    <a name="defend"></a>**_defendant_**, in Part 3, has the meaning given in section 24.
+                    <a name="defend"></a>**_defendant_**, in Part 3, has the meaning given in section 24.
 
                     <a name="dpp"></a>**_DPP_** means the Director of Public Prosecutions.
 
-                    <a name="employe"></a>**_employee_** has the meaning given in section 7.
+                    <a name="employe"></a>**_employee_** has the meaning given in section 7.
 
                     <a name="employe-contribut"></a>**_employee contributions_**, in relation to a person, includes:
 
@@ -224,7 +224,7 @@ whether present or future and whether vested or contingent.
 
                      (a)  in relation to an offence against a law of a State or Territory that has its own police force—the Commissioner or head (however described) of the police force of the State or Territory; and
 
-                     (b)  in relation to an offence against a law of the Commonwealth, or of a State or Territory other than a State or Territory mentioned in paragraph (a)—the Commissioner of Police of the AFP; and
+                     (b)  in relation to an offence against a law of the Commonwealth, or of a State or Territory other than a State or Territory mentioned in paragraph (a)—the Commissioner of Police of the AFP; and
 
                      (c)  in relation to a common law offence—the Commissioner or head (however described) of the police force of the State or Territory in which the offence was committed or, where the offence was committed in a Territory that does not have its own police force, the Commissioner of Police of the AFP.
 
@@ -238,17 +238,17 @@ whether present or future and whether vested or contingent.
 
                     <a name="recoveri-order"></a>**_recovery order_** means a superannuation order containing an order of the kind mentioned in subsection 19(4).
 
-                    <a name="relat-offenc"></a>**_related offence_** has the meaning given in section 3.
+                    <a name="relat-offenc"></a>**_related offence_** has the meaning given in section 3.
 
                     <a name="relev-period"></a>**_relevant period_**, in relation to a restraining order, means the period starting on the day when the order was made and ending:
 
-                     (a)  if an order or orders have been made under section 38—at the time, or on the occurrence of the event, specified in the order, or the last of the orders, so made; or
+                     (a)  if an order or orders have been made under section 38—at the time, or on the occurrence of the event, specified in the order, or the last of the orders, so made; or
 
-                     (b)  if paragraph (a) does not apply but an order or orders have been made under paragraph 32(1)(a) or (b) in relation to the restraining order—at the end of 6 months after the day when the order, or the last of the orders, was so made, or such longer period (if any) as is specified in the order, or the last of the orders; or
+                     (b)  if paragraph (a) does not apply but an order or orders have been made under paragraph 32(1)(a) or (b) in relation to the restraining order—at the end of 6 months after the day when the order, or the last of the orders, was so made, or such longer period (if any) as is specified in the order, or the last of the orders; or
 
                      (c)  in any other case—at the end of 6 months after the day on which the restraining order was made, or such longer period (if any) as is specified in the order.
 
-                    <a name="restrain-order"></a>**_restraining order_** means an order under section 25.
+                    <a name="restrain-order"></a>**_restraining order_** means an order under section 25.
 
                     <a name="sentenc"></a>**_sentence_** does not include:
 
@@ -276,11 +276,11 @@ whether present or future and whether vested or contingent.
 
                      (b)  in any other case—the person (however described) responsible for the administration of the relevant superannuation scheme.
 
-                    <a name="superannu-order"></a>**_superannuation order_** means an order under section 19, and includes such an order as varied under section 22.
+                    <a name="superannu-order"></a>**_superannuation order_** means an order under section 19, and includes such an order as varied under section 22.
 
                     <a name="superannu-scheme"></a>**_superannuation scheme_**, in relation to a person, means a superannuation scheme (other than a scheme established under a law of a State) under which employer contributions or benefits are paid or payable, or have at any time been paid, by the Commonwealth or a Commonwealth authority to or in respect of the person, and includes any scheme or arrangement under which such contributions are vested in the person.
 
-                    <a name="territori"></a>**_Territory_** does not include the Australian   Capital Territory or the Northern Territory, and, except in section 14, does not include Norfolk Island.
+                    <a name="territori"></a>**_Territory_** does not include the Australian   Capital Territory or the Northern Territory, and, except in section 14, does not include Norfolk Island.
 
 ##### <a id="3"></a>3  Related offences
 
@@ -328,25 +328,25 @@ whether present or future and whether vested or contingent.
 
              (2)  For the purposes of this Act, a person is to be taken to have been convicted of an offence in a particular State or Territory if:
 
-                     (a)  where paragraph (1)(a) applies—the person was convicted of the offence in a court in that State or Territory; or
+                     (a)  where paragraph (1)(a) applies—the person was convicted of the offence in a court in that State or Territory; or
 
-                     (b)  where paragraph (1)(b) applies—the information relating to the offence was laid in that State or Territory.
+                     (b)  where paragraph (1)(b) applies—the information relating to the offence was laid in that State or Territory.
 
-             (3)  For the purposes of this Act, where a person is to be taken to have been convicted of an offence in a particular State or Territory because of paragraph (2)(b), the person is to be taken to have been so convicted before the Supreme Court of that State or Territory.
+             (3)  For the purposes of this Act, where a person is to be taken to have been convicted of an offence in a particular State or Territory because of paragraph (2)(b), the person is to be taken to have been so convicted before the Supreme Court of that State or Territory.
 
              (4)  For the purposes of this Act, a person’s conviction of an offence is to be taken to be quashed:
 
-                     (a)  where paragraph (1)(a) applies—if the conviction is quashed or set aside; or
+                     (a)  where paragraph (1)(a) applies—if the conviction is quashed or set aside; or
 
-                     (b)  where paragraph (1)(b) applies—if, after the person is brought before a court in respect of the offence, the person is discharged in respect of the offence or a conviction of the person for the offence is quashed or set aside.
+                     (b)  where paragraph (1)(b) applies—if, after the person is brought before a court in respect of the offence, the person is discharged in respect of the offence or a conviction of the person for the offence is quashed or set aside.
 
-             (5)  A reference in this Act, in relation to a person’s conviction of an offence, to the commission of the offence is, where paragraph (1)(b) applies, a reference to the alleged commission of the offence by the person.
+             (5)  A reference in this Act, in relation to a person’s conviction of an offence, to the commission of the offence is, where paragraph (1)(b) applies, a reference to the alleged commission of the offence by the person.
 
 ##### <a id="7"></a>7  Employee
 
              (1)  In this Act, **_employee_** means a person (other than an AFP employee) employed by the Commonwealth or by a Commonwealth authority, whether the person is so employed under a law of the Commonwealth or of a State or Territory, or under a contract of service or apprenticeship.
 
-             (2)  Without limiting subsection (1):
+             (2)  Without limiting subsection (1):
 
                      (a)  a member of the Parliament; or
 
@@ -356,7 +356,7 @@ whether present or future and whether vested or contingent.
 
                      (c)  a member of the Defence Force; or
 
-                     (d)  a person (other than a person mentioned in subsection (3)) who is the holder of:
+                     (d)  a person (other than a person mentioned in subsection (3)) who is the holder of:
 
                               (i)  an office established by a law of the Commonwealth; or
 
@@ -364,7 +364,7 @@ whether present or future and whether vested or contingent.
 
 is to be taken, for the purposes of this Act, to be employed by the Commonwealth.
 
-             (3)  Without limiting subsection (1), a person is to be taken, for the purposes of this Act, to be employed by a Commonwealth authority if:
+             (3)  Without limiting subsection (1), a person is to be taken, for the purposes of this Act, to be employed by a Commonwealth authority if:
 
                      (a)  the person constitutes, or is a member of, the authority; or
 
@@ -374,13 +374,13 @@ is to be taken, for the purposes of this Act, to be employed by the Commonwealth
 
              (1)  For the purpose of making a restraining order against a person’s property, that property is to be taken to include property in which the person has a beneficial interest.
 
-             (2)  For the purpose of making a restraining order against the property of a person who is a defendant within the meaning of Part 3, that property is to be taken to include:
+             (2)  For the purpose of making a restraining order against the property of a person who is a defendant within the meaning of Part 3, that property is to be taken to include:
 
                      (a)  any property of the person that has been transferred by way of gift to another person within 2 years immediately before the day on which the restraining order is made or the day on which the person is charged with the relevant offence, whichever is the first to happen; or
 
                      (b)  where property of the person has been transferred to another person within that period for a consideration whose value is less than the commercial value of the property when the transfer was made—an interest in the property equal to the proportion worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00652/Html/CrimesSuperBen89WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00216/Html/CrimesSuperBen89WD02_image002.gif)
 
 where:
 
@@ -388,9 +388,9 @@ where:
 
                     <a name="vc"></a>**_VC_**_(value of consideration)_ is the number of dollars in the value of the consideration for the transfer when the transfer was made.
 
-             (3)  Property that is to be taken to be property of a person under subsection (1) is available to satisfy a recovery order made against the person, whether or not a restraining order has been made against the property.
+             (3)  Property that is to be taken to be property of a person under subsection (1) is available to satisfy a recovery order made against the person, whether or not a restraining order has been made against the property.
 
-             (4)  Property that is to be taken to be property of a person under subsection (2) is available to satisfy a recovery order made against the person if, and only if, a restraining order has been made against the property.
+             (4)  Property that is to be taken to be property of a person under subsection (2) is available to satisfy a recovery order made against the person if, and only if, a restraining order has been made against the property.
 
 ##### <a id="9"></a>9  Dealing with property
 
@@ -418,19 +418,7 @@ regard may be had to:
 
                      (d)  a trust that has a relationship to the property; and
 
-                     (e)  family, domestic and business relationships between persons having an interest in the property, or in companies of the kind mentioned in paragraph (c) or trusts of the kind mentioned in paragraph (d), and other persons.
-
-             (3)  For the purposes of paragraph (2)(e), family relationships are taken to include the following (without limitation):
-
-                     (a)  relationships between de facto partners (within the meaning of the _Acts Interpretation Act 1901_);
-
-                     (b)  relationships of child and parent that arise if someone is the child of a person because of the definition of **_child_** in this section;
-
-                     (c)  relationships traced through relationships mentioned in paragraphs (a) and (b).
-
-             (4)  In this section:
-
-                    <a name="child"></a><a name="child"></a>**_child_**: without limiting who is a child of a person for the purposes of this section, someone is the **_child_** of a person if he or she is a child of the person within the meaning of the _Family Law Act 1975_.
+                     (e)  family, domestic and business relationships between persons having an interest in the property, or in companies of the kind mentioned in paragraph (c) or trusts of the kind mentioned in paragraph (d), and other persons.
 
 ##### <a id="11"></a>11  Sufficient consideration
 
@@ -460,7 +448,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
              (2)  This Act extends to the external Territories.
 
-## Part 2—Superannuation orders
+## Part 2—Superannuation orders
 
 ##### <a id="15"></a>15  Notice of charge etc.
 
@@ -530,7 +518,7 @@ is _prima facie_ evidence of the matters stated in the certificate.
 
                      (b)  stating the amount that equals the sum of the benefits so paid as at the specified day; and
 
-                     (c)  stating another amount that equals the part of the amount referred to in paragraph (b) that is attributable to the sum of the employee contributions paid under the scheme by the person as at the specified day plus the amount of interest on those contributions accrued under the scheme before that day;
+                     (c)  stating another amount that equals the part of the amount referred to in paragraph (b) that is attributable to the sum of the employee contributions paid under the scheme by the person as at the specified day plus the amount of interest on those contributions accrued under the scheme before that day;
 
 is _prima facie_ evidence of the matters stated in the certificate.
 
@@ -540,7 +528,7 @@ is _prima facie_ evidence of the matters stated in the certificate.
 
 ##### <a id="19"></a>19  Superannuation orders: making
 
-             (1)  Subject to subsection (2), where an application is made for a superannuation order in respect of a person, the court must, if satisfied that the offence to which the application relates is a corruption offence, by order, declare:
+             (1)  Subject to subsection (2), where an application is made for a superannuation order in respect of a person, the court must, if satisfied that the offence to which the application relates is a corruption offence, by order, declare:
 
                      (a)  that the person was convicted of a corruption offence; and
 
@@ -568,7 +556,7 @@ the court must:
 
                      (a)  specify in the superannuation order the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00652/Html/CrimesSuperBen89WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00216/Html/CrimesSuperBen89WD02_image003.gif)
 
 where:
 
@@ -578,7 +566,7 @@ where:
 
                      (b)  include in the superannuation order an order that the person pay the amount so specified to the Commonwealth or Commonwealth authority, whichever the court considers appropriate.
 
-             (5)  For the purposes of subsection (4), the value of an amount of employer contributions or benefits, and of accrued interest, is their value worked out having regard to any decline in the purchasing power of money between the day on which the contributions or benefits were made or paid, or the interest accrued, as the case may be, and the day as at which their value must be worked out.
+             (5)  For the purposes of subsection (4), the value of an amount of employer contributions or benefits, and of accrued interest, is their value worked out having regard to any decline in the purchasing power of money between the day on which the contributions or benefits were made or paid, or the interest accrued, as the case may be, and the day as at which their value must be worked out.
 
              (6)  The DPP must give written notice of a superannuation order to the person’s superannuation authority.
 
@@ -606,9 +594,9 @@ where:
 
              (3)  An order under subsection 19(3) or (4) against a person may be enforced as if it were an order made in civil proceedings instituted by the Commonwealth or the relevant Commonwealth authority against the person to recover a debt due by the person to the Commonwealth or the Commonwealth authority, and the debt arising from the order is to be taken to be a judgment debt.
 
-             (4)  Despite the Superannuation Act, or any other Act or any agreement, where subsection (1) applies to a person who is an employee when the superannuation order takes effect, the person is entitled, on the day on which he or she ceases to be a member of the relevant superannuation scheme, to payment of an amount equal to the sum of the employee contributions paid under the scheme by the person (being contributions that are held in a fund under the scheme) plus the amount of interest on those contributions accrued under the scheme.
+             (4)  Despite the Superannuation Act, or any other Act or any agreement, where subsection (1) applies to a person who is an employee when the superannuation order takes effect, the person is entitled, on the day on which he or she ceases to be a member of the relevant superannuation scheme, to payment of an amount equal to the sum of the employee contributions paid under the scheme by the person (being contributions that are held in a fund under the scheme) plus the amount of interest on those contributions accrued under the scheme.
 
-             (5)  Despite the Superannuation Act, or any other Act or any agreement, where subsection (1) applies to a person who:
+             (5)  Despite the Superannuation Act, or any other Act or any agreement, where subsection (1) applies to a person who:
 
                      (a)  was an employee when the relevant corruption offence was committed but ceases to be an employee before the superannuation order takes effect; and
 
@@ -616,7 +604,7 @@ where:
 
 the person is entitled, on the day on which he or she ceases to be a member of the scheme, to payment of an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00652/Html/CrimesSuperBen89WD02_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00216/Html/CrimesSuperBen89WD02_image004.gif)
 
 where:
 
@@ -672,7 +660,7 @@ there is payable to the person an amount determined by the Minister for Finance,
 
                       (f)  any other matters that the Minister thinks are relevant in the circumstances of the case.
 
-## Part 3—Restraining orders
+## Part 3—Restraining orders
 
 ##### <a id="24"></a>24  Application for restraining order
 
@@ -692,7 +680,7 @@ the DPP may apply to the appropriate court for a restraining order against speci
 
                      (a)  the offence concerned is, or may be, a corruption offence; and
 
-                     (b)  if the defendant has been sentenced in respect of the offence—the sentence would support the making of an application for a superannuation order under subsection 17(1A); and
+                     (b)  if the defendant has been sentenced in respect of the offence—the sentence would support the making of an application for a superannuation order under subsection 17(1A); and
 
                      (c)  the defendant is, or has been, a member of a superannuation scheme;
 
@@ -700,7 +688,7 @@ the court may, by order, direct that the property, or such part of the property 
 
              (2)  A restraining order must not be made against a person’s property to any extent greater than is necessary to ensure the recovery of any amount payable, or reasonably likely to be payable, by the defendant under a recovery order.
 
-             (3)  Subsection (2) does not prevent the court from making a restraining order against a person’s property, being property whose value is more than the amount payable, or reasonably likely to be payable, by the defendant under a recovery order if there is no other property of sufficient value in respect of which the court can make a restraining order.
+             (3)  Subsection (2) does not prevent the court from making a restraining order against a person’s property, being property whose value is more than the amount payable, or reasonably likely to be payable, by the defendant under a recovery order if there is no other property of sufficient value in respect of which the court can make a restraining order.
 
              (4)  A court may make a restraining order against property whether or not there is any risk of the property being disposed of, or otherwise dealt with, in a manner that would defeat the operation of this Act.
 
@@ -716,9 +704,9 @@ the court may, by order, direct that the property, or such part of the property 
 
                      (b)  the person’s taxed legal expenses in defending a criminal charge;
 
-                     (c)  a specified debt incurred by the person in good faith (being a debt to which neither paragraph (a) or (b) applies).
+                     (c)  a specified debt incurred by the person in good faith (being a debt to which neither paragraph (a) or (b) applies).
 
-             (2)  The court must not make provision of a kind mentioned in subsection (1) unless satisfied that the person cannot meet the expense or debt concerned out of property that is not subject to a restraining order.
+             (2)  The court must not make provision of a kind mentioned in subsection (1) unless satisfied that the person cannot meet the expense or debt concerned out of property that is not subject to a restraining order.
 
 ##### <a id="27"></a>27  Affidavit of police officer needed in certain cases
 
@@ -746,21 +734,21 @@ direct the DPP to give or publish notice of the application to a specified perso
 
 ##### <a id="28"></a>28  Notice of application for restraining order
 
-             (1)  Subject to subsection (2), the DPP must give written notice of an application for a restraining order against property to:
+             (1)  Subject to subsection (2), the DPP must give written notice of an application for a restraining order against property to:
 
                      (a)  the owner of the property; and
 
                      (b)  any other person the DPP has reason to believe may have an interest in the property.
 
-             (2)  Where notice of an application has not been given, the court must consider the application if the DPP asks it to do so but, subject to section 28A, a restraining order made by virtue of this subsection ceases to have effect at the end of the period (not exceeding 14 days) specified by the court in the restraining order.
+             (2)  Where notice of an application has not been given, the court must consider the application if the DPP asks it to do so but, subject to section 28A, a restraining order made by virtue of this subsection ceases to have effect at the end of the period (not exceeding 14 days) specified by the court in the restraining order.
 
 ##### <a id="28A"></a>28A  Extension of certain restraining orders
 
-             (1)  Subject to subsection (2), the court may, on application made by the DPP before the end of the period mentioned in subsection 28(2), extend the period of effect of a restraining order made in reliance on that subsection.
+             (1)  Subject to subsection (2), the court may, on application made by the DPP before the end of the period mentioned in subsection 28(2), extend the period of effect of a restraining order made in reliance on that subsection.
 
              (2)  Subsections 27(1), (2) and (3) apply, with the necessary changes made, to the extension of the period of operation of a restraining order made in reliance on subsection 28(2) in the same way as they apply to the making of a restraining order.
 
-             (3)  The DPP must give written notice of an application under subsection (1) for the extension of the period of effect of a restraining order to:
+             (3)  The DPP must give written notice of an application under subsection (1) for the extension of the period of effect of a restraining order to:
 
                      (a)  the owner of the property against which the restraining order was made; and
 
@@ -784,7 +772,7 @@ any person who claims an interest in the property may appear and adduce evidence
 
 ##### <a id="31"></a>31  Notice of restraining orders
 
-             (1)  Subject to subsection (2), where a restraining order is made against a person’s property, the DPP must give the person written notice of the order.
+             (1)  Subject to subsection (2), where a restraining order is made against a person’s property, the DPP must give the person written notice of the order.
 
              (2)  Where:
 
@@ -834,13 +822,13 @@ the court may include in the restraining order an order that giving the person n
 
 the court must grant the application if satisfied that the applicant’s interest in the property is not subject to the effective control of the defendant.
 
-             (4)  Where a person is examined before a court or a registrar under an order under subsection (1), the person is not excused from answering a question when required to do so by the court or registrar, as the case may be, on the ground that the answer to the question might tend to incriminate the person or make the person liable to forfeiture or a penalty.
+             (4)  Where a person is examined before a court or a registrar under an order under subsection (1), the person is not excused from answering a question when required to do so by the court or registrar, as the case may be, on the ground that the answer to the question might tend to incriminate the person or make the person liable to forfeiture or a penalty.
 
-             (5)  Where a person is examined before a court or registrar under an order under subsection (1), the statement or disclosure made by the person in answer to a question put in the course of the examination, and any information, document or thing obtained as a direct or indirect result of the statement or disclosure, is not admissible against the person in any criminal proceedings except a proceeding for giving false testimony in the course of the examination.
+             (5)  Where a person is examined before a court or registrar under an order under subsection (1), the statement or disclosure made by the person in answer to a question put in the course of the examination, and any information, document or thing obtained as a direct or indirect result of the statement or disclosure, is not admissible against the person in any criminal proceedings except a proceeding for giving false testimony in the course of the examination.
 
-             (6)  For the purposes of subsection (5), proceedings on an application for a superannuation order or a restraining order are not criminal proceedings.
+             (6)  For the purposes of subsection (5), proceedings on an application for a superannuation order or a restraining order are not criminal proceedings.
 
-             (7)  On the hearing of an application for an order under subsection (1), a witness is not required to answer a question or to produce a document if the court is satisfied that the answering of the question or the production of the document may prejudice the investigation of, or the prosecution of the person for, an offence.
+             (7)  On the hearing of an application for an order under subsection (1), a witness is not required to answer a question or to produce a document if the court is satisfied that the answering of the question or the production of the document may prejudice the investigation of, or the prosecution of the person for, an offence.
 
 ##### <a id="33"></a>33  Charge on property subject to restraining order
 
@@ -878,7 +866,7 @@ whichever first occurs.
 
                      (b)  has priority over all other encumbrances; and
 
-                     (c)  subject to subsection (2), is not affected by any change of ownership of the property.
+                     (c)  subject to subsection (2), is not affected by any change of ownership of the property.
 
              (4)  Where:
 
@@ -886,7 +874,7 @@ whichever first occurs.
 
                      (b)  the provisions of any law of the Commonwealth or of a State or Territory provide for the registration of title to, or charges over, property of that kind;
 
-the DPP may cause the charge to be registered under the provisions of that law and, if the charge is so registered, a person who purchases, or otherwise acquires an interest in, the property after the registration is to be taken, for the purposes of paragraph (2)(e), to have notice of the charge at the time of the purchase or acquisition.
+the DPP may cause the charge to be registered under the provisions of that law and, if the charge is so registered, a person who purchases, or otherwise acquires an interest in, the property after the registration is to be taken, for the purposes of paragraph (2)(e), to have notice of the charge at the time of the purchase or acquisition.
 
 ##### <a id="34"></a>34  Registration of restraining orders
 
@@ -898,7 +886,7 @@ the DPP may cause the charge to be registered under the provisions of that law a
 
 the authority responsible for administering those provisions may, on application by the DPP, record on the register kept under those provisions particulars of the restraining order.
 
-             (2)  Where particulars of a restraining order are recorded under subsection (1), a person who later deals with the property is to be taken, for the purposes of section 35, to have notice of the restraining order at the time of the dealing.
+             (2)  Where particulars of a restraining order are recorded under subsection (1), a person who later deals with the property is to be taken, for the purposes of section 35, to have notice of the restraining order at the time of the dealing.
 
 ##### <a id="35"></a>35  Contravention of restraining orders
 
@@ -914,7 +902,7 @@ the authority responsible for administering those provisions may, on application
 
 the DPP may apply to the court that made the restraining order for an order that the disposition or dealing be set aside.
 
-             (3)  Where the DPP makes an application under subsection (2) in relation to a disposition or dealing, the court may make an order:
+             (3)  Where the DPP makes an application under subsection (2) in relation to a disposition or dealing, the court may make an order:
 
                      (a)  setting the disposition or dealing aside as from the day on which it took place; or
 
@@ -934,7 +922,7 @@ the DPP may apply to the court that made the restraining order for an order that
 
                      (a)  the defendant is acquitted of the offence, or the charge is withdrawn or otherwise disposed of without conviction and the defendant has not been charged with a related corruption offence before the acquittal, withdrawal or disposal;
 
-                     (b)  the defendant is convicted of the offence, but does not receive a sentence that would support the making of an application for a superannuation order under subsection 17(1A);
+                     (b)  the defendant is convicted of the offence, but does not receive a sentence that would support the making of an application for a superannuation order under subsection 17(1A);
 
                      (c)  the Minister refuses to authorise the DPP to apply for a superannuation order in respect of the defendant;
 
@@ -944,11 +932,11 @@ the DPP may apply to the court that made the restraining order for an order that
 
                       (f)  where the restraining order was made in reliance on the proposed charging of the person with an offence—the defendant is not charged with the offence or a related corruption offence before the end of the period of 48 hours after the order is made.
 
-             (2)  Subject to this section, a restraining order ceases to have effect, if it has not already done so under subsection (1), at the end of the relevant period in relation to the order.
+             (2)  Subject to this section, a restraining order ceases to have effect, if it has not already done so under subsection (1), at the end of the relevant period in relation to the order.
 
-             (3)  If, within the relevant period in relation to a restraining order, an application is made under section 38 for an extension of the period of effect of the restraining order and the court refuses the application after the end of the relevant period, the restraining order ceases to have effect when the court refuses the application.
+             (3)  If, within the relevant period in relation to a restraining order, an application is made under section 38 for an extension of the period of effect of the restraining order and the court refuses the application after the end of the relevant period, the restraining order ceases to have effect when the court refuses the application.
 
-             (4)  If, within the relevant period in relation to a restraining order, an application is made under section 38 for an extension of the period of effect of the restraining order and the application is granted, the restraining order ceases to have effect at the time, or on the occurrence of the event, specified in an order made by the court under that section.
+             (4)  If, within the relevant period in relation to a restraining order, an application is made under section 38 for an extension of the period of effect of the restraining order and the application is granted, the restraining order ceases to have effect at the time, or on the occurrence of the event, specified in an order made by the court under that section.
 
 ##### <a id="38"></a>38  Extension of period of effect of restraining orders
 
@@ -970,11 +958,11 @@ the court may:
 
 ##### <a id="39"></a>39  Notice of applications
 
-             (1)  A person who applies under section 32 for an ancillary order in relation to a restraining order must give written notice of the application to each other person who is entitled under subsection 32(2) to make an application under section 32 in relation to the restraining order.
+             (1)  A person who applies under section 32 for an ancillary order in relation to a restraining order must give written notice of the application to each other person who is entitled under subsection 32(2) to make an application under section 32 in relation to the restraining order.
 
-             (2)  A person who applies under section 36 for revocation of a restraining order must given written notice of the application to the DPP.
+             (2)  A person who applies under section 36 for revocation of a restraining order must given written notice of the application to the DPP.
 
-## Part 4—Miscellaneous
+## Part 4—Miscellaneous
 
 ##### <a id="40"></a>40  Court may lift corporate veil etc.
 
@@ -986,13 +974,13 @@ the court may:
 
                      (b)  a restraining order may be made in respect of the property as if the property were property of the person against whom the restraining order is made.
 
-             (3)  Where the DPP applies for an order under subsection (1) that property is available to satisfy a recovery order against a person:
+             (3)  Where the DPP applies for an order under subsection (1) that property is available to satisfy a recovery order against a person:
 
                      (a)  the DPP must give written notice of the application to the person and to any other person who the DPP has reason to believe may have an interest in the property; and
 
                      (b)  the person and any person who claims an interest in the property may appear and adduce evidence at the hearing of the application.
 
-##### <a id="41"></a>41  Amounts payable under section 19, 21 or 23
+##### <a id="41"></a>41  Amounts payable under section 19, 21 or 23
 
              (1)  Where an amount is payable under an order made under subsection 19(3) in respect of employer contributions or benefits that are held in a fund other than the Consolidated Revenue Fund, the amount is payable out of the fund by the person responsible for the administration of the fund.
 
@@ -1010,7 +998,7 @@ and the order is to be taken to have been satisfied by the taking of any action 
 
                      (b)  in any other case—by the relevant superannuation authority out of the fund established under the relevant superannuation scheme.
 
-             (4)  Where an amount mentioned in subsection (3) is payable by the Commonwealth, the amount is payable out of the fund established under the relevant Act or, if an amount attributable to the employee contributions of the person has been paid to the Commonwealth, out of the Consolidated Revenue Fund.
+             (4)  Where an amount mentioned in subsection (3) is payable by the Commonwealth, the amount is payable out of the fund established under the relevant Act or, if an amount attributable to the employee contributions of the person has been paid to the Commonwealth, out of the Consolidated Revenue Fund.
 
              (5)  An amount payable to a person under subsection 23(3) is payable by the Commonwealth out of the Consolidated Revenue Fund.
 
@@ -1018,7 +1006,7 @@ and the order is to be taken to have been satisfied by the taking of any action 
 
 ##### <a id="42"></a>42  Multiple payments in respect of same employee contributions not allowed
 
-             (1)  In spite of this Act and the AFP Act, where an amount has been paid to a person under subsection 21(4) or (5) of this Act in respect of employee contributions and interest on those contributions, the person is not entitled to payment of another amount under either of those subsections, or under subsection 47(2) or (3), 49(2) or 51(3) of the AFP Act, in respect of the same employee contributions and interest.
+             (1)  In spite of this Act and the AFP Act, where an amount has been paid to a person under subsection 21(4) or (5) of this Act in respect of employee contributions and interest on those contributions, the person is not entitled to payment of another amount under either of those subsections, or under subsection 47(2) or (3), 49(2) or 51(3) of the AFP Act, in respect of the same employee contributions and interest.
 
              (2)  In spite of this Act and the AFP Act, where an amount has been paid to a person under subsection 47(2) or (3), 49(2) or 51(3) of the AFP Act in respect of employee contributions and interest on those contributions, the person is not entitled to payment to another amount under subsection 21(4) or (5) of this Act in respect of the same employee contributions and interest.
 
@@ -1028,7 +1016,7 @@ and the order is to be taken to have been satisfied by the taking of any action 
 
 ##### <a id="43"></a>43  Possible superannuation order not to be taken into account in sentencing
 
-                   A court shall not, in sentencing a person convicted of an offence punishable by imprisonment for life or for a term longer than 12 months, take into account the possibility that a superannuation order may be made in relation to the person.
+                   A court shall not, in sentencing a person convicted of an offence punishable by imprisonment for life or for a term longer than 12 months, take into account the possibility that a superannuation order may be made in relation to the person.
 
 ##### <a id="44"></a>44  Constitution of appropriate courts
 
@@ -1048,17 +1036,17 @@ whether or not it is constituted in the same way in which it was constituted whe
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
-# Notes to the _Crimes (Superannuation Benefits) Act 1989__ _
+# Notes to the _Crimes (Superannuation Benefits) Act 1989__ _
 
 ### Note 1
 
 The _Crimes (Superannuation Benefits) Act 1989_ as shown in this compilation comprises Act No. 145, 1989 amended as indicated in the Tables below.
 
-All relevant information pertaining to application, saving or transitional provisions prior to 7 March 2000 is not included in this compilation. For subsequent information _see_ Table A.
+All relevant information pertaining to application, saving or transitional provisions prior to 7 March 2000 is not included in this compilation. For subsequent information _see_ Table A.
 
-The _Crimes (Superannuation Benefits) Act 1989_ is affected by section 41 of the _CSL__Sale__Act 1993._
+The _Crimes (Superannuation Benefits) Act 1989_ is affected by section 41 of the _CSL__Sale__Act 1993._
 
-The _Crimes (Superannuation Benefits) Act 1989_ is affected by section 29 of the _Housing Loans Insurance Corporation (Transfer of Assets and Abolition) Act 1996_.
+The _Crimes (Superannuation Benefits) Act 1989_ is affected by section 29 of the _Housing Loans Insurance Corporation (Transfer of Assets and Abolition) Act 1996_.
 
 ### Table of Acts
 
@@ -1067,8 +1055,8 @@ The _Crimes (Superannuation Benefits) Act 1989_ is affected by section 29 of t
   <col width="31%">
   <col width="15%">
   <col width="17%">
-  <col width="22%">
-  <col width="15%">
+  <col width="23%">
+  <col width="13%">
 </colgroup>
 
 <thead>
@@ -1111,7 +1099,7 @@ of Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Australian Federal Police Legislation Amendment Act (No. 2) 1989</div>
+    <div>Australian Federal Police Legislation Amendment Act (No. 2) 1989</div>
   </td>
   <td>
     <div>153, 1989</div>
@@ -1120,9 +1108,9 @@ of Assent</div>
     <div>17 Dec 1989</div>
   </td>
   <td>
-    <div>Ss. 1, 2 and Part 3 (ss. 61, 62): Royal Assent 
-S. 11: 1 July 1991 
-Ss. 38 and 71: 1 Jan 1992 
+    <div>Ss. 1, 2 and Part 3 (ss. 61, 62): Royal Assent 
+S. 11: 1 July 1991 
+Ss. 38 and 71: 1 Jan 1992 
 Remainder: 1 Jan 1990 ( <i>see Gazette</i>1989, No. S397)</div>
   </td>
   <td>
@@ -1131,7 +1119,7 @@ Remainder: 1 Jan 1990 ( <i>see Gazette</i>1989, No. S397)</div>
 </tr>
 <tr>
   <td>
-    <div>Crimes Legislation Amendment Act (No. 2) 1991</div>
+    <div>Crimes Legislation Amendment Act (No. 2) 1991</div>
   </td>
   <td>
     <div>123, 1991</div>
@@ -1140,8 +1128,8 @@ Remainder: 1 Jan 1990 ( <i>see Gazette</i>1989, No. S397)</div>
     <div>23 Aug 1991</div>
   </td>
   <td>
-    <div>Ss. 5-10, Parts 3-7 and 9 (ss. 11–34, 38, 39) and ss. 40-50: 20 Sept 1991 
-Part 8 (ss. 35–37): 6 Dec 1991 ( <i>see Gazette</i>1991, No. S330) 
+    <div>Ss. 5-10, Parts 3-7 and 9 (ss. 11-34, 38, 39) and ss. 40-50: 20 Sept 1991 
+Part 8 (ss. 35-37): 6 Dec 1991 ( <i>see Gazette</i>1991, No. S330) 
 S. 51: 23 Feb 1992 
 Remainder: Royal Assent</div>
   </td>
@@ -1157,10 +1145,10 @@ Remainder: Royal Assent</div>
     <div>94, 1992</div>
   </td>
   <td>
-    <div>30 June 1992</div>
+    <div>30 June 1992</div>
   </td>
   <td>
-    <div>S. 3: 1 July 1990 
+    <div>S. 3: 1 July 1990 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -1178,7 +1166,7 @@ Remainder: Royal Assent</div>
     <div>11 Dec 1992</div>
   </td>
   <td>
-    <div>Part 1 (ss. 1, 2) and Parts 3–11 (ss. 18–53): 8 Jan 1993 
+    <div>Part 1 (ss. 1, 2) and Parts 3-11 (ss. 18-53): 8 Jan 1993 
 Remainder: 1 Feb 1993 ( <i>see Gazette</i>1993, No. GN1)</div>
   </td>
   <td>
@@ -1230,8 +1218,8 @@ Remainder: 1 Feb 1993 ( <i>see Gazette</i>1993, No. GN1)</div>
     <div>21 Dec 1992</div>
   </td>
   <td>
-    <div>Schedule (Part 1): 10 Mar 1993 ( <i>see Gazette</i>1993, No. GN17) <i>(b)</i> 
-Schedule (Part 5): 30 Aug 1995 ( <i>see Gazette</i>1995, No. S324) <i>(b)</i></div>
+    <div>Schedule (Part 1): 10 Mar 1993 ( <i>see Gazette</i>1993, No. GN17) <i>(b)</i> 
+Schedule (Part 5): 30 Aug 1995 ( <i>see Gazette</i>1995, No. S324) <i>(b)</i></div>
   </td>
   <td>
     <div>S. 2(6) (as am. by 60, 1993, s. 4; 168, 1994, s. 3)</div>
@@ -1282,7 +1270,7 @@ Schedule (Part 5): 30 Aug 1995 ( <i>see Gazette</i>1995, No. S324) <i>(b)</i
     <div>16 Dec 1994</div>
   </td>
   <td>
-    <div>S. 3 (item 17): Royal Assent <i>(c)</i></div>
+    <div>S. 3 (item 17): Royal Assent <i>(c)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1316,7 +1304,7 @@ Schedule (Part 5): 30 Aug 1995 ( <i>see Gazette</i>1995, No. S324) <i>(b)</i
     <div>7 Apr 1997</div>
   </td>
   <td>
-    <div>Schedule 1 (items 10–16): Royal Assent <i>(e)</i></div>
+    <div>Schedule 1 (items 10-16): Royal Assent <i>(e)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1330,10 +1318,10 @@ Schedule (Part 5): 30 Aug 1995 ( <i>see Gazette</i>1995, No. S324) <i>(b)</i
     <div>48, 1998</div>
   </td>
   <td>
-    <div>29 June 1998</div>
+    <div>29 June 1998</div>
   </td>
   <td>
-    <div>Schedule 1 (items 39–41): <i>(f)</i></div>
+    <div>Schedule 1 (items 39-41): <i>(f)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1358,16 +1346,16 @@ Schedule (Part 5): 30 Aug 1995 ( <i>see Gazette</i>1995, No. S324) <i>(b)</i
 </tr>
 <tr>
   <td>
-    <div>Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999</div>
+    <div>Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999</div>
   </td>
   <td>
     <div>44, 1999</div>
   </td>
   <td>
-    <div>17 June 1999</div>
+    <div>17 June 1999</div>
   </td>
   <td>
-    <div>Schedule 6 (Item 17): Royal Assent <i>(g)</i></div>
+    <div>Schedule 6 (Item 17): Royal Assent <i>(g)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1384,7 +1372,7 @@ Schedule (Part 5): 30 Aug 1995 ( <i>see Gazette</i>1995, No. S324) <i>(b)</i
     <div>23 Dec 1999</div>
   </td>
   <td>
-    <div>Schedule 10: 23 Dec 1999 <i>(h)</i></div>
+    <div>Schedule 10: 23 Dec 1999 <i>(h)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1401,10 +1389,10 @@ Schedule (Part 5): 30 Aug 1995 ( <i>see Gazette</i>1995, No. S324) <i>(b)</i
     <div>7 Mar 2000</div>
   </td>
   <td>
-    <div>2 July 2000 ( <i>see Gazette</i>2000, No. S328)</div>
+    <div>2 July 2000 ( <i>see Gazette</i>2000, No. S328)</div>
   </td>
   <td>
-    <div>Sch. 3 (items 20, 34, 35) \[ <i>see</i>Table A]</div>
+    <div>Sch. 3 (items 20, 34, 35) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -1418,10 +1406,10 @@ Schedule (Part 5): 30 Aug 1995 ( <i>see Gazette</i>1995, No. S324) <i>(b)</i
     <div>6 Apr 2001</div>
   </td>
   <td>
-    <div>S. 4(1), (2) and Schedule 18: <i>(i)</i></div>
+    <div>S. 4(1), (2) and Schedule 18: <i>(i)</i></div>
   </td>
   <td>
-    <div>S. 4(1) and (2) \[ <i>see</i>Table A]</div>
+    <div>S. 4(1), (2) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -1438,7 +1426,7 @@ Schedule (Part 5): 30 Aug 1995 ( <i>see Gazette</i>1995, No. S324) <i>(b)</i
     <div>S. 4 and Schedule 1 (items 124, 125, 496): Royal Assent</div>
   </td>
   <td>
-    <div>S. 4 and Sch. 1 (item 496) \[ <i>see</i>Table A]</div>
+    <div>S. 4 and Sch. 1 (item 496) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -1449,84 +1437,65 @@ Schedule (Part 5): 30 Aug 1995 ( <i>see Gazette</i>1995, No. S324) <i>(b)</i
     <div>26, 2008</div>
   </td>
   <td>
-    <div>23 June 2008</div>
+    <div>23 June 2008</div>
   </td>
   <td>
-    <div>Schedule 1 (items 55, 56): Royal Assent</div>
+    <div>Schedule 1 (items 55, 56): Royal Assent</div>
   </td>
   <td>
     <div>—</div>
   </td>
-</tr>
-<thead>
-  <tr>
-    <td>
-      <div>Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008</div>
-    </td>
-    <td>
-      <div>144, 2008</div>
-    </td>
-    <td>
-      <div>9 Dec 2008</div>
-    </td>
-    <td>
-      <div>Schedule 2 (items 41, 42): 10 Dec 2008</div>
-    </td>
-    <td>
-      <div>Sch. 2 (item 42) \[ <i>see</i>Table A]</div>
-    </td>
-  </tr>
-</thead></table>
+</tr></table>
 
-_(a)_     The _Crimes Legislation Amendment Act 1992_ was amended by section 31 only of the _Crimes and Other Legislation Amendment Act 1994_, subsection 2(6) of which provides as follows:
+_(a)_     The _Crimes Legislation Amendment Act 1992_ was amended by section 31 only of the _Crimes and Other Legislation Amendment Act 1994_, subsection 2(6) of which provides as follows:
 
-                 (6)   The amendment made by this Act to the _Crimes Legislation Amendment Act 1992_ is taken to have commenced on 8 January 1993 immediately after the commencement of section 34 of that Act.
+                 (6)   The amendment made by this Act to the _Crimes Legislation Amendment Act 1992_ is taken to have commenced on 8 January 1993 immediately after the commencement of section 34 of that Act.
 
-_(b)_    The _Crimes (Superannuation Benefits) Act 1989_ was amended by the Schedule (Parts 1 and 5) of the _Qantas Sale Act 1992_, subsections 2(2), (3)(a) and (c) of which provide as follows:
+_(b)_    The _Crimes (Superannuation Benefits) Act 1989_ was amended by the Schedule (Parts 1 and 5) of the _Qantas Sale Act 1992_, subsections 2(2), (3)(a) and (c) of which provide as follows:
 
-                 (2)   Subject to subsection (3), the remaining provisions of this Act commence on a day or days to be fixed by Proclamation.
+                 (2)   Subject to subsection (3), the remaining provisions of this Act commence on a day or days to be fixed by Proclamation.
 
                  (3)   A Proclamation may fix a day that is earlier than the day on which the Proclamation is published in the _Gazette_ but only if:
 
-                              (a)   in the case of sections 30, 31, 35, 37, 39, 43 and 50 and Parts 1 and 2 of the Schedule—the day is not earlier than the substantial minority sale day; and
+                              (a)   in the case of sections 30, 31, 35, 37, 39, 43 and 50 and Parts 1 and 2 of the Schedule—the day is not earlier than the substantial minority sale day; and
 
-                              (c)   in the case of sections 25, 36, 38, 44 and 51 and Parts 5, 6 and 7 of the Schedule—the day is not earlier than the 100% sale day.
+                              (c)   in the case of sections 25, 36, 38, 44 and 51 and Parts 5, 6 and 7 of the Schedule—the day is not earlier than the 100% sale day.
 
-_(c)_     The _Qantas Sale Act 1992_ was amended by section 3 (item 17) only of the _Qantas Sale Amendment Act 1994_, subsection 2(1) of which provides as follows:
-
-                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
-
-_(d)_     The _Crimes (Superannuation Benefits) Act 1989_ was amended by section 31 only of the _Crimes and Other Legislation Amendment Act 1994_, subsection 2(4) of which provides as follows:
-
-                 (4)   The amendments made by this Act to the _Australian Federal Police Act 1979_, the _Crimes (Aviation) Act 1991_(other than the amendment made to Schedule 5 to that Act), the _Crimes (Hostages) Act 1989_, the _Crimes (Internationally Protected Persons) Act 1976_, the _Crimes (Overseas) Act 1964_, the _Crimes (Superannuation Benefits) Act 1989_, the _Crimes (Traffic in Narcotic Drugs and Psychotropic Substances) Act 1990_, the _Customs Act 1901_, the _Director of Public Prosecutions Act 1983_, the _Extradition Act 1988_, the _Financial Transaction Reports Act 1988_ and to sections 23 and 59 of the _Proceeds of Crime Act 1987_ commence on the 28th day after the day on which this Act receives the Royal Assent.
-
-_(e)_     The _Crimes (Superannuation Benefits) Act 1989_ was amended by Schedule 1 (items 10–16) only of the _Crimes and Other Legislation Amendment Act 1997,_ subsection 2(1) of which provides as follows:
-
-                 (1)   Subject to subsection (2), this Act commences on the day on which it receives the Royal Assent.
-
-_(f)_      The _Crimes (Superannuation Benefits) Act 1989_ was amended by Schedule 1 (items 39–41) only of the _Financial Sector Reform (Consequential Amendments) Act 1998,_ subsection 2(6) of which provides as follows:
-
-                 (6)   Items 39, 40 and 41 of Schedule 1 commence on the later of the following times:
-
-                              (a)   the commencement of the _Australian Prudential Regulation Authority Act 1998_;
-
-                              (b)   immediately after the commencement of Part 1 of Schedule 1 to the _Crimes (Superannuation Benefits) Amendment Act 1998_.
-
-_(g)_ The _Financial Sector Reform (Consequential Amendments) Act 1998_ was amended by Schedule 6 (item 17) only of the _Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999,_ subsection 2(1) of which provides as follows:
+_(c)_     The _Qantas Sale Act 1992_ was amended by section 3 (item 17) only of the _Qantas Sale Amendment Act 1994_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-_(h)_     The _Crimes (Superannuation Benefits) Act 1989_ was amended by Schedule 10 only of the _Federal Magistrates (Consequential Amendments) Act 1999_, subsection 2(1) of which provides as follows:
+_(d)_     The _Crimes (Superannuation Benefits) Act 1989_ was amended by section 31 only of the _Crimes and Other Legislation Amendment Act 1994_, subsection 2(4) of which provides as follows:
+
+                 (4)   The amendments made by this Act to the _Australian Federal Police Act 1979_, the _Crimes (Aviation) Act 1991_(other than the amendment made to Schedule 5 to that Act), the _Crimes (Hostages) Act 1989_, the _Crimes (Internationally Protected Persons) Act 1976_, the _Crimes (Overseas) Act 1964_, the _Crimes (Superannuation Benefits) Act 1989_, the _Crimes (Traffic in Narcotic Drugs and Psychotropic Substances) Act 1990_, the _Customs Act 1901_, the _Director of Public Prosecutions Act 1983_, the _Extradition Act 1988_, the _Financial Transaction Reports Act 1988_ and to sections 23 and 59 of the _Proceeds of Crime Act 1987_ commence on the 28th day after the day on which this Act receives the Royal Assent.
+
+_(e)_     The _Crimes (Superannuation Benefits) Act 1989_ was amended by Schedule 1 (items 10-16) only of the _Crimes and Other Legislation Amendment Act 1997,_ subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to subsection (2), this Act commences on the day on which it receives the Royal Assent.
+
+_(f)_      The _Crimes (Superannuation Benefits) Act 1989_ was amended by Schedule 1 (items 39-41) only of the _Financial Sector Reform (Consequential Amendments) Act 1998,_ subsection 2(6) of which provides as follows:
+
+                 (6)   Items 39, 40 and 41 of Schedule 1 commence on the later of the following times:
+
+                              (a)   the commencement of the _Australian Prudential Regulation Authority Act 1998_;
+
+                              (b)   immediately after the commencement of Part 1 of Schedule 1 to the _Crimes (Superannuation Benefits) Amendment Act 1998_.
+
+_(g)_ The _Financial Sector Reform (Consequential Amendments) Act 1998_ was amended by Schedule 6 (item 17) only of the _Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999,_ subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+
+_(h)_     The _Crimes (Superannuation Benefits) Act 1989_ was amended by Schedule 10 only of the _Federal Magistrates (Consequential Amendments) Act 1999_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the commencement of the _Federal Magistrates Act 1999_.
 
-_(i)_      The _Crimes (Superannuation Benefits) Act 1989_ was amended by Schedule 18 only of the _Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001_, subsection 2(1)(a) of which provides as follows:
+_(i)_      The _Crimes (Superannuation Benefits) Act 1989_ was amended by Schedule 18 only of the _Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001_, subsection 2(1)(a) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences at the later of the following times:
 
                               (a)   immediately after the commencement of item 15 of Schedule 1 to the _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000_;
 
-         Item 15 commenced on 24 May 2001.
+         Item 15 commenced on 24 May 2001.
 
 ## Table of Amendments
 
@@ -1553,18 +1522,10 @@ _(i)_      The _Crimes (Superannuation Benefits) Act 1989_ was amended
 </thead>
 <tr>
   <td>
-    <div><b>Part 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 2</div>
   </td>
   <td>
-    <div>am. Nos. 94, 164 and 196, 1992; No. 20, 1997; No. 9, 2000; No. 26, 2008</div>
+    <div>am. Nos. 94, 164 and 196, 1992; No. 20, 1997; No. 9, 2000; No. 26, 2008</div>
   </td>
 </tr>
 <tr>
@@ -1572,15 +1533,7 @@ _(i)_      The _Crimes (Superannuation Benefits) Act 1989_ was amended
     <div>S. 7</div>
   </td>
   <td>
-    <div>am. No. 153, 1989; No. 194, 1999; No. 9, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10</div>
-  </td>
-  <td>
-    <div>am. No. 144, 2008</div>
+    <div>am. No. 153, 1989; No. 194, 1999; No. 9, 2000</div>
   </td>
 </tr>
 <tr>
@@ -1588,15 +1541,7 @@ _(i)_      The _Crimes (Superannuation Benefits) Act 1989_ was amended
     <div>S. 12A</div>
   </td>
   <td>
-    <div>ad. No. 24, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
+    <div>ad. No. 24, 2001</div>
   </td>
 </tr>
 <tr>
@@ -1604,7 +1549,7 @@ _(i)_      The _Crimes (Superannuation Benefits) Act 1989_ was amended
     <div>S. 17</div>
   </td>
   <td>
-    <div>am. No. 20, 1997</div>
+    <div>am. No. 20, 1997</div>
   </td>
 </tr>
 <tr>
@@ -1612,7 +1557,7 @@ _(i)_      The _Crimes (Superannuation Benefits) Act 1989_ was amended
     <div>S. 18</div>
   </td>
   <td>
-    <div>am. No. 123, 1991</div>
+    <div>am. No. 123, 1991</div>
   </td>
 </tr>
 <tr>
@@ -1620,7 +1565,7 @@ _(i)_      The _Crimes (Superannuation Benefits) Act 1989_ was amended
     <div>S. 19</div>
   </td>
   <td>
-    <div>am. No. 182, 1994</div>
+    <div>am. No. 182, 1994</div>
   </td>
 </tr>
 <tr>
@@ -1628,7 +1573,7 @@ _(i)_      The _Crimes (Superannuation Benefits) Act 1989_ was amended
     <div>S. 21</div>
   </td>
   <td>
-    <div>am. No. 164, 1992 (as am. by No. 182, 1994)</div>
+    <div>am. No. 164, 1992 (as am. by No. 182, 1994)</div>
   </td>
 </tr>
 <tr>
@@ -1636,15 +1581,7 @@ _(i)_      The _Crimes (Superannuation Benefits) Act 1989_ was amended
     <div>S. 23</div>
   </td>
   <td>
-    <div>am. No. 20, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
+    <div>am. No. 20, 1997</div>
   </td>
 </tr>
 <tr>
@@ -1652,7 +1589,7 @@ _(i)_      The _Crimes (Superannuation Benefits) Act 1989_ was amended
     <div>S. 25</div>
   </td>
   <td>
-    <div>am. No. 20, 1997</div>
+    <div>am. No. 20, 1997</div>
   </td>
 </tr>
 <tr>
@@ -1660,7 +1597,7 @@ _(i)_      The _Crimes (Superannuation Benefits) Act 1989_ was amended
     <div>S. 28</div>
   </td>
   <td>
-    <div>am. No. 123, 1991</div>
+    <div>am. No. 123, 1991</div>
   </td>
 </tr>
 <tr>
@@ -1668,7 +1605,7 @@ _(i)_      The _Crimes (Superannuation Benefits) Act 1989_ was amended
     <div>S. 28A</div>
   </td>
   <td>
-    <div>ad. No. 123, 1991</div>
+    <div>ad. No. 123, 1991</div>
   </td>
 </tr>
 <tr>
@@ -1676,7 +1613,7 @@ _(i)_      The _Crimes (Superannuation Benefits) Act 1989_ was amended
     <div>S. 32</div>
   </td>
   <td>
-    <div>am. No. 123, 1991</div>
+    <div>am. No. 123, 1991</div>
   </td>
 </tr>
 <tr>
@@ -1684,7 +1621,7 @@ _(i)_      The _Crimes (Superannuation Benefits) Act 1989_ was amended
     <div>S. 35</div>
   </td>
   <td>
-    <div>am. No. 24, 2001</div>
+    <div>am. No. 24, 2001</div>
   </td>
 </tr>
 <tr>
@@ -1692,15 +1629,7 @@ _(i)_      The _Crimes (Superannuation Benefits) Act 1989_ was amended
     <div>S. 37</div>
   </td>
   <td>
-    <div>am. No. 20, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 4</b></div>
-  </td>
-  <td>
-    <div></div>
+    <div>am. No. 20, 1997</div>
   </td>
 </tr>
 <tr>
@@ -1708,7 +1637,7 @@ _(i)_      The _Crimes (Superannuation Benefits) Act 1989_ was amended
     <div>S. 41</div>
   </td>
   <td>
-    <div>am. No. 8, 2005</div>
+    <div>am. No. 8, 2005</div>
   </td>
 </tr></table>
 
@@ -1717,9 +1646,9 @@ _(i)_      The _Crimes (Superannuation Benefits) Act 1989_ was amended
 ### Application, saving or transitional provisions
 
 _Australian Federal Police Legislation Amendment Act 2000 
- (No. 9, 2000)_
+ (No. 9, 2000)_
 
-## Schedule 3
+## Schedule 3
 
 ## 20  Definition
 
@@ -1741,17 +1670,17 @@ If, immediately before the commencing time, any warrant, writ, order, permission
 
 (all within the meaning of the _Australian Federal Police Act 1979_ as in force at and after the commencing time).
 
-Note:          A person who is a member or staff member of the Australian Federal Police immediately before the commencing time is taken to be engaged as an AFP employee. Similarly, a person who is a special member of the Australian Federal Police immediately before the commencing time is taken to be appointed as a special member. See item 2 of this Schedule.
+Note:          A person who is a member or staff member of the Australian Federal Police immediately before the commencing time is taken to be engaged as an AFP employee. Similarly, a person who is a special member of the Australian Federal Police immediately before the commencing time is taken to be appointed as a special member. See item 2 of this Schedule.
 
 ## 35  Regulations dealing with matters of a transitional or saving nature
 
-(1)        The Governor-General may make regulations, not inconsistent with any other provision of this Schedule, prescribing matters of a transitional or saving nature in relation to the amendments made by Schedule 1 or 2.
+(1)        The Governor-General may make regulations, not inconsistent with any other provision of this Schedule, prescribing matters of a transitional or saving nature in relation to the amendments made by Schedule 1 or 2.
 
 (2)        Regulations made under this item within one year after the commencement of this item may commence on a day earlier than the day on which they are made, but not earlier than the commencement of this item.
 
 * * *
 
-_Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001 (No. 24, 2001)_
+_Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001 (No. 24, 2001)_
 
 ##### <a id="4"></a>4  Application of amendments
 
@@ -1777,20 +1706,12 @@ then the thing has the corresponding effect, for the purposes of the Part 2 Ac
 
                     <a name="part-act"></a>**_Part 2 Act_** means an Act that is amended by an item in Part 2 of Schedule 1.
 
-## Schedule 1
+## Schedule 1
 
 ## 496  Saving provision—Finance Minister’s determinations
 
 If a determination under subsection 20(1) of the _Financial Management and Accountability Act 1997_ is in force immediately before the commencement of this item, the determination continues in force as if it were made under subsection 20(1) of that Act as amended by this Act.
 
-* * *
-
-_Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008 (No. 144, 2008)_
-
-## Schedule 2
-
-## 42  Application
-
-The amendment of the _Crimes (Superannuation Benefits) Act 1989_ made by this Part applies in relation to an application for a superannuation order or a restraining order made on or after the commencement of this item.
+ 
 
  
