@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00466/Html/414bd44b-2bf0-4da3-95cf-9e79b9333b38_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00155/Html/ac1eb838-4091-45ab-a112-3bfbd649f005_files/image001.gif)
 
 # Designs Act 2003
 
 **Act No. 147 of 2003 as amended**
 
-This compilation was prepared on 24 May 2012
- taking into account amendments up to Act No. 35 of 2012
+This compilation was prepared on 30 January 2012
+ taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -968,7 +968,7 @@ but only if a design application in respect of the design is made within the pre
 
 ### Division 2—Substantial similarity in overall impression
 
-##### <a id="19"></a>19  Factors to be considered in assessing substantial similarity in overall impression
+##### <a id="19"></a>19  Factors to be considered in assessing substantial similarity in overall impression
 
              (1)  If a person is required by this Act to decide whether a design is substantially similar in overall impression to another design, the person making the decision is to give more weight to similarities between the designs than to differences between them.
 
@@ -2944,7 +2944,7 @@ the application or registration must be treated as having been restored on the d
 
              (5)  A person who continues to use a design because of paragraph (2)(a) or used the design after purchasing it as mentioned in subsection (4) does not infringe the registered design.
 
-##### <a id="140"></a>140  Infringement proceedings
+##### <a id="140"></a>140  Infringement proceedings
 
                    Infringement proceedings cannot be brought in respect of an infringement committed:
 
@@ -3126,4 +3126,514 @@ Note:          Section 152 deals with the application of sec
 
                      (a)  either of the following applies:
 
-                              (i)  a person engages, bef
+                              (i)  a person engages, before the commencing day, in conduct that infringed the monopoly in the design under the old Act;
+
+                             (ii)  a person engages, after the commencing day, in conduct that would have infringed the monopoly in the design under the old Act if that Act were still in force; and
+
+                     (b)  an action relating to that infringement was not pending immediately before the commencing day;
+
+an action may be brought under this Act for infringement of the design.
+
+(3)  However, in an action under subsection (2):
+
+                     (a)  the old Act continues to apply for the purposes of determining whether the person’s conduct infringed the monopoly in the design; and
+
+                     (b)  this Act does not apply for the purposes of determining whether the person’s conduct infringed the monopoly in the design; and
+
+                     (c)  a person is not entitled to any injunction or other relief to which the person would not have been entitled under the old Act.
+
+             (4)  Subsection (2) is subject to any law with respect to the time period within which an action of a kind mentioned in that subsection may be started.
+
+##### <a id="157"></a>157  Registrar and Deputy Registrar
+
+                   A person who held office as the Registrar, or as a Deputy Registrar, under the old Act immediately before the commencing day continues to hold office as the Registrar or Deputy Registrar (as the case requires) under this Act on and after that day.
+
+##### <a id="158"></a>158  The Register
+
+                   On and after the commencing day, the Register within the meaning of the old Act is taken to be the Register within the meaning of this Act.
+
+##### <a id="159"></a>159  Conversion of transitional applications
+
+             (1)  A person who has made a transitional application may request that the transitional application be treated as a converted application. This is a **_conversion request_**.
+
+             (2)  A conversion request must be:
+
+                     (a)  made before the end of the prescribed period; and
+
+                     (b)  in writing and filed; and
+
+                     (c)  made in accordance with any requirements prescribed by the regulations.
+
+             (3)  If a conversion request is made in respect of a transitional application, nothing that has been done under the old Act in relation to the application before the request was made is taken to constitute an examination under Chapter 5.
+
+             (4)  If a conversion request is made in respect of a transitional application, the application is taken to be a converted application from the date of the conversion request.
+
+##### <a id="160"></a>160  Effect of a converted application
+
+             (1)  A converted application is taken to be an application made under this Act, subject to the modifications set out in this section.
+
+             (2)  The filing date of a converted application is taken under section 26 of this Act to be the filing date of the transitional application.
+
+             (3)  The priority date of a design disclosed in a converted application is taken under section 27 of this Act to be the same priority date as it had under the transitional application.
+
+             (4)  A converted application is taken to meet the minimum filing requirements mentioned in subsection 21(2) of this Act.
+
+             (5)  A converted application is taken to include a request under section 35 of this Act for registration of each of the designs disclosed in the converted application.
+
+             (6)  The term of registration of a design disclosed in a converted application is taken under section 46 of this Act to start from the date of the conversion request under subsection 159(1).
+
+             (7)  An amendment requested under section 22B of the old Act in relation to a transitional application to which a converted application relates is taken to be an amendment requested under section 28 of this Act.
+
+             (8)  If:
+
+                     (a)  a converted application is amended under section 28 of this Act to exclude one or more of the designs disclosed in the converted application; and
+
+                     (b)  the applicant files a design application under section 23 of this Act in respect of one or more of the excluded designs;
+
+the term of registration of the excluded designs starts from the date of the conversion request under subsection 159(1).
+
+##### <a id="160A"></a>160A  Approvals under subsection 40A(6) of old Act
+
+                   An approval that was in force under subsection 40A(6) of the old Act immediately before the commencing day has effect on and after that day as if it were an approval under subsection 99(2) of this Act.
+
+##### <a id="161"></a>161  Definitions
+
+                   In this Chapter:
+
+                    <a name="commenc-dai"></a>**_commencing day_** means the day on which this section commences.
+
+                    <a name="old-act"></a>**_old Act_** means the _Designs Act 1906_.
+
+                    <a name="transition-applic"></a>**_transitional application_** means an application for registration of a design that:
+
+                     (a)  is made under the old Act before the commencing day; and
+
+                     (b)  is not a lapsed application; and
+
+                     (c)  is not in relation to a design that has been registered or refused registration.
+
+# Notes to the _Designs Act 2003_
+
+### Note 1
+
+The _Designs Act 2003_ as shown in this compilation comprises Act No. 147, 2003 amended as indicated in the Tables below.
+
+For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
+
+### Table of Acts
+
+<table>
+<colgroup>
+  <col width="30%">
+  <col width="16%">
+  <col width="17%">
+  <col width="21%">
+  <col width="16%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>Act</div>
+    </td>
+    <td>
+      <div>Number 
+and year</div>
+    </td>
+    <td>
+      <div>Date 
+of Assent</div>
+    </td>
+    <td>
+      <div>Date of commencement</div>
+    </td>
+    <td>
+      <div>Application, saving or transitional provisions</div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>Designs Act 2003</div>
+  </td>
+  <td>
+    <div>147, 2003</div>
+  </td>
+  <td>
+    <div>17 Dec 2003</div>
+  </td>
+  <td>
+    <div>Ss. 3–161: 17 June 2004 
+Remainder: Royal Assent</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Intellectual Property Laws Amendment Act 2006</div>
+  </td>
+  <td>
+    <div>106, 2006</div>
+  </td>
+  <td>
+    <div>27 Sept 2006</div>
+  </td>
+  <td>
+    <div>Schedule 12 (items 1, 2): 27 Mar 2007 
+Schedule 15 (item 1): 28 Sept 2006</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Personal Property Securities (Consequential Amendments) Act 2009</div>
+  </td>
+  <td>
+    <div>131, 2009</div>
+  </td>
+  <td>
+    <div>14 Dec 2009</div>
+  </td>
+  <td>
+    <div>Schedule 2 (items 1–7): 30 Jan 2012 ( <i>see</i>F2011L02397)</div>
+  </td>
+  <td>
+    <div>Sch. 2 (item 7)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Personal Property Securities (Corporations and Other Amendments) Act 2010</div>
+  </td>
+  <td>
+    <div>96, 2010</div>
+  </td>
+  <td>
+    <div>6 July 2010</div>
+  </td>
+  <td>
+    <div>Schedule 3 (item 1): <i>(a)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Acts Interpretation Amendment Act 2011</div>
+  </td>
+  <td>
+    <div>46, 2011</div>
+  </td>
+  <td>
+    <div>27 June 2011</div>
+  </td>
+  <td>
+    <div>Schedule 2 (item 532) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+  </td>
+  <td>
+    <div>Sch. 3 (items 10, 11)</div>
+  </td>
+</tr></table>
+
+_(a)_ Subsection 2(1) (item 8) of the _Personal Property Securities (Corporations and Other Amendments) Act 2010_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="3">
+      <div>
+        <b>
+          Commencement information
+        </b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Column 1
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Column 2
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Column 3
+        </b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      8\. Schedule 3, item 1
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of item 1 of Schedule 2 to the
+        <i>Personal Property Securities (Consequential Amendments) Act 2009</i>.
+    </div>
+  </td>
+  <td>
+    <div>
+      30 January 2012
+    </div>
+  </td>
+</tr></table>
+
+## Table of Amendments
+
+<table>
+<colgroup>
+  <col width="32%">
+  <col width="68%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="2">
+      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Provision affected</div>
+    </td>
+    <td>
+      <div>How affected</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Chapter 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 5</div>
+    </td>
+    <td>
+      <div>am. No. 131, 2009; No. 96, 2010</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Chapter 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 12</div>
+    </td>
+    <td>
+      <div>am. No. 131, 2009</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 4</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 15(2)</div>
+    </td>
+    <td>
+      <div>am. No. 46, 2011</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Chapter 9</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 118, 119</div>
+    </td>
+    <td>
+      <div>am. No. 131, 2009</div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div><b>Chapter 10</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 124</div>
+  </td>
+  <td>
+    <div>am. No. 106, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Chapter 11</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 129</div>
+  </td>
+  <td>
+    <div>am. No. 106, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 4A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Part 4A of Chap. 11</div>
+  </td>
+  <td>
+    <div>ad. No. 106, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 136A</div>
+  </td>
+  <td>
+    <div>ad. No. 106, 2006</div>
+  </td>
+</tr></table>
+
+## Table A
+
+### Application, saving or transitional provisions
+
+_Personal Property Securities (Consequential Amendments) Act 2009
+ (No. 131, 2009)_
+
+## Schedule 2
+
+## 7  Application of amendments of the _Designs Act 2003_
+
+(1)       The amendment of the _Designs Act 2003_ made by item 2 of this Schedule does not apply in relation to a dealing that starts before the time the item commences.
+
+(2)       The amendment of the _Designs Act 2003_ made by item 3 of this Schedule does not apply in relation to the enforcement of an equity if the equity starts to be enforced before the time the item commences.
+
+(3)       The amendments of the _Designs Act 2003_ made by items 4, 5 and 6 of this Schedule do not apply in relation to any proceedings in a court or tribunal in relation to designs (or interests in designs) that are commenced before the time the items commence.
+
+_Note:       Items 2 to 6 commence at the registration commencement time within the meaning of section 306 of the Personal Property Securities Act 2009._
+
+* * *
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+## Schedule 3
+
+## 10  Saving—appointments
+
+The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
+
+## 11  Transitional regulations
+
+The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
+
+ 
