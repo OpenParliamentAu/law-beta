@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00783/Html/MedicareAustraliaAct1973_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00420/Html/MedicareAustraliaAct1973_WD02_image001.gif)
 
 # Medicare Australia Act 1973
 
 **Act No. 41 of 1974 as amended**
 
-This compilation was prepared on 1 December 2010
- taking into account amendments up to Act No. 126 of 2010
+This compilation was prepared on 1 July 2010
+ taking into account amendments up to Act No. 29 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -231,7 +231,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (b)  a person who is not an employee and who has been authorised by the relevant authorised officer to assist in executing the warrant.
 
-                    <a name="pharmaceut-benefit"></a>**_pharmaceutical benefit_** means a pharmaceutical benefit as defined in Part VII of the _National Health Act 1953_.
+                    <a name="pharmaceut-benefit"></a>**_pharmaceutical benefit_** means:
+
+                     (a)  a pharmaceutical benefit as defined in Part VII of the _National Health Act 1953_; or
+
+                     (b)  a special pharmaceutical product as defined in that Part.
 
                     <a name="premis"></a>**_premises_** includes a place and a conveyance.
 
@@ -937,7 +941,7 @@ the court is to assume, unless the contrary is proved, that the entry, search, s
 
                      (b)  that the effective execution of the warrant is not frustrated.
 
-##### <a id="8ZC"></a>8ZC  Availability of assistance and use of force in executing a warrant
+##### <a id="8ZC"></a>8ZC  Availability of assistance and use of force in executing a warrant
 
                    In executing a warrant:
 
@@ -2408,23 +2412,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>National Health Amendment (Pharmaceutical Benefits Scheme) Act 2010</div>
-  </td>
-  <td>
-    <div>126, 2010</div>
-  </td>
-  <td>
-    <div>23 Nov 2010</div>
-  </td>
-  <td>
-    <div>Schedule 6 (item 29): 1 Dec 2010</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Medicare__Australia__Act 1973_ was amended by section 3 only of the _Administrative Changes (Consequential Provisions) Act 1976_, subsection 2(7) of which provides as follows:
@@ -2816,7 +2803,7 @@ _(v)_     Subsection 2(1) (items 3, 4, 6 and 7) of the _Human Services
     <div>S. 3</div>
   </td>
   <td colspan="2">
-    <div>am. Nos. 91 and 100, 1976; No. 134, 1978; No. 54, 1983; No. 136, 1992; Nos. 80 and 85, 1994; No. 149, 1995; No. 159, 1997; Nos. 83 and 146, 1999; No. 71, 2002; No. 50, 2003; No. 111, 2005; No. 88, 2007; No. 42, 2008; No. 126, 2010</div>
+    <div>am. Nos. 91 and 100, 1976; No. 134, 1978; No. 54, 1983; No. 136, 1992; Nos. 80 and 85, 1994; No. 149, 1995; No. 159, 1997; Nos. 83 and 146, 1999; No. 71, 2002; No. 50, 2003; No. 111, 2005; No. 88, 2007; No. 42, 2008</div>
   </td>
 </tr>
 <tr>
