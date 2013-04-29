@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00761/Html/63d0adab-24a7-43fa-9e99-149242a897a5_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00015/Html/PublicWorksCommittee1969_image001.gif)
 
 # Public Works Committee Act 1969
 
 **Act No. 92 of 1969 as amended**
 
-This compilation was prepared on 30 October 2012
- taking into account amendments up to Act No. 136 of 2012
+This compilation was prepared on 1 January 2008
+ taking into account amendments up to Act No. 150 of 2007
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -125,7 +126,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 ##### <a id="5"></a>5  Interpretation
 
-                   In this Act, unless the contrary intention appears:
+                   In this Act, unless the contrary intention appears:
 
                     <a name="assessor"></a>**_assessor_** means a person appointed under section 26.
 
@@ -133,11 +134,11 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
                      (a)  a body corporate, or an unincorporated body, established for a public purpose by, or in accordance with the provisions of, an enactment;
 
-                     (b)  a body established by the Governor‑General or a Minister otherwise than in accordance with an enactment; or
+                     (b)  a body established by the Governor-General or a Minister otherwise than in accordance with an enactment; or
 
                      (c)  an incorporated company over which the Commonwealth is in a position to exercise control;
 
-but does not include an inter‑governmental body.
+but does not include an inter-governmental body.
 
                     <a name="author-commonwealth-act-appli"></a>**_authority of the Commonwealth to which this Act applies_** means an authority of the Commonwealth that, under section 6A, is an authority of the Commonwealth to which this Act applies.
 
@@ -153,13 +154,13 @@ but does not include an inter‑governmental body.
 
                      (a)  an Act;
 
-                     (b)  an Ordinance of the Australian Capital Territory; or
+                     (b)  an Ordinance of the Australian   Capital Territory; or
 
-                     (c)  an instrument (including rules, regulations or by‑laws) made under an Act or under such an Ordinance.
+                     (c)  an instrument (including rules, regulations or by-laws) made under an Act or under such an Ordinance.
 
                     <a name="engineering-work"></a>**_engineering work_** includes part of an engineering work.
 
-                    <a name="inter-government-bodi"></a>**_inter‑governmental body_** means a body corporate or an unincorporated body established by, or in accordance with the provisions of, an agreement between the Commonwealth and a State or States or between the Commonwealth and the Government of another country or the Governments of other countries.
+                    <a name="inter-government-bodi"></a>**_inter-governmental body_** means a body corporate or an unincorporated body established by, or in accordance with the provisions of, an agreement between the Commonwealth and a State or States or between the Commonwealth and the Government of another country or the Governments of other countries.
 
                     <a name="member"></a>**_member_** means a member of the Committee.
 
@@ -291,7 +292,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (c)  an authority of the Commonwealth established for the purpose of providing, or for purposes which include the purpose of providing, tertiary education in the Australian Capital Territory.
 
-             (3)  Where the Governor‑General is satisfied that an authority of the Commonwealth is engaging in trading or other activities, or is providing services, in competition with another body or other bodies, or with persons, the Governor‑General may make regulations declaring that this Act does not apply to that authority.
+             (3)  Where the Governor-General is satisfied that an authority of the Commonwealth is engaging in trading or other activities, or is providing services, in competition with another body or other bodies, or with persons, the Governor-General may make regulations declaring that this Act does not apply to that authority.
 
 ## Part II—Parliamentary Standing Committee on Public Works
 
@@ -315,7 +316,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (c)  the Speaker of the House of Representatives; or
 
-                     (d)  the Chairman of Committees of the Senate or the Deputy Speaker of the House of Representatives.
+                     (d)  the Chairman of Committees of the Senate or of the House of Representatives.
 
              (6)  A member holds office during the pleasure of the House of the Parliament by which he or she was appointed.
 
@@ -353,7 +354,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
              (2)  The Chair and Deputy Chair hold office during the pleasure of the Committee.
 
-             (3)  The Chair or Deputy Chair ceases to hold office if:
+             (3)  The Chair and Deputy Chair ceases to hold office if:
 
                      (a)  he or she ceases to be a member; or
 
@@ -495,7 +496,7 @@ and, for those purposes, shall do such things and make such inquiries as it thin
 
                      (c)  the most effective use that can be made, in the carrying out of the work, of the moneys to be expended on the work;
 
-                     (d)  where the work purports to be of a revenue‑producing character, the amount of revenue that it may reasonably be expected to produce; and
+                     (d)  where the work purports to be of a revenue-producing character, the amount of revenue that it may reasonably be expected to produce; and
 
                      (e)  the present and prospective public value of the work.
 
@@ -513,7 +514,7 @@ and, for those purposes, shall do such things and make such inquiries as it thin
 
                      (b)  such plans, specifications and other particulars as the Minister thinks necessary.
 
-             (4)  The Governor‑General may, at any time when the Parliament is not in session or the House of Representatives is adjourned for a period exceeding one month or for an indefinite period, being a time when the Committee is in existence, refer a public work to the Committee for consideration and report.
+             (4)  The Governor-General may, at any time when the Parliament is not in session or the House of Representatives is adjourned for a period exceeding one month or for an indefinite period, being a time when the Committee is in existence, refer a public work to the Committee for consideration and report.
 
              (5)  A public work that has been referred to the Committee in accordance with this section shall not be commenced before a report of the Committee concerning the work has been presented to both Houses of the Parliament.
 
@@ -527,7 +528,7 @@ and, for those purposes, shall do such things and make such inquiries as it thin
 
                      (b)  the House of Representatives has resolved that, by reason of the urgent nature of the work, it is expedient that it be carried out without having been referred to the Committee;
 
-                     (c)  the Governor‑General has, by order, declared that the work is for defence purposes and that the reference of the work to the Committee would be contrary to the public interest; or
+                     (c)  the Governor-General has, by order, declared that the work is for defence purposes and that the reference of the work to the Committee would be contrary to the public interest; or
 
                      (d)  the work is a work that has been declared, by a notice under subsection (8A), to be a repetitive work for the purposes of this subsection.
 
@@ -753,17 +754,17 @@ a person for or on account of his or her having appeared, or being about to appe
 
 ##### <a id="37"></a>37  Application of Parliamentary Papers Act
 
-             (1)  Section 23 has effect notwithstanding section 2 of the _Parliamentary Papers Act 1908‑1963_.
+             (1)  Section 23 has effect notwithstanding section 2 of the _Parliamentary Papers Act 1908-1963_.
 
-             (2)  Where evidence taken by the Committee in private is disclosed or published in accordance with section 23, section 4 of the _Parliamentary Papers Act 1908‑1963_ applies to and in relation to the disclosure or publication as if it were a publication of that evidence under an authority given in pursuance of section 2 of that Act.
+             (2)  Where evidence taken by the Committee in private is disclosed or published in accordance with section 23, section 4 of the _Parliamentary Papers Act 1908-1963_ applies to and in relation to the disclosure or publication as if it were a publication of that evidence under an authority given in pursuance of section 2 of that Act.
 
 ##### <a id="38"></a>38  Evidence given before former Committee
 
-                   For the purposes of this Act and of the _Parliamentary Papers Act 1908‑1963_, evidence taken by the Parliamentary Standing Committee on Public Works as constituted at any time under the _Commonwealth Public Works Committee Act 1913_ or under that Act as amended and in force at any time, or by a Sectional Committee of that Committee within the meaning of that Act, shall be deemed to be evidence taken by the Committee under this Act and, if it was taken in private at the request of the witness giving it, to have been taken under this Act in private at the request of that witness.
+                   For the purposes of this Act and of the _Parliamentary Papers Act 1908-1963_, evidence taken by the Parliamentary Standing Committee on Public Works as constituted at any time under the _Commonwealth Public Works Committee Act 1913_ or under that Act as amended and in force at any time, or by a Sectional Committee of that Committee within the meaning of that Act, shall be deemed to be evidence taken by the Committee under this Act and, if it was taken in private at the request of the witness giving it, to have been taken under this Act in private at the request of that witness.
 
 ##### <a id="40"></a>40  Regulations
 
-             (1)  The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters that by this Act are required or permitted to be prescribed or are necessary or convenient to be prescribed for carrying out or giving effect to this Act and in particular providing for the payment of fees and expenses to assessors and to witnesses appearing before the Committee.
+             (1)  The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters that by this Act are required or permitted to be prescribed or are necessary or convenient to be prescribed for carrying out or giving effect to this Act and in particular providing for the payment of fees and expenses to assessors and to witnesses appearing before the Committee.
 
              (2)  Before making regulations for the purposes of:
 
@@ -771,7 +772,7 @@ a person for or on account of his or her having appeared, or being about to appe
 
                      (b)  paragraph 5AA(1)(b) or (e);
 
-the Governor‑General shall take into consideration any relevant recommendation made to the Minister by the Committee. 
+the Governor-General shall take into consideration any relevant recommendation made to the Minister by the Committee. 
 
 # The Schedule—Public Works Committee Act 1969 
 
@@ -779,7 +780,7 @@ Section 8
 
 DECLARATION BY MEMBER
 
-I, A.B., do solemnly and sincerely promise and declare that, according to the best of my skill and ability, I will faithfully, impartially and truly execute the office and perform the duties of a member of the Parliamentary Standing Committee on Public Works.
+I, A.B., do solemnly and sincerely promise and declare that, according to the best of my skill and ability, I will faithfully, impartially and truly execute the office and perform the duties of a member of the Parliamentary Standing Committee on Public Works. 
 
 # Notes to the _Public Works Committee Act 1969_
 
@@ -789,7 +790,7 @@ The _Public Works Committee Act 1969_ as shown in this compilation comprises Act
 
 All relevant information pertaining to application, saving or transitional provisions prior to 17 September 2001 is not included in this compilation. For subsequent information _see_ Table A.
 
-The _Public Works Committee Act 1969_ was modified by the A.C.T. Self‑Government (Consequential Provisions) Regulations (1989 No. 3 as amended) s _ee_ Table B.
+The _Public Works Committee Act 1969_ was modified by the A.C.T. Self-Government (Consequential Provisions) Regulations (1989 No. 3 as amended) s _ee_ Table B.
 
 ### Table of Acts
 
@@ -1027,7 +1028,7 @@ Remainder: Royal Assent</div>
 Schedule (Part 5): 30 Aug 1995 ( <i>see Gazette</i>1995, No. S324) <i>(f)</i></div>
   </td>
   <td>
-    <div>S. 2(6) (am. by 60, 1993, s. 4; 168, 1994, s. 3)</div>
+    <div>S. 2(6) (am. by 60, 1993, s. 4; 168, 1994, s. 3)</div>
   </td>
 </tr>
 <tr>
@@ -1143,24 +1144,7 @@ Schedule (Part 5): 30 Aug 1995 ( <i>see Gazette</i>1995, No. S324) <i>(f)</i><
     <div>24 Sept 2007</div>
   </td>
   <td>
-    <div>Schedule 1 (items 23, 24): 1 Jan 2008 ( <i>see</i>F2007L04141)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2012</div>
-  </td>
-  <td>
-    <div>136, 2012</div>
-  </td>
-  <td>
-    <div>22 Sept 2012</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 110): Royal Assent</div>
+    <div>Schedule 1 (items 23, 24): 1 Jan 2008 ( <i>see</i>F2007L04141)</div>
   </td>
   <td>
     <div>—</div>
@@ -1169,15 +1153,15 @@ Schedule (Part 5): 30 Aug 1995 ( <i>see Gazette</i>1995, No. S324) <i>(f)</i><
 
 _(a)_     The _Public Works Committee Act 1969_ was amended by Part LXII (sections 233–236) only of the _Statute Law (Miscellaneous Amendments) Act (No. 2) 1982_, subsection 2(16) of which provides as follows: 
 
-               (16)   The remaining provisions of this Act shall come into operation on the twenty‑eighth day after the day on which this Act receives the Royal Assent.
+               (16)   The remaining provisions of this Act shall come into operation on the twenty-eighth day after the day on which this Act receives the Royal Assent.
 
-_(b)_     The _Public Works Committee Act 1969_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1983_, subsection 2(1) of which provides as follows:
+_(b)_    The _Public Works Committee Act 1969_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1983_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
 
 _(c)_     The _Public Works Committee Act 1969_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
 
 _(d)_     The _Public Works Committee Act 1969_ was amended by section 55 only of the _Australian Capital Territory (Planning and Land Management) Act 1988_, subsections 2(1) and (3) of which provide as follows:
 
@@ -1311,7 +1295,7 @@ _(h)_     The _Public Works Committee Act 1969_ was amended by Schedule�
     <div>S. 7</div>
   </td>
   <td>
-    <div>am. No. 216, 1973; No. 48, 1974; No. 132, 2006; No. 136, 2012</div>
+    <div>am. No. 216, 1973; No. 48, 1974; No. 132, 2006</div>
   </td>
 </tr>
 <tr>
@@ -1537,19 +1521,19 @@ The _Public Works Committee Act 1969_ as in force immediately before the day on 
 
 ### Modifications
 
-_A.C.T. Self‑Government (Consequential Provisions) Regulations_
+_A.C.T. Self-Government (Consequential Provisions) Regulations_
 
 ### Schedule 1
 
-## Section 5 (definition of _authority of the Commonwealth_):
+## Section 5 (definition of _authority of the Commonwealth_):  
 
-Add at the end “or a body established by or under an enactment within the meaning of section 3 of the _Australian Capital Territory__(Self‑Government) Act 1988_.”.
+Add at the end “or a body established by or under an enactment within the meaning of section 3 of the _Australian Capital Territory__(Self-Government) Act 1988_.”.
 
-## Section 5 (definition of _State_):
+## Section 5 (definition of _State_):  
 
 After “includes” insert “the Australian Capital Territory and”.
 
-## Subsection 6(2):
+## Subsection 6(2):  
 
 Before paragraph (a) insert the following paragraph:
 
