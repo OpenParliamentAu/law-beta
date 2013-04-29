@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00771/Html/cc18236b-fb82-480c-b92f-a2f724205737_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00760/Html/2fa2a639-2c58-4793-ae33-148c09bd06d9_files/image001.gif)
 
 # Mutual Assistance in Criminal Matters Act 1987
 
 **Act No. 85 of 1987 as amended**
 
-This compilation was prepared on 30 October 2012
+This compilation was prepared on 8 October 2012
  taking into account amendments up to Act No. 136 of 2012
 
 The text of any of those amendments not in force
@@ -65,19 +65,11 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [15](#15).          Requests by foreign countries for search and seizure—action by Attorney‑General
 
-**Part IIIA—Assistance in relation to stored communications**
-
-[15B](#15B).       Requests by foreign countries for stored communications
-
 **Part IIIBA—Assistance in relation to use of surveillance devices**
 
 [15C](#15C).       Requests by Australia for surveillance devices
 
 [15CA](#15CA).    Requests by foreign countries for surveillance devices
-
-**Part IIIB—Assistance in relation to telecommunications data**
-
-[15D](#15D).       Requests by foreign countries for telecommunications data
 
 **Part IV—Arrangements for persons to give evidence or assist investigations** 
 
@@ -433,8 +425,6 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
                     <a name="authorised-offic"></a>**_authorised officer_** has the same meaning as in the Proceeds of Crime Act.
 
-                    <a name="carrier"></a>**_carrier_** has the same meaning as in the _Telecommunications (Interception and Access) Act 1979_.
-
                     <a name="cartel-offenc"></a>**_cartel offence_** means an offence by a corporation involving cartel conduct.
 
                     <a name="child"></a>**_child_** has the same meaning as in Part ID of the _Crimes Act 1914_.
@@ -444,8 +434,6 @@ Prepared by the Office of Parliamentary Counsel, Canberra
                      (a)  any proceeding to determine whether a person should be tried for the offence (whether or not a particular person is specified at the commencement of that proceeding as the person in relation to whom the determination is to be made); and
 
                      (b)  a proceeding that is, in accordance with the regulations, to be taken to be a committal proceeding for the purposes of this Act.
-
-                    <a name="commun"></a>**_communication_** has the same meaning as in the _Telecommunications (Interception and Access) Act 1979_.
 
                     <a name="confisc-asset-account"></a>**_Confiscated Assets Account_** means the account established under section 295 of the Proceeds of Crime Act.
 
@@ -558,8 +546,6 @@ whether arising under Australian law or a law of a foreign country.
                     <a name="intercept-warrant-inform"></a>**_interception warrant information_** has the same meaning as in the _Telecommunications (Interception and Access) Act 1979_.
 
                     <a name="interest"></a>**_interest_**, in relation to property, has the same meaning as in the Proceeds of Crime Act.
-
-                    <a name="proceing"></a><a name="investig-proceing"></a>**_investigative proceeding_** means a proceeding covered by paragraph (a) or (b) of the definition of **_proceeding_**.
 
                     <a name="lawfulli-accessed-inform"></a>**_lawfully accessed information_** has the same meaning as in the _Telecommunications (Interception and Access) Act 1979_.
 
@@ -693,8 +679,6 @@ Note 2:       Paragraph (c)—see also subsection (1A) of this s
 
                     <a name="state-prison"></a>**_State prisoner_** means a person who is being held in custody pending trial for or sentence for, or under a sentence of imprisonment for, an offence against a law of a State, but does not include a person who is at large after having escaped from lawful custody.
 
-                    <a name="store-commun"></a>**_stored communication_** has the same meaning as in the _Telecommunications (Interception and Access) Act 1979_.
-
                     <a name="store-commun-warrant-inform"></a>**_stored communications warrant information_** has the same meaning as in the _Telecommunications (Interception and Access) Act 1979_.
 
                     <a name="strip-search"></a>**_strip search_** means a search of a person or of articles in the possession of a person that may include:
@@ -704,8 +688,6 @@ Note 2:       Paragraph (c)—see also subsection (1A) of this s
                      (b)  an examination of the person’s body (but not of the person’s body cavities) and of those clothes.
 
                     <a name="tape-record"></a>**_tape recording_** means audio recording, video recording or recording by other electronic means.
-
-                    <a name="telecommun-system"></a>**_telecommunications system_** has the same meaning as in the _Telecommunications (Interception and Access) Act 1979_.
 
                     <a name="territori"></a>**_Territory_**does not include:
 
@@ -1203,26 +1185,6 @@ the Attorney‑General may, in his or her discretion, authorise a police officer
 
 Note:          Divisions 2 and 3 of Part VIIA make provision relating to applications for, and the issue and execution of, search warrants requested by foreign countries.
 
-## Part IIIA—Assistance in relation to stored communications
-
-##### <a id="15B"></a>15B  Requests by foreign countries for stored communications
-
-                   The Attorney‑General may, in his or her discretion, authorise the Australian Federal Police or a police force or police service of a State, in writing, to apply for a stored communications warrant under section 110 of the _Telecommunications (Interception and Access) Act 1979_ if the Attorney‑General is satisfied that:
-
-                     (a)  an investigation, or investigative proceeding, relating to a criminal matter involving an offence against the law of a foreign country (the **_requesting country_**) has commenced in the requesting country; and
-
-                     (b)  the offence to which the investigation, or investigative proceeding, relates is punishable by a maximum penalty of:
-
-                              (i)  imprisonment for 3 years or more, imprisonment for life or the death penalty; or
-
-                             (ii)  a fine of an amount that is at least equivalent to 900 penalty units; and
-
-                     (c)  there are reasonable grounds to believe that stored communications relevant to the investigation, or investigative proceeding, are held by a carrier; and
-
-                     (d)  the requesting country has requested the Attorney‑General to arrange for access to the stored communications.
-
-Note:          Information obtained under the warrant may only be communicated to the requesting country on certain conditions: see subsection 142A(1) of the _Telecommunications (Interception and Access) Act 1979_.
-
 ## Part IIIBA—Assistance in relation to use of surveillance devices
 
 ##### <a id="15C"></a>15C  Requests by Australia for surveillance devices
@@ -1277,31 +1239,7 @@ on the ground alone that it was obtained otherwise than in accordance with the r
 
                     <a name="law-enforc-offic"></a><a name="elig-law-enforc-offic"></a>**_eligible law enforcement officer_** means a person referred to in paragraph (a) or (c) of the definition of **_law enforcement officer_** set out in subsection 6(1) of the _Surveillance Devices Act 2004._
 
-## Part IIIB—Assistance in relation to telecommunications data
-
-##### <a id="15D"></a>15D  Requests by foreign countries for telecommunications data
-
-             (1)  This section applies if:
-
-                     (a)   a foreign country requests the disclosure of specified information or specified documents that come into existence during a specified period; and
-
-                     (b)  the information or documents relate to the fact of a communication passing over a telecommunications system.
-
-             (2)  To avoid doubt, information or documents do not relate to the fact of a communication passing over a telecommunications system:
-
-                     (a)  if the information is the contents or substance of a communication; or
-
-                     (b)  to the extent that the documents contain the contents or substance of a communication.
-
-             (3)  The Attorney‑General may authorise the making of an authorisation under section 180B of the _Telecommunications (Interception and Access) Act 1979_, of a disclosure of information or documents to which this section applies, if he or she is satisfied that:
-
-                     (a)  an investigation relating to a criminal matter involving an offence against the law of the foreign country has commenced in that country; and
-
-                     (b)  the offence:
-
-                              (i)  is punishable by imprisonment for 3 years or more, imprisonment for life or the death penalty; or
-
-                             (ii)  involves an act or omission that, if it had occurred in Australia, would have constituted a serious offence within the meaning of section 5D of the _Telecommunications (Interception and Access) Act 1979_.
+                    <a name="proceing"></a><a name="investig-proceing"></a>**_investigative proceeding_** means a proceeding covered by paragraph (a) or (b) of the definition of **_proceeding_**.
 
 ## Part IV—Arrangements for persons to give evidence or assist investigations
 
@@ -3795,7 +3733,7 @@ Remainder: 1 Jan 2003 ( <i>see</i>s. 2(1) and <i>Gazette</i>2002, No. GN44
   <td>
     <div>Schedule 1 (items 7–11, 14) and Schedule 3 (items 1–41, 49, 69, 106–168) and Schedule 4 (item 2): 20 Sept 2012 
 Schedule 3 (item 50): <i>(c)</i> 
-Schedule 4 (item 3): <i>(c)</i></div>
+Schedule 4 (item 3): \[ <i>see</i> <i>(c)</i>and Note 2]</div>
   </td>
   <td>
     <div>Sch. 3 (items 15, 24, 33, 49, 69, 113, 135, 140, 144, 148, 152, 168) \[ <i>see</i>Table A]</div>
@@ -3813,7 +3751,7 @@ Schedule 4 (item 3): <i>(c)</i></div>
   </td>
   <td>
     <div>Schedule 2 (items 1–4, 
-24–27, 51(1), 52): 10 Oct 2012</div>
+24–27, 51(1), 52): \[ <i>see</i>Note 3 and Table A]</div>
   </td>
   <td>
     <div>Sch. 2 (items 24, 51(1), 52) \[ <i>see</i>Table A]</div>
@@ -3958,7 +3896,8 @@ _(c)_     Subsection 2(1) (items 7 and 13) of the _Extradition and Mutua
   </td>
   <td>
     <div>
-      10 October 2012
+      \[
+        <i>see</i>Note 2]
     </div>
   </td>
 </tr></table>
@@ -3999,7 +3938,7 @@ _(c)_     Subsection 2(1) (items 7 and 13) of the _Extradition and Mutua
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 66, 1988; No. 164, 1992; No. 40, 1996; No. 22, 2001; No. 86, 2002; No. 174, 2011; Nos. 7, 120 and 136, 2012</div>
+    <div>am. No. 66, 1988; No. 164, 1992; No. 40, 1996; No. 22, 2001; No. 86, 2002; No. 174, 2011; Nos. 7 and 136, 2012</div>
   </td>
 </tr>
 <tr>
@@ -4228,30 +4167,6 @@ _(c)_     Subsection 2(1) (items 7 and 13) of the _Extradition and Mutua
 </tr>
 <tr>
   <td>
-    <div><b>Part IIIA</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part IIIA</div>
-  </td>
-  <td>
-    <div>ad. No, 120, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15B</div>
-  </td>
-  <td>
-    <div>ad. No. 120, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part IIIBA</b></div>
   </td>
   <td>
@@ -4280,38 +4195,6 @@ _(c)_     Subsection 2(1) (items 7 and 13) of the _Extradition and Mutua
   </td>
   <td>
     <div>ad. No. 7, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 7, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part IIIB</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part IIIB</div>
-  </td>
-  <td>
-    <div>ad. No. 120, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15D</div>
-  </td>
-  <td>
-    <div>ad. No. 120, 2012</div>
   </td>
 </tr>
 <tr>
@@ -5756,6 +5639,114 @@ of Part VI</div>
   </td>
 </tr></table>
 
+### Note 2
+
+_Extradition and Mutual Assistance in Criminal Matters Legislation Amendment Act 2012 (No. 7, 2012)_
+
+The following amendment commences immediately after 10 October 2012:
+
+## Schedule 4
+
+## 3  Subsection 15CA(2) (definition of _investigative proceeding_)
+
+Repeal the definition.
+
+As at 8 October 2012 the amendment is not incorporated in this compilation.
+
+### Note 3
+
+_Cybercrime Legislation Amendment Act 2012 (No. 120, 2012)_
+
+The following amendments commence on 10 October 2012:
+
+## Schedule 2
+
+## 1  Subsection 3(1)
+
+Insert:
+
+                    <a name="carrier"></a>**_carrier_** has the same meaning as in the _Telecommunications (Interception and Access) Act 1979_.
+
+## 2  Subsection 3(1)
+
+Insert:
+
+                    <a name="proceing"></a><a name="investig-proceing"></a>**_investigative proceeding_** means a proceeding covered by paragraph (a) or (b) of the definition of **_proceeding_**.
+
+## 3  Subsection 3(1)
+
+Insert:
+
+                    <a name="store-commun"></a>**_stored communication_** has the same meaning as in the _Telecommunications (Interception and Access) Act 1979_.
+
+## 4  After Part III
+
+Insert:
+
+## Part IIIA—Assistance in relation to stored communications
+
+##### <a id="15B"></a>15B  Requests by foreign countries for stored communications
+
+                   The Attorney‑General may, in his or her discretion, authorise the Australian Federal Police or a police force or police service of a State, in writing, to apply for a stored communications warrant under section 110 of the _Telecommunications (Interception and Access) Act 1979_ if the Attorney‑General is satisfied that:
+
+                     (a)  an investigation, or investigative proceeding, relating to a criminal matter involving an offence against the law of a foreign country (the **_requesting country_**) has commenced in the requesting country; and
+
+                     (b)  the offence to which the investigation, or investigative proceeding, relates is punishable by a maximum penalty of:
+
+                              (i)  imprisonment for 3 years or more, imprisonment for life or the death penalty; or
+
+                             (ii)  a fine of an amount that is at least equivalent to 900 penalty units; and
+
+                     (c)  there are reasonable grounds to believe that stored communications relevant to the investigation, or investigative proceeding, are held by a carrier; and
+
+                     (d)  the requesting country has requested the Attorney‑General to arrange for access to the stored communications.
+
+Note:          Information obtained under the warrant may only be communicated to the requesting country on certain conditions: see subsection 142A(1) of the _Telecommunications (Interception and Access) Act 1979_.
+
+## 25  Subsection 3(1)
+
+Insert:
+
+                    <a name="commun"></a>**_communication_** has the same meaning as in the _Telecommunications (Interception and Access) Act 1979_.
+
+## 26  Subsection 3(1)
+
+Insert:
+
+                    <a name="telecommun-system"></a>**_telecommunications system_** has the same meaning as in the _Telecommunications (Interception and Access) Act 1979_.
+
+## 27  Before Part IV
+
+Insert:
+
+## Part IIIB—Assistance in relation to telecommunications data
+
+##### <a id="15D"></a>15D  Requests by foreign countries for telecommunications data
+
+             (1)  This section applies if:
+
+                     (a)   a foreign country requests the disclosure of specified information or specified documents that come into existence during a specified period; and
+
+                     (b)  the information or documents relate to the fact of a communication passing over a telecommunications system.
+
+             (2)  To avoid doubt, information or documents do not relate to the fact of a communication passing over a telecommunications system:
+
+                     (a)  if the information is the contents or substance of a communication; or
+
+                     (b)  to the extent that the documents contain the contents or substance of a communication.
+
+             (3)  The Attorney‑General may authorise the making of an authorisation under section 180B of the _Telecommunications (Interception and Access) Act 1979_, of a disclosure of information or documents to which this section applies, if he or she is satisfied that:
+
+                     (a)  an investigation relating to a criminal matter involving an offence against the law of the foreign country has commenced in that country; and
+
+                     (b)  the offence:
+
+                              (i)  is punishable by imprisonment for 3 years or more, imprisonment for life or the death penalty; or
+
+                             (ii)  involves an act or omission that, if it had occurred in Australia, would have constituted a serious offence within the meaning of section 5D of the _Telecommunications (Interception and Access) Act 1979_.
+
+As at 8 October 2012 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -5881,6 +5872,8 @@ Despite the repeal of section 34ZA of the _Mutual Assistance in Criminal Matte
 * * *
 
 _Cybercrime Legislation Amendment Act 2012 (No. 120, 2012)_
+
+The following provisions commence on 10 October 2012:
 
 ## Schedule 2
 
