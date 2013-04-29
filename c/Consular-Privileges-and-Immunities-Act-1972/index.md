@@ -1,56 +1,62 @@
-![](http://www.comlaw.gov.au/Details/C2006C00527/Html/ConPriAndImmAct1972_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00659/Html/92626B821CEC5DF7CA2570BC00144BEA/$FILE/image001.gif)
 
 # Consular Privileges and Immunities Act 1972
 
 **Act No. 62 of 1972 as amended**
 
-This compilation was prepared on 25 September 2006
- taking into account amendments up to Act No. 101 of 2006
+This compilation was prepared on 17 November 2005
+taking into account amendments up to Act No. 132 of 2005
 
 The text of any of those amendments not in force
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, Canberra
+
 
 # Contents
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Interpretation
+[3](#3).            Interpretation                                                                                       1
 
-[4](#4).            Extension to Territories
+[4](#4).            Extension to Territories                                                                       2
 
-[5](#5).            Vienna Convention on Consular Relations to have force of law
+[5](#5).            Vienna Convention on Consular Relations to have force of law         2
 
-[6](#6).            Provisions relating to exemption from customs duties
+[6](#6).            Provisions relating to exemption from customs duties                        4
 
-[7](#7).            Exemption from excise duty
+[7](#7).            Exemption from excise duty                                                                6
 
-[9](#9).            Regulations may grant consular privileges and immunities in certain cases
+[8](#8).            Exemption from sales tax on excisable goods                                      7
 
-[10](#10).          Privileges and immunities of certain consular employees of consular post
+[8A](#8A).         Exemption from sales tax for prescribed overseas consular post        8
 
-[10AA](#10AA).    Additional privileges or immunities granted by agreement, arrangement or understanding
+[9](#9).            Regulations may grant consular privileges and immunities in certain cases             9
 
-[10A](#10A).       Indirect tax concession scheme
+[10](#10).          Privileges and immunities of certain consular employees of consular post             11
 
-[11](#11).          Withdrawal of privileges and immunities
+[10AA](#10AA).    Additional privileges or immunities granted by agreement, arrangement or understanding     11
 
-[12](#12).          Certificates by Minister
+[10A](#10A).       Indirect tax concession scheme                                                          12
 
-[12A](#12A).       Delegation
+[11](#11).          Withdrawal of privileges and immunities                                          13
 
-[13](#13).          Regulations
+[12](#12).          Certificates by Minister                                                                    13
+
+[12A](#12A).       Delegation                                                                                          14
+
+[13](#13).          Regulations                                                                                        14
 
 **Schedule** 
 
 **Notes** 
+
 
 ## An Act relating to Consular Privileges and Immunities, and for other purposes
 
@@ -193,6 +199,36 @@ indirect tax that would be payable on an importation under one of those Acts is 
                      (a)  the person for whose use the goods are intended, or, if the goods are intended for the use of a consular post, the head of the consular post, agrees that, if the goods are sold or otherwise disposed of in Australia or in an external Territory within 2 years after the date of entry of the goods for home consumption under an Act relating to duties of excise, he will, unless the Minister for Industry, Technology and Commerce otherwise determines, pay to the Commonwealth an amount equal to the duties of excise that, but for this section, would have been payable in respect of the goods; and
 
                      (b)  where the person so entering into an agreement has previously entered into a similar agreement in relation to any other goods and has committed a breach of that last-mentioned agreement—the person complies with such conditions (if any) as the Minister for Industry, Technology and Commerce, by instrument in writing, determines (which may include a condition that the person give security, satisfactory to that Minister, that he will comply with the first-mentioned agreement).
+
+##### <a id="8"></a>8  Exemption from sales tax on excisable goods
+
+             (1)  Subject to this section, sales tax is not payable on goods that are freed from duties of excise by section 7.
+
+             (2)  Subsection (1) does not apply in respect of goods that are intended for the use of a consular post or person referred to in subsection 7(1) where any other goods of the same kind, or of a similar kind, that have been entered for home consumption under an Act relating to duties of excise were, at the time when they were so entered, intended for the use of the consular post or person and the Treasurer, by instrument in writing, declares that, in his opinion, the reasonable requirements of the consular post or person, as the case may be, have adequately been met by the other goods.
+
+             (3)  Subsection (1) does not apply in respect of any goods unless:
+
+                     (a)  the person for whose use the goods are intended, or, if the goods are intended for the use of a consular post, the head of the consular post, agrees that, if the goods are sold or otherwise disposed of in Australia or in an external Territory within 2 years after the date of entry of the goods for home consumption under an Act relating to duties of excise, he will, unless the Treasurer otherwise determines, pay to the Commonwealth an amount equal to the sales tax that, but for this section, would have been payable in respect of the goods; and
+
+                     (b)  where the person so entering into an agreement has previously entered into a similar agreement in relation to any other goods and has committed a breach of that last-mentioned agreement—the person complies with such conditions (if any) as the Treasurer, by instrument in writing, determines (which may include a condition that the person give security, satisfactory to the Treasurer, that he will comply with the first-mentioned agreement).
+
+##### <a id="8A"></a>8A  Exemption from sales tax for prescribed overseas consular post
+
+             (1)  Subject to this section, sales tax imposed under a law relating to sales tax is not payable in respect of goods that are:
+
+                     (a)  purchased, by or on behalf of the head of a consular post of a prescribed overseas country, directly from a person who is registered under the law relating to sales tax; and
+
+                     (b)  at the date of purchase, intended for the official use of the consular post; and
+
+                     (c)  the subject of an agreement between the head of the consular post and the Commonwealth under subsection (3).
+
+             (2)  Subsection (1) does not apply in respect of goods that are intended for the official use of a consular post where, by virtue of subsection (1), sales tax was not payable on any other goods of the same kind, or of a similar kind, intended for the official use of the consular post and the Treasurer, by instrument in writing, declares that, in his or her opinion, the reasonable requirements of the consular post have been adequately met by the other goods.
+
+             (3)  The head of a consular post may agree with the Commonwealth that where, by virtue of subsection (1), sales tax is not payable on goods:
+
+                     (a)  the head of the consular post will, if the goods are sold or otherwise disposed of in Australia or in an external Territory within 2 years after the date of purchase, pay to the Commonwealth, unless the Treasurer otherwise determines, an amount equal to the sales tax that, but for subsection (1), would have been payable in respect of the goods; and
+
+                     (b)  the head of the consular post will, if the head or a former head of the consular post has agreed to the condition set out in paragraph (a) in relation to other goods and has not fulfilled that condition—comply with such further conditions if any, as the Treasurer, by instrument in writing, determines (which may include a condition that the head of the consular post gives security, satisfactory to the Treasurer, that he or she will comply with the agreement).
 
 ##### <a id="9"></a>9  Regulations may grant consular privileges and immunities in certain cases
 
@@ -340,7 +376,8 @@ determined by the Minister.
 
                    The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed, or necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
-# Schedule—  
+
+# Schedule—  
 
 _Section 3_
 
@@ -1182,13 +1219,12 @@ _(Here follow the signatures of the Plenipotentiaries of the States on behalf of
 
  
 
+
 # Notes to the _Consular Privileges and Immunities Act 1972_
 
 ### Note 1
 
 The _Consular Privileges and Immunities Act 1972_ as shown in this compilation comprises Act No. 62, 1972 amended as indicated in the Tables below.
-
-All relevant information pertaining to application, saving or transitional provisions prior to 14 September 2006 is not included in this compilation. For subsequent information _see_ Table A.
 
 ### Table of Acts
 
@@ -1209,11 +1245,13 @@ All relevant information pertaining to application, saving or transitional provi
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+</div>
     </td>
     <td colspan="2">
       <div>Date 
-of Assent</div>
+of Assent 
+</div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -1223,321 +1261,308 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Consular Privileges and Immunities Act 1972</div>
-  </td>
-  <td>
-    <div>62, 1972</div>
-  </td>
-  <td>
-    <div>31 Aug 1972</div>
-  </td>
-  <td colspan="2">
-    <div>31 Aug 1972</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1973</div>
-  </td>
-  <td>
-    <div>216, 1973</div>
-  </td>
-  <td>
-    <div>19 Dec 1973</div>
-  </td>
-  <td colspan="2">
-    <div>31 Dec 1973</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Administrative Changes (Consequential Provisions) Act 1976</div>
-  </td>
-  <td>
-    <div>91, 1976</div>
-  </td>
-  <td>
-    <div>20 Sept 1976</div>
-  </td>
-  <td colspan="2">
-    <div>S. 3: <i>(a)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Federal Police (Consequential Amendments) Act 1979</div>
-  </td>
-  <td>
-    <div>155, 1979</div>
-  </td>
-  <td>
-    <div>28 Nov 1979</div>
-  </td>
-  <td colspan="2">
-    <div>S. 3: <i>(b)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Federal Police (Consequential Amendments) Act 1980</div>
-  </td>
-  <td>
-    <div>70, 1980</div>
-  </td>
-  <td>
-    <div>28 May 1980</div>
-  </td>
-  <td colspan="2">
-    <div>28 May 1980</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Amendments) Act (No. 1) 1982</div>
-  </td>
-  <td>
-    <div>26, 1982</div>
-  </td>
-  <td>
-    <div>7 May 1982</div>
-  </td>
-  <td colspan="2">
-    <div>Part XVII (ss. 134, 135): 4 June 1982 <i>(c)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Amendments) Act (No. 2) 1982</div>
-  </td>
-  <td>
-    <div>80, 1982</div>
-  </td>
-  <td>
-    <div>22 Sept 1982</div>
-  </td>
-  <td colspan="2">
-    <div>Part LXXVII (s. 280): Royal Assent <i>(d)</i></div>
-  </td>
-  <td>
-    <div>S. 280(2) and (3)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Customs Tariff (Miscellaneous Amendments) Act 1982</div>
-  </td>
-  <td>
-    <div>115, 1982</div>
-  </td>
-  <td>
-    <div>22 Nov 1982</div>
-  </td>
-  <td colspan="2">
-    <div>Ss. 1, 2, 7 and 8(1): Royal Assent 
-Remainder: 1 Jan 1983 ( <i>see</i>s. 2(2) and <i>Gazette</i>1982, No. S274)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1985</div>
-  </td>
-  <td>
-    <div>65, 1985</div>
-  </td>
-  <td>
-    <div>5 June 1985</div>
-  </td>
-  <td colspan="2">
-    <div>S. 3: 3 July 1985 <i>(e)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Customs Tariff (Miscellaneous Amendments) Act 1987</div>
-  </td>
-  <td>
-    <div>76, 1987</div>
-  </td>
-  <td>
-    <div>5 June 1987</div>
-  </td>
-  <td colspan="2">
-    <div>1 Jan 1988 ( <i>see</i>s. 2 and <i>Gazette</i>1987, No. S351)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Diplomatic and Consular Privileges Amendment Act 1988</div>
-  </td>
-  <td>
-    <div>15, 1988</div>
-  </td>
-  <td>
-    <div>11 May 1988</div>
-  </td>
-  <td colspan="2">
-    <div>11 May 1988</div>
-  </td>
-  <td>
-    <div>S. 10</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Sales Tax Amendment (Transitional) Act 1992</div>
-  </td>
-  <td>
-    <div>118, 1992</div>
-  </td>
-  <td>
-    <div>30 Sept 1992</div>
-  </td>
-  <td colspan="2">
-    <div>28 Oct 1992</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Customs Tariff (Miscellaneous Amendments) Act 1996</div>
-  </td>
-  <td>
-    <div>15, 1996</div>
-  </td>
-  <td>
-    <div>24 June 1996</div>
-  </td>
-  <td colspan="2">
-    <div>1 July 1996 <i>(f)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Income Tax (Consequential Amendments) Act 1997</div>
-  </td>
-  <td>
-    <div>39, 1997</div>
-  </td>
-  <td>
-    <div>17 Apr 1997</div>
-  </td>
-  <td colspan="2">
-    <div>1 July 1997</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Foreign Affairs and Trade Legislation Amendment Act 1997</div>
-  </td>
-  <td>
-    <div>150, 1997</div>
-  </td>
-  <td>
-    <div>17 Oct 1997</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 1 (item 6): Royal Assent <i>(g)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>A New Tax System (Indirect Tax and Consequential Amendments) Act (No. 2) 1999</div>
-  </td>
-  <td>
-    <div>177, 1999</div>
-  </td>
-  <td>
-    <div>22 Dec 1999</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 7 (items 1–9): <i>(h)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Consular Privileges and Immunities Amendment Act 2005</div>
-  </td>
-  <td>
-    <div>132, 2005</div>
-  </td>
-  <td>
-    <div>15 Nov 2005</div>
-  </td>
-  <td colspan="2">
-    <div>15 Nov 2005</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006</div>
-  </td>
-  <td>
-    <div>101, 2006</div>
-  </td>
-  <td>
-    <div>14 Sept 2006</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 5 (item 44) and Schedule 6 (items 5–11): Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 6 (items 5–11) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr height="0">
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Consular Privileges and Immunities Act 1972</div>
+    </td>
+    <td>
+      <div>62, 1972</div>
+    </td>
+    <td>
+      <div>31 Aug 1972</div>
+    </td>
+    <td colspan="2">
+      <div>31 Aug 1972</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision Act 1973</div>
+    </td>
+    <td>
+      <div>216, 1973</div>
+    </td>
+    <td>
+      <div>19 Dec 1973</div>
+    </td>
+    <td colspan="2">
+      <div>31 Dec 1973</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Administrative Changes (Consequential Provisions) Act 1976</div>
+    </td>
+    <td>
+      <div>91, 1976</div>
+    </td>
+    <td>
+      <div>20 Sept 1976</div>
+    </td>
+    <td colspan="2">
+      <div>S. 3: <i>(a)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Australian Federal Police (Consequential Amendments) Act 1979</div>
+    </td>
+    <td>
+      <div>155, 1979</div>
+    </td>
+    <td>
+      <div>28 Nov 1979</div>
+    </td>
+    <td colspan="2">
+      <div>S. 3: <i>(b)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Australian Federal Police (Consequential Amendments) Act 1980</div>
+    </td>
+    <td>
+      <div>70, 1980</div>
+    </td>
+    <td>
+      <div>28 May 1980</div>
+    </td>
+    <td colspan="2">
+      <div>28 May 1980</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Amendments) Act (No. 1) 1982</div>
+    </td>
+    <td>
+      <div>26, 1982</div>
+    </td>
+    <td>
+      <div>7 May 1982</div>
+    </td>
+    <td colspan="2">
+      <div>Part XVII (ss. 134, 135): 4 June 1982 <i>(c)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Amendments) Act (No. 2) 1982</div>
+    </td>
+    <td>
+      <div>80, 1982</div>
+    </td>
+    <td>
+      <div>22 Sept 1982</div>
+    </td>
+    <td colspan="2">
+      <div>Part LXXVII (s. 280): Royal Assent <i>(d)</i></div>
+    </td>
+    <td>
+      <div>S. 280(2) and (3)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Customs Tariff (Miscellaneous Amendments) Act 1982</div>
+    </td>
+    <td>
+      <div>115, 1982</div>
+    </td>
+    <td>
+      <div>22 Nov 1982</div>
+    </td>
+    <td colspan="2">
+      <div>Ss. 1, 2, 7 and 8(1): Royal Assent 
+Remainder: 1 Jan 1983 ( <i>see</i>s. 2(2) and <i>Gazette</i>1982, No. S274) 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1985</div>
+    </td>
+    <td>
+      <div>65, 1985</div>
+    </td>
+    <td>
+      <div>5 June 1985</div>
+    </td>
+    <td colspan="2">
+      <div>S. 3: 3 July 1985 <i>(e)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Customs Tariff (Miscellaneous Amendments) Act 1987</div>
+    </td>
+    <td>
+      <div>76, 1987</div>
+    </td>
+    <td>
+      <div>5 June 1987</div>
+    </td>
+    <td colspan="2">
+      <div>1 Jan 1988 ( <i>see</i>s. 2 and <i>Gazette</i>1987, No. S351)</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Diplomatic and Consular Privileges Amendment Act 1988</div>
+    </td>
+    <td>
+      <div>15, 1988</div>
+    </td>
+    <td>
+      <div>11 May 1988</div>
+    </td>
+    <td colspan="2">
+      <div>11 May 1988</div>
+    </td>
+    <td>
+      <div>S. 10</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Sales Tax Amendment (Transitional) Act 1992</div>
+    </td>
+    <td>
+      <div>118, 1992</div>
+    </td>
+    <td>
+      <div>30 Sept 1992</div>
+    </td>
+    <td colspan="2">
+      <div>28 Oct 1992</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Customs Tariff (Miscellaneous Amendments) Act 1996</div>
+    </td>
+    <td>
+      <div>15, 1996</div>
+    </td>
+    <td>
+      <div>24 June 1996</div>
+    </td>
+    <td colspan="2">
+      <div>1 July 1996 <i>(f)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Income Tax (Consequential Amendments) Act 1997</div>
+    </td>
+    <td>
+      <div>39, 1997</div>
+    </td>
+    <td>
+      <div>17 Apr 1997</div>
+    </td>
+    <td colspan="2">
+      <div>1 July 1997</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Foreign Affairs and Trade Legislation Amendment Act 1997</div>
+    </td>
+    <td>
+      <div>150, 1997</div>
+    </td>
+    <td>
+      <div>17 Oct 1997</div>
+    </td>
+    <td colspan="2">
+      <div>Schedule 1 (item 6): Royal Assent <i>(g)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>A New Tax System (Indirect Tax and Consequential Amendments) Act (No. 2) 1999</div>
+    </td>
+    <td>
+      <div>177, 1999</div>
+    </td>
+    <td>
+      <div>22 Dec 1999</div>
+    </td>
+    <td colspan="2">
+      <div>Schedule 7 (items 1–9): <i>(h)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Consular Privileges and Immunities Amendment Act 2005</div>
+    </td>
+    <td>
+      <div>132, 2005</div>
+    </td>
+    <td>
+      <div>15 Nov 2005</div>
+    </td>
+    <td colspan="2">
+      <div>15 Nov 2005</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr height="0">
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody></table>
+
 
 _(a)_     The _Consular Privileges and Immunities Act 1972_ was amended by section 3 only of the _Administrative Changes (Consequential Provisions) Act 1976_, subsections 2(1) and (7) of which provide as follows:
 
@@ -1577,6 +1602,7 @@ _(h)_ The _Consular Privileges and Immunities Act 1972_ was amended by Schedule�
 
          The _A New Tax System (Goods and Services Tax) Act 1999_ commenced on 1 July 2000.
 
+
 ## Table of Amendments
 
 <table>
@@ -1600,220 +1626,128 @@ _(h)_ The _Consular Privileges and Immunities Act 1972_ was amended by Schedule�
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 216, 1973; No. 65, 1985; No. 15, 1988; No. 118, 1992; No. 177, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>am. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5</div>
-  </td>
-  <td>
-    <div>am. No. 216, 1973; No. 155, 1979; No. 70, 1980; No. 65, 1985; Nos. 39 and 150, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6</div>
-  </td>
-  <td>
-    <div>am. No. 216, 1973; No. 91, 1976; Nos. 26, 80 and 115, 1982; No. 65, 1985; No. 76, 1987; No. 15, 1988; No. 15, 1996; No. 177, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7</div>
-  </td>
-  <td>
-    <div>am. No. 216, 1973; No. 91, 1976; No. 80, 1982; No. 65, 1985; No. 15, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8</div>
-  </td>
-  <td>
-    <div>am. No. 216, 1973; No. 65, 1985; No. 118, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8A</div>
-  </td>
-  <td>
-    <div>ad. No. 15, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 118, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9</div>
-  </td>
-  <td>
-    <div>am. No. 216, 1973; No. 65, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10</div>
-  </td>
-  <td>
-    <div>am. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10AA</div>
-  </td>
-  <td>
-    <div>ad. No. 132, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10A</div>
-  </td>
-  <td>
-    <div>ad. No. 177, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 12A</div>
-  </td>
-  <td>
-    <div>ad. No. 65, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to The Schedule</div>
-  </td>
-  <td>
-    <div>rep. No. 65, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Schedule</div>
-  </td>
-  <td>
-    <div>ad. No. 65, 1985</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>S. 3</div>
+    </td>
+    <td>
+      <div>am. No. 216, 1973; No. 65, 1985; No. 15, 1988; No. 118, 1992; No. 177, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4</div>
+    </td>
+    <td>
+      <div>am. No. 216, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 5</div>
+    </td>
+    <td>
+      <div>am. No. 216, 1973; No. 155, 1979; No. 70, 1980; No. 65, 1985; Nos. 39 and 150, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6</div>
+    </td>
+    <td>
+      <div>am. No. 216, 1973; No. 91, 1976; Nos. 26, 80 and 115, 1982; No. 65, 1985; No. 76, 1987; No. 15, 1988; No. 15, 1996; No. 177, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 7</div>
+    </td>
+    <td>
+      <div>am. No. 216, 1973; No. 91, 1976; No. 80, 1982; No. 65, 1985; No. 15, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 8</div>
+    </td>
+    <td>
+      <div>am. No. 216, 1973; No. 65, 1985; No. 118, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 8A</div>
+    </td>
+    <td>
+      <div>ad. No. 15, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 118, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 9</div>
+    </td>
+    <td>
+      <div>am. No. 216, 1973; No. 65, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 10</div>
+    </td>
+    <td>
+      <div>am. No. 216, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 10AA</div>
+    </td>
+    <td>
+      <div>ad. No. 132, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 10A</div>
+    </td>
+    <td>
+      <div>ad. No. 177, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 12A</div>
+    </td>
+    <td>
+      <div>ad. No. 65, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to The Schedule</div>
+    </td>
+    <td>
+      <div>rep. No. 65, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Schedule</div>
+    </td>
+    <td>
+      <div>ad. No. 65, 1985</div>
+    </td>
+  </tr>
+</tbody></table>
 
- 
-
-## Table A
-
-### Application, saving or transitional provisions
-
-_Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006
- (No. 101, 2006)_
-
-## Schedule 6
-
-## 5  Application of Schedule 5 amendments
-
-The repeals and amendments made by Schedule 5 apply to acts done or omitted to be done, or states of affairs existing, after the commencement of the amendments.
-
-## 6  Object
-
-The object of this Part is to ensure that, despite the repeals and amendments made by this Act, the full legal and administrative consequences of:
-
-                     (a)  any act done or omitted to be done; or
-
-                     (b)  any state of affairs existing; or
-
-                     (c)  any period ending;
-
-before such a repeal or amendment applies, can continue to arise and be carried out, directly or indirectly through an indefinite number of steps, even if some or all of those steps are taken after the repeal or amendment applies.
-
-## 7  Making and amending assessments, and doing other things, in relation to past matters
-
-Even though an Act is repealed or amended by this Act, the repeal or amendment is disregarded for the purpose of doing any of the following under any Act or legislative instrument (within the meaning of the _Legislative Instruments Act 2003_):
-
-                     (a)  making or amending an assessment (including under a provision that is itself repealed or amended);
-
-                     (b)  exercising any right or power, performing any obligation or duty or doing any other thing (including under a provision that is itself repealed or amended);
-
-in relation to any act done or omitted to be done, any state of affairs existing, or any period ending, before the repeal or amendment applies.
-
-Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998-99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
-
-                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998-99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
-
-                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998-99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
-
-                   Despite the repeal of sections 160ARU and 160ARV, item 9 will ensure that the general interest charge will accrue on the unpaid franking deficit tax and penalty until they are paid.
-
-                   Item 7 will also preserve Greg Ltd’s right, under former section 160ART of that Act, to object against the Commissioner’s amended assessment (including the penalty), since the objection is the exercise of a right in relation to a franking year that ended before the repeal of Part IIIAA.
-
-Example 2: During the 1997-98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
-
-                   Following an audit undertaken after the repeal of those Divisions, the Commissioner discovers that the withheld amounts have not been remitted. The company’s records are incomplete and the Commissioner is unable to completely ascertain the extent of its liability for the withheld amounts. Under section 222AGA of that Act, the Commissioner makes an estimate of the liability.
-
-                   Item 7 will disregard the repeal of section 220AAZA of that Act (which empowered the Commissioner to recover the amount of the estimate). Even though the estimate is made after the repeal, it relates to amounts withheld before the repeal.
-
-## 8  Saving of provisions about effect of assessments
-
-If a provision or part of a provision that is repealed or amended by this Act deals with the effect of an assessment, the repeal or amendment is disregarded in relation to assessments made, before or after the repeal or amendment applies, in relation to any act done or omitted to be done, any state of affairs existing, or any period ending, before the repeal or amendment applies.
-
-## 9  Saving of provisions about general interest charge, failure to notify penalty or late reconciliation statement penalty
-
-If:
-
-                     (a)  a provision or part of a provision that is repealed or amended by this Act provides for the payment of:
-
-                              (i)  general interest charge, failure to notify penalty or late reconciliation statement penalty (all within the meaning of the _Income Tax Assessment Act 1936_); or
-
-                             (ii)  interest under the _Taxation (Interest on Overpayments and Early Payments) Act 1983_; and
-
-                     (b)  in a particular case, the period in respect of which the charge, penalty or interest is payable (whether under the provision or under the _Taxation Administration Act 1953_) has not begun, or has begun but not ended, when the provision is repealed or amended;
-
-then, despite the repeal or amendment, the provision or part continues to apply in the particular case until the end of the period.
-
-## 10  Repeals disregarded for the purposes of dependent provisions
-
-If the operation of a provision (the **_subject provision_**) of any Act or legislative instrument (within the meaning of the _Legislative Instruments Act 2003_) made under any Act depends to any extent on an Act, or a provision of an Act, that is repealed by this Act, the repeal is disregarded so far as it affects the operation of the subject provision.
-
-## 11  Schedule does not limit operation of section 8 of the _Acts Interpretation Act 1901_
-
-This Schedule does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
 
  
