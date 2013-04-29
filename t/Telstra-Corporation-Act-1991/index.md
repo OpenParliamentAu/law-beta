@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00026/Html/TelstraCorpn1991WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00098/Html/TelstraCorpn1991WD02_image001.gif)
 
 # Telstra Corporation Act 1991
 
 **Act No. 79 of 1991 as amended**
 
-This compilation was prepared on 1 January 2009
- taking into account amendments up to Act No. 155 of 2008
+This compilation was prepared on 28 March 2008
+ taking into account amendments up to Act No. 8 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -400,6 +400,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="categori-hybrid-secur-issuer-compani"></a>**_category B hybrid-security issuer company_** has the meaning given by subsection 8AJ(6B).
 
+                    <a name="commun-fund"></a>**_Communications Fund_** means the Communications Fund established by a law of the Commonwealth.
+
                     <a name="constitut"></a>**_constitution_**, in relation to Telstra, has the same meaning as in the _Corporations Act 2001_.
 
                     <a name="design-dai"></a>**_designated day_** means the day declared under section 3 of the _Telstra (Transition to Full Private Ownership) Act 2005_.
@@ -658,9 +660,9 @@ Remaining provisions
 
                      (b)  a body corporate that is a subsidiary of Telstra.
 
-Future Fund
+Future Fund and Communications Fund
 
-             (3)  For the purposes of subsection (1), if a share in Telstra is an investment of the Future Fund, the share is taken to be held by a person other than the Commonwealth.
+             (3)  For the purposes of subsection (1), if a share in Telstra is an investment of the Future Fund or the Communications Fund, the share is taken to be held by a person other than the Commonwealth.
 
 Securities lending arrangements
 
@@ -794,7 +796,7 @@ Part sets out rules about how that sale is to be carried out.</li>
 
           (6C)  A declaration under paragraph (6A)(b) or subsection (6B) is not a legislative instrument for the purposes of the _Legislative Instruments Act 2003_.
 
-          (6D)  For the purposes of this section, if a share in Telstra is an investment of the Future Fund, the share is taken to be held by a person other than the Commonwealth.
+          (6D)  For the purposes of this section, if a share in Telstra is an investment of the Future Fund or the Communications Fund, the share is taken to be held by a person other than the Commonwealth.
 
              (7)  In this section:
 
@@ -1286,9 +1288,9 @@ Sanction
 
              (3)  A breach of this section is not an offence. However, a breach of this section is a ground for obtaining an injunction under Division 1 of Part 2B.
 
-Future Fund
+Future Fund and Communications Fund
 
-             (4)  For the purposes of this section, if a share in Telstra is an investment of the Future Fund, the share is taken to be held by a person other than the Commonwealth.
+             (4)  For the purposes of this section, if a share in Telstra is an investment of the Future Fund or the Communications Fund, the share is taken to be held by a person other than the Commonwealth.
 
 Securities lending arrangements
 
@@ -1324,7 +1326,7 @@ Definition
 
 ##### <a id="8AYD"></a>8AYD  Controlling interest in Telstra
 
-                   In determining, for the purposes of a law of the Commonwealth (other than this Act), whether the Commonwealth has a controlling interest in Telstra, if a share in Telstra is an investment of the Future Fund, assume that any voting rights associated with the share were held by a person other than the Commonwealth.
+                   In determining, for the purposes of a law of the Commonwealth (other than this Act), whether the Commonwealth has a controlling interest in Telstra, if a share in Telstra is an investment of the Future Fund or the Communications Fund, assume that any voting rights associated with the share were held by a person other than the Commonwealth.
 
 ##### <a id="8AZ"></a>8AZ  Rights of Telstra’s shareholders, debenture holders and creditors to be subject to this Act
 
@@ -1900,7 +1902,7 @@ Extended meaning of **offence against Part 2A**
 
              (6)  A reference in this section to an **_offence against Part 2A_** includes a reference to an offence created by section 6 of the _Crimes Act 1914_ or Part 2.4 of the _Criminal Code_ that relates to Part 2A of this Act.
 
-##### <a id="8CK"></a>8CK  Service of summons or process on foreign corporations—criminal proceedings
+##### <a id="8CK"></a>8CK  Service of summons or process on foreign corporations—criminal proceedings
 
              (1)  This section applies to a summons or process in any criminal proceedings under Part 2A, where:
 
@@ -2138,7 +2140,7 @@ if the employee had been retrenched on the third anniversary of the designated d
 
              (2)  If employment by the Telstra body ceases to be eligible employment for the purposes of Division 3 of Part IX of the _Defence Force Retirement and Death Benefits Act 1973_ on the designated day, then, despite that cessation, the period of employment continues to be a period of eligible employment for the purposes of that Division.
 
-##### <a id="9L"></a>9L  Application of the _Superannuation Act 1976_
+##### <a id="9L"></a>9L  Application of the _Superannuation Act 1976_
 
                    If an employee of a Telstra body was an eligible employee for the purposes of the _Superannuation Act 1976_ immediately before the designated day, the employee is taken to have ceased to be an eligible employee for the purposes of that Act on the designated day.
 
@@ -2202,7 +2204,7 @@ then, despite paragraph 19(4)(b) of the _Crimes (Superannuation Benefits) Act 19
 
 Comcare must pay Telstra the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00026/Html/TelstraCorpn1991WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00098/Html/TelstraCorpn1991WD02_image002.gif)
 
 where:
 
@@ -2752,7 +2754,7 @@ all or any of the powers conferred by this Part on the Minister for Transport an
 
 ##### <a id="2"></a>2  Definitions
 
-             (1)  In Part 2A and this Schedule, unless the contrary intention appears:
+                   In Part 2A and this Schedule, unless the contrary intention appears:
 
                     <a name="acquisit"></a>**_acquisition_** includes an agreement to acquire, but does not include:
 
@@ -2767,8 +2769,6 @@ all or any of the powers conferred by this Part on the Minister for Transport an
                     <a name="arrang"></a>**_arrangement_** has the meaning given by clause 4.
 
                     <a name="associ"></a>**_associate_** has the meaning given by clause 5.
-
-                    <a name="child"></a><a name="child"></a>**_child_**: without limiting who is a child of a person for the purposes of Part 2A and this Schedule, someone is the **_child_** of a person if he or she is a child of the person within the meaning of the _Family Law Act 1975_.
 
                     <a name="compani"></a>**_company_** means a body corporate.
 
@@ -2848,23 +2848,19 @@ all or any of the powers conferred by this Part on the Minister for Transport an
 
                     <a name="ownership-provision"></a>**_ownership provisions_** means Part 2A and this Schedule.
 
-                    <a name="child"></a><a name="parent"></a><a name="parent"></a>**_parent_**: without limiting who is a parent of a person for the purposes of Part 2A and this Schedule, someone is the **_parent_** of a person if the person is his or her child because of the definition of **_child_** in this clause.
-
                     <a name="power-appoint-director-compani"></a>**_power to appoint a director of a company_** has a meaning affected by clause 6.
 
                     <a name="rel"></a>**_relative_**, in relation to a person, means:
 
                      (a)  the person’s spouse; or
 
-                     (b)  a de facto partner of the person within the meaning of the _Acts Interpretation Act 1901_; or
+                     (b)  another person who, although not legally married to the person, lives with the person on a _bona fide_ domestic basis as the husband or wife of the person; or
 
                      (c)  a parent or remoter lineal ancestor of the person; or
 
-                     (d)  a child or remoter issue of the person; or
+                     (d)  a son, daughter or remoter issue of the person; or
 
                      (e)  a brother or sister of the person.
-
-Note:          See also subclause (2).
 
                     <a name="scheme"></a>**_scheme_** means:
 
@@ -2887,8 +2883,6 @@ Note:          See also subclause (2).
                     <a name="underwrit"></a>**_underwriter_**, in relation to an issue of shares, means a person who is a party to an agreement with the company issuing the shares that includes a provision obliging the person to subscribe for any of the shares in the event of a shortfall in public subscriptions below an amount specified in the agreement.
 
                     <a name="vote-power"></a>**_voting power_** has the meaning given by clause 10.
-
-             (2)  For the purposes of paragraphs (c), (d) and (e) of the definition of **_relative_** in subclause (1), if one person is the child of another person because of the definition of **_child_** in that subclause, relationships traced to or through the person are to be determined on the basis that the person is the child of the other person.
 
 ##### <a id="3"></a>3  When foreign citizens are ordinarily resident in Australia
 
@@ -3100,7 +3094,7 @@ this clause has effect as if the members or policy holders of the company were s
 
           (4A)  In determining the direct control interest of a particular type that a person holds in Telstra, it is to be assumed that the only shares in Telstra are the shares held by persons other than the Commonwealth.
 
-       (4AA)  For the purposes of subclause (4A), if a share in Telstra is an investment of the Future Fund, the share is taken to be held by a person other than the Commonwealth.
+       (4AA)  For the purposes of subclause (4A), if a share in Telstra is an investment of the Future Fund or the Communications Fund, the share is taken to be held by a person other than the Commonwealth.
 
         (4AB)  For the purposes of subclause (4A), if:
 
@@ -3122,7 +3116,7 @@ Note:   For specification by class, see subsection 13(3) of the _Legislative
 
 the person is taken to hold that type of direct control interest in the second level company equal to the percentage worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00026/Html/TelstraCorpn1991WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00098/Html/TelstraCorpn1991WD02_image003.gif)
 
 where:
 
@@ -3646,46 +3640,6 @@ Remainder: Royal Assent</div>
     <div>—</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td colspan="2">
-    <div>Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008</div>
-  </td>
-  <td colspan="2">
-    <div>144, 2008</div>
-  </td>
-  <td>
-    <div>9 Dec 2008</div>
-  </td>
-  <td>
-    <div>Schedule 3 (items 11–18): 10 Dec 2008</div>
-  </td>
-  <td>
-    <div>Sch. 3 (item 18)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td colspan="2">
-    <div>Nation-building Funds (Consequential Amendments) Act 2008</div>
-  </td>
-  <td colspan="2">
-    <div>155, 2008</div>
-  </td>
-  <td>
-    <div>18 Dec 2008</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 51–56): 1 Jan 2009 ( <i>see</i>s. 2(1))</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -4050,7 +4004,7 @@ _(l)_ Subsection 2(1) (item 4) of the _Telecommunications Legislation Amendmen
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 173, 1991; No. 64, 1994; No. 81, 1996; No. 59, 1997; Nos. 52, 53 and 146, 1999; No. 55, 2001; No. 45, 2005; No. 118, 2005 (as am. by No. 192, 1976; as am. by No. 122, 2006); No. 155, 2008</div>
+    <div>am. No. 173, 1991; No. 64, 1994; No. 81, 1996; No. 59, 1997; Nos. 52, 53 and 146, 1999; No. 55, 2001; No. 45, 2005; No. 118, 2005 (as am. by No. 192, 1976; as am. by No. 122, 2006)</div>
   </td>
 </tr>
 <tr>
@@ -4071,26 +4025,10 @@ _(l)_ Subsection 2(1) (item 4) of the _Telecommunications Legislation Amendmen
 </tr>
 <tr>
   <td>
-    <div>Subhead. to s. 3B(3)</div>
-  </td>
-  <td>
-    <div>am. No. 155, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 3B</div>
   </td>
   <td>
     <div>ad. No. 118, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 155, 2008</div>
   </td>
 </tr>
 <tr>
@@ -4322,7 +4260,7 @@ _(l)_ Subsection 2(1) (item 4) of the _Telecommunications Legislation Amendmen
     <div></div>
   </td>
   <td>
-    <div>am. No. 55, 2001; No. 118, 2005; No. 155, 2008</div>
+    <div>am. No. 55, 2001; No. 118, 2005</div>
   </td>
 </tr>
 <tr>
@@ -4591,50 +4529,10 @@ _(l)_ Subsection 2(1) (item 4) of the _Telecommunications Legislation Amendmen
 </tr>
 <tr>
   <td>
-    <div>Subhead. to s. 8AYB(4)</div>
-  </td>
-  <td>
-    <div>am. No. 155, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8AYB</div>
+    <div>Ss. 8AYB–8AYD</div>
   </td>
   <td>
     <div>ad. No. 118, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 155, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8AYC</div>
-  </td>
-  <td>
-    <div>ad. No. 118, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8AYD</div>
-  </td>
-  <td>
-    <div>ad. No. 118, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 155, 2008</div>
   </td>
 </tr>
 <tr>
@@ -5479,15 +5377,7 @@ _(l)_ Subsection 2(1) (item 4) of the _Telecommunications Legislation Amendmen
 </tr>
 <tr>
   <td>
-    <div>Ss. 9M, 9N</div>
-  </td>
-  <td>
-    <div>ad. No. 118, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 9P–9R</div>
+    <div>Ss. 9M, 9N, 9P–9R</div>
   </td>
   <td>
     <div>ad. No. 118, 2005</div>
@@ -6151,98 +6041,10 @@ _(l)_ Subsection 2(1) (item 4) of the _Telecommunications Legislation Amendmen
 </tr>
 <tr>
   <td>
-    <div>C. 1</div>
-  </td>
-  <td>
-    <div>ad. No. 81, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C. 2</div>
-  </td>
-  <td>
-    <div>ad. No. 81, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div></div>
   </td>
   <td>
-    <div>am. No. 53, 1999; No. 144, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C. 3</div>
-  </td>
-  <td>
-    <div>ad. No. 81, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 53, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Cc. 4–8</div>
-  </td>
-  <td>
-    <div>ad. No. 81, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C. 9</div>
-  </td>
-  <td>
-    <div>ad. No. 81, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 118, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Cc. 10, 11</div>
-  </td>
-  <td>
-    <div>ad. No. 81, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C. 12</div>
-  </td>
-  <td>
-    <div>ad. No. 81, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 53, 1999; No. 118, 2005; No. 155, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C. 13</div>
-  </td>
-  <td>
-    <div>ad. No. 81, 1996</div>
+    <div>am. No. 53, 1999; No. 118, 2005</div>
   </td>
 </tr></table>
 
@@ -6499,29 +6301,5 @@ Definitions
                     <a name="commonwealth"></a>**_the Commonwealth_** includes a category A hybrid-security issuer company.
 
                     <a name="vote-share"></a>**_voting share_** has the same meaning as in the _Telstra Corporation Act 1991_.
-
-* * *
-
-_Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008 (No. 144, 2008)_
-
-## Schedule 3
-
-## 18  Transitional provision
-
-(1)        For the purposes of sections 8BI and 8BJ of the _Telstra Corporation Act 1991_, if:
-
-                     (a)  apart from this subitem, an unacceptable foreign-ownership situation would exist on the day on which the amendments of that Act made by this Schedule commence; and
-
-                     (b)  the situation would exist only because of the amendments;
-
-the situation is, during the period of 6 months starting on the day on which the amendments commence, taken not to exist for so long as it would otherwise have existed.
-
-(2)        If:
-
-                     (a)  on the day on which the amendments of the _Telstra Corporation Act 1991_ made by this Schedule commence, a person would, apart from this subitem, be required by regulations made for the purposes of section 8BN of that Act to do something in relation to an ownership matter; and
-
-                     (b)  the person would not have been required to do that thing if the amendments had not been made;
-
-the person is, during the period of 6 months starting on the day on which the amendments commence, taken not to be required to do that thing for so long as the person would otherwise have been required to do that thing.
 
  
