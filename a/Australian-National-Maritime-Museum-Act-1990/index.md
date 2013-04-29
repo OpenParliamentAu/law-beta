@@ -1,15 +1,8 @@
-# ![](http://www.comlaw.gov.au/Details/C2004C02202/Html/AustNatMaritMus_image001.gif)
-
 # Australian National Maritime Museum Act 1990
 
-Act No. 90 of 1990 as amended
+REPRINT No. 2
 
-Consolidated as in force on 5 January 1998
-
-(includes amendements up to Act No. 152 of 1997)
-
-Prepared by the Office of Legislative Drafting, 
- Attorney-General’s Department, Canberra
+Consolidated to 11 April 1997
 
 # Contents
 
@@ -65,6 +58,8 @@ Prepared by the Office of Legislative Drafting,
 
 [21](#21).             Termination of appointment                                                                
 
+[22](#22).             Disclosure of interests                                                                         
+
 [23](#23).             Meetings of Council                                                                             
 
 [24](#24).             Remuneration and allowances                                                              
@@ -119,9 +114,11 @@ Prepared by the Office of Legislative Drafting,
 
 [45](#45).             Application of money                                                                          
 
+[46](#46).             Estimates                                                                                              
+
 [47](#47).             Contracts                                                                                              
 
-[48](#48).             Extra matters to be included in annual report                                      
+[48](#48).             Application to Museum of Division 3 of Part XI of Audit Act         
 
 [49](#49).             Exemption from taxation                                                                      
 
@@ -139,6 +136,8 @@ Prepared by the Office of Legislative Drafting,
 
 #  
 
+##  
+
 ## An Act to establish the Australian National Maritime Museum
 
 **Do not <span class="CharChapText">delete</span> : <span class="CharChapNo">Chapter</span> placeholder**
@@ -147,11 +146,11 @@ Prepared by the Office of Legislative Drafting,
 
 **Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
 
-##### <a id="1"></a>1  Short title<span style="font-size:9.0pt; font-weight:normal"> [_see_ Note 1]</span>
+##### <a id="1"></a>1  Short title<span style="font-size:9.0pt;font-weight:normal"> [_see_ Note 1]</span>
 
 This Act may be cited as the _Australian National Maritime Museum Act 1990_.
 
-##### <a id="2"></a>2  Commencement<span style="font-size:9.0pt; font-weight:normal"> [_see_ Note 1]</span>
+##### <a id="2"></a>2  Commencement<span style="font-size:9.0pt;font-weight:normal"> [_see_ Note 1]</span>
 
 This Act commences:
 
@@ -230,8 +229,6 @@ This Act extends to all the external Territories.
                      (b)  shall have a seal; and
 
                      (c)  may sue and be sued.
-
-Note:          The _Commonwealth Authorities and Companies Act 1997_ applies to the Museum. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
 
              (3)  The seal of the Museum shall be kept in such custody as the Council directs and shall not be used except as authorised by the Council.
 
@@ -375,7 +372,7 @@ the Council may determine that the material be disposed of by sale, exchange, gi
 
 the Museum may dispose of the material accordingly.
 
-             (5)  In each report on the Museum under section 9 of the _Commonwealth Authorities and Companies Act 1997_, the members must include particulars of any disposals of material during the financial year to which the report relates.
+             (5)  The Museum must, in each report prepared under section 63M of the _Audit Act 1901_(as that section applies by virtue of subsection 48(1)), include particulars of any disposals of material during the financial year to which the report relates.
 
 ## Part 3—The Council of the Museum
 
@@ -501,9 +498,25 @@ The Council may, in accordance with guidelines approved by the Minister, grant t
 
                      (b)  is absent, except on leave granted by the Council in accordance with section 19, from 3 consecutive meetings of the Council otherwise than on business of the Council undertaken with the approval of the Council; or
 
-                     (c)  contravenes section 21 of the _Commonwealth Authorities and Companies Act 1997_ without reasonable excuse;
+                     (c)  contravenes section 22 without reasonable excuse;
 
 the Governor-General shall terminate the appointment of that member.
+
+##### <a id="22"></a>22  Disclosure of interests
+
+             (1)  A member who has a direct or indirect pecuniary interest in a matter being considered or about to be considered by the Council shall, as soon as possible after the relevant facts have come to the member’s knowledge, disclose the nature of the interest at a meeting of the Council.
+
+             (2)  A disclosure under subsection (1) shall be recorded in the minutes of the meeting of the Council and the member shall not unless the Minister or the Council otherwise determines:
+
+                     (a)  be present during any deliberation of the Council with respect to that matter; or
+
+                     (b)  take part in any decision of the Council with respect to that matter.
+
+             (3)  For the purpose of the Council making such a determination in relation to a member who has made a disclosure, a member who has a direct or indirect pecuniary interest in the matter to which the disclosure relates shall not:
+
+                     (a)  be present during any deliberation of the Council for the purpose of making the determination; or
+
+                     (b)  take part in making the determination.
 
 ##### <a id="23"></a>23  Meetings of Council
 
@@ -521,7 +534,7 @@ the Governor-General shall terminate the appointment of that member.
 
              (5)  At a meeting of the Council, a quorum is constituted by a majority of the members.
 
-             (6)  Where, because of subsection 21(3) of the _Commonwealth Authorities and Companies Act 1997_, a member is not present at a meeting of the Council during a deliberation of the Council with respect to a matter, but there would be a quorum if that member were present, the remaining members present constitute a quorum for the purpose of any deliberation or decision of the Council at the meeting with respect to that matter.
+             (6)  Where, because of subsection 22(2), a member is not present at a meeting of the Council during a deliberation of the Council with respect to a matter, but there would be a quorum if that member were present, the remaining members present constitute a quorum for the purpose of any deliberation or decision of the Council at the meeting with respect to that matter.
 
              (7)  Subject to subsection (8), all questions arising at a meeting of the Council shall be decided by a majority of the votes of the members present and voting, including the member presiding.
 
@@ -677,7 +690,7 @@ The Director may resign the office of Director by writing signed by the Director
 
                      (d)  engages in paid employment outside the duties of his or her office without the approval of the Minister; or
 
-                     (e)  contravenes section 37 of this Act, or section 21 of the _Commonwealth Authorities and Companies Act 1997_, without reasonable excuse;
+                     (e)  contravenes section 22 or 37 without reasonable excuse;
 
 the Governor-General shall terminate the appointment of the Director.
 
@@ -735,7 +748,7 @@ The Director may, with the approval of the Council, either generally or as other
 
 **Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
 
-##### <a id="43"></a>43  Appropriation of money
+##### <a id="43"></a>43  Appropriation of money
 
              (1)  There is payable to the Museum such money as is appropriated by the Parliament for the purposes of the Museum.
 
@@ -753,7 +766,7 @@ The Director may, with the approval of the Council, either generally or as other
 
                      (b)  money received by the Museum (other than money to be held on trust by the Museum) from the disposal of property given, devised, bequeathed or assigned to the Museum.
 
-             (4)  The payment of money into a bank account maintained by the Museum in accordance with subsection 18(2) of the _Commonwealth Authorities and Companies Act 1997_ under the name of the Australian National Maritime Museum Fund shall be deemed, for the purposes of subsection (3) of this section, to be a payment of the money into the Fund.
+             (4)  The payment of money into a bank account maintained by the Museum in accordance with section 63J of the _Audit Act 1901_(as that section applies because of section 48 of this Act) under the name of the Australian National Maritime Museum Fund shall be deemed, for the purposes of subsection (3) of this section, to be a payment of the money into the Fund.
 
 ##### <a id="45"></a>45  Application of money
 
@@ -763,7 +776,25 @@ The Director may, with the approval of the Council, either generally or as other
 
                      (b)  in payment of any remuneration and allowances payable to any person under this Act.
 
-             (2)  Subsection (1) does not prevent investment of surplus money of the Museum under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
+             (2)  Money of the Museum not immediately required for the purposes of the Museum may be invested:
+
+                     (a)  on deposit with a bank that is an approved bank for the purposes of section 63J of the _Audit Act 1901_;
+
+                     (b)  in securities of the Commonwealth; or
+
+                     (c)  in any other manner approved by the Treasurer.
+
+##### <a id="46"></a>46  Estimates
+
+             (1)  The Museum shall prepare estimates, in such form as the Minister directs, of the receipts and expenditure of the Museum for each financial year and, if the Minister so directs, for any other period specified by the Minister.
+
+             (2)  Subject to subsection (3), the Museum shall submit estimates so prepared to the Minister not later than such date as the Minister determines.
+
+             (3)  The Museum shall not submit estimates to the Minister that have not been approved by the Council.
+
+             (4)  Estimates referred to in this section shall not include estimates of receipts by the Museum of money to be held on trust or of expenditure by the Museum of money held on trust.
+
+             (5)  The money of the Museum, other than money held on trust, shall not be expended otherwise than in accordance with estimates of expenditure approved by the Minister.
 
 ##### <a id="47"></a>47  Contracts
 
@@ -775,11 +806,15 @@ The Director may, with the approval of the Council, either generally or as other
 
              (2)  The Museum shall not, except with the approval of the Minister, enter into a lease of land for a period exceeding 10 years.
 
-             (3)  Subsection (1) does not apply to the investment of money by the Museum in accordance with subsection 18(3) of the _Commonwealth Authorities and Companies Act 1997_ or paragraph 50(2)(b) of this Act.
+             (3)  Subsection (1) does not apply to the investment of money by the Museum in accordance with subsection 45(2) or paragraph 50(2)(b).
 
-##### <a id="48"></a>48  Extra matters to be included in annual report
+##### <a id="48"></a>48  Application to Museum of Division 3 of Part XI of Audit Act
 
-             (3)  Each annual report prepared by the members under section 9 of the _Commonwealth Authorities and Companies Act 1997_ must include:
+             (1)  It is hereby declared that the Museum is a public authority to which Division 3 of Part XI of the _Audit Act 1901_ applies.
+
+             (2)  In the application of section 63M of the _Audit Act 1901_, as that section applies, because of subsection (1) of this section, in relation to the annual reports and financial statements of the Museum, the period commencing on the day on which this Act commences and ending on 30 June next following that day shall be treated, for the purposes of preparing and submitting the first such report and financial statements, as if it were a period of one year ending on that 30 June.
+
+             (3)  Each annual report submitted by the Museum under section 63M of the _Audit Act 1901_, as that section applies because of subsection (1) of this section, shall include:
 
                      (a)  particulars of each direction given by the Minister to the Council under section 14 of this Act during the financial year to which the report relates;
 
@@ -799,7 +834,7 @@ The Director may, with the approval of the Council, either generally or as other
 
 ##### <a id="50"></a>50  Trust money etc.
 
-             (1)  The Museum shall ensure that any money received or held by the Museum on trust is paid into an account maintained under subsection 18(2) of the _Commonwealth Authorities and Companies Act 1997_ that does not contain any money of the Museum not held on trust.
+             (1)  The Museum shall ensure that any money received or held by the Museum on trust is paid into an account opened and maintained under section 63J of the _Audit Act 1901_(as that section applies because of section 48 of this Act) that does not, or accounts referred to in that section that do not, contain any money of the Museum not held on trust.
 
              (2)  Notwithstanding anything contained in this Act:
 
@@ -812,6 +847,22 @@ The Director may, with the approval of the Council, either generally or as other
                              (ii)  in any manner in which trust money may, for the time being, be invested under law;
 
 but not otherwise.
+
+             (3)  Section 63K of the _Audit Act 1901_(as that section applies because of section 48 of this Act) has effect as if:
+
+                     (a)  the reference in that section to the transactions and affairs of the Museum included a reference to transactions and affairs relating to money or property received or held by the Museum on trust; and
+
+                     (b)  the reference in that section to payments out of the money of the Museum included a reference to payments out of money held by the Museum on trust.
+
+             (4)  Section 63L of the _Audit Act 1901_(as that section applies because of section 48 of this Act) has effect as if:
+
+                     (a)  the reference in subsection 63L(1) to financial transactions of the Museum included a reference to transactions relating to money received or held by the Museum on trust;
+
+                     (b)  the reference in subsection 63L(1) to assets of, or in the custody of, the Museum included a reference to assets held by the Museum on trust;
+
+                     (c)  the reference in subsection 63L(4) to the receipt or payment of money by the Museum included a reference to the receipt or payment by the Museum of money received or held by the Museum on trust; and
+
+                     (d)  the reference in subsection 63L(4) to the acquisition, receipt, custody or disposal of assets by the Museum included a reference to the acquisition, receipt, custody or disposal by the Museum of assets received or held by the Museum on trust.
 
 ##### <a id="51"></a>51  Limits on charges
 
@@ -1006,23 +1057,6 @@ of Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Audit (Transitional and Miscellaneous) Amendment Act 1997</div>
-  </td>
-  <td>
-    <div>152, 1997</div>
-  </td>
-  <td>
-    <div>24 Oct 1997</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 375-388): 1 Jan 1998 (see <i>Gazette</i>1997, No. GN49) <i>(c)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
  
@@ -1037,13 +1071,9 @@ _(b)_    The _Australian National Maritime Museum Act 1990_ was amended by
 
                  “(1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.”
 
-_(c)_     The _Australian National Maritime Museum Act 1990_ was amended by Schedule 2 (items 375-388) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
-
-                 “(2)   Schedules 1,2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.”
+ 
 
 ## Table of Amendments
-
-##  
 
 <table>
 <colgroup>
@@ -1064,14 +1094,16 @@ _(c)_     The _Australian National Maritime Museum Act 1990_ was amended
   <col width="66%">
 </colgroup>
 
-<tr>
-  <td>
-    <div>Provision affected</div>
-  </td>
-  <td>
-    <div>How affected</div>
-  </td>
-</tr>
+<thead>
+  <tr>
+    <td>
+      <div>Provision affected</div>
+    </td>
+    <td>
+      <div>How affected</div>
+    </td>
+  </tr>
+</thead>
 <tr>
   <td>
     <div>S. 3</div>
@@ -1082,18 +1114,10 @@ _(c)_     The _Australian National Maritime Museum Act 1990_ was amended
 </tr>
 <tr>
   <td>
-    <div>Note to s. 5(2)</div>
-  </td>
-  <td>
-    <div>am. No 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 10</div>
   </td>
   <td>
-    <div>am. No. 179, 1991; No. 152, 1997</div>
+    <div>am. No. 179, 1991</div>
   </td>
 </tr>
 <tr>
@@ -1122,30 +1146,6 @@ _(c)_     The _Australian National Maritime Museum Act 1990_ was amended
 </tr>
 <tr>
   <td>
-    <div>S. 21</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22</div>
-  </td>
-  <td>
-    <div>rep. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 23</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 34</div>
   </td>
   <td>
@@ -1157,31 +1157,7 @@ _(c)_     The _Australian National Maritime Museum Act 1990_ was amended
     <div>S. 36</div>
   </td>
   <td>
-    <div>am. No. 179, 1991; No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 44</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 45</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 46</div>
-  </td>
-  <td>
-    <div>rep. No. 152, 1997</div>
+    <div>am. No. 179, 1991</div>
   </td>
 </tr>
 <tr>
@@ -1189,23 +1165,7 @@ _(c)_     The _Australian National Maritime Museum Act 1990_ was amended
     <div>S. 47</div>
   </td>
   <td>
-    <div>am. No. 179, 1991; No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 48</div>
-  </td>
-  <td>
-    <div>rs. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 48</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997</div>
+    <div>am. No. 179, 1991</div>
   </td>
 </tr>
 <tr>
@@ -1222,14 +1182,6 @@ _(c)_     The _Australian National Maritime Museum Act 1990_ was amended
   </td>
   <td>
     <div>am. No. 118, 1992 (as am. by No. 17, 1993)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 50</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997</div>
   </td>
 </tr></table>
 
