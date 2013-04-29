@@ -1,8 +1,7 @@
 
 National Labour Consultative Council Act 1977
 Act No. 65 of 1977 as amended
-This compilation was prepared on 31 July 2002  taking into account amendments up to Act No. 63 of 2002
-The text of any of those amendments not in force on that date is appended in the Notes section
+This compilation was prepared on 1 February 2000  taking into account amendments up to Act No. 146, 1999
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
   
   
@@ -18,7 +17,7 @@ Contents
 8	Termination of appointment of members	3
 9	Travelling allowance for members	3
 10	Substitute members	3
-10A	Invited representatives	3
+10A	Invited representatives [see Note 2]	3
 11	Meetings of Council	4
 12	Committees	4
 Notes		5
@@ -62,8 +61,8 @@ member means a member of the Council.
 	(1)	The Minister may nominate a person to attend a meeting of the Council in his or her place.
 	(2)	If an appointed member is unable to be present at a meeting of the Council, the organization which nominated that member may nominate a person to attend the meeting in that member’s place.
 	(3)	A person nominated under subsection (1) or (2) to attend a meeting of the Council in the place of a member of the Council has, and may exercise, at that meeting all the rights of that member.
-10A  Invited representatives
-	(1)	The Minister may, after consulting the members of the Council, invite a person, body or organisation to nominate a representative for the purposes of this section.
+10A  Invited representatives [see Note 2]
+	(1)	The Minister may, after consulting the Confederation of Australian Industry, the Australian Council of Trade Unions and the Metal Trades Industry Association of Australia, invite a person, body or organisation to nominate a representative for the purposes of this section.
 	(2)	A representative so invited may participate in a meeting or meetings of the Council and its committees, in accordance with the invitation, but does not become a member of the Council or of a committee.
 	(3)	If at any time the Minister terminates an invitation, the representative concerned ceases to be entitled to participate in meetings of the Council and its committees.
 	(4)	While a representative is entitled to attend a meeting or meetings of the Council, the representative is entitled to payment of travelling allowance as if he or she were a member.
@@ -127,20 +126,10 @@ Industrial Relations and other Legislation Amendment Act 1995
 16 Dec 1995
 Ss. 1‑12, Schedules 5 and 7‑10: Royal Assent S. 13: 13 Jan 1996 Remainder: 15 Jan 1996 (see Gazette 1996, No. S16)
 — 
-as amended by
-
-
-
-
-Statute Law Revision Act 2002
-63, 2002
-3 July 2002
-Schedule 2 (item 15): (f)
-—
 Public Employment (Consequential and Transitional) Amendment Act 1999
 146, 1999
 11 Nov 1999
-Schedule 1 (items 645, 646): 5 Dec 1999 (see Gazette 1999, No. S584) (g)
+Schedule 1 (items 645, 646): 5 Dec 1999 (see Gazette 1999, No. S584) (f)
 —
 (a)	The National Labour Consultative Council Act 1977 was amended by Part XV (sections 50‑53) only of the Statute Law (Miscellaneous Amendments) Act 1981, subsection 2(4) of which provides as follows:
 	(4)	Part VIII, Part XV, Division 2 of Part XVIII and Division 3 of Part XVIII shall come into operation on such respective dates as are fixed by Proclamation.
@@ -152,19 +141,7 @@ Schedule 1 (items 645, 646): 5 Dec 1999 (see Gazette 1999, No. S584) (g)
 	(1)	Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
 (e)	The National Labour Consultative Council Act 1977 was amended by sections 21‑26 only of the Industrial Relations Legislation Amendment Act 1992, subsection 2(2) of which provides as follows:
 	(2)	Subject to subsection (3), the remaining provisions of this Act commence on a day or days to be fixed by Proclamation.
-(f)	The Industrial Relations and other Legislation Amendment Act 1995 was amended by Schedule 2 (item 15) only of the Statute Law Revision Act 2002, subsection 2(1) (item 44) of which provides as follows:
-
-Commencement information
-Column 1
-Column 2
-Column 3
-Provision(s)
-Commencement
-Date/Details
-44.  Schedule 2, item 15
-Immediately after the time specified in the Industrial Relations and other Legislation Amendment Act 1995 for the commencement of item 7 of Schedule 11 to that Act
-15 January 1996
-(g)	The National Labour Consultative Council Act 1977 was amended by Schedule 1 (items 645 and 646) only of the Public Employment (Consequential and Transitional) Amendment Act 1999, subsections 2(1) and (2) of which provide as follows:
+(f)	The National Labour Consultative Council Act 1977 was amended by Schedule 1 (items 645 and 646) only of the Public Employment (Consequential and Transitional) Amendment Act 1999, subsections 2(1) and (2) of which provide as follows:
 	(1)	In this Act, commencing time means the time when the Public Service Act 1999 commences.
 	(2)	Subject to this section, this Act commences at the commencing time.
 
@@ -190,11 +167,14 @@ S. 10
 am. No. 125, 1979; No. 176, 1981; No. 80, 1982; No. 109, 1992; No. 168, 1995
 S. 10A	
 ad. No. 109, 1992
-
-am. No. 168, 1995 (as am. by No. 63, 2002)
 S. 11	
 am. No. 168, 1995 
 S. 12	
 am. No. 168, 1995; No. 146, 1999
+
+Note 2
+Section 10A(1)—Schedule 11, item 7 of the Industrial Relations and other Legislation Amendment Act 1995 provides as follows:
+Omit “the Confederation of Australian Industry, the Australian Council of Trade Unions and the Metal Trades Industry Association,”, substitute “the members of the Council,”.
+The proposed amendment was misdescribed and is not incorporated in this compilation.
 
 
