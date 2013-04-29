@@ -1,141 +1,147 @@
-![](http://www.comlaw.gov.au/Details/C2004C02372/Html/AusWarMem80_image001.gif)
+# ![](http://www.comlaw.gov.au/Details/C2004C02371/Html/AusWarMem80_image001.gif)
+
+#  
 
 # Australian War Memorial Act 1980
 
-**Act No. 104 of 1980 as amended**
+Act No. 104 of 1980 as amended
 
-This compilation was prepared on 27 March 2000
- taking into account amendments up to Act No. 156 of 1999
+Consolidated as in force on 6 January 1998
 
-The text of any of those amendments not in force 
- on that date is appended in the Notes section
+(includes amendements up to Act No. 152 of 1997)
 
-Prepared by the Office of Legislative Drafting,
+Prepared by the Office of Legislative Drafting, 
  Attorney-General’s Department, Canberra
+
+ 
 
 # Contents
 
 **Part I—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]                                                                        1
+[1](#1).               Short title [_see_ Note 1]                                                                           
 
-[2](#2).            Commencement [_see_ Note 1]                                                               1
+[2](#2).               Commencement [_see_ Note 1]                                                                 
 
-[3](#3).            Interpretation                                                                                       1
+[3](#3).               Interpretation                                                                                         
 
 **Part II—The Australian War Memorial**
 
-[4](#4).            Incorporation of Memorial                                                                  3
+[4](#4).               Incorporation of Memorial                                                                    
 
-[5](#5).            Functions of Memorial                                                                        3
+[5](#5).               Functions of Memorial                                                                          
 
-[6](#6).            Powers of Memorial                                                                            4
+[6](#6).               Powers of Memorial                                                                              
 
-[7](#7).            Land and historical material for Memorial                                           5
+[7](#7).               Land and historical material for Memorial                                             
 
-[8](#8).            Disposal of historical material in memorial collection                         6
+[8](#8).               Disposal of historical material in memorial collection                           
 
 **Part III—The Council of the Memorial**
 
-[9](#9).            Establishment of Council                                                                     8
+[9](#9).               Establishment of Council                                                                       
 
-[10](#10).          Membership of Council                                                                       8
+[10](#10).             Membership of Council                                                                         
 
-[11](#11).          Chair                                                                                                    9
+[11](#11).             Chair                                                                                                       
 
-[12](#12).          Deputies of members                                                                           9
+[12](#12).             Deputies of members                                                                             
 
-[13](#13).          Remuneration etc                                                                               10
+[13](#13).             Remuneration etc                                                                                   
 
-[14](#14).          Termination of appointment                                                             10
+[14](#14).             Termination of appointment                                                                  
 
-[15](#15).          Resignation                                                                                        11
+[15](#15).             Resignation                                                                                             
 
-[17](#17).          Meetings of Council                                                                          11
+[17](#17).             Meetings of Council                                                                               
 
-[18](#18).          Committees of Council                                                                      12
+[18](#18).             Committees of Council                                                                          
 
-[19](#19).          Delegation by Council                                                                       12
+[19](#19).             Delegation by Council                                                                            
 
 **Part IV—The Director of the Memorial**
 
-[20](#20).          Office of Director                                                                              13
+[20](#20).             Office of Director                                                                                 
 
-[21](#21).          Terms and conditions of appointment etc                                         13
+[21](#21).             Terms and conditions of appointment etc                                           
 
-[22](#22).          Remuneration etc                                                                               13
+[22](#22).             Remuneration etc                                                                                 
 
-[23](#23).          Leave of absence                                                                                13
+[23](#23).             Leave of absence                                                                                  
 
-[24](#24).          Termination of appointment                                                             14
+[24](#24).             Termination of appointment                                                                
 
-[25](#25).          Resignation                                                                                        14
+[25](#25).             Resignation                                                                                           
 
-[26](#26).          Acting Director                                                                                  14
+[26](#26).             Acting Director                                                                                    
 
-**Part V—Staff and consultants**
+**Part V—Staff and Consultants**
 
-[27](#27).          Staff                                                                                                   16
+[27](#27).             Staff                                                                                                      
 
-[28](#28).          Arrangements relating to staff                                                           16
+[28](#28).             Arrangements relating to staff                                                              
 
-[29](#29).          Engagement of consultants etc                                                           16
+[29](#29).             Engagement of consultants etc                                                             
 
 **Part VI—Finance**
 
-[30](#30).          Moneys payable to Memorial                                                           17
+[30](#30).             Moneys payable to Memorial                                                             
 
-[32](#32).          Australian War Memorial Fund                                                         17
+[32](#32).             Australian War Memorial Fund                                                           
 
-[33](#33).          Application of moneys held by Memorial                                        17
+[33](#33).             Application of moneys held by Memorial                                          
 
-[34](#34).          Investment                                                                                         18
+[34](#34).             Investment                                                                                           
 
-[35](#35).          Contracts                                                                                           18
+[35](#35).             Contracts                                                                                              
 
-[37](#37).          Exemption from taxation                                                                   18
+[37](#37).             Exemption from taxation                                                                      
 
 **Part VII—Miscellaneous**
 
-[39](#39).          Delegation by Minister                                                                      19
+[39](#39).             Delegation by Minister                                                                        
 
-[40](#40).          Operation of certain other laws not affected                                     19
+[40](#40).             Operation of certain other laws not affected                                       
 
-[41](#41).          Supply of liquor on premises of Memorial                                       19
+[41](#41).             Supply of liquor on premises of Memorial                                         
 
-[42](#42).          Regulations                                                                                        20
+[42](#42).             Regulations                                                                                           
 
-**Part VIII—Repeal of certain Acts and consequent transitional provisions**
+**Part VIII—Repeal of certain Acts and Consequent Transitional Provisions**
 
-[43](#43).          Interpretation                                                                                     21
+[43](#43).             Interpretation                                                                                       
 
-[44](#44).          Repeal of certain Acts                                                                       21
+[44](#44).             Repeal of certain Acts                                                                          
 
-[45](#45).          Rights of Board to vest in Memorial etc                                           21
+[45](#45).             Rights of Board to vest in Memorial etc                                              
 
-[46](#46).          Instrument etc  not liable to stamp duty or other tax                        22
+[46](#46).             Instrument etc  not liable to stamp duty or other tax                          
 
-[47](#47).          Application of moneys of Memorial                                                 22
+[47](#47).             Application of moneys of Memorial                                                   
 
-[48](#48).          Report of operations of Board                                                          22
+[48](#48).             Report of operations of Board                                                             
 
-**Notes** 
+#  
 
 ## An Act relating to the Australian War Memorial
 
+**Do not <span class="CharChapText">delete</span> : <span class="CharChapNo">Chapter</span> placeholder**
+
 ## Part I—Preliminary
 
-##### <a id="1"></a>1  Short title<span style="font-size:9.0pt;font-weight:normal"> [_see_ Note 1]</span>
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
 
-                   This Act may be cited as the _Australian War Memorial Act 1980_.
+##### <a id="1"></a>1  Short title<span style="font-size:9.0pt; font-weight:normal"> [_see_ Note 1]</span>
 
-##### <a id="2"></a>2  Commencement<span style="font-size:9.0pt;font-weight:normal"> [_see_ Note 1]</span>
+This Act may be cited as the _Australian War Memorial Act 1980_.
 
-                   This Act shall come into operation on a date to be fixed by Proclamation.
+##### <a id="2"></a>2  Commencement<span style="font-size:9.0pt; font-weight:normal"> [_see_ Note 1]</span>
+
+This Act shall come into operation on a date to be fixed by Proclamation.
 
 ##### <a id="3"></a>3  Interpretation
 
-                   In this Act, unless the contrary intention appears:
+In this Act, unless the contrary intention appears:
 
                     <a name="activ-servic"></a>**_active service_** means active service in war or in warlike operations by members of the Defence Force.
 
@@ -168,6 +174,8 @@ Prepared by the Office of Legislative Drafting,
                     <a name="memori-collect"></a>**_memorial collection_** means all historical material that is owned by the Memorial from time to time.
 
 ## Part II—The Australian War Memorial
+
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
 
 ##### <a id="4"></a>4  Incorporation of Memorial
 
@@ -295,6 +303,8 @@ the Memorial may dispose of that historical material accordingly.
 
 ## Part III—The Council of the Memorial
 
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
+
 ##### <a id="9"></a>9  Establishment of Council
 
              (1)  There is established by this section a Council by the name of the Council of the Australian War Memorial.
@@ -381,13 +391,13 @@ the Memorial may dispose of that historical material accordingly.
 
                      (b)  is absent, except on leave granted by the Council, from 3 consecutive meetings of the Council otherwise than on business of the Council undertaken with the approval of the Council; or
 
-                     (c)  fails to comply with his or her obligations under section 27F or 27J of the _Commonwealth Authorities and Companies Act 1997_;
+                     (c)  fails to comply with his or her obligations under section 21 of the _Commonwealth Authorities and Companies Act 1997_;
 
 the Governor-General shall terminate the appointment of that member.
 
 ##### <a id="15"></a>15  Resignation
 
-                   An appointed member may resign his or her office by writing signed by him or her and delivered to the Governor-General.
+An appointed member may resign his or her office by writing signed by him or her and delivered to the Governor-General.
 
 ##### <a id="17"></a>17  Meetings of Council
 
@@ -441,6 +451,8 @@ the Governor-General shall terminate the appointment of that member.
 
 ## Part IV—The Director of the Memorial
 
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
+
 ##### <a id="20"></a>20  Office of Director
 
              (1)  There shall be a Director of the Australian War Memorial, who shall be appointed by the Governor-General.
@@ -465,7 +477,7 @@ the Governor-General shall terminate the appointment of that member.
 
 ##### <a id="23"></a>23  Leave of absence
 
-             (1)  The Director has such recreation leave entitlements as are determined by the Remuneration Tribunal.
+             (1)  Subject to section 87E of the _Public Service Act 1922_, the Director has such recreation leave entitlements as are determined by the Remuneration Tribunal.
 
              (2)  The Minister may grant the Director leave of absence, other than recreation leave, on such terms and conditions as to remuneration or otherwise as the Minister determines.
 
@@ -485,7 +497,7 @@ the Governor-General shall terminate the appointment of the Director.
 
 ##### <a id="25"></a>25  Resignation
 
-                   The Director may resign his or her office by writing signed by him or her and delivered to the Governor-General.
+The Director may resign his or her office by writing signed by him or her and delivered to the Governor-General.
 
 ##### <a id="26"></a>26  Acting Director
 
@@ -515,21 +527,23 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
              (8)  The validity of anything done by a person purporting to act under subsection (1) shall not be called in question on the ground that the occasion for his or her appointment had not arisen, that there is a defect or irregularity in or in connection with his or her appointment, that the appointment had ceased to have effect or that the occasion for him or her to act had not arisen or had ceased.
 
-## Part V—Staff and consultants
+## Part V—Staff and Consultants
+
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
 
 ##### <a id="27"></a>27  Staff
 
-             (1)  Subject to section 28, the staff of the Memorial shall be persons engaged under the _Public Service Act 1999_.
+             (1)  Subject to section 28, the staff of the Memorial shall be persons appointed or employed under the _Public Service Act 1922_.
 
-             (2)  For the purposes of the _Public Service Act 1999_:
+             (2)  The Director has all the powers of, or exercisable by, a Secretary under the _Public Service Act 1922_, in so far as those powers relate to the branch of the Australian Public Service comprising the staff referred to in subsection (1), as if that branch were a separate Department of the Australian Public Service.
 
-                     (a)  the Director and the APS employees assisting the Director together constitute a Statutory Agency; and
+             (3)  For the purposes of section 26 of the _Public Service Act 1922_, the Director shall be deemed to be a Secretary.
 
-                     (b)  the Director is the Head of that Statutory Agency.
+             (4)  The members of the staff referred to in subsection (1) shall perform their functions and duties in accordance with the directions of the Director.
 
 ##### <a id="28"></a>28  Arrangements relating to staff
 
-             (1)  The Council may arrange with an Agency Head (within the meaning of the _Public Service Act 1999_) or with a body (other than a company or association) established for a public purpose by or under a law of the Commonwealth for the services of officers or employees of the body to be made available to the Memorial.
+             (1)  The Council may arrange with the Secretary of a Department of the Australian Public Service or with a body (other than a company or association) established for a public purpose by or under a law of the Commonwealth for the services of officers or employees of the body to be made available to the Memorial.
 
              (2)  The Council may enter into an arrangement with the appropriate authority of a State or Territory for the services of officers or employees of the Public Service of the State or Territory, or of a body established for a public purpose by or under a law of the State or Territory, to be made available to the Memorial.
 
@@ -540,6 +554,8 @@ but a person appointed to act during a vacancy shall not continue so to act for 
              (2)  The terms and conditions of the engagement of a person under subsection (1) are such as are determined by the Council.
 
 ## Part VI—Finance
+
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
 
 ##### <a id="30"></a>30  Moneys payable to Memorial
 
@@ -587,9 +603,11 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
 ##### <a id="37"></a>37  Exemption from taxation
 
-                   The Memorial is not subject to taxation under a law of Australia or of a State or Territory.
+The Memorial is not subject to taxation under a law of Australia or of a State or Territory.
 
 ## Part VII—Miscellaneous
+
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
 
 ##### <a id="39"></a>39  Delegation by Minister
 
@@ -601,7 +619,7 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
 ##### <a id="40"></a>40  Operation of certain other laws not affected
 
-                   Nothing in this Act affects the operation of any law (whether passed before or after the commencement of this Act) relating to copyright, to the preservation and use of archival resources or to the rights of members of the public to access to official documents of the Government of the Commonwealth and of its agencies.
+Nothing in this Act affects the operation of any law (whether passed before or after the commencement of this Act) relating to copyright, to the preservation and use of archival resources or to the rights of members of the public to access to official documents of the Government of the Commonwealth and of its agencies.
 
 ##### <a id="41"></a>41  Supply of liquor on premises of Memorial
 
@@ -613,7 +631,7 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
 ##### <a id="42"></a>42  Regulations
 
-                   The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters that by this Act are required or permitted to be prescribed, or are necessary or convenient to be prescribed for carrying out or giving effect to this Act, and, in particular:
+The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters that by this Act are required or permitted to be prescribed, or are necessary or convenient to be prescribed for carrying out or giving effect to this Act, and, in particular:
 
                      (a)  for regulating, restricting or prohibiting the entry of persons onto any land or building, or any part of any land or building, owned by or under the control of the Memorial, and for regulating the conduct of persons on any such land or building, or any part of any such land or building, including making provision for and in relation to the removal of persons from any such land or building, or any part of any such land or building;
 
@@ -623,11 +641,13 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
                      (d)  for prescribing penalties not exceeding a fine of $500 for offences against the regulations.
 
-## Part VIII—Repeal of certain Acts and consequent transitional provisions
+## Part VIII—Repeal of certain Acts and Consequent Transitional Provisions
+
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
 
 ##### <a id="43"></a>43  Interpretation
 
-                   In this Part:
+In this Part:
 
                     <a name="board"></a>**_Board_** means the Board of Trustees of the Australian War Memorial established by the repealed Act.
 
@@ -637,9 +657,9 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
 ##### <a id="44"></a>44  Repeal of certain Acts
 
-                   The following Acts are repealed:
+The following Acts are repealed:
 
-_Australian War Memorial Act 1962_;
+_Australian War Memorial Act 1962;_
 
 _Australian War Memorial Act 1975_.
 
@@ -671,11 +691,11 @@ _Australian War Memorial Act 1975_.
 
 ##### <a id="46"></a>46  Instrument etc. not liable to stamp duty or other tax
 
-                   An instrument or document that the Secretary to the Department of Home Affairs or an officer of that Department authorized by him or her in writing for the purposes of this section certifies to have been made, executed or given by reason of, or for a purpose connected with or arising out of, the operation of this Part is not liable to stamp duty or other tax under a law of the Commonwealth or of a State or Territory.
+An instrument or document that the Secretary to the Department of Home Affairs or an officer of that Department authorized by him or her in writing for the purposes of this section certifies to have been made, executed or given by reason of, or for a purpose connected with or arising out of, the operation of this Part is not liable to stamp duty or other tax under a law of the Commonwealth or of a State or Territory.
 
 ##### <a id="47"></a>47  Application of moneys of Memorial
 
-                   The moneys of the Memorial may be applied in payment or discharge of the debts, liabilities or obligations referred to in paragraph 45(1)(d).
+The moneys of the Memorial may be applied in payment or discharge of the debts, liabilities or obligations referred to in paragraph 45(1)(d).
 
 ##### <a id="48"></a>48  Report of operations of Board
 
@@ -695,13 +715,15 @@ _Australian War Memorial Act 1975_.
 
              (4)  The persons who, immediately before the commencing date, were members of the Board shall furnish the Memorial with such information as is necessary to enable the Memorial to prepare the report and financial statements.
 
-# Notes to the _Australian War Memorial Act 1980_
+* * *
 
-### Note 1
+# NOTE
 
-The _Australian War Memorial Act 1980_ as shown in this compilation comprises Act No. 104, 1980 amended as indicated in the Tables below.
+1.The _Australian War Memorial Act 1980_ as shown in this reprint comprises Act No. 104, 1980 amended as indicated in the Tables below.
 
 ### Table of Acts
+
+* * *
 
 <table>
 <colgroup>
@@ -712,25 +734,39 @@ The _Australian War Memorial Act 1980_ as shown in this compilation comprises Ac
   <col width="14%">
 </colgroup>
 
-<tr>
-  <td>
-    <div>Act</div>
-  </td>
-  <td>
-    <div>Number 
+<thead>
+  <tr>
+    <td>
+      <div>Act</div>
+    </td>
+    <td>
+      <div>Number 
 and year</div>
-  </td>
-  <td>
-    <div>Date 
+    </td>
+    <td>
+      <div>Date 
 of Assent</div>
-  </td>
-  <td>
-    <div>Date of commencement</div>
-  </td>
-  <td>
-    <div>Application, saving or transitional provisions</div>
-  </td>
-</tr>
+    </td>
+    <td>
+      <div>Date of commencement</div>
+    </td>
+    <td>
+      <div>Application, saving or transitional provisions</div>
+    </td>
+  </tr>
+</thead></table>
+
+* * *
+
+<table>
+<colgroup>
+  <col width="30%">
+  <col width="16%">
+  <col width="18%">
+  <col width="22%">
+  <col width="14%">
+</colgroup>
+
 <tr>
   <td>
     <div>Australian War Memorial Act 1980</div>
@@ -818,7 +854,7 @@ of Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Veterans’ Affairs Legislation Amendment Act 1989</div>
+    <div>Veterans’Affairs Legislation Amendment Act 1989</div>
   </td>
   <td>
     <div>93, 1989</div>
@@ -884,7 +920,7 @@ Remainder: Royal Assent</div>
     <div>19 Feb 1997</div>
   </td>
   <td>
-    <div>Schedule 2 (items 9, 51, 95): Royal Assent <i>(f)</i></div>
+    <div>Schedule 2 (items 9, 51 and 95): Royal Assent <i>(f)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -906,85 +942,52 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
-  </td>
-  <td>
-    <div>146, 1999</div>
-  </td>
-  <td>
-    <div>11 Nov 1999</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 273-276): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(h)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Corporate Law Economic Reform Program Act 1999</div>
-  </td>
-  <td>
-    <div>156, 1999</div>
-  </td>
-  <td>
-    <div>24 Nov 1999</div>
-  </td>
-  <td>
-    <div>Schedule 10 (item 62): 13 Mar 2000 ( <i>see</i> <i>Gazette</i>2000,No. S114) <i>(i)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
  
 
 _(a)_     The _Australian War Memorial Act 1980_ was amended by section 115 only of the _Statute Law Revision Act 1981_, subsection 2(1) of which provides as follows: 
 
-                  (1)   Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
+                 “(1)   Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.” 
 
 _(b)_    The _Australian War Memorial Act 1980_ was amended by section 151(1) only of the _Public Service Reform Act 1984_, subsection 2(4) of which provides as follows: 
 
-                  (4)   The remaining provisions of this Act shall come into operation on such day as is, or on such respective days as are, fixed by Proclamation.
+                 “(4)   The remaining provisions of this Act shall come into operation on such day as is, or on such respective days as are, fixed by Proclamation.” 
 
 _(c)_     The _Australian War Memorial Act 1980_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows: 
 
-                  (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
+                 “(1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.” 
 
 _(d)_     The _Australian War Memorial Act 1980_ was amended by section 45 only of the _Public Service and Statutory Authorities Amendment Act 1985_, subsection 2(7) of which provides as follows: 
 
-                  (7)   The remaining provisions of this Act shall come into operation on the twenty-eighth day after the day on which this Act receives the Royal Assent.
+                 “(7)   The remaining provisions of this Act shall come into operation on the twenty-eighth day after the day on which this Act receives the Royal Assent.” 
 
 _(e)_     The _Australian War Memorial Act 1980_ was amended by Schedule 4 (items 46, 47) and Schedule 5 (items 33-35) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows: 
 
-                  (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
+                 “(1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.” 
 
 _(f)_ The _Australian War Memorial Act 1980_ was amended by Schedule 2 (items 9, 51 and 95) only of the _Defence Legislation Amendment Act (No. 1) 1997_, subsection 2(1) of which provides as follows:
 
-                  (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
+                 “(1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.”
 
 _(g)_     The _Australian War Memorial Act 1980_ was amended by Schedule 2 (items 542-553) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(1) of which provides as follows:
 
-                  (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
-
-_(h)_     The _Australian War Memorial Act 1980_ was amended by Schedule 1 (items 273-276) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
-
-                  (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
-
-                  (2)   Subject to this section, this Act commences at the commencing time.
-
-_(i)_      The _Australian War Memorial Act 1980_ was amended by Schedule 10 (item 62) only of the _Corporate Law Economic Reform Program Act 1999_, subsection 2(2)(c) of which provides as follows:
-
-                  (2)   The following provisions commence on a day or days to be fixed by Proclamation:
-
-                             (c)   the items in Schedules 10, 11 and 12\. 
+                 “(2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.”
 
 ## Table of Amendments
+
+<table>
+<colgroup>
+  <col width="100%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+    </td>
+  </tr>
+</thead></table>
 
 <table>
 <colgroup>
@@ -992,11 +995,6 @@ _(i)_      The _Australian War Memorial Act 1980_ was amended by Sched
   <col width="66%">
 </colgroup>
 
-<tr>
-  <td colspan="2">
-    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-  </td>
-</tr>
 <tr>
   <td>
     <div>Provision affected</div>
@@ -1058,7 +1056,7 @@ _(i)_      The _Australian War Memorial Act 1980_ was amended by Sched
     <div>S. 14</div>
   </td>
   <td>
-    <div>am. No. 43, 1996; No. 152, 1997; No. 156, 1999</div>
+    <div>am. No. 43, 1996; No. 152, 1997</div>
   </td>
 </tr>
 <tr>
@@ -1119,14 +1117,6 @@ _(i)_      The _Australian War Memorial Act 1980_ was amended by Sched
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 146, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 24</div>
   </td>
   <td>
@@ -1146,7 +1136,7 @@ _(i)_      The _Australian War Memorial Act 1980_ was amended by Sched
     <div>S. 27</div>
   </td>
   <td>
-    <div>am. No. 61, 1981; No. 63, 1984; No. 146, 1999</div>
+    <div>am. No. 61, 1981; No. 63, 1984</div>
   </td>
 </tr>
 <tr>
@@ -1154,7 +1144,7 @@ _(i)_      The _Australian War Memorial Act 1980_ was amended by Sched
     <div>S. 28</div>
   </td>
   <td>
-    <div>am. No. 63, 1984; No. 146,1999</div>
+    <div>am. No. 63, 1984</div>
   </td>
 </tr>
 <tr>
