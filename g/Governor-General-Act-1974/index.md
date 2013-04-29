@@ -1,8 +1,8 @@
 
 Governor‑General Act 1974
 Act No. 16 of 1974 as amended
-This compilation was prepared on 9 July 2001  taking into account amendments up to Act No. 57 of 2001
-The text of any of those amendments not in force on that date is appended in the Notes section
+Consolidated as in force on 10 January 2000
+(includes amendments up to Act No. 146 of 1999)
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
   
   
@@ -11,27 +11,26 @@ Contents
 1	Short title [see Note 1]	1
 2	Commencement [see Note 1]	1
 2A	Interpretation	1
-2B	Marital relationship	3
-2C	Spouse of a deceased person	4
-3	Salary of Governor‑General	4
+2B	Marital relationship	2
+2C	Spouse of a deceased person	3
+3	Salary of Governor‑General	3
 4	Allowances	4
-4A	Allowance payable when there is more than one spouse	8
-4B	Application for review	9
-5	Appropriation	9
-5A	Trustee of Scheme for the purposes of the Superannuation Contributions Tax (Assessment and Collection) Act 1997	9
-6	Official Secretary	10
-7	Terms and conditions of appointment	10
-8	Remuneration of Official Secretary	10
-10	Resignation	11
-11	Termination of appointment	11
-12	Acting Official Secretary	11
-13	Official Secretary may employ staff	12
-14	Remuneration and other conditions of employees	12
-15	Termination of employment	12
-19	Annual Report	13
-20	Regulations	13
-Notes		15
-
+4A	Allowance payable when there is more than one spouse	6
+4B	Application for review	6
+5	Appropriation	7
+5A	Trustee of Scheme for the purposes of the Superannuation Contributions Tax (Assessment and Collection) Act 1997	7
+6	Official Secretary	7
+7	Terms and conditions of appointment	8
+8	Remuneration of Official Secretary	8
+10	Resignation	8
+11	Termination of appointment	8
+12	Acting Official Secretary	8
+13	Official Secretary may employ staff	9
+14	Remuneration and other conditions of employees	10
+15	Termination of employment	10
+19	Annual Report	10
+20	Regulations	10
+Notes		11
 An Act to make provision in relation to the Salary of the Governor‑General, and the Payment of Allowances to persons, and to the spouses of persons, who have held the office of Governor‑General, to establish the office of Official Secretary to the Governor‑General, to provide for the employment of staff of the Governor‑General, and for related purposes
   
   
@@ -42,19 +41,12 @@ An Act to make provision in relation to the Salary of the Governor‑General, an
 2A  Interpretation
 	(1)	References in sections 6, 7, 11, 12 and 18 to the Governor‑General shall be construed as references to the Governor‑General acting with the advice of the Executive Council.
 	(2)	In this Act:
-assessment has the same meaning as in the Superannuation Contributions Tax (Assessment and Collection) Act 1997.
-basic rate, at a particular time, in relation to a particular person, means 60% of the salary of the Chief Justice of Australia at that time, reduced by the amount of any pension or retiring allowance payable to that person at that time, whether by virtue of a law or otherwise out of money provided in whole or part by Australia, a State or a Territory.
-notice of assessment, in respect of a person, means a notice given under subsection 15(8) of the Superannuation Contributions Tax (Assessment and Collection) Act 1997 to the person or to the person’s spouse, or to the legal personal representative of the person or the person’s spouse, stating that a person is liable to pay an amount of surcharge on surchargeable contributions for the person.
 Scheme means the scheme constituted by section 4 for the provision of retirement and other benefits to and in respect of the Governor‑General.
-surcharge has the same meaning as in the Superannuation Contributions Tax (Assessment and Collection) Act 1997.
-surchargeable contributions, for a person, means surchargeable contributions within the meaning of the Superannuation Contributions Tax (Assessment and Collection) Act 1997 that are attributable to the operation of this Act in respect of the person.
 surcharge debt account, in relation to a person who has held office as Governor‑General, means the surcharge debt account that was kept for the person (while he or she held that office) under section 16 of the Superannuation Contributions Tax (Assessment and Collection) Act 1997.
 surcharge deduction amount, in relation to a person:
 	(a)	who has held office as Governor‑General; and
 	(b)	to or in respect of whom an allowance is payable under this Act;
-means:
-	(c)	for the purposes of calculating the prescribed percentage before the payment of the allowance has commenced—the amount by which the person’s surcharge debt account was in debit when the allowance became payable; or
-	(d)	for the purposes of calculating the prescribed percentage after the payment of the allowance has commenced—the amount of surcharge on surchargeable contributions for the person which the trustee is liable to pay because of the operation of subsection 4(4).
+means the amount by which the person’s surcharge debt account is in debit when the allowance becomes payable to or in respect of the person (as the case may be).
 the Commissioner means the person who holds, or performs the functions of, the office of Commissioner for Superannuation under the Superannuation Act 1976.
 2B  Marital relationship
 	(1)	In this section and section 2C:
@@ -82,53 +74,29 @@ whether or not the person was legally married to the deceased person.
 	(ii)	did not, at the time of the death, have a marital relationship with the deceased person but was legally married to the deceased person; and
 	(iii)	in the Commissioner’s opinion, was wholly or substantially dependent on the deceased person at the time of the death.
 3  Salary of Governor‑General
-		The annual sum payable out of the Consolidated Revenue Fund for the salary of the Governor‑General shall be $310,000.
+		The annual sum payable out of the Consolidated Revenue Fund for the salary of the Governor‑General shall be $58,000.
 4  Allowances
 	(1)	Subject to subsection (4), where, after the commencement of this Act, a person ceases to hold office as Governor‑General, an allowance is payable under this section to him or her during his or her life‑time at such rate as is from time to time payable under subsection (3).
 	(2)	Subject to subsection (4) and section 4A, where, after the commencement of this Act, a person who is Governor‑General dies, or a person who has at any time after the commencement of this Act held office as Governor‑General dies, an allowance is payable under this section to a spouse of the person during the life‑time of the spouse at such rate as is from time to time payable under subsection (3A).
 	(3)	The rate of the allowance payable at any time (relevant time) to a person who has held office as Governor‑General is:
-	(a)	if the person’s surcharge debt account was in debit when the allowance became payable to the person—a rate equal to 85% of the basic rate or the prescribed percentage of the basic rate at the relevant time, whichever is higher; or
-	(b)	if the person’s surcharge debt account was not in debit when the allowance became payable to the person, whichever of the following rates is applicable:
-	(i)	if a notice of assessment in respect of the person has been given before the relevant time—a rate equal to 85% of the basic rate or the prescribed percentage of the basic rate at that time, whichever is higher;
-	(ii)	if a notice of assessment in respect of the person has not been given before the relevant time, and subsection (3AA) does not apply to the person at that time—a rate equal to 85% of the basic rate at that time;
-	(iii)	if a notice of assessment in respect of the person has not been given before the relevant time, and subsection (3AA) applies to the person at that time—the basic rate at that time.
-Note:	For prescribed percentage, see subsection (3B).
-	(3AA)	This subsection applies to a person at a particular time (the relevant time) if, before the relevant time:
-	(a)	the trustee of the Scheme (within the meaning of section 5A); and
-	(b)	the person or, if the person is deceased, the person’s spouse or spouses or legal personal representative;
-have reached a written agreement that a notice of assessment is not likely to be given in respect of the person.
-	(3A)	The rate of the allowance payable at any time (the relevant time) to a spouse of a deceased person who held office as Governor‑General is the amount worked out using the formula:
+	(a)	if paragraph (b) does not apply—a rate equal to 60% of the rate of the salary payable to the Chief Justice of Australia at the relevant time; or
+	(b)	if the person’s surcharge debt account was in debit when the allowance became payable to the person—a rate equal to the prescribed percentage of the rate at which allowance would be payable at the relevant time to the person under paragraph (a) if this paragraph did not apply to him or her.
+Note:	For prescribed percentage see subsection (3B).
+	(3A)	The rate of the allowance payable at any time (relevant time) to a spouse of a deceased person who held office as Governor‑General is:
+	(a)	in the case of a spouse of a person who died while holding office as Governor‑General—a rate equal to five‑eighths of the rate that would be applicable at the relevant time to the person under subsection (3) if he or she had not died but had ceased to hold that office; or
+	(b)	in the case of a spouse of a person who died after ceasing to hold office as Governor‑General—a rate equal to five‑eighths of the rate that would be applicable at the relevant time to the person under subsection (3) if he or she had not died.
+	(3B)	In subsection (3):
+prescribed percentage, in relation to a person who has held office as Governor‑General, means the percentage worked out using the formula:
 
 where:
-adjustment amount means the amount of any pension or retiring allowance that would have been payable to the deceased person at the relevant time if the deceased person had not died, whether by virtue of a law or otherwise out of money provided in whole or part by Australia, a State or a Territory.
-allowance rate means:
-	(a)	if the person died while holding office as Governor‑General—the rate that would be applicable at the relevant time to the deceased person under subsection (3) if he or she had not died but had ceased to hold that office; or
-	(b)	if the deceased person died after ceasing to hold office as Governor‑General—the rate that would be applicable at the relevant time to the deceased person under subsection (3) if he or she had not died.
-reduction amount means the amount of any pension or retiring allowance payable to the spouse of the deceased person at the relevant time, whether by virtue of a law or otherwise out of money provided in whole or part by Australia, a State or a Territory.
-	(3B)	In subsection (3):
-prescribed percentage, in relation to a person who has held office as Governor‑General, means the percentage worked out in accordance with the formula:
-
-where:
-SAt means the amount worked out in accordance with the formula:
-
-where:
-basic rate has the meaning given by section 2A.
-BR1 is the basic rate at the time when the prescribed percentage is first calculated, and BR2, BR3 etc. have corresponding meanings for any later time when the prescribed percentage is calculated.
-SA1 is the surcharge adjustment at the time when the prescribed percentage is first calculated, and SA2, SA3 etc. have corresponding meanings for any later time when the prescribed percentage is calculated.
-surcharge adjustment means the amount obtained by dividing the person’s surcharge deduction amount by the conversion factor applicable to the person under the determination referred to in subsection (3C).
+basic rate means the rate at which allowance would be payable to the person if the person’s surcharge debt account was not in debit when an allowance under this section became payable to him or her.
+surcharge adjustment means the amount obtained by dividing the person’s surcharge deduction amount by the conversion factor applicable to the person under the determination referred to in subsection (3C).
 	(3C)	The person who (because of section 5A) is the trustee of the Scheme for the purposes of the Superannuation Contributions Tax (Assessment and Collection) Act 1997 must, in accordance with advice received from the Australian Government Actuary, determine in writing the conversion factor that, having regard to:
 	(a)	the age of a person who has held office as Governor‑General on the day on which an allowance becomes payable to the person; and
 	(b)	other relevant factors (if any);
 is applicable for the purpose of working out, in relation to the person, the yearly amount that would have to be paid to discharge a liability equal to the person’s surcharge deduction amount.
 	(3D)	A determination under subsection (3C) must be published in the Gazette.
-	(4)	If:
-	(a)	a person ceases to hold office as Governor‑General; and
-	(b)	after the person ceases to hold office, a notice of assessment (including an amended assessment) in respect of the person is given to the person, the person’s spouse or the legal personal representative of the person or the person’s spouse; and
-	(c)	apart from this section, a person would be liable to pay surcharge under the assessment in accordance with the Superannuation Contributions Tax (Assessment and Collection) Act 1997;
-the trustee of the Scheme (within the meaning of section 5A) is liable to pay the surcharge under the assessment mentioned in paragraph (b), and any general interest charge in respect of the surcharge, to the Commissioner of Taxation, and the liability of any other person to pay the surcharge or general interest charge, as the case requires, is discharged.
-	(5)	Despite subsection (4), the trustee of the Scheme is not liable to pay the surcharge unless the person, the person’s spouse or the legal personal representative of the person or the person’s spouse gives the notice of assessment to the trustee of the Scheme.
-	(6)	If, after an allowance became payable to a person under this section, a notice of assessment (including an amended assessment) of the person’s surcharge is given to the trustee of the Scheme as mentioned in subsection (5), the trustee must calculate or recalculate, as the case requires, the prescribed percentage of the basic rate in accordance with subsection (3B).
-	(7)	Amounts payable under subsection (4) are to be paid out of the Consolidated Revenue Fund, which is appropriated accordingly.
+	(4)	The amount of the allowance that, but for this subsection, would be payable to a person under this section in respect of any period shall be reduced by the amount of any pension or retiring allowance payable to that person, whether by virtue of a law or otherwise, in respect of that period out of moneys provided in whole or in part by Australia, a State or a Territory.
 4A  Allowance payable when there is more than one spouse
 	(1)	If a person who held office or had held office as the Governor‑General (deceased person) dies leaving more than one spouse, the Commissioner must allocate any allowance payable to a spouse of the deceased person under this Act among the spouses.
 	(2)	Subject to subsection (3), an allowance is only payable to each spouse in accordance with the allocation.
@@ -196,8 +164,7 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 	(b)	necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 Notes to the Governor-General Act 1974
 Note 1
-The Governor‑General Act 1974 as shown in this compilation comprises Act No. 16, 1974 amended as indicated in the Tables below.
-All relevant information pertaining to application, saving or transitional provisions prior to 28 June 2001 is not included in this compilation. For subsequent information see Table A.
+The Governor‑General Act 1974 as shown in this consolidation comprises Act No. 16, 1974 amended as indicated in the Tables below.
 Table of Acts
 Act
 Number  and year
@@ -279,11 +246,6 @@ Public Employment (Consequential and Transitional) Amendment Act 1999
 11 Nov 1999
 Schedule 1 (items 496-499): 5 Dec 1999 (see Gazette 1999, No. S584) (f)
 —
-Governor-General Legislation Amendment Act 2001
-57, 2001
-28 June 2001
-28 June 2001
-Sch. 1 (items 2, 14)
 (a)	The Governor‑General Act 1974 was amended by section 3 only of the Statute Law (Miscellaneous Provisions) Act (No. 1) 1983, subsection 2(10) of which provides as follows:
 	(10)	The amendment of the Governor‑General Act 1974 made by this Act shall be deemed to have come into operation on 9 June 1982.
 (b)	The Governor‑General Act 1974 was amended by sections 138‑141 only of the Public Service Reform Act 1984, subsections 2(1) and (4) of which provides as follows:
@@ -311,7 +273,7 @@ am. No. 63, 1984; No. 185, 1992
 S. 2A	
 ad. No. 63, 1984
 
-am. No. 185, 1992; No. 187, 1997; No. 57, 2001
+am. No. 185, 1992; No. 187, 1997
 Ss. 2B, 2C	
 ad. No. 185, 1992
 S. 3	
@@ -321,9 +283,9 @@ am. No. 39, 1983
 
 rs. No. 83, 1988
 
-am. No. 122, 1995; No. 57, 2001
+am. No. 122, 1995
 S. 4	
-am. No. 199, 1991; No. 185, 1992; No. 43, 1996; No. 187, 1997; No. 57, 2001
+am. No. 199, 1991; No. 185, 1992; No. 43, 1996; No. 187, 1997
 S. 4A	
 ad. No. 185, 1992
 
@@ -368,15 +330,5 @@ ad. No. 63, 1984
 am. No. 43, 1996
 S. 20	
 ad. No. 63, 1984 
-Table A
-Application, saving or transitional provisions
-Governor-General Legislation Amendment Act 2001 (No. 57, 2001)
-Schedule 1
-2  Transitional provision
-The amendment made by this Part does not have effect during the continuance in office of the person holding office as Governor‑General immediately before the commencement of this Act.
-14  Application provision
-The repeals and amendments made by this Schedule do not apply to a person who held office as Governor‑General before 20 August 1996.
-
-
       
 
