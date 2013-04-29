@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00456/Html/ANTSAustBusNum1999_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00285/Html/ANTSAustBusNum1999_WD02_image001.gif)
 
 # A New Tax System (Australian Business Number) Act 1999
 
 **Act No. 84 of 1999 as amended**
 
-This compilation was prepared on 1 October 2009
- taking into account amendments up to Act No. 88 of 2009
+This compilation was prepared on 1 July 2009
+ taking into account amendments up to Act No. 42 of 2009
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -275,7 +275,7 @@ Note:          A decision setting the date of effect of your r
 
 Note:          Section 12 deals with giving notice to an entity registered under this section.
 
-##### <a id="12"></a>12  If you are registered, notices may be sent to you at your registered address for service 
+##### <a id="12"></a>12  If you are registered, notices may be sent to you at your registered address for service 
 
              (1)  If * you are registered in the * Australian Business Register, a notice under this Act, or the regulations, may be given to you by leaving it at, or sending it by pre-paid post to, the address shown in the Register as your address for service.
 
@@ -703,7 +703,7 @@ Note:          Section 12 deals with giving notice to an ent
 
                      (b)  the details prescribed in the regulations.
 
-Note 1:       Section 30-229 of the ITAA 1997 also requires the Registrar to make entries in the Australian Business Register about entities gifts to which are tax-deductible.
+Note 1:       Section 30-229 of the _Income Tax Assessment Act 1997_ also requires the Registrar to make entries in the Australian Business Register about entities gifts to which are tax-deductible.
 
 Note 2:       Section 426-65 in Schedule 1 to the _Taxation Administration Act 1953_ also requires the Registrar to make entries in the Australian Business Register about entities that are endorsed in the ways mentioned in that section.
 
@@ -737,7 +737,7 @@ Note 2:       Section 426-65 in Schedule 1 to the _Taxation Admi
 
                      (g)  any statement required to be entered in the * Australian Business Register in relation to the entity under section 30-229 of the * ITAA 1997;
 
-                    (ga)  any statement required to be entered in the * Australian Business Register in relation to the entity under section 426-65 or 426-115 in Schedule 1 to the _Taxation Administration Act 1953_;
+                    (ga)  any statement required to be entered in the * Australian Business Register in relation to the entity under section 426-65 in Schedule 1 to the _Taxation Administration Act 1953_;
 
                      (h)  the entity’s Australian Company Number and Australian Registered Body Number (if any);
 
@@ -1023,7 +1023,7 @@ but does not include a * partnership or a * non-entity joint venture.
 
                     <a name="itaa-1997"></a>**_ITAA 1997_** means the _Income Tax Assessment Act 1997_.
 
-                    <a name="non-cash-benefit"></a>**_non-cash benefit_** has the meaning given by subsection 995-1(1) of the * ITAA 1997.
+                    <a name="non-cash-benefit"></a>**_non-cash benefit_** has the meaning given by subsection 995-1(1) of the _Income Tax Assessment Act 1997_.
 
                     <a name="non-entiti-joint-ventur"></a>**_non-entity joint venture_** means an arrangement that the Registrar is satisfied is a contractual arrangement:
 
@@ -1097,9 +1097,9 @@ Note:          The Registrar may delegate powers and functions
 
                     <a name="tfn"></a>**_TFN_** means tax file number as defined in section 202A of the * ITAA 1936.
 
-                    <a name="withhold-payment"></a>**_withholding payment_** has the meaning given by subsection 995-1(1) of the * ITAA 1997.
+                    <a name="withhold-payment"></a>**_withholding payment_** has the meaning given by subsection 995-1(1) of the _Income Tax Assessment Act 1997_.
 
-                    <a name="withhold-payment"></a>**_withholding payment_** covered by a particular provision in Schedule 1 to the _Taxation Administration Act 1953_ has the meaning given by subsection 995-1(1) of the * ITAA 1997.
+                    <a name="withhold-payment"></a>**_withholding payment_** covered by a particular provision in Schedule 1 to the _Taxation Administration Act 1953_ has the meaning given by subsection 995-1(1) of the _Income Tax Assessment Act 1997_.
 
                     <a name=""></a><a name=""></a>**_you_**: if a provision of this Act uses the expression **_you_**, it applies to entities generally, unless its application is expressly limited.
 
@@ -1476,24 +1476,6 @@ Schedule 6 (items 35–57): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>Sch. 6 (item 32)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Tax Laws Amendment (2009 Measures No. 4) Act 2009</div>
-  </td>
-  <td>
-    <div>88, 2009</div>
-  </td>
-  <td>
-    <div>18 Sept 2009</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 1): 1 Oct 2009 
-Schedule 5 (items 283–287): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
   </td>
 </tr></table>
 
@@ -1946,14 +1928,6 @@ No. 95, 2004</div>
 </tr>
 <tr>
   <td>
-    <div>Note 1 to s. 25(2)</div>
-  </td>
-  <td colspan="2">
-    <div>am. No. 88, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Note 2 to s. 25(2)</div>
   </td>
   <td colspan="2">
@@ -1973,7 +1947,7 @@ No. 95, 2004</div>
     <div></div>
   </td>
   <td colspan="2">
-    <div>am. No. 95, 2004; No. 154, 2007; No. 88, 2009</div>
+    <div>am. No. 95, 2004; No. 154, 2007</div>
   </td>
 </tr>
 <tr>
@@ -2133,7 +2107,7 @@ No. 95, 2004</div>
     <div>S. 41</div>
   </td>
   <td colspan="2">
-    <div>am. Nos. 146, 177, 178 and 179, 1999; Nos. 91 and 92, 2000; Nos. 55 and 168, 2001; No. 101, 2006; Nos. 143 and 154, 2007; Nos. 42 and 88, 2009</div>
+    <div>am. Nos. 146, 177, 178 and 179, 1999; Nos. 91 and 92, 2000; Nos. 55 and 168, 2001; No. 101, 2006; Nos. 143 and 154, 2007; No. 42, 2009</div>
   </td>
 </tr>
 <tr height="0">
@@ -2143,8 +2117,6 @@ No. 95, 2004</div>
 </tr></table>
 
 ### Note 2
-
-_Tax Laws Amendment (2009 Measures No. 2) Act 2009 (No. 42, 2009)_
 
 The following amendments commence on 23 June 2010 unless proclaimed earlier:
 
@@ -2180,7 +2152,7 @@ Repeal the heading, substitute:
 
 Insert:
 
-##### <a id="9A"></a>9A  Applying for registration of representatives
+##### <a id="9A"></a>9A  Applying for registration of representatives
 
              (1)  If * you are registered in the * Australian Business Register, or you are applying to be so registered, you may make an application to the * Registrar requesting the Registrar to register details about a nominated representative (who is an individual) for the purpose of facilitating your electronic dealings with * government entities.
 
@@ -2505,7 +2477,7 @@ Add:
 
 Note:          A disclosure under paragraph (3)(e) could, for example, be for the purpose of administering or cancelling the representative’s registration.
 
-As at 1 October 2009 the amendments are not incorporated in this compilation.
+As at 1 July 2009 the amendments are not incorporated in this compilation.
 
 ## Table A
 
