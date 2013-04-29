@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00174/Html/91a2b181-7995-4738-96d1-45dde0c4f952_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00753/Html/57da03a4-0892-4f3d-8bfb-86ccf37783af_files/image001.gif)
 
 # Historic Shipwrecks Act 1976
 
 **Act No. 190 of 1976 as amended**
 
-This compilation was prepared on 24 January 2012
+This compilation was prepared on 16 September 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force 
@@ -126,13 +126,13 @@ BE IT THEREFORE ENACTED by the Queen, and the Senate and House of Representative
 
              (3)  Proclamations under subsection (1) in relation to waters adjacent to the coasts of New South Wales, Queensland and Western Australia having been made, before the commencement of this subsection, at the request or with the consent of the Governments of those States respectively, no further Proclamation under that subsection shall be made except at the request or with the consent of the Government of the State concerned. 
 
-             (4)  If, after this Act has commenced to apply in relation to any waters adjacent to the coast of a State, the Government of the State notifies the Government of the Commonwealth that it desires that this Act shall cease to apply in relation to those waters or a specified part of those waters, the Governor‑General shall, by Proclamation, declare that this Act shall, on a date specified in the Proclamation, cease to apply accordingly and, upon that date, this Act shall cease to apply in relation to the waters specified in the Proclamation or to or in relation to remains of ships, and articles, that are in those waters or have been removed from those waters.
+             (4)  If, after this Act has commenced to apply in relation to any waters adjacent to the coast of a State, the Government of the State notifies the Government of the Commonwealth that it desires that this Act shall cease to apply in relation to those waters or a specified part of those waters, the Governor‑General shall, by Proclamation, declare that this Act shall, on a date specified in the Proclamation, cease to apply accordingly and, upon that date, this Act shall cease to apply in relation to the waters specified in the Proclamation or to or in relation to remains of ships, and articles, that are in those waters or have been removed from those waters, and section 8 of the _Acts Interpretation Act 1901_ has effect as if this Act, to the extent that it so ceases to apply, had been repealed on that date by another Act.
 
              (5)  A Government of a State may, in a notification to the Government of the Commonwealth under subsection (4), request that this Act shall continue to be applicable to and in relation to specified articles, or articles of a specified class, removed from the waters referred to in the notification and, in that event, the Proclamation under that subsection shall provide, and have effect, accordingly. 
 
              (6)  Nothing contained in, or done under, subsection (4) affects the application of this Act to or in relation to a Dutch shipwreck or Dutch relic, and a Proclamation under that subsection in relation to waters adjacent to Western Australia shall declare that the Proclamation does not affect the application of this Act to or in relation to any wrecked vessel or article that is a Dutch shipwreck or Dutch relic within the meaning of this Act. 
 
-             (7)  Where the Governor‑General is satisfied that arrangements made, apart from this Act, with respect to Dutch shipwrecks or Dutch relics make it appropriate to do so, the Governor‑General may, by Proclamation, declare that this Act shall, on a date specified in the Proclamation, cease to apply to and in relation to all Dutch shipwrecks and Dutch relics, or such Dutch shipwrecks and Dutch relics as are in, or have been removed from, a specified part of the waters adjacent to Western Australia.
+             (7)  Where the Governor‑General is satisfied that arrangements made, apart from this Act, with respect to Dutch shipwrecks or Dutch relics make it appropriate to do so, the Governor‑General may, by Proclamation, declare that this Act shall, on a date specified in the Proclamation, cease to apply to and in relation to all Dutch shipwrecks and Dutch relics, or such Dutch shipwrecks and Dutch relics as are in, or have been removed from, a specified part of the waters adjacent to Western Australia and, where such a Proclamation is made, section 8 of the _Acts Interpretation Act 1901_ has effect as if this Act, to the extent that it is so declared to cease to apply, had been repealed by another Act on the date specified in the Proclamation.
 
              (8)  A Proclamation under subsection (7) may provide that this Act shall continue to be applicable to and in relation to specified Dutch relics, or Dutch relics of a specified class, removed from the waters to which the Proclamation relates and in that event this Act shall have effect accordingly. 
 
@@ -140,7 +140,7 @@ BE IT THEREFORE ENACTED by the Queen, and the Senate and House of Representative
 
           (9A)  Nothing contained in, or done under, subsection (4) affects the application of this Act to or in relation to a Papua New Guinea shipwreck or a Papua New Guinea relic and a Proclamation under that subsection in relation to waters adjacent to Queensland shall declare that the Proclamation does not affect the application of this Act to or in relation to any wrecked vessel or article that is a Papua New Guinea shipwreck or Papua New Guinea relic within the meaning of this Act. 
 
-          (9B)  Where the Governor‑General is satisfied that arrangements made, apart from this Act, with respect to a Papua New Guinea shipwreck or Papua New Guinea shipwrecks or a Papua New Guinea relic or Papua New Guinea relics make it appropriate to do so, the Governor‑General may, by Proclamation, declare that this Act shall, on a date specified in the Proclamation, cease to apply to and in relation to that Papua New Guinea shipwreck or those Papua New Guinea shipwrecks, or that Papua New Guinea relic or those Papua New Guinea relics.
+          (9B)  Where the Governor‑General is satisfied that arrangements made, apart from this Act, with respect to a Papua New Guinea shipwreck or Papua New Guinea shipwrecks or a Papua New Guinea relic or Papua New Guinea relics make it appropriate to do so, the Governor‑General may, by Proclamation, declare that this Act shall, on a date specified in the Proclamation, cease to apply to and in relation to that Papua New Guinea shipwreck or those Papua New Guinea shipwrecks, or that Papua New Guinea relic or those Papua New Guinea relics and, where such a Proclamation is made, section 8 of the _Acts Interpretation Act 1901_ has effect as if this Act, to the extent that it is so declared to cease to apply, had been repealed by another Act on the date specified in the Proclamation.
 
            (10)  Where a Proclamation is expressed to be made in accordance with a specified subsection of this section, it shall be conclusively presumed that any request or consent of, or notification by, the Government of a State, or any other condition precedent, that is necessary or applicable under that subsection has been duly made, given or complied with.
 
@@ -153,6 +153,8 @@ BE IT THEREFORE ENACTED by the Queen, and the Senate and House of Representative
                     <a name="australia-netherland-agreem"></a>**_Australia‑Netherlands Agreement_** means the Agreement between the Netherlands and Australia Concerning Old Dutch Shipwrecks that was signed on 6 November 1972, being the agreement a copy of the text of which is set out in Schedule 1.
 
                     <a name="australian-water"></a>**_Australian waters_** means the territorial sea of Australia and waters of the sea (not being State waters) on the landward side of the territorial sea of Australia.
+
+                    <a name="continent-shelf"></a>**_continental shelf_** has the same meaning as in the _Seas and Submerged Lands Act 1973_. 
 
                     <a name="dutch-relic"></a>**_Dutch relic_** means an article mentioned in Article 1 or 2 of the Australia‑Netherlands Agreement. 
 
@@ -522,7 +524,7 @@ by notice in writing, require the person to take such action in relation to the 
 
              (5)  A civil action does not lie against a person in respect of any action taken by the person in pursuance of a notice given to the person by the Minister under subsection (1).
 
-##### <a id="12"></a>12  Register of Historic Shipwrecks
+##### <a id="12"></a>12  Register of Historic Shipwrecks
 
              (1)  The Minister shall cause to be kept a register to be known as the Register of Historic Shipwrecks.
 
@@ -1289,7 +1291,7 @@ Remainder: 24 May 2001</div>
     <div>27 June 2011</div>
   </td>
   <td colspan="2">
-    <div>Schedule 2 (items 685–687) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 685–687) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
@@ -1366,7 +1368,7 @@ _(d)_     The _Historic Shipwrecks Act 1976_ was amended by Schedule 1
     <div>S. 2</div>
   </td>
   <td>
-    <div>am. No. 88, 1980; No. 22, 1984; No. 65, 1985; No. 46, 2011</div>
+    <div>am. No. 88, 1980; No. 22, 1984; No. 65, 1985</div>
   </td>
 </tr>
 <tr>
@@ -1374,7 +1376,7 @@ _(d)_     The _Historic Shipwrecks Act 1976_ was amended by Schedule 1
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 88, 1980; No. 61, 1981; No. 22, 1984; No. 65, 1985; No. 15, 2001; No. 17, 2006; No. 4, 2010; No. 46, 2011</div>
+    <div>am. No. 88, 1980; No. 61, 1981; No. 22, 1984; No. 65, 1985; No. 15, 2001; No. 17, 2006; No. 4, 2010</div>
   </td>
 </tr>
 <tr>
@@ -1387,7 +1389,7 @@ _(d)_     The _Historic Shipwrecks Act 1976_ was amended by Schedule 1
 </tr>
 <tr>
   <td>
-    <div>S. 4</div>
+    <div>S.4</div>
   </td>
   <td>
     <div>rs. No. 65, 1985</div>
@@ -1578,6 +1580,28 @@ _(d)_     The _Historic Shipwrecks Act 1976_ was amended by Schedule 1
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 685  Subsection 2(4)
+
+Omit “, and section 8 of the _Acts Interpretation Act 1901_ has effect as if this Act, to the extent that it so ceases to apply, had been repealed on that date by another Act”.
+
+## 686  Subsections 2(7) and (9B)
+
+Omit “and, where such a Proclamation is made, section 8 of the _Acts Interpretation Act 1901_ has effect as if this Act, to the extent that it is so declared to cease to apply, had been repealed by another Act on the date specified in the Proclamation”.
+
+## 687  Subsection 3(1) (definition of _continental shelf_)
+
+Repeal the definition.
+
+As at 16 September 2011 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -1625,6 +1649,8 @@ _Environment and Heritage Legislation Amendment (Application of Criminal Code) A
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
