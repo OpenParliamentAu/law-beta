@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00449/Html/6156b029-0847-4f46-a4f8-b07c6c8ad0dc_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00429/Html/703f27a5-1aa8-47f9-bc7b-60da8d596cda_files/image001.gif)
 
 # **Clean Energy (Household Assistance Amendments) Act 2011** 
 
 **Act No. 141 of 2011 as amended**
 
-This compilation was prepared on 15 May 2012
+This compilation was prepared on 9 May 2012
  taking into account amendments up to Act No. 12 of 2012
 
 The text of any of those amendments not in force
@@ -186,7 +186,7 @@ A New Tax System (Family Assistance) Act 1999           �
 
 Income Tax Assessment Act 1997                                                                          216
 
-Social Security Act 1991                                                                                        219
+Social Security Act 1991                                                                                        218
 
 Social Security (Administration) Act 1999                                                         220
 
@@ -699,7 +699,7 @@ Note:          The advance will be paid in a lump sum as soon 
 
              (2)  The amount of the advance is the result of the following formula rounded up to the nearest multiple of $10:
 
-![](http://www.comlaw.gov.au/Details/C2012C00449/Html/6156b029-0847-4f46-a4f8-b07c6c8ad0dc_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00429/Html/703f27a5-1aa8-47f9-bc7b-60da8d596cda_files/image002.gif)
 
 ##### <a id="914E"></a>914E  _Clean energy advance daily rate_
 
@@ -1931,7 +1931,7 @@ Step 1B. Work out the clean energy supplement (if any) using Module BB below.
 
 After “1A,”, insert “1B,”.
 
-## 31  Section 1068A (after Module BA)
+## 31  Section 1068A (after Module BA)
 
 Insert:
 
@@ -3076,7 +3076,7 @@ Repeal the subsection, substitute:
 
              (8)  For the purposes of the definition of **_income cut‑out amount_** in subsection (1), the formula is as follows:
 
-![](http://www.comlaw.gov.au/Details/C2012C00449/Html/6156b029-0847-4f46-a4f8-b07c6c8ad0dc_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00429/Html/703f27a5-1aa8-47f9-bc7b-60da8d596cda_files/image003.gif)
 
 where:
 
@@ -4923,7 +4923,7 @@ Note:          The advance will be paid in a lump sum as soon 
 
              (2)  The amount of the advance is the result of the following formula rounded up to the nearest multiple of $10:
 
-![](http://www.comlaw.gov.au/Details/C2012C00449/Html/6156b029-0847-4f46-a4f8-b07c6c8ad0dc_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00429/Html/703f27a5-1aa8-47f9-bc7b-60da8d596cda_files/image004.gif)
 
 where:
 
@@ -5509,7 +5509,7 @@ Repeal the subsection.
 
 Repeal the formula, substitute:
 
-![](http://www.comlaw.gov.au/Details/C2012C00449/Html/6156b029-0847-4f46-a4f8-b07c6c8ad0dc_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00429/Html/703f27a5-1aa8-47f9-bc7b-60da8d596cda_files/image005.gif)
 
 ## 20  Paragraph 59Q(7)(b)
 
@@ -6353,7 +6353,7 @@ the rate worked out by multiplying the appropriate rate immediately before that 
 
                      (b)  1 if the result of paragraph (a) is less than 1.
 
-![](http://www.comlaw.gov.au/Details/C2012C00449/Html/6156b029-0847-4f46-a4f8-b07c6c8ad0dc_files/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00429/Html/703f27a5-1aa8-47f9-bc7b-60da8d596cda_files/image006.gif)
 
 where:
 
@@ -6763,7 +6763,7 @@ Note:          The advance will be paid in a lump sum as soon 
 
              (2)  The amount of the advance is the result of the following formula rounded up to the nearest multiple of $10:
 
-![](http://www.comlaw.gov.au/Details/C2012C00449/Html/6156b029-0847-4f46-a4f8-b07c6c8ad0dc_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00429/Html/703f27a5-1aa8-47f9-bc7b-60da8d596cda_files/image004.gif)
 
 where:
 
@@ -7061,7 +7061,7 @@ Repeal the subsection, substitute:
 
              (2)  The dollar amount or rate mentioned in the provision, for an indexation year in which the indexation factor is greater than 1, is replaced by the amount or rate worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00449/Html/6156b029-0847-4f46-a4f8-b07c6c8ad0dc_files/image007.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00429/Html/703f27a5-1aa8-47f9-bc7b-60da8d596cda_files/image007.gif)
 
 <h7 class="ActHead7">Part 3—Indexation</h7>
 
@@ -7311,7 +7311,7 @@ Insert:
 
 ## Part 4A—Amount of a clean energy advance
 
-##### <a id="24C"></a>24C  Amount of a clean energy advance
+##### <a id="24C"></a>24C  Amount of a clean energy advance
 
              (1)  On the day (the **_decision day_**) that the Secretary determines that a person (the **_recipient_**) is qualified for a clean energy advance, the Secretary must work out the amount of the advance.
 
@@ -7319,7 +7319,7 @@ Note:          The advance will be paid in a lump sum as soon 
 
              (2)  The amount of the advance is the result of the following formula rounded up to the nearest multiple of $10:
 
-![](http://www.comlaw.gov.au/Details/C2012C00449/Html/6156b029-0847-4f46-a4f8-b07c6c8ad0dc_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00429/Html/703f27a5-1aa8-47f9-bc7b-60da8d596cda_files/image002.gif)
 
              (3)  However, no amount is payable under this section for the qualification if:
 
@@ -7522,7 +7522,7 @@ Adjusted amount for the earliest change day
 
              (3)  For the purposes of subsection (1), round up to the nearest multiple of $10 the result of the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00449/Html/6156b029-0847-4f46-a4f8-b07c6c8ad0dc_files/image008.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00429/Html/703f27a5-1aa8-47f9-bc7b-60da8d596cda_files/image008.gif)
 
 where:
 
@@ -7886,7 +7886,7 @@ LIS threshold amount
 
              (4)  The **_LIS threshold amount_** for a person for an income year is worked out as follows:
 
-![](http://www.comlaw.gov.au/Details/C2012C00449/Html/6156b029-0847-4f46-a4f8-b07c6c8ad0dc_files/image009.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00429/Html/703f27a5-1aa8-47f9-bc7b-60da8d596cda_files/image009.gif)
 
 where:
 
@@ -9006,11 +9006,11 @@ Insert:
 
              (2)  That dollar amount, for an indexation day on which the indexation factor is greater than 1, is replaced by the amount that is worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00449/Html/6156b029-0847-4f46-a4f8-b07c6c8ad0dc_files/image010.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00429/Html/703f27a5-1aa8-47f9-bc7b-60da8d596cda_files/image010.gif)
 
              (3)  The **_indexation factor_** for an indexation day is the number worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00449/Html/6156b029-0847-4f46-a4f8-b07c6c8ad0dc_files/image011.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00429/Html/703f27a5-1aa8-47f9-bc7b-60da8d596cda_files/image011.gif)
 
              (4)  The indexation factor is to be calculated to 3 decimal places, but increased by 0.001 if the fourth decimal place is more than 4.
 
@@ -9684,7 +9684,7 @@ the Secretary must determine that the claimant is entitled to be paid the single
 
 ##### <a id="65KM"></a>65KM  Determination that no entitlement
 
-                   If the Secretary is not satisfied as mentioned in section 65KK or 65KL, the Secretary must determine that the claimant is not entitled to be paid single income family supplement for the past period or because of the death of the other individual, as the case requires.
+                   If the Secretary is not satisfied as mentioned in section 65KK or 65KL, the Secretary must determine that the claimant is not entitled to be paid single income family supplement for the past period or because of the death of the other individual, as the case requires.
 
 ##### <a id="65KN"></a>65KN  When determination is in force
 
@@ -10001,26 +10001,9 @@ Omit “or remote area allowance”, substitute “, remote area allowance or cl
 
 <h9 class="ActHead9">Income Tax Assessment Act 1997</h9>
 
-## 1A  Section 11‑15 (table item headed “family assistance”)
+## 2  Section 11‑15 (at the end of the table item headed “family assistance”)
 
-After:
-
-<table>
-<colgroup>
-  <col width="73%">
-  <col width="28%">
-</colgroup>
-
-<tr>
-  <td>
-    <div>child care rebate....................................................................</div>
-  </td>
-  <td>
-    <div>52‑150</div>
-  </td>
-</tr></table>
-
-insert:
+Add:
 
 <table>
 <colgroup>
@@ -10035,18 +10018,7 @@ insert:
   <td>
     <div>52‑150</div>
   </td>
-</tr></table>
-
-## 2  Section 11‑15 (at the end of the table item headed “family assistance”)
-
-Add:
-
-<table>
-<colgroup>
-  <col width="75%">
-  <col width="25%">
-</colgroup>
-
+</tr>
 <tr>
   <td>
     <div>single income family supplement........................................</div>
@@ -10299,7 +10271,7 @@ Add:
   </td>
 </tr></table>
 
-## 16  Section 52‑150
+## 16  Subsection 52‑150(1)
 
 Omit “or single income family bonus”, substitute “, single income family bonus, clean energy advance or single income family supplement”.
 
@@ -10560,7 +10532,7 @@ of Assent</div>
     <div>21 Mar 2012</div>
   </td>
   <td>
-    <div>Schedule 6 (items 144, 145): <i>(a)</i></div>
+    <div>Schedule 6 (items 144, 145): \[ <i>see</i> <i>(a)</i>and Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -10653,7 +10625,8 @@ _(a)_     Subsection 2(1) (items 21 and 22) of the _Tax Laws Amendment
   </td>
   <td>
     <div>
-      14 May 2012
+      \[s
+        <i>ee</i>Note 2]
     </div>
   </td>
 </tr>
@@ -10671,65 +10644,83 @@ _(a)_     Subsection 2(1) (items 21 and 22) of the _Tax Laws Amendment
   </td>
   <td>
     <div>
-      14 May 2012
+      \[s
+        <i>ee</i>Note 2]
     </div>
   </td>
 </tr></table>
 
-## Table of Amendments
+### Note 2
+
+_Tax Laws Amendment (2011 Measures No. 9) Act 2012 (No. 12, 2012)_
+
+The following amendments commence immediately after 14 May 2012:
+
+## Schedule 6
+
+## 144  Item 16 of Schedule 10 (heading)
+
+Omit “**Subsection 52‑150(1)**”, substitute “**Section 52‑150**”.
+
+## 145  Item 2 of Schedule 10
+
+Repeal the item, substitute:
+
+1A  Section 11‑15 (table item headed “family assistance”)
+
+After:
 
 <table>
 <colgroup>
-  <col width="32%">
-  <col width="68%">
+  <col width="73%">
+  <col width="28%">
 </colgroup>
 
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
 <tr>
   <td>
-    <div><b>Schedule 10</b></div>
+    <div>child care rebate....................................................................</div>
   </td>
   <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 1A</div>
-  </td>
-  <td>
-    <div>ad. No. 12, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 2</div>
-  </td>
-  <td>
-    <div>rs. No. 12, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to item 16</div>
-  </td>
-  <td>
-    <div>am. No. 12, 2012</div>
+    <div>52‑150</div>
   </td>
 </tr></table>
+
+insert:
+
+<table>
+<colgroup>
+  <col width="75%">
+  <col width="25%">
+</colgroup>
+
+<tr>
+  <td>
+    <div>clean energy advance............................................................</div>
+  </td>
+  <td>
+    <div>52‑150</div>
+  </td>
+</tr></table>
+
+2  Section 11‑15 (at the end of the table item headed “family assistance”)
+
+Add:
+
+<table>
+<colgroup>
+  <col width="75%">
+  <col width="25%">
+</colgroup>
+
+<tr>
+  <td>
+    <div>single income family supplement........................................</div>
+  </td>
+  <td>
+    <div>52‑150</div>
+  </td>
+</tr></table>
+
+As at 9 May 2012 the amendments are not incorporated in this compilation.
 
  
