@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00821/Html/8f56eff9-d395-4d1c-8f83-38a9f0b748fa_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00463/Html/c5e569b5-b06c-41f3-96b8-41bc2fc1b1fa_files/image001.gif)
 
 # Human Services (Centrelink) Act 1997
 
 **Act No. 31 of 1997 as amended**
 
-This compilation was prepared on 14 November 2012
- taking into account amendments up to Act No. 136 of 2012
+This compilation was prepared on 1 July 2011
+ taking into account amendments up to Act No. 32 of 2011
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -53,7 +54,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 **Part 5—Miscellaneous**
 
-[38](#38).          Use of protected names and symbols
+[38](#38).          Use of protected names and symbols [_see_ Note 2]
 
 [39](#39).          Chief Executive Centrelink may charge for services
 
@@ -155,13 +156,23 @@ Note:          **_APS employee_** is defined in the _Acts Inte
 
                              (ii)  is, for any reason, unable to perform the duties of the position.
 
-Note:          For rules that apply to acting appointments, see sections 33AB and 33A of the _Acts Interpretation Act 1901_.
-
              (2)  A person must not be appointed under subsection (1) if the person is, or is acting as:
 
                      (a)  the Chief Executive Medicare; or
 
                      (b)  the Child Support Registrar.
+
+             (3)  Anything done by or in relation to a person purporting to act under an appointment under subsection (1) is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
+
+Note:          See sections 20 and 33A of the _Acts Interpretation Act 1901_.
 
 ##### <a id="8"></a>8  Functions of Chief Executive Centrelink
 
@@ -297,7 +308,7 @@ Commonwealth legislative power sufficient to support duty but State or Territory
 
 ## Part 5—Miscellaneous
 
-##### <a id="38"></a>38  Use of protected names and symbols
+##### <a id="38"></a>38  Use of protected names and symbols [_see_ Note 2]
 
              (1)  A person must not, without the Secretary’s written consent:
 
@@ -317,7 +328,7 @@ either:
 
                      (e)  a protected name, or a name so closely resembling a protected name as to be likely to be mistaken for it; or
 
-                      (f)  a protected symbol, or a symbol so closely resembling a protected symbol as to be likely to be mistaken for it.
+                      (f)  the protected symbol, or a symbol so closely resembling the protected symbol as to be likely to be mistaken for it.
 
                     Penalty:  30 penalty units.
 
@@ -565,7 +576,7 @@ of Assent</div>
     <div>11 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 1 (items 325–327): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(a)</i></div>
+    <div>Schedule 1 (items 325–327): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(a)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -599,7 +610,7 @@ of Assent</div>
     <div>15 Apr 2003</div>
   </td>
   <td>
-    <div>Schedule 3 (item 1): 15 Apr 2003</div>
+    <div>15 Apr 2003</div>
   </td>
   <td>
     <div>—</div>
@@ -635,7 +646,7 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Schedule 1 (items 1–43, 
-62–71): 1 Oct 2005 ( <i>see</i>F2005L02671)</div>
+62–71): 1 Oct 2005 ( <i>see</i>F2005L02671)</div>
   </td>
   <td>
     <div>Sch. 1 (items 
@@ -658,57 +669,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>Sch. 2 (items 
 49–75) \[ <i>see</i>Note 1]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2012</div>
-  </td>
-  <td>
-    <div>136, 2012</div>
-  </td>
-  <td>
-    <div>22 Sept 2012</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 21): <i>(c)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2012</div>
-  </td>
-  <td>
-    <div>136, 2012</div>
-  </td>
-  <td>
-    <div>22 Sept 2012</div>
-  </td>
-  <td>
-    <div>Schedule 4 (items 17, 18, 50): Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 4 (item 50)</div>
   </td>
 </tr></table>
 
@@ -801,62 +761,6 @@ _(b)_     Subsection 2(1) (item 2) of the _Designs (Consequential Amen
   <td>
     <div>
       17 June 2004
-    </div>
-  </td>
-</tr></table>
-
-_(c)_     Subsection 2(1) (item 19) of the _Statute Law Revision Act 2012_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      19\. Schedule 2, item 21
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the time specified in the
-        <i>Human Services Legislation Amendment Act 2011</i>for the commencement
-        of Schedule 2 to that Act.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2011
     </div>
   </td>
 </tr></table>
@@ -1060,22 +964,6 @@ _(c)_     Subsection 2(1) (item 19) of the _Statute Law Revision Act 2
   </td>
   <td>
     <div>ad. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 7A(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 136, 2012</div>
   </td>
 </tr>
 <tr>
@@ -1495,6 +1383,18 @@ _(c)_     Subsection 2(1) (item 19) of the _Statute Law Revision Act 2
   </td>
 </tr></table>
 
+### Note 2
+
+Paragraph 38(1)(f)—Schedule 2 (item 42) of the _Human Services Legislation Amendment Act 2011_ (No. 32, 2011) provides as follows:
+
+## Schedule 2
+
+## 42  Paragraph 38(1)(f)
+
+Omit “the protected symbol”, substitute “a protected symbol”.
+
+The proposed amendment was misdescribed and is not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -1688,15 +1588,5 @@ the Commonwealth must pay that person:
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Schedule.
 
 (2)       In particular, regulations may be made prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments or repeals made by this Schedule.
-
-* * *
-
-_Statute Law Revision Act 2012 (No. 136, 2012)_
-
-## Schedule 4
-
-## 50  Saving—appointments
-
-The amendments made by this Part do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
 
  
