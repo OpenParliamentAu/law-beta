@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00287/Html/69a72edb-ea00-4461-a5b6-1ff308035b85_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00646/Html/2dbd8212-d886-4dae-b404-fde3b09b1e8e_files/image001.gif)
 
 # Surveillance Devices Act 2004
 
 **Act No. 152 of 2004 as amended**
 
-This compilation was prepared on 28 February 2012
+This compilation was prepared on 16 August 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
@@ -1394,6 +1394,10 @@ Note:          Section 22 deals with applications for a retr
 
                     <a name="australian-fish-zone"></a>**_Australian fishing zone_** means the Australian fishing zone within the meaning of the _Fisheries Management Act 1991._
 
+                    <a name="contigu-zone"></a>**_contiguous zone_**, in relation to Australia, has the same meaning as in the _Seas and Submerged Lands Act 1973._
+
+                    <a name="territori-sea"></a>**_territorial sea_**, in relation to Australia, has the same meaning as in the _Seas and Submerged Lands Act 1973._
+
 ##### <a id="42"></a>42  Extraterritorial operation of warrants
 
              (1)  If, before the issue of a warrant in relation to the investigation of a relevant offence on an application made by or on behalf of a federal law enforcement officer, it becomes apparent to the applicant that there will be a need for surveillance:
@@ -1492,7 +1496,7 @@ the chief officer of the law enforcement agency to which the law enforcement off
 
                              (ii)  without the authority of an emergency authorisation that was subsequently approved; or
 
-                            (iii)  in a case where the information was obtained through the use of a surveillance device in a foreign country, or on a vessel or aircraft that is registered under the law of a foreign country and that is in or above waters beyond the outer limit of Australia’s territorial sea—without the agreement of the appropriate consenting official of that foreign country, and of any other foreign country, whose agreement is required under section 42;
+                            (iii)  in a case where the information was obtained through the use of a surveillance device in a foreign country, or on a vessel or aircraft that is registered under the law of a foreign country and that is in or above waters beyond the outer limit of Australia’s territorial sea (within the meaning of section 41)—without the agreement of the appropriate consenting official of that foreign country, and of any other foreign country, whose agreement is required under section 42;
 
                             in contravention of the requirement for such a warrant, tracking device authorisation or emergency authorisation.
 
@@ -2575,7 +2579,7 @@ Remainder: Royal Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 1099–1101) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 1099–1101) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11)</div>
@@ -2944,42 +2948,10 @@ _(c)_     Subsection 2(1) (item 17) of the _Statute Law Revision Act 2
 </tr>
 <tr>
   <td>
-    <div>S. 41</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 42</div>
   </td>
   <td>
     <div>am. No. 104, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 6</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 44</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
   </td>
 </tr>
 <tr>
@@ -2998,6 +2970,28 @@ _(c)_     Subsection 2(1) (item 17) of the _Statute Law Revision Act 2
     <div>am. No. 86, 2006</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 1099  Subsection 41(1) (definition of _contiguous zone_)
+
+Repeal the definition.
+
+## 1100  Subsection 41(1) (definition of _territorial sea_)
+
+Repeal the definition.
+
+## 1101  Subsection 44(1) (subparagraph (d)(iii) of the definition of _protected information_)
+
+Omit “(within the meaning of section 41)”.
+
+As at 16 August 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -3125,6 +3119,8 @@ Section 30 of the _Surveillance Devices Act 2004_ as amended by this Act appli
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
