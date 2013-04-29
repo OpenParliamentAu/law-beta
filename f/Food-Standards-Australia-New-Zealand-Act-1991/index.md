@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2009C00030/Html/FoodStandAusNZ1991_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00477/Html/FoodStandAusNZ1991_image001.gif)
 
 # Food Standards Australia New Zealand Act 1991
 
 **Act No. 118 of 1991 as amended**
 
-This compilation was prepared on 28 December 2008
+This compilation was prepared on 11 July 2007
  taking into account amendments up to Act No. 98 of 2007
 
 The text of any of those amendments not in force
@@ -133,24 +133,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [45](#45).          Matters to which Authority must have regard in making a decision under section 30
 
-        **Subdivision G—Procedure for certain variations of the Nutrition, Health and Related Claims Standard**
-
-[46](#46).          Application of Subdivision
-
-[47](#47).          Accepting the application
-
-[48](#48).          Notice of acceptance
-
-[49](#49).          Notice of the application to expert committee and Food Regulation Standing Committee
-
-[50](#50).          Considering the application
-
-[51](#51).          Calling for submissions
-
-[52](#52).          Approving the draft variation in relation to high level health claims
-
-[53](#53).          Notifying the Council
-
     **Division 2—Proposals for the development or variation of food regulatory measures** 
 
         **Subdivision A—Overview**
@@ -204,20 +186,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [72](#72).          Additional step after step set out in section 59
 
 [73](#73).          Matters to which Authority must have regard in making a decision under section 60
-
-        **Subdivision G—Procedure for certain variations of the Nutrition, Health and Related Claims Standard**
-
-[74](#74).          Application of Subdivision
-
-[75](#75).          Notice of the proposal
-
-[76](#76).          Considering the proposal
-
-[77](#77).          Calling for submissions
-
-[78](#78).          Approving the draft variation in relation to high level health claims
-
-[79](#79).          Notifying the Council
 
         **Subdivision H—Variations of the Maximum Residue Limits Standard**
 
@@ -515,10 +483,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="gm-product"></a>**_GM product_** has the same meaning as in the _Gene Technology Act 2000_.
 
-                    <a name="high-level-health-claim-committe"></a>**_High Level Health Claims Committee_**means a committee established under subsection 118(1A) to give advice on applications or proposals to make a high level health claims variation.
-
-                    <a name="high-level-health-claim-variat"></a>**_high level health claims variation_** means a variation, the only effect of which is to make a change to the list of high level health claims, as defined for the purposes of the Nutrition, Health and Related Claims Standard, that may be made under that standard.
-
                     <a name="maximum-residu-limit-standard"></a>**_Maximum Residue Limits Standard_** means the Maximum Residue Limits Standard as in force from time to time, or any standard in force in substitution for that standard.
 
                     <a name="member"></a>**_member_** means a member of the Board and includes the Chairperson and the Chief Executive Officer.
@@ -530,8 +494,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
                      (a)  a member of the Council; and
 
                      (b)  nominated by the government of New   Zealand to be the New Zealand lead Minister on the Council.
-
-                    <a name="nutrition-health-relat-claim-standard"></a>**_Nutrition, Health and Related Claims Standard_** means the Nutrition, Health and Related Claims Standard as in force from time to time, or any standard in force in substitution for that standard.
 
                     <a name="polici-guidelin"></a>**_policy guideline_** means a guideline formulated by the Council for the purposes of paragraph 18(2)(e).
 
@@ -945,15 +907,15 @@ and includes:
 
 * * *
 
-Step 1.    An application is made.
+_Step 1_.   An application is made.
 
-Step 2.    The Authority decides whether to accept or reject the application. If the application is accepted, the Authority proceeds to step 3.
+_Step 2_.   The Authority decides whether to accept or reject the application. If the application is accepted, the Authority proceeds to step 3.
 
-Step 3.    The Authority notifies the applicant of acceptance.
+_Step 3_.   The Authority notifies the applicant of acceptance.
 
-Step 4.    The Authority gives public notice of the application, indicating when the Authority proposes to undertake key steps in considering it.
+_Step 4_.   The Authority gives public notice of the application, indicating when the Authority proposes to undertake key steps in considering it.
 
-Step 5.    The Authority assesses the application.
+_Step 5_.   The Authority assesses the application.
 
               The Authority may, after assessing the application, either reject it or proceed to the next step.
 
@@ -961,19 +923,19 @@ Step 5.    The Authority assesses the application.
 
               In any other case, it is step 7.
 
-Step 6.    The Authority calls for public submissions.
+_Step 6_.   The Authority calls for public submissions.
 
-Step 7.    The Authority prepares a draft food regulatory measure or a draft variation of a food regulatory measure, as the case requires. If the Authority has called for submissions under step 6, the Authority must have regard to the submissions in doing so.
+_Step 7_.   The Authority prepares a draft food regulatory measure or a draft variation of a food regulatory measure, as the case requires. If the Authority has called for submissions under step 6, the Authority must have regard to the submissions in doing so.
 
-Step 8.    If the application is for a minor variation, the Authority calls for submissions from the applicant and appropriate government agencies.
+_Step 8._   If the application is for a minor variation, the Authority calls for submissions from the applicant and appropriate government agencies.
 
               In any other case, the Authority calls for public submissions.
 
-Step 9.    If the draft is a draft standard or a draft variation of a standard, the Authority must decide whether to approve or reject it and prepare a report, having regard to any submissions made. If approved, the Authority notifies the Council and the public of the approval and proceeds to step 10.
+_Step 9_.   If the draft is a draft standard or a draft variation of a standard, the Authority must decide whether to approve or reject it and prepare a report, having regard to any submissions made. If approved, the Authority notifies the Council and the public of the approval and proceeds to step 10.
 
               If the draft is a draft code of practice or a draft variation of a code of practice, the Authority must revoke or vary any existing code or practice and give public notice of its decision. No further steps are taken in relation to measures of this kind.
 
-Step 10 _._  The standard or variation comes into effect after it has been considered by the Council and published.
+_Step 10._ The standard or variation comes into effect after it has been considered by the Council and published.
 
 * * *
 
@@ -1021,7 +983,7 @@ Guidelines not subject to disallowance or sunsetting
 
 ##### <a id="24"></a>24  Withdrawal of applications
 
-             (1)  An applicant may withdraw the applicant’s application by giving written notice of the withdrawal to the Authority at any time after the Authority has accepted the application under paragraph 26(1)(a) or 47(1)(a), but before:
+             (1)  An applicant may withdraw the applicant’s application by giving written notice of the withdrawal to the Authority at any time after the Authority has accepted the application under paragraph 26(1)(a), but before:
 
                      (a)  the Authority approves a draft food regulatory measure, or a draft variation of a food regulatory measure, as a result of the application; or
 
@@ -1029,25 +991,19 @@ Guidelines not subject to disallowance or sunsetting
 
              (2)  If the Authority receives notice of the withdrawal of an application after the applicant pays a charge fixed under section 146, the Authority must refund to the applicant so much of the charge as is equivalent to the sum paid by the applicant but not expended from the charge, calculated in accordance with the regulations.
 
-             (3)  If the Authority receives notice of the withdrawal of an application after public notice of the application has been given under section 28 or 51, the Authority must give public notice that the application has been withdrawn.
+             (3)  If the Authority receives notice of the withdrawal of an application after public notice of the application has been given under section 28, the Authority must give public notice that the application has been withdrawn.
 
 #### Subdivision C—Procedures for considering applications
 
 ##### <a id="25"></a>25  Which procedure is appropriate?
 
-             (1)  The Authority must adopt the general  procedure  in considering an application for the development of a food regulatory measure or the variation of a food regulatory measure, unless:
+                   The Authority must adopt the general  procedure  in considering an application for the development of a food regulatory measure or the variation of a food regulatory measure, unless:
 
                      (a)  the application is one to which Subdivision E applies (application for a minor variation of a food regulatory measure); or
 
                      (b)  the application is one to which Subdivision F applies (application for the development of a new food regulatory measure or a major variation of a food regulatory measure); or
 
-                     (c)  the application is one to which Subdivision G  applies (application for a high level health claims variation); or
-
                      (d)  the application is declared to be an urgent application for the purposes of this Part under section 95.
-
-Where an application for a high level health claims variation is included in an application for a variation of another kind
-
-             (2)  If a person applies for a high level health claims variation and a variation of another kind in a single application, then, for the purposes of this Act, the person is taken to have made an application for a high level health claims variation and a separate application for the other kind of variation.
 
 #### Subdivision D—General procedure
 
@@ -1431,208 +1387,6 @@ Note:          The process followed by the Council after recei
 
 Note:          This does not limit the other matters to which the Authority must have regard in making a decision under section 30.
 
-#### Subdivision G—Procedure for certain variations of the Nutrition, Health and Related Claims Standard
-
-##### <a id="46"></a>46  Application of Subdivision
-
-                   This Subdivision applies to an application if:
-
-                     (a)  the application is made for the variation of the Nutrition, Health and Related Claims Standard; and
-
-                     (b)  the variation sought is a high level health claims variation.
-
-Note:          If an application to vary the Nutrition, Health and Related Claims Standard would not involve a change to the list of high level health claims that may be made under the Standard, the general procedure applies—see Subdivisions D, E and F.
-
-##### <a id="47"></a>47  Accepting the application
-
-             (1)  The Authority must, within 15 business days after the application is given to the Authority:
-
-                     (a)  accept the application; or
-
-                     (b)  reject the application.
-
-             (2)  In determining whether to accept or reject the application, the Authority must have regard to the following matters:
-
-                     (a)  whether the application complies with subsection 22(2);
-
-                     (b)  whether the application is so similar to a previous application or proposal for a high level health claims variation that it ought to be rejected;
-
-                     (c)  any other relevant matter.
-
-             (3)  If an application is rejected because it does not comply with subsection 22(2), the application must be disregarded for the purposes of determining whether a later application or proposal for the variation of the standard is so similar to a previous application or proposal that the later application ought to be rejected.
-
-##### <a id="48"></a>48  Notice of acceptance
-
-             (1)  If the Authority accepts the application, the Authority must notify the applicant immediately in writing:
-
-                     (a)  that the application has been accepted; and
-
-                     (b)  in the case of an applicant who has applied for the variation of a standard and on whom an exclusive capturable commercial benefit would be conferred if the standard were made or varied in the manner sought in the application:
-
-                              (i)  that the applicant must pay the charge fixed under subparagraph 146(6)(b)(i) or, if the charge is payable in instalments, the first instalment of the charge, within 20 business days after the notification is given; and
-
-                             (ii)  that the application will be rejected if the charge, or the first instalment of the charge, is not paid within that period; and
-
-                     (c)  in any other case—that the applicant may, if the applicant elects to have the consideration of the application expedited, pay the charge fixed under subparagraph 146(6)(b)(ii) or, if the charge is payable in instalments, the first instalment of the charge.
-
-             (2)  The Authority must give notice in writing to the applicant:
-
-(a) identifying the procedure that the Authority will adopt in considering the application; and
-
-                     (b)  indicating when the Authority proposes to undertake the key steps in the procedure;
-
-within:
-
-                     (c)  if the applicant pays a charge, or the first instalment of a charge, mentioned in paragraph (1)(b) within the period mentioned in that paragraph—5 business days after that payment; or
-
-                     (d)  if the applicant pays a charge, or the first instalment of a charge, mentioned in paragraph (1)(c), within 20 business days after notice is given to the applicant under subsection (1) (the **_early payment period_**)—5 business days after that payment; or
-
-                     (e)  in any other case—within 25 business days after notice is given to the applicant under subsection (1).
-
-             (3)  If the applicant pays a charge, or the first instalment of a charge, mentioned in paragraph (1)(c) after the end of the early payment period, the Authority must, within 5 business days after that payment, again give the applicant notice of the matters mentioned in subsection (2), including an update on when the Authority now proposes to undertake the key steps in the procedure.
-
-##### <a id="49"></a>49  Notice of the application to expert committee and Food Regulation Standing Committee
-
-             (1)  If the Authority accepts the application, the Authority must also give notice of the matters mentioned in subsection (2) to:
-
-                     (a)  the High Level Health Claims Committee established for the purpose of making recommendations on the application, or applications of that kind; and
-
-                     (b)  the Food Regulation Standing Committee.
-
-Content of notice
-
-             (2)  The notice must:
-
-                     (a)  state that the Authority has received an application for a high level health claims variation; and
-
-                     (b)  state the date on which the application was received by the Authority; and
-
-                     (c)  state the name of the applicant; and
-
-                     (d)  give a summary of the application; and
-
-                     (e)  state that the Authority has accepted the application; and
-
-                      (f)  identify the procedure that the Authority will adopt in considering the application; and
-
-                     (g)  indicate when the Authority proposes to undertake the key steps in that procedure.
-
-Period within which notice must be given
-
-             (3)  The notice must be given:
-
-                     (a)  if the applicant pays a charge, or the first instalment of a charge, mentioned in subparagraph 48(1)(b)(i) within the period mentioned in that subparagraph—within 5 business days after that payment; or
-
-                     (b)  if the applicant pays a charge mentioned in paragraph 48(1)(c) within 20 business days after notice is given to the applicant under section 48 (the **_early payment period_**)—within 5 business days after that payment; or
-
-                     (c)  in any other case—within 25 business days after notice is given to the applicant under section 48.
-
-Exclusive capturable commercial benefit—fee not paid
-
-             (4)  If an applicant:
-
-                     (a)  who applies for a high level health claims variation; and
-
-                     (b)  on whom an exclusive capturable commercial benefit would be conferred if the standard were made or varied in the manner sought in the application;
-
-does not pay the charge, or the first instalment of the charge, mentioned in subparagraph 48(1)(b)(i) within the period mentioned in that subparagraph:
-
-                     (c)  the Authority must reject the application; and
-
-                     (d)  the Authority need not give notice under this section.
-
-Fee to expedite consideration paid after early payment period
-
-             (5)  If an applicant pays a charge, or the first instalment of a charge, mentioned in paragraph 48(1)(c) after the end of the early payment period, the Authority must, within 5 business days after that payment, again give public notice of the matters mentioned in subsection (2), including an update on when the Authority now proposes to undertake the key steps in the procedure.
-
-##### <a id="50"></a>50  Considering the application
-
-             (1)  The Authority must consider whether to approve a draft high level health claims variation.
-
-             (2)  Before approving such a draft variation, the Authority must:
-
-                     (a)  be satisfied that the approval of the draft variation will meet the following objectives:
-
-                              (i)  the protection of public health and safety;
-
-                             (ii)  the provision of adequate information relating to food to enable consumers to make informed choices;
-
-                            (iii)  the prevention of misleading or deceptive conduct; and
-
-                     (b)  assess the draft variation against the criteria set out in the Nutrition, Health and Related Claims Standard in relation to high level health claims, taking into account any recommendations made by the High Level Health Claims Committee in relation to the draft variation or the application that resulted in the draft variation; and
-
-                     (c)  take into account any submission made on behalf of a jurisdiction represented on the Food Regulation Standing Committee in relation to the draft variation or the application that resulted in the draft variation; and
-
-                     (d)  if the applicant has elected that the Authority give public notice under section 51 calling for submissions, consider all submissions made during the submission period.
-
-             (3)  If:
-
-                     (a)  the Authority prepares a draft high level health claims variation; and
-
-                     (b)  the draft variation differs from that sought in the application as a result of which it was prepared, or was not sought in the application at all;
-
-the Authority must give the applicant notice in writing of that fact and, if the applicant has elected that the Authority give public notice calling for submissions under section 51, state in the notice that the Authority will call for submissions for the purpose of assessing the draft variation.
-
-             (4)  The Authority must not give public notice calling for submissions under section 51 within 10 business days immediately after notice is given under subsection (3) of this section.
-
-##### <a id="51"></a>51  Calling for submissions
-
-             (1)  When applying for a high level health claims variation, the applicant may elect to have the Authority give public notice under this section calling for submissions.
-
-             (2)  If the applicant has made an election under subsection (1), the Authority must give public notice of the matters mentioned in subsection (3).
-
-             (3)  The notice must:
-
-                     (a)  state that the Authority has prepared a draft high level health claims variation; and
-
-                     (b)  include a copy of the draft variation, or state how a copy of the draft variation can be obtained; and
-
-                     (c)  call for written submissions, for the purpose of the Authority’s consideration of the draft variation, to be given to the Authority within the period specified in the notice (the **_submission period_**).
-
-##### <a id="52"></a>52  Approving the draft variation in relation to high level health claims
-
-             (1)  After considering whether to approve a draft high level health claims variation and, if notice calling for submissions is given under section 51, after the submission period, the Authority must:
-
-                     (a)  do one of the following:
-
-                              (i)  approve the draft high level health claims variation;
-
-                             (ii)  reject the draft high level health claims variation; and
-
-                     (b)  prepare a report under this section.
-
-Note:          The Board must not delegate its powers to act on behalf of the Authority under paragraph (a)—see section 150.
-
-             (2)  The report must include each of the following:
-
-                     (a)  the reasons for initially accepting the application;
-
-                     (b)  a summary of the recommendations (if any) of the High Level Health Claims Committee in relation to the application and each draft variation that resulted from the application;
-
-                     (c)  a summary of the submissions (if any) made by members of the Food Regulation Standing Committee in relation to the application and each draft variation that resulted from the application;
-
-                     (d)  a summary of the submissions (if any) received by the Authority within the submission period in response to a notice under section 51, if such notice was given;
-
-                     (e)  the Authority’s response to the issues raised in those submissions;
-
-                      (f)  the Authority’s reasons for approving the draft variation or rejecting the application.
-
-##### <a id="53"></a>53  Notifying the Council
-
-             (1)  If the Authority approves a draft high level health claims variation, the Authority must, within 10 business days after the approval:
-
-                     (a)  give the Council:
-
-                              (i)  a written notification of the approval; and
-
-                             (ii)  a copy of the report prepared by the Authority under section 52; and
-
-                     (b)  if submissions were called for under section 51—give public notice of the decision.
-
-             (2)  If the Authority has notified the Council under subsection (1), the Council may direct the Authority to give the Council such information as the Council reasonably requires for the purpose of assisting the Council to make a decision about the draft under Division 3.
-
-Note:          The process followed by the Council after receiving notification under this section is set out in Division 3.
-
 ### Division 2—Proposals for the development or variation of food regulatory measures
 
 #### Subdivision A—Overview
@@ -1643,15 +1397,15 @@ Note:          The process followed by the Council after recei
 
 * * *
 
-Step 1.    A proposal is prepared.
+_Step 1_.   A proposal is prepared.
 
-Step 2\. As the Authority prepares the proposal, there is no equivalent to step 2 of the applications procedure in which the application is accepted or rejected.
+_Step 2._ As the Authority prepares the proposal, there is no equivalent to step 2 of the applications procedure in which the application is accepted or rejected.
 
-Step 3 _._    As the Authority prepares the proposal, there is no equivalent to step 3 of the applications procedure in which the Authority notifies the applicant of acceptance.
+_Step 3._   As the Authority prepares the proposal, there is no equivalent to step 3 of the applications procedure in which the Authority notifies the applicant of acceptance.
 
-Step 4 _._    The Authority gives public notice of the proposal, indicating when the Authority proposes to undertake key steps in considering it.
+_Step 4._   The Authority gives public notice of the proposal, indicating when the Authority proposes to undertake key steps in considering it.
 
-Step 5 _._    The Authority assesses the proposal.
+_Step 5._   The Authority assesses the proposal.
 
               The Authority may, after assessing the proposal, either abandon it or proceed to the next step.
 
@@ -1659,19 +1413,19 @@ Step 5 _._    The Authority assesses the proposal.
 
               In any other case, it is step 7.
 
-Step 6 _._    The Authority calls for public submissions.
+_Step 6._   The Authority calls for public submissions.
 
-Step 7 _._    The Authority prepares a draft food regulatory measure or a draft variation of a food regulatory measure, as the case requires. If the Authority has called for submissions under step 6, the Authority must have regard to the submissions in doing so.
+_Step 7._   The Authority prepares a draft food regulatory measure or a draft variation of a food regulatory measure, as the case requires. If the Authority has called for submissions under step 6, the Authority must have regard to the submissions in doing so.
 
-Step 8 _._    If the proposal is for a minor variation, the Authority calls for submissions from the applicant and appropriate government agencies.
+_Step 8._   If the proposal is for a minor variation, the Authority calls for submissions from the applicant and appropriate government agencies.
 
               In any other case, the Authority calls for public submissions.
 
-Step 9 _._    If the draft is a draft standard or a draft variation of a standard, the Authority must decide whether to approve or reject it and prepare a report, having regard to any submissions made. If approved, the Authority notifies the Council and the public of the approval and proceeds to step 10.
+_Step 9._   If the draft is a draft standard or a draft variation of a standard, the Authority must decide whether to approve or reject it and prepare a report, having regard to any submissions made. If approved, the Authority notifies the Council and the public of the approval and proceeds to step 10.
 
               If the draft is a draft code of practice or a draft variation of a code of practice, the Authority must revoke or vary any existing code of practice and give public notice of its decision. No further steps are taken in relation to measures of this kind.
 
-Step 10 _._  The standard or variation comes into effect after it has been considered by the Council and published.
+_Step 10._ The standard or variation comes into effect after it has been considered by the Council and published.
 
 * * *
 
@@ -1687,7 +1441,7 @@ Step 10 _._  The standard or variation comes into effect after it has been con
 
              (1)  The Authority may abandon a proposal at any time.
 
-             (2)  However, if the Authority abandons a proposal after public notice has been given under section 58 or 77, the Authority must give public notice of the matters mentioned in subsection (3).
+             (2)  However, if the Authority abandons a proposal after public notice has been given under section 58, the Authority must give public notice of the matters mentioned in subsection (3).
 
              (3)  The notice must:
 
@@ -1704,8 +1458,6 @@ Step 10 _._  The standard or variation comes into effect after it has been con
                      (a)  the proposal is one to which Subdivision E applies (proposal for a minor variation of a food regulatory measure); or
 
                      (b)  the proposal is one to which Subdivision F applies (proposal for the development of a new food regulatory measure, or a major variation of a food regulatory measure); or
-
-                     (c)  the proposal is one to which Subdivision G  applies (proposal for a high level health claims variation); or
 
                      (d)  the proposal is one to which Subdivision H applies (proposal for a variation of the Maximum Residue Limits Standard); or
 
@@ -2003,121 +1755,11 @@ Note:          Subdivision H requires the Authority to propose
 
                      (c)  call for written submissions on matters relevant to the proposal to be given to the Authority within the period specified in the notice (the **_submission period_**).
 
-##### <a id="73"></a>73  Matters to which Authority must have regard in making a decision under section 60
+##### <a id="73"></a>73  Matters to which Authority must have regard in making a decision under section 60
 
                    The Authority must have regard to all submissions made during the submission period in making a decision under section 60.
 
 Note:          This does not limit the other matters to which the Authority must have regard in making a decision under section 60.
-
-#### Subdivision G—Procedure for certain variations of the Nutrition, Health and Related Claims Standard
-
-##### <a id="74"></a>74  Application of Subdivision
-
-                   This Subdivision applies to a proposal if:
-
-                     (a)  the proposal is for the variation of the Nutrition, Health and Related Claims Standard; and
-
-                     (b)  the variation proposed is a high level health claims variation.
-
-Note:          If a proposal to vary the Nutrition, Health and Related Claims Standard would not involve a change to the list of high level health claims that may be made under the Standard, the general procedure applies—see Subdivisions D, E and F.
-
-##### <a id="75"></a>75  Notice of the proposal
-
-             (1)  The Authority must give public notice of the matters mentioned in subsection (3).
-
-             (2)  The Authority must also give notice of the matters mentioned in subsection (3) to:
-
-                     (a)  the High Level Health Claims Committee established for the purpose of making recommendations on the proposal, or proposals of that kind; and
-
-                     (b)  the Food Regulation Standing Committee.
-
-             (3)  The notice must:
-
-                     (a)  state that the Authority proposes to make a high level health claims variation; and
-
-                     (b)  give a summary of the proposal; and
-
-                     (c)  identify the procedure that the Authority will adopt in considering the proposal; and
-
-                     (d)  indicate when the Authority proposes to undertake the key steps in that procedure.
-
-##### <a id="76"></a>76  Considering the proposal
-
-             (1)  The Authority must consider whether to approve a draft high level health claims variation.
-
-             (2)  Before approving such a draft variation, the Authority must:
-
-                     (a)  be satisfied that the approval of the draft variation will meet the following objectives:
-
-                              (i)  the protection of public health and safety;
-
-                             (ii)  the provision of adequate information relating to food to enable consumers to make informed choices;
-
-                            (iii)  the prevention of misleading or deceptive conduct; and
-
-                     (b)  assess the draft variation against the criteria set out in the Nutrition, Health and Related Claims Standard in relation to high level health claims, taking into account any recommendations made by the High Level Health Claims Committee in relation to the draft variation or the proposal that resulted in the draft variation; and
-
-                     (c)  take into account any submission made on behalf of a jurisdiction represented on the Food Regulation Standing Committee in relation to the draft variation or the proposal that resulted in the draft variation; and
-
-                     (d)  all submissions made during the submission period.
-
-##### <a id="77"></a>77  Calling for submissions
-
-             (1)  The Authority must give public notice of the matters mentioned in subsection (3) before a high level health claims variation is approved as a result of a proposal.
-
-             (2)  The Authority must also give notice of the matters mentioned in subsection (3) to the Food Regulation Standing Committee before a high level health claims variation is approved.
-
-             (3)  The notice must:
-
-                     (a)  state that the Authority has prepared a draft high level health claims variation; and
-
-                     (b)  include a copy of the draft variation, or state how a copy of the draft variation can be obtained; and
-
-                     (c)  call for written submissions, for the purpose of the Authority’s consideration of the draft variation, to be given to the Authority within the period specified in the notice (the **_submission period_**).
-
-##### <a id="78"></a>78  Approving the draft variation in relation to high level health claims
-
-             (1)  After the submission period, the Authority must:
-
-                     (a)  do one of the following:
-
-                              (i)  approve a draft high level health claims variation;
-
-                             (ii)  abandon the proposal to vary the list; and
-
-                     (b)  prepare a report under this section.
-
-Note:          The Board must not delegate its powers to act on behalf of the Authority under paragraph (a)—see section 150.
-
-             (2)  The report must include each of the following:
-
-                     (a)  the reasons for initially preparing the proposal;
-
-                     (b)  a summary of the recommendations (if any) of the High Level Health Claims Committee in relation to the proposal and each draft variation that resulted from the proposal;
-
-                     (c)  a summary of the submissions (if any) made by members of the Food Regulation Standing Committee in relation to the proposal and each draft variation that resulted from the proposal;
-
-                     (d)  a summary of the submissions (if any) received by the Authority within the submission period in response to a notice under section 77;
-
-                     (e)  the Authority’s response to the issues raised in those recommendations and submissions;
-
-                      (f)  the Authority’s reasons for approving the draft variation or abandoning the proposal.
-
-##### <a id="79"></a>79  Notifying the Council
-
-             (1)  If the Authority approves a draft high level health claims variation, the Authority must, within 10 business days after the approval:
-
-                     (a)  give the Council:
-
-                              (i)  a written notification of the approval; and
-
-                             (ii)  a copy of the report prepared by the Authority under section 78; and
-
-                     (b)  if submissions were called for under section 77—give public notice of the decision.
-
-             (2)  If the Authority has notified the Council under subsection (1), the Council may direct the Authority to give the Council such information as the Council reasonably requires for the purpose of assisting the Council to make a decision about the draft under Division 3.
-
-Note:          The process followed by the Council after receiving notification under this section is set out in Division 3.
 
 #### Subdivision H—Variations of the Maximum Residue Limits Standard
 
@@ -2149,7 +1791,7 @@ Note:          The process followed by the Council after recei
 
 ##### <a id="84"></a>84  Council may request a first review
 
-             (1)  If the Authority notifies the Council under section 34, 41, 53, 64, 69 or 79 that the Authority has approved a draft standard or variation (with or without amendments), the Council must, within 60 days after the notification:
+             (1)  If the Authority notifies the Council under section 34, 41, 64 or 69 that the Authority has approved a draft standard or variation (with or without amendments), the Council must, within 60 days after the notification:
 
                      (a)  request the Authority to review the draft; or
 
@@ -2415,7 +2057,7 @@ if:
 
              (6)  The following do not apply to an urgent application or urgent proposal:
 
-                     (a)  Subdivisions C to G of Division 1 of this Part;
+                     (a)  Subdivisions C to F of Division 1 of this Part;
 
                      (b)  Subdivisions C to H of Division 2 of this Part;
 
@@ -2707,13 +2349,13 @@ the Authority may request the applicant to provide it with such further informat
 
              (2)  If the applicant refuses or fails to comply with the request within the period specified in the request, without reasonable excuse, the application is taken to have been withdrawn. The Authority must give written notice of that fact to the applicant.
 
-             (3)  If an application is taken to have been withdrawn under subsection (2) after public notice of the application is given under section 28 or 51, the Authority must give public notice that the application is taken to have been withdrawn under subsection (2).
+             (3)  If an application is taken to have been withdrawn under subsection (2) after public notice of the application is given under section 28, the Authority must give public notice that the application is taken to have been withdrawn under subsection (2).
 
 ##### <a id="109"></a>109  Period within which consideration of applications for standards or variations must be completed
 
 Applications must be considered within the consideration period
 
-             (1)  If the Authority accepts an application under section 26 or 47 for the development of a standard or the variation of a standard, the Authority must complete the procedure that the Authority must, under Subdivision C of Division 1, adopt in the consideration of the application within the consideration period.
+             (1)  If the Authority accepts an application under section 26 for the development of a standard or the variation of a standard, the Authority must complete the procedure that the Authority must, under Subdivision C of Division 1, adopt in the consideration of the application within the consideration period.
 
 Consideration period
 
@@ -2799,7 +2441,7 @@ the Authority must comply with the notice requirements set out in subsection (
 
                      (a)  the Authority must give notice in writing of the rejection, and the reasons for the rejection, to the applicant;
 
-                     (b)  if the Authority rejects the application after public notice is given under section 28 or 51, the Authority must give public notice of the rejection, and the reasons for the rejection;
+                     (b)  if the Authority rejects the application after public notice is given under section 28, the Authority must give public notice of the rejection, and the reasons for the rejection;
 
                      (c)  if the rejection occurs after a draft food regulatory measure or a draft variation of a food regulatory measure has been prepared as a result of the application—the Authority must give notice in writing of the rejection to the Council.
 
@@ -2825,13 +2467,13 @@ the Authority must comply with the notice requirements set out in subsection (
 
              (5)  The notice requirements for the purposes of subsection (4) are as follows:
 
-                     (a)  if the Authority abandons the proposal after public notice is given under section 58 or 77, the Authority must give public notice of the abandonment, and the reasons for the abandonment;
+                     (a)  if the Authority abandons the proposal after public notice is given under section 58, the Authority must give public notice of the abandonment, and the reasons for the abandonment;
 
                      (b)  if the abandonment occurs after a draft food regulatory measure or a draft variation of a food regulatory measure has been prepared as a result of the proposal—the Authority must give notice in writing of the abandonment to the Council.
 
 ##### <a id="111"></a>111  Public hearings
 
-             (1)  The Authority may, at the discretion of the Authority, conduct a public hearing at any point during the consideration of an application or proposal for the development or variation of a food regulatory measure, other than an application for a high level health claims variation.
+             (1)  The Authority may, at the discretion of the Authority, conduct a public hearing at any point during the consideration of an application or proposal for the development or variation of a food regulatory measure.
 
              (2)  If the consideration of an application or proposal includes a public hearing, the Authority, having regard to the confidential nature of any evidence or matter or for any other reason, may direct that any part of the hearing be held in private and determine who may attend.
 
@@ -2843,11 +2485,11 @@ the Authority must comply with the notice requirements set out in subsection (
 
              (1)  The Authority may decide, in writing, not to do something that it is required to do under this Part in relation to an application made under section 22, or a proposal prepared under section 55, if the Authority considers that doing the thing would be a duplication of work already done, or a process already gone through, by another government agency.
 
-             (2)  If the decision relates to an application in relation to which public notice has been given under section 28 or 51, the Authority must give public notice of its decision.
+             (2)  If the decision relates to an application in relation to which public notice has been given under section 28, the Authority must give public notice of its decision.
 
              (3)  If the decision relates to an application in relation to which public notice has not, or not yet, been given under those sections, the Authority must give notice of its decision to the applicant.
 
-             (4)  If the decision relates to a proposal in relation to which public notice has been given under section 58 or 77, the Authority must give public notice of its decision.
+             (4)  If the decision relates to a proposal in relation to which public notice has been given under section 58, the Authority must give public notice of its decision.
 
              (5)  The public notice must:
 
@@ -3173,10 +2815,6 @@ whichever first happens.
 
              (1)  The Board may establish such committees as it thinks fit to assist it in carrying out its functions, and may abolish any such committee.
 
-          (1A)  The Board may establish such committees as it thinks fit to make recommendations on applications or proposals for a high level health claims variation.
-
-          (1B)  The Authority must not consider an application or proposal for a high level health claim variation, unless a committee is established to consider the application or proposal, or applications or proposals of that kind.
-
              (2)  A committee established under this section consists of such persons (whether members of the Board or not) as the Board from time to time appoints.
 
              (3)  The Board may give to a committee established under this section such directions as it thinks fit, including:
@@ -3197,7 +2835,7 @@ whichever first happens.
 
                             (vi)  the disclosure of members’ interests in matters being considered by the committee.
 
-             (4)  In exercising its powers under subsection (1), (1A), (2) or (3), the Authority must comply with any directions given to it by the Council.
+             (4)  In exercising its powers under subsection (1), (2) or (3), the Authority must comply with any directions given to it by the Council.
 
              (5)  The Board must keep the Council informed of:
 
@@ -3365,15 +3003,11 @@ the Minister may terminate the appointment of the member.
 
                      (c)  paragraph 41(2)(a); or
 
-                     (d)  paragraph 52(1)(a); or
-
                      (e)  paragraph 63(1)(a); or
 
                       (f)  subsection 65(1); or
 
                      (g)  paragraph 69(2)(a); or
-
-                     (h)  paragraph 78(1)(a); or
 
                       (i)  subsection 84(6) or 85(6); or
 
@@ -3525,8 +3159,6 @@ for:
 
                              (ii)  a decision by the Authority under paragraph 30(1)(b) to reject an application; or
 
-                            (iii)  a decision by the Authority under paragraph 47(1)(b) to reject an application, other than a decision to reject the application because it does not comply with subsection 22(2); or
-
                             (iv)  a decision by the Authority under paragraph 96(1)(b) to reject an application; or
 
                      (b)  by a person whose interests are affected by one of the following decisions, for a review of that decision:
@@ -3635,15 +3267,11 @@ on the amount unpaid computed from that time.
 
                      (c)  paragraph 41(2)(a); or
 
-                     (d)  paragraph 52(1)(a); or
-
                      (e)  paragraph 63(1)(a); or
 
                       (f)  subsection 65(1); or
 
                      (g)  paragraph 69(2)(a); or
-
-                     (h)  paragraph 78(1)(a); or
 
                       (i)  paragraphs 84(6)(a), (b) or (c) or 85(6)(a), (b) or (c); or
 
@@ -3715,8 +3343,6 @@ in respect of that food and that the food complies with the standard.
 
                      (c)  the number of applications that were considered under Subdivision F of Division 1 of Part 3 during that year; and
 
-                     (d)  the number of applications that were considered under Subdivision G of Division 1 of Part 3 during that year; and
-
                      (e)  for each of those Subdivisions, the number of applications considered under that Subdivision that were disposed of during that year and the manner of their disposal; and
 
                       (f)  for each of those Subdivisions, the average time taken to dispose of applications during that year; and
@@ -3737,13 +3363,9 @@ in respect of that food and that the food complies with the standard.
 
                      (n)  the number of proposals so made that were disposed of during that year and the manner of their disposal; and
 
-                     (o)  the average time taken to dispose of proposals under each of Subdivisions D, E, F, G and H of Division 2 of Part 3 during that year; and
+                     (o)  the average time taken to dispose of proposals under each of Subdivisions D, E, F and H of Division 2 of Part 3 during that year; and
 
-                     (p)  the average number of days that have elapsed:
-
-                              (i)  between the preparation of a proposal under section 55 to which Subdivision G of Division 1 of Part 3 does not apply and the commencement of the assessment of the proposal under section 59; and
-
-                             (ii)  between the preparation of a proposal under section 81 and the commencement of the assessment of the proposal under section 59; and
+                     (p)  the average number of days that elapsed between the preparation of a proposal during that year under each of sections 55 and 81 and the commencement of the assessment of the proposal under section 59; and
 
                      (q)  the number of applications made to the Administrative Appeals Tribunal during that year for review of decisions of the Authority; and
 
@@ -3755,9 +3377,7 @@ in respect of that food and that the food complies with the standard.
 
                               (i)  section 33;
 
-                             (ii)  section 41;
-
-                            (iii)  section 52; and
+                             (ii)  section 41; and
 
                      (u)  the number of occasions during that year when requests were made by the Council under Division 3 of Part 3 for a review of a draft standard or draft variation; and
 
@@ -4138,9 +3758,9 @@ Remainder: Royal Assent</div>
   <td>
     <div>Schedule 1 (items 1–63): 1 July 2007 ( <i>see</i>F2007L01822) 
 Schedule 1 (items 64–78): <i>(g)</i> 
-Schedule 2: 28 Dec 2008 
-Schedule 3 (items 1–9): \[ <i>see</i> <i>(g)</i>and Note 2] 
-Schedule 3 (item 10): <i>(g)</i> 
+Schedule 2: \[ <i>see</i>Note 2] 
+Schedule 3 (items 1–9): \[ <i>see</i>Note 2] 
+Schedule 3 (item 10): \[ <i>see</i>Note 2] 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -4506,7 +4126,8 @@ _(g)_     Subsection 2(1) (items 2–6, 8 and 9) of the _Food Standard
   </td>
   <td>
     <div>
-      Does not commence
+      \[
+        <i>see</i>Note 2]
     </div>
   </td>
 </tr></table>
@@ -4938,14 +4559,6 @@ The amendment history of the _Food Standards__Australia__New Zealand__Act 1991_ 
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 98, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Subdivision C</b></div>
   </td>
   <td>
@@ -4966,14 +4579,6 @@ The amendment history of the _Food Standards__Australia__New Zealand__Act 1991_ 
   </td>
   <td>
     <div>rs. No. 200, 1999; No. 81, 2001; No. 98, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 98, 2007</div>
   </td>
 </tr>
 <tr>
@@ -5370,22 +4975,6 @@ The amendment history of the _Food Standards__Australia__New Zealand__Act 1991_ 
 </tr>
 <tr>
   <td>
-    <div><b>Subdivision G</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 46–53</div>
-  </td>
-  <td>
-    <div>ad. No. 98, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Division 2</b></div>
   </td>
   <td>
@@ -5394,12 +4983,18 @@ The amendment history of the _Food Standards__Australia__New Zealand__Act 1991_ 
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 1 of Part 3 
-Renumbered Div. 2</div>
+    <div>Heading to Div. 1 of Part 3</div>
   </td>
   <td>
-    <div>rs. No. 200, 1999 
-No. 81, 2001</div>
+    <div>rs. No. 200, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Renumbered Div. 2...........</div>
+  </td>
+  <td>
+    <div>No. 81, 2001</div>
   </td>
 </tr>
 <tr>
@@ -5444,26 +5039,10 @@ No. 81, 2001</div>
 </tr>
 <tr>
   <td>
-    <div>S. 55</div>
+    <div>Ss. 55, 56</div>
   </td>
   <td>
     <div>ad. No. 98, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 56</div>
-  </td>
-  <td>
-    <div>ad. No. 98, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 98, 2007</div>
   </td>
 </tr>
 <tr>
@@ -5480,14 +5059,6 @@ No. 81, 2001</div>
   </td>
   <td>
     <div>ad. No. 98, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 98, 2007</div>
   </td>
 </tr>
 <tr>
@@ -5540,22 +5111,6 @@ No. 81, 2001</div>
 </tr>
 <tr>
   <td>
-    <div><b>Subdivision G</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 74–79</div>
-  </td>
-  <td>
-    <div>ad. No. 98, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Subdivision H</b></div>
   </td>
   <td>
@@ -5596,23 +5151,7 @@ No. 81, 2001</div>
 </tr>
 <tr>
   <td>
-    <div>S. 84</div>
-  </td>
-  <td>
-    <div>ad. No. 98, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 98, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 85–87</div>
+    <div>Ss. 84–87</div>
   </td>
   <td>
     <div>ad. No. 98, 2007</div>
@@ -5652,23 +5191,7 @@ No. 81, 2001</div>
 </tr>
 <tr>
   <td>
-    <div>S. 95</div>
-  </td>
-  <td>
-    <div>ad. No. 98, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 98, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 96, 97</div>
+    <div>Ss. 95–97</div>
   </td>
   <td>
     <div>ad. No. 98, 2007</div>
@@ -5716,26 +5239,10 @@ No. 81, 2001</div>
 </tr>
 <tr>
   <td>
-    <div>S. 107</div>
+    <div>Ss. 107–112</div>
   </td>
   <td>
     <div>ad. No. 98, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 108–112</div>
-  </td>
-  <td>
-    <div>ad. No. 98, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 98, 2007</div>
   </td>
 </tr>
 <tr>
@@ -5748,12 +5255,18 @@ No. 81, 2001</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 3 of Part 3 
-Renumbered Div. 6</div>
+    <div>Heading to Div. 3 of Part 3</div>
   </td>
   <td>
-    <div>
-No. 81, 2001</div>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Renumbered Div. 6...........</div>
+  </td>
+  <td>
+    <div>No. 81, 2001</div>
   </td>
 </tr>
 <tr>
@@ -5865,7 +5378,7 @@ No. 81, 2001</div>
     <div>S. 118</div>
   </td>
   <td>
-    <div>am. No. 81, 2001; No. 98, 2007</div>
+    <div>am. No. 81, 2001</div>
   </td>
 </tr>
 <tr>
@@ -6186,14 +5699,6 @@ No. 81, 2001</div>
   </td>
   <td>
     <div>rs. No. 98, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 98, 2007</div>
   </td>
 </tr></table>
 
@@ -7243,6 +6748,490 @@ Certain provisions of the _Food Standards Australia New Zealand Act 1991_, as am
 
 _Food Standards Australia New Zealand Amendment Act 2007 (No. 98, 2007)_
 
+The following amendments commence on 28 December 2008 unless proclaimed earlier:
+
+## Schedule 2
+
+## 1  Subsection 4(1)
+
+Insert:
+
+                    <a name="high-level-health-claim-committe"></a>**_High Level Health Claims Committee_**means a committee established under subsection 118(1A) to give advice on applications or proposals to make a high level health claims variation.
+
+## 2  Subsection 4(1)
+
+Insert:
+
+                    <a name="high-level-health-claim-variat"></a>**_high level health claims variation_** means a variation, the only effect of which is to make a change to the list of high level health claims, as defined for the purposes of the Nutrition, Health and Related Claims Standard, that may be made under that standard**.**
+
+## 3  Subsection 4(1)
+
+Insert:
+
+                    <a name="nutrition-health-relat-claim-standard"></a>**_Nutrition, Health and Related Claims Standard_** means the Nutrition, Health and Related Claims Standard as in force from time to time, or any standard in force in substitution for that standard.
+
+## 4  Subsection 24(1)
+
+After “under paragraph 26(1)(a)”, insert “or 47(1)(a)”.
+
+## 5  Subsection 24(3)
+
+After “under section 28”, insert “or 51”.
+
+## 6  Section 25
+
+Before “The”, insert “(1)”.
+
+## 7  After paragraph 25(b)
+
+Insert:
+
+                     (c)  the application is one to which Subdivision G  applies (application for a high level health claims variation); or
+
+## 8  At the end of section 25
+
+Add:
+
+Where an application for a high level health claims variation is included in an application for a variation of another kind
+
+             (2)  If a person applies for a high level health claims variation and a variation of another kind in a single application, then, for the purposes of this Act, the person is taken to have made an application for a high level health claims variation and a separate application for the other kind of variation.
+
+## 9  At the end of Division 1 of Part 3
+
+Add:
+
+#### Subdivision G—Procedure for certain variations of the Nutrition, Health and Related Claims Standard
+
+##### <a id="46"></a>46  Application of Subdivision
+
+                   This Subdivision applies to an application if:
+
+                     (a)  the application is made for the variation of the Nutrition, Health and Related Claims Standard; and
+
+                     (b)  the variation sought is a high level health claims variation.
+
+Note:          If an application to vary the Nutrition, Health and Related Claims Standard would not involve a change to the list of high level health claims that may be made under the Standard, the general procedure applies—see Subdivisions D, E and F.
+
+##### <a id="47"></a>47  Accepting the application
+
+             (1)  The Authority must, within 15 business days after the application is given to the Authority:
+
+                     (a)  accept the application; or
+
+                     (b)  reject the application.
+
+             (2)  In determining whether to accept or reject the application, the Authority must have regard to the following matters:
+
+                     (a)  whether the application complies with subsection 22(2);
+
+                     (b)  whether the application is so similar to a previous application or proposal for a high level health claims variation that it ought to be rejected;
+
+                     (c)  any other relevant matter.
+
+             (3)  If an application is rejected because it does not comply with subsection 22(2), the application must be disregarded for the purposes of determining whether a later application or proposal for the variation of the standard is so similar to a previous application or proposal that the later application ought to be rejected.
+
+##### <a id="48"></a>48  Notice of acceptance
+
+             (1)  If the Authority accepts the application, the Authority must notify the applicant immediately in writing:
+
+                     (a)  that the application has been accepted; and
+
+                     (b)  in the case of an applicant who has applied for the variation of a standard and on whom an exclusive capturable commercial benefit would be conferred if the standard were made or varied in the manner sought in the application:
+
+                              (i)  that the applicant must pay the charge fixed under subparagraph 146(6)(b)(i) or, if the charge is payable in instalments, the first instalment of the charge, within 20 business days after the notification is given; and
+
+                             (ii)  that the application will be rejected if the charge, or the first instalment of the charge, is not paid within that period; and
+
+                     (c)  in any other case—that the applicant may, if the applicant elects to have the consideration of the application expedited, pay the charge fixed under subparagraph 146(6)(b)(ii) or, if the charge is payable in instalments, the first instalment of the charge.
+
+             (2)  The Authority must give notice in writing to the applicant:
+
+(a) identifying the procedure that the Authority will adopt in considering the application; and
+
+                     (b)  indicating when the Authority proposes to undertake the key steps in the procedure;
+
+within:
+
+                     (c)  if the applicant pays a charge, or the first instalment of a charge, mentioned in paragraph (1)(b) within the period mentioned in that paragraph—5 business days after that payment; or
+
+                     (d)  if the applicant pays a charge, or the first instalment of a charge, mentioned in paragraph (1)(c), within 20 business days after notice is given to the applicant under subsection (1) (the **_early payment period_**)—5 business days after that payment; or
+
+                     (e)  in any other case—within 25 business days after notice is given to the applicant under subsection (1).
+
+             (3)  If the applicant pays a charge, or the first instalment of a charge, mentioned in paragraph (1)(c) after the end of the early payment period, the Authority must, within 5 business days after that payment, again give the applicant notice of the matters mentioned in subsection (2), including an update on when the Authority now proposes to undertake the key steps in the procedure.
+
+##### <a id="49"></a>49  Notice of the application to expert committee and Food Regulation Standing Committee
+
+             (1)  If the Authority accepts the application, the Authority must also give notice of the matters mentioned in subsection (2) to:
+
+                     (a)  the High Level Health Claims Committee established for the purpose of making recommendations on the application, or applications of that kind; and
+
+                     (b)  the Food Regulation Standing Committee.
+
+Content of notice
+
+             (2)  The notice must:
+
+                     (a)  state that the Authority has received an application for a high level health claims variation; and
+
+                     (b)  state the date on which the application was received by the Authority; and
+
+                     (c)  state the name of the applicant; and
+
+                     (d)  give a summary of the application; and
+
+                     (e)  state that the Authority has accepted the application; and
+
+                      (f)  identify the procedure that the Authority will adopt in considering the application; and
+
+                     (g)  indicate when the Authority proposes to undertake the key steps in that procedure.
+
+Period within which notice must be given
+
+             (3)  The notice must be given:
+
+                     (a)  if the applicant pays a charge, or the first instalment of a charge, mentioned in subparagraph 48(1)(b)(i) within the period mentioned in that subparagraph—within 5 business days after that payment; or
+
+                     (b)  if the applicant pays a charge mentioned in paragraph 48(1)(c) within 20 business days after notice is given to the applicant under section 48 (the **_early payment period_**)—within 5 business days after that payment; or
+
+                     (c)  in any other case—within 25 business days after notice is given to the applicant under section 48.
+
+Exclusive capturable commercial benefit—fee not paid
+
+             (4)  If an applicant:
+
+                     (a)  who applies for a high level health claims variation; and
+
+                     (b)  on whom an exclusive capturable commercial benefit would be conferred if the standard were made or varied in the manner sought in the application;
+
+does not pay the charge, or the first instalment of the charge, mentioned in subparagraph 48(1)(b)(i) within the period mentioned in that subparagraph:
+
+                     (c)  the Authority must reject the application; and
+
+                     (d)  the Authority need not give notice under this section.
+
+Fee to expedite consideration paid after early payment period
+
+             (5)  If an applicant pays a charge, or the first instalment of a charge, mentioned in paragraph 48(1)(c) after the end of the early payment period, the Authority must, within 5 business days after that payment, again give public notice of the matters mentioned in subsection (2), including an update on when the Authority now proposes to undertake the key steps in the procedure.
+
+##### <a id="50"></a>50  Considering the application
+
+             (1)  The Authority must consider whether to approve a draft high level health claims variation.
+
+             (2)  Before approving such a draft variation, the Authority must:
+
+                     (a)  be satisfied that the approval of the draft variation will meet the following objectives:
+
+                              (i)  the protection of public health and safety;
+
+                             (ii)  the provision of adequate information relating to food to enable consumers to make informed choices;
+
+                            (iii)  the prevention of misleading or deceptive conduct; and
+
+                     (b)  assess the draft variation against the criteria set out in the Nutrition, Health and Related Claims Standard in relation to high level health claims, taking into account any recommendations made by the High Level Health Claims Committee in relation to the draft variation or the application that resulted in the draft variation; and
+
+                     (c)  take into account any submission made on behalf of a jurisdiction represented on the Food Regulation Standing Committee in relation to the draft variation or the application that resulted in the draft variation; and
+
+                     (d)  if the applicant has elected that the Authority give public notice under section 51 calling for submissions, consider all submissions made during the submission period.
+
+             (3)  If:
+
+                     (a)  the Authority prepares a draft high level health claims variation; and
+
+                     (b)  the draft variation differs from that sought in the application as a result of which it was prepared, or was not sought in the application at all;
+
+the Authority must give the applicant notice in writing of that fact and, if the applicant has elected that the Authority give public notice calling for submissions under section 51, state in the notice that the Authority will call for submissions for the purpose of assessing the draft variation.
+
+             (4)  The Authority must not give public notice calling for submissions under section 51 within 10 business days immediately after notice is given under subsection (3) of this section.
+
+##### <a id="51"></a>51  Calling for submissions
+
+             (1)  When applying for a high level health claims variation, the applicant may elect to have the Authority give public notice under this section calling for submissions.
+
+             (2)  If the applicant has made an election under subsection (1), the Authority must give public notice of the matters mentioned in subsection (3).
+
+             (3)  The notice must:
+
+                     (a)  state that the Authority has prepared a draft high level health claims variation; and
+
+                     (b)  include a copy of the draft variation, or state how a copy of the draft variation can be obtained; and
+
+                     (c)  call for written submissions, for the purpose of the Authority’s consideration of the draft variation, to be given to the Authority within the period specified in the notice (the **_submission period_**).
+
+##### <a id="52"></a>52  Approving the draft variation in relation to high level health claims
+
+             (1)  After considering whether to approve a draft high level health claims variation and, if notice calling for submissions is given under section 51, after the submission period, the Authority must:
+
+                     (a)  do one of the following:
+
+                              (i)  approve the draft high level health claims variation;
+
+                             (ii)  reject the draft high level health claims variation; and
+
+                     (b)  prepare a report under this section.
+
+Note:          The Board must not delegate its powers to act on behalf of the Authority under paragraph (a)—see section 150.
+
+             (2)  The report must include each of the following:
+
+                     (a)  the reasons for initially accepting the application;
+
+                     (b)  a summary of the recommendations (if any) of the High Level Health Claims Committee in relation to the application and each draft variation that resulted from the application;
+
+                     (c)  a summary of the submissions (if any) made by members of the Food Regulation Standing Committee in relation to the application and each draft variation that resulted from the application;
+
+                     (d)  a summary of the submissions (if any) received by the Authority within the submission period in response to a notice under section 51, if such notice was given;
+
+                     (e)  the Authority’s response to the issues raised in those submissions;
+
+                      (f)  the Authority’s reasons for approving the draft variation or rejecting the application.
+
+##### <a id="53"></a>53  Notifying the Council
+
+             (1)  If the Authority approves a draft high level health claims variation, the Authority must, within 10 business days after the approval:
+
+                     (a)  give the Council:
+
+                              (i)  a written notification of the approval; and
+
+                             (ii)  a copy of the report prepared by the Authority under section 52; and
+
+                     (b)  if submissions were called for under section 51—give public notice of the decision.
+
+             (2)  If the Authority has notified the Council under subsection (1), the Council may direct the Authority to give the Council such information as the Council reasonably requires for the purpose of assisting the Council to make a decision about the draft under Division 3.
+
+Note:          The process followed by the Council after receiving notification under this section is set out in Division 3.
+
+## 10  Subsection 56(2)
+
+After “under section 58”, insert “ or 77”.
+
+## 11  After paragraph 57(b)
+
+Insert:
+
+                     (c)  the proposal is one to which Subdivision G  applies (proposal for a high level health claims variation); or
+
+## 12  After Subdivision F of Division 2 of Part 3
+
+Add:
+
+#### Subdivision G—Procedure for certain variations of the Nutrition, Health and Related Claims Standard
+
+##### <a id="74"></a>74  Application of Subdivision
+
+                   This Subdivision applies to a proposal if:
+
+                     (a)  the proposal is for the variation of the Nutrition, Health and Related Claims Standard; and
+
+                     (b)  the variation proposed is a high level health claims variation.
+
+Note:          If a proposal to vary the Nutrition, Health and Related Claims Standard would not involve a change to the list of high level health claims that may be made under the Standard, the general procedure applies—see Subdivisions D, E and F.
+
+##### <a id="75"></a>75  Notice of the proposal
+
+             (1)  The Authority must give public notice of the matters mentioned in subsection (3).
+
+             (2)  The Authority must also give notice of the matters mentioned in subsection (3) to:
+
+                     (a)  the High Level Health Claims Committee established for the purpose of making recommendations on the proposal, or proposals of that kind; and
+
+                     (b)  the Food Regulation Standing Committee.
+
+             (3)  The notice must:
+
+                     (a)  state that the Authority proposes to make a high level health claims variation; and
+
+                     (b)  give a summary of the proposal; and
+
+                     (c)  identify the procedure that the Authority will adopt in considering the proposal; and
+
+                     (d)  indicate when the Authority proposes to undertake the key steps in that procedure.
+
+##### <a id="76"></a>76  Considering the proposal
+
+             (1)  The Authority must consider whether to approve a draft high level health claims variation.
+
+             (2)  Before approving such a draft variation, the Authority must:
+
+                     (a)  be satisfied that the approval of the draft variation will meet the following objectives:
+
+                              (i)  the protection of public health and safety;
+
+                             (ii)  the provision of adequate information relating to food to enable consumers to make informed choices;
+
+                            (iii)  the prevention of misleading or deceptive conduct; and
+
+                     (b)  assess the draft variation against the criteria set out in the Nutrition, Health and Related Claims Standard in relation to high level health claims, taking into account any recommendations made by the High Level Health Claims Committee in relation to the draft variation or the proposal that resulted in the draft variation; and
+
+                     (c)  take into account any submission made on behalf of a jurisdiction represented on the Food Regulation Standing Committee in relation to the draft variation or the proposal that resulted in the draft variation; and
+
+                     (d)  all submissions made during the submission period.
+
+##### <a id="77"></a>77  Calling for submissions
+
+             (1)  The Authority must give public notice of the matters mentioned in subsection (3) before a high level health claims variation is approved as a result of a proposal.
+
+             (2)  The Authority must also give notice of the matters mentioned in subsection (3) to the Food Regulation Standing Committee before a high level health claims variation is approved.
+
+             (3)  The notice must:
+
+                     (a)  state that the Authority has prepared a draft high level health claims variation; and
+
+                     (b)  include a copy of the draft variation, or state how a copy of the draft variation can be obtained; and
+
+                     (c)  call for written submissions, for the purpose of the Authority’s consideration of the draft variation, to be given to the Authority within the period specified in the notice (the **_submission period_**).
+
+##### <a id="78"></a>78  Approving the draft variation in relation to high level health claims
+
+             (1)  After the submission period, the Authority must:
+
+                     (a)  do one of the following:
+
+                              (i)  approve a draft high level health claims variation;
+
+                             (ii)  abandon the proposal to vary the list; and
+
+                     (b)  prepare a report under this section.
+
+Note:          The Board must not delegate its powers to act on behalf of the Authority under paragraph (a)—see section 150.
+
+             (2)  The report must include each of the following:
+
+                     (a)  the reasons for initially preparing the proposal;
+
+                     (b)  a summary of the recommendations (if any) of the High Level Health Claims Committee in relation to the proposal and each draft variation that resulted from the proposal;
+
+                     (c)  a summary of the submissions (if any) made by members of the Food Regulation Standing Committee in relation to the proposal and each draft variation that resulted from the proposal;
+
+                     (d)  a summary of the submissions (if any) received by the Authority within the submission period in response to a notice under section 77;
+
+                     (e)  the Authority’s response to the issues raised in those recommendations and submissions;
+
+                      (f)  the Authority’s reasons for approving the draft variation or abandoning the proposal.
+
+##### <a id="79"></a>79  Notifying the Council
+
+             (1)  If the Authority approves a draft high level health claims variation, the Authority must, within 10 business days after the approval:
+
+                     (a)  give the Council:
+
+                              (i)  a written notification of the approval; and
+
+                             (ii)  a copy of the report prepared by the Authority under section 78; and
+
+                     (b)  if submissions were called for under section 77—give public notice of the decision.
+
+             (2)  If the Authority has notified the Council under subsection (1), the Council may direct the Authority to give the Council such information as the Council reasonably requires for the purpose of assisting the Council to make a decision about the draft under Division 3.
+
+Note:          The process followed by the Council after receiving notification under this section is set out in Division 3.
+
+## 13  Subsection 84(1)
+
+Omit “under section 34, 41, 64 or 69”, substitute “under section 34, 41, 53, 64, 69 or 79”.
+
+## 14  Paragraph 95(6)(a)
+
+Omit “F”, substitute “G”.
+
+## 15  Subsection 108(3)
+
+After “under section 28”, insert “or 51”.
+
+## 16  Subsection 109(1)
+
+After “under section 26”, insert “or 47”.
+
+## 17  Paragraph 110(2)(b)
+
+After “under section 28”, insert “or 51”.
+
+## 18  Paragraph 110(5)(a)
+
+After “under section 58”, insert “or 77”.
+
+## 19  At the end of subsection 111(1)
+
+Add “, other than an application for a high level health claims variation”.
+
+## 20  Subsection 112(2)
+
+After “under section 28”, insert “or 51”.
+
+## 21  Subsection 112(4)
+
+After “under section 58”, insert “or 77”.
+
+## 22  After subsection 118(1)
+
+Insert:
+
+          (1A)  The Board may establish such committees as it thinks fit to make recommendations on applications or proposals for a high level health claims variation.
+
+          (1B)  The Authority must not consider an application or proposal for a high level health claim variation, unless a committee is established to consider the application or proposal, or applications or proposals of that kind.
+
+## 23  Subsection 118(4)
+
+After “(1),”, insert “(1A),”.
+
+## 24  After paragraph 129(3)(c)
+
+Insert:
+
+                     (d)  paragraph 52(1)(a); or
+
+## 25  After paragraph 129(3)(g)
+
+Insert:
+
+                     (h)  paragraph 78(1)(a); or
+
+## 26  After subparagraph 143(1)(a)(ii)
+
+Insert:
+
+                            (iii)  a decision by the Authority under paragraph 47(1)(b) to reject an application, other than a decision to reject the application because it does not comply with subsection 22(2); or
+
+## 27  After paragraph 150(1)(c)
+
+Insert:
+
+                     (d)  paragraph 52(1)(a); or
+
+## 28  After paragraph 150(1)(g)
+
+Insert:
+
+                     (h)  paragraph 78(1)(a); or
+
+## 29  After paragraph 152(c)
+
+Insert:
+
+                     (d)  the number of applications that were considered under Subdivision G of Division 1 of Part 3 during that year; and
+
+## 30  Paragraph 152(o)
+
+Omit “, F”, substitute “, F, G”.
+
+## 31  Paragraph 152(p)
+
+Repeal the paragraph, substitute:
+
+                     (p)  the average number of days that have elapsed:
+
+                              (i)  between the preparation of a proposal under section 55 to which Subdivision G of Division 1 of Part 3 does not apply and the commencement of the assessment of the proposal under section 59; and
+
+                             (ii)  between the preparation of a proposal under section 81 and the commencement of the assessment of the proposal under section 59; and
+
+## 32  Subparagraph 152(t)(ii)
+
+Repeal the subparagraph, substitute:
+
+                             (ii)  section 41;
+
+                            (iii)  section 52; and
+
 The following amendments commence on the day on which an amendment of the Agreement between the Government of Australia and the Government of New Zealand Establishing a System for the Development of Joint Food Standards, signed at Wellington on 5 December 1995, enters into force to reduce from two to one the number of occasions on which the Council may request the Authority to review a draft standard or a draft variation of a standard. However, the amendments may not commence at all, _see_ subsection 2(1) (item 8):
 
 ## Schedule 3
@@ -7423,7 +7412,15 @@ Repeal the paragraph, substitute:
 
                       (i)  subsection 87(2); or
 
-As at 28 December 2008 the amendments are not incorporated in this compilation.
+The following amendment commences immediately after the commencement of Part 1 of Schedule 3\. However, the amendment may not commence at all, _see_ subsection 2(1) (item 9):
+
+## Schedule 3
+
+## 10  Subsection 84(1)
+
+Omit “under section 34, 41, 64 or 69”, substitute “under section 34, 41, 53, 64, 69 or 79”.
+
+As at 11 July 2007 the amendments are not incorporated in this compilation.
 
 ## Table A
 
