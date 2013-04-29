@@ -1,19 +1,20 @@
-![](http://www.comlaw.gov.au/Details/C2008C00276/Html/GovernorGeneral74_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00429/Html/1DF5CA10E71CCD99CA257037001A4E59/$FILE/image001.gif)
 
 # Governor-General Act 1974
 
 **Act No. 16 of 1974 as amended**
 
-This compilation was prepared on 9 July 2008
- taking into account amendments up to Act No. 62 of 2008
+This compilation was prepared on 7 July 2005 
+taking into account amendments up to Act No. 81 of 2005
 
 The text of any of those amendments not in force
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, Canberra
+
 
 # Contents
 
@@ -39,6 +40,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [5](#5).            Appropriation
 
+[5A](#5A).         Trustee of Scheme for the purposes of the _Superannuation Contributions Tax (Assessment and Collection) Act 1997_
+
 [6](#6).            Official Secretary
 
 [7](#7).            Terms and conditions of appointment
@@ -63,6 +66,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Notes** 
 
+
 ## An Act to make provision in relation to the Salary of the Governor-General, and the Payment of Allowances to persons, and to the spouses of persons, who have held the office of Governor-General, to establish the office of Official Secretary to the Governor-General, to provide for the employment of staff of the Governor-General, and for related purposes
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
@@ -78,6 +82,32 @@ Prepared by the Office of Legislative Drafting and Publishing,
              (1)  References in sections 6, 7, 11, 12 and 18 to the Governor-General shall be construed as references to the Governor-General acting with the advice of the Executive Council.
 
              (2)  In this Act:
+
+                    <a name="assess"></a>**_assessment_** has the same meaning as in the _Superannuation Contributions Tax (Assessment and Collection) Act 1997._
+
+                    <a name="basic-rate"></a>**_basic rate_**, at a particular time, in relation to a particular person, means 60% of the salary of the Chief Justice of Australia at that time, reduced by the amount of any pension or retiring allowance payable to that person at that time, whether by virtue of a law or otherwise out of money provided in whole or part by Australia, a State or a Territory.
+
+                    <a name="notic-assess"></a>**_notice of assessment_**, in respect of a person, means a notice given under subsection 15(8) of the _Superannuation Contributions Tax (Assessment and Collection) Act 1997_ to the person or to the person’s spouse, or to the legal personal representative of the person or the person’s spouse, stating that a person is liable to pay an amount of surcharge on surchargeable contributions for the person.
+
+                    <a name="scheme"></a>**_Scheme_** means the scheme constituted by section 4 for the provision of retirement and other benefits to and in respect of the Governor-General.
+
+                    <a name="surcharg"></a>**_surcharge_** has the same meaning as in the _Superannuation Contributions Tax (Assessment and Collection) Act 1997._
+
+                    <a name="surcharg-contribut"></a>**_surchargeable contributions_**, for a person, means surchargeable contributions within the meaning of the _Superannuation Contributions Tax (Assessment and Collection) Act 1997_ that are attributable to the operation of this Act in respect of the person.
+
+                    <a name="surcharg-debt-account"></a>**_surcharge debt account,_** in relation to a person who has held office as Governor-General, means the surcharge debt account that was kept for the person (while he or she held that office) under section 16 of the _Superannuation Contributions Tax (Assessment and Collection) Act 1997_.
+
+                    <a name="surcharg-duction-amount"></a>**_surcharge deduction amount_**, in relation to a person:
+
+                     (a)  who has held office as Governor-General; and
+
+                     (b)  to or in respect of whom an allowance is payable under this Act;
+
+                    means:
+
+                     (c)  for the purposes of calculating the prescribed percentage before the payment of the allowance has commenced—the amount by which the person’s surcharge debt account was in debit when the allowance became payable; or
+
+                     (d)  for the purposes of calculating the prescribed percentage after the payment of the allowance has commenced—the amount of surcharge on surchargeable contributions for the person which the trustee is liable to pay because of the operation of subsection 4(4).
 
                     <a name="commission"></a>**_the Commissioner_** means the person who holds, or performs the functions of, the office of Commissioner for Superannuation under the _Superannuation Act 1976_.
 
@@ -133,21 +163,99 @@ whether or not the person was legally married to the deceased person.
 
 ##### <a id="3"></a>3  Salary of Governor-General
 
-                   The annual sum payable out of the Consolidated Revenue Fund for the salary of the Governor-General shall be $394,000.
+                   The annual sum payable out of the Consolidated Revenue Fund for the salary of the Governor-General shall be $365,000.
 
 ##### <a id="4"></a>4  Allowances
 
-             (1)  Subject to subsection (4), where, after the commencement of this Act, a person ceases to hold office as Governor-General, an allowance is payable under this section to him or her during his or her life-time at such rate as is from time to time payable under paragraph (3)(a).
+             (1)  Subject to subsection (4), where, after the commencement of this Act, a person ceases to hold office as Governor-General, an allowance is payable under this section to him or her during his or her life-time at such rate as is from time to time payable under subsection (3).
 
-             (2)  Subject to subsection (4) and section 4A, where, after the commencement of this Act, a person who is Governor-General dies, or a person who has at any time after the commencement of this Act held office as Governor-General dies, an allowance is payable under this section to a spouse of the person during the life-time of the spouse at such rate as is from time to time payable under paragraph (3)(b).
+             (2)  Subject to subsection (4) and section 4A, where, after the commencement of this Act, a person who is Governor-General dies, or a person who has at any time after the commencement of this Act held office as Governor-General dies, an allowance is payable under this section to a spouse of the person during the life-time of the spouse at such rate as is from time to time payable under subsection (3A).
 
-             (3)  The rate of the allowance payable to a person under this section at any time is:
+             (3)  The rate of the allowance payable at any time (**_relevant time_**) to a person who has held office as Governor-General is:
 
-                     (a)  in the case of a person who has held office as Governor-General—60% of the rate of the salary payable to the Chief Justice of the High Court of Australia at that time; or
+                     (a)  if the person’s surcharge debt account was in debit when the allowance became payable to the person—a rate equal to 85% of the basic rate or the prescribed percentage of the basic rate at the relevant time, whichever is higher; or
 
-                     (b)  in the case of a person who is a spouse of a deceased person who held office as Governor-General—five-eighths of the rate applicable under paragraph (a) at that time to a person who has held office as Governor-General.
+                     (b)  if the person’s surcharge debt account was not in debit when the allowance became payable to the person, whichever of the following rates is applicable:
 
-             (4)  The amount of the allowance that, but for this subsection, would be payable to a person under this section in respect of any period is reduced by the amount of any pension or retiring allowance payable to that person, whether by virtue of a law or otherwise, in respect of that period out of money provided in whole or in part by the Commonwealth, a State or a Territory.
+                              (i)  if a notice of assessment in respect of the person has been given before the relevant time—a rate equal to 85% of the basic rate or the prescribed percentage of the basic rate at that time, whichever is higher;
+
+                             (ii)  if a notice of assessment in respect of the person has not been given before the relevant time, and subsection (3AA) does not apply to the person at that time—a rate equal to 85% of the basic rate at that time;
+
+                            (iii)  if a notice of assessment in respect of the person has not been given before the relevant time, and subsection (3AA) applies to the person at that time—the basic rate at that time.
+
+Note:          For **_prescribed percentage_**, see subsection (3B).
+
+       (3AA)  This subsection applies to a person at a particular time (the **_relevant time_**) if, before the relevant time:
+
+                     (a)  the trustee of the Scheme (within the meaning of section 5A); and
+
+                     (b)  the person or, if the person is deceased, the person’s spouse or spouses or legal personal representative;
+
+have reached a written agreement that a notice of assessment is not likely to be given in respect of the person.
+
+          (3A)  The rate of the allowance payable at any time (the **_relevant time_**) to a spouse of a deceased person who held office as Governor-General is the amount worked out using the formula:
+
+![](http://www.comlaw.gov.au/Details/C2005C00429/Html/1DF5CA10E71CCD99CA257037001A4E59/$FILE/image002.gif)
+
+where:
+
+                    <a name="adjust-amount"></a>**_adjustment amount_** means the amount of any pension or retiring allowance that would have been payable to the deceased person at the relevant time if the deceased person had not died, whether by virtue of a law or otherwise out of money provided in whole or part by Australia, a State or a Territory.
+
+                    <a name="allow-rate"></a>**_allowance rate_** means:
+
+                     (a)  if the person died while holding office as Governor-General—the rate that would be applicable at the relevant time to the deceased person under subsection (3) if he or she had not died but had ceased to hold that office; or
+
+                     (b)  if the deceased person died after ceasing to hold office as Governor-General—the rate that would be applicable at the relevant time to the deceased person under subsection (3) if he or she had not died.
+
+                    <a name="ruction-amount"></a>**_reduction amount_** means the amount of any pension or retiring allowance payable to the spouse of the deceased person at the relevant time, whether by virtue of a law or otherwise out of money provided in whole or part by Australia, a State or a Territory.
+
+          (3B)  In subsection (3):
+
+                    <a name="prescrib-percentag"></a>**_prescribed percentage_**, in relation to a person who has held office as Governor-General, means the percentage worked out in accordance with the formula:
+
+![](http://www.comlaw.gov.au/Details/C2005C00429/Html/1DF5CA10E71CCD99CA257037001A4E59/$FILE/image003.gif)
+
+where:
+
+                    <a name="sat"></a>**_SAt_** means the amount worked out in accordance with the formula:
+
+![](http://www.comlaw.gov.au/Details/C2005C00429/Html/1DF5CA10E71CCD99CA257037001A4E59/$FILE/image004.gif)
+
+where:
+
+                    <a name="basic-rate"></a>**_basic rate_** has the meaning given by section 2A.
+
+                    <a name=""></a><a name="br"></a>**_BR_****_1_** is the basic rate at the time when the prescribed percentage is first calculated, and BR2, BR3 etc. have corresponding meanings for any later time when the prescribed percentage is calculated.
+
+                    <a name=""></a><a name="sa"></a>**_SA_****_1_** is the surcharge adjustment at the time when the prescribed percentage is first calculated, and SA2, SA3 etc. have corresponding meanings for any later time when the prescribed percentage is calculated.
+
+                    <a name="surcharg-adjust"></a>**_surcharge adjustment_** means the amount obtained by dividing the person’s surcharge deduction amount by the conversion factor applicable to the person under the determination referred to in subsection (3C).
+
+          (3C)  The person who (because of section 5A) is the trustee of the Scheme for the purposes of the _Superannuation Contributions Tax (Assessment and Collection) Act 1997_ must, in accordance with advice received from the Australian Government Actuary, determine in writing the conversion factor that, having regard to:
+
+                     (a)  the age of a person who has held office as Governor-General on the day on which an allowance becomes payable to the person; and
+
+                     (b)  other relevant factors (if any);
+
+is applicable for the purpose of working out, in relation to the person, the yearly amount that would have to be paid to discharge a liability equal to the person’s surcharge deduction amount.
+
+          (3D)  A determination under subsection (3C) must be published in the _Gazette_.
+
+             (4)  If:
+
+                     (a)  a person ceases to hold office as Governor-General; and
+
+                     (b)  after the person ceases to hold office, a notice of assessment (including an amended assessment) in respect of the person is given to the person, the person’s spouse or the legal personal representative of the person or the person’s spouse; and
+
+                     (c)  apart from this section, a person would be liable to pay surcharge under the assessment in accordance with the _Superannuation Contributions Tax (Assessment and Collection) Act 1997_;
+
+the trustee of the Scheme (within the meaning of section 5A) is liable to pay the surcharge under the assessment mentioned in paragraph (b), and any general interest charge in respect of the surcharge, to the Commissioner of Taxation, and the liability of any other person to pay the surcharge or general interest charge, as the case requires, is discharged.
+
+             (5)  Despite subsection (4), the trustee of the Scheme is not liable to pay the surcharge unless the person, the person’s spouse or the legal personal representative of the person or the person’s spouse gives the notice of assessment to the trustee of the Scheme.
+
+             (6)  If, after an allowance became payable to a person under this section, a notice of assessment (including an amended assessment) of the person’s surcharge is given to the trustee of the Scheme as mentioned in subsection (5), the trustee must calculate or recalculate, as the case requires, the prescribed percentage of the basic rate in accordance with subsection (3B).
+
+             (7)  Amounts payable under subsection (4) are to be paid out of the Consolidated Revenue Fund, which is appropriated accordingly.
 
 ##### <a id="4A"></a>4A  Allowance payable when there is more than one spouse
 
@@ -159,9 +267,13 @@ whether or not the person was legally married to the deceased person.
 
                      (a)  have regard to the respective needs of each of the spouses; and
 
-                     (b)  ensure that the aggregate of the rates of allowance applicable to the spouses will not exceed 100% of the rate of allowance that would have been applicable to the deceased person under paragraph 4(3)(a); and
+                     (b)  ensure that the aggregate of the rates of allowance applicable to the spouses will not exceed:
 
-                     (c)  ensure that the rate of allowance applicable to each spouse will not exceed the rate specified in paragraph 4(3)(b).
+                              (i)  if the deceased person died while holding office as Governor-General—100% of the rate of allowance that would have been applicable to the deceased person under subsection 4(3) if he or she had not died but had ceased to hold that office; or
+
+                             (ii)  if the deceased person died after ceasing to hold office as Governor-General—100% of the rate of allowance that would have been applicable to the deceased person under subsection 4(3) if he or she had not died; and
+
+                     (c)  ensure that the rate of allowance applicable to each spouse will not exceed the rate specified in subsection 4(3A).
 
 ##### <a id="4AA"></a>4AA  Benefit payable where Governor-General or surviving spouse dies on or after 1 July 2006
 
@@ -242,6 +354,20 @@ Definitions
 ##### <a id="5"></a>5  Appropriation
 
                    An allowance under section 4 is payable out of the Consolidated Revenue Fund, which is appropriated accordingly.
+
+##### <a id="5A"></a>5A  Trustee of Scheme for the purposes of the _Superannuation Contributions Tax (Assessment and Collection) Act 1997_
+
+             (1)  For the purposes of the definition of **_trustee_** in section 43 of the _Superannuation Contributions Tax (Assessment and Collection) Act 1997_:
+
+                     (a)  the Secretary to the Department; or
+
+                     (b)  if the Secretary to the Department has declared in writing an officer of the Department to be the designated officer for the purposes of this section—that officer;
+
+is taken to be the person who manages the Scheme.
+
+Note:          The definitions of **_public sector superannuation scheme_**, **_superannuation fund_** and **_trustee_** in section 43 of the _Superannuation Contributions Tax (Assessment and Collection) Act 1997_ are relevant to this section.
+
+             (2)  Section 4 of the _Superannuation Contributions Tax (Application to the Commonwealth—Reduction of Benefits) Act 1997_ does not apply to the person who (because of subsection (1)) is the trustee of the Scheme for the purpose of the _Superannuation Contributions Tax (Assessment and Collection) Act 1997_.
 
 ##### <a id="6"></a>6  Official Secretary
 
@@ -325,6 +451,7 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
+
 # Notes to the _Governor-General Act 1974_
 
 ### Note 1
@@ -352,11 +479,13 @@ All relevant information pertaining to application, saving or transitional provi
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -366,339 +495,327 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Governor-General Act 1974</div>
-  </td>
-  <td>
-    <div>16, 1974</div>
-  </td>
-  <td>
-    <div>11 Apr 1974</div>
-  </td>
-  <td colspan="2">
-    <div>11 Apr 1974</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Governor-General Amendment Act 1977</div>
-  </td>
-  <td>
-    <div>118, 1977</div>
-  </td>
-  <td>
-    <div>10 Nov 1977</div>
-  </td>
-  <td colspan="2">
-    <div>10 Nov 1977</div>
-  </td>
-  <td>
-    <div>S. 2</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Governor-General Amendment Act 1982</div>
-  </td>
-  <td>
-    <div>44, 1982</div>
-  </td>
-  <td>
-    <div>9 June 1982</div>
-  </td>
-  <td colspan="2">
-    <div>9 June 1982</div>
-  </td>
-  <td>
-    <div>S. 2</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1983</div>
-  </td>
-  <td>
-    <div>39, 1983</div>
-  </td>
-  <td>
-    <div>20 June 1983</div>
-  </td>
-  <td colspan="2">
-    <div>S. 3: 9 June 1982 <i>(a)</i></div>
-  </td>
-  <td>
-    <div>S. 7(1)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Public Service Reform Act 1984</div>
-  </td>
-  <td>
-    <div>63, 1984</div>
-  </td>
-  <td>
-    <div>25 June 1984</div>
-  </td>
-  <td colspan="2">
-    <div>S. 138: Royal Assent <i>(b)</i> 
-Ss. 139–141: 24 Dec 1984 ( <i>see Gazette</i>1984, No. S539) <i>(b)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td colspan="2">
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act (No. 2) 1984</div>
-  </td>
-  <td>
-    <div>165, 1984</div>
-  </td>
-  <td>
-    <div>25 Oct 1984</div>
-  </td>
-  <td colspan="2">
-    <div>S. 3: <i>(c)</i></div>
-  </td>
-  <td>
-    <div>S. 6</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Governor-General Amendment Act 1988</div>
-  </td>
-  <td>
-    <div>83, 1988</div>
-  </td>
-  <td>
-    <div>19 Oct 1988</div>
-  </td>
-  <td colspan="2">
-    <div>19 Oct 1988</div>
-  </td>
-  <td>
-    <div>S. 2</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Prime Minister and Cabinet Legislation Amendment Act 1991</div>
-  </td>
-  <td>
-    <div>199, 1991</div>
-  </td>
-  <td>
-    <div>18 Dec 1991</div>
-  </td>
-  <td colspan="2">
-    <div>18 Dec 1991</div>
-  </td>
-  <td>
-    <div>S. 3(2)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 1992</div>
-  </td>
-  <td>
-    <div>94, 1992</div>
-  </td>
-  <td>
-    <div>30 June 1992</div>
-  </td>
-  <td colspan="2">
-    <div>S. 3: 1 July 1990 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Commonwealth Superannuation Schemes Amendment Act 1992</div>
-  </td>
-  <td>
-    <div>185, 1992</div>
-  </td>
-  <td>
-    <div>17 Dec 1992</div>
-  </td>
-  <td colspan="2">
-    <div>25 June 1993</div>
-  </td>
-  <td>
-    <div>S. 5</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Governor-General Amendment Act 1995</div>
-  </td>
-  <td>
-    <div>122, 1995</div>
-  </td>
-  <td>
-    <div>2 Nov 1995</div>
-  </td>
-  <td colspan="2">
-    <div>2 Nov 1995</div>
-  </td>
-  <td>
-    <div>Sch. (item 2)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1996</div>
-  </td>
-  <td>
-    <div>43, 1996</div>
-  </td>
-  <td>
-    <div>25 Oct 1996</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 4 (item 79) and Schedule 5 (items 65–67): Royal Assent <i>(d)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Superannuation Legislation Amendment (Superannuation Contributions Tax) Act 1997</div>
-  </td>
-  <td>
-    <div>187, 1997</div>
-  </td>
-  <td>
-    <div>7 Dec 1997</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 4: Royal Assent <i>(e)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
-  </td>
-  <td>
-    <div>146, 1999</div>
-  </td>
-  <td>
-    <div>11 Nov 1999</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 1 (items 496–499): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(f)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Governor-General Legislation Amendment Act 2001</div>
-  </td>
-  <td>
-    <div>57, 2001</div>
-  </td>
-  <td>
-    <div>28 June 2001</div>
-  </td>
-  <td colspan="2">
-    <div>28 June 2001</div>
-  </td>
-  <td>
-    <div>Sch. 1 (items 2, 14) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Governor-General Amendment Act 2003</div>
-  </td>
-  <td>
-    <div>68, 2003</div>
-  </td>
-  <td>
-    <div>3 July 2003</div>
-  </td>
-  <td colspan="2">
-    <div>3 July 2003</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Superannuation (Consequential Amendments) Act 2005</div>
-  </td>
-  <td>
-    <div>81, 2005</div>
-  </td>
-  <td>
-    <div>29 June 2005</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 5: 1 July 2005</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Governor-General Amendment (Salary and Superannuation) Act 2008</div>
-  </td>
-  <td>
-    <div>62, 2008</div>
-  </td>
-  <td>
-    <div>30 June 2008</div>
-  </td>
-  <td colspan="2">
-    <div>30 June 2008</div>
-  </td>
-  <td>
-    <div>Sch. 1 (items 2, 17) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr height="0">
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Governor-General Act 1974</div>
+    </td>
+    <td>
+      <div>16, 1974</div>
+    </td>
+    <td>
+      <div>11 Apr 1974</div>
+    </td>
+    <td colspan="2">
+      <div>11 Apr 1974</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Governor-General Amendment Act 1977</div>
+    </td>
+    <td>
+      <div>118, 1977</div>
+    </td>
+    <td>
+      <div>10 Nov 1977</div>
+    </td>
+    <td colspan="2">
+      <div>10 Nov 1977</div>
+    </td>
+    <td>
+      <div>S. 2</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Governor-General Amendment Act 1982</div>
+    </td>
+    <td>
+      <div>44, 1982</div>
+    </td>
+    <td>
+      <div>9 June 1982</div>
+    </td>
+    <td colspan="2">
+      <div>9 June 1982</div>
+    </td>
+    <td>
+      <div>S. 2</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1983</div>
+    </td>
+    <td>
+      <div>39, 1983</div>
+    </td>
+    <td>
+      <div>20 June 1983</div>
+    </td>
+    <td colspan="2">
+      <div>S. 3: 9 June 1982 <i>(a)</i></div>
+    </td>
+    <td>
+      <div>S. 7(1)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Public Service Reform Act 1984</div>
+    </td>
+    <td>
+      <div>63, 1984</div>
+    </td>
+    <td>
+      <div>25 June 1984</div>
+    </td>
+    <td colspan="2">
+      <div>S. 138: Royal Assent <i>(b)</i> 
+Ss. 139–141: 24 Dec 1984 ( <i>see Gazette</i>1984, No. S539) <i>(b)</i> 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>as amended by</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td colspan="2">
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Provisions) Act (No. 2) 1984</div>
+    </td>
+    <td>
+      <div>165, 1984</div>
+    </td>
+    <td>
+      <div>25 Oct 1984</div>
+    </td>
+    <td colspan="2">
+      <div>S. 3: <i>(c)</i></div>
+    </td>
+    <td>
+      <div>S. 6</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Governor-General Amendment Act 1988</div>
+    </td>
+    <td>
+      <div>83, 1988</div>
+    </td>
+    <td>
+      <div>19 Oct 1988</div>
+    </td>
+    <td colspan="2">
+      <div>19 Oct 1988</div>
+    </td>
+    <td>
+      <div>S. 2</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Prime Minister and Cabinet Legislation Amendment Act 1991</div>
+    </td>
+    <td>
+      <div>199, 1991</div>
+    </td>
+    <td>
+      <div>18 Dec 1991</div>
+    </td>
+    <td colspan="2">
+      <div>18 Dec 1991</div>
+    </td>
+    <td>
+      <div>S. 3(2)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 1992</div>
+    </td>
+    <td>
+      <div>94, 1992</div>
+    </td>
+    <td>
+      <div>30 June 1992</div>
+    </td>
+    <td colspan="2">
+      <div>S. 3: 1 July 1990 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Commonwealth Superannuation Schemes Amendment Act 1992</div>
+    </td>
+    <td>
+      <div>185, 1992</div>
+    </td>
+    <td>
+      <div>17 Dec 1992</div>
+    </td>
+    <td colspan="2">
+      <div>25 June 1993</div>
+    </td>
+    <td>
+      <div>S. 5</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Governor-General Amendment Act 1995</div>
+    </td>
+    <td>
+      <div>122, 1995</div>
+    </td>
+    <td>
+      <div>2 Nov 1995</div>
+    </td>
+    <td colspan="2">
+      <div>2 Nov 1995</div>
+    </td>
+    <td>
+      <div>Sch. (item 2)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision Act 1996</div>
+    </td>
+    <td>
+      <div>43, 1996</div>
+    </td>
+    <td>
+      <div>25 Oct 1996</div>
+    </td>
+    <td colspan="2">
+      <div>Schedule 4 (item 79) and Schedule 5 (items 65–67): Royal Assent <i>(d)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Superannuation Legislation Amendment (Superannuation Contributions Tax) Act 1997</div>
+    </td>
+    <td>
+      <div>187, 1997</div>
+    </td>
+    <td>
+      <div>7 Dec 1997</div>
+    </td>
+    <td colspan="2">
+      <div>Schedule 4: Royal Assent <i>(e)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
+    </td>
+    <td>
+      <div>146, 1999</div>
+    </td>
+    <td>
+      <div>11 Nov 1999</div>
+    </td>
+    <td colspan="2">
+      <div>Schedule 1 (items 496–499): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(f)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Governor-General Legislation Amendment Act 2001</div>
+    </td>
+    <td>
+      <div>57, 2001</div>
+    </td>
+    <td>
+      <div>28 June 2001</div>
+    </td>
+    <td colspan="2">
+      <div>28 June 2001</div>
+    </td>
+    <td>
+      <div>Sch. 1 (items 2, 14) \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Governor-General Amendment Act 2003</div>
+    </td>
+    <td>
+      <div>68, 2003</div>
+    </td>
+    <td>
+      <div>3 July 2003</div>
+    </td>
+    <td colspan="2">
+      <div>3 July 2003</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Superannuation (Consequential Amendments) Act 2005</div>
+    </td>
+    <td>
+      <div>81, 2005</div>
+    </td>
+    <td>
+      <div>29 June 2005</div>
+    </td>
+    <td colspan="2">
+      <div>Schedule 5: 1 July 2005</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr height="0">
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody></table>
+
 
 _(a)_     The _Governor-General Act 1974_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1983_, subsection 2(10) of which provides as follows:
 
@@ -734,6 +851,7 @@ _(f)_      The _Governor-General Act 1974_ was amended by Schedule 1
 
                  (2)   Subject to this section, this Act commences at the commencing time.
 
+
 ## Table of Amendments
 
 <table>
@@ -757,270 +875,265 @@ _(f)_      The _Governor-General Act 1974_ was amended by Schedule 1
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Title</div>
-  </td>
-  <td>
-    <div>am. No. 63, 1984; No. 185, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 2A</div>
-  </td>
-  <td>
-    <div>ad. No. 63, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 185, 1992; No. 187, 1997; No. 57, 2001; No. 62, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 2B, 2C</div>
-  </td>
-  <td>
-    <div>ad. No. 185, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>rs. No. 118, 1977; No. 44, 1982</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 39, 1983</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 83, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 122, 1995; No. 57, 2001; No. 68, 2003; No. 62, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>am. No. 199, 1991; No. 185, 1992; No. 43, 1996; No. 187, 1997; No. 57, 2001; No. 62, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4A</div>
-  </td>
-  <td>
-    <div>ad. No. 185, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 187, 1997; No. 62, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4AA</div>
-  </td>
-  <td>
-    <div>ad. No. 81, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4B</div>
-  </td>
-  <td>
-    <div>ad. No. 185, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5A</div>
-  </td>
-  <td>
-    <div>ad. No. 187, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 62, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6</div>
-  </td>
-  <td>
-    <div>ad. No. 63, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 146, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7</div>
-  </td>
-  <td>
-    <div>ad. No. 63, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8</div>
-  </td>
-  <td>
-    <div>ad. No. 63, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 43, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9</div>
-  </td>
-  <td>
-    <div>ad. No. 63, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 94, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 10–13</div>
-  </td>
-  <td>
-    <div>ad. No. 63, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 14</div>
-  </td>
-  <td>
-    <div>ad. No. 63, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 199, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 146, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15</div>
-  </td>
-  <td>
-    <div>ad. No. 63, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 16, 17</div>
-  </td>
-  <td>
-    <div>ad. No. 63, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 146, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18</div>
-  </td>
-  <td>
-    <div>ad. No. 63, 1984 (as rep. by No. 165, 1984)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19</div>
-  </td>
-  <td>
-    <div>ad. No. 63, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 43, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 20</div>
-  </td>
-  <td>
-    <div>ad. No. 63, 1984</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Title</div>
+    </td>
+    <td>
+      <div>am. No. 63, 1984; No. 185, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 2A</div>
+    </td>
+    <td>
+      <div>ad. No. 63, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 185, 1992; No. 187, 1997; No. 57, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 2B, 2C</div>
+    </td>
+    <td>
+      <div>ad. No. 185, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 3</div>
+    </td>
+    <td>
+      <div>rs. No. 118, 1977; No. 44, 1982</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 39, 1983</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 83, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 122, 1995; No. 57, 2001; No. 68, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4</div>
+    </td>
+    <td>
+      <div>am. No. 199, 1991; No. 185, 1992; No. 43, 1996; No. 187, 1997; No. 57, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4A</div>
+    </td>
+    <td>
+      <div>ad. No. 185, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 187, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4AA</div>
+    </td>
+    <td>
+      <div>ad. No. 81, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4B</div>
+    </td>
+    <td>
+      <div>ad. No. 185, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 5A</div>
+    </td>
+    <td>
+      <div>ad. No. 187, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6</div>
+    </td>
+    <td>
+      <div>ad. No. 63, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 146, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 7</div>
+    </td>
+    <td>
+      <div>ad. No. 63, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 8</div>
+    </td>
+    <td>
+      <div>ad. No. 63, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 43, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 9</div>
+    </td>
+    <td>
+      <div>ad. No. 63, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 94, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 10–13</div>
+    </td>
+    <td>
+      <div>ad. No. 63, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 14</div>
+    </td>
+    <td>
+      <div>ad. No. 63, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 199, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 146, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 15</div>
+    </td>
+    <td>
+      <div>ad. No. 63, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 16, 17</div>
+    </td>
+    <td>
+      <div>ad. No. 63, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 146, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 18</div>
+    </td>
+    <td>
+      <div>ad. No. 63, 1984 (as rep. by No. 165, 1984)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 19</div>
+    </td>
+    <td>
+      <div>ad. No. 63, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 43, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 20</div>
+    </td>
+    <td>
+      <div>ad. No. 63, 1984</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table A
 
@@ -1038,20 +1151,6 @@ The amendment made by this Part does not have effect during the continuance in o
 
 The repeals and amendments made by this Schedule do not apply to a person who held office as Governor-General before 20 August 1996.
 
-* * *
-
-_Governor-General Amendment (Salary and Superannuation) Act 2008 
- (No. 62, 2008)_
-
-## Schedule 1
-
-## 2  Transitional
-
-The amendment made by this Part does not have effect during the continuance in office of the person holding office as Governor-General immediately before the commencement of this Part.
-
-## 17  Application
-
-The repeals and amendments made by this Part do not apply in relation to a person who held office as Governor-General at any time after 29 June 2001 and before the commencement of this Part.
 
  
 
