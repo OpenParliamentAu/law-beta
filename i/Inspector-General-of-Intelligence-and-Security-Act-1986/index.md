@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00756/Html/91584695-93d1-435e-817d-0ec4592d8b13_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00304/Html/23aafc1f-b9a9-40fd-952d-f4b01a7fb7d8_files/image001.gif)
 
 # Inspector‑General of Intelligence and Security Act 1986
 
 **Act No. 101 of 1986 as amended**
 
-This compilation was prepared on 29 October 2012
- taking into account amendments up to Act No. 136 of 2012
+This compilation was prepared on 16 March 2012
+ taking into account amendments up to Act No. 118 of 2011
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -93,7 +94,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [25](#25).          Reports concerning collection or communication of intelligence
 
-[25A](#25A).       Reports relating to other inspections [_see_ Note 2]
+[25A](#25A).       Reports relating to other inspections [_see_ Note 2]
 
 **Part III—Administrative Provisions**
 
@@ -720,7 +721,7 @@ the Inspector‑General shall include in his or her final report in relation to 
 
              (3)  If the report, or a final agency copy of the report, includes information that was acquired by the Commissioner of Taxation under the provisions of a taxation law (within the meaning of the _Income Tax Assessment Act 1997_), the Inspector‑General must prepare another version of the report, or the final agency copy, that does not disclose the tax information.
 
-Note:          Section 355‑185 in Schedule 1 to the _Taxation Administration Act 1953_ permits the Inspector‑General to disclose the information to the Director‑General of Security in the report under subsection (1).
+Note:          section 355‑185 in Schedule 1 to the _Taxation Administration Act 1953_ permits the Inspector‑General to disclose the information to the Director‑General of Security in the report under subsection (1).
 
              (4)  The Inspector‑General must give the responsible Minister a copy of:
 
@@ -786,7 +787,7 @@ the Inspector‑General:
 
 the Inspector‑General shall, in addition to giving a copy of the report in relation to the inquiry to the responsible Minister, give a copy of the report to the Prime Minister.
 
-##### <a id="25A"></a>25A  Reports relating to other inspections [_see_ Note 2]
+##### <a id="25A"></a>25A  Reports relating to other inspections [_see_ Note 2]
 
                    If the Inspector‑General completes an inspection of an intelligence agency under section 9A, the Inspector‑General may report on the inspection to the responsible Minister or the head of the relevant agency.
 
@@ -1407,7 +1408,7 @@ Remainder: Royal Assent</div>
     <div>12 Dec 2006</div>
   </td>
   <td>
-    <div>Schedule 1 (items 149, 150): 13 Dec 2006 ( <i>see</i>s. 2(1))</div>
+    <div>Schedule 1 (items 149, 150): 13 Dec 2006 ( <i>see</i>s. 2(1))</div>
   </td>
   <td>
     <div>—</div>
@@ -1424,10 +1425,10 @@ Remainder: Royal Assent</div>
     <div>12 Apr 2007</div>
   </td>
   <td>
-    <div>Schedule 1 (items 62, 69): 13 Apr 2007</div>
+    <div>Schedule 1 (items 62, 69): 13 Apr 2007</div>
   </td>
   <td>
-    <div>Sch. 1 (item 69) \[ <i>see</i>Table A]</div>
+    <div>Sch. 1 (item 69) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -1458,7 +1459,7 @@ Remainder: Royal Assent</div>
     <div>6 Oct 2009</div>
   </td>
   <td>
-    <div>Schedule 4: 7 Oct 2009</div>
+    <div>Schedule 4: 7 Oct 2009</div>
   </td>
   <td>
     <div>—</div>
@@ -1509,7 +1510,7 @@ Remainder: Royal Assent</div>
     <div>16 Dec 2010</div>
   </td>
   <td>
-    <div>Schedule 2 (items 53–54): 17 Dec 2010</div>
+    <div>Schedule 2 (items 53–54): 17 Dec 2010</div>
   </td>
   <td>
     <div>—</div>
@@ -1526,7 +1527,7 @@ Remainder: Royal Assent</div>
     <div>22 Mar 2011</div>
   </td>
   <td>
-    <div>Schedule 6 (items 56–62) and Schedule 7 (item 76): 19 Apr 2011</div>
+    <div>Schedule 6 (items 56–62) and Schedule 7 (item 76): 19 Apr 2011</div>
   </td>
   <td>
     <div>—</div>
@@ -1546,7 +1547,7 @@ Remainder: Royal Assent</div>
     <div>Schedule 2 (items 719–722) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
   </td>
   <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
+    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -1560,24 +1561,7 @@ Remainder: Royal Assent</div>
     <div>14 Oct 2011</div>
   </td>
   <td>
-    <div>Schedule 1: 15 Oct 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2012</div>
-  </td>
-  <td>
-    <div>136, 2012</div>
-  </td>
-  <td>
-    <div>22 Sept 2012</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 80): Royal Assent</div>
+    <div>Schedule 1: 15 Oct 2011</div>
   </td>
   <td>
     <div>—</div>
@@ -2036,7 +2020,7 @@ _(g)_ Subsection 2(1) (item 7) of the _Freedom of Information Amendment (Refor
     <div>Note to s. 22(3)</div>
   </td>
   <td>
-    <div>am. No. 145, 2010; No. 136, 2012</div>
+    <div>am. No. 145, 2010</div>
   </td>
 </tr>
 <tr>
