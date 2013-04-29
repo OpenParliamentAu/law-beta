@@ -1,8 +1,9 @@
 
+
 Snowy Mountains Engineering Corporation Limited Sale Act 1993
-Act No. 54 of 1993 as amended 
-Consolidated as in force 20 April 1998
-(includes amendments up to Act No. 39, 1997)
+Act No. 54 of 1993 as amended
+Consolidated as in force on 22 January 1998
+(includes amendments up to Act No. 39 of 1997)
 Prepared by the Office of Legislative Drafting, Attorney-General’s Department, Canberra
 Contents
 Part 1—Preliminary	
@@ -10,11 +11,9 @@ Part 1—Preliminary
 2	Commencement [see Note 1]	
 3	Interpretation	
 4	The sale day	
-Part 2—Amendment of the Long Service Leave (Commonwealth Employees) Regulations	
-	(sections 5 and 6)	
-Part 3—Amendment of the Maternity Leave (Commonwealth Employees) Regulations	
-	(sections 7 and 8)	
-Part 4—Transitional and saving provisions	
+Part 2—Amendment of the Long Service Leave (Commonwealth Employees) Regulations (sections 5 and 6)	
+Part 3—Amendment of the Maternity Leave (Commonwealth Employees) Regulations (sections 7 and 8)	
+Part 4—Transitional and Saving Provisions	
 Division 1—Transitional and saving provisions in relation to long service leave	
 9	Interpretation	
 10	Long service leave for employees with less than 10 years service	
@@ -46,9 +45,9 @@ Division 4—Other transitional and saving provisions
 33	Saving—Crimes (Superannuation Benefits) Act 1989	
 34	Saving—DPP Act	
 35	Saving—Judiciary Act 1903	
-Part 5—Other provisions relating to the sale of SMEC	
+Part 5—Other Provisions Relating to the Sale of SMEC	
 36	SMEC not to be established by or under an Act or established by the Commonwealth	
-37	Removal of SMEC’s tax losses	
+37	Removal of SMEC’s tax losses [see Note 2]	
 38	Exemption from State and Territory taxes and fees	
 39	Regulations connected with the sale of SMEC	
 40	Cessation of mobility rights	
@@ -56,7 +55,7 @@ Part 5—Other provisions relating to the sale of SMEC
 42	Ending SMEC’s liability under the Commonwealth Borrowing Levy Act 1987	
 43	A SMEC body not to be an eligible or relevant body for the purposes of the Superannuation Benefits (Supervisory Mechanisms) Act 1990	
 44	Amendments of other Acts	
-Schedule—Amendments of other Acts	
+SCHEDULE—AMENDMENTS OF OTHER ACTS	
 
 An Act relating to the sale of the Snowy Mountains Engineering Corporation Limited, and for related purposes 
 Do not delete : Chapter placeholder
@@ -89,15 +88,13 @@ voting share has the same meaning as in the Corporations Law.
 	(1)	The Minister for Finance must, by notice in the Gazette, declare the day described in subsection (2) to be the sale day.
 	(2)	The day to be specified in the notice is the day that, in the opinion of the Minister for Finance, is the first day after the commencement of this Part on which a majority of the voting shares in SMEC are acquired by a person, or persons, other than the Commonwealth or a nominee of the Commonwealth.
 	(3)	The notice must be published within 14 days after the specified day.
-Part 2—Amendment of the Long Service Leave (Commonwealth Employees) Regulations 
-(sections 5 and 6)
+Part 2—Amendment of the Long Service Leave (Commonwealth Employees) Regulations (sections 5 and 6)
 Do not delete : Division placeholder
 [published separately]
-Part 3—Amendment of the Maternity Leave (Commonwealth Employees) Regulations 
-(sections 7 and 8)
+Part 3—Amendment of the Maternity Leave (Commonwealth Employees) Regulations (sections 7 and 8)
 Do not delete : Division placeholder
 [published separately]
-Part 4—Transitional and saving provisions
+Part 4—Transitional and Saving Provisions
 Division 1—Transitional and saving provisions in relation to long service leave
 9  Interpretation
 	(1)	Unless the contrary intention appears, expressions used in this Division that are also used in the Long Service Leave Act have the same respective meanings as in that Act.
@@ -197,8 +194,8 @@ including employees who had stopped being employees of SMEC before the sale day.
 	(1)	On and after the sale day, Division 4A of Part VII of the SRC Act applies to SMEC as if:
 	(a)	SMEC continues to be a Commonwealth authority; and
 	(b)	SMEC is not required to pay a premium under that Division in respect of that part of a financial year which occurs after the sale day; and
-	(c)	the following word and paragraph were added at the end of subsection 96H(1): 
-“; or (f)	in the case of an authority—the authority is not required to pay a premium under this Division in respect of part of a financial year.”.
+	(c)	the following word and paragraph were added at the end of subsection 96H(1): “; or
+	(f)	in the case of an authority—the authority is not required to pay a premium under this Division in respect of part of a financial year.”.
 	(2)	If, 60 days after the sale day, an amount of premium payable by SMEC to Comcare in respect of a period before the sale day remains unpaid, the amount is a debt due to the Commonwealth and payable to Comcare.
 20  Transitional provision relating to section 128A of the SRC Act
 On and after the sale day, section 128A of the SRC Act continues to apply to SMEC as if SMEC continues to be a prescribed Commonwealth authority for the purposes of that section.
@@ -269,7 +266,7 @@ as if SMEC were a body established under an Act.
 authorised person means:
 	(a)	the Secretary to the Attorney-General’s Department; or
 	(b)	a person holding or performing the duties of a Senior Executive Service office, within the meaning of the Public Service Act 1922, in that Department.
-Part 5—Other provisions relating to the sale of SMEC
+Part 5—Other Provisions Relating to the Sale of SMEC
 Do not delete : Division placeholder
 36  SMEC not to be established by or under an Act or established by the Commonwealth
 	(1)	On and after the sale day, SMEC is not taken for the purposes of a law to be:
@@ -281,13 +278,10 @@ unless a law expressly provides otherwise.
 law means:
 	(a)	an Act of the Commonwealth or of a State or Territory; and
 	(b)	regulations or other instrument made under such an Act.
-37  Removal of SMEC’s tax losses
+37  Removal of SMEC’s tax losses [see Note 2]
 	(1)	A loss incurred by SMEC in a year of income ending before the year of income in which the sale day occurs is not allowable as a deduction in a year of income ending on or after the sale day.
-	(2)	Subsection (1) has effect despite anything in the Income Tax Assessment Act 1936 and, in particular, sections 79E, 79EA, 79EB, 79F, 80, 80AAA and 80AA of that Act.
-	(3)	Unless the contrary intention appears, expressions used in subsection (1) that are also used in the Income Tax Assessment Act 1936 have the same respective meanings as in that Act.
-	(4)	SMEC cannot deduct in the 1997-98 income year or a later income year a tax loss incurred in an income year ending before the income year in which the sale day occurs.
-	(5)	This section has effect despite anything and, in particular, Division 36 and Subdivision 195-A of that Act.
-	(6)	Unless the contrary intention appears, an expression has the same meaning in subsection (4) as in the Income Tax Assessment Act 1997.
+	(2)	This section has effect despite anything in the Income Tax Assessment Act 1936 and, in particular, sections 79E, 79EA, 79EB, 79F, 80, 80AAA and 80AA of that Act.
+	(3)	Unless the contrary intention appears, expressions used in this section that are also used in the Income Tax Assessment Act 1936 have the same respective meanings as in that Act.
 38  Exemption from State and Territory taxes and fees
 	(1)	No tax is payable under a law of a State or a Territory in respect of:
 	(a)	an exempt matter; or
@@ -327,7 +321,7 @@ stop applying to the employee on the sale day.
 	(1)	If SMEC has paid a contribution to the cost of the administration of the Occupational Health and Safety (Commonwealth Employment) Act 1991 under section 67H of that Act in respect of the financial year in which the sale day occurs, then SMEC is entitled to be paid the amount worked out using the following formula: 
 
 where:
-Contribution means the contribution paid by SMEC in respect of that financial year.
+Contribution means the contribution paid by SMEC in respect of that financial year;
 No. of refund days means the total number of days in the period beginning on the sale day and ending on the last day of the financial year in which the sale day occurs.
 	(2)	An amount to which SMEC is entitled under subsection (1) must be paid out of the Consolidated Revenue Fund, which is appropriated accordingly.
 42  Ending SMEC’s liability under the Commonwealth Borrowing Levy Act 1987
@@ -342,16 +336,13 @@ Minister has the same meaning as in the Supervisory Mechanisms Act.
 44  Amendments of other Acts
 The Acts specified in the Schedule are amended as set out in the Schedule.
 
-Schedule—Amendments of other Acts 
+
+SCHEDULE—AMENDMENTS OF OTHER ACTS 
 Section 44 
-Administrative Decisions (Judicial Review) Act 1977 
-[published separately]
-Commonwealth Borrowing Levy Act 1987
-[published separately]
-National Crime Authority Act 1984 
-[published separately]
-Occupational Health and Safety (Commonwealth Employment) Act 1991 
-[published separately]
+Administrative Decisions (Judicial Review) Act 1977 [published separately]
+Commonwealth Borrowing Levy Act 1987 [published separately]
+National Crime Authority Act 1984 [published separately]
+Occupational Health and Safety (Commonwealth Employment) Act 1991 [published separately]
 Snowy Mountains Engineering Corporation Act 1970 
 Section 3 (definitions of engineering work, group company, operate, protected body, protected business name, protected company name, protected name, protection time, registered, subsidiary and wholly-owned subsidiary): 
 Omit. 
@@ -364,14 +355,18 @@ Repeal.
 Part VA: 
 Repeal.
 
-NOTE
+
+NOTES
 1. 	The Snowy Mountains Engineering Corporation Limited Sale Act 1993 as shown in this reprint comprises Act No. 54, 1993 amended as indicated in the Tables below.
 Table of Acts
+
 Act
 Number  and year
 Date  of Assent
 Date of commencement
 Application, saving or transitional provisions
+
+
 Snowy Mountains Engineering Corporation Limited Sale Act 1993
 54, 1993
 27 Oct 1993
@@ -380,12 +375,22 @@ Ss. 1-4 and 38: Royal Assent S. 37: 9 Nov 1993 (see Gazette 1993, No. S371) 
 Income Tax (Consequential Amendments) Act 1997
 39, 1997
 17 Apr 1997
-1 July 1997
+Schedule 3 (items 113-115): [see (a) and Note 2]
 —
-Table of Amendments
-ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
-Provision affected
-How affected
-S. 37 	
-am. No. 39, 1997
+(a)	The Snowy Mountains Engineering Corporation Limited Sale Act 1993 was amended by Schedule 3 (items 113-115) only of the Income Tax (Consequential Amendments) Act 1997, section 2 of which provides as follows:
+	“2.	This Act commences on 1 July 1997.” [see Note 2]
+2.	The  Snowy Mountains Engineering Corporation Limited Sale Act 1993 was amended by Schedule 3 (items 113-115) only of the Income Tax (Consequential Amendments) Act 1997. The applicable provisions provide as follows:
+Schedule 2
+113  Subsection 37(2)
+Omit “This section”, substitute “Subsection (1)”.
+114  Subsection 37(3)
+Omit “this section”, substitute “subsection (1)”.
+115  After subsection 37(3)
+Insert:
+(4)	SMEC cannot deduct in the 1997-98 income year or a later income year a tax loss incurred in an income year ending before the income year in which the sale day occurs.
+(5)	This section has effect despite anything and, in particular, Division 36 and Subdivision 195-A of that Act.
+(6)	Unless the contrary intention appears, an expression has the same meaning in subsection (4) as in the Income Tax Assessment Act 1997.
+	Section 2 of the Income Tax (Consequential Amendments) Act 1997 provides as follows:
+“2.	This Act commences on 1 July 1997.”
+	As at 17 June 1997 the amendments are not incorporated in this reprint.
 
