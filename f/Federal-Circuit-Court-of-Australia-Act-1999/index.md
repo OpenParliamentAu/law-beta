@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00066/Html/7ab7943d-47c4-4ba3-9f3b-68917426318c_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00796/Html/18594f94-73ac-4800-b05e-86e5c646e08c_files/image001.gif)
 
 # Federal Magistrates Act 1999
 
 **Act No. 193 of 1999 as amended**
 
-This compilation was prepared on 27 December 2011
+This compilation was prepared on 28 September 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
@@ -480,11 +480,11 @@ to use streamlined procedures and operate without undue formality.</li>
 
 Magistrate is to manage the Federal Magistrates Court’s administrative affairs.</li>
 
-<li class="BoxList" style="margin-left:21.25pt">•      There is to be a Chief
+<li class="BoxList" style="margin-left:21.25pt">•      There is to be a Chief Executive
 
-Executive Officer, who is to assist the Chief Federal Magistrate in managing
+Officer, who is to assist the Chief Federal Magistrate in managing the Federal
 
-the Federal Magistrates Court’s administrative affairs.</li>
+Magistrates Court’s administrative affairs.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      In addition to the Chief
 
@@ -742,7 +742,7 @@ Functions and powers of the Chief Federal Magistrate
 
              (7)  In addition to the powers and functions conferred on the Chief Federal Magistrate by this Act, the Chief Federal Magistrate has such other functions and powers in relation to the Federal Magistrates Court as are specified in the regulations.
 
-##### <a id="13"></a>13  Exercise of jurisdiction in open court and in Chambers
+##### <a id="13"></a>13  Exercise of jurisdiction in open court and in Chambers
 
              (1)  This section does not apply to family law or child support proceedings.
 
@@ -2268,7 +2268,7 @@ for an employee or employees of the agency or organisation to:
 
                    There is to be a Chief Executive Officer of the Federal Magistrates Court.
 
-##### <a id="95"></a>95  Personnel provisions relating to the Chief Executive Officer
+##### <a id="95"></a>95  Personnel provisions relating to the Chief Executive Officer
 
                    Schedule 2 has effect.
 
@@ -2772,7 +2772,7 @@ Note 1:       Subsection 3(2) of the _Remuneration Tribunal Act 1973
 
 Note 2:       Under subsection 7(4) of the _Remuneration Tribunal Act 1973_, the Remuneration Tribunal may determine any matter significantly related to the remuneration of Federal Magistrates.
 
-##### <a id="6"></a>6  Leave
+##### <a id="6"></a>6  Leave
 
                    A Federal Magistrate has the recreation leave entitlements that are determined by the Remuneration Tribunal.
 
@@ -2798,7 +2798,7 @@ Note 2:       Under subsection 7(4) of the _Remuneration Tribunal Ac
 
 ### Division 2—Disability and death benefits
 
-##### <a id="9A"></a>9A  Certification of retired disabled Federal Magistrates
+##### <a id="9A"></a>9A  Certification of retired disabled Federal Magistrates
 
              (1)  If:
 
@@ -2986,7 +2986,7 @@ Note 2:       For review of decisions under subparagraph (5)(b)(ii
 
                      (b)  that the persons were legally married to each other at the time;
 
-                   (ba)  the persons’ relationship was registered under a law of a State or Territory prescribed for the purposes of section 2E of the _Acts Interpretation Act 1901_ as a kind of relationship prescribed for the purposes of that section;
+                   (ba)  the persons’ relationship was registered under a law of a State or Territory prescribed for the purposes of section 22B of the _Acts Interpretation Act 1901_ as a kind of relationship prescribed for the purposes of that section;
 
                      (c)  that the persons had a child who was:
 
@@ -3066,7 +3066,17 @@ Applications for review
 
                      (b)  during any period, or all periods, when the Chief Federal Magistrate is absent from duty or from Australia, or is, for any reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+Note:          See also section 33A of the _Acts Interpretation Act 1901_.
+
+             (2)  Anything done by or in relation to a person purporting to act under such an appointment is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
 
              (3)  For the purposes of this Act, a person who is acting as Chief Federal Magistrate under subclause (1) is taken not to be assigned to either Division of the Federal Magistrates Court.
 
@@ -3146,13 +3156,23 @@ Note 2:       Under subsection 7(4) of the _Remuneration Tribunal Ac
 
 ##### <a id="9"></a>9  Acting Chief Executive Officer
 
-                   The Chief Federal Magistrate may appoint a person to act as Chief Executive Officer:
+             (1)  The Chief Federal Magistrate may appoint a person to act as Chief Executive Officer:
 
                      (a)  during a vacancy in the office of Chief Executive Officer; or
 
                      (b)  during any period, or all periods, when the Chief Executive Officer is absent from duty or from Australia, or is, for any reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+Note:          See also section 33A of the _Acts Interpretation Act 1901_.
+
+             (2)  Anything done by or in relation to a person purporting to act under such an appointment is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
 
 # Notes to the _Federal Magistrates Act 1999_
 
@@ -3467,7 +3487,7 @@ Schedule 2 (items
     <div>27 June 2011</div>
   </td>
   <td colspan="2">
-    <div>Schedule 2 (items 598–603) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 598–603) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 3 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11)</div>
@@ -4340,14 +4360,6 @@ _(d)_     Subsection 2(1) (item 9) of the _Statute Law Revision Act 20
 </tr>
 <tr>
   <td>
-    <div><b>Part 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Heading to Part 1 
 of Sch. 1</div>
   </td>
@@ -4365,14 +4377,6 @@ of Sch. 1</div>
 </tr>
 <tr>
   <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Heading to Part 2 
 of Sch. 1</div>
   </td>
@@ -4382,26 +4386,10 @@ of Sch. 1</div>
 </tr>
 <tr>
   <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Heading to Div. 1 of Part 2</div>
   </td>
   <td>
     <div>ad. No. 163, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
@@ -4441,7 +4429,7 @@ of Sch. 1</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 134, 2008; No. 46, 2011</div>
+    <div>am. No. 134, 2008</div>
   </td>
 </tr>
 <tr>
@@ -4470,14 +4458,6 @@ of Sch. 1</div>
 </tr>
 <tr>
   <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Div. 3 of Part 2</div>
   </td>
   <td>
@@ -4494,14 +4474,6 @@ of Sch. 1</div>
 </tr>
 <tr>
   <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Heading to Part 3 
 of Sch. 1</div>
   </td>
@@ -4514,15 +4486,7 @@ of Sch. 1</div>
     <div>C. 10</div>
   </td>
   <td>
-    <div>am. No. 55, 2009; No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to c. 10(1)</div>
-  </td>
-  <td>
-    <div>rs. No. 46, 2011</div>
+    <div>am. No. 55, 2009</div>
   </td>
 </tr>
 <tr>
@@ -4543,26 +4507,10 @@ of Sch. 1</div>
 </tr>
 <tr>
   <td>
-    <div>C. 5</div>
+    <div>Schedule 2</div>
   </td>
   <td>
     <div>am. No. 146, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C. 9</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to c. 9</div>
-  </td>
-  <td>
-    <div>rs. No. 46, 2011</div>
   </td>
 </tr></table>
 
@@ -4596,7 +4544,45 @@ Note:          See Part 6 of the _Trans‑Tasman Proceedings
 
 Omit “the _Evidence and Procedure (New Zealand) Act 1994_”, substitute “the _Trans‑Tasman Proceedings Act 2010_”.
 
-As at 27 December 2011 the amendments are not incorporated in this compilation.
+As at 28 September 2011 the amendments are not incorporated in this compilation.
+
+### Note 3
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 598  Paragraph 9E(7)(ba) of Schedule 1
+
+Omit “section 22B”, substitute “section 2E”.
+
+## 599  Subclause 10(1) of Schedule 1 (note)
+
+Repeal the note, substitute:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 600  Subclause 10(2) of Schedule 1
+
+Repeal the subclause.
+
+## 601  Subclause 9(1) of Schedule 2
+
+Omit “(1)”.
+
+## 602  Subclause 9(1) of Schedule 2 (note)
+
+Repeal the note, substitute:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 603  Subclause 9(2) of Schedule 2
+
+Repeal the subclause.
+
+As at 28 September 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -4811,6 +4797,8 @@ _Access to Justice (Civil Litigation Reforms) Amendment Act 2009
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
