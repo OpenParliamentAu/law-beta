@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00812/Html/RemuneTribunl1973_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00375/Html/RemuneTribunl1973_WD02_image001.gif)
 
 # Remuneration Tribunal Act 1973
 
 **Act No. 215 of 1973 as amended**
 
-This compilation was prepared on 15 December 2010
- taking into account amendments up to Act No. 139 of 2010
+This compilation was prepared on 5 August 2009
+ taking into account amendments up to Act No. 70 of 2009
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -20,61 +20,61 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part I—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]                                                                        1
+[1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Commencement [_see_ Note 1]                                                               1
+[2](#2).            Commencement [_see_ Note 1]
 
 **Part II—Remuneration etc. for certain offices and appointments** 
 
     **Division 1—Preliminary**
 
-[3](#3).            Interpretation                                                                                       2
+[3](#3).            Interpretation
 
-[3A](#3A).         Principal executive offices                                                                   6
+[3A](#3A).         Principal executive offices
 
-[3B](#3B).         Employing body                                                                                  7
+[3B](#3B).         Employing body
 
-[3C](#3C).         Provisions relating to declarations under sections 3A and 3B             7
+[3C](#3C).         Provisions relating to declarations under sections 3A and 3B
 
     **Division 2—Determinations and reports by the Remuneration Tribunal**
 
-[4](#4).            Establishment of Remuneration Tribunal                                            9
+[4](#4).            Establishment of Remuneration Tribunal
 
-[4A](#4A).         Acting President                                                                                  9
+[4A](#4A).         Acting President
 
-[4B](#4B).         Disclosure of interest by Tribunal members                                     10
+[4B](#4B).         Disclosure of interest by Tribunal members
 
-[5](#5).            Functions of Tribunal                                                                        11
+[5](#5).            Functions of Tribunal
 
-[6](#6).            Inquiries and reports by Tribunal                                                      12
+[6](#6).            Inquiries and reports by Tribunal
 
-[7](#7).            Inquiries and determinations by Tribunal                                          13
+[7](#7).            Inquiries and determinations by Tribunal
 
-[8](#8).            Time of making reports and determinations                                      21
+[8](#8).            Time of making reports and determinations
 
-[8A](#8A).         Time of making recreation leave determinations                                22
+[8A](#8A).         Time of making recreation leave determinations
 
-[8B](#8B).         Hearings in relation to discriminatory determinations                       22
+[8B](#8B).         Hearings in relation to discriminatory determinations
 
-[8C](#8C).         Review of discriminatory determinations                                          23
+[8C](#8C).         Review of discriminatory determinations
 
-[9](#9).            Resignation and removal from office                                                 24
+[9](#9).            Resignation and removal from office
 
-[10](#10).          Meetings of the Tribunal                                                                   24
+[10](#10).          Meetings of the Tribunal
 
-[11](#11).          Method of inquiry by Tribunal                                                         24
+[11](#11).          Method of inquiry by Tribunal
 
-[12](#12).          Fees and allowances                                                                           25
+[12](#12).          Fees and allowances
 
-[12AA](#12AA).    Annual report                                                                                    25
+[12AA](#12AA).    Annual report
 
     **Division 3—Determinations by employing bodies for principal executive offices**
 
-[12C](#12C).       Terms and conditions determined by employing body                     26
+[12C](#12C).       Terms and conditions determined by employing body
 
 **Part IV—Miscellaneous**
 
-[13](#13).          Regulations                                                                                        27
+[13](#13).          Regulations
 
 **Notes** 
 
@@ -186,7 +186,7 @@ but does not include a reference to any of the following offices or appointments
 
                      (ja)  an office of member of the Legislative Assembly, of member of the Council, or of Minister of the Territory, within the meaning of the _Northern Territory__(Self-Government) Act 1978_;
 
-                   (jaa)  an office of member of the Legislative Assembly, of member of the Executive Council, or of Minister, within the meaning of the _Norfolk Island__Act 1979_;
+                   (jaa)  an office of member of the Legislative Assembly, of member of the Executive Council, or of executive member, within the meaning of the _Norfolk Island__Act 1979_;
 
                      (k)  an office or appointment in the Australian Public Service or the Commonwealth Teaching Service;
 
@@ -690,7 +690,7 @@ the Tribunal must take the necessary action to remove the discrimination, by set
 
 The _Remuneration Tribunal Act 1973_ as shown in this compilation comprises Act No. 215, 1973 amended as indicated in the Tables below.
 
-The _Remuneration Tribunal Act 1973_ was amended by the _Public Employment (Consequential and Transitional) Regulations 1999_ (Statutory Rules 1999 No. 301 as amended by Statutory Rules 2000 No. 332) and the _Workplace Relations Amendment (Work Choices) (Consequential Amendments) Regulations 2006 (No. 1)_ (SLI 2006 No. 50 as amended by 2006 No. 119). The amendments are incorporated in this compilation.
+The _Remuneration Tribunal Act 1973_ was amended by the _Public Employment (Consequential and Transitional) Regulations 1999_ (Statutory Rules 1999 No. 301 as amended by Statutory Rules 2000 No. 332) and the _Workplace Relations Amendment (Work Choices) (Consequential Amendments) Regulations 2006 (No. 1)_ (SLI 2006 No. 50 as amended by 2006 No. 119). The amendments are incorporated in this compilation.
 
 All relevant information pertaining to application, saving or transitional provisions prior to 16 December 1995 is not included in this compilation. For subsequent information _see_ Table A.
 
@@ -1747,7 +1747,7 @@ Remainder: Royal Assent</div>
     <div>22 Mar 2005</div>
   </td>
   <td>
-    <div>Schedule 4 (items 80, 81): 24 Mar 2005</div>
+    <div>Schedule 4 (items 80, 81): 24 Mar 2005</div>
   </td>
   <td>
     <div>—</div>
@@ -1781,7 +1781,7 @@ Remainder: Royal Assent</div>
     <div>4 Nov 2006</div>
   </td>
   <td>
-    <div>Schedules 1–3: 1 July 2007 ( <i>see</i>s. 2(1)) 
+    <div>Schedules 1–3: 1 July 2007 ( <i>see</i>s. 2(1)) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -1799,7 +1799,7 @@ Remainder: Royal Assent</div>
     <div>11 Dec 2006</div>
   </td>
   <td>
-    <div>Schedule 3 (item 4): \[ <i>see</i>Note 2]</div>
+    <div>Schedule 3 (item 4): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>––</div>
@@ -1813,10 +1813,10 @@ Remainder: Royal Assent</div>
     <div>32, 2007</div>
   </td>
   <td>
-    <div>30 Mar 2007</div>
+    <div>30 Mar 2007</div>
   </td>
   <td>
-    <div>Schedule 1 (item 60): 1 Apr 2007 ( <i>see</i>s. 2(1))</div>
+    <div>Schedule 1 (item 60): 1 Apr 2007 ( <i>see</i>s. 2(1))</div>
   </td>
   <td>
     <div>—</div>
@@ -1833,7 +1833,7 @@ Remainder: Royal Assent</div>
     <div>24 Sept 2007</div>
   </td>
   <td>
-    <div>Schedule 1: 1 Jan 2008 ( <i>see</i>F2007L04141) 
+    <div>Schedule 1: 1 Jan 2008 ( <i>see</i>F2007L04141) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -1848,10 +1848,10 @@ Remainder: Royal Assent</div>
     <div>73, 2008</div>
   </td>
   <td>
-    <div>3 July 2008</div>
+    <div>3 July 2008</div>
   </td>
   <td>
-    <div>Schedule 4 (items 446–449): 4 July 2008</div>
+    <div>Schedule 4 (items 446–449): 4 July 2008</div>
   </td>
   <td>
     <div>—</div>
@@ -1868,7 +1868,7 @@ Remainder: Royal Assent</div>
     <div>25 Nov 2008</div>
   </td>
   <td>
-    <div>Schedule 3 (item 3): <i>(x)</i></div>
+    <div>Schedule 3 (item 3): <i>(x)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1882,7 +1882,7 @@ Remainder: Royal Assent</div>
     <div>54, 2009</div>
   </td>
   <td>
-    <div>25 June 2009</div>
+    <div>25 June 2009</div>
   </td>
   <td>
     <div>Schedule 8 (items 104–108, 160, 161): <i>(y)</i></div>
@@ -1899,27 +1899,10 @@ Remainder: Royal Assent</div>
     <div>70, 2009</div>
   </td>
   <td>
-    <div>8 July 2009</div>
+    <div>8 July 2009</div>
   </td>
   <td>
-    <div>Schedule 3 (items 71–73): 5 Aug 2009</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Territories Law Reform Act 2010</div>
-  </td>
-  <td>
-    <div>139, 2010</div>
-  </td>
-  <td>
-    <div>10 Dec 2010</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 77): 11 Dec 2010</div>
+    <div>Schedule 3 (items 71–73): 5 Aug 2009</div>
   </td>
   <td>
     <div>—</div>
@@ -2115,7 +2098,8 @@ _(x)_ Subsection 2(1) (item 5) of the _Dairy Adjustment Levy Termination Act 2
   </td>
   <td>
     <div>
-      31 December 2008 (
+      31 December 2008
+      (
         <i>see
 
         </i>F2008L04779)
@@ -2173,7 +2157,7 @@ _(y)_     Subsection 2(1) (items 24 and 30) of the _Fair Work (State R
   </td>
   <td>
     <div>
-      1 July 2009 (
+      1 July 2009 (
         <i>see</i>F2009L02563)
     </div>
   </td>
@@ -2192,7 +2176,7 @@ _(y)_     Subsection 2(1) (items 24 and 30) of the _Fair Work (State R
   </td>
   <td>
     <div>
-      1 July 2009 (
+      1 July 2009 (
         <i>see</i>F2009L02563)
     </div>
   </td>
@@ -2231,7 +2215,7 @@ _(y)_     Subsection 2(1) (items 24 and 30) of the _Fair Work (State R
 </tr>
 <tr>
   <td>
-    <div><b>Part I</b></div>
+    <div><b>Part I</b></div>
   </td>
   <td>
     <div></div>
@@ -2255,7 +2239,7 @@ _(y)_     Subsection 2(1) (items 24 and 30) of the _Fair Work (State R
 </tr>
 <tr>
   <td>
-    <div><b>Part II</b></div>
+    <div><b>Part II</b></div>
   </td>
   <td>
     <div></div>
@@ -2279,7 +2263,7 @@ _(y)_     Subsection 2(1) (items 24 and 30) of the _Fair Work (State R
 </tr>
 <tr>
   <td>
-    <div><b>Division 1</b></div>
+    <div><b>Division 1</b></div>
   </td>
   <td>
     <div></div>
@@ -2298,7 +2282,7 @@ _(y)_     Subsection 2(1) (items 24 and 30) of the _Fair Work (State R
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 80, 1974; No. 96, 1975; Nos. 60 and 178, 1978; Nos. 26, 108 and 155, 1979; No. 160, 1980; No. 176, 1981; No. 78, 1982; No. 39, 1983; No. 164, 1984; Nos. 65 and 187, 1985; No. 87, 1988; No. 109, 1988 (as am. by No. 92, 1994); No. 123, 1988; Nos. 152 and 179, 1989; No. 28, 1990; No. 122, 1991 (as am. by No. 52, 1992); Nos. 52 and 104, 1992; No. 109, 1993; No. 43, 1996; Nos. 1 and 66, 1997; Nos. 116 and 161, 1999; No. 1, 2000; No. 27, 2001; SLI 2006 Nos. 50 and 119; No. 125, 2006; No. 150, 2007; No. 54, 2009; No. 139, 2010</div>
+    <div>am. No. 80, 1974; No. 96, 1975; Nos. 60 and 178, 1978; Nos. 26, 108 and 155, 1979; No. 160, 1980; No. 176, 1981; No. 78, 1982; No. 39, 1983; No. 164, 1984; Nos. 65 and 187, 1985; No. 87, 1988; No. 109, 1988 (as am. by No. 92, 1994); No. 123, 1988; Nos. 152 and 179, 1989; No. 28, 1990; No. 122, 1991 (as am. by No. 52, 1992); Nos. 52 and 104, 1992; No. 109, 1993; No. 43, 1996; Nos. 1 and 66, 1997; Nos. 116 and 161, 1999; No. 1, 2000; No. 27, 2001; SLI 2006 Nos. 50 and 119; No. 125, 2006; No. 150, 2007; No. 54, 2009</div>
   </td>
 </tr>
 <tr>
@@ -2311,7 +2295,7 @@ _(y)_     Subsection 2(1) (items 24 and 30) of the _Fair Work (State R
 </tr>
 <tr>
   <td>
-    <div><b>Division 2</b></div>
+    <div><b>Division 2</b></div>
   </td>
   <td>
     <div></div>
@@ -2370,7 +2354,7 @@ _(y)_     Subsection 2(1) (items 24 and 30) of the _Fair Work (State R
     <div>S. 5</div>
   </td>
   <td>
-    <div>am. No. 73, 1984; Nos. 87 and 123, 1988; No. 109, 1993; No. 168, 1995; No. 66, 1997; No. 146, 1999; No. 27, 2001; No. 39, 2005; SLI 2006 No. 50; No. 150, 2007; No. 54, 2009</div>
+    <div>am. No. 73, 1984; Nos. 87 and 123, 1988; No. 109, 1993; No. 168, 1995; No. 66, 1997; No. 146, 1999; No. 27, 2001; No. 39, 2005; SLI 2006 No. 50; No. 150, 2007; No. 54, 2009</div>
   </td>
 </tr>
 <tr>
@@ -2386,7 +2370,7 @@ _(y)_     Subsection 2(1) (items 24 and 30) of the _Fair Work (State R
     <div>S. 7</div>
   </td>
   <td>
-    <div>am. No. 80, 1974; No. 178, 1978; No. 160, 1980; No. 74, 1981; Nos. 78 and 111, 1982; Nos. 63 and 73, 1984; No. 87, 1988; Nos. 95, 149, 150 and 152, 1989; No. 122, 1991; No. 104, 1992; No. 109, 1993; Nos. 1 and 92, 1994; Nos. 20 and 168, 1995; No. 43, 1996; No. 120, 1997; No. 146, 1999; Nos. 1 and 22, 2000; No. 27, 2001; No. 127, 2002; No. 32, 2005; SLI 2006 No. 50; No. 32, 2007; Nos. 73 and 123, 2008; No. 54, 2009</div>
+    <div>am. No. 80, 1974; No. 178, 1978; No. 160, 1980; No. 74, 1981; Nos. 78 and 111, 1982; Nos. 63 and 73, 1984; No. 87, 1988; Nos. 95, 149, 150 and 152, 1989; No. 122, 1991; No. 104, 1992; No. 109, 1993; Nos. 1 and 92, 1994; Nos. 20 and 168, 1995; No. 43, 1996; No. 120, 1997; No. 146, 1999; Nos. 1 and 22, 2000; No. 27, 2001; No. 127, 2002; No. 32, 2005; SLI 2006 No. 50; No. 32, 2007; Nos. 73 and 123, 2008; No. 54, 2009</div>
   </td>
 </tr>
 <tr>
@@ -2479,7 +2463,7 @@ _(y)_     Subsection 2(1) (items 24 and 30) of the _Fair Work (State R
 </tr>
 <tr>
   <td>
-    <div><b>Division 3</b></div>
+    <div><b>Division 3</b></div>
   </td>
   <td>
     <div></div>
@@ -2679,7 +2663,7 @@ _(y)_     Subsection 2(1) (items 24 and 30) of the _Fair Work (State R
 </tr>
 <tr>
   <td>
-    <div><b>Part IV</b></div>
+    <div><b>Part IV</b></div>
   </td>
   <td>
     <div></div>
@@ -2698,15 +2682,15 @@ _(y)_     Subsection 2(1) (items 24 and 30) of the _Fair Work (State R
 
 _Medibank Private Sale Act 2006 (No. 160, 2006)_
 
-The following amendment commences on the designated sale day declared under section 3:
+The following amendment commences on the designated sale day declared under section 3:
 
-## Schedule 3
+## Schedule 3
 
 ## 4  Subsection 3(1) (paragraph (i) of the definition of _principal executive office_)
 
 Repeal the paragraph.
 
-As at 15 December 2010 the amendment is not incorporated in this compilation.
+As at 5 August 2009 the amendment is not incorporated in this compilation.
 
 ## Table A
 
