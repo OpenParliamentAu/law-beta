@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00753/Html/57da03a4-0892-4f3d-8bfb-86ccf37783af_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00808/Html/HistoricShipwrecks1976_image001.gif)
 
 # Historic Shipwrecks Act 1976
 
 **Act No. 190 of 1976 as amended**
 
-This compilation was prepared on 16 September 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 14 December 2010
+ taking into account amendments up to Act No. 139 of 2010
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -108,7 +108,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 WHEREAS, by an Agreement between the Netherlands and Australia Concerning Old Dutch Shipwrecks that was signed on 6 November 1972 (being the agreement a copy of the text of which is set out in Schedule 1 to this Act), the Netherlands, as successor to the property and assets of the Dutch “Vereenigde Oostindische Compagnie”, transferred to Australia all its right, title and interest in and to wrecked vessels of the Dutch “Vereenigde Oostindische Compagnie” lying on or off the coast of the State of Western Australia and in and to any articles thereof and Australia accepted that right, title and interest: 
 
-AND WHEREAS it is desirable that the Commonwealth and the States, in co‑operation, should protect those wrecked vessels and articles, and the remains of, and any articles associated with, other ships of historic significance, being remains or articles that are situated in, or have been removed from, Australian waters or waters above the continental shelf of Australia: 
+AND WHEREAS it is desirable that the Commonwealth and the States, in co-operation, should protect those wrecked vessels and articles, and the remains of, and any articles associated with, other ships of historic significance, being remains or articles that are situated in, or have been removed from, Australian waters or waters above the continental shelf of Australia: 
 
 BE IT THEREFORE ENACTED by the Queen, and the Senate and House of Representatives of the Commonwealth of Australia, as follows:
 
@@ -126,13 +126,13 @@ BE IT THEREFORE ENACTED by the Queen, and the Senate and House of Representative
 
              (3)  Proclamations under subsection (1) in relation to waters adjacent to the coasts of New South Wales, Queensland and Western Australia having been made, before the commencement of this subsection, at the request or with the consent of the Governments of those States respectively, no further Proclamation under that subsection shall be made except at the request or with the consent of the Government of the State concerned. 
 
-             (4)  If, after this Act has commenced to apply in relation to any waters adjacent to the coast of a State, the Government of the State notifies the Government of the Commonwealth that it desires that this Act shall cease to apply in relation to those waters or a specified part of those waters, the Governor‑General shall, by Proclamation, declare that this Act shall, on a date specified in the Proclamation, cease to apply accordingly and, upon that date, this Act shall cease to apply in relation to the waters specified in the Proclamation or to or in relation to remains of ships, and articles, that are in those waters or have been removed from those waters, and section 8 of the _Acts Interpretation Act 1901_ has effect as if this Act, to the extent that it so ceases to apply, had been repealed on that date by another Act.
+             (4)  If, after this Act has commenced to apply in relation to any waters adjacent to the coast of a State, the Government of the State notifies the Government of the Commonwealth that it desires that this Act shall cease to apply in relation to those waters or a specified part of those waters, the Governor-General shall, by Proclamation, declare that this Act shall, on a date specified in the Proclamation, cease to apply accordingly and, upon that date, this Act shall cease to apply in relation to the waters specified in the Proclamation or to or in relation to remains of ships, and articles, that are in those waters or have been removed from those waters, and section 8 of the _Acts Interpretation Act 1901_ has effect as if this Act, to the extent that it so ceases to apply, had been repealed on that date by another Act.
 
              (5)  A Government of a State may, in a notification to the Government of the Commonwealth under subsection (4), request that this Act shall continue to be applicable to and in relation to specified articles, or articles of a specified class, removed from the waters referred to in the notification and, in that event, the Proclamation under that subsection shall provide, and have effect, accordingly. 
 
              (6)  Nothing contained in, or done under, subsection (4) affects the application of this Act to or in relation to a Dutch shipwreck or Dutch relic, and a Proclamation under that subsection in relation to waters adjacent to Western Australia shall declare that the Proclamation does not affect the application of this Act to or in relation to any wrecked vessel or article that is a Dutch shipwreck or Dutch relic within the meaning of this Act. 
 
-             (7)  Where the Governor‑General is satisfied that arrangements made, apart from this Act, with respect to Dutch shipwrecks or Dutch relics make it appropriate to do so, the Governor‑General may, by Proclamation, declare that this Act shall, on a date specified in the Proclamation, cease to apply to and in relation to all Dutch shipwrecks and Dutch relics, or such Dutch shipwrecks and Dutch relics as are in, or have been removed from, a specified part of the waters adjacent to Western Australia and, where such a Proclamation is made, section 8 of the _Acts Interpretation Act 1901_ has effect as if this Act, to the extent that it is so declared to cease to apply, had been repealed by another Act on the date specified in the Proclamation.
+             (7)  Where the Governor-General is satisfied that arrangements made, apart from this Act, with respect to Dutch shipwrecks or Dutch relics make it appropriate to do so, the Governor-General may, by Proclamation, declare that this Act shall, on a date specified in the Proclamation, cease to apply to and in relation to all Dutch shipwrecks and Dutch relics, or such Dutch shipwrecks and Dutch relics as are in, or have been removed from, a specified part of the waters adjacent to Western Australia and, where such a Proclamation is made, section 8 of the _Acts Interpretation Act 1901_ has effect as if this Act, to the extent that it is so declared to cease to apply, had been repealed by another Act on the date specified in the Proclamation.
 
              (8)  A Proclamation under subsection (7) may provide that this Act shall continue to be applicable to and in relation to specified Dutch relics, or Dutch relics of a specified class, removed from the waters to which the Proclamation relates and in that event this Act shall have effect accordingly. 
 
@@ -140,7 +140,7 @@ BE IT THEREFORE ENACTED by the Queen, and the Senate and House of Representative
 
           (9A)  Nothing contained in, or done under, subsection (4) affects the application of this Act to or in relation to a Papua New Guinea shipwreck or a Papua New Guinea relic and a Proclamation under that subsection in relation to waters adjacent to Queensland shall declare that the Proclamation does not affect the application of this Act to or in relation to any wrecked vessel or article that is a Papua New Guinea shipwreck or Papua New Guinea relic within the meaning of this Act. 
 
-          (9B)  Where the Governor‑General is satisfied that arrangements made, apart from this Act, with respect to a Papua New Guinea shipwreck or Papua New Guinea shipwrecks or a Papua New Guinea relic or Papua New Guinea relics make it appropriate to do so, the Governor‑General may, by Proclamation, declare that this Act shall, on a date specified in the Proclamation, cease to apply to and in relation to that Papua New Guinea shipwreck or those Papua New Guinea shipwrecks, or that Papua New Guinea relic or those Papua New Guinea relics and, where such a Proclamation is made, section 8 of the _Acts Interpretation Act 1901_ has effect as if this Act, to the extent that it is so declared to cease to apply, had been repealed by another Act on the date specified in the Proclamation.
+          (9B)  Where the Governor-General is satisfied that arrangements made, apart from this Act, with respect to a Papua New Guinea shipwreck or Papua New Guinea shipwrecks or a Papua New Guinea relic or Papua New Guinea relics make it appropriate to do so, the Governor-General may, by Proclamation, declare that this Act shall, on a date specified in the Proclamation, cease to apply to and in relation to that Papua New Guinea shipwreck or those Papua New Guinea shipwrecks, or that Papua New Guinea relic or those Papua New Guinea relics and, where such a Proclamation is made, section 8 of the _Acts Interpretation Act 1901_ has effect as if this Act, to the extent that it is so declared to cease to apply, had been repealed by another Act on the date specified in the Proclamation.
 
            (10)  Where a Proclamation is expressed to be made in accordance with a specified subsection of this section, it shall be conclusively presumed that any request or consent of, or notification by, the Government of a State, or any other condition precedent, that is necessary or applicable under that subsection has been duly made, given or complied with.
 
@@ -150,19 +150,19 @@ BE IT THEREFORE ENACTED by the Queen, and the Senate and House of Representative
 
                     <a name=""></a><a name="australia"></a>**_Australia_** includes the external Territories.
 
-                    <a name="australia-netherland-agreem"></a>**_Australia‑Netherlands Agreement_** means the Agreement between the Netherlands and Australia Concerning Old Dutch Shipwrecks that was signed on 6 November 1972, being the agreement a copy of the text of which is set out in Schedule 1.
+                    <a name="australia-netherland-agreem"></a>**_Australia-Netherlands Agreement_** means the Agreement between the Netherlands and Australia Concerning Old Dutch Shipwrecks that was signed on 6 November 1972, being the agreement a copy of the text of which is set out in Schedule 1.
 
                     <a name="australian-water"></a>**_Australian waters_** means the territorial sea of Australia and waters of the sea (not being State waters) on the landward side of the territorial sea of Australia.
 
                     <a name="continent-shelf"></a>**_continental shelf_** has the same meaning as in the _Seas and Submerged Lands Act 1973_. 
 
-                    <a name="dutch-relic"></a>**_Dutch relic_** means an article mentioned in Article 1 or 2 of the Australia‑Netherlands Agreement. 
+                    <a name="dutch-relic"></a>**_Dutch relic_** means an article mentioned in Article 1 or 2 of the Australia-Netherlands Agreement. 
 
                     <a name="dutch-shipwreck"></a>**_Dutch shipwreck_** means: 
 
                      (a)  a wrecked vessel mentioned in Schedule 2; or 
 
-                     (b)  any other wrecked vessel mentioned in Article 1 of the Australia‑Netherlands Agreement (including any such vessel that is no longer lying on or off the coast of the State of Western Australia as mentioned in that Article).
+                     (b)  any other wrecked vessel mentioned in Article 1 of the Australia-Netherlands Agreement (including any such vessel that is no longer lying on or off the coast of the State of Western Australia as mentioned in that Article).
 
                     <a name="histor-relic"></a>**_historic relic_** means: 
 
@@ -172,7 +172,7 @@ BE IT THEREFORE ENACTED by the Queen, and the Senate and House of Representative
 
                      (b)  a Dutch relic; 
 
-                   (ba)  a Papua New Guinea relic; or 
+                    (ba)  a Papua New Guinea relic; or 
 
                      (c)  an article in respect of which a notice in force under subsection 6(2) (including that subsection as having effect by virtue of subsection 6(3)) is applicable. 
 
@@ -184,7 +184,7 @@ BE IT THEREFORE ENACTED by the Queen, and the Senate and House of Representative
 
                      (b)  a Dutch shipwreck; 
 
-                   (ba)  a Papua New Guinea shipwreck; or 
+                    (ba)  a Papua New Guinea shipwreck; or 
 
                      (c)  an article or articles in respect of which a notice in force under subsection 6(1) (including that subsection as having effect by virtue of subsection 6(3)) is applicable.
 
@@ -202,7 +202,7 @@ BE IT THEREFORE ENACTED by the Queen, and the Senate and House of Representative
 
                     <a name="shipwreck"></a><a name="papua-new-guinea"></a>**_Papua New Guinea_****_shipwreck_** means the remains of a ship in respect of which a notice is in force under subsection 5(5).
 
-                    <a name="protect-zone"></a>**_protected zone_** means an area in respect of which a notice is in force under subsection 7(1) and any area by which the first‑mentioned area is extended by a notice that is in force under subsection 7(2) and includes the airspace above such an area and any waters, sea‑bed and subsoil included in such an area by virtue of subsection 7(3). 
+                    <a name="protect-zone"></a>**_protected zone_** means an area in respect of which a notice is in force under subsection 7(1) and any area by which the first-mentioned area is extended by a notice that is in force under subsection 7(2) and includes the airspace above such an area and any waters, sea-bed and subsoil included in such an area by virtue of subsection 7(3). 
 
                     <a name="regist"></a>**_Register_** means the Register of Historic Shipwrecks kept under section 12.
 
@@ -228,7 +228,7 @@ BE IT THEREFORE ENACTED by the Queen, and the Senate and House of Representative
 
                      (c)  having been removed, or washed away, from a reef in those waters. 
 
-             (3)  A thing shall not be taken not to be an article for the purposes of this Act by reason that it is attached to the remains of a ship, to a reef or to, or to the subsoil of, the sea‑bed.
+             (3)  A thing shall not be taken not to be an article for the purposes of this Act by reason that it is attached to the remains of a ship, to a reef or to, or to the subsoil of, the sea-bed.
 
              (4)  A reference in this Act to an article associated with a ship shall be construed as a reference to an article that appears to have formed part of, to have been installed or carried on, or to have been constructed or used by a person associated with, a ship.
 
@@ -252,7 +252,7 @@ the Minister may declare, in writing, that the part referred to in paragraph (
 
 ##### <a id="4"></a>4  Act to bind Crown
 
-                   This Act binds the Crown in right of the Commonwealth, of each of the States, of the Northern Territory and of Norfolk Island, but nothing in this Act renders the Crown liable to be prosecuted for an offence.
+                   This Act binds the Crown in right of the Commonwealth, of each of the States, of the Northern Territory and of Norfolk  Island, but nothing in this Act renders the Crown liable to be prosecuted for an offence.
 
 ##### <a id="4AA"></a>4AA  Application of the _Criminal Code_
 
@@ -352,15 +352,15 @@ the declaration continues to apply in relation to that article.
 
            (11)  In this section:
 
-                    <a name="state"></a>**_State_** includes the Northern Territory and Norfolk Island. 
+                    <a name="state"></a>**_State_** includes the Northern Territory and Norfolk  Island. 
 
-                    <a name="territori"></a>**_Territory_** does not include the Northern Territory or Norfolk Island.
+                    <a name="territori"></a>**_Territory_** does not include the Northern   Territory or Norfolk Island.
 
            (12)  In this section:
 
                      (a)  a reference to a Minister of a State shall, except in relation to the Northern Territory or Norfolk Island, be read as a reference to a Minister of the Crown of the State;
 
-                     (b)  a reference to a Minister of a State shall, in relation to the Northern Territory, be read as a reference to a person holding an office referred to in section 34 of the _Northern Territory (Self‑Government Act) 1978_; and 
+                     (b)  a reference to a Minister of a State shall, in relation to the Northern Territory, be read as a reference to a person holding an office referred to in section 34 of the _Northern Territory (Self-Government Act) 1978_; and 
 
                      (c)  a reference to a Minister of a State shall, in relation to Norfolk Island, be read as a reference to a Minister of Norfolk Island.
 
@@ -416,7 +416,7 @@ the declaration continues to apply in relation to that article notwithstanding i
 
              (2)  Where the Minister is of the opinion that it is necessary to do so for the purposes of protecting a historic shipwreck, a historic relic or historic relics, the Minister may, by notice published in the _Gazette_, extend an area comprising a protected zone under subsection (1) to include a further area consisting of sea or partly of sea and partly of land (being sea or land within the limits of a State) but so that the total area does not exceed 200 hectares and, where an area is so extended to include a further area, the protected zone includes that further area.
 
-             (3)  Where a notice declaring an area to be, or to be included in, a protected zone is in force under subsection (1) or (2), the protected zone shall be taken to include the airspace above that area and, to the extent to which that area consists of the surface of any sea, to include the waters beneath that area, the sea‑bed beneath those waters and the subsoil of that sea‑bed.
+             (3)  Where a notice declaring an area to be, or to be included in, a protected zone is in force under subsection (1) or (2), the protected zone shall be taken to include the airspace above that area and, to the extent to which that area consists of the surface of any sea, to include the waters beneath that area, the sea-bed beneath those waters and the subsoil of that sea-bed.
 
           (3A)  Where a declaration under section 4A is revoked in relation to the remains of a ship or to an article, any notice under this section in relation to the remains or to the article ceases to be in force, but this subsection does not prevent the publication in the _Gazette_ of a further notice under this section in relation to the remains or to the article if a notice is published in the _Gazette_ under section 5 or 6 in relation to the remains or to the article.
 
@@ -566,7 +566,7 @@ Note:          The defendant bears an evidential burden in rel
 
                      (b)  omit to perform an act.
 
-             (2)  A reference in subsection (1) to the removal of a historic shipwreck or a historic relic from waters includes a reference to the removal of a historic shipwreck or a historic relic from the sea‑bed, or from the subsoil of the sea‑bed, beneath those waters or from a reef in those waters.
+             (2)  A reference in subsection (1) to the removal of a historic shipwreck or a historic relic from waters includes a reference to the removal of a historic shipwreck or a historic relic from the sea-bed, or from the subsoil of the sea-bed, beneath those waters or from a reef in those waters.
 
              (3)  A person who contravenes this section is guilty of an offence and is punishable, on conviction:
 
@@ -660,7 +660,7 @@ or was done with any other reasonable excuse.
 
              (1)  A person who finds, in a fixed position in Australian waters or waters above the continental shelf of Australia, the remains of a ship or of a part of a ship, or an article associated with a ship, shall, as soon as practicable, give to the Minister a notice setting out a description of the remains or of the article and a description of the place where the remains are, or the article is, situated, being a description of that place that is sufficient to enable the remains or article to be located.
 
-             (2)  It is a defence to a prosecution of a person for an offence against subsection (1) if the person proves, or proves that he or she had reasonable grounds for believing, that a notice setting out a description of the place where the remains are or the article is situated, being a description that is sufficient to enable the remains or article to be located, was given to the Minister by another person before it was practicable for the first‑mentioned person to give such a notice.
+             (2)  It is a defence to a prosecution of a person for an offence against subsection (1) if the person proves, or proves that he or she had reasonable grounds for believing, that a notice setting out a description of the place where the remains are or the article is situated, being a description that is sufficient to enable the remains or article to be located, was given to the Minister by another person before it was practicable for the first-mentioned person to give such a notice.
 
                     Penalty:  
 
@@ -698,17 +698,17 @@ or both.
 
 ##### <a id="19"></a>19  Arrangements for State and Northern Territory authorities to perform certain functions
 
-             (1)  The Governor‑General may make arrangements with the Governor of a State or the Administrator of the Northern Territory for the performance of functions by a competent authority of the State or of the Northern Territory in relation to the protection, recovery, preservation and exhibition of historic shipwrecks and historic relics.
+             (1)  The Governor-General may make arrangements with the Governor of a State or the Administrator of the Northern   Territory for the performance of functions by a competent authority of the State or of the Northern Territory in relation to the protection, recovery, preservation and exhibition of historic shipwrecks and historic relics.
 
-             (2)  Without prejudice to subsection (1), the Governor‑General may make arrangements with the Governor of Western Australia for the performance by The Western Australian Museum of functions in relation to the protection, recovery, preservation and exhibition of Dutch shipwrecks and Dutch relics.
+             (2)  Without prejudice to subsection (1), the Governor-General may make arrangements with the Governor of Western Australia for the performance by The Western Australian Museum of functions in relation to the protection, recovery, preservation and exhibition of Dutch shipwrecks and Dutch relics.
 
 ##### <a id="20"></a>20  Declaration as to ownership of remains of ships or relics
 
-             (1)  Where the Minister is of the opinion that it is necessary to do so for the purpose of carrying out or giving effect to the Australia‑Netherlands Agreement, the Minister may, by notice published in the _Gazette_, declare the ownership of a specified Dutch shipwreck to be vested in a specified authority of the Commonwealth and, upon the publication of the notice, that authority becomes, by force of this subsection, the owner of that Dutch shipwreck free of any charges or other encumbrances.
+             (1)  Where the Minister is of the opinion that it is necessary to do so for the purpose of carrying out or giving effect to the Australia-Netherlands Agreement, the Minister may, by notice published in the _Gazette_, declare the ownership of a specified Dutch shipwreck to be vested in a specified authority of the Commonwealth and, upon the publication of the notice, that authority becomes, by force of this subsection, the owner of that Dutch shipwreck free of any charges or other encumbrances.
 
-             (2)  Where the Minister is of the opinion that it is necessary to do so for the purpose of carrying out or giving effect to the Australia‑Netherlands Agreement, the Minister may, by notice published in the _Gazette_, declare the ownership of a specified Dutch relic to be vested in a specified authority of the Commonwealth, in the State of Western Australia, in a specified authority of that State or in the Government of the Kingdom of the Netherlands and, upon the publication of the notice, the authority of the Commonwealth, the State of Western Australia, the authority of that State or the Government of the Kingdom of the Netherlands, as the case may be, becomes, by force of this subsection, the owner of that Dutch relic free of any charges or other encumbrances.
+             (2)  Where the Minister is of the opinion that it is necessary to do so for the purpose of carrying out or giving effect to the Australia-Netherlands Agreement, the Minister may, by notice published in the _Gazette_, declare the ownership of a specified Dutch relic to be vested in a specified authority of the Commonwealth, in the State of Western Australia, in a specified authority of that State or in the Government of the Kingdom of the Netherlands and, upon the publication of the notice, the authority of the Commonwealth, the State of Western Australia, the authority of that State or the Government of the Kingdom of the Netherlands, as the case may be, becomes, by force of this subsection, the owner of that Dutch relic free of any charges or other encumbrances.
 
-             (3)  Where the Minister is of the opinion that it is necessary to do so for the purpose of carrying out or giving effect to this Act or any relevant agreement other than the Australia‑Netherlands Agreement, the Minister may, by notice published in the _Gazette_, declare the ownership of the remains of a specified ship, or of a specified article that was associated with a ship, or of all articles that were associated with a specified ship, to be vested in the Commonwealth, in a specified State, in a specified authority of the Commonwealth or of a State, in the Government of a specified country other than Australia or in any other specified person and, upon the publication of the notice, the Commonwealth, the State, the authority, the Government, or the other person, as the case may be, becomes, by force of this subsection, the owner of those remains or of that article or those articles, free of any charges or other encumbrances.
+             (3)  Where the Minister is of the opinion that it is necessary to do so for the purpose of carrying out or giving effect to this Act or any relevant agreement other than the Australia-Netherlands Agreement, the Minister may, by notice published in the _Gazette_, declare the ownership of the remains of a specified ship, or of a specified article that was associated with a ship, or of all articles that were associated with a specified ship, to be vested in the Commonwealth, in a specified State, in a specified authority of the Commonwealth or of a State, in the Government of a specified country other than Australia or in any other specified person and, upon the publication of the notice, the Commonwealth, the State, the authority, the Government, or the other person, as the case may be, becomes, by force of this subsection, the owner of those remains or of that article or those articles, free of any charges or other encumbrances.
 
              (4)  The publication of a notice under this section in relation to a Dutch shipwreck, the remains of a ship not being a Dutch shipwreck, a Dutch relic or any other article does not affect the application of any other provision of this Act to or in relation to that Dutch shipwreck, the remains of that ship, that Dutch relic or that other article, as the case may be.
 
@@ -730,7 +730,7 @@ or both.
 
              (3)  A person who ceases to be an inspector appointed under subsection (1) shall forthwith return his or her identity card to the Minister.
 
-                    Penalty for a contravention of this subsection:     $100.
+                    Penalty for a contravention of this subsection:    $100.
 
 ##### <a id="23"></a>23  Powers of inspectors
 
@@ -836,7 +836,7 @@ Note:          The defendant bears an evidential burden in rel
 
                      (b)  in Australian waters or waters above the continental shelf of Australia;
 
-                   (ba)  in State waters; or
+                    (ba)  in State waters; or
 
                      (c)  in a specified protected zone; 
 
@@ -860,7 +860,7 @@ is _prima facie_ evidence of the matters stated in the certificate.
 
 ##### <a id="32"></a>32  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed or necessary or convenient to be prescribed for carrying out or giving effect to this Act or carrying out or giving effect to the Australia‑Netherlands Agreement or any other relevant agreement.
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed or necessary or convenient to be prescribed for carrying out or giving effect to this Act or carrying out or giving effect to the Australia-Netherlands Agreement or any other relevant agreement.
 
 # Schedules
 
@@ -870,9 +870,9 @@ _Section 3_
 
 THE UNDERSIGNED:
 
-1.    MR WIM BLOKZIJL, resident of The Hague, Head of the Inspection Division of the State Property Directorate of the Ministry of Finance, acting on behalf of the State of the Netherlands, hereinafter referred to as “The Netherlands”.
+1.     MR WIM BLOKZIJL, resident of The Hague, Head of the Inspection Division of the State Property Directorate of the Ministry of Finance, acting on behalf of the State of the Netherlands, hereinafter referred to as “The Netherlands”.
 
-2.    DR LLOYD DOUGLAS THOMSON, M.V.O., Australian Ambassador to the Netherlands, acting on behalf of the Government of the Commonwealth of Australia, hereinafter referred to as “Australia”:
+2.     DR LLOYD DOUGLAS THOMSON, M.V.O., Australian Ambassador to the Netherlands, acting on behalf of the Government of the Commonwealth of Australia, hereinafter referred to as “Australia”:
 
 HAVING REGARD TO THE FACT:
 
@@ -904,13 +904,13 @@ _Article 7:_     Expenditure incurred by the Committee in the performanc
 
    (III)     the expenses of transportation of articles distributed in accordance with determinations of the Committee shall be borne by the recipients of the articles.
 
-_Article 8:_ If the members of the Committee referred to in article 4 of this Agreement cannot come to an agreement on the disposition of particular articles, Australia and the Netherlands shall appoint an independent consultant to report on the matter in issue and the report shall be referred to the Committee for re‑consideration of the matter. The cost of the report shall be shared between the two Parties represented on the Committee, the share to be borne by the Netherlands being one third and that by Australia two thirds.
+_Article 8:_ If the members of the Committee referred to in article 4 of this Agreement cannot come to an agreement on the disposition of particular articles, Australia and the Netherlands shall appoint an independent consultant to report on the matter in issue and the report shall be referred to the Committee for re-consideration of the matter. The cost of the report shall be shared between the two Parties represented on the Committee, the share to be borne by the Netherlands being one third and that by   Australia two thirds.
 
 _Article 9:_     If, on considering the consultant’s report on a matter, the members of the Committee cannot come to an agreement on the disposition of the recovered articles, the matter will be referred to the Government of the Kingdom of the Netherlands and the Government of the Commonwealth of Australia, which will settle the matter by negotiation.
 
 _Article 10:_   This Agreement shall enter into force on the date of the signatures of both Parties.
 
-DONE at The Hague this sixth day of November in the year One thousand nine hundred and seventy‑two in two originals in the English language.
+DONE at The Hague this sixth day of November in the year One thousand nine hundred and seventy-two in two originals in the English language.
 
 **ARRANGEMENT SETTING OUT THE GUIDING PRINCIPLES FOR THE COMMITTEE TO DETERMINE THE DISPOSITION OF MATERIAL FROM THE SHIPWRECKS OF DUTCH EAST INDIA COMPANY VESSELS OFF THE COAST OF WESTERN AUSTRALIA**
 
@@ -928,7 +928,7 @@ _General Principles_
 
 **Representative collections**
 
-The cost of recovery (including treatment) is likely to exceed by far the intrinsic or antiquarian sale‑value of material recovered. The Government of Western Australia is spending considerable sums on this work ($92,000 in the last financial year) and estimates that the total cost will be $2,000,000 or more. Although a division would not be warranted by consideration of cash value alone, the historic, educational, scientific and international considerations are such as to make the deposition of representative collections in the museums of the Netherlands and Australia most desirable. The remainder of the material would be held in the Western Australian Museum. 
+The cost of recovery (including treatment) is likely to exceed by far the intrinsic or antiquarian sale-value of material recovered. The Government of Western Australia is spending considerable sums on this work ($92,000 in the last financial year) and estimates that the total cost will be $2,000,000 or more. Although a division would not be warranted by consideration of cash value alone, the historic, educational, scientific and international considerations are such as to make the deposition of representative collections in the museums of the Netherlands and Australia most desirable. The remainder of the material would be held in the Western Australian  Museum. 
 
 **Considerations governing the partition of archaeological collections**
 
@@ -944,7 +944,7 @@ _Operating Principles_
 
 **Code of Operation**
 
-The Committee will operate by reviewing proposals for distribution made, from time to time, by the Director of the Western Australian Museum; it could decide that the proposed samples be increased or decreased in content in the light of the total material collected and other factors.
+The Committee will operate by reviewing proposals for distribution made, from time to time, by the Director of the Western Australian  Museum; it could decide that the proposed samples be increased or decreased in content in the light of the total material collected and other factors.
 
 **General aims**
 
@@ -984,7 +984,7 @@ _Section 3_
 </tr>
 <tr>
   <td>
-    <div>“Batavia”..................................</div>
+    <div>“Batavia”...................................</div>
   </td>
   <td>
     <div>Beacon Island, Wallabi Group, Houtmans Abrolhos</div>
@@ -1000,7 +1000,7 @@ _Section 3_
 </tr>
 <tr>
   <td>
-    <div>“Zuytdorp”...............................</div>
+    <div>“Zuytdorp”.................................</div>
   </td>
   <td>
     <div>40 miles north of the mouth of the Murchison River</div>
@@ -1008,7 +1008,7 @@ _Section 3_
 </tr>
 <tr>
   <td>
-    <div>“Zeewyk”.................................</div>
+    <div>“Zeewyk”..................................</div>
   </td>
   <td>
     <div>Gun Island, Pelsart Group, Houtmans Abrolhos</div>
@@ -1205,7 +1205,7 @@ Remainder: 15 Feb 1985 (see s. 2(1) and <i>Gazette</i>1985, No. S38)</div>
     <div>24 Nov 2000</div>
   </td>
   <td colspan="2">
-    <div>Ss. 1–3 and Schedule 1 (items 1, 4, 6, 7, 9–11, 32): Royal Assent 
+    <div>Ss. 1-3 and Schedule 1 (items 1, 4, 6, 7, 9–11, 32): Royal Assent 
 Remainder: 24 May 2001</div>
   </td>
   <td>
@@ -1280,23 +1280,6 @@ Remainder: 24 May 2001</div>
     <div>—</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 2 (items 685–687) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -1310,13 +1293,13 @@ _(a)_     The _Historic Shipwrecks Act 1976_ was amended by Part XIII 
 
                  (6)   Part XIII shall come into operation, or shall be deemed to have come into operation, as the case requires, on the day after the day on which Part II of the _Petroleum (Submerged Lands—Miscellaneous Amendments) Act 1981_ comes or came into operation.
 
-_(b)_     The _Historic Shipwrecks Act 1976_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows:
+_(b)_    The _Historic Shipwrecks Act 1976_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
 
 _(c)_     The _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) (No. 2) Act 1985_, subsection 2(15)(b) of which provides as follows:
 
-                              (b)   in the case of the other amendments—on the twenty‑eighth day after the day on which that Act received the Royal Assent.
+                              (b)   in the case of the other amendments—on the twenty-eighth day after the day on which that Act received the Royal Assent.
 
 _(d)_     The _Historic Shipwrecks Act 1976_ was amended by Schedule 1 (items 96–103) only of the _Environment and Heritage Legislation Amendment (Application of Criminal Code) Act 2001_, subsection 2(1)(c) of which provides as follows:
 
@@ -1580,28 +1563,6 @@ _(d)_     The _Historic Shipwrecks Act 1976_ was amended by Schedule 1
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 685  Subsection 2(4)
-
-Omit “, and section 8 of the _Acts Interpretation Act 1901_ has effect as if this Act, to the extent that it so ceases to apply, had been repealed on that date by another Act”.
-
-## 686  Subsections 2(7) and (9B)
-
-Omit “and, where such a Proclamation is made, section 8 of the _Acts Interpretation Act 1901_ has effect as if this Act, to the extent that it is so declared to cease to apply, had been repealed by another Act on the date specified in the Proclamation”.
-
-## 687  Subsection 3(1) (definition of _continental shelf_)
-
-Repeal the definition.
-
-As at 16 September 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -1610,9 +1571,9 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 ## Schedule 2
 
-## 418  Transitional—pre‑commencement offences
+## 418  Transitional—pre-commencement offences
 
-(1)       Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
+(1)        Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
 
                      (a)  an offence committed before the commencement of this item; or
 
@@ -1622,9 +1583,9 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 as if the amendment or repeal had not been made.
 
-(2)       Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
+(2)        Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
 
-## 419  Transitional—pre‑commencement notices
+## 419  Transitional—pre-commencement notices
 
 If:
 
@@ -1632,9 +1593,9 @@ If:
 
                      (b)  any or all of those other provisions are repealed by this Schedule; and
 
-                     (c)  the first‑mentioned provision is amended by this Schedule;
+                     (c)  the first-mentioned provision is amended by this Schedule;
 
-the amendment of the first‑mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
+the amendment of the first-mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
 
 * * *
 
@@ -1645,21 +1606,5 @@ _Environment and Heritage Legislation Amendment (Application of Criminal Code) A
              (1)  Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
 
              (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
