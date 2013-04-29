@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00092/Html/57906577-772f-42aa-882d-1df0e1db07de_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00508/Html/68385615-4ff1-4112-a80f-17c70c5ed126_files/image001.gif)
 
 # Agricultural and Veterinary Chemicals (Administration) Act 1992
 
 **Act No. 262 of 1992 as amended**
 
-This compilation was prepared on 27 December 2011
+This compilation was prepared on 7 July 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force 
@@ -606,7 +606,7 @@ all or any of the APVMA’s powers and functions.
 
 ### Division 1—Constitution of APVMA
 
-##### <a id="12"></a>12  APVMA is body corporate etc.
+##### <a id="12"></a>12  APVMA is body corporate etc.
 
              (1)  The APVMA:
 
@@ -678,7 +678,7 @@ all or any of the APVMA’s powers and functions.
 
                    A Board member holds office for the period specified in the instrument of appointment. The period must not exceed 3 years.
 
-Note:          A Board member is eligible for reappointment: see section 33AA of the _Acts Interpretation Act 1901_.
+Note:          A Board member is eligible for reappointment: see subsection 33(4A) of the _Acts Interpretation Act 1901_.
 
 ##### <a id="19"></a>19  Remuneration and allowances
 
@@ -982,9 +982,17 @@ the person must not be paid remuneration or allowances under this Act, but is to
 
                      (b)  during any period, or during all periods, when the Chief Executive Officer is absent from duty or from Australia or is, for any other reason, unable to perform the duties of the office of Chief Executive Officer.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
              (4)  Unless the contrary intention appears, a reference in this Act other than this section, to the Chief Executive Officer is taken, if a person is acting as Chief Executive Officer, to be a reference to the person so acting.
+
+             (5)  Anything done by or in relation to a person purporting to act under subsection (1) is not invalid merely because:
+
+                     (a)  the occasion for the person’s appointment had not arisen; or
+
+                     (b)  there is a defect or irregularity in connection with the person’s appointment; or
+
+                     (c)  the person’s appointment had ceased to have effect; or
+
+                     (d)  the occasion for the person to act had not arisen or had ceased.
 
 ##### <a id="44"></a>44  Delegation by the Chief Executive Officer
 
@@ -2753,7 +2761,7 @@ Remainder: Royal Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 46–48) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 46–48) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11)</div>
@@ -3278,31 +3286,7 @@ _(f)_ Subsection 2(1) (item 5) of the _Statute Law Revision Act 2008_ provides a
 </tr>
 <tr>
   <td>
-    <div>S. 17</div>
-  </td>
-  <td>
-    <div>rs. No. 90, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18</div>
-  </td>
-  <td>
-    <div>rs. No. 90, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 18</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19</div>
+    <div>Ss. 17–19</div>
   </td>
   <td>
     <div>rs. No. 90, 2007</div>
@@ -3641,15 +3625,7 @@ _(f)_ Subsection 2(1) (item 5) of the _Statute Law Revision Act 2008_ provides a
     <div>S. 43</div>
   </td>
   <td>
-    <div>am. No. 13, 2003; No. 79, 2004; No. 90, 2007; No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 43(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
+    <div>am. No. 13, 2003; No. 79, 2004; No. 90, 2007</div>
   </td>
 </tr>
 <tr>
@@ -4805,6 +4781,30 @@ _(f)_ Subsection 2(1) (item 5) of the _Statute Law Revision Act 2008_ provides a
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 46  Section 18 (note)
+
+Omit “subsection 33(4A)”, substitute “section 33AA”.
+
+## 47  At the end of subsection 43(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 48  Subsection 43(5)
+
+Repeal the subsection.
+
+As at 7 July 2011 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -5199,6 +5199,8 @@ unless the contrary is established.
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
