@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00877/Html/409ebc2b-eaa8-46dc-8816-1e45501db59d_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00514/Html/b75fa236-8a84-46cc-971b-b3f83a9ffedc_files/image001.gif)
 
 # Competition and Consumer Act 2010
 
 **Act No. 51 of 1974 as amended**
 
-This compilation was prepared on 30 November 2012
- taking into account amendments up to Act No. 136 of 2012
+This compilation was prepared on 1 July 2012
+ taking into account amendments up to Act No. 44 of 2012
 
 **Volume 1** includes:     Table of Contents
                                      Sections 1 – 119
@@ -24,10 +24,11 @@ The operation of amendments that have been incorporated may be
                                      Table of Acts
                                      Act Notes
                                      Table of Amendments
-                                     Notes 2 and 3
+                                     Notes 2 – 4
                                      Table A
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -285,7 +286,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [44AAE](#44AAE).  Resolutions without meetings
 
-44AAEA Arbitration
+44AAEAArbitration
 
         **Subdivision D—Miscellaneous**
 
@@ -293,8 +294,8 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [44AAG](#44AAG). Federal Court may make certain orders
 
-44AAGA Federal Court may order disconnection if an event specified 
- in the National Electricity Rules occurs
+44AAGAFederal Court may order disconnection if an event 
+ specified in the National Electricity Rules occurs
 
 [44AAH](#44AAH). Delegation by the AER
 
@@ -564,11 +565,11 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [44ZZA](#44ZZA).  Access undertakings by providers
 
-44ZZAAA Proposed amendments to access undertakings
+44ZZAAAProposed amendments to access undertakings
 
-44ZZAAB Access undertakings containing fixed principles
+44ZZAABAccess undertakings containing fixed principles
 
-44ZZAA Access codes prepared by industry bodies
+44ZZAAAccess codes prepared by industry bodies
 
 44ZZAB Commission may rely on industry body consultations
 
@@ -584,7 +585,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 44ZZBC Time limit for Commission decisions
 
-44ZZBCA Commission may request information
+44ZZBCACommission may request information
 
 44ZZBD Commission may invite public submissions
 
@@ -606,7 +607,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 44ZZCB Deferring access disputes or access undertakings
 
-44ZZCBA Deferral of arbitration if review is underway
+44ZZCBADeferral of arbitration if review is underway
 
 44ZZCC Overlap between determinations and access undertakings
 
@@ -636,21 +637,21 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [44ZZM](#44ZZM).  Commonwealth consent to conferral of functions etc  on the Commission or Tribunal by State or Territory laws
 
-44ZZMA How duty is imposed
+44ZZMAHow duty is imposed
 
-44ZZMB When a law of a State or Territory imposes a duty
+44ZZMBWhen a law of a State or Territory imposes a duty
 
 [44ZZN](#44ZZN).  Compensation for acquisition of property
 
-44ZZNA Operation of Parts IV and VII not affected by this Part
+44ZZNAOperation of Parts IV and VII not affected by this Part
 
 [44ZZO](#44ZZO).  Conduct by directors, servants or agents
 
-44ZZOAAA Information to be given to Tribunal
+44ZZOAAAInformation to be given to Tribunal
 
-44ZZOAA Tribunal only to consider particular material
+44ZZOAATribunal only to consider particular material
 
-44ZZOA Time limit for Tribunal decisions
+44ZZOATime limit for Tribunal decisions
 
 [44ZZP](#44ZZP).   Regulations about review by the Tribunal
 
@@ -694,7 +695,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 44ZZRL Conduct notified
 
-44ZZRM Cartel provision subject to grant of authorisation
+44ZZRMCartel provision subject to grant of authorisation
 
 44ZZRN Contracts, arrangements or understandings between related bodies corporate
 
@@ -876,7 +877,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [86F](#86F).        Privilege against exposure to penalty—disqualification from managing corporations
 
-[87](#87).          Other orders
+[87](#87).          Other orders [_see_ Note 2]
 
 [87AA](#87AA).    Special provision relating to Court’s exercise of powers under this Part in relation to boycott conduct
 
@@ -1090,11 +1091,11 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [95AZE](#95AZE).  Applicant may withdraw application
 
-95AZEA Tribunal must require Commission to give report
+95AZEATribunal must require Commission to give report
 
 [95AZF](#95AZF).  Commission to assist Tribunal
 
-95AZFA Commission may make enquiries
+95AZFACommission may make enquiries
 
 [95AZG](#95AZG).  Tribunal to make determination on application
 
@@ -11120,7 +11121,7 @@ Definition
 
                     <a name="penalti"></a>**_penalty_** includes forfeiture.
 
-##### <a id="87"></a>87  Other orders
+##### <a id="87"></a>87  Other orders [_see_ Note 2]
 
              (1)  Without limiting the generality of section 80, where, in a proceeding instituted under this Part, or for an offence against section 44ZZRF or 44ZZRG, the Court finds that a person who is a party to the proceeding has suffered, or is likely to suffer, loss or damage by conduct of another person that was engaged in (whether before or after the commencement of this subsection) in contravention of a provision of Part IV or Division 2 of Part IVB the Court may, whether or not it grants an injunction under section 80 or makes an order under section 82, 86C, 86D or 86E, make such order or orders as it thinks appropriate against the person who engaged in the conduct or a person who was involved in the contravention (including all or any of the orders mentioned in subsection (2) of this section) if the Court considers that the order or orders concerned will compensate the first‑mentioned person in whole or in part for the loss or damage or will prevent or reduce the loss or damage.
 
@@ -11150,7 +11151,7 @@ make such order or orders as the Court thinks appropriate against the person who
 
                      (b)  have, before the application is made, consented in writing to the making of the application.
 
-          (1C)  An application may be made under subsection (1A) in relation to a contravention of Part IV or Division 2 of Part IVB even if a proceeding has not been instituted under another provision in relation to that contravention.
+          (1C)  An application may be made under subsection (1A) in relation to a contravention of Part IV, IVA, IVB, V or VC, or of a provision of the Australian Consumer Law, even if a proceeding has not been instituted under another provision in relation to that contravention.
 
        (1CA)  An application under subsection (1A) may be made at any time within 6 years after the day on which the cause of action that relates to the conduct accrued.
 
@@ -11470,7 +11471,7 @@ the court hearing the proceedings may order that the defendant pay all or any of
 
              (2)  This diagram shows when this Division prevents an award of personal injury damages.
 
-![](http://www.comlaw.gov.au/Details/C2012C00877/Html/409ebc2b-eaa8-46dc-8816-1e45501db59d_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00514/Html/b75fa236-8a84-46cc-971b-b3f83a9ffedc_files/image002.gif)
 
 ##### <a id="87G"></a>87G  Date of discoverability
 
@@ -11582,7 +11583,7 @@ in working out whether the period of 3 years after the date of discoverability, 
 
                      (b)  during a later year—the amount worked out (to the nearest multiple of $10) as follows:
 
-![](http://www.comlaw.gov.au/Details/C2012C00877/Html/409ebc2b-eaa8-46dc-8816-1e45501db59d_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00514/Html/b75fa236-8a84-46cc-971b-b3f83a9ffedc_files/image003.gif)
 
                             where:
 
@@ -12015,7 +12016,7 @@ the court must not award as personal injury damages for the services:
 
                    A court must not, in a proceeding to which this Part applies, award personal injury damages for economic loss due to the loss of employer superannuation contributions an amount that exceeds the following amount:
 
-![](http://www.comlaw.gov.au/Details/C2012C00877/Html/409ebc2b-eaa8-46dc-8816-1e45501db59d_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00514/Html/b75fa236-8a84-46cc-971b-b3f83a9ffedc_files/image004.gif)
 
 where:
 
@@ -14727,7 +14728,7 @@ General notice
 
              (1)  An inquiry body must, as soon as practicable, give notice of an inquiry it is to hold.
 
-             (2)  The notice must be given in each State, the Australian Capital Territory and the Northern Territory by advertisement published in the _Gazette_ and in a newspaper circulating in that State or Territory.
+             (2)  The notice must be given in each State, the   Australian Capital Territory and the Northern Territory by advertisement published in the _Gazette_ and in a newspaper circulating in that State or Territory.
 
 Notice to particular person or persons
 
@@ -14841,7 +14842,7 @@ All inquiries
 
              (3)  For any inquiry, the inquiry body must, unless the Minister directs otherwise, make copies of the report on the inquiry available for public inspection as soon as practicable after the period of 28 days beginning on the day on which it gives the Minister the report.
 
-##### <a id="95Q"></a>95Q  Notification of proposed prices after receipt of report
+##### <a id="95Q"></a>95Q  Notification of proposed prices after receipt of report
 
              (1)  This section applies if a person receives a copy of a report on an inquiry held in relation to the supply by the person of goods or services of a particular description.
 
@@ -15993,7 +15994,7 @@ Note:          Division 2 contains provisions about procedur
 
                     <a name="merger-clearanc-regist"></a>**_merger clearance register_** means the register kept under section 95AH.
 
-##### <a id="114"></a>114  Tribunal may consult etc. to clarify information
+##### <a id="114"></a>114  Tribunal may consult etc. to clarify information
 
              (1)  The Tribunal may seek such relevant information, and consult with such persons, as it considers reasonable and appropriate for the purposes of clarifying the information given to it under section 113.
 
