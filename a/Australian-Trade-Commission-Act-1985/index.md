@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00792/Html/8a91a264-c773-4b8c-a59d-db9ef1b2600e_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00251/Html/871693fe-e25c-49f4-8258-aaa7ff114347_files/image001.gif)
 
 # Australian Trade Commission Act 1985
 
 **Act No. 186 of 1985 as amended**
 
-This compilation was prepared on 27 September 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 19 April 2011
+ taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -312,7 +312,7 @@ Terms and conditions
 
                    The CEO holds office on a full‑time basis.
 
-##### <a id="54"></a>54  Remuneration and allowances
+##### <a id="54"></a>54  Remuneration and allowances
 
              (1)  The CEO is to be paid the remuneration that is determined by the Remuneration Tribunal. If no determination of that remuneration by the Tribunal is in operation, the CEO is to be paid the remuneration that is prescribed.
 
@@ -524,7 +524,7 @@ and in particular:
 
 The _Australian Trade Commission Act 1985_ as shown in this compilation comprises Act No. 186, 1985 amended as indicated in the Tables below.
 
-For application, saving or transitional provisions made by the _Australian Trade Commission Legislation Amendment Act 2006_, _see_ Act No. 56, 2006 (as amended).
+For application, saving or transitional provisions made by the _Australian Trade Commission Legislation Amendment Act 2006_, _see_ Act No. 56, 2006.
 
 All relevant information pertaining to application, saving or transitional provisions prior to 24 November 2000 is not included in this compilation. For subsequent information _see_ Table A.
 
@@ -925,44 +925,7 @@ Remainder: 24 May 2001</div>
       <div>Schedule 1 (items 1–41) and Schedule 4: 1 July 2006 ( <i>see</i>F2006L01897)</div>
     </td>
     <td>
-      <div>Sch. 4 (items 
-1–15, 
-17–21) 
-Sch. 4 (item 16) (rep. by 100, 2011, Sch. 1 \[item 3]) \[ <i>see</i>Note 1]</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>as amended by</div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Statute Stocktake Act (No. 1) 2011</div>
-    </td>
-    <td>
-      <div>100, 2011</div>
-    </td>
-    <td>
-      <div>15 Sept 2011</div>
-    </td>
-    <td>
-      <div>Schedule 1 (item 3): 16 Sept 2011</div>
-    </td>
-    <td>
-      <div>—</div>
+      <div>Sch. 4 \[ <i>see</i>Note 1]</div>
     </td>
   </tr>
   <tr>
@@ -1014,23 +977,6 @@ Sch. 4 (item 16) (rep. by 100, 2011, Sch. 1 \[item 3]) \[ <i>see</i>Note 1]<
     </td>
     <td>
       <div>—</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Acts Interpretation Amendment Act 2011</div>
-    </td>
-    <td>
-      <div>46, 2011</div>
-    </td>
-    <td>
-      <div>27 June 2011</div>
-    </td>
-    <td>
-      <div>Schedule 2 (items 277–279) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-    </td>
-    <td>
-      <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
     </td>
   </tr>
 </thead></table>
@@ -2057,30 +2003,6 @@ _(f)_ The _Australian Trade Commission Act 1985_ was amended by Schedule 10 (i
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 277  Subsection 56(1)
-
-Omit “(1)”.
-
-## 278  Subsection 56(1) (note)
-
-Repeal the note, substitute:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 279  Subsection 56(2)
-
-Repeal the subsection.
-
-As at 27 September 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -2158,21 +2080,5 @@ continues to have effect after the commencing time as if it had been done by the
 **_commencing time_** means the day this Act receives the Royal Assent.
 
 **_Finance Minister_** means the Minister who administers the _Financial Management and Accountability Act 1997_.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
