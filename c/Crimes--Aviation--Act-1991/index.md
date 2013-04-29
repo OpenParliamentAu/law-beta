@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00844/Html/31b5ff92-6748-4576-a13e-4ad7aff9b65d_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00200/Html/9b9d0bb7-9896-4ece-b33d-f297a442f9ca_files/image001.gif)
 
 # Crimes (Aviation) Act 1991
 
 **Act No. 139 of 1991 as amended**
 
-This compilation was prepared on 22 November 2012
- taking into account amendments up to Act No. 136 of 2012
+This compilation was prepared on 19 April 2011
+ taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -27,11 +28,11 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
     **Division 2—Definitions and interpretation**
 
-[3](#3).            Definitions
+[3](#3).            Definitions [_see_ Note 2]
 
 [4](#4).            Meaning of _threaten_
 
-[5](#5).            Aircraft flights: when do they start? [_see_ Note 2]
+[5](#5).            Aircraft flights: when do they start?
 
 [6](#6).            Aircraft flights: when do they end?
 
@@ -159,6 +160,8 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [52](#52).          Regulations
 
+[53](#53).          Repeals
+
 [54](#54).          Transitional and savings
 
 **Schedule 1—Convention for the Suppression of Unlawful Seizure of Aircraft** 
@@ -168,6 +171,8 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 **Schedule 3—Protocol** 
 
 **Schedule 4—Convention on Offences and Certain other Acts committed on Board Aircraft** 
+
+**Schedule 5—Consequential amendments of other Acts** 
 
 **Notes** 
 
@@ -189,7 +194,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 ### Division 2—Definitions and interpretation
 
-##### <a id="3"></a>3  Definitions
+##### <a id="3"></a>3  Definitions [_see_ Note 2]
 
                    In this Act, unless the contrary intention appears:
 
@@ -277,7 +282,7 @@ and includes any building, structure, installation or equipment in that area, or
 
                              (ii)  a flight between a part of Australia and a place outside Australia;
 
-                            (iii)  a flight wholly outside Australia; or
+                            (iii)  a flight wholly outside   Australia; or
 
                      (b)  a Commonwealth aircraft; or
 
@@ -286,8 +291,6 @@ and includes any building, structure, installation or equipment in that area, or
                      (d)  a foreign aircraft that is in Australia; or
 
                      (e)  a foreign aircraft that is outside   Australia while engaged in a flight that started in Australia or that was, when the flight started, intended to end in Australia.
-
-                    <a name="foreign-affair-minist"></a>**_Foreign Affairs Minister_** means the Minister administering the _Diplomatic Privileges and Immunities Act 1967_.
 
                     <a name="foreign-aircraft"></a>**_foreign aircraft_** means an aircraft other than an Australian aircraft, including such an aircraft owned or operated by the government of a foreign country.
 
@@ -337,6 +340,8 @@ and includes any building, structure, installation or equipment in that area, or
 
                     <a name="remand"></a>**_remand_** includes further remand.
 
+                    <a name="repeal-act"></a>**_repealed Acts_** means the Acts repealed by section 53.
+
                     <a name="seriou-harm"></a>**_serious harm_** has the same meaning as in the _Criminal Code_.
 
                     <a name="threaten"></a>**_threaten_** has the meaning given in section 4.
@@ -355,13 +360,13 @@ and includes any building, structure, installation or equipment in that area, or
 
                    For the purposes of this Act, a person is taken to threaten to do an act if the person makes any statement or does anything else indicating, or from which it could reasonably be inferred, that it is his or her intention to do that act.
 
-##### <a id="5"></a>5  Aircraft flights: when do they start? [_see_ Note 2]
+##### <a id="5"></a>5  Aircraft flights: when do they start?
 
                    For the purposes of this Act, a flight of an aircraft is taken to start:
 
-                     (a)  when the last external door of the aircraft is closed in preparation for the first movement of the aircraft for the purpose of taking off on the flight; or
+                     (a)  when the last external door is closed in preparation for the first movement of the aircraft for the purpose of taking off on the flight; or
 
-                     (b)  if paragraph (a) is not applicable—when the aircraft first moves for the purpose of taking off on the flight.
+                     (b)  if the aircraft moves, before all the external doors are closed, for the purpose of taking off on the flight—when it first so moves.
 
 ##### <a id="6"></a>6  Aircraft flights: when do they end?
 
@@ -433,7 +438,7 @@ whether or not the aircraft goes, or will or may go, outside the State during th
 
 ### Division 4—Application of Criminal Code
 
-##### <a id="12A"></a>12A  Application of the _Criminal Code_
+##### <a id="12A"></a>12A  Application of the _Criminal Code_
 
                    Chapter 2 of the _Criminal Code_ applies to all offences against this Act.
 
@@ -1115,7 +1120,7 @@ and, when so admitted, the evidence recorded in it is evidence in the proceeding
 
                      (b)  the Montreal Convention entered into force on 28 January 1973 under paragraph 3 of Article 15 of the Convention; and
 
-                     (c)  the Protocol entered into force on 6 August 1989 under paragraph 1 of Article VI of the Protocol; and
+                     (c)  the Protocol entered into force on  6 August 1989 under paragraph 1 of Article VI of the Protocol; and
 
                      (d)  the Tokyo Convention entered into force on 4 December 1969 under paragraph 1 of Article 21 of the Convention.
 
@@ -1279,7 +1284,7 @@ the person cannot also be convicted of the other offence.
 
 ##### <a id="52"></a>52  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing matters:
+             (1)  The Governor‑General may make regulations, not inconsistent with this Act, prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -1293,7 +1298,23 @@ and, in particular, may make regulations:
 
                      (e)  about the protection and immunity of magistrates, legal practitioners and witnesses in connection with such proceedings; and
 
-                      (f)  imposing pecuniary penalties of not more than $500, for offences against the regulations.
+                      (f)  imposing pecuniary penalties of not more than $500, for offences against the regulations; and
+
+                     (g)  making such transitional and savings provisions as are necessary or convenient as a result of the repeal of all or any of the repealed Acts and the enactment of this Act.
+
+             (2)  Despite section 53, regulations made under paragraph (1)(g) may provide for the continued operation of specified provisions of any of the repealed Acts in relation to prescribed persons or matters, or in prescribed circumstances.
+
+##### <a id="53"></a>53  Repeals
+
+                   The following Acts are repealed:
+
+                     (a)  the _Civil Aviation (Offenders on International Aircraft) Act 1970_;
+
+                     (b)  the _Crimes (Aircraft) Act 1963_;
+
+                     (c)  the _Crimes (Hijacking of Aircraft) Act 1972_;
+
+                     (d)  the _Crimes (Protection of Aircraft) Act 1973_.
 
 ##### <a id="54"></a>54  Transitional and savings
 
@@ -1304,6 +1325,8 @@ and, in particular, may make regulations:
              (3)  A notice published in the _Gazette_ under section 19 of the _Civil Aviation (Offenders on International Aircraft) Act 1970_, section 25 of the _Crimes (Hijacking of Aircraft) Act 1972_, or section 22 of the _Crimes (Protection of Aircraft) Act 1973_, and in force immediately before the commencing day, continues to have effect on and after that day as if it were a notice published in the _Gazette_ under section 43 of this Act.
 
              (4)  Subject to section 31 and the regulations, where, before the commencing day, a person had been arrested, taken into custody or remanded in custody, or was being held in custody, under a provision of the _Civil Aviation (Offenders on International Aircraft) Act 1970_, the _Crimes (Hijacking of Aircraft) Act 1972_ or the _Crimes (Protection of Aircraft) Act 1973_, that Act continues to apply in relation to the person on and after that day as if it had not been repealed.
+
+ 
 
 # Schedule 1—Convention for the Suppression of Unlawful Seizure of Aircraft
 
@@ -1353,7 +1376,7 @@ ARTICLE 4
 
           (a)  when the offence is committed on board an aircraft registered in that State;
 
-          (b)  when the aircraft on board which the offence is committed lands in its territory with the alleged offender still on board;
+          (b)   when the aircraft on board which the offence is committed lands in its territory with the alleged offender still on board;
 
           (c)  when the offence is committed on board an aircraft leased without crew to a lessee who has his principal place of business or, if the lessee has no such place of business, his permanent residence, in that State.
 
@@ -1442,6 +1465,8 @@ ARTICLE 14
        IN WITNESS WHEREOF the undersigned Plenipotentiaries, being duly authorised thereto by their Governments, have signed this Convention.
 
        DONE at The Hague, this sixteenth day of December, one thousand nine hundred and seventy, in three originals, each being drawn up in four authentic texts in the English, French, Russian and Spanish languages.
+
+ 
 
 # Schedule 2—Convention for the Suppression of Unlawful Acts against the Safety of Civil Aviation
 
@@ -1645,7 +1670,7 @@ Article II
 
 if such an act endangers or is likely to endanger safety at that airport.”
 
-       2.  In paragraph 2(a) of Article 1 of the Convention, the following words shall be inserted after the words “paragraph 1”:
+       2.  In paragraph 2(a) of Article 1 of the Convention, the following words shall be inserted after the words “paragraph 1” :
 
 “or paragraph 1 _bis_”.
 
@@ -1925,6 +1950,24 @@ Article 26
 
 [_Here follow the signatures of the Plenipotentiaries of the signatory States_]
 
+# Schedule 5—Consequential amendments of other Acts
+
+* * *
+
+Note**:**
+
+The amendments made by this Schedule are incorporated in the compilations on ComLaw.
+
+Australian Protective Service Act 1987 \[repealed by Act No.64, 2004, Sch. 2 (item 2)]
+
+Australian Security Intelligence Organization Act 1979
+
+Extradition Act 1988
+
+For access to the wording of the amendments made by this Schedule, _see_ Act  No. 139, 1991.
+
+* * *
+
 # Notes to the _Crimes (Aviation) Act 1991_
 
 ### Note 1
@@ -1977,7 +2020,7 @@ of Assent</div>
     <div>27 Sept 1991</div>
   </td>
   <td colspan="2">
-    <div>16 Mar 1992 ( <i>see Gazette</i>1992, No. S65)</div>
+    <div>16 Mar 1992 ( <i>see Gazette</i>1992, No. S65)</div>
   </td>
   <td>
     <div></div>
@@ -1994,8 +2037,8 @@ of Assent</div>
     <div>11 Dec 1992</div>
   </td>
   <td colspan="2">
-    <div>Ss. 3–17: 1 Feb 1993 ( <i>see Gazette</i>1993, No. GN1) 
-Remainder: 8 Jan 1993</div>
+    <div>Ss. 3–17: 1 Feb 1993 ( <i>see Gazette</i>1993, No. GN1) 
+Remainder: 8 Jan 1993</div>
   </td>
   <td>
     <div>—</div>
@@ -2012,11 +2055,11 @@ Remainder: 8 Jan 1993</div>
     <div>21 Dec 1992</div>
   </td>
   <td colspan="2">
-    <div>Schedule (Part 1): 10 Mar 1993 ( <i>see Gazette</i>1993, No. GN17) 
-Schedule (Part 5): 30 Aug 1995 ( <i>see Gazette</i>1995, No. S324)</div>
+    <div>Schedule (Part 1): 10 Mar 1993 ( <i>see Gazette</i>1993, No. GN17) <i>(a)</i> 
+Schedule (Part 5): 30 Aug 1995 ( <i>see Gazette</i>1995, No. S324) <i>(a)</i></div>
   </td>
   <td>
-    <div>S. 2(6) (am. by 60, 1993, s. 4; 168, 1994, s. 3)</div>
+    <div>S. 2(6) (am. by 60, 1993, s. 4; 168, 1994, s. 3)</div>
   </td>
 </tr>
 <tr>
@@ -2064,7 +2107,7 @@ Schedule (Part 5): 30 Aug 1995 ( <i>see Gazette</i>1995, No. S324)</div>
     <div>16 Dec 1994</div>
   </td>
   <td colspan="2">
-    <div>S. 3 (item 17): Royal Assent</div>
+    <div>S. 3 (item 17): Royal Assent <i>(b)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -2081,7 +2124,7 @@ Schedule (Part 5): 30 Aug 1995 ( <i>see Gazette</i>1995, No. S324)</div>
     <div>19 Dec 1994</div>
   </td>
   <td colspan="2">
-    <div>S. 31: <i>(a)</i></div>
+    <div>S. 31: <i>(c)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -2098,7 +2141,7 @@ Schedule (Part 5): 30 Aug 1995 ( <i>see Gazette</i>1995, No. S324)</div>
     <div>20 July 1995</div>
   </td>
   <td colspan="2">
-    <div>S. 3 (items 27–29): 16 Nov 1995 ( <i>see Gazette</i>1995, No. S435)</div>
+    <div>S. 3 (items 27–29): 16 Nov 1995 ( <i>see Gazette</i>1995, No. S435) <i>(d)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -2115,7 +2158,7 @@ Schedule (Part 5): 30 Aug 1995 ( <i>see Gazette</i>1995, No. S324)</div>
     <div>11 Nov 1999</div>
   </td>
   <td colspan="2">
-    <div>Schedule 1 (items 349–351): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(b)</i></div>
+    <div>Schedule 1 (items 349–351): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(e)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -2132,7 +2175,7 @@ Schedule (Part 5): 30 Aug 1995 ( <i>see Gazette</i>1995, No. S324)</div>
     <div>7 Mar 2000</div>
   </td>
   <td colspan="2">
-    <div>2 July 2000 ( <i>see Gazette</i>2000, No. S328)</div>
+    <div>2 July 2000 ( <i>see Gazette</i>2000, No. S328)</div>
   </td>
   <td>
     <div>Sch. 3 (items 20, 34, 35) \[ <i>see</i>Table A]</div>
@@ -2149,7 +2192,7 @@ Schedule (Part 5): 30 Aug 1995 ( <i>see Gazette</i>1995, No. S324)</div>
     <div>6 Apr 2001</div>
   </td>
   <td colspan="2">
-    <div>S. 4(1), (2) and Schedule 11: <i>(c)</i></div>
+    <div>S. 4(1), (2) and Schedule 11: <i>(f)</i></div>
   </td>
   <td>
     <div>S. 4(1) and (2) \[ <i>see</i>Table A]</div>
@@ -2166,7 +2209,7 @@ Schedule (Part 5): 30 Aug 1995 ( <i>see Gazette</i>1995, No. S324)</div>
     <div>5 July 2002</div>
   </td>
   <td colspan="2">
-    <div>Schedule 2 (items 3, 4): 2 Aug 2002</div>
+    <div>Schedule 2 (items 3, 4): 2 Aug 2002 <i>(g)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -2200,11 +2243,11 @@ Schedule (Part 5): 30 Aug 1995 ( <i>see Gazette</i>1995, No. S324)</div>
     <div>10 Mar 2004</div>
   </td>
   <td colspan="2">
-    <div>Schedules 1–3: 10 Mar 2005 ( <i>see</i>s. 2) 
+    <div>Schedules 1–3: 10 Mar 2005 ( <i>see</i>s. 2) 
 Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>Sch. 3 (am. by 149, 2004, Sch. 2 \[items 2, 3]) \[ <i>see</i>Table A]</div>
+    <div>Sch. 3 (am. by 149, 2004, Sch.2 \[items 2, 3]) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -2235,7 +2278,7 @@ Remainder: Royal Assent</div>
     <div>14 Dec 2004</div>
   </td>
   <td colspan="2">
-    <div>Schedule 2 (item 2): <i>(d)</i> 
+    <div>Schedule 2 (item 2): <i>(h)</i> 
 Schedule 2 (item 3): Royal Assent</div>
   </td>
   <td>
@@ -2270,7 +2313,7 @@ Schedule 2 (item 3): Royal Assent</div>
     <div>31 Aug 2004</div>
   </td>
   <td colspan="2">
-    <div>Schedule 5 (items 1, 2): 28 Sept 2004</div>
+    <div>Schedule 5 (items 1, 2): 28 Sept 2004</div>
   </td>
   <td>
     <div>—</div>
@@ -2304,10 +2347,10 @@ Schedule 2 (item 3): Royal Assent</div>
     <div>2 Mar 2011</div>
   </td>
   <td colspan="2">
-    <div>Schedule 1: 30 Mar 2011</div>
+    <div>Schedule 1: 30 Mar 2011</div>
   </td>
   <td>
-    <div>Sch. 1 (item 23) \[ <i>see</i>Table A]</div>
+    <div>Sch. 1 (item 23) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -2321,58 +2364,7 @@ Schedule 2 (item 3): Royal Assent</div>
     <div>22 Mar 2011</div>
   </td>
   <td colspan="2">
-    <div>Schedule 5 (items 65, 66): 19 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td colspan="2">
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2012</div>
-  </td>
-  <td>
-    <div>136, 2012</div>
-  </td>
-  <td>
-    <div>22 Sept 2012</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 2 (item 34): <i>(e)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2012</div>
-  </td>
-  <td>
-    <div>136, 2012</div>
-  </td>
-  <td>
-    <div>22 Sept 2012</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 6 (items 26–32): Royal Assent</div>
+    <div>Schedule 5 (items 65, 66): 19 Apr 2011</div>
   </td>
   <td>
     <div>—</div>
@@ -2387,7 +2379,21 @@ Schedule 2 (item 3): Royal Assent</div>
   <td></td>
 </tr></table>
 
-_(a)_     The _Crimes (Aviation) Act 1991_ was amended by section 31 only of the _Crimes and Other Legislation Amendment Act 1994_, subsections 2(4) and (5) of which provide as follows:
+_(a)_     The _Crimes (Aviation) Act 1991_ was amended by the Schedule (Parts 1 and 5) of the _Qantas Sale Act 1992_, subsections 2(2), (3)(a) and (c) of which provide as follows:
+
+                 (2)   Subject to subsection (3), the remaining provisions of this Act commence on a day or days to be fixed by Proclamation.
+
+                 (3)   A Proclamation may fix a day that is earlier than the day on which the Proclamation is published in the _Gazette_ but only if:
+
+                              (a)   in the case of sections 30, 31, 35, 37, 39, 43 and 50 and Parts 1 and 2 of the Schedule—the day is not earlier than the substantial minority sale day; and
+
+                              (c)   in the case of sections 25, 36, 38, 44 and 51 and Parts 5, 6 and 7 of the Schedule—the day is not earlier than the 100% sale day.
+
+_(b)_     The _Qantas Sale Act 1992_ was amended by section 3 (item 17) only of the _Qantas Sale Amendment Act 1994_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+
+_(c)_     The _Crimes (Aviation) Act 1991_ was amended by section 31 only of the _Crimes and Other Legislation Amendment Act 1994_, subsections 2(4) and (5) of which provide as follows:
 
                  (4)   The amendments made by this Act to the _Australian Federal Police Act 1979_, the _Crimes (Aviation) Act 1991_ (other than the amendment made to Schedule 5 to that Act), _the Crimes (Hostages) Act 1989_, the _Crimes (Internationally Protected Persons) Act 1976_, the _Crimes (Overseas) Act 1964_, the _Crimes (Superannuation Benefits) Act 1989_, the _Crimes (Traffic in Narcotic Drugs and Psychotropic Substances) Act 1990_, the _Customs Act 1901_, the _Director of Public Prosecutions Act 1983_, the _Extradition Act 1988_, the _Financial Transaction Reports Act 1988_ and to sections 23 and 59 of the _Proceeds of Crime Act 1987_ commence on the 28th day after the day on which this Act receives the Royal Assent.
 
@@ -2395,13 +2401,17 @@ _(a)_     The _Crimes (Aviation) Act 1991_ was amended by section 31 o
 
                  (5)   The amendment made by this Act to Schedule 5 to the _Crimes (Aviation) Act 1991_ is taken to have commenced on 16 March 1992 immediately after the commencement of that Act.
 
-_(b)_     The _Crimes (Aviation) Act 1991_ was amended by Schedule 1 (items 349–351) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+_(d)_     The _Crimes (Aviation) Act 1991_ was amended by the _Transport Legislation Amendment Act (No. 2) 1995_, subsection 2(2) of which provides as follows:
+
+                 (2)   The items in the Schedule (other than items 23 and 30) commence on a day or days to be fixed by Proclamation.
+
+_(e)_     The _Crimes (Aviation) Act 1991_ was amended by Schedule 1 (items 349–351) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
 
                  (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
 
                  (2)   Subject to this section, this Act commences at the commencing time.
 
-_(c)_     The _Crimes (Aviation) Act 1991_ was amended by Schedule 11 only of the _Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001_, subsection 2(1)(a) of which provides as follows:
+_(f)_      The _Crimes (Aviation) Act 1991_ was amended by Schedule 11 only of the _Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001_, subsection 2(1)(a) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences at the later of the following times:
 
@@ -2409,15 +2419,15 @@ _(c)_     The _Crimes (Aviation) Act 1991_ was amended by Schedule 11 
 
          Item 15 commenced on 24 May 2001.
 
-_(d)_ Subsection 2(1) (item 3) of the _Aviation Security Amendment Act 2004_ provides as follows:
+_(g)_ Subsection 2(1) (item 11) of the _Security Legislation Amendment (Terrorism) Act 2002_ provides as follows:
 
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
 
 <table>
 <colgroup>
-  <col width="25%">
-  <col width="55%">
-  <col width="19%">
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
 </colgroup>
 
 <thead>
@@ -2480,33 +2490,22 @@ _(d)_ Subsection 2(1) (item 3) of the _Aviation Security Amendment Act 2004_ p
 <tr>
   <td>
     <div>
-      3\. Schedule 2, items 1 and 2
+      11\. Schedule 2, items 3 and 4
     </div>
   </td>
   <td>
     <div>
-      The later of:
-    </div>
-    <div>
-      (a) the start of the day on which this Act receives the Royal Assent;
-        and
-    </div>
-    <div>
-      (b) immediately after the commencement of section 3 of the
-        <i>Aviation Transport Security Act 2004</i>.
+      The 28th day after the day on which this Act receives the Royal Assent
     </div>
   </td>
   <td>
     <div>
-      10 March 2005
-    </div>
-    <div>
-      (paragraph (b) applies)
+      2 August 2002
     </div>
   </td>
 </tr></table>
 
-_(e)_ Subsection 2(1) (item 26) of the _Statute Law Revision Act 2012_ provides as follows:
+_(h)_ Subsection 2(1) (item 3) of the _Aviation Security Amendment Act 2004_ provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
@@ -2545,19 +2544,28 @@ _(e)_ Subsection 2(1) (item 26) of the _Statute Law Revision Act 2012_ provide
 <tr>
   <td>
     <div>
-      26\. Schedule 2, item 34
+      3\. Schedule 2, items 1 and 2
     </div>
   </td>
   <td>
     <div>
-      Immediately after the time specified in the
-        <i>Statute Law Revision Act 2011</i>for the commencement of item 65 of Schedule 5
-        to that Act.
+      The later of:
+    </div>
+    <div>
+      (a)
+      the start of the day on which this Act receives the Royal Assent; and
+    </div>
+    <div>
+      (b)
+      immediately after the commencement of section 3 of the
+        <i>Aviation Transport Security Act 2004</i>.
     </div>
   </td>
   <td>
     <div>
-      19 April 2011
+      10 March 2005
+
+      (paragraph (b) applies)
     </div>
   </td>
 </tr></table>
@@ -2606,12 +2614,12 @@ _(e)_ Subsection 2(1) (item 26) of the _Statute Law Revision Act 2012_ provide
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 196, 1992; No. 182, 1994; No. 146, 1999; No. 9, 2000; No. 65, 2002; Nos. 64 and 127, 2004; Nos. 1 and 5, 2011; No .136, 2012</div>
+    <div>am. No. 196, 1992; No. 182, 1994; No. 146, 1999; No. 9, 2000; No. 65, 2002; Nos. 64 and 127, 2004; No. 1, 2011</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 6</div>
+    <div>Ss. 5, 6</div>
   </td>
   <td>
     <div>am. No. 89, 1995</div>
@@ -2915,18 +2923,10 @@ _(e)_ Subsection 2(1) (item 26) of the _Statute Law Revision Act 2012_ provide
 </tr>
 <tr>
   <td>
-    <div>S. 52</div>
+    <div><b>Schedule 5</b></div>
   </td>
   <td>
-    <div>am. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 53</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
+    <div></div>
   </td>
 </tr>
 <tr>
@@ -2936,29 +2936,19 @@ _(e)_ Subsection 2(1) (item 26) of the _Statute Law Revision Act 2012_ provide
   <td>
     <div>am. No. 182, 1994</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
 </tr></table>
 
 ### Note 2
 
-Section 5—Schedule (item 27) of the _Transport Legislation Amendment Act (No. 2) 1995_ (No. 89, 1995) provides as follows:
+Subsection 3(1)—Schedule 5 (item 65) of the _Statute Law Revision Act 2011_ (No. 5, 2011) provides as follows:
 
-## Schedule
+## Schedule 5
 
-## 27  Paragraphs 5(1)(a) and (b)
+## 65  Subsection 3(1)
 
-Omit, substitute
+Insert:
 
-                     (a)  when the last external door is closed in preparation for the first movement of the aircraft for the purpose of taking off on the flight; or
-
-                     (b)  if the aircraft moves, before all the external doors are closed, for the purpose of taking off on the flight—when it first so moves.
+                    <a name="foreign-affair-minist"></a>**_Foreign Affairs Minister_** means the Minister administering the _Diplomatic Privileges and Immunities Act 1967_.
 
 The proposed amendment was misdescribed and is not incorporated in this compilation.
 
@@ -2968,7 +2958,7 @@ The proposed amendment was misdescribed and is not incorporated in this compilat
 
 _Australian Federal Police Legislation Amendment Act 2000 (No. 9, 2000)_
 
-## Schedule 3
+## Schedule 3  
 
 ## 20  Definition
 
@@ -3053,7 +3043,7 @@ The exercise or purported exercise (whether before, at or after the commencement
 _Aviation Crimes and Policing Legislation Amendment Act 2011 
  (No. 1, 2011)_
 
-## Schedule 1
+## Schedule 1
 
 ## 23  Application
 
