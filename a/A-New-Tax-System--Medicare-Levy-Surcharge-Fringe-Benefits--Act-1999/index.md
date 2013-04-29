@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2010C00491/Html/ANTSMLSFB1999_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00451/Html/ANTSMLSFB1999_WD02_image001.gif)
 
 # A New Tax System (Medicare Levy Surcharge—Fringe Benefits) Act 1999
 
 **Act No. 18 of 1999 as amended**
 
-This compilation was prepared on 13 July 2010
+This compilation was prepared on 5 July 2010
  taking into account amendments up to Act No. 78 of 2010
 
 The text of any of those amendments not in force 
@@ -157,7 +157,7 @@ Indexation of singles surcharge threshold
 
              (4)  The **_indexation factor_** is:
 
-![](http://www.comlaw.gov.au/Details/C2010C00491/Html/ANTSMLSFB1999_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00451/Html/ANTSMLSFB1999_WD02_image002.gif)
 
              (5)  The indexation factor mentioned in subsection (4) is calculated to 3 decimal places (rounding up if the fourth decimal place is 5 or more).
 
@@ -173,11 +173,11 @@ Indexation of singles surcharge threshold
 
                      (b)  the result of the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00491/Html/ANTSMLSFB1999_WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00451/Html/ANTSMLSFB1999_WD02_image003.gif)
 
 Example:    If a person has 3 dependants who are children, the family surcharge threshold for the 2008-09 year of income is:
 
-![](http://www.comlaw.gov.au/Details/C2010C00491/Html/ANTSMLSFB1999_WD02_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00451/Html/ANTSMLSFB1999_WD02_image004.gif)
 
 ##### <a id="7"></a>7  When are people _married_?
 
@@ -263,7 +263,7 @@ General rule
 
              (3)  If this Division applies to the person for only some of the days of the year of income, the amount of surcharge payable on the person’s reportable fringe benefits total for the year of income includes the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00491/Html/ANTSMLSFB1999_WD02_image005.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00451/Html/ANTSMLSFB1999_WD02_image005.gif)
 
 ### Division 3—Amount of surcharge for single person with dependants
 
@@ -315,7 +315,7 @@ Amount of surcharge payable for part of year
 
              (4)  If this Division applies to the person for only some of the days of the year of income, the amount of surcharge payable on the person’s reportable fringe benefits total for the year of income includes the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00491/Html/ANTSMLSFB1999_WD02_image006.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00451/Html/ANTSMLSFB1999_WD02_image006.gif)
 
 ### Division 4—Amount of surcharge for married person
 
@@ -405,7 +405,7 @@ Amount of surcharge
 
              (4)  The amount of surcharge payable on the person’s reportable fringe benefits total for the year of income includes the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00491/Html/ANTSMLSFB1999_WD02_image007.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00451/Html/ANTSMLSFB1999_WD02_image007.gif)
 
 where:
 
@@ -609,42 +609,7 @@ of Assent</div>
     <div>25 June 2004</div>
   </td>
   <td>
-    <div>S. 4 
-S. 5 (rep. by 75, 2010, Sch. 6 \[item 116])</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Tax Laws Amendment (2010 Measures No. 2) Act 2010</div>
-  </td>
-  <td>
-    <div>75, 2010</div>
-  </td>
-  <td>
-    <div>28 June 2010</div>
-  </td>
-  <td>
-    <div>Schedule 6 (item 116): 29 June 2010</div>
-  </td>
-  <td>
-    <div>—</div>
+    <div>Ss. 4 and 5</div>
   </td>
 </tr>
 <tr>
@@ -661,42 +626,7 @@ S. 5 (rep. by 75, 2010, Sch. 6 \[item 116])</div>
     <div>26 June 2005</div>
   </td>
   <td>
-    <div>Sch. 1 (item 13) 
-S. 4 (rep. by 75, 2010, Sch. 6 \[item 117])</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Tax Laws Amendment (2010 Measures No. 2) Act 2010</div>
-  </td>
-  <td>
-    <div>75, 2010</div>
-  </td>
-  <td>
-    <div>28 June 2010</div>
-  </td>
-  <td>
-    <div>Schedule 6 (item 117): 29 June 2010</div>
-  </td>
-  <td>
-    <div>—</div>
+    <div>Ss. 4 and 13</div>
   </td>
 </tr>
 <tr>
@@ -1251,11 +1181,19 @@ _Tax Laws Amendment (Medicare Levy and Medicare Levy Surcharge) Act 2004 (No. 
 
 ##### <a id="4"></a>4  Application of amendments
 
-                   The amendments made by Schedule 1 apply to assessments for the 2003-2004 year of income and later years of income.
+                   The amendments made by Schedule 1 apply to assessments for the 2003-2004 year of income and later years of income.
+
+##### <a id="5"></a>5  Amendment of assessments
+
+                   Section 170 of the _Income Tax Assessment Act 1936_ does not prevent the amendment of an assessment made before the commencement of this section for the purposes of giving effect to this Act.
 
 * * *
 
 _Tax Laws Amendment (Medicare Levy and Medicare Levy Surcharge) Act 2005 (No. 62, 2005)_
+
+##### <a id="4"></a>4  Amendment of assessments
+
+                   Section 170 of the _Income Tax Assessment Act 1936_ does not prevent the amendment of an assessment made before the commencement of this section for the purposes of giving effect to this Act.
 
 ## Schedule 1
 
