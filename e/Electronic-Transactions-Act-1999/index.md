@@ -1,20 +1,21 @@
-![](http://www.comlaw.gov.au/Details/C2007C00242/Html/ElectronicTrans1999_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00484/Html/C1D9A85931AE2E1DCA2570450023A03A/$FILE/image001.gif)
 
 # Electronic Transactions Act 1999
 
 **Act No. 162 of 1999 as amended**
 
-This compilation was prepared on 2 April 2007
- incorporating amendments up to Act No. 21 of 2007
+This compilation was prepared on 15 July 2005
+incorporating amendments up to Act No. 100 of 2005
 
 The text of any of those amendments not in force
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, Canberra
+
 
 # Contents
 
@@ -72,6 +73,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Notes** 
 
+
 ## An Act to facilitate electronic transactions, and for other purposes
 
 ## Part 1—Introduction
@@ -102,19 +104,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                    The following is a simplified outline of this Act:
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
-<li class="BoxList" style="margin-left:21.25pt">•     For
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•     For the purposes of a law of the Commonwealth, a transaction is not invalid because it took place by means of one or more electronic communications.</li>
 
-the purposes of a law of the Commonwealth, a transaction is not invalid because
-
-it took place by means of one or more electronic communications.</li>
-
-<li class="BoxList" style="margin-left:21.25pt">•    The
-
-following requirements imposed under a law of the Commonwealth can be met in
-
-electronic form:</li>
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•    The following requirements imposed under a law of the Commonwealth can be met in electronic form:</li>
 
                (a)     a requirement to give information in writing;
 
@@ -126,21 +120,9 @@ electronic form:</li>
 
                (e)     a requirement to retain a document.
 
-<li class="BoxList" style="margin-left:21.25pt">•     For
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•     For the purposes of a law of the Commonwealth, provision is made for determining the time and place of the dispatch and receipt of an electronic communication.</li>
 
-the purposes of a law of the Commonwealth, provision is made for determining
-
-the time and place of the dispatch and receipt of an electronic communication.</li>
-
-<li class="BoxList" style="margin-left:21.25pt">•     The
-
-purported originator of an electronic communication is bound by it for the
-
-purposes of a law of the Commonwealth only if the communication was sent by the
-
-purported originator or with the authority of the purported originator.</li>
-
-* * *
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•     The purported originator of an electronic communication is bound by it for the purposes of a law of the Commonwealth only if the communication was sent by the purported originator or with the authority of the purported originator.</li></div>
 
 ##### <a id="5"></a>5  Definitions
 
@@ -190,7 +172,7 @@ purported originator or with the authority of the purported originator.</li>
 
                    This Act binds the Crown in all its capacities.
 
-##### <a id="7"></a>7  External  Territories
+##### <a id="7"></a>7  External Territories
 
                    This Act extends to all the external Territories.
 
@@ -506,7 +488,7 @@ Exemptions
 
              (8)  The regulations may provide that this section does not apply to a specified law of the Commonwealth.
 
-##### <a id="15"></a>15  Attribution of electronic communications
+##### <a id="15"></a>15  Attribution of electronic communications
 
              (1)  For the purposes of a law of the Commonwealth, unless otherwise agreed between the purported originator and the addressee of an electronic communication, the purported originator of the electronic communication is bound by that communication only if the communication was sent by the purported originator or with the authority of the purported originator.
 
@@ -541,6 +523,7 @@ Certain provisions of the Evidence Act 1995 etc. not affected
                      (a)  required or permitted by this Act to be prescribed; or
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+
 
 # Schedule 1—Exemption of migration and citizenship documents from section 11
 
@@ -640,13 +623,12 @@ _Note:       See subsection 11(5)._
 
                    This Schedule does not, by implication, limit section 13 (which deals with exemptions from Division 2 of Part 2).
 
+
 # Notes to the _Electronic Transactions Act 1999_
 
 ### Note 1
 
 The _Electronic Transactions Act 1999_ as shown in this compilation comprises Act No. 162, 1999 amended as indicated in the Tables below.
-
-For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
 
 ### Table of Acts
 
@@ -666,11 +648,13 @@ For all relevant information pertaining to application, saving or transitional p
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -680,57 +664,54 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Electronic Transactions Act 1999</div>
-  </td>
-  <td>
-    <div>162, 1999</div>
-  </td>
-  <td>
-    <div>10 Dec 1999</div>
-  </td>
-  <td>
-    <div>15 March 2000 ( <i>see Gazette</i>1999, No. GN10)</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2005</div>
-  </td>
-  <td>
-    <div>100, 2005</div>
-  </td>
-  <td>
-    <div>6 July 2005</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 13): <i>(a)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Citizenship (Transitionals and Consequentials) Act 2007</div>
-  </td>
-  <td>
-    <div>21, 2007</div>
-  </td>
-  <td>
-    <div>15 Mar 2007</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 27) and Schedule 3 (items 14, 20): \[ <i>see</i>s. 2(1), Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 14, 20)</div>
-  </td>
-</tr></table>
+<tbody></tbody></table>
+
+<table>
+<colgroup>
+  <col width="30%">
+  <col width="16%">
+  <col width="18%">
+  <col width="22%">
+  <col width="14%">
+</colgroup>
+
+<tbody>
+  <tr>
+    <td>
+      <div>Electronic Transactions Act 1999</div>
+    </td>
+    <td>
+      <div>162, 1999</div>
+    </td>
+    <td>
+      <div>10 Dec 1999</div>
+    </td>
+    <td>
+      <div>15 March 2000 ( <i>see Gazette</i>1999, No. GN10)</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision Act 2005</div>
+    </td>
+    <td>
+      <div>100, 2005</div>
+    </td>
+    <td>
+      <div>6 July 2005</div>
+    </td>
+    <td>
+      <div>Schedule 1 (item 13): <i>(a)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 _(a)_ Subsection 2(1) (item 9) of the _Statute Law Revision Act 2005_ provides as follows:
 
@@ -800,24 +781,27 @@ _(a)_ Subsection 2(1) (item 9) of the _Statute Law Revision Act 2005_ provides
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>
-      9\. Schedule 1, item 13
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of paragraph 11(6)(a) of the
-        <i>Electronic Transactions Act 1999</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      15 March 2000
-    </div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>
+        9\. Schedule 1, item 13
+      </div>
+    </td>
+    <td>
+      <div>
+        Immediately after the commencement of paragraph 11(6)(a) of the
+          <i>Electronic Transactions Act 1999</i>.
+      </div>
+    </td>
+    <td>
+      <div>
+        15 March 2000
+      </div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table of Amendments
 
@@ -842,93 +826,24 @@ _(a)_ Subsection 2(1) (item 9) of the _Statute Law Revision Act 2005_ provides
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>S. 11</div>
-  </td>
-  <td>
-    <div>am. No. 100, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>S. 11</div>
+    </td>
+    <td>
+      <div>am. No. 100, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+</tbody></table>
 
-### Note 2
-
-_Australian Citizenship (Transitionals and Consequentials) Act 2007
- (No. 21, 2007)_
-
-The following amendment commences on 15 September 2007 unless proclaimed earlier:
-
-## Schedule 1
-
-## 27  Clause 2 of Schedule 1
-
-Repeal the clause, substitute:
-
-##### <a id="2"></a>2  Exempt citizenship documents
-
-             (1)  Section 11 does not apply to a document required or permitted to be produced in connection with:
-
-                     (a)  ascertaining whether a person is, or remains, an Australian citizen; or
-
-                     (b)  the operation of a provision of a citizenship law that relates to:
-
-                              (i)  registration; or
-
-                             (ii)  an application for, or the giving of, an approval to become an Australian citizen; or
-
-                            (iii)  an application for, or the giving of, a notice about evidence of Australian citizenship; or
-
-                            (iv)  the cancellation or surrender of a notice about evidence of Australian citizenship; or
-
-                             (v)  the renunciation of Australian citizenship; or
-
-                            (vi)  the revocation of Australian citizenship; or
-
-                     (c)  the operation of a provision of a citizenship law that relates to:
-
-                              (i)  the keeping of a register; or
-
-                             (ii)  the correction of an entry in a register; or
-
-                            (iii)  the cancellation of an entry in a register.
-
-             (2)  In this clause:
-
-                    <a name="citizenship-law"></a>**_citizenship law_** means:
-
-                     (a)  the _Australian Citizenship Act 2007_; or
-
-                     (b)  regulations under that Act.
-
-As at 2 April 2007 the amendment is not incorporated in this compilation.
-
-## Table A
-
-### Application, saving or transitional provisions
-
-_Australian Citizenship (Transitionals and Consequentials) Act 2007 
- (No. 21, 2007)_
-
-The following provisions commence on 15 September 2007 unless proclaimed earlier:
-
-## Schedule 3
-
-## 14  Definition
-
-In this Part:
-
-**_commencement day_** means the day on which sections 2A to 54 of the _Australian Citizenship Act 2007_ commence.
-
-## 20  Application—_Electronic Transactions Act 1999_
-
-The amendment made by item 27 of Schedule 1 applies in relation to documents required or permitted to be produced on or after the commencement day.
 
  
