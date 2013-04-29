@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00561/Html/3c4bbd55-2661-4254-a761-caed35a35409_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00628/Html/DairyProduceAct1986_WD02_image001.gif)
 
 # Dairy Produce Act 1986
 
 **Act No. 54 of 1986 as amended**
 
-This compilation was prepared on 25 July 2012
- taking into account amendments up to Act No. 82 of 2012
+This compilation was prepared on 3 December 2008
+ taking into account amendments up to Act No. 123 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -36,7 +36,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [5](#5).            Funding contract
 
-[6](#6).            Appropriation for payments under funding contract etc 
+[6](#6).            Appropriation for payments under funding contract
 
     **Division 2—Industry services body**
 
@@ -74,8 +74,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part VIII—Miscellaneous**
 
-[109](#109).        Liability of industry services body for the subsidiary 
- company
+[109](#109).        Liability of industry services body for the subsidiary company
 
 [111](#111).        Power to call for returns
 
@@ -167,7 +166,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [33](#33).          Ancillary or incidental provisions
 
-[34](#34).          Scheme‑making power not limited
+[34](#34).          Scheme-making power not limited
 
 [35](#35).          Variation of scheme
 
@@ -213,7 +212,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [37S](#37S).        Fees
 
-[37T](#37T).        Statutory declarations
+[37T](#37T).       Statutory declarations
 
 [37U](#37U).       Methods by which SDA payments may be made
 
@@ -221,23 +220,23 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [37W](#37W).      Ancillary or incidental provisions
 
-[37X](#37X).       Scheme‑making power not limited
+[37X](#37X).       Scheme-making power not limited
 
 [37Y](#37Y).       Variation of scheme
 
-[37Z](#37Z).        Scheme to be a disallowable instrument
+[37Z](#37Z).       Scheme to be a disallowable instrument
 
-[37ZA](#37ZA).     Application to things happening before commencement
+[37ZA](#37ZA).    Application to things happening before commencement
 
 [37ZB](#37ZB).     Use and disclosure of information obtained under the DSAP scheme
 
-    **Division 2—Information‑gathering powers**
+    **Division 2—Information-gathering powers**
 
 [38](#38).          DAA may obtain information and documents
 
 [39](#39).          Copying documents—reasonable compensation
 
-[40](#40).          Self‑incrimination
+[40](#40).          Self-incrimination
 
 [41](#41).          Copies of documents
 
@@ -255,7 +254,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [46](#46).          Recovery by legal proceedings
 
-[47](#47).          Recovery by set‑off
+[47](#47).          Recovery by set-off
 
 [48](#48).          Industry services body may collect money from a person who owes money to an entity
 
@@ -281,7 +280,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [57](#57).          Powers
 
-[58](#58).          Phasing‑down of the DAA
+[58](#58).          Phasing-down of the DAA
 
 [59](#59).          Membership of the DAA
 
@@ -291,9 +290,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [62](#62).          Procedures
 
-[63](#63).          Disclosure of interests before the second DAA phase‑down time
+[63](#63).          Disclosure of interests before the second DAA phase-down time
 
-[64](#64).          Disclosure of interests after the second DAA phase‑down time
+[64](#64).          Disclosure of interests after the second DAA phase-down time
 
 [65](#65).          Remuneration and allowances
 
@@ -309,17 +308,17 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [71](#71).          Consultants etc 
 
-[72](#72).          Delegation by DAA—before second DAA phase‑down time
+[72](#72).          Delegation by DAA—before second DAA phase-down time
 
-[73](#73).          Delegation by DAA—after second DAA phase‑down time
+[73](#73).          Delegation by DAA—after second DAA phase-down time
 
 [74](#74).          Annual report
 
     **Division 7—Miscellaneous**
 
-[75](#75).          DSAP and SDA payments taken to be subsidies for the purposes of section 15‑10 of the _Income Tax Assessment Act 1997_
+[75](#75).          DSAP and SDA payments taken to be subsidies for the purposes of section 15-10 of the _Income Tax Assessment Act 1997_
 
-[76](#76).          Review in 2002‑2003
+[76](#76).          Review in 2002-2003
 
 **Part 3—Dairy Structural Adjustment Fund**
 
@@ -391,29 +390,29 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [96](#96).          When levy due for payment
 
-    **Division 4—Collection agents, collection sub‑agents and collecting organisations**
+    **Division 4—Collection agents, collection sub-agents and collecting organisations**
 
 [97](#97).          Collection agents
 
-[98](#98).          Collection sub‑agents—simple supply chain
+[98](#98).          Collection sub-agents—simple supply chain
 
-[99](#99).          Collection sub‑agents—complex supply chain
+[99](#99).          Collection sub-agents—complex supply chain
 
-[100](#100).        Collection agents and collection sub‑agents to notify unpaid levy
+[100](#100).        Collection agents and collection sub-agents to notify unpaid levy
 
-[101](#101).        Collection agents and collection sub‑agents to notify unremitted levy
+[101](#101).        Collection agents and collection sub-agents to notify unremitted levy
 
-[102](#102).        Collection agents and collection sub‑agents to issue receipts for levy
+[102](#102).        Collection agents and collection sub-agents to issue receipts for levy
 
 [103](#103).        Collecting organisations
 
 [104](#104).        Application of the _Financial Management and Accountability Act 1997_
 
-    **Division 5—Record‑keeping requirements**
+    **Division 5—Record-keeping requirements**
 
-[105](#105).        Record‑keeping requirements for levy payers
+[105](#105).        Record-keeping requirements for levy payers
 
-[106](#106).        Record‑keeping requirements for collection agents and collection sub‑agents
+[106](#106).        Record-keeping requirements for collection agents and collection sub-agents
 
     **Division 6—Late payment penalty**
 
@@ -429,13 +428,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [111](#111).        Commonwealth may collect money from a person who owes money to a person
 
-    **Division 8—Information‑gathering powers**
+    **Division 8—Information-gathering powers**
 
 [112](#112).        Power to call for returns or information
 
 [113](#113).        Regulations may require the giving of returns or information
 
-[114](#114).        Self‑incrimination
+[114](#114).        Self-incrimination
 
     **Division 9—Access to premises**
 
@@ -459,7 +458,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [122](#122).        Designated small remitters
 
-[123](#123).        Designated small levy‑payers
+[123](#123).        Designated small levy-payers
 
 [124](#124).        Refund of overpayments
 
@@ -611,11 +610,7 @@ Note:          After a contract has been entered into, the eli
 
                      (a)  dairy service payments are spent by the body on marketing, promotion, strategic policy development, research and development activities or other activities, for the benefit of the Australian dairy industry; and
 
-                     (b)  matching payments are spent by the body on:
-
-                              (i)  research and development activities for the benefit of the Australian dairy industry and the Australian community generally; and
-
-                             (ii)  making payments to the Commonwealth under subsection 6(4).
+                     (b)  matching payments are spent by the body on research and development activities for the benefit of the Australian dairy industry and the Australian community generally.
 
              (3)  The contract does not have to oblige the Commonwealth to pay the full amounts that could be paid out of the money appropriated under section 6.
 
@@ -629,7 +624,7 @@ Note:          For example, the contract may provide for payme
 
              (7)  If the contract is varied, the Minister must cause a copy of the contract as varied to be tabled in each House of the Parliament within 14 sitting days of that House after the variation occurred.
 
-##### <a id="6"></a>6  Appropriation for payments under funding contract etc.
+##### <a id="6"></a>6  Appropriation for payments under funding contract
 
              (1)  The Consolidated Revenue Fund is appropriated for the purposes of payments by the Commonwealth under section 5.
 
@@ -649,37 +644,13 @@ Overall limit for matching payments
 
                      (b)  the total amount of old dairy levy amounts.
 
-Matching payments—retention limit
+Matching payments—annual limit
 
-             (4)  The matching payments made to the eligible body during a particular financial year are subject to the condition that, if:
+             (4)  For matching payments in respect of a particular financial year, the limit on the appropriation is the lesser of:
 
-                     (a)  before the end of 31 October next following the financial year, the Minister determines the amount of the gross value of whole milk produced in Australia in the financial year; and
+                     (a)  0.5% of the amount determined by the Minister to be the gross value of whole milk produced in Australia in that financial year; and
 
-                     (b)  as at the end of 31 October next following the financial year, the sum of the matching payments that were paid to the eligible body during the financial year exceeds the lesser of:
-
-                              (i)  0.5% of the amount of the gross value of whole milk produced in Australia in the financial year as determined by the Minister; and
-
-                             (ii)  50% of the amount spent by the eligible body in the financial year on activities that qualify, under the funding contract, as research and development activities;
-
-the eligible body will pay to the Commonwealth an amount equal to the excess.
-
-Note:          This ensures that the sum of the matching payments that are retained by the eligible body in relation to the financial year does not exceed the lesser of the amounts calculated under subparagraphs (b)(i) and (b)(ii).
-
-          (4A)  If:
-
-                     (a)  before the end of 31 October next following a financial year, the Minister has not determined under subsection (4) the amount of the gross value of whole milk produced in Australia in the financial year; and
-
-                     (b)  the Minister has determined under subsection (4) the amount of the gross value of whole milk produced in Australia in the previous financial year;
-
-the Minister is taken to have made, immediately before the end of that 31 October, a determination under subsection (4) that the amount of the gross value of whole milk produced in Australia in the financial year is equal to the amount of the gross value of whole milk produced in Australia determined under subsection (4) for the previous financial year.
-
-          (4B)  An amount payable under subsection (4) by the eligible body:
-
-                     (a)  is a debt due to the Commonwealth; and
-
-                     (b)  may be recovered by the Minister, on behalf of the Commonwealth, by action in a court of competent jurisdiction.
-
-          (4C)  A determination made under subsection (4) is not a legislative instrument.
+                     (b)  50% of the amount spent by the eligible body in that financial year on activities that qualify, under the funding contract, as research and development activities.
 
              (5)  For the purposes of subsection (4), the regulations may prescribe the manner in which the Minister is to determine the gross value of whole milk produced in Australia in a financial year.
 
@@ -687,31 +658,17 @@ Matching payments—unmatched R&amp;D excess
 
              (6)  If there is an unmatched R&amp;D excess for a financial year, the amount spent by the eligible body in the following financial year on activities that qualify, under the funding contract, as research and development activities is taken, for the purposes of this section (including for the purposes of this subsection and subsection (7)), to be increased by the amount of the unmatched R&amp;D excess.
 
-Note:          This means that research and development expenditure that is not “50% matched” in one financial year because of the condition in subparagraph (4)(b)(i) can be carried forward into later years.
+Note:          This means that research and development expenditure that is not “50% matched” in one financial year because of the cap in paragraph (4)(a) can be carried forward into later years.
 
              (7)  For the purposes of subsection (6), there is an **_unmatched R&amp;D excess_** for a financial year if:
 
                      (a)  the eligible body spends a particular amount (the **_R&amp;D spend amount_**) in the financial year on activities that qualify, under the funding contract, as research and development activities; and
 
-                     (b)  because of the operation of subparagraph (4)(b)(i), the net matching payments for the financial year are less than 50% of the R&amp;D spend amount;
+                     (b)  because of the operation of paragraph (4)(a), the matching payments for the financial year are less than 50% of the R&amp;D spend amount;
 
 and the amount of the unmatched R&amp;D excess is:
 
-![](http://www.comlaw.gov.au/Details/C2012C00561/Html/3c4bbd55-2661-4254-a761-caed35a35409_files/image002.gif)
-
-Set off
-
-             (8)  If:
-
-                     (a)  an amount (the **_first amount_**) is payable by the eligible body under subsection (4); and
-
-                     (b)  another amount (the **_second amount_**) is payable by the Commonwealth to the eligible body under the funding contract;
-
-the Minister may, on behalf of the Commonwealth, set off the whole or a part of the first amount against the whole or a part of the second amount.
-
-Net matching payments
-
-             (9)  For the purposes of this section, **_net matching payments_** for a financial year means the total of the matching payments made to the eligible body during the financial year, less the amount payable by the eligible body under subsection (4) as a condition of those matching payments.
+![](http://www.comlaw.gov.au/Details/C2008C00628/Html/DairyProduceAct1986_WD02_image002.gif)
 
 ### Division 2—Industry services body
 
@@ -903,9 +860,9 @@ Export in contravention of conditions of approval
 
              (2)  If:
 
-                     (a)  the subsidiary company is wound‑up; and
+                     (a)  the subsidiary company is wound-up; and
 
-                     (b)  the liabilities of the subsidiary company payable on the winding‑up are not able to be met in full from the assets of the subsidiary company;
+                     (b)  the liabilities of the subsidiary company payable on the winding-up are not able to be met in full from the assets of the subsidiary company;
 
 the industry services body is liable to meet those liabilities, to the extent that they are not able to be met out of the assets of the subsidiary company, as if the liabilities had been incurred by the industry services body.
 
@@ -1045,7 +1002,7 @@ the Justice of the Peace may issue a warrant authorising the authorised person, 
 
              (2)  Subject to this section, a person to whom this section applies shall not, either directly or indirectly:
 
-                     (a)  make a record of, or divulge or communicate to any person, any information concerning the affairs of a person acquired by that first‑mentioned person by reason of that first‑mentioned person’s office or employment with the industry services body and acquired under or for the purposes of this Act; or
+                     (a)  make a record of, or divulge or communicate to any person, any information concerning the affairs of a person acquired by that first-mentioned person by reason of that first-mentioned person’s office or employment with the industry services body and acquired under or for the purposes of this Act; or
 
                      (b)  produce to any person:
 
@@ -1071,7 +1028,7 @@ the Justice of the Peace may issue a warrant authorising the authorised person, 
 
                      (d)  a provision of the _Farm Household Support Act 1992_ in so far as that provision relates to the DEP scheme (within the meaning of that Act); or
 
-                     (e)  dairy‑type grants (within the meaning of the _Farm Household Support Act 1992_).
+                     (e)  dairy-type grants (within the meaning of the _Farm Household Support Act 1992_).
 
              (3)  Subsection (2) does not apply to the disclosure of information, or the production of a document, to the Minister, or to the Secretary to the Department or an officer of the Department designated by the Secretary.
 
@@ -1081,7 +1038,7 @@ the Justice of the Peace may issue a warrant authorising the authorised person, 
 
 Note:          The defendant bears an evidential burden in relation to the matters in subsections (2A), (2B), (3), (4) and (4A). See subsection 13.3(3) of the _Criminal Code_.
 
-             (5)  A person to whom information is communicated under subsection (3) and an employee or other person under the control of that first‑mentioned person are, in respect of that information, entitled to rights and privileges, and subject to obligations and liabilities, under subsection (2) as if they were persons referred to in subsection (1).
+             (5)  A person to whom information is communicated under subsection (3) and an employee or other person under the control of that first-mentioned person are, in respect of that information, entitled to rights and privileges, and subject to obligations and liabilities, under subsection (2) as if they were persons referred to in subsection (1).
 
              (6)  An offence against subsection (2) is punishable on summary conviction.
 
@@ -1101,7 +1058,7 @@ Note:          The defendant bears an evidential burden in rel
 
 ##### <a id="126"></a>126  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters:
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -1141,19 +1098,19 @@ follows:</li>
 
                (a)     DSAP payments (made under this Schedule);
 
-              (b)     SDA payments (made under this Schedule);
+               (b)     SDA payments (made under this Schedule);
 
                (c)     dairy exit payments (made under Part 9C of the _Farm Household Support Act 1992_);
 
-              (d)     payments under the Dairy Regional Assistance Programme (see clause 86).
+               (d)     payments under the Dairy Regional Assistance Programme (see clause 86).
 
 <li class="BoxList" style="margin-left:21.25pt">•      Generally, DSAP payments
 
-are calculated by reference to 1998‑1999 milk deliveries at a rate of 46.23
+are calculated by reference to 1998-1999 milk deliveries at a rate of
 
-cents per litre for market milk and a national average rate of 8.96 cents per
+46.23 cents per litre for market milk and a national average rate of 8.96 cents
 
-litre for manufacturing milk.</li>
+per litre for manufacturing milk.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      There are 3 types of SDA
 
@@ -1215,7 +1172,7 @@ Note:          Section 18B of the _Acts Interpretation Act 1
 
                     <a name="dairi-farm-enterpris"></a>**_dairy farm enterprise_** has the meaning given by clause 6.
 
-                    <a name="dairi-type-grant"></a>**_dairy‑type grant_** has the same meaning as in the _Farm Household Support Act 1992_.
+                    <a name="dairi-type-grant"></a>**_dairy-type grant_** has the same meaning as in the _Farm Household Support Act 1992_.
 
                     <a name="deliv"></a>**_deliver_** means:
 
@@ -1263,17 +1220,17 @@ other than market milk.
 
                      (b)  paragraph 6(1)(a) of Schedule 6 to the _Primary Industries (Excise) Levies Act 1999_.
 
-                    <a name="non-premium-compon"></a>**_non‑premium component_**, in relation to the overall enterprise amount of a dairy farm enterprise, means so much of the overall enterprise amount as does not consist of the premium component of the overall enterprise amount.
+                    <a name="non-premium-compon"></a>**_non-premium component_**, in relation to the overall enterprise amount of a dairy farm enterprise, means so much of the overall enterprise amount as does not consist of the premium component of the overall enterprise amount.
 
                     <a name="ordinari-daa-member"></a>**_ordinary DAA member_** means a DAA member other than the Secretary.
 
                     <a name="overal-enterpris-amount"></a>**_overall enterprise amount_**, in relation to a dairy farm enterprise, means the sum of:
 
-                     (a)  the amount calculated at the rate of 46.23 cents per litre of market milk delivered by the enterprise in the 1998‑1999 financial year; and
+                     (a)  the amount calculated at the rate of 46.23 cents per litre of market milk delivered by the enterprise in the 1998-1999 financial year; and
 
-                     (b)  the amount calculated at the rate of 76.03 cents per kilogram of the milk fat content of manufacturing milk delivered by the enterprise in the 1998‑1999 financial year; and
+                     (b)  the amount calculated at the rate of 76.03 cents per kilogram of the milk fat content of manufacturing milk delivered by the enterprise in the 1998-1999 financial year; and
 
-                     (c)  the amount calculated at the rate of 178.77 cents per kilogram of the protein content of manufacturing milk delivered by the enterprise in the 1998‑1999 financial year.
+                     (c)  the amount calculated at the rate of 178.77 cents per kilogram of the protein content of manufacturing milk delivered by the enterprise in the 1998-1999 financial year.
 
 Note 1:       It is expected that the result of applying the rates mentioned in paragraphs (b) and (c) will be a national average rate of 8.96 cents per litre of manufacturing milk.
 
@@ -1283,7 +1240,7 @@ Note 3:       See also clause 31 (which deals with abnormal market
 
                     <a name="payment-right"></a>**_payment right_** means a payment right under the DSAP scheme or the SDA scheme.
 
-                    <a name="premium-compon"></a>**_premium component_**, in relation to the overall enterprise amount of a dairy farm enterprise, means so much of the overall enterprise amount as is attributable to 37.27 cents per litre of market milk delivered by the enterprise in the 1998‑1999 financial year.
+                    <a name="premium-compon"></a>**_premium component_**, in relation to the overall enterprise amount of a dairy farm enterprise, means so much of the overall enterprise amount as is attributable to 37.27 cents per litre of market milk delivered by the enterprise in the 1998-1999 financial year.
 
 Note 1:       See also clause 30 (which deals with the transfer of the whole or part of market milk delivery rights).
 
@@ -1319,7 +1276,7 @@ that payment right is taken never to have come into existence.
 
 ##### <a id="4"></a>4  DSAP claim period
 
-             (1)  The Minister may, by notice published in the _Gazette_, declare that a 3‑month period specified in the notice is the **_DSAP claim period_** for the purposes of this Schedule.
+             (1)  The Minister may, by notice published in the _Gazette_, declare that a 3-month period specified in the notice is the **_DSAP claim period_** for the purposes of this Schedule.
 
              (2)  The declaration has effect accordingly.
 
@@ -1411,7 +1368,7 @@ this Schedule has effect as if the trustee of the deceased individual’s estate
 
 ##### <a id="9"></a>9  Simplified outline
 
-                   The following is a simplified outline of this Division:
+                   The following is a simplified outline of this Division:
 
 * * *
 
@@ -1431,13 +1388,13 @@ provide for 3 types of payment rights, as follows:</li>
 
                (a)     standard payment rights; 
 
-              (b)     exceptional events supplementary payment rights.
+               (b)     exceptional events supplementary payment rights.
 
                (c)     anomalous circumstances payment rights.
 
 <li class="BoxList" style="margin-left:21.25pt">•      Standard payment rights
 
-will be based on milk deliveries in 1998‑1999, and will be worked out by
+will be based on milk deliveries in 1998-1999, and will be worked out by
 
 reference to a rate of 46.23 cents per litre for market milk and a national
 
@@ -1447,13 +1404,13 @@ average rate of 8.96 cents per litre for manufacturing milk.</li>
 
 supplementary payment rights may be granted in cases where, because of
 
-exceptional events, the volume of milk deliveries in 1998‑1999 is less than 70%
+exceptional events, the volume of milk deliveries in 1998-1999 is less
 
-of the average milk deliveries in the 3 previous financial years.</li>
+than 70% of the average milk deliveries in the 3 previous financial years.</li>
 
-<li class="BoxList" style="margin-left:21.25pt">•      Anomalous circumstances payment
+<li class="BoxList" style="margin-left:21.25pt">•      Anomalous circumstances
 
-rights may be granted to entities who have been affected by anomalous
+payment rights may be granted to entities who have been affected by anomalous
 
 circumstances.</li>
 
@@ -1477,7 +1434,7 @@ divided into units, where each unit has a face value of $32.</li>
 
 unit will be entitled to a quarterly payment of $1 for each of the 32 quarters
 
-in the 8‑year period beginning on 1 July 2000.</li>
+in the 8-year period beginning on 1 July 2000.</li>
 
 * * *
 
@@ -1525,9 +1482,9 @@ Basic eligibility criteria
 
                      (b)  either or both of the following conditions are satisfied:
 
-                              (i)  during the 1998‑1999 financial year, the dairy farm enterprise delivered market milk;
+                              (i)  during the 1998-1999 financial year, the dairy farm enterprise delivered market milk;
 
-                             (ii)  during the 1998‑1999 financial year, the dairy farm enterprise delivered manufacturing milk.
+                             (ii)  during the 1998-1999 financial year, the dairy farm enterprise delivered manufacturing milk.
 
 Calculation of face value
 
@@ -1541,7 +1498,7 @@ Calculation of face value
 
                              (ii)  under the scheme, the enterprise is not taken to be subject to an eligible dairy sharefarming arrangement or an eligible dairy leasing arrangement;
 
-                            the face value of the first‑mentioned entity’s standard payment right is that entity’s share of the overall enterprise amount, worked out on a basis that corresponds to the basis on which milk revenues were shared between the entities as at 6.30 pm on 28 September 1999;
+                            the face value of the first-mentioned entity’s standard payment right is that entity’s share of the overall enterprise amount, worked out on a basis that corresponds to the basis on which milk revenues were shared between the entities as at 6.30 pm on 28 September 1999;
 
                      (c)  if:
 
@@ -1549,13 +1506,13 @@ Calculation of face value
 
                              (ii)  under the scheme, the enterprise is taken to be subject to an eligible dairy sharefarming arrangement and those entities are taken to be parties to that arrangement; and
 
-                            (iii)  the first‑mentioned entity is an entity who, under the scheme, is taken to have provided the essential capital contribution required to achieve access to the market milk premium;
+                            (iii)  the first-mentioned entity is an entity who, under the scheme, is taken to have provided the essential capital contribution required to achieve access to the market milk premium;
 
-                            the face value of the first‑mentioned entity’s standard payment right is the sum of:
+                            the face value of the first-mentioned entity’s standard payment right is the sum of:
 
                             (iv)  the premium component of the overall enterprise amount; and
 
-                             (v)  that entity’s share of the non‑premium component of the overall enterprise amount, worked out on a basis that corresponds to the basis on which milk revenues were shared between the entities as at 6.30 pm on 28 September 1999;
+                             (v)  that entity’s share of the non-premium component of the overall enterprise amount, worked out on a basis that corresponds to the basis on which milk revenues were shared between the entities as at 6.30 pm on 28 September 1999;
 
                      (d)  if:
 
@@ -1563,9 +1520,9 @@ Calculation of face value
 
                              (ii)  under the scheme, the enterprise is taken to be subject to an eligible dairy sharefarming arrangement and those entities are taken to be parties to that arrangement; and
 
-                            (iii)  the first‑mentioned entity is not an entity who, under the scheme, is taken to have provided the essential capital contribution required to achieve access to the market milk premium;
+                            (iii)  the first-mentioned entity is not an entity who, under the scheme, is taken to have provided the essential capital contribution required to achieve access to the market milk premium;
 
-                            the face value of the first‑mentioned entity’s standard payment right is that entity’s share of the non‑premium component of the overall enterprise amount, worked out on a basis that corresponds to the basis on which milk revenues were shared between the entities as at 6.30 pm on 28 September 1999;
+                            the face value of the first-mentioned entity’s standard payment right is that entity’s share of the non-premium component of the overall enterprise amount, worked out on a basis that corresponds to the basis on which milk revenues were shared between the entities as at 6.30 pm on 28 September 1999;
 
                      (e)  if:
 
@@ -1573,9 +1530,9 @@ Calculation of face value
 
                              (ii)  under the scheme, the enterprise is taken to be subject to an eligible dairy leasing arrangement and those entities are taken to be parties to that arrangement; and
 
-                            (iii)  the first‑mentioned entity is an entity who, under the scheme, is taken to have provided the essential capital contribution required to achieve access to the market milk premium;
+                            (iii)  the first-mentioned entity is an entity who, under the scheme, is taken to have provided the essential capital contribution required to achieve access to the market milk premium;
 
-                            the face value of the first‑mentioned entity’s standard payment right is the premium component of the overall enterprise amount;
+                            the face value of the first-mentioned entity’s standard payment right is the premium component of the overall enterprise amount;
 
                       (f)  if:
 
@@ -1583,9 +1540,9 @@ Calculation of face value
 
                              (ii)  under the scheme, the enterprise is taken to be subject to an eligible dairy leasing arrangement and those entities are taken to be parties to that arrangement; and
 
-                            (iii)  the first‑mentioned entity is not an entity who, under the scheme, is taken to have provided the essential capital contribution required to achieve access to the market milk premium;
+                            (iii)  the first-mentioned entity is not an entity who, under the scheme, is taken to have provided the essential capital contribution required to achieve access to the market milk premium;
 
-                            the face value of the first‑mentioned entity’s standard payment right is the non‑premium component of the overall enterprise amount.
+                            the face value of the first-mentioned entity’s standard payment right is the non-premium component of the overall enterprise amount.
 
              (4)  Paragraphs (3)(c), (d), (e) and (f) deal with common types of arrangements that involve 2 parties. Those paragraphs do not, by implication, limit the capacity of the DSAP scheme to deal with less common types of arrangements that involve 3 or more parties—see clause 34.
 
@@ -1613,13 +1570,13 @@ Basic eligibility criteria
 
                      (a)  the entity has already been granted a standard payment right in respect of the enterprise; and
 
-                     (b)  the entity satisfies the DAA that, as a result of one or more events that, under the scheme, are taken to be recognised exceptional events, the volume of market milk and manufacturing milk delivered by the enterprise during the 1998‑1999 financial year is less than 70% of the average annual volume of market milk and manufacturing milk delivered by the enterprise in the following 3 financial years:
+                     (b)  the entity satisfies the DAA that, as a result of one or more events that, under the scheme, are taken to be recognised exceptional events, the volume of market milk and manufacturing milk delivered by the enterprise during the 1998-1999 financial year is less than 70% of the average annual volume of market milk and manufacturing milk delivered by the enterprise in the following 3 financial years:
 
-                              (i)  the 1997‑1998 financial year;
+                              (i)  the 1997-1998 financial year;
 
-                             (ii)  the 1996‑1997 financial year;
+                             (ii)  the 1996-1997 financial year;
 
-                            (iii)  the 1995‑1996 financial year.
+                            (iii)  the 1995-1996 financial year.
 
 Total face value of payment rights
 
@@ -1631,21 +1588,21 @@ Total face value of payment rights
 
 must not exceed the amount that would have been the total face value of the standard payment right if:
 
-                     (c)  the volume of market milk delivered by the dairy farm enterprise during the 1998‑1999 financial year had equalled the average annual volume of market milk delivered by the enterprise in the following 3 financial years:
+                     (c)  the volume of market milk delivered by the dairy farm enterprise during the 1998-1999 financial year had equalled the average annual volume of market milk delivered by the enterprise in the following 3 financial years:
 
-                              (i)  the 1997‑1998 financial year;
+                              (i)  the 1997-1998 financial year;
 
-                             (ii)  the 1996‑1997 financial year;
+                             (ii)  the 1996-1997 financial year;
 
-                            (iii)  the 1995‑1996 financial year; and
+                            (iii)  the 1995-1996 financial year; and
 
-                     (d)  the volume of manufacturing milk delivered by the dairy farm enterprise during the 1998‑1999 financial year had equalled the average annual volume of manufacturing milk delivered by the enterprise in the following 3 financial years:
+                     (d)  the volume of manufacturing milk delivered by the dairy farm enterprise during the 1998-1999 financial year had equalled the average annual volume of manufacturing milk delivered by the enterprise in the following 3 financial years:
 
-                              (i)  the 1997‑1998 financial year;
+                              (i)  the 1997-1998 financial year;
 
-                             (ii)  the 1996‑1997 financial year;
+                             (ii)  the 1996-1997 financial year;
 
-                            (iii)  the 1995‑1996 financial year.
+                            (iii)  the 1995-1996 financial year.
 
 Discretionary grant
 
@@ -1661,7 +1618,7 @@ Basic eligibility criteria
 
                      (a)  the entity did not pass the standard DSAP test; and
 
-                     (b)  the entity held an eligible interest in a dairy farm enterprise during the whole or a part of the 1998‑1999 financial year; and
+                     (b)  the entity held an eligible interest in a dairy farm enterprise during the whole or a part of the 1998-1999 financial year; and
 
                      (c)  under the scheme, the entity is taken to have been affected by anomalous circumstances.
 
@@ -1673,9 +1630,9 @@ Standard DSAP test
 
                      (b)  either or both of the following conditions are satisfied:
 
-                              (i)  during the 1998‑1999 financial year, the dairy farm enterprise delivered market milk;
+                              (i)  during the 1998-1999 financial year, the dairy farm enterprise delivered market milk;
 
-                             (ii)  during the 1998‑1999 financial year, the dairy farm enterprise delivered manufacturing milk.
+                             (ii)  during the 1998-1999 financial year, the dairy farm enterprise delivered manufacturing milk.
 
 Discretionary grant
 
@@ -1695,15 +1652,15 @@ Discretionary grant
 
              (3)  For the purposes of this clause, an entity **_passes the 70% dairy income test_** if, and only if:
 
-                     (a)  more than 70% of the total gross income derived by the entity in the 1998‑1999 financial year consisted of eligible dairy income; or
+                     (a)  more than 70% of the total gross income derived by the entity in the 1998-1999 financial year consisted of eligible dairy income; or
 
                      (b)  more than 70% of the total gross income derived by the entity in the period comprising:
 
-                              (i)  the 1998‑1999 financial year; and
+                              (i)  the 1998-1999 financial year; and
 
-                             (ii)  the 1997‑1998 financial year; and
+                             (ii)  the 1997-1998 financial year; and
 
-                            (iii)  the 1996‑1997 financial year;
+                            (iii)  the 1996-1997 financial year;
 
                             consisted of eligible dairy income.
 
@@ -1815,7 +1772,7 @@ Note:          Section 136.1 of the _Criminal Code_ deals wi
 
                      (d)  if the result of the division is greater than 1, but is not a whole number:
 
-                              (i)  round the result of the division up or down to the nearest whole number (rounding up in the case exactly half‑way between 2 whole numbers); and
+                              (i)  round the result of the division up or down to the nearest whole number (rounding up in the case exactly half-way between 2 whole numbers); and
 
                              (ii)  the rounded number is the number of units in the payment right.
 
@@ -1831,7 +1788,7 @@ Note 2:       Clause 51 deals with cancellation of units because o
 
 Note 3:       Clause 52 deals with cancellation of units because of a breach of an undertaking to dispose of the units. 
 
-Note 4:       Clause 53 deals with cancellation of units when a dairy exit payment or dairy‑type grant becomes payable.
+Note 4:       Clause 53 deals with cancellation of units when a dairy exit payment or dairy-type grant becomes payable.
 
 ##### <a id="20"></a>20  Duration of scheme
 
@@ -1847,7 +1804,7 @@ Note 4:       Clause 53 deals with cancellation of units when a da
 
                              (ii)  the other payment right relates to the enterprise; and
 
-                            (iii)  the DAA allows the claim for the first‑mentioned payment right to be made within a particular period after the end of the DSAP claim period;
+                            (iii)  the DAA allows the claim for the first-mentioned payment right to be made within a particular period after the end of the DSAP claim period;
 
                             within that particular period.
 
@@ -1949,19 +1906,19 @@ the DAA must make all reasonable efforts to give the entity a formal invitation 
 
 Payment rights not to be granted within 30 days after the end of the DSAP claim period
 
-             (2)  The first objective is that a payment right must not be granted before the end of the 30‑day period beginning at the end of the DSAP claim period.
+             (2)  The first objective is that a payment right must not be granted before the end of the 30-day period beginning at the end of the DSAP claim period.
 
 Initial payment day
 
              (3)  The second objective is that there is to be an **_initial payment day_** for each payment right, worked out as follows:
 
-                     (a)  if, during the 28‑day period beginning at the end of the 30‑day period mentioned in subclause (2), the DAA does not receive a request to reconsider its decision to grant the payment right:
+                     (a)  if, during the 28-day period beginning at the end of the 30-day period mentioned in subclause (2), the DAA does not receive a request to reconsider its decision to grant the payment right:
 
-                              (i)  the initial payment day is the first day after the end of that 28‑day period; or
+                              (i)  the initial payment day is the first day after the end of that 28-day period; or
 
                              (ii)  if that first day is earlier than the DSAP payment start day, the initial payment day is the DSAP payment start day;
 
-                     (b)  if, during the 28‑day period beginning at the end of the 30‑day period mentioned in subclause (2), the DAA receives a request to reconsider its decision to grant the payment right:
+                     (b)  if, during the 28-day period beginning at the end of the 30-day period mentioned in subclause (2), the DAA receives a request to reconsider its decision to grant the payment right:
 
                               (i)  the initial payment day is the day ascertained in accordance with the scheme; or
 
@@ -2057,7 +2014,7 @@ that notice must include a statement to the effect that:
 
                      (c)  the entity may, if dissatisfied with the decision, seek a reconsideration of the decision by the DAA; and
 
-                     (d)  the entity may, subject to the _Administrative Appeals Tribunal Act 1975_, if dissatisfied with a decision made by the DAA upon that reconsideration confirming or varying the first‑mentioned decision, make application to the Administrative Appeals Tribunal for review of the decision so confirmed or varied.
+                     (d)  the entity may, subject to the _Administrative Appeals Tribunal Act 1975_, if dissatisfied with a decision made by the DAA upon that reconsideration confirming or varying the first-mentioned decision, make application to the Administrative Appeals Tribunal for review of the decision so confirmed or varied.
 
              (2)  The DSAP scheme must provide that, if:
 
@@ -2141,7 +2098,7 @@ that notice must include a statement to the effect that the entity may, subject 
 
                    The DSAP scheme may contain such ancillary or incidental provisions as the Minister considers appropriate.
 
-##### <a id="34"></a>34  Scheme‑making power not limited
+##### <a id="34"></a>34  Scheme-making power not limited
 
                    Clauses 11 to 33 (inclusive) do not, by implication, limit clause 10.
 
@@ -2183,19 +2140,19 @@ following types of payment rights to entities:</li>
 
                (a)     additional market milk payment rights;
 
-              (b)     discretionary payment rights.
+               (b)     discretionary payment rights.
 
 <li class="BoxList" style="margin-left:21.25pt">•      Additional market milk
 
-payment rights will be based on market milk deliveries in 1998‑1999, and will
+payment rights will be based on market milk deliveries in 1998-1999, and
 
-range from 0.12 cents per litre to 12 cents per litre depending on the
+will range from 0.12 cents per litre to 12 cents per litre depending on the
 
 percentage of market milk deliveries in that year.</li>
 
-<li class="BoxList" style="margin-left:21.25pt">•      Discretionary payment
+<li class="BoxList" style="margin-left:21.25pt">•      Discretionary payment rights
 
-rights may be granted to entities in the circumstances set out in clause 37G.</li>
+may be granted to entities in the circumstances set out in clause 37G.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      Payment rights will be
 
@@ -2247,7 +2204,7 @@ Basic eligibility criteria
 
                      (c)  the number (the **_market milk number_**) worked out in accordance with the following formula is at least 25.1 (rounding to 1 decimal place and rounding up if the second decimal place is 5 or more):
 
-![](http://www.comlaw.gov.au/Details/C2012C00561/Html/3c4bbd55-2661-4254-a761-caed35a35409_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00628/Html/DairyProduceAct1986_WD02_image003.gif)
 
 Note:       See also subclause (4) for how those delivery numbers are worked out.
 
@@ -2263,7 +2220,7 @@ Interpretation
 
                      (b)  if the market milk number is at least 30.1—$15,000.
 
-             (4)  A reference in this clause to the total number of litres of market milk, or the total number of litres of manufacturing milk, delivered by the qualifying enterprise in the 1998‑1999 financial year is a reference to that number as determined by the DAA to have taken to have been delivered by that enterprise in that year.
+             (4)  A reference in this clause to the total number of litres of market milk, or the total number of litres of manufacturing milk, delivered by the qualifying enterprise in the 1998-1999 financial year is a reference to that number as determined by the DAA to have taken to have been delivered by that enterprise in that year.
 
              (5)  This clause is subject to clause 37V (about the effect of death on eligibility etc. for the grant of payment rights).
 
@@ -2279,7 +2236,7 @@ Basic eligibility criteria
 
                      (c)  the number (the **_market milk number_**) worked out in accordance with the following formula is at least 35.1 (rounding to 1 decimal place and rounding up if the second decimal place is 5 or more):
 
-![](http://www.comlaw.gov.au/Details/C2012C00561/Html/3c4bbd55-2661-4254-a761-caed35a35409_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00628/Html/DairyProduceAct1986_WD02_image003.gif)
 
 Note:       See also subclause (5) for how those delivery numbers are worked out.
 
@@ -2291,7 +2248,7 @@ Interpretation
 
              (3)  For the purposes of this clause, the **_overall market milk amount_** for the qualifying enterprise is the amount worked out in accordance with the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00561/Html/3c4bbd55-2661-4254-a761-caed35a35409_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00628/Html/DairyProduceAct1986_WD02_image004.gif)
 
 where:
 
@@ -2301,11 +2258,11 @@ where:
 
                      (b)  if the market milk number is at least 35.1 and less than 45—the number of cents worked out in accordance with the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00561/Html/3c4bbd55-2661-4254-a761-caed35a35409_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00628/Html/DairyProduceAct1986_WD02_image005.gif)
 
              (4)  However, if the amount calculated under subclause (3) is more than $60,000, then the **_overall market milk amount_** for the qualifying enterprise is taken to be $60,000.
 
-             (5)  A reference in this clause to the total number of litres of market milk, or the total number of litres of manufacturing milk, delivered by the qualifying enterprise in the 1998‑1999 financial year is a reference to that number as determined by the DAA to have taken to have been delivered by that enterprise in that year.
+             (5)  A reference in this clause to the total number of litres of market milk, or the total number of litres of manufacturing milk, delivered by the qualifying enterprise in the 1998-1999 financial year is a reference to that number as determined by the DAA to have taken to have been delivered by that enterprise in that year.
 
              (6)  This clause is subject to clause 37V (about the effect of death on eligibility etc. for the grant of payment rights).
 
@@ -2365,15 +2322,15 @@ Interpretation
 
                      (a)  both:
 
-                              (i)  more than 50% of the total gross income derived by the entity in the 1999‑2000 financial year consisted of eligible lease income; and
+                              (i)  more than 50% of the total gross income derived by the entity in the 1999-2000 financial year consisted of eligible lease income; and
 
-                             (ii)  the eligible lease income derived by the entity in the 2000‑2001 financial year is at least 20% less than the eligible lease income derived by the entity in the 1999‑2000 financial year; or
+                             (ii)  the eligible lease income derived by the entity in the 2000-2001 financial year is at least 20% less than the eligible lease income derived by the entity in the 1999-2000 financial year; or
 
                      (b)  both:
 
-                              (i)  more than 50% of the total gross income derived by the entity in the 1999‑2000, 1998‑1999 and 1997‑1998 financial years consisted of eligible lease income; and
+                              (i)  more than 50% of the total gross income derived by the entity in the 1999-2000, 1998-1999 and 1997-1998 financial years consisted of eligible lease income; and
 
-                             (ii)  the eligible lease income derived by the entity in the 2000‑2001 financial year is at least 20% less than the average of the eligible lease income derived by the entity in the 1999‑2000, 1998‑1999 and 1997‑1998 financial years.
+                             (ii)  the eligible lease income derived by the entity in the 2000-2001 financial year is at least 20% less than the average of the eligible lease income derived by the entity in the 1999-2000, 1998-1999 and 1997-1998 financial years.
 
              (5)  For the purposes of this clause, the gross income derived by an entity is to be worked out in accordance with:
 
@@ -2397,11 +2354,11 @@ Interpretation
 
                      (d)  if the result of the division is greater than 1, but is not a whole number:
 
-                              (i)  round the result of the division up or down to the nearest whole number (rounding up in the case exactly half‑way between 2 whole numbers); and
+                              (i)  round the result of the division up or down to the nearest whole number (rounding up in the case exactly half-way between 2 whole numbers); and
 
                              (ii)  the rounded number is the number of units in the payment right.
 
-##### <a id="37L"></a>37L  Cancellation of units
+##### <a id="37L"></a>37L  Cancellation of units
 
                    It is a policy objective that a payment right under the SDA scheme is to be granted subject to the powers of cancellation conferred on the DAA under the authority of clauses 50, 51, 52 and 53.
 
@@ -2411,7 +2368,7 @@ Note 2:       Clause 51 deals with cancellation of units because o
 
 Note 3:       Clause 52 deals with cancellation of units because of a breach of an undertaking to dispose of the units.
 
-Note 4:       Clause 53 deals with cancellation of units when a dairy exit payment or dairy‑type grant becomes payable.
+Note 4:       Clause 53 deals with cancellation of units when a dairy exit payment or dairy-type grant becomes payable.
 
 ##### <a id="37M"></a>37M  Duration of scheme
 
@@ -2525,7 +2482,7 @@ Note:          For example, the SDA scheme may contain provisi
 
                    The SDA scheme may contain such ancillary or incidental provisions as the Minister considers appropriate.
 
-##### <a id="37X"></a>37X  Scheme‑making power not limited
+##### <a id="37X"></a>37X  Scheme-making power not limited
 
                    Clauses 37C to 37W do not, by implication, limit clause 37B.
 
@@ -2549,7 +2506,7 @@ Note:          For example, the SDA scheme may contain provisi
 
              (2)  Unless the contrary intention appears, an expression used in this clause has the same meaning as in the _Privacy Act 1988_.
 
-### Division 2—Information‑gathering powers
+### Division 2—Information-gathering powers
 
 ##### <a id="38"></a>38  DAA may obtain information and documents 
 
@@ -2603,7 +2560,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                    A person is entitled to be paid reasonable compensation for complying with a requirement covered by paragraph 38(2)(c).
 
-##### <a id="40"></a>40  Self‑incrimination
+##### <a id="40"></a>40  Self-incrimination
 
              (1)  An individual is not excused from giving information or evidence or producing a document or a copy of a document under this Division on the ground that the information or evidence or the production of the document or copy might tend to incriminate the individual or expose the individual to a penalty.
 
@@ -2673,7 +2630,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                              (ii)  a provision of the _Farm Household Support Act 1992_ in so far as that provision relates to the DEP scheme;
 
-                      (f)  the recording or disclosure is in connection with the administration of dairy‑type grants.
+                      (f)  the recording or disclosure is in connection with the administration of dairy-type grants.
 
 Note:          A defendant bears an evidential burden in relation to a matter in paragraph (3)(a), (b), (e) or (f)—see subsection 13.3(3) of the _Criminal Code_.
 
@@ -2725,7 +2682,7 @@ Note:          A defendant bears an evidential burden in relat
 
              (2)  An action under subclause (1) may be instituted by the DAA in its official name.
 
-##### <a id="47"></a>47  Recovery by set‑off
+##### <a id="47"></a>47  Recovery by set-off
 
                    If an entity is liable to pay a scheme debt, the scheme debt may be deducted from one or more DSAP payments or SDA payments that are payable to the entity, and if the scheme debt is so deducted, the DSAP payment or SDA payment (as the case may be) is taken to have been paid in full to the entity.
 
@@ -2787,7 +2744,7 @@ When third party is taken to owe money
 
                      (d)  the third party has authority from some other person to pay money to the entity;
 
-whether or not the payment of the money to the entity is dependent on a pre‑condition that has not been fulfilled.
+whether or not the payment of the money to the entity is dependent on a pre-condition that has not been fulfilled.
 
 ##### <a id="49"></a>49  Penalty for unpaid scheme debts
 
@@ -2799,7 +2756,7 @@ whether or not the payment of the money to the entity is dependent on a pre‑co
 
              (4)  If the judgment debt bears interest, the penalty payable under this clause is reduced (but not beyond nil) by the following amount:
 
-![](http://www.comlaw.gov.au/Details/C2012C00561/Html/3c4bbd55-2661-4254-a761-caed35a35409_files/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00628/Html/DairyProduceAct1986_WD02_image006.gif)
 
 where:
 
@@ -2917,7 +2874,7 @@ the SDA scheme must authorise the DAA to cancel the unit.
 
 When cancellation takes effect
 
-             (2)  The cancellation of a unit as authorised under this clause takes effect at the end of that 60‑day period.
+             (2)  The cancellation of a unit as authorised under this clause takes effect at the end of that 60-day period.
 
 ##### <a id="53"></a>53  Cancellation of units when a dairy exit payment becomes payable
 
@@ -2929,7 +2886,7 @@ When cancellation takes effect
 
                               (i)  a decision is made under the DEP scheme that the entity is qualified for a dairy exit payment in relation to the enterprise; or
 
-                             (ii)  a decision is made under the farm help re‑establishment grant scheme (within the meaning of the _Farm Household Support Act 1992_) that the entity is qualified for a dairy‑type grant; and
+                             (ii)  a decision is made under the farm help re-establishment grant scheme (within the meaning of the _Farm Household Support Act 1992_) that the entity is qualified for a dairy-type grant; and
 
                      (c)  immediately before the decision is made, the entity is the registered owner of one or more unencumbered units in the payment right;
 
@@ -2973,13 +2930,13 @@ the DSAP scheme or the SDA scheme (as the case may be) must authorise the DAA to
 
              (2)  The powers of the DAA under this clause include (but are not limited to) the power to enter into contracts and agreements on behalf of the Commonwealth.
 
-##### <a id="58"></a>58  Phasing‑down of the DAA
+##### <a id="58"></a>58  Phasing-down of the DAA
 
-             (1)  The Minister may, by notice published in the _Gazette_, declare that a specified time is the **_first DAA phase‑down time_** for the purposes of this Division.
+             (1)  The Minister may, by notice published in the _Gazette_, declare that a specified time is the **_first DAA phase-down time_** for the purposes of this Division.
 
 Note:          The effect of the notice is to reduce the number of DAA members from 5 to 2—see clause 59.
 
-             (2)  The Minister may, by notice published in the _Gazette_, declare that a specified time is the **_second DAA phase‑down time_** for the purposes of this Division. The specified time must be after the first DAA phase‑down time.
+             (2)  The Minister may, by notice published in the _Gazette_, declare that a specified time is the **_second DAA phase-down time_** for the purposes of this Division. The specified time must be after the first DAA phase-down time.
 
 Note:          The effect of the notice is to reduce the number of DAA members from 2 to 1—see clause 59.
 
@@ -2987,9 +2944,9 @@ Note:          The effect of the notice is to reduce the numbe
 
 ##### <a id="59"></a>59  Membership of the DAA
 
-Before the first DAA phase‑down time
+Before the first DAA phase-down time
 
-             (1)  Before the first DAA phase‑down time, the DAA consists of the following members:
+             (1)  Before the first DAA phase-down time, the DAA consists of the following members:
 
                      (a)  a Chair;
 
@@ -2999,13 +2956,13 @@ Before the first DAA phase‑down time
 
                      (d)  one other member.
 
-Between the first DAA phase‑down time and the second DAA phase‑down time
+Between the first DAA phase-down time and the second DAA phase-down time
 
              (2)  During the period:
 
-                     (a)  beginning at the first DAA phase‑down time; and
+                     (a)  beginning at the first DAA phase-down time; and
 
-                     (b)  ending at the second DAA phase‑down time;
+                     (b)  ending at the second DAA phase-down time;
 
 the DAA consists of the following members:
 
@@ -3013,15 +2970,15 @@ the DAA consists of the following members:
 
                      (d)  one other member.
 
-             (3)  A person who held office as a DAA member immediately before the first DAA phase‑down time is taken to vacate that office at that time. However, this subclause does not prevent the person from being re‑appointed with effect from the first DAA phase‑down time.
+             (3)  A person who held office as a DAA member immediately before the first DAA phase-down time is taken to vacate that office at that time. However, this subclause does not prevent the person from being re-appointed with effect from the first DAA phase-down time.
 
-After the second DAA phase‑down time
+After the second DAA phase-down time
 
-             (4)  After the second DAA phase‑down time, the DAA consists of a single member.
+             (4)  After the second DAA phase-down time, the DAA consists of a single member.
 
-             (5)  If, after the second DAA phase‑down time, there is no ordinary member of the DAA who holds office under subclause (4), the Secretary holds that office.
+             (5)  If, after the second DAA phase-down time, there is no ordinary member of the DAA who holds office under subclause (4), the Secretary holds that office.
 
-             (6)  A person who held office as a DAA member immediately before the second DAA phase‑down time is taken to vacate that office at that time. However, this subclause does not prevent the person from being re‑appointed with effect from the second DAA phase‑down time.
+             (6)  A person who held office as a DAA member immediately before the second DAA phase-down time is taken to vacate that office at that time. However, this subclause does not prevent the person from being re-appointed with effect from the second DAA phase-down time.
 
 ##### <a id="60"></a>60  Qualifications of DAA members
 
@@ -3055,11 +3012,11 @@ unless it appears to the Minister that the person has knowledge of, or experienc
 
              (2)  An ordinary DAA member is to be appointed for the period specified in the instrument of appointment.
 
-             (3)  An ordinary DAA member holds office on a part‑time basis.
+             (3)  An ordinary DAA member holds office on a part-time basis.
 
              (4)  The performance of the functions of the DAA is not affected only because of there being a vacancy or vacancies in the membership of the DAA.
 
-             (5)  The performance of the functions of the DAA is not affected only because of the reconstitution of the DAA at the first DAA phase‑down time or the second DAA phase‑down time.
+             (5)  The performance of the functions of the DAA is not affected only because of the reconstitution of the DAA at the first DAA phase-down time or the second DAA phase-down time.
 
 ##### <a id="62"></a>62  Procedures
 
@@ -3089,9 +3046,9 @@ unless it appears to the Minister that the person has knowledge of, or experienc
 
                      (b)  determines the method by which DAA members are to indicate agreement with resolutions.
 
-             (4)  This clause does not apply after the second DAA phase‑down time.
+             (4)  This clause does not apply after the second DAA phase-down time.
 
-##### <a id="63"></a>63  Disclosure of interests before the second DAA phase‑down time
+##### <a id="63"></a>63  Disclosure of interests before the second DAA phase-down time
 
              (1)  An ordinary DAA member who has a material personal interest in a matter being considered by the DAA must, as soon as possible after the relevant facts have come to the member’s knowledge, disclose the nature of the interest at a meeting of the DAA.
 
@@ -3107,9 +3064,9 @@ unless it appears to the Minister that the person has knowledge of, or experienc
 
                      (b)  take part in the making by the DAA of the determination.
 
-             (4)  This clause does not apply after the second DAA phase‑down time.
+             (4)  This clause does not apply after the second DAA phase-down time.
 
-##### <a id="64"></a>64  Disclosure of interests after the second DAA phase‑down time
+##### <a id="64"></a>64  Disclosure of interests after the second DAA phase-down time
 
 DAA to notify business interests to Minister
 
@@ -3173,7 +3130,7 @@ a direction under subclause (3) in relation to that matter has no effect unles
 
 Application
 
-             (6)  This clause does not apply before the second DAA phase‑down time.
+             (6)  This clause does not apply before the second DAA phase-down time.
 
 ##### <a id="65"></a>65  Remuneration and allowances
 
@@ -3189,7 +3146,7 @@ Application
 
              (1)  The Minister or the DAA Chair may grant leave to an ordinary DAA member to be absent from a meeting or meetings of the DAA.
 
-             (2)  This clause does not apply after the second DAA phase‑down time.
+             (2)  This clause does not apply after the second DAA phase-down time.
 
 ##### <a id="67"></a>67  Resignation
 
@@ -3217,7 +3174,7 @@ the Minister may terminate the appointment of the member.
 
              (6)  The Minister may at any time terminate the appointment of an ordinary DAA member who holds office under subclause 59(4).
 
-Note:          Subclause 59(4) deals with the ordinary DAA member who holds office after the second DAA phase‑down time.
+Note:          Subclause 59(4) deals with the ordinary DAA member who holds office after the second DAA phase-down time.
 
 ##### <a id="69"></a>69  Other terms and conditions
 
@@ -3237,7 +3194,7 @@ Note:          Subclause 59(4) deals with the ordinary DAA mem
 
              (2)  The terms and conditions of engagement are as determined by the DAA.
 
-##### <a id="72"></a>72  Delegation by DAA—before second DAA phase‑down time
+##### <a id="72"></a>72  Delegation by DAA—before second DAA phase-down time
 
              (1)  The DAA may, by resolution, delegate to:
 
@@ -3267,15 +3224,15 @@ all or any of the DAA’s functions and powers.
 
                      (b)  holds or performs the duties of a position of General Manager.
 
-             (8)  This clause does not apply after the second DAA phase‑down time.
+             (8)  This clause does not apply after the second DAA phase-down time.
 
-##### <a id="73"></a>73  Delegation by DAA—after second DAA phase‑down time
+##### <a id="73"></a>73  Delegation by DAA—after second DAA phase-down time
 
              (1)  The DAA may, by writing, delegate to an SES employee or acting SES employee all or any of the DAA’s functions and powers.
 
              (2)  A delegate under this clause is, in the exercise of a function or power delegated under this clause, subject to any directions given by the DAA.
 
-             (3)  This clause does not apply before the second DAA phase‑down time.
+             (3)  This clause does not apply before the second DAA phase-down time.
 
 ##### <a id="74"></a>74  Annual report
 
@@ -3289,21 +3246,21 @@ all or any of the DAA’s functions and powers.
 
              (3)  This clause does not apply in relation to a financial year if:
 
-                     (a)  the financial year is earlier than the 2000‑2001 financial year; or
+                     (a)  the financial year is earlier than the 2000-2001 financial year; or
 
                      (b)  the Secretary was the sole member of the DAA throughout the financial year.
 
 ### Division 7—Miscellaneous
 
-##### <a id="75"></a>75  DSAP and SDA payments taken to be subsidies for the purposes of section 15‑10 of the _Income Tax Assessment Act 1997_
+##### <a id="75"></a>75  DSAP and SDA payments taken to be subsidies for the purposes of section 15-10 of the _Income Tax Assessment Act 1997_
 
-                   To avoid doubt, for the purposes of section 15‑10 of the _Income Tax Assessment Act 1997_, a DSAP payment or an SDA payment received by an entity is taken to be a subsidy received by the entity in relation to carrying on a business.
+                   To avoid doubt, for the purposes of section 15-10 of the _Income Tax Assessment Act 1997_, a DSAP payment or an SDA payment received by an entity is taken to be a subsidy received by the entity in relation to carrying on a business.
 
-Note:          Section 15‑10 of the _Income Tax Assessment Act 1997_ provides that an entity’s assessable income includes a subsidy received in relation to carrying on a business.
+Note:          Section 15-10 of the _Income Tax Assessment Act 1997_ provides that an entity’s assessable income includes a subsidy received in relation to carrying on a business.
 
-##### <a id="76"></a>76  Review in 2002‑2003
+##### <a id="76"></a>76  Review in 2002-2003
 
-             (1)  During the 2002‑2003 financial year, the DAA must conduct a review of, and make recommendations to the Minister about, the adequacy of collections of dairy adjustment levy to fund DSAP payments, SDA payments and dairy exit payments.
+             (1)  During the 2002-2003 financial year, the DAA must conduct a review of, and make recommendations to the Minister about, the adequacy of collections of dairy adjustment levy to fund DSAP payments, SDA payments and dairy exit payments.
 
              (2)  The DAA must prepare a report of a review and recommendations under subclause (1), and give the report to the Minister.
 
@@ -3369,9 +3326,9 @@ Note:          The meaning of **_raise money otherwise than by
 
                     <a name="deal-secur"></a>**_dealing with securities_** includes:
 
-                     (a)  creating, executing, entering into, drawing, making, accepting, endorsing, issuing, discounting, selling, purchasing or re‑selling securities; and
+                     (a)  creating, executing, entering into, drawing, making, accepting, endorsing, issuing, discounting, selling, purchasing or re-selling securities; and
 
-                     (b)  creating, selling, purchasing or re‑selling rights or options in respect of securities; and
+                     (b)  creating, selling, purchasing or re-selling rights or options in respect of securities; and
 
                      (c)  entering into agreements or other arrangements relating to securities.
 
@@ -3423,7 +3380,7 @@ Note:          The meaning of **_raise money otherwise than by
 
                      (a)  does a thing mentioned in the table in subclause (2); and
 
-                     (b)  does not do that thing in relation to a transaction that is in the ordinary course of its day‑to‑day operations.
+                     (b)  does not do that thing in relation to a transaction that is in the ordinary course of its day-to-day operations.
 
              (2)  By doing that thing, the industry services body is taken, for the purposes of this Part and subclause 94(2), to raise the relevant amount of money mentioned in the following table, otherwise than by borrowing:
 
@@ -3518,13 +3475,13 @@ Note:          The meaning of **_raise money otherwise than by
 
                       (f)  money paid to the industry services body under subsection 56(3) of the _Farm Household Support Act 1992_ (which deals with the recovery of overpaid dairy exit payments);
 
-                    (fa)  money paid to the industry services body under subsection 56(2A) of the _Farm Household Support Act 1992_(which deals with the recovery of overpaid dairy‑type grants);
+                    (fa)  money paid to the industry services body under subsection 56(2A) of the _Farm Household Support Act 1992_(which deals with the recovery of overpaid dairy-type grants);
 
                      (g)  money received by the industry services body as interest or profits from the investment of money standing to the credit of the Dairy Structural Adjustment Fund;
 
                      (h)  money borrowed or otherwise raised by the industry services body for the purpose of making payments for which money of the Dairy Structural Adjustment Fund may be expended;
 
-                   (ha)  money received by the industry services body in respect of contracts entered into or dealt with by it under clause 77CB;
+                    (ha)  money received by the industry services body in respect of contracts entered into or dealt with by it under clause 77CB;
 
                       (i)  money paid to the industry services body for the purposes of the Dairy Structural Adjustment Fund.
 
@@ -3538,7 +3495,7 @@ Note:          The meaning of **_raise money otherwise than by
 
                      (b)  in making dairy exit payments; and
 
-                   (ba)  in making dairy‑type grants; and
+                    (ba)  in making dairy-type grants; and
 
                      (c)  in reimbursing or meeting the expenses of the Commonwealth or the industry services body incurred (whether before or after the commencement of this clause) in relation to the development and implementation of the measures that from time to time form part of the Dairy Industry Adjustment Package; and
 
@@ -3560,7 +3517,7 @@ Note:          The meaning of **_raise money otherwise than by
 
                              (ii)  the performance of the functions, or the exercise of the powers, of the DAA; and
 
-                    (ia)  in meeting the expenses incurred by the Commonwealth in relation to the termination of the program known as the Dairy Industry Adjustment Program; and
+                     (ia)  in meeting the expenses incurred by the Commonwealth in relation to the termination of the program known as the Dairy Industry Adjustment Program; and
 
                       (j)  in meeting the expenses incurred by the Commonwealth in relation to:
 
@@ -3568,7 +3525,7 @@ Note:          The meaning of **_raise money otherwise than by
 
                              (ii)  the administration of the provisions of the _Farm Household Support Act 1992_ in so far as those provisions relate to the DEP scheme; and
 
-                    (ja)  in meeting the expenses incurred by the Commonwealth in relation to the administration of dairy‑type grants; and
+                     (ja)  in meeting the expenses incurred by the Commonwealth in relation to the administration of dairy-type grants; and
 
                       (l)  in meeting the expenses of the industry services body incurred in administering the Dairy Structural Adjustment Fund; and
 
@@ -3576,11 +3533,11 @@ Note:          The meaning of **_raise money otherwise than by
 
                      (n)  in meeting the expenses of the industry services body incurred in borrowing or otherwise raising money for the purpose of making payments for which money of the Dairy Structural Adjustment Fund may be expended; and
 
-                   (na)  in meeting the obligations and liabilities of the industry services body in respect of contracts entered into or dealt with by it under clause 77CB; and
+                    (na)  in meeting the obligations and liabilities of the industry services body in respect of contracts entered into or dealt with by it under clause 77CB; and
 
-                   (nb)  in meeting the expenses of the industry services body incurred in respect of contracts entered into or dealt with by it under clause 77CB; and
+                    (nb)  in meeting the expenses of the industry services body incurred in respect of contracts entered into or dealt with by it under clause 77CB; and
 
-                   (nc)  in payment of amounts relating to the indemnity mentioned in clause 86A; and
+                    (nc)  in payment of amounts relating to the indemnity mentioned in clause 86A; and
 
                      (o)  in reimbursing the Commonwealth for amounts that are refunded under clause 124 (which deals with dairy adjustment levy); and
 
@@ -3606,7 +3563,7 @@ be kept by the industry services body in an account or accounts with an Australi
 
                     <a name="australian-adi"></a>**_Australian ADI_** means:
 
-                     (a)  an ADI (authorised deposit‑taking institution) within the meaning of the _Banking Act 1959_; or
+                     (a)  an ADI (authorised deposit-taking institution) within the meaning of the _Banking Act 1959_; or
 
                     (aa)  the Reserve Bank of Australia; or
 
@@ -3614,7 +3571,7 @@ be kept by the industry services body in an account or accounts with an Australi
 
 ##### <a id="79B"></a>79B  Money in Dairy Structural Adjustment Fund may be invested
 
-                   Money in the Dairy Structural Adjustment Fund that is not immediately required for the purposes of this Part may be invested in any way in which trustees are for the time being authorised by a law in force in a State or Territory to invest trust funds.
+                   Money in the Dairy Structural Adjustment Fund that is not immediately required for the purposes of this Part may be invested in any way in which trustees are for the time being authorised by a law in force in a State or Territory to invest trust funds.
 
 ##### <a id="79C"></a>79C  Report to Minister
 
@@ -3626,7 +3583,7 @@ be kept by the industry services body in an account or accounts with an Australi
 
                    The industry services body and the Minister must take all reasonable steps to ensure that there is sufficient money in the Dairy Structural Adjustment Fund to:
 
-                     (a)  make DSAP payments, SDA payments, dairy exit payments and dairy‑type grants as they fall due; and
+                     (a)  make DSAP payments, SDA payments, dairy exit payments and dairy-type grants as they fall due; and
 
                      (b)  meet any other calls on that Fund as those calls fall due.
 
@@ -3718,7 +3675,7 @@ out in those Acts.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      Levy may be collected by
 
-collection agents and collection sub‑agents.</li>
+collection agents and collection sub-agents.</li>
 
 * * *
 
@@ -3732,7 +3689,7 @@ collection agents and collection sub‑agents.</li>
 
                     <a name="collect-agent"></a>**_collection agent_** means a person who, under clause 97, is an agent of the Commonwealth for the purposes of the collection of levy.
 
-                    <a name="collect-sub-agent"></a>**_collection sub‑agent_** means a person who, under clause 98 or 99, is a sub‑agent of the Commonwealth for the purposes of the collection of levy.
+                    <a name="collect-sub-agent"></a>**_collection sub-agent_** means a person who, under clause 98 or 99, is a sub-agent of the Commonwealth for the purposes of the collection of levy.
 
                     <a name="dairi-product"></a>**_dairy product_** means:
 
@@ -3740,7 +3697,7 @@ collection agents and collection sub‑agents.</li>
 
                      (b)  any other product made from, or containing, milk or a constituent part of milk.
 
-                    <a name="design-small-levi-payer"></a>**_designated small levy‑payer_** has the meaning given by clause 123.
+                    <a name="design-small-levi-payer"></a>**_designated small levy-payer_** has the meaning given by clause 123.
 
                     <a name="design-small-remitt"></a>**_designated small remitter_** has the meaning given by clause 122.
 
@@ -3866,7 +3823,7 @@ but does not include:
 
                      (b)  making dairy exit payments;
 
-                   (ba)  making dairy‑type grants;
+                    (ba)  making dairy-type grants;
 
                      (c)  repaying money borrowed or otherwise raised for the purpose of making payments for which money in the Dairy Structural Adjustment Fund may be expanded;
 
@@ -3900,17 +3857,17 @@ but does not include:
 
              (2)  Levy payable by a person under paragraph 89(1)(b) on the retail sale of a leviable milk product is due and payable on:
 
-                     (a)  if the person is a designated small levy‑payer in relation to the financial year in which the retail sale occurred—the 28th day after the end of the financial year; or
+                     (a)  if the person is a designated small levy-payer in relation to the financial year in which the retail sale occurred—the 28th day after the end of the financial year; or
 
                      (b)  in any other case—the 28th day after the end of the month in which the retail sale occurred.
 
              (3)  Levy payable by a person under paragraph 89(1)(d) on the relevant application to the person’s own use of a leviable milk product is due and payable on:
 
-                     (a)  if the person is a designated small levy‑payer in relation to the financial year in which the relevant application occurred—the 28th day after the end of the financial year; or
+                     (a)  if the person is a designated small levy-payer in relation to the financial year in which the relevant application occurred—the 28th day after the end of the financial year; or
 
                      (b)  in any other case—the 28th day after the end of the month in which the relevant application occurred.
 
-### Division 4—Collection agents, collection sub‑agents and collecting organisations
+### Division 4—Collection agents, collection sub-agents and collecting organisations
 
 ##### <a id="97"></a>97  Collection agents 
 
@@ -3960,15 +3917,15 @@ Information about levy
 
                      (a)  the person is subject to a requirement to inform another person under subclause (6); and
 
-                     (b)  the first‑mentioned person engages in conduct; and
+                     (b)  the first-mentioned person engages in conduct; and
 
-                     (c)  the first‑mentioned person’s conduct contravenes the requirement.
+                     (c)  the first-mentioned person’s conduct contravenes the requirement.
 
-                    Penalty for contravention of this subclause:         50 penalty units.
+                    Penalty for contravention of this subclause:  50 penalty units.
 
 Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
 
-##### <a id="98"></a>98  Collection sub‑agents—simple supply chain
+##### <a id="98"></a>98  Collection sub-agents—simple supply chain
 
              (1)  This clause applies to levy if:
 
@@ -3984,15 +3941,15 @@ Payment of levy by the purchaser
 
              (2)  For better securing the payment of the levy:
 
-                     (a)  the interposed person is, by force of this clause, the sub‑agent of the Commonwealth for the purposes of the collection of the levy; and
+                     (a)  the interposed person is, by force of this clause, the sub-agent of the Commonwealth for the purposes of the collection of the levy; and
 
-                     (b)  payment of the levy is to be made to the collection sub‑agent on behalf of the Commonwealth at or before the time when the levy becomes due to be paid.
+                     (b)  payment of the levy is to be made to the collection sub-agent on behalf of the Commonwealth at or before the time when the levy becomes due to be paid.
 
              (3)  If the purchaser pays an amount of levy under paragraph (2)(b), the purchaser is, to the extent of the amount so paid, discharged from liability to pay the levy to the Commonwealth.
 
-Remission of levy by sub‑agent and agent
+Remission of levy by sub-agent and agent
 
-             (4)  If the collection sub‑agent receives an amount of levy under paragraph (2)(b), the sub‑agent must remit the levy to the collection agent by such time as is ascertained in accordance with the regulations.
+             (4)  If the collection sub-agent receives an amount of levy under paragraph (2)(b), the sub-agent must remit the levy to the collection agent by such time as is ascertained in accordance with the regulations.
 
              (5)  If the collection agent receives an amount of levy under subclause (4) during a particular month, the agent must remit the levy to the Commonwealth within:
 
@@ -4014,13 +3971,13 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 Information about levy
 
-             (7)  The collection agent must, before the levy becomes due to be paid, inform the collection sub‑agent, either on the invoice for the product or in some other way:
+             (7)  The collection agent must, before the levy becomes due to be paid, inform the collection sub-agent, either on the invoice for the product or in some other way:
 
                      (a)  that levy is payable on the sale of the product to the purchaser; and
 
                      (b)  of the amount of levy payable.
 
-             (8)  The collection sub‑agent must, before the levy becomes due to be paid, inform the purchaser, either on the invoice for the product or in some other way:
+             (8)  The collection sub-agent must, before the levy becomes due to be paid, inform the purchaser, either on the invoice for the product or in some other way:
 
                      (a)  that levy is payable on the sale of the product to the purchaser; and
 
@@ -4030,15 +3987,15 @@ Information about levy
 
                      (a)  the person is subject to a requirement to inform another person under subclause (7) or (8); and
 
-                     (b)  the first‑mentioned person engages in conduct; and
+                     (b)  the first-mentioned person engages in conduct; and
 
-                     (c)  the first‑mentioned person’s conduct contravenes the requirement.
+                     (c)  the first-mentioned person’s conduct contravenes the requirement.
 
-                    Penalty for contravention of this subclause:         50 penalty units.
+                    Penalty for contravention of this subclause:  50 penalty units.
 
 Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
 
-##### <a id="99"></a>99  Collection sub‑agents—complex supply chain
+##### <a id="99"></a>99  Collection sub-agents—complex supply chain
 
              (1)  This clause applies to levy if:
 
@@ -4056,25 +4013,25 @@ Supply chain
 
                      (b)  the person who sold the product to the purchaser being ranked lowest.
 
-Note:          For example, if the collection agent (A) sells the product to a wholesaler (W) and W sells the product to a distributor (D), who in turn sells the product to the purchaser, then W is the highest‑ranking interposed person and D is the lowest‑ranking interposed person.
+Note:          For example, if the collection agent (A) sells the product to a wholesaler (W) and W sells the product to a distributor (D), who in turn sells the product to the purchaser, then W is the highest-ranking interposed person and D is the lowest-ranking interposed person.
 
 Payment of levy by the purchaser
 
              (3)  For better securing the payment of the levy:
 
-                     (a)  each interposed person is, by force of this clause, a sub‑agent of the Commonwealth for the purposes of the collection of the levy; and
+                     (a)  each interposed person is, by force of this clause, a sub-agent of the Commonwealth for the purposes of the collection of the levy; and
 
-                     (b)  payment of the levy is to be made to the lowest‑ranking collection sub‑agent on behalf of the Commonwealth at or before the time when the levy becomes due to be paid.
+                     (b)  payment of the levy is to be made to the lowest-ranking collection sub-agent on behalf of the Commonwealth at or before the time when the levy becomes due to be paid.
 
              (4)  If the purchaser pays an amount of levy under paragraph (3)(b), the purchaser is, to the extent of the amount so paid, discharged from liability to pay the levy to the Commonwealth.
 
-Remission of levy by sub‑agent and agent
+Remission of levy by sub-agent and agent
 
-             (5)  If the lowest‑ranking collection sub‑agent receives an amount of levy under paragraph (3)(b), the sub‑agent must remit the levy to the next highest ranking sub‑agent in the supply chain by such time as is ascertained in accordance with the regulations.
+             (5)  If the lowest-ranking collection sub-agent receives an amount of levy under paragraph (3)(b), the sub-agent must remit the levy to the next highest ranking sub-agent in the supply chain by such time as is ascertained in accordance with the regulations.
 
-             (6)  If a collection sub‑agent (other than the highest‑ranking sub‑agent) receives an amount of levy under subclause (5) or this subclause, the sub‑agent must remit the levy to the next highest ranking sub‑agent in the supply chain by such time as is ascertained in accordance with the regulations.
+             (6)  If a collection sub-agent (other than the highest-ranking sub-agent) receives an amount of levy under subclause (5) or this subclause, the sub-agent must remit the levy to the next highest ranking sub-agent in the supply chain by such time as is ascertained in accordance with the regulations.
 
-             (7)  If the highest‑ranking collection sub‑agent receives an amount of levy under subclause (5) or (6), the sub‑agent must remit the levy to the collection agent by such time as is ascertained in accordance with the regulations.
+             (7)  If the highest-ranking collection sub-agent receives an amount of levy under subclause (5) or (6), the sub-agent must remit the levy to the collection agent by such time as is ascertained in accordance with the regulations.
 
              (8)  If the collection agent receives an amount of levy under subclause (7) during a particular month, the agent must remit the levy to the Commonwealth within:
 
@@ -4096,19 +4053,19 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 Information about levy
 
-           (10)  The collection agent must, before the levy becomes due to be paid, inform the highest‑ranking collection sub‑agent, either on the invoice for the product or in some other way:
+           (10)  The collection agent must, before the levy becomes due to be paid, inform the highest-ranking collection sub-agent, either on the invoice for the product or in some other way:
 
                      (a)  that levy is payable on the sale of the product to the purchaser; and
 
                      (b)  of the amount of levy payable.
 
-           (11)  A collection sub‑agent (other than the lowest‑ranking sub‑agent) must, before the levy becomes due to be paid, inform the next lowest‑ranking collection sub‑agent, either on the invoice for the product or in some other way:
+           (11)  A collection sub-agent (other than the lowest-ranking sub-agent) must, before the levy becomes due to be paid, inform the next lowest-ranking collection sub-agent, either on the invoice for the product or in some other way:
 
                      (a)  that levy is payable on the sale of the product to the purchaser; and
 
                      (b)  of the amount of levy payable.
 
-           (12)  The lowest‑ranking collection sub‑agent must, before the levy becomes due to be paid, inform the purchaser, either on the invoice for the product or in some other way:
+           (12)  The lowest-ranking collection sub-agent must, before the levy becomes due to be paid, inform the purchaser, either on the invoice for the product or in some other way:
 
                      (a)  that levy is payable on the sale of the product to the purchaser; and
 
@@ -4118,23 +4075,23 @@ Information about levy
 
                      (a)  the person is subject to a requirement to inform another person under subclause (10), (11) or (12); and
 
-                     (b)  the first‑mentioned person engages in conduct; and
+                     (b)  the first-mentioned person engages in conduct; and
 
-                     (c)  the first‑mentioned person’s conduct contravenes the requirement.
+                     (c)  the first-mentioned person’s conduct contravenes the requirement.
 
-                    Penalty for contravention of this subclause:         50 penalty units.
+                    Penalty for contravention of this subclause:  50 penalty units.
 
 Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
 
-##### <a id="100"></a>100  Collection agents and collection sub‑agents to notify unpaid levy
+##### <a id="100"></a>100  Collection agents and collection sub-agents to notify unpaid levy
 
              (1)  If:
 
-                     (a)  an amount of levy is required to be paid to a collection agent or a collection sub‑agent under paragraph 97(2)(b), 98(2)(b) or 99(3)(b) at or before a particular time in a particular month; and
+                     (a)  an amount of levy is required to be paid to a collection agent or a collection sub-agent under paragraph 97(2)(b), 98(2)(b) or 99(3)(b) at or before a particular time in a particular month; and
 
                      (b)  the levy is not paid at or before that time;
 
-the collection agent or collection sub‑agent must, within 28 days after the end of the month, give an authorised person a notice about the unpaid levy. 
+the collection agent or collection sub-agent must, within 28 days after the end of the month, give an authorised person a notice about the unpaid levy. 
 
              (2)  A notice under subclause (1) must set out such information as is specified in the regulations.
 
@@ -4142,23 +4099,23 @@ the collection agent or collection sub‑agent must, within 28 days after the en
 
                      (a)  the person is subject to a requirement to give an authorised person a notice under subclause (1); and
 
-                     (b)  the first‑mentioned person engages in conduct; and
+                     (b)  the first-mentioned person engages in conduct; and
 
-                     (c)  the first‑mentioned person’s conduct contravenes the requirement.
+                     (c)  the first-mentioned person’s conduct contravenes the requirement.
 
-                    Penalty for contravention of this subclause:         50 penalty units.
+                    Penalty for contravention of this subclause:  50 penalty units.
 
 Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
 
-##### <a id="101"></a>101  Collection agents and collection sub‑agents to notify unremitted levy
+##### <a id="101"></a>101  Collection agents and collection sub-agents to notify unremitted levy
 
              (1)  If:
 
-                     (a)  an amount of levy is required by subclause 98(4) or 99(5), (6) or (7) to be remitted to a collection agent or a collection sub‑agent by a particular time in a particular month; and
+                     (a)  an amount of levy is required by subclause 98(4) or 99(5), (6) or (7) to be remitted to a collection agent or a collection sub-agent by a particular time in a particular month; and
 
                      (b)  the levy is not remitted by that time;
 
-the collection agent or collection sub‑agent must, within 28 days after the end of the month, give an authorised person a notice about the unremitted levy. 
+the collection agent or collection sub-agent must, within 28 days after the end of the month, give an authorised person a notice about the unremitted levy. 
 
              (2)  A notice under subclause (1) must set out such information as is specified in the regulations.
 
@@ -4166,19 +4123,19 @@ the collection agent or collection sub‑agent must, within 28 days after the en
 
                      (a)  the person is subject to a requirement to give an authorised person a notice under subclause (1); and
 
-                     (b)  the first‑mentioned person engages in conduct; and
+                     (b)  the first-mentioned person engages in conduct; and
 
-                     (c)  the first‑mentioned person’s conduct contravenes the requirement.
+                     (c)  the first-mentioned person’s conduct contravenes the requirement.
 
-                    Penalty for contravention of this subclause:         50 penalty units.
+                    Penalty for contravention of this subclause:  50 penalty units.
 
 Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
 
-##### <a id="102"></a>102  Collection agents and collection sub‑agents to issue receipts for levy
+##### <a id="102"></a>102  Collection agents and collection sub-agents to issue receipts for levy
 
              (1)  If a collection agent receives an amount of levy from another person under paragraph 97(2)(b) or subclause 98(4) or 99(7), the agent must give the other person a receipt for the levy within 14 days after receiving the levy.
 
-             (2)  If a collection sub‑agent receives an amount of levy from another person under paragraph 98(2)(b) or 99(3)(b) or subclause 99(5) or (6), the sub‑agent must give the other person a receipt for the levy within 14 days after receiving the levy.
+             (2)  If a collection sub-agent receives an amount of levy from another person under paragraph 98(2)(b) or 99(3)(b) or subclause 99(5) or (6), the sub-agent must give the other person a receipt for the levy within 14 days after receiving the levy.
 
              (3)  The regulations may make provision for exemptions from subclause (1) or (2).
 
@@ -4188,9 +4145,9 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (a)  the person is subject to a requirement to give a receipt to another person under subclause (1) or (2); and
 
-                     (b)  the first‑mentioned person engages in conduct; and
+                     (b)  the first-mentioned person engages in conduct; and
 
-                     (c)  the first‑mentioned person’s conduct contravenes the requirement.
+                     (c)  the first-mentioned person’s conduct contravenes the requirement.
 
                     Penalty:  50 penalty units.
 
@@ -4250,13 +4207,13 @@ but does not include a verbal acknowledgment.
 
 ##### <a id="104"></a>104  Application of the _Financial Management and Accountability Act 1997_
 
-             (1)  The _Financial Management and Accountability Act 1997_ does not apply in relation to levy collected by a collection agent, a collection sub‑agent or a collecting organisation.
+             (1)  The _Financial Management and Accountability Act 1997_ does not apply in relation to levy collected by a collection agent, a collection sub-agent or a collecting organisation.
 
              (2)  The operation of the _Financial Management and Accountability Act 1997_ in relation to money remitted by a collection agent or a collecting organisation to the Commonwealth is not affected by subclause (1).
 
-### Division 5—Record‑keeping requirements
+### Division 5—Record-keeping requirements
 
-##### <a id="105"></a>105  Record‑keeping requirements for levy payers
+##### <a id="105"></a>105  Record-keeping requirements for levy payers
 
              (1)  If levy is payable under paragraph 89(1)(a) or (c) on the sale of a leviable milk product, the purchaser of the product must:
 
@@ -4296,11 +4253,11 @@ but does not include a verbal acknowledgment.
 
                      (c)  the person’s conduct contravenes the requirement.
 
-                    Penalty for contravention of this subclause:          30 penalty units.
+                    Penalty for contravention of this subclause:   30 penalty units.
 
 Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
 
-##### <a id="106"></a>106  Record‑keeping requirements for collection agents and collection sub‑agents
+##### <a id="106"></a>106  Record-keeping requirements for collection agents and collection sub-agents
 
              (1)  If a collection agent receives an amount of levy under paragraph 97(2)(b) or subclause 98(4) or 99(7), the agent must:
 
@@ -4308,7 +4265,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (b)  retain that record for at least 5 years after the receipt.
 
-             (2)  If a collection sub‑agent receives an amount of levy under paragraph 98(2)(b) or 99(3)(b) or subclause 99(5) or (6), the sub‑agent must:
+             (2)  If a collection sub-agent receives an amount of levy under paragraph 98(2)(b) or 99(3)(b) or subclause 99(5) or (6), the sub-agent must:
 
                      (a)  keep a record of the receipt; and
 
@@ -4318,7 +4275,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (a)  in English, or readily accessible and easily convertible into English; and
 
-                     (b)  such as to enable the agent’s or sub‑agent’s liability to remit levy to be readily ascertained.
+                     (b)  such as to enable the agent’s or sub-agent’s liability to remit levy to be readily ascertained.
 
              (4)  However, it is not necessary for a person to retain records under this clause if:
 
@@ -4334,7 +4291,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (c)  the person’s conduct contravenes the requirement.
 
-                    Penalty for contravention of this subclause:          30 penalty units.
+                    Penalty for contravention of this subclause:   30 penalty units.
 
 Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
 
@@ -4354,9 +4311,9 @@ Late payments by levy payer
 
                              (ii)  the amount accruing during that month at the rate of 2% per month on the sum of the amount of levy then payable and penalty payable at the end of the previous month.
 
-Late remission by collection agent or collection sub‑agent
+Late remission by collection agent or collection sub-agent
 
-             (2)  If an amount of levy that is required by clause 97, 98 or 99 to be remitted by a collection agent or a collection sub‑agent remains unremitted after the time when it was required to be remitted, there is payable by the agent or sub‑agent to the Commonwealth, by way of penalty accruing from the time the levy was required to be remitted until it is remitted in full, an amount worked out as follows:
+             (2)  If an amount of levy that is required by clause 97, 98 or 99 to be remitted by a collection agent or a collection sub-agent remains unremitted after the time when it was required to be remitted, there is payable by the agent or sub-agent to the Commonwealth, by way of penalty accruing from the time the levy was required to be remitted until it is remitted in full, an amount worked out as follows:
 
                      (a)  during the month in which the levy was required to be remitted, the amount of penalty accrues at the rate of 2% per month on the unremitted levy;
 
@@ -4378,9 +4335,9 @@ Late remission by collection agent or collection sub‑agent
 
                      (b)  an amount of levy that is required by clause 97, 98 or 99 to be remitted to the Commonwealth by a collection agent and that remains unremitted after the time when it is required to be remitted; or
 
-                     (c)  an amount of levy that is required by clause 98 or 99 to be remitted to a collection agent by a collection sub‑agent and that remains unremitted after the time when it is required to be remitted; or
+                     (c)  an amount of levy that is required by clause 98 or 99 to be remitted to a collection agent by a collection sub-agent and that remains unremitted after the time when it is required to be remitted; or
 
-                     (d)  an amount of levy that is required by clause 99 to be remitted to a collection sub‑agent by another collection sub‑agent and that remains unremitted after the time when it is required to be remitted; or
+                     (d)  an amount of levy that is required by clause 99 to be remitted to a collection sub-agent by another collection sub-agent and that remains unremitted after the time when it is required to be remitted; or
 
                      (e)  an amount of levy that is required by an agreement under clause 103 to be remitted to the Commonwealth by a collecting organisation and that remains unremitted after the time when it is required to be remitted; or
 
@@ -4458,9 +4415,9 @@ When third party is taken to owe money
 
                      (d)  the third party has authority from some other person to pay money to the person;
 
-whether or not the payment of the money to the person is dependent on a pre‑condition that has not been fulfilled.
+whether or not the payment of the money to the person is dependent on a pre-condition that has not been fulfilled.
 
-### Division 8—Information‑gathering powers
+### Division 8—Information-gathering powers
 
 ##### <a id="112"></a>112  Power to call for returns or information
 
@@ -4496,7 +4453,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (c)  the person’s conduct contravenes a requirement in the direction.
 
-                    Penalty for contravention of this subclause:         60 penalty units.
+                    Penalty for contravention of this subclause:  60 penalty units.
 
 Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
 
@@ -4508,7 +4465,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (b)  collection agents;
 
-                     (c)  collection sub‑agents;
+                     (c)  collection sub-agents;
 
                      (d)  such other persons as are prescribed.
 
@@ -4528,11 +4485,11 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (c)  the person’s conduct contravenes a requirement in the direction.
 
-                    Penalty for contravention of this subclause:         60 penalty units.
+                    Penalty for contravention of this subclause:  60 penalty units.
 
 Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
 
-##### <a id="114"></a>114  Self‑incrimination
+##### <a id="114"></a>114  Self-incrimination
 
              (1)  An individual is not excused from submitting a return or giving information under this Division on the ground that the return or information might tend to incriminate the individual or expose the individual to a penalty.
 
@@ -4608,11 +4565,11 @@ Note:          For strict liability, see section 6.1 of the 
 
                      (a)  the person is subject to a requirement to provide reasonable assistance to an authorised person under subclause (1); and
 
-                     (b)  the first‑mentioned person engages in conduct; and
+                     (b)  the first-mentioned person engages in conduct; and
 
-                     (c)  the first‑mentioned person’s conduct contravenes the requirement.
+                     (c)  the first-mentioned person’s conduct contravenes the requirement.
 
-                    Penalty for contravention of this subclause:         30 penalty units.
+                    Penalty for contravention of this subclause:  30 penalty units.
 
 Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
 
@@ -4732,9 +4689,9 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (b)  the total of those amounts is, or is likely to be, less than $1,000.
 
-##### <a id="123"></a>123  Designated small levy‑payers
+##### <a id="123"></a>123  Designated small levy-payers
 
-             (1)  The Secretary may, by written notice given to a person, declare that the person is a **_designated small levy‑payer_** in relation to a specified financial year for the purposes of this Part.
+             (1)  The Secretary may, by written notice given to a person, declare that the person is a **_designated small levy-payer_** in relation to a specified financial year for the purposes of this Part.
 
              (2)  The declaration has effect accordingly.
 
@@ -4788,7 +4745,7 @@ Note:          Clause 112 deals with the giving of returns o
 
                              (ii)  an amount of late payment penalty; or
 
-                     (b)  the name and address of a collection agent, a collection sub‑agent or a collecting organisation; or
+                     (b)  the name and address of a collection agent, a collection sub-agent or a collecting organisation; or
 
                      (c)  information about amounts of levy received or receivable by the Commonwealth in any period (including such information relating to a particular State or region); or
 
@@ -4918,7 +4875,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 The _Dairy Produce Act 1986_ as shown in this compilation comprises Act No. 54, 1986 amended as indicated in the Tables below. 
 
-The _Dairy Produce Act 1986_ was modified by the A.C.T. Self‑Government (Consequential Provisions) Regulations (Statutory Rules 1989 No. 3 as amended).
+The _Dairy Produce Act 1986_ was modified by the A.C.T. Self-Government (Consequential Provisions) Regulations (Statutory Rules 1989 No. 3 as amended).
 
 For application, saving or transitional provisions made by the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, _see_ Act No. 55, 2001.
 
@@ -4928,11 +4885,11 @@ All relevant information pertaining to application, saving or transitional provi
 
 <table>
 <colgroup>
-  <col width="30%">
+  <col width="31%">
   <col width="16%">
-  <col width="17%">
-  <col width="21%">
-  <col width="16%">
+  <col width="18%">
+  <col width="22%">
+  <col width="14%">
 </colgroup>
 
 <thead>
@@ -5483,150 +5440,135 @@ Remainder: 24 May 2001</div>
     <div>—</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Agriculture, Fisheries and Forestry Legislation Amendment (Application of Criminal Code) Act 2001</div>
-  </td>
-  <td>
-    <div>115, 2001</div>
-  </td>
-  <td>
-    <div>18 Sept 2001</div>
-  </td>
-  <td>
-    <div>16 Oct 2001</div>
-  </td>
-  <td>
-    <div>S. 4 \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Dairy Industry Legislation Amendment Act 2002</div>
-  </td>
-  <td>
-    <div>84, 2002</div>
-  </td>
-  <td>
-    <div>10 Oct 2002</div>
-  </td>
-  <td>
-    <div>10 Oct 2002</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b> as amended by </b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 1) 2003</div>
-  </td>
-  <td>
-    <div>38, 2003</div>
-  </td>
-  <td>
-    <div>2 May 2003</div>
-  </td>
-  <td>
-    <div>Schedule 6: <i>(n)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Dairy Industry Service Reform Act 2003</div>
-  </td>
-  <td>
-    <div>32, 2003</div>
-  </td>
-  <td>
-    <div>15 Apr 2003</div>
-  </td>
-  <td>
-    <div>Schedule 1: 1 July 2003 ( <i>see Gazette</i>2003, No. S228) 
+<thead>
+  <tr>
+    <td>
+      <div>Agriculture, Fisheries and Forestry Legislation Amendment (Application of Criminal Code) Act 2001</div>
+    </td>
+    <td>
+      <div>115, 2001</div>
+    </td>
+    <td>
+      <div>18 Sept 2001</div>
+    </td>
+    <td>
+      <div>16 Oct 2001</div>
+    </td>
+    <td>
+      <div>S. 4 \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Dairy Industry Legislation Amendment Act 2002</div>
+    </td>
+    <td>
+      <div>84, 2002</div>
+    </td>
+    <td>
+      <div>10 Oct 2002</div>
+    </td>
+    <td>
+      <div>10 Oct 2002</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b> as amended by </b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 1) 2003</div>
+    </td>
+    <td>
+      <div>38, 2003</div>
+    </td>
+    <td>
+      <div>2 May 2003</div>
+    </td>
+    <td>
+      <div>Schedule 6: <i>(n)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Dairy Industry Service Reform Act 2003</div>
+    </td>
+    <td>
+      <div>32, 2003</div>
+    </td>
+    <td>
+      <div>15 Apr 2003</div>
+    </td>
+    <td>
+      <div>Schedule 1: 1 July 2003 ( <i>see Gazette</i>2003, No. S228) 
 Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 1 (items 127–129) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Dairy Produce Amendment Act 2004</div>
-  </td>
-  <td>
-    <div>32, 2004</div>
-  </td>
-  <td>
-    <div>20 Apr 2004</div>
-  </td>
-  <td>
-    <div>Schedules 2 and 3: <i>(o)</i> 
+    </td>
+    <td>
+      <div>Sch. 1 (items 127–129) \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Dairy Produce Amendment Act 2004</div>
+    </td>
+    <td>
+      <div>32, 2004</div>
+    </td>
+    <td>
+      <div>20 Apr 2004</div>
+    </td>
+    <td>
+      <div>Schedules 2 and 3: <i>(o)</i> 
 Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 3) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Dairy Adjustment Levy Termination Act 2008</div>
-  </td>
-  <td>
-    <div>123, 2008</div>
-  </td>
-  <td>
-    <div>25 Nov 2008</div>
-  </td>
-  <td>
-    <div>Schedule 1: 26 Nov 2008</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 3) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Framework Legislation Amendment Act (No. 2) 2012</div>
-  </td>
-  <td>
-    <div>82, 2012</div>
-  </td>
-  <td>
-    <div>28 June 2012</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 33–42): 29 June 2012</div>
-  </td>
-  <td>
-    <div>Sch. 1 (items 41, 42) \[ <i>see</i>Table A]</div>
-  </td>
-</tr></table>
+    </td>
+    <td>
+      <div>Sch. 1 (item 3) \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Dairy Adjustment Levy Termination Act 2008</div>
+    </td>
+    <td>
+      <div>123, 2008</div>
+    </td>
+    <td>
+      <div>25 Nov 2008</div>
+    </td>
+    <td>
+      <div>Schedule 1: 26 Nov 2008</div>
+    </td>
+    <td>
+      <div>Sch. 1 (item 3) \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+</thead></table>
 
 _(a)_     The _Dairy Produce Act 1986_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1986_, subsection 2(4) of which provides as follows:
 
                  (4)   The amendment of paragraph 36(3)(d) of the _Dairy Produce Act 1986_ made by this Act shall be deemed to have come into operation on 1 July 1986.
 
-_(b)_     The _Dairy Produce Act 1986_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act 1987_, subsection 2(1) of which provides as follows:
+_(b)_    The _Dairy Produce Act 1986_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act 1987_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
 
@@ -5926,14 +5868,6 @@ _(o)_ Subsection 2(1) (item 3) of the _Dairy Produce Amendment Act 2004_ provide
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 82, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Note to s. 5(2)</div>
   </td>
   <td>
@@ -5950,34 +5884,10 @@ _(o)_ Subsection 2(1) (item 3) of the _Dairy Produce Amendment Act 2004_ provide
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 6</div>
-  </td>
-  <td>
-    <div>rs. No. 82, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 6</div>
   </td>
   <td>
     <div>rs. No. 32, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 82, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 6(6)</div>
-  </td>
-  <td>
-    <div>am. No. 82, 2012</div>
   </td>
 </tr>
 <tr>
@@ -6640,7 +6550,7 @@ _(o)_ Subsection 2(1) (item 3) of the _Dairy Produce Amendment Act 2004_ provide
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 2 of Part VI</div>
+    <div>Heading to Div. 2 of Part VI.</div>
   </td>
   <td>
     <div>rep. No. 26, 1991</div>
@@ -7619,7 +7529,7 @@ _(o)_ Subsection 2(1) (item 3) of the _Dairy Produce Amendment Act 2004_ provide
     <div>S. 119</div>
   </td>
   <td>
-    <div>am. No. 16, 1993; Nos. 22 and 94, 2000; No. 115, 2001; No. 84, 2002 (as am. by No. 38, 2003); No. 32, 2003</div>
+    <div>am. No. 16, 1993; Nos. 22 and 94, 2000; No. 115, 2001; No. 84, 2002; No. 32, 2003</div>
   </td>
 </tr>
 <tr>
@@ -9105,7 +9015,7 @@ _Dairy Industry Adjustment Act 2000 (No. 22, 2000)_
 
 ## 18  Transitional—membership of the DAA
 
-(1)       This item applies to the committee known as the Dairy Adjustment Panel that:
+(1)        This item applies to the committee known as the Dairy Adjustment Panel that:
 
                      (a)  was established under the executive power of the Commonwealth; and
 
@@ -9141,7 +9051,7 @@ where:
 
                              (ii)  public administration.
 
-(2)       The _Dairy Produce Act 1986_ has effect as if:
+(2)        The _Dairy Produce Act 1986_ has effect as if:
 
                      (a)  the Minister had, by instrument (the **_notional instrument of appointment_**), appointed the Chair of the Dairy Adjustment Panel to be the Chair of the Dairy Adjustment Authority immediately after the commencement of this item; and
 
@@ -9151,7 +9061,7 @@ where:
 
                              (ii)  ending at the end of the period specified in the Chair’s instrument of appointment to the Dairy Adjustment Panel.
 
-(3)       The _Dairy Produce Act 1986_ has effect as if:
+(3)        The _Dairy Produce Act 1986_ has effect as if:
 
                      (a)  the Minister had, by instrument (the **_notional instrument of appointment_**), appointed each industry member of the Dairy Adjustment Panel to be an industry member of the Dairy Adjustment Authority immediately after the commencement of this item; and
 
@@ -9161,7 +9071,7 @@ where:
 
                              (ii)  ending at the end of the period specified in the member’s instrument of appointment to the Dairy Adjustment Panel.
 
-(4)       The _Dairy Produce Act 1986_ has effect as if:
+(4)        The _Dairy Produce Act 1986_ has effect as if:
 
                      (a)  the Minister had, by instrument (the **_notional instrument of appointment_**), appointed the government member of the Dairy Adjustment Panel to be the government member of the Dairy Adjustment Authority immediately after the commencement of this item; and
 
@@ -9171,7 +9081,7 @@ where:
 
                              (ii)  ending at the end of the period specified in the member’s instrument of appointment to the Dairy Adjustment Panel.
 
-(5)       The _Dairy Produce Act 1986_ has effect as if:
+(5)        The _Dairy Produce Act 1986_ has effect as if:
 
                      (a)  the Minister had, by instrument (the **_notional instrument of appointment_**), appointed the member of the Dairy Adjustment Panel mentioned in subparagraph (1)(c)(iv) of this item to be the member of the Dairy Adjustment Authority mentioned in paragraph 58(1)(d) of Schedule 2 to the _Dairy Produce Act 1986_, and had done so immediately after the commencement of this item; and
 
@@ -9187,9 +9097,9 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 ## Schedule 2
 
-## 418  Transitional—pre‑commencement offences
+## 418  Transitional—pre-commencement offences
 
-(1)       Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
+(1)        Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
 
                      (a)  an offence committed before the commencement of this item; or
 
@@ -9199,9 +9109,9 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 as if the amendment or repeal had not been made.
 
-(2)       Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
+(2)        Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
 
-## 419  Transitional—pre‑commencement notices
+## 419  Transitional—pre-commencement notices
 
 If:
 
@@ -9209,9 +9119,9 @@ If:
 
                      (b)  any or all of those other provisions are repealed by this Schedule; and
 
-                     (c)  the first‑mentioned provision is amended by this Schedule;
+                     (c)  the first-mentioned provision is amended by this Schedule;
 
-the amendment of the first‑mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
+the amendment of the first-mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
 
 * * *
 
@@ -9239,11 +9149,11 @@ Section 119 of the _Dairy Produce Act 1986_ as in force before the commencemen
 
 ## 129  Final annual reports
 
-(1)       For the final reporting period, the directors of Dairy Australia Limited must, in relation to the Australian Dairy Corporation and the Dairy Research and Development Corporation, prepare the report referred to in section 9 of the _Commonwealth Authorities and Companies Act 1997_. The report may include such other matters as the directors consider appropriate.
+(1)        For the final reporting period, the directors of Dairy Australia Limited must, in relation to the Australian Dairy Corporation and the Dairy Research and Development Corporation, prepare the report referred to in section 9 of the _Commonwealth Authorities and Companies Act 1997_. The report may include such other matters as the directors consider appropriate.
 
-(2)       For the purposes of this item, the final reporting period is to be treated as a financial year.
+(2)        For the purposes of this item, the final reporting period is to be treated as a financial year.
 
-(3)       In this item:
+(3)        In this item:
 
 **_final reporting period_** means the period that:
 
@@ -9269,7 +9179,7 @@ _Dairy Adjustment Levy Termination Act 2008 (No. 123, 2008)_
 
 ## 3  Applying provisions referring to the Dairy Adjustment Authority after it ceases to exist
 
-(1)       This item applies to a reference to the Dairy Adjustment Authority, to the extent that the reference concerns a power or function of that body, in any of the following:
+(1)        This item applies to a reference to the Dairy Adjustment Authority, to the extent that the reference concerns a power or function of that body, in any of the following:
 
                      (a)  a provision of Schedule 2 to the _Dairy Produce Act 1986_ or a regulation made for the purposes of that Schedule;
 
@@ -9277,9 +9187,9 @@ _Dairy Adjustment Levy Termination Act 2008 (No. 123, 2008)_
 
                      (c)  a provision of another Act (other than this Act) or a regulation made for the purposes of another Act.
 
-(2)       If, because of subclause 55(3) of Schedule 2 to the _Dairy Produce Act 1986_, the Dairy Adjustment Authority has ceased to exist after a specified day, then, for the purposes of the provision referred to in subitem (1) after that day, the reference is taken to be a reference to a function or power performed or exercised by the Secretary of the Department.
+(2)        If, because of subclause 55(3) of Schedule 2 to the _Dairy Produce Act 1986_, the Dairy Adjustment Authority has ceased to exist after a specified day, then, for the purposes of the provision referred to in subitem (1) after that day, the reference is taken to be a reference to a function or power performed or exercised by the Secretary of the Department.
 
-(3)       To avoid doubt, if, because of subclause 55(3) of Schedule 2 to the _Dairy Produce Act 1986_, the Dairy Adjustment Authority has ceased to exist after a specified day:
+(3)        To avoid doubt, if, because of subclause 55(3) of Schedule 2 to the _Dairy Produce Act 1986_, the Dairy Adjustment Authority has ceased to exist after a specified day:
 
                      (a)  a reference in subclause 73(1) of Schedule 2 to the _Dairy Produce Act 1986_ to the DAA’s functions and powers; or
 
@@ -9287,30 +9197,6 @@ _Dairy Adjustment Levy Termination Act 2008 (No. 123, 2008)_
 
 is taken, after that day, to be a reference to the functions and the powers, or the functions or the powers, of the Secretary of the Department to the extent that the Dairy Adjustment Authority was, before that day, capable of performing or exercising the power or function.
 
-* * *
-
-_Financial Framework Legislation Amendment Act (No. 2) 2012 (No. 82, 2012)_
-
-## Schedule 1
-
-## 41  Application—section 6 of the _Dairy Produce Act 1986_
-
-(1)       Despite the amendments of the _Dairy Produce Act 1986_ by this Schedule, section 6 of that Act continues to apply, after the commencement of this item, in relation to matching payments made to the eligible body during:
-
-                     (a)  the financial year in which this item commences; or
-
-                     (b)  an earlier financial year;
-
-as if those amendments had not been made.
-
-(2)       Subsection 6(4) of the _Dairy Produce Act 1986_ as amended by this Schedule applies in relation to matching payments made to the eligible body during:
-
-                     (a)  the financial year next following the financial year in which this item commences; or
-
-                     (b)  a later financial year.
-
-## 42  Transitional—determinations made under section 6 of the _Dairy Produce Act 1986_
-
-Subsection 6(4A) of the _Dairy Produce Act 1986_ as amended by this Schedule has effect as if a determination under repealed subsection 6(4) of the _Dairy Produce Act 1986_ had been made under subsection 6(4) of that Act as amended by this Schedule.
+ 
 
  
