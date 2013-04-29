@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00324/Html/9d20d596-b97e-4061-ada0-6f18c0fc44f2_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00938/Html/7733cdce-20a5-4b2e-91b7-6d5550cd5cd1_files/image001.gif)
 
 # Petroleum Resource Rent Tax Assessment Act 1987
 
 **Act No. 142 of 1987 as amended**
 
-This compilation was prepared on 22 March 2012
+This compilation was prepared on 7 December 2011
  taking into account amendments up to Act No. 136 of 2011
 
 The text of any of those amendments not in force 
@@ -968,7 +968,7 @@ there is taken not to be a designated company group of which:
 
                      (b)  if the current apportionment percentage changed during the year of tax—means the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00324/Html/9d20d596-b97e-4061-ada0-6f18c0fc44f2_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00938/Html/7733cdce-20a5-4b2e-91b7-6d5550cd5cd1_files/image002.gif)
 
                             where:
 
@@ -994,7 +994,7 @@ there is taken not to be a designated company group of which:
 
              (2)  The amount of the person’s future closing‑down expenditure is worked out as follows:
 
-![](http://www.comlaw.gov.au/Details/C2012C00324/Html/9d20d596-b97e-4061-ada0-6f18c0fc44f2_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00938/Html/7733cdce-20a5-4b2e-91b7-6d5550cd5cd1_files/image003.gif)
 
 where:
 
@@ -1014,13 +1014,13 @@ to be liable to make in carrying on operations involved in closing down the lice
 
              (4)  In subsection (2):
 
-                    <a name="year"></a>**_year_** means a period of 12 months.
+                    <a name="year"></a>**_year_** means a period of 12 calendar months.
 
 Example:    On the termination of a petroleum project and the coming into force of an infrastructure licence, a person has future closing‑down costs of $1 million. The licensed property is expected to be used as permitted by the infrastructure licence for 10 years, and the bond rate in relation to the financial year in question is 5%.
 
                    The amount of the person’s future closing‑down expenditure is:
 
-![](http://www.comlaw.gov.au/Details/C2012C00324/Html/9d20d596-b97e-4061-ada0-6f18c0fc44f2_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00938/Html/7733cdce-20a5-4b2e-91b7-6d5550cd5cd1_files/image004.gif)
 
 ##### <a id="2E"></a>2E  _Marketable petroleum commodity_
 
@@ -1146,7 +1146,7 @@ Post‑30 June 2008 petroleum project
 
 then, for the purposes of the application of this Act to the petroleum project mentioned in paragraph (a) of this subsection, the amount of the exploration expenditure mentioned in paragraph (d) of this subsection is taken to be the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00324/Html/9d20d596-b97e-4061-ada0-6f18c0fc44f2_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00938/Html/7733cdce-20a5-4b2e-91b7-6d5550cd5cd1_files/image005.gif)
 
 where:
 
@@ -1482,7 +1482,7 @@ Allowing for Greater Sunrise apportionments
 
              (2)  However, if the petroleum project is a Greater Sunrise project, the person is taken for the purposes of this Act to have a taxable profit in relation to the project and the year of tax of an amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00324/Html/9d20d596-b97e-4061-ada0-6f18c0fc44f2_files/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00938/Html/7733cdce-20a5-4b2e-91b7-6d5550cd5cd1_files/image006.gif)
 
 where:
 
@@ -1746,7 +1746,7 @@ in relation to that expenditure or liability.
 
                      (c)  where the financial year is the year in which the project combination certificate in relation to the project came into force—any amount of class 1 general project expenditure, or any amount that is taken by subsection (3) or Division 5 to be class 1 augmented bond rate general expenditure, incurred by the person in relation to the pre‑combination projects in relation to the project in the financial year.
 
-             (3)  For the purposes of subsection (1) or (2), where the class 1 augmented bond rate general expenditure incurred by a person in a financial year in relation to a petroleum project exceeds the assessable receipts derived by the person in the financial year in relation to the project, an amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2012C00324/Html/9d20d596-b97e-4061-ada0-6f18c0fc44f2_files/image007.gif), where:
+             (3)  For the purposes of subsection (1) or (2), where the class 1 augmented bond rate general expenditure incurred by a person in a financial year in relation to a petroleum project exceeds the assessable receipts derived by the person in the financial year in relation to the project, an amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2011C00938/Html/7733cdce-20a5-4b2e-91b7-6d5550cd5cd1_files/image007.gif), where:
 
                     <a name=""></a>**_A_** is the amount of the excess; and
 
@@ -1774,7 +1774,7 @@ shall be taken to be class 1 augmented bond rate general expenditure incurred by
 
                      (c)  where the financial year is the year in which the project combination certificate in relation to the project came into force—any amount of class 1 exploration expenditure, or any amount that is taken by subsection (3), paragraph 36 (1) (b) or Division 5 to be class 1 augmented bond rate exploration expenditure, incurred by the person in relation to the pre‑combination projects in relation to the project in the financial year.
 
-             (3)  For the purposes of subsection (1) or (2), where the sum of the class 1 augmented bond rate general expenditure and the class 1 augmented bond rate exploration expenditure incurred by a person in a financial year in relation to a petroleum project exceeds the assessable receipts derived by the person in the financial year in relation to the project, an amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2012C00324/Html/9d20d596-b97e-4061-ada0-6f18c0fc44f2_files/image008.gif), where:
+             (3)  For the purposes of subsection (1) or (2), where the sum of the class 1 augmented bond rate general expenditure and the class 1 augmented bond rate exploration expenditure incurred by a person in a financial year in relation to a petroleum project exceeds the assessable receipts derived by the person in the financial year in relation to the project, an amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2011C00938/Html/7733cdce-20a5-4b2e-91b7-6d5550cd5cd1_files/image008.gif), where:
 
                     <a name=""></a>**_A_**is so much of the excess as does not exceed the amount of the class 1 augmented bond rate exploration expenditure; and
 
@@ -1818,7 +1818,7 @@ shall be taken to be class 1 augmented bond rate exploration expenditure incurre
 
 incurred by a person in a financial year (in this subsection called the **_assessable year_**) in relation to a petroleum project exceeds the assessable receipts derived by the person in the assessable year in relation to the project, the person is taken to incur, in relation to the project and on the first day of the next financial year, an amount of class 2 augmented bond rate general expenditure worked out in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00324/Html/9d20d596-b97e-4061-ada0-6f18c0fc44f2_files/image009.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00938/Html/7733cdce-20a5-4b2e-91b7-6d5550cd5cd1_files/image009.gif)
 
 where:
 
@@ -1976,7 +1976,7 @@ Note:          An amount of exploration expenditure incurred i
 
              (5)  The Resources Minister may, by signed instrument, delegate his or her power under subsection (1) to an SES employee or an acting SES employee in the Resources Department.
 
-Note:          The expressions **_SES employee_** and **_acting SES employee_** are defined in section 2B of the _Acts Interpretation Act 1901_.
+Note:          The expressions **_SES employee_** and **_acting SES employee_** are defined in section 17AA of the _Acts Interpretation Act 1901_.
 
              (6)  In this section:
 
@@ -1986,7 +1986,7 @@ Note:          The expressions **_SES employee_** and **_actin
 
                    For the purposes of this Act, the amount of **_uplifted frontier expenditure_** that a person is taken to have incurred in a financial year in relation to a petroleum project is worked out as follows:
 
-![](http://www.comlaw.gov.au/Details/C2012C00324/Html/9d20d596-b97e-4061-ada0-6f18c0fc44f2_files/image010.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00938/Html/7733cdce-20a5-4b2e-91b7-6d5550cd5cd1_files/image010.gif)
 
 ##### <a id="37"></a>37  Exploration expenditure
 
@@ -2374,7 +2374,7 @@ Greater Sunrise closing‑down credits
 
              (2)  However, for the purposes of the operation of paragraph (1)(a) in relation to a Greater Sunrise project, the amount that is so much of the excess as does not exceed the amount of the closing‑down expenditure is taken to be the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00324/Html/9d20d596-b97e-4061-ada0-6f18c0fc44f2_files/image011.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00938/Html/7733cdce-20a5-4b2e-91b7-6d5550cd5cd1_files/image011.gif)
 
 where:
 
@@ -2608,7 +2608,7 @@ and any such determination has effect accordingly.
 
 ##### <a id="55"></a>55  Operation of Subdivision
 
-                   Nothing in the provisions of this Act other than this Subdivision or in the _International Tax Agreements Act 1953_ shall be taken to limit the operation of this Subdivision.
+                   Nothing in the provisions of this Act other than this Subdivision or in the _International Tax Agreements Act 1953_ shall be taken to limit the operation of this Subdivision.
 
 #### Subdivision B—Non‑arm’s length transactions
 
@@ -2660,7 +2660,7 @@ then, for the purposes of the application of this Act in relation to the person 
 
 ### Division 7—Functional currency
 
-##### <a id="58A"></a>58A  Objects of this Division
+##### <a id="58A"></a>58A  Objects of this Division
 
                    The objects of this Division are:
 
@@ -3514,7 +3514,7 @@ Note:          For provisions about collection and recovery of
 
              (1)  Subject to subsection (2), the notional tax amount of a person, in relation to a petroleum project and an instalment period in a year of tax, is the amount worked out in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00324/Html/9d20d596-b97e-4061-ada0-6f18c0fc44f2_files/image012.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00938/Html/7733cdce-20a5-4b2e-91b7-6d5550cd5cd1_files/image012.gif)
 
 where:
 
@@ -3642,7 +3642,7 @@ Note:          Subdivision 388‑B in Schedule 1 to the _T
 
              (2)  The rate is:
 
-![](http://www.comlaw.gov.au/Details/C2012C00324/Html/9d20d596-b97e-4061-ada0-6f18c0fc44f2_files/image013.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00938/Html/7733cdce-20a5-4b2e-91b7-6d5550cd5cd1_files/image013.gif)
 
              (3)  In this section:
 
@@ -4232,7 +4232,7 @@ Transfers from a Greater Sunrise project
 
              (1)  If, in relation to a year of tax, transferable exploration expenditure is transferred from a Greater Sunrise project to a petroleum project other than a Greater Sunrise project, the amount of that expenditure for the purposes of the other petroleum project is taken to be the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00324/Html/9d20d596-b97e-4061-ada0-6f18c0fc44f2_files/image014.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00938/Html/7733cdce-20a5-4b2e-91b7-6d5550cd5cd1_files/image014.gif)
 
 where:
 
@@ -4244,7 +4244,7 @@ Transfers to a Greater Sunrise project
 
              (2)  If, in relation to a year of tax, transferable exploration expenditure is transferred to a Greater Sunrise project from a petroleum project other than a Greater Sunrise project, the amount of that expenditure for the purposes of the Greater Sunrise project is taken to be the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00324/Html/9d20d596-b97e-4061-ada0-6f18c0fc44f2_files/image015.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00938/Html/7733cdce-20a5-4b2e-91b7-6d5550cd5cd1_files/image015.gif)
 
 where:
 
@@ -4302,7 +4302,7 @@ In this Part, the financial year is called the **_assessable year_**.
 
                      (b)  if the ABR expenditure year is an earlier financial year—work out, in relation to the ABR expenditure year and each later financial year ending before the assessable year, an amount in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00324/Html/9d20d596-b97e-4061-ada0-6f18c0fc44f2_files/image016.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00938/Html/7733cdce-20a5-4b2e-91b7-6d5550cd5cd1_files/image016.gif)
 
                             where:
 
@@ -4322,4 +4322,4 @@ In this Part, the financial year is called the **_assessable year_**.
 
                      (a)  the person is taken to have incurred an amount of class 2 augmented bond rate exploration expenditure in the assessable year in relation to the project equal to the total of those available exploration expenditure amounts; and
 
-                     (b)  that class 2 augmented bond rate exploration expenditure is attributable to all the expenditur
+                     (b)  that class 2 augmented bond rate exploration expenditure is attributable to all the
