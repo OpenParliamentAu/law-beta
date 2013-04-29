@@ -1,9 +1,8 @@
 
 Marriage Act 1961
 Act No. 12 of 1961 as amended
-This compilation was prepared on 5 November 2002  taking into account amendments up to Act No. 77 of 2002
+This compilation was prepared on 24 May 2001  taking into account amendments up to Act No. 24 of 2001
 The text of any of those amendments not in force on that date is appended in the Notes section
-The operation of amendments that have been incorporated may be  affected by application provisions that are set out in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
   
   
@@ -15,8 +14,8 @@ Part I—Preliminary	1
 5	Interpretation	1
 5A	Application of the Criminal Code	4
 6	Act not to exclude operation of certain State and Territory laws	4
-7	Validity of certain marriages not affected	4
-8	Extension of Act to Territories etc.	4
+7	Validity of certain marriages not affected	5
+8	Extension of Act to Territories etc.	5
 9	Arrangements with State	5
 9A	Persons who may exercise certain powers may be restricted by Proclamation	6
 Part IA—Marriage education	7
@@ -30,13 +29,13 @@ Part II—Marriageable age and marriages of minors	9
 12	Authorisation of marriage of person under age of 18 years in exceptional circumstances	9
 13	Marriage of minor not to be solemnized without consent of parents etc.	10
 14	Persons whose consent is required	12
-15	Prescribed authority may dispense with consent in certain cases	13
+15	Prescribed authority may dispense with consent in certain cases	12
 16	Consent by magistrate where parent etc. refuses consent etc.	13
 17	Re‑hearing of applications by a Judge	15
-18	Provisions applicable to inquiries by Judge or magistrate	16
+18	Provisions applicable to inquiries by Judge or magistrate	15
 19	Restriction on applications under sections 12, 15 and 16	16
-20	Effect of consent of magistrate or Judge	17
-21	Consent by magistrate or Judge and dispensation with consent to be ineffective after 3 months etc.	17
+20	Effect of consent of magistrate or Judge	16
+21	Consent by magistrate or Judge and dispensation with consent to be ineffective after 3 months etc.	16
 Part III—Void marriages	18
 Division 1—Marriages solemnized on or after 20 June 1977 and before the commencement of section 13 of the Marriage Amendment Act 1985	18
 22	Division to be subject to application of private international law	18
@@ -54,101 +53,115 @@ Division 1—Authorization of Ministers of Religion and other persons as celebr
 30	Registrar to register applicant	24
 31	Applicant may be refused registration in certain circumstances	24
 32	Effect of registration	24
-33	Removal from register	25
+33	Removal from register	24
 34	Review of refusal to register or removal from register	26
 35	Change of address etc. to be notified	27
 36	Transfer to another State etc.	27
 37	Furnishing of information by recognised denominations	27
 38	Registrars to furnish information to Attorney‑General	28
 39	Authorisation of other celebrants	28
-Division 2—Marriages by authorised celebrants	30
-40	Application of Division	30
-41	Marriages to be solemnized by authorised celebrant	30
-42	Notice to be given and declaration made	30
-42A	Commissioner of Australian Federal Police or approved authority may issue special notice	33
-43	Marriage may be solemnized on any day etc.	34
-44	Witnesses	34
-45	Form of ceremony	34
-46	Certain authorised celebrants to explain nature of marriage relationship	35
-47	Ministers of religion not bound to solemnize marriage etc.	35
-48	Certain marriages not solemnized in accordance with this Division to be invalid	36
-49	Authorised celebrant to retain consents, statutory declarations etc.	36
-50	Marriage certificates	37
-51	Incorrect marriage certificates	38
-Division 3—Marriages by foreign diplomatic or consular officers	40
-52	Interpretation	40
-53	Application of Division	40
-54	Governor‑General may declare countries to be proclaimed overseas countries	40
-55	Solemnization of marriages in Australia by foreign diplomatic or consular officer	40
-56	Recognition of marriages	41
-57	Registrar and Deputy Registrar of Foreign Marriages	41
-58	Register of Foreign Marriages Solemnized in Australia	42
-59	Searches and certified copies	42
-Part V—Marriages of members of the Defence Force overseas	43
-Division 3—Marriages of members of the Defence Force overseas	43
-71	Marriages of members of the Defence Force overseas	43
-72	Form and ceremony of marriage	43
-Division 4—General	44
-73	Validity of marriages	44
-74	Declaration to be made before chaplain	44
-75	Chaplain to be satisfied of parties’ identity	44
-76	Additional consent to marriage of minor domiciled outside Australia	44
-77	Restriction on solemnization of marriages under this Part	45
-78	Solemnization of marriages where a party to the marriage is not an Australian citizen etc.	46
-79	Chaplain to retain consents etc.	46
-80	Marriage certificate and registration of marriages	46
-81	Power to refuse to solemnize marriage	48
-82	Marriages may be solemnized on any day and at any time	48
-83	Validity of marriages under this Part	48
-84	Registration of overseas marriages attended by a chaplain	49
-85	Certificates of marriages solemnized in accordance with local law in an overseas country	49
-86	Evidence	50
-87	Validity of marriages otherwise than under this Part not affected	50
-88	Imperial Foreign Marriage Acts	51
-Part VA—Recognition of foreign marriages	52
-88A	Object of Part	52
-88B	Interpretation	52
-88C	Application of Part	52
-88D	Validity of marriages	53
-88E	Validity of certain marriages not affected by this Part	54
-88F	Incidental determination of recognition of certain foreign marriages	55
-88G	Evidence	55
-Part VI—Legitimation	57
-89	Legitimation by virtue of marriage of parents	57
-90	Legitimacy of children of certain foreign marriages	58
-91	Legitimacy of children of certain void marriages	59
-92	Declarations of legitimacy etc.	60
-93	Operation of certain State and Territory laws	61
-Part VII—Offences	62
-94	Bigamy	62
-95	Marrying person not of marriageable age etc.	63
-98	Contravention of subsection 13(3)	65
-99	Solemnizing marriage where notice or declaration not given or made etc.	65
-100	 Solemnizing marriage where reason to believe there is a legal impediment	65
-101	Solemnization of marriage by unauthorised person	66
-103	Going through ceremony of marriage before person not authorised to solemnize it	66
-104	Giving defective notice etc.	66
-105	Failure to comply with notice under section 51	66
-106	Failure by interpreter to furnish certificate etc.	67
-Part VIII—Transitional provisions	68
-107	Exercise of powers etc. before commencement of Act	68
-108	Application of offence provisions to notices etc. given before commencement of this Act	68
-109	Consents etc. given under State or Territory laws	69
-Part IX—Miscellaneous	70
-111	Certain marriages and legitimations to be valid in all the Territories	70
-111A	Abolition of action for breach of promise	70
-112	Interpreters at marriage ceremonies	70
-113	Second marriage ceremonies	71
-114	Correction of errors in marriage registries	73
-115	Publication of lists of authorised celebrants	74
-116	Judicial notice of signatures of Registrars, celebrants etc.	75
-117	Evidence of registration etc.	76
-118	Right of ministers of religion to receive fees	76
-120	Regulations	77
-The Schedule—Persons whose consent is required to the marriage of a minor	79
-Part I	79
-Part III	81
-Notes		83
+Division 2—Marriages by authorised celebrants	29
+40	Application of Division	29
+41	Marriages to be solemnized by authorised celebrant	29
+42	Notice to be given and declaration made	29
+42A	Commissioner of Australian Federal Police or approved authority may issue special notice	32
+43	Marriage may be solemnized on any day etc.	32
+44	Witnesses	32
+45	Form of ceremony	33
+46	Certain authorised celebrants to explain nature of marriage relationship	33
+47	Ministers of religion not bound to solemnize marriage etc.	34
+48	Certain marriages not solemnized in accordance with this Division to be invalid	34
+49	Authorised celebrant to retain consents, statutory declarations etc.	35
+50	Marriage certificates	35
+51	Incorrect marriage certificates	37
+Division 3—Marriages by foreign diplomatic or consular officers	38
+52	Interpretation	38
+53	Application of Division	38
+54	Governor‑General may declare countries to be proclaimed overseas countries	38
+55	Solemnization of marriages in Australia by foreign diplomatic or consular officer	39
+56	Recognition of marriages	39
+57	Registrar and Deputy Registrar of Foreign Marriages	39
+58	Register of Foreign Marriages Solemnized in Australia	40
+59	Searches and certified copies	40
+Part V—Solemnization of marriages overseas	41
+Division 1—Administration	41
+60	Interpretation	41
+61	Registrar of Overseas Marriages	41
+62	Appointment of marriage officers	41
+63	 Register of Overseas Marriages	42
+64	Searches and certified copies	42
+Division 2—Marriages by marriage officers	44
+65	Solemnization of overseas marriages	44
+66	Notice of marriage	44
+67	Notice to become void after 6 months	46
+68	Caveats	46
+69	Form and ceremony of marriage	47
+70	Marriage fee	48
+Division 3—Marriages by chaplains	49
+71	Marriages of members of the Defence Force overseas	49
+72	Form and ceremony of marriage	49
+Division 4—General	50
+73	Validity of marriages	50
+74	Declaration to be made before marriage officer or chaplain	50
+75	Marriage officer or chaplain to be satisfied of parties’ identity	50
+76	Additional consent to marriage of minor domiciled outside Australia	50
+77	Restriction on solemnization of marriages under this Part	51
+78	Solemnization of marriages where a party to the marriage is not an Australian citizen etc.	52
+79	Marriage officer or chaplain to retain consents etc.	52
+80	Marriage certificate and registration of marriages	52
+81	Power to refuse to solemnize marriage	54
+82	Marriages may be solemnized on any day and at any time	54
+83	Validity of marriages under this Part	54
+84	Registration of overseas marriages attended by a marriage officer or chaplain	55
+85	Certificates of marriages solemnized in accordance with local law in an overseas country	56
+86	Evidence	57
+87	Validity of marriages otherwise than under this Part not affected	57
+88	Imperial Foreign Marriage Acts	57
+Part VA—Recognition of foreign marriages	58
+88A	Object of Part	58
+88B	Interpretation	58
+88C	Application of Part	58
+88D	Validity of marriages	59
+88E	Validity of certain marriages not affected by this Part	60
+88F	Incidental determination of recognition of certain foreign marriages	61
+88G	Evidence	61
+Part VI—Legitimation	63
+89	Legitimation by virtue of marriage of parents	63
+90	Legitimacy of children of certain foreign marriages	64
+91	Legitimacy of children of certain void marriages	65
+92	Declarations of legitimacy etc.	66
+93	Operation of certain State and Territory laws	67
+Part VII—Offences	68
+94	Bigamy	68
+95	Marrying person not of marriageable age etc.	69
+98	Contravention of subsection 13(3)	71
+99	Solemnizing marriage where notice or declaration not given or made etc.	71
+100	 Solemnizing marriage where reason to believe there is a legal impediment	71
+101	Solemnization of marriage by unauthorised person	72
+103	Going through ceremony of marriage before person not authorised to solemnize it	72
+104	Giving defective notice etc.	72
+105	Failure to comply with notice under section 51	72
+106	Failure by interpreter to furnish certificate etc.	73
+Part VIII—Transitional provisions	74
+107	Exercise of powers etc. before commencement of Act	74
+108	Application of offence provisions to notices etc. given before commencement of this Act	74
+109	Consents etc. given under State or Territory laws	75
+110	Notices etc. given under Marriage (Overseas) Act	75
+Part IX—Miscellaneous	77
+111	Certain marriages and legitimations to be valid in all the Territories	77
+111A	Abolition of action for breach of promise	77
+112	Interpreters at marriage ceremonies	77
+113	Second marriage ceremonies	78
+114	Correction of errors in marriage registries	80
+115	Publication of lists of authorised celebrants	81
+116	Judicial notice of signatures of Registrars, celebrants etc.	82
+117	Evidence of registration etc.	83
+118	Right of ministers of religion to receive fees	83
+120	Regulations	84
+The Schedule—Persons whose consent is required to the marriage of a minor	86
+Part I		86
+Part III		88
+Notes		89
 
 An Act relating to Marriage
 Part I—Preliminary
@@ -175,12 +188,13 @@ chaplain means a chaplain in the Defence Force.
 Consul includes Consul‑General, Vice‑Consul, Pro‑Consul and Consular Agent.
 Family Court of a State means a Family Court of a State that has jurisdiction under the Family Law Act 1975 by virtue of a Proclamation under section 41 of that Act.
 Judge, in relation to the performance of a function under this Act in a State or Territory, means a person who is:
-	(a)	a Judge of the Family Court of Australia, or a Federal Magistrate of the Federal Magistrates Court, who is appointed by the Minister to be a person authorized to perform that function;
+	(a)	a Judge of the Family Court of Australia who is appointed by the Minister to be a person authorized to perform that function;
 	(b)	a Judge of a court of that State in respect of whom an appropriate arrangement in force under section 9 is applicable; or
 	(c)	a Judge of the Supreme Court of that Territory.
 magistrate means:
 	(a)	in relation to a State—a person who holds office as a Chief, Police, Stipendiary, Resident or Special Magistrate of the State and in respect of whom an appropriate arrangement in force under section 9 is applicable; and
 	(b)	in relation to a Territory—a person who holds office as a Chief, Police, Stipendiary, Resident or Special Magistrate of the Territory.
+marriage officer means a person appointed under Part V as a marriage officer.
 minister of religion means:
 	(a)	a person recognized by a religious body or a religious organization as having authority to solemnize marriages in accordance with the rites or customs of the body or organization; or
 	(b)	in relation to a religious body or a religious organization in respect of which paragraph (a) is not applicable, a person nominated by:
@@ -188,9 +202,17 @@ minister of religion means:
 	(ii)	such other person or authority acting on behalf of that body or organization as is prescribed;
 		to be an authorized celebrant for the purposes of this Act.
 minor means a person who has not attained the age of 18 years.
+official house, in relation to a marriage officer, means:
+	(a)	an official house of residence of the officer;
+	(b)	an office in which the business of the officer is transacted; or
+	(c)	a prescribed place;
+and, in the case of a marriage officer serving on the staff of an Ambassador, includes:
+	(d)	the official house of residence of the Ambassador; and
+	(e)	an office in which the business of the Ambassador is transacted.
 overseas country means a country or place other than a part of the Queen’s dominions, and, in Part V, includes a vessel which is for the time being in the territorial waters of such a country or place.
 prescribed authority means:
-	(a)	in relation to a marriage proposed to be solemnized in Australia—a person, being an officer or employee of the Commonwealth, a State or a Territory, appointed by the Minister to be a prescribed authority;
+	(a)	in relation to a marriage proposed to be solemnized in Australia—a person, being an authorized celebrant or a justice of the peace, appointed by the Minister to be a prescribed authority;
+	(b)	in relation to a marriage proposed to be solemnized in accordance with Division 2 of Part V—a marriage officer; or
 	(c)	in relation to a marriage proposed to be solemnized in accordance with Division 3 of Part V—a chaplain.
 recognized denomination means a religious body or a religious organization in respect of which a Proclamation under section 26 is in force.
 Territory means:
@@ -236,7 +258,7 @@ and, in relation to such marriages, applies both within and without Australia.
 	(g)	for enabling officers of that State to be appointed as authorized officers for the purposes of section 51.
 	(2)	A copy of each arrangement made under this section shall be published in the Gazette.
 9A  Persons who may exercise certain powers may be restricted by Proclamation
-	(1)	The Governor‑General may, by Proclamation, declare that, on and after a date fixed by the Proclamation, a power or function under this Act that is specified in the Proclamation, being a power or function expressed by this Act to be exercisable by a Judge, or by a Judge or magistrate, is not to be exercised, or is not to be exercised in a specified part of Australia, otherwise than by a Judge who is a Judge of the Family Court of Australia or of the Family Court of a State or a Federal Magistrate of the Federal Magistrates Court.
+	(1)	The Governor‑General may, by Proclamation, declare that, on and after a date fixed by the Proclamation, a power or function under this Act that is specified in the Proclamation, being a power or function expressed by this Act to be exercisable by a Judge, or by a Judge or magistrate, is not to be exercised, or is not to be exercised in a specified part of Australia, otherwise than by a Judge who is a Judge of the Family Court of Australia or of the Family Court of a State.
 	(2)	Proclamations under this Part in respect of different parts of Australia may be made from time to time.
 
 Part IA—Marriage education
@@ -288,23 +310,10 @@ the Judge or magistrate may, in his or her discretion, make the order sought, bu
 	(i)	the consent in writing of that person, duly witnessed and dated not earlier than 3 months before the date on which the marriage is solemnized or, in such cases as are prescribed, such other evidence that the consent of that person to the intended marriage has been given not earlier than that time as the regulations declare to be sufficient for the purposes of this section; or
 	(ii)	an effective consent in writing of a magistrate or a Judge under this Part in place of the consent of that person; and
 	(b)	in respect of any person whose consent to the marriage of the minor has been dispensed with by a prescribed authority—the dispensation in writing signed by the prescribed authority.
-	(2)	For the purposes of subsection (1), the consent of a person is only duly witnessed if the signature of that person was witnessed:
-	(a)	if the consent is signed in Australia—by one of the following persons:
-	(i)	an authorized celebrant;
-	(ii)	a Commissioner for Declarations under the Statutory Declarations Act 1959;
-	(iii)	a justice of the peace;
-	(iv)	a barrister or solicitor;
-	(v)	a legally qualified medical practitioner;
-	(vi)	a member of the Australian Federal Police or the police force of a State or Territory; or
-	(b)	if the consent is signed in any other place—by one of the following persons:
-	(i)	an Australian Diplomatic Officer;
-	(ii)	an Australian Consular Officer;
-	(iii)	a minister of religion of that place;
-	(iv)	a judge of a court of that place;
-	(v)	a magistrate or justice of the peace of or for that place;
-	(vi)	a notary public;
-	(vii)	an employee of the Commonwealth authorised under paragraph 3(c) of the Consular Fees Act 1955;
-	(viii)	an employee of the Australian Trade Commission authorised under paragraph 3(d) of the Consular Fees Act 1955.
+	(2)	For the purposes of subsection (1), the consent of a person is duly witnessed if the signature of that person was witnessed:
+	(a)	in the case of a consent signed in Australia—by an authorized celebrant, a Commissioner for Declarations under the Statutory Declarations Act 1959, a justice of the peace, a barrister or solicitor, a legally qualified medical practitioner or a member of the Australian Federal Police or the police force of a State or Territory; or
+	(b)	in the case of a consent signed in any other place—by an Australian Diplomatic Officer or an Australian Consular Officer, a minister of religion of that place, a judge of a court of that place, a magistrate or justice of the peace of or for that place or a notary public;
+and not otherwise.
 	(3)	A person shall not subscribe his or her name as a witness to the signature of a person to a consent to a marriage unless:
 	(a)	the person is satisfied on reasonable grounds as to the identity of that person; and
 	(b)	the consent bears the date on which the person subscribes his or her name as a witness.
@@ -523,32 +532,18 @@ Division 2—Marriages by authorised celebrants
 		A marriage shall be solemnized by or in the presence of an authorized celebrant who is authorized to solemnize marriages at the place where the marriage takes place.
 42  Notice to be given and declaration made
 	(1)	Subject to this section, a marriage shall not be solemnized unless:
-	(a)	notice in writing of the intended marriage has been given in accordance with this section and has been received by the authorized celebrant solemnizing the marriage not earlier than 18 months before the date of the marriage and not later than 1 month before the date of the marriage;
+	(a)	notice in writing of the intended marriage has been given in accordance with this section and has been received by the authorized celebrant solemnizing the marriage not earlier than 6 months before the date of the marriage and not later than 1 month before the date of the marriage;
 	(b)	there has been produced to that authorized celebrant, in respect of each of the parties:
 	(i)	an official certificate, or an official extract of an entry in an official register, showing the date and place of birth of the party; or
-	(ii)	a statutory declaration made by the party or a parent of the party stating that, for reasons specified in the declaration, it is impracticable to obtain such a certificate or extract and stating, to the best of the declarant’s knowledge and belief and as accurately as the declarant has been able to ascertain, when and where the party was born; or
-	(iii)	a passport issued by a government of an overseas country, showing the date and place of birth of the party; and
+	(ii)	a statutory declaration made by the party or a parent of the party stating that, for reasons specified in the declaration, it is impracticable to obtain such a certificate or extract and stating, to the best of the declarant’s knowledge and belief and as accurately as the declarant has been able to ascertain, when and where the party was born; and
 	(c)	each of the parties has made and subscribed before that authorized celebrant a declaration, in accordance with the prescribed form, as to:
 	(i)	the party’s conjugal status;
 	(ii)	the party’s belief that there is no legal impediment to the marriage; and
 	(iii)	such other matters as are prescribed.
 	(2)	A notice under subsection (1):
 	(a)	shall be in accordance with the prescribed form and contain such particulars in relation to the parties as are indicated in the prescribed form; and
-	(b)	must be signed by each of the parties; and
-	(c)	if a party signs the notice in Australia—must be signed in the presence of:
-	(i)	an authorised celebrant; or
-	(ii)	a Commissioner for Declarations under the Statutory Declarations Act 1959; or
-	(iii)	a justice of the peace; or
-	(iv)	a barrister or solicitor; or
-	(v)	a legally qualified medical practitioner; or
-	(vi)	a member of the Australian Federal Police or the police force of a State or Territory; and
-	(d)	if a party signs the notice outside Australia—must be signed in the presence of:
-	(i)	an Australian Diplomatic Officer; or
-	(ii)	an Australian Consular Officer; or
-	(iii)	a notary public; or
-	(iv)	an employee of the Commonwealth authorised under paragraph 3(c) of the Consular Fees Act 1955; or
-	(v)	an employee of the Australian Trade Commission authorised under paragraph 3(d) of the Consular Fees Act 1955.
-	(3)	However, if the signature of a party to an intended marriage cannot conveniently be obtained at the time when it is desired to give notice under this section, a notice duly signed by the other party and otherwise complying with the provisions of this section shall, if it is signed by the first‑mentioned party in the presence of an authorized celebrant before the marriage is solemnized, be deemed to have been a sufficient notice.
+	(b)	subject to subsection (3), shall have been signed by each of the parties in the presence of an authorized celebrant, a Commissioner for Declarations under the Statutory Declarations Act 1959, an Australian Diplomatic Officer, an Australian Consular Officer, a justice of the peace, a barrister or solicitor, a legally qualified medical practitioner or a member of the Australian Federal Police or the police force of a State or Territory.
+	(3)	Where the signature of a party to an intended marriage cannot conveniently be obtained at the time when it is desired to give notice under this section, a notice duly signed by the other party and otherwise complying with the provisions of this section shall, if it is signed by the first‑mentioned party in the presence of an authorized celebrant before the marriage is solemnized, be deemed to have been a sufficient notice.
 	(4)	Where a party to an intended marriage is unable, after reasonable inquiry, to ascertain all of the particulars in relation to that party required to be contained in a notice under this section, the failure to include in the notice such of those particulars as the party is unable to ascertain does not make the notice ineffective for the purposes of this section if, at any time before the marriage is solemnized, that party furnishes to the authorized celebrant solemnizing the marriage a statutory declaration as to that party’s inability to ascertain the particulars not included in the notice and the reason for that inability.
 	(5)	A prescribed authority may, if satisfied that the circumstances of the particular case justify so doing:
 	(a)	authorize an authorized celebrant to solemnize a marriage; or
@@ -641,7 +636,10 @@ the Registrar means the Registrar of Foreign Marriages.
 53  Application of Division
 		This Division applies to marriages, in accordance with the law or custom of a proclaimed overseas country, between parties of whom one at least possesses the nationality of that country.
 54  Governor‑General may declare countries to be proclaimed overseas countries
-		The Governor‑General may declare by Proclamation that a country is a proclaimed overseas country for the purposes of this Division if he or she is satisfied that the country’s law or custom authorizes the solemnization, by or in the presence of either or both diplomatic or consular officers of that country, of marriages outside that country.
+		Where the Governor‑General is satisfied, in relation to an overseas country, that:
+	(a)	the law or custom of that country authorizes the solemnization by or in the presence of diplomatic officers of that country, or consular officers of that country, or both, of marriages outside that country; and
+	(b)	the law or custom of that country permits marriages to be solemnized in that country under Division 2 of Part V;
+the Governor‑General may, by Proclamation, declare that country to be a proclaimed overseas country for the purposes of this Division.
 55  Solemnization of marriages in Australia by foreign diplomatic or consular officer
 		Nothing in this Act prevents the solemnization in Australia of a marriage to which this Division applies by or in the presence of a diplomatic or consular officer of a proclaimed overseas country if:
 	(a)	neither of the parties is an Australian citizen; and
@@ -666,8 +664,95 @@ the Registrar means the Registrar of Foreign Marriages.
 	(1)	Subject to payment of the prescribed fee, a person may, upon satisfying the Registrar that the person has good reason for so doing, cause a search to be made for an entry in the Register of Foreign Marriages Solemnized in Australia and receive a copy of the entry, or an extract of the entry, certified by the Registrar under his or her signature and seal to be a copy of the entry or an extract of the entry, as the case may be.
 	(2)	A copy of an entry in the Register certified in accordance with subsection (1) is, for all purposes, evidence of the marriage recorded in the entry.
 
-Part V—Marriages of members of the Defence Force overseas
-Division 3—Marriages of members of the Defence Force overseas
+Part V—Solemnization of marriages overseas
+Division 1—Administration
+60  Interpretation
+		In this Part, the Registrar means the Registrar of Overseas Marriages.
+61  Registrar of Overseas Marriages
+	(1)	For the purposes of this Part, there shall be a Registrar of Overseas Marriages, who shall be appointed by the Minister.
+	(2)	The Registrar shall have a seal, which shall be in such form as the Minister determines.
+	(3)	The Attorney‑General may appoint a person to be Deputy Registrar of Overseas Marriages and, in the event of the absence, through illness or otherwise, of the Registrar, or of a vacancy in the office of Registrar, the Deputy Registrar of Overseas Marriages has all the powers, and shall perform all the duties and functions, of the Registrar during the absence or vacancy.
+	(4)	The Deputy Registrar appointed under this section may, during any such absence, or vacancy in the office, of the Registrar:
+	(a)	certify copies of entries, or extracts of entries, in the Register of Overseas Marriages;
+	(b)	issue certificates under subsection 64(3); and
+	(c)	certify documents under subsection 85(2);
+under his or her signature and the seal of the Registrar, and a copy, extract or document so certified, or a certificate so issued, has the same force and effect as if it had been certified or issued by the Registrar under his or her signature and seal.
+62  Appointment of marriage officers
+		The Minister may, by writing signed by the Minister, appoint as a marriage officer:
+	(a)	a person appointed to hold or act in any of the following offices (being an office of the Commonwealth) in an overseas country:
+	(i)	Ambassador;
+	(ii)	High Commissioner;
+	(iii)	Counsellor or Secretary at an Embassy, High Commissioner’s Office, Legation or other post; and
+	(iv)	Consul; and
+	(b)	any other person qualified under the regulations to be appointed as a marriage officer.
+63   Register of Overseas Marriages
+	(1)	The Registrar shall keep a register, to be called the Register of Overseas Marriages, in such form as the Minister directs.
+	(2)	The Register of Overseas Marriages that was kept under section 8 of the Marriage (Overseas) Act 1955 shall be deemed to form part of the Register kept under this section.
+	(3)	The Registrar shall register in the Register all marriages which by this Part he or she is required to register.
+	(4)	The Registrar may register in the Register:
+	(a)	a marriage solemnized under the Marriage (Overseas) Act 1955 that has not been registered under that Act; or
+	(b)	a marriage, not being a marriage that has been registered under the Marriage (Overseas) Act 1955, that was solemnized before the commencement of this Act and in respect of which a certificate has been forwarded:
+	(i)	in pursuance of section 25 of the Marriage (Overseas) Act 1955; or
+	(ii)	in pursuance of section 84 of this Act.
+	(5)	The Registrar shall keep an index of the entries in the Register.
+64  Searches and certified copies
+	(1)	Subject to payment of the prescribed fee, a person may, upon satisfying the Registrar that the person has good reason for so doing, cause a search to be made for an entry in the Register and receive a copy of the entry, or an extract of the entry, certified by the Registrar under his or her signature and seal to be a copy of the entry or an extract of the entry, as the case may be.
+	(2)	A copy of an entry in the Register certified in accordance with subsection (1) is, for all purposes, evidence of the marriage recorded in the entry.
+	(3)	Where, upon a search made under this section, the Registrar finds that there is no entry in the Register of a marriage to which the search relates, the Registrar may issue a certificate to that effect under his or her signature and seal.
+	(4)	A certificate under subsection (3) is evidence of the facts stated in the certificate.
+
+Division 2—Marriages by marriage officers
+65  Solemnization of overseas marriages
+		Subject to this Part, a marriage between parties of whom one at least is an Australian citizen may be solemnized in an overseas country by or in the presence of a marriage officer.
+66  Notice of marriage
+	(1)	Subject to this section, a marriage shall not be solemnized by or in the presence of a marriage officer under this Division unless:
+	(a)	notice in writing of the intended marriage has been given in accordance with this section and has been received by the marriage officer solemnizing the marriage not later than 1 month before the date of the intended marriage; and
+	(b)	there has been produced to that marriage officer, in respect of each of the parties:
+	(i)	an official certificate, or an official extract of an entry in an official register, showing the date and place of birth of the party; or
+	(ii)	a statutory declaration made by the party or a parent of the party stating that, for reasons specified in the declaration, it is impracticable to obtain such a certificate and stating, to the best of the declarant’s knowledge and belief and as accurately as the declarant has been able to ascertain, when and where the party was born.
+	(2)	A notice under subsection (1):
+	(a)	shall be in accordance with the prescribed form and contain such particulars in relation to the parties as are indicated in the prescribed form;
+	(b)	shall have been signed by one of the parties, being an Australian citizen, before it is given; and
+	(c)	shall, before the marriage to which it relates is solemnized, be signed by each of the parties in the presence of a marriage officer.
+	(3)	Where a party to an intended marriage is unable, after reasonable inquiry, to ascertain all of the particulars in relation to that party required to be contained in a notice under this section, a failure to include in the notice such of those particulars as the party is unable to ascertain does not make the notice ineffective for the purposes of this section if, at any time before the marriage is solemnized, that party furnishes to the marriage officer solemnizing the marriage a statutory declaration as to that party’s inability to ascertain the particulars not included in the notice and the reason for that inability.
+	(4)	A marriage officer may, if satisfied that the circumstances of the particular case justify so doing, solemnize a marriage notwithstanding that the notice under this section has been received later than 1 month before the date of the marriage.
+	(5)	Where, by reason of the death, absence or illness of the marriage officer to whom a notice of intention to marry has been given, or for any other reason, it is impracticable for that officer to solemnize the marriage, the marriage may be solemnized by any marriage officer who has possession of the notice.
+	(6)	A marriage officer to whom notice of an intended marriage is given under this section shall post up a copy of the notice in a conspicuous place in the marriage officer’s office and keep it so posted up until the intended marriage is solemnized or the notice becomes void, whichever first occurs.
+	(7)	A notice given under this section and a copy of such a notice posted up in the office of a marriage officer under subsection (6) may be inspected, without fee, by any person at any reasonable time before the intended marriage to which the notice relates is solemnized or the notice becomes void, whichever first occurs.
+	(8)	Where a party to an intended marriage is stated in a notice under this section to be a divorced person or a widow or widower, a marriage officer shall not solemnize the marriage unless there is produced to the marriage officer evidence of that party’s divorce, or of the death of that party’s spouse, as the case requires.
+	(9)	A marriage officer shall not solemnize a marriage if the marriage officer has reason to believe that a notice given under this section, or a statutory declaration made for the purposes of this section, in respect of the marriage contains a false statement or an error or is defective.
+	(10)	A marriage officer may permit an error in a notice under this section to be corrected in his or her presence by either of the parties at any time before the marriage to which the notice relates has been solemnized and may treat the corrected notice as having been originally given in its corrected form.
+67  Notice to become void after 6 months
+	(1)	Subject to subsection (2), a notice of an intended marriage given to a marriage officer under section 66 becomes void at the expiration of a period of 6 months from the date on which the notice was received.
+	(2)	Where, within the period of 6 months referred to in subsection (1), a caveat against the solemnization of the marriage has been entered under section 68, the notice becomes void at the expiration of a period of 6 months from the date on which the caveat was entered.
+	(3)	A marriage officer shall not solemnize a marriage in pursuance of a notice that has become void.
+68  Caveats
+	(1)	Where notice of an intended marriage has been given to a marriage officer under section 66, a person may, on payment of the prescribed fee, enter with the marriage officer a caveat against the solemnization of the marriage.
+	(2)	A caveat under subsection (1) shall:
+	(a)	be in accordance with the prescribed form;
+	(b)	be signed by or on behalf of the person entering it; and
+	(c)	state the ground of objection to the solemnization of the marriage.
+	(3)	Where a caveat against the solemnization of an intended marriage is duly entered with a marriage officer, the marriage shall not be solemnized by the marriage officer unless:
+	(a)	the marriage officer, having inquired into the ground of objection specified in the caveat, is satisfied that the caveat ought not to prevent the solemnization of the marriage; or
+	(b)	the caveat has been withdrawn by the person who entered it.
+	(4)	In case of doubt, the marriage officer may transmit a copy of the caveat, with such statement with respect to the caveat as the marriage officer thinks fit, to the Minister, who shall, after such inquiry, if any, as the Minister thinks fit, give his or her decision in the matter to the marriage officer.
+	(5)	The marriage officer shall forthwith inform the person who entered the caveat and the parties to the intended marriage of the decision of the Minister and shall conform to that decision.
+69  Form and ceremony of marriage
+	(1)	A marriage by or in the presence of a marriage officer under this Division shall be solemnized:
+	(a)	at the official house of the marriage officer, in the presence of at least 2 witnesses who are, or appear to the marriage officer to be, over the age of 18 years; and
+	(b)	according to such form and ceremony as the parties to the marriage see fit to adopt.
+	(2)	The marriage officer shall, before the marriage is solemnized, say to the parties, in the presence of the witnesses, the words: 
+“I am authorized by the Marriage Act 1961 of Australia to solemnize marriages outside Australia.
+“Before you are joined in marriage in my presence and in the presence of these witnesses, I am to remind you of the solemn and binding nature of the relationship into which you are now about to enter. 
+“Marriage, according to law in Australia, is the union of a man and a woman to the exclusion of all others, voluntarily entered into for life.”;
+or words to that effect.
+	(3)	Unless, having regard to the form and ceremony of the marriage, the marriage officer considers it unnecessary for the parties to the marriage to do so, each of the parties shall, in some part of the ceremony and in the presence of the marriage officer and the witnesses, say to the other the words:
+“I call upon the persons here present to witness that I, A.B. (or C.D.), take thee, C.D. (or A.B.), to be my lawful wedded wife (or husband)”;
+or words to that effect.
+70  Marriage fee
+		The parties to a marriage solemnized under this Division shall pay to the marriage officer the prescribed fee.
+
+Division 3—Marriages by chaplains
 71  Marriages of members of the Defence Force overseas
 	(1)	Subject to this Part, a marriage between parties of whom one at least is a member of the Defence Force may be solemnized in an overseas country by or in the presence of a chaplain.
 	(2)	The Governor‑General may, by Proclamation, declare that a part of the Queen’s dominions that has been occupied by a state at war with the Commonwealth and in which facilities for marriage in accordance with the local law have not, in the opinion of the Governor‑General, been adequately restored shall be deemed to be an overseas country for the purposes of this section.
@@ -682,23 +767,23 @@ or words to that effect.
 Division 4—General
 73  Validity of marriages
 		A marriage solemnized under this Part, being a marriage which, if it had been solemnized in Australia in accordance with Division 2 of Part IV would have been a valid marriage, is valid throughout Australia and the external Territories.
-74  Declaration to be made before chaplain
-	(1)	A marriage shall not be solemnized under this Part unless each of the parties to the marriage has made and subscribed before the chaplain solemnizing the marriage a declaration, in accordance with the prescribed form, as to:
+74  Declaration to be made before marriage officer or chaplain
+	(1)	A marriage shall not be solemnized under this Part unless each of the parties to the marriage has made and subscribed before the marriage officer or chaplain solemnizing the marriage a declaration, in accordance with the prescribed form, as to:
 	(a)	the party’s conjugal status;
 	(b)	the party’s belief that there is no legal impediment to the marriage; and
 	(c)	such other matters as are prescribed.
 	(2)	The declarations of the parties required by subsection (1) shall both be written on the one paper and on the same side of that paper.
-	(3)	A chaplain shall not solemnize a marriage under this Part if he or she has reason to believe that a declaration made and subscribed under this section in relation to the marriage contains a false statement or an error or is defective.
-75  Chaplain to be satisfied of parties’ identity
-		A chaplain shall not solemnize a marriage under this Part unless the chaplain has satisfied himself or herself as to the identity of the parties.
+	(3)	A marriage officer or a chaplain shall not solemnize a marriage under this Part if he or she has reason to believe that a declaration made and subscribed under this section in relation to the marriage contains a false statement or an error or is defective.
+75  Marriage officer or chaplain to be satisfied of parties’ identity
+		A marriage officer or a chaplain shall not solemnize a marriage under this Part unless the marriage officer or chaplain has satisfied himself or herself as to the identity of the parties.
 76  Additional consent to marriage of minor domiciled outside Australia
 	(1)	Where:
 	(a)	a party to an intended marriage under this Part, not being an Australian citizen, has not attained the age of 18 years and is domiciled in a place outside Australia; and
 	(b)	the law of that place requires the consent of a person, other than a person whose consent is required under Part II, to the marriage of that party;
-the marriage shall not be solemnized unless the chaplain is satisfied that consent to the marriage has been given by that person.
+the marriage shall not be solemnized unless the marriage officer or chaplain is satisfied that consent to the marriage has been given by that person.
 	(2)	The requirement of subsection (1) is in addition to the requirements of Part II with respect to consents to the marriages of minors.
 77  Restriction on solemnization of marriages under this Part
-	(1)	A marriage shall not be solemnized in an overseas country under this Part unless the chaplain is satisfied:
+	(1)	A marriage shall not be solemnized in an overseas country under this Part unless the marriage officer or chaplain is satisfied:
 	(a)	that each of the parties to the intended marriage is an Australian citizen or a member of the Defence Force;
 	(b)	where 1 party to the intended marriage is not an Australian citizen or a member of the Defence Force:
 	(i)	that that party is not a subject or citizen of the overseas country; or
@@ -708,60 +793,63 @@ the marriage shall not be solemnized unless the chaplain is satisfied that conse
 	(2)	In this section, overseas country includes a country that is deemed to be an overseas country for the purposes of section 71.
 78  Solemnization of marriages where a party to the marriage is not an Australian citizen etc.
 	(1)	Subject to subsection (2), a marriage shall not be solemnized under this Part if 1 party to the intended marriage (in this section called the non‑Australian) is not an Australian citizen or a member of the Defence Force.
-	(2)	Subsection (1) does not apply where the chaplain is satisfied:
+	(2)	Subsection (1) does not apply where the marriage officer or chaplain is satisfied:
 	(a)	that the marriage will be recognized by the law of the country to which the non‑Australian belongs;
 	(b)	that some other marriage ceremony, in addition to the ceremony under this Part, has taken place, or is about to take place, between the parties and that the other ceremony is, or, when it has taken place, will be, recognized by the law of the country to which the non‑Australian belongs; or
 	(c)	that the Minister has approved of the solemnization of the marriage under this Part.
-79  Chaplain to retain consents etc.
-		A chaplain to whom a consent, dispensation with consent or statutory declaration is produced under this Act shall retain it in the possession of the chaplain until he or she deals with it in accordance with section 80.
+79  Marriage officer or chaplain to retain consents etc.
+		A marriage officer or a chaplain to whom a consent, dispensation with consent or statutory declaration is produced under this Act shall retain it in the possession of the marriage officer or chaplain until he or she deals with it in accordance with section 80.
 80  Marriage certificate and registration of marriages
-	(1)	Where a chaplain solemnizes a marriage under this Part, the chaplain shall:
+	(1)	Where a marriage officer or a chaplain solemnizes a marriage under this Part, the marriage officer or chaplain shall:
 	(a)	prepare a certificate of the marriage, in accordance with the prescribed form, for the purpose of issue to the parties to the marriage; and
 	(b)	prepare 2 official certificates of the marriage in accordance with the prescribed form.
 	(2)	Immediately after the solemnization of the marriage:
-	(a)	the chaplain; and
+	(a)	the marriage officer or chaplain, as the case may be;
 	(b)	each of the parties to the marriage; and
-	(c)	2 witnesses of the marriage who are, or appear to the chaplain to be, over the age of 18 years;
+	 (c)	2 witnesses of the marriage who are, or appear to the marriage officer or chaplain to be, over the age of 18 years;
 shall sign each of the certificates so prepared.
 	(3)	One of the official certificates shall be on the reverse side of the paper bearing the declarations made by the parties under section 74.
-	(4)	The chaplain shall:
+	(4)	The marriage officer or chaplain shall:
 	(a)	hand the certificate referred to in paragraph (1)(a) to one of the parties to the marriage on behalf of the parties;
-	(b)	forward the official certificate referred to in subsection (3), together with any statutory declarations, consents or dispensations with consents relating to the marriage that are in his or her possession, to the Registrar; and
+	(b)	forward the official certificate referred to in subsection (3), together with any notice under section 66 and any statutory declarations, consents or dispensations with consents relating to the marriage that are in his or her possession, to the Registrar; and
 	(c)	retain the other copy of the certificate in his or her possession for the prescribed period and, upon the expiration of that period, deal with the copy in accordance with the regulations.
-	(5)	Where the chaplain dies without having prepared and signed the certificates of the marriage, or where by reason of other special circumstances the Minister thinks it necessary to do so, the Minister may, if satisfied that the marriage was duly solemnized, prepare and sign the certificates with such modifications as are appropriate.
-	(6)	A certificate prepared and signed by the Minister under subsection (5) has the same force and effect as if it had been prepared and signed, in accordance with this section, by the chaplain.
+	(5)	Where the marriage officer or chaplain dies without having prepared and signed the certificates of the marriage, or where by reason of other special circumstances the Minister thinks it necessary to do so, the Minister may, if satisfied that the marriage was duly solemnized, prepare and sign the certificates with such modifications as are appropriate.
+	(6)	A certificate prepared and signed by the Minister under subsection (5) has the same force and effect as if it had been prepared and signed, in accordance with this section, by the marriage officer or chaplain.
 	(7)	Upon the receipt by the Registrar of the official certificate required to be forwarded to the Registrar in respect of a marriage, the Registrar shall register the marriage.
-	(8)	In the month of January in each year, a chaplain by whom, or in whose presence, a marriage has been, or marriages have been, solemnized in the preceding year shall forward to the Registrar, in accordance with the prescribed form, particulars of that marriage or those marriages.
-	(9)	If the certificate of a marriage is not received by the Registrar, the chaplain by whom it was issued shall, at the request of the Registrar:
+	(8)	In the month of January in each year, a marriage officer or chaplain by whom, or in whose presence, a marriage has been, or marriages have been, solemnized in the preceding year shall forward to the Registrar, in accordance with the prescribed form, particulars of that marriage or those marriages.
+	(9)	If the certificate of a marriage is not received by the Registrar, the marriage officer or chaplain by whom it was issued shall, at the request of the Registrar:
 	(a)	prepare a copy of the certificate;
-	(b)	certify, by writing signed by the chaplain, that the copy is a true copy of the certificate; and
+	(b)	certify, by writing signed by the marriage officer or chaplain, that the copy is a true copy of the certificate; and
 	(c)	forward the copy to the Registrar.
-	(10)	A certified copy of a certificate prepared by a chaplain under subsection (9) has, for all purposes, the same force and effect as the certificate of which it is a copy.
+	(10)	A certified copy of a certificate prepared by a marriage officer or chaplain under subsection (9) has, for all purposes, the same force and effect as the certificate of which it is a copy.
 81  Power to refuse to solemnize marriage
-		A chaplain may refuse to solemnize a marriage under this Part on any grounds which appear to the chaplain to be sufficient and, in particular, on the ground that, in the opinion of the chaplain, the solemnization of the marriage would be inconsistent with international law or the comity of nations.
+		A marriage officer or chaplain may refuse to solemnize a marriage under this Part on any grounds which appear to the marriage officer or chaplain to be sufficient and, in particular, on the ground that, in the opinion of the marriage officer or chaplain, the solemnization of the marriage would be inconsistent with international law or the comity of nations.
 82  Marriages may be solemnized on any day and at any time
 		A marriage under this Part may be solemnized on any day and at any time.
 83  Validity of marriages under this Part
 	(1)	A marriage under this Part is not invalid by reason of all or any of the following:
+	(a)	failure to give the notice required by section 66, or a false statement, defect or error in such a notice;
+	(b)	failure to produce to the marriage officer a certificate or extract of an entry or a statutory declaration as required by section 66, or a false statement, defect or error in such a declaration;
+	(c)	failure to comply with any other requirement of section 66, or any contravention of that section;
 	(d)	failure of the parties, or either of them, to make or subscribe a declaration required by section 74, or a false statement, defect or error in such a declaration;
-	(e)	the fact that the marriage was solemnized in contravention of any provision of section 72, 74, 75, 76, 77 or 78;
+	 (e)	the fact that the marriage was solemnized in contravention of any provision of section 67, 68, 69, 72, 74, 75, 76, 77 or 78;
 	(f)	failure to comply with the requirements of section 13.
-	(2)	A marriage under this Part is not invalid by reason that the person solemnizing it was not a chaplain if either party to the marriage, at the time the marriage was solemnized, believed that that person was lawfully authorized to solemnize it, and in such a case the form and ceremony of the marriage shall be deemed to have been sufficient if they were such as to show an intention on the part of each of the parties to become thereby the lawfully wedded spouse of the other.
-84  Registration of overseas marriages attended by a chaplain
+	(2)	A marriage under this Part is not invalid by reason that the person solemnizing it was not a marriage officer or chaplain if either party to the marriage, at the time the marriage was solemnized, believed that that person was lawfully authorized to solemnize it, and in such a case the form and ceremony of the marriage shall be deemed to have been sufficient if they were such as to show an intention on the part of each of the parties to become thereby the lawfully wedded spouse of the other.
+84  Registration of overseas marriages attended by a marriage officer or chaplain
 	(1)	Where:
-	(a)	a chaplain has attended a marriage in an overseas country between parties of whom at least one was an Australian citizen or a member of the Defence Force; and
-	(b)	the chaplain is satisfied that the marriage has taken place in accordance with the law of that country; and
-	(c)	a party to the marriage informs the chaplain, in writing, that he or she desires the marriage to be registered under this section;
-the chaplain shall forward to the Registrar a certificate, in accordance with the prescribed form, in respect of the marriage.
+	(a)	a marriage officer or chaplain has attended a marriage in an overseas country between parties of whom one at least was an Australian citizen or a member of the Defence Force;
+	(b)	the marriage officer or chaplain is satisfied that the marriage has taken place in accordance with the law of that country; and
+	(c)	a party to the marriage informs the marriage officer or chaplain, in writing, that he or she desires the marriage to be registered under this section;
+the marriage officer, upon payment of the prescribed fee, or the chaplain, as the case may be, shall forward to the Registrar a certificate, in accordance with the prescribed form, in respect of the marriage.
 	(2)	Upon receipt by the Registrar of a certificate under subsection (1) in respect of a marriage, the Registrar shall, subject to the regulations, register the marriage.
 85  Certificates of marriages solemnized in accordance with local law in an overseas country
 	(1)	Where:
 	(a)	a marriage takes place in a prescribed overseas country in accordance with the law of that country between parties of whom one at least is an Australian citizen or a member of the Defence Force;
-	(b)	a party to the marriage who is an Australian citizen or a member of the Defence Force produces to a chaplain in the country in which the marriage was solemnized:
+	(b)	a party to the marriage who is an Australian citizen or a member of the Defence Force produces to a marriage officer or chaplain in the country in which the marriage was solemnized:
 	(i)	a copy of the entry in respect of the marriage in the marriage register of that country certified by the appropriate authority in that country to be a true copy of that entry; and
 	(ii)	if the copy of that entry is not in the English language—a translation into the English language of that copy; and
-	(c)	the chaplain is satisfied that the copy of the entry in the marriage register is a true copy and that the translation, if any, is a true translation;
-the chaplain shall certify, upon the copy, that he or she is satisfied that the copy is a true copy of the entry in the marriage register and, upon the translation, that he or she is satisfied that the translation is a true translation of the copy and shall transmit the copy and the translation to the Registrar.
+	(c)	the marriage officer or chaplain is satisfied that the copy of the entry in the marriage register is a true copy and that the translation, if any, is a true translation;
+the marriage officer, upon payment of the prescribed fee, or the chaplain, as the case may be, shall certify, upon the copy, that he or she is satisfied that the copy is a true copy of the entry in the marriage register and, upon the translation, that he or she is satisfied that the translation is a true translation of the copy and shall transmit the copy and the translation to the Registrar.
 	(2)	The Registrar shall, upon payment of the prescribed fee, issue to a person who so desires a copy of any document received by the Registrar under subsection (1) certified by the Registrar, under his or her signature and seal, to be a true copy of that document.
 	(3)	A document relating to a marriage in an overseas country transmitted in pursuance of section 26 of the Marriage (Overseas) Act 1955 and received by the Registrar of Overseas Marriages appointed under that Act shall, for the purposes of this section, be deemed to have been, in pursuance of this section, transmitted to, and received by, the Registrar of Overseas Marriages appointed, or deemed to have been appointed, under this Act.
 	(4)	A document relating to a marriage in an overseas country issued under subsection (2) is admissible in evidence in any proceedings as if it were a certificate duly issued by the authorities of that country.
@@ -861,7 +949,7 @@ the child is for all purposes the legitimate child of his or her parents as from
 	(3)	Subsection (1) applies in relation to a child whether the child was born before or after the commencement of this Act, whether the ceremony of marriage took place before or after the commencement of this Act and whether the ceremony of marriage took place in or outside Australia.
 	(4)	This section does not apply in relation to a child so as to affect any estate, right or interest in real or personal property to which a person has become, or may become, entitled, either mediately or immediately, in possession or expectancy, by virtue of a disposition that took effect, or by devolution by law on the death of a person who died, before the birth of the child or the commencement of this Act, whichever was the later.
 92  Declarations of legitimacy etc.
-	(1)	A person may apply to the Family Court of Australia, the Federal Magistrates Court, a Family Court of a State or the Supreme Court of a State or Territory for an order declaring:
+	(1)	A person may apply to the Family Court of Australia, a Family Court of a State or the Supreme Court of a State or Territory for an order declaring:
 	(a)	that the person is the legitimate child of his or her parents; or
 	(b)	that the person or his or her parent or child or a remoter ancestor or descendant is or was a legitimated person;
 and the Court may, in its discretion, make the order.
@@ -929,6 +1017,7 @@ Note:	For strict liability, see section 6.1 of the Criminal Code.
 Penalty:	$500 or imprisonment for 6 months.
 99  Solemnizing marriage where notice or declaration not given or made etc.
 	(1)	An authorized celebrant shall not solemnize a marriage under Division 2 of Part IV in contravention of section 42 or 44.
+	(2)	A marriage officer shall not solemnize a marriage under Division 2 of Part V in contravention of section 66, 67, 68, 74, 75, 76, 77 or 78.
 	(3)	A chaplain shall not solemnize a marriage under Division 3 of Part V in contravention of section 74, 75, 76, 77 or 78.
 	(4)	A person shall not solemnize a marriage in contravention of section 13 or 112.
 	(5)	A person shall not solemnize a marriage in contravention of subsection 33(3).
@@ -944,7 +1033,8 @@ Penalty:	$500 or imprisonment for 6 months.
 		A person shall not go through a form or ceremony of marriage with another person knowing that the person solemnizing the marriage is not authorized to solemnize it and having reason to believe that the other party to the marriage believes that the person solemnizing the marriage is so authorized.
 Penalty:	$500 or imprisonment for 6 months.
 104  Giving defective notice etc.
-	(1)	A person shall not give a notice to an authorized celebrant under section 42, or sign a notice under section 42 after it has been given, if, to the knowledge of that person, the notice contains a false statement or an error or is defective.
+	(1)	A person shall not give a notice to an authorized celebrant under section 42, or to a marriage officer under section 66, or sign a notice under section 42 or section 66 after it has been given, if, to the knowledge of that person, the notice contains a false statement or an error or is defective.
+	(2)	A person shall not enter a caveat under section 68 if, to the knowledge of that person, the caveat contains a false statement or an error or is defective.
 Penalty:	$500 or imprisonment for 6 months.
 105  Failure to comply with notice under section 51
 	(1)	A person on whom a notice under section 51 has been duly served shall not fail to comply with the notice.
@@ -975,6 +1065,12 @@ at any time after the day on which the Proclamation under section 2 has been pu
 	(1)	A consent in writing to the marriage of a minor given by a person before the commencement of this Act in accordance with the law of a State or Territory shall, if the marriage in respect of which the consent was given takes place after the commencement of this Act in that State or Territory, be deemed to have been duly given and witnessed for the purposes of section 13.
 	(2)	Where the consent of a person to the marriage of a minor has, before the commencement of this Act, been dispensed with in pursuance of a law of a State or Territory, the consent of that person shall, if the marriage in respect of which it was dispensed with takes place after the commencement of this Act in that State or Territory, be deemed to have been dispensed with by a prescribed authority under Part II.
 	(3)	Where a person or authority has, before the commencement of this Act, in pursuance of a law of a State or Territory, given consent to the marriage of a minor in place of the consent of a person whose consent would otherwise be required, the consent so given shall, if the marriage in respect of which the consent was given takes place after the commencement of this Act in that State or Territory, be deemed to have been given by a magistrate under Part II.
+110  Notices etc. given under Marriage (Overseas) Act
+	(1)	Where:
+	(a)	notice of an intended marriage has been given to a marriage officer in accordance with section 10 of the Marriage (Overseas) Act 1955; and
+	(b)	the intended marriage has not been solemnized before the commencement of this Act;
+the notice shall be deemed to have been given in accordance with section 66 of this Act.
+	(2)	A caveat against the solemnization of an intended marriage entered in pursuance of section 11 of the Marriage (Overseas) Act 1955 and not disposed of in accordance with that section before the commencement of this Act shall be deemed to have been given in pursuance of section 68 of this Act.
 
 Part IX—Miscellaneous
 111  Certain marriages and legitimations to be valid in all the Territories
@@ -1030,7 +1126,7 @@ those persons may, subject to this section, go through a form or ceremony of mar
 	(2)	The list referred to in paragraph (1)(a) shall show:
 	(a)	in respect of each minister of religion registered under Division 1 of Part IV—his or her full name, designation, address and religious denomination; and
 	(b)	in respect of each other person—his or her full name, designation (if any) and address and, where appropriate, the religious body or religious organization to which he or she belongs.
-	(3)	The list referred to in paragraph (1)(b) shall show the full name, designation (if any) and address of each prescribed authority.
+	(3)	The list referred to in paragraph (1)(b) shall show the full name, designation (if any) and address of each prescribed authority and, where appropriate, the religious body or religious organization to which he or she belongs.
 	(4)	The inclusion of the name of a person in the latest list published in pursuance of paragraph (1)(a) is evidence that that person is an authorized celebrant and inclusion of the name of a person in the latest list published in pursuance of paragraph (1)(b) is evidence that that person is a prescribed authority.
 116  Judicial notice of signatures of Registrars, celebrants etc.
 	(1)	Judicial notice shall be taken of the signature of a person who holds or has held, or is acting or has acted in, the office of:
@@ -1039,7 +1135,7 @@ those persons may, subject to this section, go through a form or ceremony of mar
 	(c)	Registrar of Overseas Marriages; or
 	(d)	Deputy Registrar of Overseas Marriages;
 appearing on a document under this Act and of the fact that, at the time the document was signed by the person, he or she held, or was acting in, that office.
-	(2)	Judicial notice shall be taken of the signature of a person who is, or has been, an authorized celebrant or chaplain appearing on a document under this Act and of the fact that, at the time the document was signed by the person, he or she was an authorized celebrant or chaplain, as the case may be.
+	(2)	Judicial notice shall be taken of the signature of a person who is, or has been, an authorized celebrant, marriage officer or chaplain appearing on a document under this Act and of the fact that, at the time the document was signed by the person, he or she was an authorized celebrant, marriage officer or chaplain, as the case may be.
 	(3)	Judicial notice shall be taken of the signature of a person who has, at any time:
 	(a)	performed the functions of a Judge or magistrate under Part II of this Act or of a Judge under the Part repealed by the Marriage Amendment Act 1976;
 	(b)	performed the functions of a prescribed authority under this Act; or
@@ -1050,7 +1146,7 @@ appearing on a document under this Act and of the fact that, at the time the doc
 	(2)	A certificate under the hand of the Minister stating that a person specified in the certificate was not, at a date specified in the certificate, registered under Division 1 of Part IV is evidence that the person specified in the certificate was not registered under that Division at the date so specified.
 	(2A)	A certificate under the hand of the Minister stating that a specified person was at a specified date:
 	(a)	a person authorized under section 39 to solemnize marriages at the place and subject to the conditions (if any) specified in the certificate; or
-	(b)	an officer or employee of the Commonwealth, a State or a Territory, appointed by the Minister to be a prescribed authority;
+	(b)	an authorized celebrant or a justice of the peace appointed by the Minister to be a prescribed authority;
 is prima facie evidence of the matters stated in the certificate.
 	(3)	In a prosecution for an offence against this Act, an averment by the prosecutor in the information or complaint that the defendant or any other person specified in the averment is identical with the person specified in a certificate under this section is evidence of that fact.
 118  Right of ministers of religion to receive fees
@@ -1221,11 +1317,6 @@ Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001
 6 Apr 2001
 S. 4(1), (2) and Schedule 34: (h)
 S. 4(1), (2) [see Table A]
-Marriage Amendment Act 2002
-77, 2002
-8 Oct 2002
-Ss. 1‑3: Royal Assent Schedule 2 (items 1‑14, 16‑56): 5 Nov 2002 Remainder: [see (i), Note 2 and Table A]
-Sch. 1 (item 27), Sch. 2 (items 5, 10 and 17) [see Table A]
 (a)	The Marriage Act 1961 was amended by section 3 only of the Statute Law (Miscellaneous Provisions) Act 1988, subsection 2(1) of which provides as follows:
 	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 (b)	The Marriage Act 1961 was amended by section 49 only of the Law and Justice Legislation Amendment Act 1990, subsection 2(1) of which provides as follows:
@@ -1244,23 +1335,7 @@ Sch. 1 (item 27), Sch. 2 (items 5, 10 and 17) [see Table A]
 	(1)	Subject to this section, this Act commences at the later of the following times:
 	(a)	immediately after the commencement of item 15 of Schedule 1 to the Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000;
 	Item 15 commenced on 24 May 2001.
-(i)	The Marriage Act 1961 was amended by the Marriage Amendment Act 2002, subsections 2(1) (items 2 and 4), (3) and (4) of which provide as follows:
 
-Commencement information
-Column 1
-Column 2
-Column 3
-Provision(s)
-Commencement
-Date/Details
-2.  Schedule 1
-A day or days to be fixed by Proclamation, subject to subsection (3)
-TBP or 8 October 2003 [see Note 2]
-4.  Schedule 2, item 15
-A single day to be fixed by Proclamation, subject to subsection (4)
-TBP or 8 April 2003 [see Note 2]
-	(3)	If a provision covered by item 2 of the table does not commence within the period of 12 months beginning on the day on which this Act receives the Royal Assent, it commences on the first day after the end of that period.
-	(4)	If a provision covered by item 4 of the table does not commence within the period of 6 months beginning on the day on which this Act receives the Royal Assent, it commences on the first day after the end of that period.
 Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
@@ -1274,7 +1349,7 @@ am. No. 209, 1976
 
 rep. No. 38, 1988 
 S. 5	
-am. No. 35, 1973; No. 209, 1976; No. 2, 1982; No. 7, 1985; No. 38, 1988; No. 104, 1992; No. 77, 2002 
+am. No. 35, 1973; No. 209, 1976; No. 2, 1982; No. 7, 1985; No. 38, 1988; No. 104, 1992 
 S. 5A	
 ad. No. 24, 2001
 S. 6	
@@ -1287,8 +1362,6 @@ S. 9
 am. No. 209, 1976 
 S. 9A	
 ad. No. 209, 1976 
-
-am. No. 77, 2002
 Heading to Part IA	
 am. No. 7, 1985 
 Part IA	 (ss. 9B‑9E)
@@ -1320,7 +1393,7 @@ rs. No. 71, 1991
 S. 12	
 am. No. 35, 1973; No. 209, 1976; No. 7, 1985; No. 71, 1991
 S. 13	
-am. No. 35, 1973; No. 209, 1976; No. 7, 1985; No. 77, 2002 
+am. No. 35, 1973; No. 209, 1976; No. 7, 1985 
 S. 14	
 am. No. 209, 1976; No. 7, 1985 
 S. 15	
@@ -1380,7 +1453,7 @@ am. No. 7, 1985; No. 38, 1988
 S. 40	
 am. No. 7, 1985 
 S. 42	
-am. No. 35, 1973; No. 209, 1976; No. 7, 1985; No. 38, 1988; No. 77, 2002
+am. No. 35, 1973; No. 209, 1976; No. 7, 1985; No. 38, 1988
 S. 42A	
 ad. No. 124, 1994 
 S. 44	
@@ -1403,8 +1476,6 @@ S. 52
 am. No. 209, 1976 
 S. 54	
 am. No. 209, 1976 
-
-rs. No. 77, 2002
 S. 55	
 am. No. 216, 1973; No. 209, 1976
 
@@ -1417,84 +1488,44 @@ S. 58
 am. No. 209, 1976; No. 7, 1985; No. 38, 1988 
 S. 59	
 am. No. 7, 1985 
-Heading to Part V	
-rs. No. 77, 2002
-Div. 1 to Part V	 (ss. 60‑64)
-rep. No. 77, 2002
-S. 60	
-rep. No. 77, 2002
 S. 61	
 am. No. 209, 1976; No. 7, 1985; No. 38, 1988 
-
-rep. No. 77, 2002
 S. 62	
 am. No. 7, 1985; No. 38, 1988 
-
-rep. No. 77, 2002
 S. 63	
 am. No. 209, 1976; No. 7, 1985; No. 38, 1988 
-
-rep. No. 77, 2002
 S. 64	
 am. No. 7, 1985 
-
-rep. No. 77, 2002
-Div. 2 to Part V	 (ss. 65‑70)
-rep. No. 77, 2002
 S. 66	
 am. No. 209, 1976; No. 7, 1985; No. 38, 1988 
-
-rep. No. 77, 2002
 S. 67	
 am. No. 209, 1976; No. 7, 1985 
-
-rep. No. 77, 2002
 S. 68	
 am. No. 209, 1976; No. 7, 1985; No. 38, 1988 
-
-rep. No. 77, 2002
 S. 69	
 am. No. 209, 1976 
-
-rep. No. 77, 2002
-S. 70	
-rep. No. 77, 2002
-Heading Div. 3 to Part V	
-rs. No. 77, 2002
 S. 72	
 am. No. 209, 1976 
 S. 73	
 am. No. 209, 1976; No. 7, 1985 
-Heading to s. 74	
-am. No. 77, 2002
-S. 74	
-am. No. 7, 1985; No. 77, 2002 
-Heading to s. 75	
-am. No. 77, 2002
-S. 75	
-am. No. 7, 1985; No. 77, 2002 
+Ss. 74, 75	
+am. No. 7, 1985 
 S. 76	
-am. No. 209, 1976; No. 7, 1985; No. 77, 2002
+am. No. 209, 1976; No. 7, 1985
 S. 77	
-am. No. 209, 1976; No. 7, 1985; No. 71, 1991; No. 77, 2002
+am. No. 209, 1976; No. 7, 1985; No. 71, 1991
 S. 78	
-am. No. 7, 1985; No. 38, 1988; No. 71, 1991; No. 77, 2002 
-Heading to s. 79	
-am. No. 77, 2002
+am. No. 7, 1985; No. 38, 1988; No. 71, 1991 
 S. 79	
-am. No. 7, 1985; No. 77, 2002 
+am. No. 7, 1985 
 S. 80	
-am. No. 209, 1976; No. 7, 1985; No. 38, 1988; No. 77, 2002 
-S. 81	
-am. No. 77, 2002
+am. No. 209, 1976; No. 7, 1985; No. 38, 1988 
 S. 83	
-am. No. 209, 1976; No. 77, 2002 
-Heading to s. 84	
-am. No. 77, 2002
+am. No. 209, 1976 
 S. 84	
-am. No. 7, 1985; No. 77, 2002 
+am. No. 7, 1985 
 S. 85	
-am. No. 209, 1976; No. 7, 1985; No. 38, 1988; No. 77, 2002 
+am. No. 209, 1976; No. 7, 1985; No. 38, 1988 
 S. 86	
 am. No. 38, 1988 
 Part VA	 (ss. 88A‑88G)
@@ -1512,7 +1543,7 @@ rs. No. 7, 1985
 S. 91	
 am. No. 209, 1976; No. 7, 1985 
 S. 92	
-am. No. 209, 1976; No. 7, 1985; No. 38, 1988; No. 77, 2002 
+am. No. 209, 1976; No. 7, 1985; No. 38, 1988 
 S. 93	
 am. No. 7, 1985; No. 38, 1988 
 S. 94	
@@ -1527,18 +1558,14 @@ Heading to s. 98
 rs. No. 137, 2000
 S. 98	
 am. No. 93, 1966; No. 209, 1976; No. 7, 1985; No. 137, 2000 
-S. 99	
-am. No. 93, 1966; No. 209, 1976; No. 7, 1985; No. 77, 2002 
-Ss. 100, 101	
+Ss. 99‑101	
 am. No. 93, 1966; No. 209, 1976; No. 7, 1985 
 S. 102	
 am. No. 93, 1966; No. 209, 1976; No. 7, 1985 
 
 rep. No. 137, 2000
-S. 103	
+Ss. 103, 104	
 am. No. 93, 1966; No. 209, 1976 
-S. 104	
-am. No. 93, 1966; No. 209, 1976; No. 77, 2002 
 S. 105	
 am. No. 93, 1966; No. 209, 1976; No. 24, 2001 
 S. 106	
@@ -1547,13 +1574,7 @@ S. 107
 am. No. 209, 1976; No. 7, 1985 
 S. 108	
 am. No. 209, 1976; No. 7, 1985; No. 137, 2000 
-S. 109	
-am. No. 209, 1976; No. 7, 1985 
-S. 110	
-am. No. 209, 1976; No. 7, 1985 
-
-rep. No. 77, 2002
-S. 111	
+Ss. 109‑111	
 am. No. 209, 1976; No. 7, 1985 
 S. 111A	
 ad. No. 209, 1976 
@@ -1562,11 +1583,11 @@ am. No. 209, 1976; No. 7, 1985
 S. 114	
 am. No. 7, 1985 
 S. 115	
-am. No. 209, 1976; No. 7, 1985; No. 38, 1988; No. 77, 2002 
+am. No. 209, 1976; No. 7, 1985; No. 38, 1988 
 S. 116	
-am. No. 209, 1976; No. 7, 1985; No. 77, 2002 
+am. No. 209, 1976; No. 7, 1985 
 S. 117	
-am. No. 209, 1976; No. 7, 1985; No. 38, 1988; No. 77, 2002 
+am. No. 209, 1976; No. 7, 1985; No. 38, 1988 
 S. 119	
 am. No. 209, 1976
 
@@ -1575,202 +1596,6 @@ S. 120
 am. No. 93, 1966; No. 209, 1976; No. 38, 1988 
 The Schedule	
 am. No. 35, 1973; No. 38, 1988
-
-Note 2
-Marriage Amendment Act 2002 (No. 77, 2002)
-The following amendments commence on 8 October 2003 unless proclaimed earlier:
-Schedule 1
-1  Subsection 5(1) (definition of authorized celebrant)
-Repeal the definition, substitute:
-authorized celebrant means:
-	(a)	a minister of religion registered under Subdivision A of Division 1 of Part IV; or
-	(b)	a person authorized to solemnize marriages by virtue of Subdivision B of Division 1 of Part IV; or
-	(c)	a marriage celebrant.
-2  Subsection 5(1)
-Insert:
-marriage celebrant means a person registered under Subdivision C of Division 1 of Part IV.
-3  Paragraph 9(1)(f)
-After “under”, insert “Subdivision A of”.
-4  Division 1 of Part IV (heading)
-Repeal the heading, substitute:
-Division 1—Authorized celebrants
-5  Before section 25
-Insert:
-Subdivision A—Ministers of religion
-6  Subsections 25(1) and (2)
-Omit “Division” (wherever occurring), substitute “Subdivision”.
-7  Subsections 27(1) and (4)
-Omit “Division”, substitute “Subdivision”.
-8  Subsections 28(3) and (4)
-Omit “Division”, substitute “Subdivision”.
-9  Sections 29, 30 and 31
-Omit “Division” (wherever occurring), substitute “Subdivision”.
-Note:	The heading to section 29 is altered by omitting “Division” and substituting “Subdivision”.
-10  Section 32
-Omit “Division”, substitute “Subdivision”.
-11  Subsection 33(1)
-Omit “Division” (wherever occurring), substitute “Subdivision”.
-12  Subsections 34(1) and (5)
-Omit “Division”, substitute “Subdivision”.
-13  Subsection 35(1)
-Omit “Division”, substitute “Subdivision”.
-14  Sections 37 and 38
-Omit “Division” (wherever occurring), substitute “Subdivision”.
-15  After section 38
-Insert:
-Subdivision B—State and Territory officers etc.
-16  Subsection 39(2)
-Omit “or other fit and proper persons”.
-Note:	The heading to section 39 is altered by omitting “other celebrants” and substituting “State and Territory officers etc.”.
-17  Subsection 39(4)
-Repeal the subsection.
-18  At the end of Division 1 of Part IV
-Add:
-Subdivision C—Marriage celebrants
-39A  Registrar of Marriage Celebrants
-	(1)	There is to be a position occupied (on an acting, permanent, full‑time or part‑time basis) by an APS employee in the Department, the duties of which are expressed to consist of, or include, the performance of the functions given to the Registrar of Marriage Celebrants by or under this Act.
-	(2)	The APS employee occupying the position from time to time is the Registrar of Marriage Celebrants.
-	(3)	The Registrar of Marriage Celebrants is to perform those functions and has power to do all things necessary or convenient to be done for or in connection with the performance of those functions.
-39B  Register of marriage celebrants
-	(1)	The Registrar of Marriage Celebrants is to maintain a register of marriage celebrants.
-	(2)	The register may be kept in any way the Registrar thinks appropriate, including by electronic means.
-	(3)	The register may be made available for inspection in any way the Registrar thinks appropriate.
-	(4)	All information contained in the register must be made available on the Internet.
-	(5)	Any or all of the information contained in the register may also be disseminated in any other way the Registrar thinks appropriate, including by electronic means.
-39C  Entitlement to be registered as a marriage celebrant
-	(1)	A person is only entitled to be registered as a marriage celebrant if the person is an individual and the Registrar of Marriage Celebrants is satisfied that the person:
-	(a)	is aged 18 years or over; and
-	(b)	has all the qualifications, and/or skills, determined in writing to be necessary by the Registrar in accordance with regulations made for the purposes of this paragraph; and
-	(c)	is a fit and proper person to be a marriage celebrant.
-	(2)	In determining whether the Registrar is satisfied that the person is a fit and proper person to be a marriage celebrant, the Registrar must take into account:
-	(a)	whether the person has sufficient knowledge of the law relating to the solemnization of marriages by marriage celebrants; and
-	(b)	whether the person is committed to advising couples of the availability of relationship support services; and
-	(c)	whether the person is of good standing in the community; and
-	(d)	whether the person has been convicted of an offence, punishable by imprisonment for one year or longer, against a law of the Commonwealth, a State or a Territory; and
-	(e)	whether the person has an actual or potential conflict of interest between his or her practice, or proposed practice, as a marriage celebrant and his or her business interests or other interests; and
-	(f)	whether the person’s registration as a marriage celebrant would be likely to result in the person gaining a benefit in respect of another business that the person owns, controls or carries out; and
-	(g)	whether the person will fulfil the obligations under section 39G; and
-	(h)	any other matter the Registrar considers relevant to whether the person is a fit and proper person to be a marriage celebrant.
-	(3)	Nothing in this section affects the operation of Part VIIC of the Crimes Act 1914 (which includes provisions that, in certain circumstances, relieve persons from the requirement to disclose spent convictions and require persons aware of such convictions to disregard them).
-39D  Registration as a marriage celebrant
-	(1)	A person may apply to be registered as a marriage celebrant by giving the Registrar of Marriage Celebrants:
-	(a)	a completed application in the form specified by regulations made for the purposes of this paragraph; and
-	(b)	any statutory declarations required by the form.
-	(2)	The Registrar must deal with applications in the order in which they are received.
-	(3)	In dealing with an application, the Registrar:
-	(a)	must have regard to the information in the application; and
-	(b)	may have regard to any other information in his or her possession; and
-	(c)	is not required to seek any further information.
-	(4)	The Registrar must register a person as a marriage celebrant if:
-	(a)	the person has applied in accordance with subsection (1); and
-	(b)	the Registrar is satisfied that the person is entitled to be registered as a marriage celebrant.
-The Registrar must not register a person as a marriage celebrant in any other circumstances.
-	(5)	The Registrar registers a person as a marriage celebrant by entering in the register of marriage celebrants all details relating to the person that are required by regulations made for the purposes of this subsection.
-	(6)	If the Registrar registers a person as a marriage celebrant, the Registrar must notify the person in accordance with regulations made for the purposes of this subsection.
-	(7)	If the Registrar decides not to register a person as a marriage celebrant after dealing with the person’s application, the Registrar must inform the applicant in writing of:
-	(a)	the decision; and
-	(b)	the reasons for it; and
-	(c)	the person’s right under section 39J (if any) to apply for review of the decision.
-39E  Capping of number of marriage celebrants for 5 years
-	(1)	Despite subsection 39D(4), the Registrar of Marriage Celebrants must not register a person as a marriage celebrant if doing so would cause the breach of any applicable limit on the number of marriage celebrants determined in accordance with regulations made for the purposes of this subsection.
-Note:	A person who, because of this section, is not registered is entitled to written notice under subsection 39D(7).
-	(2)	Subsection (1) ceases to have effect at the end of the period of 5 years after this section commences.
-39F  Effect of registration
-		A person who is registered as a marriage celebrant may solemnize marriages at any place in Australia.
-39G  Obligations of each marriage celebrant
-		A marriage celebrant must:
-	(a)	conduct himself or herself in accordance with the Code of Practice for marriage celebrants prescribed by regulations made for the purposes of this paragraph; and
-	(b)	undertake all professional development activities required by the Registrar of Marriage Celebrants in accordance with regulations made for the purposes of this paragraph; and
-	(c)	notify the Registrar, in writing, within 30 days of:
-	(i)	a change that results in the details entered in the register in relation to the person no longer being correct; or
-	(ii)	the occurrence of an event that might have caused the Registrar not to register the person as a marriage celebrant if the event had occurred before the person was registered.
-Note:	If a marriage celebrant fails to comply with these obligations, the Registrar may take disciplinary measures under section 39I.
-39H  Performance reviews
-	(1)	The Registrar of Marriage Celebrants must regularly review each marriage celebrant’s performance to determine whether the Registrar considers that the marriage celebrant’s performance is satisfactory.
-	(2)	The first review must be completed within 5 years of the marriage celebrant being registered and must cover the period between registration and the end of the review. Each later review must be completed within 5 years of the previous review and must cover the period since the previous review.
-	(3)	In reviewing the performance of a marriage celebrant, the Registrar:
-	(a)	must consider the matters prescribed by regulations made for the purposes of this paragraph; and
-	(b)	may have regard to any information in his or her possession, but is not required to seek any further information.
-	(4)	The Registrar must not determine that a marriage celebrant’s performance in respect of a period was not satisfactory unless:
-	(a)	the Registrar has, in accordance with regulations made for the purposes of this paragraph, given the marriage celebrant a written notice:
-	(i)	stating the Registrar’s intention to make the determination unless, before the date specified in the notice (which must be at least 21 days after the date on which the notice was given), the marriage celebrant satisfies the Registrar that the marriage celebrant’s performance in respect of the period was satisfactory; and
-	(ii)	informing the marriage celebrant that any representations made to the Registrar before that date will be considered by the Registrar; and
-	(b)	the Registrar has considered any representations made by the marriage celebrant before the date specified in the notice; and
-	(c)	the determination is made in writing within 14 days after the date specified in the notice.
-39I  Disciplinary measures
-	(1)	The Registrar of Marriage Celebrants may only take disciplinary measures against a marriage celebrant if the Registrar:
-	(a)	is satisfied that the marriage celebrant is no longer entitled to be registered as a marriage celebrant; or
-	(b)	is satisfied that the marriage celebrant has not complied with an obligation under section 39G; or
-	(c)	has determined in writing under section 39H that the marriage celebrant’s performance in respect of a period was not satisfactory; or
-	(d)	is satisfied that it is appropriate to take disciplinary measures against the marriage celebrant after considering a complaint in accordance with the complaints resolution procedures established under paragraph 39K(c); or
-	(e)	is satisfied that the marriage celebrant’s application for registration was known by the marriage celebrant to be false or misleading in a material particular.
-	(2)	The only disciplinary measures that the Registrar may take against a marriage celebrant are to:
-	(a)	caution the marriage celebrant in writing; or
-	(b)	in accordance with regulations made for the purposes of this paragraph, require the marriage celebrant to undertake professional development activities determined in writing by the Registrar; or
-	(c)	suspend the marriage celebrant’s registration for a period (the suspension period) of up to 6 months by annotating the register of marriage celebrants to include:
-	(i)	a statement that the registration is suspended; and
-	(ii)	the dates of the start and end of the suspension period; or
-	(d)	deregister the marriage celebrant by removing his or her details from the register of marriage celebrants.
-Note:	A decision to suspend a marriage celebrant’s registration, or to deregister a marriage celebrant, is reviewable under section 39J.
-	(3)	If the Registrar suspends a marriage celebrant’s registration for a particular period, section 39F does not apply in respect of the marriage celebrant during the period.
-	(4)	If the Registrar decides to take disciplinary measures against a marriage celebrant, the Registrar:
-	(a)	must give the marriage celebrant written notice of:
-	(i)	the decision; and
-	(ii)	the reasons for it; and
-	(iii)	the disciplinary measure that is being taken; and
-	(iv)	the marriage celebrant’s right under section 39J to apply for review of the decision; and
-	(b)	may inform the community, in any way the Registrar thinks appropriate, including by electronic means, that the disciplinary measure is being taken against the marriage celebrant.
-39J  Review of decisions
-	(1)	An application may be made to the Administrative Appeals Tribunal for a review of a decision of the Registrar of Marriage Celebrants:
-	(a)	not to register a person as a marriage celebrant (unless a ground for the decision was that the Registrar would breach section 39E by registering the person); or
-	(b)	to suspend a person’s registration as a marriage celebrant; or
-	(c)	to deregister a marriage celebrant.
-	(2)	For the purposes of both the making of an application under subsection (1) and the operation of the Administrative Appeals Tribunal Act 1975 in relation to such an application, if:
-	(a)	a person has made application for registration as a marriage celebrant under section 39D; and
-	(b)	at the end of 3 months after the day on which the application was made, the person has not been:
-	(i)	registered; or
-	(ii)	notified by the Registrar that that person’s application has been refused;
-the Registrar is taken to have decided, on the last day of the 3 month period, not to register that person as a marriage celebrant.
-	(3)	The Registrar must take such action as is necessary to give effect to the Tribunal’s decision (even if doing so at the time the action is taken would cause a breach of a limit under section 39E).
-39K  Additional functions of the Registrar
-		The Registrar of Marriage Celebrants must:
-	(a)	amend the register of marriage celebrants in accordance with regulations made for the purposes of this paragraph; and
-	(b)	keep records relating to marriage celebrants, and the register of marriage celebrants, in accordance with regulations made for the purposes of this paragraph; and
-	(c)	establish complaints resolution procedures, in accordance with regulations made for the purposes of this paragraph, to resolve complaints about the solemnization of marriages by marriage celebrants; and
-	(d)	perform any additional functions specified in regulations made for the purposes of this paragraph.
-39L  Registrar not liable for damages
-		The Registrar of Marriage Celebrants is not liable to an action or other proceeding for damages in respect of anything done, or omitted to be done, in good faith in:
-	(a)	the exercise or performance; or
-	(b)	the purported exercise or performance;
-of powers or functions under this Act.
-39M  Evidence of registration etc.
-		A certificate, signed by the Registrar of Marriage Celebrants, stating that, at a specified time, or during a specified period:
-	(a)	a person was registered as a marriage celebrant; or
-	(b)	a person’s registration as a marriage celebrant was suspended; or
-	(c)	a person was not registered as a marriage celebrant;
-is prima facie evidence of that fact.
-19  Paragraph 115(2)(a)
-After “under”, insert “Subdivision A of”.
-20  Subsection 117(1)
-Omit “Division 1 of Part IV”, substitute “a Subdivision of Division 1 of Part IV (other than Subdivision C of that Division)”.
-21  Subsection 117(1)
-Omit “Division in”, substitute “Subdivision in”.
-22  Subsection 117(1)
-Omit “Division is”, substitute “Subdivision is”.
-23  Subsection 117(1)
-Omit “Division at”, substitute “Subdivision at”.
-24  Subsection 117(2)
-Omit “Division 1 of Part IV”, substitute “a Subdivision of Division 1 of Part IV (other than Subdivision C of that Division)”.
-25  Subsection 117(2)
-Omit “Division at”, substitute “Subdivision at”.
-26  Paragraph 120(d)
-Repeal the paragraph.
-The following amendment commences on 8 April 2003 unless proclaimed earlier:
-Schedule 2
-15  Subsection 42(5)
-Repeal the subsection, substitute:
-	(5)	Despite a notice required by subsection (1) having been received later than 1 month before the date of the marriage, a prescribed authority may authorise an authorized celebrant to solemnize a marriage if the authority is satisfied that one or more of the circumstances prescribed in the regulations have been met.
-As at 5 November 2002 the amendments are not incorporated in this compilation.
 Table A
 Application, saving or transitional provisions
 Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)
@@ -1793,22 +1618,4 @@ Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001 (
 4  Application of amendments
 	(1)	Subject to subsection (3), each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
 	(2)	For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
-
-Marriage Amendment Act 2002 (No. 77, 2002)
-Schedule 2
-5  Application of items 4 and 56
-The amendments made by items 4 and 56 apply in relation to appointments of prescribed authorities made after those items commence.
-10  Application of item 9
-The amendment made by item 9 applies in relation to notices of intention to marry given after the item commences.
-17  Application of item 16
-The amendment made by item 16 applies in relation to Proclamations declared after the item commences.
-The following provision commences on 8 October 2003 unless proclaimed earlier:
-Schedule 1
-27  Registration of existing marriage celebrants
-(1)	In this item:
-existing marriage celebrant means a person:
-	(a)	in respect of whom an instrument made under subsection 39(2) of the Marriage Act 1961 was in force immediately before the commencehment of item 18 of this Schedule; and
-	(b)	who was not authorized by that instrument to solemnize marriages as an officer of a State or Territory.
-(2)	Each existing marriage celebrant is taken to have been registered under Subdivision C of Division 1 of Part IV of the Marriage Act 1961 as a marriage celebrant on the date of the commencement of item 18 of this Schedule.
-(3)	As soon as practicable after the commencement of item 18 of this Schedule, the Registrar of Marriage Celebrants must enter in the register of marriage celebrants all details relating to the person that are required by regulations made for the purposes of subsection 39D(5) to be entered in the register in respect of a person who is registered as a marriage celebrant.
 
